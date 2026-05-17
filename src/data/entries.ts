@@ -8833,6 +8833,673 @@ Prozaik i scenarzysta. Jego powieści – "Kronika wypadków miłosnych" (1974),
     ],
     relatedIds: ['cenzura-prl', 'drugi-obieg', 'milosz', 'herbert', 'szymborska'],
   },
+
+  {
+    id: 'milosz',
+    title: 'Czesław Miłosz',
+    subtitle: 'Poeta, eseista i laureat Nagrody Nobla',
+    category: 'osoby',
+    tags: ['literatura', 'emigracja', 'Nobel', 'zniewolony umysł', 'Wilno'],
+    yearStart: 1911,
+    yearEnd: 2004,
+    summary: 'Jeden z największych polskich poetów XX wieku. Autor "Zniewolonego umysłu" – kluczowej analizy mechanizmów totalitaryzmu. Laureat Nagrody Nobla w dziedzinie literatury (1980). Przez dekady objęty zakazem publikacji w PRL.',
+    content: `Czesław Miłosz (1911–2004) – poeta, prozaik, eseista i tłumacz, jeden z najważniejszych twórców polskiej literatury XX wieku.
+
+**Życiorys i emigracja**
+
+Urodzony w Szetejniach na Litwie, wykształcony w Wilnie. W czasie II wojny światowej przebywał w Warszawie – był świadkiem Holokaustu i Powstania Warszawskiego. Po wojnie związał się z dyplomacją PRL – pracował jako attaché kulturalny w Nowym Jorku i Paryżu. W 1951 roku poprosił o azyl polityczny we Francji i osiedlił się w Paryżu, gdzie współpracował z Instytutem Literackim i paryską "Kulturą".
+
+**Zniewolony umysł (1953)**
+
+Napisany po emigracji esej filozoficzno-polityczny "Zniewolony umysł" stał się jedną z najważniejszych analiz mechanizmów intelektualnej kapitulacji przed totalitaryzmem. Miłosz opisał, jak wybitni polscy intelektualiści – ukryci pod fikcyjnymi imionami Alfa, Beta, Gamma, Delta – stopniowo zaakceptowali komunistyczną doktrynę. Książka była zakazana w PRL i krążyła w drugim obiegu.
+
+**Nobel i powrót do Polski**
+
+W 1960 roku Miłosz objął stanowisko profesora na Uniwersytecie Kalifornijskim w Berkeley, gdzie wykładał literaturę słowiańską do 1978 roku. W 1980 roku otrzymał Nagrodę Nobla w dziedzinie literatury – wyróżnienie, które zelektryzowało Polaków w czasie narodzin "Solidarności". Władze PRL początkowo przemilczały tę informację, jednak wieść rozeszła się błyskawicznie. Po Noblu był rehabilitowany – w 1981 roku odwiedził Polskę po raz pierwszy od 30 lat. W 1993 roku zamieszkał w Krakowie, gdzie spędził ostatnie lata życia.
+
+**Twórczość poetycka**
+
+Miłosz jest autorem tomów poetyckich takich jak "Ocalenie" (1945), "Światło dzienne" (1953), "Kroniki" (1987) czy "To" (2000). Jego poezja łączy metafizyczne poszukiwania z zaangażowaniem politycznym, nostalgią za utraconą Litwą i refleksją nad historią. Do najsłynniejszych wierszy należą "Campo di Fiori", "Który skrzywdziłeś", "Traktat moralny" i "Dar".
+
+**Inne ważne dzieła**
+
+- "Dolina Issy" (1955) – powieść autobiograficzna osadzona na Litwie
+- "Rodzinna Europa" (1959) – eseje o europejskiej tożsamości
+- "Ziemia Ulro" (1977) – rozważania filozoficzne i religijne
+- "Historia literatury polskiej" (1969) – fundamentalne opracowanie dla angielskojęzycznych czytelników
+- Tłumaczenia Biblii na język polski (wspólnie z biblistami)
+
+Miłosz pozostaje jednym z niewielu polskich twórców o światowym zasięgu oddziaływania.`,
+    resources: [
+      {
+        id: 'milosz-nobel',
+        title: 'Nagroda Nobla dla Czesława Miłosza 1980',
+        type: 'publikacja',
+        url: 'https://www.nobelprize.org/prizes/literature/1980/milosz/facts/',
+        source: 'Nobel Prize',
+        description: 'Oficjalna strona Nagrody Nobla – biogram i uzasadnienie przyznania nagrody',
+        year: 1980,
+      },
+      {
+        id: 'milosz-polona',
+        title: 'Dzieła Czesława Miłosza w zbiorach Biblioteki Narodowej',
+        type: 'publikacja',
+        url: 'https://polona.pl/',
+        source: 'Polona.pl',
+        description: 'Cyfrowe zasoby Biblioteki Narodowej zawierające pierwodruki i archiwalia',
+      },
+    ],
+    relatedIds: ['herbert', 'szymborska', 'kultura-paryz', 'drugi-obieg', 'emigracja-1968'],
+  },
+
+  {
+    id: 'szymborska',
+    title: 'Wisława Szymborska',
+    subtitle: 'Poetka – Nagroda Nobla 1996',
+    category: 'osoby',
+    tags: ['literatura', 'poezja', 'Nobel', 'Kraków', 'ironia'],
+    yearStart: 1923,
+    yearEnd: 2012,
+    summary: 'Wybitna polska poetka, laureatka Nagrody Nobla w dziedzinie literatury (1996). Związana z Krakowem i tygodnikiem "Życie Literackie". Jej poezja łączy filozoficzną głębię z dowcipem i precyzją języka.',
+    content: `Wisława Szymborska (1923–2012) – jedna z najważniejszych poetek polskich XX wieku, laureatka Nagrody Nobla w dziedzinie literatury (1996). Przez całe twórcze życie związana z Krakowem.
+
+**Życiorys**
+
+Urodzona 2 lipca 1923 roku w Bninie (dziś część Kórnika) w Wielkopolsce. W czasie II wojny światowej pracowała jako rysowniczka na kolei. Po wojnie studiowała polonistykę i socjologię na Uniwersytecie Jagiellońskim. Od 1953 roku przez ponad 20 lat prowadziła stałą rubrykę krytycznoliteracką "Lektury nadobowiązkowe" w krakowskim tygodniku "Życie Literackie".
+
+**Wczesna twórczość i zwrot**
+
+Pierwsze tomy poetyckie – "Dlatego żyjemy" (1952) i "Pytania zadawane sobie" (1954) – były obciążone socrealizmem, co sama poetka później uznawała za błąd i artystyczną porażkę. Przełom nastąpił z tomem "Wołanie do Yeti" (1957) – Szymborska znalazła własny głos: ironiczny, filozoficzny, pełen zaskakujących pytań o rzeczy z pozoru oczywiste.
+
+**Dojrzała poezja**
+
+Kolejne tomy – "Sól" (1962), "Sto pociech" (1967), "Wszelki wypadek" (1972), "Wielka liczba" (1976), "Ludzie na moście" (1986), "Koniec i początek" (1993) – ugruntowały jej pozycję jako poetki zadającej fundamentalne pytania egzystencjalne za pomocą pozornie codziennych obrazów. Wiersze takie jak "Rozmowa z kamieniem", "Nic dwa razy", "Bufet", "Obóz głodowy pod Jasłem" czy "Koniec i początek" weszły do kanonu polskiej literatury.
+
+**Nobel 1996**
+
+Szwedzka Akademia przyznała Szymborskiej Nagrodę Nobla "za poezję, która z ironiczną precyzją pozwala historycznemu i biologicznemu kontekstowi ukazywać się we fragmentach ludzkiej rzeczywistości". W słynnym wykładzie noblowskim "Poeta i świat" Szymborska mówiła o roli niezwykłości w tworzeniu poezji.
+
+**Prywatność i skromność**
+
+Szymborska słynęła z niechęci do rozgłosu i wywiadów. Przez dekady pisała odręcznie ilustrowane pocztówki – tzw. "limeryki" i kolaże – rozsyłane przyjaciołom. Unikała medialnego życia nawet po Noblu. Jej prywatna korespondencja i archiwum stały się podstawą wielu pośmiertnych publikacji.
+
+Poetka zmarła 1 lutego 2012 roku w Krakowie.`,
+    resources: [
+      {
+        id: 'szymborska-nobel',
+        title: 'Nagroda Nobla dla Wisławy Szymborskiej 1996',
+        type: 'publikacja',
+        url: 'https://www.nobelprize.org/prizes/literature/1996/szymborska/facts/',
+        source: 'Nobel Prize',
+        description: 'Oficjalna strona z biogramem, wykładem noblowskim i uzasadnieniem nagrody',
+        year: 1996,
+      },
+      {
+        id: 'szymborska-wolne-lektury',
+        title: 'Wybór wierszy Szymborskiej',
+        type: 'publikacja',
+        url: 'https://wolnelektury.pl/',
+        source: 'Wolne Lektury',
+        description: 'Cyfrowa biblioteka z dostępem do wybranych tekstów polskiej literatury',
+      },
+    ],
+    relatedIds: ['milosz', 'herbert', 'literatura-prl', 'drugi-obieg', 'kultura-paryz'],
+  },
+
+  {
+    id: 'herbert',
+    title: 'Zbigniew Herbert',
+    subtitle: 'Poeta – Pan Cogito i poezja oporu',
+    category: 'osoby',
+    tags: ['literatura', 'poezja', 'opór', 'Pan Cogito', 'etyka'],
+    yearStart: 1924,
+    yearEnd: 1998,
+    summary: 'Jeden z najwybitniejszych polskich poetów powojennych. Twórca postaci Pana Cogito – alter ego poety broniącego godności wobec totalitaryzmu. Symbol moralnego i poetyckiego oporu wobec PRL.',
+    content: `Zbigniew Herbert (1924–1998) – poeta, dramaturg i eseista, jeden z filarów powojennej poezji polskiej. Jego twórczość jest głęboko zakorzeniona w tradycji śródziemnomorskiej i etyce humanistycznej.
+
+**Życiorys**
+
+Urodzony we Lwowie 29 października 1924 roku. Uczestnik konspiracji podczas II wojny światowej – żołnierz Armii Krajowej. Po wojnie zamierzał studiować prawo i ekonomię, ale jako były akowiec był prześladowany i nie mógł prowadzić normalnej kariery. Pracował fizycznie – jako magazynier, kalkulator, pracownik banku. Debiutował literacko dopiero w 1956 roku tomem "Struna światła", gdy "odwilż" pozwoliła na pewne złagodzenie cenzury.
+
+**Twórczość**
+
+Kolejne tomy – "Hermes, pies i gwiazda" (1957), "Studium przedmiotu" (1961), "Napis" (1969), "Pan Cogito" (1974), "Raport z oblężonego miasta" (1983), "Rovigo" (1992) – uczyniły z Herberta głos sumienia polskiej literatury. Szczególne znaczenie ma cykl wierszy o Panu Cogito – filozoficznym alter ego poety, który rozważa miejsce jednostki wobec historii, tyranii i śmierci.
+
+**Pan Cogito i etyka**
+
+Słynny wiersz "Przesłanie Pana Cogito" kończący się słowami: *"idź wyprostowany wśród tych co na kolanach / wśród odwróconych plecami i obalonych w proch"* stał się moralnym manifestem pokolenia oporu. Podczas stanu wojennego "Raport z oblężonego miasta" odczytywano jako komentarz do aktualnej sytuacji w Polsce, choć formalnie nawiązywał do obrony Zbrutusa.
+
+**Eseje**
+
+Herbert pisał też wybitne eseje o sztuce i kulturze śródziemnomorskiej: "Barbarzyńca w ogrodzie" (1962), "Martwa natura z wędzidłem" (1993) i "Labirynt nad morzem" (2000, pośm.) – błyskotliwe opisy dzieł sztuki i miejsc Europy Zachodniej.
+
+**Emigracja i powroty**
+
+Wielokrotnie wyjeżdżał za granicę – do Francji, Niemiec, Austrii, USA – ale zawsze wracał do Polski. W latach 80. mieszkał głównie za granicą. Był wielokrotnie typowany do Nagrody Nobla. Zamiast Nobla dostał inne najważniejsze nagrody europejskie – m.in. Nagrodę Herdera i Nagrodę Jerozolimską.
+
+Herbert zmarł 28 lipca 1998 roku w Warszawie.`,
+    resources: [
+      {
+        id: 'herbert-cogito',
+        title: 'Przesłanie Pana Cogito – tekst wiersza',
+        type: 'publikacja',
+        url: 'https://wolnelektury.pl/',
+        source: 'Wolne Lektury',
+        description: 'Cyfrowa biblioteka z dostępem do polskiej literatury',
+      },
+      {
+        id: 'herbert-ipn',
+        title: 'Zbigniew Herbert w zbiorach IPN',
+        type: 'dokument',
+        url: 'https://inwentarz.ipn.gov.pl/',
+        source: 'IPN – Inwentarz Archiwów',
+        description: 'Materiały archiwalne dotyczące inwigilacji środowisk literackich',
+      },
+    ],
+    relatedIds: ['milosz', 'szymborska', 'literatura-prl', 'drugi-obieg', 'stan-wojenny'],
+  },
+
+  {
+    id: 'kultura-paryz',
+    title: 'Paryska "Kultura" i Jerzy Giedroyc',
+    subtitle: 'Emigracyjny ośrodek myśli niepodległościowej',
+    category: 'kultura',
+    tags: ['emigracja', 'Giedroyc', 'Maisons-Laffitte', 'drugi obieg', 'pismo literackie'],
+    yearStart: 1947,
+    yearEnd: 2000,
+    summary: 'Miesięcznik "Kultura" wydawany przez Instytut Literacki w Paryżu (Maisons-Laffitte) był najważniejszym emigracyjnym periodykiem polityczno-literackim. Pod redakcją Jerzego Giedroycia kształtował myśl niepodległościową i program ULB.',
+    content: `Miesięcznik "Kultura" (1947–2000) – najważniejsze emigracyjne pismo polskie, wydawane przez Instytut Literacki w Maisons-Laffitte pod Paryżem, założone i redagowane przez Jerzego Giedroycia (1906–2000).
+
+**Instytut Literacki i jego geneza**
+
+Instytut Literacki powstał w 1946 roku w Rzymie, a rok później przeniósł się do Paryża. Pierwsza "Kultura" ukazała się w czerwcu 1947 roku. Od 1954 roku redakcja działała w domu przy avenue de Poissy w Maisons-Laffitte – miejscu, które stało się kultowym centrum polskiej emigracyjnej kultury.
+
+**Jerzy Giedroyc – redaktor i wizjoner**
+
+Giedroyc był nie tylko redaktorem, ale strategicznym myślicielem kształtującym politykę Instytutu. Dobierał współpracowników – Juliusza Mieroszewskiego, Józefa Czapskiego, Zofię Hertz, Konstantego Jeleńskiego. Prowadził rozległą korespondencję z pisarzami, politykami i intelektualistami w Polsce i na świecie. "Kultura" była dla wielu twórców w PRL – od Miłosza po Herberta – pierwszym miejscem nieskrępowanej publikacji.
+
+**Program ULB**
+
+Jednym z najważniejszych wkładów "Kultury" w polską myśl polityczną był program ULB (Ukraina – Litwa – Białoruś), opracowany głównie przez Juliusza Mieroszewskiego. Zakładał on, że wolna Polska powinna zrzec się roszczeń do Kresów i budować sojusz z narodami sąsiednimi – co w czasach, gdy nie mówiono jeszcze o rozpadzie ZSRR, brzmiało rewolucyjnie. Program ten okazał się proroczy i stał się podstawą polskiej polityki wschodniej po 1989 roku.
+
+**Rola w kulturze PRL**
+
+"Kultura" przemycana do kraju stanowiła jedno z najważniejszych źródeł informacji i alternatywnej myśli. Posiadanie jej egzemplarza było przestępstwem. Władze PRL zwalczały pismo – agenci SB infiltrowali redakcję, kolportaż był ścigany, autorzy byli zastraszani. Mimo to pismo docierało do intelektualistów, działaczy opozycji i księży.
+
+**Schyłek i dziedzictwo**
+
+Po 1989 roku "Kultura" kontynuowała działalność, choć straciła na znaczeniu politycznym. Giedroyc konsekwentnie odmawiał powrotu do Polski i przyjmowania nagród. Pismo ukazało się po raz ostatni w grudniu 2000 roku – po śmierci swojego twórcy. Archiwum Instytutu Literackiego jest dziś udostępniane badaczom i stanowi bezcenne źródło do dziejów polskiej emigracji.`,
+    resources: [
+      {
+        id: 'kultura-archiwum',
+        title: 'Archiwum "Kultury" paryskiej online',
+        type: 'publikacja',
+        url: 'https://www.kulturaparyska.com/',
+        source: 'Fundacja Kultury Paryskiej',
+        description: 'Pełne archiwum numerów miesięcznika "Kultura" w wersji cyfrowej',
+        year: 1947,
+      },
+      {
+        id: 'kultura-ipn',
+        title: 'Inwigilacja Instytutu Literackiego przez SB',
+        type: 'dokument',
+        url: 'https://inwentarz.ipn.gov.pl/',
+        source: 'IPN – Inwentarz Archiwów',
+        description: 'Materiały dotyczące działań SB wobec emigracyjnych ośrodków kulturalnych',
+      },
+    ],
+    relatedIds: ['milosz', 'drugi-obieg', 'emigracja-1968', 'polacy-na-emigracji', 'cenzura-prl'],
+  },
+
+  {
+    id: 'emigracja-1968',
+    title: 'Emigracja Marca 1968',
+    subtitle: 'Antysemicka kampania i wyjazd 13–15 tysięcy Żydów polskich',
+    category: 'represje',
+    tags: ['Marzec 1968', 'antysemityzm', 'emigracja', 'Moczar', 'Żydzi polscy'],
+    yearStart: 1968,
+    yearEnd: 1972,
+    summary: 'Po wydarzeniach Marca 1968 roku i antysemickiej kampanii władz PRL kraj opuściło 13–15 tysięcy polskich Żydów. Była to ostatnia wielka emigracja żydowska z Polski – kres tysięcletniej obecności Żydów na ziemiach polskich.',
+    content: `Emigracja po Marcu 1968 roku – masowy wyjazd polskich Żydów zmuszonych do opuszczenia kraju w wyniku antysemickiej kampanii prowadzonej przez władze PRL.
+
+**Kontekst Marca 1968**
+
+Marzec 1968 był wieloaspektowym kryzysem: studencki bunt przeciwko cenzurze (sprawa "Dziadów" Mickiewicza), rozrachunki frakcyjne w PZPR i antysemicka kampania prowadzona przez frakcję "partyzantów" Mieczysława Moczara. Pretekstem do rozpętania antysemityzmu stała się Sześciodniowa Wojna arabsko-izraelska (1967) – polska propaganda oskarżyła "syjonistów" o sprzyjanie wrogowi.
+
+**Mechanizm wymuszonej emigracji**
+
+Żydzi polscy – z których większość nie miała żadnych powiązań z Izraelem – byli masowo zwalniani z pracy, wyrzucani ze studiów, pozbawiani mieszkań. Dziennikarze, naukowcy, prawnicy, lekarze stracili stanowiska z dnia na dzień. Jedynym wyjściem było ubieganie się o wyjazd "do Izraela" – choć wiele rodzin wybrało RFN, Szwecję, Danię czy USA. Opuszczający kraj musieli zrzec się polskiego obywatelstwa i podpisać oświadczenie, że wyjeżdżają dobrowolnie.
+
+**Skala i zasięg**
+
+Szacuje się, że w latach 1968–1972 Polskę opuściło 13–15 tysięcy osób żydowskiego pochodzenia. Wśród emigrantów były osoby o ogromnym znaczeniu dla polskiej kultury i nauki: historycy, matematycy, kompozytorzy, lekarze, prawnicy. Wielu z nich nigdy nie wróciło do Polski.
+
+**Dziedzictwo**
+
+Emigracja 1968 roku była ostatnim wielkim rozdziałem ponad tysiącletniej obecności Żydów na ziemiach polskich. Po tym wyjeździe społeczność żydowska w Polsce stopniała do kilku tysięcy osób. Wielu emigrantów przez dekady nie rozmawiało o swoich przeżyciach, co prowadziło do tzw. "przemilczanego pokolenia". Dopiero po 1989 roku zaczęto dokumentować te losy – powstawały filmy, książki i wystawy poświęcone marcowym emigrantom.
+
+**Rehabilitacja**
+
+W 1983 roku władze PRL formalnie "zrehabilitowały" część wyrzuconych z partii, ale bez przywrócenia im stanowisk czy praw. Prawdziwa rehabilitacja nastąpiła po 1989 roku – Polska oferowała m.in. przywrócenie obywatelstwa. Znaczna część emigrantów i ich dzieci odwiedziła kraj, niektórzy wrócili na stałe.`,
+    resources: [
+      {
+        id: 'emigracja-68-ipn',
+        title: 'Marzec 1968 – materiały edukacyjne IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły i materiały dotyczące antysemickiej kampanii i emigracji po 1968 roku',
+        year: 1968,
+      },
+      {
+        id: 'emigracja-68-szukaj',
+        title: 'Dokumenty dotyczące emigracji po 1968 roku',
+        type: 'dokument',
+        url: 'https://szukajwarchiwach.gov.pl/',
+        source: 'Szukaj w Archiwach',
+        description: 'Archiwa państwowe zawierające dokumenty związane z wyjazdami 1968–1972',
+      },
+    ],
+    relatedIds: ['marzec-1968', 'moczar', 'kielce-1946', 'represje-polityczne', 'polacy-na-emigracji'],
+  },
+
+  {
+    id: 'sport-prl',
+    title: 'Sport w PRL',
+    subtitle: 'Sukcesy olimpijskie, piłka nożna i propagandowe użycie sportu',
+    category: 'społeczeństwo',
+    tags: ['sport', 'olimpiada', 'piłka nożna', 'boks', 'lekkoatletyka', 'propaganda'],
+    yearStart: 1944,
+    yearEnd: 1989,
+    summary: 'Sport w PRL był narzędziem propagandy i dowodem "wyższości ustroju socjalistycznego", a jednocześnie prawdziwą pasją milionów Polaków. Polscy sportowcy zdobywali medale olimpijskie i osiągali sukcesy na arenach światowych.',
+    content: `Sport w Polskiej Rzeczypospolitej Ludowej pełnił podwójną funkcję: propagandową – jako dowód wyższości socjalizmu – i autentycznej pasji społecznej.
+
+**Organizacja sportu**
+
+Sport w PRL był zorganizowany wokół zakładowych klubów sportowych (Legia Warszawa – wojsko, Górnik Zabrze – górnictwo, Gwardia – milicja, Wisła Kraków – MO/SB, Zagłębie – przemysł ciężki). Finansowanie odbywało się ze środków państwowych za pośrednictwem zjednoczeń przemysłowych. Sportowcy byli formalnie "amatorami", ale de facto zawodowcami.
+
+**Sukcesy olimpijskie**
+
+Polska odnosiła znaczące sukcesy na Igrzyskach Olimpijskich:
+- **Boks**: Jerzy Kulej (złoto Tokio 1964, Meksyk 1968), Zbigniew Pietrzykowski, Jan Szczepański
+- **Lekkoatletyka**: Irena Szewińska (złoto w biegu na 400 m, Montreal 1976), Władysław Kozakiewicz (złoto w skoku o tyczce, Moskwa 1980 – słynny gest "basta" w stronę widowni radzieckiej)
+- **Szermierka, wioślarstwo, zapasy**: liczne medale w kolejnych olimpiadach
+- **Piłka nożna**: brązowy medal Igrzysk w Monachium 1972 i złoty w Montrealu 1976
+
+**Piłka nożna i Mundial 1974**
+
+Szczytowym momentem polskiej piłki nożnej był Mundial w RFN (1974), gdzie Polska zajęła 3. miejsce, pokonując m.in. Brazylię i Jugosławię. Drużyna z Kazimierzem Górskim w roli selekcjonera i gwiazdami takimi jak Grzegorz Lato, Kazimierz Deyna, Robert Gadocha i Andrzej Szarmach elektryzowała całą Polskę. Cztery lata później, na Mundialu w Argentynie (1978), Polska ponownie zajęła 3. miejsce.
+
+**Sport jako propaganda**
+
+Władze PRL intensywnie wykorzystywały sukcesy sportowe. Relacjonowano je w propagandowym tonie jako dowód "wydajności systemu socjalistycznego". Sportowcy byli obdarowywani przywilejami – paszportami, dewizami, samochodami. Jednocześnie brak sukcesów lub kontakty z zachodnimi sportowcami mogły ściągać podejrzenia aparatu bezpieczeństwa.
+
+**Sport masowy i kultura fizyczna**
+
+Propagowany był sport masowy – biegi uliczne, spartakiady, "dni sportu" w zakładach pracy, rajdy PTTK. Polska posiadała rozbudowaną infrastrukturę sportową – baseny, hale, lodowiska budowane przy zakładach pracy i osiedlach. Popularny był hokej na lodzie, żużel i kolarstwo.
+
+**Gest Kozakiewicza (1980)**
+
+Jednym z najsłynniejszych momentów sportu PRL był gest Władysława Kozakiewicza po zdobyciu złotego medalu olimpijskiego w skoku o tyczce w Moskwie w 1980 roku. Kozakiewicz pokazał radzieckiej widowni obsceniczny gest ("basta") w odpowiedzi na gwizdy. Władze radzieckie protestowały, polska propaganda próbowała zminimalizować sprawę, ale dla Polaków gest stał się symbolem nonkonformizmu.`,
+    resources: [
+      {
+        id: 'sport-prl-ninateka',
+        title: 'Archiwalne nagrania z polskich olimpiad w NINATECE',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/',
+        source: 'NINATEKA',
+        description: 'Archiwum filmowe z relacjami i dokumentami sportu w PRL',
+      },
+      {
+        id: 'sport-prl-pkf',
+        title: 'Polska Kronika Filmowa – fragmenty sportowe',
+        type: 'film',
+        url: 'https://www.youtube.com/results?search_query=polska+kronika+filmowa+sport',
+        source: 'YouTube / PKF',
+        description: 'Archiwalne materiały PKF dokumentujące sukcesy sportowe PRL',
+      },
+    ],
+    relatedIds: ['propaganda-prl', 'polska-kronika-filmowa', 'spoleczenstwo-prl', 'telewizja-prl'],
+  },
+
+  {
+    id: 'nomenklatura',
+    title: 'Nomenklatura partyjna',
+    subtitle: 'System przywilejów elity władzy w PRL',
+    category: 'polityka',
+    tags: ['PZPR', 'przywileje', 'etatyzm', 'elita władzy', 'domy rządowe'],
+    yearStart: 1944,
+    yearEnd: 1989,
+    summary: 'Nomenklatura to system stanowisk obsadzanych wyłącznie za zgodą PZPR – mechanizm kontroli kadrowej państwa. Jednocześnie elita partyjna korzystała z systemu przywilejów niedostępnych zwykłym obywatelom.',
+    content: `Nomenklatura – system kontroli kadrowej w PRL, polegający na tym, że obsada kluczowych stanowisk w państwie, gospodarce, armii, nauce i kulturze wymagała zatwierdzenia przez odpowiedni szczebel PZPR.
+
+**Mechanizm nomenklatury**
+
+Każdy szczebel partyjny (od Biura Politycznego i KC po komitety powiatowe) dysponował listą stanowisk, które mogły być obsadzone tylko za jego zgodą. Kandydaci na dyrektorów fabryk, rektorów uczelni, redaktorów naczelnych, dowódców wojskowych czy dyrektorów szpitali musieli przejść weryfikację partyjną. Bezpartyjność była formalnie dopuszczalna, ale w praktyce ograniczała kariery.
+
+**Skala systemu**
+
+Szacuje się, że lista stanowisk nomenklaturowych KC PZPR obejmowała ponad 100 tysięcy pozycji w całym kraju. Na niższych szczeblach liczba ta była wielokrotnie większa. System obejmował dosłownie każdy sektor życia publicznego.
+
+**Przywileje**
+
+Elita partyjna i nomenklaturowa korzystała z przywilejów niedostępnych szaremu obywatelowi:
+- **Sklepy żółte firanki / sklepy dla aparatczyków** – zaopatrzenie w towary niedostępne na rynku
+- **Specjalne przychodnie i szpitale** – służba zdrowia MSW dla funkcjonariuszy i ich rodzin
+- **Wczasy w ośrodkach rządowych** – Arłamów, Łańsk, Mazurskie ośrodki KC
+- **Domy i mieszkania** – pierwszeństwo w przydziale mieszkań, dostęp do willowych dzielnic
+- **Samochody** – służbowe limuzyny Volvo, Mercedesy, polskie Fiaty poza kolejką
+- **Paszporty** – łatwiejszy dostęp do paszportów i możliwość wyjazdów za granicę
+- **Kartki specjalne** – dodatkowe przydziały żywności i towarów reglamentowanych
+
+**Domy rządowe i kolonie letniskowe**
+
+Przy ul. Klonowej i Parkowej w Warszawie (tzw. "Kolonia rządowa") mieszkali najważniejsi dygnitarze. Ośrodki wczasowe KC w Arłamowie czy Łańsku były luksusowymi enklawami – z basenami, kortami tenisowymi i restauracjami z pełnym zaopatrzeniem.
+
+**Schyłek nomenklatury**
+
+Po 1989 roku część nomenklaturowych kadr umiejętnie dokonała "konwersji" – przekształciła władzę polityczną w kapitał ekonomiczny, zakładając prywatne firmy lub obejmując kierownicze stanowiska w sprywatyzowanych przedsiębiorstwach. Zjawisko to określano mianem "uwłaszczenia nomenklatury" i było jednym z kontrowersyjnych aspektów transformacji ustrojowej.`,
+    resources: [
+      {
+        id: 'nomenklatura-ipn',
+        title: 'Dokumenty dotyczące systemu nomenklatury',
+        type: 'dokument',
+        url: 'https://inwentarz.ipn.gov.pl/',
+        source: 'IPN – Inwentarz Archiwów',
+        description: 'Archiwalne dokumenty partyjne dotyczące systemu kadrowego PZPR',
+      },
+      {
+        id: 'nomenklatura-szukaj',
+        title: 'Akta partyjne w zasobach archiwów państwowych',
+        type: 'akt',
+        url: 'https://szukajwarchiwach.gov.pl/',
+        source: 'Szukaj w Archiwach',
+        description: 'Portal umożliwiający dostęp do akt partyjnych przechowywanych w archiwach państwowych',
+      },
+    ],
+    relatedIds: ['pzpr', 'jaruzelski', 'gomulka', 'gierek', 'sierpien-1980'],
+  },
+
+  {
+    id: 'wybory-prl',
+    title: 'Wybory w PRL',
+    subtitle: 'Fasada demokracji i "jedność moralno-polityczna narodu"',
+    category: 'polityka',
+    tags: ['wybory', 'fasada demokracji', 'PZPR', '99 procent', 'Front Jedności Narodu'],
+    yearStart: 1947,
+    yearEnd: 1989,
+    summary: 'Wybory w PRL były starannie wyreżyserowaną fikcją demokratyczną. Kandydatury zatwierdzał Front Jedności Narodu kontrolowany przez PZPR. Oficjalne wyniki sięgały 99% poparcia – produkowane przez fałszowanie protokołów.',
+    content: `Wybory w Polskiej Rzeczypospolitej Ludowej były jednym z filarów fasady demokratycznej systemu komunistycznego. Organizowane regularnie, służyły przede wszystkim legitymizacji władzy i demonstracji jedności społeczeństwa z partią.
+
+**System wyborczy**
+
+PRL posiadała formalnie wielopartyjny system: oprócz PZPR istniały ZSL (Zjednoczone Stronnictwo Ludowe) i SD (Stronnictwo Demokratyczne), a od 1956 roku – Koło Posłów Katolickich "Znak". Jednak wszystkie partie działały w ramach Frontu Jedności Narodu (FJN), który ustalał wspólne listy kandydatów. Wyborcy mogli "skreślać" kandydatów, ale lista była tak skonstruowana, że liczba kandydatów równała się liczbie miejsc – skreślenie wymagało osobnego czynu, a kabiny do głosowania były oddzielone od urn.
+
+**Fałszerstwa wyborcze**
+
+Szczególnie pierwsze wybory – referendum z 1946 roku i wybory z 1947 roku – były masowo fałszowane. W referendum z 28 czerwca 1946 roku komuniści sfałszowali wyniki: oficjalny wynik "3 razy tak" wynosił ok. 68%, podczas gdy rzeczywiste sondaże wykazywały, że blisko 70% odpowiedziało "nie" na pierwsze pytanie. Wybory z 1947 roku, mimo obecności zagranicznych obserwatorów, były zmasowanym fałszerstwem – prawdziwe zwycięstwo PSL Mikołajczyka zatuszowano.
+
+**Rytuał wyborczy**
+
+Od połowy lat 50. aż do 1989 roku wybory stały się rytuałem. Oficjalne wyniki osiągały 97–99,9% poparcia dla listy FJN. Obywatele byli mobilizowani do głosowania przez komitety blokowe, zakłady pracy, organizacje masowe. Nieobecność przy urnie mogła ściągnąć nieprzyjemne konsekwencje – rozmowy z przełożonym, notatki w aktach. Głosowanie w kabinie oznaczało demonstrację sprzeciwu.
+
+**"Jedność moralno-polityczna narodu"**
+
+Propagandowa formuła "jedności moralno-politycznej narodu" miała oznaczać pełne poparcie społeczeństwa dla polityki PZPR. Podawane wyniki – np. 99,8% w wyborach 1980 roku – były produkowane przez fałszowanie protokołów w komisjach wyborczych.
+
+**Wybory 1989 roku**
+
+Przełomem były wyspy częściowo wolne wybory z 4 czerwca 1989 roku, będące wynikiem Okrągłego Stołu. PZPR zagwarantowała sobie 65% miejsc w Sejmie i wszystkie miejsca w Senacie (nowo tworzonej izbie) były dostępne w pełni wolnych wyborach. "Solidarność" wygrała niemal wszystkie wolne mandaty, a poseł Tadeusz Mazowiecki został pierwszym niekomunistycznym premierem od 40 lat. Był to koniec systemu fasadowych wyborów.`,
+    resources: [
+      {
+        id: 'wybory-1947-ipn',
+        title: 'Fałszerstwa wyborów 1947 roku – dokumenty IPN',
+        type: 'dokument',
+        url: 'https://inwentarz.ipn.gov.pl/',
+        source: 'IPN – Inwentarz Archiwów',
+        description: 'Archiwalne materiały dokumentujące mechanizmy fałszowania wyborów w 1947 roku',
+        year: 1947,
+      },
+      {
+        id: 'wybory-1989-historia',
+        title: 'Wybory 4 czerwca 1989 – materiały edukacyjne',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły i materiały o przełomowych wyborach 1989 roku',
+        year: 1989,
+      },
+    ],
+    relatedIds: ['pzpr', 'okragly-stol', 'gomulka', 'gierek', 'jaruzelski'],
+  },
+
+  {
+    id: 'rolnictwo-prl',
+    title: 'Rolnictwo w PRL',
+    subtitle: 'Kolektywizacja, spółdzielnie i kółka rolnicze',
+    category: 'gospodarka',
+    tags: ['rolnictwo', 'kolektywizacja', 'PGR', 'spółdzielnia', 'kółka rolnicze'],
+    yearStart: 1944,
+    yearEnd: 1989,
+    summary: 'Rolnictwo w PRL było areną konfliktu między dążeniem władz do kolektywizacji a oporem chłopów. Polska jako jedyny kraj bloku sowieckiego nie przeprowadziła pełnej kolektywizacji. Państwowe Gospodarstwa Rolne i spółdzielnie produkcyjne sąsiadowały z prywatnymi gospodarstwami chłopskimi.',
+    content: `Rolnictwo polskie w epoce PRL pozostawało w permanentnym konflikcie między komunistycznym programem kolektywizacji a tradycją indywidualnego gospodarowania, głęboko zakorzenioną w polskiej wsi.
+
+**Reforma rolna 1944 i parcelacja**
+
+Punktem wyjścia była reforma rolna PKWN z września 1944 roku, która rozparcelowała majątki ziemskie powyżej 50 ha (100 ha w przypadku ziemi ornej). Ziemia trafiła do chłopów bezrolnych i małorolnych, co chwilowo zyskało władzy popularność na wsi.
+
+**Próba kolektywizacji (1948–1956)**
+
+Wzorem sowieckim władze podjęły próbę kolektywizacji rolnictwa – tworzenia spółdzielni produkcyjnych na wzór kołchozów. Stosowano presję: podwyższone podatki od indywidualnych gospodarstw, przymusowe dostawy zbóż po niskich cenach (tzw. "kontyngenty"), represje wobec opornych. Mimo to chłopi masowo sabotowali kolektywizację. W 1956 roku kolektywizację faktycznie zawieszono – większość spółdzielni rozpadła się. Polska stała się wyjątkiem w bloku wschodnim: do końca PRL dominowały prywatne gospodarstwa chłopskie.
+
+**Państwowe Gospodarstwa Rolne (PGR)**
+
+Na dawnych majątkach ziemskich i ziemiach zachodnich tworzono PGR-y – państwowe przedsiębiorstwa rolne. Zatrudniały setki tysięcy pracowników. PGR-y cechowała niska efektywność, przerost zatrudnienia i marnotrawstwo. Po 1989 roku zlikwidowanie PGR-ów (ponad 1600 zakładów) spowodowało masowe bezrobocie w byłych pracowniczych osiedlach – problem odczuwalny do dziś.
+
+**Kółka rolnicze i zaopatrzenie**
+
+Indywidualni rolnicy zrzeszali się w kółkach rolniczych – organizacjach zapewniających dostęp do maszyn, nawozów i porad agronomicznych. Centrum obsługi rolnictwa stanowiły GS-y (Gminna Spółdzielnia) i SKR-y (Spółdzielnia Kółek Rolniczych). System reglamentacji środków produkcji (np. przydział nawozów czy paliwa) dawał władzy kolejne narzędzia kontroli.
+
+**Kryzysy żywnościowe**
+
+Mimo że Polska pozostała krajem z dominującym rolnictwem prywatnym, kryzysy żywnościowe były stałym elementem PRL: braki mięsa prowadziły do podwyżek cen w 1956, 1970, 1976 i 1980 roku. Paradoks polegał na tym, że kraj rolniczy nie mógł wyżywić własnych mieszkańców – efekt złej polityki cenowej i systemu obowiązkowych dostaw.
+
+**Schyłek i transformacja**
+
+W latach 80. rolnicy uzyskali możliwość zrzeszania się w niezależnych związkach (NSZZ "Solidarność" Rolników Indywidualnych). Po 1989 roku prywatne rolnictwo polskie weszło w trudny okres transformacji rynkowej, a po wstąpieniu do UE skorzystało z systemu dopłat bezpośrednich.`,
+    resources: [
+      {
+        id: 'rolnictwo-reforma',
+        title: 'Dekret PKWN o reformie rolnej – tekst źródłowy',
+        type: 'akt',
+        url: 'https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19440040017',
+        source: 'ISAP – Internetowy System Aktów Prawnych',
+        description: 'Oryginalny tekst dekretu PKWN z 6 września 1944 roku',
+        year: 1944,
+        downloadable: true,
+      },
+      {
+        id: 'rolnictwo-pgr',
+        title: 'Materiały o PGR-ach w zasobach archiwalnych',
+        type: 'dokument',
+        url: 'https://szukajwarchiwach.gov.pl/',
+        source: 'Szukaj w Archiwach',
+        description: 'Dokumenty i akta dotyczące Państwowych Gospodarstw Rolnych',
+      },
+    ],
+    relatedIds: ['reforma-rolna', 'gospodarka-prl', 'kartki-prl', 'czerwiec-1976', 'sierpien-1980'],
+  },
+
+  {
+    id: 'jazz-prl',
+    title: 'Jazz w PRL',
+    subtitle: 'Komeda, Namysłowski i muzyczny symbol wolności',
+    category: 'kultura',
+    tags: ['jazz', 'Komeda', 'Namysłowski', 'Jazz Jamboree', 'muzyka', 'wolność'],
+    yearStart: 1956,
+    yearEnd: 1989,
+    summary: 'Jazz w PRL – od muzyki potępionej jako "burżuazyjny dekadentyzm" do symbolu kulturowej odwilży i jednego z najbardziej żywotnych nurtów polskiej kultury. Krzysztof Komeda, Zbigniew Namysłowski i festiwal Jazz Jamboree uczynili Polskę jednym z centrów europejskiego jazzu.',
+    content: `Jazz w Polsce Ludowej przeszedł drogę od muzyki prześladowanej do symbolu kulturowej wolności i świadectwa wyjątkowości polskiej kultury na tle bloku wschodniego.
+
+**Czasy stalinowskie – zakaz**
+
+W epoce stalinizmu jazz był oficjalnie potępiany jako "narkotyczna muzyka kapitalistycznego rozkładu" i "burżuazyjny dekadentyzm". Muzycy jazzowi byli represjonowani, a publiczne wykonywanie jazzu było ryzykowne. Mimo to muzyka ta żyła w konspiracyjnych jam session w prywatnych mieszkaniach.
+
+**Odwilż 1956 i legalizacja jazzu**
+
+Po "odwilży" 1956 roku jazz zyskał oficjalną akceptację. Już w 1956 roku odbył się I Ogólnopolski Festiwal Muzyki Jazzowej w Sopocie. Rok 1958 przyniósł pierwszy Jazz Jamboree w Warszawie – festiwal, który przez następne dekady stał się jednym z najważniejszych wydarzeń jazzowych w Europie. Przyjeżdżali nań artyści z całego świata: Miles Davis, Dizzy Gillespie, Duke Ellington, Dave Brubeck.
+
+**Krzysztof Komeda (1931–1969)**
+
+Najważniejszą postacią polskiego jazzu był Krzysztof Komeda (właśc. Trzcinski) – pianista i kompozytor. Tworzył charakterystyczny, liryczny styl "polskiego jazzu". Komponował muzykę do filmów Romana Polańskiego: "Nóż w wodzie", "Rosemary's Baby", "Nieustraszeni pogromcy wampirów". Jego "Kołysanka" z "Rosemary's Baby" przeszła do historii kina. Komeda zginął tragicznie w wypadku w USA w 1969 roku.
+
+**Zbigniew Namysłowski**
+
+Zbigniew Namysłowski – saksofonista i kompozytor – przez dekady był symbolem polskiego jazzu. Jego twórczość łączyła jazz z elementami muzyki ludowej i awangardowej. Nagrania z lat 60. i 70. – m.in. "Winobranie" i "Kujaviak Goes Funky" – były słuchane na całym świecie.
+
+**Inni artyści**
+
+Polski jazz wydał wiele wybitnych postaci: Tomasz Stańko (trąbka), Jan Ptaszyn Wróblewski (saksofon), Michał Urbaniak (skrzypce elektryczne), Urszula Dudziak (wokal), Adam Makowicz (fortepian). Polski jazz lat 70. łączył free jazz z fusion i elementami rocka.
+
+**Jazz jako symbol wolności**
+
+W realiach PRL jazz był postrzegany jako muzyka wolności – nieokreślona, improwizowana, wymykająca się partyjnym schematom. Koncerty jazzowe przyciągały publiczność szukającą oddechu od szarej rzeczywistości. Możliwość słuchania zachodnich gwiazd na Jazz Jamboree była czymś wyjątkowym w zamkniętym bloku wschodnim.`,
+    resources: [
+      {
+        id: 'jazz-jamboree-ninateka',
+        title: 'Archiwalne nagrania Jazz Jamboree',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/',
+        source: 'NINATEKA',
+        description: 'Archiwalne nagrania z festiwalu Jazz Jamboree w zbiorach cyfrowych',
+      },
+      {
+        id: 'komeda-youtube',
+        title: 'Muzyka Krzysztofa Komedy',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=krzysztof+komeda+jazz',
+        source: 'YouTube',
+        description: 'Nagrania i archiwalne materiały z twórczością Krzysztofa Komedy',
+      },
+    ],
+    relatedIds: ['muzyka-rockowa', 'kultura-paryz', 'kino-prl', 'polska-szkola-filmowa'],
+  },
+
+  {
+    id: 'muzyka-rockowa',
+    title: 'Muzyka rockowa w PRL',
+    subtitle: 'Czerwone Gitary, Perfect, Republika i rock w komunizmie',
+    category: 'kultura',
+    tags: ['muzyka rockowa', 'Czerwone Gitary', 'Perfect', 'Republika', 'Maanam', 'punk', 'nowa fala'],
+    yearStart: 1965,
+    yearEnd: 1989,
+    summary: 'Muzyka rockowa w PRL – od bigbitu lat 60. przez rock progresywny lat 70. po punk i nową falę lat 80. Polskie zespoły rockowe tworzyły w warunkach cenzury i reglamentacji sprzętu, ale dotarły do milionów słuchaczy.',
+    content: `Muzyka rockowa w Polskiej Rzeczypospolitej Ludowej rozwijała się w specyficznych warunkach – z jednej strony pod presją cenzury i ideologicznych ograniczeń, z drugiej jako autentyczny wyraz młodzieżowej kultury.
+
+**Bigbit lat 60. – Czerwone Gitary**
+
+Polskim odpowiednikiem beatlesomanii był "bigbit" – polska pop-rock na wzór brytyjski. Najważniejszą grupą byli Czerwone Gitary (założone w 1965 roku w Trójmieście), z Krzysztofem Klenczonem i Sewerinem Krajewskim. Piosenki takie jak "Nie zadzieraj nosa", "To właśnie my" czy "Historia jednej znajomości" stały się klasykami. Inne ważne zespoły tamtego okresu to Niebiesko-Czarni, Trubadurzy i Skaldowie.
+
+**Rock lat 70. – SBB, Breakout**
+
+Lata 70. przyniosły bardziej zaawansowane formy: SBB (Silesian Blues Band) z Józefem Skrzekiem grał rocka progresywnego i był porównywany z zachodnimi mistrzami gatunku. Breakout z Tadeuszem Nalepą był polskim głosem bluesa i hard rocka. Czesław Niemen przekraczał granice gatunków – od popu przez jazz po psychodelię ("Dziwny jest ten świat", "Sen o Warszawie").
+
+**Lata 80. – nowa fala i punk**
+
+Lata 80. przyniosły rockowy wybuch: Perfect z Grzegorzem Markowiakiem ("Autobiografia", "Chcemy być sobą"), Republika z Grzegorzem Ciechowskim – intelektualny art-rock z syntezatorami ("Kombinat", "Telefony"), Maanam z Korą i Markiem Jackowskim – polskie new wave, TSA z heavy metalem, Big Cyc z rock'n'rollem z przymrużeniem oka. Punk i reggae rozwijały się w undergroundzie.
+
+**Cenzura i problemy**
+
+Muzycy musieli przesyłać teksty do komisji Państwowej Agencji Artystycznej (PAGART) lub Zakładu Autorskiego. Politycznie podejrzane teksty były odrzucane. Sprzęt muzyczny (wzmacniacze, gitary) był trudno dostępny i kosztowny. Nagrania wydawało głównie Polskie Nagrania – monopolista rynku płytowego.
+
+**Festiwale**
+
+Kluczową rolę odgrywał Festiwal Polskiej Piosenki w Opolu (od 1963) i Sopot. Festiwal w Jarocinie (od 1980) stał się Mekką polskiego punka i rocka alternatywnego – miejsce spotkań kilkudziesięciu tysięcy młodych ludzi, gdzie władze patrzyły przez palce na kontestację.
+
+**Dziedzictwo**
+
+Polska muzyka rockowa PRL pozostawiła bogatą spuściznę – albumy SBB, Republiki czy Maanamu są dziś klasykami, a twórcy tacy jak Niemen czy Klenczon mają status legend.`,
+    resources: [
+      {
+        id: 'rock-ninateka',
+        title: 'Archiwalne nagrania polskiego rocka w NINATECE',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/',
+        source: 'NINATEKA',
+        description: 'Archiwum filmowe i muzyczne z nagraniami polskich zespołów rockowych',
+      },
+      {
+        id: 'jarocin-film',
+        title: 'Festiwal w Jarocinie – dokumenty filmowe',
+        type: 'film',
+        url: 'https://www.youtube.com/results?search_query=jarocin+festiwal+prl+rockowy',
+        source: 'YouTube',
+        description: 'Archiwalne materiały filmowe z festiwalu w Jarocinie',
+      },
+    ],
+    relatedIds: ['jazz-prl', 'kultura-prl', 'mlodz-prl', 'cenzura-prl', 'radio-prl'],
+  },
+
+  {
+    id: 'telewizja-prl',
+    title: 'Telewizja w PRL',
+    subtitle: 'Dziennik Telewizyjny, Teleranek i ekran propagandy',
+    category: 'kultura',
+    tags: ['telewizja', 'DTV', 'Teleranek', 'propaganda', 'TVP', 'Dziennik'],
+    yearStart: 1952,
+    yearEnd: 1989,
+    summary: 'Telewizja Polska była od początku narzędziem propagandy państwowej, ale jednocześnie dostarczała rozrywki milionom Polaków. "Dziennik Telewizyjny" był synonimem kłamstwa władzy, ale "Teleranek", "Kobra" i "Czterdziestolatek" budowały wspólną kulturę.',
+    content: `Telewizja Polska (TVP) – narzędzie propagandy i codzienne okno na świat milionów Polaków – zajmuje szczególne miejsce w zbiorowej pamięci o PRL.
+
+**Początki telewizji w Polsce**
+
+Pierwsze regularne emisje telewizyjne w Polsce ruszyły w 1952 roku – Polska jako jeden z pierwszych krajów bloku wschodniego posiadała własną telewizję. Do połowy lat 60. telewizory były luksusem; z czasem stały się obowiązkowym elementem wyposażenia każdego domu. W 1971 roku uruchomiono drugi kanał TVP.
+
+**Dziennik Telewizyjny – głos partii**
+
+Najważniejszą pozycją programową był Dziennik Telewizyjny (DTV) – codzienny serwis informacyjny będący tubą propagandową władzy. DTV znany był z manipulacji, przemilczeń i kłamstw. Szczególnie w czasie stanu wojennego stał się synonimem propagandy – prowadzący byli mundurami wojskowymi lub głosili decyzje władz. Widzowie potocznie nazywali DTV "kłamliwe wiadomości". Paradoksem było to, że oglądalność DTV była ogromna – nie dlatego, że mu wierzono, ale dlatego, że był jedynym ogólnodostępnym serwisem informacyjnym.
+
+**Rozrywka i kultura**
+
+Obok propagandy telewizja dostarczała rozrywki:
+- **Teleranek** (od 1967) – niedzielny program dla dzieci, kultowy dla całych pokoleń
+- **Kobra** – cykl filmów sensacyjnych
+- **Czterdziestolatek** (1974–1977) – serial komediowy Jerzego Gruzy, śmieszący i krytykujący z dystansem
+- **Stawka większa niż życie** (1967–1968) – serial szpiegowski o Hansie Klossie, jeden z najchętniej oglądanych seriali w historii polskiej TV
+- **Janosik** (1973–1974) – historyczny serial przygodowy
+- **Alternatywy 4** (1983) – serial Stanisława Barei, mistrzostwo satyrycznego opisu PRL
+
+**Telewizja a propaganda stanu wojennego**
+
+13 grudnia 1981 roku, gdy ogłoszono stan wojenny, telewizja stała się kluczowym narzędziem rządzenia. Generał Jaruzelski przemawiał w mundurze. Cywilni prezenterzy zostali zastąpieni przez mundurowych. Wiele osób wyłączyło telewizory na znak protestu lub przykleiło do ekranów czarną taśmę żałobną.
+
+**Obejście propagandy**
+
+W dekadzie gierkowskiej (lata 70.) telewizja była relatywnie mniej upolityczniona – inwestowano w rozrywkę i programy kulturalne. W latach 80. coraz więcej Polaków odbierało zachodnią telewizję przez anteny satelitarne (Eutelsat) lub magnetowidy z kaseteami VHS przemycanymi z Zachodu.
+
+**Dziedzictwo**
+
+Telewizja PRL odcisnęła trwały ślad w kulturze polskiej. Seriale, dziecięce programy animowane (Bolek i Lolek, Reksio, Miś Uszatek, Zaczarowany ołówek) i teleturnieje (Wielka Gra, Familiada) były wspólnym doświadczeniem pokoleń.`,
+    resources: [
+      {
+        id: 'tvp-ninateka',
+        title: 'Archiwalne programy TVP w NINATECE',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/',
+        source: 'NINATEKA',
+        description: 'Cyfrowe archiwum TVP z programami i serialami z okresu PRL',
+      },
+      {
+        id: 'tvp-pkf-youtube',
+        title: 'Archiwalne materiały telewizyjne na YouTube',
+        type: 'film',
+        url: 'https://www.youtube.com/results?search_query=polska+telewizja+prl+archiwum',
+        source: 'YouTube',
+        description: 'Historyczne nagrania i programy telewizyjne z epoki PRL',
+      },
+    ],
+    relatedIds: ['radio-prl', 'propaganda-prl', 'polska-kronika-filmowa', 'cenzura-prl', 'stan-wojenny'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
