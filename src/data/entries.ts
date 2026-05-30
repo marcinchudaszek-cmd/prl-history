@@ -113,6 +113,7 @@ Stan wojenny był oficjalnie zawieszony 31 grudnia 1982 roku, a zniesiony 22 lip
     ],
     relatedIds: ['solidarnosc', 'jaruzelski', 'wujek', 'sbezpieczenstwa'],
   },
+
   {
     id: 'solidarnosc',
     title: 'NSZZ „Solidarność"',
@@ -175,6 +176,7 @@ Po wprowadzeniu stanu wojennego "Solidarność" działała w podziemiu jako Tymc
     ],
     relatedIds: ['stan-wojenny', 'okragly-stol', 'sierpien-1980', 'walesa'],
   },
+
   {
     id: 'czerwiec-1956',
     title: 'Poznański Czerwiec 1956',
@@ -229,6 +231,7 @@ Władze przez lata ukrywały prawdziwe informacje o wydarzeniach. Rehabilitacja 
     ],
     relatedIds: ['solidarnosc', 'gomulka', 'grudzien-1970'],
   },
+
   {
     id: 'grudzien-1970',
     title: 'Grudzień 1970',
@@ -276,6 +279,7 @@ Przez lata władze ukrywały skalę represji. Ciała ofiar chowano potajemnie, r
     ],
     relatedIds: ['czerwiec-1956', 'solidarnosc', 'gomulka', 'gierek'],
   },
+
   {
     id: 'okragly-stol',
     title: 'Obrady Okrągłego Stołu',
@@ -333,6 +337,7 @@ Okrągły Stół był wzorem dla pokojowych transformacji w innych krajach bloku
     ],
     relatedIds: ['solidarnosc', 'stan-wojenny', 'pzpr', 'walesa', 'jaruzelski'],
   },
+
   {
     id: 'pzpr',
     title: 'PZPR',
@@ -380,6 +385,7 @@ Na XI (ostatnim) Zjeździe w styczniu 1990 roku PZPR rozwiązała się, a częś
     ],
     relatedIds: ['stan-wojenny', 'okragly-stol', 'gomulka', 'gierek', 'bierut', 'jaruzelski'],
   },
+
   {
     id: 'sbezpieczenstwa',
     title: 'Służba Bezpieczeństwa (SB)',
@@ -437,6 +443,7 @@ SB prowadziła Sprawę Obiektową "Lato 80" (inwigilacja Solidarności), operacj
     ],
     relatedIds: ['stan-wojenny', 'represje-polityczne', 'pzpr', 'popieluszko'],
   },
+
   {
     id: 'sierpien-1980',
     title: 'Sierpień 1980 – Strajki',
@@ -493,6 +500,7 @@ Do MKS przyłączyło się ponad 700 zakładów pracy z całego Wybrzeża. Straj
     ],
     relatedIds: ['solidarnosc', 'stan-wojenny', 'grudzien-1970', 'walesa'],
   },
+
   {
     id: 'gospodarka-prl',
     title: 'Gospodarka PRL',
@@ -553,6 +561,7 @@ Powszechne zjawisko społeczne. "Dolar" i towary z Pewexu były twardą walutą 
     ],
     relatedIds: ['pzpr', 'stan-wojenny', 'gierek', 'nowa-huta'],
   },
+
   {
     id: 'kultura-prl',
     title: 'Kultura i sztuka w PRL',
@@ -618,6 +627,7 @@ Jerzy Grotowski, Tadeusz Kantor (Teatr Cricot 2) – artyści o światowej sław
     ],
     relatedIds: ['pzpr', 'sbezpieczenstwa', 'solidarnosc'],
   },
+
   {
     id: 'kosciol-prl',
     title: 'Kościół katolicki w PRL',
@@ -665,6 +675,7 @@ Zamordowany 19 października 1984 roku przez funkcjonariuszy SB. Jego śmierć w
     ],
     relatedIds: ['solidarnosc', 'stan-wojenny', 'sbezpieczenstwa', 'popieluszko'],
   },
+
   {
     id: 'nowa-huta',
     title: 'Nowa Huta',
@@ -707,8 +718,6 @@ Robotnicy Nowej Huty aktywnie uczestniczyli w strajkach 1980 roku i strukturach 
     ],
     relatedIds: ['gospodarka-prl', 'kultura-prl', 'solidarnosc'],
   },
-
-  // ── NOWE HASŁA ──────────────────────────────────────────────────────────────
 
   {
     id: 'gomulka',
@@ -766,6 +775,7 @@ Postać kontrowersyjna – architekt względnej liberalizacji po stalinizmie, al
     ],
     relatedIds: ['pzpr', 'czerwiec-1956', 'grudzien-1970', 'marzec-1968'],
   },
+
   {
     id: 'gierek',
     title: 'Edward Gierek',
@@ -821,6 +831,7 @@ W sierpniu 1980 roku, podczas strajków, Gierek był hospitalizowany. 6 wrześni
     ],
     relatedIds: ['pzpr', 'grudzien-1970', 'gospodarka-prl', 'sierpien-1980'],
   },
+
   {
     id: 'jaruzelski',
     title: 'Wojciech Jaruzelski',
@@ -879,6 +890,7 @@ W 2008 roku prokuratura IPN oskarżyła Jaruzelskiego o wydanie bezprawnych rozk
     ],
     relatedIds: ['stan-wojenny', 'pzpr', 'okragly-stol', 'solidarnosc'],
   },
+
   {
     id: 'walesa',
     title: 'Lech Wałęsa',
@@ -938,6 +950,7 @@ Wybrany w pierwszych wolnych wyborach prezydenckich. Jego prezydentura była naz
     ],
     relatedIds: ['solidarnosc', 'sierpien-1980', 'stan-wojenny', 'okragly-stol'],
   },
+
   {
     id: 'bierut',
     title: 'Bolesław Bierut',
@@ -996,6 +1009,7 @@ Bierut uczestniczył w XX Zjeździe KPZR, gdzie Chruszczow wygłosił tajny refe
     ],
     relatedIds: ['pzpr', 'represje-polityczne', 'gomulka'],
   },
+
   {
     id: 'kor',
     title: 'Komitet Obrony Robotników (KOR)',
@@ -1056,6 +1070,7 @@ Wielu działaczy KOR weszło do struktur doradczych NSZZ "Solidarność" (Kuroń
     ],
     relatedIds: ['czerwiec-1976', 'solidarnosc', 'sbezpieczenstwa', 'marzec-1968'],
   },
+
   {
     id: 'marzec-1968',
     title: 'Marzec 1968',
@@ -1113,6 +1128,7 @@ Setki studentów aresztowanych, relegowanych z uczelni, powołanych do wojska. W
     ],
     relatedIds: ['pzpr', 'sbezpieczenstwa', 'kultura-prl', 'kor', 'gomulka'],
   },
+
   {
     id: 'czerwiec-1976',
     title: 'Czerwiec 1976',
@@ -1161,6 +1177,7 @@ Czerwiec 1976 był bezpośrednim impulsem do powstania KOR i pośrednio – do n
     ],
     relatedIds: ['kor', 'solidarnosc', 'represje-polityczne', 'gierek'],
   },
+
   {
     id: 'popieluszko',
     title: 'Ks. Jerzy Popiełuszko',
@@ -1220,6 +1237,7 @@ Pogrzeb 3 listopada 1984 roku zgromadził szacunkowo 250 000–400 000 ludzi. Sp
     ],
     relatedIds: ['kosciol-prl', 'sbezpieczenstwa', 'solidarnosc', 'stan-wojenny'],
   },
+
   {
     id: 'wujek',
     title: 'Pacyfikacja KWK Wujek',
@@ -1277,6 +1295,7 @@ Przy kopalni stoi Pomnik Górników Poległych w Czasie Stanu Wojennego. 16 grud
     ],
     relatedIds: ['stan-wojenny', 'sbezpieczenstwa', 'solidarnosc', 'represje-polityczne'],
   },
+
   {
     id: 'represje-polityczne',
     title: 'Represje polityczne w PRL',
@@ -1338,6 +1357,7 @@ Po 1989 roku IPN wszczął setki śledztw w sprawie zbrodni komunistycznych. Wi�
     ],
     relatedIds: ['sbezpieczenstwa', 'stan-wojenny', 'wujek', 'pzpr', 'bierut'],
   },
+
   {
     id: 'lwp',
     title: 'Ludowe Wojsko Polskie',
@@ -1398,8 +1418,6 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     relatedIds: ['pzpr', 'stan-wojenny', 'grudzien-1970', 'jaruzelski'],
   },
 
-  // ── NOWE HASŁA (rozszerzenie) ────────────────────────────────────────────────
-
   {
     id: 'wyszynski',
     title: 'Prymas Stefan Wyszyński',
@@ -1451,6 +1469,7 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     ],
     relatedIds: ['kosciol-prl', 'jan-pawel-ii', 'popieluszko', 'marzec-1968', 'bierut'],
   },
+
   {
     id: 'zolnierze-wykletci',
     title: 'Żołnierze Wyklęci',
@@ -1503,6 +1522,7 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     ],
     relatedIds: ['represje-polityczne', 'sbezpieczenstwa', 'bierut', 'manifest-pkwn'],
   },
+
   {
     id: 'zomo',
     title: 'ZOMO',
@@ -1553,6 +1573,7 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     ],
     relatedIds: ['stan-wojenny', 'wujek', 'represje-polityczne', 'sbezpieczenstwa', 'czerwiec-1976', 'grudzien-1970'],
   },
+
   {
     id: 'jan-pawel-ii',
     title: 'Jan Paweł II',
@@ -1607,6 +1628,7 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     ],
     relatedIds: ['wyszynski', 'solidarnosc', 'stan-wojenny', 'kosciol-prl', 'sierpien-1980'],
   },
+
   {
     id: 'manifest-pkwn',
     title: 'Manifest PKWN',
@@ -1666,6 +1688,7 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     ],
     relatedIds: ['pzpr', 'bierut', 'gomulka', 'kolektywizacja', 'gospodarka-prl'],
   },
+
   {
     id: 'kolektywizacja',
     title: 'Kolektywizacja rolnictwa',
@@ -1721,6 +1744,7 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     ],
     relatedIds: ['gospodarka-prl', 'bierut', 'gomulka', 'manifest-pkwn', 'czerwiec-1956'],
   },
+
   {
     id: 'drugi-obieg',
     title: 'Drugi obieg wydawniczy',
@@ -1778,6 +1802,7 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     ],
     relatedIds: ['kor', 'solidarnosc', 'kultura-prl', 'stan-wojenny', 'sierpien-1980'],
   },
+
   {
     id: 'mazowiecki',
     title: 'Tadeusz Mazowiecki',
@@ -1833,7 +1858,6 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     relatedIds: ['okragly-stol', 'solidarnosc', 'walesa', 'sierpien-1980', 'stan-wojenny'],
   },
 
-  // --- STOCZNIA GDAŃSKA ---
   {
     id: 'stocznia-gdanska',
     title: 'Stocznia Gdańska',
@@ -1891,7 +1915,6 @@ Przed bramą stoczni wznosi się pomnik Poległych Stoczniowców 1970 – trzy k
     relatedIds: ['solidarnosc', 'sierpien-1980', 'walesa', 'grudzien-1970', 'kor'],
   },
 
-  // --- RADIO WOLNA EUROPA ---
   {
     id: 'radio-wolna-europa',
     title: 'Radio Wolna Europa',
@@ -1953,7 +1976,6 @@ Po 1989 roku misja RWE w Polsce stopniowo traciła rację bytu. Polska sekcja za
     relatedIds: ['kultura-prl', 'drugi-obieg', 'cenzura-prl', 'kor', 'solidarnosc'],
   },
 
-  // --- CENZURA PRL ---
   {
     id: 'cenzura-prl',
     title: 'Cenzura PRL',
@@ -2016,7 +2038,6 @@ GUKPPiW został zniesiony ustawą z 11 kwietnia 1990 roku – jednym z pierwszyc
     relatedIds: ['kultura-prl', 'drugi-obieg', 'radio-wolna-europa', 'represje-polityczne', 'pzpr'],
   },
 
-  // --- PAŹDZIERNIK 1956 ---
   {
     id: 'pazdziernik-1956',
     title: 'Październik 1956',
@@ -2073,7 +2094,6 @@ Październik 1956 nie zmienił zasad systemu. Cenzura pozostała, Polska trwała
     relatedIds: ['gomulka', 'czerwiec-1956', 'bierut', 'wyszynski', 'pzpr'],
   },
 
-  // --- URZĄD BEZPIECZEŃSTWA ---
   {
     id: 'ub',
     title: 'Urząd Bezpieczeństwa',
@@ -2136,7 +2156,6 @@ Po Październiku 1956 roku Ministerstwo Bezpieczeństwa Publicznego zostało roz
     relatedIds: ['represje-polityczne', 'sbezpieczenstwa', 'bierut', 'zolnierze-wykletci', 'wyszynski'],
   },
 
-  // --- PAŁAC KULTURY I NAUKI ---
   {
     id: 'palac-kultury',
     title: 'Pałac Kultury i Nauki',
@@ -2196,7 +2215,6 @@ Po upadku PRL usunięto z nazwy człon upamiętniający Stalina. Dyskusja o wybu
     relatedIds: ['bierut', 'kultura-prl', 'manifest-pkwn', 'kolektywizacja', 'nowa-huta'],
   },
 
-  // --- STRAJKI 1988 ---
   {
     id: 'strajki-1988',
     title: 'Strajki 1988',
@@ -2253,7 +2271,6 @@ Pod wpływem strajków gen. Czesław Kiszczak podjął pierwsze rozmowy z Wałę
     relatedIds: ['okragly-stol', 'solidarnosc', 'walesa', 'stan-wojenny', 'zomo'],
   },
 
-  // --- NOMENKLATURA ---
   {
     id: 'nomenklatura',
     title: 'Nomenklatura',
@@ -2319,7 +2336,6 @@ Po 1989 roku wielu przedstawicieli nomenklatury sprawnie dokonało transformacji
     relatedIds: ['pzpr', 'gospodarka-prl', 'gierek', 'gomulka', 'bierut'],
   },
 
-  // --- KATYŃ ---
   {
     id: 'katyn',
     title: 'Zbrodnia Katyńska',
@@ -2377,7 +2393,6 @@ Przez całe istnienie PRL (1944–1989) komunistyczne władze podtrzymywały kł
     relatedIds: ['represje-polityczne', 'ub', 'manifest-pkwn', 'bierut', 'zolnierze-wykletci'],
   },
 
-  // --- MILICJA OBYWATELSKA ---
   {
     id: 'milicja',
     title: 'Milicja Obywatelska',
@@ -2441,7 +2456,6 @@ Milicja była powszechnie obecna w życiu codziennym. Legitymowanie obywateli, �
     relatedIds: ['zomo', 'sbezpieczenstwa', 'ub', 'stan-wojenny', 'grudzien-1970'],
   },
 
-  // --- KINO POLSKIE W PRL ---
   {
     id: 'kino-prl',
     title: 'Polska Szkoła Filmowa',
@@ -2505,7 +2519,6 @@ Wszystkie filmy powstawały w państwowych wytwórniach i podlegały cenzurze. S
     relatedIds: ['kultura-prl', 'cenzura-prl', 'drugi-obieg', 'solidarnosc'],
   },
 
-  // --- PROPAGANDA PRL ---
   {
     id: 'propaganda-prl',
     title: 'Propaganda PRL',
@@ -2571,7 +2584,6 @@ Społeczeństwo nauczyło się czytać między wierszami. Żarty polityczne (kaw
     relatedIds: ['kultura-prl', 'cenzura-prl', 'pzpr', 'radio-wolna-europa', 'drugi-obieg'],
   },
 
-  // --- AKCJA WISŁA ---
   {
     id: 'akcja-wisla',
     title: 'Akcja Wisła',
@@ -2630,7 +2642,6 @@ Przez dekady Akcja Wisła była tematem tabu w PRL. Dopiero po 1989 roku możliw
     relatedIds: ['represje-polityczne', 'ub', 'manifest-pkwn', 'zolnierze-wykletci'],
   },
 
-  // --- PLAN SZEŚCIOLETNI ---
   {
     id: 'plan-szescioletni',
     title: 'Plan sześcioletni',
@@ -2696,7 +2707,6 @@ Wybuch robotniczego buntu w Poznaniu w czerwcu 1956 roku był bezpośrednią rea
     relatedIds: ['gospodarka-prl', 'nowa-huta', 'bierut', 'kolektywizacja', 'czerwiec-1956'],
   },
 
-  // --- WOLNE ZWIĄZKI ZAWODOWE ---
   {
     id: 'wzz',
     title: 'Wolne Związki Zawodowe',
@@ -2754,7 +2764,6 @@ Członkowie WZZ byli stale inwigilowani, zatrzymywani, zwalniani z pracy. Anna W
     relatedIds: ['solidarnosc', 'sierpien-1980', 'walesa', 'kor', 'stocznia-gdanska'],
   },
 
-  // --- KULTURA PARYSKA ---
   {
     id: 'kultura-paryz',
     title: 'Kultura Paryska',
@@ -2816,7 +2825,6 @@ Instytut Literacki wydał setki książek – autorów zakazanych w PRL, dokumen
     relatedIds: ['kultura-prl', 'drugi-obieg', 'cenzura-prl', 'radio-wolna-europa', 'kino-prl'],
   },
 
-  // --- UKŁAD WARSZAWSKI ---
   {
     id: 'uklad-warszawski',
     title: 'Układ Warszawski',
@@ -2877,7 +2885,6 @@ Układ Warszawski rozwiązano 1 lipca 1991 roku – po upadku komunizmu w Europi
     relatedIds: ['lwp', 'marzec-1968', 'stan-wojenny', 'jaruzelski', 'manifest-pkwn'],
   },
 
-  // --- REFERENDUM 1946 ---
   {
     id: 'referendum-1946',
     title: 'Referendum ludowe 1946',
@@ -2934,7 +2941,6 @@ Oszukańcze referendum utorowało drogę do sfałszowanych wyborów w styczniu 1
     relatedIds: ['wybory-1947', 'pzpr', 'bierut', 'ub', 'manifest-pkwn'],
   },
 
-  // --- SFAŁSZOWANE WYBORY 1947 ---
   {
     id: 'wybory-1947',
     title: 'Wybory 1947',
@@ -2991,7 +2997,6 @@ W 1948 roku PPR połączyła się z PPS (pod przymusem), tworząc PZPR. Polska s
     relatedIds: ['referendum-1946', 'pzpr', 'bierut', 'ub', 'represje-polityczne'],
   },
 
-  // --- EMIGRACJA ŻYDÓW PO 1968 ---
   {
     id: 'emigracja-1968',
     title: 'Emigracja Żydów po Marcu 1968',
@@ -3049,7 +3054,6 @@ Po emigracji 1968 roku żydowska społeczność w Polsce została praktycznie zl
     relatedIds: ['marzec-1968', 'represje-polityczne', 'pzpr', 'sbezpieczenstwa', 'gomulka'],
   },
 
-  // --- ZIEMIE ODZYSKANE ---
   {
     id: 'ziemie-odzyskane',
     title: 'Ziemie Odzyskane',
@@ -3109,7 +3113,6 @@ Władze komunistyczne budowały mit powrotu do piastowskiej ojczyzny, ukrywając
     relatedIds: ['manifest-pkwn', 'akcja-wisla', 'represje-polityczne', 'kolektywizacja'],
   },
 
-  // --- SPORT W PRL ---
   {
     id: 'sport-prl',
     title: 'Sport w PRL',
@@ -3175,7 +3178,6 @@ PRL bojkotował Igrzyska w Los Angeles w 1984 roku (solidarnie z ZSRR). Zawodom 
     relatedIds: ['kultura-prl', 'propaganda-prl', 'nomenklatura', 'gierek'],
   },
 
-  // --- FIAT 126p (MALUCH) ---
   {
     id: 'fiat-126p',
     title: 'Fiat 126p – Maluch',
@@ -3236,7 +3238,6 @@ Po upadku PRL Maluch stał się tanim środkiem transportu, a później obiektem
     relatedIds: ['gierek', 'gospodarka-prl', 'nomenklatura', 'plan-szescioletni'],
   },
 
-  // --- NACJONALIZACJA PRZEMYSŁU ---
   {
     id: 'nacjonalizacja',
     title: 'Nacjonalizacja przemysłu i handlu',
@@ -3297,7 +3298,6 @@ Nacjonalizacja zniszczyła klasę przedsiębiorców i kupców. Gospodarka stała
     relatedIds: ['manifest-pkwn', 'gospodarka-prl', 'plan-szescioletni', 'kolektywizacja', 'bierut'],
   },
 
-  // --- CZESŁAW MIŁOSZ ---
   {
     id: 'milosz',
     title: 'Czesław Miłosz',
@@ -3355,7 +3355,6 @@ Po 1989 roku Miłosz powrócił do ojczyzny. Mieszkał na przemian w Krakowie i 
     relatedIds: ['kultura-paryz', 'kultura-prl', 'drugi-obieg', 'cenzura-prl', 'emigracja-1968'],
   },
 
-  // --- ZBIGNIEW HERBERT ---
   {
     id: 'herbert',
     title: 'Zbigniew Herbert',
@@ -3416,7 +3415,6 @@ Herbert należy do najczęściej tłumaczonych polskich poetów. Jego twórczoś
     relatedIds: ['kultura-prl', 'cenzura-prl', 'milosz', 'drugi-obieg', 'kultura-paryz'],
   },
 
-  // --- ANNA WALENTYNOWICZ ---
   {
     id: 'walentynowicz',
     title: 'Anna Walentynowicz',
@@ -3477,7 +3475,6 @@ Anna Walentynowicz zginęła 10 kwietnia 2010 roku w katastrofie samolotu Tu-154
     relatedIds: ['solidarnosc', 'sierpien-1980', 'stocznia-gdanska', 'wzz', 'walesa'],
   },
 
-  // --- STANISŁAW MIKOŁAJCZYK ---
   {
     id: 'mikolajczyk',
     title: 'Stanisław Mikołajczyk',
@@ -3538,7 +3535,6 @@ Na emigracji Mikołajczyk kontynuował działalność polityczną w ramach Polsk
     relatedIds: ['wybory-1947', 'referendum-1946', 'ub', 'represje-polityczne', 'bierut'],
   },
 
-  // --- ŻYCIE CODZIENNE W PRL ---
   {
     id: 'zycie-codzienne',
     title: 'Życie codzienne w PRL',
@@ -3599,7 +3595,6 @@ PRL zapewniał też gwarancje, które po 1989 roku zniknęły – zatrudnienie (
     relatedIds: ['gospodarka-prl', 'fiat-126p', 'nomenklatura', 'nowa-huta', 'gierek'],
   },
 
-  // --- EDUKACJA W PRL ---
   {
     id: 'edukacja-prl',
     title: 'Edukacja w PRL',
@@ -3663,7 +3658,6 @@ Po 13 grudnia 1981 roku opozycja organizowała nielegalne wykłady w prywatnych 
     relatedIds: ['kultura-prl', 'propaganda-prl', 'cenzura-prl', 'kosciol-prl', 'drugi-obieg'],
   },
 
-  // --- NZS ---
   {
     id: 'nzs',
     title: 'Niezależne Zrzeszenie Studentów',
@@ -3721,7 +3715,6 @@ NZS reaktywowało działalność jawną po 1988 roku. W 1989 roku organizacja uc
     relatedIds: ['solidarnosc', 'marzec-1968', 'stan-wojenny', 'drugi-obieg', 'kor'],
   },
 
-  // --- INTERNOWANIE W STANIE WOJENNYM ---
   {
     id: 'internowanie',
     title: 'Internowanie w stanie wojennym',
@@ -3782,7 +3775,6 @@ Większość internowanych zwolniono stopniowo do końca 1982 roku. Część tra
     relatedIds: ['stan-wojenny', 'solidarnosc', 'walesa', 'sbezpieczenstwa', 'zomo'],
   },
 
-  // --- ADAM MICHNIK ---
   {
     id: 'michnik',
     title: 'Adam Michnik',
@@ -3842,7 +3834,6 @@ Michnik uczestniczył w obradach Okrągłego Stołu. 8 maja 1989 roku ukazał si
     relatedIds: ['kor', 'marzec-1968', 'solidarnosc', 'internowanie', 'okragly-stol'],
   },
 
-  // --- JACEK KUROŃ ---
   {
     id: 'kuron',
     title: 'Jacek Kuroń',
@@ -3903,7 +3894,6 @@ Jako minister pracy rządu Mazowieckiego (1989–1991, 1992–1993) tworzył pol
     relatedIds: ['kor', 'solidarnosc', 'michnik', 'internowanie', 'okragly-stol'],
   },
 
-  // --- PODZIEMNA SOLIDARNOŚĆ ---
   {
     id: 'podziemna-solidarnosc',
     title: 'Podziemna Solidarność',
@@ -3964,7 +3954,6 @@ Przez kurierów i przez Kościół podziemna Solidarność utrzymywała stały k
     relatedIds: ['solidarnosc', 'stan-wojenny', 'drugi-obieg', 'strajki-1988', 'internowanie'],
   },
 
-  // --- RYSZARD KAPUŚCIŃSKI ---
   {
     id: 'kapuscinski',
     title: 'Ryszard Kapuściński',
@@ -4025,7 +4014,6 @@ Kapuściński jest dziś uznawany za jednego z twórców nowoczesnego reportażu
     relatedIds: ['kultura-prl', 'cenzura-prl', 'propaganda-prl', 'milosz', 'kultura-paryz'],
   },
 
-  // --- KONFEDERACJA POLSKI NIEPODLEGŁEJ ---
   {
     id: 'kpn',
     title: 'Konfederacja Polski Niepodległej',
@@ -4085,7 +4073,6 @@ KPN weszła do parlamentu w wyborach 1991 roku. Moczulski przez lata był posłe
     relatedIds: ['kor', 'solidarnosc', 'drugi-obieg', 'nzs', 'represje-polityczne'],
   },
 
-  // --- KOBIETY W PRL ---
   {
     id: 'kobiety-prl',
     title: 'Kobiety w PRL',
@@ -4146,7 +4133,6 @@ Kobiety odgrywały kluczową rolę w Solidarności i opozycji – Anna Walentyno
     relatedIds: ['zycie-codzienne', 'walentynowicz', 'edukacja-prl', 'nomenklatura', 'solidarnosc'],
   },
 
-  // --- MIECZYSŁAW RAKOWSKI ---
   {
     id: 'rakowski',
     title: 'Mieczysław Rakowski',
@@ -4204,7 +4190,6 @@ W lipcu 1989 roku Rakowski objął funkcję I sekretarza KC PZPR – kiedy parti
     relatedIds: ['pzpr', 'okragly-stol', 'solidarnosc', 'strajki-1988', 'mazowiecki'],
   },
 
-  // --- RWPG ---
   {
     id: 'rwpg',
     title: 'RWPG – Rada Wzajemnej Pomocy Gospodarczej',
@@ -4265,7 +4250,6 @@ RWPG rozwiązano 28 czerwca 1991 roku – po upadku komunizmu w Europie i rozpad
     relatedIds: ['gospodarka-prl', 'uklad-warszawski', 'gierek', 'nacjonalizacja', 'plan-szescioletni'],
   },
 
-  // --- WISŁAWA SZYMBORSKA ---
   {
     id: 'szymborska',
     title: 'Wisława Szymborska',
@@ -4323,7 +4307,6 @@ Akademia Szwedzka przyznała Szymborskiej Literacką Nagrodę Nobla z uzasadnien
     relatedIds: ['kultura-prl', 'cenzura-prl', 'milosz', 'herbert', 'kultura-paryz'],
   },
 
-  // --- BRONISŁAW GEREMEK ---
   {
     id: 'geremek',
     title: 'Bronisław Geremek',
@@ -4384,7 +4367,6 @@ Bronisław Geremek zginął 13 lipca 2008 roku w wypadku samochodowym pod Lubine
     relatedIds: ['solidarnosc', 'okragly-stol', 'michnik', 'kuron', 'internowanie'],
   },
 
-  // --- POLSKA PARTIA ROBOTNICZA ---
   {
     id: 'ppr',
     title: 'Polska Partia Robotnicza',
@@ -4442,7 +4424,6 @@ W grudniu 1948 roku na Kongresie Zjednoczeniowym PPR i PPS (Polska Partia Socjal
     relatedIds: ['pzpr', 'bierut', 'gomulka', 'manifest-pkwn', 'wybory-1947'],
   },
 
-  // --- MUZYKA ROCKOWA W PRL ---
   {
     id: 'muzyka-rockowa',
     title: 'Muzyka rockowa w PRL',
@@ -4506,7 +4487,6 @@ Teksty piosenek podlegały cenzurze – zanim płyta trafiła do tłoczni, musia
     relatedIds: ['kultura-prl', 'cenzura-prl', 'zycie-codzienne', 'propaganda-prl', 'kino-prl'],
   },
 
-  // --- GORBACZOW I PIERESTROJKA ---
   {
     id: 'gorbaczow',
     title: 'Gorbaczow i pierestrojka',
@@ -4567,7 +4547,6 @@ Reformy Gorbaczowa uwolniły odśrodkowe siły, których nie mógł kontrolować
     relatedIds: ['okragly-stol', 'katyn', 'uklad-warszawski', 'pzpr', 'strajki-1988'],
   },
 
-  // --- WYBORY 4 CZERWCA 1989 ---
   {
     id: 'wybory-1989',
     title: 'Wybory 4 czerwca 1989',
@@ -4624,7 +4603,6 @@ Wynik polskich wyborów zainspirował Węgry, NRD, Czechosłowację, Bułgarię 
     relatedIds: ['okragly-stol', 'solidarnosc', 'mazowiecki', 'walesa', 'strajki-1988'],
   },
 
-  // --- WCZASY FWP ---
   {
     id: 'wczasy-fwp',
     title: 'Wczasy FWP',
@@ -4685,7 +4663,6 @@ Wczasy FWP są dziś przedmiotem nostalgii – jako symbol beztroskiego lata, pr
     relatedIds: ['zycie-codzienne', 'gospodarka-prl', 'nomenklatura', 'gierek', 'sport-prl'],
   },
 
-  // --- UCIECZKI Z PRL ---
   {
     id: 'ucieczki-z-prl',
     title: 'Ucieczki z PRL',
@@ -4749,7 +4726,6 @@ Po 13 grudnia 1981 roku wielu działaczy Solidarności, którzy zdołali wyjecha
     relatedIds: ['represje-polityczne', 'emigracja-1968', 'kultura-paryz', 'milosz', 'stan-wojenny'],
   },
 
-  // --- STANISŁAW LEM ---
   {
     id: 'lem',
     title: 'Stanisław Lem',
@@ -4812,7 +4788,6 @@ W latach 80. Lem mieszkał przez kilka lat w Wiedniu i Berlinie Zachodnim. Po 19
     relatedIds: ['kultura-prl', 'cenzura-prl', 'milosz', 'herbert', 'kapuscinski'],
   },
 
-  // --- ANDRZEJ WAJDA ---
   {
     id: 'wajda',
     title: 'Andrzej Wajda',
@@ -4876,7 +4851,6 @@ Oscar honorowy za całokształt twórczości (2000). Cztery razy nominowany do O
     relatedIds: ['kino-prl', 'katyn', 'solidarnosc', 'kultura-prl', 'cenzura-prl'],
   },
 
-  // --- JAZZ W POLSCE ---
   {
     id: 'jazz-prl',
     title: 'Jazz w Polsce',
@@ -4940,7 +4914,6 @@ Władze PRL tolerowały jazz jako mniej polityczny od rocka. Jazz docierał do w
     relatedIds: ['kultura-prl', 'muzyka-rockowa', 'kino-prl', 'pazdziernik-1956', 'cenzura-prl'],
   },
 
-  // --- WIĘZIENIA POLITYCZNE PRL ---
   {
     id: 'wiezienia-polityczne',
     title: 'Więzienia polityczne PRL',
@@ -5006,7 +4979,6 @@ Po Październiku 1956 masowy terror zelżał, lecz więzienia polityczne nie zni
     relatedIds: ['represje-polityczne', 'ub', 'zolnierze-wykletci', 'internowanie', 'katyn'],
   },
 
-  // --- TELEWIZJA POLSKA W PRL ---
   {
     id: 'tvp-prl',
     title: 'Telewizja Polska w PRL',
@@ -5071,7 +5043,6 @@ W czasie stanu wojennego wiele rodzin bojkotowało telewizję o godzinie Dzienni
     relatedIds: ['propaganda-prl', 'kultura-prl', 'cenzura-prl', 'kino-prl', 'stan-wojenny'],
   },
 
-  // --- WIEŚ I CHŁOPI W PRL ---
   {
     id: 'wies-prl',
     title: 'Wieś i chłopi w PRL',
@@ -5132,7 +5103,6 @@ Polska wieś intensywnie "wylewała się" do miast – miliony chłopów stały 
     relatedIds: ['kolektywizacja', 'reforma-rolna', 'gospodarka-prl', 'plan-szescioletni', 'akcja-wisla'],
   },
 
-  // --- NSZZ SOLIDARNOŚĆ ROLNIKÓW ---
   {
     id: 'solidarnosc-rolnikow',
     title: 'Solidarność Rolników Indywidualnych',
@@ -5193,7 +5163,6 @@ Po 13 grudnia 1981 roku NSZZ RI zdelegalizowano wraz z innymi strukturami Solida
     relatedIds: ['solidarnosc', 'wies-prl', 'kolektywizacja', 'stan-wojenny', 'sierpien-1980'],
   },
 
-  // --- SOWIECI W POLSCE (PGWN) ---
   {
     id: 'pgwn',
     title: 'Sowieci w Polsce – Północna Grupa Wojsk',
@@ -5250,186 +5219,7 @@ Negocjacje o wycofaniu wojsk sowieckich rozpoczęły się w 1990 roku. Ostatni �
     ],
     relatedIds: ['uklad-warszawski', 'lwp', 'manifest-pkwn', 'stan-wojenny', 'gorbaczow'],
   },
-  {
-    id: 'kosciol-prl',
-    title: 'Kościół katolicki w PRL',
-    subtitle: 'Wiara, opór i polityka religijna 1944–1989',
-    category: 'społeczeństwo',
-    tags: ['kościół', 'religia', 'katolicyzm', 'Wyszyński', 'Jan Paweł II', 'polityka religijna', 'UdSW', 'Millennium'],
-    yearStart: 1944,
-    yearEnd: 1989,
-    summary: 'Kościół katolicki był w PRL jedyną instytucją zdolną trwale opierać się presji komunistycznej, skupiając ok. 95% Polaków i stanowiąc centrum tożsamości narodowej oraz oporu społecznego.',
-    content: `## Kościół wobec nowej władzy (1944–1956)
 
-Po 1944 r. komuniści próbowali podporządkować Kościół państwu. Już w 1945 r. zerwali konkordat z Watykanem, przejęli szkolnictwo wyznaniowe, a w 1950 r. znacjonalizowali majątki kościelne bez odszkodowania. W 1953 r. aresztowali prymasa Stefana Wyszyńskiego – więzili go do 1956 r. Mimo to Kościół zachował podstawowe struktury dzięki twardej postawie hierarchów i masowej wierności wiernych.
-
-## Wielka Nowenna i Millennium (1957–1966)
-
-Po Październiku 1956 r. prymas Wyszyński zaproponował dziewięcioletni program odnowy religijno-moralnej – Wielką Nowennę – zakończoną obchodami Millennium Chrztu Polski w 1966 r. Komuniści odpowiedzieli kontrakcją: państwowymi uroczystościami 1000-lecia państwa polskiego. Bitwa o serca Polaków zakończyła się wyraźnym zwycięstwem Kościoła: setki tysięcy uczestniczyło w pielgrzymkach, a władze nie zdołały zablokować peregrynacji Kopii Obrazu Jasnogórskiego.
-
-## Jan Paweł II i przełom (1978–1989)
-
-Wybór kard. Karola Wojtyły na papieża w 1978 r. był szokiem dla systemu. Pierwsza pielgrzymka Jana Pawła II do Polski w 1979 r. – ze słynnymi słowami z Placu Zwycięstwa: "Niech zstąpi Duch Twój i odnowi oblicze ziemi. Tej ziemi!" – wywołała masowe przebudzenie i wzmocniła opozycję. Kościół stał się naturalnym sprzymierzeńcem "Solidarności" i schronieniem dla podziemia po 1981 r.
-
-## Strategia Wyszyńskiego
-
-Prymas przyjął taktykę "non possumus" – nieugiętego oporu przy jednoczesnym unikaniu otwartej konfrontacji. Podpisywał porozumienia z państwem (1950, 1956), lecz traktował je instrumentalnie, chroniąc strukturę Kościoła. Jego następca, kard. Józef Glemp, starał się balansować między rządem a "Solidarnością".
-
-## Represje wobec Kościoła
-
-UdSW (Urząd ds. Wyznań) inwigilował hierarchów i księży poprzez sieć tajnych współpracowników. SB infiltrowała seminaria duchowne. Szczytowym aktem represji było zamordowanie ks. Jerzego Popiełuszki przez oficerów SB w 1984 r. – mord, który wstrząsnął całą Polską i skompromitował system.`,
-    resources: [
-      {
-        id: 'kosciol-1',
-        title: 'Materiały edukacyjne IPN – Kościół w PRL',
-        type: 'publikacja',
-        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne',
-        source: 'Instytut Pamięci Narodowej',
-        description: 'Materiały dydaktyczne o relacjach państwo–Kościół w Polsce Ludowej.',
-        year: 2020,
-        downloadable: true,
-      },
-      {
-        id: 'kosciol-2',
-        title: 'Akta Urzędu ds. Wyznań – inwentarz IPN',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/',
-        source: 'Instytut Pamięci Narodowej',
-        description: 'Archiwum akt UdSW i SB dotyczących inwigilacji Kościoła.',
-        year: 1950,
-      },
-      {
-        id: 'kosciol-3',
-        title: 'Prasa katolicka i dokumenty kościelne – Polona',
-        type: 'dokument',
-        url: 'https://polona.pl/',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Zdigitalizowane zasoby prasy katolickiej i dokumentów kościelnych z okresu PRL.',
-        year: 1945,
-        downloadable: true,
-      },
-    ],
-    relatedIds: ['wyszynski', 'jan-pawel-ii', 'popieluszko', 'stan-wojenny', 'solidarnosc'],
-  },
-  {
-    id: 'sierpien-1980',
-    title: 'Sierpień 1980 i Porozumienia Gdańskie',
-    subtitle: 'Narodziny Solidarności – 21 postulatów i zwycięstwo robotników',
-    category: 'opozycja',
-    tags: ['sierpień 1980', 'Solidarność', 'strajk', 'Gdańsk', 'Wałęsa', 'MKS', '21 postulatów', 'Porozumienia Gdańskie'],
-    yearStart: 1980,
-    yearEnd: 1980,
-    summary: 'Fala strajków w sierpniu 1980 r. doprowadziła do podpisania Porozumień Gdańskich – pierwszego w bloku wschodnim układu między władzą a robotnikami. Narodziła się "Solidarność" – 10-milionowy ruch społeczny.',
-    content: `## Geneza strajków
-
-Podwyżka cen mięsa ogłoszona 1 lipca 1980 r. wywołała falę strajków w całym kraju. Szczególnie aktywna była Lubelszczyzna (strajk kolejarzy), a następnie Wybrzeże. 14 sierpnia 1980 r. stanęła Stocznia Gdańska im. Lenina – pod przywództwem Lecha Wałęsy i Anny Walentynowicz.
-
-## Międzyzakładowy Komitet Strajkowy
-
-W Gdańsku powstał Międzyzakładowy Komitet Strajkowy (MKS), który skoordynował strajki setek zakładów. MKS sformułował 21 postulatów – listę żądań obejmującą m.in.: prawo do wolnych związków zawodowych, prawo do strajku, ograniczenie cenzury, przywrócenie do pracy zwolnionych za działalność opozycyjną.
-
-## Porozumienia Gdańskie
-
-31 sierpnia 1980 r. rząd PRL podpisał z MKS Porozumienia Gdańskie. Wicepremier Mieczysław Jagielski i Lech Wałęsa złożyli podpisy w sali BHP Stoczni Gdańskiej. Był to precedens – władza komunistyczna po raz pierwszy oficjalnie uznała niezależne związki zawodowe.
-
-## Narodziny "Solidarności"
-
-17 września 1980 r. w Gdańsku zawiązał się NSZZ "Solidarność". Do końca roku liczyła ok. 10 milionów członków – co trzeci dorosły Polak. Przewodniczącym został Lech Wałęsa. "Solidarność" stała się fenomenem na skalę światową i zapoczątkowała proces, który 9 lat później doprowadził do końca PRL.
-
-## Znaczenie historyczne
-
-Porozumienia Gdańskie pokazały, że system komunistyczny można reformować przez masowy, pokojowy opór. Ich wpływ wykroczył poza Polskę – wzbudziły nadzieję we wszystkich krajach bloku wschodniego i niepokoiły Moskwę, która przez cały 1981 r. rozważała interwencję zbrojną.`,
-    resources: [
-      {
-        id: 'sierpien-1',
-        title: '21 postulatów MKS – zbiory ECS',
-        type: 'dokument',
-        url: 'https://www.ecs.gda.pl/',
-        source: 'Europejskie Centrum Solidarności, Gdańsk',
-        description: 'Zbiory Europejskiego Centrum Solidarności obejmujące oryginalne dokumenty MKS i Porozumień Gdańskich.',
-        year: 1980,
-        downloadable: true,
-      },
-      {
-        id: 'sierpien-2',
-        title: 'Akta strajkowe – Stocznia Gdańska 1980',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/',
-        source: 'Instytut Pamięci Narodowej',
-        description: 'Dokumenty SB i KC PZPR dotyczące sierpniowych strajków 1980 r.',
-        year: 1980,
-      },
-      {
-        id: 'sierpien-3',
-        title: 'Nagrania filmowe – sierpień 1980',
-        type: 'nagranie',
-        url: 'https://ninateka.pl/',
-        source: 'NINATEKA – Narodowy Instytut Audiowizualny',
-        description: 'Archiwalne nagrania filmowe i dźwiękowe ze strajku w Stoczni Gdańskiej.',
-        year: 1980,
-      },
-    ],
-    relatedIds: ['solidarnosc', 'walentynowicz', 'stan-wojenny', 'stocznia-gdanska', 'kor'],
-  },
-  {
-    id: 'popieluszko',
-    title: 'Ks. Jerzy Popiełuszko',
-    subtitle: 'Kapelan Solidarności – ofiara komunistycznego terroru (1947–1984)',
-    category: 'osoby',
-    tags: ['Popiełuszko', 'ksiądz', 'kapelan', 'SB', 'mord polityczny', 'Solidarność', 'Żoliborz', 'beatyfikacja'],
-    yearStart: 1947,
-    yearEnd: 1984,
-    summary: 'Ks. Jerzy Popiełuszko – kapelan robotników i "Solidarności", głoszący Msze za Ojczyznę – został zamordowany przez oficerów SB w październiku 1984 r. Stał się symbolem oporu i ofiary komunistycznej przemocy.',
-    content: `## Kapłan z Okopów
-
-Jerzy Popiełuszko urodził się 14 września 1947 r. w Okopach (Białostockie). Wyświęcony w 1972 r., trafił do warszawskiej parafii pw. św. Stanisława Kostki na Żoliborzu. Wrażliwy na ludzką krzywdę, od początku stanu wojennego angażował się w pomoc internowanym i ich rodzinom.
-
-## Msze za Ojczyznę
-
-Od 1982 r. ks. Popiełuszko odprawiał comiesięczne Msze za Ojczyznę. Gromadziły dziesiątki tysięcy wiernych i były transmitowane przez Radio Wolna Europa. Jego kazania – pełne odwołań do godności, prawdy i pokoju – trafiały do serc robotników, inteligentów i studentów. "Zło dobrem zwyciężaj" – to słowa, które stały się jego duchowym testamentem.
-
-## Prześladowania przez SB
-
-SB prowadziła przeciw księdzu rozległą inwigilację (sprawa operacyjna "Popiel"). Był wielokrotnie przesłuchiwany, grożono mu. W 1984 r. podjęto kilka nieudanych prób zamachu. Kapitan Piotrowski i porucznicy Chmielewski i Pękala z Departamentu IV SB (odpowiedzialnego za zwalczanie Kościoła) podjęli decyzję o zamordowaniu.
-
-## Mord i odkrycie zwłok
-
-19 października 1984 r. – w drodze z Bydgoszczy do Warszawy – ks. Popiełuszko został porwany przez oficerów SB. Pobity i zakneblowany, wrzucony do bagażnika, utopiony w Zalewie Włocławskim. 30 października 1984 r. wyłowiono jego ciało. Pogrzeb 3 listopada 1984 r. zgromadził ok. 250–350 tysięcy ludzi i przekształcił się w wielką manifestację.
-
-## Znaczenie i beatyfikacja
-
-Mord wstrząsnął Polską i światem. Sprawcy stanęli przed sądem – precedens w bloku wschodnim: komunistyczna władza sądziła własnych funkcjonariuszy za zabójstwo. Jan Paweł II beatyfikował Jerzego Popiełuszkę w 2010 r. Jego grób przy kościele na Żoliborzu jest miejscem pielgrzymek z całego świata.`,
-    resources: [
-      {
-        id: 'popieluszko-1',
-        title: 'Oficjalna strona bł. Jerzego Popiełuszki',
-        type: 'publikacja',
-        url: 'https://popieluszko.pl/',
-        source: 'Parafia pw. św. Stanisława Kostki, Warszawa',
-        description: 'Obszerna biografia, kazania i dokumenty dotyczące bł. Jerzego Popiełuszki.',
-        year: 1984,
-      },
-      {
-        id: 'popieluszko-2',
-        title: 'Akta sprawy operacyjnej "Popiel"',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/',
-        source: 'Instytut Pamięci Narodowej',
-        description: 'Dokumenty SB dotyczące inwigilacji i sprawy zamordowania ks. Popiełuszki.',
-        year: 1982,
-      },
-      {
-        id: 'popieluszko-3',
-        title: 'Nagrania Mszy za Ojczyznę',
-        type: 'nagranie',
-        url: 'https://ninateka.pl/',
-        source: 'NINATEKA – Narodowy Instytut Audiowizualny',
-        description: 'Archiwalne nagrania mszy i kazań ks. Popiełuszki z lat 1982–1984.',
-        year: 1982,
-      },
-    ],
-    relatedIds: ['kosciol-prl', 'stan-wojenny', 'sb', 'solidarnosc', 'jan-pawel-ii'],
-  },
   {
     id: 'cyrankiewicz',
     title: 'Józef Cyrankiewicz',
@@ -5486,6 +5276,7 @@ Grudzień 1970 r. – masakra na Wybrzeżu – przyspieszył jego odejście z ce
     ],
     relatedIds: ['bierut', 'gomulka', 'gierek', 'pzpr', 'plan-szescioletni'],
   },
+
   {
     id: 'mieszkanie-prl',
     title: 'Mieszkalnictwo w PRL',
@@ -5546,6 +5337,7 @@ Wielka płyta okazała się trwalsza, niż sądzono. Dziś polskie blokowiska pr
     ],
     relatedIds: ['zycie-codzienne', 'plan-szescioletni', 'gierek', 'wies-prl'],
   },
+
   {
     id: 'kartki-prl',
     title: 'Kartki żywnościowe i reglamentacja',
@@ -5607,6 +5399,7 @@ Kartki znoszono stopniowo: cukier w 1985 r., mięso w 1989 r. Reforma Balcerowic
     ],
     relatedIds: ['zycie-codzienne', 'stan-wojenny', 'gierek', 'strajki-1988'],
   },
+
   {
     id: 'paszport-prl',
     title: 'Paszporty i ograniczenia wyjazdowe',
@@ -5667,6 +5460,7 @@ Dopiero w 1988 r. złagodzono przepisy, a 1 stycznia 1989 r. weszła w życie no
     ],
     relatedIds: ['sb', 'emigracja-1968', 'ucieczki-z-prl', 'stan-wojenny', 'internowanie'],
   },
+
   {
     id: 'prasa-prl',
     title: 'Prasa i dziennikarstwo w PRL',
@@ -5728,6 +5522,7 @@ W 1989 r. zniesiono GUKPiW. Stare tytuły partyjne szybko upadły lub zmieniły 
     ],
     relatedIds: ['cenzura-prl', 'drugi-obieg', 'propaganda-prl', 'tvp-prl', 'kor'],
   },
+
   {
     id: 'kielce-1946',
     title: 'Pogrom kielecki 1946',
@@ -5785,6 +5580,7 @@ Pogrom kielecki przyspieszyć masową emigrację polskich Żydów na Zachód i d
     ],
     relatedIds: ['marzec-1968', 'emigracja-1968', 'represje-polityczne', 'deportacje', 'manifest-pkwn'],
   },
+
   {
     id: 'pewex',
     title: 'Pewex i Baltona',
@@ -5845,6 +5641,7 @@ W 1990 r., po urynkowieniu i otwarciu granic, Pewex stracił rację bytu. Sklepy
     ],
     relatedIds: ['kartki-prl', 'zycie-codzienne', 'gospodarka-prl', 'gierek', 'ucieczki-z-prl'],
   },
+
   {
     id: 'kiesklowski',
     title: 'Krzysztof Kieślowski',
@@ -5905,6 +5702,7 @@ Kieślowski ogłosił zakończenie reżyserii po "Czerwonym" – i umarł nagle 
     ],
     relatedIds: ['kino-prl', 'polska-szkola-filmowa', 'wajda', 'tvp-prl', 'cenzura-prl'],
   },
+
   {
     id: 'kresy',
     title: 'Kresy Wschodnie – utracona ojczyzna',
@@ -5966,6 +5764,7 @@ Pokolenia wysiedlonych Kresowiaków wychowywały dzieci i wnuki w kulcie utracon
     ],
     relatedIds: ['jalta', 'ziemie-odzyskane', 'repatriacje', 'akcja-wisla', 'deportacje'],
   },
+
   {
     id: 'repatriacje',
     title: 'Wielka migracja powojenna',
@@ -6027,6 +5826,7 @@ Ziemie Odzyskane stały się tyglem etnicznym i kulturowym: obok Polaków z Kres
     ],
     relatedIds: ['kresy', 'ziemie-odzyskane', 'akcja-wisla', 'jalta', 'manifest-pkwn'],
   },
+
   {
     id: 'reforma-rolna',
     title: 'Reforma rolna PKWN 1944',
@@ -6088,6 +5888,7 @@ Kwestia odszkodowań dla potomków wywłaszczonych właścicieli ziemskich pozos
     ],
     relatedIds: ['manifest-pkwn', 'kolektywizacja', 'wies-prl', 'nacjonalizacja', 'bierut'],
   },
+
   {
     id: 'polska-kronika-filmowa',
     title: 'Polska Kronika Filmowa',
@@ -6148,6 +5949,7 @@ PKF przeżyła PRL – nadawano ją do 1994 r., zmieniając stopniowo profil. Ar
     ],
     relatedIds: ['kino-prl', 'propaganda-prl', 'tvp-prl', 'kiesklowski', 'wajda'],
   },
+
   {
     id: 'nauka-prl',
     title: 'Nauka i szkolnictwo wyższe w PRL',
@@ -6209,6 +6011,7 @@ Emigracja naukowców była stałym problemem. Wybitni uczeni opuszczali PRL – 
     ],
     relatedIds: ['edukacja-prl', 'nzs', 'marzec-1968', 'emigracja-1968', 'lem'],
   },
+
   {
     id: 'moda-prl',
     title: 'Moda i ubiór w PRL',
@@ -6270,6 +6073,7 @@ Lata 80. przyniosły pewną liberalizację mody: krakowskie bazary, "ciucholandy
     ],
     relatedIds: ['zycie-codzienne', 'pewex', 'muzyka-rockowa', 'dzieci-prl', 'kartki-prl'],
   },
+
   {
     id: 'kuchnia-prl',
     title: 'Kuchnia i jedzenie w PRL',
@@ -6331,6 +6135,7 @@ Polacy prowadzili intensywną produkcję domową: przetwory, dżemy, pikliki, na
     ],
     relatedIds: ['zycie-codzienne', 'kartki-prl', 'wies-prl', 'kobiety-prl', 'wczasy-fwp'],
   },
+
   {
     id: 'kino-moralnego-niepokoju',
     title: 'Kino moralnego niepokoju',
@@ -6391,6 +6196,7 @@ Stan wojenny 1981 r. zakończył nurt – część twórców wyemigrowała (Holl
     ],
     relatedIds: ['kino-prl', 'kiesklowski', 'wajda', 'cenzura-prl', 'stan-wojenny'],
   },
+
   {
     id: 'polacy-na-emigracji',
     title: 'Polska emigracja na Zachodzie',
@@ -6453,6 +6259,7 @@ W latach 80. emigracja zachodnia aktywnie wspierała "Solidarność": zbierała 
     ],
     relatedIds: ['rzad-emigracyjny', 'kultura-paryz', 'anders', 'radio-wolna-europa', 'emigracja-1968'],
   },
+
   {
     id: 'nostalgia-prl',
     title: 'Nostalgia za PRL',
@@ -6514,672 +6321,7 @@ Historycy wskazują, że nostalgia za PRL jest specyficzna dla pokolenia dorosł
     ],
     relatedIds: ['zycie-codzienne', 'kuchnia-prl', 'animacja-prl', 'wczasy-fwp', 'sport-prl'],
   },
-  {
-    id: 'grudzien-1970',
-    title: 'Grudzień 1970',
-    subtitle: 'Masakra na Wybrzeżu – robotnicza krew i upadek Gomułki',
-    category: 'opozycja',
-    tags: ['grudzień 1970', 'Wybrzeże', 'Gdańsk', 'Gdynia', 'Szczecin', 'strajk', 'masakra', 'Gomułka', 'Gierek'],
-    yearStart: 1970,
-    yearEnd: 1970,
-    summary: 'W grudniu 1970 r. robotnicy Wybrzeża wyszli na ulice protestując przeciw podwyżkom cen. Milicja i wojsko otworzyły ogień – zginęło co najmniej 45 osób. Masakra zakończyła epokę Gomułki i wyniosła do władzy Gierka.',
-    content: `## Podwyżka cen tuż przed świętami
 
-12 grudnia 1970 r. władze PRL ogłosiły drastyczne podwyżki cen żywności – nawet o 30%. Termin był wyjątkowo cyniczny: kilka dni przed Bożym Narodzeniem. Robotnicy Stoczni Gdańskiej im. Lenina przerwali pracę już następnego dnia rano.
-
-## Pierwsze ofiary – Gdańsk
-
-14 grudnia 1970 r. tłum manifestantów podpalił siedzibę KW PZPR w Gdańsku. Władza odpowiedziała siłą – milicja i wojsko strzelały do robotników. Przed gdańską stocznią padły pierwsze ofiary śmiertelne. Kolejne dni przyniosły starcia w Gdyni – gdzie rankiem 17 grudnia żołnierze otworzyli ogień do robotników wychodzących z tramwajów przy stoczni.
-
-## Gdynia – "czarna sobota"
-
-17 grudnia 1970 r. – "czarna sobota" – był najkrwawszy. W Gdyni zginęło wielu robotników. Ciało jednego z nich, Zbyszka Godlewskiego (21 lat), niesione na drzwiach przez tłum, stało się symbolem tragedii i inspiracją dla Macieja Kaleńskiego, który opisał tę scenę w wierszu "Robotnicy" – i dla Jacka Kaczmarskiego, który napisał pieśń "Mury".
-
-## Szczecin i inne miasta
-
-Protesty rozlały się na Szczecin (starcia trwały do 22 grudnia) i inne ośrodki Wybrzeża. Łączna liczba ofiar: oficjalnie 45 zabitych, setki rannych, tysiące zatrzymanych. Dane te przez lata były zaniżane.
-
-## Upadek Gomułki
-
-20 grudnia 1970 r. Władysław Gomułka – złamany i schorowany – podał się do dymisji. Na czele PZPR stanął Edward Gierek, który pojechał do Szczecina i Gdańska i zwrócił się do robotników słowami: "Pomożecie?" – co wywołało owację i przyniosło mu chwilową popularność.`,
-    resources: [
-      {
-        id: 'grudz-1',
-        title: 'Materiały edukacyjne IPN – Grudzień 1970',
-        type: 'publikacja',
-        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne',
-        source: 'Instytut Pamięci Narodowej',
-        description: 'Opracowania dydaktyczne o wydarzeniach Grudnia 1970 na Wybrzeżu.',
-        year: 2020,
-        downloadable: true,
-      },
-      {
-        id: 'grudz-2',
-        title: 'Akta śledztwa – zasoby IPN',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/',
-        source: 'Instytut Pamięci Narodowej',
-        description: 'Dokumenty IPN dotyczące masakry na Wybrzeżu i śledztwa w sprawie ofiar.',
-        year: 1970,
-      },
-      {
-        id: 'grudz-3',
-        title: 'Nagrania i fotografie z Grudnia 1970',
-        type: 'zdjęcie',
-        url: 'https://ninateka.pl/',
-        source: 'NINATEKA – Narodowy Instytut Audiowizualny',
-        description: 'Archiwalne materiały fotograficzne i filmowe z wydarzeń grudniowych.',
-        year: 1970,
-      },
-    ],
-    relatedIds: ['gomulka', 'gierek', 'solidarnosc', 'strajki-1988', 'czerwiec-1956'],
-  },
-  {
-    id: 'marzec-1968',
-    title: 'Marzec 1968',
-    subtitle: 'Studencki bunt, antysemicka nagonka i emigracja Żydów polskich',
-    category: 'opozycja',
-    tags: ['marzec 1968', 'studenci', 'antysemityzm', 'emigracja', 'Żydzi', 'Gomułka', 'Moczar', 'Dziady', 'UW'],
-    yearStart: 1968,
-    yearEnd: 1968,
-    summary: 'Marzec 1968 to czas podwójnej tragedii: studenckich protestów brutalnie stłumionych przez milicję oraz zorganizowanej kampanii antysemickiej, która zmusiła ok. 15–20 tys. polskich Żydów do emigracji.',
-    content: `## Dziady i iskra protestu
-
-Bezpośrednim zapalnikiem były "Dziady" Adama Mickiewicza w Teatrze Narodowym w Warszawie w reżyserii Kazimierza Dejmka. Spektakl – pełen antysowieckich i patriotycznych skojarzeń – przyciągał tłumy. Władze zakazały dalszych przedstawień. 30 stycznia 1968 r. studenci urządzili spontaniczną demonstrację przed teatrem, którą milicja rozpędziła.
-
-## Strajk studencki
-
-8 marca 1968 r. na Uniwersytecie Warszawskim zaczął się wiec protestacyjny. Milicja i "aktywiści" PZPR brutalnie rozbili demonstrację. Kolejne dni przyniosły protesty w całej Polsce: Kraków, Wrocław, Poznań, Łódź, Gdańsk. Studenci żądali wolności słowa i zniesienia cenzury. Moczarowska bezpieka aresztowała setki osób, relegowano z uczelni wielu studentów.
-
-## Kampania antysemicka
-
-Równolegle z tłumieniem protestów partyjni "twardogłowi" z frakcji Mieczysława Moczara uruchomili kampanię antysemicką pod hasłem walki z "syjonizmem". W prasie, zakładach pracy i instytucjach organizowano zebrania, gdzie wymuszano na Żydach wyrzeczenie się "podwójnej lojalności". Zwalniano ich ze stanowisk i z pracy.
-
-## Emigracja
-
-W latach 1968–1972 ok. 15–20 tys. polskich Żydów – często rodzin o wielopokoleniowych korzeniach – zmuszono do emigracji. Wyjeżdżali z dokumentem "podróżnym" (nie paszportem) i bez prawa powrotu, tracąc dobytek i obywatelstwo. Polska straciła resztki swojej wielowiekowej społeczności żydowskiej.
-
-## Znaczenie
-
-Marzec 1968 stał się dla wielu uczestników – Michnika, Kuronia, Szlajfera – szkołą oporu i doświadczeniem, które ukształtowało późniejszą opozycję. Był też pierwszym masowym protestem inteligencji w historii PRL.`,
-    resources: [
-      {
-        id: 'marzec68-1',
-        title: 'Materiały edukacyjne IPN – Marzec 1968',
-        type: 'publikacja',
-        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne',
-        source: 'Instytut Pamięci Narodowej',
-        description: 'Opracowania dydaktyczne o protestach studenckich i kampanii antysemickiej 1968 r.',
-        year: 2018,
-        downloadable: true,
-      },
-      {
-        id: 'marzec68-2',
-        title: 'Akta SB dotyczące Marca 1968',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/',
-        source: 'Instytut Pamięci Narodowej',
-        description: 'Dokumenty Służby Bezpieczeństwa z okresu protestów marcowych.',
-        year: 1968,
-      },
-      {
-        id: 'marzec68-3',
-        title: 'Prasa z marca 1968 – Polona',
-        type: 'publikacja',
-        url: 'https://polona.pl/',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Zdigitalizowane gazety z okresu Marca 1968 – propagandowe doniesienia oficjalnej prasy.',
-        year: 1968,
-        downloadable: true,
-      },
-    ],
-    relatedIds: ['michnik', 'kuron', 'emigracja-1968', 'cenzura-prl', 'gomulka'],
-  },
-  {
-    id: 'czerwiec-1976',
-    title: 'Czerwiec 1976',
-    subtitle: 'Radom i Ursus – robotniczy bunt i narodziny KOR',
-    category: 'opozycja',
-    tags: ['czerwiec 1976', 'Radom', 'Ursus', 'strajk', 'ścieżki zdrowia', 'podwyżka', 'Gierek', 'KOR'],
-    yearStart: 1976,
-    yearEnd: 1976,
-    summary: 'Podwyżka cen żywności ogłoszona 24 czerwca 1976 r. wywołała strajki w Radomiu i Ursusie. Milicja stosowała "ścieżki zdrowia" – bicie aresztowanych. W odpowiedzi na represje powstał KOR – przełomowe ogniwo polskiej opozycji.',
-    content: `## Podwyżka i natychmiastowy strajk
-
-24 czerwca 1976 r. premier Jaroszewicz ogłosił drastyczne podwyżki cen: mięso drożało o 69%, cukier o 90%. Reakcja była błyskawiczna. Już następnego dnia stanęły zakłady w Radomiu (Zakłady Metalowe im. Waltera), Ursusie (Zakłady Mechaniczne) i Płocku. W Radomiu tłum podpalił gmach KW PZPR.
-
-## Ścieżki zdrowia
-
-Milicja i ZOMO aresztowały setki strajkujących. W czasie przesłuchań stosowano "ścieżki zdrowia" – aresztowani musieli przebiegać przez szpaler milicjantów bijących ich pałkami. Ta technika brutalnego upokorzenia stała się symbolem represji 1976 r. Wielu skazano na kary więzienia w trybie przyspieszonym ("kolegia").
-
-## Cofnięcie podwyżki
-
-Władze przestraszone skalą protestu cofnęły podwyżki już 25 czerwca. Gierek ogłosił "konsultacje społeczne". Była to pozorna wygrana – represje wobec uczestników trwały.
-
-## Narodziny KOR
-
-We wrześniu 1976 r. z inicjatywy Jacka Kuronia, Adama Michnika, Antoniego Macierewicza i innych intelektualistów powstał Komitet Obrony Robotników (KOR). Jego celem była jawna, legalna pomoc prawnai finansowa dla represjonowanych robotników i ich rodzin. KOR był przełomem: pierwszy raz inteligencja i robotnicy stanęli ramię w ramię.
-
-## Znaczenie
-
-Czerwiec 1976 i powstanie KOR zapoczątkowały nowy etap w historii polskiej opozycji – tworzenie jawnych, sieciowych struktur obywatelskich, które cztery lata później stały się zalążkiem "Solidarności".`,
-    resources: [
-      {
-        id: 'czer76-1',
-        title: 'Materiały edukacyjne IPN – Czerwiec 1976',
-        type: 'publikacja',
-        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne',
-        source: 'Instytut Pamięci Narodowej',
-        description: 'Opracowania dydaktyczne o wydarzeniach w Radomiu i Ursusie w czerwcu 1976 r.',
-        year: 2016,
-        downloadable: true,
-      },
-      {
-        id: 'czer76-2',
-        title: 'Akta SB – Radom 1976',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/',
-        source: 'Instytut Pamięci Narodowej',
-        description: 'Dokumenty SB i milicji dotyczące pacyfikacji protestów i aresztowań.',
-        year: 1976,
-      },
-      {
-        id: 'czer76-3',
-        title: 'Prasa podziemna o Czerwcu 1976',
-        type: 'dokument',
-        url: 'https://polona.pl/',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Pierwsze podziemne biuletyny KOR dokumentujące represje wobec robotników.',
-        year: 1976,
-        downloadable: true,
-      },
-    ],
-    relatedIds: ['kor', 'kuron', 'michnik', 'solidarnosc', 'gierek'],
-  },
-  {
-    id: 'czerwiec-1956',
-    title: 'Poznański Czerwiec 1956',
-    subtitle: 'Pierwszy wielki bunt robotniczy – 57 zabitych na ulicach Poznania',
-    category: 'opozycja',
-    tags: ['Poznań 1956', 'czerwiec 1956', 'strajk', 'protest', 'Cegielski', 'czołgi', 'ofiary', 'odwilż'],
-    yearStart: 1956,
-    yearEnd: 1956,
-    summary: 'Czerwiec 1956 r. był pierwszym masowym buntem robotniczym w PRL. Robotnicy Poznania – z Zakładów im. Stalina (Cegielski) na czele – wyszli na ulice. Wojsko i czołgi stłumiły protest. Zginęło co najmniej 57 osób.',
-    content: `## Żądania ekonomiczne i niezadowolenie
-
-Poznańscy robotnicy – przede wszystkim z Zakładów im. Hipolita Cegielskiego (przemianowanych na "Zakłady im. Stalina") – od miesięcy walczyli o podwyżki płac i zmniejszenie norm produkcyjnych. Delegacje jeżdżące do Warszawy wracały z niczym. Frustracja narastała.
-
-## 28 czerwca 1956 – wyjście na ulice
-
-28 czerwca 1956 r. rano kilkanaście tysięcy robotników wyruszyło z zakładów na ulice Poznania z transparentami "Chleba i wolności!", "Żądamy wolności!", "Precz z Ruskami!". Demonstracja szybko przerodziła się w powstanie: tłum szturmował więzienie i siedziby Urzędu Bezpieczeństwa, skąd wyciągał broń.
-
-## Pacyfikacja wojskiem
-
-Władze skierowały do Poznania wojsko i czołgi – ok. 10 tys. żołnierzy i ok. 350 pojazdów pancernych. Walki uliczne trwały przez cały dzień. Do wieczora stłumiono opór, lecz polegli ranni przez kolejne dni. Ostateczny bilans: co najmniej 57 zabitych (w tym 13-letni Romek Strzałkowski), ponad 600 rannych, ok. 700 aresztowanych.
-
-## Reakcja władz i "odwilż"
-
-Cyrankiewicz groził "odrąbaniem ręki" każdemu, kto "podniesie ją" na władzę. Bierut był już martwy (zmarł w Moskwie w marcu), a w PZPR trwała walka o władzę. Czerwiec 1956 r. przyspieszył "odwilż" – Październik 1956 r. i powrót Gomułki do władzy. Procesy uczestników zakończyły się stosunkowo łagodnie (jak na standardy PRL), co samo w sobie było sygnałem zmiany.
-
-## Pamięć i upamiętnienie
-
-Pomnik Czerwca 1956 (dwa krzyże) stanął na placu Mickiewicza w Poznaniu w 1981 r. – rok "Solidarności". Czerwiec 1956 jest dziś oficjalnie uznany za fundament polskiego oporu wobec komunizmu.`,
-    resources: [
-      {
-        id: 'poz56-1',
-        title: 'Materiały edukacyjne IPN – Poznański Czerwiec 1956',
-        type: 'publikacja',
-        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne',
-        source: 'Instytut Pamięci Narodowej',
-        description: 'Opracowania dydaktyczne o buncie robotniczym w Poznaniu w czerwcu 1956 r.',
-        year: 2016,
-        downloadable: true,
-      },
-      {
-        id: 'poz56-2',
-        title: 'Akta śledcze i dokumenty UB – 1956',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/',
-        source: 'Instytut Pamięci Narodowej',
-        description: 'Dokumenty UB i wojska dotyczące pacyfikacji Poznania i aresztowań.',
-        year: 1956,
-      },
-      {
-        id: 'poz56-3',
-        title: 'Fotografie z Poznania – czerwiec 1956',
-        type: 'zdjęcie',
-        url: 'https://polona.pl/',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Archiwalne fotografie z wydarzeń poznańskich z czerwca 1956 r.',
-        year: 1956,
-        downloadable: true,
-      },
-    ],
-    relatedIds: ['gomulka', 'bierut', 'cyrankiewicz', 'pazdziernik-1956', 'grudzien-1970'],
-  },
-  {
-    id: 'nowa-huta',
-    title: 'Nowa Huta',
-    subtitle: 'Miasto bez Boga – socjalistyczny eksperyment i opór robotniczy',
-    category: 'społeczeństwo',
-    tags: ['Nowa Huta', 'hutnictwo', 'kombinat', 'Kraków', 'bloki', 'socrealizm', 'krzyż', 'Solidarność'],
-    yearStart: 1949,
-    yearEnd: 1989,
-    summary: 'Nowa Huta – wybudowana od podstaw pod Krakowem od 1949 r. – miała być wzorcowym miastem socjalistycznym i antidotum na "burżuazyjny" Kraków. Stała się symbolem sprzeczności PRL: gigantyczny kombinat, architektura socrealizmu i robotnicy, którzy w 1980 r. masowo wstąpili do "Solidarności".',
-    content: `## Miasto budowane od zera
-
-Decyzja o budowie kombinatu metalurgicznego pod Krakowem zapadła w 1947 r. – był to element Planu 6-letniego i świadomej decyzji politycznej. Kraków, miasto inteligencji i Kościoła, miał zostać "rozcieńczony" masą robotniczą. Od 1949 r. budowę prowadziły dziesiątki tysięcy robotników, często z całej Polski.
-
-## Architektura i układ urbanistyczny
-
-Nowa Huta powstawała jako wzorcowe miasto socrealistyczne: szerokie aleje, reprezentacyjny Plac Centralny (dziś Plac Ronalda Reagana), monumentalne bloki z detalami architektonicznymi w stylu "socjalistycznego klasycyzmu". Osiedle A – najstarsze – jest dziś wpisane na listę zabytków. Pierwotnie nie przewidziano żadnego kościoła.
-
-## Kombinat Metalurgiczny
-
-Kombinat im. Lenina (dziś ArcelorMittal) uruchomiono w 1954 r. W szczytowym okresie zatrudniał ok. 40 tys. pracowników i produkował miliony ton stali rocznie. Był symbolem industrializacji PRL – i jej ekologicznej katastrofy: kwaśne deszcze zniszczyły kamienne rzeźby zabytkowego Krakowa.
-
-## Walka o krzyż
-
-W 1960 r. władze odmówiły wydania pozwolenia na budowę kościoła. Mieszkańcy ustawili krzyż w miejscu planowanej świątyni – milicja go usunęła. Walka o krzyż i kościół trwała lata – stała się jednym z symboli oporu polskiego Kościoła i społeczeństwa. Kościół Matki Bożej Królowej Polski ("Arka Pana") wybudowano ostatecznie w 1977 r., po wielu latach protestów.
-
-## Nowa Huta i Solidarność
-
-Robotnicy Nowej Huty wstąpili do "Solidarności" masowo w 1980 r. W stanie wojennym kombinat stał się miejscem brutalnych starć z ZOMO. Robotnicze miasto, które miało być twierdzą komunizmu, okazało się jednym z silnych ognisk oporu.`,
-    resources: [
-      {
-        id: 'nowahuta-1',
-        title: 'Fotografie Nowej Huty – Polona',
-        type: 'zdjęcie',
-        url: 'https://polona.pl/',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Archiwalne fotografie budowy i życia w Nowej Hucie z lat 1949–1989.',
-        year: 1949,
-        downloadable: true,
-      },
-      {
-        id: 'nowahuta-2',
-        title: 'Dokumenty kombinatu i partii – zasoby archiwalne',
-        type: 'akt',
-        url: 'https://szukajwarchiwach.gov.pl/',
-        source: 'Naczelna Dyrekcja Archiwów Państwowych',
-        description: 'Archiwalne dokumenty kombina tu im. Lenina i organizacji partyjnych Nowej Huty.',
-        year: 1950,
-      },
-      {
-        id: 'nowahuta-3',
-        title: 'Kroniki filmowe – budowa Nowej Huty',
-        type: 'film',
-        url: 'https://ninateka.pl/',
-        source: 'NINATEKA – Narodowy Instytut Audiowizualny',
-        description: 'Propagandowe kroniki filmowe dokumentujące budowę kombinatu i miasta.',
-        year: 1950,
-      },
-    ],
-    relatedIds: ['plan-szescioletni', 'kosciol-prl', 'solidarnosc', 'mieszkanie-prl', 'stan-wojenny'],
-  },
-  {
-    id: 'walesa',
-    title: 'Lech Wałęsa',
-    subtitle: 'Elektryk ze Stoczni, który zmienił świat (ur. 1943)',
-    category: 'osoby',
-    tags: ['Wałęsa', 'Solidarność', 'Nobel', 'stocznia', 'MKS', 'prezydent', 'elektryk', 'Gdańsk'],
-    yearStart: 1943,
-    yearEnd: 1990,
-    summary: 'Lech Wałęsa – elektryk ze Stoczni Gdańskiej, przywódca sierpniowego strajku 1980 r. i NSZZ "Solidarność" – stał się twarzą pokojowego oporu wobec komunizmu. Laureat Pokojowej Nagrody Nobla (1983), pierwszy demokratycznie wybrany prezydent RP (1990).',
-    content: `## Robotnik i działacz związkowy
-
-Lech Wałęsa urodził się 29 września 1943 r. w Popowie (Kujawy). Po szkole zawodowej trafił do Stoczni Gdańskiej jako elektryk. Już w 1970 r. uczestniczył w grudniowych strajkach. W 1976 r. zwolniono go za działalność związkową; współtworzył Wolne Związki Zawodowe Wybrzeża.
-
-## Sierpień 1980
-
-14 sierpnia 1980 r. przeskoczył przez płot Stoczni Gdańskiej i stanął na czele strajku. Jako przewodniczący MKS negocjował z wicepremierem Jagielskim. 31 sierpnia 1980 r. podpisał Porozumienia Gdańskie – wielkim długopisem z podobizną Jana Pawła II. Ten gest – transmitowany na cały świat – stał się ikoną epoki.
-
-## Przywódca "Solidarności"
-
-Wałęsa został pierwszym przewodniczącym NSZZ "Solidarność". Prowadził 10-milionowy ruch balansując między radykalizmem bazy a unikaniem konfrontacji z władzą. Po 13 grudnia 1981 r. internowano go. Po zwolnieniu kontynuował działalność w podziemiu i jawnie.
-
-## Nobel i presja międzynarodowa
-
-W 1983 r. Lech Wałęsa otrzymał Pokojową Nagrodę Nobla. Nie pojechał do Oslo – bał się, że nie wpuszczą go z powrotem do kraju. Nagrodę odebrała jego żona Danuta. Wyróżnienie umocniło jego pozycję i wzmocniło presję międzynarodową na PRL.
-
-## Okrągły Stół i prezydentura
-
-W 1989 r. Wałęsa był kluczową postacią negocjacji Okrągłego Stołu. W wyborach prezydenckich 1990 r. pokonał Tadeusza Mazowieckiego i Stanisława Tymińskiego, zostając pierwszym demokratycznie wybranym prezydentem III RP. Prezydenturę (1990–1995) ocenia się ambiwalentnie.`,
-    resources: [
-      {
-        id: 'walesa-1',
-        title: 'Akta SB dotyczące Wałęsy – IPN',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/',
-        source: 'Instytut Pamięci Narodowej',
-        description: 'Dokumenty Służby Bezpieczeństwa dotyczące inwigilacji Lecha Wałęsy.',
-        year: 1970,
-      },
-      {
-        id: 'walesa-2',
-        title: 'Zbiory ECS – Wałęsa i Solidarność',
-        type: 'dokument',
-        url: 'https://www.ecs.gda.pl/',
-        source: 'Europejskie Centrum Solidarności, Gdańsk',
-        description: 'Dokumenty, fotografie i nagrania związane z Lechem Wałęsą i strajkami 1980 r.',
-        year: 1980,
-        downloadable: true,
-      },
-      {
-        id: 'walesa-3',
-        title: 'Nagrania – Wałęsa na sali BHP',
-        type: 'nagranie',
-        url: 'https://ninateka.pl/',
-        source: 'NINATEKA – Narodowy Instytut Audiowizualny',
-        description: 'Archiwalne nagrania filmowe z negocjacji i podpisania Porozumień Gdańskich.',
-        year: 1980,
-      },
-    ],
-    relatedIds: ['sierpien-1980', 'solidarnosc', 'walentynowicz', 'okragly-stol', 'stan-wojenny'],
-  },
-  {
-    id: 'okragly-stol',
-    title: 'Okrągły Stół 1989',
-    subtitle: 'Negocjacje, które zakończyły PRL – pakt elity czy konieczność dziejowa?',
-    category: 'polityka',
-    tags: ['Okrągły Stół', '1989', 'negocjacje', 'Solidarność', 'PZPR', 'Wałęsa', 'Kiszczak', 'wybory', 'transformacja'],
-    yearStart: 1989,
-    yearEnd: 1989,
-    summary: 'Obrady Okrągłego Stołu (6 lutego – 5 kwietnia 1989 r.) były negocjacjami między rządzącą PZPR a opozycją skupioną wokół "Solidarności". Ich owocem były częściowo wolne wybory 4 czerwca 1989 r. – które zakończyły PRL.',
-    content: `## Droga do stołu
-
-Jesień 1988 r. – fala strajków, gospodarcza zapaść, rosnąca presja społeczna. Minister spraw wewnętrznych gen. Czesław Kiszczak wezwał Lecha Wałęsę na tajne spotkanie w Magdalence. Władza była gotowa na ustępstwa; opozycja – na rozmowy. 6 lutego 1989 r. w sali Pałacu Namiestnikowskiego w Warszawie rozpoczęły się oficjalne obrady.
-
-## Uczestnicy i struktura
-
-Po stronie rządowej zasiedli m.in. Kiszczak, Aleksander Kwaśniewski, Mieczysław Rakowski. Po stronie opozycyjnej: Wałęsa, Michnik, Geremek, Mazowiecki, Kuroń. Prace prowadzono w trzech głównych stolikach: ds. reform politycznych, gospodarczych i pluralizmu związkowego. Dyskusje trwały prawie 2 miesiące.
-
-## Ustalenia
-
-5 kwietnia 1989 r. podpisano porozumienie. Kluczowe postanowienia: legalizacja "Solidarności", wolne wybory do Senatu (100 miejsc), kontraktowe wybory do Sejmu (35% mandatów dla opozycji, 65% z góry dla koalicji rządzącej), wolność słowa i stowarzyszeń, urząd Prezydenta RP.
-
-## Wybory 4 czerwca 1989
-
-Wynik wyborów był druzgocący dla PZPR: "Solidarność" zdobyła 99 na 100 miejsc w Senacie i wszystkie wolne mandaty sejmowe. Wielu kandydatów partyjnych nie uzyskało wymaganego progu na jednomandatowych listach. Wybory z 4 czerwca stały się symbolem końca komunizmu w Polsce i inspiracją dla całego bloku wschodniego.
-
-## Kontrowersje
-
-Okrągły Stół budzi spory do dziś. Krytycy zarzucają, że zagwarantował bezkarność aparatczykom i bezpiecznym agentom. Zwolennicy odpowiadają, że pokojowe przejście do demokracji ocalało Polskę od rozlewu krwi i pozwoliło na szybką transformację.`,
-    resources: [
-      {
-        id: 'okstol-1',
-        title: 'Stenogramy obrad Okrągłego Stołu',
-        type: 'dokument',
-        url: 'https://szukajwarchiwach.gov.pl/',
-        source: 'Naczelna Dyrekcja Archiwów Państwowych',
-        description: 'Archiwalne stenogramy i dokumenty z obrad Okrągłego Stołu 1989 r.',
-        year: 1989,
-        downloadable: true,
-      },
-      {
-        id: 'okstol-2',
-        title: 'Akta Okrągłego Stołu – IPN',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/',
-        source: 'Instytut Pamięci Narodowej',
-        description: 'Dokumenty z zasobu IPN dotyczące negocjacji i uczestników Okrągłego Stołu.',
-        year: 1989,
-      },
-      {
-        id: 'okstol-3',
-        title: 'Nagrania telewizyjne – obrady 1989',
-        type: 'nagranie',
-        url: 'https://ninateka.pl/',
-        source: 'NINATEKA – Narodowy Instytut Audiowizualny',
-        description: 'Archiwalne nagrania TVP z ceremonii otwarcia i zamknięcia obrad Okrągłego Stołu.',
-        year: 1989,
-      },
-    ],
-    relatedIds: ['walesa', 'solidarnosc', 'jaruzelski', 'mazowiecki', 'wybory-1989'],
-  },
-  {
-    id: 'lwp',
-    title: 'Ludowe Wojsko Polskie',
-    subtitle: 'Armia PRL – od Berlina do Pragi i pacyfikacji własnego narodu',
-    category: 'wojsko',
-    tags: ['LWP', 'wojsko', 'armia', 'Berlin 1945', 'Czechosłowacja 1968', 'stan wojenny', 'oficerowie', 'radziecka kontrola'],
-    yearStart: 1943,
-    yearEnd: 1989,
-    summary: 'Ludowe Wojsko Polskie – armia PRL tworzona od 1943 r. pod sowiecką kontrolą – uczestniczyło w II wojnie światowej, inwazji na Czechosłowację (1968) i pacyfikacji własnego społeczeństwa podczas stanu wojennego (1981).',
-    content: `## Geneza – armia spod znaku Berlinga
-
-LWP powstało w ZSRR w 1943 r. z inicjatywy sowieckich komunistów i polskich oficerów na czele z gen. Zygmuntem Berlingiem. Było alternatywą dla Armii Krajowej i Polskich Sił Zbrojnych na Zachodzie. Walczyło na froncie wschodnim u boku Armii Czerwonej, a wielu żołnierzy miało nadzieję, że walczą naprawdę o wolną Polskę.
-
-## Rola w 1945 r.
-
-LWP uczestniczyło w walkach o Berlin (kwiecień–maj 1945 r.) i w zdobywaniu Kołobrzegu. Żołnierze 2. Armii LWP bili się dzielnie – ale ich zwycięstwo przyniosło nie wolność, lecz nową zależność od Moskwy.
-
-## Stalinizacja i radzieccy oficerowie
-
-Po 1945 r. LWP poddano głębokiej stalinizacji. Na czele armii stał marsz. Konstantin Rokossowski – Rosjanin polskiego pochodzenia, mianowany Ministrem Obrony Narodowej PRL. Setki sowieckich oficerów obsadziło kluczowe stanowiska. Polskich oficerów – szczególnie z AK – represjonowano i eliminowano.
-
-## Inwazja na Czechosłowację 1968
-
-W sierpniu 1968 r. polska dywizja weszła do Czechosłowacji jako część sił Układu Warszawskiego tłumiących "Praską Wiosnę". Udział LWP w tłumieniu demokratycznych reform sąsiedniego kraju był potem tematem tabu; wielu polskich żołnierzy czuło wstyd i zażenowanie.
-
-## Stan wojenny 1981
-
-13 grudnia 1981 r. wojsko wyszło na ulice polskich miast. Czołgi, patrole wojskowe, blokady dróg. LWP – armia powołana do obrony ojczyzny – użyta została do pacyfikacji własnych obywateli. To zdarzenie głęboko podważyło prestiż instytucji wojska.`,
-    resources: [
-      {
-        id: 'lwp-1',
-        title: 'Materiały edukacyjne IPN – LWP',
-        type: 'publikacja',
-        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne',
-        source: 'Instytut Pamięci Narodowej',
-        description: 'Opracowania o historii Ludowego Wojska Polskiego i jego roli w PRL.',
-        year: 2018,
-        downloadable: true,
-      },
-      {
-        id: 'lwp-2',
-        title: 'Akta wojskowe – zasoby archiwalne',
-        type: 'akt',
-        url: 'https://szukajwarchiwach.gov.pl/',
-        source: 'Naczelna Dyrekcja Archiwów Państwowych',
-        description: 'Dokumenty dotyczące struktury i działalności Ludowego Wojska Polskiego.',
-        year: 1943,
-      },
-      {
-        id: 'lwp-3',
-        title: 'Kroniki filmowe – LWP w akcji',
-        type: 'film',
-        url: 'https://ninateka.pl/',
-        source: 'NINATEKA – Narodowy Instytut Audiowizualny',
-        description: 'Archiwalne kroniki filmowe z działań LWP w czasie II wojny i okresu PRL.',
-        year: 1945,
-      },
-    ],
-    relatedIds: ['uklad-warszawski', 'pgwn', 'stan-wojenny', 'zomo', 'jaruzelski'],
-  },
-  {
-    id: 'wujek',
-    title: 'KWK Wujek – pacyfikacja kopalni',
-    subtitle: 'Grudniowa masakra 1981 – 9 górników zabitych przez ZOMO',
-    category: 'represje',
-    tags: ['Wujek', 'kopalnia', 'Katowice', 'stan wojenny', 'ZOMO', 'górnicy', 'masakra', 'grudzień 1981'],
-    yearStart: 1981,
-    yearEnd: 1981,
-    summary: 'Kopalnia Węgla Kamiennego Wujek w Katowicach stała się miejscem najkrwawszej pacyfikacji stanu wojennego. 16 grudnia 1981 r. oddziały ZOMO otworzyły ogień do strajkujących górników – zginęło 9 osób, kilkudziesięciu było rannych.',
-    content: `## Strajk po 13 grudnia
-
-Po ogłoszeniu stanu wojennego 13 grudnia 1981 r. większość zakładów pracy podjęła strajki protestacyjne. Kopalnia Wujek w Katowicach należała do tych, które stawiły opór najdłużej. Górnicy zorganizowali strajk okupacyjny, domagając się cofnięcia stanu wojennego i uwolnienia internowanych.
-
-## 16 grudnia 1981
-
-O świcie 16 grudnia oddziały ZOMO i milicji okrążyły kopalnię. Górnicy bronili wejść, uzbrojeni w narzędzia i improwizowane tarcze. Dowódcy pacyfikacji wydali rozkaz szturmu. Podczas starcia ZOMO użyło broni palnej – oddano kilkadziesiąt strzałów.
-
-## Ofiary
-
-Zginęło 9 górników: Józef Czekalski, Krzysztof Giza, Joachim Gnida, Ryszard Gzik, Bogusław Kopczak, Andrzej Pełka, Jan Stawisiński, Zbigniew Wilk, Zenon Zając. Kilkudziesięciu zostało rannych. Był to największy jednorazowy akt przemocy stanu wojennego.
-
-## Ukrywanie prawdy
-
-Władze przez lata zatajały prawdziwe okoliczności masakry. Oficjalne komunikaty mówiły o "prowokacji" i konieczności "przywrócenia porządku". Dopiero po 1989 r. sprawa trafiła do prokuratury. Procesy sądowe ciągnęły się latami; ostatecznie w 2008 r. sąd skazał kilku oficerów ZOMO na kary więzienia.
-
-## Upamiętnienie
-
-Przy kopalni Wujek stoi pomnik ofiar – krzyż i tablica z nazwiskami. 16 grudnia jest obchodzony jako Dzień Pamięci Ofiar Stanu Wojennego. Wujek jest symbolem zbrojnej przemocy władzy PRL wobec własnych obywateli – obok Poznania 1956, Wybrzeża 1970 i Gdyni 1981.`,
-    resources: [
-      {
-        id: 'wujek-1',
-        title: 'Akta śledztwa – IPN Katowice',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/',
-        source: 'Instytut Pamięci Narodowej',
-        description: 'Dokumenty śledztwa w sprawie pacyfikacji KWK Wujek i materiały procesowe.',
-        year: 1981,
-      },
-      {
-        id: 'wujek-2',
-        title: 'Materiały edukacyjne IPN – KWK Wujek',
-        type: 'publikacja',
-        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne',
-        source: 'Instytut Pamięci Narodowej',
-        description: 'Opracowania dydaktyczne o pacyfikacji kopalni Wujek i ofiarach stanu wojennego.',
-        year: 2011,
-        downloadable: true,
-      },
-      {
-        id: 'wujek-3',
-        title: 'Fotografie i dokumenty z Wujka',
-        type: 'zdjęcie',
-        url: 'https://polona.pl/',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Archiwalne materiały fotograficzne i prasowe dokumentujące tragedię KWK Wujek.',
-        year: 1981,
-        downloadable: true,
-      },
-    ],
-    relatedIds: ['stan-wojenny', 'zomo', 'solidarnosc', 'internowanie', 'jaruzelski'],
-  },
-  {
-    id: 'gospodarka-prl',
-    title: 'Gospodarka PRL',
-    subtitle: 'Centralny plan, chroniczne niedobory i zadłużenie na Zachód',
-    category: 'gospodarka',
-    tags: ['gospodarka', 'planowanie centralne', 'niedobory', 'dług', 'industrializacja', 'reforma', 'inflacja', 'kryzys'],
-    yearStart: 1944,
-    yearEnd: 1989,
-    summary: 'Gospodarka PRL opierała się na centralnym planowaniu wzorowanym na sowieckim modelu. Przyniosła szybką industrializację lat 50., względną stabilność lat 60., boom kredytowy Gierka i katastrofalne zadłużenie, które doprowadziło do krachu w latach 80.',
-    content: `## Model sowiecki
-
-Po 1945 r. Polska przyjęła sowiecki model gospodarczy: nacjonalizacja przemysłu i handlu, przymusowa kolektywizacja rolnictwa (częściowo), centralne planowanie wszystkich dziedzin produkcji i dystrybucji. Prywatna własność środków produkcji była zasadniczo zakazana; małe prywatne rzemiosło i handel tolero wano, lecz gnębiono podatkami.
-
-## Industrializacja i cena wyrzeczeń (1949–1956)
-
-Plan 6-letni (1950–1955) skierował zasoby na ciężki przemysł: huty, kopalnie, fabryki maszyn. Konsumpcja i standard życia były celowo tłumione. Polska budowała Nową Hutę, Nowe Tychy i setki fabryk – kosztem rolnictwa i produkcji dóbr konsumpcyjnych. Efektem były niedobory żywności i towarów.
-
-## Gomułka i "mała stabilizacja" (1956–1970)
-
-Gomułka porzucił pełną kolektywizację i pozwolił chłopom na indywidualne gospodarstwa. Gospodarka osiągnęła pewną równowagę, lecz stagnowała. "Mała stabilizacja" oznaczała brak kryzysu, ale też brak postępu. Polska traciła dystans do rozwijającego się Zachodu.
-
-## Gierek i kredyty (1970–1980)
-
-Edward Gierek postawił na modernizację przez zachodnie kredyty. Miliardowe pożyczki sfinansowały import technologii i wzrost konsumpcji. Przez kilka lat Polacy żyli lepiej: "Fiat 126p", telewizory kolorowe, wycieczki zagraniczne dla wybranych. Ale w 1976 r. zadłużenie przekroczyło zdolności spłaty. Polska wpadła w pułapkę długu – do 1989 r. zadłużenie zagranicą wyniosło ok. 40 mld dolarów.
-
-## Kryzys lat 80.
-
-Stan wojenny nie rozwiązał żadnego problemu ekonomicznego. Inflacja szalała, półki były puste, kartki wróciły. Próby reform (1981–1987) nie dawały efektów. Dopiero rząd Mazowieckiego i "terapia szokowa" Balcerowicza (1990) wyprowadziły Polskę z socjalistycznej pułapki – za cenę chwilowego bólu transformacji.`,
-    resources: [
-      {
-        id: 'gosp-1',
-        title: 'Archiwum gospodarcze PRL – Polona',
-        type: 'publikacja',
-        url: 'https://polona.pl/',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Zdigitalizowane plany gospodarcze, roczniki statystyczne i prasa ekonomiczna PRL.',
-        year: 1950,
-        downloadable: true,
-      },
-      {
-        id: 'gosp-2',
-        title: 'Akta planowania centralnego',
-        type: 'akt',
-        url: 'https://szukajwarchiwach.gov.pl/',
-        source: 'Naczelna Dyrekcja Archiwów Państwowych',
-        description: 'Dokumenty Komisji Planowania i ministerstw gospodarczych PRL.',
-        year: 1950,
-      },
-      {
-        id: 'gosp-3',
-        title: 'Materiały edukacyjne IPN – gospodarka PRL',
-        type: 'publikacja',
-        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne',
-        source: 'Instytut Pamięci Narodowej',
-        description: 'Opracowania dydaktyczne o systemie gospodarczym Polski Ludowej.',
-        year: 2019,
-        downloadable: true,
-      },
-    ],
-    relatedIds: ['plan-szescioletni', 'nacjonalizacja', 'kartki-prl', 'gierek', 'fiat-126p'],
-  },
-  {
-    id: 'represje-polityczne',
-    title: 'Represje polityczne w PRL',
-    subtitle: 'Terror stalinowski, procesy pokazowe i codzienna przemoc systemu',
-    category: 'represje',
-    tags: ['represje', 'terror', 'procesy', 'UB', 'więzienia', 'stalinizm', 'wyroki śmierci', 'tortury'],
-    yearStart: 1944,
-    yearEnd: 1989,
-    summary: 'Represje polityczne towarzyszyły PRL od pierwszych dni: terror UB w latach 1944–1956, procesy pokazowe, wyroki śmierci na żołnierzach podziemia, a po "odwilży" – subtelniejsza, lecz stała kontrola i prześladowania opozycji aż do 1989 r.',
-    content: `## Terror stalinowski (1944–1956)
-
-Pierwsze lata PRL to czas masowego terroru. Urząd Bezpieczeństwa (UB) aresztował, torturował i mordował żołnierzy AK, działaczy PSL, księży i wszystkich, których uznano za zagrożenie dla systemu. Szacuje się, że w latach 1944–1956 UB aresztował ok. 300–400 tys. osób; wykonano co najmniej kilka tysięcy wyroków śmierci.
-
-## Procesy pokazowe
-
-Komuniści stosowali procesy pokazowe jako narzędzie terroru i propagandy. Najgłośniejsze: proces gen. Emila Fieldorfa "Nila" (wyrok śmierci 1953), proces bp. Czesława Kaczmarka (1953), procesy rotmistrza Pileckiego (wyrok śmierci 1948). Sądzono publicznie, wyroki były z góry ustalone, przyznania się wymuszano torturami.
-
-## Żołnierze wyklęci
-
-Podziemie niepodległościowe (AK, WiN, NSZ) walczyło jeszcze przez lata po 1945 r. – ostatni partyzanci ginęli w końcu lat 50. UB prowadziło przeciw nim operacje likwidacyjne, werbowało prowokatorów, mordowało jeńców. Ciała ofiar wrzucano do zbiorowych mogił, które odkryto dopiero po 1989 r.
-
-## Cenzura i kontrola po 1956
-
-Po "odwilży" terror zmniejszył się, lecz nie zniknął. SB przejęła rolę UB z finezją: inwigilacja, podsłuchy, prowokacje, wyrzucanie z pracy i uczelni, odmowa paszportów, nękanie rodzin. Wyjątkową brutalnością był stan wojenny (1981–1983): internowanie bez wyroku sądowego, odosobnienie, pobicia.
-
-## Skala i dziedzictwo
-
-IPN szacuje, że w całym okresie PRL przez areszt lub internowanie przeszło kilkaset tysięcy Polaków. Pełna skala represji – w tym ofiary śmiertelne – do dziś nie jest dokładnie ustalona. Lustracja i rozliczenia po 1989 r. okazały się niekompletne, co do dziś budzi emocje i spory polityczne.`,
-    resources: [
-      {
-        id: 'repr-1',
-        title: 'Inwentarz IPN – akta represji politycznych',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/',
-        source: 'Instytut Pamięci Narodowej',
-        description: 'Archiwum dokumentów UB/SB dotyczących represji politycznych w PRL.',
-        year: 1944,
-      },
-      {
-        id: 'repr-2',
-        title: 'Materiały edukacyjne IPN – terror stalinowski',
-        type: 'publikacja',
-        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne',
-        source: 'Instytut Pamięci Narodowej',
-        description: 'Opracowania dydaktyczne o zbrodniach stalinowskich w Polsce.',
-        year: 2017,
-        downloadable: true,
-      },
-      {
-        id: 'repr-3',
-        title: 'Dokumenty procesów politycznych – Polona',
-        type: 'dokument',
-        url: 'https://polona.pl/',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Zdigitalizowane akta i opracowania dotyczące procesów politycznych PRL.',
-        year: 1948,
-        downloadable: true,
-      },
-    ],
-    relatedIds: ['ub', 'sb', 'zolnierze-wykletci', 'wiezienia-polityczne', 'katyn'],
-  },
   {
     id: 'tajni-wspolpracownicy',
     title: 'Tajni współpracownicy SB',
@@ -7240,6 +6382,7 @@ Kwestia TW do dziś dzieli polskie społeczeństwo. Jedni domagają się pełneg
     ],
     relatedIds: ['sb', 'ub', 'kosciol-prl', 'solidarnosc', 'represje-polityczne'],
   },
+
   {
     id: 'deportacje',
     title: 'Deportacje Polaków na Wschód',
@@ -7306,6 +6449,7 @@ Temat deportacji był w PRL przemilczany – zbrodnie sowieckie podlegały cenzu
     ],
     relatedIds: ['katyn', 'zolnierze-wykletci', 'akcja-wisla', 'represje-polityczne', 'pgwn'],
   },
+
   {
     id: 'konstytucja-prl',
     title: 'Konstytucja PRL 1952',
@@ -7368,6 +6512,7 @@ Konstytucja PRL obowiązywała do 1989 r. – nowelizacje Okrągłego Stołu prz
     ],
     relatedIds: ['bierut', 'pzpr', 'manifest-pkwn', 'kor', 'wybory-1947'],
   },
+
   {
     id: 'dzieci-prl',
     title: 'Dzieci i młodzież w PRL',
@@ -7428,72 +6573,7 @@ Polska animacja i literatura dziecięca PRL stworzyły wiele wybitnych dzieł �
     ],
     relatedIds: ['edukacja-prl', 'propaganda-prl', 'nzs', 'zycie-codzienne', 'kobiety-prl'],
   },
-  {
-    id: 'pzpr',
-    title: 'PZPR – Polska Zjednoczona Partia Robotnicza',
-    subtitle: 'Partia-państwo 1948–1990 – monopol władzy i upadek',
-    category: 'polityka',
-    tags: ['PZPR', 'partia', 'komunizm', 'KC', 'Biuro Polityczne', 'aparat', 'nomenklatura', 'rozwiązanie'],
-    yearStart: 1948,
-    yearEnd: 1990,
-    summary: 'PZPR (1948–1990) była partią rządzącą PRL – jedyną legalną siłą polityczną posiadającą monopol na władzę. Kierowała państwem, gospodarką, armią i kulturą. Liczyła do 3 mln członków. Rozwiązała się sama w 1990 r., przyznając klęskę systemu.',
-    content: `## Powstanie – zjednoczenie PPR i PPS
 
-Polska Zjednoczona Partia Robotnicza powstała 15 grudnia 1948 r. z przymusowego zjednoczenia Polskiej Partii Robotniczej (komuniści) i Polskiej Partii Socjalistycznej. Liderzy PPS, którzy odmawiali fuzji, byli aresztowani lub usuwani. Pierwszym I sekretarzem KC PZPR został Bolesław Bierut.
-
-## Struktura i działanie
-
-PZPR budowała się na zasadach "centralizmu demokratycznego" – uchwały wyższych organów były bezwzględnie wiążące dla niższych. Struktura: podstawowe organizacje partyjne (POP) w zakładach i instytucjach → komitety powiatowe i miejskie → komitety wojewódzkie → Komitet Centralny (KC) → Biuro Polityczne KC. Biuro Polityczne i Sekretariat KC skupiały rzeczywistą władzę.
-
-## Nomenklatura i monopol
-
-Wszystkie ważne stanowiska w państwie, armii, mediach, nauce i kulturze obsadzała PZPR przez system nomenklatury. Awans poza partią był możliwy tylko w ograniczonym zakresie. Członkostwo w PZPR dawało przywileje i chroniło przed represjami; jego brak – zamykało drogę do kariery.
-
-## Kolejni sekretarze i kryzysy
-
-- **Bierut** (1948–1956) – stalinizm, terror, kult jednostki
-- **Gomułka** (1956–1970) – "odwilż" i stagnacja, Marzec 1968, Grudzień 1970
-- **Gierek** (1970–1980) – modernizacja przez długi, Sierpień 1980
-- **Kania** (1980–1981) – krótko, w cieniu "Solidarności"
-- **Jaruzelski** (1981–1989) – stan wojenny, Okrągły Stół
-- **Rakowski** (1989–1990) – ostatni sekretarz, rozwiązanie partii
-
-## Upadek
-
-Na X Zjeździe PZPR (27–29 stycznia 1990 r.) partia ogłosiła samorozwiązanie. Część działaczy założyła Socjaldemokrację RP (SdRP), która z czasem przekształciła się w SLD. Majątek PZPR stał się przedmiotem sporów i dochodzeń przez wiele lat.`,
-    resources: [
-      {
-        id: 'pzpr-1',
-        title: 'Akta KC PZPR – Archiwum Akt Nowych',
-        type: 'akt',
-        url: 'https://szukajwarchiwach.gov.pl/',
-        source: 'Naczelna Dyrekcja Archiwów Państwowych',
-        description: 'Dokumenty Komitetu Centralnego PZPR przechowywane w Archiwum Akt Nowych w Warszawie.',
-        year: 1948,
-      },
-      {
-        id: 'pzpr-2',
-        title: 'Materiały edukacyjne IPN – PZPR i system władzy',
-        type: 'publikacja',
-        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne',
-        source: 'Instytut Pamięci Narodowej',
-        description: 'Opracowania dydaktyczne o strukturze i funkcjonowaniu PZPR jako partii-państwa.',
-        year: 2018,
-        downloadable: true,
-      },
-      {
-        id: 'pzpr-3',
-        title: 'Prasa partyjna i dokumenty PZPR – Polona',
-        type: 'publikacja',
-        url: 'https://polona.pl/',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Zdigitalizowane materiały propagandowe, uchwały i pisma PZPR z lat 1948–1990.',
-        year: 1948,
-        downloadable: true,
-      },
-    ],
-    relatedIds: ['bierut', 'gomulka', 'gierek', 'jaruzelski', 'nomenklatura'],
-  },
   {
     id: 'pilecki',
     title: 'Rotmistrz Witold Pilecki',
@@ -7555,6 +6635,7 @@ Pilecki został zrehabilitowany dopiero po 1989 r. W 2006 r. pośmiertnie odznac
     ],
     relatedIds: ['zolnierze-wykletci', 'represje-polityczne', 'ub', 'katyn', 'deportacje'],
   },
+
   {
     id: 'socrealizm',
     title: 'Socrealizm w sztuce i architekturze',
@@ -7616,6 +6697,7 @@ Po śmierci Stalina (1953) i XX Zjeździe KPZR (1956) socrealizm zaczął się k
     ],
     relatedIds: ['palac-kultury', 'nowa-huta', 'propaganda-prl', 'kino-prl', 'bierut'],
   },
+
   {
     id: 'sluzba-zdrowia-prl',
     title: 'Służba zdrowia w PRL',
@@ -7676,6 +6758,7 @@ Wzorem sowieckim SB używała psychiatrii jako narzędzia represji: dysydentów 
     ],
     relatedIds: ['zycie-codzienne', 'kartki-prl', 'edukacja-prl', 'gierek', 'kobiety-prl'],
   },
+
   {
     id: 'teatr-prl',
     title: 'Teatr w PRL',
@@ -7735,6 +6818,7 @@ Reżyserzy nauczyli się mówić "między wierszami": klasyczne dramaty (Słowac
     ],
     relatedIds: ['kino-prl', 'cenzura-prl', 'wajda', 'marzec-1968', 'kultura-paryz'],
   },
+
   {
     id: 'anders',
     title: 'Gen. Władysław Anders i Armia Andersa',
@@ -7799,6 +6883,7 @@ Po wojnie Anders i żołnierze II Korpusu nie wrócili do Polski, którą rządz
     ],
     relatedIds: ['deportacje', 'katyn', 'zolnierze-wykletci', 'lwp', 'emigracja-1968'],
   },
+
   {
     id: 'rzad-emigracyjny',
     title: 'Rząd RP na uchodźstwie',
@@ -7860,6 +6945,7 @@ Rząd emigracyjny działał nieprzerwanie przez 45 lat. Kolejni prezydenci: Racz
     ],
     relatedIds: ['anders', 'manifest-pkwn', 'kultura-paryz', 'emigracja-1968', 'mikolajczyk'],
   },
+
   {
     id: 'tygodnik-powszechny',
     title: 'Tygodnik Powszechny',
@@ -7921,6 +7007,7 @@ Po 1989 r. "Tygodnik Powszechny" kontynuował działalność jako niezależne pi
     ],
     relatedIds: ['prasa-prl', 'kosciol-prl', 'szymborska', 'milosz', 'cenzura-prl'],
   },
+
   {
     id: 'jalta',
     title: 'Konferencja Jałtańska 1945',
@@ -7982,6 +7069,7 @@ Historycy spierają się, czy Roosevelt i Churchill mieli realną alternatywę �
     ],
     relatedIds: ['manifest-pkwn', 'rzad-emigracyjny', 'anders', 'ziemie-odzyskane', 'pgwn'],
   },
+
   {
     id: 'praga-1968',
     title: 'Praska Wiosna 1968',
@@ -8043,6 +7131,7 @@ Inwazja dała początek "doktrynie Breżniewa" – ZSRR zarezerwował sobie praw
     ],
     relatedIds: ['lwp', 'uklad-warszawski', 'gomulka', 'marzec-1968', 'gorbaczow'],
   },
+
   {
     id: 'odbudowa-warszawy',
     title: 'Odbudowa Warszawy',
@@ -8103,6 +7192,7 @@ Odbudowa stała się mitem założycielskim PRL: tysiące ochotników z całego 
     ],
     relatedIds: ['palac-kultury', 'socrealizm', 'mieszkanie-prl', 'manifest-pkwn', 'plan-szescioletni'],
   },
+
   {
     id: 'wywiad-prl',
     title: 'Wywiad i kontrwywiad PRL',
@@ -8163,6 +7253,7 @@ Część akt wywiadu PRL zniszczono przed przekazaniem do IPN. Zachowane dokumen
     ],
     relatedIds: ['sb', 'ub', 'tajni-wspolpracownicy', 'pgwn', 'radio-wolna-europa'],
   },
+
   {
     id: 'wron',
     title: 'WRON – Wojskowa Rada Ocalenia Narodowego',
@@ -8223,6 +7314,7 @@ WRON i stan wojenny ocenia się różnie: jako "mniejsze zło" (Jaruzelski twier
     ],
     relatedIds: ['stan-wojenny', 'jaruzelski', 'solidarnosc', 'internowanie', 'kiszczak'],
   },
+
   {
     id: 'chruszczow',
     title: 'Chruszczow i destalinizacja',
@@ -8284,6 +7376,7 @@ Chruszczow rządził ZSRR do 1964 r. Jego czas to "odwilż" – ograniczenie ter
     ],
     relatedIds: ['bierut', 'gomulka', 'pazdziernik-1956', 'represje-polityczne', 'gorbaczow'],
   },
+
   {
     id: 'tischner',
     title: 'Ks. Józef Tischner',
@@ -8345,6 +7438,7 @@ Tischner zachorował na raka mózgu i umarł w 2000 r. Jego twórczość – "My
     ],
     relatedIds: ['kosciol-prl', 'solidarnosc', 'tygodnik-powszechny', 'jan-pawel-ii', 'sierpien-1980'],
   },
+
   {
     id: 'animacja-prl',
     title: 'Polska animacja w PRL',
@@ -8405,6 +7499,7 @@ Obok animacji dziecięcej polska szkoła tworzyła filmy dla dorosłych – kró
     ],
     relatedIds: ['kino-prl', 'tvp-prl', 'dzieci-prl', 'polska-szkola-filmowa', 'kultura-prl'],
   },
+
   {
     id: 'radio-prl',
     title: 'Radio w PRL',
@@ -8467,6 +7562,7 @@ Radio Wolna Europa zagłuszano do końca lat 80. – ale Polacy i tak słuchali,
     ],
     relatedIds: ['tvp-prl', 'propaganda-prl', 'cenzura-prl', 'muzyka-rockowa', 'jazz-prl'],
   },
+
   {
     id: 'kisielewski',
     title: 'Stefan Kisielewski',
@@ -8527,6 +7623,7 @@ Kisielewski reprezentował w PRL-u coś rzadkiego: liberalny, antysocjalistyczny
     ],
     relatedIds: ['tygodnik-powszechny', 'prasa-prl', 'marzec-1968', 'cenzura-prl', 'milosz'],
   },
+
   {
     id: 'moczar',
     title: 'Mieczysław Moczar i frakcja partyzantów',
@@ -8588,6 +7685,7 @@ Moczar jest symbolem narodowo-komunistycznej hybrydy: połączenia nacjonalizmu 
     ],
     relatedIds: ['marzec-1968', 'gomulka', 'gierek', 'sb', 'emigracja-1968'],
   },
+
   {
     id: 'muzyka-powazna-prl',
     title: 'Muzyka poważna w PRL',
@@ -8649,6 +7747,7 @@ Górecki zasłynął przede wszystkim "III Symfonią" ("Symfonia pieśni żałos
     ],
     relatedIds: ['jazz-prl', 'muzyka-rockowa', 'kino-prl', 'socrealizm', 'kultura-paryz'],
   },
+
   {
     id: 'kiszczak',
     title: 'Gen. Czesław Kiszczak',
@@ -8709,6 +7808,7 @@ Po 1989 r. Kiszczak był wielokrotnie oskarżany – o udział w wprowadzeniu st
     ],
     relatedIds: ['jaruzelski', 'stan-wojenny', 'okragly-stol', 'sb', 'wujek'],
   },
+
   {
     id: 'polska-szkola-filmowa',
     title: 'Polska szkoła filmowa',
@@ -8772,6 +7872,7 @@ Polska szkoła filmowa umieściła kino polskie na mapie kinematografii światow
     ],
     relatedIds: ['kino-prl', 'wajda', 'cenzura-prl', 'socrealizm', 'teatr-prl'],
   },
+
   {
     id: 'literatura-prl',
     title: 'Literatura w PRL',
@@ -8832,392 +7933,6 @@ Prozaik i scenarzysta. Jego powieści – "Kronika wypadków miłosnych" (1974),
       },
     ],
     relatedIds: ['cenzura-prl', 'drugi-obieg', 'milosz', 'herbert', 'szymborska'],
-  },
-
-  {
-    id: 'milosz',
-    title: 'Czesław Miłosz',
-    subtitle: 'Poeta, eseista i laureat Nagrody Nobla',
-    category: 'osoby',
-    tags: ['literatura', 'emigracja', 'Nobel', 'zniewolony umysł', 'Wilno'],
-    yearStart: 1911,
-    yearEnd: 2004,
-    summary: 'Jeden z największych polskich poetów XX wieku. Autor "Zniewolonego umysłu" – kluczowej analizy mechanizmów totalitaryzmu. Laureat Nagrody Nobla w dziedzinie literatury (1980). Przez dekady objęty zakazem publikacji w PRL.',
-    content: `Czesław Miłosz (1911–2004) – poeta, prozaik, eseista i tłumacz, jeden z najważniejszych twórców polskiej literatury XX wieku.
-
-**Życiorys i emigracja**
-
-Urodzony w Szetejniach na Litwie, wykształcony w Wilnie. W czasie II wojny światowej przebywał w Warszawie – był świadkiem Holokaustu i Powstania Warszawskiego. Po wojnie związał się z dyplomacją PRL – pracował jako attaché kulturalny w Nowym Jorku i Paryżu. W 1951 roku poprosił o azyl polityczny we Francji i osiedlił się w Paryżu, gdzie współpracował z Instytutem Literackim i paryską "Kulturą".
-
-**Zniewolony umysł (1953)**
-
-Napisany po emigracji esej filozoficzno-polityczny "Zniewolony umysł" stał się jedną z najważniejszych analiz mechanizmów intelektualnej kapitulacji przed totalitaryzmem. Miłosz opisał, jak wybitni polscy intelektualiści – ukryci pod fikcyjnymi imionami Alfa, Beta, Gamma, Delta – stopniowo zaakceptowali komunistyczną doktrynę. Książka była zakazana w PRL i krążyła w drugim obiegu.
-
-**Nobel i powrót do Polski**
-
-W 1960 roku Miłosz objął stanowisko profesora na Uniwersytecie Kalifornijskim w Berkeley, gdzie wykładał literaturę słowiańską do 1978 roku. W 1980 roku otrzymał Nagrodę Nobla w dziedzinie literatury – wyróżnienie, które zelektryzowało Polaków w czasie narodzin "Solidarności". Władze PRL początkowo przemilczały tę informację, jednak wieść rozeszła się błyskawicznie. Po Noblu był rehabilitowany – w 1981 roku odwiedził Polskę po raz pierwszy od 30 lat. W 1993 roku zamieszkał w Krakowie, gdzie spędził ostatnie lata życia.
-
-**Twórczość poetycka**
-
-Miłosz jest autorem tomów poetyckich takich jak "Ocalenie" (1945), "Światło dzienne" (1953), "Kroniki" (1987) czy "To" (2000). Jego poezja łączy metafizyczne poszukiwania z zaangażowaniem politycznym, nostalgią za utraconą Litwą i refleksją nad historią. Do najsłynniejszych wierszy należą "Campo di Fiori", "Który skrzywdziłeś", "Traktat moralny" i "Dar".
-
-**Inne ważne dzieła**
-
-- "Dolina Issy" (1955) – powieść autobiograficzna osadzona na Litwie
-- "Rodzinna Europa" (1959) – eseje o europejskiej tożsamości
-- "Ziemia Ulro" (1977) – rozważania filozoficzne i religijne
-- "Historia literatury polskiej" (1969) – fundamentalne opracowanie dla angielskojęzycznych czytelników
-- Tłumaczenia Biblii na język polski (wspólnie z biblistami)
-
-Miłosz pozostaje jednym z niewielu polskich twórców o światowym zasięgu oddziaływania.`,
-    resources: [
-      {
-        id: 'milosz-nobel',
-        title: 'Nagroda Nobla dla Czesława Miłosza 1980',
-        type: 'publikacja',
-        url: 'https://www.nobelprize.org/prizes/literature/1980/milosz/facts/',
-        source: 'Nobel Prize',
-        description: 'Oficjalna strona Nagrody Nobla – biogram i uzasadnienie przyznania nagrody',
-        year: 1980,
-      },
-      {
-        id: 'milosz-polona',
-        title: 'Dzieła Czesława Miłosza w zbiorach Biblioteki Narodowej',
-        type: 'publikacja',
-        url: 'https://polona.pl/',
-        source: 'Polona.pl',
-        description: 'Cyfrowe zasoby Biblioteki Narodowej zawierające pierwodruki i archiwalia',
-      },
-    ],
-    relatedIds: ['herbert', 'szymborska', 'kultura-paryz', 'drugi-obieg', 'emigracja-1968'],
-  },
-
-  {
-    id: 'szymborska',
-    title: 'Wisława Szymborska',
-    subtitle: 'Poetka – Nagroda Nobla 1996',
-    category: 'osoby',
-    tags: ['literatura', 'poezja', 'Nobel', 'Kraków', 'ironia'],
-    yearStart: 1923,
-    yearEnd: 2012,
-    summary: 'Wybitna polska poetka, laureatka Nagrody Nobla w dziedzinie literatury (1996). Związana z Krakowem i tygodnikiem "Życie Literackie". Jej poezja łączy filozoficzną głębię z dowcipem i precyzją języka.',
-    content: `Wisława Szymborska (1923–2012) – jedna z najważniejszych poetek polskich XX wieku, laureatka Nagrody Nobla w dziedzinie literatury (1996). Przez całe twórcze życie związana z Krakowem.
-
-**Życiorys**
-
-Urodzona 2 lipca 1923 roku w Bninie (dziś część Kórnika) w Wielkopolsce. W czasie II wojny światowej pracowała jako rysowniczka na kolei. Po wojnie studiowała polonistykę i socjologię na Uniwersytecie Jagiellońskim. Od 1953 roku przez ponad 20 lat prowadziła stałą rubrykę krytycznoliteracką "Lektury nadobowiązkowe" w krakowskim tygodniku "Życie Literackie".
-
-**Wczesna twórczość i zwrot**
-
-Pierwsze tomy poetyckie – "Dlatego żyjemy" (1952) i "Pytania zadawane sobie" (1954) – były obciążone socrealizmem, co sama poetka później uznawała za błąd i artystyczną porażkę. Przełom nastąpił z tomem "Wołanie do Yeti" (1957) – Szymborska znalazła własny głos: ironiczny, filozoficzny, pełen zaskakujących pytań o rzeczy z pozoru oczywiste.
-
-**Dojrzała poezja**
-
-Kolejne tomy – "Sól" (1962), "Sto pociech" (1967), "Wszelki wypadek" (1972), "Wielka liczba" (1976), "Ludzie na moście" (1986), "Koniec i początek" (1993) – ugruntowały jej pozycję jako poetki zadającej fundamentalne pytania egzystencjalne za pomocą pozornie codziennych obrazów. Wiersze takie jak "Rozmowa z kamieniem", "Nic dwa razy", "Bufet", "Obóz głodowy pod Jasłem" czy "Koniec i początek" weszły do kanonu polskiej literatury.
-
-**Nobel 1996**
-
-Szwedzka Akademia przyznała Szymborskiej Nagrodę Nobla "za poezję, która z ironiczną precyzją pozwala historycznemu i biologicznemu kontekstowi ukazywać się we fragmentach ludzkiej rzeczywistości". W słynnym wykładzie noblowskim "Poeta i świat" Szymborska mówiła o roli niezwykłości w tworzeniu poezji.
-
-**Prywatność i skromność**
-
-Szymborska słynęła z niechęci do rozgłosu i wywiadów. Przez dekady pisała odręcznie ilustrowane pocztówki – tzw. "limeryki" i kolaże – rozsyłane przyjaciołom. Unikała medialnego życia nawet po Noblu. Jej prywatna korespondencja i archiwum stały się podstawą wielu pośmiertnych publikacji.
-
-Poetka zmarła 1 lutego 2012 roku w Krakowie.`,
-    resources: [
-      {
-        id: 'szymborska-nobel',
-        title: 'Nagroda Nobla dla Wisławy Szymborskiej 1996',
-        type: 'publikacja',
-        url: 'https://www.nobelprize.org/prizes/literature/1996/szymborska/facts/',
-        source: 'Nobel Prize',
-        description: 'Oficjalna strona z biogramem, wykładem noblowskim i uzasadnieniem nagrody',
-        year: 1996,
-      },
-      {
-        id: 'szymborska-wolne-lektury',
-        title: 'Wybór wierszy Szymborskiej',
-        type: 'publikacja',
-        url: 'https://wolnelektury.pl/',
-        source: 'Wolne Lektury',
-        description: 'Cyfrowa biblioteka z dostępem do wybranych tekstów polskiej literatury',
-      },
-    ],
-    relatedIds: ['milosz', 'herbert', 'literatura-prl', 'drugi-obieg', 'kultura-paryz'],
-  },
-
-  {
-    id: 'herbert',
-    title: 'Zbigniew Herbert',
-    subtitle: 'Poeta – Pan Cogito i poezja oporu',
-    category: 'osoby',
-    tags: ['literatura', 'poezja', 'opór', 'Pan Cogito', 'etyka'],
-    yearStart: 1924,
-    yearEnd: 1998,
-    summary: 'Jeden z najwybitniejszych polskich poetów powojennych. Twórca postaci Pana Cogito – alter ego poety broniącego godności wobec totalitaryzmu. Symbol moralnego i poetyckiego oporu wobec PRL.',
-    content: `Zbigniew Herbert (1924–1998) – poeta, dramaturg i eseista, jeden z filarów powojennej poezji polskiej. Jego twórczość jest głęboko zakorzeniona w tradycji śródziemnomorskiej i etyce humanistycznej.
-
-**Życiorys**
-
-Urodzony we Lwowie 29 października 1924 roku. Uczestnik konspiracji podczas II wojny światowej – żołnierz Armii Krajowej. Po wojnie zamierzał studiować prawo i ekonomię, ale jako były akowiec był prześladowany i nie mógł prowadzić normalnej kariery. Pracował fizycznie – jako magazynier, kalkulator, pracownik banku. Debiutował literacko dopiero w 1956 roku tomem "Struna światła", gdy "odwilż" pozwoliła na pewne złagodzenie cenzury.
-
-**Twórczość**
-
-Kolejne tomy – "Hermes, pies i gwiazda" (1957), "Studium przedmiotu" (1961), "Napis" (1969), "Pan Cogito" (1974), "Raport z oblężonego miasta" (1983), "Rovigo" (1992) – uczyniły z Herberta głos sumienia polskiej literatury. Szczególne znaczenie ma cykl wierszy o Panu Cogito – filozoficznym alter ego poety, który rozważa miejsce jednostki wobec historii, tyranii i śmierci.
-
-**Pan Cogito i etyka**
-
-Słynny wiersz "Przesłanie Pana Cogito" kończący się słowami: *"idź wyprostowany wśród tych co na kolanach / wśród odwróconych plecami i obalonych w proch"* stał się moralnym manifestem pokolenia oporu. Podczas stanu wojennego "Raport z oblężonego miasta" odczytywano jako komentarz do aktualnej sytuacji w Polsce, choć formalnie nawiązywał do obrony Zbrutusa.
-
-**Eseje**
-
-Herbert pisał też wybitne eseje o sztuce i kulturze śródziemnomorskiej: "Barbarzyńca w ogrodzie" (1962), "Martwa natura z wędzidłem" (1993) i "Labirynt nad morzem" (2000, pośm.) – błyskotliwe opisy dzieł sztuki i miejsc Europy Zachodniej.
-
-**Emigracja i powroty**
-
-Wielokrotnie wyjeżdżał za granicę – do Francji, Niemiec, Austrii, USA – ale zawsze wracał do Polski. W latach 80. mieszkał głównie za granicą. Był wielokrotnie typowany do Nagrody Nobla. Zamiast Nobla dostał inne najważniejsze nagrody europejskie – m.in. Nagrodę Herdera i Nagrodę Jerozolimską.
-
-Herbert zmarł 28 lipca 1998 roku w Warszawie.`,
-    resources: [
-      {
-        id: 'herbert-cogito',
-        title: 'Przesłanie Pana Cogito – tekst wiersza',
-        type: 'publikacja',
-        url: 'https://wolnelektury.pl/',
-        source: 'Wolne Lektury',
-        description: 'Cyfrowa biblioteka z dostępem do polskiej literatury',
-      },
-      {
-        id: 'herbert-ipn',
-        title: 'Zbigniew Herbert w zbiorach IPN',
-        type: 'dokument',
-        url: 'https://inwentarz.ipn.gov.pl/',
-        source: 'IPN – Inwentarz Archiwów',
-        description: 'Materiały archiwalne dotyczące inwigilacji środowisk literackich',
-      },
-    ],
-    relatedIds: ['milosz', 'szymborska', 'literatura-prl', 'drugi-obieg', 'stan-wojenny'],
-  },
-
-  {
-    id: 'kultura-paryz',
-    title: 'Paryska "Kultura" i Jerzy Giedroyc',
-    subtitle: 'Emigracyjny ośrodek myśli niepodległościowej',
-    category: 'kultura',
-    tags: ['emigracja', 'Giedroyc', 'Maisons-Laffitte', 'drugi obieg', 'pismo literackie'],
-    yearStart: 1947,
-    yearEnd: 2000,
-    summary: 'Miesięcznik "Kultura" wydawany przez Instytut Literacki w Paryżu (Maisons-Laffitte) był najważniejszym emigracyjnym periodykiem polityczno-literackim. Pod redakcją Jerzego Giedroycia kształtował myśl niepodległościową i program ULB.',
-    content: `Miesięcznik "Kultura" (1947–2000) – najważniejsze emigracyjne pismo polskie, wydawane przez Instytut Literacki w Maisons-Laffitte pod Paryżem, założone i redagowane przez Jerzego Giedroycia (1906–2000).
-
-**Instytut Literacki i jego geneza**
-
-Instytut Literacki powstał w 1946 roku w Rzymie, a rok później przeniósł się do Paryża. Pierwsza "Kultura" ukazała się w czerwcu 1947 roku. Od 1954 roku redakcja działała w domu przy avenue de Poissy w Maisons-Laffitte – miejscu, które stało się kultowym centrum polskiej emigracyjnej kultury.
-
-**Jerzy Giedroyc – redaktor i wizjoner**
-
-Giedroyc był nie tylko redaktorem, ale strategicznym myślicielem kształtującym politykę Instytutu. Dobierał współpracowników – Juliusza Mieroszewskiego, Józefa Czapskiego, Zofię Hertz, Konstantego Jeleńskiego. Prowadził rozległą korespondencję z pisarzami, politykami i intelektualistami w Polsce i na świecie. "Kultura" była dla wielu twórców w PRL – od Miłosza po Herberta – pierwszym miejscem nieskrępowanej publikacji.
-
-**Program ULB**
-
-Jednym z najważniejszych wkładów "Kultury" w polską myśl polityczną był program ULB (Ukraina – Litwa – Białoruś), opracowany głównie przez Juliusza Mieroszewskiego. Zakładał on, że wolna Polska powinna zrzec się roszczeń do Kresów i budować sojusz z narodami sąsiednimi – co w czasach, gdy nie mówiono jeszcze o rozpadzie ZSRR, brzmiało rewolucyjnie. Program ten okazał się proroczy i stał się podstawą polskiej polityki wschodniej po 1989 roku.
-
-**Rola w kulturze PRL**
-
-"Kultura" przemycana do kraju stanowiła jedno z najważniejszych źródeł informacji i alternatywnej myśli. Posiadanie jej egzemplarza było przestępstwem. Władze PRL zwalczały pismo – agenci SB infiltrowali redakcję, kolportaż był ścigany, autorzy byli zastraszani. Mimo to pismo docierało do intelektualistów, działaczy opozycji i księży.
-
-**Schyłek i dziedzictwo**
-
-Po 1989 roku "Kultura" kontynuowała działalność, choć straciła na znaczeniu politycznym. Giedroyc konsekwentnie odmawiał powrotu do Polski i przyjmowania nagród. Pismo ukazało się po raz ostatni w grudniu 2000 roku – po śmierci swojego twórcy. Archiwum Instytutu Literackiego jest dziś udostępniane badaczom i stanowi bezcenne źródło do dziejów polskiej emigracji.`,
-    resources: [
-      {
-        id: 'kultura-archiwum',
-        title: 'Archiwum "Kultury" paryskiej online',
-        type: 'publikacja',
-        url: 'https://www.kulturaparyska.com/',
-        source: 'Fundacja Kultury Paryskiej',
-        description: 'Pełne archiwum numerów miesięcznika "Kultura" w wersji cyfrowej',
-        year: 1947,
-      },
-      {
-        id: 'kultura-ipn',
-        title: 'Inwigilacja Instytutu Literackiego przez SB',
-        type: 'dokument',
-        url: 'https://inwentarz.ipn.gov.pl/',
-        source: 'IPN – Inwentarz Archiwów',
-        description: 'Materiały dotyczące działań SB wobec emigracyjnych ośrodków kulturalnych',
-      },
-    ],
-    relatedIds: ['milosz', 'drugi-obieg', 'emigracja-1968', 'polacy-na-emigracji', 'cenzura-prl'],
-  },
-
-  {
-    id: 'emigracja-1968',
-    title: 'Emigracja Marca 1968',
-    subtitle: 'Antysemicka kampania i wyjazd 13–15 tysięcy Żydów polskich',
-    category: 'represje',
-    tags: ['Marzec 1968', 'antysemityzm', 'emigracja', 'Moczar', 'Żydzi polscy'],
-    yearStart: 1968,
-    yearEnd: 1972,
-    summary: 'Po wydarzeniach Marca 1968 roku i antysemickiej kampanii władz PRL kraj opuściło 13–15 tysięcy polskich Żydów. Była to ostatnia wielka emigracja żydowska z Polski – kres tysięcletniej obecności Żydów na ziemiach polskich.',
-    content: `Emigracja po Marcu 1968 roku – masowy wyjazd polskich Żydów zmuszonych do opuszczenia kraju w wyniku antysemickiej kampanii prowadzonej przez władze PRL.
-
-**Kontekst Marca 1968**
-
-Marzec 1968 był wieloaspektowym kryzysem: studencki bunt przeciwko cenzurze (sprawa "Dziadów" Mickiewicza), rozrachunki frakcyjne w PZPR i antysemicka kampania prowadzona przez frakcję "partyzantów" Mieczysława Moczara. Pretekstem do rozpętania antysemityzmu stała się Sześciodniowa Wojna arabsko-izraelska (1967) – polska propaganda oskarżyła "syjonistów" o sprzyjanie wrogowi.
-
-**Mechanizm wymuszonej emigracji**
-
-Żydzi polscy – z których większość nie miała żadnych powiązań z Izraelem – byli masowo zwalniani z pracy, wyrzucani ze studiów, pozbawiani mieszkań. Dziennikarze, naukowcy, prawnicy, lekarze stracili stanowiska z dnia na dzień. Jedynym wyjściem było ubieganie się o wyjazd "do Izraela" – choć wiele rodzin wybrało RFN, Szwecję, Danię czy USA. Opuszczający kraj musieli zrzec się polskiego obywatelstwa i podpisać oświadczenie, że wyjeżdżają dobrowolnie.
-
-**Skala i zasięg**
-
-Szacuje się, że w latach 1968–1972 Polskę opuściło 13–15 tysięcy osób żydowskiego pochodzenia. Wśród emigrantów były osoby o ogromnym znaczeniu dla polskiej kultury i nauki: historycy, matematycy, kompozytorzy, lekarze, prawnicy. Wielu z nich nigdy nie wróciło do Polski.
-
-**Dziedzictwo**
-
-Emigracja 1968 roku była ostatnim wielkim rozdziałem ponad tysiącletniej obecności Żydów na ziemiach polskich. Po tym wyjeździe społeczność żydowska w Polsce stopniała do kilku tysięcy osób. Wielu emigrantów przez dekady nie rozmawiało o swoich przeżyciach, co prowadziło do tzw. "przemilczanego pokolenia". Dopiero po 1989 roku zaczęto dokumentować te losy – powstawały filmy, książki i wystawy poświęcone marcowym emigrantom.
-
-**Rehabilitacja**
-
-W 1983 roku władze PRL formalnie "zrehabilitowały" część wyrzuconych z partii, ale bez przywrócenia im stanowisk czy praw. Prawdziwa rehabilitacja nastąpiła po 1989 roku – Polska oferowała m.in. przywrócenie obywatelstwa. Znaczna część emigrantów i ich dzieci odwiedziła kraj, niektórzy wrócili na stałe.`,
-    resources: [
-      {
-        id: 'emigracja-68-ipn',
-        title: 'Marzec 1968 – materiały edukacyjne IPN',
-        type: 'publikacja',
-        url: 'https://przystanekhistoria.pl/',
-        source: 'Przystanek Historia IPN',
-        description: 'Artykuły i materiały dotyczące antysemickiej kampanii i emigracji po 1968 roku',
-        year: 1968,
-      },
-      {
-        id: 'emigracja-68-szukaj',
-        title: 'Dokumenty dotyczące emigracji po 1968 roku',
-        type: 'dokument',
-        url: 'https://szukajwarchiwach.gov.pl/',
-        source: 'Szukaj w Archiwach',
-        description: 'Archiwa państwowe zawierające dokumenty związane z wyjazdami 1968–1972',
-      },
-    ],
-    relatedIds: ['marzec-1968', 'moczar', 'kielce-1946', 'represje-polityczne', 'polacy-na-emigracji'],
-  },
-
-  {
-    id: 'sport-prl',
-    title: 'Sport w PRL',
-    subtitle: 'Sukcesy olimpijskie, piłka nożna i propagandowe użycie sportu',
-    category: 'społeczeństwo',
-    tags: ['sport', 'olimpiada', 'piłka nożna', 'boks', 'lekkoatletyka', 'propaganda'],
-    yearStart: 1944,
-    yearEnd: 1989,
-    summary: 'Sport w PRL był narzędziem propagandy i dowodem "wyższości ustroju socjalistycznego", a jednocześnie prawdziwą pasją milionów Polaków. Polscy sportowcy zdobywali medale olimpijskie i osiągali sukcesy na arenach światowych.',
-    content: `Sport w Polskiej Rzeczypospolitej Ludowej pełnił podwójną funkcję: propagandową – jako dowód wyższości socjalizmu – i autentycznej pasji społecznej.
-
-**Organizacja sportu**
-
-Sport w PRL był zorganizowany wokół zakładowych klubów sportowych (Legia Warszawa – wojsko, Górnik Zabrze – górnictwo, Gwardia – milicja, Wisła Kraków – MO/SB, Zagłębie – przemysł ciężki). Finansowanie odbywało się ze środków państwowych za pośrednictwem zjednoczeń przemysłowych. Sportowcy byli formalnie "amatorami", ale de facto zawodowcami.
-
-**Sukcesy olimpijskie**
-
-Polska odnosiła znaczące sukcesy na Igrzyskach Olimpijskich:
-- **Boks**: Jerzy Kulej (złoto Tokio 1964, Meksyk 1968), Zbigniew Pietrzykowski, Jan Szczepański
-- **Lekkoatletyka**: Irena Szewińska (złoto w biegu na 400 m, Montreal 1976), Władysław Kozakiewicz (złoto w skoku o tyczce, Moskwa 1980 – słynny gest "basta" w stronę widowni radzieckiej)
-- **Szermierka, wioślarstwo, zapasy**: liczne medale w kolejnych olimpiadach
-- **Piłka nożna**: brązowy medal Igrzysk w Monachium 1972 i złoty w Montrealu 1976
-
-**Piłka nożna i Mundial 1974**
-
-Szczytowym momentem polskiej piłki nożnej był Mundial w RFN (1974), gdzie Polska zajęła 3. miejsce, pokonując m.in. Brazylię i Jugosławię. Drużyna z Kazimierzem Górskim w roli selekcjonera i gwiazdami takimi jak Grzegorz Lato, Kazimierz Deyna, Robert Gadocha i Andrzej Szarmach elektryzowała całą Polskę. Cztery lata później, na Mundialu w Argentynie (1978), Polska ponownie zajęła 3. miejsce.
-
-**Sport jako propaganda**
-
-Władze PRL intensywnie wykorzystywały sukcesy sportowe. Relacjonowano je w propagandowym tonie jako dowód "wydajności systemu socjalistycznego". Sportowcy byli obdarowywani przywilejami – paszportami, dewizami, samochodami. Jednocześnie brak sukcesów lub kontakty z zachodnimi sportowcami mogły ściągać podejrzenia aparatu bezpieczeństwa.
-
-**Sport masowy i kultura fizyczna**
-
-Propagowany był sport masowy – biegi uliczne, spartakiady, "dni sportu" w zakładach pracy, rajdy PTTK. Polska posiadała rozbudowaną infrastrukturę sportową – baseny, hale, lodowiska budowane przy zakładach pracy i osiedlach. Popularny był hokej na lodzie, żużel i kolarstwo.
-
-**Gest Kozakiewicza (1980)**
-
-Jednym z najsłynniejszych momentów sportu PRL był gest Władysława Kozakiewicza po zdobyciu złotego medalu olimpijskiego w skoku o tyczce w Moskwie w 1980 roku. Kozakiewicz pokazał radzieckiej widowni obsceniczny gest ("basta") w odpowiedzi na gwizdy. Władze radzieckie protestowały, polska propaganda próbowała zminimalizować sprawę, ale dla Polaków gest stał się symbolem nonkonformizmu.`,
-    resources: [
-      {
-        id: 'sport-prl-ninateka',
-        title: 'Archiwalne nagrania z polskich olimpiad w NINATECE',
-        type: 'nagranie',
-        url: 'https://ninateka.pl/',
-        source: 'NINATEKA',
-        description: 'Archiwum filmowe z relacjami i dokumentami sportu w PRL',
-      },
-      {
-        id: 'sport-prl-pkf',
-        title: 'Polska Kronika Filmowa – fragmenty sportowe',
-        type: 'film',
-        url: 'https://www.youtube.com/results?search_query=polska+kronika+filmowa+sport',
-        source: 'YouTube / PKF',
-        description: 'Archiwalne materiały PKF dokumentujące sukcesy sportowe PRL',
-      },
-    ],
-    relatedIds: ['propaganda-prl', 'polska-kronika-filmowa', 'spoleczenstwo-prl', 'telewizja-prl'],
-  },
-
-  {
-    id: 'nomenklatura',
-    title: 'Nomenklatura partyjna',
-    subtitle: 'System przywilejów elity władzy w PRL',
-    category: 'polityka',
-    tags: ['PZPR', 'przywileje', 'etatyzm', 'elita władzy', 'domy rządowe'],
-    yearStart: 1944,
-    yearEnd: 1989,
-    summary: 'Nomenklatura to system stanowisk obsadzanych wyłącznie za zgodą PZPR – mechanizm kontroli kadrowej państwa. Jednocześnie elita partyjna korzystała z systemu przywilejów niedostępnych zwykłym obywatelom.',
-    content: `Nomenklatura – system kontroli kadrowej w PRL, polegający na tym, że obsada kluczowych stanowisk w państwie, gospodarce, armii, nauce i kulturze wymagała zatwierdzenia przez odpowiedni szczebel PZPR.
-
-**Mechanizm nomenklatury**
-
-Każdy szczebel partyjny (od Biura Politycznego i KC po komitety powiatowe) dysponował listą stanowisk, które mogły być obsadzone tylko za jego zgodą. Kandydaci na dyrektorów fabryk, rektorów uczelni, redaktorów naczelnych, dowódców wojskowych czy dyrektorów szpitali musieli przejść weryfikację partyjną. Bezpartyjność była formalnie dopuszczalna, ale w praktyce ograniczała kariery.
-
-**Skala systemu**
-
-Szacuje się, że lista stanowisk nomenklaturowych KC PZPR obejmowała ponad 100 tysięcy pozycji w całym kraju. Na niższych szczeblach liczba ta była wielokrotnie większa. System obejmował dosłownie każdy sektor życia publicznego.
-
-**Przywileje**
-
-Elita partyjna i nomenklaturowa korzystała z przywilejów niedostępnych szaremu obywatelowi:
-- **Sklepy żółte firanki / sklepy dla aparatczyków** – zaopatrzenie w towary niedostępne na rynku
-- **Specjalne przychodnie i szpitale** – służba zdrowia MSW dla funkcjonariuszy i ich rodzin
-- **Wczasy w ośrodkach rządowych** – Arłamów, Łańsk, Mazurskie ośrodki KC
-- **Domy i mieszkania** – pierwszeństwo w przydziale mieszkań, dostęp do willowych dzielnic
-- **Samochody** – służbowe limuzyny Volvo, Mercedesy, polskie Fiaty poza kolejką
-- **Paszporty** – łatwiejszy dostęp do paszportów i możliwość wyjazdów za granicę
-- **Kartki specjalne** – dodatkowe przydziały żywności i towarów reglamentowanych
-
-**Domy rządowe i kolonie letniskowe**
-
-Przy ul. Klonowej i Parkowej w Warszawie (tzw. "Kolonia rządowa") mieszkali najważniejsi dygnitarze. Ośrodki wczasowe KC w Arłamowie czy Łańsku były luksusowymi enklawami – z basenami, kortami tenisowymi i restauracjami z pełnym zaopatrzeniem.
-
-**Schyłek nomenklatury**
-
-Po 1989 roku część nomenklaturowych kadr umiejętnie dokonała "konwersji" – przekształciła władzę polityczną w kapitał ekonomiczny, zakładając prywatne firmy lub obejmując kierownicze stanowiska w sprywatyzowanych przedsiębiorstwach. Zjawisko to określano mianem "uwłaszczenia nomenklatury" i było jednym z kontrowersyjnych aspektów transformacji ustrojowej.`,
-    resources: [
-      {
-        id: 'nomenklatura-ipn',
-        title: 'Dokumenty dotyczące systemu nomenklatury',
-        type: 'dokument',
-        url: 'https://inwentarz.ipn.gov.pl/',
-        source: 'IPN – Inwentarz Archiwów',
-        description: 'Archiwalne dokumenty partyjne dotyczące systemu kadrowego PZPR',
-      },
-      {
-        id: 'nomenklatura-szukaj',
-        title: 'Akta partyjne w zasobach archiwów państwowych',
-        type: 'akt',
-        url: 'https://szukajwarchiwach.gov.pl/',
-        source: 'Szukaj w Archiwach',
-        description: 'Portal umożliwiający dostęp do akt partyjnych przechowywanych w archiwach państwowych',
-      },
-    ],
-    relatedIds: ['pzpr', 'jaruzelski', 'gomulka', 'gierek', 'sierpien-1980'],
   },
 
   {
@@ -9328,116 +8043,6 @@ W latach 80. rolnicy uzyskali możliwość zrzeszania się w niezależnych zwią
       },
     ],
     relatedIds: ['reforma-rolna', 'gospodarka-prl', 'kartki-prl', 'czerwiec-1976', 'sierpien-1980'],
-  },
-
-  {
-    id: 'jazz-prl',
-    title: 'Jazz w PRL',
-    subtitle: 'Komeda, Namysłowski i muzyczny symbol wolności',
-    category: 'kultura',
-    tags: ['jazz', 'Komeda', 'Namysłowski', 'Jazz Jamboree', 'muzyka', 'wolność'],
-    yearStart: 1956,
-    yearEnd: 1989,
-    summary: 'Jazz w PRL – od muzyki potępionej jako "burżuazyjny dekadentyzm" do symbolu kulturowej odwilży i jednego z najbardziej żywotnych nurtów polskiej kultury. Krzysztof Komeda, Zbigniew Namysłowski i festiwal Jazz Jamboree uczynili Polskę jednym z centrów europejskiego jazzu.',
-    content: `Jazz w Polsce Ludowej przeszedł drogę od muzyki prześladowanej do symbolu kulturowej wolności i świadectwa wyjątkowości polskiej kultury na tle bloku wschodniego.
-
-**Czasy stalinowskie – zakaz**
-
-W epoce stalinizmu jazz był oficjalnie potępiany jako "narkotyczna muzyka kapitalistycznego rozkładu" i "burżuazyjny dekadentyzm". Muzycy jazzowi byli represjonowani, a publiczne wykonywanie jazzu było ryzykowne. Mimo to muzyka ta żyła w konspiracyjnych jam session w prywatnych mieszkaniach.
-
-**Odwilż 1956 i legalizacja jazzu**
-
-Po "odwilży" 1956 roku jazz zyskał oficjalną akceptację. Już w 1956 roku odbył się I Ogólnopolski Festiwal Muzyki Jazzowej w Sopocie. Rok 1958 przyniósł pierwszy Jazz Jamboree w Warszawie – festiwal, który przez następne dekady stał się jednym z najważniejszych wydarzeń jazzowych w Europie. Przyjeżdżali nań artyści z całego świata: Miles Davis, Dizzy Gillespie, Duke Ellington, Dave Brubeck.
-
-**Krzysztof Komeda (1931–1969)**
-
-Najważniejszą postacią polskiego jazzu był Krzysztof Komeda (właśc. Trzcinski) – pianista i kompozytor. Tworzył charakterystyczny, liryczny styl "polskiego jazzu". Komponował muzykę do filmów Romana Polańskiego: "Nóż w wodzie", "Rosemary's Baby", "Nieustraszeni pogromcy wampirów". Jego "Kołysanka" z "Rosemary's Baby" przeszła do historii kina. Komeda zginął tragicznie w wypadku w USA w 1969 roku.
-
-**Zbigniew Namysłowski**
-
-Zbigniew Namysłowski – saksofonista i kompozytor – przez dekady był symbolem polskiego jazzu. Jego twórczość łączyła jazz z elementami muzyki ludowej i awangardowej. Nagrania z lat 60. i 70. – m.in. "Winobranie" i "Kujaviak Goes Funky" – były słuchane na całym świecie.
-
-**Inni artyści**
-
-Polski jazz wydał wiele wybitnych postaci: Tomasz Stańko (trąbka), Jan Ptaszyn Wróblewski (saksofon), Michał Urbaniak (skrzypce elektryczne), Urszula Dudziak (wokal), Adam Makowicz (fortepian). Polski jazz lat 70. łączył free jazz z fusion i elementami rocka.
-
-**Jazz jako symbol wolności**
-
-W realiach PRL jazz był postrzegany jako muzyka wolności – nieokreślona, improwizowana, wymykająca się partyjnym schematom. Koncerty jazzowe przyciągały publiczność szukającą oddechu od szarej rzeczywistości. Możliwość słuchania zachodnich gwiazd na Jazz Jamboree była czymś wyjątkowym w zamkniętym bloku wschodnim.`,
-    resources: [
-      {
-        id: 'jazz-jamboree-ninateka',
-        title: 'Archiwalne nagrania Jazz Jamboree',
-        type: 'nagranie',
-        url: 'https://ninateka.pl/',
-        source: 'NINATEKA',
-        description: 'Archiwalne nagrania z festiwalu Jazz Jamboree w zbiorach cyfrowych',
-      },
-      {
-        id: 'komeda-youtube',
-        title: 'Muzyka Krzysztofa Komedy',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/results?search_query=krzysztof+komeda+jazz',
-        source: 'YouTube',
-        description: 'Nagrania i archiwalne materiały z twórczością Krzysztofa Komedy',
-      },
-    ],
-    relatedIds: ['muzyka-rockowa', 'kultura-paryz', 'kino-prl', 'polska-szkola-filmowa'],
-  },
-
-  {
-    id: 'muzyka-rockowa',
-    title: 'Muzyka rockowa w PRL',
-    subtitle: 'Czerwone Gitary, Perfect, Republika i rock w komunizmie',
-    category: 'kultura',
-    tags: ['muzyka rockowa', 'Czerwone Gitary', 'Perfect', 'Republika', 'Maanam', 'punk', 'nowa fala'],
-    yearStart: 1965,
-    yearEnd: 1989,
-    summary: 'Muzyka rockowa w PRL – od bigbitu lat 60. przez rock progresywny lat 70. po punk i nową falę lat 80. Polskie zespoły rockowe tworzyły w warunkach cenzury i reglamentacji sprzętu, ale dotarły do milionów słuchaczy.',
-    content: `Muzyka rockowa w Polskiej Rzeczypospolitej Ludowej rozwijała się w specyficznych warunkach – z jednej strony pod presją cenzury i ideologicznych ograniczeń, z drugiej jako autentyczny wyraz młodzieżowej kultury.
-
-**Bigbit lat 60. – Czerwone Gitary**
-
-Polskim odpowiednikiem beatlesomanii był "bigbit" – polska pop-rock na wzór brytyjski. Najważniejszą grupą byli Czerwone Gitary (założone w 1965 roku w Trójmieście), z Krzysztofem Klenczonem i Sewerinem Krajewskim. Piosenki takie jak "Nie zadzieraj nosa", "To właśnie my" czy "Historia jednej znajomości" stały się klasykami. Inne ważne zespoły tamtego okresu to Niebiesko-Czarni, Trubadurzy i Skaldowie.
-
-**Rock lat 70. – SBB, Breakout**
-
-Lata 70. przyniosły bardziej zaawansowane formy: SBB (Silesian Blues Band) z Józefem Skrzekiem grał rocka progresywnego i był porównywany z zachodnimi mistrzami gatunku. Breakout z Tadeuszem Nalepą był polskim głosem bluesa i hard rocka. Czesław Niemen przekraczał granice gatunków – od popu przez jazz po psychodelię ("Dziwny jest ten świat", "Sen o Warszawie").
-
-**Lata 80. – nowa fala i punk**
-
-Lata 80. przyniosły rockowy wybuch: Perfect z Grzegorzem Markowiakiem ("Autobiografia", "Chcemy być sobą"), Republika z Grzegorzem Ciechowskim – intelektualny art-rock z syntezatorami ("Kombinat", "Telefony"), Maanam z Korą i Markiem Jackowskim – polskie new wave, TSA z heavy metalem, Big Cyc z rock'n'rollem z przymrużeniem oka. Punk i reggae rozwijały się w undergroundzie.
-
-**Cenzura i problemy**
-
-Muzycy musieli przesyłać teksty do komisji Państwowej Agencji Artystycznej (PAGART) lub Zakładu Autorskiego. Politycznie podejrzane teksty były odrzucane. Sprzęt muzyczny (wzmacniacze, gitary) był trudno dostępny i kosztowny. Nagrania wydawało głównie Polskie Nagrania – monopolista rynku płytowego.
-
-**Festiwale**
-
-Kluczową rolę odgrywał Festiwal Polskiej Piosenki w Opolu (od 1963) i Sopot. Festiwal w Jarocinie (od 1980) stał się Mekką polskiego punka i rocka alternatywnego – miejsce spotkań kilkudziesięciu tysięcy młodych ludzi, gdzie władze patrzyły przez palce na kontestację.
-
-**Dziedzictwo**
-
-Polska muzyka rockowa PRL pozostawiła bogatą spuściznę – albumy SBB, Republiki czy Maanamu są dziś klasykami, a twórcy tacy jak Niemen czy Klenczon mają status legend.`,
-    resources: [
-      {
-        id: 'rock-ninateka',
-        title: 'Archiwalne nagrania polskiego rocka w NINATECE',
-        type: 'nagranie',
-        url: 'https://ninateka.pl/',
-        source: 'NINATEKA',
-        description: 'Archiwum filmowe i muzyczne z nagraniami polskich zespołów rockowych',
-      },
-      {
-        id: 'jarocin-film',
-        title: 'Festiwal w Jarocinie – dokumenty filmowe',
-        type: 'film',
-        url: 'https://www.youtube.com/results?search_query=jarocin+festiwal+prl+rockowy',
-        source: 'YouTube',
-        description: 'Archiwalne materiały filmowe z festiwalu w Jarocinie',
-      },
-    ],
-    relatedIds: ['jazz-prl', 'kultura-prl', 'mlodz-prl', 'cenzura-prl', 'radio-prl'],
   },
 
   {
