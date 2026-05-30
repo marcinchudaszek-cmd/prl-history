@@ -10249,6 +10249,400 @@ W PRL Mikołajczyk był postacią przemilczaną lub demonizowaną. Oficjalna his
     ],
     relatedIds: ['wybory-prl', 'referendum-1946', 'manifest-pkwn', 'bierut', 'ub'],
   },
+  {
+    id: 'kapuscinski',
+    title: 'Ryszard Kapuściński',
+    category: 'osoby',
+    shortDesc: 'Dziennikarz i pisarz – reporter świata, autor „Cesarza" i „Szachinszacha", jeden z najwybitniejszych reportażystów XX wieku.',
+    content: `## Ryszard Kapuściński (1932–2007)
+
+Ryszard Kapuściński był jednym z największych reporterów XX wieku – dziennikarzem, pisarzem i poetą, który stworzył własny gatunek literacki: reporter literatury faktu. Jego książki o upadku imperiów, dyktatorach i rewolucjach są czytane na całym świecie i przetłumaczone na kilkadziesiąt języków.
+
+### Dziennikarz PAP
+
+Kapuściński pracował dla Polskiej Agencji Prasowej jako korespondent zagraniczny – był jednym z nielicznych polskich dziennikarzy, którzy mogli regularnie wyjeżdżać za granicę. Odwiedził ponad sto krajów, był świadkiem kilkudziesięciu rewolucji i przewrotów.
+
+Jego relacje z Afryki, Azji i Ameryki Łacińskiej były czymś więcej niż informacją prasową – były literaturą. PRL wysyłała go jako korespondenta, nie zdając sobie sprawy, że tworzy arcydzieła literackie.
+
+### Cesarz
+
+„Cesarz" (1978) to opowieść o upadku cesarza Etiopii Hajle Syllasje – ale każdy czytelnik w Polsce rozumiał, że to alegoria każdej dyktatury, w tym polskiej. Kapuściński opisał mechanizm dworu: pochlebstwo, strach, hierarchia i bezmyślna lojalność wobec władzy. Książka była bestsellerem i hitem drugiego obiegu.
+
+### Szachinszach, Heban, Imperium
+
+„Szachinszach" (1982) o rewolucji irańskiej, „Heban" (1998) o Afryce, „Imperium" (1993) o rozpadzie ZSRR – każda z tych książek jest arcydziełem gatunku reportażu literackiego.
+
+„Imperium" Kapuściński pisał ze szczególnym bólem – znał z własnego doświadczenia, czym był sowiecki system. Podróżował po rozpadającym się ZSRR i opisał tragizm ludzi wyzwolonych od tyranii, ale zagubionych w nowej rzeczywistości.
+
+### Kontrowersje
+
+Po śmierci Kapuścińskiego pojawiły się głosy podważające jego wiarygodność factual – niektórzy badacze twierdzą, że mieszał fakty z fikcją w swoich reportażach. Dyskusja o granicy literatury faktu i literackiej kreacji jest ciągła.
+
+Osobnym wątkiem były jego powiązania ze służbami – dokumenty IPN wskazują, że miał kontakty z wywiadem PRL, choć skala i charakter tej współpracy są dyskutowane.
+
+### Spuścizna
+
+Kapuściński był wielokrotnie wymieniany jako kandydat do Nagrody Nobla. Stworzył nowy model dziennikarstwa – empatycznego, literackiego, zaangażowanego. Jego szkoła reportażu wychowała pokolenia polskich reporterów.`,
+    resources: [
+      {
+        id: 'kapuscinski-wl',
+        title: 'Ryszard Kapuściński – Wolne Lektury',
+        type: 'publikacja',
+        url: 'https://wolnelektury.pl/katalog/autor/kapuscinski-ryszard/',
+        source: 'Wolne Lektury',
+        description: 'Wybrane teksty Ryszarda Kapuścińskiego dostępne online',
+      },
+      {
+        id: 'kapuscinski-polona',
+        title: 'Kapuściński – archiwalia (Polona)',
+        type: 'dokument',
+        url: 'https://polona.pl/search/?query=Kapu%C5%9Bci%C5%84ski+Ryszard+reporter',
+        source: 'Polona',
+        description: 'Zdigitalizowane materiały o Kapuścińskim i jego twórczości',
+      },
+      {
+        id: 'kapuscinski-ipn',
+        title: 'Kapuściński a wywiad PRL – dokumenty IPN',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=Kapu%C5%9Bci%C5%84ski+Ryszard+wywiad',
+        source: 'IPN Inwentarz',
+        description: 'Materiały dotyczące kontaktów Kapuścińskiego ze służbami PRL',
+      },
+    ],
+    relatedIds: ['literatura-prl', 'prasa-prl', 'wywiad-prl', 'kultura-prl', 'milosz'],
+  },
+  {
+    id: 'pomniki-prl',
+    title: 'Pomniki i symbolika PRL',
+    category: 'kultura',
+    shortDesc: 'Pomniki bohaterów radzieckich, monumenty partyjne i socrealistyczna architektura jako narzędzie ideologii.',
+    content: `## Pomniki i symbolika PRL
+
+Przestrzeń publiczna w Polsce Ludowej była celowo kształtowana przez ideologię – pomniki, nazwy ulic, architektura i symbolika miały tworzyć wizualną narrację triumfu socjalizmu. To, co widziało się codziennie, miało wzmacniać lojalność wobec systemu.
+
+### Pomniki radzieckie
+
+Jednym z pierwszych symboli nowej władzy były pomniki żołnierzy Armii Czerwonej. Wznoszono je w dziesiątkach polskich miast – na placów i skwerach, jako „wdzięczność" za wyzwolenie. Oficjalnie: wyzwoliciele. W rzeczywistości: nieproszeni goście, którzy zostali na dziesięciolecia.
+
+Słynny Pomnik Braterstwa Broni w Warszawie (przy Pradze), tzw. „Cztery Śpiące" – czterech radzieckich żołnierzy – był symbolem sowieckiej obecności. Zdemontowano go w 1992 roku. Losy pomników radzieckich po 1989 roku stały się tematem politycznych sporów.
+
+### Pomniki socjalistycznych bohaterów
+
+System kreował własnych bohaterów. Pomniki Bolesława Bieruta, Juliana Marchlewskiego, Karola Świerczewskiego (generała „Waltera") – to postaci, które komunistyczna władza wybrała na patronów ulic, szkół i placów.
+
+Największy projekt monumentalny: Pałac Kultury i Nauki w Warszawie – „dar Stalina" – był sam w sobie pomnikiem, na który nie można było patrzeć bez politycznego komentarza. Do dziś stoi i polaryzuje Polaków.
+
+### Nazwy ulic i zmiana po 1989 roku
+
+Każda polska miejscowość miała swoje ulice Lenina, Marchlewskiego, Różę Luksemburg, 22 Lipca (data ogłoszenia PKWN). Po 1989 roku dekomunizacja nazw ulic stała się gorącą kwestią polityczną. Proces jest do dziś niekompletny.
+
+Ustawa dekomunizacyjna z 2016 roku nakazała usunięcie nazw propagujących komunizm – ale jej stosowanie było nierówne i budziło kontrowersje (część zmian dotyczyła osób o niejednoznacznej historii).
+
+### Socrealistyczna architektura
+
+Lata 1949–1956 przyniosły falę socrealistycznej architektury: monumentalne, masywne gmachy z greckimi kolumnami i komunistycznymi dekoracjami. MDM (Marszałkowska Dzielnica Mieszkaniowa) w Warszawie, domy przy pl. Konstytucji – to przykłady tego stylu w Polsce.
+
+Socrealizm był oficjalnym stylem artystycznym – narzuconym przez partię, opartym na radzieckim wzorcu. Po odwilży 1956 roku odrzucono go równie gwałtownie, jak wprowadzono.
+
+### Znaczenie symboliczne
+
+Pomniki i symbolika PRL były próbą przejęcia przestrzeni publicznej dla ideologii. Polakom trudno było ignorować tę symbolikę – musieli codziennie przechodzić obok pomników „wyzwolicieli" i mieszkać przy ulicy Lenina.
+
+Walka o przestrzeń symboliczną – kto jest patronem ulic i placów – trwa w Polsce do dziś i odzwierciedla głębszy spór o interpretację historii XX wieku.`,
+    resources: [
+      {
+        id: 'pomniki-polona',
+        title: 'Socrealistyczna architektura – dokumenty (Polona)',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=socrealizm+architektura+pomniki+PRL',
+        source: 'Polona',
+        description: 'Fotografie i dokumenty dotyczące socrealistycznej architektury i pomników w PRL',
+      },
+      {
+        id: 'pomniki-ph',
+        title: 'Symbolika i propaganda przestrzeni w PRL',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=pomniki+symbolika+socrealizm+przestrze%C5%84+PRL',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o symbolice ideologicznej i zmianach nazw po 1989 roku',
+      },
+      {
+        id: 'pomniki-ninateka',
+        title: 'Architektura i pomniki w kronikach PRL',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/szukaj?q=pomniki+architektura+socrealizm+PRL',
+        source: 'Ninateka',
+        description: 'Kroniki filmowe dokumentujące socrealistyczne budowle i pomniki w Polsce',
+      },
+    ],
+    relatedIds: ['socrealizm', 'palac-kultury', 'propaganda-prl', 'odbudowa-warszawy', 'bierut'],
+  },
+  {
+    id: 'turystyka-prl',
+    title: 'Turystyka i wczasy w PRL',
+    category: 'społeczeństwo',
+    shortDesc: 'Wczasy FWP, obozy harcerskie i marzenia o morzu – turystyka jako przywilej i element polityki społecznej.',
+    content: `## Turystyka i wczasy w PRL
+
+Wyjazd na wakacje w PRL był przeżyciem zbiorowym i rytuałem społecznym – od obozów harcerskich i kolonii po wczasy Funduszu Wczasów Pracowniczych nad Bałtykiem. Turystyka zagraniczna była dostępna dla nielicznych uprzywilejowanych.
+
+### Fundusz Wczasów Pracowniczych
+
+Centralną instytucją turystyki pracowniczej był Fundusz Wczasów Pracowniczych (FWP) – organizacja zapewniająca wczasy subsydiowane dla pracowników zakładów pracy. Wczasy FWP były dostępne przez zakład pracy: przydzielano je według systemu punktowego (staż, zasługi partyjne, zdrowie, sytuacja rodzinna).
+
+Ośrodki FWP rozsiane były po całej Polsce: nad Bałtykiem (Kołobrzeg, Sopot, Łeba), w górach (Zakopane, Karpacz), nad jeziorami (Mazury). Popularnym wyborem był Bałtyk – „polskie morze" jako symbol dostępnej egzotyki.
+
+### Kempingi i biwaki
+
+Obok wczasów FWP popularne były kempingi, biwaki i obozy. Polacy masowo wyjeżdżali pod namiot lub z przyczepą kempingową – własna „Nysa" lub Fiat 126p ciągnący przyczepę był marzeniem o wolności na kółkach.
+
+Schroniska turystyczne PTTK (Polskie Towarzystwo Turystyczno-Krajoznawcze) były siecią baz dla turystów pieszych. Górskie wycieczki do Tatr, Karkonoszy, Bieszczad przyciągały tłumy. Bieszczady – odległe i dzikie – stały się symbolem ucieczki od codzienności.
+
+### Wyjazdy za granicę – przywilej
+
+Wyjazd za żelazną kurtynę był w zasadzie niemożliwy bez specjalnej zgody. Paszport „prywatny" wymagał zgody pracodawcy i rekomendacji partyjnej. Władze pilnowały, by „podróżne" – suma wypłacana na wyjazd – były minimalne.
+
+Legalne wyjazdy zagraniczne: do krajów bratnich (NRD, Czechosłowacja, Bułgaria, Jugosławia – ta ostatnia była swobodniejsza). Jugosławia cieszyła się szczególną popularnością – ciepłe morze, lepsza żywność, swobodniejsza atmosfera.
+
+W latach 70. za Gierka częściowo poluzowano ograniczenia wyjazdowe. Więcej Polaków mogło wyjeżdżać do Zachodu. Ci, którzy wyjechali i nie wrócili – emigracja „za chlebem" – zasilali polskie diaspory na Zachodzie.
+
+### Turystyka krajowa i krajoznawstwo
+
+PTTK, Orbis i inne organizacje promowały turystykę krajową. Odznaki turystyczne (GOT – Górska Odznaka Turystyczna), mapy szlaków, przewodniki. Polska krajoznawcza pasja – zbieranie pieczęci, zdobywanie szczytów, nocowanie w schroniskach – kwitła w PRL.
+
+Turystyka krajoznawcza była też formą patriotycznego wychowania: poznawaj swoją ojczyznę, doceniaj polskie krajobrazy i historię.
+
+### Turystyka jako wolność
+
+Wyjazd – choćby na krajowy kemping – dawał poczucie wolności od codziennej szarzyzny PRL. W namiocie albo w schronisku można było rozmawiać swobodniej, śpiewać piosenki bez dozoru ideologicznego, być po prostu sobą.
+
+Harcerskie obozy były dla wielu dzieci najważniejszą przestrzenią wolności i wspólnoty. Piosenki przy ognisku, przyroda, samodzielność – kontrast z codzienną ideologią szkolną.`,
+    resources: [
+      {
+        id: 'turystyka-polona',
+        title: 'Wczasy i turystyka PRL – prasa (Polona)',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=wczasy+FWP+turystyka+PRL+Orbis',
+        source: 'Polona',
+        description: 'Archiwalne broszury, plakaty i artykuły prasowe o turystyce w PRL',
+      },
+      {
+        id: 'turystyka-ninateka',
+        title: 'Wczasy nad Bałtykiem – kroniki filmowe',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/szukaj?q=wczasy+Ba%C5%82tyk+turystyka+FWP+PRL',
+        source: 'Ninateka',
+        description: 'Kroniki filmowe dokumentujące wczasy, obozy i turystykę w Polsce Ludowej',
+      },
+      {
+        id: 'turystyka-ph',
+        title: 'Turystyka i wypoczynek w PRL',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=turystyka+wczasy+FWP+wypoczynek+PRL',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o turystyce, wczasach i polityce wypoczynkowej w PRL',
+      },
+    ],
+    relatedIds: ['dzieci-prl', 'kultura-prl', 'gierek', 'motoryzacja-prl', 'nostalgia-prl'],
+  },
+  {
+    id: 'kobiety-prl',
+    title: 'Kobiety w PRL',
+    category: 'społeczeństwo',
+    shortDesc: 'Równouprawnienie w teorii i podwójny etat w praktyce – sytuacja kobiet w Polsce Ludowej.',
+    content: `## Kobiety w PRL
+
+Polska Rzeczpospolita Ludowa oficjalnie głosiła równouprawnienie kobiet – i dokonała realnego postępu w zakresie dostępu do edukacji i pracy zawodowej. Jednocześnie kobiety dźwigały „drugi etat" domowy, a ich pozycja w polityce i gospodarce była w praktyce niższa niż mężczyzn.
+
+### Emancypacja od góry
+
+Komunizm promował włączenie kobiet do rynku pracy jako element budowy socjalizmu – nie z powodów feministycznych, lecz pragmatycznych: gospodarka potrzebowała siły roboczej. Kobiety masowo wchodziły do fabryk, biur, szkół i szpitali.
+
+W 1952 roku Konstytucja PRL zapewniła kobietom równe prawa polityczne, ekonomiczne i społeczne. Ochrona macierzyństwa, urlopy macierzyńskie, żłobki i przedszkola finansowane przez państwo – to realne osiągnięcia, które ułatwiały łączenie pracy z wychowaniem dzieci.
+
+### Wykształcenie i zawody
+
+PRL masowo kształciła kobiety. Studia wyższe stały się dostępne dla córek robotniczych i chłopskich. Kobiety zdominowały zawody feminizowane: nauczycielki, lekarki (w ZSRR i krajach bloku feminizacja medycyny była znacząca), bibliotekarki, ekonomistki.
+
+W branżach wcześniej zarezerwowanych dla mężczyzn – inżynieria, nauki ścisłe, budownictwo – kobiety również się pojawiły, choć dalej były mniejszością.
+
+### Podwójny etat
+
+Mimo formalnego równouprawnienia kobiety w PRL dźwigały „podwójny etat" – pracę zawodową i całość prac domowych. Mężczyźni rzadko uczestniczyli w gotowaniu, sprzątaniu i wychowaniu dzieci.
+
+Sklepy zamknięte poza godzinami pracy, kolejki, gotowanie bez gotowych produktów – to kobiety stały w kolejkach po mięso, gotowały obiady z dostępnych surowców, zarządzały domowym budżetem. Praca domowa była niewidzialna i nieopłacana.
+
+### Kobiety w polityce
+
+Na wysokich stanowiskach partyjnych i państwowych kobiet było niewiele. Politburo, KC PZPR, rząd – wszystkie zdominowane przez mężczyzn. Kilka wyjątków: Eugenia Krassowska (minister oświaty), Władysława Macieszyna. Parytety formalne były fikcją.
+
+Kobiety były za to widoczne w lokalnych organach władzy, radach narodowych – jako „ozdoba" systemu, dowód na równouprawnienie, bez realnej decyzyjności.
+
+### Macierzyństwo i aborcja
+
+W 1956 roku zalegalizowano aborcję w Polsce – była dostępna na życzenie do 12. tygodnia ciąży. Decyzja wynikała z pragmatyzmu zdrowotnego (nielegalne zabiegi zabijały kobiety). W latach 70. wykonywano ok. 100 000 – 150 000 legalnych aborcji rocznie.
+
+Kościół konsekwentnie sprzeciwiał się tej regulacji. Po 1989 roku, w wyniku kompromisu, aborcję w Polsce zaostrzono.
+
+### Solidarność i kobiety
+
+W Solidarności kobiety odgrywały kluczową rolę – Anna Walentynowicz, Alina Pienkowska, Joanna i Henryk Duda-Gracz. Ale w kierownictwie Solidarności przeważali mężczyźni. Walentynowicz, choć formalnie była iskrą strajku, nie zasiadała w prezydium MKS.
+
+Internowanie w stanie wojennym dotknęło też kobiety – działaczki Solidarności, doradczynie, publicystki.`,
+    resources: [
+      {
+        id: 'kobiety-polona',
+        title: 'Prasa kobieca PRL (Polona)',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Kobieta+%C5%BCycie+pismo+PRL+emancypacja',
+        source: 'Polona',
+        description: 'Zdigitalizowane numery pism kobiecych PRL – „Kobieta i Życie", „Przyjaciółka"',
+      },
+      {
+        id: 'kobiety-ph',
+        title: 'Kobiety w PRL – praca i codzienność',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=kobiety+PRL+emancypacja+praca+macierzy%C5%84stwo',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o sytuacji kobiet w Polsce Ludowej',
+      },
+      {
+        id: 'kobiety-ninateka',
+        title: 'Kobiety PRL – kroniki i reportaże',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/szukaj?q=kobiety+praca+macierzy%C5%84stwo+r%C3%B3wnouprawnienie+PRL',
+        source: 'Ninateka',
+        description: 'Kroniki filmowe i reportaże o sytuacji kobiet w Polsce Ludowej',
+      },
+    ],
+    relatedIds: ['dzieci-prl', 'prasa-prl', 'solidarnosc', 'edukacja-prl', 'sluzba-zdrowia-prl'],
+  },
+  {
+    id: 'walczynski-opor',
+    title: 'Strajki i opór robotniczy przed 1980',
+    category: 'opozycja',
+    shortDesc: 'Fale strajków 1956, 1970, 1976 – robotniczy sprzeciw, który torował drogę Solidarności.',
+    content: `## Strajki i opór robotniczy przed 1980
+
+Długa droga do Solidarności wiodła przez trzy wielkie fale robotniczego protestu: 1956 (Poznań), 1970 (Wybrzeże) i 1976 (Radom i Ursus). Każda z tych eksplozji kończyła się krwawo lub represjami – ale każda też zmieniała kraj i kumulowała gotowość do walki.
+
+### Poznański Czerwiec 1956
+
+Pierwsza wielka fala – Poznański Czerwiec 1956. Robotnicy zakładów Cegielskiego wyszli na ulicę z żądaniami ekonomicznymi: obniżki norm, wyższe płace, poprawa warunków pracy. Demonstracja zamieniła się w rozlew krwi – wojsko otworzyło ogień. Zginęło co najmniej 57 osób.
+
+Władza najpierw mówiła o prowokacji imperialistycznej, potem – po Październiku – przyznała, że robotnicy mieli rację. Ale sprawców śmierci nie ukarano.
+
+### Grudzień 1970
+
+Grudzień 1970 – kolejna odsłona. Podwyżka cen żywności przed Bożym Narodzeniem wywołała strajki na Wybrzeżu: w Gdańsku, Szczecinie, Gdyni. Wojsko i milicja strzelały do robotników. Zginęło co najmniej 45 osób, setki zostały ranione.
+
+Gierek zastąpił Gomułkę, obiecał dialog. Ale sprawcy strzelaniny nie stanęli przed sądem. Pamięć Grudnia 1970 była cementem, który łączył gdańskich stoczniowców – gdy dziesięć lat później zaczęli strajk, wiedzieli, na co się narażają.
+
+### Czerwiec 1976
+
+Czerwiec 1976 – Radom i Ursus. Podwyżka cen żywności w środku nocy – Gierek ogłosił ją telewizyjnie, a rankiem wycofał po wybuchu strajków. Robotnicy z Ursusa rozkręcili tory kolejowe. W Radomiu spłonął gmach KW PZPR.
+
+Władza odpowiedziała represjami: „ścieżki zdrowia" – bicie aresztowanych przez szpaler milicjantów. Tysiące robotników straciło pracę. To te represje skłoniły intelektualistów do założenia KOR.
+
+### Robotnik jako podmiot historii
+
+Co łączy te trzy fale? Robotnicy działali spontanicznie – bez organizacji, bez przywódcy, bez programu. Reagowali na konkretne bolączki: ceny, normy, płace. I za każdym razem spotykali się z siłą.
+
+Sierpień 1980 był inny: strajk był zorganizowany, miał przywódców, miał program (21 postulatów), miał wsparcie intelektualistów z KOR. Lekcje poprzednich tragedii zostały odrobione.
+
+### Pamięć i pojednanie
+
+Po 1989 roku powołano komisje śledcze ws. Poznania 1956 i Grudnia 1970. Sprawcy zostali częściowo ustaleni – ale wyroki były minimalne lub ich nie było. Mury i tablice upamiętniają ofiary. Ale pełna sprawiedliwość historyczna pozostała nieosiągalna.`,
+    resources: [
+      {
+        id: 'opor-ipn',
+        title: 'Dokumenty strajków i represji robotniczych – IPN',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=strajki+robotnicze+Pozna%C5%84+1956+Grudzie%C5%84+1970',
+        source: 'IPN Inwentarz',
+        description: 'Materiały archiwalne dotyczące strajków 1956, 1970 i 1976 roku w Polsce',
+      },
+      {
+        id: 'opor-ph',
+        title: 'Robotniczy opór w PRL',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=strajki+robotnicze+Pozna%C5%84+Grudzie%C5%84+Radom+opozycja',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o robotniczym oporze i jego znaczeniu dla Solidarności',
+      },
+      {
+        id: 'opor-ninateka',
+        title: 'Kroniki i dokumenty – strajki robotnicze',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/szukaj?q=strajki+robotnicy+Grudzie%C5%84+Radom+1970+1976',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały filmowe dotyczące strajków robotniczych przed 1980 rokiem',
+      },
+    ],
+    relatedIds: ['czerwiec-1956', 'grudzien-1970', 'czerwiec-1976', 'kor', 'sierpien-1980'],
+  },
+  {
+    id: 'geremek',
+    title: 'Bronisław Geremek',
+    category: 'osoby',
+    shortDesc: 'Mediewista, doradca Solidarności, minister spraw zagranicznych – jeden z architektów polskiej transformacji.',
+    content: `## Bronisław Geremek (1932–2008)
+
+Bronisław Geremek był wybitnym historykiem mediewistą i jednym z najważniejszych doradców Solidarności – intelektualistą, który swoją wiedzę o historii i dyplomacji poświęcił sprawie demokratycznej transformacji Polski.
+
+### Historyk i intelektualista
+
+Geremek urodził się w Warszawie w żydowskiej rodzinie. Przeżył wojnę ukryty po aryjskiej stronie. Studiował historię na Uniwersytecie Warszawskim, doktoryzował się w Paryżu. Był wybitnym badaczem historii średniowiecza – jego prace o marginesie społecznym i ubóstwie w Europie średniowiecznej (m.in. „Litość i szubienica") były tłumaczone na wiele języków.
+
+W latach 60. i 70. był profesorem PAN – znany w środowisku akademickim jako człowiek niezależnych poglądów.
+
+### Solidarność i Okrągły Stół
+
+W sierpniu 1980 roku Geremek pojawił się w gdańskiej Stoczni jako doradca strajkujących robotników – obok Tadeusza Mazowieckiego, Andrzeja Wielowieyskiego i innych intelektualistów z Komisji Ekspertów. Jego rola była kluczowa: pomagał formułować 21 postulatów i negocjować porozumienie gdańskie.
+
+W stanie wojennym był internowany. Po zwolnieniu kontynuował działalność podziemną. W 1989 roku zasiadł przy Okrągłym Stole jako jeden z najważniejszych negocjatorów strony solidarnościowej.
+
+### Droga do NATO i UE
+
+Po 1989 roku Geremek zaangażował się aktywnie w budowanie nowej Polski. Był posłem, szefem parlamentarnego Klubu Unii Demokratycznej. W latach 1997–2000 piastował urząd Ministra Spraw Zagranicznych w rządzie Jerzego Buzka – i to jego wysiłki dyplomatyczne w znacznym stopniu przyczyniły się do wejścia Polski do NATO (1999).
+
+Był wielkim zwolennikiem integracji europejskiej. Po 1999 roku działał w Parlamencie Europejskim.
+
+### Tragedia
+
+Bronisław Geremek zginął 13 lipca 2008 roku w wypadku samochodowym pod Lubinem. Śmierć nastąpiła nagle, w środku aktywnego życia politycznego i intelektualnego. Polska straciła jednego z najwybitniejszych Europejczyków swojego pokolenia.
+
+### Spuścizna
+
+Geremek łączył w sobie rzadką kombinację: wybitny uczony i skuteczny polityk. Jego zaangażowanie w historię marginesu społecznego współgrało z jego praktyką polityczną – zawsze po stronie słabszych, zawsze z imperatywem etycznym.`,
+    resources: [
+      {
+        id: 'geremek-ipn',
+        title: 'Bronisław Geremek – dokumenty SB i Solidarności',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=Geremek+Bronis%C5%82aw',
+        source: 'IPN Inwentarz',
+        description: 'Dokumenty dotyczące inwigilacji i działalności Bronisława Geremka',
+      },
+      {
+        id: 'geremek-ph',
+        title: 'Geremek – historyk i polityk transformacji',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=Geremek+Bronis%C5%82aw+Solidarno%C5%9B%C4%87+doradca',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o roli Bronisława Geremka w Solidarności i transformacji',
+      },
+      {
+        id: 'geremek-ecs',
+        title: 'Geremek i Okrągły Stół – ECS',
+        type: 'dokument',
+        url: 'https://ecs.gda.pl/title/porozumienia-sierpniowe',
+        source: 'Europejskie Centrum Solidarności',
+        description: 'Archiwum negocjacji sierpniowych i roli doradców Solidarności',
+      },
+    ],
+    relatedIds: ['solidarnosc', 'okragly-stol', 'sierpien-1980', 'mazowiecki', 'michnik'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -10324,4 +10718,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1945, event: 'Wysiedlenia Niemców z Ziem Odzyskanych – 12 mln wypędzonych', category: 'polityka', entryId: 'ziemie-odzyskane' },
   { year: 1946, event: 'Obóz w Jaworznie – 24 000 więźniów politycznych w szczytowym okresie', category: 'represje', entryId: 'obozy-pracy' },
   { year: 1973, event: 'Produkcja Fiata 126p „Maluch" – ikona motoryzacji PRL', category: 'społeczeństwo', entryId: 'motoryzacja-prl' },
+  { year: 1999, event: 'Polska wstępuje do NATO – dzieło dyplomacji Geremka', category: 'polityka', entryId: 'geremek' },
+  { year: 1956, event: 'Robotniczy protest w Poznaniu – 57 zabitych, pierwsze przebudzenie', category: 'opozycja', entryId: 'walczynski-opor' },
+  { year: 1953, event: 'Ryszard Kapuściński debiutuje w prasie – początek kariery reporterskiej', category: 'kultura', entryId: 'kapuscinski' },
 ];
