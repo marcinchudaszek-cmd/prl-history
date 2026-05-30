@@ -8105,6 +8105,826 @@ Telewizja PRL odcisnęła trwały ślad w kulturze polskiej. Seriale, dziecięce
     ],
     relatedIds: ['radio-prl', 'propaganda-prl', 'polska-kronika-filmowa', 'cenzura-prl', 'stan-wojenny'],
   },
+
+  {
+    id: 'zbrodnie-stalinizmu',
+    title: 'Zbrodnie stalinizmu w Polsce',
+    subtitle: 'Terror, procesy pokazowe i egzekucje 1944–1956',
+    category: 'represje',
+    tags: ['stalinizm', 'UB', 'procesy pokazowe', 'tortury', 'Mokotów', 'więźniowie polityczni'],
+    yearStart: 1944,
+    yearEnd: 1956,
+    summary: 'Lata stalinowskie (1944–1956) były okresem masowych represji, tortur i egzekucji sądowych. UB aresztowało dziesiątki tysięcy żołnierzy AK, działaczy PSL i opozycjonistów. Procesy pokazowe służyły eliminacji politycznych przeciwników i zastraszeniu społeczeństwa.',
+    content: `Stalinizm w Polsce (1944–1956) oznaczał brutalną sowietyzację kraju połączoną z masowym terrorem wymierzonym w rzeczywistych i wyobrażonych przeciwników nowej władzy.
+
+**Skala represji**
+
+W latach 1944–1956 aparat bezpieczeństwa aresztował ponad 300 tysięcy ludzi. Więzienia pęczniały: na Mokotowie w Warszawie, w Rawiczu, Wronkach i Fordonie przetrzymywano tysiące więźniów politycznych. Szacuje się, że w tym okresie stracono co najmniej 6 tysięcy osób – żołnierzy podziemia, byłych oficerów AK, polityków opozycji i działaczy społecznych.
+
+**Tortury i metody śledcze**
+
+Funkcjonariusze UB stosowali wyrafinowane techniki tortur: bicie, pozbawienie snu ("konwejer" – kilkudziesięciogodzinne przesłuchania bez przerwy), zmuszanie do stania, zimno, głodzenie, symulowane rozstrzelania. Zeznania wymuszano brutalnością, a oskarżeni podpisywali sfabrykowane protokoły. Szczególnie znane stały się metody stosowane przez płk. Józefa Różańskiego (naczelnika Departamentu Śledczego MBP) i jego podwładnych.
+
+**Procesy pokazowe**
+
+Procesy polityczne były starannie wyreżyserowanymi spektaklami:
+- **Proces generałów** (1951) – sądzono wyższych oficerów Wojska Polskiego pod zarzutem szpiegostwa
+- **Proces Rotmistrza Witolda Pileckiego** (1948) – bohater Auschwitz skazany na śmierć i rozstrzelany
+- **Procesy żołnierzy AK i NSZ** – tysiące partyzantów podziemia sądzone jako "bandyci" i "faszyści"
+- **Proces biskupa Kaczmarka** (1953) – próba zastraszenia Kościoła katolickiego
+
+**Więzienie Mokotów**
+
+Słynne więzienie na Rakowieckiej w Warszawie stało się symbolem stalinowskiego terroru. Tu wykonywano większość egzekucji – wieszając lub strzelając w tył głowy. Ciał nie wydawano rodzinom; miejsca pochówku utrzymywano w tajemnicy przez dekady. Dopiero po 1989 roku zidentyfikowano część szczątków w kwaterze "Ł" na Powązkach.
+
+**Więźniowie Mokotowa**
+
+Wśród zamęczonych i straconych: Witold Pilecki (1948), gen. August Emil Fieldorf "Nil" (1953), Zygmunt Szendzielarz "Łupaszko" (1951), Stanisław Kasznica (1948), Henryk Flame "Bartek" (1947). Wielu oficerów i żołnierzy, którzy przeżyli obozy NKVD i obozy koncentracyjne, zginęło z rąk polskich stalinistów.
+
+**Ofiary spośród elit**
+
+Terror dotknął również elity: działaczy PSL (Stanisław Mierzwa i inni), polityków Stronnictwa Pracy, byłych ministrów rządu emigracyjnego, inteligencję, duchownych. Sprzyjał mu donos – donosiciele mogli otrzymać korzyści, a inwigilacja obejmowała sąsiadów, znajomych, a nawet rodziny.
+
+**Destalinizacja i rehabilitacje**
+
+Po śmierci Stalina (marzec 1953) represje stopniowo słabły. Przełom nastąpił po XX Zjeździe KPZS (1956) – referat Chruszczowa otworzył falę rehabilitacji. Uwolniono więźniów, zrehabilitowano część ofiar, postawiono przed sądem niektórych funkcjonariuszy UB (m.in. Różański skazany w 1957 roku). Jednak pełna prawda o zbrodniach stalinizmu była oficjalnie przemilczana aż do 1989 roku.`,
+    resources: [
+      {
+        id: 'zbrodnie-ipn',
+        title: 'Zbrodnie stalinizmu – baza IPN',
+        type: 'dokument',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=zbrodnie+stalinizmu',
+        source: 'Instytut Pamięci Narodowej',
+        description: 'Akta śledztw i dokumenty dotyczące zbrodni aparatu bezpieczeństwa 1944–1956',
+      },
+      {
+        id: 'zbrodnie-mokotow',
+        title: 'Więzienie Mokotów – historia i ofiary',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/tematy/zbrodnie-stalinizmu,120.html',
+        source: 'Przystanek Historia IPN',
+        description: 'Opracowania historyczne o więzieniu na Rakowieckiej i ofiarach stalinizmu',
+      },
+      {
+        id: 'zbrodnie-pilecki',
+        title: 'Proces i egzekucja rtm. Witolda Pileckiego',
+        type: 'dokument',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=Pilecki+proces',
+        source: 'IPN',
+        description: 'Dokumenty procesu Pileckiego z 1948 roku – akta śledztwa i wyroku',
+        year: 1948,
+      },
+    ],
+    relatedIds: ['ub', 'represje-polityczne', 'pilecki', 'bierut', 'zolnierze-wykletci', 'wiezienia-polityczne'],
+  },
+
+  {
+    id: 'hermaszewski',
+    title: 'Mirosław Hermaszewski',
+    subtitle: 'Pierwszy i jedyny Polak w kosmosie – 1978',
+    category: 'osoby',
+    tags: ['kosmos', 'Sojuz', 'Interkosmos', 'astronauta', 'pilot', '1978'],
+    yearStart: 1941,
+    yearEnd: 2022,
+    summary: 'Mirosław Hermaszewski – jedyny Polak, który poleciał w kosmos. 27 czerwca 1978 roku wystartował na pokładzie statku kosmicznego Sojuz 30 w ramach programu Interkosmos. Lot trwał niemal 8 dób i stał się największym triumfem propagandowym PRL lat siedemdziesiątych.',
+    content: `Mirosław Hermaszewski (1941–2022) – generał brygady, pilot doświadczalny i kosmonauta, jedyny Polak, który przebywał w przestrzeni kosmicznej.
+
+**Droga do kosmosu**
+
+Urodzony w Lipnikach na Wołyniu, wychował się w Polsce. Skończył Wyższą Oficerską Szkołę Lotniczą w Dęblinie i zdobył kwalifikacje pilota doświadczalnego. W 1976 roku wybrano go – spośród kilkuset kandydatów – do radzieckiego programu Interkosmos, który miał umożliwić obywatelom państw bloku wschodniego udział w lotach kosmicznych jako demonstrację sojuszu ze ZSRR.
+
+**Lot kosmiczny 1978**
+
+27 czerwca 1978 roku Hermaszewski i radziecki kosmonauta Piotr Klimuk wystartowali ze stanowiska Bajkonur na Sojuzie 30. Misja trwała 7 dób, 22 godziny i 2 minuty. Na orbicie prowadzili eksperymenty naukowe, m.in. fotografowali Ziemię (w tym terytorium Polski), badali wpływ nieważkości na organizm, prowadzili obserwacje astronomiczne. Lądowanie nastąpiło 5 lipca 1978 roku.
+
+**Propaganda i realia**
+
+Lot stał się wydarzeniem bez precedensu propagandowego. Władze PRL nadały mu ogromną oprawę medialną: Hermaszewski był pokazywany jako triumf socjalizmu i dowód na równouprawnienie Polski w "rodzinie narodów socjalistycznych". Dzieci w szkołach pisały prace o kosmonautach, ulice i szkoły nadawano imię Hermaszewskiego jeszcze za jego życia. Sam kosmonauta, choć świadomy instrumentalizacji swojego lotu, z pokorą przyjmował te honory.
+
+W rzeczywistości program Interkosmos był przede wszystkim polityczny: ZSRR chciał zademonstrować, że "braci" przyjmuje do elitarnego klubu potęg kosmicznych. Polska płaciła za uczestnictwo w programie – zarówno finansowo, jak i politycznie.
+
+**Po locie**
+
+Po powrocie Hermaszewski otrzymał tytuł Bohatera Związku Radzieckiego (jako pierwszy Polak po II wojnie światowej) i Bohatera Socjalistycznej Pracy PRL. Kontynuował karierę wojskową, dosłużył się stopnia generała. Po 1989 roku angażował się w działalność publiczną, był ambasadorem RP. Jego lot pozostaje unikatowym wydarzeniem w historii polskiej nauki i techniki.
+
+**Dziedzictwo**
+
+Hermaszewski jest jedynym Polakiem w kosmosie – Polska od lat nie uczestniczyła w programach kosmicznych z udziałem człowieka. Wstąpienie do ESA dało nowe możliwości, jednak do 2024 roku żaden Polak nie wrócił na orbitę. Hermaszewski inspirował pokolenia Polaków do zainteresowania nauką i astronomią.`,
+    resources: [
+      {
+        id: 'hermaszewski-film',
+        title: 'Lot Hermaszewskiego – kroniki filmowe 1978',
+        type: 'film',
+        url: 'https://ninateka.pl/szukaj?q=Hermaszewski+kosmos',
+        source: 'NINATEKA',
+        description: 'Archiwalne kroniki filmowe dokumentujące start, lot i powrót Hermaszewskiego',
+        year: 1978,
+      },
+      {
+        id: 'hermaszewski-pkf',
+        title: 'Polska Kronika Filmowa – Lot Sojuzem 30',
+        type: 'film',
+        url: 'https://ninateka.pl/kolekcja/polska-kronika-filmowa',
+        source: 'PKF / NINATEKA',
+        description: 'Kroniki PKF relacjonujące misję kosmiczną Sojuz 30 z Hermaszewskim na pokładzie',
+        year: 1978,
+      },
+      {
+        id: 'hermaszewski-ipn',
+        title: 'Interkosmos i polska polityka kosmiczna',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=Hermaszewski+Interkosmos',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły o programie Interkosmos i polskim udziale w radzieckich lotach kosmicznych',
+        year: 1978,
+      },
+    ],
+    relatedIds: ['propaganda-prl', 'gierek', 'nauka-prl', 'sport-prl'],
+  },
+
+  {
+    id: 'niemen-czeslaw',
+    title: 'Czesław Niemen',
+    subtitle: 'Legenda polskiej muzyki – od bigbitu po awangardę',
+    category: 'kultura',
+    tags: ['muzyka', 'rock', 'Niemen', 'bigbit', 'pop', 'psychodelia', 'artysta'],
+    yearStart: 1939,
+    yearEnd: 2004,
+    summary: 'Czesław Niemen (1939–2004) – jeden z największych polskich muzyków wszech czasów. Zaczynał od bigbitu, tworzył przeboje ("Dziwny jest ten świat"), sięgał po psychodelię, jazz-rock i muzykę elektroniczną. Artysta niepokory i oryginalności, porównywany na Zachodzie z największymi gwiazdami.',
+    content: `Czesław Niemen (właśc. Czesław Juliusz Wydrzycki, 1939–2004) – piosenkarz, kompozytor, multiinstrumentalista i aranżer, jeden z symboli polskiej muzyki popularnej i rockowej.
+
+**Początki – bigbit**
+
+Urodzony na Kresach (Stare Wasiliszki, dziś Białoruś), po wojnie wychował się w Polsce. Ukończył gdański Wydział Pedagogiczny PWSM. W połowie lat 60. dołączył do grupy Akwarele, a potem Niebiesko-Czarnych – czołowego polskiego zespołu bigbitowego. Szybko wyróżnił się niesamowitą ekspresją głosu i charyzmatyczną sceniczną obecnością.
+
+**Przełom: "Dziwny jest ten świat" (1967)**
+
+Festiwal Piosenki Polskiej w Opolu 1967 roku stał się punktem zwrotnym. Niemen zaśpiewał "Dziwny jest ten świat" – pieśń o miłości, pokoju i proteście przeciwko złu – i zdobył Grand Prix. Tekst był niezwykły jak na PRL: bez optymizmu socrealistycznego, z filozoficznym niepokojem. Piosenka stała się hymnem pokolenia i do dziś pozostaje klasykiem.
+
+**Psychodelia i awangarda**
+
+Pod koniec lat 60. Niemen radykalnie zmienił kierunek. Album "Dziwny jest ten świat" (1967) był pop-rockiem, ale kolejne – "Sukces" (1968) i "Enigmatic" (1970) – wkroczyły w psychodelię, jazz-rock i muzykę klasyczną. Współpracował z najlepszymi polskimi muzykami jazzowymi. Albumy "Niemen Enigmatic" (1970) i "Ode to Venus" (1973) zdumiały Europę – firma CBS wydała je na Zachodzie, gdzie porównywano Niemena do Hendrixa, Colemana i Led Zeppelin.
+
+**SBB i muzykowanie w PRL**
+
+Niemen współpracował z grupą SBB (Józef Skrzek), tworząc progresywnego rock-jazz. Nagrywał też dla wschodnioniemieckich i radzieckich wytwórni. PAGART (Polska Agencja Artystyczna) kontrolowała jego wyjazdy i kontrakty, ale Niemen cieszył się stosunkową swobodą ze względu na sukcesy zagraniczne, które przynosiły PRL dewizowe dochody.
+
+**Lata 80. i powrót do korzeni**
+
+W latach 80. Niemen sięgnął po muzykę elektroniczną i syntezatory. Wydał albumy "Postscriptum" (1985) i "Nie" (1987). Po 1989 roku kontynuował działalność artystyczną, grał dla nowych pokoleń. Pracował do końca życia – ostatni album nagrał na rok przed śmiercią. Zmarł na raka w Warszawie w 2004 roku.
+
+**Dziedzictwo**
+
+Niemen jest dla polskiej muzyki tym, czym Hendrix dla rocka angloamerykańskiego – artystą, który przekroczył własną epokę i gatunki. Jego teksty, przede wszystkim do poezji Norwida ("Bema pamięci żałobny rapsod"), Kochanowskiego i własne, łączyły kulturę wysoką z popularną. Nagroda Fryderyk Lifetime Achievement (2004), setki coverów i nieustanna obecność w popkulturze świadczą o jego ponadczasowości.`,
+    resources: [
+      {
+        id: 'niemen-ninateka',
+        title: 'Czesław Niemen – archiwalne nagrania w NINATECE',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/szukaj?q=Niemen',
+        source: 'NINATEKA',
+        description: 'Archiwalne nagrania telewizyjne i filmowe z udziałem Czesława Niemena',
+      },
+      {
+        id: 'niemen-youtube',
+        title: 'Niemen – Dziwny jest ten świat (1967)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Niemen+Dziwny+jest+ten+świat+1967',
+        source: 'YouTube',
+        description: 'Historyczne nagranie przełomowego występu Niemena na festiwalu w Opolu',
+        year: 1967,
+      },
+      {
+        id: 'niemen-polona',
+        title: 'Recenzje i materiały prasowe o Niemenie – Polona',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Niemen+muzyka',
+        source: 'Polona.pl',
+        description: 'Archiwalne artykuły prasowe o Niemenie z okresu PRL',
+      },
+    ],
+    relatedIds: ['muzyka-rockowa', 'jazz-prl', 'kultura-prl', 'cenzura-prl', 'radio-prl'],
+  },
+
+  {
+    id: 'anna-german',
+    title: 'Anna German',
+    subtitle: 'Ulubiona piosenkarka Polaków i ZSRR',
+    category: 'kultura',
+    tags: ['muzyka', 'piosenka', 'Anna German', 'śpiew', 'ZSRR', 'Eurydyka', 'wypadek'],
+    yearStart: 1936,
+    yearEnd: 1982,
+    summary: 'Anna German (1936–1982) – piosenkarka o niezwykłym, lirycznym sopranowym głosie, uwielbiana zarówno w Polsce, jak i w ZSRR. Przerwał jej karierę tragiczny wypadek samochodowy w 1967 roku, z którego cudem wróciła na scenę. Jej piosenki jak "Człowieczy los" i "Tańczące Eurydyki" zostały klasykami.',
+    content: `Anna German (właśc. Anna Wiktoria German, 1936–1982) – polsko-radziecka piosenkarka, jedna z najbardziej kochanych artystek epoki PRL.
+
+**Pochodzenie i dzieciństwo**
+
+Urodzona w Urgenczu (dziś Uzbekistan) w rodzinie o korzeniach holendersko-mennonickich. Jej ojciec Eugeniusz German został rozstrzelany przez NKWD w 1938 roku jako "wróg ludu". Matka Irma z córką przeżyły wojnę w Azji Środkowej i w 1945 roku osiedliły się we Wrocławiu. Anna studiowała geologię na Uniwersytecie Wrocławskim, ale muzyka okazała się jej prawdziwym powołaniem.
+
+**Kariera i przeboje**
+
+Debiutowała w połowie lat 50. Przełomem był festiwal w Opolu 1962 roku – zdobyła wyróżnienie i weszła do pierwszej ligi polskich artystów estrady. Nagrywała dla Polskich Nagrań, wydała dziesiątki singli i albumów. Jej interpretacje były wyjątkowe: głos o krystalicznej czystości, niezwykła dykcja i głęboka emocjonalność. Przeboje: "Tańczące Eurydyki" (1964), "Człowieczy los", "Być może" (pol. wersja włoskiego "Voglio essere donna"), "Byłam różą" i wiele innych.
+
+**Sukces w ZSRR**
+
+Anna German cieszyła się w Związku Radzieckim popularnością nieporównywalną z żadnym innym polskim artystą. Radzieckie nagrania – zwłaszcza "Nadzieja" (Надежда, 1970) – stały się hymnami pokoleniowymi. Śpiewała po rosyjsku, włosku, angielsku i ukraińsku. Radzieckie studia płytowe Melodija zapełniały hale wydawnicze jej nagraniami. Była gwiazdą programów telewizyjnych w całym bloku wschodnim.
+
+**Tragiczny wypadek (1967)**
+
+W nocy z 26 na 27 sierpnia 1967 roku, w drodze powrotnej z Turynu do Mediolanu, samochód, którym jechała, wpadł w poślizg i z impetem uderzył w barierę. Anna German doznała wielokrotnych złamań obu nóg, kręgosłupa, ramienia i miednicy. Przez wiele miesięcy leżała w szpitalu w ciężkim stanie. Włoscy i polscy lekarze cudem uratowali jej życie.
+
+**Powrót na scenę**
+
+Po blisko trzech latach rehabilitacji Anna German powróciła na scenę – jako przykład niewyobrażalnej siły woli. Pierwszy koncert po wypadku odbył się w 1970 roku; widownia przywitała ją owacją na stojąco. Kontynuowała karierę przez kolejne lata, nagrywając i koncertując mimo chronicznego bólu. W 1975 roku wyszła za mąż za inżyniera Zbigniewa Tucholskiego i w 1977 urodziła syna Zbyszka.
+
+**Choroba i śmierć**
+
+W 1980 roku zdiagnozowano u niej mięsaka kości. Mimo chemioterapii i operacji choroba postępowała. Anna German zmarła 25 sierpnia 1982 roku w Warszawie. Miała 46 lat. Jej pogrzeb zgromadził tysiące żałobników.
+
+**Pamięć i kult**
+
+Anna German jest czczona do dziś zarówno w Polsce, jak i w Rosji, na Ukrainie i w innych krajach byłego ZSRR. Jej życie stało się kanwą rosyjskiego serialu telewizyjnego "Anna German" (2012), który był wielkim hitem. Muzeum i ekspozycje poświęcone jej życiu działają we Wrocławiu i w krajach byłego ZSRR.`,
+    resources: [
+      {
+        id: 'german-ninateka',
+        title: 'Anna German – archiwalne nagrania telewizyjne',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/szukaj?q=Anna+German',
+        source: 'NINATEKA',
+        description: 'Archiwalne nagrania telewizyjne z udziałem Anny German z lat 60. i 70.',
+      },
+      {
+        id: 'german-youtube',
+        title: 'Anna German – Tańczące Eurydyki',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Anna+German+Tańczące+Eurydyki',
+        source: 'YouTube',
+        description: 'Nagrania z udziałem Anny German – przeboje i archiwalne koncerty',
+      },
+      {
+        id: 'german-polona',
+        title: 'Materiały prasowe o Annie German – Polona',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Anna+German+piosenkarka',
+        source: 'Polona.pl',
+        description: 'Archiwalne artykuły i wywiady z Anną German z prasy PRL',
+      },
+    ],
+    relatedIds: ['kultura-prl', 'muzyka-rockowa', 'radio-prl', 'telewizja-prl'],
+  },
+
+  {
+    id: 'zmp',
+    title: 'Związek Młodzieży Polskiej (ZMP)',
+    subtitle: 'Komunistyczna organizacja młodzieżowa 1948–1957',
+    category: 'społeczeństwo',
+    tags: ['ZMP', 'indoktrynacja', 'młodzież', 'komunizm', 'szkoła', 'przodownicy pracy'],
+    yearStart: 1948,
+    yearEnd: 1957,
+    summary: 'Związek Młodzieży Polskiej (1948–1957) – masowa organizacja komunistyczna wzorowana na radzieckim Komsomolu. Skupiała ponad milion członków, prowadziła indoktrynację ideologiczną w szkołach i zakładach pracy, organizowała brygady młodzieżowe przy budowie Nowej Huty i MDM. Rozwiązana po Październiku 1956.',
+    content: `Związek Młodzieży Polskiej (ZMP) – organizacja komunistyczna powołana w 1948 roku jako masowe zrzeszenie młodzieży, będące głównym instrumentem ideologicznej formacji młodego pokolenia.
+
+**Powstanie i struktura**
+
+ZMP powstało w lipcu 1948 roku z połączenia kilku organizacji młodzieżowych (m.in. Organizacji Młodzieży Towarzystwa Uniwersytetu Robotniczego i Związku Walki Młodych). Wzorowano je na sowieckim Komsomole. Organizacja była podporządkowana PZPR i działała na wszystkich szczeblach: od podstaw zakładowych i szkolnych po centralne struktury. Przynależność była formalnie dobrowolna, ale w praktyce wywierano silną presję – brak legitymacji ZMP oznaczał problemy w szkole i pracy.
+
+**Indoktrynacja i działalność**
+
+ZMP prowadziło intensywną działalność ideologiczną:
+- **Kółka samokształceniowe** z obowiązkowym studiowaniem Marksa, Engelsa, Lenina i Stalina
+- **Akademie ku czci** – uroczystości rocznicowe rewolucji październikowej, urodzin Stalina, Bieruta
+- **Brygady pracy** – ochotnicze (faktycznie przymusowe) wyjazdy do budowy Nowej Huty, MDM, elektryfikacji wsi
+- **Informowanie** – ZMP-owcy donosili na uczniów, nauczycieli i rodziców o "wrogich" wypowiedziach
+- **Współzawodnictwo pracy** – ruch przodownictwa pracy wśród młodych robotników
+
+**Skala i przodownicy**
+
+W szczytowym okresie (1952–1953) ZMP liczyło ponad 2 miliony członków. Organizacja kreowała wzorce osobowe: przodownicy pracy (wyrabiający kilkaset procent normy), wzorowi uczniowie szkoły ZMP, aktywni działacze. Wincenty Pstrowski – górnik postulujący "kto wytworzy więcej ode mnie" – stał się oficjalnym bohaterem propagandowym.
+
+**ZMP w szkołach**
+
+Szkoły stały się polem szczególnie intensywnej działalności ZMP. Nauczyciele byli oceniani przez pryzmat zaangażowania w pracę ZMP. Lekcje historii, geografii, biologii przepajano marksistowską ideologią. Uczniowie "aktywni" w ZMP mieli łatwiejszy dostęp do uczelni wyższych. Brak aktywności lub związki z Kościołem były piętnem.
+
+**Kryzys i rozwiązanie**
+
+Po śmierci Stalina (1953) i XX Zjeździe KPZS (1956) ZMP weszło w ostry kryzys. Młodzież – wcześniej szczerze czy pozornie zaangażowana – zaczęła masowo kwestionować ideologię. Wystąpienia w 1956 roku (zarówno po poznańskim Czerwcu, jak i przy okazji Październikowego Przełomu) ujawniły głęboki kryzys organizacji. W grudniu 1956 roku ZMP samorozwiązało się – na jego miejsce powołano kilka nowych, mniej zideologizowanych organizacji (m.in. ZMS – Związek Młodzieży Socjalistycznej).
+
+**Ocena i pamięć**
+
+Doświadczenie ZMP jest złożone. Część członków szczerze wierzyła w ideały budowy lepszego świata; wielu z nich po 1956 roku stało się krytykami systemu (m.in. Jacek Kuroń był aktywnym ZMP-owcem). ZMP wyrządziło jednak realne szkody: przez denuncjacje, zniszczenie kariery "nieprawomyślnych", formatowanie całego pokolenia według ideologicznego szablonu.`,
+    resources: [
+      {
+        id: 'zmp-ipn',
+        title: 'ZMP – dokumenty i materiały IPN',
+        type: 'dokument',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=Zwi%C4%85zek+M%C5%82odzie%C5%BCy+Polskiej',
+        source: 'IPN',
+        description: 'Akta organizacyjne ZMP i dokumenty dotyczące działalności w szkołach',
+      },
+      {
+        id: 'zmp-pkf',
+        title: 'ZMP w kronikach filmowych',
+        type: 'film',
+        url: 'https://ninateka.pl/kolekcja/polska-kronika-filmowa',
+        source: 'NINATEKA / PKF',
+        description: 'Kroniki filmowe dokumentujące wiece, brygady pracy i działalność ZMP',
+      },
+      {
+        id: 'zmp-polona',
+        title: 'Prasa ZMP – Sztandar Młodych i inne tytuły',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Sztandar+M%C5%82odych+ZMP',
+        source: 'Polona.pl',
+        description: 'Archiwalne numery "Sztandaru Młodych" – organu prasowego ZMP',
+      },
+    ],
+    relatedIds: ['edukacja-prl', 'propaganda-prl', 'dzieci-prl', 'bierut', 'socrealizm'],
+  },
+
+  {
+    id: 'solidarnosc-walczaca',
+    title: 'Solidarność Walcząca',
+    subtitle: 'Radykalne podziemie – obalić komunizm, nie negocjować',
+    category: 'opozycja',
+    tags: ['Solidarność Walcząca', 'Mrozowicki', 'podziemie', 'niepodległość', 'antykomunizm', 'Wrocław'],
+    yearStart: 1982,
+    yearEnd: 1992,
+    summary: 'Solidarność Walcząca – podziemna organizacja powstała we Wrocławiu w 1982 roku, radykalniejsza od głównego nurtu podziemnej Solidarności. Odrzucała jakikolwiek kompromis z komunistami, dążąc do pełnego obalenia systemu i odzyskania niepodległości. Była silnie inwigilowana przez SB.',
+    content: `Solidarność Walcząca (SW) – konspiracyjna organizacja powołana we Wrocławiu w czerwcu 1982 roku przez Kornela Morawieckiego, reprezentująca radykalne skrzydło oporu po wprowadzeniu stanu wojennego.
+
+**Powstanie i ideologia**
+
+Po 13 grudnia 1981 roku podziemna Solidarność – skupiona głównie wokół Tymczasowej Komisji Koordynacyjnej (TKK) – przyjęła strategię samoobrony społecznej i stopniowego wymuszania ustępstw od władzy. Kornel Morawiecki – naukowiec z Politechniki Wrocławskiej – uznał tę strategię za zbyt ugodową. W czerwcu 1982 roku powołał Solidarność Walczącą, której program zakładał obalenie komunizmu, a nie negocjacje z nim.
+
+**Program i działalność**
+
+SW stała na stanowisku:
+- Całkowitego odrzucenia dialogu z komunistami jako legitymizacji bezprawnego systemu
+- Dążenia do niepodległości Polski od ZSRR (co w głównym nurcie Solidarności uważano za nierealistyczne)
+- Oporu aktywnego: sabotaż, akcje plakatowe, wydawnictwa konspiracyjne
+- Kontaktów z emigracją i zachodnimi organizacjami antykomunistycznymi
+
+Solidarność Walcząca wydawała własne pismo (też zatytułowane "Solidarność Walcząca"), produkowała ulotki i pisma, organizowała akcje ulotkowe. Wrocław był jej centrum, ale działała też w Gdańsku, Krakowie, Warszawie.
+
+**Konflikty z TKK**
+
+Radykalizm SW prowadził do napięć z głównym nurtem podziemnej Solidarności. TKK (Zbigniew Bujak, Bogdan Lis) zarzucała SW awanturnictwo i narażanie konspiratorów na represje bez perspektyw sukcesu. SW z kolei uważała TKK za zbyt ugodową wobec reżimu. Podziały te odzwierciedlały głębszy spór o strategię: samoograniczająca się rewolucja vs. pełna konfrontacja.
+
+**Inwigilacja SB**
+
+Solidarność Walcząca była intensywnie penetrowana przez Służbę Bezpieczeństwa. Morawiecki był kilkakrotnie aresztowany. Mimo to organizacja funkcjonowała przez całe lata 80., finansowana m.in. ze środków przekazywanych przez Polonię i zachodnie centrale związkowe.
+
+**Okrągły Stół i po 1989**
+
+SW bojkotowała Okrągły Stół, uznając rozmowy z komunistami za zdradzenie ideałów Solidarności. Po 1989 roku część jej działaczy weszła do polityki – Morawiecki założył Partię "X", a potem inne ugrupowania. SW rozwiązała się formalnie w 1992 roku.
+
+**Ocena**
+
+Solidarność Walcząca pozostaje kontrowersyjną organizacją. Zwolennicy podkreślają jej bezkompromisowość i trafną diagnozę komunizmu jako systemu nie do reformy. Krytycy wskazują na izolację polityczną, brak realistycznej strategii i potencjalne szkody dla bezpieczeństwa konspiratorów. Historia przyznała rację obu stronom: komunizm upadł, ale nie przez rewolucję, a przez negocjacje.`,
+    resources: [
+      {
+        id: 'sw-ipn',
+        title: 'Solidarność Walcząca – dokumenty IPN',
+        type: 'dokument',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=Solidarno%C5%9B%C4%87+Walcz%C4%85ca',
+        source: 'IPN',
+        description: 'Akta SB dotyczące inwigilacji Solidarności Walczącej i Kornela Morawieckiego',
+      },
+      {
+        id: 'sw-szukaj',
+        title: 'Archiwum SW – Szukaj w Archiwach',
+        type: 'dokument',
+        url: 'https://szukajwarchiwach.gov.pl/szukaj?q=Solidarno%C5%9B%C4%87+Walcz%C4%85ca',
+        source: 'Szukaj w Archiwach',
+        description: 'Dokumenty i materiały archiwalne dotyczące działalności SW',
+      },
+      {
+        id: 'sw-ph',
+        title: 'Solidarność Walcząca – Przystanek Historia',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=Solidarno%C5%9B%C4%87+Walcz%C4%85ca',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły i opracowania historyczne o Solidarności Walczącej',
+      },
+    ],
+    relatedIds: ['podziemna-solidarnosc', 'solidarnosc', 'stan-wojenny', 'internowanie', 'bujak-zbigniew'],
+  },
+
+  {
+    id: 'bujak-zbigniew',
+    title: 'Zbigniew Bujak',
+    subtitle: 'Legendarny lider podziemnej Solidarności',
+    category: 'osoby',
+    tags: ['Solidarność', 'podziemie', 'TKK', 'Mazowsze', 'ukrywanie', 'opozycja'],
+    yearStart: 1954,
+    yearEnd: 9999,
+    summary: 'Zbigniew Bujak – lider Solidarności regionu Mazowsze, jeden z najważniejszych działaczy podziemnej Solidarności po 13 grudnia 1981 roku. Przez 4,5 roku ukrywał się przed SB, stając się symbolem oporu. Schwytany w 1986 roku, zwolniony na mocy amnestii.',
+    content: `Zbigniew Bujak (ur. 1954) – elektryk z Ursusa, przewodniczący Zarządu Regionu Mazowsze NSZZ "Solidarność", jeden z filarów podziemnej struktury związkowej w stanie wojennym i po nim.
+
+**Działalność przed stanem wojennym**
+
+Bujak był liderem Solidarności w Ursusie i Mazowszu – największym i najbardziej wpływowym regionie związku. W sierpniu 1980 roku uczestniczył w strajku i negocjacjach w Ursusie. Szybko wyrósł na jednego z kluczowych działaczy – sprawnego organizatora i twardego negocjatora.
+
+**Podziemie – 4,5 roku ucieczki**
+
+Gdy 13 grudnia 1981 roku ogłoszono stan wojenny, Bujak uniknął internowania i zszedł do podziemia. Przez 4,5 roku – do maja 1986 roku – ukrywał się przed Służbą Bezpieczeństwa, stając się symbolem oporu. SB poszukiwało go intensywnie; wyznaczono nagrodę za jego schwytanie, prowadzono kilka dużych operacji.
+
+Bujak kierował Tymczasową Komisją Koordynacyjną (TKK), która koordynowała działania podziemnej Solidarności w całej Polsce. Wydawał instrukcje, spotykał się z innymi działaczami, udzielał wywiadów zachodnim mediom – wszystko to w głębokiej konspiracji. Zmieniał kryjówki, korzystał z sieci zaufanych osób i rodzin (tzw. "lokatorzy"). Jego działalność była możliwa dzięki rozbudowanej sieci wsparcia społecznego.
+
+**Schwytanie i więzienie**
+
+W maju 1986 roku Zbigniew Bujak został schwytany przez SB. Jego aresztowanie było wielkim propagandowym triumfem reżimu. Sądzony pod zarzutami działalności antypaństwowej, trafił do aresztu. Jednak na mocy amnestii ogłoszonej we wrześniu 1986 roku (część ustępstw wobec nacisków Zachodu) został zwolniony.
+
+**Okrągły Stół i po 1989**
+
+Bujak był jednym z negocjatorów ze strony opozycji przy Okrągłym Stole (1989). Po przełomie politycznym zaangażował się w działalność polityczną – był posłem na Sejm, działał w różnych ugrupowaniach demokratycznych. Z czasem ewoluował w kierunku lewicy (m.in. Unia Pracy), co wywołało kontrowersje wśród dawnych towarzyszy walki.
+
+**Symbol i dziedzictwo**
+
+Zbigniew Bujak jest symbolem oporu i wytrwałości – człowiek, który przez 4,5 roku chodził po wolności tuż obok policji totalitarnego państwa i nie dał się schwytać. Jego historia inspiruje i pokazuje, że nawet w warunkach brutalnej dyktatury można skutecznie działać, mając wsparcie społeczeństwa.`,
+    resources: [
+      {
+        id: 'bujak-ipn',
+        title: 'Akta SB dotyczące Zbigniewa Bujaka',
+        type: 'dokument',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=Bujak+Zbigniew',
+        source: 'IPN',
+        description: 'Dokumenty operacyjne SB z poszukiwań i inwigilacji Zbigniewa Bujaka',
+      },
+      {
+        id: 'bujak-ph',
+        title: 'Bujak i podziemna Solidarność – Przystanek Historia',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=Bujak+podziemie+Solidarno%C5%9B%C4%87',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły o podziemnej Solidarności i roli Zbigniewa Bujaka',
+      },
+      {
+        id: 'bujak-ecs',
+        title: 'Archiwum Solidarności – ECS',
+        type: 'dokument',
+        url: 'https://ecs.gda.pl/title/cyfrowe-archiwum-solidarnosci',
+        source: 'Europejskie Centrum Solidarności',
+        description: 'Dokumenty Solidarności z okresu podziemia, w tym materiały TKK',
+      },
+    ],
+    relatedIds: ['podziemna-solidarnosc', 'stan-wojenny', 'internowanie', 'solidarnosc', 'okragly-stol', 'solidarnosc-walczaca'],
+  },
+
+  {
+    id: 'destalinizacja',
+    title: 'Destalinizacja w Polsce',
+    subtitle: 'Odwilż, rehabilitacje i Październik 1956',
+    category: 'polityka',
+    tags: ['odwilż', 'Chruszczow', 'XX Zjazd', 'rehabilitacje', 'październik 1956', 'stalinizm'],
+    yearStart: 1953,
+    yearEnd: 1957,
+    summary: 'Destalinizacja w Polsce (1953–1957) – proces stopniowego odchodzenia od stalinowskich metod rządzenia po śmierci Stalina w 1953 roku. Kulminacją był Październik 1956 – powrót Gomułki, rehabilitacje ofiar, rozwiązanie ZMP i ograniczone reformy polityczne.',
+    content: `Destalinizacja to proces modyfikacji systemu komunistycznego po śmierci Józefa Stalina (5 marca 1953), obejmujący stopniowe odejście od najbardziej brutalnych form terroru i dogmatycznej ideologii.
+
+**Śmierć Stalina i pierwsze symptomy**
+
+Śmierć Stalina wywołała w Polsce mieszaninę żalu (indukowanego przez propagandę) i ukrytej ulgi. Aparat partyjny i bezpieczeństwa stanął przed pytaniem o kierunek zmian. Pierwsze sygnały odwilży to złagodzenie represji, zwolnienie kilku głośnych więźniów, nieznaczna liberalizacja prasy.
+
+**Raport Chruszczowa (1956)**
+
+Przełom nastąpił na XX Zjeździe KPZS w lutym 1956 roku, kiedy Nikita Chruszczow wygłosił tajny referat "O kulcie jednostki i jego następstwach", demaskując zbrodnie Stalina. Tekst szybko "wyciekł" i stał się znany w Polsce. Wywołał szok w aparacie partyjnym i rozbudził nadzieje w społeczeństwie.
+
+**Śmierć Bieruta**
+
+Bolesław Bierut – polski Stalin – zmarł 12 marca 1956 roku w Moskwie, kilka dni po XX Zjeździe. Okoliczności śmierci nigdy nie zostały w pełni wyjaśnione. I sekretarzem PZPR został Edward Ochab – postać bardziej skłonna do reform.
+
+**"Po prostu" i dyskusja publiczna**
+
+Tygodnik "Po prostu" stał się forum swobodnej, jak na warunki PRL, dyskusji politycznej. Artykuły krytykowały biurokrację, dogmatyzm i stalinowskie wypaczenia. Podobna atmosfera panowała w środowiskach inteligencji twórczej (m.in. słynne "czwartki" u Kotta).
+
+**Czerwiec 1956 – Poznań**
+
+Czerwcowy bunt robotników w Poznaniu był testem dla systemu. Krwawe stłumienie (57 zabitych) ujawniło przepaść między władzą a społeczeństwem. Wydarzenie przyspieszyło wewnątrzpartyjne rozgrywki.
+
+**Październik 1956 i powrót Gomułki**
+
+19–21 października 1956 roku – dramatyczne plenum KC PZPR. Wbrew woli Moskwy (przybycie Chruszczowa i sowieckiego wojska) I sekretarzem wybrano Władysława Gomułkę – człowieka, który siedział w więzieniu za "odchylenie prawicowo-nacjonalistyczne". Jego wybór był kompromisem: sowiecki komunista, ale z polskim obliczem i autonomistycznymi tendencjami.
+
+**Reformy i ich granice**
+
+Po Październiku 1956:
+- Uwolniono tysiące więźniów politycznych, w tym kard. Wyszyńskiego
+- Zrehabilitowano część ofiar stalinizmu (pośmiertnie – w tym Fieldorfa, Spychalskiego)
+- Rozwiązano ZMP, osłabiono cenzurę, dopuszczono pewien pluralizm kulturalny
+- Cofnięto kolektywizację rolnictwa (chłopi opuścili spółdzielnie)
+- Polskę i ZSRR powiązano nową umową (polskie wojska pod polskim dowodzeniem)
+
+Reformy miały jednak granice: PZPR utrzymała monopol władzy, SB funkcjonowała dalej, relacje ze ZSRR nie zmieniły się zasadniczo.
+
+**Znaczenie**
+
+Destalinizacja w Polsce nie zniszczyła systemu, ale go znacząco zreformowała. Październik 1956 stał się wzorcem dla późniejszych prób reform (1970, 1980) – pokazał, że społeczny nacisk może wymusić ustępstwa od władzy, ale nie całkowite zmiany systemu.`,
+    resources: [
+      {
+        id: 'destalin-xxzjazd',
+        title: 'XX Zjazd KPZS – referat Chruszczowa',
+        type: 'dokument',
+        url: 'https://polona.pl/search/?query=Chruszczow+XX+Zjazd+1956',
+        source: 'Polona.pl',
+        description: 'Dokumenty i prasa z 1956 roku dotyczące XX Zjazdu i jego następstw w Polsce',
+        year: 1956,
+      },
+      {
+        id: 'destalin-ph',
+        title: 'Odwilż 1956 – Przystanek Historia',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=odwil%C5%BC+1956+destalinizacja',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły o procesie odwilży i destalinizacji w Polsce',
+      },
+      {
+        id: 'destalin-polskie',
+        title: 'Polskie miesiące – Październik 1956',
+        type: 'publikacja',
+        url: 'https://polskiemiesiace.ipn.gov.pl/mie/wszystkie-wydarzenia/pazdziernik-1956',
+        source: 'IPN Polskie Miesiące',
+        description: 'Serwis IPN poświęcony Październikowi 1956 i procesowi destalinizacji',
+        year: 1956,
+      },
+    ],
+    relatedIds: ['czerwiec-1956', 'pazdziernik-1956', 'gomulka', 'bierut', 'represje-polityczne', 'chruszczow'],
+  },
+
+  {
+    id: 'pps',
+    title: 'Polska Partia Socjalistyczna (PPS)',
+    subtitle: 'Likwidacja polskiej socjaldemokracji przez komunistów',
+    category: 'polityka',
+    tags: ['PPS', 'PPR', 'kongres zjednoczeniowy', 'Cyrankiewicz', 'socjalizm', 'PZPR'],
+    yearStart: 1892,
+    yearEnd: 1948,
+    summary: 'Polska Partia Socjalistyczna – historyczna partia lewicy, działająca od 1892 roku. Po wojnie PPR stopniowo przejmowała kontrolę nad PPS i eliminowała niezależne kierownictwo. W grudniu 1948 roku wymuszono "kongres zjednoczeniowy" PPS z PPR – w efekcie powstała PZPR, a PPS przestała istnieć jako niezależna siła.',
+    content: `Polska Partia Socjalistyczna (PPS) była jedną z najstarszych i najbardziej wpływowych polskich partii politycznych. Jej likwidacja poprzez wymuszone połączenie z PPR w 1948 roku była symbolem końca pluralizmu politycznego w Polsce.
+
+**Historia PPS przed 1939**
+
+PPS założono w 1892 roku. W jej szeregach działał Józef Piłsudski, a partia była ważnym graczem politycznym przez całe dwudziestolecie międzywojenne – zarówno jako siła lewicowa, jak i zaangażowana w walkę o niepodległość. PPS współtworzyła rządy II RP, krytykowała sanację, broniła praw robotniczych.
+
+**PPS po 1945 – fałszywy pluralizm**
+
+Po wyzwoleniu PPS formalnie działała obok PPR. W rzeczywistości jednak od początku znajdowała się pod presją komunistów. PPR (a za nią Związek Radziecki) dążyła do przejęcia PPS lub jej likwidacji. Strategia była dwutorowa:
+1. Infiltracja i przejmowanie kierownictwa przez ludzi lojalnych wobec PPR
+2. Marginalizowanie i represjonowanie niezależnych działaczy PPS
+
+**Cyrankiewicz – człowiek pośredniczący**
+
+Józef Cyrankiewicz – sekretarz generalny PPS – odegrał kluczową rolę w procesie likwidacji partii. Wybrany na to stanowisko w 1945 roku, dał się zdominować przez PPR i stał się instrumentem sowietyzacji. W zamian za współpracę zachował stanowisko premiera PRL przez ponad dwie dekady.
+
+**Eliminacja niezależnych**
+
+Działacze PPS, którzy sprzeciwiali się połączeniu z PPR, byli usuwani z partii, aresztowani lub zmuszani do emigracji. Wybitni socjaliści – jak Zygmunt Żuławski czy Jan Mulak – nie mogli działać. Część uciekła za granicę. Ci, którzy pozostali i opierali się, trafiali przed sądy bezpieczeństwa.
+
+**Kongres Zjednoczeniowy (grudzień 1948)**
+
+15–21 grudnia 1948 roku odbył się kongres zjednoczeniowy PPR i PPS, podczas którego obie partie oficjalnie połączyły się, tworząc Polską Zjednoczoną Partię Robotniczą (PZPR). Kongres był politycznym spektaklem: delegaci byli starannie dobrani, a głosowanie – formalnością. PZPR przyjęła struktury organizacyjne PPR i jej ideologię marksistowsko-leninowską. Socjaldemokratyczne tradycje PPS oficjalnie uznano za "odchylenie prawicowe".
+
+**Znaczenie**
+
+Likwidacja PPS oznaczała zniszczenie pluralizmu politycznego w Polsce i zakończenie możliwości niezależnej działalności lewicy niekomunistycznej. Tradycja PPS przetrwała jednak w emigracji – paryska PPS nieprzerwanie kontynuowała działalność. Powróciła też w 1987 roku w kraju, gdy opozycja reaktywowała partię, nawiązując do historycznych korzeni.`,
+    resources: [
+      {
+        id: 'pps-aan',
+        title: 'Akta PPS – Archiwum Akt Nowych',
+        type: 'dokument',
+        url: 'https://www.aan.gov.pl/wp/zasob_aan/polska-zjednoczona-partia-robotnicza-komitet-centralny-w-warszawie-1905-1907-1944-1947-1948-1990-2-1354/',
+        source: 'Archiwum Akt Nowych',
+        description: 'Archiwum dokumentów partyjnych z okresu zjednoczenia PPS i PPR',
+        year: 1948,
+      },
+      {
+        id: 'pps-polona',
+        title: 'Prasa PPS z 1948 roku – Polona',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Polska+Partia+Socjalistyczna+1948',
+        source: 'Polona.pl',
+        description: 'Archiwalne numery "Robotnika" i innych pism PPS',
+      },
+      {
+        id: 'pps-ipn',
+        title: 'Likwidacja PPS – materiały edukacyjne IPN',
+        type: 'publikacja',
+        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne?search=PPS+zjednoczenie',
+        source: 'IPN Edukacja',
+        description: 'Opracowania o procesie eliminacji PPS i tworzeniu PZPR',
+        year: 1948,
+      },
+    ],
+    relatedIds: ['pzpr', 'ppr', 'cyrankiewicz', 'manifest-pkwn', 'bierut'],
+  },
+
+  {
+    id: 'komeda',
+    title: 'Krzysztof Komeda',
+    subtitle: 'Geniusz polskiego jazzu i muzyki filmowej',
+    category: 'kultura',
+    tags: ['jazz', 'film', 'muzyka', 'Komeda', 'Polański', 'Rosemary', 'pianista'],
+    yearStart: 1931,
+    yearEnd: 1969,
+    summary: 'Krzysztof Komeda (1931–1969) – pianista jazzowy i kompozytor, jeden z najwybitniejszych muzyków polskich XX wieku. Twórca muzyki do filmów Romana Polańskiego, w tym słynnego "Dziecka Rosemary" (1968). Tragicznie zginął w wypadku samochodowym w Hollywood. Jego styl zrewolucjonizował polski jazz.',
+    content: `Krzysztof Komeda (właśc. Krzysztof Trzcinski, 1931–1969) – pianista jazzowy i kompozytor filmowy, jeden z najważniejszych twórców polskiego jazzu i ikona kultury PRL lat 50. i 60.
+
+**Pseudonim i początki**
+
+Pseudonimu "Komeda" użył, by ukryć muzykowanie jazzowe przed władzami w epoce stalinizmu, kiedy jazz był piętnowany jako "burżuazyjna dekadencja". Był z wykształcenia lekarzem (ukończył medycynę w Poznaniu), ale muzyka stała się jego życiem.
+
+**Rewolucja jazzu w PRL**
+
+W drugiej połowie lat 50., po odwilży 1956 roku, jazz stał się w Polsce zjawiskiem masowym. Komeda był jednym z pionierów: założył kwintet, który grał muzykę wyraźnie inspirowaną cool jazzem i bopem, ale z wyraźnym europejskim kolorytem. Jego styl – liryczny, melancholijny, z elementami muzyki ludowej i impresjonizmu – był oryginalny i odmienny od wzorców amerykańskich.
+
+**Współpraca z Polańskim**
+
+Komeda poznał Romana Polańskiego na przełomie lat 50. i 60. i nawiązał owocną współpracę artystyczną. Skomponował muzykę do wszystkich wczesnych filmów Polańskiego:
+- **"Nóż w wodzie"** (1962) – pierwszy pełnometrażowy film Polańskiego, Oscarna nominacja; muzyka Komedy była rewolucyjna
+- **"Repulsion"** (1965)
+- **"Cul-de-sac"** (1966)
+- **"The Fearless Vampire Killers"** (1967)
+- **"Rosemary's Baby"** (1968) – kulminacja: kołysanka z tego filmu jest jedną z najbardziej rozpoznawalnych melodii w historii kina
+
+**Sukcesy na Zachodzie i Hollywood**
+
+Muzyka do "Rosemary's Baby" przyniosła Komedzie uznanie w Hollywood. Pracował dla wytwórni Paramount i zdobywał kolejne kontrakty. Los Angeles stało się jego nową bazą – w 1968 roku był u szczytu kariery.
+
+**Tragiczna śmierć**
+
+23 stycznia 1969 roku Komeda upadł z balkonu w LA i doznał rozległego urazu głowy. Trafił do szpitala w stanie śpiączki. Pomimo prób leczenia w Polsce i USA, nie odzyskał przytomności. Zmarł 23 kwietnia 1969 roku. Miał 37 lat. Okoliczności wypadku pozostają niejasne.
+
+**Dziedzictwo**
+
+Komeda zostawił ok. 20 nagrań studyjnych i muzykę do ponad 50 filmów. Jego kołysanka z "Rosemary's Baby" jest do dziś jedną z najczęściej cytowanych w kulturze popularnej. Polski jazz bez Komedy byłby zupełnie inny – ukształtował on zarówno styl gry, jak i wyobraźnię kolejnych pokoleń muzyków. Jan Ptaszyn Wróblewski, Tomasz Stańko i wielu innych przyznaje się do jego wpływu.`,
+    resources: [
+      {
+        id: 'komeda-ninateka',
+        title: 'Archiwalne nagrania i wywiady z Komedą – NINATEKA',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/szukaj?q=Komeda+jazz',
+        source: 'NINATEKA',
+        description: 'Telewizyjne i filmowe nagrania z Krzysztofem Komedą z lat 60.',
+      },
+      {
+        id: 'komeda-youtube',
+        title: 'Komeda – Rosemary\'s Baby Lullaby (1968)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Komeda+Rosemary+Baby+Lullaby+1968',
+        source: 'YouTube',
+        description: 'Kołysanka Komedy z "Dziecka Rosemary" – jeden z najpopularniejszych motywów muzyki filmowej',
+        year: 1968,
+      },
+      {
+        id: 'komeda-polona',
+        title: 'Materiały prasowe o Komedzie – Polona',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Komeda+jazz+Trzci%C5%84ski',
+        source: 'Polona.pl',
+        description: 'Archiwalne artykuły prasowe o Komedzie i polskim jazzie z lat 60.',
+      },
+    ],
+    relatedIds: ['jazz-prl', 'kino-prl', 'polska-szkola-filmowa', 'kultura-prl', 'muzyka-rockowa'],
+  },
+
+  {
+    id: 'pazdziernik-1956-studenci',
+    title: 'Studenci i inteligencja w Październiku 1956',
+    subtitle: 'Rola środowisk twórczych w polskiej odwilży',
+    category: 'opozycja',
+    tags: ['Październik 1956', 'studenci', 'inteligencja', 'odwilż', 'tygodnik Po prostu', 'dyskusyjne kluby'],
+    yearStart: 1955,
+    yearEnd: 1957,
+    summary: 'Październik 1956 roku był możliwy nie tylko dzięki decyzjom na szczytach partyjnych, ale też dzięki ożywieniu środowisk studenckich i inteligencji twórczej. Tygodnik "Po prostu", Dyskusyjne Kluby Filmowe i gorące debaty na uczelniach tworzyły atmosferę, w której reforma stała się możliwa.',
+    content: `Proces destalinizacji w Polsce w latach 1955–1957 miał szczególny wymiar kulturalny i intelektualny – studenci, dziennikarze i artyści byli ważnymi aktorami odwilży.
+
+**"Po prostu" – głos pokolenia**
+
+Tygodnik "Po prostu" (1947–1957) stał się symbolem odwilży. Pod redakcją Eligiusza Lasoty, a potem Jerzego Ambroziewicza i Wiktora Woroszylskiego, stał się forum krytyki systemu. Artykuły kwestionowały dogmatyzm, biurokrację, nadużycia władzy. Nakład wzrósł do kilkudziesięciu tysięcy – numer rozchodził się błyskawicznie. Czytany przez inteligencję, studentów, a nawet część aparatu partyjnego.
+
+W październiku 1957 roku Gomułka zamknął "Po prostu" – odwilż dobiegła końca. Zamknięcie pisma wywołało studenckie protesty w Warszawie.
+
+**Środowiska twórcze**
+
+Lata 1954–1957 przyniosły eksplozję twórczości w duchu odwilży:
+- **Teatr** – Teatr na Tarczyńskiej Brechta, awangarda Kantora, "Teatr absurdu"
+- **Literatura** – Marek Hłasko ("Ósmy dzień tygodnia"), Sławomir Mrożek (pierwsze opowiadania)
+- **Film** – Wajda ("Pokolenie", "Kanał"), Munk ("Eroica") – Polska Szkoła Filmowa rozkwitła
+- **Jazz** – legalizacja jazzu, pierwsze festiwale; Komeda, Namysłowski
+
+**Dyskusje na uczelniach**
+
+Na Politechnice Warszawskiej, Uniwersytecie Warszawskim i innych uczelniach toczyły się gorące debaty o polityce. Studenci kwestionowali obowiązkowe lekcje marksizmu, domagali się autonomii akademickiej. Koła naukowe, dyskusyjne kluby filmowe (DKF) stały się miejscami niezależnej myśli.
+
+**Studenci w Październiku**
+
+W październiku 1956 roku, gdy PZPR ważyła kurs reformatorski czy konserwatywny, studenci Warszawy demonstrowali popierając Gomułkę i reformy – ale też domagając się prawdziwej wolności. Gromadziły się wielotysięczne tłumy. Studenci tworzyli rezolucje, jeździli do fabryk agitować za zmianą.
+
+**Granice odwilży**
+
+Reformy były ograniczone. Zamknięcie "Po prostu" w 1957, powolne przywracanie cenzury, "wyhamowanie" swobody akademickiej pokazały, że Gomułka traktował odwilż instrumentalnie. Inteligencja, która z entuzjazmem przyjęła Październik, stopniowo się rozczarowywała – co stało się ważnym tłem dla Marca 1968.`,
+    resources: [
+      {
+        id: 'poprostu-polona',
+        title: '"Po prostu" – archiwum tygodnika',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Po+prostu+tygodnik+1956',
+        source: 'Polona.pl',
+        description: 'Archiwalne numery tygodnika "Po prostu" z lat 1955–1957',
+        year: 1956,
+      },
+      {
+        id: 'pazdziernik-ph',
+        title: 'Październik 1956 – Przystanek Historia',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/tematy/pazdziernik-1956,114.html',
+        source: 'Przystanek Historia IPN',
+        description: 'Opracowania o Październiku 1956 – rola inteligencji i studentów',
+      },
+      {
+        id: 'pazdziernik-ninateka',
+        title: 'Kroniki filmowe 1956 – NINATEKA',
+        type: 'film',
+        url: 'https://ninateka.pl/szukaj?q=Pa%C5%BAdzie%C5%BCnik+1956+odwil%C5%BC',
+        source: 'NINATEKA',
+        description: 'Archiwalne kroniki filmowe dokumentujące wydarzenia Października 1956',
+        year: 1956,
+      },
+    ],
+    relatedIds: ['pazdziernik-1956', 'destalinizacja', 'czerwiec-1956', 'marzec-1968', 'polska-szkola-filmowa', 'literatura-prl'],
+  },
+
+  {
+    id: 'sluzba-bezpieczenstwa-metody',
+    title: 'Metody pracy Służby Bezpieczeństwa',
+    subtitle: 'Inwigilacja, werbowanie agentów i rozkładanie opozycji',
+    category: 'represje',
+    tags: ['SB', 'inwigilacja', 'agenci', 'podsłuchy', 'dezinformacja', 'operacje', 'akta'],
+    yearStart: 1956,
+    yearEnd: 1989,
+    summary: 'Służba Bezpieczeństwa PRL stosowała wyrafinowane metody kontroli społeczeństwa: werbowanie tajnych współpracowników, podsłuchy telefoniczne, dezinformację, "kombinacje operacyjne" rozkładające środowiska opozycyjne. W szczytowym okresie (lata 80.) posiadała dziesiątki tysięcy agentów.',
+    content: `Służba Bezpieczeństwa (SB) – następczyni Urzędu Bezpieczeństwa (UB) – była fundamentem utrzymania władzy komunistycznej w Polsce. Po 1956 roku zrezygnowała z masowych egzekucji, ale rozwinęła niezwykle rozbudowany system inwigilacji i kontroli społecznej.
+
+**Struktura i skala**
+
+W latach 80. SB liczyła ok. 25 000 funkcjonariuszy etatowych. Była zorganizowana w departamenty: Departament I (wywiad zagraniczny), Departament II (kontrwywiad), Departament III (inwigilacja opozycji i Kościoła), Departament IV (walka z Kościołem), Departament V (ochrona gospodarki) i inne. Każde województwo miało Wydział Służby Bezpieczeństwa.
+
+**Tajni współpracownicy (TW)**
+
+Kluczowym instrumentem SB były osobowe źródła informacji, potocznie zwane "agentami" lub "tajnymi współpracownikami". Szacuje się, że w latach 80. sieć agentury liczyła ponad 90 000 osób. Werbowanie odbywało się różnymi metodami:
+- **Kompromis** – szantaż materiałem obciążającym (romans, przestępstwo, "teczka")
+- **Przekonanie ideologiczne** – rzadziej, ale zdarzało się
+- **Przekupstwo** – obiecywanie korzyści (mieszkanie, paszport, awans)
+- **Strach** – groźba aresztowania lub prześladowania rodziny
+- **Patriotyzm** – przekonywanie, że donosicielstwo służy Polsce
+
+**Podsłuchy i obserwacja**
+
+SB prowadziła masowe podsłuchy telefoniczne. W Warszawie w latach 80. podsłuchiwano tysiące linii telefonicznych. Instalowano podsłuchy w mieszkaniach, hotelach, samochodach. Prowadzono "obserwację zewnętrzną" (OE) – śledzenie osób przez agentów w terenie. Fotografowano spotkania opozycjonistów.
+
+**"Kombinacje operacyjne"**
+
+Najbardziej wyrafinowaną metodą SB były "kombinacje operacyjne" – planowane działania mające na celu rozbicie środowisk opozycyjnych bez jawnych represji:
+- Podrzucanie fałszywych informacji siejących nieufność w organizacji
+- Inspirowanie konfliktów personalnych
+- Dyskredytowanie liderów (rozsiewanie plotek o szpiegostwie, korupcji, romansach)
+- Tworzenie fałszywych pism i ulotek w imieniu opozycji
+
+**Akta SB**
+
+Po 1989 roku ogromna część akt SB trafiła do IPN. Akta mierzą setki kilometrów bieżących. Dostęp do akt wywołał ogromne społeczne emocje – ujawnienie agentury zniszczyło kariery i reputacje, ale też rozliczyło zbrodniarzy.
+
+**Afera Olina i inne skandale**
+
+Liczne późniejsze odkrycia (np. donos Lecha Wałęsy w latach 70. – sprawa operacyjna "Bolek") pokazują, jak dalece SB penetrowała nawet środowiska opozycyjne. Kwestia agentury Solidarności pozostaje tematem sporów historycznych do dziś.`,
+    resources: [
+      {
+        id: 'sb-metody-ipn',
+        title: 'Katalog metod pracy SB – IPN',
+        type: 'dokument',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=metody+pracy+SB+inwigilacja',
+        source: 'IPN',
+        description: 'Dokumenty dotyczące instrukcji operacyjnych i metod pracy SB',
+      },
+      {
+        id: 'sb-tw-katalog',
+        title: 'Katalog IPN – tajni współpracownicy',
+        type: 'dokument',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=tajni+wsp%C3%B3%C5%82pracownicy',
+        source: 'IPN Inwentarz',
+        description: 'Baza danych tajnych współpracowników SB i UB w zasobach IPN',
+      },
+      {
+        id: 'sb-ph-metody',
+        title: 'Służba Bezpieczeństwa – metody i organizacja',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=S%C5%82u%C5%BCba+Bezpiecze%C5%84stwa+metody+inwigilacja',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o metodach pracy SB i jej strukturze',
+      },
+    ],
+    relatedIds: ['sbezpieczenstwa', 'tajni-wspolpracownicy', 'ub', 'represje-polityczne', 'internowanie'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
