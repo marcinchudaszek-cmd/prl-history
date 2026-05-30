@@ -10643,6 +10643,262 @@ Geremek łączył w sobie rzadką kombinację: wybitny uczony i skuteczny polity
     ],
     relatedIds: ['solidarnosc', 'okragly-stol', 'sierpien-1980', 'mazowiecki', 'michnik'],
   },
+  {
+    id: 'ppkwn',
+    title: 'Polska Partia Robotnicza (PPR)',
+    category: 'polityka',
+    shortDesc: 'Komunistyczna partia zbudowana przez Moskwę, która przejęła władzę w Polsce i wchłonęła PPS tworząc PZPR.',
+    content: `## Polska Partia Robotnicza (PPR)
+
+Polska Partia Robotnicza (PPR) była komunistyczną partią polityczną powołaną w 1942 roku przez agentów Kominternu. To ona przejęła władzę w Polsce po 1944 roku i zbudowała komunistyczny system, zakończywszy istnienie w 1948 roku przez fuzję z PPS – tworząc PZPR.
+
+### Założenie i charakter
+
+PPR powstała 5 stycznia 1942 roku z inicjatywy Kominternu, jako odrodzenie rozwiązanej w 1938 roku Komunistycznej Partii Polski (KPP). Jej trzon stanowili agenci radzieccy desantowani do kraju – Marceli Nowotko (pierwszy sekretarz, zamordowany w 1942 w niewyjaśnionych okolicznościach), Paweł Finder, Bolesław Bierut.
+
+PPR była organizacją konspiracyjną w czasie okupacji. Wydawała gazetę „Trybuna Wolności", prowadziła sabotaż i propagandę. Jej Gwardia Ludowa (potem Armia Ludowa) walczyła z okupantem – ale w konflikcie z AK częściej zajmowała wrogie stanowisko.
+
+### Przejęcie władzy
+
+W 1944 roku, gdy Armia Czerwona wkroczyła na ziemie polskie, PPR stanęła na czele PKWN (Polskiego Komitetu Wyzwolenia Narodowego). Opierając się na sowieckiej sile militarnej, systematycznie przejmowała kluczowe resorty: bezpieczeństwo, wojsko, gospodarkę.
+
+Władysław Gomułka był Sekretarzem Generalnym PPR (1943–1948) i symbolem „polskiej drogi do socjalizmu" – próby relatywnie bardziej niezależnej od Moskwy polityki. Ale Stalin nie tolerował zbytniej niezależności.
+
+### Eliminacja opozycji
+
+W latach 1944–1947 PPR prowadziła systematyczne niszczenie opozycji: PSL Mikołajczyka, podziemia niepodległościowego, Kościoła. UB i sądy wojskowe wykonywały brudną robotę. Sfałszowane wybory 1947 roku usunęły ostatnią przeszkodę formalną.
+
+### Zjednoczenie z PPS
+
+W grudniu 1948 roku PPR połączyła się z Polską Partią Socjalistyczną (PPS) tworząc Polską Zjednoczoną Partię Robotniczą (PZPR). Fuzja była wymuszona – PPR wchłonęła PPS, usuwając niekomunistycznych działaczy socjalistycznych. Gomułka, oskarżony o „odchylenie prawicowo-nacjonalistyczne", został usunięty ze stanowiska i aresztowany.
+
+Powstanie PZPR zamknęło etap „dyktatury koalicyjnej" i otworzyło etap jednolitego stalinizmu.`,
+    resources: [
+      {
+        id: 'ppr-polona',
+        title: 'PPR – dokumenty i prasa (Polona)',
+        type: 'dokument',
+        url: 'https://polona.pl/search/?query=Polska+Partia+Robotnicza+PPR+1944',
+        source: 'Polona',
+        description: 'Zdigitalizowane dokumenty, ulotki i prasa PPR z lat 1942–1948',
+      },
+      {
+        id: 'ppr-ipn',
+        title: 'PPR i przejęcie władzy – archiwum IPN',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=PPR+Polska+Partia+Robotnicza+przej%C4%99cie+w%C5%82adzy',
+        source: 'IPN Inwentarz',
+        description: 'Dokumenty dotyczące PPR, jej struktur i przejęcia władzy po 1944 roku',
+      },
+      {
+        id: 'ppr-ph',
+        title: 'PPR i narodziny systemu komunistycznego',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=PPR+Partia+Robotnicza+komunizm+1944',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o PPR i budowie komunistycznego systemu władzy w Polsce',
+      },
+    ],
+    relatedIds: ['pzpr', 'bierut', 'gomulka', 'manifest-pkwn', 'pps'],
+  },
+  {
+    id: 'pielgrzymki-jp2',
+    title: 'Pielgrzymki Jana Pawła II do Polski',
+    category: 'społeczeństwo',
+    shortDesc: 'Trzy historyczne pielgrzymki – 1979, 1983, 1987 – które zmieniły Polskę i umocniły opór wobec komunizmu.',
+    content: `## Pielgrzymki Jana Pawła II do Polski
+
+Trzy pielgrzymki Jana Pawła II do Polski w latach 1979, 1983 i 1987 były wydarzeniami historycznymi, które zmieniły charakter polskiego oporu wobec komunizmu i przyspieszyły upadek systemu. Miliony Polaków uczestniczyły w mszach i spotkaniach, przeżywając zbiorowe katharsis i odbudowując poczucie godności.
+
+### Pierwsza pielgrzymka 1979
+
+Czerwiec 1979. Jan Paweł II – papież zaledwie od ośmiu miesięcy – przybywa do kraju. Władze komunistyczne są zakłopotane: nie mogą odmówić wizyty, ale boją się jej skutków.
+
+Efekt przerósł ich najgorsze obawy. Na Placu Zwycięstwa w Warszawie, w miejscu, gdzie niegdyś planowano budowę gigantycznego mauzolea Lenina, papież odprawia mszę. Słowa: „Niech zstąpi Duch Twój i odnowi oblicze ziemi, tej ziemi!" – brzmiały jak wezwanie do wolności. Tłum skandował je razem z papieżem.
+
+Mszę w Krakowie – na Błoniach – celebruje dla dwóch milionów ludzi. Częstochowa, Gniezno, Nowy Targ. Polska zobaczyła, że jest milionami – i że nie jest sama.
+
+Historycy twierdzą, że bez tej pielgrzymki nie byłoby Solidarności. Pielgrzymka dała Polakom poczucie siły i zbiorowej tożsamości, bez której strajki 1980 roku byłyby niemożliwe.
+
+### Druga pielgrzymka 1983
+
+Czerwiec 1983. Trwa stan wojenny (zawieszony, ale jeszcze nie zniesiony). Władze chciały wyciszynej pielgrzymki – papież nie dał się wyciszyć.
+
+Na Wawelu spotkał się prywatnie z Lechem Wałęsą. Wałęsa był wtedy internowany i zwolniony – spotkanie było gestem politycznym niemożliwym do ukrycia. Na Jasnej Górze papież mówił o „prawie do zrzeszania się" i „godności pracy" – wprost o Solidarności.
+
+Pielgrzymka 1983 była gestem solidarności z internowanymi i uciskanymi. Pokazała, że papież nie zapomniał o swojej ojczyźnie.
+
+### Trzecia pielgrzymka 1987
+
+Czerwiec 1987. Komunizm chylił się ku upadkowi, choć tego jeszcze nie wiedziano. Papież mówił o prawach człowieka, o wolności sumienia, o potrzebie dialogu. W Gdańsku na spotkanie z papieżem przybyło ponad milion osób.
+
+Słowa: „Solidarność" – wypowiadane przez papieża – miały podwójne znaczenie: komunia wiernych i nazwa zakazanego związku.
+
+### Znaczenie
+
+Pielgrzymki JP2 były przebudzeniem zbiorowym w ścisłym sensie: miliony Polaków doświadczyły, że są częścią czegoś większego niż szarość PRL. Papież mówił po polsku, zrozumiale, bez propagandy i eufemizmów. To, co powiedział, trafiało prosto do serc.
+
+Komuniści zdawali sobie sprawę z zagrożenia. SB inwigilowała pielgrzymki, dokumentowała każde słowo. Ale nie mogli nic zrobić – papież był nietykalny.`,
+    resources: [
+      {
+        id: 'jp2-pielgrzymki-ninateka',
+        title: 'Pielgrzymki Jana Pawła II – nagrania (Ninateka)',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/szukaj?q=Jan+Pawe%C5%82+II+pielgrzymka+Polska+1979',
+        source: 'Ninateka',
+        description: 'Archiwalne nagrania z pielgrzymek Jana Pawła II do Polski',
+      },
+      {
+        id: 'jp2-pielgrzymki-ipn',
+        title: 'Pielgrzymki 1979–1987 – dokumenty SB',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=Jan+Pawe%C5%82+II+pielgrzymka+SB',
+        source: 'IPN Inwentarz',
+        description: 'Dokumenty Służby Bezpieczeństwa dotyczące inwigilacji pielgrzymek papieskich',
+      },
+      {
+        id: 'jp2-pielgrzymki-ph',
+        title: 'Pielgrzymki papieskie a Solidarność',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=Jan+Pawe%C5%82+II+pielgrzymka+Solidarno%C5%9B%C4%87+1979',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o znaczeniu pielgrzymek papieskich dla polskiej opozycji',
+      },
+    ],
+    relatedIds: ['jan-pawel-ii', 'kosciol-prl', 'wyszynski', 'solidarnosc', 'stan-wojenny'],
+  },
+  {
+    id: 'gdansk-sopot-gdynia',
+    title: 'Trójmiasto – serce Solidarności',
+    category: 'opozycja',
+    shortDesc: 'Gdańsk, Sopot i Gdynia – centrum stoczniowego ruchu robotniczego, kolebka Solidarności i pamięci Grudnia 1970.',
+    content: `## Trójmiasto – serce Solidarności
+
+Trójmiasto (Gdańsk–Sopot–Gdynia) odegrało wyjątkową rolę w historii polskiej opozycji. To tutaj rozegrały się kluczowe akty dramatu 1970 roku, tu powstała Solidarność, tu bije serce oporu robotniczego.
+
+### Grudzień 1970 – masakra na Wybrzeżu
+
+W grudniu 1970 roku podwyżka cen żywności wywołała strajki na Wybrzeżu. Robotnicy wyszli na ulice Gdańska, Gdyni i Szczecina. Wojsko i milicja otworzyły ogień.
+
+W Gdyni 17 grudnia strzelano do robotników wracających pociągiem do stoczni, zwolnionych przez szefów. Tłum zgromadził się przed bramą; padły strzały. Zginęło co najmniej 18 osób tylko w Gdyni. Łączna liczba ofiar na Wybrzeżu: co najmniej 45 zabitych, setki rannych.
+
+Ta pamięć – krew wylana na brukach Gdyni i Gdańska – stała się cementem tożsamości stoczniowców. Gdy dziesięć lat później wybuchł strajk, wiedzieli, z czym ryzykują.
+
+### Sierpień 1980 – narodziny Solidarności
+
+14 sierpnia 1980 roku w Stoczni Gdańskiej im. Lenina wybuchł strajk. Formalnie zaczął się od zwolnienia Anny Walentynowicz – doświadczonej działaczki, kilka miesięcy przed emeryturą. Za nią stanęli stoczniowcy.
+
+Lech Wałęsa wspiął się na bramę stoczni i stanął na czele strajku. Przez dwa tygodnie stocznia stała – i całe Wybrzeże, i cała Polska. 31 sierpnia 1980 roku podpisano Porozumienia Gdańskie: władze uznały prawo do wolnych związków zawodowych.
+
+Stocznia Gdańska stała się symbolem – miejscem, gdzie Polacy wywalczyli prawa, których chciano im odmówić od 1944 roku.
+
+### Europejskie Centrum Solidarności
+
+Po 1989 roku Gdańsk stał się miejscem pamięci. Europejskie Centrum Solidarności (ECS), otwarte w 2014 roku w miejscu Stoczni, jest muzeum i centrum badawczym poświęconym historii Solidarności. Archiwum ECS przechowuje tysiące dokumentów, nagrań i relacji.
+
+### Symbolika morska
+
+Gdańsk ma głębszą symbolikę. To tu zaczęła się II wojna światowa (Westerplatte, 1 września 1939). To tu zaczęło się odrodzenie wolności (stocznia, 1980). Morze – zawsze granica i droga – nadaje miastu sens historyczny.
+
+### Gdynia – pamięć o ofiarach
+
+Gdynia zbudowała swój własny pomnik – Pomnik Ofiar Grudnia 1970 przy Bramie nr 2 Stoczni Gdańskiej (w Gdańsku) i swój własny memoriał przy Urzędzie Pocztowym. Doroczne uroczystości 17 grudnia są w Gdyni szczególnie ważne.`,
+    resources: [
+      {
+        id: 'trojmiasto-ecs',
+        title: 'Europejskie Centrum Solidarności – archiwum',
+        type: 'akt',
+        url: 'https://ecs.gda.pl/title/cyfrowe-archiwum-solidarnosci',
+        source: 'Europejskie Centrum Solidarności',
+        description: 'Cyfrowe archiwum dokumentów i nagrań dotyczących Solidarności i Stoczni Gdańskiej',
+      },
+      {
+        id: 'trojmiasto-ipn',
+        title: 'Grudzień 1970 na Wybrzeżu – dokumenty IPN',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=Grudzie%C5%84+1970+Wybrze%C5%BCe+Gdynia+Gda%C5%84sk',
+        source: 'IPN Inwentarz',
+        description: 'Archiwalne dokumenty o wydarzeniach Grudnia 1970 na Wybrzeżu',
+      },
+      {
+        id: 'trojmiasto-ninateka',
+        title: 'Stocznia Gdańska – nagrania historyczne',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/szukaj?q=Stocznnia+Gda%C5%84ska+strajk+1980+Solidarno%C5%9B%C4%87',
+        source: 'Ninateka',
+        description: 'Archiwalne nagrania ze Stoczni Gdańskiej i wydarzeń sierpniowych 1980 roku',
+      },
+    ],
+    relatedIds: ['sierpien-1980', 'grudzien-1970', 'stocznia-gdanska', 'solidarnosc', 'walesa'],
+  },
+  {
+    id: 'niezaleznosc-sadow',
+    title: 'Sądownictwo i praworządność w PRL',
+    category: 'represje',
+    shortDesc: 'Sądy PRL jako narzędzie represji – procesy pokazowe, ustawione wyroki i brak niezależności wymiaru sprawiedliwości.',
+    content: `## Sądownictwo i praworządność w PRL
+
+Wymiar sprawiedliwości w Polsce Ludowej był w teorii niezależny, a w praktyce – instrumentem władzy partyjnej. Sądy, prokuratury i kodeksy prawa były podporządkowane celom politycznym. Szczególnie w pierwszym dziesięcioleciu (1944–1956) wyroki sądowe były de facto wyrokami UB i partii.
+
+### Sądy wojskowe jako narzędzie terroru
+
+W latach 1944–1956 głównym instrumentem represji politycznych były sądy wojskowe – Wojskowy Sąd Rejonowy (WSR) w Warszawie i inne WSR w kraju. Sądziły cywilów za przestępstwa polityczne w trybie wojennym, z minimalnymi gwarancjami dla oskarżonych.
+
+Wyroki śmierci były wydawane masowo. Witold Pilecki, Emil Fieldorf „Nil", Zygmunt Szendzielarz „Łupaszka", Hieronim Dekutowski „Zapora" – to tylko najbardziej znane nazwiska. Szacuje się, że wyroki śmierci wykonano na kilku tysiącach osób.
+
+Obrońcy z urzędu byli często agentami UB lub bali się bronić zbyt aktywnie. Prawo do obrony było iluzoryczne.
+
+### Procesy pokazowe
+
+Komunizm kochał procesy pokazowe – spektakularne rozprawy, w których oskarżeni „przyznawali się" do winy po uprzednim przełamaniu ich woli metodami śledczymi. Wzorem były radzieckie procesy moskiewskie lat 30.
+
+W Polsce znane procesy pokazowe: proces generałów (1951), proces biskupa Kaczmarka (1953), procesy działaczy PSL. Oskarżeni klepali wyuczone zeznania, których nie wierzył nikt – ale władza potrzebowała spektaklu legalności.
+
+### Rewizja po 1956
+
+Odwilż październikowa przyniosła rewizję wielu wyroków. Komisja Zambrowskiego zbadała część przypadków i stwierdziła, że wyroki były sfabrykowane. Część więźniów zwolniono i zrehabilitowano.
+
+Ale sprawcy – śledczy UB, prokuratorzy wojskowi, sędziowie – rzadko ponosili odpowiedzialność. Kilku skazano w procesach lat 50.–60., reszta żyła spokojnie do końca.
+
+### PRL po 1956
+
+Po Październiku sądownictwo stało się nieco mniej terrorystyczne, ale nie niezależne. Sądy dalej skazywały za działalność polityczną – „szpiegostwo", „sabotaż", „działalność antypaństwową". Wyroki za kolportaż nielegalnych wydawnictw (drugi obieg) były normą w latach 80.
+
+Kodeks karny z 1969 roku zawierał przepisy chroniące „ustrój socjalistyczny" – paragrafy tak sformułowane, by można było skazać każdego, kto za bardzo krytykował władzę.
+
+### Po 1989
+
+Reforma wymiaru sprawiedliwości po 1989 roku była trudna. Sędziowie, prokuratorzy i prawnicy z PRL w większości pozostali na swoich stanowiskach. Lustracja sądownictwa była minimalna. Procesy karne wobec sędziów wydających wyroki polityczne w PRL toczyły się latami bez rezultatów.
+
+Pytanie o rozliczenie sprawców sądowych zbrodni komunistycznych pozostaje aktualne do dziś.`,
+    resources: [
+      {
+        id: 'sady-ipn',
+        title: 'Procesy polityczne PRL – dokumenty IPN',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=procesy+polityczne+WSR+s%C4%85dy+wojskowe+PRL',
+        source: 'IPN Inwentarz',
+        description: 'Akta procesów politycznych i sądów wojskowych z zasobów IPN',
+      },
+      {
+        id: 'sady-ph',
+        title: 'Sądy i represje polityczne w PRL',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=procesy+polityczne+s%C4%85dy+wojskowe+represje+PRL',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o sądownictwie i procesach politycznych w Polsce Ludowej',
+      },
+      {
+        id: 'sady-szukaj',
+        title: 'Akta sądowe z epoki PRL',
+        type: 'akt',
+        url: 'https://szukajwarchiwach.gov.pl/szukaj?q=procesy+polityczne+PRL+Wojskowy+S%C4%85d+Rejonowy',
+        source: 'Szukaj w Archiwach',
+        description: 'Archiwalia sądowe dotyczące procesów politycznych z lat 1944–1989',
+      },
+    ],
+    relatedIds: ['ub', 'represje-polityczne', 'zbrodnie-stalinizmu', 'obozy-pracy', 'pilecki'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -10721,4 +10977,9 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1999, event: 'Polska wstępuje do NATO – dzieło dyplomacji Geremka', category: 'polityka', entryId: 'geremek' },
   { year: 1956, event: 'Robotniczy protest w Poznaniu – 57 zabitych, pierwsze przebudzenie', category: 'opozycja', entryId: 'walczynski-opor' },
   { year: 1953, event: 'Ryszard Kapuściński debiutuje w prasie – początek kariery reporterskiej', category: 'kultura', entryId: 'kapuscinski' },
+  { year: 1948, event: 'Powstanie PZPR z fuzji PPR i PPS – stalinizm triumfuje', category: 'polityka', entryId: 'ppkwn' },
+  { year: 1979, event: 'I Pielgrzymka Jana Pawła II – „Niech zstąpi Duch Twój i odnowi tę ziemię"', category: 'społeczeństwo', entryId: 'pielgrzymki-jp2' },
+  { year: 1983, event: 'II Pielgrzymka – papież spotyka się z Wałęsą w stanie wojennym', category: 'społeczeństwo', entryId: 'pielgrzymki-jp2' },
+  { year: 1970, event: '17 grudnia – masakra robotników w Gdyni i Gdańsku', category: 'represje', entryId: 'gdansk-sopot-gdynia' },
+  { year: 1980, event: 'Stocznia Gdańska – kolebka Solidarności', category: 'opozycja', entryId: 'gdansk-sopot-gdynia' },
 ];
