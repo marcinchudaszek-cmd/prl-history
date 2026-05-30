@@ -8925,6 +8925,724 @@ Liczne późniejsze odkrycia (np. donos Lecha Wałęsy w latach 70. – sprawa o
     ],
     relatedIds: ['sbezpieczenstwa', 'tajni-wspolpracownicy', 'ub', 'represje-polityczne', 'internowanie'],
   },
+  {
+    id: 'kuron',
+    title: 'Jacek Kuroń',
+    category: 'osoby',
+    shortDesc: 'Pedagog, działacz opozycji, współzałożyciel KOR i jeden z ojców polskiej transformacji.',
+    content: `## Jacek Kuroń (1934–2004)
+
+Jacek Kuroń był jedną z najbardziej wpływowych postaci polskiej opozycji demokratycznej. Pedagog z wykształcenia, harcerz z powołania, a rewolucjonista z wyboru – przeszedł drogę od młodego komunisty do czołowego przeciwnika systemu.
+
+### Droga od komunizmu do opozycji
+
+W młodości Kuroń zaangażował się w budowę socjalizmu, wierząc w ideały ruchu. Był aktywny w ZMP i harcerstwie, gdzie próbował realizować autentyczne ideały wychowawcze. Przełomem była odwilż październikowa 1956 r. i rosnąca świadomość, że system niszczy wartości, które oficjalnie głosi.
+
+W 1964 roku, wspólnie z Karolem Modzelewskim, napisał „List otwarty do Partii" – odważną analizę marksistowską krytykującą system jako „rządy biurokracji partyjnej". List był jawnym wyzwaniem dla władzy. Obaj autorzy zostali aresztowani i skazani na więzienie.
+
+### KOR i jawna opozycja
+
+Po Czerwcu 1976 r. Kuroń stał się współzałożycielem Komitetu Obrony Robotników (KOR) – pierwszej jawnej organizacji opozycyjnej w Polsce. KOR pomagał represjonowanym robotnikom z Radomia i Ursusa, udzielając im pomocy prawnej i finansowej. Kuroń był mózgiem strategii działania w białych rękawiczkach: jawność zamiast konspiracji.
+
+Jego mieszkanie przy ulicy Mickiewicza w Warszawie stało się centrum opozycji – spotykali się tu robotnicy, studenci, intelektualiści. Bezpieka wielokrotnie go inwigilowała, nękała i aresztowała.
+
+### Sierpień 1980 i Solidarność
+
+Gdy wybuchły strajki sierpniowe, Kuroń koordynował informacje z Warszawy, przekazując je zagranicznym mediom. Słynna jest anegdota o tym, jak dzwonił do KOR-u – telefon non stop zajęty, bo właśnie Kuroń go nie odkładał. Stał się nieoficjalnym „rzecznikiem" strajkujących wobec świata.
+
+W stanie wojennym (1981–1984) był internowany i więziony. Nie złamał się. Pisał i działał konspiracyjnie.
+
+### Transformacja i rząd Mazowieckiego
+
+W 1989 roku Kuroń zasiadł przy Okrągłym Stole po stronie solidarnościowej. Po wyborach czerwcowych został ministrem pracy w rządzie Tadeusza Mazowieckiego (1989–1991) i ponownie w rządzie Hanny Suchockiej (1992–1993). To on nadzorował najtrudniejszy okres transformacji, m.in. reformy rynku pracy i skok bezrobocia.
+
+Zasłynął z „kuroniówki" – dożywania dla bezrobotnych, którą zorganizował z własnej inicjatywy. Była to zupa wydawana w stołówkach dla najuboższych – symbol jego troski o zwykłego człowieka.
+
+### Spuścizna
+
+Kuroń był człowiekiem pełnym sprzeczności: dawny komunista, który stał się symbolem demokratycznej opozycji; minister transformacji, który najbardziej troszczył się o jej ofiary. Jego myśl pedagogiczna – dać dzieciom wolność i odpowiedzialność – pozostaje aktualna. Odznaczony Orderem Orła Białego, pochowany na Powązkach Wojskowych.`,
+    resources: [
+      {
+        id: 'kuron-ipn',
+        title: 'Jacek Kuroń – teczka w zasobach IPN',
+        type: 'dokument',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=Kuro%C5%84+Jacek',
+        source: 'IPN Inwentarz',
+        description: 'Dokumenty SB dotyczące inwigilacji Jacka Kuronia w zasobach Instytutu Pamięci Narodowej',
+      },
+      {
+        id: 'kuron-ph',
+        title: 'Jacek Kuroń – Przystanek Historia',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=Kuro%C5%84+Jacek+KOR',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o życiu i działalności Jacka Kuronia',
+      },
+      {
+        id: 'kuron-ninateka',
+        title: 'Jacek Kuroń – nagrania archiwalne',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/szukaj?q=Kuro%C5%84+Jacek',
+        source: 'Ninateka',
+        description: 'Archiwalne nagrania z udziałem Jacka Kuronia – wywiady, przemówienia i relacje',
+      },
+    ],
+    relatedIds: ['kor', 'marzec-1968', 'sierpien-1980', 'okragly-stol', 'czerwiec-1976'],
+  },
+  {
+    id: 'michnik',
+    title: 'Adam Michnik',
+    category: 'osoby',
+    shortDesc: 'Historyk, publicysta i działacz opozycji, współzałożyciel KOR, redaktor naczelny Gazety Wyborczej.',
+    content: `## Adam Michnik (ur. 1946)
+
+Adam Michnik to jeden z najwybitniejszych intelektualistów polskiej opozycji – historyk, eseista, publicysta i działacz, który z drobnego agenta więziennych intelektualnych dysput stał się ikoną demokratycznej transformacji.
+
+### Wczesna działalność
+
+Michnik zaangażował się w opozycję już jako student historii na Uniwersytecie Warszawskim. W latach 60. był związany ze środowiskiem „komandosów" – grupy lewicowych intelektualistów skupionych wokół Jacka Kuronia i Karola Modzelewskiego.
+
+W Marcu 1968 roku aktywnie uczestniczył w protestach studenckich. Aresztowany, spędził dwa lata w więzieniu. Wielokrotnie następnie więziony za działalność opozycyjną – łącznie kilka lat za kratami.
+
+### KOR i „Kościół, lewica, dialog"
+
+W 1976 roku Michnik był wśród założycieli Komitetu Obrony Robotników. Jego esej „Kościół, lewica, dialog" (1977) był przełomowy – wzywał do dialogu między lewicową inteligencją a Kościołem katolickim jako sojusznika w walce o wolność. Ta analiza zdefiniowała strategię polskiej opozycji.
+
+Michnik rozwijał też koncepcję „nowego ewolucjonizmu" – ostrożnej, stopniowej zmiany systemu przez budowanie niezależnych instytucji społeczeństwa obywatelskiego.
+
+### Stan wojenny i więzienie
+
+13 grudnia 1981 roku Michnik został internowany. W więzieniu – w Białołęce i Barczewie – pisał eseje, które przemycano na Zachód i publikowano m.in. w paryskiej „Kulturze". Więzienie nie złamało go – wzmocniło. Odmawiał emigracji, chociaż mógł opuścić kraj.
+
+W 1985 roku skazany na trzy lata więzienia, zwolniony po ogłoszeniu amnestii w 1986.
+
+### Okrągły Stół i Gazeta Wyborcza
+
+W 1989 roku Michnik uczestniczył w obradach Okrągłego Stołu. Latem 1989 r. napisał słynny artykuł „Wasz prezydent, nasz premier" – formułę kompromisu, który umożliwił pokojowe przejęcie władzy przez Solidarność. Jaruzelski zostaje prezydentem, ale premierem – Tadeusz Mazowiecki.
+
+8 maja 1989 roku ukazał się pierwszy numer „Gazety Wyborczej" – pisma Solidarności na czas kampanii wyborczej, którego Michnik został redaktorem naczelnym. Funkcję tę pełni do dziś. „Gazeta" stała się największym dziennikiem w Polsce.
+
+### Spuścizna i kontrowersje
+
+Michnik jest symbolem liberalnej lewicy i dialogu. Jego teza o „grubej kresce" – oddzieleniu nowej Polski od rozliczeń z komunizmem – wywołała i wywołuje do dziś ostre spory. Nagrodzony wieloma odznaczeniami i doktoratami honoris causa; przez innych krytykowany za zbyt miękkie traktowanie dawnych komunistów.`,
+    resources: [
+      {
+        id: 'michnik-ipn',
+        title: 'Adam Michnik – dokumenty SB',
+        type: 'dokument',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=Michnik+Adam',
+        source: 'IPN Inwentarz',
+        description: 'Materiały bezpieki dotyczące inwigilacji Adama Michnika w zasobach IPN',
+      },
+      {
+        id: 'michnik-ph',
+        title: 'Adam Michnik i opozycja demokratyczna',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=Michnik+Adam+opozycja',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o roli Adama Michnika w polskiej opozycji',
+      },
+      {
+        id: 'michnik-polona',
+        title: 'Gazeta Wyborcza – pierwsze numery (Polona)',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Gazeta+Wyborcza+1989',
+        source: 'Polona',
+        description: 'Digitalizacja pierwszych numerów Gazety Wyborczej z 1989 roku',
+      },
+    ],
+    relatedIds: ['kor', 'marzec-1968', 'okragly-stol', 'kuron', 'stan-wojenny'],
+  },
+  {
+    id: 'wajda',
+    title: 'Andrzej Wajda',
+    category: 'osoby',
+    shortDesc: 'Reżyser filmowy, twórca Polskiej Szkoły Filmowej, autor dzieł o historii i wolności.',
+    content: `## Andrzej Wajda (1926–2016)
+
+Andrzej Wajda był najwybitniejszym polskim reżyserem filmowym, laureatem Oscara za całokształt twórczości (2000) i Złotej Palmy w Cannes (1981). Jego filmy tworzyły dialog z historią Polski i opresją systemu komunistycznego.
+
+### Debiut i Polska Szkoła Filmowa
+
+Wajda zadebiutował „Pokoleniem" (1955) – historią młodych ludzi wciągniętych w ruch oporu podczas okupacji. Potem nakręcił „Kanał" (1957) i „Popiół i diament" (1958) – trylogię wojenną, która stała się kamieniem węgielnym Polskiej Szkoły Filmowej. Filmy te mówiły o bohaterstwie i tragedii AK, o sensie walki i pokoleniu przeklętym przez historię.
+
+Władze komunistyczne akceptowały te filmy z trudem – Wajda balansował na granicy tego, co dozwolone. „Popiół i diament" z Cybulskim w roli głównej zdobył światowy rozgłos, bo dotykał prawdy, której oficjalna propaganda nie chciała pokazać.
+
+### Kino zaangażowane społecznie
+
+W latach 70. Wajda nakręcił „Ziemię obiecaną" (1975) i „Człowieka z marmuru" (1977) – film o robotniku z lat 50., który stał się przodownikiem pracy, a potem ofiarą systemu. Cenzura walczyła z tym filmem latami; pokazany w 1977 roku stał się wielkim sukcesem artystycznym i moralnym.
+
+Kontynuacją był „Człowiek z żelaza" (1981) – nakręcony w gorącej atmosferze Solidarności, z prawdziwymi stoczniowcami przed kamerą. Film zdobył Złotą Palmę w Cannes. W Polsce grany w ogromnych kolejkach. Cenzura chciała go zablokować – nie zdążyła.
+
+### Stan wojenny i emigracja
+
+Po 13 grudnia 1981 roku Wajda – podobnie jak wielu twórców – znalazł się w trudnej sytuacji. Jego filmy były bojkotowane przez władze. Kręcił za granicą, m.in. w Niemczech.
+
+W 1983 roku nakręcił „Dantona" w koprodukcji z Francją – film o Rewolucji Francuskiej, który wszyscy odczytywali jako alegorię Polski w stanie wojennym. Władze polskie bojkotowały film.
+
+### Pojednanie z historią
+
+Po 1989 roku Wajda stworzył „Pierścionek z orłem w koronie" (1993), „Pan Tadeusz" (1999) i wreszcie „Katyń" (2007) – film, na który czekał całe życie. Jego ojciec był ofiarą zbrodni katyńskiej. Film był nominowany do Oscara. Wajda otworzył w Krakowie Muzeum Sztuki i Techniki Japońskiej – Manggha, które sfinansował z nagrody Kioto.
+
+### Znaczenie
+
+Wajda nauczył świat patrzeć na Polskę przez pryzmat jej tragicznej historii. Był sumieniem polskiego kina i moralnym autorytetem. Odznaczony Orderem Orła Białego, pochowany z honorami na Skałce w Krakowie.`,
+    resources: [
+      {
+        id: 'wajda-ninateka',
+        title: 'Filmy Andrzeja Wajdy – Ninateka',
+        type: 'film',
+        url: 'https://ninateka.pl/szukaj?q=Wajda',
+        source: 'Ninateka',
+        description: 'Archiwalne filmy i materiały o twórczości Andrzeja Wajdy',
+      },
+      {
+        id: 'wajda-ph',
+        title: 'Andrzej Wajda – Przystanek Historia',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=Wajda+Andrzej+film',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o filmografii i znaczeniu Andrzeja Wajdy',
+      },
+      {
+        id: 'wajda-polona',
+        title: 'Prasa filmowa o Wajdzie (Polona)',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Wajda+film',
+        source: 'Polona',
+        description: 'Recenzje i artykuły prasowe z epoki PRL dotyczące twórczości Wajdy',
+      },
+    ],
+    relatedIds: ['polska-szkola-filmowa', 'kino-moralnego-niepokoju', 'kino-prl', 'solidarnosc', 'katyn'],
+  },
+  {
+    id: 'kieslowski',
+    title: 'Krzysztof Kieślowski',
+    category: 'osoby',
+    shortDesc: 'Reżyser filmowy i dokumentalny, twórca Dekalogu i trylogii Trzy kolory – jeden z najważniejszych filmowców XX wieku.',
+    content: `## Krzysztof Kieślowski (1941–1996)
+
+Krzysztof Kieślowski był jednym z najważniejszych reżyserów filmowych XX wieku. Zaczynał od dokumentów o codziennym życiu w Polsce Ludowej, a skończył na medytacjach o losie i moralności, które pokochał cały świat.
+
+### Dokumenty – polska codzienność pod lupą
+
+Kieślowski debiutował filmami dokumentalnymi, które były mistrzowskim portretem PRL od środka: „Robotnicy '71 – nic o nas bez nas" (1972), „Pierwsza miłość" (1974), „Spokój" (1976), „Szpital" (1976). Kamera Kieślowskiego nie moralizowała – obserwowała, bez komentarza ukazując absurdy i dramat życia w socjalizmie.
+
+Władze szybko zorientowały się, że te dokumenty są niewygodne – zbyt prawdziwe, zbyt pozbawione propagandowego optymizmu. „Robotnicy '71" przez lata leżały w szufladzie.
+
+### Kino moralnego niepokoju
+
+W drugiej połowie lat 70. Kieślowski dołączył do nurtu kina moralnego niepokoju. „Spokój" (1976), „Blizna" (1976), „Amator" (1979) – filmy o konfliktach sumienia zwykłych Polaków uwikłanych w system. „Amator" zdobył Grand Prix na festiwalu w Moskwie, co wzbudziło zdumienie – film był przecież krytyką systemu.
+
+### Dekalog
+
+„Dekalog" (1988) to opus magnum Kieślowskiego – dziesięć filmów telewizyjnych, każdy luźno oparty na jednym z przykazań. Nakręcony w blokowisku na Ursynowie, opowiadał o moralnych dylematach mieszkańców wielkiego osiedla. Zachód oszalał na tym punkcie. „Dekalog" trafił do kin na całym świecie i do dziś jest uważany za jedno z największych dzieł w historii kina telewizyjnego.
+
+Dwa epizody Dekalogu rozwinął w pełnometrażowe filmy: „Krótki film o zabijaniu" (1988) – brutalny komentarz do kary śmierci, i „Krótki film o miłości" (1988).
+
+### Trylogia europejska
+
+Po 1989 roku Kieślowski wyjechał do Francji. Nakręcił „Podwójne życie Weroniki" (1991) i trylogię „Trzy kolory" (Niebieski/Biały/Czerwony, 1993–1994), której tytuły nawiązują do flagi francuskiej i wartości wolności, równości, braterstwa. Trylogia zdobyła nagrody na Złotego Lwa w Wenecji i był wielokrotnie nominowana do Oscara.
+
+W 1994 roku Kieślowski ogłosił, że rezygnuje z reżyserii. W 1996 roku zmarł na atak serca, w wieku 54 lat, nie dając światu zapowiadanych nowych filmów.
+
+### Znaczenie
+
+Kieślowski pokazał, że kino może być filozofią. Jego filmy pytają o sens życia, wolną wolę i moralność bez udzielania prostych odpowiedzi. Polska tradycja dokumentalna stała się przez niego szkołą humanizmu dla całego świata.`,
+    resources: [
+      {
+        id: 'kieslowski-ninateka',
+        title: 'Filmy Kieślowskiego – Ninateka',
+        type: 'film',
+        url: 'https://ninateka.pl/szukaj?q=Kie%C5%9Blowski',
+        source: 'Ninateka',
+        description: 'Filmy dokumentalne i fabularne Krzysztofa Kieślowskiego w archiwum Ninateki',
+      },
+      {
+        id: 'kieslowski-ph',
+        title: 'Kieślowski – kino moralne i dokumentalne',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=Kie%C5%9Blowski+Dekalog+kino',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły o twórczości Kieślowskiego i jego miejscu w historii kina',
+      },
+      {
+        id: 'kieslowski-polona',
+        title: 'Prasa filmowa lat 80. o Kieślowskim (Polona)',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Kie%C5%9Blowski+Dekalog',
+        source: 'Polona',
+        description: 'Recenzje i artykuły prasowe z epoki dotyczące twórczości Kieślowskiego',
+      },
+    ],
+    relatedIds: ['kino-moralnego-niepokoju', 'polska-szkola-filmowa', 'kino-prl', 'wajda'],
+  },
+  {
+    id: 'herbert',
+    title: 'Zbigniew Herbert',
+    category: 'osoby',
+    shortDesc: 'Jeden z najwybitniejszych polskich poetów – twórca Pana Cogito, głos moralnego sprzeciwu wobec totalitaryzmu.',
+    content: `## Zbigniew Herbert (1924–1998)
+
+Zbigniew Herbert był jednym z najwybitniejszych polskich poetów XX wieku. Uczestnik Armii Krajowej, niepokorny intelektualista i moralista, który całe życie stawiał opór zniewoleniu – zarówno komunistycznemu, jak i każdemu innemu.
+
+### Życiorys na tle epoki
+
+Herbert urodził się we Lwowie. Podczas II wojny światowej należał do AK – ten rozdział życia zaważył na całej jego późniejszej postawie. Po wojnie odmawiał współpracy z nowym reżimem, co kosztowało go latami niemożność publikowania i pracę w najgorszych warunkach – jako buchalter czy kontroler jakości.
+
+Debiutował poetycko dopiero w 1956 roku, podczas odwilży, zbiorem „Struna światła". W ciągu kilku lat wydał kolejne tomy, które przyniosły mu uznanie w Polsce i za granicą.
+
+### Pan Cogito i mit jako broń
+
+Najsłynniejszym „bohaterem" Herberta jest Pan Cogito – postać będąca alter ego poety, człowiek myślący w świecie absurdu. Pan Cogito obserwuje rzeczywistość z ironią i bólem, szuka wartości w kulturze śródziemnomorskiej, konfrontuje się z przemocą historii.
+
+Wiersz „Przesłanie Pana Cogito" (1974) to jeden z najważniejszych tekstów polskiej literatury: „Idź wyprostowany wśród tych co na kolanach / wśród odwróconych plecami i obalonych w proch". Był hymnem opozycji, był śpiewany na demonstracjach.
+
+Herbert chętnie sięgał do mitologii greckiej i historii starożytnej, by przez nie mówić o teraźniejszości. Eseje z tomu „Barbarzyńca w ogrodzie" (1962) i „Martwa natura z wędzidłem" (1993) są arcydziełami eseistyki.
+
+### Emigracja i powroty
+
+Herbert żył i pracował w wielu krajach: Francji, RFN, USA, Austrii. Stypendysta zachodnich fundacji, doceniany na całym świecie. Jednak zawsze wracał do Polski. Był nominowany wielokrotnie do Nagrody Nobla – wielu uważa, że zasłużył na nią bardziej niż niejeden laureat.
+
+W stanie wojennym Herbert opowiadał się wyraźnie po stronie Solidarności. Był jednym z sygnatariuszy apeli i listów protestu.
+
+### Późne lata i spuścizna
+
+Ostatni zbiór „Epilog burzy" ukazał się pośmiertnie w 1998 roku. Herbert wielokrotnie pisał o starości, śmierci i konieczności zachowania godności do końca.
+
+Jego poezja jest przetłumaczona na kilkadziesiąt języków. Jest to jedna z postaci, które najlepiej reprezentują polską tradycję moralną: opór, pamięć, niezgoda na kłamstwo.`,
+    resources: [
+      {
+        id: 'herbert-wl',
+        title: 'Zbigniew Herbert – Wolne Lektury',
+        type: 'publikacja',
+        url: 'https://wolnelektury.pl/katalog/autor/herbert-zbigniew/',
+        source: 'Wolne Lektury',
+        description: 'Poezja Zbigniewa Herberta dostępna online w serwisie Wolne Lektury',
+      },
+      {
+        id: 'herbert-polona',
+        title: 'Archiwum Herberta – Polona',
+        type: 'dokument',
+        url: 'https://polona.pl/search/?query=Herbert+Zbigniew+poeta',
+        source: 'Polona',
+        description: 'Rękopisy, korespondencja i pierwsze wydania utworów Zbigniewa Herberta',
+      },
+      {
+        id: 'herbert-ph',
+        title: 'Zbigniew Herbert – poeta niezłomny',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=Herbert+Zbigniew+poeta+opozycja',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły o postawie Zbigniewa Herberta wobec komunizmu i jego spuściźnie',
+      },
+    ],
+    relatedIds: ['literatura-prl', 'kultura-prl', 'milosz', 'drugi-obieg', 'cenzura-prl'],
+  },
+  {
+    id: 'milosz',
+    title: 'Czesław Miłosz',
+    category: 'osoby',
+    shortDesc: 'Poeta, prozaik, eseista – autor „Zniewolonego umysłu", noblista 1980, jeden z największych pisarzy XX wieku.',
+    content: `## Czesław Miłosz (1911–2004)
+
+Czesław Miłosz to jeden z największych pisarzy XX wieku – poeta, eseista, historyk literatury, tłumacz. W 1980 roku otrzymał literacką Nagrodę Nobla. Jego twórczość jest nierozerwalnie związana z doświadczeniem totalitaryzmu i pytaniem o kondycję człowieka w obliczu historii.
+
+### Wielkie Księstwo Literackie i Polska
+
+Miłosz urodził się na Litwie, w Szetejniach. Ukształtowało go wielokulturowe środowisko kresowe – polskie, litewskie, żydowskie. Doświadczenie tej różnorodności i jej zagłady przez obie totalitarne machiny stało się fundamentem jego myśli.
+
+Przed wojną był związany z lewicową grupą poetycką „Żagary". Podczas okupacji pozostał w Warszawie, był świadkiem Zagłady warszawskich Żydów – opisał to poruszającym wierszem „Campo di Fiori" i słynnym „Biednym chrześcijaninem patrzącym na getto".
+
+### Dyplomata PRL i dezercja
+
+Po wojnie Miłosz pracował jako dyplomata – attaché kulturalny w Waszyngtonie i Paryżu. Wewnętrznie rozdarty, publicznie pełnił funkcję, z którą coraz trudniej mu się było pogodzić. W 1951 roku poprosił o azyl polityczny w Paryżu.
+
+Jego dezercja wstrząsnęła polskim środowiskiem literackim. PZPR uznała go za zdrajcę. W Polsce przez dekady był zakazany.
+
+### „Zniewolony umysł"
+
+W 1953 roku ukazał się po francusku „Zniewolony umysł" – esej analizujący mechanizmy, które sprawiają, że intelektualiści poddają się totalitaryzmowi. Miłosz opisał kilka fikcyjnych postaci (Alfa, Beta, Gamma, Delta), za którymi kryją się prawdziwi polscy pisarze. Analiza „kettmanu" – zewnętrznego dostosowania przy wewnętrznym sprzeciwie – jest jedną z najcelniejszych diagnoz psychologii konformizmu.
+
+Książka jest do dziś lekturą obowiązkową na wielu uczelniach świata.
+
+### Paryż i Berkeley
+
+Miłosz osiadł w Paryżu, był związany z redakcją „Kultury" Giedroycia (choć relacja była skomplikowana), a od 1960 roku wykładał literaturę słowiańską na Uniwersytecie Kalifornijskim w Berkeley.
+
+W tym czasie tworzył intensywnie – „Dolina Issy" (1955), „Rodzinna Europa" (1959), „Traktat poetycki" (1957). Jego poezja stała się coraz bardziej metafizyczna, pełna pytań o sens, Boga i miejsce człowieka w kosmosie.
+
+### Nobel i powrót do Polski
+
+W 1980 roku, gdy Polska strajkowała i powstawała Solidarność, Miłosz otrzymał Nagrodę Nobla. W Polsce odebrano to jako gest polityczny – potwierdzenie wartości wolności. Komunistyczne władze były zakłopotane.
+
+Miłosz wrócił do Polski po raz pierwszy w 1981 roku – owacja na Wawelu była historycznym momentem. Po 1989 roku zamieszkał w Krakowie. Pisał i tłumaczył do końca życia. Pochowany w krypcie kościoła na Skałce, wśród narodowych zasłużonych.
+
+### Spuścizna
+
+Miłosz jest autorem „Traktatu moralnego", „Ziemi Ulro", „Roku myśliwego" i setek wierszy. Jest poetą nadziei i bólu, świadkiem stulecia totalitaryzmów, który zachował humanistyczną wiarę w słowo i piękno.`,
+    resources: [
+      {
+        id: 'milosz-wl',
+        title: 'Czesław Miłosz – Wolne Lektury',
+        type: 'publikacja',
+        url: 'https://wolnelektury.pl/katalog/autor/milosz-czeslaw/',
+        source: 'Wolne Lektury',
+        description: 'Poezja i proza Czesława Miłosza dostępna online',
+      },
+      {
+        id: 'milosz-polona',
+        title: 'Archiwum Miłosza – Polona',
+        type: 'dokument',
+        url: 'https://polona.pl/search/?query=Mi%C5%82osz+Czes%C5%82aw+poeta',
+        source: 'Polona',
+        description: 'Digitalizacje pism, rękopisów i pierwszych wydań Miłosza',
+      },
+      {
+        id: 'milosz-ph',
+        title: 'Czesław Miłosz – twórczość i emigracja',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=Mi%C5%82osz+Czes%C5%82aw+emigracja+Nobel',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o twórczości i losach Czesława Miłosza',
+      },
+    ],
+    relatedIds: ['literatura-prl', 'kultura-paryz', 'herbert', 'cenzura-prl', 'drugi-obieg'],
+  },
+  {
+    id: 'kolejki-prl',
+    title: 'Kolejki i braki towarów',
+    category: 'społeczeństwo',
+    shortDesc: 'Permanentny niedobór dóbr i wielogodzinne kolejki – codzienność Polaków w epoce PRL.',
+    content: `## Kolejki i braki towarów w PRL
+
+Kolejka stała się symbolem PRL. W krajach Bloku Wschodniego brak towarów w sklepach był chronicznym problemem gospodarki nakazowo-rozdzielczej. W Polsce dosłownie po wszystko stało się w kolejkach: po mięso, masło, papier toaletowy, węgiel, benzinę, a nawet po numery kolejkowe do kolejek po inne towary.
+
+### Gospodarka niedoboru
+
+Centralnie planowana gospodarka nie potrafiła zaspokoić potrzeb konsumentów. Decyzje o produkcji zapadały w gabinetach, a nie na rynku. Efektem były chroniczne braki: za dużo jednych towarów (których nikt nie chciał), za mało innych (po które ustawiały się kolejki).
+
+System kartkowy – wprowadzony oficjalnie w 1976 r. dla cukru, a od 1980 r. rozszerzony na mięso, masło, alkohol, papierosy i benzynę – był przyznaniem przez władze, że gospodarka nie funkcjonuje. Kartki były przydziałem na miesiąc: tyle i tyle mięsa, tyle masła.
+
+### Rytuał kolejki
+
+Stanie w kolejce stało się rytuałem społecznym. Kobiety zostawiały torebki lub dziecięce wózki, by „trzymać miejsce". Specjalni „zawodowi kolejkacze" stali za zapłatą. Pojawiały się „zeszyty kolejkowe" – listy zapisanych przez sąsiadów.
+
+Legendarny był towar „bezsensowny" – kupowany nie dlatego, że był potrzebny, ale dlatego, że był. „Stoi kolejka – trzeba stanąć, bo może coś dobrego" – to kwintesencja mentalności braku.
+
+Budynki przy sklepach oblepiały się po świcie tłumem. Kobiety wstawały o 4 rano, by zdążyć przed otwarciem. Dzieci przed szkołą „stały w kolejce" zamiast ojca lub matki.
+
+### Bony i leworęczna gospodarka
+
+Obok kartek funkcjonowały „bony" – wewnętrzna waluta Pewexu, sklepu, gdzie za waluty zachodnie można było kupić towary niedostępne w zwykłych sklepach. Bony były przekazywane przez Polonię lub wymieniane na czarnym rynku.
+
+Szara strefa kwitła. „Znajomości" decydowały o dostępie do mięsa u rzeźnika, miejscu w kolejce, deficytowych częściach samochodowych. Kto znał kogoś „z zaopatrzenia", miał uprzywilejowany dostęp.
+
+### Pustki lat 80.
+
+Apogeum niedoborów przypadło na lata 80. Po stanie wojennym gospodarka była w ruinie. Sklepowe półki świeciły pustkami. Powszechne były sklepy z kartkami bez towaru do wykupienia. Kolejka stała się metaforą systemu – absurdalna, marnująca czas, upokarzająca.
+
+Humorystyczna opowieść tamtej epoki: „Co to jest kolejka po mięso? – Ogon smoka. – A co jest na początku? – Głowa z napisem «dziś mięsa nie ma»."
+
+### Wyzwolenie
+
+Liberalizacja cen w 1989–1990 roku zlikwidowała kolejki niemal z dnia na dzień. Towary pojawiły się w sklepach, ale ceny wzrosły dramatycznie – to był szok transformacji. Dla starszych Polaków porównanie pustych półek z pełnymi sklepami stało się jednym z najmocniejszych argumentów za kapitalizmem.`,
+    resources: [
+      {
+        id: 'kolejki-polona',
+        title: 'Prasa lat 80. – reportaże o brakach (Polona)',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=kolejki+sklepy+braki+kartki+PRL',
+        source: 'Polona',
+        description: 'Cyfryzacje gazet i tygodników PRL z reportażami o brakach towarów',
+      },
+      {
+        id: 'kolejki-ph',
+        title: 'Gospodarka niedoboru w PRL',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=gospodarka+niedoboru+kolejki+kartki',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o systemie kartkowym i życiu codziennym w PRL',
+      },
+      {
+        id: 'kolejki-ninateka',
+        title: 'Kroniki filmowe o zaopatrzeniu',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/szukaj?q=kolejki+sklepy+zaopatrzenie+PRL',
+        source: 'Ninateka',
+        description: 'Archiwalne kroniki i reportaże filmowe o codziennym życiu w sklepach PRL',
+      },
+    ],
+    relatedIds: ['gospodarka-prl', 'kuchnia-prl', 'nomenklatura', 'plan-szescioletni', 'gierek'],
+  },
+  {
+    id: 'mieszkania-prl',
+    title: 'Wielka płyta i budownictwo mieszkaniowe',
+    category: 'społeczeństwo',
+    shortDesc: 'Masowe budownictwo z prefabrykatów – wielka płyta – i polityka mieszkaniowa PRL.',
+    content: `## Wielka płyta i budownictwo mieszkaniowe w PRL
+
+Masowe budownictwo mieszkaniowe z prefabrykatów betonowych – zwane „wielką płytą" – było jednym z największych projektów urbanistycznych PRL. Miliony Polaków przeprowadziły się ze starych kamienic i wsi do nowych blokowisk, które zmieniły oblicze polskich miast.
+
+### Skala problemu mieszkaniowego
+
+Po II wojnie światowej Polska stanęła przed ogromnym deficytem mieszkań – zniszczenia wojenne, migracje ze wschodu i ze wsi do miast stworzyły katastrofalny kryzys. Warszawa została zburzona w 75%, Wrocław przejął infrastrukturę od dawnych Niemców, ale potrzeby były ogromne.
+
+Industrializacja lat 50. i 60. przyciągnęła miliony chłopów do miast – wszystkich trzeba było gdzieś pomieścić. Rodziny mieszkały po kilka pokoleń w jednym pokoju lub w melinach. Czas oczekiwania na mieszkanie spółdzielcze wynosił 10–15 lat.
+
+### Wielka płyta: rozwiązanie masowe
+
+W latach 60. PRL przyjął radziecki model budownictwa prefabrykowanego. Wielkie bloki z fabrycznie produkowanych betonowych paneli można było stawiać szybko i tanio. Efektem były wielkie osiedla mieszkaniowe: Ursynów, Bielany, Nowa Huta w Krakowie, Zaspa w Gdańsku, Winogrady w Poznaniu, Gocław w Warszawie.
+
+W szczytowym okresie (lata 70., „program mieszkaniowy" Gierka) budowano 200–300 tysięcy mieszkań rocznie. Gierek obiecał „każdej rodzinie własne mieszkanie" – to były słowa, ale i realna ambicja.
+
+### Życie w bloku
+
+Standardowe mieszkanie w bloku liczyło 37–65 m². Kawalerka, M2 (dwa pokoje), M3 (trzy pokoje) – to była hierarchia dostępu do komfortu. Kuchnie były mikroskopijne, łazienki ciasne, ale własna toaleta i ciepła woda były dla wielu awansem cywilizacyjnym.
+
+Blok był też projektem społecznym: wspólnota klatki schodowej, sąsiedztwo z obcymi, brak prywatności przez cienkie ściany. „Co u sąsiadów słychać" – nie była to metafora, lecz dosłowność.
+
+Infrastruktura społeczna osiedli często zostawała w tyle: sklepy, szkoły, komunikacja powstawały z opóźnieniem. Wielkie osiedla lat 70. były przez lata wyspami bez usług.
+
+### Kolejka na mieszkanie
+
+Przydział mieszkania przez zakład pracy lub spółdzielnię był uprzywilejowany. Na przydział czekało się latami, a decydowały „punkty" za staż, sytuację rodzinną – i nierzadko znajomości. Niektórzy płacili łapówki zarządcom spółdzielni.
+
+Posiadanie własnego mieszkania było celem życiowym – nieporównywalnie trudniejszym do osiągnięcia niż dziś.
+
+### Trwałość wielkie płyty
+
+Wielka płyta stała się problemem po 1989 roku. Bloki mają ograniczoną żywotność – projektowane na 50–70 lat, wiele z nich wymaga dziś gruntownych remontów. Termomodernizacja, wymiana instalacji, nowe windy – to wyzwania polskich miast w XXI wieku. Mimo to wielka płyta pozostanie z nami na długo.`,
+    resources: [
+      {
+        id: 'mieszkania-polona',
+        title: 'Materiały o budownictwie PRL (Polona)',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=budownictwo+mieszkaniowe+wielka+p%C5%82yta+PRL',
+        source: 'Polona',
+        description: 'Archiwalne plany, broszury i prasa o budownictwie mieszkaniowym PRL',
+      },
+      {
+        id: 'mieszkania-ph',
+        title: 'Polityka mieszkaniowa PRL',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=budownictwo+mieszkaniowe+bloki+wielka+p%C5%82yta',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o polityce mieszkaniowej i budownictwie blokowym w Polsce',
+      },
+      {
+        id: 'mieszkania-ninateka',
+        title: 'Kroniki filmowe – nowe osiedla',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/szukaj?q=nowe+osiedla+bloki+budownictwo',
+        source: 'Ninateka',
+        description: 'Kroniki filmowe dokumentujące powstawanie wielkich osiedli mieszkaniowych w PRL',
+      },
+    ],
+    relatedIds: ['nowa-huta', 'gospodarka-prl', 'dzieci-prl', 'gierek', 'plan-szescioletni'],
+  },
+  {
+    id: 'rwpg',
+    title: 'RWPG – Rada Wzajemnej Pomocy Gospodarczej',
+    category: 'gospodarka',
+    shortDesc: 'Wschodnioblokowy odpowiednik EWG – integracja gospodarcza krajów komunistycznych pod hegemonią ZSRR.',
+    content: `## RWPG – Rada Wzajemnej Pomocy Gospodarczej
+
+Rada Wzajemnej Pomocy Gospodarczej (ros. СЭВ – Sowiet Ekonomiczeskiej Wzaimopomoszczi, ang. COMECON) była organizacją integracji ekonomicznej krajów socjalistycznych, powołaną w 1949 roku jako odpowiedź na Plan Marshalla. Przez 40 lat wyznaczała ramy handlu i kooperacji przemysłowej Polski z blokiem wschodnim.
+
+### Geneza i struktura
+
+RWPG powstała w 1949 roku z inicjatywy Stalina. Pierwotni członkowie: ZSRR, Polska, Czechosłowacja, Węgry, Rumunia, Bułgaria i Albania (która wystąpiła w 1961). Później dołączyły NRD (1950), Mongolia (1962), Kuba (1972) i Wietnam (1978).
+
+Siedziba znajdowała się w Moskwie. Formalnie organizacja miała charakter dobrowolnej kooperacji – w praktyce ZSRR dyktował warunki. Ceny transferowe, kursy walut, przydziały produkcji – wszystko to ustalano na sesjach Rady, gdzie głos Moskwy był rozstrzygający.
+
+### Specjalizacja produkcji
+
+Jedną z głównych zasad RWPG była „socjalistyczna kooperacja" – każdy kraj miał specjalizować się w określonych branżach. Polska była centrum produkcji węgla, okrętów i maszyn górniczych. Czechosłowacja – przemysłu maszynowego. NRD – optyki i precyzji. Rumunii przypadła ropa i przemysł chemiczny.
+
+W praktyce podział ten był niestabilny, a krajom zależnym często narzucano profil produkcji niekorzystny dla ich własnego rozwoju. ZSRR zachowywał dla siebie zaawansowane technologie i surowce energetyczne.
+
+### Ceny transferowe i nieekwiwalentna wymiana
+
+Kluczowym problemem RWPG były ceny. Surowce – zwłaszcza ropa radziecka – sprzedawane były krajom RWPG poniżej cen rynkowych, co było formą subwencji sowieckiej. W zamian kraje wschodnioblokowe eksportowały towary przemysłowe do ZSRR często po zawyżonych cenach lub w jakości, której nikt na Zachodzie nie chciał kupić.
+
+Ten system ukrywał skalę nieefektywności. Fabryki w Polsce produkowały eksportowy sprzęt dla ZSRR, ale w standardzie, który nie mógłby konkurować na rynku zachodnim.
+
+### Transfery technologii (lub ich brak)
+
+RWPG nie stała się nośnikiem nowoczesnych technologii. ZSRR pilnie strzegł know-how. Kraje satelickie nie miały swobodnego dostępu do zachodniej technologii (embargo CoCom). W efekcie przez dekady powiększała się przepaść technologiczna między Wschodem a Zachodem.
+
+### Zadłużenie i kryzys lat 80.
+
+W latach 70. kraje RWPG – w tym Polska – masowo zaciągały kredyty zachodnie, licząc na modernizację. Gdy przyszedł kryzys, długi okazały się nie do spłacenia. Polska w 1980 roku miała dług zachodni rzędu 20 mld dolarów. RWPG nie była w stanie pomóc – brakowało twardych walut.
+
+RWPG rozwiązała się w 1991 roku, gdy upadły komunistyczne rządy i rynki wschodnioblokowe przestały istnieć w dotychczasowej formie.`,
+    resources: [
+      {
+        id: 'rwpg-polona',
+        title: 'Dokumenty RWPG – Polona',
+        type: 'dokument',
+        url: 'https://polona.pl/search/?query=RWPG+Rada+Wzajemnej+Pomocy+Gospodarczej',
+        source: 'Polona',
+        description: 'Archiwalne dokumenty i publikacje dotyczące RWPG w zbiorach Polony',
+      },
+      {
+        id: 'rwpg-ph',
+        title: 'RWPG i gospodarka bloku wschodniego',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=RWPG+gospodarka+blok+wschodni',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o RWPG i jej wpływie na polską gospodarkę',
+      },
+      {
+        id: 'rwpg-ipn',
+        title: 'Materiały archiwalne dot. RWPG',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=RWPG+handel+zagraniczny',
+        source: 'IPN Inwentarz',
+        description: 'Materiały archiwalne dotyczące polskiego uczestnictwa w RWPG',
+      },
+    ],
+    relatedIds: ['gospodarka-prl', 'plan-szescioletni', 'gierek', 'uklad-warszawski', 'jalta'],
+  },
+  {
+    id: 'jazz-prl',
+    title: 'Jazz w Polsce Ludowej',
+    category: 'kultura',
+    shortDesc: 'Jazz – muzyka wolności, która przebiła się przez ideologiczne bariery PRL i stała się symbolem otwarcia na Zachód.',
+    content: `## Jazz w Polsce Ludowej
+
+Jazz w PRL to paradoks: muzyka uznana przez stalinizm za imperialistyczną, dekadencką i zgubną – stała się jednym z pierwszych przejawów odwilży, a Polska Jazz Jamboree jest do dziś jednym z najważniejszych festiwali jazzowych na świecie.
+
+### Stalinizm i zakaz jazzu
+
+W szczytowym okresie stalinizmu (1949–1955) jazz był formalnie zakazany jako „muzyka burżuazyjna" i „imperialistyczna propaganda". Muzycy byli represjonowani, płyty konfiskowane, a publiczne granie jazzu mogło skończyć się aresztem.
+
+Władze propagowały muzykę sowiecką i socrealistyczną – marsze, masowe pieśni, folklor stylizowany na ludowy. Jazz był symbolem Zachodu, wolności i indywidualizmu – wszystkiego, co komunizm chciał wyprzeć.
+
+### Odwilż i wybuch
+
+Październik 1956 roku otworzył Polskę. Jazz natychmiast wybuchł z siłą tłumionej sprężyny. Kawiarnie, kluby studenckie, piwnice – wszędzie pojawiły się zespoły. Muzyczne pokolenie Krzysztofa Komedy, Andrzeja Kurylewicza, Jerzego Miliana, Tomasza Stańki nie musiało się już kryć.
+
+W 1956 roku zorganizowano pierwszy Ogólnopolski Festiwal Muzyki Jazzowej w Sopocie. Od 1958 roku to wydarzenie przeniosło się do Warszawy jako Jazz Jamboree – i trwa do dziś. Jazz Jamboree przyciągał gwiazdy światowe: Miles Davis, Dizzy Gillespie, Modern Jazz Quartet grały w Warszawie.
+
+### Komeda i polska szkoła jazzu
+
+Krzysztof Komeda (Trzciński) stał się symbolem polskiego jazzu. Jego album „Astigmatic" (1965) jest do dziś arcydziełem gatunku – europejski jazz z poetycką wrażliwością, daleką od amerykańskich wzorów. Komeda komponował też muzykę do filmów Romana Polańskiego – w tym słynne kołysanki z „Dziecka Rosemary".
+
+Tomasz Stańko, Jan Ptaszyn Wróblewski, Zbigniew Namysłowski, Urszula Dudziak – to muzycy, którzy stworzyli polską szkołę jazzu. Polskie Radio Jazz Studio nagrywało i promowało jazzowe sesje.
+
+### Jazz jako przestrzeń wolności
+
+Jazz w PRL był czymś więcej niż muzyką – był przestrzenią wolności w autorytarnym państwie. Improwizacja – jądro jazzu – była antytezą kolektywizmu i planowania. Muzyk jazzowy myślał i decydował sam, w chwili.
+
+Kluby jazzowe przyciągały młodzież, studentów, intelektualistów. Słuchano też muzyki z radia BBC i Głosu Ameryki. Jazz łączył się z kulturą zachodnią i był oknem na świat.
+
+### Paradoks
+
+Komunistyczne władze ostatecznie zaakceptowały jazz – bo widziały, że go nie powstrzymają, a był dla nich wygodniejszy niż rock and roll. Jazz był „intelektualny", a więc bezpieczniejszy klasowo. Festiwal Jazz Jamboree stał się też oknem propagandowym: dowodem, że Polska jest krajem otwartym na kulturę zachodnią.
+
+Ten paradoks – muzyka wolności w systemie zniewolenia – jest jednym z najciekawszych wątków kulturalnych PRL.`,
+    resources: [
+      {
+        id: 'jazz-ninateka',
+        title: 'Jazz Jamboree – archiwalne nagrania (Ninateka)',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/szukaj?q=Jazz+Jamboree',
+        source: 'Ninateka',
+        description: 'Archiwalne nagrania z festiwalu Jazz Jamboree i polskich muzyków jazzowych',
+      },
+      {
+        id: 'jazz-polona',
+        title: 'Polska prasa jazzowa (Polona)',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=jazz+polska+PRL+1956',
+        source: 'Polona',
+        description: 'Cyfryzacje pism i artykułów prasowych o jazzie w Polsce Ludowej',
+      },
+      {
+        id: 'jazz-ph',
+        title: 'Jazz w PRL – kultura opozycji i wolności',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=jazz+PRL+Komeda+festiwal',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o jazzie jako kulturze wolności w Polsce Ludowej',
+      },
+    ],
+    relatedIds: ['kultura-prl', 'komeda', 'muzyka-powazna-prl', 'radio-prl', 'pazdziernik-1956'],
+  },
+  {
+    id: 'sport-prl',
+    title: 'Sport w PRL',
+    category: 'społeczeństwo',
+    shortDesc: 'Sukcesy olimpijskie, masowy sport robotniczy i propaganda sukcesu – sport jako polityczne narzędzie PRL.',
+    content: `## Sport w PRL
+
+Sport w Polsce Ludowej pełnił wieloraką rolę: był narzędziem propagandy, oknem prestiżu na arenie międzynarodowej, ale też autentycznym źródłem radości i dumy narodowej. Polscy sportowcy odnosili na olimpiadach sukcesy nieproporcjonalne do wielkości kraju.
+
+### Sport jako ideologia
+
+Komunistyczna władza traktowała sport instrumentalnie. Wielkie sukcesy sportowe miały dowodzić wyższości socjalizmu nad kapitalizmem – porównywalne z lotem Gagarina czy sputnikiem. Sukcesy olimpijskie były materiałem propagandowym pierwszej klasy.
+
+Jednocześnie masowy sport miał integrować i wychowywać nowego człowieka. Towarzystwa Krzewienia Kultury Fizycznej (TKKF), Legia, Gwardia, Górnik – nazwy klubów oddawały charakter systemu: sport był organizacyjnie powiązany z wojskiem, milicją i zakładami pracy.
+
+### Olimpijskie sukcesy
+
+Polska była regularną potęgą olimpijską. Najlepszy był rok 1972 w Monachium: 13 medali, w tym 7 złotych. Lekkoatleci, bokserzy, wioślarze, zapaśnicy – wielkie indywidualności i wielkie drużyny.
+
+**Irena Szewińska** – siedmiokrotna medalistka olimpijska, wielokrotna rekordzistka świata, ikona polskiej lekkoatletyki. Złoty medal w biegu na 400 metrów w Montrealu 1976 – jeden z najpiękniejszych momentów polskiego sportu.
+
+**Kazimierz Deyna** – mistrz futbolu. Drużyna Górskiego – Polska w finale mistrzostw świata 1974 (3. miejsce), złoto olimpijskie w Monachium 1972. Lata 70. to złoty czas polskiej piłki.
+
+**Jerzy Kulej** – dwukrotny złoty medalista olimpijski w boksie (Tokio 1964, Meksyk 1968).
+
+**Władysław Kozakiewicz** – złoty medal w skoku o tyczce na olimpiadzie w Moskwie 1980. Jego gest w stronę trybun sowieckich widzów (znany jako „gest Kozakiewicza") stał się symbolem oporu wobec Wschodu.
+
+### Piłka nożna lat 70.
+
+Epoka Gierka to złoty czas polskiego futbolu. Trener Kazimierz Górski zbudował drużynę marzeń: Deyna, Lubański, Szarmach, Lato, Gadocha, Tomaszewski. Polska zdobyła złoto olimpijskie (1972), srebro olimpijskie (1976) i zajęła 3. miejsce na MŚ w 1974 i 1982.
+
+Mecz Polska – Anglia (1973), zakończony remisem 1:1, który pozwolił Polsce awansować na MŚ i wyeliminował Anglię – jest legendą.
+
+### Lekkoatletyka
+
+Polska lekkoatletyka lat 60.–80. była globalną potęgą. Irena Szewińska, Jadwiga Wajs-Marcinkiewicz, Grażyna Rabsztyn, Bronisław Malinowski (złoto w Moskwie 1980 w biegu na 3000 m z przeszkodami) – to nie była przypadkowa dominacja.
+
+### Sport kobiecy
+
+PRL był stosunkowo postępowy w sporcie kobiecym. Kobiety uczestniczyły we wszystkich dyscyplinach, a osiągnięcia sportsmenek były szeroko nagłaśniane.
+
+### Granica propagandy i rzeczywistości
+
+Za sukcesami stało zawodowe podejście, świetni trenerzy i system wyławiania talentów. Ale też – jak wszędzie za żelazną kurtyną – doping i system przywilejów dla sportowców. Wyjeżdżanie za granicę, lepsze zaopatrzenie, samochody, paszporty – sportowcy żyli lepiej niż przeciętny Polak.`,
+    resources: [
+      {
+        id: 'sport-ninateka',
+        title: 'Sport w PRL – archiwalne transmisje (Ninateka)',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/szukaj?q=sport+olimpiada+Polska+PRL',
+        source: 'Ninateka',
+        description: 'Archiwalne transmisje, kroniki i reportaże sportowe z czasów PRL',
+      },
+      {
+        id: 'sport-pkf',
+        title: 'Polska Kronika Filmowa – sport',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/kolekcja/polska-kronika-filmowa',
+        source: 'Ninateka/PKF',
+        description: 'Kroniki filmowe dokumentujące sukcesy polskich sportowców w erze PRL',
+      },
+      {
+        id: 'sport-ph',
+        title: 'Sport jako propaganda sukcesu',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=sport+PRL+olimpiada+propaganda',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły o roli sportu w propagandzie PRL i osiągnięciach polskich sportowców',
+      },
+    ],
+    relatedIds: ['gospodarka-prl', 'propaganda-prl', 'gierek', 'kultura-prl', 'hermaszewski'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -8976,6 +9694,20 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1984, event: 'Zamordowanie ks. Jerzego Popiełuszki przez SB', category: 'represje', entryId: 'popieluszko' },
   { year: 1989, event: 'Obrady Okrągłego Stołu', category: 'polityka', entryId: 'okragly-stol' },
   { year: 1989, event: '4 czerwca – pierwsze częściowo wolne wybory', category: 'polityka', entryId: 'okragly-stol' },
-  { year: 1989, event: 'Rząd Mazowieckiego – koniec PRL', category: 'polityka' },
+  { year: 1989, event: 'Rząd Mazowieckiego – koniec PRL', category: 'polityka', entryId: 'mazowiecki' },
   { year: 1990, event: 'Rozwiązanie PZPR – formalne zakończenie epoki', category: 'polityka', entryId: 'pzpr' },
+  { year: 1956, event: 'Pierwsze Ogólnopolskie Festiwal Muzyki Jazzowej w Sopocie', category: 'kultura', entryId: 'jazz-prl' },
+  { year: 1958, event: 'Inauguracja Jazz Jamboree w Warszawie', category: 'kultura', entryId: 'jazz-prl' },
+  { year: 1972, event: 'Złoto olimpijskie polskich piłkarzy w Monachium', category: 'społeczeństwo', entryId: 'sport-prl' },
+  { year: 1974, event: 'Polska zajmuje 3. miejsce na Mistrzostwach Świata w piłce nożnej', category: 'społeczeństwo', entryId: 'sport-prl' },
+  { year: 1976, event: 'Irena Szewińska złotą medalistką olimpijską (400 m, Montreal)', category: 'społeczeństwo', entryId: 'sport-prl' },
+  { year: 1980, event: 'Gest Kozakiewicza – złoto w skoku o tyczce w Moskwie', category: 'społeczeństwo', entryId: 'sport-prl' },
+  { year: 1964, event: 'Jacek Kuroń i Karol Modzelewski – „List otwarty do Partii"', category: 'opozycja', entryId: 'kuron' },
+  { year: 1977, event: 'Adam Michnik publikuje „Kościół, lewica, dialog"', category: 'opozycja', entryId: 'michnik' },
+  { year: 1981, event: 'Pierwszy numer „Gazety Wyborczej" (8 maja 1989)', category: 'polityka', entryId: 'michnik' },
+  { year: 1949, event: 'Powołanie RWPG – blok wschodni tworzy wspólnotę gospodarczą', category: 'gospodarka', entryId: 'rwpg' },
+  { year: 1957, event: 'Andrzej Wajda – „Kanał" i narodziny Polskiej Szkoły Filmowej', category: 'kultura', entryId: 'wajda' },
+  { year: 1981, event: 'Wajda zdobywa Złotą Palmę za „Człowieka z żelaza"', category: 'kultura', entryId: 'wajda' },
+  { year: 1988, event: 'Kieślowski nakręca „Dekalog" – arcydzieło kina telewizyjnego', category: 'kultura', entryId: 'kieslowski' },
+  { year: 1980, event: 'Czesław Miłosz laureatem literackiej Nagrody Nobla', category: 'kultura', entryId: 'milosz' },
 ];
