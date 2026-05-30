@@ -9643,6 +9643,612 @@ Za sukcesami stało zawodowe podejście, świetni trenerzy i system wyławiania 
     ],
     relatedIds: ['gospodarka-prl', 'propaganda-prl', 'gierek', 'kultura-prl', 'hermaszewski'],
   },
+  {
+    id: 'szymborska',
+    title: 'Wisława Szymborska',
+    category: 'osoby',
+    shortDesc: 'Poetka, laureatka Nagrody Nobla 1996 – mistrzyni ironii i codziennej filozofii.',
+    content: `## Wisława Szymborska (1923–2012)
+
+Wisława Szymborska należy do grona największych polskich poetów XX wieku. W 1996 roku otrzymała literacką Nagrodę Nobla – Akademia Szwedzka uzasadniła ją „poezją, która z ironiczną precyzją pozwala kontekstowi historycznemu i biologicznemu fragmentowi ludzkiej rzeczywistości wyłonić się na światło". Jej wiersze, pozornie proste i żartobliwe, kryją w sobie głębię filozoficzną i moralną.
+
+### Droga do poezji
+
+Szymborska urodziła się w Kórniku pod Poznaniem, dorastała w Krakowie. Debiutowała w 1945 roku na łamach prasy. Jej pierwszy tomik „Dlatego żyjemy" (1952) był jeszcze zabarwiony socrealizmem – sama poetka w późniejszych latach dystansowała się od tych wierszy.
+
+Przełomem był tom „Pytania zadawane sobie" (1954) i kolejne zbiory, w których Szymborska wypracowała swój niepowtarzalny styl: filozoficzne pytania zadawane poprzez codzienne, konkretne obrazy, ironia jako narzędzie poznania, zdumienie światem jako postawa etyczna.
+
+### Styl i tematyka
+
+Szymborska pisała o tym, co małe i pozornie nieważne – o kamieniu, kocie, targu – i przez te obrazy docierała do pytań fundamentalnych: o przypadek i konieczność, o tożsamość, o śmierć i przemijanie. Wiersz „Nic dwa razy" stał się jednym z najbardziej znanych wierszy w języku polskim.
+
+Jej „Rozmowa z kamieniem", „Widok z ziarnkiem piasku", „Koniec i początek" – to perły liryki filozoficznej. Wiersz „Tortury" jest poruszającym komentarzem do historii represji. „Obóz głodowy pod Jasłem" – świadectwem o zagładzie.
+
+Szymborska unikała wielkich słów i patosu. Jej oręż to precyzja języka i niespodziewana pointą.
+
+### Pozycja w PRL
+
+W czasach PRL Szymborska była uznaną poetką, choć nie politycznie zaangażowaną. Pracowała w redakcji krakowskiego „Życia Literackiego", gdzie przez wiele lat prowadziła rubrykę „Lektury nadobowiązkowe" – błyskotliwe recenzje książek, które stały się klasykiem eseistyki.
+
+Nie była dysydentką, ale jej poezja – kwestionująca pewniki, ironiząca schematy myślenia – była antytezą doktrynerskiego komunizmu. W stanie wojennym podpisała list protestacyjny twórców krakowskich.
+
+### Nobel i późne lata
+
+Nagrodę Nobla odebrała skromnie i ze swoją typową ironią. Na bankiecie noblowskim powiedziała, że jest „nie bardziej skromna od innych poetów, tylko bardziej inteligentna w skromności".
+
+Ostatnie lata życia spędziła w Krakowie, otoczona gronem przyjaciół. Pisała do końca. Jej ostatni tom „Wystarczy" ukazał się pośmiertnie. Pochowana na cmentarzu Rakowickim w Krakowie.`,
+    resources: [
+      {
+        id: 'szym-wl',
+        title: 'Wisława Szymborska – Wolne Lektury',
+        type: 'publikacja',
+        url: 'https://wolnelektury.pl/katalog/autor/szymborska-wislawa/',
+        source: 'Wolne Lektury',
+        description: 'Wiersze Wisławy Szymborskiej dostępne online',
+      },
+      {
+        id: 'szym-polona',
+        title: 'Archiwum Szymborskiej – Polona',
+        type: 'dokument',
+        url: 'https://polona.pl/search/?query=Szymborska+Wis%C5%82awa',
+        source: 'Polona',
+        description: 'Zdigitalizowane pierwsze wydania tomów poetyckich Szymborskiej',
+      },
+      {
+        id: 'szym-ninateka',
+        title: 'Szymborska – wywiady i nagrania',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/szukaj?q=Szymborska+Wis%C5%82awa',
+        source: 'Ninateka',
+        description: 'Archiwalne wywiady telewizyjne i radiowe z Wisławą Szymborską',
+      },
+    ],
+    relatedIds: ['literatura-prl', 'kultura-prl', 'milosz', 'herbert', 'cenzura-prl'],
+  },
+  {
+    id: 'lem',
+    title: 'Stanisław Lem',
+    category: 'osoby',
+    shortDesc: 'Pisarz science-fiction i futurysta – jeden z najczęściej tłumaczonych polskich autorów w historii.',
+    content: `## Stanisław Lem (1921–2006)
+
+Stanisław Lem był jednym z najważniejszych pisarzy XX wieku – twórcą science fiction, filozofem technologii i futurystą, którego dzieła przetłumaczono na kilkadziesiąt języków, sprzedając w dziesiątkach milionów egzemplarzy. Jest najczęściej tłumaczonym polskim pisarzem w historii.
+
+### Lwów i trauma wojenna
+
+Lem urodził się we Lwowie. Przeżył II wojnę światową ukrywając swoje żydowskie pochodzenie na aryjskich dokumentach. Doświadczenie Holokaustu, śmierci i okrucieństwa historii odcisnęło trwałe piętno na jego twórczości – pesymizm co do natury ludzkiej, fascynacja zagładą i ocaleniem.
+
+Po wojnie zamieszkał w Krakowie, gdzie spędził większość życia.
+
+### Twórczość: między fantastyką a filozofią
+
+Lem zadebiutował powieścią „Astronauci" (1951), ale prawdziwy przełom przyniosła „Solaris" (1961) – arcydzieło SF o niemożności komunikacji z radykalnie obcą formą życia. Ekranizowana dwukrotnie (Tarkowski 1972, Soderbergh 2002), stała się ikoną gatunku na całym świecie.
+
+Inne kluczowe dzieła: „Eden" (1959), „Niezwyciężony" (1964), „Głos Pana" (1968), cykl o Ijonie Tichym, cykl o Pirksie, „Cyberiada" (1965). „Cyberiada" to poetyckie opowiadania o robotach Trypanie i Klapsaucjusie – ironiczne, błyskotliwe, filozoficznie wieloznaczne.
+
+Lem pisał też eseje: „Summa Technologiae" (1964) – futurologiczna analiza przyszłości technologii, która w wielu miejscach okazała się prorocza – i „Filozofia przypadku" (1968).
+
+### Stosunek do komunizmu
+
+Lem był pisarzem niezależnym w warunkach PRL. Nie był dysydentką ani aktywnym komunistą. Udało mu się zbudować pozycję, w której cenzura generalnie go nie dotykała – SF było bardziej tolerowane niż realistyczna proza polityczna.
+
+Ale nie był naiwny. W jego powieściach pojawiają się krytyczne alegorie: systemy totalne, manipulacja, bezduszne machiny biurokratyczne. „Opowieści o pilocie Pirksie" zawierają subtelne komentarze do współczesności.
+
+Zdobył prawo do wyjazdów za granicę i kontaktów z zachodnimi wydawcami – co było przywilejem. W 1982 roku wyjechał do Wiednia; wrócił do Polski po upadku komunizmu.
+
+### Konflikty ze środowiskiem
+
+Lem był postacią kontrowersyjną. Ostro krytykował amerykańskie SF jako intelektualnie płytkie – co doprowadziło do konfliktu z tamtejszym środowiskiem i usunięcia go z organizacji Science Fiction Writers of America (SFWA). Był niezłomny w ocenach, bezkompromisowy.
+
+### Spuścizna
+
+Lem jest patronem nauki o przyszłości, cyberprzestrzeni i etyce technologicznej. Jego przewidywania dotyczące internetu, wirtualnej rzeczywistości i problemów etycznych AI okazały się trafne. Muzeum Lema w Krakowie jest hołdem dla jego wyobraźni.`,
+    resources: [
+      {
+        id: 'lem-wl',
+        title: 'Stanisław Lem – Wolne Lektury',
+        type: 'publikacja',
+        url: 'https://wolnelektury.pl/katalog/autor/lem-stanislaw/',
+        source: 'Wolne Lektury',
+        description: 'Wybrane utwory Stanisława Lema dostępne online',
+      },
+      {
+        id: 'lem-polona',
+        title: 'Archiwum Lema – Polona',
+        type: 'dokument',
+        url: 'https://polona.pl/search/?query=Lem+Stanis%C5%82aw+Solaris',
+        source: 'Polona',
+        description: 'Zdigitalizowane pierwsze wydania powieści i esejów Stanisława Lema',
+      },
+      {
+        id: 'lem-ninateka',
+        title: 'Lem – wywiady i adaptacje filmowe',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/szukaj?q=Lem+Stanis%C5%82aw+Solaris',
+        source: 'Ninateka',
+        description: 'Archiwalne wywiady z Lemem i adaptacje filmowe jego dzieł',
+      },
+    ],
+    relatedIds: ['literatura-prl', 'kultura-prl', 'nauka-prl', 'cenzura-prl', 'milosz'],
+  },
+  {
+    id: 'motoryzacja-prl',
+    title: 'Motoryzacja w PRL – Maluch i inne',
+    category: 'społeczeństwo',
+    shortDesc: 'Fiat 126p „Maluch", Warszawa, Syrenka – samochód jako marzenie i symbol statusu w Polsce Ludowej.',
+    content: `## Motoryzacja w PRL
+
+Samochód w Polsce Ludowej był luksusem nieosiągalnym dla większości obywateli – i właśnie dlatego stał się jednym z najbardziej pożądanych symboli statusu. Historia motoryzacji PRL to historia kolejek (wieloletnich!), kombinowania i marzeń o własnych czterech kółkach.
+
+### Pierwsze polskie samochody
+
+Powojenna motoryzacja polska zaczęła się od licencji na radzieckie pojazdy. Warszawa M-20 (1951) – polska wersja Pobiedy – była samochodem dla klas wyższych i aparatu władzy. Syrenka (od 1957 r.) – pierwszy „ludowy" samochód, dwusuwowa miniatura pełna ekscentryczności technicznej – była próbą demokratyzacji motoryzacji. Jej trwałość pozostawiała wiele do życzenia.
+
+### Fiat 125p – duży Fiat
+
+W 1967 roku podpisano umowę z włoskim Fiatem na licencyjną produkcję Fiata 125. „Duży Fiat" (1967–1991) był samochodem nowej klasy średniej – solidny, przestronny, z silnikiem na miarę. Przez lata oczekiwania na jego przydział sięgały 5–10 lat.
+
+Posiadanie Dużego Fiata było znakiem przynależności do względnie uprzywilejowanej warstwy – dyrektorów, inżynierów, lekarzy.
+
+### Maluch – ikona PRL
+
+Fiat 126p – „Maluch" – to największy mit motoryzacyjny PRL. Produkowany od 1973 roku w Bielsku-Białej i Tychach, był odpowiedzią na potrzebę masowej motoryzacji. Mały, tani (relatywnie), prosty w naprawie – i wywołujący szaleńczą kolejkę chętnych.
+
+Na Malucza czekało się latami. Kupowało się bony na samochód, które można było odsprzedać (nielegalnie) z ogromną premią. Maluch stał się symbolem aspiracji: pierwsze własne auto, wolność weekendowych wyjazdów, możliwość przewiezienia rodziny.
+
+Paradoksem było, że Maluch był droższy, niż wskazywała cena oficjalna – bo do niej doliczano „wartość rynkową" czarnego rynku. Korupcja w salonach dealerskich była powszechna.
+
+### Benzyna i stacje
+
+Dostęp do paliwa był regularnie utrudniony. Kolejki na stacjach benzynowych, reglamentacja w kryzysowych latach 80. – benzynę na kartki w 1981–1983. Kierowcy organizowali „banki benzyny" – napełniali bańki, by nie zostać bez paliwa.
+
+### Kultura samochodowa
+
+Samochód w PRL był też obiektem kultu technicznego. Naprawiano go samodzielnie – części były trudno dostępne, ale zaradność polska nie miała granic. Warsztaty garażowe, sieci wymiany części, komisy – parallel economy wokół samochodów kwitła.
+
+Prawo jazdy i samochód oznaczały wolność ruchu. Turystyka samochodowa w Polsce i za granicę (do NRD, Czechosłowacji, Jugosławii) była marzeniem i osiągalnym celem dla uprzywilejowanych.
+
+### Po 1989 roku
+
+Liberalizacja umożliwiła import zachodnich samochodów. Rynek zalały używane „zachodniaki" – Golf, Mercedes, BMW. Maluch stał się symbolem dawnych czasów. Produkcję Fiata 126p zakończono dopiero w 2000 roku, ale już w połowie lat 90. stał się nostalgiczną zabytkowością.`,
+    resources: [
+      {
+        id: 'maluch-polona',
+        title: 'Prasa motoryzacyjna PRL (Polona)',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Fiat+126+Maluch+motoryzacja+PRL',
+        source: 'Polona',
+        description: 'Archiwalne artykuły prasowe i broszury o motoryzacji w Polsce Ludowej',
+      },
+      {
+        id: 'maluch-ninateka',
+        title: 'Kroniki filmowe – motoryzacja',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/szukaj?q=samoch%C3%B3d+Fiat+Maluch+motoryzacja+PRL',
+        source: 'Ninateka',
+        description: 'Archiwalne kroniki i reportaże filmowe o samochodach i motoryzacji w PRL',
+      },
+      {
+        id: 'maluch-ph',
+        title: 'Motoryzacja jako symbol statusu w PRL',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=samoch%C3%B3d+motoryzacja+Maluch+PRL',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o roli samochodu w życiu społecznym PRL',
+      },
+    ],
+    relatedIds: ['kolejki-prl', 'gospodarka-prl', 'gierek', 'kuchnia-prl', 'nostalgia-prl'],
+  },
+  {
+    id: 'prasa-prl',
+    title: 'Prasa i media w PRL',
+    category: 'kultura',
+    shortDesc: 'Trybuna Ludu, Polityka, Przekrój – kontrolowana prasa jako narzędzie propagandy i okno na rzeczywistość.',
+    content: `## Prasa i media w PRL
+
+Prasa w Polsce Ludowej funkcjonowała w warunkach ścisłej kontroli partyjnej i cenzury, ale była też areną subtelnych gier między władzą a dziennikarzami, którzy próbowali przemycić odrobinę prawdy między wierszami.
+
+### Struktura systemu prasowego
+
+PZPR kontrolowała wszystkie media. Każde pismo musiało mieć „właściciela" – instytucję partyjną, związkową lub stronnictwo satelickie. Centralny Urząd Kontroli Prasy, Publikacji i Widowisk (cenzura) sprawdzał każdy tekst przed drukiem.
+
+Główny organ partyjny: **Trybuna Ludu** – codzienna gazeta partii, nudna, pełna partyjnego nowomówu, czytana przez obowiązek, a nie z ciekawości. Nakład milionowy, bo wielkie zakłady pracy prenumerowały ją automatycznie.
+
+**Żołnierz Wolności** – dziennik wojskowy. **Sztandar Młodych** – pismo ZMS. **Głos Pracy** – związkowy. Każda instytucja miała swój organ.
+
+### Tygodniki – względna swoboda
+
+Tygodniki miały nieco więcej swobody niż dzienniki. **Polityka** (od 1957) pod redakcją Mieczysława Rakowskiego była najbardziej wpływowym tygodnikiem opinii – ostrożnie reformistyczna, czytana przez inteligencję, niekiedy pozwalała na krytykę systemu w jego ramach.
+
+**Przekrój** (od 1945, Kraków) był pismem kulturalno-rozrywkowym o wyjątkowej klasie graficznej i redakcyjnej. Był oknem na kulturę zachodnią – filmy, literatura, moda – i był powszechnie kochany.
+
+**Tygodnik Powszechny** (Kraków) – katolickie pismo środowisk inteligenckich, w istocie jedyne niezależne pismo w systemie. Jego redaktorzy, w tym Jerzy Turowicz, potrafili bronić niezależności redakcji nawet w najtrudniejszych czasach.
+
+### Dziennikarze i gra z cenzurą
+
+Doświadczeni dziennikarze nauczyli się gry z cenzurą. Aluzja, metafora, odwołanie do historii starożytnej lub obcej – to były techniki mówienia prawdy tak, by cenzor jej nie zauważył lub nie chciał zrozumieć.
+
+Słynna była praktyka „czytania między wierszami" – polscy czytelnicy nauczyli się rozumieć to, co nie było napisane. Pominięcie informacji, nieobecność tematu – to też mówiło o rzeczywistości.
+
+### Kryzys i podziemie
+
+Po 1976 roku, wraz z powstaniem KOR, zaczął kwitnąć drugi obieg prasowy. Bezdebitowe pisma: „Biuletyn Informacyjny KOR", „Robotnik", „Res Publica", setki innych – drukowane na powielaczach i dystrybuowane siatkami kolporterów.
+
+Po sierpniu 1980 roku Solidarność wydawała swoje regionalne biuletyny, tygodniki i miesięczniki. Prasa niezależna stała się masową. Stan wojenny ją zdelegalizował, ale nie zniszczył.
+
+### Telewizja i radio
+
+Obok prasy drukowanej kluczową rolę odgrywała telewizja (od 1952) i radio. Dziennik Telewizyjny – główny serwis informacyjny TVP – był synonimem propagandy. Prowadzony przez lojalne kadry, manipulował informacją, przemilczał fakty.
+
+Alternatywą były Radio Wolna Europa i głos Ameryki – słuchane nielegalnie przez miliony.`,
+    resources: [
+      {
+        id: 'prasa-polona',
+        title: 'Prasa PRL – archiwalne numery (Polona)',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Trybuna+Ludu+Polityka+Przekr%C3%B3j+PRL',
+        source: 'Polona',
+        description: 'Zdigitalizowane numery głównych pism PRL, w tym Trybuny Ludu, Polityki i Przekroju',
+      },
+      {
+        id: 'prasa-ph',
+        title: 'Media i prasa w PRL',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=prasa+media+cenzura+PRL+Trybuna+Ludu',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o systemie prasowym i roli mediów w Polsce Ludowej',
+      },
+      {
+        id: 'prasa-ipn',
+        title: 'Dokumenty cenzury prasowej',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=cenzura+prasa+GUKPPiW',
+        source: 'IPN Inwentarz',
+        description: 'Dokumenty Głównego Urzędu Kontroli Prasy dotyczące ingerencji cenzury',
+      },
+    ],
+    relatedIds: ['cenzura-prl', 'propaganda-prl', 'drugi-obieg', 'tygodnik-powszechny', 'radio-wolna-europa'],
+  },
+  {
+    id: 'edukacja-prl',
+    title: 'Edukacja i szkoła w PRL',
+    category: 'społeczeństwo',
+    shortDesc: 'System oświaty jako narzędzie indoktrynacji – i mimo to szkoła jako miejsce realnej wiedzy i przyjaźni.',
+    content: `## Edukacja i szkoła w PRL
+
+Szkoła w Polsce Ludowej była jednym z głównych narzędzi wychowania nowego człowieka – lojalnego obywatela socjalistycznego państwa. A jednocześnie była miejscem, gdzie miliony dzieci uczyły się matematyki, historii i literatury, zdobywały przyjaźnie i – nierzadko – lekcje prawdziwego życia od nauczycieli, którzy przemycali prawdę mimo systemu.
+
+### Reforma systemu oświaty
+
+Po 1944 roku komuniści szybko przejęli kontrolę nad szkolnictwem. Zlikwidowano szkoły prywatne i wyznaniowe. Wprowadzono jednolity program nauczania oparty na radzieckich wzorcach: obowiązkowa nauka rosyjskiego, marksistowsko-leninowska interpretacja historii, gloryfikacja ZSRR.
+
+Jednocześnie dokonano ogromnego postępu w upowszechnieniu edukacji. Analfabetyzm, który przed wojną dotyczył ok. 15–20% społeczeństwa, zwalczono masowymi kampaniami. Szkolnictwo wyższe otwarto dla dzieci robotniczych i chłopskich. To był realny awans cywilizacyjny.
+
+### Ideologia w klasie
+
+Lekcje historii były skrzywione przez pryzmat marksizmu. Szkoła uczyła: kapitalizm jest zły, imperializm zachodni grozi, ZSRR jest przyjacielem, Armia Czerwona wyzwoliła Polskę. AK była „reakcją", zachodnia pomoc dla Polski w czasie wojny – przemilczana.
+
+Religia została usunięta ze szkół w 1961 roku (wcześniej była ograniczana). Zastąpiła ją „etyka i wychowanie obywatelskie" – de facto ideologia partyjna. Lekcje religii przeniosły się do kościołów i katechezy parafialnej.
+
+Na ścianach szkół wisiały portrety Lenina i Bieruta, potem Gomułki, Gierka. Szkolne uroczystości: 1 Maja, Rewolucja Październikowa, rocznice PKWN.
+
+### Organizacje młodzieżowe
+
+ZMP (Związek Młodzieży Polskiej) do 1956 roku, potem ZMS, ZMW, ZHP (w wersji zsowietyzowanej, później przywrócona tradycja harcerska) – organizacje młodzieżowe były integralną częścią szkolnego życia. Zrzeszały obowiązkowo lub półobowiązkowo, wychowywały ideologicznie.
+
+Harcerstwo miało swoją tradycję i etos niezależny od władzy – i niekiedy stawało się przestrzenią prawdziwej wspólnoty, mimo oficjalnych ram.
+
+### Nauczyciele i luki w systemie
+
+Wielu nauczycieli, zwłaszcza starszego pokolenia, wychowanych przed wojną, przemycało nieoficjalną prawdę. Historyk na lekcji potrafił „między wierszami" pokazać, co naprawdę wydarzyło się w 1939 roku lub w Katyniu. Polonista cytujący Herberta przesyłał sygnał.
+
+Ta nieformalna edukacja równoległa do oficjalnej programu była fenomenem PRL – testament tradycji i obywatelskiej odpowiedzialności nauczycieli.
+
+### Szkolnictwo wyższe
+
+Uniwersytety były pod ścisłą kontrolą partyjną. Rektorów i dziekanów mianowała partia. Marksizm-leninizm był obowiązkowym przedmiotem. Studenci musieli zdawać egzamin z materializmu dialektycznego.
+
+Mimo to polskie uczelnie – zwłaszcza Uniwersytet Warszawski, AGH, UJ – zachowały poziom naukowy. Marzec 1968 obnażył granice możliwości – władza mogła wyrzucać profesorów i studentów za poglądy.
+
+### Spuścizna
+
+PRL dał Polsce masową edukację – i to jest realne osiągnięcie. Ale też wychował pokolenia w schemacie ideologicznym, z lukusem w wiedzy historycznej i obywatelskiej. Likwidacja tych braków stała się zadaniem szkoły po 1989 roku.`,
+    resources: [
+      {
+        id: 'edukacja-polona',
+        title: 'Podręczniki szkolne PRL (Polona)',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=podr%C4%99cznik+szkolny+PRL+historia',
+        source: 'Polona',
+        description: 'Zdigitalizowane podręczniki szkolne z czasów PRL – od historii po wychowanie obywatelskie',
+      },
+      {
+        id: 'edukacja-ph',
+        title: 'System oświaty w PRL',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=edukacja+szko%C5%82a+o%C5%9Bwiata+PRL',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o systemie szkolnictwa i indoktrynacji w Polsce Ludowej',
+      },
+      {
+        id: 'edukacja-ninateka',
+        title: 'Kroniki szkolne – życie uczniów w PRL',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/szukaj?q=szko%C5%82a+uczniowie+edukacja+PRL',
+        source: 'Ninateka',
+        description: 'Archiwalne filmy o życiu szkolnym i edukacji w Polsce Ludowej',
+      },
+    ],
+    relatedIds: ['dzieci-prl', 'zmp', 'propaganda-prl', 'marzec-1968', 'socrealizm'],
+  },
+  {
+    id: 'internowanie',
+    title: 'Internowanie w stanie wojennym',
+    category: 'represje',
+    shortDesc: 'Nocna akcja 13 grudnia 1981 – aresztowanie 10 tysięcy działaczy Solidarności bez wyroku sądowego.',
+    content: `## Internowanie w stanie wojennym
+
+W nocy z 12 na 13 grudnia 1981 roku, w pierwszych godzinach stanu wojennego, Służba Bezpieczeństwa i Milicja Obywatelska przeprowadziły masowe aresztowania działaczy Solidarności, opozycjonistów i osób uznanych za zagrożenie dla reżimu. Była to największa fala represji politycznych w Polsce od czasów stalinizmu.
+
+### Operacja „Jodła"
+
+Akcja masowych zatrzymań nosiła kryptonim „Jodła". Listy internowanych były przygotowywane od miesięcy przez Departament III SB. W planach SB figurowały tysiące nazwisk: działacze Solidarności wszystkich szczebli, doradcy KOR, publicyści, naukowcy, prawnicy.
+
+W pierwszej dobie zatrzymano ok. 5 000 osób. Do końca stanu wojennego (1983) przez obozy internowania przeszło ok. 10 000–13 000 osób. Internowanie nie wymagało wyroku sądowego – wystarczała decyzja administracyjna.
+
+### Miejsca internowania
+
+Internowanych osadzano w kilkudziesięciu ośrodkach na terenie całej Polski – w więzieniach, w obiektach wojskowych i MSW przystosowanych na obozy. Największe ośrodki: Białołęka (Warszawa), Hrubieszów, Kwidzyn, Darłówek, Jaworze, Głogów, Gołdap.
+
+Warunki były zróżnicowane – od stosunkowo znośnych do ciężkich. W Kwidzynie internowani skarżyli się na celowe poniżanie, mróz, złe wyżywienie. Strajki głodowe były częste.
+
+### Znani internowani
+
+Wśród internowanych znaleźli się: Lech Wałęsa (odosobniony w willi rządowej w Arłamowie), Tadeusz Mazowiecki, Jacek Kuroń, Adam Michnik, Bronisław Geremek, Zbigniew Bujak (ukrywał się, internowany w 1986), Andrzej Gwiazda, Anna Walentynowicz.
+
+Internowanie dotknęło wszystkich poziomów Solidarności – od przywódców ogólnopolskich do działaczy zakładowych.
+
+### Obrona i protest
+
+Kościół katolicki aktywnie angażował się w pomoc internowanym i ich rodzinom. Parafialne komitety pomocy zbierały pieniądze i żywność. Prymas Glemp interweniował dyplomatycznie.
+
+Rodziny internowanych nie zawsze wiedziały, gdzie przetrzymywani są bliscy. Listy i wizyty były ograniczone. Władze celowo utrudniały komunikację.
+
+### Koniec internowania
+
+Większość internowanych zwolniono w falach: pierwsza – wiosną 1982, kolejne latem i jesienią. W grudniu 1982 formalnie zawieszono stan wojenny; ogłoszono amnestię. W lipcu 1983 roku stan wojenny oficjalnie zniesiono.
+
+Niektórzy internowani, po zwolnieniu, natychmiast wznawiali działalność podziemną. Internowanie nie złamało Solidarności – wzmocniło determinację.
+
+### Sprawa karna po 1989
+
+Po 1989 roku postępowania karne wobec sprawców internowania toczyły się latami – z mizernym skutkiem. Prokuratorzy IPN prowadzili śledztwa, ale rzadko kończyły się wyrokami. Większość sprawców – zarówno decydentów, jak i funkcjonariuszy wykonawczych – uniknęła odpowiedzialności karnej.`,
+    resources: [
+      {
+        id: 'intern-ipn',
+        title: 'Dokumenty internowania – IPN',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=internowanie+stan+wojenny+obóz',
+        source: 'IPN Inwentarz',
+        description: 'Dokumenty dotyczące operacji internowania i list internowanych w stanie wojennym',
+      },
+      {
+        id: 'intern-ph',
+        title: 'Internowani w stanie wojennym',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=internowanie+stan+wojenny+internowani',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne i relacje świadków dotyczące internowania w stanie wojennym',
+      },
+      {
+        id: 'intern-ninateka',
+        title: 'Dokumenty stanu wojennego – nagrania',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/szukaj?q=stan+wojenny+internowani+represje+1981',
+        source: 'Ninateka',
+        description: 'Archiwalne nagrania i dokumenty filmowe dotyczące stanu wojennego i internowania',
+      },
+    ],
+    relatedIds: ['stan-wojenny', 'solidarnosc', 'walesa', 'kuron', 'michnik'],
+  },
+  {
+    id: 'ziemie-odzyskane',
+    title: 'Ziemie Odzyskane',
+    category: 'polityka',
+    shortDesc: 'Powojenne przesiedlenia i polska kolonizacja dawnych terenów niemieckich na zachodzie i północy Polski.',
+    content: `## Ziemie Odzyskane
+
+„Ziemie Odzyskane" – tak komunistyczna propaganda nazywała dawne tereny wschodnioniemieckie włączone do Polski po II wojnie światowej: Śląsk, Pomorze Zachodnie, Warmię, Mazury i ziemię lubuską. Nazwa miała sugerować powrót do słowiańskich korzeni – choć przez wieki były to kraje w znacznej mierze zamieszkałe przez Niemców.
+
+### Decyzja w Poczdamie
+
+Na konferencji poczdamskiej (1945) wielkie mocarstwa zadecydowały o nowym kształcie Europy. Polska straciła Kresy Wschodnie (Lwów, Wilno, Grodno) na rzecz ZSRR i dostała w zamian rozległe tereny na zachodzie i północy, po Odrę i Nysę.
+
+Dla Stalina było to rozwiązanie pragmatyczne: Polska przesunięta na zachód była silniej zależna od sowieckiej gwarancji bezpieczeństwa wobec potencjalnych roszczeń niemieckich.
+
+### Niemcy – wypędzenia
+
+Tereny te zamieszkiwało ok. 12 milionów Niemców – cywilów, których los stał się jedną z największych tragedii II wojny światowej z perspektywy europejskiej. Część uciekła przed Armią Czerwoną jeszcze w trakcie działań wojennych. Resztę systematycznie wysiedlano w 1945–1948 roku.
+
+Wypędzenia przeprowadzano z różnym stopniem brutalności. Niemców wyrzucano z domów, często z minimalnym dobytkiem. Wiele osób zginęło z zimna, głodu i przemocy. Szacuje się, że całkowita liczba ofiar wyniosła kilkaset tysięcy.
+
+### Polscy osadnicy
+
+Na opuszczone tereny napłynęli polscy osadnicy – w dużej mierze przymusowo repatriowani z Kresów (Lwów, Wilno), a także ochotnicy z Mazowsza, Galicji i innych regionów. Repatrianci z Kresów musieli opuścić swoje rodzinne miasta i przenieść się na obce sobie ziemie.
+
+Proces zasiedlania był trudny. „Ziemie Odzyskane" były zniszczone wojną lub opuszczone. Infrastruktura wymagała odbudowy. Nowi mieszkańcy często trafiali do domów ze śladami poprzednich właścicieli: meblami, fotografiami, dokumentami.
+
+### Tożsamość i pamięć
+
+Przez dziesięciolecia PRL budował narrację „odwiecznej polskości" tych ziem – wskazując na słowiańskie nazwy geograficzne, piastowskie korzenie, pruskie ślady slawizacji. Oficjalnie nie było miejsca na pamięć o Niemcach, którzy tu żyli.
+
+Prawdziwa historia tych ziem – wielokulturowa, złożona, pełna traumy – zaczęła wychodzić na jaw dopiero po 1989 roku. Dziś badacze zajmują się historią Breslau/Wrocławia, Stettin/Szczecina, Königsberg/Królewca z uwzględnieniem wszystkich warstw.
+
+### Znaczenie geopolityczne
+
+Zachodnia granica na Odrze i Nysie była przez dekady kontestowana przez RFN. Ostateczne uznanie jej nastąpiło dopiero w 1990 roku – Traktatem 2+4 między dwoma Niemcami a czterema mocarstwami, a następnie polsko-niemieckim traktatem granicznym.`,
+    resources: [
+      {
+        id: 'ziemie-polona',
+        title: 'Ziemie Odzyskane – prasa i dokumenty (Polona)',
+        type: 'dokument',
+        url: 'https://polona.pl/search/?query=Ziemie+Odzyskane+osadnicy+repatrianci',
+        source: 'Polona',
+        description: 'Zdigitalizowane dokumenty i prasa dotyczące zasiedlania Ziem Odzyskanych',
+      },
+      {
+        id: 'ziemie-ipn',
+        title: 'Wypędzenia i przesiedlenia – dokumenty IPN',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=przesiedlenia+Niemcy+Ziemie+Odzyskane',
+        source: 'IPN Inwentarz',
+        description: 'Materiały archiwalne dotyczące wysiedleń Niemców i zasiedlania Ziem Zachodnich',
+      },
+      {
+        id: 'ziemie-szukaj',
+        title: 'Archiwalia dotyczące Ziem Zachodnich',
+        type: 'akt',
+        url: 'https://szukajwarchiwach.gov.pl/szukaj?q=Ziemie+Zachodnie+i+P%C3%B3%C5%82nocne',
+        source: 'Szukaj w Archiwach',
+        description: 'Archiwalia dotyczące administracji i zasiedlania Ziem Zachodnich po 1945 roku',
+      },
+    ],
+    relatedIds: ['jalta', 'deportacje', 'akcja-wisla', 'manifest-pkwn', 'bierut'],
+  },
+  {
+    id: 'obozy-pracy',
+    title: 'Obozy pracy i więzienia polityczne',
+    category: 'represje',
+    shortDesc: 'Sieć obozów pracy i więzień politycznych w Polsce lat 1944–1956 – sowiecka metoda eliminacji opozycji.',
+    content: `## Obozy pracy i więzienia polityczne (1944–1956)
+
+W pierwszym dziesięcioleciu PRL (1944–1956) reżim komunistyczny stworzył rozległy system represji, obejmujący obozy pracy, więzienia polityczne i obozy filtracyjne. System ten pochłonął setki tysięcy ofiar – żołnierzy AK, działaczy PSL, duchownych, przedsiębiorców, intelektualistów i zwykłych obywateli podejrzanych o wrogość wobec władzy.
+
+### Geneza systemu
+
+System obozów przejęto bezpośrednio z radzieckiego modelu NKWD. Pierwsze obozy dla Niemców i Polaków oskarżonych o kolaborację z Niemcami lub o przynależność do AK i NSZ powstawały już w 1944 roku, jeszcze w trakcie walk.
+
+Centralne Obozy Pracy (COP) funkcjonowały pod nadzorem Ministerstwa Bezpieczeństwa Publicznego. Więźniów zmuszano do pracy fizycznej w kopalniach, fabrykach, przy budowach.
+
+### Największe obozy i więzienia
+
+**Jaworzno** – największy obóz pracy w Polsce. W 1945–1949 roku przetrzymywano tam ok. 24 000 osób, w tym żołnierzy AK, Ukraińców deportowanych z Akcji Wisła, działaczy PSL, a nawet Niemców z Górnego Śląska. Warunki były nieludzkie: wyczerpująca praca w kopalni, głód, bicie.
+
+**Więzienie mokotowskie (Rakowiecka)** w Warszawie – miejsce kaźni dla skazanych na śmierć. Tu wykonano wyroki m.in. na Witoldzie Pileckim, Emilu Fieldorfie „Nilu" i setkach innych żołnierzy AK.
+
+**Więzienie we Wronkach** i **w Rawiczu** – dla długoterminowych więźniów politycznych.
+
+**Rembertów, Potulice, Łambinowice** – obozy filtracyjne dla Niemców i Polaków podejrzanych.
+
+### Metody śledcze UB
+
+Urząd Bezpieczeństwa (UB) stosował radzieckie metody śledcze: psychologiczny i fizyczny terror, pozbawienie snu, głodzenie, bicie, symulowanie egzekucji. Celem było wymuszenie przyznania się do winy i zeznań obciążających innych.
+
+Procesy polityczne były z góry ustawione – wyrok zapadał przed rozprawą. Obrońcy z urzędu byli marionetkami systemu.
+
+### Ofiary
+
+Szacuje się, że w polskich więzieniach i obozach lat 1944–1956 zginęło ok. 5 000–8 000 osób (wyroki śmierci), natomiast przez obozy pracy przeszło kilkadziesiąt tysięcy. Tysiące więcej zginęło w wyniku warunków lub egzekucji w terenie.
+
+Ofiarami systemu byli też żołnierze wyklęci – wśród nich Zygmunt Szendzielarz „Łupaszka", Józef Kuraś „Ogień", Hieronim Dekutowski „Zapora".
+
+### Odwilż i rehabilitacje
+
+Po 1956 roku, w wyniku odwilży październikowej, część więźniów politycznych zwolniono i zrehabilitowano. Ale prawdziwe rozliczenie ze zbrodniami stalinizmu nastąpiło dopiero po 1989 roku i jest procesem, który do dziś nie jest zakończony.`,
+    resources: [
+      {
+        id: 'obozy-ipn',
+        title: 'Obozy pracy i więzienia polityczne – IPN',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=obozy+pracy+wi%C4%99zienia+polityczne+UB',
+        source: 'IPN Inwentarz',
+        description: 'Dokumenty dotyczące sieci obozów pracy i więzień politycznych w zasobach IPN',
+      },
+      {
+        id: 'obozy-ph',
+        title: 'Obozy pracy i represje stalinizmu w Polsce',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=obozy+pracy+wi%C4%99zienia+polityczne+UB+stalinizm',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o systemie obozów i więzień politycznych w Polsce 1944–1956',
+      },
+      {
+        id: 'obozy-szukaj',
+        title: 'Akta obozów pracy w archiwach',
+        type: 'akt',
+        url: 'https://szukajwarchiwach.gov.pl/szukaj?q=obozy+pracy+Jaworznie+wi%C4%99%C5%BAniowie',
+        source: 'Szukaj w Archiwach',
+        description: 'Archiwalia dotyczące Centralnych Obozów Pracy i więzień politycznych PRL',
+      },
+    ],
+    relatedIds: ['zbrodnie-stalinizmu', 'ub', 'represje-polityczne', 'zolnierze-wykletci', 'pilecki'],
+  },
+  {
+    id: 'mikolajczyk',
+    title: 'Stanisław Mikołajczyk i PSL',
+    category: 'polityka',
+    shortDesc: 'Premier rządu londyńskiego, lider PSL – ostatni demokratyczny opór przed komunizacją Polski.',
+    content: `## Stanisław Mikołajczyk i PSL (1944–1947)
+
+Stanisław Mikołajczyk (1901–1966) był liderem Polskiego Stronnictwa Ludowego i ostatnim poważnym politykiem, który próbował ocalić demokratyczny charakter powojennej Polski. Jego klęska była symbolem triumfu komunizmu nad demokracją.
+
+### Premier rządu na uchodźstwie
+
+Mikołajczyk piastował urząd Premiera Rządu Polskiego na Uchodźstwie (1943–1944). Uczestniczył w konferencji teherańskiej, gdzie Roosevelt i Churchill zaczęli ustępować Stalinowi. Próbował bezskutecznie bronić polskich interesów – polskiego Lwowa i Wilna.
+
+W 1944 roku przybył do Moskwy, by negocjować z komunistycznym PKWN. Stalin wywarł presję; konferencja teherańska przesądziła o granicach. Mikołajczyk podał się do dymisji ze stanowiska premiera w Londynie w proteście.
+
+### Powrót do kraju
+
+W 1945 roku Mikołajczyk zdecydował się wrócić do Polski – wbrew radom wielu emigrantów. Liczył, że w nowym, pozornie koalicyjnym rządzie Tymczasowym uda się mu zachować polityczną niezależność PSL i doprowadzić do wolnych wyborów.
+
+Objął stanowisko wicepremiera. Odbudował PSL jako masową partię – w szczytowym momencie liczyła ponad 600 000 członków, głównie chłopów.
+
+### Sfałszowane referendum i wybory
+
+W 1946 roku Mikołajczyk wezwał do głosowania „nie" w referendum 3xTAK – protesty oznaczały sprzeciw wobec komunistycznej konstytucji. Wyniki sfałszowano: PSL-owski sprzeciw przemieniono w wynik prorządowy.
+
+Sfałszowane wybory w 1947 roku przypieczętowały koniec: PSL ogłoszono winnym spiskowania z zagranicą, działaczy aresztowano. Mikołajczyk uciekł z Polski w październiku 1947 roku, prawdopodobnie tuż przed aresztem.
+
+### Represje wobec PSL
+
+Tysiące działaczy PSL zostało aresztowanych, skazanych na wieloletnie więzienie, a część zamordowana. Szacuje się, że ok. 100–200 działaczy PSL zapłaciło życiem za opór wobec komunizacji.
+
+Bestie systemu – UB i milicja – niszczyły PSL metodycznie: aresztowania, wymuszanie wyrzeczeń, fizyczne likwidacje. Komitet Centralny PSL w wielu powiatach był dosłownie rozbijany przez areszty.
+
+### Emigracja i zapomnienie
+
+Na emigracji Mikołajczyk kontynuował działalność polityczną. Wydał wspomnienia „The Rape of Poland" (1948) – świadectwo fałszowania demokracji przez komunistów. Książka była ważnym dokumentem dla Zachodu.
+
+W PRL Mikołajczyk był postacią przemilczaną lub demonizowaną. Oficjalna historia PSL z nim nie istniała. Dopiero po 1989 roku odzyskał należne mu miejsce w historii – jako polityk, który do końca walczył o demokratyczną Polskę.`,
+    resources: [
+      {
+        id: 'mikolajczyk-ipn',
+        title: 'Mikołajczyk i PSL – dokumenty IPN',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=Miko%C5%82ajczyk+PSL+wybory+1947',
+        source: 'IPN Inwentarz',
+        description: 'Dokumenty dotyczące Mikołajczyka, PSL i sfałszowanych wyborów 1947 roku',
+      },
+      {
+        id: 'mikolajczyk-ph',
+        title: 'Mikołajczyk i walka PSL o demokrację',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=Miko%C5%82ajczyk+PSL+referendum+wybory+1947',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o Mikołajczyku i roli PSL w walce o demokratyczną Polskę',
+      },
+      {
+        id: 'mikolajczyk-polona',
+        title: 'Prasa i dokumenty PSL (Polona)',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=PSL+Miko%C5%82ajczyk+Stronnictwo+Ludowe',
+        source: 'Polona',
+        description: 'Zdigitalizowane dokumenty i prasa Polskiego Stronnictwa Ludowego',
+      },
+    ],
+    relatedIds: ['wybory-prl', 'referendum-1946', 'manifest-pkwn', 'bierut', 'ub'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -9710,4 +10316,12 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1981, event: 'Wajda zdobywa Złotą Palmę za „Człowieka z żelaza"', category: 'kultura', entryId: 'wajda' },
   { year: 1988, event: 'Kieślowski nakręca „Dekalog" – arcydzieło kina telewizyjnego', category: 'kultura', entryId: 'kieslowski' },
   { year: 1980, event: 'Czesław Miłosz laureatem literackiej Nagrody Nobla', category: 'kultura', entryId: 'milosz' },
+  { year: 1996, event: 'Wisława Szymborska laureatką Nagrody Nobla w dziedzinie literatury', category: 'kultura', entryId: 'szymborska' },
+  { year: 1961, event: 'Stanisław Lem wydaje „Solaris" – arcydzieło literatury SF', category: 'kultura', entryId: 'lem' },
+  { year: 1946, event: 'Sfałszowane referendum 3xTAK – PSL Mikołajczyka pokonane', category: 'polityka', entryId: 'mikolajczyk' },
+  { year: 1947, event: 'Ucieczka Mikołajczyka z Polski – koniec legalnej opozycji', category: 'polityka', entryId: 'mikolajczyk' },
+  { year: 1981, event: 'Nocna operacja „Jodła" – 10 000 działaczy Solidarności internowanych', category: 'represje', entryId: 'internowanie' },
+  { year: 1945, event: 'Wysiedlenia Niemców z Ziem Odzyskanych – 12 mln wypędzonych', category: 'polityka', entryId: 'ziemie-odzyskane' },
+  { year: 1946, event: 'Obóz w Jaworznie – 24 000 więźniów politycznych w szczytowym okresie', category: 'represje', entryId: 'obozy-pracy' },
+  { year: 1973, event: 'Produkcja Fiata 126p „Maluch" – ikona motoryzacji PRL', category: 'społeczeństwo', entryId: 'motoryzacja-prl' },
 ];
