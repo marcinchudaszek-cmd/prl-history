@@ -26,10 +26,11 @@ export interface Entry {
   title: string;
   subtitle?: string;
   category: Category;
-  tags: string[];
+  tags?: string[];
   yearStart?: number;
   yearEnd?: number;
-  summary: string;
+  summary?: string;
+  shortDesc?: string;
   content: string;
   resources: Resource[];
   relatedIds: string[];

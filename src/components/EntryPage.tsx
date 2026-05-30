@@ -129,12 +129,12 @@ export default function EntryPage({ entryId, onNavigate }: EntryPageProps) {
 
             {/* Summary */}
             <div className="bg-red-50 border-l-4 border-red-600 p-4 rounded-r-lg mb-6">
-              <p className="text-sm text-gray-700 leading-relaxed italic">{entry.summary}</p>
+              <p className="text-sm text-gray-700 leading-relaxed italic">{entry.summary || entry.shortDesc}</p>
             </div>
 
             {/* Tags */}
             <div className="flex flex-wrap gap-2">
-              {entry.tags.map(tag => (
+              {(entry.tags || []).map(tag => (
                 <span key={tag} className="text-xs bg-stone-100 text-stone-600 px-3 py-1 rounded-full border border-stone-200">
                   #{tag}
                 </span>

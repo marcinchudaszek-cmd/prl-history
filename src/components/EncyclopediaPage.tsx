@@ -25,8 +25,8 @@ export default function EncyclopediaPage({
       const q = search.toLowerCase();
       result = result.filter(e =>
         e.title.toLowerCase().includes(q) ||
-        e.summary.toLowerCase().includes(q) ||
-        e.tags.some(t => t.toLowerCase().includes(q)) ||
+        (e.summary || e.shortDesc || '').toLowerCase().includes(q) ||
+        (e.tags || []).some(t => t.toLowerCase().includes(q)) ||
         e.content.toLowerCase().includes(q)
       );
     }
@@ -173,11 +173,11 @@ export default function EncyclopediaPage({
                   {entry.subtitle && (
                     <p className="text-xs text-gray-500 italic mb-2">{entry.subtitle}</p>
                   )}
-                  <p className="text-xs text-gray-600 line-clamp-3 flex-1">{entry.summary}</p>
+                  <p className="text-xs text-gray-600 line-clamp-3 flex-1">{entry.summary || entry.shortDesc}</p>
 
                   <div className="mt-4 pt-3 border-t border-stone-100 flex items-center justify-between">
                     <div className="flex gap-1 flex-wrap">
-                      {entry.tags.slice(0, 2).map(tag => (
+                      {(entry.tags || []).slice(0, 2).map(tag => (
                         <span key={tag} className="text-xs bg-stone-100 text-stone-500 px-1.5 py-0.5 rounded">
                           #{tag}
                         </span>

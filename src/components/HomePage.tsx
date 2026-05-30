@@ -143,11 +143,11 @@ export default function HomePage({ onNavigate, onNavigateWithCategory }: HomePag
                   {entry.subtitle && (
                     <p className="text-sm text-gray-500 mb-3 italic">{entry.subtitle}</p>
                   )}
-                  <p className="text-sm text-gray-600 line-clamp-3">{entry.summary}</p>
+                  <p className="text-sm text-gray-600 line-clamp-3">{entry.summary || entry.shortDesc}</p>
 
                   <div className="flex items-center justify-between mt-4 pt-4 border-t border-stone-100">
                     <div className="flex gap-2 flex-wrap">
-                      {entry.tags.slice(0, 3).map(tag => (
+                      {(entry.tags || []).slice(0, 3).map(tag => (
                         <span key={tag} className="text-xs bg-stone-100 text-stone-600 px-2 py-0.5 rounded">
                           {tag}
                         </span>
