@@ -10899,6 +10899,474 @@ Pytanie o rozliczenie sprawców sądowych zbrodni komunistycznych pozostaje aktu
     ],
     relatedIds: ['ub', 'represje-polityczne', 'zbrodnie-stalinizmu', 'obozy-pracy', 'pilecki'],
   },
+  {
+    id: 'walentynowicz',
+    title: 'Anna Walentynowicz',
+    category: 'osoby',
+    shortDesc: 'Suwnicowa z Gdańska – jej zwolnienie wywołało strajk sierpniowy, który zmienił Polskę i świat.',
+    content: `## Anna Walentynowicz (1929–2010)
+
+Anna Walentynowicz była suwnicową ze Stoczni Gdańskiej im. Lenina i jedną z najważniejszych postaci polskiej opozycji robotniczej. Jej zwolnienie z pracy w sierpniu 1980 roku – pięć miesięcy przed emeryturą – stało się bezpośrednią iskrą, która wywołała Sierpień 1980 i narodziny Solidarności.
+
+### Od sieroty do przodownika pracy
+
+Walentynowicz urodziła się na Wołyniu. Sierota wojenna, trafiła do Gdańska po wysiedleniach. Pracowała w stoczni od 1950 roku – najpierw spawaczka, potem suwnicowa. W latach 50. była przodownikiem pracy, odznaczaną i chwaloną przez partię.
+
+Z czasem oczy się otworzyły. Widziała niesprawiedliwość, nierówności, kłamstwo propagandy. W Grudniu 1970 roku stała przy bramie stoczni i patrzyła, jak strzelają do robotników.
+
+### Działalność opozycyjna
+
+W drugiej połowie lat 70. Walentynowicz zaangażowała się w Wolne Związki Zawodowe Wybrzeża (WZZ) – i od razu stała się celem szykan. Zwolnienia, ponowne przyjęcia, ciągłe konflikty z kierownictwem. SB inwigilowała ją intensywnie.
+
+Kolportowała wydawnictwa bezdebitowe, dokumentowała naruszenia praw pracowników, nawiązała kontakty z KOR-em i Lechem Wałęsą.
+
+### Iskra strajku
+
+7 sierpnia 1980 roku, pięć miesięcy przed emeryturą, dyrekcja stoczni zwolniła ją z pracy – oficjalnie za kolekcjonowanie świec z tablicy upamiętniającej ofiary Grudnia 1970. W rzeczywistości za działalność opozycyjną.
+
+14 sierpnia 1980 roku stoczniowcy zaczęli strajk – przede wszystkim z żądaniem jej przywrócenia do pracy. Walentynowicz wróciła do stoczni – przywieziono ją, bo była w domu – i stanęła pośród strajkujących. Tak zaczął się Sierpień 1980.
+
+### Solidarność i marginalizacja
+
+Walentynowicz była jedną z negocjatorek Porozumień Gdańskich. Ale w Solidarności szybko zaczęła być marginalizowana – przez Lecha Wałęsę i jego otoczenie. Uważała, że kierownictwo idzie na zbyt duże kompromisy z władzą.
+
+W stanie wojennym była internowana. Po wyjściu na wolność kontynuowała działalność, coraz bardziej na marginesie głównego nurtu Solidarności.
+
+### Ostatnie lata i tragedia
+
+Anna Walentynowicz zginęła 10 kwietnia 2010 roku w katastrofie lotniczej pod Smoleńskiem. Leciała na uroczystości upamiętnienia ofiar zbrodni katyńskiej. Jej śmierć – razem z prezydentem Lechem Kaczyńskim i 94 innymi osobami – była jedną z największych tragedii III Rzeczypospolitej.
+
+Walentynowicz do końca życia czuła, że jest niedoceniana. Historia oddaje jej sprawiedliwość – bez jej zwolnienia i bez strajku sierpniowego, który ono wywołało, historia Polski potoczyłaby się inaczej.`,
+    resources: [
+      {
+        id: 'walentynowicz-ecs',
+        title: 'Anna Walentynowicz – archiwum ECS',
+        type: 'dokument',
+        url: 'https://ecs.gda.pl/title/cyfrowe-archiwum-solidarnosci',
+        source: 'Europejskie Centrum Solidarności',
+        description: 'Dokumenty i relacje dotyczące roli Anny Walentynowicz w Sierpniu 1980',
+      },
+      {
+        id: 'walentynowicz-ipn',
+        title: 'Walentynowicz – teczki SB (IPN)',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=Walentynowicz+Anna+SB+inwigilacja',
+        source: 'IPN Inwentarz',
+        description: 'Dokumenty Służby Bezpieczeństwa dotyczące inwigilacji Anny Walentynowicz',
+      },
+      {
+        id: 'walentynowicz-ph',
+        title: 'Anna Walentynowicz – iskra Solidarności',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=Walentynowicz+Anna+stocznia+Solidarno%C5%9B%C4%87',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o roli Anny Walentynowicz w narodzinach Solidarności',
+      },
+    ],
+    relatedIds: ['sierpien-1980', 'stocznia-gdanska', 'walesa', 'solidarnosc', 'wzz'],
+  },
+  {
+    id: 'lodz-szkola-filmowa',
+    title: 'Łódź – szkoła filmowa i miasto kultury',
+    category: 'kultura',
+    shortDesc: 'PWSFTviT w Łodzi – najsłynniejsza szkoła filmowa Europy Środkowej, kuźnia talentów Polskiej Szkoły Filmowej.',
+    content: `## Łódź – szkoła filmowa i miasto kultury
+
+Łódź w czasach PRL była przemysłowym centrum włókienniczym, ale też miejscem, gdzie mieściła się jedna z najważniejszych szkół filmowych na świecie – Państwowa Wyższa Szkoła Filmowa, Telewizyjna i Teatralna (PWSFTviT). To stąd wyszli Wajda, Polański, Kieślowski, Zanussi – i to tu wyrobiły się całe pokolenia polskiego kina.
+
+### Powojenne miasto
+
+Łódź przypadkowo stała się stolicą kultury filmowej – ocalała relatywnie niezniszczona z II wojny, zatem to tu przeniesiono polskie instytucje filmowe. Film Polski, wytwórnia filmowa, szkoła – wszystko tu. Miasto włókniarzy stało się miastem kamery.
+
+Łódź miała też inną tożsamość – wielokulturowa, dawniej żydowska, w PRL robotnicza i czerwona. Fabryki łódzkie, strajki, trudne życie. „Ziemia obiecana" Reymonta – i Wajdy – dzieje się właśnie tutaj.
+
+### Szkoła Filmowa
+
+Państwowa Wyższa Szkoła Filmowa w Łodzi (od 1948 roku) jest jedną z najważniejszych uczelni filmowych na świecie. Jej absolwenci zdominowali polskie kino przez dekady.
+
+Wydział reżyserii: Wajda, Polański, Kieślowski, Żuławski, Zanussi. Wydział operatorski: Janusz Kamiński (który zdobył Oscara za zdjęcia do „Listy Schindlera" i filmów Spielberga). Wydział aktorski i scenariuszowy – równie imponujące biografie.
+
+Szkoła była miejscem, gdzie można było rozmawiać o filmie jako sztuce – i przemycać pytania, których nie wolno było zadawać wprost. Tradycja dokumentalna Kieślowskiego wyrosła tu na gruncie konkretnej poetyki obserwacji.
+
+### Kino się nie bało
+
+Łódzka szkoła filmowa produkowała etudes i filmy dyplomowe, które często były śmielsze niż pełnometrażowe produkcje. Na małym ekranie i krótkim metrażu można było więcej – mniejszy nadzór, mniejsze ryzyko.
+
+To tu Kieślowski nakręcił swoje pierwsze dokumenty. To tu Polański zrobił „Dwóch ludzi z szafą" – absurdalną, poetycką etiudę, która przyniosła mu międzynarodową uwagę.
+
+### Muzeum Kinematografii
+
+W Łodzi działa też Muzeum Kinematografii – w zabytkowym pałacu Scheiblera, pełne eksponatów z historii polskiego kina, plakatów filmowych (polska szkoła plakatu filmowego była osobnym fenomenem artystycznym) i dokumentów z historii łódzkiej szkoły.
+
+### Łódź po PRL
+
+Po 1989 roku Łódź przeżyła kryzys przemysłowy – zamknięte fabryki, bezrobocie, wyludnienie. Szkoła filmowa trwała i rozwijała się. Miasto zaczęło odbudowywać tożsamość kulturalną wokół kina, festiwali i rewitalizacji fabryk (Manufaktura). Łódź Design Festival, Off Festival – Łódź staje się miastem kreatywnym.`,
+    resources: [
+      {
+        id: 'lodz-ninateka',
+        title: 'Filmy Szkoły Łódzkiej – Ninateka',
+        type: 'film',
+        url: 'https://ninateka.pl/szukaj?q=%C5%81%C3%B3d%C5%BA+szko%C5%82a+filmowa+etiudy',
+        source: 'Ninateka',
+        description: 'Etiudy i filmy dyplomowe absolwentów łódzkiej szkoły filmowej',
+      },
+      {
+        id: 'lodz-polona',
+        title: 'Dokumenty Szkoły Filmowej w Łodzi (Polona)',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Szko%C5%82a+Filmowa+%C5%81%C3%B3d%C5%BA+PWSFTviT',
+        source: 'Polona',
+        description: 'Archiwalne materiały o Państwowej Wyższej Szkole Filmowej w Łodzi',
+      },
+      {
+        id: 'lodz-ph',
+        title: 'Łódź filmowa – szkoła i tradycja',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=%C5%82%C3%B3dzka+szko%C5%82a+filmowa+PRL+kino',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o szkole filmowej i łódzkiej tradycji kinematograficznej',
+      },
+    ],
+    relatedIds: ['polska-szkola-filmowa', 'kino-prl', 'kino-moralnego-niepokoju', 'wajda', 'kieslowski'],
+  },
+  {
+    id: 'muzyka-rockowa-prl',
+    title: 'Rock i muzyka młodzieżowa w PRL',
+    category: 'kultura',
+    shortDesc: 'Perfect, Lady Pank, Republika, Maanam – polska scena rockowa lat 80. jako wyraz buntu i wolności.',
+    content: `## Rock i muzyka młodzieżowa w PRL
+
+Polska scena rockowa lat 70. i 80. była jednym z najważniejszych zjawisk kulturalnych PRL – i jednocześnie przestrzenią autentycznej wolności artystycznej. Kapele takie jak Perfect, Lady Pank, Republika, Maanam, Dżem czy TSA tworzyły muzykę, która mówiła prawdę o rzeczywistości i dawała młodym ludziom poczucie własnej tożsamości.
+
+### Początki – beatlemania i twist
+
+Zachodni rock and roll dotarł do Polski w latach 50. za pośrednictwem radia – BBC, Głosu Ameryki, Radia Luksemburg. W 1957 roku polska młodzież tańczyła rock and rolla w kawiarniach; władze były zniesmaczone.
+
+Lata 60. przyniosły polskich naśladowców Beatlesów. Czerwone Gitary, Niebiesko-Czarni, Skaldowie – po polsku, z folk-rockowym odcieniem. Festiwal w Sopocie od 1961 roku był trampoliną dla polskich wykonawców i platformą dla kontaktów z zagranicą.
+
+### Lata 70. – Breakout, Dżem, SBB
+
+W latach 70. polska scena dojrzewała. **Breakout** Tadeusza Nalepy – blues-rock o autentycznym bólu, daleki od słodkości ówczesnej oficjalnej muzyki. **Dżem** z Rybnika – ciężki blues i rock, z Ryszardem Riedlem, tragicznym genialnym wokalistą. **SBB** (Silesian Blues Band) – jazz-rock, eksperyment, wirtuozeria.
+
+Cenzura miała problem z rockiem – zbyt głośny, zbyt angielski, zbyt niezrozumiały, by kontrolować każde słowo. To dawało wykonawcom pewien margines swobody.
+
+### Lata 80. – złoty wiek
+
+Lata 80. były złotym wiekiem polskiego rocka. W cieniu stanu wojennego i opresji wyrosła scena, która trafiała prosto do serc młodych Polaków.
+
+**Perfect** – „Chcemy być sobą" (1981) stało się hymnem pokolenia strajkującego w sierpniu. Zbigniew Hołdys i jego zespół łączyli pop z buntowniczym przesłaniem. „Autobiografia", „Nie płacz, Ewka" – klasyki.
+
+**Lady Pank** – Jan Borysewicz i Andrzej Mogielnicki, przeboje nowej fali: „Zawsze tam gdzie ty", „Minus zero". Elegancja i bunt.
+
+**Republika** – Grzegorz Ciechowski, „Tak, tak, to ja" i „Masakra" – post-punk z filozoficznym przesłaniem. Jeden z najinteligentniejszych zespołów polskiego rocka.
+
+**Maanam** – Kora i Marek Jackowski, „Boskie Buenos", „Nocny patrol" – nowa fala, erotyzm i wolność, totalnie niepokorni.
+
+**TSA** – heavy metal, „51°", „Biały krzyż" – gitarowy gniew.
+
+### Festiwale i JAROCIN
+
+Festiwal w Jarocinie był corocznym celebrowaniem wolności. Od 1980 roku miasto w Wielkopolsce na kilka dni zamieniało się w stolicę polskiego rocka i alternatywy. Punkowcy, metalowcy, nowa fala – wszyscy razem. Władze patrzyły z niepokojem, ale nie zakazały – chyba wolały mieć młodzież w jednym miejscu.
+
+Jarocin był też miejscem formowania się sceny punkowej – Lady Pank tam debiutowali, tam grały setki mniejszych kapel, tam wytworzył się etos alternatywnej Polski.
+
+### Rock i Solidarność
+
+Muzyka rockowa lat 80. nie była wprost polityczna, ale jej etos był opozycyjny. „Chcemy być sobą" to nie był manifest Solidarności, ale wszyscy wiedzieli, o co chodzi. Energia, bunt, autentyczność – kontrast z oficjalną kulturą partyjną.`,
+    resources: [
+      {
+        id: 'rock-ninateka',
+        title: 'Polski rock lat 80. – nagrania (Ninateka)',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/szukaj?q=Perfect+Lady+Pank+Republika+rock+PRL',
+        source: 'Ninateka',
+        description: 'Archiwalne nagrania, teledyski i koncerty polskich kapel rockowych z lat 70.–80.',
+      },
+      {
+        id: 'rock-polona',
+        title: 'Prasa muzyczna PRL (Polona)',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=rock+muzyka+m%C5%82odzie%C5%BCowa+PRL+Jarocin',
+        source: 'Polona',
+        description: 'Archiwalne numery pism muzycznych i artykuły o polskim rocku',
+      },
+      {
+        id: 'rock-ph',
+        title: 'Rock jako bunt w PRL',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=rock+muzyka+m%C5%82odzie%C5%BCowa+Jarocin+PRL+bunt',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o polskiej scenie rockowej jako zjawisku społecznym i kulturowym',
+      },
+    ],
+    relatedIds: ['kultura-prl', 'jazz-prl', 'dzieci-prl', 'cenzura-prl', 'propaganda-prl'],
+  },
+  {
+    id: 'kabaret-prl',
+    title: 'Kabaret i satyra w PRL',
+    category: 'kultura',
+    shortDesc: 'Piwnica pod Baranami, Dudek, STS – satyra jako jedyna dozwolona forma krytyki systemu.',
+    content: `## Kabaret i satyra w PRL
+
+Kabaret i satyra polityczna zajmowały w kulturze PRL szczególne miejsce – były jedyną formą publicznej krytyki systemu, którą władza tolerowała w pewnych granicach. Dobry satyryk potrafił powiedzieć to, o czym inni mogli tylko szeptać.
+
+### Tradycja i nowe warunki
+
+Polska tradycja kabaretowa sięga Młodej Polski i Zielonego Balonika (Kraków, 1905). PRL odziedziczyła tę tradycję i – niezamierzenie – stworzył dla niej idealne warunki: absurd codzienności, przepaść między propagandą a rzeczywistością, bezmyślność biurokracji. Komik miał z czego czerpać.
+
+### Piwnica pod Baranami
+
+Krakowski kabaret **Piwnica pod Baranami** (założona 1956 przez Piotra Skrzyneckiego) była legendą. Spotkanie artystów, poetów, muzyków – Marek Grechuta, Zbigniew Preisner (przed sławą), Zygmunt Konieczny, Leszek Długosz. Piwnica nie była kabaretetem politycznym wprost – ale jej duch wolności i oryginalności był niepokorny.
+
+Skrzynecki – konferansjer, improwizator, legenda Krakowa – tworzył nastrój absolutnej wolności wewnętrznej w komunie.
+
+### STS i kabaret studencki
+
+**Studencki Teatr Satyryków (STS)** w Warszawie był od 1954 roku centrum studenckiej satyry. Tu Agnieszka Osiecka pisała teksty, Jonasz Kofta śpiewał, Edward Dziewoński reżyserował. STS potrafił w stylu absurdystycznym komentować rzeczywistość PRL.
+
+Teatrzyki studenckie – Kalambur we Wrocławiu, Bim-Bom w Gdańsku – tworzyły sieć alternatywnej kultury.
+
+### Dudek i telewizja
+
+**Kabaret Dudek** (od 1965) był pierwszym kabaretetem, który trafił szeroko do telewizji i kin. Jan Pietrzak, Wiesław Gołas, Zdzisław Maklakiewicz – mistrzowie formy skeczowej. Dudek bawił miliony i jednocześnie przemycał coraz ostrzejszą satyrę. W latach 70. skecze o kolejkach, biurokracji i kłamstwie propagandy były odczytywane jako komentarz polityczny.
+
+Jan Pietrzak stawał się coraz bardziej zaangażowany – jego piosenka „Żeby Polska była Polską" stała się w 1980 roku nieformalnym hymnem Solidarności.
+
+### Grał każdy, kto umiał
+
+Satyra w PRL kwitła w każdym możliwym miejscu: teatrach studenckich, piwnicach, kawiarniach. Tekst kabaretowy mógł przejść przez cenzurę, jeśli był sprytnie napisany. Cenzorzy nie zawsze rozumieli aluzje – a gdy rozumieli, decyzja zależała od aktualnego klimatu politycznego.
+
+W stanie wojennym kabaret przycichł na chwilę – ale szybko wrócił, tym razem z jeszcze ostrzejszym zębem.
+
+### Kabaret po 1989
+
+Po 1989 roku scena kabaretowa rozkwitła. Kabaret Olgi Lipińskiej, potem „Ucho Prezesa", „Kabaret pod Wyrwigroszem" – satyra polityczna dostała do dyspozycji całe spektrum tematów. Paradoksalnie, stała się też mniej wywrotowa – bo nie musiała przemycać prawdy pod zasłoną humoru.`,
+    resources: [
+      {
+        id: 'kabaret-ninateka',
+        title: 'Kabaret PRL – nagrania archiwalne (Ninateka)',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/szukaj?q=kabaret+Dudek+STS+Piwnica+PRL+satyra',
+        source: 'Ninateka',
+        description: 'Archiwalne nagrania kabaretów i programów satyrycznych z ery PRL',
+      },
+      {
+        id: 'kabaret-polona',
+        title: 'Prasa satyryczna PRL – Szpilki (Polona)',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Szpilki+satyra+kabaret+PRL',
+        source: 'Polona',
+        description: 'Zdigitalizowane numery tygodnika satyrycznego „Szpilki" i prasy kabaretowej',
+      },
+      {
+        id: 'kabaret-ph',
+        title: 'Satyra jako broń w PRL',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=kabaret+satyra+PRL+Dudek+STS',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o roli kabaretu i satyry w kulturze PRL',
+      },
+    ],
+    relatedIds: ['kultura-prl', 'prasa-prl', 'cenzura-prl', 'teatr-prl', 'kino-prl'],
+  },
+  {
+    id: 'kolakowski',
+    title: 'Leszek Kołakowski',
+    category: 'osoby',
+    shortDesc: 'Filozof, autor „Głównych nurtów marksizmu" – od rewizjonizmu komunistycznego do krytyki totalitaryzmu.',
+    content: `## Leszek Kołakowski (1927–2009)
+
+Leszek Kołakowski był jednym z najwybitniejszych polskich filozofów XX wieku. Jego intelektualna droga – od marksistowskiego rewizjonizmu przez rozczarowanie do fundamentalnej krytyki komunizmu i totalitaryzmu – jest symbolem transformacji całego pokolenia środkowoeuropejskich intelektualistów.
+
+### Rewizjonista
+
+Kołakowski w młodości był marksistą – i to szczerym. Wierzył, że humanistyczny marksizm może być podstawą sprawiedliwego społeczeństwa. W latach 50. publikował w duchu rewizjonizmu: próbował oczyścić marksizm z dogmatyzmu stalinowskiego i przywrócić mu filozoficzną głębię.
+
+Jego eseje z tego okresu, zebrane w tomie „Szkice o filozofii katolickiej" (1955) i „Jednostka i nieskończoność" (1958), były błyskotliwą analizą filozofii religii – ale też próbą znalezienia w humanizmie filozoficznego gruntu.
+
+### Wykluczenie z Partii
+
+Referat wygłoszony 21 października 1966 roku na Uniwersytecie Warszawskim – w dziesiątą rocznicę Października 1956 – stał się jego skokiem przez most. Kołakowski skrytykował rządy Gomułki jako zaprzeczenie październikowych obietnic. Wyrzucono go z PZPR.
+
+Marzec 1968 – gdy studenci wychowani m.in. na jego ideach protestowali, a partia ich tłumiła – był kolejnym przełomem. Kołakowski popierał protestujących. Po 1968 roku nie mógł wykładać na Uniwersytecie Warszawskim.
+
+### Emigracja i „Główne nurty marksizmu"
+
+W 1968 roku Kołakowski wyjechał z Polski. Wykładał na McGill (Kanada), Berkeley i Oksfordzie. Napisał swoje opus magnum: trzytomowe „Główne nurty marksizmu" (1976–1978) – pomnikową krytyczną historię myśli marksistowskiej. Pokazał, że marksizm prowadzi nieuchronnie do totalitaryzmu – nie przez przypadek, ale przez wewnętrzną logikę systemu.
+
+Książka była zakazana w PRL, przemycana jako drugi obieg. Na Zachodzie stała się fundamentalną pracą akademicką.
+
+### Filozofia religii i „mini-wykłady"
+
+Kołakowski w późniejszym życiu coraz więcej pisał o filozofii religii, micie i nieracjonalnych podstawach kultury. „Jeśli Boga nie ma..." (1982) – parafrazując Dostojewskiego, Kołakowski argumentował, że bez sacrum nie ma etyki.
+
+Jego eseje – ostre, eleganckie, pełne humoru i filozoficznej precyzji – były czytane chętnie przez niespecjalistów. „Mini-wykłady o maxi-sprawach" były bestselerem.
+
+### Powrót i ostatnie lata
+
+Kołakowski odwiedzał Polskę po 1989 roku. Był uhonorowany wieloma nagrodami, w tym Nagrodą Kluge (2003) – "humanistyczny odpowiednik Nobla". Zmarł w Oksfordzie w 2009 roku.`,
+    resources: [
+      {
+        id: 'kolakowski-polona',
+        title: 'Kołakowski – dzieła w zasobach Polony',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Ko%C5%82akowski+Leszek+marksizm+filozofia',
+        source: 'Polona',
+        description: 'Zdigitalizowane publikacje i artykuły filozoficzne Leszka Kołakowskiego',
+      },
+      {
+        id: 'kolakowski-ipn',
+        title: 'Kołakowski – inwigilacja SB',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=Ko%C5%82akowski+Leszek+SB+inwigilacja',
+        source: 'IPN Inwentarz',
+        description: 'Dokumenty dotyczące inwigilacji Leszka Kołakowskiego przez Służbę Bezpieczeństwa',
+      },
+      {
+        id: 'kolakowski-ph',
+        title: 'Kołakowski – od rewizjonizmu do krytyki',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=Ko%C5%82akowski+Leszek+marksizm+rewizjonizm+filozofia',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o drodze intelektualnej Leszka Kołakowskiego',
+      },
+    ],
+    relatedIds: ['literatura-prl', 'marzec-1968', 'michnik', 'drugi-obieg', 'milosz'],
+  },
+  {
+    id: 'nzs',
+    title: 'NZS – Niezależne Zrzeszenie Studentów',
+    category: 'opozycja',
+    shortDesc: 'Studencki ruch niezależny, zarejestrowany w 1980 roku – pierwsza legalna niezależna organizacja studencka w bloku wschodnim.',
+    content: `## NZS – Niezależne Zrzeszenie Studentów
+
+Niezależne Zrzeszenie Studentów (NZS) było pierwszą legalną niezależną organizacją studencką w całym bloku wschodnim – zarejestrowaną we wrześniu 1980 roku, kilka tygodni po Solidarności. Jej powstanie było wyrazem tego samego ducha Sierpnia, który ogarnął całe polskie społeczeństwo.
+
+### Narodziny
+
+Po Sierpniu 1980 roku fala wolnościowych organizacji ogarnęła Polskę. Studenci – inspirowani Solidarnością i środowiskiem KOR – zaczęli tworzyć własne, niezależne struktury. We wrześniu 1980 roku zarejestrowali NZS jako ogólnopolską federację.
+
+NZS był organizacją pluralistyczną: od lewicy do prawicy, od katolików do liberałów. Łączyło ich jedno – odrzucenie SZSP (Socjalistycznego Związku Studentów Polskich), czyli partyjnej przybudówki na uczelniach.
+
+### Program i działalność
+
+NZS walczył o: autonomię uczelni, wolność badań i nauczania, zniesienie obowiązkowego marksizmu-leninizmu, niezależny samorząd studencki. To były żądania rewolucyjne w warunkach PRL.
+
+Na uczelniach zaczęły powstawać koła NZS, gazety studenckie poza cenzurą, seminaria i wykłady z historii prawdziwej (o Katyniu, o 1939 roku, o AK). Studenci organizowali spotkania z relegowanymi profesorami.
+
+### Stan wojenny – delegalizacja
+
+13 grudnia 1981 roku NZS – razem z Solidarnością – zostało zdelegalizowane. Działacze byli internowani lub aresztowani. Niektórzy wyjechali za granicę.
+
+Jednak NZS przetrwał w podziemiu. Konspiracyjne struktury kontynuowały działalność: wydawnictwa, seminaria, kontakty z zagranicznymi organizacjami studenckimi. „Podziemny NZS" był elementem szerszej infrastruktury oporu.
+
+### Strajki 1988 i reaktywacja
+
+W 1988 roku, w czasie strajków w maju i sierpniu, NZS aktywnie uczestniczył w proteście. Władze zaczęły rozmawiać. W 1989 roku NZS został ponownie legalnie zarejestrowany.
+
+W obradach Okrągłego Stołu brała udział delegacja NZS – organizacja miała swój wkład w kształtowanie nowej umowy społecznej.
+
+### Znaczenie
+
+NZS był dowodem, że wolnościowy impuls Solidarności dosięgnął całego społeczeństwa – nie tylko robotników, ale też studentów, nauczycieli, intelektualistów. Był też kuźnią kadr przyszłej demokratycznej Polski: wielu polityków III RP swoją drogę zaczynało w NZS.`,
+    resources: [
+      {
+        id: 'nzs-ipn',
+        title: 'NZS – dokumenty IPN',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/searchInTree?search=NZS+Niezale%C5%BCne+Zrzeszenie+Student%C3%B3w',
+        source: 'IPN Inwentarz',
+        description: 'Dokumenty dotyczące NZS, jego struktur i delegalizacji w stanie wojennym',
+      },
+      {
+        id: 'nzs-ph',
+        title: 'NZS – studencka opozycja w PRL',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=NZS+studenci+niezale%C5%BCni+1980+opozycja',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o Niezależnym Zrzeszeniu Studentów',
+      },
+      {
+        id: 'nzs-ecs',
+        title: 'Dokumenty NZS – archiwum Solidarności',
+        type: 'dokument',
+        url: 'https://ecs.gda.pl/title/cyfrowe-archiwum-solidarnosci',
+        source: 'Europejskie Centrum Solidarności',
+        description: 'Dokumenty związane z ruchem studenckim i NZS w archiwum ECS',
+      },
+    ],
+    relatedIds: ['solidarnosc', 'marzec-1968', 'kor', 'stan-wojenny', 'okragly-stol'],
+  },
+  {
+    id: 'plakat-prl',
+    title: 'Polska szkoła plakatu',
+    category: 'kultura',
+    shortDesc: 'Światowej sławy polska szkoła plakatu – graficy PRL stworzyli unikatowy styl artystyczny uznany za jeden z najważniejszych w historii plakatu.',
+    content: `## Polska szkoła plakatu
+
+Polska szkoła plakatu to jedno z najbardziej paradoksalnych zjawisk kulturalnych PRL – w kraju komunistycznym, gdzie propaganda miała być prosta i czytelna, powstała jedna z najśmielszych i najbardziej awangardowych szkół grafiki użytkowej na świecie.
+
+### Geneza
+
+Po II wojnie światowej polskie środowisko graficzne zaczęło szukać własnej drogi. Oficjalnie państwo potrzebowało plakatów – filmowych, teatralnych, cyrkowych, politycznych. Zamawiano je w specjalistycznych wydawnictwach i agencjach reklamowych (Ruch, WAG – Wydawnictwo Artystyczno-Graficzne).
+
+Paradoksalnie, plakat filmowy i teatralny – bo do tych tematów komisarze ideologiczni nie przywiązywali aż tak dużej wagi – stał się przestrzenią eksperymentu artystycznego.
+
+### Mistrzowie
+
+**Henryk Tomaszewski** (1914–2005) – ojciec polskiej szkoły plakatu. Jego plakaty łączą malarskość, wyrazisty kontur i poetycki skrót myślowy. Zdobywał nagrody na całym świecie.
+
+**Waldemar Świerzy** – wirtuoz koloru i formy, twórca plakatu jazzowego (słynne plakaty Jazz Jamboree) i filmowego. Jego plakaty do filmów Felliniego i Bergmana są arcydziełami.
+
+**Jan Lenica** – współtwórca animacji eksperymentalnej i plakatów absurdystycznych, emigrant w Niemczech.
+
+**Roman Cieślewicz** – emigrant we Francji, pracował dla „Vogue" i międzynarodowych pism.
+
+**Franciszek Starowieyski** – mroczny, oniryczny, ekspresjonistyczny. Jego plakaty teatralne i filmowe szokują do dziś.
+
+### Styl i cechy
+
+Polska szkoła plakatu charakteryzuje się: poetyckością i wieloznacznością zamiast literalności, silnym akcentem malarskim, ironią, surrealizmem i metaforą, odwagą formalną.
+
+Był to manifest – i dowód – że w systemie komunistycznym artysta może zachować autonomię, jeśli trafi na temat wystarczająco niszowy lub prestiżowy dla władz.
+
+### Muzeum Plakatu w Wilanowie
+
+Od 1968 roku Muzeum Plakatu w Wilanowie (oddział Muzeum Narodowego w Warszawie) gromadzi i wystawia plakaty polskich artystów. Jest to jedyne muzeum poświęcone wyłącznie plakatowi w Europie. Kolekcja liczy dziesiątki tysięcy obiektów.
+
+Festiwal Plakatu Filmowego w Łagowie, Międzynarodowe Biennale Plakatu – to wydarzenia, które utrwaliły polską pozycję w światowej grafice.
+
+### Wpływ na kulturę
+
+Polska szkoła plakatu dowodzi, że nawet w systemie totalitarnym twórczość może wyrwać się poza schemat, jeśli artysta ma odwagę i umiejętności. Plakaty do filmów Wajdy, Kieślowskiego, do Jazz Jamboree – były oknem na inną Polskę: intelektualną, artystyczną, odważną.`,
+    resources: [
+      {
+        id: 'plakat-polona',
+        title: 'Plakaty polskie – Polona',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=plakat+polski+PRL+grafika+filmowy',
+        source: 'Polona',
+        description: 'Zdigitalizowane plakaty polskie z epoki PRL, w tym filmowe, teatralne i polityczne',
+      },
+      {
+        id: 'plakat-ninateka',
+        title: 'Polskie plakaty filmowe – nagrania i dokumenty',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/szukaj?q=plakat+filmowy+polska+szko%C5%82a+grafika',
+        source: 'Ninateka',
+        description: 'Materiały o polskiej szkole plakatu i jej twórcach',
+      },
+      {
+        id: 'plakat-ph',
+        title: 'Polska szkoła plakatu – fenomen artystyczny PRL',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/results?q=polska+szko%C5%82a+plakatu+Tomaszewski+%C5%9Awierzy',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły o polskiej szkole plakatu jako zjawisku artystycznym i kulturowym',
+      },
+    ],
+    relatedIds: ['kultura-prl', 'socrealizm', 'kino-prl', 'jazz-prl', 'animacja-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -10982,4 +11450,9 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1983, event: 'II Pielgrzymka – papież spotyka się z Wałęsą w stanie wojennym', category: 'społeczeństwo', entryId: 'pielgrzymki-jp2' },
   { year: 1970, event: '17 grudnia – masakra robotników w Gdyni i Gdańsku', category: 'represje', entryId: 'gdansk-sopot-gdynia' },
   { year: 1980, event: 'Stocznia Gdańska – kolebka Solidarności', category: 'opozycja', entryId: 'gdansk-sopot-gdynia' },
+  { year: 1980, event: 'Zwolnienie Anny Walentynowicz – iskra sierpniowego strajku', category: 'opozycja', entryId: 'walentynowicz' },
+  { year: 1980, event: 'Rejestracja NZS – pierwsza niezależna organizacja studencka w bloku wschodnim', category: 'opozycja', entryId: 'nzs' },
+  { year: 1966, event: 'Kołakowski wyrzucony z PZPR za referat krytykujący rządy Gomułki', category: 'polityka', entryId: 'kolakowski' },
+  { year: 1956, event: 'Kabaret studencki i Piwnica pod Baranami – odwilż w kulturze', category: 'kultura', entryId: 'kabaret-prl' },
+  { year: 1948, event: 'Państwowa Wyższa Szkoła Filmowa w Łodzi – narodziny kuźni polskiego kina', category: 'kultura', entryId: 'lodz-szkola-filmowa' },
 ];
