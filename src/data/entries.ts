@@ -3058,125 +3058,139 @@ Po emigracji 1968 roku żydowska społeczność w Polsce została praktycznie zl
   {
     id: 'ziemie-odzyskane',
     title: 'Ziemie Odzyskane',
-    subtitle: 'Poniemieckie terytoria i wielkie przesiedlenia 1945–1947',
-    category: 'społeczeństwo',
-    tags: ['Ziemie Odzyskane', 'Wrocław', 'Gdańsk', 'przesiedlenia', 'Niemcy', 'Kresy', 'osadnictwo'],
-    yearStart: 1945,
-    summary: 'Ziemie Odzyskane – dawne terytoria niemieckie przyłączone do Polski po II wojnie światowej (Dolny Śląsk, Pomorze, Warmia i Mazury, Ziemia Lubuska). Towarzyszyło im wysiedlenie ok. 12 milionów Niemców i napływ polskich osadników, w tym repatriantów ze wschodnich Kresów.',
-    content: `Decyzje konferencji w Poczdamie (sierpień 1945) przyznały Polsce rozległe terytoria na zachodzie i północy – kosztem ziem utraconych na wschodzie (Kresy wschodnie: Lwów, Wilno, Grodno weszły w skład ZSRR). Propaganda komunistyczna nazywała je "Ziemiami Odzyskanymi" – sugerując powrót piastowskich ziem.
+    category: 'polityka',
+    shortDesc: 'Powojenne przesiedlenia i polska kolonizacja dawnych terenów niemieckich na zachodzie i północy Polski.',
+    content: `## Ziemie Odzyskane
 
-**Wysiedlenia Niemców:**
-W latach 1945–1947 z nowych polskich terytoriów wysiedlono od 10 do 12 milionów Niemców i Ślązaków. Akcja prowadziła najpierw dzika, żywiołowa (1945), a następnie zorganizowana (od 1946 roku). Towarzyszyły jej grabieże i przemoc wobec wysiedlanych, ale też gigantyczny dramat ludzki – ucieczka i wypędzenie.
+„Ziemie Odzyskane" – tak komunistyczna propaganda nazywała dawne tereny wschodnioniemieckie włączone do Polski po II wojnie światowej: Śląsk, Pomorze Zachodnie, Warmię, Mazury i ziemię lubuską. Nazwa miała sugerować powrót do słowiańskich korzeni – choć przez wieki były to kraje w znacznej mierze zamieszkałe przez Niemców.
 
-**Osadnictwo polskie:**
-Na opuszczone tereny napływali:
-- Repatrianci z Kresów wschodnich (Lwów, Wilno, Grodno) – zmuszeni do opuszczenia domów w wyniku nowego przebiegu granicy
-- Osadnicy z Centralnej Polski
-- Ukraińcy i Łemkowie deportowani Akcją Wisła na rozproszenie
+### Decyzja w Poczdamie
 
-**Nowe tożsamości miast:**
-Wrocław (dawny Breslau), Szczecin (Stettin), Gdańsk (Danzig), Opole – miasta o wielowiekowej historii niemieckiej otrzymały polskich mieszkańców i polskie nazwy. Kościoły ewangelickie stawały się katolickimi, szyldy zmieniano z nocna na dzień.
+Na konferencji poczdamskiej (1945) wielkie mocarstwa zadecydowały o nowym kształcie Europy. Polska straciła Kresy Wschodnie (Lwów, Wilno, Grodno) na rzecz ZSRR i dostała w zamian rozległe tereny na zachodzie i północy, po Odrę i Nysę.
 
-**Propaganda "powrotu":**
-Władze komunistyczne budowały mit powrotu do piastowskiej ojczyzny, ukrywając fakt, że zachodnia granica jest ceną za utratę Lwowa i Wilna. Granica na Odrze i Nysie była przez dekady formalnie nieuznana przez NRF – to wiązało Polskę z ZSRR i Układem Warszawskim.`,
+Dla Stalina było to rozwiązanie pragmatyczne: Polska przesunięta na zachód była silniej zależna od sowieckiej gwarancji bezpieczeństwa wobec potencjalnych roszczeń niemieckich.
+
+### Niemcy – wypędzenia
+
+Tereny te zamieszkiwało ok. 12 milionów Niemców – cywilów, których los stał się jedną z największych tragedii II wojny światowej z perspektywy europejskiej. Część uciekła przed Armią Czerwoną jeszcze w trakcie działań wojennych. Resztę systematycznie wysiedlano w 1945–1948 roku.
+
+Wypędzenia przeprowadzano z różnym stopniem brutalności. Niemców wyrzucano z domów, często z minimalnym dobytkiem. Wiele osób zginęło z zimna, głodu i przemocy. Szacuje się, że całkowita liczba ofiar wyniosła kilkaset tysięcy.
+
+### Polscy osadnicy
+
+Na opuszczone tereny napłynęli polscy osadnicy – w dużej mierze przymusowo repatriowani z Kresów (Lwów, Wilno), a także ochotnicy z Mazowsza, Galicji i innych regionów. Repatrianci z Kresów musieli opuścić swoje rodzinne miasta i przenieść się na obce sobie ziemie.
+
+Proces zasiedlania był trudny. „Ziemie Odzyskane" były zniszczone wojną lub opuszczone. Infrastruktura wymagała odbudowy. Nowi mieszkańcy często trafiali do domów ze śladami poprzednich właścicieli: meblami, fotografiami, dokumentami.
+
+### Tożsamość i pamięć
+
+Przez dziesięciolecia PRL budował narrację „odwiecznej polskości" tych ziem – wskazując na słowiańskie nazwy geograficzne, piastowskie korzenie, pruskie ślady slawizacji. Oficjalnie nie było miejsca na pamięć o Niemcach, którzy tu żyli.
+
+Prawdziwa historia tych ziem – wielokulturowa, złożona, pełna traumy – zaczęła wychodzić na jaw dopiero po 1989 roku. Dziś badacze zajmują się historią Breslau/Wrocławia, Stettin/Szczecina, Königsberg/Królewca z uwzględnieniem wszystkich warstw.
+
+### Znaczenie geopolityczne
+
+Zachodnia granica na Odrze i Nysie była przez dekady kontestowana przez RFN. Ostateczne uznanie jej nastąpiło dopiero w 1990 roku – Traktatem 2+4 między dwoma Niemcami a czterema mocarstwami, a następnie polsko-niemieckim traktatem granicznym.`,
     resources: [
       {
-        id: 'zo-1',
-        title: 'Ziemie Odzyskane – materiały edukacyjne IPN',
-        type: 'publikacja',
-        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne?search=Ziemie%20Odzyskane',
-        source: 'IPN Edukacja',
-        description: 'Materiały o powojennych przesiedleniach, osadnictwie i historii Ziem Odzyskanych.',
-        year: 1945,
-        downloadable: true,
+        id: 'ziemie-polona',
+        title: 'Ziemie Odzyskane – prasa i dokumenty (Polona)',
+        type: 'dokument',
+        url: 'https://polona.pl/search/?query=Ziemie+Odzyskane+osadnicy+repatrianci',
+        source: 'Polona',
+        description: 'Zdigitalizowane dokumenty i prasa dotyczące zasiedlania Ziem Odzyskanych',
       },
       {
-        id: 'zo-2',
-        title: 'Dokumenty osadnictwa – Szukaj w Archiwach',
+        id: 'ziemie-ipn',
+        title: 'Wypędzenia i przesiedlenia – dokumenty IPN',
         type: 'akt',
-        url: 'https://szukajwarchiwach.gov.pl/szukaj?q=osadnictwa%20Archiwach',
-        source: 'Naczelna Dyrekcja Archiwów Państwowych',
-        description: 'Dokumenty Państwowego Urzędu Repatriacyjnego i komisji osadniczych z lat 1945–1950.',
-        year: 1945,
-        downloadable: false,
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=przesiedlenia+Niemcy+Ziemie+Odzyskane',
+        source: 'IPN Inwentarz',
+        description: 'Materiały archiwalne dotyczące wysiedleń Niemców i zasiedlania Ziem Zachodnich',
       },
       {
-        id: 'zo-3',
-        title: 'Fotografie i kroniki – Ziemie Odzyskane w Polonie',
-        type: 'zdjęcie',
-        url: 'https://polona.pl/search/?query=Fotografie%20kroniki%20Ziemie',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Archiwum zdjęć i kronik dokumentujących zasiedlanie Ziem Odzyskanych po 1945 roku.',
-        year: 1945,
-        downloadable: true,
+        id: 'ziemie-szukaj',
+        title: 'Archiwalia dotyczące Ziem Zachodnich',
+        type: 'akt',
+        url: 'https://szukajwarchiwach.gov.pl/szukaj?q=Ziemie+Zachodnie+i+P%C3%B3%C5%82nocne',
+        source: 'Szukaj w Archiwach',
+        description: 'Archiwalia dotyczące administracji i zasiedlania Ziem Zachodnich po 1945 roku',
       },
     ],
-    relatedIds: ['manifest-pkwn', 'akcja-wisla', 'represje-polityczne', 'kolektywizacja'],
+    relatedIds: ['jalta', 'deportacje', 'akcja-wisla', 'manifest-pkwn', 'bierut'],
   },
 
   {
     id: 'sport-prl',
     title: 'Sport w PRL',
-    subtitle: 'Medale olimpijskie jako propaganda sukcesu',
     category: 'społeczeństwo',
-    tags: ['sport', 'olimpiada', 'Deyna', 'Szewińska', 'Górski', 'piłka nożna', 'lekkoatletyka'],
-    yearStart: 1952,
-    yearEnd: 1988,
-    summary: 'Sport w PRL pełnił funkcję propagandową – sukcesy olimpijskie i sportowe miały dowodzić wyższości ustroju socjalistycznego. Polska była potęgą lekkoatletyczną, bokserską i piłkarską, a sport był jednym z niewielu obszarów, gdzie obywatele mogli odczuwać dumę narodową bez politycznych konsekwencji.',
-    content: `Sport w PRL był starannie zarządzany przez państwo – kluby sportowe podlegały zakładom pracy lub resortom. Finansowanie było państwowe, zawodnicy formalnie "pracownikami" fabryk lub wojska.
+    shortDesc: 'Sukcesy olimpijskie, masowy sport robotniczy i propaganda sukcesu – sport jako polityczne narzędzie PRL.',
+    content: `## Sport w PRL
 
-**Polityczna rola sportu:**
-Sukces sportowy był narzędziem propagandy. Medale olimpijskie obwieszczano jako dowód wyższości socjalizmu. Jednocześnie sport był jedyną przestrzenią, gdzie Polacy mogli swobodnie kibicować i przeżywać autentyczne emocje narodowe.
+Sport w Polsce Ludowej pełnił wieloraką rolę: był narzędziem propagandy, oknem prestiżu na arenie międzynarodowej, ale też autentycznym źródłem radości i dumy narodowej. Polscy sportowcy odnosili na olimpiadach sukcesy nieproporcjonalne do wielkości kraju.
 
-**Złote lata polskiego sportu:**
+### Sport jako ideologia
 
-*Lekkoatletyka:*
-Irena Szewińska – siedmiokrotna medalistka olimpijska, mistrzyni świata w biegu na 400 m. Symbol polskiej lekkoatletyki lat 60.–70. Władysław Komar – złoto w pchnięciu kulą Montreal 1976.
+Komunistyczna władza traktowała sport instrumentalnie. Wielkie sukcesy sportowe miały dowodzić wyższości socjalizmu nad kapitalizmem – porównywalne z lotem Gagarina czy sputnikiem. Sukcesy olimpijskie były materiałem propagandowym pierwszej klasy.
 
-*Piłka nożna:*
-Reprezentacja Polski pod wodzą Kazimierza Górskiego zdobyła złoto olimpijskie w Monachium 1972 i brąz Mistrzostw Świata 1974 (Frankfurt, Zbigniew Boniek, Kazimierz Deyna). Grzegorz Lato – król strzelców MŚ 1974.
+Jednocześnie masowy sport miał integrować i wychowywać nowego człowieka. Towarzystwa Krzewienia Kultury Fizycznej (TKKF), Legia, Gwardia, Górnik – nazwy klubów oddawały charakter systemu: sport był organizacyjnie powiązany z wojskiem, milicją i zakładami pracy.
 
-*Boks:*
-Polscy bokserzy zdobywali medale olimpijskie w każdej edycji – m.in. Jerzy Kulej (złoto Tokio 1964 i Meksyk 1968).
+### Olimpijskie sukcesy
 
-*Siatkówka i inne:*
-Polscy siatkarze – wicemistrzowie olimpijscy i mistrzowie świata 1974.
+Polska była regularną potęgą olimpijską. Najlepszy był rok 1972 w Monachium: 13 medali, w tym 7 złotych. Lekkoatleci, bokserzy, wioślarze, zapaśnicy – wielkie indywidualności i wielkie drużyny.
 
-**Olimpiady i bojkoty:**
-PRL bojkotował Igrzyska w Los Angeles w 1984 roku (solidarnie z ZSRR). Zawodom towarzyszyła rywalizacja polityczna – zwłaszcza na linii blok wschodni vs. Zachód.`,
+**Irena Szewińska** – siedmiokrotna medalistka olimpijska, wielokrotna rekordzistka świata, ikona polskiej lekkoatletyki. Złoty medal w biegu na 400 metrów w Montrealu 1976 – jeden z najpiękniejszych momentów polskiego sportu.
+
+**Kazimierz Deyna** – mistrz futbolu. Drużyna Górskiego – Polska w finale mistrzostw świata 1974 (3. miejsce), złoto olimpijskie w Monachium 1972. Lata 70. to złoty czas polskiej piłki.
+
+**Jerzy Kulej** – dwukrotny złoty medalista olimpijski w boksie (Tokio 1964, Meksyk 1968).
+
+**Władysław Kozakiewicz** – złoty medal w skoku o tyczce na olimpiadzie w Moskwie 1980. Jego gest w stronę trybun sowieckich widzów (znany jako „gest Kozakiewicza") stał się symbolem oporu wobec Wschodu.
+
+### Piłka nożna lat 70.
+
+Epoka Gierka to złoty czas polskiego futbolu. Trener Kazimierz Górski zbudował drużynę marzeń: Deyna, Lubański, Szarmach, Lato, Gadocha, Tomaszewski. Polska zdobyła złoto olimpijskie (1972), srebro olimpijskie (1976) i zajęła 3. miejsce na MŚ w 1974 i 1982.
+
+Mecz Polska – Anglia (1973), zakończony remisem 1:1, który pozwolił Polsce awansować na MŚ i wyeliminował Anglię – jest legendą.
+
+### Lekkoatletyka
+
+Polska lekkoatletyka lat 60.–80. była globalną potęgą. Irena Szewińska, Jadwiga Wajs-Marcinkiewicz, Grażyna Rabsztyn, Bronisław Malinowski (złoto w Moskwie 1980 w biegu na 3000 m z przeszkodami) – to nie była przypadkowa dominacja.
+
+### Sport kobiecy
+
+PRL był stosunkowo postępowy w sporcie kobiecym. Kobiety uczestniczyły we wszystkich dyscyplinach, a osiągnięcia sportsmenek były szeroko nagłaśniane.
+
+### Granica propagandy i rzeczywistości
+
+Za sukcesami stało zawodowe podejście, świetni trenerzy i system wyławiania talentów. Ale też – jak wszędzie za żelazną kurtyną – doping i system przywilejów dla sportowców. Wyjeżdżanie za granicę, lepsze zaopatrzenie, samochody, paszporty – sportowcy żyli lepiej niż przeciętny Polak.`,
     resources: [
       {
-        id: 'sport-1',
-        title: 'Polska na Igrzyskach Olimpijskich – kroniki TVP',
+        id: 'sport-ninateka',
+        title: 'Sport w PRL – archiwalne transmisje (Ninateka)',
         type: 'nagranie',
-        url: 'https://ninateka.pl/vod/szukaj?query=Igrzyskach%20Olimpijskich%20kroniki',
-        source: 'NINATEKA / Filmoteka Narodowa',
-        description: 'Archiwalne nagrania z igrzysk olimpijskich i zawodów sportowych z epoki PRL.',
-        year: 1952,
-        downloadable: false,
+        url: 'https://ninateka.pl/vod/szukaj?query=sport+olimpiada+Polska+PRL',
+        source: 'Ninateka',
+        description: 'Archiwalne transmisje, kroniki i reportaże sportowe z czasów PRL',
       },
       {
-        id: 'sport-2',
-        title: 'MŚ 1974 – Polska 3. na świecie',
+        id: 'sport-pkf',
+        title: 'Polska Kronika Filmowa – sport',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=7sAvg2e48Rg',
-        source: 'YouTube / TVP Archiwum',
-        description: 'Archiwalne nagrania z Mistrzostw Świata 1974 – największy sukces polskiej piłki nożnej.',
-        year: 1974,
-        downloadable: false,
+        url: 'https://ninateka.pl/vod/szukaj?query=Polska%20Kronika%20Filmowa',
+        source: 'Ninateka/PKF',
+        description: 'Kroniki filmowe dokumentujące sukcesy polskich sportowców w erze PRL',
       },
       {
-        id: 'sport-3',
-        title: 'Sport i propaganda PRL – Polona',
-        type: 'zdjęcie',
-        url: 'https://polona.pl/search/?query=Sport%20propaganda',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Archiwum prasy sportowej i plakatów promujących sport w PRL.',
-        year: 1960,
-        downloadable: true,
+        id: 'sport-ph',
+        title: 'Sport jako propaganda sukcesu',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=sport+PRL+olimpiada+propaganda',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły o roli sportu w propagandzie PRL i osiągnięciach polskich sportowców',
       },
     ],
-    relatedIds: ['kultura-prl', 'propaganda-prl', 'nomenklatura', 'gierek'],
+    relatedIds: ['gospodarka-prl', 'propaganda-prl', 'gierek', 'kultura-prl', 'hermaszewski'],
   },
 
   {
@@ -3302,238 +3316,269 @@ Nacjonalizacja zniszczyła klasę przedsiębiorców i kupców. Gospodarka stała
   {
     id: 'milosz',
     title: 'Czesław Miłosz',
-    subtitle: 'Poeta, noblista, świadek totalitaryzmu',
     category: 'osoby',
-    tags: ['Miłosz', 'Nobel', 'Zniewolony umysł', 'emigracja', 'poezja', 'literatura'],
-    yearStart: 1951,
-    yearEnd: 1989,
-    summary: 'Czesław Miłosz (1911–2004) – jeden z najwybitniejszych polskich poetów i eseistów XX wieku. W 1951 roku zbiegł z PRL i poprosił o azyl na Zachodzie. Jego "Zniewolony umysł" stał się klasycznym studium mechanizmów zniewolenia intelektualistów przez totalitaryzm. Laureat Literackiej Nagrody Nobla 1980.',
-    content: `Czesław Miłosz urodził się w 1911 roku w Szetejniach na Litwie. Był poetą, eseistą, tłumaczem i profesorem literatury. W czasach PRL pracował jako dyplomata – był attaché kulturalnym w Paryżu i Waszyngtonie.
+    shortDesc: 'Poeta, prozaik, eseista – autor „Zniewolonego umysłu", noblista 1980, jeden z największych pisarzy XX wieku.',
+    content: `## Czesław Miłosz (1911–2004)
 
-**Ucieczka z PRL (1951):**
-W lutym 1951 roku Miłosz poprosił we Francji o azyl polityczny, odmawiając powrotu do Polski. Był to akt odwagi – dla rodziny w kraju oznaczał represje, jemu samemu groziło potępienie przez aparat propagandowy PRL. Władze ogłosiły go zdrajcą, jego dzieła objęto zakazem.
+Czesław Miłosz to jeden z największych pisarzy XX wieku – poeta, eseista, historyk literatury, tłumacz. W 1980 roku otrzymał literacką Nagrodę Nobla. Jego twórczość jest nierozerwalnie związana z doświadczeniem totalitaryzmu i pytaniem o kondycję człowieka w obliczu historii.
 
-**"Zniewolony umysł" (1953):**
-Najsłynniejszy esej polityczny polskiej literatury emigracyjnej. Miłosz analizuje, jak inteligenci podporządkowują się totalitaryzmowi, przyjmując komunistyczną ideologię. Opisuje kilka typów konformistów przez alegorie ("Ketman" – sztuka ukrywania prawdziwych poglądów). Książka była zakazana w PRL, ale w drugim obiegu czytana przez pokolenia opozycjonistów.
+### Wielkie Księstwo Literackie i Polska
 
-**Nagroda Nobla (1980):**
-Akademia Szwedzka przyznała Miłoszowi Literacką Nagrodę Nobla w 1980 roku – roku powstania Solidarności. W PRL władze początkowo próbowały przemilczeć nagrodę. Gdy okazało się to niemożliwe, zdecydowano o rehabilitacji – po 1980 roku zezwolono na wydawanie jego dzieł.
+Miłosz urodził się na Litwie, w Szetejniach. Ukształtowało go wielokulturowe środowisko kresowe – polskie, litewskie, żydowskie. Doświadczenie tej różnorodności i jej zagłady przez obie totalitarne machiny stało się fundamentem jego myśli.
 
-**Powrót do Polski:**
-Po 1989 roku Miłosz powrócił do ojczyzny. Mieszkał na przemian w Krakowie i Berkley. Dożył 93 lat, pozostając aktywnym twórcą do końca.`,
+Przed wojną był związany z lewicową grupą poetycką „Żagary". Podczas okupacji pozostał w Warszawie, był świadkiem Zagłady warszawskich Żydów – opisał to poruszającym wierszem „Campo di Fiori" i słynnym „Biednym chrześcijaninem patrzącym na getto".
+
+### Dyplomata PRL i dezercja
+
+Po wojnie Miłosz pracował jako dyplomata – attaché kulturalny w Waszyngtonie i Paryżu. Wewnętrznie rozdarty, publicznie pełnił funkcję, z którą coraz trudniej mu się było pogodzić. W 1951 roku poprosił o azyl polityczny w Paryżu.
+
+Jego dezercja wstrząsnęła polskim środowiskiem literackim. PZPR uznała go za zdrajcę. W Polsce przez dekady był zakazany.
+
+### „Zniewolony umysł"
+
+W 1953 roku ukazał się po francusku „Zniewolony umysł" – esej analizujący mechanizmy, które sprawiają, że intelektualiści poddają się totalitaryzmowi. Miłosz opisał kilka fikcyjnych postaci (Alfa, Beta, Gamma, Delta), za którymi kryją się prawdziwi polscy pisarze. Analiza „kettmanu" – zewnętrznego dostosowania przy wewnętrznym sprzeciwie – jest jedną z najcelniejszych diagnoz psychologii konformizmu.
+
+Książka jest do dziś lekturą obowiązkową na wielu uczelniach świata.
+
+### Paryż i Berkeley
+
+Miłosz osiadł w Paryżu, był związany z redakcją „Kultury" Giedroycia (choć relacja była skomplikowana), a od 1960 roku wykładał literaturę słowiańską na Uniwersytecie Kalifornijskim w Berkeley.
+
+W tym czasie tworzył intensywnie – „Dolina Issy" (1955), „Rodzinna Europa" (1959), „Traktat poetycki" (1957). Jego poezja stała się coraz bardziej metafizyczna, pełna pytań o sens, Boga i miejsce człowieka w kosmosie.
+
+### Nobel i powrót do Polski
+
+W 1980 roku, gdy Polska strajkowała i powstawała Solidarność, Miłosz otrzymał Nagrodę Nobla. W Polsce odebrano to jako gest polityczny – potwierdzenie wartości wolności. Komunistyczne władze były zakłopotane.
+
+Miłosz wrócił do Polski po raz pierwszy w 1981 roku – owacja na Wawelu była historycznym momentem. Po 1989 roku zamieszkał w Krakowie. Pisał i tłumaczył do końca życia. Pochowany w krypcie kościoła na Skałce, wśród narodowych zasłużonych.
+
+### Spuścizna
+
+Miłosz jest autorem „Traktatu moralnego", „Ziemi Ulro", „Roku myśliwego" i setek wierszy. Jest poetą nadziei i bólu, świadkiem stulecia totalitaryzmów, który zachował humanistyczną wiarę w słowo i piękno.`,
     resources: [
       {
-        id: 'milosz-1',
-        title: 'Czesław Miłosz – Zniewolony umysł (fragmenty)',
+        id: 'milosz-wl',
+        title: 'Czesław Miłosz – Wolne Lektury',
         type: 'publikacja',
         url: 'https://wolnelektury.pl/katalog/autor/milosz-czeslaw/',
         source: 'Wolne Lektury',
-        description: 'Dostęp do dzieł Czesława Miłosza w cyfrowej bibliotece Wolne Lektury.',
-        year: 1953,
-        downloadable: true,
+        description: 'Poezja i proza Czesława Miłosza dostępna online',
       },
       {
-        id: 'milosz-2',
-        title: 'Miłosz i emigracja – portal IPN',
+        id: 'milosz-polona',
+        title: 'Archiwum Miłosza – Polona',
+        type: 'dokument',
+        url: 'https://polona.pl/search/?query=Mi%C5%82osz+Czes%C5%82aw+poeta',
+        source: 'Polona',
+        description: 'Digitalizacje pism, rękopisów i pierwszych wydań Miłosza',
+      },
+      {
+        id: 'milosz-ph',
+        title: 'Czesław Miłosz – twórczość i emigracja',
         type: 'publikacja',
-        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=kultura%20paryz',
-        source: 'Przystanek Historia / IPN',
-        description: 'Kontekst emigracji Miłosza i środowiska Kultury Paryskiej Jerzego Giedroycia.',
-        year: 1951,
-        downloadable: false,
-      },
-      {
-        id: 'milosz-3',
-        title: 'Nagroda Nobla 1980 – archiwum',
-        type: 'nagranie',
-        url: 'https://www.nobelprize.org/prizes/literature/1980/milosz/lecture/',
-        source: 'NobelPrize.org',
-        description: 'Oficjalne archiwum Nagrody Nobla – wykład noblowski Czesława Miłosza z 1980 roku.',
-        year: 1980,
-        downloadable: false,
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Mi%C5%82osz+Czes%C5%82aw+emigracja+Nobel',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o twórczości i losach Czesława Miłosza',
       },
     ],
-    relatedIds: ['kultura-paryz', 'kultura-prl', 'drugi-obieg', 'cenzura-prl', 'emigracja-1968'],
+    relatedIds: ['literatura-prl', 'kultura-paryz', 'herbert', 'cenzura-prl', 'drugi-obieg'],
   },
 
   {
     id: 'herbert',
     title: 'Zbigniew Herbert',
-    subtitle: 'Pan Cogito i poezja moralnego oporu',
     category: 'osoby',
-    tags: ['Herbert', 'Pan Cogito', 'poezja', 'opór', 'kultura', 'Przesłanie Pana Cogito'],
-    yearStart: 1956,
-    yearEnd: 1989,
-    summary: 'Zbigniew Herbert (1924–1998) – jeden z najważniejszych polskich poetów powojennych, symbol moralnego oporu wobec komunizmu. Autor cyklu wierszy o Panu Cogito, eseów o sztuce antycznej oraz "Przesłania Pana Cogito" – nieoficjalnego hymnu pokolenia oporu.',
-    content: `Zbigniew Herbert urodził się w 1924 roku we Lwowie. Uczestniczył w konspiracji AK podczas II wojny. W powojennej Polsce przez lata nie mógł publikować – odmówił poddania twórczości wymogom socrealizmu. Utrzymywał się z przypadkowych prac fizycznych i biurowych.
+    shortDesc: 'Jeden z najwybitniejszych polskich poetów – twórca Pana Cogito, głos moralnego sprzeciwu wobec totalitaryzmu.',
+    content: `## Zbigniew Herbert (1924–1998)
 
-**Debiut po Październiku 1956:**
-Debiutancki tom "Struna światła" ukazał się w 1956 roku – dopiero po październikowej odwilży. Herbert szybko zyskał uznanie jako poeta wyjątkowej głębi moralnej i intelektualnej.
+Zbigniew Herbert był jednym z najwybitniejszych polskich poetów XX wieku. Uczestnik Armii Krajowej, niepokorny intelektualista i moralista, który całe życie stawiał opór zniewoleniu – zarówno komunistycznemu, jak i każdemu innemu.
 
-**Pan Cogito:**
-Cykl wierszy o Panu Cogito (1974) – filozoficzno-ironicznym myślicielu zderzającym się z rzeczywistością – stał się kodem porozumienia całego pokolenia polskiej inteligencji. Pan Cogito to figura człowieka próbującego zachować godność w nieludzkich warunkach.
+### Życiorys na tle epoki
 
-**"Przesłanie Pana Cogito" (1974):**
-Wiersz kończący się słowami "idź wyprostowany wśród tych co na kolanach / wśród odwróconych plecami i obalonych w proch" stał się manifestem postawy niezłomności. Deklamowany na podziemnych spotkaniach, recytowany przy aresztowaniach – nabrał wymiaru hymnu oporu.
+Herbert urodził się we Lwowie. Podczas II wojny światowej należał do AK – ten rozdział życia zaważył na całej jego późniejszej postawie. Po wojnie odmawiał współpracy z nowym reżimem, co kosztowało go latami niemożność publikowania i pracę w najgorszych warunkach – jako buchalter czy kontroler jakości.
 
-**Emigracja i powroty:**
-Herbert wielokrotnie wyjeżdżał za granicę – do Berlina Zachodniego, Paryża, Los Angeles. Nigdy jednak nie zdecydował się na trwałą emigrację jak Miłosz. Powracał do Polski, uczestniczył w środowiskach opozycyjnych.
+Debiutował poetycko dopiero w 1956 roku, podczas odwilży, zbiorem „Struna światła". W ciągu kilku lat wydał kolejne tomy, które przyniosły mu uznanie w Polsce i za granicą.
 
-**Dziedzictwo:**
-Herbert należy do najczęściej tłumaczonych polskich poetów. Jego twórczość jest obowiązkowym elementem kanonu szkolnego i przedmiotem licznych opracowań akademickich na całym świecie.`,
+### Pan Cogito i mit jako broń
+
+Najsłynniejszym „bohaterem" Herberta jest Pan Cogito – postać będąca alter ego poety, człowiek myślący w świecie absurdu. Pan Cogito obserwuje rzeczywistość z ironią i bólem, szuka wartości w kulturze śródziemnomorskiej, konfrontuje się z przemocą historii.
+
+Wiersz „Przesłanie Pana Cogito" (1974) to jeden z najważniejszych tekstów polskiej literatury: „Idź wyprostowany wśród tych co na kolanach / wśród odwróconych plecami i obalonych w proch". Był hymnem opozycji, był śpiewany na demonstracjach.
+
+Herbert chętnie sięgał do mitologii greckiej i historii starożytnej, by przez nie mówić o teraźniejszości. Eseje z tomu „Barbarzyńca w ogrodzie" (1962) i „Martwa natura z wędzidłem" (1993) są arcydziełami eseistyki.
+
+### Emigracja i powroty
+
+Herbert żył i pracował w wielu krajach: Francji, RFN, USA, Austrii. Stypendysta zachodnich fundacji, doceniany na całym świecie. Jednak zawsze wracał do Polski. Był nominowany wielokrotnie do Nagrody Nobla – wielu uważa, że zasłużył na nią bardziej niż niejeden laureat.
+
+W stanie wojennym Herbert opowiadał się wyraźnie po stronie Solidarności. Był jednym z sygnatariuszy apeli i listów protestu.
+
+### Późne lata i spuścizna
+
+Ostatni zbiór „Epilog burzy" ukazał się pośmiertnie w 1998 roku. Herbert wielokrotnie pisał o starości, śmierci i konieczności zachowania godności do końca.
+
+Jego poezja jest przetłumaczona na kilkadziesiąt języków. Jest to jedna z postaci, które najlepiej reprezentują polską tradycję moralną: opór, pamięć, niezgoda na kłamstwo.`,
     resources: [
       {
-        id: 'herbert-1',
-        title: 'Zbigniew Herbert – Przesłanie Pana Cogito i inne wiersze',
+        id: 'herbert-wl',
+        title: 'Zbigniew Herbert – Wolne Lektury',
         type: 'publikacja',
         url: 'https://wolnelektury.pl/katalog/autor/herbert-zbigniew/',
         source: 'Wolne Lektury',
-        description: 'Wiersze Zbigniewa Herberta dostępne w cyfrowej bibliotece Wolne Lektury.',
-        year: 1974,
-        downloadable: true,
+        description: 'Poezja Zbigniewa Herberta dostępna online w serwisie Wolne Lektury',
       },
       {
-        id: 'herbert-2',
-        title: 'Herbert i kultura oporu – materiały edukacyjne',
+        id: 'herbert-polona',
+        title: 'Archiwum Herberta – Polona',
+        type: 'dokument',
+        url: 'https://polona.pl/search/?query=Herbert+Zbigniew+poeta',
+        source: 'Polona',
+        description: 'Rękopisy, korespondencja i pierwsze wydania utworów Zbigniewa Herberta',
+      },
+      {
+        id: 'herbert-ph',
+        title: 'Zbigniew Herbert – poeta niezłomny',
         type: 'publikacja',
-        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne?search=Herbert%20kultura%20oporu',
-        source: 'IPN Edukacja',
-        description: 'Materiały IPN o roli poezji Herberta w kulturze oporu wobec komunizmu.',
-        year: 1974,
-        downloadable: true,
-      },
-      {
-        id: 'herbert-3',
-        title: 'Herbert w archiwum Polony',
-        type: 'zdjęcie',
-        url: 'https://polona.pl/search/?query=Herbert%20Polony',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Pierwsze wydania tomów poetyckich Herberta i archiwalia z okresu PRL.',
-        year: 1956,
-        downloadable: true,
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Herbert+Zbigniew+poeta+opozycja',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły o postawie Zbigniewa Herberta wobec komunizmu i jego spuściźnie',
       },
     ],
-    relatedIds: ['kultura-prl', 'cenzura-prl', 'milosz', 'drugi-obieg', 'kultura-paryz'],
+    relatedIds: ['literatura-prl', 'kultura-prl', 'milosz', 'drugi-obieg', 'cenzura-prl'],
   },
 
   {
     id: 'walentynowicz',
     title: 'Anna Walentynowicz',
-    subtitle: 'Suwanicka, która zapaliła Sierpień 1980',
     category: 'osoby',
-    tags: ['Walentynowicz', 'Solidarność', 'Stocznia Gdańska', 'WZZ', 'sierpień 1980', 'Smoleńsk'],
-    yearStart: 1929,
-    yearEnd: 2010,
-    summary: 'Anna Walentynowicz (1929–2010) – suwnicowa Stoczni Gdańskiej, działaczka Wolnych Związków Zawodowych i jeden z symboli Solidarności. Jej zwolnienie z pracy w sierpniu 1980 roku było bezpośrednią przyczyną wybuchu strajku, który doprowadził do powstania NSZZ Solidarność. Zginęła w katastrofie smoleńskiej 10 kwietnia 2010 roku.',
-    content: `Anna Walentynowicz urodziła się w 1929 roku. Pracowała w Stoczni Gdańskiej im. Lenina od 1950 roku, zaczynając jako spawaczka i awansując na suwanicową. Była wielokrotnie nagradzana jako przodownik pracy.
+    shortDesc: 'Suwnicowa z Gdańska – jej zwolnienie wywołało strajk sierpniowy, który zmienił Polskę i świat.',
+    content: `## Anna Walentynowicz (1929–2010)
 
-**Działalność opozycyjna:**
-W drugiej połowie lat 70. Walentynowicz zaangażowała się w działalność Wolnych Związków Zawodowych Wybrzeża (WZZ). Kolportowała podziemne pisma, dokumentowała łamanie praw pracowniczych, pomagała poszkodowanym robotnikom. Stała się prawdziwą rzeczniczką praw robotniczych.
+Anna Walentynowicz była suwnicową ze Stoczni Gdańskiej im. Lenina i jedną z najważniejszych postaci polskiej opozycji robotniczej. Jej zwolnienie z pracy w sierpniu 1980 roku – pięć miesięcy przed emeryturą – stało się bezpośrednią iskrą, która wywołała Sierpień 1980 i narodziny Solidarności.
 
-**Zwolnienie z pracy (sierpień 1980):**
-7 sierpnia 1980 roku – na pięć miesięcy przed emeryturą – kierownictwo stoczni zwolniło Walentynowicz. Pretekst był formalny, powód oczywisty: działalność opozycyjna. 14 sierpnia robotnicy stoczni ogłosili strajk, żądając przede wszystkim jej przywrócenia do pracy.
+### Od sieroty do przodownika pracy
 
-**Rola w sierpniowym strajku:**
-Walentynowicz była jedną z głównych postaci strajkujących. Podczas rozmów o zakończeniu strajku – gdy robotnicy gotowi byli odejść po uzyskaniu ustępstw płacowych – to ona przekonała, by trwać aż do uzyskania gwarancji dla wszystkich zakładów, które przyłączyły się do strajku.
+Walentynowicz urodziła się na Wołyniu. Sierota wojenna, trafiła do Gdańska po wysiedleniach. Pracowała w stoczni od 1950 roku – najpierw spawaczka, potem suwnicowa. W latach 50. była przodownikiem pracy, odznaczaną i chwaloną przez partię.
 
-**Kontrowersje i marginalizacja:**
-Po 1980 roku Walentynowicz pozostawała w stoczniowym środowisku, lecz z czasem konflikty z Wałęsą doprowadziły do jej odsunięcia od głównego nurtu Solidarności. Krytykowała kompromisy Okrągłego Stołu.
+Z czasem oczy się otworzyły. Widziała niesprawiedliwość, nierówności, kłamstwo propagandy. W Grudniu 1970 roku stała przy bramie stoczni i patrzyła, jak strzelają do robotników.
 
-**Katastrofa smoleńska:**
-Anna Walentynowicz zginęła 10 kwietnia 2010 roku w katastrofie samolotu Tu-154 pod Smoleńskiem – leciała na obchody 70. rocznicy zbrodni katyńskiej.`,
+### Działalność opozycyjna
+
+W drugiej połowie lat 70. Walentynowicz zaangażowała się w Wolne Związki Zawodowe Wybrzeża (WZZ) – i od razu stała się celem szykan. Zwolnienia, ponowne przyjęcia, ciągłe konflikty z kierownictwem. SB inwigilowała ją intensywnie.
+
+Kolportowała wydawnictwa bezdebitowe, dokumentowała naruszenia praw pracowników, nawiązała kontakty z KOR-em i Lechem Wałęsą.
+
+### Iskra strajku
+
+7 sierpnia 1980 roku, pięć miesięcy przed emeryturą, dyrekcja stoczni zwolniła ją z pracy – oficjalnie za kolekcjonowanie świec z tablicy upamiętniającej ofiary Grudnia 1970. W rzeczywistości za działalność opozycyjną.
+
+14 sierpnia 1980 roku stoczniowcy zaczęli strajk – przede wszystkim z żądaniem jej przywrócenia do pracy. Walentynowicz wróciła do stoczni – przywieziono ją, bo była w domu – i stanęła pośród strajkujących. Tak zaczął się Sierpień 1980.
+
+### Solidarność i marginalizacja
+
+Walentynowicz była jedną z negocjatorek Porozumień Gdańskich. Ale w Solidarności szybko zaczęła być marginalizowana – przez Lecha Wałęsę i jego otoczenie. Uważała, że kierownictwo idzie na zbyt duże kompromisy z władzą.
+
+W stanie wojennym była internowana. Po wyjściu na wolność kontynuowała działalność, coraz bardziej na marginesie głównego nurtu Solidarności.
+
+### Ostatnie lata i tragedia
+
+Anna Walentynowicz zginęła 10 kwietnia 2010 roku w katastrofie lotniczej pod Smoleńskiem. Leciała na uroczystości upamiętnienia ofiar zbrodni katyńskiej. Jej śmierć – razem z prezydentem Lechem Kaczyńskim i 94 innymi osobami – była jedną z największych tragedii III Rzeczypospolitej.
+
+Walentynowicz do końca życia czuła, że jest niedoceniana. Historia oddaje jej sprawiedliwość – bez jej zwolnienia i bez strajku sierpniowego, który ono wywołało, historia Polski potoczyłaby się inaczej.`,
     resources: [
       {
-        id: 'walen-1',
+        id: 'walentynowicz-ecs',
         title: 'Anna Walentynowicz – archiwum ECS',
-        type: 'publikacja',
+        type: 'dokument',
         url: 'https://ecs.gda.pl/en/archive/',
         source: 'Europejskie Centrum Solidarności',
-        description: 'Archiwum ECS – dokumenty, zdjęcia i nagrania związane z Anną Walentynowicz.',
-        year: 1980,
-        downloadable: false,
+        description: 'Dokumenty i relacje dotyczące roli Anny Walentynowicz w Sierpniu 1980',
       },
       {
-        id: 'walen-2',
-        title: 'Sierpień 1980 – film dokumentalny o strajku',
-        type: 'film',
-        url: 'https://www.youtube.com/watch?v=hO-MRUjczzI',
-        source: 'YouTube / IPN',
-        description: 'Dokument o sierpniowym strajku i roli Anny Walentynowicz w jego wybuchu.',
-        year: 1980,
-        downloadable: false,
-      },
-      {
-        id: 'walen-3',
-        title: 'Walentynowicz – materiały IPN',
-        type: 'publikacja',
-        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Walentynowicz',
+        id: 'walentynowicz-ipn',
+        title: 'Walentynowicz – teczki SB (IPN)',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Walentynowicz+Anna+SB+inwigilacja',
         source: 'IPN Inwentarz',
-        description: 'Akta SB dotyczące inwigilacji Anny Walentynowicz przez Służbę Bezpieczeństwa PRL.',
-        year: 1978,
-        downloadable: false,
+        description: 'Dokumenty Służby Bezpieczeństwa dotyczące inwigilacji Anny Walentynowicz',
+      },
+      {
+        id: 'walentynowicz-ph',
+        title: 'Anna Walentynowicz – iskra Solidarności',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Walentynowicz+Anna+stocznia+Solidarno%C5%9B%C4%87',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o roli Anny Walentynowicz w narodzinach Solidarności',
       },
     ],
-    relatedIds: ['solidarnosc', 'sierpien-1980', 'stocznia-gdanska', 'wzz', 'walesa'],
+    relatedIds: ['sierpien-1980', 'stocznia-gdanska', 'walesa', 'solidarnosc', 'wzz'],
   },
 
   {
     id: 'mikolajczyk',
-    title: 'Stanisław Mikołajczyk',
-    subtitle: 'Ostatni lider demokratycznej opozycji',
-    category: 'osoby',
-    tags: ['Mikołajczyk', 'PSL', 'opozycja', 'wybory 1947', 'emigracja', 'premier'],
-    yearStart: 1944,
-    yearEnd: 1947,
-    summary: 'Stanisław Mikołajczyk (1901–1966) – premier rządu RP na uchodźstwie, lider Polskiego Stronnictwa Ludowego i ostatni przywódca legalnej opozycji demokratycznej w powojennej Polsce. W 1947 roku uciekł z kraju, ratując się przed aresztowaniem. Jego losy symbolizują zniszczenie pluralizmu politycznego przez komunistów.',
-    content: `Stanisław Mikołajczyk był jednym z najbardziej doświadczonych polskich polityków powojennych – w latach 1943–1944 pełnił funkcję premiera rządu RP na uchodźstwie w Londynie. Po zakończeniu II wojny wrócił do kraju, wierząc w możliwość budowy demokratycznej Polski.
+    title: 'Stanisław Mikołajczyk i PSL',
+    category: 'polityka',
+    shortDesc: 'Premier rządu londyńskiego, lider PSL – ostatni demokratyczny opór przed komunizacją Polski.',
+    content: `## Stanisław Mikołajczyk i PSL (1944–1947)
 
-**PSL i walka o demokrację:**
-W 1945 roku Mikołajczyk stanął na czele Polskiego Stronnictwa Ludowego (odróżnianego od marionetkowego SL). Partia szybko zgromadziła ok. miliona członków – stała się faktyczną partią opozycyjną wobec PPR. Mikołajczyk uczestniczył w Rządzie Jedności Narodowej jako wicepremier.
+Stanisław Mikołajczyk (1901–1966) był liderem Polskiego Stronnictwa Ludowego i ostatnim poważnym politykiem, który próbował ocalić demokratyczny charakter powojennej Polski. Jego klęska była symbolem triumfu komunizmu nad demokracją.
 
-**Kampania terroru wobec PSL:**
-Komuniści systematycznie rozbijali PSL. Działaczy bito, aresztowano, mordowano. Szacuje się, że do wyborów 1947 roku zamordowano lub uwięziono kilkanaście tysięcy działaczy PSL. Listy kandydatów skreślano z powodów formalnych.
+### Premier rządu na uchodźstwie
 
-**Referendum i wybory:**
-W referendum 1946 PSL wezwał do głosowania NIE na pierwsze pytanie – co było zgodne z wolą większości. Wyniki sfałszowano. W wyborach 1947 PSL oficjalnie uzyskało zaledwie 10% głosów – kolejne fałszerstwo na masową skalę.
+Mikołajczyk piastował urząd Premiera Rządu Polskiego na Uchodźstwie (1943–1944). Uczestniczył w konferencji teherańskiej, gdzie Roosevelt i Churchill zaczęli ustępować Stalinowi. Próbował bezskutecznie bronić polskich interesów – polskiego Lwowa i Wilna.
 
-**Ucieczka z Polski (1947):**
-W październiku 1947 roku, gdy aresztowania działaczy PSL przybrały masowy charakter, Mikołajczyk uciekł z Polski przez Szwecję do Londynu. Była to jedyna droga ratunku – wiedział, że grozi mu los podobny do tysięcy działaczy PSL, którzy trafili za kratki.
+W 1944 roku przybył do Moskwy, by negocjować z komunistycznym PKWN. Stalin wywarł presję; konferencja teherańska przesądziła o granicach. Mikołajczyk podał się do dymisji ze stanowiska premiera w Londynie w proteście.
 
-**Emigracja:**
-Na emigracji Mikołajczyk kontynuował działalność polityczną w ramach Polskiego Ruchu Wolnościowego. Zmarł w Waszyngtonie w 1966 roku.`,
+### Powrót do kraju
+
+W 1945 roku Mikołajczyk zdecydował się wrócić do Polski – wbrew radom wielu emigrantów. Liczył, że w nowym, pozornie koalicyjnym rządzie Tymczasowym uda się mu zachować polityczną niezależność PSL i doprowadzić do wolnych wyborów.
+
+Objął stanowisko wicepremiera. Odbudował PSL jako masową partię – w szczytowym momencie liczyła ponad 600 000 członków, głównie chłopów.
+
+### Sfałszowane referendum i wybory
+
+W 1946 roku Mikołajczyk wezwał do głosowania „nie" w referendum 3xTAK – protesty oznaczały sprzeciw wobec komunistycznej konstytucji. Wyniki sfałszowano: PSL-owski sprzeciw przemieniono w wynik prorządowy.
+
+Sfałszowane wybory w 1947 roku przypieczętowały koniec: PSL ogłoszono winnym spiskowania z zagranicą, działaczy aresztowano. Mikołajczyk uciekł z Polski w październiku 1947 roku, prawdopodobnie tuż przed aresztem.
+
+### Represje wobec PSL
+
+Tysiące działaczy PSL zostało aresztowanych, skazanych na wieloletnie więzienie, a część zamordowana. Szacuje się, że ok. 100–200 działaczy PSL zapłaciło życiem za opór wobec komunizacji.
+
+Bestie systemu – UB i milicja – niszczyły PSL metodycznie: aresztowania, wymuszanie wyrzeczeń, fizyczne likwidacje. Komitet Centralny PSL w wielu powiatach był dosłownie rozbijany przez areszty.
+
+### Emigracja i zapomnienie
+
+Na emigracji Mikołajczyk kontynuował działalność polityczną. Wydał wspomnienia „The Rape of Poland" (1948) – świadectwo fałszowania demokracji przez komunistów. Książka była ważnym dokumentem dla Zachodu.
+
+W PRL Mikołajczyk był postacią przemilczaną lub demonizowaną. Oficjalna historia PSL z nim nie istniała. Dopiero po 1989 roku odzyskał należne mu miejsce w historii – jako polityk, który do końca walczył o demokratyczną Polskę.`,
     resources: [
       {
-        id: 'mikol-1',
-        title: 'Mikołajczyk i PSL – Przystanek Historia',
-        type: 'publikacja',
-        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=psl%20mikolajczyk',
-        source: 'Przystanek Historia / IPN',
-        description: 'Portal tematyczny IPN o PSL Mikołajczyka i walce o demokrację w Polsce 1945–1947.',
-        year: 1945,
-        downloadable: false,
-      },
-      {
-        id: 'mikol-2',
-        title: 'Terror wobec PSL – akta IPN',
+        id: 'mikolajczyk-ipn',
+        title: 'Mikołajczyk i PSL – dokumenty IPN',
         type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Terror%20wobec%20PSL',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Miko%C5%82ajczyk+PSL+wybory+1947',
         source: 'IPN Inwentarz',
-        description: 'Dokumenty aparatu bezpieczeństwa dotyczące działań UB i MO wobec działaczy PSL.',
-        year: 1945,
-        downloadable: false,
+        description: 'Dokumenty dotyczące Mikołajczyka, PSL i sfałszowanych wyborów 1947 roku',
       },
       {
-        id: 'mikol-3',
-        title: 'Wybory 1947 – archiwum prasy',
-        type: 'zdjęcie',
-        url: 'https://polona.pl/search/?query=Wybory%201947%20prasy',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Prasa z okresu wyborów 1947 – propaganda PPR i dokumenty PSL.',
-        year: 1947,
-        downloadable: true,
+        id: 'mikolajczyk-ph',
+        title: 'Mikołajczyk i walka PSL o demokrację',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Miko%C5%82ajczyk+PSL+referendum+wybory+1947',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o Mikołajczyku i roli PSL w walce o demokratyczną Polskę',
+      },
+      {
+        id: 'mikolajczyk-polona',
+        title: 'Prasa i dokumenty PSL (Polona)',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=PSL+Miko%C5%82ajczyk+Stronnictwo+Ludowe',
+        source: 'Polona',
+        description: 'Zdigitalizowane dokumenty i prasa Polskiego Stronnictwa Ludowego',
       },
     ],
-    relatedIds: ['wybory-1947', 'referendum-1946', 'ub', 'represje-polityczne', 'bierut'],
+    relatedIds: ['wybory-prl', 'referendum-1946', 'manifest-pkwn', 'bierut', 'ub'],
   },
 
   {
@@ -3598,301 +3643,341 @@ PRL zapewniał też gwarancje, które po 1989 roku zniknęły – zatrudnienie (
 
   {
     id: 'edukacja-prl',
-    title: 'Edukacja w PRL',
-    subtitle: 'Szkoła jako narzędzie indoktrynacji',
+    title: 'Edukacja i szkoła w PRL',
     category: 'społeczeństwo',
-    tags: ['edukacja', 'szkoła', 'indoktrynacja', 'ZMP', 'harcerstwo', 'nauka', 'wychowanie'],
-    yearStart: 1944,
-    yearEnd: 1989,
-    summary: 'System edukacji w PRL łączył powszechny dostęp do nauki z głęboką indoktrynacją ideologiczną. Szkoły były narzędziem kształtowania "nowego człowieka socjalizmu". Jednocześnie polskie szkolnictwo wyższe osiągało wysokie standardy akademickie, a polska nauka miała okresy prawdziwego rozkwitu.',
-    content: `Komunistyczny system oświaty w Polsce budowany był od 1944 roku na zasadach marksistowsko-leninowskich. Cel był podwójny: zapewnić powszechny dostęp do edukacji (co w Polsce przedwojennej nie istniało) i ukształtować człowieka oddanego nowej władzy.
+    shortDesc: 'System oświaty jako narzędzie indoktrynacji – i mimo to szkoła jako miejsce realnej wiedzy i przyjaźni.',
+    content: `## Edukacja i szkoła w PRL
 
-**Reforma szkolna:**
-Szybko wprowadzono 7-letnią szkołę podstawową jako obowiązkową. Zlikwidowano szkoły prywatne i wyznaniowe. Program nauczania ujednolicono i nasycono treściami ideologicznymi – historię przepisywano, literaturę selekcjonowano.
+Szkoła w Polsce Ludowej była jednym z głównych narzędzi wychowania nowego człowieka – lojalnego obywatela socjalistycznego państwa. A jednocześnie była miejscem, gdzie miliony dzieci uczyły się matematyki, historii i literatury, zdobywały przyjaźnie i – nierzadko – lekcje prawdziwego życia od nauczycieli, którzy przemycali prawdę mimo systemu.
 
-**Indoktrynacja:**
-- Lekcje historii gloryfikowały ZSRR i ruch robotniczy, przemilczały zbrodnie komunizmu
-- Język rosyjski był obowiązkowy od podstawówki
-- Organizacje młodzieżowe – ZMP (Związek Młodzieży Polskiej, 1948–1957), potem ZMS i ZMW – były quasi-obowiązkowe
-- Harcerstwo (ZHP) podporządkowano ideologii partyjnej
+### Reforma systemu oświaty
 
-**Związek Młodzieży Polskiej (ZMP):**
-ZMP wzorowany był na sowieckim Komsomole. Należało do niego większość uczniów szkół średnich. Organizacja prowadziła akcje propagandowe, współzawodnictwo pracy i donosiła na "klasowych wrogów". Po Październiku 1956 rozwiązano ZMP jako symbol stalinizmu.
+Po 1944 roku komuniści szybko przejęli kontrolę nad szkolnictwem. Zlikwidowano szkoły prywatne i wyznaniowe. Wprowadzono jednolity program nauczania oparty na radzieckich wzorcach: obowiązkowa nauka rosyjskiego, marksistowsko-leninowska interpretacja historii, gloryfikacja ZSRR.
 
-**Szkolnictwo wyższe:**
-Polska miała dobrze rozwinięte uczelnie – Politechniki, Akademie Medyczne, Wydziały Historyczne i Prawne. Jakość nauk ścisłych i medycyny była wysoka. Jednak nauki humanistyczne i społeczne podlegały cenzurze ideologicznej.
+Jednocześnie dokonano ogromnego postępu w upowszechnieniu edukacji. Analfabetyzm, który przed wojną dotyczył ok. 15–20% społeczeństwa, zwalczono masowymi kampaniami. Szkolnictwo wyższe otwarto dla dzieci robotniczych i chłopskich. To był realny awans cywilizacyjny.
 
-**Tajne komplety w stanie wojennym:**
-Po 13 grudnia 1981 roku opozycja organizowała nielegalne wykłady w prywatnych mieszkaniach. Latający Uniwersytet i inne formy podziemnego nauczania kontynuowały tradycję z czasów okupacji.`,
+### Ideologia w klasie
+
+Lekcje historii były skrzywione przez pryzmat marksizmu. Szkoła uczyła: kapitalizm jest zły, imperializm zachodni grozi, ZSRR jest przyjacielem, Armia Czerwona wyzwoliła Polskę. AK była „reakcją", zachodnia pomoc dla Polski w czasie wojny – przemilczana.
+
+Religia została usunięta ze szkół w 1961 roku (wcześniej była ograniczana). Zastąpiła ją „etyka i wychowanie obywatelskie" – de facto ideologia partyjna. Lekcje religii przeniosły się do kościołów i katechezy parafialnej.
+
+Na ścianach szkół wisiały portrety Lenina i Bieruta, potem Gomułki, Gierka. Szkolne uroczystości: 1 Maja, Rewolucja Październikowa, rocznice PKWN.
+
+### Organizacje młodzieżowe
+
+ZMP (Związek Młodzieży Polskiej) do 1956 roku, potem ZMS, ZMW, ZHP (w wersji zsowietyzowanej, później przywrócona tradycja harcerska) – organizacje młodzieżowe były integralną częścią szkolnego życia. Zrzeszały obowiązkowo lub półobowiązkowo, wychowywały ideologicznie.
+
+Harcerstwo miało swoją tradycję i etos niezależny od władzy – i niekiedy stawało się przestrzenią prawdziwej wspólnoty, mimo oficjalnych ram.
+
+### Nauczyciele i luki w systemie
+
+Wielu nauczycieli, zwłaszcza starszego pokolenia, wychowanych przed wojną, przemycało nieoficjalną prawdę. Historyk na lekcji potrafił „między wierszami" pokazać, co naprawdę wydarzyło się w 1939 roku lub w Katyniu. Polonista cytujący Herberta przesyłał sygnał.
+
+Ta nieformalna edukacja równoległa do oficjalnej programu była fenomenem PRL – testament tradycji i obywatelskiej odpowiedzialności nauczycieli.
+
+### Szkolnictwo wyższe
+
+Uniwersytety były pod ścisłą kontrolą partyjną. Rektorów i dziekanów mianowała partia. Marksizm-leninizm był obowiązkowym przedmiotem. Studenci musieli zdawać egzamin z materializmu dialektycznego.
+
+Mimo to polskie uczelnie – zwłaszcza Uniwersytet Warszawski, AGH, UJ – zachowały poziom naukowy. Marzec 1968 obnażył granice możliwości – władza mogła wyrzucać profesorów i studentów za poglądy.
+
+### Spuścizna
+
+PRL dał Polsce masową edukację – i to jest realne osiągnięcie. Ale też wychował pokolenia w schemacie ideologicznym, z lukusem w wiedzy historycznej i obywatelskiej. Likwidacja tych braków stała się zadaniem szkoły po 1989 roku.`,
     resources: [
       {
-        id: 'edu-1',
-        title: 'Edukacja i indoktrynacja w PRL – IPN',
+        id: 'edukacja-polona',
+        title: 'Podręczniki szkolne PRL (Polona)',
         type: 'publikacja',
-        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne?search=Edukacja%20indoktrynacja',
-        source: 'IPN Edukacja',
-        description: 'Materiały edukacyjne IPN o systemie oświaty i indoktrynacji w szkołach PRL.',
-        year: 1948,
-        downloadable: true,
+        url: 'https://polona.pl/search/?query=podr%C4%99cznik+szkolny+PRL+historia',
+        source: 'Polona',
+        description: 'Zdigitalizowane podręczniki szkolne z czasów PRL – od historii po wychowanie obywatelskie',
       },
       {
-        id: 'edu-2',
-        title: 'ZMP i harcerstwo w PRL – akta archiwalne',
-        type: 'akt',
-        url: 'https://szukajwarchiwach.gov.pl/szukaj?q=ZMP%20harcerstwo',
-        source: 'Archiwum Akt Nowych / Szukaj w Archiwach',
-        description: 'Dokumenty Związku Młodzieży Polskiej i Zarządu Głównego ZHP w archiwach państwowych.',
-        year: 1948,
-        downloadable: false,
+        id: 'edukacja-ph',
+        title: 'System oświaty w PRL',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=edukacja+szko%C5%82a+o%C5%9Bwiata+PRL',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o systemie szkolnictwa i indoktrynacji w Polsce Ludowej',
       },
       {
-        id: 'edu-3',
-        title: 'Kroniki szkolne z PRL – Polona',
-        type: 'zdjęcie',
-        url: 'https://polona.pl/search/?query=Kroniki%20szkolne',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Podręczniki, kroniki szkolne i materiały propagandowe dla dzieci z epoki PRL.',
-        year: 1950,
-        downloadable: true,
+        id: 'edukacja-ninateka',
+        title: 'Kroniki szkolne – życie uczniów w PRL',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=szko%C5%82a+uczniowie+edukacja+PRL',
+        source: 'Ninateka',
+        description: 'Archiwalne filmy o życiu szkolnym i edukacji w Polsce Ludowej',
       },
     ],
-    relatedIds: ['kultura-prl', 'propaganda-prl', 'cenzura-prl', 'kosciol-prl', 'drugi-obieg'],
+    relatedIds: ['dzieci-prl', 'zmp', 'propaganda-prl', 'marzec-1968', 'socrealizm'],
   },
 
   {
     id: 'nzs',
-    title: 'Niezależne Zrzeszenie Studentów',
-    subtitle: 'Studenckie ramię Solidarności',
+    title: 'NZS – Niezależne Zrzeszenie Studentów',
     category: 'opozycja',
-    tags: ['NZS', 'studenci', 'Solidarność', '1980', 'uczelnie', 'opozycja studencka'],
-    yearStart: 1980,
-    yearEnd: 1989,
-    summary: 'Niezależne Zrzeszenie Studentów (NZS) – niezależna organizacja studencka powołana w 1980 roku jako odpowiednik NSZZ Solidarność na uczelniach. Skupiała dziesiątki tysięcy studentów, prowadziła działalność kulturalną i polityczną, była wielokrotnie delegalizowana i reaktywowana.',
-    content: `Niezależne Zrzeszenie Studentów powstało jesienią 1980 roku, w atmosferze entuzjazmu po Sierpniu i podpisaniu Porozumień Gdańskich. Studentom udało się wywalczyć rejestrację organizacji niezależnej od SZSP (Socjalistycznego Związku Studentów Polskich).
+    shortDesc: 'Studencki ruch niezależny, zarejestrowany w 1980 roku – pierwsza legalna niezależna organizacja studencka w bloku wschodnim.',
+    content: `## NZS – Niezależne Zrzeszenie Studentów
 
-**Powstanie i cele:**
-NZS zrzeszało studentów z dziesiątek uczelni w całej Polsce. Domagało się autonomii uczelni, zniesienia obowiązkowego nauczania języka rosyjskiego i ideologicznych przedmiotów (marksizm-leninizm, ekonomia polityczna socjalizmu), dostępu do zakazanej literatury i swobody stowarzyszania.
+Niezależne Zrzeszenie Studentów (NZS) było pierwszą legalną niezależną organizacją studencką w całym bloku wschodnim – zarejestrowaną we wrześniu 1980 roku, kilka tygodni po Solidarności. Jej powstanie było wyrazem tego samego ducha Sierpnia, który ogarnął całe polskie społeczeństwo.
 
-**Strajk w Łodzi (1981):**
-Największy sukces NZS przed stanem wojennym: strajk studencki w Łodzi w lutym 1981 roku zakończył się podpisaniem porozumienia z władzami uczelni i Ministerstwem – uczelnie uzyskały gwarancje autonomii, zniesiono część obowiązkowych przedmiotów ideologicznych.
+### Narodziny
 
-**Stan wojenny:**
-13 grudnia 1981 roku NZS zdelegalizowano. Działacze organizacji trafiali do internowania. Część kontynuowała działalność podziemną – wydawała pisma, organizowała nielegalne wykłady i spotkania.
+Po Sierpniu 1980 roku fala wolnościowych organizacji ogarnęła Polskę. Studenci – inspirowani Solidarnością i środowiskiem KOR – zaczęli tworzyć własne, niezależne struktury. We wrześniu 1980 roku zarejestrowali NZS jako ogólnopolską federację.
 
-**Reaktywacja i 1989 rok:**
-NZS reaktywowało działalność jawną po 1988 roku. W 1989 roku organizacja uczestniczyła w kampanii do wyborów 4 czerwca, popierając kandydatów Solidarności. Po 1989 roku NZS pozostało legalną organizacją studencką.`,
+NZS był organizacją pluralistyczną: od lewicy do prawicy, od katolików do liberałów. Łączyło ich jedno – odrzucenie SZSP (Socjalistycznego Związku Studentów Polskich), czyli partyjnej przybudówki na uczelniach.
+
+### Program i działalność
+
+NZS walczył o: autonomię uczelni, wolność badań i nauczania, zniesienie obowiązkowego marksizmu-leninizmu, niezależny samorząd studencki. To były żądania rewolucyjne w warunkach PRL.
+
+Na uczelniach zaczęły powstawać koła NZS, gazety studenckie poza cenzurą, seminaria i wykłady z historii prawdziwej (o Katyniu, o 1939 roku, o AK). Studenci organizowali spotkania z relegowanymi profesorami.
+
+### Stan wojenny – delegalizacja
+
+13 grudnia 1981 roku NZS – razem z Solidarnością – zostało zdelegalizowane. Działacze byli internowani lub aresztowani. Niektórzy wyjechali za granicę.
+
+Jednak NZS przetrwał w podziemiu. Konspiracyjne struktury kontynuowały działalność: wydawnictwa, seminaria, kontakty z zagranicznymi organizacjami studenckimi. „Podziemny NZS" był elementem szerszej infrastruktury oporu.
+
+### Strajki 1988 i reaktywacja
+
+W 1988 roku, w czasie strajków w maju i sierpniu, NZS aktywnie uczestniczył w proteście. Władze zaczęły rozmawiać. W 1989 roku NZS został ponownie legalnie zarejestrowany.
+
+W obradach Okrągłego Stołu brała udział delegacja NZS – organizacja miała swój wkład w kształtowanie nowej umowy społecznej.
+
+### Znaczenie
+
+NZS był dowodem, że wolnościowy impuls Solidarności dosięgnął całego społeczeństwa – nie tylko robotników, ale też studentów, nauczycieli, intelektualistów. Był też kuźnią kadr przyszłej demokratycznej Polski: wielu polityków III RP swoją drogę zaczynało w NZS.`,
     resources: [
       {
-        id: 'nzs-1',
-        title: 'NZS – historia i dokumenty',
+        id: 'nzs-ipn',
+        title: 'NZS – dokumenty IPN',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=NZS+Niezale%C5%BCne+Zrzeszenie+Student%C3%B3w',
+        source: 'IPN Inwentarz',
+        description: 'Dokumenty dotyczące NZS, jego struktur i delegalizacji w stanie wojennym',
+      },
+      {
+        id: 'nzs-ph',
+        title: 'NZS – studencka opozycja w PRL',
         type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=NZS+studenci+niezale%C5%BCni+1980+opozycja',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o Niezależnym Zrzeszeniu Studentów',
+      },
+      {
+        id: 'nzs-ecs',
+        title: 'Dokumenty NZS – archiwum Solidarności',
+        type: 'dokument',
         url: 'https://ecs.gda.pl/en/archive/',
         source: 'Europejskie Centrum Solidarności',
-        description: 'Archiwum ECS – dokumenty, zdjęcia i relacje dotyczące NZS i studenckiego ruchu solidarnościowego.',
-        year: 1980,
-        downloadable: false,
-      },
-      {
-        id: 'nzs-2',
-        title: 'Studenci w opozycji – materiały IPN',
-        type: 'dokument',
-        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne?search=Studenci%20opozycji',
-        source: 'IPN Edukacja',
-        description: 'Materiały edukacyjne IPN o ruchu studenckim i NZS w czasach Solidarności.',
-        year: 1980,
-        downloadable: true,
-      },
-      {
-        id: 'nzs-3',
-        title: 'Strajk studencki 1981 – archiwum',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Strajk%20studencki%201981',
-        source: 'IPN Inwentarz',
-        description: 'Dokumenty SB dotyczące inwigilacji NZS i represji wobec działaczy studenckich.',
-        year: 1981,
-        downloadable: false,
+        description: 'Dokumenty związane z ruchem studenckim i NZS w archiwum ECS',
       },
     ],
-    relatedIds: ['solidarnosc', 'marzec-1968', 'stan-wojenny', 'drugi-obieg', 'kor'],
+    relatedIds: ['solidarnosc', 'marzec-1968', 'kor', 'stan-wojenny', 'okragly-stol'],
   },
 
   {
     id: 'internowanie',
     title: 'Internowanie w stanie wojennym',
-    subtitle: '10 000 działaczy Solidarności za kratkami',
     category: 'represje',
-    tags: ['internowanie', 'stan wojenny', 'Solidarność', 'obozy', 'Białołęka', 'represje 1981'],
-    yearStart: 1981,
-    yearEnd: 1982,
-    summary: 'W nocy z 12 na 13 grudnia 1981 roku, wraz z ogłoszeniem stanu wojennego, SB i milicja przeprowadziły masowe zatrzymania działaczy Solidarności, KOR i innych organizacji opozycyjnych. Łącznie w ciągu kilku tygodni internowano ok. 10 000 osób – bez wyroku sądowego, na podstawie decyzji administracyjnej.',
-    content: `Internowanie było kluczowym elementem operacji "Jodła" – przygotowanego przez MSW planu wprowadzenia stanu wojennego. Listy internowanych były gotowe z wyprzedzeniem i obejmowały przywódców Solidarności na wszystkich szczeblach.
+    shortDesc: 'Nocna akcja 13 grudnia 1981 – aresztowanie 10 tysięcy działaczy Solidarności bez wyroku sądowego.',
+    content: `## Internowanie w stanie wojennym
 
-**Noc z 12 na 13 grudnia:**
-O godzinie 0:00 tysiące funkcjonariuszy SB i milicji jednocześnie zapukało do drzwi działaczy w całym kraju. Zatrzymywano bez nakazu sądu, na podstawie decyzji administracyjnej ministra spraw wewnętrznych. Internowani nie wiedzieli, na jak długo ani do jakiego ośrodka trafią.
+W nocy z 12 na 13 grudnia 1981 roku, w pierwszych godzinach stanu wojennego, Służba Bezpieczeństwa i Milicja Obywatelska przeprowadziły masowe aresztowania działaczy Solidarności, opozycjonistów i osób uznanych za zagrożenie dla reżimu. Była to największa fala represji politycznych w Polsce od czasów stalinizmu.
 
-**Ośrodki internowania:**
-Osadzano w różnych obiektach – aresztach śledczych, zakładach karnych, specjalnych ośrodkach. Największe to: Białołęka (Warszawa), Jaworze, Gołdap, Darłówek, Kwidzyn, Kamień Pomorski. Warunki były różne – od względnie znośnych po celowe szykany.
+### Operacja „Jodła"
 
-**Wśród internowanych:**
-Internowano m.in. Lecha Wałęsę (Arłamów), Andrzeja Gwiazdę, Jana Rulewskiego, Jacka Kuronia, Adama Michnika, Zbigniewa Romaszewskiego i tysiące regionalnych działaczy Solidarności. Internowani nie mieli statusu więźniów ani oskarżonych.
+Akcja masowych zatrzymań nosiła kryptonim „Jodła". Listy internowanych były przygotowywane od miesięcy przez Departament III SB. W planach SB figurowały tysiące nazwisk: działacze Solidarności wszystkich szczebli, doradcy KOR, publicyści, naukowcy, prawnicy.
 
-**Warunki i protest:**
-W wielu ośrodkach internowani prowadzili strajki głodowe, protestując przeciw warunkom. Opiekowały się nimi rodziny i Kościół. Listy z ośrodków przemycano na zewnątrz i publikowano w podziemnym obiegu.
+W pierwszej dobie zatrzymano ok. 5 000 osób. Do końca stanu wojennego (1983) przez obozy internowania przeszło ok. 10 000–13 000 osób. Internowanie nie wymagało wyroku sądowego – wystarczała decyzja administracyjna.
 
-**Zwolnienia:**
-Większość internowanych zwolniono stopniowo do końca 1982 roku. Część trafiła pod zarzuty karne. Internowanie zakończono formalnie wraz z zawieszeniem stanu wojennego w lipcu 1983 roku.`,
+### Miejsca internowania
+
+Internowanych osadzano w kilkudziesięciu ośrodkach na terenie całej Polski – w więzieniach, w obiektach wojskowych i MSW przystosowanych na obozy. Największe ośrodki: Białołęka (Warszawa), Hrubieszów, Kwidzyn, Darłówek, Jaworze, Głogów, Gołdap.
+
+Warunki były zróżnicowane – od stosunkowo znośnych do ciężkich. W Kwidzynie internowani skarżyli się na celowe poniżanie, mróz, złe wyżywienie. Strajki głodowe były częste.
+
+### Znani internowani
+
+Wśród internowanych znaleźli się: Lech Wałęsa (odosobniony w willi rządowej w Arłamowie), Tadeusz Mazowiecki, Jacek Kuroń, Adam Michnik, Bronisław Geremek, Zbigniew Bujak (ukrywał się, internowany w 1986), Andrzej Gwiazda, Anna Walentynowicz.
+
+Internowanie dotknęło wszystkich poziomów Solidarności – od przywódców ogólnopolskich do działaczy zakładowych.
+
+### Obrona i protest
+
+Kościół katolicki aktywnie angażował się w pomoc internowanym i ich rodzinom. Parafialne komitety pomocy zbierały pieniądze i żywność. Prymas Glemp interweniował dyplomatycznie.
+
+Rodziny internowanych nie zawsze wiedziały, gdzie przetrzymywani są bliscy. Listy i wizyty były ograniczone. Władze celowo utrudniały komunikację.
+
+### Koniec internowania
+
+Większość internowanych zwolniono w falach: pierwsza – wiosną 1982, kolejne latem i jesienią. W grudniu 1982 formalnie zawieszono stan wojenny; ogłoszono amnestię. W lipcu 1983 roku stan wojenny oficjalnie zniesiono.
+
+Niektórzy internowani, po zwolnieniu, natychmiast wznawiali działalność podziemną. Internowanie nie złamało Solidarności – wzmocniło determinację.
+
+### Sprawa karna po 1989
+
+Po 1989 roku postępowania karne wobec sprawców internowania toczyły się latami – z mizernym skutkiem. Prokuratorzy IPN prowadzili śledztwa, ale rzadko kończyły się wyrokami. Większość sprawców – zarówno decydentów, jak i funkcjonariuszy wykonawczych – uniknęła odpowiedzialności karnej.`,
     resources: [
       {
-        id: 'intern-1',
-        title: 'Internowani stanu wojennego – baza IPN',
+        id: 'intern-ipn',
+        title: 'Dokumenty internowania – IPN',
         type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Internowani%20stanu%20wojennego',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=internowanie+stan+wojenny+obóz',
         source: 'IPN Inwentarz',
-        description: 'Dokumenty dotyczące internowania działaczy Solidarności – decyzje, listy, akta SB.',
-        year: 1981,
-        downloadable: false,
+        description: 'Dokumenty dotyczące operacji internowania i list internowanych w stanie wojennym',
       },
       {
-        id: 'intern-2',
-        title: 'Stan wojenny i internowanie – fotografie',
-        type: 'zdjęcie',
-        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne?search=Stan%20wojenny%20internowanie',
-        source: 'IPN Edukacja',
-        description: 'Fotografie dokumentujące stan wojenny – aresztowania, ośrodki internowania, codzienność.',
-        year: 1981,
-        downloadable: true,
+        id: 'intern-ph',
+        title: 'Internowani w stanie wojennym',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=internowanie+stan+wojenny+internowani',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne i relacje świadków dotyczące internowania w stanie wojennym',
       },
       {
-        id: 'intern-3',
-        title: 'Relacje internowanych – Europejskie Centrum Solidarności',
-        type: 'dokument',
-        url: 'https://ecs.gda.pl/en/archive/',
-        source: 'Europejskie Centrum Solidarności',
-        description: 'Wspomnienia i relacje osób internowanych w czasie stanu wojennego.',
-        year: 1981,
-        downloadable: false,
+        id: 'intern-ninateka',
+        title: 'Dokumenty stanu wojennego – nagrania',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=stan+wojenny+internowani+represje+1981',
+        source: 'Ninateka',
+        description: 'Archiwalne nagrania i dokumenty filmowe dotyczące stanu wojennego i internowania',
       },
     ],
-    relatedIds: ['stan-wojenny', 'solidarnosc', 'walesa', 'sbezpieczenstwa', 'zomo'],
+    relatedIds: ['stan-wojenny', 'solidarnosc', 'walesa', 'kuron', 'michnik'],
   },
 
   {
     id: 'michnik',
     title: 'Adam Michnik',
-    subtitle: 'Intelektualista opozycji i redaktor Gazety Wyborczej',
     category: 'osoby',
-    tags: ['Michnik', 'KOR', 'opozycja', 'Gazeta Wyborcza', 'więzienie', 'intelektualista'],
-    yearStart: 1968,
-    summary: 'Adam Michnik (ur. 1946) – jeden z najważniejszych intelektualistów polskiej opozycji demokratycznej. Uczestnik protestów Marca 1968, współzałożyciel KOR, więzień polityczny wielokrotnie osadzany przez władze PRL. Po 1989 roku redaktor naczelny "Gazety Wyborczej" – pierwszego niezależnego dziennika w bloku wschodnim.',
-    content: `Adam Michnik urodził się w 1946 roku w Warszawie. Od wczesnej młodości angażował się w działalność opozycyjną – jako student historii UW uczestniczył w dyskusjach klubu "Poszukiwaczy Sprzeczności" i był jednym z organizatorów protestu przeciw zdjęciu ze sceny "Dziadów" Mickiewicza w 1968 roku.
+    shortDesc: 'Historyk, publicysta i działacz opozycji, współzałożyciel KOR, redaktor naczelny Gazety Wyborczej.',
+    content: `## Adam Michnik (ur. 1946)
 
-**Marzec 1968:**
-Michnik był jednym z przywódców studenckiego protestu marcowego. Aresztowany, skazany na trzy lata więzienia. Wydalony z Uniwersytetu Warszawskiego.
+Adam Michnik to jeden z najwybitniejszych intelektualistów polskiej opozycji – historyk, eseista, publicysta i działacz, który z drobnego agenta więziennych intelektualnych dysput stał się ikoną demokratycznej transformacji.
 
-**KOR i opozycja:**
-W 1976 roku współtworzył Komitet Obrony Robotników (KOR). Pisał analizy polityczne przemycane w podziemnym obiegu. Jego esej "Kościół, lewica, dialog" (1977) był przełomowy – przekonywał lewicową inteligencję do sojuszu z Kościołem i robotnikami.
+### Wczesna działalność
 
-**Więzienia:**
-Michnik był kilkakrotnie zatrzymywany i więziony przez SB. Po wprowadzeniu stanu wojennego w grudniu 1981 roku internowano go, a następnie postawiono zarzuty karne. Spędził łącznie kilka lat za kratkami.
+Michnik zaangażował się w opozycję już jako student historii na Uniwersytecie Warszawskim. W latach 60. był związany ze środowiskiem „komandosów" – grupy lewicowych intelektualistów skupionych wokół Jacka Kuronia i Karola Modzelewskiego.
 
-**"Listy z więzienia":**
-W trakcie uwięzienia Michnik pisał eseje i listy, przemycane na zewnątrz i wydawane w podziemnym obiegu oraz przez Instytut Literacki Giedroycia. "Listy z więzienia" stały się ważnym dokumentem moralnym epoki.
+W Marcu 1968 roku aktywnie uczestniczył w protestach studenckich. Aresztowany, spędził dwa lata w więzieniu. Wielokrotnie następnie więziony za działalność opozycyjną – łącznie kilka lat za kratami.
 
-**Okrągły Stół i transformacja:**
-Michnik uczestniczył w obradach Okrągłego Stołu. 8 maja 1989 roku ukazał się pierwszy numer "Gazety Wyborczej" – pisma Solidarności, którym kierował jako redaktor naczelny. "GW" stała się największym polskim dziennikiem.`,
+### KOR i „Kościół, lewica, dialog"
+
+W 1976 roku Michnik był wśród założycieli Komitetu Obrony Robotników. Jego esej „Kościół, lewica, dialog" (1977) był przełomowy – wzywał do dialogu między lewicową inteligencją a Kościołem katolickim jako sojusznika w walce o wolność. Ta analiza zdefiniowała strategię polskiej opozycji.
+
+Michnik rozwijał też koncepcję „nowego ewolucjonizmu" – ostrożnej, stopniowej zmiany systemu przez budowanie niezależnych instytucji społeczeństwa obywatelskiego.
+
+### Stan wojenny i więzienie
+
+13 grudnia 1981 roku Michnik został internowany. W więzieniu – w Białołęce i Barczewie – pisał eseje, które przemycano na Zachód i publikowano m.in. w paryskiej „Kulturze". Więzienie nie złamało go – wzmocniło. Odmawiał emigracji, chociaż mógł opuścić kraj.
+
+W 1985 roku skazany na trzy lata więzienia, zwolniony po ogłoszeniu amnestii w 1986.
+
+### Okrągły Stół i Gazeta Wyborcza
+
+W 1989 roku Michnik uczestniczył w obradach Okrągłego Stołu. Latem 1989 r. napisał słynny artykuł „Wasz prezydent, nasz premier" – formułę kompromisu, który umożliwił pokojowe przejęcie władzy przez Solidarność. Jaruzelski zostaje prezydentem, ale premierem – Tadeusz Mazowiecki.
+
+8 maja 1989 roku ukazał się pierwszy numer „Gazety Wyborczej" – pisma Solidarności na czas kampanii wyborczej, którego Michnik został redaktorem naczelnym. Funkcję tę pełni do dziś. „Gazeta" stała się największym dziennikiem w Polsce.
+
+### Spuścizna i kontrowersje
+
+Michnik jest symbolem liberalnej lewicy i dialogu. Jego teza o „grubej kresce" – oddzieleniu nowej Polski od rozliczeń z komunizmem – wywołała i wywołuje do dziś ostre spory. Nagrodzony wieloma odznaczeniami i doktoratami honoris causa; przez innych krytykowany za zbyt miękkie traktowanie dawnych komunistów.`,
     resources: [
       {
-        id: 'michnik-1',
-        title: 'Adam Michnik – akta SB i IPN',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Adam%20Michnik',
-        source: 'IPN Inwentarz',
-        description: 'Dokumenty Służby Bezpieczeństwa dotyczące inwigilacji i represji wobec Adama Michnika.',
-        year: 1968,
-        downloadable: false,
-      },
-      {
-        id: 'michnik-2',
-        title: 'KOR i opozycja demokratyczna – Przystanek Historia',
-        type: 'publikacja',
-        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=KOR%20opozycja%20demokratyczna',
-        source: 'IPN',
-        description: 'Artykuł IPN o Komitecie Obrony Robotników, którego Michnik był współzałożycielem.',
-        year: 1976,
-        downloadable: false,
-      },
-      {
-        id: 'michnik-3',
-        title: 'Okrągły Stół – dokumentacja',
+        id: 'michnik-ipn',
+        title: 'Adam Michnik – dokumenty SB',
         type: 'dokument',
-        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=okragly%20stol',
-        source: 'Przystanek Historia / IPN',
-        description: 'Portal tematyczny IPN o obradach Okrągłego Stołu, w których Michnik uczestniczył.',
-        year: 1989,
-        downloadable: false,
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Michnik+Adam',
+        source: 'IPN Inwentarz',
+        description: 'Materiały bezpieki dotyczące inwigilacji Adama Michnika w zasobach IPN',
+      },
+      {
+        id: 'michnik-ph',
+        title: 'Adam Michnik i opozycja demokratyczna',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Michnik+Adam+opozycja',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o roli Adama Michnika w polskiej opozycji',
+      },
+      {
+        id: 'michnik-polona',
+        title: 'Gazeta Wyborcza – pierwsze numery (Polona)',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Gazeta+Wyborcza+1989',
+        source: 'Polona',
+        description: 'Digitalizacja pierwszych numerów Gazety Wyborczej z 1989 roku',
       },
     ],
-    relatedIds: ['kor', 'marzec-1968', 'solidarnosc', 'internowanie', 'okragly-stol'],
+    relatedIds: ['kor', 'marzec-1968', 'okragly-stol', 'kuron', 'stan-wojenny'],
   },
 
   {
     id: 'kuron',
     title: 'Jacek Kuroń',
-    subtitle: 'Twórca KOR i sumienie opozycji',
     category: 'osoby',
-    tags: ['Kuroń', 'KOR', 'opozycja', 'Solidarność', 'List otwarty', 'więzień polityczny'],
-    yearStart: 1964,
-    yearEnd: 1989,
-    summary: 'Jacek Kuroń (1934–2004) – jeden z najbardziej charyzmatycznych przywódców polskiej opozycji. Autor "Listu otwartego do PZPR" (1965), współzałożyciel KOR (1976), doradca Solidarności i wielokrotny więzień polityczny. Po 1989 roku minister pracy w rządzie Mazowieckiego.',
-    content: `Jacek Kuroń urodził się w 1934 roku we Lwowie. Był działaczem harcerskim i przez pewien czas szczerym komunistą – szybko jednak doszedł do wniosku, że system jest niereformowalny od środka.
+    shortDesc: 'Pedagog, działacz opozycji, współzałożyciel KOR i jeden z ojców polskiej transformacji.',
+    content: `## Jacek Kuroń (1934–2004)
 
-**"List otwarty do PZPR" (1965):**
-Kuroń wspólnie z Karolem Modzelewskim napisał "List otwarty do członków PZPR" – wyczerpującą marksistowską analizę biurokratycznego charakteru komunizmu. Tekst krążył w maszynopisach. Za jego napisanie obaj autorzy zostali skazani na 3 lata więzienia.
+Jacek Kuroń był jedną z najbardziej wpływowych postaci polskiej opozycji demokratycznej. Pedagog z wykształcenia, harcerz z powołania, a rewolucjonista z wyboru – przeszedł drogę od młodego komunisty do czołowego przeciwnika systemu.
 
-**KOR – Komitet Obrony Robotników:**
-We wrześniu 1976 roku, po represjach wobec robotników Radomia i Ursusa, Kuroń był głównym organizatorem KOR. Komitet jawnie – pod nazwiskami – udzielał pomocy prawnej i finansowej represjonowanym robotnikom i ich rodzinom. Była to rewolucyjna zmiana w taktyce opozycji.
+### Droga od komunizmu do opozycji
 
-**Doradca Solidarności:**
-Podczas sierpniowego strajku 1980 roku Kuroń koordynował informacje w Warszawie i doradzał strajkującym. Jego telefon był centrum kontaktowym opozycji. W stanie wojennym internowany, a następnie aresztowany – spędził łącznie ponad 8 lat w więzieniu.
+W młodości Kuroń zaangażował się w budowę socjalizmu, wierząc w ideały ruchu. Był aktywny w ZMP i harcerstwie, gdzie próbował realizować autentyczne ideały wychowawcze. Przełomem była odwilż październikowa 1956 r. i rosnąca świadomość, że system niszczy wartości, które oficjalnie głosi.
 
-**Twarz opozycji:**
-Kuroń był niezwykłą osobowością – porywającym mówcą, człowiekiem o wielkim sercu. Jego słynne powiedzenie "zamiast palić komitety, zakładajcie własne" stało się mottem opozycyjnej taktyki.
+W 1964 roku, wspólnie z Karolem Modzelewskim, napisał „List otwarty do Partii" – odważną analizę marksistowską krytykującą system jako „rządy biurokracji partyjnej". List był jawnym wyzwaniem dla władzy. Obaj autorzy zostali aresztowani i skazani na więzienie.
 
-**Po 1989 roku:**
-Jako minister pracy rządu Mazowieckiego (1989–1991, 1992–1993) tworzył polskie prawo pracy i system zabezpieczenia społecznego w dobie transformacji. Autor "Zupy Kuronia" – jako minister organizował pomoc dla bezrobotnych.`,
+### KOR i jawna opozycja
+
+Po Czerwcu 1976 r. Kuroń stał się współzałożycielem Komitetu Obrony Robotników (KOR) – pierwszej jawnej organizacji opozycyjnej w Polsce. KOR pomagał represjonowanym robotnikom z Radomia i Ursusa, udzielając im pomocy prawnej i finansowej. Kuroń był mózgiem strategii działania w białych rękawiczkach: jawność zamiast konspiracji.
+
+Jego mieszkanie przy ulicy Mickiewicza w Warszawie stało się centrum opozycji – spotykali się tu robotnicy, studenci, intelektualiści. Bezpieka wielokrotnie go inwigilowała, nękała i aresztowała.
+
+### Sierpień 1980 i Solidarność
+
+Gdy wybuchły strajki sierpniowe, Kuroń koordynował informacje z Warszawy, przekazując je zagranicznym mediom. Słynna jest anegdota o tym, jak dzwonił do KOR-u – telefon non stop zajęty, bo właśnie Kuroń go nie odkładał. Stał się nieoficjalnym „rzecznikiem" strajkujących wobec świata.
+
+W stanie wojennym (1981–1984) był internowany i więziony. Nie złamał się. Pisał i działał konspiracyjnie.
+
+### Transformacja i rząd Mazowieckiego
+
+W 1989 roku Kuroń zasiadł przy Okrągłym Stole po stronie solidarnościowej. Po wyborach czerwcowych został ministrem pracy w rządzie Tadeusza Mazowieckiego (1989–1991) i ponownie w rządzie Hanny Suchockiej (1992–1993). To on nadzorował najtrudniejszy okres transformacji, m.in. reformy rynku pracy i skok bezrobocia.
+
+Zasłynął z „kuroniówki" – dożywania dla bezrobotnych, którą zorganizował z własnej inicjatywy. Była to zupa wydawana w stołówkach dla najuboższych – symbol jego troski o zwykłego człowieka.
+
+### Spuścizna
+
+Kuroń był człowiekiem pełnym sprzeczności: dawny komunista, który stał się symbolem demokratycznej opozycji; minister transformacji, który najbardziej troszczył się o jej ofiary. Jego myśl pedagogiczna – dać dzieciom wolność i odpowiedzialność – pozostaje aktualna. Odznaczony Orderem Orła Białego, pochowany na Powązkach Wojskowych.`,
     resources: [
       {
-        id: 'kuron-1',
-        title: 'Jacek Kuroń – akta IPN',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Jacek%20Kuro%C5%84',
-        source: 'IPN Inwentarz',
-        description: 'Dokumenty SB dotyczące inwigilacji Jacka Kuronia przez aparat bezpieczeństwa PRL.',
-        year: 1964,
-        downloadable: false,
-      },
-      {
-        id: 'kuron-2',
-        title: 'KOR – historia i dokumenty IPN',
-        type: 'publikacja',
-        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=KOR',
-        source: 'IPN',
-        description: 'Artykuł IPN o Komitecie Obrony Robotników założonym przez Kuronia i innych.',
-        year: 1976,
-        downloadable: false,
-      },
-      {
-        id: 'kuron-3',
-        title: 'Kuroń i Solidarność – Europejskie Centrum Solidarności',
+        id: 'kuron-ipn',
+        title: 'Jacek Kuroń – teczka w zasobach IPN',
         type: 'dokument',
-        url: 'https://ecs.gda.pl/en/archive/',
-        source: 'Europejskie Centrum Solidarności',
-        description: 'Archiwum ECS – materiały o roli Jacka Kuronia w ruchu Solidarności.',
-        year: 1980,
-        downloadable: false,
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Kuro%C5%84+Jacek',
+        source: 'IPN Inwentarz',
+        description: 'Dokumenty SB dotyczące inwigilacji Jacka Kuronia w zasobach Instytutu Pamięci Narodowej',
+      },
+      {
+        id: 'kuron-ph',
+        title: 'Jacek Kuroń – Przystanek Historia',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Kuro%C5%84+Jacek+KOR',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o życiu i działalności Jacka Kuronia',
+      },
+      {
+        id: 'kuron-ninateka',
+        title: 'Jacek Kuroń – nagrania archiwalne',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Kuro%C5%84+Jacek',
+        source: 'Ninateka',
+        description: 'Archiwalne nagrania z udziałem Jacka Kuronia – wywiady, przemówienia i relacje',
       },
     ],
-    relatedIds: ['kor', 'solidarnosc', 'michnik', 'internowanie', 'okragly-stol'],
+    relatedIds: ['kor', 'marzec-1968', 'sierpien-1980', 'okragly-stol', 'czerwiec-1976'],
   },
 
   {
@@ -3958,61 +4043,64 @@ Przez kurierów i przez Kościół podziemna Solidarność utrzymywała stały k
   {
     id: 'kapuscinski',
     title: 'Ryszard Kapuściński',
-    subtitle: 'Mistrz reportażu i świadek historii świata',
     category: 'osoby',
-    tags: ['Kapuściński', 'reportaż', 'dziennikarstwo', 'PAP', 'Cesarz', 'Afryka', 'literatura faktu'],
-    yearStart: 1956,
-    yearEnd: 1989,
-    summary: 'Ryszard Kapuściński (1932–2007) – najwybitniejszy polski reporter XX wieku. Korespondent PAP w Afryce, Azji i Ameryce Łacińskiej. Autor "Cesarza", "Szachinszacha" i "Imperium" – dzieł, które opisując dalekie despotyzmy, mówiły o uniwersalnych mechanizmach totalitaryzmu. Przez PRL traktowany instrumentalnie, lecz tworzył literaturę o ponadczasowej wartości.',
-    content: `Ryszard Kapuściński urodził się w 1932 roku w Pińsku (dziś Białoruś). Ukończył historię na UW. Jako dziennikarz PAP wyjeżdżał na przełomie lat 50. i 60. do Afryki – był świadkiem dekolonizacji kontynentu.
+    shortDesc: 'Dziennikarz i pisarz – reporter świata, autor „Cesarza" i „Szachinszacha", jeden z najwybitniejszych reportażystów XX wieku.',
+    content: `## Ryszard Kapuściński (1932–2007)
 
-**Korespondent w świecie:**
-Kapuściński jako reportażysta PAP pracował w Afryce Subsaharyjskiej, Ameryce Łacińskiej (rewolucja w Chile, Salwador), Iranie i krajach arabskich. Był świadkiem i kronikarzem dziesiątek rewolucji, wojen i zamachów stanu. Jak sam mówił – "byłem tam, gdzie historia się działa".
+Ryszard Kapuściński był jednym z największych reporterów XX wieku – dziennikarzem, pisarzem i poetą, który stworzył własny gatunek literacki: reporter literatury faktu. Jego książki o upadku imperiów, dyktatorach i rewolucjach są czytane na całym świecie i przetłumaczone na kilkadziesiąt języków.
 
-**"Cesarz" (1978):**
-Opowieść o dworze ostatniego cesarza Etiopii Hajle Sellasje I – ale napisana tak, że każdy czytelnik w PRL rozumiał, że chodzi o mechanizm każdej władzy totalitarnej. "Cesarz" był bestsellerem w Polsce i sukcesem na Zachodzie.
+### Dziennikarz PAP
 
-**"Szachinszach" (1982):**
-Reportaż o rewolucji irańskiej i obaleniu szacha Mohammada Rezy Pahlawiego. Kolejna medytacja o naturze despotyzmu i rewolucji.
+Kapuściński pracował dla Polskiej Agencji Prasowej jako korespondent zagraniczny – był jednym z nielicznych polskich dziennikarzy, którzy mogli regularnie wyjeżdżać za granicę. Odwiedził ponad sto krajów, był świadkiem kilkudziesięciu rewolucji i przewrotów.
 
-**PRL a Kapuściński:**
-Kapuściński pracował dla PAP – państwowej agencji – i był więc narzędziem propagandy. Jednocześnie jego teksty wykraczały daleko poza potrzeby propagandowe. Władze traktowały go jako prestiżową wizytówkę polskiej kultury, nie rozumiejąc głębokości jego przekazu.
+Jego relacje z Afryki, Azji i Ameryki Łacińskiej były czymś więcej niż informacją prasową – były literaturą. PRL wysyłała go jako korespondenta, nie zdając sobie sprawy, że tworzy arcydzieła literackie.
 
-**Dziedzictwo:**
-Kapuściński jest dziś uznawany za jednego z twórców nowoczesnego reportażu literackiego. Jego dzieła przetłumaczono na ponad 30 języków.`,
+### Cesarz
+
+„Cesarz" (1978) to opowieść o upadku cesarza Etiopii Hajle Syllasje – ale każdy czytelnik w Polsce rozumiał, że to alegoria każdej dyktatury, w tym polskiej. Kapuściński opisał mechanizm dworu: pochlebstwo, strach, hierarchia i bezmyślna lojalność wobec władzy. Książka była bestsellerem i hitem drugiego obiegu.
+
+### Szachinszach, Heban, Imperium
+
+„Szachinszach" (1982) o rewolucji irańskiej, „Heban" (1998) o Afryce, „Imperium" (1993) o rozpadzie ZSRR – każda z tych książek jest arcydziełem gatunku reportażu literackiego.
+
+„Imperium" Kapuściński pisał ze szczególnym bólem – znał z własnego doświadczenia, czym był sowiecki system. Podróżował po rozpadającym się ZSRR i opisał tragizm ludzi wyzwolonych od tyranii, ale zagubionych w nowej rzeczywistości.
+
+### Kontrowersje
+
+Po śmierci Kapuścińskiego pojawiły się głosy podważające jego wiarygodność factual – niektórzy badacze twierdzą, że mieszał fakty z fikcją w swoich reportażach. Dyskusja o granicy literatury faktu i literackiej kreacji jest ciągła.
+
+Osobnym wątkiem były jego powiązania ze służbami – dokumenty IPN wskazują, że miał kontakty z wywiadem PRL, choć skala i charakter tej współpracy są dyskutowane.
+
+### Spuścizna
+
+Kapuściński był wielokrotnie wymieniany jako kandydat do Nagrody Nobla. Stworzył nowy model dziennikarstwa – empatycznego, literackiego, zaangażowanego. Jego szkoła reportażu wychowała pokolenia polskich reporterów.`,
     resources: [
       {
-        id: 'kapus-1',
-        title: 'Ryszard Kapuściński – Cesarz i inne dzieła',
+        id: 'kapuscinski-wl',
+        title: 'Ryszard Kapuściński – Wolne Lektury',
         type: 'publikacja',
         url: 'https://wolnelektury.pl/katalog/autor/kapuscinski-ryszard/',
         source: 'Wolne Lektury',
-        description: 'Dostęp do reportaży i esejów Ryszarda Kapuścińskiego w cyfrowej bibliotece.',
-        year: 1978,
-        downloadable: true,
+        description: 'Wybrane teksty Ryszarda Kapuścińskiego dostępne online',
       },
       {
-        id: 'kapus-2',
-        title: 'Kapuściński – archiwum Polony',
-        type: 'zdjęcie',
-        url: 'https://polona.pl/search/?query=Kapu%C5%9Bci%C5%84ski%20Polony',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Archiwum pierwszych wydań dzieł Kapuścińskiego i materiały prasowe z epoki.',
-        year: 1975,
-        downloadable: true,
+        id: 'kapuscinski-polona',
+        title: 'Kapuściński – archiwalia (Polona)',
+        type: 'dokument',
+        url: 'https://polona.pl/search/?query=Kapu%C5%9Bci%C5%84ski+Ryszard+reporter',
+        source: 'Polona',
+        description: 'Zdigitalizowane materiały o Kapuścińskim i jego twórczości',
       },
       {
-        id: 'kapus-3',
-        title: 'Dziennikarstwo w PRL – materiały edukacyjne',
-        type: 'publikacja',
-        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne?search=Dziennikarstwo',
-        source: 'IPN Edukacja',
-        description: 'Materiały IPN o pracy dziennikarskiej w warunkach cenzury i propagandy PRL.',
-        year: 1956,
-        downloadable: false,
+        id: 'kapuscinski-ipn',
+        title: 'Kapuściński a wywiad PRL – dokumenty IPN',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Kapu%C5%9Bci%C5%84ski+Ryszard+wywiad',
+        source: 'IPN Inwentarz',
+        description: 'Materiały dotyczące kontaktów Kapuścińskiego ze służbami PRL',
       },
     ],
-    relatedIds: ['kultura-prl', 'cenzura-prl', 'propaganda-prl', 'milosz', 'kultura-paryz'],
+    relatedIds: ['literatura-prl', 'prasa-prl', 'wywiad-prl', 'kultura-prl', 'milosz'],
   },
 
   {
@@ -4077,61 +4165,74 @@ KPN weszła do parlamentu w wyborach 1991 roku. Moczulski przez lata był posłe
   {
     id: 'kobiety-prl',
     title: 'Kobiety w PRL',
-    subtitle: 'Równość na papierze, podwójne obciążenie w życiu',
     category: 'społeczeństwo',
-    tags: ['kobiety', 'emancypacja', 'praca', 'rodzina', 'Liga Kobiet', 'macierzyństwo'],
-    yearStart: 1944,
-    yearEnd: 1989,
-    summary: 'PRL oficjalnie głosił równouprawnienie kobiet – konstytucja zapewniała jednakowe prawa, kobiety masowo wchodziły na rynek pracy. W praktyce jednak kobiety dźwigały "podwójny etat" – pracę zawodową i pełen ciężar obowiązków domowych, w warunkach niedoboru towarów i braku udogodnień.',
-    content: `Komunistyczna ideologia głosiła emancypację kobiet jako jeden ze swoich fundamentów. W rzeczywistości polityka ta miała przede wszystkim dostarczyć siłę roboczą rozwijającemu się przemysłowi.
+    shortDesc: 'Równouprawnienie w teorii i podwójny etat w praktyce – sytuacja kobiet w Polsce Ludowej.',
+    content: `## Kobiety w PRL
 
-**Kobiety na rynku pracy:**
-W 1950 roku kobiety stanowiły ok. 30% pracujących, w 1980 roku – ponad 45%. Wchodziły do zawodów tradycyjnie męskich: były inżynierkami, lekarkami, nauczycielkami. Dostęp do edukacji był powszechny i formalnie niedyskryminujący.
+Polska Rzeczpospolita Ludowa oficjalnie głosiła równouprawnienie kobiet – i dokonała realnego postępu w zakresie dostępu do edukacji i pracy zawodowej. Jednocześnie kobiety dźwigały „drugi etat" domowy, a ich pozycja w polityce i gospodarce była w praktyce niższa niż mężczyzn.
 
-**"Podwójny etat":**
-Po powrocie z pracy kobieta wracała do… pracy domowej. W warunkach PRL gotowanie wymagało godzin spędzonych w kolejkach, pralka była luksusem, opieka nad dziećmi i starcami spoczywała na kobietach. Mężczyźni rzadko partycypowali w obowiązkach domowych – socjalizm zmienił strukturę zatrudnienia, nie mentalność społeczną.
+### Emancypacja od góry
 
-**Liga Kobiet:**
-Powołana w 1945 roku organizacja, wzorowana na sowieckich strukturach, miała mobilizować kobiety do aktywności społecznej i zawodowej. W praktyce była kontrolowanym przez partię narzędziem, niereprezentującym realnych potrzeb kobiet.
+Komunizm promował włączenie kobiet do rynku pracy jako element budowy socjalizmu – nie z powodów feministycznych, lecz pragmatycznych: gospodarka potrzebowała siły roboczej. Kobiety masowo wchodziły do fabryk, biur, szkół i szpitali.
 
-**Aborcja i planowanie rodziny:**
-W 1956 roku PRL zalegalizował aborcję na szerokich podstawach – jedna z pierwszych takich ustaw w świecie. Regulacja wynikała bardziej z potrzeb ekonomicznych i demograficznych polityki niż z troski o prawa kobiet. Dostęp do antykoncepcji był ograniczony, co czyniło aborcję główną metodą planowania rodziny.
+W 1952 roku Konstytucja PRL zapewniła kobietom równe prawa polityczne, ekonomiczne i społeczne. Ochrona macierzyństwa, urlopy macierzyńskie, żłobki i przedszkola finansowane przez państwo – to realne osiągnięcia, które ułatwiały łączenie pracy z wychowaniem dzieci.
 
-**Kobiety w opozycji:**
-Kobiety odgrywały kluczową rolę w Solidarności i opozycji – Anna Walentynowicz, Barbara Labuda, Zofia Romaszewska. Jednak przywódcze stanowiska zajmowali głównie mężczyźni.`,
+### Wykształcenie i zawody
+
+PRL masowo kształciła kobiety. Studia wyższe stały się dostępne dla córek robotniczych i chłopskich. Kobiety zdominowały zawody feminizowane: nauczycielki, lekarki (w ZSRR i krajach bloku feminizacja medycyny była znacząca), bibliotekarki, ekonomistki.
+
+W branżach wcześniej zarezerwowanych dla mężczyzn – inżynieria, nauki ścisłe, budownictwo – kobiety również się pojawiły, choć dalej były mniejszością.
+
+### Podwójny etat
+
+Mimo formalnego równouprawnienia kobiety w PRL dźwigały „podwójny etat" – pracę zawodową i całość prac domowych. Mężczyźni rzadko uczestniczyli w gotowaniu, sprzątaniu i wychowaniu dzieci.
+
+Sklepy zamknięte poza godzinami pracy, kolejki, gotowanie bez gotowych produktów – to kobiety stały w kolejkach po mięso, gotowały obiady z dostępnych surowców, zarządzały domowym budżetem. Praca domowa była niewidzialna i nieopłacana.
+
+### Kobiety w polityce
+
+Na wysokich stanowiskach partyjnych i państwowych kobiet było niewiele. Politburo, KC PZPR, rząd – wszystkie zdominowane przez mężczyzn. Kilka wyjątków: Eugenia Krassowska (minister oświaty), Władysława Macieszyna. Parytety formalne były fikcją.
+
+Kobiety były za to widoczne w lokalnych organach władzy, radach narodowych – jako „ozdoba" systemu, dowód na równouprawnienie, bez realnej decyzyjności.
+
+### Macierzyństwo i aborcja
+
+W 1956 roku zalegalizowano aborcję w Polsce – była dostępna na życzenie do 12. tygodnia ciąży. Decyzja wynikała z pragmatyzmu zdrowotnego (nielegalne zabiegi zabijały kobiety). W latach 70. wykonywano ok. 100 000 – 150 000 legalnych aborcji rocznie.
+
+Kościół konsekwentnie sprzeciwiał się tej regulacji. Po 1989 roku, w wyniku kompromisu, aborcję w Polsce zaostrzono.
+
+### Solidarność i kobiety
+
+W Solidarności kobiety odgrywały kluczową rolę – Anna Walentynowicz, Alina Pienkowska, Joanna i Henryk Duda-Gracz. Ale w kierownictwie Solidarności przeważali mężczyźni. Walentynowicz, choć formalnie była iskrą strajku, nie zasiadała w prezydium MKS.
+
+Internowanie w stanie wojennym dotknęło też kobiety – działaczki Solidarności, doradczynie, publicystki.`,
     resources: [
       {
-        id: 'kob-1',
-        title: 'Kobiety w PRL – materiały edukacyjne IPN',
+        id: 'kobiety-polona',
+        title: 'Prasa kobieca PRL (Polona)',
         type: 'publikacja',
-        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne?search=Kobiety',
-        source: 'IPN Edukacja',
-        description: 'Materiały edukacyjne IPN o sytuacji kobiet w Polsce Ludowej.',
-        year: 1950,
-        downloadable: true,
+        url: 'https://polona.pl/search/?query=Kobieta+%C5%BCycie+pismo+PRL+emancypacja',
+        source: 'Polona',
+        description: 'Zdigitalizowane numery pism kobiecych PRL – „Kobieta i Życie", „Przyjaciółka"',
       },
       {
-        id: 'kob-2',
-        title: 'Kroniki życia codziennego kobiet – NINATEKA',
-        type: 'film',
-        url: 'https://ninateka.pl/vod/szukaj?query=Kroniki%20%C5%BCycia%20codziennego',
-        source: 'NINATEKA / Filmoteka Narodowa',
-        description: 'Archiwalne kroniki i filmy dokumentalne o życiu kobiet w PRL.',
-        year: 1960,
-        downloadable: false,
+        id: 'kobiety-ph',
+        title: 'Kobiety w PRL – praca i codzienność',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=kobiety+PRL+emancypacja+praca+macierzy%C5%84stwo',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o sytuacji kobiet w Polsce Ludowej',
       },
       {
-        id: 'kob-3',
-        title: 'Prasa kobieca i Liga Kobiet – Polona',
-        type: 'zdjęcie',
-        url: 'https://polona.pl/search/?query=Prasa%20kobieca%20Liga',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Archiwum prasy kobiecej PRL i materiałów Ligi Kobiet.',
-        year: 1950,
-        downloadable: true,
+        id: 'kobiety-ninateka',
+        title: 'Kobiety PRL – kroniki i reportaże',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=kobiety+praca+macierzy%C5%84stwo+r%C3%B3wnouprawnienie+PRL',
+        source: 'Ninateka',
+        description: 'Kroniki filmowe i reportaże o sytuacji kobiet w Polsce Ludowej',
       },
     ],
-    relatedIds: ['zycie-codzienne', 'walentynowicz', 'edukacja-prl', 'nomenklatura', 'solidarnosc'],
+    relatedIds: ['dzieci-prl', 'prasa-prl', 'solidarnosc', 'edukacja-prl', 'sluzba-zdrowia-prl'],
   },
 
   {
@@ -4194,178 +4295,192 @@ W lipcu 1989 roku Rakowski objął funkcję I sekretarza KC PZPR – kiedy parti
   {
     id: 'rwpg',
     title: 'RWPG – Rada Wzajemnej Pomocy Gospodarczej',
-    subtitle: 'Wschodni blok gospodarczy 1949–1991',
     category: 'gospodarka',
-    tags: ['RWPG', 'Comecon', 'blok wschodni', 'handel', 'integracja', 'rubel transferowy'],
-    yearStart: 1949,
-    yearEnd: 1991,
-    summary: 'Rada Wzajemnej Pomocy Gospodarczej (RWPG, ang. Comecon) – organizacja ekonomiczna krajów bloku wschodniego, powołana w 1949 roku jako odpowiedź na Plan Marshalla. Polska była członkiem założycielem. RWPG regulowała handel między krajami socjalistycznymi, określała specjalizację produkcyjną i uzależniała polską gospodarkę od ZSRR.',
-    content: `RWPG – Rada Wzajemnej Pomocy Gospodarczej – powstała 25 stycznia 1949 roku w Moskwie. Członkami założycielami były: ZSRR, Polska, Czechosłowacja, Węgry, Rumunia i Bułgaria. Następnie dołączyły NRD, Albania i Mongolia.
+    shortDesc: 'Wschodnioblokowy odpowiednik EWG – integracja gospodarcza krajów komunistycznych pod hegemonią ZSRR.',
+    content: `## RWPG – Rada Wzajemnej Pomocy Gospodarczej
 
-**Cele i struktura:**
-RWPG miała koordynować plany gospodarcze, ułatwiać wymianę handlową i wyspecjalizować produkcję poszczególnych krajów. W praktyce oznaczało to podporządkowanie planów narodowych potrzebom ZSRR.
+Rada Wzajemnej Pomocy Gospodarczej (ros. СЭВ – Sowiet Ekonomiczeskiej Wzaimopomoszczi, ang. COMECON) była organizacją integracji ekonomicznej krajów socjalistycznych, powołaną w 1949 roku jako odpowiedź na Plan Marshalla. Przez 40 lat wyznaczała ramy handlu i kooperacji przemysłowej Polski z blokiem wschodnim.
 
-**Rubel transferowy:**
-Rozliczenia między krajami RWPG odbywały się w sztucznej walucie – rublu transferowym. Nie był wymienialny na waluty zachodnie i nie odzwierciedlał realnej wartości towarów. System był korzystny dla ZSRR (tani surowce energetyczne w zamian za produkty przemysłowe po zawyżonych cenach).
+### Geneza i struktura
 
-**Specjalizacja:**
-Polska specjalizowała się w produkcji: węgla, statków (Stocznia Gdańska), maszyn górniczych, wagonów kolejowych, koksu. Inne kraje dostarczały: ZSRR – ropę i gaz, Czechosłowacja – obrabiarki, NRD – sprzęt elektroniczny.
+RWPG powstała w 1949 roku z inicjatywy Stalina. Pierwotni członkowie: ZSRR, Polska, Czechosłowacja, Węgry, Rumunia, Bułgaria i Albania (która wystąpiła w 1961). Później dołączyły NRD (1950), Mongolia (1962), Kuba (1972) i Wietnam (1978).
 
-**Uzależnienie od ZSRR:**
-Polska importowała prawie całość ropy naftowej i gazu ziemnego z ZSRR – po cenach niższych niż rynkowe (co paradoksalnie było dotacją sowiecką dla bloku). Po szokach naftowych lat 70. ZSRR stopniowo podnosił ceny w RWPG, pogłębiając kryzysy gospodarcze krajów bloku.
+Siedziba znajdowała się w Moskwie. Formalnie organizacja miała charakter dobrowolnej kooperacji – w praktyce ZSRR dyktował warunki. Ceny transferowe, kursy walut, przydziały produkcji – wszystko to ustalano na sesjach Rady, gdzie głos Moskwy był rozstrzygający.
 
-**Rozwiązanie:**
-RWPG rozwiązano 28 czerwca 1991 roku – po upadku komunizmu w Europie i rozpadzie ZSRR. Kraje byłego bloku wschodniego orientowały się na integrację z EWG/UE.`,
+### Specjalizacja produkcji
+
+Jedną z głównych zasad RWPG była „socjalistyczna kooperacja" – każdy kraj miał specjalizować się w określonych branżach. Polska była centrum produkcji węgla, okrętów i maszyn górniczych. Czechosłowacja – przemysłu maszynowego. NRD – optyki i precyzji. Rumunii przypadła ropa i przemysł chemiczny.
+
+W praktyce podział ten był niestabilny, a krajom zależnym często narzucano profil produkcji niekorzystny dla ich własnego rozwoju. ZSRR zachowywał dla siebie zaawansowane technologie i surowce energetyczne.
+
+### Ceny transferowe i nieekwiwalentna wymiana
+
+Kluczowym problemem RWPG były ceny. Surowce – zwłaszcza ropa radziecka – sprzedawane były krajom RWPG poniżej cen rynkowych, co było formą subwencji sowieckiej. W zamian kraje wschodnioblokowe eksportowały towary przemysłowe do ZSRR często po zawyżonych cenach lub w jakości, której nikt na Zachodzie nie chciał kupić.
+
+Ten system ukrywał skalę nieefektywności. Fabryki w Polsce produkowały eksportowy sprzęt dla ZSRR, ale w standardzie, który nie mógłby konkurować na rynku zachodnim.
+
+### Transfery technologii (lub ich brak)
+
+RWPG nie stała się nośnikiem nowoczesnych technologii. ZSRR pilnie strzegł know-how. Kraje satelickie nie miały swobodnego dostępu do zachodniej technologii (embargo CoCom). W efekcie przez dekady powiększała się przepaść technologiczna między Wschodem a Zachodem.
+
+### Zadłużenie i kryzys lat 80.
+
+W latach 70. kraje RWPG – w tym Polska – masowo zaciągały kredyty zachodnie, licząc na modernizację. Gdy przyszedł kryzys, długi okazały się nie do spłacenia. Polska w 1980 roku miała dług zachodni rzędu 20 mld dolarów. RWPG nie była w stanie pomóc – brakowało twardych walut.
+
+RWPG rozwiązała się w 1991 roku, gdy upadły komunistyczne rządy i rynki wschodnioblokowe przestały istnieć w dotychczasowej formie.`,
     resources: [
       {
-        id: 'rwpg-1',
-        title: 'RWPG i integracja gospodarcza bloku wschodniego – IPN',
-        type: 'publikacja',
-        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne?search=RWPG%20integracja%20gospodarcza',
-        source: 'IPN Edukacja',
-        description: 'Materiały edukacyjne IPN o gospodarce PRL w ramach bloku wschodniego i RWPG.',
-        year: 1949,
-        downloadable: true,
+        id: 'rwpg-polona',
+        title: 'Dokumenty RWPG – Polona',
+        type: 'dokument',
+        url: 'https://polona.pl/search/?query=RWPG+Rada+Wzajemnej+Pomocy+Gospodarczej',
+        source: 'Polona',
+        description: 'Archiwalne dokumenty i publikacje dotyczące RWPG w zbiorach Polony',
       },
       {
-        id: 'rwpg-2',
-        title: 'Dokumenty RWPG – Archiwum Akt Nowych',
+        id: 'rwpg-ph',
+        title: 'RWPG i gospodarka bloku wschodniego',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=RWPG+gospodarka+blok+wschodni',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o RWPG i jej wpływie na polską gospodarkę',
+      },
+      {
+        id: 'rwpg-ipn',
+        title: 'Materiały archiwalne dot. RWPG',
         type: 'akt',
-        url: 'https://szukajwarchiwach.gov.pl/szukaj?q=RWPG%20Akt%20Nowych',
-        source: 'Archiwum Akt Nowych / Szukaj w Archiwach',
-        description: 'Akta polskich delegacji na posiedzenia RWPG i dokumenty handlowe z krajami bloku.',
-        year: 1949,
-        downloadable: false,
-      },
-      {
-        id: 'rwpg-3',
-        title: 'Gospodarka PRL i zależność od ZSRR – opracowanie',
-        type: 'publikacja',
-        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=gospodarka%20prl',
-        source: 'Przystanek Historia / IPN',
-        description: 'Artykuł o realiach gospodarczych PRL, w tym zależności od ZSRR w ramach RWPG.',
-        year: 1970,
-        downloadable: false,
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=RWPG+handel+zagraniczny',
+        source: 'IPN Inwentarz',
+        description: 'Materiały archiwalne dotyczące polskiego uczestnictwa w RWPG',
       },
     ],
-    relatedIds: ['gospodarka-prl', 'uklad-warszawski', 'gierek', 'nacjonalizacja', 'plan-szescioletni'],
+    relatedIds: ['gospodarka-prl', 'plan-szescioletni', 'gierek', 'uklad-warszawski', 'jalta'],
   },
 
   {
     id: 'szymborska',
     title: 'Wisława Szymborska',
-    subtitle: 'Poetka codzienności i laureatka Nagrody Nobla',
     category: 'osoby',
-    tags: ['Szymborska', 'Nobel', 'poezja', 'Kraków', 'literatura', 'ironia'],
-    yearStart: 1952,
-    yearEnd: 1996,
-    summary: 'Wisława Szymborska (1923–2012) – jedna z największych poetek polskich XX wieku, laureatka Literackiej Nagrody Nobla 1996. Przez całe życie związana z Krakowem. W młodości należała do PZPR i publikowała wiersze zgodne z socrealizmem – co później traktowała jako hańbę. Dojrzała twórczość to mistrzostwo ironii, filozofii codzienności i humanizmu.',
-    content: `Wisława Szymborska urodziła się w 1923 roku w Bninie koło Poznania, całe dojrzałe życie spędziła w Krakowie. Debiutowała w 1952 roku tomikiem "Dlatego żyjemy" – napisanym w duchu socrealizmu. Wiersze te poetka odrzuciła i nigdy nie włączyła do swoich zbiorów.
+    shortDesc: 'Poetka, laureatka Nagrody Nobla 1996 – mistrzyni ironii i codziennej filozofii.',
+    content: `## Wisława Szymborska (1923–2012)
 
-**Odejście od socrealizmu:**
-Po Październiku 1956 roku Szymborska całkowicie zerwała z poetyką agitacyjną. Jej kolejne tomy – "Wołanie do Yeti" (1957), "Sól" (1962), "Sto pociech" (1967) – przyniosły jej uznanie jako poetki filozoficznej, posługującej się ironią i paradoksem.
+Wisława Szymborska należy do grona największych polskich poetów XX wieku. W 1996 roku otrzymała literacką Nagrodę Nobla – Akademia Szwedzka uzasadniła ją „poezją, która z ironiczną precyzją pozwala kontekstowi historycznemu i biologicznemu fragmentowi ludzkiej rzeczywistości wyłonić się na światło". Jej wiersze, pozornie proste i żartobliwe, kryją w sobie głębię filozoficzną i moralną.
 
-**Poetka codzienności:**
-Szymborska pisała o rzeczach małych i wielkich jednocześnie – o kamieniu, kocie, rozmowie z kamieniem, o śmierci, przypadku, miłości, historii. Jej wiersze są krótkie, precyzyjne, często zaskakują puentą. Stworzyła własny, rozpoznawalny styl.
+### Droga do poezji
 
-**Stosunek do PRL:**
-Szymborska przez lata unikała angażowania się politycznie. Nie była dysydentką – ale też nie popierała systemu. Jej wiersze były wydawane w PRL, choć niektóre napotykały na opór cenzury. Po 1989 roku mówiła otwarcie o wstydzie za socrealistyczne debiuty.
+Szymborska urodziła się w Kórniku pod Poznaniem, dorastała w Krakowie. Debiutowała w 1945 roku na łamach prasy. Jej pierwszy tomik „Dlatego żyjemy" (1952) był jeszcze zabarwiony socrealizmem – sama poetka w późniejszych latach dystansowała się od tych wierszy.
 
-**Nagroda Nobla (1996):**
-Akademia Szwedzka przyznała Szymborskiej Literacką Nagrodę Nobla z uzasadnieniem: "za poezję, która z ironiczną precyzją pozwala historycznemu i biologicznemu kontekstowi ukazać się we fragmentach ludzkiej rzeczywistości". Jej Nobel wzbudził w Polsce ogromną dumę.`,
+Przełomem był tom „Pytania zadawane sobie" (1954) i kolejne zbiory, w których Szymborska wypracowała swój niepowtarzalny styl: filozoficzne pytania zadawane poprzez codzienne, konkretne obrazy, ironia jako narzędzie poznania, zdumienie światem jako postawa etyczna.
+
+### Styl i tematyka
+
+Szymborska pisała o tym, co małe i pozornie nieważne – o kamieniu, kocie, targu – i przez te obrazy docierała do pytań fundamentalnych: o przypadek i konieczność, o tożsamość, o śmierć i przemijanie. Wiersz „Nic dwa razy" stał się jednym z najbardziej znanych wierszy w języku polskim.
+
+Jej „Rozmowa z kamieniem", „Widok z ziarnkiem piasku", „Koniec i początek" – to perły liryki filozoficznej. Wiersz „Tortury" jest poruszającym komentarzem do historii represji. „Obóz głodowy pod Jasłem" – świadectwem o zagładzie.
+
+Szymborska unikała wielkich słów i patosu. Jej oręż to precyzja języka i niespodziewana pointą.
+
+### Pozycja w PRL
+
+W czasach PRL Szymborska była uznaną poetką, choć nie politycznie zaangażowaną. Pracowała w redakcji krakowskiego „Życia Literackiego", gdzie przez wiele lat prowadziła rubrykę „Lektury nadobowiązkowe" – błyskotliwe recenzje książek, które stały się klasykiem eseistyki.
+
+Nie była dysydentką, ale jej poezja – kwestionująca pewniki, ironiząca schematy myślenia – była antytezą doktrynerskiego komunizmu. W stanie wojennym podpisała list protestacyjny twórców krakowskich.
+
+### Nobel i późne lata
+
+Nagrodę Nobla odebrała skromnie i ze swoją typową ironią. Na bankiecie noblowskim powiedziała, że jest „nie bardziej skromna od innych poetów, tylko bardziej inteligentna w skromności".
+
+Ostatnie lata życia spędziła w Krakowie, otoczona gronem przyjaciół. Pisała do końca. Jej ostatni tom „Wystarczy" ukazał się pośmiertnie. Pochowana na cmentarzu Rakowickim w Krakowie.`,
     resources: [
       {
-        id: 'szym-1',
-        title: 'Wisława Szymborska – wiersze i eseje',
+        id: 'szym-wl',
+        title: 'Wisława Szymborska – Wolne Lektury',
         type: 'publikacja',
         url: 'https://wolnelektury.pl/katalog/autor/szymborska-wislawa/',
         source: 'Wolne Lektury',
-        description: 'Wybór wierszy Wisławy Szymborskiej dostępny w cyfrowej bibliotece Wolne Lektury.',
-        year: 1957,
-        downloadable: true,
+        description: 'Wiersze Wisławy Szymborskiej dostępne online',
       },
       {
-        id: 'szym-2',
-        title: 'Nobel 1996 – wykład noblowski Szymborskiej',
+        id: 'szym-polona',
+        title: 'Archiwum Szymborskiej – Polona',
+        type: 'dokument',
+        url: 'https://polona.pl/search/?query=Szymborska+Wis%C5%82awa',
+        source: 'Polona',
+        description: 'Zdigitalizowane pierwsze wydania tomów poetyckich Szymborskiej',
+      },
+      {
+        id: 'szym-ninateka',
+        title: 'Szymborska – wywiady i nagrania',
         type: 'nagranie',
-        url: 'https://www.nobelprize.org/prizes/literature/1996/szymborska/lecture/',
-        source: 'NobelPrize.org',
-        description: 'Oficjalne archiwum Nagrody Nobla – wykład noblowski Wisławy Szymborskiej z 1996 roku.',
-        year: 1996,
-        downloadable: false,
-      },
-      {
-        id: 'szym-3',
-        title: 'Szymborska w archiwum Polony',
-        type: 'zdjęcie',
-        url: 'https://polona.pl/search/?query=Szymborska%20Polony',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Pierwsze wydania tomów poetyckich Szymborskiej i archiwalia prasowe.',
-        year: 1952,
-        downloadable: true,
+        url: 'https://ninateka.pl/vod/szukaj?query=Szymborska+Wis%C5%82awa',
+        source: 'Ninateka',
+        description: 'Archiwalne wywiady telewizyjne i radiowe z Wisławą Szymborską',
       },
     ],
-    relatedIds: ['kultura-prl', 'cenzura-prl', 'milosz', 'herbert', 'kultura-paryz'],
+    relatedIds: ['literatura-prl', 'kultura-prl', 'milosz', 'herbert', 'cenzura-prl'],
   },
 
   {
     id: 'geremek',
     title: 'Bronisław Geremek',
-    subtitle: 'Historyk i doradca Solidarności',
     category: 'osoby',
-    tags: ['Geremek', 'Solidarność', 'Okrągły Stół', 'historyk', 'KOR', 'dyplomacja'],
-    yearStart: 1980,
-    yearEnd: 1989,
-    summary: 'Bronisław Geremek (1932–2008) – wybitny historyk mediewista, doradca NSZZ Solidarność i jeden z kluczowych negocjatorów Okrągłego Stołu. Po 1989 roku poseł, minister spraw zagranicznych i europoseł. Zginął w wypadku samochodowym w 2008 roku.',
-    content: `Bronisław Geremek urodził się w 1932 roku w Warszawie w rodzinie żydowskiej. Ocalał z Holokaustu. Ukończył historię na UW, doktoryzował się w Paryżu. Pracował w Instytucie Historii PAN, specjalizując się w historii średniowiecznej Europy Zachodniej.
+    shortDesc: 'Mediewista, doradca Solidarności, minister spraw zagranicznych – jeden z architektów polskiej transformacji.',
+    content: `## Bronisław Geremek (1932–2008)
 
-**Zaangażowanie w opozycję:**
-W latach 70. Geremek zbliżył się do środowisk KOR. Po Sierpniu 1980 roku stał się jednym z najważniejszych doradców NSZZ Solidarność. Łączył świat intelektualny z ruchem robotniczym.
+Bronisław Geremek był wybitnym historykiem mediewistą i jednym z najważniejszych doradców Solidarności – intelektualistą, który swoją wiedzę o historii i dyplomacji poświęcił sprawie demokratycznej transformacji Polski.
 
-**Internowanie i represje:**
-Po wprowadzeniu stanu wojennego w grudniu 1981 roku Geremek został internowany. Po zwolnieniu kontynuował działalność konspiracyjną, ukrywając się. Był jednym z architektów strategii Solidarności w podziemiu.
+### Historyk i intelektualista
 
-**Okrągły Stół (1989):**
-Geremek był jednym z najważniejszych negocjatorów po stronie Solidarności podczas obrad Okrągłego Stołu. Kierował zespołem ds. reform politycznych. Jego doświadczenie historyka i europejskie kontakty były nieocenione.
+Geremek urodził się w Warszawie w żydowskiej rodzinie. Przeżył wojnę ukryty po aryjskiej stronie. Studiował historię na Uniwersytecie Warszawskim, doktoryzował się w Paryżu. Był wybitnym badaczem historii średniowiecza – jego prace o marginesie społecznym i ubóstwie w Europie średniowiecznej (m.in. „Litość i szubienica") były tłumaczone na wiele języków.
 
-**Kariera po 1989 roku:**
-Poseł na Sejm od 1989 roku. Minister Spraw Zagranicznych (1997–2000) – w tym czasie Polska wstąpiła do NATO (1999). Europoseł w Parlamencie Europejskim. Jeden z głównych architektów polskiej polityki europejskiej i atlantyckiej.
+W latach 60. i 70. był profesorem PAN – znany w środowisku akademickim jako człowiek niezależnych poglądów.
 
-**Śmierć:**
-Bronisław Geremek zginął 13 lipca 2008 roku w wypadku samochodowym pod Lubinem. Miał 76 lat.`,
+### Solidarność i Okrągły Stół
+
+W sierpniu 1980 roku Geremek pojawił się w gdańskiej Stoczni jako doradca strajkujących robotników – obok Tadeusza Mazowieckiego, Andrzeja Wielowieyskiego i innych intelektualistów z Komisji Ekspertów. Jego rola była kluczowa: pomagał formułować 21 postulatów i negocjować porozumienie gdańskie.
+
+W stanie wojennym był internowany. Po zwolnieniu kontynuował działalność podziemną. W 1989 roku zasiadł przy Okrągłym Stole jako jeden z najważniejszych negocjatorów strony solidarnościowej.
+
+### Droga do NATO i UE
+
+Po 1989 roku Geremek zaangażował się aktywnie w budowanie nowej Polski. Był posłem, szefem parlamentarnego Klubu Unii Demokratycznej. W latach 1997–2000 piastował urząd Ministra Spraw Zagranicznych w rządzie Jerzego Buzka – i to jego wysiłki dyplomatyczne w znacznym stopniu przyczyniły się do wejścia Polski do NATO (1999).
+
+Był wielkim zwolennikiem integracji europejskiej. Po 1999 roku działał w Parlamencie Europejskim.
+
+### Tragedia
+
+Bronisław Geremek zginął 13 lipca 2008 roku w wypadku samochodowym pod Lubinem. Śmierć nastąpiła nagle, w środku aktywnego życia politycznego i intelektualnego. Polska straciła jednego z najwybitniejszych Europejczyków swojego pokolenia.
+
+### Spuścizna
+
+Geremek łączył w sobie rzadką kombinację: wybitny uczony i skuteczny polityk. Jego zaangażowanie w historię marginesu społecznego współgrało z jego praktyką polityczną – zawsze po stronie słabszych, zawsze z imperatywem etycznym.`,
     resources: [
       {
-        id: 'geremek-1',
-        title: 'Bronisław Geremek – doradca Solidarności',
+        id: 'geremek-ipn',
+        title: 'Bronisław Geremek – dokumenty SB i Solidarności',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Geremek+Bronis%C5%82aw',
+        source: 'IPN Inwentarz',
+        description: 'Dokumenty dotyczące inwigilacji i działalności Bronisława Geremka',
+      },
+      {
+        id: 'geremek-ph',
+        title: 'Geremek – historyk i polityk transformacji',
         type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Geremek+Bronis%C5%82aw+Solidarno%C5%9B%C4%87+doradca',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o roli Bronisława Geremka w Solidarności i transformacji',
+      },
+      {
+        id: 'geremek-ecs',
+        title: 'Geremek i Okrągły Stół – ECS',
+        type: 'dokument',
         url: 'https://ecs.gda.pl/en/archive/',
         source: 'Europejskie Centrum Solidarności',
-        description: 'Archiwum ECS – materiały dotyczące roli Geremka jako doradcy Solidarności.',
-        year: 1980,
-        downloadable: false,
-      },
-      {
-        id: 'geremek-2',
-        title: 'Okrągły Stół – negocjacje i dokumenty',
-        type: 'dokument',
-        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=okragly%20stol',
-        source: 'Przystanek Historia / IPN',
-        description: 'Portal tematyczny IPN o Okrągłym Stole – rola Geremka w negocjacjach.',
-        year: 1989,
-        downloadable: false,
-      },
-      {
-        id: 'geremek-3',
-        title: 'Geremek – akta IPN',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Geremek',
-        source: 'IPN Inwentarz',
-        description: 'Dokumenty SB dotyczące inwigilacji Bronisława Geremka przez aparat bezpieczeństwa.',
-        year: 1981,
-        downloadable: false,
+        description: 'Archiwum negocjacji sierpniowych i roli doradców Solidarności',
       },
     ],
-    relatedIds: ['solidarnosc', 'okragly-stol', 'michnik', 'kuron', 'internowanie'],
+    relatedIds: ['solidarnosc', 'okragly-stol', 'sierpien-1980', 'mazowiecki', 'michnik'],
   },
 
   {
@@ -4730,189 +4845,198 @@ Po 13 grudnia 1981 roku wielu działaczy Solidarności, którzy zdołali wyjecha
   {
     id: 'lem',
     title: 'Stanisław Lem',
-    subtitle: 'Najczęściej tłumaczony polski pisarz',
     category: 'osoby',
-    tags: ['Lem', 'science fiction', 'Solaris', 'Cyberiada', 'futurologia', 'Kraków'],
-    yearStart: 1951,
-    yearEnd: 2006,
-    summary: 'Stanisław Lem (1921–2006) – najwybitniejszy polski pisarz science fiction, jeden z najczęściej tłumaczonych polskich autorów w historii. Jego dzieła – "Solaris", "Cyberiada", "Kongres futurologiczny" – łączą filozofię, satyrę społeczną i wizjonerskie spekulacje technologiczne. W PRL utrzymywał złożoną relację z systemem: nie był dysydentem, lecz nie był też apologetą.',
-    content: `Stanisław Lem urodził się w 1921 roku we Lwowie. Podczas II wojny ukrywał się jako Polak (był żydowskiego pochodzenia). Po wojnie osiedlił się w Krakowie, gdzie spędził większość życia.
+    shortDesc: 'Pisarz science-fiction i futurysta – jeden z najczęściej tłumaczonych polskich autorów w historii.',
+    content: `## Stanisław Lem (1921–2006)
 
-**Twórczość:**
-Lem debiutował w 1951 roku. Pisał z niezwykłą produktywnością – powieści, opowiadania, eseje filozoficzne, recenzje fikcyjnych książek. Najważniejsze dzieła:
-- "Solaris" (1961) – filozoficzna powieść o kontakcie z obcą inteligencją, wielokrotnie filmowana
-- "Cyberiada" (1965) – satyryczne opowiadania o robotach konstruktorach
-- "Dzienniki gwiazdowe" z Ijjonem Tichym
-- "Kongres futurologiczny" (1971) – dystopia o manipulacji rzeczywistością
-- "Bajki robotów" i "Opowieści o pilocie Pirxie"
+Stanisław Lem był jednym z najważniejszych pisarzy XX wieku – twórcą science fiction, filozofem technologii i futurystą, którego dzieła przetłumaczono na kilkadziesiąt języków, sprzedając w dziesiątkach milionów egzemplarzy. Jest najczęściej tłumaczonym polskim pisarzem w historii.
 
-**Lem a PRL:**
-Lem nie był dysydentem. Nie angażował się otwarcie w opozycję, publikował w oficjalnym obiegu. Jednocześnie jego satyryczne i filozoficzne dzieła zawierały krytykę totalitaryzmu, biurokracji i zbiorowego myślenia – odczytywane przez czytelników z łatwością jako aluzje do PRL-owskiej rzeczywistości.
+### Lwów i trauma wojenna
 
-**Światowy sukces:**
-Dzieła Lema przetłumaczono na ponad 40 języków. Jego nakłady przekroczyły 45 milionów egzemplarzy. Philip K. Dick – rówieśnik i rywal w science fiction – oskarżał go o bycie "komunistycznym komitetem" ze względu na ogromną produktywność i popularność.
+Lem urodził się we Lwowie. Przeżył II wojnę światową ukrywając swoje żydowskie pochodzenie na aryjskich dokumentach. Doświadczenie Holokaustu, śmierci i okrucieństwa historii odcisnęło trwałe piętno na jego twórczości – pesymizm co do natury ludzkiej, fascynacja zagładą i ocaleniem.
 
-**Emigracja wewnętrzna i wyjazd:**
-W latach 80. Lem mieszkał przez kilka lat w Wiedniu i Berlinie Zachodnim. Po 1990 roku wrócił do Krakowa. Do końca życia pisał eseje futurologiczne i komentował rozwój technologii.`,
+Po wojnie zamieszkał w Krakowie, gdzie spędził większość życia.
+
+### Twórczość: między fantastyką a filozofią
+
+Lem zadebiutował powieścią „Astronauci" (1951), ale prawdziwy przełom przyniosła „Solaris" (1961) – arcydzieło SF o niemożności komunikacji z radykalnie obcą formą życia. Ekranizowana dwukrotnie (Tarkowski 1972, Soderbergh 2002), stała się ikoną gatunku na całym świecie.
+
+Inne kluczowe dzieła: „Eden" (1959), „Niezwyciężony" (1964), „Głos Pana" (1968), cykl o Ijonie Tichym, cykl o Pirksie, „Cyberiada" (1965). „Cyberiada" to poetyckie opowiadania o robotach Trypanie i Klapsaucjusie – ironiczne, błyskotliwe, filozoficznie wieloznaczne.
+
+Lem pisał też eseje: „Summa Technologiae" (1964) – futurologiczna analiza przyszłości technologii, która w wielu miejscach okazała się prorocza – i „Filozofia przypadku" (1968).
+
+### Stosunek do komunizmu
+
+Lem był pisarzem niezależnym w warunkach PRL. Nie był dysydentką ani aktywnym komunistą. Udało mu się zbudować pozycję, w której cenzura generalnie go nie dotykała – SF było bardziej tolerowane niż realistyczna proza polityczna.
+
+Ale nie był naiwny. W jego powieściach pojawiają się krytyczne alegorie: systemy totalne, manipulacja, bezduszne machiny biurokratyczne. „Opowieści o pilocie Pirksie" zawierają subtelne komentarze do współczesności.
+
+Zdobył prawo do wyjazdów za granicę i kontaktów z zachodnimi wydawcami – co było przywilejem. W 1982 roku wyjechał do Wiednia; wrócił do Polski po upadku komunizmu.
+
+### Konflikty ze środowiskiem
+
+Lem był postacią kontrowersyjną. Ostro krytykował amerykańskie SF jako intelektualnie płytkie – co doprowadziło do konfliktu z tamtejszym środowiskiem i usunięcia go z organizacji Science Fiction Writers of America (SFWA). Był niezłomny w ocenach, bezkompromisowy.
+
+### Spuścizna
+
+Lem jest patronem nauki o przyszłości, cyberprzestrzeni i etyce technologicznej. Jego przewidywania dotyczące internetu, wirtualnej rzeczywistości i problemów etycznych AI okazały się trafne. Muzeum Lema w Krakowie jest hołdem dla jego wyobraźni.`,
     resources: [
       {
-        id: 'lem-1',
-        title: 'Stanisław Lem – dzieła w Wolnych Lekturach',
+        id: 'lem-wl',
+        title: 'Stanisław Lem – Wolne Lektury',
         type: 'publikacja',
         url: 'https://wolnelektury.pl/katalog/autor/lem-stanislaw/',
         source: 'Wolne Lektury',
-        description: 'Wybrane dzieła Stanisława Lema dostępne w cyfrowej bibliotece Wolne Lektury.',
-        year: 1961,
-        downloadable: true,
+        description: 'Wybrane utwory Stanisława Lema dostępne online',
       },
       {
-        id: 'lem-2',
-        title: 'Solaris – pierwsze wydanie i archiwum Polony',
-        type: 'zdjęcie',
-        url: 'https://polona.pl/search/?query=Solaris%20pierwsze%20wydanie',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Pierwsze wydania dzieł Lema i archiwalia prasowe z epoki PRL.',
-        year: 1961,
-        downloadable: true,
+        id: 'lem-polona',
+        title: 'Archiwum Lema – Polona',
+        type: 'dokument',
+        url: 'https://polona.pl/search/?query=Lem+Stanis%C5%82aw+Solaris',
+        source: 'Polona',
+        description: 'Zdigitalizowane pierwsze wydania powieści i esejów Stanisława Lema',
       },
       {
-        id: 'lem-3',
-        title: 'Literatura polska w PRL – materiały edukacyjne',
-        type: 'publikacja',
-        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne?search=Literatura',
-        source: 'IPN Edukacja',
-        description: 'Materiały o literaturze polskiej okresu PRL, miejscu pisarzy i ich relacji z systemem.',
-        year: 1955,
-        downloadable: false,
+        id: 'lem-ninateka',
+        title: 'Lem – wywiady i adaptacje filmowe',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Lem+Stanis%C5%82aw+Solaris',
+        source: 'Ninateka',
+        description: 'Archiwalne wywiady z Lemem i adaptacje filmowe jego dzieł',
       },
     ],
-    relatedIds: ['kultura-prl', 'cenzura-prl', 'milosz', 'herbert', 'kapuscinski'],
+    relatedIds: ['literatura-prl', 'kultura-prl', 'nauka-prl', 'cenzura-prl', 'milosz'],
   },
 
   {
     id: 'wajda',
     title: 'Andrzej Wajda',
-    subtitle: 'Reżyser sumienia narodu',
     category: 'osoby',
-    tags: ['Wajda', 'film', 'Kanał', 'Człowiek z żelaza', 'Katyń', 'Oscar', 'reżyser'],
-    yearStart: 1955,
-    yearEnd: 2016,
-    summary: 'Andrzej Wajda (1926–2016) – największy polski reżyser filmowy, laureat Oscara za całokształt twórczości (2000). Twórca Polskiej Szkoły Filmowej, autor filmów rozliczających się z historią i moralnością zbiorową: "Kanał", "Popiół i diament", "Człowiek z marmuru", "Człowiek z żelaza", "Katyń". Przez całe życie zaangażowany w sprawy publiczne.',
-    content: `Andrzej Wajda urodził się w 1926 roku w Suwałkach. Jego ojciec – oficer Wojska Polskiego – zginął w Katyniu. Ukończył Łódzką Szkołę Filmową. Debiutował w 1951 roku.
+    shortDesc: 'Reżyser filmowy, twórca Polskiej Szkoły Filmowej, autor dzieł o historii i wolności.',
+    content: `## Andrzej Wajda (1926–2016)
 
-**Polska Szkoła Filmowa:**
-Wajda był współtwórcą nurtu rozliczającego się z doświadczeniem II wojny przez pryzmat moralności, nie propagandy:
-- "Kanał" (1957) – dramat o Powstaniu Warszawskim, Nagroda Specjalna Jury w Cannes
-- "Popiół i diament" (1958) – portret pokolenia AK po wojnie, arcydzieło z Cybulskim
+Andrzej Wajda był najwybitniejszym polskim reżyserem filmowym, laureatem Oscara za całokształt twórczości (2000) i Złotej Palmy w Cannes (1981). Jego filmy tworzyły dialog z historią Polski i opresją systemu komunistycznego.
 
-**Kino polityczne lat 70.:**
-- "Człowiek z marmuru" (1977) – film o sfabrykowaniu bohatera socjalizmu, długo blokowany przez cenzurę
-- "Bez znieczulenia" (1978) – o konformizmie intelektualistów
+### Debiut i Polska Szkoła Filmowa
 
-**Solidarność:**
-Wajda zaangażował się w ruch Solidarności. "Człowiek z żelaza" (1981) – nakręcony podczas strajku sierpniowego i na jego fali – zdobył Złotą Palmę w Cannes. Wajda był członkiem NSZZ Solidarność.
+Wajda zadebiutował „Pokoleniem" (1955) – historią młodych ludzi wciągniętych w ruch oporu podczas okupacji. Potem nakręcił „Kanał" (1957) i „Popiół i diament" (1958) – trylogię wojenną, która stała się kamieniem węgielnym Polskiej Szkoły Filmowej. Filmy te mówiły o bohaterstwie i tragedii AK, o sensie walki i pokoleniu przeklętym przez historię.
 
-**"Katyń" (2007):**
-Osobisty film o zbrodni, w której zginął jego ojciec. Nominowany do Oscara dla najlepszego filmu nieanglojęzycznego. Dokończenie dzieła życia – rozliczenie z kłamstwem katyńskim.
+Władze komunistyczne akceptowały te filmy z trudem – Wajda balansował na granicy tego, co dozwolone. „Popiół i diament" z Cybulskim w roli głównej zdobył światowy rozgłos, bo dotykał prawdy, której oficjalna propaganda nie chciała pokazać.
 
-**Nagrody i spuścizna:**
-Oscar honorowy za całokształt twórczości (2000). Cztery razy nominowany do Oscara. Senator RP w latach 1989–1991. Do śmierci w 2016 roku pozostawał aktywnym reżyserem i komentował życie publiczne.`,
+### Kino zaangażowane społecznie
+
+W latach 70. Wajda nakręcił „Ziemię obiecaną" (1975) i „Człowieka z marmuru" (1977) – film o robotniku z lat 50., który stał się przodownikiem pracy, a potem ofiarą systemu. Cenzura walczyła z tym filmem latami; pokazany w 1977 roku stał się wielkim sukcesem artystycznym i moralnym.
+
+Kontynuacją był „Człowiek z żelaza" (1981) – nakręcony w gorącej atmosferze Solidarności, z prawdziwymi stoczniowcami przed kamerą. Film zdobył Złotą Palmę w Cannes. W Polsce grany w ogromnych kolejkach. Cenzura chciała go zablokować – nie zdążyła.
+
+### Stan wojenny i emigracja
+
+Po 13 grudnia 1981 roku Wajda – podobnie jak wielu twórców – znalazł się w trudnej sytuacji. Jego filmy były bojkotowane przez władze. Kręcił za granicą, m.in. w Niemczech.
+
+W 1983 roku nakręcił „Dantona" w koprodukcji z Francją – film o Rewolucji Francuskiej, który wszyscy odczytywali jako alegorię Polski w stanie wojennym. Władze polskie bojkotowały film.
+
+### Pojednanie z historią
+
+Po 1989 roku Wajda stworzył „Pierścionek z orłem w koronie" (1993), „Pan Tadeusz" (1999) i wreszcie „Katyń" (2007) – film, na który czekał całe życie. Jego ojciec był ofiarą zbrodni katyńskiej. Film był nominowany do Oscara. Wajda otworzył w Krakowie Muzeum Sztuki i Techniki Japońskiej – Manggha, które sfinansował z nagrody Kioto.
+
+### Znaczenie
+
+Wajda nauczył świat patrzeć na Polskę przez pryzmat jej tragicznej historii. Był sumieniem polskiego kina i moralnym autorytetem. Odznaczony Orderem Orła Białego, pochowany z honorami na Skałce w Krakowie.`,
     resources: [
       {
-        id: 'wajda-1',
-        title: 'Człowiek z żelaza – film Wajdy 1981',
-        type: 'film',
-        url: 'https://www.youtube.com/results?search_query=Cz%C5%82owiek+z+%C5%BCelaza+Wajda+1981',
-        source: 'YouTube',
-        description: 'Zwiastun nagrodzonego Złotą Palmą w Cannes 1981 roku filmu Andrzeja Wajdy.',
-        year: 1981,
-        downloadable: false,
-      },
-      {
-        id: 'wajda-2',
-        title: 'Katyń – film Wajdy 2007',
-        type: 'film',
-        url: 'https://www.youtube.com/results?search_query=Katy%C5%84+film+Wajdy+2007',
-        source: 'YouTube / Studio Filmowe TOR',
-        description: 'Film Andrzeja Wajdy o zbrodni katyńskiej – osobiste rozliczenie z historią.',
-        year: 2007,
-        downloadable: false,
-      },
-      {
-        id: 'wajda-3',
-        title: 'Polska Szkoła Filmowa – NINATEKA',
+        id: 'wajda-ninateka',
+        title: 'Filmy Andrzeja Wajdy – Ninateka',
         type: 'film',
         url: 'https://ninateka.pl/vod/szukaj?query=Wajda',
-        source: 'NINATEKA / Filmoteka Narodowa',
-        description: 'Archiwum filmów Andrzeja Wajdy i Polskiej Szkoły Filmowej w NINATEKA.',
-        year: 1957,
-        downloadable: false,
+        source: 'Ninateka',
+        description: 'Archiwalne filmy i materiały o twórczości Andrzeja Wajdy',
+      },
+      {
+        id: 'wajda-ph',
+        title: 'Andrzej Wajda – Przystanek Historia',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Wajda+Andrzej+film',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o filmografii i znaczeniu Andrzeja Wajdy',
+      },
+      {
+        id: 'wajda-polona',
+        title: 'Prasa filmowa o Wajdzie (Polona)',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Wajda+film',
+        source: 'Polona',
+        description: 'Recenzje i artykuły prasowe z epoki PRL dotyczące twórczości Wajdy',
       },
     ],
-    relatedIds: ['kino-prl', 'katyn', 'solidarnosc', 'kultura-prl', 'cenzura-prl'],
+    relatedIds: ['polska-szkola-filmowa', 'kino-moralnego-niepokoju', 'kino-prl', 'solidarnosc', 'katyn'],
   },
 
   {
     id: 'jazz-prl',
-    title: 'Jazz w Polsce',
-    subtitle: 'Komeda, Namysłowski, Stańko – muzyka wolności',
+    title: 'Jazz w Polsce Ludowej',
     category: 'kultura',
-    tags: ['jazz', 'Komeda', 'Namysłowski', 'Stańko', 'Sopot', 'muzyka', 'wolność'],
-    yearStart: 1956,
-    yearEnd: 1989,
-    summary: 'Jazz w PRL – fenomen kulturowy, który po Październiku 1956 stał się symbolem odwilży i oknem na Zachód. Polscy jazzmani osiągnęli światowy poziom. Krzysztof Komeda stworzył muzykę do filmów Romana Polańskiego. Jazz był tolerowany przez władze jako "mniej groźny" od rocka, choć początkowo też traktowany z podejrzliwością.',
-    content: `Jazz dotarł do Polski jeszcze przed wojną, lecz w czasach stalinowskich (1948–1955) był zakazany jako "muzyka imperialistyczna". Po Październiku 1956 roku odwilż polityczna otworzyła Polskę na zachodnie wpływy kulturowe – jazz wrócił legalnie.
+    shortDesc: 'Jazz – muzyka wolności, która przebiła się przez ideologiczne bariery PRL i stała się symbolem otwarcia na Zachód.',
+    content: `## Jazz w Polsce Ludowej
 
-**Złota era polskiego jazzu:**
-Lata 60. i 70. to czas, gdy polscy jazzmani zdobyli światowe uznanie:
+Jazz w PRL to paradoks: muzyka uznana przez stalinizm za imperialistyczną, dekadencką i zgubną – stała się jednym z pierwszych przejawów odwilży, a Polska Jazz Jamboree jest do dziś jednym z najważniejszych festiwali jazzowych na świecie.
 
-**Krzysztof Komeda (1931–1969):**
-Pianista i kompozytor, jeden z twórców europejskiego jazzu. Stworzył muzykę do filmów Romana Polańskiego: "Nóż w wodzie" (1962), "Rosemary's Baby" (1968), "Dziecko Rosemary". Jego "Kołysanka" z "Rosemary's Baby" to jeden z najbardziej rozpoznawalnych tematów filmowych. Tragicznie zginął w wypadku w Los Angeles w 1969 roku.
+### Stalinizm i zakaz jazzu
 
-**Zbigniew Namysłowski:**
-Saksofonista altowy, jeden z filarów polskiego jazzu. Nagrywał dla zachodnich wytwórni, koncertował w Europie i USA.
+W szczytowym okresie stalinizmu (1949–1955) jazz był formalnie zakazany jako „muzyka burżuazyjna" i „imperialistyczna propaganda". Muzycy byli represjonowani, płyty konfiskowane, a publiczne granie jazzu mogło skończyć się aresztem.
 
-**Tomasz Stańko:**
-Trębacz o światowej sławie, reprezentant polskiego jazzu od lat 60. do XXI wieku. Nagrywał dla ECM Records.
+Władze propagowały muzykę sowiecką i socrealistyczną – marsze, masowe pieśni, folklor stylizowany na ludowy. Jazz był symbolem Zachodu, wolności i indywidualizmu – wszystkiego, co komunizm chciał wyprzeć.
 
-**Jazz Jamboree:**
-Od 1958 roku w Warszawie odbywał się coroczny Jazz Jamboree – jeden z najstarszych festiwali jazzowych w Europie. Przyciągał największe gwiazdy światowego jazzu i stał się symbolem polskiej otwartości kulturowej.
+### Odwilż i wybuch
 
-**Jazz a system:**
-Władze PRL tolerowały jazz jako mniej polityczny od rocka. Jazz docierał do wąskiego, inteligenckiego odbiorcy – nie masowego, co czyniło go "bezpieczniejszym". Jednocześnie festiwale jazzowe były okazją do kontaktów z Zachodem i wymiany artystycznej.`,
+Październik 1956 roku otworzył Polskę. Jazz natychmiast wybuchł z siłą tłumionej sprężyny. Kawiarnie, kluby studenckie, piwnice – wszędzie pojawiły się zespoły. Muzyczne pokolenie Krzysztofa Komedy, Andrzeja Kurylewicza, Jerzego Miliana, Tomasza Stańki nie musiało się już kryć.
+
+W 1956 roku zorganizowano pierwszy Ogólnopolski Festiwal Muzyki Jazzowej w Sopocie. Od 1958 roku to wydarzenie przeniosło się do Warszawy jako Jazz Jamboree – i trwa do dziś. Jazz Jamboree przyciągał gwiazdy światowe: Miles Davis, Dizzy Gillespie, Modern Jazz Quartet grały w Warszawie.
+
+### Komeda i polska szkoła jazzu
+
+Krzysztof Komeda (Trzciński) stał się symbolem polskiego jazzu. Jego album „Astigmatic" (1965) jest do dziś arcydziełem gatunku – europejski jazz z poetycką wrażliwością, daleką od amerykańskich wzorów. Komeda komponował też muzykę do filmów Romana Polańskiego – w tym słynne kołysanki z „Dziecka Rosemary".
+
+Tomasz Stańko, Jan Ptaszyn Wróblewski, Zbigniew Namysłowski, Urszula Dudziak – to muzycy, którzy stworzyli polską szkołę jazzu. Polskie Radio Jazz Studio nagrywało i promowało jazzowe sesje.
+
+### Jazz jako przestrzeń wolności
+
+Jazz w PRL był czymś więcej niż muzyką – był przestrzenią wolności w autorytarnym państwie. Improwizacja – jądro jazzu – była antytezą kolektywizmu i planowania. Muzyk jazzowy myślał i decydował sam, w chwili.
+
+Kluby jazzowe przyciągały młodzież, studentów, intelektualistów. Słuchano też muzyki z radia BBC i Głosu Ameryki. Jazz łączył się z kulturą zachodnią i był oknem na świat.
+
+### Paradoks
+
+Komunistyczne władze ostatecznie zaakceptowały jazz – bo widziały, że go nie powstrzymają, a był dla nich wygodniejszy niż rock and roll. Jazz był „intelektualny", a więc bezpieczniejszy klasowo. Festiwal Jazz Jamboree stał się też oknem propagandowym: dowodem, że Polska jest krajem otwartym na kulturę zachodnią.
+
+Ten paradoks – muzyka wolności w systemie zniewolenia – jest jednym z najciekawszych wątków kulturalnych PRL.`,
     resources: [
       {
-        id: 'jazz-1',
-        title: 'Jazz Jamboree – archiwum festiwalu',
+        id: 'jazz-ninateka',
+        title: 'Jazz Jamboree – archiwalne nagrania (Ninateka)',
         type: 'nagranie',
         url: 'https://ninateka.pl/vod/szukaj?query=Jazz+Jamboree',
-        source: 'NINATEKA / Filmoteka Narodowa',
-        description: 'Archiwalne nagrania z Jazz Jamboree i polskich nagrań jazzowych w NINATEKA.',
-        year: 1958,
-        downloadable: false,
+        source: 'Ninateka',
+        description: 'Archiwalne nagrania z festiwalu Jazz Jamboree i polskich muzyków jazzowych',
       },
       {
-        id: 'jazz-2',
-        title: 'Krzysztof Komeda – kołysanka z Rosemary\'s Baby',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/results?search_query=Krzysztof+Komeda+Rosemary+Baby+lullaby',
-        source: 'YouTube',
-        description: 'Słynna kołysanka Krzysztofa Komedy z filmu Polańskiego – jedno z jego najważniejszych dzieł.',
-        year: 1968,
-        downloadable: false,
+        id: 'jazz-polona',
+        title: 'Polska prasa jazzowa (Polona)',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=jazz+polska+PRL+1956',
+        source: 'Polona',
+        description: 'Cyfryzacje pism i artykułów prasowych o jazzie w Polsce Ludowej',
       },
       {
-        id: 'jazz-3',
-        title: 'Jazz w Polsce – archiwum Polony',
-        type: 'zdjęcie',
-        url: 'https://polona.pl/search/?query=Jazz%20Polsce%20Polony',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Archiwum okładek płyt, plakatów i prasy muzycznej dokumentujących historię jazzu w PRL.',
-        year: 1958,
-        downloadable: true,
+        id: 'jazz-ph',
+        title: 'Jazz w PRL – kultura opozycji i wolności',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=jazz+PRL+Komeda+festiwal',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o jazzie jako kulturze wolności w Polsce Ludowej',
       },
     ],
-    relatedIds: ['kultura-prl', 'muzyka-rockowa', 'kino-prl', 'pazdziernik-1956', 'cenzura-prl'],
+    relatedIds: ['kultura-prl', 'komeda', 'muzyka-powazna-prl', 'radio-prl', 'pazdziernik-1956'],
   },
 
   {
@@ -5464,64 +5588,73 @@ Dopiero w 1988 r. złagodzono przepisy, a 1 stycznia 1989 r. weszła w życie no
 
   {
     id: 'prasa-prl',
-    title: 'Prasa i dziennikarstwo w PRL',
-    subtitle: 'Trybuna Ludu, Polityka, Przekrój – prasa pod cenzurą i wbrew cenzurze',
+    title: 'Prasa i media w PRL',
     category: 'kultura',
-    tags: ['prasa', 'dziennikarstwo', 'Trybuna Ludu', 'Polityka', 'Przekrój', 'cenzura', 'GUKPiW', 'Tygodnik Powszechny'],
-    yearStart: 1944,
-    yearEnd: 1989,
-    summary: 'Prasa PRL była z założenia podporządkowana partii: oficjalne gazety drukowały propagandę, lecz w ramach systemu pojawiały się też pisma odważniejsze. Obok legalnego obiegu rozwijał się drugi obieg prasy podziemnej.',
-    content: `## Prasa partyjna i oficjalna
+    shortDesc: 'Trybuna Ludu, Polityka, Przekrój – kontrolowana prasa jako narzędzie propagandy i okno na rzeczywistość.',
+    content: `## Prasa i media w PRL
 
-Centralnym organem PZPR była "Trybuna Ludu" (1948–1990) – obowiązkowa lektura aparatu partyjnego, drukowana w milionowych nakładach, rzadko czytana z ochotą. Podobną rolę pełniły organy terenowe PZPR w każdym województwie. Oprócz prasy partyjnej istniały pisma ZSL, SD i organizacji masowych.
+Prasa w Polsce Ludowej funkcjonowała w warunkach ścisłej kontroli partyjnej i cenzury, ale była też areną subtelnych gier między władzą a dziennikarzami, którzy próbowali przemycić odrobinę prawdy między wierszami.
 
-## Tytuły z ambicjami
+### Struktura systemu prasowego
 
-Na tle szarej masy tytułów wyróżniało się kilka pism. "Polityka" (od 1957) – tygodnik o profilu liberalno-partyjnym – przyciągał lepszych publicystów i odważniejsze tematy (w granicach cenzury). "Przekrój" – krakowski tygodnik kulturalny z tradycjami przedwojennymi – słynął z humoru, ironii i subtelnej krytyki systemu. "Tygodnik Powszechny" był najważniejszym pismem katolickim w bloku wschodnim.
+PZPR kontrolowała wszystkie media. Każde pismo musiało mieć „właściciela" – instytucję partyjną, związkową lub stronnictwo satelickie. Centralny Urząd Kontroli Prasy, Publikacji i Widowisk (cenzura) sprawdzał każdy tekst przed drukiem.
 
-## Cenzura – GUKPiW
+Główny organ partyjny: **Trybuna Ludu** – codzienna gazeta partii, nudna, pełna partyjnego nowomówu, czytana przez obowiązek, a nie z ciekawości. Nakład milionowy, bo wielkie zakłady pracy prenumerowały ją automatycznie.
 
-Główny Urząd Kontroli Prasy, Publikacji i Widowisk (GUKPiW) kontrolował każdy druk przed publikacją. Cenzorzy eliminowali niewygodne fakty, poprawiali wyniki statystyczne, zakazywali publikacji nekrologów niewygodnych osób. Tomasz Strzyżewski – cenzor, który w 1977 r. uciekł na Zachód z wewnętrzną "Księgą zapisów" GUKPiW – ujawnił skalę cenzury w "Czarnej księdze cenzury PRL".
+**Żołnierz Wolności** – dziennik wojskowy. **Sztandar Młodych** – pismo ZMS. **Głos Pracy** – związkowy. Każda instytucja miała swój organ.
 
-## Prasa podziemna
+### Tygodniki – względna swoboda
 
-Po 1976 r. kwitła prasa podziemna ("drugi obieg"): "Robotnik", "Biuletyn Informacyjny KOR", po 1981 r. setki tytułów podziemnej "Solidarności". Pisma te drukowano na powielaczach, przemycano papier i tusz, kolportowano przez siatki zaufanych ludzi.
+Tygodniki miały nieco więcej swobody niż dzienniki. **Polityka** (od 1957) pod redakcją Mieczysława Rakowskiego była najbardziej wpływowym tygodnikiem opinii – ostrożnie reformistyczna, czytana przez inteligencję, niekiedy pozwalała na krytykę systemu w jego ramach.
 
-## Upadek cenzury
+**Przekrój** (od 1945, Kraków) był pismem kulturalno-rozrywkowym o wyjątkowej klasie graficznej i redakcyjnej. Był oknem na kulturę zachodnią – filmy, literatura, moda – i był powszechnie kochany.
 
-W 1989 r. zniesiono GUKPiW. Stare tytuły partyjne szybko upadły lub zmieniły profil. "Polityka" i "Przekrój" przeżyły transformację jako niezależne pisma. "Gazeta Wyborcza" – dawne pismo podziemia – stała się czołowym tytułem wolnej Polski.`,
+**Tygodnik Powszechny** (Kraków) – katolickie pismo środowisk inteligenckich, w istocie jedyne niezależne pismo w systemie. Jego redaktorzy, w tym Jerzy Turowicz, potrafili bronić niezależności redakcji nawet w najtrudniejszych czasach.
+
+### Dziennikarze i gra z cenzurą
+
+Doświadczeni dziennikarze nauczyli się gry z cenzurą. Aluzja, metafora, odwołanie do historii starożytnej lub obcej – to były techniki mówienia prawdy tak, by cenzor jej nie zauważył lub nie chciał zrozumieć.
+
+Słynna była praktyka „czytania między wierszami" – polscy czytelnicy nauczyli się rozumieć to, co nie było napisane. Pominięcie informacji, nieobecność tematu – to też mówiło o rzeczywistości.
+
+### Kryzys i podziemie
+
+Po 1976 roku, wraz z powstaniem KOR, zaczął kwitnąć drugi obieg prasowy. Bezdebitowe pisma: „Biuletyn Informacyjny KOR", „Robotnik", „Res Publica", setki innych – drukowane na powielaczach i dystrybuowane siatkami kolporterów.
+
+Po sierpniu 1980 roku Solidarność wydawała swoje regionalne biuletyny, tygodniki i miesięczniki. Prasa niezależna stała się masową. Stan wojenny ją zdelegalizował, ale nie zniszczył.
+
+### Telewizja i radio
+
+Obok prasy drukowanej kluczową rolę odgrywała telewizja (od 1952) i radio. Dziennik Telewizyjny – główny serwis informacyjny TVP – był synonimem propagandy. Prowadzony przez lojalne kadry, manipulował informacją, przemilczał fakty.
+
+Alternatywą były Radio Wolna Europa i głos Ameryki – słuchane nielegalnie przez miliony.`,
     resources: [
       {
-        id: 'prasa-1',
-        title: 'Archiwum prasy PRL – Polona',
+        id: 'prasa-polona',
+        title: 'Prasa PRL – archiwalne numery (Polona)',
         type: 'publikacja',
-        url: 'https://polona.pl/search/?query=prasy',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Zdigitalizowane kolekcje gazet i czasopism z okresu PRL, w tym Trybuna Ludu, Przekrój, Polityka.',
-        year: 1944,
-        downloadable: true,
+        url: 'https://polona.pl/search/?query=Trybuna+Ludu+Polityka+Przekr%C3%B3j+PRL',
+        source: 'Polona',
+        description: 'Zdigitalizowane numery głównych pism PRL, w tym Trybuny Ludu, Polityki i Przekroju',
       },
       {
-        id: 'prasa-2',
-        title: 'Akta GUKPiW – zasoby archiwalne',
+        id: 'prasa-ph',
+        title: 'Media i prasa w PRL',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=prasa+media+cenzura+PRL+Trybuna+Ludu',
+        source: 'Przystanek Historia IPN',
+        description: 'Artykuły historyczne o systemie prasowym i roli mediów w Polsce Ludowej',
+      },
+      {
+        id: 'prasa-ipn',
+        title: 'Dokumenty cenzury prasowej',
         type: 'akt',
-        url: 'https://szukajwarchiwach.gov.pl/szukaj?q=GUKPiW',
-        source: 'Naczelna Dyrekcja Archiwów Państwowych',
-        description: 'Dokumenty Głównego Urzędu Kontroli Prasy, Publikacji i Widowisk.',
-        year: 1945,
-      },
-      {
-        id: 'prasa-3',
-        title: 'Materiały edukacyjne – prasa i cenzura w PRL',
-        type: 'publikacja',
-        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne?search=prasa%20cenzura',
-        source: 'Instytut Pamięci Narodowej',
-        description: 'Opracowania o systemie cenzury i prasie PRL dla uczniów i nauczycieli.',
-        year: 2019,
-        downloadable: true,
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=cenzura+prasa+GUKPPiW',
+        source: 'IPN Inwentarz',
+        description: 'Dokumenty Głównego Urzędu Kontroli Prasy dotyczące ingerencji cenzury',
       },
     ],
-    relatedIds: ['cenzura-prl', 'drugi-obieg', 'propaganda-prl', 'tvp-prl', 'kor'],
+    relatedIds: ['cenzura-prl', 'propaganda-prl', 'drugi-obieg', 'tygodnik-powszechny', 'radio-wolna-europa'],
   },
 
   {
@@ -9126,196 +9259,7 @@ Liczne późniejsze odkrycia (np. donos Lecha Wałęsy w latach 70. – sprawa o
     ],
     relatedIds: ['sbezpieczenstwa', 'tajni-wspolpracownicy', 'ub', 'represje-polityczne', 'internowanie'],
   },
-  {
-    id: 'kuron',
-    title: 'Jacek Kuroń',
-    category: 'osoby',
-    shortDesc: 'Pedagog, działacz opozycji, współzałożyciel KOR i jeden z ojców polskiej transformacji.',
-    content: `## Jacek Kuroń (1934–2004)
 
-Jacek Kuroń był jedną z najbardziej wpływowych postaci polskiej opozycji demokratycznej. Pedagog z wykształcenia, harcerz z powołania, a rewolucjonista z wyboru – przeszedł drogę od młodego komunisty do czołowego przeciwnika systemu.
-
-### Droga od komunizmu do opozycji
-
-W młodości Kuroń zaangażował się w budowę socjalizmu, wierząc w ideały ruchu. Był aktywny w ZMP i harcerstwie, gdzie próbował realizować autentyczne ideały wychowawcze. Przełomem była odwilż październikowa 1956 r. i rosnąca świadomość, że system niszczy wartości, które oficjalnie głosi.
-
-W 1964 roku, wspólnie z Karolem Modzelewskim, napisał „List otwarty do Partii" – odważną analizę marksistowską krytykującą system jako „rządy biurokracji partyjnej". List był jawnym wyzwaniem dla władzy. Obaj autorzy zostali aresztowani i skazani na więzienie.
-
-### KOR i jawna opozycja
-
-Po Czerwcu 1976 r. Kuroń stał się współzałożycielem Komitetu Obrony Robotników (KOR) – pierwszej jawnej organizacji opozycyjnej w Polsce. KOR pomagał represjonowanym robotnikom z Radomia i Ursusa, udzielając im pomocy prawnej i finansowej. Kuroń był mózgiem strategii działania w białych rękawiczkach: jawność zamiast konspiracji.
-
-Jego mieszkanie przy ulicy Mickiewicza w Warszawie stało się centrum opozycji – spotykali się tu robotnicy, studenci, intelektualiści. Bezpieka wielokrotnie go inwigilowała, nękała i aresztowała.
-
-### Sierpień 1980 i Solidarność
-
-Gdy wybuchły strajki sierpniowe, Kuroń koordynował informacje z Warszawy, przekazując je zagranicznym mediom. Słynna jest anegdota o tym, jak dzwonił do KOR-u – telefon non stop zajęty, bo właśnie Kuroń go nie odkładał. Stał się nieoficjalnym „rzecznikiem" strajkujących wobec świata.
-
-W stanie wojennym (1981–1984) był internowany i więziony. Nie złamał się. Pisał i działał konspiracyjnie.
-
-### Transformacja i rząd Mazowieckiego
-
-W 1989 roku Kuroń zasiadł przy Okrągłym Stole po stronie solidarnościowej. Po wyborach czerwcowych został ministrem pracy w rządzie Tadeusza Mazowieckiego (1989–1991) i ponownie w rządzie Hanny Suchockiej (1992–1993). To on nadzorował najtrudniejszy okres transformacji, m.in. reformy rynku pracy i skok bezrobocia.
-
-Zasłynął z „kuroniówki" – dożywania dla bezrobotnych, którą zorganizował z własnej inicjatywy. Była to zupa wydawana w stołówkach dla najuboższych – symbol jego troski o zwykłego człowieka.
-
-### Spuścizna
-
-Kuroń był człowiekiem pełnym sprzeczności: dawny komunista, który stał się symbolem demokratycznej opozycji; minister transformacji, który najbardziej troszczył się o jej ofiary. Jego myśl pedagogiczna – dać dzieciom wolność i odpowiedzialność – pozostaje aktualna. Odznaczony Orderem Orła Białego, pochowany na Powązkach Wojskowych.`,
-    resources: [
-      {
-        id: 'kuron-ipn',
-        title: 'Jacek Kuroń – teczka w zasobach IPN',
-        type: 'dokument',
-        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Kuro%C5%84+Jacek',
-        source: 'IPN Inwentarz',
-        description: 'Dokumenty SB dotyczące inwigilacji Jacka Kuronia w zasobach Instytutu Pamięci Narodowej',
-      },
-      {
-        id: 'kuron-ph',
-        title: 'Jacek Kuroń – Przystanek Historia',
-        type: 'publikacja',
-        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Kuro%C5%84+Jacek+KOR',
-        source: 'Przystanek Historia IPN',
-        description: 'Artykuły historyczne o życiu i działalności Jacka Kuronia',
-      },
-      {
-        id: 'kuron-ninateka',
-        title: 'Jacek Kuroń – nagrania archiwalne',
-        type: 'nagranie',
-        url: 'https://ninateka.pl/vod/szukaj?query=Kuro%C5%84+Jacek',
-        source: 'Ninateka',
-        description: 'Archiwalne nagrania z udziałem Jacka Kuronia – wywiady, przemówienia i relacje',
-      },
-    ],
-    relatedIds: ['kor', 'marzec-1968', 'sierpien-1980', 'okragly-stol', 'czerwiec-1976'],
-  },
-  {
-    id: 'michnik',
-    title: 'Adam Michnik',
-    category: 'osoby',
-    shortDesc: 'Historyk, publicysta i działacz opozycji, współzałożyciel KOR, redaktor naczelny Gazety Wyborczej.',
-    content: `## Adam Michnik (ur. 1946)
-
-Adam Michnik to jeden z najwybitniejszych intelektualistów polskiej opozycji – historyk, eseista, publicysta i działacz, który z drobnego agenta więziennych intelektualnych dysput stał się ikoną demokratycznej transformacji.
-
-### Wczesna działalność
-
-Michnik zaangażował się w opozycję już jako student historii na Uniwersytecie Warszawskim. W latach 60. był związany ze środowiskiem „komandosów" – grupy lewicowych intelektualistów skupionych wokół Jacka Kuronia i Karola Modzelewskiego.
-
-W Marcu 1968 roku aktywnie uczestniczył w protestach studenckich. Aresztowany, spędził dwa lata w więzieniu. Wielokrotnie następnie więziony za działalność opozycyjną – łącznie kilka lat za kratami.
-
-### KOR i „Kościół, lewica, dialog"
-
-W 1976 roku Michnik był wśród założycieli Komitetu Obrony Robotników. Jego esej „Kościół, lewica, dialog" (1977) był przełomowy – wzywał do dialogu między lewicową inteligencją a Kościołem katolickim jako sojusznika w walce o wolność. Ta analiza zdefiniowała strategię polskiej opozycji.
-
-Michnik rozwijał też koncepcję „nowego ewolucjonizmu" – ostrożnej, stopniowej zmiany systemu przez budowanie niezależnych instytucji społeczeństwa obywatelskiego.
-
-### Stan wojenny i więzienie
-
-13 grudnia 1981 roku Michnik został internowany. W więzieniu – w Białołęce i Barczewie – pisał eseje, które przemycano na Zachód i publikowano m.in. w paryskiej „Kulturze". Więzienie nie złamało go – wzmocniło. Odmawiał emigracji, chociaż mógł opuścić kraj.
-
-W 1985 roku skazany na trzy lata więzienia, zwolniony po ogłoszeniu amnestii w 1986.
-
-### Okrągły Stół i Gazeta Wyborcza
-
-W 1989 roku Michnik uczestniczył w obradach Okrągłego Stołu. Latem 1989 r. napisał słynny artykuł „Wasz prezydent, nasz premier" – formułę kompromisu, który umożliwił pokojowe przejęcie władzy przez Solidarność. Jaruzelski zostaje prezydentem, ale premierem – Tadeusz Mazowiecki.
-
-8 maja 1989 roku ukazał się pierwszy numer „Gazety Wyborczej" – pisma Solidarności na czas kampanii wyborczej, którego Michnik został redaktorem naczelnym. Funkcję tę pełni do dziś. „Gazeta" stała się największym dziennikiem w Polsce.
-
-### Spuścizna i kontrowersje
-
-Michnik jest symbolem liberalnej lewicy i dialogu. Jego teza o „grubej kresce" – oddzieleniu nowej Polski od rozliczeń z komunizmem – wywołała i wywołuje do dziś ostre spory. Nagrodzony wieloma odznaczeniami i doktoratami honoris causa; przez innych krytykowany za zbyt miękkie traktowanie dawnych komunistów.`,
-    resources: [
-      {
-        id: 'michnik-ipn',
-        title: 'Adam Michnik – dokumenty SB',
-        type: 'dokument',
-        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Michnik+Adam',
-        source: 'IPN Inwentarz',
-        description: 'Materiały bezpieki dotyczące inwigilacji Adama Michnika w zasobach IPN',
-      },
-      {
-        id: 'michnik-ph',
-        title: 'Adam Michnik i opozycja demokratyczna',
-        type: 'publikacja',
-        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Michnik+Adam+opozycja',
-        source: 'Przystanek Historia IPN',
-        description: 'Artykuły historyczne o roli Adama Michnika w polskiej opozycji',
-      },
-      {
-        id: 'michnik-polona',
-        title: 'Gazeta Wyborcza – pierwsze numery (Polona)',
-        type: 'publikacja',
-        url: 'https://polona.pl/search/?query=Gazeta+Wyborcza+1989',
-        source: 'Polona',
-        description: 'Digitalizacja pierwszych numerów Gazety Wyborczej z 1989 roku',
-      },
-    ],
-    relatedIds: ['kor', 'marzec-1968', 'okragly-stol', 'kuron', 'stan-wojenny'],
-  },
-  {
-    id: 'wajda',
-    title: 'Andrzej Wajda',
-    category: 'osoby',
-    shortDesc: 'Reżyser filmowy, twórca Polskiej Szkoły Filmowej, autor dzieł o historii i wolności.',
-    content: `## Andrzej Wajda (1926–2016)
-
-Andrzej Wajda był najwybitniejszym polskim reżyserem filmowym, laureatem Oscara za całokształt twórczości (2000) i Złotej Palmy w Cannes (1981). Jego filmy tworzyły dialog z historią Polski i opresją systemu komunistycznego.
-
-### Debiut i Polska Szkoła Filmowa
-
-Wajda zadebiutował „Pokoleniem" (1955) – historią młodych ludzi wciągniętych w ruch oporu podczas okupacji. Potem nakręcił „Kanał" (1957) i „Popiół i diament" (1958) – trylogię wojenną, która stała się kamieniem węgielnym Polskiej Szkoły Filmowej. Filmy te mówiły o bohaterstwie i tragedii AK, o sensie walki i pokoleniu przeklętym przez historię.
-
-Władze komunistyczne akceptowały te filmy z trudem – Wajda balansował na granicy tego, co dozwolone. „Popiół i diament" z Cybulskim w roli głównej zdobył światowy rozgłos, bo dotykał prawdy, której oficjalna propaganda nie chciała pokazać.
-
-### Kino zaangażowane społecznie
-
-W latach 70. Wajda nakręcił „Ziemię obiecaną" (1975) i „Człowieka z marmuru" (1977) – film o robotniku z lat 50., który stał się przodownikiem pracy, a potem ofiarą systemu. Cenzura walczyła z tym filmem latami; pokazany w 1977 roku stał się wielkim sukcesem artystycznym i moralnym.
-
-Kontynuacją był „Człowiek z żelaza" (1981) – nakręcony w gorącej atmosferze Solidarności, z prawdziwymi stoczniowcami przed kamerą. Film zdobył Złotą Palmę w Cannes. W Polsce grany w ogromnych kolejkach. Cenzura chciała go zablokować – nie zdążyła.
-
-### Stan wojenny i emigracja
-
-Po 13 grudnia 1981 roku Wajda – podobnie jak wielu twórców – znalazł się w trudnej sytuacji. Jego filmy były bojkotowane przez władze. Kręcił za granicą, m.in. w Niemczech.
-
-W 1983 roku nakręcił „Dantona" w koprodukcji z Francją – film o Rewolucji Francuskiej, który wszyscy odczytywali jako alegorię Polski w stanie wojennym. Władze polskie bojkotowały film.
-
-### Pojednanie z historią
-
-Po 1989 roku Wajda stworzył „Pierścionek z orłem w koronie" (1993), „Pan Tadeusz" (1999) i wreszcie „Katyń" (2007) – film, na który czekał całe życie. Jego ojciec był ofiarą zbrodni katyńskiej. Film był nominowany do Oscara. Wajda otworzył w Krakowie Muzeum Sztuki i Techniki Japońskiej – Manggha, które sfinansował z nagrody Kioto.
-
-### Znaczenie
-
-Wajda nauczył świat patrzeć na Polskę przez pryzmat jej tragicznej historii. Był sumieniem polskiego kina i moralnym autorytetem. Odznaczony Orderem Orła Białego, pochowany z honorami na Skałce w Krakowie.`,
-    resources: [
-      {
-        id: 'wajda-ninateka',
-        title: 'Filmy Andrzeja Wajdy – Ninateka',
-        type: 'film',
-        url: 'https://ninateka.pl/vod/szukaj?query=Wajda',
-        source: 'Ninateka',
-        description: 'Archiwalne filmy i materiały o twórczości Andrzeja Wajdy',
-      },
-      {
-        id: 'wajda-ph',
-        title: 'Andrzej Wajda – Przystanek Historia',
-        type: 'publikacja',
-        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Wajda+Andrzej+film',
-        source: 'Przystanek Historia IPN',
-        description: 'Artykuły historyczne o filmografii i znaczeniu Andrzeja Wajdy',
-      },
-      {
-        id: 'wajda-polona',
-        title: 'Prasa filmowa o Wajdzie (Polona)',
-        type: 'publikacja',
-        url: 'https://polona.pl/search/?query=Wajda+film',
-        source: 'Polona',
-        description: 'Recenzje i artykuły prasowe z epoki PRL dotyczące twórczości Wajdy',
-      },
-    ],
-    relatedIds: ['polska-szkola-filmowa', 'kino-moralnego-niepokoju', 'kino-prl', 'solidarnosc', 'katyn'],
-  },
   {
     id: 'kieslowski',
     title: 'Krzysztof Kieślowski',
@@ -9378,138 +9322,7 @@ Kieślowski pokazał, że kino może być filozofią. Jego filmy pytają o sens 
     ],
     relatedIds: ['kino-moralnego-niepokoju', 'polska-szkola-filmowa', 'kino-prl', 'wajda'],
   },
-  {
-    id: 'herbert',
-    title: 'Zbigniew Herbert',
-    category: 'osoby',
-    shortDesc: 'Jeden z najwybitniejszych polskich poetów – twórca Pana Cogito, głos moralnego sprzeciwu wobec totalitaryzmu.',
-    content: `## Zbigniew Herbert (1924–1998)
 
-Zbigniew Herbert był jednym z najwybitniejszych polskich poetów XX wieku. Uczestnik Armii Krajowej, niepokorny intelektualista i moralista, który całe życie stawiał opór zniewoleniu – zarówno komunistycznemu, jak i każdemu innemu.
-
-### Życiorys na tle epoki
-
-Herbert urodził się we Lwowie. Podczas II wojny światowej należał do AK – ten rozdział życia zaważył na całej jego późniejszej postawie. Po wojnie odmawiał współpracy z nowym reżimem, co kosztowało go latami niemożność publikowania i pracę w najgorszych warunkach – jako buchalter czy kontroler jakości.
-
-Debiutował poetycko dopiero w 1956 roku, podczas odwilży, zbiorem „Struna światła". W ciągu kilku lat wydał kolejne tomy, które przyniosły mu uznanie w Polsce i za granicą.
-
-### Pan Cogito i mit jako broń
-
-Najsłynniejszym „bohaterem" Herberta jest Pan Cogito – postać będąca alter ego poety, człowiek myślący w świecie absurdu. Pan Cogito obserwuje rzeczywistość z ironią i bólem, szuka wartości w kulturze śródziemnomorskiej, konfrontuje się z przemocą historii.
-
-Wiersz „Przesłanie Pana Cogito" (1974) to jeden z najważniejszych tekstów polskiej literatury: „Idź wyprostowany wśród tych co na kolanach / wśród odwróconych plecami i obalonych w proch". Był hymnem opozycji, był śpiewany na demonstracjach.
-
-Herbert chętnie sięgał do mitologii greckiej i historii starożytnej, by przez nie mówić o teraźniejszości. Eseje z tomu „Barbarzyńca w ogrodzie" (1962) i „Martwa natura z wędzidłem" (1993) są arcydziełami eseistyki.
-
-### Emigracja i powroty
-
-Herbert żył i pracował w wielu krajach: Francji, RFN, USA, Austrii. Stypendysta zachodnich fundacji, doceniany na całym świecie. Jednak zawsze wracał do Polski. Był nominowany wielokrotnie do Nagrody Nobla – wielu uważa, że zasłużył na nią bardziej niż niejeden laureat.
-
-W stanie wojennym Herbert opowiadał się wyraźnie po stronie Solidarności. Był jednym z sygnatariuszy apeli i listów protestu.
-
-### Późne lata i spuścizna
-
-Ostatni zbiór „Epilog burzy" ukazał się pośmiertnie w 1998 roku. Herbert wielokrotnie pisał o starości, śmierci i konieczności zachowania godności do końca.
-
-Jego poezja jest przetłumaczona na kilkadziesiąt języków. Jest to jedna z postaci, które najlepiej reprezentują polską tradycję moralną: opór, pamięć, niezgoda na kłamstwo.`,
-    resources: [
-      {
-        id: 'herbert-wl',
-        title: 'Zbigniew Herbert – Wolne Lektury',
-        type: 'publikacja',
-        url: 'https://wolnelektury.pl/katalog/autor/herbert-zbigniew/',
-        source: 'Wolne Lektury',
-        description: 'Poezja Zbigniewa Herberta dostępna online w serwisie Wolne Lektury',
-      },
-      {
-        id: 'herbert-polona',
-        title: 'Archiwum Herberta – Polona',
-        type: 'dokument',
-        url: 'https://polona.pl/search/?query=Herbert+Zbigniew+poeta',
-        source: 'Polona',
-        description: 'Rękopisy, korespondencja i pierwsze wydania utworów Zbigniewa Herberta',
-      },
-      {
-        id: 'herbert-ph',
-        title: 'Zbigniew Herbert – poeta niezłomny',
-        type: 'publikacja',
-        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Herbert+Zbigniew+poeta+opozycja',
-        source: 'Przystanek Historia IPN',
-        description: 'Artykuły o postawie Zbigniewa Herberta wobec komunizmu i jego spuściźnie',
-      },
-    ],
-    relatedIds: ['literatura-prl', 'kultura-prl', 'milosz', 'drugi-obieg', 'cenzura-prl'],
-  },
-  {
-    id: 'milosz',
-    title: 'Czesław Miłosz',
-    category: 'osoby',
-    shortDesc: 'Poeta, prozaik, eseista – autor „Zniewolonego umysłu", noblista 1980, jeden z największych pisarzy XX wieku.',
-    content: `## Czesław Miłosz (1911–2004)
-
-Czesław Miłosz to jeden z największych pisarzy XX wieku – poeta, eseista, historyk literatury, tłumacz. W 1980 roku otrzymał literacką Nagrodę Nobla. Jego twórczość jest nierozerwalnie związana z doświadczeniem totalitaryzmu i pytaniem o kondycję człowieka w obliczu historii.
-
-### Wielkie Księstwo Literackie i Polska
-
-Miłosz urodził się na Litwie, w Szetejniach. Ukształtowało go wielokulturowe środowisko kresowe – polskie, litewskie, żydowskie. Doświadczenie tej różnorodności i jej zagłady przez obie totalitarne machiny stało się fundamentem jego myśli.
-
-Przed wojną był związany z lewicową grupą poetycką „Żagary". Podczas okupacji pozostał w Warszawie, był świadkiem Zagłady warszawskich Żydów – opisał to poruszającym wierszem „Campo di Fiori" i słynnym „Biednym chrześcijaninem patrzącym na getto".
-
-### Dyplomata PRL i dezercja
-
-Po wojnie Miłosz pracował jako dyplomata – attaché kulturalny w Waszyngtonie i Paryżu. Wewnętrznie rozdarty, publicznie pełnił funkcję, z którą coraz trudniej mu się było pogodzić. W 1951 roku poprosił o azyl polityczny w Paryżu.
-
-Jego dezercja wstrząsnęła polskim środowiskiem literackim. PZPR uznała go za zdrajcę. W Polsce przez dekady był zakazany.
-
-### „Zniewolony umysł"
-
-W 1953 roku ukazał się po francusku „Zniewolony umysł" – esej analizujący mechanizmy, które sprawiają, że intelektualiści poddają się totalitaryzmowi. Miłosz opisał kilka fikcyjnych postaci (Alfa, Beta, Gamma, Delta), za którymi kryją się prawdziwi polscy pisarze. Analiza „kettmanu" – zewnętrznego dostosowania przy wewnętrznym sprzeciwie – jest jedną z najcelniejszych diagnoz psychologii konformizmu.
-
-Książka jest do dziś lekturą obowiązkową na wielu uczelniach świata.
-
-### Paryż i Berkeley
-
-Miłosz osiadł w Paryżu, był związany z redakcją „Kultury" Giedroycia (choć relacja była skomplikowana), a od 1960 roku wykładał literaturę słowiańską na Uniwersytecie Kalifornijskim w Berkeley.
-
-W tym czasie tworzył intensywnie – „Dolina Issy" (1955), „Rodzinna Europa" (1959), „Traktat poetycki" (1957). Jego poezja stała się coraz bardziej metafizyczna, pełna pytań o sens, Boga i miejsce człowieka w kosmosie.
-
-### Nobel i powrót do Polski
-
-W 1980 roku, gdy Polska strajkowała i powstawała Solidarność, Miłosz otrzymał Nagrodę Nobla. W Polsce odebrano to jako gest polityczny – potwierdzenie wartości wolności. Komunistyczne władze były zakłopotane.
-
-Miłosz wrócił do Polski po raz pierwszy w 1981 roku – owacja na Wawelu była historycznym momentem. Po 1989 roku zamieszkał w Krakowie. Pisał i tłumaczył do końca życia. Pochowany w krypcie kościoła na Skałce, wśród narodowych zasłużonych.
-
-### Spuścizna
-
-Miłosz jest autorem „Traktatu moralnego", „Ziemi Ulro", „Roku myśliwego" i setek wierszy. Jest poetą nadziei i bólu, świadkiem stulecia totalitaryzmów, który zachował humanistyczną wiarę w słowo i piękno.`,
-    resources: [
-      {
-        id: 'milosz-wl',
-        title: 'Czesław Miłosz – Wolne Lektury',
-        type: 'publikacja',
-        url: 'https://wolnelektury.pl/katalog/autor/milosz-czeslaw/',
-        source: 'Wolne Lektury',
-        description: 'Poezja i proza Czesława Miłosza dostępna online',
-      },
-      {
-        id: 'milosz-polona',
-        title: 'Archiwum Miłosza – Polona',
-        type: 'dokument',
-        url: 'https://polona.pl/search/?query=Mi%C5%82osz+Czes%C5%82aw+poeta',
-        source: 'Polona',
-        description: 'Digitalizacje pism, rękopisów i pierwszych wydań Miłosza',
-      },
-      {
-        id: 'milosz-ph',
-        title: 'Czesław Miłosz – twórczość i emigracja',
-        type: 'publikacja',
-        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Mi%C5%82osz+Czes%C5%82aw+emigracja+Nobel',
-        source: 'Przystanek Historia IPN',
-        description: 'Artykuły historyczne o twórczości i losach Czesława Miłosza',
-      },
-    ],
-    relatedIds: ['literatura-prl', 'kultura-paryz', 'herbert', 'cenzura-prl', 'drugi-obieg'],
-  },
   {
     id: 'kolejki-prl',
     title: 'Kolejki i braki towarów',
@@ -9576,6 +9389,7 @@ Liberalizacja cen w 1989–1990 roku zlikwidowała kolejki niemal z dnia na dzie
     ],
     relatedIds: ['gospodarka-prl', 'kuchnia-prl', 'nomenklatura', 'plan-szescioletni', 'gierek'],
   },
+
   {
     id: 'mieszkania-prl',
     title: 'Wielka płyta i budownictwo mieszkaniowe',
@@ -9642,336 +9456,7 @@ Wielka płyta stała się problemem po 1989 roku. Bloki mają ograniczoną żywo
     ],
     relatedIds: ['nowa-huta', 'gospodarka-prl', 'dzieci-prl', 'gierek', 'plan-szescioletni'],
   },
-  {
-    id: 'rwpg',
-    title: 'RWPG – Rada Wzajemnej Pomocy Gospodarczej',
-    category: 'gospodarka',
-    shortDesc: 'Wschodnioblokowy odpowiednik EWG – integracja gospodarcza krajów komunistycznych pod hegemonią ZSRR.',
-    content: `## RWPG – Rada Wzajemnej Pomocy Gospodarczej
 
-Rada Wzajemnej Pomocy Gospodarczej (ros. СЭВ – Sowiet Ekonomiczeskiej Wzaimopomoszczi, ang. COMECON) była organizacją integracji ekonomicznej krajów socjalistycznych, powołaną w 1949 roku jako odpowiedź na Plan Marshalla. Przez 40 lat wyznaczała ramy handlu i kooperacji przemysłowej Polski z blokiem wschodnim.
-
-### Geneza i struktura
-
-RWPG powstała w 1949 roku z inicjatywy Stalina. Pierwotni członkowie: ZSRR, Polska, Czechosłowacja, Węgry, Rumunia, Bułgaria i Albania (która wystąpiła w 1961). Później dołączyły NRD (1950), Mongolia (1962), Kuba (1972) i Wietnam (1978).
-
-Siedziba znajdowała się w Moskwie. Formalnie organizacja miała charakter dobrowolnej kooperacji – w praktyce ZSRR dyktował warunki. Ceny transferowe, kursy walut, przydziały produkcji – wszystko to ustalano na sesjach Rady, gdzie głos Moskwy był rozstrzygający.
-
-### Specjalizacja produkcji
-
-Jedną z głównych zasad RWPG była „socjalistyczna kooperacja" – każdy kraj miał specjalizować się w określonych branżach. Polska była centrum produkcji węgla, okrętów i maszyn górniczych. Czechosłowacja – przemysłu maszynowego. NRD – optyki i precyzji. Rumunii przypadła ropa i przemysł chemiczny.
-
-W praktyce podział ten był niestabilny, a krajom zależnym często narzucano profil produkcji niekorzystny dla ich własnego rozwoju. ZSRR zachowywał dla siebie zaawansowane technologie i surowce energetyczne.
-
-### Ceny transferowe i nieekwiwalentna wymiana
-
-Kluczowym problemem RWPG były ceny. Surowce – zwłaszcza ropa radziecka – sprzedawane były krajom RWPG poniżej cen rynkowych, co było formą subwencji sowieckiej. W zamian kraje wschodnioblokowe eksportowały towary przemysłowe do ZSRR często po zawyżonych cenach lub w jakości, której nikt na Zachodzie nie chciał kupić.
-
-Ten system ukrywał skalę nieefektywności. Fabryki w Polsce produkowały eksportowy sprzęt dla ZSRR, ale w standardzie, który nie mógłby konkurować na rynku zachodnim.
-
-### Transfery technologii (lub ich brak)
-
-RWPG nie stała się nośnikiem nowoczesnych technologii. ZSRR pilnie strzegł know-how. Kraje satelickie nie miały swobodnego dostępu do zachodniej technologii (embargo CoCom). W efekcie przez dekady powiększała się przepaść technologiczna między Wschodem a Zachodem.
-
-### Zadłużenie i kryzys lat 80.
-
-W latach 70. kraje RWPG – w tym Polska – masowo zaciągały kredyty zachodnie, licząc na modernizację. Gdy przyszedł kryzys, długi okazały się nie do spłacenia. Polska w 1980 roku miała dług zachodni rzędu 20 mld dolarów. RWPG nie była w stanie pomóc – brakowało twardych walut.
-
-RWPG rozwiązała się w 1991 roku, gdy upadły komunistyczne rządy i rynki wschodnioblokowe przestały istnieć w dotychczasowej formie.`,
-    resources: [
-      {
-        id: 'rwpg-polona',
-        title: 'Dokumenty RWPG – Polona',
-        type: 'dokument',
-        url: 'https://polona.pl/search/?query=RWPG+Rada+Wzajemnej+Pomocy+Gospodarczej',
-        source: 'Polona',
-        description: 'Archiwalne dokumenty i publikacje dotyczące RWPG w zbiorach Polony',
-      },
-      {
-        id: 'rwpg-ph',
-        title: 'RWPG i gospodarka bloku wschodniego',
-        type: 'publikacja',
-        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=RWPG+gospodarka+blok+wschodni',
-        source: 'Przystanek Historia IPN',
-        description: 'Artykuły historyczne o RWPG i jej wpływie na polską gospodarkę',
-      },
-      {
-        id: 'rwpg-ipn',
-        title: 'Materiały archiwalne dot. RWPG',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=RWPG+handel+zagraniczny',
-        source: 'IPN Inwentarz',
-        description: 'Materiały archiwalne dotyczące polskiego uczestnictwa w RWPG',
-      },
-    ],
-    relatedIds: ['gospodarka-prl', 'plan-szescioletni', 'gierek', 'uklad-warszawski', 'jalta'],
-  },
-  {
-    id: 'jazz-prl',
-    title: 'Jazz w Polsce Ludowej',
-    category: 'kultura',
-    shortDesc: 'Jazz – muzyka wolności, która przebiła się przez ideologiczne bariery PRL i stała się symbolem otwarcia na Zachód.',
-    content: `## Jazz w Polsce Ludowej
-
-Jazz w PRL to paradoks: muzyka uznana przez stalinizm za imperialistyczną, dekadencką i zgubną – stała się jednym z pierwszych przejawów odwilży, a Polska Jazz Jamboree jest do dziś jednym z najważniejszych festiwali jazzowych na świecie.
-
-### Stalinizm i zakaz jazzu
-
-W szczytowym okresie stalinizmu (1949–1955) jazz był formalnie zakazany jako „muzyka burżuazyjna" i „imperialistyczna propaganda". Muzycy byli represjonowani, płyty konfiskowane, a publiczne granie jazzu mogło skończyć się aresztem.
-
-Władze propagowały muzykę sowiecką i socrealistyczną – marsze, masowe pieśni, folklor stylizowany na ludowy. Jazz był symbolem Zachodu, wolności i indywidualizmu – wszystkiego, co komunizm chciał wyprzeć.
-
-### Odwilż i wybuch
-
-Październik 1956 roku otworzył Polskę. Jazz natychmiast wybuchł z siłą tłumionej sprężyny. Kawiarnie, kluby studenckie, piwnice – wszędzie pojawiły się zespoły. Muzyczne pokolenie Krzysztofa Komedy, Andrzeja Kurylewicza, Jerzego Miliana, Tomasza Stańki nie musiało się już kryć.
-
-W 1956 roku zorganizowano pierwszy Ogólnopolski Festiwal Muzyki Jazzowej w Sopocie. Od 1958 roku to wydarzenie przeniosło się do Warszawy jako Jazz Jamboree – i trwa do dziś. Jazz Jamboree przyciągał gwiazdy światowe: Miles Davis, Dizzy Gillespie, Modern Jazz Quartet grały w Warszawie.
-
-### Komeda i polska szkoła jazzu
-
-Krzysztof Komeda (Trzciński) stał się symbolem polskiego jazzu. Jego album „Astigmatic" (1965) jest do dziś arcydziełem gatunku – europejski jazz z poetycką wrażliwością, daleką od amerykańskich wzorów. Komeda komponował też muzykę do filmów Romana Polańskiego – w tym słynne kołysanki z „Dziecka Rosemary".
-
-Tomasz Stańko, Jan Ptaszyn Wróblewski, Zbigniew Namysłowski, Urszula Dudziak – to muzycy, którzy stworzyli polską szkołę jazzu. Polskie Radio Jazz Studio nagrywało i promowało jazzowe sesje.
-
-### Jazz jako przestrzeń wolności
-
-Jazz w PRL był czymś więcej niż muzyką – był przestrzenią wolności w autorytarnym państwie. Improwizacja – jądro jazzu – była antytezą kolektywizmu i planowania. Muzyk jazzowy myślał i decydował sam, w chwili.
-
-Kluby jazzowe przyciągały młodzież, studentów, intelektualistów. Słuchano też muzyki z radia BBC i Głosu Ameryki. Jazz łączył się z kulturą zachodnią i był oknem na świat.
-
-### Paradoks
-
-Komunistyczne władze ostatecznie zaakceptowały jazz – bo widziały, że go nie powstrzymają, a był dla nich wygodniejszy niż rock and roll. Jazz był „intelektualny", a więc bezpieczniejszy klasowo. Festiwal Jazz Jamboree stał się też oknem propagandowym: dowodem, że Polska jest krajem otwartym na kulturę zachodnią.
-
-Ten paradoks – muzyka wolności w systemie zniewolenia – jest jednym z najciekawszych wątków kulturalnych PRL.`,
-    resources: [
-      {
-        id: 'jazz-ninateka',
-        title: 'Jazz Jamboree – archiwalne nagrania (Ninateka)',
-        type: 'nagranie',
-        url: 'https://ninateka.pl/vod/szukaj?query=Jazz+Jamboree',
-        source: 'Ninateka',
-        description: 'Archiwalne nagrania z festiwalu Jazz Jamboree i polskich muzyków jazzowych',
-      },
-      {
-        id: 'jazz-polona',
-        title: 'Polska prasa jazzowa (Polona)',
-        type: 'publikacja',
-        url: 'https://polona.pl/search/?query=jazz+polska+PRL+1956',
-        source: 'Polona',
-        description: 'Cyfryzacje pism i artykułów prasowych o jazzie w Polsce Ludowej',
-      },
-      {
-        id: 'jazz-ph',
-        title: 'Jazz w PRL – kultura opozycji i wolności',
-        type: 'publikacja',
-        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=jazz+PRL+Komeda+festiwal',
-        source: 'Przystanek Historia IPN',
-        description: 'Artykuły historyczne o jazzie jako kulturze wolności w Polsce Ludowej',
-      },
-    ],
-    relatedIds: ['kultura-prl', 'komeda', 'muzyka-powazna-prl', 'radio-prl', 'pazdziernik-1956'],
-  },
-  {
-    id: 'sport-prl',
-    title: 'Sport w PRL',
-    category: 'społeczeństwo',
-    shortDesc: 'Sukcesy olimpijskie, masowy sport robotniczy i propaganda sukcesu – sport jako polityczne narzędzie PRL.',
-    content: `## Sport w PRL
-
-Sport w Polsce Ludowej pełnił wieloraką rolę: był narzędziem propagandy, oknem prestiżu na arenie międzynarodowej, ale też autentycznym źródłem radości i dumy narodowej. Polscy sportowcy odnosili na olimpiadach sukcesy nieproporcjonalne do wielkości kraju.
-
-### Sport jako ideologia
-
-Komunistyczna władza traktowała sport instrumentalnie. Wielkie sukcesy sportowe miały dowodzić wyższości socjalizmu nad kapitalizmem – porównywalne z lotem Gagarina czy sputnikiem. Sukcesy olimpijskie były materiałem propagandowym pierwszej klasy.
-
-Jednocześnie masowy sport miał integrować i wychowywać nowego człowieka. Towarzystwa Krzewienia Kultury Fizycznej (TKKF), Legia, Gwardia, Górnik – nazwy klubów oddawały charakter systemu: sport był organizacyjnie powiązany z wojskiem, milicją i zakładami pracy.
-
-### Olimpijskie sukcesy
-
-Polska była regularną potęgą olimpijską. Najlepszy był rok 1972 w Monachium: 13 medali, w tym 7 złotych. Lekkoatleci, bokserzy, wioślarze, zapaśnicy – wielkie indywidualności i wielkie drużyny.
-
-**Irena Szewińska** – siedmiokrotna medalistka olimpijska, wielokrotna rekordzistka świata, ikona polskiej lekkoatletyki. Złoty medal w biegu na 400 metrów w Montrealu 1976 – jeden z najpiękniejszych momentów polskiego sportu.
-
-**Kazimierz Deyna** – mistrz futbolu. Drużyna Górskiego – Polska w finale mistrzostw świata 1974 (3. miejsce), złoto olimpijskie w Monachium 1972. Lata 70. to złoty czas polskiej piłki.
-
-**Jerzy Kulej** – dwukrotny złoty medalista olimpijski w boksie (Tokio 1964, Meksyk 1968).
-
-**Władysław Kozakiewicz** – złoty medal w skoku o tyczce na olimpiadzie w Moskwie 1980. Jego gest w stronę trybun sowieckich widzów (znany jako „gest Kozakiewicza") stał się symbolem oporu wobec Wschodu.
-
-### Piłka nożna lat 70.
-
-Epoka Gierka to złoty czas polskiego futbolu. Trener Kazimierz Górski zbudował drużynę marzeń: Deyna, Lubański, Szarmach, Lato, Gadocha, Tomaszewski. Polska zdobyła złoto olimpijskie (1972), srebro olimpijskie (1976) i zajęła 3. miejsce na MŚ w 1974 i 1982.
-
-Mecz Polska – Anglia (1973), zakończony remisem 1:1, który pozwolił Polsce awansować na MŚ i wyeliminował Anglię – jest legendą.
-
-### Lekkoatletyka
-
-Polska lekkoatletyka lat 60.–80. była globalną potęgą. Irena Szewińska, Jadwiga Wajs-Marcinkiewicz, Grażyna Rabsztyn, Bronisław Malinowski (złoto w Moskwie 1980 w biegu na 3000 m z przeszkodami) – to nie była przypadkowa dominacja.
-
-### Sport kobiecy
-
-PRL był stosunkowo postępowy w sporcie kobiecym. Kobiety uczestniczyły we wszystkich dyscyplinach, a osiągnięcia sportsmenek były szeroko nagłaśniane.
-
-### Granica propagandy i rzeczywistości
-
-Za sukcesami stało zawodowe podejście, świetni trenerzy i system wyławiania talentów. Ale też – jak wszędzie za żelazną kurtyną – doping i system przywilejów dla sportowców. Wyjeżdżanie za granicę, lepsze zaopatrzenie, samochody, paszporty – sportowcy żyli lepiej niż przeciętny Polak.`,
-    resources: [
-      {
-        id: 'sport-ninateka',
-        title: 'Sport w PRL – archiwalne transmisje (Ninateka)',
-        type: 'nagranie',
-        url: 'https://ninateka.pl/vod/szukaj?query=sport+olimpiada+Polska+PRL',
-        source: 'Ninateka',
-        description: 'Archiwalne transmisje, kroniki i reportaże sportowe z czasów PRL',
-      },
-      {
-        id: 'sport-pkf',
-        title: 'Polska Kronika Filmowa – sport',
-        type: 'nagranie',
-        url: 'https://ninateka.pl/vod/szukaj?query=Polska%20Kronika%20Filmowa',
-        source: 'Ninateka/PKF',
-        description: 'Kroniki filmowe dokumentujące sukcesy polskich sportowców w erze PRL',
-      },
-      {
-        id: 'sport-ph',
-        title: 'Sport jako propaganda sukcesu',
-        type: 'publikacja',
-        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=sport+PRL+olimpiada+propaganda',
-        source: 'Przystanek Historia IPN',
-        description: 'Artykuły o roli sportu w propagandzie PRL i osiągnięciach polskich sportowców',
-      },
-    ],
-    relatedIds: ['gospodarka-prl', 'propaganda-prl', 'gierek', 'kultura-prl', 'hermaszewski'],
-  },
-  {
-    id: 'szymborska',
-    title: 'Wisława Szymborska',
-    category: 'osoby',
-    shortDesc: 'Poetka, laureatka Nagrody Nobla 1996 – mistrzyni ironii i codziennej filozofii.',
-    content: `## Wisława Szymborska (1923–2012)
-
-Wisława Szymborska należy do grona największych polskich poetów XX wieku. W 1996 roku otrzymała literacką Nagrodę Nobla – Akademia Szwedzka uzasadniła ją „poezją, która z ironiczną precyzją pozwala kontekstowi historycznemu i biologicznemu fragmentowi ludzkiej rzeczywistości wyłonić się na światło". Jej wiersze, pozornie proste i żartobliwe, kryją w sobie głębię filozoficzną i moralną.
-
-### Droga do poezji
-
-Szymborska urodziła się w Kórniku pod Poznaniem, dorastała w Krakowie. Debiutowała w 1945 roku na łamach prasy. Jej pierwszy tomik „Dlatego żyjemy" (1952) był jeszcze zabarwiony socrealizmem – sama poetka w późniejszych latach dystansowała się od tych wierszy.
-
-Przełomem był tom „Pytania zadawane sobie" (1954) i kolejne zbiory, w których Szymborska wypracowała swój niepowtarzalny styl: filozoficzne pytania zadawane poprzez codzienne, konkretne obrazy, ironia jako narzędzie poznania, zdumienie światem jako postawa etyczna.
-
-### Styl i tematyka
-
-Szymborska pisała o tym, co małe i pozornie nieważne – o kamieniu, kocie, targu – i przez te obrazy docierała do pytań fundamentalnych: o przypadek i konieczność, o tożsamość, o śmierć i przemijanie. Wiersz „Nic dwa razy" stał się jednym z najbardziej znanych wierszy w języku polskim.
-
-Jej „Rozmowa z kamieniem", „Widok z ziarnkiem piasku", „Koniec i początek" – to perły liryki filozoficznej. Wiersz „Tortury" jest poruszającym komentarzem do historii represji. „Obóz głodowy pod Jasłem" – świadectwem o zagładzie.
-
-Szymborska unikała wielkich słów i patosu. Jej oręż to precyzja języka i niespodziewana pointą.
-
-### Pozycja w PRL
-
-W czasach PRL Szymborska była uznaną poetką, choć nie politycznie zaangażowaną. Pracowała w redakcji krakowskiego „Życia Literackiego", gdzie przez wiele lat prowadziła rubrykę „Lektury nadobowiązkowe" – błyskotliwe recenzje książek, które stały się klasykiem eseistyki.
-
-Nie była dysydentką, ale jej poezja – kwestionująca pewniki, ironiząca schematy myślenia – była antytezą doktrynerskiego komunizmu. W stanie wojennym podpisała list protestacyjny twórców krakowskich.
-
-### Nobel i późne lata
-
-Nagrodę Nobla odebrała skromnie i ze swoją typową ironią. Na bankiecie noblowskim powiedziała, że jest „nie bardziej skromna od innych poetów, tylko bardziej inteligentna w skromności".
-
-Ostatnie lata życia spędziła w Krakowie, otoczona gronem przyjaciół. Pisała do końca. Jej ostatni tom „Wystarczy" ukazał się pośmiertnie. Pochowana na cmentarzu Rakowickim w Krakowie.`,
-    resources: [
-      {
-        id: 'szym-wl',
-        title: 'Wisława Szymborska – Wolne Lektury',
-        type: 'publikacja',
-        url: 'https://wolnelektury.pl/katalog/autor/szymborska-wislawa/',
-        source: 'Wolne Lektury',
-        description: 'Wiersze Wisławy Szymborskiej dostępne online',
-      },
-      {
-        id: 'szym-polona',
-        title: 'Archiwum Szymborskiej – Polona',
-        type: 'dokument',
-        url: 'https://polona.pl/search/?query=Szymborska+Wis%C5%82awa',
-        source: 'Polona',
-        description: 'Zdigitalizowane pierwsze wydania tomów poetyckich Szymborskiej',
-      },
-      {
-        id: 'szym-ninateka',
-        title: 'Szymborska – wywiady i nagrania',
-        type: 'nagranie',
-        url: 'https://ninateka.pl/vod/szukaj?query=Szymborska+Wis%C5%82awa',
-        source: 'Ninateka',
-        description: 'Archiwalne wywiady telewizyjne i radiowe z Wisławą Szymborską',
-      },
-    ],
-    relatedIds: ['literatura-prl', 'kultura-prl', 'milosz', 'herbert', 'cenzura-prl'],
-  },
-  {
-    id: 'lem',
-    title: 'Stanisław Lem',
-    category: 'osoby',
-    shortDesc: 'Pisarz science-fiction i futurysta – jeden z najczęściej tłumaczonych polskich autorów w historii.',
-    content: `## Stanisław Lem (1921–2006)
-
-Stanisław Lem był jednym z najważniejszych pisarzy XX wieku – twórcą science fiction, filozofem technologii i futurystą, którego dzieła przetłumaczono na kilkadziesiąt języków, sprzedając w dziesiątkach milionów egzemplarzy. Jest najczęściej tłumaczonym polskim pisarzem w historii.
-
-### Lwów i trauma wojenna
-
-Lem urodził się we Lwowie. Przeżył II wojnę światową ukrywając swoje żydowskie pochodzenie na aryjskich dokumentach. Doświadczenie Holokaustu, śmierci i okrucieństwa historii odcisnęło trwałe piętno na jego twórczości – pesymizm co do natury ludzkiej, fascynacja zagładą i ocaleniem.
-
-Po wojnie zamieszkał w Krakowie, gdzie spędził większość życia.
-
-### Twórczość: między fantastyką a filozofią
-
-Lem zadebiutował powieścią „Astronauci" (1951), ale prawdziwy przełom przyniosła „Solaris" (1961) – arcydzieło SF o niemożności komunikacji z radykalnie obcą formą życia. Ekranizowana dwukrotnie (Tarkowski 1972, Soderbergh 2002), stała się ikoną gatunku na całym świecie.
-
-Inne kluczowe dzieła: „Eden" (1959), „Niezwyciężony" (1964), „Głos Pana" (1968), cykl o Ijonie Tichym, cykl o Pirksie, „Cyberiada" (1965). „Cyberiada" to poetyckie opowiadania o robotach Trypanie i Klapsaucjusie – ironiczne, błyskotliwe, filozoficznie wieloznaczne.
-
-Lem pisał też eseje: „Summa Technologiae" (1964) – futurologiczna analiza przyszłości technologii, która w wielu miejscach okazała się prorocza – i „Filozofia przypadku" (1968).
-
-### Stosunek do komunizmu
-
-Lem był pisarzem niezależnym w warunkach PRL. Nie był dysydentką ani aktywnym komunistą. Udało mu się zbudować pozycję, w której cenzura generalnie go nie dotykała – SF było bardziej tolerowane niż realistyczna proza polityczna.
-
-Ale nie był naiwny. W jego powieściach pojawiają się krytyczne alegorie: systemy totalne, manipulacja, bezduszne machiny biurokratyczne. „Opowieści o pilocie Pirksie" zawierają subtelne komentarze do współczesności.
-
-Zdobył prawo do wyjazdów za granicę i kontaktów z zachodnimi wydawcami – co było przywilejem. W 1982 roku wyjechał do Wiednia; wrócił do Polski po upadku komunizmu.
-
-### Konflikty ze środowiskiem
-
-Lem był postacią kontrowersyjną. Ostro krytykował amerykańskie SF jako intelektualnie płytkie – co doprowadziło do konfliktu z tamtejszym środowiskiem i usunięcia go z organizacji Science Fiction Writers of America (SFWA). Był niezłomny w ocenach, bezkompromisowy.
-
-### Spuścizna
-
-Lem jest patronem nauki o przyszłości, cyberprzestrzeni i etyce technologicznej. Jego przewidywania dotyczące internetu, wirtualnej rzeczywistości i problemów etycznych AI okazały się trafne. Muzeum Lema w Krakowie jest hołdem dla jego wyobraźni.`,
-    resources: [
-      {
-        id: 'lem-wl',
-        title: 'Stanisław Lem – Wolne Lektury',
-        type: 'publikacja',
-        url: 'https://wolnelektury.pl/katalog/autor/lem-stanislaw/',
-        source: 'Wolne Lektury',
-        description: 'Wybrane utwory Stanisława Lema dostępne online',
-      },
-      {
-        id: 'lem-polona',
-        title: 'Archiwum Lema – Polona',
-        type: 'dokument',
-        url: 'https://polona.pl/search/?query=Lem+Stanis%C5%82aw+Solaris',
-        source: 'Polona',
-        description: 'Zdigitalizowane pierwsze wydania powieści i esejów Stanisława Lema',
-      },
-      {
-        id: 'lem-ninateka',
-        title: 'Lem – wywiady i adaptacje filmowe',
-        type: 'nagranie',
-        url: 'https://ninateka.pl/vod/szukaj?query=Lem+Stanis%C5%82aw+Solaris',
-        source: 'Ninateka',
-        description: 'Archiwalne wywiady z Lemem i adaptacje filmowe jego dzieł',
-      },
-    ],
-    relatedIds: ['literatura-prl', 'kultura-prl', 'nauka-prl', 'cenzura-prl', 'milosz'],
-  },
   {
     id: 'motoryzacja-prl',
     title: 'Motoryzacja w PRL – Maluch i inne',
@@ -10040,282 +9525,7 @@ Liberalizacja umożliwiła import zachodnich samochodów. Rynek zalały używane
     ],
     relatedIds: ['kolejki-prl', 'gospodarka-prl', 'gierek', 'kuchnia-prl', 'nostalgia-prl'],
   },
-  {
-    id: 'prasa-prl',
-    title: 'Prasa i media w PRL',
-    category: 'kultura',
-    shortDesc: 'Trybuna Ludu, Polityka, Przekrój – kontrolowana prasa jako narzędzie propagandy i okno na rzeczywistość.',
-    content: `## Prasa i media w PRL
 
-Prasa w Polsce Ludowej funkcjonowała w warunkach ścisłej kontroli partyjnej i cenzury, ale była też areną subtelnych gier między władzą a dziennikarzami, którzy próbowali przemycić odrobinę prawdy między wierszami.
-
-### Struktura systemu prasowego
-
-PZPR kontrolowała wszystkie media. Każde pismo musiało mieć „właściciela" – instytucję partyjną, związkową lub stronnictwo satelickie. Centralny Urząd Kontroli Prasy, Publikacji i Widowisk (cenzura) sprawdzał każdy tekst przed drukiem.
-
-Główny organ partyjny: **Trybuna Ludu** – codzienna gazeta partii, nudna, pełna partyjnego nowomówu, czytana przez obowiązek, a nie z ciekawości. Nakład milionowy, bo wielkie zakłady pracy prenumerowały ją automatycznie.
-
-**Żołnierz Wolności** – dziennik wojskowy. **Sztandar Młodych** – pismo ZMS. **Głos Pracy** – związkowy. Każda instytucja miała swój organ.
-
-### Tygodniki – względna swoboda
-
-Tygodniki miały nieco więcej swobody niż dzienniki. **Polityka** (od 1957) pod redakcją Mieczysława Rakowskiego była najbardziej wpływowym tygodnikiem opinii – ostrożnie reformistyczna, czytana przez inteligencję, niekiedy pozwalała na krytykę systemu w jego ramach.
-
-**Przekrój** (od 1945, Kraków) był pismem kulturalno-rozrywkowym o wyjątkowej klasie graficznej i redakcyjnej. Był oknem na kulturę zachodnią – filmy, literatura, moda – i był powszechnie kochany.
-
-**Tygodnik Powszechny** (Kraków) – katolickie pismo środowisk inteligenckich, w istocie jedyne niezależne pismo w systemie. Jego redaktorzy, w tym Jerzy Turowicz, potrafili bronić niezależności redakcji nawet w najtrudniejszych czasach.
-
-### Dziennikarze i gra z cenzurą
-
-Doświadczeni dziennikarze nauczyli się gry z cenzurą. Aluzja, metafora, odwołanie do historii starożytnej lub obcej – to były techniki mówienia prawdy tak, by cenzor jej nie zauważył lub nie chciał zrozumieć.
-
-Słynna była praktyka „czytania między wierszami" – polscy czytelnicy nauczyli się rozumieć to, co nie było napisane. Pominięcie informacji, nieobecność tematu – to też mówiło o rzeczywistości.
-
-### Kryzys i podziemie
-
-Po 1976 roku, wraz z powstaniem KOR, zaczął kwitnąć drugi obieg prasowy. Bezdebitowe pisma: „Biuletyn Informacyjny KOR", „Robotnik", „Res Publica", setki innych – drukowane na powielaczach i dystrybuowane siatkami kolporterów.
-
-Po sierpniu 1980 roku Solidarność wydawała swoje regionalne biuletyny, tygodniki i miesięczniki. Prasa niezależna stała się masową. Stan wojenny ją zdelegalizował, ale nie zniszczył.
-
-### Telewizja i radio
-
-Obok prasy drukowanej kluczową rolę odgrywała telewizja (od 1952) i radio. Dziennik Telewizyjny – główny serwis informacyjny TVP – był synonimem propagandy. Prowadzony przez lojalne kadry, manipulował informacją, przemilczał fakty.
-
-Alternatywą były Radio Wolna Europa i głos Ameryki – słuchane nielegalnie przez miliony.`,
-    resources: [
-      {
-        id: 'prasa-polona',
-        title: 'Prasa PRL – archiwalne numery (Polona)',
-        type: 'publikacja',
-        url: 'https://polona.pl/search/?query=Trybuna+Ludu+Polityka+Przekr%C3%B3j+PRL',
-        source: 'Polona',
-        description: 'Zdigitalizowane numery głównych pism PRL, w tym Trybuny Ludu, Polityki i Przekroju',
-      },
-      {
-        id: 'prasa-ph',
-        title: 'Media i prasa w PRL',
-        type: 'publikacja',
-        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=prasa+media+cenzura+PRL+Trybuna+Ludu',
-        source: 'Przystanek Historia IPN',
-        description: 'Artykuły historyczne o systemie prasowym i roli mediów w Polsce Ludowej',
-      },
-      {
-        id: 'prasa-ipn',
-        title: 'Dokumenty cenzury prasowej',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=cenzura+prasa+GUKPPiW',
-        source: 'IPN Inwentarz',
-        description: 'Dokumenty Głównego Urzędu Kontroli Prasy dotyczące ingerencji cenzury',
-      },
-    ],
-    relatedIds: ['cenzura-prl', 'propaganda-prl', 'drugi-obieg', 'tygodnik-powszechny', 'radio-wolna-europa'],
-  },
-  {
-    id: 'edukacja-prl',
-    title: 'Edukacja i szkoła w PRL',
-    category: 'społeczeństwo',
-    shortDesc: 'System oświaty jako narzędzie indoktrynacji – i mimo to szkoła jako miejsce realnej wiedzy i przyjaźni.',
-    content: `## Edukacja i szkoła w PRL
-
-Szkoła w Polsce Ludowej była jednym z głównych narzędzi wychowania nowego człowieka – lojalnego obywatela socjalistycznego państwa. A jednocześnie była miejscem, gdzie miliony dzieci uczyły się matematyki, historii i literatury, zdobywały przyjaźnie i – nierzadko – lekcje prawdziwego życia od nauczycieli, którzy przemycali prawdę mimo systemu.
-
-### Reforma systemu oświaty
-
-Po 1944 roku komuniści szybko przejęli kontrolę nad szkolnictwem. Zlikwidowano szkoły prywatne i wyznaniowe. Wprowadzono jednolity program nauczania oparty na radzieckich wzorcach: obowiązkowa nauka rosyjskiego, marksistowsko-leninowska interpretacja historii, gloryfikacja ZSRR.
-
-Jednocześnie dokonano ogromnego postępu w upowszechnieniu edukacji. Analfabetyzm, który przed wojną dotyczył ok. 15–20% społeczeństwa, zwalczono masowymi kampaniami. Szkolnictwo wyższe otwarto dla dzieci robotniczych i chłopskich. To był realny awans cywilizacyjny.
-
-### Ideologia w klasie
-
-Lekcje historii były skrzywione przez pryzmat marksizmu. Szkoła uczyła: kapitalizm jest zły, imperializm zachodni grozi, ZSRR jest przyjacielem, Armia Czerwona wyzwoliła Polskę. AK była „reakcją", zachodnia pomoc dla Polski w czasie wojny – przemilczana.
-
-Religia została usunięta ze szkół w 1961 roku (wcześniej była ograniczana). Zastąpiła ją „etyka i wychowanie obywatelskie" – de facto ideologia partyjna. Lekcje religii przeniosły się do kościołów i katechezy parafialnej.
-
-Na ścianach szkół wisiały portrety Lenina i Bieruta, potem Gomułki, Gierka. Szkolne uroczystości: 1 Maja, Rewolucja Październikowa, rocznice PKWN.
-
-### Organizacje młodzieżowe
-
-ZMP (Związek Młodzieży Polskiej) do 1956 roku, potem ZMS, ZMW, ZHP (w wersji zsowietyzowanej, później przywrócona tradycja harcerska) – organizacje młodzieżowe były integralną częścią szkolnego życia. Zrzeszały obowiązkowo lub półobowiązkowo, wychowywały ideologicznie.
-
-Harcerstwo miało swoją tradycję i etos niezależny od władzy – i niekiedy stawało się przestrzenią prawdziwej wspólnoty, mimo oficjalnych ram.
-
-### Nauczyciele i luki w systemie
-
-Wielu nauczycieli, zwłaszcza starszego pokolenia, wychowanych przed wojną, przemycało nieoficjalną prawdę. Historyk na lekcji potrafił „między wierszami" pokazać, co naprawdę wydarzyło się w 1939 roku lub w Katyniu. Polonista cytujący Herberta przesyłał sygnał.
-
-Ta nieformalna edukacja równoległa do oficjalnej programu była fenomenem PRL – testament tradycji i obywatelskiej odpowiedzialności nauczycieli.
-
-### Szkolnictwo wyższe
-
-Uniwersytety były pod ścisłą kontrolą partyjną. Rektorów i dziekanów mianowała partia. Marksizm-leninizm był obowiązkowym przedmiotem. Studenci musieli zdawać egzamin z materializmu dialektycznego.
-
-Mimo to polskie uczelnie – zwłaszcza Uniwersytet Warszawski, AGH, UJ – zachowały poziom naukowy. Marzec 1968 obnażył granice możliwości – władza mogła wyrzucać profesorów i studentów za poglądy.
-
-### Spuścizna
-
-PRL dał Polsce masową edukację – i to jest realne osiągnięcie. Ale też wychował pokolenia w schemacie ideologicznym, z lukusem w wiedzy historycznej i obywatelskiej. Likwidacja tych braków stała się zadaniem szkoły po 1989 roku.`,
-    resources: [
-      {
-        id: 'edukacja-polona',
-        title: 'Podręczniki szkolne PRL (Polona)',
-        type: 'publikacja',
-        url: 'https://polona.pl/search/?query=podr%C4%99cznik+szkolny+PRL+historia',
-        source: 'Polona',
-        description: 'Zdigitalizowane podręczniki szkolne z czasów PRL – od historii po wychowanie obywatelskie',
-      },
-      {
-        id: 'edukacja-ph',
-        title: 'System oświaty w PRL',
-        type: 'publikacja',
-        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=edukacja+szko%C5%82a+o%C5%9Bwiata+PRL',
-        source: 'Przystanek Historia IPN',
-        description: 'Artykuły historyczne o systemie szkolnictwa i indoktrynacji w Polsce Ludowej',
-      },
-      {
-        id: 'edukacja-ninateka',
-        title: 'Kroniki szkolne – życie uczniów w PRL',
-        type: 'nagranie',
-        url: 'https://ninateka.pl/vod/szukaj?query=szko%C5%82a+uczniowie+edukacja+PRL',
-        source: 'Ninateka',
-        description: 'Archiwalne filmy o życiu szkolnym i edukacji w Polsce Ludowej',
-      },
-    ],
-    relatedIds: ['dzieci-prl', 'zmp', 'propaganda-prl', 'marzec-1968', 'socrealizm'],
-  },
-  {
-    id: 'internowanie',
-    title: 'Internowanie w stanie wojennym',
-    category: 'represje',
-    shortDesc: 'Nocna akcja 13 grudnia 1981 – aresztowanie 10 tysięcy działaczy Solidarności bez wyroku sądowego.',
-    content: `## Internowanie w stanie wojennym
-
-W nocy z 12 na 13 grudnia 1981 roku, w pierwszych godzinach stanu wojennego, Służba Bezpieczeństwa i Milicja Obywatelska przeprowadziły masowe aresztowania działaczy Solidarności, opozycjonistów i osób uznanych za zagrożenie dla reżimu. Była to największa fala represji politycznych w Polsce od czasów stalinizmu.
-
-### Operacja „Jodła"
-
-Akcja masowych zatrzymań nosiła kryptonim „Jodła". Listy internowanych były przygotowywane od miesięcy przez Departament III SB. W planach SB figurowały tysiące nazwisk: działacze Solidarności wszystkich szczebli, doradcy KOR, publicyści, naukowcy, prawnicy.
-
-W pierwszej dobie zatrzymano ok. 5 000 osób. Do końca stanu wojennego (1983) przez obozy internowania przeszło ok. 10 000–13 000 osób. Internowanie nie wymagało wyroku sądowego – wystarczała decyzja administracyjna.
-
-### Miejsca internowania
-
-Internowanych osadzano w kilkudziesięciu ośrodkach na terenie całej Polski – w więzieniach, w obiektach wojskowych i MSW przystosowanych na obozy. Największe ośrodki: Białołęka (Warszawa), Hrubieszów, Kwidzyn, Darłówek, Jaworze, Głogów, Gołdap.
-
-Warunki były zróżnicowane – od stosunkowo znośnych do ciężkich. W Kwidzynie internowani skarżyli się na celowe poniżanie, mróz, złe wyżywienie. Strajki głodowe były częste.
-
-### Znani internowani
-
-Wśród internowanych znaleźli się: Lech Wałęsa (odosobniony w willi rządowej w Arłamowie), Tadeusz Mazowiecki, Jacek Kuroń, Adam Michnik, Bronisław Geremek, Zbigniew Bujak (ukrywał się, internowany w 1986), Andrzej Gwiazda, Anna Walentynowicz.
-
-Internowanie dotknęło wszystkich poziomów Solidarności – od przywódców ogólnopolskich do działaczy zakładowych.
-
-### Obrona i protest
-
-Kościół katolicki aktywnie angażował się w pomoc internowanym i ich rodzinom. Parafialne komitety pomocy zbierały pieniądze i żywność. Prymas Glemp interweniował dyplomatycznie.
-
-Rodziny internowanych nie zawsze wiedziały, gdzie przetrzymywani są bliscy. Listy i wizyty były ograniczone. Władze celowo utrudniały komunikację.
-
-### Koniec internowania
-
-Większość internowanych zwolniono w falach: pierwsza – wiosną 1982, kolejne latem i jesienią. W grudniu 1982 formalnie zawieszono stan wojenny; ogłoszono amnestię. W lipcu 1983 roku stan wojenny oficjalnie zniesiono.
-
-Niektórzy internowani, po zwolnieniu, natychmiast wznawiali działalność podziemną. Internowanie nie złamało Solidarności – wzmocniło determinację.
-
-### Sprawa karna po 1989
-
-Po 1989 roku postępowania karne wobec sprawców internowania toczyły się latami – z mizernym skutkiem. Prokuratorzy IPN prowadzili śledztwa, ale rzadko kończyły się wyrokami. Większość sprawców – zarówno decydentów, jak i funkcjonariuszy wykonawczych – uniknęła odpowiedzialności karnej.`,
-    resources: [
-      {
-        id: 'intern-ipn',
-        title: 'Dokumenty internowania – IPN',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=internowanie+stan+wojenny+obóz',
-        source: 'IPN Inwentarz',
-        description: 'Dokumenty dotyczące operacji internowania i list internowanych w stanie wojennym',
-      },
-      {
-        id: 'intern-ph',
-        title: 'Internowani w stanie wojennym',
-        type: 'publikacja',
-        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=internowanie+stan+wojenny+internowani',
-        source: 'Przystanek Historia IPN',
-        description: 'Artykuły historyczne i relacje świadków dotyczące internowania w stanie wojennym',
-      },
-      {
-        id: 'intern-ninateka',
-        title: 'Dokumenty stanu wojennego – nagrania',
-        type: 'nagranie',
-        url: 'https://ninateka.pl/vod/szukaj?query=stan+wojenny+internowani+represje+1981',
-        source: 'Ninateka',
-        description: 'Archiwalne nagrania i dokumenty filmowe dotyczące stanu wojennego i internowania',
-      },
-    ],
-    relatedIds: ['stan-wojenny', 'solidarnosc', 'walesa', 'kuron', 'michnik'],
-  },
-  {
-    id: 'ziemie-odzyskane',
-    title: 'Ziemie Odzyskane',
-    category: 'polityka',
-    shortDesc: 'Powojenne przesiedlenia i polska kolonizacja dawnych terenów niemieckich na zachodzie i północy Polski.',
-    content: `## Ziemie Odzyskane
-
-„Ziemie Odzyskane" – tak komunistyczna propaganda nazywała dawne tereny wschodnioniemieckie włączone do Polski po II wojnie światowej: Śląsk, Pomorze Zachodnie, Warmię, Mazury i ziemię lubuską. Nazwa miała sugerować powrót do słowiańskich korzeni – choć przez wieki były to kraje w znacznej mierze zamieszkałe przez Niemców.
-
-### Decyzja w Poczdamie
-
-Na konferencji poczdamskiej (1945) wielkie mocarstwa zadecydowały o nowym kształcie Europy. Polska straciła Kresy Wschodnie (Lwów, Wilno, Grodno) na rzecz ZSRR i dostała w zamian rozległe tereny na zachodzie i północy, po Odrę i Nysę.
-
-Dla Stalina było to rozwiązanie pragmatyczne: Polska przesunięta na zachód była silniej zależna od sowieckiej gwarancji bezpieczeństwa wobec potencjalnych roszczeń niemieckich.
-
-### Niemcy – wypędzenia
-
-Tereny te zamieszkiwało ok. 12 milionów Niemców – cywilów, których los stał się jedną z największych tragedii II wojny światowej z perspektywy europejskiej. Część uciekła przed Armią Czerwoną jeszcze w trakcie działań wojennych. Resztę systematycznie wysiedlano w 1945–1948 roku.
-
-Wypędzenia przeprowadzano z różnym stopniem brutalności. Niemców wyrzucano z domów, często z minimalnym dobytkiem. Wiele osób zginęło z zimna, głodu i przemocy. Szacuje się, że całkowita liczba ofiar wyniosła kilkaset tysięcy.
-
-### Polscy osadnicy
-
-Na opuszczone tereny napłynęli polscy osadnicy – w dużej mierze przymusowo repatriowani z Kresów (Lwów, Wilno), a także ochotnicy z Mazowsza, Galicji i innych regionów. Repatrianci z Kresów musieli opuścić swoje rodzinne miasta i przenieść się na obce sobie ziemie.
-
-Proces zasiedlania był trudny. „Ziemie Odzyskane" były zniszczone wojną lub opuszczone. Infrastruktura wymagała odbudowy. Nowi mieszkańcy często trafiali do domów ze śladami poprzednich właścicieli: meblami, fotografiami, dokumentami.
-
-### Tożsamość i pamięć
-
-Przez dziesięciolecia PRL budował narrację „odwiecznej polskości" tych ziem – wskazując na słowiańskie nazwy geograficzne, piastowskie korzenie, pruskie ślady slawizacji. Oficjalnie nie było miejsca na pamięć o Niemcach, którzy tu żyli.
-
-Prawdziwa historia tych ziem – wielokulturowa, złożona, pełna traumy – zaczęła wychodzić na jaw dopiero po 1989 roku. Dziś badacze zajmują się historią Breslau/Wrocławia, Stettin/Szczecina, Königsberg/Królewca z uwzględnieniem wszystkich warstw.
-
-### Znaczenie geopolityczne
-
-Zachodnia granica na Odrze i Nysie była przez dekady kontestowana przez RFN. Ostateczne uznanie jej nastąpiło dopiero w 1990 roku – Traktatem 2+4 między dwoma Niemcami a czterema mocarstwami, a następnie polsko-niemieckim traktatem granicznym.`,
-    resources: [
-      {
-        id: 'ziemie-polona',
-        title: 'Ziemie Odzyskane – prasa i dokumenty (Polona)',
-        type: 'dokument',
-        url: 'https://polona.pl/search/?query=Ziemie+Odzyskane+osadnicy+repatrianci',
-        source: 'Polona',
-        description: 'Zdigitalizowane dokumenty i prasa dotyczące zasiedlania Ziem Odzyskanych',
-      },
-      {
-        id: 'ziemie-ipn',
-        title: 'Wypędzenia i przesiedlenia – dokumenty IPN',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=przesiedlenia+Niemcy+Ziemie+Odzyskane',
-        source: 'IPN Inwentarz',
-        description: 'Materiały archiwalne dotyczące wysiedleń Niemców i zasiedlania Ziem Zachodnich',
-      },
-      {
-        id: 'ziemie-szukaj',
-        title: 'Archiwalia dotyczące Ziem Zachodnich',
-        type: 'akt',
-        url: 'https://szukajwarchiwach.gov.pl/szukaj?q=Ziemie+Zachodnie+i+P%C3%B3%C5%82nocne',
-        source: 'Szukaj w Archiwach',
-        description: 'Archiwalia dotyczące administracji i zasiedlania Ziem Zachodnich po 1945 roku',
-      },
-    ],
-    relatedIds: ['jalta', 'deportacje', 'akcja-wisla', 'manifest-pkwn', 'bierut'],
-  },
   {
     id: 'obozy-pracy',
     title: 'Obozy pracy i więzienia polityczne',
@@ -10384,134 +9594,7 @@ Po 1956 roku, w wyniku odwilży październikowej, część więźniów polityczn
     ],
     relatedIds: ['zbrodnie-stalinizmu', 'ub', 'represje-polityczne', 'zolnierze-wykletci', 'pilecki'],
   },
-  {
-    id: 'mikolajczyk',
-    title: 'Stanisław Mikołajczyk i PSL',
-    category: 'polityka',
-    shortDesc: 'Premier rządu londyńskiego, lider PSL – ostatni demokratyczny opór przed komunizacją Polski.',
-    content: `## Stanisław Mikołajczyk i PSL (1944–1947)
 
-Stanisław Mikołajczyk (1901–1966) był liderem Polskiego Stronnictwa Ludowego i ostatnim poważnym politykiem, który próbował ocalić demokratyczny charakter powojennej Polski. Jego klęska była symbolem triumfu komunizmu nad demokracją.
-
-### Premier rządu na uchodźstwie
-
-Mikołajczyk piastował urząd Premiera Rządu Polskiego na Uchodźstwie (1943–1944). Uczestniczył w konferencji teherańskiej, gdzie Roosevelt i Churchill zaczęli ustępować Stalinowi. Próbował bezskutecznie bronić polskich interesów – polskiego Lwowa i Wilna.
-
-W 1944 roku przybył do Moskwy, by negocjować z komunistycznym PKWN. Stalin wywarł presję; konferencja teherańska przesądziła o granicach. Mikołajczyk podał się do dymisji ze stanowiska premiera w Londynie w proteście.
-
-### Powrót do kraju
-
-W 1945 roku Mikołajczyk zdecydował się wrócić do Polski – wbrew radom wielu emigrantów. Liczył, że w nowym, pozornie koalicyjnym rządzie Tymczasowym uda się mu zachować polityczną niezależność PSL i doprowadzić do wolnych wyborów.
-
-Objął stanowisko wicepremiera. Odbudował PSL jako masową partię – w szczytowym momencie liczyła ponad 600 000 członków, głównie chłopów.
-
-### Sfałszowane referendum i wybory
-
-W 1946 roku Mikołajczyk wezwał do głosowania „nie" w referendum 3xTAK – protesty oznaczały sprzeciw wobec komunistycznej konstytucji. Wyniki sfałszowano: PSL-owski sprzeciw przemieniono w wynik prorządowy.
-
-Sfałszowane wybory w 1947 roku przypieczętowały koniec: PSL ogłoszono winnym spiskowania z zagranicą, działaczy aresztowano. Mikołajczyk uciekł z Polski w październiku 1947 roku, prawdopodobnie tuż przed aresztem.
-
-### Represje wobec PSL
-
-Tysiące działaczy PSL zostało aresztowanych, skazanych na wieloletnie więzienie, a część zamordowana. Szacuje się, że ok. 100–200 działaczy PSL zapłaciło życiem za opór wobec komunizacji.
-
-Bestie systemu – UB i milicja – niszczyły PSL metodycznie: aresztowania, wymuszanie wyrzeczeń, fizyczne likwidacje. Komitet Centralny PSL w wielu powiatach był dosłownie rozbijany przez areszty.
-
-### Emigracja i zapomnienie
-
-Na emigracji Mikołajczyk kontynuował działalność polityczną. Wydał wspomnienia „The Rape of Poland" (1948) – świadectwo fałszowania demokracji przez komunistów. Książka była ważnym dokumentem dla Zachodu.
-
-W PRL Mikołajczyk był postacią przemilczaną lub demonizowaną. Oficjalna historia PSL z nim nie istniała. Dopiero po 1989 roku odzyskał należne mu miejsce w historii – jako polityk, który do końca walczył o demokratyczną Polskę.`,
-    resources: [
-      {
-        id: 'mikolajczyk-ipn',
-        title: 'Mikołajczyk i PSL – dokumenty IPN',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Miko%C5%82ajczyk+PSL+wybory+1947',
-        source: 'IPN Inwentarz',
-        description: 'Dokumenty dotyczące Mikołajczyka, PSL i sfałszowanych wyborów 1947 roku',
-      },
-      {
-        id: 'mikolajczyk-ph',
-        title: 'Mikołajczyk i walka PSL o demokrację',
-        type: 'publikacja',
-        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Miko%C5%82ajczyk+PSL+referendum+wybory+1947',
-        source: 'Przystanek Historia IPN',
-        description: 'Artykuły historyczne o Mikołajczyku i roli PSL w walce o demokratyczną Polskę',
-      },
-      {
-        id: 'mikolajczyk-polona',
-        title: 'Prasa i dokumenty PSL (Polona)',
-        type: 'publikacja',
-        url: 'https://polona.pl/search/?query=PSL+Miko%C5%82ajczyk+Stronnictwo+Ludowe',
-        source: 'Polona',
-        description: 'Zdigitalizowane dokumenty i prasa Polskiego Stronnictwa Ludowego',
-      },
-    ],
-    relatedIds: ['wybory-prl', 'referendum-1946', 'manifest-pkwn', 'bierut', 'ub'],
-  },
-  {
-    id: 'kapuscinski',
-    title: 'Ryszard Kapuściński',
-    category: 'osoby',
-    shortDesc: 'Dziennikarz i pisarz – reporter świata, autor „Cesarza" i „Szachinszacha", jeden z najwybitniejszych reportażystów XX wieku.',
-    content: `## Ryszard Kapuściński (1932–2007)
-
-Ryszard Kapuściński był jednym z największych reporterów XX wieku – dziennikarzem, pisarzem i poetą, który stworzył własny gatunek literacki: reporter literatury faktu. Jego książki o upadku imperiów, dyktatorach i rewolucjach są czytane na całym świecie i przetłumaczone na kilkadziesiąt języków.
-
-### Dziennikarz PAP
-
-Kapuściński pracował dla Polskiej Agencji Prasowej jako korespondent zagraniczny – był jednym z nielicznych polskich dziennikarzy, którzy mogli regularnie wyjeżdżać za granicę. Odwiedził ponad sto krajów, był świadkiem kilkudziesięciu rewolucji i przewrotów.
-
-Jego relacje z Afryki, Azji i Ameryki Łacińskiej były czymś więcej niż informacją prasową – były literaturą. PRL wysyłała go jako korespondenta, nie zdając sobie sprawy, że tworzy arcydzieła literackie.
-
-### Cesarz
-
-„Cesarz" (1978) to opowieść o upadku cesarza Etiopii Hajle Syllasje – ale każdy czytelnik w Polsce rozumiał, że to alegoria każdej dyktatury, w tym polskiej. Kapuściński opisał mechanizm dworu: pochlebstwo, strach, hierarchia i bezmyślna lojalność wobec władzy. Książka była bestsellerem i hitem drugiego obiegu.
-
-### Szachinszach, Heban, Imperium
-
-„Szachinszach" (1982) o rewolucji irańskiej, „Heban" (1998) o Afryce, „Imperium" (1993) o rozpadzie ZSRR – każda z tych książek jest arcydziełem gatunku reportażu literackiego.
-
-„Imperium" Kapuściński pisał ze szczególnym bólem – znał z własnego doświadczenia, czym był sowiecki system. Podróżował po rozpadającym się ZSRR i opisał tragizm ludzi wyzwolonych od tyranii, ale zagubionych w nowej rzeczywistości.
-
-### Kontrowersje
-
-Po śmierci Kapuścińskiego pojawiły się głosy podważające jego wiarygodność factual – niektórzy badacze twierdzą, że mieszał fakty z fikcją w swoich reportażach. Dyskusja o granicy literatury faktu i literackiej kreacji jest ciągła.
-
-Osobnym wątkiem były jego powiązania ze służbami – dokumenty IPN wskazują, że miał kontakty z wywiadem PRL, choć skala i charakter tej współpracy są dyskutowane.
-
-### Spuścizna
-
-Kapuściński był wielokrotnie wymieniany jako kandydat do Nagrody Nobla. Stworzył nowy model dziennikarstwa – empatycznego, literackiego, zaangażowanego. Jego szkoła reportażu wychowała pokolenia polskich reporterów.`,
-    resources: [
-      {
-        id: 'kapuscinski-wl',
-        title: 'Ryszard Kapuściński – Wolne Lektury',
-        type: 'publikacja',
-        url: 'https://wolnelektury.pl/katalog/autor/kapuscinski-ryszard/',
-        source: 'Wolne Lektury',
-        description: 'Wybrane teksty Ryszarda Kapuścińskiego dostępne online',
-      },
-      {
-        id: 'kapuscinski-polona',
-        title: 'Kapuściński – archiwalia (Polona)',
-        type: 'dokument',
-        url: 'https://polona.pl/search/?query=Kapu%C5%9Bci%C5%84ski+Ryszard+reporter',
-        source: 'Polona',
-        description: 'Zdigitalizowane materiały o Kapuścińskim i jego twórczości',
-      },
-      {
-        id: 'kapuscinski-ipn',
-        title: 'Kapuściński a wywiad PRL – dokumenty IPN',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Kapu%C5%9Bci%C5%84ski+Ryszard+wywiad',
-        source: 'IPN Inwentarz',
-        description: 'Materiały dotyczące kontaktów Kapuścińskiego ze służbami PRL',
-      },
-    ],
-    relatedIds: ['literatura-prl', 'prasa-prl', 'wywiad-prl', 'kultura-prl', 'milosz'],
-  },
   {
     id: 'pomniki-prl',
     title: 'Pomniki i symbolika PRL',
@@ -10578,6 +9661,7 @@ Walka o przestrzeń symboliczną – kto jest patronem ulic i placów – trwa w
     ],
     relatedIds: ['socrealizm', 'palac-kultury', 'propaganda-prl', 'odbudowa-warszawy', 'bierut'],
   },
+
   {
     id: 'turystyka-prl',
     title: 'Turystyka i wczasy w PRL',
@@ -10646,78 +9730,7 @@ Harcerskie obozy były dla wielu dzieci najważniejszą przestrzenią wolności 
     ],
     relatedIds: ['dzieci-prl', 'kultura-prl', 'gierek', 'motoryzacja-prl', 'nostalgia-prl'],
   },
-  {
-    id: 'kobiety-prl',
-    title: 'Kobiety w PRL',
-    category: 'społeczeństwo',
-    shortDesc: 'Równouprawnienie w teorii i podwójny etat w praktyce – sytuacja kobiet w Polsce Ludowej.',
-    content: `## Kobiety w PRL
 
-Polska Rzeczpospolita Ludowa oficjalnie głosiła równouprawnienie kobiet – i dokonała realnego postępu w zakresie dostępu do edukacji i pracy zawodowej. Jednocześnie kobiety dźwigały „drugi etat" domowy, a ich pozycja w polityce i gospodarce była w praktyce niższa niż mężczyzn.
-
-### Emancypacja od góry
-
-Komunizm promował włączenie kobiet do rynku pracy jako element budowy socjalizmu – nie z powodów feministycznych, lecz pragmatycznych: gospodarka potrzebowała siły roboczej. Kobiety masowo wchodziły do fabryk, biur, szkół i szpitali.
-
-W 1952 roku Konstytucja PRL zapewniła kobietom równe prawa polityczne, ekonomiczne i społeczne. Ochrona macierzyństwa, urlopy macierzyńskie, żłobki i przedszkola finansowane przez państwo – to realne osiągnięcia, które ułatwiały łączenie pracy z wychowaniem dzieci.
-
-### Wykształcenie i zawody
-
-PRL masowo kształciła kobiety. Studia wyższe stały się dostępne dla córek robotniczych i chłopskich. Kobiety zdominowały zawody feminizowane: nauczycielki, lekarki (w ZSRR i krajach bloku feminizacja medycyny była znacząca), bibliotekarki, ekonomistki.
-
-W branżach wcześniej zarezerwowanych dla mężczyzn – inżynieria, nauki ścisłe, budownictwo – kobiety również się pojawiły, choć dalej były mniejszością.
-
-### Podwójny etat
-
-Mimo formalnego równouprawnienia kobiety w PRL dźwigały „podwójny etat" – pracę zawodową i całość prac domowych. Mężczyźni rzadko uczestniczyli w gotowaniu, sprzątaniu i wychowaniu dzieci.
-
-Sklepy zamknięte poza godzinami pracy, kolejki, gotowanie bez gotowych produktów – to kobiety stały w kolejkach po mięso, gotowały obiady z dostępnych surowców, zarządzały domowym budżetem. Praca domowa była niewidzialna i nieopłacana.
-
-### Kobiety w polityce
-
-Na wysokich stanowiskach partyjnych i państwowych kobiet było niewiele. Politburo, KC PZPR, rząd – wszystkie zdominowane przez mężczyzn. Kilka wyjątków: Eugenia Krassowska (minister oświaty), Władysława Macieszyna. Parytety formalne były fikcją.
-
-Kobiety były za to widoczne w lokalnych organach władzy, radach narodowych – jako „ozdoba" systemu, dowód na równouprawnienie, bez realnej decyzyjności.
-
-### Macierzyństwo i aborcja
-
-W 1956 roku zalegalizowano aborcję w Polsce – była dostępna na życzenie do 12. tygodnia ciąży. Decyzja wynikała z pragmatyzmu zdrowotnego (nielegalne zabiegi zabijały kobiety). W latach 70. wykonywano ok. 100 000 – 150 000 legalnych aborcji rocznie.
-
-Kościół konsekwentnie sprzeciwiał się tej regulacji. Po 1989 roku, w wyniku kompromisu, aborcję w Polsce zaostrzono.
-
-### Solidarność i kobiety
-
-W Solidarności kobiety odgrywały kluczową rolę – Anna Walentynowicz, Alina Pienkowska, Joanna i Henryk Duda-Gracz. Ale w kierownictwie Solidarności przeważali mężczyźni. Walentynowicz, choć formalnie była iskrą strajku, nie zasiadała w prezydium MKS.
-
-Internowanie w stanie wojennym dotknęło też kobiety – działaczki Solidarności, doradczynie, publicystki.`,
-    resources: [
-      {
-        id: 'kobiety-polona',
-        title: 'Prasa kobieca PRL (Polona)',
-        type: 'publikacja',
-        url: 'https://polona.pl/search/?query=Kobieta+%C5%BCycie+pismo+PRL+emancypacja',
-        source: 'Polona',
-        description: 'Zdigitalizowane numery pism kobiecych PRL – „Kobieta i Życie", „Przyjaciółka"',
-      },
-      {
-        id: 'kobiety-ph',
-        title: 'Kobiety w PRL – praca i codzienność',
-        type: 'publikacja',
-        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=kobiety+PRL+emancypacja+praca+macierzy%C5%84stwo',
-        source: 'Przystanek Historia IPN',
-        description: 'Artykuły historyczne o sytuacji kobiet w Polsce Ludowej',
-      },
-      {
-        id: 'kobiety-ninateka',
-        title: 'Kobiety PRL – kroniki i reportaże',
-        type: 'nagranie',
-        url: 'https://ninateka.pl/vod/szukaj?query=kobiety+praca+macierzy%C5%84stwo+r%C3%B3wnouprawnienie+PRL',
-        source: 'Ninateka',
-        description: 'Kroniki filmowe i reportaże o sytuacji kobiet w Polsce Ludowej',
-      },
-    ],
-    relatedIds: ['dzieci-prl', 'prasa-prl', 'solidarnosc', 'edukacja-prl', 'sluzba-zdrowia-prl'],
-  },
   {
     id: 'walczynski-opor',
     title: 'Strajki i opór robotniczy przed 1980',
@@ -10782,68 +9795,7 @@ Po 1989 roku powołano komisje śledcze ws. Poznania 1956 i Grudnia 1970. Sprawc
     ],
     relatedIds: ['czerwiec-1956', 'grudzien-1970', 'czerwiec-1976', 'kor', 'sierpien-1980'],
   },
-  {
-    id: 'geremek',
-    title: 'Bronisław Geremek',
-    category: 'osoby',
-    shortDesc: 'Mediewista, doradca Solidarności, minister spraw zagranicznych – jeden z architektów polskiej transformacji.',
-    content: `## Bronisław Geremek (1932–2008)
 
-Bronisław Geremek był wybitnym historykiem mediewistą i jednym z najważniejszych doradców Solidarności – intelektualistą, który swoją wiedzę o historii i dyplomacji poświęcił sprawie demokratycznej transformacji Polski.
-
-### Historyk i intelektualista
-
-Geremek urodził się w Warszawie w żydowskiej rodzinie. Przeżył wojnę ukryty po aryjskiej stronie. Studiował historię na Uniwersytecie Warszawskim, doktoryzował się w Paryżu. Był wybitnym badaczem historii średniowiecza – jego prace o marginesie społecznym i ubóstwie w Europie średniowiecznej (m.in. „Litość i szubienica") były tłumaczone na wiele języków.
-
-W latach 60. i 70. był profesorem PAN – znany w środowisku akademickim jako człowiek niezależnych poglądów.
-
-### Solidarność i Okrągły Stół
-
-W sierpniu 1980 roku Geremek pojawił się w gdańskiej Stoczni jako doradca strajkujących robotników – obok Tadeusza Mazowieckiego, Andrzeja Wielowieyskiego i innych intelektualistów z Komisji Ekspertów. Jego rola była kluczowa: pomagał formułować 21 postulatów i negocjować porozumienie gdańskie.
-
-W stanie wojennym był internowany. Po zwolnieniu kontynuował działalność podziemną. W 1989 roku zasiadł przy Okrągłym Stole jako jeden z najważniejszych negocjatorów strony solidarnościowej.
-
-### Droga do NATO i UE
-
-Po 1989 roku Geremek zaangażował się aktywnie w budowanie nowej Polski. Był posłem, szefem parlamentarnego Klubu Unii Demokratycznej. W latach 1997–2000 piastował urząd Ministra Spraw Zagranicznych w rządzie Jerzego Buzka – i to jego wysiłki dyplomatyczne w znacznym stopniu przyczyniły się do wejścia Polski do NATO (1999).
-
-Był wielkim zwolennikiem integracji europejskiej. Po 1999 roku działał w Parlamencie Europejskim.
-
-### Tragedia
-
-Bronisław Geremek zginął 13 lipca 2008 roku w wypadku samochodowym pod Lubinem. Śmierć nastąpiła nagle, w środku aktywnego życia politycznego i intelektualnego. Polska straciła jednego z najwybitniejszych Europejczyków swojego pokolenia.
-
-### Spuścizna
-
-Geremek łączył w sobie rzadką kombinację: wybitny uczony i skuteczny polityk. Jego zaangażowanie w historię marginesu społecznego współgrało z jego praktyką polityczną – zawsze po stronie słabszych, zawsze z imperatywem etycznym.`,
-    resources: [
-      {
-        id: 'geremek-ipn',
-        title: 'Bronisław Geremek – dokumenty SB i Solidarności',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Geremek+Bronis%C5%82aw',
-        source: 'IPN Inwentarz',
-        description: 'Dokumenty dotyczące inwigilacji i działalności Bronisława Geremka',
-      },
-      {
-        id: 'geremek-ph',
-        title: 'Geremek – historyk i polityk transformacji',
-        type: 'publikacja',
-        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Geremek+Bronis%C5%82aw+Solidarno%C5%9B%C4%87+doradca',
-        source: 'Przystanek Historia IPN',
-        description: 'Artykuły historyczne o roli Bronisława Geremka w Solidarności i transformacji',
-      },
-      {
-        id: 'geremek-ecs',
-        title: 'Geremek i Okrągły Stół – ECS',
-        type: 'dokument',
-        url: 'https://ecs.gda.pl/en/archive/',
-        source: 'Europejskie Centrum Solidarności',
-        description: 'Archiwum negocjacji sierpniowych i roli doradców Solidarności',
-      },
-    ],
-    relatedIds: ['solidarnosc', 'okragly-stol', 'sierpien-1980', 'mazowiecki', 'michnik'],
-  },
   {
     id: 'ppkwn',
     title: 'Polska Partia Robotnicza (PPR)',
@@ -10902,6 +9854,7 @@ Powstanie PZPR zamknęło etap „dyktatury koalicyjnej" i otworzyło etap jedno
     ],
     relatedIds: ['pzpr', 'bierut', 'gomulka', 'manifest-pkwn', 'pps'],
   },
+
   {
     id: 'pielgrzymki-jp2',
     title: 'Pielgrzymki Jana Pawła II do Polski',
@@ -10968,6 +9921,7 @@ Komuniści zdawali sobie sprawę z zagrożenia. SB inwigilowała pielgrzymki, do
     ],
     relatedIds: ['jan-pawel-ii', 'kosciol-prl', 'wyszynski', 'solidarnosc', 'stan-wojenny'],
   },
+
   {
     id: 'gdansk-sopot-gdynia',
     title: 'Trójmiasto – serce Solidarności',
@@ -11032,6 +9986,7 @@ Gdynia zbudowała swój własny pomnik – Pomnik Ofiar Grudnia 1970 przy Bramie
     ],
     relatedIds: ['sierpien-1980', 'grudzien-1970', 'stocznia-gdanska', 'solidarnosc', 'walesa'],
   },
+
   {
     id: 'niezaleznosc-sadow',
     title: 'Sądownictwo i praworządność w PRL',
@@ -11100,72 +10055,7 @@ Pytanie o rozliczenie sprawców sądowych zbrodni komunistycznych pozostaje aktu
     ],
     relatedIds: ['ub', 'represje-polityczne', 'zbrodnie-stalinizmu', 'obozy-pracy', 'pilecki'],
   },
-  {
-    id: 'walentynowicz',
-    title: 'Anna Walentynowicz',
-    category: 'osoby',
-    shortDesc: 'Suwnicowa z Gdańska – jej zwolnienie wywołało strajk sierpniowy, który zmienił Polskę i świat.',
-    content: `## Anna Walentynowicz (1929–2010)
 
-Anna Walentynowicz była suwnicową ze Stoczni Gdańskiej im. Lenina i jedną z najważniejszych postaci polskiej opozycji robotniczej. Jej zwolnienie z pracy w sierpniu 1980 roku – pięć miesięcy przed emeryturą – stało się bezpośrednią iskrą, która wywołała Sierpień 1980 i narodziny Solidarności.
-
-### Od sieroty do przodownika pracy
-
-Walentynowicz urodziła się na Wołyniu. Sierota wojenna, trafiła do Gdańska po wysiedleniach. Pracowała w stoczni od 1950 roku – najpierw spawaczka, potem suwnicowa. W latach 50. była przodownikiem pracy, odznaczaną i chwaloną przez partię.
-
-Z czasem oczy się otworzyły. Widziała niesprawiedliwość, nierówności, kłamstwo propagandy. W Grudniu 1970 roku stała przy bramie stoczni i patrzyła, jak strzelają do robotników.
-
-### Działalność opozycyjna
-
-W drugiej połowie lat 70. Walentynowicz zaangażowała się w Wolne Związki Zawodowe Wybrzeża (WZZ) – i od razu stała się celem szykan. Zwolnienia, ponowne przyjęcia, ciągłe konflikty z kierownictwem. SB inwigilowała ją intensywnie.
-
-Kolportowała wydawnictwa bezdebitowe, dokumentowała naruszenia praw pracowników, nawiązała kontakty z KOR-em i Lechem Wałęsą.
-
-### Iskra strajku
-
-7 sierpnia 1980 roku, pięć miesięcy przed emeryturą, dyrekcja stoczni zwolniła ją z pracy – oficjalnie za kolekcjonowanie świec z tablicy upamiętniającej ofiary Grudnia 1970. W rzeczywistości za działalność opozycyjną.
-
-14 sierpnia 1980 roku stoczniowcy zaczęli strajk – przede wszystkim z żądaniem jej przywrócenia do pracy. Walentynowicz wróciła do stoczni – przywieziono ją, bo była w domu – i stanęła pośród strajkujących. Tak zaczął się Sierpień 1980.
-
-### Solidarność i marginalizacja
-
-Walentynowicz była jedną z negocjatorek Porozumień Gdańskich. Ale w Solidarności szybko zaczęła być marginalizowana – przez Lecha Wałęsę i jego otoczenie. Uważała, że kierownictwo idzie na zbyt duże kompromisy z władzą.
-
-W stanie wojennym była internowana. Po wyjściu na wolność kontynuowała działalność, coraz bardziej na marginesie głównego nurtu Solidarności.
-
-### Ostatnie lata i tragedia
-
-Anna Walentynowicz zginęła 10 kwietnia 2010 roku w katastrofie lotniczej pod Smoleńskiem. Leciała na uroczystości upamiętnienia ofiar zbrodni katyńskiej. Jej śmierć – razem z prezydentem Lechem Kaczyńskim i 94 innymi osobami – była jedną z największych tragedii III Rzeczypospolitej.
-
-Walentynowicz do końca życia czuła, że jest niedoceniana. Historia oddaje jej sprawiedliwość – bez jej zwolnienia i bez strajku sierpniowego, który ono wywołało, historia Polski potoczyłaby się inaczej.`,
-    resources: [
-      {
-        id: 'walentynowicz-ecs',
-        title: 'Anna Walentynowicz – archiwum ECS',
-        type: 'dokument',
-        url: 'https://ecs.gda.pl/en/archive/',
-        source: 'Europejskie Centrum Solidarności',
-        description: 'Dokumenty i relacje dotyczące roli Anny Walentynowicz w Sierpniu 1980',
-      },
-      {
-        id: 'walentynowicz-ipn',
-        title: 'Walentynowicz – teczki SB (IPN)',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Walentynowicz+Anna+SB+inwigilacja',
-        source: 'IPN Inwentarz',
-        description: 'Dokumenty Służby Bezpieczeństwa dotyczące inwigilacji Anny Walentynowicz',
-      },
-      {
-        id: 'walentynowicz-ph',
-        title: 'Anna Walentynowicz – iskra Solidarności',
-        type: 'publikacja',
-        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Walentynowicz+Anna+stocznia+Solidarno%C5%9B%C4%87',
-        source: 'Przystanek Historia IPN',
-        description: 'Artykuły historyczne o roli Anny Walentynowicz w narodzinach Solidarności',
-      },
-    ],
-    relatedIds: ['sierpien-1980', 'stocznia-gdanska', 'walesa', 'solidarnosc', 'wzz'],
-  },
   {
     id: 'lodz-szkola-filmowa',
     title: 'Łódź – szkoła filmowa i miasto kultury',
@@ -11230,6 +10120,7 @@ Po 1989 roku Łódź przeżyła kryzys przemysłowy – zamknięte fabryki, bezr
     ],
     relatedIds: ['polska-szkola-filmowa', 'kino-prl', 'kino-moralnego-niepokoju', 'wajda', 'kieslowski'],
   },
+
   {
     id: 'muzyka-rockowa-prl',
     title: 'Rock i muzyka młodzieżowa w PRL',
@@ -11302,6 +10193,7 @@ Muzyka rockowa lat 80. nie była wprost polityczna, ale jej etos był opozycyjny
     ],
     relatedIds: ['kultura-prl', 'jazz-prl', 'dzieci-prl', 'cenzura-prl', 'propaganda-prl'],
   },
+
   {
     id: 'kabaret-prl',
     title: 'Kabaret i satyra w PRL',
@@ -11370,6 +10262,7 @@ Po 1989 roku scena kabaretowa rozkwitła. Kabaret Olgi Lipińskiej, potem „Uch
     ],
     relatedIds: ['kultura-prl', 'prasa-prl', 'cenzura-prl', 'teatr-prl', 'kino-prl'],
   },
+
   {
     id: 'kolakowski',
     title: 'Leszek Kołakowski',
@@ -11434,70 +10327,7 @@ Kołakowski odwiedzał Polskę po 1989 roku. Był uhonorowany wieloma nagrodami,
     ],
     relatedIds: ['literatura-prl', 'marzec-1968', 'michnik', 'drugi-obieg', 'milosz'],
   },
-  {
-    id: 'nzs',
-    title: 'NZS – Niezależne Zrzeszenie Studentów',
-    category: 'opozycja',
-    shortDesc: 'Studencki ruch niezależny, zarejestrowany w 1980 roku – pierwsza legalna niezależna organizacja studencka w bloku wschodnim.',
-    content: `## NZS – Niezależne Zrzeszenie Studentów
 
-Niezależne Zrzeszenie Studentów (NZS) było pierwszą legalną niezależną organizacją studencką w całym bloku wschodnim – zarejestrowaną we wrześniu 1980 roku, kilka tygodni po Solidarności. Jej powstanie było wyrazem tego samego ducha Sierpnia, który ogarnął całe polskie społeczeństwo.
-
-### Narodziny
-
-Po Sierpniu 1980 roku fala wolnościowych organizacji ogarnęła Polskę. Studenci – inspirowani Solidarnością i środowiskiem KOR – zaczęli tworzyć własne, niezależne struktury. We wrześniu 1980 roku zarejestrowali NZS jako ogólnopolską federację.
-
-NZS był organizacją pluralistyczną: od lewicy do prawicy, od katolików do liberałów. Łączyło ich jedno – odrzucenie SZSP (Socjalistycznego Związku Studentów Polskich), czyli partyjnej przybudówki na uczelniach.
-
-### Program i działalność
-
-NZS walczył o: autonomię uczelni, wolność badań i nauczania, zniesienie obowiązkowego marksizmu-leninizmu, niezależny samorząd studencki. To były żądania rewolucyjne w warunkach PRL.
-
-Na uczelniach zaczęły powstawać koła NZS, gazety studenckie poza cenzurą, seminaria i wykłady z historii prawdziwej (o Katyniu, o 1939 roku, o AK). Studenci organizowali spotkania z relegowanymi profesorami.
-
-### Stan wojenny – delegalizacja
-
-13 grudnia 1981 roku NZS – razem z Solidarnością – zostało zdelegalizowane. Działacze byli internowani lub aresztowani. Niektórzy wyjechali za granicę.
-
-Jednak NZS przetrwał w podziemiu. Konspiracyjne struktury kontynuowały działalność: wydawnictwa, seminaria, kontakty z zagranicznymi organizacjami studenckimi. „Podziemny NZS" był elementem szerszej infrastruktury oporu.
-
-### Strajki 1988 i reaktywacja
-
-W 1988 roku, w czasie strajków w maju i sierpniu, NZS aktywnie uczestniczył w proteście. Władze zaczęły rozmawiać. W 1989 roku NZS został ponownie legalnie zarejestrowany.
-
-W obradach Okrągłego Stołu brała udział delegacja NZS – organizacja miała swój wkład w kształtowanie nowej umowy społecznej.
-
-### Znaczenie
-
-NZS był dowodem, że wolnościowy impuls Solidarności dosięgnął całego społeczeństwa – nie tylko robotników, ale też studentów, nauczycieli, intelektualistów. Był też kuźnią kadr przyszłej demokratycznej Polski: wielu polityków III RP swoją drogę zaczynało w NZS.`,
-    resources: [
-      {
-        id: 'nzs-ipn',
-        title: 'NZS – dokumenty IPN',
-        type: 'akt',
-        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=NZS+Niezale%C5%BCne+Zrzeszenie+Student%C3%B3w',
-        source: 'IPN Inwentarz',
-        description: 'Dokumenty dotyczące NZS, jego struktur i delegalizacji w stanie wojennym',
-      },
-      {
-        id: 'nzs-ph',
-        title: 'NZS – studencka opozycja w PRL',
-        type: 'publikacja',
-        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=NZS+studenci+niezale%C5%BCni+1980+opozycja',
-        source: 'Przystanek Historia IPN',
-        description: 'Artykuły historyczne o Niezależnym Zrzeszeniu Studentów',
-      },
-      {
-        id: 'nzs-ecs',
-        title: 'Dokumenty NZS – archiwum Solidarności',
-        type: 'dokument',
-        url: 'https://ecs.gda.pl/en/archive/',
-        source: 'Europejskie Centrum Solidarności',
-        description: 'Dokumenty związane z ruchem studenckim i NZS w archiwum ECS',
-      },
-    ],
-    relatedIds: ['solidarnosc', 'marzec-1968', 'kor', 'stan-wojenny', 'okragly-stol'],
-  },
   {
     id: 'plakat-prl',
     title: 'Polska szkoła plakatu',
@@ -11567,6 +10397,760 @@ Polska szkoła plakatu dowodzi, że nawet w systemie totalitarnym twórczość m
       },
     ],
     relatedIds: ['kultura-prl', 'socrealizm', 'kino-prl', 'jazz-prl', 'animacja-prl'],
+  },
+  {
+    id: 'ryszard-kuklinski',
+    title: 'Ryszard Kukliński',
+    subtitle: 'Pułkownik LWP i najcenniejszy agent CIA w bloku wschodnim',
+    category: 'wojsko',
+    tags: ['Kukliński', 'CIA', 'szpieg', 'wywiad', 'stan wojenny', 'LWP', 'zimna wojna'],
+    yearStart: 1972,
+    yearEnd: 1981,
+    summary: 'Płk Ryszard Kukliński przez niemal dekadę przekazywał CIA najtajniejsze dokumenty Układu Warszawskiego, w tym plany wprowadzenia stanu wojennego. Do dziś jest postacią sporną: zdrajca czy bohater, który ostrzegał Zachód przed sowieckim atakiem.',
+    content: `## Oficer Sztabu Generalnego
+
+Ryszard Kukliński (1930–2004) był wysokim oficerem Sztabu Generalnego Wojska Polskiego, zaangażowanym w planowanie operacyjne Układu Warszawskiego. Miał dostęp do najtajniejszych dokumentów dotyczących sowieckiej strategii wojennej w Europie.
+
+## Współpraca z CIA
+
+Od 1972 r. Kukliński nawiązał tajną współpracę z amerykańskim wywiadem. Przez dziewięć lat przekazał CIA ponad 40 tysięcy stron tajnych dokumentów – plany ofensywy Układu Warszawskiego, rozmieszczenie wojsk, dane o uzbrojeniu. Był to jeden z największych przecieków wywiadowczych zimnej wojny.
+
+## Plany stanu wojennego
+
+Kukliński ostrzegł Amerykanów o przygotowaniach do wprowadzenia stanu wojennego w Polsce. Gdy poczuł, że jego dekonspiracja jest bliska, w listopadzie 1981 r. został wraz z rodziną ewakuowany przez CIA na Zachód – na kilka tygodni przed 13 grudnia.
+
+## Wyrok i rehabilitacja
+
+W PRL skazano go zaocznie na karę śmierci za zdradę. Po 1989 r. trwał spór o jego ocenę. W 1997 r. wyrok uchylono, a Kukliński odwiedził Polskę. Dla jednych pozostaje zdrajcą munduru, dla innych – człowiekiem, który działał przeciw sowieckiej dominacji.
+
+## Spór o pamięć
+
+Postać Kuklińskiego dzieli Polaków do dziś. Toczy się debata, czy jego działania były aktem patriotyzmu, czy złamaniem przysięgi wojskowej. Niezależnie od oceny moralnej, dostarczone przez niego informacje realnie wpłynęły na strategię NATO.`,
+    resources: [
+      {
+        id: 'kuk-1',
+        title: 'Dokumenty sprawy Kuklińskiego – IPN',
+        type: 'dokument',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Ryszard%20Kukli%C5%84ski',
+        source: 'Instytut Pamięci Narodowej – inwentarz archiwalny',
+        description: 'Materiały śledcze i procesowe dotyczące płk. Kuklińskiego.',
+        year: 1984,
+      },
+      {
+        id: 'kuk-2',
+        title: 'Kukliński – analizy historyczne',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Ryszard%20Kukli%C5%84ski%20CIA%20stan%20wojenny',
+        source: 'IPN – Przystanek Historia',
+        description: 'Opracowania IPN o współpracy Kuklińskiego z wywiadem USA.',
+      },
+      {
+        id: 'kuk-3',
+        title: 'Materiały o Kuklińskim – Polona',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Ryszard%20Kukli%C5%84ski%20wywiad',
+        source: 'Biblioteka Narodowa / Polona',
+        description: 'Publikacje i prasa o najsłynniejszym polskim szpiegu zimnej wojny.',
+        downloadable: true,
+      },
+    ],
+    relatedIds: ['stan-wojenny', 'uklad-warszawski', 'lwp', 'wywiad-prl', 'jaruzelski'],
+  },
+
+  {
+    id: 'jacek-kaczmarski',
+    title: 'Jacek Kaczmarski',
+    subtitle: 'Bard „Solidarności” – pieśniarz wolności i sprzeciwu',
+    category: 'osoby',
+    tags: ['Kaczmarski', 'bard', 'Mury', 'poezja śpiewana', 'Solidarność', 'opozycja', 'kultura niezależna'],
+    yearStart: 1980,
+    yearEnd: 1989,
+    summary: 'Jacek Kaczmarski, autor i wykonawca pieśni „Mury”, stał się muzycznym głosem opozycji. Jego poezja śpiewana – pełna metafor historycznych i sprzeciwu wobec systemu – krążyła w drugim obiegu i na kasetach, inspirując pokolenie „Solidarności”.',
+    content: `## Poeta z gitarą
+
+Jacek Kaczmarski (1957–2004) był poetą, kompozytorem i pieśniarzem. Tworzył w nurcie poezji śpiewanej, łącząc literacką głębię z muzyczną ekspresją. Jego utwory były gęste od odniesień historycznych, malarskich i literackich, a zarazem czytelnie antysystemowe.
+
+## „Mury” – hymn opozycji
+
+Napisana w 1978 r. pieśń „Mury” (do melodii Lluísa Llacha) stała się nieformalnym hymnem „Solidarności”. Refren „Wyrwij murom zęby krat” śpiewały tłumy w 1980 r. Paradoksalnie Kaczmarski miał później ambiwalentny stosunek do tego, jak jego pieśń o jednostce wobec tłumu została odczytana.
+
+## Drugi obieg i emigracja
+
+Twórczość Kaczmarskiego rozchodziła się na kasetach magnetofonowych i w drugim obiegu. Podczas stanu wojennego pozostał na emigracji (był na Zachodzie w grudniu 1981 r.). Pracował m.in. w Radiu Wolna Europa, skąd jego pieśni docierały do kraju.
+
+## Tematy i styl
+
+W twórczości Kaczmarskiego powracały motywy historii, tyranii i wolności – „Obława”, „Nasza klasa”, „Encore, jeszcze raz”, cykle inspirowane malarstwem. Jego teksty były literaturą samą w sobie, łączącą tradycję romantyczną z gorzką diagnozą współczesności.
+
+## Dziedzictwo
+
+Kaczmarski pozostaje jednym z najważniejszych głosów polskiej kultury niezależnej. Jego pieśni śpiewane są do dziś, a „Mury” stały się symbolem walki o wolność wykraczającym poza polski kontekst.`,
+    resources: [
+      {
+        id: 'kacz-1',
+        title: 'Nagrania Jacka Kaczmarskiego',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Jacek+Kaczmarski+Mury+pie%C5%9Bni',
+        source: 'YouTube – nagrania archiwalne',
+        description: 'Archiwalne wykonania pieśni Kaczmarskiego, w tym „Mury”.',
+      },
+      {
+        id: 'kacz-2',
+        title: 'Kaczmarski i kultura niezależna – IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Jacek%20Kaczmarski%20Solidarno%C5%9B%C4%87%20pie%C5%9Bni',
+        source: 'IPN – Przystanek Historia',
+        description: 'Materiały o roli poezji śpiewanej w opozycji.',
+      },
+      {
+        id: 'kacz-3',
+        title: 'Teksty i publikacje – Polona',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Jacek%20Kaczmarski%20poezja',
+        source: 'Biblioteka Narodowa / Polona',
+        description: 'Zbiory tekstów i opracowań o twórczości barda.',
+        downloadable: true,
+      },
+    ],
+    relatedIds: ['solidarnosc', 'drugi-obieg', 'radio-wolna-europa', 'kultura-prl', 'muzyka-rockowa-prl'],
+  },
+
+  {
+    id: 'propaganda-sukcesu',
+    title: 'Propaganda sukcesu',
+    subtitle: 'Dekada Gierka – telewizyjny obraz „drugiej Polski” 1970–1980',
+    category: 'polityka',
+    tags: ['Gierek', 'propaganda', 'lata 70.', 'telewizja', 'gospodarka', 'Trybuna Ludu', 'dekada'],
+    yearStart: 1970,
+    yearEnd: 1980,
+    summary: '„Propaganda sukcesu” to określenie medialnej strategii ekipy Gierka, która kreowała obraz dynamicznego rozwoju i dobrobytu. Kolorowa telewizja pokazywała nowe fabryki i bloki, przemilczając rosnące zadłużenie i kryzys, który doprowadził do wybuchu 1980 r.',
+    content: `## Narodziny pojęcia
+
+Po objęciu władzy przez Edwarda Gierka w grudniu 1970 r. propaganda PRL zmieniła ton. Zamiast ascetycznego stylu Gomułki pojawił się optymizm i obietnica „drugiej Polski” – nowoczesnej, konsumpcyjnej, otwartej na Zachód. Media miały kreować wrażenie nieustannego sukcesu.
+
+## Narzędzia obrazu
+
+Kluczową rolę odegrała telewizja, zwłaszcza po wprowadzeniu emisji w kolorze. Dzienniki pokazywały otwarcia fabryk (Huta Katowice, Fabryka Samochodów Małolitrażowych), nowe osiedla z wielkiej płyty, sukcesy sportowe. Gierek z robotnikami – „Pomożecie?” – stał się ikoną tej narracji.
+
+## Kredyt i konsumpcja
+
+Dekada Gierka opierała się na zachodnich kredytach, za które kupowano licencje (Fiat 126p), technologie i towary. Przez kilka lat realnie wzrósł poziom życia – stąd nostalgia za „epoką Gierka”. Propaganda przedstawiała to jako trwały sukces socjalizmu, a nie efekt zadłużania się.
+
+## Pęknięcie narracji
+
+Od połowy lat 70. gospodarka zaczęła się załamywać – rosło zadłużenie, brakowało towarów. Podwyżki cen w 1976 r. (Radom, Ursus) obnażyły fasadowość „sukcesu”. Im gorzej było w sklepach, tym bardziej triumfalna była telewizja, co pogłębiało rozdźwięk między obrazem a rzeczywistością.
+
+## Koniec i dziedzictwo
+
+„Propaganda sukcesu” runęła wraz z kryzysem 1980 r. i narodzinami „Solidarności”. Pojęcie weszło na trwałe do języka jako synonim kreowania fałszywego obrazu rzeczywistości przez władzę. Pozostaje też symbolem mechanizmów peerelowskiej manipulacji medialnej.`,
+    resources: [
+      {
+        id: 'props-1',
+        title: 'Kroniki dekady Gierka – NINATEKA',
+        type: 'film',
+        url: 'https://ninateka.pl/vod/szukaj?query=Polska%20Kronika%20Filmowa%20lata%20siedemdziesi%C4%85te',
+        source: 'NINATEKA – Narodowy Instytut Audiowizualny',
+        description: 'Materiały filmowe z propagandowym obrazem dekady lat 70.',
+      },
+      {
+        id: 'props-2',
+        title: 'Propaganda PRL – analizy IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=propaganda%20sukcesu%20Gierek%20dekada',
+        source: 'IPN – Przystanek Historia',
+        description: 'Opracowania o mechanizmach propagandy w epoce Gierka.',
+      },
+      {
+        id: 'props-3',
+        title: 'Prasa epoki Gierka – Polona',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Trybuna%20Ludu%20lata%20siedemdziesi%C4%85te',
+        source: 'Biblioteka Narodowa / Polona',
+        description: 'Cyfrowe zbiory prasy z dekady propagandy sukcesu.',
+        downloadable: true,
+      },
+    ],
+    relatedIds: ['gierek', 'propaganda-prl', 'telewizja-prl', 'czerwiec-1976', 'zadluzenie-prl'],
+  },
+
+  {
+    id: 'zadluzenie-prl',
+    title: 'Zadłużenie zagraniczne PRL',
+    subtitle: 'Pułapka kredytowa dekady Gierka i kryzys lat 80.',
+    category: 'gospodarka',
+    tags: ['zadłużenie', 'kredyty', 'Gierek', 'Klub Paryski', 'dolar', 'kryzys', 'gospodarka'],
+    yearStart: 1971,
+    yearEnd: 1989,
+    summary: 'Zachodnie kredyty zaciągnięte w latach 70. miały zmodernizować gospodarkę PRL. Zamiast tego doprowadziły do gigantycznego zadłużenia, niewypłacalności i kryzysu, który PRL przekazał w spadku III Rzeczypospolitej – dług redukowano jeszcze w latach 90.',
+    content: `## Strategia „na kredyt”
+
+Ekipa Gierka postawiła na rozwój finansowany zachodnimi pożyczkami. Zakładano, że kredyty sfinansują import nowoczesnych technologii i licencji, a spłatę zapewni eksport produkowanych dzięki nim towarów. W teorii miał to być mechanizm samonapędzającego się wzrostu.
+
+## Dlaczego zawiodło
+
+Wiele inwestycji okazało się chybionych lub niedokończonych. Kryzys naftowy i recesja na Zachodzie w połowie lat 70. zmniejszyły popyt na polski eksport. Centralne planowanie marnotrawiło środki. Zamiast spłacać dług, zaciągano nowe kredyty na obsługę starych.
+
+## Skala długu
+
+Zadłużenie PRL wzrosło z około 1 mld dolarów na początku lat 70. do ponad 20 mld na początku lat 80. i ok. 40 mld pod koniec dekady. Obsługa długu pochłaniała ogromną część wpływów dewizowych, pogłębiając braki w zaopatrzeniu.
+
+## Niewypłacalność i kryzys
+
+Na początku lat 80. PRL faktycznie stała się niewypłacalna. Stan wojenny i zachodnie sankcje dodatkowo pogorszyły sytuację. Reglamentacja, kartki na żywność i puste półki były bezpośrednim skutkiem załamania, którego korzenie tkwiły w polityce kredytowej.
+
+## Spadek dla III RP
+
+Po 1989 r. demokratyczna Polska odziedziczyła ogromny dług PRL. Dopiero negocjacje z Klubem Paryskim i Londyńskim w pierwszej połowie lat 90. doprowadziły do redukcji znacznej jego części. Zadłużenie pozostaje jednym z najtrwalszych ekonomicznych dziedzictw PRL.`,
+    resources: [
+      {
+        id: 'zad-1',
+        title: 'Dokumenty gospodarcze PRL – archiwa',
+        type: 'akt',
+        url: 'https://szukajwarchiwach.gov.pl/szukaj?q=zad%C5%82u%C5%BCenie%20zagraniczne%20PRL%20kredyty',
+        source: 'Naczelna Dyrekcja Archiwów Państwowych',
+        description: 'Akta dotyczące polityki kredytowej i zadłużenia.',
+        year: 1980,
+      },
+      {
+        id: 'zad-2',
+        title: 'Kryzys gospodarczy PRL – IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=gospodarka%20PRL%20zad%C5%82u%C5%BCenie%20kryzys',
+        source: 'IPN – Przystanek Historia',
+        description: 'Analizy historyków o przyczynach załamania gospodarki.',
+      },
+      {
+        id: 'zad-3',
+        title: 'Opracowania ekonomiczne – Polona',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=gospodarka%20PRL%20kryzys%20zad%C5%82u%C5%BCenie',
+        source: 'Biblioteka Narodowa / Polona',
+        description: 'Publikacje o ekonomicznym upadku PRL.',
+        downloadable: true,
+      },
+    ],
+    relatedIds: ['gierek', 'gospodarka-prl', 'propaganda-sukcesu', 'kartki-prl', 'kolejki-prl'],
+  },
+
+  {
+    id: 'ropcio',
+    title: 'ROPCiO',
+    subtitle: 'Ruch Obrony Praw Człowieka i Obywatela 1977–1981',
+    category: 'opozycja',
+    tags: ['ROPCiO', 'prawa człowieka', 'opozycja', 'Moczulski', 'Andrzejewski', 'Helsinki'],
+    yearStart: 1977,
+    yearEnd: 1981,
+    summary: 'ROPCiO był jedną z pierwszych jawnych organizacji opozycyjnych w PRL. Powołując się na podpisane przez PRL akty o prawach człowieka, działacze otwarcie domagali się ich przestrzegania, torując drogę szerszemu ruchowi przedsierpniowemu.',
+    content: `## Geneza
+
+Ruch Obrony Praw Człowieka i Obywatela powstał w marcu 1977 r., w atmosferze ożywienia opozycji po represjach 1976 r. i powstaniu KOR. Inspiracją był Akt Końcowy KBWE z Helsinek (1975), w którym PRL zobowiązała się do przestrzegania praw człowieka.
+
+## Strategia jawności
+
+ROPCiO przyjął strategię działania jawnego – ujawniano nazwiska, adresy, prowadzono punkty konsultacyjno-informacyjne. Powoływano się na konstytucję i umowy międzynarodowe, żądając ich realizacji. Była to forma „dialogu prawnego” z państwem, które samo łamało własne deklaracje.
+
+## Działacze i podziały
+
+Wśród założycieli byli m.in. Leszek Moczulski, Andrzej Czuma, Wojciech Ziembiński. Ruch szybko się podzielił – z jednego z nurtów wyłoniła się Konfederacja Polski Niepodległej (KPN) Moczulskiego. Różnice dotyczyły radykalizmu i celów politycznych.
+
+## Wydawnictwa
+
+ROPCiO wydawał niezależne pisma, m.in. „Opinię” i „Bratniaka”, rozwijając drugi obieg. Organizował też obchody rocznic narodowych zakazanych przez władze, łamiąc monopol państwa na pamięć historyczną.
+
+## Znaczenie
+
+Choć ROPCiO nie przetrwał jako jednolita organizacja, odegrał ważną rolę w budowaniu jawnej opozycji przed 1980 r. Wraz z KOR tworzył środowisko, z którego wyrosła „Solidarność” i kadry niepodległościowej polityki.`,
+    resources: [
+      {
+        id: 'rop-1',
+        title: 'Dokumenty ROPCiO – IPN',
+        type: 'dokument',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Ruch%20Obrony%20Praw%20Cz%C5%82owieka%20i%20Obywatela',
+        source: 'Instytut Pamięci Narodowej – inwentarz archiwalny',
+        description: 'Materiały dotyczące działalności ROPCiO i jego inwigilacji.',
+        year: 1978,
+      },
+      {
+        id: 'rop-2',
+        title: 'ROPCiO – Przystanek Historia',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=ROPCiO%20opozycja%20prawa%20cz%C5%82owieka',
+        source: 'IPN – Przystanek Historia',
+        description: 'Opracowania o ruchu obrony praw człowieka w PRL.',
+      },
+      {
+        id: 'rop-3',
+        title: 'Pisma drugiego obiegu – Polona',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Opinia%20Bratniak%20opozycja',
+        source: 'Biblioteka Narodowa / Polona',
+        description: 'Niezależne pisma związane z ROPCiO.',
+        downloadable: true,
+      },
+    ],
+    relatedIds: ['kor', 'kpn', 'drugi-obieg', 'solidarnosc', 'represje-polityczne'],
+  },
+
+  {
+    id: 'bydgoszcz-1981',
+    title: 'Prowokacja bydgoska 1981',
+    subtitle: 'Pobicie działaczy „Solidarności” i kryzys marcowy',
+    category: 'opozycja',
+    tags: ['Bydgoszcz', '1981', 'Solidarność', 'Rulewski', 'prowokacja', 'strajk', 'MO'],
+    yearStart: 1981,
+    summary: 'W marcu 1981 r. milicja brutalnie pobiła działaczy „Solidarności”, m.in. Jana Rulewskiego, podczas sesji rady w Bydgoszczy. Wydarzenie wywołało najpoważniejszy kryzys między władzą a związkiem i groźbę strajku generalnego.',
+    content: `## Tło
+
+Wiosną 1981 r. napięcie między „Solidarnością” a władzą rosło. Związek domagał się rejestracji „Solidarności” rolniczej i realizacji porozumień. W tej atmosferze doszło do wydarzeń w Bydgoszczy, które omal nie doprowadziły do otwartego starcia.
+
+## Pobicie 19 marca
+
+19 marca 1981 r. działacze „Solidarności” uczestniczyli w sesji Wojewódzkiej Rady Narodowej w Bydgoszczy. Po jej przerwaniu funkcjonariusze MO brutalnie pobili pozostałych w sali związkowców, w tym Jana Rulewskiego, który trafił do szpitala. Wydarzenie uznano za celową prowokację.
+
+## Kryzys i groźba strajku
+
+Pobicie wywołało falę oburzenia. „Solidarność” ogłosiła gotowość strajkową, a na 31 marca zapowiedziano strajk generalny – potencjalnie największy w historii bloku wschodniego. Kraj znalazł się na krawędzi konfrontacji, w cieniu sowieckiej interwencji.
+
+## Porozumienie warszawskie
+
+30 marca, po negocjacjach Lecha Wałęsy z wicepremierem Mieczysławem Rakowskim, zawarto kompromis odwołujący strajk generalny. Część działaczy uznała to za ustępstwo i kapitulację, co pogłębiło spory wewnątrz związku.
+
+## Następstwa
+
+Kryzys bydgoski pokazał determinację władzy i jej gotowość do użycia siły. Dla wielu był zapowiedzią konfrontacji, która nastąpiła 13 grudnia 1981 r. Sprawa pobicia nigdy nie została w pełni wyjaśniona w PRL.`,
+    resources: [
+      {
+        id: 'byd-1',
+        title: 'Dokumenty kryzysu bydgoskiego – IPN',
+        type: 'dokument',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=prowokacja%20bydgoska%201981',
+        source: 'Instytut Pamięci Narodowej – inwentarz archiwalny',
+        description: 'Materiały dotyczące wydarzeń w Bydgoszczy w marcu 1981.',
+        year: 1981,
+      },
+      {
+        id: 'byd-2',
+        title: 'Kryzys bydgoski – Przystanek Historia',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Bydgoszcz%201981%20Solidarno%C5%9B%C4%87%20Rulewski',
+        source: 'IPN – Przystanek Historia',
+        description: 'Opracowania o marcowym kryzysie 1981 r.',
+      },
+      {
+        id: 'byd-3',
+        title: 'Relacje filmowe',
+        type: 'film',
+        url: 'https://ninateka.pl/vod/szukaj?query=Solidarno%C5%9B%C4%87%201981%20strajk',
+        source: 'NINATEKA – Narodowy Instytut Audiowizualny',
+        description: 'Materiały audiowizualne z okresu kryzysu.',
+      },
+    ],
+    relatedIds: ['solidarnosc', 'solidarnosc-rolnikow', 'stan-wojenny', 'walesa', 'rakowski'],
+  },
+
+  {
+    id: 'grzegorz-przemyk',
+    title: 'Grzegorz Przemyk',
+    subtitle: 'Maturzysta zakatowany przez milicję w 1983 r.',
+    category: 'represje',
+    tags: ['Przemyk', 'milicja', 'MO', 'represje', '1983', 'Barbara Sadowska', 'zbrodnia'],
+    yearStart: 1983,
+    summary: 'Grzegorz Przemyk, 19-letni maturzysta i syn opozycyjnej poetki, został śmiertelnie pobity przez milicjantów w maju 1983 r. Jego pogrzeb stał się wielką manifestacją, a sfingowane śledztwo – symbolem bezkarności aparatu przemocy PRL.',
+    content: `## Kim był
+
+Grzegorz Przemyk (1964–1983) był maturzystą, synem opozycyjnej poetki Barbary Sadowskiej, związanej ze środowiskami niezależnymi. Po zdaniu matury, 12 maja 1983 r., został zatrzymany przez milicję na Starym Mieście w Warszawie.
+
+## Śmiertelne pobicie
+
+Na komisariacie przy ul. Jezuickiej Przemyk został brutalnie pobity przez milicjantów – bito go tak, by nie pozostawić śladów na ciele. Doznał ciężkich obrażeń wewnętrznych i zmarł dwa dni później, 14 maja 1983 r.
+
+## Manifestacja na pogrzebie
+
+Pogrzeb Grzegorza Przemyka 19 maja 1983 r. zgromadził kilka tysięcy ludzi i przerodził się w milczącą manifestację przeciw przemocy władzy. Sprawa wstrząsnęła opinią publiczną w okresie po zniesieniu stanu wojennego.
+
+## Mataczenie śledztwa
+
+Aparat władzy uruchomił machinę zacierania śladów. Próbowano obciążyć odpowiedzialnością sanitariuszy zamiast milicjantów. W sfingowany proces zaangażowani byli wysocy funkcjonariusze MSW. Prawdziwi sprawcy przez lata pozostawali bezkarni.
+
+## Symbol bezkarności
+
+Sprawa Przemyka stała się symbolem brutalności i bezkarności milicji w PRL. Procesy toczyły się jeszcze w III RP, lecz pełnego ukarania winnych nie osiągnięto. Postać Przemyka upamiętniono jako jedną z ofiar przemocy systemu.`,
+    resources: [
+      {
+        id: 'prz-1',
+        title: 'Akta sprawy Przemyka – IPN',
+        type: 'dokument',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Grzegorz%20Przemyk',
+        source: 'Instytut Pamięci Narodowej – inwentarz archiwalny',
+        description: 'Materiały śledcze i procesowe w sprawie śmierci Przemyka.',
+        year: 1983,
+      },
+      {
+        id: 'prz-2',
+        title: 'Sprawa Przemyka – Przystanek Historia',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Grzegorz%20Przemyk%20milicja%201983',
+        source: 'IPN – Przystanek Historia',
+        description: 'Opracowania o zbrodni i mataczeniu śledztwa.',
+      },
+      {
+        id: 'prz-3',
+        title: 'Materiały o ofiarach MO – IPN',
+        type: 'publikacja',
+        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne?search=Grzegorz%20Przemyk%20represje',
+        source: 'IPN – materiały edukacyjne',
+        description: 'Materiały edukacyjne o przemocy aparatu PRL.',
+      },
+    ],
+    relatedIds: ['milicja', 'zomo', 'represje-polityczne', 'popieluszko', 'sluzba-bezpieczenstwa-metody'],
+  },
+
+  {
+    id: 'stanislaw-pyjas',
+    title: 'Stanisław Pyjas',
+    subtitle: 'Student i współpracownik KOR, zabity w 1977 r.',
+    category: 'opozycja',
+    tags: ['Pyjas', 'SKS', 'KOR', 'Kraków', '1977', 'student', 'opozycja'],
+    yearStart: 1977,
+    summary: 'Śmierć Stanisława Pyjasa, krakowskiego studenta współpracującego z KOR, w maju 1977 r. wstrząsnęła środowiskiem akademickim. Doprowadziła do powstania Studenckiego Komitetu Solidarności – pierwszej niezależnej organizacji studenckiej w PRL.',
+    content: `## Student i działacz
+
+Stanisław Pyjas (1953–1977) był studentem polonistyki i filozofii Uniwersytetu Jagiellońskiego, współpracownikiem Komitetu Obrony Robotników. Angażował się w pomoc represjonowanym robotnikom po wydarzeniach 1976 r. i był inwigilowany przez SB.
+
+## Śmierć w maju 1977
+
+7 maja 1977 r. ciało Pyjasa znaleziono w bramie kamienicy przy ul. Szewskiej w Krakowie. Oficjalnie przyczyną miał być nieszczęśliwy wypadek, jednak okoliczności wskazywały na związek z działalnością SB. Sprawa do dziś budzi kontrowersje.
+
+## Czarny Marsz i SKS
+
+Na wieść o śmierci Pyjasa studenci krakowscy ogłosili żałobę i 15 maja 1977 r., podczas Juwenaliów, przeprowadzili Czarny Marsz. Wówczas ogłoszono powstanie Studenckiego Komitetu Solidarności (SKS) – pierwszej niezależnej organizacji studenckiej, która szybko objęła inne miasta.
+
+## Rola SB
+
+Późniejsze ustalenia wskazały na inwigilację Pyjasa i jego środowiska przez tajnego współpracownika SB. Mimo śledztw prowadzonych także po 1989 r. nie udało się jednoznacznie wyjaśnić wszystkich okoliczności śmierci.
+
+## Pamięć
+
+Stanisław Pyjas stał się symbolem ofiar systemu wśród młodzieży akademickiej. SKS, powstały po jego śmierci, był ważnym ogniwem opozycji przedsierpniowej i kuźnią działaczy „Solidarności”.`,
+    resources: [
+      {
+        id: 'pyj-1',
+        title: 'Akta sprawy Pyjasa – IPN',
+        type: 'dokument',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Stanis%C5%82aw%20Pyjas',
+        source: 'Instytut Pamięci Narodowej – inwentarz archiwalny',
+        description: 'Materiały śledcze dotyczące śmierci Stanisława Pyjasa.',
+        year: 1977,
+      },
+      {
+        id: 'pyj-2',
+        title: 'Pyjas i SKS – Przystanek Historia',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Stanis%C5%82aw%20Pyjas%20SKS%20Krak%C3%B3w%201977',
+        source: 'IPN – Przystanek Historia',
+        description: 'Opracowania o śmierci Pyjasa i narodzinach SKS.',
+      },
+      {
+        id: 'pyj-3',
+        title: 'Materiały edukacyjne IPN',
+        type: 'publikacja',
+        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne?search=Stanis%C5%82aw%20Pyjas%20opozycja%20studencka',
+        source: 'IPN – materiały edukacyjne',
+        description: 'Materiały o opozycji studenckiej lat 70.',
+      },
+    ],
+    relatedIds: ['kor', 'nzs', 'drugi-obieg', 'represje-polityczne', 'sluzba-bezpieczenstwa-metody'],
+  },
+
+  {
+    id: 'bareja-kino',
+    title: 'Kino Stanisława Barei',
+    subtitle: '„Miś”, „Co mi zrobisz, jak mnie złapiesz” – satyra na absurdy PRL',
+    category: 'kultura',
+    tags: ['Bareja', 'komedia', 'Miś', 'absurd', 'satyra', 'kino', 'bareizm'],
+    yearStart: 1970,
+    yearEnd: 1989,
+    summary: 'Filmy Stanisława Barei, lekceważone przez ówczesną krytykę, okazały się najtrafniejszym portretem absurdów codzienności PRL. Od jego nazwiska ukuto pojęcie „bareizm” – określenie peerelowskiej groteski systemowej.',
+    content: `## Reżyser niedoceniony
+
+Stanisław Bareja (1929–1987) przez lata był lekceważony przez krytykę filmową, która zarzucała mu prymitywizm i tandetę. Dopiero z czasem dostrzeżono, że jego komedie są precyzyjnym i odważnym zapisem absurdów peerelowskiej rzeczywistości.
+
+## „Miś” i inne dzieła
+
+Najsłynniejszy film Barei, „Miś” (1980), stał się kultowy dzięki niezliczonym cytatom („Nie mamy pańskiego płaszcza i co pan nam zrobi”). Wcześniej nakręcił m.in. „Poszukiwany, poszukiwana”, „Co mi zrobisz, jak mnie złapiesz”, a także serial „Alternatywy 4”.
+
+## Mechanizm satyry
+
+Bareja pokazywał system od strony codzienności: kolejki, niedobory, bezsensowne przepisy, dwulicowość urzędników, prowizorkę. Jego humor obnażał absurd nie przez wielkie oskarżenia, lecz przez drobne, rozpoznawalne sceny dnia powszedniego.
+
+## Walka z cenzurą
+
+Filmy Barei musiały przechodzić przez cenzurę, która często ingerowała w scenariusze i montaż. Reżyser stosował aluzje i podteksty, a wiele jego żartów odczytywano jako krytykę systemu pod płaszczykiem niewinnej komedii.
+
+## „Bareizm”
+
+Od nazwiska reżysera powstało pojęcie „bareizm” – oznaczające typową dla PRL groteskową absurdalność rzeczywistości. Filmy Barei są dziś cenione jako dokument epoki i klasyka polskiej komedii, a ich cytaty weszły do języka potocznego.`,
+    resources: [
+      {
+        id: 'bar-1',
+        title: 'Filmy Barei – NINATEKA',
+        type: 'film',
+        url: 'https://ninateka.pl/vod/szukaj?query=Stanis%C5%82aw%20Bareja%20komedia',
+        source: 'NINATEKA – Narodowy Instytut Audiowizualny',
+        description: 'Komedie Stanisława Barei dostępne w archiwum cyfrowym.',
+      },
+      {
+        id: 'bar-2',
+        title: 'Bareja i absurdy PRL – publikacje',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Stanis%C5%82aw%20Bareja%20film%20komedia',
+        source: 'Biblioteka Narodowa / Polona',
+        description: 'Opracowania i krytyka o twórczości Barei.',
+        downloadable: true,
+      },
+      {
+        id: 'bar-3',
+        title: 'Kino PRL – analizy IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=komedia%20PRL%20satyra%20cenzura',
+        source: 'IPN – Przystanek Historia',
+        description: 'Materiały o satyrze filmowej i cenzurze w PRL.',
+      },
+    ],
+    relatedIds: ['kino-prl', 'cenzura-prl', 'zycie-codzienne', 'kolejki-prl', 'kabaret-prl'],
+  },
+
+  {
+    id: 'seriale-prl',
+    title: 'Kultowe seriale PRL',
+    subtitle: '„Czterej pancerni”, „Stawka większa niż życie”, „07 zgłoś się”',
+    category: 'kultura',
+    tags: ['serial', 'telewizja', 'Czterej pancerni', 'Stawka większa niż życie', 'Kloss', 'propaganda', 'kultura masowa'],
+    yearStart: 1965,
+    yearEnd: 1989,
+    summary: 'Telewizyjne seriale PRL, jak „Czterej pancerni i pies” czy „Stawka większa niż życie”, były zarazem rozrywką masową i nośnikiem propagandy. Mimo to wiele z nich zyskało status kultowych i do dziś kształtuje pamięć o epoce.',
+    content: `## Telewizja i serial
+
+Wraz z upowszechnieniem telewizji w latach 60. serial stał się najważniejszą formą kultury masowej w PRL. Wieczorne emisje gromadziły przed odbiornikami miliony widzów, a bohaterowie seriali stawali się postaciami znanymi w całym kraju.
+
+## „Czterej pancerni i pies”
+
+Serial z lat 1966–1970 o załodze czołgu Rudy 102 łączył przygodę z wyraźną wymową propagandową – budował mit „braterstwa broni” z Armią Czerwoną i pozytywny obraz ludowego wojska. Mimo to przez pokolenia pozostał ulubioną opowieścią dzieci i młodzieży.
+
+## „Stawka większa niż życie”
+
+Serial (1967–1968) o agencie Hansie Klossie, polskim wywiadowcy w mundurze niemieckim, był sensacyjnym hitem. Postać Klossa i hasło „J-23” weszły do popkultury. Łączył emocje szpiegowskie z odpowiednią ideologicznie wymową.
+
+## Inne hity
+
+Popularność zdobyły też m.in. „07 zgłoś się” (milicyjny serial sensacyjny), „Czterdziestolatek” (komedia obyczajowa o inżynierze Karwowskim) czy „Dom”. Seriale obyczajowe portretowały – w ramach dozwolonych przez cenzurę – codzienność Polaków.
+
+## Propaganda i nostalgia
+
+Seriale PRL były narzędziem kształtowania postaw, ale jednocześnie autentycznym fenomenem kultury. Dziś oglądane są nostalgicznie i analizowane jako zapis mentalności epoki oraz przykład splotu rozrywki z ideologią.`,
+    resources: [
+      {
+        id: 'ser-1',
+        title: 'Seriale PRL – NINATEKA',
+        type: 'film',
+        url: 'https://ninateka.pl/vod/szukaj?query=serial%20telewizyjny%20PRL',
+        source: 'NINATEKA – Narodowy Instytut Audiowizualny',
+        description: 'Klasyczne seriale telewizyjne PRL w archiwum cyfrowym.',
+      },
+      {
+        id: 'ser-2',
+        title: 'Telewizja PRL – analizy IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=seriale%20telewizja%20PRL%20propaganda',
+        source: 'IPN – Przystanek Historia',
+        description: 'Opracowania o roli seriali w propagandzie i kulturze.',
+      },
+      {
+        id: 'ser-3',
+        title: 'Prasa telewizyjna – Polona',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=telewizja%20seriale%20PRL',
+        source: 'Biblioteka Narodowa / Polona',
+        description: 'Czasopisma i materiały o telewizji PRL.',
+        downloadable: true,
+      },
+    ],
+    relatedIds: ['telewizja-prl', 'propaganda-prl', 'kultura-prl', 'lwp', 'kino-prl'],
+  },
+
+  {
+    id: 'wyscig-pokoju',
+    title: 'Wyścig Pokoju',
+    subtitle: 'Kolarski „Tour de France bloku wschodniego”',
+    category: 'społeczeństwo',
+    tags: ['Wyścig Pokoju', 'kolarstwo', 'sport', 'Szurkowski', 'propaganda', 'Warszawa', 'Praga', 'Berlin'],
+    yearStart: 1948,
+    yearEnd: 1989,
+    summary: 'Wyścig Pokoju był najważniejszą imprezą kolarską bloku wschodniego, łączącą Warszawę, Pragę i Berlin. Dla PRL był narzędziem propagandy „pokojowej”, a zarazem źródłem autentycznych emocji i bohaterów jak Ryszard Szurkowski.',
+    content: `## Geneza
+
+Wyścig Pokoju (Course de la Paix) zorganizowano po raz pierwszy w 1948 r. z inicjatywy dzienników partyjnych Polski i Czechosłowacji (później dołączyła NRD). Łączył stolice – Warszawę, Pragę i Berlin – pod hasłem walki o pokój, w opozycji do „zachodnich” wyścigów.
+
+## Propaganda pokoju
+
+Impreza była mocno nasycona propagandą. Hasło „pokoju” i symbolika gołębicy Picassa miały ukazywać blok wschodni jako obóz pokoju w przeciwieństwie do „imperialistycznego” Zachodu. Wyścig relacjonowano w telewizji i prasie jako wielkie święto socjalistycznego sportu.
+
+## Sportowe emocje
+
+Mimo ideologicznej oprawy Wyścig Pokoju budził autentyczne emocje milionów kibiców. Etapy przebiegały przez polskie miasta, gromadząc tłumy. Dla wielu była to najważniejsza impreza sportowa roku, a kolarze stawali się gwiazdami.
+
+## Polscy bohaterowie
+
+Największym idolem był Ryszard Szurkowski, wielokrotny zwycięzca i symbol polskiego kolarstwa lat 70. Sukcesy odnosili też m.in. Stanisław Szozda i inni reprezentanci. Ich triumfy były źródłem narodowej dumy i propagandowego kapitału.
+
+## Schyłek
+
+Wraz z przemianami 1989 r. Wyścig Pokoju stracił polityczny kontekst i dawną rangę. Organizowano go jeszcze w kolejnych dekadach, lecz nigdy nie odzyskał znaczenia z czasów PRL. Pozostał symbolem epoki, w której sport i polityka były ściśle splecione.`,
+    resources: [
+      {
+        id: 'wyp-1',
+        title: 'Relacje z Wyścigu Pokoju – NINATEKA',
+        type: 'film',
+        url: 'https://ninateka.pl/vod/szukaj?query=Wy%C5%9Bcig%20Pokoju%20kolarstwo',
+        source: 'NINATEKA – Narodowy Instytut Audiowizualny',
+        description: 'Archiwalne relacje filmowe z Wyścigu Pokoju.',
+      },
+      {
+        id: 'wyp-2',
+        title: 'Sport w PRL – analizy IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Wy%C5%9Bcig%20Pokoju%20sport%20propaganda',
+        source: 'IPN – Przystanek Historia',
+        description: 'Opracowania o propagandowej roli sportu.',
+      },
+      {
+        id: 'wyp-3',
+        title: 'Prasa sportowa – Polona',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Wy%C5%9Bcig%20Pokoju%20Szurkowski',
+        source: 'Biblioteka Narodowa / Polona',
+        description: 'Cyfrowe zbiory prasy o Wyścigu Pokoju.',
+        downloadable: true,
+      },
+    ],
+    relatedIds: ['sport-prl', 'propaganda-prl', 'telewizja-prl', 'zycie-codzienne', 'kultura-prl'],
+  },
+
+  {
+    id: 'zbigniew-religa',
+    title: 'Zbigniew Religa',
+    subtitle: 'Pionier polskiej kardiochirurgii i pierwszych przeszczepów serca',
+    category: 'społeczeństwo',
+    tags: ['Religa', 'kardiochirurgia', 'transplantacja', 'Zabrze', 'medycyna', 'nauka', 'serce'],
+    yearStart: 1985,
+    yearEnd: 1989,
+    summary: 'Profesor Zbigniew Religa przełamał barierę polskiej medycyny, przeprowadzając w 1985 r. w Zabrzu udany przeszczep serca. Dokonał tego mimo skromnych warunków PRL, stając się symbolem determinacji i postępu polskiej nauki.',
+    content: `## Droga do kardiochirurgii
+
+Zbigniew Religa (1938–2009) był chirurgiem, który postawił sobie za cel rozwój kardiochirurgii w Polsce. Po stażach zagranicznych wrócił do kraju z ambicją wykonywania operacji, które w PRL uchodziły za niemożliwe ze względu na warunki i sprzęt.
+
+## Przeszczep serca 1985
+
+W 1985 r. w Wojewódzkim Ośrodku Kardiologii w Zabrzu Religa przeprowadził pierwszy w Polsce udany przeszczep serca. Operacja, dokonana w skromnych realiach PRL, była przełomem i dowodem, że polska medycyna może dorównać światowej czołówce.
+
+## Walka z trudnościami
+
+Religa pracował w warunkach niedoboru sprzętu, leków i funduszy. Sam zabiegał o aparaturę i organizował zespół. Słynne zdjęcie wyczerpanego chirurga czuwającego nad pacjentem po operacji stało się ikoną poświęcenia w medycynie.
+
+## Sztuczne serce i rozwój
+
+Religa angażował się w prace nad polską sztuczną komorą wspomagania serca i rozwijał ośrodek w Zabrzu w liczącą się placówkę kardiochirurgiczną. Wykształcił pokolenie polskich kardiochirurgów.
+
+## Symbol i dziedzictwo
+
+Postać Religi stała się symbolem polskiej nauki przełamującej ograniczenia systemu. Jego dokonania, rozpoczęte jeszcze w PRL, ratowały tysiące istnień i trwale zmieniły polską medycynę.`,
+    resources: [
+      {
+        id: 'rel-1',
+        title: 'Materiały o Relidze – Polona',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Zbigniew%20Religa%20kardiochirurgia',
+        source: 'Biblioteka Narodowa / Polona',
+        description: 'Publikacje i prasa o dokonaniach prof. Religi.',
+        downloadable: true,
+      },
+      {
+        id: 'rel-2',
+        title: 'Polska medycyna i nauka – IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=medycyna%20nauka%20PRL',
+        source: 'IPN – Przystanek Historia',
+        description: 'Opracowania o nauce i medycynie w czasach PRL.',
+      },
+      {
+        id: 'rel-3',
+        title: 'Relacje archiwalne',
+        type: 'film',
+        url: 'https://ninateka.pl/vod/szukaj?query=kardiochirurgia%20transplantacja%20Polska',
+        source: 'NINATEKA – Narodowy Instytut Audiowizualny',
+        description: 'Materiały audiowizualne o przełomach polskiej medycyny.',
+      },
+    ],
+    relatedIds: ['nauka-prl', 'sluzba-zdrowia-prl', 'zycie-codzienne'],
+  },
+
+  {
+    id: 'bitwa-o-handel',
+    title: 'Bitwa o handel',
+    subtitle: 'Likwidacja prywatnego handlu i rzemiosła 1947–1949',
+    category: 'gospodarka',
+    tags: ['bitwa o handel', 'Minc', 'prywatny handel', 'domiary', 'nacjonalizacja', 'stalinizm', 'gospodarka'],
+    yearStart: 1947,
+    yearEnd: 1949,
+    summary: '„Bitwa o handel”, ogłoszona przez Hilarego Minca w 1947 r., była kampanią likwidacji prywatnego handlu i rzemiosła. Poprzez domiary, kontrole i represje fiskalne państwo zniszczyło prywatną przedsiębiorczość, wprowadzając gospodarkę uspołecznioną.',
+    content: `## Zapowiedź ofensywy
+
+W 1947 r. Hilary Minc, główny architekt gospodarki stalinowskiej w Polsce, ogłosił „bitwę o handel”. Był to program ofensywy przeciw prywatnemu handlowi i rzemiosłu, które po wojnie odbudowały się i zaopatrywały ludność lepiej niż sektor państwowy.
+
+## Narzędzia walki
+
+Państwo użyło narzędzi administracyjno-fiskalnych: wysokich „domiarów” podatkowych, kontroli, odbierania koncesji, utrudnień w zaopatrzeniu. Prywatnych kupców piętnowano propagandowo jako „spekulantów” i „element wyzyskujący”. Wielu zrujnowano lub zmuszono do zamknięcia działalności.
+
+## Rozbudowa sektora uspołecznionego
+
+Równolegle rozbudowywano handel państwowy i spółdzielczy – sieci takie jak „Społem” i domy towarowe. Miały one zastąpić prywatny handel, lecz okazały się mniej sprawne, co dało początek charakterystycznym dla PRL kolejkom i niedoborom.
+
+## Skutki społeczne
+
+Bitwa o handel zniszczyła warstwę drobnych przedsiębiorców i kupców, zmieniając strukturę społeczną. Zaopatrzenie ludności pogorszyło się, a gospodarka straciła elastyczność prywatnej inicjatywy. Był to element budowy gospodarki centralnie planowanej.
+
+## Miejsce w historii
+
+„Bitwa o handel” była jednym z kluczowych etapów stalinizacji gospodarki polskiej, obok nacjonalizacji przemysłu i kolektywizacji wsi. Symbolizuje podporządkowanie życia gospodarczego ideologii i państwu.`,
+    resources: [
+      {
+        id: 'boh-1',
+        title: 'Dokumenty polityki gospodarczej – archiwa',
+        type: 'akt',
+        url: 'https://szukajwarchiwach.gov.pl/szukaj?q=bitwa%20o%20handel%20domiary',
+        source: 'Naczelna Dyrekcja Archiwów Państwowych',
+        description: 'Akta dotyczące kampanii przeciw prywatnemu handlowi.',
+        year: 1948,
+      },
+      {
+        id: 'boh-2',
+        title: 'Bitwa o handel – Przystanek Historia',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=bitwa%20o%20handel%20Minc%20prywatny%20handel',
+        source: 'IPN – Przystanek Historia',
+        description: 'Opracowania o likwidacji prywatnej przedsiębiorczości.',
+      },
+      {
+        id: 'boh-3',
+        title: 'Prasa epoki – Polona',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=bitwa%20o%20handel%20spekulacja',
+        source: 'Biblioteka Narodowa / Polona',
+        description: 'Cyfrowe zbiory prasy z okresu bitwy o handel.',
+        downloadable: true,
+      },
+    ],
+    relatedIds: ['nacjonalizacja', 'kolektywizacja', 'gospodarka-prl', 'plan-szescioletni', 'zbrodnie-stalinizmu'],
   },
 ];
 
