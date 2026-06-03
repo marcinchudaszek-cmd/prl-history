@@ -6098,6 +6098,32 @@ PKF przeżyła PRL – nadawano ją do 1994 r., zmieniając stopniowo profil. Ar
         description: 'Analizy historyków IPN o roli PKF jako narzędzia propagandy komunistycznej.',
         year: 1970,
       },
+      {
+        id: 'pkf-6',
+        title: 'FINA – wyszukiwarka kronik',
+        type: 'film',
+        url: 'https://fina.gov.pl/wyszukiwarka/?szukaj=Polska%20Kronika%20Filmowa',
+        source: 'Filmoteka Narodowa – Instytut Audiowizualny (FINA)',
+        description: 'Zasoby Filmoteki Narodowej – Instytutu Audiowizualnego.',
+        year: 1944,
+      },
+      {
+        id: 'pkf-7',
+        title: 'FilmPolski.pl – baza o PKF',
+        type: 'publikacja',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Polska%20Kronika%20Filmowa',
+        source: 'FilmPolski.pl – internetowa baza filmu polskiego',
+        description: 'Opisy i dane o produkcji Polskiej Kroniki Filmowej.',
+        downloadable: true,
+      },
+      {
+        id: 'pkf-8',
+        title: 'TVP VOD – kroniki i archiwa',
+        type: 'film',
+        url: 'https://vod.tvp.pl/szukaj?query=Polska%20Kronika%20Filmowa',
+        source: 'TVP VOD – archiwum Telewizji Polskiej',
+        description: 'Archiwalne materiały filmowe w serwisie TVP VOD.',
+      },
     ],
     relatedIds: ['kino-prl', 'propaganda-prl', 'telewizja-prl', 'wfdif', 'film-dokumentalny-prl', 'kronika-wydarzenia-prl'],
   },
@@ -11151,6 +11177,405 @@ Bitwa o handel zniszczyła warstwę drobnych przedsiębiorców i kupców, zmieni
       },
     ],
     relatedIds: ['nacjonalizacja', 'kolektywizacja', 'gospodarka-prl', 'plan-szescioletni', 'zbrodnie-stalinizmu'],
+  },
+  {
+    id: 'kroniki-archiwa-filmowe',
+    title: 'Gdzie szukać kronik i archiwów filmowych PRL',
+    subtitle: 'Przewodnik po cyfrowych zbiorach: NINATEKA, FINA, repozytoria, TVP',
+    category: 'kultura',
+    tags: ['kronika filmowa', 'PKF', 'archiwum', 'NINATEKA', 'FINA', 'film', 'przewodnik', 'źródła'],
+    yearStart: 1944,
+    yearEnd: 1994,
+    summary: 'Praktyczny przewodnik po cyfrowych archiwach z kronikami filmowymi i dokumentami PRL. Zbiera w jednym miejscu sprawdzone, działające źródła – od NINATEKI i Filmoteki Narodowej, przez repozytoria archiwów państwowych, po bazy filmowe i serwisy VOD.',
+    content: `## NINATEKA – największe archiwum online
+
+NINATEKA prowadzona przez Narodowy Instytut Audiowizualny to najobszerniejszy bezpłatny zbiór Polskiej Kroniki Filmowej, dokumentów i nagrań audio. To pierwszy adres, od którego warto zacząć poszukiwania kronik z całego okresu 1944–1994.
+
+## Filmoteka Narodowa – Instytut Audiowizualny (FINA)
+
+FINA (powstała z połączenia Filmoteki Narodowej i NInA) gromadzi i digitalizuje dziedzictwo filmowe Polski. Repozytorium Cyfrowe Filmoteki Narodowej udostępnia zeskanowane kroniki, dokumenty i materiały filmowe ze zbiorów narodowych.
+
+## Archiwa państwowe
+
+Naczelna Dyrekcja Archiwów Państwowych przez portal „Szukaj w Archiwach” daje dostęp do dokumentów produkcyjnych Wytwórni Filmów Dokumentalnych i akt związanych z PKF. Narodowe Archiwum Cyfrowe (NAC) przechowuje fotografie i materiały audiowizualne.
+
+## Bazy filmowe i opracowania
+
+FilmPolski.pl to internetowa baza polskiego filmu z opisami produkcji, twórców i kronik. Biblioteka Narodowa Polona udostępnia prasę filmową i publikacje o PKF. IPN (Przystanek Historia) publikuje analizy kronik jako narzędzia propagandy.
+
+## Serwisy VOD i wideo
+
+Część kronik i archiwalnych materiałów telewizyjnych dostępna jest w TVP VOD oraz na kanałach YouTube instytucji (IPN, FINA). To wygodny sposób na szybkie obejrzenie konkretnych wydarzeń utrwalonych w kronice.
+
+## Jak szukać skutecznie
+
+Najlepiej wpisywać konkretne hasła: nazwę wydarzenia („Grudzień 1970”), rok, miejsce lub nazwisko. Pamiętaj, że kronika pokazywała rzeczywistość przez pryzmat propagandy – warto zestawiać obraz z opracowaniami historycznymi.`,
+    resources: [
+      {
+        id: 'arch-1',
+        title: 'NINATEKA – Polska Kronika Filmowa',
+        type: 'film',
+        url: 'https://ninateka.pl/vod/szukaj?query=Polska%20Kronika%20Filmowa',
+        source: 'NINATEKA – Narodowy Instytut Audiowizualny',
+        description: 'Najobszerniejsze bezpłatne archiwum PKF online.',
+        year: 1944,
+      },
+      {
+        id: 'arch-2',
+        title: 'NINATEKA – kroniki i dokumenty',
+        type: 'film',
+        url: 'https://ninateka.pl/vod/szukaj?query=kronika%20filmowa',
+        source: 'NINATEKA – Narodowy Instytut Audiowizualny',
+        description: 'Dokumenty i kroniki filmowe z całego okresu PRL.',
+      },
+      {
+        id: 'arch-3',
+        title: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        type: 'film',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/search/node/Polska%20Kronika%20Filmowa',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Zeskanowane kroniki ze zbiorów Filmoteki Narodowej.',
+      },
+      {
+        id: 'arch-4',
+        title: 'FINA – wyszukiwarka zasobów',
+        type: 'film',
+        url: 'https://fina.gov.pl/wyszukiwarka/?szukaj=kronika',
+        source: 'Filmoteka Narodowa – Instytut Audiowizualny (FINA)',
+        description: 'Wyszukiwarka zbiorów Filmoteki Narodowej – Instytutu Audiowizualnego.',
+      },
+      {
+        id: 'arch-5',
+        title: 'Szukaj w Archiwach – dokumenty PKF',
+        type: 'akt',
+        url: 'https://szukajwarchiwach.gov.pl/szukaj?q=Polska%20Kronika%20Filmowa',
+        source: 'Naczelna Dyrekcja Archiwów Państwowych',
+        description: 'Akta Wytwórni Filmów Dokumentalnych i PKF.',
+        year: 1950,
+      },
+      {
+        id: 'arch-6',
+        title: 'FilmPolski.pl – baza filmu polskiego',
+        type: 'publikacja',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=kronika%20filmowa',
+        source: 'FilmPolski.pl – internetowa baza filmu polskiego',
+        description: 'Opisy produkcji, twórców i kronik filmowych.',
+        downloadable: true,
+      },
+      {
+        id: 'arch-7',
+        title: 'Narodowe Archiwum Cyfrowe',
+        type: 'zdjęcie',
+        url: 'https://audiovis.nac.gov.pl/',
+        source: 'Narodowe Archiwum Cyfrowe',
+        description: 'Fotografie i materiały audiowizualne z epoki PRL.',
+        year: 1960,
+      },
+      {
+        id: 'arch-8',
+        title: 'TVP VOD – archiwum telewizyjne',
+        type: 'film',
+        url: 'https://vod.tvp.pl/szukaj?query=kronika%20filmowa',
+        source: 'TVP VOD – archiwum Telewizji Polskiej',
+        description: 'Archiwalne materiały telewizyjne i kroniki w TVP VOD.',
+      },
+      {
+        id: 'arch-9',
+        title: 'PKF jako propaganda – analizy IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Polska%20Kronika%20Filmowa%20propaganda',
+        source: 'IPN – Przystanek Historia',
+        description: 'Opracowania historyków o roli kronik filmowych.',
+      },
+    ],
+    relatedIds: ['polska-kronika-filmowa', 'wfdif', 'film-dokumentalny-prl', 'kronika-wydarzenia-prl', 'telewizja-prl'],
+  },
+
+  {
+    id: 'fina-filmoteka',
+    title: 'Filmoteka Narodowa – Instytut Audiowizualny',
+    subtitle: 'FINA – strażnik filmowego dziedzictwa Polski',
+    category: 'kultura',
+    tags: ['FINA', 'Filmoteka Narodowa', 'NInA', 'archiwum', 'digitalizacja', 'film', 'dziedzictwo'],
+    yearStart: 1955,
+    summary: 'Filmoteka Narodowa, dziś działająca jako FINA, od 1955 r. gromadzi, konserwuje i udostępnia polskie dziedzictwo filmowe. To dzięki niej zachowały się i są digitalizowane kroniki, dokumenty oraz fabuły z czasów PRL.',
+    content: `## Powstanie Filmoteki
+
+Centralne Archiwum Filmowe, przekształcone później w Filmotekę Narodową, powstało w 1955 r. Jego zadaniem było gromadzenie i ochrona kopii filmów produkowanych w Polsce oraz materiałów archiwalnych, w tym Polskiej Kroniki Filmowej.
+
+## Misja konserwacji
+
+Filmoteka odpowiada za przechowywanie i konserwację taśm filmowych – materiału nietrwałego, narażonego na rozkład. Renowacja zniszczonych kopii i przenoszenie ich na nowe nośniki uratowały wiele bezcennych materiałów dokumentujących epokę.
+
+## Połączenie w FINA
+
+W 2017 r. Filmoteka Narodowa połączyła się z Narodowym Instytutem Audiowizualnym (NInA), tworząc Filmotekę Narodową – Instytut Audiowizualny (FINA). Instytucja prowadzi m.in. NINATEKĘ i Repozytorium Cyfrowe.
+
+## Digitalizacja dziedzictwa
+
+FINA realizuje szeroko zakrojoną digitalizację zbiorów – kronik, dokumentów, fabuł i nagrań. Dzięki temu materiały dawniej dostępne tylko w archiwum trafiają online, do badaczy, twórców i wszystkich zainteresowanych.
+
+## Znaczenie
+
+FINA jest kluczową instytucją pamięci filmowej Polski. Bez jej pracy ogromna część wizualnego zapisu PRL – od propagandy po arcydzieła – byłaby dziś niedostępna lub bezpowrotnie utracona.`,
+    resources: [
+      {
+        id: 'fina-1',
+        title: 'FINA – wyszukiwarka zbiorów',
+        type: 'film',
+        url: 'https://fina.gov.pl/wyszukiwarka/?szukaj=Polska%20Kronika%20Filmowa',
+        source: 'Filmoteka Narodowa – Instytut Audiowizualny (FINA)',
+        description: 'Dostęp do zasobów Filmoteki Narodowej – Instytutu Audiowizualnego.',
+      },
+      {
+        id: 'fina-2',
+        title: 'Repozytorium Cyfrowe FN',
+        type: 'film',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/search/node/kronika',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Zdigitalizowane zbiory filmowe dostępne online.',
+      },
+      {
+        id: 'fina-3',
+        title: 'NINATEKA – archiwum audiowizualne',
+        type: 'film',
+        url: 'https://ninateka.pl/vod/szukaj?query=dokument%20PRL',
+        source: 'NINATEKA – Narodowy Instytut Audiowizualny',
+        description: 'Filmy i nagrania udostępniane przez FINA.',
+      },
+    ],
+    relatedIds: ['polska-kronika-filmowa', 'wfdif', 'kroniki-archiwa-filmowe', 'film-dokumentalny-prl'],
+  },
+
+  {
+    id: 'festiwal-opole',
+    title: 'Krajowy Festiwal Piosenki Polskiej w Opolu',
+    subtitle: 'Najważniejsza scena polskiej piosenki od 1963 r.',
+    category: 'kultura',
+    tags: ['Opole', 'festiwal', 'piosenka', 'muzyka', 'telewizja', 'kultura masowa', 'estrada'],
+    yearStart: 1963,
+    yearEnd: 1989,
+    summary: 'Festiwal w Opolu, organizowany od 1963 r., był najważniejszą sceną polskiej piosenki i telewizyjnym świętem rozrywki. Pod kontrolą cenzury wypromował dziesiątki gwiazd, a jego nagrania to fonoteka epoki PRL.',
+    content: `## Narodziny festiwalu
+
+Krajowy Festiwal Piosenki Polskiej w Opolu odbył się po raz pierwszy w 1963 r. w amfiteatrze u stóp opolskiego zamku. Szybko stał się najważniejszym wydarzeniem muzyki rozrywkowej w kraju i dorocznym świętem transmitowanym przez radio i telewizję.
+
+## Estrada gwiazd
+
+W Opolu debiutowali lub triumfowali niemal wszyscy najwięksi wykonawcy epoki – od Czesława Niemena i Maryli Rodowicz po Czerwone Gitary i Skaldów. Festiwalowe nagrody i premiery piosenek decydowały o karierach artystów.
+
+## Cenzura i polityka
+
+Festiwal działał pod nadzorem cenzury i władz. Teksty piosenek były kontrolowane, a repertuar musiał mieścić się w ramach akceptowanych przez system. Mimo to artyści potrafili przemycać aluzje, a publiczność czytała je między wierszami.
+
+## Telewizyjne święto
+
+Transmisje z Opola gromadziły przed telewizorami miliony widzów. Festiwal był jednym z filarów telewizyjnej rozrywki PRL, obok Sopotu, i tworzył wspólne przeżycie kulturalne dla całego kraju.
+
+## Dziedzictwo
+
+Nagrania opolskie to dziś bezcenna fonoteka i wideoteka polskiej piosenki. Festiwal przetrwał PRL i jest kontynuowany, lecz jego peerelowskie edycje pozostają zapisem gustów, mody i emocji epoki.`,
+    resources: [
+      {
+        id: 'opo-1',
+        title: 'Archiwum festiwalu w Opolu – TVP VOD',
+        type: 'film',
+        url: 'https://vod.tvp.pl/szukaj?query=festiwal%20Opole',
+        source: 'TVP VOD – archiwum Telewizji Polskiej',
+        description: 'Archiwalne transmisje i występy z festiwalu w Opolu.',
+      },
+      {
+        id: 'opo-2',
+        title: 'Nagrania opolskie – NINATEKA',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=festiwal%20piosenki%20Opole',
+        source: 'NINATEKA – Narodowy Instytut Audiowizualny',
+        description: 'Materiały audiowizualne z festiwalu.',
+      },
+      {
+        id: 'opo-3',
+        title: 'Prasa muzyczna – Polona',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=festiwal%20Opole%20piosenka',
+        source: 'Biblioteka Narodowa / Polona',
+        description: 'Czasopisma i materiały o festiwalu opolskim.',
+        downloadable: true,
+      },
+    ],
+    relatedIds: ['muzyka-rockowa-prl', 'telewizja-prl', 'kultura-prl', 'niemen-czeslaw', 'radio-prl'],
+  },
+
+  {
+    id: 'kabaret-starszych-panow',
+    title: 'Kabaret Starszych Panów',
+    subtitle: 'Wasowski i Przybora – wyspa elegancji i absurdu w PRL',
+    category: 'kultura',
+    tags: ['Kabaret Starszych Panów', 'Przybora', 'Wasowski', 'kabaret', 'telewizja', 'poezja', 'piosenka'],
+    yearStart: 1958,
+    yearEnd: 1966,
+    summary: 'Kabaret Starszych Panów Jeremiego Przybory i Jerzego Wasowskiego był telewizyjnym fenomenem przełomu lat 50. i 60. – wyspą wyrafinowanego humoru, poezji i muzyki, kontrastującą z szarością i propagandą PRL.',
+    content: `## Telewizyjny fenomen
+
+Kabaret Starszych Panów emitowano w Telewizji Polskiej w latach 1958–1966. Stworzony przez Jeremiego Przyborę (teksty) i Jerzego Wasowskiego (muzyka), był programem na wskroś oryginalnym – eleganckim, lirycznym i absurdalnym zarazem.
+
+## Estetyka ucieczki
+
+W świecie PRL pełnym propagandy i niedoborów kabaret proponował estetykę dwudziestolecia międzywojennego: fraki, salonowy dowcip, poetyckie piosenki. Była to forma subtelnej ucieczki od rzeczywistości, ceniona przez inteligencję.
+
+## Mistrzowie słowa i melodii
+
+Piosenki Przybory i Wasowskiego – „Addio pomidory”, „W czasie deszczu dzieci się nudzą”, „Na całym świecie” – weszły do kanonu polskiej kultury. Łączyły wyrafinowany humor językowy z melodyjnością i nostalgią.
+
+## Plejada wykonawców
+
+W kabarecie występowali najwięksi aktorzy epoki: Wiesław Michnikowski, Kalina Jędrusik, Mieczysław Czechowicz, Barbara Krafftówna, Edward Dziewoński. Ich kreacje współtworzyły niepowtarzalny klimat programu.
+
+## Dziedzictwo
+
+Kabaret Starszych Panów pozostaje wzorcem inteligentnej rozrywki. Jego piosenki są wciąż wykonywane, a nagrania – świadectwem, że nawet w PRL możliwa była kultura wolna od ideologii.`,
+    resources: [
+      {
+        id: 'ksp-1',
+        title: 'Nagrania Kabaretu – TVP VOD',
+        type: 'film',
+        url: 'https://vod.tvp.pl/szukaj?query=Kabaret%20Starszych%20Pan%C3%B3w',
+        source: 'TVP VOD – archiwum Telewizji Polskiej',
+        description: 'Archiwalne odcinki Kabaretu Starszych Panów.',
+      },
+      {
+        id: 'ksp-2',
+        title: 'Piosenki Przybory i Wasowskiego',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Przybora%20Wasowski%20piosenki',
+        source: 'NINATEKA – Narodowy Instytut Audiowizualny',
+        description: 'Materiały audiowizualne z twórczością kabaretu.',
+      },
+      {
+        id: 'ksp-3',
+        title: 'Teksty i opracowania – Polona',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Jeremi%20Przybora%20kabaret',
+        source: 'Biblioteka Narodowa / Polona',
+        description: 'Publikacje o twórczości Przybory i Wasowskiego.',
+        downloadable: true,
+      },
+    ],
+    relatedIds: ['kabaret-prl', 'telewizja-prl', 'kultura-prl', 'literatura-prl'],
+  },
+
+  {
+    id: 'teatr-telewizji',
+    title: 'Teatr Telewizji',
+    subtitle: 'Wielki teatr w każdym domu – fenomen kulturalny PRL',
+    category: 'kultura',
+    tags: ['Teatr Telewizji', 'teatr', 'telewizja', 'dramat', 'kultura', 'spektakl', 'inscenizacja'],
+    yearStart: 1953,
+    yearEnd: 1989,
+    summary: 'Teatr Telewizji od 1953 r. wprowadzał wielką dramaturgię do milionów domów. Mimo cenzury prezentował klasykę i ambitne inscenizacje, stając się jednym z najważniejszych zjawisk kultury PRL i szkołą gustu widzów.',
+    content: `## Teatr dla milionów
+
+Teatr Telewizji zadebiutował w 1953 r. i szybko stał się unikalnym fenomenem – sceną docierającą do milionów widzów, którzy nigdy nie bywali w teatrze. Cotygodniowe spektakle wprowadzały wielki repertuar do zwykłych mieszkań.
+
+## Repertuar
+
+Prezentowano klasykę polską i światową – Szekspira, Czechowa, Fredrę, Mrożka, Witkacego – a także współczesny dramat. Mimo ograniczeń cenzury Teatr Telewizji potrafił sięgać po dzieła ambitne i wieloznaczne.
+
+## Wielcy twórcy
+
+Dla Teatru Telewizji pracowali najwybitniejsi reżyserzy i aktorzy: Adam Hanuszkiewicz, Jerzy Antczak, Gustaw Holoubek, Tadeusz Łomnicki, Aleksandra Śląska. Telewizyjne inscenizacje bywały wydarzeniami artystycznymi na równi z teatrem scenicznym.
+
+## Między sztuką a kontrolą
+
+Jak cała kultura PRL, teatr podlegał cenzurze. Niektóre inscenizacje – zwłaszcza klasyki romantycznej – odczytywano jako aluzje do współczesności. Wybór repertuaru bywał formą subtelnego dialogu z widzem ponad głowami cenzorów.
+
+## Dziedzictwo
+
+Teatr Telewizji ukształtował gust kulturalny pokoleń Polaków i zachował zapis wielkich kreacji aktorskich. Archiwalne spektakle są dziś świadectwem poziomu artystycznego, jaki osiągano mimo ograniczeń systemu.`,
+    resources: [
+      {
+        id: 'ttv-1',
+        title: 'Spektakle Teatru Telewizji – TVP VOD',
+        type: 'film',
+        url: 'https://vod.tvp.pl/szukaj?query=Teatr%20Telewizji',
+        source: 'TVP VOD – archiwum Telewizji Polskiej',
+        description: 'Archiwalne inscenizacje Teatru Telewizji.',
+      },
+      {
+        id: 'ttv-2',
+        title: 'Teatr Telewizji – NINATEKA',
+        type: 'film',
+        url: 'https://ninateka.pl/vod/szukaj?query=Teatr%20Telewizji%20spektakl',
+        source: 'NINATEKA – Narodowy Instytut Audiowizualny',
+        description: 'Nagrania spektakli telewizyjnych.',
+      },
+      {
+        id: 'ttv-3',
+        title: 'Krytyka teatralna – Polona',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Teatr%20Telewizji%20inscenizacja',
+        source: 'Biblioteka Narodowa / Polona',
+        description: 'Recenzje i opracowania o Teatrze Telewizji.',
+        downloadable: true,
+      },
+    ],
+    relatedIds: ['teatr-prl', 'telewizja-prl', 'kultura-prl', 'literatura-prl', 'cenzura-prl'],
+  },
+
+  {
+    id: 'milenium-1966',
+    title: 'Milenium Chrztu Polski 1966',
+    subtitle: 'Kościelne obchody tysiąclecia kontra państwowe Tysiąclecie',
+    category: 'społeczeństwo',
+    tags: ['Milenium', '1966', 'Kościół', 'Wyszyński', 'Gomułka', 'Tysiąclecie', 'chrzest Polski'],
+    yearStart: 1966,
+    summary: 'Obchody tysiąclecia chrztu Polski w 1966 r. stały się areną rywalizacji między Kościołem a państwem. Religijnym uroczystościom prymasa Wyszyńskiego władza przeciwstawiła świeckie obchody „Tysiąclecia Państwa Polskiego”.',
+    content: `## Dwa tysiąclecia
+
+Rok 1966 wyznaczał tysiąclecie chrztu Polski (966 r.). Kościół katolicki przygotowywał uroczyste obchody religijne, ukoronowanie Wielkiej Nowenny prymasa Stefana Wyszyńskiego. Władze komunistyczne, nie chcąc oddać pola Kościołowi, zorganizowały konkurencyjne obchody świeckie.
+
+## Wielka Nowenna
+
+Prymas Wyszyński przez dziewięć lat przygotowywał naród do milenium przez Wielką Nowennę i peregrynację kopii obrazu Matki Boskiej Częstochowskiej po parafiach. Była to ogromna mobilizacja religijna, niezależna od państwa i poza jego kontrolą.
+
+## Konflikt z władzą
+
+Władze utrudniały obchody – zatrzymano peregrynujący obraz, ograniczano uroczystości, prowadzono kampanię propagandową. Zaostrzeniu konfliktu sprzyjało wcześniejsze orędzie biskupów polskich do niemieckich (1965) ze słowami „przebaczamy i prosimy o przebaczenie”.
+
+## Państwowe Tysiąclecie
+
+Państwo przeciwstawiło religii obchody „Tysiąclecia Państwa Polskiego”, akcentując świecki, narodowy wymiar rocznicy oraz osiągnięcia PRL. Organizowano pochody, akademie i imprezy mające odciągnąć ludność od uroczystości kościelnych.
+
+## Znaczenie
+
+Milenium 1966 było jednym z najważniejszych momentów rywalizacji Kościoła i państwa w PRL. Pokazało siłę i niezależność Kościoła oraz jego rolę jako alternatywnego ośrodka życia społecznego wobec systemu komunistycznego.`,
+    resources: [
+      {
+        id: 'mil-1',
+        title: 'Dokumenty obchodów milenijnych – IPN',
+        type: 'dokument',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Milenium%20Chrztu%20Polski%201966',
+        source: 'Instytut Pamięci Narodowej – inwentarz archiwalny',
+        description: 'Materiały o obchodach i konflikcie państwo–Kościół.',
+        year: 1966,
+      },
+      {
+        id: 'mil-2',
+        title: 'Milenium 1966 – Przystanek Historia',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Milenium%20Chrztu%20Polski%20Wyszy%C5%84ski%201966',
+        source: 'IPN – Przystanek Historia',
+        description: 'Opracowania o rywalizacji obchodów w 1966 r.',
+      },
+      {
+        id: 'mil-3',
+        title: 'Kroniki obchodów – NINATEKA',
+        type: 'film',
+        url: 'https://ninateka.pl/vod/szukaj?query=Tysi%C4%85clecie%20Pa%C5%84stwa%20Polskiego%201966',
+        source: 'NINATEKA – Narodowy Instytut Audiowizualny',
+        description: 'Materiały filmowe z obchodów milenijnych.',
+      },
+    ],
+    relatedIds: ['wyszynski', 'kosciol-prl', 'gomulka', 'pielgrzymki-jp2', 'propaganda-prl'],
   },
 ];
 
