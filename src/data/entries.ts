@@ -11577,6 +11577,465 @@ Milenium 1966 było jednym z najważniejszych momentów rywalizacji Kościoła i
     ],
     relatedIds: ['wyszynski', 'kosciol-prl', 'gomulka', 'pielgrzymki-jp2', 'propaganda-prl'],
   },
+  {
+    id: 'jarocin-festiwal',
+    title: 'Festiwal w Jarocinie',
+    subtitle: 'Wolna wyspa rocka w PRL',
+    category: 'kultura',
+    tags: ['muzyka', 'rock', 'punk', 'młodzież', 'lata 80.'],
+    yearStart: 1980,
+    yearEnd: 1989,
+    summary: 'Najważniejszy festiwal muzyki rockowej i punkowej w PRL, który od 1980 roku stał się symbolem młodzieżowego buntu i namiastki wolności.',
+    content: `## Geneza
+Festiwal w Jarocinie wyrósł z odbywających się od 1970 roku Wielkopolskich Rytmów Młodych. Od 1980 roku, pod nazwą Ogólnopolski Przegląd Muzyki Młodej Generacji, impreza przekształciła się w największy w bloku wschodnim festiwal muzyki rockowej, punkowej i nowofalowej.
+
+## Wolna wyspa
+Dla tysięcy młodych ludzi Jarocin był miejscem, gdzie przez kilka dni w roku można było poczuć namiastkę wolności – słuchać ostrej muzyki, manifestować odmienność wyglądem i strojem, krzyczeć o sprawach przemilczanych przez oficjalną propagandę. Władze tolerowały festiwal, traktując go jako wentyl bezpieczeństwa dla młodzieżowej energii.
+
+## Zespoły
+Na jarocińskiej scenie debiutowały lub występowały m.in. Dezerter, Brygada Kryzys, TSA, Armia, Kult, Siekiera, Moskwa, Dżem czy Republika. Festiwal stał się kuźnią polskiej sceny niezależnej.
+
+## Inwigilacja
+Impreza była pod ścisłą obserwacją Służby Bezpieczeństwa, która rejestrowała uczestników, fotografowała publiczność i werbowała informatorów. Mimo to Jarocin pozostał przestrzenią względnej swobody.
+
+## Dziedzictwo
+Jarocin stał się legendą i symbolem pokolenia. Po 1989 roku festiwal reaktywowano, a w mieście powstało Spichlerz Polskiego Rocka – muzeum dokumentujące historię imprezy.`,
+    resources: [
+      {
+        id: 'jar-1',
+        title: 'Jarocin – festiwal (nagrania)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Festiwal+Jarocin+lata+80+koncert',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania z festiwalu jarocińskiego.',
+      },
+      {
+        id: 'jar-2',
+        title: 'Jarocin w materiałach IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=festiwal%20Jarocin%20muzyka%20m%C5%82odzie%C5%BC',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Teksty o festiwalu i jego inwigilacji przez SB.',
+      },
+      {
+        id: 'jar-3',
+        title: 'Jarocin – dokumentacja',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Jarocin%20festiwal',
+        source: 'Ninateka',
+        description: 'Filmy i nagrania związane z festiwalem.',
+      },
+    ],
+    relatedIds: ['muzyka-rockowa-prl', 'rock-lat-80', 'punk-prl'],
+  },
+  {
+    id: 'rock-lat-80',
+    title: 'Polski rock lat 80.',
+    subtitle: 'Złota dekada polskiej muzyki rockowej',
+    category: 'kultura',
+    tags: ['muzyka', 'rock', 'lata 80.', 'kultura młodzieżowa'],
+    yearStart: 1980,
+    yearEnd: 1989,
+    summary: 'Eksplozja polskiej muzyki rockowej w latach 80., gdy dziesiątki zespołów wyrażały frustracje i nadzieje pokolenia stanu wojennego.',
+    content: `## Eksplozja
+Lata 80. to złota dekada polskiego rocka. Po sierpniu 1980 i mimo stanu wojennego nastąpił niespotykany rozkwit muzyki młodzieżowej. Powstały dziesiątki zespołów, które przez teksty i muzykę wyrażały emocje pokolenia żyjącego w cieniu kryzysu i represji.
+
+## Nurty
+Scena była zróżnicowana: nowa fala i rock elektroniczny (Republika, Maanam), reggae (Izrael, Kultura), punk (Dezerter, Brygada Kryzys, Siekiera), poezja śpiewana i rock poetycki (Kult), hard rock i blues (TSA, Dżem, Perfect).
+
+## Teksty
+Teksty piosenek często zawierały zawoalowaną krytykę systemu, omijając cenzurę poprzez metafory i aluzje. Utwory takie jak „Nie płacz Ewka” Perfectu czy „Baranek” Brygady Kryzys stały się hymnami pokolenia.
+
+## Festiwale i radio
+Kluczową rolę odegrały festiwal w Jarocinie oraz Lista Przebojów Programu Trzeciego Polskiego Radia, popularyzująca nowe zespoły. Rozwijał się też obieg kaset magnetofonowych.
+
+## Znaczenie
+Polski rock lat 80. był nie tylko zjawiskiem muzycznym, ale i społecznym – formą wyrażania sprzeciwu, tożsamości i marzeń o wolności całego pokolenia.`,
+    resources: [
+      {
+        id: 'rock80-1',
+        title: 'Polski rock lat 80. (nagrania)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=polski+rock+lata+80+koncerty',
+        source: 'YouTube',
+        description: 'Przegląd nagrań polskich zespołów rockowych dekady.',
+      },
+      {
+        id: 'rock80-2',
+        title: 'Muzyka rockowa – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=muzyka%20rockowa%20lata%20osiemdziesi%C4%85te',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o kulturze rockowej w PRL.',
+      },
+      {
+        id: 'rock80-3',
+        title: 'Rock w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=polski%20rock',
+        source: 'Ninateka',
+        description: 'Archiwalne nagrania muzyczne.',
+      },
+    ],
+    relatedIds: ['jarocin-festiwal', 'muzyka-rockowa-prl', 'republika-zespol', 'perfect-zespol'],
+  },
+  {
+    id: 'republika-zespol',
+    title: 'Republika',
+    subtitle: 'Grzegorz Ciechowski i nowa fala',
+    category: 'kultura',
+    tags: ['muzyka', 'rock', 'nowa fala', 'lata 80.', 'Ciechowski'],
+    yearStart: 1981,
+    yearEnd: 1989,
+    summary: 'Jeden z najważniejszych zespołów nowej fali w Polsce, kierowany przez Grzegorza Ciechowskiego, twórcę przebojów „Kombinat” i „Biała flaga”.',
+    content: `## Powstanie
+Republika powstała w 1981 roku w Toruniu z inicjatywy Grzegorza Ciechowskiego. Zespół szybko wypracował charakterystyczne, czarno-białe brzmienie i wizerunek, łączące nową falę z elektroniką i intelektualnymi tekstami.
+
+## Ciechowski
+Grzegorz Ciechowski (1957–2001) był liderem, wokalistą i głównym autorem tekstów. Jego inteligentne, often metaforyczne teksty krytykowały zniewolenie jednostki przez system – jak w słynnym „Kombinacie”.
+
+## Przeboje
+Debiutancki album „Nowe sytuacje” (1983) oraz przeboje „Kombinat”, „Biała flaga”, „Sexy doll” uczyniły z Republiki jeden z najpopularniejszych zespołów dekady. Estetyka biało-czarna stała się znakiem rozpoznawczym.
+
+## Rozpad i reaktywacja
+Zespół rozpadł się w 1986 roku, a Ciechowski kontynuował karierę solową jako Obywatel G.C. Republika reaktywowała się w 1990 roku i działała do śmierci lidera w 2001 roku.
+
+## Znaczenie
+Republika pozostaje symbolem ambitnego, artystycznego rocka lat 80., a Grzegorz Ciechowski – jedną z najważniejszych postaci polskiej muzyki rozrywkowej.`,
+    resources: [
+      {
+        id: 'rep-1',
+        title: 'Republika – koncerty i teledyski',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Republika+Ciechowski+koncert+Kombinat',
+        source: 'YouTube',
+        description: 'Nagrania zespołu Republika.',
+      },
+      {
+        id: 'rep-2',
+        title: 'Republika w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Republika%20Ciechowski',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały muzyczne.',
+      },
+      {
+        id: 'rep-3',
+        title: 'Grzegorz Ciechowski – biogram',
+        type: 'publikacja',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Grzegorz%20Ciechowski',
+        source: 'FilmPolski.pl',
+        description: 'Informacje o twórczości artysty.',
+      },
+    ],
+    relatedIds: ['rock-lat-80', 'muzyka-rockowa-prl', 'jarocin-festiwal'],
+  },
+  {
+    id: 'maanam-zespol',
+    title: 'Maanam',
+    subtitle: 'Kora i rockowa rewolucja',
+    category: 'kultura',
+    tags: ['muzyka', 'rock', 'nowa fala', 'lata 80.', 'Kora'],
+    yearStart: 1980,
+    yearEnd: 1989,
+    summary: 'Kultowy zespół rockowy z charyzmatyczną wokalistką Korą, autor przebojów „Boskie Buenos” i „Kocham cię kochanie moje”.',
+    content: `## Powstanie
+Maanam powstał w Krakowie na przełomie lat 70. i 80. Kluczowymi postaciami byli Kora (Olga Jackowska) jako wokalistka oraz Marek Jackowski jako gitarzysta i kompozytor.
+
+## Kora
+Kora (1951–2018) była jedną z najbardziej charyzmatycznych postaci polskiej sceny muzycznej – silną, niezależną kobietą, której wizerunek i teksty łamały konwenanse epoki.
+
+## Przeboje
+Zespół zdobył ogromną popularność dzięki przebojom takim jak „Boskie Buenos”, „Kocham cię kochanie moje”, „Szał niebieskich ciał” czy „Lucciola”. Występ w telewizyjnym programie w 1980 roku przyniósł im błyskawiczną sławę.
+
+## Bojkot
+W 1984 roku Maanam, po odmowie udziału w koncercie transmitowanym przez telewizję w okresie napięć politycznych, został objęty nieformalnym bojkotem w mediach państwowych, co tylko wzmocniło legendę zespołu.
+
+## Znaczenie
+Maanam to jeden z najważniejszych zespołów polskiego rocka, a Kora stała się ikoną niezależności i kobiecej siły w kulturze PRL.`,
+    resources: [
+      {
+        id: 'maa-1',
+        title: 'Maanam – nagrania koncertowe',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Maanam+Kora+koncert+Boskie+Buenos',
+        source: 'YouTube',
+        description: 'Występy i teledyski zespołu Maanam.',
+      },
+      {
+        id: 'maa-2',
+        title: 'Maanam w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Maanam',
+        source: 'Ninateka',
+        description: 'Archiwalne nagrania muzyczne.',
+      },
+      {
+        id: 'maa-3',
+        title: 'Kora – biogram',
+        type: 'publikacja',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Kora%20Jackowska',
+        source: 'FilmPolski.pl',
+        description: 'Informacje o artystce.',
+      },
+    ],
+    relatedIds: ['rock-lat-80', 'muzyka-rockowa-prl', 'kobiety-prl'],
+  },
+  {
+    id: 'kult-zespol',
+    title: 'Kult',
+    subtitle: 'Kazik Staszewski i bunt pokolenia',
+    category: 'kultura',
+    tags: ['muzyka', 'rock', 'punk', 'lata 80.', 'Kazik'],
+    yearStart: 1982,
+    yearEnd: 1989,
+    summary: 'Zespół założony przez Kazika Staszewskiego, słynący z ostrych, bezkompromisowych tekstów krytykujących rzeczywistość PRL.',
+    content: `## Powstanie
+Kult powstał w 1982 roku w Warszawie z inicjatywy Kazika Staszewskiego. Zespół łączył punk, rock i nową falę z elementami muzyki dętej, tworząc oryginalne brzmienie.
+
+## Kazik
+Kazimierz Staszewski stał się jednym z najbardziej rozpoznawalnych głosów buntu w polskiej muzyce. Jego teksty bezpośrednio i ironicznie opisywały absurdy systemu, biurokrację, propagandę i codzienne upokorzenia życia w PRL.
+
+## Cenzura
+Wiele utworów Kultu padło ofiarą cenzury – zespół musiał zmieniać słowa lub wycofywać piosenki. Mimo to nagrania krążyły w obiegu kasetowym i koncertowym, zyskując kultowy status.
+
+## Koncerty
+Kult słynął z energetycznych występów na żywo, m.in. w Jarocinie. Bezkompromisowość przekazu czyniła zespół ulubieńcem niezależnej młodzieży.
+
+## Znaczenie
+Kult to jeden z najtrwalszych zespołów polskiej sceny, a jego wczesna twórczość pozostaje świadectwem buntu pokolenia schyłku PRL.`,
+    resources: [
+      {
+        id: 'kult-1',
+        title: 'Kult – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Kult+Kazik+koncert+lata+80',
+        source: 'YouTube',
+        description: 'Występy i teledyski zespołu Kult.',
+      },
+      {
+        id: 'kult-2',
+        title: 'Kult i muzyka niezależna – IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=muzyka%20niezale%C5%BCna%20cenzura%20rock',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o muzyce niezależnej i cenzurze.',
+      },
+      {
+        id: 'kult-3',
+        title: 'Kult w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Kult%20zesp%C3%B3%C5%82',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały.',
+      },
+    ],
+    relatedIds: ['rock-lat-80', 'punk-prl', 'jarocin-festiwal', 'cenzura'],
+  },
+  {
+    id: 'punk-prl',
+    title: 'Punk w PRL',
+    subtitle: 'Dezerter, Brygada Kryzys i scena niezależna',
+    category: 'kultura',
+    tags: ['muzyka', 'punk', 'lata 80.', 'kontrkultura', 'młodzież'],
+    yearStart: 1980,
+    yearEnd: 1989,
+    summary: 'Polska scena punkowa lat 80., z zespołami Dezerter, Brygada Kryzys i Siekiera, będąca najostrzejszą formą muzycznego buntu przeciw systemowi.',
+    content: `## Narodziny
+Punk dotarł do Polski na przełomie lat 70. i 80. Surowa, agresywna muzyka i bezkompromisowe teksty idealnie wyrażały frustrację młodzieży żyjącej w szarej rzeczywistości schyłkowego PRL.
+
+## Zespoły
+Najważniejsze zespoły to Dezerter (początkowo SS-20), Brygada Kryzys, Siekiera, Moskwa, Abaddon czy KSU. Grały szybko, głośno i wprost, atakując hipokryzję systemu, militaryzm i konformizm.
+
+## Teksty
+Teksty punkowe były bezpośrednie i prowokacyjne – „Rebeli” Dezertera, „Nie ma”, antywojenne i antysystemowe manifesty pokolenia, które nie wierzyło ani w komunizm, ani w obietnice dorosłych.
+
+## Represje i inwigilacja
+Punkowcy, ze względu na wygląd i postawę, byli szczególnie narażeni na szykany milicji i obserwację SB. Koncerty bywały przerywane, a uczestnicy spisywani.
+
+## Dziedzictwo
+Scena punkowa, najsilniej obecna w Jarocinie, pozostaje symbolem najbardziej radykalnego nurtu kontrkultury PRL i wpłynęła na kolejne pokolenia muzyków.`,
+    resources: [
+      {
+        id: 'punk-1',
+        title: 'Polski punk – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Dezerter+Brygada+Kryzys+punk+PRL',
+        source: 'YouTube',
+        description: 'Nagrania polskich zespołów punkowych.',
+      },
+      {
+        id: 'punk-2',
+        title: 'Kontrkultura i punk – IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=punk%20kontrkultura%20m%C5%82odzie%C5%BC%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o ruchu punkowym w PRL.',
+      },
+      {
+        id: 'punk-3',
+        title: 'Scena niezależna w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=punk%20rock%20niezale%C5%BCny',
+        source: 'Ninateka',
+        description: 'Archiwalne nagrania.',
+      },
+    ],
+    relatedIds: ['jarocin-festiwal', 'rock-lat-80', 'kult-zespol', 'muzyka-rockowa-prl'],
+  },
+  {
+    id: 'lista-przebojow-trojki',
+    title: 'Lista Przebojów Programu Trzeciego',
+    subtitle: 'Notowania, które kształtowały gusta',
+    category: 'kultura',
+    tags: ['muzyka', 'radio', 'lata 80.', 'media', 'Trójka'],
+    yearStart: 1982,
+    yearEnd: 1989,
+    summary: 'Kultowe radiowe notowanie muzyczne prowadzone przez Marka Niedźwieckiego, które od 1982 roku kształtowało muzyczne gusta Polaków.',
+    content: `## Geneza
+Lista Przebojów Programu Trzeciego Polskiego Radia („Trójki”) wystartowała w 1982 roku. Słuchacze głosowali na ulubione utwory, tworząc cotygodniowy ranking najpopularniejszych piosenek.
+
+## Marek Niedźwiecki
+Najbardziej rozpoznawalnym prezenterem Listy był Marek Niedźwiecki, którego spokojny głos i pasja muzyczna uczyniły z notowania kultową audycję słuchaną przez miliony.
+
+## Rola
+W czasach ograniczonego dostępu do muzyki zagranicznej i niezależnej Lista Przebojów była dla wielu młodych ludzi oknem na świat – promowała zarówno polskie zespoły, jak i zachodnie przeboje.
+
+## Polska scena
+Notowania pomogły wypromować wiele polskich zespołów lat 80., dając im ogólnopolską popularność. Pierwsze miejsce na Liście było ważnym wyróżnieniem.
+
+## Dziedzictwo
+Lista Przebojów Trójki przetrwała przemiany ustrojowe i przez dekady pozostawała jedną z najważniejszych audycji muzycznych w Polsce, symbolem Programu Trzeciego.`,
+    resources: [
+      {
+        id: 'lpt-1',
+        title: 'Lista Przebojów Trójki – archiwalia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Lista+Przeboj%C3%B3w+Tr%C3%B3jki+lata+80+Nied%C5%BAwiecki',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania audycji.',
+      },
+      {
+        id: 'lpt-2',
+        title: 'Trójka i muzyka – VOD TVP',
+        type: 'nagranie',
+        url: 'https://vod.tvp.pl/szukaj?query=Lista%20Przeboj%C3%B3w%20Tr%C3%B3jki',
+        source: 'VOD TVP',
+        description: 'Materiały o radiowych notowaniach.',
+      },
+      {
+        id: 'lpt-3',
+        title: 'Radio w PRL – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Polskie%20Radio%20Program%20Trzeci%20muzyka',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o roli radia.',
+      },
+    ],
+    relatedIds: ['rock-lat-80', 'muzyka-rockowa-prl', 'media-prl'],
+  },
+  {
+    id: 'perfect-zespol',
+    title: 'Perfect',
+    subtitle: '„Nie płacz Ewka” i hymny pokolenia',
+    category: 'kultura',
+    tags: ['muzyka', 'rock', 'lata 80.', 'Hołdys'],
+    yearStart: 1980,
+    yearEnd: 1989,
+    summary: 'Jeden z najpopularniejszych zespołów rockowych lat 80., kierowany przez Zbigniewa Hołdysa, autor przebojów „Nie płacz Ewka” i „Autobiografia”.',
+    content: `## Powstanie
+Perfect w klasycznym składzie ukształtował się w 1980 roku w Warszawie. Liderem zespołu był Zbigniew Hołdys, a wokalistą Grzegorz Markowski.
+
+## Przeboje
+Debiutancki album „Perfect” (1981) okazał się ogromnym sukcesem. Przeboje „Nie płacz Ewka”, „Autobiografia”, „Chcemy być sobą” stały się hymnami pokolenia, a koncerty gromadziły tłumy.
+
+## „Chcemy być sobą”
+Piosenka „Chcemy być sobą” nabrała znaczenia politycznego – publiczność śpiewała ją jako „chcemy bić ZOMO”, co czyniło z niej nieformalny hymn sprzeciwu. Tego typu interpretacje niepokoiły władze.
+
+## Trudności
+W okresie stanu wojennego zespół, podobnie jak inni artyści, mierzył się z ograniczeniami i naciskami. Hołdys odszedł z zespołu w 1983 roku.
+
+## Znaczenie
+Perfect to jeden z filarów polskiego rocka, a jego przeboje pozostają klasyką, do dziś rozpoznawalną przez kolejne pokolenia.`,
+    resources: [
+      {
+        id: 'perf-1',
+        title: 'Perfect – koncerty i teledyski',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Perfect+Nie+p%C5%82acz+Ewka+koncert',
+        source: 'YouTube',
+        description: 'Nagrania zespołu Perfect.',
+      },
+      {
+        id: 'perf-2',
+        title: 'Perfect w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Perfect%20zesp%C3%B3%C5%82',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały muzyczne.',
+      },
+      {
+        id: 'perf-3',
+        title: 'Rock lat 80. – IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=rock%20muzyka%20lata%20osiemdziesi%C4%85te',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o scenie rockowej.',
+      },
+    ],
+    relatedIds: ['rock-lat-80', 'muzyka-rockowa-prl', 'stan-wojenny'],
+  },
+  {
+    id: 'gintrowski-bard',
+    title: 'Przemysław Gintrowski',
+    subtitle: 'Bard „Solidarności”',
+    category: 'kultura',
+    tags: ['muzyka', 'poezja śpiewana', 'opozycja', 'lata 80.', 'bard'],
+    yearStart: 1979,
+    yearEnd: 1989,
+    summary: 'Kompozytor i pieśniarz, jeden z bardów opozycji, znany z tria z Jackiem Kaczmarskim i Zbigniewem Łapińskim oraz muzyki do poezji.',
+    content: `## Sylwetka
+Przemysław Gintrowski (1951–2012) był kompozytorem, gitarzystą i pieśniarzem, jednym z najważniejszych twórców poezji śpiewanej w Polsce.
+
+## Trio
+Najsłynniejszą kartą jego twórczości była współpraca z Jackiem Kaczmarskim i Zbigniewem Łapińskim. Program „Mury” (1981) stał się muzycznym manifestem opozycji, a tytułowa pieśń – hymnem „Solidarności”.
+
+## Muzyka do poezji
+Gintrowski komponował muzykę do wierszy wybitnych poetów, m.in. Zbigniewa Herberta (program „Raport z oblężonego miasta”). Jego pieśni łączyły wysoką poezję z mocnym, emocjonalnym przekazem.
+
+## Drugi obieg
+W stanie wojennym jego nagrania krążyły w drugim obiegu i na kasetach. Koncerty często odbywały się w kościołach i salach parafialnych, poza zasięgiem oficjalnej kultury.
+
+## Znaczenie
+Gintrowski pozostaje symbolem zaangażowanej, niezależnej sztuki lat 80., a jego pieśni – świadectwem moralnego oporu wobec systemu.`,
+    resources: [
+      {
+        id: 'gin-1',
+        title: 'Gintrowski – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Przemys%C5%82aw+Gintrowski+Mury+koncert',
+        source: 'YouTube',
+        description: 'Nagrania pieśni i koncertów.',
+      },
+      {
+        id: 'gin-2',
+        title: 'Poezja śpiewana – IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=poezja%20%C5%9Bpiewana%20opozycja%20bard',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o bardach opozycji.',
+      },
+      {
+        id: 'gin-3',
+        title: 'Gintrowski w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Gintrowski',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały.',
+      },
+    ],
+    relatedIds: ['jacek-kaczmarski', 'herbert', 'drugi-obieg', 'solidarnosc'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
