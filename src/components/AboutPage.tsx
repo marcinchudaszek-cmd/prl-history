@@ -7,17 +7,17 @@ export default function AboutPage({ onNavigate }: AboutPageProps) {
     { icon: '📇', title: 'Baza ponad 200 haseł', desc: 'Hasła z rozbudowanymi opisami i bezpośrednimi linkami do zasobów archiwalnych' },
     { icon: '🔍', title: 'Wyszukiwarka encyklopedii', desc: 'Przeszukiwanie haseł, tagów i opisów w całej bazie wiedzy' },
     { icon: '🕰️', title: 'Oś czasu wydarzeń', desc: 'Interaktywna chronologia 1944–1990 z filtrowaniem po dekadach i kategoriach' },
+    { icon: '🗺️', title: 'Interaktywna mapa PRL', desc: 'Miejsca represji, strajków, ośrodków oporu i kultury na mapie Polski' },
+    { icon: '👤', title: 'Biogramy postaci', desc: 'Profile przywódców, dysydentów, twórców i ofiar systemu, pogrupowane tematycznie' },
+    { icon: '🏚️', title: 'Słownik slangu PRL', desc: '„Kombinowanie”, „cinkciarz”, „teczka”, „ścieżka zdrowia” – język epoki z wyjaśnieniami' },
     { icon: '🗂️', title: 'Archiwum zasobów cyfrowych', desc: 'Katalog instytucji i archiwów (IPN, AAN, NINATEKA, POLONA) z linkami do źródeł' },
   ];
 
   const plannedFeatures = [
-    { icon: '🗺️', title: 'Interaktywna mapa PRL', desc: 'Obozy pracy, strajki, miejsca represji, ośrodki oporu – na mapie Polski' },
-    { icon: '👤', title: 'Biogramy postaci', desc: 'Rozbudowane profile przywódców, dysydentów, ofiar systemu i bohaterów oporu' },
     { icon: '📰', title: 'Archiwum prasy PRL', desc: '"Trybuna Ludu", "Tygodnik Solidarność", podziemne wydawnictwa – skany i OCR' },
     { icon: '🎓', title: 'Quizy i testy wiedzy', desc: 'Edukacyjne quizy sprawdzające wiedzę o historii PRL' },
     { icon: '💬', title: 'Oral history – relacje świadków', desc: 'Nagrane wspomnienia osób pamiętających czasy PRL, z możliwością dodawania własnych' },
     { icon: '📊', title: 'Infografiki gospodarcze', desc: 'Interaktywne wykresy długu, cen, PKB, reglamentacji i porównania z Zachodem' },
-    { icon: '🏚️', title: 'Słownik slangu PRL', desc: '"Kombinowanie", "odczep się", "Pewex", "teczka" – słownik epoki z wyjaśnieniami' },
     { icon: '🌐', title: 'Wielojęzyczność', desc: 'Wersje w języku angielskim i niemieckim dla zagranicznych badaczy i Polonii' },
     { icon: '⭐', title: 'Zakładki i notatki', desc: 'System osobistych zakładek i notatek dla użytkowników zalogowanych' },
     { icon: '📡', title: 'API dla badaczy', desc: 'Otwarty interfejs API umożliwiający pobieranie danych do badań naukowych' },

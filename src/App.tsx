@@ -7,9 +7,12 @@ import EntryPage from './components/EntryPage';
 import TimelinePage from './components/TimelinePage';
 import ArchivesPage from './components/ArchivesPage';
 import AboutPage from './components/AboutPage';
+import MapPage from './components/MapPage';
+import SlangPage from './components/SlangPage';
+import BiosPage from './components/BiosPage';
 import type { Category } from './data/entries';
 
-type View = 'home' | 'encyclopedia' | 'entry' | 'timeline' | 'archives' | 'about';
+type View = 'home' | 'encyclopedia' | 'entry' | 'timeline' | 'archives' | 'about' | 'map' | 'slang' | 'bios';
 
 export default function App() {
   const [view, setView] = useState<View>('home');
@@ -58,6 +61,12 @@ export default function App() {
         return <ArchivesPage onNavigate={handleNavigate} />;
       case 'about':
         return <AboutPage onNavigate={handleNavigate} />;
+      case 'map':
+        return <MapPage onNavigate={handleNavigate} />;
+      case 'slang':
+        return <SlangPage onNavigate={handleNavigate} />;
+      case 'bios':
+        return <BiosPage onNavigate={handleNavigate} />;
       default:
         return <HomePage onNavigate={handleNavigate} onNavigateWithCategory={handleNavigateWithCategory} />;
     }

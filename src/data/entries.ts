@@ -12691,6 +12691,414 @@ Kwestia alkoholu ilustruje społeczne skutki gospodarki niedoboru i bezradność
     ],
     relatedIds: ['zycie-codzienne', 'kolejki-prl', 'sluzba-zdrowia-prl'],
   },
+  {
+    id: 'penderecki',
+    title: 'Krzysztof Penderecki',
+    subtitle: 'Kompozytor światowej awangardy',
+    category: 'osoby',
+    tags: ['kultura', 'muzyka', 'kompozytor', 'muzyka poważna'],
+    yearStart: 1958,
+    yearEnd: 1989,
+    summary: 'Jeden z najwybitniejszych kompozytorów XX wieku, twórca „Trenu – Ofiarom Hiroszimy” i „Pasji wg św. Łukasza”, który zdobył światową sławę mimo realiów PRL.',
+    content: `## Sylwetka
+Krzysztof Penderecki (1933–2020) był kompozytorem i dyrygentem, jednym z najważniejszych twórców muzyki współczesnej. Jego dzieła wykonywano na całym świecie, a on sam stał się ambasadorem polskiej kultury.
+
+## Awangarda
+Na przełomie lat 50. i 60. zasłynął jako twórca awangardowy. „Tren – Ofiarom Hiroszimy” (1960) na 52 instrumenty smyczkowe, z nowatorską techniką brzmieniową, przyniósł mu międzynarodowy rozgłos.
+
+## Pasja wg św. Łukasza
+Prawykonana w 1966 roku „Pasja wg św. Łukasza” była dziełem o tematyce religijnej – odważnym w ateistycznym państwie. Utwór wzbudził sensację i ugruntował pozycję kompozytora na Zachodzie.
+
+## Uznanie
+Penderecki komponował opery, symfonie i muzykę filmową (jego dzieła wykorzystywali m.in. Kubrick i Lynch). Otrzymał liczne nagrody i doktoraty honoris causa uczelni całego świata.
+
+## Znaczenie
+Pozostaje jednym z symboli polskiej kultury wysokiej, dowodem, że mimo żelaznej kurtyny polska sztuka mogła współtworzyć światową awangardę.`,
+    resources: [
+      {
+        id: 'pen-1',
+        title: 'Penderecki – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Krzysztof+Penderecki+Tren+Ofiarom+Hiroszimy',
+        source: 'YouTube',
+        description: 'Nagrania dzieł kompozytora.',
+      },
+      {
+        id: 'pen-2',
+        title: 'Penderecki w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Krzysztof%20Penderecki',
+        source: 'Ninateka',
+        description: 'Archiwalne nagrania muzyczne.',
+      },
+      {
+        id: 'pen-3',
+        title: 'Muzyka współczesna – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=muzyka%20powa%C5%BCna%20kompozytorzy%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o polskiej muzyce.',
+      },
+    ],
+    relatedIds: ['muzyka-powazna-prl', 'lutoslawski', 'kultura-prl'],
+  },
+  {
+    id: 'lutoslawski',
+    title: 'Witold Lutosławski',
+    subtitle: 'Klasyk muzyki XX wieku',
+    category: 'osoby',
+    tags: ['kultura', 'muzyka', 'kompozytor', 'muzyka poważna'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Wybitny kompozytor i dyrygent, autor „Koncertu na orkiestrę” i III Symfonii, łączący najwyższy kunszt z niezależnością wobec presji ideologicznej.',
+    content: `## Sylwetka
+Witold Lutosławski (1913–1994) był jednym z najważniejszych kompozytorów XX wieku. Jego twórczość ewoluowała od neoklasycyzmu po nowatorskie techniki aleatoryczne.
+
+## Socrealizm
+W okresie stalinowskim, gdy narzucano doktrynę socrealizmu, jego I Symfonia została potępiona jako „formalistyczna”. Kompozytor musiał lawirować, tworząc m.in. utwory ludowe, lecz nie porzucił własnej drogi.
+
+## Koncert na orkiestrę
+„Koncert na orkiestrę” (1954), oparty na motywach ludowych, stał się jednym z jego najpopularniejszych dzieł i wizytówką polskiej muzyki za granicą.
+
+## Dojrzała twórczość
+Od lat 60. rozwijał technikę aleatoryzmu kontrolowanego. III Symfonia (1983) uznawana jest za arcydzieło. Lutosławski dyrygował własnymi utworami na całym świecie.
+
+## Postawa
+W latach 80. wspierał opozycję i bojkotował oficjalne media po wprowadzeniu stanu wojennego. Pozostaje symbolem artystycznej i moralnej niezależności.`,
+    resources: [
+      {
+        id: 'lut-1',
+        title: 'Lutosławski – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Witold+Lutos%C5%82awski+Koncert+na+orkiestr%C4%99+symfonia',
+        source: 'YouTube',
+        description: 'Nagrania dzieł kompozytora.',
+      },
+      {
+        id: 'lut-2',
+        title: 'Lutosławski w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Witold%20Lutos%C5%82awski',
+        source: 'Ninateka',
+        description: 'Archiwalne nagrania muzyczne.',
+      },
+      {
+        id: 'lut-3',
+        title: 'Muzyka poważna – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=muzyka%20wsp%C3%B3%C5%82czesna%20kompozytorzy',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o muzyce polskiej.',
+      },
+    ],
+    relatedIds: ['muzyka-powazna-prl', 'penderecki', 'socrealizm'],
+  },
+  {
+    id: 'bartoszewski',
+    title: 'Władysław Bartoszewski',
+    subtitle: 'Historyk, więzień, świadek epoki',
+    category: 'osoby',
+    tags: ['opozycja', 'historyk', 'więzień polityczny', 'kultura'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Historyk, działacz opozycji i więzień zarówno Auschwitz, jak i stalinowskich więzień; współtwórca pamięci o pomocy Żydom i autorytet moralny.',
+    content: `## Sylwetka
+Władysław Bartoszewski (1922–2015) był historykiem, publicystą i działaczem społecznym. Jego biografia odzwierciedla najtrudniejsze doświadczenia XX wieku.
+
+## Więzień dwóch totalitaryzmów
+Był więźniem niemieckiego obozu Auschwitz, a po wojnie – jako żołnierz AK i niezależny działacz – trafił do stalinowskich więzień, gdzie spędził kilka lat jako więzień polityczny.
+
+## Żegota i pamięć
+W czasie wojny działał w Radzie Pomocy Żydom „Żegota”. Po wojnie dokumentował tę historię, stając się jednym z najważniejszych świadków i strażników pamięci.
+
+## Opozycja
+W PRL współpracował z „Tygodnikiem Powszechnym”, KOR i opozycją demokratyczną. Wykładał, publikował w drugim obiegu i był internowany w stanie wojennym.
+
+## Autorytet
+Po 1989 roku pełnił funkcję ministra spraw zagranicznych. Pozostaje symbolem prawości, dialogu polsko-żydowskiego i pojednania polsko-niemieckiego.`,
+    resources: [
+      {
+        id: 'bar-1',
+        title: 'Bartoszewski – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=W%C5%82adys%C5%82aw%20Bartoszewski%20opozycja%20%C5%BBegota',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły i materiały o działaczu.',
+      },
+      {
+        id: 'bar-2',
+        title: 'Bartoszewski – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=W%C5%82adys%C5%82aw+Bartoszewski+wyk%C5%82ad+wspomnienia',
+        source: 'YouTube',
+        description: 'Wystąpienia i wywiady.',
+      },
+      {
+        id: 'bar-3',
+        title: 'Akta i dokumenty',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Bartoszewski%20W%C5%82adys%C5%82aw',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['kor', 'tygodnik-powszechny', 'internowanie'],
+  },
+  {
+    id: 'giedroyc',
+    title: 'Jerzy Giedroyc',
+    subtitle: 'Redaktor paryskiej „Kultury”',
+    category: 'osoby',
+    tags: ['kultura', 'emigracja', 'literatura', 'opozycja'],
+    yearStart: 1947,
+    yearEnd: 1989,
+    summary: 'Twórca i redaktor emigracyjnej „Kultury”, najważniejszego ośrodka niezależnej polskiej myśli politycznej i literackiej w drugiej połowie XX wieku.',
+    content: `## Sylwetka
+Jerzy Giedroyc (1906–2000) był redaktorem i wydawcą, twórcą Instytutu Literackiego i miesięcznika „Kultura”, wydawanego pod Paryżem (Maisons-Laffitte) od 1947 roku.
+
+## „Kultura” paryska
+„Kultura” stała się najważniejszym pismem polskiej emigracji – łączyła wybitnych pisarzy (Miłosz, Gombrowicz, Herling-Grudziński) z odważną refleksją polityczną, docierając nielegalnie do kraju.
+
+## Doktryna ULB
+Giedroyc lansował koncepcję pojednania z Ukrainą, Litwą i Białorusią oraz uznania granic wschodnich – wizjonerską myśl, która wpłynęła na polską politykę po 1989 roku.
+
+## Most do kraju
+Mimo emigracji Giedroyc utrzymywał kontakt z opozycją w PRL, wspierał drugi obieg i publikował autorów krajowych, budując pomost między emigracją a krajem.
+
+## Znaczenie
+Uznawany za jednego z najważniejszych Polaków XX wieku, ukształtował niezależną myśl polityczną i kulturę poza zasięgiem cenzury.`,
+    resources: [
+      {
+        id: 'gie-1',
+        title: 'Giedroyc i „Kultura” – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Jerzy%20Giedroyc%20Kultura%20paryska%20emigracja',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o redaktorze i piśmie.',
+      },
+      {
+        id: 'gie-2',
+        title: 'Giedroyc – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Jerzy+Giedroyc+Kultura+paryska',
+        source: 'YouTube',
+        description: 'Wywiady i materiały filmowe.',
+      },
+      {
+        id: 'gie-3',
+        title: 'Pisma emigracyjne w Polonie',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Kultura%20paryska%20Instytut%20Literacki',
+        source: 'Polona',
+        description: 'Publikacje i druki emigracyjne.',
+      },
+    ],
+    relatedIds: ['kultura-paryz', 'milosz', 'herling-grudzinski', 'polacy-na-emigracji'],
+  },
+  {
+    id: 'herling-grudzinski',
+    title: 'Gustaw Herling-Grudziński',
+    subtitle: 'Autor „Innego świata”',
+    category: 'osoby',
+    tags: ['kultura', 'literatura', 'emigracja', 'więzień polityczny'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Pisarz i eseista, więzień sowieckiego łagru, autor „Innego świata” – jednego z najważniejszych świadectw o systemie obozów ZSRR.',
+    content: `## Sylwetka
+Gustaw Herling-Grudziński (1919–2000) był pisarzem, eseistą i krytykiem literackim, jednym z czołowych twórców polskiej emigracji, związanym z paryską „Kulturą”.
+
+## Łagier
+W czasie wojny został aresztowany przez NKWD i osadzony w sowieckim łagrze. Doświadczenia te opisał w książce „Inny świat” (1951) – wstrząsającym świadectwie nieludzkiego systemu obozowego.
+
+## „Inny świat”
+Książka, mimo uznania na Zachodzie, przez dekady była w PRL zakazana przez cenzurę. Krążyła w drugim obiegu, a jej znaczenie porównywano z dziełami Sołżenicyna.
+
+## „Dziennik pisany nocą”
+Przez lata tworzył „Dziennik pisany nocą” – wybitne dzieło eseistyczne łączące refleksję literacką, polityczną i moralną.
+
+## Znaczenie
+Herling-Grudziński należy do najważniejszych pisarzy polskich XX wieku, a jego świadectwo o łagrach pozostaje fundamentem pamięci o zbrodniach komunizmu.`,
+    resources: [
+      {
+        id: 'hg-1',
+        title: 'Herling-Grudziński – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Gustaw%20Herling-Grudzi%C5%84ski%20Inny%20%C5%9Bwiat%20%C5%82agier',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o pisarzu i jego twórczości.',
+      },
+      {
+        id: 'hg-2',
+        title: 'Teksty w Wolnych Lekturach',
+        type: 'publikacja',
+        url: 'https://wolnelektury.pl/szukaj/?q=Herling-Grudzi%C5%84ski',
+        source: 'Wolne Lektury',
+        description: 'Dostępne teksty literackie.',
+      },
+      {
+        id: 'hg-3',
+        title: 'Herling-Grudziński – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Gustaw+Herling-Grudzi%C5%84ski+Inny+%C5%9Bwiat',
+        source: 'YouTube',
+        description: 'Wywiady i materiały filmowe.',
+      },
+    ],
+    relatedIds: ['kultura-paryz', 'giedroyc', 'literatura-prl'],
+  },
+  {
+    id: 'ryszard-siwiec',
+    title: 'Ryszard Siwiec',
+    subtitle: 'Płonący protest przeciw przemocy',
+    category: 'osoby',
+    tags: ['represje', 'opozycja', 'protest', 'ofiara'],
+    yearStart: 1968,
+    yearEnd: 1968,
+    summary: 'Były żołnierz AK, który w 1968 roku dokonał samospalenia w proteście przeciw udziałowi LWP w inwazji na Czechosłowację – pierwszy taki akt w bloku wschodnim.',
+    content: `## Sylwetka
+Ryszard Siwiec (1909–1968) był księgowym, byłym żołnierzem Armii Krajowej, ojcem pięciorga dzieci. Głęboko przeżywał zniewolenie Polski i krajów bloku wschodniego.
+
+## Protest
+8 września 1968 roku, podczas dożynek na Stadionie Dziesięciolecia w Warszawie, w obecności tysięcy widzów i władz partyjnych, dokonał samospalenia w proteście przeciw udziałowi wojsk Układu Warszawskiego w inwazji na Czechosłowację.
+
+## Przemilczenie
+Władze natychmiast zatuszowały wydarzenie. Siwiec zmarł kilka dni później w szpitalu, a jego czyn przez lata pozostawał niemal nieznany w Polsce, wymazany przez cenzurę.
+
+## Pamięć
+Dopiero po latach, m.in. dzięki czeskim dokumentalistom i odzyskanym nagraniom, jego ofiara została przypomniana. Stał się symbolem indywidualnego sprzeciwu sumienia.
+
+## Znaczenie
+Protest Siwca – wcześniejszy niż głośne samospalenie Jana Palacha w Pradze – jest dziś upamiętniany jako akt heroicznej odwagi i moralnego świadectwa.`,
+    resources: [
+      {
+        id: 'siw-1',
+        title: 'Ryszard Siwiec – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Ryszard%20Siwiec%20samospalenie%201968%20protest',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o proteście i jego pamięci.',
+      },
+      {
+        id: 'siw-2',
+        title: 'Siwiec – dokument',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Ryszard+Siwiec+samospalenie+dokument',
+        source: 'YouTube',
+        description: 'Materiały filmowe o wydarzeniu.',
+      },
+      {
+        id: 'siw-3',
+        title: 'Dokumentacja archiwalna',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Ryszard%20Siwiec',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['praga-1968', 'represje-polityczne', 'uklad-warszawski'],
+  },
+  {
+    id: 'frasyniuk',
+    title: 'Władysław Frasyniuk',
+    subtitle: 'Przywódca dolnośląskiej Solidarności',
+    category: 'osoby',
+    tags: ['opozycja', 'solidarność', 'strajk', 'więzień polityczny'],
+    yearStart: 1980,
+    yearEnd: 1989,
+    summary: 'Robotnik i działacz Solidarności, lider podziemia na Dolnym Śląsku, wielokrotnie więziony za działalność opozycyjną w stanie wojennym.',
+    content: `## Sylwetka
+Władysław Frasyniuk (ur. 1954) był kierowcą autobusowym we Wrocławiu, który w 1980 roku stał się jednym z czołowych działaczy Solidarności na Dolnym Śląsku.
+
+## Sierpień 1980
+Współorganizował strajki we Wrocławiu i został przewodniczącym Zarządu Regionu Dolny Śląsk NSZZ „Solidarność”, jednego z największych regionów związku.
+
+## Podziemie
+Po wprowadzeniu stanu wojennego nie dał się internować i przeszedł do podziemia, współtworząc Regionalny Komitet Strajkowy. Stał się jednym z najbardziej poszukiwanych działaczy.
+
+## Więzienia
+Aresztowany w 1982 roku, był wielokrotnie skazywany i więziony. Mimo represji nie zaprzestał działalności, pozostając symbolem nieugiętości podziemnej Solidarności.
+
+## Znaczenie
+Frasyniuk należy do grona najważniejszych przywódców opozycji lat 80., uczestnik obrad Okrągłego Stołu i postać aktywna w życiu publicznym po 1989 roku.`,
+    resources: [
+      {
+        id: 'fra-1',
+        title: 'Frasyniuk – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=W%C5%82adys%C5%82aw%20Frasyniuk%20Solidarno%C5%9B%C4%87%20Dolny%20%C5%9Al%C4%85sk',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o działaczu i podziemiu.',
+      },
+      {
+        id: 'fra-2',
+        title: 'Frasyniuk – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=W%C5%82adys%C5%82aw+Frasyniuk+Solidarno%C5%9B%C4%87+stan+wojenny',
+        source: 'YouTube',
+        description: 'Wywiady i materiały filmowe.',
+      },
+      {
+        id: 'fra-3',
+        title: 'Akta SB',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Frasyniuk%20W%C5%82adys%C5%82aw',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne aparatu represji.',
+      },
+    ],
+    relatedIds: ['solidarnosc', 'podziemna-solidarnosc', 'bujak-zbigniew'],
+  },
+  {
+    id: 'edelman',
+    title: 'Marek Edelman',
+    subtitle: 'Bohater getta i działacz opozycji',
+    category: 'osoby',
+    tags: ['opozycja', 'solidarność', 'lekarz', 'społeczeństwo'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Ostatni przywódca powstania w getcie warszawskim, wybitny kardiolog i działacz opozycji demokratycznej, niezłomny głos sumienia.',
+    content: `## Sylwetka
+Marek Edelman (1919–2009) był jednym z przywódców powstania w getcie warszawskim w 1943 roku, a po wojnie – wybitnym kardiologiem i działaczem społecznym w Łodzi.
+
+## Pamięć o getcie
+Jako ostatni żyjący dowódca Żydowskiej Organizacji Bojowej był strażnikiem pamięci o powstaniu i Zagładzie, opisanej m.in. w rozmowie z Hanną Krall „Zdążyć przed Panem Bogiem”.
+
+## Lekarz
+W PRL pracował jako ceniony kardiolog. Mimo antysemickiej kampanii 1968 roku, która zmusiła wielu do emigracji, zdecydował się pozostać w Polsce.
+
+## Opozycja
+W latach 70. i 80. zaangażował się w działalność opozycyjną – współpracował z KOR i Solidarnością, był internowany w stanie wojennym i uczestniczył w obradach Okrągłego Stołu.
+
+## Znaczenie
+Marek Edelman pozostaje symbolem odwagi, wierności wartościom i niezależnego myślenia – łącznikiem między pamięcią o Zagładzie a walką o wolną Polskę.`,
+    resources: [
+      {
+        id: 'ede-1',
+        title: 'Marek Edelman – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Marek%20Edelman%20getto%20opozycja%20Solidarno%C5%9B%C4%87',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o działaczu i lekarzu.',
+      },
+      {
+        id: 'ede-2',
+        title: 'Edelman – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Marek+Edelman+wywiad+getto+wspomnienia',
+        source: 'YouTube',
+        description: 'Wywiady i materiały filmowe.',
+      },
+      {
+        id: 'ede-3',
+        title: 'Dokumentacja archiwalna',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Marek%20Edelman',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['kor', 'solidarnosc', 'marzec-1968', 'internowanie'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -12796,4 +13204,9 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1983, event: 'Debiut Lady Pank – „Kryzysowa narzeczona”', category: 'kultura', entryId: 'lady-pank' },
   { year: 1986, event: 'Wanda Rutkiewicz pierwszą kobietą na szczycie K2', category: 'społeczeństwo', entryId: 'wanda-rutkiewicz' },
   { year: 1987, event: 'Jerzy Kukuczka kończy Koronę Himalajów jako drugi człowiek na świecie', category: 'społeczeństwo', entryId: 'jerzy-kukuczka' },
+  { year: 1947, event: 'Jerzy Giedroyc zakłada paryską „Kulturę” – ośrodek niezależnej myśli', category: 'kultura', entryId: 'giedroyc' },
+  { year: 1966, event: 'Prawykonanie „Pasji wg św. Łukasza” Krzysztofa Pendereckiego', category: 'kultura', entryId: 'penderecki' },
+  { year: 1968, event: 'Ryszard Siwiec dokonuje samospalenia w proteście przeciw inwazji na Czechosłowację', category: 'represje', entryId: 'ryszard-siwiec' },
+  { year: 1980, event: 'Władysław Frasyniuk współtworzy Solidarność na Dolnym Śląsku', category: 'opozycja', entryId: 'frasyniuk' },
+  { year: 1983, event: 'Witold Lutosławski kończy III Symfonię – arcydzieło muzyki współczesnej', category: 'kultura', entryId: 'lutoslawski' },
 ];

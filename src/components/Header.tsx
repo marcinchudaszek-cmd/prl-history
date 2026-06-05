@@ -18,7 +18,10 @@ export default function Header({ onSearch, onNavigate, activeView }: HeaderProps
   const navItems = [
     { id: 'home', label: 'Strona główna' },
     { id: 'encyclopedia', label: 'Encyklopedia' },
+    { id: 'bios', label: 'Biogramy' },
     { id: 'timeline', label: 'Oś czasu' },
+    { id: 'map', label: 'Mapa' },
+    { id: 'slang', label: 'Słownik' },
     { id: 'archives', label: 'Archiwum' },
     { id: 'about', label: 'O projekcie' },
   ];
