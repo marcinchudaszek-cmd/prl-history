@@ -114,7 +114,6 @@ Stan wojenny był oficjalnie zawieszony 31 grudnia 1982 roku, a zniesiony 22 lip
     ],
     relatedIds: ['solidarnosc', 'jaruzelski', 'wujek', 'sbezpieczenstwa'],
   },
-
   {
     id: 'solidarnosc',
     title: 'NSZZ „Solidarność"',
@@ -177,7 +176,6 @@ Po wprowadzeniu stanu wojennego "Solidarność" działała w podziemiu jako Tymc
     ],
     relatedIds: ['stan-wojenny', 'okragly-stol', 'sierpien-1980', 'walesa'],
   },
-
   {
     id: 'czerwiec-1956',
     title: 'Poznański Czerwiec 1956',
@@ -232,7 +230,6 @@ Władze przez lata ukrywały prawdziwe informacje o wydarzeniach. Rehabilitacja 
     ],
     relatedIds: ['solidarnosc', 'gomulka', 'grudzien-1970'],
   },
-
   {
     id: 'grudzien-1970',
     title: 'Grudzień 1970',
@@ -280,7 +277,6 @@ Przez lata władze ukrywały skalę represji. Ciała ofiar chowano potajemnie, r
     ],
     relatedIds: ['czerwiec-1956', 'solidarnosc', 'gomulka', 'gierek'],
   },
-
   {
     id: 'okragly-stol',
     title: 'Obrady Okrągłego Stołu',
@@ -338,7 +334,6 @@ Okrągły Stół był wzorem dla pokojowych transformacji w innych krajach bloku
     ],
     relatedIds: ['solidarnosc', 'stan-wojenny', 'pzpr', 'walesa', 'jaruzelski'],
   },
-
   {
     id: 'pzpr',
     title: 'PZPR',
@@ -386,7 +381,6 @@ Na XI (ostatnim) Zjeździe w styczniu 1990 roku PZPR rozwiązała się, a częś
     ],
     relatedIds: ['stan-wojenny', 'okragly-stol', 'gomulka', 'gierek', 'bierut', 'jaruzelski'],
   },
-
   {
     id: 'sbezpieczenstwa',
     title: 'Służba Bezpieczeństwa (SB)',
@@ -444,7 +438,6 @@ SB prowadziła Sprawę Obiektową "Lato 80" (inwigilacja Solidarności), operacj
     ],
     relatedIds: ['stan-wojenny', 'represje-polityczne', 'pzpr', 'popieluszko'],
   },
-
   {
     id: 'sierpien-1980',
     title: 'Sierpień 1980 – Strajki',
@@ -501,7 +494,6 @@ Do MKS przyłączyło się ponad 700 zakładów pracy z całego Wybrzeża. Straj
     ],
     relatedIds: ['solidarnosc', 'stan-wojenny', 'grudzien-1970', 'walesa'],
   },
-
   {
     id: 'gospodarka-prl',
     title: 'Gospodarka PRL',
@@ -562,7 +554,6 @@ Powszechne zjawisko społeczne. "Dolar" i towary z Pewexu były twardą walutą 
     ],
     relatedIds: ['pzpr', 'stan-wojenny', 'gierek', 'nowa-huta'],
   },
-
   {
     id: 'kultura-prl',
     title: 'Kultura i sztuka w PRL',
@@ -628,7 +619,6 @@ Jerzy Grotowski, Tadeusz Kantor (Teatr Cricot 2) – artyści o światowej sław
     ],
     relatedIds: ['pzpr', 'sbezpieczenstwa', 'solidarnosc'],
   },
-
   {
     id: 'kosciol-prl',
     title: 'Kościół katolicki w PRL',
@@ -676,7 +666,6 @@ Zamordowany 19 października 1984 roku przez funkcjonariuszy SB. Jego śmierć w
     ],
     relatedIds: ['solidarnosc', 'stan-wojenny', 'sbezpieczenstwa', 'popieluszko'],
   },
-
   {
     id: 'nowa-huta',
     title: 'Nowa Huta',
@@ -719,7 +708,6 @@ Robotnicy Nowej Huty aktywnie uczestniczyli w strajkach 1980 roku i strukturach 
     ],
     relatedIds: ['gospodarka-prl', 'kultura-prl', 'solidarnosc'],
   },
-
   {
     id: 'gomulka',
     title: 'Władysław Gomułka',
@@ -776,7 +764,6 @@ Postać kontrowersyjna – architekt względnej liberalizacji po stalinizmie, al
     ],
     relatedIds: ['pzpr', 'czerwiec-1956', 'grudzien-1970', 'marzec-1968'],
   },
-
   {
     id: 'gierek',
     title: 'Edward Gierek',
@@ -832,7 +819,6 @@ W sierpniu 1980 roku, podczas strajków, Gierek był hospitalizowany. 6 wrześni
     ],
     relatedIds: ['pzpr', 'grudzien-1970', 'gospodarka-prl', 'sierpien-1980'],
   },
-
   {
     id: 'jaruzelski',
     title: 'Wojciech Jaruzelski',
@@ -891,7 +877,6 @@ W 2008 roku prokuratura IPN oskarżyła Jaruzelskiego o wydanie bezprawnych rozk
     ],
     relatedIds: ['stan-wojenny', 'pzpr', 'okragly-stol', 'solidarnosc'],
   },
-
   {
     id: 'walesa',
     title: 'Lech Wałęsa',
@@ -951,7 +936,6 @@ Wybrany w pierwszych wolnych wyborach prezydenckich. Jego prezydentura była naz
     ],
     relatedIds: ['solidarnosc', 'sierpien-1980', 'stan-wojenny', 'okragly-stol'],
   },
-
   {
     id: 'bierut',
     title: 'Bolesław Bierut',
@@ -1010,7 +994,6 @@ Bierut uczestniczył w XX Zjeździe KPZR, gdzie Chruszczow wygłosił tajny refe
     ],
     relatedIds: ['pzpr', 'represje-polityczne', 'gomulka'],
   },
-
   {
     id: 'kor',
     title: 'Komitet Obrony Robotników (KOR)',
@@ -1071,7 +1054,6 @@ Wielu działaczy KOR weszło do struktur doradczych NSZZ "Solidarność" (Kuroń
     ],
     relatedIds: ['czerwiec-1976', 'solidarnosc', 'sbezpieczenstwa', 'marzec-1968'],
   },
-
   {
     id: 'marzec-1968',
     title: 'Marzec 1968',
@@ -1129,7 +1111,6 @@ Setki studentów aresztowanych, relegowanych z uczelni, powołanych do wojska. W
     ],
     relatedIds: ['pzpr', 'sbezpieczenstwa', 'kultura-prl', 'kor', 'gomulka'],
   },
-
   {
     id: 'czerwiec-1976',
     title: 'Czerwiec 1976',
@@ -1178,7 +1159,6 @@ Czerwiec 1976 był bezpośrednim impulsem do powstania KOR i pośrednio – do n
     ],
     relatedIds: ['kor', 'solidarnosc', 'represje-polityczne', 'gierek'],
   },
-
   {
     id: 'popieluszko',
     title: 'Ks. Jerzy Popiełuszko',
@@ -1238,7 +1218,6 @@ Pogrzeb 3 listopada 1984 roku zgromadził szacunkowo 250 000–400 000 ludzi. Sp
     ],
     relatedIds: ['kosciol-prl', 'sbezpieczenstwa', 'solidarnosc', 'stan-wojenny'],
   },
-
   {
     id: 'wujek',
     title: 'Pacyfikacja KWK Wujek',
@@ -1296,7 +1275,6 @@ Przy kopalni stoi Pomnik Górników Poległych w Czasie Stanu Wojennego. 16 grud
     ],
     relatedIds: ['stan-wojenny', 'sbezpieczenstwa', 'solidarnosc', 'represje-polityczne'],
   },
-
   {
     id: 'represje-polityczne',
     title: 'Represje polityczne w PRL',
@@ -1358,7 +1336,6 @@ Po 1989 roku IPN wszczął setki śledztw w sprawie zbrodni komunistycznych. Wi�
     ],
     relatedIds: ['sbezpieczenstwa', 'stan-wojenny', 'wujek', 'pzpr', 'bierut'],
   },
-
   {
     id: 'lwp',
     title: 'Ludowe Wojsko Polskie',
@@ -1418,7 +1395,6 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     ],
     relatedIds: ['pzpr', 'stan-wojenny', 'grudzien-1970', 'jaruzelski'],
   },
-
   {
     id: 'wyszynski',
     title: 'Prymas Stefan Wyszyński',
@@ -1470,7 +1446,6 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     ],
     relatedIds: ['kosciol-prl', 'jan-pawel-ii', 'popieluszko', 'marzec-1968', 'bierut'],
   },
-
   {
     id: 'zolnierze-wykletci',
     title: 'Żołnierze Wyklęci',
@@ -1523,7 +1498,6 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     ],
     relatedIds: ['represje-polityczne', 'sbezpieczenstwa', 'bierut', 'manifest-pkwn'],
   },
-
   {
     id: 'zomo',
     title: 'ZOMO',
@@ -1574,7 +1548,6 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     ],
     relatedIds: ['stan-wojenny', 'wujek', 'represje-polityczne', 'sbezpieczenstwa', 'czerwiec-1976', 'grudzien-1970'],
   },
-
   {
     id: 'jan-pawel-ii',
     title: 'Jan Paweł II',
@@ -1629,7 +1602,6 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     ],
     relatedIds: ['wyszynski', 'solidarnosc', 'stan-wojenny', 'kosciol-prl', 'sierpien-1980'],
   },
-
   {
     id: 'manifest-pkwn',
     title: 'Manifest PKWN',
@@ -1689,7 +1661,6 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     ],
     relatedIds: ['pzpr', 'bierut', 'gomulka', 'kolektywizacja', 'gospodarka-prl'],
   },
-
   {
     id: 'kolektywizacja',
     title: 'Kolektywizacja rolnictwa',
@@ -1745,7 +1716,6 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     ],
     relatedIds: ['gospodarka-prl', 'bierut', 'gomulka', 'manifest-pkwn', 'czerwiec-1956'],
   },
-
   {
     id: 'drugi-obieg',
     title: 'Drugi obieg wydawniczy',
@@ -1803,7 +1773,6 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     ],
     relatedIds: ['kor', 'solidarnosc', 'kultura-prl', 'stan-wojenny', 'sierpien-1980'],
   },
-
   {
     id: 'mazowiecki',
     title: 'Tadeusz Mazowiecki',
@@ -1858,7 +1827,6 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     ],
     relatedIds: ['okragly-stol', 'solidarnosc', 'walesa', 'sierpien-1980', 'stan-wojenny'],
   },
-
   {
     id: 'stocznia-gdanska',
     title: 'Stocznia Gdańska',
@@ -1915,7 +1883,6 @@ Przed bramą stoczni wznosi się pomnik Poległych Stoczniowców 1970 – trzy k
     ],
     relatedIds: ['solidarnosc', 'sierpien-1980', 'walesa', 'grudzien-1970', 'kor'],
   },
-
   {
     id: 'radio-wolna-europa',
     title: 'Radio Wolna Europa',
@@ -1976,7 +1943,6 @@ Po 1989 roku misja RWE w Polsce stopniowo traciła rację bytu. Polska sekcja za
     ],
     relatedIds: ['kultura-prl', 'drugi-obieg', 'cenzura-prl', 'kor', 'solidarnosc'],
   },
-
   {
     id: 'cenzura-prl',
     title: 'Cenzura PRL',
@@ -2038,7 +2004,6 @@ GUKPPiW został zniesiony ustawą z 11 kwietnia 1990 roku – jednym z pierwszyc
     ],
     relatedIds: ['kultura-prl', 'drugi-obieg', 'radio-wolna-europa', 'represje-polityczne', 'pzpr'],
   },
-
   {
     id: 'pazdziernik-1956',
     title: 'Październik 1956',
@@ -2094,7 +2059,6 @@ Październik 1956 nie zmienił zasad systemu. Cenzura pozostała, Polska trwała
     ],
     relatedIds: ['gomulka', 'czerwiec-1956', 'bierut', 'wyszynski', 'pzpr'],
   },
-
   {
     id: 'ub',
     title: 'Urząd Bezpieczeństwa',
@@ -2156,7 +2120,6 @@ Po Październiku 1956 roku Ministerstwo Bezpieczeństwa Publicznego zostało roz
     ],
     relatedIds: ['represje-polityczne', 'sbezpieczenstwa', 'bierut', 'zolnierze-wykletci', 'wyszynski'],
   },
-
   {
     id: 'palac-kultury',
     title: 'Pałac Kultury i Nauki',
@@ -2215,7 +2178,6 @@ Po upadku PRL usunięto z nazwy człon upamiętniający Stalina. Dyskusja o wybu
     ],
     relatedIds: ['bierut', 'kultura-prl', 'manifest-pkwn', 'kolektywizacja', 'nowa-huta'],
   },
-
   {
     id: 'strajki-1988',
     title: 'Strajki 1988',
@@ -2271,7 +2233,6 @@ Pod wpływem strajków gen. Czesław Kiszczak podjął pierwsze rozmowy z Wałę
     ],
     relatedIds: ['okragly-stol', 'solidarnosc', 'walesa', 'stan-wojenny', 'zomo'],
   },
-
   {
     id: 'nomenklatura',
     title: 'Nomenklatura',
@@ -2336,7 +2297,6 @@ Po 1989 roku wielu przedstawicieli nomenklatury sprawnie dokonało transformacji
     ],
     relatedIds: ['pzpr', 'gospodarka-prl', 'gierek', 'gomulka', 'bierut'],
   },
-
   {
     id: 'katyn',
     title: 'Zbrodnia Katyńska',
@@ -2393,7 +2353,6 @@ Przez całe istnienie PRL (1944–1989) komunistyczne władze podtrzymywały kł
     ],
     relatedIds: ['represje-polityczne', 'ub', 'manifest-pkwn', 'bierut', 'zolnierze-wykletci'],
   },
-
   {
     id: 'milicja',
     title: 'Milicja Obywatelska',
@@ -2456,7 +2415,6 @@ Milicja była powszechnie obecna w życiu codziennym. Legitymowanie obywateli, �
     ],
     relatedIds: ['zomo', 'sbezpieczenstwa', 'ub', 'stan-wojenny', 'grudzien-1970'],
   },
-
   {
     id: 'kino-prl',
     title: 'Polska Szkoła Filmowa',
@@ -2519,7 +2477,6 @@ Wszystkie filmy powstawały w państwowych wytwórniach i podlegały cenzurze. S
     ],
     relatedIds: ['kultura-prl', 'cenzura-prl', 'drugi-obieg', 'solidarnosc'],
   },
-
   {
     id: 'propaganda-prl',
     title: 'Propaganda PRL',
@@ -2584,7 +2541,6 @@ Społeczeństwo nauczyło się czytać między wierszami. Żarty polityczne (kaw
     ],
     relatedIds: ['kultura-prl', 'cenzura-prl', 'pzpr', 'radio-wolna-europa', 'drugi-obieg'],
   },
-
   {
     id: 'akcja-wisla',
     title: 'Akcja Wisła',
@@ -2642,7 +2598,6 @@ Przez dekady Akcja Wisła była tematem tabu w PRL. Dopiero po 1989 roku możliw
     ],
     relatedIds: ['represje-polityczne', 'ub', 'manifest-pkwn', 'zolnierze-wykletci'],
   },
-
   {
     id: 'plan-szescioletni',
     title: 'Plan sześcioletni',
@@ -2707,7 +2662,6 @@ Wybuch robotniczego buntu w Poznaniu w czerwcu 1956 roku był bezpośrednią rea
     ],
     relatedIds: ['gospodarka-prl', 'nowa-huta', 'bierut', 'kolektywizacja', 'czerwiec-1956'],
   },
-
   {
     id: 'wzz',
     title: 'Wolne Związki Zawodowe',
@@ -2764,7 +2718,6 @@ Członkowie WZZ byli stale inwigilowani, zatrzymywani, zwalniani z pracy. Anna W
     ],
     relatedIds: ['solidarnosc', 'sierpien-1980', 'walesa', 'kor', 'stocznia-gdanska'],
   },
-
   {
     id: 'kultura-paryz',
     title: 'Kultura Paryska',
@@ -2825,7 +2778,6 @@ Instytut Literacki wydał setki książek – autorów zakazanych w PRL, dokumen
     ],
     relatedIds: ['kultura-prl', 'drugi-obieg', 'cenzura-prl', 'radio-wolna-europa', 'kino-prl'],
   },
-
   {
     id: 'uklad-warszawski',
     title: 'Układ Warszawski',
@@ -2885,7 +2837,6 @@ Układ Warszawski rozwiązano 1 lipca 1991 roku – po upadku komunizmu w Europi
     ],
     relatedIds: ['lwp', 'marzec-1968', 'stan-wojenny', 'jaruzelski', 'manifest-pkwn'],
   },
-
   {
     id: 'referendum-1946',
     title: 'Referendum ludowe 1946',
@@ -2941,7 +2892,6 @@ Oszukańcze referendum utorowało drogę do sfałszowanych wyborów w styczniu 1
     ],
     relatedIds: ['wybory-1947', 'pzpr', 'bierut', 'ub', 'manifest-pkwn'],
   },
-
   {
     id: 'wybory-1947',
     title: 'Wybory 1947',
@@ -2997,7 +2947,6 @@ W 1948 roku PPR połączyła się z PPS (pod przymusem), tworząc PZPR. Polska s
     ],
     relatedIds: ['referendum-1946', 'pzpr', 'bierut', 'ub', 'represje-polityczne'],
   },
-
   {
     id: 'emigracja-1968',
     title: 'Emigracja Żydów po Marcu 1968',
@@ -3054,7 +3003,6 @@ Po emigracji 1968 roku żydowska społeczność w Polsce została praktycznie zl
     ],
     relatedIds: ['marzec-1968', 'represje-polityczne', 'pzpr', 'sbezpieczenstwa', 'gomulka'],
   },
-
   {
     id: 'ziemie-odzyskane',
     title: 'Ziemie Odzyskane',
@@ -3119,7 +3067,6 @@ Zachodnia granica na Odrze i Nysie była przez dekady kontestowana przez RFN. Os
     ],
     relatedIds: ['jalta', 'deportacje', 'akcja-wisla', 'manifest-pkwn', 'bierut'],
   },
-
   {
     id: 'sport-prl',
     title: 'Sport w PRL',
@@ -3192,7 +3139,6 @@ Za sukcesami stało zawodowe podejście, świetni trenerzy i system wyławiania 
     ],
     relatedIds: ['gospodarka-prl', 'propaganda-prl', 'gierek', 'kultura-prl', 'hermaszewski'],
   },
-
   {
     id: 'fiat-126p',
     title: 'Fiat 126p – Maluch',
@@ -3252,7 +3198,6 @@ Po upadku PRL Maluch stał się tanim środkiem transportu, a później obiektem
     ],
     relatedIds: ['gierek', 'gospodarka-prl', 'nomenklatura', 'plan-szescioletni'],
   },
-
   {
     id: 'nacjonalizacja',
     title: 'Nacjonalizacja przemysłu i handlu',
@@ -3312,7 +3257,6 @@ Nacjonalizacja zniszczyła klasę przedsiębiorców i kupców. Gospodarka stała
     ],
     relatedIds: ['manifest-pkwn', 'gospodarka-prl', 'plan-szescioletni', 'kolektywizacja', 'bierut'],
   },
-
   {
     id: 'milosz',
     title: 'Czesław Miłosz',
@@ -3383,7 +3327,6 @@ Miłosz jest autorem „Traktatu moralnego", „Ziemi Ulro", „Roku myśliwego"
     ],
     relatedIds: ['literatura-prl', 'kultura-paryz', 'herbert', 'cenzura-prl', 'drugi-obieg'],
   },
-
   {
     id: 'herbert',
     title: 'Zbigniew Herbert',
@@ -3446,7 +3389,6 @@ Jego poezja jest przetłumaczona na kilkadziesiąt języków. Jest to jedna z po
     ],
     relatedIds: ['literatura-prl', 'kultura-prl', 'milosz', 'drugi-obieg', 'cenzura-prl'],
   },
-
   {
     id: 'walentynowicz',
     title: 'Anna Walentynowicz',
@@ -3513,7 +3455,6 @@ Walentynowicz do końca życia czuła, że jest niedoceniana. Historia oddaje je
     ],
     relatedIds: ['sierpien-1980', 'stocznia-gdanska', 'walesa', 'solidarnosc', 'wzz'],
   },
-
   {
     id: 'mikolajczyk',
     title: 'Stanisław Mikołajczyk i PSL',
@@ -3580,7 +3521,6 @@ W PRL Mikołajczyk był postacią przemilczaną lub demonizowaną. Oficjalna his
     ],
     relatedIds: ['wybory-prl', 'referendum-1946', 'manifest-pkwn', 'bierut', 'ub'],
   },
-
   {
     id: 'zycie-codzienne',
     title: 'Życie codzienne w PRL',
@@ -3640,7 +3580,6 @@ PRL zapewniał też gwarancje, które po 1989 roku zniknęły – zatrudnienie (
     ],
     relatedIds: ['gospodarka-prl', 'fiat-126p', 'nomenklatura', 'nowa-huta', 'gierek'],
   },
-
   {
     id: 'edukacja-prl',
     title: 'Edukacja i szkoła w PRL',
@@ -3713,7 +3652,6 @@ PRL dał Polsce masową edukację – i to jest realne osiągnięcie. Ale też w
     ],
     relatedIds: ['dzieci-prl', 'zmp', 'propaganda-prl', 'marzec-1968', 'socrealizm'],
   },
-
   {
     id: 'nzs',
     title: 'NZS – Niezależne Zrzeszenie Studentów',
@@ -3778,7 +3716,6 @@ NZS był dowodem, że wolnościowy impuls Solidarności dosięgnął całego spo
     ],
     relatedIds: ['solidarnosc', 'marzec-1968', 'kor', 'stan-wojenny', 'okragly-stol'],
   },
-
   {
     id: 'internowanie',
     title: 'Internowanie w stanie wojennym',
@@ -3849,7 +3786,6 @@ Po 1989 roku postępowania karne wobec sprawców internowania toczyły się lata
     ],
     relatedIds: ['stan-wojenny', 'solidarnosc', 'walesa', 'kuron', 'michnik'],
   },
-
   {
     id: 'michnik',
     title: 'Adam Michnik',
@@ -3914,7 +3850,6 @@ Michnik jest symbolem liberalnej lewicy i dialogu. Jego teza o „grubej kresce"
     ],
     relatedIds: ['kor', 'marzec-1968', 'okragly-stol', 'kuron', 'stan-wojenny'],
   },
-
   {
     id: 'kuron',
     title: 'Jacek Kuroń',
@@ -3979,7 +3914,6 @@ Kuroń był człowiekiem pełnym sprzeczności: dawny komunista, który stał si
     ],
     relatedIds: ['kor', 'marzec-1968', 'sierpien-1980', 'okragly-stol', 'czerwiec-1976'],
   },
-
   {
     id: 'podziemna-solidarnosc',
     title: 'Podziemna Solidarność',
@@ -4039,7 +3973,6 @@ Przez kurierów i przez Kościół podziemna Solidarność utrzymywała stały k
     ],
     relatedIds: ['solidarnosc', 'stan-wojenny', 'drugi-obieg', 'strajki-1988', 'internowanie'],
   },
-
   {
     id: 'kapuscinski',
     title: 'Ryszard Kapuściński',
@@ -4102,7 +4035,6 @@ Kapuściński był wielokrotnie wymieniany jako kandydat do Nagrody Nobla. Stwor
     ],
     relatedIds: ['literatura-prl', 'prasa-prl', 'wywiad-prl', 'kultura-prl', 'milosz'],
   },
-
   {
     id: 'kpn',
     title: 'Konfederacja Polski Niepodległej',
@@ -4161,7 +4093,6 @@ KPN weszła do parlamentu w wyborach 1991 roku. Moczulski przez lata był posłe
     ],
     relatedIds: ['kor', 'solidarnosc', 'drugi-obieg', 'nzs', 'represje-polityczne'],
   },
-
   {
     id: 'kobiety-prl',
     title: 'Kobiety w PRL',
@@ -4234,7 +4165,6 @@ Internowanie w stanie wojennym dotknęło też kobiety – działaczki Solidarno
     ],
     relatedIds: ['dzieci-prl', 'prasa-prl', 'solidarnosc', 'edukacja-prl', 'sluzba-zdrowia-prl'],
   },
-
   {
     id: 'rakowski',
     title: 'Mieczysław Rakowski',
@@ -4291,7 +4221,6 @@ W lipcu 1989 roku Rakowski objął funkcję I sekretarza KC PZPR – kiedy parti
     ],
     relatedIds: ['pzpr', 'okragly-stol', 'solidarnosc', 'strajki-1988', 'mazowiecki'],
   },
-
   {
     id: 'rwpg',
     title: 'RWPG – Rada Wzajemnej Pomocy Gospodarczej',
@@ -4356,7 +4285,6 @@ RWPG rozwiązała się w 1991 roku, gdy upadły komunistyczne rządy i rynki wsc
     ],
     relatedIds: ['gospodarka-prl', 'plan-szescioletni', 'gierek', 'uklad-warszawski', 'jalta'],
   },
-
   {
     id: 'szymborska',
     title: 'Wisława Szymborska',
@@ -4419,7 +4347,6 @@ Ostatnie lata życia spędziła w Krakowie, otoczona gronem przyjaciół. Pisał
     ],
     relatedIds: ['literatura-prl', 'kultura-prl', 'milosz', 'herbert', 'cenzura-prl'],
   },
-
   {
     id: 'geremek',
     title: 'Bronisław Geremek',
@@ -4482,7 +4409,6 @@ Geremek łączył w sobie rzadką kombinację: wybitny uczony i skuteczny polity
     ],
     relatedIds: ['solidarnosc', 'okragly-stol', 'sierpien-1980', 'mazowiecki', 'michnik'],
   },
-
   {
     id: 'ppr',
     title: 'Polska Partia Robotnicza',
@@ -4539,70 +4465,6 @@ W grudniu 1948 roku na Kongresie Zjednoczeniowym PPR i PPS (Polska Partia Socjal
     ],
     relatedIds: ['pzpr', 'bierut', 'gomulka', 'manifest-pkwn', 'wybory-1947'],
   },
-
-  {
-    id: 'muzyka-rockowa',
-    title: 'Muzyka rockowa w PRL',
-    subtitle: 'Perfect, Kult, Lady Pank – rock jako głos pokolenia',
-    category: 'kultura',
-    tags: ['rock', 'Perfect', 'Kult', 'Lady Pank', 'TSA', 'Republika', 'Jarocin', 'muzyka'],
-    yearStart: 1970,
-    yearEnd: 1989,
-    summary: 'Muzyka rockowa w PRL rozwijała się mimo cenzury i niechęci władz, stając się ważnym narzędziem wyrazu pokoleniowego. Festiwal w Jarocinie był największym rockowym zlotusem w bloku wschodnim. Zespoły takie jak Perfect, Kult, Lady Pank, TSA i Republika tworzyły muzykę, w której młodzież odnajdywała prawdę o swojej rzeczywistości.',
-    content: `Rock dotarł do Polski w latach 60. – Radio Luksemburg, Radio Wolna Europa i przemycane płyty przyniosły The Beatles, Rolling Stones i Hendrixa. Władze PRL traktowały rock z podejrzliwością jako "muzykę imperializmu", jednak nie zdołały go wyeliminować.
-
-**Pionierzy polskiego rocka:**
-Czesław Niemen – jeden z pierwszych polskich twórców łączących rock z poezją ("Dziwny jest ten świat", 1967). Breakout i Grupa ABC – pierwsze prawdziwie rockowe zespoły. Budka Suflera działała od 1974 roku.
-
-**Lata 80. – złota era:**
-Dekada stanu wojennego paradoksalnie była złotym wiekiem polskiego rocka. Młodzież szukała prawdy i ekspresji poza oficjalnym przekazem:
-- **Perfect** – "Chcemy być sobą", "Autobiografia"
-- **Kult** (Kazik Staszewski) – teksty wprost uderzające w system
-- **Lady Pank** – elegancki rock z tekstami Andrzeja Mogielnickiego
-- **TSA** – ciężki metal, "51"
-- **Republika** – new wave, "Biała flaga", "Telefony"
-- **Dezerter** – punk, ostry sprzeciw wobec stanu wojennego
-
-**Festiwal w Jarocinie:**
-Od 1980 roku corocznie odbywał się Festiwal Muzyków Rockowych w Jarocinie – największy rockowy festiwal w bloku wschodnim. Gromadził dziesiątki tysięcy uczestników. Władze tolerowały go jako "wentyl bezpieczeństwa". Jarocin był przestrzenią wolności – alternatywnych stylów życia, punków, metalowców, hippisów.
-
-**Cenzura i nagrania:**
-Teksty piosenek podlegały cenzurze – zanim płyta trafiła do tłoczni, musiała przejść kontrolę. Wiele nagrań było blokowanych lub zmuszano zespoły do zmiany tekstów. Mimo to muzyka rockowa docierała do słuchaczy.`,
-    resources: [
-      {
-        id: 'rock-1',
-        title: 'Jarocin – festiwal wolności, NINATEKA',
-        type: 'film',
-        url: 'https://ninateka.pl/vod/szukaj?query=Jarocin%20festiwal%20wolno%C5%9Bci',
-        source: 'NINATEKA / Filmoteka Narodowa',
-        description: 'Archiwalne nagrania z Festiwalu w Jarocinie i dokumenty o polskiej muzyce rockowej.',
-        year: 1980,
-        downloadable: false,
-      },
-      {
-        id: 'rock-2',
-        title: 'Muzyka rockowa PRL – archiwum Polony',
-        type: 'zdjęcie',
-        url: 'https://polona.pl/search/?query=Muzyka%20rockowa%20Polony',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Okładki płyt, plakaty koncertowe i prasa muzyczna z epoki PRL.',
-        year: 1975,
-        downloadable: true,
-      },
-      {
-        id: 'rock-3',
-        title: 'Rock i cenzura – materiały edukacyjne IPN',
-        type: 'publikacja',
-        url: 'https://edukacja.ipn.gov.pl/edu/materialy-edukacyjne?search=Rock%20cenzura',
-        source: 'IPN Edukacja',
-        description: 'Materiały o muzyce rockowej jako formie oporu kulturowego i stosunku władz do rocka.',
-        year: 1980,
-        downloadable: false,
-      },
-    ],
-    relatedIds: ['kultura-prl', 'cenzura-prl', 'zycie-codzienne', 'propaganda-prl', 'kino-prl'],
-  },
-
   {
     id: 'gorbaczow',
     title: 'Gorbaczow i pierestrojka',
@@ -4662,7 +4524,6 @@ Reformy Gorbaczowa uwolniły odśrodkowe siły, których nie mógł kontrolować
     ],
     relatedIds: ['okragly-stol', 'katyn', 'uklad-warszawski', 'pzpr', 'strajki-1988'],
   },
-
   {
     id: 'wybory-1989',
     title: 'Wybory 4 czerwca 1989',
@@ -4718,7 +4579,6 @@ Wynik polskich wyborów zainspirował Węgry, NRD, Czechosłowację, Bułgarię 
     ],
     relatedIds: ['okragly-stol', 'solidarnosc', 'mazowiecki', 'walesa', 'strajki-1988'],
   },
-
   {
     id: 'wczasy-fwp',
     title: 'Wczasy FWP',
@@ -4778,7 +4638,6 @@ Wczasy FWP są dziś przedmiotem nostalgii – jako symbol beztroskiego lata, pr
     ],
     relatedIds: ['zycie-codzienne', 'gospodarka-prl', 'nomenklatura', 'gierek', 'sport-prl'],
   },
-
   {
     id: 'ucieczki-z-prl',
     title: 'Ucieczki z PRL',
@@ -4841,7 +4700,6 @@ Po 13 grudnia 1981 roku wielu działaczy Solidarności, którzy zdołali wyjecha
     ],
     relatedIds: ['represje-polityczne', 'emigracja-1968', 'kultura-paryz', 'milosz', 'stan-wojenny'],
   },
-
   {
     id: 'lem',
     title: 'Stanisław Lem',
@@ -4908,7 +4766,6 @@ Lem jest patronem nauki o przyszłości, cyberprzestrzeni i etyce technologiczne
     ],
     relatedIds: ['literatura-prl', 'kultura-prl', 'nauka-prl', 'cenzura-prl', 'milosz'],
   },
-
   {
     id: 'wajda',
     title: 'Andrzej Wajda',
@@ -4971,7 +4828,6 @@ Wajda nauczył świat patrzeć na Polskę przez pryzmat jej tragicznej historii.
     ],
     relatedIds: ['polska-szkola-filmowa', 'kino-moralnego-niepokoju', 'kino-prl', 'solidarnosc', 'katyn'],
   },
-
   {
     id: 'jazz-prl',
     title: 'Jazz w Polsce Ludowej',
@@ -5038,7 +4894,6 @@ Ten paradoks – muzyka wolności w systemie zniewolenia – jest jednym z najci
     ],
     relatedIds: ['kultura-prl', 'komeda', 'muzyka-powazna-prl', 'radio-prl', 'pazdziernik-1956'],
   },
-
   {
     id: 'wiezienia-polityczne',
     title: 'Więzienia polityczne PRL',
@@ -5103,7 +4958,6 @@ Po Październiku 1956 masowy terror zelżał, lecz więzienia polityczne nie zni
     ],
     relatedIds: ['represje-polityczne', 'ub', 'zolnierze-wykletci', 'internowanie', 'katyn'],
   },
-
   {
     id: 'tvp-prl',
     title: 'Telewizja Polska w PRL',
@@ -5167,7 +5021,6 @@ W czasie stanu wojennego wiele rodzin bojkotowało telewizję o godzinie Dzienni
     ],
     relatedIds: ['propaganda-prl', 'kultura-prl', 'cenzura-prl', 'kino-prl', 'stan-wojenny'],
   },
-
   {
     id: 'wies-prl',
     title: 'Wieś i chłopi w PRL',
@@ -5227,7 +5080,6 @@ Polska wieś intensywnie "wylewała się" do miast – miliony chłopów stały 
     ],
     relatedIds: ['kolektywizacja', 'reforma-rolna', 'gospodarka-prl', 'plan-szescioletni', 'akcja-wisla'],
   },
-
   {
     id: 'solidarnosc-rolnikow',
     title: 'Solidarność Rolników Indywidualnych',
@@ -5287,7 +5139,6 @@ Po 13 grudnia 1981 roku NSZZ RI zdelegalizowano wraz z innymi strukturami Solida
     ],
     relatedIds: ['solidarnosc', 'wies-prl', 'kolektywizacja', 'stan-wojenny', 'sierpien-1980'],
   },
-
   {
     id: 'pgwn',
     title: 'Sowieci w Polsce – Północna Grupa Wojsk',
@@ -5344,7 +5195,6 @@ Negocjacje o wycofaniu wojsk sowieckich rozpoczęły się w 1990 roku. Ostatni �
     ],
     relatedIds: ['uklad-warszawski', 'lwp', 'manifest-pkwn', 'stan-wojenny', 'gorbaczow'],
   },
-
   {
     id: 'cyrankiewicz',
     title: 'Józef Cyrankiewicz',
@@ -5401,68 +5251,6 @@ Grudzień 1970 r. – masakra na Wybrzeżu – przyspieszył jego odejście z ce
     ],
     relatedIds: ['bierut', 'gomulka', 'gierek', 'pzpr', 'plan-szescioletni'],
   },
-
-  {
-    id: 'mieszkanie-prl',
-    title: 'Mieszkalnictwo w PRL',
-    subtitle: 'Bloki z wielkiej płyty i wieczne kolejki po przydział M',
-    category: 'społeczeństwo',
-    tags: ['mieszkanie', 'bloki', 'spółdzielnia', 'budownictwo', 'wielka płyta', 'M3', 'kolejka', 'osiedle'],
-    yearStart: 1945,
-    yearEnd: 1989,
-    summary: 'Masowe budownictwo mieszkaniowe w PRL – tysiące bloków z wielkiej płyty – rozwiązało powojenną biedę mieszkaniową, lecz stworzyło nowe problemy: wieloletnie kolejki po przydział, uniformizm i złą jakość wykonania.',
-    content: `## Zniszczenia wojenne i potrzeba odbudowy
-
-II wojna światowa zniszczyła ok. 30% zasobu mieszkaniowego Polski. Miliony ludzi żyły w gruzach, piwnicach i prowizorycznych barakach. Jednocześnie industrializacja lat 50. XX w. ściągała masy chłopów do miast – potrzeba mieszkań była ogromna i pilna.
-
-## Wielka płyta – fabryka domów
-
-Od lat 60. podstawą budownictwa stała się technologia wielkopłytowa – prefabrykaty wytwarzane seryjnie w fabrykach domów. Osiedla bloków rosły błyskawicznie wokół wszystkich większych miast: Nowa Huta, Ursynów (Warszawa), Zaspa (Gdańsk), Tysiąclecia (Katowice), Rataje (Poznań). Do 1989 r. wybudowano ok. 3–3,5 mln mieszkań w tej technologii.
-
-## Spółdzielnie i przydział
-
-Mieszkania rozdzielano przez spółdzielnie mieszkaniowe i zakłady pracy. Pracownicy dużych fabryk mieli pierwszeństwo. Na przydział czekało się średnio 10–15 lat. Wykształciła się instytucja "zamiany" mieszkań – gdyż rynek mieszkaniowy oficjalnie nie istniał. Czarny rynek i łapówki dla spółdzielczych komisji mieszkaniowych były powszechne.
-
-## Warunki lokalowe
-
-Standardowe "M3" (2 pokoje + kuchnia) miało ok. 40–45 m². Rodziny wielopokoleniowe i wielodzietne cierpiały na przeludnienie. Brakujące windy, cienkie ściany, grzyb, awarie centralnego ogrzewania i wody – to codzienność blokowiska. Mimo to własne "M" było dla milionów Polaków wymarzonym celem i symbolem awansu społecznego.
-
-## Dziedzictwo
-
-Wielka płyta okazała się trwalsza, niż sądzono. Dziś polskie blokowiska przeszły rewitalizację – ocieplane, remontowane, z kolorowymi elewacjami. Dla pokolenia PRL blok był spełnieniem marzeń; dla kolejnych – nostalgicznym reliktem epoki.`,
-    resources: [
-      {
-        id: 'mieszkanie-1',
-        title: 'Fotografie blokowisk PRL – Polona',
-        type: 'zdjęcie',
-        url: 'https://polona.pl/search/?query=Fotografie%20blokowisk',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Archiwalne fotografie osiedli wielopłytowych i wnętrz mieszkań z epoki PRL.',
-        year: 1960,
-        downloadable: true,
-      },
-      {
-        id: 'mieszkanie-2',
-        title: 'Dokumenty spółdzielni mieszkaniowych',
-        type: 'akt',
-        url: 'https://szukajwarchiwach.gov.pl/szukaj?q=sp%C3%B3%C5%82dzielni%20mieszkaniowych',
-        source: 'Naczelna Dyrekcja Archiwów Państwowych',
-        description: 'Archiwalne dokumenty spółdzielni mieszkaniowych i uchwały o przydziale lokali.',
-        year: 1960,
-      },
-      {
-        id: 'mieszkanie-3',
-        title: 'Kroniki filmowe – nowe osiedla mieszkaniowe',
-        type: 'film',
-        url: 'https://ninateka.pl/vod/szukaj?query=Kroniki%20filmowe%20nowe',
-        source: 'NINATEKA – Narodowy Instytut Audiowizualny',
-        description: 'Kroniki Filmowe PRL dokumentujące oddawanie kolejnych bloków i osiedli mieszkaniowych.',
-        year: 1965,
-      },
-    ],
-    relatedIds: ['zycie-codzienne', 'plan-szescioletni', 'gierek', 'wies-prl'],
-  },
-
   {
     id: 'kartki-prl',
     title: 'Kartki żywnościowe i reglamentacja',
@@ -5524,7 +5312,6 @@ Kartki znoszono stopniowo: cukier w 1985 r., mięso w 1989 r. Reforma Balcerowic
     ],
     relatedIds: ['zycie-codzienne', 'stan-wojenny', 'gierek', 'strajki-1988'],
   },
-
   {
     id: 'paszport-prl',
     title: 'Paszporty i ograniczenia wyjazdowe',
@@ -5585,7 +5372,6 @@ Dopiero w 1988 r. złagodzono przepisy, a 1 stycznia 1989 r. weszła w życie no
     ],
     relatedIds: ['sb', 'emigracja-1968', 'ucieczki-z-prl', 'stan-wojenny', 'internowanie'],
   },
-
   {
     id: 'prasa-prl',
     title: 'Prasa i media w PRL',
@@ -5656,7 +5442,6 @@ Alternatywą były Radio Wolna Europa i głos Ameryki – słuchane nielegalnie 
     ],
     relatedIds: ['cenzura-prl', 'propaganda-prl', 'drugi-obieg', 'tygodnik-powszechny', 'radio-wolna-europa'],
   },
-
   {
     id: 'kielce-1946',
     title: 'Pogrom kielecki 1946',
@@ -5714,7 +5499,6 @@ Pogrom kielecki przyspieszyć masową emigrację polskich Żydów na Zachód i d
     ],
     relatedIds: ['marzec-1968', 'emigracja-1968', 'represje-polityczne', 'deportacje', 'manifest-pkwn'],
   },
-
   {
     id: 'pewex',
     title: 'Pewex i Baltona',
@@ -5775,68 +5559,6 @@ W 1990 r., po urynkowieniu i otwarciu granic, Pewex stracił rację bytu. Sklepy
     ],
     relatedIds: ['kartki-prl', 'zycie-codzienne', 'gospodarka-prl', 'gierek', 'ucieczki-z-prl'],
   },
-
-  {
-    id: 'kiesklowski',
-    title: 'Krzysztof Kieślowski',
-    subtitle: 'Dekalog, Trzy kolory – mistrz kina moralnego i metafizycznego (1941–1996)',
-    category: 'osoby',
-    tags: ['Kieślowski', 'Dekalog', 'Trzy kolory', 'kino', 'reżyser', 'Łódź', 'Cannes', 'metafizyka'],
-    yearStart: 1941,
-    yearEnd: 1996,
-    summary: 'Krzysztof Kieślowski – reżyser "Dekalogu", trylogii "Trzy kolory" i "Podwójnego życia Weroniki" – był jednym z największych twórców kina europejskiego. Zaczynał od dokumentu, by przez kino moralnego niepokoju dojść do filmów o tajemnicy istnienia.',
-    content: `## Droga przez dokument
-
-Kieślowski (ur. 27 VI 1941 w Warszawie) studiował w łódzkiej filmówce. Przez całe lata 70. tworzył dokumenty – "Robotnicy 71" (1972), "Z punktu widzenia nocnego portiera" (1977) – ostre, bezkompromisowe obrazy PRL-owskiej rzeczywistości. Cenzura blokowała część z nich lub nakazywała skróty.
-
-## Kino moralnego niepokoju
-
-Kieślowski był jednym z liderów "kina moralnego niepokoju" – nurtu lat 70./80. zadającego pytania o odpowiedzialność moralną jednostki w systemie. "Amator" (1979) i "Przypadek" (1981, zakazany do 1987 r.) to jego kluczowe filmy z tego okresu. "Przypadek" opowiada o trzech wariantach życia bohatera – zależnych od przypadkowego zdarzenia.
-
-## Dekalog (1988)
-
-Dziesięć filmów telewizyjnych nakręconych dla TVP – każdy inspirowany jednym z przykazań dekalogu – jest arcydziełem kina. Kręcone w blokach na Ursynowie, poruszają kwestie śmierci, wierności, kłamstwa, miłości. Dwa rozwinął w pełne metraże: "Krótki film o zabijaniu" i "Krótki film o miłości" zdobyły nagrody na festiwalach europejskich.
-
-## Trylogia "Trzy kolory" i emigracja
-
-Po 1989 r. Kieślowski porzucił Polskę dla koprodukcji francusko-polskiej. "Podwójne życie Weroniki" (1991), "Niebieski", "Biały", "Czerwony" (1993–1994) – trylogia inspirowana barwami flagi francuskiej i wartościami Rewolucji – przyniosły mu światową sławę. "Czerwony" zdobył Nagrodę Jury w Cannes (1994).
-
-## Śmierć i dziedzictwo
-
-Kieślowski ogłosił zakończenie reżyserii po "Czerwonym" – i umarł nagle na serce 13 marca 1996 r. Jego filmy są dziś klasiką kina światowego, wykładaną na uczelniach filmowych.`,
-    resources: [
-      {
-        id: 'kiesl-1',
-        title: 'Filmy Kieślowskiego – NINATEKA',
-        type: 'film',
-        url: 'https://ninateka.pl/vod/szukaj?query=Kie%C5%9Blowski',
-        source: 'NINATEKA – Narodowy Instytut Audiowizualny',
-        description: 'Archiwalne filmy Krzysztofa Kieślowskiego dostępne w cyfrowym archiwum.',
-        year: 1972,
-      },
-      {
-        id: 'kiesl-2',
-        title: 'Materiały o Kieślowskim – Polona',
-        type: 'publikacja',
-        url: 'https://polona.pl/search/?query=Kie%C5%9Blowskim',
-        source: 'Biblioteka Narodowa / Polona',
-        description: 'Zdigitalizowane wywiady, recenzje i materiały prasowe o Krzysztofie Kieślowskim.',
-        year: 1979,
-        downloadable: true,
-      },
-      {
-        id: 'kiesl-3',
-        title: 'Akta cenzury filmowej – filmy Kieślowskiego',
-        type: 'akt',
-        url: 'https://szukajwarchiwach.gov.pl/szukaj?q=cenzury%20filmowej%20filmy',
-        source: 'Naczelna Dyrekcja Archiwów Państwowych',
-        description: 'Dokumenty Komisji Kolaudacyjnej dotyczące filmów Kieślowskiego.',
-        year: 1979,
-      },
-    ],
-    relatedIds: ['kino-prl', 'polska-szkola-filmowa', 'wajda', 'tvp-prl', 'cenzura-prl'],
-  },
-
   {
     id: 'kresy',
     title: 'Kresy Wschodnie – utracona ojczyzna',
@@ -5898,7 +5620,6 @@ Pokolenia wysiedlonych Kresowiaków wychowywały dzieci i wnuki w kulcie utracon
     ],
     relatedIds: ['jalta', 'ziemie-odzyskane', 'repatriacje', 'akcja-wisla', 'deportacje'],
   },
-
   {
     id: 'repatriacje',
     title: 'Wielka migracja powojenna',
@@ -5960,7 +5681,6 @@ Ziemie Odzyskane stały się tyglem etnicznym i kulturowym: obok Polaków z Kres
     ],
     relatedIds: ['kresy', 'ziemie-odzyskane', 'akcja-wisla', 'jalta', 'manifest-pkwn'],
   },
-
   {
     id: 'reforma-rolna',
     title: 'Reforma rolna PKWN 1944',
@@ -6022,7 +5742,6 @@ Kwestia odszkodowań dla potomków wywłaszczonych właścicieli ziemskich pozos
     ],
     relatedIds: ['manifest-pkwn', 'kolektywizacja', 'wies-prl', 'nacjonalizacja', 'bierut'],
   },
-
   {
     id: 'polska-kronika-filmowa',
     title: 'Polska Kronika Filmowa',
@@ -6127,7 +5846,6 @@ PKF przeżyła PRL – nadawano ją do 1994 r., zmieniając stopniowo profil. Ar
     ],
     relatedIds: ['kino-prl', 'propaganda-prl', 'telewizja-prl', 'wfdif', 'film-dokumentalny-prl', 'kronika-wydarzenia-prl'],
   },
-
   {
     id: 'wfdif',
     title: 'Wytwórnia Filmów Dokumentalnych i Fabularnych',
@@ -6188,7 +5906,6 @@ Po 1989 r. wytwórnia kontynuowała działalność jako WFDiF. Jej archiwum – 
     ],
     relatedIds: ['polska-kronika-filmowa', 'film-dokumentalny-prl', 'kino-prl', 'kronika-wydarzenia-prl'],
   },
-
   {
     id: 'film-dokumentalny-prl',
     title: 'Polski film dokumentalny w PRL',
@@ -6247,9 +5964,8 @@ Wiele dokumentów trafiało "na półkę" – nie dopuszczano ich do rozpowszech
         downloadable: true,
       },
     ],
-    relatedIds: ['polska-kronika-filmowa', 'wfdif', 'kino-prl', 'kiesklowski'],
+    relatedIds: ['polska-kronika-filmowa', 'wfdif', 'kino-prl', 'kieslowski'],
   },
-
   {
     id: 'kronika-wydarzenia-prl',
     title: 'Wielkie wydarzenia PRL w kronice filmowej',
@@ -6309,7 +6025,6 @@ Dla historyka PKF jest źródłem podwójnym: mówi o wydarzeniach i o sposobie,
     ],
     relatedIds: ['polska-kronika-filmowa', 'wfdif', 'film-dokumentalny-prl', 'propaganda-prl'],
   },
-
   {
     id: 'nauka-prl',
     title: 'Nauka i szkolnictwo wyższe w PRL',
@@ -6371,7 +6086,6 @@ Emigracja naukowców była stałym problemem. Wybitni uczeni opuszczali PRL – 
     ],
     relatedIds: ['edukacja-prl', 'nzs', 'marzec-1968', 'emigracja-1968', 'lem'],
   },
-
   {
     id: 'moda-prl',
     title: 'Moda i ubiór w PRL',
@@ -6431,9 +6145,8 @@ Lata 80. przyniosły pewną liberalizację mody: krakowskie bazary, "ciucholandy
         downloadable: true,
       },
     ],
-    relatedIds: ['zycie-codzienne', 'pewex', 'muzyka-rockowa', 'dzieci-prl', 'kartki-prl'],
+    relatedIds: ['zycie-codzienne', 'pewex', 'muzyka-rockowa-prl', 'dzieci-prl', 'kartki-prl'],
   },
-
   {
     id: 'kuchnia-prl',
     title: 'Kuchnia i jedzenie w PRL',
@@ -6495,7 +6208,6 @@ Polacy prowadzili intensywną produkcję domową: przetwory, dżemy, pikliki, na
     ],
     relatedIds: ['zycie-codzienne', 'kartki-prl', 'wies-prl', 'kobiety-prl', 'wczasy-fwp'],
   },
-
   {
     id: 'kino-moralnego-niepokoju',
     title: 'Kino moralnego niepokoju',
@@ -6554,9 +6266,8 @@ Stan wojenny 1981 r. zakończył nurt – część twórców wyemigrowała (Holl
         year: 1975,
       },
     ],
-    relatedIds: ['kino-prl', 'kiesklowski', 'wajda', 'cenzura-prl', 'stan-wojenny'],
+    relatedIds: ['kino-prl', 'kieslowski', 'wajda', 'cenzura-prl', 'stan-wojenny'],
   },
-
   {
     id: 'polacy-na-emigracji',
     title: 'Polska emigracja na Zachodzie',
@@ -6619,7 +6330,6 @@ W latach 80. emigracja zachodnia aktywnie wspierała "Solidarność": zbierała 
     ],
     relatedIds: ['rzad-emigracyjny', 'kultura-paryz', 'anders', 'radio-wolna-europa', 'emigracja-1968'],
   },
-
   {
     id: 'nostalgia-prl',
     title: 'Nostalgia za PRL',
@@ -6681,7 +6391,6 @@ Historycy wskazują, że nostalgia za PRL jest specyficzna dla pokolenia dorosł
     ],
     relatedIds: ['zycie-codzienne', 'kuchnia-prl', 'animacja-prl', 'wczasy-fwp', 'sport-prl'],
   },
-
   {
     id: 'tajni-wspolpracownicy',
     title: 'Tajni współpracownicy SB',
@@ -6742,7 +6451,6 @@ Kwestia TW do dziś dzieli polskie społeczeństwo. Jedni domagają się pełneg
     ],
     relatedIds: ['sb', 'ub', 'kosciol-prl', 'solidarnosc', 'represje-polityczne'],
   },
-
   {
     id: 'deportacje',
     title: 'Deportacje Polaków na Wschód',
@@ -6809,7 +6517,6 @@ Temat deportacji był w PRL przemilczany – zbrodnie sowieckie podlegały cenzu
     ],
     relatedIds: ['katyn', 'zolnierze-wykletci', 'akcja-wisla', 'represje-polityczne', 'pgwn'],
   },
-
   {
     id: 'konstytucja-prl',
     title: 'Konstytucja PRL 1952',
@@ -6872,7 +6579,6 @@ Konstytucja PRL obowiązywała do 1989 r. – nowelizacje Okrągłego Stołu prz
     ],
     relatedIds: ['bierut', 'pzpr', 'manifest-pkwn', 'kor', 'wybory-1947'],
   },
-
   {
     id: 'dzieci-prl',
     title: 'Dzieci i młodzież w PRL',
@@ -6933,7 +6639,6 @@ Polska animacja i literatura dziecięca PRL stworzyły wiele wybitnych dzieł �
     ],
     relatedIds: ['edukacja-prl', 'propaganda-prl', 'nzs', 'zycie-codzienne', 'kobiety-prl'],
   },
-
   {
     id: 'pilecki',
     title: 'Rotmistrz Witold Pilecki',
@@ -6995,7 +6700,6 @@ Pilecki został zrehabilitowany dopiero po 1989 r. W 2006 r. pośmiertnie odznac
     ],
     relatedIds: ['zolnierze-wykletci', 'represje-polityczne', 'ub', 'katyn', 'deportacje'],
   },
-
   {
     id: 'socrealizm',
     title: 'Socrealizm w sztuce i architekturze',
@@ -7057,7 +6761,6 @@ Po śmierci Stalina (1953) i XX Zjeździe KPZR (1956) socrealizm zaczął się k
     ],
     relatedIds: ['palac-kultury', 'nowa-huta', 'propaganda-prl', 'kino-prl', 'bierut'],
   },
-
   {
     id: 'sluzba-zdrowia-prl',
     title: 'Służba zdrowia w PRL',
@@ -7118,7 +6821,6 @@ Wzorem sowieckim SB używała psychiatrii jako narzędzia represji: dysydentów 
     ],
     relatedIds: ['zycie-codzienne', 'kartki-prl', 'edukacja-prl', 'gierek', 'kobiety-prl'],
   },
-
   {
     id: 'teatr-prl',
     title: 'Teatr w PRL',
@@ -7178,7 +6880,6 @@ Reżyserzy nauczyli się mówić "między wierszami": klasyczne dramaty (Słowac
     ],
     relatedIds: ['kino-prl', 'cenzura-prl', 'wajda', 'marzec-1968', 'kultura-paryz'],
   },
-
   {
     id: 'anders',
     title: 'Gen. Władysław Anders i Armia Andersa',
@@ -7243,7 +6944,6 @@ Po wojnie Anders i żołnierze II Korpusu nie wrócili do Polski, którą rządz
     ],
     relatedIds: ['deportacje', 'katyn', 'zolnierze-wykletci', 'lwp', 'emigracja-1968'],
   },
-
   {
     id: 'rzad-emigracyjny',
     title: 'Rząd RP na uchodźstwie',
@@ -7305,7 +7005,6 @@ Rząd emigracyjny działał nieprzerwanie przez 45 lat. Kolejni prezydenci: Racz
     ],
     relatedIds: ['anders', 'manifest-pkwn', 'kultura-paryz', 'emigracja-1968', 'mikolajczyk'],
   },
-
   {
     id: 'tygodnik-powszechny',
     title: 'Tygodnik Powszechny',
@@ -7367,7 +7066,6 @@ Po 1989 r. "Tygodnik Powszechny" kontynuował działalność jako niezależne pi
     ],
     relatedIds: ['prasa-prl', 'kosciol-prl', 'szymborska', 'milosz', 'cenzura-prl'],
   },
-
   {
     id: 'jalta',
     title: 'Konferencja Jałtańska 1945',
@@ -7429,7 +7127,6 @@ Historycy spierają się, czy Roosevelt i Churchill mieli realną alternatywę �
     ],
     relatedIds: ['manifest-pkwn', 'rzad-emigracyjny', 'anders', 'ziemie-odzyskane', 'pgwn'],
   },
-
   {
     id: 'praga-1968',
     title: 'Praska Wiosna 1968',
@@ -7491,7 +7188,6 @@ Inwazja dała początek "doktrynie Breżniewa" – ZSRR zarezerwował sobie praw
     ],
     relatedIds: ['lwp', 'uklad-warszawski', 'gomulka', 'marzec-1968', 'gorbaczow'],
   },
-
   {
     id: 'odbudowa-warszawy',
     title: 'Odbudowa Warszawy',
@@ -7550,9 +7246,8 @@ Odbudowa stała się mitem założycielskim PRL: tysiące ochotników z całego 
         year: 1945,
       },
     ],
-    relatedIds: ['palac-kultury', 'socrealizm', 'mieszkanie-prl', 'manifest-pkwn', 'plan-szescioletni'],
+    relatedIds: ['palac-kultury', 'socrealizm', 'mieszkania-prl', 'manifest-pkwn', 'plan-szescioletni'],
   },
-
   {
     id: 'wywiad-prl',
     title: 'Wywiad i kontrwywiad PRL',
@@ -7613,7 +7308,6 @@ Część akt wywiadu PRL zniszczono przed przekazaniem do IPN. Zachowane dokumen
     ],
     relatedIds: ['sb', 'ub', 'tajni-wspolpracownicy', 'pgwn', 'radio-wolna-europa'],
   },
-
   {
     id: 'wron',
     title: 'WRON – Wojskowa Rada Ocalenia Narodowego',
@@ -7674,7 +7368,6 @@ WRON i stan wojenny ocenia się różnie: jako "mniejsze zło" (Jaruzelski twier
     ],
     relatedIds: ['stan-wojenny', 'jaruzelski', 'solidarnosc', 'internowanie', 'kiszczak'],
   },
-
   {
     id: 'chruszczow',
     title: 'Chruszczow i destalinizacja',
@@ -7736,7 +7429,6 @@ Chruszczow rządził ZSRR do 1964 r. Jego czas to "odwilż" – ograniczenie ter
     ],
     relatedIds: ['bierut', 'gomulka', 'pazdziernik-1956', 'represje-polityczne', 'gorbaczow'],
   },
-
   {
     id: 'tischner',
     title: 'Ks. Józef Tischner',
@@ -7798,7 +7490,6 @@ Tischner zachorował na raka mózgu i umarł w 2000 r. Jego twórczość – "My
     ],
     relatedIds: ['kosciol-prl', 'solidarnosc', 'tygodnik-powszechny', 'jan-pawel-ii', 'sierpien-1980'],
   },
-
   {
     id: 'animacja-prl',
     title: 'Polska animacja w PRL',
@@ -7859,7 +7550,6 @@ Obok animacji dziecięcej polska szkoła tworzyła filmy dla dorosłych – kró
     ],
     relatedIds: ['kino-prl', 'tvp-prl', 'dzieci-prl', 'polska-szkola-filmowa', 'kultura-prl'],
   },
-
   {
     id: 'radio-prl',
     title: 'Radio w PRL',
@@ -7920,9 +7610,8 @@ Radio Wolna Europa zagłuszano do końca lat 80. – ale Polacy i tak słuchali,
         year: 1948,
       },
     ],
-    relatedIds: ['tvp-prl', 'propaganda-prl', 'cenzura-prl', 'muzyka-rockowa', 'jazz-prl'],
+    relatedIds: ['tvp-prl', 'propaganda-prl', 'cenzura-prl', 'muzyka-rockowa-prl', 'jazz-prl'],
   },
-
   {
     id: 'kisielewski',
     title: 'Stefan Kisielewski',
@@ -7983,7 +7672,6 @@ Kisielewski reprezentował w PRL-u coś rzadkiego: liberalny, antysocjalistyczny
     ],
     relatedIds: ['tygodnik-powszechny', 'prasa-prl', 'marzec-1968', 'cenzura-prl', 'milosz'],
   },
-
   {
     id: 'moczar',
     title: 'Mieczysław Moczar i frakcja partyzantów',
@@ -8045,7 +7733,6 @@ Moczar jest symbolem narodowo-komunistycznej hybrydy: połączenia nacjonalizmu 
     ],
     relatedIds: ['marzec-1968', 'gomulka', 'gierek', 'sb', 'emigracja-1968'],
   },
-
   {
     id: 'muzyka-powazna-prl',
     title: 'Muzyka poważna w PRL',
@@ -8105,9 +7792,8 @@ Górecki zasłynął przede wszystkim "III Symfonią" ("Symfonia pieśni żałos
         downloadable: true,
       },
     ],
-    relatedIds: ['jazz-prl', 'muzyka-rockowa', 'kino-prl', 'socrealizm', 'kultura-paryz'],
+    relatedIds: ['jazz-prl', 'muzyka-rockowa-prl', 'kino-prl', 'socrealizm', 'kultura-paryz'],
   },
-
   {
     id: 'kiszczak',
     title: 'Gen. Czesław Kiszczak',
@@ -8168,7 +7854,6 @@ Po 1989 r. Kiszczak był wielokrotnie oskarżany – o udział w wprowadzeniu st
     ],
     relatedIds: ['jaruzelski', 'stan-wojenny', 'okragly-stol', 'sb', 'wujek'],
   },
-
   {
     id: 'polska-szkola-filmowa',
     title: 'Polska szkoła filmowa',
@@ -8232,7 +7917,6 @@ Polska szkoła filmowa umieściła kino polskie na mapie kinematografii światow
     ],
     relatedIds: ['kino-prl', 'wajda', 'cenzura-prl', 'socrealizm', 'teatr-prl'],
   },
-
   {
     id: 'literatura-prl',
     title: 'Literatura w PRL',
@@ -8294,7 +7978,6 @@ Prozaik i scenarzysta. Jego powieści – "Kronika wypadków miłosnych" (1974),
     ],
     relatedIds: ['cenzura-prl', 'drugi-obieg', 'milosz', 'herbert', 'szymborska'],
   },
-
   {
     id: 'wybory-prl',
     title: 'Wybory w PRL',
@@ -8347,7 +8030,6 @@ Przełomem były wyspy częściowo wolne wybory z 4 czerwca 1989 roku, będące 
     ],
     relatedIds: ['pzpr', 'okragly-stol', 'gomulka', 'gierek', 'jaruzelski'],
   },
-
   {
     id: 'rolnictwo-prl',
     title: 'Rolnictwo w PRL',
@@ -8404,7 +8086,6 @@ W latach 80. rolnicy uzyskali możliwość zrzeszania się w niezależnych zwią
     ],
     relatedIds: ['reforma-rolna', 'gospodarka-prl', 'kartki-prl', 'czerwiec-1976', 'sierpien-1980'],
   },
-
   {
     id: 'telewizja-prl',
     title: 'Telewizja w PRL',
@@ -8465,7 +8146,6 @@ Telewizja PRL odcisnęła trwały ślad w kulturze polskiej. Seriale, dziecięce
     ],
     relatedIds: ['radio-prl', 'propaganda-prl', 'polska-kronika-filmowa', 'cenzura-prl', 'stan-wojenny'],
   },
-
   {
     id: 'zbrodnie-stalinizmu',
     title: 'Zbrodnie stalinizmu w Polsce',
@@ -8537,7 +8217,6 @@ Po śmierci Stalina (marzec 1953) represje stopniowo słabły. Przełom nastąpi
     ],
     relatedIds: ['ub', 'represje-polityczne', 'pilecki', 'bierut', 'zolnierze-wykletci', 'wiezienia-polityczne'],
   },
-
   {
     id: 'hermaszewski',
     title: 'Mirosław Hermaszewski',
@@ -8601,7 +8280,6 @@ Hermaszewski jest jedynym Polakiem w kosmosie – Polska od lat nie uczestniczy�
     ],
     relatedIds: ['propaganda-prl', 'gierek', 'nauka-prl', 'sport-prl'],
   },
-
   {
     id: 'niemen-czeslaw',
     title: 'Czesław Niemen',
@@ -8663,9 +8341,8 @@ Niemen jest dla polskiej muzyki tym, czym Hendrix dla rocka angloamerykańskiego
         description: 'Archiwalne artykuły prasowe o Niemenie z okresu PRL',
       },
     ],
-    relatedIds: ['muzyka-rockowa', 'jazz-prl', 'kultura-prl', 'cenzura-prl', 'radio-prl'],
+    relatedIds: ['muzyka-rockowa-prl', 'jazz-prl', 'kultura-prl', 'cenzura-prl', 'radio-prl'],
   },
-
   {
     id: 'anna-german',
     title: 'Anna German',
@@ -8730,9 +8407,8 @@ Anna German jest czczona do dziś zarówno w Polsce, jak i w Rosji, na Ukrainie 
         description: 'Archiwalne artykuły i wywiady z Anną German z prasy PRL',
       },
     ],
-    relatedIds: ['kultura-prl', 'muzyka-rockowa', 'radio-prl', 'telewizja-prl'],
+    relatedIds: ['kultura-prl', 'muzyka-rockowa-prl', 'radio-prl', 'telewizja-prl'],
   },
-
   {
     id: 'zmp',
     title: 'Związek Młodzieży Polskiej (ZMP)',
@@ -8800,7 +8476,6 @@ Doświadczenie ZMP jest złożone. Część członków szczerze wierzyła w idea
     ],
     relatedIds: ['edukacja-prl', 'propaganda-prl', 'dzieci-prl', 'bierut', 'socrealizm'],
   },
-
   {
     id: 'solidarnosc-walczaca',
     title: 'Solidarność Walcząca',
@@ -8869,7 +8544,6 @@ Solidarność Walcząca pozostaje kontrowersyjną organizacją. Zwolennicy podkr
     ],
     relatedIds: ['podziemna-solidarnosc', 'solidarnosc', 'stan-wojenny', 'internowanie', 'bujak-zbigniew'],
   },
-
   {
     id: 'bujak-zbigniew',
     title: 'Zbigniew Bujak',
@@ -8930,7 +8604,6 @@ Zbigniew Bujak jest symbolem oporu i wytrwałości – człowiek, który przez 4
     ],
     relatedIds: ['podziemna-solidarnosc', 'stan-wojenny', 'internowanie', 'solidarnosc', 'okragly-stol', 'solidarnosc-walczaca'],
   },
-
   {
     id: 'destalinizacja',
     title: 'Destalinizacja w Polsce',
@@ -9010,7 +8683,6 @@ Destalinizacja w Polsce nie zniszczyła systemu, ale go znacząco zreformowała.
     ],
     relatedIds: ['czerwiec-1956', 'pazdziernik-1956', 'gomulka', 'bierut', 'represje-polityczne', 'chruszczow'],
   },
-
   {
     id: 'pps',
     title: 'Polska Partia Socjalistyczna (PPS)',
@@ -9077,7 +8749,6 @@ Likwidacja PPS oznaczała zniszczenie pluralizmu politycznego w Polsce i zakońc
     ],
     relatedIds: ['pzpr', 'ppr', 'cyrankiewicz', 'manifest-pkwn', 'bierut'],
   },
-
   {
     id: 'komeda',
     title: 'Krzysztof Komeda',
@@ -9144,9 +8815,8 @@ Komeda zostawił ok. 20 nagrań studyjnych i muzykę do ponad 50 filmów. Jego k
         description: 'Archiwalne artykuły prasowe o Komedzie i polskim jazzie z lat 60.',
       },
     ],
-    relatedIds: ['jazz-prl', 'kino-prl', 'polska-szkola-filmowa', 'kultura-prl', 'muzyka-rockowa'],
+    relatedIds: ['jazz-prl', 'kino-prl', 'polska-szkola-filmowa', 'kultura-prl', 'muzyka-rockowa-prl'],
   },
-
   {
     id: 'pazdziernik-1956-studenci',
     title: 'Studenci i inteligencja w Październiku 1956',
@@ -9213,7 +8883,6 @@ Reformy były ograniczone. Zamknięcie "Po prostu" w 1957, powolne przywracanie 
     ],
     relatedIds: ['pazdziernik-1956', 'destalinizacja', 'czerwiec-1956', 'marzec-1968', 'polska-szkola-filmowa', 'literatura-prl'],
   },
-
   {
     id: 'sluzba-bezpieczenstwa-metody',
     title: 'Metody pracy Służby Bezpieczeństwa',
@@ -9285,7 +8954,6 @@ Liczne późniejsze odkrycia (np. donos Lecha Wałęsy w latach 70. – sprawa o
     ],
     relatedIds: ['sbezpieczenstwa', 'tajni-wspolpracownicy', 'ub', 'represje-polityczne', 'internowanie'],
   },
-
   {
     id: 'kieslowski',
     title: 'Krzysztof Kieślowski',
@@ -9348,7 +9016,6 @@ Kieślowski pokazał, że kino może być filozofią. Jego filmy pytają o sens 
     ],
     relatedIds: ['kino-moralnego-niepokoju', 'polska-szkola-filmowa', 'kino-prl', 'wajda'],
   },
-
   {
     id: 'kolejki-prl',
     title: 'Kolejki i braki towarów',
@@ -9415,7 +9082,6 @@ Liberalizacja cen w 1989–1990 roku zlikwidowała kolejki niemal z dnia na dzie
     ],
     relatedIds: ['gospodarka-prl', 'kuchnia-prl', 'nomenklatura', 'plan-szescioletni', 'gierek'],
   },
-
   {
     id: 'mieszkania-prl',
     title: 'Wielka płyta i budownictwo mieszkaniowe',
@@ -9482,7 +9148,6 @@ Wielka płyta stała się problemem po 1989 roku. Bloki mają ograniczoną żywo
     ],
     relatedIds: ['nowa-huta', 'gospodarka-prl', 'dzieci-prl', 'gierek', 'plan-szescioletni'],
   },
-
   {
     id: 'motoryzacja-prl',
     title: 'Motoryzacja w PRL – Maluch i inne',
@@ -9551,7 +9216,6 @@ Liberalizacja umożliwiła import zachodnich samochodów. Rynek zalały używane
     ],
     relatedIds: ['kolejki-prl', 'gospodarka-prl', 'gierek', 'kuchnia-prl', 'nostalgia-prl'],
   },
-
   {
     id: 'obozy-pracy',
     title: 'Obozy pracy i więzienia polityczne',
@@ -9620,7 +9284,6 @@ Po 1956 roku, w wyniku odwilży październikowej, część więźniów polityczn
     ],
     relatedIds: ['zbrodnie-stalinizmu', 'ub', 'represje-polityczne', 'zolnierze-wykletci', 'pilecki'],
   },
-
   {
     id: 'pomniki-prl',
     title: 'Pomniki i symbolika PRL',
@@ -9687,7 +9350,6 @@ Walka o przestrzeń symboliczną – kto jest patronem ulic i placów – trwa w
     ],
     relatedIds: ['socrealizm', 'palac-kultury', 'propaganda-prl', 'odbudowa-warszawy', 'bierut'],
   },
-
   {
     id: 'turystyka-prl',
     title: 'Turystyka i wczasy w PRL',
@@ -9756,7 +9418,6 @@ Harcerskie obozy były dla wielu dzieci najważniejszą przestrzenią wolności 
     ],
     relatedIds: ['dzieci-prl', 'kultura-prl', 'gierek', 'motoryzacja-prl', 'nostalgia-prl'],
   },
-
   {
     id: 'walczynski-opor',
     title: 'Strajki i opór robotniczy przed 1980',
@@ -9821,7 +9482,6 @@ Po 1989 roku powołano komisje śledcze ws. Poznania 1956 i Grudnia 1970. Sprawc
     ],
     relatedIds: ['czerwiec-1956', 'grudzien-1970', 'czerwiec-1976', 'kor', 'sierpien-1980'],
   },
-
   {
     id: 'ppkwn',
     title: 'Polska Partia Robotnicza (PPR)',
@@ -9880,7 +9540,6 @@ Powstanie PZPR zamknęło etap „dyktatury koalicyjnej" i otworzyło etap jedno
     ],
     relatedIds: ['pzpr', 'bierut', 'gomulka', 'manifest-pkwn', 'pps'],
   },
-
   {
     id: 'pielgrzymki-jp2',
     title: 'Pielgrzymki Jana Pawła II do Polski',
@@ -9947,7 +9606,6 @@ Komuniści zdawali sobie sprawę z zagrożenia. SB inwigilowała pielgrzymki, do
     ],
     relatedIds: ['jan-pawel-ii', 'kosciol-prl', 'wyszynski', 'solidarnosc', 'stan-wojenny'],
   },
-
   {
     id: 'gdansk-sopot-gdynia',
     title: 'Trójmiasto – serce Solidarności',
@@ -10012,7 +9670,6 @@ Gdynia zbudowała swój własny pomnik – Pomnik Ofiar Grudnia 1970 przy Bramie
     ],
     relatedIds: ['sierpien-1980', 'grudzien-1970', 'stocznia-gdanska', 'solidarnosc', 'walesa'],
   },
-
   {
     id: 'niezaleznosc-sadow',
     title: 'Sądownictwo i praworządność w PRL',
@@ -10081,7 +9738,6 @@ Pytanie o rozliczenie sprawców sądowych zbrodni komunistycznych pozostaje aktu
     ],
     relatedIds: ['ub', 'represje-polityczne', 'zbrodnie-stalinizmu', 'obozy-pracy', 'pilecki'],
   },
-
   {
     id: 'lodz-szkola-filmowa',
     title: 'Łódź – szkoła filmowa i miasto kultury',
@@ -10146,7 +9802,6 @@ Po 1989 roku Łódź przeżyła kryzys przemysłowy – zamknięte fabryki, bezr
     ],
     relatedIds: ['polska-szkola-filmowa', 'kino-prl', 'kino-moralnego-niepokoju', 'wajda', 'kieslowski'],
   },
-
   {
     id: 'muzyka-rockowa-prl',
     title: 'Rock i muzyka młodzieżowa w PRL',
@@ -10219,7 +9874,6 @@ Muzyka rockowa lat 80. nie była wprost polityczna, ale jej etos był opozycyjny
     ],
     relatedIds: ['kultura-prl', 'jazz-prl', 'dzieci-prl', 'cenzura-prl', 'propaganda-prl'],
   },
-
   {
     id: 'kabaret-prl',
     title: 'Kabaret i satyra w PRL',
@@ -10288,7 +9942,6 @@ Po 1989 roku scena kabaretowa rozkwitła. Kabaret Olgi Lipińskiej, potem „Uch
     ],
     relatedIds: ['kultura-prl', 'prasa-prl', 'cenzura-prl', 'teatr-prl', 'kino-prl'],
   },
-
   {
     id: 'kolakowski',
     title: 'Leszek Kołakowski',
@@ -10353,7 +10006,6 @@ Kołakowski odwiedzał Polskę po 1989 roku. Był uhonorowany wieloma nagrodami,
     ],
     relatedIds: ['literatura-prl', 'marzec-1968', 'michnik', 'drugi-obieg', 'milosz'],
   },
-
   {
     id: 'plakat-prl',
     title: 'Polska szkoła plakatu',
@@ -10482,7 +10134,6 @@ Postać Kuklińskiego dzieli Polaków do dziś. Toczy się debata, czy jego dzia
     ],
     relatedIds: ['stan-wojenny', 'uklad-warszawski', 'lwp', 'wywiad-prl', 'jaruzelski'],
   },
-
   {
     id: 'jacek-kaczmarski',
     title: 'Jacek Kaczmarski',
@@ -10540,7 +10191,6 @@ Kaczmarski pozostaje jednym z najważniejszych głosów polskiej kultury niezale
     ],
     relatedIds: ['solidarnosc', 'drugi-obieg', 'radio-wolna-europa', 'kultura-prl', 'muzyka-rockowa-prl'],
   },
-
   {
     id: 'propaganda-sukcesu',
     title: 'Propaganda sukcesu',
@@ -10598,7 +10248,6 @@ Od połowy lat 70. gospodarka zaczęła się załamywać – rosło zadłużenie
     ],
     relatedIds: ['gierek', 'propaganda-prl', 'telewizja-prl', 'czerwiec-1976', 'zadluzenie-prl'],
   },
-
   {
     id: 'zadluzenie-prl',
     title: 'Zadłużenie zagraniczne PRL',
@@ -10657,7 +10306,6 @@ Po 1989 r. demokratyczna Polska odziedziczyła ogromny dług PRL. Dopiero negocj
     ],
     relatedIds: ['gierek', 'gospodarka-prl', 'propaganda-sukcesu', 'kartki-prl', 'kolejki-prl'],
   },
-
   {
     id: 'ropcio',
     title: 'ROPCiO',
@@ -10716,7 +10364,6 @@ Choć ROPCiO nie przetrwał jako jednolita organizacja, odegrał ważną rolę w
     ],
     relatedIds: ['kor', 'kpn', 'drugi-obieg', 'solidarnosc', 'represje-polityczne'],
   },
-
   {
     id: 'bydgoszcz-1981',
     title: 'Prowokacja bydgoska 1981',
@@ -10773,7 +10420,6 @@ Kryzys bydgoski pokazał determinację władzy i jej gotowość do użycia siły
     ],
     relatedIds: ['solidarnosc', 'solidarnosc-rolnikow', 'stan-wojenny', 'walesa', 'rakowski'],
   },
-
   {
     id: 'grzegorz-przemyk',
     title: 'Grzegorz Przemyk',
@@ -10830,7 +10476,6 @@ Sprawa Przemyka stała się symbolem brutalności i bezkarności milicji w PRL. 
     ],
     relatedIds: ['milicja', 'zomo', 'represje-polityczne', 'popieluszko', 'sluzba-bezpieczenstwa-metody'],
   },
-
   {
     id: 'stanislaw-pyjas',
     title: 'Stanisław Pyjas',
@@ -10887,7 +10532,6 @@ Stanisław Pyjas stał się symbolem ofiar systemu wśród młodzieży akademick
     ],
     relatedIds: ['kor', 'nzs', 'drugi-obieg', 'represje-polityczne', 'sluzba-bezpieczenstwa-metody'],
   },
-
   {
     id: 'bareja-kino',
     title: 'Kino Stanisława Barei',
@@ -10945,7 +10589,6 @@ Od nazwiska reżysera powstało pojęcie „bareizm” – oznaczające typową 
     ],
     relatedIds: ['kino-prl', 'cenzura-prl', 'zycie-codzienne', 'kolejki-prl', 'kabaret-prl'],
   },
-
   {
     id: 'seriale-prl',
     title: 'Kultowe seriale PRL',
@@ -11003,7 +10646,6 @@ Seriale PRL były narzędziem kształtowania postaw, ale jednocześnie autentycz
     ],
     relatedIds: ['telewizja-prl', 'propaganda-prl', 'kultura-prl', 'lwp', 'kino-prl'],
   },
-
   {
     id: 'wyscig-pokoju',
     title: 'Wyścig Pokoju',
@@ -11061,7 +10703,6 @@ Wraz z przemianami 1989 r. Wyścig Pokoju stracił polityczny kontekst i dawną 
     ],
     relatedIds: ['sport-prl', 'propaganda-prl', 'telewizja-prl', 'zycie-codzienne', 'kultura-prl'],
   },
-
   {
     id: 'zbigniew-religa',
     title: 'Zbigniew Religa',
@@ -11119,7 +10760,6 @@ Postać Religi stała się symbolem polskiej nauki przełamującej ograniczenia 
     ],
     relatedIds: ['nauka-prl', 'sluzba-zdrowia-prl', 'zycie-codzienne'],
   },
-
   {
     id: 'bitwa-o-handel',
     title: 'Bitwa o handel',
@@ -11290,7 +10930,6 @@ Najlepiej wpisywać konkretne hasła: nazwę wydarzenia („Grudzień 1970”), 
     ],
     relatedIds: ['polska-kronika-filmowa', 'wfdif', 'film-dokumentalny-prl', 'kronika-wydarzenia-prl', 'telewizja-prl'],
   },
-
   {
     id: 'fina-filmoteka',
     title: 'Filmoteka Narodowa – Instytut Audiowizualny',
@@ -11346,7 +10985,6 @@ FINA jest kluczową instytucją pamięci filmowej Polski. Bez jej pracy ogromna 
     ],
     relatedIds: ['polska-kronika-filmowa', 'wfdif', 'kroniki-archiwa-filmowe', 'film-dokumentalny-prl'],
   },
-
   {
     id: 'festiwal-opole',
     title: 'Krajowy Festiwal Piosenki Polskiej w Opolu',
@@ -11404,7 +11042,6 @@ Nagrania opolskie to dziś bezcenna fonoteka i wideoteka polskiej piosenki. Fest
     ],
     relatedIds: ['muzyka-rockowa-prl', 'telewizja-prl', 'kultura-prl', 'niemen-czeslaw', 'radio-prl'],
   },
-
   {
     id: 'kabaret-starszych-panow',
     title: 'Kabaret Starszych Panów',
@@ -11462,7 +11099,6 @@ Kabaret Starszych Panów pozostaje wzorcem inteligentnej rozrywki. Jego piosenki
     ],
     relatedIds: ['kabaret-prl', 'telewizja-prl', 'kultura-prl', 'literatura-prl'],
   },
-
   {
     id: 'teatr-telewizji',
     title: 'Teatr Telewizji',
@@ -11520,7 +11156,6 @@ Teatr Telewizji ukształtował gust kulturalny pokoleń Polaków i zachował zap
     ],
     relatedIds: ['teatr-prl', 'telewizja-prl', 'kultura-prl', 'literatura-prl', 'cenzura-prl'],
   },
-
   {
     id: 'milenium-1966',
     title: 'Milenium Chrztu Polski 1966',
@@ -12035,6 +11670,516 @@ Gintrowski pozostaje symbolem zaangażowanej, niezależnej sztuki lat 80., a jeg
       },
     ],
     relatedIds: ['jacek-kaczmarski', 'herbert', 'drugi-obieg', 'solidarnosc'],
+  },
+  {
+    id: 'big-beat-prl',
+    title: 'Big-beat – polski rock lat 60.',
+    subtitle: 'Początki rock and rolla nad Wisłą',
+    category: 'kultura',
+    tags: ['muzyka', 'rock', 'lata 60.', 'big-beat', 'młodzież'],
+    yearStart: 1959,
+    yearEnd: 1969,
+    summary: 'Polska odmiana rock and rolla z lat 60., nazwana „big-beatem” dla obejścia niechęci władz do zachodniej nazwy, dała początek rodzimej muzyce młodzieżowej.',
+    content: `## Narodziny
+Pod koniec lat 50. do Polski dotarł rock and roll. Ponieważ władze niechętnie patrzyły na zachodnią nazwę, przyjęto określenie „big-beat”, ukute przez dziennikarza Franciszka Walickiego. Pierwszym zespołem byli Rhythm and Blues (1959).
+
+## Zespoły
+Na scenie big-beatowej zabłysnęli Czerwono-Czarni, Niebiesko-Czarni, Czerwone Gitary, Skaldowie, No To Co oraz soliści jak Czesław Niemen, Helena Majdaniec czy Karin Stanek.
+
+## Festiwale
+Ważną rolę odegrały festiwale w Opolu (od 1963) i Sopocie, które promowały młodych wykonawców i pozwalały big-beatowi zaistnieć w oficjalnym obiegu.
+
+## Między Wschodem a Zachodem
+Muzyka młodzieżowa była tolerowana, ale kontrolowana – teksty musiały przejść cenzurę, a zespoły grały w ramach państwowych estrad. Mimo to big-beat dał polskiej młodzieży poczucie uczestnictwa w światowej kulturze.
+
+## Dziedzictwo
+Big-beat położył fundamenty pod rozwój polskiego rocka, a wiele zespołów tej epoki pozostaje klasyką rodzimej muzyki rozrywkowej.`,
+    resources: [
+      {
+        id: 'bb-1',
+        title: 'Big-beat – nagrania archiwalne',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=big+beat+polski+lata+60+Czerwono-Czarni',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania pionierów polskiego rocka.',
+      },
+      {
+        id: 'bb-2',
+        title: 'Muzyka młodzieżowa w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=big%20beat%20lata%20sze%C5%9B%C4%87dziesi%C4%85te',
+        source: 'Ninateka',
+        description: 'Materiały o początkach rocka w Polsce.',
+      },
+      {
+        id: 'bb-3',
+        title: 'Big-beat – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=big%20beat%20muzyka%20m%C5%82odzie%C5%BCowa%20lata%2060',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o kulturze młodzieżowej lat 60.',
+      },
+    ],
+    relatedIds: ['muzyka-rockowa-prl', 'festiwal-opole', 'sopot-festiwal', 'niemen-czeslaw'],
+  },
+  {
+    id: 'czerwone-gitary',
+    title: 'Czerwone Gitary',
+    subtitle: '„Polscy Beatlesi”',
+    category: 'kultura',
+    tags: ['muzyka', 'rock', 'lata 60.', 'big-beat', 'pop'],
+    yearStart: 1965,
+    yearEnd: 1989,
+    summary: 'Jeden z najpopularniejszych zespołów big-beatowych, nazywany „polskimi Beatlesami”, autor przebojów „Anna Maria” i „Nie spoczniemy”.',
+    content: `## Powstanie
+Czerwone Gitary powstały w 1965 roku w Gdańsku. Zespół czerpał z brzmienia The Beatles i The Shadows, łącząc je z melodyjnymi, polskimi tekstami.
+
+## „Polscy Beatlesi”
+Dzięki wielogłosowym harmoniom i chwytliwym melodiom zespół zyskał miano „polskich Beatlesów”. Czołowymi postaciami byli Seweryn Krajewski, Krzysztof Klenczon i Jerzy Kosela.
+
+## Przeboje
+Do największych przebojów należą „Anna Maria”, „Matura”, „Nie spoczniemy”, „Biały krzyż” czy „Płoną góry, płoną lasy”. Płyty zespołu sprzedawały się w milionowych nakładach.
+
+## Trwałość
+Mimo zmian składu Czerwone Gitary pozostały aktywne przez całą epokę PRL, a Seweryn Krajewski stał się jednym z najważniejszych polskich kompozytorów muzyki rozrywkowej.
+
+## Znaczenie
+Zespół to symbol melodyjnego big-beatu lat 60. i 70., a jego piosenki na trwałe weszły do kanonu polskiej muzyki popularnej.`,
+    resources: [
+      {
+        id: 'cg-1',
+        title: 'Czerwone Gitary – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Czerwone+Gitary+Nie+spoczniemy+Anna+Maria',
+        source: 'YouTube',
+        description: 'Teledyski i nagrania zespołu.',
+      },
+      {
+        id: 'cg-2',
+        title: 'Czerwone Gitary w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Czerwone%20Gitary',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały muzyczne.',
+      },
+      {
+        id: 'cg-3',
+        title: 'Big-beat – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=big%20beat%20muzyka%20lata%20sze%C5%9B%C4%87dziesi%C4%85te',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o muzyce młodzieżowej.',
+      },
+    ],
+    relatedIds: ['big-beat-prl', 'festiwal-opole', 'muzyka-rockowa-prl'],
+  },
+  {
+    id: 'sopot-festiwal',
+    title: 'Festiwal w Sopocie',
+    subtitle: 'Międzynarodowy Festiwal Piosenki',
+    category: 'kultura',
+    tags: ['muzyka', 'festiwal', 'estrada', 'Sopot', 'rozrywka'],
+    yearStart: 1961,
+    yearEnd: 1989,
+    summary: 'Międzynarodowy Festiwal Piosenki w Sopocie, organizowany od 1961 roku, był najważniejszą estradową imprezą PRL z udziałem gwiazd z Zachodu i bloku wschodniego.',
+    content: `## Geneza
+Międzynarodowy Festiwal Piosenki w Sopocie zainaugurowano w 1961 roku z inicjatywy Władysława Szpilmana. Początkowo odbywał się w hali Stoczni Gdańskiej, później w sopockiej Operze Leśnej.
+
+## Okno na świat
+Festiwal był jednym z nielicznych miejsc, gdzie polska publiczność mogła zobaczyć zachodnich artystów. Występowali tu wykonawcy z całej Europy, a także gwiazdy zza żelaznej kurtyny.
+
+## Opera Leśna
+Leśna scena w Sopocie stała się kultowym miejscem. Transmisje telewizyjne gromadziły miliony widzów, a festiwal był wydarzeniem towarzyskim i medialnym sezonu.
+
+## Gwiazdy
+Na sopockiej scenie występowali m.in. Czesław Niemen, Maryla Rodowicz, Anna German, a także zagraniczni artyści jak Charles Aznavour czy zespoły z bloku wschodniego.
+
+## Znaczenie
+Festiwal w Sopocie, obok Opola, współtworzył pejzaż polskiej estrady i był symbolem rozrywkowej kultury PRL otwartej – w ograniczonym zakresie – na świat.`,
+    resources: [
+      {
+        id: 'sop-1',
+        title: 'Festiwal w Sopocie – archiwalia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Festiwal+Sopot+Opera+Le%C5%9Bna+archiwalne',
+        source: 'YouTube',
+        description: 'Nagrania z festiwalu sopockiego.',
+      },
+      {
+        id: 'sop-2',
+        title: 'Sopot w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Festiwal%20Sopot%20piosenka',
+        source: 'Ninateka',
+        description: 'Materiały o festiwalu.',
+      },
+      {
+        id: 'sop-3',
+        title: 'Estrada PRL – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=festiwal%20piosenki%20estrada%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o kulturze estradowej.',
+      },
+    ],
+    relatedIds: ['festiwal-opole', 'anna-german', 'niemen-czeslaw', 'kultura-prl'],
+  },
+  {
+    id: 'maryla-rodowicz',
+    title: 'Maryla Rodowicz',
+    subtitle: 'Gwiazda polskiej estrady',
+    category: 'kultura',
+    tags: ['muzyka', 'estrada', 'piosenka', 'lata 70.'],
+    yearStart: 1968,
+    yearEnd: 1989,
+    summary: 'Jedna z najpopularniejszych polskich piosenkarek, autorka przebojów „Małgośka”, „Sing-Sing” i „Niech żyje bal”, gwiazda estrady od przełomu lat 60. i 70.',
+    content: `## Początki
+Maryla Rodowicz zadebiutowała pod koniec lat 60., zdobywając nagrody na festiwalach w Opolu. Jej żywiołowy temperament i ludowo-folkowe brzmienie wyróżniały ją na tle estrady.
+
+## Przeboje
+Do największych przebojów należą „Małgośka”, „Sing-Sing”, „Niech żyje bal”, „Remedium” oraz „Damą być”. Piosenki te stały się klasyką polskiej muzyki rozrywkowej.
+
+## Wizerunek
+Rodowicz słynęła z barwnych, niekonwencjonalnych strojów i scenicznej energii. Stała się jedną z najbardziej rozpoznawalnych gwiazd PRL i symbolem estrady lat 70.
+
+## Współpraca
+Śpiewała utwory komponowane przez czołowych twórców, m.in. Seweryna Krajewskiego i Katarzyny Gärtner. Reprezentowała Polskę na międzynarodowych festiwalach.
+
+## Znaczenie
+Maryla Rodowicz to jedna z najtrwalszych postaci polskiej sceny muzycznej, której kariera przetrwała wszystkie przemiany od czasów PRL.`,
+    resources: [
+      {
+        id: 'mr-1',
+        title: 'Maryla Rodowicz – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Maryla+Rodowicz+Ma%C5%82go%C5%9Bka+Niech+%C5%BCyje+bal',
+        source: 'YouTube',
+        description: 'Teledyski i występy artystki.',
+      },
+      {
+        id: 'mr-2',
+        title: 'Maryla Rodowicz w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Maryla%20Rodowicz',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały.',
+      },
+      {
+        id: 'mr-3',
+        title: 'Estrada PRL – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=estrada%20piosenka%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o estradzie.',
+      },
+    ],
+    relatedIds: ['festiwal-opole', 'sopot-festiwal', 'kultura-prl', 'kobiety-prl'],
+  },
+  {
+    id: 'dzem-zespol',
+    title: 'Dżem',
+    subtitle: 'Ryszard Riedel i polski blues',
+    category: 'kultura',
+    tags: ['muzyka', 'blues', 'rock', 'lata 80.', 'Riedel'],
+    yearStart: 1979,
+    yearEnd: 1989,
+    summary: 'Czołowy polski zespół blues-rockowy z charyzmatycznym wokalistą Ryszardem Riedlem, autor przebojów „Whisky” i „List do M.”',
+    content: `## Powstanie
+Dżem powstał w 1973 roku w Tychach, a klasyczny skład ukształtował się na przełomie lat 70. i 80. Zespół grał bluesa i rocka z głębokim, emocjonalnym przekazem.
+
+## Ryszard Riedel
+Wokalista Ryszard Riedel (1956–1994) stał się legendą polskiego bluesa dzięki charakterystycznemu, chropawemu głosowi i autentyczności. Jego dramatyczny życiorys dopełnił legendy zespołu.
+
+## Przeboje
+Najbardziej znane utwory to „Whisky”, „List do M.”, „Naiwne pytania”, „Czerwony jak cegła”. Koncerty Dżemu gromadziły wiernych fanów w całym kraju.
+
+## Scena śląska
+Dżem był częścią silnej śląskiej sceny bluesowej. Zespół często grał na festiwalu w Jarocinie i innych imprezach, budując pozycję jednego z najważniejszych polskich zespołów.
+
+## Znaczenie
+Dżem to jeden z filarów polskiego blues-rocka, a Ryszard Riedel pozostaje kultową postacią rodzimej muzyki.`,
+    resources: [
+      {
+        id: 'dzem-1',
+        title: 'Dżem – nagrania koncertowe',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=D%C5%BCem+Riedel+Whisky+List+do+M+koncert',
+        source: 'YouTube',
+        description: 'Występy i teledyski zespołu Dżem.',
+      },
+      {
+        id: 'dzem-2',
+        title: 'Dżem w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=D%C5%BCem%20zesp%C3%B3%C5%82%20blues',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały.',
+      },
+      {
+        id: 'dzem-3',
+        title: 'Blues i rock – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=blues%20rock%20muzyka%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o scenie bluesowej.',
+      },
+    ],
+    relatedIds: ['rock-lat-80', 'jarocin-festiwal', 'muzyka-rockowa-prl'],
+  },
+  {
+    id: 'tsa-zespol',
+    title: 'TSA',
+    subtitle: 'Polska scena heavy metalowa',
+    category: 'kultura',
+    tags: ['muzyka', 'heavy metal', 'rock', 'lata 80.'],
+    yearStart: 1979,
+    yearEnd: 1989,
+    summary: 'Pionierski polski zespół hardrockowy i heavymetalowy z lat 80., z wokalistą Markiem Piekarczykiem, autor przeboju „Mass media”.',
+    content: `## Powstanie
+TSA powstała w 1979 roku w Opolu. Zespół wprowadził na polską scenę ciężkie, hardrockowe i heavymetalowe brzmienie, którego wcześniej brakowało.
+
+## Marek Piekarczyk
+Wokalista Marek Piekarczyk wyróżniał się wysokim, mocnym głosem. TSA szybko zyskała grono oddanych fanów, a koncerty zespołu należały do najbardziej energetycznych w kraju.
+
+## Przeboje
+Najbardziej znane utwory to „Mass media”, „Bez podtekstów”, „51”. Teksty często odnosiły się do rzeczywistości społecznej i manipulacji medialnej.
+
+## Sukcesy
+TSA zdobywała nagrody na festiwalach i koncertowała także za granicą, w tym w Stanach Zjednoczonych, co było rzadkością dla polskiego zespołu w latach 80.
+
+## Znaczenie
+TSA to pionier polskiego heavy metalu, który otworzył drogę kolejnym zespołom tego nurtu i pozostaje klasyką gatunku.`,
+    resources: [
+      {
+        id: 'tsa-1',
+        title: 'TSA – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=TSA+Mass+media+Piekarczyk+koncert',
+        source: 'YouTube',
+        description: 'Występy i teledyski zespołu TSA.',
+      },
+      {
+        id: 'tsa-2',
+        title: 'TSA w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=TSA%20zesp%C3%B3%C5%82',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały.',
+      },
+      {
+        id: 'tsa-3',
+        title: 'Rock lat 80. – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=heavy%20metal%20rock%20lata%20osiemdziesi%C4%85te',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o cięższej scenie rockowej.',
+      },
+    ],
+    relatedIds: ['rock-lat-80', 'jarocin-festiwal', 'muzyka-rockowa-prl'],
+  },
+  {
+    id: 'lady-pank',
+    title: 'Lady Pank',
+    subtitle: '„Kryzysowa narzeczona” i rockowe przeboje',
+    category: 'kultura',
+    tags: ['muzyka', 'rock', 'pop-rock', 'lata 80.'],
+    yearStart: 1982,
+    yearEnd: 1989,
+    summary: 'Jeden z najpopularniejszych zespołów pop-rockowych lat 80., duet Jan Borysewicz–Janusz Panasewicz, autor przebojów „Kryzysowa narzeczona” i „Mniej niż zero”.',
+    content: `## Powstanie
+Lady Pank powstał w 1982 roku w Warszawie. Filarami zespołu byli gitarzysta i kompozytor Jan Borysewicz oraz wokalista Janusz Panasewicz. Teksty pisał m.in. Andrzej Mogielnicki.
+
+## Sukces
+Debiutancki album „Lady Pank” (1983) okazał się jednym z najlepiej sprzedających się w historii polskiej fonografii. Zespół błyskawicznie stał się gwiazdą dekady.
+
+## Przeboje
+Największe przeboje to „Kryzysowa narzeczona”, „Mniej niż zero”, „Zamki na piasku”, „Tańcz głupia tańcz”. Chwytliwe melodie i energetyczne brzmienie zapewniły im masową popularność.
+
+## Za granicą
+Lady Pank próbował kariery międzynarodowej, nagrywając anglojęzyczne wersje utworów i koncertując m.in. w Stanach Zjednoczonych.
+
+## Znaczenie
+Lady Pank to symbol komercyjnego sukcesu polskiego rocka lat 80., a jego przeboje pozostają klasyką radiową do dziś.`,
+    resources: [
+      {
+        id: 'lp-1',
+        title: 'Lady Pank – teledyski',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Lady+Pank+Kryzysowa+narzeczona+Mniej+ni%C5%BC+zero',
+        source: 'YouTube',
+        description: 'Teledyski i nagrania zespołu.',
+      },
+      {
+        id: 'lp-2',
+        title: 'Lady Pank w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Lady%20Pank',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały muzyczne.',
+      },
+      {
+        id: 'lp-3',
+        title: 'Rock lat 80. – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=rock%20pop%20muzyka%20lata%20osiemdziesi%C4%85te',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o scenie rockowej.',
+      },
+    ],
+    relatedIds: ['rock-lat-80', 'lista-przebojow-trojki', 'muzyka-rockowa-prl'],
+  },
+  {
+    id: 'budka-suflera',
+    title: 'Budka Suflera',
+    subtitle: 'Od „Cienia wielkiej góry” do estradowych przebojów',
+    category: 'kultura',
+    tags: ['muzyka', 'rock', 'lata 70.', 'lata 80.'],
+    yearStart: 1974,
+    yearEnd: 1989,
+    summary: 'Jeden z najdłużej działających polskich zespołów rockowych, założony przez Romualda Lipko, znany z utworów „Jolka, Jolka” i „Cień wielkiej góry”.',
+    content: `## Powstanie
+Budka Suflera powstała w 1974 roku w Lublinie z inicjatywy Romualda Lipko i Krzysztofa Cugowskiego. Debiutancki singiel „Cień wielkiej góry” od razu zwrócił uwagę słuchaczy.
+
+## Brzmienie
+Zespół łączył hard rock z balladą i elementami bluesa. Mocny głos Krzysztofa Cugowskiego stał się znakiem rozpoznawczym grupy.
+
+## Przeboje
+Największe przeboje to „Jolka, Jolka pamiętasz”, „Jest taki samotny dom”, „Czas ołowiu”, „Takie tango”. Wiele z nich na stałe weszło do kanonu polskiej muzyki.
+
+## Trwałość
+Budka Suflera przetrwała kolejne dekady, przechodząc zmiany składu, ale zachowując pozycję jednego z najpopularniejszych zespołów w kraju.
+
+## Znaczenie
+Grupa to jeden z filarów polskiej muzyki rockowej, łączący ambitne brzmienie z masową popularnością na estradzie.`,
+    resources: [
+      {
+        id: 'bs-1',
+        title: 'Budka Suflera – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Budka+Suflera+Jolka+Cie%C5%84+wielkiej+g%C3%B3ry',
+        source: 'YouTube',
+        description: 'Teledyski i występy zespołu.',
+      },
+      {
+        id: 'bs-2',
+        title: 'Budka Suflera w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Budka%20Suflera',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały.',
+      },
+      {
+        id: 'bs-3',
+        title: 'Rock w PRL – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=rock%20muzyka%20PRL%20zespo%C5%82y',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o muzyce rockowej.',
+      },
+    ],
+    relatedIds: ['rock-lat-80', 'muzyka-rockowa-prl', 'festiwal-opole'],
+  },
+  {
+    id: 'breakout-zespol',
+    title: 'Breakout',
+    subtitle: 'Tadeusz Nalepa i polski blues-rock',
+    category: 'kultura',
+    tags: ['muzyka', 'blues', 'rock', 'lata 70.'],
+    yearStart: 1968,
+    yearEnd: 1982,
+    summary: 'Pionierski polski zespół blues-rockowy założony przez Tadeusza Nalepę, „ojca polskiego bluesa”, autor albumów „Blues” i „Karate”.',
+    content: `## Powstanie
+Breakout powstał w 1968 roku, wyrastając z zespołu Blackout. Liderem i głównym kompozytorem był Tadeusz Nalepa, nazywany później „ojcem polskiego bluesa”.
+
+## Tadeusz Nalepa
+Nalepa (1943–2007) był gitarzystą, wokalistą i kompozytorem, który zaszczepił na polskim gruncie autentyczne brzmienie bluesa. Wczesne nagrania tworzył wraz z żoną Mirą Kubasińską.
+
+## Twórczość
+Albumy „Blues” (1971) i „Karate” (1972) uznawane są za kamienie milowe polskiej muzyki rockowej. Utwory takie jak „Kiedy byłem małym chłopcem” stały się klasyką.
+
+## Mira Kubasińska
+Wokalistka Mira Kubasińska, z mocnym, charakterystycznym głosem, współtworzyła wczesny sukces zespołu, m.in. przebojem „Gdybyś kochał, hej”.
+
+## Znaczenie
+Breakout i Tadeusz Nalepa położyli fundamenty pod rozwój polskiego blues-rocka, inspirując kolejne pokolenia muzyków, w tym zespół Dżem.`,
+    resources: [
+      {
+        id: 'br-1',
+        title: 'Breakout – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Breakout+Nalepa+blues+Kubasi%C5%84ska',
+        source: 'YouTube',
+        description: 'Nagrania zespołu Breakout.',
+      },
+      {
+        id: 'br-2',
+        title: 'Breakout w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Breakout%20Nalepa',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały muzyczne.',
+      },
+      {
+        id: 'br-3',
+        title: 'Blues w PRL – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=blues%20rock%20muzyka%20lata%20siedemdziesi%C4%85te',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o polskim bluesie.',
+      },
+    ],
+    relatedIds: ['dzem-zespol', 'muzyka-rockowa-prl', 'big-beat-prl'],
+  },
+  {
+    id: 'poezja-spiewana',
+    title: 'Poezja śpiewana',
+    subtitle: 'Muzyka, słowo i niezależność',
+    category: 'kultura',
+    tags: ['muzyka', 'poezja śpiewana', 'kultura', 'bard'],
+    yearStart: 1960,
+    yearEnd: 1989,
+    summary: 'Nurt łączący muzykę z poezją, ważny dla niezależnej kultury PRL, reprezentowany przez Jacka Kaczmarskiego, Przemysława Gintrowskiego i Piwnicę pod Baranami.',
+    content: `## Idea
+Poezja śpiewana to gatunek łączący wartościowy tekst poetycki z muzyką, w którym słowo jest równie ważne jak melodia. W PRL nurt ten stał się przestrzenią ambitnej, niezależnej twórczości.
+
+## Twórcy
+Do najważniejszych wykonawców należeli Ewa Demarczyk, Marek Grechuta, Jacek Kaczmarski, Przemysław Gintrowski, Jacek Kleyff oraz środowisko krakowskiej Piwnicy pod Baranami.
+
+## Piwnica pod Baranami
+Krakowski kabaret literacki Piwnica pod Baranami, kierowany przez Piotra Skrzyneckiego, był ważnym ośrodkiem poezji śpiewanej, łącząc ją z kabaretem i sztuką niezależną.
+
+## Funkcja społeczna
+W czasach cenzury poezja śpiewana pozwalała przemycać treści niewygodne dla władz poprzez metaforę i odwołania do wielkiej literatury. Koncerty często odbywały się w kościołach i klubach studenckich.
+
+## Znaczenie
+Nurt ten stanowił istotny element kultury niezależnej, kształtując wrażliwość kolejnych pokoleń i tworząc most między muzyką a literaturą.`,
+    resources: [
+      {
+        id: 'ps-1',
+        title: 'Poezja śpiewana – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=poezja+%C5%9Bpiewana+Demarczyk+Grechuta+Kaczmarski',
+        source: 'YouTube',
+        description: 'Nagrania czołowych wykonawców.',
+      },
+      {
+        id: 'ps-2',
+        title: 'Poezja śpiewana w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=poezja%20%C5%9Bpiewana',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały muzyczne.',
+      },
+      {
+        id: 'ps-3',
+        title: 'Kultura niezależna – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=poezja%20%C5%9Bpiewana%20kultura%20niezale%C5%BCna',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o niezależnej kulturze.',
+      },
+    ],
+    relatedIds: ['jacek-kaczmarski', 'gintrowski-bard', 'kultura-prl', 'drugi-obieg'],
   },
 ];
 
