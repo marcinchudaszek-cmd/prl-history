@@ -13610,6 +13610,516 @@ Dziennik był wzorcowym nośnikiem nowomowy – sztucznego, zideologizowanego j�
     ],
     relatedIds: ['prasa-prl', 'propaganda-prl', 'pzpr'],
   },
+  {
+    id: 'cybulski-zbigniew',
+    title: 'Zbigniew Cybulski',
+    subtitle: '„Polski James Dean”',
+    category: 'osoby',
+    tags: ['kultura', 'film', 'aktor', 'polska szkoła filmowa'],
+    yearStart: 1954,
+    yearEnd: 1967,
+    summary: 'Najsłynniejszy aktor polskiej szkoły filmowej, ikona pokolenia dzięki roli w „Popiele i diamencie” Andrzeja Wajdy.',
+    content: `## Sylwetka
+Zbigniew Cybulski (1927–1967) był aktorem filmowym i teatralnym, najjaśniejszą gwiazdą polskiej szkoły filmowej, porównywaną do Jamesa Deana ze względu na buntowniczy styl i charyzmę.
+
+## Popiół i diament
+Rola Maćka Chełmickiego w „Popiele i diamencie” (1958) Andrzeja Wajdy przyniosła mu legendę. Ciemne okulary, dżinsy i nerwowa ekspresja uczyniły go symbolem powojennego pokolenia.
+
+## Styl
+Cybulski wprowadził do polskiego kina nowy, naturalny styl gry – nerwowy, spontaniczny, daleki od teatralnej maniery. Stał się idolem młodzieży i ikoną mody.
+
+## Tragiczna śmierć
+Zginął tragicznie w 1967 roku, wskakując do ruszającego pociągu na dworcu we Wrocławiu. Jego śmierć wstrząsnęła Polską i dopełniła legendy „aktora przeklętego”.
+
+## Znaczenie
+Cybulski pozostaje symbolem polskiej szkoły filmowej i jednym z najważniejszych aktorów w historii rodzimego kina; jego pamięci poświęcono nagrodę filmową.`,
+    resources: [
+      {
+        id: 'cyb-1',
+        title: 'Zbigniew Cybulski – biogram',
+        type: 'film',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Zbigniew%20Cybulski',
+        source: 'FilmPolski.pl',
+        description: 'Filmografia i informacje o aktorze.',
+      },
+      {
+        id: 'cyb-2',
+        title: 'Cybulski – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Zbigniew+Cybulski+Popi%C3%B3%C5%82+i+diament',
+        source: 'YouTube',
+        description: 'Fragmenty filmów i materiały.',
+      },
+      {
+        id: 'cyb-3',
+        title: 'Kino polskie w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Zbigniew%20Cybulski%20film',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały filmowe.',
+      },
+    ],
+    relatedIds: ['polska-szkola-filmowa', 'wajda', 'kino-prl'],
+  },
+  {
+    id: 'holoubek-gustaw',
+    title: 'Gustaw Holoubek',
+    subtitle: 'Mistrz sceny i ekranu',
+    category: 'osoby',
+    tags: ['kultura', 'teatr', 'film', 'aktor'],
+    yearStart: 1950,
+    yearEnd: 1989,
+    summary: 'Wybitny aktor teatralny i filmowy, intelektualista sceny, którego zdjęcie spektaklu „Dziady” w 1968 roku stało się iskrą wydarzeń Marca \'68.',
+    content: `## Sylwetka
+Gustaw Holoubek (1923–2008) był jednym z najwybitniejszych polskich aktorów, mistrzem ról wymagających intelektu i wewnętrznego napięcia, a także reżyserem i dyrektorem teatrów.
+
+## „Dziady” 1968
+Grał Gustawa-Konrada w „Dziadach” Adama Mickiewicza w reżyserii Kazimierza Dejmka. Zdjęcie spektaklu w 1968 roku, odebrane jako cenzura treści patriotycznych, wywołało studenckie protesty Marca '68.
+
+## Teatr
+Holoubek był legendą polskiego teatru – kreował role w dramatach klasycznych i współczesnych, słynął z интelektualnej interpretacji i niepowtarzalnego głosu.
+
+## Film i telewizja
+Występował w filmach i Teatrze Telewizji, docierając do masowej widowni. Jego role pozostają wzorcem aktorskiego kunsztu.
+
+## Znaczenie
+Holoubek to symbol ambitnego, zaangażowanego aktorstwa; jego nazwisko łączy historię sztuki z dramatycznymi wydarzeniami politycznymi PRL.`,
+    resources: [
+      {
+        id: 'hol-1',
+        title: 'Gustaw Holoubek – biogram',
+        type: 'film',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Gustaw%20Holoubek',
+        source: 'FilmPolski.pl',
+        description: 'Filmografia i informacje o aktorze.',
+      },
+      {
+        id: 'hol-2',
+        title: 'Holoubek – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Gustaw+Holoubek+teatr+film',
+        source: 'YouTube',
+        description: 'Fragmenty ról i materiały.',
+      },
+      {
+        id: 'hol-3',
+        title: 'Teatr w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Gustaw%20Holoubek%20teatr',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały.',
+      },
+    ],
+    relatedIds: ['teatr-prl', 'teatr-telewizji', 'marzec-1968'],
+  },
+  {
+    id: 'osiecka-agnieszka',
+    title: 'Agnieszka Osiecka',
+    subtitle: 'Poetka polskiej piosenki',
+    category: 'osoby',
+    tags: ['kultura', 'literatura', 'muzyka', 'poezja', 'kobiety'],
+    yearStart: 1954,
+    yearEnd: 1989,
+    summary: 'Najwybitniejsza autorka tekstów polskiej piosenki, twórczyni słów do setek przebojów, związana z kabaretem STS i estradą.',
+    content: `## Sylwetka
+Agnieszka Osiecka (1936–1997) była poetką, autorką tekstów piosenek, pisarką i reżyserką. Napisała kilka tysięcy tekstów, w tym słowa do najsłynniejszych polskich przebojów.
+
+## Piosenka literacka
+Współtworzyła nurt piosenki literackiej. Jej teksty łączyły liryzm, ironię i refleksję nad miłością i przemijaniem, podnosząc piosenkę do rangi poezji.
+
+## Przeboje
+Pisała dla największych gwiazd – m.in. „Małgośkę” i „Niech żyje bal” dla Maryli Rodowicz, „Okularnicy”, „Na całych jeziorach – ty”. Współpracowała z kompozytorami jak Seweryn Krajewski.
+
+## STS i środowisko
+Była związana ze Studenckim Teatrem Satyryków (STS) i warszawskim środowiskiem artystycznym okresu odwilży, współtworząc klimat kulturalny epoki.
+
+## Znaczenie
+Osiecka to jedna z najważniejszych postaci polskiej kultury XX wieku; jej teksty na trwałe weszły do kanonu i wciąż są wykonywane.`,
+    resources: [
+      {
+        id: 'osi-1',
+        title: 'Agnieszka Osiecka – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Agnieszka+Osiecka+piosenki+teksty',
+        source: 'YouTube',
+        description: 'Wykonania piosenek z jej tekstami.',
+      },
+      {
+        id: 'osi-2',
+        title: 'Osiecka w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Agnieszka%20Osiecka',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały.',
+      },
+      {
+        id: 'osi-3',
+        title: 'Teksty i publikacje',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Agnieszka%20Osiecka',
+        source: 'Polona',
+        description: 'Materiały i publikacje.',
+      },
+    ],
+    relatedIds: ['maryla-rodowicz', 'literatura-prl', 'kultura-prl'],
+  },
+  {
+    id: 'mlynarski-wojciech',
+    title: 'Wojciech Młynarski',
+    subtitle: 'Satyryk i mistrz słowa',
+    category: 'osoby',
+    tags: ['kultura', 'muzyka', 'satyra', 'poezja', 'kabaret'],
+    yearStart: 1962,
+    yearEnd: 1989,
+    summary: 'Autor i wykonawca piosenek, mistrz inteligentnej satyry obyczajowej i językowej, twórca przebojów „W Polskę idziemy” i „Jesteśmy na wczasach”.',
+    content: `## Sylwetka
+Wojciech Młynarski (1941–2017) był piosenkarzem, autorem tekstów, satyrykiem i tłumaczem. Słynął z błyskotliwego, wirtuozerskiego operowania językiem polskim.
+
+## Satyra obyczajowa
+Jego piosenki celnie i z humorem portretowały PRL-owską codzienność, konformizm i absurdy systemu, omijając cenzurę dzięki ironii i grze słów.
+
+## Przeboje
+Do najsłynniejszych należą „Jesteśmy na wczasach”, „W Polskę idziemy”, „Po co babci koń”, „Róbmy swoje” – ta ostatnia stała się hymnem przetrwania w trudnych latach 80.
+
+## „Róbmy swoje”
+Piosenka „Róbmy swoje” (1986) niosła przesłanie wytrwałości i godności mimo przeciwności – stała się jednym z nieformalnych haseł schyłku PRL.
+
+## Znaczenie
+Młynarski to klasyk polskiej piosenki autorskiej, łączący rozrywkę z refleksją; jego teksty pozostają wzorem językowej maestrii.`,
+    resources: [
+      {
+        id: 'mly-1',
+        title: 'Wojciech Młynarski – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Wojciech+M%C5%82ynarski+R%C3%B3bmy+swoje+piosenki',
+        source: 'YouTube',
+        description: 'Wykonania piosenek artysty.',
+      },
+      {
+        id: 'mly-2',
+        title: 'Młynarski w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Wojciech%20M%C5%82ynarski',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały.',
+      },
+      {
+        id: 'mly-3',
+        title: 'Satyra i piosenka – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=piosenka%20autorska%20satyra%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o piosence literackiej.',
+      },
+    ],
+    relatedIds: ['kabaret-prl', 'osiecka-agnieszka', 'kultura-prl'],
+  },
+  {
+    id: 'nowak-jezioranski',
+    title: 'Jan Nowak-Jeziorański',
+    subtitle: '„Kurier z Warszawy” i głos Wolnej Europy',
+    category: 'osoby',
+    tags: ['opozycja', 'emigracja', 'media', 'radio'],
+    yearStart: 1952,
+    yearEnd: 1989,
+    summary: 'Emisariusz Polski Podziemnej, przez ćwierć wieku dyrektor Rozgłośni Polskiej Radia Wolna Europa – najważniejszego niezależnego głosu docierającego do PRL.',
+    content: `## Sylwetka
+Jan Nowak-Jeziorański (1914–2005), właściwie Zdzisław Jeziorański, był kurierem i emisariuszem Armii Krajowej, a po wojnie wybitnym dziennikarzem i działaczem emigracyjnym.
+
+## Kurier z Warszawy
+W czasie wojny jako emisariusz przewoził meldunki między Warszawą a Londynem, ryzykując życie. Doświadczenia te opisał w słynnej książce „Kurier z Warszawy”.
+
+## Radio Wolna Europa
+W latach 1952–1976 kierował Rozgłośnią Polską Radia Wolna Europa w Monachium. RWE było dla milionów Polaków oknem na prawdę, mimo zagłuszania przez władze PRL.
+
+## Wpływ
+Audycje RWE informowały o wydarzeniach przemilczanych w kraju, wspierały opozycję i podtrzymywały nadzieję. Nowak-Jeziorański stał się symbolem walki o wolne słowo.
+
+## Znaczenie
+Po 1989 roku powrócił do Polski jako autorytet moralny i orędownik wejścia kraju do NATO. Pozostaje symbolem niezłomnej służby Polsce.`,
+    resources: [
+      {
+        id: 'njz-1',
+        title: 'Nowak-Jeziorański – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Jan%20Nowak-Jeziora%C5%84ski%20Wolna%20Europa%20kurier',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o działaczu i RWE.',
+      },
+      {
+        id: 'njz-2',
+        title: 'RWE – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Jan+Nowak-Jeziora%C5%84ski+Radio+Wolna+Europa',
+        source: 'YouTube',
+        description: 'Archiwalne audycje i materiały.',
+      },
+      {
+        id: 'njz-3',
+        title: 'Dokumentacja archiwalna',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Nowak-Jeziora%C5%84ski%20Jan',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['radio-wolna-europa', 'polacy-na-emigracji', 'kultura-paryz'],
+  },
+  {
+    id: 'pochod-1-maja',
+    title: 'Pochód pierwszomajowy',
+    subtitle: 'Rytuał Święta Pracy',
+    category: 'społeczeństwo',
+    tags: ['propaganda', 'społeczeństwo', 'obrzędy', 'PZPR'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Coroczne, obowiązkowe pochody 1 Maja – centralny rytuał propagandowy PRL, manifestujący „jedność ludu pracującego” z władzą.',
+    content: `## Święto Pracy
+1 Maja, Międzynarodowy Dzień Solidarności Ludzi Pracy, był jednym z najważniejszych świąt PRL. Jego centralnym elementem był masowy pochód pierwszomajowy.
+
+## Obowiązkowy udział
+W pochodach „dobrowolnie-obowiązkowo” uczestniczyli pracownicy zakładów, uczniowie i studenci. Nieobecność mogła oznaczać kłopoty, dlatego frekwencja była masowa.
+
+## Choreografia propagandy
+Uczestnicy nieśli transparenty, portrety przywódców i hasła o sukcesach socjalizmu, defilując przed trybuną honorową z lokalnymi i partyjnymi dygnitarzami.
+
+## Druga strona
+Dla wielu pochód był uciążliwym obowiązkiem, znoszonym z dystansem i ironią. Z czasem stał się pustym rytuałem, w którym nikt nie wierzył w głoszone hasła.
+
+## Znaczenie
+Pochody pierwszomajowe to symbol propagandowej obrzędowości PRL – spektaklu „jedności”, za którym kryła się przymusowa mobilizacja społeczeństwa.`,
+    resources: [
+      {
+        id: 'maj-1',
+        title: 'Pochody 1 Maja – archiwalia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=poch%C3%B3d+pierwszomajowy+1+Maja+PRL',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania pochodów.',
+      },
+      {
+        id: 'maj-2',
+        title: 'Święto Pracy – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=1%20Maja%20poch%C3%B3d%20propaganda%20%C5%9Bwi%C4%99to%20pracy',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o obrzędowości PRL.',
+      },
+      {
+        id: 'maj-3',
+        title: 'Fotografie pochodów',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=poch%C3%B3d%20pierwszomajowy%201%20Maja',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne.',
+      },
+    ],
+    relatedIds: ['propaganda-prl', 'propaganda-sukcesu', 'pzpr'],
+  },
+  {
+    id: 'swieto-22-lipca',
+    title: 'Święto 22 Lipca',
+    subtitle: 'Narodowe Święto Odrodzenia Polski',
+    category: 'społeczeństwo',
+    tags: ['propaganda', 'polityka', 'święto', 'PKWN'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Najważniejsze święto państwowe PRL, ustanowione w rocznicę ogłoszenia Manifestu PKWN, symbolicznego „narodzenia” Polski Ludowej.',
+    content: `## Geneza
+22 lipca ustanowiono Narodowym Świętem Odrodzenia Polski – w rocznicę ogłoszenia w 1944 roku Manifestu PKWN, uznawanego przez władze za akt założycielski Polski Ludowej.
+
+## Główne święto państwowe
+Było to najważniejsze święto PRL, zastępujące przedwojenne 3 Maja i 11 Listopada. Organizowano akademie, defilady, otwarcia inwestycji i uroczystości.
+
+## „Czyny” i otwarcia
+Na 22 lipca przyspieszano oddawanie do użytku obiektów – mostów, fabryk, osiedli – często niedokończonych, by zameldować o sukcesach „na czas” na święto.
+
+## Amnestie
+Z okazji 22 lipca ogłaszano amnestie, niekiedy obejmujące więźniów politycznych – element propagandowego gestu „łaski” władzy.
+
+## Znaczenie
+Święto 22 Lipca to symbol legitymizacji systemu przez odwołanie do Manifestu PKWN. Po 1989 roku zniesiono je, przywracając Święto Niepodległości 11 Listopada.`,
+    resources: [
+      {
+        id: 'lip-1',
+        title: '22 Lipca – archiwalia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=22+lipca+%C5%9Bwi%C4%99to+PRL+defilada',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania uroczystości.',
+      },
+      {
+        id: 'lip-2',
+        title: 'Manifest PKWN i święto – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=22%20lipca%20Manifest%20PKWN%20%C5%9Bwi%C4%99to%20pa%C5%84stwowe',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o święcie i jego propagandzie.',
+      },
+      {
+        id: 'lip-3',
+        title: 'Fotografie i druki',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=22%20lipca%20%C5%9Bwi%C4%99to%20odrodzenia',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne.',
+      },
+    ],
+    relatedIds: ['manifest-pkwn', 'propaganda-prl', 'konstytucja-prl'],
+  },
+  {
+    id: 'teatr-grotowskiego',
+    title: 'Teatr Laboratorium Grotowskiego',
+    subtitle: 'Teatr ubogi o światowej sławie',
+    category: 'kultura',
+    tags: ['kultura', 'teatr', 'awangarda', 'eksperyment'],
+    yearStart: 1959,
+    yearEnd: 1984,
+    summary: 'Eksperymentalny teatr Jerzego Grotowskiego, twórcy koncepcji „teatru ubogiego”, który zdobył światową sławę i zrewolucjonizował myślenie o sztuce aktorskiej.',
+    content: `## Powstanie
+Teatr Laboratorium założył Jerzy Grotowski w 1959 roku w Opolu, a w 1965 roku przeniósł go do Wrocławia. Stał się jednym z najsłynniejszych teatrów eksperymentalnych świata.
+
+## Teatr ubogi
+Grotowski sformułował ideę „teatru ubogiego” – rezygnacji z dekoracji, kostiumów i efektów na rzecz skupienia na aktorze i jego relacji z widzem. Liczył się akt obecności, nie scenografia.
+
+## Metoda
+Aktorzy poddawani byli intensywnemu treningowi fizycznemu i psychicznemu. Spektakle jak „Książę Niezłomny” czy „Apocalypsis cum figuris” stały się legendą światowego teatru.
+
+## Wpływ
+Koncepcje Grotowskiego wpłynęły na teatr na całym świecie – jego pisma, zwłaszcza „Ku teatrowi ubogiemu”, są fundamentem współczesnej refleksji o sztuce aktorskiej.
+
+## Znaczenie
+Mimo realiów PRL Grotowski stworzył dzieło o światowym znaczeniu, czyniąc Polskę jednym z centrów teatralnej awangardy XX wieku.`,
+    resources: [
+      {
+        id: 'gro-1',
+        title: 'Teatr Grotowskiego – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Jerzy%20Grotowski%20Teatr%20Laboratorium%20teatr%20ubogi',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o teatrze i jego twórcy.',
+      },
+      {
+        id: 'gro-2',
+        title: 'Grotowski – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Jerzy+Grotowski+Teatr+Laboratorium',
+        source: 'YouTube',
+        description: 'Materiały filmowe o teatrze.',
+      },
+      {
+        id: 'gro-3',
+        title: 'Teatr w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Grotowski%20teatr',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały.',
+      },
+    ],
+    relatedIds: ['teatr-prl', 'kultura-prl'],
+  },
+  {
+    id: 'zuzel-prl',
+    title: 'Żużel w PRL',
+    subtitle: 'Masowa pasja na owalnym torze',
+    category: 'społeczeństwo',
+    tags: ['sport', 'żużel', 'społeczeństwo', 'rozrywka'],
+    yearStart: 1948,
+    yearEnd: 1989,
+    summary: 'Sport żużlowy był jedną z najpopularniejszych dyscyplin w PRL, gromadząc tłumy kibiców i przynosząc Polsce światowe sukcesy.',
+    content: `## Fenomen popularności
+Żużel (sport motocyklowy na owalnym torze) stał się w PRL dyscypliną masową. Mecze ligowe gromadziły dziesiątki tysięcy widzów, a kluby budziły lokalny patriotyzm.
+
+## Sukcesy
+Polscy żużlowcy odnosili światowe triumfy. Jerzy Szczakiel w 1973 roku został indywidualnym mistrzem świata – pierwszym Polakiem z tym tytułem, co wywołało euforię.
+
+## Kluby i rywalizacja
+Drużyny z Wrocławia, Bydgoszczy, Częstochowy, Zielonej Góry, Rzeszowa czy Leszna toczyły zacięte boje. Żużel był jednym z niewielu sportów, w których Polska liczyła się globalnie.
+
+## Społeczna rola
+Mecze żużlowe były ważnym wydarzeniem towarzyskim i odskocznią od codzienności. Sport ten miał silne zaplecze robotnicze i lokalne.
+
+## Znaczenie
+Żużel to jeden z najbardziej charakterystycznych sportów PRL, którego popularność i tradycja przetrwały do czasów współczesnych.`,
+    resources: [
+      {
+        id: 'zuz-1',
+        title: 'Żużel – archiwalia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=%C5%BCu%C5%BCel+PRL+Szczakiel+mistrzostwa',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania zawodów.',
+      },
+      {
+        id: 'zuz-2',
+        title: 'Sport żużlowy – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=%C5%BCu%C5%BCel%20sport%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o historii żużla.',
+      },
+      {
+        id: 'zuz-3',
+        title: 'Sport w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=%C5%BCu%C5%BCel%20sport',
+        source: 'Ninateka',
+        description: 'Materiały filmowe o sporcie.',
+      },
+    ],
+    relatedIds: ['sport-prl', 'wyscig-pokoju'],
+  },
+  {
+    id: 'list-34',
+    title: 'List 34',
+    subtitle: 'Protest intelektualistów przeciw cenzurze',
+    category: 'opozycja',
+    tags: ['opozycja', 'cenzura', 'kultura', 'intelektualiści'],
+    yearStart: 1964,
+    yearEnd: 1964,
+    summary: 'Krótki list 34 wybitnych pisarzy i uczonych z 1964 roku, protestujący przeciw cenzurze i polityce kulturalnej władz – pierwszy taki publiczny gest w PRL.',
+    content: `## Geneza
+W marcu 1964 roku 34 wybitnych przedstawicieli polskiej kultury i nauki podpisało krótki list do premiera, protestując przeciw zaostrzeniu cenzury i ograniczeniom przydziału papieru na książki.
+
+## Treść
+List był wyjątkowo zwięzły – dwa zdania – lecz jego waga wynikała z nazwisk sygnatariuszy, wśród których znaleźli się m.in. Maria Dąbrowska, Antoni Słonimski, Jan Parandowski i Paweł Jasienica.
+
+## Reakcja władz
+Władze odpowiedziały represjami: szykanami, zakazami druku, naciskami i kampanią propagandową. Próbowano też wymusić kontrlisty potępiające sygnatariuszy.
+
+## Echo na świecie
+O sprawie informowały zachodnie media i Radio Wolna Europa, co czyniło z Listu 34 wydarzenie o międzynarodowym rozgłosie i prekursora późniejszych protestów.
+
+## Znaczenie
+List 34 był pierwszym zbiorowym, publicznym protestem środowisk twórczych w PRL i zapowiedzią rosnącego oporu inteligencji wobec cenzury.`,
+    resources: [
+      {
+        id: 'l34-1',
+        title: 'List 34 – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=List%2034%20cenzura%20protest%20intelektuali%C5%9Bci%201964',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o proteście i jego skutkach.',
+      },
+      {
+        id: 'l34-2',
+        title: 'List 34 – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=List+34+cenzura+PRL+protest+pisarzy',
+        source: 'YouTube',
+        description: 'Materiały o wydarzeniu.',
+      },
+      {
+        id: 'l34-3',
+        title: 'Dokumenty i prasa',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=cenzura%20literatura%20protest',
+        source: 'Polona',
+        description: 'Materiały prasowe i publikacje.',
+      },
+    ],
+    relatedIds: ['cenzura-prl', 'literatura-prl', 'kisielewski'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -13725,4 +14235,9 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1955, event: 'Otwarcie Stadionu Dziesięciolecia w Warszawie', category: 'społeczeństwo', entryId: 'stadion-dziesieciolecia' },
   { year: 1985, event: 'Powstaje Ruch „Wolność i Pokój” – pacyfistyczna opozycja', category: 'opozycja', entryId: 'wolnosc-i-pokoj' },
   { year: 1987, event: 'Happeningi Pomarańczowej Alternatywy – „krasnoludki” we Wrocławiu', category: 'opozycja', entryId: 'pomaranczowa-alternatywa' },
+  { year: 1952, event: 'Jan Nowak-Jeziorański obejmuje kierownictwo Rozgłośni Polskiej Radia Wolna Europa', category: 'opozycja', entryId: 'nowak-jezioranski' },
+  { year: 1964, event: 'List 34 – protest pisarzy i uczonych przeciw cenzurze', category: 'opozycja', entryId: 'list-34' },
+  { year: 1965, event: 'Teatr Laboratorium Jerzego Grotowskiego przenosi się do Wrocławia', category: 'kultura', entryId: 'teatr-grotowskiego' },
+  { year: 1967, event: 'Tragiczna śmierć Zbigniewa Cybulskiego – ikony polskiego kina', category: 'kultura', entryId: 'cybulski-zbigniew' },
+  { year: 1973, event: 'Jerzy Szczakiel indywidualnym mistrzem świata na żużlu', category: 'społeczeństwo', entryId: 'zuzel-prl' },
 ];
