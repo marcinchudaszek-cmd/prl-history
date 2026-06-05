@@ -274,4 +274,30 @@ export const slangTerms: SlangTerm[] = [
     definition: 'Waluty wymienialne (dolary, marki). Ich posiadanie było reglamentowane; „konto dewizowe” i bony dawały dostęp do Pewexu.',
     category: 'gospodarka',
   },
+  {
+    term: 'Tysiąclatka',
+    definition: 'Potoczna nazwa Szkoły Tysiąclecia – jednej z tysiąca szkół wybudowanych na obchody Tysiąclecia Państwa Polskiego (1966).',
+    category: 'codzienność',
+  },
+  {
+    term: 'Akademia',
+    definition: 'Uroczysta „akademia ku czci” z okazji rocznic i świąt państwowych – obowiązkowy, sztampowy spektakl z przemówieniami i występami.',
+    example: '„Cała szkoła na akademię z okazji rewolucji październikowej”.',
+    category: 'propaganda',
+  },
+  {
+    term: 'Książeczka mieszkaniowa',
+    definition: 'Oszczędnościowa książeczka PKO uprawniająca do przydziału mieszkania w spółdzielni – na lokal czekało się jednak nawet kilkanaście lat.',
+    category: 'gospodarka',
+  },
+  {
+    term: 'Delegacja',
+    definition: 'Podróż służbowa i rozliczana za nią dieta; „delegówka” bywała sposobem na dorobienie i załatwianie prywatnych spraw przy okazji wyjazdu.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Fajrant',
+    definition: 'Koniec dniówki, zakończenie pracy. „Robić fajrant” oznaczało też wcześniejsze odpuszczenie obowiązków.',
+    category: 'codzienność',
+  },
 ];

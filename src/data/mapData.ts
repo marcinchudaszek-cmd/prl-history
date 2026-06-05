@@ -236,4 +236,22 @@ export const mapLocations: MapLocation[] = [
     description: 'Estradowe „okno na świat” – festiwal w Operze Leśnej z gwiazdami z Zachodu i bloku wschodniego.',
     entryId: 'sopot-festiwal',
   },
+  {
+    id: 'loc-huta-katowice',
+    name: 'Huta Katowice',
+    city: 'Dąbrowa Górnicza',
+    lon: 19.27, lat: 50.36,
+    type: 'wydarzenie', year: '1972',
+    description: 'Sztandarowa, finansowana kredytami inwestycja dekady Gierka i jeden z ośrodków Solidarności na Śląsku.',
+    entryId: 'huta-katowice',
+  },
+  {
+    id: 'loc-czestochowa',
+    name: 'Jasna Góra – Milenium',
+    city: 'Częstochowa',
+    lon: 19.12, lat: 50.81,
+    type: 'kultura', year: '1966',
+    description: 'Centrum obchodów Milenium Chrztu Polski i pielgrzymek – duchowa stolica oporu wobec ateizacji.',
+    entryId: 'milenium-1966',
+  },
 ];

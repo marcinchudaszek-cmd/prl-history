@@ -14120,6 +14120,618 @@ List 34 był pierwszym zbiorowym, publicznym protestem środowisk twórczych w P
     ],
     relatedIds: ['cenzura-prl', 'literatura-prl', 'kisielewski'],
   },
+  {
+    id: 'huta-katowice',
+    title: 'Huta Katowice',
+    subtitle: 'Sztandarowa inwestycja dekady Gierka',
+    category: 'gospodarka',
+    tags: ['gospodarka', 'przemysł', 'Gierek', 'lata 70.', 'hutnictwo'],
+    yearStart: 1972,
+    yearEnd: 1989,
+    summary: 'Gigantyczny kombinat metalurgiczny w Dąbrowie Górniczej, symbol forsownej industrializacji i prestiżowych, lecz zadłużających kraj inwestycji epoki Gierka.',
+    content: `## Wielka inwestycja
+Hutę Katowice w Dąbrowie Górniczej budowano od 1972 roku jako sztandarową inwestycję dekady Edwarda Gierka. Miała być dowodem skoku cywilizacyjnego i potęgi przemysłowej PRL.
+
+## Skala
+Była to jedna z największych hut w Europie, oparta na licencjach i technologii z Zachodu oraz ZSRR. Do jej obsługi zbudowano specjalną szerokotorową linię kolejową z granicy radzieckiej.
+
+## Koszty i długi
+Inwestycja pochłonęła ogromne środki, w dużej części z zachodnich kredytów. Stała się symbolem polityki „na pokaz”, która napędzała rosnące zadłużenie i kryzys gospodarczy schyłku lat 70.
+
+## Solidarność
+W 1980 roku Huta Katowice stała się jednym z ważnych ośrodków rodzącej się Solidarności na Śląsku, a jej załoga aktywnie uczestniczyła w strajkach.
+
+## Znaczenie
+Huta Katowice to symbol rozmachu i zarazem słabości gospodarki PRL – wielkich inwestycji finansowanych długiem, które nie uchroniły kraju przed załamaniem.`,
+    resources: [
+      {
+        id: 'hk-1',
+        title: 'Huta Katowice – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Huta%20Katowice%20Gierek%20przemys%C5%82%20inwestycja',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o budowie i znaczeniu huty.',
+      },
+      {
+        id: 'hk-2',
+        title: 'Industrializacja – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Huta+Katowice+budowa+PRL+Gierek',
+        source: 'YouTube',
+        description: 'Archiwalne materiały filmowe.',
+      },
+      {
+        id: 'hk-3',
+        title: 'Fotografie i druki',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=Huta%20Katowice%20przemys%C5%82',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne.',
+      },
+    ],
+    relatedIds: ['gospodarka-prl', 'gierek', 'zadluzenie-prl'],
+  },
+  {
+    id: 'domy-towarowe',
+    title: 'Domy towarowe i Supersam',
+    subtitle: 'Świątynie handlu w gospodarce niedoboru',
+    category: 'społeczeństwo',
+    tags: ['społeczeństwo', 'handel', 'życie codzienne', 'architektura'],
+    yearStart: 1952,
+    yearEnd: 1989,
+    summary: 'Wielkie domy towarowe (CDT, „Centrum”) i pierwszy samoobsługowy Supersam były wizytówkami handlu PRL, mimo chronicznych braków towarów.',
+    content: `## Wizytówki handlu
+Domy towarowe – warszawski CDT (później „Smyk”), domy „Centrum”, sieć „Sezam” – były dumą socjalistycznego handlu, nowoczesnymi gmachami w centrach miast.
+
+## Supersam
+Otwarty w 1962 roku warszawski Supersam był pierwszym sklepem samoobsługowym w Polsce – nowinką wzorowaną na Zachodzie, z odważną, wiszącą konstrukcją dachu uznawaną za ikonę architektury.
+
+## Niedobór mimo wystaw
+Mimo reprezentacyjnego charakteru półki domów towarowych często świeciły pustkami. Atrakcyjne towary „rzucano” nieregularnie, co wywoływało kolejki i polowanie na deficyt.
+
+## Rytuał zakupów
+Wizyta w domu towarowym była wydarzeniem – zwłaszcza przed świętami. Stoiska z zabawkami, konfekcją i sprzętem RTV przyciągały tłumy, choć wybór bywał ubogi.
+
+## Znaczenie
+Domy towarowe i Supersam to symbol napięcia między propagandową nowoczesnością a realiami gospodarki niedoboru, w której nawet „świątynie handlu” nie miały co sprzedawać.`,
+    resources: [
+      {
+        id: 'dt-1',
+        title: 'Domy towarowe – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=domy%20towarowe%20Supersam%20handel%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o handlu i architekturze.',
+      },
+      {
+        id: 'dt-2',
+        title: 'Handel PRL – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Supersam+domy+towarowe+PRL+handel',
+        source: 'YouTube',
+        description: 'Archiwalne materiały filmowe.',
+      },
+      {
+        id: 'dt-3',
+        title: 'Fotografie handlu',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=dom%20towarowy%20Supersam%20Warszawa',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne.',
+      },
+    ],
+    relatedIds: ['zycie-codzienne', 'gospodarka-prl', 'kolejki-prl'],
+  },
+  {
+    id: 'szkoly-tysiaclecia',
+    title: 'Szkoły Tysiąclecia',
+    subtitle: '„Tysiąc szkół na Tysiąclecie”',
+    category: 'społeczeństwo',
+    tags: ['edukacja', 'społeczeństwo', 'propaganda', 'architektura'],
+    yearStart: 1958,
+    yearEnd: 1966,
+    summary: 'Akcja budowy tysiąca szkół na obchody Tysiąclecia Państwa Polskiego – świecka odpowiedź władz na kościelne obchody Milenium Chrztu Polski.',
+    content: `## Geneza
+W 1958 roku ogłoszono akcję „Tysiąc szkół na Tysiąclecie Państwa Polskiego”. Była to świecka, państwowa odpowiedź na zapowiadane przez Kościół obchody Milenium Chrztu Polski w 1966 roku.
+
+## Rywalizacja z Kościołem
+Władze chciały, by obchody tysiąclecia kojarzyły się z państwem i postępem, a nie z chrześcijaństwem. Budowa szkół miała być namacalnym dowodem troski socjalizmu o oświatę.
+
+## Realizacja
+Dzięki masowej zbiórce społecznej i „czynom” powstało ponad tysiąc nowoczesnych szkół, zwanych „tysiąclatkami”. Wiele z nich służy do dziś.
+
+## Wymiar propagandowy
+Akcja była przedsięwzięciem zarazem oświatowym i propagandowym – łączyła realną poprawę bazy szkolnej z ideologiczną walką o symbolikę tysiąclecia.
+
+## Znaczenie
+Szkoły Tysiąclecia to przykład, jak władze PRL wykorzystywały realne inwestycje społeczne do rywalizacji z Kościołem o „rząd dusz”.`,
+    resources: [
+      {
+        id: 'st-1',
+        title: 'Szkoły Tysiąclecia – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Szko%C5%82y%20Tysi%C4%85clecia%20tysi%C4%85clatki%20edukacja%20Milenium',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o akcji budowy szkół.',
+      },
+      {
+        id: 'st-2',
+        title: 'Tysiąclatki – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Szko%C5%82y+Tysi%C4%85clecia+PRL+budowa',
+        source: 'YouTube',
+        description: 'Archiwalne materiały filmowe.',
+      },
+      {
+        id: 'st-3',
+        title: 'Fotografie i druki',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=Szko%C5%82a%20Tysi%C4%85clecia%20tysi%C4%85clatka',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne.',
+      },
+    ],
+    relatedIds: ['edukacja-prl', 'milenium-1966', 'propaganda-prl'],
+  },
+  {
+    id: 'oredzie-biskupow',
+    title: 'Orędzie biskupów polskich',
+    subtitle: '„Przebaczamy i prosimy o przebaczenie”',
+    category: 'społeczeństwo',
+    tags: ['kościół', 'religia', 'pojednanie', 'polityka', 'Niemcy'],
+    yearStart: 1965,
+    yearEnd: 1965,
+    summary: 'List biskupów polskich do niemieckich z 1965 roku ze słynnymi słowami „przebaczamy i prosimy o przebaczenie”, który wywołał gniew władz PRL.',
+    content: `## Kontekst
+W 1965 roku, na zakończenie Soboru Watykańskiego II, biskupi polscy wystosowali orędzie do biskupów niemieckich, zapraszając ich na obchody Milenium Chrztu Polski.
+
+## Słynne słowa
+List zawierał historyczne zdanie: „Udzielamy przebaczenia i prosimy o przebaczenie”. Był odważnym gestem pojednania z narodem niemieckim zaledwie 20 lat po wojnie.
+
+## Reakcja władz
+Komunistyczne władze rozpętały kampanię nienawiści przeciw biskupom, oskarżając ich o zdradę i „wtrącanie się” do polityki zagranicznej. Hasło „Nie przebaczamy” pojawiało się na transparentach.
+
+## Znaczenie polityczne
+Władze obawiały się autorytetu Kościoła i wykorzystały orędzie do nagonki, m.in. odmawiając prymasowi Wyszyńskiemu paszportu. Konflikt zaostrzył napięcia państwo–Kościół.
+
+## Dziedzictwo
+Orędzie biskupów uznawane jest dziś za jeden z fundamentów pojednania polsko-niemieckiego i wybitny akt moralnej odwagi Kościoła.`,
+    resources: [
+      {
+        id: 'ob-1',
+        title: 'Orędzie biskupów – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Or%C4%99dzie%20biskup%C3%B3w%20polskich%20niemieckich%201965%20przebaczamy',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o liście i jego skutkach.',
+      },
+      {
+        id: 'ob-2',
+        title: 'Orędzie – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Or%C4%99dzie+biskup%C3%B3w+1965+przebaczamy+prosimy',
+        source: 'YouTube',
+        description: 'Materiały filmowe i dokumenty.',
+      },
+      {
+        id: 'ob-3',
+        title: 'Dokumenty kościelne',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=or%C4%99dzie%20biskup%C3%B3w%20pojednanie',
+        source: 'Polona',
+        description: 'Publikacje i materiały.',
+      },
+    ],
+    relatedIds: ['kosciol-prl', 'milenium-1966', 'wyszynski'],
+  },
+  {
+    id: 'nowelizacja-konstytucji-1976',
+    title: 'Nowelizacja konstytucji 1976',
+    subtitle: 'Kierownicza rola partii i List 59',
+    category: 'opozycja',
+    tags: ['opozycja', 'konstytucja', 'polityka', 'intelektualiści'],
+    yearStart: 1975,
+    yearEnd: 1976,
+    summary: 'Wpisanie do konstytucji „kierowniczej roli PZPR” i sojuszu z ZSRR wywołało protesty intelektualistów, m.in. słynny List 59.',
+    content: `## Projekt zmian
+Na przełomie 1975 i 1976 roku władze przygotowały nowelizację konstytucji PRL, wpisującą do niej „kierowniczą rolę PZPR” oraz „nierozerwalny sojusz” z ZSRR.
+
+## List 59
+W grudniu 1975 roku 59 intelektualistów, pisarzy i naukowców podpisało protest – „List 59” – sprzeciwiając się zapisom ograniczającym suwerenność i prawa obywatelskie.
+
+## Fala protestów
+List 59 zapoczątkował serię petycji i protestów środowisk twórczych i kościelnych. Mimo to nowelizację uchwalono w 1976 roku, choć w nieco złagodzonej formie.
+
+## Krok ku opozycji
+Protesty wokół konstytucji zintegrowały środowiska opozycyjne i były ważnym etapem na drodze do powstania KOR i jawnej opozycji demokratycznej.
+
+## Znaczenie
+Sprawa nowelizacji pokazała rosnącą gotowość inteligencji do publicznego sprzeciwu i ujawniła fasadowość „demokracji ludowej”.`,
+    resources: [
+      {
+        id: 'nk-1',
+        title: 'List 59 i konstytucja – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=List%2059%20nowelizacja%20konstytucji%201976%20protest',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o proteście i nowelizacji.',
+      },
+      {
+        id: 'nk-2',
+        title: 'Protesty 1976 – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=List+59+konstytucja+PRL+1976+opozycja',
+        source: 'YouTube',
+        description: 'Materiały o wydarzeniach.',
+      },
+      {
+        id: 'nk-3',
+        title: 'Dokumenty i prasa',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=konstytucja%20PRL%20nowelizacja%20protest',
+        source: 'Polona',
+        description: 'Materiały prasowe i publikacje.',
+      },
+    ],
+    relatedIds: ['konstytucja-prl', 'kor', 'michnik'],
+  },
+  {
+    id: 'tkn-uniwersytet-latajacy',
+    title: 'Uniwersytet Latający (TKN)',
+    subtitle: 'Niezależna nauka poza cenzurą',
+    category: 'opozycja',
+    tags: ['opozycja', 'nauka', 'edukacja', 'drugi obieg'],
+    yearStart: 1977,
+    yearEnd: 1981,
+    summary: 'Niezależne wykłady i Towarzystwo Kursów Naukowych z lat 70., kontynuujące tradycję tajnego nauczania wbrew cenzurze i kontroli władz.',
+    content: `## Geneza
+W 1977 roku, w środowiskach opozycyjnych, zaczęto organizować niezależne wykłady – „Uniwersytet Latający”, nawiązujący nazwą do tajnego nauczania z czasów zaborów i okupacji.
+
+## Towarzystwo Kursów Naukowych
+W 1978 roku powołano Towarzystwo Kursów Naukowych (TKN), które koordynowało niezależne wykłady z historii, literatury, socjologii i ekonomii – tematów zakłamywanych przez oficjalną naukę.
+
+## Wykładowcy
+Wykłady prowadzili wybitni uczeni i intelektualiści, m.in. związani z KOR. Odbywały się w prywatnych mieszkaniach, często nachodzonych przez SB i bojówki.
+
+## Represje
+Uczestników i wykładowców szykanowano, wykłady rozbijano, a prowadzących zastraszano. Mimo to inicjatywa rozwijała się, docierając do młodzieży akademickiej.
+
+## Znaczenie
+Uniwersytet Latający i TKN były ważnym elementem niezależnej kultury i nauki, kształtując kadry przyszłej opozycji i broniąc prawa do prawdy.`,
+    resources: [
+      {
+        id: 'tkn-1',
+        title: 'TKN – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Towarzystwo%20Kurs%C3%B3w%20Naukowych%20Uniwersytet%20Lataj%C4%85cy%20opozycja',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o niezależnej nauce.',
+      },
+      {
+        id: 'tkn-2',
+        title: 'Uniwersytet Latający – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Uniwersytet+Lataj%C4%85cy+TKN+drugi+obieg',
+        source: 'YouTube',
+        description: 'Materiały o inicjatywie.',
+      },
+      {
+        id: 'tkn-3',
+        title: 'Dokumentacja archiwalna',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Towarzystwo%20Kurs%C3%B3w%20Naukowych',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['kor', 'drugi-obieg', 'edukacja-prl', 'michnik'],
+  },
+  {
+    id: 'kik',
+    title: 'Kluby Inteligencji Katolickiej',
+    subtitle: 'Wyspy niezależnej myśli',
+    category: 'społeczeństwo',
+    tags: ['kościół', 'społeczeństwo', 'opozycja', 'inteligencja'],
+    yearStart: 1956,
+    yearEnd: 1989,
+    summary: 'Stowarzyszenia katolickiej inteligencji, powstałe po 1956 roku, będące jednym z nielicznych legalnych ośrodków niezależnej myśli i debaty w PRL.',
+    content: `## Powstanie
+Kluby Inteligencji Katolickiej (KIK) powstały w okresie odwilży 1956 roku w największych miastach – Warszawie, Krakowie, Poznaniu, Wrocławiu i Toruniu.
+
+## Niezależna przestrzeń
+W realiach jednopartyjnego państwa KIK-i były jednym z niewielu legalnych miejsc swobodnej dyskusji o kulturze, etyce i sprawach publicznych, łącząc wiarę z otwartością intelektualną.
+
+## Działalność
+Organizowały wykłady, dyskusje, rekolekcje i spotkania z wybitnymi myślicielami. Były związane ze środowiskiem „Tygodnika Powszechnego” i „Więzi”.
+
+## Rola w opozycji
+KIK-i stały się zapleczem opozycji demokratycznej. Z ich środowiska wywodziło się wielu działaczy i ekspertów Solidarności, m.in. Tadeusz Mazowiecki.
+
+## Znaczenie
+Kluby Inteligencji Katolickiej współtworzyły niezależne społeczeństwo obywatelskie i były pomostem między Kościołem, inteligencją a opozycją.`,
+    resources: [
+      {
+        id: 'kik-1',
+        title: 'KIK – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Kluby%20Inteligencji%20Katolickiej%20KIK%20opozycja',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o klubach i ich roli.',
+      },
+      {
+        id: 'kik-2',
+        title: 'KIK – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Kluby+Inteligencji+Katolickiej+PRL',
+        source: 'YouTube',
+        description: 'Materiały o działalności klubów.',
+      },
+      {
+        id: 'kik-3',
+        title: 'Dokumenty i prasa',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Klub%20Inteligencji%20Katolickiej',
+        source: 'Polona',
+        description: 'Materiały prasowe i publikacje.',
+      },
+    ],
+    relatedIds: ['kosciol-prl', 'tygodnik-powszechny', 'mazowiecki'],
+  },
+  {
+    id: 'festiwal-gdynia',
+    title: 'Festiwal Polskich Filmów Fabularnych',
+    subtitle: 'Główne święto polskiego kina',
+    category: 'kultura',
+    tags: ['kultura', 'film', 'festiwal', 'kino'],
+    yearStart: 1974,
+    yearEnd: 1989,
+    summary: 'Najważniejszy festiwal polskiego kina, zainaugurowany w 1974 roku w Gdańsku (później Gdynia), prezentujący dorobek rodzimej kinematografii.',
+    content: `## Powstanie
+Festiwal Polskich Filmów Fabularnych zainaugurowano w 1974 roku w Gdańsku. Od 1987 roku jego stałą siedzibą stała się Gdynia, z którą jest dziś najmocniej kojarzony.
+
+## Przegląd kina
+Festiwal był corocznym przeglądem najważniejszych polskich produkcji, miejscem prezentacji nowych filmów i debat o kondycji kinematografii.
+
+## Nagrody
+Główną nagrodą były Złote Lwy (Gdańskie/Gdyńskie). Festiwal wyłaniał najwybitniejsze dzieła, w tym filmy nurtu kina moralnego niepokoju.
+
+## Polityka i kino
+W realiach cenzury festiwal bywał areną napięć – niektóre filmy wstrzymywano lub nagradzano wbrew oczekiwaniom władz. Odzwierciedlał stan ducha twórców.
+
+## Znaczenie
+Festiwal w Gdyni pozostaje najważniejszym wydarzeniem polskiego kina, a jego historia jest zwierciadłem przemian rodzimej kinematografii od czasów PRL.`,
+    resources: [
+      {
+        id: 'fg-1',
+        title: 'Festiwal w Gdyni – materiały',
+        type: 'film',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Festiwal%20Polskich%20Film%C3%B3w%20Fabularnych%20Gdynia',
+        source: 'FilmPolski.pl',
+        description: 'Informacje o festiwalu i laureatach.',
+      },
+      {
+        id: 'fg-2',
+        title: 'Festiwal – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Festiwal+Polskich+Film%C3%B3w+Fabularnych+Gda%C5%84sk+Gdynia',
+        source: 'YouTube',
+        description: 'Archiwalne materiały filmowe.',
+      },
+      {
+        id: 'fg-3',
+        title: 'Kino w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=festiwal%20film%20polski',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały filmowe.',
+      },
+    ],
+    relatedIds: ['kino-prl', 'kino-moralnego-niepokoju', 'wajda'],
+  },
+  {
+    id: 'zanussi-krzysztof',
+    title: 'Krzysztof Zanussi',
+    subtitle: 'Reżyser kina intelektualnego',
+    category: 'osoby',
+    tags: ['kultura', 'film', 'reżyser', 'kino moralnego niepokoju'],
+    yearStart: 1966,
+    yearEnd: 1989,
+    summary: 'Reżyser filmowy, twórca kina intelektualnego i współtwórca nurtu kina moralnego niepokoju, znany z filmów „Iluminacja” i „Barwy ochronne”.',
+    content: `## Sylwetka
+Krzysztof Zanussi (ur. 1939), z wykształcenia fizyk i filozof, wniósł do polskiego kina refleksję intelektualną, etyczną i egzystencjalną.
+
+## Kino myśli
+Jego filmy, jak „Struktura kryształu” czy „Iluminacja”, stawiały pytania o sens życia, naukę, wiarę i moralne wybory jednostki, wyróżniając się na tle ówczesnej kinematografii.
+
+## Kino moralnego niepokoju
+„Barwy ochronne” (1977) stały się jednym z manifestów kina moralnego niepokoju – nurtu demaskującego konformizm, układy i zakłamanie życia w PRL.
+
+## Pozycja
+Zanussi zdobył międzynarodowe uznanie i nagrody na festiwalach. Kierował Zespołem Filmowym „Tor”, wspierając innych twórców, w tym Kieślowskiego.
+
+## Znaczenie
+Krzysztof Zanussi to jeden z najważniejszych polskich reżyserów, symbol kina ambitnego, intelektualnego i zaangażowanego moralnie.`,
+    resources: [
+      {
+        id: 'zan-1',
+        title: 'Krzysztof Zanussi – biogram',
+        type: 'film',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Krzysztof%20Zanussi',
+        source: 'FilmPolski.pl',
+        description: 'Filmografia i informacje o reżyserze.',
+      },
+      {
+        id: 'zan-2',
+        title: 'Zanussi – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Krzysztof+Zanussi+Iluminacja+Barwy+ochronne',
+        source: 'YouTube',
+        description: 'Fragmenty filmów i materiały.',
+      },
+      {
+        id: 'zan-3',
+        title: 'Kino w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Krzysztof%20Zanussi%20film',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały filmowe.',
+      },
+    ],
+    relatedIds: ['kino-moralnego-niepokoju', 'kino-prl', 'kieslowski'],
+  },
+  {
+    id: 'munk-andrzej',
+    title: 'Andrzej Munk',
+    subtitle: 'Mistrz polskiej szkoły filmowej',
+    category: 'osoby',
+    tags: ['kultura', 'film', 'reżyser', 'polska szkoła filmowa'],
+    yearStart: 1955,
+    yearEnd: 1961,
+    summary: 'Wybitny reżyser polskiej szkoły filmowej, twórca „Eroiki” i „Zezowatego szczęścia”, demaskujący narodowe mity z ironią i dystansem.',
+    content: `## Sylwetka
+Andrzej Munk (1921–1961) był reżyserem i jednym z czołowych twórców polskiej szkoły filmowej, znanym z chłodnego, ironicznego spojrzenia na historię i mity narodowe.
+
+## Demitologizacja
+W odróżnieniu od romantycznego nurtu Wajdy, Munk z dystansem i ironią pokazywał polskie bohaterstwo. „Eroica” (1957) i „Zezowate szczęście” (1960) demaskowały narodowe złudzenia.
+
+## Styl
+Jego filmy łączyły inteligentny scenariusz, ironię i precyzyjną formę. Munk był też cenionym dokumentalistą i wykładowcą łódzkiej Szkoły Filmowej.
+
+## Tragiczna śmierć
+Zginął w 1961 roku w wypadku samochodowym podczas realizacji „Pasażerki” – filmu o Auschwitz, ukończonego pośmiertnie przez współpracowników i uznanego za arcydzieło.
+
+## Znaczenie
+Andrzej Munk pozostaje jednym z najwybitniejszych polskich reżyserów, twórcą krytycznego, intelektualnego nurtu rodzimego kina.`,
+    resources: [
+      {
+        id: 'mun2-1',
+        title: 'Andrzej Munk – biogram',
+        type: 'film',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Andrzej%20Munk',
+        source: 'FilmPolski.pl',
+        description: 'Filmografia i informacje o reżyserze.',
+      },
+      {
+        id: 'mun2-2',
+        title: 'Munk – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Andrzej+Munk+Eroica+Zezowate+szcz%C4%99%C5%9Bcie',
+        source: 'YouTube',
+        description: 'Fragmenty filmów i materiały.',
+      },
+      {
+        id: 'mun2-3',
+        title: 'Kino w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Andrzej%20Munk%20film',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały filmowe.',
+      },
+    ],
+    relatedIds: ['polska-szkola-filmowa', 'kino-prl', 'cybulski-zbigniew'],
+  },
+  {
+    id: 'has-wojciech',
+    title: 'Wojciech Jerzy Has',
+    subtitle: 'Twórca „Rękopisu znalezionego w Saragossie”',
+    category: 'osoby',
+    tags: ['kultura', 'film', 'reżyser', 'kino'],
+    yearStart: 1958,
+    yearEnd: 1989,
+    summary: 'Reżyser o niepowtarzalnej, onirycznej wyobraźni, twórca kultowego „Rękopisu znalezionego w Saragossie” i „Sanatorium pod Klepsydrą”.',
+    content: `## Sylwetka
+Wojciech Jerzy Has (1925–2000) był reżyserem osobnym, tworzącym kino poetyckie, oniryczne i wizyjne, dalekie od politycznego zaangażowania.
+
+## Rękopis znaleziony w Saragossie
+Jego najsłynniejszy film, „Rękopis znaleziony w Saragossie” (1965) na podstawie powieści Jana Potockiego, to labiryntowa, wielopiętrowa opowieść, która zyskała status kultowego dzieła także za granicą.
+
+## Sanatorium pod Klepsydrą
+„Sanatorium pod Klepsydrą” (1973) według Brunona Schulza to wizjonerska adaptacja, olśniewająca plastyczną wyobraźnią i nagrodzona w Cannes.
+
+## Styl
+Has budował niepowtarzalne, gęste od detali światy, w których czas i przestrzeń tracą zwykłe reguły. Był też wieloletnim pedagogiem łódzkiej Szkoły Filmowej.
+
+## Znaczenie
+Wojciech Has to jeden z najbardziej oryginalnych polskich reżyserów, twórca kina wyobraźni o trwałym, międzynarodowym oddziaływaniu.`,
+    resources: [
+      {
+        id: 'has-1',
+        title: 'Wojciech Has – biogram',
+        type: 'film',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Wojciech%20Has',
+        source: 'FilmPolski.pl',
+        description: 'Filmografia i informacje o reżyserze.',
+      },
+      {
+        id: 'has-2',
+        title: 'Has – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Wojciech+Has+R%C4%99kopis+znaleziony+w+Saragossie',
+        source: 'YouTube',
+        description: 'Fragmenty filmów i materiały.',
+      },
+      {
+        id: 'has-3',
+        title: 'Kino w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Wojciech%20Has%20film',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały filmowe.',
+      },
+    ],
+    relatedIds: ['kino-prl', 'literatura-prl', 'polska-szkola-filmowa'],
+  },
+  {
+    id: 'boks-prl',
+    title: 'Polska szkoła boksu',
+    subtitle: 'Pięściarstwo na szczytach świata',
+    category: 'społeczeństwo',
+    tags: ['sport', 'boks', 'olimpiada', 'społeczeństwo'],
+    yearStart: 1948,
+    yearEnd: 1989,
+    summary: 'Boks był jedną z najpopularniejszych i najbardziej utytułowanych dyscyplin PRL, a „polska szkoła boksu” przynosiła medale olimpijskie i mistrzostwa Europy.',
+    content: `## Fenomen
+Pięściarstwo należało do najpopularniejszych sportów PRL. Mecze gromadziły tłumy, a sukcesy bokserów były źródłem narodowej dumy i przedmiotem propagandowej chluby.
+
+## „Polska szkoła boksu”
+Pojęcie „polskiej szkoły boksu” oznaczało technikę, finezję i taktykę nad siłą. Jej twórcą był trener Feliks Stamm, wychowawca pokoleń mistrzów.
+
+## Mistrzowie
+Sukcesy odnosili m.in. Jerzy Kulej (dwukrotny mistrz olimpijski), Zbigniew Pietrzykowski, Marian Kasprzyk i Jan Szczepański. Polscy bokserzy zdobywali medale igrzysk i mistrzostw Europy.
+
+## Feliks Stamm
+Legendarny trener „Papa” Stamm prowadził reprezentację przez dziesięciolecia, budując jej światową renomę i wychowując zawodników w duchu sportowej klasy.
+
+## Znaczenie
+Polska szkoła boksu to jeden z największych sukcesów sportu PRL, symbol kunsztu, który przez lata stawiał polskie pięściarstwo w światowej czołówce.`,
+    resources: [
+      {
+        id: 'box-1',
+        title: 'Polski boks – archiwalia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=polska+szko%C5%82a+boksu+Kulej+Stamm+olimpiada',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania walk.',
+      },
+      {
+        id: 'box-2',
+        title: 'Boks – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=boks%20pi%C4%99%C5%9Bciarstwo%20sport%20PRL%20Stamm',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o historii boksu.',
+      },
+      {
+        id: 'box-3',
+        title: 'Sport w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=boks%20sport%20Polska',
+        source: 'Ninateka',
+        description: 'Materiały filmowe o sporcie.',
+      },
+    ],
+    relatedIds: ['sport-prl', 'wyscig-pokoju'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -14240,4 +14852,11 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1965, event: 'Teatr Laboratorium Jerzego Grotowskiego przenosi się do Wrocławia', category: 'kultura', entryId: 'teatr-grotowskiego' },
   { year: 1967, event: 'Tragiczna śmierć Zbigniewa Cybulskiego – ikony polskiego kina', category: 'kultura', entryId: 'cybulski-zbigniew' },
   { year: 1973, event: 'Jerzy Szczakiel indywidualnym mistrzem świata na żużlu', category: 'społeczeństwo', entryId: 'zuzel-prl' },
+  { year: 1962, event: 'Otwarcie warszawskiego Supersamu – pierwszego sklepu samoobsługowego', category: 'społeczeństwo', entryId: 'domy-towarowe' },
+  { year: 1965, event: 'Orędzie biskupów polskich do niemieckich – „przebaczamy i prosimy o przebaczenie”', category: 'społeczeństwo', entryId: 'oredzie-biskupow' },
+  { year: 1961, event: 'Tragiczna śmierć Andrzeja Munka podczas realizacji „Pasażerki”', category: 'kultura', entryId: 'munk-andrzej' },
+  { year: 1965, event: 'Premiera „Rękopisu znalezionego w Saragossie” Wojciecha Hasa', category: 'kultura', entryId: 'has-wojciech' },
+  { year: 1974, event: 'Pierwszy Festiwal Polskich Filmów Fabularnych w Gdańsku', category: 'kultura', entryId: 'festiwal-gdynia' },
+  { year: 1976, event: 'Nowelizacja konstytucji PRL i protest „Listu 59”', category: 'opozycja', entryId: 'nowelizacja-konstytucji-1976' },
+  { year: 1978, event: 'Powstaje Towarzystwo Kursów Naukowych – Uniwersytet Latający', category: 'opozycja', entryId: 'tkn-uniwersytet-latajacy' },
 ];
