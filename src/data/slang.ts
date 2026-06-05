@@ -207,4 +207,35 @@ export const slangTerms: SlangTerm[] = [
     definition: 'Sieć sklepów walutowych obsługujących marynarzy i podróżnych – obok Pewexu źródło towarów z Zachodu.',
     category: 'gospodarka',
   },
+  {
+    term: 'Aparatczyk',
+    definition: 'Etatowy działacz partyjny lub urzędnik aparatu PZPR – symbol bezdusznej, dbającej o własne przywileje biurokracji.',
+    category: 'władza',
+  },
+  {
+    term: 'Cześć pracy!',
+    definition: 'Oficjalne, propagandowe powitanie lansowane wśród robotników i działaczy zamiast tradycyjnych form grzecznościowych.',
+    category: 'propaganda',
+  },
+  {
+    term: 'Spod lady',
+    definition: 'Sprzedaż towaru deficytowego wybranym klientom „spod lady”, z pominięciem kolejki, za łapówkę lub w ramach układów.',
+    example: '„Wędlinę trzymali spod lady dla swoich”.',
+    category: 'gospodarka',
+  },
+  {
+    term: 'Krasnoludki',
+    definition: 'Symbol Pomarańczowej Alternatywy – malowane na murach skrzaty i happeningi ośmieszające absurdalnie aparat władzy.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Saturator',
+    definition: 'Uliczny automat lub stoisko z wodą sodową „z sokiem”, pite ze wspólnej, jedynie płukanej szklanki – ikona miejskiego lata.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Pasztet / talon',
+    definition: 'Talon (np. na samochód, pralkę) przydzielany w zakładzie pracy – „wygrany” przydział na towar, na który i tak czekało się latami.',
+    category: 'gospodarka',
+  },
 ];

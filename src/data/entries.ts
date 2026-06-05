@@ -13099,6 +13099,517 @@ Marek Edelman pozostaje symbolem odwagi, wierności wartościom i niezależnego 
     ],
     relatedIds: ['kor', 'solidarnosc', 'marzec-1968', 'internowanie'],
   },
+  {
+    id: 'pomaranczowa-alternatywa',
+    title: 'Pomarańczowa Alternatywa',
+    subtitle: 'Krasnoludki kontra system',
+    category: 'opozycja',
+    tags: ['opozycja', 'happening', 'kultura', 'lata 80.', 'Wrocław'],
+    yearStart: 1981,
+    yearEnd: 1989,
+    summary: 'Wrocławski ruch happeningowy Waldemara „Majora” Fydrycha, który absurdem i humorem ośmieszał władzę i aparat represji.',
+    content: `## Geneza
+Pomarańczowa Alternatywa narodziła się we Wrocławiu z inicjatywy Waldemara Fydrycha, zwanego „Majorem”. Ruch posługiwał się happeningiem i absurdem jako bronią przeciw ponuremu systemowi.
+
+## Krasnoludki
+Najsłynniejszym symbolem stały się krasnoludki – malowane na murach w miejscach zamalowanych antyrządowych napisów. Później setki ludzi w pomarańczowych czapeczkach krasnoludków wychodziły na ulice.
+
+## Happeningi
+Uczestnicy organizowali absurdalne akcje („Rewolucja Krasnoludków”, rozdawanie papieru toaletowego), wciągając milicję w groteskowe sytuacje. Zatrzymywanie „krasnoludków” ośmieszało aparat represji.
+
+## Metoda
+W odróżnieniu od poważnej, podziemnej opozycji Pomarańczowa Alternatywa rozbrajała strach śmiechem. Absurd okazał się skuteczny – władza nie wiedziała, jak reagować na pokojowy happening.
+
+## Znaczenie
+Ruch stał się symbolem kreatywnego, pokojowego oporu schyłku PRL i inspiracją dla późniejszych form protestu obywatelskiego.`,
+    resources: [
+      {
+        id: 'pa-1',
+        title: 'Pomarańczowa Alternatywa – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Pomara%C5%84czowa%20Alternatywa%20happening%20Fydrych',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o ruchu happeningowym.',
+      },
+      {
+        id: 'pa-2',
+        title: 'Happeningi – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Pomara%C5%84czowa+Alternatywa+krasnoludki+Wroc%C5%82aw',
+        source: 'YouTube',
+        description: 'Materiały filmowe o akcjach.',
+      },
+      {
+        id: 'pa-3',
+        title: 'Druki i ulotki',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=Pomara%C5%84czowa%20Alternatywa%20ulotki',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne.',
+      },
+    ],
+    relatedIds: ['solidarnosc-walczaca', 'podziemna-solidarnosc', 'drugi-obieg'],
+  },
+  {
+    id: 'wolnosc-i-pokoj',
+    title: 'Ruch „Wolność i Pokój”',
+    subtitle: 'Pacyfizm przeciw militaryzacji',
+    category: 'opozycja',
+    tags: ['opozycja', 'pacyfizm', 'młodzież', 'lata 80.', 'ekologia'],
+    yearStart: 1985,
+    yearEnd: 1989,
+    summary: 'Niezależny ruch pacyfistyczno-ekologiczny lat 80., sprzeciwiający się przymusowej wojskowej przysiędze i niszczeniu środowiska.',
+    content: `## Powstanie
+Ruch „Wolność i Pokój” (WiP) powstał w 1985 roku jako niezależna inicjatywa młodzieżowa, łącząca pacyfizm, obronę praw człowieka i ekologię.
+
+## Odmowa przysięgi
+Działacze WiP odmawiali składania wojskowej przysięgi zawierającej deklarację wierności ZSRR, a także służby z bronią. Za odmowę trafiali do więzień, stając się więźniami sumienia.
+
+## Ekologia
+Ruch protestował przeciw zanieczyszczeniu środowiska i niebezpiecznym inwestycjom, m.in. przeciw elektrowni jądrowej w Żarnowcu, łącząc opozycję polityczną z ruchem ekologicznym.
+
+## Metody
+WiP stosował pokojowe formy protestu: głodówki, manifestacje, happeningi. Współpracował z opozycją zachodnią i ruchami pokojowymi za granicą.
+
+## Znaczenie
+Wolność i Pokój wniósł do polskiej opozycji tematykę praw człowieka, pacyfizmu i ekologii, poszerzając jej język o nowe pokolenie działaczy.`,
+    resources: [
+      {
+        id: 'wip-1',
+        title: 'Wolność i Pokój – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Wolno%C5%9B%C4%87%20i%20Pok%C3%B3j%20ruch%20pacyfistyczny%20opozycja',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o ruchu WiP.',
+      },
+      {
+        id: 'wip-2',
+        title: 'WiP – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Wolno%C5%9B%C4%87+i+Pok%C3%B3j+ruch+opozycja+lata+80',
+        source: 'YouTube',
+        description: 'Materiały filmowe o ruchu.',
+      },
+      {
+        id: 'wip-3',
+        title: 'Dokumentacja archiwalna',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Wolno%C5%9B%C4%87%20i%20Pok%C3%B3j%20ruch',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['nzs', 'podziemna-solidarnosc', 'lwp'],
+  },
+  {
+    id: 'bar-mleczny',
+    title: 'Bar mleczny',
+    subtitle: 'Tania stołówka epoki',
+    category: 'społeczeństwo',
+    tags: ['życie codzienne', 'gastronomia', 'społeczeństwo', 'kuchnia'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Dotowane przez państwo, tanie bary samoobsługowe serwujące proste dania mączne i mleczne – symbol PRL-owskiej gastronomii dla mas.',
+    content: `## Idea
+Bary mleczne to tanie, dotowane przez państwo jadłodajnie, dostępne dla najuboższych. Serwowały proste, bezmięsne dania: pierogi, naleśniki, kluski, zupy mleczne i kompoty.
+
+## Wystrój i obyczaje
+Charakterystyczny był skromny wystrój, lastrykowe podłogi, aluminiowe sztućce przywiązane łańcuszkami i tabliczki „Prosimy nie zostawiać resztek”. Obsługa za ladą wydawała posiłki na bony lub paragony.
+
+## Funkcja społeczna
+Bary mleczne karmiły studentów, robotników, emerytów i rodziny o niskich dochodach. Stanowiły element polityki socjalnej i były powszechnie obecne w miastach.
+
+## Menu
+Kuchnia była prosta i tania: leniwe, ruskie pierogi, kasza, jajka sadzone, mleko, kefir, budyń. Mięso pojawiało się rzadko, zgodnie z ideą taniego wyżywienia.
+
+## Znaczenie
+Bary mleczne stały się ikoną PRL-owskiej codzienności. Część przetrwała transformację jako element kulturowego dziedzictwa i nostalgii za epoką.`,
+    resources: [
+      {
+        id: 'bm-1',
+        title: 'Bary mleczne – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=bar%20mleczny%20gastronomia%20PRL%20%C5%BCycie%20codzienne',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o gastronomii epoki.',
+      },
+      {
+        id: 'bm-2',
+        title: 'Życie codzienne – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=bar+mleczny+PRL+gastronomia',
+        source: 'YouTube',
+        description: 'Materiały o barach mlecznych.',
+      },
+      {
+        id: 'bm-3',
+        title: 'Fotografie i druki',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=bar%20mleczny%20jad%C5%82odajnia',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne.',
+      },
+    ],
+    relatedIds: ['zycie-codzienne', 'kuchnia-prl', 'kolejki-prl'],
+  },
+  {
+    id: 'zhp-harcerstwo',
+    title: 'Harcerstwo w PRL (ZHP)',
+    subtitle: 'Między wychowaniem a indoktrynacją',
+    category: 'społeczeństwo',
+    tags: ['społeczeństwo', 'młodzież', 'edukacja', 'wychowanie'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Związek Harcerstwa Polskiego – masowa organizacja młodzieżowa, poddana ideologizacji, lecz zachowująca tradycyjne wartości w wielu drużynach.',
+    content: `## Powojenne losy
+Po wojnie tradycyjne harcerstwo zostało zlikwidowane i wcielone do komunistycznej Organizacji Harcerskiej, podporządkowanej ZMP. Odrzucono krzyż harcerski i przyrzeczenie.
+
+## Odrodzenie 1956
+W okresie odwilży 1956 roku reaktywowano Związek Harcerstwa Polskiego, częściowo przywracając tradycyjne metody, mundury i symbolikę, choć pod kontrolą partii.
+
+## Ideologizacja
+Władze wykorzystywały ZHP do wychowania w duchu socjalistycznym – organizowano akcje, czyny społeczne i obozy o charakterze ideologicznym. Mimo to wiele drużyn kultywowało autentyczne wartości harcerskie.
+
+## Nurt niezależny
+W latach 70. i 80. powstał nurt opozycyjny – Kręgi Instruktorów Harcerskich im. Andrzeja Małkowskiego (KIHAM), nawiązujący do przedwojennych tradycji i niezależności.
+
+## Znaczenie
+Harcerstwo w PRL to historia napięcia między wychowaniem do wartości a próbami indoktrynacji – dla wielu pokoleń pozostało jednak szkołą charakteru i przyjaźni.`,
+    resources: [
+      {
+        id: 'zhp-1',
+        title: 'Harcerstwo w PRL – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=ZHP%20harcerstwo%20PRL%20wychowanie%20m%C5%82odzie%C5%BC',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o dziejach harcerstwa.',
+      },
+      {
+        id: 'zhp-2',
+        title: 'Harcerstwo – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=harcerstwo+ZHP+PRL+obozy',
+        source: 'YouTube',
+        description: 'Materiały filmowe.',
+      },
+      {
+        id: 'zhp-3',
+        title: 'Fotografie i druki',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=harcerstwo%20ZHP',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne.',
+      },
+    ],
+    relatedIds: ['edukacja-prl', 'zmp', 'dzieci-prl'],
+  },
+  {
+    id: 'kabaret-pod-egida',
+    title: 'Kabaret „Pod Egidą”',
+    subtitle: 'Jan Pietrzak i satyra polityczna',
+    category: 'kultura',
+    tags: ['kultura', 'kabaret', 'satyra', 'opozycja', 'cenzura'],
+    yearStart: 1967,
+    yearEnd: 1989,
+    summary: 'Najsłynniejszy kabaret polityczny PRL, prowadzony przez Jana Pietrzaka, słynący z aluzyjnej satyry i pieśni „Żeby Polska była Polską”.',
+    content: `## Powstanie
+Kabaret „Pod Egidą” założył w 1967 roku Jan Pietrzak. Stał się on najważniejszą sceną satyry politycznej w PRL, balansującą na granicy tego, co dopuszczała cenzura.
+
+## Aluzyjna satyra
+Programy operowały aluzją, metaforą i grą słów, by przemycić krytykę systemu. Publiczność, wyćwiczona w czytaniu między wierszami, reagowała entuzjastycznie na każdy ukryty sens.
+
+## „Żeby Polska była Polską”
+Napisana przez Pietrzaka pieśń „Żeby Polska była Polską” (muzyka Włodzimierza Korcza) stała się nieformalnym hymnem opozycji i symbolem dążeń niepodległościowych.
+
+## Cenzura i naciski
+Kabaret był pod stałą obserwacją, a programy ścierały się z cenzurą. W stanie wojennym Pietrzak był internowany, a jego działalność ograniczana.
+
+## Znaczenie
+„Pod Egidą” to symbol odważnej satyry politycznej, która śmiechem podtrzymywała ducha sprzeciwu wobec systemu.`,
+    resources: [
+      {
+        id: 'pe-1',
+        title: 'Kabaret Pod Egidą – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Kabaret+Pod+Egid%C4%85+Jan+Pietrzak+satyra',
+        source: 'YouTube',
+        description: 'Nagrania programów kabaretowych.',
+      },
+      {
+        id: 'pe-2',
+        title: 'Satyra polityczna – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=kabaret%20satyra%20polityczna%20cenzura%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o kabarecie i cenzurze.',
+      },
+      {
+        id: 'pe-3',
+        title: 'Kabaret w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=kabaret%20Pod%20Egid%C4%85',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały.',
+      },
+    ],
+    relatedIds: ['kabaret-prl', 'jacek-kaczmarski', 'cenzura-prl'],
+  },
+  {
+    id: 'kabaret-tey',
+    title: 'Kabaret Tey',
+    subtitle: 'Laskowik i Smoleń – satyra Wielkopolski',
+    category: 'kultura',
+    tags: ['kultura', 'kabaret', 'satyra', 'lata 70.', 'lata 80.'],
+    yearStart: 1971,
+    yearEnd: 1989,
+    summary: 'Poznański kabaret Zenona Laskowika i Bohdana Smolenia, jeden z najpopularniejszych w PRL, łączący satyrę polityczną z humorem absurdu.',
+    content: `## Powstanie
+Kabaret Tey powstał w 1971 roku w Poznaniu, wyrastając ze środowiska studenckiego kabaretu Tey. Jego filarami byli Zenon Laskowik i Bohdan Smoleń.
+
+## Duet
+Kontrast między intelektualnym, ironicznym Laskowikiem a rubasznym, ludowym Smoleniem („Hadziukiem”) tworzył niepowtarzalny humor, który podbił całą Polskę.
+
+## Satyra
+Programy Tey celnie wyśmiewały absurdy systemu, propagandę i codzienne bolączki PRL. Skecze i piosenki wchodziły między ludźmi, cytowane i powtarzane.
+
+## Popularność
+Dzięki występom telewizyjnym i estradowym kabaret zyskał masową widownię. W okresie stanu wojennego, jak wielu artystów, mierzył się z ograniczeniami.
+
+## Znaczenie
+Kabaret Tey to klasyka polskiej satyry – obok „Pod Egidą” i kabaretu Olgi Lipińskiej współtworzył złoty wiek humoru epoki PRL.`,
+    resources: [
+      {
+        id: 'tey-1',
+        title: 'Kabaret Tey – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Kabaret+Tey+Laskowik+Smole%C5%84+skecze',
+        source: 'YouTube',
+        description: 'Nagrania programów kabaretu.',
+      },
+      {
+        id: 'tey-2',
+        title: 'Kabaret w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Kabaret%20Tey',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały.',
+      },
+      {
+        id: 'tey-3',
+        title: 'Satyra PRL – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=kabaret%20satyra%20rozrywka%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o kabarecie.',
+      },
+    ],
+    relatedIds: ['kabaret-prl', 'kabaret-pod-egida', 'telewizja-prl'],
+  },
+  {
+    id: 'stadion-dziesieciolecia',
+    title: 'Stadion Dziesięciolecia',
+    subtitle: 'Od defilad do Jarmarku Europa',
+    category: 'społeczeństwo',
+    tags: ['społeczeństwo', 'sport', 'Warszawa', 'architektura'],
+    yearStart: 1955,
+    yearEnd: 1989,
+    summary: 'Wielki stadion w Warszawie otwarty w 1955 roku, miejsce defilad, imprez masowych i dramatycznego protestu Ryszarda Siwca.',
+    content: `## Budowa
+Stadion Dziesięciolecia otwarto w 1955 roku z okazji dziesięciolecia PRL. Wzniesiono go częściowo z gruzów zniszczonej wojną Warszawy, na prawym brzegu Wisły.
+
+## Imprezy masowe
+Stadion był areną dożynek centralnych, defilad, wieców propagandowych, zawodów sportowych i koncertów. Miał być wizytówką osiągnięć Polski Ludowej.
+
+## Protest Ryszarda Siwca
+To właśnie tu, podczas dożynek w 1968 roku, Ryszard Siwiec dokonał samospalenia w proteście przeciw inwazji na Czechosłowację – akt na długo przemilczany przez władze.
+
+## Schyłek
+W latach 80. stadion popadał w ruinę. Po 1989 roku stał się słynnym targowiskiem „Jarmark Europa”, a w XXI wieku w jego miejscu zbudowano Stadion Narodowy.
+
+## Znaczenie
+Dzieje stadionu odzwierciedlają losy PRL – od propagandowej dumy, przez codzienność i protest, po schyłek systemu.`,
+    resources: [
+      {
+        id: 'sd-1',
+        title: 'Stadion Dziesięciolecia – archiwalia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Stadion+Dziesi%C4%99ciolecia+Warszawa+PRL',
+        source: 'YouTube',
+        description: 'Materiały filmowe o stadionie.',
+      },
+      {
+        id: 'sd-2',
+        title: 'Stadion – fotografie',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=Stadion%20Dziesi%C4%99ciolecia%20Warszawa',
+        source: 'Polona',
+        description: 'Fotografie i druki archiwalne.',
+      },
+      {
+        id: 'sd-3',
+        title: 'Architektura PRL – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Stadion%20Dziesi%C4%99ciolecia%20Warszawa%20architektura',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o obiekcie.',
+      },
+    ],
+    relatedIds: ['sport-prl', 'ryszard-siwiec', 'palac-kultury'],
+  },
+  {
+    id: 'czarny-rynek',
+    title: 'Czarny rynek i waluta',
+    subtitle: 'Druga gospodarka PRL',
+    category: 'gospodarka',
+    tags: ['gospodarka', 'niedobory', 'waluta', 'życie codzienne'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Nielegalny obrót towarami deficytowymi i walutą obcą, który w warunkach gospodarki niedoboru stał się integralną częścią codzienności.',
+    content: `## Geneza
+W gospodarce centralnie planowanej, cierpiącej na chroniczne niedobory, równolegle do oficjalnego rynku rozwinął się rozległy czarny rynek – „druga gospodarka” PRL.
+
+## Towary spod lady
+Deficytowe produkty – od mięsa po sprzęt RTV i części samochodowe – sprzedawano „spod lady”, za łapówki lub w ramach układów. „Załatwianie” stało się powszechną praktyką.
+
+## Waluta i cinkciarze
+Posiadanie obcych walut było reglamentowane, ale dolary i marki krążyły nielegalnie. Cinkciarze handlowali walutą wokół hoteli i Pewexów, oferując kursy lepsze niż oficjalne.
+
+## Skala zjawiska
+Czarny rynek obejmował miliony ludzi – od drobnego handlu po zorganizowane sieci. Władze zwalczały go, lecz same były od niego uzależnione, tolerując jako wentyl niedoborów.
+
+## Znaczenie
+Druga gospodarka ilustruje strukturalną niewydolność systemu i przedsiębiorczość Polaków zmuszonych „kombinować”, by przetrwać w realiach niedoboru.`,
+    resources: [
+      {
+        id: 'cr-1',
+        title: 'Czarny rynek – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=czarny%20rynek%20waluta%20niedobory%20gospodarka%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o drugiej gospodarce.',
+      },
+      {
+        id: 'cr-2',
+        title: 'Gospodarka niedoboru – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=czarny+rynek+cinkciarze+PRL',
+        source: 'YouTube',
+        description: 'Materiały o nielegalnym handlu.',
+      },
+      {
+        id: 'cr-3',
+        title: 'Dokumenty gospodarcze',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=handel%20waluta%20PRL',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne i prasowe.',
+      },
+    ],
+    relatedIds: ['gospodarka-prl', 'pewex', 'kartki-prl'],
+  },
+  {
+    id: 'ormo',
+    title: 'ORMO',
+    subtitle: 'Ochotnicza Rezerwa Milicji Obywatelskiej',
+    category: 'represje',
+    tags: ['represje', 'milicja', 'aparat władzy', 'kontrola'],
+    yearStart: 1946,
+    yearEnd: 1989,
+    summary: 'Paramilitarna, masowa formacja wspierająca milicję, wykorzystywana do kontroli społecznej, akcji porządkowych i tłumienia protestów.',
+    content: `## Powstanie
+Ochotniczą Rezerwę Milicji Obywatelskiej powołano w 1946 roku jako paramilitarną formację wspierającą Milicję Obywatelską i władze w utrzymaniu „porządku”.
+
+## Masowość
+ORMO liczyła setki tysięcy członków. Wstępowano do niej z pobudek ideowych, dla przywilejów lub pod presją w zakładach pracy. Stanowiła narzędzie kontroli społecznej.
+
+## Zadania
+ORMO-wcy pełnili służbę porządkową, patrolowali ulice, kontrolowali handel, uczestniczyli w akcjach przeciw „spekulantom”. Bywali też wykorzystywani do rozpędzania demonstracji.
+
+## Rola w represjach
+Formacja uczestniczyła w tłumieniu protestów, m.in. w 1968 i 1976 roku, wspierając milicję i SB. Jej zaangażowanie budziło niechęć społeczeństwa.
+
+## Znaczenie
+ORMO było typowym dla systemu narzędziem wciągania obywateli w aparat kontroli, rozmywającym granicę między państwem a społeczeństwem. Rozwiązano je w 1989 roku.`,
+    resources: [
+      {
+        id: 'ormo-1',
+        title: 'ORMO – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=ORMO%20milicja%20aparat%20represji%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o formacji i jej roli.',
+      },
+      {
+        id: 'ormo-2',
+        title: 'Akta i dokumenty',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=ORMO%20Ochotnicza%20Rezerwa%20Milicji',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne.',
+      },
+      {
+        id: 'ormo-3',
+        title: 'Fotografie i druki',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=ORMO%20milicja',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne.',
+      },
+    ],
+    relatedIds: ['milicja', 'zomo', 'sluzba-bezpieczenstwa-metody'],
+  },
+  {
+    id: 'trybuna-ludu',
+    title: '„Trybuna Ludu”',
+    subtitle: 'Organ prasowy PZPR',
+    category: 'społeczeństwo',
+    tags: ['propaganda', 'media', 'prasa', 'PZPR'],
+    yearStart: 1948,
+    yearEnd: 1989,
+    summary: 'Główny dziennik partyjny PZPR, najważniejsze pismo propagandowe PRL, wyznaczające oficjalną linię i język całej prasy.',
+    content: `## Powstanie
+„Trybuna Ludu” powstała w 1948 roku z połączenia organów prasowych PPR i PPS, jako centralny dziennik nowo utworzonej PZPR.
+
+## Tuba partii
+Gazeta była oficjalnym głosem partii – publikowała przemówienia przywódców, uchwały, propagandowe relacje o sukcesach gospodarczych i ataki na „wrogów” systemu oraz Zachód.
+
+## Wyznacznik linii
+„Trybuna Ludu” wyznaczała obowiązującą interpretację wydarzeń, którą powielała pozostała prasa. Lektura między wierszami pozwalała czytelnikom domyślać się rozgrywek we władzy.
+
+## Język propagandy
+Dziennik był wzorcowym nośnikiem nowomowy – sztucznego, zideologizowanego języka pełnego sloganów o „wytężonej pracy” i „słusznej polityce partii”.
+
+## Znaczenie
+„Trybuna Ludu” to symbol kontrolowanych mediów PRL. Ukazywała się do 1990 roku, gdy wraz z upadkiem systemu zniknął także jego główny prasowy organ.`,
+    resources: [
+      {
+        id: 'tl-1',
+        title: '„Trybuna Ludu” w Polonie',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Trybuna%20Ludu',
+        source: 'Polona',
+        description: 'Zdigitalizowane numery dziennika.',
+        downloadable: true,
+      },
+      {
+        id: 'tl-2',
+        title: 'Prasa partyjna – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Trybuna%20Ludu%20prasa%20propaganda%20PZPR',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o prasie partyjnej.',
+      },
+      {
+        id: 'tl-3',
+        title: 'Media PRL – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Trybuna+Ludu+propaganda+prasa+PRL',
+        source: 'YouTube',
+        description: 'Materiały o propagandzie prasowej.',
+      },
+    ],
+    relatedIds: ['prasa-prl', 'propaganda-prl', 'pzpr'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -13209,4 +13720,9 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1968, event: 'Ryszard Siwiec dokonuje samospalenia w proteście przeciw inwazji na Czechosłowację', category: 'represje', entryId: 'ryszard-siwiec' },
   { year: 1980, event: 'Władysław Frasyniuk współtworzy Solidarność na Dolnym Śląsku', category: 'opozycja', entryId: 'frasyniuk' },
   { year: 1983, event: 'Witold Lutosławski kończy III Symfonię – arcydzieło muzyki współczesnej', category: 'kultura', entryId: 'lutoslawski' },
+  { year: 1946, event: 'Powołanie ORMO – paramilitarna formacja wspierająca milicję', category: 'represje', entryId: 'ormo' },
+  { year: 1948, event: '„Trybuna Ludu” staje się centralnym organem prasowym PZPR', category: 'społeczeństwo', entryId: 'trybuna-ludu' },
+  { year: 1955, event: 'Otwarcie Stadionu Dziesięciolecia w Warszawie', category: 'społeczeństwo', entryId: 'stadion-dziesieciolecia' },
+  { year: 1985, event: 'Powstaje Ruch „Wolność i Pokój” – pacyfistyczna opozycja', category: 'opozycja', entryId: 'wolnosc-i-pokoj' },
+  { year: 1987, event: 'Happeningi Pomarańczowej Alternatywy – „krasnoludki” we Wrocławiu', category: 'opozycja', entryId: 'pomaranczowa-alternatywa' },
 ];
