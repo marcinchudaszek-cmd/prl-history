@@ -238,4 +238,40 @@ export const slangTerms: SlangTerm[] = [
     definition: 'Talon (np. na samochód, pralkę) przydzielany w zakładzie pracy – „wygrany” przydział na towar, na który i tak czekało się latami.',
     category: 'gospodarka',
   },
+  {
+    term: 'Bikiniarze',
+    definition: 'Powojenna subkultura młodzieżowa fascynująca się amerykańską modą i jazzem; barwne krawaty i fryzury były cichym buntem przeciw szarości stalinizmu.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Stonka',
+    definition: 'Stonka ziemniaczana – przedmiot absurdalnej kampanii propagandowej z lat 50., oskarżającej „amerykańskich imperialistów” o zrzucanie szkodnika na polskie pola.',
+    example: '„Dzieci pędzono do zbierania stonki z pól”.',
+    category: 'propaganda',
+  },
+  {
+    term: 'Pan władza',
+    definition: 'Ironiczno-uległe określenie milicjanta lub urzędnika, podkreślające dystans między obywatelem a wszechwładną „władzą”.',
+    category: 'władza',
+  },
+  {
+    term: 'Gierkówka',
+    definition: 'Trasa szybkiego ruchu Warszawa–Katowice (oraz wielkopłytowe budownictwo) – symbol inwestycji i „propagandy sukcesu” dekady Gierka.',
+    category: 'gospodarka',
+  },
+  {
+    term: 'Kapuś / donosiciel',
+    definition: 'Osoba donosząca do milicji lub SB. Jedno z najcięższych oskarżeń w środowiskach robotniczych i opozycyjnych.',
+    category: 'władza',
+  },
+  {
+    term: 'Świetlica',
+    definition: 'Zakładowy lub osiedlowy lokal kultury – miejsce zebrań, akademii i „pracy oświatowej”, łączące rozrywkę z indoktrynacją.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Dewizy',
+    definition: 'Waluty wymienialne (dolary, marki). Ich posiadanie było reglamentowane; „konto dewizowe” i bony dawały dostęp do Pewexu.',
+    category: 'gospodarka',
+  },
 ];

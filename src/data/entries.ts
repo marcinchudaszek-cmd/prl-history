@@ -2278,7 +2278,7 @@ Po 1989 roku wielu przedstawicieli nomenklatury sprawnie dokonało transformacji
         id: 'nomenklatura-2',
         title: 'Akta KC PZPR – Archiwum Akt Nowych',
         type: 'akt',
-        url: 'https://aan.gov.pl/wp/zasob_aan/polska-zjednoczona-partia-robotnicza-komitet-centralny-1948-1990-sygnatury-od-1-do-4938-i-354/',
+        url: 'https://szukajwarchiwach.gov.pl/szukaj?q=PZPR%20Komitet%20Centralny',
         source: 'Archiwum Akt Nowych',
         description: 'Dokumenty Komitetu Centralnego PZPR, w tym listy nominacji nomenklaturowych.',
         year: 1948,
@@ -3366,7 +3366,7 @@ Jego poezja jest przetłumaczona na kilkadziesiąt języków. Jest to jedna z po
         id: 'herbert-wl',
         title: 'Zbigniew Herbert – Wolne Lektury',
         type: 'publikacja',
-        url: 'https://wolnelektury.pl/katalog/autor/herbert-zbigniew/',
+        url: 'https://wolnelektury.pl/szukaj/?q=Zbigniew%20Herbert',
         source: 'Wolne Lektury',
         description: 'Poezja Zbigniewa Herberta dostępna online w serwisie Wolne Lektury',
       },
@@ -5370,7 +5370,7 @@ Dopiero w 1988 r. złagodzono przepisy, a 1 stycznia 1989 r. weszła w życie no
         downloadable: true,
       },
     ],
-    relatedIds: ['sb', 'emigracja-1968', 'ucieczki-z-prl', 'stan-wojenny', 'internowanie'],
+    relatedIds: ['sbezpieczenstwa', 'emigracja-1968', 'ucieczki-z-prl', 'stan-wojenny', 'internowanie'],
   },
   {
     id: 'prasa-prl',
@@ -6449,7 +6449,7 @@ Kwestia TW do dziś dzieli polskie społeczeństwo. Jedni domagają się pełneg
         year: 1960,
       },
     ],
-    relatedIds: ['sb', 'ub', 'kosciol-prl', 'solidarnosc', 'represje-polityczne'],
+    relatedIds: ['sbezpieczenstwa', 'ub', 'kosciol-prl', 'solidarnosc', 'represje-polityczne'],
   },
   {
     id: 'deportacje',
@@ -7306,7 +7306,7 @@ Część akt wywiadu PRL zniszczono przed przekazaniem do IPN. Zachowane dokumen
         year: 1955,
       },
     ],
-    relatedIds: ['sb', 'ub', 'tajni-wspolpracownicy', 'pgwn', 'radio-wolna-europa'],
+    relatedIds: ['sbezpieczenstwa', 'ub', 'tajni-wspolpracownicy', 'pgwn', 'radio-wolna-europa'],
   },
   {
     id: 'wron',
@@ -7731,7 +7731,7 @@ Moczar jest symbolem narodowo-komunistycznej hybrydy: połączenia nacjonalizmu 
         downloadable: true,
       },
     ],
-    relatedIds: ['marzec-1968', 'gomulka', 'gierek', 'sb', 'emigracja-1968'],
+    relatedIds: ['marzec-1968', 'gomulka', 'gierek', 'sbezpieczenstwa', 'emigracja-1968'],
   },
   {
     id: 'muzyka-powazna-prl',
@@ -7852,7 +7852,7 @@ Po 1989 r. Kiszczak był wielokrotnie oskarżany – o udział w wprowadzeniu st
         downloadable: true,
       },
     ],
-    relatedIds: ['jaruzelski', 'stan-wojenny', 'okragly-stol', 'sb', 'wujek'],
+    relatedIds: ['jaruzelski', 'stan-wojenny', 'okragly-stol', 'sbezpieczenstwa', 'wujek'],
   },
   {
     id: 'polska-szkola-filmowa',
@@ -11465,7 +11465,7 @@ Kult to jeden z najtrwalszych zespołów polskiej sceny, a jego wczesna twórczo
         description: 'Archiwalne materiały.',
       },
     ],
-    relatedIds: ['rock-lat-80', 'punk-prl', 'jarocin-festiwal', 'cenzura'],
+    relatedIds: ['rock-lat-80', 'punk-prl', 'jarocin-festiwal', 'cenzura-prl'],
   },
   {
     id: 'punk-prl',
@@ -11567,7 +11567,7 @@ Lista Przebojów Trójki przetrwała przemiany ustrojowe i przez dekady pozostaw
         description: 'Artykuły o roli radia.',
       },
     ],
-    relatedIds: ['rock-lat-80', 'muzyka-rockowa-prl', 'media-prl'],
+    relatedIds: ['rock-lat-80', 'muzyka-rockowa-prl', 'radio-prl'],
   },
   {
     id: 'perfect-zespol',
