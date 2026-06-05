@@ -3,10 +3,16 @@ interface AboutPageProps {
 }
 
 export default function AboutPage({ onNavigate }: AboutPageProps) {
+  const completedFeatures = [
+    { icon: '📇', title: 'Baza ponad 200 haseł', desc: 'Hasła z rozbudowanymi opisami i bezpośrednimi linkami do zasobów archiwalnych' },
+    { icon: '🔍', title: 'Wyszukiwarka encyklopedii', desc: 'Przeszukiwanie haseł, tagów i opisów w całej bazie wiedzy' },
+    { icon: '🕰️', title: 'Oś czasu wydarzeń', desc: 'Interaktywna chronologia 1944–1990 z filtrowaniem po dekadach i kategoriach' },
+    { icon: '🗂️', title: 'Archiwum zasobów cyfrowych', desc: 'Katalog instytucji i archiwów (IPN, AAN, NINATEKA, POLONA) z linkami do źródeł' },
+  ];
+
   const plannedFeatures = [
     { icon: '🗺️', title: 'Interaktywna mapa PRL', desc: 'Obozy pracy, strajki, miejsca represji, ośrodki oporu – na mapie Polski' },
     { icon: '👤', title: 'Biogramy postaci', desc: 'Rozbudowane profile przywódców, dysydentów, ofiar systemu i bohaterów oporu' },
-    { icon: '🔍', title: 'Wyszukiwarka pełnotekstowa', desc: 'Przeszukiwanie całej zawartości encyklopedii łącznie z treścią dokumentów' },
     { icon: '📰', title: 'Archiwum prasy PRL', desc: '"Trybuna Ludu", "Tygodnik Solidarność", podziemne wydawnictwa – skany i OCR' },
     { icon: '🎓', title: 'Quizy i testy wiedzy', desc: 'Edukacyjne quizy sprawdzające wiedzę o historii PRL' },
     { icon: '💬', title: 'Oral history – relacje świadków', desc: 'Nagrane wspomnienia osób pamiętających czasy PRL, z możliwością dodawania własnych' },
@@ -69,9 +75,31 @@ export default function AboutPage({ onNavigate }: AboutPageProps) {
       {/* Planned features */}
       <div className="bg-white rounded-xl border border-stone-200 shadow-sm p-8 mb-8">
         <h3 className="text-xl font-bold font-serif text-gray-900 mb-2 flex items-center gap-2">
-          <span>🚀</span> Planowane funkcje
+          <span>🚀</span> Mapa drogowa projektu
         </h3>
-        <p className="text-sm text-gray-500 mb-6">Co jeszcze można dodać do encyklopedii PRL – roadmapa projektu</p>
+        <p className="text-sm text-gray-500 mb-6">Co już działa i co jeszcze powstanie w encyklopedii PRL</p>
+
+        <h4 className="text-sm font-bold text-green-700 uppercase tracking-wide mb-3 flex items-center gap-2">
+          <span>✅</span> Zrealizowane
+        </h4>
+        <div className="grid sm:grid-cols-2 gap-4 mb-8">
+          {completedFeatures.map((feat, i) => (
+            <div key={i} className="flex gap-3 p-4 bg-green-50 rounded-lg border border-green-200">
+              <span className="text-2xl flex-shrink-0">{feat.icon}</span>
+              <div>
+                <h4 className="font-semibold text-gray-900 text-sm mb-1 flex items-center gap-1.5">
+                  {feat.title}
+                  <span className="text-green-600 text-xs">✓</span>
+                </h4>
+                <p className="text-xs text-gray-500 leading-relaxed">{feat.desc}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+
+        <h4 className="text-sm font-bold text-red-700 uppercase tracking-wide mb-3 flex items-center gap-2">
+          <span>🛠️</span> W planach
+        </h4>
         <div className="grid sm:grid-cols-2 gap-4">
           {plannedFeatures.map((feat, i) => (
             <div key={i} className="flex gap-3 p-4 bg-stone-50 rounded-lg border border-stone-200 hover:border-red-200 transition-colors">
