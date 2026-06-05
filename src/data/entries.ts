@@ -12181,6 +12181,516 @@ Nurt ten stanowił istotny element kultury niezależnej, kształtując wrażliwo
     ],
     relatedIds: ['jacek-kaczmarski', 'gintrowski-bard', 'kultura-prl', 'drugi-obieg'],
   },
+  {
+    id: 'himalaizm-polski',
+    title: 'Złota dekada polskiego himalaizmu',
+    subtitle: '„Lodowi wojownicy” na dachu świata',
+    category: 'kultura',
+    tags: ['sport', 'himalaizm', 'góry', 'lata 80.', 'wyczyn'],
+    yearStart: 1979,
+    yearEnd: 1989,
+    summary: 'Na przełomie lat 70. i 80. polscy wspinacze zdominowali himalaizm wysokogórski, zdobywając zimą ośmiotysięczniki i zyskując miano „lodowych wojowników”.',
+    content: `## Fenomen
+Lata 70. i 80. to złota era polskiego himalaizmu. W szarej rzeczywistości PRL góry najwyższe stały się dla wielu Polaków przestrzenią wolności, ambicji i wyczynu na światowym poziomie.
+
+## Zimowe ośmiotysięczniki
+Polacy zasłynęli jako pionierzy wspinaczki zimowej. W 1980 roku Leszek Cichy i Krzysztof Wielicki dokonali pierwszego zimowego wejścia na Mount Everest. To otworzyło serię polskich zimowych sukcesów na ośmiotysięcznikach.
+
+## Gwiazdy
+Na szczyty wspinali się Jerzy Kukuczka, Wanda Rutkiewicz, Krzysztof Wielicki, Andrzej Zawada (organizator wypraw), Wojciech Kurtyka i Artur Hajzer. Andrzej Zawada był charyzmatycznym liderem polskich wypraw.
+
+## Cena
+Wyczyny okupione były tragediami – w górach zginęło wielu wybitnych wspinaczy. Mimo skromnego, często samodzielnie zdobywanego sprzętu Polacy osiągali to, co dla bogatszych ekspedycji było nieosiągalne.
+
+## Znaczenie
+„Lodowi wojownicy” stali się źródłem dumy narodowej i dowodem, że mimo ograniczeń systemu Polacy potrafili być najlepsi na świecie.`,
+    resources: [
+      {
+        id: 'him-1',
+        title: 'Polski himalaizm – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=polski+himalaizm+z%C5%82ota+dekada+o%C5%9Bmiotysi%C4%99czniki',
+        source: 'YouTube',
+        description: 'Filmy o polskich wyprawach himalajskich.',
+      },
+      {
+        id: 'him-2',
+        title: 'Himalaizm – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=himalaizm%20polscy%20wspinacze%20g%C3%B3ry',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o polskim himalaizmie.',
+      },
+      {
+        id: 'him-3',
+        title: 'Wyprawy górskie w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=himalaizm%20wyprawa%20g%C3%B3ry',
+        source: 'Ninateka',
+        description: 'Materiały filmowe o wspinaczce.',
+      },
+    ],
+    relatedIds: ['jerzy-kukuczka', 'wanda-rutkiewicz', 'sport-prl'],
+  },
+  {
+    id: 'jerzy-kukuczka',
+    title: 'Jerzy Kukuczka',
+    subtitle: 'Zdobywca Korony Himalajów',
+    category: 'kultura',
+    tags: ['sport', 'himalaizm', 'góry', 'lata 80.'],
+    yearStart: 1979,
+    yearEnd: 1989,
+    summary: 'Drugi człowiek na świecie, który zdobył wszystkie 14 ośmiotysięczników, dokonując tego w rekordowym tempie i często nowymi drogami lub zimą.',
+    content: `## Sylwetka
+Jerzy Kukuczka (1948–1989), pochodzący z Katowic, był jednym z najwybitniejszych himalaistów w historii. Jako drugi człowiek na świecie – po Reinholdzie Messnerze – zdobył wszystkie 14 ośmiotysięczników.
+
+## Wyczyn
+Kukuczka skompletował Koronę Himalajów w zaledwie osiem lat (1979–1987), znacznie szybciej niż Messner. Większość szczytów zdobył nowymi drogami, w stylu alpejskim lub zimą, co czyniło jego dokonania wyjątkowymi.
+
+## Styl
+Wspinał się w trudnych warunkach, z minimalnym sprzętem, wykazując niezwykłą wytrzymałość i odwagę. Messner powiedział o nim z uznaniem: „Nie jesteś drugi, jesteś wielki”.
+
+## Śmierć
+Jerzy Kukuczka zginął w 1989 roku podczas próby zdobycia południowej ściany Lhotse, gdy zerwała się lina. Jego śmierć zakończyła symbolicznie złotą erę polskiego himalaizmu.
+
+## Dziedzictwo
+Kukuczka pozostaje legendą i symbolem polskiego wyczynu górskiego, a jego imię nosi m.in. Akademia Wychowania Fizycznego w Katowicach.`,
+    resources: [
+      {
+        id: 'kuk-1',
+        title: 'Jerzy Kukuczka – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Jerzy+Kukuczka+himalaizm+o%C5%9Bmiotysi%C4%99czniki',
+        source: 'YouTube',
+        description: 'Materiały filmowe o himalaiście.',
+      },
+      {
+        id: 'kuk-2',
+        title: 'Kukuczka – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Jerzy%20Kukuczka%20himalaizm',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o wspinaczu.',
+      },
+      {
+        id: 'kuk-3',
+        title: 'Himalaizm w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Kukuczka%20himalaizm',
+        source: 'Ninateka',
+        description: 'Materiały filmowe.',
+      },
+    ],
+    relatedIds: ['himalaizm-polski', 'wanda-rutkiewicz', 'sport-prl'],
+  },
+  {
+    id: 'wanda-rutkiewicz',
+    title: 'Wanda Rutkiewicz',
+    subtitle: 'Pierwsza Polka na Mount Everest',
+    category: 'kultura',
+    tags: ['sport', 'himalaizm', 'góry', 'kobiety'],
+    yearStart: 1978,
+    yearEnd: 1989,
+    summary: 'Najwybitniejsza polska himalaistka, pierwsza Polka i trzecia kobieta na świecie na szczycie Mount Everest oraz pierwsza kobieta na K2.',
+    content: `## Sylwetka
+Wanda Rutkiewicz (1943–1992) była najwybitniejszą polską himalaistką i jedną z najlepszych na świecie. Łączyła determinację, talent organizacyjny i niezłomność w dążeniu do celu.
+
+## Mount Everest
+W 1978 roku zdobyła Mount Everest jako pierwsza Polka i trzecia kobieta na świecie – tego samego dnia, w którym wybrano papieża Jana Pawła II, który pogratulował jej tego podwójnego „wejścia na szczyt”.
+
+## K2
+W 1986 roku jako pierwsza kobieta na świecie stanęła na szczycie K2 – uznawanego za najtrudniejszy ośmiotysięcznik. Organizowała też kobiece wyprawy wysokogórskie.
+
+## Karawana do marzeń
+W ostatnich latach realizowała projekt „Karawana do marzeń” – zdobycie kolejnych ośmiotysięczników. Zaginęła w 1992 roku podczas wejścia na Kangczendzongę.
+
+## Znaczenie
+Wanda Rutkiewicz to ikona himalaizmu i symbol kobiecej siły oraz niezależności, inspiracja dla kolejnych pokoleń wspinaczy.`,
+    resources: [
+      {
+        id: 'wr-1',
+        title: 'Wanda Rutkiewicz – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Wanda+Rutkiewicz+himalaizm+Everest+K2',
+        source: 'YouTube',
+        description: 'Materiały filmowe o himalaistce.',
+      },
+      {
+        id: 'wr-2',
+        title: 'Rutkiewicz – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Wanda%20Rutkiewicz%20himalaizm%20kobiety',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o wspinaczce.',
+      },
+      {
+        id: 'wr-3',
+        title: 'Himalaizm w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Rutkiewicz%20himalaizm',
+        source: 'Ninateka',
+        description: 'Materiały filmowe.',
+      },
+    ],
+    relatedIds: ['himalaizm-polski', 'jerzy-kukuczka', 'kobiety-prl', 'sport-prl'],
+  },
+  {
+    id: 'mundial-1974',
+    title: 'Polski futbol: Górski i 1974',
+    subtitle: 'Trzecie miejsce na mistrzostwach świata',
+    category: 'kultura',
+    tags: ['sport', 'piłka nożna', 'lata 70.', 'reprezentacja'],
+    yearStart: 1972,
+    yearEnd: 1976,
+    summary: 'Złota era polskiej piłki nożnej pod wodzą Kazimierza Górskiego: złoto olimpijskie 1972 i trzecie miejsce na mundialu w 1974 roku.',
+    content: `## Kazimierz Górski
+Kazimierz Górski jako selekcjoner reprezentacji Polski stworzył najlepszą drużynę w historii polskiego futbolu. Jego słowa „Piłka jest okrągła, a bramki są dwie” weszły do języka potocznego.
+
+## Igrzyska 1972
+Drużyna zdobyła złoty medal na igrzyskach olimpijskich w Monachium w 1972 roku, pokonując w finale Węgry. Był to pierwszy wielki sukces tego pokolenia.
+
+## Mundial 1974
+Na mistrzostwach świata w RFN w 1974 roku Polska zajęła trzecie miejsce – do dziś jeden z największych sukcesów. „Deszczowy mecz” z gospodarzami przesądził o finale, ale Polacy pokonali Brazylię w meczu o brąz.
+
+## Gwiazdy
+W drużynie błyszczeli Grzegorz Lato (król strzelców mundialu), Kazimierz Deyna, Robert Gadocha, Andrzej Szarmach i bramkarz Jan Tomaszewski, nazwany „człowiekiem, który zatrzymał Anglię”.
+
+## Znaczenie
+Sukcesy z lat 70. były źródłem ogromnej dumy narodowej i pozostają punktem odniesienia dla polskiej piłki. Drużyna powtórzyła sukces, zajmując 3. miejsce również w 1982 roku.`,
+    resources: [
+      {
+        id: 'mun-1',
+        title: 'Mundial 1974 – archiwalia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=reprezentacja+Polski+1974+mundial+G%C3%B3rski+Lato',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania meczów.',
+      },
+      {
+        id: 'mun-2',
+        title: 'Polski futbol – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=pi%C5%82ka%20no%C5%BCna%20reprezentacja%20Polski%20G%C3%B3rski',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o polskim futbolu.',
+      },
+      {
+        id: 'mun-3',
+        title: 'Sport w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=pi%C5%82ka%20no%C5%BCna%20mundial%201974',
+        source: 'Ninateka',
+        description: 'Materiały filmowe o sporcie.',
+      },
+    ],
+    relatedIds: ['sport-prl', 'wyscig-pokoju'],
+  },
+  {
+    id: 'irena-szewinska',
+    title: 'Irena Szewińska',
+    subtitle: 'Królowa lekkiej atletyki',
+    category: 'kultura',
+    tags: ['sport', 'lekkoatletyka', 'olimpiada', 'kobiety'],
+    yearStart: 1964,
+    yearEnd: 1980,
+    summary: 'Jedna z najwybitniejszych lekkoatletek w historii, zdobywczyni siedmiu medali olimpijskich i rekordzistka świata na wielu dystansach.',
+    content: `## Sylwetka
+Irena Szewińska (1946–2018), z domu Kirszenstein, była jedną z najwybitniejszych lekkoatletek wszech czasów i najbardziej utytułowaną polską olimpijką.
+
+## Medale
+W ciągu kariery zdobyła siedem medali olimpijskich (w tym trzy złote) na czterech igrzyskach, od Tokio 1964 po Montreal 1976. Startowała w biegach sprinterskich i skoku w dal.
+
+## Rekordy świata
+Ustanawiała rekordy świata na 100 m, 200 m, 400 m oraz w skoku w dal – była wszechstronną zawodniczką, co czyniło ją wyjątkową w światowej lekkoatletyce.
+
+## Montreal 1976
+Na igrzyskach w Montrealu zdobyła złoto na 400 m, ustanawiając rekord świata i pieczętując status legendy. Jej dominacja na tym dystansie była bezdyskusyjna.
+
+## Znaczenie
+Po zakończeniu kariery działała w międzynarodowych organizacjach sportowych. Pozostaje symbolem polskiego sportu i jedną z najwybitniejszych postaci w historii światowej lekkoatletyki.`,
+    resources: [
+      {
+        id: 'isz-1',
+        title: 'Irena Szewińska – archiwalia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Irena+Szewi%C5%84ska+lekkoatletyka+olimpiada',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania zawodów.',
+      },
+      {
+        id: 'isz-2',
+        title: 'Szewińska – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Irena%20Szewi%C5%84ska%20lekkoatletyka%20sport',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o lekkoatletce.',
+      },
+      {
+        id: 'isz-3',
+        title: 'Sport w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=lekkoatletyka%20Szewi%C5%84ska',
+        source: 'Ninateka',
+        description: 'Materiały filmowe o sporcie.',
+      },
+    ],
+    relatedIds: ['sport-prl', 'kobiety-prl'],
+  },
+  {
+    id: 'stawka-wieksza-niz-zycie',
+    title: 'Stawka większa niż życie',
+    subtitle: 'Kapitan Kloss – kultowy serial szpiegowski',
+    category: 'kultura',
+    tags: ['telewizja', 'serial', 'lata 60.', 'wojna', 'propaganda'],
+    yearStart: 1967,
+    yearEnd: 1968,
+    summary: 'Kultowy serial szpiegowski o polskim agencie Hansie Klossie działającym w niemieckim wywiadzie, jeden z najpopularniejszych w historii polskiej telewizji.',
+    content: `## Fabuła
+Serial opowiada o Stanisławie Kolickim, polskim agencie działającym pod przybraną tożsamością niemieckiego oficera Abwehry Hansa Klossa w czasie II wojny światowej. Każdy odcinek to osobna intryga szpiegowska.
+
+## Produkcja
+Wyemitowany w latach 1967–1968 (18 odcinków), w reżyserii Janusza Morgensterna i Andrzeja Konica. W rolę Klossa wcielił się Stanisław Mikulski, który stał się gwiazdą.
+
+## Popularność
+„Stawka” biła rekordy oglądalności. Hans Kloss stał się ikoną popkultury PRL, a hasła z serialu na trwałe weszły do języka. Powstał też komiks i adaptacje.
+
+## Kontekst propagandowy
+Serial wpisywał się w oficjalny nurt utrwalania pamięci o wojnie i bohaterstwie, ale przede wszystkim był znakomitą, wciągającą rozrywką, co zapewniło mu trwałą popularność.
+
+## Znaczenie
+„Stawka większa niż życie” to jeden z najbardziej kultowych seriali w historii polskiej telewizji, do dziś chętnie oglądany i cytowany.`,
+    resources: [
+      {
+        id: 'sww-1',
+        title: 'Stawka większa niż życie',
+        type: 'film',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Stawka%20wi%C4%99ksza%20ni%C5%BC%20%C5%BCycie',
+        source: 'FilmPolski.pl',
+        description: 'Informacje o serialu i obsadzie.',
+      },
+      {
+        id: 'sww-2',
+        title: 'Serial – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Stawka+wi%C4%99ksza+ni%C5%BC+%C5%BCycie+Kloss+serial',
+        source: 'YouTube',
+        description: 'Fragmenty i materiały o serialu.',
+      },
+      {
+        id: 'sww-3',
+        title: 'Seriale PRL w VOD TVP',
+        type: 'nagranie',
+        url: 'https://vod.tvp.pl/szukaj?query=Stawka%20wi%C4%99ksza%20ni%C5%BC%20%C5%BCycie',
+        source: 'VOD TVP',
+        description: 'Materiały telewizyjne.',
+      },
+    ],
+    relatedIds: ['seriale-prl', 'telewizja-prl', 'czterej-pancerni'],
+  },
+  {
+    id: 'czterej-pancerni',
+    title: 'Czterej pancerni i pies',
+    subtitle: 'Załoga Rudego i pies Szarik',
+    category: 'kultura',
+    tags: ['telewizja', 'serial', 'lata 60.', 'wojna', 'propaganda'],
+    yearStart: 1966,
+    yearEnd: 1970,
+    summary: 'Kultowy serial wojenny o załodze czołgu „Rudy” i psie Szariku, niezwykle popularny, choć przedstawiający wojnę zgodnie z oficjalną wykładnią.',
+    content: `## Fabuła
+Serial oparty na powieści Janusza Przymanowskiego opowiada o losach załogi czołgu T-34 „Rudy 102” i owczarka Szarika podczas szlaku bojowego 1. Armii Wojska Polskiego u boku Armii Czerwonej.
+
+## Produkcja
+Emitowany w latach 1966–1970 (21 odcinków) w reżyserii Konrada Nałęckiego. Serial zyskał ogromną popularność, zwłaszcza wśród młodych widzów.
+
+## Bohaterowie
+Janek Kos, Gustlik, Grigorij, Olgierd oraz pies Szarik stali się ulubieńcami widzów. Powstawały kluby miłośników serialu, a dzieci bawiły się w „pancernych”.
+
+## Kontekst propagandowy
+Serial przedstawiał wojnę zgodnie z oficjalną, prosowiecką narracją, eksponując braterstwo broni z ZSRR i pomijając trudne karty historii. Mimo to pozostał fenomenem popkultury.
+
+## Znaczenie
+„Czterej pancerni i pies” to jeden z najpopularniejszych seriali PRL, dziś oceniany ambiwalentnie – jako sprawny serial przygodowy, ale i nośnik propagandy.`,
+    resources: [
+      {
+        id: 'cp-1',
+        title: 'Czterej pancerni i pies',
+        type: 'film',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Czterej%20pancerni%20i%20pies',
+        source: 'FilmPolski.pl',
+        description: 'Informacje o serialu i obsadzie.',
+      },
+      {
+        id: 'cp-2',
+        title: 'Serial – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Czterej+pancerni+i+pies+serial+Szarik',
+        source: 'YouTube',
+        description: 'Fragmenty i materiały.',
+      },
+      {
+        id: 'cp-3',
+        title: 'Propaganda w kulturze – IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=propaganda%20serial%20wojna%20Wojsko%20Polskie',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o propagandzie w kulturze.',
+      },
+    ],
+    relatedIds: ['seriale-prl', 'telewizja-prl', 'stawka-wieksza-niz-zycie', 'propaganda-prl'],
+  },
+  {
+    id: 'dziennik-telewizyjny',
+    title: 'Dziennik Telewizyjny',
+    subtitle: 'Główny program propagandowy PRL',
+    category: 'społeczeństwo',
+    tags: ['telewizja', 'propaganda', 'media', 'informacja'],
+    yearStart: 1958,
+    yearEnd: 1989,
+    summary: 'Główny serwis informacyjny telewizji PRL, będący kluczowym narzędziem propagandy partyjnej, szczególnie w okresie stanu wojennego.',
+    content: `## Rola
+Dziennik Telewizyjny (DTV) był głównym programem informacyjnym Telewizji Polskiej i zarazem najważniejszym telewizyjnym narzędziem propagandy PRL. Emitowano go wieczorem, gromadząc milionową widownię.
+
+## Propaganda
+Dziennik prezentował rzeczywistość zgodnie z linią partii: eksponował „sukcesy” gospodarcze, przyjaźń z ZSRR i atakował opozycję oraz Zachód. Informacje były selekcjonowane i zniekształcane.
+
+## Stan wojenny
+Po 13 grudnia 1981 roku prezenterzy Dziennika wystąpili w mundurach wojskowych, co stało się symbolem militaryzacji mediów. Telewizja stała się tubą propagandową WRON.
+
+## Bojkot
+W odpowiedzi na propagandę część społeczeństwa bojkotowała Dziennik – ludzie wychodzili na spacery w porze jego emisji, manifestując sprzeciw wobec kłamstw telewizji.
+
+## Znaczenie
+Dziennik Telewizyjny stał się symbolem manipulacji medialnej PRL. Jego nazwa do dziś bywa synonimem propagandy i dezinformacji.`,
+    resources: [
+      {
+        id: 'dtv-1',
+        title: 'Dziennik Telewizyjny – archiwalia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Dziennik+Telewizyjny+PRL+propaganda+stan+wojenny',
+        source: 'YouTube',
+        description: 'Archiwalne wydania programu.',
+      },
+      {
+        id: 'dtv-2',
+        title: 'Propaganda TV – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Dziennik%20Telewizyjny%20propaganda%20media',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o propagandzie telewizyjnej.',
+      },
+      {
+        id: 'dtv-3',
+        title: 'Media PRL w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Dziennik%20Telewizyjny%20propaganda',
+        source: 'Ninateka',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['telewizja-prl', 'propaganda-prl', 'tvp-prl', 'stan-wojenny'],
+  },
+  {
+    id: 'jacek-karpinski',
+    title: 'Jacek Karpiński',
+    subtitle: 'Konstruktor minikomputera K-202',
+    category: 'społeczeństwo',
+    tags: ['nauka', 'technika', 'informatyka', 'lata 70.'],
+    yearStart: 1970,
+    yearEnd: 1978,
+    summary: 'Wybitny polski inżynier, konstruktor nowoczesnego minikomputera K-202, którego produkcję zablokowano, co stało się symbolem marnotrawstwa talentów w PRL.',
+    content: `## Sylwetka
+Jacek Karpiński (1927–2010) był utalentowanym inżynierem i konstruktorem, weteranem powstania warszawskiego. W latach 60. i 70. tworzył nowatorskie konstrukcje elektroniczne.
+
+## K-202
+Na początku lat 70. Karpiński skonstruował minikomputer K-202 – maszynę, która pod względem szybkości i możliwości wyprzedzała wiele zachodnich konstrukcji tamtych czasów. Był to projekt na światowym poziomie.
+
+## Zablokowanie
+Mimo potencjału produkcję K-202 zablokowano. Złożyły się na to biurokracja, zawiść, branżowe rozgrywki i niechęć decydentów. Karpiński nie uzyskał wsparcia, a projekt upadł.
+
+## Symbol marnotrawstwa
+Historia K-202 stała się symbolem marnowania talentów i innowacji w gospodarce centralnie planowanej, gdzie polityka i układy przeważały nad merytoryką. Rozgoryczony Karpiński zajął się m.in. hodowlą.
+
+## Znaczenie
+Jacek Karpiński bywa nazywany „polskim geniuszem informatyki”, a losy K-202 ilustrują, jak system PRL trwonił szanse na technologiczny rozwój.`,
+    resources: [
+      {
+        id: 'jk-1',
+        title: 'Jacek Karpiński i K-202',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Jacek+Karpi%C5%84ski+K-202+minikomputer',
+        source: 'YouTube',
+        description: 'Materiały o konstruktorze i komputerze.',
+      },
+      {
+        id: 'jk-2',
+        title: 'Karpiński – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Jacek%20Karpi%C5%84ski%20komputer%20K-202%20nauka',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o polskiej informatyce.',
+      },
+      {
+        id: 'jk-3',
+        title: 'Technika PRL w Polonie',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=komputer%20elektronika%20polska',
+        source: 'Polona',
+        description: 'Publikacje o technice i elektronice.',
+      },
+    ],
+    relatedIds: ['nauka-prl', 'gospodarka-prl'],
+  },
+  {
+    id: 'alkohol-prl',
+    title: 'Alkohol w PRL',
+    subtitle: 'Wódka, kolejki i walka z pijaństwem',
+    category: 'społeczeństwo',
+    tags: ['życie codzienne', 'społeczeństwo', 'obyczaje', 'zdrowie'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Spożycie alkoholu, zwłaszcza wódki, było powszechnym zjawiskiem społecznym PRL, a kolejne kampanie antyalkoholowe władz przynosiły ograniczone efekty.',
+    content: `## Powszechność
+Alkohol, przede wszystkim wódka, towarzyszył życiu codziennemu PRL – od uroczystości rodzinnych po załatwianie spraw urzędowych „na flaszkę”. Spożycie systematycznie rosło, stając się poważnym problemem społecznym.
+
+## Wódka jako waluta
+W gospodarce niedoboru butelka wódki pełniła rolę nieformalnej waluty – nią płacono fachowcom, urzędnikom i za przysługi. „Mała” i „pół litra” były elementem codzienności.
+
+## Kampanie antyalkoholowe
+Władze prowadziły kampanie trzeźwościowe, podnosiły ceny, ograniczały godziny sprzedaży (słynne „po trzynastej”) i tworzyły izby wytrzeźwień. Skuteczność tych działań była jednak ograniczona.
+
+## Godziny sprzedaży
+W 1982 roku, w okresie stanu wojennego, wprowadzono m.in. ograniczenie sprzedaży alkoholu, co prowadziło do kolejek i bimbrownictwa. Problem alkoholizmu pozostawał dotkliwy.
+
+## Znaczenie
+Kwestia alkoholu ilustruje społeczne skutki gospodarki niedoboru i bezradność systemu wobec problemów codzienności, a temat ten często pojawiał się w kabarecie i filmie.`,
+    resources: [
+      {
+        id: 'alk-1',
+        title: 'Alkohol w PRL – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=alkohol%20pija%C5%84stwo%20kampania%20trze%C5%BAwo%C5%9B%C4%87%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o problemie alkoholowym.',
+      },
+      {
+        id: 'alk-2',
+        title: 'Życie codzienne – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=alkohol+w%C3%B3dka+PRL+%C5%BCycie+codzienne',
+        source: 'YouTube',
+        description: 'Materiały o obyczajowości PRL.',
+      },
+      {
+        id: 'alk-3',
+        title: 'Plakaty trzeźwościowe',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=plakat%20trze%C5%BAwo%C5%9B%C4%87%20alkohol',
+        source: 'Polona',
+        description: 'Plakaty kampanii antyalkoholowych.',
+      },
+    ],
+    relatedIds: ['zycie-codzienne', 'kolejki-prl', 'sluzba-zdrowia-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
