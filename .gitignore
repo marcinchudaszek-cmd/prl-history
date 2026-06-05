@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build cache (zachowujemy dist/vite-template.html – jest źródłem index.html)
+.vite/
+*.local
+
+# Pliki tymczasowe
+*.bak
+add_entries*.py
+update_timeline.py
+cleanup_dupes.py
+
+# System
+.DS_Store
+Thumbs.db
