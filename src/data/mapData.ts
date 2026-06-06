@@ -254,4 +254,13 @@ export const mapLocations: MapLocation[] = [
     description: 'Centrum obchodów Milenium Chrztu Polski i pielgrzymek – duchowa stolica oporu wobec ateizacji.',
     entryId: 'milenium-1966',
   },
+  {
+    id: 'loc-zielona-gora',
+    name: 'Wydarzenia zielonogórskie',
+    city: 'Zielona Góra',
+    lon: 15.51, lat: 51.94,
+    type: 'opozycja', year: '1960',
+    description: 'Spontaniczny protest mieszkańców w obronie Domu Katolickiego, krwawo spacyfikowany przez milicję.',
+    entryId: 'zielonogorskie-1960',
+  },
 ];

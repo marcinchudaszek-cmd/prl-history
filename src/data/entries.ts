@@ -14732,6 +14732,618 @@ Polska szkoła boksu to jeden z największych sukcesów sportu PRL, symbol kunsz
     ],
     relatedIds: ['sport-prl', 'wyscig-pokoju'],
   },
+  {
+    id: 'siatkowka-1974',
+    title: 'Złota reprezentacja siatkarzy',
+    subtitle: 'Hubert Wagner i mistrzostwo świata',
+    category: 'społeczeństwo',
+    tags: ['sport', 'siatkówka', 'lata 70.', 'reprezentacja'],
+    yearStart: 1974,
+    yearEnd: 1976,
+    summary: 'Reprezentacja Polski w siatkówce pod wodzą Huberta „Kata” Wagnera zdobyła mistrzostwo świata 1974 i złoto olimpijskie 1976 – największe sukcesy tej dyscypliny.',
+    content: `## Sukces
+Polska siatkówka przeżyła złotą erę w połowie lat 70. W 1974 roku reprezentacja zdobyła mistrzostwo świata, a w 1976 roku – złoty medal igrzysk olimpijskich w Montrealu.
+
+## Hubert Wagner
+Architektem sukcesu był trener Hubert Wagner, nazywany „Katem” za bezkompromisowe, twarde metody treningowe. Zbudował drużynę o żelaznej kondycji i charakterze.
+
+## Finał w Montrealu
+Dramatyczny, pięciosetowy finał olimpijski z ZSRR przeszedł do legendy polskiego sportu. Zwycięstwo nad faworyzowanym rywalem wywołało euforię w całym kraju.
+
+## Gwiazdy
+W drużynie błyszczeli m.in. Tomasz Wójtowicz, Edward Skorek, Wiesław Gawłowski i Mirosław Rybaczewski – pokolenie, które na trwałe zapisało się w historii.
+
+## Znaczenie
+Sukcesy siatkarzy z lat 70. były źródłem narodowej dumy i punktem odniesienia dla kolejnych pokoleń. Postać Huberta Wagnera stała się symbolem zwycięskiej woli walki.`,
+    resources: [
+      {
+        id: 'siat-1',
+        title: 'Siatkówka 1974/1976 – archiwalia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=siatk%C3%B3wka+Polska+1976+Montreal+Wagner+z%C5%82oto',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania meczów.',
+      },
+      {
+        id: 'siat-2',
+        title: 'Polska siatkówka – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=siatk%C3%B3wka%20reprezentacja%20Wagner%20sport%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o sukcesach siatkarzy.',
+      },
+      {
+        id: 'siat-3',
+        title: 'Sport w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=siatk%C3%B3wka%20sport%20Polska',
+        source: 'Ninateka',
+        description: 'Materiały filmowe o sporcie.',
+      },
+    ],
+    relatedIds: ['sport-prl', 'mundial-1974'],
+  },
+  {
+    id: 'deyna-kazimierz',
+    title: 'Kazimierz Deyna',
+    subtitle: 'Mistrz futbolowej finezji',
+    category: 'osoby',
+    tags: ['sport', 'piłka nożna', 'lata 70.', 'reprezentacja'],
+    yearStart: 1968,
+    yearEnd: 1980,
+    summary: 'Jeden z najwybitniejszych polskich piłkarzy, rozgrywający reprezentacji i Legii Warszawa, filar drużyny z mundialu 1974 i mistrz olimpijski 1972.',
+    content: `## Sylwetka
+Kazimierz Deyna (1947–1989) był jednym z najwybitniejszych polskich piłkarzy w historii – rozgrywającym o niezwykłej technice, wizji gry i precyzji podań.
+
+## Legia i reprezentacja
+Przez większość kariery związany z Legią Warszawa, w reprezentacji Polski rozegrał kilkadziesiąt meczów, będąc jej dyrygentem w złotej erze lat 70.
+
+## Sukcesy
+Był kluczową postacią drużyny, która zdobyła złoty medal olimpijski w 1972 roku i trzecie miejsce na mistrzostwach świata w 1974 roku. Słynął z mistrzowsko wykonywanych rzutów karnych.
+
+## Za granicą
+Pod koniec kariery wyjechał do angielskiego Manchesteru City, a potem do USA. Zginął tragicznie w wypadku samochodowym w Stanach Zjednoczonych w 1989 roku.
+
+## Znaczenie
+Deyna pozostaje ikoną polskiej piłki, symbolem futbolowej elegancji; jego numer i nazwisko są legendą Legii Warszawa i reprezentacji.`,
+    resources: [
+      {
+        id: 'dey-1',
+        title: 'Kazimierz Deyna – archiwalia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Kazimierz+Deyna+Legia+reprezentacja+gole',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania meczów.',
+      },
+      {
+        id: 'dey-2',
+        title: 'Deyna – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Kazimierz%20Deyna%20pi%C5%82ka%20no%C5%BCna%20sport',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o piłkarzu.',
+      },
+      {
+        id: 'dey-3',
+        title: 'Sport w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Deyna%20pi%C5%82ka%20no%C5%BCna',
+        source: 'Ninateka',
+        description: 'Materiały filmowe o sporcie.',
+      },
+    ],
+    relatedIds: ['mundial-1974', 'sport-prl'],
+  },
+  {
+    id: 'kantor-teatr',
+    title: 'Tadeusz Kantor i Cricot 2',
+    subtitle: 'Teatr Śmierci',
+    category: 'kultura',
+    tags: ['kultura', 'teatr', 'sztuka', 'awangarda'],
+    yearStart: 1955,
+    yearEnd: 1989,
+    summary: 'Awangardowy teatr Tadeusza Kantora, twórcy „Teatru Śmierci” i spektaklu „Umarła klasa”, jednego z najsłynniejszych dzieł polskiej sceny.',
+    content: `## Sylwetka
+Tadeusz Kantor (1915–1990) był malarzem, scenografem i reżyserem, jednym z najwybitniejszych twórców awangardy teatralnej i plastycznej XX wieku.
+
+## Cricot 2
+W 1955 roku reaktywował w Krakowie awangardowy teatr Cricot 2. Stworzył w nim własny, niepowtarzalny język sceniczny, łączący malarstwo, ruch, przedmiot i obecność aktora.
+
+## Umarła klasa
+Spektakl „Umarła klasa” (1975) – seans pamięci, w którym starcy-uczniowie niosą manekiny własnego dzieciństwa – stał się arcydziełem o światowym rozgłosie i wizytówką „Teatru Śmierci”.
+
+## Teatr Śmierci
+Kantor sformułował koncepcję „Teatru Śmierci”, w której pamięć, przemijanie i obecność umarłych stawały się tworzywem sztuki, przełamując konwencje tradycyjnego teatru.
+
+## Znaczenie
+Kantor zdobył światowe uznanie, prezentując spektakle na całym świecie. Pozostaje jednym z największych nowatorów teatru, obok Grotowskiego stawiając Polskę w awangardzie sceny.`,
+    resources: [
+      {
+        id: 'kan-1',
+        title: 'Tadeusz Kantor – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Tadeusz%20Kantor%20Cricot%202%20Umar%C5%82a%20klasa%20teatr',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o twórcy i jego teatrze.',
+      },
+      {
+        id: 'kan-2',
+        title: 'Kantor – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Tadeusz+Kantor+Umar%C5%82a+klasa+Cricot+2',
+        source: 'YouTube',
+        description: 'Materiały filmowe o spektaklach.',
+      },
+      {
+        id: 'kan-3',
+        title: 'Sztuka w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Tadeusz%20Kantor%20teatr',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały.',
+      },
+    ],
+    relatedIds: ['teatr-prl', 'teatr-grotowskiego', 'kultura-prl'],
+  },
+  {
+    id: 'beksinski',
+    title: 'Zdzisław Beksiński',
+    subtitle: 'Malarz wizji i niepokoju',
+    category: 'osoby',
+    tags: ['kultura', 'sztuka', 'malarstwo'],
+    yearStart: 1964,
+    yearEnd: 1989,
+    summary: 'Wybitny malarz, fotograf i rysownik, twórca niepokojących, wizyjnych obrazów określanych jako „fantastyka” – jeden z najbardziej rozpoznawalnych polskich artystów.',
+    content: `## Sylwetka
+Zdzisław Beksiński (1929–2005), pochodzący z Sanoka, był malarzem, rysownikiem i fotografem o niezwykłej, mrocznej wyobraźni, jednym z najbardziej oryginalnych polskich artystów XX wieku.
+
+## Okres fantastyczny
+Najsłynniejszy jest jego „okres fantastyczny” (od lat 70.) – monumentalne, oniryczne i niepokojące wizje rozpadu, śmierci i apokaliptycznych krajobrazów, malowane z drobiazgową precyzją.
+
+## Filozofia twórczości
+Beksiński unikał tytułów i interpretacji, twierdząc, że obrazy mają „znaczyć nic”. Tworzył w izolacji, z pasją dokumentując własne dzieła fotografią.
+
+## Uznanie
+W realiach PRL jego sztuka, daleka od socrealizmu i polityki, zyskała popularność, a po latach – międzynarodową sławę, m.in. dzięki wystawom i kolekcji w Sanoku.
+
+## Znaczenie
+Beksiński to fenomen polskiej sztuki – artysta osobny, którego wizyjne malarstwo do dziś fascynuje widzów na całym świecie.`,
+    resources: [
+      {
+        id: 'bek-1',
+        title: 'Zdzisław Beksiński – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Zdzis%C5%82aw%20Beksi%C5%84ski%20malarstwo%20sztuka',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o artyście i jego twórczości.',
+      },
+      {
+        id: 'bek-2',
+        title: 'Beksiński – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Zdzis%C5%82aw+Beksi%C5%84ski+malarstwo+obrazy',
+        source: 'YouTube',
+        description: 'Materiały filmowe o malarzu.',
+      },
+      {
+        id: 'bek-3',
+        title: 'Sztuka w Polonie',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=Beksi%C5%84ski%20sztuka%20malarstwo',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne.',
+      },
+    ],
+    relatedIds: ['kultura-prl', 'plakat-prl'],
+  },
+  {
+    id: 'polskie-nagrania-muza',
+    title: 'Polskie Nagrania „Muza”',
+    subtitle: 'Monopolista płytowy PRL',
+    category: 'kultura',
+    tags: ['kultura', 'muzyka', 'fonografia', 'media'],
+    yearStart: 1956,
+    yearEnd: 1989,
+    summary: 'Państwowe wydawnictwo fonograficzne, niemal monopolista rynku płytowego PRL, wydające pod marką „Muza” muzykę wszystkich gatunków.',
+    content: `## Monopol
+Polskie Nagrania, z charakterystycznym logo „Muza”, były głównym i niemal jedynym wydawnictwem płytowym w PRL. Decydowały, co i w jakim nakładzie trafi na rynek.
+
+## Repertuar
+Wydawały muzykę poważną, jazz, rock, piosenkę estradową, folklor i nagrania słowa. Seria „Polish Jazz” stała się legendarna i ceniona także za granicą.
+
+## Niedobór płyt
+Mimo monopolu płyt chronicznie brakowało. Atrakcyjne tytuły znikały błyskawicznie, a winylowe wydania zachodnich wykonawców na licencji były rarytasem.
+
+## Cenzura i selekcja
+Wydawnictwo podlegało cenzurze i polityce kulturalnej władz – decyzje o wydaniu bywały uznaniowe, a wielu wykonawców musiało czekać latami na płytę.
+
+## Znaczenie
+Polskie Nagrania „Muza” ukształtowały fonograficzny krajobraz PRL; ich katalog to dziś bezcenne archiwum polskiej muzyki epoki.`,
+    resources: [
+      {
+        id: 'muz-1',
+        title: 'Polskie Nagrania Muza – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Polskie%20Nagrania%20Muza%20p%C5%82yty%20fonografia%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o wydawnictwie.',
+      },
+      {
+        id: 'muz-2',
+        title: 'Polish Jazz i Muza – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polskie+Nagrania+Muza+Polish+Jazz+p%C5%82yty',
+        source: 'YouTube',
+        description: 'Nagrania z katalogu wydawnictwa.',
+      },
+      {
+        id: 'muz-3',
+        title: 'Muzyka w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Polskie%20Nagrania%20muzyka',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały muzyczne.',
+      },
+    ],
+    relatedIds: ['muzyka-rockowa-prl', 'jazz-prl', 'kultura-prl'],
+  },
+  {
+    id: 'zielonogorskie-1960',
+    title: 'Wydarzenia zielonogórskie 1960',
+    subtitle: 'Obrona Domu Katolickiego',
+    category: 'opozycja',
+    tags: ['opozycja', 'kościół', 'represje', 'protest'],
+    yearStart: 1960,
+    yearEnd: 1960,
+    summary: 'Spontaniczny protest mieszkańców Zielonej Góry w obronie Domu Katolickiego przed odebraniem przez władze – jeden z pierwszych otwartych buntów religijnych w PRL.',
+    content: `## Tło
+W maju 1960 roku władze postanowiły odebrać wiernym Dom Katolicki w Zielonej Górze, przeznaczając budynek na cele świeckie. Decyzja wywołała gwałtowny sprzeciw mieszkańców.
+
+## Protest
+Na wieść o eksmisji tłum, głównie kobiet i robotników, stanął w obronie budynku. Doszło do starć z milicją i ZOMO, które trwały wiele godzin i objęły centrum miasta.
+
+## Represje
+Władze brutalnie spacyfikowały protest. Aresztowano i skazano kilkadziesiąt osób w pokazowych procesach, a wydarzenia przemilczano w oficjalnych mediach.
+
+## Znaczenie symboliczne
+Wydarzenia zielonogórskie były jednym z pierwszych masowych, otwartych wystąpień w obronie wiary i praw obywatelskich w okresie zaostrzającej się walki państwa z Kościołem.
+
+## Pamięć
+Długo zapomniane, dziś przypominane są jako przykład oddolnego oporu społecznego wobec ateizacyjnej polityki władz PRL.`,
+    resources: [
+      {
+        id: 'zg-1',
+        title: 'Wydarzenia zielonogórskie – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=wydarzenia%20zielonog%C3%B3rskie%201960%20Dom%20Katolicki',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o proteście i represjach.',
+      },
+      {
+        id: 'zg-2',
+        title: 'Zielona Góra 1960 – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=wydarzenia+zielonog%C3%B3rskie+1960+obrona+ko%C5%9Bcio%C5%82a',
+        source: 'YouTube',
+        description: 'Materiały o wydarzeniach.',
+      },
+      {
+        id: 'zg-3',
+        title: 'Dokumentacja archiwalna',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Zielona%20G%C3%B3ra%201960%20Dom%20Katolicki',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['kosciol-prl', 'represje-polityczne', 'milicja'],
+  },
+  {
+    id: 'gornictwo-prl',
+    title: 'Górnictwo węgla kamiennego',
+    subtitle: '„Czarne złoto” gospodarki PRL',
+    category: 'gospodarka',
+    tags: ['gospodarka', 'przemysł', 'Śląsk', 'górnictwo', 'praca'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Wydobycie węgla było filarem gospodarki PRL i głównym towarem eksportowym; górnicy cieszyli się przywilejami, lecz pracowali w trudnych i niebezpiecznych warunkach.',
+    content: `## Filar gospodarki
+Węgiel kamienny – „czarne złoto” – był podstawą energetyki i głównym towarem eksportowym PRL, źródłem dewiz potrzebnych do spłaty długów i importu.
+
+## Górniczy stan
+Górnicy byli grupą uprzywilejowaną: zarabiali więcej, otrzymywali deputaty węglowe, wczasy i wcześniejsze emerytury. Górniczy mundur i Barbórka miały wysoki prestiż.
+
+## Forsowne wydobycie
+W dekadzie Gierka forsowano rekordowe wydobycie, m.in. pracą w wolne soboty i niedziele. Eksploatacja odbywała się kosztem bezpieczeństwa i zdrowia załóg.
+
+## Opór i represje
+Śląskie kopalnie stały się ośrodkami Solidarności. W stanie wojennym to właśnie w kopalni Wujek doszło do najtragiczniejszej pacyfikacji – śmierci 9 górników.
+
+## Znaczenie
+Górnictwo węglowe symbolizuje zarówno potęgę przemysłową, jak i strukturalne problemy gospodarki PRL: nadmierną eksploatację surowców i ludzi.`,
+    resources: [
+      {
+        id: 'gor-1',
+        title: 'Górnictwo PRL – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=g%C3%B3rnictwo%20w%C4%99giel%20kamienny%20%C5%9Al%C4%85sk%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o górnictwie i jego roli.',
+      },
+      {
+        id: 'gor-2',
+        title: 'Kopalnie – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=g%C3%B3rnictwo+w%C4%99giel+kopalnia+PRL+%C5%9Al%C4%85sk',
+        source: 'YouTube',
+        description: 'Archiwalne materiały filmowe.',
+      },
+      {
+        id: 'gor-3',
+        title: 'Fotografie przemysłu',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=kopalnia%20w%C4%99giel%20g%C3%B3rnictwo%20%C5%9Al%C4%85sk',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne.',
+      },
+    ],
+    relatedIds: ['gospodarka-prl', 'wujek', 'huta-katowice'],
+  },
+  {
+    id: 'lot-prl',
+    title: 'Polskie Linie Lotnicze LOT',
+    subtitle: 'Skrzydła w cieniu żelaznej kurtyny',
+    category: 'społeczeństwo',
+    tags: ['społeczeństwo', 'transport', 'lotnictwo', 'gospodarka'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Państwowy przewoźnik lotniczy PRL, łączący Polskę ze światem radzieckimi i (z czasem) zachodnimi samolotami, dla większości obywateli pozostający luksusem.',
+    content: `## Państwowy przewoźnik
+Polskie Linie Lotnicze LOT, reaktywowane po wojnie, były jedynym przewoźnikiem lotniczym kraju. Flotę tworzyły początkowo samoloty radzieckie (Ił, Tu, An), z czasem także zachodnie.
+
+## Okno na świat
+LOT obsługiwał połączenia krajowe i międzynarodowe, w tym dalekie trasy. Dla większości Polaków podróż samolotem była jednak rzadkością i luksusem.
+
+## Reglamentacja podróży
+Wyjazdy zagraniczne ograniczała polityka paszportowa – bilet to nie wszystko, trzeba było jeszcze uzyskać zgodę władz na wyjazd, co czyniło lotnicze podróże na Zachód elitarnymi.
+
+## Porwania i ucieczki
+W realiach zamknięcia granic zdarzały się dramatyczne ucieczki – uprowadzenia samolotów LOT do Berlina Zachodniego czy Wiednia, by wydostać się z bloku wschodniego.
+
+## Znaczenie
+LOT symbolizował zarazem nowoczesność i ograniczenia PRL – techniczne ambicje państwa wobec realnej niedostępności swobodnego podróżowania dla obywateli.`,
+    resources: [
+      {
+        id: 'lot-1',
+        title: 'LOT w PRL – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Polskie%20Linie%20Lotnicze%20LOT%20lotnictwo%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o przewoźniku i lotnictwie.',
+      },
+      {
+        id: 'lot-2',
+        title: 'Lotnictwo – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=PLL+LOT+samoloty+PRL+lotnictwo',
+        source: 'YouTube',
+        description: 'Archiwalne materiały filmowe.',
+      },
+      {
+        id: 'lot-3',
+        title: 'Fotografie lotnictwa',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=LOT%20samolot%20lotnictwo%20PRL',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne.',
+      },
+    ],
+    relatedIds: ['gospodarka-prl', 'ucieczki-z-prl', 'turystyka-prl'],
+  },
+  {
+    id: 'centrum-zdrowia-dziecka',
+    title: 'Centrum Zdrowia Dziecka',
+    subtitle: 'Pomnik-szpital ze społecznych składek',
+    category: 'społeczeństwo',
+    tags: ['społeczeństwo', 'zdrowie', 'medycyna', 'lata 70.'],
+    yearStart: 1968,
+    yearEnd: 1989,
+    summary: 'Nowoczesny szpital dziecięcy w Warszawie, zbudowany ze społecznych składek jako pomnik dzieci – ofiar II wojny światowej.',
+    content: `## Idea
+Pomysł budowy Centrum Zdrowia Dziecka narodził się jako „pomnik-szpital” upamiętniający dzieci, które zginęły podczas II wojny światowej – żywy pomnik służący ratowaniu życia.
+
+## Społeczna zbiórka
+Inwestycję sfinansowano w dużej mierze ze społecznych składek i datków, także od Polonii. Była to jedna z największych oddolnych akcji charytatywnych w historii PRL.
+
+## Nowoczesność
+Otwarte w 1977 roku Centrum w warszawskim Międzylesiu stało się najnowocześniejszym szpitalem pediatrycznym w kraju, ośrodkiem leczenia i badań na światowym poziomie.
+
+## Misja
+Szpital specjalizował się w trudnych przypadkach, ratując dzieci z całej Polski. Stał się symbolem solidarności społecznej i troski o najmłodszych.
+
+## Znaczenie
+Centrum Zdrowia Dziecka to przykład, że mimo niewydolnej służby zdrowia PRL oddolna mobilizacja społeczna potrafiła stworzyć instytucję wybitną i trwałą.`,
+    resources: [
+      {
+        id: 'czd-1',
+        title: 'Centrum Zdrowia Dziecka – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Centrum%20Zdrowia%20Dziecka%20szpital%20pomnik%20sk%C5%82adki',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o powstaniu szpitala.',
+      },
+      {
+        id: 'czd-2',
+        title: 'CZD – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Centrum+Zdrowia+Dziecka+budowa+PRL',
+        source: 'YouTube',
+        description: 'Archiwalne materiały filmowe.',
+      },
+      {
+        id: 'czd-3',
+        title: 'Fotografie i druki',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=Centrum%20Zdrowia%20Dziecka%20szpital',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne.',
+      },
+    ],
+    relatedIds: ['sluzba-zdrowia-prl', 'zbigniew-religa'],
+  },
+  {
+    id: 'teleranek',
+    title: 'Teleranek',
+    subtitle: 'Niedzielny poranek dzieci PRL',
+    category: 'kultura',
+    tags: ['kultura', 'telewizja', 'dzieci', 'rozrywka'],
+    yearStart: 1972,
+    yearEnd: 1989,
+    summary: 'Kultowy niedzielny program telewizyjny dla dzieci i młodzieży; jego nieemitowanie 13 grudnia 1981 roku zwiastowało wprowadzenie stanu wojennego.',
+    content: `## Program
+„Teleranek” to emitowany od 1972 roku niedzielny poranny program dla dzieci i młodzieży. Łączył filmy, bajki, konkursy, reportaże i edukację, z charakterystycznym kogucikiem w czołówce.
+
+## Rytuał niedzieli
+Dla pokoleń dzieci PRL „Teleranek” był nieodłącznym elementem niedzielnego poranka – jednym z niewielu programów stworzonych specjalnie dla młodego widza.
+
+## 13 grudnia 1981
+W niedzielny poranek 13 grudnia 1981 roku zamiast „Teleranka” pojawili się spikerzy w mundurach ogłaszający stan wojenny. Brak programu stał się symbolem tego dramatycznego dnia.
+
+## Telewizja dla dzieci
+Obok „Teleranka” telewizja PRL oferowała „Dobranocki” z bohaterami jak Bolek i Lolek, Reksio czy Miś Uszatek, które na trwałe weszły do kultury dziecięcej.
+
+## Znaczenie
+„Teleranek” pozostaje symbolem dzieciństwa w PRL, a jego brak owego grudniowego poranka – jednym z najtrwalszych wspomnień początku stanu wojennego.`,
+    resources: [
+      {
+        id: 'ter-1',
+        title: 'Teleranek – archiwalia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Teleranek+program+dla+dzieci+PRL',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania programu.',
+      },
+      {
+        id: 'ter-2',
+        title: 'Telewizja dla dzieci – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Teleranek%20telewizja%20dzieci%20stan%20wojenny',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o programie i jego roli.',
+      },
+      {
+        id: 'ter-3',
+        title: 'Dobranocki w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Teleranek%20dobranocka%20dzieci',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały telewizyjne.',
+      },
+    ],
+    relatedIds: ['telewizja-prl', 'seriale-prl', 'dzieci-prl'],
+  },
+  {
+    id: 'wyprawy-polarne',
+    title: 'Polskie wyprawy polarne',
+    subtitle: 'Stacja Arctowski i nauka na krańcach świata',
+    category: 'społeczeństwo',
+    tags: ['nauka', 'polarnictwo', 'badania', 'lata 70.'],
+    yearStart: 1977,
+    yearEnd: 1989,
+    summary: 'Polskie badania polarne, zwieńczone otwarciem w 1977 roku stałej Stacji Antarktycznej im. Henryka Arctowskiego, dowód naukowych ambicji PRL.',
+    content: `## Tradycja
+Polacy mieli udział w badaniach polarnych już przed wojną. Po wojnie polarnictwo rozwijano w ramach badań naukowych Polskiej Akademii Nauk, na Spitsbergenie i w Antarktyce.
+
+## Stacja Arctowski
+W 1977 roku na Wyspie Króla Jerzego otwarto stałą Polską Stację Antarktyczną im. Henryka Arctowskiego – placówkę badawczą działającą do dziś, prowadzącą badania klimatu, biologii i geologii.
+
+## Badania
+Polscy naukowcy prowadzili badania glacjologiczne, meteorologiczne i przyrodnicze, zdobywając międzynarodowe uznanie mimo skromnych środków i trudnych warunków.
+
+## Ludzie
+W wyprawach uczestniczyli wybitni badacze i podróżnicy. Polarnictwo, podobnie jak himalaizm, dawało poczucie uczestnictwa w światowej nauce i przygodzie.
+
+## Znaczenie
+Polskie wyprawy polarne i Stacja Arctowski to dowód, że mimo ograniczeń systemu polska nauka potrafiła zaistnieć na najdalszych krańcach świata.`,
+    resources: [
+      {
+        id: 'pol-1',
+        title: 'Polarnictwo polskie – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=polskie%20wyprawy%20polarne%20Arctowski%20Antarktyda',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o badaniach polarnych.',
+      },
+      {
+        id: 'pol-2',
+        title: 'Wyprawy polarne – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=polska+stacja+Arctowski+Antarktyda+wyprawa',
+        source: 'YouTube',
+        description: 'Materiały filmowe o wyprawach.',
+      },
+      {
+        id: 'pol-3',
+        title: 'Nauka w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=wyprawa%20polarna%20nauka',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały.',
+      },
+    ],
+    relatedIds: ['nauka-prl', 'hermaszewski'],
+  },
+  {
+    id: 'olga-lipinska',
+    title: 'Kabaret Olgi Lipińskiej',
+    subtitle: 'Telewizyjna satyra z klasą',
+    category: 'kultura',
+    tags: ['kultura', 'kabaret', 'satyra', 'telewizja'],
+    yearStart: 1976,
+    yearEnd: 1989,
+    summary: 'Telewizyjny kabaret literacki tworzony przez reżyserkę Olgę Lipińską, słynący z inteligentnej, aluzyjnej satyry i wybitnej obsady aktorskiej.',
+    content: `## Twórczyni
+Olga Lipińska, reżyserka telewizyjna i teatralna, stworzyła cykl programów kabaretowych, które przez dekady były jedną z najambitniejszych form telewizyjnej satyry w Polsce.
+
+## Charakter
+Kabaret łączył piosenkę, skecz i poezję z aluzyjną, inteligentną krytyką rzeczywistości. Wyróżniał się literackim poziomem tekstów i wysmakowaną formą.
+
+## Obsada
+Występowali w nim wybitni aktorzy, m.in. Wiesław Michnikowski, Barbara Krafftówna, Marian Kociniak czy Piotr Fronczewski, nadając programom najwyższą klasę aktorską.
+
+## Cenzura
+Programy balansowały na granicy cenzury – aluzje polityczne i obyczajowe wymagały finezji, by przejść przez sito kontroli, co czyniło je tym bardziej cenionymi przez widzów.
+
+## Znaczenie
+Kabaret Olgi Lipińskiej, obok „Pod Egidą” i Kabaretu Tey, współtworzył złotą erę polskiej satyry, łącząc rozrywkę z intelektualną ambicją.`,
+    resources: [
+      {
+        id: 'oli-1',
+        title: 'Kabaret Olgi Lipińskiej – archiwalia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Kabaret+Olgi+Lipi%C5%84skiej+satyra+telewizja',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania programów.',
+      },
+      {
+        id: 'oli-2',
+        title: 'Kabaret w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Kabaret%20Olgi%20Lipi%C5%84skiej',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały telewizyjne.',
+      },
+      {
+        id: 'oli-3',
+        title: 'Satyra PRL – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=kabaret%20telewizyjny%20satyra%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o kabarecie telewizyjnym.',
+      },
+    ],
+    relatedIds: ['kabaret-prl', 'kabaret-tey', 'kabaret-pod-egida', 'telewizja-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -14859,4 +15471,11 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1974, event: 'Pierwszy Festiwal Polskich Filmów Fabularnych w Gdańsku', category: 'kultura', entryId: 'festiwal-gdynia' },
   { year: 1976, event: 'Nowelizacja konstytucji PRL i protest „Listu 59”', category: 'opozycja', entryId: 'nowelizacja-konstytucji-1976' },
   { year: 1978, event: 'Powstaje Towarzystwo Kursów Naukowych – Uniwersytet Latający', category: 'opozycja', entryId: 'tkn-uniwersytet-latajacy' },
+  { year: 1960, event: 'Wydarzenia zielonogórskie – obrona Domu Katolickiego przed milicją', category: 'opozycja', entryId: 'zielonogorskie-1960' },
+  { year: 1972, event: 'Premiera „Teleranka” – kultowego programu dla dzieci', category: 'kultura', entryId: 'teleranek' },
+  { year: 1974, event: 'Polscy siatkarze mistrzami świata pod wodzą Huberta Wagnera', category: 'społeczeństwo', entryId: 'siatkowka-1974' },
+  { year: 1975, event: 'Premiera „Umarłej klasy” Tadeusza Kantora', category: 'kultura', entryId: 'kantor-teatr' },
+  { year: 1976, event: 'Siatkarze zdobywają złoto olimpijskie w Montrealu', category: 'społeczeństwo', entryId: 'siatkowka-1974' },
+  { year: 1977, event: 'Otwarcie Centrum Zdrowia Dziecka oraz Stacji Antarktycznej im. Arctowskiego', category: 'społeczeństwo', entryId: 'centrum-zdrowia-dziecka' },
+  { year: 1977, event: 'Polska Stacja Antarktyczna im. Henryka Arctowskiego rozpoczyna działalność', category: 'społeczeństwo', entryId: 'wyprawy-polarne' },
 ];

@@ -300,4 +300,30 @@ export const slangTerms: SlangTerm[] = [
     definition: 'Koniec dniówki, zakończenie pracy. „Robić fajrant” oznaczało też wcześniejsze odpuszczenie obowiązków.',
     category: 'codzienność',
   },
+  {
+    term: 'Lewizna',
+    definition: 'Towar lub dochód zdobyty nielegalnie, „na lewo” – poza ewidencją, z kradzieży mienia państwowego lub szarej strefy.',
+    example: '„Materiały budowlane szły na lewiznę z państwowej budowy”.',
+    category: 'gospodarka',
+  },
+  {
+    term: 'Melina',
+    definition: 'Nielegalny punkt sprzedaży alkoholu (zwłaszcza po godzinach lub bimbru) albo miejsce schadzek i ukrywania się.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Prywatka',
+    definition: 'Domowa impreza taneczna młodzieży – z adapterem, płytami i tańcami, namiastka rozrywki w prywatnym mieszkaniu.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Czarna wołga',
+    definition: 'Miejska legenda o czarnej limuzynie Wołga porywającej dzieci – odzwierciedlała lęk przed wszechwładną, anonimową „władzą”.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Peerel',
+    definition: 'Potoczna, często ironiczna nazwa Polskiej Rzeczypospolitej Ludowej; dziś synonim całej epoki 1944–1989 i jej absurdów.',
+    category: 'codzienność',
+  },
 ];
