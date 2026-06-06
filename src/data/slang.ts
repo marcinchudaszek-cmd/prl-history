@@ -326,4 +326,30 @@ export const slangTerms: SlangTerm[] = [
     definition: 'Potoczna, często ironiczna nazwa Polskiej Rzeczypospolitej Ludowej; dziś synonim całej epoki 1944–1989 i jej absurdów.',
     category: 'codzienność',
   },
+  {
+    term: 'Przodownik pracy',
+    definition: 'Robotnik stawiany za wzór za rzekome przekraczanie norm (na wzór radzieckiego stachanowca) – filar propagandy „współzawodnictwa pracy”.',
+    example: '„Wzorem dla załogi miał być przodownik pracy”.',
+    category: 'propaganda',
+  },
+  {
+    term: 'Bumelant',
+    definition: 'Pejoratywne określenie pracownika uchylającego się od pracy lub spóźnialskiego – piętnowane w propagandowych gazetkach i akcjach.',
+    category: 'propaganda',
+  },
+  {
+    term: 'Badziewie / buble',
+    definition: 'Towar tandetny, wadliwy, niechodliwy – produkt gospodarki niedoboru, którego mimo wszystko nikt nie chciał kupić.',
+    category: 'gospodarka',
+  },
+  {
+    term: 'Komitet kolejkowy',
+    definition: 'Społeczna lista i samorząd kolejki – spisywano numerki, prowadzono zeszyty, pilnowano porządku przy długim oczekiwaniu na deficytowy towar.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Sklep komercyjny',
+    definition: 'Państwowy sklep sprzedający towary deficytowe poza przydziałem, ale po znacznie zawyżonych cenach – legalny wentyl niedoboru.',
+    category: 'gospodarka',
+  },
 ];

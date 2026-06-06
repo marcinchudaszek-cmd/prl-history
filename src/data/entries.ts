@@ -6746,6 +6746,14 @@ W muzyce socrealizm wymagał melodyjności, zrozumiałości i "optymizmu" – aw
 Po śmierci Stalina (1953) i XX Zjeździe KPZR (1956) socrealizm zaczął się kruszyć. W Polsce "odwilż" kulturalna była wyraźna – artyści odetchnęli, jazz stał się legalny, awangarda powróciła. Architektoniczne relikty socrealizmu – MDM, PKiN, osiedla z lat 50. – stoją do dziś, będąc teraz zabytkami.`,
     resources: [
       {
+        id: 'soc-yt',
+        title: '„Budujemy nową Polskę” (pieśń masowa, 1954)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=cD5ju60ckI8',
+        source: 'YouTube',
+        description: 'Socrealistyczna pieśń masowa epoki stalinowskiej.',
+      },
+      {
         id: 'socreal-1',
         title: 'Sztuka socrealistyczna – Polona',
         type: 'zdjęcie',
@@ -8407,6 +8415,14 @@ W 1980 roku zdiagnozowano u niej mięsaka kości. Mimo chemioterapii i operacji 
 Anna German jest czczona do dziś zarówno w Polsce, jak i w Rosji, na Ukrainie i w innych krajach byłego ZSRR. Jej życie stało się kanwą rosyjskiego serialu telewizyjnego "Anna German" (2012), który był wielkim hitem. Muzeum i ekspozycje poświęcone jej życiu działają we Wrocławiu i w krajach byłego ZSRR.`,
     resources: [
       {
+        id: 'ag-yt',
+        title: 'Anna German – „Tańczące Eurydyki” (Opole 1964)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=6GLiObApSEc',
+        source: 'YouTube',
+        description: 'Nagrodzony występ z II KFPP w Opolu.',
+      },
+      {
         id: 'german-ninateka',
         title: 'Anna German – archiwalne nagrania telewizyjne',
         type: 'nagranie',
@@ -8813,6 +8829,14 @@ Muzyka do "Rosemary's Baby" przyniosła Komedzie uznanie w Hollywood. Pracował 
 
 Komeda zostawił ok. 20 nagrań studyjnych i muzykę do ponad 50 filmów. Jego kołysanka z "Rosemary's Baby" jest do dziś jedną z najczęściej cytowanych w kulturze popularnej. Polski jazz bez Komedy byłby zupełnie inny – ukształtował on zarówno styl gry, jak i wyobraźnię kolejnych pokoleń muzyków. Jan Ptaszyn Wróblewski, Tomasz Stańko i wielu innych przyznaje się do jego wpływu.`,
     resources: [
+      {
+        id: 'kom-yt',
+        title: 'Krzysztof Komeda – „Lullaby” (Rosemary’s Baby, 1968)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=7wRNX94fU94',
+        source: 'YouTube',
+        description: 'Słynna kołysanka z filmu Polańskiego.',
+      },
       {
         id: 'komeda-ninateka',
         title: 'Archiwalne nagrania i wywiady z Komedą – NINATEKA',
@@ -11104,6 +11128,14 @@ W kabarecie występowali najwięksi aktorzy epoki: Wiesław Michnikowski, Kalina
 Kabaret Starszych Panów pozostaje wzorcem inteligentnej rozrywki. Jego piosenki są wciąż wykonywane, a nagrania – świadectwem, że nawet w PRL możliwa była kultura wolna od ideologii.`,
     resources: [
       {
+        id: 'ksp-yt',
+        title: 'Kabaret Starszych Panów – „Addio pomidory”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=g2W3eupNqVA',
+        source: 'YouTube',
+        description: 'Wiesław Michnikowski w klasyku Przybory i Wasowskiego.',
+      },
+      {
         id: 'ksp-1',
         title: 'Nagrania Kabaretu – TVP VOD',
         type: 'film',
@@ -11751,6 +11783,14 @@ Muzyka młodzieżowa była tolerowana, ale kontrolowana – teksty musiały prze
 ## Dziedzictwo
 Big-beat położył fundamenty pod rozwój polskiego rocka, a wiele zespołów tej epoki pozostaje klasyką rodzimej muzyki rozrywkowej.`,
     resources: [
+      {
+        id: 'bb-yt',
+        title: 'Skaldowie – „Wszystko mi mówi, że mnie ktoś pokochał” (1968)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=_21HqYAL_Ns',
+        source: 'YouTube',
+        description: 'Przebój big-beatowej epoki.',
+      },
       {
         id: 'bb-1',
         title: 'Big-beat – nagrania archiwalne',
@@ -15440,6 +15480,516 @@ Kabaret Olgi Lipińskiej, obok „Pod Egidą” i Kabaretu Tey, współtworzył 
     ],
     relatedIds: ['kabaret-prl', 'kabaret-tey', 'kabaret-pod-egida', 'telewizja-prl'],
   },
+  {
+    id: 'mrozek-slawomir',
+    title: 'Sławomir Mrożek',
+    subtitle: 'Mistrz groteski i absurdu',
+    category: 'osoby',
+    tags: ['kultura', 'literatura', 'teatr', 'satyra', 'emigracja'],
+    yearStart: 1956,
+    yearEnd: 1989,
+    summary: 'Dramaturg, prozaik i rysownik, najwybitniejszy polski twórca teatru absurdu, autor „Tanga” i „Emigrantów”, demaskujący mechanizmy władzy i konformizmu.',
+    content: `## Sylwetka
+Sławomir Mrożek (1930–2013) był dramaturgiem, prozaikiem i rysownikiem, jednym z najczęściej wystawianych polskich autorów na świecie i mistrzem groteski.
+
+## Teatr absurdu
+Jego sztuki, jak „Tango” (1964), „Policja” czy „Emigranci”, w krzywym zwierciadle absurdu ukazywały mechanizmy władzy, przemocy i konformizmu, czytelne dla widzów PRL mimo cenzury.
+
+## Proza i rysunki
+Słynął też z krótkich, ironicznych opowiadań i celnych rysunków satyrycznych. Jego poczucie humoru i precyzja języka stały się wzorem inteligentnej satyry.
+
+## Emigracja
+W 1963 roku wyjechał z Polski i przez lata tworzył na emigracji (we Włoszech, Francji, Meksyku), publikując m.in. w paryskiej „Kulturze”, pozostając krytycznym wobec systemu.
+
+## Znaczenie
+Mrożek to klasyk literatury XX wieku; jego „Tango” należy do kanonu dramatu, a styl – do najbardziej rozpoznawalnych w polskiej kulturze.`,
+    resources: [
+      {
+        id: 'mro-1',
+        title: 'Sławomir Mrożek – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=S%C5%82awomir%20Mro%C5%BCek%20Tango%20teatr%20absurd',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o twórczości pisarza.',
+      },
+      {
+        id: 'mro-2',
+        title: 'Mrożek – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=S%C5%82awomir+Mro%C5%BCek+Tango+spektakl',
+        source: 'YouTube',
+        description: 'Materiały o sztukach i autorze.',
+      },
+      {
+        id: 'mro-3',
+        title: 'Teksty w Polonie',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=S%C5%82awomir%20Mro%C5%BCek',
+        source: 'Polona',
+        description: 'Publikacje i wydania.',
+      },
+    ],
+    relatedIds: ['literatura-prl', 'teatr-prl', 'kultura-paryz'],
+  },
+  {
+    id: 'gombrowicz-witold',
+    title: 'Witold Gombrowicz',
+    subtitle: 'Pisarz formy i buntu',
+    category: 'osoby',
+    tags: ['kultura', 'literatura', 'emigracja'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Jeden z najwybitniejszych pisarzy polskich XX wieku, autor „Ferdydurke” i „Dziennika”, tworzący na emigracji, przez lata zakazany przez cenzurę PRL.',
+    content: `## Sylwetka
+Witold Gombrowicz (1904–1969) był prozaikiem i dramaturgiem, jednym z najoryginalniejszych pisarzy polskich, autorem nowatorskich powieści badających „formę” i międzyludzkie zniewolenie.
+
+## Emigracja
+Wybuch wojny zastał go w Argentynie, gdzie spędził wiele lat, później przeniósł się do Europy. Nigdy nie wrócił do Polski, tworząc poza zasięgiem cenzury.
+
+## Twórczość
+„Ferdydurke”, „Trans-Atlantyk”, „Pornografia”, „Kosmos” i monumentalny „Dziennik” to dzieła o światowym znaczeniu, analizujące formę, niedojrzałość i tożsamość.
+
+## Cenzura
+W PRL jego twórczość była przez długi czas zakazana lub ograniczana; krążyła w drugim obiegu i dzięki paryskiej „Kulturze”, która go publikowała.
+
+## Znaczenie
+Gombrowicz to klasyk literatury światowej, wielokrotnie wymieniany jako kandydat do Nagrody Nobla; jego wpływ na polską i europejską kulturę pozostaje ogromny.`,
+    resources: [
+      {
+        id: 'gom-1',
+        title: 'Witold Gombrowicz – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Witold%20Gombrowicz%20Ferdydurke%20literatura%20emigracja',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o pisarzu.',
+      },
+      {
+        id: 'gom-2',
+        title: 'Teksty w Wolnych Lekturach',
+        type: 'publikacja',
+        url: 'https://wolnelektury.pl/szukaj/?q=Gombrowicz',
+        source: 'Wolne Lektury',
+        description: 'Dostępne teksty literackie.',
+      },
+      {
+        id: 'gom-3',
+        title: 'Gombrowicz – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Witold+Gombrowicz+pisarz+dziennik',
+        source: 'YouTube',
+        description: 'Materiały filmowe i archiwalne.',
+      },
+    ],
+    relatedIds: ['literatura-prl', 'kultura-paryz', 'giedroyc', 'milosz'],
+  },
+  {
+    id: 'hlasko-marek',
+    title: 'Marek Hłasko',
+    subtitle: '„Pierwszy chuligan PRL”',
+    category: 'osoby',
+    tags: ['kultura', 'literatura', 'emigracja'],
+    yearStart: 1956,
+    yearEnd: 1969,
+    summary: 'Buntowniczy prozaik pokolenia odwilży, autor „Ósmego dnia tygodnia” i „Pierwszego kroku w chmurach”, legenda literackiego nonkonformizmu, zmarły na emigracji.',
+    content: `## Sylwetka
+Marek Hłasko (1934–1969) był prozaikiem i scenarzystą, ikoną buntu pokolenia odwilży 1956 roku, porównywaną do amerykańskich „wyklętych” pisarzy i Jamesa Deana.
+
+## Proza odwilży
+Jego opowiadania – „Pierwszy krok w chmurach”, „Ósmy dzień tygodnia” – z brutalnym realizmem i liryzmem ukazywały szarość, przemoc i rozczarowanie życia w PRL, łamiąc socrealistyczny optymizm.
+
+## Konflikt z władzą
+Po okresie popularności popadł w konflikt z władzami. W 1958 roku wyjechał na Zachód i pozostał na emigracji, gdzie publikował m.in. w paryskiej „Kulturze”.
+
+## Legenda
+Prowadził burzliwe, tułacze życie w Izraelu, Niemczech i USA. Zmarł młodo w 1969 roku, co dopełniło legendy „przeklętego” pisarza.
+
+## Znaczenie
+Hłasko pozostaje symbolem literackiego buntu i nonkonformizmu, a jego proza – świadectwem rozczarowania pokolenia odwilży.`,
+    resources: [
+      {
+        id: 'hla-1',
+        title: 'Marek Hłasko – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Marek%20H%C5%82asko%20literatura%20odwil%C5%BC%20emigracja',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o pisarzu i jego epoce.',
+      },
+      {
+        id: 'hla-2',
+        title: 'Hłasko – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Marek+H%C5%82asko+pisarz+%C3%93smy+dzie%C5%84+tygodnia',
+        source: 'YouTube',
+        description: 'Materiały filmowe i archiwalne.',
+      },
+      {
+        id: 'hla-3',
+        title: 'Teksty w Polonie',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Marek%20H%C5%82asko',
+        source: 'Polona',
+        description: 'Publikacje i wydania.',
+      },
+    ],
+    relatedIds: ['literatura-prl', 'polacy-na-emigracji', 'kultura-paryz'],
+  },
+  {
+    id: 'rozewicz-tadeusz',
+    title: 'Tadeusz Różewicz',
+    subtitle: 'Poeta po Zagładzie',
+    category: 'osoby',
+    tags: ['kultura', 'literatura', 'poezja', 'teatr'],
+    yearStart: 1947,
+    yearEnd: 1989,
+    summary: 'Wybitny poeta, dramaturg i prozaik, twórca nowoczesnej poezji „ogołoconej” po doświadczeniu wojny oraz nowatorskiego dramatu („Kartoteka”).',
+    content: `## Sylwetka
+Tadeusz Różewicz (1921–2014), żołnierz AK, był jednym z najważniejszych polskich poetów i dramaturgów XX wieku, twórcą nowego języka poezji po doświadczeniu wojny i Zagłady.
+
+## Poezja
+Jego wczesne tomy, jak „Niepokój” (1947), wprowadziły poezję ascetyczną, pozbawioną ozdobników i rymów, próbującą mówić o świecie po katastrofie ludzkich wartości.
+
+## Dramat
+W teatrze zasłynął nowatorskimi sztukami, zwłaszcza „Kartoteką” (1960) – dziełem rozbijającym tradycyjną fabułę, uznawanym za przełom w polskim dramacie.
+
+## Pozycja
+Różewicz tworzył przez całą epokę PRL, zachowując niezależność artystyczną. Był wielokrotnie nagradzany i tłumaczony na wiele języków.
+
+## Znaczenie
+Należy do najwybitniejszych twórców polskiej literatury; jego poezja i dramaturgia wywarły ogromny wpływ na kolejne pokolenia.`,
+    resources: [
+      {
+        id: 'roz-1',
+        title: 'Tadeusz Różewicz – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Tadeusz%20R%C3%B3%C5%BCewicz%20poezja%20Kartoteka%20literatura',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o twórczości poety.',
+      },
+      {
+        id: 'roz-2',
+        title: 'Teksty w Wolnych Lekturach',
+        type: 'publikacja',
+        url: 'https://wolnelektury.pl/szukaj/?q=R%C3%B3%C5%BCewicz',
+        source: 'Wolne Lektury',
+        description: 'Dostępne teksty literackie.',
+      },
+      {
+        id: 'roz-3',
+        title: 'Różewicz – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Tadeusz+R%C3%B3%C5%BCewicz+poezja+wiersze',
+        source: 'YouTube',
+        description: 'Materiały filmowe i archiwalne.',
+      },
+    ],
+    relatedIds: ['literatura-prl', 'teatr-prl', 'szymborska'],
+  },
+  {
+    id: 'wojciech-fortuna',
+    title: 'Wojciech Fortuna',
+    subtitle: 'Olimpijskie złoto w skokach',
+    category: 'osoby',
+    tags: ['sport', 'skoki narciarskie', 'olimpiada', 'lata 70.'],
+    yearStart: 1972,
+    yearEnd: 1972,
+    summary: 'Skoczek narciarski, zdobywca pierwszego dla Polski zimowego złota olimpijskiego – w Sapporo 1972 – po niespodziewanym, brawurowym skoku.',
+    content: `## Sylwetka
+Wojciech Fortuna (ur. 1952) to skoczek narciarski, który zapisał się w historii polskiego sportu, zdobywając pierwszy zimowy złoty medal olimpijski dla Polski.
+
+## Sapporo 1972
+Na igrzyskach w Sapporo w 1972 roku, na dużej skoczni, oddał rewelacyjny pierwszy skok na 111 metrów, który – mimo słabszego drugiego – wystarczył do sensacyjnego zwycięstwa.
+
+## Sensacja
+Złoto Fortuny było ogromną niespodzianką i źródłem narodowej dumy. Był to przełom – pierwszy polski medal olimpijski zimowych igrzysk najwyższej próby.
+
+## Później
+W kolejnych latach nie powtórzył tego sukcesu, a jego kariera bywała burzliwa. Złoto z Sapporo pozostało jednak legendą polskich skoków.
+
+## Znaczenie
+Wojciech Fortuna jest pionierem polskich sukcesów w skokach narciarskich, prekursorem późniejszej „małyszomanii” i bohaterem sportowej historii PRL.`,
+    resources: [
+      {
+        id: 'for-1',
+        title: 'Wojciech Fortuna – archiwalia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Wojciech+Fortuna+Sapporo+1972+skoki+z%C5%82oto',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania skoków.',
+      },
+      {
+        id: 'for-2',
+        title: 'Fortuna – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Wojciech%20Fortuna%20skoki%20narciarskie%20olimpiada',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o skoczku.',
+      },
+      {
+        id: 'for-3',
+        title: 'Sport w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=skoki%20narciarskie%20sport%20Polska',
+        source: 'Ninateka',
+        description: 'Materiały filmowe o sporcie.',
+      },
+    ],
+    relatedIds: ['sport-prl', 'mundial-1974'],
+  },
+  {
+    id: 'lubin-1982',
+    title: 'Zbrodnia lubińska 1982',
+    subtitle: 'Strzały do demonstrantów',
+    category: 'represje',
+    tags: ['represje', 'stan wojenny', 'ofiary', 'ZOMO'],
+    yearStart: 1982,
+    yearEnd: 1982,
+    summary: '31 sierpnia 1982 roku w Lubinie funkcjonariusze ZOMO otworzyli ogień do uczestników manifestacji, zabijając trzech demonstrantów.',
+    content: `## Tło
+W drugą rocznicę porozumień sierpniowych, 31 sierpnia 1982 roku, w wielu miastach Polski odbyły się manifestacje przeciw stanowi wojennemu. Jedna z największych miała miejsce w Lubinie na Dolnym Śląsku.
+
+## Strzały
+Funkcjonariusze ZOMO użyli broni palnej z ostrą amunicją wobec pokojowych demonstrantów. Zginęły trzy osoby: Michał Adamowicz, Andrzej Trajkowski i Mieczysław Poźniak, a kilkadziesiąt zostało rannych.
+
+## Tuszowanie
+Władze próbowały ukryć prawdę o zbrodni, fałszując okoliczności śmierci i utrudniając śledztwo. Sprawcy przez lata pozostawali bezkarni.
+
+## Pamięć
+Zbrodnia lubińska stała się jednym z symboli represji stanu wojennego. Po 1989 roku prowadzono procesy, a ofiary upamiętniono pomnikiem.
+
+## Znaczenie
+Wydarzenia w Lubinie pokazują brutalność aparatu represji wobec pokojowego oporu i należą do najtragiczniejszych kart stanu wojennego, obok pacyfikacji kopalni Wujek.`,
+    resources: [
+      {
+        id: 'lub-1',
+        title: 'Zbrodnia lubińska – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=zbrodnia%20lubi%C5%84ska%201982%20Lubin%20ZOMO%20ofiary',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o wydarzeniach i ofiarach.',
+      },
+      {
+        id: 'lub-2',
+        title: 'Lubin 1982 – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=zbrodnia+lubi%C5%84ska+1982+stan+wojenny',
+        source: 'YouTube',
+        description: 'Materiały filmowe o wydarzeniu.',
+      },
+      {
+        id: 'lub-3',
+        title: 'Dokumentacja archiwalna',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Lubin%201982%20zbrodnia',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['stan-wojenny', 'zomo', 'wujek'],
+  },
+  {
+    id: 'obrona-krzyzy',
+    title: 'Obrona krzyży',
+    subtitle: 'Miętne, Włoszczowa i walka o symbole',
+    category: 'opozycja',
+    tags: ['opozycja', 'kościół', 'młodzież', 'edukacja'],
+    yearStart: 1984,
+    yearEnd: 1984,
+    summary: 'Protesty uczniów i rodziców w obronie krzyży w szkołach (Miętne, Włoszczowa) w 1984 roku – sprzeciw wobec usuwania symboli religijnych z placówek.',
+    content: `## Tło
+W 1984 roku władze, realizując politykę laicyzacji, nakazały usunięcie krzyży z sal lekcyjnych w szkołach. Wywołało to spontaniczny opór uczniów, rodziców i Kościoła.
+
+## Miętne
+W Zespole Szkół Rolniczych w Miętnem uczniowie zaprotestowali przeciw zdjęciu krzyży, organizując strajk i modlitwy. Spór odbił się szerokim echem w całym kraju.
+
+## Włoszczowa
+We Włoszczowej uczniowie liceum przeprowadzili kilkutygodniowy strajk okupacyjny w obronie krzyży, wspierani przez rodziców i miejscowego księdza.
+
+## Reakcja
+Władze stosowały naciski, szykany i represje wobec protestujących i wspierających ich duchownych. Mimo to opór zmusił do częściowych ustępstw.
+
+## Znaczenie
+Obrona krzyży stała się symbolem oporu młodzieży i Kościoła wobec ateizacji, pokazując siłę przywiązania społeczeństwa do wiary i tradycji.`,
+    resources: [
+      {
+        id: 'okr-1',
+        title: 'Obrona krzyży – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=obrona%20krzy%C5%BCy%20Mi%C4%99tne%20W%C5%82oszczowa%201984%20szko%C5%82a',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o protestach.',
+      },
+      {
+        id: 'okr-2',
+        title: 'Obrona krzyży – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=obrona+krzy%C5%BCy+W%C5%82oszczowa+Mi%C4%99tne+strajk+1984',
+        source: 'YouTube',
+        description: 'Materiały filmowe o wydarzeniach.',
+      },
+      {
+        id: 'okr-3',
+        title: 'Dokumentacja archiwalna',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=obrona%20krzy%C5%BCy%20Mi%C4%99tne%20W%C5%82oszczowa',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['kosciol-prl', 'popieluszko', 'edukacja-prl'],
+  },
+  {
+    id: 'radio-solidarnosc',
+    title: 'Radio Solidarność',
+    subtitle: 'Głos podziemia w eterze',
+    category: 'opozycja',
+    tags: ['opozycja', 'media', 'podziemie', 'stan wojenny'],
+    yearStart: 1982,
+    yearEnd: 1989,
+    summary: 'Podziemna rozgłośnia Solidarności, nadająca krótkie audycje mimo stanu wojennego – symbol niezależnej informacji i sprzeciwu wobec monopolu mediów.',
+    content: `## Powstanie
+Radio Solidarność zaczęło nadawać w 1982 roku, w czasie stanu wojennego, jako inicjatywa podziemnych struktur związku. Pierwsze audycje w Warszawie przygotował zespół Zbigniewa Romaszewskiego.
+
+## Konspiracja
+Krótkie, kilkuminutowe audycje nadawano z ukrycia, z przenośnych nadajników, by uniknąć namierzenia. Informowano o nich wcześniej w ulotkach, podając częstotliwość i godzinę.
+
+## Treść
+Radio przekazywało prawdziwe informacje, apele, relacje z protestów i wezwania do oporu – przełamując monopol propagandy Dziennika Telewizyjnego i oficjalnych mediów.
+
+## Represje
+Służba Bezpieczeństwa intensywnie tropiła nadajniki i ludzi radia. Wpadki kończyły się aresztowaniami i procesami, lecz audycje wznawiano w kolejnych miastach.
+
+## Znaczenie
+Radio Solidarność stało się symbolem niezależnej informacji i pomysłowości podziemia, dowodząc, że nawet w eterze można było przełamać monopol władzy.`,
+    resources: [
+      {
+        id: 'rs-1',
+        title: 'Radio Solidarność – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Radio%20Solidarno%C5%9B%C4%87%20podziemie%20stan%20wojenny',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o podziemnej rozgłośni.',
+      },
+      {
+        id: 'rs-2',
+        title: 'Radio Solidarność – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Radio+Solidarno%C5%9B%C4%87+audycja+podziemie',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania audycji.',
+      },
+      {
+        id: 'rs-3',
+        title: 'Dokumentacja archiwalna',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Radio%20Solidarno%C5%9B%C4%87',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['podziemna-solidarnosc', 'drugi-obieg', 'radio-wolna-europa'],
+  },
+  {
+    id: 'fso-polonez',
+    title: 'FSO i Polonez',
+    subtitle: 'Większy brat Malucha',
+    category: 'gospodarka',
+    tags: ['gospodarka', 'motoryzacja', 'przemysł', 'lata 70.'],
+    yearStart: 1978,
+    yearEnd: 1989,
+    summary: 'Fabryka Samochodów Osobowych na warszawskim Żeraniu i jej sztandarowy model Polonez – nowoczesny jak na PRL samochód rodzinny, marzenie wielu kierowców.',
+    content: `## FSO Żerań
+Fabryka Samochodów Osobowych na warszawskim Żeraniu była głównym producentem samochodów osobowych w PRL. Wcześniej powstawały tu Warszawa i Syrena.
+
+## Polonez
+W 1978 roku zaprezentowano Poloneza – nowoczesny, większy samochód rodzinny, zaprojektowany przy współpracy z Fiatem i włoskimi stylistami. Miał być dumą polskiej motoryzacji.
+
+## Marzenie i kolejki
+Polonez, obok Fiata 126p, był obiektem pożądania. Na samochód czekało się latami, zdobywając talony, a ceny i dostępność czyniły go dobrem luksusowym.
+
+## Eksport i trwałość
+Poloneza eksportowano, a produkcję (w zmienianych wersjach) kontynuowano przez dekady. Mimo niedoskonałości stał się ikoną polskiej motoryzacji.
+
+## Znaczenie
+FSO i Polonez symbolizują ambicje i ograniczenia przemysłu PRL – techniczny postęp realizowany w warunkach gospodarki niedoboru.`,
+    resources: [
+      {
+        id: 'fso-1',
+        title: 'FSO i Polonez – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=FSO%20Polonez%20motoryzacja%20przemys%C5%82%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o fabryce i samochodzie.',
+      },
+      {
+        id: 'fso-2',
+        title: 'Polonez – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=FSO+Polonez+samoch%C3%B3d+PRL+reklama',
+        source: 'YouTube',
+        description: 'Archiwalne materiały filmowe.',
+      },
+      {
+        id: 'fso-3',
+        title: 'Fotografie motoryzacji',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=FSO%20Polonez%20samoch%C3%B3d',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne.',
+      },
+    ],
+    relatedIds: ['motoryzacja-prl', 'fiat-126p', 'gospodarka-prl'],
+  },
+  {
+    id: 'cepelia',
+    title: 'Cepelia',
+    subtitle: 'Sztuka ludowa na eksport',
+    category: 'kultura',
+    tags: ['kultura', 'sztuka ludowa', 'rękodzieło', 'gospodarka'],
+    yearStart: 1949,
+    yearEnd: 1989,
+    summary: 'Centrala Przemysłu Ludowego i Artystycznego – sieć skupiająca twórców ludowych, promująca i sprzedająca rękodzieło, także na eksport po dewizy.',
+    content: `## Geneza
+Cepelia (Centrala Przemysłu Ludowego i Artystycznego) powstała w 1949 roku, by organizować, wspierać i komercjalizować twórczość ludową oraz rękodzieło artystyczne.
+
+## Rękodzieło
+Pod jej szyldem działały spółdzielnie twórców ludowych wytwarzających wycinanki, ceramikę, tkaniny, hafty, zabawki, rzeźby i stroje regionalne, sprzedawane w charakterystycznych sklepach Cepelii.
+
+## Eksport
+Wyroby Cepelii były cenionym towarem eksportowym, przynoszącym dewizy. Polskie rękodzieło zdobywało nagrody na wystawach i targach za granicą.
+
+## Promocja kultury
+Cepelia odegrała rolę w zachowaniu i popularyzacji tradycyjnych technik i wzornictwa ludowego, choć bywała też krytykowana za komercjalizację i ujednolicanie folkloru.
+
+## Znaczenie
+Cepelia to instytucja łącząca ochronę dziedzictwa ludowego z gospodarką – jej wyroby stały się rozpoznawalnym elementem estetyki PRL.`,
+    resources: [
+      {
+        id: 'cep-1',
+        title: 'Cepelia – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Cepelia%20sztuka%20ludowa%20r%C4%99kodzie%C5%82o%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o instytucji i rękodziele.',
+      },
+      {
+        id: 'cep-2',
+        title: 'Sztuka ludowa – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Cepelia+sztuka+ludowa+r%C4%99kodzie%C5%82o+PRL',
+        source: 'YouTube',
+        description: 'Materiały filmowe o twórczości ludowej.',
+      },
+      {
+        id: 'cep-3',
+        title: 'Wzornictwo w Polonie',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=sztuka%20ludowa%20r%C4%99kodzie%C5%82o%20Cepelia',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne.',
+      },
+    ],
+    relatedIds: ['kultura-prl', 'gospodarka-prl', 'turystyka-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -15574,4 +16124,10 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1976, event: 'Siatkarze zdobywają złoto olimpijskie w Montrealu', category: 'społeczeństwo', entryId: 'siatkowka-1974' },
   { year: 1977, event: 'Otwarcie Centrum Zdrowia Dziecka oraz Stacji Antarktycznej im. Arctowskiego', category: 'społeczeństwo', entryId: 'centrum-zdrowia-dziecka' },
   { year: 1977, event: 'Polska Stacja Antarktyczna im. Henryka Arctowskiego rozpoczyna działalność', category: 'społeczeństwo', entryId: 'wyprawy-polarne' },
+  { year: 1965, event: 'Prapremiera „Tanga” Sławomira Mrożka', category: 'kultura', entryId: 'mrozek-slawomir' },
+  { year: 1972, event: 'Wojciech Fortuna zdobywa olimpijskie złoto w skokach narciarskich (Sapporo)', category: 'społeczeństwo', entryId: 'wojciech-fortuna' },
+  { year: 1978, event: 'Premiera FSO Polonez – nowego polskiego samochodu rodzinnego', category: 'gospodarka', entryId: 'fso-polonez' },
+  { year: 1982, event: 'Zbrodnia lubińska – ZOMO zabija trzech demonstrantów', category: 'represje', entryId: 'lubin-1982' },
+  { year: 1982, event: 'Pierwsze audycje podziemnego Radia Solidarność', category: 'opozycja', entryId: 'radio-solidarnosc' },
+  { year: 1984, event: 'Obrona krzyży w Miętnem i Włoszczowej', category: 'opozycja', entryId: 'obrona-krzyzy' },
 ];

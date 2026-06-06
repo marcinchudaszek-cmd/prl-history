@@ -263,4 +263,13 @@ export const mapLocations: MapLocation[] = [
     description: 'Spontaniczny protest mieszkańców w obronie Domu Katolickiego, krwawo spacyfikowany przez milicję.',
     entryId: 'zielonogorskie-1960',
   },
+  {
+    id: 'loc-lubin',
+    name: 'Zbrodnia lubińska',
+    city: 'Lubin',
+    lon: 16.20, lat: 51.40,
+    type: 'represje', year: '1982',
+    description: 'ZOMO otworzyło ogień do demonstrantów w 2. rocznicę porozumień sierpniowych – zginęły trzy osoby.',
+    entryId: 'lubin-1982',
+  },
 ];
