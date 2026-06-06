@@ -702,12 +702,12 @@ Robotnicy Nowej Huty aktywnie uczestniczyli w strajkach 1980 roku i strukturach 
       },
       {
         id: 'nh-1',
-        title: 'Kronika filmowa – budowa Nowej Huty 1949-1955',
+        title: 'PKF 30/50: „Nowa Huta. Budowa Nowej Huty”',
         type: 'film',
-        url: 'https://ninateka.pl/vod/szukaj?query=Polska%20Kronika%20Filmowa',
-        source: 'NINATEKA / Filmoteka Narodowa',
-        description: 'Kroniki filmowe dokumentujące budowę Nowej Huty',
-        year: 1952,
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/6316',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa nr 30/50 z 1950 r. dokumentująca budowę Nowej Huty – z odtwarzaczem wideo.',
+        year: 1950,
       },
       {
         id: 'nh-2',
