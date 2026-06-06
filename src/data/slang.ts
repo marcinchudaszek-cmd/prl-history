@@ -352,4 +352,29 @@ export const slangTerms: SlangTerm[] = [
     definition: 'Państwowy sklep sprzedający towary deficytowe poza przydziałem, ale po znacznie zawyżonych cenach – legalny wentyl niedoboru.',
     category: 'gospodarka',
   },
+  {
+    term: 'Paszport w depozycie',
+    definition: 'Zasada, że paszport przechowywano w urzędzie, a obywatel dostawał go tylko na konkretny, zatwierdzony wyjazd – narzędzie kontroli podróży.',
+    category: 'władza',
+  },
+  {
+    term: 'Trzynastka',
+    definition: 'Dodatkowa, „trzynasta” pensja wypłacana raz w roku – oczekiwany zastrzyk gotówki, często z góry zaplanowany na większy zakup.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Deputat węglowy',
+    definition: 'Przysługujący m.in. górnikom i kolejarzom bezpłatny lub tani przydział węgla – jeden z branżowych przywilejów.',
+    category: 'gospodarka',
+  },
+  {
+    term: 'Wczasy FWP',
+    definition: 'Dofinansowany wypoczynek w ośrodkach Funduszu Wczasów Pracowniczych – skierowania rozdzielał zakład pracy lub związek.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Bon paliwowy',
+    definition: 'Kartka na reglamentowaną benzynę w czasach kryzysu – limit litrów na miesiąc, bez którego nie dało się zatankować.',
+    category: 'gospodarka',
+  },
 ];

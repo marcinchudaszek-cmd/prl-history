@@ -447,6 +447,8 @@ SB prowadziła Sprawę Obiektową "Lato 80" (inwigilacja Solidarności), operacj
     yearStart: 1980,
     yearEnd: 1980,
     summary: 'Sierpień 1980 to miesiąc masowych strajków w Polsce, które doprowadziły do podpisania Porozumień Gdańskich i powstania NSZZ "Solidarność" – pierwszego niezależnego związku zawodowego w bloku wschodnim.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Solidarity%20August%201980%20gate%20of%20Gda%C5%84sk%20Shipyard.jpg?width=800',
+    imageCaption: 'Brama nr 2 Stoczni Gdańskiej w sierpniu 1980 roku.',
     content: `14 sierpnia 1980 roku robotnicy Stoczni Gdańskiej im. Lenina rozpoczęli strajk pod przywództwem Lecha Wałęsy. Bezpośrednią przyczyną było zwolnienie z pracy Anny Walentynowicz.
 
 **21 Postulatów MKS:**
@@ -783,6 +785,8 @@ Postać kontrowersyjna – architekt względnej liberalizacji po stalinizmie, al
     yearStart: 1913,
     yearEnd: 2001,
     summary: 'Edward Gierek – I sekretarz KC PZPR w latach 1970–1980. Twórca polityki "drugiej Polski" opartej na zachodnich kredytach i modernizacji. Jego dekada skończyła się kryzysem zadłużenia i narodzinami Solidarności.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Gierek%2C%201973.png?width=800',
+    imageCaption: 'Edward Gierek, I sekretarz KC PZPR (1973).',
     content: `Edward Gierek (ur. 6 stycznia 1913 – zm. 29 lipca 2001) doszedł do władzy po Grudniu 1970, zastępując skompromitowanego Gomułkę.
 
 **"Pomożecie?":**
@@ -895,6 +899,8 @@ W 2008 roku prokuratura IPN oskarżyła Jaruzelskiego o wydanie bezprawnych rozk
     tags: ['Wałęsa', 'Solidarność', 'Nobel', 'stocznia', 'Gdańsk', 'Prezydent'],
     yearStart: 1943,
     summary: 'Lech Wałęsa – elektryk z Gdańska, który stał się symbolem pokojowego oporu przeciw komunizmowi. Przywódca Solidarności, laureat Pokojowej Nagrody Nobla (1983) i Prezydent RP (1990–1995).',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Lech%20Wa%C5%82%C4%99sa%201980.jpg?width=800',
+    imageCaption: 'Lech Wałęsa w czasie strajku w Stoczni Gdańskiej, 1980.',
     content: `Lech Wałęsa (ur. 29 września 1943 w Popowie) wyrósł na najważniejszą postać polskiej opozycji demokratycznej i jeden z symboli pokojowych przemian w Europie Wschodniej.
 
 **Droga do przywództwa:**
@@ -11071,6 +11077,14 @@ Transmisje z Opola gromadziły przed telewizorami miliony widzów. Festiwal był
 Nagrania opolskie to dziś bezcenna fonoteka i wideoteka polskiej piosenki. Festiwal przetrwał PRL i jest kontynuowany, lecz jego peerelowskie edycje pozostają zapisem gustów, mody i emocji epoki.`,
     resources: [
       {
+        id: 'op-yt',
+        title: 'Maryla Rodowicz – „Małgośka” (Opole 1979)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=JProfbo2DSw',
+        source: 'YouTube',
+        description: 'Archiwalny występ z festiwalu w Opolu.',
+      },
+      {
         id: 'opo-1',
         title: 'Archiwum festiwalu w Opolu – TVP VOD',
         type: 'film',
@@ -12012,6 +12026,14 @@ Dżem był częścią silnej śląskiej sceny bluesowej. Zespół często grał 
 Dżem to jeden z filarów polskiego blues-rocka, a Ryszard Riedel pozostaje kultową postacią rodzimej muzyki.`,
     resources: [
       {
+        id: 'dzem-yt',
+        title: 'Dżem – „List do M.”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=6tvqGXo88xY',
+        source: 'YouTube',
+        description: 'Bluesowa ballada z wokalem Ryszarda Riedla.',
+      },
+      {
         id: 'dzem-1',
         title: 'Dżem – nagrania koncertowe',
         type: 'nagranie',
@@ -12062,6 +12084,14 @@ TSA zdobywała nagrody na festiwalach i koncertowała także za granicą, w tym 
 ## Znaczenie
 TSA to pionier polskiego heavy metalu, który otworzył drogę kolejnym zespołom tego nurtu i pozostaje klasyką gatunku.`,
     resources: [
+      {
+        id: 'tsa-yt',
+        title: 'TSA – „Mass media”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=oBQstL48-bY',
+        source: 'YouTube',
+        description: 'Przebój pionierów polskiego heavy metalu.',
+      },
       {
         id: 'tsa-1',
         title: 'TSA – nagrania',
@@ -12282,6 +12312,22 @@ W czasach cenzury poezja śpiewana pozwalała przemycać treści niewygodne dla 
 ## Znaczenie
 Nurt ten stanowił istotny element kultury niezależnej, kształtując wrażliwość kolejnych pokoleń i tworząc most między muzyką a literaturą.`,
     resources: [
+      {
+        id: 'ps-yt2',
+        title: 'Ewa Demarczyk – „Grande Valse Brillante” (TVP 1971)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=6kdEmhCAXfo',
+        source: 'YouTube',
+        description: 'Demarczyk śpiewa Tuwima w muzyce Koniecznego.',
+      },
+      {
+        id: 'ps-yt1',
+        title: 'Marek Grechuta – „Dni, których nie znamy”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=tNnzUZSDNf0',
+        source: 'YouTube',
+        description: 'Klasyk poezji śpiewanej z 1971 r.',
+      },
       {
         id: 'ps-1',
         title: 'Poezja śpiewana – nagrania',
@@ -15990,6 +16036,516 @@ Cepelia to instytucja łącząca ochronę dziedzictwa ludowego z gospodarką –
     ],
     relatedIds: ['kultura-prl', 'gospodarka-prl', 'turystyka-prl'],
   },
+  {
+    id: 'hoffman-jerzy',
+    title: 'Jerzy Hoffman',
+    subtitle: 'Reżyser narodowych epopei',
+    category: 'osoby',
+    tags: ['kultura', 'film', 'reżyser', 'kino'],
+    yearStart: 1969,
+    yearEnd: 1989,
+    summary: 'Reżyser wielkich ekranizacji Sienkiewicza – „Pana Wołodyjowskiego” i „Potopu” – twórca widowiskowego kina historycznego PRL.',
+    content: `## Sylwetka
+Jerzy Hoffman (1932–2023) był reżyserem i scenarzystą, mistrzem widowiskowego kina historycznego, autorem najpopularniejszych polskich superprodukcji epoki PRL.
+
+## Trylogia Sienkiewicza
+Zasłynął ekranizacjami powieści Henryka Sienkiewicza: „Pan Wołodyjowski” (1969) i monumentalny „Potop” (1974) z Danielem Olbrychskim, który zdobył nominację do Oscara.
+
+## Rozmach
+Jego filmy realizowano z niespotykanym rozmachem – wielkie sceny batalistyczne, tłumy statystów, kostiumy i plenery czyniły je kasowymi hitami, oglądanymi przez miliony.
+
+## Dokument i fabuła
+Wcześniej tworzył cenione filmy dokumentalne. Po latach zrealizował też „Ogniem i mieczem” (1999), domykając filmową Trylogię.
+
+## Znaczenie
+Hoffman dał polskiej publiczności wielkie kino historyczne, które krzepiło narodową wyobraźnię i pozostaje klasyką rodzimej kinematografii.`,
+    resources: [
+      {
+        id: 'hof-1',
+        title: 'Jerzy Hoffman – biogram',
+        type: 'film',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Jerzy%20Hoffman',
+        source: 'FilmPolski.pl',
+        description: 'Filmografia i informacje o reżyserze.',
+      },
+      {
+        id: 'hof-2',
+        title: 'Hoffman – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Jerzy+Hoffman+Potop+Pan+Wo%C5%82odyjowski',
+        source: 'YouTube',
+        description: 'Fragmenty filmów i materiały.',
+      },
+      {
+        id: 'hof-3',
+        title: 'Kino w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Jerzy%20Hoffman%20film',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały filmowe.',
+      },
+    ],
+    relatedIds: ['kino-prl', 'polska-szkola-filmowa', 'literatura-prl'],
+  },
+  {
+    id: 'polanski-roman',
+    title: 'Roman Polański',
+    subtitle: 'Od „Noża w wodzie” do światowej kariery',
+    category: 'osoby',
+    tags: ['kultura', 'film', 'reżyser', 'kino'],
+    yearStart: 1962,
+    yearEnd: 1989,
+    summary: 'Reżyser, którego debiut „Nóż w wodzie” rozpoczął światową karierę; absolwent łódzkiej Szkoły Filmowej, jeden z najbardziej znanych polskich twórców kina.',
+    content: `## Sylwetka
+Roman Polański (ur. 1933), absolwent łódzkiej Szkoły Filmowej, jest jednym z najsłynniejszych reżyserów wywodzących się z Polski, o karierze rozpiętej między Europą a Hollywood.
+
+## „Nóż w wodzie”
+Jego pełnometrażowy debiut „Nóż w wodzie” (1962) – kameralny, psychologiczny dramat – zdobył nominację do Oscara i otworzył mu drogę na Zachód, stając się wydarzeniem polskiego kina.
+
+## Etiudy i szkoła łódzka
+Wczesne, nagradzane etiudy („Dwaj ludzie z szafą”, „Ssaki”) powstały w kręgu łódzkiej Szkoły Filmowej, ukazując jego absurdalne i wizyjne poczucie obrazu.
+
+## Emigracja
+W latach 60. Polański wyjechał z Polski i kontynuował karierę za granicą, współpracując m.in. z Krzysztofem Komedą, autorem muzyki do jego filmów.
+
+## Znaczenie
+Dla kina PRL Polański to symbol talentu, który zaistniał na świecie; jego polski debiut pozostaje kamieniem milowym rodzimej kinematografii.`,
+    resources: [
+      {
+        id: 'pol-1',
+        title: 'Roman Polański – biogram',
+        type: 'film',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Roman%20Pola%C5%84ski%20N%C3%B3%C5%BC%20w%20wodzie',
+        source: 'FilmPolski.pl',
+        description: 'Filmografia i informacje o reżyserze.',
+      },
+      {
+        id: 'pol-2',
+        title: 'Polański – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Roman+Pola%C5%84ski+N%C3%B3%C5%BC+w+wodzie+etiudy',
+        source: 'YouTube',
+        description: 'Fragmenty filmów i materiały.',
+      },
+      {
+        id: 'pol-3',
+        title: 'Kino w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Roman%20Pola%C5%84ski%20film',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały filmowe.',
+      },
+    ],
+    relatedIds: ['kino-prl', 'polska-szkola-filmowa', 'lodz-szkola-filmowa'],
+  },
+  {
+    id: 'szurkowski-ryszard',
+    title: 'Ryszard Szurkowski',
+    subtitle: 'Król Wyścigu Pokoju',
+    category: 'osoby',
+    tags: ['sport', 'kolarstwo', 'lata 70.', 'Wyścig Pokoju'],
+    yearStart: 1970,
+    yearEnd: 1980,
+    summary: 'Najwybitniejszy polski kolarz szosowy epoki PRL, wielokrotny zwycięzca Wyścigu Pokoju i mistrz świata amatorów.',
+    content: `## Sylwetka
+Ryszard Szurkowski (1946–2021) był najwybitniejszym polskim kolarzem szosowym, bohaterem masowej publiczności w czasach świetności Wyścigu Pokoju.
+
+## Wyścig Pokoju
+Cztery razy wygrywał klasyfikację generalną Wyścigu Pokoju – najważniejszej amatorskiej imprezy kolarskiej bloku wschodniego, śledzonej przez miliony kibiców.
+
+## Sukcesy światowe
+Zdobywał tytuły mistrza świata amatorów i medale olimpijskie w drużynowej jeździe na czas, ugruntowując pozycję jednego z najlepszych kolarzy świata swojej epoki.
+
+## Idol
+W czasach niedoboru rozrywek Szurkowski był sportowym idolem, a transmisje z jego startów gromadziły rodziny przed telewizorami i radioodbiornikami.
+
+## Znaczenie
+Ryszard Szurkowski to legenda polskiego kolarstwa i symbol sportowych sukcesów PRL, inspiracja dla kolejnych pokoleń zawodników.`,
+    resources: [
+      {
+        id: 'szu-1',
+        title: 'Ryszard Szurkowski – archiwalia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Ryszard+Szurkowski+Wy%C5%9Bcig+Pokoju+kolarstwo',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania wyścigów.',
+      },
+      {
+        id: 'szu-2',
+        title: 'Szurkowski – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Ryszard%20Szurkowski%20kolarstwo%20Wy%C5%9Bcig%20Pokoju',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o kolarzu.',
+      },
+      {
+        id: 'szu-3',
+        title: 'Sport w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=kolarstwo%20Wy%C5%9Bcig%20Pokoju',
+        source: 'Ninateka',
+        description: 'Materiały filmowe o sporcie.',
+      },
+    ],
+    relatedIds: ['wyscig-pokoju', 'sport-prl'],
+  },
+  {
+    id: 'glemp-jozef',
+    title: 'Józef Glemp',
+    subtitle: 'Prymas czasu przełomu',
+    category: 'osoby',
+    tags: ['kościół', 'religia', 'prymas', 'stan wojenny'],
+    yearStart: 1981,
+    yearEnd: 1989,
+    summary: 'Prymas Polski od 1981 roku, następca kardynała Wyszyńskiego, który prowadził Kościół przez stan wojenny i przemiany ku wolnej Polsce.',
+    content: `## Sylwetka
+Józef Glemp (1929–2013) został prymasem Polski w 1981 roku, po śmierci kardynała Stefana Wyszyńskiego, obejmując ster Kościoła w jednym z najtrudniejszych okresów.
+
+## Stan wojenny
+Niemal natychmiast po jego nominacji wprowadzono stan wojenny. Glemp apelował o spokój i unikanie rozlewu krwi, co część społeczeństwa odbierała jako nadmierną ostrożność, a inni jako roztropność.
+
+## Mediacja
+Kościół pod jego kierownictwem prowadził działalność charytatywną, wspierał internowanych i represjonowanych oraz pełnił rolę mediatora między władzą a społeczeństwem.
+
+## Ku wolności
+Glemp uczestniczył w procesie prowadzącym do obrad Okrągłego Stołu, a Kościół był gwarantem porozumień między władzą a opozycją.
+
+## Znaczenie
+Jako prymas przełomu Józef Glemp odegrał ważną rolę w pokojowym przejściu Polski od PRL do demokracji, kontynuując dzieło prymasa Wyszyńskiego.`,
+    resources: [
+      {
+        id: 'gle-1',
+        title: 'Józef Glemp – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=J%C3%B3zef%20Glemp%20prymas%20Ko%C5%9Bci%C3%B3%C5%82%20stan%20wojenny',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o prymasie i jego roli.',
+      },
+      {
+        id: 'gle-2',
+        title: 'Glemp – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=J%C3%B3zef+Glemp+prymas+Polski+kazanie',
+        source: 'YouTube',
+        description: 'Materiały filmowe i archiwalne.',
+      },
+      {
+        id: 'gle-3',
+        title: 'Dokumentacja archiwalna',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=J%C3%B3zef%20Glemp%20prymas',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['kosciol-prl', 'wyszynski', 'stan-wojenny'],
+  },
+  {
+    id: 'kalina-jedrusik',
+    title: 'Kalina Jędrusik',
+    subtitle: 'Skandalistka polskiej sceny',
+    category: 'osoby',
+    tags: ['kultura', 'film', 'teatr', 'aktorka', 'kobiety'],
+    yearStart: 1955,
+    yearEnd: 1989,
+    summary: 'Aktorka, piosenkarka i ikona Kabaretu Starszych Panów, łamiąca obyczajowe tabu PRL swoją odwagą, seksapilem i niezależnością.',
+    content: `## Sylwetka
+Kalina Jędrusik (1930–1991) była aktorką teatralną, filmową i piosenkarką, jedną z najbardziej charyzmatycznych i kontrowersyjnych postaci kultury PRL.
+
+## Kabaret Starszych Panów
+Wielką popularność przyniósł jej udział w telewizyjnym Kabarecie Starszych Panów, gdzie wykonywała piosenki Przybory i Wasowskiego, zachwycając głosem i osobowością.
+
+## Łamanie tabu
+W pruderyjnej obyczajowości PRL Jędrusik szokowała otwartą zmysłowością, odwagą i niezależnością. Jej wizerunek wymykał się normom narzucanym kobietom epoki.
+
+## Film i teatr
+Grała w teatrze i filmach, m.in. u Andrzeja Wajdy („Ziemia obiecana”). Tworzyła role pełne ekspresji, charakteru i ironii.
+
+## Znaczenie
+Kalina Jędrusik pozostaje ikoną kultury PRL i symbolem kobiecej niezależności oraz artystycznej odwagi w czasach obyczajowych ograniczeń.`,
+    resources: [
+      {
+        id: 'kj-1',
+        title: 'Kalina Jędrusik – biogram',
+        type: 'film',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Kalina%20J%C4%99drusik',
+        source: 'FilmPolski.pl',
+        description: 'Filmografia i informacje o aktorce.',
+      },
+      {
+        id: 'kj-2',
+        title: 'Jędrusik – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Kalina+J%C4%99drusik+piosenki+Kabaret+Starszych+Pan%C3%B3w',
+        source: 'YouTube',
+        description: 'Wykonania i materiały filmowe.',
+      },
+      {
+        id: 'kj-3',
+        title: 'Kultura w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Kalina%20J%C4%99drusik',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały.',
+      },
+    ],
+    relatedIds: ['teatr-prl', 'kino-prl', 'kabaret-starszych-panow'],
+  },
+  {
+    id: 'zamach-na-jp2',
+    title: 'Zamach na Jana Pawła II',
+    subtitle: '13 maja 1981 na placu św. Piotra',
+    category: 'społeczeństwo',
+    tags: ['kościół', 'papież', 'zamach', 'świat'],
+    yearStart: 1981,
+    yearEnd: 1981,
+    summary: '13 maja 1981 roku Mehmet Ali Agca postrzelił Jana Pawła II na placu św. Piotra; papież przeżył, a sprawa do dziś budzi pytania o tło polityczne.',
+    content: `## Zamach
+13 maja 1981 roku na placu św. Piotra w Watykanie turecki zamachowiec Mehmet Ali Agca oddał strzały do Jana Pawła II. Papież został ciężko ranny, lecz po długiej rekonwalescencji wrócił do zdrowia.
+
+## Wstrząs
+Wiadomość o zamachu na polskiego papieża wstrząsnęła światem, a w Polsce wywołała falę modlitw i ogromne poruszenie. Wielu wiązało ocalenie z opieką Matki Bożej Fatimskiej.
+
+## Tło
+Do dziś trwają spory o tło zamachu. Pojawiały się hipotezy o udziale służb bloku wschodniego, niepokojonych rolą papieża w budzeniu oporu w Polsce, choć nie zostały jednoznacznie udowodnione.
+
+## Przebaczenie
+Jan Paweł II odwiedził zamachowca w więzieniu i publicznie mu przebaczył – gest, który stał się symbolem chrześcijańskiego miłosierdzia.
+
+## Znaczenie
+Zamach wzmocnił autorytet papieża i jego symboliczną rolę dla Polaków w okresie karnawału Solidarności tuż przed stanem wojennym.`,
+    resources: [
+      {
+        id: 'zam-1',
+        title: 'Zamach na JP II – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=zamach%20na%20Jana%20Paw%C5%82a%20II%201981%20Agca',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o zamachu i jego tle.',
+      },
+      {
+        id: 'zam-2',
+        title: 'Zamach – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=zamach+na+Jana+Paw%C5%82a+II+1981+plac+%C5%9Bwi%C4%99tego+Piotra',
+        source: 'YouTube',
+        description: 'Materiały filmowe i archiwalne.',
+      },
+      {
+        id: 'zam-3',
+        title: 'Dokumentacja prasowa',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=zamach%20papie%C5%BC%201981',
+        source: 'Polona',
+        description: 'Materiały prasowe i publikacje.',
+      },
+    ],
+    relatedIds: ['jan-pawel-ii', 'pielgrzymki-jp2', 'kosciol-prl'],
+  },
+  {
+    id: 'proces-kurii-krakowskiej',
+    title: 'Proces kurii krakowskiej',
+    subtitle: 'Stalinowski atak na Kościół (1953)',
+    category: 'represje',
+    tags: ['represje', 'kościół', 'stalinizm', 'proces pokazowy'],
+    yearStart: 1953,
+    yearEnd: 1953,
+    summary: 'Pokazowy proces księży kurii krakowskiej w 1953 roku, element stalinowskiej kampanii zastraszania Kościoła, z wyrokami śmierci i wieloletniego więzienia.',
+    content: `## Tło
+Na początku lat 50. władze komunistyczne nasiliły walkę z Kościołem. Proces kurii krakowskiej w 1953 roku był jednym z najgłośniejszych aktów tej kampanii.
+
+## Oskarżenia
+Księży i osoby świeckie oskarżono o szpiegostwo na rzecz USA i działalność antypaństwową. Zeznania wymuszano w śledztwie, a proces miał charakter pokazowy, z udziałem propagandy.
+
+## Wyroki
+Zapadły surowe wyroki, w tym kary śmierci (część zamieniono na więzienie) i wieloletniego pozbawienia wolności. Proces miał zastraszyć duchowieństwo i wiernych.
+
+## Reakcja władz wobec Kościoła
+Wkrótce po procesie, jeszcze w 1953 roku, internowano prymasa Stefana Wyszyńskiego – kulminację stalinowskiego ataku na niezależność Kościoła.
+
+## Znaczenie
+Proces kurii krakowskiej to symbol represji religijnych okresu stalinizmu i bezwzględności aparatu wobec Kościoła, który mimo to zachował niezależność.`,
+    resources: [
+      {
+        id: 'pkk-1',
+        title: 'Proces kurii krakowskiej – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=proces%20kurii%20krakowskiej%201953%20Ko%C5%9Bci%C3%B3%C5%82%20represje',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o procesie i represjach.',
+      },
+      {
+        id: 'pkk-2',
+        title: 'Proces – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=proces+kurii+krakowskiej+1953+stalinizm+Ko%C5%9Bci%C3%B3%C5%82',
+        source: 'YouTube',
+        description: 'Materiały o wydarzeniu.',
+      },
+      {
+        id: 'pkk-3',
+        title: 'Akta procesowe',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=proces%20kurii%20krakowskiej%201953',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['kosciol-prl', 'wyszynski', 'represje-polityczne'],
+  },
+  {
+    id: 'afera-miesna',
+    title: 'Afera mięsna 1964',
+    subtitle: 'Korupcja i wyrok śmierci',
+    category: 'gospodarka',
+    tags: ['gospodarka', 'korupcja', 'nomenklatura', 'represje'],
+    yearStart: 1964,
+    yearEnd: 1965,
+    summary: 'Głośna afera gospodarcza z lat 60. dotycząca nielegalnego handlu mięsem; zakończona pokazowym procesem i kontrowersyjnym wyrokiem śmierci dla Stanisława Wawrzeckiego.',
+    content: `## Tło
+W gospodarce niedoboru handel mięsem był polem nadużyć. W 1964 roku wykryto rozległy proceder nielegalnego obrotu mięsem w warszawskich zakładach mięsnych i handlu.
+
+## Proces
+Władze urządziły pokazowy proces, mający pokazać walkę z „aferzystami” i odwrócić uwagę od systemowych przyczyn niedoboru. Oskarżonych przedstawiano jako pasożytów żerujących na społeczeństwie.
+
+## Wyrok śmierci
+Dyrektora Miejskiego Handlu Mięsem Stanisława Wawrzeckiego skazano na karę śmierci i stracono w 1965 roku – wyrok uznano za rażąco niesprawiedliwy i wykorzystany propagandowo.
+
+## Kontrowersje
+Proces ujawnił mechanizmy korupcji wpisane w gospodarkę centralnie planowaną, a zarazem brutalność systemu, który winą obarczał jednostki, nie struktury.
+
+## Znaczenie
+Afera mięsna stała się symbolem patologii gospodarki niedoboru oraz instrumentalnego traktowania wymiaru sprawiedliwości przez władze PRL.`,
+    resources: [
+      {
+        id: 'am-1',
+        title: 'Afera mięsna – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=afera%20mi%C4%99sna%201964%20Wawrzecki%20proces%20gospodarka',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o aferze i procesie.',
+      },
+      {
+        id: 'am-2',
+        title: 'Afera mięsna – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=afera+mi%C4%99sna+1964+PRL+proces+Wawrzecki',
+        source: 'YouTube',
+        description: 'Materiały o wydarzeniu.',
+      },
+      {
+        id: 'am-3',
+        title: 'Dokumentacja archiwalna',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=afera%20mi%C4%99sna%201964',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['gospodarka-prl', 'nomenklatura', 'represje-polityczne'],
+  },
+  {
+    id: 'orbis-turystyka',
+    title: 'Orbis i turystyka zagraniczna',
+    subtitle: 'Podróże w cieniu paszportu',
+    category: 'społeczeństwo',
+    tags: ['społeczeństwo', 'turystyka', 'podróże', 'życie codzienne'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Państwowe biuro Orbis organizowało turystykę i wyjazdy zagraniczne, które – ograniczane polityką paszportową i brakiem dewiz – były dla wielu marzeniem.',
+    content: `## Orbis
+Orbis był państwowym monopolistą w organizacji turystyki: prowadził biura podróży, hotele i wycieczki krajowe oraz zagraniczne, pośrednicząc w nielicznych wyjazdach na Zachód.
+
+## Reglamentacja podróży
+Wyjazdy zagraniczne ograniczała polityka paszportowa – paszport przechowywano w urzędzie, a na wyjazd trzeba było uzyskać zgodę. Brak dewiz dodatkowo czynił podróże luksusem.
+
+## „Demoludy” i Zachód
+Najłatwiej podróżowało się do „bratnich” krajów bloku wschodniego (NRD, Czechosłowacja, Bułgaria, Węgry). Wyjazd na Zachód był rzadkim przywilejem, często okazją do drobnego handlu.
+
+## Turystyka krajowa
+Popularna była turystyka krajowa – wczasy FWP, wycieczki zakładowe, kolonie i obozy. Orbis organizował też przyjazdy turystów zagranicznych, źródło cennych dewiz.
+
+## Znaczenie
+Turystyka PRL odzwierciedlała ograniczenia systemu: marzenie o świecie zderzało się z barierą paszportu, dewiz i kontroli, czyniąc podróż na Zachód symbolem wolności.`,
+    resources: [
+      {
+        id: 'orb-1',
+        title: 'Orbis i turystyka – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Orbis%20turystyka%20zagraniczna%20paszport%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o turystyce i podróżach.',
+      },
+      {
+        id: 'orb-2',
+        title: 'Turystyka PRL – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Orbis+turystyka+wycieczki+PRL',
+        source: 'YouTube',
+        description: 'Archiwalne materiały filmowe.',
+      },
+      {
+        id: 'orb-3',
+        title: 'Fotografie i druki',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=Orbis%20turystyka%20plakat%20PRL',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne i reklamowe.',
+      },
+    ],
+    relatedIds: ['turystyka-prl', 'paszport-prl', 'lot-prl'],
+  },
+  {
+    id: 'proces-taternikow',
+    title: 'Proces taterników',
+    subtitle: 'Kara za przemyt „Kultury”',
+    category: 'opozycja',
+    tags: ['opozycja', 'drugi obieg', 'emigracja', 'proces'],
+    yearStart: 1969,
+    yearEnd: 1970,
+    summary: 'Proces grupy taterników z 1970 roku, oskarżonych o przemyt przez Tatry wydawnictw paryskiej „Kultury” – jeden z głośnych procesów politycznych przełomu dekad.',
+    content: `## Tło
+Na przełomie lat 60. i 70. młodzi opozycjoniści, korzystając z górskich szlaków, przemycali przez Tatry i Czechosłowację nielegalne wydawnictwa Instytutu Literackiego – paryskiej „Kultury”.
+
+## Wykrycie
+Działalność wykryła Służba Bezpieczeństwa we współpracy ze służbami Czechosłowacji. Aresztowano grupę osób związanych ze środowiskiem taternickim i opozycyjnym.
+
+## Proces
+W 1970 roku odbył się proces, w którym oskarżonym – m.in. Maciejowi Kozłowskiemu i innym – zarzucono działalność antypaństwową. Zapadły wyroki więzienia.
+
+## Znaczenie obiegu
+Sprawa pokazała znaczenie drugiego obiegu i niezależnej myśli docierającej do kraju mimo cenzury, a także determinację władz w jej zwalczaniu.
+
+## Dziedzictwo
+Proces taterników był jednym z sygnałów rodzącej się opozycji i obiegu niezależnej literatury, który rozwinął się w kolejnej dekadzie.`,
+    resources: [
+      {
+        id: 'pt-1',
+        title: 'Proces taterników – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=proces%20taternik%C3%B3w%201970%20Kultura%20paryska%20przemyt',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o procesie i przemycie wydawnictw.',
+      },
+      {
+        id: 'pt-2',
+        title: 'Proces taterników – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=proces+taternik%C3%B3w+1970+Kultura+paryska',
+        source: 'YouTube',
+        description: 'Materiały o wydarzeniu.',
+      },
+      {
+        id: 'pt-3',
+        title: 'Dokumentacja archiwalna',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=proces%20taternik%C3%B3w%201970',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['kultura-paryz', 'drugi-obieg', 'kor'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -16130,4 +16686,10 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1982, event: 'Zbrodnia lubińska – ZOMO zabija trzech demonstrantów', category: 'represje', entryId: 'lubin-1982' },
   { year: 1982, event: 'Pierwsze audycje podziemnego Radia Solidarność', category: 'opozycja', entryId: 'radio-solidarnosc' },
   { year: 1984, event: 'Obrona krzyży w Miętnem i Włoszczowej', category: 'opozycja', entryId: 'obrona-krzyzy' },
+  { year: 1953, event: 'Proces kurii krakowskiej – pokazowy proces przeciw duchownym', category: 'represje', entryId: 'proces-kurii-krakowskiej' },
+  { year: 1964, event: 'Afera mięsna – pokazowy proces i wyrok śmierci dla S. Wawrzeckiego', category: 'gospodarka', entryId: 'afera-miesna' },
+  { year: 1970, event: 'Proces taterników – kara za przemyt paryskiej „Kultury”', category: 'opozycja', entryId: 'proces-taternikow' },
+  { year: 1972, event: 'Ryszard Szurkowski wygrywa Wyścig Pokoju', category: 'społeczeństwo', entryId: 'szurkowski-ryszard' },
+  { year: 1974, event: 'Premiera „Potopu” Jerzego Hoffmana według Sienkiewicza', category: 'kultura', entryId: 'hoffman-jerzy' },
+  { year: 1981, event: 'Zamach na Jana Pawła II na placu św. Piotra (13 maja)', category: 'społeczeństwo', entryId: 'zamach-na-jp2' },
 ];
