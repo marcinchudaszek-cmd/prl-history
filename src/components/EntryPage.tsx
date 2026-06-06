@@ -68,6 +68,12 @@ function renderContent(text: string) {
   return elements;
 }
 
+// Wyłuskuje identyfikator filmu z bezpośredniego linku YouTube (watch?v= lub youtu.be/)
+function ytId(url: string): string | null {
+  const m = url.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([A-Za-z0-9_-]{11})/);
+  return m ? m[1] : null;
+}
+
 export default function EntryPage({ entryId, onNavigate }: EntryPageProps) {
   const entry = entries.find(e => e.id === entryId);
   if (!entry) {
@@ -84,6 +90,8 @@ export default function EntryPage({ entryId, onNavigate }: EntryPageProps) {
 
   const cat = categories.find(c => c.id === entry.category);
   const related = entries.filter(e => entry.relatedIds.includes(e.id));
+  const mediaResources = entry.resources.filter(r => ytId(r.url));
+  const linkResources = entry.resources.filter(r => !ytId(r.url));
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
@@ -142,6 +150,59 @@ export default function EntryPage({ entryId, onNavigate }: EntryPageProps) {
             </div>
           </div>
 
+          {/* Zdjęcie */}
+          {entry.image && (
+            <figure className="bg-white rounded-xl border border-stone-200 shadow-sm overflow-hidden mb-6">
+              <img
+                src={entry.image}
+                alt={entry.imageCaption || entry.title}
+                loading="lazy"
+                className="w-full max-h-[26rem] object-cover"
+              />
+              {entry.imageCaption && (
+                <figcaption className="text-xs text-gray-500 p-3 border-t border-stone-100">
+                  📷 {entry.imageCaption}
+                </figcaption>
+              )}
+            </figure>
+          )}
+
+          {/* Multimedia */}
+          {mediaResources.length > 0 && (
+            <div className="bg-white rounded-xl border border-stone-200 shadow-sm p-8 mb-6">
+              <h2 className="text-xl font-bold font-serif text-gray-900 mb-5 flex items-center gap-2">
+                <span>🎬</span> Multimedia
+                <span className="ml-auto text-xs bg-red-100 text-red-700 px-2 py-0.5 rounded-full font-normal">
+                  {mediaResources.length}
+                </span>
+              </h2>
+              <div className="grid sm:grid-cols-2 gap-4">
+                {mediaResources.map(res => {
+                  const id = ytId(res.url)!;
+                  return (
+                    <div key={res.id}>
+                      <div className="relative w-full aspect-video rounded-lg overflow-hidden bg-black border border-stone-200">
+                        <iframe
+                          className="absolute inset-0 w-full h-full"
+                          src={`https://www.youtube-nocookie.com/embed/${id}`}
+                          title={res.title}
+                          loading="lazy"
+                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                          allowFullScreen
+                        />
+                      </div>
+                      <p className="text-xs text-gray-600 mt-2 font-medium">{res.title}</p>
+                      {res.description && <p className="text-xs text-gray-400">{res.description}</p>}
+                    </div>
+                  );
+                })}
+              </div>
+              <p className="text-xs text-gray-400 mt-4">
+                Materiały osadzone z serwisu YouTube. Prawa do nagrań należą do ich właścicieli.
+              </p>
+            </div>
+          )}
+
           {/* Full content */}
           <div className="bg-white rounded-xl border border-stone-200 shadow-sm p-8">
             <h2 className="text-xl font-bold font-serif text-gray-900 mb-5 flex items-center gap-2">
@@ -160,11 +221,11 @@ export default function EntryPage({ entryId, onNavigate }: EntryPageProps) {
             <h3 className="text-lg font-bold font-serif text-gray-900 mb-4 flex items-center gap-2">
               <span>🗃️</span> Zasoby archiwalne
               <span className="ml-auto text-xs bg-red-100 text-red-700 px-2 py-0.5 rounded-full font-normal">
-                {entry.resources.length}
+                {linkResources.length}
               </span>
             </h3>
             <div className="space-y-3">
-              {entry.resources.map(res => {
+              {linkResources.map(res => {
                 const resType = resourceTypeLabels[res.type];
                 return (
                   <div key={res.id} className="border border-stone-100 rounded-lg p-3 hover:border-red-200 transition-colors">

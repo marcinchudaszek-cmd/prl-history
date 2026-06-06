@@ -674,6 +674,8 @@ Zamordowany 19 października 1984 roku przez funkcjonariuszy SB. Jego śmierć w
     tags: ['urbanistyka', 'socrealizm', 'Kraków', 'stal', 'Huta im. Lenina'],
     yearStart: 1949,
     summary: 'Nowa Huta – wzorcowe miasto socjalistyczne wybudowane od podstaw przy Krakowie, siedziba Huty im. Lenina. Symbol industrializacji PRL, który z czasem stał się centrum oporu robotniczego.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Nowa%20Huta%20-%20Plac%20Centralny%20z%20lotu%20ptaka.jpg?width=800',
+    imageCaption: 'Plac Centralny w Nowej Hucie – wzorcowe miasto socrealizmu.',
     content: `Nowa Huta powstała od podstaw od 1949 roku jako "socjalistyczne miasto przyszłości" – projekt urbanistyczny realizowany zgodnie z zasadami socrealizmu.
 
 **Huta im. Lenina (dziś ArcelorMittal):**
@@ -1835,6 +1837,8 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     tags: ['Stocznia Gdańska', 'Solidarność', 'strajk', '1980', 'Gdańsk', 'Wałęsa'],
     yearStart: 1947,
     summary: 'Stocznia Gdańska im. Lenina – największy zakład przemysłowy Trójmiasta i symbol oporu robotniczego w PRL. To tutaj w sierpniu 1980 roku wybuchł strajk, który doprowadził do powstania NSZZ Solidarność.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pomnik%20Poleg%C5%82ych%20Stoczniowc%C3%B3w%201970%20%E2%80%93%20monument%20w%20postaci%20trzech%20krzy%C5%BCy%20z%20kotwicami%20ods%C5%82oni%C4%99ty%2016%20grudnia%201980%20roku%20w%20X%20rocznic%C4%99%20wydarze%C5%84%20grudnia%2070%20w%20Gda%C5%84sku%20na%20pl.%20Solidarno%C5%9Bci.DSCF7267.JPG?width=800',
+    imageCaption: 'Pomnik Poległych Stoczniowców 1970 przy bramie Stoczni Gdańskiej.',
     content: `Stocznia Gdańska – jeden z największych zakładów przemysłowych w powojennej Polsce, zbudowany na gruzach dawnej Stoczni Gdańskiej (Danziger Werft). Oficjalnie otwarta w 1947 roku, szybko stała się jednym z flagowych projektów industrializacji PRL.
 
 **Sierpień 1980 – narodziny Solidarności:**
@@ -2129,6 +2133,8 @@ Po Październiku 1956 roku Ministerstwo Bezpieczeństwa Publicznego zostało roz
     yearStart: 1952,
     yearEnd: 1955,
     summary: 'Pałac Kultury i Nauki w Warszawie – wzniesiony w latach 1952–1955 jako "dar narodu radzieckiego dla narodu polskiego". Zaprojektowany przez sowieckiego architekta Lwa Rudniewa, stał się jednym z najbardziej kontrowersyjnych symboli epoki PRL i dominantą panoramy Warszawy.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pa%C5%82ac%20Kultury%20i%20Nauki%20w%20nocy.JPG?width=800',
+    imageCaption: 'Pałac Kultury i Nauki – „dar narodu radzieckiego”, symbol Warszawy epoki PRL.',
     content: `Pałac Kultury i Nauki im. Józefa Stalina (pierwotna pełna nazwa) – gmach liczący 231 metrów wysokości, przez dziesięciolecia najwyższy budynek w Polsce. Zbudowany w centrum Warszawy na wzorcu sowieckich drapaczy chmur (tzw. stalinowskie tortownice) w stylu socrealistycznym.
 
 **Geneza i budowa:**
@@ -3148,6 +3154,8 @@ Za sukcesami stało zawodowe podejście, świetni trenerzy i system wyławiania 
     yearStart: 1973,
     yearEnd: 2000,
     summary: 'Fiat 126p – popularnie zwany Maluchem – mały samochód osobowy produkowany w FSM Bielsko-Biała i Tychach od 1973 do 2000 roku. Przez dwie dekady symbol osiągalnego marzenia i polskiej codzienności. Na Malucha czekało się latami – był symbolem konsumpcyjnych aspiracji klasy średniej PRL.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Fiat%20126p%20EL.JPG?width=800',
+    imageCaption: 'Fiat 126p „Maluch” – ikona motoryzacji PRL.',
     content: `Fiat 126p powstał na bazie umowy licencyjnej z włoskim Fiatem, podpisanej przez Edwarda Gierka w 1971 roku. Produkcję uruchomiono w 1973 roku w bielskiej Fabryce Samochodów Małolitrażowych (FSM), a od 1975 roku także w Tychach.
 
 **Techniczne cechy:**
@@ -8316,6 +8324,14 @@ W latach 80. Niemen sięgnął po muzykę elektroniczną i syntezatory. Wydał a
 Niemen jest dla polskiej muzyki tym, czym Hendrix dla rocka angloamerykańskiego – artystą, który przekroczył własną epokę i gatunki. Jego teksty, przede wszystkim do poezji Norwida ("Bema pamięci żałobny rapsod"), Kochanowskiego i własne, łączyły kulturę wysoką z popularną. Nagroda Fryderyk Lifetime Achievement (2004), setki coverów i nieustanna obecność w popkulturze świadczą o jego ponadczasowości.`,
     resources: [
       {
+        id: 'nie-yt',
+        title: 'Czesław Niemen – „Dziwny jest ten świat”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=kVp0BB6J-HI',
+        source: 'YouTube',
+        description: 'Przełomowy utwór z 1967 r. – manifest wrażliwości.',
+      },
+      {
         id: 'niemen-ninateka',
         title: 'Czesław Niemen – archiwalne nagrania w NINATECE',
         type: 'nagranie',
@@ -10164,6 +10180,14 @@ W twórczości Kaczmarskiego powracały motywy historii, tyranii i wolności –
 Kaczmarski pozostaje jednym z najważniejszych głosów polskiej kultury niezależnej. Jego pieśni śpiewane są do dziś, a „Mury” stały się symbolem walki o wolność wykraczającym poza polski kontekst.`,
     resources: [
       {
+        id: 'kacz-yt',
+        title: 'Jacek Kaczmarski – „Mury”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=NLnvMgve3h0',
+        source: 'YouTube',
+        description: 'Pieśń, która stała się hymnem Solidarności.',
+      },
+      {
         id: 'kacz-1',
         title: 'Nagrania Jacka Kaczmarskiego',
         type: 'nagranie',
@@ -11339,6 +11363,14 @@ Zespół rozpadł się w 1986 roku, a Ciechowski kontynuował karierę solową j
 Republika pozostaje symbolem ambitnego, artystycznego rocka lat 80., a Grzegorz Ciechowski – jedną z najważniejszych postaci polskiej muzyki rozrywkowej.`,
     resources: [
       {
+        id: 'rep-yt',
+        title: 'Republika – „Kombinat” (klip)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=i8NINDlQ6KY',
+        source: 'YouTube',
+        description: 'Nowofalowy przebój o zniewoleniu jednostki przez system.',
+      },
+      {
         id: 'rep-1',
         title: 'Republika – koncerty i teledyski',
         type: 'nagranie',
@@ -11389,6 +11421,14 @@ W 1984 roku Maanam, po odmowie udziału w koncercie transmitowanym przez telewiz
 ## Znaczenie
 Maanam to jeden z najważniejszych zespołów polskiego rocka, a Kora stała się ikoną niezależności i kobiecej siły w kulturze PRL.`,
     resources: [
+      {
+        id: 'maa-yt',
+        title: 'Maanam – „Boskie Buenos” (klip)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=ZIl4SrO3Lu8',
+        source: 'YouTube',
+        description: 'Jeden z największych przebojów zespołu Kory.',
+      },
       {
         id: 'maa-1',
         title: 'Maanam – nagrania koncertowe',
@@ -11594,6 +11634,14 @@ W okresie stanu wojennego zespół, podobnie jak inni artyści, mierzył się z 
 Perfect to jeden z filarów polskiego rocka, a jego przeboje pozostają klasyką, do dziś rozpoznawalną przez kolejne pokolenia.`,
     resources: [
       {
+        id: 'perf-yt',
+        title: 'Perfect – „Autobiografia”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=1n0MupX-7AM',
+        source: 'YouTube',
+        description: 'Hymn pokolenia o dorastaniu w PRL.',
+      },
+      {
         id: 'perf-1',
         title: 'Perfect – koncerty i teledyski',
         type: 'nagranie',
@@ -11747,6 +11795,14 @@ Mimo zmian składu Czerwone Gitary pozostały aktywne przez całą epokę PRL, a
 Zespół to symbol melodyjnego big-beatu lat 60. i 70., a jego piosenki na trwałe weszły do kanonu polskiej muzyki popularnej.`,
     resources: [
       {
+        id: 'cg-yt',
+        title: 'Czerwone Gitary – „Nie spoczniemy”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=btGejFkWr38',
+        source: 'YouTube',
+        description: 'Ponadczasowa ballada z tekstem Agnieszki Osieckiej.',
+      },
+      {
         id: 'cg-1',
         title: 'Czerwone Gitary – nagrania',
         type: 'nagranie',
@@ -11848,6 +11904,14 @@ Rodowicz słynęła z barwnych, niekonwencjonalnych strojów i scenicznej energi
 ## Znaczenie
 Maryla Rodowicz to jedna z najtrwalszych postaci polskiej sceny muzycznej, której kariera przetrwała wszystkie przemiany od czasów PRL.`,
     resources: [
+      {
+        id: 'mr-yt',
+        title: 'Maryla Rodowicz – „Małgośka”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=4Ly2n4SwsQ8',
+        source: 'YouTube',
+        description: 'Jeden z najsłynniejszych przebojów artystki.',
+      },
       {
         id: 'mr-1',
         title: 'Maryla Rodowicz – nagrania',
@@ -12002,6 +12066,14 @@ Lady Pank próbował kariery międzynarodowej, nagrywając anglojęzyczne wersje
 Lady Pank to symbol komercyjnego sukcesu polskiego rocka lat 80., a jego przeboje pozostają klasyką radiową do dziś.`,
     resources: [
       {
+        id: 'lp-yt',
+        title: 'Lady Pank – „Kryzysowa narzeczona” (1983)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=vhR_emBtHcU',
+        source: 'YouTube',
+        description: 'Największy przebój debiutanckiej płyty zespołu.',
+      },
+      {
         id: 'lp-1',
         title: 'Lady Pank – teledyski',
         type: 'nagranie',
@@ -12052,6 +12124,14 @@ Budka Suflera przetrwała kolejne dekady, przechodząc zmiany składu, ale zacho
 ## Znaczenie
 Grupa to jeden z filarów polskiej muzyki rockowej, łączący ambitne brzmienie z masową popularnością na estradzie.`,
     resources: [
+      {
+        id: 'bs-yt',
+        title: 'Budka Suflera – „Jolka, Jolka pamiętasz…”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Z3Nxamh3-t0',
+        source: 'YouTube',
+        description: 'Kultowa ballada rockowa z 1982 r.',
+      },
       {
         id: 'bs-1',
         title: 'Budka Suflera – nagrania',
@@ -13787,6 +13867,14 @@ Piosenka „Róbmy swoje” (1986) niosła przesłanie wytrwałości i godności
 ## Znaczenie
 Młynarski to klasyk polskiej piosenki autorskiej, łączący rozrywkę z refleksją; jego teksty pozostają wzorem językowej maestrii.`,
     resources: [
+      {
+        id: 'mly-yt',
+        title: 'Wojciech Młynarski – „Róbmy swoje”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=2WrL1l_gABI',
+        source: 'YouTube',
+        description: 'Przesłanie wytrwałości – hymn schyłku PRL.',
+      },
       {
         id: 'mly-1',
         title: 'Wojciech Młynarski – nagrania',
