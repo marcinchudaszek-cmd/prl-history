@@ -691,6 +691,14 @@ Władze celowo nie uwzględniły kościoła w projekcie. Walka parafian o budow�
 Robotnicy Nowej Huty aktywnie uczestniczyli w strajkach 1980 roku i strukturach "Solidarności". Huta była jednym z kluczowych obiektów objętych stanem wojennym.`,
     resources: [
       {
+        id: 'nh-yt',
+        title: 'O Nowej to Hucie piosenka (lata 50.)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=DuMu0givQUg',
+        source: 'YouTube',
+        description: 'Socrealistyczna pieśń masowa sławiąca budowę Nowej Huty (muz. Jerzy Gert).',
+      },
+      {
         id: 'nh-1',
         title: 'Kronika filmowa – budowa Nowej Huty 1949-1955',
         type: 'film',
