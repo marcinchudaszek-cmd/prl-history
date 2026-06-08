@@ -842,6 +842,8 @@ W sierpniu 1980 roku, podczas strajków, Gierek był hospitalizowany. 6 wrześni
     yearStart: 1923,
     yearEnd: 2014,
     summary: 'Wojciech Jaruzelski – generał i polityk, autor stanu wojennego z 13 grudnia 1981, ostatni I sekretarz KC PZPR i pierwszy Prezydent RP po 1989 roku. Postać kontrowersyjna – przez jednych oceniana jako zdrajca, przez innych jako pragmatyczny mąż stanu.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gen.%20Wojciech%20Jaruzelski%2013%20grudnia%201981.JPG?width=800',
+    imageCaption: 'Gen. Wojciech Jaruzelski ogłasza stan wojenny, 13 grudnia 1981 r.',
     content: `Wojciech Witold Jaruzelski (ur. 6 lipca 1923 – zm. 25 maja 2014) był najważniejszą postacią późnego PRL.
 
 **Kariera wojskowa:**
@@ -4889,6 +4891,14 @@ Komunistyczne władze ostatecznie zaakceptowały jazz – bo widziały, że go n
 
 Ten paradoks – muzyka wolności w systemie zniewolenia – jest jednym z najciekawszych wątków kulturalnych PRL.`,
     resources: [
+      {
+        id: 'jazz-yt',
+        title: 'Komeda Quintet – „Kattorna” (Astigmatic, 1966)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=e8FYNCYeBXI',
+        source: 'YouTube',
+        description: 'Z albumu uznawanego za arcydzieło polskiego jazzu.',
+      },
       {
         id: 'jazz-ninateka',
         title: 'Jazz Jamboree – archiwalne nagrania (Ninateka)',
@@ -11535,6 +11545,14 @@ Kult słynął z energetycznych występów na żywo, m.in. w Jarocinie. Bezkompr
 Kult to jeden z najtrwalszych zespołów polskiej sceny, a jego wczesna twórczość pozostaje świadectwem buntu pokolenia schyłku PRL.`,
     resources: [
       {
+        id: 'kult-yt',
+        title: 'Kult – „Arahja” (1988)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=A8d3QBMWUgs',
+        source: 'YouTube',
+        description: 'Jeden z najsłynniejszych utworów Kazika i Kultu.',
+      },
+      {
         id: 'kult-1',
         title: 'Kult – nagrania',
         type: 'nagranie',
@@ -11585,6 +11603,14 @@ Punkowcy, ze względu na wygląd i postawę, byli szczególnie narażeni na szyk
 ## Dziedzictwo
 Scena punkowa, najsilniej obecna w Jarocinie, pozostaje symbolem najbardziej radykalnego nurtu kontrkultury PRL i wpłynęła na kolejne pokolenia muzyków.`,
     resources: [
+      {
+        id: 'punk-yt',
+        title: 'Dezerter – „Spytaj milicjanta”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=7VnPOE8y3xQ',
+        source: 'YouTube',
+        description: 'Punkowy protest przeciw milicji i systemowi.',
+      },
       {
         id: 'punk-1',
         title: 'Polski punk – nagrania',
@@ -11746,6 +11772,14 @@ W stanie wojennym jego nagrania krążyły w drugim obiegu i na kasetach. Koncer
 ## Znaczenie
 Gintrowski pozostaje symbolem zaangażowanej, niezależnej sztuki lat 80., a jego pieśni – świadectwem moralnego oporu wobec systemu.`,
     resources: [
+      {
+        id: 'gin-yt',
+        title: 'Kaczmarski / Gintrowski / Łapiński – „Epitafium dla Włodzimierza Wysockiego”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=6D6xHuZilKw',
+        source: 'YouTube',
+        description: 'Występ słynnego tria bardów.',
+      },
       {
         id: 'gin-1',
         title: 'Gintrowski – nagrania',
@@ -17056,6 +17090,519 @@ PAX to przykład mechanizmu „dziel i rządź” – prób rozbijania jedności
     ],
     relatedIds: ['kosciol-prl', 'propaganda-prl', 'pzpr'],
   },
+  {
+    id: 'kozakiewicz-wladyslaw',
+    title: 'Władysław Kozakiewicz',
+    subtitle: 'Złoto i słynny gest w Moskwie',
+    category: 'osoby',
+    tags: ['sport', 'lekkoatletyka', 'olimpiada', '1980'],
+    yearStart: 1976,
+    yearEnd: 1981,
+    summary: 'Tyczkarz, mistrz olimpijski z Moskwy 1980, który po zwycięstwie wykonał słynny „gest Kozakiewicza” wobec gwiżdżącej radzieckiej publiczności.',
+    content: `## Sylwetka
+Władysław Kozakiewicz (ur. 1953) był jednym z najlepszych tyczkarzy świata przełomu lat 70. i 80., rekordzistą globu w skoku o tyczce.
+
+## Moskwa 1980
+Na igrzyskach olimpijskich w Moskwie zdobył złoty medal, ustanawiając rekord świata, mimo wrogiej atmosfery i gwizdów radzieckiej publiczności, która kibicowała jego rywalowi.
+
+## „Gest Kozakiewicza”
+Po zwycięskim skoku wykonał wobec trybun słynny gest zgiętej ręki – odebrany jako odpowiedź na gwizdy i symboliczny sprzeciw wobec ZSRR. Wywołał on dyplomatyczny incydent.
+
+## Symbol
+W realiach PRL gest stał się dla Polaków symbolem nieujarzmionej dumy i niezgody na dominację radziecką, a jego echa wykraczały daleko poza sport.
+
+## Znaczenie
+Kozakiewicz pozostaje legendą polskiej lekkoatletyki, a jego gest – jednym z najbardziej rozpoznawalnych symboli sportowego i narodowego buntu epoki.`,
+    resources: [
+      {
+        id: 'koz-1',
+        title: 'Władysław Kozakiewicz – archiwalia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=W%C5%82adys%C5%82aw+Kozakiewicz+Moskwa+1980+gest+tyczka',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania konkursu i gestu.',
+      },
+      {
+        id: 'koz-2',
+        title: 'Kozakiewicz – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=W%C5%82adys%C5%82aw%20Kozakiewicz%20gest%20Moskwa%201980%20sport',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o sportowcu i geście.',
+      },
+      {
+        id: 'koz-3',
+        title: 'Sport w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=lekkoatletyka%20skok%20o%20tyczce',
+        source: 'Ninateka',
+        description: 'Materiały filmowe o sporcie.',
+      },
+    ],
+    relatedIds: ['sport-prl', 'malinowski-bronislaw'],
+  },
+  {
+    id: 'gorski-kazimierz',
+    title: 'Kazimierz Górski',
+    subtitle: 'Trener „Orłów Górskiego”',
+    category: 'osoby',
+    tags: ['sport', 'piłka nożna', 'trener', 'lata 70.'],
+    yearStart: 1971,
+    yearEnd: 1976,
+    summary: 'Najwybitniejszy polski selekcjoner, twórca najlepszej reprezentacji w historii – mistrzów olimpijskich 1972 i brązowych medalistów mundialu 1974.',
+    content: `## Sylwetka
+Kazimierz Górski (1921–2006) był piłkarzem i trenerem, najsłynniejszym selekcjonerem reprezentacji Polski, który stworzył jej złotą drużynę lat 70.
+
+## Sukcesy
+Pod jego wodzą Polska zdobyła złoty medal olimpijski w Monachium (1972) i trzecie miejsce na mistrzostwach świata w RFN (1974) – największe osiągnięcia w historii rodzimego futbolu.
+
+## Drużyna marzeń
+Prowadził pokolenie gwiazd: Deynę, Latę, Szarmacha, Gadochę, Tomaszewskiego. Słynął ze spokoju, umiejętności budowania zespołu i motywowania zawodników.
+
+## Złote myśli
+Przypisuje mu się słynne, obrosłe legendą powiedzenia, jak „Piłka jest okrągła, a bramki są dwie”, które weszły do języka potocznego.
+
+## Znaczenie
+Kazimierz Górski to ikona polskiego sportu i symbol najlepszej epoki rodzimej piłki; jego imię nosi m.in. siedziba polskiej federacji.`,
+    resources: [
+      {
+        id: 'gor2-1',
+        title: 'Kazimierz Górski – archiwalia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Kazimierz+G%C3%B3rski+reprezentacja+1974+mundial',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania meczów i wywiadów.',
+      },
+      {
+        id: 'gor2-2',
+        title: 'Górski – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Kazimierz%20G%C3%B3rski%20pi%C5%82ka%20no%C5%BCna%20selekcjoner%20sport',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o trenerze.',
+      },
+      {
+        id: 'gor2-3',
+        title: 'Sport w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=pi%C5%82ka%20no%C5%BCna%20reprezentacja%20G%C3%B3rski',
+        source: 'Ninateka',
+        description: 'Materiały filmowe o sporcie.',
+      },
+    ],
+    relatedIds: ['mundial-1974', 'sport-prl', 'deyna-kazimierz'],
+  },
+  {
+    id: 'dejmek-kazimierz',
+    title: 'Kazimierz Dejmek',
+    subtitle: 'Reżyser „Dziadów”, które zapaliły Marzec \'68',
+    category: 'osoby',
+    tags: ['kultura', 'teatr', 'reżyser', 'marzec 1968'],
+    yearStart: 1962,
+    yearEnd: 1981,
+    summary: 'Wybitny reżyser teatralny, twórca głośnej inscenizacji „Dziadów” z 1967 roku, której zdjęcie ze sceny stało się iskrą wydarzeń Marca 1968.',
+    content: `## Sylwetka
+Kazimierz Dejmek (1924–2002) był jednym z najwybitniejszych polskich reżyserów teatralnych i dyrektorów teatrów, m.in. Teatru Narodowego w Warszawie.
+
+## „Dziady” 1967
+Jego inscenizacja „Dziadów” Adama Mickiewicza w Teatrze Narodowym, z Gustawem Holoubkiem w roli Konrada, podkreślała antyrosyjskie i wolnościowe treści dramatu, entuzjastycznie przyjmowane przez publiczność.
+
+## Marzec '68
+Władze, zaniepokojone reakcjami widowni, nakazały zdjęcie spektaklu w styczniu 1968 roku. Protesty studentów przeciw cenzurze zapoczątkowały wydarzenia Marca 1968.
+
+## Twórczość
+Dejmek był mistrzem teatru opartego na wielkiej literaturze i tradycji, łączącym rozmach inscenizacji z intelektualną głębią. Część kariery spędził też za granicą.
+
+## Znaczenie
+Dejmek to symbol siły teatru, który – mimo cenzury – potrafił poruszyć sumienia i wpłynąć na bieg historii.`,
+    resources: [
+      {
+        id: 'dej-1',
+        title: 'Kazimierz Dejmek – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Kazimierz%20Dejmek%20Dziady%201968%20teatr%20marzec',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o reżyserze i „Dziadach”.',
+      },
+      {
+        id: 'dej-2',
+        title: 'Dejmek – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Kazimierz+Dejmek+Dziady+1968+teatr',
+        source: 'YouTube',
+        description: 'Materiały filmowe i archiwalne.',
+      },
+      {
+        id: 'dej-3',
+        title: 'Teatr w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Dejmek%20teatr%20Dziady',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały.',
+      },
+    ],
+    relatedIds: ['teatr-prl', 'marzec-1968', 'holoubek-gustaw'],
+  },
+  {
+    id: 'konwicki-tadeusz',
+    title: 'Tadeusz Konwicki',
+    subtitle: 'Pisarz i reżyser obrachunków',
+    category: 'osoby',
+    tags: ['kultura', 'literatura', 'film', 'reżyser'],
+    yearStart: 1956,
+    yearEnd: 1989,
+    summary: 'Prozaik i reżyser, autor „Małej apokalipsy” i filmu „Salto”, twórca rozliczający mity i rzeczywistość PRL, publikujący też w drugim obiegu.',
+    content: `## Sylwetka
+Tadeusz Konwicki (1926–2015) był pisarzem, scenarzystą i reżyserem filmowym, jednym z najważniejszych twórców powojennej kultury, łączącym prozę z kinem.
+
+## Proza
+W powieściach jak „Sennik współczesny”, „Kompleks polski” czy „Mała apokalipsa” (1979) z gorzką ironią rozliczał polskie mity, rzeczywistość PRL i kondycję jednostki.
+
+## Film
+Reżyserował autorskie, oniryczne filmy, m.in. „Salto” (1965) i „Jak daleko stąd, jak blisko”, tworząc kino osobne i refleksyjne.
+
+## Drugi obieg
+Niektóre jego dzieła, jak „Kompleks polski” i „Mała apokalipsa”, ukazały się poza cenzurą, w drugim obiegu, co czyniło go ważną postacią niezależnej kultury.
+
+## Znaczenie
+Konwicki to klasyk literatury i kina, mistrz gorzkiej autorefleksji, którego twórczość pozostaje jednym z najcelniejszych portretów PRL.`,
+    resources: [
+      {
+        id: 'kon2-1',
+        title: 'Tadeusz Konwicki – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Tadeusz%20Konwicki%20Ma%C5%82a%20apokalipsa%20literatura%20film',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o twórczości.',
+      },
+      {
+        id: 'kon2-2',
+        title: 'Konwicki – biogram filmowy',
+        type: 'film',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Tadeusz%20Konwicki',
+        source: 'FilmPolski.pl',
+        description: 'Filmografia i informacje o reżyserze.',
+      },
+      {
+        id: 'kon2-3',
+        title: 'Konwicki – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Tadeusz+Konwicki+pisarz+film+Salto',
+        source: 'YouTube',
+        description: 'Materiały filmowe i archiwalne.',
+      },
+    ],
+    relatedIds: ['literatura-prl', 'kino-prl', 'kultura-paryz'],
+  },
+  {
+    id: 'sejm-prl',
+    title: 'Sejm PRL',
+    subtitle: 'Fasadowy parlament jednej listy',
+    category: 'polityka',
+    tags: ['polityka', 'władza', 'PZPR', 'wybory'],
+    yearStart: 1952,
+    yearEnd: 1989,
+    summary: 'Parlament Polski Ludowej, formalnie najwyższy organ władzy, w praktyce fasadowy – zatwierdzający decyzje PZPR niemal jednomyślnie.',
+    content: `## Pozycja formalna
+Konstytucja z 1952 roku czyniła Sejm „najwyższym organem władzy państwowej”. W rzeczywistości realna władza spoczywała w rękach kierownictwa PZPR.
+
+## Wybory bez wyboru
+Deputowanych wybierano z jednej listy Frontu Jedności Narodu, bez realnej konkurencji. Skład Sejmu odzwierciedlał ustalony z góry „klucz” partyjny i organizacji satelickich.
+
+## Maszyna do głosowania
+Sejm zbierał się rzadko i niemal jednomyślnie przyjmował ustawy przygotowane przez władze. Pełnił funkcję dekoracyjną, legitymizującą decyzje partii.
+
+## Wyjątki i przełom
+Z czasem pojawiały się nieliczne głosy sprzeciwu (np. koło „Znak”). Przełomem był Sejm wybrany w czerwcu 1989 roku, w wyniku częściowo wolnych wyborów.
+
+## Znaczenie
+Sejm PRL to symbol fasadowości instytucji demokratycznych w systemie komunistycznym – pozorów parlamentaryzmu bez realnej władzy.`,
+    resources: [
+      {
+        id: 'se-1',
+        title: 'Sejm PRL – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Sejm%20PRL%20parlament%20wybory%20PZPR',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o roli i działaniu Sejmu PRL.',
+      },
+      {
+        id: 'se-2',
+        title: 'Sejm PRL – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Sejm+PRL+obrady+parlament',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania obrad.',
+      },
+      {
+        id: 'se-3',
+        title: 'Dokumenty i akty',
+        type: 'akt',
+        url: 'https://szukajwarchiwach.gov.pl/szukaj?q=Sejm%20PRL%20ustawy',
+        source: 'Szukaj w Archiwach',
+        description: 'Materiały archiwalne i akty prawne.',
+      },
+    ],
+    relatedIds: ['konstytucja-prl', 'pzpr', 'wybory-prl'],
+  },
+  {
+    id: 'front-jednosci-narodu',
+    title: 'Front Jedności Narodu',
+    subtitle: 'Fasada „jedności” pod wodzą PZPR',
+    category: 'polityka',
+    tags: ['polityka', 'propaganda', 'wybory', 'PZPR'],
+    yearStart: 1952,
+    yearEnd: 1983,
+    summary: 'Organizacja zrzeszająca partie i stowarzyszenia pod kierownictwem PZPR, firmująca jedną listę wyborczą i pozorującą poparcie społeczne dla władzy.',
+    content: `## Geneza
+Front Jedności Narodu (wcześniej Front Narodowy) powstał w latach 50. jako struktura skupiająca PZPR, stronnictwa satelickie i organizacje społeczne pod przewodnią rolą partii.
+
+## Jedna lista
+Główną funkcją FJN było wystawianie jednej, wspólnej listy wyborczej. Wyborca mógł jedynie poprzeć kandydatów, bez realnego wyboru, co dawało władzy „99-procentowe” poparcie.
+
+## Pozory pluralizmu
+Front miał stwarzać wrażenie jedności wszystkich Polaków i organizacji wokół „budowy socjalizmu”, maskując monopol władzy PZPR.
+
+## Przekształcenia
+W 1983 roku, po stanie wojennym, FJN zastąpiono Patriotycznym Ruchem Odrodzenia Narodowego (PRON), pełniącym podobną, fasadową rolę.
+
+## Znaczenie
+FJN to symbol pozorowanej „jedności” i mechanizmu wyborów bez wyboru, charakterystycznych dla systemu komunistycznego.`,
+    resources: [
+      {
+        id: 'fjn-1',
+        title: 'Front Jedności Narodu – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Front%20Jedno%C5%9Bci%20Narodu%20wybory%20PRL%20PZPR',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o FJN i wyborach.',
+      },
+      {
+        id: 'fjn-2',
+        title: 'FJN – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Front+Jedno%C5%9Bci+Narodu+wybory+PRL+propaganda',
+        source: 'YouTube',
+        description: 'Materiały filmowe i propagandowe.',
+      },
+      {
+        id: 'fjn-3',
+        title: 'Druki wyborcze',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=Front%20Jedno%C5%9Bci%20Narodu%20plakat%20wybory',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne i prasowe.',
+      },
+    ],
+    relatedIds: ['pzpr', 'wybory-prl', 'propaganda-prl'],
+  },
+  {
+    id: 'stronnictwa-satelickie',
+    title: 'Stronnictwa satelickie (ZSL i SD)',
+    subtitle: 'Sojusznicy „pod kontrolą” PZPR',
+    category: 'polityka',
+    tags: ['polityka', 'władza', 'PZPR', 'system'],
+    yearStart: 1949,
+    yearEnd: 1989,
+    summary: 'Zjednoczone Stronnictwo Ludowe i Stronnictwo Demokratyczne – formalnie odrębne partie, w praktyce podporządkowane PZPR i firmujące pozory wielopartyjności.',
+    content: `## Pozorny pluralizm
+Obok PZPR w PRL istniały dwa „sojusznicze” stronnictwa: Zjednoczone Stronnictwo Ludowe (ZSL) i Stronnictwo Demokratyczne (SD), mające stwarzać wrażenie wielopartyjności.
+
+## ZSL
+Zjednoczone Stronnictwo Ludowe (od 1949) adresowane było do wsi i rolników. Choć formalnie reprezentowało chłopów, akceptowało kierowniczą rolę PZPR i politykę władz.
+
+## SD
+Stronnictwo Demokratyczne skupiało inteligencję, rzemieślników i drobnych przedsiębiorców. Również uznawało przewodnią rolę partii komunistycznej.
+
+## Rola w systemie
+Stronnictwa miały przedstawicieli w Sejmie i administracji, lecz nie prowadziły niezależnej polityki. Były elementem fasady demokratycznej i kanałem kontroli nad środowiskami.
+
+## Przełom 1989
+W 1989 roku ZSL i SD odeszły od PZPR, poparły rząd Tadeusza Mazowieckiego i przyczyniły się do upadku systemu, dając większość obozowi solidarnościowemu.
+
+## Znaczenie
+Dzieje stronnictw satelickich pokazują mechanizm pozorowanego pluralizmu, a ich „bunt” w 1989 roku był jednym z gwoździ do trumny PRL.`,
+    resources: [
+      {
+        id: 'ss-1',
+        title: 'ZSL i SD – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=ZSL%20SD%20stronnictwa%20satelickie%20PRL%20PZPR',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o stronnictwach i ich roli.',
+      },
+      {
+        id: 'ss-2',
+        title: 'Stronnictwa – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=ZSL+SD+stronnictwa+PRL+polityka',
+        source: 'YouTube',
+        description: 'Materiały filmowe i archiwalne.',
+      },
+      {
+        id: 'ss-3',
+        title: 'Dokumentacja archiwalna',
+        type: 'akt',
+        url: 'https://szukajwarchiwach.gov.pl/szukaj?q=ZSL%20SD%20stronnictwa',
+        source: 'Szukaj w Archiwach',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['pzpr', 'sejm-prl', 'front-jednosci-narodu'],
+  },
+  {
+    id: 'tppr',
+    title: 'Towarzystwo Przyjaźni Polsko-Radzieckiej',
+    subtitle: 'Masowa organizacja propagandy sojuszu z ZSRR',
+    category: 'społeczeństwo',
+    tags: ['propaganda', 'ZSRR', 'społeczeństwo', 'organizacje'],
+    yearStart: 1944,
+    yearEnd: 1989,
+    summary: 'Masowa organizacja propagująca „przyjaźń” z ZSRR i kulturę radziecką, jeden z filarów ideologicznego podporządkowania PRL Związkowi Radzieckiemu.',
+    content: `## Geneza
+Towarzystwo Przyjaźni Polsko-Radzieckiej (TPPR) powstało jeszcze przed końcem wojny i rozwinęło się w jedną z najliczniejszych organizacji masowych PRL.
+
+## Cele
+Głównym zadaniem było propagowanie „nierozerwalnej przyjaźni” z ZSRR, kultury i osiągnięć radzieckich oraz utrwalanie przekonania o sojuszu jako gwarancji bezpieczeństwa Polski.
+
+## Działalność
+TPPR organizowało Dni Przyjaźni, prelekcje, kursy języka rosyjskiego, pokazy filmów radzieckich, wymiany i uroczystości rocznicowe (np. rewolucji październikowej).
+
+## Masowość „na papierze”
+Liczyło miliony członków, lecz przynależność bywała formalna i wymuszana w zakładach pracy. Dla wielu była pustym rytuałem, traktowanym z dystansem.
+
+## Znaczenie
+TPPR to przykład instytucji służącej ideologicznemu zespoleniu PRL z ZSRR i sowietyzacji kultury, działającej obok aparatu partyjnego i państwowego.`,
+    resources: [
+      {
+        id: 'tp-1',
+        title: 'TPPR – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Towarzystwo%20Przyja%C5%BAni%20Polsko-Radzieckiej%20TPPR%20propaganda',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o organizacji i jej roli.',
+      },
+      {
+        id: 'tp-2',
+        title: 'TPPR – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Towarzystwo+Przyja%C5%BAni+Polsko-Radzieckiej+PRL',
+        source: 'YouTube',
+        description: 'Materiały filmowe i propagandowe.',
+      },
+      {
+        id: 'tp-3',
+        title: 'Plakaty i druki',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=przyja%C5%BA%C5%84%20polsko-radziecka%20plakat%20TPPR',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne i propagandowe.',
+      },
+    ],
+    relatedIds: ['propaganda-prl', 'rwpg', 'uklad-warszawski'],
+  },
+  {
+    id: 'zbowid',
+    title: 'ZBoWiD',
+    subtitle: 'Kombatanci pod kontrolą władzy',
+    category: 'społeczeństwo',
+    tags: ['społeczeństwo', 'kombatanci', 'wojsko', 'propaganda'],
+    yearStart: 1949,
+    yearEnd: 1989,
+    summary: 'Związek Bojowników o Wolność i Demokrację – masowa organizacja kombatancka, wykorzystywana przez władze do kontroli środowisk weteranów i polityki pamięci.',
+    content: `## Geneza
+Związek Bojowników o Wolność i Demokrację (ZBoWiD) powstał w 1949 roku z połączenia (i likwidacji niezależności) wcześniejszych organizacji kombatanckich.
+
+## Polityka pamięci
+ZBoWiD kształtował oficjalną pamięć o wojnie zgodnie z linią partii – eksponował walkę u boku ZSRR i Ludowego WP, marginalizując lub fałszując rolę AK i Polski Podziemnej.
+
+## Przywileje i kontrola
+Członkostwo dawało przywileje (świadczenia, miejsca w kolejce po mieszkanie), ale wiązało się z lojalnością. Organizacja była narzędziem kontroli środowisk weteranów.
+
+## Moczar
+W latach 60. ZBoWiD, kierowany przez Mieczysława Moczara, stał się zapleczem nacjonalistyczno-partyjnej frakcji „partyzantów”, odgrywając rolę w rozgrywkach politycznych, m.in. w 1968 roku.
+
+## Znaczenie
+ZBoWiD to przykład instrumentalizacji kombatantów i pamięci o wojnie przez władze PRL dla celów politycznych i propagandowych.`,
+    resources: [
+      {
+        id: 'zb-1',
+        title: 'ZBoWiD – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=ZBoWiD%20kombatanci%20Moczar%20polityka%20pami%C4%99ci',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o organizacji i jej roli.',
+      },
+      {
+        id: 'zb-2',
+        title: 'ZBoWiD – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=ZBoWiD+kombatanci+PRL+uroczysto%C5%9Bci',
+        source: 'YouTube',
+        description: 'Materiały filmowe i archiwalne.',
+      },
+      {
+        id: 'zb-3',
+        title: 'Dokumentacja archiwalna',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=ZBoWiD%20kombatanci',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['propaganda-prl', 'lwp', 'moczar'],
+  },
+  {
+    id: 'mala-stabilizacja',
+    title: 'Mała stabilizacja',
+    subtitle: 'Codzienność epoki Gomułki',
+    category: 'społeczeństwo',
+    tags: ['społeczeństwo', 'życie codzienne', 'Gomułka', 'lata 60.'],
+    yearStart: 1956,
+    yearEnd: 1970,
+    summary: 'Określenie szarej, skromnej stabilizacji życia w Polsce Gomułki lat 60. – po odwilży, bez wielkiego terroru, lecz i bez dobrobytu oraz wolności.',
+    content: `## Pojęcie
+„Mała stabilizacja” to popularne określenie atmosfery życia w Polsce za rządów Władysława Gomułki w latach 60. Spopularyzował je m.in. dramat Tadeusza Różewicza „Świadkowie albo nasza mała stabilizacja”.
+
+## Po odwilży
+Po odwilży 1956 roku ustał masowy terror, lecz nadzieje na głębsze reformy się rozwiały. Nastała szara codzienność – skromna, przewidywalna, pozbawiona zarówno represji na wielką skalę, jak i dobrobytu.
+
+## Życie codzienne
+Dominowały niedobory, ciasne mieszkania, kolejki i ograniczony wybór towarów. Symbolami epoki stały się skromne marzenia o telewizorze, pralce „Frani” czy meblościance.
+
+## Klimat społeczny
+Społeczeństwo przyjęło postawę przystosowania – „małych spraw” i prywatności, w obliczu braku perspektyw na zmianę. Narastało jednak rozczarowanie, które wybuchło w 1968 i 1970 roku.
+
+## Znaczenie
+„Mała stabilizacja” to celne określenie kondycji PRL lat 60. – świata bez wielkiego strachu, ale i bez wolności oraz nadziei na lepsze jutro.`,
+    resources: [
+      {
+        id: 'ms-1',
+        title: 'Mała stabilizacja – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=ma%C5%82a%20stabilizacja%20Gomu%C5%82ka%20%C5%BCycie%20codzienne%20lata%2060',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o epoce Gomułki.',
+      },
+      {
+        id: 'ms-2',
+        title: 'Życie codzienne – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=ma%C5%82a+stabilizacja+PRL+lata+60+%C5%BCycie+codzienne',
+        source: 'YouTube',
+        description: 'Archiwalne materiały filmowe.',
+      },
+      {
+        id: 'ms-3',
+        title: 'Fotografie codzienności',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=%C5%BCycie%20codzienne%20PRL%20lata%20sze%C5%9B%C4%87dziesi%C4%85te',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne.',
+      },
+    ],
+    relatedIds: ['gomulka', 'zycie-codzienne', 'gospodarka-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -17114,7 +17661,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1972, event: 'Złoto olimpijskie polskich piłkarzy w Monachium', category: 'społeczeństwo', entryId: 'mundial-1974' },
   { year: 1974, event: 'Polska zajmuje 3. miejsce na Mistrzostwach Świata w piłce nożnej', category: 'społeczeństwo', entryId: 'mundial-1974' },
   { year: 1976, event: 'Irena Szewińska złotą medalistką olimpijską (400 m, Montreal)', category: 'społeczeństwo', entryId: 'irena-szewinska' },
-  { year: 1980, event: 'Gest Kozakiewicza – złoto w skoku o tyczce w Moskwie', category: 'społeczeństwo', entryId: 'sport-prl' },
+  { year: 1980, event: 'Gest Kozakiewicza – złoto w skoku o tyczce w Moskwie', category: 'społeczeństwo', entryId: 'kozakiewicz-wladyslaw' },
   { year: 1964, event: 'Jacek Kuroń i Karol Modzelewski – „List otwarty do Partii"', category: 'opozycja', entryId: 'kuron' },
   { year: 1977, event: 'Adam Michnik publikuje „Kościół, lewica, dialog"', category: 'opozycja', entryId: 'michnik' },
   { year: 1981, event: 'Pierwszy numer „Gazety Wyborczej" (8 maja 1989)', category: 'polityka', entryId: 'michnik' },
@@ -17208,4 +17755,10 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1953, event: 'Stracenie gen. Emila Fieldorfa „Nila”', category: 'represje', entryId: 'fieldorf-nil' },
   { year: 1957, event: 'Debiut komiksu „Tytus, Romek i A’Tomek” Papcia Chmiela', category: 'kultura', entryId: 'komiks-prl' },
   { year: 1980, event: 'Bronisław Malinowski zdobywa złoto olimpijskie w Moskwie (3000 m z przeszkodami)', category: 'społeczeństwo', entryId: 'malinowski-bronislaw' },
+  { year: 1949, event: 'Powstaje Towarzystwo Przyjaźni Polsko-Radzieckiej (TPPR)', category: 'społeczeństwo', entryId: 'tppr' },
+  { year: 1952, event: 'Konstytucja PRL ustanawia fasadowy Sejm jednej listy', category: 'polityka', entryId: 'sejm-prl' },
+  { year: 1952, event: 'Front Jedności Narodu firmuje wybory bez wyboru', category: 'polityka', entryId: 'front-jednosci-narodu' },
+  { year: 1965, event: 'Premiera filmu „Salto” Tadeusza Konwickiego', category: 'kultura', entryId: 'konwicki-tadeusz' },
+  { year: 1968, event: 'Zdjęcie „Dziadów” Kazimierza Dejmka zapala Marzec \'68', category: 'kultura', entryId: 'dejmek-kazimierz' },
+  { year: 1972, event: 'Reprezentacja Kazimierza Górskiego mistrzem olimpijskim w Monachium', category: 'społeczeństwo', entryId: 'gorski-kazimierz' },
 ];

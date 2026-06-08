@@ -404,4 +404,29 @@ export const slangTerms: SlangTerm[] = [
     definition: 'Poufna informacja, „dać cynk” – ostrzec lub podpowiedzieć, np. że „rzucili” towar albo że idzie kontrola.',
     category: 'codzienność',
   },
+  {
+    term: 'Aktyw partyjny',
+    definition: 'Grono najaktywniejszych członków PZPR w zakładzie czy instytucji – „aktyw” mobilizowano do kampanii, narad i pilnowania linii partii.',
+    category: 'władza',
+  },
+  {
+    term: 'Norma',
+    definition: 'Obowiązkowy plan produkcji na pracownika. „Wyrobić normę” albo „przekroczyć normę” było miarą oceny; zawyżanie norm budziło bunt (m.in. Poznań 1956).',
+    category: 'gospodarka',
+  },
+  {
+    term: 'Rozdzielnik',
+    definition: 'Odgórny przydział deficytowych towarów lub materiałów do instytucji i zakładów – „z rozdzielnika” zamiast z wolnego rynku.',
+    category: 'gospodarka',
+  },
+  {
+    term: 'Współzawodnictwo pracy',
+    definition: 'Propagandowa rywalizacja w przekraczaniu norm (kult przodowników), wzorowana na radzieckim stachanowizmie.',
+    category: 'propaganda',
+  },
+  {
+    term: 'Kadry',
+    definition: 'Dział kadr i polityka kadrowa kontrolowana przez partię – „kadry decydują o wszystkim”; o awansie często ważniejsza była lojalność niż kompetencje.',
+    category: 'władza',
+  },
 ];
