@@ -16546,6 +16546,516 @@ Proces taterników był jednym z sygnałów rodzącej się opozycji i obiegu nie
     ],
     relatedIds: ['kultura-paryz', 'drugi-obieg', 'kor'],
   },
+  {
+    id: 'fieldorf-nil',
+    title: 'Gen. Emil Fieldorf „Nil”',
+    subtitle: 'Dowódca Kedywu zamordowany przez komunistów',
+    category: 'osoby',
+    tags: ['represje', 'żołnierze wyklęci', 'AK', 'ofiara'],
+    yearStart: 1945,
+    yearEnd: 1953,
+    summary: 'Generał, szef Kedywu Armii Krajowej, skrytobójczo skazany i stracony w 1953 roku – symbol komunistycznych mordów sądowych na bohaterach Polski Podziemnej.',
+    content: `## Sylwetka
+Generał August Emil Fieldorf, pseudonim „Nil” (1895–1953), był jednym z najwybitniejszych dowódców Armii Krajowej, szefem Kedywu – pionu walki bieżącej i dywersji.
+
+## Wojna
+Organizował akcje przeciw niemieckiemu okupantowi, w tym wykonanie wyroku na kacie Warszawy Franzu Kutscherze. Był legendą konspiracji niepodległościowej.
+
+## Aresztowanie
+Po wojnie aparat bezpieczeństwa rozpracował i aresztował Fieldorfa. W sfingowanym procesie oskarżono go o wydawanie rozkazów mordowania partyzantów sowieckich.
+
+## Mord sądowy
+W 1953 roku skazano go na karę śmierci i stracono przez powieszenie. Był to typowy mord sądowy – zbrodnia komunistycznego wymiaru „sprawiedliwości” na bohaterze narodowym.
+
+## Pamięć
+Po latach Fieldorfa zrehabilitowano, a jego kaci byli ścigani. Generał „Nil” pozostaje symbolem żołnierzy wyklętych i ofiar stalinowskiego terroru.`,
+    resources: [
+      {
+        id: 'fn-1',
+        title: 'Gen. Fieldorf „Nil” – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Emil%20Fieldorf%20Nil%20Kedyw%20%C5%BCo%C5%82nierze%20wykl%C4%99ci',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o generale i jego procesie.',
+      },
+      {
+        id: 'fn-2',
+        title: 'Fieldorf – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=genera%C5%82+Fieldorf+Nil+dokument',
+        source: 'YouTube',
+        description: 'Materiały filmowe i dokumenty.',
+      },
+      {
+        id: 'fn-3',
+        title: 'Akta procesowe',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Fieldorf%20Emil%20August',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne aparatu represji.',
+      },
+    ],
+    relatedIds: ['zolnierze-wykletci', 'represje-polityczne', 'ub'],
+  },
+  {
+    id: 'inka-siedzikowna',
+    title: 'Danuta Siedzikówna „Inka”',
+    subtitle: 'Sanitariuszka skazana w wieku 17 lat',
+    category: 'osoby',
+    tags: ['represje', 'żołnierze wyklęci', 'ofiara', 'kobiety'],
+    yearStart: 1946,
+    yearEnd: 1946,
+    summary: 'Siedemnastoletnia sanitariuszka oddziałów podziemia niepodległościowego, stracona w 1946 roku – symbol najmłodszych ofiar komunistycznego terroru.',
+    content: `## Sylwetka
+Danuta Siedzikówna „Inka” (1928–1946) była sanitariuszką w oddziałach antykomunistycznego podziemia na Pomorzu, związaną z 5. Wileńską Brygadą AK majora „Łupaszki”.
+
+## Aresztowanie
+W 1946 roku, mając zaledwie 17 lat, została aresztowana przez UB w Gdańsku. W śledztwie torturowano ją, lecz nie wydała towarzyszy broni.
+
+## Proces i wyrok
+W pokazowym procesie skazano ją na karę śmierci. Mimo młodego wieku władze nie skorzystały z prawa łaski.
+
+## „Zachowałam się jak trzeba”
+Przed egzekucją w grypsie napisała słynne słowa: „powiedzcie mojej babci, że zachowałam się jak trzeba”. Została rozstrzelana w więzieniu w Gdańsku.
+
+## Pamięć
+Długo poszukiwano jej szczątków, odnalezionych po latach. „Inka” stała się symbolem heroizmu i tragedii najmłodszego pokolenia żołnierzy wyklętych.`,
+    resources: [
+      {
+        id: 'in-1',
+        title: 'Danuta Siedzikówna „Inka” – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Danuta%20Siedzik%C3%B3wna%20Inka%20%C5%BCo%C5%82nierze%20wykl%C4%99ci',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o sanitariuszce i jej procesie.',
+      },
+      {
+        id: 'in-2',
+        title: 'Inka – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Danuta+Siedzik%C3%B3wna+Inka+dokument',
+        source: 'YouTube',
+        description: 'Materiały filmowe i dokumenty.',
+      },
+      {
+        id: 'in-3',
+        title: 'Akta procesowe',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Siedzik%C3%B3wna%20Danuta%20Inka',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne aparatu represji.',
+      },
+    ],
+    relatedIds: ['zolnierze-wykletci', 'represje-polityczne', 'ub'],
+  },
+  {
+    id: 'bialoszewski-miron',
+    title: 'Miron Białoszewski',
+    subtitle: 'Poeta osobny i „Pamiętnik z powstania”',
+    category: 'osoby',
+    tags: ['kultura', 'literatura', 'poezja'],
+    yearStart: 1956,
+    yearEnd: 1983,
+    summary: 'Nowatorski poeta i prozaik, mistrz języka mówionego i codzienności, autor „Pamiętnika z powstania warszawskiego” i twórca prywatnego teatru.',
+    content: `## Sylwetka
+Miron Białoszewski (1922–1983) był poetą, prozaikiem i dramaturgiem, jednym z najbardziej oryginalnych twórców powojennej literatury polskiej.
+
+## Poezja codzienności
+Debiutował w 1956 roku. Tworzył poezję „lingwistyczną” – z języka mówionego, przejęzyczeń, drobiazgów codzienności, odnajdując poezję w tym, co zwykłe i niepozorne.
+
+## Teatr Osobny
+Prowadził w swoim mieszkaniu prywatny, awangardowy Teatr Osobny – kameralną, niezależną scenę poza oficjalnym obiegiem kultury.
+
+## Pamiętnik z powstania
+„Pamiętnik z powstania warszawskiego” (1970) to nowatorska, antyheroiczna relacja cywila z powstania – arcydzieło prozy, ukazujące wojnę z perspektywy zwykłego człowieka.
+
+## Znaczenie
+Białoszewski na trwałe odmienił polską poezję i prozę, a jego wrażliwość na język i codzienność inspiruje kolejne pokolenia twórców.`,
+    resources: [
+      {
+        id: 'bi-1',
+        title: 'Miron Białoszewski – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Miron%20Bia%C5%82oszewski%20poezja%20literatura',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o twórczości poety.',
+      },
+      {
+        id: 'bi-2',
+        title: 'Teksty w Wolnych Lekturach',
+        type: 'publikacja',
+        url: 'https://wolnelektury.pl/szukaj/?q=Bia%C5%82oszewski',
+        source: 'Wolne Lektury',
+        description: 'Dostępne teksty literackie.',
+      },
+      {
+        id: 'bi-3',
+        title: 'Białoszewski – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Miron+Bia%C5%82oszewski+poezja+wiersze',
+        source: 'YouTube',
+        description: 'Materiały filmowe i archiwalne.',
+      },
+    ],
+    relatedIds: ['literatura-prl', 'rozewicz-tadeusz', 'kultura-prl'],
+  },
+  {
+    id: 'malinowski-bronislaw',
+    title: 'Bronisław Malinowski',
+    subtitle: 'Złoto olimpijskie w Moskwie 1980',
+    category: 'osoby',
+    tags: ['sport', 'lekkoatletyka', 'olimpiada', 'lata 70.'],
+    yearStart: 1972,
+    yearEnd: 1981,
+    summary: 'Wybitny lekkoatleta, mistrz olimpijski z Moskwy 1980 w biegu na 3000 m z przeszkodami, jeden z najlepszych przeszkodowców świata swojej epoki.',
+    content: `## Sylwetka
+Bronisław Malinowski (1951–1981) był lekkoatletą specjalizującym się w biegu na 3000 metrów z przeszkodami, jednym z najwybitniejszych polskich biegaczy.
+
+## Kariera
+Przez całą dekadę lat 70. należał do światowej czołówki. Zdobywał medale mistrzostw Europy i igrzysk olimpijskich, słynąc z taktycznej dojrzałości i wytrzymałości.
+
+## Moskwa 1980
+Ukoronowaniem kariery było złoto olimpijskie w Moskwie w 1980 roku na 3000 m z przeszkodami – po wcześniejszym srebrze z Montrealu (1976).
+
+## Tragiczna śmierć
+W 1981 roku, u szczytu sławy, zginął tragicznie w wypadku samochodowym, co wstrząsnęło polskim sportem.
+
+## Znaczenie
+Bronisław Malinowski pozostaje legendą polskiej lekkoatletyki; jego imię nosi m.in. stadion w Grudziądzu, a sukcesy są wzorem dla kolejnych pokoleń.`,
+    resources: [
+      {
+        id: 'bm2-1',
+        title: 'Bronisław Malinowski – archiwalia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Bronis%C5%82aw+Malinowski+Moskwa+1980+bieg+przeszkody',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania biegów.',
+      },
+      {
+        id: 'bm2-2',
+        title: 'Malinowski – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Bronis%C5%82aw%20Malinowski%20lekkoatletyka%20olimpiada',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o lekkoatlecie.',
+      },
+      {
+        id: 'bm2-3',
+        title: 'Sport w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=lekkoatletyka%20bieg%20przeszkody',
+        source: 'Ninateka',
+        description: 'Materiały filmowe o sporcie.',
+      },
+    ],
+    relatedIds: ['sport-prl', 'irena-szewinska'],
+  },
+  {
+    id: 'turowicz-jerzy',
+    title: 'Jerzy Turowicz',
+    subtitle: 'Redaktor „Tygodnika Powszechnego”',
+    category: 'osoby',
+    tags: ['kościół', 'media', 'kultura', 'opozycja'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Wieloletni redaktor naczelny „Tygodnika Powszechnego”, twórca niezależnego, katolicko-liberalnego ośrodka myśli i jeden z autorytetów moralnych PRL.',
+    content: `## Sylwetka
+Jerzy Turowicz (1912–1999) był dziennikarzem i publicystą, współzałożycielem i wieloletnim redaktorem naczelnym „Tygodnika Powszechnego”, najważniejszego niezależnego pisma katolickiego.
+
+## „Tygodnik Powszechny”
+Pod jego kierownictwem od 1945 roku tygodnik stał się przestrzenią wolnej myśli, łączącą katolicyzm z otwartością intelektualną i niezależnością wobec władzy.
+
+## Opór wobec cenzury
+W 1953 roku pismo zawieszono za odmowę druku nekrologu Stalina; wznowiono je po odwilży. Turowicz konsekwentnie bronił niezależności redakcji wobec nacisków.
+
+## Środowisko
+Wokół „Tygodnika” skupiło się wybitne środowisko twórców i myślicieli; pismo współpracowało z Karolem Wojtyłą i wspierało dialog oraz opozycję demokratyczną.
+
+## Znaczenie
+Turowicz to symbol niezależnego dziennikarstwa i katolicyzmu otwartego; jego praca przez dekady podtrzymywała przestrzeń wolnego słowa w PRL.`,
+    resources: [
+      {
+        id: 'tu-1',
+        title: 'Jerzy Turowicz – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Jerzy%20Turowicz%20Tygodnik%20Powszechny%20dziennikarstwo',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o redaktorze i piśmie.',
+      },
+      {
+        id: 'tu-2',
+        title: 'Turowicz – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Jerzy+Turowicz+Tygodnik+Powszechny',
+        source: 'YouTube',
+        description: 'Materiały filmowe i archiwalne.',
+      },
+      {
+        id: 'tu-3',
+        title: 'Prasa katolicka w Polonie',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Tygodnik%20Powszechny',
+        source: 'Polona',
+        description: 'Materiały prasowe i publikacje.',
+      },
+    ],
+    relatedIds: ['tygodnik-powszechny', 'kosciol-prl', 'kik'],
+  },
+  {
+    id: 'proces-szesnastu',
+    title: 'Proces szesnastu',
+    subtitle: 'Moskiewski sąd nad Polską Podziemną (1945)',
+    category: 'represje',
+    tags: ['represje', 'Polska Podziemna', 'ZSRR', 'proces pokazowy'],
+    yearStart: 1945,
+    yearEnd: 1945,
+    summary: 'Pokazowy proces w Moskwie w 1945 roku przeciw szesnastu przywódcom Polskiego Państwa Podziemnego, podstępnie aresztowanym przez NKWD.',
+    content: `## Podstęp
+W marcu 1945 roku NKWD podstępnie aresztowało szesnastu przywódców Polskiego Państwa Podziemnego, zaproszonych na rzekome rozmowy pod gwarancją bezpieczeństwa, m.in. wicepremiera Jana Stanisława Jankowskiego i gen. Leopolda Okulickiego.
+
+## Proces w Moskwie
+Uprowadzonych przewieziono do Moskwy i w czerwcu 1945 roku osądzono w pokazowym procesie przed Kolegium Wojskowym Sądu Najwyższego ZSRR, oskarżając o działalność „antyradziecką”.
+
+## Wyroki
+Zapadły wyroki więzienia; część skazanych zmarła w sowieckich więzieniach. Proces był aktem bezprawia wobec legalnych władz Polski Podziemnej.
+
+## Wymowa
+Odbywał się w czasie, gdy na Zachodzie tworzono podporządkowany Moskwie Tymczasowy Rząd Jedności Narodowej – proces miał złamać niezależne struktury państwa polskiego.
+
+## Znaczenie
+Proces szesnastu symbolizuje sposób, w jaki ZSRR likwidował niepodległościowe elity, narzucając Polsce komunistyczną dominację.`,
+    resources: [
+      {
+        id: 'ps16-1',
+        title: 'Proces szesnastu – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=proces%20szesnastu%201945%20Moskwa%20Polskie%20Pa%C5%84stwo%20Podziemne',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o procesie i jego ofiarach.',
+      },
+      {
+        id: 'ps16-2',
+        title: 'Proces szesnastu – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=proces+szesnastu+1945+Moskwa+NKWD',
+        source: 'YouTube',
+        description: 'Materiały filmowe i dokumenty.',
+      },
+      {
+        id: 'ps16-3',
+        title: 'Dokumentacja archiwalna',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=proces%20szesnastu%201945',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['zolnierze-wykletci', 'rzad-emigracyjny', 'represje-polityczne'],
+  },
+  {
+    id: 'oblawa-augustowska',
+    title: 'Obława augustowska',
+    subtitle: '„Mały Katyń” lipca 1945',
+    category: 'represje',
+    tags: ['represje', 'zbrodnia', 'ZSRR', '1945'],
+    yearStart: 1945,
+    yearEnd: 1945,
+    summary: 'Operacja wojsk sowieckich i komunistycznych z lipca 1945 roku w rejonie Augustowa; zaginęło ok. 600 osób, których losu do dziś nie wyjaśniono.',
+    content: `## Operacja
+W lipcu 1945 roku Armia Czerwona, NKWD oraz polskie służby przeprowadziły wielką obławę na Suwalszczyźnie i Augustowszczyźnie, wymierzoną w podziemie niepodległościowe.
+
+## Zatrzymania
+Zatrzymano kilka tysięcy osób. Większość zwolniono, jednak około 600 osób uznanych za związane z podziemiem zaginęło bez śladu.
+
+## „Mały Katyń”
+Los zaginionych pozostaje niewyjaśniony – najprawdopodobniej zostali zamordowani przez Sowietów i potajemnie pogrzebani. Zbrodnię nazywa się „małym Katyniem”.
+
+## Przemilczenie
+Przez dekady PRL temat był całkowicie przemilczany. Rodziny ofiar latami bezskutecznie poszukiwały prawdy o losie bliskich.
+
+## Znaczenie
+Obława augustowska to największa niewyjaśniona zbrodnia na Polakach po II wojnie światowej i symbol sowieckiego terroru u progu rządów komunistycznych.`,
+    resources: [
+      {
+        id: 'oa-1',
+        title: 'Obława augustowska – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=ob%C5%82awa%20augustowska%201945%20ma%C5%82y%20Katy%C5%84%20zbrodnia',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o zbrodni i śledztwie.',
+      },
+      {
+        id: 'oa-2',
+        title: 'Obława augustowska – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=ob%C5%82awa+augustowska+1945+dokument',
+        source: 'YouTube',
+        description: 'Materiały filmowe i dokumenty.',
+      },
+      {
+        id: 'oa-3',
+        title: 'Dokumentacja archiwalna',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=ob%C5%82awa%20augustowska%201945',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['zolnierze-wykletci', 'represje-polityczne', 'ub'],
+  },
+  {
+    id: 'wymiana-pieniedzy-1950',
+    title: 'Reforma walutowa 1950',
+    subtitle: 'Wymiana pieniędzy, która okradła Polaków',
+    category: 'gospodarka',
+    tags: ['gospodarka', 'finanse', 'stalinizm', 'represje ekonomiczne'],
+    yearStart: 1950,
+    yearEnd: 1950,
+    summary: 'Przeprowadzona w 1950 roku wymiana pieniędzy po nierównym kursie, która de facto skonfiskowała oszczędności obywateli na rzecz państwa.',
+    content: `## Reforma
+W październiku 1950 roku władze przeprowadziły reformę walutową – wymianę starych złotych na nowe, ogłoszoną nagle, by uniemożliwić obywatelom reakcję.
+
+## Nierówny kurs
+Gotówkę wymieniano w niekorzystnym przeliczniku 100:3 (a nawet gorszym dla części środków), podczas gdy ceny i płace przeliczano korzystniej – w praktyce skonfiskowano realną wartość oszczędności.
+
+## Cel
+Reforma uderzyła zwłaszcza w prywatnych przedsiębiorców, rzemieślników i rolników, pozbawiając ich kapitału. Była elementem stalinowskiej polityki niszczenia „prywatnej inicjatywy”.
+
+## Skutki
+Obywatele stracili znaczną część zgromadzonych pieniędzy. Operacja podkopała zaufanie do państwa i pieniądza, a oszczędzanie „w skarpecie” czy w dobrach stało się powszechne.
+
+## Znaczenie
+Reforma 1950 to przykład, jak komunistyczne państwo wykorzystywało aparat finansowy jako narzędzie represji ekonomicznej wobec własnych obywateli.`,
+    resources: [
+      {
+        id: 'wp-1',
+        title: 'Reforma walutowa 1950 – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=wymiana%20pieni%C4%99dzy%201950%20reforma%20walutowa%20stalinizm',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o reformie i jej skutkach.',
+      },
+      {
+        id: 'wp-2',
+        title: 'Wymiana pieniędzy – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=reforma+walutowa+1950+wymiana+pieni%C4%99dzy+PRL',
+        source: 'YouTube',
+        description: 'Materiały filmowe i dokumenty.',
+      },
+      {
+        id: 'wp-3',
+        title: 'Dokumenty i prasa',
+        type: 'dokument',
+        url: 'https://polona.pl/search/?query=reforma%20walutowa%201950%20pieni%C4%85dz',
+        source: 'Polona',
+        description: 'Materiały prasowe i publikacje.',
+      },
+    ],
+    relatedIds: ['gospodarka-prl', 'plan-szescioletni', 'bitwa-o-handel'],
+  },
+  {
+    id: 'komiks-prl',
+    title: 'Komiks w PRL',
+    subtitle: 'Tytus, Kapitan Żbik i Kajko z Kokoszem',
+    category: 'kultura',
+    tags: ['kultura', 'komiks', 'młodzież', 'rozrywka'],
+    yearStart: 1957,
+    yearEnd: 1989,
+    summary: 'Polski komiks epoki PRL – od „Tytusa, Romka i A’Tomka” po „Kapitana Żbika” i „Kajka i Kokosza” – łączył rozrywkę, edukację, a czasem propagandę.',
+    content: `## Rozwój
+Mimo nieufności władz wobec „zachodniej” formy komiks rozwinął się w PRL, zyskując ogromną popularność wśród dzieci i młodzieży, zwłaszcza od lat 60. i 70.
+
+## Tytus, Romek i A’Tomek
+Seria Henryka Jerzego Chmielewskiego (Papcia Chmiela), tworzona od 1957 roku, z humorem i pomysłowością łączyła przygodę z edukacją; stała się klasyką polskiego komiksu.
+
+## Kapitan Żbik
+Seria o oficerze milicji „Kapitan Żbik” miała walory rozrywkowe, ale i propagandowe – budowała pozytywny wizerunek MO. Mimo to była namiętnie kolekcjonowana.
+
+## Kajko i Kokosz
+Janusz Christa stworzył słowiańską, humorystyczną serię „Kajko i Kokosz”, do dziś uwielbianą i wznawianą, wolną od politycznych podtekstów.
+
+## Znaczenie
+Komiks PRL, mimo niedoboru papieru i kontroli treści, ukształtował wyobraźnię pokoleń i pozostaje ważnym elementem popkultury epoki.`,
+    resources: [
+      {
+        id: 'ko-1',
+        title: 'Komiks PRL – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=komiks%20PRL%20Tytus%20Kapitan%20%C5%BBbik%20Kajko%20Kokosz',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o historii polskiego komiksu.',
+      },
+      {
+        id: 'ko-2',
+        title: 'Komiksy w Polonie',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=komiks%20Tytus%20Kapitan%20%C5%BBbik',
+        source: 'Polona',
+        description: 'Zdigitalizowane wydawnictwa i druki.',
+      },
+      {
+        id: 'ko-3',
+        title: 'Komiks – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=komiks+PRL+Tytus+Kapitan+%C5%BBbik+historia',
+        source: 'YouTube',
+        description: 'Materiały o komiksie PRL.',
+      },
+    ],
+    relatedIds: ['kultura-prl', 'prasa-prl', 'dzieci-prl'],
+  },
+  {
+    id: 'pax-piasecki',
+    title: 'Stowarzyszenie PAX',
+    subtitle: 'Bolesław Piasecki i „katolicy koncesjonowani”',
+    category: 'polityka',
+    tags: ['polityka', 'kościół', 'kolaboracja', 'propaganda'],
+    yearStart: 1947,
+    yearEnd: 1989,
+    summary: 'Prorządowe stowarzyszenie katolików świeckich kierowane przez Bolesława Piaseckiego, wykorzystywane przez władze do rozbijania jedności Kościoła.',
+    content: `## Geneza
+Stowarzyszenie PAX powstało na przełomie lat 40., a jego liderem był Bolesław Piasecki, przedwojenny działacz nacjonalistyczny, który po wojnie ułożył się z komunistami.
+
+## „Katolicy koncesjonowani”
+PAX prezentował się jako ruch katolików świeckich akceptujących socjalizm. Władze wykorzystywały go do osłabiania niezależnego Kościoła i tworzenia wrażenia poparcia katolików dla systemu.
+
+## Działalność
+Stowarzyszenie prowadziło wydawnictwo (Instytut Wydawniczy PAX), prasę i przedsiębiorstwa, dysponując znacznymi środkami. Jego pozycja budziła nieufność hierarchii kościelnej.
+
+## Rola polityczna
+PAX wspierał politykę władz wobec Kościoła, w tym w okresach napięć. Był narzędziem dywersji i kontroli, choć zachowywał pozory niezależności.
+
+## Znaczenie
+PAX to przykład mechanizmu „dziel i rządź” – prób rozbijania jedności katolików i instrumentalnego wykorzystywania religii przez komunistyczne państwo.`,
+    resources: [
+      {
+        id: 'px-1',
+        title: 'Stowarzyszenie PAX – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=PAX%20Boles%C5%82aw%20Piasecki%20katolicy%20koncesjonowani',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o stowarzyszeniu i jego roli.',
+      },
+      {
+        id: 'px-2',
+        title: 'PAX – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=PAX+Boles%C5%82aw+Piasecki+PRL+Ko%C5%9Bci%C3%B3%C5%82',
+        source: 'YouTube',
+        description: 'Materiały filmowe i dokumenty.',
+      },
+      {
+        id: 'px-3',
+        title: 'Dokumentacja archiwalna',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=PAX%20Piasecki%20Boles%C5%82aw',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['kosciol-prl', 'propaganda-prl', 'pzpr'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -16692,4 +17202,10 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1972, event: 'Ryszard Szurkowski wygrywa Wyścig Pokoju', category: 'społeczeństwo', entryId: 'szurkowski-ryszard' },
   { year: 1974, event: 'Premiera „Potopu” Jerzego Hoffmana według Sienkiewicza', category: 'kultura', entryId: 'hoffman-jerzy' },
   { year: 1981, event: 'Zamach na Jana Pawła II na placu św. Piotra (13 maja)', category: 'społeczeństwo', entryId: 'zamach-na-jp2' },
+  { year: 1945, event: 'Proces szesnastu w Moskwie – sąd nad przywódcami Polski Podziemnej', category: 'represje', entryId: 'proces-szesnastu' },
+  { year: 1945, event: 'Obława augustowska – „mały Katyń”, zaginięcie ok. 600 osób', category: 'represje', entryId: 'oblawa-augustowska' },
+  { year: 1950, event: 'Reforma walutowa – wymiana pieniędzy okrada oszczędności Polaków', category: 'gospodarka', entryId: 'wymiana-pieniedzy-1950' },
+  { year: 1953, event: 'Stracenie gen. Emila Fieldorfa „Nila”', category: 'represje', entryId: 'fieldorf-nil' },
+  { year: 1957, event: 'Debiut komiksu „Tytus, Romek i A’Tomek” Papcia Chmiela', category: 'kultura', entryId: 'komiks-prl' },
+  { year: 1980, event: 'Bronisław Malinowski zdobywa złoto olimpijskie w Moskwie (3000 m z przeszkodami)', category: 'społeczeństwo', entryId: 'malinowski-bronislaw' },
 ];

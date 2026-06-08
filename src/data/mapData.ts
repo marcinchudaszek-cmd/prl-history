@@ -272,4 +272,13 @@ export const mapLocations: MapLocation[] = [
     description: 'ZOMO otworzyło ogień do demonstrantów w 2. rocznicę porozumień sierpniowych – zginęły trzy osoby.',
     entryId: 'lubin-1982',
   },
+  {
+    id: 'loc-augustow',
+    name: 'Obława augustowska',
+    city: 'Augustów',
+    lon: 23.00, lat: 53.84,
+    type: 'represje', year: '1945',
+    description: '„Mały Katyń” – w obławie NKWD i komunistów zaginęło ok. 600 osób, których losu nie wyjaśniono.',
+    entryId: 'oblawa-augustowska',
+  },
 ];

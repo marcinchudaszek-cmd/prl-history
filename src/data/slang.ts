@@ -377,4 +377,31 @@ export const slangTerms: SlangTerm[] = [
     definition: 'Kartka na reglamentowaną benzynę w czasach kryzysu – limit litrów na miesiąc, bez którego nie dało się zatankować.',
     category: 'gospodarka',
   },
+  {
+    term: 'Wsypa',
+    definition: 'Dekonspiracja, wpadka – aresztowanie działacza lub odkrycie konspiracyjnej struktury przez SB.',
+    example: '„Po wsypie cała komórka trafiła do aresztu”.',
+    category: 'władza',
+  },
+  {
+    term: 'Gryps',
+    definition: 'Tajna wiadomość przemycana z więzienia lub aresztu – sposób komunikacji więźniów politycznych z wolnością.',
+    category: 'władza',
+  },
+  {
+    term: 'Bezdebit',
+    definition: 'Wydawnictwo „bez debitu”, czyli bez zgody cenzury – publikacja drugiego obiegu, formalnie nielegalna.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Fucha',
+    definition: 'Dodatkowa, dorywcza praca „na boku”, często z wykorzystaniem państwowych materiałów i czasu pracy.',
+    example: '„Po godzinach robił fuchy u prywaciarzy”.',
+    category: 'gospodarka',
+  },
+  {
+    term: 'Cynk',
+    definition: 'Poufna informacja, „dać cynk” – ostrzec lub podpowiedzieć, np. że „rzucili” towar albo że idzie kontrola.',
+    category: 'codzienność',
+  },
 ];
