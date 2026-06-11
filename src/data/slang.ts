@@ -429,4 +429,29 @@ export const slangTerms: SlangTerm[] = [
     definition: 'Dział kadr i polityka kadrowa kontrolowana przez partię – „kadry decydują o wszystkim”; o awansie często ważniejsza była lojalność niż kompetencje.',
     category: 'władza',
   },
+  {
+    term: 'Telewizor „Rubin”',
+    definition: 'Popularny model telewizora (obok „Neptuna” i „Jowisza”); kolorowy odbiornik był luksusem i przedmiotem wieloletnich oszczędności.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Adapter',
+    definition: 'Gramofon do słuchania płyt – serce domowej rozrywki i prywatek; „bambino” było kultowym, tanim modelem.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Enerdowiec',
+    definition: 'Towar (lub obywatel) z NRD; enerdowskie produkty bywały lepiej dostępne i ceniono je w handlu przygranicznym.',
+    category: 'gospodarka',
+  },
+  {
+    term: 'Ciuchy',
+    definition: 'Używana lub zachodnia odzież – „ciuchy” z Pewexu, paczek z Zachodu albo bazaru były marzeniem wobec ubogiej oferty sklepów.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Junak',
+    definition: 'Młody uczestnik brygad Powszechnej Organizacji „Służba Polsce” – kierowany do przymusowej pracy przy wielkich budowach.',
+    category: 'władza',
+  },
 ];

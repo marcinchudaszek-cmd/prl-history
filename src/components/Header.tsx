@@ -22,6 +22,7 @@ export default function Header({ onSearch, onNavigate, activeView }: HeaderProps
     { id: 'timeline', label: 'Oś czasu' },
     { id: 'map', label: 'Mapa' },
     { id: 'slang', label: 'Słownik' },
+    { id: 'press', label: 'Prasa' },
     { id: 'archives', label: 'Archiwum' },
     { id: 'about', label: 'O projekcie' },
   ];

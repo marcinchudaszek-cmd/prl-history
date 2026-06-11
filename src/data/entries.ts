@@ -17603,6 +17603,516 @@ Społeczeństwo przyjęło postawę przystosowania – „małych spraw” i pry
     ],
     relatedIds: ['gomulka', 'zycie-codzienne', 'gospodarka-prl'],
   },
+  {
+    id: 'modzelewski-karol',
+    title: 'Karol Modzelewski',
+    subtitle: 'Współautor „Listu otwartego” i twórca nazwy Solidarność',
+    category: 'osoby',
+    tags: ['opozycja', 'historyk', 'więzień polityczny'],
+    yearStart: 1964,
+    yearEnd: 1989,
+    summary: 'Historyk-mediewista i działacz opozycji, współautor (z Jackiem Kuroniem) „Listu otwartego do Partii”, wielokrotnie więziony; autor nazwy „Solidarność”.',
+    content: `## Sylwetka
+Karol Modzelewski (1937–2019) był wybitnym historykiem mediewistą oraz jednym z najważniejszych działaczy opozycji demokratycznej w PRL.
+
+## List otwarty
+W 1964 roku wraz z Jackiem Kuroniem napisał „List otwarty do Partii”, krytykujący z lewicowych pozycji biurokratyczną dyktaturę. Za tekst obaj trafili do więzienia.
+
+## Więzień systemu
+Modzelewski był więziony kilkukrotnie – po 1964, po Marcu 1968 i w stanie wojennym – spędzając w sumie wiele lat za kratami za działalność opozycyjną.
+
+## Nazwa „Solidarność”
+W 1980 roku to on zaproponował nazwę „Solidarność” dla powstającego niezależnego związku zawodowego, którą przyjęto i która przeszła do historii.
+
+## Znaczenie
+Modzelewski łączył naukę z bezkompromisową postawą obywatelską; pozostaje symbolem intelektualisty-opozycjonisty wiernego zasadom.`,
+    resources: [
+      {
+        id: 'mod-1',
+        title: 'Karol Modzelewski – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Karol%20Modzelewski%20List%20otwarty%20opozycja%20Solidarno%C5%9B%C4%87',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o działaczu i historyku.',
+      },
+      {
+        id: 'mod-2',
+        title: 'Modzelewski – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Karol+Modzelewski+opozycja+wywiad',
+        source: 'YouTube',
+        description: 'Materiały filmowe i archiwalne.',
+      },
+      {
+        id: 'mod-3',
+        title: 'Akta SB',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=Modzelewski%20Karol',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne aparatu represji.',
+      },
+    ],
+    relatedIds: ['kuron', 'marzec-1968', 'kor'],
+  },
+  {
+    id: 'stachura-edward',
+    title: 'Edward Stachura',
+    subtitle: '„Sted” – poeta-włóczęga',
+    category: 'osoby',
+    tags: ['kultura', 'literatura', 'poezja'],
+    yearStart: 1957,
+    yearEnd: 1979,
+    summary: 'Poeta i prozaik kultowy dla pokolenia, twórca legendy artysty-wędrowca; jego wiersze i piosenki („Jak”) zyskały drugie życie jako pieśni.',
+    content: `## Sylwetka
+Edward Stachura „Sted” (1937–1979) był poetą, prozaikiem i pieśniarzem, twórcą własnej, osobnej filozofii życia i jednym z najbardziej kultowych pisarzy swojego pokolenia.
+
+## Włóczęga i twórczość
+Prowadził życie wędrowca, podróżując po Polsce i świecie. Jego proza („Cała jaskrawość”, „Siekierezada”) i poezja głosiły jedność z naturą, wolność i poszukiwanie autentyczności.
+
+## Pieśni
+Wiele jego tekstów (m.in. „Jak”, „Dni, których nie znamy” – z Grechutą) stało się popularnymi piosenkami, szczególnie w środowiskach studenckich i turystycznych.
+
+## Legenda
+Tragiczna śmierć w 1979 roku ugruntowała legendę „Steda” jako artysty przeklętego i wędrowca, wiernego własnej drodze wbrew konwenansom.
+
+## Znaczenie
+Stachura pozostaje patronem nonkonformistów i poszukiwaczy wolności; jego twórczość wciąż inspiruje czytelników i muzyków.`,
+    resources: [
+      {
+        id: 'st2-1',
+        title: 'Edward Stachura – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Edward%20Stachura%20Sted%20poezja%20literatura',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o pisarzu i jego legendzie.',
+      },
+      {
+        id: 'st2-2',
+        title: 'Teksty w Wolnych Lekturach',
+        type: 'publikacja',
+        url: 'https://wolnelektury.pl/szukaj/?q=Stachura',
+        source: 'Wolne Lektury',
+        description: 'Dostępne teksty literackie.',
+      },
+      {
+        id: 'st2-3',
+        title: 'Stachura – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Edward+Stachura+piosenki+poezja+Jak',
+        source: 'YouTube',
+        description: 'Pieśni do tekstów Stachury.',
+      },
+    ],
+    relatedIds: ['literatura-prl', 'bialoszewski-miron', 'kultura-prl'],
+  },
+  {
+    id: 'kotanski-marek',
+    title: 'Marek Kotański',
+    subtitle: 'Twórca Monaru',
+    category: 'osoby',
+    tags: ['społeczeństwo', 'zdrowie', 'uzależnienia', 'lata 80.'],
+    yearStart: 1978,
+    yearEnd: 1989,
+    summary: 'Psycholog i działacz społeczny, twórca Monaru – pionierskiego systemu leczenia narkomanii, oraz ruchu pomocy ludziom wykluczonym.',
+    content: `## Sylwetka
+Marek Kotański (1942–2002) był psychologiem i charyzmatycznym działaczem społecznym, który podjął walkę z narkomanią – problemem przemilczanym przez władze PRL.
+
+## Monar
+W 1978 roku w Głoskowie założył pierwszy ośrodek dla osób uzależnionych, dając początek Monarowi (1981). Stworzył nowatorską metodę terapii opartą na wspólnocie i pracy.
+
+## Przełamanie tabu
+W realiach, w których oficjalnie „problemu narkomanii nie było”, Kotański głośno mówił o uzależnieniach, bezdomności i AIDS, łamiąc społeczne i polityczne tabu.
+
+## Ruch pomocy
+Monar rozrósł się w sieć ośrodków, a Kotański zainicjował kolejne akcje pomocy wykluczonym (m.in. Markot dla bezdomnych), stając się symbolem zaangażowania społecznego.
+
+## Znaczenie
+Kotański to pionier nowoczesnej pomocy uzależnionym i wykluczonym w Polsce; jego dzieło przetrwało epokę PRL i działa do dziś.`,
+    resources: [
+      {
+        id: 'kot-1',
+        title: 'Marek Kotański i Monar – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Marek%20Kota%C5%84ski%20Monar%20narkomania%20pomoc',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o działaczu i Monarze.',
+      },
+      {
+        id: 'kot-2',
+        title: 'Kotański – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Marek+Kota%C5%84ski+Monar+narkomania+PRL',
+        source: 'YouTube',
+        description: 'Materiały filmowe i archiwalne.',
+      },
+      {
+        id: 'kot-3',
+        title: 'Zdrowie i społeczeństwo – materiały',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=narkomania%20uzale%C5%BCnienia%20Monar',
+        source: 'Polona',
+        description: 'Publikacje i materiały.',
+      },
+    ],
+    relatedIds: ['sluzba-zdrowia-prl', 'alkohol-prl', 'zycie-codzienne'],
+  },
+  {
+    id: 'krzywonos-henryka',
+    title: 'Henryka Krzywonos',
+    subtitle: 'Motornicza, która zatrzymała tramwaj',
+    category: 'osoby',
+    tags: ['opozycja', 'solidarność', 'sierpień 1980', 'kobiety'],
+    yearStart: 1980,
+    yearEnd: 1989,
+    summary: 'Gdańska motornicza, której gest zatrzymania tramwaju i apel pomogły podtrzymać strajk sierpniowy 1980 – jedna z sygnatariuszek Porozumień Gdańskich.',
+    content: `## Sylwetka
+Henryka Krzywonos (ur. 1953) była motorniczą w Gdańsku, która w sierpniu 1980 roku odegrała ważną rolę w strajku, stając się jego symbolem.
+
+## Zatrzymanie tramwaju
+15 sierpnia 1980 roku zatrzymała prowadzony przez siebie tramwaj, przyłączając komunikację miejską do strajku i wzmacniając protest w całym mieście.
+
+## „Nie wolno się dać”
+Gdy w Stoczni Gdańskiej rozważano zakończenie strajku po spełnieniu postulatów ekonomicznych, Krzywonos wraz z innymi przekonała robotników do strajku solidarnościowego w obronie innych zakładów.
+
+## Porozumienia Gdańskie
+Weszła w skład Prezydium Międzyzakładowego Komitetu Strajkowego i była jedną z sygnatariuszy Porozumień Gdańskich z 31 sierpnia 1980 roku.
+
+## Znaczenie
+Henryka Krzywonos to symbol roli zwykłych ludzi i kobiet w narodzinach Solidarności oraz determinacji, która przesądziła o sukcesie sierpniowego strajku.`,
+    resources: [
+      {
+        id: 'kr-1',
+        title: 'Henryka Krzywonos – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Henryka%20Krzywonos%20Solidarno%C5%9B%C4%87%20sierpie%C5%84%201980%20strajk',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o działaczce i strajku.',
+      },
+      {
+        id: 'kr-2',
+        title: 'Krzywonos – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Henryka+Krzywonos+sierpie%C5%84+1980+Solidarno%C5%9B%C4%87',
+        source: 'YouTube',
+        description: 'Materiały filmowe i archiwalne.',
+      },
+      {
+        id: 'kr-3',
+        title: 'Dokumentacja ECS',
+        type: 'akt',
+        url: 'https://szukajwarchiwach.gov.pl/szukaj?q=Henryka%20Krzywonos%20Solidarno%C5%9B%C4%87',
+        source: 'Szukaj w Archiwach',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['sierpien-1980', 'stocznia-gdanska', 'walentynowicz'],
+  },
+  {
+    id: 'sluzba-polsce',
+    title: 'Powszechna Organizacja „Służba Polsce”',
+    subtitle: 'Przymusowe brygady pracy młodzieży',
+    category: 'represje',
+    tags: ['represje', 'młodzież', 'praca przymusowa', 'stalinizm'],
+    yearStart: 1948,
+    yearEnd: 1955,
+    summary: 'Masowa organizacja z lat 1948–1955, w ramach której młodzież kierowano do przymusowej pracy fizycznej i indoktrynacji w junackich brygadach.',
+    content: `## Geneza
+Powszechną Organizację „Służba Polsce” (SP) powołano w 1948 roku, by zmobilizować młodzież do pracy przy wielkich inwestycjach planu sześcioletniego i poddać ją ideologicznemu wychowaniu.
+
+## Brygady junackie
+Młodzież – „junaków” – kierowano do brygad pracy przy budowach, kopalniach, melioracji czy Nowej Hucie. Praca była ciężka, a warunki często bardzo trudne.
+
+## Przymus i indoktrynacja
+Udział bywał faktycznie przymusowy; obok pracy prowadzono szkolenie wojskowe i intensywną indoktrynację w duchu stalinowskim, łącząc „wychowanie” z eksploatacją.
+
+## Represyjny charakter
+Dla części młodzieży, zwłaszcza o „niewłaściwym” pochodzeniu, brygady SP były formą represji i taniej siły roboczej, zbliżonej do pracy przymusowej.
+
+## Znaczenie
+„Służba Polsce” to przykład militaryzacji i wyzysku młodego pokolenia w okresie stalinizmu; organizację rozwiązano po odwilży, w 1955 roku.`,
+    resources: [
+      {
+        id: 'sp-1',
+        title: 'Służba Polsce – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=S%C5%82u%C5%BCba%20Polsce%20junacy%20brygady%20pracy%20m%C5%82odzie%C5%BC',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o organizacji i brygadach.',
+      },
+      {
+        id: 'sp-2',
+        title: 'Służba Polsce – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=S%C5%82u%C5%BCba+Polsce+junacy+brygady+PRL',
+        source: 'YouTube',
+        description: 'Archiwalne materiały filmowe.',
+      },
+      {
+        id: 'sp-3',
+        title: 'Fotografie i druki',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=S%C5%82u%C5%BCba%20Polsce%20junacy%20brygady',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne i propagandowe.',
+      },
+    ],
+    relatedIds: ['zmp', 'edukacja-prl', 'represje-polityczne'],
+  },
+  {
+    id: 'ursus-zaklady',
+    title: 'Zakłady Mechaniczne Ursus',
+    subtitle: 'Polskie traktory i robotniczy bunt',
+    category: 'gospodarka',
+    tags: ['gospodarka', 'przemysł', 'rolnictwo', 'robotnicy'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Wielka fabryka ciągników pod Warszawą – symbol mechanizacji rolnictwa, a zarazem ośrodek robotniczych protestów, m.in. w czerwcu 1976.',
+    content: `## Fabryka ciągników
+Zakłady Mechaniczne Ursus pod Warszawą były głównym producentem ciągników w PRL. Traktory „Ursus” stały się symbolem mechanizacji polskiego rolnictwa.
+
+## Skala i znaczenie
+Fabryka zatrudniała tysiące robotników i była jednym z filarów przemysłu maszynowego. Ciągniki Ursus eksportowano także za granicę.
+
+## Czerwiec 1976
+Ursus zapisał się w historii oporu: w czerwcu 1976 roku, w proteście przeciw podwyżkom cen, robotnicy zablokowali i rozkręcili tory kolejowe, zatrzymując ruch pociągów.
+
+## Represje
+Po proteście nastąpiły brutalne represje – zwolnienia, pobicia („ścieżki zdrowia”) i procesy. Pomoc represjonowanym współtworzyła grunt pod powstanie KOR.
+
+## Znaczenie
+Ursus łączy historię przemysłu PRL z historią robotniczego oporu – od dumy z produkcji po bunt przeciw systemowi.`,
+    resources: [
+      {
+        id: 'ur-1',
+        title: 'Zakłady Ursus – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Ursus%20zak%C5%82ady%20ci%C4%85gniki%20czerwiec%201976%20robotnicy',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o fabryce i proteście.',
+      },
+      {
+        id: 'ur-2',
+        title: 'Ursus – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Ursus+ci%C4%85gniki+fabryka+PRL+czerwiec+1976',
+        source: 'YouTube',
+        description: 'Archiwalne materiały filmowe.',
+      },
+      {
+        id: 'ur-3',
+        title: 'Fotografie przemysłu',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=Ursus%20ci%C4%85gnik%20fabryka',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne.',
+      },
+    ],
+    relatedIds: ['czerwiec-1976', 'gospodarka-prl', 'motoryzacja-prl'],
+  },
+  {
+    id: 'zagluszanie-radia',
+    title: 'Zagłuszanie Radia Wolna Europa',
+    subtitle: 'Wojna w eterze',
+    category: 'represje',
+    tags: ['represje', 'media', 'propaganda', 'cenzura'],
+    yearStart: 1952,
+    yearEnd: 1988,
+    summary: 'Prowadzona przez władze PRL akcja celowego zakłócania audycji Radia Wolna Europa i innych rozgłośni zachodnich, by odciąć Polaków od niezależnych informacji.',
+    content: `## Wojna w eterze
+Od początku lat 50. władze PRL prowadziły systematyczne zagłuszanie zachodnich rozgłośni, przede wszystkim Radia Wolna Europa, nadającego po polsku z Monachium.
+
+## Technika
+Budowano sieć specjalnych stacji zagłuszających, emitujących szum i hałas na częstotliwościach RWE. Mimo to determinacja słuchaczy pozwalała „złapać” audycje, zwłaszcza wieczorem i poza miastami.
+
+## Koszty
+Zagłuszanie pochłaniało ogromne środki i energię. Była to kosztowna, lecz priorytetowa dla władz walka o monopol informacyjny.
+
+## Skuteczność i opór
+Mimo zakłóceń RWE docierało do milionów Polaków, informując o wydarzeniach przemilczanych w kraju. Słuchanie „Wolnej Europy” stało się formą cichego oporu.
+
+## Znaczenie
+Zagłuszanie symbolizuje walkę systemu o kontrolę nad informacją; zaprzestano go ostatecznie pod koniec lat 80., u schyłku PRL.`,
+    resources: [
+      {
+        id: 'zr-1',
+        title: 'Zagłuszanie RWE – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=zag%C5%82uszanie%20Radio%20Wolna%20Europa%20eter%20cenzura',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o zagłuszaniu i wojnie w eterze.',
+      },
+      {
+        id: 'zr-2',
+        title: 'Wojna w eterze – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=zag%C5%82uszanie+Radio+Wolna+Europa+PRL',
+        source: 'YouTube',
+        description: 'Materiały filmowe i archiwalne.',
+      },
+      {
+        id: 'zr-3',
+        title: 'Dokumentacja archiwalna',
+        type: 'akt',
+        url: 'https://inwentarz.ipn.gov.pl/szukaj?fraza=zag%C5%82uszanie%20radia%20Wolna%20Europa',
+        source: 'Inwentarz IPN',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['radio-wolna-europa', 'propaganda-prl', 'radio-prl'],
+  },
+  {
+    id: 'telewizja-kolorowa',
+    title: 'Telewizja kolorowa w PRL',
+    subtitle: 'Świat w kolorze od 1971 roku',
+    category: 'społeczeństwo',
+    tags: ['społeczeństwo', 'telewizja', 'technika', 'życie codzienne'],
+    yearStart: 1971,
+    yearEnd: 1989,
+    summary: 'Wprowadzenie nadawania w kolorze (system SECAM) w 1971 roku; kolorowy telewizor stał się jednak na długo luksusem i przedmiotem marzeń.',
+    content: `## Start nadawania
+Polska Telewizja rozpoczęła regularne nadawanie w kolorze w 1971 roku, w systemie SECAM (zgodnym z blokiem wschodnim), co było technologicznym wydarzeniem epoki.
+
+## Luksusowy odbiornik
+Kolorowe telewizory – krajowe (np. „Rubin”, „Jowisz”) i importowane – były drogie i deficytowe. Przez lata pozostawały oznaką statusu i przedmiotem wieloletnich oszczędności.
+
+## Życie wokół telewizora
+Telewizja organizowała życie rodzin: wspólne oglądanie Dziennika, seriali, transmisji sportowych i „Wieczorynki”. Kolorowy odbiornik był marzeniem wielu gospodarstw.
+
+## Treści
+Mimo nowoczesnej formy treść pozostawała pod kontrolą – obok rozrywki i kultury dominowała propaganda, zwłaszcza w programach informacyjnych.
+
+## Znaczenie
+Kolorowa telewizja symbolizuje napięcie między technologicznymi ambicjami PRL a realiami niedoboru, w których nowoczesność była luksusem dla nielicznych.`,
+    resources: [
+      {
+        id: 'tk-1',
+        title: 'Telewizja kolorowa – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=telewizja%20kolorowa%20SECAM%201971%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o wprowadzeniu koloru.',
+      },
+      {
+        id: 'tk-2',
+        title: 'Telewizja PRL – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=telewizja+kolorowa+PRL+Rubin+odbiornik',
+        source: 'YouTube',
+        description: 'Archiwalne materiały filmowe.',
+      },
+      {
+        id: 'tk-3',
+        title: 'Fotografie i reklamy',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=telewizor%20kolorowy%20Rubin%20reklama',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne i reklamowe.',
+      },
+    ],
+    relatedIds: ['telewizja-prl', 'tvp-prl', 'zycie-codzienne'],
+  },
+  {
+    id: 'stocznia-szczecinska',
+    title: 'Stocznia Szczecińska',
+    subtitle: 'im. Adolfa Warskiego – kuźnia protestów',
+    category: 'opozycja',
+    tags: ['opozycja', 'robotnicy', 'Szczecin', 'strajki'],
+    yearStart: 1970,
+    yearEnd: 1989,
+    summary: 'Wielka stocznia w Szczecinie, obok gdańskiej najważniejszy ośrodek robotniczych protestów – w grudniu 1970 i w sierpniu 1980 roku.',
+    content: `## Wielki zakład
+Stocznia Szczecińska im. Adolfa Warskiego była jedną z największych stoczni w Polsce, zatrudniającą tysiące robotników i budującą statki na eksport.
+
+## Grudzień 1970
+W grudniu 1970 roku stała się jednym z głównych ośrodków robotniczego buntu na Wybrzeżu. Strajki i starcia spacyfikowano, a wśród ofiar grudnia byli także szczecinianie.
+
+## Sierpień 1980
+W sierpniu 1980 roku w Stoczni Szczecińskiej wybuchł wielki strajk, zakończony jednym z trzech porozumień sierpniowych – Porozumieniem Szczecińskim (30 sierpnia).
+
+## Marian Jurczyk
+Symbolem szczecińskiego strajku stał się Marian Jurczyk, przywódca Międzyzakładowego Komitetu Strajkowego, sygnatariusz porozumienia.
+
+## Znaczenie
+Stocznia Szczecińska, obok Gdańskiej, to symbol robotniczego oporu i kolebka Solidarności na Pomorzu Zachodnim.`,
+    resources: [
+      {
+        id: 'ssz-1',
+        title: 'Stocznia Szczecińska – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Stocznia%20Szczeci%C5%84ska%20Warski%201970%201980%20strajk',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o strajkach i porozumieniu.',
+      },
+      {
+        id: 'ssz-2',
+        title: 'Stocznia Szczecińska – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Stocznia+Szczeci%C5%84ska+strajk+1980+Jurczyk',
+        source: 'YouTube',
+        description: 'Materiały filmowe i archiwalne.',
+      },
+      {
+        id: 'ssz-3',
+        title: 'Dokumentacja archiwalna',
+        type: 'akt',
+        url: 'https://szukajwarchiwach.gov.pl/szukaj?q=Stocznia%20Szczeci%C5%84ska%20strajk',
+        source: 'Szukaj w Archiwach',
+        description: 'Materiały archiwalne.',
+      },
+    ],
+    relatedIds: ['grudzien-1970', 'sierpien-1980', 'stocznia-gdanska'],
+  },
+  {
+    id: 'domy-kultury',
+    title: 'Domy kultury i świetlice',
+    subtitle: 'Kultura „pod kontrolą” blisko ludzi',
+    category: 'kultura',
+    tags: ['kultura', 'społeczeństwo', 'edukacja', 'życie codzienne'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Sieć domów kultury, świetlic i klubów – masowa infrastruktura upowszechniania kultury, łącząca realną ofertę zajęć z funkcją ideologiczną.',
+    content: `## Powszechna sieć
+W PRL zbudowano gęstą sieć domów kultury, świetlic, klubów (m.in. „Ruch”, zakładowych, wiejskich) – instytucji mających „upowszechniać kulturę” wśród mas.
+
+## Oferta
+Działały tam kółka zainteresowań, zespoły taneczne i muzyczne, chóry, sekcje fotograficzne, biblioteki, kino objazdowe i zajęcia dla dzieci. Dla wielu była to realna szansa kontaktu z kulturą.
+
+## Funkcja ideologiczna
+Obok autentycznej działalności domy kultury pełniły rolę „pracy oświatowej” – organizowano akademie, prelekcje i imprezy o charakterze propagandowym.
+
+## Życie lokalne
+W małych miejscowościach dom kultury bywał centrum życia towarzyskiego – miejscem zabaw, dyskotek, prywatek i spotkań pokoleń.
+
+## Znaczenie
+Domy kultury i świetlice to ważny, ambiwalentny element PRL: realnie demokratyzowały dostęp do kultury, służąc zarazem jako narzędzie wychowania ideologicznego.`,
+    resources: [
+      {
+        id: 'dk-1',
+        title: 'Domy kultury – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=domy%20kultury%20%C5%9Bwietlice%20upowszechnianie%20kultury%20PRL',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o instytucjach kultury.',
+      },
+      {
+        id: 'dk-2',
+        title: 'Domy kultury – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=dom+kultury+%C5%9Bwietlica+PRL+zaj%C4%99cia',
+        source: 'YouTube',
+        description: 'Archiwalne materiały filmowe.',
+      },
+      {
+        id: 'dk-3',
+        title: 'Fotografie i druki',
+        type: 'zdjęcie',
+        url: 'https://polona.pl/search/?query=dom%20kultury%20%C5%9Bwietlica%20PRL',
+        source: 'Polona',
+        description: 'Materiały ikonograficzne.',
+      },
+    ],
+    relatedIds: ['kultura-prl', 'edukacja-prl', 'zycie-codzienne'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -17761,4 +18271,10 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1965, event: 'Premiera filmu „Salto” Tadeusza Konwickiego', category: 'kultura', entryId: 'konwicki-tadeusz' },
   { year: 1968, event: 'Zdjęcie „Dziadów” Kazimierza Dejmka zapala Marzec \'68', category: 'kultura', entryId: 'dejmek-kazimierz' },
   { year: 1972, event: 'Reprezentacja Kazimierza Górskiego mistrzem olimpijskim w Monachium', category: 'społeczeństwo', entryId: 'gorski-kazimierz' },
+  { year: 1948, event: 'Powstaje Powszechna Organizacja „Służba Polsce” – brygady pracy młodzieży', category: 'represje', entryId: 'sluzba-polsce' },
+  { year: 1952, event: 'Władze rozbudowują system zagłuszania Radia Wolna Europa', category: 'represje', entryId: 'zagluszanie-radia' },
+  { year: 1971, event: 'Polska Telewizja rozpoczyna regularne nadawanie w kolorze', category: 'społeczeństwo', entryId: 'telewizja-kolorowa' },
+  { year: 1978, event: 'Marek Kotański zakłada pierwszy ośrodek Monaru – walka z narkomanią', category: 'społeczeństwo', entryId: 'kotanski-marek' },
+  { year: 1980, event: 'Porozumienie Szczecińskie kończy strajk w Stoczni Szczecińskiej', category: 'opozycja', entryId: 'stocznia-szczecinska' },
+  { year: 1980, event: 'Henryka Krzywonos przyłącza komunikację do sierpniowego strajku', category: 'opozycja', entryId: 'krzywonos-henryka' },
 ];

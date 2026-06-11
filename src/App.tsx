@@ -10,9 +10,10 @@ import AboutPage from './components/AboutPage';
 import MapPage from './components/MapPage';
 import SlangPage from './components/SlangPage';
 import BiosPage from './components/BiosPage';
+import PressPage from './components/PressPage';
 import type { Category } from './data/entries';
 
-type View = 'home' | 'encyclopedia' | 'entry' | 'timeline' | 'archives' | 'about' | 'map' | 'slang' | 'bios';
+type View = 'home' | 'encyclopedia' | 'entry' | 'timeline' | 'archives' | 'about' | 'map' | 'slang' | 'bios' | 'press';
 
 export default function App() {
   const [view, setView] = useState<View>('home');
@@ -67,6 +68,8 @@ export default function App() {
         return <SlangPage onNavigate={handleNavigate} />;
       case 'bios':
         return <BiosPage onNavigate={handleNavigate} />;
+      case 'press':
+        return <PressPage onNavigate={handleNavigate} />;
       default:
         return <HomePage onNavigate={handleNavigate} onNavigateWithCategory={handleNavigateWithCategory} />;
     }
