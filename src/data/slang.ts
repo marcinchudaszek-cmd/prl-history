@@ -454,4 +454,29 @@ export const slangTerms: SlangTerm[] = [
     definition: 'Młody uczestnik brygad Powszechnej Organizacji „Służba Polsce” – kierowany do przymusowej pracy przy wielkich budowach.',
     category: 'władza',
   },
+  {
+    term: 'Kobieta pracująca',
+    definition: 'Postać Ireny Kwiatkowskiej z „Czterdziestolatka”, która „żadnej pracy się nie boi” – do dziś synonim osoby imającej się każdego zajęcia.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Relaks',
+    definition: 'Kultowe sportowe buty „Relaksy” – kolorowe, ocieplane obuwie zimowe, obiekt pożądania w latach 80.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Frania',
+    definition: 'Popularna pralka wirnikowa – symbol domowej „mechanizacji” i marzeń wyposażeniowych polskich gospodarstw.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Meblościanka',
+    definition: 'Segmentowy zestaw mebli na całą ścianę – obowiązkowy element urządzonego mieszkania w bloku, kupowany na talon lub „spod lady”.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Zsyp',
+    definition: 'Pion zsypowy na śmieci w blokach z wielkiej płyty – nowinka cywilizacyjna osiedli, dziś symbol blokowisk epoki.',
+    category: 'codzienność',
+  },
 ];

@@ -18113,6 +18113,516 @@ Domy kultury i świetlice to ważny, ambiwalentny element PRL: realnie demokraty
     ],
     relatedIds: ['kultura-prl', 'edukacja-prl', 'zycie-codzienne'],
   },
+  {
+    id: 'anna-jantar',
+    title: 'Anna Jantar',
+    subtitle: '„Najpiękniejsza z gwiazd” polskiej estrady',
+    category: 'osoby',
+    tags: ['kultura', 'muzyka', 'estrada', 'lata 70.', 'kobiety'],
+    yearStart: 1969,
+    yearEnd: 1980,
+    summary: 'Uwielbiana piosenkarka lat 70., wykonawczyni „Tyle słońca w całym mieście” i „Nic nie może wiecznie trwać”; zginęła w katastrofie lotniczej na Okęciu w 1980 roku.',
+    content: `## Sylwetka
+Anna Jantar (1950–1980) była jedną z najpopularniejszych i najbardziej lubianych piosenkarek polskiej estrady lat 70., obdarzoną ciepłym, charakterystycznym głosem.
+
+## Przeboje
+Jej największe przeboje to „Tyle słońca w całym mieście”, „Najtrudniejszy pierwszy krok” i „Nic nie może wiecznie trwać” (nagrane z Budką Suflera). Piosenki te śpiewała cała Polska.
+
+## Kariera
+Występowała na festiwalach w Opolu i Sopocie, koncertowała dla Polonii w USA i Europie. Prywatnie była żoną kompozytora Jarosława Kukulskiego i matką przyszłej piosenkarki Natalii Kukulskiej.
+
+## Katastrofa na Okęciu
+14 marca 1980 roku zginęła w katastrofie samolotu Ił-62 „Mikołaj Kopernik” podczas podejścia do lądowania na Okęciu, wracając z koncertów w USA. Zginęło 87 osób.
+
+## Pamięć
+Jej śmierć wstrząsnęła Polską, a pogrzeb zgromadził tłumy. Proroczy tytuł ostatniego wielkiego przeboju uczynił ją legendą; jej piosenki są wykonywane do dziś.`,
+    resources: [
+      {
+        id: 'aj-yt',
+        title: 'Anna Jantar – „Nic nie może wiecznie trwać” (teledysk 1979)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Ee_BrGA0Q0E',
+        source: 'YouTube',
+        description: 'Ostatni wielki przebój artystki, nagrany z Budką Suflera.',
+      },
+      {
+        id: 'aj-1',
+        title: 'Anna Jantar – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Anna+Jantar+Tyle+s%C5%82o%C5%84ca+w+ca%C5%82ym+mie%C5%9Bcie',
+        source: 'YouTube',
+        description: 'Przeboje i występy artystki.',
+      },
+      {
+        id: 'aj-2',
+        title: 'Anna Jantar – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Anna%20Jantar%20piosenkarka%20katastrofa%20Ok%C4%99cie',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o artystce i katastrofie 1980.',
+      },
+    ],
+    relatedIds: ['budka-suflera', 'festiwal-opole', 'maryla-rodowicz'],
+  },
+  {
+    id: 'czterdziestolatek',
+    title: 'Czterdziestolatek',
+    subtitle: 'Inżynier Karwowski i „kobieta pracująca”',
+    category: 'kultura',
+    tags: ['telewizja', 'serial', 'lata 70.', 'komedia'],
+    yearStart: 1975,
+    yearEnd: 1977,
+    summary: 'Kultowy serial komediowy o inżynierze Stefanie Karwowskim – celny, ciepły portret codzienności dekady Gierka.',
+    content: `## Serial
+„Czterdziestolatek” (1975–1977), w reżyserii Jerzego Gruzy, opowiadał o perypetiach inżyniera Stefana Karwowskiego (Andrzej Kopiczyński), który właśnie skończył 40 lat.
+
+## Portret epoki
+Serial z humorem pokazywał realia dekady Gierka: wielkie budowy (Trasa Łazienkowska, Dworzec Centralny), absurdy biurokracji, kolejki, talony i aspiracje klasy średniej PRL.
+
+## „Kobieta pracująca”
+Niezapomnianą postacią była „kobieta pracująca” (Irena Kwiatkowska), która „żadnej pracy się nie boi” – w każdym odcinku w innym zawodzie. Jej kwestie weszły do języka potocznego.
+
+## Obsada
+Obok Kopiczyńskiego i Kwiatkowskiej grali m.in. Anna Seniuk (żona Madzia), Leonard Pietraszak (doktor Stelmach) i Roman Kłosowski.
+
+## Znaczenie
+„Czterdziestolatek” to jeden z najlepszych seriali PRL – komedia, która dziś jest też bezcennym dokumentem obyczajowym epoki.`,
+    resources: [
+      {
+        id: 'cz40-1',
+        title: 'Czterdziestolatek – o serialu',
+        type: 'film',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Czterdziestolatek',
+        source: 'FilmPolski.pl',
+        description: 'Informacje o serialu i twórcach.',
+      },
+      {
+        id: 'cz40-2',
+        title: 'Czterdziestolatek – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Czterdziestolatek+serial+Karwowski+kobieta+pracuj%C4%85ca',
+        source: 'YouTube',
+        description: 'Fragmenty i sceny z serialu.',
+      },
+      {
+        id: 'cz40-3',
+        title: 'Serial w VOD TVP',
+        type: 'nagranie',
+        url: 'https://vod.tvp.pl/szukaj?query=Czterdziestolatek',
+        source: 'VOD TVP',
+        description: 'Odcinki serialu online.',
+      },
+    ],
+    relatedIds: ['seriale-prl', 'telewizja-prl', 'gierek', 'kwiatkowska-irena'],
+  },
+  {
+    id: '07-zglos-sie',
+    title: '07 zgłoś się',
+    subtitle: 'Porucznik Borewicz na tropie',
+    category: 'kultura',
+    tags: ['telewizja', 'serial', 'kryminał', 'lata 70.', 'lata 80.'],
+    yearStart: 1976,
+    yearEnd: 1987,
+    summary: 'Najpopularniejszy serial kryminalny PRL z porucznikiem Sławomirem Borewiczem (Bronisław Cieślak) – milicyjny kryminał z drugim dnem obyczajowym.',
+    content: `## Serial
+„07 zgłoś się” (1976–1987), w reżyserii Krzysztofa Szmagiera, opowiadał o śledztwach porucznika MO Sławomira Borewicza, granego przez Bronisława Cieślaka.
+
+## Borewicz
+Ironiczny, nonszalancki i nieugięty Borewicz stał się najsłynniejszym milicjantem polskiej popkultury – bohaterem przewrotnym, bo budującym sympatię do munduru, którego społeczeństwo nie kochało.
+
+## Kryminał i obyczaj
+Serial łączył intrygi kryminalne z portretem ciemniejszych stron PRL: afer, przemytu, marginesu społecznego i prywatnych dramatów – na ile pozwalała cenzura.
+
+## Propaganda i popularność
+Choć serial ocieplał wizerunek milicji, widzowie cenili go za sprawną fabułę, humor i charyzmę Cieślaka. Powiedzonka Borewicza weszły do języka.
+
+## Znaczenie
+„07 zgłoś się” to klasyk polskiego kryminału telewizyjnego i ważny, ambiwalentny dokument epoki – rozrywka spleciona z funkcją propagandową.`,
+    resources: [
+      {
+        id: '07-1',
+        title: '07 zgłoś się – o serialu',
+        type: 'film',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=07%20zg%C5%82o%C5%9B%20si%C4%99',
+        source: 'FilmPolski.pl',
+        description: 'Informacje o serialu i obsadzie.',
+      },
+      {
+        id: '07-2',
+        title: '07 zgłoś się – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=07+zg%C5%82o%C5%9B+si%C4%99+Borewicz+serial',
+        source: 'YouTube',
+        description: 'Fragmenty i sceny z serialu.',
+      },
+      {
+        id: '07-3',
+        title: 'Serial w VOD TVP',
+        type: 'nagranie',
+        url: 'https://vod.tvp.pl/szukaj?query=07%20zg%C5%82o%C5%9B%20si%C4%99',
+        source: 'VOD TVP',
+        description: 'Odcinki serialu online.',
+      },
+    ],
+    relatedIds: ['seriale-prl', 'milicja', 'telewizja-prl'],
+  },
+  {
+    id: 'sonda-program',
+    title: 'Sonda',
+    subtitle: 'Kurek i Kamiński popularyzują naukę',
+    category: 'kultura',
+    tags: ['telewizja', 'nauka', 'edukacja', 'lata 70.', 'lata 80.'],
+    yearStart: 1977,
+    yearEnd: 1989,
+    summary: 'Kultowy program popularnonaukowy Zdzisława Kamińskiego i Andrzeja Kurka, który przystępnie i z humorem tłumaczył naukę i technikę.',
+    content: `## Program
+„Sonda” (od 1977) była telewizyjnym programem popularnonaukowym prowadzonym przez Zdzisława Kamińskiego i Andrzeja Kurka, emitowanym co tydzień przez ponad dekadę.
+
+## Formuła
+Prowadzący w formie dialogu – sceptyka i entuzjasty – tłumaczyli zagadnienia nauki i techniki: od kosmosu i komputerów po energetykę i biologię, z pokazami i efektami w studiu.
+
+## Fenomen
+Program przyciągał miliony widzów i rozbudzał naukowe pasje pokoleń. Charakterystyczna czołówka i muzyka elektroniczna stały się znakiem rozpoznawczym.
+
+## Tragiczny koniec
+Emisję przerwała tragiczna śmierć obu prowadzących w wypadku samochodowym w 1989 roku, w drodze na nagranie programu. Polska straciła najlepszych popularyzatorów nauki.
+
+## Znaczenie
+„Sonda” pozostaje wzorem telewizji popularnonaukowej – dowodem, że w PRL potrafiono robić światowej klasy edukacyjną telewizję.`,
+    resources: [
+      {
+        id: 'son-1',
+        title: 'Sonda – odcinki i fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Sonda+program+Kurek+Kami%C5%84ski',
+        source: 'YouTube',
+        description: 'Archiwalne odcinki programu.',
+      },
+      {
+        id: 'son-2',
+        title: 'Sonda – o programie',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Sonda%20program%20popularnonaukowy%20telewizja',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Materiały o programie i prowadzących.',
+      },
+      {
+        id: 'son-3',
+        title: 'Program w VOD TVP',
+        type: 'nagranie',
+        url: 'https://vod.tvp.pl/szukaj?query=Sonda',
+        source: 'VOD TVP',
+        description: 'Materiały telewizyjne.',
+      },
+    ],
+    relatedIds: ['telewizja-prl', 'nauka-prl', 'teleranek'],
+  },
+  {
+    id: 'kutz-kazimierz',
+    title: 'Kazimierz Kutz',
+    subtitle: 'Piewca Śląska',
+    category: 'osoby',
+    tags: ['kultura', 'film', 'reżyser', 'Śląsk'],
+    yearStart: 1959,
+    yearEnd: 1989,
+    summary: 'Reżyser filmowy i teatralny, twórca śląskiego tryptyku („Sól ziemi czarnej”, „Perła w koronie”, „Paciorki jednego różańca”) – epickiego portretu Górnego Śląska.',
+    content: `## Sylwetka
+Kazimierz Kutz (1929–2018), rodowity Ślązak z Szopienic, był reżyserem filmowym, teatralnym i telewizyjnym, który wprowadził Górny Śląsk do wielkiej sztuki.
+
+## Tryptyk śląski
+Jego najsłynniejsze dzieła to „Sól ziemi czarnej” (1969) o powstaniach śląskich, „Perła w koronie” (1971) o strajku górników i „Paciorki jednego różańca” (1979) o godności starego górnika.
+
+## Język filmowy
+Kutz stworzył własny, malarski styl – epicki i liryczny zarazem, czerpiący z śląskiego pejzażu, obyczaju i etosu pracy. Dał Ślązakom głos i godność na ekranie.
+
+## Teatr i telewizja
+Reżyserował także w Teatrze Telewizji, tworząc wybitne spektakle. Po 1989 roku angażował się również w życie publiczne.
+
+## Znaczenie
+Kutz to klasyk polskiego kina i najważniejszy artystyczny ambasador Śląska – regionu, którego tożsamość uczynił tematem uniwersalnym.`,
+    resources: [
+      {
+        id: 'kutz-1',
+        title: 'Kazimierz Kutz – biogram',
+        type: 'film',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Kazimierz%20Kutz',
+        source: 'FilmPolski.pl',
+        description: 'Filmografia i informacje o reżyserze.',
+      },
+      {
+        id: 'kutz-2',
+        title: 'Kutz – fragmenty filmów',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Kazimierz+Kutz+S%C3%B3l+ziemi+czarnej+Per%C5%82a+w+koronie',
+        source: 'YouTube',
+        description: 'Fragmenty tryptyku śląskiego.',
+      },
+      {
+        id: 'kutz-3',
+        title: 'Kino w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Kazimierz%20Kutz%20film',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały filmowe.',
+      },
+    ],
+    relatedIds: ['kino-prl', 'gornictwo-prl', 'polska-szkola-filmowa'],
+  },
+  {
+    id: 'lubanski-gornik',
+    title: 'Włodzimierz Lubański i Górnik Zabrze',
+    subtitle: 'Złota era śląskiego futbolu',
+    category: 'kultura',
+    tags: ['sport', 'piłka nożna', 'Śląsk', 'lata 60.', 'lata 70.'],
+    yearStart: 1963,
+    yearEnd: 1980,
+    summary: 'Najskuteczniejszy strzelec w historii reprezentacji i jego Górnik Zabrze – wielokrotny mistrz Polski i finalista europejskiego pucharu w 1970 roku.',
+    content: `## Górnik Zabrze
+Górnik Zabrze był najsilniejszym polskim klubem lat 60. – zdobywał mistrzostwo Polski wielokrotnie z rzędu, a jego mecze gromadziły dziesiątki tysięcy kibiców.
+
+## Finał 1970
+Największym sukcesem klubu był finał Pucharu Zdobywców Pucharów w 1970 roku (porażka z Manchesterem City) – pierwszy europejski finał polskiej drużyny klubowej.
+
+## Włodzimierz Lubański
+Gwiazdą Górnika był Włodzimierz Lubański (ur. 1947) – fenomenalny napastnik, najmłodszy debiutant i przez dekady najskuteczniejszy strzelec reprezentacji Polski (48 goli).
+
+## Kontuzja
+Ciężka kontuzja w meczu z Anglią (1973) wykluczyła go z mundialu 1974. Mimo to wrócił do gry i występował z powodzeniem w Belgii.
+
+## Znaczenie
+Lubański i Górnik to symbol złotej ery śląskiego futbolu – fundamentu, na którym wyrosły sukcesy reprezentacji w latach 70.`,
+    resources: [
+      {
+        id: 'lub2-1',
+        title: 'Lubański i Górnik – archiwalia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=W%C5%82odzimierz+Luba%C5%84ski+G%C3%B3rnik+Zabrze+gole',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania meczów.',
+      },
+      {
+        id: 'lub2-2',
+        title: 'Górnik Zabrze – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=G%C3%B3rnik%20Zabrze%20Luba%C5%84ski%20pi%C5%82ka%20no%C5%BCna',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o klubie i piłkarzu.',
+      },
+      {
+        id: 'lub2-3',
+        title: 'Sport w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=pi%C5%82ka%20no%C5%BCna%20G%C3%B3rnik%20Zabrze',
+        source: 'Ninateka',
+        description: 'Materiały filmowe o sporcie.',
+      },
+    ],
+    relatedIds: ['mundial-1974', 'sport-prl', 'gorski-kazimierz'],
+  },
+  {
+    id: 'proces-wankowicza',
+    title: 'Proces Melchiora Wańkowicza',
+    subtitle: 'Pisarz przed sądem PRL (1964)',
+    category: 'represje',
+    tags: ['represje', 'literatura', 'cenzura', 'proces'],
+    yearStart: 1964,
+    yearEnd: 1964,
+    summary: 'Proces 72-letniego pisarza, sygnatariusza Listu 34, oskarżonego o „szkalowanie PRL” za tekst wysłany do Radia Wolna Europa.',
+    content: `## Tło
+Melchior Wańkowicz (1892–1974), znakomity reportażysta i autor „Bitwy o Monte Cassino”, podpisał w 1964 roku List 34 przeciw cenzurze.
+
+## Aresztowanie
+W odwecie władze aresztowały 72-letniego pisarza, zarzucając mu przekazanie za granicę (m.in. do RWE) tekstu „szkalującego” Polskę Ludową.
+
+## Proces
+Proces w 1964 roku stał się głośnym wydarzeniem – sądzenie sędziwego, zasłużonego pisarza kompromitowało władze w kraju i za granicą. Wańkowicz bronił się odważnie i błyskotliwie.
+
+## Wyrok
+Skazano go na 3 lata więzienia (złagodzone), lecz kary nie wykonano. Sprawa pokazała, że władze gotowe są represjonować nawet najwybitniejszych twórców.
+
+## Znaczenie
+Proces Wańkowicza to symbol zderzenia niezależnej literatury z cenzurą i jeden z głośnych procesów politycznych lat 60., który wzmocnił opór środowisk twórczych.`,
+    resources: [
+      {
+        id: 'wan-1',
+        title: 'Proces Wańkowicza – materiały IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Melchior%20Wa%C5%84kowicz%20proces%201964%20List%2034',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o pisarzu i procesie.',
+      },
+      {
+        id: 'wan-2',
+        title: 'Wańkowicz – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Melchior+Wa%C5%84kowicz+pisarz+proces',
+        source: 'YouTube',
+        description: 'Materiały filmowe i archiwalne.',
+      },
+      {
+        id: 'wan-3',
+        title: 'Teksty w Polonie',
+        type: 'publikacja',
+        url: 'https://polona.pl/search/?query=Melchior%20Wa%C5%84kowicz',
+        source: 'Polona',
+        description: 'Publikacje i wydania.',
+      },
+    ],
+    relatedIds: ['list-34', 'cenzura-prl', 'radio-wolna-europa'],
+  },
+  {
+    id: 'ciszewski-jan',
+    title: 'Jan Ciszewski',
+    subtitle: 'Głos polskiego sportu',
+    category: 'osoby',
+    tags: ['sport', 'telewizja', 'media', 'lata 70.'],
+    yearStart: 1955,
+    yearEnd: 1982,
+    summary: 'Legendarny komentator sportowy, którego emocjonalne relacje z meczów „Orłów Górskiego” współtworzyły wielkie chwile polskiego sportu.',
+    content: `## Sylwetka
+Jan Ciszewski (1930–1982) był najsłynniejszym komentatorem sportowym PRL, związanym z Telewizją Polską, głosem największych wydarzeń sportowych epoki.
+
+## Styl
+Jego komentarz był pełen emocji, erudycji i charakterystycznych fraz. Potrafił zamienić transmisję w narodowe przeżycie, a jego głos znała cała Polska.
+
+## Wielkie chwile
+Komentował m.in. mecze reprezentacji Górskiego – w tym słynny „mecz na Wembley” (1973) i mundial 1974 – a także sukcesy siatkarzy, bokserów i lekkoatletów.
+
+## Wembley 1973
+Jego relacja z remisu 1:1 z Anglią na Wembley, który dał Polsce awans na mundial, przeszła do legendy polskiego dziennikarstwa sportowego.
+
+## Znaczenie
+Ciszewski ustanowił wzorzec komentarza sportowego; dla pokoleń kibiców jego głos jest nieodłączną ścieżką dźwiękową złotej ery polskiego sportu.`,
+    resources: [
+      {
+        id: 'cisz-1',
+        title: 'Jan Ciszewski – archiwalia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Jan+Ciszewski+komentarz+Wembley+1973',
+        source: 'YouTube',
+        description: 'Archiwalne fragmenty komentarzy.',
+      },
+      {
+        id: 'cisz-2',
+        title: 'Ciszewski – materiały',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Jan%20Ciszewski%20komentator%20sportowy%20telewizja',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Artykuły o dziennikarzu.',
+      },
+      {
+        id: 'cisz-3',
+        title: 'Sport w VOD TVP',
+        type: 'nagranie',
+        url: 'https://vod.tvp.pl/szukaj?query=Jan%20Ciszewski',
+        source: 'VOD TVP',
+        description: 'Materiały telewizyjne.',
+      },
+    ],
+    relatedIds: ['mundial-1974', 'gorski-kazimierz', 'telewizja-prl'],
+  },
+  {
+    id: 'kwiatkowska-irena',
+    title: 'Irena Kwiatkowska',
+    subtitle: '„Kobieta pracująca” polskiej sceny',
+    category: 'osoby',
+    tags: ['kultura', 'teatr', 'telewizja', 'aktorka', 'kobiety'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Wybitna aktorka komediowa, gwiazda Kabaretu Starszych Panów i „Czterdziestolatka”, mistrzyni słowa i komedii charakterystycznej.',
+    content: `## Sylwetka
+Irena Kwiatkowska (1912–2011) była aktorką teatralną, kabaretową i telewizyjną, jedną z najwybitniejszych komediowych osobowości polskiej sceny.
+
+## Kabaret Starszych Panów
+W telewizyjnym Kabarecie Starszych Panów stworzyła niezapomniane kreacje i interpretacje piosenek Przybory i Wasowskiego („Herkulesy”, „Shimmy szuja”).
+
+## „Kobieta pracująca”
+Pokoleniom widzów wryła się w pamięć jako „kobieta pracująca” z „Czterdziestolatka” – w każdym odcinku w innym zawodzie, z kultową frazą „żadna praca mi nie straszna”.
+
+## Mistrzostwo słowa
+Słynęła z perfekcyjnej dykcji i interpretacji – znakomicie mówiła wiersze (m.in. Tuwima i Brzechwę dla dzieci), łącząc precyzję z komizmem.
+
+## Znaczenie
+Kwiatkowska to legenda polskiej komedii – aktorka, której energia i profesjonalizm pozostają wzorem; pracowała na scenie niemal do setnych urodzin.`,
+    resources: [
+      {
+        id: 'kw-1',
+        title: 'Irena Kwiatkowska – biogram',
+        type: 'film',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Irena%20Kwiatkowska',
+        source: 'FilmPolski.pl',
+        description: 'Filmografia i informacje o aktorce.',
+      },
+      {
+        id: 'kw-2',
+        title: 'Kwiatkowska – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Irena+Kwiatkowska+kobieta+pracuj%C4%85ca+Kabaret+Starszych+Pan%C3%B3w',
+        source: 'YouTube',
+        description: 'Kreacje kabaretowe i serialowe.',
+      },
+      {
+        id: 'kw-3',
+        title: 'Kabaret w Ninatece',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/vod/szukaj?query=Irena%20Kwiatkowska',
+        source: 'Ninateka',
+        description: 'Archiwalne materiały.',
+      },
+    ],
+    relatedIds: ['kabaret-starszych-panow', 'czterdziestolatek', 'teatr-prl'],
+  },
+  {
+    id: 'niewidzialna-reka',
+    title: 'Niewidzialna Ręka',
+    subtitle: 'Telewizyjna szkoła dobrych uczynków',
+    category: 'społeczeństwo',
+    tags: ['telewizja', 'dzieci', 'społeczeństwo', 'wychowanie'],
+    yearStart: 1957,
+    yearEnd: 1985,
+    summary: 'Telewizyjna akcja zachęcająca dzieci do anonimowych dobrych uczynków – fenomen wychowawczy, który ukształtował pokolenia „niewidzialnorękowiczów”.',
+    content: `## Idea
+„Niewidzialna Ręka” to akcja telewizyjna zapoczątkowana w końcu lat 50. (związana z programem dla młodych widzów), zachęcająca dzieci do anonimowego pomagania innym.
+
+## Zasady
+Uczestnicy wykonywali dobre uczynki – naprawiali płoty, nosili węgiel starszym, pomagali chorym – nie ujawniając się; zostawiali jedynie znak „Niewidzialnej Ręki”.
+
+## Fenomen
+Do akcji włączyły się setki tysięcy dzieci w całej Polsce. Relacje i listy pokazywano w telewizji, a idea bezinteresownej pomocy zyskała ogromny zasięg.
+
+## Kontekst
+Choć akcja działała w ramach oficjalnej telewizji, jej przesłanie – bezinteresowna dobroć bez rozgłosu – wykraczało poza ideologię i budowało realne postawy.
+
+## Znaczenie
+„Niewidzialna Ręka” to jeden z najjaśniejszych fenomenów wychowawczych epoki PRL, wspominany z sympatią przez pokolenia uczestników.`,
+    resources: [
+      {
+        id: 'nr-1',
+        title: 'Niewidzialna Ręka – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Niewidzialna+R%C4%99ka+akcja+telewizja+dzieci',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o akcji.',
+      },
+      {
+        id: 'nr-2',
+        title: 'Akcja – wspomnienia i artykuły',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/search?szukaj=Niewidzialna%20R%C4%99ka%20telewizja%20wychowanie%20dzieci',
+        source: 'Przystanek Historia (IPN)',
+        description: 'Materiały o akcji i jej fenomenie.',
+      },
+      {
+        id: 'nr-3',
+        title: 'Programy dla dzieci w VOD TVP',
+        type: 'nagranie',
+        url: 'https://vod.tvp.pl/szukaj?query=Niewidzialna%20r%C4%99ka',
+        source: 'VOD TVP',
+        description: 'Materiały telewizyjne.',
+      },
+    ],
+    relatedIds: ['teleranek', 'dzieci-prl', 'telewizja-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -18277,4 +18787,10 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1978, event: 'Marek Kotański zakłada pierwszy ośrodek Monaru – walka z narkomanią', category: 'społeczeństwo', entryId: 'kotanski-marek' },
   { year: 1980, event: 'Porozumienie Szczecińskie kończy strajk w Stoczni Szczecińskiej', category: 'opozycja', entryId: 'stocznia-szczecinska' },
   { year: 1980, event: 'Henryka Krzywonos przyłącza komunikację do sierpniowego strajku', category: 'opozycja', entryId: 'krzywonos-henryka' },
+  { year: 1963, event: 'Debiut Włodzimierza Lubańskiego w Górniku Zabrze', category: 'społeczeństwo', entryId: 'lubanski-gornik' },
+  { year: 1964, event: 'Proces Melchiora Wańkowicza za tekst dla Radia Wolna Europa', category: 'represje', entryId: 'proces-wankowicza' },
+  { year: 1973, event: '„Mecz na Wembley” – remis z Anglią daje awans na mundial (komentuje Jan Ciszewski)', category: 'społeczeństwo', entryId: 'ciszewski-jan' },
+  { year: 1975, event: 'Premiera serialu „Czterdziestolatek” Jerzego Gruzy', category: 'kultura', entryId: 'czterdziestolatek' },
+  { year: 1977, event: 'Start programu popularnonaukowego „Sonda”', category: 'kultura', entryId: 'sonda-program' },
+  { year: 1980, event: 'Katastrofa na Okęciu – ginie m.in. Anna Jantar (14 marca)', category: 'społeczeństwo', entryId: 'anna-jantar' },
 ];
