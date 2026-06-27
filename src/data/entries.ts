@@ -18482,6 +18482,518 @@ Choć akcja działała w ramach oficjalnej telewizji, jej przesłanie – bezint
     ],
     relatedIds: ['teleranek', 'dzieci-prl', 'telewizja-prl'],
   },
+  {
+    id: 'bajm-zespol',
+    title: 'Bajm',
+    subtitle: 'Beata Kozidrak i pop-rock lat 80.',
+    category: 'kultura',
+    tags: ['muzyka', 'pop-rock', 'lata 80.', 'kobiety'],
+    yearStart: 1978,
+    yearEnd: 1989,
+    summary: 'Jeden z najpopularniejszych zespołów pop-rockowych, z charyzmatyczną wokalistką Beatą Kozidrak, autor przebojów „Józek” i „Piechotą do lata”.',
+    content: `## Powstanie
+Bajm powstał pod koniec lat 70. w Lublinie. Liderką i wokalistką została Beata Kozidrak, obdarzona mocnym, rozpoznawalnym głosem, współautorka większości przebojów.
+
+## Debiut
+Zespół zwypłynął na festiwalu w Opolu, a debiutancki album „Józek, nie daruję ci tej nocy” (1983) przyniósł ogromną popularność, z tytułowym przebojem na czele.
+
+## Przeboje
+Do największych hitów dekady należą „Józek”, „Piechotą do lata”, „Co mi, Panie, dasz”. Bajm łączył melodyjny pop z rockowym pazurem, podbijając listy przebojów.
+
+## Pozycja
+Beata Kozidrak stała się jedną z najważniejszych wokalistek polskiej sceny, a Bajm – jednym z nielicznych zespołów z kobietą-liderką na czołowej pozycji.
+
+## Znaczenie
+Bajm to klasyk polskiego popu i rocka; jego przeboje z lat 80. pozostają do dziś rozpoznawalne i chętnie wykonywane.`,
+    resources: [
+      {
+        id: 'bajm-yt',
+        title: 'Bajm – „Józek nie daruję ci tej nocy” (1983)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=YdDFGal_ktU',
+        source: 'YouTube',
+        description: 'Tytułowy przebój debiutanckiego albumu.',
+      },
+      {
+        id: 'bajm-1',
+        title: 'Bajm – nagrania i koncerty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Bajm+Beata+Kozidrak+koncert+lata+80',
+        source: 'YouTube',
+        description: 'Występy i teledyski zespołu.',
+      },
+      {
+        id: 'bajm-2',
+        title: 'Bajm – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Bajm%20zesp%C3%B3%C5%82%20Kozidrak&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o zespole.',
+      },
+    ],
+    relatedIds: ['rock-lat-80', 'lady-pank', 'maryla-rodowicz'],
+  },
+  {
+    id: 'kombi-zespol',
+    title: 'Kombi',
+    subtitle: 'Synthpop Sławomira Łosowskiego',
+    category: 'kultura',
+    tags: ['muzyka', 'synthpop', 'rock', 'lata 80.'],
+    yearStart: 1976,
+    yearEnd: 1989,
+    summary: 'Pionierski zespół muzyki elektronicznej i synthpopu w Polsce, kierowany przez Sławomira Łosowskiego, autor przeboju „Słodkiego miłego życia”.',
+    content: `## Powstanie
+Kombi (wcześniej Akcenty) ukształtowało się w Gdańsku, a jego liderem i twórcą brzmienia był klawiszowiec Sławomir Łosowski.
+
+## Brzmienie
+Zespół jako jeden z pierwszych w Polsce postawił na syntezatory i elektroniczne aranżacje, tworząc nowoczesny, taneczny synthpop wyróżniający się na tle rockowej sceny.
+
+## Przeboje
+Największe hity to „Słodkiego miłego życia”, „Czas relaksu”, „Pokolenie” i „Black and white”. Utwory te były stałym elementem Listy Przebojów Programu Trzeciego.
+
+## Nowoczesność
+Kombi wnosiło do polskiej muzyki estetykę zachodniego new romantic i electro-popu, co czyniło je zespołem nowatorskim w realiach PRL.
+
+## Znaczenie
+Kombi to prekursor polskiej muzyki elektronicznej; jego przeboje pozostają symbolem brzmienia lat 80.`,
+    resources: [
+      {
+        id: 'kombi-yt',
+        title: 'Kombi – „Słodkiego miłego życia”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=YMsQ5izhIDo',
+        source: 'YouTube',
+        description: 'Największy przebój zespołu i klasyk synthpopu.',
+      },
+      {
+        id: 'kombi-1',
+        title: 'Kombi – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Kombi+%C5%81osowski+koncert+lata+80',
+        source: 'YouTube',
+        description: 'Występy i teledyski zespołu.',
+      },
+      {
+        id: 'kombi-2',
+        title: 'Kombi – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Kombi%20zesp%C3%B3%C5%82%20%C5%81osowski&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o zespole.',
+      },
+    ],
+    relatedIds: ['rock-lat-80', 'lista-przebojow-trojki', 'muzyka-rockowa-prl'],
+  },
+  {
+    id: 'brygada-kryzys',
+    title: 'Brygada Kryzys',
+    subtitle: 'Supergrupa nowej fali i punka',
+    category: 'kultura',
+    tags: ['muzyka', 'punk', 'nowa fala', 'lata 80.'],
+    yearStart: 1981,
+    yearEnd: 1982,
+    summary: 'Kultowa supergrupa nowofalowo-punkowa Roberta Brylewskiego i Tomasza Lipińskiego, autorka legendarnego „Czarnego albumu” (1982).',
+    content: `## Powstanie
+Brygada Kryzys powstała w 1981 roku z połączenia muzyków zespołów Kryzys i Tilt. Jej filarami byli Robert Brylewski i Tomasz Lipiński – czołowe postacie polskiej sceny niezależnej.
+
+## „Czarny album”
+Wydany w 1982 roku album (zwany „Czarnym albumem”) stał się jednym z najważniejszych dzieł polskiej nowej fali i punka, z utworami jak „Centrala” i „Too Much”.
+
+## Bunt
+Muzyka i teksty zespołu wyrażały bunt, niepokój i sprzeciw wobec szarej rzeczywistości schyłku PRL. Brygada była ikoną warszawskiej sceny niezależnej.
+
+## Krótko, lecz mocno
+Zespół działał krótko, lecz wywarł ogromny wpływ. Brylewski i Lipiński kontynuowali kariery (Izrael, reggae, kolejne projekty), pozostając legendami undergroundu.
+
+## Znaczenie
+Brygada Kryzys to symbol polskiej nowej fali – muzyki ambitnej, niezależnej i kontestacyjnej, inspirującej kolejne pokolenia.`,
+    resources: [
+      {
+        id: 'bk-yt',
+        title: 'Brygada Kryzys – „Centrala” (Czarny album, 1982)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=5u5548AMXTI',
+        source: 'YouTube',
+        description: 'Sztandarowy utwór nowofalowej supergrupy.',
+      },
+      {
+        id: 'bk-1',
+        title: 'Brygada Kryzys – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Brygada+Kryzys+Brylewski+Lipi%C5%84ski',
+        source: 'YouTube',
+        description: 'Nagrania i materiały o zespole.',
+      },
+      {
+        id: 'bk-2',
+        title: 'Brygada Kryzys – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Brygada%20Kryzys%20zesp%C3%B3%C5%82&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o zespole.',
+      },
+    ],
+    relatedIds: ['punk-prl', 'jarocin-festiwal', 'kult-zespol'],
+  },
+  {
+    id: 'mundial-1982',
+    title: 'Mundial 1982',
+    subtitle: 'Trzecie miejsce i gол Bońka',
+    category: 'społeczeństwo',
+    tags: ['sport', 'piłka nożna', 'lata 80.', 'reprezentacja'],
+    yearStart: 1982,
+    yearEnd: 1982,
+    summary: 'Reprezentacja Polski po raz drugi zajęła 3. miejsce na mistrzostwach świata (Hiszpania 1982), z Zbigniewem Bońkiem jako gwiazdą turnieju.',
+    content: `## Powtórka sukcesu
+Na mistrzostwach świata w Hiszpanii w 1982 roku reprezentacja Polski, prowadzona przez Antoniego Piechniczka, powtórzyła wyczyn z 1974 roku, zajmując 3. miejsce.
+
+## Zbigniew Boniek
+Gwiazdą turnieju był Zbigniew Boniek, autor m.in. hat-tricka w meczu z Belgią. Jego forma przyniosła mu wkrótce transfer do Juventusu Turyn.
+
+## Droga do podium
+Polacy awansowali z grupy, pokonali ZSRR/Belgię i dotarli do półfinału, gdzie ulegli Włochom (bez zawieszonego za kartki Bońka). W meczu o 3. miejsce pokonali Francję 3:2.
+
+## Kontekst stanu wojennego
+Sukces przyszedł w ponurym okresie stanu wojennego i był dla Polaków źródłem rzadkiej radości oraz narodowej dumy.
+
+## Znaczenie
+Mundial 1982, obok 1974, to szczyt osiągnięć polskiej piłki; pokolenie Bońka, Laty i Smolarka zapisało się w historii sportu.`,
+    resources: [
+      {
+        id: 'm82-yt',
+        title: 'Mundial 1982 – Polska, gole Bońka',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=reprezentacja+Polski+mundial+1982+Hiszpania+Boniek+Belgia',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania z mistrzostw.',
+      },
+      {
+        id: 'm82-1',
+        title: 'Mundial 1982 – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Mistrzostwa%20%C5%9Awiata%201982%20reprezentacja%20Polski&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Opracowania o turnieju.',
+      },
+      {
+        id: 'm82-2',
+        title: 'Reprezentacja 1982 – fotografie',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Poland%20national%20football%20team%201982&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Zdjęcia archiwalne.',
+      },
+    ],
+    relatedIds: ['mundial-1974', 'boniek-zbigniew', 'sport-prl'],
+  },
+  {
+    id: 'boniek-zbigniew',
+    title: 'Zbigniew Boniek',
+    subtitle: 'Gwiazda mundialu 1982',
+    category: 'osoby',
+    tags: ['sport', 'piłka nożna', 'lata 80.', 'reprezentacja'],
+    yearStart: 1976,
+    yearEnd: 1989,
+    summary: 'Jeden z najwybitniejszych polskich piłkarzy, gwiazda mundialu 1982 i Juventusu Turyn, z którym zdobył Puchar Europy.',
+    content: `## Sylwetka
+Zbigniew Boniek (ur. 1956) to jeden z najwybitniejszych polskich piłkarzy w historii – wszechstronny, szybki napastnik i ofensywny pomocnik o znakomitym wykończeniu akcji.
+
+## Widzew i reprezentacja
+Karierę rozwinął w Widzewie Łódź, z którym odnosił sukcesy ligowe i europejskie. W reprezentacji błyszczał na mundialach 1978 i przede wszystkim 1982.
+
+## Mundial 1982
+Na mistrzostwach w Hiszpanii był gwiazdą turnieju, m.in. z hat-trickiem w meczu z Belgią, co przesądziło o jego transferze do najlepszych klubów Europy.
+
+## Juventus
+W Juventusie Turyn („Bello di notte” – „piękny nocą”, od świetnej gry w europejskich pucharach) zdobył m.in. Puchar Europy w 1985 roku, grając u boku Platiniego.
+
+## Znaczenie
+Boniek to ikona polskiej piłki, jeden z nielicznych Polaków, którzy osiągnęli sukcesy na najwyższym światowym poziomie klubowym.`,
+    resources: [
+      {
+        id: 'bon-fp',
+        title: 'Zbigniew Boniek – biogram',
+        type: 'film',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Zbigniew%20Boniek',
+        source: 'FilmPolski.pl',
+        description: 'Informacje i materiały o piłkarzu.',
+      },
+      {
+        id: 'bon-yt',
+        title: 'Zbigniew Boniek – bramki i mecze',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Zbigniew+Boniek+mundial+1982+Juventus+gole',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania.',
+      },
+      {
+        id: 'bon-1',
+        title: 'Zbigniew Boniek – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Zbigniew%20Boniek%20pi%C5%82karz&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania.',
+      },
+    ],
+    relatedIds: ['mundial-1982', 'mundial-1974', 'sport-prl'],
+  },
+  {
+    id: 'olbrychski-daniel',
+    title: 'Daniel Olbrychski',
+    subtitle: 'Gwiazdor polskiego kina',
+    category: 'osoby',
+    tags: ['kultura', 'film', 'aktor'],
+    yearStart: 1964,
+    yearEnd: 1989,
+    summary: 'Jeden z najwybitniejszych polskich aktorów, gwiazda filmów Wajdy i Hoffmana, m.in. Kmicic w „Potopie” i role w „Weselu” i „Ziemi obiecanej”.',
+    content: `## Sylwetka
+Daniel Olbrychski (ur. 1945) to jeden z najsłynniejszych polskich aktorów, obdarzony charyzmą i sceniczną energią, gwiazda kina od lat 60.
+
+## Wajda
+Stworzył pamiętne role w filmach Andrzeja Wajdy – „Popioły”, „Wesele”, „Ziemia obiecana”, „Brzezina” – stając się jednym z ulubionych aktorów reżysera.
+
+## Kmicic
+Rolą, która przyniosła mu masową popularność, był Andrzej Kmicic w „Potopie” (1974) Jerzego Hoffmana – brawurowa kreacja, która uczyniła go bohaterem wyobraźni widzów.
+
+## Międzynarodowa kariera
+Grał także w produkcjach zagranicznych, współpracując z wybitnymi reżyserami światowego kina, co czyniło go jednym z nielicznych polskich aktorów rozpoznawalnych za granicą.
+
+## Znaczenie
+Olbrychski to ikona polskiego kina, łączący role kostiumowe, współczesne i charakterystyczne; jego kreacje należą do kanonu rodzimej kinematografii.`,
+    resources: [
+      {
+        id: 'olb-fp',
+        title: 'Daniel Olbrychski – biogram',
+        type: 'film',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Daniel%20Olbrychski',
+        source: 'FilmPolski.pl',
+        description: 'Filmografia i informacje o aktorze.',
+      },
+      {
+        id: 'olb-yt',
+        title: 'Daniel Olbrychski – role i fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Daniel+Olbrychski+Potop+Wesele+Ziemia+obiecana',
+        source: 'YouTube',
+        description: 'Fragmenty filmów.',
+      },
+      {
+        id: 'olb-1',
+        title: 'Daniel Olbrychski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Daniel%20Olbrychski%20aktor&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania.',
+      },
+    ],
+    relatedIds: ['kino-prl', 'wajda', 'hoffman-jerzy'],
+  },
+  {
+    id: 'holland-agnieszka',
+    title: 'Agnieszka Holland',
+    subtitle: 'Reżyserka kina moralnego niepokoju',
+    category: 'osoby',
+    tags: ['kultura', 'film', 'reżyser', 'kobiety'],
+    yearStart: 1977,
+    yearEnd: 1989,
+    summary: 'Wybitna reżyserka, współtwórczyni kina moralnego niepokoju („Aktorzy prowincjonalni”), która po stanie wojennym kontynuowała światową karierę.',
+    content: `## Sylwetka
+Agnieszka Holland (ur. 1948), absolwentka praskiej FAMU, to jedna z najwybitniejszych polskich reżyserek o międzynarodowej renomie.
+
+## Kino moralnego niepokoju
+Jej filmy z przełomu lat 70. i 80. – „Aktorzy prowincjonalni” (1979, nagroda w Cannes) i „Gorączka” – należą do nurtu kina moralnego niepokoju, demaskującego konformizm i zakłamanie.
+
+## Współpraca z Wajdą
+Współpracowała z Andrzejem Wajdą jako scenarzystka (m.in. „Człowiek z żelaza”, „Danton”), łącząc twórczość reżyserską z pisarską.
+
+## Emigracja
+Stan wojenny zastał ją za granicą; pozostała na emigracji i rozwinęła światową karierę, realizując filmy nagradzane na największych festiwalach i nominowane do Oscara.
+
+## Znaczenie
+Holland to jedna z najważniejszych postaci polskiego i europejskiego kina, łącząca zaangażowanie moralne z mistrzostwem warsztatu.`,
+    resources: [
+      {
+        id: 'hol-fp',
+        title: 'Agnieszka Holland – biogram',
+        type: 'film',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Agnieszka%20Holland',
+        source: 'FilmPolski.pl',
+        description: 'Filmografia i informacje o reżyserce.',
+      },
+      {
+        id: 'hol-yt',
+        title: 'Agnieszka Holland – filmy',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Agnieszka+Holland+Aktorzy+prowincjonalni+Gor%C4%85czka',
+        source: 'YouTube',
+        description: 'Fragmenty filmów i materiały.',
+      },
+      {
+        id: 'hol-1',
+        title: 'Agnieszka Holland – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Agnieszka%20Holland%20re%C5%BCyserka&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania.',
+      },
+    ],
+    relatedIds: ['kino-moralnego-niepokoju', 'wajda', 'kino-prl'],
+  },
+  {
+    id: 'baranczak-stanislaw',
+    title: 'Stanisław Barańczak',
+    subtitle: 'Poeta Nowej Fali i tłumacz',
+    category: 'osoby',
+    tags: ['kultura', 'literatura', 'poezja', 'opozycja'],
+    yearStart: 1965,
+    yearEnd: 1989,
+    summary: 'Wybitny poeta pokolenia Nowej Fali, tłumacz i działacz opozycji, współzałożyciel KOR, autor poezji lingwistycznej i przekładów Szekspira.',
+    content: `## Sylwetka
+Stanisław Barańczak (1946–2014) był poetą, krytykiem literackim i genialnym tłumaczem, jednym z czołowych przedstawicieli pokolenia Nowej Fali.
+
+## Nowa Fala
+W poezji debiutował w nurcie Nowej Fali (pokolenia '68), demaskując nowomowę i manipulację języka propagandy. Jego wiersze łączyły zaangażowanie z wirtuozerią formy.
+
+## Opozycja
+Był współzałożycielem KOR (1976) i działaczem opozycji; objęty zakazem druku, publikował w drugim obiegu, co przypłacił szykanami i utratą pracy na uczelni.
+
+## Tłumacz
+Na emigracji (od 1981, profesor Harvardu) stworzył wybitne przekłady – Szekspira, poetów metafizycznych, Brodskiego – uznawane za arcydzieła sztuki translatorskiej.
+
+## Znaczenie
+Barańczak to jeden z najważniejszych polskich poetów i tłumaczy XX wieku, symbol łączenia literatury z postawą obywatelską.`,
+    resources: [
+      {
+        id: 'bar2-1',
+        title: 'Stanisław Barańczak – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Stanis%C5%82aw%20Bara%C5%84czak%20poeta&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o poecie.',
+      },
+      {
+        id: 'bar2-yt',
+        title: 'Stanisław Barańczak – poezja i wywiady',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Stanis%C5%82aw+Bara%C5%84czak+poezja+Nowa+Fala',
+        source: 'YouTube',
+        description: 'Materiały filmowe i archiwalne.',
+      },
+      {
+        id: 'bar2-2',
+        title: 'Stanisław Barańczak – materiały',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Stanis%C5%82aw%20Bara%C5%84czak&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Materiały ikonograficzne.',
+      },
+    ],
+    relatedIds: ['literatura-prl', 'kor', 'rozewicz-tadeusz'],
+  },
+  {
+    id: 'ogrodki-dzialkowe',
+    title: 'Ogródki działkowe',
+    subtitle: 'Własny skrawek ziemi w PRL',
+    category: 'społeczeństwo',
+    tags: ['życie codzienne', 'społeczeństwo', 'rekreacja'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Pracownicze ogrody działkowe – masowy fenomen PRL, dający mieszkańcom blokowisk własny skrawek ziemi na warzywa, owoce i wypoczynek.',
+    content: `## Fenomen
+Ogrody działkowe (Pracownicze Ogrody Działkowe) stały się w PRL masowym zjawiskiem – niewielkie działki na obrzeżach miast dawały mieszkańcom ciasnych mieszkań własny kawałek ziemi.
+
+## Funkcja
+Działka łączyła funkcje praktyczne i rekreacyjne: uprawiano warzywa i owoce (ważne w gospodarce niedoboru), hodowano kwiaty, a w altanie spędzano wolny czas i weekendy.
+
+## Organizacja
+Ogrody przydzielano przez zakłady pracy i związki działkowców. Posiadanie działki było cenione, a listy oczekujących bywały długie.
+
+## Kultura działkowa
+Wokół działek wytworzyła się specyficzna kultura – konkursy na najpiękniejszą działkę, altanki z odzysku, sąsiedzkie życie towarzyskie i niedzielne grillowanie.
+
+## Znaczenie
+Ogródki działkowe to trwały element pejzażu i obyczajowości PRL, a wiele z nich istnieje do dziś, świadcząc o tej tradycji.`,
+    resources: [
+      {
+        id: 'ogr-1',
+        title: 'Ogrody działkowe – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=rodzinne%20ogrody%20dzia%C5%82kowe%20Polska&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o ogrodach działkowych.',
+      },
+      {
+        id: 'ogr-yt',
+        title: 'Ogródki działkowe – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=ogr%C3%B3dki+dzia%C5%82kowe+PRL+dzia%C5%82ka+altana',
+        source: 'YouTube',
+        description: 'Archiwalne materiały filmowe.',
+      },
+      {
+        id: 'ogr-2',
+        title: 'Ogrody działkowe – fotografie',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=ogr%C3%B3d%20dzia%C5%82kowy%20altana%20Polska&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Zdjęcia ogrodów i altan.',
+      },
+    ],
+    relatedIds: ['zycie-codzienne', 'mieszkania-prl', 'wczasy-fwp'],
+  },
+  {
+    id: 'syrena-samochod',
+    title: 'Syrena (FSO)',
+    subtitle: 'Pierwszy „ludowy” samochód',
+    category: 'gospodarka',
+    tags: ['gospodarka', 'motoryzacja', 'przemysł'],
+    yearStart: 1957,
+    yearEnd: 1983,
+    summary: 'Pierwszy polski powojenny samochód osobowy produkowany seryjnie (1957–1983) – skromny, dwusuwowy, lecz kultowy pojazd epoki.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/FSO%20Syrena%20103.JPG?width=800',
+    imageCaption: 'FSO Syrena 103 – polski samochód osobowy produkcji z lat 60.',
+    content: `## Polski samochód
+Syrena była pierwszym polskim powojennym samochodem osobowym produkowanym seryjnie. Prototyp powstał w 1953 roku, a produkcję rozpoczęto w 1957 w FSO na warszawskim Żeraniu.
+
+## Konstrukcja
+Napędzana głośnym, dymiącym silnikiem dwusuwowym, o nadwoziu samonośnym, Syrena była konstrukcją skromną i prostą w naprawie – „zrób to sam” było częścią jej legendy.
+
+## Modele
+Kolejne wersje (100, 101, 102, 103, 104 i najpopularniejsza 105) produkowano do 1972 w FSO, a następnie w FSM w Bielsku-Białej do 1983 roku.
+
+## Marzenie i kłopot
+W realiach niedoboru Syrena była upragnionym dobrem, choć awaryjnym; obok Fiata 126p stała się symbolem motoryzacji PRL i przedmiotem licznych dowcipów.
+
+## Znaczenie
+Syrena to ikona polskiej myśli technicznej epoki – świadectwo ambicji własnej motoryzacji i zarazem ograniczeń gospodarki centralnie planowanej.`,
+    resources: [
+      {
+        id: 'syr-1',
+        title: 'Syrena (FSO) – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=FSO%20Syrena%20samoch%C3%B3d&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o samochodzie.',
+      },
+      {
+        id: 'syr-yt',
+        title: 'Syrena – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=FSO+Syrena+samoch%C3%B3d+PRL',
+        source: 'YouTube',
+        description: 'Archiwalne materiały filmowe i reklamy.',
+      },
+      {
+        id: 'syr-2',
+        title: 'Syrena – fotografie',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=FSO%20Syrena&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Zdjęcia samochodu.',
+      },
+    ],
+    relatedIds: ['motoryzacja-prl', 'fiat-126p', 'fso-polonez'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -18652,4 +19164,10 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1975, event: 'Premiera serialu „Czterdziestolatek” Jerzego Gruzy', category: 'kultura', entryId: 'czterdziestolatek' },
   { year: 1977, event: 'Start programu popularnonaukowego „Sonda”', category: 'kultura', entryId: 'sonda-program' },
   { year: 1980, event: 'Katastrofa na Okęciu – ginie m.in. Anna Jantar (14 marca)', category: 'społeczeństwo', entryId: 'anna-jantar' },
+  { year: 1957, event: 'Rusza produkcja FSO Syrena – pierwszego polskiego seryjnego auta', category: 'gospodarka', entryId: 'syrena-samochod' },
+  { year: 1979, event: 'Agnieszka Holland debiutuje „Aktorami prowincjonalnymi” (nagroda w Cannes)', category: 'kultura', entryId: 'holland-agnieszka' },
+  { year: 1982, event: 'Brygada Kryzys wydaje „Czarny album” – manifest nowej fali', category: 'kultura', entryId: 'brygada-kryzys' },
+  { year: 1982, event: 'Polska zajmuje 3. miejsce na mundialu w Hiszpanii; gwiazdą Zbigniew Boniek', category: 'społeczeństwo', entryId: 'mundial-1982' },
+  { year: 1983, event: 'Debiut Bajm – album „Józek, nie daruję ci tej nocy”', category: 'kultura', entryId: 'bajm-zespol' },
+  { year: 1985, event: 'Zbigniew Boniek zdobywa z Juventusem Puchar Europy', category: 'społeczeństwo', entryId: 'boniek-zbigniew' },
 ];

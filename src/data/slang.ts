@@ -479,4 +479,29 @@ export const slangTerms: SlangTerm[] = [
     definition: 'Pion zsypowy na śmieci w blokach z wielkiej płyty – nowinka cywilizacyjna osiedli, dziś symbol blokowisk epoki.',
     category: 'codzienność',
   },
+  {
+    term: 'Działka',
+    definition: 'Pracowniczy ogród działkowy – własny skrawek ziemi na warzywa, owoce i odpoczynek; ucieczka mieszkańców bloków na weekend.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Walkman',
+    definition: 'Przenośny odtwarzacz kaset – w latach 80. obiekt pożądania i oznaka statusu; oryginalny Sony albo tańszy odpowiednik z Pewexu.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Magnetowid',
+    definition: 'Odtwarzacz kaset wideo (VHS) – luksusowy sprzęt; wokół niego rozwinął się obieg „przegrywek” zachodnich filmów.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Przegrywka',
+    definition: 'Skopiowana kaseta magnetofonowa lub wideo – domowy obieg muzyki i filmów omijający oficjalną (ubogą) ofertę.',
+    category: 'codzienność',
+  },
+  {
+    term: 'Giełda',
+    definition: 'Nieformalny targ (samochodowy, później komputerowy, płytowy) – miejsce handlu, wymiany i zdobywania towarów spoza oficjalnego obiegu.',
+    category: 'gospodarka',
+  },
 ];
