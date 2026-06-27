@@ -8,7 +8,8 @@ interface PressPageProps {
 type Filter = 'all' | PressType;
 
 const TYPE_ORDER: PressType[] = [
-  'oficjalna', 'niezalezna', 'katolicka', 'podziemna', 'emigracyjna', 'mlodziezowa', 'satyryczna',
+  'oficjalna', 'niezalezna', 'katolicka', 'emigracyjna', 'mlodziezowa',
+  'satyryczna', 'kobieca', 'popularna', 'dziecieca',
 ];
 
 export default function PressPage({ onNavigate }: PressPageProps) {
@@ -100,9 +101,10 @@ export default function PressPage({ onNavigate }: PressPageProps) {
                   href={p.scanUrl}
                   target="_blank"
                   rel="noopener noreferrer"
+                  title={p.kind === 'skan' ? 'Zdigitalizowane numery (Internet Archive)' : 'Hasło w Wikipedii'}
                   className="flex-1 text-center text-xs font-medium text-red-700 hover:text-white bg-red-50 hover:bg-red-600 border border-red-200 rounded px-2 py-1.5 transition-colors"
                 >
-                  📄 Zobacz skany
+                  {p.kind === 'skan' ? '📄 Zobacz skany' : '📖 O tytule'}
                 </a>
                 {p.entryId && (
                   <button
@@ -119,7 +121,8 @@ export default function PressPage({ onNavigate }: PressPageProps) {
       </div>
 
       <p className="text-center text-xs text-gray-400 mt-8">
-        Skany udostępniają biblioteki cyfrowe (m.in. Polona / Biblioteka Narodowa). Prawa do materiałów należą do ich właścicieli.
+        Skany numerów udostępnia Internet Archive (na podstawie polskich bibliotek cyfrowych); dla tytułów bez skanu online – hasło w Wikipedii.
+        Prawa do materiałów należą do ich właścicieli.
       </p>
     </div>
   );
