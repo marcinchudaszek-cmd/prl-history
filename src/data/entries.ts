@@ -183,20 +183,23 @@ Po wprowadzeniu stanu wojennego "Solidarność" działała w podziemiu jako Tymc
     yearStart: 1956,
     yearEnd: 1956,
     summary: 'Poznański Czerwiec 1956 – masowy protest robotniczy w Poznaniu 28–29 czerwca 1956, brutalnie stłumiony przez wojsko i milicję. Pierwszy tak duży bunt społeczny w historii PRL.',
-    content: `28 czerwca 1956 roku robotnicy Zakładów Przemysłu Metalowego im. Stalina (ZISPO, dziś Zakłady Przemysłu Metalowego H. Cegielski) wyszli na ulice Poznania pod hasłem **"Chleba i wolności"**.
+    content: `## Tło
+W połowie lat 50. robotnicy poznańskich Zakładów im. Cegielskiego (ZISPO) domagali się obniżenia zawyżonych norm, podwyżek i zwrotu niesłusznie pobranych podatków. Rozmowy z władzami nie przyniosły rezultatu, a delegacja robotnicza została w Warszawie zignorowana.
 
-**Przebieg wydarzeń:**
-Około 100 000 osób wzięło udział w manifestacji. Demonstranci próbowali szturmować Urząd Bezpieczeństwa i więzienie. Władze odpowiedziały wysłaniem wojska i czołgów.
+## Wybuch
+Rankiem 28 czerwca 1956 roku robotnicy przerwali pracę i ruszyli pochodem do centrum miasta. Do protestu przyłączyły się tłumy mieszkańców – pod hasłami „Chcemy chleba!”, a wkrótce także „Precz z komuną!” i żądaniami wolności.
 
-**Ofiary:**
-- Zginęło co najmniej **57 osób** (według różnych źródeł do 74)
-- Rannych zostało ponad 600 osób
-- Aresztowano ponad 700 uczestników
+## Eskalacja
+Demonstranci zaatakowali więzienie, uwalniając osadzonych, oraz gmach Urzędu Bezpieczeństwa, skąd padły strzały. Doszło do regularnych walk ulicznych, w których protestujący zdobywali broń.
 
-**Następstwa:**
-Bunt przyspieszył "odwilż" polityczną – dojście do władzy Władysława Gomułki w październiku 1956 roku ("Październik 1956") i pewną liberalizację systemu.
+## Pacyfikacja
+Władze skierowały do Poznania wojsko – około 10 tysięcy żołnierzy i setki czołgów. W krwawej pacyfikacji zginęło co najmniej 57 osób (część badań mówi o większej liczbie), w tym 13-letni Romek Strzałkowski, który stał się symbolem ofiar.
 
-Władze przez lata ukrywały prawdziwe informacje o wydarzeniach. Rehabilitacja ofiar nastąpiła dopiero po 1989 roku.`,
+## Skutki
+Bunt brutalnie stłumiono i przeprowadzono procesy uczestników, lecz wydarzenia przyspieszyły zmiany. Jesienią 1956 roku, w atmosferze „odwilży”, do władzy powrócił Władysław Gomułka, budząc nadzieje na liberalizację.
+
+## Pamięć
+Poznański Czerwiec był pierwszym masowym robotniczym buntem w PRL i zapowiedzią kolejnych (1970, 1976, 1980). Upamiętnia go monumentalny Pomnik Ofiar Czerwca 1956 („Poznańskie Krzyże”), odsłonięty w 1981 roku.`,
     resources: [
       {
         id: 'cz56-1',
@@ -237,6 +240,8 @@ Władze przez lata ukrywały prawdziwe informacje o wydarzeniach. Rehabilitacja 
     yearStart: 1970,
     yearEnd: 1970,
     summary: 'Krwawe protesty robotnicze na polskim Wybrzeżu w grudniu 1970 roku, wywołane drastyczną podwyżką cen żywności. Wojsko i milicja otworzyły ogień do strajkujących. Zginęło co najmniej 45 osób.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pomnik%20Poleg%C5%82ych%20Stoczniowc%C3%B3w%20Gda%C5%84sk.jpg?width=800',
+    imageCaption: 'Pomnik Poległych Stoczniowców 1970 w Gdańsku.',
     content: `14 grudnia 1970 roku, po ogłoszeniu przez rząd drastycznych podwyżek cen żywności tuż przed Świętami Bożego Narodzenia, wybuchły protesty w Gdańsku, Gdyni, Szczecinie i Elblągu.
 
 **Przebieg:**
@@ -284,22 +289,23 @@ Przez lata władze ukrywały skalę represji. Ciała ofiar chowano potajemnie, r
     yearStart: 1989,
     yearEnd: 1989,
     summary: 'Negocjacje między władzami PRL a opozycją skupioną wokół "Solidarności", które doprowadziły do pokojowej transformacji ustrojowej Polski i pierwszych częściowo wolnych wyborów.',
-    content: `Obrady Okrągłego Stołu toczyły się od 6 lutego do 5 kwietnia 1989 roku w Warszawie. Były kulminacją rozmów między stroną rządowo-koalicyjną (gen. Czesław Kiszczak) a opozycyjno-solidarnościową (Lech Wałęsa).
+    content: `## Geneza
+Druga połowa lat 80. to pogłębiający się kryzys gospodarczy i kolejna fala strajków w 1988 roku. Władze, niezdolne do reform i pod presją społecznego niezadowolenia, uznały, że bez porozumienia z opozycją nie zdołają opanować sytuacji.
 
-**Główne porozumienia:**
-- Legalizacja NSZZ "Solidarność"
-- Powołanie Senatu jako drugiej izby parlamentu
-- Wprowadzenie urzędu Prezydenta
-- Przeprowadzenie wyborów kontraktowych (4 czerwca 1989)
-- Wolność słowa i mediów
+## Rozmowy wstępne
+Drogę do negocjacji utorowały rozmowy w Magdalence oraz mediacja Kościoła. Po raz pierwszy władza uznała Lecha Wałęsę i Solidarność za partnera do rozmów o przyszłości kraju.
 
-**Wybory 4 czerwca 1989:**
-"Solidarność" zdobyła 99 ze 100 mandatów senatorskich i wszystkie 161 wolnych mandatów w Sejmie.
+## Obrady
+Obrady Okrągłego Stołu toczyły się od 6 lutego do 5 kwietnia 1989 roku w Warszawie. Po jednej stronie zasiadła strona rządowo-koalicyjna (PZPR i stronnictwa satelickie), po drugiej – strona solidarnościowo-opozycyjna; obecni byli też przedstawiciele Kościoła.
 
-**Rząd Mazowieckiego:**
-12 września 1989 roku Tadeusz Mazowiecki został pierwszym niekomunistycznym premierem w bloku wschodnim.
+## Ustalenia
+Zalegalizowano NSZZ „Solidarność”, powołano urząd prezydenta i przywrócono Senat. Uzgodniono częściowo wolne wybory do Sejmu (35% mandatów wolnych) oraz w pełni wolne do Senatu, a także reformy gospodarcze i sądowe.
 
-Okrągły Stół był wzorem dla pokojowych transformacji w innych krajach bloku wschodniego.`,
+## Wybory 4 czerwca 1989
+W wyborach 4 czerwca 1989 roku Solidarność odniosła miażdżące zwycięstwo, zdobywając niemal wszystkie dostępne mandaty. Wynik obnażył iluzoryczność poparcia dla władzy i otworzył drogę do rządu Tadeusza Mazowieckiego.
+
+## Znaczenie i spory
+Okrągły Stół zapoczątkował pokojową transformację Polski i całego bloku wschodniego. Do dziś budzi spory – jedni widzą w nim mądry kompromis ratujący kraj przed rozlewem krwi, inni krytykują układ części elit kosztem rozliczeń.`,
     resources: [
       {
         id: 'os-1',
@@ -443,21 +449,26 @@ SB prowadziła Sprawę Obiektową "Lato 80" (inwigilacja Solidarności), operacj
     summary: 'Sierpień 1980 to miesiąc masowych strajków w Polsce, które doprowadziły do podpisania Porozumień Gdańskich i powstania NSZZ "Solidarność" – pierwszego niezależnego związku zawodowego w bloku wschodnim.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Solidarity%20August%201980%20gate%20of%20Gda%C5%84sk%20Shipyard.jpg?width=800',
     imageCaption: 'Brama nr 2 Stoczni Gdańskiej w sierpniu 1980 roku.',
-    content: `14 sierpnia 1980 roku robotnicy Stoczni Gdańskiej im. Lenina rozpoczęli strajk pod przywództwem Lecha Wałęsy. Bezpośrednią przyczyną było zwolnienie z pracy Anny Walentynowicz.
+    content: `## Tło
+Lato 1980 roku przyniosło falę strajków wywołanych podwyżkami cen mięsa. Niezadowolenie narastało od lat – po krwawo stłumionych protestach 1970 i 1976 roku oraz w obliczu pogłębiającego się kryzysu gospodarczego i zadłużenia kraju.
 
-**21 Postulatów MKS:**
-Strajkujący sformułowali 21 postulatów, m.in.:
-1. Wolne, niezależne związki zawodowe
-2. Prawo do strajku
-3. Wolność słowa i publikacji
-4. Zwolnienie więźniów politycznych
-5. Nadawanie Mszy Świętej przez radio w niedziele
+## Iskra
+14 sierpnia 1980 roku w Stoczni Gdańskiej im. Lenina wybuchł strajk. Bezpośrednim powodem było zwolnienie z pracy Anny Walentynowicz, suwnicowej i działaczki Wolnych Związków Zawodowych. Robotnicy zażądali jej przywrócenia oraz podwyżek i upamiętnienia ofiar Grudnia 1970.
 
-**Porozumienia Gdańskie – 31 sierpnia 1980:**
-Po 18 dniach strajku strona rządowa podpisała porozumienie. Dokument podpisał wicepremier Mieczysław Jagielski i Lech Wałęsa.
+## Strajk i Lech Wałęsa
+Na czele protestu stanął Lech Wałęsa, który przeskoczył stoczniowy mur. Gdy dyrekcja zgodziła się na żądania ekonomiczne, strajk omal nie wygasł – jednak Walentynowicz, Alina Pienkowska i Henryka Krzywonos przekonały robotników do strajku solidarnościowego w obronie innych zakładów.
 
-**Zasięg strajków:**
-Do MKS przyłączyło się ponad 700 zakładów pracy z całego Wybrzeża. Strajki ogarnęły cały kraj.`,
+## Międzyzakładowy Komitet Strajkowy i 21 postulatów
+Powstał Międzyzakładowy Komitet Strajkowy reprezentujący setki zakładów. Sformułowano 21 postulatów – na czele z prawem do tworzenia niezależnych związków zawodowych i prawem do strajku, ale też zniesieniem cenzury, uwolnieniem więźniów politycznych i poprawą zaopatrzenia.
+
+## Porozumienia Gdańskie
+31 sierpnia 1980 roku, po negocjacjach z komisją rządową, podpisano Porozumienia Gdańskie (wcześniej szczecińskie i jastrzębskie). Władze po raz pierwszy zgodziły się na powstanie niezależnych, samorządnych związków zawodowych.
+
+## Narodziny Solidarności
+Na fali porozumień powstał NSZZ „Solidarność” – pierwszy w bloku wschodnim niezależny związek zawodowy, który w ciągu kilku miesięcy skupił blisko 10 milionów członków, stając się masowym ruchem społecznym.
+
+## Znaczenie
+Sierpień 1980 był przełomem – pokojowym zwycięstwem społeczeństwa nad władzą i początkiem procesu, który przez stan wojenny doprowadził do upadku komunizmu w 1989 roku. W 2003 r. 21 postulatów wpisano na listę UNESCO „Pamięć Świata”.`,
     resources: [
       {
         id: 'sier-1',
@@ -951,6 +962,8 @@ Wybrany w pierwszych wolnych wyborach prezydenckich. Jego prezydentura była naz
     yearStart: 1892,
     yearEnd: 1956,
     summary: 'Bolesław Bierut – stalinowski przywódca Polski Ludowej w najciemniejszym okresie jej dziejów (1948–1956). Prezydent KRN, a następnie I sekretarz PZPR. Pod jego rządami przeprowadzono masowe represje i procesy polityczne.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Boles%C5%82aw%20Bierut.jpg?width=800',
+    imageCaption: 'Bolesław Bierut – prezydent i I sekretarz KC PZPR w okresie stalinizmu.',
     content: `Bolesław Bierut (ur. 18 kwietnia 1892 – zm. 12 marca 1956 w Moskwie) był agentem sowieckim i absolutnym władcą stalinowskiej Polski.
 
 **Droga do władzy:**
@@ -1398,6 +1411,8 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     yearStart: 1948,
     yearEnd: 1981,
     summary: 'Stefan Wyszyński, Prymas Polski w latach 1948–1981, był najważniejszą postacią polskiego Kościoła katolickiego w okresie PRL. Uwięziony przez władze komunistyczne w latach 1953–1956, stał się symbolem oporu wobec ateizacji i prześladowań religijnych. Jego Śluby Jasnogórskie i Wielka Nowenna umocniły religijną tożsamość Polaków.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stefan%20Wyszy%C5%84ski.jpg?width=800',
+    imageCaption: 'Kardynał Stefan Wyszyński, Prymas Tysiąclecia.',
     content: `**Nominacja i pierwsze lata** — Stefan Wyszyński urodził się 3 sierpnia 1901 r. w Zuzeli nad Bugiem. Mianowany arcybiskupem gnieźnieńskim i warszawskim 12 listopada 1948 r. oraz Prymasem Polski. W 1950 r. wynegocjował z władzami PRL porozumienie regulujące stosunki państwo–Kościół. Władze komunistyczne systematycznie łamały jego postanowienia.
 
 **Non possumus** — W maju 1953 r., w odpowiedzi na dekret podporządkowujący obsadę stanowisk kościelnych państwu, Konferencja Episkopatu wystosowała memoriał **Non possumus** — „Nie możemy" — odmawiający podporządkowania Kościoła władzy świeckiej w sprawach wiary i administracji kościelnej.
@@ -1549,6 +1564,8 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     yearStart: 1978,
     yearEnd: 2005,
     summary: 'Karol Józef Wojtyła wybrany 16 października 1978 r. na papieża jako Jan Paweł II był pierwszym Papieżem z Polski. Jego trzy pielgrzymki do ojczyzny (1979, 1983, 1987) i słowa „Niech zstąpi Duch Twój i odnowi oblicze ziemi, tej ziemi" odegrały przełomową rolę w przebudzeniu Polaków i narodzinach Solidarności.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Pawe%C5%82%20II.jpg?width=800',
+    imageCaption: 'Jan Paweł II – papież, którego pielgrzymki odmieniły PRL.',
     content: `**Droga do papiestwa** — Karol Józef Wojtyła urodził się 18 maja 1920 r. w Wadowicach. Wyświęcony na kapłana w 1946 r., mianowany biskupem pomocniczym krakowskim w 1958 r., arcybiskupem metropolitą krakowskim w 1964 r., kardynałem w 1967 r. 16 października 1978 r. konklawe wybrało go papieżem.
 
 **Reakcja władz PRL** — Notka informacyjna KGB oceniała Wojtyłę jako „największe niebezpieczeństwo dla obozu socjalistycznego". Edward Gierek, informowany przez premiera, miał powiedzieć: „Boże, cóż nam się przydarzyło".
