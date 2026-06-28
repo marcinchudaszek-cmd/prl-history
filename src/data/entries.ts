@@ -122,20 +122,23 @@ Stan wojenny zawieszono w 1982 i zniesiono w lipcu 1983 roku. Jego ofiarą padł
     tags: ['Wałęsa', 'strajki', 'Gdańsk', '1980', 'związki zawodowe'],
     yearStart: 1980,
     summary: 'NSZZ "Solidarność" – masowy ruch społeczny i związek zawodowy, który stał się największą opozycyjną siłą w dziejach PRL i krajów bloku wschodniego.',
-    content: `NSZZ "Solidarność" powstał w wyniku fali strajków w sierpniu 1980 roku, zapoczątkowanej w Stoczni Gdańskiej im. Lenina. 31 sierpnia 1980 roku podpisano Porozumienia Gdańskie między Międzyzakładowym Komitetem Strajkowym (MKS) a rządem PRL.
+    content: `## Narodziny
+NSZZ „Solidarność” powstał po strajkach Sierpnia 1980 i podpisaniu Porozumień Gdańskich. Był pierwszym w bloku wschodnim niezależnym, samorządnym związkiem zawodowym, zarejestrowanym w listopadzie 1980 roku.
 
-**Porozumienia Sierpniowe:**
-Trzy porozumienia zawarte w Gdańsku, Szczecinie i Jastrzębiu-Zdroju przyznały pracownikom prawo do tworzenia niezależnych związków zawodowych oraz prawo do strajku.
+## Masowy ruch
+W ciągu kilku miesięcy Solidarność skupiła blisko 10 milionów członków, stając się nie tylko związkiem, lecz wielkim ruchem społecznym łączącym robotników, inteligencję i Kościół. Przewodniczącym został Lech Wałęsa.
 
-**Lech Wałęsa** – przywódca strajku i pierwszy przewodniczący "Solidarności", w 1983 roku otrzymał Pokojową Nagrodę Nobla.
+## Karnawał Solidarności
+Okres 1980–1981 nazwano „karnawałem Solidarności” – czasem względnej wolności, niezależnej prasy, debat i nadziei. I Krajowy Zjazd uchwalił program „Samorządnej Rzeczypospolitej”.
 
-**Zasięg:**
-W szczytowym momencie "Solidarność" liczyła ok. **10 milionów członków**, co stanowiło około 1/3 dorosłej ludności Polski.
+## Stan wojenny
+13 grudnia 1981 roku władze zdelegalizowały związek i internowały tysiące działaczy. Solidarność zeszła do podziemia, kontynuując działalność, wydawnictwa i opór mimo represji.
 
-**I Krajowy Zjazd Delegatów (1981):**
-Uchwalono program "Samorządna Rzeczpospolita" – wizję demokratycznej, samorządnej Polski.
+## Zwycięstwo
+Pod koniec lat 80. fala strajków zmusiła władze do rozmów. Obrady Okrągłego Stołu (1989) zalegalizowały Solidarność i doprowadziły do częściowo wolnych wyborów 4 czerwca 1989 roku, wygranych przez związek.
 
-Po wprowadzeniu stanu wojennego "Solidarność" działała w podziemiu jako Tymczasowa Komisja Koordynacyjna. Reaktywacja nastąpiła po obradach Okrągłego Stołu w 1989 roku.`,
+## Znaczenie
+Solidarność zapoczątkowała pokojowy demontaż komunizmu w Polsce i Europie Środkowej. W 1983 roku Lech Wałęsa otrzymał Pokojową Nagrodę Nobla, a dziedzictwo ruchu wpisano na listę UNESCO „Pamięć Świata”.`,
     resources: [
       {
         id: 'sol-1',
@@ -348,22 +351,23 @@ Okrągły Stół zapoczątkował pokojową transformację Polski i całego bloku
     yearStart: 1948,
     yearEnd: 1990,
     summary: 'PZPR – monopartia komunistyczna rządząca Polską Ludową przez 42 lata. Powstała z połączenia PPR i PPS w 1948 roku, rozwiązała się dobrowolnie w 1990 roku.',
-    content: `Polska Zjednoczona Partia Robotnicza powstała 15 grudnia 1948 roku z połączenia Polskiej Partii Robotniczej (PPR) i Polskiej Partii Socjalistycznej (PPS). Połączenie to było w praktyce wchłonięciem PPS przez komunistyczną PPR.
+    content: `## Powstanie
+PZPR powstała w grudniu 1948 roku z przymusowego połączenia Polskiej Partii Robotniczej (PPR) z resztkami Polskiej Partii Socjalistycznej (PPS), tworząc monopartię rządzącą Polską aż do 1990 roku.
 
-**Pierwsi sekretarze KC PZPR:**
-1. Bolesław Bierut (1948–1956)
-2. Edward Ochab (1956)
-3. Władysław Gomułka (1956–1970)
-4. Edward Gierek (1970–1980)
-5. Stanisław Kania (1980–1981)
-6. Wojciech Jaruzelski (1981–1989)
-7. Mieczysław Rakowski (1989–1990)
+## Monopol władzy
+Partia sprawowała faktyczną, nieograniczoną władzę, podporządkowując sobie państwo, gospodarkę, wojsko, media i wymiar sprawiedliwości. Zasadę „kierowniczej roli partii” w 1976 roku wpisano do konstytucji.
 
-**Struktura władzy:**
-PZPR kierowała wszystkimi dziedzinami życia państwowego przez Biuro Polityczne i Komitet Centralny. Aparat partyjny przenikał administrację państwową, wojsko, gospodarkę i kulturę.
+## Struktura
+Na czele stał I sekretarz KC – realny przywódca kraju. Decyzje zapadały w Biurze Politycznym i Komitecie Centralnym, a sieć komitetów (wojewódzkich i zakładowych) oplatała cały kraj. O obsadzie stanowisk decydowała nomenklatura.
 
-**Rozwiązanie:**
-Na XI (ostatnim) Zjeździe w styczniu 1990 roku PZPR rozwiązała się, a część członków powołała Socjaldemokrację Rzeczypospolitej Polskiej (SdRP).`,
+## I sekretarze
+Kolejni przywódcy – Bolesław Bierut, Władysław Gomułka, Edward Gierek, Stanisław Kania i Wojciech Jaruzelski – wyznaczali kurs partii, a zmiany na tym stanowisku następowały zwykle w wyniku kryzysów.
+
+## Masowość i upadek
+W szczytowym okresie PZPR liczyła ponad 3 miliony członków; przynależność bywała warunkiem kariery. Skompromitowana kryzysem i stanem wojennym, po wyborach 1989 utraciła władzę i rozwiązała się w 1990 roku.
+
+## Znaczenie
+PZPR była rdzeniem systemu komunistycznego w Polsce – jej dzieje to historia sprawowania i utraty totalnej władzy nad państwem i społeczeństwem.`,
     resources: [
       {
         id: 'pzpr-1',
@@ -637,22 +641,23 @@ Jerzy Grotowski, Tadeusz Kantor (Teatr Cricot 2) – artyści o światowej sław
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'Kościół katolicki był jedyną niezależną instytucją masową w PRL i głównym bastionem oporu społecznego wobec komunizmu. Pielgrzymki Jana Pawła II były przełomem w dziejach opozycji.',
-    content: `Kościół katolicki w PRL zachował znaczną niezależność instytucjonalną, choć władze komunistyczne prowadziły z nim permanentną walkę.
+    content: `## Twierdza niezależności
+W ateistycznym państwie Kościół katolicki pozostał jedyną w pełni niezależną od władzy instytucją oraz oparciem moralnym i wspólnotowym dla milionów Polaków.
 
-**Prymas Stefan Wyszyński:**
-"Prymas Tysiąclecia" (1948–1981) był symbolem oporu Kościoła. Uwięziony w latach 1953–1956. Jego polityka "non possumus" wobec komunistycznych żądań stała się legendą.
+## Konflikt z władzą
+Komuniści dążyli do podporządkowania i osłabienia Kościoła – poprzez represje, procesy księży, przejmowanie majątku, ograniczanie nauczania religii oraz wspieranie rozłamowców (PAX, „księża patrioci”).
 
-**Pielgrzymki Jana Pawła II:**
-Wybór Karola Wojtyły na papieża 16 października 1978 roku był szokiem dla władz PRL.
-- **I pielgrzymka (1979):** "Niech zstąpi Duch Twój i odnowi oblicze ziemi. Tej ziemi!" – słowa homilii na Placu Zwycięstwa, które stały się hasłem oporu
-- **II pielgrzymka (1983):** W czasie stanu wojennego, papież spotkał się z Wałęsą
-- **III pielgrzymka (1987):** "Trzeba wymagać od siebie, choćby inni od siebie nie wymagali"
+## Prymas Wyszyński
+Symbolem oporu był prymas Stefan Wyszyński, internowany w latach 1953–1956. Zainicjowane przez niego Wielka Nowenna i obchody Milenium Chrztu Polski (1966) stały się manifestacją siły wiary, rywalizującą z państwowymi uroczystościami.
 
-**Parafia jako centrum opozycji:**
-Kościoły stanowiły przestrzeń dla niezależnej kultury, edukacji i spotkań opozycji. Słynna "Msza za Ojczyznę" o. Jerzego Popiełuszki w Warszawie.
+## Jan Paweł II
+Wybór Karola Wojtyły na papieża (1978) i jego pielgrzymki do Polski (od 1979) dodały Polakom odwagi i poczucia wspólnoty, walnie przyczyniając się do narodzin Solidarności.
 
-**Ks. Jerzy Popiełuszko:**
-Zamordowany 19 października 1984 roku przez funkcjonariuszy SB. Jego śmierć wywołała ogromne poruszenie społeczne.`,
+## Wsparcie opozycji
+W stanie wojennym Kościół niósł pomoc internowanym i represjonowanym, dawał schronienie kulturze niezależnej, a kapłani jak ks. Jerzy Popiełuszko płacili za to najwyższą cenę.
+
+## Znaczenie
+Kościół w PRL był ostoją tożsamości narodowej i wolności sumienia oraz kluczowym uczestnikiem pokojowej drogi Polski ku demokracji.`,
     resources: [
       {
         id: 'kosc-1',
@@ -795,23 +800,23 @@ Gomułka pozostaje symbolem zmarnowanych nadziei 1956 roku – polityka, który 
     summary: 'Edward Gierek – I sekretarz KC PZPR w latach 1970–1980. Twórca polityki "drugiej Polski" opartej na zachodnich kredytach i modernizacji. Jego dekada skończyła się kryzysem zadłużenia i narodzinami Solidarności.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Gierek%2C%201973.png?width=800',
     imageCaption: 'Edward Gierek, I sekretarz KC PZPR (1973).',
-    content: `Edward Gierek (ur. 6 stycznia 1913 – zm. 29 lipca 2001) doszedł do władzy po Grudniu 1970, zastępując skompromitowanego Gomułkę.
+    content: `## Sylwetka
+Edward Gierek (1913–2001), górnik z doświadczeniem emigracji we Francji i Belgii, był I sekretarzem KC PZPR w latach 1970–1980 – symbolem „dekady sukcesu” i jej spektakularnego krachu.
 
-**"Pomożecie?":**
-Przejmując władzę, Gierek pojechał do strajkujących stoczni i zakładów pytając robotników: "Pomożecie?". Ten gest jednał mu społeczną sympatię na początku rządów.
+## Dojście do władzy
+Objął władzę po masakrze Grudnia 1970, obiecując poprawę warunków życia. Słynne pytanie do robotników „Pomożecie?” i odpowiedź „Pomożemy!” miały budować wrażenie dialogu.
 
-**Dekada Gierka (1970–1980):**
-Gierek realizował ambitny program modernizacji Polski finansowany zachodnimi kredytami:
-- Budowa Trasy Łazienkowskiej, Dworca Centralnego, osiedli "bloków"
-- Import licencji i technologii (Fiat 126p – "maluch", leki, elektronika)
-- Wzrost płac realnych i poprawa zaopatrzenia sklepów
-- Budowa hut, elektrowni i zakładów przemysłowych
+## Dekada na kredyt
+Lata 70. to wielkie inwestycje (Huta Katowice, Trasa Łazienkowska, Fiat 126p), wzrost stopy życiowej i otwarcie na Zachód – finansowane jednak rosnącymi kredytami zagranicznymi.
 
-**Spirala zadłużenia:**
-Zaciągane kredyty nie były efektywnie inwestowane. W 1980 roku dług zagraniczny przekraczał **20 miliardów dolarów**. Konieczne podwyżki cen wywołały strajki sierpniowe.
+## Propaganda sukcesu
+Media lansowały „propagandę sukcesu”, przedstawiając Polskę jako kraj dynamicznego rozwoju, podczas gdy narastały niedobory, dług i nierównowaga gospodarcza.
 
-**Upadek:**
-W sierpniu 1980 roku, podczas strajków, Gierek był hospitalizowany. 6 września 1980 roku Biuro Polityczne odwołało go ze stanowiska. Po 1981 roku internowany przez Jaruzelskiego.`,
+## Kryzys i upadek
+Podwyżki cen wywołały protesty Czerwca 1976, a pogłębiający się kryzys doprowadził do strajków Sierpnia 1980. Schorowanego Gierka odsunięto od władzy, a w stanie wojennym internowano.
+
+## Ocena
+Gierek pozostaje postacią ambiwalentną – wspominaną z nostalgią za pozorną prosperity, lecz odpowiedzialną za zadłużenie, które pogrążyło gospodarkę PRL.`,
     resources: [
       {
         id: 'gie-1',
@@ -3282,6 +3287,8 @@ Nacjonalizacja zniszczyła klasę przedsiębiorców i kupców. Gospodarka stała
     title: 'Czesław Miłosz',
     category: 'osoby',
     shortDesc: 'Poeta, prozaik, eseista – autor „Zniewolonego umysłu", noblista 1980, jeden z największych pisarzy XX wieku.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Czes%C5%82aw%20Mi%C5%82osz.jpg?width=800',
+    imageCaption: 'Czesław Miłosz – poeta, laureat Nagrody Nobla (1980).',
     content: `## Czesław Miłosz (1911–2004)
 
 Czesław Miłosz to jeden z największych pisarzy XX wieku – poeta, eseista, historyk literatury, tłumacz. W 1980 roku otrzymał literacką Nagrodę Nobla. Jego twórczość jest nierozerwalnie związana z doświadczeniem totalitaryzmu i pytaniem o kondycję człowieka w obliczu historii.
@@ -3414,6 +3421,8 @@ Jego poezja jest przetłumaczona na kilkadziesiąt języków. Jest to jedna z po
     title: 'Anna Walentynowicz',
     category: 'osoby',
     shortDesc: 'Suwnicowa z Gdańska – jej zwolnienie wywołało strajk sierpniowy, który zmienił Polskę i świat.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Walentynowicz.jpg?width=800',
+    imageCaption: 'Anna Walentynowicz – suwnicowa, współzałożycielka Solidarności.',
     content: `## Anna Walentynowicz (1929–2010)
 
 Anna Walentynowicz była suwnicową ze Stoczni Gdańskiej im. Lenina i jedną z najważniejszych postaci polskiej opozycji robotniczej. Jej zwolnienie z pracy w sierpniu 1980 roku – pięć miesięcy przed emeryturą – stało się bezpośrednią iskrą, która wywołała Sierpień 1980 i narodziny Solidarności.
@@ -3810,6 +3819,8 @@ Po 1989 roku postępowania karne wobec sprawców internowania toczyły się lata
     title: 'Adam Michnik',
     category: 'osoby',
     shortDesc: 'Historyk, publicysta i działacz opozycji, współzałożyciel KOR, redaktor naczelny Gazety Wyborczej.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Adam%20Michnik.jpg?width=800',
+    imageCaption: 'Adam Michnik – działacz opozycji demokratycznej.',
     content: `## Adam Michnik (ur. 1946)
 
 Adam Michnik to jeden z najwybitniejszych intelektualistów polskiej opozycji – historyk, eseista, publicysta i działacz, który z drobnego agenta więziennych intelektualnych dysput stał się ikoną demokratycznej transformacji.
@@ -3995,6 +4006,8 @@ Przez kurierów i przez Kościół podziemna Solidarność utrzymywała stały k
     title: 'Ryszard Kapuściński',
     category: 'osoby',
     shortDesc: 'Dziennikarz i pisarz – reporter świata, autor „Cesarza" i „Szachinszacha", jeden z najwybitniejszych reportażystów XX wieku.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ryszard%20Kapu%C5%9Bci%C5%84ski.jpg?width=800',
+    imageCaption: 'Ryszard Kapuściński – reporter i pisarz.',
     content: `## Ryszard Kapuściński (1932–2007)
 
 Ryszard Kapuściński był jednym z największych reporterów XX wieku – dziennikarzem, pisarzem i poetą, który stworzył własny gatunek literacki: reporter literatury faktu. Jego książki o upadku imperiów, dyktatorach i rewolucjach są czytane na całym świecie i przetłumaczone na kilkadziesiąt języków.
@@ -4715,6 +4728,8 @@ Po 13 grudnia 1981 roku wielu działaczy Solidarności, którzy zdołali wyjecha
     title: 'Stanisław Lem',
     category: 'osoby',
     shortDesc: 'Pisarz science-fiction i futurysta – jeden z najczęściej tłumaczonych polskich autorów w historii.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw%20Lem.jpg?width=800',
+    imageCaption: 'Stanisław Lem – pisarz science fiction o światowej sławie.',
     content: `## Stanisław Lem (1921–2006)
 
 Stanisław Lem był jednym z najważniejszych pisarzy XX wieku – twórcą science fiction, filozofem technologii i futurystą, którego dzieła przetłumaczono na kilkadziesiąt języków, sprzedając w dziesiątkach milionów egzemplarzy. Jest najczęściej tłumaczonym polskim pisarzem w historii.
@@ -4781,6 +4796,8 @@ Lem jest patronem nauki o przyszłości, cyberprzestrzeni i etyce technologiczne
     title: 'Andrzej Wajda',
     category: 'osoby',
     shortDesc: 'Reżyser filmowy, twórca Polskiej Szkoły Filmowej, autor dzieł o historii i wolności.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej%20Wajda%201974.jpg?width=800',
+    imageCaption: 'Andrzej Wajda (1974) – czołowy reżyser polskiego kina.',
     content: `## Andrzej Wajda (1926–2016)
 
 Andrzej Wajda był najwybitniejszym polskim reżyserem filmowym, laureatem Oscara za całokształt twórczości (2000) i Złotej Palmy w Cannes (1981). Jego filmy tworzyły dialog z historią Polski i opresją systemu komunistycznego.
