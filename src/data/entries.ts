@@ -19531,6 +19531,281 @@ Demarczyk to legenda polskiej kultury – artystka osobna, której nagrania uzna
     ],
     relatedIds: ['poezja-spiewana', 'grechuta-marek', 'kultura-prl'],
   },
+  {
+    id: 'rejs-film',
+    title: 'Rejs',
+    subtitle: 'Kultowa komedia absurdu (1970)',
+    category: 'kultura',
+    tags: ['film', 'kino', 'komedia', 'satyra'],
+    yearStart: 1970,
+    yearEnd: 1970,
+    summary: 'Kultowa komedia Marka Piwowskiego, w krzywym zwierciadle ukazująca absurdy PRL na pokładzie statku płynącego Wisłą.',
+    content: `## Film
+„Rejs” (1970) w reżyserii Marka Piwowskiego to kultowa komedia, której akcja toczy się na statku wycieczkowym płynącym Wisłą. Pozornie błaha fabuła kryje błyskotliwą satyrę.
+
+## Improwizacja
+Znaczną część dialogów zaimprowizowano, a w obsadzie obok aktorów znaleźli się naturszczycy – m.in. Zdzisław Maklakiewicz i Jan Himilsbach, tworzący niezapomniane duety.
+
+## Satyra na PRL
+Film w krzywym zwierciadle pokazywał absurdy systemu: pozorną aktywność, pustosłowie zebrań, konformizm i bezsens odgórnie organizowanej „kulturalno-oświatowej” rozrywki.
+
+## Kultowe sceny
+Słynna „rozmowa o polskim kinie” oraz sceny z „kaowcem” organizującym życie pasażerów weszły do kanonu polskiego humoru i są cytowane do dziś.
+
+## Cenzura i recepcja
+Cenzura miała z filmem problem, uznając go za „bełkot”; z czasem „Rejs” zyskał status arcydzieła komedii i jednego z najważniejszych polskich filmów.
+
+## Znaczenie
+„Rejs” to perła polskiej komedii absurdu – dowód, że nawet w PRL powstawały dzieła błyskotliwie demaskujące rzeczywistość.`,
+    trivia: ['Wielu wykonawców to naturszczycy – Maklakiewicz i Himilsbach grali w zasadzie samych siebie.', 'Cenzura uznała film za „bełkot”; dziś to klasyka polskiej komedii.'],
+    resources: [
+      {
+        id: 'rejs-yt',
+        title: '„Rejs” – kultowa scena',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Zh-kStmzvDk',
+        source: 'YouTube',
+        description: 'Fragment z legendarnego filmu Piwowskiego.',
+      },
+      {
+        id: 'rejs-fp',
+        title: 'Rejs – o filmie',
+        type: 'film',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Rejs%20Piwowski',
+        source: 'FilmPolski.pl',
+        description: 'Informacje o filmie i obsadzie.',
+      },
+      {
+        id: 'rejs-wk',
+        title: 'Rejs – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Rejs%20film%201970&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['kino-prl', 'bareja-kino', 'kabaret-prl'],
+  },
+  {
+    id: 'mis-film',
+    title: 'Miś',
+    subtitle: 'Bareja i absurdy PRL (1981)',
+    category: 'kultura',
+    tags: ['film', 'kino', 'komedia', 'satyra'],
+    yearStart: 1981,
+    yearEnd: 1981,
+    summary: 'Najsłynniejsza komedia Stanisława Barei – ikona „bareizmu”, bezlitośnie wyśmiewająca absurdy schyłkowego PRL.',
+    content: `## Film
+„Miś” (1981) Stanisława Barei to jedna z najsłynniejszych polskich komedii – satyra na absurdy schyłkowego PRL, oparta na scenariuszu Barei i Stanisława Tyma.
+
+## Fabuła
+Prezes klubu sportowego „Tęcza” Ryszard Ochódzki (Stanisław Tym) wikła się w pokrętne intrygi wokół paszportu i pieniędzy, w świecie pełnym absurdów i niedoborów.
+
+## Bareizm
+Film stał się ikoną „bareizmu” – kina, które z groteską i precyzją portretowało absurdy systemu: kolejki, biurokratyczny bełkot i pozorność oficjalnego świata.
+
+## Kultowe kwestie
+Padają tu kwestie, które weszły do języka, m.in. „Nie mamy pańskiego płaszcza i co pan nam zrobi?”.
+
+## Cenzura
+Mimo licznych aluzji film przeszedł przez cenzurę, częściowo dzięki pozornej błahości fabuły; dziś bywa traktowany jak podręcznik realiów PRL.
+
+## Znaczenie
+„Miś” to kultowa komedia i bezcenny, satyryczny dokument codzienności epoki – cytowany i oglądany przez kolejne pokolenia.`,
+    trivia: ['Z filmu pochodzi słynna kwestia „Nie mamy pańskiego płaszcza i co pan nam zrobi?”.', 'Film tak celnie portretuje absurdy PRL, że jego nazwisko dało początek terminowi „bareizm”.'],
+    resources: [
+      {
+        id: 'mis-yt',
+        title: '„Miś” – scena finałowa',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=8bEkDAIC_Hk',
+        source: 'YouTube',
+        description: 'Fragment kultowej komedii Barei.',
+      },
+      {
+        id: 'mis-fp',
+        title: 'Miś – o filmie',
+        type: 'film',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Mi%C5%9B%20Bareja',
+        source: 'FilmPolski.pl',
+        description: 'Informacje o filmie i obsadzie.',
+      },
+      {
+        id: 'mis-wk',
+        title: 'Miś – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Mi%C5%9B%20film%20Bareja&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['bareja-kino', 'kino-prl', 'propaganda-prl'],
+  },
+  {
+    id: 'seksmisja-film',
+    title: 'Seksmisja',
+    subtitle: 'Komedia science fiction (1984)',
+    category: 'kultura',
+    tags: ['film', 'kino', 'komedia', 'science fiction'],
+    yearStart: 1984,
+    yearEnd: 1984,
+    summary: 'Kasowy hit Juliusza Machulskiego – komedia science fiction z satyrą na totalitaryzm, jeden z największych sukcesów polskiego kina.',
+    content: `## Film
+„Seksmisja” (1984) Juliusza Machulskiego to jedna z najpopularniejszych polskich komedii science fiction – kasowy hit łączący rozrywkę z satyrą.
+
+## Fabuła
+Dwaj mężczyźni budzą się po latach hibernacji w podziemnym świecie zamieszkanym wyłącznie przez kobiety, gdzie mężczyzn uznano za zbędnych – co prowadzi do serii absurdalnych perypetii.
+
+## Satyra na totalitaryzm
+Pod płaszczykiem science fiction kryła się satyra na totalitaryzm, propagandę i zniewolenie – czytelna dla widzów PRL aluzja do systemu.
+
+## Kultowe kwestie
+Kwestie takie jak „Ciemność, widzę ciemność!” na trwałe weszły do języka potocznego i popkultury.
+
+## Cenzura
+Cenzura ingerowała w film – aluzyjny dialog o kierunku „na wschód” (gdzie „musi być Zachód”) niósł sens, który o mało nie przepadł.
+
+## Znaczenie
+„Seksmisja” to jeden z największych sukcesów frekwencyjnych polskiego kina i klasyk komedii, łączący humor z gorzką refleksją o wolności.`,
+    trivia: ['Okrzyk „Ciemność, widzę ciemność!” stał się popularnym powiedzeniem.', 'Słynne zdanie o kierunku „na Zachód” cenzura omal nie wycięła z filmu.'],
+    resources: [
+      {
+        id: 'seks-fp',
+        title: 'Seksmisja – o filmie',
+        type: 'film',
+        url: 'https://filmpolski.pl/fp/index.php?szukaj=Seksmisja%20Machulski',
+        source: 'FilmPolski.pl',
+        description: 'Informacje o filmie i obsadzie.',
+      },
+      {
+        id: 'seks-yt',
+        title: 'Seksmisja – sceny i materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Seksmisja+1984+Machulski+scena',
+        source: 'YouTube',
+        description: 'Fragmenty i materiały o filmie.',
+      },
+      {
+        id: 'seks-wk',
+        title: 'Seksmisja – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Seksmisja%20film&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['kino-prl', 'cenzura-prl', 'bareja-kino'],
+  },
+  {
+    id: 'wembley-1973',
+    title: 'Mecz na Wembley 1973',
+    subtitle: 'Remis, który dał awans na mundial',
+    category: 'społeczeństwo',
+    tags: ['sport', 'piłka nożna', 'lata 70.', 'reprezentacja'],
+    yearStart: 1973,
+    yearEnd: 1973,
+    summary: 'Historyczny remis 1:1 z Anglią na Wembley (17 października 1973), który dał Polsce awans na mistrzostwa świata 1974.',
+    content: `## Mecz
+17 października 1973 roku na londyńskim Wembley reprezentacja Polski zremisowała z Anglią 1:1 w decydującym meczu eliminacji mistrzostw świata.
+
+## Stawka
+Polsce do awansu na mundial 1974 wystarczał remis; Anglii potrzebne było tylko zwycięstwo. Faworyzowani gospodarze atakowali przez cały mecz.
+
+## Jan Tomaszewski
+Bohaterem został bramkarz Jan Tomaszewski, który obronił mnóstwo strzałów. Angielski trener Brian Clough nazwał go przed meczem „clownem” – po meczu słowa te obróciły się przeciw niemu.
+
+## Gol Domarskiego
+Polskę na prowadzenie wyprowadził gol Jana Domarskiego; Anglia zdołała jedynie wyrównać z rzutu karnego. Remis oznaczał historyczny awans.
+
+## Echo
+Awans rozpoczął najlepszą erę polskiej piłki – drużyna Kazimierza Górskiego zdobyła wkrótce 3. miejsce na mundialu 1974.
+
+## Znaczenie
+„Mecz na Wembley” to jedno z najsłynniejszych wydarzeń w historii polskiego sportu i symbol triumfu nad faworytem.`,
+    trivia: ['Brian Clough nazwał Tomaszewskiego „clownem” – a ten obronił awans Polski.', 'Gola na 1:0 strzelił Jan Domarski; Anglia wyrównała tylko z karnego.'],
+    resources: [
+      {
+        id: 'wem-yt',
+        title: 'Tomaszewski na Wembley 1973 – obrony',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=E0c8iI1xyvo',
+        source: 'YouTube',
+        description: 'Archiwalne fragmenty legendarnego meczu.',
+      },
+      {
+        id: 'wem-1',
+        title: 'Mecz Anglia–Polska 1973 – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=mecz+Wembley+1973+Polska+Anglia+Tomaszewski',
+        source: 'YouTube',
+        description: 'Nagrania i wspomnienia.',
+      },
+      {
+        id: 'wem-wk',
+        title: 'Mecz na Wembley – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=mecz%20Anglia%20Polska%201973%20Wembley&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o meczu.',
+      },
+    ],
+    relatedIds: ['mundial-1974', 'sport-prl', 'ciszewski-jan'],
+  },
+  {
+    id: 'toto-lotek',
+    title: 'Toto-Lotek',
+    subtitle: 'Marzenie o „szóstce”',
+    category: 'społeczeństwo',
+    tags: ['życie codzienne', 'rozrywka', 'sport', 'gry liczbowe'],
+    yearStart: 1957,
+    yearEnd: 1989,
+    summary: 'Gry liczbowe Totalizatora Sportowego (Duży Lotek, „6 z 49”), uruchomione w 1957 roku – marzenie milionów o nagłej wygranej.',
+    content: `## Gry liczbowe
+Toto-Lotek (Duży Lotek) to gry liczbowe Totalizatora Sportowego, uruchomione w 1957 roku. Polegały na typowaniu liczb – słynne „6 z 49” – w nadziei na wygraną.
+
+## Marzenie o szóstce
+W szarej rzeczywistości niedoboru trafienie „szóstki” było jedną z nielicznych szans na nagłe wzbogacenie – marzeniem milionów Polaków.
+
+## Kultura gry
+Wypełnianie kuponów i niedzielne losowania stały się elementem codzienności; wynikami żyły całe rodziny, a kolektury Totalizatora były stałym punktem miast.
+
+## Totalizator Sportowy
+Dochody Totalizatora zasilały m.in. sport i inwestycje, co czyniło grę także narzędziem finansowania państwowych przedsięwzięć.
+
+## Inne gry
+Z czasem pojawiły się kolejne gry liczbowe i zakłady, a Toto-Lotek wrósł na trwałe w pejzaż PRL.
+
+## Znaczenie
+Toto-Lotek to symbol PRL-owskich marzeń o lepszym losie – niewinnej rozrywki dającej nadzieję na odmianę szarej codzienności.`,
+    trivia: ['„Duży Lotek” (6 z 49) wystartował w 1957 roku.', 'Trafienie „szóstki” było jednym z nielicznych marzeń o nagłym bogactwie w PRL.'],
+    resources: [
+      {
+        id: 'toto-yt',
+        title: 'Toto-Lotek – materiały archiwalne',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Toto-Lotek+Totalizator+Sportowy+PRL+losowanie',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o grach liczbowych.',
+      },
+      {
+        id: 'toto-wk',
+        title: 'Totalizator Sportowy – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Totalizator%20Sportowy%20Lotek&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania.',
+      },
+      {
+        id: 'toto-2',
+        title: 'Życie codzienne PRL – rozrywka',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=gry+liczbowe+PRL+Lotek+kolektura',
+        source: 'YouTube',
+        description: 'Materiały o rozrywce epoki.',
+      },
+    ],
+    relatedIds: ['zycie-codzienne', 'sport-prl', 'pewex'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -19697,7 +19972,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1980, event: 'Henryka Krzywonos przyłącza komunikację do sierpniowego strajku', category: 'opozycja', entryId: 'krzywonos-henryka' },
   { year: 1963, event: 'Debiut Włodzimierza Lubańskiego w Górniku Zabrze', category: 'społeczeństwo', entryId: 'lubanski-gornik' },
   { year: 1964, event: 'Proces Melchiora Wańkowicza za tekst dla Radia Wolna Europa', category: 'represje', entryId: 'proces-wankowicza' },
-  { year: 1973, event: '„Mecz na Wembley” – remis z Anglią daje awans na mundial (komentuje Jan Ciszewski)', category: 'społeczeństwo', entryId: 'ciszewski-jan' },
+  { year: 1973, event: '„Mecz na Wembley” – remis z Anglią daje awans na mundial (komentuje Jan Ciszewski)', category: 'społeczeństwo', entryId: 'wembley-1973' },
   { year: 1975, event: 'Premiera serialu „Czterdziestolatek” Jerzego Gruzy', category: 'kultura', entryId: 'czterdziestolatek' },
   { year: 1977, event: 'Start programu popularnonaukowego „Sonda”', category: 'kultura', entryId: 'sonda-program' },
   { year: 1980, event: 'Katastrofa na Okęciu – ginie m.in. Anna Jantar (14 marca)', category: 'społeczeństwo', entryId: 'anna-jantar' },
@@ -19714,4 +19989,8 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1983, event: 'Debiut płytowy Oddziału Zamkniętego (przebój „Andzia”)', category: 'kultura', entryId: 'oddzial-zamkniety' },
   { year: 1967, event: 'Marek Grechuta i grupa Anawa debiutują na festiwalu w Opolu', category: 'kultura', entryId: 'grechuta-marek' },
   { year: 1963, event: 'Ewa Demarczyk olśniewa publiczność w Piwnicy pod Baranami', category: 'kultura', entryId: 'demarczyk-ewa' },
+  { year: 1957, event: 'Rusza Toto-Lotek – gry liczbowe Totalizatora Sportowego', category: 'społeczeństwo', entryId: 'toto-lotek' },
+  { year: 1970, event: 'Premiera „Rejsu” Marka Piwowskiego', category: 'kultura', entryId: 'rejs-film' },
+  { year: 1981, event: 'Premiera „Misia” Stanisława Barei', category: 'kultura', entryId: 'mis-film' },
+  { year: 1984, event: 'Premiera „Seksmisji” Juliusza Machulskiego', category: 'kultura', entryId: 'seksmisja-film' },
 ];
