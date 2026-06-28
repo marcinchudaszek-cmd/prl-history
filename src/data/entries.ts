@@ -19806,6 +19806,226 @@ Toto-Lotek to symbol PRL-owskich marzeń o lepszym losie – niewinnej rozrywki 
     ],
     relatedIds: ['zycie-codzienne', 'sport-prl', 'pewex'],
   },
+  {
+    id: 'dobranocka',
+    title: 'Dobranocka',
+    subtitle: 'Wieczorny rytuał i polska animacja',
+    category: 'kultura',
+    tags: ['telewizja', 'dzieci', 'animacja', 'rozrywka'],
+    yearStart: 1962,
+    yearEnd: 1989,
+    summary: 'Wieczorny blok bajek dla dzieci (zwany też „Wieczorynką”) – nieodłączny element codzienności PRL i wizytówka polskiej szkoły animacji.',
+    content: `## Wieczorny rytuał
+Dobranocka, zwana też „Wieczorynką”, to wieczorny blok filmów animowanych dla dzieci – nieodłączny element telewizyjnej codzienności PRL, poprzedzający „dorosły” Dziennik.
+
+## Polskie studia
+Polskie wytwórnie – Se-ma-for w Łodzi, Studio Filmów Rysunkowych w Bielsku-Białej – stworzyły bohaterów kochanych przez całe pokolenia.
+
+## Kultowe postacie
+Najsłynniejsi to Miś Uszatek, Bolek i Lolek, Reksio i Koziołek Matołek, a także zagraniczni goście, jak Pszczółka Maja.
+
+## Miś Uszatek
+Miś Uszatek z opadającym uszkiem opowiadał historie „na dobranoc” i żegnał widzów słowami „Dobranoc, pa, pa” – do dziś rozpoznawalnymi.
+
+## Funkcja
+Dobranocka organizowała wieczór rodzin – po niej dzieci szły spać. Była jednym z nielicznych pasm tworzonych z myślą o najmłodszych.
+
+## Znaczenie
+Dobranocka to symbol dzieciństwa w PRL i dorobek polskiej szkoły animacji, ceniony do dziś.`,
+    trivia: ['Dobranockę powszechnie nazywano też „Wieczorynką”.', 'Polskie studia stworzyły Misia Uszatka, Bolka i Lolka oraz Reksia – bohaterów znanych także za granicą.'],
+    resources: [
+      {
+        id: 'dob-yt',
+        title: 'Miś Uszatek – czołówka',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=mlS1A-hebMs',
+        source: 'YouTube',
+        description: 'Kultowa czołówka jednej z najsłynniejszych dobranocek.',
+      },
+      {
+        id: 'dob-1',
+        title: 'Polskie dobranocki – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=dobranocka+Bolek+i+Lolek+Reksio+Mi%C5%9B+Uszatek',
+        source: 'YouTube',
+        description: 'Czołówki i fragmenty bajek.',
+      },
+      {
+        id: 'dob-2',
+        title: 'Dobranocka – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=dobranocka%20Wieczorynka%20telewizja&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania.',
+      },
+    ],
+    relatedIds: ['telewizja-prl', 'dzieci-prl', 'animacja-prl', 'teleranek'],
+  },
+  {
+    id: 'lato-z-radiem',
+    title: 'Lato z Radiem',
+    subtitle: 'Wakacyjny towarzysz i „Polka Dziadek”',
+    category: 'kultura',
+    tags: ['radio', 'media', 'rozrywka', 'życie codzienne'],
+    yearStart: 1971,
+    yearEnd: 1989,
+    summary: 'Popularna wakacyjna audycja Programu I Polskiego Radia (od 1971), rozpoznawalna po sygnale „Polka Dziadek”.',
+    content: `## Audycja
+„Lato z Radiem” to popularna wakacyjna audycja Programu I Polskiego Radia, nadawana od 1971 roku i towarzysząca Polakom przez letnie miesiące.
+
+## Polka Dziadek
+Rozpoznawalnym sygnałem audycji stała się skoczna melodia „Polka Dziadek” – jeden z najbardziej znanych dżingli polskiego radia.
+
+## Formuła
+Audycja łączyła muzykę, informacje, porady, reportaże i konkursy, tworząc pogodny, wakacyjny klimat.
+
+## Towarzysz lata
+„Lato z Radiem” rozbrzmiewało na plażach, działkach i w domach, stając się dźwiękowym tłem wakacji milionów słuchaczy.
+
+## Trwałość
+Audycja przetrwała przemiany ustrojowe i nadawana jest do dziś, pozostając jedną z najdłużej istniejących w polskim radiu.
+
+## Znaczenie
+„Lato z Radiem” to symbol PRL-owskich wakacji i siły radia w czasach, gdy było ono głównym towarzyszem codzienności.`,
+    trivia: ['Sygnałem audycji jest skoczna „Polka Dziadek”.', 'Audycja ruszyła w 1971 roku i nadawana jest nieprzerwanie do dziś.'],
+    resources: [
+      {
+        id: 'lzr-yt',
+        title: '„Lato z Radiem” – sygnał „Polka Dziadek”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=k4FITH0BtYA',
+        source: 'YouTube',
+        description: 'Kultowy dżingiel wakacyjnej audycji.',
+      },
+      {
+        id: 'lzr-1',
+        title: 'Lato z Radiem – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Lato+z+Radiem+czo%C5%82%C3%B3wka+audycja',
+        source: 'YouTube',
+        description: 'Archiwalne materiały i nagrania.',
+      },
+      {
+        id: 'lzr-2',
+        title: 'Lato z Radiem – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Lato%20z%20Radiem%20audycja&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania.',
+      },
+    ],
+    relatedIds: ['radio-prl', 'lista-przebojow-trojki', 'zycie-codzienne'],
+  },
+  {
+    id: 'komputery-domowe',
+    title: 'Komputery domowe lat 80.',
+    subtitle: 'ZX Spectrum, Atari i giełdy',
+    category: 'społeczeństwo',
+    tags: ['technika', 'nauka', 'młodzież', 'lata 80.'],
+    yearStart: 1984,
+    yearEnd: 1989,
+    summary: 'Fala mikrokomputerów domowych (ZX Spectrum, Atari, Commodore), która w latach 80. rozbudziła pasję młodego pokolenia mimo barier i niedoboru.',
+    content: `## Boom lat 80.
+W drugiej połowie lat 80. do Polski dotarła fala mikrokomputerów domowych, rozbudzając pasję młodego pokolenia mimo barier dewizowych i niedoboru.
+
+## Kultowe modele
+Najpopularniejsze były ZX Spectrum, Atari (800XL, 65XE), Commodore 64 oraz Amiga – sprowadzane z Zachodu lub kupowane na giełdach.
+
+## Giełdy i kasety
+Giełdy komputerowe (m.in. w Warszawie) były centrami handlu sprzętem i grami. Programy i gry przegrywano z kaset magnetofonowych, a ich ładowanie trwało wiele minut.
+
+## Polskie konstrukcje
+Powstawały też krajowe komputery, jak Meritum czy szkolne Elwro 800 Junior, choć ustępowały zachodnim odpowiednikom.
+
+## Subkultura
+Wokół komputerów rozwinęła się subkultura – pisma (np. „Bajtek”), wymiana gier i pierwsze domowe próby programowania.
+
+## Znaczenie
+Domowe komputery zwiastowały nadejście ery cyfrowej i otwarcie na świat, mimo ograniczeń schyłkowego PRL.`,
+    trivia: ['Gry i programy przegrywano z kaset magnetofonowych – ładowanie potrafiło trwać kilkanaście minut.', 'Sprzęt zdobywano głównie na giełdach komputerowych; popularne było pismo „Bajtek”.'],
+    resources: [
+      {
+        id: 'kom-yt',
+        title: 'Komputery domowe lat 80. – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=komputery+domowe+PRL+ZX+Spectrum+Atari+Commodore',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o mikrokomputerach.',
+      },
+      {
+        id: 'kom-wk',
+        title: 'Mikrokomputery w Polsce – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=mikrokomputery%20domowe%20Polska%20lata%2080&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania.',
+      },
+      {
+        id: 'kom-2',
+        title: 'Giełda komputerowa PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=gie%C5%82da+komputerowa+PRL+gry+kasety',
+        source: 'YouTube',
+        description: 'Materiały o handlu sprzętem i grami.',
+      },
+    ],
+    relatedIds: ['nauka-prl', 'jacek-karpinski', 'zycie-codzienne'],
+  },
+  {
+    id: 'telefon-prl',
+    title: 'Telefon w PRL',
+    subtitle: 'Luksus, na który czekało się latami',
+    category: 'społeczeństwo',
+    tags: ['życie codzienne', 'technika', 'łączność', 'kontrola'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Własny telefon był w PRL luksusem – na założenie linii czekało się latami, a rozmowy bywały podsłuchiwane.',
+    content: `## Luksus i czekanie
+Własny telefon w PRL był luksusem – na założenie linii czekało się nawet kilkanaście lat, a przydział bywał przedmiotem starań i znajomości.
+
+## Sprzęt
+W użyciu były aparaty tarczowe z charakterystyczną „kręconą” tarczą, a na wsiach i w starszych instalacjach – telefony na korbkę, łączone przez telefonistkę.
+
+## Linie współdzielone
+Powszechne były tzw. „party line” – linie współdzielone przez kilku abonentów, co utrudniało rozmowy i sprzyjało podsłuchiwaniu sąsiadów.
+
+## Automaty
+W miastach działały automaty telefoniczne na żetony (później na karty); kolejka do budki telefonicznej bywała codziennym widokiem.
+
+## Kontrola
+Nad rozmowami, zwłaszcza międzymiastowymi i zagranicznymi, ciążyła groza inwigilacji – stąd ironiczne powiedzenie o „rozmowie kontrolowanej”.
+
+## Znaczenie
+Telefon w PRL ilustruje skalę niedoboru i kontroli – nawet podstawowa łączność była reglamentowana i nadzorowana.`,
+    trivia: ['Na założenie telefonu czekało się nieraz kilkanaście lat.', 'Wiele osób korzystało ze współdzielonych linii „party line”, a automaty działały na żetony.'],
+    resources: [
+      {
+        id: 'tel-yt',
+        title: 'Telefon w PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=telefon+PRL+aparat+tarczowy+budka+%C5%BCetony',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o łączności.',
+      },
+      {
+        id: 'tel-wk',
+        title: 'Telekomunikacja w PRL – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=telefonia%20PRL%20telekomunikacja&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania.',
+      },
+      {
+        id: 'tel-2',
+        title: 'Automaty i budki telefoniczne PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=budka+telefoniczna+PRL+automat+%C5%BCeton',
+        source: 'YouTube',
+        description: 'Materiały o automatach telefonicznych.',
+      },
+    ],
+    relatedIds: ['zycie-codzienne', 'mieszkania-prl', 'kolejki-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -19993,4 +20213,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1970, event: 'Premiera „Rejsu” Marka Piwowskiego', category: 'kultura', entryId: 'rejs-film' },
   { year: 1981, event: 'Premiera „Misia” Stanisława Barei', category: 'kultura', entryId: 'mis-film' },
   { year: 1984, event: 'Premiera „Seksmisji” Juliusza Machulskiego', category: 'kultura', entryId: 'seksmisja-film' },
+  { year: 1971, event: 'Startuje „Lato z Radiem” – kultowa wakacyjna audycja', category: 'kultura', entryId: 'lato-z-radiem' },
+  { year: 1975, event: 'Premiera dobranocki „Miś Uszatek”', category: 'kultura', entryId: 'dobranocka' },
+  { year: 1986, event: 'Boom domowych mikrokomputerów (ZX Spectrum, Atari, C64)', category: 'społeczeństwo', entryId: 'komputery-domowe' },
 ];
