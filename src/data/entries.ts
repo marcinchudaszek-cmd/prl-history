@@ -20523,6 +20523,228 @@ Kolej spajała kraj i była częścią codziennego doświadczenia milionów Pola
     ],
     relatedIds: ['zycie-codzienne', 'turystyka-prl', 'gospodarka-prl'],
   },
+  {
+    id: 'lato-grzegorz',
+    title: 'Grzegorz Lato',
+    subtitle: 'Król strzelców mundialu 1974',
+    category: 'osoby',
+    tags: ['sport', 'piłka nożna', 'lata 70.', 'reprezentacja'],
+    yearStart: 1971,
+    yearEnd: 1984,
+    summary: 'Skrzydłowy złotej reprezentacji, jedyny Polak będący królem strzelców mistrzostw świata (7 goli, RFN 1974).',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Grzegorz%20Lato.jpg?width=800',
+    imageCaption: 'Grzegorz Lato – król strzelców mistrzostw świata 1974.',
+    content: `## Sylwetka
+Grzegorz Lato (ur. 1950) był skrzydłowym i napastnikiem reprezentacji Polski oraz Stali Mielec, jednym z najwybitniejszych piłkarzy złotej ery.
+
+## Mundial 1974
+Na mistrzostwach świata w RFN został królem strzelców z siedmioma golami – jako jedyny Polak w historii. Polska zajęła wówczas 3. miejsce.
+
+## Reprezentacja
+Wraz z drużyną Kazimierza Górskiego zdobył złoto olimpijskie w 1972 roku, a także brązowe medale mundiali 1974 i 1982.
+
+## Styl
+Słynął z szybkości, skuteczności i znakomitej gry głową oraz wykorzystywania kontrataków i dośrodkowań.
+
+## Po karierze
+Grał także za granicą (Belgia, Meksyk), pozostając legendą Stali Mielec i reprezentacji.
+
+## Znaczenie
+Lato to jeden z najlepszych polskich piłkarzy w historii i symbol najlepszej epoki rodzimego futbolu.`,
+    trivia: ['Jest jedynym Polakiem, który został królem strzelców mistrzostw świata.', 'Zdobył medale trzech wielkich imprez: igrzysk 1972 oraz mundiali 1974 i 1982.'],
+    resources: [
+      {
+        id: 'lat-yt',
+        title: 'Grzegorz Lato – 7 goli mundialu 1974',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=ZLVM1Jz4SxA',
+        source: 'YouTube',
+        description: 'Kompilacja bramek króla strzelców MŚ 1974.',
+      },
+      {
+        id: 'lat-1',
+        title: 'Grzegorz Lato – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Grzegorz+Lato+reprezentacja+Stal+Mielec',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania meczów.',
+      },
+      {
+        id: 'lat-2',
+        title: 'Grzegorz Lato – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Grzegorz%20Lato%20pi%C5%82karz&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o piłkarzu.',
+      },
+    ],
+    relatedIds: ['mundial-1974', 'sport-prl', 'deyna-kazimierz'],
+  },
+  {
+    id: 'gassowski-wojciech',
+    title: 'Wojciech Gąssowski',
+    subtitle: '„Gdzie się podziały tamte prywatki”',
+    category: 'osoby',
+    tags: ['kultura', 'muzyka', 'estrada', 'big-beat'],
+    yearStart: 1963,
+    yearEnd: 1989,
+    summary: 'Piosenkarz i gitarzysta, autor nostalgicznego przeboju „Gdzie się podziały tamte prywatki” oraz „Zielonych wzgórz nad Soliną”.',
+    content: `## Sylwetka
+Wojciech Gąssowski (ur. 1943) to piosenkarz, gitarzysta i kompozytor, popularny od lat 60., wykonawca melodyjnej muzyki rozrywkowej.
+
+## Big-beat i estrada
+Karierę rozpoczynał w epoce big-beatu, z czasem stając się rozpoznawalną postacią polskiej estrady.
+
+## Przeboje
+Najsłynniejsze utwory to „Gdzie się podziały tamte prywatki”, „Zielone wzgórza nad Soliną” i „Tak mi źle, tak mi szaro”.
+
+## Prywatki
+„Gdzie się podziały tamte prywatki” stało się nostalgicznym hymnem o domowych potańcówkach i minionej młodości.
+
+## Popularność
+Występował na festiwalach i listach przebojów, ciesząc się sympatią publiczności przez dekady.
+
+## Znaczenie
+Gąssowski to klasyk polskiej piosenki rozrywkowej, którego przeboje grane są do dziś na imprezach i potańcówkach.`,
+    trivia: ['„Gdzie się podziały tamte prywatki” to nostalgiczny hymn o domowych potańcówkach.', '„Zielone wzgórza nad Soliną” to jeden z jego najbardziej rozpoznawalnych przebojów.'],
+    resources: [
+      {
+        id: 'wg-yt',
+        title: 'Wojciech Gąssowski – „Gdzie się podziały tamte prywatki”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=oJTL_CstQwM',
+        source: 'YouTube',
+        description: 'Nostalgiczny przebój o dawnych potańcówkach.',
+      },
+      {
+        id: 'wg-1',
+        title: 'Wojciech Gąssowski – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Wojciech+G%C4%85ssowski+Zielone+wzg%C3%B3rza+nad+Solin%C4%85',
+        source: 'YouTube',
+        description: 'Wykonania i materiały archiwalne.',
+      },
+      {
+        id: 'wg-2',
+        title: 'Wojciech Gąssowski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Wojciech%20G%C4%85ssowski&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o artyście.',
+      },
+    ],
+    relatedIds: ['festiwal-opole', 'kultura-prl', 'dwa-plus-jeden'],
+  },
+  {
+    id: 'sluzba-wojskowa',
+    title: 'Zasadnicza służba wojskowa',
+    subtitle: 'Dwa lata w „ludowym” wojsku',
+    category: 'społeczeństwo',
+    tags: ['wojsko', 'życie codzienne', 'młodzież', 'kontrola'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Obowiązkowa, zwykle dwuletnia służba w Ludowym Wojsku Polskim – obrzęd przejścia pokoleń młodych mężczyzn, naznaczony drylem i indoktrynacją.',
+    content: `## Obowiązek
+Zasadnicza służba wojskowa była obowiązkowa dla młodych mężczyzn i trwała zwykle dwa lata. Stanowiła swoisty obrzęd przejścia kolejnych pokoleń.
+
+## Pobór
+O przydziale decydowały komisje wojskowe; „bilet” do wojska był nieunikniony, a odroczenia (np. studia) jedynie odkładały służbę w czasie.
+
+## Realia
+Koszarowe życie oznaczało dryl, musztrę, prace porządkowe oraz „falę” – nieformalne dręczenie młodszych roczników przez starszych.
+
+## Indoktrynacja i przysięga
+W wojsku prowadzono szkolenie polityczne. Przysięga wojskowa zawierała deklarację wierności sojuszowi z ZSRR – jej odmowa (m.in. w ruchu Wolność i Pokój) groziła więzieniem.
+
+## Po służbie
+„Książeczka wojskowa” była ważnym dokumentem, a odbyta służba bywała warunkiem niektórych karier i przywilejów.
+
+## Znaczenie
+Armia z poboru była narzędziem socjalizacji i kontroli – wspólnym doświadczeniem milionów mężczyzn epoki PRL.`,
+    trivia: ['Wśród poborowych panowała „fala” – nieformalne dręczenie młodszych roczników.', 'Przysięga zawierała deklarację wierności ZSRR, co kontestował ruch Wolność i Pokój.'],
+    resources: [
+      {
+        id: 'sw2-yt',
+        title: 'Służba wojskowa w PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=zasadnicza+s%C5%82u%C5%BCba+wojskowa+PRL+LWP+koszary',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o wojsku z poboru.',
+      },
+      {
+        id: 'sw2-wk',
+        title: 'Zasadnicza służba wojskowa – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=zasadnicza%20s%C5%82u%C5%BCba%20wojskowa%20Polska&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania.',
+      },
+      {
+        id: 'sw2-2',
+        title: 'Ludowe Wojsko Polskie – codzienność',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Ludowe+Wojsko+Polskie+koszary+pob%C3%B3r',
+        source: 'YouTube',
+        description: 'Materiały o życiu w wojsku.',
+      },
+    ],
+    relatedIds: ['lwp', 'uklad-warszawski', 'zycie-codzienne'],
+  },
+  {
+    id: 'trzepak-podworko',
+    title: 'Trzepak i podwórko',
+    subtitle: 'Analogowe dzieciństwo PRL',
+    category: 'społeczeństwo',
+    tags: ['życie codzienne', 'dzieci', 'blokowiska', 'rozrywka'],
+    yearStart: 1960,
+    yearEnd: 1989,
+    summary: 'Trzepak i osiedlowe podwórko były centrum dzieciństwa w PRL – świata zabaw bez ekranów, „na dworze do wieczora”.',
+    content: `## Centrum podwórka
+Trzepak – metalowa konstrukcja do trzepania dywanów – był nieformalnym centrum życia osiedlowych dzieci i nastolatków.
+
+## Zabawy
+Królowały gra w gumę, klasy, podchody, palant, kapsle i „dwa ognie”; na trzepaku siadało się, ćwiczyło akrobacje i umawiało na zabawy.
+
+## Bez ekranów
+Dzieci spędzały czas na dworze „do wieczora”, bez telefonów i komputerów; wracało się dopiero na wołanie rodziców z okna.
+
+## Blokowiska
+W osiedlach z wielkiej płyty podwórko i trzepak były wspólną przestrzenią integrującą całe pokolenia mieszkańców.
+
+## Symbol
+Trzepak stał się symbolem analogowego, podwórkowego dzieciństwa i jest dziś przedmiotem nostalgii.
+
+## Znaczenie
+Podwórko PRL to świat samodzielnej, wspólnotowej zabawy – ikona dzieciństwa epoki, wspominana z rozrzewnieniem.`,
+    trivia: ['Trzepak do dywanów był nieformalnym centrum spotkań osiedlowych dzieci.', 'Kultowe zabawy podwórkowe to guma, klasy, kapsle i „dwa ognie”.'],
+    resources: [
+      {
+        id: 'trz-yt',
+        title: 'Podwórko i dzieciństwo w PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=podw%C3%B3rko+PRL+dzieci%C5%84stwo+trzepak+zabawy',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o dzieciństwie.',
+      },
+      {
+        id: 'trz-wk',
+        title: 'Dzieciństwo w PRL – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=dzieci%C5%84stwo%20PRL%20zabawy%20podw%C3%B3rkowe&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania.',
+      },
+      {
+        id: 'trz-2',
+        title: 'Zabawy podwórkowe PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=zabawy+podw%C3%B3rkowe+guma+klasy+kapsle+PRL',
+        source: 'YouTube',
+        description: 'Materiały o dawnych zabawach.',
+      },
+    ],
+    relatedIds: ['dzieci-prl', 'zycie-codzienne', 'mieszkania-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -20718,4 +20940,6 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1987, event: 'Zdzisława Sośnicka – przebój „Aleja gwiazd”', category: 'kultura', entryId: 'sosnicka-zdzislawa' },
   { year: 1968, event: 'Pierwszy Festiwal Piosenki Żołnierskiej w Kołobrzegu', category: 'kultura', entryId: 'festiwal-kolobrzeg' },
   { year: 1975, event: 'Krzysztof Krawczyk nagrywa przebój „Parostatek”', category: 'kultura', entryId: 'krawczyk-krzysztof' },
+  { year: 1974, event: 'Grzegorz Lato królem strzelców mundialu (7 goli)', category: 'społeczeństwo', entryId: 'lato-grzegorz' },
+  { year: 1986, event: 'Wojciech Gąssowski – przebój „Gdzie się podziały tamte prywatki”', category: 'kultura', entryId: 'gassowski-wojciech' },
 ];
