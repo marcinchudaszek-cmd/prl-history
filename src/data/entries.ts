@@ -689,19 +689,23 @@ Kościół w PRL był ostoją tożsamości narodowej i wolności sumienia oraz k
     summary: 'Nowa Huta – wzorcowe miasto socjalistyczne wybudowane od podstaw przy Krakowie, siedziba Huty im. Lenina. Symbol industrializacji PRL, który z czasem stał się centrum oporu robotniczego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Nowa%20Huta%20-%20Plac%20Centralny%20z%20lotu%20ptaka.jpg?width=800',
     imageCaption: 'Plac Centralny w Nowej Hucie – wzorcowe miasto socrealizmu.',
-    content: `Nowa Huta powstała od podstaw od 1949 roku jako "socjalistyczne miasto przyszłości" – projekt urbanistyczny realizowany zgodnie z zasadami socrealizmu.
+    content: `## Geneza
+Decyzję o budowie wielkiego kombinatu metalurgicznego i nowego miasta pod Krakowem podjęto w 1949 roku. Nowa Huta miała być wzorcowym miastem socjalistycznym i przeciwwagą dla „inteligenckiego”, niepokornego Krakowa.
 
-**Huta im. Lenina (dziś ArcelorMittal):**
-Kombinat metalurgiczny był sercem Nowej Huty. W szczytowym okresie zatrudniał ok. 40 000 pracowników.
+## Budowa
+Powstała od podstaw na podkrakowskich polach, z monumentalnym, socrealistycznym układem urbanistycznym – Placem Centralnym i promienistymi alejami. Do pracy ściągnięto tysiące robotników, junaków „Służby Polsce” i mieszkańców wsi.
 
-**Projekt urbanistyczny:**
-Centralne Muzeum i aleja Róż (dziś aleja Jana Pawła II) tworzyły oś reprezentacyjną. Architektura wzorowana na sowieckim realizmie socjalistycznym.
+## Kombinat
+Sercem miasta była Huta im. Lenina – gigantyczny zakład, duma propagandy i symbol forsownej industrializacji planu sześcioletniego.
 
-**Nowa Huta bez kościoła:**
-Władze celowo nie uwzględniły kościoła w projekcie. Walka parafian o budowę kościoła trwała 30 lat (1956–1977). Kościół Matki Bożej Królowej Polski ("Arka Pana") wyświęcono w 1977 roku.
+## Walka o krzyż
+Wbrew zamysłom władz Nowa Huta stała się ośrodkiem religijności. W 1960 roku doszło do gwałtownych starć w obronie krzyża w Bieńczycach, a po latach – mimo oporu władz – wzniesiono kościół Arka Pana.
 
-**Rola w opozycji:**
-Robotnicy Nowej Huty aktywnie uczestniczyli w strajkach 1980 roku i strukturach "Solidarności". Huta była jednym z kluczowych obiektów objętych stanem wojennym.`,
+## Ośrodek Solidarności
+W latach 80. robotnicy kombinatu byli aktywni w Solidarności; Nowa Huta stała się miejscem strajków i demonstracji, brutalnie pacyfikowanych przez ZOMO.
+
+## Znaczenie
+Nowa Huta to paradoks PRL – miasto budowane jako pomnik komunizmu, które stało się bastionem wiary i sprzeciwu.`,
     resources: [
       {
         id: 'nh-yt',
@@ -914,25 +918,23 @@ W 2008 roku prokuratura IPN oskarżyła Jaruzelskiego o wydanie bezprawnych rozk
     summary: 'Lech Wałęsa – elektryk z Gdańska, który stał się symbolem pokojowego oporu przeciw komunizmowi. Przywódca Solidarności, laureat Pokojowej Nagrody Nobla (1983) i Prezydent RP (1990–1995).',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Lech%20Wa%C5%82%C4%99sa%201980.jpg?width=800',
     imageCaption: 'Lech Wałęsa w czasie strajku w Stoczni Gdańskiej, 1980.',
-    content: `Lech Wałęsa (ur. 29 września 1943 w Popowie) wyrósł na najważniejszą postać polskiej opozycji demokratycznej i jeden z symboli pokojowych przemian w Europie Wschodniej.
+    content: `## Sylwetka
+Lech Wałęsa (ur. 1943), elektryk ze Stoczni Gdańskiej, stał się przywódcą Solidarności, laureatem Pokojowej Nagrody Nobla i pierwszym prezydentem wolnej Polski wybranym w wyborach powszechnych.
 
-**Droga do przywództwa:**
-Pracownik Stoczni Gdańskiej im. Lenina, zwolniony za działalność związkową w 1976 roku. Działał w Wolnych Związkach Zawodowych Wybrzeża i KOR.
+## Sierpień 1980
+Przeskoczywszy stoczniowy mur, stanął na czele strajku w Stoczni Gdańskiej i Międzyzakładowego Komitetu Strajkowego. Podpisał Porozumienia Gdańskie, zostając twarzą rodzącego się ruchu.
 
-**Sierpień 1980:**
-14 sierpnia 1980 roku przeskoczył przez ogrodzenie Stoczni Gdańskiej i stanął na czele strajku. Jako przewodniczący MKS podpisał Porozumienia Gdańskie 31 sierpnia 1980 roku.
+## Przywódca Solidarności
+Jako przewodniczący NSZZ „Solidarność” stał się symbolem pokojowego oporu. W stanie wojennym był internowany, lecz jego pozycji nie udało się złamać.
 
-**Przewodniczący Solidarności:**
-Do stanu wojennego przewodził związkowi liczącemu 10 milionów członków. Po 13 grudnia 1981 roku internowany przez blisko rok.
+## Nobel
+W 1983 roku otrzymał Pokojową Nagrodę Nobla – odebraną w jego imieniu przez żonę Danutę, z obawy przed odmową powrotu do kraju – co wzmocniło międzynarodową rangę Solidarności.
 
-**Pokojowa Nagroda Nobla (1983):**
-Przyznana podczas stanu wojennego. Wałęsa nie pojechał do Oslo w obawie przed brakiem możliwości powrotu. Nagrodę odebrała jego żona Danuta.
+## Okrągły Stół i prezydentura
+Współprzewodniczył obradom Okrągłego Stołu (1989), a w 1990 roku został wybrany na prezydenta RP w pierwszych powszechnych wyborach prezydenckich.
 
-**Okrągły Stół 1989:**
-Przewodniczył stronie solidarnościowej w obradach zakończonych pokojową transformacją ustrojową.
-
-**Prezydent RP (1990–1995):**
-Wybrany w pierwszych wolnych wyborach prezydenckich. Jego prezydentura była naznaczona sporami z parlamentem i mediami.`,
+## Znaczenie
+Wałęsa to jedna z najważniejszych postaci najnowszej historii Polski – symbol zwycięstwa Solidarności, choć jego rola i biografia bywają przedmiotem sporów.`,
     resources: [
       {
         id: 'wal-1',
@@ -975,23 +977,23 @@ Wybrany w pierwszych wolnych wyborach prezydenckich. Jego prezydentura była naz
     summary: 'Bolesław Bierut – stalinowski przywódca Polski Ludowej w najciemniejszym okresie jej dziejów (1948–1956). Prezydent KRN, a następnie I sekretarz PZPR. Pod jego rządami przeprowadzono masowe represje i procesy polityczne.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Boles%C5%82aw%20Bierut.jpg?width=800',
     imageCaption: 'Bolesław Bierut – prezydent i I sekretarz KC PZPR w okresie stalinizmu.',
-    content: `Bolesław Bierut (ur. 18 kwietnia 1892 – zm. 12 marca 1956 w Moskwie) był agentem sowieckim i absolutnym władcą stalinowskiej Polski.
+    content: `## Sylwetka
+Bolesław Bierut (1892–1956) był czołowym polskim komunistą, przywódcą kraju w najciemniejszym, stalinowskim okresie powojennej Polski.
 
-**Droga do władzy:**
-Działacz Komunistycznej Partii Polski, agent NKWD/Komintern. Po 1944 roku przewodniczący Krajowej Rady Narodowej, następnie Prezydent RP (1947–1952) z nadania komunistów.
+## Droga do władzy
+Związany z Kominternem i sowieckimi służbami, po wojnie objął funkcję prezydenta Krajowej Rady Narodowej, następnie prezydenta RP (1947) i I sekretarza KC PZPR – stając się faktycznym dyktatorem.
 
-**Stalinizacja Polski (1948–1956):**
-- Likwidacja opozycji – sfałszowane wybory 1947 roku
-- Masowe aresztowania i procesy polityczne (generał "Nil" August Fieldorf, rtm. Witold Pilecki i setki innych)
-- Wymuszanie zeznań przez tortury w więzieniach UB
-- Sowietyzacja gospodarki, kultury, wojska
-- Uchwalenie stalinowskiej Konstytucji PRL (1952)
+## Stalinizm
+Pod jego rządami nasiliły się terror, procesy pokazowe, prześladowania Kościoła i żołnierzy podziemia, kolektywizacja i sowietyzacja kraju. Kult jednostki czynił z Bieruta „polskiego Stalina”.
 
-**Konstytucja 1952:**
-Ustawa zasadnicza wzorowana na sowieckiej. Proklamowała "dyktaturę proletariatu" i podporządkowała Polskę modelowi radzieckiemu.
+## Konstytucja 1952
+Za jego rządów uchwalono stalinowską Konstytucję PRL (1952), cementującą ustrój komunistyczny i zależność od ZSRR.
 
-**Śmierć w Moskwie:**
-Bierut uczestniczył w XX Zjeździe KPZR, gdzie Chruszczow wygłosił tajny referat o zbrodniach Stalina. Zmarł 12 marca 1956 roku w Moskwie – okoliczności śmierci nigdy nie zostały w pełni wyjaśnione.`,
+## Śmierć
+Bierut zmarł w 1956 roku w Moskwie, podczas XX Zjazdu KPZR, na którym Chruszczow potępił zbrodnie Stalina. Jego śmierć zbiegła się z początkiem odwilży.
+
+## Ocena
+Bierut pozostaje symbolem stalinizmu w Polsce – okresu terroru i całkowitego podporządkowania kraju Moskwie.`,
     resources: [
       {
         id: 'bie-1',
@@ -1262,23 +1264,23 @@ Proces zabójców (proces toruński) był bezprecedensowy, choć nie objął moc
     summary: 'Pacyfikacja Kopalni Węgla Kamiennego "Wujek" w Katowicach – 16 grudnia 1981 roku oddziały ZOMO i wojsko otworzyły ogień do strajkujących górników. Zginęło 9 osób, 23 zostały ranne. Najtragiczniejsza ze zbrodni stanu wojennego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Katowice%20kopalnia%20Wujek%207.jpg?width=800',
     imageCaption: 'Kopalnia Wujek w Katowicach – miejsce pacyfikacji z 16 grudnia 1981 roku.',
-    content: `KWK "Wujek" w Katowicach stała się symbolem zbrodni stanu wojennego.
+    content: `## Tło
+Po wprowadzeniu stanu wojennego 13 grudnia 1981 roku w wielu zakładach wybuchły strajki. Górnicy kopalni „Wujek” w Katowicach zaprotestowali przeciw internowaniu działaczy i delegalizacji Solidarności.
 
-**Strajk:**
-Po ogłoszeniu stanu wojennego 13 grudnia 1981 roku górnicy KWK Wujek podjęli strajk protestacyjny. 15 grudnia oddziały ZOMO i wojska, które przez noc bezskutecznie próbowały spacyfikować strajk.
+## Pacyfikacja
+16 grudnia 1981 roku do kopalni wkroczyły oddziały ZOMO wsparte czołgami i specjalnym plutonem. Doszło do brutalnej pacyfikacji strajkujących górników.
 
-**16 grudnia 1981 roku:**
-Rankiem oddziały szturmowe ZOMO, wsparte przez pluton specjalny uzbrojony w karabiny bojowe, wkroczyły na teren kopalni. Gdy górnicy stawiali opór, padły strzały.
+## Ofiary
+W wyniku użycia broni palnej zginęło dziewięciu górników, a ponad dwudziestu zostało rannych. Była to najtragiczniejsza zbrodnia stanu wojennego.
 
-**Ofiary – 9 zabitych górników:**
-- Józef Czekalski, Krzysztof Giza, Joachim Gnida, Ryszard Gzik, Bogusław Kopczak, Andrzej Pełka, Jan Stawisiński, Zbigniew Wilk, Zenon Zając
-- Rannych zostało 23 górników
+## Tuszowanie
+Władze przedstawiały wydarzenia tendencyjnie, a sprawcy przez lata pozostawali bezkarni. Pamięć o ofiarach podtrzymywały rodziny, Kościół i podziemna Solidarność.
 
-**Sprawcy:**
-Przez lata próbowano ukryć odpowiedzialność. W 1992 roku wszczęto śledztwo. W 2007 roku sąd skazał dowódcę plutonu specjalnego na 1 rok i 8 miesięcy więzienia w zawieszeniu – wyrok uznawano za skandalicznie łagodny.
+## Symbol
+„Wujek” stał się symbolem oporu i ofiary stanu wojennego. Pod kopalnią co roku odbywają się uroczystości, a poległych upamiętnia pomnik-krzyż.
 
-**Upamiętnienie:**
-Przy kopalni stoi Pomnik Górników Poległych w Czasie Stanu Wojennego. 16 grudnia jest dniem pamięci o ofiarach KWK Wujek.`,
+## Sprawiedliwość
+Procesy sprawców toczyły się dopiero po 1989 roku i ciągnęły przez dziesięciolecia, kończąc się skazaniem części dowodzących pacyfikacją.`,
     resources: [
       {
         id: 'wuj-1',
@@ -1537,17 +1539,23 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     yearStart: 1956,
     yearEnd: 1990,
     summary: 'ZOMO — Zmotoryzowane Oddziały Milicji Obywatelskiej — były wyspecjalizowanymi jednostkami pacyfikacyjnymi MO PRL, powołanymi w 1956 r. i rozwiązanymi w 1990 r. Zasłynęły z brutalnych interwencji podczas strajków i demonstracji, szczególnie w czasie stanu wojennego, gdy ich działania kosztowały życie kilkudziesięciu osób.',
-    content: `**Powstanie i organizacja** — ZOMO powołano w 1956 r. jako odpowiedź na fale strajków Października. Jednostki podlegały MSW i były rozmieszczone w każdym województwie. W szczytowym okresie (1981–1983) liczyły ok. 60–70 tys. funkcjonariuszy.
+    content: `## Czym było ZOMO
+Zmotoryzowane Odwody Milicji Obywatelskiej (ZOMO) to specjalne, paramilitarne oddziały milicji powołane w 1956 roku do tłumienia zamieszek i „przywracania porządku”.
 
-**Wyposażenie i metody** — Standardowe wyposażenie: pałki milicyjne (tzw. „pały"), tarcze, hełmy, maski, miotacze gazu łzawiącego, armatki wodne, granaty hukowe i gumowe kule. Pojazdy opancerzone SKOT służyły do rozpraszania tłumów.
+## Wyposażenie i metody
+ZOMO dysponowało pałkami, tarczami, armatkami wodnymi, gazem łzawiącym i pojazdami opancerzonymi. Słynęło z brutalności wobec demonstrantów.
 
-**Interwencje 1956–1980** — ZOMO uczestniczyło w pacyfikacji demonstracji Marca 1968, masakrze na Wybrzeżu w Grudniu 1970 oraz „ścieżkach zdrowia" w Czerwcu 1976 — robotnicy z Radomia i Ursusa bici byli pałkami między szeregami funkcjonariuszy.
+## Narzędzie represji
+Oddziały kierowano do tłumienia protestów – m.in. w Grudniu 1970, Czerwcu 1976, a przede wszystkim w stanie wojennym, gdy stały się głównym narzędziem pacyfikacji.
 
-**Stan wojenny 1981–1983** — Po 13 grudnia 1981 r. ZOMO stało się głównym narzędziem pacyfikacji. Szturmowało kopalnię Wujek (9 zabitych górników), Hutę Katowice, Stocznię Gdańską. Przez cały stan wojenny internowano ok. 10 tys. działaczy opozycji.
+## Wujek i pacyfikacje
+To pluton specjalny ZOMO odpowiadał za śmierć dziewięciu górników w kopalni „Wujek”. ZOMO rozbijało też uliczne manifestacje Solidarności w latach 80.
 
-**Pacyfikacje po 1983 r.** — ZOMO nadal pacyfikowało demonstracje m.in. w Gdańsku (1988), Nowej Hucie (1987–1988) i podczas strajków sierpniowych 1988, które doprowadziły do Okrągłego Stołu.
+## Strach i pogarda
+ZOMO budziło powszechny strach i nienawiść; pogardliwie nazywano jego funkcjonariuszy „pałami”, a skrót złośliwie rozwijano na różne sposoby.
 
-**Rozwiązanie i odpowiedzialność** — ZOMO rozwiązano 31 maja 1990 r., zastąpione przez Oddział Prewencji Policji. W 2008 r. sąd skazał dowódcę plutonu z Wujka Romualda Cieślaka na 11 lat więzienia.`,
+## Koniec
+ZOMO rozwiązano na przełomie 1989 i 1990 roku wraz z reformą milicji i przekształceniem jej w policję. Pozostało symbolem przemocy aparatu PRL.`,
     resources: [
       {
         id: 'zomo-1',
@@ -1812,6 +1820,8 @@ Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradc�
     yearStart: 1980,
     yearEnd: 2013,
     summary: 'Tadeusz Mazowiecki — katolicki intelektualista, redaktor Więzi, doradca Solidarności — 24 sierpnia 1989 r. został pierwszym niekomunistycznym premierem Polski od 1947 r. Jego rząd przeprowadził transformację ustrojową, „plan Balcerowicza" — radykalną terapię szokową — i ogłosił politykę „grubej kreski" w stosunku do PRL-owskiej przeszłości.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tadeusz%20Mazowiecki%20with%20EP%20President%201990.jpg?width=800',
+    imageCaption: 'Tadeusz Mazowiecki – pierwszy niekomunistyczny premier (1989).',
     content: `**Biografia i środowisko** — Tadeusz Mazowiecki urodził się 18 kwietnia 1927 r. w Płocku. Związany z miesięcznikiem **Więź**, którego był redaktorem naczelnym w latach 1958–1981. Więź była unikalnym głosem polskiego katolicyzmu społecznego, otwartym na dialog z laicką inteligencją. Poseł Sejmu PRL z ramienia Koła Znak (1961–1971) — jeden z nielicznych, który głosował przeciw wzmocnieniu roli PZPR w konstytucji w 1976 r.
 
 **Sierpień 1980** — Mazowiecki był jednym z pierwszych intelektualistów, którzy przybyli do strajkującej Stoczni Gdańskiej w sierpniu 1980 r. Wszedł w skład Komisji Ekspertów przy Solidarności i stał się kluczowym doradcą Wałęsy. Redagował „Tygodnik Solidarność" — nakład 500 tys. egzemplarzy. Po 13 grudnia 1981 r. internowany przez 6 miesięcy.
@@ -4381,6 +4391,8 @@ Ostatnie lata życia spędziła w Krakowie, otoczona gronem przyjaciół. Pisał
     title: 'Bronisław Geremek',
     category: 'osoby',
     shortDesc: 'Mediewista, doradca Solidarności, minister spraw zagranicznych – jeden z architektów polskiej transformacji.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2004.05.01.%20Bronislaw%20Geremek%2001.jpg?width=800',
+    imageCaption: 'Bronisław Geremek – historyk i jeden z architektów Okrągłego Stołu.',
     content: `## Bronisław Geremek (1932–2008)
 
 Bronisław Geremek był wybitnym historykiem mediewistą i jednym z najważniejszych doradców Solidarności – intelektualistą, który swoją wiedzę o historii i dyplomacji poświęcił sprawie demokratycznej transformacji Polski.
@@ -4558,19 +4570,23 @@ Reformy Gorbaczowa uwolniły odśrodkowe siły, których nie mógł kontrolować
     tags: ['4 czerwca', 'wybory 1989', 'Solidarność', 'Sejm kontraktowy', 'wolne wybory', 'transformacja'],
     yearStart: 1989,
     summary: 'Wybory parlamentarne z 4 czerwca 1989 roku – pierwsze częściowo wolne wybory w PRL od 1947 roku. Solidarność zdobyła wszystkie możliwe do wygrania mandaty w Sejmie i 99 na 100 miejsc w Senacie. Wynik wyborów był początkiem końca komunizmu nie tylko w Polsce, lecz w całej Europie Środkowej.',
-    content: `Wybory 4 czerwca 1989 roku były bezpośrednim efektem porozumień Okrągłego Stołu. Na mocy ugody Solidarność mogła wystawić kandydatów do 35% miejsc w Sejmie (161 mandatów) oraz do całego Senatu (100 mandatów).
+    content: `## Geneza
+Częściowo wolne wybory parlamentarne 4 czerwca 1989 roku były efektem ustaleń Okrągłego Stołu. Po raz pierwszy od dekad opozycja mogła legalnie kandydować.
 
-**Kampania i "drużynowe zdjęcia":**
-Solidarność prowadziła kampanię pod hasłem "Polska" i charakterystycznym plakatem z logo związku. Kandydaci Solidarności fotografowali się z Lechem Wałęsą – "drużynowe zdjęcia" stały się symbolem kampanii. Komitet Obywatelski koordynował działania ogólnopolsko.
+## Zasady
+Uzgodniono, że 65% mandatów w Sejmie zarezerwowano dla PZPR i jej sojuszników, a o pozostałe 35% oraz o wszystkie miejsca w przywróconym Senacie toczyła się wolna rywalizacja.
 
-**Wynik – totalne zaskoczenie:**
-Solidarność wygrała wszystkie 161 mandatów w Sejmie i 99 na 100 w Senacie (100. mandat zdobył bezpartyjny kandydat – nie komunista). Komitet Obywatelski rozbił komunistów w cuglach. Wynik był zaskoczeniem nawet dla samej Solidarności.
+## Kampania
+Solidarność prowadziła kampanię pod znakiem plakatu z Garym Cooperem („W samo południe”) i symboliką Komitetów Obywatelskich, które zmobilizowały społeczeństwo.
 
-**Reakcja i formowanie rządu:**
-Komuniści, mimo iż zachowali 65% miejsc w Sejmie (ich konstytucyjną "gwarancję"), utracili legitymizację. Negocjacje o formie rządu trwały kilka tygodni. Wojciech Jaruzelski z trudem wybrany został Prezydentem (w głosowaniu Zgromadzenia Narodowego). W sierpniu 1989 roku Tadeusz Mazowiecki objął stanowisko premiera.
+## Miażdżące zwycięstwo
+Solidarność zdobyła wszystkie możliwe mandaty sejmowe (161) oraz 99 ze 100 miejsc w Senacie. Lista krajowa władzy poniosła kompromitującą porażkę.
 
-**Efekt domina:**
-Wynik polskich wyborów zainspirował Węgry, NRD, Czechosłowację, Bułgarię i Rumunię. Do końca 1989 roku komunizm upadł w całej Europie Środkowej. 9 listopada 1989 roku runął Mur Berliński.`,
+## Skutki
+Wynik obnażył brak poparcia dla władzy. Kompromis „wasz prezydent, nasz premier” doprowadził do powstania rządu Tadeusza Mazowieckiego – pierwszego niekomunistycznego premiera w bloku wschodnim.
+
+## Znaczenie
+4 czerwca 1989 roku uznaje się za symboliczny koniec PRL i początek III Rzeczypospolitej oraz impuls do przemian w całej Europie Środkowo-Wschodniej.`,
     resources: [
       {
         id: 'wyl89-1',
@@ -8541,6 +8557,8 @@ Solidarność Walcząca pozostaje kontrowersyjną organizacją. Zwolennicy podkr
     yearStart: 1954,
     yearEnd: 9999,
     summary: 'Zbigniew Bujak – lider Solidarności regionu Mazowsze, jeden z najważniejszych działaczy podziemnej Solidarności po 13 grudnia 1981 roku. Przez 4,5 roku ukrywał się przed SB, stając się symbolem oporu. Schwytany w 1986 roku, zwolniony na mocy amnestii.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zbigniew%20Bujak%20%281986%29.jpg?width=800',
+    imageCaption: 'Zbigniew Bujak (1986) – przywódca podziemnej Solidarności na Mazowszu.',
     content: `Zbigniew Bujak (ur. 1954) – elektryk z Ursusa, przewodniczący Zarządu Regionu Mazowsze NSZZ "Solidarność", jeden z filarów podziemnej struktury związkowej w stanie wojennym i po nim.
 
 **Działalność przed stanem wojennym**
