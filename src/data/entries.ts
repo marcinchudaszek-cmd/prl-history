@@ -1930,23 +1930,23 @@ Przed bramą stoczni wznosi się pomnik Poległych Stoczniowców 1970 – trzy k
     yearStart: 1952,
     yearEnd: 1994,
     summary: 'Radio Wolna Europa – finansowana przez CIA rozgłośnia emigracyjna nadająca z Monachium. Polska sekcja RWE dostarczała Polakom niezależne informacje przez ponad 40 lat, stając się jednym z najważniejszych narzędzi oporu wobec komunistycznej propagandy.',
-    content: `Radio Wolna Europa (Radio Free Europe) powstało w 1950 roku z inicjatywy rządu USA jako narzędzie informacyjne skierowane do krajów za żelazną kurtyną. Polska sekcja rozpoczęła nadawanie w 1952 roku z siedziby w Monachium.
+    content: `## Czym było RWE
+Rozgłośnia Polska Radia Wolna Europa, nadająca z Monachium od 1952 roku, była najważniejszym niezależnym źródłem informacji docierającym zza żelaznej kurtyny do Polaków.
 
-**Rola w polskim życiu publicznym:**
-Przez ponad 40 lat RWE było dla milionów Polaków głównym źródłem rzetelnych informacji – o strajkach, represjach, wydarzeniach na świecie, których nie pokazywała oficjalna prasa i telewizja. Słuchanie radia było ryzykowne – władze PRL aktywnie zagłuszały sygnał, a posiadanie odbiornika strojnego na zachodnie stacje mogło być pretekstem do szykan.
+## Misja
+RWE przekazywało wiadomości przemilczane lub zakłamane przez oficjalne media, komentarze polityczne oraz audycje kulturalne i religijne, podtrzymując nadzieję i niezależne myślenie.
 
-**Zagłuszanie:**
-Komunistyczne władze przez dziesięciolecia prowadziły kosztowną akcję zagłuszania sygnału RWE. Wzdłuż zachodniej granicy ustawiano nadajniki zakłócające, a całoroczny budżet akcji zagłuszania przekraczał budżet samej rozgłośni.
+## Jan Nowak-Jeziorański
+Przez ćwierć wieku (1952–1976) rozgłośnią kierował Jan Nowak-Jeziorański, „Kurier z Warszawy”, nadając jej rangę i wiarygodność.
 
-**Czołowe postaci:**
-- Jan Nowak-Jeziorański – legendarny dyrektor polskiej sekcji (1952–1976), kurier AK podczas II wojny światowej
-- Zygmunt Michałowski, Jerzy Lerski i inni dziennikarze emigracyjni tworzyli trzon redakcji
+## Zagłuszanie
+Władze PRL prowadziły kosztowną akcję zagłuszania RWE, budując sieć stacji zakłócających. Mimo to słuchacze „łapali” audycje, zwłaszcza wieczorem i poza miastami.
 
-**Wpływ na opozycję:**
-RWE relacjonowało na bieżąco działalność KOR, Solidarności, strajki i represje stanu wojennego. Informacje nadawane przez radio wracały do kraju przez podziemny drugi obieg. Władze PRL wielokrotnie atakowały rozgłośnię – w 1981 roku dokonano zamachu bombowego na siedzibę w Monachium.
+## Wpływ
+RWE informowało o protestach, represjach i działalności opozycji – m.in. ujawniło zbrodnie UB w audycjach zbiegłego płk. Józefa Światły – wspierając KOR i Solidarność. Słuchanie „Wolnej Europy” było formą cichego oporu.
 
-**Zakończenie działalności:**
-Po 1989 roku misja RWE w Polsce stopniowo traciła rację bytu. Polska sekcja zakończyła nadawanie w 1994 roku.`,
+## Znaczenie
+Radio Wolna Europa odegrało kluczową rolę w przełamywaniu monopolu informacyjnego komunistów i w budowaniu niezależnego społeczeństwa.`,
     resources: [
       {
         id: 'rwe-1',
@@ -2277,27 +2277,23 @@ Pod wpływem strajków gen. Czesław Kiszczak podjął pierwsze rozmowy z Wałę
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'Nomenklatura – system obsady stanowisk kierowniczych w PRL, zarezerwowanych wyłącznie dla osób zatwierdzonych przez PZPR. Tworzył on uprzywilejowaną klasę społeczną korzystającą z dóbr niedostępnych dla ogółu obywateli.',
-    content: `Nomenklatura (od łac. nomenclatura – wykaz nazw) to pojęcie oznaczające listę stanowisk, których obsada wymagała zatwierdzenia przez odpowiednie instancje partyjne PZPR. W praktyce oznaczało to, że aparat partyjny kontrolował kluczowe mianowania na wszystkich szczeblach – od dyrektorów fabryk po rektorów uczelni, redaktorów naczelnych, sędziów i oficerów wojska.
+    content: `## Pojęcie
+Nomenklatura to system obsadzania kluczowych stanowisk w państwie, gospodarce i instytucjach wyłącznie osobami zatwierdzonymi przez partię (PZPR) – a także sama uprzywilejowana warstwa tak nominowanych.
 
-**Dwie listy:**
-- Nomenklatura KC PZPR – kilkaset najważniejszych stanowisk w całym kraju
-- Nomenklatura komitetów wojewódzkich i powiatowych – tysiące stanowisk lokalnych
+## Mechanizm
+Listy „nomenklaturowe” obejmowały tysiące posad – od dyrektorów fabryk po redaktorów i urzędników. Awans zależał nie od kompetencji, lecz od lojalności i partyjnego namaszczenia.
 
-**Przywileje nomenklatury:**
-Osoby należące do elity partyjnej korzystały z systemu przywilejów niedostępnych dla przeciętnego obywatela:
-- Sklepy wewnętrzne (tzw. sklepy za żółtymi firankami) z towarami luksusowymi
-- Lekarze i szpitale resortowe wyższego standardu
-- Wczasy w ośrodkach partyjnych (Mazury, Wisła, Karpacz)
-- Limuzyny służbowe i szoferzy
-- Dewizy i dostęp do sklepów Pewex (waluta zachodnia)
-- Mieszkania w prestiżowych lokalizacjach
-- Paszporty i możliwość podróży na Zachód
+## Przywileje
+Nomenklatura cieszyła się przywilejami niedostępnymi dla zwykłych obywateli: lepszym zaopatrzeniem, mieszkaniami, samochodami, talonami, wczasami i odrębną opieką zdrowotną.
 
-**Sprzeczność z ideologią:**
-Istnienie nomenklatury stało w jaskrawej sprzeczności z oficjalną ideologią równości i dyktatury proletariatu. Rozziew między propagandą a rzeczywistością był jednym z powodów narastającego cynizmu społecznego i odrzucenia komunizmu.
+## Klasa rządząca
+W praktyce nomenklatura stała się nową, zamkniętą klasą uprzywilejowaną – zaprzeczeniem głoszonego egalitaryzmu, budzącym społeczną niechęć.
 
-**Koniec nomenklatury:**
-Po 1989 roku wielu przedstawicieli nomenklatury sprawnie dokonało transformacji – przeszli z partyjnych foteli do zarządów prywatyzowanych przedsiębiorstw. Zjawisko tzw. uwłaszczenia nomenklatury było jednym z kontrowersyjnych elementów polskiej transformacji ustrojowej.`,
+## Krytyka
+Przywileje aparatu były jednym z głównych źródeł frustracji i jednym z postulatów Solidarności, domagającej się sprawiedliwości społecznej i jawności życia publicznego.
+
+## Znaczenie
+Nomenklatura to klucz do zrozumienia realnego mechanizmu władzy w PRL – systemu, w którym partia kontrolowała kariery i rozdzielała przywileje.`,
     resources: [
       {
         id: 'nomenklatura-1',
@@ -2402,25 +2398,23 @@ Katyń stał się symbolem martyrologii Polaków pod okupacją sowiecką i zakł
     yearStart: 1944,
     yearEnd: 1990,
     summary: 'Milicja Obywatelska (MO) – komunistyczna formacja policyjna powołana w 1944 roku jako zamiennik przedwojennej Policji Państwowej. Przez 45 lat pełniła funkcje porządkowe, lecz przede wszystkim była narzędziem represji politycznych i kontroli społeczeństwa.',
-    content: `Milicja Obywatelska powstała 7 października 1944 roku dekretem PKWN. Nazwa celowo nawiązywała do tradycji rewolucyjnych – zamiast "policji" kojarzącej się z burżuazyjnym państwem, użyto słowa "milicja". W praktyce MO przejęła funkcje policji, ale pod ścisłym nadzorem partyjnym i sowieckiego NKWD.
+    content: `## Czym była MO
+Milicja Obywatelska (MO) to umundurowana policja PRL, utworzona w 1944 roku. Obok funkcji porządkowych była narzędziem władzy komunistycznej.
 
-**Struktura:**
-- Komendy Główna, Wojewódzkie, Powiatowe, Dzielnicowe
-- Służba Dochodzeniowo-Śledcza
-- Zmotoryzowane Odwody Milicji Obywatelskiej (ZOMO) – od 1956
-- Ochotnicza Rezerwa Milicji Obywatelskiej (ORMO) – milicja ochotnicza
+## Struktura i podległość
+MO podlegała Ministerstwu Spraw Wewnętrznych i była ściśle powiązana z aparatem bezpieczeństwa (UB, później SB). Milicjant – ironicznie zwany „panem władzą” – był codzienną twarzą państwa.
 
-**ORMO – ramię społeczne:**
-Ochotnicza Rezerwa Milicji Obywatelskiej liczyła setki tysięcy członków. Wykorzystywana do tłumienia protestów, kontrolowania zakładów pracy i demonstracji. Przynależność do ORMO dawała pewne przywileje, ale też kompromitowała w oczach społeczeństwa.
+## Zadania
+Poza zwalczaniem przestępczości MO uczestniczyła w kontroli społeczeństwa: legitymowaniu, pilnowaniu porządku na zgromadzeniach, egzekwowaniu reglamentacji i godziny milicyjnej.
 
-**Milicja a represje polityczne:**
-MO ściśle współpracowała z SB (Służbą Bezpieczeństwa). Uczestniczyła w pacyfikacjach: Czerwiec 1956, Marzec 1968, Grudzień 1970, Czerwiec 1976, stan wojenny. Milicjanci strzelali do demonstrantów w Gdańsku i Gdyni w 1970 roku.
+## ZOMO i represje
+W jej strukturach działały oddziały ZOMO, kierowane do tłumienia protestów. MO brała udział w pacyfikacjach Grudnia 1970, Czerwca 1976 i stanu wojennego.
 
-**Codzienne oblicze MO:**
-Milicja była powszechnie obecna w życiu codziennym. Legitymowanie obywateli, łapanki, kontrole drogowe służyły zarówno celom kryminalnym, jak i politycznym. Kontakty z milicją obywatele traktowali z lękiem i pogardą – stąd pogardliwe określenia "milicjant", "glina", "pała".
+## ORMO
+Milicję wspierała paramilitarna Ochotnicza Rezerwa Milicji Obywatelskiej (ORMO) – masowa formacja kontroli społecznej liczona w setkach tysięcy członków.
 
-**Likwidacja:**
-6 kwietnia 1990 roku Sejm RP uchwalił ustawę powołującą Policję i rozwiązującą Milicję Obywatelską. Znaczna część milicjantów przeszła do nowej formacji po weryfikacji.`,
+## Przekształcenie
+W 1990 roku MO przekształcono w Policję, odcinając się od jej politycznej, represyjnej roli z czasów PRL.`,
     resources: [
       {
         id: 'milicja-1',
@@ -3499,6 +3493,8 @@ Walentynowicz do końca życia czuła, że jest niedoceniana. Historia oddaje je
     title: 'Stanisław Mikołajczyk i PSL',
     category: 'polityka',
     shortDesc: 'Premier rządu londyńskiego, lider PSL – ostatni demokratyczny opór przed komunizacją Polski.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stanislaw%20Mikolajczyk%20in%20Poznan%20%281945r.%29.jpg?width=800',
+    imageCaption: 'Stanisław Mikołajczyk (1945) – przywódca PSL, lider legalnej opozycji.',
     content: `## Stanisław Mikołajczyk i PSL (1944–1947)
 
 Stanisław Mikołajczyk (1901–1966) był liderem Polskiego Stronnictwa Ludowego i ostatnim poważnym politykiem, który próbował ocalić demokratyczny charakter powojennej Polski. Jego klęska była symbolem triumfu komunizmu nad demokracją.
@@ -4213,6 +4209,8 @@ Internowanie w stanie wojennym dotknęło też kobiety – działaczki Solidarno
     yearStart: 1981,
     yearEnd: 1990,
     summary: 'Mieczysław Rakowski (1926–2008) – dziennikarz, redaktor tygodnika "Polityka", wieloletni funkcjonariusz PZPR. Jako wicepremier negocjował ze strajkującymi w 1980 roku. Ostatni I sekretarz KC PZPR i przedostatni premier PRL. Symbolizuje reformatorskie skrzydło partii, które ostatecznie nie zdołało ocalić systemu.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mieczys%C5%82aw%20Rakowski.jpg?width=800',
+    imageCaption: 'Mieczysław Rakowski – działacz PZPR, premier u schyłku PRL.',
     content: `Mieczysław Rakowski był jedną z najbardziej znanych twarzy komunistycznej władzy w Polsce. Jako redaktor naczelny tygodnika "Polityka" (1958–1982) stworzył pismo o stosunkowo liberalnym profilu, które cieszyło się popularnością wśród inteligencji.
 
 **Negocjacje w 1980 roku:**
@@ -5252,6 +5250,8 @@ Negocjacje o wycofaniu wojsk sowieckich rozpoczęły się w 1990 roku. Ostatni �
     yearStart: 1911,
     yearEnd: 1989,
     summary: 'Józef Cyrankiewicz był najdłużej urzędującym premierem PRL (1947–1952 i 1954–1970). Były działacz PPS, po zjednoczeniu z PPR stał się jedną z twarzy systemu komunistycznego w Polsce.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Cyrankiewicz.jpg?width=800',
+    imageCaption: 'Józef Cyrankiewicz – wieloletni premier rządu PRL.',
     content: `## Socjalista i więzień obozów
 
 Józef Cyrankiewicz (ur. 23 IV 1911 w Tarnowie) był przed wojną działaczem Polskiej Partii Socjalistycznej. Uczestnik kampanii wrześniowej 1939 r., trafił do obozu koncentracyjnego Auschwitz (1942) i Mauthausen. Jego obozowe doświadczenie było dla władzy komunistycznej użytecznym kapitałem symbolicznym.
@@ -6850,24 +6850,23 @@ Wzorem sowieckim SB używała psychiatrii jako narzędzia represji: dysydentów 
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'Polski teatr w PRL był polem nieustannej gry między cenzurą a artystyczną wolnością. Mimo ograniczeń wydał wybitnych twórców – Jerzego Grotowskiego, Tadeusza Kantora, Konrada Swinarskiego – i stał się przestrzenią zakodowanego oporu wobec systemu.',
-    content: `## Teatr pod nadzorem
+    content: `## Rola teatru
+W PRL teatr był czymś znacznie więcej niż rozrywką – stał się przestrzenią aluzji, dialogu z widzem i mówienia „między wierszami” o sprawach przemilczanych przez propagandę.
 
-Cenzura i partyjny nadzór nad teatrem istniały przez cały okres PRL. Repertuar musiał być zatwierdzany przez stosowne wydziały kultury; teksty dramatyczne – przejść przez GUKPiW. Dyrektorzy teatrów byli obsadzani przez aparat partyjny. Mimo to teatr pozostał jedną z najbardziej wolnych przestrzeni kulturalnych PRL.
+## Cenzura i aluzja
+Każdy spektakl przechodził przez cenzurę, lecz reżyserzy i aktorzy potrafili przemycać znaczenia. Klasyka (Mickiewicz, Słowacki, Wyspiański) nabierała aktualnych, wolnościowych sensów.
 
-## Wielkie nazwiska
+## Wielkie sceny i twórcy
+Działali wybitni reżyserzy i dyrektorzy – Kazimierz Dejmek, Erwin Axer, Konrad Swinarski, Adam Hanuszkiewicz – a wielcy aktorzy, jak Gustaw Holoubek, nadawali scenom rangę.
 
-- **Jerzy Grotowski** (1933–1999) – twórca "teatru ubogiego" w Opolu i Wrocławiu; jego laboratorium teatralne zyskało światową sławę; w 1968 r. wyemigrował.
-- **Tadeusz Kantor** (1915–1990) – reżyser i artysta plastyczny; założyciel Cricot 2 w Krakowie; jego "Umarła klasa" (1975) i "Wielopole, Wielopole" (1980) to arcydzieła teatru światowego.
-- **Kazimierz Dejmek** (1924–2002) – dyrektor Teatru Narodowego; jego inscenizacja "Dziadów" Mickiewicza wywołała protesty z marca 1968 r.
-- **Konrad Swinarski** (1929–1975) – wybitny reżyser krakowskiego Starego Teatru.
+## Awangarda światowej klasy
+Polska szczyciła się teatrem eksperymentalnym o światowej sławie – Teatrem Laboratorium Jerzego Grotowskiego oraz Cricot 2 Tadeusza Kantora.
 
-## "Dziady" i cenzura
+## Teatr a polityka
+Teatr bywał zarzewiem wydarzeń politycznych – zdjęcie „Dziadów” w reżyserii Dejmka w 1968 roku stało się iskrą Marca '68.
 
-Inscenizacja "Dziadów" Adama Mickiewicza w reżyserii Dejmka (1967/68) stała się politycznym wydarzeniem: publiczność reagowała żywiołowo na antyrosyjskie aluzje. Władze zakazały dalszych przedstawień – co stało się bezpośrednią iskrą Marca 1968.
-
-## Teatr jako Ezopowy język
-
-Reżyserzy nauczyli się mówić "między wierszami": klasyczne dramaty (Słowacki, Mickiewicz, szekspirowskie tragedie) były wystawiane tak, by publiczność odczytywała aktualne aluzje polityczne. Widownia reagowała owacjami na sceny symbolizujące opór. Cenzorzy często nie mogli interweniować bez kompromitowania władzy.`,
+## Znaczenie
+Teatr PRL łączył wysoki poziom artystyczny z funkcją obywatelską, będąc jedną z najważniejszych przestrzeni wolności w zniewolonym kraju.`,
     resources: [
       {
         id: 'teatr-1',
@@ -6908,6 +6907,8 @@ Reżyserzy nauczyli się mówić "między wierszami": klasyczne dramaty (Słowac
     yearStart: 1892,
     yearEnd: 1970,
     summary: 'Gen. Władysław Anders stworzył armię z polskich więźniów sowieckich łagrów i przeprowadził ją przez Persję, Irak i Włochy aż pod Monte Cassino. Zdobycie klasztoru 18 maja 1944 r. to jeden z najświetniejszych polskich czynów zbrojnych II wojny.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/W%C5%82adys%C5%82aw%20Anders.jpg?width=800',
+    imageCaption: 'Gen. Władysław Anders – dowódca II Korpusu, symbol emigracji niepodległościowej.',
     content: `## Jeniec sowieckich łagrów
 
 Władysław Anders (ur. 11 VIII 1892 w Krośniewicach Błońskich) był oficerem kawalerii Wojska Polskiego. W kampanii wrześniowej 1939 r. ciężko ranny, trafił do sowieckiej niewoli. Przez prawie dwa lata więziony na Łubiance i w Moskwie – mimo tortur nie podpisał żadnej deklaracji współpracy.
