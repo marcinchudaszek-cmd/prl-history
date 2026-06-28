@@ -20745,6 +20745,228 @@ Podwórko PRL to świat samodzielnej, wspólnotowej zabawy – ikona dzieciństw
     ],
     relatedIds: ['dzieci-prl', 'zycie-codzienne', 'mieszkania-prl'],
   },
+  {
+    id: 'pronko-krystyna',
+    title: 'Krystyna Prońko',
+    subtitle: 'Jazzujący głos i „Jesteś lekiem na całe zło”',
+    category: 'osoby',
+    tags: ['kultura', 'muzyka', 'jazz', 'estrada', 'kobiety'],
+    yearStart: 1970,
+    yearEnd: 1989,
+    summary: 'Wokalistka jazzowa i estradowa o mocnym głosie, autorka przeboju „Jesteś lekiem na całe zło” i „Psalmu stojących w kolejce”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krystyna%20Pro%C5%84ko.jpg?width=800',
+    imageCaption: 'Krystyna Prońko – wokalistka jazzowa i estradowa.',
+    content: `## Sylwetka
+Krystyna Prońko (ur. 1947) to wokalistka jazzowa i estradowa, kompozytorka i pedagog, obdarzona silnym, charakterystycznym głosem.
+
+## Głos i wszechstronność
+Słynęła z jazzującej maniery i szerokiej skali; swobodnie poruszała się między jazzem, soulem a piosenką estradową.
+
+## Przeboje
+Największą popularność przyniósł jej przebój „Jesteś lekiem na całe zło” (1983). Wykonała też „Psalm stojących w kolejce”.
+
+## Psalm stojących w kolejce
+Utwór ten stał się gorzkim, celnym komentarzem do realiów gospodarki niedoboru i wszechobecnych kolejek.
+
+## Scena jazzowa
+Związana ze środowiskiem polskiego jazzu, występowała z czołowymi muzykami i ceniona jest za muzykalność.
+
+## Znaczenie
+Prońko to jedna z najlepszych polskich wokalistek jazzowo-estradowych, a jej przeboje pozostają klasyką.`,
+    trivia: ['Wykonała „Psalm stojących w kolejce” – gorzki komentarz do realiów niedoboru.', 'Jest cenioną wokalistką jazzową oraz pedagogiem śpiewu.'],
+    resources: [
+      {
+        id: 'kp-yt',
+        title: 'Krystyna Prońko – „Jesteś lekiem na całe zło” (1983)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=BJhRUzwhOe0',
+        source: 'YouTube',
+        description: 'Największy przebój artystki.',
+      },
+      {
+        id: 'kp-1',
+        title: 'Krystyna Prońko – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Krystyna+Pro%C5%84ko+jazz+koncert',
+        source: 'YouTube',
+        description: 'Wykonania i materiały archiwalne.',
+      },
+      {
+        id: 'kp-2',
+        title: 'Krystyna Prońko – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Krystyna%20Pro%C5%84ko&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o artystce.',
+      },
+    ],
+    relatedIds: ['jazz-prl', 'festiwal-opole', 'sosnicka-zdzislawa'],
+  },
+  {
+    id: 'stan-borys',
+    title: 'Stan Borys',
+    subtitle: '„Jaskółka uwięziona” i ekspresja sceny',
+    category: 'osoby',
+    tags: ['kultura', 'muzyka', 'rock', 'big-beat'],
+    yearStart: 1963,
+    yearEnd: 1989,
+    summary: 'Charyzmatyczny wokalista rockowy i poeta sceny, znany z dramatycznej „Jaskółki uwięzionej”, śpiewał w czołowych zespołach big-beatu.',
+    content: `## Sylwetka
+Stan Borys (właśc. Stanisław Guzek, ur. 1941) to wokalista rockowy i poeta sceny, znany z charyzmatycznych, ekspresyjnych występów.
+
+## Big-beat
+Śpiewał w czołowych zespołach big-beatu – Blackout i Niebiesko-Czarni – stając się jedną z wyrazistych postaci sceny lat 60.
+
+## Jaskółka uwięziona
+Jego najsłynniejszy utwór, dramatyczna ballada „Jaskółka uwięziona”, stał się klasykiem i jednym z najbardziej rozpoznawalnych nagrań epoki.
+
+## Styl
+Borys łączył śpiew z recytacją i poezją, budując ekspresyjny, buntowniczy wizerunek artysty osobnego.
+
+## Emigracja
+W latach 70. wyjechał do Stanów Zjednoczonych, gdzie kontynuował działalność artystyczną.
+
+## Znaczenie
+Stan Borys to legenda polskiej sceny rockowej i poetyckiej, a „Jaskółka uwięziona” pozostaje jego nieśmiertelnym przebojem.`,
+    trivia: ['Śpiewał w czołowych zespołach big-beatu – Blackout i Niebiesko-Czarni.', '„Jaskółka uwięziona” to jeden z najbardziej rozpoznawalnych utworów epoki.'],
+    resources: [
+      {
+        id: 'sb2-yt',
+        title: 'Stan Borys – „Jaskółka uwięziona” (Sopot 1973)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=WeiJXcryBic',
+        source: 'YouTube',
+        description: 'Najsłynniejszy utwór artysty.',
+      },
+      {
+        id: 'sb2-1',
+        title: 'Stan Borys – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Stan+Borys+Jask%C3%B3%C5%82ka+uwi%C4%99ziona+koncert',
+        source: 'YouTube',
+        description: 'Wykonania i materiały archiwalne.',
+      },
+      {
+        id: 'sb2-2',
+        title: 'Stan Borys – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Stan%20Borys%20piosenkarz&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o artyście.',
+      },
+    ],
+    relatedIds: ['festiwal-opole', 'muzyka-rockowa-prl', 'big-beat-prl'],
+  },
+  {
+    id: 'oranzada-napoje',
+    title: 'Oranżada i napoje PRL',
+    subtitle: 'Saturator, Cocta i woda z sokiem',
+    category: 'społeczeństwo',
+    tags: ['życie codzienne', 'gastronomia', 'napoje', 'obyczaje'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Napoje epoki – oranżada, woda sodowa z saturatora, Cocta i Polo-Cockta – nostalgiczne smaki codzienności PRL.',
+    content: `## Smaki PRL
+Napoje epoki to przede wszystkim oranżada, woda sodowa z saturatora oraz krajowe odpowiedniki coli – Cocta i Polo-Cockta.
+
+## Saturator
+Uliczny saturator nalewał wodę sodową „czystą” lub „z sokiem” – pito ją latem ze wspólnej, jedynie płukanej szklanki.
+
+## Oranżada
+Oranżada – w proszku lub w butelkach z charakterystycznym porcelanowym kapslem na drucianym pałąku – była smakiem dzieciństwa.
+
+## Cocta i Polo-Cockta
+Gdy zachodnia cola była luksusem z Pewexu, jej rolę pełniły polskie napoje Cocta i Polo-Cockta.
+
+## Butelki na kaucję
+Szklane butelki zwracało się do skupu za kaucją – był to powszechny, ekologiczny zwyczaj epoki.
+
+## Znaczenie
+Napoje PRL to nostalgiczny element codzienności i przykład pomysłowości w warunkach niedoboru.`,
+    trivia: ['Wodę sodową z saturatora pito ze wspólnej, jedynie płukanej szklanki.', 'Polskimi odpowiednikami coli były Cocta i Polo-Cockta.'],
+    resources: [
+      {
+        id: 'orz-yt',
+        title: 'Napoje PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=oran%C5%BCada+saturator+Cocta+PRL+napoje',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o napojach epoki.',
+      },
+      {
+        id: 'orz-wk',
+        title: 'Oranżada – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=oran%C5%BCada%20napoje%20PRL&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania.',
+      },
+      {
+        id: 'orz-2',
+        title: 'Saturatory i woda sodowa PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=saturator+woda+sodowa+PRL',
+        source: 'YouTube',
+        description: 'Materiały o ulicznych saturatorach.',
+      },
+    ],
+    relatedIds: ['zycie-codzienne', 'bar-mleczny', 'kuchnia-prl'],
+  },
+  {
+    id: 'motocykle-prl',
+    title: 'Motocykle i motorowery PRL',
+    subtitle: 'Junak, WSK, Komar i Romet',
+    category: 'społeczeństwo',
+    tags: ['technika', 'motoryzacja', 'życie codzienne', 'przemysł'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Jednoślady – tańsze od auta motocykle i motorowery (WSK, Junak, Komar, Romet) – były ważnym środkiem transportu w PRL.',
+    content: `## Dwa kółka
+Motocykle i motorowery, tańsze i łatwiej dostępne od samochodu, były popularnym środkiem transportu w PRL, zwłaszcza na wsi i w mniejszych miastach.
+
+## Polskie marki
+Krajowy przemysł produkował motocykle WSK, WFM i SHL oraz dumę produkcji – Junaka, a także motorowery i rowery marki Romet.
+
+## Junak
+Junak M10 był najmocniejszym polskim motocyklem i obiektem pożądania – symbolem rodzimej myśli technicznej.
+
+## Komar i Romet
+Motorower Komar oraz produkty zakładów Romet masowo jeździły po drogach, będąc pierwszym „własnym pojazdem” wielu Polaków.
+
+## Realia
+Dla wielu rodzin motocykl z przyczepką lub motorower był pojazdem na lata – nierzadko jedynym, przed erą Malucha.
+
+## Znaczenie
+Jednoślady to ważny element motoryzacji i codzienności PRL, dziś obiekt kolekcjonerskiej nostalgii.`,
+    trivia: ['Junak M10 był najmocniejszym polskim motocyklem i obiektem pożądania.', 'Popularne motorowery to Komar oraz jednoślady i rowery zakładów Romet.'],
+    resources: [
+      {
+        id: 'mot-yt',
+        title: 'Motocykle PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=motocykle+PRL+Junak+WSK+Komar+Romet',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o jednośladach.',
+      },
+      {
+        id: 'mot-wk',
+        title: 'Junak (motocykl) – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Junak%20motocykl%20WSK%20polskie%20motocykle&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania.',
+      },
+      {
+        id: 'mot-2',
+        title: 'Polskie motorowery i motocykle',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Romet+Komar+motorower+PRL',
+        source: 'YouTube',
+        description: 'Materiały o krajowej produkcji jednośladów.',
+      },
+    ],
+    relatedIds: ['motoryzacja-prl', 'fiat-126p', 'gospodarka-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -20942,4 +21164,6 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1975, event: 'Krzysztof Krawczyk nagrywa przebój „Parostatek”', category: 'kultura', entryId: 'krawczyk-krzysztof' },
   { year: 1974, event: 'Grzegorz Lato królem strzelców mundialu (7 goli)', category: 'społeczeństwo', entryId: 'lato-grzegorz' },
   { year: 1986, event: 'Wojciech Gąssowski – przebój „Gdzie się podziały tamte prywatki”', category: 'kultura', entryId: 'gassowski-wojciech' },
+  { year: 1973, event: 'Stan Borys – „Jaskółka uwięziona” na festiwalu w Sopocie', category: 'kultura', entryId: 'stan-borys' },
+  { year: 1983, event: 'Krystyna Prońko – przebój „Jesteś lekiem na całe zło”', category: 'kultura', entryId: 'pronko-krystyna' },
 ];
