@@ -20967,6 +20967,224 @@ Jednoślady to ważny element motoryzacji i codzienności PRL, dziś obiekt kole
     ],
     relatedIds: ['motoryzacja-prl', 'fiat-126p', 'gospodarka-prl'],
   },
+  {
+    id: 'sami-swoi',
+    title: 'Sami swoi',
+    subtitle: 'Kargul i Pawlak na Ziemiach Odzyskanych',
+    category: 'kultura',
+    tags: ['film', 'komedia', 'kino', 'kresy'],
+    yearStart: 1967,
+    summary: 'Kultowa komedia Sylwestra Chęcińskiego (1967) o dwóch zwaśnionych rodzinach – Kargulach i Pawlakach – przesiedlonych z Kresów na Ziemie Odzyskane.',
+    content: `## Fabuła
+„Sami swoi” (1967), w reżyserii Sylwestra Chęcińskiego i według scenariusza Andrzeja Mularczyka, opowiada o dwóch zwaśnionych rodzinach przesiedlonych po wojnie z Kresów Wschodnich na Ziemie Odzyskane.
+
+## Bohaterowie
+Kargul (Władysław Hańcza) i Pawlak (Wacław Kowalski) to sąsiedzi-wrogowie, których mimo zaciętej kłótni o miedzę łączy ślub ich dzieci.
+
+## Humor
+Kłótnie o granicę, kultowe kwestie „A niech to gęś kopnie” czy „Sąsiad, podejdźcie no do płota” na stałe weszły do języka potocznego.
+
+## Trylogia
+Ogromna popularność zaowocowała kontynuacjami: „Nie ma mocnych” (1974) i „Kochaj albo rzuć” (1977).
+
+## Tło historyczne
+Film w lekkiej formie podejmuje temat powojennego przesiedlenia i oswajania nowej, obcej ziemi.
+
+## Znaczenie
+To jedna z najpopularniejszych polskich komedii i klasyk telewizyjnych emisji świątecznych.`,
+    trivia: ['Kwestie z filmu, jak „A niech to gęś kopnie”, weszły na stałe do języka.', 'Powstała cała trylogia: „Sami swoi”, „Nie ma mocnych”, „Kochaj albo rzuć”.'],
+    resources: [
+      {
+        id: 'ss-yt',
+        title: '„Sami swoi” – najśmieszniejsze momenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Vpg5muyBT2I',
+        source: 'YouTube',
+        description: 'Wybrane sceny z Kargulem i Pawlakiem.',
+      },
+      {
+        id: 'ss-1',
+        title: '„Sami swoi” – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Sami+swoi+1967+film+scena+Kargul+Pawlak',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'ss-2',
+        title: '„Sami swoi” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Sami%20swoi%20film%201967%20Ch%C4%99ci%C5%84ski&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['bareja-kino', 'mis-film', 'seksmisja-film'],
+  },
+  {
+    id: 'vabank',
+    title: 'Vabank',
+    subtitle: 'Kasiarz Kwinto i debiut Machulskiego',
+    category: 'kultura',
+    tags: ['film', 'komedia', 'kryminał', 'kino'],
+    yearStart: 1981,
+    summary: 'Kultowa komedia kryminalna Juliusza Machulskiego (1981) o kasiarzu Kwincie, który w przedwojennej Warszawie planuje zemstę na bankierze Kramerze.',
+    content: `## Fabuła
+„Vabank” (1981), reżyserski debiut Juliusza Machulskiego, rozgrywa się w Warszawie lat 30. Doświadczony kasiarz Kwinto planuje wyrafinowaną zemstę na bankierze Kramerze, który wiele lat wcześniej wrobił go i wydał policji.
+
+## Obsada
+W rolach głównych Jan Machulski (Kwinto) i Leonard Pietraszak (Kramer), a także Witold Pyrkosz i Jacek Chmielnik.
+
+## Skok
+Precyzyjnie zaplanowany skok na bank i misterne wrobienie Kramera to popis kina gatunkowego w eleganckim, retro stylu.
+
+## Muzyka
+Niezapomniana, jazzująca ścieżka dźwiękowa Henryka Kuźniaka stała się równie kultowa jak sam film.
+
+## Kontynuacja
+Sukces przyniósł kontynuację „Vabank II, czyli riposta” (1985).
+
+## Znaczenie
+„Vabank” to jeden z najlepiej zrealizowanych polskich filmów rozrywkowych epoki i klasyk komedii kryminalnej.`,
+    trivia: ['Reżyserski debiut Juliusza Machulskiego – Kwintę zagrał jego ojciec, Jan.', 'Jazzująca muzyka Henryka Kuźniaka stała się równie kultowa jak film.'],
+    resources: [
+      {
+        id: 'vb-yt',
+        title: '„Vabank” – sceny i zwiastun',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Vabank+1981+Machulski+scena+Kwinto',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'vb-2',
+        title: '„Vabank” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Vabank%20film%201981%20Machulski&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+      {
+        id: 'vb-3',
+        title: 'Henryk Kuźniak – muzyka z „Vabanku”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Vabank+muzyka+Henryk+Ku%C5%BAniak',
+        source: 'YouTube',
+        description: 'Słynna ścieżka dźwiękowa.',
+      },
+    ],
+    relatedIds: ['sami-swoi', 'bareja-kino', 'seksmisja-film'],
+  },
+  {
+    id: 'alternatywy-4',
+    title: 'Alternatywy 4',
+    subtitle: 'Bloku lokatorzy kontra gospodarz Anioł',
+    category: 'kultura',
+    tags: ['film', 'serial', 'komedia', 'satyra', 'telewizja'],
+    yearStart: 1983,
+    yearEnd: 1986,
+    summary: 'Satyryczny serial Stanisława Barei (zrealizowany 1983, emisja 1986) o lokatorach warszawskiego bloku i ich walce z despotycznym gospodarzem Stanisławem Aniołem.',
+    content: `## Serial
+„Alternatywy 4” w reżyserii Stanisława Barei (zrealizowany w 1983, wyemitowany w 1986) opowiada o lokatorach nowego bloku przy fikcyjnej ulicy Alternatywy 4 i ich zmaganiach z gospodarzem domu.
+
+## Stanisław Anioł
+Despotycznego, koniunkturalnego gospodarza zagrał Roman Wilhelmi – to jedna z najsłynniejszych ról w historii polskiego serialu.
+
+## Satyra
+Serial to gorzka, absurdalna satyra na realia PRL: kombinatorstwo, kolejki, układy i wszechobecną biurokrację.
+
+## Cenzura
+Emisję opóźniono o kilka lat ze względu na wymowę – serial trafił na ekrany dopiero w 1986/87.
+
+## Postacie
+Galeria sąsiadów stanowi barwny przekrój całego społeczeństwa PRL.
+
+## Znaczenie
+Obok „Misia” to sztandarowe dzieło „kina Barei” i źródło niezliczonych, do dziś cytowanych tekstów.`,
+    trivia: ['Emisję serialu opóźniono o kilka lat ze względu na satyryczną wymowę.', 'Rola Stanisława Anioła (Roman Wilhelmi) to jedna z ikon polskiego serialu.'],
+    resources: [
+      {
+        id: 'a4-yt',
+        title: '„Alternatywy 4” – scena z odc. 1',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=iH_s81rlcCM',
+        source: 'YouTube',
+        description: 'Fragment serialu z gospodarzem domu.',
+      },
+      {
+        id: 'a4-1',
+        title: '„Alternatywy 4” – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Alternatywy+4+Bareja+Anio%C5%82+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o serialu.',
+      },
+      {
+        id: 'a4-2',
+        title: '„Alternatywy 4” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Alternatywy%204%20serial%20Bareja&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o serialu.',
+      },
+    ],
+    relatedIds: ['bareja-kino', 'czterdziestolatek', 'mis-film'],
+  },
+  {
+    id: 'dezerter-zespol',
+    title: 'Dezerter',
+    subtitle: 'Głos punkowego buntu lat 80.',
+    category: 'kultura',
+    tags: ['muzyka', 'punk', 'opozycja', 'jarocin', 'młodzież'],
+    yearStart: 1981,
+    yearEnd: 1989,
+    summary: 'Jeden z najważniejszych polskich zespołów punkowych, założony w 1981 w Warszawie; bezkompromisowe, antysystemowe teksty uczyniły go głosem buntu młodzieży lat 80.',
+    content: `## Zespół
+Dezerter powstał w 1981 w Warszawie, początkowo pod nazwą SS-20. Szybko stał się jednym z najważniejszych polskich zespołów punkowych.
+
+## Skład
+Trzon grupy tworzyli Robert „Robal” Matera, Krzysztof Grabowski i Dariusz „Stepa” Stepnowski.
+
+## Ku przyszłości
+W 1983 nagrali EP-kę „Ku przyszłości” (znaną też jako „Spytaj milicjanta”); spośród 12 zgłoszonych utworów cenzura dopuściła tylko cztery.
+
+## Bunt
+Bezkompromisowe, antysystemowe teksty czyniły z zespołu autentyczny głos młodzieżowego buntu schyłkowej dekady PRL.
+
+## Jarocin
+Dezerter był jednym z czołowych wykonawców festiwalu w Jarocinie – mekki polskiego punka.
+
+## Znaczenie
+To legenda polskiej sceny punk/hardcore, aktywna do dziś, inspiracja dla kolejnych pokoleń.`,
+    trivia: ['Początkowo zespół nazywał się SS-20 – od radzieckiej rakiety balistycznej.', 'Z 12 zgłoszonych utworów cenzura dopuściła na EP-kę tylko cztery.'],
+    resources: [
+      {
+        id: 'dz-yt',
+        title: 'Dezerter – „Ku przyszłości”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Sz7Jb85wuCk',
+        source: 'YouTube',
+        description: 'Utwór z EP-ki z 1983 r.',
+      },
+      {
+        id: 'dz-1',
+        title: 'Dezerter – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Dezerter+punk+Spytaj+milicjanta',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o zespole.',
+      },
+      {
+        id: 'dz-2',
+        title: 'Dezerter – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Dezerter%20zesp%C3%B3%C5%82%20punk&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o zespole.',
+      },
+    ],
+    relatedIds: ['jarocin-festiwal', 'tsa-zespol', 'kult-zespol'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -21166,4 +21384,8 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1986, event: 'Wojciech Gąssowski – przebój „Gdzie się podziały tamte prywatki”', category: 'kultura', entryId: 'gassowski-wojciech' },
   { year: 1973, event: 'Stan Borys – „Jaskółka uwięziona” na festiwalu w Sopocie', category: 'kultura', entryId: 'stan-borys' },
   { year: 1983, event: 'Krystyna Prońko – przebój „Jesteś lekiem na całe zło”', category: 'kultura', entryId: 'pronko-krystyna' },
+  { year: 1967, event: 'Premiera komedii „Sami swoi” Sylwestra Chęcińskiego', category: 'kultura', entryId: 'sami-swoi' },
+  { year: 1981, event: 'Premiera „Vabanku” – debiut reżyserski Juliusza Machulskiego', category: 'kultura', entryId: 'vabank' },
+  { year: 1983, event: 'Dezerter nagrywa EP „Ku przyszłości” („Spytaj milicjanta”)', category: 'kultura', entryId: 'dezerter-zespol' },
+  { year: 1986, event: 'Emisja serialu „Alternatywy 4” Stanisława Barei', category: 'kultura', entryId: 'alternatywy-4' },
 ];
