@@ -212,6 +212,23 @@ export default function EntryPage({ entryId, onNavigate }: EntryPageProps) {
               {renderContent(entry.content)}
             </div>
           </div>
+
+          {/* Ciekawostki */}
+          {entry.trivia && entry.trivia.length > 0 && (
+            <div className="bg-amber-50 rounded-xl border border-amber-200 shadow-sm p-8 mt-6">
+              <h2 className="text-xl font-bold font-serif text-amber-900 mb-5 flex items-center gap-2">
+                <span>💡</span> Czy wiesz, że…
+              </h2>
+              <ul className="space-y-3">
+                {entry.trivia.map((t, i) => (
+                  <li key={i} className="flex gap-3 text-sm text-gray-700 leading-relaxed">
+                    <span className="text-amber-500 flex-shrink-0 mt-0.5">◆</span>
+                    <span>{t}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
         </div>
 
         {/* Sidebar */}

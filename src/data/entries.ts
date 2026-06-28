@@ -36,6 +36,7 @@ export interface Entry {
   relatedIds: string[];
   image?: string;
   imageCaption?: string;
+  trivia?: string[];
 }
 
 export const entries: Entry[] = [
@@ -48,6 +49,7 @@ export const entries: Entry[] = [
     yearStart: 1981,
     yearEnd: 1983,
     summary: 'Stan wojenny w Polsce – okres w historii PRL wprowadzony 13 grudnia 1981 przez gen. Wojciecha Jaruzelskiego, mający na celu zdławienie opozycji demokratycznej skupionej wokół "Solidarności".',
+    trivia: ['13 grudnia 1981 roku telewizyjni spikerzy Dziennika wystąpili w mundurach wojskowych.', 'Wprowadzono godzinę milicyjną, a rozmowy telefoniczne przerywała zapowiedź „rozmowa kontrolowana”.', 'Zawieszono zajęcia w szkołach i na uczelniach oraz wyjazdy zagraniczne; granice zamknięto.'],
     content: `## Wprowadzenie
 W nocy z 12 na 13 grudnia 1981 roku gen. Wojciech Jaruzelski ogłosił wprowadzenie stanu wojennego. Władzę przejęła Wojskowa Rada Ocalenia Narodowego (WRON), zawieszając Solidarność i prawa obywatelskie.
 
@@ -689,6 +691,7 @@ Kościół w PRL był ostoją tożsamości narodowej i wolności sumienia oraz k
     summary: 'Nowa Huta – wzorcowe miasto socjalistyczne wybudowane od podstaw przy Krakowie, siedziba Huty im. Lenina. Symbol industrializacji PRL, który z czasem stał się centrum oporu robotniczego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Nowa%20Huta%20-%20Plac%20Centralny%20z%20lotu%20ptaka.jpg?width=800',
     imageCaption: 'Plac Centralny w Nowej Hucie – wzorcowe miasto socrealizmu.',
+    trivia: ['Nowa Huta miała być miastem bez kościoła – walka o krzyż w Bieńczycach w 1960 roku zakończyła się starciami z milicją.', 'Układ ulic projektowano także z myślą o obronie – szerokie aleje miały ułatwiać ruch wojsk.'],
     content: `## Geneza
 Decyzję o budowie wielkiego kombinatu metalurgicznego i nowego miasta pod Krakowem podjęto w 1949 roku. Nowa Huta miała być wzorcowym miastem socjalistycznym i przeciwwagą dla „inteligenckiego”, niepokornego Krakowa.
 
@@ -804,6 +807,7 @@ Gomułka pozostaje symbolem zmarnowanych nadziei 1956 roku – polityka, który 
     summary: 'Edward Gierek – I sekretarz KC PZPR w latach 1970–1980. Twórca polityki "drugiej Polski" opartej na zachodnich kredytach i modernizacji. Jego dekada skończyła się kryzysem zadłużenia i narodzinami Solidarności.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Gierek%2C%201973.png?width=800',
     imageCaption: 'Edward Gierek, I sekretarz KC PZPR (1973).',
+    trivia: ['Edward Gierek biegle mówił po francusku – młodość spędził na emigracji we Francji i Belgii, pracując w kopalniach.', 'Słynne „Pomożecie?” z 1971 roku stało się symbolem pozornego dialogu władzy ze społeczeństwem.'],
     content: `## Sylwetka
 Edward Gierek (1913–2001), górnik z doświadczeniem emigracji we Francji i Belgii, był I sekretarzem KC PZPR w latach 1970–1980 – symbolem „dekady sukcesu” i jej spektakularnego krachu.
 
@@ -1595,6 +1599,7 @@ ZOMO rozwiązano na przełomie 1989 i 1990 roku wraz z reformą milicji i przeks
     summary: 'Karol Józef Wojtyła wybrany 16 października 1978 r. na papieża jako Jan Paweł II był pierwszym Papieżem z Polski. Jego trzy pielgrzymki do ojczyzny (1979, 1983, 1987) i słowa „Niech zstąpi Duch Twój i odnowi oblicze ziemi, tej ziemi" odegrały przełomową rolę w przebudzeniu Polaków i narodzinach Solidarności.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Pawe%C5%82%20II.jpg?width=800',
     imageCaption: 'Jan Paweł II – papież, którego pielgrzymki odmieniły PRL.',
+    trivia: ['Podczas I pielgrzymki w 1979 roku na placu Zwycięstwa padły słowa: „Niech zstąpi Duch Twój i odnowi oblicze ziemi. Tej ziemi!”.', 'Na powitanie papieża w Polsce wyległy miliony ludzi – było to największe zgromadzenie w dziejach kraju.'],
     content: `**Droga do papiestwa** — Karol Józef Wojtyła urodził się 18 maja 1920 r. w Wadowicach. Wyświęcony na kapłana w 1946 r., mianowany biskupem pomocniczym krakowskim w 1958 r., arcybiskupem metropolitą krakowskim w 1964 r., kardynałem w 1967 r. 16 października 1978 r. konklawe wybrało go papieżem.
 
 **Reakcja władz PRL** — Notka informacyjna KGB oceniała Wojtyłę jako „największe niebezpieczeństwo dla obozu socjalistycznego". Edward Gierek, informowany przez premiera, miał powiedzieć: „Boże, cóż nam się przydarzyło".
@@ -2165,6 +2170,7 @@ UB pozostaje symbolem stalinowskiego terroru – bezwzględnej machiny represji,
     summary: 'Pałac Kultury i Nauki w Warszawie – wzniesiony w latach 1952–1955 jako "dar narodu radzieckiego dla narodu polskiego". Zaprojektowany przez sowieckiego architekta Lwa Rudniewa, stał się jednym z najbardziej kontrowersyjnych symboli epoki PRL i dominantą panoramy Warszawy.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pa%C5%82ac%20Kultury%20i%20Nauki%20w%20nocy.JPG?width=800',
     imageCaption: 'Pałac Kultury i Nauki – „dar narodu radzieckiego”, symbol Warszawy epoki PRL.',
+    trivia: ['Krążył dowcip, że najpiękniejszy widok na Warszawę jest z tarasu Pałacu – bo stamtąd nie widać samego Pałacu.', 'Gmach był „darem narodu radzieckiego”; przez lata wzbudzał mieszane uczucia jako symbol dominacji ZSRR.'],
     content: `Pałac Kultury i Nauki im. Józefa Stalina (pierwotna pełna nazwa) – gmach liczący 231 metrów wysokości, przez dziesięciolecia najwyższy budynek w Polsce. Zbudowany w centrum Warszawy na wzorcu sowieckich drapaczy chmur (tzw. stalinowskie tortownice) w stylu socrealistycznym.
 
 **Geneza i budowa:**
@@ -3177,6 +3183,7 @@ Za sukcesami stało zawodowe podejście, świetni trenerzy i system wyławiania 
     summary: 'Fiat 126p – popularnie zwany Maluchem – mały samochód osobowy produkowany w FSM Bielsko-Biała i Tychach od 1973 do 2000 roku. Przez dwie dekady symbol osiągalnego marzenia i polskiej codzienności. Na Malucha czekało się latami – był symbolem konsumpcyjnych aspiracji klasy średniej PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Fiat%20126p%20EL.JPG?width=800',
     imageCaption: 'Fiat 126p „Maluch” – ikona motoryzacji PRL.',
+    trivia: ['„Maluch” napędzał dwucylindrowy silnik o pojemności około 600 cm³, umieszczony z tyłu.', 'Na samochód czekało się latami – trzeba było zdobyć talon i wpłacić zaliczkę z wyprzedzeniem.', 'Mała kabina sprawiała, że upakowanie czteroosobowej rodziny z bagażem było sztuką.'],
     content: `Fiat 126p powstał na bazie umowy licencyjnej z włoskim Fiatem, podpisanej przez Edwarda Gierka w 1971 roku. Produkcję uruchomiono w 1973 roku w bielskiej Fabryce Samochodów Małolitrażowych (FSM), a od 1975 roku także w Tychach.
 
 **Techniczne cechy:**
@@ -5309,6 +5316,7 @@ Grudzień 1970 r. – masakra na Wybrzeżu – przyspieszył jego odejście z ce
     yearStart: 1976,
     yearEnd: 1989,
     summary: 'System kartkowy – reglamentacja żywności i towarów przemysłowych – stał się w latach 80. symbolem klęski gospodarki socjalistycznej. Kartki na mięso, masło, cukier, spirytus, a nawet buty obrazowały codzienną absurdalność PRL-owskiego niedoboru.',
+    trivia: ['Reglamentacją objęto m.in. mięso, cukier, masło, mąkę, benzynę, papierosy, a nawet czekoladę.', 'Kartki na cukier wprowadzono w 1976 roku, a na mięso w 1981 – przetrwały do 1989 roku.'],
     content: `## Historia reglamentacji
 
 Kartki żywnościowe pojawiały się w PRL kilkakrotnie: tuż po wojnie (1945–1949) oraz ponownie od 1976 r. (kartki na cukier) i szerzej od 1981 r. System objął mięso i przetwory, masło, mąkę, ryż, kaszę, czekoladę, proszek do prania, papierosy, spirytus, benzynę i wiele innych artykułów.
@@ -5552,6 +5560,7 @@ Pogrom kielecki przyspieszyć masową emigrację polskich Żydów na Zachód i d
     yearStart: 1972,
     yearEnd: 1989,
     summary: 'Pewex i Baltona – sklepy z towarami zachodnimi sprzedawanymi wyłącznie za dewizy lub bony – były osobliwością PRL. Dolar i marka zachodnioniemiecka były prawdziwą walutą; sklepy oferowały Marlboro, dżinsy, whisky i elektronikę niedostępną w zwykłej sieci.',
+    trivia: ['W Pewexie płaciło się walutą wymienialną lub bonami towarowymi – nie złotówkami.', 'Dżinsy, coca-cola, guma Donald i zachodnia elektronika były symbolami „lepszego świata”.'],
     content: `## Geneza – dewizy dla państwa
 
 Pewex (Przedsiębiorstwo Eksportu Wewnętrznego) powstał w 1972 r. jako sieć sklepów akceptujących wyłącznie waluty wymienialne – dolary, marki, funty. Baltona obsługiwała porty i lotniska. Cel był fiskalny: ściągnięcie z obiegu prywatnych dewiz, które Polacy otrzymywali od krewnych za granicą lub zarabiali na kontraktach.
@@ -9046,6 +9055,7 @@ Kieślowski pokazał, że kino może być filozofią. Jego filmy pytają o sens 
     title: 'Kolejki i braki towarów',
     category: 'społeczeństwo',
     shortDesc: 'Permanentny niedobór dóbr i wielogodzinne kolejki – codzienność Polaków w epoce PRL.',
+    trivia: ['Powstawały „społeczne komitety kolejkowe”, a numerki zapisywano długopisem na dłoniach.', 'Często stało się w kolejce, nie wiedząc nawet, co akurat „rzucą” do sklepu.'],
     content: `## Kolejki i braki towarów w PRL
 
 Kolejka stała się symbolem PRL. W krajach Bloku Wschodniego brak towarów w sklepach był chronicznym problemem gospodarki nakazowo-rozdzielczej. W Polsce dosłownie po wszystko stało się w kolejkach: po mięso, masło, papier toaletowy, węgiel, benzinę, a nawet po numery kolejkowe do kolejek po inne towary.
@@ -11252,6 +11262,7 @@ Milenium 1966 umocniło pozycję Kościoła i prymasa Wyszyńskiego, pokazując 
     yearStart: 1980,
     yearEnd: 1989,
     summary: 'Najważniejszy festiwal muzyki rockowej i punkowej w PRL, który od 1980 roku stał się symbolem młodzieżowego buntu i namiastki wolności.',
+    trivia: ['Służba Bezpieczeństwa fotografowała i spisywała uczestników festiwalu jako „element antysocjalistyczny”.', 'Dla wielu młodych Jarocin był jedynym miejscem, gdzie mogli przez kilka dni poczuć namiastkę wolności.'],
     content: `## Geneza
 Festiwal w Jarocinie wyrósł z odbywających się od 1970 roku Wielkopolskich Rytmów Młodych. Od 1980 roku, pod nazwą Ogólnopolski Przegląd Muzyki Młodej Generacji, impreza przekształciła się w największy w bloku wschodnim festiwal muzyki rockowej, punkowej i nowofalowej.
 
@@ -11759,6 +11770,7 @@ Gintrowski pozostaje symbolem zaangażowanej, niezależnej sztuki lat 80., a jeg
     yearStart: 1959,
     yearEnd: 1969,
     summary: 'Polska odmiana rock and rolla z lat 60., nazwana „big-beatem” dla obejścia niechęci władz do zachodniej nazwy, dała początek rodzimej muzyce młodzieżowej.',
+    trivia: ['Określenie „big-beat” ukuto, by uniknąć „zachodniego” terminu rock and roll, którego władze nie lubiły.', 'Pierwszym polskim zespołem big-beatowym byli Rhythm and Blues (1959).'],
     content: `## Narodziny
 Pod koniec lat 50. do Polski dotarł rock and roll. Ponieważ władze niechętnie patrzyły na zachodnią nazwę, przyjęto określenie „big-beat”, ukute przez dziennikarza Franciszka Walickiego. Pierwszym zespołem byli Rhythm and Blues (1959).
 
@@ -12502,6 +12514,7 @@ Wanda Rutkiewicz to ikona himalaizmu i symbol kobiecej siły oraz niezależnośc
     yearStart: 1972,
     yearEnd: 1976,
     summary: 'Złota era polskiej piłki nożnej pod wodzą Kazimierza Górskiego: złoto olimpijskie 1972 i trzecie miejsce na mundialu w 1974 roku.',
+    trivia: ['Półfinał z RFN rozegrano na zalanym deszczem boisku – przeszedł do historii jako „mecz na wodzie”.', 'Grzegorz Lato został królem strzelców mistrzostw z siedmioma golami.', 'Bramkarza Jana Tomaszewskiego angielska prasa nazwała „clownem” – po czym obronił Anglii awans.'],
     content: `## Kazimierz Górski
 Kazimierz Górski jako selekcjoner reprezentacji Polski stworzył najlepszą drużynę w historii polskiego futbolu. Jego słowa „Piłka jest okrągła, a bramki są dwie” weszły do języka potocznego.
 
@@ -12655,6 +12668,7 @@ Serial wpisywał się w oficjalny nurt utrwalania pamięci o wojnie i bohaterstw
     yearStart: 1966,
     yearEnd: 1970,
     summary: 'Kultowy serial wojenny o załodze czołgu „Rudy” i psie Szariku, niezwykle popularny, choć przedstawiający wojnę zgodnie z oficjalną wykładnią.',
+    trivia: ['Psa Szarika grało w rzeczywistości kilka tresowanych owczarków niemieckich.', 'Serial wzbudzał takie emocje, że dzieci masowo bawiły się w „pancernych”, a powstawały kluby miłośników załogi Rudego.'],
     content: `## Fabuła
 Serial oparty na powieści Janusza Przymanowskiego opowiada o losach załogi czołgu T-34 „Rudy 102” i owczarka Szarika podczas szlaku bojowego 1. Armii Wojska Polskiego u boku Armii Czerwonej.
 
@@ -13385,6 +13399,7 @@ Wolność i Pokój wniósł do polskiej opozycji tematykę praw człowieka, pacy
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Dotowane przez państwo, tanie bary samoobsługowe serwujące proste dania mączne i mleczne – symbol PRL-owskiej gastronomii dla mas.',
+    trivia: ['Sztućce bywały przywiązane łańcuszkami do stołów, by zapobiec ich ginięciu.', 'Charakterystyczne tabliczki przypominały: „Prosimy nie zostawiać resztek”.'],
     content: `## Idea
 Bary mleczne to tanie, dotowane przez państwo jadłodajnie, dostępne dla najuboższych. Serwowały proste, bezmięsne dania: pierogi, naleśniki, kluski, zupy mleczne i kompoty.
 
@@ -15390,6 +15405,7 @@ Centrum Zdrowia Dziecka to przykład, że mimo niewydolnej służby zdrowia PRL 
     yearStart: 1972,
     yearEnd: 1989,
     summary: 'Kultowy niedzielny program telewizyjny dla dzieci i młodzieży; jego nieemitowanie 13 grudnia 1981 roku zwiastowało wprowadzenie stanu wojennego.',
+    trivia: ['13 grudnia 1981 roku zamiast „Teleranka” na ekranach pojawili się spikerzy w mundurach – tak wielu Polaków dowiedziało się o stanie wojennym.', 'Znakiem rozpoznawczym programu był rysunkowy kogucik w czołówce.'],
     content: `## Program
 „Teleranek” to emitowany od 1972 roku niedzielny poranny program dla dzieci i młodzieży. Łączył filmy, bajki, konkursy, reportaże i edukację, z charakterystycznym kogucikiem w czołówce.
 
@@ -19067,6 +19083,7 @@ Ogródki działkowe to trwały element pejzażu i obyczajowości PRL, a wiele z 
     summary: 'Pierwszy polski powojenny samochód osobowy produkowany seryjnie (1957–1983) – skromny, dwusuwowy, lecz kultowy pojazd epoki.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/FSO%20Syrena%20103.JPG?width=800',
     imageCaption: 'FSO Syrena 103 – polski samochód osobowy produkcji z lat 60.',
+    trivia: ['Silnik Syreny był dwusuwowy – do benzyny trzeba było dolewać oleju.', 'Ze względu na charakterystyczny dźwięk i wygląd auto zyskało przezwiska, m.in. „skarpeta”.'],
     content: `## Polski samochód
 Syrena była pierwszym polskim powojennym samochodem osobowym produkowanym seryjnie. Prototyp powstał w 1953 roku, a produkcję rozpoczęto w 1957 w FSO na warszawskim Żeraniu.
 
