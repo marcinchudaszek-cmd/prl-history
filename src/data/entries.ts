@@ -124,6 +124,7 @@ Stan wojenny zawieszono w 1982 i zniesiono w lipcu 1983 roku. Jego ofiarą padł
     tags: ['Wałęsa', 'strajki', 'Gdańsk', '1980', 'związki zawodowe'],
     yearStart: 1980,
     summary: 'NSZZ "Solidarność" – masowy ruch społeczny i związek zawodowy, który stał się największą opozycyjną siłą w dziejach PRL i krajów bloku wschodniego.',
+    trivia: ['Charakterystyczne logo „Solidarności” zaprojektował Jerzy Janiszewski.', 'Związek liczył blisko 10 milionów członków – około jednej czwartej ludności Polski.'],
     content: `## Narodziny
 NSZZ „Solidarność” powstał po strajkach Sierpnia 1980 i podpisaniu Porozumień Gdańskich. Był pierwszym w bloku wschodnim niezależnym, samorządnym związkiem zawodowym, zarejestrowanym w listopadzie 1980 roku.
 
@@ -189,6 +190,7 @@ Solidarność zapoczątkowała pokojowy demontaż komunizmu w Polsce i Europie �
     yearStart: 1956,
     yearEnd: 1956,
     summary: 'Poznański Czerwiec 1956 – masowy protest robotniczy w Poznaniu 28–29 czerwca 1956, brutalnie stłumiony przez wojsko i milicję. Pierwszy tak duży bunt społeczny w historii PRL.',
+    trivia: ['Symbolem ofiar stał się 13-letni Romek Strzałkowski.', 'Do stłumienia protestu skierowano około 10 tysięcy żołnierzy i setki czołgów.'],
     content: `## Tło
 W połowie lat 50. robotnicy poznańskich Zakładów im. Cegielskiego (ZISPO) domagali się obniżenia zawyżonych norm, podwyżek i zwrotu niesłusznie pobranych podatków. Rozmowy z władzami nie przyniosły rezultatu, a delegacja robotnicza została w Warszawie zignorowana.
 
@@ -248,6 +250,7 @@ Poznański Czerwiec był pierwszym masowym robotniczym buntem w PRL i zapowiedzi
     summary: 'Krwawe protesty robotnicze na polskim Wybrzeżu w grudniu 1970 roku, wywołane drastyczną podwyżką cen żywności. Wojsko i milicja otworzyły ogień do strajkujących. Zginęło co najmniej 45 osób.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pomnik%20Poleg%C5%82ych%20Stoczniowc%C3%B3w%20Gda%C5%84sk.jpg?width=800',
     imageCaption: 'Pomnik Poległych Stoczniowców 1970 w Gdańsku.',
+    trivia: ['Symbolem masakry stał się niesiony na drzwiach Zbyszek Godlewski – „Janek Wiśniewski”.'],
     content: `## Tło
 Na kilka dni przed świętami Bożego Narodzenia, 12 grudnia 1970 roku, władze ogłosiły drastyczne podwyżki cen żywności. Decyzja uderzyła w domowe budżety w najgorszym momencie i wywołała wybuch gniewu na Wybrzeżu.
 
@@ -297,6 +300,7 @@ Zginęło co najmniej 45 osób, ponad tysiąc odniosło rany. Pamięć o ofiarac
     yearStart: 1989,
     yearEnd: 1989,
     summary: 'Negocjacje między władzami PRL a opozycją skupioną wokół "Solidarności", które doprowadziły do pokojowej transformacji ustrojowej Polski i pierwszych częściowo wolnych wyborów.',
+    trivia: ['Stół był naprawdę okrągły – wykonano go specjalnie, by nikt nie zajmował „głównego” miejsca.', 'Część kluczowych ustaleń zapadała poza salą obrad, m.in. w willi w Magdalence.'],
     content: `## Geneza
 Druga połowa lat 80. to pogłębiający się kryzys gospodarczy i kolejna fala strajków w 1988 roku. Władze, niezdolne do reform i pod presją społecznego niezadowolenia, uznały, że bez porozumienia z opozycją nie zdołają opanować sytuacji.
 
@@ -1092,6 +1096,7 @@ KOR stworzył intelektualne i organizacyjne zaplecze, na którym w 1980 roku wyr
     yearStart: 1968,
     yearEnd: 1968,
     summary: 'Marzec 1968 – fala studenckich protestów wywołana zakazem wystawiania "Dziadów" Mickiewicza, stłumiona przez władze. Towarzyszyła jej wewnątrzpartyjna kampania antysemicka, która zmusiła około 13 000 Polaków żydowskiego pochodzenia do emigracji.',
+    trivia: ['Iskrą protestów było zdjęcie ze sceny „Dziadów” – widzowie reagowali owacjami na antycarskie fragmenty.'],
     content: `## Iskra
 Bezpośrednim powodem wybuchu było zdjęcie ze sceny Teatru Narodowego „Dziadów” Adama Mickiewicza w reżyserii Kazimierza Dejmka oraz relegowanie z uczelni Adama Michnika i Henryka Szlajfera.
 
@@ -1209,6 +1214,7 @@ Czerwiec 1976 połączył bunt robotniczy ze wsparciem inteligencji, budując fu
     summary: 'Ks. Jerzy Popiełuszko – kapłan katolicki i kapelan "Solidarności", zamordowany 19 października 1984 roku przez funkcjonariuszy Służby Bezpieczeństwa. Jego "Msze za Ojczyznę" gromadziły dziesiątki tysięcy wiernych.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jerzy%20Popieluszko%20Funeral%20-%2061.jpg?width=800',
     imageCaption: 'Pogrzeb ks. Jerzego Popiełuszki, 3 listopada 1984 – wielka manifestacja.',
+    trivia: ['Na pogrzeb ks. Popiełuszki w 1984 roku przyszło kilkaset tysięcy ludzi.'],
     content: `## Sylwetka
 Ksiądz Jerzy Popiełuszko (1947–1984) był kapłanem warszawskiej parafii św. Stanisława Kostki, który stał się duchowym przewodnikiem Solidarności.
 
@@ -1268,6 +1274,7 @@ Proces zabójców (proces toruński) był bezprecedensowy, choć nie objął moc
     summary: 'Pacyfikacja Kopalni Węgla Kamiennego "Wujek" w Katowicach – 16 grudnia 1981 roku oddziały ZOMO i wojsko otworzyły ogień do strajkujących górników. Zginęło 9 osób, 23 zostały ranne. Najtragiczniejsza ze zbrodni stanu wojennego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Katowice%20kopalnia%20Wujek%207.jpg?width=800',
     imageCaption: 'Kopalnia Wujek w Katowicach – miejsce pacyfikacji z 16 grudnia 1981 roku.',
+    trivia: ['Była to jedyna pacyfikacja stanu wojennego, w której użyto broni palnej ze skutkiem śmiertelnym.'],
     content: `## Tło
 Po wprowadzeniu stanu wojennego 13 grudnia 1981 roku w wielu zakładach wybuchły strajki. Górnicy kopalni „Wujek” w Katowicach zaprotestowali przeciw internowaniu działaczy i delegalizacji Solidarności.
 
@@ -2345,6 +2352,7 @@ Nomenklatura to klucz do zrozumienia realnego mechanizmu władzy w PRL – syste
     summary: 'Wiosną 1940 roku NKWD zamordowało blisko 22 000 polskich oficerów, policjantów i przedstawicieli inteligencji. Przez całe 45 lat PRL władze komunistyczne ukrywały prawdę i zrzucały winę na Niemców. Prawda oficjalnie wyszła na jaw dopiero w 1990 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pomnik%20katynski1.JPG?width=800',
     imageCaption: 'Pomnik ofiar zbrodni katyńskiej.',
+    trivia: ['Przez całą epokę PRL prawda o Katyniu była zakazana – winą oficjalnie obarczano Niemców.'],
     content: `## Zbrodnia
 Wiosną 1940 roku NKWD, na mocy decyzji najwyższych władz ZSRR, wymordowało blisko 22 tysiące polskich oficerów, policjantów i przedstawicieli elit wziętych do niewoli w 1939 roku. Egzekucje wykonano m.in. w Katyniu, Charkowie i Twerze (Miednoje).
 
@@ -4579,6 +4587,7 @@ Reformy Gorbaczowa uwolniły odśrodkowe siły, których nie mógł kontrolować
     tags: ['4 czerwca', 'wybory 1989', 'Solidarność', 'Sejm kontraktowy', 'wolne wybory', 'transformacja'],
     yearStart: 1989,
     summary: 'Wybory parlamentarne z 4 czerwca 1989 roku – pierwsze częściowo wolne wybory w PRL od 1947 roku. Solidarność zdobyła wszystkie możliwe do wygrania mandaty w Sejmie i 99 na 100 miejsc w Senacie. Wynik wyborów był początkiem końca komunizmu nie tylko w Polsce, lecz w całej Europie Środkowej.',
+    trivia: ['Plakat Solidarności przedstawiał Gary\'ego Coopera z filmu „W samo południe” i datą 4 czerwca 1989.', 'Solidarność zdobyła 99 na 100 miejsc w Senacie.'],
     content: `## Geneza
 Częściowo wolne wybory parlamentarne 4 czerwca 1989 roku były efektem ustaleń Okrągłego Stołu. Po raz pierwszy od dekad opozycja mogła legalnie kandydować.
 
@@ -4755,6 +4764,7 @@ Po 13 grudnia 1981 roku wielu działaczy Solidarności, którzy zdołali wyjecha
     shortDesc: 'Pisarz science-fiction i futurysta – jeden z najczęściej tłumaczonych polskich autorów w historii.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw%20Lem.jpg?width=800',
     imageCaption: 'Stanisław Lem – pisarz science fiction o światowej sławie.',
+    trivia: ['Książki Lema przetłumaczono na kilkadziesiąt języków, a „Solaris” doczekał się kilku ekranizacji.'],
     content: `## Stanisław Lem (1921–2006)
 
 Stanisław Lem był jednym z najważniejszych pisarzy XX wieku – twórcą science fiction, filozofem technologii i futurystą, którego dzieła przetłumaczono na kilkadziesiąt języków, sprzedając w dziesiątkach milionów egzemplarzy. Jest najczęściej tłumaczonym polskim pisarzem w historii.
@@ -8297,6 +8307,7 @@ Hermaszewski jest jedynym Polakiem w kosmosie – Polska od lat nie uczestniczy�
     yearStart: 1939,
     yearEnd: 2004,
     summary: 'Czesław Niemen (1939–2004) – jeden z największych polskich muzyków wszech czasów. Zaczynał od bigbitu, tworzył przeboje ("Dziwny jest ten świat"), sięgał po psychodelię, jazz-rock i muzykę elektroniczną. Artysta niepokory i oryginalności, porównywany na Zachodzie z największymi gwiazdami.',
+    trivia: ['„Dziwny jest ten świat” zdobył Grand Prix festiwalu w Opolu w 1967 roku.'],
     content: `Czesław Niemen (właśc. Czesław Juliusz Wydrzycki, 1939–2004) – piosenkarz, kompozytor, multiinstrumentalista i aranżer, jeden z symboli polskiej muzyki popularnej i rockowej.
 
 **Początki – bigbit**
@@ -10577,6 +10588,7 @@ Stanisław Pyjas stał się symbolem ofiar systemu wśród młodzieży akademick
     yearStart: 1970,
     yearEnd: 1989,
     summary: 'Filmy Stanisława Barei, lekceważone przez ówczesną krytykę, okazały się najtrafniejszym portretem absurdów codzienności PRL. Od jego nazwiska ukuto pojęcie „bareizm” – określenie peerelowskiej groteski systemowej.',
+    trivia: ['Filmy Stanisława Barei tak celnie portretowały absurdy PRL, że ukuto termin „bareizm”.'],
     content: `## Reżyser niedoceniony
 
 Stanisław Bareja (1929–1987) przez lata był lekceważony przez krytykę filmową, która zarzucała mu prymitywizm i tandetę. Dopiero z czasem dostrzeżono, że jego komedie są precyzyjnym i odważnym zapisem absurdów peerelowskiej rzeczywistości.
@@ -11207,6 +11219,7 @@ Teatr Telewizji ukształtował gust kulturalny pokoleń Polaków i zachował zap
     tags: ['Milenium', '1966', 'Kościół', 'Wyszyński', 'Gomułka', 'Tysiąclecie', 'chrzest Polski'],
     yearStart: 1966,
     summary: 'Obchody tysiąclecia chrztu Polski w 1966 r. stały się areną rywalizacji między Kościołem a państwem. Religijnym uroczystościom prymasa Wyszyńskiego władza przeciwstawiła świeckie obchody „Tysiąclecia Państwa Polskiego”.',
+    trivia: ['Władze „aresztowały” wędrujący obraz Matki Bożej – po kraju pielgrzymowały same puste ramy.'],
     content: `## Dwie rocznice
 Rok 1966 przyniósł rywalizację dwóch obchodów: kościelnego Milenium Chrztu Polski (966) i państwowego Tysiąclecia Państwa Polskiego – starcie Kościoła z władzą o „rząd dusz”.
 
@@ -11424,6 +11437,7 @@ Republika pozostaje symbolem ambitnego, artystycznego rocka lat 80., a Grzegorz 
     yearStart: 1980,
     yearEnd: 1989,
     summary: 'Kultowy zespół rockowy z charyzmatyczną wokalistką Korą, autor przebojów „Boskie Buenos” i „Kocham cię kochanie moje”.',
+    trivia: ['Po odmowie udziału w propagandowym koncercie w 1984 roku Maanam objęto nieformalnym bojkotem w mediach.'],
     content: `## Powstanie
 Maanam powstał w Krakowie na przełomie lat 70. i 80. Kluczowymi postaciami byli Kora (Olga Jackowska) jako wokalistka oraz Marek Jackowski jako gitarzysta i kompozytor.
 
@@ -11652,6 +11666,7 @@ Lista Przebojów Trójki przetrwała przemiany ustrojowe i przez dekady pozostaw
     yearStart: 1980,
     yearEnd: 1989,
     summary: 'Jeden z najpopularniejszych zespołów rockowych lat 80., kierowany przez Zbigniewa Hołdysa, autor przebojów „Nie płacz Ewka” i „Autobiografia”.',
+    trivia: ['Publiczność śpiewała „Chcemy być sobą” jako „chcemy bić ZOMO”, co niepokoiło władze.'],
     content: `## Powstanie
 Perfect w klasycznym składzie ukształtował się w 1980 roku w Warszawie. Liderem zespołu był Zbigniew Hołdys, a wokalistą Grzegorz Markowski.
 
@@ -11940,6 +11955,7 @@ Festiwal w Sopocie, obok Opola, współtworzył pejzaż polskiej estrady i był 
     yearStart: 1968,
     yearEnd: 1989,
     summary: 'Jedna z najpopularniejszych polskich piosenkarek, autorka przebojów „Małgośka”, „Sing-Sing” i „Niech żyje bal”, gwiazda estrady od przełomu lat 60. i 70.',
+    trivia: ['Słynęła z barwnych, niekonwencjonalnych strojów scenicznych.'],
     content: `## Początki
 Maryla Rodowicz zadebiutowała pod koniec lat 60., zdobywając nagrody na festiwalach w Opolu. Jej żywiołowy temperament i ludowo-folkowe brzmienie wyróżniały ją na tle estrady.
 
@@ -18112,6 +18128,7 @@ Domy kultury i świetlice to ważny, ambiwalentny element PRL: realnie demokraty
     yearStart: 1969,
     yearEnd: 1980,
     summary: 'Uwielbiana piosenkarka lat 70., wykonawczyni „Tyle słońca w całym mieście” i „Nic nie może wiecznie trwać”; zginęła w katastrofie lotniczej na Okęciu w 1980 roku.',
+    trivia: ['Zginęła w katastrofie samolotu Ił-62 na Okęciu w 1980 roku, wracając z koncertów w USA.'],
     content: `## Sylwetka
 Anna Jantar (1950–1980) była jedną z najpopularniejszych i najbardziej lubianych piosenkarek polskiej estrady lat 70., obdarzoną ciepłym, charakterystycznym głosem.
 
@@ -19400,6 +19417,120 @@ Irena Santor to symbol najwyższej klasy polskiej piosenki estradowej – artyst
     ],
     relatedIds: ['festiwal-opole', 'anna-german', 'sopot-festiwal'],
   },
+  {
+    id: 'grechuta-marek',
+    title: 'Marek Grechuta',
+    subtitle: 'Poeta piosenki i lider Anawy',
+    category: 'osoby',
+    tags: ['kultura', 'muzyka', 'poezja śpiewana'],
+    yearStart: 1967,
+    yearEnd: 1989,
+    summary: 'Jeden z najwybitniejszych twórców poezji śpiewanej, lider grupy Anawa, autor „Dni, których nie znamy” i „Wolności”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Marek%20Grechuta.jpg?width=800',
+    imageCaption: 'Marek Grechuta – jeden z najwybitniejszych twórców poezji śpiewanej.',
+    content: `## Sylwetka
+Marek Grechuta (1945–2006) był piosenkarzem, kompozytorem i poetą, jednym z najważniejszych twórców polskiej poezji śpiewanej, o niepowtarzalnym, lirycznym stylu.
+
+## Anawa i debiut
+Karierę rozpoczął na przełomie lat 60. wraz z grupą Anawa, zwracając uwagę ambitnymi, poetyckimi piosenkami. Studiował architekturę, zanim poświęcił się muzyce.
+
+## Przeboje
+Do najsłynniejszych utworów należą „Dni, których nie znamy”, „Wolność”, „Niepewność” (do słów Mickiewicza) i „Ocalić od zapomnienia” (do wiersza Gałczyńskiego).
+
+## Poezja w piosence
+Grechuta śpiewał teksty wielkich poetów i własne, łącząc muzykę z literaturą. Jego twórczość cechowały wrażliwość, refleksja i artystyczna powaga.
+
+## Krakowskie środowisko
+Związany z krakowskim środowiskiem artystycznym (Piwnica pod Baranami), współtworzył klimat ambitnej, niezależnej kultury.
+
+## Znaczenie
+Marek Grechuta to klasyk polskiej piosenki literackiej; jego utwory pozostają żywe i wciąż wykonywane przez kolejne pokolenia.`,
+    trivia: ['Zanim został muzykiem, studiował architekturę na Politechnice Krakowskiej.', 'Piosenka „Dni, których nie znamy” stała się jednym z hymnów pokolenia.'],
+    resources: [
+      {
+        id: 'gr-yt',
+        title: 'Marek Grechuta – „Dni, których nie znamy”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=tNnzUZSDNf0',
+        source: 'YouTube',
+        description: 'Klasyk poezji śpiewanej.',
+      },
+      {
+        id: 'gr-1',
+        title: 'Marek Grechuta – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Marek+Grechuta+Anawa+koncert',
+        source: 'YouTube',
+        description: 'Wykonania i materiały archiwalne.',
+      },
+      {
+        id: 'gr-2',
+        title: 'Marek Grechuta – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Marek%20Grechuta&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o artyście.',
+      },
+    ],
+    relatedIds: ['poezja-spiewana', 'demarczyk-ewa', 'kultura-prl'],
+  },
+  {
+    id: 'demarczyk-ewa',
+    title: 'Ewa Demarczyk',
+    subtitle: '„Czarny anioł” polskiej piosenki',
+    category: 'osoby',
+    tags: ['kultura', 'muzyka', 'poezja śpiewana', 'kobiety'],
+    yearStart: 1962,
+    yearEnd: 1989,
+    summary: 'Legendarna wykonawczyni piosenki poetyckiej, gwiazda Piwnicy pod Baranami, znana z dramatycznych interpretacji wierszy wielkich poetów.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ewa%20Demarczyk%20Polish%20singer.jpg?width=800',
+    imageCaption: 'Ewa Demarczyk – „czarny anioł” polskiej piosenki poetyckiej.',
+    content: `## Sylwetka
+Ewa Demarczyk (1941–2020), nazywana „czarnym aniołem polskiej piosenki”, była wykonawczynią o niezwykłej sile wyrazu i dramatycznej interpretacji.
+
+## Piwnica pod Baranami
+Zasłynęła w krakowskim kabarecie Piwnica pod Baranami, stając się jego największą gwiazdą i symbolem ambitnej piosenki literackiej.
+
+## Repertuar
+Śpiewała wiersze wielkich poetów – Juliana Tuwima, Krzysztofa Kamila Baczyńskiego, Bolesława Leśmiana – w muzyce m.in. Zygmunta Koniecznego i Andrzeja Zaryckiego.
+
+## Przeboje
+Do jej znaków rozpoznawczych należą „Grande Valse Brillante”, „Karuzela z madonnami”, „Tomaszów” i „Pocałunki”. Występy cechowała hipnotyzująca ekspresja.
+
+## Międzynarodowa sława
+Koncertowała w całej Europie i poza nią, zachwycając publiczność nawet nieznającą polskiego siłą interpretacji i sceniczną charyzmą.
+
+## Znaczenie
+Demarczyk to legenda polskiej kultury – artystka osobna, której nagrania uznawane są za szczyt piosenki poetyckiej.`,
+    trivia: ['Nazywano ją „czarnym aniołem polskiej piosenki” – występowała zawsze ubrana na czarno.', 'Zachwycała publiczność za granicą, choć śpiewała wyłącznie po polsku.'],
+    resources: [
+      {
+        id: 'de-yt',
+        title: 'Ewa Demarczyk – „Grande Valse Brillante” (TVP 1971)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=6kdEmhCAXfo',
+        source: 'YouTube',
+        description: 'Demarczyk śpiewa Tuwima w muzyce Koniecznego.',
+      },
+      {
+        id: 'de-1',
+        title: 'Ewa Demarczyk – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Ewa+Demarczyk+Karuzela+z+madonnami',
+        source: 'YouTube',
+        description: 'Wykonania i materiały archiwalne.',
+      },
+      {
+        id: 'de-2',
+        title: 'Ewa Demarczyk – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Ewa%20Demarczyk&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o artystce.',
+      },
+    ],
+    relatedIds: ['poezja-spiewana', 'grechuta-marek', 'kultura-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -19581,4 +19712,6 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1969, event: 'Skaldowie nagrywają „Medytacje wiejskiego listonosza”', category: 'kultura', entryId: 'skaldowie' },
   { year: 1982, event: 'Lombard wydaje przebój „Przeżyj to sam”', category: 'kultura', entryId: 'lombard-zespol' },
   { year: 1983, event: 'Debiut płytowy Oddziału Zamkniętego (przebój „Andzia”)', category: 'kultura', entryId: 'oddzial-zamkniety' },
+  { year: 1967, event: 'Marek Grechuta i grupa Anawa debiutują na festiwalu w Opolu', category: 'kultura', entryId: 'grechuta-marek' },
+  { year: 1963, event: 'Ewa Demarczyk olśniewa publiczność w Piwnicy pod Baranami', category: 'kultura', entryId: 'demarczyk-ewa' },
 ];
