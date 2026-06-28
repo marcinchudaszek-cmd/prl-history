@@ -20301,6 +20301,228 @@ Kiosk bywał nieformalnym centrum życia osiedla – miejscem spotkań, plotek i
     ],
     relatedIds: ['zycie-codzienne', 'prasa-prl', 'pewex'],
   },
+  {
+    id: 'krawczyk-krzysztof',
+    title: 'Krzysztof Krawczyk',
+    subtitle: 'Ciepły baryton polskiej estrady',
+    category: 'osoby',
+    tags: ['kultura', 'muzyka', 'estrada', 'big-beat'],
+    yearStart: 1963,
+    yearEnd: 1989,
+    summary: 'Jeden z najpopularniejszych i najbardziej lubianych polskich wokalistów, autor przeboju „Parostatek”, który karierę zaczynał w Trubadurach.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krzysztof%20Krawczyk.jpg?width=800',
+    imageCaption: 'Krzysztof Krawczyk – jeden z najpopularniejszych polskich wokalistów.',
+    content: `## Sylwetka
+Krzysztof Krawczyk (1946–2021) był jednym z najpopularniejszych polskich wokalistów, obdarzonym ciepłym, rozpoznawalnym barytonem.
+
+## Od Trubadurów
+Karierę rozpoczynał w big-beatowym zespole Trubadurzy, by w połowie lat 70. rozwinąć karierę solową i stać się gwiazdą estrady.
+
+## Przeboje
+Do najsłynniejszych utworów należą „Parostatek”, „Rysunek na szkle”, „Bo jesteś ty” i „Mój przyjacielu”.
+
+## Wszechstronność
+Krawczyk poruszał się swobodnie między big-beatem, piosenką estradową, country i muzyką sakralną, nagrywając dziesiątki płyt.
+
+## Popularność
+Triumfował na festiwalach w Opolu i Kołobrzegu, koncertował także w USA dla Polonii, zachowując popularność przez dekady.
+
+## Znaczenie
+Krawczyk to jeden z najbardziej lubianych głosów polskiej muzyki rozrywkowej, którego przeboje znają kolejne pokolenia.`,
+    trivia: ['Karierę zaczynał w big-beatowym zespole Trubadurzy.', 'Część kariery spędził w USA, koncertując dla Polonii.'],
+    resources: [
+      {
+        id: 'kk-yt',
+        title: 'Krzysztof Krawczyk – „Parostatek” (Opole \'79)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=5bLlo94yX2s',
+        source: 'YouTube',
+        description: 'Jeden z najsłynniejszych przebojów artysty.',
+      },
+      {
+        id: 'kk-1',
+        title: 'Krzysztof Krawczyk – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Krzysztof+Krawczyk+przeboje+koncert',
+        source: 'YouTube',
+        description: 'Wykonania i materiały archiwalne.',
+      },
+      {
+        id: 'kk-2',
+        title: 'Krzysztof Krawczyk – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Krzysztof%20Krawczyk&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o artyście.',
+      },
+    ],
+    relatedIds: ['trubadurzy', 'festiwal-opole', 'kultura-prl'],
+  },
+  {
+    id: 'festiwal-kolobrzeg',
+    title: 'Festiwal Piosenki Żołnierskiej',
+    subtitle: 'Estrada w mundurze (Kołobrzeg)',
+    category: 'kultura',
+    tags: ['kultura', 'festiwal', 'propaganda', 'wojsko'],
+    yearStart: 1968,
+    yearEnd: 1989,
+    summary: 'Festiwal piosenki wojskowej i patriotycznej w Kołobrzegu – jeden z głównych festiwali PRL, silnie zideologizowany i firmowany przez wojsko.',
+    content: `## Geneza
+Festiwal Piosenki Żołnierskiej organizowano od końca lat 60. (od 1968 roku w Kołobrzegu). Stał się jednym z głównych festiwali muzycznych PRL – obok Opola i Sopotu.
+
+## Charakter
+Promował pieśni o wojsku, „braterstwie broni” i Ludowym Wojsku Polskim, niosąc silny ładunek propagandowy i patriotyczno-militarny.
+
+## Gwiazdy i nagrody
+Występowali tu znani wykonawcy estradowi, zdobywając nagrody, m.in. „Złoty Pierścień” i wyróżnienia Ministra Obrony Narodowej.
+
+## Oprawa
+Festiwalowi towarzyszyły defilady, oprawa wojskowa i transmisje telewizyjne, czyniące z niego propagandowe widowisko.
+
+## Miejsce w kulturze
+Mimo zideologizowania festiwal był popularny i wypromował wiele piosenek, choć dziś kojarzy się przede wszystkim z militaryzacją kultury.
+
+## Znaczenie
+Festiwal w Kołobrzegu to symbol wykorzystania estrady do celów propagandowych w PRL.`,
+    trivia: ['Nagrody wręczał m.in. minister obrony narodowej; laureaci otrzymywali „Złoty Pierścień”.', 'Festiwal łączył estradową rozrywkę z propagandą Ludowego Wojska Polskiego.'],
+    resources: [
+      {
+        id: 'fk-yt',
+        title: 'Festiwal Piosenki Żołnierskiej – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Festiwal+Piosenki+%C5%BBo%C5%82nierskiej+Ko%C5%82obrzeg',
+        source: 'YouTube',
+        description: 'Archiwalne nagrania z festiwalu.',
+      },
+      {
+        id: 'fk-wk',
+        title: 'Festiwal Piosenki Żołnierskiej – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Festiwal%20Piosenki%20%C5%BBo%C5%82nierskiej%20Ko%C5%82obrzeg&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania.',
+      },
+      {
+        id: 'fk-2',
+        title: 'Estrada i propaganda PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=piosenka+%C5%BCo%C5%82nierska+PRL+propaganda+estrada',
+        source: 'YouTube',
+        description: 'Materiały o zideologizowanej estradzie.',
+      },
+    ],
+    relatedIds: ['festiwal-opole', 'propaganda-prl', 'lwp'],
+  },
+  {
+    id: 'swieta-prl',
+    title: 'Boże Narodzenie w PRL',
+    subtitle: 'Karp w wannie i pomarańcze na święta',
+    category: 'społeczeństwo',
+    tags: ['życie codzienne', 'święta', 'obyczaje', 'kościół'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Najważniejsze święto rodzinne, obchodzone mimo ateizacji i niedoborów – z polowaniem na karpia, pomarańcze i choinkę.',
+    content: `## Święta mimo systemu
+Mimo ateizacyjnej polityki władz Boże Narodzenie pozostało najważniejszym świętem rodzinnym Polaków, obchodzonym w niemal każdym domu.
+
+## Polowanie na zaopatrzenie
+Przygotowania to walka z niedoborem: kolejki po karpia, bakalie, a zwłaszcza pomarańcze i mandarynki, które pojawiały się głównie przed świętami i były rarytasem.
+
+## Karp i Wigilia
+Karp – symbol wigilijnego stołu – często czekał na swój los, pływając w domowej wannie. Mimo braków starano się zastawić stół dwunastoma potrawami.
+
+## Choinka i ozdoby
+Choinkę zdobiły bombki, „włosy anielskie”, łańcuchy z kolorowej bibuły i czekoladowe ozdoby, po które również ustawiały się kolejki.
+
+## Prezenty
+Podarki bywały skromne; czasem same pomarańcze, czekolada czy wyczekana zabawka stanowiły największy prezent. Dzieciom dawał je Gwiazdor lub św. Mikołaj.
+
+## Znaczenie
+Święta były ostoją tradycji, wiary i rodzinnej wspólnoty – wytchnieniem od szarości i ideologii codzienności PRL.`,
+    trivia: ['Pomarańcze i mandarynki pojawiały się głównie na święta i bywały prawdziwym rarytasem.', 'Świąteczny karp przed Wigilią często pływał w domowej wannie.'],
+    resources: [
+      {
+        id: 'sw-yt',
+        title: 'Boże Narodzenie w PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Bo%C5%BCe+Narodzenie+PRL+%C5%9Bwi%C4%99ta+karp+choinka',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o świętach.',
+      },
+      {
+        id: 'sw-wk',
+        title: 'Boże Narodzenie – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Bo%C5%BCe%20Narodzenie%20Polska%20tradycje&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o tradycji.',
+      },
+      {
+        id: 'sw-2',
+        title: 'Święta i obyczaje PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=%C5%9Bwi%C4%99ta+PRL+obyczaje+zaopatrzenie',
+        source: 'YouTube',
+        description: 'Materiały o obyczajowości świątecznej.',
+      },
+    ],
+    relatedIds: ['zycie-codzienne', 'kosciol-prl', 'kolejki-prl'],
+  },
+  {
+    id: 'podroze-pkp',
+    title: 'Podróże koleją (PKP)',
+    subtitle: 'Zatłoczone pociągi i herbata w WARS',
+    category: 'społeczeństwo',
+    tags: ['życie codzienne', 'transport', 'kolej', 'podróże'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Kolej była kręgosłupem transportu PRL – zatłoczone pociągi, walka o miejscówkę i herbata w szklance w wagonie WARS.',
+    content: `## Kręgosłup transportu
+Polskie Koleje Państwowe (PKP) były podstawowym środkiem dalekich podróży w PRL – łączyły kraj i przewoziły miliony pasażerów.
+
+## Realia
+Pociągi bywały zatłoczone, z twardymi ławkami i częstymi opóźnieniami; „osobowy” wlókł się godzinami, zatrzymując na każdej stacji.
+
+## Bilety i miejscówki
+Na dalekie trasy polowało się na „miejscówki” i kuszetki, a po bilety ustawiały się kolejki w kasach dworcowych.
+
+## Klimat podróży
+Podróż miała swój klimat: herbata w szklankach podawana w wagonie WARS, zapach węgla, rozmowy z nieznajomymi w przedziałach.
+
+## PKS i LOT
+Uzupełnieniem kolei był PKS (autobusy międzymiastowe), a luksusem – rzadkie i drogie loty LOT-u.
+
+## Znaczenie
+Kolej spajała kraj i była częścią codziennego doświadczenia milionów Polaków – z całym jej urokiem i uciążliwościami.`,
+    trivia: ['W wagonach WARS podawano herbatę w szklankach umieszczonych w metalowych koszyczkach.', 'Na dalekie trasy polowało się na „miejscówki” i kuszetki.'],
+    resources: [
+      {
+        id: 'pkp-yt',
+        title: 'Podróże koleją w PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=PKP+PRL+poci%C4%85g+podr%C3%B3%C5%BC+dworzec',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o kolei.',
+      },
+      {
+        id: 'pkp-wk',
+        title: 'PKP – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Polskie%20Koleje%20Pa%C5%84stwowe%20historia&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o kolei.',
+      },
+      {
+        id: 'pkp-2',
+        title: 'Dworce i pociągi PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=dworzec+kolejowy+PRL+poci%C4%85g+WARS',
+        source: 'YouTube',
+        description: 'Materiały o podróżach koleją.',
+      },
+    ],
+    relatedIds: ['zycie-codzienne', 'turystyka-prl', 'gospodarka-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -20494,4 +20716,6 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1968, event: 'Trubadurzy – przebój „Cóż wiemy o miłości”', category: 'kultura', entryId: 'trubadurzy' },
   { year: 1972, event: '2 plus 1 – przebój „Chodź, pomaluj mój świat”', category: 'kultura', entryId: 'dwa-plus-jeden' },
   { year: 1987, event: 'Zdzisława Sośnicka – przebój „Aleja gwiazd”', category: 'kultura', entryId: 'sosnicka-zdzislawa' },
+  { year: 1968, event: 'Pierwszy Festiwal Piosenki Żołnierskiej w Kołobrzegu', category: 'kultura', entryId: 'festiwal-kolobrzeg' },
+  { year: 1975, event: 'Krzysztof Krawczyk nagrywa przebój „Parostatek”', category: 'kultura', entryId: 'krawczyk-krzysztof' },
 ];
