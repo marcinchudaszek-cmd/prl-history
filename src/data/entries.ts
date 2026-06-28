@@ -3891,6 +3891,8 @@ Michnik jest symbolem liberalnej lewicy i dialogu. Jego teza o „grubej kresce"
     title: 'Jacek Kuroń',
     category: 'osoby',
     shortDesc: 'Pedagog, działacz opozycji, współzałożyciel KOR i jeden z ojców polskiej transformacji.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/A-Jacek%20Kuro%C5%84.jpg?width=800',
+    imageCaption: 'Jacek Kuroń – legendarny opozycjonista, współtwórca KOR.',
     content: `## Jacek Kuroń (1934–2004)
 
 Jacek Kuroń był jedną z najbardziej wpływowych postaci polskiej opozycji demokratycznej. Pedagog z wykształcenia, harcerz z powołania, a rewolucjonista z wyboru – przeszedł drogę od młodego komunisty do czołowego przeciwnika systemu.
@@ -12237,6 +12239,14 @@ Wokalistka Mira Kubasińska, z mocnym, charakterystycznym głosem, współtworzy
 Breakout i Tadeusz Nalepa położyli fundamenty pod rozwój polskiego blues-rocka, inspirując kolejne pokolenia muzyków, w tym zespół Dżem.`,
     resources: [
       {
+        id: 'br-yt',
+        title: 'Breakout – „Kiedy byłem małym chłopcem”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=lWXSUuosxtk',
+        source: 'YouTube',
+        description: 'Klasyk polskiego blues-rocka z albumu „Blues” (1971).',
+      },
+      {
         id: 'br-1',
         title: 'Breakout – nagrania',
         type: 'nagranie',
@@ -12865,6 +12875,14 @@ Penderecki komponował opery, symfonie i muzykę filmową (jego dzieła wykorzys
 Pozostaje jednym z symboli polskiej kultury wysokiej, dowodem, że mimo żelaznej kurtyny polska sztuka mogła współtworzyć światową awangardę.`,
     resources: [
       {
+        id: 'pen-yt',
+        title: 'Penderecki – „Tren – Ofiarom Hiroszimy”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=RAoMR9EqnSQ',
+        source: 'YouTube',
+        description: 'Awangardowe dzieło na 52 instrumenty smyczkowe (1960).',
+      },
+      {
         id: 'pen-1',
         title: 'Penderecki – nagrania',
         type: 'nagranie',
@@ -12915,6 +12933,14 @@ Od lat 60. rozwijał technikę aleatoryzmu kontrolowanego. III Symfonia (1983) u
 ## Postawa
 W latach 80. wspierał opozycję i bojkotował oficjalne media po wprowadzeniu stanu wojennego. Pozostaje symbolem artystycznej i moralnej niezależności.`,
     resources: [
+      {
+        id: 'lut-yt',
+        title: 'Lutosławski – „Koncert na orkiestrę” (Intrada)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=-7Le_oS6o7E',
+        source: 'YouTube',
+        description: 'Fragment najsłynniejszego dzieła kompozytora.',
+      },
       {
         id: 'lut-1',
         title: 'Lutosławski – nagrania',
@@ -13476,6 +13502,14 @@ Kabaret był pod stałą obserwacją, a programy ścierały się z cenzurą. W s
 ## Znaczenie
 „Pod Egidą” to symbol odważnej satyry politycznej, która śmiechem podtrzymywała ducha sprzeciwu wobec systemu.`,
     resources: [
+      {
+        id: 'pe-yt',
+        title: 'Jan Pietrzak – „Żeby Polska była Polską”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=HO46vMAUALc',
+        source: 'YouTube',
+        description: 'Pieśń, która stała się nieformalnym hymnem opozycji.',
+      },
       {
         id: 'pe-1',
         title: 'Kabaret Pod Egidą – nagrania',
