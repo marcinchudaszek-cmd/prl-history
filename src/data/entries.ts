@@ -398,23 +398,23 @@ PZPR była rdzeniem systemu komunistycznego w Polsce – jej dzieje to historia 
     yearStart: 1956,
     yearEnd: 1990,
     summary: 'Służba Bezpieczeństwa – tajna policja polityczna PRL, następczyni Urzędu Bezpieczeństwa (UB). Prowadziła inwigilację obywateli, werbowała tajnych współpracowników i stosowała represje wobec opozycji.',
-    content: `Służba Bezpieczeństwa (SB) działała w strukturach Ministerstwa Spraw Wewnętrznych PRL od 1956 do 1990 roku. Była kontynuatorem zbrodniczego Urzędu Bezpieczeństwa (UB) z lat 1944–1956.
+    content: `## Czym była SB
+Służba Bezpieczeństwa (SB) to tajna policja polityczna PRL, działająca w ramach Ministerstwa Spraw Wewnętrznych w latach 1956–1990. Zastąpiła osławiony Urząd Bezpieczeństwa.
 
-**Metody działania:**
-- Werbowanie tajnych współpracowników (TW) – szacuje się, że przez cały okres PRL SB zarejestrowała ok. 500 000–700 000 informatorów
-- Inwigilacja korespondencji i podsłuchy telefoniczne
-- Obserwacja fizyczna (OT – obserwacja zewnętrzna)
-- "Działania operacyjne" – nękanie psychiczne, prowokacje
-- Brutalne przesłuchania i tortury w latach 40. i 50.
+## Zadania
+Głównym celem SB była ochrona ustroju komunistycznego przed „wrogiem wewnętrznym”: inwigilacja opozycji, Kościoła, środowisk twórczych i całego społeczeństwa.
 
-**Departament IV:**
-Specjalna jednostka ds. zwalczania Kościoła katolickiego i duchowieństwa.
+## Metody
+SB stosowała podsłuchy, perlustrację korespondencji, obserwację, werbunek tajnych współpracowników (TW), prowokacje i szantaż, a w skrajnych przypadkach – przemoc i mordy polityczne (jak zabójstwo ks. Jerzego Popiełuszki).
 
-**Akta SB:**
-Po 1989 roku dokumenty SB przejął IPN. Szacuje się, że zachowało się ok. 1,5 miliona teczek, wiele zostało celowo zniszczonych w 1989–1990 roku.
+## Sieć agentury
+Filarem działania była rozbudowana sieć tajnych współpracowników, donoszących na sąsiadów, kolegów i bliskich. Akta gromadzone w „teczkach” obejmowały miliony obywateli.
 
-**Działania przeciw opozycji:**
-SB prowadziła Sprawę Obiektową "Lato 80" (inwigilacja Solidarności), operacje przeciw KOR, ROPCiO i innym organizacjom.`,
+## Pion przeciw Kościołowi i opozycji
+Wyspecjalizowane departamenty zajmowały się Kościołem (Departament IV) oraz opozycją; w latach 80. SB całą siłą zwalczała Solidarność.
+
+## Rozwiązanie i rozliczenia
+SB rozwiązano w 1990 roku, tworząc Urząd Ochrony Państwa. Akta przejął później IPN, a kwestia lustracji i odpowiedzialności funkcjonariuszy pozostaje przedmiotem debat.`,
     resources: [
       {
         id: 'sb-1',
@@ -1379,25 +1379,23 @@ Po 1989 roku IPN wszczął setki śledztw w sprawie zbrodni komunistycznych. Wi�
     yearStart: 1943,
     yearEnd: 1989,
     summary: 'Ludowe Wojsko Polskie – siły zbrojne PRL podległe ZSRR przez Układ Warszawski. Tworzone od 1943 roku przez komunistów, obsadzone oficerami sowieckimi, używane do tłumienia protestów społecznych.',
-    content: `Ludowe Wojsko Polskie (LWP) powstało w 1943 roku na terenie ZSRR jako alternatywa dla Armii Krajowej, pod patronatem sowieckim.
+    content: `## Powstanie
+Ludowe Wojsko Polskie (LWP) wywodziło się z formowanej w ZSRR od 1943 roku armii (1. Dywizja Piechoty im. Tadeusza Kościuszki), podporządkowanej politycznie komunistom i Moskwie.
 
-**Geneza:**
-W 1943 roku Stalin rozkazał sformowanie 1. Dywizji Piechoty im. Tadeusza Kościuszki pod dowództwem gen. Zygmunta Berlinga. Żołnierze pochodzili w znacznej części z Polaków deportowanych do ZSRR.
+## Podporządkowanie ZSRR
+Armię wyposażono w sowiecki sprzęt i szkolono według radzieckich wzorów, a kluczowe stanowiska obsadzali oficerowie ZSRR – jak marszałek Konstanty Rokossowski, pełniący funkcję ministra obrony.
 
-**Sowietyzacja dowództwa:**
-Po 1945 roku tysiące oficerów sowieckich służyło w LWP, często pod polsko brzmiącymi pseudonimami. Ministrem Obrony był w latach 1949–1956 marszałek Konstanty Rokossowski – obywatel ZSRR.
+## Indoktrynacja
+W wojsku działał rozbudowany aparat polityczny (oficerowie polityczni, Główny Zarząd Polityczny), dbający o ideologiczną „prawomyślność” żołnierzy.
 
-**Udział w tłumieniu protestów:**
-LWP było używane do pacyfikacji społecznych:
-- Czerwiec 1956 – Poznań: czołgi i piechota
-- Grudzień 1970 – Wybrzeże: strzelanie do robotników
-- Stan wojenny 1981 – internowania, WRON
+## Układ Warszawski i 1968
+LWP było częścią Układu Warszawskiego. W 1968 roku wzięło udział w inwazji na Czechosłowację, tłumiącej Praską Wiosnę.
 
-**Układ Warszawski:**
-Polska była członkiem-założycielem Układu Warszawskiego (1955). LWP było podporządkowane sowieckim strukturom dowodzenia. Polscy żołnierze uczestniczyli w interwencji w Czechosłowacji w 1968 roku.
+## Użycie przeciw społeczeństwu
+Wojsko skierowano przeciw obywatelom w Grudniu 1970 na Wybrzeżu, a w 1981 roku to wojskowa WRON gen. Jaruzelskiego formalnie wprowadziła i firmowała stan wojenny.
 
-**Transformacja:**
-Po 1989 roku LWP przekształcono w Wojsko Polskie, wycofując sowieckich doradców i dostosowując struktury do standardów NATO.`,
+## Znaczenie
+LWP łączyło rolę armii z funkcją narzędzia systemu – pozostaje symbolem zależności od ZSRR i użycia siły wobec własnego narodu.`,
     resources: [
       {
         id: 'lwp-1',
@@ -2106,24 +2104,23 @@ Październik 1956 nie zmienił zasad systemu. Cenzura pozostała, Polska trwała
     yearStart: 1944,
     yearEnd: 1956,
     summary: 'Urząd Bezpieczeństwa (UB) – stalinowski aparat terroru działający w Polsce w latach 1944–1956. Podległy Ministerstwu Bezpieczeństwa Publicznego, przy sowieckim nadzorze NKWD/MWD, prowadził masowe aresztowania, tortury i egzekucje przeciwników politycznych.',
-    content: `Urząd Bezpieczeństwa Publicznego – potocznie zwany bezpieką lub UB – powstał jesienią 1944 roku na terenach wyzwolonych spod okupacji niemieckiej, wzorowany bezpośrednio na sowieckiej strukturze NKWD. Jego zadaniem była eliminacja wszelkiej opozycji politycznej i wojskowej wobec nowej władzy komunistycznej.
+    content: `## Czym był UB
+Urząd Bezpieczeństwa (UB) to aparat policji politycznej pierwszego, stalinowskiego okresu Polski Ludowej (1944/45–1956) – narzędzie terroru w rękach komunistów.
 
-**Struktura i nadzór sowiecki:**
-Na czele resortu bezpieczeństwa stał Stanisław Radkiewicz. W aparacie UB pracowało wielu oficerów NKWD/MWD oddelegowanych z ZSRR – m.in. gen. Iwan Sierow nadzorował operacje w Polsce. Doradcy sowieccy byli obecni na wszystkich szczeblach.
+## Zwalczanie podziemia
+UB ścigał żołnierzy podziemia niepodległościowego (AK, NSZ, WiN), legalną opozycję (PSL Mikołajczyka) oraz wszystkich uznanych za „wrogów ludu”.
 
-**Skala terroru:**
-W latach 1944–1956 UB i jego poprzednicy:
-- Aresztowali setki tysięcy osób
-- Przeprowadzili dziesiątki tysięcy egzekucji (żołnierze podziemia, politycy, duchowni)
-- Stosowali systematyczne tortury w trakcie śledztw
-- Prowadzili obozy pracy (m.in. Jaworzno, Potulice)
-- Rozpracowywali i likwidowali struktury Armii Krajowej i WiN
+## Terror
+Funkcjonariusze stosowali masowe aresztowania, brutalne tortury w śledztwie, pokazowe procesy i egzekucje. W więzieniach UB (m.in. przy Rakowieckiej w Warszawie) zginęły tysiące ludzi.
 
-**Procesy pokazowe:**
-UB przygotowywał procesy polityczne, w których oskarżeni pod wpływem tortur składali zeznania zgodne z potrzebami propagandy. Najbardziej znane to procesy gen. Augusta Emila Fieldorfa Nila, kard. Stefana Wyszyńskiego (internowanie) oraz czołowych dowódców AK.
+## Skala i kierownictwo
+Aparat liczył dziesiątki tysięcy funkcjonariuszy oraz rozległą sieć agentury. Kierował nim Stanisław Radkiewicz, a nad całością czuwali doradcy sowieccy.
 
-**Likwidacja UB:**
-Po Październiku 1956 roku Ministerstwo Bezpieczeństwa Publicznego zostało rozwiązane. W jego miejsce powołano Służbę Bezpieczeństwa (SB) przy Ministerstwie Spraw Wewnętrznych – kontynuatorkę działalności, choć z mniejszymi uprawnieniami terroru fizycznego.`,
+## Przełom 1956
+Po ujawnieniu zbrodni – m.in. w audycjach zbiegłego na Zachód płk. Józefa Światły w Radiu Wolna Europa – i w atmosferze odwilży UB rozwiązano w 1956 roku, zastępując go Służbą Bezpieczeństwa.
+
+## Znaczenie
+UB pozostaje symbolem stalinowskiego terroru – bezwzględnej machiny represji, która złamała zbrojny i polityczny opór wobec komunizmu.`,
     resources: [
       {
         id: 'ub-1',
@@ -2827,22 +2824,23 @@ Instytut Literacki wydał setki książek – autorów zakazanych w PRL, dokumen
     yearStart: 1955,
     yearEnd: 1991,
     summary: 'Układ o Przyjaźni, Współpracy i Pomocy Wzajemnej – sojusz militarny krajów bloku wschodniego pod przywództwem ZSRR, podpisany 14 maja 1955 roku w Warszawie. Polska była jego członkiem przez cały czas istnienia, uczestnicząc m.in. w interwencji zbrojnej w Czechosłowacji w 1968 roku.',
-    content: `Układ Warszawski powstał 14 maja 1955 roku jako odpowiedź ZSRR na przyjęcie Niemiec Zachodnich do NATO. Członkami założycielami było osiem państw: Albania, Bułgaria, Czechosłowacja, NRD, Polska, Rumunia, Węgry i ZSRR.
+    content: `## Powstanie
+Układ Warszawski to sojusz wojskowy państw bloku wschodniego, zawarty w 1955 roku w Warszawie jako odpowiedź na utworzenie NATO i remilitaryzację RFN.
 
-**Struktura:**
-Formalnie sojusz miał charakter obronny – podobnie jak NATO. W praktyce był narzędziem utrzymania sowieckiej dominacji nad Europą Środkową. Naczelne Dowództwo znajdowało się w Moskwie, a jego szefami byli zawsze sowieccy marszałkowie.
+## Członkowie
+W skład wchodziły ZSRR oraz państwa satelickie: Polska, NRD, Czechosłowacja, Węgry, Rumunia, Bułgaria i (do 1968) Albania. Faktyczne dowództwo sprawowała Moskwa.
 
-**Polska w Układzie Warszawskim:**
-Polskie wojsko (LWP) było trzecią co do wielkości siłą w Układzie. Polska uczestniczyła w:
-- Ćwiczeniach wojskowych pod sowieckim dowództwem
-- Interwencji w Czechosłowacji w sierpniu 1968 roku (Operacja Dunaj)
-- Stałym systemie dyslokacji sowieckich wojsk na terytorium Polski (Północna Grupa Wojsk ZSRR)
+## Narzędzie dominacji
+Choć formalnie był to sojusz obronny, w praktyce służył utrzymaniu kontroli ZSRR nad blokiem – w tym tłumieniu prób uniezależnienia się państw członkowskich.
 
-**Doktryna Breżniewa:**
-Po interwencji w Czechosłowacji w 1968 roku ZSRR ogłosił prawo do "bratniej pomocy" – czyli interwencji zbrojnej w przypadku zagrożenia socjalizmu w którymkolwiek kraju bloku. Doktryna ta wisiała nad Polską podczas kryzysu 1980–1981.
+## Interwencje
+Wojska Układu stłumiły Praską Wiosnę w Czechosłowacji w 1968 roku (z udziałem LWP). „Doktryna Breżniewa” usprawiedliwiała takie interwencje rzekomą „obroną socjalizmu”.
 
-**Rozwiązanie:**
-Układ Warszawski rozwiązano 1 lipca 1991 roku – po upadku komunizmu w Europie Środkowej i rozpadzie ZSRR. Polska przystąpiła do NATO w 1999 roku.`,
+## Zagrożenie dla Polski
+W okresie Solidarności (1980–1981) groźba interwencji wojsk Układu była jednym z argumentów przywoływanych dla uzasadnienia wprowadzenia stanu wojennego.
+
+## Rozwiązanie
+Układ Warszawski rozwiązano w 1991 roku, wraz z rozpadem bloku wschodniego i ZSRR, co przypieczętowało koniec zimnowojennego podziału Europy.`,
     resources: [
       {
         id: 'uw-1',
@@ -3369,6 +3367,8 @@ Miłosz jest autorem „Traktatu moralnego", „Ziemi Ulro", „Roku myśliwego"
     title: 'Zbigniew Herbert',
     category: 'osoby',
     shortDesc: 'Jeden z najwybitniejszych polskich poetów – twórca Pana Cogito, głos moralnego sprzeciwu wobec totalitaryzmu.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zbigniew%20Herbert.jpg?width=800',
+    imageCaption: 'Zbigniew Herbert – poeta, autor cyklu „Pan Cogito”.',
     content: `## Zbigniew Herbert (1924–1998)
 
 Zbigniew Herbert był jednym z najwybitniejszych polskich poetów XX wieku. Uczestnik Armii Krajowej, niepokorny intelektualista i moralista, który całe życie stawiał opór zniewoleniu – zarówno komunistycznemu, jak i każdemu innemu.
@@ -4329,6 +4329,8 @@ RWPG rozwiązała się w 1991 roku, gdy upadły komunistyczne rządy i rynki wsc
     title: 'Wisława Szymborska',
     category: 'osoby',
     shortDesc: 'Poetka, laureatka Nagrody Nobla 1996 – mistrzyni ironii i codziennej filozofii.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wis%C5%82awa%20Szymborska.jpg?width=800',
+    imageCaption: 'Wisława Szymborska – poetka, laureatka Nagrody Nobla (1996).',
     content: `## Wisława Szymborska (1923–2012)
 
 Wisława Szymborska należy do grona największych polskich poetów XX wieku. W 1996 roku otrzymała literacką Nagrodę Nobla – Akademia Szwedzka uzasadniła ją „poezją, która z ironiczną precyzją pozwala kontekstowi historycznemu i biologicznemu fragmentowi ludzkiej rzeczywistości wyłonić się na światło". Jej wiersze, pozornie proste i żartobliwe, kryją w sobie głębię filozoficzną i moralną.
@@ -6661,6 +6663,8 @@ Polska animacja i literatura dziecięca PRL stworzyły wiele wybitnych dzieł �
     yearStart: 1901,
     yearEnd: 1948,
     summary: 'Witold Pilecki to jeden z największych bohaterów II wojny światowej: dobrowolnie dał się aresztować i trafić do Auschwitz, by stamtąd organizować ruch oporu i wysyłać raporty o Zagładzie. Po wojnie zamordowany przez UB jako "zdrajca".',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Witold%20Pilecki%20in%20color.jpg?width=800',
+    imageCaption: 'Rotmistrz Witold Pilecki – bohater Polski Podziemnej, stracony w 1948 roku.',
     content: `## Dobrowolne wejście do Auschwitz
 
 Witold Pilecki (ur. 13 V 1901 w Ołońcu) był oficerem kawalerii i żołnierzem AK. W 1940 r. zaproponował wywiadowi AK niezwykłą misję: dobrowolnie da się aresztować przez Niemców, trafi do Auschwitz i zorganizuje tam ruch oporu. Zgodę uzyskał. 19 września 1940 r. wszedł w zasadzkę i trafił do obozu jako "Tomasz Serafiński".
@@ -7677,6 +7681,8 @@ Kisielewski reprezentował w PRL-u coś rzadkiego: liberalny, antysocjalistyczny
     yearStart: 1913,
     yearEnd: 1986,
     summary: 'Mieczysław Moczar – szef MSW i lider frakcji "partyzantów" w PZPR – był głównym architektem antysemickiej kampanii 1968 r. Jego nacjonalistyczno-komunistyczna frakcja przez chwilę zagrażała dominacji Gomułki, a potem Gierka.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mieczys%C5%82aw%20Moczar.jpg?width=800',
+    imageCaption: 'Mieczysław Moczar – przywódca nacjonalistycznej frakcji „partyzantów”.',
     content: `## Kim byli "partyzanci"?
 
 Frakcja "partyzantów" skupiała działaczy PZPR, którzy w czasie II wojny walczyli w komunistycznej partyzantce na ziemiach polskich (GL/AL) – w odróżnieniu od "Moskwiczan" (przybyłych z ZSRR) i "Żydów" (jak ich pogardliwie nazywano w wewnętrznych sporach). Ich liderem był Mieczysław Moczar (ur. 1913).
@@ -7795,6 +7801,8 @@ Górecki zasłynął przede wszystkim "III Symfonią" ("Symfonia pieśni żałos
     yearStart: 1925,
     yearEnd: 2015,
     summary: 'Gen. Czesław Kiszczak – minister spraw wewnętrznych i szef aparatu bezpieczeństwa PRL w kluczowych latach 1981–1990 – był jedną z najbardziej niejednoznacznych postaci przełomu: współodpowiedzialny za represje stanu wojennego, a zarazem architekt rozmów z opozycją.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Czes%C5%82aw%20Kiszczak.jpg?width=800',
+    imageCaption: 'Gen. Czesław Kiszczak – szef MSW, współarchitekt stanu wojennego.',
     content: `## Kariera w bezpiece
 
 Czesław Kiszczak (ur. 19 X 1925 w Roczynach) trafił do wojskowych służb wywiadowczych w 1945 r. Budował karierę w strukturach wojskowego kontrwywiadu i wywiadu. W 1981 r. Jaruzelski mianował go ministrem spraw wewnętrznych – co oznaczało bezpośrednie dowodzenie SB, milicją i ZOMO.
@@ -10220,25 +10228,23 @@ Kaczmarski pozostaje jednym z najważniejszych głosów polskiej kultury niezale
     yearStart: 1970,
     yearEnd: 1980,
     summary: '„Propaganda sukcesu” to określenie medialnej strategii ekipy Gierka, która kreowała obraz dynamicznego rozwoju i dobrobytu. Kolorowa telewizja pokazywała nowe fabryki i bloki, przemilczając rosnące zadłużenie i kryzys, który doprowadził do wybuchu 1980 r.',
-    content: `## Narodziny pojęcia
+    content: `## Pojęcie
+„Propaganda sukcesu” to określenie polityki medialnej epoki Edwarda Gierka (lata 70.), kreującej obraz Polski jako kraju dynamicznego rozwoju i dobrobytu.
 
-Po objęciu władzy przez Edwarda Gierka w grudniu 1970 r. propaganda PRL zmieniła ton. Zamiast ascetycznego stylu Gomułki pojawił się optymizm i obietnica „drugiej Polski” – nowoczesnej, konsumpcyjnej, otwartej na Zachód. Media miały kreować wrażenie nieustannego sukcesu.
+## Mechanizm
+Telewizja, radio i prasa nieustannie donosiły o „sukcesach”: nowych fabrykach, budowach, rekordach produkcji i rosnącej stopie życiowej, pomijając problemy i niedobory.
 
-## Narzędzia obrazu
+## Dekada Gierka
+Propaganda towarzyszyła realnym inwestycjom (Huta Katowice, Fiat 126p, Trasa Łazienkowska), finansowanym jednak zachodnimi kredytami, co budowało iluzję trwałego dobrobytu.
 
-Kluczową rolę odegrała telewizja, zwłaszcza po wprowadzeniu emisji w kolorze. Dzienniki pokazywały otwarcia fabryk (Huta Katowice, Fabryka Samochodów Małolitrażowych), nowe osiedla z wielkiej płyty, sukcesy sportowe. Gierek z robotnikami – „Pomożecie?” – stał się ikoną tej narracji.
+## Rozdźwięk z rzeczywistością
+Z czasem optymistyczny przekaz coraz bardziej rozmijał się z codziennością – kolejkami, brakami w sklepach i rosnącym długiem, co pogłębiało frustrację społeczeństwa.
 
-## Kredyt i konsumpcja
+## Kompromitacja
+Kryzys gospodarczy końca lat 70., podwyżki i strajki obnażyły fałsz propagandy sukcesu. Samo pojęcie stało się ironicznym symbolem zakłamania oficjalnego przekazu.
 
-Dekada Gierka opierała się na zachodnich kredytach, za które kupowano licencje (Fiat 126p), technologie i towary. Przez kilka lat realnie wzrósł poziom życia – stąd nostalgia za „epoką Gierka”. Propaganda przedstawiała to jako trwały sukces socjalizmu, a nie efekt zadłużania się.
-
-## Pęknięcie narracji
-
-Od połowy lat 70. gospodarka zaczęła się załamywać – rosło zadłużenie, brakowało towarów. Podwyżki cen w 1976 r. (Radom, Ursus) obnażyły fasadowość „sukcesu”. Im gorzej było w sklepach, tym bardziej triumfalna była telewizja, co pogłębiało rozdźwięk między obrazem a rzeczywistością.
-
-## Koniec i dziedzictwo
-
-„Propaganda sukcesu” runęła wraz z kryzysem 1980 r. i narodzinami „Solidarności”. Pojęcie weszło na trwałe do języka jako synonim kreowania fałszywego obrazu rzeczywistości przez władzę. Pozostaje też symbolem mechanizmów peerelowskiej manipulacji medialnej.`,
+## Znaczenie
+Propaganda sukcesu to klasyczny przykład manipulacji medialnej PRL – budowania pozornej rzeczywistości w oderwaniu od realnych problemów kraju.`,
     resources: [
       {
         id: 'props-1',
@@ -11188,25 +11194,23 @@ Teatr Telewizji ukształtował gust kulturalny pokoleń Polaków i zachował zap
     tags: ['Milenium', '1966', 'Kościół', 'Wyszyński', 'Gomułka', 'Tysiąclecie', 'chrzest Polski'],
     yearStart: 1966,
     summary: 'Obchody tysiąclecia chrztu Polski w 1966 r. stały się areną rywalizacji między Kościołem a państwem. Religijnym uroczystościom prymasa Wyszyńskiego władza przeciwstawiła świeckie obchody „Tysiąclecia Państwa Polskiego”.',
-    content: `## Dwa tysiąclecia
-
-Rok 1966 wyznaczał tysiąclecie chrztu Polski (966 r.). Kościół katolicki przygotowywał uroczyste obchody religijne, ukoronowanie Wielkiej Nowenny prymasa Stefana Wyszyńskiego. Władze komunistyczne, nie chcąc oddać pola Kościołowi, zorganizowały konkurencyjne obchody świeckie.
+    content: `## Dwie rocznice
+Rok 1966 przyniósł rywalizację dwóch obchodów: kościelnego Milenium Chrztu Polski (966) i państwowego Tysiąclecia Państwa Polskiego – starcie Kościoła z władzą o „rząd dusz”.
 
 ## Wielka Nowenna
-
-Prymas Wyszyński przez dziewięć lat przygotowywał naród do milenium przez Wielką Nowennę i peregrynację kopii obrazu Matki Boskiej Częstochowskiej po parafiach. Była to ogromna mobilizacja religijna, niezależna od państwa i poza jego kontrolą.
+Obchody kościelne przygotowywała zainicjowana przez prymasa Wyszyńskiego dziewięcioletnia Wielka Nowenna oraz peregrynacja kopii obrazu Matki Bożej Częstochowskiej po całym kraju.
 
 ## Konflikt z władzą
+Władze utrudniały uroczystości: „aresztowały” wędrujący obraz, ograniczały pielgrzymki, organizowały konkurencyjne imprezy świeckie i akcje propagandowe, m.in. „Tysiąc szkół na Tysiąclecie”.
 
-Władze utrudniały obchody – zatrzymano peregrynujący obraz, ograniczano uroczystości, prowadzono kampanię propagandową. Zaostrzeniu konfliktu sprzyjało wcześniejsze orędzie biskupów polskich do niemieckich (1965) ze słowami „przebaczamy i prosimy o przebaczenie”.
+## Orędzie biskupów
+Napięcie podsycił list biskupów polskich do niemieckich (1965) ze słowami „przebaczamy i prosimy o przebaczenie”, zaatakowany przez propagandę hasłem „Nie przebaczamy”.
 
-## Państwowe Tysiąclecie
-
-Państwo przeciwstawiło religii obchody „Tysiąclecia Państwa Polskiego”, akcentując świecki, narodowy wymiar rocznicy oraz osiągnięcia PRL. Organizowano pochody, akademie i imprezy mające odciągnąć ludność od uroczystości kościelnych.
+## Triumf wiary
+Mimo szykan obchody milenijne zgromadziły tłumy wiernych i stały się wielką manifestacją siły Kościoła oraz porażką ateizacyjnej polityki władz.
 
 ## Znaczenie
-
-Milenium 1966 było jednym z najważniejszych momentów rywalizacji Kościoła i państwa w PRL. Pokazało siłę i niezależność Kościoła oraz jego rolę jako alternatywnego ośrodka życia społecznego wobec systemu komunistycznego.`,
+Milenium 1966 umocniło pozycję Kościoła i prymasa Wyszyńskiego, pokazując granice wpływu komunistycznego państwa na duchowość Polaków.`,
     resources: [
       {
         id: 'mil-1',
