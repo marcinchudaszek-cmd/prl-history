@@ -19109,6 +19109,280 @@ Syrena to ikona polskiej myśli technicznej epoki – świadectwo ambicji własn
     ],
     relatedIds: ['motoryzacja-prl', 'fiat-126p', 'fso-polonez'],
   },
+  {
+    id: 'violetta-villas',
+    title: 'Violetta Villas',
+    subtitle: '„Głos atomowy” polskiej estrady',
+    category: 'osoby',
+    tags: ['kultura', 'muzyka', 'estrada', 'kobiety'],
+    yearStart: 1960,
+    yearEnd: 1989,
+    summary: 'Piosenkarka i aktorka o fenomenalnym, wielooktawowym głosie, gwiazda estrady i jedna z nielicznych polskich artystek z karierą na Zachodzie.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Violetta%20Villas.jpg?width=800',
+    imageCaption: 'Violetta Villas – piosenkarka o fenomenalnym, wielooktawowym głosie.',
+    content: `## Sylwetka
+Violetta Villas (1938–2011), właśc. Czesława Cieślak, była piosenkarką i aktorką obdarzoną fenomenalnym, wielooktawowym głosem (sopran koloraturowy), nazywaną „głosem atomowym” i „perłą Karpat”.
+
+## Kariera
+Zadebiutowała na przełomie lat 50. i 60., szybko stając się gwiazdą estrady. Jej brawurowe wykonania i ekspresyjna interpretacja zachwycały publiczność.
+
+## Przeboje
+Do najsłynniejszych należą „Do ciebie mamo” (List do matki), „Oczy czarne” i „Śpij, laleczko”. Repertuar łączył piosenkę estradową z operetką i muzyką poważną.
+
+## Kariera na Zachodzie
+W latach 60. występowała za granicą – w Las Vegas, Paryżu i zachodnich telewizjach – jako jedna z nielicznych polskich gwiazd o międzynarodowej rozpoznawalności.
+
+## Powrót i legenda
+Po powrocie do kraju jej życie naznaczyły ekscentryzm i samotność wśród gromady zwierząt. Mimo trudnych lat pozostała legendą polskiej estrady.
+
+## Znaczenie
+Villas to jeden z najwybitniejszych głosów w historii polskiej muzyki rozrywkowej – artystka osobna, której talent wykraczał poza ramy epoki.`,
+    resources: [
+      {
+        id: 'vv-yt',
+        title: 'Violetta Villas – „Do ciebie mamo”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=N68_SARhXEw',
+        source: 'YouTube',
+        description: 'Jeden z najsłynniejszych utworów artystki.',
+      },
+      {
+        id: 'vv-1',
+        title: 'Violetta Villas – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Violetta+Villas+Oczy+czarne+koncert',
+        source: 'YouTube',
+        description: 'Wykonania i materiały archiwalne.',
+      },
+      {
+        id: 'vv-2',
+        title: 'Violetta Villas – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Violetta%20Villas&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o artystce.',
+      },
+    ],
+    relatedIds: ['festiwal-opole', 'anna-german', 'kultura-prl'],
+  },
+  {
+    id: 'lombard-zespol',
+    title: 'Lombard',
+    subtitle: 'Małgorzata Ostrowska i „Przeżyj to sam”',
+    category: 'kultura',
+    tags: ['muzyka', 'rock', 'nowa fala', 'lata 80.'],
+    yearStart: 1981,
+    yearEnd: 1989,
+    summary: 'Czołowy zespół rockowy lat 80. z charyzmatyczną wokalistką Małgorzatą Ostrowską, autor przeboju „Przeżyj to sam”.',
+    content: `## Powstanie
+Lombard powstał w 1981 roku w Poznaniu. Zespół tworzyli m.in. Grzegorz Stróżniak i charyzmatyczna wokalistka Małgorzata Ostrowska, której mocny głos stał się znakiem firmowym grupy.
+
+## Brzmienie
+Lombard łączył rock z nową falą oraz elementami reggae i popu, tworząc energetyczne, nowoczesne brzmienie lat 80.
+
+## Przeboje
+Największą sławę przyniósł przebój „Przeżyj to sam” (1982) – jeden z hymnów dekady. Popularne były też „Szklana pogoda” i „Adriatyk – ocean gorący”.
+
+## Małgorzata Ostrowska
+Wokalistka stała się jedną z najbardziej rozpoznawalnych kobiet polskiej sceny rockowej, łącząc siłę głosu z charyzmą sceniczną.
+
+## Pozycja
+Lombard należał do czołówki polskiego rocka lat 80., regularnie obecny na Liście Przebojów Trójki i festiwalach.
+
+## Znaczenie
+Zespół pozostaje klasykiem polskiego rocka, a „Przeżyj to sam” – jednym z najbardziej rozpoznawalnych przebojów epoki.`,
+    resources: [
+      {
+        id: 'lom-yt',
+        title: 'Lombard – „Przeżyj to sam” (1982)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=BmEP9czgX0c',
+        source: 'YouTube',
+        description: 'Hymniczny przebój zespołu z lat 80.',
+      },
+      {
+        id: 'lom-1',
+        title: 'Lombard – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Lombard+Ostrowska+koncert+lata+80',
+        source: 'YouTube',
+        description: 'Występy i teledyski zespołu.',
+      },
+      {
+        id: 'lom-2',
+        title: 'Lombard – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Lombard%20zesp%C3%B3%C5%82%20Ostrowska&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o zespole.',
+      },
+    ],
+    relatedIds: ['rock-lat-80', 'lady-pank', 'muzyka-rockowa-prl'],
+  },
+  {
+    id: 'oddzial-zamkniety',
+    title: 'Oddział Zamknięty',
+    subtitle: 'Rockowe przeboje lat 80.',
+    category: 'kultura',
+    tags: ['muzyka', 'rock', 'nowa fala', 'lata 80.'],
+    yearStart: 1979,
+    yearEnd: 1989,
+    summary: 'Popularny zespół rockowy pierwszej połowy lat 80., znany z przebojów „Andzia” i „Party”.',
+    content: `## Powstanie
+Oddział Zamknięty powstał w 1979 roku w Warszawie. W zespole grali m.in. Krzysztof Jaryczewski (wokal) i Paweł Mścisławski, a z grupą związany był też Andrzej Szpilman.
+
+## Brzmienie
+Zespół grał energetyczny rock z elementami nowej fali, zyskując popularność dzięki chwytliwym przebojom i scenicznej energii.
+
+## Przeboje
+Do największych hitów należą „Andzia (i ja)”, „Party” oraz „Ten wasz świat”. Utwory te stały się stałym elementem dyskotek i Listy Przebojów Trójki.
+
+## Popularność
+W pierwszej połowie lat 80. Oddział Zamknięty był jednym z najpopularniejszych zespołów rockowych w kraju, z licznymi koncertami i nagraniami.
+
+## Zmiany składu
+Burzliwe dzieje zespołu i zmiany składu (m.in. odejście Jaryczewskiego) nie przekreśliły jego pozycji – grupa wracała na scenę w kolejnych latach.
+
+## Znaczenie
+Oddział Zamknięty to jeden z symboli rockowej kultury młodzieżowej lat 80., a jego przeboje pozostają rozpoznawalne do dziś.`,
+    resources: [
+      {
+        id: 'oz-yt',
+        title: 'Oddział Zamknięty – „Andzia”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=r-v2QLmAmOs',
+        source: 'YouTube',
+        description: 'Jeden z największych przebojów zespołu.',
+      },
+      {
+        id: 'oz-1',
+        title: 'Oddział Zamknięty – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Oddzia%C5%82+Zamkni%C4%99ty+Party+Jaryczewski',
+        source: 'YouTube',
+        description: 'Występy i teledyski zespołu.',
+      },
+      {
+        id: 'oz-2',
+        title: 'Oddział Zamknięty – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Oddzia%C5%82%20Zamkni%C4%99ty%20zesp%C3%B3%C5%82&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o zespole.',
+      },
+    ],
+    relatedIds: ['rock-lat-80', 'perfect-zespol', 'lista-przebojow-trojki'],
+  },
+  {
+    id: 'skaldowie',
+    title: 'Skaldowie',
+    subtitle: 'Bracia Zielińscy i ambitny big-beat',
+    category: 'kultura',
+    tags: ['muzyka', 'big-beat', 'rock', 'lata 60.'],
+    yearStart: 1965,
+    yearEnd: 1989,
+    summary: 'Jeden z najbardziej oryginalnych zespołów polskiej muzyki rozrywkowej, łączący big-beat z muzyką klasyczną i folkiem, autor „Medytacji wiejskiego listonosza”.',
+    content: `## Powstanie
+Skaldowie powstali w 1965 roku w Krakowie, założeni przez braci Andrzeja i Jacka Zielińskich. Należeli do czołówki polskiego big-beatu i muzyki rozrywkowej.
+
+## Styl
+Zespół wyróżniał się ambitnymi aranżacjami łączącymi rock z muzyką klasyczną, folkiem podhalańskim i jazzem, a także wielogłosowymi harmoniami.
+
+## Przeboje
+Najsłynniejsze utwory to „Medytacje wiejskiego listonosza”, „Wszystko mi mówi, że mnie ktoś pokochał”, „Nie domykajmy drzwi” i „Z kopyta kulig rwie”. Teksty często pisał Leszek Aleksander Moczulski.
+
+## Trwałość
+Skaldowie utrzymywali popularność przez całą epokę PRL, koncertując i nagrywając ambitne płyty, cenione zarówno przez publiczność, jak i krytykę.
+
+## Bracia Zielińscy
+Andrzej Zieliński, kompozytor i pianista, nadawał zespołowi muzyczny kierunek, a Jacek był współwokalistą; ich współpraca określiła brzmienie grupy.
+
+## Znaczenie
+Skaldowie to jeden z najbardziej oryginalnych i cenionych zespołów polskiej muzyki rozrywkowej, łączący popularność z artystyczną ambicją.`,
+    resources: [
+      {
+        id: 'sk-yt',
+        title: 'Skaldowie – „Medytacje wiejskiego listonosza”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=kTD_vciigXg',
+        source: 'YouTube',
+        description: 'Jeden z najpiękniejszych utworów zespołu.',
+      },
+      {
+        id: 'sk-1',
+        title: 'Skaldowie – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Skaldowie+koncert+big+beat',
+        source: 'YouTube',
+        description: 'Występy i teledyski zespołu.',
+      },
+      {
+        id: 'sk-2',
+        title: 'Skaldowie – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Skaldowie%20zesp%C3%B3%C5%82%20Zieli%C5%84ski&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o zespole.',
+      },
+    ],
+    relatedIds: ['big-beat-prl', 'czerwone-gitary', 'festiwal-opole'],
+  },
+  {
+    id: 'irena-santor',
+    title: 'Irena Santor',
+    subtitle: '„Pierwsza dama polskiej piosenki”',
+    category: 'osoby',
+    tags: ['kultura', 'muzyka', 'estrada', 'kobiety'],
+    yearStart: 1956,
+    yearEnd: 1989,
+    summary: 'Jedna z najwybitniejszych polskich piosenkarek, zwana „pierwszą damą polskiej piosenki”, autorka przebojów „Powrócisz tu” i „Embarras”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Irena%20Santor.jpg?width=800',
+    imageCaption: 'Irena Santor – „pierwsza dama polskiej piosenki”.',
+    content: `## Sylwetka
+Irena Santor (ur. 1934) to jedna z najwybitniejszych polskich piosenkarek, zwana „pierwszą damą polskiej piosenki”, o ciepłym, dojrzałym głosie i nienagannym warsztacie.
+
+## Od Mazowsza do estrady
+Karierę zaczynała w Zespole „Mazowsze”, by w drugiej połowie lat 50. rozpocząć karierę solową i stać się gwiazdą polskiej estrady.
+
+## Przeboje
+Do najsłynniejszych należą „Powrócisz tu”, „Embarras”, „Tych lat nie odda nikt” i „Już nie ma dzikich plaż”. Jej repertuar to klasyka polskiej piosenki.
+
+## Festiwale
+Triumfowała na festiwalach w Opolu i Sopocie, reprezentowała polską piosenkę za granicą, ceniona za elegancję i muzykalność.
+
+## Pozycja
+Przez dziesięciolecia pozostawała wzorem interpretacji i kultury wykonawczej, autorytetem dla kolejnych pokoleń wokalistów.
+
+## Znaczenie
+Irena Santor to symbol najwyższej klasy polskiej piosenki estradowej – artystka, której nagrania weszły do narodowego kanonu.`,
+    resources: [
+      {
+        id: 'is-yt',
+        title: 'Irena Santor – „Powrócisz tu”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=EFDr2FrJa9s',
+        source: 'YouTube',
+        description: 'Jeden z najsłynniejszych przebojów artystki.',
+      },
+      {
+        id: 'is-1',
+        title: 'Irena Santor – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Irena+Santor+Embarras+Opole',
+        source: 'YouTube',
+        description: 'Wykonania i materiały archiwalne.',
+      },
+      {
+        id: 'is-2',
+        title: 'Irena Santor – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Irena%20Santor&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o artystce.',
+      },
+    ],
+    relatedIds: ['festiwal-opole', 'anna-german', 'sopot-festiwal'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -19285,4 +19559,9 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1982, event: 'Polska zajmuje 3. miejsce na mundialu w Hiszpanii; gwiazdą Zbigniew Boniek', category: 'społeczeństwo', entryId: 'mundial-1982' },
   { year: 1983, event: 'Debiut Bajm – album „Józek, nie daruję ci tej nocy”', category: 'kultura', entryId: 'bajm-zespol' },
   { year: 1985, event: 'Zbigniew Boniek zdobywa z Juventusem Puchar Europy', category: 'społeczeństwo', entryId: 'boniek-zbigniew' },
+  { year: 1961, event: 'Violetta Villas podbija estradę swoim wielooktawowym głosem', category: 'kultura', entryId: 'violetta-villas' },
+  { year: 1968, event: 'Irena Santor – przebój „Powrócisz tu”', category: 'kultura', entryId: 'irena-santor' },
+  { year: 1969, event: 'Skaldowie nagrywają „Medytacje wiejskiego listonosza”', category: 'kultura', entryId: 'skaldowie' },
+  { year: 1982, event: 'Lombard wydaje przebój „Przeżyj to sam”', category: 'kultura', entryId: 'lombard-zespol' },
+  { year: 1983, event: 'Debiut płytowy Oddziału Zamkniętego (przebój „Andzia”)', category: 'kultura', entryId: 'oddzial-zamkniety' },
 ];
