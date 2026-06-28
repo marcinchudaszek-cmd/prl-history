@@ -48,22 +48,23 @@ export const entries: Entry[] = [
     yearStart: 1981,
     yearEnd: 1983,
     summary: 'Stan wojenny w Polsce – okres w historii PRL wprowadzony 13 grudnia 1981 przez gen. Wojciecha Jaruzelskiego, mający na celu zdławienie opozycji demokratycznej skupionej wokół "Solidarności".',
-    content: `Stan wojenny w Polsce Ludowej został wprowadzony w nocy z 12 na 13 grudnia 1981 roku przez Radę Państwa na wniosek Rady Ministrów pod przewodnictwem gen. Wojciecha Jaruzelskiego. Powołano Wojskową Radę Ocalenia Narodowego (WRON).
+    content: `## Wprowadzenie
+W nocy z 12 na 13 grudnia 1981 roku gen. Wojciech Jaruzelski ogłosił wprowadzenie stanu wojennego. Władzę przejęła Wojskowa Rada Ocalenia Narodowego (WRON), zawieszając Solidarność i prawa obywatelskie.
 
-Bezpośrednią przyczyną było narastające napięcie społeczno-polityczne po powstaniu NSZZ "Solidarność" w sierpniu 1980 roku oraz obawy władz przed ewentualną interwencją sowiecką.
+## Aparat represji
+Internowano około 10 tysięcy działaczy (operacja „Jodła”), wprowadzono godzinę milicyjną, cenzurę korespondencji i rozmów telefonicznych oraz militaryzację zakładów. Ulice patrolowały ZOMO i wojsko.
 
-**Główne działania:**
-- Internowanie około 10 000 działaczy opozycji i "Solidarności"
-- Zawieszenie działalności związków zawodowych i organizacji społecznych
-- Wprowadzenie godziny milicyjnej (22:00–6:00)
-- Militaryzacja strategicznych zakładów pracy
-- Wprowadzenie cenzury prewencyjnej
-- Zawieszenie działalności szkół wyższych
+## Pacyfikacje
+Opór tłumiono siłą. Najtragiczniejszym wydarzeniem była pacyfikacja kopalni Wujek 16 grudnia 1981 roku, gdzie ZOMO zastrzeliło dziewięciu górników.
 
-**Pacyfikacje i ofiary:**
-Najtragiczniejsze zdarzenia miały miejsce w Kopalni Węgla Kamiennego "Wujek" w Katowicach, gdzie 16 grudnia 1981 roku milicja i wojsko otworzyły ogień do strajkujących górników. Zginęło 9 osób.
+## Codzienność
+Telewizyjni spikerzy wystąpili w mundurach, zawieszono zajęcia szkolne i wyjazdy, rozszerzono reglamentację. Kraj pogrążył się w atmosferze strachu i szarości.
 
-Stan wojenny był oficjalnie zawieszony 31 grudnia 1982 roku, a zniesiony 22 lipca 1983 roku.`,
+## Opór
+Mimo represji działała podziemna Solidarność, drugi obieg, Radio Solidarność i uliczne demonstracje. Kościół wspierał represjonowanych; symbolem oporu stał się m.in. ks. Jerzy Popiełuszko.
+
+## Zniesienie i bilans
+Stan wojenny zawieszono w 1982 i zniesiono w lipcu 1983 roku. Jego ofiarą padło kilkadziesiąt osób. Pozostał symbolem przemocy państwa wobec własnego społeczeństwa.`,
     resources: [
       {
         id: 'sw-1',
@@ -242,21 +243,23 @@ Poznański Czerwiec był pierwszym masowym robotniczym buntem w PRL i zapowiedzi
     summary: 'Krwawe protesty robotnicze na polskim Wybrzeżu w grudniu 1970 roku, wywołane drastyczną podwyżką cen żywności. Wojsko i milicja otworzyły ogień do strajkujących. Zginęło co najmniej 45 osób.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pomnik%20Poleg%C5%82ych%20Stoczniowc%C3%B3w%20Gda%C5%84sk.jpg?width=800',
     imageCaption: 'Pomnik Poległych Stoczniowców 1970 w Gdańsku.',
-    content: `14 grudnia 1970 roku, po ogłoszeniu przez rząd drastycznych podwyżek cen żywności tuż przed Świętami Bożego Narodzenia, wybuchły protesty w Gdańsku, Gdyni, Szczecinie i Elblągu.
+    content: `## Tło
+Na kilka dni przed świętami Bożego Narodzenia, 12 grudnia 1970 roku, władze ogłosiły drastyczne podwyżki cen żywności. Decyzja uderzyła w domowe budżety w najgorszym momencie i wywołała wybuch gniewu na Wybrzeżu.
 
-**Przebieg:**
-- Robotnicy Stoczni Gdańskiej wyszli na ulice
-- Podpalono siedzibę Komitetu Wojewódzkiego PZPR w Gdańsku
-- 15–16 grudnia: wojsko i milicja otworzyły ogień na Wybrzeżu
-- Szczególnie tragiczny był poranek 17 grudnia w Gdyni – żołnierze strzelali do wychodzących z pracy robotników przed stocznią
+## Wybuch
+13 grudnia strajki i demonstracje rozpoczęły się w Gdańsku, skąd rozlały się na Gdynię, Szczecin i Elbląg. Podpalano gmachy komitetów partii, dochodziło do starć z milicją i wojskiem.
 
-**Ofiary:**
-Co najmniej **45 zabitych**, ponad 1 000 rannych, tysiące aresztowanych.
+## Czarny czwartek
+17 grudnia w Gdyni wojsko otworzyło ogień do robotników idących rano do pracy. Symbolem masakry stał się niesiony na drzwiach Zbyszek Godlewski, upamiętniony w „Balladzie o Janku Wiśniewskim”.
 
-**Konsekwencje polityczne:**
-Gomułka ustąpił ze stanowiska I sekretarza KC PZPR. Władzę przejął Edward Gierek obiecując "pomożecie?" – nowy kurs na konsumpcję i pożyczki zachodnie.
+## Pacyfikacja
+Do tłumienia protestów skierowano tysiące żołnierzy, czołgi i transportery opancerzone. Strzelano do demonstrantów i przypadkowych przechodniów; miasta Wybrzeża sparaliżował terror.
 
-Przez lata władze ukrywały skalę represji. Ciała ofiar chowano potajemnie, rodzinom nie wydawano zwłok.`,
+## Zmiana władzy
+Krwawe stłumienie protestów skompromitowało ekipę Władysława Gomułki. 20 grudnia zastąpił go Edward Gierek, który obietnicami („Pomożecie?”) próbował uspokoić nastroje.
+
+## Ofiary i pamięć
+Zginęło co najmniej 45 osób, ponad tysiąc odniosło rany. Pamięć o ofiarach uczczono dopiero w 1980 roku, wznosząc przy Stoczni Gdańskiej Pomnik Poległych Stoczniowców – jeden z pierwszych takich pomników w bloku wschodnim.`,
     resources: [
       {
         id: 'gr70-1',
@@ -732,22 +735,25 @@ Robotnicy Nowej Huty aktywnie uczestniczyli w strajkach 1980 roku i strukturach 
     yearStart: 1905,
     yearEnd: 1982,
     summary: 'Władysław Gomułka – komunistyczny polityk, I sekretarz KC PZPR w latach 1956–1970. Symbol "odwilży" po epoce stalinowskiej, a zarazem człowiek odpowiedzialny za masakrę robotników w Grudniu 1970 i antysemicką kampanię Marca 1968.',
-    content: `Władysław Gomułka (ur. 6 lutego 1905 – zm. 1 września 1982) był jednym z czołowych działaczy komunistycznych w Polsce.
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wladyslaw%20Gomulka%201967.jpg?width=800',
+    imageCaption: 'Władysław Gomułka, I sekretarz KC PZPR w latach 1956–1970.',
+    content: `## Sylwetka
+Władysław Gomułka „Wiesław” (1905–1982) był komunistycznym politykiem, I sekretarzem KC PZPR w latach 1956–1970 – postacią dwóch odsłon: nadziei odwilży i schyłkowego usztywnienia.
 
-**Przed 1956 rokiem:**
-W latach 1943–1948 I sekretarz PPR. Aresztowany w 1951 roku jako "odchyleniowiec prawicowo-nacjonalistyczny" – zarzucano mu zbyt małe podporządkowanie Stalinowi. Zwolniony po śmierci Stalina.
+## Odsunięcie i powrót
+Oskarżony o „odchylenie prawicowo-nacjonalistyczne”, w okresie stalinizmu został usunięty z partii i uwięziony. Do władzy wrócił w październiku 1956 roku, na fali odwilży, witany z entuzjazmem.
 
-**Październik 1956:**
-Po Poznańskim Czerwcu i destalinizacji Chruszczowa Gomułka wrócił do władzy jako symbol "polskiej drogi do socjalizmu". Entuzjastycznie witany przez społeczeństwo. Ograniczył kolektywizację rolnictwa, złagodził stosunki z Kościołem i uwolnił prymasa Wyszyńskiego.
+## „Polska droga do socjalizmu”
+Początkowo złagodził represje, zatrzymał kolektywizację i unormował stosunki z Kościołem. Nadzieje na trwałą liberalizację szybko jednak zgasły.
 
-**Marzec 1968:**
-Tolerował – a wg części historyków inspirował – antysemicką kampanię po studenckich protestach. Około 13 000 Polaków żydowskiego pochodzenia zmuszono do emigracji.
+## Mała stabilizacja
+Lata 60. to „mała stabilizacja” – szara, skromna codzienność, narastający konflikt z Kościołem (Milenium 1966) i polityczne usztywnienie.
 
-**Grudzień 1970:**
-Wydał rozkaz użycia siły wobec strajkujących robotników na Wybrzeżu. Co najmniej 45 osób zginęło od kul milicji i wojska. Gomułka ustąpił ze stanowiska kilka dni po masakrze.
+## Upadek
+Rządy Gomułki zakończyła krwawa masakra Grudnia 1970 na Wybrzeżu. Skompromitowany, ustąpił miejsca Edwardowi Gierkowi.
 
-**Ocena historyczna:**
-Postać kontrowersyjna – architekt względnej liberalizacji po stalinizmie, ale też odpowiedzialny za represje Marca 1968 i Grudnia 1970.`,
+## Ocena
+Gomułka pozostaje symbolem zmarnowanych nadziei 1956 roku – polityka, który od reformatora przeszedł do roli twardego, oderwanego od społeczeństwa przywódcy.`,
     resources: [
       {
         id: 'gom-1',
@@ -1020,25 +1026,23 @@ Bierut uczestniczył w XX Zjeździe KPZR, gdzie Chruszczow wygłosił tajny refe
     yearStart: 1976,
     yearEnd: 1981,
     summary: 'KOR – Komitet Obrony Robotników założony w 1976 roku przez intelektualistów w obronie represjonowanych robotników z Radomia i Ursusa. Pierwsza jawna, zorganizowana opozycja w PRL, prekursor "Solidarności".',
-    content: `Komitet Obrony Robotników powstał 23 września 1976 roku jako odpowiedź na brutalne represje wobec uczestników protestów z Radomia i Ursusa (Czerwiec 1976).
+    content: `## Geneza
+Komitet Obrony Robotników powstał we wrześniu 1976 roku, po brutalnych represjach wobec uczestników protestów Czerwca 1976 w Radomiu i Ursusie.
 
-**Założyciele:**
-Wśród 14 założycieli znaleźli się: Jacek Kuroń, Antoni Macierewicz, Piotr Naimski, Jan Józef Lipski, Edward Lipiński, Aniela Steinsbergowa i inni.
+## Pomoc represjonowanym
+KOR organizował pomoc prawną, finansową i medyczną dla pobitych, zwalnianych z pracy i skazanych robotników oraz ich rodzin – konkretne, namacalne wsparcie.
 
-**Cele i metody:**
-- Jawna, legalna działalność (w odróżnieniu od konspiracyjnych metod z lat wcześniejszych)
-- Obrona prawna i materialna represjonowanych robotników
-- Dokumentowanie i ujawnianie naruszeń praw człowieka
-- Wydawanie biuletynu "Komunikat KOR" i biura porad prawnych
+## Jawność jako metoda
+Działacze występowali pod własnymi nazwiskami, podając adresy i telefony. Ta odwaga łamała strach i odróżniała KOR od dawnej konspiracji.
 
-**Znaczenie:**
-KOR przełamał barierę między inteligencją a robotnikami. Jacek Kuroń pisał: "Nie pal komitetów, zakładaj własne". Model jawnej opozycji KOR był wzorem dla całego środowiska demokratycznego.
+## Ludzie
+W KOR działali m.in. Jacek Kuroń, Antoni Macierewicz, Adam Michnik, Jan Józef Lipski, Jan Lityński, Zbigniew i Zofia Romaszewscy oraz pisarz Jerzy Andrzejewski i ks. Jan Zieja.
 
-**Przekształcenie:**
-W 1977 roku KOR przekształcił się w Komitet Samoobrony Społecznej "KOR" (KSS-KOR) rozszerzając zakres działań. W 1981 roku, po legalizacji Solidarności, KOR rozwiązał się – uznał, że cel został osiągnięty.
+## Drugi obieg i przekształcenie
+KOR rozwinął niezależny obieg wydawniczy („Biuletyn Informacyjny”, „Robotnik”) i przekształcił się w KSS „KOR”, budując sieć kontaktów w środowiskach robotniczych.
 
-**Wpływ na Solidarność:**
-Wielu działaczy KOR weszło do struktur doradczych NSZZ "Solidarność" (Kuroń, Michnik, Geremek).`,
+## Znaczenie
+KOR stworzył intelektualne i organizacyjne zaplecze, na którym w 1980 roku wyrosła Solidarność – pomost między inteligencją a robotnikami.`,
     resources: [
       {
         id: 'kor-1',
@@ -1077,23 +1081,32 @@ Wielu działaczy KOR weszło do struktur doradczych NSZZ "Solidarność" (Kuroń
     yearStart: 1968,
     yearEnd: 1968,
     summary: 'Marzec 1968 – fala studenckich protestów wywołana zakazem wystawiania "Dziadów" Mickiewicza, stłumiona przez władze. Towarzyszyła jej wewnątrzpartyjna kampania antysemicka, która zmusiła około 13 000 Polaków żydowskiego pochodzenia do emigracji.',
-    content: `Bezpośrednią przyczyną protestów było zdjęcie z afisza spektaklu "Dziady" Adama Mickiewicza w reżyserii Kazimierza Dejmka w Teatrze Narodowym w Warszawie. Spektakl przyciągał tłumy z powodu antysowieckich skojarzeń.
+    content: `## Iskra
+Bezpośrednim powodem wybuchu było zdjęcie ze sceny Teatru Narodowego „Dziadów” Adama Mickiewicza w reżyserii Kazimierza Dejmka oraz relegowanie z uczelni Adama Michnika i Henryka Szlajfera.
 
-**Przebieg protestów:**
-- 30 stycznia 1968: ostatnie przedstawienie "Dziadów", owacje i demonstracja przed teatrem
-- 8 marca 1968: wiec na dziedzińcu Uniwersytetu Warszawskiego – atak bojówek "aktywu robotniczego" (ochotnicy podstawieni przez SB)
-- Marzec 1968: fala strajków i demonstracji na uczelniach w całej Polsce
-- Władze użyły ZOMO i "aktywu", aresztowały setki studentów
+## Protesty studenckie
+8 marca 1968 roku na Uniwersytecie Warszawskim odbył się wiec w obronie swobód obywatelskich. Został brutalnie spacyfikowany przez milicję i „aktyw robotniczy”. Protesty rozlały się na uczelnie w całym kraju.
 
-**Kampania antysemicka:**
-Frakcja "partyzantów" w PZPR (gen. Mieczysław Moczar) wykorzystała Marzec do kampanii skierowanej przeciwko Polakom żydowskiego pochodzenia:
-- Czystki w wojsku, partii, mediach i na uczelniach
-- Około **13 000 osób** zmuszono do emigracji (oficjalnie: "wyjazdów do Izraela")
-- Wyjeżdżających pozbawiano obywatelstwa polskiego
+## Represje
+Władze odpowiedziały pałowaniem, aresztowaniami, relegowaniem studentów i wcielaniem „buntowników” do wojska. Pokazowe procesy i wyroki miały zastraszyć młodzież.
 
-**Ofiary i represje:**
-Setki studentów aresztowanych, relegowanych z uczelni, powołanych do wojska. Wielu czołowych intelektualistów wyemigrowało (Kołakowski, Bauman).`,
+## Kampania antysemicka
+Wykorzystując wewnętrzne rozgrywki (frakcja „partyzantów” Mieczysława Moczara), władza rozpętała haniebną kampanię „antysyjonistyczną”, obarczając Żydów odpowiedzialnością za niepokoje.
+
+## Emigracja
+W wyniku nagonki z Polski wyjechało około 13–15 tysięcy obywateli pochodzenia żydowskiego – często wybitnych naukowców i twórców – pozbawionych obywatelstwa i zmuszonych do emigracji.
+
+## Znaczenie
+Marzec 1968 to trauma polskiej inteligencji i kompromitacja władzy. Ukształtował „pokolenie '68”, z którego wywodzili się późniejsi działacze opozycji i KOR.`,
     resources: [
+      {
+        id: 'marzec-yt',
+        title: 'Marzec 1968 – film dokumentalny',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=sVt_N2cBcbk',
+        source: 'YouTube',
+        description: 'Dokumentalna analiza wydarzeń i tła Marca 1968.',
+      },
       {
         id: 'mar68-1',
         title: 'Marzec 1968 – portal tematyczny IPN',
@@ -1134,21 +1147,23 @@ Setki studentów aresztowanych, relegowanych z uczelni, powołanych do wojska. W
     yearStart: 1976,
     yearEnd: 1976,
     summary: 'Robotnicze protesty w Radomiu i Ursusie z 25 czerwca 1976 roku, wywołane ogłoszeniem drastycznych podwyżek cen żywności. Stłumione przez władze z użyciem brutalnych represji, w tym słynnych "ścieżek zdrowia".',
-    content: `25 czerwca 1976 roku premier Piotr Jaroszewicz ogłosił w Sejmie drastyczne podwyżki cen żywności – mięso miało podrożeć o 69%, cukier o 100%. Kraj ogarnęła fala spontanicznych protestów.
+    content: `## Tło
+24 czerwca 1976 roku premier Piotr Jaroszewicz ogłosił drastyczne podwyżki cen żywności – w niektórych przypadkach o kilkadziesiąt procent. Następnego dnia wybuchły protesty.
 
-**Przebieg wydarzeń:**
-- Radom: robotnicy Zakładów Metalowych "Walter" i innych zakładów wyszli na ulice. Podpalono siedzibę Komitetu Wojewódzkiego PZPR
-- Ursus: robotnicy Zakładów Mechanicznych rozkręcili tory kolejowe, blokując ruch
-- Wycofanie podwyżek w ciągu 24 godzin
+## Protesty
+Strajki i demonstracje objęły przede wszystkim Radom, Ursus pod Warszawą i Płock. W Radomiu doszło do walk ulicznych i podpalenia komitetu partii; w Ursusie robotnicy zablokowali tory kolejowe.
 
-**Represje – "ścieżki zdrowia":**
-Po stłumieniu protestów milicja organizowała tzw. "ścieżki zdrowia" – aresztowanych bito pałkami między szeregami funkcjonariuszy. Tysiące osób aresztowano, setki skazano na więzienie.
+## Represje
+Po stłumieniu protestów nastąpiły brutalne represje: bicie zatrzymanych w słynnych „ścieżkach zdrowia”, masowe zwolnienia z pracy, pokazowe procesy i wyroki więzienia.
 
-**Narodziny KOR:**
-Represje wywołały bezprecedensową reakcję środowisk intelektualnych. We wrześniu 1976 roku powstał Komitet Obrony Robotników (KOR) – pierwsza jawna opozycja demokratyczna w PRL.
+## Wycofanie podwyżek
+Pod presją protestów władze jeszcze tego samego dnia wycofały podwyżki – co było rzadkim przyznaniem się do porażki, lecz nie powstrzymało represji.
 
-**Znaczenie historyczne:**
-Czerwiec 1976 był bezpośrednim impulsem do powstania KOR i pośrednio – do narodzin Solidarności cztery lata później.`,
+## Powstanie KOR
+Pomoc dla represjonowanych robotników stała się impulsem do powstania Komitetu Obrony Robotników (wrzesień 1976) – przełomu w organizowaniu jawnej opozycji.
+
+## Znaczenie
+Czerwiec 1976 połączył bunt robotniczy ze wsparciem inteligencji, budując fundament pod przyszłą Solidarność.`,
     resources: [
       {
         id: 'cz76-1',
@@ -1181,24 +1196,25 @@ Czerwiec 1976 był bezpośrednim impulsem do powstania KOR i pośrednio – do n
     yearStart: 1947,
     yearEnd: 1984,
     summary: 'Ks. Jerzy Popiełuszko – kapłan katolicki i kapelan "Solidarności", zamordowany 19 października 1984 roku przez funkcjonariuszy Służby Bezpieczeństwa. Jego "Msze za Ojczyznę" gromadziły dziesiątki tysięcy wiernych.',
-    content: `Jerzy Alfons Popiełuszko (ur. 14 września 1947 – zm. 19 października 1984) był wikariuszem parafii św. Stanisława Kostki na Żoliborzu w Warszawie.
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jerzy%20Popieluszko%20Funeral%20-%2061.jpg?width=800',
+    imageCaption: 'Pogrzeb ks. Jerzego Popiełuszki, 3 listopada 1984 – wielka manifestacja.',
+    content: `## Sylwetka
+Ksiądz Jerzy Popiełuszko (1947–1984) był kapłanem warszawskiej parafii św. Stanisława Kostki, który stał się duchowym przewodnikiem Solidarności.
 
-**Msze za Ojczyznę:**
-Od 1982 roku odprawiał comiesięczne "Msze za Ojczyznę" w kościele na Żoliborzu. Przyciągały dziesiątki tysięcy wiernych – robotników, inteligentów, członków Solidarności. Kazania ks. Jerzego były świadectwem chrześcijańskiego oporu wobec totalitaryzmu.
+## Msze za Ojczyznę
+Odprawiane przez niego Msze za Ojczyznę gromadziły tłumy wiernych z całej Polski. Jego kazania – odważne, lecz wzywające do „zwyciężania zła dobrem” – dawały nadzieję w mrocznym okresie stanu wojennego.
 
-**Inwigilacja i prześladowania:**
-SB intensywnie go inwigilowała – operacja "Popiel". Był wielokrotnie wzywany na przesłuchania, grożono mu. W 1984 roku wytoczono mu proces karny.
+## Inwigilacja i nagonka
+Kapłan był inwigilowany, nękany i atakowany przez propagandę oraz Służbę Bezpieczeństwa, która widziała w nim groźnego przeciwnika.
 
-**Porwanie i mord:**
-19 października 1984 roku, wracając z Bydgoszczy, ks. Popiełuszko został uprowadzony przez trzech funkcjonariuszy SB: Grzegorza Piotrowskiego, Waldemara Chmielewskiego i Leszka Pękalę. Skatowany, z ciężarkami u nóg, wrzucony do Zalewu Włocławskiego.
+## Męczeństwo
+19 października 1984 roku został uprowadzony i bestialsko zamordowany przez funkcjonariuszy SB. Jego ciało wydobyto z Wisły pod Włocławkiem.
 
-Ciało odnaleziono 30 października 1984 roku.
+## Pogrzeb
+Pogrzeb 3 listopada 1984 roku przerodził się w wielką, milczącą manifestację – uczestniczyły w niej setki tysięcy ludzi, a grób przy kościele stał się miejscem pielgrzymek.
 
-**Reakcja społeczna:**
-Pogrzeb 3 listopada 1984 roku zgromadził szacunkowo 250 000–400 000 ludzi. Sprawcy zostali skazani – kary od 14 do 25 lat więzienia.
-
-**Beatyfikacja:**
-6 czerwca 2010 roku papież Benedykt XVI beatyfikował ks. Jerzego Popiełuszkę w Warszawie.`,
+## Pamięć
+Proces zabójców (proces toruński) był bezprecedensowy, choć nie objął mocodawców. W 2010 roku ks. Popiełuszko został beatyfikowany jako męczennik.`,
     resources: [
       {
         id: 'pop-1',
@@ -1239,6 +1255,8 @@ Pogrzeb 3 listopada 1984 roku zgromadził szacunkowo 250 000–400 000 ludzi. Sp
     yearStart: 1981,
     yearEnd: 1981,
     summary: 'Pacyfikacja Kopalni Węgla Kamiennego "Wujek" w Katowicach – 16 grudnia 1981 roku oddziały ZOMO i wojsko otworzyły ogień do strajkujących górników. Zginęło 9 osób, 23 zostały ranne. Najtragiczniejsza ze zbrodni stanu wojennego.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Katowice%20kopalnia%20Wujek%207.jpg?width=800',
+    imageCaption: 'Kopalnia Wujek w Katowicach – miejsce pacyfikacji z 16 grudnia 1981 roku.',
     content: `KWK "Wujek" w Katowicach stała się symbolem zbrodni stanu wojennego.
 
 **Strajk:**
@@ -2311,19 +2329,25 @@ Po 1989 roku wielu przedstawicieli nomenklatury sprawnie dokonało transformacji
     yearStart: 1940,
     yearEnd: 1990,
     summary: 'Wiosną 1940 roku NKWD zamordowało blisko 22 000 polskich oficerów, policjantów i przedstawicieli inteligencji. Przez całe 45 lat PRL władze komunistyczne ukrywały prawdę i zrzucały winę na Niemców. Prawda oficjalnie wyszła na jaw dopiero w 1990 roku.',
-    content: `Zbrodnia katyńska – jedno z największych morderstw na polskich elitach w XX wieku. Na mocy rozkazu Stalina i decyzji Politbiura KC WKP(b) z 5 marca 1940 roku NKWD rozstrzelało około 21 768 obywateli polskich wziętych do sowieckiej niewoli po 17 września 1939 roku.
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pomnik%20katynski1.JPG?width=800',
+    imageCaption: 'Pomnik ofiar zbrodni katyńskiej.',
+    content: `## Zbrodnia
+Wiosną 1940 roku NKWD, na mocy decyzji najwyższych władz ZSRR, wymordowało blisko 22 tysiące polskich oficerów, policjantów i przedstawicieli elit wziętych do niewoli w 1939 roku. Egzekucje wykonano m.in. w Katyniu, Charkowie i Twerze (Miednoje).
 
-**Ofiary:**
-Zamordowani to przede wszystkim oficerowie wojska polskiego, policjanci, żandarmi, ziemianie, urzędnicy i inteligencja – elita II Rzeczypospolitej. Egzekucje przeprowadzono w Katyniu (koło Smoleńska), Charkowie, Kalininie (Twerze) oraz w obozach na Ukrainie.
+## Odkrycie
+Masowe groby w Katyniu ujawnili w 1943 roku Niemcy. ZSRR zaprzeczył i zerwał stosunki z rządem polskim w Londynie, gdy ten zażądał śledztwa Międzynarodowego Czerwonego Krzyża.
 
-**Odkrycie przez Niemców (1943):**
-W kwietniu 1943 roku niemieccy żołnierze odkryli masowe groby w Lesie Katyńskim koło Smoleńska. Niemcy ogłosili zbrodnię sowieckiego NKWD. ZSRR zaprzeczył i oskarżył Niemcy. Rząd Sikorskiego zażądał śledztwa Międzynarodowego Czerwonego Krzyża – Stalin zerwał stosunki z polskim rządem na uchodźstwie.
+## Kłamstwo katyńskie
+Przez całą epokę PRL władze, za Moskwą, fałszywie obarczały odpowiedzialnością Niemców. „Kłamstwo katyńskie” było jednym z filarów oficjalnej propagandy, a prawda – surowo cenzurowana.
 
-**Kłamstwo katyńskie w PRL:**
-Przez całe istnienie PRL (1944–1989) komunistyczne władze podtrzymywały kłamstwo, że zbrodni dokonali Niemcy. Prawda była tematem tabu – za samo wspomnienie Katynia groziły represje. Pierwsze ostrożne sygnały zmiany pojawiły się za Gorbaczowa.
+## Temat zakazany
+Mówienie prawdy o Katyniu groziło represjami. Pamięć podtrzymywały rodziny ofiar, Kościół, emigracja i drugi obieg – mimo zacierania śladów i niszczenia tablic.
 
-**Uznanie prawdy:**
-13 kwietnia 1990 roku Michaił Gorbaczow oficjalnie przyznał, że NKWD dokonało mordu. Polska i Rosja przez lata prowadziły trudne śledztwa. Symbolicznym zamknięciem rozdziału miał być szczyt 10 kwietnia 2010 roku – katastrofa samolotu pod Smoleńskiem pochłonęła delegację polską lecącą na obchody 70. rocznicy zbrodni.`,
+## Przełom
+Dopiero w 1990 roku ZSRR oficjalnie przyznał, że zbrodni dokonało NKWD. Ujawniono część dokumentów, w tym decyzję z marca 1940 roku.
+
+## Pamięć
+Katyń stał się symbolem martyrologii Polaków pod okupacją sowiecką i zakłamania komunizmu. Upamiętniają go liczne pomniki oraz Dzień Pamięci Ofiar Zbrodni Katyńskiej.`,
     resources: [
       {
         id: 'katyn-1',
