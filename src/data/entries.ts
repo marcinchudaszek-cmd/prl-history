@@ -20026,6 +20026,281 @@ Telefon w PRL ilustruje skalę niedoboru i kontroli – nawet podstawowa łączn
     ],
     relatedIds: ['zycie-codzienne', 'mieszkania-prl', 'kolejki-prl'],
   },
+  {
+    id: 'dwa-plus-jeden',
+    title: '2 plus 1',
+    subtitle: 'Folk-rockowe trio i „Chodź, pomaluj mój świat”',
+    category: 'kultura',
+    tags: ['muzyka', 'folk-rock', 'pop', 'lata 70.'],
+    yearStart: 1971,
+    yearEnd: 1989,
+    summary: 'Popularne trio folk-rockowe (Janusz Kruk, Elżbieta Dmoch, Andrzej Krzysztofik), autor przebojów „Chodź, pomaluj mój świat” i „Windą do nieba”.',
+    content: `## Powstanie
+Zespół 2 plus 1 (Dwa plus Jeden) powstał w 1971 roku. Jego trzon stanowili Janusz Kruk i Elżbieta Dmoch, początkowo w towarzystwie Andrzeja Krzysztofika.
+
+## Brzmienie
+Grupa łączyła folk i rock z melodyjnym popem oraz pięknymi wokalnymi harmoniami, tworząc łagodne, rozpoznawalne brzmienie.
+
+## Przeboje
+Do największych hitów należą „Chodź, pomaluj mój świat”, „Windą do nieba”, „Wyspa dzieci” i „Iść w stronę słońca”.
+
+## Kruk i Dmoch
+Janusz Kruk i Elżbieta Dmoch tworzyli duet twórczy, a także małżeństwo; ich głosy określiły charakter zespołu.
+
+## Popularność
+Grupa należała do czołówki polskiej estrady lat 70. i 80., regularnie obecna na festiwalach i listach przebojów.
+
+## Znaczenie
+2 plus 1 to klasyk melodyjnego polskiego popu; jego przeboje pozostają do dziś rozpoznawalne i lubiane.`,
+    trivia: ['Trzon zespołu tworzyli Elżbieta Dmoch i Janusz Kruk – para także prywatnie.', '„Chodź, pomaluj mój świat” to jeden z najpopularniejszych polskich przebojów wszech czasów.'],
+    resources: [
+      {
+        id: '2p1-yt',
+        title: '2 plus 1 – „Chodź, pomaluj mój świat”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=3hYjSsmmzJs',
+        source: 'YouTube',
+        description: 'Najsłynniejszy przebój zespołu.',
+      },
+      {
+        id: '2p1-1',
+        title: '2 plus 1 – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=2+plus+1+Dmoch+Kruk+koncert',
+        source: 'YouTube',
+        description: 'Występy i teledyski zespołu.',
+      },
+      {
+        id: '2p1-2',
+        title: '2 plus 1 – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=2%20plus%201%20zesp%C3%B3%C5%82&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o zespole.',
+      },
+    ],
+    relatedIds: ['festiwal-opole', 'kultura-prl', 'lista-przebojow-trojki'],
+  },
+  {
+    id: 'trubadurzy',
+    title: 'Trubadurzy',
+    subtitle: 'Filar big-beatu lat 60.',
+    category: 'kultura',
+    tags: ['muzyka', 'big-beat', 'pop', 'lata 60.'],
+    yearStart: 1963,
+    yearEnd: 1989,
+    summary: 'Jeden z czołowych zespołów big-beatowych lat 60., autor przebojów „Cóż wiemy o miłości” i „Krajobrazy”; w jego szeregach zaczynał Krzysztof Krawczyk.',
+    content: `## Powstanie
+Trubadurzy powstali w 1963 roku w Łodzi i szybko stali się jednym z czołowych zespołów polskiego big-beatu.
+
+## Brzmienie
+Grupa grała melodyjny big-beat i nastrojowe ballady, z wyrazistymi wokalami i chwytliwymi refrenami.
+
+## Przeboje
+Do najsłynniejszych utworów należą „Cóż wiemy o miłości”, „Krajobrazy”, „Kasztany” i „Znamy się tylko z widzenia”.
+
+## Krzysztof Krawczyk
+W Trubadurach rozpoczynał karierę Krzysztof Krawczyk, zanim zyskał sławę jako jeden z najpopularniejszych polskich wokalistów.
+
+## Popularność
+Zespół triumfował na festiwalach w Opolu i gromadził masową publiczność przez całe lata 60.
+
+## Znaczenie
+Trubadurzy to klasyk polskiego big-beatu, którego przeboje pozostają częścią kanonu rodzimej muzyki rozrywkowej.`,
+    trivia: ['W Trubadurach zaczynał karierę Krzysztof Krawczyk.', 'Zespół był jednym z filarów big-beatu lat 60.'],
+    resources: [
+      {
+        id: 'tru-yt',
+        title: 'Trubadurzy – „Cóż wiemy o miłości”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Q7rZSyUaqjg',
+        source: 'YouTube',
+        description: 'Klasyczny przebój zespołu (1969).',
+      },
+      {
+        id: 'tru-1',
+        title: 'Trubadurzy – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Trubadurzy+Krajobrazy+big+beat',
+        source: 'YouTube',
+        description: 'Występy i teledyski zespołu.',
+      },
+      {
+        id: 'tru-2',
+        title: 'Trubadurzy – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Trubadurzy%20zesp%C3%B3%C5%82&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o zespole.',
+      },
+    ],
+    relatedIds: ['big-beat-prl', 'festiwal-opole', 'czerwone-gitary'],
+  },
+  {
+    id: 'sosnicka-zdzislawa',
+    title: 'Zdzisława Sośnicka',
+    subtitle: 'Mocny głos polskiej estrady',
+    category: 'osoby',
+    tags: ['kultura', 'muzyka', 'estrada', 'kobiety'],
+    yearStart: 1963,
+    yearEnd: 1989,
+    summary: 'Jedna z najwybitniejszych polskich wokalistek, o mocnym, charakterystycznym głosie, autorka przebojów „Aleja gwiazd” i „Julia i ja”.',
+    content: `## Sylwetka
+Zdzisława Sośnicka (ur. 1945) to jedna z najwybitniejszych polskich wokalistek, obdarzona mocnym, charakterystycznym głosem o szerokiej skali.
+
+## Kariera
+Karierę rozwijała od lat 60., zdobywając popularność na estradzie i festiwalach jako jedna z najbardziej cenionych śpiewaczek rozrywkowych.
+
+## Przeboje
+Do najsłynniejszych utworów należą „Aleja gwiazd”, „Julia i ja”, „Dom, który mam” i „Bądź gotowy dziś do drogi”.
+
+## Współpraca
+Śpiewała utwory wybitnych kompozytorów, m.in. Romualda Lipki z Budki Suflera, który skomponował „Aleję gwiazd”.
+
+## Pozycja
+Przez dekady pozostawała czołową gwiazdą estrady, cenioną za wokalną siłę i muzykalność.
+
+## Znaczenie
+Sośnicka to jedna z najlepszych polskich wokalistek; jej przeboje na trwałe weszły do kanonu rodzimej piosenki.`,
+    trivia: ['„Aleję gwiazd” skomponował Romuald Lipko z Budki Suflera.', 'Słynęła z mocnego, charakterystycznego głosu o szerokiej skali.'],
+    resources: [
+      {
+        id: 'zs-yt',
+        title: 'Zdzisława Sośnicka – „Aleja gwiazd” (1987)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Ziqujo1O7rw',
+        source: 'YouTube',
+        description: 'Jeden z najsłynniejszych przebojów artystki.',
+      },
+      {
+        id: 'zs-1',
+        title: 'Zdzisława Sośnicka – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Zdzis%C5%82awa+So%C5%9Bnicka+Julia+i+ja+koncert',
+        source: 'YouTube',
+        description: 'Wykonania i materiały archiwalne.',
+      },
+      {
+        id: 'zs-2',
+        title: 'Zdzisława Sośnicka – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Zdzis%C5%82awa%20So%C5%9Bnicka&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania o artystce.',
+      },
+    ],
+    relatedIds: ['festiwal-opole', 'budka-suflera', 'maryla-rodowicz'],
+  },
+  {
+    id: 'wczasy-nad-morzem',
+    title: 'Wczasy nad morzem',
+    subtitle: 'Bałtyk, FWP i smażalnia ryb',
+    category: 'społeczeństwo',
+    tags: ['życie codzienne', 'turystyka', 'rekreacja', 'wakacje'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Masowy letni wypoczynek nad Bałtykiem – ośrodki FWP, dancingi i smażalnie ryb – jedno z głównych marzeń wakacyjnych Polaków.',
+    content: `## Wakacje PRL
+Wypoczynek nad Bałtykiem był marzeniem milionów Polaków. Tłoczono się w nadmorskich kurortach – Mielnie, Władysławowie, Łebie, Międzyzdrojach i Kołobrzegu.
+
+## FWP i zakłady
+Na wczasy jeździło się głównie ze skierowaniem z Funduszu Wczasów Pracowniczych lub przez zakład pracy; miejsca były reglamentowane i rozchwytywane.
+
+## Realia
+Ośrodki oferowały skromne, często wieloosobowe pokoje i stołówkowe wyżywienie. Towarzyszyły im kolejki, niedobory i walka o leżak na plaży.
+
+## Atrakcje
+Klimat tworzyły plaża, dancing, smażalnia ryb, oranżada, gofry i lody. Popularne były też „wczasy pod gruszą” – wypoczynek na własną rękę.
+
+## Kemping
+Tańszą alternatywą były pola namiotowe i kempingi, oblegane przez rodziny i młodzież.
+
+## Znaczenie
+Wczasy nad morzem to symbol PRL-owskiej rekreacji – skromnej, lecz wyczekiwanej odskoczni od codzienności.`,
+    trivia: ['Popularne były „wczasy pod gruszą” – wypoczynek na własną rękę z dofinansowaniem zakładu pracy.', 'Skierowania na wczasy FWP rozdzielał zakład pracy lub związek zawodowy.'],
+    resources: [
+      {
+        id: 'wnm-yt',
+        title: 'Wczasy nad morzem PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=wczasy+nad+morzem+PRL+Ba%C5%82tyk+FWP',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o wypoczynku.',
+      },
+      {
+        id: 'wnm-wk',
+        title: 'Fundusz Wczasów Pracowniczych – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Fundusz%20Wczas%C3%B3w%20Pracowniczych%20wczasy%20PRL&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania.',
+      },
+      {
+        id: 'wnm-2',
+        title: 'Lato i plaża w PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=pla%C5%BCa+PRL+lato+kurort+Ba%C5%82tyk',
+        source: 'YouTube',
+        description: 'Materiały o wakacjach epoki.',
+      },
+    ],
+    relatedIds: ['wczasy-fwp', 'turystyka-prl', 'zycie-codzienne'],
+  },
+  {
+    id: 'kiosk-ruch',
+    title: 'Kiosk „Ruch”',
+    subtitle: 'Prasa, papierosy i drobiazgi spod lady',
+    category: 'społeczeństwo',
+    tags: ['życie codzienne', 'handel', 'prasa', 'codzienność'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Wszechobecne kioski przedsiębiorstwa „Ruch” – po prasę, papierosy, bilety i drobiazgi; deficytowe towary znikały „spod lady”.',
+    content: `## Kioski Ruchu
+Kioski przedsiębiorstwa „Ruch” były wszechobecne – w miastach i na wsiach, na przystankach i osiedlach. Stanowiły jeden z podstawowych punktów codziennych zakupów.
+
+## Asortyment
+Kupowało się tam prasę i czasopisma, papierosy, znaczki, bilety komunikacji, drobiazgi, zabawki, gumę do żucia i napoje.
+
+## Spod lady
+Najbardziej pożądane towary – atrakcyjne pisma, zagraniczne papierosy, deficytowe drobiazgi – „kiosková” trzymała często „spod lady” dla stałych klientów.
+
+## Bilety
+Kioski Ruchu były głównym miejscem sprzedaży biletów komunikacji miejskiej, które kasowało się dopiero w pojazdach.
+
+## Punkt osiedla
+Kiosk bywał nieformalnym centrum życia osiedla – miejscem spotkań, plotek i porannego rytuału zakupu gazety.
+
+## Znaczenie
+„Ruch” to ikona codzienności PRL – mała witryna wielkiego świata prasy i drobnych przyjemności w realiach niedoboru.`,
+    trivia: ['Atrakcyjne pisma i zagraniczne papierosy trzymano „spod lady” dla stałych klientów.', 'W kioskach Ruchu kupowało się bilety komunikacji miejskiej – kasowane dopiero w pojeździe.'],
+    resources: [
+      {
+        id: 'ruch-yt',
+        title: 'Kioski Ruchu PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=kiosk+Ruch+PRL+prasa+papierosy',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o kioskach.',
+      },
+      {
+        id: 'ruch-wk',
+        title: 'Ruch (przedsiębiorstwo) – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Ruch%20przedsi%C4%99biorstwo%20kolporta%C5%BC%20prasy&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania.',
+      },
+      {
+        id: 'ruch-2',
+        title: 'Handel i codzienność PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=handel+detaliczny+PRL+kiosk+sklep',
+        source: 'YouTube',
+        description: 'Materiały o handlu epoki.',
+      },
+    ],
+    relatedIds: ['zycie-codzienne', 'prasa-prl', 'pewex'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -20216,4 +20491,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1971, event: 'Startuje „Lato z Radiem” – kultowa wakacyjna audycja', category: 'kultura', entryId: 'lato-z-radiem' },
   { year: 1975, event: 'Premiera dobranocki „Miś Uszatek”', category: 'kultura', entryId: 'dobranocka' },
   { year: 1986, event: 'Boom domowych mikrokomputerów (ZX Spectrum, Atari, C64)', category: 'społeczeństwo', entryId: 'komputery-domowe' },
+  { year: 1968, event: 'Trubadurzy – przebój „Cóż wiemy o miłości”', category: 'kultura', entryId: 'trubadurzy' },
+  { year: 1972, event: '2 plus 1 – przebój „Chodź, pomaluj mój świat”', category: 'kultura', entryId: 'dwa-plus-jeden' },
+  { year: 1987, event: 'Zdzisława Sośnicka – przebój „Aleja gwiazd”', category: 'kultura', entryId: 'sosnicka-zdzislawa' },
 ];
