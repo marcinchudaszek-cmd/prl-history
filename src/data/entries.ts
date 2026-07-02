@@ -21185,6 +21185,227 @@ To legenda polskiej sceny punk/hardcore, aktywna do dziś, inspiracja dla kolejn
     ],
     relatedIds: ['jarocin-festiwal', 'tsa-zespol', 'kult-zespol'],
   },
+  {
+    id: 'krzyzacy',
+    title: 'Krzyżacy',
+    subtitle: 'Superprodukcja Forda i bitwa pod Grunwaldem',
+    category: 'kultura',
+    tags: ['film', 'kino', 'historia', 'ekranizacja'],
+    yearStart: 1960,
+    summary: 'Historyczna superprodukcja Aleksandra Forda (1960) wg powieści Sienkiewicza; z rekordową w dziejach polskiego kina widownią i słynną sceną bitwy pod Grunwaldem.',
+    content: `## Film
+„Krzyżacy” (1960) w reżyserii Aleksandra Forda to pierwsza polska barwna superprodukcja historyczna, ekranizacja powieści Henryka Sienkiewicza.
+
+## Fabuła
+Akcja rozgrywa się na przełomie XIV i XV wieku; losy Zbyszka z Bogdańca i Danusi splatają się z konfliktem Królestwa Polskiego z zakonem krzyżackim.
+
+## Bitwa pod Grunwaldem
+Kulminacją jest widowiskowa, rozmachem imponująca scena bitwy pod Grunwaldem z 1410 roku – jedna z najsłynniejszych sekwencji polskiego kina.
+
+## Rekord widowni
+Film obejrzało kilkadziesiąt milionów widzów – to najczęściej oglądany polski film w historii rodzimej kinematografii.
+
+## Kontekst
+Premiera w 1960 zbiegła się z obchodami 550. rocznicy bitwy i milenijną atmosferą podkreślania polskiej państwowości.
+
+## Znaczenie
+„Krzyżacy” to kanon polskiego kina historycznego i szkolna lektura ekranowa kolejnych pokoleń.`,
+    trivia: ['To najczęściej oglądany polski film w historii – widownia liczona w dziesiątkach milionów.', 'Premiera w 1960 zbiegła się z 550. rocznicą bitwy pod Grunwaldem.'],
+    resources: [
+      {
+        id: 'kz-yt',
+        title: '„Krzyżacy” – bitwa pod Grunwaldem',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=IjLqsaysyIY',
+        source: 'YouTube',
+        description: 'Słynna scena batalistyczna z filmu.',
+      },
+      {
+        id: 'kz-1',
+        title: '„Krzyżacy” (1960) – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Krzy%C5%BCacy+1960+film+Ford+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'kz-2',
+        title: '„Krzyżacy” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Krzy%C5%BCacy%20film%201960%20Ford&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['sami-swoi', 'seksmisja-film', 'mis-film'],
+  },
+  {
+    id: 'zmiennicy',
+    title: 'Zmiennicy',
+    subtitle: 'Taksówkarska komedia Barei',
+    category: 'kultura',
+    tags: ['film', 'serial', 'komedia', 'satyra', 'telewizja'],
+    yearStart: 1986,
+    yearEnd: 1988,
+    summary: 'Komediowy serial Stanisława Barei (zrealizowany 1986, emisja 1987/88) o dwójce taksówkarzy na zmianę prowadzących tę samą taksówkę – kolejna satyra na PRL.',
+    content: `## Serial
+„Zmiennicy” w reżyserii Stanisława Barei (zrealizowany w 1986, emitowany 1987/88) opowiada o dwójce kierowców prowadzących na zmianę tę samą taksówkę.
+
+## Bohaterowie
+Jacek (Mieczysław Hryniewicz) i przebrana za mężczyznę Kasia (Ewa Błaszczyk) trafiają w wir absurdalnych perypetii.
+
+## Satyra
+Podobnie jak „Alternatywy 4”, serial to kopalnia obserwacji z życia schyłkowego PRL: kombinatorstwo, waluta, drobne cwaniactwo.
+
+## Cytaty
+Dialogi obfitują w kultowe teksty, wielokrotnie później przywoływane przez fanów „kina Barei”.
+
+## Realizacja
+Serial powstawał w trudnych warunkach połowy lat 80.; zdjęcia ukończono jesienią 1986.
+
+## Znaczenie
+„Zmiennicy” to jeden z ostatnich i najbardziej lubianych seriali Stanisława Barei.`,
+    trivia: ['Bohaterka Kasia przez większość serialu udaje mężczyznę – kierowcę taksówki.', 'To jeden z ostatnich seriali Stanisława Barei, mistrza satyry na PRL.'],
+    resources: [
+      {
+        id: 'zm-yt',
+        title: '„Zmiennicy” – o serialu (Barejanci)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Nud3rCcK2TU',
+        source: 'YouTube',
+        description: 'Omówienie i fragmenty serialu.',
+      },
+      {
+        id: 'zm-1',
+        title: '„Zmiennicy” – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Zmiennicy+Bareja+serial+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o serialu.',
+      },
+      {
+        id: 'zm-2',
+        title: '„Zmiennicy” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Zmiennicy%20serial%20Bareja&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o serialu.',
+      },
+    ],
+    relatedIds: ['alternatywy-4', 'bareja-kino', 'czterdziestolatek'],
+  },
+  {
+    id: 'urszula',
+    title: 'Urszula',
+    subtitle: '„Dmuchawce, latawce, wiatr…”',
+    category: 'osoby',
+    tags: ['muzyka', 'rock', 'pop', 'estrada', 'kobiety'],
+    yearStart: 1982,
+    yearEnd: 1989,
+    summary: 'Wokalistka rockowo-popowa, która przebojem „Dmuchawce, latawce, wiatr” (1983, z Budką Suflera) zdobyła ogromną popularność.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Urszula-2a.jpg?width=800',
+    imageCaption: 'Urszula (Urszula Kasprzak) – wokalistka rockowo-popowa.',
+    content: `## Sylwetka
+Urszula (Urszula Kasprzak, ur. 1960) to jedna z najpopularniejszych polskich wokalistek rockowo-popowych lat 80.
+
+## Debiut
+Karierę rozwinęła u boku zespołu Budka Suflera, z którym nagrała swoje najważniejsze wczesne przeboje.
+
+## Dmuchawce, latawce, wiatr
+Przebój „Dmuchawce, latawce, wiatr” (1983), z muzyką Romualda Lipki, stał się jej wizytówką i klasykiem polskiej piosenki.
+
+## Kolejne przeboje
+W dorobku ma też m.in. „Konik na biegunach” i „Malinowy król” – utwory łączące rock z melodyjnym popem.
+
+## Wizerunek
+Energetyczna scena i charakterystyczny głos uczyniły z niej gwiazdę estrady schyłkowego PRL.
+
+## Znaczenie
+Urszula pozostaje jedną z ikon polskiej muzyki rozrywkowej, a jej przeboje z lat 80. są wciąż popularne.`,
+    trivia: ['Największe wczesne przeboje nagrała wspólnie z zespołem Budka Suflera.', 'Muzykę do „Dmuchawców…” skomponował Romuald Lipko z Budki Suflera.'],
+    resources: [
+      {
+        id: 'ur-yt',
+        title: 'Urszula – „Dmuchawce, latawce, wiatr…”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=SmJD-yU48wM',
+        source: 'YouTube',
+        description: 'Największy przebój artystki (1983).',
+      },
+      {
+        id: 'ur-1',
+        title: 'Urszula – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Urszula+Kasprzak+przeboje+koncert',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o artystce.',
+      },
+      {
+        id: 'ur-2',
+        title: 'Urszula – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Urszula%20Kasprzak%20piosenkarka&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o artystce.',
+      },
+    ],
+    relatedIds: ['budka-suflera', 'festiwal-opole', 'maryla-rodowicz'],
+  },
+  {
+    id: 'frania-pralka',
+    title: 'Pralka Frania',
+    subtitle: 'Wirnikowa pralka w każdym domu',
+    category: 'społeczeństwo',
+    tags: ['technika', 'życie codzienne', 'AGD', 'przemysł'],
+    yearStart: 1958,
+    yearEnd: 1989,
+    summary: 'Prosta wirnikowa pralka „Frania” była jednym z symboli PRL-owskiego AGD – obecna w niemal każdym domu, choć wymagała ręcznego przekładania prania.',
+    content: `## Ikona AGD
+„Frania” to popularna, prosta pralka wirnikowa produkowana od końca lat 50., jeden z symboli PRL-owskiego wyposażenia domu.
+
+## Jak działała
+Pralka miała jeden zbiornik i wirnik; prało się partiami, a pranie trzeba było ręcznie przekładać i wyżymać, często wałkami.
+
+## Nazwa
+Potoczna nazwa „Frania” (od zdrobnienia imienia) przylgnęła do całej kategorii tanich pralek wirnikowych.
+
+## Codzienność
+Dzień prania był całodniowym przedsięwzięciem – z gotowaniem wody, praniem, płukaniem i suszeniem na sznurach.
+
+## Awans cywilizacyjny
+Mimo prostoty „Frania” oznaczała realne odciążenie od prania ręcznego w balii i była marzeniem wielu gospodarstw.
+
+## Znaczenie
+Dziś „Frania” to nostalgiczny symbol codzienności PRL i skromnych realiów domowej techniki.`,
+    trivia: ['Prania nie dało się prać w całości naraz – trzeba je było ręcznie przekładać partiami.', 'Nazwa „Frania” przylgnęła potocznie do całej kategorii tanich pralek wirnikowych.'],
+    resources: [
+      {
+        id: 'fr-yt',
+        title: 'Pralka „Frania” – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=pralka+Frania+PRL+AGD',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o pralce.',
+      },
+      {
+        id: 'fr-wk',
+        title: 'Frania (pralka) – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Frania%20pralka%20wirnikowa%20PRL&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania.',
+      },
+      {
+        id: 'fr-2',
+        title: 'AGD w PRL – sprzęty domowe',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=AGD+PRL+pralka+lod%C3%B3wka+sprz%C4%99t+domowy',
+        source: 'YouTube',
+        description: 'Materiały o domowej technice epoki.',
+      },
+    ],
+    relatedIds: ['zycie-codzienne', 'kartki-prl', 'kuchnia-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -21388,4 +21609,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1981, event: 'Premiera „Vabanku” – debiut reżyserski Juliusza Machulskiego', category: 'kultura', entryId: 'vabank' },
   { year: 1983, event: 'Dezerter nagrywa EP „Ku przyszłości” („Spytaj milicjanta”)', category: 'kultura', entryId: 'dezerter-zespol' },
   { year: 1986, event: 'Emisja serialu „Alternatywy 4” Stanisława Barei', category: 'kultura', entryId: 'alternatywy-4' },
+  { year: 1960, event: 'Premiera „Krzyżaków” Aleksandra Forda – rekord widowni polskiego kina', category: 'kultura', entryId: 'krzyzacy' },
+  { year: 1983, event: 'Urszula – przebój „Dmuchawce, latawce, wiatr” (z Budką Suflera)', category: 'kultura', entryId: 'urszula' },
+  { year: 1987, event: 'Emisja serialu „Zmiennicy” Stanisława Barei', category: 'kultura', entryId: 'zmiennicy' },
 ];
