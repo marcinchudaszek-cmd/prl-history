@@ -21406,6 +21406,227 @@ Dziś „Frania” to nostalgiczny symbol codzienności PRL i skromnych realiów
     ],
     relatedIds: ['zycie-codzienne', 'kartki-prl', 'kuchnia-prl'],
   },
+  {
+    id: 'papa-dance',
+    title: 'Papa Dance',
+    subtitle: 'Taneczne italo-disco lat 80.',
+    category: 'kultura',
+    tags: ['muzyka', 'pop', 'disco', 'lata 80', 'młodzież'],
+    yearStart: 1984,
+    yearEnd: 1989,
+    summary: 'Synth-popowy zespół italo-disco założony w 1984, jeden z symboli polskiej muzyki tanecznej lat 80. i idol młodzieży.',
+    content: `## Zespół
+Papa Dance to synth-popowy zespół z nurtu italo-disco, założony w 1984 – jeden z symboli polskiej muzyki tanecznej schyłkowej dekady PRL.
+
+## Brzmienie
+Taneczne syntezatory, chwytliwe refreny i lekki, dyskotekowy klimat uczyniły z zespołu fenomen list przebojów.
+
+## Przeboje
+W dorobku m.in. „Galaktyczny zwiad”, „Nasz ostatni taniec”, „Poniżej krytyki” i „Zbuntowany świat”.
+
+## Wizerunek
+Kolorowe stroje, choreografie i telewizyjne teledyski budowały gwiazdorski, popowy image grupy.
+
+## Fenomen
+Masowa popularność wśród młodzieży, tłumy na koncertach i sprzedaż płyt czyniły z Papa Dance czołową markę popu.
+
+## Znaczenie
+Dziś Papa Dance to nostalgiczna ikona polskiego popu lat 80.`,
+    trivia: ['Zespół był czołowym przedstawicielem polskiego italo-disco lat 80.', 'Tytuł jednego z albumów głosił, że „1 000 000 fanek nie może się mylić”.'],
+    resources: [
+      {
+        id: 'pd-yt',
+        title: '„Galaktyczny zwiad” – Papa Dance',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=4mIVCoYWMXc',
+        source: 'YouTube',
+        description: 'Teledysk zespołu.',
+      },
+      {
+        id: 'pd-1',
+        title: 'Papa Dance – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Papa+Dance+przeboje+lata+80',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o zespole.',
+      },
+      {
+        id: 'pd-2',
+        title: 'Papa Dance – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Papa%20Dance%20zesp%C3%B3%C5%82%20disco&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o zespole.',
+      },
+    ],
+    relatedIds: ['urszula', 'budka-suflera', 'maryla-rodowicz'],
+  },
+  {
+    id: 'turbo-zespol',
+    title: 'Turbo',
+    subtitle: 'Narodziny polskiego metalu',
+    category: 'kultura',
+    tags: ['muzyka', 'rock', 'metal', 'jarocin', 'młodzież'],
+    yearStart: 1980,
+    yearEnd: 1989,
+    summary: 'Jeden z najważniejszych polskich zespołów heavy metalowych; przebój „Dorosłe dzieci” (1983) stał się hymnem pokolenia.',
+    content: `## Zespół
+Turbo to jeden z najważniejszych i najstarszych polskich zespołów heavy metalowych, wywodzący się z Poznania.
+
+## Dorosłe dzieci
+Album i singel „Dorosłe dzieci” (1983) przyniósł przełomowy przebój – refleksyjny, gniewny hymn młodego pokolenia.
+
+## Brzmienie
+Zespół ewoluował od hard rocka po ciężki heavy i thrash metal; rozpoznawalny był mocny wokal Grzegorza Kupczyka.
+
+## Jarocin
+Turbo należało do czołowych wykonawców festiwalu w Jarocinie, kuźni polskiej sceny rockowej.
+
+## Rozwój
+Kolejne albumy przynosiły coraz cięższe, bardziej metalowe brzmienie.
+
+## Znaczenie
+Turbo to pionier i legenda polskiej sceny metalowej, aktywna przez dekady.`,
+    trivia: ['„Dorosłe dzieci” to jeden z najważniejszych polskich przebojów rockowych lat 80.', 'Turbo należy do pionierów polskiej sceny heavy metal.'],
+    resources: [
+      {
+        id: 'tb-yt',
+        title: '„Dorosłe dzieci” – Turbo',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=AnOhpmCS0Fc',
+        source: 'YouTube',
+        description: 'Oficjalny teledysk (1983).',
+      },
+      {
+        id: 'tb-1',
+        title: 'Turbo – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Turbo+Doros%C5%82e+dzieci+koncert',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o zespole.',
+      },
+      {
+        id: 'tb-2',
+        title: 'Turbo – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Turbo%20zesp%C3%B3%C5%82%20metal%20Doros%C5%82e%20dzieci&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o zespole.',
+      },
+    ],
+    relatedIds: ['tsa-zespol', 'jarocin-festiwal', 'dezerter-zespol'],
+  },
+  {
+    id: 'faraon',
+    title: 'Faraon',
+    subtitle: 'Monumentalny dramat Kawalerowicza',
+    category: 'kultura',
+    tags: ['film', 'kino', 'historia', 'ekranizacja'],
+    yearStart: 1966,
+    summary: 'Monumentalny dramat historyczny Jerzego Kawalerowicza (1966) wg powieści Bolesława Prusa; nominowany do Oscara film o walce faraona z kastą kapłanów.',
+    content: `## Film
+„Faraon” (1966) w reżyserii Jerzego Kawalerowicza to monumentalna ekranizacja powieści Bolesława Prusa.
+
+## Fabuła
+Młody faraon Ramzes XIII próbuje umocnić władzę i skarb państwa w starciu z potężną, wpływową kastą kapłanów starożytnego Egiptu.
+
+## Rozmach
+Imponująca scenografia, pustynne plenery i tłumy statystów złożyły się na jedno z najbardziej widowiskowych dzieł polskiego kina.
+
+## Nominacja do Oscara
+Film został nominowany do Oscara dla najlepszego filmu nieanglojęzycznego (1967) i pokazany na festiwalu w Cannes.
+
+## Wymowa
+To ponadczasowa opowieść o mechanizmach władzy i konflikcie tronu z aparatem religijnym.
+
+## Znaczenie
+„Faraon” uchodzi za jedno z arcydzieł polskiej kinematografii historycznej.`,
+    trivia: ['Film był nominowany do Oscara dla najlepszego filmu nieanglojęzycznego (1967).', 'To ekranizacja powieści Bolesława Prusa o starożytnym Egipcie.'],
+    resources: [
+      {
+        id: 'fa-yt',
+        title: '„Faraon” (1966) – zwiastun',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=-YQTSJJNxD8',
+        source: 'YouTube',
+        description: 'Zwiastun filmu Kawalerowicza.',
+      },
+      {
+        id: 'fa-arch',
+        title: '„Faraon” – Internet Archive',
+        type: 'nagranie',
+        url: 'https://archive.org/details/faraon_1966',
+        source: 'Internet Archive',
+        description: 'Zdigitalizowany film.',
+      },
+      {
+        id: 'fa-2',
+        title: '„Faraon” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Faraon%20film%201966%20Kawalerowicz&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['krzyzacy', 'seksmisja-film', 'mis-film'],
+  },
+  {
+    id: 'izabela-trojanowska',
+    title: 'Izabela Trojanowska',
+    subtitle: 'Buntownicza gwiazda przełomu dekad',
+    category: 'osoby',
+    tags: ['muzyka', 'rock', 'estrada', 'kobiety', 'aktorstwo'],
+    yearStart: 1980,
+    yearEnd: 1989,
+    summary: 'Wokalistka rockowa i aktorka, gwiazda przełomu lat 70. i 80.; przeboje „Wszystko czego dziś chcę” i „Tyle samo prawd ile kłamstw” nagrała z Budką Suflera.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Izabela%20Trojanowska%20by%20Foksal.jpg?width=800',
+    imageCaption: 'Izabela Trojanowska – wokalistka rockowa i aktorka.',
+    content: `## Sylwetka
+Izabela Trojanowska to wokalistka rockowa i aktorka, jedna z najjaśniejszych gwiazd przełomu lat 70. i 80.
+
+## Debiut z Budką
+Debiutancki album „Iza” (1981) nagrała z zespołem Budka Suflera; muzykę tworzył Romuald Lipko, a teksty Andrzej Mogielnicki.
+
+## Przeboje
+Jej wizytówką stały się „Wszystko czego dziś chcę”, „Tyle samo prawd ile kłamstw” oraz „Jestem twoim grzechem”.
+
+## Bunt
+Mocne, buntownicze teksty i pełen energii wizerunek uczyniły z niej idolkę młodzieży.
+
+## Emigracja
+Na część lat 80. wyjechała za granicę, ograniczając krajową działalność.
+
+## Znaczenie
+Trojanowska pozostaje jedną z ikon polskiej sceny rockowej przełomu dekad.`,
+    trivia: ['Debiutancki album „Iza” (1981) nagrała z zespołem Budka Suflera.', 'Teksty jej przebojów pisał Andrzej Mogielnicki, muzykę – Romuald Lipko.'],
+    resources: [
+      {
+        id: 'it-yt',
+        title: '„Wszystko czego dziś chcę” – Izabela Trojanowska',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=lKcMlc9-JNs',
+        source: 'YouTube',
+        description: 'Największy przebój artystki.',
+      },
+      {
+        id: 'it-1',
+        title: 'Izabela Trojanowska – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Izabela+Trojanowska+przeboje+koncert',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o artystce.',
+      },
+      {
+        id: 'it-2',
+        title: 'Izabela Trojanowska – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Izabela%20Trojanowska%20piosenkarka&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o artystce.',
+      },
+    ],
+    relatedIds: ['budka-suflera', 'urszula', 'festiwal-opole'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -21612,4 +21833,8 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1960, event: 'Premiera „Krzyżaków” Aleksandra Forda – rekord widowni polskiego kina', category: 'kultura', entryId: 'krzyzacy' },
   { year: 1983, event: 'Urszula – przebój „Dmuchawce, latawce, wiatr” (z Budką Suflera)', category: 'kultura', entryId: 'urszula' },
   { year: 1987, event: 'Emisja serialu „Zmiennicy” Stanisława Barei', category: 'kultura', entryId: 'zmiennicy' },
+  { year: 1966, event: 'Premiera „Faraona” Jerzego Kawalerowicza – nominacja do Oscara', category: 'kultura', entryId: 'faraon' },
+  { year: 1980, event: 'Izabela Trojanowska – przebój „Wszystko czego dziś chcę”', category: 'kultura', entryId: 'izabela-trojanowska' },
+  { year: 1983, event: 'Turbo wydaje „Dorosłe dzieci” – kamień milowy polskiego metalu', category: 'kultura', entryId: 'turbo-zespol' },
+  { year: 1985, event: 'Papa Dance – szczyt popularności polskiego italo-disco', category: 'kultura', entryId: 'papa-dance' },
 ];
