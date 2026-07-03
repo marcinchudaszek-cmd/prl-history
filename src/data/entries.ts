@@ -21627,6 +21627,226 @@ Trojanowska pozostaje jedną z ikon polskiej sceny rockowej przełomu dekad.`,
     ],
     relatedIds: ['budka-suflera', 'urszula', 'festiwal-opole'],
   },
+  {
+    id: 'kingsajz',
+    title: 'Kingsajz',
+    subtitle: 'Krasnoludki, szuflandia i wolność',
+    category: 'kultura',
+    tags: ['film', 'komedia', 'fantasy', 'satyra', 'kino'],
+    yearStart: 1988,
+    summary: 'Groteskowa komedia fantasy Juliusza Machulskiego (1988) o krasnoludkach marzących o przejściu z ciasnej „szuflandii” do wielkiego „kingsajzu” – alegoria PRL.',
+    content: `## Film
+„Kingsajz” (1988) w reżyserii Juliusza Machulskiego to groteskowa komedia fantasy, jedna z najoryginalniejszych polskich produkcji lat 80.
+
+## Dwa światy
+Krasnoludki żyją w ciasnym mikroświecie „szuflandii” i marzą o przejściu do „kingsajzu” – normalnego, wielkiego świata ludzi.
+
+## Alegoria
+Rządzony przez biurokrację i Krwawego Hugona świat ludzików to czytelna satyra na PRL i tęsknotę za wolnością.
+
+## Efekty
+Film wyróżniał się nowatorskimi jak na polskie kino efektami łączącymi aktorów w różnych skalach.
+
+## Cytaty
+Kwestie z filmu, jak „Statutu se nie doczytał?”, weszły do języka fanów kina.
+
+## Znaczenie
+„Kingsajz” to kultowa komedia i jedno z najbardziej pomysłowych dzieł Machulskiego.`,
+    trivia: ['„Szuflandia” i „kingsajz” stały się metaforami PRL-owskiej niewoli i wolności.', 'Efekty łączące różne skale postaci były jak na polskie kino nowatorskie.'],
+    resources: [
+      {
+        id: 'ks-yt',
+        title: '„Kingsajz” – zwiastun',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=jCJ7pHxKlEM',
+        source: 'YouTube',
+        description: 'Zwiastun komedii Machulskiego.',
+      },
+      {
+        id: 'ks-1',
+        title: '„Kingsajz” – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Kingsajz+1987+Machulski+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'ks-2',
+        title: '„Kingsajz” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Kingsajz%20film%201988%20Machulski&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['vabank', 'seksmisja-film', 'sami-swoi'],
+  },
+  {
+    id: 'jan-serce',
+    title: 'Jan Serce',
+    subtitle: 'Ciepły serial o warszawskim kanalarzu',
+    category: 'kultura',
+    tags: ['film', 'serial', 'obyczajowy', 'telewizja', 'warszawa'],
+    yearStart: 1981,
+    summary: 'Ciepły serial obyczajowy Radosława Piwowarskiego (1981) o poczciwym warszawskim kanalarzu Janie Sercu, idealiście i pechowcu z Woli.',
+    content: `## Serial
+„Jan Serce” (1981) w reżyserii Radosława Piwowarskiego to ciepły serial obyczajowy o zwykłym mieszkańcu Warszawy.
+
+## Bohater
+Tytułowy Jan Serce (Kazimierz Kaczor) to poczciwy, uczciwy idealista i pechowiec, kanalarz z warszawskiej Woli.
+
+## Miłość
+Kolejne odcinki to sercowe perypetie dobrodusznego, choć nieco nieporadnego w życiu bohatera.
+
+## Klimat
+Serial maluje nostalgiczny, ciepły obraz codziennej Warszawy i losów zwyczajnych ludzi.
+
+## Muzyka
+Pamiętna, sentymentalna czołówka na trwałe wpisała się w klimat produkcji.
+
+## Znaczenie
+„Jan Serce” to jeden z najbardziej lubianych, ciepłych seriali epoki PRL.`,
+    trivia: ['Tytułowy Jan Serce z zawodu jest kanalarzem z warszawskiej Woli.', 'W roli głównej wystąpił Kazimierz Kaczor.'],
+    resources: [
+      {
+        id: 'js-yt',
+        title: '„Jan Serce” – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Jan+Serce+serial+1981+Kaczor+odcinek',
+        source: 'YouTube',
+        description: 'Odcinki i materiały o serialu.',
+      },
+      {
+        id: 'js-2',
+        title: '„Jan Serce” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Jan%20Serce%20serial%20Piwowarski&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o serialu.',
+      },
+      {
+        id: 'js-3',
+        title: 'Seriale obyczajowe PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=seriale+obyczajowe+PRL+lata+80',
+        source: 'YouTube',
+        description: 'Materiały o serialach epoki.',
+      },
+    ],
+    relatedIds: ['alternatywy-4', 'czterdziestolatek', 'zycie-codzienne'],
+  },
+  {
+    id: 'fibak-wojciech',
+    title: 'Wojciech Fibak',
+    subtitle: 'Najwybitniejszy polski tenisista',
+    category: 'osoby',
+    tags: ['sport', 'tenis', 'sukces', 'świat'],
+    yearStart: 1972,
+    yearEnd: 1989,
+    summary: 'Najwybitniejszy polski tenisista w historii, gwiazda światowego touru lat 70. i 80.; w 1976 triumfował w prestiżowym turnieju Masters.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Winnaar%20Fibak%20uit%20Polen%20in%20actie%2C%20Bestanddeelnr%20932-3751.jpg?width=800',
+    imageCaption: 'Wojciech Fibak w akcji na korcie (lata 70.).',
+    content: `## Sylwetka
+Wojciech Fibak (ur. 1952) to najwybitniejszy polski tenisista w historii i jedna z gwiazd światowego touru lat 70. i 80.
+
+## Sukcesy
+W 1976 triumfował w prestiżowym turnieju Masters, docierając do ścisłej czołówki rankingu ATP.
+
+## Debel
+Wielkie sukcesy odnosił także w grze podwójnej, wygrywając liczne turnieje najwyższej rangi.
+
+## Fenomen epoki
+Międzynarodowa kariera obywatela PRL na zawodowym tourze była w realiach epoki rzadkością i powodem dumy.
+
+## Poza kortem
+Znany jest również jako kolekcjoner sztuki i przedsiębiorca.
+
+## Znaczenie
+Fibak to ikona polskiego tenisa, który rozsławił Polskę w świecie sportu.`,
+    trivia: ['W 1976 wygrał prestiżowy turniej Masters – największy sukces polskiego tenisa.', 'Był jednym z najlepszych deblistów świata swojej epoki.'],
+    resources: [
+      {
+        id: 'fi-yt',
+        title: 'Wojciech Fibak – tenis',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Wojciech+Fibak+tenis+Masters+1976',
+        source: 'YouTube',
+        description: 'Nagrania i materiały o tenisiście.',
+      },
+      {
+        id: 'fi-2',
+        title: 'Wojciech Fibak – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Wojciech%20Fibak%20tenisista&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o zawodniku.',
+      },
+      {
+        id: 'fi-3',
+        title: 'Polski tenis lat 70.',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=polski+tenis+lata+70+Fibak',
+        source: 'YouTube',
+        description: 'Materiały o polskim tenisie epoki.',
+      },
+    ],
+    relatedIds: ['mundial-1974', 'deyna-kazimierz', 'boniek-zbigniew'],
+  },
+  {
+    id: 'nysa-zuk',
+    title: 'Nysa i Żuk',
+    subtitle: 'Dostawczaki PRL: suka i furgon',
+    category: 'społeczeństwo',
+    tags: ['technika', 'motoryzacja', 'przemysł', 'życie codzienne'],
+    yearStart: 1958,
+    yearEnd: 1989,
+    summary: 'Nysa i Żuk to najpopularniejsze polskie samochody dostawcze epoki – mikrobusy, karetki, furgony i milicyjne „suki” widoczne na każdej ulicy.',
+    content: `## Dostawczaki PRL
+Nysa i Żuk to najpopularniejsze polskie samochody dostawcze epoki, obecne w niemal każdej dziedzinie gospodarki.
+
+## Nysa
+Produkowana w Nysie służyła jako mikrobus, karetka pogotowia, furgon oraz milicyjna więźniarka.
+
+## Żuk
+Lubelski Żuk to lekki samochód dostawczy o charakterystycznej, spadzistej masce, spotykany w sklepach i warsztatach.
+
+## Zastosowania
+Dostawy do sklepów, pogotowie, milicja, poczta, zakłady usługowe – Nysa i Żuk były dosłownie wszędzie.
+
+## Trwałość
+Proste, łatwe w naprawie konstrukcje jeździły przez dekady, wielokrotnie reperowane.
+
+## Znaczenie
+Nysa i Żuk to nieodłączny element ulicznego krajobrazu PRL i motoryzacyjnej codzienności.`,
+    trivia: ['Milicyjną więźniarkę na bazie Nysy nazywano potocznie „suką”.', 'Żuk i Nysa powstawały przez kilka dekad, niemal niezmienione konstrukcyjnie.'],
+    resources: [
+      {
+        id: 'nz-yt',
+        title: 'Nysa i Żuk – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Nysa+%C5%BBuk+samoch%C3%B3d+dostawczy+PRL',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o dostawczakach.',
+      },
+      {
+        id: 'nz-wk',
+        title: 'Nysa (samochód) – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Nysa%20samoch%C3%B3d%20dostawczy%20FSD&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania.',
+      },
+      {
+        id: 'nz-2',
+        title: 'Motoryzacja użytkowa PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=samochody+dostawcze+PRL+Nysa+%C5%BBuk+Star',
+        source: 'YouTube',
+        description: 'Materiały o pojazdach użytkowych epoki.',
+      },
+    ],
+    relatedIds: ['motocykle-prl', 'fiat-126p', 'motoryzacja-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -21837,4 +22057,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1980, event: 'Izabela Trojanowska – przebój „Wszystko czego dziś chcę”', category: 'kultura', entryId: 'izabela-trojanowska' },
   { year: 1983, event: 'Turbo wydaje „Dorosłe dzieci” – kamień milowy polskiego metalu', category: 'kultura', entryId: 'turbo-zespol' },
   { year: 1985, event: 'Papa Dance – szczyt popularności polskiego italo-disco', category: 'kultura', entryId: 'papa-dance' },
+  { year: 1981, event: 'Emisja serialu „Jan Serce” Radosława Piwowarskiego', category: 'kultura', entryId: 'jan-serce' },
+  { year: 1976, event: 'Wojciech Fibak wygrywa turniej Masters – triumf polskiego tenisa', category: 'społeczeństwo', entryId: 'fibak-wojciech' },
+  { year: 1988, event: 'Premiera „Kingsajzu” Juliusza Machulskiego', category: 'kultura', entryId: 'kingsajz' },
 ];
