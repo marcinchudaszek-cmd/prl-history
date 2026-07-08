@@ -7249,6 +7249,14 @@ Marszałkowska Dzielnica Mieszkaniowa (MDM, 1950–1952) z monumentalnymi kamien
 Odbudowa stała się mitem założycielskim PRL: tysiące ochotników z całego kraju pracowało przy odgruzowaniu. Propagandowe kroniki filmowe pokazywały "cały naród buduje swoją stolicę".`,
     resources: [
       {
+        id: 'ow-pkf',
+        title: 'Polska Kronika Filmowa – odbudowa Warszawy',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/4459',
+        source: 'Filmoteka Narodowa',
+        description: '„Warszawa wolna” – kronika o powojennej stolicy (Repozytorium FN).',
+      },
+      {
         id: 'warszawa-1',
         title: 'Fotografie odbudowy Warszawy – Polona',
         type: 'zdjęcie',
@@ -23839,6 +23847,176 @@ Przebój „Skóra” do dziś pozostaje rozpoznawalnym znakiem epoki.`,
     ],
     relatedIds: ['republika-zespol', 'klaus-mitffoch', 'maanam-zespol'],
   },
+  {
+    id: 'mdm-marszalkowska',
+    title: 'MDM – Marszałkowska Dzielnica Mieszkaniowa',
+    subtitle: 'Sztandar socrealizmu i plac Konstytucji',
+    category: 'społeczeństwo',
+    tags: ['architektura', 'Warszawa', 'socrealizm', 'odbudowa', 'propaganda'],
+    yearStart: 1950,
+    yearEnd: 1952,
+    summary: 'Sztandarowe założenie socrealizmu w Warszawie, budowane od 1950; z monumentalnym placem Konstytucji, szeroko pokazywane w Polskiej Kronice Filmowej.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Warszawa%20-%20Plac%20Konstytucji%20%282%29.jpg?width=800',
+    imageCaption: 'Plac Konstytucji – serce MDM w Warszawie.',
+    content: `## MDM
+Marszałkowska Dzielnica Mieszkaniowa (MDM) to sztandarowe założenie socrealizmu w Warszawie, wznoszone od 1950 roku.
+
+## Plac Konstytucji
+Sercem dzielnicy jest monumentalny plac Konstytucji z charakterystycznymi latarniami-kandelabrami i robotniczymi płaskorzeźbami.
+
+## Socrealizm
+Architektura utrzymana w duchu socrealizmu: monumentalizm, kolumnady i propagandowa dekoracja.
+
+## Propaganda
+Otwarcie w 1952 świętowano hucznie; MDM pokazywano w Polskiej Kronice Filmowej jako symbol nowego ustroju.
+
+## Życie
+Mieszkania w MDM były prestiżowe i przydzielane m.in. zasłużonym oraz aparatowi partyjnemu.
+
+## Znaczenie
+To najbardziej reprezentacyjny przykład socrealistycznej urbanistyki w Polsce.`,
+    trivia: ['Sercem MDM jest monumentalny plac Konstytucji, otwarty w 1952 roku.', 'MDM była sztandarowym pokazem socrealistycznej architektury i propagandy.'],
+    resources: [
+      {
+        id: 'mdm-yt',
+        title: 'MDM w Kronice Filmowej',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=vE4FgcPBo30',
+        source: 'YouTube',
+        description: 'Marszałkowska Dzielnica Mieszkaniowa na filmie.',
+      },
+      {
+        id: 'mdm-fn',
+        title: 'Polska Kronika Filmowa o Warszawie',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/8093',
+        source: 'Filmoteka Narodowa',
+        description: 'Kronika o powojennej stolicy (Repozytorium Filmoteki Narodowej).',
+      },
+      {
+        id: 'mdm-2',
+        title: 'MDM – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Marsza%C5%82kowska%20Dzielnica%20Mieszkaniowa%20socrealizm&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o dzielnicy.',
+      },
+    ],
+    relatedIds: ['odbudowa-warszawy', 'palac-kultury', 'nowa-huta'],
+  },
+  {
+    id: 'zamek-krolewski',
+    title: 'Odbudowa Zamku Królewskiego',
+    subtitle: 'Narodowa zbiórka i „cegiełki”',
+    category: 'społeczeństwo',
+    tags: ['architektura', 'Warszawa', 'odbudowa', 'dziedzictwo'],
+    yearStart: 1971,
+    yearEnd: 1974,
+    summary: 'Zburzony przez Niemców Zamek Królewski w Warszawie odbudowano w latach 1971–1974 ze społecznej zbiórki „cegiełek”; symbol odzyskiwania dziedzictwa.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zamek%20Kr%C3%B3lewski%20w%20Warszawie%20z%20Ogrodami%20Kr%C3%B3lewskimi.jpg?width=800',
+    imageCaption: 'Odbudowany Zamek Królewski w Warszawie.',
+    content: `## Odbudowa
+Zamek Królewski w Warszawie, zburzony przez Niemców w czasie wojny, odbudowano w latach 1971–1974.
+
+## Decyzja 1971
+Decyzję o odbudowie podjęto w 1971 roku; natychmiast ruszyła szeroka społeczna zbiórka funduszy.
+
+## Cegiełki
+Polacy w kraju i na emigracji masowo kupowali „cegiełki” na odbudowę zamku.
+
+## Rekonstrukcja
+Wnętrza i bryłę odtwarzano m.in. na podstawie wedut Canaletta (Bernarda Bellotta).
+
+## Symbol
+Odbudowa Zamku stała się symbolem odzyskiwania narodowego dziedzictwa i dumy stolicy.
+
+## Znaczenie
+To jedno z najważniejszych przedsięwzięć konserwatorskich PRL, szeroko dokumentowane przez Polską Kronikę Filmową.`,
+    trivia: ['Zamek Królewski odbudowano w latach 1971–1974 ze społecznych „cegiełek”.', 'Wnętrza rekonstruowano m.in. na podstawie wedut Canaletta (Bellotta).'],
+    resources: [
+      {
+        id: 'zk2-pkf',
+        title: 'Polska Kronika Filmowa – odbudowa Zamku',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+Zamek+Kr%C3%B3lewski+odbudowa+Warszawa',
+        source: 'YouTube',
+        description: 'Kroniki filmowe o odbudowie zamku.',
+      },
+      {
+        id: 'zk2-2',
+        title: 'Zamek Królewski – odbudowa',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=odbudowa%20Zamku%20Kr%C3%B3lewskiego%20w%20Warszawie&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o odbudowie.',
+      },
+      {
+        id: 'zk2-3',
+        title: 'Odbudowa Warszawy – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=odbudowa+Warszawy+PRL+Zamek+Kr%C3%B3lewski',
+        source: 'YouTube',
+        description: 'Materiały o odbudowie stolicy.',
+      },
+    ],
+    relatedIds: ['odbudowa-warszawy', 'palac-kultury', 'milenium-1966'],
+  },
+  {
+    id: 'trasa-wz',
+    title: 'Trasa W-Z',
+    subtitle: 'Sztandarowa arteria odbudowy stolicy',
+    category: 'społeczeństwo',
+    tags: ['architektura', 'Warszawa', 'odbudowa', 'komunikacja', 'propaganda'],
+    yearStart: 1949,
+    summary: 'Pierwsza wielka arteria powojennej Warszawy (wschód–zachód), otwarta w 1949; symbol „warszawskiego tempa” odbudowy, opiewany w Polskiej Kronice Filmowej.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Trasa%20W-Z%20lata%2040.%2001.jpg?width=800',
+    imageCaption: 'Trasa W-Z w Warszawie, przełom lat 40. i 50.',
+    content: `## Trasa W-Z
+Trasa W-Z to pierwsza wielka arteria komunikacyjna powojennej Warszawy, prowadząca ze wschodu na zachód, otwarta w 1949 roku.
+
+## Tunel
+Poprowadzono ją tunelem pod placem Zamkowym oraz mostem Śląsko-Dąbrowskim przez Wisłę.
+
+## Tempo
+Budowa w rekordowym tempie stała się sztandarowym pokazem „warszawskiego tempa” odbudowy.
+
+## Ruchome schody
+Nowinką techniczną były ruchome schody łączące trasę ze Starym Miastem.
+
+## Propaganda
+Otwarcie hucznie świętowano i szeroko relacjonowano w Polskiej Kronice Filmowej.
+
+## Znaczenie
+Trasa W-Z to symbol powojennej odbudowy stolicy i inżynierskiego rozmachu epoki.`,
+    trivia: ['Trasę W-Z otwarto w 1949 roku w rekordowym „warszawskim tempie”.', 'Nowinką były ruchome schody łączące trasę ze Starym Miastem.'],
+    resources: [
+      {
+        id: 'twz-pkf',
+        title: 'Polska Kronika Filmowa – Trasa W-Z',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+Trasa+W-Z+1949+Warszawa',
+        source: 'YouTube',
+        description: 'Kroniki filmowe z otwarcia trasy.',
+      },
+      {
+        id: 'twz-fn',
+        title: 'Warszawa wolna – Polska Kronika Filmowa',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/4459',
+        source: 'Filmoteka Narodowa',
+        description: 'PKF o powojennej Warszawie (Repozytorium Filmoteki Narodowej).',
+      },
+      {
+        id: 'twz-2',
+        title: 'Trasa W-Z – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Trasa%20W-Z%20Warszawa%201949%20odbudowa&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o trasie.',
+      },
+    ],
+    relatedIds: ['odbudowa-warszawy', 'palac-kultury', 'mdm-marszalkowska'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -24083,4 +24261,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1977, event: 'Emisja serialu „Lalka” wg Bolesława Prusa', category: 'kultura', entryId: 'lalka-serial' },
   { year: 1980, event: 'Emisja serialu „Kariera Nikodema Dyzmy” z Romanem Wilhelmim', category: 'kultura', entryId: 'kariera-nikodema-dyzmy' },
   { year: 1985, event: 'Aya RL wydaje debiut z przebojem „Skóra”', category: 'kultura', entryId: 'aya-rl' },
+  { year: 1949, event: 'Otwarcie Trasy W-Z – symbol odbudowy Warszawy', category: 'społeczeństwo', entryId: 'trasa-wz' },
+  { year: 1952, event: 'Otwarcie MDM i placu Konstytucji – sztandar socrealizmu', category: 'społeczeństwo', entryId: 'mdm-marszalkowska' },
+  { year: 1971, event: 'Decyzja o odbudowie Zamku Królewskiego w Warszawie', category: 'społeczeństwo', entryId: 'zamek-krolewski' },
 ];
