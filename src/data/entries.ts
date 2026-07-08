@@ -22509,6 +22509,227 @@ Wodecki to jeden z najbardziej lubianych i wszechstronnych polskich artystów es
     ],
     relatedIds: ['maryla-rodowicz', 'festiwal-opole', 'grechuta-marek'],
   },
+  {
+    id: 'akademia-pana-kleksa',
+    title: 'Akademia Pana Kleksa',
+    subtitle: 'Baśń filmowa z Piotrem Fronczewskim',
+    category: 'kultura',
+    tags: ['film', 'kino', 'dzieci', 'baśń', 'muzyczny'],
+    yearStart: 1984,
+    summary: 'Muzyczna baśń filmowa Krzysztofa Gradowskiego (1984) wg Jana Brzechwy, z Piotrem Fronczewskim jako Panem Kleksem; hit obejrzany przez ponad 10 mln widzów.',
+    content: `## Film
+„Akademia Pana Kleksa” (premiera 1984, prod. 1983) w reżyserii Krzysztofa Gradowskiego to muzyczna baśń filmowa według książki Jana Brzechwy.
+
+## Fabuła
+Chłopiec Adaś Niezgódka trafia do niezwykłej Akademii prowadzonej przez czarodzieja i bajarza Ambrożego Kleksa.
+
+## Ambroży Kleks
+Piotr Fronczewski stworzył kultową, barwną kreację tytułowego mistrza – jedną z najbardziej rozpoznawalnych ról dziecięcego kina.
+
+## Piosenki
+Muzyka Andrzeja Korzyńskiego – „Kaczka dziwaczka”, „Na wyspach Bergamutach”, „Witaj, przygodo” – dzieci znały na pamięć.
+
+## Sukces
+Film obejrzało w kinach ponad 10 milionów widzów, stając się ogromnym hitem familijnym.
+
+## Znaczenie
+To kultowa baśń filmowa kilku pokoleń polskich dzieci.`,
+    trivia: ['Film obejrzało w kinach ponad 10 milionów widzów.', 'Rolę Pana Kleksa zagrał Piotr Fronczewski, a muzykę skomponował Andrzej Korzyński.'],
+    resources: [
+      {
+        id: 'apk-yt',
+        title: '„Kaczka dziwaczka” – Akademia Pana Kleksa',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=NJAmwC6bBMI',
+        source: 'YouTube',
+        description: 'Kultowa piosenka z filmu.',
+      },
+      {
+        id: 'apk-1',
+        title: '„Akademia Pana Kleksa” – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Akademia+Pana+Kleksa+Fronczewski+film',
+        source: 'YouTube',
+        description: 'Sceny i piosenki z filmu.',
+      },
+      {
+        id: 'apk-2',
+        title: '„Akademia Pana Kleksa” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Akademia%20Pana%20Kleksa%20film%20Gradowski&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['dobranocka', 'mis-film', 'zbigniew-wodecki'],
+  },
+  {
+    id: 'polskie-drogi',
+    title: 'Polskie drogi',
+    subtitle: 'Epicki serial o czasie okupacji',
+    category: 'kultura',
+    tags: ['film', 'serial', 'wojna', 'historia', 'telewizja'],
+    yearStart: 1976,
+    yearEnd: 1977,
+    summary: 'Epicki serial wojenny Janusza Morgensterna (1977) o losach Polaków od kampanii wrześniowej po koniec okupacji; 11 odcinków i ponad 16 godzin.',
+    content: `## Serial
+„Polskie drogi” (1977) w reżyserii Janusza Morgensterna to epicka telewizyjna opowieść o losach Polaków podczas II wojny światowej.
+
+## Fabuła
+Akcja prowadzi bohaterów od kampanii wrześniowej 1939 roku przez całą okupację, na tle wielkich wydarzeń historycznych.
+
+## Bohaterowie
+Losy głównych postaci splatają się w panoramę wojennej Polski – od konspiracji po codzienne przetrwanie.
+
+## Rozmach
+Serial liczył 11 odcinków i ponad 16 godzin, będąc jednym z najambitniejszych przedsięwzięć telewizji PRL.
+
+## Aktorzy
+Wystąpiła plejada gwiazd, m.in. Karol Strasburger, Kazimierz Kaczor i Zdzisław Maklakiewicz.
+
+## Znaczenie
+To jeden z najważniejszych polskich seriali wojennych, wielokrotnie powtarzany w telewizji.`,
+    trivia: ['Serial liczył 11 odcinków i ponad 16 godzin – to epicki fresk o II wojnie.', 'Scenariusz (poza pierwszym odcinkiem) napisał Jerzy Janicki.'],
+    resources: [
+      {
+        id: 'pdr-yt',
+        title: '„Polskie drogi” – scena',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Rcn8D8Jze10',
+        source: 'YouTube',
+        description: 'Fragment serialu Morgensterna.',
+      },
+      {
+        id: 'pdr-1',
+        title: '„Polskie drogi” – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polskie+drogi+serial+1977+odcinek',
+        source: 'YouTube',
+        description: 'Odcinki i materiały o serialu.',
+      },
+      {
+        id: 'pdr-2',
+        title: '„Polskie drogi” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Polskie%20drogi%20serial%20Morgenstern&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o serialu.',
+      },
+    ],
+    relatedIds: ['czterej-pancerni', 'stawka-wieksza-niz-zycie', 'jan-serce'],
+  },
+  {
+    id: 'andrzej-zaucha',
+    title: 'Andrzej Zaucha',
+    subtitle: 'Soulowy głos i „C\'est la vie”',
+    category: 'osoby',
+    tags: ['muzyka', 'estrada', 'jazz', 'soul', 'kultura'],
+    yearStart: 1972,
+    yearEnd: 1989,
+    summary: 'Wokalista i perkusista o soulowej, jazzującej barwie głosu; autor przebojów „C\'est la vie” i „Byłaś serca biciem”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej%20Zaucha%20%28lipiec%201991%29.jpg?width=800',
+    imageCaption: 'Andrzej Zaucha – wokalista i perkusista.',
+    content: `## Sylwetka
+Andrzej Zaucha (1949–1991) to wokalista i perkusista o soulowej, jazzującej barwie głosu, jeden z najbardziej muzykalnych polskich artystów.
+
+## Głos
+Ceniony był za swing, feeling i niezwykłe poczucie rytmu; uchodził za jednego z najlepszych rodzimych wokalistów.
+
+## Przeboje
+W dorobku ma m.in. „C'est la vie – Paryż z pocztówki”, „Byłaś serca biciem” i „Wielką wodę”.
+
+## Wielka woda
+Zaśpiewał tytułową piosenkę do serialu „Wielka woda”, która stała się jednym z jego znaków firmowych.
+
+## Estrada i teatr
+Występował na estradzie i w teatrze, współpracując m.in. ze środowiskiem krakowskiej Piwnicy pod Baranami.
+
+## Znaczenie
+Zaucha to jeden z najwybitniejszych polskich wokalistów; zginął tragicznie w 1991 roku.`,
+    trivia: ['Słynął z soulowej, jazzującej barwy głosu i doskonałego poczucia rytmu.', 'Zaśpiewał tytułową piosenkę do serialu „Wielka woda”.'],
+    resources: [
+      {
+        id: 'az-yt',
+        title: 'Andrzej Zaucha – „C\'est la vie”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=tqXDC-aPTrk',
+        source: 'YouTube',
+        description: 'Teledysk przeboju (1987).',
+      },
+      {
+        id: 'az-1',
+        title: 'Andrzej Zaucha – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Andrzej+Zaucha+przeboje+koncert',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o artyście.',
+      },
+      {
+        id: 'az-2',
+        title: 'Andrzej Zaucha – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Andrzej%20Zaucha%20wokalista&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o artyście.',
+      },
+    ],
+    relatedIds: ['zbigniew-wodecki', 'grechuta-marek', 'festiwal-opole'],
+  },
+  {
+    id: 'dom-serial',
+    title: 'Dom',
+    subtitle: 'Saga warszawskiej kamienicy',
+    category: 'kultura',
+    tags: ['film', 'serial', 'obyczajowy', 'historia', 'telewizja'],
+    yearStart: 1980,
+    yearEnd: 1989,
+    summary: 'Wieloletnia serialowa saga Jana Łomnickiego (od 1980) o mieszkańcach warszawskiej kamienicy przy ul. Złotej – kronika powojennej Polski.',
+    content: `## Serial
+„Dom” (emisja od 1980) w reżyserii Jana Łomnickiego to wieloletnia saga o mieszkańcach jednej warszawskiej kamienicy.
+
+## Fabuła
+Akcja śledzi losy lokatorów domu przy ul. Złotej od 1945 roku i przez kolejne dekady PRL.
+
+## Panorama
+Dzieje bohaterów są soczewką skupiającą powojenną historię Polski – politykę, obyczaje i codzienność.
+
+## Realia
+Serial pieczołowicie oddaje przemiany społeczne i scenografię kolejnych dekad.
+
+## Długowieczność
+Kręcony i emitowany z przerwami przez wiele lat, powstawał aż do lat 2000.
+
+## Znaczenie
+„Dom” to jeden z najważniejszych polskich seriali-sag i telewizyjna kronika epoki.`,
+    trivia: ['Serial śledzi losy mieszkańców jednej warszawskiej kamienicy przez dekady PRL.', 'Powstawał z przerwami przez wiele lat, stając się kroniką całej epoki.'],
+    resources: [
+      {
+        id: 'ds2-yt',
+        title: '„Dom” – fragmenty serialu',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Dom+serial+%C5%81omnicki+odcinek',
+        source: 'YouTube',
+        description: 'Odcinki i materiały o serialu.',
+      },
+      {
+        id: 'ds2-2',
+        title: '„Dom” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Dom%20serial%20telewizyjny%20%C5%81omnicki&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o serialu.',
+      },
+      {
+        id: 'ds2-3',
+        title: 'Seriale-sagi PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=polskie+seriale+sagi+PRL+historia',
+        source: 'YouTube',
+        description: 'Materiały o serialach epoki.',
+      },
+    ],
+    relatedIds: ['jan-serce', 'alternatywy-4', 'czterdziestolatek'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -22733,4 +22954,8 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1981, event: '„Człowiek z żelaza” Wajdy zdobywa Złotą Palmę w Cannes', category: 'kultura', entryId: 'czlowiek-z-zelaza' },
   { year: 1977, event: 'Debiut Krystyny Jandy w „Człowieku z marmuru”', category: 'kultura', entryId: 'krystyna-janda' },
   { year: 1985, event: 'Zbigniew Wodecki – przebój „Chałupy welcome to”', category: 'kultura', entryId: 'zbigniew-wodecki' },
+  { year: 1977, event: 'Emisja serialu „Polskie drogi” Janusza Morgensterna', category: 'kultura', entryId: 'polskie-drogi' },
+  { year: 1980, event: 'Początek emisji serialu „Dom” Jana Łomnickiego', category: 'kultura', entryId: 'dom-serial' },
+  { year: 1984, event: 'Premiera „Akademii Pana Kleksa” – hit z ponad 10 mln widzów', category: 'kultura', entryId: 'akademia-pana-kleksa' },
+  { year: 1987, event: 'Andrzej Zaucha – przebój „C\'est la vie – Paryż z pocztówki”', category: 'kultura', entryId: 'andrzej-zaucha' },
 ];
