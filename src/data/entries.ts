@@ -22730,6 +22730,230 @@ Kręcony i emitowany z przerwami przez wiele lat, powstawał aż do lat 2000.
     ],
     relatedIds: ['jan-serce', 'alternatywy-4', 'czterdziestolatek'],
   },
+  {
+    id: 'bolek-i-lolek',
+    title: 'Bolek i Lolek',
+    subtitle: 'Przygody dwóch braci bez słów',
+    category: 'kultura',
+    tags: ['film', 'animacja', 'dzieci', 'dobranocka', 'kultura'],
+    yearStart: 1963,
+    yearEnd: 1989,
+    summary: 'Kultowa polska kreskówka o przygodach dwóch braci, produkowana w Studiu Filmów Rysunkowych w Bielsku-Białej; opowiadana niemal bez słów.',
+    content: `## Kreskówka
+„Bolek i Lolek” to jedna z najsłynniejszych polskich animacji dla dzieci, produkowana od lat 60. w Studiu Filmów Rysunkowych w Bielsku-Białej.
+
+## Bohaterowie
+Rezolutny Bolek i młodszy Lolek przeżywają barwne przygody – niemal całkowicie bez dialogów.
+
+## Serie
+Powstały liczne cykle: „Przygody Bolka i Lolka”, „Bolek i Lolek na wakacjach”, „...na Dzikim Zachodzie” i „...wokół świata”.
+
+## Bez barier
+Brak słów sprawił, że bajka była zrozumiała na całym świecie i chętnie eksportowana za granicę.
+
+## Tola
+Z czasem do bohaterów dołączyła koleżanka Tola.
+
+## Znaczenie
+To jedna z najbardziej rozpoznawalnych polskich kreskówek i symbol PRL-owskiej dobranocki.`,
+    trivia: ['Bolek i Lolek niemal się nie odzywają – dzięki temu bajkę rozumiano na całym świecie.', 'Serial powstawał w Studiu Filmów Rysunkowych w Bielsku-Białej.'],
+    resources: [
+      {
+        id: 'bl-yt',
+        title: '„Bolek i Lolek” – odcinek',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=xZ1Sek2O9Ok',
+        source: 'YouTube',
+        description: 'Odcinek kultowej kreskówki.',
+      },
+      {
+        id: 'bl-1',
+        title: '„Bolek i Lolek” – bajki',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Bolek+i+Lolek+kresk%C3%B3wka+odcinki',
+        source: 'YouTube',
+        description: 'Odcinki i materiały o serii.',
+      },
+      {
+        id: 'bl-2',
+        title: '„Bolek i Lolek” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Bolek%20i%20Lolek%20kresk%C3%B3wka%20animacja&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o serii.',
+      },
+    ],
+    relatedIds: ['reksio', 'dobranocka', 'akademia-pana-kleksa'],
+  },
+  {
+    id: 'reksio',
+    title: 'Reksio',
+    subtitle: 'Sympatyczny kundelek z podwórka',
+    category: 'kultura',
+    tags: ['film', 'animacja', 'dzieci', 'dobranocka', 'kultura'],
+    yearStart: 1967,
+    yearEnd: 1989,
+    summary: 'Seria animowana o sympatycznym psie Reksiu, produkowana od 1967 w Studiu Filmów Rysunkowych w Bielsku-Białej; z rozpoznawalną czołówką.',
+    content: `## Kreskówka
+„Reksio” to seria animowana o sympatycznym psie, produkowana od 1967 roku w Studiu Filmów Rysunkowych w Bielsku-Białej.
+
+## Bohater
+Mały kundelek Reksio przeżywa przygody na wiejskim podwórku i poza nim, zawsze pełen dobrego serca.
+
+## Muzyka
+Rozpoznawalną, wpadającą w ucho czołówkę skomponował Zenon Kowalowski.
+
+## Bez słów
+Jak wiele polskich kreskówek, opowiadany był bez dialogów – uniwersalnym językiem obrazu.
+
+## Odcinki
+Powstało kilkadziesiąt krótkich epizodów, m.in. „Reksio kompozytor” i „Reksio ratownik”.
+
+## Znaczenie
+Reksio to jeden z najukochańszych bohaterów polskiej animacji dla dzieci.`,
+    trivia: ['Muzykę do czołówki „Reksia” skomponował Zenon Kowalowski.', 'Reksio, jak wiele polskich kreskówek, obywał się bez dialogów.'],
+    resources: [
+      {
+        id: 'rx-yt',
+        title: '„Reksio” – czołówka',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=edXKEjmVGlU',
+        source: 'YouTube',
+        description: 'Kultowa czołówka serii.',
+      },
+      {
+        id: 'rx-1',
+        title: '„Reksio” – bajki',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Reksio+kresk%C3%B3wka+odcinki',
+        source: 'YouTube',
+        description: 'Odcinki i materiały o serii.',
+      },
+      {
+        id: 'rx-2',
+        title: '„Reksio” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Reksio%20kresk%C3%B3wka%20animacja&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o serii.',
+      },
+    ],
+    relatedIds: ['bolek-i-lolek', 'dobranocka', 'akademia-pana-kleksa'],
+  },
+  {
+    id: 'andrzej-grubba',
+    title: 'Andrzej Grubba',
+    subtitle: 'Najwybitniejszy polski pingpongista',
+    category: 'osoby',
+    tags: ['sport', 'tenis stołowy', 'sukces', 'świat'],
+    yearStart: 1978,
+    yearEnd: 1989,
+    summary: 'Najwybitniejszy polski tenisista stołowy, gwiazda światowej czołówki lat 80.; wielokrotny medalista mistrzostw Europy.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej%20Grubba.jpg?width=800',
+    imageCaption: 'Andrzej Grubba – tenisista stołowy.',
+    content: `## Sylwetka
+Andrzej Grubba (1958–2005) to najwybitniejszy polski tenisista stołowy i jedna z gwiazd światowej czołówki lat 80.
+
+## Sukcesy
+Był wielokrotnym medalistą mistrzostw Europy i walczył o medale mistrzostw świata.
+
+## Ranking
+Przez lata utrzymywał się w ścisłej światowej czołówce rankingu tenisa stołowego.
+
+## Styl
+Ofensywny, dynamiczny styl gry czynił go groźnym rywalem dla najlepszych zawodników globu.
+
+## Ambasador
+Rozsławił polski tenis stołowy na arenie międzynarodowej, będąc wzorem dla kolejnych pokoleń.
+
+## Znaczenie
+Grubba to ikona polskiego sportu i najlepszy pingpongista w historii kraju.`,
+    trivia: ['Był wielokrotnym medalistą mistrzostw Europy w tenisie stołowym.', 'Przez lata należał do ścisłej światowej czołówki rankingu.'],
+    resources: [
+      {
+        id: 'ag-yt',
+        title: 'Andrzej Grubba – tenis stołowy',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Andrzej+Grubba+tenis+sto%C5%82owy+mecz',
+        source: 'YouTube',
+        description: 'Nagrania i materiały o zawodniku.',
+      },
+      {
+        id: 'ag-2',
+        title: 'Andrzej Grubba – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Andrzej%20Grubba%20tenis%20sto%C5%82owy&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o zawodniku.',
+      },
+      {
+        id: 'ag-3',
+        title: 'Polski tenis stołowy lat 80.',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=polski+tenis+sto%C5%82owy+lata+80+Grubba',
+        source: 'YouTube',
+        description: 'Materiały o polskim ping-pongu epoki.',
+      },
+    ],
+    relatedIds: ['fibak-wojciech', 'jacek-wszola', 'deyna-kazimierz'],
+  },
+  {
+    id: 'krzysztof-klenczon',
+    title: 'Krzysztof Klenczon',
+    subtitle: 'Kompozytor przebojów big-beatu',
+    category: 'osoby',
+    tags: ['muzyka', 'big-beat', 'rock', 'kompozytor'],
+    yearStart: 1965,
+    yearEnd: 1981,
+    summary: 'Kompozytor, wokalista i gitarzysta, jeden z filarów big-beatu; współtwórca Czerwonych Gitar i autor przebojów jak „Biały krzyż”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krzysztof%20Klenczon.jpg?width=800',
+    imageCaption: 'Krzysztof Klenczon – kompozytor, wokalista i gitarzysta.',
+    content: `## Sylwetka
+Krzysztof Klenczon (1942–1981) to kompozytor, wokalista i gitarzysta, jeden z filarów polskiego big-beatu.
+
+## Czerwone Gitary
+Współtworzył legendarne Czerwone Gitary, komponując wiele największych przebojów zespołu.
+
+## Przeboje
+Spod jego pióra wyszły m.in. „Historia jednej znajomości”, „Biały krzyż”, „Kwiaty we włosach” i „Port”.
+
+## Trzy Korony
+Po odejściu z zespołu założył grupę Trzy Korony i cykl koncertów „Nie przejdziemy do historii”.
+
+## Emigracja
+W latach 70. wyjechał do Stanów Zjednoczonych, gdzie kontynuował działalność muzyczną.
+
+## Znaczenie
+Klenczon to jeden z najważniejszych twórców polskiej muzyki big-beatowej; zginął tragicznie w 1981 roku.`,
+    trivia: ['Skomponował wielkie przeboje Czerwonych Gitar, m.in. „Biały krzyż”.', 'Po odejściu z zespołu założył grupę Trzy Korony.'],
+    resources: [
+      {
+        id: 'kk-yt',
+        title: 'Klenczon / Trzy Korony – „Nie przejdziemy do historii”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Vmn_oyN9VT0',
+        source: 'YouTube',
+        description: 'Utwór z czasów Trzech Koron.',
+      },
+      {
+        id: 'kk-1',
+        title: 'Krzysztof Klenczon – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Krzysztof+Klenczon+Czerwone+Gitary+przeboje',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o artyście.',
+      },
+      {
+        id: 'kk-2',
+        title: 'Krzysztof Klenczon – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Krzysztof%20Klenczon%20muzyk%20kompozytor&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o artyście.',
+      },
+    ],
+    relatedIds: ['czerwone-gitary', 'niemen-czeslaw', 'festiwal-opole'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -22958,4 +23182,8 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1980, event: 'Początek emisji serialu „Dom” Jana Łomnickiego', category: 'kultura', entryId: 'dom-serial' },
   { year: 1984, event: 'Premiera „Akademii Pana Kleksa” – hit z ponad 10 mln widzów', category: 'kultura', entryId: 'akademia-pana-kleksa' },
   { year: 1987, event: 'Andrzej Zaucha – przebój „C\'est la vie – Paryż z pocztówki”', category: 'kultura', entryId: 'andrzej-zaucha' },
+  { year: 1964, event: 'Debiut kreskówki „Bolek i Lolek” (Studio Filmów Rysunkowych)', category: 'kultura', entryId: 'bolek-i-lolek' },
+  { year: 1967, event: 'Debiut kreskówki „Reksio”', category: 'kultura', entryId: 'reksio' },
+  { year: 1971, event: 'Krzysztof Klenczon zakłada Trzy Korony po odejściu z Czerwonych Gitar', category: 'kultura', entryId: 'krzysztof-klenczon' },
+  { year: 1984, event: 'Andrzej Grubba w światowej czołówce tenisa stołowego', category: 'społeczeństwo', entryId: 'andrzej-grubba' },
 ];
