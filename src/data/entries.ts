@@ -11279,6 +11279,14 @@ Mimo szykan obchody milenijne zgromadziły tłumy wiernych i stały się wielką
 Milenium 1966 umocniło pozycję Kościoła i prymasa Wyszyńskiego, pokazując granice wpływu komunistycznego państwa na duchowość Polaków.`,
     resources: [
       {
+        id: 'mil-pkf',
+        title: 'Polska Kronika Filmowa – obchody Tysiąclecia (1966)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+Tysi%C4%85clecie+Pa%C5%84stwa+Polskiego+1966',
+        source: 'YouTube',
+        description: 'Kroniki filmowe z państwowych obchodów Tysiąclecia w 1966 roku.',
+      },
+      {
         id: 'mil-1',
         title: 'Dokumenty obchodów milenijnych – IPN',
         type: 'dokument',
@@ -14422,6 +14430,14 @@ W 1980 roku Huta Katowice stała się jednym z ważnych ośrodków rodzącej si�
 Huta Katowice to symbol rozmachu i zarazem słabości gospodarki PRL – wielkich inwestycji finansowanych długiem, które nie uchroniły kraju przed załamaniem.`,
     resources: [
       {
+        id: 'hk-pkf',
+        title: 'Polska Kronika Filmowa – budowa Huty Katowice',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=bhmDI3TRf2I',
+        source: 'YouTube',
+        description: 'Kronika z budowy pierwszego wielkiego pieca Huty Katowice.',
+      },
+      {
         id: 'hk-1',
         title: 'Huta Katowice – materiały',
         type: 'publikacja',
@@ -14523,6 +14539,14 @@ Akcja była przedsięwzięciem zarazem oświatowym i propagandowym – łączył
 ## Znaczenie
 Szkoły Tysiąclecia to przykład, jak władze PRL wykorzystywały realne inwestycje społeczne do rywalizacji z Kościołem o „rząd dusz”.`,
     resources: [
+      {
+        id: 'szt-pkf',
+        title: 'Polska Kronika Filmowa – szkoły Tysiąclecia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+Tysi%C4%85c+szk%C3%B3%C5%82+na+Tysi%C4%85clecie',
+        source: 'YouTube',
+        description: 'Kroniki filmowe o akcji budowy szkół na Tysiąclecie.',
+      },
       {
         id: 'st-1',
         title: 'Szkoły Tysiąclecia – materiały',
@@ -16055,6 +16079,14 @@ Poloneza eksportowano, a produkcję (w zmienianych wersjach) kontynuowano przez 
 FSO i Polonez symbolizują ambicje i ograniczenia przemysłu PRL – techniczny postęp realizowany w warunkach gospodarki niedoboru.`,
     resources: [
       {
+        id: 'fso-pkf',
+        title: 'Polska Kronika Filmowa – FSO i motoryzacja',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+FSO+%C5%BBera%C5%84+samoch%C3%B3d+produkcja',
+        source: 'YouTube',
+        description: 'Kroniki filmowe o Fabryce Samochodów Osobowych na Żeraniu.',
+      },
+      {
         id: 'fso-1',
         title: 'FSO i Polonez – materiały',
         type: 'publikacja',
@@ -17023,6 +17055,14 @@ Obywatele stracili znaczną część zgromadzonych pieniędzy. Operacja podkopa�
 ## Znaczenie
 Reforma 1950 to przykład, jak komunistyczne państwo wykorzystywało aparat finansowy jako narzędzie represji ekonomicznej wobec własnych obywateli.`,
     resources: [
+      {
+        id: 'wpz-pkf',
+        title: 'Polska Kronika Filmowa – reforma walutowa 1950',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=HFliKZ_UXps',
+        source: 'YouTube',
+        description: 'Kronika filmowa o wymianie pieniędzy i reformie walutowej.',
+      },
       {
         id: 'wp-1',
         title: 'Reforma walutowa 1950 – materiały IPN',
@@ -18863,6 +18903,14 @@ Sukces przyszedł w ponurym okresie stanu wojennego i był dla Polaków źródł
 ## Znaczenie
 Mundial 1982, obok 1974, to szczyt osiągnięć polskiej piłki; pokolenie Bońka, Laty i Smolarka zapisało się w historii sportu.`,
     resources: [
+      {
+        id: 'm82-pkf',
+        title: 'Polska Kronika Filmowa – Mundial 1982',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+mundial+1982+Hiszpania+reprezentacja',
+        source: 'YouTube',
+        description: 'Kroniki filmowe z mistrzostw świata 1982 w Hiszpanii.',
+      },
       {
         id: 'm82-yt',
         title: 'Mundial 1982 – Polska, gole Bońka',
