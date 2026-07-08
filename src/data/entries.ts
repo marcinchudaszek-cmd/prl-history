@@ -23175,6 +23175,227 @@ Krajewski to jeden z najważniejszych polskich twórców piosenki i symbol melod
     ],
     relatedIds: ['czerwone-gitary', 'krzysztof-klenczon', 'festiwal-opole'],
   },
+  {
+    id: 'wesele-film',
+    title: 'Wesele',
+    subtitle: 'Wajdy wizja dramatu Wyspiańskiego',
+    category: 'kultura',
+    tags: ['film', 'kino', 'ekranizacja', 'symbolizm'],
+    yearStart: 1973,
+    summary: 'Ekranizacja dramatu Stanisława Wyspiańskiego w reżyserii Andrzeja Wajdy (1973); narodowy dramat o marazmie i niemocy, zwieńczony hipnotycznym chocholim tańcem.',
+    content: `## Film
+„Wesele” (1973) w reżyserii Andrzeja Wajdy to sugestywna ekranizacja dramatu Stanisława Wyspiańskiego.
+
+## Fabuła
+Na weselu inteligenta z chłopką, w podkrakowskich Bronowicach, zjawiają się widma i zjawy narodowej historii.
+
+## Symbolika
+Film to obraz narodowych mitów, marazmu i niemocy; kulminacją jest hipnotyczny, senny „chocholi taniec”.
+
+## Miałeś chamie złoty róg
+Finałowa pieśń Chochoła (głosem Czesława Niemena) i utrata złotego rogu to symbol zaprzepaszczonej szansy.
+
+## Obsada
+Wystąpili m.in. Daniel Olbrychski, Ewa Ziętek i Andrzej Łapicki.
+
+## Znaczenie
+To jedno z arcydzieł Wajdy i wybitna filmowa wizualizacja polskiego dramatu narodowego.`,
+    trivia: ['Finałowy „chocholi taniec” to jeden z najsłynniejszych obrazów polskiego kina.', 'Pieśń Chochoła „Miałeś chamie złoty róg” wykonał Czesław Niemen.'],
+    resources: [
+      {
+        id: 'we-yt',
+        title: '„Wesele” – chocholi taniec',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=41n82Du0Vg8',
+        source: 'YouTube',
+        description: 'Finałowa scena filmu Wajdy.',
+      },
+      {
+        id: 'we-1',
+        title: '„Wesele” – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Wesele+1973+Wajda+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'we-2',
+        title: '„Wesele” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Wesele%20film%201973%20Wajda%20Wyspia%C5%84ski&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['popiol-i-diament', 'czlowiek-z-marmuru', 'niemen-czeslaw'],
+  },
+  {
+    id: 'andrzej-rosiewicz',
+    title: 'Andrzej Rosiewicz',
+    subtitle: 'Piosenka, satyra i „Najwięcej witaminy”',
+    category: 'osoby',
+    tags: ['muzyka', 'estrada', 'satyra', 'kabaret'],
+    yearStart: 1976,
+    yearEnd: 1989,
+    summary: 'Piosenkarz, satyryk i showman; przebój „Najwięcej witaminy” wygrał „Premiery” na festiwalu w Opolu w 1980 roku.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej%20Rosiewicz.jpg?width=800',
+    imageCaption: 'Andrzej Rosiewicz – piosenkarz i satyryk.',
+    content: `## Sylwetka
+Andrzej Rosiewicz (ur. 1946) to piosenkarz, satyryk, kompozytor i showman o niepohamowanej energii scenicznej.
+
+## Najwięcej witaminy
+Jego przebój „Najwięcej witaminy mają polskie dziewczyny” wygrał konkurs „Premiery” na festiwalu w Opolu w 1980 roku.
+
+## Humor
+Łączył muzykę z dowcipem, pastiszem i błyskotliwą satyrą obyczajową.
+
+## Przeboje
+W dorobku ma też m.in. „Chały” i „Sportowa 5”.
+
+## Estrada
+Barwny, ekscentryczny wykonawca stał się rozpoznawalnym znakiem firmowym estrady lat 80.
+
+## Znaczenie
+To jeden z najoryginalniejszych i najbardziej rozrywkowych artystów epoki.`,
+    trivia: ['„Najwięcej witaminy mają polskie dziewczyny” wygrało „Premiery” w Opolu 1980.', 'Łączył piosenkę z satyrą, pastiszem i scenicznym humorem.'],
+    resources: [
+      {
+        id: 'ar2-yt',
+        title: 'Andrzej Rosiewicz – „Najwięcej witaminy”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=QskK0NZB-60',
+        source: 'YouTube',
+        description: 'Największy przebój artysty.',
+      },
+      {
+        id: 'ar2-1',
+        title: 'Andrzej Rosiewicz – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Andrzej+Rosiewicz+przeboje+koncert',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o artyście.',
+      },
+      {
+        id: 'ar2-2',
+        title: 'Andrzej Rosiewicz – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Andrzej%20Rosiewicz%20piosenkarz%20satyryk&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o artyście.',
+      },
+    ],
+    relatedIds: ['maryla-rodowicz', 'festiwal-opole', 'zbigniew-wodecki'],
+  },
+  {
+    id: 'dyskoteka-prl',
+    title: 'Dyskoteki i dancingi',
+    subtitle: 'Parkiet, didżej i zachodnie przeboje',
+    category: 'społeczeństwo',
+    tags: ['życie codzienne', 'młodzież', 'rozrywka', 'muzyka'],
+    yearStart: 1970,
+    yearEnd: 1989,
+    summary: 'Dyskoteki i dancingi były głównym miejscem młodzieżowej rozrywki lat 70. i 80.; królowały tam zachodnie przeboje zdobywane „spod lady”.',
+    content: `## Rozrywka młodzieży
+Dyskoteki i dancingi były głównym miejscem młodzieżowej rozrywki, zwłaszcza w latach 70. i 80.
+
+## Didżej i sprzęt
+Didżej puszczał płyty – często zachodnie, zdobywane „spod lady” – na skromnym, lecz cennym sprzęcie.
+
+## Muzyka
+Na parkietach królowały disco, italo-disco i polski pop: Papa Dance, Boney M., ABBA.
+
+## Kluby
+Dyskoteki działały w domach kultury, klubach studenckich i nadmorskich kurortach.
+
+## Moda
+Kolorowe stroje, dżinsy i „bananowa” młodzież nadawały ton parkietom.
+
+## Znaczenie
+Dyskoteka to symbol młodzieżowej rozrywki i tęsknoty za zachodnim stylem życia.`,
+    trivia: ['Na dyskotekach królowały zachodnie przeboje zdobywane „spod lady”.', 'Didżeje puszczali płyty w domach kultury, klubach studenckich i kurortach.'],
+    resources: [
+      {
+        id: 'dy-yt',
+        title: 'Dyskoteki PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=dyskoteka+PRL+lata+80+dancing',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o dyskotekach.',
+      },
+      {
+        id: 'dy-wk',
+        title: 'Dyskoteka – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=dyskoteka%20dancing%20PRL%20rozrywka&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania.',
+      },
+      {
+        id: 'dy-2',
+        title: 'Muzyka taneczna lat 80.',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=italo+disco+polski+pop+lata+80',
+        source: 'YouTube',
+        description: 'Materiały o muzyce dyskotek epoki.',
+      },
+    ],
+    relatedIds: ['moda-prl', 'papa-dance', 'zycie-codzienne'],
+  },
+  {
+    id: 'baltona',
+    title: 'Baltona',
+    subtitle: 'Zachodnie towary za dewizy i bony',
+    category: 'gospodarka',
+    tags: ['handel', 'dewizy', 'deficyt', 'życie codzienne'],
+    yearStart: 1946,
+    yearEnd: 1989,
+    summary: 'Przedsiębiorstwo prowadzące sklepy z zachodnimi towarami za waluty wymienialne i bony; obok Pewexu symbol dwuwalutowej gospodarki PRL.',
+    content: `## Sieć
+Baltona to przedsiębiorstwo prowadzące sklepy z towarami sprzedawanymi za waluty wymienialne i bony towarowe.
+
+## Dla marynarzy
+Początkowo zaopatrywała marynarzy i statki handlowe; z czasem sklepy stały się dostępne dla posiadaczy dewiz.
+
+## Deficyty z Zachodu
+Podobnie jak Pewex, oferowała zachodnie towary: elektronikę, alkohole, papierosy i kosmetyki.
+
+## Bony
+Płaciło się bonami towarowymi lub walutą wymienialną – złotówki tu nie wystarczały.
+
+## Luksus
+Zakupy w Baltonie były oznaką dostępu do „lepszego świata” niedostępnego w zwykłych sklepach.
+
+## Znaczenie
+Baltona to symbol dwuwalutowej gospodarki PRL i wszechobecnego deficytu towarów.`,
+    trivia: ['Baltona, podobnie jak Pewex, sprzedawała zachodnie towary za dewizy i bony.', 'Początkowo zaopatrywała marynarzy i statki handlowe.'],
+    resources: [
+      {
+        id: 'ba-yt',
+        title: 'Baltona i Pewex – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Baltona+Pewex+PRL+sklepy+dewizowe',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o handlu dewizowym.',
+      },
+      {
+        id: 'ba-wk',
+        title: 'Baltona – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Baltona%20przedsi%C4%99biorstwo%20dewizowe%20PRL&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania.',
+      },
+      {
+        id: 'ba-2',
+        title: 'Handel dewizowy w PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=handel+dewizowy+bony+PRL+Pewex',
+        source: 'YouTube',
+        description: 'Materiały o dwuwalutowej gospodarce.',
+      },
+    ],
+    relatedIds: ['pewex', 'kartki-prl', 'kolejki-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -23411,4 +23632,6 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1972, event: 'Debiut kreskówki „Przygody kota Filemona”', category: 'kultura', entryId: 'filemon-kot' },
   { year: 1975, event: 'Debiut dobranocki „Miś Uszatek”', category: 'kultura', entryId: 'mis-uszatek' },
   { year: 1970, event: 'Seweryn Krajewski – przeboje Czerwonych Gitar („Anna Maria”)', category: 'kultura', entryId: 'seweryn-krajewski' },
+  { year: 1973, event: 'Premiera „Wesela” Andrzeja Wajdy wg Wyspiańskiego', category: 'kultura', entryId: 'wesele-film' },
+  { year: 1980, event: 'Andrzej Rosiewicz wygrywa „Premiery” w Opolu z „Najwięcej witaminy”', category: 'kultura', entryId: 'andrzej-rosiewicz' },
 ];
