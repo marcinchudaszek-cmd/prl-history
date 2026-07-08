@@ -281,4 +281,14 @@ export const mapLocations: MapLocation[] = [
     description: '„Mały Katyń” – w obławie NKWD i komunistów zaginęło ok. 600 osób, których losu nie wyjaśniono.',
     entryId: 'oblawa-augustowska',
   },
+  {
+    id: 'loc-jelenia-gora',
+    name: 'Jelenia Góra',
+    city: 'Jelenia Góra',
+    lon: 15.72, lat: 50.90,
+    type: 'kultura', year: '1975',
+    description: 'Brama w Karkonosze; od 1975 stolica województwa, ośrodek przemysłu, uzdrowiska (Cieplice) i teatru.',
+    entryId: 'jelenia-gora',
+  },
+
 ];

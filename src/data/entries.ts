@@ -23396,6 +23396,229 @@ Baltona to symbol dwuwalutowej gospodarki PRL i wszechobecnego deficytu towarów
     ],
     relatedIds: ['pewex', 'kartki-prl', 'kolejki-prl'],
   },
+  {
+    id: 'jelenia-gora',
+    title: 'Jelenia Góra',
+    subtitle: 'Brama w Karkonosze i stolica województwa',
+    category: 'społeczeństwo',
+    tags: ['miasto', 'Dolny Śląsk', 'przemysł', 'uzdrowisko', 'turystyka'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Miasto w Kotlinie Jeleniogórskiej u stóp Karkonoszy; od 1975 stolica województwa, ośrodek przemysłu, uzdrowiska (Cieplice) i turystyki.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jelenia%20Gora%20panorama%20HDR.jpg?width=800',
+    imageCaption: 'Panorama Jeleniej Góry u stóp Karkonoszy.',
+    content: `## Miasto
+Jelenia Góra to miasto w malowniczej Kotlinie Jeleniogórskiej u stóp Karkonoszy, jeden z ważniejszych ośrodków Dolnego Śląska.
+
+## Stolica województwa
+W 1975 roku, po reformie administracyjnej, Jelenia Góra została stolicą osobnego województwa jeleniogórskiego.
+
+## Przemysł
+Działały tu m.in. zakłady farmaceutyczne Jelfa, przemysł optyczny oraz Celwiskoza produkująca włókna sztuczne.
+
+## Czarny Trójkąt
+Wraz z pobliskimi elektrowniami region współtworzył „Czarny Trójkąt” – jeden z najbardziej zanieczyszczonych obszarów ówczesnej Europy.
+
+## Cieplice i kultura
+Uzdrowiskowa dzielnica Cieplice oraz Jeleniogórskie Spotkania Teatralne przyciągały kuracjuszy i miłośników teatru.
+
+## Znaczenie
+Jelenia Góra to brama w Karkonosze i ważny ośrodek łączący przemysł, uzdrowisko i masową turystykę.`,
+    trivia: ['Od 1975 do 1998 Jelenia Góra była stolicą osobnego województwa jeleniogórskiego.', 'Region należał do „Czarnego Trójkąta” – obszaru silnie zanieczyszczonego przez przemysł.'],
+    resources: [
+      {
+        id: 'jg-yt',
+        title: 'Jelenia Góra w PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Jelenia+G%C3%B3ra+PRL+archiwalne+miasto',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o mieście.',
+      },
+      {
+        id: 'jg-wk',
+        title: 'Jelenia Góra – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Jelenia%20G%C3%B3ra%20historia%20miasto&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o mieście.',
+      },
+      {
+        id: 'jg-2',
+        title: 'Karkonosze i Dolny Śląsk – PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Karkonosze+Dolny+%C5%9Al%C4%85sk+PRL+turystyka',
+        source: 'YouTube',
+        description: 'Materiały o regionie.',
+      },
+    ],
+    relatedIds: ['karkonosze', 'wczasy-fwp', 'nowa-huta'],
+  },
+  {
+    id: 'karkonosze',
+    title: 'Karkonosze',
+    subtitle: 'Najwyższe Sudety i Śnieżka',
+    category: 'społeczeństwo',
+    tags: ['góry', 'turystyka', 'Dolny Śląsk', 'wczasy', 'natura'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Najwyższe pasmo Sudetów z kulminacją na Śnieżce (1603 m); jeden z najpopularniejszych rejonów turystycznych PRL, latem i zimą.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/%C5%9Anie%C5%BCka%20z%20zachodu.jpg?width=800',
+    imageCaption: 'Śnieżka (1603 m) – najwyższy szczyt Karkonoszy.',
+    content: `## Góry
+Karkonosze to najwyższe pasmo Sudetów, z kulminacją na Śnieżce liczącej 1603 m n.p.m.
+
+## Turystyka
+Był to jeden z najpopularniejszych rejonów turystycznych PRL, tłumnie odwiedzany przez cały rok.
+
+## Schroniska
+Celem wędrówek były górskie schroniska, jak Samotnia czy Strzecha Akademicka.
+
+## Śnieżka
+Na szczycie Śnieżki stanęło charakterystyczne obserwatorium meteorologiczne o futurystycznym kształcie.
+
+## Zima
+Ośrodki jak Szklarska Poręba i Karpacz przyciągały narciarzy z całego kraju.
+
+## Znaczenie
+Karkonosze to góry masowej turystyki PRL, dostępne dzięki wczasom FWP i tanim wyjazdom.`,
+    trivia: ['Najwyższy szczyt Karkonoszy, Śnieżka, ma 1603 m n.p.m.', 'Obserwatorium na Śnieżce ma futurystyczny kształt przypominający „latające spodki”.'],
+    resources: [
+      {
+        id: 'ka-yt',
+        title: 'Karkonosze – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Karkonosze+%C5%9Anie%C5%BCka+PRL+turystyka+schronisko',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o górach.',
+      },
+      {
+        id: 'ka-wk',
+        title: 'Karkonosze – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Karkonosze%20Sudety%20%C5%9Anie%C5%BCka&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania.',
+      },
+      {
+        id: 'ka-2',
+        title: 'Wczasy i turystyka górska PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=wczasy+g%C3%B3ry+PRL+turystyka+schroniska',
+        source: 'YouTube',
+        description: 'Materiały o turystyce górskiej epoki.',
+      },
+    ],
+    relatedIds: ['jelenia-gora', 'wczasy-fwp', 'orbis-turystyka'],
+  },
+  {
+    id: 'klaus-mitffoch',
+    title: 'Klaus Mitffoch',
+    subtitle: 'Wrocławska nowa fala Lecha Janerki',
+    category: 'kultura',
+    tags: ['muzyka', 'nowa fala', 'rock', 'Wrocław', 'Dolny Śląsk'],
+    yearStart: 1979,
+    yearEnd: 1985,
+    summary: 'Wrocławski zespół nowej fali założony w 1979 przez Lecha Janerkę; jego przełomowy album (1984) i przebój „Jezu jak się cieszę” to klasyka gatunku.',
+    content: `## Zespół
+Klaus Mitffoch to wrocławski zespół nowej fali, założony w 1979 roku przez Lecha Janerkę.
+
+## Nowa fala
+Grupę wyróżniało surowe, oszczędne brzmienie oraz przewrotne, inteligentne teksty.
+
+## Jezu jak się cieszę
+Największy przebój zespołu – paradoksalnie muzycy go nie lubili i pominęli na debiutanckiej płycie.
+
+## Płyta
+Album „Klaus Mitffoch” (1984) uchodzi za jeden z przełomowych w historii polskiej muzyki.
+
+## Lech Janerka
+Lider zespołu, później ceniony artysta solowy (m.in. „Bez ciebie umieram”).
+
+## Znaczenie
+To kultowy zespół polskiej nowej fali, wpływowy mimo krótkiego istnienia.`,
+    trivia: ['Największy przebój „Jezu jak się cieszę” nie trafił na debiutancki album zespołu.', 'Liderem grupy był Lech Janerka, późniejszy artysta solowy.'],
+    resources: [
+      {
+        id: 'km-yt',
+        title: 'Klaus Mitffoch – „Jezu jak się cieszę”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=5LPd6BHy8Io',
+        source: 'YouTube',
+        description: 'Największy przebój zespołu (1984).',
+      },
+      {
+        id: 'km-1',
+        title: 'Klaus Mitffoch – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Klaus+Mitffoch+Janerka+nowa+fala',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o zespole.',
+      },
+      {
+        id: 'km-2',
+        title: 'Klaus Mitffoch – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Klaus%20Mitffoch%20zesp%C3%B3%C5%82%20nowa%20fala%20Wroc%C5%82aw&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o zespole.',
+      },
+    ],
+    relatedIds: ['dezerter-zespol', 'republika-zespol', 'maanam-zespol'],
+  },
+  {
+    id: 'sanatorium-pod-klepsydra',
+    title: 'Sanatorium pod klepsydrą',
+    subtitle: 'Oniryczne arcydzieło Hasa wg Schulza',
+    category: 'kultura',
+    tags: ['film', 'kino', 'oniryzm', 'ekranizacja'],
+    yearStart: 1973,
+    summary: 'Oniryczna ekranizacja prozy Brunona Schulza w reżyserii Wojciecha Hasa (1973); labiryntowa feeria obrazów, nagrodzona w Cannes.',
+    content: `## Film
+„Sanatorium pod klepsydrą” (1973) w reżyserii Wojciecha Jerzego Hasa to oniryczna, wizyjna ekranizacja prozy Brunona Schulza.
+
+## Fabuła
+Józef odwiedza sanatorium, w którym czas płynie inaczej, a jego zmarły ojciec wciąż pozostaje przy życiu.
+
+## Wizja
+Labiryntowa, senna sceneria oraz feeria obrazów i kostiumów czynią z filmu arcydzieło wyobraźni.
+
+## Schulz
+To adaptacja opowiadań ze zbioru „Sanatorium pod klepsydrą” Brunona Schulza.
+
+## Cannes
+Film otrzymał nagrodę Jury na festiwalu w Cannes (1973), mimo niechęci ówczesnych władz.
+
+## Znaczenie
+To jeden z najbardziej oryginalnych wizualnie filmów w historii polskiego kina.`,
+    trivia: ['Film to oniryczna ekranizacja prozy Brunona Schulza.', 'Otrzymał nagrodę Jury na festiwalu w Cannes w 1973 roku.'],
+    resources: [
+      {
+        id: 'sk2-yt',
+        title: '„Sanatorium pod klepsydrą” – zwiastun',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=GaR5LcUi30Q',
+        source: 'YouTube',
+        description: 'Zwiastun filmu Hasa.',
+      },
+      {
+        id: 'sk2-1',
+        title: '„Sanatorium pod klepsydrą” – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Sanatorium+pod+klepsydr%C4%85+Has+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'sk2-2',
+        title: '„Sanatorium pod klepsydrą” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Sanatorium%20pod%20klepsydr%C4%85%20film%20Has%20Schulz&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['wesele-film', 'noz-w-wodzie', 'czlowiek-z-marmuru'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -23634,4 +23857,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1970, event: 'Seweryn Krajewski – przeboje Czerwonych Gitar („Anna Maria”)', category: 'kultura', entryId: 'seweryn-krajewski' },
   { year: 1973, event: 'Premiera „Wesela” Andrzeja Wajdy wg Wyspiańskiego', category: 'kultura', entryId: 'wesele-film' },
   { year: 1980, event: 'Andrzej Rosiewicz wygrywa „Premiery” w Opolu z „Najwięcej witaminy”', category: 'kultura', entryId: 'andrzej-rosiewicz' },
+  { year: 1973, event: 'Premiera „Sanatorium pod klepsydrą” Wojciecha Hasa – nagroda w Cannes', category: 'kultura', entryId: 'sanatorium-pod-klepsydra' },
+  { year: 1975, event: 'Reforma administracyjna – Jelenia Góra stolicą województwa', category: 'społeczeństwo', entryId: 'jelenia-gora' },
+  { year: 1984, event: 'Klaus Mitffoch wydaje przełomowy album nowej fali', category: 'kultura', entryId: 'klaus-mitffoch' },
 ];
