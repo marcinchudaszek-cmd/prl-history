@@ -2195,6 +2195,14 @@ Pałac wznosił się na miejscu przedwojennej zabudowy Śródmieścia, wyburzone
 Po upadku PRL usunięto z nazwy człon upamiętniający Stalina. Dyskusja o wyburzeniu lub przebudowie gmachu toczyła się przez lata. Dziś Pałac Kultury i Nauki wpisany jest na listę zabytków i pozostaje ikoną warszawskiej panoramy.`,
     resources: [
       {
+        id: 'pk-pkf',
+        title: 'Polska Kronika Filmowa – budowa PKiN',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=D1Be6gVtjbQ',
+        source: 'YouTube',
+        description: 'Kronika filmowa z budowy Pałacu Kultury i Nauki (1952–1955).',
+      },
+      {
         id: 'pkwn-pki-1',
         title: 'Pałac Kultury i Nauki – historia budowy',
         type: 'publikacja',
@@ -2675,6 +2683,14 @@ Realizacja planu wymagała ogromnych wyrzeczeń. Normy pracy rosły, płace real
 **Czerwiec 1956 – rachunek za plan:**
 Wybuch robotniczego buntu w Poznaniu w czerwcu 1956 roku był bezpośrednią reakcją na przeciążenie normami pracy i pauperyzację robotników. Strajkujący krzyczeli: "Chleba i wolności!"`,
     resources: [
+      {
+        id: 'p6-pkf',
+        title: 'Polska Kronika Filmowa – plan sześcioletni',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+plan+sze%C5%9Bcioletni',
+        source: 'YouTube',
+        description: 'Kroniki filmowe o realizacji planu sześcioletniego.',
+      },
       {
         id: 'plan6-1',
         title: 'Plan sześcioletni – dokumenty archiwalne',
@@ -10730,6 +10746,14 @@ Największym idolem był Ryszard Szurkowski, wielokrotny zwycięzca i symbol pol
 Wraz z przemianami 1989 r. Wyścig Pokoju stracił polityczny kontekst i dawną rangę. Organizowano go jeszcze w kolejnych dekadach, lecz nigdy nie odzyskał znaczenia z czasów PRL. Pozostał symbolem epoki, w której sport i polityka były ściśle splecione.`,
     resources: [
       {
+        id: 'wp-pkf',
+        title: 'Polska Kronika Filmowa – Wyścig Pokoju',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=jQ-SLrG3ZoE',
+        source: 'YouTube',
+        description: 'Kroniki filmowe z Wyścigu Pokoju.',
+      },
+      {
         id: 'wyp-1',
         title: 'Relacje z Wyścigu Pokoju – NINATEKA',
         type: 'film',
@@ -10841,6 +10865,14 @@ Bitwa o handel zniszczyła warstwę drobnych przedsiębiorców i kupców, zmieni
 
 „Bitwa o handel” była jednym z kluczowych etapów stalinizacji gospodarki polskiej, obok nacjonalizacji przemysłu i kolektywizacji wsi. Symbolizuje podporządkowanie życia gospodarczego ideologii i państwu.`,
     resources: [
+      {
+        id: 'boh-pkf',
+        title: 'Polska Kronika Filmowa – bitwa o handel',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+bitwa+o+handel+prywatny',
+        source: 'YouTube',
+        description: 'Kroniki filmowe z okresu bitwy o handel.',
+      },
       {
         id: 'boh-1',
         title: 'Dokumenty polityki gospodarczej – archiwa',
@@ -13652,6 +13684,14 @@ W latach 80. stadion popadał w ruinę. Po 1989 roku stał się słynnym targowi
 Dzieje stadionu odzwierciedlają losy PRL – od propagandowej dumy, przez codzienność i protest, po schyłek systemu.`,
     resources: [
       {
+        id: 'sd-pkf',
+        title: 'Polska Kronika Filmowa – Stadion Dziesięciolecia (1955)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=9CSWnC5MvmQ',
+        source: 'YouTube',
+        description: 'Kronika filmowa z 1955 roku związana z otwarciem stadionu.',
+      },
+      {
         id: 'sd-1',
         title: 'Stadion Dziesięciolecia – archiwalia',
         type: 'nagranie',
@@ -14118,6 +14158,14 @@ Dla wielu pochód był uciążliwym obowiązkiem, znoszonym z dystansem i ironi�
 ## Znaczenie
 Pochody pierwszomajowe to symbol propagandowej obrzędowości PRL – spektaklu „jedności”, za którym kryła się przymusowa mobilizacja społeczeństwa.`,
     resources: [
+      {
+        id: 'm1-pkf',
+        title: 'Polska Kronika Filmowa – 1 Maja 1953',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/7543',
+        source: 'Filmoteka Narodowa',
+        description: 'Pochód pierwszomajowy 1953 w Polskiej Kronice Filmowej (Repozytorium FN).',
+      },
       {
         id: 'maj-1',
         title: 'Pochody 1 Maja – archiwalia',
