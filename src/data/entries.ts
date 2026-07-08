@@ -1680,6 +1680,14 @@ ZOMO rozwiązano na przełomie 1989 i 1990 roku wraz z reformą milicji i przeks
 **Ocena historyczna** — Manifest był fundamentem prawnym PRL-owskiego porządku ustrojowego — aktem narzuconym Polakom bez żadnych demokratycznych procedur, zatwierdzonym przez Stalina w Moskwie.`,
     resources: [
       {
+        id: 'pkwn-pkf',
+        title: 'Polska Kronika Filmowa – PKWN i 22 lipca',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+PKWN+22+lipca+1944+manifest',
+        source: 'YouTube',
+        description: 'Kroniki filmowe o PKWN i rocznicach 22 lipca.',
+      },
+      {
         id: 'pkwn-1',
         title: 'Manifest PKWN – tekst i komentarz historyczny (IPN)',
         type: 'dokument',
@@ -2921,6 +2929,14 @@ Wyniki ogłoszone przez władze: 68% TAK na pierwsze pytanie. Dokumenty odkryte 
 Oszukańcze referendum utorowało drogę do sfałszowanych wyborów w styczniu 1947 roku i pełnego przejęcia władzy przez komunistów. PSL i Mikołajczyk zostali politycznie rozbici. W 1947 roku Mikołajczyk uciekł z Polski.`,
     resources: [
       {
+        id: 'ref-pkf',
+        title: 'Polska Kronika Filmowa – referendum 1946',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+referendum+1946+3+razy+tak',
+        source: 'YouTube',
+        description: 'Kroniki filmowe z propagandy referendum ludowego 1946.',
+      },
+      {
         id: 'ref46-1',
         title: 'Referendum 1946 – Polskie Miesiące IPN',
         type: 'publikacja',
@@ -3097,6 +3113,14 @@ Prawdziwa historia tych ziem – wielokulturowa, złożona, pełna traumy – za
 
 Zachodnia granica na Odrze i Nysie była przez dekady kontestowana przez RFN. Ostateczne uznanie jej nastąpiło dopiero w 1990 roku – Traktatem 2+4 między dwoma Niemcami a czterema mocarstwami, a następnie polsko-niemieckim traktatem granicznym.`,
     resources: [
+      {
+        id: 'zo-pkf',
+        title: 'Polska Kronika Filmowa – Wystawa Ziem Odzyskanych 1948',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=wCZaDC7GfDU',
+        source: 'YouTube',
+        description: 'Kronika z Wystawy Ziem Odzyskanych we Wrocławiu (1948).',
+      },
       {
         id: 'ziemie-polona',
         title: 'Ziemie Odzyskane – prasa i dokumenty (Polona)',
@@ -3283,6 +3307,14 @@ W 1947 roku ogłoszono "bitwę o handel" – kampanię przeciw prywatnym kupcom 
 **Skutki:**
 Nacjonalizacja zniszczyła klasę przedsiębiorców i kupców. Gospodarka stała się całkowicie zależna od państwowego planowania. Efektywność gospodarki dramatycznie spadła – pierwsze skutki odczuto już w latach 50.`,
     resources: [
+      {
+        id: 'nac-pkf',
+        title: 'Polska Kronika Filmowa – nacjonalizacja przemysłu',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+nacjonalizacja+przemys%C5%82u+1946',
+        source: 'YouTube',
+        description: 'Kroniki filmowe o przejmowaniu przemysłu przez państwo.',
+      },
       {
         id: 'nacj-1',
         title: 'Ustawa nacjonalizacyjna 1946 – ISAP Sejm',
@@ -14226,6 +14258,14 @@ Z okazji 22 lipca ogłaszano amnestie, niekiedy obejmujące więźniów politycz
 Święto 22 Lipca to symbol legitymizacji systemu przez odwołanie do Manifestu PKWN. Po 1989 roku zniesiono je, przywracając Święto Niepodległości 11 Listopada.`,
     resources: [
       {
+        id: 's22-pkf',
+        title: 'Polska Kronika Filmowa – obchody 22 lipca',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+22+lipca+defilada+obchody',
+        source: 'YouTube',
+        description: 'Kroniki filmowe z państwowych obchodów 22 lipca.',
+      },
+      {
         id: 'lip-1',
         title: '22 Lipca – archiwalia',
         type: 'nagranie',
@@ -15057,6 +15097,14 @@ W drużynie błyszczeli m.in. Tomasz Wójtowicz, Edward Skorek, Wiesław Gawłow
 ## Znaczenie
 Sukcesy siatkarzy z lat 70. były źródłem narodowej dumy i punktem odniesienia dla kolejnych pokoleń. Postać Huberta Wagnera stała się symbolem zwycięskiej woli walki.`,
     resources: [
+      {
+        id: 'siat-pkf',
+        title: 'Polska Kronika Filmowa – siatkarze mistrzami świata 1974',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+siatk%C3%B3wka+mistrzostwa+%C5%9Bwiata+1974',
+        source: 'YouTube',
+        description: 'Kroniki filmowe o złocie polskich siatkarzy w 1974 roku.',
+      },
       {
         id: 'siat-1',
         title: 'Siatkówka 1974/1976 – archiwalia',
@@ -18087,6 +18135,14 @@ Mimo nowoczesnej formy treść pozostawała pod kontrolą – obok rozrywki i ku
 Kolorowa telewizja symbolizuje napięcie między technologicznymi ambicjami PRL a realiami niedoboru, w których nowoczesność była luksusem dla nielicznych.`,
     resources: [
       {
+        id: 'tvk-pkf',
+        title: 'Polska Kronika Filmowa – telewizja kolorowa',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+telewizja+kolorowa+1971',
+        source: 'YouTube',
+        description: 'Kroniki filmowe o wprowadzeniu telewizji kolorowej.',
+      },
+      {
         id: 'tk-1',
         title: 'Telewizja kolorowa – materiały',
         type: 'nagranie',
@@ -19828,6 +19884,14 @@ Awans rozpoczął najlepszą erę polskiej piłki – drużyna Kazimierza Górsk
 „Mecz na Wembley” to jedno z najsłynniejszych wydarzeń w historii polskiego sportu i symbol triumfu nad faworytem.`,
     trivia: ['Brian Clough nazwał Tomaszewskiego „clownem” – a ten obronił awans Polski.', 'Gola na 1:0 strzelił Jan Domarski; Anglia wyrównała tylko z karnego.'],
     resources: [
+      {
+        id: 'wem-pkf',
+        title: 'Polska Kronika Filmowa – Wembley 1973',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+Anglia+Polska+1973+Wembley+Tomaszewski',
+        source: 'YouTube',
+        description: 'Kroniki filmowe wokół meczu na Wembley (1973).',
+      },
       {
         id: 'wem-yt',
         title: 'Tomaszewski na Wembley 1973 – obrony',
