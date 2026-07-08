@@ -22067,6 +22067,226 @@ Meblościanka to ikona PRL-owskiego wnętrza i mieszczańskich aspiracji epoki.`
     ],
     relatedIds: ['zycie-codzienne', 'frania-pralka', 'kartki-prl'],
   },
+  {
+    id: 'znachor',
+    title: 'Znachor',
+    subtitle: 'Melodramat Hoffmana o profesorze Wilczurze',
+    category: 'kultura',
+    tags: ['film', 'kino', 'melodramat', 'ekranizacja'],
+    yearStart: 1982,
+    summary: 'Kultowy melodramat Jerzego Hoffmana (1982) wg powieści Dołęgi-Mostowicza; wybitny chirurg traci pamięć i jako wiejski „znachor” ratuje ludzi.',
+    content: `## Film
+„Znachor” (1982) w reżyserii Jerzego Hoffmana to jeden z najsłynniejszych polskich melodramatów, ekranizacja przedwojennej powieści Tadeusza Dołęgi-Mostowicza.
+
+## Fabuła
+Wybitny chirurg, profesor Rafał Wilczur, po brutalnym napadzie traci pamięć i jako wiejski „znachor” Antoni Kosiba ratuje ludzkie życie.
+
+## Rola
+Jerzy Bińczycki w roli Wilczura stworzył jedną z najbardziej wzruszających kreacji polskiego kina.
+
+## Kultowe sceny
+Scena rozprawy sądowej z okrzykiem „To jest profesor Rafał Wilczur!” oraz finał to klasyka filmowego wzruszenia.
+
+## Fenomen
+Film cieszył się ogromną popularnością i należy do najczęściej powtarzanych w telewizji produkcji.
+
+## Znaczenie
+„Znachor” to kwintesencja polskiego melodramatu i film-legenda kilku pokoleń.`,
+    trivia: ['Film to ekranizacja przedwojennej powieści Tadeusza Dołęgi-Mostowicza.', 'Scena rozprawy „To jest profesor Rafał Wilczur!” należy do najsłynniejszych w polskim kinie.'],
+    resources: [
+      {
+        id: 'zn-yt',
+        title: '„Znachor” – kultowa scena w sądzie',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=g8DoWiAuB1o',
+        source: 'YouTube',
+        description: 'Fragment melodramatu Hoffmana.',
+      },
+      {
+        id: 'zn-arch',
+        title: '„Znachor” (1982) – Internet Archive',
+        type: 'nagranie',
+        url: 'https://archive.org/details/znachor-1982',
+        source: 'Internet Archive',
+        description: 'Zdigitalizowany film.',
+      },
+      {
+        id: 'zn-2',
+        title: '„Znachor” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Znachor%20film%201982%20Hoffman&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['noce-i-dnie', 'ziemia-obiecana', 'popiol-i-diament'],
+  },
+  {
+    id: 'ziemia-obiecana',
+    title: 'Ziemia obiecana',
+    subtitle: 'Wajdy fresk o kapitalistycznej Łodzi',
+    category: 'kultura',
+    tags: ['film', 'kino', 'ekranizacja', 'historia'],
+    yearStart: 1975,
+    summary: 'Wielki fresk Andrzeja Wajdy (1975) wg powieści Reymonta o trzech przyjaciołach budujących fabrykę w drapieżnej, przemysłowej Łodzi; nominowany do Oscara.',
+    content: `## Film
+„Ziemia obiecana” (1975) w reżyserii Andrzeja Wajdy to monumentalna ekranizacja powieści Władysława Reymonta.
+
+## Fabuła
+Trzej przyjaciele – Polak Karol Borowiecki, Niemiec Maks Baum i Żyd Moryc Welt – próbują zbudować własną fabrykę w rozpędzonej, bezwzględnej Łodzi.
+
+## Miasto-moloch
+Film maluje obraz XIX-wiecznej Łodzi jako drapieżnej „ziemi obiecanej” rodzącego się kapitalizmu.
+
+## Obsada
+W rolach głównych Daniel Olbrychski, Wojciech Pszoniak i Andrzej Seweryn.
+
+## Nominacja do Oscara
+Obraz został nominowany do Oscara dla najlepszego filmu nieanglojęzycznego (1976).
+
+## Znaczenie
+To jedno z najwybitniejszych dzieł Wajdy i wielki fresk o narodzinach przemysłowego świata.`,
+    trivia: ['Film był nominowany do Oscara dla najlepszego filmu nieanglojęzycznego (1976).', 'To ekranizacja powieści Władysława Reymonta o przemysłowej Łodzi.'],
+    resources: [
+      {
+        id: 'zo-yt',
+        title: '„Ziemia obiecana” – zwiastun',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=UGosYBfbRBc',
+        source: 'YouTube',
+        description: 'Zwiastun filmu Wajdy.',
+      },
+      {
+        id: 'zo-1',
+        title: '„Ziemia obiecana” – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Ziemia+obiecana+1975+Wajda+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'zo-2',
+        title: '„Ziemia obiecana” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Ziemia%20obiecana%20film%201975%20Wajda&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['popiol-i-diament', 'noce-i-dnie', 'znachor'],
+  },
+  {
+    id: 'jacek-wszola',
+    title: 'Jacek Wszoła',
+    subtitle: 'Złoty medalista w skoku wzwyż',
+    category: 'osoby',
+    tags: ['sport', 'lekkoatletyka', 'olimpiada', 'sukces'],
+    yearStart: 1976,
+    yearEnd: 1989,
+    summary: 'Lekkoatleta, skoczek wzwyż; jako 19-latek zdobył złoto olimpijskie w Montrealu 1976, a w 1980 ustanowił rekord świata.',
+    content: `## Sylwetka
+Jacek Wszoła (ur. 1956) to jeden z najwybitniejszych polskich lekkoatletów, skoczek wzwyż i gwiazda królowej sportu.
+
+## Montreal 1976
+Jako zaledwie 19-latek zdobył złoty medal olimpijski w skoku wzwyż na igrzyskach w Montrealu.
+
+## Moskwa 1980
+Na kolejnych igrzyskach w Moskwie wywalczył srebrny medal.
+
+## Rekord świata
+W 1980 roku ustanowił rekord świata w skoku wzwyż.
+
+## Technika
+Reprezentował nowoczesny styl „flop” – skok przewrotem tyłem, który zrewolucjonizował tę konkurencję.
+
+## Znaczenie
+Wszoła to ikona polskiej lekkoatletyki lat 70. i 80. i wzór dla kolejnych pokoleń.`,
+    trivia: ['Złoto olimpijskie w Montrealu 1976 zdobył jako zaledwie 19-latek.', 'W 1980 roku ustanowił rekord świata w skoku wzwyż.'],
+    resources: [
+      {
+        id: 'jw-yt',
+        title: 'Jacek Wszoła – skok wzwyż',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Jacek+Wszo%C5%82a+skok+wzwy%C5%BC+Montreal+1976',
+        source: 'YouTube',
+        description: 'Nagrania i materiały o zawodniku.',
+      },
+      {
+        id: 'jw-2',
+        title: 'Jacek Wszoła – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Jacek%20Wszo%C5%82a%20lekkoatleta%20skok%20wzwy%C5%BC&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o zawodniku.',
+      },
+      {
+        id: 'jw-3',
+        title: 'Polska lekkoatletyka lat 70.',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=polska+lekkoatletyka+lata+70+olimpiada',
+        source: 'YouTube',
+        description: 'Materiały o polskiej lekkoatletyce epoki.',
+      },
+    ],
+    relatedIds: ['fibak-wojciech', 'irena-szewinska', 'malinowski-bronislaw'],
+  },
+  {
+    id: 'hanna-banaszak',
+    title: 'Hanna Banaszak',
+    subtitle: 'Subtelny głos polskiego jazzu',
+    category: 'osoby',
+    tags: ['muzyka', 'jazz', 'estrada', 'kobiety'],
+    yearStart: 1976,
+    yearEnd: 1989,
+    summary: 'Wokalistka jazzowa i estradowa o ciepłej, subtelnej barwie głosu; zadebiutowała w 1976 na festiwalu w Opolu, słynąc z wyrafinowanych aranżacji.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Hanna%20Banaszak.jpg?width=800',
+    imageCaption: 'Hanna Banaszak – wokalistka jazzowa i estradowa.',
+    content: `## Sylwetka
+Hanna Banaszak (ur. 1957) to ceniona wokalistka jazzowa i estradowa o ciepłej, kameralnej barwie głosu.
+
+## Debiut
+W 1976 zadebiutowała na Krajowym Festiwalu Polskiej Piosenki w Opolu w koncercie „Młode Talenty”.
+
+## Styl
+Łączyła jazz, standardy i polską piosenkę literacką, słynąc z wyrafinowanych, subtelnych aranżacji.
+
+## Przeboje
+W dorobku ma m.in. „W moim magicznym domu” i „Pogodę ducha”, a także interpretacje jazzowych standardów.
+
+## Głos
+Delikatna, precyzyjna interpretacja uczyniła z niej jedną z najbardziej docenianych wokalistek epoki.
+
+## Znaczenie
+Banaszak to czołowa polska wokalistka jazzowa przełomu epok.`,
+    trivia: ['Zadebiutowała w 1976 w opolskim koncercie „Młode Talenty”.', 'Słynęła z łączenia jazzu, standardów i polskiej piosenki literackiej.'],
+    resources: [
+      {
+        id: 'hb-yt',
+        title: 'Hanna Banaszak – „Nie możesz teraz odejść”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=dRJXbM-MHYc',
+        source: 'YouTube',
+        description: 'Wykonanie wokalistki.',
+      },
+      {
+        id: 'hb-1',
+        title: 'Hanna Banaszak – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Hanna+Banaszak+jazz+koncert',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o artystce.',
+      },
+      {
+        id: 'hb-2',
+        title: 'Hanna Banaszak – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Hanna%20Banaszak%20wokalistka%20jazz&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o artystce.',
+      },
+    ],
+    relatedIds: ['jazz-prl', 'demarczyk-ewa', 'pronko-krystyna'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -22283,4 +22503,8 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1958, event: 'Premiera „Popiołu i diamentu” Andrzeja Wajdy', category: 'kultura', entryId: 'popiol-i-diament' },
   { year: 1975, event: 'Premiera „Nocy i dni” Jerzego Antczaka – nominacja do Oscara', category: 'kultura', entryId: 'noce-i-dnie' },
   { year: 1984, event: 'Debiut Wandy i Bandy – przebój „Hi-Fi”', category: 'kultura', entryId: 'wanda-i-banda' },
+  { year: 1975, event: 'Premiera „Ziemi obiecanej” Andrzeja Wajdy – nominacja do Oscara', category: 'kultura', entryId: 'ziemia-obiecana' },
+  { year: 1976, event: 'Jacek Wszoła zdobywa złoto olimpijskie w skoku wzwyż (Montreal)', category: 'społeczeństwo', entryId: 'jacek-wszola' },
+  { year: 1976, event: 'Debiut Hanny Banaszak na festiwalu w Opolu („Młode Talenty”)', category: 'kultura', entryId: 'hanna-banaszak' },
+  { year: 1982, event: 'Premiera „Znachora” Jerzego Hoffmana', category: 'kultura', entryId: 'znachor' },
 ];
