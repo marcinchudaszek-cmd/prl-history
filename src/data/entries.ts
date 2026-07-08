@@ -21847,6 +21847,226 @@ Nysa i Żuk to nieodłączny element ulicznego krajobrazu PRL i motoryzacyjnej c
     ],
     relatedIds: ['motocykle-prl', 'fiat-126p', 'motoryzacja-prl'],
   },
+  {
+    id: 'noce-i-dnie',
+    title: 'Noce i dnie',
+    subtitle: 'Saga Niechciców w reżyserii Antczaka',
+    category: 'kultura',
+    tags: ['film', 'kino', 'ekranizacja', 'historia'],
+    yearStart: 1975,
+    summary: 'Monumentalna ekranizacja powieści Marii Dąbrowskiej (1975, reż. Jerzy Antczak); saga rodziny Niechciców, nominowana do Oscara.',
+    content: `## Film
+„Noce i dnie” (1975) w reżyserii Jerzego Antczaka to monumentalna ekranizacja powieści Marii Dąbrowskiej.
+
+## Fabuła
+To saga rodziny Niechciców na przełomie XIX i XX wieku, osnuta wokół dziejów małżeństwa Barbary i Bogumiła na tle Polski pod zaborami.
+
+## Barbara i Bogumił
+Jadwiga Barańska i Jerzy Bińczycki stworzyli jedną z najsłynniejszych i najbardziej wzruszających par w historii polskiego kina.
+
+## Rozmach
+Produkcja trwała blisko dwa i pół roku; film liczył ponad cztery godziny i był pokazywany w dwóch częściach.
+
+## Nagrody
+Obraz otrzymał nominację do Oscara (1977), a Jadwiga Barańska – Srebrnego Niedźwiedzia na festiwalu w Berlinie.
+
+## Znaczenie
+„Noce i dnie” to jedno z arcydzieł polskiego kina i wzorcowa adaptacja wielkiej literatury.`,
+    trivia: ['Film był nominowany do Oscara dla najlepszego filmu nieanglojęzycznego (1977).', 'Jadwiga Barańska za rolę Barbary otrzymała Srebrnego Niedźwiedzia w Berlinie.'],
+    resources: [
+      {
+        id: 'nd-yt',
+        title: '„Noce i dnie” – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Noce+i+dnie+1975+Antczak+film+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'nd-2',
+        title: '„Noce i dnie” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Noce%20i%20dnie%20film%201975%20Antczak&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+      {
+        id: 'nd-3',
+        title: 'Ekranizacje literatury w PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=polskie+ekranizacje+literatury+PRL+film',
+        source: 'YouTube',
+        description: 'Materiały o adaptacjach filmowych epoki.',
+      },
+    ],
+    relatedIds: ['krzyzacy', 'faraon', 'popiol-i-diament'],
+  },
+  {
+    id: 'popiol-i-diament',
+    title: 'Popiół i diament',
+    subtitle: 'Wajda, Cybulski i płonące kieliszki',
+    category: 'kultura',
+    tags: ['film', 'kino', 'polska szkoła filmowa', 'wojna'],
+    yearStart: 1958,
+    summary: 'Arcydzieło polskiej szkoły filmowej (1958, reż. Andrzej Wajda) z ikoniczną rolą Zbigniewa Cybulskiego jako Maćka Chełmickiego.',
+    content: `## Film
+„Popiół i diament” (1958) w reżyserii Andrzeja Wajdy to ekranizacja powieści Jerzego Andrzejewskiego i sztandarowe dzieło polskiej szkoły filmowej.
+
+## Fabuła
+Akcja rozgrywa się w ostatnim dniu wojny w 1945 roku; młody żołnierz podziemia Maciek Chełmicki ma wykonać wyrok na komunistycznym działaczu.
+
+## Maciek Chełmicki
+Zbigniew Cybulski w ciemnych okularach stworzył ikoniczną, buntowniczą kreację, dzięki której zyskał przydomek „polskiego Jamesa Deana”.
+
+## Kultowe sceny
+Płonące kieliszki spirytusu i tragiczny finał na śmietnisku na trwałe weszły do historii światowego kina.
+
+## Styl
+Mistrzowskie zdjęcia Jerzego Wójcika, gęsta symbolika i atmosfera moralnego rozdarcia złożyły się na dzieło wybitne.
+
+## Znaczenie
+To jeden z najważniejszych i najbardziej znanych za granicą filmów polskich.`,
+    trivia: ['Zbigniew Cybulski w ciemnych okularach zyskał przydomek „polskiego Jamesa Deana”.', 'Cybulski sam wymyślił słynną scenę z płonącymi kieliszkami spirytusu.'],
+    resources: [
+      {
+        id: 'pd2-yt',
+        title: '„Popiół i diament” – kultowa scena',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=BouKYNf81Ec',
+        source: 'YouTube',
+        description: 'Fragment filmu Wajdy.',
+      },
+      {
+        id: 'pd2-1',
+        title: '„Popiół i diament” – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Popi%C3%B3%C5%82+i+diament+1958+Wajda+Cybulski+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'pd2-2',
+        title: '„Popiół i diament” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Popi%C3%B3%C5%82%20i%20diament%20film%201958%20Wajda&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['cybulski-zbigniew', 'krzyzacy', 'noce-i-dnie'],
+  },
+  {
+    id: 'wanda-i-banda',
+    title: 'Wanda i Banda',
+    subtitle: '„Hi-Fi” i zachodni sznyt lat 80.',
+    category: 'kultura',
+    tags: ['muzyka', 'rock', 'pop', 'estrada', 'kobiety'],
+    yearStart: 1983,
+    yearEnd: 1989,
+    summary: 'Rockowo-popowy zespół z wokalistką Wandą Kwietniewską; przebój „Hi-Fi” (1984) brzmiał jak żywcem przeniesiony z Zachodu.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wanda%20Kwietniewska%20beax.jpg?width=800',
+    imageCaption: 'Wanda Kwietniewska – liderka zespołu Wanda i Banda.',
+    content: `## Zespół
+Wanda i Banda to rockowo-popowy zespół z charyzmatyczną wokalistką Wandą Kwietniewską, powstały w połowie lat 80.
+
+## Hi-Fi
+Przebój „Hi-Fi” (1984), z muzyką Wojciecha Trzcińskiego, brzmiał jak żywcem przeniesiony z zachodnich list przebojów.
+
+## Debiut
+Debiutancki album przyniósł też „Nie będę Julią” i „Chcę zapomnieć”, zdobywając status złotej płyty.
+
+## Wokalistka
+Mocny, charakterystyczny głos Wandy Kwietniewskiej wyróżniał zespół na tle estrady epoki.
+
+## Zakład
+Według anegdoty „Hi-Fi” powstało w wyniku zakładu, czy Trzciński potrafi napisać utwór rockowy.
+
+## Znaczenie
+Wanda i Banda to jeden z barwnych fenomenów polskiej muzyki rozrywkowej lat 80.`,
+    trivia: ['Refren „Hi-fi, superstar…” był pełen anglicyzmów i brzmiał bardzo „zachodnio”.', 'Przebój „Hi-Fi” powstał podobno w wyniku zakładu z kompozytorem Wojciechem Trzcińskim.'],
+    resources: [
+      {
+        id: 'wb-yt',
+        title: '„Hi-Fi” – Wanda i Banda',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=4-uZAhtePg8',
+        source: 'YouTube',
+        description: 'Przebój zespołu z 1984 r.',
+      },
+      {
+        id: 'wb-1',
+        title: 'Wanda i Banda – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Wanda+i+Banda+Kwietniewska+przeboje',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o zespole.',
+      },
+      {
+        id: 'wb-2',
+        title: 'Wanda i Banda – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Wanda%20i%20Banda%20zesp%C3%B3%C5%82%20Kwietniewska&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o zespole.',
+      },
+    ],
+    relatedIds: ['izabela-trojanowska', 'urszula', 'budka-suflera'],
+  },
+  {
+    id: 'mebloscianka',
+    title: 'Meblościanka',
+    subtitle: 'Segment, kryształy i barek w salonie',
+    category: 'społeczeństwo',
+    tags: ['życie codzienne', 'wnętrza', 'meble', 'obyczaje'],
+    yearStart: 1960,
+    yearEnd: 1989,
+    summary: 'Meblościanka (segment) – zestaw połączonych szafek i regałów – była centralnym meblem PRL-owskiego salonu i wizytówką mieszkania.',
+    content: `## Meble PRL
+Meblościanka, zwana też segmentem, to zestaw połączonych szafek, półek i regałów – centralny mebel salonu w epoce PRL.
+
+## Funkcje
+Mieściła książki, telewizor, barek, pamiątki i kryształy, pełniąc rolę reprezentacyjnej „wizytówki” mieszkania.
+
+## Popularne modele
+Seryjnie produkowane zestawy z fabryk mebli bywały towarem deficytowym, zdobywanym „spod lady” lub na talony.
+
+## Ciasnota
+W małych blokowych mieszkaniach meblościanka sprytnie rozwiązywała problem przechowywania w jednym pomieszczeniu.
+
+## Kryształy i barek
+Za szklaną witryną prezentowano kryształy i alkohole „na specjalne okazje”.
+
+## Znaczenie
+Meblościanka to ikona PRL-owskiego wnętrza i mieszczańskich aspiracji epoki.`,
+    trivia: ['Za szklaną witryną meblościanki prezentowano kryształy „na specjalne okazje”.', 'Meblościankę często zdobywało się „spod lady” lub na talony.'],
+    resources: [
+      {
+        id: 'mb2-yt',
+        title: 'Meblościanka i wnętrza PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=meblo%C5%9Bcianka+wn%C4%99trza+PRL+mieszkanie',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o wnętrzach epoki.',
+      },
+      {
+        id: 'mb2-wk',
+        title: 'Meblościanka – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=meblo%C5%9Bcianka%20segment%20meble%20PRL&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania.',
+      },
+      {
+        id: 'mb2-2',
+        title: 'Mieszkanie w PRL – wyposażenie',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=mieszkanie+PRL+wyposa%C5%BCenie+meble',
+        source: 'YouTube',
+        description: 'Materiały o urządzaniu mieszkań epoki.',
+      },
+    ],
+    relatedIds: ['zycie-codzienne', 'frania-pralka', 'kartki-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -22060,4 +22280,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1981, event: 'Emisja serialu „Jan Serce” Radosława Piwowarskiego', category: 'kultura', entryId: 'jan-serce' },
   { year: 1976, event: 'Wojciech Fibak wygrywa turniej Masters – triumf polskiego tenisa', category: 'społeczeństwo', entryId: 'fibak-wojciech' },
   { year: 1988, event: 'Premiera „Kingsajzu” Juliusza Machulskiego', category: 'kultura', entryId: 'kingsajz' },
+  { year: 1958, event: 'Premiera „Popiołu i diamentu” Andrzeja Wajdy', category: 'kultura', entryId: 'popiol-i-diament' },
+  { year: 1975, event: 'Premiera „Nocy i dni” Jerzego Antczaka – nominacja do Oscara', category: 'kultura', entryId: 'noce-i-dnie' },
+  { year: 1984, event: 'Debiut Wandy i Bandy – przebój „Hi-Fi”', category: 'kultura', entryId: 'wanda-i-banda' },
 ];
