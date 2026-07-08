@@ -291,4 +291,14 @@ export const mapLocations: MapLocation[] = [
     entryId: 'jelenia-gora',
   },
 
+  {
+    id: 'loc-zakopane',
+    name: 'Zakopane',
+    city: 'Zakopane',
+    lon: 19.95, lat: 49.30,
+    type: 'kultura',
+    description: 'Zimowa stolica Polski u stóp Tatr – kurort, sport narciarski i kultura góralska.',
+    entryId: 'zakopane',
+  },
+
 ];

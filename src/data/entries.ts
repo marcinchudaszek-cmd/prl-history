@@ -23619,6 +23619,226 @@ To jeden z najbardziej oryginalnych wizualnie filmów w historii polskiego kina.
     ],
     relatedIds: ['wesele-film', 'noz-w-wodzie', 'czlowiek-z-marmuru'],
   },
+  {
+    id: 'zakopane',
+    title: 'Zakopane',
+    subtitle: 'Zimowa stolica Polski u stóp Tatr',
+    category: 'społeczeństwo',
+    tags: ['miasto', 'góry', 'turystyka', 'sport', 'kultura góralska'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Najsłynniejszy górski kurort Polski u stóp Tatr, „zimowa stolica”; cel masowej turystyki, sportu narciarskiego i ośrodek kultury góralskiej.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Giewont.jpg?width=800',
+    imageCaption: 'Giewont górujący nad Zakopanem.',
+    content: `## Zimowa stolica
+Zakopane u stóp Tatr to najsłynniejszy górski kurort Polski, powszechnie zwany „zimową stolicą”.
+
+## Turystyka
+Miasto ściągało tłumy turystów przez cały rok; deptakiem były Krupówki, a na Gubałówkę i Kasprowy Wierch wjeżdżało się kolejkami.
+
+## Sport
+Odbywały się tu zawody narciarskie i skoki na Wielkiej Krokwi; słynna była kolej na Kasprowy Wierch z lat 30.
+
+## Kultura góralska
+Zakopane to centrum folkloru Podhala – muzyki, stroju i charakterystycznej architektury zakopiańskiej.
+
+## Wypoczynek
+Był to popularny cel wczasów FWP oraz wycieczek zakładowych i szkolnych.
+
+## Znaczenie
+Zakopane to symbol polskich gór, wypoczynku i żywej kultury góralskiej.`,
+    trivia: ['Zakopane nazywane jest „zimową stolicą Polski”.', 'Nad miastem góruje Giewont, a na Gubałówkę i Kasprowy Wierch wjeżdża się kolejkami.'],
+    resources: [
+      {
+        id: 'zk-yt',
+        title: 'Zakopane w PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Zakopane+PRL+archiwalne+Tatry+turystyka',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o mieście.',
+      },
+      {
+        id: 'zk-wk',
+        title: 'Zakopane – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Zakopane%20historia%20Tatry%20kurort&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o mieście.',
+      },
+      {
+        id: 'zk-2',
+        title: 'Tatry i turystyka górska PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Tatry+Zakopane+turystyka+PRL+narciarstwo',
+        source: 'YouTube',
+        description: 'Materiały o Tatrach i sporcie.',
+      },
+    ],
+    relatedIds: ['karkonosze', 'wczasy-fwp', 'orbis-turystyka'],
+  },
+  {
+    id: 'lalka-serial',
+    title: 'Lalka',
+    subtitle: 'Wokulski i Łęcka wg Prusa',
+    category: 'kultura',
+    tags: ['film', 'serial', 'ekranizacja', 'literatura', 'telewizja'],
+    yearStart: 1977,
+    summary: 'Ceniona ekranizacja powieści Bolesława Prusa w reżyserii Ryszarda Bera (1977); dzieje kupca Wokulskiego i jego miłości do Izabeli Łęckiej.',
+    content: `## Serial
+„Lalka” (1977) w reżyserii Ryszarda Bera to ceniona telewizyjna ekranizacja powieści Bolesława Prusa.
+
+## Fabuła
+Serial opowiada dzieje kupca Stanisława Wokulskiego i jego nieszczęśliwej miłości do arystokratki Izabeli Łęckiej.
+
+## Obsada
+W rolach głównych Jerzy Kamas (Wokulski), Małgorzata Braunek (Izabela) i Bronisław Pawlik (Rzecki).
+
+## Panorama epoki
+To barwny obraz Warszawy drugiej połowy XIX wieku i społeczeństwa doby pozytywizmu.
+
+## Wierność
+Serial ceniono za wierność literze powieści i pieczołowitość scenografii.
+
+## Znaczenie
+To jedna z najlepszych polskich ekranizacji literatury i szkolna klasyka.`,
+    trivia: ['Wokulskiego zagrał Jerzy Kamas, a Izabelę Łęcką – Małgorzata Braunek.', 'Serial to wierna ekranizacja pozytywistycznej powieści Bolesława Prusa.'],
+    resources: [
+      {
+        id: 'la-yt',
+        title: '„Lalka” – scena z odc. 1',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=GeY83jHZTpI',
+        source: 'YouTube',
+        description: 'Fragment serialu wg Prusa.',
+      },
+      {
+        id: 'la-1',
+        title: '„Lalka” – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Lalka+serial+1977+Prus+odcinek',
+        source: 'YouTube',
+        description: 'Odcinki i materiały o serialu.',
+      },
+      {
+        id: 'la-2',
+        title: '„Lalka” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Lalka%20serial%201977%20Prus%20Ber&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o serialu.',
+      },
+    ],
+    relatedIds: ['noce-i-dnie', 'ziemia-obiecana', 'polskie-drogi'],
+  },
+  {
+    id: 'kariera-nikodema-dyzmy',
+    title: 'Kariera Nikodema Dyzmy',
+    subtitle: 'Cwaniak brany za męża stanu',
+    category: 'kultura',
+    tags: ['film', 'serial', 'satyra', 'ekranizacja', 'telewizja'],
+    yearStart: 1980,
+    summary: 'Serial (1980) wg powieści Dołęgi-Mostowicza z Romanem Wilhelmim; bezrobotny Dyzma robi zawrotną karierę w elitach dzięki tupetowi i szczęściu.',
+    content: `## Serial
+„Kariera Nikodema Dyzmy” (1980) w reżyserii Jana Rybkowskiego i Marka Nowickiego to ekranizacja powieści Tadeusza Dołęgi-Mostowicza.
+
+## Fabuła
+Bezrobotny Nikodem Dyzma przypadkiem robi zawrotną karierę w elitach II RP – dzięki tupetowi, szczęściu i cudzej głupocie.
+
+## Roman Wilhelmi
+Genialna rola tytułowa: cwaniak i nieuk brany przez otoczenie za męża stanu.
+
+## Satyra
+To gorzka satyra na mechanizmy władzy, koniunkturalizm i puste elity.
+
+## Aktualność
+Mimo międzywojennej scenerii serial czytano jako celny komentarz do realiów PRL.
+
+## Znaczenie
+Kultowy serial – „dyzma” stało się synonimem karierowicza-nieuka.`,
+    trivia: ['Rolę Nikodema Dyzmy zagrał Roman Wilhelmi.', 'Nazwisko „Dyzma” stało się synonimem karierowicza-nieuka.'],
+    resources: [
+      {
+        id: 'knd-yt',
+        title: '„Kariera Nikodema Dyzmy” – scena',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=AlIbSQrZr90',
+        source: 'YouTube',
+        description: 'Fragment kultowego serialu.',
+      },
+      {
+        id: 'knd-1',
+        title: '„Kariera Nikodema Dyzmy” – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Kariera+Nikodema+Dyzmy+serial+1980+Wilhelmi',
+        source: 'YouTube',
+        description: 'Odcinki i materiały o serialu.',
+      },
+      {
+        id: 'knd-2',
+        title: '„Kariera Nikodema Dyzmy” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Kariera%20Nikodema%20Dyzmy%20serial%20Do%C5%82%C4%99ga-Mostowicz&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o serialu.',
+      },
+    ],
+    relatedIds: ['alternatywy-4', 'czterdziestolatek', 'zmiennicy'],
+  },
+  {
+    id: 'aya-rl',
+    title: 'Aya RL',
+    subtitle: 'Nowofalowa „Skóra” i Paweł Kukiz',
+    category: 'kultura',
+    tags: ['muzyka', 'nowa fala', 'rock', 'elektronika'],
+    yearStart: 1983,
+    yearEnd: 1989,
+    summary: 'Warszawski zespół nowej fali założony w 1983 przez Igora Czerniawskiego; przebój „Skóra” to klasyk gatunku, a wokalistą bywał Paweł Kukiz.',
+    content: `## Zespół
+Aya RL to warszawski zespół nowej fali, założony w 1983 roku przez Igora Czerniawskiego.
+
+## Brzmienie
+Grupę wyróżniało nowofalowe, elektroniczne brzmienie z mocnym, wyrazistym wokalem.
+
+## Skóra
+Przebój „Skóra” (1984), z debiutanckiej „czerwonej” płyty (1985), stał się klasykiem polskiej muzyki lat 80.
+
+## Paweł Kukiz
+Wokalistą zespołu bywał m.in. Paweł Kukiz, późniejszy lider Piersi i polityk.
+
+## Nowa fala
+To jeden z ciekawszych zespołów polskiej nowej fali i rocka schyłkowej dekady PRL.
+
+## Znaczenie
+Przebój „Skóra” do dziś pozostaje rozpoznawalnym znakiem epoki.`,
+    trivia: ['Wokalistą Aya RL bywał m.in. Paweł Kukiz.', 'Przebój „Skóra” pochodzi z debiutanckiej „czerwonej” płyty zespołu.'],
+    resources: [
+      {
+        id: 'ay-yt',
+        title: 'Aya RL – „Skóra”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=1cFzJUX99Ck',
+        source: 'YouTube',
+        description: 'Największy przebój zespołu (1984).',
+      },
+      {
+        id: 'ay-1',
+        title: 'Aya RL – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Aya+RL+Sk%C3%B3ra+nowa+fala',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o zespole.',
+      },
+      {
+        id: 'ay-2',
+        title: 'Aya RL – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Aya%20RL%20zesp%C3%B3%C5%82%20nowa%20fala%20Kukiz&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o zespole.',
+      },
+    ],
+    relatedIds: ['republika-zespol', 'klaus-mitffoch', 'maanam-zespol'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -23860,4 +24080,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1973, event: 'Premiera „Sanatorium pod klepsydrą” Wojciecha Hasa – nagroda w Cannes', category: 'kultura', entryId: 'sanatorium-pod-klepsydra' },
   { year: 1975, event: 'Reforma administracyjna – Jelenia Góra stolicą województwa', category: 'społeczeństwo', entryId: 'jelenia-gora' },
   { year: 1984, event: 'Klaus Mitffoch wydaje przełomowy album nowej fali', category: 'kultura', entryId: 'klaus-mitffoch' },
+  { year: 1977, event: 'Emisja serialu „Lalka” wg Bolesława Prusa', category: 'kultura', entryId: 'lalka-serial' },
+  { year: 1980, event: 'Emisja serialu „Kariera Nikodema Dyzmy” z Romanem Wilhelmim', category: 'kultura', entryId: 'kariera-nikodema-dyzmy' },
+  { year: 1985, event: 'Aya RL wydaje debiut z przebojem „Skóra”', category: 'kultura', entryId: 'aya-rl' },
 ];
