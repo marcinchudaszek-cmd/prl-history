@@ -22287,6 +22287,228 @@ Banaszak to czołowa polska wokalistka jazzowa przełomu epok.`,
     ],
     relatedIds: ['jazz-prl', 'demarczyk-ewa', 'pronko-krystyna'],
   },
+  {
+    id: 'czlowiek-z-marmuru',
+    title: 'Człowiek z marmuru',
+    subtitle: 'Wajdy rozrachunek ze stalinizmem',
+    category: 'kultura',
+    tags: ['film', 'kino', 'polityka', 'rozrachunek', 'stalinizm'],
+    yearStart: 1977,
+    summary: 'Rozrachunkowy dramat polityczny Andrzeja Wajdy (1977) o studentce kręcącej film o zapomnianym przodowniku pracy Mateuszu Birkucie; demaskacja propagandy stalinowskiej.',
+    content: `## Film
+„Człowiek z marmuru” (1977) w reżyserii Andrzeja Wajdy to rozrachunkowy dramat polityczny według scenariusza Aleksandra Ścibora-Rylskiego.
+
+## Fabuła
+Studentka szkoły filmowej Agnieszka kręci dokument o zapomnianym przodowniku pracy z lat 50. – murarzu Mateuszu Birkucie.
+
+## Birkut
+Jerzy Radziwiłowicz zagrał robotnika wyniesionego, a potem cynicznie porzuconego przez stalinowską propagandę.
+
+## Rozrachunek
+Film bezlitośnie demaskuje mechanizmy propagandy sukcesu i kult przodowników pracy epoki stalinowskiej.
+
+## Cannes
+Obraz pokazano poza konkursem na festiwalu w Cannes, gdzie otrzymał nagrodę FIPRESCI.
+
+## Znaczenie
+To jeden z najważniejszych politycznych filmów PRL i zapowiedź późniejszego „Człowieka z żelaza”.`,
+    trivia: ['Rolę reżyserki-studentki Agnieszki zagrała debiutująca Krystyna Janda.', 'Film demaskował propagandę i kult przodowników pracy epoki stalinowskiej.'],
+    resources: [
+      {
+        id: 'czm-yt',
+        title: '„Człowiek z marmuru” – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Cz%C5%82owiek+z+marmuru+Wajda+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'czm-2',
+        title: '„Człowiek z marmuru” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Cz%C5%82owiek%20z%20marmuru%20film%20Wajda&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+      {
+        id: 'czm-3',
+        title: 'Kino rozrachunkowe PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=polskie+kino+rozrachunkowe+stalinizm+film',
+        source: 'YouTube',
+        description: 'Materiały o rozrachunkowym nurcie kina.',
+      },
+    ],
+    relatedIds: ['czlowiek-z-zelaza', 'krystyna-janda', 'popiol-i-diament'],
+  },
+  {
+    id: 'czlowiek-z-zelaza',
+    title: 'Człowiek z żelaza',
+    subtitle: 'Filmowy pomnik Solidarności',
+    category: 'kultura',
+    tags: ['film', 'kino', 'solidarność', 'polityka', 'opozycja'],
+    yearStart: 1981,
+    summary: 'Kontynuacja „Człowieka z marmuru” (1981, reż. Wajda); najważniejszy film fabularny o Sierpniu \'80 i Solidarności, nagrodzony Złotą Palmą w Cannes.',
+    content: `## Film
+„Człowiek z żelaza” (1981) w reżyserii Andrzeja Wajdy to kontynuacja „Człowieka z marmuru” i najważniejszy film fabularny o narodzinach Solidarności.
+
+## Fabuła
+Na tle strajku w Stoczni Gdańskiej w 1980 roku splatają się losy syna Birkuta oraz dziennikarza wysłanego, by go skompromitować.
+
+## Dokument i fikcja
+Film łączy fabułę z autentycznymi materiałami z Sierpnia '80; na ekranie pojawia się m.in. Lech Wałęsa.
+
+## Złota Palma
+Obraz zdobył Złotą Palmę na festiwalu w Cannes w 1981 – najwyższy laur w historii polskiego filmu.
+
+## Fenomen
+Powstał na fali karnawału Solidarności; związkowcy sami zabiegali o jego szybką premierę i chronili przed cenzurą.
+
+## Znaczenie
+To filmowy pomnik Sierpnia '80 i symbol Roku Solidarności.`,
+    trivia: ['Zdobył Złotą Palmę w Cannes w 1981 – najwyższy laur dla polskiego filmu.', 'W filmie wykorzystano autentyczne materiały z Sierpnia \'80 i występ Lecha Wałęsy.'],
+    resources: [
+      {
+        id: 'czz-yt',
+        title: '„Człowiek z żelaza” – zwiastun',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=0wmWaXddtZE',
+        source: 'YouTube',
+        description: 'Zwiastun filmu Wajdy.',
+      },
+      {
+        id: 'czz-1',
+        title: '„Człowiek z żelaza” – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Cz%C5%82owiek+z+%C5%BCelaza+Wajda+Solidarno%C5%9B%C4%87+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'czz-2',
+        title: '„Człowiek z żelaza” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Cz%C5%82owiek%20z%20%C5%BCelaza%20film%201981%20Wajda&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['czlowiek-z-marmuru', 'solidarnosc', 'sierpien-1980'],
+  },
+  {
+    id: 'krystyna-janda',
+    title: 'Krystyna Janda',
+    subtitle: 'Ikona polskiego aktorstwa',
+    category: 'osoby',
+    tags: ['film', 'teatr', 'aktorstwo', 'kobiety', 'kultura'],
+    yearStart: 1977,
+    yearEnd: 1989,
+    summary: 'Jedna z najwybitniejszych polskich aktorek; zadebiutowała w „Człowieku z marmuru” (1977), a rolą w „Przesłuchaniu” zdobyła nagrodę w Cannes.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krystyna%20Janda%20by%20Foksal.jpg?width=800',
+    imageCaption: 'Krystyna Janda – aktorka teatralna i filmowa.',
+    content: `## Sylwetka
+Krystyna Janda (ur. 1952) to jedna z najwybitniejszych polskich aktorek teatralnych i filmowych, symbol artystycznej niezależności.
+
+## Debiut
+Zadebiutowała pełną charyzmy rolą Agnieszki w „Człowieku z marmuru” (1977) Andrzeja Wajdy.
+
+## Wielkie role
+Zagrała także w „Człowieku z żelaza”, a przede wszystkim w „Przesłuchaniu” (1982) Ryszarda Bugajskiego – porażającej roli więźniarki UB.
+
+## Przesłuchanie
+Film był „półkownikiem” zatrzymanym przez cenzurę; jego premiera nastąpiła dopiero u schyłku PRL, a Janda otrzymała nagrodę aktorską w Cannes.
+
+## Teatr
+Wybitna aktorka sceniczna, z czasem twórczyni i dyrektorka własnego teatru.
+
+## Znaczenie
+Janda to ikona polskiego aktorstwa i jedna z najsilniejszych osobowości kultury.`,
+    trivia: ['Za rolę w „Przesłuchaniu” otrzymała nagrodę aktorską na festiwalu w Cannes.', '„Przesłuchanie” (1982) było „półkownikiem” – premiera dopiero u schyłku PRL.'],
+    resources: [
+      {
+        id: 'kj-yt',
+        title: 'Krystyna Janda – role filmowe',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Krystyna+Janda+Przes%C5%82uchanie+Cz%C5%82owiek+z+marmuru',
+        source: 'YouTube',
+        description: 'Sceny i materiały o aktorce.',
+      },
+      {
+        id: 'kj-2',
+        title: 'Krystyna Janda – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Krystyna%20Janda%20aktorka&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o aktorce.',
+      },
+      {
+        id: 'kj-3',
+        title: '„Przesłuchanie” – o filmie',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Przes%C5%82uchanie+1982+Bugajski+Janda',
+        source: 'YouTube',
+        description: 'Materiały o słynnym filmie.',
+      },
+    ],
+    relatedIds: ['czlowiek-z-marmuru', 'olbrychski-daniel', 'kalina-jedrusik'],
+  },
+  {
+    id: 'zbigniew-wodecki',
+    title: 'Zbigniew Wodecki',
+    subtitle: 'Skrzypek, trębacz i „Chałupy welcome to”',
+    category: 'osoby',
+    tags: ['muzyka', 'estrada', 'jazz', 'kultura'],
+    yearStart: 1972,
+    yearEnd: 1989,
+    summary: 'Wszechstronny muzyk – wokalista, skrzypek, trębacz i kompozytor; autor przebojów „Chałupy welcome to” i „Zacznij od Bacha”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/JKruk%2020121016%20ZBIGNIEW%20WODECKI%20BUSKO%20IMG%202857.jpg?width=800',
+    imageCaption: 'Zbigniew Wodecki – wokalista i instrumentalista.',
+    content: `## Sylwetka
+Zbigniew Wodecki (ur. 1950) to wszechstronny muzyk – wokalista, skrzypek, trębacz i kompozytor, ceniony za wyjątkową muzykalność.
+
+## Muzykalność
+Wykształcony instrumentalista, grał na skrzypcach i trąbce, współpracując z czołowymi artystami estrady.
+
+## Przeboje
+W dorobku ma m.in. „Chałupy welcome to”, „Zacznij od Bacha”, „Lubię wracać tam, gdzie byłem”.
+
+## Pszczółka Maja
+Zaśpiewał kultową czołówkę polskiej wersji kreskówki „Pszczółka Maja”, znaną kolejnym pokoleniom.
+
+## Chałupy welcome to
+Żartobliwy przebój o plaży nudystów w Chałupach stał się jednym z jego znaków rozpoznawczych.
+
+## Znaczenie
+Wodecki to jeden z najbardziej lubianych i wszechstronnych polskich artystów estradowych.`,
+    trivia: ['Zaśpiewał kultową czołówkę polskiej wersji „Pszczółki Mai”.', 'Był nie tylko wokalistą, ale i utalentowanym skrzypkiem oraz trębaczem.'],
+    resources: [
+      {
+        id: 'zw-yt',
+        title: 'Zbigniew Wodecki – „Chałupy welcome to”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=qGXOnqViDXw',
+        source: 'YouTube',
+        description: 'Żartobliwy przebój artysty.',
+      },
+      {
+        id: 'zw-1',
+        title: 'Zbigniew Wodecki – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Zbigniew+Wodecki+przeboje+koncert',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o artyście.',
+      },
+      {
+        id: 'zw-2',
+        title: 'Zbigniew Wodecki – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Zbigniew%20Wodecki%20muzyk%20wokalista&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o artyście.',
+      },
+    ],
+    relatedIds: ['maryla-rodowicz', 'festiwal-opole', 'grechuta-marek'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -22507,4 +22729,8 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1976, event: 'Jacek Wszoła zdobywa złoto olimpijskie w skoku wzwyż (Montreal)', category: 'społeczeństwo', entryId: 'jacek-wszola' },
   { year: 1976, event: 'Debiut Hanny Banaszak na festiwalu w Opolu („Młode Talenty”)', category: 'kultura', entryId: 'hanna-banaszak' },
   { year: 1982, event: 'Premiera „Znachora” Jerzego Hoffmana', category: 'kultura', entryId: 'znachor' },
+  { year: 1977, event: 'Premiera „Człowieka z marmuru” Andrzeja Wajdy', category: 'kultura', entryId: 'czlowiek-z-marmuru' },
+  { year: 1981, event: '„Człowiek z żelaza” Wajdy zdobywa Złotą Palmę w Cannes', category: 'kultura', entryId: 'czlowiek-z-zelaza' },
+  { year: 1977, event: 'Debiut Krystyny Jandy w „Człowieku z marmuru”', category: 'kultura', entryId: 'krystyna-janda' },
+  { year: 1985, event: 'Zbigniew Wodecki – przebój „Chałupy welcome to”', category: 'kultura', entryId: 'zbigniew-wodecki' },
 ];
