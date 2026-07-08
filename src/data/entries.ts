@@ -22954,6 +22954,227 @@ Klenczon to jeden z najważniejszych twórców polskiej muzyki big-beatowej; zgi
     ],
     relatedIds: ['czerwone-gitary', 'niemen-czeslaw', 'festiwal-opole'],
   },
+  {
+    id: 'mis-uszatek',
+    title: 'Miś Uszatek',
+    subtitle: 'Pluszowy miś z opadającym uszkiem',
+    category: 'kultura',
+    tags: ['film', 'animacja', 'dzieci', 'dobranocka', 'kultura'],
+    yearStart: 1975,
+    yearEnd: 1989,
+    summary: 'Jeden z najukochańszych bohaterów polskich dobranocek – pluszowy miś z opadającym uszkiem, produkowany w łódzkim studiu Se-ma-for.',
+    content: `## Dobranocka
+„Miś Uszatek” to jeden z najukochańszych bohaterów polskich dobranocek – poczciwy pluszowy miś z charakterystycznym opadającym uszkiem.
+
+## Se-ma-for
+Serial powstawał od połowy lat 70. w słynnym łódzkim studiu Se-ma-for.
+
+## Narracja
+Niezapomniany głos podkładał Mieczysław Czechowicz, a czołówkę otwierało „Na dobranoc – dobry wieczór”.
+
+## Bohater
+Uszatek to rozsądny, dobroduszny miś, który na koniec każdego odcinka mówił dzieciom „Bardzo dobranoc”.
+
+## Twórca
+Postać stworzył pisarz Czesław Janczarski.
+
+## Znaczenie
+Miś Uszatek to symbol PRL-owskiej dobranocki i dzieciństwa kilku pokoleń.`,
+    trivia: ['Miś Uszatek kończył każdy odcinek słowami „Bardzo dobranoc”.', 'Serial powstawał w łódzkim Se-ma-forze; głosu użyczył Mieczysław Czechowicz.'],
+    resources: [
+      {
+        id: 'mu-yt',
+        title: '„Miś Uszatek” – odcinek',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=ClLiMMaUie0',
+        source: 'YouTube',
+        description: 'Scenka z kultowej dobranocki.',
+      },
+      {
+        id: 'mu-1',
+        title: '„Miś Uszatek” – bajki',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Mi%C5%9B+Uszatek+dobranocka+odcinki',
+        source: 'YouTube',
+        description: 'Odcinki i materiały o serii.',
+      },
+      {
+        id: 'mu-2',
+        title: '„Miś Uszatek” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Mi%C5%9B%20Uszatek%20dobranocka%20Janczarski&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o serii.',
+      },
+    ],
+    relatedIds: ['bolek-i-lolek', 'reksio', 'dobranocka'],
+  },
+  {
+    id: 'filemon-kot',
+    title: 'Przygody kota Filemona',
+    subtitle: 'Filemon i stateczny Bonifacy',
+    category: 'kultura',
+    tags: ['film', 'animacja', 'dzieci', 'dobranocka', 'kultura'],
+    yearStart: 1972,
+    yearEnd: 1981,
+    summary: 'Seria animowana ze studia Se-ma-for (1972–1981) o naiwnym kotku Filemonie i statecznym kocurze Bonifacym; klasyka polskiej dobranocki.',
+    content: `## Kreskówka
+„Przygody kota Filemona” to seria animowana produkowana w łódzkim studiu Se-ma-for, emitowana w latach 1972–1981.
+
+## Bohaterowie
+Główni bohaterowie to mały, naiwny biały kotek Filemon oraz stary, poważny czarny kocur Bonifacy.
+
+## Poczekaj Bonifacy
+Z serialu pochodzi kultowe zawołanie „Poczekaj, Bonifacy”, znane kolejnym pokoleniom.
+
+## Wieś
+Akcja toczy się na sielskim, wiejskim podwórku, pełnym drobnych perypetii.
+
+## Humor
+Ciepły, łagodny humor i przygody kociej pary bawiły dzieci przez całe lata.
+
+## Znaczenie
+To jedna z najbardziej lubianych polskich kreskówek dla najmłodszych.`,
+    trivia: ['Serial liczył 39 odcinków emitowanych w latach 1972–1981.', 'Bohaterami są naiwny kotek Filemon i stateczny kocur Bonifacy.'],
+    resources: [
+      {
+        id: 'fk-yt',
+        title: '„Przygody kota Filemona” – odcinek',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=hjq7_uUIwHo',
+        source: 'YouTube',
+        description: 'Odcinek kultowej kreskówki.',
+      },
+      {
+        id: 'fk-1',
+        title: '„Kot Filemon” – bajki',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Przygody+kota+Filemona+odcinki',
+        source: 'YouTube',
+        description: 'Odcinki i materiały o serii.',
+      },
+      {
+        id: 'fk-2',
+        title: '„Przygody kota Filemona” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Przygody%20kota%20Filemona%20Se-ma-for&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o serii.',
+      },
+    ],
+    relatedIds: ['bolek-i-lolek', 'reksio', 'dobranocka'],
+  },
+  {
+    id: 'noz-w-wodzie',
+    title: 'Nóż w wodzie',
+    subtitle: 'Debiut Polańskiego i pojedynek na jachcie',
+    category: 'kultura',
+    tags: ['film', 'kino', 'psychologiczny', 'debiut'],
+    yearStart: 1962,
+    summary: 'Pełnometrażowy debiut Romana Polańskiego (1962); kameralny dramat psychologiczny na jachcie, pierwszy polski film nominowany do Oscara.',
+    content: `## Film
+„Nóż w wodzie” (1962) to pełnometrażowy debiut Romana Polańskiego i jeden z najsłynniejszych polskich filmów.
+
+## Fabuła
+Małżeństwo zabiera na weekendowy rejs młodego autostopowicza; wyprawa zamienia się w psychologiczny pojedynek trójki bohaterów.
+
+## Kameralność
+Cała akcja rozgrywa się na niewielkim jachcie, w narastającym napięciu między trzema postaciami.
+
+## Obsada
+W rolach głównych Leon Niemczyk, Jolanta Umecka i Zygmunt Malanowicz.
+
+## Nominacja do Oscara
+Był pierwszym polskim filmem nominowanym do Oscara dla najlepszego filmu nieanglojęzycznego (1963).
+
+## Znaczenie
+To mistrzowski debiut Polańskiego i klasyk kina psychologicznego.`,
+    trivia: ['To pierwszy polski film nominowany do Oscara (1963).', 'Cała akcja rozgrywa się na niewielkim jachcie – to popis kina kameralnego.'],
+    resources: [
+      {
+        id: 'nw-yt',
+        title: '„Nóż w wodzie” – czołówka',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Vc4j28_9pzc',
+        source: 'YouTube',
+        description: 'Czołówka debiutu Polańskiego.',
+      },
+      {
+        id: 'nw-1',
+        title: '„Nóż w wodzie” – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=N%C3%B3%C5%BC+w+wodzie+1962+Pola%C5%84ski+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'nw-2',
+        title: '„Nóż w wodzie” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=N%C3%B3%C5%BC%20w%20wodzie%20film%201962%20Pola%C5%84ski&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['polanski-roman', 'popiol-i-diament', 'czlowiek-z-marmuru'],
+  },
+  {
+    id: 'seweryn-krajewski',
+    title: 'Seweryn Krajewski',
+    subtitle: 'Melodie Czerwonych Gitar',
+    category: 'osoby',
+    tags: ['muzyka', 'big-beat', 'pop', 'kompozytor'],
+    yearStart: 1965,
+    yearEnd: 1989,
+    summary: 'Kompozytor, wokalista i gitarzysta, filar Czerwonych Gitar; autor melodii do przebojów „Anna Maria” i „Nie spoczniemy”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Seweryn%20Krajewski.jpg?width=800',
+    imageCaption: 'Seweryn Krajewski – kompozytor i wokalista Czerwonych Gitar.',
+    content: `## Sylwetka
+Seweryn Krajewski (ur. 1947) to kompozytor, wokalista i gitarzysta, wieloletni lider i filar Czerwonych Gitar.
+
+## Czerwone Gitary
+Od lat 60. współtworzył zespół, komponując jego największe przeboje i nadając mu melodyjny charakter.
+
+## Przeboje
+Spod jego pióra wyszły m.in. „Anna Maria”, „Nie spoczniemy”, „Nie zadzieraj nosa” i „Płoną góry, płoną lasy”.
+
+## Głos i melodie
+Słynął z ciepłego głosu i wyjątkowego talentu do pisania chwytliwych melodii.
+
+## Kompozytor
+Tworzył także muzykę filmową oraz piosenki dla innych wykonawców.
+
+## Znaczenie
+Krajewski to jeden z najważniejszych polskich twórców piosenki i symbol melodyjnego popu.`,
+    trivia: ['Skomponował największe przeboje Czerwonych Gitar, m.in. „Anna Maria”.', 'Do „Nie spoczniemy” napisał muzykę, a słowa – Agnieszka Osiecka.'],
+    resources: [
+      {
+        id: 'sk-yt',
+        title: 'Seweryn Krajewski / Czerwone Gitary – przeboje',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Seweryn+Krajewski+Czerwone+Gitary+Anna+Maria',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o artyście.',
+      },
+      {
+        id: 'sk-2',
+        title: 'Seweryn Krajewski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Seweryn%20Krajewski%20kompozytor%20Czerwone%20Gitary&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o artyście.',
+      },
+      {
+        id: 'sk-3',
+        title: '„Nie spoczniemy” – Czerwone Gitary',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Czerwone+Gitary+Nie+spoczniemy',
+        source: 'YouTube',
+        description: 'Słynny przebój z muzyką Krajewskiego.',
+      },
+    ],
+    relatedIds: ['czerwone-gitary', 'krzysztof-klenczon', 'festiwal-opole'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -23186,4 +23407,8 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1967, event: 'Debiut kreskówki „Reksio”', category: 'kultura', entryId: 'reksio' },
   { year: 1971, event: 'Krzysztof Klenczon zakłada Trzy Korony po odejściu z Czerwonych Gitar', category: 'kultura', entryId: 'krzysztof-klenczon' },
   { year: 1984, event: 'Andrzej Grubba w światowej czołówce tenisa stołowego', category: 'społeczeństwo', entryId: 'andrzej-grubba' },
+  { year: 1962, event: 'Premiera „Noża w wodzie” – debiut Polańskiego, nominacja do Oscara', category: 'kultura', entryId: 'noz-w-wodzie' },
+  { year: 1972, event: 'Debiut kreskówki „Przygody kota Filemona”', category: 'kultura', entryId: 'filemon-kot' },
+  { year: 1975, event: 'Debiut dobranocki „Miś Uszatek”', category: 'kultura', entryId: 'mis-uszatek' },
+  { year: 1970, event: 'Seweryn Krajewski – przeboje Czerwonych Gitar („Anna Maria”)', category: 'kultura', entryId: 'seweryn-krajewski' },
 ];
