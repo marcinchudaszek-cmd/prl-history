@@ -1744,6 +1744,14 @@ ZOMO rozwiązano na przełomie 1989 i 1990 roku wraz z reformą milicji i przeks
 **Dekolektywizacja po 1956** — Po Październiku 1956 r. Gomułka zrezygnował z przymusowej kolektywizacji. W ciągu kilku miesięcy rozpadło się ok. 80% spółdzielni. Polska stała się jedynym krajem bloku wschodniego, w którym przez cały PRL dominowało prywatne rolnictwo indywidualne.`,
     resources: [
       {
+        id: 'kol-pkf',
+        title: 'Polska Kronika Filmowa – spółdzielnie produkcyjne',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+sp%C3%B3%C5%82dzielnie+produkcyjne+kolektywizacja+wie%C5%9B',
+        source: 'YouTube',
+        description: 'Kroniki filmowe o kolektywizacji i spółdzielniach produkcyjnych.',
+      },
+      {
         id: 'kolektyw-1',
         title: 'Kolektywizacja rolnictwa w Polsce – opracowanie IPN',
         type: 'publikacja',
@@ -2990,6 +2998,14 @@ Sfałszowane wybory zamknęły okres pozornej koalicji i otworzyły drogę do pe
 **Przejęcie pełni władzy:**
 W 1948 roku PPR połączyła się z PPS (pod przymusem), tworząc PZPR. Polska stała się jednopartyjnym państwem komunistycznym na wzór sowiecki.`,
     resources: [
+      {
+        id: 'w47-pkf',
+        title: 'Polska Kronika Filmowa – wybory 1947',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+wybory+1947+Sejm+Ustawodawczy',
+        source: 'YouTube',
+        description: 'Kroniki filmowe z wyborów do Sejmu Ustawodawczego (1947).',
+      },
       {
         id: 'wyl47-1',
         title: 'Wybory 1947 – dokumentacja IPN',
@@ -10327,6 +10343,14 @@ Kryzys gospodarczy końca lat 70., podwyżki i strajki obnażyły fałsz propaga
 Propaganda sukcesu to klasyczny przykład manipulacji medialnej PRL – budowania pozornej rzeczywistości w oderwaniu od realnych problemów kraju.`,
     resources: [
       {
+        id: 'ps-pkf',
+        title: 'Polska Kronika Filmowa – propaganda sukcesu',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+propaganda+sukcesu+dekada+Gierka',
+        source: 'YouTube',
+        description: 'Kroniki filmowe jako narzędzie propagandy sukcesu.',
+      },
+      {
         id: 'props-1',
         title: 'Kroniki dekady Gierka – NINATEKA',
         type: 'film',
@@ -14368,6 +14392,14 @@ Mecze żużlowe były ważnym wydarzeniem towarzyskim i odskocznią od codzienno
 Żużel to jeden z najbardziej charakterystycznych sportów PRL, którego popularność i tradycja przetrwały do czasów współczesnych.`,
     resources: [
       {
+        id: 'zuz-pkf',
+        title: 'Polska Kronika Filmowa – żużel',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+%C5%BCu%C5%BCel+zawody+speedway',
+        source: 'YouTube',
+        description: 'Kroniki filmowe z zawodów żużlowych.',
+      },
+      {
         id: 'zuz-1',
         title: 'Żużel – archiwalia',
         type: 'nagranie',
@@ -14528,6 +14560,14 @@ Wizyta w domu towarowym była wydarzeniem – zwłaszcza przed świętami. Stois
 ## Znaczenie
 Domy towarowe i Supersam to symbol napięcia między propagandową nowoczesnością a realiami gospodarki niedoboru, w której nawet „świątynie handlu” nie miały co sprzedawać.`,
     resources: [
+      {
+        id: 'dt-pkf',
+        title: 'Polska Kronika Filmowa – domy towarowe',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+domy+towarowe+Supersam+Centrum+otwarcie',
+        source: 'YouTube',
+        description: 'Kroniki filmowe z otwarć domów towarowych (Supersam, Centrum).',
+      },
       {
         id: 'dt-1',
         title: 'Domy towarowe – materiały',
@@ -15047,6 +15087,14 @@ Legendarny trener „Papa” Stamm prowadził reprezentację przez dziesięciole
 Polska szkoła boksu to jeden z największych sukcesów sportu PRL, symbol kunsztu, który przez lata stawiał polskie pięściarstwo w światowej czołówce.`,
     resources: [
       {
+        id: 'boks-pkf',
+        title: 'Polska Kronika Filmowa – boks',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+boks+polska+szko%C5%82a+boksu+ring',
+        source: 'YouTube',
+        description: 'Kroniki filmowe o polskiej szkole boksu.',
+      },
+      {
         id: 'box-1',
         title: 'Polski boks – archiwalia',
         type: 'nagranie',
@@ -15412,6 +15460,14 @@ W dekadzie Gierka forsowano rekordowe wydobycie, m.in. pracą w wolne soboty i n
 Górnictwo węglowe symbolizuje zarówno potęgę przemysłową, jak i strukturalne problemy gospodarki PRL: nadmierną eksploatację surowców i ludzi.`,
     resources: [
       {
+        id: 'gor-pkf',
+        title: 'Polska Kronika Filmowa – górnictwo i Barbórka',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+g%C3%B3rnictwo+kopalnia+w%C4%99gla+Barb%C3%B3rka',
+        source: 'YouTube',
+        description: 'Kroniki filmowe o kopalniach i święcie górników.',
+      },
+      {
         id: 'gor-1',
         title: 'Górnictwo PRL – materiały',
         type: 'publikacja',
@@ -15513,6 +15569,14 @@ Szpital specjalizował się w trudnych przypadkach, ratując dzieci z całej Pol
 ## Znaczenie
 Centrum Zdrowia Dziecka to przykład, że mimo niewydolnej służby zdrowia PRL oddolna mobilizacja społeczna potrafiła stworzyć instytucję wybitną i trwałą.`,
     resources: [
+      {
+        id: 'czd-pkf',
+        title: 'Polska Kronika Filmowa – budowa Centrum Zdrowia Dziecka',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+Centrum+Zdrowia+Dziecka+budowa+pomnik+szpital',
+        source: 'YouTube',
+        description: 'Kroniki filmowe o budowie Centrum Zdrowia Dziecka.',
+      },
       {
         id: 'czd-1',
         title: 'Centrum Zdrowia Dziecka – materiały',
@@ -17520,6 +17584,14 @@ W 1983 roku, po stanie wojennym, FJN zastąpiono Patriotycznym Ruchem Odrodzenia
 FJN to symbol pozorowanej „jedności” i mechanizmu wyborów bez wyboru, charakterystycznych dla systemu komunistycznego.`,
     resources: [
       {
+        id: 'fjn-pkf',
+        title: 'Polska Kronika Filmowa – Front Jedności Narodu',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+Front+Jedno%C5%9Bci+Narodu+wybory+g%C5%82osowanie',
+        source: 'YouTube',
+        description: 'Kroniki filmowe o wyborach i Froncie Jedności Narodu.',
+      },
+      {
         id: 'fjn-1',
         title: 'Front Jedności Narodu – materiały IPN',
         type: 'publikacja',
@@ -18032,6 +18104,14 @@ Po proteście nastąpiły brutalne represje – zwolnienia, pobicia („ścieżk
 ## Znaczenie
 Ursus łączy historię przemysłu PRL z historią robotniczego oporu – od dumy z produkcji po bunt przeciw systemowi.`,
     resources: [
+      {
+        id: 'urs-pkf',
+        title: 'Polska Kronika Filmowa – Zakłady Ursus',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+Zak%C5%82ady+Ursus+ci%C4%85gniki+traktory+produkcja',
+        source: 'YouTube',
+        description: 'Kroniki filmowe o produkcji ciągników w Ursusie.',
+      },
       {
         id: 'ur-1',
         title: 'Zakłady Ursus – materiały',
