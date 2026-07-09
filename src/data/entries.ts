@@ -26923,6 +26923,229 @@ Wesele było jednym z najważniejszych i najbardziej wyczekiwanych świąt rodzi
     ],
     relatedIds: ['zycie-codzienne', 'dzien-kobiet', 'kuchnia-prl'],
   },
+  {
+    id: 'jak-rozpetalem-ii-wojne',
+    title: 'Jak rozpętałem drugą wojnę światową',
+    subtitle: 'Wojenna tułaczka Franka Dolasa',
+    category: 'kultura',
+    tags: ['film', 'komedia', 'wojna', 'kino'],
+    yearStart: 1970,
+    summary: 'Trzyczęściowa wojenna komedia Tadeusza Chmielewskiego (1970); kanonier Franek Dolas jest przekonany, że to on rozpętał II wojnę światową.',
+    content: `## Film
+„Jak rozpętałem drugą wojnę światową” (1970) w reżyserii Tadeusza Chmielewskiego to trzyczęściowa wojenna komedia wg powieści Kazimierza Sławińskiego.
+
+## Fabuła
+Kanonier Franek Dolas, przez ciąg absurdalnych zbiegów okoliczności, nabiera przekonania, że to on rozpętał II wojnę światową.
+
+## Franek Dolas
+Marian Kociniak stworzył kultową rolę poczciwego pechowca, który przemierza pół świata, próbując naprawić błąd.
+
+## Trzy części
+Film składa się z części „Ucieczka”, „Za bronią” i „Wśród swoich”.
+
+## Humor
+Slapstickowa komedia miesza się tu z wojenną tułaczką i ciepłym patriotyzmem.
+
+## Znaczenie
+To jedna z najpopularniejszych polskich komedii wojennych, wciąż chętnie powtarzana w telewizji.`,
+    trivia: ['Kanonier Franek Dolas jest przekonany, że to on rozpętał II wojnę światową.', 'W roli Dolasa wystąpił Marian Kociniak; film ma trzy części.'],
+    resources: [
+      {
+        id: 'jrw-yt',
+        title: '„Jak rozpętałem drugą wojnę światową” – film',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Yxzz4KaBhN0',
+        source: 'YouTube',
+        description: 'Komedia wojenna Chmielewskiego.',
+      },
+      {
+        id: 'jrw-1',
+        title: '„Jak rozpętałem drugą wojnę światową” – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Jak+rozp%C4%99ta%C5%82em+drug%C4%85+wojn%C4%99+%C5%9Bwiatow%C4%85+Dolas+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'jrw-2',
+        title: '„Jak rozpętałem drugą wojnę światową” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Jak%20rozp%C4%99ta%C5%82em%20drug%C4%85%20wojn%C4%99%20%C5%9Bwiatow%C4%85%20film%20Chmielewski&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['nie-lubie-poniedzialku', 'czterej-pancerni', 'stawka-wieksza-niz-zycie'],
+  },
+  {
+    id: 'michal-urbaniak',
+    title: 'Michał Urbaniak',
+    subtitle: 'Fusion i skrzypce, które podbiły świat',
+    category: 'osoby',
+    tags: ['muzyka', 'jazz', 'fusion', 'skrzypce'],
+    yearStart: 1962,
+    yearEnd: 1989,
+    summary: 'Skrzypek, saksofonista i kompozytor jazzowy światowej sławy, pionier fusion; od lat 70. w Nowym Jorku, współpracował z gwiazdami światowego jazzu.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Micha%C5%82%20Urbaniak.jpg?width=800',
+    imageCaption: 'Michał Urbaniak – skrzypek i saksofonista jazzowy.',
+    content: `## Sylwetka
+Michał Urbaniak (ur. 1943) to skrzypek, saksofonista i kompozytor jazzowy światowej sławy, pionier nurtu fusion.
+
+## Fusion
+Tworzył jazz-rockowe fusion, łączące jazz, funk i elementy polskiego folkloru.
+
+## USA
+Od lat 70. działał w Nowym Jorku; nagrywał dla Columbii i współpracował z gwiazdami, m.in. z Milesem Davisem.
+
+## Instrumenty
+Grał na pięciostrunowych skrzypcach i na skrzypcach-syntezatorze, tzw. „talking violin”.
+
+## Urszula Dudziak
+Wraz z żoną Urszulą Dudziak podbijał amerykańską scenę jazzową.
+
+## Znaczenie
+To jeden z najbardziej rozpoznawalnych na świecie polskich jazzmanów.`,
+    trivia: ['Współpracował z gwiazdami światowego jazzu, m.in. z Milesem Davisem.', 'Grał na pięciostrunowych skrzypcach i skrzypcach-syntezatorze.'],
+    resources: [
+      {
+        id: 'mu2-yt',
+        title: 'Michał Urbaniak – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Micha%C5%82+Urbaniak+jazz+fusion+skrzypce',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o artyście.',
+      },
+      {
+        id: 'mu2-2',
+        title: 'Michał Urbaniak – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Micha%C5%82%20Urbaniak%20jazz%20skrzypek%20fusion&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o artyście.',
+      },
+      {
+        id: 'mu2-3',
+        title: 'Polski jazz na świecie – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=polski+jazz+%C5%9Bwiat+Urbaniak+Dudziak',
+        source: 'YouTube',
+        description: 'Materiały o polskim jazzie za granicą.',
+      },
+    ],
+    relatedIds: ['jazz-jamboree', 'tomasz-stanko', 'zbigniew-namyslowski'],
+  },
+  {
+    id: 'beata-tyszkiewicz',
+    title: 'Beata Tyszkiewicz',
+    subtitle: 'Pierwsza dama polskiego kina',
+    category: 'osoby',
+    tags: ['film', 'aktorstwo', 'kobiety', 'kultura'],
+    yearStart: 1957,
+    yearEnd: 1989,
+    summary: 'Aktorka o arystokratycznej urodzie, „pierwsza dama polskiego kina”; grała w „Popiołach”, „Lalce” i „Rękopisie znalezionym w Saragossie”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Beata%20Tyszkiewicz.jpg?width=800',
+    imageCaption: 'Beata Tyszkiewicz – aktorka filmowa.',
+    content: `## Sylwetka
+Beata Tyszkiewicz (ur. 1938) to aktorka o arystokratycznej urodzie, nazywana „pierwszą damą polskiego kina”.
+
+## Role
+Zagrała w wielu klasykach, m.in. „Popiołach”, „Lalce” i „Rękopisie znalezionym w Saragossie”.
+
+## Ekran i telewizja
+Grała u czołowych reżyserów, a z czasem stała się także rozpoznawalną osobowością telewizyjną.
+
+## Uroda i klasa
+Elegancja i dystyngowany wdzięk uczyniły ją ikoną stylu i klasy.
+
+## Międzynarodowo
+Występowała również w produkcjach zagranicznych.
+
+## Znaczenie
+To jedna z najbardziej rozpoznawalnych i cenionych polskich aktorek.`,
+    trivia: ['Nazywano ją „pierwszą damą polskiego kina”.', 'Grała m.in. w „Popiołach” i „Lalce”, u czołowych reżyserów.'],
+    resources: [
+      {
+        id: 'bt-yt',
+        title: 'Beata Tyszkiewicz – role filmowe',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Beata+Tyszkiewicz+aktorka+role+filmy',
+        source: 'YouTube',
+        description: 'Sceny i materiały o aktorce.',
+      },
+      {
+        id: 'bt-2',
+        title: 'Beata Tyszkiewicz – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Beata%20Tyszkiewicz%20aktorka&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o aktorce.',
+      },
+      {
+        id: 'bt-3',
+        title: 'Polskie aktorki lat 60. – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=polskie+aktorki+lata+60+kino+PRL',
+        source: 'YouTube',
+        description: 'Materiały o gwiazdach polskiego kina.',
+      },
+    ],
+    relatedIds: ['pola-raksa', 'kalina-jedrusik', 'olbrychski-daniel'],
+  },
+  {
+    id: 'sylwester-tv',
+    title: 'Sylwester w telewizji',
+    subtitle: 'Kabaret, dancing i toast o północy',
+    category: 'społeczeństwo',
+    tags: ['obyczaje', 'telewizja', 'rozrywka', 'święta'],
+    yearStart: 1955,
+    yearEnd: 1989,
+    summary: 'Noc sylwestrową spędzano na balach lub przed telewizorem; TV nadawała specjalny program rozrywkowy z kabaretem, piosenkami i skeczami.',
+    content: `## Noc sylwestrowa
+Sylwestra spędzano na domowych i zakładowych balach albo przed telewizorem w rodzinnym gronie.
+
+## Program TV
+Telewizja nadawała specjalny sylwestrowy program rozrywkowy z kabaretem, piosenkami i skeczami.
+
+## Kabaret i gwiazdy
+Występowały gwiazdy estrady i kabaretu; program bywał jednym z niewielu „luksusów” wieczoru.
+
+## Bale
+Na balach sylwestrowych królowały dancing, alkohol zdobyty „na okazję” i papierowe serpentyny.
+
+## Toast o północy
+O północy wznoszono toast, składano życzenia, a czasem puszczano rzadkie wówczas fajerwerki.
+
+## Znaczenie
+Sylwestrowy program TV był jednym z nielicznych momentów odprężenia i rozrywki podanej „od państwa”.`,
+    trivia: ['Telewizja nadawała specjalny sylwestrowy program z kabaretem i piosenkami.', 'Na bale gromadzono alkohol i smakołyki zdobywane „na okazję”.'],
+    resources: [
+      {
+        id: 'sy-yt',
+        title: 'Sylwester w PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Sylwester+PRL+telewizja+bal+kabaret',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o Sylwestrze.',
+      },
+      {
+        id: 'sy-wk',
+        title: 'Sylwester – obyczaje',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Sylwester%20Nowy%20Rok%20obyczaje%20PRL&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania.',
+      },
+      {
+        id: 'sy-2',
+        title: 'Telewizyjna rozrywka PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=telewizja+rozrywka+PRL+kabaret+estrada',
+        source: 'YouTube',
+        description: 'Materiały o rozrywce telewizyjnej epoki.',
+      },
+    ],
+    relatedIds: ['dziennik-telewizyjny', 'telewizja-prl', 'kabaret-dudek'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -27207,4 +27430,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1965, event: 'Powstanie kabaretu Dudek Edwarda Dziewońskiego', category: 'kultura', entryId: 'kabaret-dudek' },
   { year: 1970, event: 'Premiera „Hydrozagadki” Andrzeja Kondratiuka', category: 'kultura', entryId: 'hydrozagadka' },
   { year: 1973, event: 'Zbigniew Namysłowski nagrywa „Winobranie” – klasyk polskiego jazzu', category: 'kultura', entryId: 'zbigniew-namyslowski' },
+  { year: 1970, event: 'Premiera „Jak rozpętałem drugą wojnę światową” Tadeusza Chmielewskiego', category: 'kultura', entryId: 'jak-rozpetalem-ii-wojne' },
+  { year: 1974, event: 'Michał Urbaniak i fusion – polski jazz podbija USA', category: 'kultura', entryId: 'michal-urbaniak' },
+  { year: 1965, event: 'Beata Tyszkiewicz w „Rękopisie znalezionym w Saragossie”', category: 'kultura', entryId: 'beata-tyszkiewicz' },
 ];
