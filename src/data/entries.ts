@@ -26258,6 +26258,227 @@ To jeden z najbardziej rozpoznawalnych, trochę groteskowych rytuałów epoki.`,
     ],
     relatedIds: ['zycie-codzienne', 'kobiety-prl', 'swieta-prl'],
   },
+  {
+    id: 'jak-byc-kochana',
+    title: 'Jak być kochaną',
+    subtitle: 'Has, Krafftówna i gorzka miłość',
+    category: 'kultura',
+    tags: ['film', 'kino', 'dramat', 'wojna'],
+    yearStart: 1963,
+    summary: 'Kameralny dramat Wojciecha Hasa (1963) o poświęceniu i miłości; aktorka wspomina, jak w czasie okupacji ukrywała przed gestapo niewdzięcznego kochanka.',
+    content: `## Film
+„Jak być kochaną” (1963) w reżyserii Wojciecha Jerzego Hasa to kameralny dramat o miłości, poświęceniu i cieniu wojny.
+
+## Fabuła
+Aktorka Felicja, lecąc samolotem do Paryża, wspomina, jak podczas okupacji ukrywała przed gestapo kochanego, choć niewdzięcznego aktora.
+
+## Barbara Krafftówna
+Subtelna, przejmująca rola Felicji przyniosła aktorce nagrodę na festiwalu w San Francisco.
+
+## Cybulski
+W roli ukrywanego, egocentrycznego aktora wystąpił Zbigniew Cybulski.
+
+## Forma
+Retrospekcje, delikatny psychologizm i gorzka ironia losu budują niezwykły nastrój.
+
+## Znaczenie
+To jeden z najpiękniejszych i najbardziej docenianych filmów Hasa.`,
+    trivia: ['Barbara Krafftówna za rolę Felicji otrzymała nagrodę aktorską w San Francisco.', 'W roli ukrywanego aktora wystąpił Zbigniew Cybulski.'],
+    resources: [
+      {
+        id: 'jbk-yt',
+        title: '„Jak być kochaną” – film',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=EyXoDQGtfhk',
+        source: 'YouTube',
+        description: 'Dzieło Wojciecha Hasa (1963).',
+      },
+      {
+        id: 'jbk-1',
+        title: '„Jak być kochaną” – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Jak+by%C4%87+kochan%C4%85+Has+Krafft%C3%B3wna+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'jbk-2',
+        title: '„Jak być kochaną” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Jak%20by%C4%87%20kochan%C4%85%20film%20Has&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['sanatorium-pod-klepsydra', 'rekopis-znaleziony-w-saragossie', 'cybulski-zbigniew'],
+  },
+  {
+    id: 'marek-i-vacek',
+    title: 'Marek i Wacek',
+    subtitle: 'Fortepianowy duet z humorem',
+    category: 'kultura',
+    tags: ['muzyka', 'estrada', 'fortepian', 'rozrywka'],
+    yearStart: 1963,
+    yearEnd: 1986,
+    summary: 'Fortepianowy duet Marka Tomaszewskiego i Wacława „Vacka” Kisielewskiego; z humorem przerabiali klasykę na nowocześnie i robili międzynarodową karierę.',
+    content: `## Duet
+Marek i Wacek to fortepianowy duet Marka Tomaszewskiego i Wacława „Vacka” Kisielewskiego, występujący od 1963 roku.
+
+## Styl
+Z humorem przerabiali klasykę na nowocześnie i odwrotnie – nowoczesne przeboje w stylu klasycznym.
+
+## Estrada
+Brawurowe, dowcipne występy przy dwóch fortepianach zachwycały publiczność w kraju i za granicą.
+
+## Świat
+Zrobili międzynarodową karierę, grając w prestiżowych salach koncertowych świata.
+
+## Telewizja
+Zadebiutowali w telewizji 8 marca 1963; wystąpili też w filmie „Tandem”.
+
+## Znaczenie
+To jeden z najbardziej rozpoznawalnych polskich zespołów estradowych; duet zakończyła śmierć Vacka w 1986 roku.`,
+    trivia: ['Z humorem przerabiali klasykę na nowocześnie i odwrotnie.', 'Zrobili międzynarodową karierę, grając przy dwóch fortepianach.'],
+    resources: [
+      {
+        id: 'mv-yt',
+        title: 'Marek i Wacek – „Plays Favorite Melodies” (1965)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=eJiXXq0MmqM',
+        source: 'YouTube',
+        description: 'Nagranie duetu z lat 60.',
+      },
+      {
+        id: 'mv-1',
+        title: 'Marek i Wacek – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Marek+i+Wacek+duet+fortepianowy+wyst%C4%99p',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o duecie.',
+      },
+      {
+        id: 'mv-2',
+        title: 'Marek i Wacek – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Marek%20i%20Wacek%20duet%20fortepianowy%20Tomaszewski%20Kisielewski&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o duecie.',
+      },
+    ],
+    relatedIds: ['festiwal-opole', 'kabaret-starszych-panow', 'zbigniew-wodecki'],
+  },
+  {
+    id: 'pola-raksa',
+    title: 'Pola Raksa',
+    subtitle: 'Marusia i ikona urody',
+    category: 'osoby',
+    tags: ['film', 'aktorstwo', 'kobiety', 'kultura'],
+    yearStart: 1959,
+    yearEnd: 1989,
+    summary: 'Aktorka, jedna z największych gwiazd i „sex symbol” polskiego kina lat 60.; kultowa jako sanitariuszka Marusia w „Czterech pancernych i psie”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pola%20Raksa%20Ma%C5%82gorzata%20Niemirska%20Czterej%20pancerni%20i%20pies%201969.jpg?width=800',
+    imageCaption: 'Pola Raksa (z lewej) w „Czterech pancernych i psie”.',
+    content: `## Sylwetka
+Pola Raksa (ur. 1941) to aktorka, jedna z największych gwiazd i „sex symbol” polskiego kina lat 60.
+
+## Marusia
+Najbardziej znana jest z kultowej roli radzieckiej sanitariuszki Marusi w serialu „Czterej pancerni i pies”.
+
+## Uroda
+Jej uroda i wdzięk uczyniły ją idolką i marzeniem całego pokolenia widzów.
+
+## Role
+Grała także m.in. w „Rękopisie znalezionym w Saragossie” i wielu innych filmach epoki.
+
+## Wycofanie
+Z czasem usunęła się z życia publicznego, co jeszcze spotęgowało jej legendę.
+
+## Znaczenie
+To jedna z najbardziej ikonicznych aktorek w historii polskiego kina.`,
+    trivia: ['Zasłynęła jako sanitariuszka Marusia w „Czterech pancernych i psie”.', 'Była uważana za „sex symbol” polskiego kina lat 60.'],
+    resources: [
+      {
+        id: 'pr-yt',
+        title: 'Pola Raksa – role filmowe',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Pola+Raksa+Marusia+Czterej+pancerni+role',
+        source: 'YouTube',
+        description: 'Sceny i materiały o aktorce.',
+      },
+      {
+        id: 'pr-2',
+        title: 'Pola Raksa – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Pola%20Raksa%20aktorka&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o aktorce.',
+      },
+      {
+        id: 'pr-3',
+        title: '„Czterej pancerni” – Marusia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Czterej+pancerni+Marusia+Pola+Raksa',
+        source: 'YouTube',
+        description: 'Materiały o kultowej roli.',
+      },
+    ],
+    relatedIds: ['czterej-pancerni', 'olbrychski-daniel', 'kalina-jedrusik'],
+  },
+  {
+    id: 'dozynki',
+    title: 'Dożynki',
+    subtitle: 'Święto plonów w wersji państwowej',
+    category: 'społeczeństwo',
+    tags: ['obyczaje', 'wieś', 'święta', 'propaganda', 'folklor'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Tradycyjne święto plonów, w PRL przekształcone w państwową uroczystość; dożynki centralne z wieńcem, chlebem i władzami partyjnymi.',
+    content: `## Święto plonów
+Dożynki to tradycyjne święto zakończenia żniw, które w PRL przekształcono w wielką państwową uroczystość.
+
+## Dożynki centralne
+Organizowano huczne dożynki centralne z udziałem najwyższych władz partyjnych i państwowych.
+
+## Wieniec i chleb
+Delegacje wsi wręczały przywódcom dożynkowy wieniec i bochen chleba z tegorocznego zboża.
+
+## Propaganda
+Święto pokazywano jako triumf socjalistycznego rolnictwa i sojuszu robotniczo-chłopskiego.
+
+## Ludowość
+Barwne stroje ludowe, korowody i występy zespołów folklorystycznych nadawały im widowiskowy charakter.
+
+## Znaczenie
+To charakterystyczne dla epoki połączenie ludowej tradycji z państwową propagandą.`,
+    trivia: ['Delegacje wsi wręczały władzom dożynkowy wieniec i bochen chleba.', 'Dożynki centralne były wielką państwową uroczystością z udziałem władz.'],
+    resources: [
+      {
+        id: 'doz-pkf',
+        title: 'Polska Kronika Filmowa – dożynki',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+do%C5%BCynki+centralne+%C5%9Bwi%C4%99to+plon%C3%B3w',
+        source: 'YouTube',
+        description: 'Kroniki filmowe z dożynek centralnych.',
+      },
+      {
+        id: 'doz-1',
+        title: 'Dożynki w PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=do%C5%BCynki+PRL+wie%C5%9B+%C5%9Bwi%C4%99to+plon%C3%B3w',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o dożynkach.',
+      },
+      {
+        id: 'doz-2',
+        title: 'Dożynki – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=do%C5%BCynki%20centralne%20PRL%20%C5%9Bwi%C4%99to%20plon%C3%B3w&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania.',
+      },
+    ],
+    relatedIds: ['wies-prl', 'rolnictwo-prl', 'swieto-22-lipca'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -26532,4 +26753,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1963, event: 'Helena Majdaniec – „królowa twista” (festiwal w Opolu)', category: 'kultura', entryId: 'helena-majdaniec' },
   { year: 1965, event: 'Jan Kobuszewski współtworzy kabaret Dudek', category: 'kultura', entryId: 'jan-kobuszewski' },
   { year: 1971, event: 'Premiera komedii „Nie lubię poniedziałku” Tadeusza Chmielewskiego', category: 'kultura', entryId: 'nie-lubie-poniedzialku' },
+  { year: 1963, event: 'Debiut telewizyjny duetu Marek i Wacek', category: 'kultura', entryId: 'marek-i-vacek' },
+  { year: 1963, event: 'Premiera „Jak być kochaną” Wojciecha Hasa', category: 'kultura', entryId: 'jak-byc-kochana' },
+  { year: 1966, event: 'Pola Raksa jako Marusia w „Czterech pancernych i psie”', category: 'kultura', entryId: 'pola-raksa' },
 ];
