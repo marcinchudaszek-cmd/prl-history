@@ -24928,6 +24928,227 @@ PKS to kręgosłup transportu zbiorowego w PRL, zwłaszcza tam, gdzie nie docier
     ],
     relatedIds: ['ikarus-autobusy', 'podroze-pkp', 'nysa-zuk'],
   },
+  {
+    id: 'matka-joanna-od-aniolow',
+    title: 'Matka Joanna od Aniołów',
+    subtitle: 'Kawalerowicz o opętaniu i wierze',
+    category: 'kultura',
+    tags: ['film', 'kino', 'dramat', 'ekranizacja'],
+    yearStart: 1961,
+    summary: 'Ascetyczny dramat Jerzego Kawalerowicza (1961) wg Iwaszkiewicza; o egzorcyzmach w klasztorze, nagrodzony w Cannes.',
+    content: `## Film
+„Matka Joanna od Aniołów” (1961) w reżyserii Jerzego Kawalerowicza to ekranizacja opowiadania Jarosława Iwaszkiewicza.
+
+## Fabuła
+Ksiądz Józef Suryn przybywa do klasztoru, by egzorcyzmować przeoryszę Joannę, rzekomo opętaną przez demony.
+
+## Opętanie
+Historia luźno nawiązuje do XVII-wiecznych opętań w Loudun i drąży temat wiary, pokusy i winy.
+
+## Styl
+Surowa, ascetyczna, czarno-biała forma i wielka rola Lucyny Winnickiej czynią z filmu dzieło wybitne.
+
+## Cannes
+Obraz zdobył Specjalną Nagrodę Jury na festiwalu w Cannes w 1961 roku.
+
+## Znaczenie
+To jedno z arcydzieł polskiej szkoły filmowej, odważne jak na epokę.`,
+    trivia: ['Film zdobył Specjalną Nagrodę Jury na festiwalu w Cannes w 1961.', 'To ekranizacja opowiadania Jarosława Iwaszkiewicza o opętaniu w klasztorze.'],
+    resources: [
+      {
+        id: 'mj-yt',
+        title: '„Matka Joanna od Aniołów” – film',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=hK7srLgFBDs',
+        source: 'YouTube',
+        description: 'Dzieło Jerzego Kawalerowicza (1961).',
+      },
+      {
+        id: 'mj-1',
+        title: '„Matka Joanna od Aniołów” – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Matka+Joanna+od+Anio%C5%82%C3%B3w+Kawalerowicz+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'mj-2',
+        title: '„Matka Joanna od Aniołów” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Matka%20Joanna%20od%20Anio%C5%82%C3%B3w%20film%20Kawalerowicz&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['faraon', 'noz-w-wodzie', 'rekopis-znaleziony-w-saragossie'],
+  },
+  {
+    id: 'czerwono-czarni',
+    title: 'Czerwono-Czarni',
+    subtitle: 'Pionierzy polskiego big-beatu',
+    category: 'kultura',
+    tags: ['muzyka', 'big-beat', 'rock', 'estrada'],
+    yearStart: 1965,
+    yearEnd: 1976,
+    summary: 'Jeden z pierwszych i najważniejszych polskich zespołów big-beatu, powołany przez Franciszka Walickiego; wylęgarnia gwiazd, m.in. Niemena i Kasi Sobczyk.',
+    content: `## Zespół
+Czerwono-Czarni to jeden z pierwszych i najważniejszych polskich zespołów big-beatu, powstały w połowie lat 60. z inicjatywy Franciszka Walickiego.
+
+## Big-beat
+To właśnie Walicki ukuł termin „big-beat”, by ominąć niechęć władz do „rock and rolla”.
+
+## Wokaliści
+Przez zespół przewinęli się m.in. Czesław Niemen, Helena Majdaniec, Kasia Sobczyk i Michaj Burano.
+
+## Przeboje
+W repertuarze m.in. „Bądź poważny choć raz” oraz rock and rollowe standardy epoki.
+
+## Estrada
+Masowe trasy koncertowe i festiwale rozkręcały polską scenę młodzieżową.
+
+## Znaczenie
+To pionierzy polskiego rocka i prawdziwa wylęgarnia gwiazd big-beatu.`,
+    trivia: ['Termin „big-beat” ukuto, by ominąć niechęć władz do „rock and rolla”.', 'Przez zespół przewinęli się m.in. Czesław Niemen i Kasia Sobczyk.'],
+    resources: [
+      {
+        id: 'cc-yt',
+        title: 'Czerwono-Czarni – „Bądź poważny choć raz”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=_7q1wKQUx0E',
+        source: 'YouTube',
+        description: 'Nagranie zespołu z lat 60.',
+      },
+      {
+        id: 'cc-1',
+        title: 'Czerwono-Czarni – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Czerwono-Czarni+big-beat+lata+60',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o zespole.',
+      },
+      {
+        id: 'cc-2',
+        title: 'Czerwono-Czarni – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Czerwono-Czarni%20zesp%C3%B3%C5%82%20big-beat%20Walicki&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o zespole.',
+      },
+    ],
+    relatedIds: ['niemen-czeslaw', 'czerwone-gitary', 'festiwal-opole'],
+  },
+  {
+    id: 'jan-tomaszewski',
+    title: 'Jan Tomaszewski',
+    subtitle: 'Bohater Wembley 1973',
+    category: 'osoby',
+    tags: ['sport', 'piłka nożna', 'reprezentacja', 'bramkarz'],
+    yearStart: 1971,
+    yearEnd: 1982,
+    summary: 'Bramkarz reprezentacji Polski, bohater remisu na Wembley (1973) i filar drużyny Górskiego, która zdobyła 3. miejsce na mundialu 1974.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Aankomst%20Pools%20elftal%20op%20Schiphol%2015%20Tomaszewski%2C%20kop%2C%2016%20Deyna%2C%20kop%2C%20Bestanddeelnr%20928-2029.jpg?width=800',
+    imageCaption: 'Jan Tomaszewski (z lewej) i Kazimierz Deyna, lata 70.',
+    content: `## Sylwetka
+Jan Tomaszewski (ur. 1948) to legendarny bramkarz reprezentacji Polski, jeden z bohaterów złotej drużyny lat 70.
+
+## Wembley 1973
+Fenomenalną postawą w bramce wywalczył remis 1:1 z Anglią, dający Polsce historyczny awans na mistrzostwa świata.
+
+## Clown
+Angielski komentator Brian Clough nazwał go przed meczem „clownem” – Tomaszewski serią obron zamknął mu usta.
+
+## Monachium 1974
+Był filarem drużyny Kazimierza Górskiego, która zdobyła 3. miejsce na mistrzostwach świata.
+
+## Styl
+Słynął z brawurowych, nieszablonowych, czasem wręcz akrobatycznych interwencji.
+
+## Znaczenie
+To jeden z najsłynniejszych polskich bramkarzy w historii.`,
+    trivia: ['Brian Clough nazwał go przed meczem „clownem” – Tomaszewski go zawstydził.', 'Jego remis 1:1 z Anglią na Wembley dał Polsce awans na mundial 1974.'],
+    resources: [
+      {
+        id: 'jt-yt',
+        title: 'Jan Tomaszewski – Wembley 1973',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Jan+Tomaszewski+Wembley+1973+Anglia+Polska',
+        source: 'YouTube',
+        description: 'Nagrania i materiały o bramkarzu.',
+      },
+      {
+        id: 'jt-2',
+        title: 'Jan Tomaszewski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Jan%20Tomaszewski%20bramkarz%20reprezentacja&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o zawodniku.',
+      },
+      {
+        id: 'jt-3',
+        title: 'Złota drużyna Górskiego – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=reprezentacja+Polski+G%C3%B3rski+mundial+1974',
+        source: 'YouTube',
+        description: 'Materiały o polskiej piłce lat 70.',
+      },
+    ],
+    relatedIds: ['wembley-1973', 'deyna-kazimierz', 'mundial-1974'],
+  },
+  {
+    id: 'kolonie-letnie',
+    title: 'Kolonie i obozy letnie',
+    subtitle: 'Apel, ognisko i poczta kolonijna',
+    category: 'społeczeństwo',
+    tags: ['dzieci', 'wakacje', 'wypoczynek', 'ZHP', 'życie codzienne'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Kolonie i obozy letnie były masową formą zorganizowanego wypoczynku dzieci w PRL, organizowaną przez zakłady pracy, szkoły, ZHP i FWP.',
+    content: `## Wakacje
+Kolonie i obozy letnie były masową formą zorganizowanego wypoczynku dzieci i młodzieży w PRL.
+
+## Organizatorzy
+Organizowały je zakłady pracy, szkoły, ZHP i FWP; wyjazd bywał tani lub dofinansowany z funduszu socjalnego.
+
+## Życie kolonijne
+Apel, wspólna stołówka, gry terenowe, ogniska i „poczta kolonijna” tworzyły niezapomniany rytm dnia.
+
+## Harcerskie obozy
+Obozy ZHP pod namiotami uczyły samodzielności, zaradności i życia w grupie.
+
+## Pierwsze wyjazdy
+Dla wielu dzieci to była pierwsza rozłąka z domem i pierwsze wakacyjne przyjaźnie.
+
+## Znaczenie
+To nostalgiczny element dzieciństwa i socjalnej polityki wypoczynku w PRL.`,
+    trivia: ['Kolonie organizowały zakłady pracy, szkoły, ZHP i FWP – często z dofinansowaniem.', 'Ogniska, apele i „poczta kolonijna” tworzyły niezapomniany rytm wakacji.'],
+    resources: [
+      {
+        id: 'kol2-pkf',
+        title: 'Polska Kronika Filmowa – wypoczynek dzieci',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+kolonie+obozy+wypoczynek+dzieci',
+        source: 'YouTube',
+        description: 'Kroniki filmowe o koloniach i obozach.',
+      },
+      {
+        id: 'kol2-1',
+        title: 'Kolonie w PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=kolonie+letnie+obozy+PRL+dzieci+wakacje',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o koloniach.',
+      },
+      {
+        id: 'kol2-2',
+        title: 'Kolonie – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=kolonie%20letnie%20obozy%20harcerskie%20PRL&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania.',
+      },
+    ],
+    relatedIds: ['zhp-harcerstwo', 'wczasy-fwp', 'dzieci-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -25184,4 +25405,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1970, event: 'Debiut Jana Himilsbacha w „Rejsie” – fenomen naturszczyka', category: 'kultura', entryId: 'jan-himilsbach' },
   { year: 1976, event: 'Tadeusz Ślusarski zdobywa złoto olimpijskie w skoku o tyczce (Montreal)', category: 'społeczeństwo', entryId: 'tadeusz-slusarski' },
   { year: 1979, event: '„Amator” Kieślowskiego – Grand Prix w Moskwie i Złote Lwy w Gdańsku', category: 'kultura', entryId: 'amator-film' },
+  { year: 1961, event: '„Matka Joanna od Aniołów” Kawalerowicza – nagroda w Cannes', category: 'kultura', entryId: 'matka-joanna-od-aniolow' },
+  { year: 1965, event: 'Czerwono-Czarni – jeden z pierwszych zespołów polskiego big-beatu', category: 'kultura', entryId: 'czerwono-czarni' },
+  { year: 1973, event: 'Jan Tomaszewski broni na Wembley – awans Polski na mundial', category: 'społeczeństwo', entryId: 'jan-tomaszewski' },
 ];
