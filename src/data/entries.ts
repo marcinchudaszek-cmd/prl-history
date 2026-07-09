@@ -24482,6 +24482,229 @@ To nieodłączny element miejskiego pejzażu i codziennych dojazdów w PRL.`,
     ],
     relatedIds: ['nysa-zuk', 'motoryzacja-prl', 'podroze-pkp'],
   },
+  {
+    id: 'barwy-ochronne',
+    title: 'Barwy ochronne',
+    subtitle: 'Zanussi i kino moralnego niepokoju',
+    category: 'kultura',
+    tags: ['film', 'kino', 'moralny niepokój', 'inteligencja'],
+    yearStart: 1977,
+    summary: 'Sztandarowy film kina moralnego niepokoju w reżyserii Krzysztofa Zanussiego (1977); o konformizmie inteligencji, ze starciem idealizmu i cynizmu.',
+    content: `## Film
+„Barwy ochronne” (1977) w reżyserii Krzysztofa Zanussiego to jeden ze sztandarowych filmów „kina moralnego niepokoju”.
+
+## Fabuła
+Na letnim obozie naukowym młody, idealistyczny asystent Jarosław ściera się z cynicznym, manipulującym ludźmi docentem Jakubem.
+
+## Konformizm
+Film obnaża konformizm i moralne kompromisy inteligencji w realiach PRL.
+
+## Pojedynek
+Oś fabuły to starcie dwóch postaw: uczciwości i cynicznego przystosowania do systemu.
+
+## Muzyka
+Muzykę do filmu skomponował Wojciech Kilar.
+
+## Znaczenie
+To jeden z najważniejszych filmów nurtu moralnego niepokoju polskiego kina.`,
+    trivia: ['To sztandarowy film „kina moralnego niepokoju”.', 'Muzykę do filmu skomponował Wojciech Kilar.'],
+    resources: [
+      {
+        id: 'bo-yt',
+        title: '„Barwy ochronne” – fragment',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=DtX-CBAVnOY',
+        source: 'YouTube',
+        description: 'Materiał o filmie Zanussiego.',
+      },
+      {
+        id: 'bo-1',
+        title: '„Barwy ochronne” – sceny',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Barwy+ochronne+Zanussi+1977+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'bo-2',
+        title: '„Barwy ochronne” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Barwy%20ochronne%20film%20Zanussi&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['kino-moralnego-niepokoju', 'zanussi-krzysztof', 'czlowiek-z-marmuru'],
+  },
+  {
+    id: 'wladyslaw-komar',
+    title: 'Władysław Komar',
+    subtitle: 'Złoty kulomiot z Monachium',
+    category: 'osoby',
+    tags: ['sport', 'lekkoatletyka', 'olimpiada', 'kula'],
+    yearStart: 1972,
+    yearEnd: 1989,
+    summary: 'Lekkoatleta, kulomiot; w 1972 zdobył złoty medal olimpijski w Monachium w dramatycznym, wyrównanym finale; barwna postać sportu i aktor.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/W%C5%82adys%C5%82aw%20Komar%201972.jpg?width=800',
+    imageCaption: 'Władysław Komar – złoty medalista z 1972 roku.',
+    content: `## Sylwetka
+Władysław Komar (1940–1998) to lekkoatleta, kulomiot i jedna z najbarwniejszych postaci polskiego sportu.
+
+## Monachium 1972
+Zdobył złoty medal olimpijski w pchnięciu kulą, w niezwykle wyrównanym i dramatycznym finale.
+
+## Charyzma
+Był popularnym, lubianym sportowcem o wielkiej charyzmie, znanym także z ekranu.
+
+## Rywalizacja
+Złoto wywalczył minimalną przewagą, w jednym z najbardziej emocjonujących konkursów igrzysk.
+
+## Poza sportem
+Po karierze udzielał się aktorsko, grając w filmach.
+
+## Znaczenie
+To jeden z najbardziej lubianych polskich olimpijczyków; zginął tragicznie w 1998 roku.`,
+    trivia: ['Złoto w Monachium 1972 zdobył w niezwykle wyrównanym, dramatycznym finale.', 'Był nie tylko kulomiotem, ale i aktorem filmowym.'],
+    resources: [
+      {
+        id: 'wk2-yt',
+        title: 'Władysław Komar – Monachium 1972',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=W%C5%82adys%C5%82aw+Komar+Monachium+1972+kula+z%C5%82oto',
+        source: 'YouTube',
+        description: 'Nagrania i materiały o zawodniku.',
+      },
+      {
+        id: 'wk2-2',
+        title: 'Władysław Komar – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=W%C5%82adys%C5%82aw%20Komar%20lekkoatleta%20kulomiot&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o zawodniku.',
+      },
+      {
+        id: 'wk2-3',
+        title: 'Polska lekkoatletyka – olimpiady',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=polska+lekkoatletyka+olimpiada+medale+PRL',
+        source: 'YouTube',
+        description: 'Materiały o polskich sukcesach olimpijskich.',
+      },
+    ],
+    relatedIds: ['jacek-wszola', 'irena-szewinska', 'deyna-kazimierz'],
+  },
+  {
+    id: 'halina-frackowiak',
+    title: 'Halina Frąckowiak',
+    subtitle: '„Bądź gotowy dziś do drogi”',
+    category: 'osoby',
+    tags: ['muzyka', 'estrada', 'pop', 'big-beat', 'kobiety'],
+    yearStart: 1966,
+    yearEnd: 1989,
+    summary: 'Wokalistka o ciepłej barwie głosu, gwiazda estrady od lat 60.; autorka przebojów „Napisz proszę” i „Bądź gotowy dziś do drogi”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Halina%20Frackowiak.jpg?width=800',
+    imageCaption: 'Halina Frąckowiak – wokalistka estradowa.',
+    content: `## Sylwetka
+Halina Frąckowiak (ur. 1947) to wokalistka o ciepłej barwie głosu, jedna z gwiazd polskiej estrady od lat 60.
+
+## Debiut
+Karierę zaczynała w latach 60., śpiewając m.in. z grupą ABC Andrzeja Nebeskiego.
+
+## Przeboje
+Największe przeboje to „Napisz proszę”, „Bądź gotowy dziś do drogi” i „Mały elf”.
+
+## Bądź gotowy dziś do drogi
+Przebój z 1974 roku, z muzyką Ryszarda Poznakowskiego, stał się klasykiem polskiej piosenki.
+
+## Wszechstronność
+Poruszała się swobodnie od bigbitu przez pop po piosenkę poetycką.
+
+## Znaczenie
+To jedna z najbardziej cenionych polskich wokalistek epoki.`,
+    trivia: ['Karierę zaczynała w latach 60. z grupą ABC Andrzeja Nebeskiego.', '„Bądź gotowy dziś do drogi” (1974) to jeden z jej największych przebojów.'],
+    resources: [
+      {
+        id: 'hf-yt',
+        title: 'Halina Frąckowiak – „Bądź gotowy dziś do drogi”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=1qEj2qSLdWA',
+        source: 'YouTube',
+        description: 'Klasyczny przebój artystki (1974).',
+      },
+      {
+        id: 'hf-1',
+        title: 'Halina Frąckowiak – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Halina+Fr%C4%85ckowiak+przeboje+koncert',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o artystce.',
+      },
+      {
+        id: 'hf-2',
+        title: 'Halina Frąckowiak – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Halina%20Fr%C4%85ckowiak%20wokalistka&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o artystce.',
+      },
+    ],
+    relatedIds: ['maryla-rodowicz', 'sosnicka-zdzislawa', 'festiwal-opole'],
+  },
+  {
+    id: 'adapter-bambino',
+    title: 'Adapter Bambino',
+    subtitle: 'Walizkowy gramofon i pocztówki dźwiękowe',
+    category: 'społeczeństwo',
+    tags: ['technika', 'muzyka', 'życie codzienne', 'młodzież'],
+    yearStart: 1960,
+    yearEnd: 1989,
+    summary: 'Najpopularniejszy tani gramofon (adapter) w PRL – walizkowe Bambino było marzeniem wielu domów i centrum młodzieżowych potańcówek.',
+    content: `## Gramofon
+Bambino to najpopularniejszy, tani gramofon (adapter) w PRL, marzenie wielu domów i młodzieży.
+
+## Produkcja
+Walizkowe adaptery produkowano masowo od lat 60. – były symbolem dostępnej domowej rozrywki.
+
+## Płyty
+Na Bambino słuchano singli i longplayów wytwórni Polskie Nagrania „Muza”.
+
+## Pocztówki dźwiękowe
+Ogromną popularnością cieszyły się „pocztówki dźwiękowe” – elastyczne płytki z nadrukowanym obrazkiem.
+
+## Kultura młodzieżowa
+Adapter był centrum domowych potańcówek i słuchania big-beatu.
+
+## Znaczenie
+Bambino to nostalgiczny symbol domowej muzyki epoki.`,
+    trivia: ['Popularne „pocztówki dźwiękowe” to elastyczne płytki z nadrukowanym obrazkiem.', 'Walizkowy adapter Bambino był marzeniem i centrum domowych potańcówek.'],
+    resources: [
+      {
+        id: 'ab-yt',
+        title: 'Adapter Bambino – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=adapter+Bambino+gramofon+PRL+poczt%C3%B3wki+d%C5%BAwi%C4%99kowe',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o gramofonie.',
+      },
+      {
+        id: 'ab-wk',
+        title: 'Bambino (gramofon) – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Bambino%20gramofon%20adapter%20PRL&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania.',
+      },
+      {
+        id: 'ab-2',
+        title: 'Muzyka w domach PRL – sprzęt',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=gramofon+adapter+radio+PRL+sprz%C4%99t+muzyczny',
+        source: 'YouTube',
+        description: 'Materiały o domowym sprzęcie muzycznym.',
+      },
+    ],
+    relatedIds: ['radio-prl', 'zycie-codzienne', 'mebloscianka'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -24732,4 +24955,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1956, event: 'Powstanie kabaretu Piwnica pod Baranami w Krakowie', category: 'kultura', entryId: 'piwnica-pod-baranami' },
   { year: 1965, event: 'Premiera „Rękopisu znalezionego w Saragossie” Wojciecha Hasa', category: 'kultura', entryId: 'rekopis-znaleziony-w-saragossie' },
   { year: 1974, event: 'SBB – czołowy polski zespół rocka progresywnego', category: 'kultura', entryId: 'sbb-zespol' },
+  { year: 1972, event: 'Władysław Komar zdobywa złoto olimpijskie w pchnięciu kulą (Monachium)', category: 'społeczeństwo', entryId: 'wladyslaw-komar' },
+  { year: 1974, event: 'Halina Frąckowiak – przebój „Bądź gotowy dziś do drogi”', category: 'kultura', entryId: 'halina-frackowiak' },
+  { year: 1977, event: 'Premiera „Barw ochronnych” Krzysztofa Zanussiego', category: 'kultura', entryId: 'barwy-ochronne' },
 ];
