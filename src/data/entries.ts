@@ -26479,6 +26479,229 @@ To charakterystyczne dla epoki połączenie ludowej tradycji z państwową propa
     ],
     relatedIds: ['wies-prl', 'rolnictwo-prl', 'swieto-22-lipca'],
   },
+  {
+    id: 'jazz-jamboree',
+    title: 'Jazz Jamboree',
+    subtitle: 'Najstarszy polski festiwal jazzowy',
+    category: 'kultura',
+    tags: ['muzyka', 'jazz', 'festiwal', 'Warszawa'],
+    yearStart: 1958,
+    yearEnd: 1989,
+    summary: 'Najstarszy i najważniejszy polski festiwal jazzowy, organizowany w Warszawie od 1958; okno na światowy jazz mimo żelaznej kurtyny.',
+    content: `## Festiwal
+Jazz Jamboree to najstarszy i najważniejszy polski festiwal jazzowy, organizowany w Warszawie od 1958 roku.
+
+## Początki
+Pierwsze edycje odbywały się w klubie studenckim Stodoła; od 1965 festiwal gościł w Sali Kongresowej Pałacu Kultury i Nauki.
+
+## Okno na świat
+Mimo żelaznej kurtyny na jego scenie występowały światowe gwiazdy jazzu obok polskich mistrzów.
+
+## Polscy mistrzowie
+Grali tu Krzysztof Komeda, Tomasz Stańko, Zbigniew Namysłowski i inni czołowi polscy jazzmani.
+
+## Wolność
+Jazz był w PRL enklawą artystycznej i osobistej wolności, a festiwal – jej świętem.
+
+## Znaczenie
+To jeden z najważniejszych festiwali jazzowych Europy i duma polskiej kultury.`,
+    trivia: ['Pierwsze Jazz Jamboree (jako „Jazz 58”) odbyło się w klubie Stodoła.', 'Od 1965 festiwal gościł w Sali Kongresowej Pałacu Kultury i Nauki.'],
+    resources: [
+      {
+        id: 'jj-pkf',
+        title: 'Polska Kronika Filmowa – Jazz Jamboree',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+Jazz+Jamboree+festiwal+jazzowy',
+        source: 'YouTube',
+        description: 'Kroniki filmowe z festiwalu jazzowego.',
+      },
+      {
+        id: 'jj-1',
+        title: 'Jazz Jamboree – nagrania archiwalne',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Jazz+Jamboree+archiwalne+koncerty+jazz',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o festiwalu.',
+      },
+      {
+        id: 'jj-2',
+        title: 'Jazz Jamboree – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Jazz%20Jamboree%20festiwal%20jazzowy%20Warszawa&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o festiwalu.',
+      },
+    ],
+    relatedIds: ['jazz-prl', 'komeda', 'tomasz-stanko'],
+  },
+  {
+    id: 'tomasz-stanko',
+    title: 'Tomasz Stańko',
+    subtitle: 'Trębacz jazzu światowej sławy',
+    category: 'osoby',
+    tags: ['muzyka', 'jazz', 'trąbka', 'kompozytor'],
+    yearStart: 1962,
+    yearEnd: 1989,
+    summary: 'Trębacz jazzowy i kompozytor światowej sławy, pionier europejskiego free jazzu; grał w kwintecie Komedy, nagrywał dla wytwórni ECM.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tomasz%20Stanko.jpg?width=800',
+    imageCaption: 'Tomasz Stańko – trębacz jazzowy i kompozytor.',
+    content: `## Sylwetka
+Tomasz Stańko (1942–2018) to trębacz jazzowy i kompozytor światowej sławy, pionier europejskiego free jazzu.
+
+## Komeda
+Grał w kwintecie Krzysztofa Komedy i uczestniczył w nagraniu legendarnego „Astigmatic” (1965).
+
+## Music for K
+Swój album „Music for K” (1970) zadedykował zmarłemu Komedzie.
+
+## Świat
+Zrobił międzynarodową karierę i nagrywał dla prestiżowej wytwórni ECM.
+
+## Styl
+Rozpoznawalny był jego liryczny, melancholijny, a zarazem awangardowy ton trąbki.
+
+## Znaczenie
+To jeden z najwybitniejszych europejskich jazzmanów i ambasador polskiego jazzu.`,
+    trivia: ['Grał w kwintecie Komedy i uczestniczył w nagraniu „Astigmatic” (1965).', 'Nagrywał dla prestiżowej wytwórni ECM, robiąc światową karierę.'],
+    resources: [
+      {
+        id: 'st-yt',
+        title: 'Tomasz Stańko – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Tomasz+Sta%C5%84ko+tr%C4%99bacz+jazz+koncert',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o artyście.',
+      },
+      {
+        id: 'st-2',
+        title: 'Tomasz Stańko – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Tomasz%20Sta%C5%84ko%20tr%C4%99bacz%20jazz&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o artyście.',
+      },
+      {
+        id: 'st-3',
+        title: 'Krzysztof Komeda – „Astigmatic”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Komeda+Astigmatic+1965+jazz',
+        source: 'YouTube',
+        description: 'Materiały o legendarnym albumie.',
+      },
+    ],
+    relatedIds: ['komeda', 'jazz-jamboree', 'jazz-prl'],
+  },
+  {
+    id: 'antoni-piechniczek',
+    title: 'Antoni Piechniczek',
+    subtitle: 'Trener brązowej drużyny z 1982',
+    category: 'osoby',
+    tags: ['sport', 'piłka nożna', 'trener', 'reprezentacja'],
+    yearStart: 1981,
+    yearEnd: 1989,
+    summary: 'Trener piłkarski, twórca największego sukcesu lat 80.; poprowadził reprezentację Polski po 3. miejsce na mistrzostwach świata 1982 w Hiszpanii.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Antoni%20Piechniczek.jpg?width=800',
+    imageCaption: 'Antoni Piechniczek – trener reprezentacji Polski.',
+    content: `## Sylwetka
+Antoni Piechniczek (ur. 1942) to trener piłkarski, twórca największego sukcesu polskiej reprezentacji lat 80.
+
+## Mundial 1982
+Poprowadził reprezentację Polski po 3. miejsce na mistrzostwach świata w Hiszpanii.
+
+## Boniek i spółka
+Dowodził drużyną gwiazd, w której błyszczał m.in. Zbigniew Boniek.
+
+## Mundial 1986
+Prowadził kadrę także na kolejnych mistrzostwach świata w Meksyku.
+
+## Warsztat
+Ceniony był jako taktyk i wychowawca zawodników.
+
+## Znaczenie
+To jeden z najważniejszych trenerów w historii polskiej piłki nożnej.`,
+    trivia: ['Poprowadził Polskę po 3. miejsce na mundialu 1982 w Hiszpanii.', 'W jego drużynie błyszczał m.in. Zbigniew Boniek.'],
+    resources: [
+      {
+        id: 'apn-yt',
+        title: 'Antoni Piechniczek – Mundial 1982',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Antoni+Piechniczek+trener+reprezentacja+1982',
+        source: 'YouTube',
+        description: 'Nagrania i materiały o trenerze.',
+      },
+      {
+        id: 'apn-2',
+        title: 'Antoni Piechniczek – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Antoni%20Piechniczek%20trener%20pi%C5%82ka&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o trenerze.',
+      },
+      {
+        id: 'apn-3',
+        title: 'Reprezentacja Polski 1982 – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=reprezentacja+Polski+mundial+1982+3+miejsce',
+        source: 'YouTube',
+        description: 'Materiały o brązowej drużynie.',
+      },
+    ],
+    relatedIds: ['mundial-1982', 'boniek-zbigniew', 'gorski-kazimierz'],
+  },
+  {
+    id: 'salto',
+    title: 'Salto',
+    subtitle: 'Oniryczny Konwicki z Cybulskim',
+    category: 'kultura',
+    tags: ['film', 'kino', 'oniryzm', 'rozrachunek'],
+    yearStart: 1965,
+    summary: 'Oniryczny, wieloznaczny dramat Tadeusza Konwickiego (1965) z Cybulskim; słynny ze zbiorowego, somnambulicznego tańca „salto” i muzyki Kilara.',
+    content: `## Film
+„Salto” (1965) w reżyserii Tadeusza Konwickiego to oniryczny, wieloznaczny dramat z Zbigniewem Cybulskim w roli głównej.
+
+## Fabuła
+Tajemniczy przybysz Kowalski-Malinowski zjawia się w sennym miasteczku, budząc emocje, fascynację i podejrzliwość mieszkańców.
+
+## Salto
+Słynna scena zbiorowego, somnambulicznego tańca „salto” to metafora wyobcowania, póz i niemożności porozumienia.
+
+## Muzyka
+Hipnotyczną, niepokojącą muzykę skomponował Wojciech Kilar.
+
+## Symbolika
+Film to rozrachunek z polskimi mitami, wojenną traumą i narodowym mitomaństwem.
+
+## Znaczenie
+To jeden z najbardziej intrygujących, autorskich filmów Tadeusza Konwickiego.`,
+    trivia: ['Słynny zbiorowy taniec „salto” to metafora wyobcowania i póz.', 'Hipnotyczną muzykę do filmu skomponował Wojciech Kilar.'],
+    resources: [
+      {
+        id: 'sal-yt',
+        title: '„Salto” – somnambuliczny taniec',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=bV2sB18r5X0',
+        source: 'YouTube',
+        description: 'Słynna scena tańca (muz. Kilar).',
+      },
+      {
+        id: 'sal-fn',
+        title: '„Salto” – Repozytorium Filmoteki Narodowej',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/8539',
+        source: 'Filmoteka Narodowa',
+        description: 'Materiały o filmie (Repozytorium FN).',
+      },
+      {
+        id: 'sal-2',
+        title: '„Salto” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Salto%20film%201965%20Konwicki%20Cybulski&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['popiol-i-diament', 'rejs-film', 'cybulski-zbigniew'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -26756,4 +26979,8 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1963, event: 'Debiut telewizyjny duetu Marek i Wacek', category: 'kultura', entryId: 'marek-i-vacek' },
   { year: 1963, event: 'Premiera „Jak być kochaną” Wojciecha Hasa', category: 'kultura', entryId: 'jak-byc-kochana' },
   { year: 1966, event: 'Pola Raksa jako Marusia w „Czterech pancernych i psie”', category: 'kultura', entryId: 'pola-raksa' },
+  { year: 1958, event: 'Pierwszy festiwal Jazz Jamboree w Warszawie', category: 'kultura', entryId: 'jazz-jamboree' },
+  { year: 1965, event: 'Premiera „Salta” Tadeusza Konwickiego', category: 'kultura', entryId: 'salto' },
+  { year: 1970, event: 'Tomasz Stańko nagrywa „Music for K” – pamięci Komedy', category: 'kultura', entryId: 'tomasz-stanko' },
+  { year: 1982, event: 'Antoni Piechniczek prowadzi Polskę po 3. miejsce na mundialu', category: 'społeczeństwo', entryId: 'antoni-piechniczek' },
 ];
