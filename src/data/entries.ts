@@ -25149,6 +25149,227 @@ To nostalgiczny element dzieciństwa i socjalnej polityki wypoczynku w PRL.`,
     ],
     relatedIds: ['zhp-harcerstwo', 'wczasy-fwp', 'dzieci-prl'],
   },
+  {
+    id: 'pociag-film',
+    title: 'Pociąg',
+    subtitle: 'Nocny dramat Kawalerowicza',
+    category: 'kultura',
+    tags: ['film', 'kino', 'psychologiczny', 'polska szkoła filmowa'],
+    yearStart: 1959,
+    summary: 'Kameralny dramat psychologiczny Jerzego Kawalerowicza (1959) rozgrywający się w nocnym pociągu; klasyk polskiej szkoły filmowej.',
+    content: `## Film
+„Pociąg” (1959) w reżyserii Jerzego Kawalerowicza to kameralny dramat psychologiczny rozgrywający się niemal w całości w nocnym pociągu.
+
+## Fabuła
+W jednym przedziale nocnego pociągu z Warszawy nad morze spotykają się przypadkiem meteorolog Marta i chirurg Jerzy.
+
+## Napięcie
+Tłok, plotki i pościg za rzekomym mordercą wśród pasażerów budują duszną, gęstą atmosferę zamkniętej przestrzeni.
+
+## Obsada
+Wystąpili Lucyna Winnicka, Leon Niemczyk oraz Zbigniew Cybulski.
+
+## Muzyka
+Słynny, jazzowy motyw nadaje filmowi niepowtarzalny, melancholijny nastrój.
+
+## Znaczenie
+To jeden z klasyków polskiej szkoły filmowej i mistrzowski popis kina kameralnego.`,
+    trivia: ['Cała akcja rozgrywa się głównie w ciasnej przestrzeni nocnego pociągu.', 'Jazzowy motyw muzyczny współtworzył niepowtarzalny nastrój filmu.'],
+    resources: [
+      {
+        id: 'pc-yt',
+        title: '„Pociąg” – analiza sceny',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=1xNfZ-YuduE',
+        source: 'YouTube',
+        description: 'Omówienie słynnej sceny z filmu Kawalerowicza.',
+      },
+      {
+        id: 'pc-1',
+        title: '„Pociąg” – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Poci%C4%85g+1959+Kawalerowicz+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'pc-2',
+        title: '„Pociąg” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Poci%C4%85g%20film%201959%20Kawalerowicz&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['noz-w-wodzie', 'popiol-i-diament', 'matka-joanna-od-aniolow'],
+  },
+  {
+    id: 'filipinki',
+    title: 'Filipinki',
+    subtitle: 'Pierwszy polski girlsband',
+    category: 'kultura',
+    tags: ['muzyka', 'big-beat', 'estrada', 'kobiety'],
+    yearStart: 1959,
+    yearEnd: 1974,
+    summary: 'Pierwszy polski girlsband, założony w 1959 w szczecińskim technikum; u szczytu popularności „Batumi” nuciła cała Polska, a o zespole pisał „Billboard”.',
+    content: `## Zespół
+Filipinki to pierwszy polski girlsband, założony w 1959 roku w szczecińskim technikum przez nauczyciela Jana Janikowskiego.
+
+## Nazwa
+Nazwę zespół przyjął od dwutygodnika „Filipinka”.
+
+## Przeboje
+Największe przeboje to „Batumi”, „Wala twist”, „Bal arlekina” i „Do widzenia, profesorze”.
+
+## Fenomen
+U szczytu popularności (1963–1965) ich piosenki nucił cały kraj; pisał o nich nawet amerykański „Billboard”.
+
+## Girlsband
+Zapoczątkowały w bloku wschodnim modę na żeńskie zespoły wokalne.
+
+## Znaczenie
+To pionierki polskiej muzyki młodzieżowej i pierwszy rodzimy girlsband.`,
+    trivia: ['To pierwszy polski girlsband – pisał o nim nawet amerykański „Billboard”.', 'Nazwę wzięły od dwutygodnika „Filipinka”.'],
+    resources: [
+      {
+        id: 'fp2-yt',
+        title: 'Filipinki – „Batumi”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=uCWyFtAUOhc',
+        source: 'YouTube',
+        description: 'Pierwszy teledysk zespołu (1963).',
+      },
+      {
+        id: 'fp2-1',
+        title: 'Filipinki – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Filipinki+zesp%C3%B3%C5%82+lata+60+przeboje',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o zespole.',
+      },
+      {
+        id: 'fp2-2',
+        title: 'Filipinki – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Filipinki%20zesp%C3%B3%C5%82%20girlsband%20Szczecin&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o zespole.',
+      },
+    ],
+    relatedIds: ['czerwono-czarni', 'niemen-czeslaw', 'festiwal-opole'],
+  },
+  {
+    id: 'bogumil-kobiela',
+    title: 'Bogumił Kobiela',
+    subtitle: 'Jan Piszczyk z „Zezowatego szczęścia”',
+    category: 'osoby',
+    tags: ['film', 'aktorstwo', 'komedia', 'kultura'],
+    yearStart: 1955,
+    yearEnd: 1969,
+    summary: 'Wybitny aktor komediowy i charakterystyczny; stworzył kultową rolę Jana Piszczyka w „Zezowatym szczęściu” Munka, przyjaciel Zbigniewa Cybulskiego.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Modelska%20Kobiela%20Cz%C5%82owiek%20z%20M-3%20%28cropped%29.jpg?width=800',
+    imageCaption: 'Bogumił Kobiela – aktor komediowy i charakterystyczny.',
+    content: `## Sylwetka
+Bogumił Kobiela (1931–1969) to wybitny aktor komediowy i charakterystyczny, mistrz drugiego planu, gagu i błyskotliwej charakterystyki postaci.
+
+## Zezowate szczęście
+Stworzył genialną rolę Jana Piszczyka w „Zezowatym szczęściu” Andrzeja Munka (1960) – portret życiowego pechowca i konformisty.
+
+## Cybulski
+Był przyjacielem i scenicznym partnerem Zbigniewa Cybulskiego; wspólnie współtworzyli legendę teatrzyku Bim-Bom.
+
+## Komizm
+Słynął z mimiki, wyczucia rytmu i umiejętności budowania komicznych postaci.
+
+## Popiół i diament
+Zagrał też m.in. w „Popiele i diamencie” Andrzeja Wajdy.
+
+## Znaczenie
+To jeden z najwybitniejszych polskich aktorów komediowych; zginął tragicznie w 1969 roku.`,
+    trivia: ['Stworzył kultową rolę Jana Piszczyka w „Zezowatym szczęściu” Munka.', 'Był przyjacielem i scenicznym partnerem Zbigniewa Cybulskiego.'],
+    resources: [
+      {
+        id: 'bk2-yt',
+        title: 'Bogumił Kobiela – role filmowe',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Bogumi%C5%82+Kobiela+Zezowate+szcz%C4%99%C5%9Bcie+Piszczyk',
+        source: 'YouTube',
+        description: 'Sceny i materiały o aktorze.',
+      },
+      {
+        id: 'bk2-2',
+        title: 'Bogumił Kobiela – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Bogumi%C5%82%20Kobiela%20aktor&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o aktorze.',
+      },
+      {
+        id: 'bk2-3',
+        title: '„Zezowate szczęście” – o filmie',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Zezowate+szcz%C4%99%C5%9Bcie+Munk+1960+Kobiela',
+        source: 'YouTube',
+        description: 'Materiały o słynnej komedii.',
+      },
+    ],
+    relatedIds: ['cybulski-zbigniew', 'kalina-jedrusik', 'popiol-i-diament'],
+  },
+  {
+    id: 'radio-luksemburg',
+    title: 'Radio Luxembourg',
+    subtitle: 'Zachodni eter na falach średnich',
+    category: 'społeczeństwo',
+    tags: ['muzyka', 'młodzież', 'radio', 'życie codzienne'],
+    yearStart: 1960,
+    yearEnd: 1989,
+    summary: 'Najpopularniejsza zachodnia rozgłośnia muzyczna słuchana w PRL; nadawała przeboje, których nie było w oficjalnym radiu – okno na światowy rock i pop.',
+    content: `## Zachodni eter
+Radio Luxembourg było najpopularniejszą zachodnią rozgłośnią muzyczną słuchaną w PRL.
+
+## Muzyka
+Nadawało zachodnie przeboje, których próżno było szukać w oficjalnym, kontrolowanym radiu.
+
+## Nocne słuchanie
+Łapano je wieczorami na falach średnich – mimo trzasków, szumów i zanikającego sygnału.
+
+## Okno na świat
+Dla młodzieży było oknem na światowy rock, pop i najnowsze muzyczne nowinki.
+
+## Nagrywanie
+Usłyszane przeboje nagrywano wprost z radia na magnetofon szpulowy lub kasetowy.
+
+## Znaczenie
+To symbol tęsknoty za zachodnią kulturą i sposobu jej przemycania mimo żelaznej kurtyny.`,
+    trivia: ['Zachodnie przeboje łapano wieczorami na falach średnich, mimo trzasków i szumów.', 'Dla młodzieży Radio Luxembourg było oknem na światowy rock i pop.'],
+    resources: [
+      {
+        id: 'rl-yt',
+        title: 'Radio Luxembourg – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Radio+Luxembourg+PRL+muzyka+fale+%C5%9Brednie',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o rozgłośni.',
+      },
+      {
+        id: 'rl-wk',
+        title: 'Radio Luxembourg – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Radio%20Luxembourg%20historia%20muzyka&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania.',
+      },
+      {
+        id: 'rl-2',
+        title: 'Zachodnia muzyka w PRL – jak słuchano',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=zachodnia+muzyka+PRL+radio+magnetofon',
+        source: 'YouTube',
+        description: 'Materiały o słuchaniu muzyki w epoce.',
+      },
+    ],
+    relatedIds: ['dyskoteka-prl', 'adapter-bambino', 'radio-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -25408,4 +25629,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1961, event: '„Matka Joanna od Aniołów” Kawalerowicza – nagroda w Cannes', category: 'kultura', entryId: 'matka-joanna-od-aniolow' },
   { year: 1965, event: 'Czerwono-Czarni – jeden z pierwszych zespołów polskiego big-beatu', category: 'kultura', entryId: 'czerwono-czarni' },
   { year: 1973, event: 'Jan Tomaszewski broni na Wembley – awans Polski na mundial', category: 'społeczeństwo', entryId: 'jan-tomaszewski' },
+  { year: 1959, event: 'Premiera „Pociągu” Jerzego Kawalerowicza', category: 'kultura', entryId: 'pociag-film' },
+  { year: 1960, event: 'Bogumił Kobiela w „Zezowatym szczęściu” Andrzeja Munka', category: 'kultura', entryId: 'bogumil-kobiela' },
+  { year: 1963, event: 'Filipinki – „Batumi” i pierwszy polski girlsband', category: 'kultura', entryId: 'filipinki' },
 ];
