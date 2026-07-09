@@ -26702,6 +26702,227 @@ To jeden z najbardziej intrygujących, autorskich filmów Tadeusza Konwickiego.`
     ],
     relatedIds: ['popiol-i-diament', 'rejs-film', 'cybulski-zbigniew'],
   },
+  {
+    id: 'kabaret-dudek',
+    title: 'Kabaret Dudek',
+    subtitle: 'Sęk, szmonces i Dziewoński',
+    category: 'kultura',
+    tags: ['kabaret', 'satyra', 'telewizja', 'Warszawa'],
+    yearStart: 1965,
+    yearEnd: 1989,
+    summary: 'Legendarny warszawski kabaret założony w 1965 przez Edwarda Dziewońskiego; słynny z inteligentnych skeczów jak „Sęk”.',
+    content: `## Kabaret
+Kabaret Dudek to legendarny warszawski kabaret, założony w 1965 roku przez Edwarda Dziewońskiego (o pseudonimie „Dudek”).
+
+## Skecze
+Kultowe skecze, m.in. „Sęk” i „Kombinatorzy”, opierały się na inteligentnym, często żydowskim humorze (szmonces).
+
+## Gwiazdy
+Występowali w nim Wiesław Michnikowski, Jan Kobuszewski, Bronisław Pawlik i sam Edward Dziewoński.
+
+## Styl
+Dopracowane, literackie skecze i błyskotliwe dialogi wyznaczały poziom polskiego kabaretu.
+
+## Telewizja
+Programy Dudka cieszyły się ogromną popularnością w telewizji.
+
+## Znaczenie
+To jeden z najważniejszych polskich kabaretów i wzór dla następnych pokoleń.`,
+    trivia: ['Kultowy skecz „Sęk” opiera się na językowych łamańcach i szmoncesie.', 'Nazwa kabaretu pochodzi od pseudonimu Edwarda Dziewońskiego – „Dudek”.'],
+    resources: [
+      {
+        id: 'kd-yt',
+        title: 'Kabaret Dudek – „Sęk”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=JGVOtZjtY-s',
+        source: 'YouTube',
+        description: 'Kultowy skecz kabaretu.',
+      },
+      {
+        id: 'kd-1',
+        title: 'Kabaret Dudek – skecze',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Kabaret+Dudek+Dziewo%C5%84ski+skecze',
+        source: 'YouTube',
+        description: 'Skecze i materiały o kabarecie.',
+      },
+      {
+        id: 'kd-2',
+        title: 'Kabaret Dudek – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Kabaret%20Dudek%20Dziewo%C5%84ski&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o kabarecie.',
+      },
+    ],
+    relatedIds: ['kabaret-tey', 'kabaret-starszych-panow', 'jan-kobuszewski'],
+  },
+  {
+    id: 'zbigniew-namyslowski',
+    title: 'Zbigniew Namysłowski',
+    subtitle: 'Saksofon i jazz z folklorem',
+    category: 'osoby',
+    tags: ['muzyka', 'jazz', 'saksofon', 'kompozytor'],
+    yearStart: 1960,
+    yearEnd: 1989,
+    summary: 'Saksofonista i kompozytor, jeden z filarów polskiego jazzu; łączył jazz z folklorem, a jego album „Winobranie” (1973) to klasyk gatunku.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Namyslowski%20Zbigniew.jpg?width=800',
+    imageCaption: 'Zbigniew Namysłowski – saksofonista jazzowy.',
+    content: `## Sylwetka
+Zbigniew Namysłowski (1939–2022) to saksofonista, kompozytor i jeden z filarów polskiego jazzu.
+
+## Winobranie
+Jego album „Winobranie” (1973) uchodzi za jeden z klasyków polskiego jazzu.
+
+## Folklor
+Łączył jazz z polskim i góralskim folklorem, tworząc rozpoznawalny, oryginalny styl.
+
+## Świat
+Koncertował na całym świecie, współpracując z międzynarodowymi gwiazdami jazzu.
+
+## Jazz Jamboree
+Był stałym bywalcem i gwiazdą festiwalu Jazz Jamboree.
+
+## Znaczenie
+To jeden z najwybitniejszych polskich jazzmanów w historii.`,
+    trivia: ['Jego album „Winobranie” (1973) to klasyk polskiego jazzu.', 'Łączył jazz z polskim i góralskim folklorem.'],
+    resources: [
+      {
+        id: 'zn-yt',
+        title: 'Zbigniew Namysłowski – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Zbigniew+Namys%C5%82owski+jazz+saksofon+Winobranie',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o artyście.',
+      },
+      {
+        id: 'zn-2',
+        title: 'Zbigniew Namysłowski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Zbigniew%20Namys%C5%82owski%20jazz%20saksofonista&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o artyście.',
+      },
+      {
+        id: 'zn-3',
+        title: 'Jazz Jamboree – polscy mistrzowie',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=polski+jazz+Jazz+Jamboree+Namys%C5%82owski',
+        source: 'YouTube',
+        description: 'Materiały o polskiej scenie jazzowej.',
+      },
+    ],
+    relatedIds: ['jazz-jamboree', 'tomasz-stanko', 'komeda'],
+  },
+  {
+    id: 'hydrozagadka',
+    title: 'Hydrozagadka',
+    subtitle: 'Surrealistyczna parodia z superbohaterem As',
+    category: 'kultura',
+    tags: ['film', 'komedia', 'absurd', 'kino'],
+    yearStart: 1970,
+    summary: 'Surrealistyczna, kultowa parodia kina superbohaterskiego Andrzeja Kondratiuka (1970); w upalnej Warszawie znika woda, a ratuje ją bohater As.',
+    content: `## Film
+„Hydrozagadka” (1970) w reżyserii Andrzeja Kondratiuka to surrealistyczna, kultowa parodia kina superbohaterskiego.
+
+## Fabuła
+W upalnej Warszawie tajemniczo znika woda; śledztwo w tej sprawie prowadzi osobliwy superbohater As.
+
+## As
+Józef Nowak zagrał polskiego „supermana” ratującego dręczone upałem i suszą miasto.
+
+## Absurd
+Purnonsensowy humor, celowo tania konwencja i kultowe cytaty złożyły się na fenomen filmu.
+
+## Kino kultowe
+Z czasem „Hydrozagadka” obrosła legendą jako klasyk polskiego absurdu.
+
+## Znaczenie
+To jedna z najbardziej oryginalnych, surrealistycznych komedii PRL.`,
+    trivia: ['Superbohater As ratuje Warszawę, w której tajemniczo znika woda.', 'Kultowy cytat „Panowie, żar leje się z nieba!” pochodzi z tego filmu.'],
+    resources: [
+      {
+        id: 'hz-yt',
+        title: '„Hydrozagadka” – „żar leje się z nieba”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=CKTKbiZW38Y',
+        source: 'YouTube',
+        description: 'Kultowa scena z filmu Kondratiuka.',
+      },
+      {
+        id: 'hz-1',
+        title: '„Hydrozagadka” – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Hydrozagadka+1970+Kondratiuk+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'hz-2',
+        title: '„Hydrozagadka” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Hydrozagadka%20film%201970%20Kondratiuk&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['rejs-film', 'mis-film', 'sami-swoi'],
+  },
+  {
+    id: 'wesele-prl',
+    title: 'Wesele w PRL',
+    subtitle: 'Huczna zabawa, kapela i poprawiny',
+    category: 'społeczeństwo',
+    tags: ['obyczaje', 'życie codzienne', 'rodzina', 'tradycja'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Wesele w PRL to wielkie, często dwudniowe przyjęcie gromadzące rodzinę i sąsiadów; na zastawione stoły latami gromadzono zapasy „spod lady”.',
+    content: `## Obrzęd
+Wesele w PRL to wielkie, huczne, często dwudniowe przyjęcie gromadzące całą rodzinę i sąsiadów.
+
+## Sala i dom
+Bawiono się w wynajętej sali, remizie strażackiej albo w domu; stoły uginały się od potraw.
+
+## Deficyty
+Na wesele latami gromadzono zapasy: wódkę, mięso i cytrusy zdobywane „spod lady”.
+
+## Kapela
+Grała kapela lub zespół; królowały polki, oberki oraz przeboje z list przebojów.
+
+## Oczepiny i poprawiny
+Nie brakowało tradycyjnych oczepin, a nazajutrz następowały poprawiny.
+
+## Znaczenie
+Wesele było jednym z najważniejszych i najbardziej wyczekiwanych świąt rodzinnych.`,
+    trivia: ['Na zastawione wesele latami gromadzono zapasy „spod lady”.', 'Po weselu następowały jeszcze poprawiny – zabawa dnia następnego.'],
+    resources: [
+      {
+        id: 'we2-yt',
+        title: 'Wesela w PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=wesele+PRL+zabawa+kapela+obyczaje',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o weselach.',
+      },
+      {
+        id: 'we2-wk',
+        title: 'Wesele – obyczaje',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=wesele%20polskie%20obyczaje%20tradycja&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania.',
+      },
+      {
+        id: 'we2-2',
+        title: 'Obyczaje rodzinne PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=obyczaje+rodzinne+PRL+wesele+chrzciny',
+        source: 'YouTube',
+        description: 'Materiały o świętach rodzinnych epoki.',
+      },
+    ],
+    relatedIds: ['zycie-codzienne', 'dzien-kobiet', 'kuchnia-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -26983,4 +27204,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1965, event: 'Premiera „Salta” Tadeusza Konwickiego', category: 'kultura', entryId: 'salto' },
   { year: 1970, event: 'Tomasz Stańko nagrywa „Music for K” – pamięci Komedy', category: 'kultura', entryId: 'tomasz-stanko' },
   { year: 1982, event: 'Antoni Piechniczek prowadzi Polskę po 3. miejsce na mundialu', category: 'społeczeństwo', entryId: 'antoni-piechniczek' },
+  { year: 1965, event: 'Powstanie kabaretu Dudek Edwarda Dziewońskiego', category: 'kultura', entryId: 'kabaret-dudek' },
+  { year: 1970, event: 'Premiera „Hydrozagadki” Andrzeja Kondratiuka', category: 'kultura', entryId: 'hydrozagadka' },
+  { year: 1973, event: 'Zbigniew Namysłowski nagrywa „Winobranie” – klasyk polskiego jazzu', category: 'kultura', entryId: 'zbigniew-namyslowski' },
 ];
