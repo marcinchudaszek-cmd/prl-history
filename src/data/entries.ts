@@ -24705,6 +24705,229 @@ Bambino to nostalgiczny symbol domowej muzyki epoki.`,
     ],
     relatedIds: ['radio-prl', 'zycie-codzienne', 'mebloscianka'],
   },
+  {
+    id: 'amator-film',
+    title: 'Amator',
+    subtitle: 'Kieślowski o pasji i cenie prawdy',
+    category: 'kultura',
+    tags: ['film', 'kino', 'moralny niepokój', 'Kieślowski'],
+    yearStart: 1979,
+    summary: 'Przełomowy film Krzysztofa Kieślowskiego (1979) z Jerzym Stuhrem; zaopatrzeniowiec kupuje kamerę i wciąga się w filmowanie – z nurtu moralnego niepokoju.',
+    content: `## Film
+„Amator” (1979) w reżyserii Krzysztofa Kieślowskiego to przełomowy film w jego karierze, zaliczany do kina moralnego niepokoju.
+
+## Fabuła
+Filip Mosz (Jerzy Stuhr), zaopatrzeniowiec z małego miasta, kupuje kamerę amatorską, by filmować córkę – i coraz mocniej wciąga się w kręcenie filmów.
+
+## Pasja i cena
+Rosnąca pasja filmowania wchodzi w konflikt z rodziną i naraża bohatera na starcia z dyrekcją zakładu.
+
+## Kino a rzeczywistość
+To film o odpowiedzialności twórcy i granicach prawdy na ekranie w realiach PRL.
+
+## Nagrody
+Obraz zdobył Grand Prix w Moskwie oraz Złote Lwy w Gdańsku; Jerzy Stuhr otrzymał nagrodę aktorską.
+
+## Znaczenie
+To jeden z kluczowych filmów Kieślowskiego i całego nurtu moralnego niepokoju.`,
+    trivia: ['Filip Mosz kupuje kamerę, by filmować córkę – i staje się filmowcem-amatorem.', 'Film zdobył Grand Prix na festiwalu w Moskwie i Złote Lwy w Gdańsku.'],
+    resources: [
+      {
+        id: 'am-yt',
+        title: '„Amator” – scena z filmu',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=2DH5tT0H3Ig',
+        source: 'YouTube',
+        description: 'Fragment filmu Kieślowskiego.',
+      },
+      {
+        id: 'am-1',
+        title: '„Amator” – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Amator+1979+Kie%C5%9Blowski+Stuhr+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'am-2',
+        title: '„Amator” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Amator%20film%201979%20Kie%C5%9Blowski&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['kieslowski', 'kino-moralnego-niepokoju', 'barwy-ochronne'],
+  },
+  {
+    id: 'tadeusz-slusarski',
+    title: 'Tadeusz Ślusarski',
+    subtitle: 'Złoty tyczkarz z Montrealu',
+    category: 'osoby',
+    tags: ['sport', 'lekkoatletyka', 'olimpiada', 'tyczka'],
+    yearStart: 1976,
+    yearEnd: 1989,
+    summary: 'Lekkoatleta, tyczkarz; w 1976 zdobył złoty medal olimpijski w Montrealu, a w 1980 srebro; przedstawiciel złotej generacji polskiej tyczki.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tadeusz%20%C5%9Alusarski.jpg?width=800',
+    imageCaption: 'Tadeusz Ślusarski – mistrz olimpijski w skoku o tyczce.',
+    content: `## Sylwetka
+Tadeusz Ślusarski (1950–1998) to lekkoatleta, tyczkarz i mistrz olimpijski.
+
+## Montreal 1976
+Zdobył złoty medal olimpijski w skoku o tyczce na igrzyskach w Montrealu.
+
+## Moskwa 1980
+Na kolejnych igrzyskach w Moskwie wywalczył srebrny medal.
+
+## Złota tyczka
+Należał do złotej generacji polskich skoczków o tyczce, która przez lata liczyła się w świecie.
+
+## Tragedia 1998
+Zginął w wypadku samochodowym razem z Władysławem Komarem.
+
+## Znaczenie
+To jeden z wybitnych polskich lekkoatletów lat 70. i 80.`,
+    trivia: ['Złoto olimpijskie w skoku o tyczce zdobył w Montrealu w 1976 roku.', 'Zginął w 1998 w tym samym wypadku samochodowym co Władysław Komar.'],
+    resources: [
+      {
+        id: 'ts2-yt',
+        title: 'Tadeusz Ślusarski – skok o tyczce',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Tadeusz+%C5%9Alusarski+tyczka+Montreal+1976',
+        source: 'YouTube',
+        description: 'Nagrania i materiały o zawodniku.',
+      },
+      {
+        id: 'ts2-2',
+        title: 'Tadeusz Ślusarski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Tadeusz%20%C5%9Alusarski%20lekkoatleta%20tyczka&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o zawodniku.',
+      },
+      {
+        id: 'ts2-3',
+        title: 'Polska lekkoatletyka – olimpiady',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=polscy+tyczkarze+olimpiada+medale',
+        source: 'YouTube',
+        description: 'Materiały o polskiej lekkoatletyce.',
+      },
+    ],
+    relatedIds: ['wladyslaw-komar', 'jacek-wszola', 'irena-szewinska'],
+  },
+  {
+    id: 'jan-himilsbach',
+    title: 'Jan Himilsbach',
+    subtitle: 'Książę naturszczyków',
+    category: 'osoby',
+    tags: ['film', 'aktorstwo', 'literatura', 'kultura'],
+    yearStart: 1970,
+    yearEnd: 1988,
+    summary: 'Kamieniarz, aktor-naturszczyk, pisarz i scenarzysta; zasłynął rolą w „Rejsie” (1970) w kultowym duecie ze Zdzisławem Maklakiewiczem.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Himilsbach%20Polish%20actor.jpg?width=800',
+    imageCaption: 'Jan Himilsbach – aktor-naturszczyk i pisarz.',
+    content: `## Sylwetka
+Jan Himilsbach (1931–1988) to kamieniarz, aktor-naturszczyk, pisarz i scenarzysta, zwany „księciem naturszczyków”.
+
+## Rejs
+Zadebiutował w 1970 w „Rejsie” Marka Piwowskiego, tworząc kultowy duet ze Zdzisławem Maklakiewiczem.
+
+## Naturszczyk
+Grał niejako samego siebie – z charakterystyczną chrypką i naturalnością, bez aktorskiej szkoły.
+
+## Pisarz
+Był też cenionym pisarzem, autorem m.in. zbioru opowiadań „Monidło” (1967).
+
+## Legenda
+Barwna, cygańska postać warszawskiej bohemy i knajp, obrosła anegdotami.
+
+## Znaczenie
+To jeden z najbardziej charakterystycznych i kultowych bohaterów polskiego kina.`,
+    trivia: ['Nazywano go „księciem naturszczyków” – grał, nie mając aktorskiego wykształcenia.', 'Był też pisarzem – autorem m.in. zbioru opowiadań „Monidło”.'],
+    resources: [
+      {
+        id: 'jh-yt',
+        title: 'Jan Himilsbach – film dokumentalny',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=mfHMzZdDeGE',
+        source: 'YouTube',
+        description: 'Dokument o Janie Himilsbachu.',
+      },
+      {
+        id: 'jh-1',
+        title: 'Jan Himilsbach – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Jan+Himilsbach+Rejs+Maklakiewicz',
+        source: 'YouTube',
+        description: 'Nagrania i materiały o aktorze.',
+      },
+      {
+        id: 'jh-2',
+        title: 'Jan Himilsbach – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Jan%20Himilsbach%20aktor%20pisarz&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o artyście.',
+      },
+    ],
+    relatedIds: ['rejs-film', 'mis-film', 'sami-swoi'],
+  },
+  {
+    id: 'pks-transport',
+    title: 'PKS',
+    subtitle: 'Czerwone autobusy łączące kraj',
+    category: 'społeczeństwo',
+    tags: ['komunikacja', 'transport', 'wieś', 'życie codzienne'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Państwowa Komunikacja Samochodowa obsługiwała autobusowy transport dalekobieżny i lokalny; dla wielu wsi PKS był jedynym połączeniem ze światem.',
+    content: `## PKS
+Państwowa Komunikacja Samochodowa (PKS) obsługiwała autobusowy transport dalekobieżny i lokalny w całym kraju.
+
+## Dworce
+Czerwone autobusy PKS łączyły z dworców autobusowych miasta, miasteczka i najdalsze wsie.
+
+## Na wieś
+Dla wielu mieszkańców wsi PKS był jedynym połączeniem ze światem i miastem powiatowym.
+
+## Tabor
+W taborze jeździły Autosany, Jelcze (miejskie „ogórki”) i węgierskie Ikarusy.
+
+## Bilety i tłok
+W szczycie sezonu autobusy bywały oblegane, a bilety trudno dostępne.
+
+## Znaczenie
+PKS to kręgosłup transportu zbiorowego w PRL, zwłaszcza tam, gdzie nie docierała kolej.`,
+    trivia: ['Dla wielu wsi autobus PKS był jedynym połączeniem z miastem powiatowym.', 'W taborze PKS jeździły Autosany, Jelcze i Ikarusy.'],
+    resources: [
+      {
+        id: 'pks-pkf',
+        title: 'Polska Kronika Filmowa – transport i komunikacja',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+PKS+transport+autobusowy',
+        source: 'YouTube',
+        description: 'Kroniki filmowe o transporcie autobusowym.',
+      },
+      {
+        id: 'pks-1',
+        title: 'PKS w PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=PKS+autobus+PRL+dworzec+Autosan+Jelcz',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o PKS.',
+      },
+      {
+        id: 'pks-2',
+        title: 'PKS – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Pa%C5%84stwowa%20Komunikacja%20Samochodowa%20PKS%20PRL&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania.',
+      },
+    ],
+    relatedIds: ['ikarus-autobusy', 'podroze-pkp', 'nysa-zuk'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -24958,4 +25181,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1972, event: 'Władysław Komar zdobywa złoto olimpijskie w pchnięciu kulą (Monachium)', category: 'społeczeństwo', entryId: 'wladyslaw-komar' },
   { year: 1974, event: 'Halina Frąckowiak – przebój „Bądź gotowy dziś do drogi”', category: 'kultura', entryId: 'halina-frackowiak' },
   { year: 1977, event: 'Premiera „Barw ochronnych” Krzysztofa Zanussiego', category: 'kultura', entryId: 'barwy-ochronne' },
+  { year: 1970, event: 'Debiut Jana Himilsbacha w „Rejsie” – fenomen naturszczyka', category: 'kultura', entryId: 'jan-himilsbach' },
+  { year: 1976, event: 'Tadeusz Ślusarski zdobywa złoto olimpijskie w skoku o tyczce (Montreal)', category: 'społeczeństwo', entryId: 'tadeusz-slusarski' },
+  { year: 1979, event: '„Amator” Kieślowskiego – Grand Prix w Moskwie i Złote Lwy w Gdańsku', category: 'kultura', entryId: 'amator-film' },
 ];
