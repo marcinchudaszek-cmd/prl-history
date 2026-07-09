@@ -25370,6 +25370,229 @@ To symbol tęsknoty za zachodnią kulturą i sposobu jej przemycania mimo żelaz
     ],
     relatedIds: ['dyskoteka-prl', 'adapter-bambino', 'radio-prl'],
   },
+  {
+    id: 'wodzirej',
+    title: 'Wodzirej',
+    subtitle: 'Falk i Stuhr o karierze za wszelką cenę',
+    category: 'kultura',
+    tags: ['film', 'kino', 'moralny niepokój', 'satyra'],
+    yearStart: 1978,
+    summary: 'Sztandarowy film kina moralnego niepokoju Feliksa Falka (1978); Jerzy Stuhr jako prowincjonalny wodzirej brnący po karierę przez donosy i podłość.',
+    content: `## Film
+„Wodzirej” (1978) w reżyserii Feliksa Falka to jeden ze sztandarowych filmów kina moralnego niepokoju.
+
+## Fabuła
+Lutek Danielak (Jerzy Stuhr), prowincjonalny wodzirej i konferansjer, brnie po karierę przez donosy, intrygi i podłość.
+
+## Kariera za wszelką cenę
+Bohater jest gotów zniszczyć nawet przyjaciela, byle zdobyć prestiżowe zlecenie i pozycję.
+
+## Jerzy Stuhr
+Brawurowa, obnażająca rola cynicznego karierowicza przyniosła Stuhrowi nagrodę na festiwalu w Chicago.
+
+## Satyra
+To bezlitosny portret konformizmu i „załatwiania” spraw w realiach PRL.
+
+## Znaczenie
+Obok „Barw ochronnych” to najważniejszy film nurtu moralnego niepokoju.`,
+    trivia: ['Jerzy Stuhr za rolę Lutka Danielaka otrzymał nagrodę na festiwalu w Chicago.', 'To obok „Barw ochronnych” sztandarowy film kina moralnego niepokoju.'],
+    resources: [
+      {
+        id: 'wo-yt',
+        title: '„Wodzirej” – piosenka z filmu',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=6hjsZDQOqAo',
+        source: 'YouTube',
+        description: 'Fragment muzyczny z filmu Falka.',
+      },
+      {
+        id: 'wo-1',
+        title: '„Wodzirej” – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Wodzirej+1978+Falk+Stuhr+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'wo-2',
+        title: '„Wodzirej” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Wodzirej%20film%20Falk%20Stuhr&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['kino-moralnego-niepokoju', 'amator-film', 'barwy-ochronne'],
+  },
+  {
+    id: 'niebiesko-czarni',
+    title: 'Niebiesko-Czarni',
+    subtitle: 'Legenda big-beatu z Niemenem i Rusowicz',
+    category: 'kultura',
+    tags: ['muzyka', 'big-beat', 'rock', 'estrada'],
+    yearStart: 1962,
+    yearEnd: 1976,
+    summary: 'Jeden z najważniejszych zespołów polskiego big-beatu, powołany przez Franciszka Walickiego; śpiewali w nim m.in. Czesław Niemen i Ada Rusowicz.',
+    content: `## Zespół
+Niebiesko-Czarni to jeden z najważniejszych i najstarszych zespołów polskiego big-beatu, powołany przez Franciszka Walickiego.
+
+## Big-beat
+Wraz z Czerwono-Czarnymi wytyczali szlaki rodzącej się polskiej muzyki młodzieżowej.
+
+## Wokaliści
+Śpiewali w nim m.in. Czesław Niemen, Ada Rusowicz, Wojciech Korda i Helena Majdaniec.
+
+## Nie pukaj do moich drzwi
+Przebój Ady Rusowicz (Opole 1967, z muzyką Niemena) stał się klasykiem polskiej piosenki.
+
+## Mocne uderzenie
+Zespół wystąpił w kultowym filmie muzycznym „Mocne uderzenie” (1967).
+
+## Znaczenie
+To pionierzy i legenda polskiego big-beatu, wylęgarnia wielkich talentów.`,
+    trivia: ['Śpiewali w nim m.in. Czesław Niemen i Ada Rusowicz.', 'Przebój „Nie pukaj do moich drzwi” pochodzi z filmu „Mocne uderzenie” (1967).'],
+    resources: [
+      {
+        id: 'nc-yt',
+        title: 'Ada Rusowicz i Niebiesko-Czarni – Opole 1967',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Xjq0VEI20Mo',
+        source: 'YouTube',
+        description: '„Nie pukaj do moich drzwi” na festiwalu w Opolu.',
+      },
+      {
+        id: 'nc-1',
+        title: 'Niebiesko-Czarni – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Niebiesko-Czarni+big-beat+Rusowicz+Niemen',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o zespole.',
+      },
+      {
+        id: 'nc-2',
+        title: 'Niebiesko-Czarni – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Niebiesko-Czarni%20zesp%C3%B3%C5%82%20big-beat%20Walicki&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o zespole.',
+      },
+    ],
+    relatedIds: ['czerwono-czarni', 'niemen-czeslaw', 'festiwal-opole'],
+  },
+  {
+    id: 'tadeusz-lomnicki',
+    title: 'Tadeusz Łomnicki',
+    subtitle: 'Wielki aktor teatru i filmu',
+    category: 'osoby',
+    tags: ['teatr', 'film', 'aktorstwo', 'kultura'],
+    yearStart: 1955,
+    yearEnd: 1989,
+    summary: 'Jeden z najwybitniejszych polskich aktorów teatralnych i filmowych; zasłynął rolą w „Pokoleniu” Wajdy, mistrz sceny i pedagog.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tadeusz%20%C5%81omnicki.jpg?width=800',
+    imageCaption: 'Tadeusz Łomnicki – aktor teatralny i filmowy.',
+    content: `## Sylwetka
+Tadeusz Łomnicki (1927–1992) to jeden z najwybitniejszych polskich aktorów teatralnych i filmowych.
+
+## Pokolenie
+Zasłynął już rolą w „Pokoleniu” Andrzeja Wajdy (1955), grając następnie u czołowych reżyserów.
+
+## Teatr
+Był mistrzem sceny, dyrektorem teatru i cenionym pedagogiem – prawdziwą legendą polskiego teatru.
+
+## Film
+Stworzył pamiętne role m.in. w „Człowieku z marmuru” (jako cyniczny dyrektor) i „Kontrakcie”.
+
+## Śmierć na scenie
+Zmarł w 1992 podczas próby do „Króla Leara” – symbolicznie, na scenie.
+
+## Znaczenie
+To uosobienie aktorskiego kunsztu i bezgranicznego oddania teatrowi.`,
+    trivia: ['Zasłynął już rolą w „Pokoleniu” Andrzeja Wajdy (1955).', 'Zmarł w 1992 podczas próby do „Króla Leara” – symbolicznie na scenie.'],
+    resources: [
+      {
+        id: 'tl-yt',
+        title: 'Tadeusz Łomnicki – role',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Tadeusz+%C5%81omnicki+aktor+teatr+film',
+        source: 'YouTube',
+        description: 'Sceny i materiały o aktorze.',
+      },
+      {
+        id: 'tl-2',
+        title: 'Tadeusz Łomnicki – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Tadeusz%20%C5%81omnicki%20aktor&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o aktorze.',
+      },
+      {
+        id: 'tl-3',
+        title: '„Pokolenie” – o filmie',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Pokolenie+Wajda+1955+%C5%81omnicki',
+        source: 'YouTube',
+        description: 'Materiały o debiucie Wajdy.',
+      },
+    ],
+    relatedIds: ['holoubek-gustaw', 'olbrychski-daniel', 'bogumil-kobiela'],
+  },
+  {
+    id: 'pgr',
+    title: 'PGR',
+    subtitle: 'Państwowe Gospodarstwa Rolne',
+    category: 'gospodarka',
+    tags: ['rolnictwo', 'wieś', 'socjalizm', 'praca'],
+    yearStart: 1949,
+    yearEnd: 1989,
+    summary: 'Państwowe Gospodarstwa Rolne to wielkoobszarowe gospodarstwa państwowe, tworzone od 1949, głównie na Ziemiach Odzyskanych; symbol państwowego rolnictwa.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pod%20lasem%20by%C5%82e%20Pa%C5%84stwowe%20Gospodarstwo%20Rolne%20%28PGR%29.jpg?width=800',
+    imageCaption: 'Zabudowania dawnego PGR-u.',
+    content: `## PGR
+Państwowe Gospodarstwa Rolne (PGR) to wielkoobszarowe gospodarstwa państwowe, tworzone od 1949 roku, głównie na Ziemiach Odzyskanych.
+
+## Idea
+Miały być socjalistyczną alternatywą dla indywidualnego rolnictwa i wzorem „uprzemysłowionej” wsi.
+
+## Osiedla
+Przy PGR-ach powstawały bloki, świetlice, przedszkola i całe osiedla pracownicze.
+
+## Efektywność
+Często nierentowne i silnie dotowane, stały się symbolem nieefektywności państwowego rolnictwa.
+
+## Praca i życie
+Dla wielu rodzin PGR był całym światem: dawał pracę, mieszkanie i socjalną opiekę.
+
+## Znaczenie
+To trwały element krajobrazu wsi; po 1989 upadek PGR-ów stał się dramatem społecznym.`,
+    trivia: ['PGR-y tworzono od 1949, głównie na Ziemiach Odzyskanych.', 'Przy PGR-ach powstawały całe osiedla pracownicze z blokami i świetlicami.'],
+    resources: [
+      {
+        id: 'pgr-pkf',
+        title: 'Polska Kronika Filmowa – rolnictwo państwowe',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+PGR+rolnictwo+pa%C5%84stwowe',
+        source: 'YouTube',
+        description: 'Kroniki filmowe o państwowych gospodarstwach rolnych.',
+      },
+      {
+        id: 'pgr-1',
+        title: 'PGR w PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=PGR+Pa%C5%84stwowe+Gospodarstwo+Rolne+PRL+wie%C5%9B',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o PGR.',
+      },
+      {
+        id: 'pgr-2',
+        title: 'PGR – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Pa%C5%84stwowe%20Gospodarstwo%20Rolne%20PGR%20historia&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania.',
+      },
+    ],
+    relatedIds: ['kolektywizacja', 'rolnictwo-prl', 'wies-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -25632,4 +25855,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1959, event: 'Premiera „Pociągu” Jerzego Kawalerowicza', category: 'kultura', entryId: 'pociag-film' },
   { year: 1960, event: 'Bogumił Kobiela w „Zezowatym szczęściu” Andrzeja Munka', category: 'kultura', entryId: 'bogumil-kobiela' },
   { year: 1963, event: 'Filipinki – „Batumi” i pierwszy polski girlsband', category: 'kultura', entryId: 'filipinki' },
+  { year: 1949, event: 'Tworzenie Państwowych Gospodarstw Rolnych (PGR)', category: 'gospodarka', entryId: 'pgr' },
+  { year: 1967, event: 'Niebiesko-Czarni z Adą Rusowicz – „Nie pukaj do moich drzwi” (Opole)', category: 'kultura', entryId: 'niebiesko-czarni' },
+  { year: 1978, event: 'Premiera „Wodzireja” Feliksa Falka', category: 'kultura', entryId: 'wodzirej' },
 ];
