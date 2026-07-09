@@ -25593,6 +25593,227 @@ To trwały element krajobrazu wsi; po 1989 upadek PGR-ów stał się dramatem sp
     ],
     relatedIds: ['kolektywizacja', 'rolnictwo-prl', 'wies-prl'],
   },
+  {
+    id: 'brunet-wieczorowa-pora',
+    title: 'Brunet wieczorową porą',
+    subtitle: 'Kryminalny absurd Barei',
+    category: 'kultura',
+    tags: ['film', 'komedia', 'kryminał', 'satyra', 'kino'],
+    yearStart: 1976,
+    summary: 'Kultowa komedia kryminalna Stanisława Barei (1976); Michałowi Romanowi Cyganka przepowiada, że nazajutrz zabije brunetkę – i zaczyna się absurd.',
+    content: `## Film
+„Brunet wieczorową porą” (1976) w reżyserii Stanisława Barei to kultowa komedia kryminalna z gęstą satyrą na realia PRL.
+
+## Fabuła
+Michał Roman (Krzysztof Kowalewski) słyszy od Cyganki przepowiednię, że nazajutrz nieświadomie zabije brunetkę – i wpada w wir absurdalnych zdarzeń.
+
+## Bareja
+Reżyser wyśmiewa zarówno codzienność PRL, jak i konwencje kryminału; film to kopalnia kultowych cytatów.
+
+## Obsada
+Wystąpili m.in. Krzysztof Kowalewski, Wojciech Pokora, Bronisław Pawlik i Maria Chwalibóg.
+
+## Absurd
+Piętrzące się nieporozumienia i „załatwianie” spraw po znajomości napędzają komizm.
+
+## Znaczenie
+To jedna z ulubionych komedii „kina Barei”.`,
+    trivia: ['Bohaterowi Cyganka przepowiada, że zabije brunetkę – i tak zaczyna się absurd.', 'To jedna z kultowych komedii Stanisława Barei.'],
+    resources: [
+      {
+        id: 'bw-yt',
+        title: '„Brunet wieczorową porą” – scena',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=uP4_EaSVcvY',
+        source: 'YouTube',
+        description: 'Fragment komedii Barei.',
+      },
+      {
+        id: 'bw-1',
+        title: '„Brunet wieczorową porą” – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Brunet+wieczorow%C4%85+por%C4%85+Bareja+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'bw-2',
+        title: '„Brunet wieczorową porą” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Brunet%20wieczorow%C4%85%20por%C4%85%20film%20Bareja&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['bareja-kino', 'mis-film', 'alternatywy-4'],
+  },
+  {
+    id: 'kasia-sobczyk',
+    title: 'Kasia Sobczyk',
+    subtitle: '„Biedroneczki są w kropeczki”',
+    category: 'osoby',
+    tags: ['muzyka', 'big-beat', 'estrada', 'kobiety'],
+    yearStart: 1963,
+    yearEnd: 1989,
+    summary: 'Gwiazda polskiej estrady lat 60., „dziewczyna big-beatu”; przeboje „O mnie się nie martw” i „Biedroneczki są w kropeczki” śpiewała cała Polska.',
+    content: `## Sylwetka
+Katarzyna „Kasia” Sobczyk (1945–2010) to gwiazda polskiej estrady lat 60., zwana „dziewczyną big-beatu”.
+
+## Przeboje
+Największe hity to „O mnie się nie martw”, „Biedroneczki są w kropeczki” i „Nie wiem, czy to warto”.
+
+## Opole i Sopot
+Triumfowała na krajowych festiwalach; „Biedroneczkami” zachwyciła nawet szefa paryskiej Olympii.
+
+## Czerwono-Czarni
+Występowała z zespołem Czerwono-Czarni, współtworząc scenę big-beatu.
+
+## Wizerunek
+Była pogodną, dziewczęcą ikoną epoki i idolką młodzieży.
+
+## Znaczenie
+To jedna z najpopularniejszych polskich wokalistek lat 60.`,
+    trivia: ['„Biedroneczki są w kropeczki” zachwyciły szefa paryskiej Olympii.', 'Występowała z zespołem Czerwono-Czarni.'],
+    resources: [
+      {
+        id: 'ks2-yt',
+        title: 'Kasia Sobczyk – „Biedroneczki są w kropeczki”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=OwW1UWTUmyc',
+        source: 'YouTube',
+        description: 'Przebój z lat 60.',
+      },
+      {
+        id: 'ks2-1',
+        title: 'Kasia Sobczyk – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Kasia+Sobczyk+przeboje+lata+60',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o artystce.',
+      },
+      {
+        id: 'ks2-2',
+        title: 'Kasia Sobczyk – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Kasia%20Sobczyk%20piosenkarka%20big-beat&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o artystce.',
+      },
+    ],
+    relatedIds: ['czerwono-czarni', 'filipinki', 'festiwal-opole'],
+  },
+  {
+    id: 'franciszek-pieczka',
+    title: 'Franciszek Pieczka',
+    subtitle: 'Gustlik i mistrz ról ludowych',
+    category: 'osoby',
+    tags: ['film', 'teatr', 'aktorstwo', 'kultura'],
+    yearStart: 1954,
+    yearEnd: 1989,
+    summary: 'Jeden z najwybitniejszych i najbardziej lubianych polskich aktorów charakterystycznych; rozpoznawalny jako Gustlik w „Czterech pancernych i psie”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Franciszek%20Pieczka%20%281953%29.jpg?width=800',
+    imageCaption: 'Franciszek Pieczka – aktor charakterystyczny.',
+    content: `## Sylwetka
+Franciszek Pieczka (1928–2022) to jeden z najwybitniejszych i najbardziej lubianych polskich aktorów charakterystycznych.
+
+## Gustlik
+Szerokiej publiczności znany jest przede wszystkim jako poczciwy Gustlik Jeleń w serialu „Czterej pancerni i pies”.
+
+## Role
+Stworzył pamiętne kreacje m.in. w „Perle w koronie”, „Żywocie Mateusza” i „Awansie” – mistrz ról prostych, mądrych bohaterów.
+
+## Twarz
+Jego charakterystyczna, jakby „rzeźbiona” twarz i spokojna godność stały się znakiem firmowym.
+
+## Teatr
+Był także wybitnym aktorem teatralnym.
+
+## Znaczenie
+To jeden z filarów polskiego aktorstwa, ceniony przez kolejne pokolenia widzów.`,
+    trivia: ['Zasłynął jako poczciwy Gustlik Jeleń w „Czterech pancernych i psie”.', 'Słynął z ról prostych, mądrych, ludowych bohaterów.'],
+    resources: [
+      {
+        id: 'fpi-yt',
+        title: 'Franciszek Pieczka – role',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Franciszek+Pieczka+Gustlik+role+filmowe',
+        source: 'YouTube',
+        description: 'Sceny i materiały o aktorze.',
+      },
+      {
+        id: 'fpi-2',
+        title: 'Franciszek Pieczka – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Franciszek%20Pieczka%20aktor&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o aktorze.',
+      },
+      {
+        id: 'fpi-3',
+        title: '„Czterej pancerni” – Gustlik',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Czterej+pancerni+Gustlik+Pieczka',
+        source: 'YouTube',
+        description: 'Materiały o kultowej roli.',
+      },
+    ],
+    relatedIds: ['olbrychski-daniel', 'holoubek-gustaw', 'tadeusz-lomnicki'],
+  },
+  {
+    id: 'poczta-polska',
+    title: 'Poczta Polska',
+    subtitle: 'Listy, telegramy i okienka',
+    category: 'społeczeństwo',
+    tags: ['łączność', 'życie codzienne', 'usługi', 'państwo'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Państwowy monopolista usług pocztowych i telekomunikacyjnych; listy, telegramy, paczki i przekazy pieniężne łączyły rodziny w całym kraju.',
+    content: `## Poczta
+Poczta Polska była państwowym monopolistą usług pocztowych, telekomunikacyjnych i częściowo bankowych (wraz z PKO).
+
+## Listy i paczki
+Listy, kartki, przekazy pieniężne i paczki łączyły rozdzielone rodziny w całym kraju.
+
+## Telegram
+Pilne wiadomości słano telegramem; listonosz był ważną postacią lokalnej społeczności.
+
+## Kolejki i okienka
+Na poczcie stało się w kolejkach do okienek po znaczki, przekazy i opłaty za rachunki.
+
+## Prenumerata
+Poczta dostarczała też prasę z prenumeraty prosto do domów.
+
+## Znaczenie
+To kręgosłup komunikacji i drobnych finansów w epoce przed masową telefonią.`,
+    trivia: ['Pilne wiadomości słano telegramem, a listonosz był ważną osobą w okolicy.', 'Poczta obsługiwała też przekazy pieniężne i prenumeratę prasy.'],
+    resources: [
+      {
+        id: 'poc-pkf',
+        title: 'Polska Kronika Filmowa – łączność i poczta',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+poczta+%C5%82%C4%85czno%C5%9B%C4%87+telegram',
+        source: 'YouTube',
+        description: 'Kroniki filmowe o łączności i poczcie.',
+      },
+      {
+        id: 'poc-1',
+        title: 'Poczta w PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Poczta+Polska+PRL+listonosz+telegram',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o poczcie.',
+      },
+      {
+        id: 'poc-2',
+        title: 'Poczta Polska – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Poczta%20Polska%20historia%20PRL%20%C5%82%C4%85czno%C5%9B%C4%87&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania.',
+      },
+    ],
+    relatedIds: ['telefon-prl', 'kiosk-ruch', 'zycie-codzienne'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -25858,4 +26079,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1949, event: 'Tworzenie Państwowych Gospodarstw Rolnych (PGR)', category: 'gospodarka', entryId: 'pgr' },
   { year: 1967, event: 'Niebiesko-Czarni z Adą Rusowicz – „Nie pukaj do moich drzwi” (Opole)', category: 'kultura', entryId: 'niebiesko-czarni' },
   { year: 1978, event: 'Premiera „Wodzireja” Feliksa Falka', category: 'kultura', entryId: 'wodzirej' },
+  { year: 1964, event: 'Kasia Sobczyk – „Biedroneczki są w kropeczki” (festiwale Opole i Sopot)', category: 'kultura', entryId: 'kasia-sobczyk' },
+  { year: 1966, event: 'Franciszek Pieczka jako Gustlik w „Czterech pancernych i psie”', category: 'kultura', entryId: 'franciszek-pieczka' },
+  { year: 1976, event: 'Premiera komedii „Brunet wieczorową porą” Stanisława Barei', category: 'kultura', entryId: 'brunet-wieczorowa-pora' },
 ];
