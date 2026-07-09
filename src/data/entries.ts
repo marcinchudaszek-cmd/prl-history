@@ -26037,6 +26037,227 @@ Aparat utrwalał codzienność i święta epoki – dziś to bezcenne źródło 
     ],
     relatedIds: ['adapter-bambino', 'zycie-codzienne', 'radio-prl'],
   },
+  {
+    id: 'nie-lubie-poniedzialku',
+    title: 'Nie lubię poniedziałku',
+    subtitle: 'Jeden pechowy dzień w Warszawie',
+    category: 'kultura',
+    tags: ['film', 'komedia', 'kino', 'Warszawa'],
+    yearStart: 1971,
+    summary: 'Barwna komedia Tadeusza Chmielewskiego (1971) o jednym pechowym poniedziałku w Warszawie, śledząca splatające się losy kilkunastu bohaterów.',
+    content: `## Film
+„Nie lubię poniedziałku” (1971) w reżyserii Tadeusza Chmielewskiego to barwna komedia o jednym pechowym dniu w stolicy.
+
+## Fabuła
+Akcja rozgrywa się w feralny poniedziałek 15 września; śledzimy splatające się losy kilkunastu bohaterów.
+
+## Warszawa
+Film maluje żywą panoramę stolicy: taksówkarzy, urzędników, włoskich turystów i milicjantów.
+
+## Humor
+Całość napędza łańcuch absurdów, zbiegów okoliczności i drobnych katastrof dnia codziennego.
+
+## Bohdan Łazuka
+Pamiętna jest scena aktora wracającego skacowanego nad ranem wzdłuż torów tramwajowych.
+
+## Znaczenie
+To jedna z najcieplejszych komedii PRL, obejrzana w kinach przez miliony widzów.`,
+    trivia: ['Akcja rozgrywa się w jeden pechowy poniedziałek, 15 września.', 'Film w kinach obejrzały miliony widzów.'],
+    resources: [
+      {
+        id: 'nlp-yt',
+        title: '„Nie lubię poniedziałku” – scena z taksówką',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=GaQC_kMpSC0',
+        source: 'YouTube',
+        description: 'Fragment komedii Chmielewskiego.',
+      },
+      {
+        id: 'nlp-1',
+        title: '„Nie lubię poniedziałku” – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Nie+lubi%C4%99+poniedzia%C5%82ku+Chmielewski+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'nlp-2',
+        title: '„Nie lubię poniedziałku” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Nie%20lubi%C4%99%20poniedzia%C5%82ku%20film%20Chmielewski&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['bareja-kino', 'poszukiwany-poszukiwana', 'mis-film'],
+  },
+  {
+    id: 'helena-majdaniec',
+    title: 'Helena Majdaniec',
+    subtitle: 'Królowa twista',
+    category: 'osoby',
+    tags: ['muzyka', 'big-beat', 'twist', 'kobiety'],
+    yearStart: 1962,
+    yearEnd: 1989,
+    summary: 'Wokalistka big-beatu zwana „królową twista”; energicznymi przebojami jak „Czarny Alibaba” porywała młodzież początku lat 60.',
+    content: `## Sylwetka
+Helena Majdaniec (1941–2002) to wokalistka big-beatu, zwana „królową twista”.
+
+## Twist
+Porywała publiczność energicznym twistem i rock and rollem, wpisując się w światową modę na taniec.
+
+## Przeboje
+Największe hity to „Czarny Alibaba”, „Rudy rydz”, „Wesoły twist” i „Jutro będzie dobry dzień”.
+
+## Niebiesko-Czarni
+Nagrywała i występowała m.in. z zespołem Niebiesko-Czarni.
+
+## Estrada
+Pełna energii, taneczna obecność sceniczna czyniła z niej idolkę młodzieży.
+
+## Znaczenie
+To jedna z pierwszych gwiazd polskiej muzyki młodzieżowej.`,
+    trivia: ['Nazywano ją „królową twista”.', 'Pierwsza nagrała „Czarnego Alibabę” – później wielki przebój Andrzeja Zauchy.'],
+    resources: [
+      {
+        id: 'hm2-yt',
+        title: 'Helena Majdaniec – „Czarny Alibaba”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=wgGfZbRteEc',
+        source: 'YouTube',
+        description: 'Przebój z lat 60.',
+      },
+      {
+        id: 'hm2-1',
+        title: 'Helena Majdaniec – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Helena+Majdaniec+twist+przeboje+lata+60',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o artystce.',
+      },
+      {
+        id: 'hm2-2',
+        title: 'Helena Majdaniec – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Helena%20Majdaniec%20piosenkarka%20twist&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o artystce.',
+      },
+    ],
+    relatedIds: ['niebiesko-czarni', 'karin-stanek', 'kasia-sobczyk'],
+  },
+  {
+    id: 'jan-kobuszewski',
+    title: 'Jan Kobuszewski',
+    subtitle: 'Mistrz skeczu i kabaretu Dudek',
+    category: 'osoby',
+    tags: ['teatr', 'film', 'kabaret', 'aktorstwo'],
+    yearStart: 1955,
+    yearEnd: 1989,
+    summary: 'Wybitny aktor komediowy i charakterystyczny, mistrz mimiki i skeczu; filar legendarnego kabaretu Dudek.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Kobuszewski.jpg?width=800',
+    imageCaption: 'Jan Kobuszewski – aktor komediowy i kabaretowy.',
+    content: `## Sylwetka
+Jan Kobuszewski (1934–2019) to wybitny aktor komediowy i charakterystyczny, mistrz mimiki i błyskotliwego skeczu.
+
+## Kabaret Dudek
+Był filarem legendarnego warszawskiego kabaretu Dudek Edwarda Dziewońskiego.
+
+## Skecze
+Jego kultowe skecze, m.in. „Sęk” z językowymi łamańcami, są cytowane do dziś.
+
+## Teatr i film
+Zagrał w teatrze oraz w licznych komediach filmowych, mistrzowsko budując drugi plan.
+
+## Warszawa
+Związany z warszawskimi scenami, przez dekady pozostawał ulubieńcem publiczności.
+
+## Znaczenie
+To jeden z najzabawniejszych i najbardziej lubianych polskich aktorów komediowych.`,
+    trivia: ['Był filarem legendarnego kabaretu Dudek.', 'Jego skecz „Sęk” z językowymi łamańcami jest cytowany do dziś.'],
+    resources: [
+      {
+        id: 'jk2-yt',
+        title: 'Jan Kobuszewski – skecze i role',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Jan+Kobuszewski+kabaret+Dudek+S%C4%99k+skecz',
+        source: 'YouTube',
+        description: 'Sceny i materiały o aktorze.',
+      },
+      {
+        id: 'jk2-2',
+        title: 'Jan Kobuszewski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Jan%20Kobuszewski%20aktor%20kabaret&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o aktorze.',
+      },
+      {
+        id: 'jk2-3',
+        title: 'Kabaret Dudek – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Kabaret+Dudek+Dziewo%C5%84ski+skecze',
+        source: 'YouTube',
+        description: 'Materiały o legendarnym kabarecie.',
+      },
+    ],
+    relatedIds: ['wieslaw-golas', 'kabaret-tey', 'franciszek-pieczka'],
+  },
+  {
+    id: 'dzien-kobiet',
+    title: 'Dzień Kobiet',
+    subtitle: 'Goździk, rajstopy i akademie',
+    category: 'społeczeństwo',
+    tags: ['obyczaje', 'święta', 'kobiety', 'propaganda'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: '8 marca, Międzynarodowy Dzień Kobiet, był hucznie obchodzonym świętem PRL – z czerwonym goździkiem, rajstopami i uroczystymi akademiami.',
+    content: `## Święto
+8 marca, Międzynarodowy Dzień Kobiet, był w PRL hucznie obchodzonym świętem o propagandowym charakterze.
+
+## Goździk i rajstopy
+Mężczyźni wręczali kobietom czerwony goździk, a w zakładach pracy rozdawano rajstopy, mydło lub kawę.
+
+## Akademie
+W zakładach i szkołach odbywały się uroczyste akademie ku czci kobiet.
+
+## Propaganda
+Święto podkreślało „równouprawnienie” i rolę kobiety pracującej w socjalizmie.
+
+## Obyczaj
+Obowiązkowy goździk stał się symbolem PRL-owskiego, nieco odgórnego świętowania.
+
+## Znaczenie
+To jeden z najbardziej rozpoznawalnych, trochę groteskowych rytuałów epoki.`,
+    trivia: ['Symbolem święta był czerwony goździk wręczany kobietom.', 'W zakładach pracy z okazji 8 marca rozdawano rajstopy, mydło lub kawę.'],
+    resources: [
+      {
+        id: 'dk-pkf',
+        title: 'Polska Kronika Filmowa – Dzień Kobiet',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+Dzie%C5%84+Kobiet+8+marca',
+        source: 'YouTube',
+        description: 'Kroniki filmowe z obchodów Dnia Kobiet.',
+      },
+      {
+        id: 'dk-1',
+        title: 'Dzień Kobiet w PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Dzie%C5%84+Kobiet+8+marca+PRL+go%C5%BAdzik+rajstopy',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o święcie.',
+      },
+      {
+        id: 'dk-2',
+        title: 'Dzień Kobiet – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Mi%C4%99dzynarodowy%20Dzie%C5%84%20Kobiet%20PRL%208%20marca&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania.',
+      },
+    ],
+    relatedIds: ['zycie-codzienne', 'kobiety-prl', 'swieta-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -26308,4 +26529,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1962, event: 'Karin Stanek – „Malowana lala” z Czerwono-Czarnymi (Sopot)', category: 'kultura', entryId: 'karin-stanek' },
   { year: 1966, event: 'Wiesław Gołas jako Tomasz Czereśniak w „Czterech pancernych”', category: 'kultura', entryId: 'wieslaw-golas' },
   { year: 1972, event: 'Premiera komedii „Poszukiwany, poszukiwana” Stanisława Barei', category: 'kultura', entryId: 'poszukiwany-poszukiwana' },
+  { year: 1963, event: 'Helena Majdaniec – „królowa twista” (festiwal w Opolu)', category: 'kultura', entryId: 'helena-majdaniec' },
+  { year: 1965, event: 'Jan Kobuszewski współtworzy kabaret Dudek', category: 'kultura', entryId: 'jan-kobuszewski' },
+  { year: 1971, event: 'Premiera komedii „Nie lubię poniedziałku” Tadeusza Chmielewskiego', category: 'kultura', entryId: 'nie-lubie-poniedzialku' },
 ];
