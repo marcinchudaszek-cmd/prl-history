@@ -24257,6 +24257,231 @@ Trasa W-Z to symbol powojennej odbudowy stolicy i inżynierskiego rozmachu epoki
     ],
     relatedIds: ['odbudowa-warszawy', 'palac-kultury', 'mdm-marszalkowska'],
   },
+  {
+    id: 'sbb-zespol',
+    title: 'SBB',
+    subtitle: 'Rock progresywny Józefa Skrzeka',
+    category: 'kultura',
+    tags: ['muzyka', 'rock progresywny', 'jazz-rock', 'Śląsk'],
+    yearStart: 1971,
+    yearEnd: 1989,
+    summary: 'Czołowy polski zespół rocka progresywnego, założony w 1971 przez Józefa Skrzeka; słynny z rozbudowanych, improwizowanych, transowych koncertów.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jozef%20Skrzek.jpg?width=800',
+    imageCaption: 'Józef Skrzek – lider i multiinstrumentalista SBB.',
+    content: `## Zespół
+SBB to czołowy polski zespół rocka progresywnego, założony w 1971 roku przez Józefa Skrzeka (skrót rozwijano m.in. jako „Szukaj, Burz, Buduj”).
+
+## Skład
+Klasyczny skład to Józef Skrzek (śpiew, klawisze, bas), Apostolis Anthimos (gitara) i Jerzy Piotrowski (perkusja).
+
+## Muzyka
+Zespół tworzył rozbudowane, improwizowane kompozycje na styku rocka, jazzu i muzyki elektronicznej.
+
+## Koncerty
+Słynęli z żywiołowych, transowych występów; grali jako support przed czołowymi gwiazdami.
+
+## Wołanie o brzęk szkła
+Jednym z ich najważniejszych albumów jest „Wołanie o brzęk szkła” (1977).
+
+## Znaczenie
+SBB to legenda polskiego rocka progresywnego, a Skrzek – wybitny multiinstrumentalista.`,
+    trivia: ['Skrót SBB rozwijano m.in. jako „Szukaj, Burz, Buduj”.', 'Liderem i multiinstrumentalistą zespołu jest Józef Skrzek.'],
+    resources: [
+      {
+        id: 'sbb-yt',
+        title: 'Józef Skrzek (SBB) – o zespole i fragmenty koncertu',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=DlIZzoYtbCo',
+        source: 'YouTube',
+        description: 'Wywiad i fragmenty koncertowe.',
+      },
+      {
+        id: 'sbb-1',
+        title: 'SBB – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=SBB+Skrzek+koncert+rock+progresywny',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o zespole.',
+      },
+      {
+        id: 'sbb-2',
+        title: 'SBB – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=SBB%20zesp%C3%B3%C5%82%20rock%20progresywny%20Skrzek&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o zespole.',
+      },
+    ],
+    relatedIds: ['niemen-czeslaw', 'breakout-zespol', 'jazz-prl'],
+  },
+  {
+    id: 'rekopis-znaleziony-w-saragossie',
+    title: 'Rękopis znaleziony w Saragossie',
+    subtitle: 'Szkatułkowe arcydzieło Hasa',
+    category: 'kultura',
+    tags: ['film', 'kino', 'ekranizacja', 'fantasy'],
+    yearStart: 1965,
+    summary: 'Kultowa ekranizacja powieści Jana Potockiego w reżyserii Wojciecha Hasa (1965); szkatułkowa, oniryczna opowieść wielbiona na całym świecie.',
+    content: `## Film
+„Rękopis znaleziony w Saragossie” (1965) w reżyserii Wojciecha Jerzego Hasa to ekranizacja powieści Jana Potockiego.
+
+## Fabuła
+Oficer Alfons van Worden zostaje wplątany w labirynt opowieści – historii w historii – pełnych tajemnic, duchów i uwodzicielek.
+
+## Struktura
+Film słynie ze „szkatułkowej” narracji: opowieści zagnieżdżonych jedna w drugiej.
+
+## Kultowość
+Na Zachodzie stał się filmem kultowym – jego wielbicielami byli m.in. Jerry Garcia, Luis Buñuel i Martin Scorsese.
+
+## Styl
+Czarno-biała, oniryczna i ironiczna wizja Hasa czyni go dziełem osobnym.
+
+## Znaczenie
+To jedno z najoryginalniejszych dzieł polskiego kina i klasyka światowego kina fantasy.`,
+    trivia: ['Film uwielbiali m.in. Jerry Garcia, Luis Buñuel i Martin Scorsese.', 'Ma słynną „szkatułkową” konstrukcję – opowieści zagnieżdżone w opowieściach.'],
+    resources: [
+      {
+        id: 'rzs-yt',
+        title: '„Rękopis znaleziony w Saragossie” – zwiastun',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=knA_-a-bhKg',
+        source: 'YouTube',
+        description: 'Zwiastun filmu Hasa.',
+      },
+      {
+        id: 'rzs-1',
+        title: '„Rękopis znaleziony w Saragossie” – fragmenty',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=R%C4%99kopis+znaleziony+w+Saragossie+Has+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'rzs-2',
+        title: '„Rękopis znaleziony w Saragossie” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=R%C4%99kopis%20znaleziony%20w%20Saragossie%20film%20Has%20Potocki&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['sanatorium-pod-klepsydra', 'noz-w-wodzie', 'wesele-film'],
+  },
+  {
+    id: 'piwnica-pod-baranami',
+    title: 'Piwnica pod Baranami',
+    subtitle: 'Legendarny kabaret Skrzyneckiego',
+    category: 'kultura',
+    tags: ['kabaret', 'Kraków', 'piosenka literacka', 'kultura'],
+    yearStart: 1956,
+    yearEnd: 1989,
+    summary: 'Legendarny kabaret literacki założony w 1956 w Krakowie przez Piotra Skrzyneckiego; wylęgarnia wielkich talentów piosenki literackiej.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Piotr%20Skrzynecki.jpg?width=800',
+    imageCaption: 'Piotr Skrzynecki – twórca i dusza Piwnicy pod Baranami.',
+    content: `## Kabaret
+Piwnica pod Baranami to legendarny kabaret literacki, założony w 1956 roku w piwnicach pałacu „Pod Baranami” przy krakowskim Rynku.
+
+## Piotr Skrzynecki
+Twórcą, konferansjerem i duszą Piwnicy był charyzmatyczny Piotr Skrzynecki – artystyczny „guru” tego miejsca.
+
+## Artyści
+Z Piwnicą związani byli m.in. Ewa Demarczyk, Marek Grechuta, Zygmunt Konieczny i Grzegorz Turnau.
+
+## Klimat
+Poezja, piosenka literacka, absurd i artystyczna wolność stanowiły odtrutkę na szarość PRL.
+
+## Sobotnie wieczory
+Kultowe sobotnie spotkania kabaretu trwają nieprzerwanie do dziś.
+
+## Znaczenie
+To najsłynniejszy polski kabaret artystyczny i prawdziwa wylęgarnia talentów.`,
+    trivia: ['Twórcą i duszą Piwnicy był Piotr Skrzynecki.', 'Z Piwnicy pod Baranami wyszli m.in. Ewa Demarczyk i Marek Grechuta.'],
+    resources: [
+      {
+        id: 'ppb-yt',
+        title: 'Piwnica pod Baranami – Piotr Skrzynecki',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=cTZ4oaQZZ7M',
+        source: 'YouTube',
+        description: 'Materiał o Piotrze Skrzyneckim i Piwnicy.',
+      },
+      {
+        id: 'ppb-1',
+        title: 'Piwnica pod Baranami – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Piwnica+pod+Baranami+kabaret+Skrzynecki',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o kabarecie.',
+      },
+      {
+        id: 'ppb-2',
+        title: 'Piwnica pod Baranami – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Piwnica%20pod%20Baranami%20kabaret%20Krak%C3%B3w&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o kabarecie.',
+      },
+    ],
+    relatedIds: ['kabaret-starszych-panow', 'grechuta-marek', 'demarczyk-ewa'],
+  },
+  {
+    id: 'ikarus-autobusy',
+    title: 'Autobusy Ikarus',
+    subtitle: '„Ogórki” i miejska komunikacja',
+    category: 'społeczeństwo',
+    tags: ['technika', 'komunikacja', 'transport', 'RWPG', 'życie codzienne'],
+    yearStart: 1970,
+    yearEnd: 1989,
+    summary: 'Węgierskie Ikarusy były najpopularniejszymi autobusami miejskimi i dalekobieżnymi w PRL; przegubowy Ikarus 280 zyskał przydomek „ogórek”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ikarus%20280.jpg?width=800',
+    imageCaption: 'Przegubowy Ikarus 280 – „ogórek”.',
+    content: `## Autobusy
+Węgierskie Ikarusy były najpopularniejszymi autobusami miejskimi i dalekobieżnymi w PRL, obecnymi w całym kraju.
+
+## Import z RWPG
+Sprowadzano je z Węgier w ramach wymiany handlowej w RWPG.
+
+## Modele
+Miejski Ikarus 260 i przegubowy Ikarus 280 to prawdziwe ikony komunikacji epoki.
+
+## Ogórek
+Długi, przegubowy Ikarus 280 zyskał popularny przydomek „ogórek”.
+
+## PKS i MZK
+Ikarusy obsługiwały zarówno komunikację miejską (MZK), jak i dalekobieżną (PKS).
+
+## Znaczenie
+To nieodłączny element miejskiego pejzażu i codziennych dojazdów w PRL.`,
+    trivia: ['Przegubowy Ikarus 280 zyskał popularny przydomek „ogórek”.', 'Ikarusy sprowadzano z Węgier w ramach wymiany handlowej RWPG.'],
+    resources: [
+      {
+        id: 'ika-pkf',
+        title: 'Polska Kronika Filmowa – komunikacja miejska',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+autobusy+komunikacja+miejska',
+        source: 'YouTube',
+        description: 'Kroniki filmowe o miejskim transporcie.',
+      },
+      {
+        id: 'ika-1',
+        title: 'Ikarusy w PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Ikarus+280+260+autobus+PRL',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o autobusach.',
+      },
+      {
+        id: 'ika-2',
+        title: 'Ikarus – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Ikarus%20autobus%20PRL%20komunikacja&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania.',
+      },
+    ],
+    relatedIds: ['nysa-zuk', 'motoryzacja-prl', 'podroze-pkp'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -24504,4 +24729,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1949, event: 'Otwarcie Trasy W-Z – symbol odbudowy Warszawy', category: 'społeczeństwo', entryId: 'trasa-wz' },
   { year: 1952, event: 'Otwarcie MDM i placu Konstytucji – sztandar socrealizmu', category: 'społeczeństwo', entryId: 'mdm-marszalkowska' },
   { year: 1971, event: 'Decyzja o odbudowie Zamku Królewskiego w Warszawie', category: 'społeczeństwo', entryId: 'zamek-krolewski' },
+  { year: 1956, event: 'Powstanie kabaretu Piwnica pod Baranami w Krakowie', category: 'kultura', entryId: 'piwnica-pod-baranami' },
+  { year: 1965, event: 'Premiera „Rękopisu znalezionego w Saragossie” Wojciecha Hasa', category: 'kultura', entryId: 'rekopis-znaleziony-w-saragossie' },
+  { year: 1974, event: 'SBB – czołowy polski zespół rocka progresywnego', category: 'kultura', entryId: 'sbb-zespol' },
 ];
