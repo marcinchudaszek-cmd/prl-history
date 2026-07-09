@@ -25814,6 +25814,229 @@ To kręgosłup komunikacji i drobnych finansów w epoce przed masową telefonią
     ],
     relatedIds: ['telefon-prl', 'kiosk-ruch', 'zycie-codzienne'],
   },
+  {
+    id: 'poszukiwany-poszukiwana',
+    title: 'Poszukiwany, poszukiwana',
+    subtitle: 'Komedia przebieranek Barei',
+    category: 'kultura',
+    tags: ['film', 'komedia', 'satyra', 'kino'],
+    yearStart: 1972,
+    summary: 'Jedna z najzabawniejszych komedii Stanisława Barei (1972); pracownik muzeum ukrywa się przebrany za kobietę i zatrudnia jako pomoc domowa.',
+    content: `## Film
+„Poszukiwany, poszukiwana” (1972) w reżyserii Stanisława Barei to jedna z najzabawniejszych polskich komedii przebieranek.
+
+## Fabuła
+Pracownik muzeum Stanisław Rochowicz, po zniknięciu obrazu ze zbiorów, ukrywa się przebrany za kobietę i zatrudnia jako pomoc domowa.
+
+## Wojciech Pokora
+Brawurowa rola głównego bohatera w podwójnym, damsko-męskim wcieleniu jest popisem aktorstwa.
+
+## Satyra
+Przy okazji Bareja punktuje absurdy PRL i obłudę pozornie „porządnych” domów.
+
+## Obsada
+Wystąpiła plejada komików: Mieczysław Czechowicz, Wiesław Gołas, Bohdan Łazuka i Jan Kobuszewski.
+
+## Znaczenie
+To klasyk komedii „kina Barei”, pełen kultowych scen.`,
+    trivia: ['Główny bohater ukrywa się przebrany za kobietę i zostaje pomocą domową.', 'W obsadzie wystąpiła plejada komików, m.in. Wiesław Gołas i Bohdan Łazuka.'],
+    resources: [
+      {
+        id: 'pp2-yt',
+        title: '„Poszukiwany, poszukiwana” – fragment',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=gHvOAi-l0Jc',
+        source: 'YouTube',
+        description: 'Fragment komedii Barei.',
+      },
+      {
+        id: 'pp2-1',
+        title: '„Poszukiwany, poszukiwana” – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Poszukiwany+poszukiwana+Bareja+scena',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'pp2-2',
+        title: '„Poszukiwany, poszukiwana” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Poszukiwany%20poszukiwana%20film%20Bareja&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+    ],
+    relatedIds: ['bareja-kino', 'brunet-wieczorowa-pora', 'mis-film'],
+  },
+  {
+    id: 'karin-stanek',
+    title: 'Karin Stanek',
+    subtitle: '„Malowana lala” i dziewczyna z gitarą',
+    category: 'osoby',
+    tags: ['muzyka', 'big-beat', 'rock and roll', 'kobiety'],
+    yearStart: 1962,
+    yearEnd: 1989,
+    summary: 'Wokalistka rock and rolla i big-beatu, „dziewczyna z gitarą”; z Czerwono-Czarnymi nagrała przebój „Malowana lala”.',
+    content: `## Sylwetka
+Karin Stanek (1943–2011) to wokalistka rock and rolla i big-beatu, zwana „dziewczyną z gitarą”.
+
+## Czerwono-Czarni
+Zadebiutowała utworem „Jimmy Joe”, wygrywając konkurs młodych talentów zespołu Czerwono-Czarni.
+
+## Malowana lala
+Przebój „Malowana lala” (Sopot 1962) stał się jej muzycznym znakiem firmowym.
+
+## Chłopczyca
+Nietypowy, chłopięcy wizerunek i sceniczna energia wyróżniały ją na tle estrady.
+
+## Przeboje
+W dorobku ma też „Jedziemy autostopem”, „Chłopiec z gitarą” i „Wala twist”.
+
+## Znaczenie
+To jedna z pierwszych gwiazd polskiego rock and rolla.`,
+    trivia: ['Zadebiutowała utworem „Jimmy Joe”, wygrywając konkurs Czerwono-Czarnych.', 'Wyróżniał ją chłopięcy wizerunek „dziewczyny z gitarą”.'],
+    resources: [
+      {
+        id: 'kst-yt',
+        title: 'Karin Stanek – „Malowana lala” (Opole 1963)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=4koJY1-qZJY',
+        source: 'YouTube',
+        description: 'Przebój z Czerwono-Czarnymi.',
+      },
+      {
+        id: 'kst-1',
+        title: 'Karin Stanek – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Karin+Stanek+Czerwono-Czarni+przeboje',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o artystce.',
+      },
+      {
+        id: 'kst-2',
+        title: 'Karin Stanek – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Karin%20Stanek%20piosenkarka%20rock%20and%20roll&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o artystce.',
+      },
+    ],
+    relatedIds: ['czerwono-czarni', 'kasia-sobczyk', 'filipinki'],
+  },
+  {
+    id: 'wieslaw-golas',
+    title: 'Wiesław Gołas',
+    subtitle: 'Czereśniak i ulubieniec publiczności',
+    category: 'osoby',
+    tags: ['film', 'teatr', 'kabaret', 'aktorstwo'],
+    yearStart: 1955,
+    yearEnd: 1989,
+    summary: 'Popularny aktor komediowy i charakterystyczny, ulubieniec publiczności; grał Tomasza Czereśniaka w „Czterech pancernych i psie”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wies%C5%82aw%20Go%C5%82as%20w%20latach%2060.jpg?width=800',
+    imageCaption: 'Wiesław Gołas – aktor komediowy.',
+    content: `## Sylwetka
+Wiesław Gołas (1930–2021) to popularny aktor komediowy i charakterystyczny, prawdziwy ulubieniec publiczności.
+
+## Czterej pancerni
+Szerokiej widowni znany jest jako energiczny Tomasz Czereśniak w serialu „Czterej pancerni i pies”.
+
+## Kabaret
+Błyszczał w kabarecie (m.in. Dudek) i piosence aktorskiej – jego „Czterdziestu chłopa” to przebój.
+
+## Teatr i film
+Zagrał w wielu komediach i sztukach, będąc mistrzem komicznego drugiego planu.
+
+## Estrada
+Był charyzmatycznym, ciepłym wykonawcą piosenek i skeczów.
+
+## Znaczenie
+To jeden z najbardziej lubianych polskich aktorów komediowych.`,
+    trivia: ['Grał Tomasza Czereśniaka w „Czterech pancernych i psie”.', 'Błyszczał także w kabarecie i piosence aktorskiej.'],
+    resources: [
+      {
+        id: 'wg-yt',
+        title: 'Wiesław Gołas – role',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Wies%C5%82aw+Go%C5%82as+Czere%C5%9Bniak+kabaret+role',
+        source: 'YouTube',
+        description: 'Sceny i materiały o aktorze.',
+      },
+      {
+        id: 'wg-2',
+        title: 'Wiesław Gołas – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Wies%C5%82aw%20Go%C5%82as%20aktor&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o aktorze.',
+      },
+      {
+        id: 'wg-3',
+        title: 'Wiesław Gołas – „Czterdziestu chłopa”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Wies%C5%82aw+Go%C5%82as+Czterdziestu+ch%C5%82opa+piosenka',
+        source: 'YouTube',
+        description: 'Słynna piosenka aktorska.',
+      },
+    ],
+    relatedIds: ['franciszek-pieczka', 'kabaret-starszych-panow', 'czterej-pancerni'],
+  },
+  {
+    id: 'aparaty-fotograficzne',
+    title: 'Aparaty fotograficzne',
+    subtitle: 'Druh, Smiena i domowa ciemnia',
+    category: 'społeczeństwo',
+    tags: ['technika', 'fotografia', 'hobby', 'życie codzienne'],
+    yearStart: 1955,
+    yearEnd: 1989,
+    summary: 'Amatorska fotografia była popularnym hobby PRL; zdjęcia robiono tanimi aparatami (Druh, Ami, Smiena, Zenit) na kliszy, wywoływanej w domu lub zakładzie „foto”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Druh%20Synchro.jpg?width=800',
+    imageCaption: 'Popularny aparat Druh Synchro.',
+    content: `## Fotografia
+Amatorska fotografia była w PRL popularnym hobby; zdjęcia robiono na kliszy, a potem wywoływano je w domu lub w zakładzie „foto”.
+
+## Druh i Smiena
+Popularne tanie aparaty to polski Druh i Ami oraz radzieckie Smiena i Zenit.
+
+## Klisza i odbitki
+Film wywoływano, a odbitki robiono w domowej ciemni lub oddawano do laboratorium.
+
+## Rodzinne albumy
+Czarno-białe, a z czasem kolorowe zdjęcia trafiały do starannie prowadzonych rodzinnych albumów.
+
+## Fotograf na okazje
+Na wesela, komunie i akademie zapraszano zawodowego fotografa.
+
+## Znaczenie
+Aparat utrwalał codzienność i święta epoki – dziś to bezcenne źródło ikonografii PRL.`,
+    trivia: ['Popularne tanie aparaty to Druh i Ami oraz radzieckie Smiena i Zenit.', 'Kliszę wywoływano w domowej ciemni lub oddawano do zakładu fotograficznego.'],
+    resources: [
+      {
+        id: 'af-yt',
+        title: 'Fotografia amatorska w PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=aparat+fotograficzny+Druh+Zenit+Smiena+PRL',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o fotografii.',
+      },
+      {
+        id: 'af-wk',
+        title: 'Druh (aparat) – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Druh%20aparat%20fotograficzny%20PRL%20fotografia&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania.',
+      },
+      {
+        id: 'af-2',
+        title: 'Ciemnia i wywoływanie zdjęć – PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=ciemnia+fotograficzna+wywo%C5%82ywanie+zdj%C4%99%C4%87+PRL',
+        source: 'YouTube',
+        description: 'Materiały o domowej ciemni.',
+      },
+    ],
+    relatedIds: ['adapter-bambino', 'zycie-codzienne', 'radio-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -26082,4 +26305,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1964, event: 'Kasia Sobczyk – „Biedroneczki są w kropeczki” (festiwale Opole i Sopot)', category: 'kultura', entryId: 'kasia-sobczyk' },
   { year: 1966, event: 'Franciszek Pieczka jako Gustlik w „Czterech pancernych i psie”', category: 'kultura', entryId: 'franciszek-pieczka' },
   { year: 1976, event: 'Premiera komedii „Brunet wieczorową porą” Stanisława Barei', category: 'kultura', entryId: 'brunet-wieczorowa-pora' },
+  { year: 1962, event: 'Karin Stanek – „Malowana lala” z Czerwono-Czarnymi (Sopot)', category: 'kultura', entryId: 'karin-stanek' },
+  { year: 1966, event: 'Wiesław Gołas jako Tomasz Czereśniak w „Czterech pancernych”', category: 'kultura', entryId: 'wieslaw-golas' },
+  { year: 1972, event: 'Premiera komedii „Poszukiwany, poszukiwana” Stanisława Barei', category: 'kultura', entryId: 'poszukiwany-poszukiwana' },
 ];
