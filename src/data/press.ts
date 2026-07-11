@@ -217,7 +217,7 @@ export const pressItems: PressItem[] = [
     type: 'emigracyjna',
     years: '1947–2000',
     description: 'Najważniejsze pismo emigracji, redagowane przez Jerzego Giedroycia; docierało nielegalnie do kraju i kształtowało niezależną myśl.',
-    scanUrl: wiki('Kultura (Instytut Literacki)'),
+    scanUrl: wiki('Kultura (miesięcznik)'),
     kind: 'wiki',
     entryId: 'kultura-paryz',
   },
