@@ -27146,6 +27146,229 @@ Sylwestrowy program TV był jednym z nielicznych momentów odprężenia i rozryw
     ],
     relatedIds: ['dziennik-telewizyjny', 'telewizja-prl', 'kabaret-dudek'],
   },
+  {
+    id: 'wniebowzieci',
+    title: 'Wniebowzięci',
+    subtitle: 'Himilsbach i Maklakiewicz marzą o lataniu',
+    category: 'kultura',
+    tags: ['film', 'komedia', 'absurd', 'kino'],
+    yearStart: 1973,
+    summary: 'Kultowa tragikomedia Andrzeja Kondratiuka (1973) z Himilsbachem i Maklakiewiczem; dwaj koledzy wydają ostatnie pieniądze, by przelecieć się samolotem.',
+    content: `## Film
+„Wniebowzięci” (1973) w reżyserii Andrzeja Kondratiuka to kultowa tragikomedia z niepowtarzalnym duetem aktorskim.
+
+## Fabuła
+Dwaj koledzy, marząc o lataniu, wydają resztki pieniędzy, by za wszelką cenę przelecieć się samolotem.
+
+## Duet
+Jan Himilsbach i Zdzisław Maklakiewicz tworzą tu kolejny kultowy duet – po „Rejsie”.
+
+## Melancholia
+Pod warstwą absurdu kryje się gorzka opowieść o marzeniach, samotności i przemijaniu.
+
+## Cytaty
+Dialogi z filmu weszły do kanonu polskiego humoru.
+
+## Znaczenie
+To kultowy film o polskiej codzienności i tęsknocie za czymś więcej.`,
+    trivia: ['Bohaterowie wydają ostatnie pieniądze, by przelecieć się samolotem.', 'To kolejny kultowy duet Himilsbacha i Maklakiewicza po „Rejsie”.'],
+    resources: [
+      {
+        id: 'wnb-yt',
+        title: '„Wniebowzięci” – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Wniebowzi%C4%99ci+Kondratiuk+Himilsbach+Maklakiewicz',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+      {
+        id: 'wnb-2',
+        title: '„Wniebowzięci” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Wniebowzi%C4%99ci%20film%201973%20Kondratiuk&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o filmie.',
+      },
+      {
+        id: 'wnb-3',
+        title: 'Duet Himilsbach i Maklakiewicz – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Himilsbach+Maklakiewicz+Rejs+Wniebowzi%C4%99ci',
+        source: 'YouTube',
+        description: 'Materiały o kultowym duecie.',
+      },
+    ],
+    relatedIds: ['rejs-film', 'jan-himilsbach', 'mis-film'],
+  },
+  {
+    id: 'urszula-dudziak',
+    title: 'Urszula Dudziak',
+    subtitle: 'Głos jak instrument i „Papaya”',
+    category: 'osoby',
+    tags: ['muzyka', 'jazz', 'wokal', 'kobiety'],
+    yearStart: 1962,
+    yearEnd: 1989,
+    summary: 'Wokalistka jazzowa światowej sławy, mistrzyni improwizacji głosem; jej utwór „Papaya” stał się światowym przebojem.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Urszula%20Dudziak.jpg?width=800',
+    imageCaption: 'Urszula Dudziak – wokalistka jazzowa.',
+    content: `## Sylwetka
+Urszula Dudziak (ur. 1943) to wokalistka jazzowa światowej sławy, mistrzyni improwizacji głosem.
+
+## Papaya
+Jej utwór „Papaya” stał się światowym przebojem, a po latach także internetowym hitem.
+
+## Głos jako instrument
+Słynęła z awangardowego, wręcz instrumentalnego traktowania głosu i elektronicznych efektów.
+
+## USA
+Od lat 70. wraz z mężem Michałem Urbaniakiem robiła karierę w Nowym Jorku.
+
+## Współprace
+Nagrywała i występowała z czołowymi jazzmanami świata.
+
+## Znaczenie
+To jedna z najbardziej oryginalnych wokalistek jazzowych na świecie.`,
+    trivia: ['Jej „Papaya” stała się światowym przebojem, a po latach internetowym hitem.', 'Traktowała głos jak instrument, słynąc z awangardowej improwizacji.'],
+    resources: [
+      {
+        id: 'ud-yt',
+        title: 'Urszula Dudziak – nagrania',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Urszula+Dudziak+Papaya+jazz+wokal',
+        source: 'YouTube',
+        description: 'Wykonania i materiały o artystce.',
+      },
+      {
+        id: 'ud-2',
+        title: 'Urszula Dudziak – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Urszula%20Dudziak%20wokalistka%20jazz&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o artystce.',
+      },
+      {
+        id: 'ud-3',
+        title: 'Polski jazz wokalny – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=polski+jazz+wokal+Dudziak+Urbaniak',
+        source: 'YouTube',
+        description: 'Materiały o polskim jazzie wokalnym.',
+      },
+    ],
+    relatedIds: ['michal-urbaniak', 'jazz-jamboree', 'tomasz-stanko'],
+  },
+  {
+    id: 'wojciech-pszoniak',
+    title: 'Wojciech Pszoniak',
+    subtitle: 'Moryc Welt i Robespierre',
+    category: 'osoby',
+    tags: ['teatr', 'film', 'aktorstwo', 'kultura'],
+    yearStart: 1967,
+    yearEnd: 1989,
+    summary: 'Wybitny aktor teatralny i filmowy o ogromnej ekspresji; pamiętny jako Moryc Welt w „Ziemi obiecanej” i Robespierre w „Dantonie”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wojciech%20Pszoniak%20%28portret%29.jpg?width=800',
+    imageCaption: 'Wojciech Pszoniak – aktor teatralny i filmowy.',
+    content: `## Sylwetka
+Wojciech Pszoniak (1942–2020) to wybitny aktor teatralny i filmowy o ogromnej ekspresji i temperamencie.
+
+## Ziemia obiecana
+Stworzył pamiętną rolę Moryca Welta w „Ziemi obiecanej” Andrzeja Wajdy.
+
+## Danton
+Zagrał Robespierre'a w „Dantonie” Wajdy, tworząc jedną ze swoich najsłynniejszych ról.
+
+## Teatr
+Był wybitnym aktorem scenicznym, grał także na scenach francuskich.
+
+## Wszechstronność
+Poruszał się swobodnie od ról dramatycznych po charakterystyczne i groteskowe.
+
+## Znaczenie
+To jeden z najwybitniejszych polskich aktorów swojego pokolenia.`,
+    trivia: ['Stworzył pamiętną rolę Moryca Welta w „Ziemi obiecanej”.', 'Zagrał Robespierre\'a w „Dantonie” Andrzeja Wajdy.'],
+    resources: [
+      {
+        id: 'wp2-yt',
+        title: 'Wojciech Pszoniak – role',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Wojciech+Pszoniak+Ziemia+obiecana+Danton+role',
+        source: 'YouTube',
+        description: 'Sceny i materiały o aktorze.',
+      },
+      {
+        id: 'wp2-2',
+        title: 'Wojciech Pszoniak – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Wojciech%20Pszoniak%20aktor&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania o aktorze.',
+      },
+      {
+        id: 'wp2-3',
+        title: 'Polscy aktorzy u Wajdy – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=aktorzy+Wajda+Ziemia+obiecana+Danton',
+        source: 'YouTube',
+        description: 'Materiały o aktorach kina Wajdy.',
+      },
+    ],
+    relatedIds: ['ziemia-obiecana', 'olbrychski-daniel', 'tadeusz-lomnicki'],
+  },
+  {
+    id: 'wielkanoc-prl',
+    title: 'Wielkanoc w PRL',
+    subtitle: 'Święconka, żurek i śmigus-dyngus',
+    category: 'społeczeństwo',
+    tags: ['obyczaje', 'święta', 'religia', 'tradycja'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Wielkanoc obchodzono uroczyście mimo oficjalnej ateizacji; ze święconką, wielkanocnym śniadaniem i lanym poniedziałkiem (śmigus-dyngus).',
+    content: `## Święta
+Wielkanoc obchodzono w PRL uroczyście, mimo oficjalnej niechęci władz do religii i ateizacji.
+
+## Święconka
+W Wielką Sobotę święcono koszyczki z jajkami, kiełbasą, chlebem, solą i cukrowym barankiem.
+
+## Śniadanie wielkanocne
+Niedzielne śniadanie z jajkiem, żurkiem, białą kiełbasą i babką gromadziło całą rodzinę.
+
+## Śmigus-dyngus
+Lany poniedziałek to radosne, mokre oblewanie wodą, zwłaszcza wśród dzieci i młodzieży.
+
+## Palmy i pisanki
+Robiono własne palmy, a pisanki barwiono domowymi sposobami – m.in. w łupinach cebuli.
+
+## Znaczenie
+To jedno z najważniejszych świąt rodzinnych, kultywowane wbrew odgórnej ateizacji.`,
+    trivia: ['W Wielką Sobotę święcono koszyczki ze święconką.', 'Lany poniedziałek (śmigus-dyngus) to radosne oblewanie wodą.'],
+    resources: [
+      {
+        id: 'wlk-yt',
+        title: 'Wielkanoc w PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Wielkanoc+PRL+%C5%9Bwi%C4%99conka+%C5%9Bmigus-dyngus+obyczaje',
+        source: 'YouTube',
+        description: 'Archiwalne materiały o świętach.',
+      },
+      {
+        id: 'wlk-wk',
+        title: 'Wielkanoc – obyczaje',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Wielkanoc%20obyczaje%20Polska%20tradycja&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasło i opracowania.',
+      },
+      {
+        id: 'wlk-2',
+        title: 'Święta religijne w PRL – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=%C5%9Bwi%C4%99ta+religijne+PRL+Ko%C5%9Bci%C3%B3%C5%82+obyczaje',
+        source: 'YouTube',
+        description: 'Materiały o świętach w epoce.',
+      },
+    ],
+    relatedIds: ['wesele-prl', 'swieta-prl', 'kosciol-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -27433,4 +27656,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1970, event: 'Premiera „Jak rozpętałem drugą wojnę światową” Tadeusza Chmielewskiego', category: 'kultura', entryId: 'jak-rozpetalem-ii-wojne' },
   { year: 1974, event: 'Michał Urbaniak i fusion – polski jazz podbija USA', category: 'kultura', entryId: 'michal-urbaniak' },
   { year: 1965, event: 'Beata Tyszkiewicz w „Rękopisie znalezionym w Saragossie”', category: 'kultura', entryId: 'beata-tyszkiewicz' },
+  { year: 1973, event: 'Premiera „Wniebowziętych” Andrzeja Kondratiuka', category: 'kultura', entryId: 'wniebowzieci' },
+  { year: 1974, event: 'Urszula Dudziak – „Papaya” i światowa kariera wokalna', category: 'kultura', entryId: 'urszula-dudziak' },
+  { year: 1975, event: 'Wojciech Pszoniak jako Moryc Welt w „Ziemi obiecanej”', category: 'kultura', entryId: 'wojciech-pszoniak' },
 ];
