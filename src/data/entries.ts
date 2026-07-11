@@ -69,6 +69,22 @@ Mimo represji działała podziemna Solidarność, drugi obieg, Radio Solidarnoś
 Stan wojenny zawieszono w 1982 i zniesiono w lipcu 1983 roku. Jego ofiarą padło kilkadziesiąt osób. Pozostał symbolem przemocy państwa wobec własnego społeczeństwa.`,
     resources: [
       {
+        id: 'sw-ipn1',
+        title: 'Portal IPN o stanie wojennym',
+        type: 'akt',
+        url: 'https://13grudnia81.pl/',
+        source: 'IPN',
+        description: 'Portal tematyczny IPN o stanie wojennym 1981-1983.',
+      },
+      {
+        id: 'sw-ipn2',
+        title: 'Stan wojenny - artykuły IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/tematy/stan-wojenny',
+        source: 'IPN - Przystanek Historia',
+        description: 'Artykuły historyków IPN o stanie wojennym.',
+      },
+      {
         id: 'sw-1',
         title: 'Dekret o stanie wojennym – oryginał dokumentu',
         type: 'akt',
@@ -143,6 +159,14 @@ Pod koniec lat 80. fala strajków zmusiła władze do rozmów. Obrady Okrągłeg
 ## Znaczenie
 Solidarność zapoczątkowała pokojowy demontaż komunizmu w Polsce i Europie Środkowej. W 1983 roku Lech Wałęsa otrzymał Pokojową Nagrodę Nobla, a dziedzictwo ruchu wpisano na listę UNESCO „Pamięć Świata”.`,
     resources: [
+      {
+        id: 'sol-ipn1',
+        title: 'Solidarność - artykuły IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/tematy/solidarnosc',
+        source: 'IPN - Przystanek Historia',
+        description: 'Artykuły historyków IPN o NSZZ Solidarność.',
+      },
       {
         id: 'sol-1',
         title: 'Porozumienia Sierpniowe – artykuł IPN',
@@ -269,6 +293,14 @@ Krwawe stłumienie protestów skompromitowało ekipę Władysława Gomułki. 20 
 ## Ofiary i pamięć
 Zginęło co najmniej 45 osób, ponad tysiąc odniosło rany. Pamięć o ofiarach uczczono dopiero w 1980 roku, wznosząc przy Stoczni Gdańskiej Pomnik Poległych Stoczniowców – jeden z pierwszych takich pomników w bloku wschodnim.`,
     resources: [
+      {
+        id: 'g70-ipn1',
+        title: 'Grudzień 1970 - artykuły IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/tematy/grudzien-1970',
+        source: 'IPN - Przystanek Historia',
+        description: 'Artykuły historyków IPN o masakrze na Wybrzeżu.',
+      },
       {
         id: 'gr70-1',
         title: 'Grudzień 1970 – portal tematyczny IPN',
@@ -483,6 +515,14 @@ Na fali porozumień powstał NSZZ „Solidarność” – pierwszy w bloku wscho
 ## Znaczenie
 Sierpień 1980 był przełomem – pokojowym zwycięstwem społeczeństwa nad władzą i początkiem procesu, który przez stan wojenny doprowadził do upadku komunizmu w 1989 roku. W 2003 r. 21 postulatów wpisano na listę UNESCO „Pamięć Świata”.`,
     resources: [
+      {
+        id: 's80-ipn1',
+        title: 'Sierpień 1980 - artykuły IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/tematy/sierpien-1980',
+        source: 'IPN - Przystanek Historia',
+        description: 'Artykuły historyków IPN o strajkach Sierpnia 1980.',
+      },
       {
         id: 'sier-1',
         title: '21 Postulatów – oryginalny dokument',
@@ -1060,6 +1100,14 @@ KOR rozwinął niezależny obieg wydawniczy („Biuletyn Informacyjny”, „Rob
 KOR stworzył intelektualne i organizacyjne zaplecze, na którym w 1980 roku wyrosła Solidarność – pomost między inteligencją a robotnikami.`,
     resources: [
       {
+        id: 'kor-ipn1',
+        title: 'KOR - artykuły IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/tematy/kor',
+        source: 'IPN - Przystanek Historia',
+        description: 'Artykuły historyków IPN o Komitecie Obrony Robotników.',
+      },
+      {
         id: 'kor-1',
         title: 'Komitet Obrony Robotników – historia i dokumenty (IPN)',
         type: 'akt',
@@ -1115,6 +1163,14 @@ W wyniku nagonki z Polski wyjechało około 13–15 tysięcy obywateli pochodzen
 ## Znaczenie
 Marzec 1968 to trauma polskiej inteligencji i kompromitacja władzy. Ukształtował „pokolenie '68”, z którego wywodzili się późniejsi działacze opozycji i KOR.`,
     resources: [
+      {
+        id: 'm68-ipn1',
+        title: 'Marzec 1968 - artykuły IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/tematy/marzec-1968',
+        source: 'IPN - Przystanek Historia',
+        description: 'Artykuły historyków IPN o wydarzeniach marcowych.',
+      },
       {
         id: 'marzec-yt',
         title: 'Marzec 1968 – film dokumentalny',
@@ -1181,6 +1237,14 @@ Pomoc dla represjonowanych robotników stała się impulsem do powstania Komitet
 ## Znaczenie
 Czerwiec 1976 połączył bunt robotniczy ze wsparciem inteligencji, budując fundament pod przyszłą Solidarność.`,
     resources: [
+      {
+        id: 'c76-ipn1',
+        title: 'Czerwiec 1976 - artykuły IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/tematy/czerwiec-1976',
+        source: 'IPN - Przystanek Historia',
+        description: 'Artykuły historyków IPN o protestach Czerwca 1976.',
+      },
       {
         id: 'cz76-1',
         title: 'Czerwiec 1976 – portal tematyczny IPN',
@@ -1511,6 +1575,22 @@ LWP łączyło rolę armii z funkcją narzędzia systemu – pozostaje symbolem 
 
 **Represje** — Szacuje się, że w walkach i z wyroków śmierci zginęło ok. 8500 żołnierzy podziemia. Wielu więziono przez dziesięciolecia. Ustawa z 1991 r. zrehabilitowała represjonowanych. Od 2011 r. **1 marca** obchodzony jest Narodowy Dzień Pamięci Żołnierzy Wyklętych.`,
     resources: [
+      {
+        id: 'zw-ipn1',
+        title: 'Portal IPN o podziemiu zbrojnym',
+        type: 'akt',
+        url: 'https://podziemiezbrojne.ipn.gov.pl/',
+        source: 'IPN',
+        description: 'Portal tematyczny IPN o żołnierzach podziemia niepodległościowego.',
+      },
+      {
+        id: 'zw-ipn2',
+        title: 'Żołnierze Wyklęci - artykuły IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/tematy/zolnierze-wykleci',
+        source: 'IPN - Przystanek Historia',
+        description: 'Artykuły historyków IPN o Żołnierzach Wyklętych.',
+      },
       {
         id: 'wykletci-1',
         title: 'Żołnierze Wyklęci – serwis tematyczny IPN',
@@ -2091,6 +2171,14 @@ Powrót Gomułki wywołał entuzjazm społeczny – przemówienie do warszawskie
 Październik 1956 nie zmienił zasad systemu. Cenzura pozostała, Polska trwała w bloku wschodnim, a Gomułka stopniowo cofał liberalizację. Pismo Po Prostu zostało zamknięte w 1957 roku. Nadzieje na prawdziwą demokratyzację okazały się złudne.`,
     resources: [
       {
+        id: 'p56-ipn1',
+        title: 'Październik 1956 - artykuły IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/tematy/pazdziernik-1956',
+        source: 'IPN - Przystanek Historia',
+        description: 'Artykuły historyków IPN o odwilży październikowej.',
+      },
+      {
         id: 'paz56-1',
         title: 'Październik 1956 – Przystanek Historia',
         type: 'publikacja',
@@ -2395,6 +2483,22 @@ Dopiero w 1990 roku ZSRR oficjalnie przyznał, że zbrodni dokonało NKWD. Ujawn
 ## Pamięć
 Katyń stał się symbolem martyrologii Polaków pod okupacją sowiecką i zakłamania komunizmu. Upamiętniają go liczne pomniki oraz Dzień Pamięci Ofiar Zbrodni Katyńskiej.`,
     resources: [
+      {
+        id: 'kat-ipn1',
+        title: 'Portal IPN o Zbrodni Katyńskiej',
+        type: 'akt',
+        url: 'https://katyn.ipn.gov.pl/',
+        source: 'IPN',
+        description: 'Portal tematyczny IPN poświęcony Zbrodni Katyńskiej.',
+      },
+      {
+        id: 'kat-ipn2',
+        title: 'Zbrodnia katyńska - artykuły IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/tematy/zbrodnia-katynska',
+        source: 'IPN - Przystanek Historia',
+        description: 'Artykuły historyków IPN o zbrodni katyńskiej.',
+      },
       {
         id: 'katyn-1',
         title: 'Zbrodnia Katyńska – portal IPN',
@@ -17116,6 +17220,14 @@ Przez dekady PRL temat był całkowicie przemilczany. Rodziny ofiar latami bezsk
 ## Znaczenie
 Obława augustowska to największa niewyjaśniona zbrodnia na Polakach po II wojnie światowej i symbol sowieckiego terroru u progu rządów komunistycznych.`,
     resources: [
+      {
+        id: 'oa-ipn1',
+        title: 'Obława augustowska - artykuły IPN',
+        type: 'publikacja',
+        url: 'https://przystanekhistoria.pl/pa2/tematy/oblawa-augustowska',
+        source: 'IPN - Przystanek Historia',
+        description: 'Artykuły historyków IPN o obławie augustowskiej.',
+      },
       {
         id: 'oa-1',
         title: 'Obława augustowska – materiały IPN',

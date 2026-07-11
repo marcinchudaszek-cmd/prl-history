@@ -122,7 +122,7 @@ export default function PressPage({ onNavigate }: PressPageProps) {
 
       <p className="text-center text-xs text-gray-400 mt-8">
         Skany numerów udostępnia Internet Archive (na podstawie polskich bibliotek cyfrowych); dla tytułów bez skanu online – hasło w Wikipedii.
-        Prawa do materiałów należą do ich właścicieli.
+        Czytnik skanów bywa wolny – pierwsze ładowanie może potrwać kilkanaście sekund. Prawa do materiałów należą do ich właścicieli.
       </p>
     </div>
   );
