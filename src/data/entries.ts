@@ -709,7 +709,7 @@ Jerzy Grotowski, Tadeusz Kantor (Teatr Cricot 2) – artyści o światowej sław
       },
       {
         id: 'kult-3',
-        title: 'NINATEKA – kolekcja Kroniki Filmowej',
+        title: 'kolekcja Kroniki Filmowej',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+kroniki+PRL',
         source: 'YouTube',
@@ -2430,7 +2430,7 @@ Po upadku PRL usunięto z nazwy człon upamiętniający Stalina. Dyskusja o wybu
       },
       {
         id: 'pkwn-pki-2',
-        title: 'Warszawa w socrealistycznej architekturze – NINATEKA',
+        title: 'Warszawa w socrealistycznej architekturze',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=Warszawa+socrealistycznej+architekturze',
         source: 'YouTube',
@@ -2742,7 +2742,7 @@ Wszystkie filmy powstawały w państwowych wytwórniach i podlegały cenzurze. S
     resources: [
       {
         id: 'kino-1',
-        title: 'NINATEKA – archiwum polskiego kina',
+        title: 'archiwum polskiego kina',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=polskiego+kina',
         source: 'YouTube',
@@ -3435,7 +3435,7 @@ Za sukcesami stało zawodowe podejście, świetni trenerzy i system wyławiania 
     resources: [
       {
         id: 'sport-ninateka',
-        title: 'Sport w PRL – archiwalne transmisje (Ninateka)',
+        title: 'Sport w PRL – archiwalne transmisje',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=sport+olimpiada+Polska+PRL',
         source: 'YouTube',
@@ -3491,7 +3491,7 @@ Po upadku PRL Maluch stał się tanim środkiem transportu, a później obiektem
     resources: [
       {
         id: 'fiat-1',
-        title: 'Maluch w kronikach filmowych – NINATEKA',
+        title: 'Maluch w kronikach filmowych',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=Maluch+kronikach+filmowych',
         source: 'YouTube',
@@ -3913,7 +3913,7 @@ PRL zapewniał też gwarancje, które po 1989 roku zniknęły – zatrudnienie (
       },
       {
         id: 'zc-2',
-        title: 'Kroniki codzienności PRL – NINATEKA',
+        title: 'Kroniki codzienności PRL',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=Kroniki+codzienno%C5%9Bci',
         source: 'YouTube',
@@ -4270,11 +4270,11 @@ Kuroń był człowiekiem pełnym sprzeczności: dawny komunista, który stał si
       },
       {
         id: 'kuron-ninateka',
-        title: 'Jacek Kuroń – nagrania archiwalne',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/results?search_query=Kuro%C5%84+Jacek',
-        source: 'YouTube',
-        description: 'Archiwalne nagrania z udziałem Jacka Kuronia – wywiady, przemówienia i relacje',
+        title: 'Jacek Kuroń i Marcin Król o słabym przygotowaniu władzy do negocjacji',
+        type: 'film',
+        url: 'https://ninateka.pl/movies,1/jacek-kuron-i-marcin-krol-o-slabym-przygotowaniu-wladzy-do-negocjacji,3640',
+        source: 'Ninateka',
+        description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
       },
     ],
     relatedIds: ['kor', 'marzec-1968', 'sierpien-1980', 'okragly-stol', 'czerwiec-1976'],
@@ -4706,11 +4706,11 @@ Ostatnie lata życia spędziła w Krakowie, otoczona gronem przyjaciół. Pisał
       },
       {
         id: 'szym-ninateka',
-        title: 'Szymborska – wywiady i nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/results?search_query=Szymborska+Wis%C5%82awa',
-        source: 'YouTube',
-        description: 'Archiwalne wywiady telewizyjne i radiowe z Wisławą Szymborską',
+        title: 'Portret kobiecy | Wisława Szymborska',
+        type: 'film',
+        url: 'https://ninateka.pl/audio,153683/portret-kobiecy--wislawa-szymborska,9066',
+        source: 'Ninateka',
+        description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
       },
     ],
     relatedIds: ['literatura-prl', 'kultura-prl', 'milosz', 'herbert', 'cenzura-prl'],
@@ -5145,11 +5145,11 @@ Lem jest patronem nauki o przyszłości, cyberprzestrzeni i etyce technologiczne
       },
       {
         id: 'lem-ninateka',
-        title: 'Lem – wywiady i adaptacje filmowe',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/results?search_query=Lem+Stanis%C5%82aw+Solaris',
-        source: 'YouTube',
-        description: 'Archiwalne wywiady z Lemem i adaptacje filmowe jego dzieł',
+        title: 'Stanisław Lem | Filmowy Kanon Literatury',
+        type: 'film',
+        url: 'https://ninateka.pl/movies,1/stanislaw-lem--filmowy-kanon-literatury,11017',
+        source: 'Ninateka',
+        description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
       },
     ],
     relatedIds: ['literatura-prl', 'kultura-prl', 'nauka-prl', 'cenzura-prl', 'milosz'],
@@ -5193,11 +5193,11 @@ Wajda nauczył świat patrzeć na Polskę przez pryzmat jej tragicznej historii.
     resources: [
       {
         id: 'wajda-ninateka',
-        title: 'Filmy Andrzeja Wajdy – Ninateka',
+        title: 'Andrzej Wajda | Rozmowy poszczególne',
         type: 'film',
-        url: 'https://www.youtube.com/results?search_query=Wajda',
-        source: 'YouTube',
-        description: 'Archiwalne filmy i materiały o twórczości Andrzeja Wajdy',
+        url: 'https://ninateka.pl/movies,1/andrzej-wajda--rozmowy-poszczegolne,2159',
+        source: 'Ninateka',
+        description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
       },
       {
         id: 'wajda-ph',
@@ -5267,7 +5267,7 @@ Ten paradoks – muzyka wolności w systemie zniewolenia – jest jednym z najci
       },
       {
         id: 'jazz-ninateka',
-        title: 'Jazz Jamboree – archiwalne nagrania (Ninateka)',
+        title: 'Jazz Jamboree – archiwalne nagrania',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Jazz+Jamboree',
         source: 'YouTube',
@@ -5465,7 +5465,7 @@ Polska wieś intensywnie "wylewała się" do miast – miliony chłopów stały 
       },
       {
         id: 'wies-3',
-        title: 'Kroniki wiejskie PRL – NINATEKA',
+        title: 'Kroniki wiejskie PRL',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=Kroniki+wiejskie',
         source: 'YouTube',
@@ -6158,7 +6158,7 @@ PKF przeżyła PRL – nadawano ją do 1994 r., zmieniając stopniowo profil. Ar
     resources: [
       {
         id: 'pkf-1',
-        title: 'Archiwum PKF – NINATEKA',
+        title: 'Archiwum PKF',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa',
         source: 'YouTube',
@@ -6277,7 +6277,7 @@ Po 1989 r. wytwórnia kontynuowała działalność jako WFDiF. Jej archiwum – 
       },
       {
         id: 'wfdif-2',
-        title: 'Dokumenty WFDiF w zbiorach NINATEKA',
+        title: 'Dokumenty WFDiF',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=Wytw%C3%B3rnia+Film%C3%B3w+Dokumentalnych',
         source: 'YouTube',
@@ -6327,7 +6327,7 @@ Wiele dokumentów trafiało "na półkę" – nie dopuszczano ich do rozpowszech
     resources: [
       {
         id: 'dok-1',
-        title: 'Polskie filmy dokumentalne – NINATEKA',
+        title: 'Polskie filmy dokumentalne',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=film+dokumentalny+PRL',
         source: 'YouTube',
@@ -6336,7 +6336,7 @@ Wiele dokumentów trafiało "na półkę" – nie dopuszczano ich do rozpowszech
       },
       {
         id: 'dok-2',
-        title: 'Dokumenty Kieślowskiego – NINATEKA',
+        title: 'Dokumenty Kieślowskiego',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=Kie%C5%9Blowski+dokument',
         source: 'YouTube',
@@ -6386,7 +6386,7 @@ Dla historyka PKF jest źródłem podwójnym: mówi o wydarzeniach i o sposobie,
     resources: [
       {
         id: 'krwyd-1',
-        title: 'Archiwum PKF według wydarzeń – NINATEKA',
+        title: 'Archiwum PKF według wydarzeń',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa',
         source: 'YouTube',
@@ -6630,7 +6630,7 @@ Stan wojenny 1981 r. zakończył nurt – część twórców wyemigrowała (Holl
     resources: [
       {
         id: 'kmn-1',
-        title: 'Filmy kina moralnego niepokoju – NINATEKA',
+        title: 'Filmy kina moralnego niepokoju',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=kino+moralnego+niepokoju',
         source: 'YouTube',
@@ -6758,7 +6758,7 @@ Historycy wskazują, że nostalgia za PRL jest specyficzna dla pokolenia dorosł
       },
       {
         id: 'nostalgia-2',
-        title: 'Kroniki i filmy z PRL – NINATEKA',
+        title: 'Kroniki i filmy z PRL',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=Kroniki+filmy',
         source: 'YouTube',
@@ -7235,7 +7235,7 @@ Teatr PRL łączył wysoki poziom artystyczny z funkcją obywatelską, będąc j
     resources: [
       {
         id: 'teatr-1',
-        title: 'Nagrania spektakli PRL – NINATEKA',
+        title: 'Nagrania spektakli PRL',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Nagrania+spektakli',
         source: 'YouTube',
@@ -7739,7 +7739,7 @@ WRON i stan wojenny ocenia się różnie: jako "mniejsze zło" (Jaruzelski twier
       },
       {
         id: 'wron-3',
-        title: 'Nagranie przemówienia Jaruzelskiego – NINATEKA',
+        title: 'Nagranie przemówienia Jaruzelskiego',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Jaruzelski+przem%C3%B3wienie+1981',
         source: 'YouTube',
@@ -7906,11 +7906,11 @@ Obok animacji dziecięcej polska szkoła tworzyła filmy dla dorosłych – kró
     resources: [
       {
         id: 'anim-1',
-        title: 'Polska animacja – NINATEKA',
+        title: 'Polska animacja',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=polska+animacja',
         source: 'YouTube',
-        description: 'Archiwalne filmy animowane PRL dostępne w cyfrowym archiwum NINATEKA.',
+        description: 'Archiwalne filmy animowane PRL dostępne w cyfrowym archiwum archiwa filmowe.',
         year: 1960,
       },
       {
@@ -7967,7 +7967,7 @@ Radio Wolna Europa zagłuszano do końca lat 80. – ale Polacy i tak słuchali,
     resources: [
       {
         id: 'radio-prl-1',
-        title: 'Archiwum nagrań Polskiego Radia – NINATEKA',
+        title: 'Archiwum nagrań Polskiego Radia',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Polskie+Radio+archiwum',
         source: 'YouTube',
@@ -8269,11 +8269,11 @@ Polska szkoła filmowa umieściła kino polskie na mapie kinematografii światow
     resources: [
       {
         id: 'psf-1',
-        title: 'Filmy polskiej szkoły filmowej – NINATEKA',
+        title: 'Filmy polskiej szkoły filmowej',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=polska+szko%C5%82a+filmowa',
         source: 'YouTube',
-        description: 'Archiwalne filmy polskiej szkoły filmowej dostępne w cyfrowym archiwum NINATEKA.',
+        description: 'Archiwalne filmy polskiej szkoły filmowej dostępne w cyfrowym archiwum archiwa filmowe.',
         year: 1956,
       },
       {
@@ -8507,7 +8507,7 @@ Telewizja PRL odcisnęła trwały ślad w kulturze polskiej. Seriale, dziecięce
     resources: [
       {
         id: 'tvp-ninateka',
-        title: 'Archiwalne programy TVP w NINATECE',
+        title: 'Archiwalne programy TVP',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=TVP+archiwum',
         source: 'YouTube',
@@ -8704,11 +8704,11 @@ Niemen jest dla polskiej muzyki tym, czym Hendrix dla rocka angloamerykańskiego
       },
       {
         id: 'niemen-ninateka',
-        title: 'Czesław Niemen – archiwalne nagrania w NINATECE',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/results?search_query=Niemen',
-        source: 'YouTube',
-        description: 'Archiwalne nagrania telewizyjne i filmowe z udziałem Czesława Niemena',
+        title: 'Czesław Niemen o Cyprianie Kamilu Norwidzie',
+        type: 'film',
+        url: 'https://ninateka.pl/audio,153683/czeslaw-niemen-o-cyprianie-kamilu-norwidzie,7033',
+        source: 'Ninateka',
+        description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
       },
       {
         id: 'niemen-youtube',
@@ -9204,7 +9204,7 @@ Komeda zostawił ok. 20 nagrań studyjnych i muzykę do ponad 50 filmów. Jego k
       },
       {
         id: 'komeda-ninateka',
-        title: 'Archiwalne nagrania i wywiady z Komedą – NINATEKA',
+        title: 'Archiwalne nagrania i wywiady z Komedą',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Komeda+jazz',
         source: 'YouTube',
@@ -9286,7 +9286,7 @@ Reformy były ograniczone. Zamknięcie "Po prostu" w 1957, powolne przywracanie 
       },
       {
         id: 'pazdziernik-ninateka',
-        title: 'Kroniki filmowe 1956 – NINATEKA',
+        title: 'Kroniki filmowe 1956',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=Pa%C5%BAdzie%C5%BCnik+1956+odwil%C5%BC',
         source: 'YouTube',
@@ -9404,11 +9404,11 @@ Kieślowski pokazał, że kino może być filozofią. Jego filmy pytają o sens 
     resources: [
       {
         id: 'kieslowski-ninateka',
-        title: 'Filmy Kieślowskiego – Ninateka',
+        title: 'Krzysztof Kieślowski | Wtedy-teraz. Polska Szkoła Dokumentu',
         type: 'film',
-        url: 'https://www.youtube.com/results?search_query=Kie%C5%9Blowski',
-        source: 'YouTube',
-        description: 'Filmy dokumentalne i fabularne Krzysztofa Kieślowskiego w archiwum Ninateki',
+        url: 'https://ninateka.pl/movies,1/krzysztof-kieslowski--wtedy-teraz-polska-szkola-dokumentu-,869',
+        source: 'Ninateka',
+        description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
       },
       {
         id: 'kieslowski-ph',
@@ -9995,7 +9995,7 @@ Komuniści zdawali sobie sprawę z zagrożenia. SB inwigilowała pielgrzymki, do
     resources: [
       {
         id: 'jp2-pielgrzymki-ninateka',
-        title: 'Pielgrzymki Jana Pawła II – nagrania (Ninateka)',
+        title: 'Pielgrzymki Jana Pawła II – nagrania',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Jan+Pawe%C5%82+II+pielgrzymka+Polska+1979',
         source: 'YouTube',
@@ -10199,7 +10199,7 @@ Po 1989 roku Łódź przeżyła kryzys przemysłowy – zamknięte fabryki, bezr
     resources: [
       {
         id: 'lodz-ninateka',
-        title: 'Filmy Szkoły Łódzkiej – Ninateka',
+        title: 'Filmy Szkoły Łódzkiej',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=%C5%81%C3%B3d%C5%BA+szko%C5%82a+filmowa+etiudy',
         source: 'YouTube',
@@ -10271,7 +10271,7 @@ Muzyka rockowa lat 80. nie była wprost polityczna, ale jej etos był opozycyjny
     resources: [
       {
         id: 'rock-ninateka',
-        title: 'Polski rock lat 80. – nagrania (Ninateka)',
+        title: 'Polski rock lat 80. – nagrania',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Perfect+Lady+Pank+Republika+rock+PRL',
         source: 'YouTube',
@@ -10339,7 +10339,7 @@ Po 1989 roku scena kabaretowa rozkwitła. Kabaret Olgi Lipińskiej, potem „Uch
     resources: [
       {
         id: 'kabaret-ninateka',
-        title: 'Kabaret PRL – nagrania archiwalne (Ninateka)',
+        title: 'Kabaret PRL – nagrania archiwalne',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=kabaret+Dudek+STS+Piwnica+PRL+satyra',
         source: 'YouTube',
@@ -10656,7 +10656,7 @@ Propaganda sukcesu to klasyczny przykład manipulacji medialnej PRL – budowani
       },
       {
         id: 'props-1',
-        title: 'Kroniki dekady Gierka – NINATEKA',
+        title: 'Kroniki dekady Gierka',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+lata+siedemdziesi%C4%85te',
         source: 'YouTube',
@@ -10995,7 +10995,7 @@ Od nazwiska reżysera powstało pojęcie „bareizm” – oznaczające typową 
     resources: [
       {
         id: 'bar-1',
-        title: 'Filmy Barei – NINATEKA',
+        title: 'Filmy Barei',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=Stanis%C5%82aw+Bareja+komedia',
         source: 'YouTube',
@@ -11051,7 +11051,7 @@ Seriale PRL były narzędziem kształtowania postaw, ale jednocześnie autentycz
     resources: [
       {
         id: 'ser-1',
-        title: 'Seriale PRL – NINATEKA',
+        title: 'Seriale PRL',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=serial+telewizyjny+PRL',
         source: 'YouTube',
@@ -11115,7 +11115,7 @@ Wraz z przemianami 1989 r. Wyścig Pokoju stracił polityczny kontekst i dawną 
       },
       {
         id: 'wyp-1',
-        title: 'Relacje z Wyścigu Pokoju – NINATEKA',
+        title: 'Relacje z Wyścigu Pokoju',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=Wy%C5%9Bcig+Pokoju+kolarstwo',
         source: 'YouTube',
@@ -11304,7 +11304,7 @@ Najlepiej wpisywać konkretne hasła: nazwę wydarzenia („Grudzień 1970”), 
     resources: [
       {
         id: 'arch-1',
-        title: 'NINATEKA – Polska Kronika Filmowa',
+        title: 'Polska Kronika Filmowa',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa',
         source: 'YouTube',
@@ -11313,7 +11313,7 @@ Najlepiej wpisywać konkretne hasła: nazwę wydarzenia („Grudzień 1970”), 
       },
       {
         id: 'arch-2',
-        title: 'NINATEKA – kroniki i dokumenty',
+        title: 'kroniki i dokumenty',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=kronika+filmowa',
         source: 'YouTube',
@@ -11426,7 +11426,7 @@ FINA jest kluczową instytucją pamięci filmowej Polski. Bez jej pracy ogromna 
       },
       {
         id: 'fina-3',
-        title: 'NINATEKA – archiwum audiowizualne',
+        title: 'archiwum audiowizualne',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=dokument+PRL',
         source: 'YouTube',
@@ -11482,7 +11482,7 @@ Nagrania opolskie to dziś bezcenna fonoteka i wideoteka polskiej piosenki. Fest
       },
       {
         id: 'opo-2',
-        title: 'Nagrania opolskie – NINATEKA',
+        title: 'Nagrania opolskie',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=festiwal+piosenki+Opole',
         source: 'YouTube',
@@ -11602,7 +11602,7 @@ Teatr Telewizji ukształtował gust kulturalny pokoleń Polaków i zachował zap
       },
       {
         id: 'ttv-2',
-        title: 'Teatr Telewizji – NINATEKA',
+        title: 'Teatr Telewizji',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=Teatr+Telewizji+spektakl',
         source: 'YouTube',
@@ -11673,7 +11673,7 @@ Milenium 1966 umocniło pozycję Kościoła i prymasa Wyszyńskiego, pokazując 
       },
       {
         id: 'mil-3',
-        title: 'Kroniki obchodów – NINATEKA',
+        title: 'Kroniki obchodów',
         type: 'film',
         url: 'https://www.youtube.com/results?search_query=Tysi%C4%85clecie+Pa%C5%84stwa+Polskiego+1966',
         source: 'YouTube',
@@ -28137,6 +28137,248 @@ To jedno z najważniejszych świąt rodzinnych, kultywowane wbrew odgórnej atei
     ],
     relatedIds: ['wesele-prl', 'swieta-prl', 'kosciol-prl'],
   },
+  {
+    id: 'przesluchanie',
+    title: 'Przesłuchanie',
+    subtitle: 'Półkownik Bugajskiego i rola życia Jandy',
+    category: 'kultura',
+    tags: ['film', 'kino', 'cenzura', 'represje', 'stan wojenny'],
+    yearStart: 1982,
+    yearEnd: 1989,
+    summary: 'Dramat polityczny Ryszarda Bugajskiego (1982) o kobiecie torturowanej w stalinowskim więzieniu; zatrzymany przez cenzurę na siedem lat, przyniósł Krystynie Jandzie nagrodę w Cannes.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ryszard%20Bugajski.jpg?width=800',
+    imageCaption: 'Ryszard Bugajski – reżyser „Przesłuchania”.',
+    content: `## Film
+„Przesłuchanie” (1982) w reżyserii Ryszarda Bugajskiego to jeden z najmocniejszych polskich dramatów politycznych.
+
+## Fabuła
+Antonina Dziwisz, beztroska piosenkarka rewiowa, trafia bez powodu do stalinowskiego więzienia, gdzie próbuje się ją złamać, by zeznawała przeciw znajomemu.
+
+## Rola Krystyny Jandy
+Kreacja Jandy – od naiwności po nieustępliwą godność – uchodzi za jedną z największych ról w historii polskiego kina.
+
+## Zatrzymany przez cenzurę
+Film ukończono tuż przed stanem wojennym; władze zablokowały go na siedem lat, a kopie krążyły w drugim obiegu na kasetach wideo.
+
+## Premiera i Cannes
+Oficjalna premiera odbyła się dopiero w 1989 roku; rok później Krystyna Janda otrzymała w Cannes nagrodę dla najlepszej aktorki.
+
+## Znaczenie
+To najgłośniejszy polski „półkownik” i wstrząsające świadectwo stalinowskich represji.`,
+    trivia: ['Film leżał na półce siedem lat – premiera odbyła się dopiero w 1989 roku.', 'Krystyna Janda otrzymała za tę rolę nagrodę aktorską w Cannes (1990).', 'Zablokowany film krążył nieoficjalnie na kasetach wideo w drugim obiegu.'],
+    resources: [
+      {
+        id: 'prz-nina1',
+        title: 'Kolaudacja filmu „Przesłuchanie” | Gdańsk ’82',
+        type: 'film',
+        url: 'https://ninateka.pl/movies,1/kolaudacja-filmu-przesluchanie--gdansk-82-festiwal-ktory-sie-nie-odbyl,10183',
+        source: 'Ninateka',
+        description: 'Zapis komisji kolaudacyjnej decydującej o losie filmu.',
+      },
+      {
+        id: 'prz-nina2',
+        title: 'Marcin Adamczak o „Przesłuchaniu” i „Dreszczach”',
+        type: 'nagranie',
+        url: 'https://ninateka.pl/movies,1/marcin-adamczak-o-filmach-przesluchanie-i-dreszcze--akademia-polskiego-filmu,11026',
+        source: 'Ninateka',
+        description: 'Wykład Akademii Polskiego Filmu o obu półkownikach.',
+      },
+      {
+        id: 'prz-wiki',
+        title: 'Przesłuchanie – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Przes%C5%82uchanie_(film)',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne o filmie.',
+      },
+      {
+        id: 'prz-yt',
+        title: '„Przesłuchanie” – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Przes%C5%82uchanie+1982+Bugajski+Janda+film',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+    ],
+    relatedIds: ['krystyna-janda', 'polkowniki', 'cenzura-prl'],
+  },
+  {
+    id: 'polkowniki',
+    title: 'Półkowniki',
+    subtitle: 'Filmy zatrzymane przez cenzurę',
+    category: 'kultura',
+    tags: ['film', 'cenzura', 'stan wojenny', 'kino', 'represje'],
+    yearStart: 1976,
+    yearEnd: 1989,
+    summary: 'Półkowniki to filmy, których rozpowszechnianie wstrzymała cenzura – kładziono je „na półkę”; najwięcej trafiło tam po wprowadzeniu stanu wojennego.',
+    content: `## Nazwa
+„Półkownik” to żartobliwe określenie filmu, którego rozpowszechnianie wstrzymano – dzieło trafiało „na półkę” zamiast na ekrany.
+
+## Mechanizm
+O losie filmu decydowała komisja kolaudacyjna; wystarczyła jedna niewygodna scena lub sam kontekst polityczny, by wstrzymać premierę.
+
+## Po 13 grudnia
+Najwięcej filmów trafiło na półki po wprowadzeniu stanu wojennego, gdy zatrzymano niemal cały dorobek kina moralnego niepokoju.
+
+## Festiwal, który się nie odbył
+Gdański festiwal filmowy w 1982 roku został odwołany – filmy z tamtego rocznika pokazano publiczności dopiero po latach.
+
+## Drugi obieg
+Niektóre zatrzymane filmy krążyły nieoficjalnie na kasetach wideo, poza kontrolą władz.
+
+## Odwieszenie
+Większość półkowników trafiła na ekrany dopiero w 1989 roku i później.`,
+    trivia: ['Nazwa pochodzi od kładzenia taśmy filmowej „na półkę” zamiast do kin.', 'Festiwal filmowy w Gdańsku w 1982 roku w ogóle się nie odbył.', 'O dopuszczeniu filmu decydowała komisja kolaudacyjna.'],
+    resources: [
+      {
+        id: 'plk-nina1',
+        title: '„Jak się czuło społeczeństwo” | Gdańsk ’82',
+        type: 'film',
+        url: 'https://ninateka.pl/movies,1/jak-sie-czulo-spoleczenstwo--gdansk-82-festiwal-ktory-sie-nie-odbyl,10197',
+        source: 'Ninateka',
+        description: 'Materiał z cyklu o festiwalu, który się nie odbył.',
+      },
+      {
+        id: 'plk-nina2',
+        title: 'O polityce na rozmaite sposoby | Gdańsk ’82',
+        type: 'film',
+        url: 'https://ninateka.pl/movies,1/o-polityce-na-rozmaite-sposoby--gdansk-82-festiwal-ktory-sie-nie-odbyl,10199',
+        source: 'Ninateka',
+        description: 'Rozmowa o politycznym kinie rocznika 1982.',
+      },
+      {
+        id: 'plk-wiki',
+        title: 'Półkownik – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/P%C3%B3%C5%82kownik',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne o filmach zatrzymanych przez cenzurę.',
+      },
+      {
+        id: 'plk-yt',
+        title: 'Półkowniki – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=p%C3%B3%C5%82kowniki+filmy+zatrzymane+cenzura+PRL',
+        source: 'YouTube',
+        description: 'Materiały o zatrzymanych filmach.',
+      },
+    ],
+    relatedIds: ['cenzura-prl', 'przesluchanie', 'kino-moralnego-niepokoju'],
+  },
+  {
+    id: 'matka-krolow',
+    title: 'Matka Królów',
+    subtitle: 'Zaorski i rozrachunek ze stalinizmem',
+    category: 'kultura',
+    tags: ['film', 'kino', 'cenzura', 'stalinizm'],
+    yearStart: 1982,
+    yearEnd: 1987,
+    summary: 'Film polityczny Janusza Zaorskiego (1982) wg powieści Kazimierza Brandysa; losy praczki i jej synów w czasach stalinizmu – kolejny półkownik.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Janusz%20zaorski.jpg?width=800',
+    imageCaption: 'Janusz Zaorski – reżyser „Matki Królów”.',
+    content: `## Film
+„Matka Królów” (1982) w reżyserii Janusza Zaorskiego to ekranizacja powieści Kazimierza Brandysa.
+
+## Fabuła
+Łucja Król, uboga praczka z Woli, samotnie wychowuje czterech synów; ich losy splatają się z historią Polski od lat 30. po stalinizm.
+
+## Rozrachunek
+Film bezlitośnie pokazuje, jak system niszczy ludzi wierzących w jego ideały.
+
+## Na półce
+Ukończony w 1982 roku, trafił na półkę i czekał na premierę do 1987.
+
+## Nagrody
+Po odwieszeniu zdobył nagrody, m.in. Srebrnego Niedźwiedzia na festiwalu w Berlinie.
+
+## Znaczenie
+To jeden z najważniejszych polskich filmów rozrachunkowych o epoce stalinizmu.`,
+    trivia: ['Film czekał na premierę pięć lat – od 1982 do 1987 roku.', 'Po odwieszeniu zdobył Srebrnego Niedźwiedzia na festiwalu w Berlinie.'],
+    resources: [
+      {
+        id: 'mk-nina',
+        title: 'Rozmowa po filmie „Matka Królów” | Gdańsk ’82',
+        type: 'film',
+        url: 'https://ninateka.pl/movies,1/rozmowa-po-filmie-matka-krolow--gdansk-82-festiwal-ktory-sie-nie-odbyl,10868',
+        source: 'Ninateka',
+        description: 'Dyskusja o filmie w cyklu o odwołanym festiwalu.',
+      },
+      {
+        id: 'mk-wiki',
+        title: 'Matka Królów – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Matka_Kr%C3%B3l%C3%B3w_(film)',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne o filmie.',
+      },
+      {
+        id: 'mk-yt',
+        title: '„Matka Królów” – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Matka+Kr%C3%B3l%C3%B3w+Zaorski+film+1982',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+    ],
+    relatedIds: ['polkowniki', 'zbrodnie-stalinizmu', 'kino-moralnego-niepokoju'],
+  },
+  {
+    id: 'kobieta-samotna',
+    title: 'Kobieta samotna',
+    subtitle: 'Holland i bezlitosny obraz biedy',
+    category: 'kultura',
+    tags: ['film', 'kino', 'cenzura', 'społeczeństwo'],
+    yearStart: 1981,
+    yearEnd: 1988,
+    summary: 'Dramat Agnieszki Holland (1981) o samotnej listonoszce walczącej o przetrwanie; jeden z najbardziej bezlitosnych obrazów biedy w PRL, zatrzymany przez cenzurę.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/MJK32641%20Agnieszka%20Holland%20%28Pokot%2C%20Berlinale%202017%29%20crop.jpg?width=800',
+    imageCaption: 'Agnieszka Holland – reżyserka „Kobiety samotnej”.',
+    content: `## Film
+„Kobieta samotna” (1981) w reżyserii Agnieszki Holland to jeden z najbardziej przejmujących polskich dramatów społecznych.
+
+## Fabuła
+Samotna listonoszka Irena z małym synem walczy o przetrwanie w nędzy, poniżana przez urzędy i otoczenie.
+
+## Bezlitosny obraz
+Film pokazuje biedę, beznadzieję i przemoc bez upiększeń – daleko od oficjalnego wizerunku PRL.
+
+## Na półce
+Ukończony tuż przed stanem wojennym, trafił na półkę; premiera nastąpiła dopiero pod koniec lat 80.
+
+## Maria Chwalibóg
+Rolę Ireny zagrała Maria Chwalibóg, tworząc kreację pełną rozpaczliwej prawdy.
+
+## Znaczenie
+To jeden z najmocniejszych filmów kina moralnego niepokoju i ważny półkownik.`,
+    trivia: ['Film ukończono tuż przed stanem wojennym i zatrzymano na kilka lat.', 'Rolę listonoszki Ireny zagrała Maria Chwalibóg.'],
+    resources: [
+      {
+        id: 'ks3-nina',
+        title: 'Kobieta samotna | Jedna scena',
+        type: 'film',
+        url: 'https://ninateka.pl/movies,1/kobieta-samotna--jedna-scena,3420',
+        source: 'Ninateka',
+        description: 'Fragment filmu w serwisie Ninateka.',
+      },
+      {
+        id: 'ks3-wiki',
+        title: 'Kobieta samotna – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Kobieta_samotna',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne o filmie.',
+      },
+      {
+        id: 'ks3-yt',
+        title: '„Kobieta samotna” – materiały',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/results?search_query=Kobieta+samotna+Agnieszka+Holland+film',
+        source: 'YouTube',
+        description: 'Sceny i materiały o filmie.',
+      },
+    ],
+    relatedIds: ['polkowniki', 'holland-agnieszka', 'kino-moralnego-niepokoju'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -28427,4 +28669,8 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1973, event: 'Premiera „Wniebowziętych” Andrzeja Kondratiuka', category: 'kultura', entryId: 'wniebowzieci' },
   { year: 1974, event: 'Urszula Dudziak – „Papaya” i światowa kariera wokalna', category: 'kultura', entryId: 'urszula-dudziak' },
   { year: 1975, event: 'Wojciech Pszoniak jako Moryc Welt w „Ziemi obiecanej”', category: 'kultura', entryId: 'wojciech-pszoniak' },
+  { year: 1981, event: 'Ukończenie „Kobiety samotnej” Agnieszki Holland – film trafia na półkę', category: 'kultura', entryId: 'kobieta-samotna' },
+  { year: 1982, event: 'Odwołany festiwal w Gdańsku – rocznik filmów trafia na półki', category: 'kultura', entryId: 'polkowniki' },
+  { year: 1982, event: '„Przesłuchanie” Bugajskiego zatrzymane przez cenzurę na siedem lat', category: 'kultura', entryId: 'przesluchanie' },
+  { year: 1987, event: 'Premiera „Matki Królów” po pięciu latach na półce', category: 'kultura', entryId: 'matka-krolow' },
 ];
