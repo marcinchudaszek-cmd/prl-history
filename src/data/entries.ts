@@ -572,6 +572,7 @@ Na fali porozumień powstał NSZZ „Solidarność” – pierwszy w bloku wscho
 
 ## Znaczenie
 Sierpień 1980 był przełomem – pokojowym zwycięstwem społeczeństwa nad władzą i początkiem procesu, który przez stan wojenny doprowadził do upadku komunizmu w 1989 roku. W 2003 r. 21 postulatów wpisano na listę UNESCO „Pamięć Świata”.`,
+    trivia: ['Tablice z 21 postulatami wpisano na listę UNESCO „Pamięć Świata”.', 'Porozumienia gdańskie podpisano 31 sierpnia 1980 roku wielkim, pamiątkowym długopisem.'],
     resources: [
       {
         id: 's80-ipn1',
@@ -1222,6 +1223,7 @@ KOR rozwinął niezależny obieg wydawniczy („Biuletyn Informacyjny”, „Rob
 
 ## Znaczenie
 KOR stworzył intelektualne i organizacyjne zaplecze, na którym w 1980 roku wyrosła Solidarność – pomost między inteligencją a robotnikami.`,
+    trivia: ['Komitet powstał we wrześniu 1976, by pomagać robotnikom represjonowanym po proteście w Radomiu i Ursusie.', 'Rozwiązał się dobrowolnie w 1981 roku, uznając, że jego zadania przejęła Solidarność.'],
     resources: [
       {
         id: 'kor-ipn1',
@@ -1376,6 +1378,7 @@ Pomoc dla represjonowanych robotników stała się impulsem do powstania Komitet
 
 ## Znaczenie
 Czerwiec 1976 połączył bunt robotniczy ze wsparciem inteligencji, budując fundament pod przyszłą Solidarność.`,
+    trivia: ['Podwyżki cen ogłoszone 24 czerwca wycofano już następnego dnia.', 'Zatrzymanych przepędzano przez „ścieżki zdrowia” – szpaler bijących milicjantów.'],
     resources: [
       {
         id: 'c76-ipn1',
@@ -1964,6 +1967,7 @@ ZOMO rozwiązano na przełomie 1989 i 1990 roku wraz z reformą milicji i przeks
 **Katastrofa gospodarcza** — Plony w spółdzielniach były o 20–30% niższe niż w gospodarstwach indywidualnych. Racjonowanie chleba utrzymano do 1953 r. Hodowla trzody chlewnej drastycznie spadła, powodując wieloletnie niedobory mięsa.
 
 **Dekolektywizacja po 1956** — Po Październiku 1956 r. Gomułka zrezygnował z przymusowej kolektywizacji. W ciągu kilku miesięcy rozpadło się ok. 80% spółdzielni. Polska stała się jedynym krajem bloku wschodniego, w którym przez cały PRL dominowało prywatne rolnictwo indywidualne.`,
+    trivia: ['Po 1956 roku spółdzielnie masowo się rozwiązały.', 'Polska pozostała jedynym krajem bloku wschodniego z przewagą prywatnych gospodarstw.'],
     resources: [
       {
         id: 'kol-pkf',
@@ -2146,6 +2150,7 @@ Stocznia była świadkiem tragicznych wydarzeń Grudnia 1970, gdy funkcjonariusz
 Po upadku PRL Stocznia Gdańska popadła w finansowe tarapaty. W 1996 roku ogłoszono upadłość. Na terenie stoczni powstało Europejskie Centrum Solidarności – muzeum i centrum badań nad historią oporu społecznego w Europie Środkowej.
 
 Przed bramą stoczni wznosi się pomnik Poległych Stoczniowców 1970 – trzy krzyże symbolizujące ofiary Grudnia 1970, odsłonięte w 1980 roku jako jeden z warunków strajku.`,
+    trivia: ['14 sierpnia 1980 Lech Wałęsa dostał się na teren strajkującej stoczni, przeskakując przez mur.', 'Brama nr 2 stoczni, obwieszona kwiatami i obrazami, stała się symbolem strajku.'],
     resources: [
       {
         id: 'stocznia-1',
@@ -2525,6 +2530,7 @@ Znakiem szczególnym strajków 1988 było to, że w wielu zakładach do protestu
 
 **Droga do Okrągłego Stołu:**
 Pod wpływem strajków gen. Czesław Kiszczak podjął pierwsze rozmowy z Wałęsą. Telewizyjna debata Wałęsa–Miodowicz (30 listopada 1988) stała się symbolem zmiany – Solidarność wróciła do przestrzeni publicznej. W lutym 1989 roku rozpoczęły się obrady Okrągłego Stołu.`,
+    trivia: ['Fala strajków wiosną i latem 1988 zmusiła władze do rozmów.', 'Doprowadziła wprost do Okrągłego Stołu.'],
     resources: [
       {
         id: 'strajki88-1',
@@ -2986,6 +2992,7 @@ Realizacja planu wymagała ogromnych wyrzeczeń. Normy pracy rosły, płace real
 
 **Czerwiec 1956 – rachunek za plan:**
 Wybuch robotniczego buntu w Poznaniu w czerwcu 1956 roku był bezpośrednią reakcją na przeciążenie normami pracy i pauperyzację robotników. Strajkujący krzyczeli: "Chleba i wolności!"`,
+    trivia: ['Plan na lata 1950–1955 stawiał na przemysł ciężki kosztem dóbr konsumpcyjnych.', 'Jego symbolami stały się Nowa Huta i Pałac Kultury.'],
     resources: [
       {
         id: 'p6-pkf',
@@ -3050,6 +3057,7 @@ Członkowie WZZ byli stale inwigilowani, zatrzymywani, zwalniani z pracy. Anna W
 
 **Od WZZ do Solidarności:**
 14 sierpnia 1980 roku strajk w Stoczni Gdańskiej zaczął się jako protest w obronie Walentynowicz. Kierownictwo WZZ organizowało strajk i prowadziło negocjacje. Po podpisaniu Porozumień Gdańskich 31 sierpnia 1980 roku WZZ przekształciły się w struktury NSZZ Solidarność.`,
+    trivia: ['Wolne Związki Zawodowe Wybrzeża powstały w 1978 roku, na dwa lata przed Sierpniem.', 'Działali w nich m.in. Anna Walentynowicz, Andrzej Gwiazda i Bogdan Borusewicz.'],
     resources: [
       {
         id: 'wzz-1',
@@ -3614,6 +3622,7 @@ W 1947 roku ogłoszono "bitwę o handel" – kampanię przeciw prywatnym kupcom 
 
 **Skutki:**
 Nacjonalizacja zniszczyła klasę przedsiębiorców i kupców. Gospodarka stała się całkowicie zależna od państwowego planowania. Efektywność gospodarki dramatycznie spadła – pierwsze skutki odczuto już w latach 50.`,
+    trivia: ['Ustawa z 1946 roku objęła zakłady zatrudniające ponad 50 pracowników na jedną zmianę.', 'W ciągu kilku lat prywatny przemysł praktycznie zniknął.'],
     resources: [
       {
         id: 'nac-pkf',
@@ -4109,6 +4118,7 @@ W obradach Okrągłego Stołu brała udział delegacja NZS – organizacja miał
 ### Znaczenie
 
 NZS był dowodem, że wolnościowy impuls Solidarności dosięgnął całego społeczeństwa – nie tylko robotników, ale też studentów, nauczycieli, intelektualistów. Był też kuźnią kadr przyszłej demokratycznej Polski: wielu polityków III RP swoją drogę zaczynało w NZS.`,
+    trivia: ['Niezależne Zrzeszenie Studentów zarejestrowano w lutym 1981, po strajkach studenckich w Łodzi.', 'Było studenckim odpowiednikiem Solidarności.'],
     resources: [
       {
         id: 'nzs-ipn',
@@ -4693,6 +4703,7 @@ RWPG nie stała się nośnikiem nowoczesnych technologii. ZSRR pilnie strzegł k
 W latach 70. kraje RWPG – w tym Polska – masowo zaciągały kredyty zachodnie, licząc na modernizację. Gdy przyszedł kryzys, długi okazały się nie do spłacenia. Polska w 1980 roku miała dług zachodni rzędu 20 mld dolarów. RWPG nie była w stanie pomóc – brakowało twardych walut.
 
 RWPG rozwiązała się w 1991 roku, gdy upadły komunistyczne rządy i rynki wschodnioblokowe przestały istnieć w dotychczasowej formie.`,
+    trivia: ['Radę powołano w 1949 roku jako odpowiedź bloku wschodniego na plan Marshalla.', 'Rozliczenia prowadzono w rublu transferowym, walucie istniejącej tylko na papierze.'],
     resources: [
       {
         id: 'rwpg-polona',
@@ -4938,6 +4949,7 @@ W 1990 roku Gorbaczow oficjalnie przyznał, że NKWD dokonało mordu katyńskieg
 
 **Upadek ZSRR:**
 Reformy Gorbaczowa uwolniły odśrodkowe siły, których nie mógł kontrolować – republiki sowieckie zaczęły ogłaszać niepodległość. W grudniu 1991 roku ZSRR przestał istnieć. Gorbaczow otrzymał Pokojową Nagrodę Nobla w 1990 roku.`,
+    trivia: ['Pierestrojka i głasnost ogłoszone po 1985 osłabiły kontrolę Moskwy nad blokiem wschodnim.', 'Brak groźby sowieckiej interwencji ułatwił przemiany 1989 roku.'],
     resources: [
       {
         id: 'gorb-1',
@@ -6169,6 +6181,7 @@ Chłopi otrzymali ziemię – co wielu przyjmowało z entuzjazmem. Lecz radość
 ## Prawne i historyczne konsekwencje
 
 Kwestia odszkodowań dla potomków wywłaszczonych właścicieli ziemskich pozostaje nierozwiązana do dziś. Polska jest jedynym krajem postkomunistycznym, który nie uchwalił ustawy reprywatyzacyjnej dla majątków zabranych przez komunistów.`,
+    trivia: ['Dekret PKWN z września 1944 przejmował majątki powyżej 50 hektarów.', 'Parcelacja miała pozyskać wieś dla nowej władzy.'],
     resources: [
       {
         id: 'rolna-1',
@@ -7006,6 +7019,7 @@ Konstytucję nowelizowano kilkakrotnie. Najważniejsza nowelizacja: luty 1976 r.
 ## Koniec epoki
 
 Konstytucja PRL obowiązywała do 1989 r. – nowelizacje Okrągłego Stołu przekształciły ją w akt przejściowy. Nową Konstytucję RP uchwalono dopiero w 1997 r.`,
+    trivia: ['Konstytucję uchwalono 22 lipca 1952 i to ona wprowadziła nazwę Polska Rzeczpospolita Ludowa.', 'Poprawki do projektu nanosił osobiście Józef Stalin.'],
     resources: [
       {
         id: 'konst-1',
@@ -7555,6 +7569,7 @@ Jałta wyznaczyła linię podziału Europy: zachodnią strefę wpływów (USA, W
 ## Ocena historyczna
 
 Historycy spierają się, czy Roosevelt i Churchill mieli realną alternatywę – wojska lądowe na terenach spornych posiadał wyłącznie Stalin. Jałta była w znacznej mierze kapitulacją przed siłą faktów – choć krytykuje się też naiwność Roosevelta wobec Stalina.`,
+    trivia: ['Konferencja Wielkiej Trójki odbyła się w lutym 1945 na Krymie.', 'Zadecydowała o powojennych granicach i strefie wpływów ZSRR nad Polską.'],
     resources: [
       {
         id: 'jalta-1',
@@ -7859,6 +7874,7 @@ XX Zjazd przyspieszył rehabilitację ofiar stalinizmu, uwolnienie prymasa Wyszy
 ## Rządy Chruszczowa
 
 Chruszczow rządził ZSRR do 1964 r. Jego czas to "odwilż" – ograniczenie terroru, pewna liberalizacja kultury, ale też kryzys kubański (1962) i Mur Berliński (1961). W 1964 r. obalili go towarzysze partyjni.`,
+    trivia: ['Tajny referat o zbrodniach Stalina wygłoszono na XX Zjeździe KPZR w lutym 1956.', 'Jego treść szybko przedostała się do Polski i przyspieszyła odwilż.'],
     resources: [
       {
         id: 'chruszcz-1',
@@ -9003,6 +9019,7 @@ SW bojkotowała Okrągły Stół, uznając rozmowy z komunistami za zdradzenie i
 **Ocena**
 
 Solidarność Walcząca pozostaje kontrowersyjną organizacją. Zwolennicy podkreślają jej bezkompromisowość i trafną diagnozę komunizmu jako systemu nie do reformy. Krytycy wskazują na izolację polityczną, brak realistycznej strategii i potencjalne szkody dla bezpieczeństwa konspiratorów. Historia przyznała rację obu stronom: komunizm upadł, ale nie przez rewolucję, a przez negocjacje.`,
+    trivia: ['Organizację założył w 1982 roku we Wrocławiu Kornel Morawiecki.', 'Odrzucała porozumienie z władzą i żądała pełnej niepodległości.'],
     resources: [
       {
         id: 'sw-ipn',
@@ -9150,6 +9167,7 @@ Reformy miały jednak granice: PZPR utrzymała monopol władzy, SB funkcjonował
 **Znaczenie**
 
 Destalinizacja w Polsce nie zniszczyła systemu, ale go znacząco zreformowała. Październik 1956 stał się wzorcem dla późniejszych prób reform (1970, 1980) – pokazał, że społeczny nacisk może wymusić ustępstwa od władzy, ale nie całkowite zmiany systemu.`,
+    trivia: ['Odwilż przyniosła powrót Władysława Gomułki i zwolnienie części więźniów politycznych.', 'Rozwiązano Ministerstwo Bezpieczeństwa Publicznego.'],
     resources: [
       {
         id: 'destalin-xxzjazd',
@@ -10801,6 +10819,7 @@ Na początku lat 80. PRL faktycznie stała się niewypłacalna. Stan wojenny i z
 ## Spadek dla III RP
 
 Po 1989 r. demokratyczna Polska odziedziczyła ogromny dług PRL. Dopiero negocjacje z Klubem Paryskim i Londyńskim w pierwszej połowie lat 90. doprowadziły do redukcji znacznej jego części. Zadłużenie pozostaje jednym z najtrwalszych ekonomicznych dziedzictw PRL.`,
+    trivia: ['Kredyty zaciągnięte w dekadzie Gierka miały sfinansować skok gospodarczy.', 'Ich spłata stała się jedną z przyczyn kryzysu lat 80.'],
     resources: [
       {
         id: 'zad-1',
@@ -10914,6 +10933,7 @@ Pobicie wywołało falę oburzenia. „Solidarność” ogłosiła gotowość st
 ## Następstwa
 
 Kryzys bydgoski pokazał determinację władzy i jej gotowość do użycia siły. Dla wielu był zapowiedzią konfrontacji, która nastąpiła 13 grudnia 1981 r. Sprawa pobicia nigdy nie została w pełni wyjaśniona w PRL.`,
+    trivia: ['Pobicie działaczy Solidarności w marcu 1981 wywołało największy kryzys przed stanem wojennym.', 'Zapowiedziany strajk generalny odwołano w ostatniej chwili.'],
     resources: [
       {
         id: 'byd-1',
@@ -11026,6 +11046,7 @@ Późniejsze ustalenia wskazały na inwigilację Pyjasa i jego środowiska przez
 ## Pamięć
 
 Stanisław Pyjas stał się symbolem ofiar systemu wśród młodzieży akademickiej. SKS, powstały po jego śmierci, był ważnym ogniwem opozycji przedsierpniowej i kuźnią działaczy „Solidarności”.`,
+    trivia: ['Po śmierci studenta w maju 1977 w Krakowie zawiązał się Studencki Komitet Solidarności.', 'Czarny Marsz przeszedł ulicami Krakowa w Juwenalia, które odwołano.'],
     resources: [
       {
         id: 'pyj-1',
@@ -11326,6 +11347,7 @@ Bitwa o handel zniszczyła warstwę drobnych przedsiębiorców i kupców, zmieni
 ## Miejsce w historii
 
 „Bitwa o handel” była jednym z kluczowych etapów stalinizacji gospodarki polskiej, obok nacjonalizacji przemysłu i kolektywizacji wsi. Symbolizuje podporządkowanie życia gospodarczego ideologii i państwu.`,
+    trivia: ['Kampanię ogłosił w 1947 roku Hilary Minc.', 'Prywatnych kupców niszczono domiarami – dodatkowymi, uznaniowymi podatkami.'],
     resources: [
       {
         id: 'boh-pkf',
@@ -14139,6 +14161,7 @@ W odróżnieniu od poważnej, podziemnej opozycji Pomarańczowa Alternatywa rozb
 
 ## Znaczenie
 Ruch stał się symbolem kreatywnego, pokojowego oporu schyłku PRL i inspiracją dla późniejszych form protestu obywatelskiego.`,
+    trivia: ['Happeningi wrocławskie prowadził „Major” Waldemar Fydrych.', 'Uczestnicy w czerwonych czapeczkach krasnali obezwładniali milicję śmiechem.'],
     resources: [
       {
         id: 'pa-1',
@@ -14525,6 +14548,7 @@ Czarny rynek obejmował miliony ludzi – od drobnego handlu po zorganizowane si
 
 ## Znaczenie
 Druga gospodarka ilustruje strukturalną niewydolność systemu i przedsiębiorczość Polaków zmuszonych „kombinować”, by przetrwać w realiach niedoboru.`,
+    trivia: ['Waluty skupowali cinkciarze, oferujący kurs wielokrotnie wyższy od oficjalnego.', 'Dolar był realnym miernikiem wartości, mimo że handel nim był nielegalny.'],
     resources: [
       {
         id: 'cr-1',
@@ -15259,6 +15283,7 @@ O sprawie informowały zachodnie media i Radio Wolna Europa, co czyniło z Listu
 
 ## Znaczenie
 List 34 był pierwszym zbiorowym, publicznym protestem środowisk twórczych w PRL i zapowiedzią rosnącego oporu inteligencji wobec cenzury.`,
+    trivia: ['List protestacyjny z 1964 roku liczył zaledwie dwa zdania.', 'Podpisało go 34 pisarzy i uczonych – stąd nazwa.'],
     resources: [
       {
         id: 'l34-1',
@@ -15312,6 +15337,7 @@ W 1980 roku Huta Katowice stała się jednym z ważnych ośrodków rodzącej si�
 
 ## Znaczenie
 Huta Katowice to symbol rozmachu i zarazem słabości gospodarki PRL – wielkich inwestycji finansowanych długiem, które nie uchroniły kraju przed załamaniem.`,
+    trivia: ['Do huty doprowadzono Linię Hutniczą Szerokotorową prosto ze Związku Radzieckiego.', 'Budowę rozpoczęto w 1972 roku jako sztandarową inwestycję dekady Gierka.'],
     resources: [
       {
         id: 'hk-pkf',
@@ -15591,6 +15617,7 @@ Uczestników i wykładowców szykanowano, wykłady rozbijano, a prowadzących za
 
 ## Znaczenie
 Uniwersytet Latający i TKN były ważnym elementem niezależnej kultury i nauki, kształtując kadry przyszłej opozycji i broniąc prawa do prawdy.`,
+    trivia: ['Wykłady odbywały się w prywatnych mieszkaniach, stąd nazwa „uniwersytet latający”.', 'Nawiązywała ona do tajnego nauczania z czasów zaborów i okupacji.'],
     resources: [
       {
         id: 'tkn-1',
@@ -17067,6 +17094,7 @@ Władze stosowały naciski, szykany i represje wobec protestujących i wspieraj�
 
 ## Znaczenie
 Obrona krzyży stała się symbolem oporu młodzieży i Kościoła wobec ateizacji, pokazując siłę przywiązania społeczeństwa do wiary i tradycji.`,
+    trivia: ['Protesty w Miętnem i Włoszczowej w 1984 roku broniły krzyży zdejmowanych ze szkolnych ścian.', 'Uczniowie prowadzili strajki okupacyjne, wspierani przez rodziców i księży.'],
     resources: [
       {
         id: 'okr-1',
@@ -17118,6 +17146,7 @@ Służba Bezpieczeństwa intensywnie tropiła nadajniki i ludzi radia. Wpadki ko
 
 ## Znaczenie
 Radio Solidarność stało się symbolem niezależnej informacji i pomysłowości podziemia, dowodząc, że nawet w eterze można było przełamać monopol władzy.`,
+    trivia: ['Pierwszą audycję nadano w kwietniu 1982, kilka miesięcy po wprowadzeniu stanu wojennego.', 'Nadajniki przenoszono po mieszkaniach, by uniknąć namierzenia.'],
     resources: [
       {
         id: 'rs-1',
@@ -17169,6 +17198,7 @@ Poloneza eksportowano, a produkcję (w zmienianych wersjach) kontynuowano przez 
 
 ## Znaczenie
 FSO i Polonez symbolizują ambicje i ograniczenia przemysłu PRL – techniczny postęp realizowany w warunkach gospodarki niedoboru.`,
+    trivia: ['Nadwozie Poloneza zaprojektowało włoskie studio Giugiaro.', 'Auto weszło do produkcji w 1978 roku i pozostało w niej przez ponad dwie dekady.'],
     resources: [
       {
         id: 'fso-pkf',
@@ -17692,6 +17722,7 @@ Proces ujawnił mechanizmy korupcji wpisane w gospodarkę centralnie planowaną,
 
 ## Znaczenie
 Afera mięsna stała się symbolem patologii gospodarki niedoboru oraz instrumentalnego traktowania wymiaru sprawiedliwości przez władze PRL.`,
+    trivia: ['W procesie z 1964 roku Stanisław Wawrzecki został skazany na karę śmierci i stracony.', 'Wyrok uznaje się za pokazowy – karę orzeczono za przestępstwo gospodarcze.'],
     resources: [
       {
         id: 'am-1',
@@ -17794,6 +17825,7 @@ Sprawa pokazała znaczenie drugiego obiegu i niezależnej myśli docierającej d
 
 ## Dziedzictwo
 Proces taterników był jednym z sygnałów rodzącej się opozycji i obiegu niezależnej literatury, który rozwinął się w kolejnej dekadzie.`,
+    trivia: ['Oskarżeni przenosili przez Tatry paryską „Kulturę” i wydawnictwa emigracyjne.', 'Proces z 1970 roku uderzał w kanał przerzutowy bibuły do kraju.'],
     resources: [
       {
         id: 'pt-1',
@@ -18238,6 +18270,7 @@ Obywatele stracili znaczną część zgromadzonych pieniędzy. Operacja podkopa�
 
 ## Znaczenie
 Reforma 1950 to przykład, jak komunistyczne państwo wykorzystywało aparat finansowy jako narzędzie represji ekonomicznej wobec własnych obywateli.`,
+    trivia: ['Oszczędności wymieniano po kursie 100 starych złotych za 1 nowy.', 'Operację ogłoszono i przeprowadzono w ciągu kilku dni, by nikt nie zdążył zareagować.'],
     resources: [
       {
         id: 'wpz-pkf',
@@ -18694,6 +18727,7 @@ W 1983 roku, po stanie wojennym, FJN zastąpiono Patriotycznym Ruchem Odrodzenia
 
 ## Znaczenie
 FJN to symbol pozorowanej „jedności” i mechanizmu wyborów bez wyboru, charakterystycznych dla systemu komunistycznego.`,
+    trivia: ['Wyborcy dostawali jedną listę – głosowanie polegało na wrzuceniu jej bez skreśleń.', 'Skreślanie kandydatów wymagało wejścia za kotarę, co odnotowywano.'],
     resources: [
       {
         id: 'fjn-pkf',
@@ -29395,4 +29429,34 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1982, event: 'Odwołany festiwal w Gdańsku – rocznik filmów trafia na półki', category: 'kultura', entryId: 'polkowniki' },
   { year: 1982, event: '„Przesłuchanie” Bugajskiego zatrzymane przez cenzurę na siedem lat', category: 'kultura', entryId: 'przesluchanie' },
   { year: 1987, event: 'Premiera „Matki Królów” po pięciu latach na półce', category: 'kultura', entryId: 'matka-krolow' },
+  { year: 1942, event: 'Powstanie Polskiej Partii Robotniczej', category: 'polityka', entryId: 'ppr' },
+  { year: 1945, event: 'Konferencja jałtańska – Polska w sowieckiej strefie wpływów', category: 'polityka', entryId: 'jalta' },
+  { year: 1944, event: 'Ogłoszenie Manifestu PKWN w Lublinie', category: 'polityka', entryId: 'manifest-pkwn' },
+  { year: 1947, event: 'Powstanie Stowarzyszenia PAX Bolesława Piaseckiego', category: 'polityka', entryId: 'pax-piasecki' },
+  { year: 1952, event: 'Uchwalenie Konstytucji PRL – nowa nazwa państwa', category: 'polityka', entryId: 'konstytucja-prl' },
+  { year: 1956, event: 'Tajny referat Chruszczowa na XX Zjeździe KPZR', category: 'polityka', entryId: 'chruszczow' },
+  { year: 1956, event: 'Destalinizacja – rozluźnienie terroru i powrót Gomułki', category: 'polityka', entryId: 'destalinizacja' },
+  { year: 1956, event: 'Polski Październik – przełom polityczny', category: 'polityka', entryId: 'pazdziernik-1956' },
+  { year: 1968, event: 'Udział wojsk polskich w interwencji w Czechosłowacji', category: 'polityka', entryId: 'praga-1968' },
+  { year: 1985, event: 'Gorbaczow u władzy – pierestrojka osłabia blok wschodni', category: 'polityka', entryId: 'gorbaczow' },
+  { year: 1977, event: 'Powstanie ROPCiO – jawna działalność opozycyjna', category: 'opozycja', entryId: 'ropcio' },
+  { year: 1977, event: 'Śmierć Stanisława Pyjasa i powstanie SKS w Krakowie', category: 'opozycja', entryId: 'stanislaw-pyjas' },
+  { year: 1978, event: 'Powstanie Wolnych Związków Zawodowych Wybrzeża', category: 'opozycja', entryId: 'wzz' },
+  { year: 1979, event: 'Powstanie Konfederacji Polski Niepodległej', category: 'opozycja', entryId: 'kpn' },
+  { year: 1980, event: 'Powstanie NSZZ „Solidarność” – pierwszy wolny związek w bloku', category: 'opozycja', entryId: 'solidarnosc' },
+  { year: 1981, event: 'Rejestracja Solidarności Rolników Indywidualnych', category: 'opozycja', entryId: 'solidarnosc-rolnikow' },
+  { year: 1981, event: 'Prowokacja bydgoska – najpoważniejszy kryzys przed stanem wojennym', category: 'opozycja', entryId: 'bydgoszcz-1981' },
+  { year: 1982, event: 'Solidarność przechodzi do podziemia', category: 'opozycja', entryId: 'podziemna-solidarnosc' },
+  { year: 1982, event: 'Powstanie Solidarności Walczącej we Wrocławiu', category: 'opozycja', entryId: 'solidarnosc-walczaca' },
+  { year: 1988, event: 'Fala strajków otwiera drogę do Okrągłego Stołu', category: 'opozycja', entryId: 'strajki-1988' },
+  { year: 1944, event: 'Dekret PKWN o reformie rolnej – parcelacja majątków', category: 'gospodarka', entryId: 'reforma-rolna' },
+  { year: 1946, event: 'Nacjonalizacja przemysłu – przejęcie zakładów przez państwo', category: 'gospodarka', entryId: 'nacjonalizacja' },
+  { year: 1947, event: 'Bitwa o handel – likwidacja prywatnego kupiectwa', category: 'gospodarka', entryId: 'bitwa-o-handel' },
+  { year: 1948, event: 'Początek kolektywizacji wsi – spółdzielnie produkcyjne', category: 'gospodarka', entryId: 'kolektywizacja' },
+  { year: 1950, event: 'Start planu sześcioletniego – rozbudowa przemysłu ciężkiego', category: 'gospodarka', entryId: 'plan-szescioletni' },
+  { year: 1971, event: 'Otwarcie na kredyty zachodnie – początek zadłużenia', category: 'gospodarka', entryId: 'zadluzenie-prl' },
+  { year: 1972, event: 'Rozpoczęcie budowy Huty Katowice', category: 'gospodarka', entryId: 'huta-katowice' },
+  { year: 1972, event: 'Powstanie sieci Pewex – zakupy za dewizy', category: 'gospodarka', entryId: 'pewex' },
+  { year: 1976, event: 'Wprowadzenie kartek na cukier – początek reglamentacji', category: 'gospodarka', entryId: 'kartki-prl' },
+  { year: 1947, event: 'Akcja „Wisła” – przymusowe przesiedlenia ludności ukraińskiej', category: 'represje', entryId: 'akcja-wisla' },
 ];
