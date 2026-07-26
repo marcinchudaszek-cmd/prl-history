@@ -218,6 +218,14 @@ Solidarność zapoczątkowała pokojowy demontaż komunizmu w Polsce i Europie �
         source: 'Ninateka',
         description: 'Nagranie z rozmów o przywróceniu legalnej działalności związku.',
       },
+      {
+        id: 'solidarnosc-wiki2',
+        title: 'NSZZ „Solidarność" – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=NSZZ%20%E2%80%9ESolidarno%C5%9B%C4%87%22&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
+      },
     ],
     relatedIds: ['stan-wojenny', 'okragly-stol', 'sierpien-1980', 'walesa'],
   },
@@ -230,6 +238,8 @@ Solidarność zapoczątkowała pokojowy demontaż komunizmu w Polsce i Europie �
     yearStart: 1956,
     yearEnd: 1956,
     summary: 'Poznański Czerwiec 1956 – masowy protest robotniczy w Poznaniu 28–29 czerwca 1956, brutalnie stłumiony przez wojsko i milicję. Pierwszy tak duży bunt społeczny w historii PRL.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Poznan_1956.jpg?width=800',
+    imageCaption: 'Poznański Czerwiec 1956',
     trivia: ['Symbolem ofiar stał się 13-letni Romek Strzałkowski.', 'Do stłumienia protestu skierowano około 10 tysięcy żołnierzy i setki czołgów.'],
     content: `## Tło
 W połowie lat 50. robotnicy poznańskich Zakładów im. Cegielskiego (ZISPO) domagali się obniżenia zawyżonych norm, podwyżek i zwrotu niesłusznie pobranych podatków. Rozmowy z władzami nie przyniosły rezultatu, a delegacja robotnicza została w Warszawie zignorowana.
@@ -335,6 +345,14 @@ Zginęło co najmniej 45 osób, ponad tysiąc odniosło rany. Pamięć o ofiarac
         source: 'YouTube (arch. TVP)',
         description: 'Archiwalne materiały filmowe z protestów na Wybrzeżu',
         year: 1970,
+      },
+      {
+        id: 'grudzien-1970-wiki2',
+        title: 'Grudzień 1970 – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Grudzie%C5%84_1970',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['czerwiec-1956', 'solidarnosc', 'gomulka', 'gierek'],
@@ -599,6 +617,14 @@ Sierpień 1980 był przełomem – pokojowym zwycięstwem społeczeństwa nad w�
         source: 'Ninateka',
         description: 'Odcinek Kroniki Polskiej o porozumieniach sierpniowych 1980.',
       },
+      {
+        id: 'sierpien-1980-wiki2',
+        title: 'Sierpień 1980 – Strajki – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Sierpie%C5%84%201980%20%E2%80%93%20Strajki&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
+      },
     ],
     relatedIds: ['solidarnosc', 'stan-wojenny', 'grudzien-1970', 'walesa'],
   },
@@ -611,6 +637,8 @@ Sierpień 1980 był przełomem – pokojowym zwycięstwem społeczeństwa nad w�
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'Gospodarka PRL oparta była na centralnym planowaniu i własności państwowej. Charakteryzowała się cyklami inwestycji, niedoborów towarowych, reglamentacji i zadłużenia zagranicznego.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/%C5%9Aciana_Wschodnia_i_Hotel_Forum_w_Warszawie.jpg?width=800',
+    imageCaption: 'Gospodarka PRL',
     content: `Gospodarka PRL opierała się na modelu sowieckim: własności państwowej środków produkcji, centralnym planowaniu i prymacie przemysłu ciężkiego.
 
 **Główne okresy gospodarcze:**
@@ -658,6 +686,14 @@ Powszechne zjawisko społeczne. "Dolar" i towary z Pewexu były twardą walutą 
         source: 'Archiwum Akt Nowych',
         description: 'Zbiór archiwalny KC PZPR w AAN – tajne raporty gospodarcze z lat 80.',
         downloadable: true,
+      },
+      {
+        id: 'gospodarka-prl-wiki2',
+        title: 'Gospodarka PRL – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Gospodarka_Polski_Ludowej',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['pzpr', 'stan-wojenny', 'gierek', 'nowa-huta'],
@@ -835,6 +871,14 @@ Nowa Huta to paradoks PRL – miasto budowane jako pomnik komunizmu, które sta�
         source: 'Wikimedia Commons',
         description: 'Archiwalne fotografie i dokumenty z historii Nowej Huty',
       },
+      {
+        id: 'nowa-huta-wiki2',
+        title: 'Nowa Huta – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Nowa%20Huta&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
+      },
     ],
     relatedIds: ['gospodarka-prl', 'kultura-prl', 'solidarnosc'],
   },
@@ -892,6 +936,14 @@ Gomułka pozostaje symbolem zmarnowanych nadziei 1956 roku – polityka, który 
         source: 'Archiwum Akt Nowych',
         description: 'Materiały wspomnieniowe i dokumenty osobiste Gomułki',
         downloadable: true,
+      },
+      {
+        id: 'gomulka-wiki2',
+        title: 'Władysław Gomułka – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=W%C5%82adys%C5%82aw%20Gomu%C5%82ka&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
       },
     ],
     relatedIds: ['pzpr', 'czerwiec-1956', 'grudzien-1970', 'marzec-1968'],
@@ -1649,6 +1701,8 @@ LWP łączyło rolę armii z funkcją narzędzia systemu – pozostaje symbolem 
     yearStart: 1944,
     yearEnd: 1963,
     summary: 'Żołnierze Wyklęci (Niezłomni) to żołnierze polskiego podziemia niepodległościowego kontynuujący zbrojną walkę z sowiecką dominacją po 1944 r. Przez szeregi podziemia przeszło ok. 120–180 tys. ludzi; ostatni partyzant zginął w 1963 r. Tysiące zostały zamordowane przez UB i NKWD lub stracone po sfingowanych procesach.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/%C5%BBo%C5%82nierze_V_Wile%C5%84skiej_Brygady_AK.jpg?width=800',
+    imageCaption: 'Żołnierze Wyklęci',
     content: `**Geneza i struktury** — Po wkroczeniu Armii Czerwonej w 1944 r. część żołnierzy AK, NSZ i BCh odmówiła rozbrojenia, słusznie oceniając, że sowiecka dominacja przekreśla niepodległość Polski. Główne struktury: Armia Krajowa (do 1945), Delegatura Sił Zbrojnych na Kraj (1945), Wolność i Niezawisłość — **WiN** (1945–1952), Narodowe Siły Zbrojne oraz lokalne oddziały partyzanckie.
 
 **Skala zjawiska** — Historycy IPN szacują 120–180 tys. osób przez całe podziemie. Szczyt aktywności: 1945–1947. Tylko w 1946 r. przeprowadzono ok. 8 tys. „akcji zbrojnych". Aparat komunistyczny odpowiedział masowymi pacyfikacjami wsi, aresztowaniami rodzin i torturami.
@@ -2770,6 +2824,14 @@ Wszystkie filmy powstawały w państwowych wytwórniach i podlegały cenzurze. S
         year: 1981,
         downloadable: false,
       },
+      {
+        id: 'kino-prl-wiki2',
+        title: 'Polska Szkoła Filmowa – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Polska%20Szko%C5%82a%20Filmowa&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
+      },
     ],
     relatedIds: ['kultura-prl', 'cenzura-prl', 'drugi-obieg', 'solidarnosc'],
   },
@@ -2843,6 +2905,8 @@ Społeczeństwo nauczyło się czytać między wierszami. Żarty polityczne (kaw
     tags: ['Akcja Wisła', 'Ukraińcy', 'wysiedlenia', 'UPA', '1947', 'Łemkowie', 'Bojkowie'],
     yearStart: 1947,
     summary: 'Akcja Wisła – przeprowadzona wiosną i latem 1947 roku przez władze komunistyczne przymusowa deportacja około 150 000 Ukraińców, Łemków i Bojków z południowo-wschodniej Polski na Ziemie Odzyskane. Jedna z największych operacji etnicznych w powojennej historii Polski.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/%D0%94%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D1%86%D1%96%D1%8F_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%86%D1%96%D0%B2_%D1%83_%D1%80%D0%B0%D0%BC%D0%BA%D0%B0%D1%85_%D0%B0%D0%BA%D1%86%D1%96%D1%97_%C2%AB%D0%92%D1%96%D1%81%D0%BB%D0%B0%C2%BB%2C_%D0%BA%D0%B2%D1%96%D1%82%D0%B5%D0%BD%D1%8C_1947_%D1%80.jpg?width=800',
+    imageCaption: 'Akcja Wisła',
     content: `Akcja Wisła trwała od 28 kwietnia do 31 lipca 1947 roku. Jej oficjalnym powodem była walka z Ukraińską Powstańczą Armią (UPA), jednak w istocie była to operacja etniczna mająca na celu trwałe rozproszenie ukraińskiej i łemkowskiej mniejszości narodowej.
 
 **Przebieg:**
@@ -3029,6 +3093,8 @@ Członkowie WZZ byli stale inwigilowani, zatrzymywani, zwalniani z pracy. Anna W
     yearStart: 1947,
     yearEnd: 2000,
     summary: 'Miesięcznik "Kultura" wydawany przez Jerzego Giedroycia w Paryżu od 1947 roku – najważniejsze polskie pismo emigracyjne, które przez dekady kształtowało myśl polityczną opozycji i intelektualistów w kraju. Instytut Literacki w Maisons-Laffitte był centrum polskiej niezależnej myśli przez całą epokę PRL.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gustaw_Herling-Grudzinski_3.jpg?width=800',
+    imageCaption: 'Kultura Paryska',
     content: `"Kultura" – miesięcznik założony przez Jerzego Giedroycia w Rzymie w 1947 roku, a od 1948 roku wydawany w podparyskim Maisons-Laffitte przez Instytut Literacki. Przez ponad pół wieku (do śmierci Giedroycia w 2000 roku) było to najważniejsze polskie pismo poza krajem.
 
 **Jerzy Giedroyc (1906–2000):**
@@ -3088,6 +3154,8 @@ Instytut Literacki wydał setki książek – autorów zakazanych w PRL, dokumen
     yearStart: 1955,
     yearEnd: 1991,
     summary: 'Układ o Przyjaźni, Współpracy i Pomocy Wzajemnej – sojusz militarny krajów bloku wschodniego pod przywództwem ZSRR, podpisany 14 maja 1955 roku w Warszawie. Polska była jego członkiem przez cały czas istnienia, uczestnicząc m.in. w interwencji zbrojnej w Czechosłowacji w 1968 roku.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Warsaw_Pact_Logo.svg?width=800',
+    imageCaption: 'Układ Warszawski',
     content: `## Powstanie
 Układ Warszawski to sojusz wojskowy państw bloku wschodniego, zawarty w 1955 roku w Warszawie jako odpowiedź na utworzenie NATO i remilitaryzację RFN.
 
@@ -4408,6 +4476,8 @@ Kapuściński był wielokrotnie wymieniany jako kandydat do Nagrody Nobla. Stwor
     tags: ['KPN', 'Moczulski', 'niepodległość', 'opozycja', 'więzienie', '1979'],
     yearStart: 1979,
     summary: 'Konfederacja Polski Niepodległej (KPN) – organizacja polityczna założona 1 września 1979 roku przez Leszka Moczulskiego. Była pierwszą jawnie działającą partią polityczną dążącą do pełnej niepodległości Polski i zerwania z ZSRR. Jej działacze byli wielokrotnie skazywani na długoletnie wyroki więzienia.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Rewolucja_bez_rewolucji.jpg?width=800',
+    imageCaption: 'Konfederacja Polski Niepodległej',
     content: `Konfederacja Polski Niepodległej powstała 1 września 1979 roku – w 40. rocznicę wybuchu II wojny światowej. Jej założycielem i liderem był Leszek Moczulski, dziennikarz i historyk.
 
 **Program:**
@@ -4796,6 +4866,8 @@ Geremek łączył w sobie rzadką kombinację: wybitny uczony i skuteczny polity
     yearStart: 1942,
     yearEnd: 1948,
     summary: 'Polska Partia Robotnicza (PPR) – komunistyczna partia polityczna działająca w Polsce w latach 1942–1948. Założona z inicjatywy Moskwy, z pomocą Kominternu. Pod przywództwem Władysława Gomułki i Bolesława Bieruta przejęła władzę w Polsce po 1944 roku. W 1948 roku połączyła się z PPS, tworząc PZPR.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Polish_Workers%27_Party_logo.svg?width=800',
+    imageCaption: 'Polska Partia Robotnicza',
     content: `Polska Partia Robotnicza założona została 5 stycznia 1942 roku w Warszawie przez grupę komunistów przybyłych z ZSRR (tzw. inicjatywna grupa). Jej pierwszym sekretarzem był Marceli Nowotko, po jego zamordowaniu – Paweł Finder, a następnie Władysław Gomułka.
 
 **Geneza i Komintern:**
@@ -5958,6 +6030,8 @@ W 1990 r., po urynkowieniu i otwarciu granic, Pewex stracił rację bytu. Sklepy
     yearStart: 1939,
     yearEnd: 1989,
     summary: 'Kresy Wschodnie – wschodnie tereny II Rzeczypospolitej z Lwowem, Wilnem, Grodnem i Pińskiem – zostały utracone na rzecz ZSRR na podstawie ustaleń jałtańskich. Miliony Polaków wysiedlonych stamtąd na zawsze zachowały pamięć o utraconej ojczyźnie.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Borders_of_Polish_states_and_Polish%E2%80%93Lithuanian_Commonwealth_%28union_state_of_the_Crown_of_the_Kingdom_of_Poland_and_Grand_Duchy_of_Lithuania%29.png?width=800',
+    imageCaption: 'Kresy Wschodnie – utracona ojczyzna',
     content: `## Czym były Kresy
 
 Kresy Wschodnie to rozległe tereny wschodnie II RP: Wileńszczyzna, Nowogródczyzna, Polesie, Wołyń, Małopolska Wschodnia (z Lwowem). Zamieszkiwała je niezwykle różnorodna mozaika narodowościowa: Polacy, Ukraińcy, Białorusini, Litwini, Żydzi, Rusini. Lwów – "miasto siedmiu kultur" – był centrum kulturalnym i naukowym.
@@ -6136,6 +6210,8 @@ Kwestia odszkodowań dla potomków wywłaszczonych właścicieli ziemskich pozos
     yearStart: 1944,
     yearEnd: 1994,
     summary: 'Polska Kronika Filmowa (PKF) przez 50 lat była wyświetlana w kinach przed każdym filmem. Oficjalnie – narzędzie propagandy PZPR. W rzeczywistości – nieocenione archiwum wizualne Polski XX w., dokumentujące zarówno sukcesy systemu, jak i codzienne życie Polaków.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Sergiusz_Sprudin_-_Polska_Kronika_Filmowa_-_Film_nr_12_-_1947-02-15.JPG?width=800',
+    imageCaption: 'Polska Kronika Filmowa',
     content: `## Narodziny PKF
 
 Polska Kronika Filmowa powstała w 1944 r. w Lublinie, natychmiast po wkroczeniu Armii Czerwonej. Wzorowana na sowieckich kronikach, miała dostarczać propagandowych obrazów "odbudowy i budowy socjalizmu". Przed erą telewizji była jedynym ruchomym obrazem aktualnych wydarzeń dla milionów Polaków odwiedzających kino.
@@ -6246,6 +6322,8 @@ PKF przeżyła PRL – nadawano ją do 1994 r., zmieniając stopniowo profil. Ar
     yearStart: 1949,
     yearEnd: 1989,
     summary: 'Wytwórnia Filmów Dokumentalnych (od 1989 WFDiF) przy ul. Chełmskiej w Warszawie była głównym producentem Polskiej Kroniki Filmowej, filmów dokumentalnych i oświatowych w PRL. To tutaj powstawały tysiące materiałów dokumentujących epokę – od propagandy po wybitne dzieła dokumentalistyki.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wytw%C3%B3rnia_Film%C3%B3w_Dokumentalnych_i_Fabularnych_w_Warszawie_2020.jpg?width=800',
+    imageCaption: 'Wytwórnia Filmów Dokumentalnych i Fabularnych',
     content: `## Powstanie wytwórni
 
 Wytwórnia Filmów Dokumentalnych powstała w 1949 r. w Warszawie przy ul. Chełmskiej 21, w ramach upaństwowionej i scentralizowanej kinematografii. Stała się głównym ośrodkiem produkcji filmu dokumentalnego, oświatowego i – przede wszystkim – Polskiej Kroniki Filmowej, wyświetlanej co tydzień w kinach całego kraju.
@@ -7336,6 +7414,8 @@ Po wojnie Anders i żołnierze II Korpusu nie wrócili do Polski, którą rządz
     yearStart: 1939,
     yearEnd: 1990,
     summary: 'Rząd RP na uchodźstwie działał nieprzerwanie w Londynie od 1939 do 1990 r. – kiedy to przekazał insygnia prezydentowi Lechowi Wałęsie. Przez 45 lat był legalną reprezentacją Polski na Zachodzie, nieuznającą władzy PRL.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/W%C5%82adys%C5%82aw_Raczkiewicz_1.jpg?width=800',
+    imageCaption: 'Rząd RP na uchodźstwie',
     content: `## Geneza – wrzesień 1939
 
 Po klęsce kampanii wrześniowej prezydent Ignacy Mościcki przekazał urząd Władysławowi Raczkiewiczowi (zgodnie z konstytucją kwietniową). Rząd ewakuował się przez Rumunię do Francji, a po jej upadku – do Londynu. Od 1940 r. to właśnie Londyn był siedzibą legalnych władz RP.
@@ -7395,6 +7475,8 @@ Rząd emigracyjny działał nieprzerwanie przez 45 lat. Kolejni prezydenci: Racz
     yearStart: 1945,
     yearEnd: 1989,
     summary: '"Tygodnik Powszechny" – krakowskie pismo katolickie Jerzego Turowicza (1945–1989) – był najbardziej prestiżowym periodykiem katolickim w całym bloku wschodnim i jedynym miejscem, gdzie w PRL można było czytać niezależną myśl religijną i kulturalną.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/TP_logo_male.png?width=800',
+    imageCaption: 'Tygodnik Powszechny',
     content: `## Powstanie i redakcja
 
 "Tygodnik Powszechny" założono w Krakowie w 1945 r. Redaktorem naczelnym przez niemal całe powojenne czterdziestolecie był Jerzy Turowicz (1912–1999) – wybitny intelektualista i człowiek dialogu. Wokół pisma skupiło się środowisko krakowskiej inteligencji katolickiej: Stanisław Stomma, Kisiel (Stefan Kisielewski), Hanna Malewska, Karol Wojtyła (późniejszy Jan Paweł II).
@@ -8521,6 +8603,14 @@ Telewizja PRL odcisnęła trwały ślad w kulturze polskiej. Seriale, dziecięce
         source: 'YouTube',
         description: 'Historyczne nagrania i programy telewizyjne z epoki PRL',
       },
+      {
+        id: 'telewizja-prl-wiki2',
+        title: 'Telewizja w PRL – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Telewizja%20w%20PRL&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
+      },
     ],
     relatedIds: ['radio-prl', 'propaganda-prl', 'polska-kronika-filmowa', 'cenzura-prl', 'stan-wojenny'],
   },
@@ -8667,6 +8757,8 @@ Hermaszewski jest jedynym Polakiem w kosmosie – Polska od lat nie uczestniczy�
     yearStart: 1939,
     yearEnd: 2004,
     summary: 'Czesław Niemen (1939–2004) – jeden z największych polskich muzyków wszech czasów. Zaczynał od bigbitu, tworzył przeboje ("Dziwny jest ten świat"), sięgał po psychodelię, jazz-rock i muzykę elektroniczną. Artysta niepokory i oryginalności, porównywany na Zachodzie z największymi gwiazdami.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Czes%C5%82aw_Niemen.png?width=800',
+    imageCaption: 'Czesław Niemen',
     trivia: ['„Dziwny jest ten świat” zdobył Grand Prix festiwalu w Opolu w 1967 roku.'],
     content: `Czesław Niemen (właśc. Czesław Juliusz Wydrzycki, 1939–2004) – piosenkarz, kompozytor, multiinstrumentalista i aranżer, jeden z symboli polskiej muzyki popularnej i rockowej.
 
@@ -11213,6 +11305,8 @@ Postać Religi stała się symbolem polskiej nauki przełamującej ograniczenia 
     yearStart: 1947,
     yearEnd: 1949,
     summary: '„Bitwa o handel”, ogłoszona przez Hilarego Minca w 1947 r., była kampanią likwidacji prywatnego handlu i rzemiosła. Poprzez domiary, kontrole i represje fiskalne państwo zniszczyło prywatną przedsiębiorczość, wprowadzając gospodarkę uspołecznioną.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/PDT_Wola_z_lotu_ptaka_ok._1971.jpg?width=800',
+    imageCaption: 'Bitwa o handel',
     content: `## Zapowiedź ofensywy
 
 W 1947 r. Hilary Minc, główny architekt gospodarki stalinowskiej w Polsce, ogłosił „bitwę o handel”. Był to program ofensywy przeciw prywatnemu handlowi i rzemiosłu, które po wojnie odbudowały się i zaopatrywały ludność lepiej niż sektor państwowy.
@@ -11377,6 +11471,14 @@ Najlepiej wpisywać konkretne hasła: nazwę wydarzenia („Grudzień 1970”), 
         source: 'YouTube',
         description: 'Opracowania historyków o roli kronik filmowych.',
       },
+      {
+        id: 'kroniki-archiwa-filmowe-wiki2',
+        title: 'Gdzie szukać kronik i archiwów filmowych PRL – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Gdzie%20szuka%C4%87%20kronik%20i%20archiw%C3%B3w%20filmowych%20PRL&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
+      },
     ],
     relatedIds: ['polska-kronika-filmowa', 'wfdif', 'film-dokumentalny-prl', 'kronika-wydarzenia-prl', 'telewizja-prl'],
   },
@@ -11388,6 +11490,8 @@ Najlepiej wpisywać konkretne hasła: nazwę wydarzenia („Grudzień 1970”), 
     tags: ['FINA', 'Filmoteka Narodowa', 'NInA', 'archiwum', 'digitalizacja', 'film', 'dziedzictwo'],
     yearStart: 1955,
     summary: 'Filmoteka Narodowa, dziś działająca jako FINA, od 1955 r. gromadzi, konserwuje i udostępnia polskie dziedzictwo filmowe. To dzięki niej zachowały się i są digitalizowane kroniki, dokumenty oraz fabuły z czasów PRL.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/LOGO_FINA.png?width=800',
+    imageCaption: 'Filmoteka Narodowa – Instytut Audiowizualny',
     content: `## Powstanie Filmoteki
 
 Centralne Archiwum Filmowe, przekształcone później w Filmotekę Narodową, powstało w 1955 r. Jego zadaniem było gromadzenie i ochrona kopii filmów produkowanych w Polsce oraz materiałów archiwalnych, w tym Polskiej Kroniki Filmowej.
@@ -11431,6 +11535,14 @@ FINA jest kluczową instytucją pamięci filmowej Polski. Bez jej pracy ogromna 
         url: 'https://www.youtube.com/results?search_query=dokument+PRL',
         source: 'YouTube',
         description: 'Filmy i nagrania udostępniane przez FINA.',
+      },
+      {
+        id: 'fina-filmoteka-wiki2',
+        title: 'Filmoteka Narodowa – Instytut Audiowizualny – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Filmoteka_Narodowa_%E2%80%93_Instytut_Audiowizualny',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['polska-kronika-filmowa', 'wfdif', 'kroniki-archiwa-filmowe', 'film-dokumentalny-prl'],
@@ -11508,6 +11620,8 @@ Nagrania opolskie to dziś bezcenna fonoteka i wideoteka polskiej piosenki. Fest
     yearStart: 1958,
     yearEnd: 1966,
     summary: 'Kabaret Starszych Panów Jeremiego Przybory i Jerzego Wasowskiego był telewizyjnym fenomenem przełomu lat 50. i 60. – wyspą wyrafinowanego humoru, poezji i muzyki, kontrastującą z szarością i propagandą PRL.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Starsi_Panowie_dwaj.jpg?width=800',
+    imageCaption: 'Kabaret Starszych Panów',
     content: `## Telewizyjny fenomen
 
 Kabaret Starszych Panów emitowano w Telewizji Polskiej w latach 1958–1966. Stworzony przez Jeremiego Przyborę (teksty) i Jerzego Wasowskiego (muzyka), był programem na wskroś oryginalnym – eleganckim, lirycznym i absurdalnym zarazem.
@@ -11782,6 +11896,14 @@ Polski rock lat 80. był nie tylko zjawiskiem muzycznym, ale i społecznym – f
         source: 'YouTube',
         description: 'Archiwalne nagrania muzyczne.',
       },
+      {
+        id: 'rock-lat-80-wiki2',
+        title: 'Polski rock lat 80. – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Polski%20rock%20lat%2080.&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
+      },
     ],
     relatedIds: ['jarocin-festiwal', 'muzyka-rockowa-prl', 'republika-zespol', 'perfect-zespol'],
   },
@@ -11794,6 +11916,8 @@ Polski rock lat 80. był nie tylko zjawiskiem muzycznym, ale i społecznym – f
     yearStart: 1981,
     yearEnd: 1989,
     summary: 'Jeden z najważniejszych zespołów nowej fali w Polsce, kierowany przez Grzegorza Ciechowskiego, twórcę przebojów „Kombinat” i „Biała flaga”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bialo-czarna.png?width=800',
+    imageCaption: 'Republika',
     content: `## Powstanie
 Republika powstała w 1981 roku w Toruniu z inicjatywy Grzegorza Ciechowskiego. Zespół szybko wypracował charakterystyczne, czarno-białe brzmienie i wizerunek, łączące nową falę z elektroniką i intelektualnymi tekstami.
 
@@ -11841,6 +11965,14 @@ Republika pozostaje symbolem ambitnego, artystycznego rocka lat 80., a Grzegorz 
         source: 'FilmPolski.pl',
         description: 'Informacje o twórczości artysty.',
       },
+      {
+        id: 'republika-zespol-wiki2',
+        title: 'Republika – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Republika_(zesp%C3%B3%C5%82_muzyczny)',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
     ],
     relatedIds: ['rock-lat-80', 'muzyka-rockowa-prl', 'jarocin-festiwal'],
   },
@@ -11853,6 +11985,8 @@ Republika pozostaje symbolem ambitnego, artystycznego rocka lat 80., a Grzegorz 
     yearStart: 1980,
     yearEnd: 1989,
     summary: 'Kultowy zespół rockowy z charyzmatyczną wokalistką Korą, autor przebojów „Boskie Buenos” i „Kocham cię kochanie moje”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Maanam_-_Kora.jpg?width=800',
+    imageCaption: 'Maanam',
     trivia: ['Po odmowie udziału w propagandowym koncercie w 1984 roku Maanam objęto nieformalnym bojkotem w mediach.'],
     content: `## Powstanie
 Maanam powstał w Krakowie na przełomie lat 70. i 80. Kluczowymi postaciami byli Kora (Olga Jackowska) jako wokalistka oraz Marek Jackowski jako gitarzysta i kompozytor.
@@ -11900,6 +12034,14 @@ Maanam to jeden z najważniejszych zespołów polskiego rocka, a Kora stała si�
         url: 'https://filmpolski.pl/fp/index.php?szukaj=Kora%20Jackowska',
         source: 'FilmPolski.pl',
         description: 'Informacje o artystce.',
+      },
+      {
+        id: 'maanam-zespol-wiki2',
+        title: 'Maanam – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Maanam',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['rock-lat-80', 'muzyka-rockowa-prl', 'kobiety-prl'],
@@ -12031,6 +12173,8 @@ Scena punkowa, najsilniej obecna w Jarocinie, pozostaje symbolem najbardziej rad
     yearStart: 1982,
     yearEnd: 1989,
     summary: 'Kultowe radiowe notowanie muzyczne prowadzone przez Marka Niedźwieckiego, które od 1982 roku kształtowało muzyczne gusta Polaków.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Marek_Niedzwiecki_2010_big_RK.jpg?width=800',
+    imageCaption: 'Lista Przebojów Programu Trzeciego',
     content: `## Geneza
 Lista Przebojów Programu Trzeciego Polskiego Radia („Trójki”) wystartowała w 1982 roku. Słuchacze głosowali na ulubione utwory, tworząc cotygodniowy ranking najpopularniejszych piosenek.
 
@@ -12070,6 +12214,14 @@ Lista Przebojów Trójki przetrwała przemiany ustrojowe i przez dekady pozostaw
         source: 'YouTube',
         description: 'Artykuły o roli radia.',
       },
+      {
+        id: 'lista-przebojow-trojki-wiki2',
+        title: 'Lista Przebojów Programu Trzeciego – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Lista_przeboj%C3%B3w_Programu_Trzeciego',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
     ],
     relatedIds: ['rock-lat-80', 'muzyka-rockowa-prl', 'radio-prl'],
   },
@@ -12082,6 +12234,8 @@ Lista Przebojów Trójki przetrwała przemiany ustrojowe i przez dekady pozostaw
     yearStart: 1980,
     yearEnd: 1989,
     summary: 'Jeden z najpopularniejszych zespołów rockowych lat 80., kierowany przez Zbigniewa Hołdysa, autor przebojów „Nie płacz Ewka” i „Autobiografia”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Perfect19112010.JPG?width=800',
+    imageCaption: 'Perfect',
     trivia: ['Publiczność śpiewała „Chcemy być sobą” jako „chcemy bić ZOMO”, co niepokoiło władze.'],
     content: `## Powstanie
 Perfect w klasycznym składzie ukształtował się w 1980 roku w Warszawie. Liderem zespołu był Zbigniew Hołdys, a wokalistą Grzegorz Markowski.
@@ -12129,6 +12283,14 @@ Perfect to jeden z filarów polskiego rocka, a jego przeboje pozostają klasyką
         url: 'https://www.youtube.com/results?search_query=rock+muzyka+lata+osiemdziesi%C4%85te',
         source: 'YouTube',
         description: 'Artykuły o scenie rockowej.',
+      },
+      {
+        id: 'perfect-zespol-wiki2',
+        title: 'Perfect – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Perfect_(zesp%C3%B3%C5%82_muzyczny)',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['rock-lat-80', 'muzyka-rockowa-prl', 'stan-wojenny'],
@@ -12249,6 +12411,14 @@ Big-beat położył fundamenty pod rozwój polskiego rocka, a wiele zespołów t
         source: 'YouTube',
         description: 'Artykuły o kulturze młodzieżowej lat 60.',
       },
+      {
+        id: 'big-beat-prl-wiki2',
+        title: 'Big-beat – polski rock lat 60. – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Big-beat%20%E2%80%93%20polski%20rock%20lat%2060.&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
+      },
     ],
     relatedIds: ['muzyka-rockowa-prl', 'festiwal-opole', 'sopot-festiwal', 'niemen-czeslaw'],
   },
@@ -12261,6 +12431,8 @@ Big-beat położył fundamenty pod rozwój polskiego rocka, a wiele zespołów t
     yearStart: 1965,
     yearEnd: 1989,
     summary: 'Jeden z najpopularniejszych zespołów big-beatowych, nazywany „polskimi Beatlesami”, autor przebojów „Anna Maria” i „Nie spoczniemy”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Czerwone_Gitary%2C_Polska_Filharmonia_Ba%C5%82tycka%2C_20.03.2023_034.jpg?width=800',
+    imageCaption: 'Czerwone Gitary',
     content: `## Powstanie
 Czerwone Gitary powstały w 1965 roku w Gdańsku. Zespół czerpał z brzmienia The Beatles i The Shadows, łącząc je z melodyjnymi, polskimi tekstami.
 
@@ -12308,6 +12480,14 @@ Zespół to symbol melodyjnego big-beatu lat 60. i 70., a jego piosenki na trwa�
         source: 'YouTube',
         description: 'Artykuły o muzyce młodzieżowej.',
       },
+      {
+        id: 'czerwone-gitary-wiki2',
+        title: 'Czerwone Gitary – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Czerwone_Gitary',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
     ],
     relatedIds: ['big-beat-prl', 'festiwal-opole', 'muzyka-rockowa-prl'],
   },
@@ -12320,6 +12500,8 @@ Zespół to symbol melodyjnego big-beatu lat 60. i 70., a jego piosenki na trwa�
     yearStart: 1961,
     yearEnd: 1989,
     summary: 'Międzynarodowy Festiwal Piosenki w Sopocie, organizowany od 1961 roku, był najważniejszą estradową imprezą PRL z udziałem gwiazd z Zachodu i bloku wschodniego.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Top_of_the_Top_Sopot_Festival_2024.png?width=800',
+    imageCaption: 'Festiwal w Sopocie',
     content: `## Geneza
 Międzynarodowy Festiwal Piosenki w Sopocie zainaugurowano w 1961 roku z inicjatywy Władysława Szpilmana. Początkowo odbywał się w hali Stoczni Gdańskiej, później w sopockiej Operze Leśnej.
 
@@ -12359,6 +12541,14 @@ Festiwal w Sopocie, obok Opola, współtworzył pejzaż polskiej estrady i był 
         source: 'YouTube',
         description: 'Artykuły o kulturze estradowej.',
       },
+      {
+        id: 'sopot-festiwal-wiki2',
+        title: 'Festiwal w Sopocie – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Sopot_Festival',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
     ],
     relatedIds: ['festiwal-opole', 'anna-german', 'niemen-czeslaw', 'kultura-prl'],
   },
@@ -12371,6 +12561,8 @@ Festiwal w Sopocie, obok Opola, współtworzył pejzaż polskiej estrady i był 
     yearStart: 1968,
     yearEnd: 1989,
     summary: 'Jedna z najpopularniejszych polskich piosenkarek, autorka przebojów „Małgośka”, „Sing-Sing” i „Niech żyje bal”, gwiazda estrady od przełomu lat 60. i 70.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Maryla_Rodowicz%2C_Polsat_Superhit_Festival_2023_10_%28cropped%29.jpg?width=800',
+    imageCaption: 'Maryla Rodowicz',
     trivia: ['Słynęła z barwnych, niekonwencjonalnych strojów scenicznych.'],
     content: `## Początki
 Maryla Rodowicz zadebiutowała pod koniec lat 60., zdobywając nagrody na festiwalach w Opolu. Jej żywiołowy temperament i ludowo-folkowe brzmienie wyróżniały ją na tle estrady.
@@ -12427,6 +12619,14 @@ Maryla Rodowicz to jedna z najtrwalszych postaci polskiej sceny muzycznej, któr
         source: 'Ninateka',
         description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
       },
+      {
+        id: 'maryla-rodowicz-wiki2',
+        title: 'Maryla Rodowicz – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Maryla_Rodowicz',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
     ],
     relatedIds: ['festiwal-opole', 'sopot-festiwal', 'kultura-prl', 'kobiety-prl'],
   },
@@ -12439,6 +12639,8 @@ Maryla Rodowicz to jedna z najtrwalszych postaci polskiej sceny muzycznej, któr
     yearStart: 1979,
     yearEnd: 1989,
     summary: 'Czołowy polski zespół blues-rockowy z charyzmatycznym wokalistą Ryszardem Riedlem, autor przebojów „Whisky” i „List do M.”',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/D%C5%BCem%2C_Opera_Le%C5%9Bna%2C_30.08.2024_22.jpg?width=800',
+    imageCaption: 'Dżem',
     content: `## Powstanie
 Dżem powstał w 1973 roku w Tychach, a klasyczny skład ukształtował się na przełomie lat 70. i 80. Zespół grał bluesa i rocka z głębokim, emocjonalnym przekazem.
 
@@ -12486,6 +12688,14 @@ Dżem to jeden z filarów polskiego blues-rocka, a Ryszard Riedel pozostaje kult
         source: 'YouTube',
         description: 'Artykuły o scenie bluesowej.',
       },
+      {
+        id: 'dzem-zespol-wiki2',
+        title: 'Dżem – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/D%C5%BCem_(zesp%C3%B3%C5%82_muzyczny)',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
     ],
     relatedIds: ['rock-lat-80', 'jarocin-festiwal', 'muzyka-rockowa-prl'],
   },
@@ -12498,6 +12708,8 @@ Dżem to jeden z filarów polskiego blues-rocka, a Ryszard Riedel pozostaje kult
     yearStart: 1979,
     yearEnd: 1989,
     summary: 'Pionierski polski zespół hardrockowy i heavymetalowy z lat 80., z wokalistą Markiem Piekarczykiem, autor przeboju „Mass media”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/TSA_%282008%29.jpg?width=800',
+    imageCaption: 'TSA',
     content: `## Powstanie
 TSA powstała w 1979 roku w Opolu. Zespół wprowadził na polską scenę ciężkie, hardrockowe i heavymetalowe brzmienie, którego wcześniej brakowało.
 
@@ -12545,6 +12757,14 @@ TSA to pionier polskiego heavy metalu, który otworzył drogę kolejnym zespoło
         source: 'YouTube',
         description: 'Artykuły o cięższej scenie rockowej.',
       },
+      {
+        id: 'tsa-zespol-wiki2',
+        title: 'TSA – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/TSA_(zesp%C3%B3%C5%82_muzyczny)',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
     ],
     relatedIds: ['rock-lat-80', 'jarocin-festiwal', 'muzyka-rockowa-prl'],
   },
@@ -12557,6 +12777,8 @@ TSA to pionier polskiego heavy metalu, który otworzył drogę kolejnym zespoło
     yearStart: 1982,
     yearEnd: 1989,
     summary: 'Jeden z najpopularniejszych zespołów pop-rockowych lat 80., duet Jan Borysewicz–Janusz Panasewicz, autor przebojów „Kryzysowa narzeczona” i „Mniej niż zero”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Lady_Pank_2007.jpg?width=800',
+    imageCaption: 'Lady Pank',
     content: `## Powstanie
 Lady Pank powstał w 1982 roku w Warszawie. Filarami zespołu byli gitarzysta i kompozytor Jan Borysewicz oraz wokalista Janusz Panasewicz. Teksty pisał m.in. Andrzej Mogielnicki.
 
@@ -12604,6 +12826,14 @@ Lady Pank to symbol komercyjnego sukcesu polskiego rocka lat 80., a jego przeboj
         source: 'YouTube',
         description: 'Artykuły o scenie rockowej.',
       },
+      {
+        id: 'lady-pank-wiki2',
+        title: 'Lady Pank – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Lady_Pank',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
     ],
     relatedIds: ['rock-lat-80', 'lista-przebojow-trojki', 'muzyka-rockowa-prl'],
   },
@@ -12616,6 +12846,8 @@ Lady Pank to symbol komercyjnego sukcesu polskiego rocka lat 80., a jego przeboj
     yearStart: 1974,
     yearEnd: 1989,
     summary: 'Jeden z najdłużej działających polskich zespołów rockowych, założony przez Romualda Lipko, znany z utworów „Jolka, Jolka” i „Cień wielkiej góry”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Budka_Suflera_02.jpg?width=800',
+    imageCaption: 'Budka Suflera',
     content: `## Powstanie
 Budka Suflera powstała w 1974 roku w Lublinie z inicjatywy Romualda Lipko i Krzysztofa Cugowskiego. Debiutancki singiel „Cień wielkiej góry” od razu zwrócił uwagę słuchaczy.
 
@@ -12663,6 +12895,14 @@ Grupa to jeden z filarów polskiej muzyki rockowej, łączący ambitne brzmienie
         source: 'YouTube',
         description: 'Artykuły o muzyce rockowej.',
       },
+      {
+        id: 'budka-suflera-wiki2',
+        title: 'Budka Suflera – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Budka_Suflera',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
     ],
     relatedIds: ['rock-lat-80', 'muzyka-rockowa-prl', 'festiwal-opole'],
   },
@@ -12675,6 +12915,8 @@ Grupa to jeden z filarów polskiej muzyki rockowej, łączący ambitne brzmienie
     yearStart: 1968,
     yearEnd: 1982,
     summary: 'Pionierski polski zespół blues-rockowy założony przez Tadeusza Nalepę, „ojca polskiego bluesa”, autor albumów „Blues” i „Karate”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tadeusz_Nalepa_i_Mira_Kubasi%C5%84ska_z_synem_%28ok._1968%29.png?width=800',
+    imageCaption: 'Breakout',
     content: `## Powstanie
 Breakout powstał w 1968 roku, wyrastając z zespołu Blackout. Liderem i głównym kompozytorem był Tadeusz Nalepa, nazywany później „ojcem polskiego bluesa”.
 
@@ -12721,6 +12963,14 @@ Breakout i Tadeusz Nalepa położyli fundamenty pod rozwój polskiego blues-rock
         url: 'https://www.youtube.com/results?search_query=blues+rock+muzyka+lata+siedemdziesi%C4%85te',
         source: 'YouTube',
         description: 'Artykuły o polskim bluesie.',
+      },
+      {
+        id: 'breakout-zespol-wiki2',
+        title: 'Breakout – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Breakout_(zesp%C3%B3%C5%82_muzyczny)',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['dzem-zespol', 'muzyka-rockowa-prl', 'big-beat-prl'],
@@ -12840,6 +13090,14 @@ Wyczyny okupione były tragediami – w górach zginęło wielu wybitnych wspina
         source: 'YouTube',
         description: 'Materiały filmowe o wspinaczce.',
       },
+      {
+        id: 'himalaizm-polski-wiki2',
+        title: 'Złota dekada polskiego himalaizmu – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Z%C5%82ota%20dekada%20polskiego%20himalaizmu&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
+      },
     ],
     relatedIds: ['jerzy-kukuczka', 'wanda-rutkiewicz', 'sport-prl'],
   },
@@ -12852,6 +13110,8 @@ Wyczyny okupione były tragediami – w górach zginęło wielu wybitnych wspina
     yearStart: 1979,
     yearEnd: 1989,
     summary: 'Drugi człowiek na świecie, który zdobył wszystkie 14 ośmiotysięczników, dokonując tego w rekordowym tempie i często nowymi drogami lub zimą.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jerzy_Kukuczka_Mount_Everest_1980.jpg?width=800',
+    imageCaption: 'Jerzy Kukuczka',
     content: `## Sylwetka
 Jerzy Kukuczka (1948–1989), pochodzący z Katowic, był jednym z najwybitniejszych himalaistów w historii. Jako drugi człowiek na świecie – po Reinholdzie Messnerze – zdobył wszystkie 14 ośmiotysięczników.
 
@@ -12891,6 +13151,14 @@ Kukuczka pozostaje legendą i symbolem polskiego wyczynu górskiego, a jego imi�
         source: 'YouTube',
         description: 'Materiały filmowe.',
       },
+      {
+        id: 'jerzy-kukuczka-wiki2',
+        title: 'Jerzy Kukuczka – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Jerzy_Kukuczka',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
     ],
     relatedIds: ['himalaizm-polski', 'wanda-rutkiewicz', 'sport-prl'],
   },
@@ -12903,6 +13171,8 @@ Kukuczka pozostaje legendą i symbolem polskiego wyczynu górskiego, a jego imi�
     yearStart: 1978,
     yearEnd: 1989,
     summary: 'Najwybitniejsza polska himalaistka, pierwsza Polka i trzecia kobieta na świecie na szczycie Mount Everest oraz pierwsza kobieta na K2.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wanda_Rutkiewicz_IPN.jpg?width=800',
+    imageCaption: 'Wanda Rutkiewicz',
     content: `## Sylwetka
 Wanda Rutkiewicz (1943–1992) była najwybitniejszą polską himalaistką i jedną z najlepszych na świecie. Łączyła determinację, talent organizacyjny i niezłomność w dążeniu do celu.
 
@@ -12941,6 +13211,14 @@ Wanda Rutkiewicz to ikona himalaizmu i symbol kobiecej siły oraz niezależnośc
         url: 'https://www.youtube.com/results?search_query=Rutkiewicz+himalaizm',
         source: 'YouTube',
         description: 'Materiały filmowe.',
+      },
+      {
+        id: 'wanda-rutkiewicz-wiki2',
+        title: 'Wanda Rutkiewicz – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Wanda_Rutkiewicz',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['himalaizm-polski', 'jerzy-kukuczka', 'kobiety-prl', 'sport-prl'],
@@ -12994,6 +13272,14 @@ Sukcesy z lat 70. były źródłem ogromnej dumy narodowej i pozostają punktem 
         source: 'YouTube',
         description: 'Materiały filmowe o sporcie.',
       },
+      {
+        id: 'mundial-1974-wiki2',
+        title: 'Polski futbol: Górski i 1974 – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Polski%20futbol%3A%20G%C3%B3rski%20i%201974&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
+      },
     ],
     relatedIds: ['sport-prl', 'wyscig-pokoju'],
   },
@@ -13006,6 +13292,8 @@ Sukcesy z lat 70. były źródłem ogromnej dumy narodowej i pozostają punktem 
     yearStart: 1964,
     yearEnd: 1980,
     summary: 'Jedna z najwybitniejszych lekkoatletek w historii, zdobywczyni siedmiu medali olimpijskich i rekordzistka świata na wielu dystansach.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Poolse_wereldrecordhoudster_Irena_Szewinska_met_landgenoot_Buciarski%2C_Bestanddeelnr_928-0515_%28Szewinska_cropped%29.jpg?width=800',
+    imageCaption: 'Irena Szewińska',
     content: `## Sylwetka
 Irena Szewińska (1946–2018), z domu Kirszenstein, była jedną z najwybitniejszych lekkoatletek wszech czasów i najbardziej utytułowaną polską olimpijką.
 
@@ -13045,6 +13333,14 @@ Po zakończeniu kariery działała w międzynarodowych organizacjach sportowych.
         source: 'YouTube',
         description: 'Materiały filmowe o sporcie.',
       },
+      {
+        id: 'irena-szewinska-wiki2',
+        title: 'Irena Szewińska – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Irena_Szewi%C5%84ska',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
     ],
     relatedIds: ['sport-prl', 'kobiety-prl'],
   },
@@ -13057,6 +13353,8 @@ Po zakończeniu kariery działała w międzynarodowych organizacjach sportowych.
     yearStart: 1967,
     yearEnd: 1968,
     summary: 'Kultowy serial szpiegowski o polskim agencie Hansie Klossie działającym w niemieckim wywiadzie, jeden z najpopularniejszych w historii polskiej telewizji.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Katowice%2C_Muzeum_Hansa_Klossa_-_fotopolska.eu_%2815969%29.jpg?width=800',
+    imageCaption: 'Stawka większa niż życie',
     content: `## Fabuła
 Serial opowiada o Stanisławie Kolickim, polskim agencie działającym pod przybraną tożsamością niemieckiego oficera Abwehry Hansa Klossa w czasie II wojny światowej. Każdy odcinek to osobna intryga szpiegowska.
 
@@ -13095,6 +13393,14 @@ Serial wpisywał się w oficjalny nurt utrwalania pamięci o wojnie i bohaterstw
         url: 'https://www.youtube.com/results?search_query=Stawka+wi%C4%99ksza+ni%C5%BC+%C5%BCycie',
         source: 'YouTube',
         description: 'Materiały telewizyjne.',
+      },
+      {
+        id: 'stawka-wieksza-niz-zycie-wiki2',
+        title: 'Stawka większa niż życie – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Stawka_wi%C4%99ksza_ni%C5%BC_%C5%BCycie',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['seriale-prl', 'telewizja-prl', 'czterej-pancerni'],
@@ -13313,6 +13619,8 @@ Kwestia alkoholu ilustruje społeczne skutki gospodarki niedoboru i bezradność
     yearStart: 1958,
     yearEnd: 1989,
     summary: 'Jeden z najwybitniejszych kompozytorów XX wieku, twórca „Trenu – Ofiarom Hiroszimy” i „Pasji wg św. Łukasza”, który zdobył światową sławę mimo realiów PRL.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krzysztof_Penderecki_20080706.jpg?width=800',
+    imageCaption: 'Krzysztof Penderecki',
     content: `## Sylwetka
 Krzysztof Penderecki (1933–2020) był kompozytorem i dyrygentem, jednym z najważniejszych twórców muzyki współczesnej. Jego dzieła wykonywano na całym świecie, a on sam stał się ambasadorem polskiej kultury.
 
@@ -13368,6 +13676,14 @@ Pozostaje jednym z symboli polskiej kultury wysokiej, dowodem, że mimo żelazne
         source: 'Ninateka',
         description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
       },
+      {
+        id: 'penderecki-wiki2',
+        title: 'Krzysztof Penderecki – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Krzysztof_Penderecki',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
     ],
     relatedIds: ['muzyka-powazna-prl', 'lutoslawski', 'kultura-prl'],
   },
@@ -13380,6 +13696,8 @@ Pozostaje jednym z symboli polskiej kultury wysokiej, dowodem, że mimo żelazne
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Wybitny kompozytor i dyrygent, autor „Koncertu na orkiestrę” i III Symfonii, łączący najwyższy kunszt z niezależnością wobec presji ideologicznej.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Lutoslawski3.jpg?width=800',
+    imageCaption: 'Witold Lutosławski',
     content: `## Sylwetka
 Witold Lutosławski (1913–1994) był jednym z najważniejszych kompozytorów XX wieku. Jego twórczość ewoluowała od neoklasycyzmu po nowatorskie techniki aleatoryczne.
 
@@ -13434,6 +13752,14 @@ W latach 80. wspierał opozycję i bojkotował oficjalne media po wprowadzeniu s
         url: 'https://ninateka.pl/movies,1/witold-lutoslawski--zycie-i-tworczosc,2707',
         source: 'Ninateka',
         description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
+      },
+      {
+        id: 'lutoslawski-wiki2',
+        title: 'Witold Lutosławski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Witold_Lutos%C5%82awski',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['muzyka-powazna-prl', 'penderecki', 'socrealizm'],
@@ -13624,6 +13950,8 @@ Herling-Grudziński należy do najważniejszych pisarzy polskich XX wieku, a jeg
     yearStart: 1968,
     yearEnd: 1968,
     summary: 'Były żołnierz AK, który w 1968 roku dokonał samospalenia w proteście przeciw udziałowi LWP w inwazji na Czechosłowację – pierwszy taki akt w bloku wschodnim.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/05850_Sanok_03.05.2011.jpg?width=800',
+    imageCaption: 'Ryszard Siwiec',
     content: `## Sylwetka
 Ryszard Siwiec (1909–1968) był księgowym, byłym żołnierzem Armii Krajowej, ojcem pięciorga dzieci. Głęboko przeżywał zniewolenie Polski i krajów bloku wschodniego.
 
@@ -13734,6 +14062,8 @@ Frasyniuk należy do grona najważniejszych przywódców opozycji lat 80., uczes
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Ostatni przywódca powstania w getcie warszawskim, wybitny kardiolog i działacz opozycji demokratycznej, niezłomny głos sumienia.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Marek_Edelman_by_Kubik.JPG?width=800',
+    imageCaption: 'Marek Edelman',
     content: `## Sylwetka
 Marek Edelman (1919–2009) był jednym z przywódców powstania w getcie warszawskim w 1943 roku, a po wojnie – wybitnym kardiologiem i działaczem społecznym w Łodzi.
 
@@ -13793,6 +14123,8 @@ Marek Edelman pozostaje symbolem odwagi, wierności wartościom i niezależnego 
     yearStart: 1981,
     yearEnd: 1989,
     summary: 'Wrocławski ruch happeningowy Waldemara „Majora” Fydrycha, który absurdem i humorem ośmieszał władzę i aparat represji.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pomaranczowa_alternatywa-dzien_wojska.jpg?width=800',
+    imageCaption: 'Pomarańczowa Alternatywa',
     content: `## Geneza
 Pomarańczowa Alternatywa narodziła się we Wrocławiu z inicjatywy Waldemara Fydrycha, zwanego „Majorem”. Ruch posługiwał się happeningiem i absurdem jako bronią przeciw ponuremu systemowi.
 
@@ -13895,6 +14227,8 @@ Wolność i Pokój wniósł do polskiej opozycji tematykę praw człowieka, pacy
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Dotowane przez państwo, tanie bary samoobsługowe serwujące proste dania mączne i mleczne – symbol PRL-owskiej gastronomii dla mas.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bar_mleczny_%C5%81%C3%B3dzki_al._%C5%9Awierczewskiego_82_w_Warszawie_ok._1971.jpg?width=800',
+    imageCaption: 'Bar mleczny',
     trivia: ['Sztućce bywały przywiązane łańcuszkami do stołów, by zapobiec ich ginięciu.', 'Charakterystyczne tabliczki przypominały: „Prosimy nie zostawiać resztek”.'],
     content: `## Idea
 Bary mleczne to tanie, dotowane przez państwo jadłodajnie, dostępne dla najuboższych. Serwowały proste, bezmięsne dania: pierogi, naleśniki, kluski, zupy mleczne i kompoty.
@@ -14057,6 +14391,8 @@ Kabaret był pod stałą obserwacją, a programy ścierały się z cenzurą. W s
     yearStart: 1971,
     yearEnd: 1989,
     summary: 'Poznański kabaret Zenona Laskowika i Bohdana Smolenia, jeden z najpopularniejszych w PRL, łączący satyrę polityczną z humorem absurdu.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zenon_laskowik.jpg?width=800',
+    imageCaption: 'Kabaret Tey',
     content: `## Powstanie
 Kabaret Tey powstał w 1971 roku w Poznaniu, wyrastając ze środowiska studenckiego kabaretu Tey. Jego filarami byli Zenon Laskowik i Bohdan Smoleń.
 
@@ -14095,6 +14431,14 @@ Kabaret Tey to klasyka polskiej satyry – obok „Pod Egidą” i kabaretu Olgi
         url: 'https://www.youtube.com/results?search_query=kabaret+satyra+rozrywka+PRL',
         source: 'YouTube',
         description: 'Artykuły o kabarecie.',
+      },
+      {
+        id: 'kabaret-tey-wiki2',
+        title: 'Kabaret Tey – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Kabaret_Tey',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['kabaret-prl', 'kabaret-pod-egida', 'telewizja-prl'],
@@ -14218,6 +14562,8 @@ Druga gospodarka ilustruje strukturalną niewydolność systemu i przedsiębiorc
     yearStart: 1946,
     yearEnd: 1989,
     summary: 'Paramilitarna, masowa formacja wspierająca milicję, wykorzystywana do kontroli społecznej, akcji porządkowych i tłumienia protestów.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Odznaka_ORMO.jpg?width=800',
+    imageCaption: 'ORMO',
     content: `## Powstanie
 Ochotniczą Rezerwę Milicji Obywatelskiej powołano w 1946 roku jako paramilitarną formację wspierającą Milicję Obywatelską i władze w utrzymaniu „porządku”.
 
@@ -14320,6 +14666,8 @@ Dziennik był wzorcowym nośnikiem nowomowy – sztucznego, zideologizowanego j�
     yearStart: 1954,
     yearEnd: 1967,
     summary: 'Najsłynniejszy aktor polskiej szkoły filmowej, ikona pokolenia dzięki roli w „Popiele i diamencie” Andrzeja Wajdy.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zbigniew_Cybulski.jpg?width=800',
+    imageCaption: 'Zbigniew Cybulski',
     content: `## Sylwetka
 Zbigniew Cybulski (1927–1967) był aktorem filmowym i teatralnym, najjaśniejszą gwiazdą polskiej szkoły filmowej, porównywaną do Jamesa Deana ze względu na buntowniczy styl i charyzmę.
 
@@ -14359,6 +14707,14 @@ Cybulski pozostaje symbolem polskiej szkoły filmowej i jednym z najważniejszyc
         source: 'YouTube',
         description: 'Archiwalne materiały filmowe.',
       },
+      {
+        id: 'cybulski-zbigniew-wiki2',
+        title: 'Zbigniew Cybulski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Zbigniew_Cybulski',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
     ],
     relatedIds: ['polska-szkola-filmowa', 'wajda', 'kino-prl'],
   },
@@ -14371,6 +14727,8 @@ Cybulski pozostaje symbolem polskiej szkoły filmowej i jednym z najważniejszyc
     yearStart: 1950,
     yearEnd: 1989,
     summary: 'Wybitny aktor teatralny i filmowy, intelektualista sceny, którego zdjęcie spektaklu „Dziady” w 1968 roku stało się iskrą wydarzeń Marca \'68.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gustaw_Holoubek_%28portret%29.jpg?width=800',
+    imageCaption: 'Gustaw Holoubek',
     content: `## Sylwetka
 Gustaw Holoubek (1923–2008) był jednym z najwybitniejszych polskich aktorów, mistrzem ról wymagających intelektu i wewnętrznego napięcia, a także reżyserem i dyrektorem teatrów.
 
@@ -14417,6 +14775,14 @@ Holoubek to symbol ambitnego, zaangażowanego aktorstwa; jego nazwisko łączy h
         url: 'https://ninateka.pl/movies,1/gustaw-holoubek-wieczor-wspomnien,302',
         source: 'Ninateka',
         description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
+      },
+      {
+        id: 'holoubek-gustaw-wiki2',
+        title: 'Gustaw Holoubek – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Gustaw_Holoubek',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['teatr-prl', 'teatr-telewizji', 'marzec-1968'],
@@ -14489,6 +14855,8 @@ Osiecka to jedna z najważniejszych postaci polskiej kultury XX wieku; jej tekst
     yearStart: 1962,
     yearEnd: 1989,
     summary: 'Autor i wykonawca piosenek, mistrz inteligentnej satyry obyczajowej i językowej, twórca przebojów „W Polskę idziemy” i „Jesteśmy na wczasach”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wojciech_M%C5%82ynarski_in_2012.jpg?width=800',
+    imageCaption: 'Wojciech Młynarski',
     content: `## Sylwetka
 Wojciech Młynarski (1941–2017) był piosenkarzem, autorem tekstów, satyrykiem i tłumaczem. Słynął z błyskotliwego, wirtuozerskiego operowania językiem polskim.
 
@@ -14543,6 +14911,14 @@ Młynarski to klasyk polskiej piosenki autorskiej, łączący rozrywkę z reflek
         url: 'https://ninateka.pl/movies,1/wojciech-mlynarski--rozmowy-poszczegolne-,9761',
         source: 'Ninateka',
         description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
+      },
+      {
+        id: 'mlynarski-wojciech-wiki2',
+        title: 'Wojciech Młynarski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Wojciech_M%C5%82ynarski',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['kabaret-prl', 'osiecka-agnieszka', 'kultura-prl'],
@@ -14615,6 +14991,8 @@ Po 1989 roku powrócił do Polski jako autorytet moralny i orędownik wejścia k
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Coroczne, obowiązkowe pochody 1 Maja – centralny rytuał propagandowy PRL, manifestujący „jedność ludu pracującego” z władzą.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Demonstracja_Mi%C5%84sk_1_maja_1917.jpg?width=800',
+    imageCaption: 'Pochód pierwszomajowy',
     content: `## Święto Pracy
 1 Maja, Międzynarodowy Dzień Solidarności Ludzi Pracy, był jednym z najważniejszych świąt PRL. Jego centralnym elementem był masowy pochód pierwszomajowy.
 
@@ -14780,6 +15158,14 @@ Mimo realiów PRL Grotowski stworzył dzieło o światowym znaczeniu, czyniąc P
         source: 'Ninateka',
         description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
       },
+      {
+        id: 'teatr-grotowskiego-wiki2',
+        title: 'Teatr Laboratorium Grotowskiego – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Teatr%20Laboratorium%20Grotowskiego&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
+      },
     ],
     relatedIds: ['teatr-prl', 'kultura-prl'],
   },
@@ -14838,6 +15224,14 @@ Mecze żużlowe były ważnym wydarzeniem towarzyskim i odskocznią od codzienno
         url: 'https://www.youtube.com/results?search_query=%C5%BCu%C5%BCel+sport',
         source: 'YouTube',
         description: 'Materiały filmowe o sporcie.',
+      },
+      {
+        id: 'zuzel-prl-wiki2',
+        title: 'Żużel w PRL – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=%C5%BBu%C5%BCel%20w%20PRL&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
       },
     ],
     relatedIds: ['sport-prl', 'wyscig-pokoju'],
@@ -14902,6 +15296,8 @@ List 34 był pierwszym zbiorowym, publicznym protestem środowisk twórczych w P
     yearStart: 1972,
     yearEnd: 1989,
     summary: 'Gigantyczny kombinat metalurgiczny w Dąbrowie Górniczej, symbol forsownej industrializacji i prestiżowych, lecz zadłużających kraj inwestycji epoki Gierka.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Katowice_Steelworks_Gate.jpg?width=800',
+    imageCaption: 'Huta Katowice',
     content: `## Wielka inwestycja
 Hutę Katowice w Dąbrowie Górniczej budowano od 1972 roku jako sztandarową inwestycję dekady Edwarda Gierka. Miała być dowodem skoku cywilizacyjnego i potęgi przemysłowej PRL.
 
@@ -15283,6 +15679,8 @@ Kluby Inteligencji Katolickiej współtworzyły niezależne społeczeństwo obyw
     yearStart: 1974,
     yearEnd: 1989,
     summary: 'Najważniejszy festiwal polskiego kina, zainaugurowany w 1974 roku w Gdańsku (później Gdynia), prezentujący dorobek rodzimej kinematografii.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2004_08_16_GDYNIA_Festiwal_Polskich_Filmow_Fabularnych.jpeg?width=800',
+    imageCaption: 'Festiwal Polskich Filmów Fabularnych',
     content: `## Powstanie
 Festiwal Polskich Filmów Fabularnych zainaugurowano w 1974 roku w Gdańsku. Od 1987 roku jego stałą siedzibą stała się Gdynia, z którą jest dziś najmocniej kojarzony.
 
@@ -15322,6 +15720,14 @@ Festiwal w Gdyni pozostaje najważniejszym wydarzeniem polskiego kina, a jego hi
         source: 'YouTube',
         description: 'Archiwalne materiały filmowe.',
       },
+      {
+        id: 'festiwal-gdynia-wiki2',
+        title: 'Festiwal Polskich Filmów Fabularnych – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Festiwal_Polskich_Film%C3%B3w_Fabularnych',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
     ],
     relatedIds: ['kino-prl', 'kino-moralnego-niepokoju', 'wajda'],
   },
@@ -15334,6 +15740,8 @@ Festiwal w Gdyni pozostaje najważniejszym wydarzeniem polskiego kina, a jego hi
     yearStart: 1966,
     yearEnd: 1989,
     summary: 'Reżyser filmowy, twórca kina intelektualnego i współtwórca nurtu kina moralnego niepokoju, znany z filmów „Iluminacja” i „Barwy ochronne”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krzysztof_Zanussi_DSC_5413.jpg?width=800',
+    imageCaption: 'Krzysztof Zanussi',
     content: `## Sylwetka
 Krzysztof Zanussi (ur. 1939), z wykształcenia fizyk i filozof, wniósł do polskiego kina refleksję intelektualną, etyczną i egzystencjalną.
 
@@ -15381,6 +15789,14 @@ Krzysztof Zanussi to jeden z najważniejszych polskich reżyserów, symbol kina 
         source: 'Ninateka',
         description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
       },
+      {
+        id: 'zanussi-krzysztof-wiki2',
+        title: 'Krzysztof Zanussi – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Krzysztof_Zanussi',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
     ],
     relatedIds: ['kino-moralnego-niepokoju', 'kino-prl', 'kieslowski'],
   },
@@ -15393,6 +15809,8 @@ Krzysztof Zanussi to jeden z najważniejszych polskich reżyserów, symbol kina 
     yearStart: 1955,
     yearEnd: 1961,
     summary: 'Wybitny reżyser polskiej szkoły filmowej, twórca „Eroiki” i „Zezowatego szczęścia”, demaskujący narodowe mity z ironią i dystansem.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej_Munk_%281921-1961%29.jpg?width=800',
+    imageCaption: 'Andrzej Munk',
     content: `## Sylwetka
 Andrzej Munk (1921–1961) był reżyserem i jednym z czołowych twórców polskiej szkoły filmowej, znanym z chłodnego, ironicznego spojrzenia na historię i mity narodowe.
 
@@ -15440,6 +15858,14 @@ Andrzej Munk pozostaje jednym z najwybitniejszych polskich reżyserów, twórcą
         source: 'Ninateka',
         description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
       },
+      {
+        id: 'munk-andrzej-wiki2',
+        title: 'Andrzej Munk – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Andrzej_Munk',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
     ],
     relatedIds: ['polska-szkola-filmowa', 'kino-prl', 'cybulski-zbigniew'],
   },
@@ -15452,6 +15878,8 @@ Andrzej Munk pozostaje jednym z najwybitniejszych polskich reżyserów, twórcą
     yearStart: 1958,
     yearEnd: 1989,
     summary: 'Reżyser o niepowtarzalnej, onirycznej wyobraźni, twórca kultowego „Rękopisu znalezionego w Saragossie” i „Sanatorium pod Klepsydrą”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wojciech_Jerzy_Has.jpg?width=800',
+    imageCaption: 'Wojciech Jerzy Has',
     content: `## Sylwetka
 Wojciech Jerzy Has (1925–2000) był reżyserem osobnym, tworzącym kino poetyckie, oniryczne i wizyjne, dalekie od politycznego zaangażowania.
 
@@ -15490,6 +15918,14 @@ Wojciech Has to jeden z najbardziej oryginalnych polskich reżyserów, twórca k
         url: 'https://www.youtube.com/results?search_query=Wojciech+Has+film',
         source: 'YouTube',
         description: 'Archiwalne materiały filmowe.',
+      },
+      {
+        id: 'has-wojciech-wiki2',
+        title: 'Wojciech Jerzy Has – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Wojciech_Jerzy_Has',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['kino-prl', 'literatura-prl', 'polska-szkola-filmowa'],
@@ -15550,6 +15986,14 @@ Polska szkoła boksu to jeden z największych sukcesów sportu PRL, symbol kunsz
         source: 'YouTube',
         description: 'Materiały filmowe o sporcie.',
       },
+      {
+        id: 'boks-prl-wiki2',
+        title: 'Polska szkoła boksu – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Polska%20szko%C5%82a%20boksu&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
+      },
     ],
     relatedIds: ['sport-prl', 'wyscig-pokoju'],
   },
@@ -15609,6 +16053,14 @@ Sukcesy siatkarzy z lat 70. były źródłem narodowej dumy i punktem odniesieni
         source: 'YouTube',
         description: 'Materiały filmowe o sporcie.',
       },
+      {
+        id: 'siatkowka-1974-wiki2',
+        title: 'Złota reprezentacja siatkarzy – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Z%C5%82ota%20reprezentacja%20siatkarzy&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
+      },
     ],
     relatedIds: ['sport-prl', 'mundial-1974'],
   },
@@ -15621,6 +16073,8 @@ Sukcesy siatkarzy z lat 70. były źródłem narodowej dumy i punktem odniesieni
     yearStart: 1968,
     yearEnd: 1980,
     summary: 'Jeden z najwybitniejszych polskich piłkarzy, rozgrywający reprezentacji i Legii Warszawa, filar drużyny z mundialu 1974 i mistrz olimpijski 1972.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz_Deyna.jpg?width=800',
+    imageCaption: 'Kazimierz Deyna',
     content: `## Sylwetka
 Kazimierz Deyna (1947–1989) był jednym z najwybitniejszych polskich piłkarzy w historii – rozgrywającym o niezwykłej technice, wizji gry i precyzji podań.
 
@@ -15659,6 +16113,14 @@ Deyna pozostaje ikoną polskiej piłki, symbolem futbolowej elegancji; jego nume
         url: 'https://www.youtube.com/results?search_query=Deyna+pi%C5%82ka+no%C5%BCna',
         source: 'YouTube',
         description: 'Materiały filmowe o sporcie.',
+      },
+      {
+        id: 'deyna-kazimierz-wiki2',
+        title: 'Kazimierz Deyna – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Kazimierz_Deyna',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['mundial-1974', 'sport-prl'],
@@ -15710,6 +16172,14 @@ Kantor zdobył światowe uznanie, prezentując spektakle na całym świecie. Poz
         url: 'https://www.youtube.com/results?search_query=Tadeusz+Kantor+teatr',
         source: 'YouTube',
         description: 'Archiwalne materiały.',
+      },
+      {
+        id: 'kantor-teatr-wiki2',
+        title: 'Tadeusz Kantor i Cricot 2 – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Tadeusz%20Kantor%20i%20Cricot%202&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
       },
     ],
     relatedIds: ['teatr-prl', 'teatr-grotowskiego', 'kultura-prl'],
@@ -15774,6 +16244,8 @@ Beksiński to fenomen polskiej sztuki – artysta osobny, którego wizyjne malar
     yearStart: 1956,
     yearEnd: 1989,
     summary: 'Państwowe wydawnictwo fonograficzne, niemal monopolista rynku płytowego PRL, wydające pod marką „Muza” muzykę wszystkich gatunków.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ulica_Okaryny_w_Warszawie_2022.jpg?width=800',
+    imageCaption: 'Polskie Nagrania „Muza”',
     content: `## Monopol
 Polskie Nagrania, z charakterystycznym logo „Muza”, były głównym i niemal jedynym wydawnictwem płytowym w PRL. Decydowały, co i w jakim nakładzie trafi na rynek.
 
@@ -15812,6 +16284,14 @@ Polskie Nagrania „Muza” ukształtowały fonograficzny krajobraz PRL; ich kat
         url: 'https://www.youtube.com/results?search_query=Polskie+Nagrania+muzyka',
         source: 'YouTube',
         description: 'Archiwalne materiały muzyczne.',
+      },
+      {
+        id: 'polskie-nagrania-muza-wiki2',
+        title: 'Polskie Nagrania „Muza” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Polskie_Nagrania_%E2%80%9EMuza%E2%80%9D',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['muzyka-rockowa-prl', 'jazz-prl', 'kultura-prl'],
@@ -15935,6 +16415,8 @@ Górnictwo węglowe symbolizuje zarówno potęgę przemysłową, jak i struktura
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Państwowy przewoźnik lotniczy PRL, łączący Polskę ze światem radzieckimi i (z czasem) zachodnimi samolotami, dla większości obywateli pozostający luksusem.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/LOT_Polish_Airlines_wordmark.svg?width=800',
+    imageCaption: 'Polskie Linie Lotnicze LOT',
     content: `## Państwowy przewoźnik
 Polskie Linie Lotnicze LOT, reaktywowane po wojnie, były jedynym przewoźnikiem lotniczym kraju. Flotę tworzyły początkowo samoloty radzieckie (Ił, Tu, An), z czasem także zachodnie.
 
@@ -15986,6 +16468,8 @@ LOT symbolizował zarazem nowoczesność i ograniczenia PRL – techniczne ambic
     yearStart: 1968,
     yearEnd: 1989,
     summary: 'Nowoczesny szpital dziecięcy w Warszawie, zbudowany ze społecznych składek jako pomnik dzieci – ofiar II wojny światowej.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Centrum_Zdrowia_Dziecka.svg?width=800',
+    imageCaption: 'Centrum Zdrowia Dziecka',
     content: `## Idea
 Pomysł budowy Centrum Zdrowia Dziecka narodził się jako „pomnik-szpital” upamiętniający dzieci, które zginęły podczas II wojny światowej – żywy pomnik służący ratowaniu życia.
 
@@ -16148,6 +16632,8 @@ Polskie wyprawy polarne i Stacja Arctowski to dowód, że mimo ograniczeń syste
     yearStart: 1976,
     yearEnd: 1989,
     summary: 'Telewizyjny kabaret literacki tworzony przez reżyserkę Olgę Lipińską, słynący z inteligentnej, aluzyjnej satyry i wybitnej obsady aktorskiej.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Olga_Lipi%C5%84ska.jpg?width=800',
+    imageCaption: 'Kabaret Olgi Lipińskiej',
     content: `## Twórczyni
 Olga Lipińska, reżyserka telewizyjna i teatralna, stworzyła cykl programów kabaretowych, które przez dekady były jedną z najambitniejszych form telewizyjnej satyry w Polsce.
 
@@ -16186,6 +16672,14 @@ Kabaret Olgi Lipińskiej, obok „Pod Egidą” i Kabaretu Tey, współtworzył 
         url: 'https://www.youtube.com/results?search_query=kabaret+telewizyjny+satyra+PRL',
         source: 'YouTube',
         description: 'Artykuły o kabarecie telewizyjnym.',
+      },
+      {
+        id: 'olga-lipinska-wiki2',
+        title: 'Kabaret Olgi Lipińskiej – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Kabaret_Olgi_Lipi%C5%84skiej',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['kabaret-prl', 'kabaret-tey', 'kabaret-pod-egida', 'telewizja-prl'],
@@ -16317,6 +16811,8 @@ Gombrowicz to klasyk literatury światowej, wielokrotnie wymieniany jako kandyda
     yearStart: 1956,
     yearEnd: 1969,
     summary: 'Buntowniczy prozaik pokolenia odwilży, autor „Ósmego dnia tygodnia” i „Pierwszego kroku w chmurach”, legenda literackiego nonkonformizmu, zmarły na emigracji.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Marekhlasko.jpg?width=800',
+    imageCaption: 'Marek Hłasko',
     content: `## Sylwetka
 Marek Hłasko (1934–1969) był prozaikiem i scenarzystą, ikoną buntu pokolenia odwilży 1956 roku, porównywaną do amerykańskich „wyklętych” pisarzy i Jamesa Deana.
 
@@ -16376,6 +16872,8 @@ Hłasko pozostaje symbolem literackiego buntu i nonkonformizmu, a jego proza –
     yearStart: 1947,
     yearEnd: 1989,
     summary: 'Wybitny poeta, dramaturg i prozaik, twórca nowoczesnej poezji „ogołoconej” po doświadczeniu wojny oraz nowatorskiego dramatu („Kartoteka”).',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B3%C5%BCewicz_cropped.JPG?width=800',
+    imageCaption: 'Tadeusz Różewicz',
     content: `## Sylwetka
 Tadeusz Różewicz (1921–2014), żołnierz AK, był jednym z najważniejszych polskich poetów i dramaturgów XX wieku, twórcą nowego języka poezji po doświadczeniu wojny i Zagłady.
 
@@ -16423,6 +16921,14 @@ Należy do najwybitniejszych twórców polskiej literatury; jego poezja i dramat
         source: 'Ninateka',
         description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
       },
+      {
+        id: 'rozewicz-tadeusz-wiki2',
+        title: 'Tadeusz Różewicz – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Tadeusz_R%C3%B3%C5%BCewicz',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
     ],
     relatedIds: ['literatura-prl', 'teatr-prl', 'szymborska'],
   },
@@ -16435,6 +16941,8 @@ Należy do najwybitniejszych twórców polskiej literatury; jego poezja i dramat
     yearStart: 1972,
     yearEnd: 1972,
     summary: 'Skoczek narciarski, zdobywca pierwszego dla Polski zimowego złota olimpijskiego – w Sapporo 1972 – po niespodziewanym, brawurowym skoku.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wojciech_Fortuna.jpg?width=800',
+    imageCaption: 'Wojciech Fortuna',
     content: `## Sylwetka
 Wojciech Fortuna (ur. 1952) to skoczek narciarski, który zapisał się w historii polskiego sportu, zdobywając pierwszy zimowy złoty medal olimpijski dla Polski.
 
@@ -16473,6 +16981,14 @@ Wojciech Fortuna jest pionierem polskich sukcesów w skokach narciarskich, preku
         url: 'https://www.youtube.com/results?search_query=skoki+narciarskie+sport+Polska',
         source: 'YouTube',
         description: 'Materiały filmowe o sporcie.',
+      },
+      {
+        id: 'wojciech-fortuna-wiki2',
+        title: 'Wojciech Fortuna – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Wojciech_Fortuna',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['sport-prl', 'mundial-1974'],
@@ -16749,6 +17265,8 @@ Cepelia to instytucja łącząca ochronę dziedzictwa ludowego z gospodarką –
     yearStart: 1969,
     yearEnd: 1989,
     summary: 'Reżyser wielkich ekranizacji Sienkiewicza – „Pana Wołodyjowskiego” i „Potopu” – twórca widowiskowego kina historycznego PRL.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2016.02.21._Jerzy_Hoffman_Fot_Mariusz_Kubik_08.JPG?width=800',
+    imageCaption: 'Jerzy Hoffman',
     content: `## Sylwetka
 Jerzy Hoffman (1932–2023) był reżyserem i scenarzystą, mistrzem widowiskowego kina historycznego, autorem najpopularniejszych polskich superprodukcji epoki PRL.
 
@@ -16796,6 +17314,14 @@ Hoffman dał polskiej publiczności wielkie kino historyczne, które krzepiło n
         source: 'Ninateka',
         description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
       },
+      {
+        id: 'hoffman-jerzy-wiki2',
+        title: 'Jerzy Hoffman – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Jerzy_Hoffman',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
     ],
     relatedIds: ['kino-prl', 'polska-szkola-filmowa', 'literatura-prl'],
   },
@@ -16808,6 +17334,8 @@ Hoffman dał polskiej publiczności wielkie kino historyczne, które krzepiło n
     yearStart: 1962,
     yearEnd: 1989,
     summary: 'Reżyser, którego debiut „Nóż w wodzie” rozpoczął światową karierę; absolwent łódzkiej Szkoły Filmowej, jeden z najbardziej znanych polskich twórców kina.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2023.11.13._Roman_Polanski_Photo_Mariusz_Kubik_01.JPG?width=800',
+    imageCaption: 'Roman Polański',
     content: `## Sylwetka
 Roman Polański (ur. 1933), absolwent łódzkiej Szkoły Filmowej, jest jednym z najsłynniejszych reżyserów wywodzących się z Polski, o karierze rozpiętej między Europą a Hollywood.
 
@@ -16855,6 +17383,14 @@ Dla kina PRL Polański to symbol talentu, który zaistniał na świecie; jego po
         source: 'Ninateka',
         description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
       },
+      {
+        id: 'polanski-roman-wiki2',
+        title: 'Roman Polański – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Roman_Pola%C5%84ski',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
     ],
     relatedIds: ['kino-prl', 'polska-szkola-filmowa', 'lodz-szkola-filmowa'],
   },
@@ -16867,6 +17403,8 @@ Dla kina PRL Polański to symbol talentu, który zaistniał na świecie; jego po
     yearStart: 1970,
     yearEnd: 1980,
     summary: 'Najwybitniejszy polski kolarz szosowy epoki PRL, wielokrotny zwycięzca Wyścigu Pokoju i mistrz świata amatorów.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ryszard_Szurkowski_2.jpg?width=800',
+    imageCaption: 'Ryszard Szurkowski',
     content: `## Sylwetka
 Ryszard Szurkowski (1946–2021) był najwybitniejszym polskim kolarzem szosowym, bohaterem masowej publiczności w czasach świetności Wyścigu Pokoju.
 
@@ -16905,6 +17443,14 @@ Ryszard Szurkowski to legenda polskiego kolarstwa i symbol sportowych sukcesów 
         url: 'https://www.youtube.com/results?search_query=kolarstwo+Wy%C5%9Bcig+Pokoju',
         source: 'YouTube',
         description: 'Materiały filmowe o sporcie.',
+      },
+      {
+        id: 'szurkowski-ryszard-wiki2',
+        title: 'Ryszard Szurkowski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Ryszard_Szurkowski',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['wyscig-pokoju', 'sport-prl'],
@@ -16969,6 +17515,8 @@ Jako prymas przełomu Józef Glemp odegrał ważną rolę w pokojowym przejściu
     yearStart: 1955,
     yearEnd: 1989,
     summary: 'Aktorka, piosenkarka i ikona Kabaretu Starszych Panów, łamiąca obyczajowe tabu PRL swoją odwagą, seksapilem i niezależnością.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/KalinaJedrusik.jpg?width=800',
+    imageCaption: 'Kalina Jędrusik',
     content: `## Sylwetka
 Kalina Jędrusik (1930–1991) była aktorką teatralną, filmową i piosenkarką, jedną z najbardziej charyzmatycznych i kontrowersyjnych postaci kultury PRL.
 
@@ -17007,6 +17555,14 @@ Kalina Jędrusik pozostaje ikoną kultury PRL i symbolem kobiecej niezależnośc
         url: 'https://www.youtube.com/results?search_query=Kalina+J%C4%99drusik',
         source: 'YouTube',
         description: 'Archiwalne materiały.',
+      },
+      {
+        id: 'kalina-jedrusik-wiki2',
+        title: 'Kalina Jędrusik – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Kalina_J%C4%99drusik',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['teatr-prl', 'kino-prl', 'kabaret-starszych-panow'],
@@ -17475,6 +18031,14 @@ Bronisław Malinowski pozostaje legendą polskiej lekkoatletyki; jego imię nosi
         source: 'YouTube',
         description: 'Materiały filmowe o sporcie.',
       },
+      {
+        id: 'malinowski-bronislaw-wiki2',
+        title: 'Bronisław Malinowski – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Bronis%C5%82aw%20Malinowski&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
+      },
     ],
     relatedIds: ['sport-prl', 'irena-szewinska'],
   },
@@ -17546,6 +18110,8 @@ Turowicz to symbol niezależnego dziennikarstwa i katolicyzmu otwartego; jego pr
     yearStart: 1945,
     yearEnd: 1945,
     summary: 'Pokazowy proces w Moskwie w 1945 roku przeciw szesnastu przywódcom Polskiego Państwa Podziemnego, podstępnie aresztowanym przez NKWD.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/THE_TRIAL_OF_THE_SIXTEEN%2C_JUNE_1945_Presiding_judge_of_the_trial%2C_Colonel-General_Vasiliy_Ulrikh_%28centre%29.jpg?width=800',
+    imageCaption: 'Proces szesnastu',
     content: `## Podstęp
 W marcu 1945 roku NKWD podstępnie aresztowało szesnastu przywódców Polskiego Państwa Podziemnego, zaproszonych na rzekome rozmowy pod gwarancją bezpieczeństwa, m.in. wicepremiera Jana Stanisława Jankowskiego i gen. Leopolda Okulickiego.
 
@@ -17597,6 +18163,8 @@ Proces szesnastu symbolizuje sposób, w jaki ZSRR likwidował niepodległościow
     yearStart: 1945,
     yearEnd: 1945,
     summary: 'Operacja wojsk sowieckich i komunistycznych z lipca 1945 roku w rejonie Augustowa; zaginęło ok. 600 osób, których losu do dziś nie wyjaśniono.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pomnik_Ofiar_Ob%C5%82awy_Augustowskiej_-_Suwa%C5%82ki_fot._Kamil_Korbik_2018.jpg?width=800',
+    imageCaption: 'Obława augustowska',
     content: `## Operacja
 W lipcu 1945 roku Armia Czerwona, NKWD oraz polskie służby przeprowadziły wielką obławę na Suwalszczyźnie i Augustowszczyźnie, wymierzoną w podziemie niepodległościowe.
 
@@ -17817,6 +18385,8 @@ PAX to przykład mechanizmu „dziel i rządź” – prób rozbijania jedności
     yearStart: 1976,
     yearEnd: 1981,
     summary: 'Tyczkarz, mistrz olimpijski z Moskwy 1980, który po zwycięstwie wykonał słynny „gest Kozakiewicza” wobec gwiżdżącej radzieckiej publiczności.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/W%C5%82adys%C5%82aw_Kozakiewicz_2016.jpg?width=800',
+    imageCaption: 'Władysław Kozakiewicz',
     content: `## Sylwetka
 Władysław Kozakiewicz (ur. 1953) był jednym z najlepszych tyczkarzy świata przełomu lat 70. i 80., rekordzistą globu w skoku o tyczce.
 
@@ -17856,6 +18426,14 @@ Kozakiewicz pozostaje legendą polskiej lekkoatletyki, a jego gest – jednym z 
         source: 'YouTube',
         description: 'Materiały filmowe o sporcie.',
       },
+      {
+        id: 'kozakiewicz-wladyslaw-wiki2',
+        title: 'Władysław Kozakiewicz – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Kozakiewicz',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
     ],
     relatedIds: ['sport-prl', 'malinowski-bronislaw'],
   },
@@ -17868,6 +18446,8 @@ Kozakiewicz pozostaje legendą polskiej lekkoatletyki, a jego gest – jednym z 
     yearStart: 1971,
     yearEnd: 1976,
     summary: 'Najwybitniejszy polski selekcjoner, twórca najlepszej reprezentacji w historii – mistrzów olimpijskich 1972 i brązowych medalistów mundialu 1974.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz_G%C3%B3rski_%281973%29.jpg?width=800',
+    imageCaption: 'Kazimierz Górski',
     content: `## Sylwetka
 Kazimierz Górski (1921–2006) był piłkarzem i trenerem, najsłynniejszym selekcjonerem reprezentacji Polski, który stworzył jej złotą drużynę lat 70.
 
@@ -17906,6 +18486,14 @@ Kazimierz Górski to ikona polskiego sportu i symbol najlepszej epoki rodzimej p
         url: 'https://www.youtube.com/results?search_query=pi%C5%82ka+no%C5%BCna+reprezentacja+G%C3%B3rski',
         source: 'YouTube',
         description: 'Materiały filmowe o sporcie.',
+      },
+      {
+        id: 'gorski-kazimierz-wiki2',
+        title: 'Kazimierz Górski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Kazimierz_G%C3%B3rski',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['mundial-1974', 'sport-prl', 'deyna-kazimierz'],
@@ -17970,6 +18558,8 @@ Dejmek to symbol siły teatru, który – mimo cenzury – potrafił poruszyć s
     yearStart: 1956,
     yearEnd: 1989,
     summary: 'Prozaik i reżyser, autor „Małej apokalipsy” i filmu „Salto”, twórca rozliczający mity i rzeczywistość PRL, publikujący też w drugim obiegu.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tadeusz_Konwicki_Kancelaria_Senatu_01.jpg?width=800',
+    imageCaption: 'Tadeusz Konwicki',
     content: `## Sylwetka
 Tadeusz Konwicki (1926–2015) był pisarzem, scenarzystą i reżyserem filmowym, jednym z najważniejszych twórców powojennej kultury, łączącym prozę z kinem.
 
@@ -18016,6 +18606,14 @@ Konwicki to klasyk literatury i kina, mistrz gorzkiej autorefleksji, którego tw
         url: 'https://ninateka.pl/audio,153683/zwierzoczlekoupior--tadeusz-konwicki,9742',
         source: 'Ninateka',
         description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
+      },
+      {
+        id: 'konwicki-tadeusz-wiki2',
+        title: 'Tadeusz Konwicki – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Tadeusz_Konwicki',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['literatura-prl', 'kino-prl', 'kultura-paryz'],
@@ -18080,6 +18678,8 @@ Sejm PRL to symbol fasadowości instytucji demokratycznych w systemie komunistyc
     yearStart: 1952,
     yearEnd: 1983,
     summary: 'Organizacja zrzeszająca partie i stowarzyszenia pod kierownictwem PZPR, firmująca jedną listę wyborczą i pozorującą poparcie społeczne dla władzy.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_the_Front_of_National_Unity.svg?width=800',
+    imageCaption: 'Front Jedności Narodu',
     content: `## Geneza
 Front Jedności Narodu (wcześniej Front Narodowy) powstał w latach 50. jako struktura skupiająca PZPR, stronnictwa satelickie i organizacje społeczne pod przewodnią rolą partii.
 
@@ -18193,6 +18793,8 @@ Dzieje stronnictw satelickich pokazują mechanizm pozorowanego pluralizmu, a ich
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'Masowa organizacja propagująca „przyjaźń” z ZSRR i kulturę radziecką, jeden z filarów ideologicznego podporządkowania PRL Związkowi Radzieckiemu.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Odznaka_TPPR.JPG?width=800',
+    imageCaption: 'Towarzystwo Przyjaźni Polsko-Radzieckiej',
     content: `## Geneza
 Towarzystwo Przyjaźni Polsko-Radzieckiej (TPPR) powstało jeszcze przed końcem wojny i rozwinęło się w jedną z najliczniejszych organizacji masowych PRL.
 
@@ -18244,6 +18846,8 @@ TPPR to przykład instytucji służącej ideologicznemu zespoleniu PRL z ZSRR i 
     yearStart: 1949,
     yearEnd: 1989,
     summary: 'Związek Bojowników o Wolność i Demokrację – masowa organizacja kombatancka, wykorzystywana przez władze do kontroli środowisk weteranów i polityki pamięci.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Odznaka_ZBoWiD.jpg?width=800',
+    imageCaption: 'ZBoWiD',
     content: `## Geneza
 Związek Bojowników o Wolność i Demokrację (ZBoWiD) powstał w 1949 roku z połączenia (i likwidacji niezależności) wcześniejszych organizacji kombatanckich.
 
@@ -18295,6 +18899,8 @@ ZBoWiD to przykład instrumentalizacji kombatantów i pamięci o wojnie przez w�
     yearStart: 1956,
     yearEnd: 1970,
     summary: 'Określenie szarej, skromnej stabilizacji życia w Polsce Gomułki lat 60. – po odwilży, bez wielkiego terroru, lecz i bez dobrobytu oraz wolności.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gomulka_speech.jpg?width=800',
+    imageCaption: 'Mała stabilizacja',
     content: `## Pojęcie
 „Mała stabilizacja” to popularne określenie atmosfery życia w Polsce za rządów Władysława Gomułki w latach 60. Spopularyzował je m.in. dramat Tadeusza Różewicza „Świadkowie albo nasza mała stabilizacja”.
 
@@ -18346,6 +18952,8 @@ Społeczeństwo przyjęło postawę przystosowania – „małych spraw” i pry
     yearStart: 1964,
     yearEnd: 1989,
     summary: 'Historyk-mediewista i działacz opozycji, współautor (z Jackiem Kuroniem) „Listu otwartego do Partii”, wielokrotnie więziony; autor nazwy „Solidarność”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Karol_Modzelewski3.jpg?width=800',
+    imageCaption: 'Karol Modzelewski',
     content: `## Sylwetka
 Karol Modzelewski (1937–2019) był wybitnym historykiem mediewistą oraz jednym z najważniejszych działaczy opozycji demokratycznej w PRL.
 
@@ -18558,6 +19166,8 @@ Henryka Krzywonos to symbol roli zwykłych ludzi i kobiet w narodzinach Solidarn
     yearStart: 1948,
     yearEnd: 1955,
     summary: 'Masowa organizacja z lat 1948–1955, w ramach której młodzież kierowano do przymusowej pracy fizycznej i indoktrynacji w junackich brygadach.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Junacy_ze_S%C5%82u%C5%BCby_Polsce_na_obozie_w_Ksi%C4%99ginicach.jpg?width=800',
+    imageCaption: 'Powszechna Organizacja „Służba Polsce”',
     content: `## Geneza
 Powszechną Organizację „Służba Polsce” (SP) powołano w 1948 roku, by zmobilizować młodzież do pracy przy wielkich inwestycjach planu sześcioletniego i poddać ją ideologicznemu wychowaniu.
 
@@ -18609,6 +19219,8 @@ Dla części młodzieży, zwłaszcza o „niewłaściwym” pochodzeniu, brygady
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Wielka fabryka ciągników pod Warszawą – symbol mechanizacji rolnictwa, a zarazem ośrodek robotniczych protestów, m.in. w czerwcu 1976.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ci%C4%85gniki_pod_zak%C5%82adami_Ursus_w_Warszawie_w_latach_70.jpg?width=800',
+    imageCaption: 'Zakłady Mechaniczne Ursus',
     content: `## Fabryka ciągników
 Zakłady Mechaniczne Ursus pod Warszawą były głównym producentem ciągników w PRL. Traktory „Ursus” stały się symbolem mechanizacji polskiego rolnictwa.
 
@@ -18880,6 +19492,8 @@ Domy kultury i świetlice to ważny, ambiwalentny element PRL: realnie demokraty
     yearStart: 1969,
     yearEnd: 1980,
     summary: 'Uwielbiana piosenkarka lat 70., wykonawczyni „Tyle słońca w całym mieście” i „Nic nie może wiecznie trwać”; zginęła w katastrofie lotniczej na Okęciu w 1980 roku.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Anna_Jantar2.png?width=800',
+    imageCaption: 'Anna Jantar',
     trivia: ['Zginęła w katastrofie samolotu Ił-62 na Okęciu w 1980 roku, wracając z koncertów w USA.'],
     content: `## Sylwetka
 Anna Jantar (1950–1980) była jedną z najpopularniejszych i najbardziej lubianych piosenkarek polskiej estrady lat 70., obdarzoną ciepłym, charakterystycznym głosem.
@@ -18920,6 +19534,14 @@ Jej śmierć wstrząsnęła Polską, a pogrzeb zgromadził tłumy. Proroczy tytu
         source: 'FilmPolski.pl',
         description: 'Artykuły o artystce i katastrofie 1980.',
       },
+      {
+        id: 'anna-jantar-wiki2',
+        title: 'Anna Jantar – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Anna_Jantar',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
     ],
     relatedIds: ['budka-suflera', 'festiwal-opole', 'maryla-rodowicz'],
   },
@@ -18932,6 +19554,8 @@ Jej śmierć wstrząsnęła Polską, a pogrzeb zgromadził tłumy. Proroczy tytu
     yearStart: 1975,
     yearEnd: 1977,
     summary: 'Kultowy serial komediowy o inżynierze Stefanie Karwowskim – celny, ciepły portret codzienności dekady Gierka.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Czterdziestolatek%2C_mural%2C_metro_Ursyn%C3%B3w%2C_Warszawa.jpg?width=800',
+    imageCaption: 'Czterdziestolatek',
     content: `## Serial
 „Czterdziestolatek” (1975–1977), w reżyserii Jerzego Gruzy, opowiadał o perypetiach inżyniera Stefana Karwowskiego (Andrzej Kopiczyński), który właśnie skończył 40 lat.
 
@@ -18971,6 +19595,14 @@ Obok Kopiczyńskiego i Kwiatkowskiej grali m.in. Anna Seniuk (żona Madzia), Leo
         source: 'YouTube',
         description: 'Odcinki serialu online.',
       },
+      {
+        id: 'czterdziestolatek-wiki2',
+        title: 'Czterdziestolatek – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Czterdziestolatek',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
     ],
     relatedIds: ['seriale-prl', 'telewizja-prl', 'gierek', 'kwiatkowska-irena'],
   },
@@ -18983,6 +19615,8 @@ Obok Kopiczyńskiego i Kwiatkowskiej grali m.in. Anna Seniuk (żona Madzia), Leo
     yearStart: 1976,
     yearEnd: 1987,
     summary: 'Najpopularniejszy serial kryminalny PRL z porucznikiem Sławomirem Borewiczem (Bronisław Cieślak) – milicyjny kryminał z drugim dnem obyczajowym.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/07_zg%C5%82o%C5%9B_si%C4%99.JPG?width=800',
+    imageCaption: '07 zgłoś się',
     content: `## Serial
 „07 zgłoś się” (1976–1987), w reżyserii Krzysztofa Szmagiera, opowiadał o śledztwach porucznika MO Sławomira Borewicza, granego przez Bronisława Cieślaka.
 
@@ -19021,6 +19655,14 @@ Choć serial ocieplał wizerunek milicji, widzowie cenili go za sprawną fabuł�
         url: 'https://www.youtube.com/results?search_query=07+zg%C5%82o%C5%9B+si%C4%99',
         source: 'YouTube',
         description: 'Odcinki serialu online.',
+      },
+      {
+        id: '07-zglos-sie-wiki2',
+        title: '07 zgłoś się – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/07_zg%C5%82o%C5%9B_si%C4%99',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['seriale-prl', 'milicja', 'telewizja-prl'],
@@ -19072,6 +19714,14 @@ Emisję przerwała tragiczna śmierć obu prowadzących w wypadku samochodowym w
         url: 'https://www.youtube.com/results?search_query=Sonda',
         source: 'YouTube',
         description: 'Materiały telewizyjne.',
+      },
+      {
+        id: 'sonda-program-wiki2',
+        title: 'Sonda – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Sonda&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
       },
     ],
     relatedIds: ['telewizja-prl', 'nauka-prl', 'teleranek'],
@@ -19132,6 +19782,14 @@ Kutz to klasyk polskiego kina i najważniejszy artystyczny ambasador Śląska �
         source: 'Ninateka',
         description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
       },
+      {
+        id: 'kutz-kazimierz-wiki2',
+        title: 'Kazimierz Kutz – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Kazimierz%20Kutz&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
+      },
     ],
     relatedIds: ['kino-prl', 'gornictwo-prl', 'polska-szkola-filmowa'],
   },
@@ -19182,6 +19840,14 @@ Lubański i Górnik to symbol złotej ery śląskiego futbolu – fundamentu, na
         url: 'https://www.youtube.com/results?search_query=pi%C5%82ka+no%C5%BCna+G%C3%B3rnik+Zabrze',
         source: 'YouTube',
         description: 'Materiały filmowe o sporcie.',
+      },
+      {
+        id: 'lubanski-gornik-wiki2',
+        title: 'Włodzimierz Lubański i Górnik Zabrze – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=W%C5%82odzimierz%20Luba%C5%84ski%20i%20G%C3%B3rnik%20Zabrze&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
       },
     ],
     relatedIds: ['mundial-1974', 'sport-prl', 'gorski-kazimierz'],
@@ -19285,6 +19951,14 @@ Ciszewski ustanowił wzorzec komentarza sportowego; dla pokoleń kibiców jego g
         source: 'YouTube',
         description: 'Materiały telewizyjne.',
       },
+      {
+        id: 'ciszewski-jan-wiki2',
+        title: 'Jan Ciszewski – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Jan%20Ciszewski&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
+      },
     ],
     relatedIds: ['mundial-1974', 'gorski-kazimierz', 'telewizja-prl'],
   },
@@ -19297,6 +19971,8 @@ Ciszewski ustanowił wzorzec komentarza sportowego; dla pokoleń kibiców jego g
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Wybitna aktorka komediowa, gwiazda Kabaretu Starszych Panów i „Czterdziestolatka”, mistrzyni słowa i komedii charakterystycznej.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Irena_Kwiatkowska.jpg?width=800',
+    imageCaption: 'Irena Kwiatkowska',
     content: `## Sylwetka
 Irena Kwiatkowska (1912–2011) była aktorką teatralną, kabaretową i telewizyjną, jedną z najwybitniejszych komediowych osobowości polskiej sceny.
 
@@ -19335,6 +20011,14 @@ Kwiatkowska to legenda polskiej komedii – aktorka, której energia i profesjon
         url: 'https://www.youtube.com/results?search_query=Irena+Kwiatkowska',
         source: 'YouTube',
         description: 'Archiwalne materiały.',
+      },
+      {
+        id: 'kwiatkowska-irena-wiki2',
+        title: 'Irena Kwiatkowska – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Irena_Kwiatkowska',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
     relatedIds: ['kabaret-starszych-panow', 'czterdziestolatek', 'teatr-prl'],
@@ -19386,6 +20070,14 @@ Choć akcja działała w ramach oficjalnej telewizji, jej przesłanie – bezint
         url: 'https://www.youtube.com/results?search_query=Niewidzialna+r%C4%99ka',
         source: 'YouTube',
         description: 'Materiały telewizyjne.',
+      },
+      {
+        id: 'niewidzialna-reka-wiki2',
+        title: 'Niewidzialna Ręka – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Niewidzialna%20R%C4%99ka&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
       },
     ],
     relatedIds: ['teleranek', 'dzieci-prl', 'telewizja-prl'],
@@ -19662,6 +20354,8 @@ Boniek to ikona polskiej piłki, jeden z nielicznych Polaków, którzy osiągnę
     yearStart: 1964,
     yearEnd: 1989,
     summary: 'Jeden z najwybitniejszych polskich aktorów, gwiazda filmów Wajdy i Hoffmana, m.in. Kmicic w „Potopie” i role w „Weselu” i „Ziemi obiecanej”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2025.02.27._Daniel_Olbrychski_Photo_Mariusz_Kubik_01.JPG?width=800',
+    imageCaption: 'Daniel Olbrychski',
     content: `## Sylwetka
 Daniel Olbrychski (ur. 1945) to jeden z najsłynniejszych polskich aktorów, obdarzony charyzmą i sceniczną energią, gwiazda kina od lat 60.
 
@@ -19831,6 +20525,8 @@ Barańczak to jeden z najważniejszych polskich poetów i tłumaczy XX wieku, sy
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Pracownicze ogrody działkowe – masowy fenomen PRL, dający mieszkańcom blokowisk własny skrawek ziemi na warzywa, owoce i wypoczynek.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gardens_-_panoramio.jpg?width=800',
+    imageCaption: 'Ogródki działkowe',
     content: `## Fenomen
 Ogrody działkowe (Pracownicze Ogrody Działkowe) stały się w PRL masowym zjawiskiem – niewielkie działki na obrzeżach miast dawały mieszkańcom ciasnych mieszkań własny kawałek ziemi.
 
@@ -20100,6 +20796,8 @@ Oddział Zamknięty to jeden z symboli rockowej kultury młodzieżowej lat 80., 
     yearStart: 1965,
     yearEnd: 1989,
     summary: 'Jeden z najbardziej oryginalnych zespołów polskiej muzyki rozrywkowej, łączący big-beat z muzyką klasyczną i folkiem, autor „Medytacji wiejskiego listonosza”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Skaldowie_2012.JPG?width=800',
+    imageCaption: 'Skaldowie',
     content: `## Powstanie
 Skaldowie powstali w 1965 roku w Krakowie, założeni przez braci Andrzeja i Jacka Zielińskich. Należeli do czołówki polskiego big-beatu i muzyki rozrywkowej.
 
@@ -20568,6 +21266,8 @@ Awans rozpoczął najlepszą erę polskiej piłki – drużyna Kazimierza Górsk
     yearStart: 1957,
     yearEnd: 1989,
     summary: 'Gry liczbowe Totalizatora Sportowego (Duży Lotek, „6 z 49”), uruchomione w 1957 roku – marzenie milionów o nagłej wygranej.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kupony_Lotto.jpg?width=800',
+    imageCaption: 'Toto-Lotek',
     content: `## Gry liczbowe
 Toto-Lotek (Duży Lotek) to gry liczbowe Totalizatora Sportowego, uruchomione w 1957 roku. Polegały na typowaniu liczb – słynne „6 z 49” – w nadziei na wygraną.
 
@@ -20678,6 +21378,8 @@ Dobranocka to symbol dzieciństwa w PRL i dorobek polskiej szkoły animacji, cen
     yearStart: 1971,
     yearEnd: 1989,
     summary: 'Popularna wakacyjna audycja Programu I Polskiego Radia (od 1971), rozpoznawalna po sygnale „Polka Dziadek”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Lato_z_Radiem_w_Stegnie_%282015%29.JPG?width=800',
+    imageCaption: 'Lato z Radiem',
     content: `## Audycja
 „Lato z Radiem” to popularna wakacyjna audycja Programu I Polskiego Radia, nadawana od 1971 roku i towarzysząca Polakom przez letnie miesiące.
 
@@ -21452,6 +22154,8 @@ Gąssowski to klasyk polskiej piosenki rozrywkowej, którego przeboje grane są 
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Obowiązkowa, zwykle dwuletnia służba w Ludowym Wojsku Polskim – obrzęd przejścia pokoleń młodych mężczyzn, naznaczony drylem i indoktrynacją.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Obwieszczenie_o_przeprowadzeniu_poboru_m%C4%99%C5%BCczyzn_rocznika_1927.jpg?width=800',
+    imageCaption: 'Zasadnicza służba wojskowa',
     content: `## Obowiązek
 Zasadnicza służba wojskowa była obowiązkowa dla młodych mężczyzn i trwała zwykle dwa lata. Stanowiła swoisty obrzęd przejścia kolejnych pokoleń.
 
@@ -24729,6 +25433,8 @@ Kultowy serial – „dyzma” stało się synonimem karierowicza-nieuka.`,
     yearStart: 1983,
     yearEnd: 1989,
     summary: 'Warszawski zespół nowej fali założony w 1983 przez Igora Czerniawskiego; przebój „Skóra” to klasyk gatunku, a wokalistą bywał Paweł Kukiz.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pawel_Kukiz.jpg?width=800',
+    imageCaption: 'Aya RL',
     content: `## Zespół
 Aya RL to warszawski zespół nowej fali, założony w 1983 roku przez Igora Czerniawskiego.
 
@@ -25414,6 +26120,14 @@ Bambino to nostalgiczny symbol domowej muzyki epoki.`,
         source: 'YouTube',
         description: 'Materiały o domowym sprzęcie muzycznym.',
       },
+      {
+        id: 'adapter-bambino-wiki2',
+        title: 'Adapter Bambino – opracowania',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/w/index.php?search=Adapter%20Bambino&fulltext=1&ns0=1',
+        source: 'Wikipedia',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
+      },
     ],
     relatedIds: ['radio-prl', 'zycie-codzienne', 'mebloscianka'],
   },
@@ -25594,6 +26308,8 @@ To jeden z najbardziej charakterystycznych i kultowych bohaterów polskiego kina
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Państwowa Komunikacja Samochodowa obsługiwała autobusowy transport dalekobieżny i lokalny; dla wielu wsi PKS był jedynym połączeniem ze światem.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Neon_PKS_Dworzec_Wroc%C5%82aw.jpg?width=800',
+    imageCaption: 'PKS',
     content: `## PKS
 Państwowa Komunikacja Samochodowa (PKS) obsługiwała autobusowy transport dalekobieżny i lokalny w całym kraju.
 
@@ -25932,6 +26648,8 @@ To jeden z klasyków polskiej szkoły filmowej i mistrzowski popis kina kameraln
     yearStart: 1959,
     yearEnd: 1974,
     summary: 'Pierwszy polski girlsband, założony w 1959 w szczecińskim technikum; u szczytu popularności „Batumi” nuciła cała Polska, a o zespole pisał „Billboard”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Filipinki_1966.jpg?width=800',
+    imageCaption: 'Filipinki',
     content: `## Zespół
 Filipinki to pierwszy polski girlsband, założony w 1959 roku w szczecińskim technikum przez nauczyciela Jana Janikowskiego.
 
@@ -26597,6 +27315,8 @@ To klasyk komedii „kina Barei”, pełen kultowych scen.`,
     yearStart: 1962,
     yearEnd: 1989,
     summary: 'Wokalistka rock and rolla i big-beatu, „dziewczyna z gitarą”; z Czerwono-Czarnymi nagrała przebój „Malowana lala”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Karin_Stanek%2C_1967_r.jpg?width=800',
+    imageCaption: 'Karin Stanek',
     content: `## Sylwetka
 Karin Stanek (1943–2011) to wokalistka rock and rolla i big-beatu, zwana „dziewczyną z gitarą”.
 
@@ -28211,6 +28931,8 @@ To najgłośniejszy polski „półkownik” i wstrząsające świadectwo stalin
     yearStart: 1976,
     yearEnd: 1989,
     summary: 'Półkowniki to filmy, których rozpowszechnianie wstrzymała cenzura – kładziono je „na półkę”; najwięcej trafiło tam po wprowadzeniu stanu wojennego.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Archiv_DIAF_%2802%29.JPG?width=800',
+    imageCaption: 'Półkowniki',
     content: `## Nazwa
 „Półkownik” to żartobliwe określenie filmu, którego rozpowszechnianie wstrzymano – dzieło trafiało „na półkę” zamiast na ekrany.
 
