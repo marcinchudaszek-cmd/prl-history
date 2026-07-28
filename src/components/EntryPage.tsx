@@ -27,7 +27,16 @@ function renderContent(text: string) {
   };
 
   for (const line of lines) {
-    if (line.startsWith('**') && line.endsWith('**') && line.length > 4) {
+    // Nagłówki markdown (## Sekcja) – używane w większości haseł
+    const md = line.match(/^(#{1,4})\s+(.*)$/);
+    if (md) {
+      flushList();
+      elements.push(
+        <h4 key={key++} className="text-base font-bold text-gray-900 mt-6 mb-2 pb-1 border-b border-stone-100">
+          {renderInline(md[2])}
+        </h4>
+      );
+    } else if (line.startsWith('**') && line.endsWith('**') && line.length > 4) {
       flushList();
       const content = line.slice(2, -2);
       elements.push(
