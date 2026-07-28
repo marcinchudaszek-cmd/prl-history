@@ -912,6 +912,7 @@ Rządy Gomułki zakończyła krwawa masakra Grudnia 1970 na Wybrzeżu. Skompromi
 
 ## Ocena
 Gomułka pozostaje symbolem zmarnowanych nadziei 1956 roku – polityka, który od reformatora przeszedł do roli twardego, oderwanego od społeczeństwa przywódcy.`,
+    trivia: ['W latach 1951–1954 był więziony przez własną partię, by po Październiku 1956 wrócić jako przywódca.', 'Odsunięto go od władzy po masakrze na Wybrzeżu w grudniu 1970.'],
     resources: [
       {
         id: 'gom-1',
@@ -1037,6 +1038,7 @@ Jaruzelski był jednym z architektów pokojowej transformacji w 1989 roku. Jako 
 
 **Procesy i oskarżenia:**
 W 2008 roku prokuratura IPN oskarżyła Jaruzelskiego o wydanie bezprawnych rozkazów w stanie wojennym. Procesy nie zakończyły się wyrokiem ze względu na stan zdrowia oskarżonego.`,
+    trivia: ['Wprowadzenie stanu wojennego ogłosił w telewizyjnym przemówieniu 13 grudnia 1981.', 'W 1989 roku został pierwszym i jedynym prezydentem PRL.'],
     resources: [
       {
         id: 'jar-1',
@@ -1093,6 +1095,7 @@ Współprzewodniczył obradom Okrągłego Stołu (1989), a w 1990 roku został w
 
 ## Znaczenie
 Wałęsa to jedna z najważniejszych postaci najnowszej historii Polski – symbol zwycięstwa Solidarności, choć jego rola i biografia bywają przedmiotem sporów.`,
+    trivia: ['Był elektrykiem w Stoczni Gdańskiej, zanim stanął na czele strajku.', 'Pokojową Nagrodę Nobla odebrała w jego imieniu żona Danuta – obawiał się, że nie zostanie wpuszczony z powrotem do kraju.'],
     resources: [
       {
         id: 'wal-1',
@@ -1168,6 +1171,7 @@ Bierut zmarł w 1956 roku w Moskwie, podczas XX Zjazdu KPZR, na którym Chruszcz
 
 ## Ocena
 Bierut pozostaje symbolem stalinizmu w Polsce – okresu terroru i całkowitego podporządkowania kraju Moskwie.`,
+    trivia: ['Formalnie bezpartyjny prezydent, w rzeczywistości przywódca komunistów.', 'Zmarł w Moskwie w 1956 roku, tuż po XX Zjeździe KPZR.'],
     resources: [
       {
         id: 'bie-1',
@@ -1667,6 +1671,7 @@ LWP łączyło rolę armii z funkcją narzędzia systemu – pozostaje symbolem 
 **Rola mediatora** — Prymas odgrywał rolę stabilizatora w kolejnych kryzysach politycznych: Październiku 1956, Marcu 1968, Grudniu 1970 i Czerwcu 1976. W sierpniu 1980 r. popierał prawo robotników do wolnych związków zawodowych, jednocześnie wzywając do odpowiedzialności i spokoju.
 
 **Śmierć i beatyfikacja** — Stefan Wyszyński zmarł 28 maja 1981 r. w Warszawie. Beatyfikowany przez papieża Franciszka 12 września 2021 r. Tytuł „Prymasa Tysiąclecia" nadany mu przez Jana Pawła II oddaje wyjątkową rolę w zachowaniu tożsamości narodowej Polaków.`,
+    trivia: ['Był więziony przez władze w latach 1953–1956.', 'Przygotował Wielką Nowennę – dziewięcioletni program przed Milenium Chrztu Polski.'],
     resources: [
       {
         id: 'wyszynski-1',
@@ -2091,6 +2096,7 @@ ZOMO rozwiązano na przełomie 1989 i 1990 roku wraz z reformą milicji i przeks
 **„Gruba kreska"** — W exposé z 24 sierpnia 1989 r. Mazowiecki zapowiedział, że rząd „odcina się grubą kreską od przeszłości". Polityka ta była warunkiem pokojowego przekazania władzy, lecz krytykowana przez część opozycji jako zbyt łagodna wobec nomenklatury.
 
 **Po premieraturze** — W wyborach prezydenckich 1990 r. przegrał w pierwszej turze ze Stanisławem Tymińskim. Był Specjalnym Sprawozdawcą ONZ ds. praw człowieka w Jugosławii (1992–1995), skąd zrezygnował w proteście wobec masakry w Srebrenicy. Zm. 28 października 2013 r. w Warszawie.`,
+    trivia: ['Został pierwszym niekomunistycznym premierem w bloku wschodnim.', 'Podczas exposé zasłabł; wrócił na mównicę i porównał się do biegacza, któremu zabrakło sił.'],
     resources: [
       {
         id: 'mazowiecki-1',
@@ -3717,6 +3723,7 @@ Miłosz wrócił do Polski po raz pierwszy w 1981 roku – owacja na Wawelu był
 ### Spuścizna
 
 Miłosz jest autorem „Traktatu moralnego", „Ziemi Ulro", „Roku myśliwego" i setek wierszy. Jest poetą nadziei i bólu, świadkiem stulecia totalitaryzmów, który zachował humanistyczną wiarę w słowo i piękno.`,
+    trivia: ['Nagrodę Nobla otrzymał w 1980 roku, gdy w Polsce rodziła się Solidarność.', 'Jego słowa wyryto na pomniku Poległych Stoczniowców w Gdańsku.'],
     resources: [
       {
         id: 'milosz-wl',
@@ -3789,6 +3796,7 @@ W stanie wojennym Herbert opowiadał się wyraźnie po stronie Solidarności. By
 Ostatni zbiór „Epilog burzy" ukazał się pośmiertnie w 1998 roku. Herbert wielokrotnie pisał o starości, śmierci i konieczności zachowania godności do końca.
 
 Jego poezja jest przetłumaczona na kilkadziesiąt języków. Jest to jedna z postaci, które najlepiej reprezentują polską tradycję moralną: opór, pamięć, niezgoda na kłamstwo.`,
+    trivia: ['Stworzył postać Pana Cogito – alter ego myślącego człowieka.', '„Przesłanie Pana Cogito” stało się wierszem-manifestem opozycji.'],
     resources: [
       {
         id: 'herbert-wl',
@@ -3865,6 +3873,7 @@ W stanie wojennym była internowana. Po wyjściu na wolność kontynuowała dzia
 Anna Walentynowicz zginęła 10 kwietnia 2010 roku w katastrofie lotniczej pod Smoleńskiem. Leciała na uroczystości upamiętnienia ofiar zbrodni katyńskiej. Jej śmierć – razem z prezydentem Lechem Kaczyńskim i 94 innymi osobami – była jedną z największych tragedii III Rzeczypospolitej.
 
 Walentynowicz do końca życia czuła, że jest niedoceniana. Historia oddaje jej sprawiedliwość – bez jej zwolnienia i bez strajku sierpniowego, który ono wywołało, historia Polski potoczyłaby się inaczej.`,
+    trivia: ['Jej zwolnienie z pracy stało się bezpośrednią iskrą strajku w sierpniu 1980.', 'Pracowała jako suwnicowa; współtworzyła Wolne Związki Zawodowe.'],
     resources: [
       {
         id: 'walentynowicz-ecs',
@@ -4265,6 +4274,7 @@ W 1989 roku Michnik uczestniczył w obradach Okrągłego Stołu. Latem 1989 r. n
 ### Spuścizna i kontrowersje
 
 Michnik jest symbolem liberalnej lewicy i dialogu. Jego teza o „grubej kresce" – oddzieleniu nowej Polski od rozliczeń z komunizmem – wywołała i wywołuje do dziś ostre spory. Nagrodzony wieloma odznaczeniami i doktoratami honoris causa; przez innych krytykowany za zbyt miękkie traktowanie dawnych komunistów.`,
+    trivia: ['Uczestnik Marca \'68, wielokrotnie więziony w PRL.', 'Napisał „Kościół, lewica, dialog” – książkę o porozumieniu środowisk opozycji.'],
     resources: [
       {
         id: 'michnik-ipn',
@@ -4339,6 +4349,7 @@ Zasłynął z „kuroniówki" – dożywania dla bezrobotnych, którą zorganizo
 ### Spuścizna
 
 Kuroń był człowiekiem pełnym sprzeczności: dawny komunista, który stał się symbolem demokratycznej opozycji; minister transformacji, który najbardziej troszczył się o jej ofiary. Jego myśl pedagogiczna – dać dzieciom wolność i odpowiedzialność – pozostaje aktualna. Odznaczony Orderem Orła Białego, pochowany na Powązkach Wojskowych.`,
+    trivia: ['Za „List otwarty do partii” trafił do więzienia razem z Karolem Modzelewskim.', 'Powtarzał: nie palcie komitetów, zakładajcie własne.'],
     resources: [
       {
         id: 'kuron-ipn',
@@ -4460,6 +4471,7 @@ Osobnym wątkiem były jego powiązania ze służbami – dokumenty IPN wskazuj�
 ### Spuścizna
 
 Kapuściński był wielokrotnie wymieniany jako kandydat do Nagrody Nobla. Stworzył nowy model dziennikarstwa – empatycznego, literackiego, zaangażowanego. Jego szkoła reportażu wychowała pokolenia polskich reporterów.`,
+    trivia: ['Relacjonował dziesiątki przewrotów i rewolucji na świecie.', 'Jego „Cesarza” czytano w Polsce jako aluzję do dworu władzy w PRL.'],
     resources: [
       {
         id: 'kapuscinski-wl',
@@ -4643,6 +4655,7 @@ Rakowski objął stanowisko premiera w październiku 1988 roku. Rządził w najt
 
 **Ostatni I sekretarz PZPR:**
 W lipcu 1989 roku Rakowski objął funkcję I sekretarza KC PZPR – kiedy partia chyliła się ku upadkowi. Przewodził jej rozwiązaniu w January 1990 roku. Na gruzach PZPR powstała Socjaldemokracja Rzeczypospolitej Polskiej (SdRP).`,
+    trivia: ['Przez lata kierował „Polityką”, potem został ostatnim premierem PRL.', 'Jako ostatni I sekretarz ogłosił w 1990 roku rozwiązanie PZPR.'],
     resources: [
       {
         id: 'rakow-1',
@@ -4778,6 +4791,7 @@ Nie była dysydentką, ale jej poezja – kwestionująca pewniki, ironiząca sch
 Nagrodę Nobla odebrała skromnie i ze swoją typową ironią. Na bankiecie noblowskim powiedziała, że jest „nie bardziej skromna od innych poetów, tylko bardziej inteligentna w skromności".
 
 Ostatnie lata życia spędziła w Krakowie, otoczona gronem przyjaciół. Pisała do końca. Jej ostatni tom „Wystarczy" ukazał się pośmiertnie. Pochowana na cmentarzu Rakowickim w Krakowie.`,
+    trivia: ['Nagrodę Nobla otrzymała w 1996 roku.', 'Debiutowała w czasach socrealizmu i po latach odcięła się od tych wierszy.'],
     resources: [
       {
         id: 'szym-wl',
@@ -4842,6 +4856,7 @@ Bronisław Geremek zginął 13 lipca 2008 roku w wypadku samochodowym pod Lubine
 ### Spuścizna
 
 Geremek łączył w sobie rzadką kombinację: wybitny uczony i skuteczny polityk. Jego zaangażowanie w historię marginesu społecznego współgrało z jego praktyką polityczną – zawsze po stronie słabszych, zawsze z imperatywem etycznym.`,
+    trivia: ['Mediewista, który został jednym z głównych doradców Solidarności.', 'Kierował zespołem opozycji przy stole politycznym Okrągłego Stołu.'],
     resources: [
       {
         id: 'geremek-ipn',
@@ -5285,6 +5300,7 @@ Po 1989 roku Wajda stworzył „Pierścionek z orłem w koronie" (1993), „Pan 
 ### Znaczenie
 
 Wajda nauczył świat patrzeć na Polskę przez pryzmat jej tragicznej historii. Był sumieniem polskiego kina i moralnym autorytetem. Odznaczony Orderem Orła Białego, pochowany z honorami na Skałce w Krakowie.`,
+    trivia: ['W 2000 roku odebrał Oscara za całokształt twórczości.', '„Człowiek z marmuru” i „Człowiek z żelaza” to jego zapis dwóch epok PRL.'],
     resources: [
       {
         id: 'wajda-ninateka',
@@ -5711,6 +5727,7 @@ Cyrankiewicz był premierem w latach 1947–1952 i ponownie 1954–1970 – łą
 ## Upadek i zapomnienie
 
 Grudzień 1970 r. – masakra na Wybrzeżu – przyspieszył jego odejście z centrum władzy. Cyrankiewicz objął stanowisko przewodniczącego Rady Państwa (1970–1972), a następnie odszedł w cień. Gierek wypchnął stare twarze systemu. Cyrankiewicz dożył 1989 r., widząc koniec systemu, który przez dekady współtworzył.`,
+    trivia: ['Był premierem przez niemal dwadzieścia lat – najdłużej w historii Polski.', 'Po Poznańskim Czerwcu 1956 groził odrąbaniem ręki podniesionej na władzę ludową.'],
     resources: [
       {
         id: 'cyr-1',
@@ -7157,6 +7174,7 @@ W 1947 r. UB aresztowało Pileckiego. Po brutalnym śledztwie, w którym stosowa
 ## Rehabilitacja i pamięć
 
 Pilecki został zrehabilitowany dopiero po 1989 r. W 2006 r. pośmiertnie odznaczono go Orderem Orła Białego. Jego historia – przez dekady przemilczana w PRL – jest dziś symbolem heroizmu i ofiary polskiego podziemia.`,
+    trivia: ['Dobrowolnie dał się uwięzić w Auschwitz, by zorganizować tam konspirację.', 'Skazany na śmierć i stracony w 1948 roku; wyrok unieważniono dopiero po 1989.'],
     resources: [
       {
         id: 'pilecki-1',
@@ -7404,6 +7422,7 @@ II Korpus Polski pod dowództwem Andersa przeszedł szlak bojowy przez:
 ## Emigracja i PRL
 
 Po wojnie Anders i żołnierze II Korpusu nie wrócili do Polski, którą rządziły sowieckie marionetki. Osiedlili się głównie w Wielkiej Brytanii. PRL pozbawiła Andersa obywatelstwa i odznaczeń. Zrehabilitowany pośmiertnie w 1989 r. Anders jest dziś symbolem polskiego czynu zbrojnego na Zachodzie.`,
+    trivia: ['Dowodził armią utworzoną z Polaków zwolnionych z sowieckich łagrów.', 'W 1946 roku władze w Warszawie pozbawiły go polskiego obywatelstwa.'],
     resources: [
       {
         id: 'anders-1',
@@ -7951,6 +7970,7 @@ Tischner był kapłanem krakowskim związanym z Tygodnikiem Powszechnym i środo
 ## Dziedzictwo
 
 Tischner zachorował na raka mózgu i umarł w 2000 r. Jego twórczość – "Myślenie według wartości", "Historia filozofii po góralsku" – jest dziś szeroko czytana. Instytut Myśli Józefa Tischnera działa w Krakowie.`,
+    trivia: ['Był kapelanem Solidarności i filozofem dialogu.', 'Napisał „Historię filozofii po góralsku” – gwarą podhalańską.'],
     resources: [
       {
         id: 'tischner-1',
@@ -8138,6 +8158,7 @@ Kisielewski pisał powieści obyczajowe i polityczne – czytane chętnie, częs
 ## Dziedzictwo
 
 Kisielewski reprezentował w PRL-u coś rzadkiego: liberalny, antysocjalistyczny światopogląd wyrażany publicznie z odwagą i humorem. Do dziś jego cytaty krążą w polskim internecie jako celne diagnozy systemów totalitarnych.`,
+    trivia: ['Cenzurę nazwał publicznie „dyktaturą ciemniaków”.', 'Wkrótce potem został pobity przez „nieznanych sprawców”.'],
     resources: [
       {
         id: 'kisiel-1',
@@ -8319,6 +8340,7 @@ Po wyborach czerwcowych 1989 r. Kiszczak przez kilka dni był formalnie desygnow
 ## Procesy i śmierć
 
 Po 1989 r. Kiszczak był wielokrotnie oskarżany – o udział w wprowadzeniu stanu wojennego, o odpowiedzialność za śmierć górników z Wujka. Procesy ciągnęły się latami; żaden nie zakończył się prawomocnym wyrokiem skazującym przed jego śmiercią w 2015 r. Kontrowersje dotyczące oceny jego roli trwają do dziś.`,
+    trivia: ['Jako szef MSW odpowiadał za aparat represji stanu wojennego.', 'Kilka lat później prowadził z opozycją rozmowy w Magdalence.'],
     resources: [
       {
         id: 'kiszczak-1',
@@ -8751,6 +8773,7 @@ Po powrocie Hermaszewski otrzymał tytuł Bohatera Związku Radzieckiego (jako p
 **Dziedzictwo**
 
 Hermaszewski jest jedynym Polakiem w kosmosie – Polska od lat nie uczestniczyła w programach kosmicznych z udziałem człowieka. Wstąpienie do ESA dało nowe możliwości, jednak do 2024 roku żaden Polak nie wrócił na orbitę. Hermaszewski inspirował pokolenia Polaków do zainteresowania nauką i astronomią.`,
+    trivia: ['Pierwszy i dotąd jedyny Polak, który poleciał w kosmos.', 'Lot odbył się w 1978 roku w ramach programu Interkosmos.'],
     resources: [
       {
         id: 'hermaszewski-film',
@@ -9100,6 +9123,7 @@ Bujak był jednym z negocjatorów ze strony opozycji przy Okrągłym Stole (1989
 **Symbol i dziedzictwo**
 
 Zbigniew Bujak jest symbolem oporu i wytrwałości – człowiek, który przez 4,5 roku chodził po wolności tuż obok policji totalitarnego państwa i nie dał się schwytać. Jego historia inspiruje i pokazuje, że nawet w warunkach brutalnej dyktatury można skutecznie działać, mając wsparcie społeczeństwa.`,
+    trivia: ['Ukrywał się przed Służbą Bezpieczeństwa ponad cztery lata.', 'Kierował podziemną Solidarnością regionu Mazowsze.'],
     resources: [
       {
         id: 'bujak-ipn',
@@ -9530,6 +9554,7 @@ W 1994 roku Kieślowski ogłosił, że rezygnuje z reżyserii. W 1996 roku zmar�
 ### Znaczenie
 
 Kieślowski pokazał, że kino może być filozofią. Jego filmy pytają o sens życia, wolną wolę i moralność bez udzielania prostych odpowiedzi. Polska tradycja dokumentalna stała się przez niego szkołą humanizmu dla całego świata.`,
+    trivia: ['Zaczynał od dokumentu, który porzucił z powodów etycznych – bał się wkraczania w cudze życie.', 'Później stworzył „Dekalog” i „Trzy kolory”.'],
     resources: [
       {
         id: 'kieslowski-ninateka',
@@ -10531,6 +10556,7 @@ Jego eseje – ostre, eleganckie, pełne humoru i filozoficznej precyzji – by�
 ### Powrót i ostatnie lata
 
 Kołakowski odwiedzał Polskę po 1989 roku. Był uhonorowany wieloma nagrodami, w tym Nagrodą Kluge (2003) – "humanistyczny odpowiednik Nobla". Zmarł w Oksfordzie w 2009 roku.`,
+    trivia: ['Po Marcu \'68 usunięto go z uniwersytetu; wyemigrował.', 'Napisał „Główne nurty marksizmu” – krytykę systemu od środka.'],
     resources: [
       {
         id: 'kolakowski-polona',
@@ -10715,6 +10741,7 @@ W twórczości Kaczmarskiego powracały motywy historii, tyranii i wolności –
 ## Dziedzictwo
 
 Kaczmarski pozostaje jednym z najważniejszych głosów polskiej kultury niezależnej. Jego pieśni śpiewane są do dziś, a „Mury” stały się symbolem walki o wolność wykraczającym poza polski kontekst.`,
+    trivia: ['Jego „Mury” stały się nieoficjalnym hymnem Solidarności.', 'Melodię zapożyczył z pieśni katalońskiego barda Lluísa Llacha.'],
     resources: [
       {
         id: 'kacz-yt',
@@ -13680,6 +13707,7 @@ Penderecki komponował opery, symfonie i muzykę filmową (jego dzieła wykorzys
 
 ## Znaczenie
 Pozostaje jednym z symboli polskiej kultury wysokiej, dowodem, że mimo żelaznej kurtyny polska sztuka mogła współtworzyć światową awangardę.`,
+    trivia: ['Napisał „Tren – ofiarom Hiroszimy”, jedno z najgłośniejszych dzieł XX wieku.', 'Skomponował „Lacrimosę” na odsłonięcie pomnika Poległych Stoczniowców.'],
     resources: [
       {
         id: 'pen-yt',
@@ -13757,6 +13785,7 @@ Od lat 60. rozwijał technikę aleatoryzmu kontrolowanego. III Symfonia (1983) u
 
 ## Postawa
 W latach 80. wspierał opozycję i bojkotował oficjalne media po wprowadzeniu stanu wojennego. Pozostaje symbolem artystycznej i moralnej niezależności.`,
+    trivia: ['Zaliczany do najwybitniejszych kompozytorów XX wieku.', 'Po 13 grudnia 1981 zbojkotował oficjalne życie muzyczne w kraju.'],
     resources: [
       {
         id: 'lut-yt',
@@ -13832,6 +13861,7 @@ W PRL współpracował z „Tygodnikiem Powszechnym”, KOR i opozycją demokrat
 
 ## Autorytet
 Po 1989 roku pełnił funkcję ministra spraw zagranicznych. Pozostaje symbolem prawości, dialogu polsko-żydowskiego i pojednania polsko-niemieckiego.`,
+    trivia: ['Był więźniem Auschwitz, żołnierzem AK, a po wojnie więźniem stalinowskim.', 'Otrzymał tytuł Sprawiedliwego wśród Narodów Świata.'],
     resources: [
       {
         id: 'bar-1',
@@ -13891,6 +13921,7 @@ Mimo emigracji Giedroyc utrzymywał kontakt z opozycją w PRL, wspierał drugi o
 
 ## Znaczenie
 Uznawany za jednego z najważniejszych Polaków XX wieku, ukształtował niezależną myśl polityczną i kulturę poza zasięgiem cenzury.`,
+    trivia: ['Redagował paryską „Kulturę” przez ponad pół wieku.', 'Sformułował program pojednania Polski z Ukrainą, Litwą i Białorusią.'],
     resources: [
       {
         id: 'gie-1',
@@ -13950,6 +13981,7 @@ Przez lata tworzył „Dziennik pisany nocą” – wybitne dzieło eseistyczne 
 
 ## Znaczenie
 Herling-Grudziński należy do najważniejszych pisarzy polskich XX wieku, a jego świadectwo o łagrach pozostaje fundamentem pamięci o zbrodniach komunizmu.`,
+    trivia: ['„Inny Świat” to jego relacja z sowieckiego łagru.', 'Współtworzył Instytut Literacki – wydawcę paryskiej „Kultury”.'],
     resources: [
       {
         id: 'hg-1',
@@ -14011,6 +14043,7 @@ Dopiero po latach, m.in. dzięki czeskim dokumentalistom i odzyskanym nagraniom,
 
 ## Znaczenie
 Protest Siwca – wcześniejszy niż głośne samospalenie Jana Palacha w Pradze – jest dziś upamiętniany jako akt heroicznej odwagi i moralnego świadectwa.`,
+    trivia: ['Podpalił się w 1968 roku w proteście przeciw inwazji na Czechosłowację.', 'Jego czyn przemilczano; ocalało jednak nagranie filmowe.'],
     resources: [
       {
         id: 'siw-1',
@@ -14062,6 +14095,7 @@ Aresztowany w 1982 roku, był wielokrotnie skazywany i więziony. Mimo represji 
 
 ## Znaczenie
 Frasyniuk należy do grona najważniejszych przywódców opozycji lat 80., uczestnik obrad Okrągłego Stołu i postać aktywna w życiu publicznym po 1989 roku.`,
+    trivia: ['Po 13 grudnia 1981 ukrywał się i kierował podziemiem na Dolnym Śląsku.', 'W latach 80. był wielokrotnie aresztowany i skazywany.'],
     resources: [
       {
         id: 'fra-1',
@@ -14123,6 +14157,7 @@ W latach 70. i 80. zaangażował się w działalność opozycyjną – współpr
 
 ## Znaczenie
 Marek Edelman pozostaje symbolem odwagi, wierności wartościom i niezależnego myślenia – łącznikiem między pamięcią o Zagładzie a walką o wolną Polskę.`,
+    trivia: ['Był ostatnim żyjącym przywódcą powstania w getcie warszawskim.', 'Po wojnie został wybitnym kardiologiem i wspierał opozycję.'],
     resources: [
       {
         id: 'ede-1',
@@ -14730,6 +14765,7 @@ Zginął tragicznie w 1967 roku, wskakując do ruszającego pociągu na dworcu w
 
 ## Znaczenie
 Cybulski pozostaje symbolem polskiej szkoły filmowej i jednym z najważniejszych aktorów w historii rodzimego kina; jego pamięci poświęcono nagrodę filmową.`,
+    trivia: ['Nazywano go polskim Jamesem Deanem.', 'Zginął w 1967 roku, wskakując do ruszającego pociągu.'],
     resources: [
       {
         id: 'cyb-1',
@@ -14791,6 +14827,7 @@ Występował w filmach i Teatrze Telewizji, docierając do masowej widowni. Jego
 
 ## Znaczenie
 Holoubek to symbol ambitnego, zaangażowanego aktorstwa; jego nazwisko łączy historię sztuki z dramatycznymi wydarzeniami politycznymi PRL.`,
+    trivia: ['Jego rola w „Dziadach” Dejmka stała się iskrą Marca \'68.', 'Był aktorem i dyrektorem najważniejszych warszawskich teatrów.'],
     resources: [
       {
         id: 'hol-1',
@@ -14858,6 +14895,7 @@ Była związana ze Studenckim Teatrem Satyryków (STS) i warszawskim środowiski
 
 ## Znaczenie
 Osiecka to jedna z najważniejszych postaci polskiej kultury XX wieku; jej teksty na trwałe weszły do kanonu i wciąż są wykonywane.`,
+    trivia: ['Napisała teksty do kilku tysięcy piosenek.', 'Współpracowała m.in. z Marylą Rodowicz i Ewą Demarczyk.'],
     resources: [
       {
         id: 'osi-1',
@@ -14919,6 +14957,7 @@ Piosenka „Róbmy swoje” (1986) niosła przesłanie wytrwałości i godności
 
 ## Znaczenie
 Młynarski to klasyk polskiej piosenki autorskiej, łączący rozrywkę z refleksją; jego teksty pozostają wzorem językowej maestrii.`,
+    trivia: ['Mistrz piosenki z drugim dnem, omijającej cenzurę.', 'Napisał m.in. „Jesteśmy na wczasach” i „W Polskę idziemy”.'],
     resources: [
       {
         id: 'mly-yt',
@@ -14994,6 +15033,7 @@ Audycje RWE informowały o wydarzeniach przemilczanych w kraju, wspierały opozy
 
 ## Znaczenie
 Po 1989 roku powrócił do Polski jako autorytet moralny i orędownik wejścia kraju do NATO. Pozostaje symbolem niezłomnej służby Polsce.`,
+    trivia: ['Jako „Kurier z Warszawy” przewoził meldunki do Londynu.', 'Przez lata kierował Rozgłośnią Polską Radia Wolna Europa.'],
     resources: [
       {
         id: 'njz-1',
@@ -15807,6 +15847,7 @@ Zanussi zdobył międzynarodowe uznanie i nagrody na festiwalach. Kierował Zesp
 
 ## Znaczenie
 Krzysztof Zanussi to jeden z najważniejszych polskich reżyserów, symbol kina ambitnego, intelektualnego i zaangażowanego moralnie.`,
+    trivia: ['Z wykształcenia jest fizykiem i filozofem.', 'Twórca kina intelektualnego – „Struktury kryształu” i „Barw ochronnych”.'],
     resources: [
       {
         id: 'zan-1',
@@ -15876,6 +15917,7 @@ Zginął w 1961 roku w wypadku samochodowym podczas realizacji „Pasażerki” 
 
 ## Znaczenie
 Andrzej Munk pozostaje jednym z najwybitniejszych polskich reżyserów, twórcą krytycznego, intelektualnego nurtu rodzimego kina.`,
+    trivia: ['Zginął w wypadku samochodowym podczas kręcenia „Pasażerki”.', 'Wniósł do polskiej szkoły filmowej ironię i dystans.'],
     resources: [
       {
         id: 'mun2-1',
@@ -15945,6 +15987,7 @@ Has budował niepowtarzalne, gęste od detali światy, w których czas i przestr
 
 ## Znaczenie
 Wojciech Has to jeden z najbardziej oryginalnych polskich reżyserów, twórca kina wyobraźni o trwałym, międzynarodowym oddziaływaniu.`,
+    trivia: ['Mistrz kina onirycznego – „Rękopisu” i „Sanatorium pod klepsydrą”.', '„Rękopis znaleziony w Saragossie” zyskał na Zachodzie status filmu kultowego.'],
     resources: [
       {
         id: 'has-1',
@@ -16140,6 +16183,7 @@ Pod koniec kariery wyjechał do angielskiego Manchesteru City, a potem do USA. Z
 
 ## Znaczenie
 Deyna pozostaje ikoną polskiej piłki, symbolem futbolowej elegancji; jego numer i nazwisko są legendą Legii Warszawa i reprezentacji.`,
+    trivia: ['Był rozgrywającym złotej drużyny Kazimierza Górskiego.', 'Grał później w Manchesterze City – w czasach PRL to rzadkość.'],
     resources: [
       {
         id: 'dey-1',
@@ -16258,6 +16302,7 @@ W realiach PRL jego sztuka, daleka od socrealizmu i polityki, zyskała popularno
 
 ## Znaczenie
 Beksiński to fenomen polskiej sztuki – artysta osobny, którego wizyjne malarstwo do dziś fascynuje widzów na całym świecie.`,
+    trivia: ['Nie nadawał tytułów swoim obrazom, by nie narzucać interpretacji.', 'Zginął zamordowany w 2005 roku.'],
     resources: [
       {
         id: 'bek-1',
@@ -16758,6 +16803,7 @@ W 1963 roku wyjechał z Polski i przez lata tworzył na emigracji (we Włoszech,
 
 ## Znaczenie
 Mrożek to klasyk literatury XX wieku; jego „Tango” należy do kanonu dramatu, a styl – do najbardziej rozpoznawalnych w polskiej kulturze.`,
+    trivia: ['Autor „Tanga” – jednej z najczęściej granych polskich sztuk.', 'Po 1968 roku pozostał na emigracji, protestując przeciw inwazji na Czechosłowację.'],
     resources: [
       {
         id: 'mro-1',
@@ -16817,6 +16863,7 @@ W PRL jego twórczość była przez długi czas zakazana lub ograniczana; krąż
 
 ## Znaczenie
 Gombrowicz to klasyk literatury światowej, wielokrotnie wymieniany jako kandydat do Nagrody Nobla; jego wpływ na polską i europejską kulturę pozostaje ogromny.`,
+    trivia: ['Wypłynął do Argentyny na kilka dni przed wybuchem wojny i został tam ponad dwadzieścia lat.', 'Jego „Dziennik” ukazywał się w paryskiej „Kulturze”.'],
     resources: [
       {
         id: 'gom-1',
@@ -16878,6 +16925,7 @@ Prowadził burzliwe, tułacze życie w Izraelu, Niemczech i USA. Zmarł młodo w
 
 ## Znaczenie
 Hłasko pozostaje symbolem literackiego buntu i nonkonformizmu, a jego proza – świadectwem rozczarowania pokolenia odwilży.`,
+    trivia: ['Uchodził za polskiego Jamesa Deana literatury.', 'Nie wrócił z wyjazdu na Zachód w 1958 roku; zmarł na emigracji.'],
     resources: [
       {
         id: 'hla-1',
@@ -16939,6 +16987,7 @@ Różewicz tworzył przez całą epokę PRL, zachowując niezależność artysty
 
 ## Znaczenie
 Należy do najwybitniejszych twórców polskiej literatury; jego poezja i dramaturgia wywarły ogromny wpływ na kolejne pokolenia.`,
+    trivia: ['Tworzył poezję „ocalonego” – pisaną po doświadczeniu wojny.', 'Odrzucił rym i regularny rytm, szukając języka po katastrofie.'],
     resources: [
       {
         id: 'roz-1',
@@ -17008,6 +17057,7 @@ W kolejnych latach nie powtórzył tego sukcesu, a jego kariera bywała burzliwa
 
 ## Znaczenie
 Wojciech Fortuna jest pionierem polskich sukcesów w skokach narciarskich, prekursorem późniejszej „małyszomanii” i bohaterem sportowej historii PRL.`,
+    trivia: ['W 1972 roku zdobył pierwsze polskie złoto olimpijskie w skokach narciarskich.', 'Był to jedyny wielki sukces w jego karierze.'],
     resources: [
       {
         id: 'for-1',
@@ -17336,6 +17386,7 @@ Wcześniej tworzył cenione filmy dokumentalne. Po latach zrealizował też „O
 
 ## Znaczenie
 Hoffman dał polskiej publiczności wielkie kino historyczne, które krzepiło narodową wyobraźnię i pozostaje klasyką rodzimej kinematografii.`,
+    trivia: ['Wyreżyserował „Znachora” i ekranizacje Sienkiewicza.', 'Jego „Potop” otrzymał nominację do Oscara.'],
     resources: [
       {
         id: 'hof-1',
@@ -17405,6 +17456,7 @@ W latach 60. Polański wyjechał z Polski i kontynuował karierę za granicą, w
 
 ## Znaczenie
 Dla kina PRL Polański to symbol talentu, który zaistniał na świecie; jego polski debiut pozostaje kamieniem milowym rodzimej kinematografii.`,
+    trivia: ['Debiutował „Nożem w wodzie” – pierwszym polskim filmem nominowanym do Oscara.', 'Karierę kontynuował na Zachodzie.'],
     resources: [
       {
         id: 'pol-1',
@@ -17474,6 +17526,7 @@ W czasach niedoboru rozrywek Szurkowski był sportowym idolem, a transmisje z je
 
 ## Znaczenie
 Ryszard Szurkowski to legenda polskiego kolarstwa i symbol sportowych sukcesów PRL, inspiracja dla kolejnych pokoleń zawodników.`,
+    trivia: ['Dwukrotnie wygrał Wyścig Pokoju.', 'Uznano go za najlepszego polskiego kolarza XX wieku.'],
     resources: [
       {
         id: 'szu-1',
@@ -17533,6 +17586,7 @@ Glemp uczestniczył w procesie prowadzącym do obrad Okrągłego Stołu, a Kośc
 
 ## Znaczenie
 Jako prymas przełomu Józef Glemp odegrał ważną rolę w pokojowym przejściu Polski od PRL do demokracji, kontynuując dzieło prymasa Wyszyńskiego.`,
+    trivia: ['Objął urząd prymasa tuż przed wprowadzeniem stanu wojennego.', 'Uczestniczył w przygotowaniach do rozmów Okrągłego Stołu.'],
     resources: [
       {
         id: 'gle-1',
@@ -17586,6 +17640,7 @@ Grała w teatrze i filmach, m.in. u Andrzeja Wajdy („Ziemia obiecana”). Twor
 
 ## Znaczenie
 Kalina Jędrusik pozostaje ikoną kultury PRL i symbolem kobiecej niezależności oraz artystycznej odwagi w czasach obyczajowych ograniczeń.`,
+    trivia: ['Uchodziła za pierwszy polski sex symbol.', 'Jej występy bywały zdejmowane z anteny jako „gorszące”.'],
     resources: [
       {
         id: 'kj-1',
@@ -17903,6 +17958,7 @@ W 1953 roku skazano go na karę śmierci i stracono przez powieszenie. Był to t
 
 ## Pamięć
 Po latach Fieldorfa zrehabilitowano, a jego kaci byli ścigani. Generał „Nil” pozostaje symbolem żołnierzy wyklętych i ofiar stalinowskiego terroru.`,
+    trivia: ['Dowodził Kedywem – pionem dywersji Armii Krajowej.', 'Skazany na śmierć w sfingowanym procesie i stracony w 1953 roku.'],
     resources: [
       {
         id: 'fn-1',
@@ -17954,6 +18010,7 @@ Przed egzekucją w grypsie napisała słynne słowa: „powiedzcie mojej babci, 
 
 ## Pamięć
 Długo poszukiwano jej szczątków, odnalezionych po latach. „Inka” stała się symbolem heroizmu i tragedii najmłodszego pokolenia żołnierzy wyklętych.`,
+    trivia: ['Sanitariuszkę podziemia stracono, gdy miała siedemnaście lat.', 'W grypsie napisała, że zachowała się jak trzeba.'],
     resources: [
       {
         id: 'in-1',
@@ -18005,6 +18062,7 @@ Prowadził w swoim mieszkaniu prywatny, awangardowy Teatr Osobny – kameralną,
 
 ## Znaczenie
 Białoszewski na trwałe odmienił polską poezję i prozę, a jego wrażliwość na język i codzienność inspiruje kolejne pokolenia twórców.`,
+    trivia: ['Napisał „Pamiętnik z powstania warszawskiego” – relację zwykłego cywila.', 'Prowadził teatr we własnym mieszkaniu.'],
     resources: [
       {
         id: 'bi-1',
@@ -18064,6 +18122,7 @@ W 1981 roku, u szczytu sławy, zginął tragicznie w wypadku samochodowym, co ws
 
 ## Znaczenie
 Bronisław Malinowski pozostaje legendą polskiej lekkoatletyki; jego imię nosi m.in. stadion w Grudziądzu, a sukcesy są wzorem dla kolejnych pokoleń.`,
+    trivia: ['Zdobył złoto olimpijskie w Moskwie w biegu na 3000 metrów z przeszkodami.', 'Zginął w wypadku samochodowym rok po tym sukcesie.'],
     resources: [
       {
         id: 'bm2-1',
@@ -18123,6 +18182,7 @@ Wokół „Tygodnika” skupiło się wybitne środowisko twórców i myśliciel
 
 ## Znaczenie
 Turowicz to symbol niezależnego dziennikarstwa i katolicyzmu otwartego; jego praca przez dekady podtrzymywała przestrzeń wolnego słowa w PRL.`,
+    trivia: ['Kierował „Tygodnikiem Powszechnym” przez ponad pół wieku.', 'Odmówił druku nekrologu Stalina – pismo zostało za to zamknięte.'],
     resources: [
       {
         id: 'tu-1',
@@ -18462,6 +18522,7 @@ W realiach PRL gest stał się dla Polaków symbolem nieujarzmionej dumy i niezg
 
 ## Znaczenie
 Kozakiewicz pozostaje legendą polskiej lekkoatletyki, a jego gest – jednym z najbardziej rozpoznawalnych symboli sportowego i narodowego buntu epoki.`,
+    trivia: ['Złoto w Moskwie 1980 zdobył, ustanawiając rekord świata.', 'Jego gest wobec gwiżdżącej publiczności obiegł cały świat.'],
     resources: [
       {
         id: 'koz-1',
@@ -18523,6 +18584,7 @@ Przypisuje mu się słynne, obrosłe legendą powiedzenia, jak „Piłka jest ok
 
 ## Znaczenie
 Kazimierz Górski to ikona polskiego sportu i symbol najlepszej epoki rodzimej piłki; jego imię nosi m.in. siedziba polskiej federacji.`,
+    trivia: ['Poprowadził reprezentację po złoto olimpijskie 1972 i brąz mundialu 1974.', 'Powtarzał, że dopóki piłka w grze, wszystko jest możliwe.'],
     resources: [
       {
         id: 'gor2-1',
@@ -18582,6 +18644,7 @@ Dejmek był mistrzem teatru opartego na wielkiej literaturze i tradycji, łącz�
 
 ## Znaczenie
 Dejmek to symbol siły teatru, który – mimo cenzury – potrafił poruszyć sumienia i wpłynąć na bieg historii.`,
+    trivia: ['Jego inscenizację „Dziadów” zdjęto z afisza, co wywołało Marzec \'68.', 'Był jednym z najwybitniejszych reżyserów teatralnych epoki.'],
     resources: [
       {
         id: 'dej-1',
@@ -18635,6 +18698,7 @@ Niektóre jego dzieła, jak „Kompleks polski” i „Mała apokalipsa”, ukaz
 
 ## Znaczenie
 Konwicki to klasyk literatury i kina, mistrz gorzkiej autorefleksji, którego twórczość pozostaje jednym z najcelniejszych portretów PRL.`,
+    trivia: ['Był jednocześnie pisarzem i reżyserem – autorem „Małej apokalipsy”.', 'Jego „Salto” to jeden z najbardziej osobnych filmów PRL.'],
     resources: [
       {
         id: 'kon2-1',
@@ -19030,6 +19094,7 @@ W 1980 roku to on zaproponował nazwę „Solidarność” dla powstającego nie
 
 ## Znaczenie
 Modzelewski łączył naukę z bezkompromisową postawą obywatelską; pozostaje symbolem intelektualisty-opozycjonisty wiernego zasadom.`,
+    trivia: ['Za „List otwarty do partii” trafił do więzienia.', 'To on zaproponował nazwę „Solidarność” dla nowego związku.'],
     resources: [
       {
         id: 'mod-1',
@@ -19089,6 +19154,7 @@ Tragiczna śmierć w 1979 roku ugruntowała legendę „Steda” jako artysty pr
 
 ## Znaczenie
 Stachura pozostaje patronem nonkonformistów i poszukiwaczy wolności; jego twórczość wciąż inspiruje czytelników i muzyków.`,
+    trivia: ['Poeta-włóczęga, kultowy wśród młodzieży lat 70.', 'Zmarł tragicznie w 1979 roku.'],
     resources: [
       {
         id: 'st2-1',
@@ -19140,6 +19206,7 @@ Monar rozrósł się w sieć ośrodków, a Kotański zainicjował kolejne akcje 
 
 ## Znaczenie
 Kotański to pionier nowoczesnej pomocy uzależnionym i wykluczonym w Polsce; jego dzieło przetrwało epokę PRL i działa do dziś.`,
+    trivia: ['Założył Monar, gdy oficjalnie twierdzono, że w Polsce nie ma narkomanii.', 'Stworzył pierwszy ośrodek pomocy dla uzależnionych w kraju.'],
     resources: [
       {
         id: 'kot-1',
@@ -19191,6 +19258,7 @@ Weszła w skład Prezydium Międzyzakładowego Komitetu Strajkowego i była jedn
 
 ## Znaczenie
 Henryka Krzywonos to symbol roli zwykłych ludzi i kobiet w narodzinach Solidarności oraz determinacji, która przesądziła o sukcesie sierpniowego strajku.`,
+    trivia: ['Zatrzymała tramwaj w Gdańsku, wspierając strajk w sierpniu 1980.', 'Zasiadła w prezydium Międzyzakładowego Komitetu Strajkowego.'],
     resources: [
       {
         id: 'kr-1',
@@ -19813,6 +19881,7 @@ Reżyserował także w Teatrze Telewizji, tworząc wybitne spektakle. Po 1989 ro
 
 ## Znaczenie
 Kutz to klasyk polskiego kina i najważniejszy artystyczny ambasador Śląska – regionu, którego tożsamość uczynił tematem uniwersalnym.`,
+    trivia: ['Stworzył śląską trylogię – „Sól ziemi czarnej” i „Perłę w koronie”.', 'Pochodził z Szopienic i opowiadał o Śląsku po swojemu.'],
     resources: [
       {
         id: 'kutz-1',
@@ -19991,6 +20060,7 @@ Jego relacja z remisu 1:1 z Anglią na Wembley, który dał Polsce awans na mund
 
 ## Znaczenie
 Ciszewski ustanowił wzorzec komentarza sportowego; dla pokoleń kibiców jego głos jest nieodłączną ścieżką dźwiękową złotej ery polskiego sportu.`,
+    trivia: ['Legendarny komentator sportowy telewizji PRL.', 'Komentował m.in. mundial 1974 i igrzyska olimpijskie.'],
     resources: [
       {
         id: 'cisz-1',
@@ -20052,6 +20122,7 @@ Słynęła z perfekcyjnej dykcji i interpretacji – znakomicie mówiła wiersze
 
 ## Znaczenie
 Kwiatkowska to legenda polskiej komedii – aktorka, której energia i profesjonalizm pozostają wzorem; pracowała na scenie niemal do setnych urodzin.`,
+    trivia: ['Zagrała Kobietę Pracującą w „Czterdziestolatku”.', 'Jej kwestia o tym, że żadnej pracy się nie boi, weszła do języka.'],
     resources: [
       {
         id: 'kw-1',
@@ -20382,6 +20453,7 @@ W Juventusie Turyn („Bello di notte” – „piękny nocą”, od świetnej g
 
 ## Znaczenie
 Boniek to ikona polskiej piłki, jeden z nielicznych Polaków, którzy osiągnęli sukcesy na najwyższym światowym poziomie klubowym.`,
+    trivia: ['Na mundialu 1982 strzelił trzy gole w jednym meczu z Belgią.', 'Grał później w Juventusie i Romie.'],
     resources: [
       {
         id: 'bon-fp',
@@ -20435,6 +20507,7 @@ Grał także w produkcjach zagranicznych, współpracując z wybitnymi reżysera
 
 ## Znaczenie
 Olbrychski to ikona polskiego kina, łączący role kostiumowe, współczesne i charakterystyczne; jego kreacje należą do kanonu rodzimej kinematografii.`,
+    trivia: ['Zagrał u Wajdy m.in. w „Ziemi obiecanej” i „Weselu”.', 'Był jedną z twarzy polskiego kina lat 70.'],
     resources: [
       {
         id: 'olb-fp',
@@ -20494,6 +20567,7 @@ Stan wojenny zastał ją za granicą; pozostała na emigracji i rozwinęła świ
 
 ## Znaczenie
 Holland to jedna z najważniejszych postaci polskiego i europejskiego kina, łącząca zaangażowanie moralne z mistrzostwem warsztatu.`,
+    trivia: ['Studiowała w Pradze i zetknęła się tam z Praską Wiosną.', 'Jej „Kobieta samotna” trafiła na półkę po 13 grudnia 1981.'],
     resources: [
       {
         id: 'hol-fp',
@@ -20553,6 +20627,7 @@ Na emigracji (od 1981, profesor Harvardu) stworzył wybitne przekłady – Szeks
 
 ## Znaczenie
 Barańczak to jeden z najważniejszych polskich poetów i tłumaczy XX wieku, symbol łączenia literatury z postawą obywatelską.`,
+    trivia: ['Poeta Nowej Fali i wybitny tłumacz Szekspira.', 'Był jednym ze współzałożycieli KOR.'],
     resources: [
       {
         id: 'bar2-1',
@@ -20716,6 +20791,7 @@ Po powrocie do kraju jej życie naznaczyły ekscentryzm i samotność wśród gr
 
 ## Znaczenie
 Villas to jeden z najwybitniejszych głosów w historii polskiej muzyki rozrywkowej – artystka osobna, której talent wykraczał poza ramy epoki.`,
+    trivia: ['Dysponowała głosem o wyjątkowej skali.', 'Występowała w Las Vegas – rzadkość dla artystki z PRL.'],
     resources: [
       {
         id: 'vv-yt',
@@ -20936,6 +21012,7 @@ Przez dziesięciolecia pozostawała wzorem interpretacji i kultury wykonawczej, 
 
 ## Znaczenie
 Irena Santor to symbol najwyższej klasy polskiej piosenki estradowej – artystka, której nagrania weszły do narodowego kanonu.`,
+    trivia: ['Zaczynała jako solistka zespołu Mazowsze.', 'Jej „Powrócisz tu” należy do najbardziej znanych polskich piosenek.'],
     resources: [
       {
         id: 'is-yt',
