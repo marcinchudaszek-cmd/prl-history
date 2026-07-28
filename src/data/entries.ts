@@ -511,6 +511,7 @@ Wyspecjalizowane departamenty zajmowały się Kościołem (Departament IV) oraz 
 
 ## Rozwiązanie i rozliczenia
 SB rozwiązano w 1990 roku, tworząc Urząd Ochrony Państwa. Akta przejął później IPN, a kwestia lustracji i odpowiedzialności funkcjonariuszy pozostaje przedmiotem debat.`,
+    trivia: ['Służba Bezpieczeństwa powstała w 1956 roku w miejsce rozwiązanego UB.', 'Działała w strukturach MSW aż do 1990 roku.'],
     resources: [
       {
         id: 'sb-1',
@@ -1559,6 +1560,7 @@ Po 1956 roku zrezygnowano z masowych egzekucji, ale represje trwały:
 
 **Procesy rehabilitacji:**
 Po 1989 roku IPN wszczął setki śledztw w sprawie zbrodni komunistycznych. Większość sprawców uniknęła kary z powodu przedawnienia lub śmierci.`,
+    trivia: ['Skala represji zmieniała się – od terroru stalinowskiego po inwigilację lat 80.', 'Narzędziem była nie tylko kara, ale i zwolnienie z pracy czy odmowa paszportu.'],
     resources: [
       {
         id: 'rep-1',
@@ -1719,6 +1721,7 @@ LWP łączyło rolę armii z funkcją narzędzia systemu – pozostaje symbolem 
 **Józef Franczak „Lalek"** — Ostatni partyzant Wyklętych. Ukrywał się na Lubelszczyźnie od 1944 r. Zginął w obławie **21 października 1963 r.** — niemal 18 lat po zakończeniu II wojny światowej.
 
 **Represje** — Szacuje się, że w walkach i z wyroków śmierci zginęło ok. 8500 żołnierzy podziemia. Wielu więziono przez dziesięciolecia. Ustawa z 1991 r. zrehabilitowała represjonowanych. Od 2011 r. **1 marca** obchodzony jest Narodowy Dzień Pamięci Żołnierzy Wyklętych.`,
+    trivia: ['Ostatni żołnierz podziemia, Józef Franczak „Lalek”, zginął w 1963 roku.', 'Określenie „żołnierze wyklęci” upowszechniło się dopiero po 1989 roku.'],
     resources: [
       {
         id: 'zw-ipn1',
@@ -1790,6 +1793,7 @@ ZOMO budziło powszechny strach i nienawiść; pogardliwie nazywano jego funkcjo
 
 ## Koniec
 ZOMO rozwiązano na przełomie 1989 i 1990 roku wraz z reformą milicji i przekształceniem jej w policję. Pozostało symbolem przemocy aparatu PRL.`,
+    trivia: ['Zmotoryzowane Odwody Milicji Obywatelskiej utworzono po Poznańskim Czerwcu 1956.', 'Formację rozwiązano dopiero po upadku PRL.'],
     resources: [
       {
         id: 'zomo-1',
@@ -2408,6 +2412,7 @@ Po ujawnieniu zbrodni – m.in. w audycjach zbiegłego na Zachód płk. Józefa 
 
 ## Znaczenie
 UB pozostaje symbolem stalinowskiego terroru – bezwzględnej machiny represji, która złamała zbrojny i polityczny opór wobec komunizmu.`,
+    trivia: ['Ministerstwo Bezpieczeństwa Publicznego rozwiązano w 1954 roku po ucieczce na Zachód płk. Józefa Światły.', 'Aparat bezpieczeństwa rozrósł się do dziesiątek tysięcy funkcjonariuszy i sieci informatorów.'],
     resources: [
       {
         id: 'ub-1',
@@ -2737,6 +2742,7 @@ Milicję wspierała paramilitarna Ochotnicza Rezerwa Milicji Obywatelskiej (ORMO
 
 ## Przekształcenie
 W 1990 roku MO przekształcono w Policję, odcinając się od jej politycznej, represyjnej roli z czasów PRL.`,
+    trivia: ['Milicję Obywatelską powołano dekretem jeszcze w 1944 roku.', 'Rozwiązano ją w 1990 roku, zastępując Policją.'],
     resources: [
       {
         id: 'milicja-1',
@@ -2928,6 +2934,7 @@ Władze komunistyczne chciały nie tylko zwalczyć UPA, ale trwale rozbić ukrai
 
 **Pamięć i ocena:**
 Przez dekady Akcja Wisła była tematem tabu w PRL. Dopiero po 1989 roku możliwa stała się pełna dyskusja historyczna. W 1990 roku Senat RP potępił Akcję Wisłę. W 2021 roku Sejm przyjął uchwałę uznającą ją za zbrodnię.`,
+    trivia: ['W ramach akcji przesiedlono ponad sto tysięcy osób.', 'Ludność rozproszono po Ziemiach Zachodnich i Północnych, by uniemożliwić odtworzenie wspólnot.'],
     resources: [
       {
         id: 'wisla-1',
@@ -3181,6 +3188,7 @@ W okresie Solidarności (1980–1981) groźba interwencji wojsk Układu była je
 
 ## Rozwiązanie
 Układ Warszawski rozwiązano w 1991 roku, wraz z rozpadem bloku wschodniego i ZSRR, co przypieczętowało koniec zimnowojennego podziału Europy.`,
+    trivia: ['Układ podpisano w 1955 roku jako odpowiedź na powstanie NATO.', 'Rozwiązano go w 1991 roku.'],
     resources: [
       {
         id: 'uw-1',
@@ -3359,6 +3367,7 @@ W latach 1968–1970 Polskę opuściło ok. 13 000–15 000 obywateli żydowskie
 
 **Ocalałe społeczności:**
 Po emigracji 1968 roku żydowska społeczność w Polsce została praktycznie zlikwidowana. Przed wojną mieszkało w Polsce ponad 3 miliony Żydów – po Holokauście ok. 250 000. Po kolejnych falach emigracji (1946–1947, 1956–1958, 1968–1970) pozostały zaledwie tysiące.`,
+    trivia: ['Wyjeżdżający otrzymywali dokument podróży bez prawa powrotu do kraju.', 'Polskę opuściło wtedy kilkanaście tysięcy osób pochodzenia żydowskiego.'],
     resources: [
       {
         id: 'em68-1',
@@ -4189,6 +4198,7 @@ Niektórzy internowani, po zwolnieniu, natychmiast wznawiali działalność podz
 ### Sprawa karna po 1989
 
 Po 1989 roku postępowania karne wobec sprawców internowania toczyły się latami – z mizernym skutkiem. Prokuratorzy IPN prowadzili śledztwa, ale rzadko kończyły się wyrokami. Większość sprawców – zarówno decydentów, jak i funkcjonariuszy wykonawczych – uniknęła odpowiedzialności karnej.`,
+    trivia: ['Po 13 grudnia 1981 internowano około dziesięciu tysięcy osób.', 'Ośrodki odosobnienia urządzano w więzieniach i ośrodkach wypoczynkowych.'],
     resources: [
       {
         id: 'intern-ipn',
@@ -5137,6 +5147,7 @@ Szacuje się, że od 1945 do 1989 roku kilkaset tysięcy Polaków wyemigrowało 
 
 **"Solidarnościowa emigracja":**
 Po 13 grudnia 1981 roku wielu działaczy Solidarności, którzy zdołali wyjechać przed ogłoszeniem stanu wojennego, pozostało na Zachodzie. Tworzyli Biuro Koordynacyjne i prowadzili działalność na rzecz podziemnego związku.`,
+    trivia: ['Uciekano podczas wycieczek zagranicznych, na statkach i przez zieloną granicę.', 'Za nielegalne pozostanie za granicą groziły wyrok i konfiskata mienia.'],
     resources: [
       {
         id: 'uciecz-1',
@@ -5406,6 +5417,7 @@ Ciężkie więzienie dla skazanych na długie wyroki. Przebywali tu m.in. Leszek
 
 **Więźniowie polityczni po 1956:**
 Po Październiku 1956 masowy terror zelżał, lecz więzienia polityczne nie zniknęły. W stanie wojennym tysiące działaczy trafiało do aresztów śledczych, a przywódcy opozycji byli skazywani na kilkuletnie wyroki.`,
+    trivia: ['Najcięższą opinię miały więzienia na Mokotowie i we Wronkach.', 'W areszcie przy Rakowieckiej wykonywano wyroki śmierci.'],
     resources: [
       {
         id: 'wiezienia-1',
@@ -5640,6 +5652,7 @@ Obecność PGWN była stałym przypomnieniem ograniczonej suwerenności PRL. W 1
 
 **Wycofanie:**
 Negocjacje o wycofaniu wojsk sowieckich rozpoczęły się w 1990 roku. Ostatni żołnierz sowiecki opuścił Polskę 17 września 1993 roku – data ta była symboliczna, bo 17 września 1939 roku ZSRR zaatakował Polskę.`,
+    trivia: ['Wojska radzieckie stacjonowały w Polsce nieprzerwanie od 1945 roku.', 'Ostatni żołnierze opuścili kraj dopiero w 1993 roku.'],
     resources: [
       {
         id: 'pgwn-1',
@@ -5817,6 +5830,7 @@ Szczyt emigracji przymusowej lub półprzymusowej przypadł na lata 1968 (Marzec
 ## Przełom 1988–1989
 
 Dopiero w 1988 r. złagodzono przepisy, a 1 stycznia 1989 r. weszła w życie nowa ustawa paszportowa zbliżająca PRL do standardów europejskich. Po wyborach 1989 r. swoboda wyjazdów stała się jednym z pierwszych realnych osiągnięć transformacji.`,
+    trivia: ['Paszportu nie trzymało się w domu – po powrocie oddawano go do biura paszportowego.', 'Odmowa wydania nie wymagała żadnego uzasadnienia.'],
     resources: [
       {
         id: 'paszport-1',
@@ -5942,6 +5956,7 @@ Komunistyczne władze zareagowały stosunkowo szybko – część sprawców stan
 ## Emigracja i pamięć
 
 Pogrom kielecki przyspieszyć masową emigrację polskich Żydów na Zachód i do Palestyny. Do 1947 r. Polska opuściło ok. 100 tys. Żydów. Temat przez dekady był w PRL przemilczany lub fałszowany. Po 1989 r. stał się przedmiotem trudnych debat historycznych i moralnych.`,
+    trivia: ['Pogrom wybuchł po fałszywej plotce o porwaniu dziecka.', 'Zginęło ponad czterdzieści osób – to najtragiczniejsze powojenne wydarzenie tego typu w Polsce.'],
     resources: [
       {
         id: 'kielce-1',
@@ -6896,6 +6911,7 @@ Po 1989 r. archiwa SB trafiły częściowo do IPN. Ujawniono setki nazwisk były
 ## Dziedzictwo
 
 Kwestia TW do dziś dzieli polskie społeczeństwo. Jedni domagają się pełnego rozliczenia; inni wskazują, że wiele osób werbowano pod przymusem i nie należy ich traktować jak świadomych zdrajców. Debata o "teczkach" jest nieodłączną częścią polskiej polityki historycznej.`,
+    trivia: ['Współpracowników rejestrowano pod pseudonimami, a akta prowadzono w teczkach.', 'Zachowane materiały trafiły po 1989 roku do archiwum IPN.'],
     resources: [
       {
         id: 'tw-1',
@@ -7755,6 +7771,7 @@ Departament II oficjalnie chronił PRL przed szpiegami zachodnimi. W praktyce za
 ## Po 1989 r.
 
 Część akt wywiadu PRL zniszczono przed przekazaniem do IPN. Zachowane dokumenty odsłoniły skalę penetracji zachodnich instytucji. Lustracja oficerów wywiadu pozostaje politycznie drażliwym tematem.`,
+    trivia: ['Wywiad cywilny działał w I Departamencie MSW.', 'Kontrwywiad tropił przede wszystkim kontakty obywateli z Zachodem.'],
     resources: [
       {
         id: 'wywiad-1',
@@ -8672,6 +8689,7 @@ Terror dotknął również elity: działaczy PSL (Stanisław Mierzwa i inni), po
 **Destalinizacja i rehabilitacje**
 
 Po śmierci Stalina (marzec 1953) represje stopniowo słabły. Przełom nastąpił po XX Zjeździe KPZS (1956) – referat Chruszczowa otworzył falę rehabilitacji. Uwolniono więźniów, zrehabilitowano część ofiar, postawiono przed sądem niektórych funkcjonariuszy UB (m.in. Różański skazany w 1957 roku). Jednak pełna prawda o zbrodniach stalinizmu była oficjalnie przemilczana aż do 1989 roku.`,
+    trivia: ['Wyroki w sprawach politycznych wydawały Wojskowe Sądy Rejonowe.', 'Straconych grzebano potajemnie, często w bezimiennych mogiłach.'],
     resources: [
       {
         id: 'zbrodnie-ipn',
@@ -9449,6 +9467,7 @@ Po 1989 roku ogromna część akt SB trafiła do IPN. Akta mierzą setki kilomet
 **Afera Olina i inne skandale**
 
 Liczne późniejsze odkrycia (np. donos Lecha Wałęsy w latach 70. – sprawa operacyjna "Bolek") pokazują, jak dalece SB penetrowała nawet środowiska opozycyjne. Kwestia agentury Solidarności pozostaje tematem sporów historycznych do dziś.`,
+    trivia: ['Stosowano podsłuchy, tajne przeglądanie korespondencji i szantaż.', 'Osobną specjalnością były działania dezintegracyjne – skłócanie środowisk opozycji.'],
     resources: [
       {
         id: 'sb-metody-ipn',
@@ -9780,6 +9799,7 @@ Ofiarami systemu byli też żołnierze wyklęci – wśród nich Zygmunt Szendzi
 ### Odwilż i rehabilitacje
 
 Po 1956 roku, w wyniku odwilży październikowej, część więźniów politycznych zwolniono i zrehabilitowano. Ale prawdziwe rozliczenie ze zbrodniami stalinizmu nastąpiło dopiero po 1989 roku i jest procesem, który do dziś nie jest zakończony.`,
+    trivia: ['Najbardziej znany był obóz w Jaworznie, urządzony na terenie dawnej filii KL Auschwitz.', 'Osadzano w nim m.in. młodzież i ludność ukraińską.'],
     resources: [
       {
         id: 'obozy-ipn',
@@ -10242,6 +10262,7 @@ Kodeks karny z 1969 roku zawierał przepisy chroniące „ustrój socjalistyczny
 Reforma wymiaru sprawiedliwości po 1989 roku była trudna. Sędziowie, prokuratorzy i prawnicy z PRL w większości pozostali na swoich stanowiskach. Lustracja sądownictwa była minimalna. Procesy karne wobec sędziów wydających wyroki polityczne w PRL toczyły się latami bez rezultatów.
 
 Pytanie o rozliczenie sprawców sądowych zbrodni komunistycznych pozostaje aktualne do dziś.`,
+    trivia: ['Sędziów powoływała i mogła odwołać Rada Państwa.', 'W sprawach politycznych wyroki bywały ustalane poza salą sądową.'],
     resources: [
       {
         id: 'sady-ipn',
@@ -10636,6 +10657,7 @@ W PRL skazano go zaocznie na karę śmierci za zdradę. Po 1989 r. trwał spór 
 ## Spór o pamięć
 
 Postać Kuklińskiego dzieli Polaków do dziś. Toczy się debata, czy jego działania były aktem patriotyzmu, czy złamaniem przysięgi wojskowej. Niezależnie od oceny moralnej, dostarczone przez niego informacje realnie wpłynęły na strategię NATO.`,
+    trivia: ['Pułkownik przekazał na Zachód tysiące stron tajnych dokumentów Układu Warszawskiego.', 'W 1981 roku został ewakuowany wraz z rodziną przez CIA.'],
     resources: [
       {
         id: 'kuk-1',
@@ -10990,6 +11012,7 @@ Aparat władzy uruchomił machinę zacierania śladów. Próbowano obciążyć o
 ## Symbol bezkarności
 
 Sprawa Przemyka stała się symbolem brutalności i bezkarności milicji w PRL. Procesy toczyły się jeszcze w III RP, lecz pełnego ukarania winnych nie osiągnięto. Postać Przemyka upamiętniono jako jedną z ofiar przemocy systemu.`,
+    trivia: ['Maturzysta zmarł w 1983 roku po pobiciu na komisariacie.', 'Jego pogrzeb zamienił się w wielotysięczną manifestację.'],
     resources: [
       {
         id: 'prz-1',
@@ -14602,6 +14625,7 @@ Formacja uczestniczyła w tłumieniu protestów, m.in. w 1968 i 1976 roku, wspie
 
 ## Znaczenie
 ORMO było typowym dla systemu narzędziem wciągania obywateli w aparat kontroli, rozmywającym granicę między państwem a społeczeństwem. Rozwiązano je w 1989 roku.`,
+    trivia: ['ORMO było ochotniczą formacją wspierającą milicję, także przy tłumieniu protestów.', 'Jej członkowie zachowywali normalną pracę – służyli po godzinach.'],
     resources: [
       {
         id: 'ormo-1',
@@ -17043,6 +17067,7 @@ Zbrodnia lubińska stała się jednym z symboli represji stanu wojennego. Po 198
 
 ## Znaczenie
 Wydarzenia w Lubinie pokazują brutalność aparatu represji wobec pokojowego oporu i należą do najtragiczniejszych kart stanu wojennego, obok pacyfikacji kopalni Wujek.`,
+    trivia: ['Milicja użyła ostrej amunicji wobec demonstrantów – zginęły trzy osoby.', 'Wydarzenia udokumentowały zdjęcia wykonane potajemnie z okien.'],
     resources: [
       {
         id: 'lub-1',
@@ -17671,6 +17696,7 @@ Wkrótce po procesie, jeszcze w 1953 roku, internowano prymasa Stefana Wyszyńsk
 
 ## Znaczenie
 Proces kurii krakowskiej to symbol represji religijnych okresu stalinizmu i bezwzględności aparatu wobec Kościoła, który mimo to zachował niezależność.`,
+    trivia: ['Pokazowy proces z 1953 roku uderzał wprost w Kościół katolicki.', 'Wkrótce po nim aresztowano prymasa Stefana Wyszyńskiego.'],
     resources: [
       {
         id: 'pkk-1',
@@ -18158,6 +18184,7 @@ Odbywał się w czasie, gdy na Zachodzie tworzono podporządkowany Moskwie Tymcz
 
 ## Znaczenie
 Proces szesnastu symbolizuje sposób, w jaki ZSRR likwidował niepodległościowe elity, narzucając Polsce komunistyczną dominację.`,
+    trivia: ['Przywódców Polskiego Państwa Podziemnego zwabiono na rozmowy i podstępnie aresztowano.', 'Proces odbył się w Moskwie w 1945 roku, gdy trwała jeszcze konferencja w San Francisco.'],
     resources: [
       {
         id: 'ps16-1',
@@ -18211,6 +18238,7 @@ Przez dekady PRL temat był całkowicie przemilczany. Rodziny ofiar latami bezsk
 
 ## Znaczenie
 Obława augustowska to największa niewyjaśniona zbrodnia na Polakach po II wojnie światowej i symbol sowieckiego terroru u progu rządów komunistycznych.`,
+    trivia: ['Bywa nazywana „małym Katyniem” – los zatrzymanych do dziś nie został wyjaśniony.', 'Obława objęła Suwalszczyznę latem 1945 roku.'],
     resources: [
       {
         id: 'oa-ipn1',
@@ -19216,6 +19244,7 @@ Dla części młodzieży, zwłaszcza o „niewłaściwym” pochodzeniu, brygady
 
 ## Znaczenie
 „Służba Polsce” to przykład militaryzacji i wyzysku młodego pokolenia w okresie stalinizmu; organizację rozwiązano po odwilży, w 1955 roku.`,
+    trivia: ['Junaków kierowano do pracy przy odbudowie kraju i wielkich budowach.', 'Organizację rozwiązano w połowie lat 50.'],
     resources: [
       {
         id: 'sp-1',
@@ -19328,6 +19357,7 @@ Mimo zakłóceń RWE docierało do milionów Polaków, informując o wydarzeniac
 
 ## Znaczenie
 Zagłuszanie symbolizuje walkę systemu o kontrolę nad informacją; zaprzestano go ostatecznie pod koniec lat 80., u schyłku PRL.`,
+    trivia: ['Do zagłuszania rozgłośni zachodnich budowano specjalne stacje nadawcze.', 'Zagłuszania zaprzestano dopiero pod koniec lat 80.'],
     resources: [
       {
         id: 'zr-1',
@@ -19909,6 +19939,7 @@ Skazano go na 3 lata więzienia (złagodzone), lecz kary nie wykonano. Sprawa po
 
 ## Znaczenie
 Proces Wańkowicza to symbol zderzenia niezależnej literatury z cenzurą i jeden z głośnych procesów politycznych lat 60., który wzmocnił opór środowisk twórczych.`,
+    trivia: ['Proces wytoczono pisarzowi po podpisaniu przez niego Listu 34.', 'Sprawa odbiła się szerokim echem także poza granicami Polski.'],
     resources: [
       {
         id: 'wan-1',
@@ -29459,4 +29490,17 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1972, event: 'Powstanie sieci Pewex – zakupy za dewizy', category: 'gospodarka', entryId: 'pewex' },
   { year: 1976, event: 'Wprowadzenie kartek na cukier – początek reglamentacji', category: 'gospodarka', entryId: 'kartki-prl' },
   { year: 1947, event: 'Akcja „Wisła” – przymusowe przesiedlenia ludności ukraińskiej', category: 'represje', entryId: 'akcja-wisla' },
+  { year: 1940, event: 'Zbrodnia katyńska – NKWD morduje polskich oficerów', category: 'represje', entryId: 'katyn' },
+  { year: 1940, event: 'Masowe deportacje Polaków w głąb ZSRR', category: 'represje', entryId: 'deportacje' },
+  { year: 1944, event: 'Powołanie Milicji Obywatelskiej', category: 'represje', entryId: 'milicja' },
+  { year: 1944, event: 'Powstanie Urzędu Bezpieczeństwa', category: 'represje', entryId: 'ub' },
+  { year: 1945, event: 'Początek walki podziemia niepodległościowego', category: 'represje', entryId: 'zolnierze-wykletci' },
+  { year: 1946, event: 'Pogrom kielecki – najtragiczniejsze powojenne wydarzenie tego typu', category: 'represje', entryId: 'kielce-1946' },
+  { year: 1955, event: 'Podpisanie Układu Warszawskiego', category: 'wojsko', entryId: 'uklad-warszawski' },
+  { year: 1956, event: 'Rozwiązanie UB i powstanie Służby Bezpieczeństwa', category: 'represje', entryId: 'sbezpieczenstwa' },
+  { year: 1956, event: 'Utworzenie ZOMO po Poznańskim Czerwcu', category: 'represje', entryId: 'zomo' },
+  { year: 1968, event: 'Emigracja marcowa – wymuszone wyjazdy Polaków żydowskiego pochodzenia', category: 'represje', entryId: 'emigracja-1968' },
+  { year: 1972, event: 'Ryszard Kukliński rozpoczyna współpracę z amerykańskim wywiadem', category: 'wojsko', entryId: 'ryszard-kuklinski' },
+  { year: 1983, event: 'Śmierć Grzegorza Przemyka po pobiciu na komisariacie', category: 'represje', entryId: 'grzegorz-przemyk' },
+  { year: 1993, event: 'Ostatnie wojska radzieckie opuszczają Polskę', category: 'wojsko', entryId: 'pgwn' },
 ];
