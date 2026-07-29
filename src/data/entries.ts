@@ -105,11 +105,11 @@ Stan wojenny zawieszono w 1982 i zniesiono w lipcu 1983 roku. Jego ofiarą padł
       },
       {
         id: 'sw-3',
-        title: 'Archiwum stanu wojennego – IPN',
-        type: 'dokument',
+        title: 'Stan wojenny – opracowania',
+        type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=stan%20wojenny&fulltext=1&ns0=1',
         source: 'Wikipedia',
-        description: 'Specjalny serwis IPN poświęcony stanowi wojennemu z dokumentami, fotografiami i relacjami',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
       },
       {
         id: 'sw-4',
@@ -177,8 +177,8 @@ Solidarność zapoczątkowała pokojowy demontaż komunizmu w Polsce i Europie �
       },
       {
         id: 'sol-1',
-        title: 'Porozumienia Sierpniowe – artykuł IPN',
-        type: 'akt',
+        title: 'NSZZ „Solidarność" – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Porozumienia&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Pełny tekst Porozumień Gdańskich, Szczecińskich i Jastrzębskich z 1980 roku',
@@ -261,11 +261,11 @@ Poznański Czerwiec był pierwszym masowym robotniczym buntem w PRL i zapowiedzi
     resources: [
       {
         id: 'cz56-1',
-        title: 'Poznański Czerwiec 1956 – publikacja IPN (PDF)',
-        type: 'akt',
+        title: 'Poznański Czerwiec 1956 – artykuł',
+        type: 'publikacja',
         url: 'https://pl.wikipedia.org/wiki/Pozna%C5%84ski_Czerwiec',
-        source: 'IPN – Przystanek Historia',
-        description: 'Publikacja IPN „Poznański Czerwiec 1956 – pierwszy bunt społeczeństwa w PRL" z wyborem dokumentów',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
         year: 1956,
         downloadable: true,
       },
@@ -280,11 +280,11 @@ Poznański Czerwiec był pierwszym masowym robotniczym buntem w PRL i zapowiedzi
       },
       {
         id: 'cz56-3',
-        title: 'Galeria zdjęć – Poznański Czerwiec 1956 (IPN)',
-        type: 'zdjęcie',
+        title: 'Poznański Czerwiec 1956 – artykuł (2)',
+        type: 'publikacja',
         url: 'https://pl.wikipedia.org/wiki/Pozna%C5%84ski_Czerwiec',
-        source: 'IPN – Przystanek Historia',
-        description: 'Fotografie i dokumenty z Poznańskiego Czerwca 1956 w portalu IPN',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
       {
         id: 'czerwiec-1956-ipn2',
@@ -395,8 +395,8 @@ Okrągły Stół zapoczątkował pokojową transformację Polski i całego bloku
     resources: [
       {
         id: 'os-1',
-        title: 'Okrągły Stół – dokumenty i analiza (IPN)',
-        type: 'dokument',
+        title: 'Obrady Okrągłego Stołu – opracowania',
+        type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=okragly%20stol&fulltext=1&ns0=1',
         source: 'Wikipedia',
         description: 'Kompletny zapis stenograficzny wszystkich posiedzeń Okrągłego Stołu',
@@ -404,20 +404,20 @@ Okrągły Stół zapoczątkował pokojową transformację Polski i całego bloku
       },
       {
         id: 'os-2',
-        title: 'Nagrania wideo z obrad – TVP Archiwum',
+        title: 'Obrady Okrągłego Stołu – nagranie archiwalne',
         type: 'nagranie',
         url: 'https://www.youtube.com/watch?v=nTEspBNM8Z0',
-        source: 'YouTube (arch. TVP)',
+        source: 'YouTube',
         description: 'Archiwalne nagrania telewizyjne z przebiegu obrad',
         year: 1989,
       },
       {
         id: 'os-3',
-        title: 'Archiwum Okrągłego Stołu – IPN',
-        type: 'akt',
+        title: 'Obrady Okrągłego Stołu – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Okr%C4%85g%C5%82ego%20Sto%C5%82u&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
-        description: 'Dokumenty archiwalne IPN dotyczące negocjacji i kulisów Okrągłego Stołu',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
       },
       {
         id: 'okragly-stol-nina',
@@ -464,6 +464,7 @@ W szczytowym okresie PZPR liczyła ponad 3 miliony członków; przynależność 
 
 ## Znaczenie
 PZPR była rdzeniem systemu komunistycznego w Polsce – jej dzieje to historia sprawowania i utraty totalnej władzy nad państwem i społeczeństwem.`,
+    trivia: ['Powstała w 1948 roku z połączenia PPR i PPS.', 'Rozwiązała się w styczniu 1990 roku.'],
     resources: [
       {
         id: 'pzpr-1',
@@ -678,6 +679,7 @@ W 1989 roku dług zewnętrzny PRL wynosił ok. **42 miliardy dolarów**.
 
 **Czarny rynek i "kombinowanie":**
 Powszechne zjawisko społeczne. "Dolar" i towary z Pewexu były twardą walutą wymiany.`,
+    trivia: ['Ceny ustalało państwo, a nie rynek.', 'Braki towarów były trwałym elementem systemu, nie wyjątkiem.'],
     resources: [
       {
         id: 'gosp-1',
@@ -690,7 +692,7 @@ Powszechne zjawisko społeczne. "Dolar" i towary z Pewexu były twardą walutą 
       },
       {
         id: 'gosp-2',
-        title: '„Kolejka – symbol późnego PRL" – artykuł IPN',
+        title: 'Gospodarka PRL – zdjęcia i grafiki',
         type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=gospodarka%20prl&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
@@ -742,6 +744,7 @@ Od połowy lat 70. rozwinął się potężny ruch wydawniczy poza cenzurą:
 
 **Teatr:**
 Jerzy Grotowski, Tadeusz Kantor (Teatr Cricot 2) – artyści o światowej sławie działający w PRL.`,
+    trivia: ['Państwo finansowało kulturę, co dawało twórcom stabilność, ale i poddawało ich kontroli.', 'Mimo cenzury powstały w PRL dzieła cenione na całym świecie.'],
     resources: [
       {
         id: 'kult-1',
@@ -763,11 +766,11 @@ Jerzy Grotowski, Tadeusz Kantor (Teatr Cricot 2) – artyści o światowej sław
       },
       {
         id: 'kult-3',
-        title: 'kolekcja Kroniki Filmowej',
-        type: 'film',
+        title: 'Kultura i sztuka w PRL – nagrania archiwalne',
+        type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+kroniki+PRL',
         source: 'YouTube',
-        description: 'Kolekcja Polskiej Kroniki Filmowej i dokumentów Filmoteki Narodowej',
+        description: 'Archiwalne materiały wideo dotyczące tematu.',
       },
       {
         id: 'kult-4',
@@ -814,6 +817,7 @@ W stanie wojennym Kościół niósł pomoc internowanym i represjonowanym, dawa�
 
 ## Znaczenie
 Kościół w PRL był ostoją tożsamości narodowej i wolności sumienia oraz kluczowym uczestnikiem pokojowej drogi Polski ku demokracji.`,
+    trivia: ['Kościół był jedyną instytucją realnie niezależną od partii.', 'Msze i pielgrzymki gromadziły tłumy poza kontrolą władz.'],
     resources: [
       {
         id: 'kosc-1',
@@ -941,8 +945,8 @@ Gomułka pozostaje symbolem zmarnowanych nadziei 1956 roku – polityka, który 
       },
       {
         id: 'gom-2',
-        title: 'Teczka Gomułki – akta IPN',
-        type: 'akt',
+        title: 'Władysław Gomułka – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Teczka%20Gomu%C5%82ki&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Dokumenty dotyczące Władysława Gomułki w zasobach Instytutu Pamięci Narodowej',
@@ -1209,8 +1213,8 @@ Bierut pozostaje symbolem stalinizmu w Polsce – okresu terroru i całkowitego 
       },
       {
         id: 'bie-3',
-        title: 'Zbrodnie stalinizmu w Polsce – dokumentacja IPN',
-        type: 'dokument',
+        title: 'Bolesław Bierut – opracowania',
+        type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Zbrodnie%20stalinizmu%20Polsce&fulltext=1&ns0=1',
         source: 'Wikipedia',
         description: 'Zestawienie najważniejszych zbrodni systemu stalinowskiego w Polsce',
@@ -1256,8 +1260,8 @@ KOR stworzył intelektualne i organizacyjne zaplecze, na którym w 1980 roku wyr
       },
       {
         id: 'kor-1',
-        title: 'Komitet Obrony Robotników – historia i dokumenty (IPN)',
-        type: 'akt',
+        title: 'Komitet Obrony Robotników (KOR) – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Komitet%20Obrony%20Robotnik%C3%B3w&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Oryginalny apel założycielski KOR z 23 września 1976 roku',
@@ -1523,11 +1527,11 @@ Procesy sprawców toczyły się dopiero po 1989 roku i ciągnęły przez dziesi�
     resources: [
       {
         id: 'wuj-1',
-        title: 'Pacyfikacja Kopalni Wujek – artykuł IPN z dokumentami',
-        type: 'akt',
+        title: 'Pacyfikacja KWK Wujek – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Pacyfikacja%20Kopalni%20Wujek&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
-        description: 'Dokumenty śledztwa IPN w sprawie strzelania do górników kopalni Wujek',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
         year: 1981,
       },
       {
@@ -1592,8 +1596,8 @@ Po 1989 roku IPN wszczął setki śledztw w sprawie zbrodni komunistycznych. Wi�
     resources: [
       {
         id: 'rep-1',
-        title: 'Listy ofiar represji komunistycznych – baza IPN',
-        type: 'dokument',
+        title: 'Represje polityczne w PRL – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Listy%20ofiar%20represji&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Baza danych ofiar aparatu represji PRL – możliwość wyszukiwania po nazwisku',
@@ -1609,11 +1613,11 @@ Po 1989 roku IPN wszczął setki śledztw w sprawie zbrodni komunistycznych. Wi�
       },
       {
         id: 'rep-3',
-        title: '"Żołnierze wyklęci" – dokumentacja IPN',
+        title: 'Represje polityczne w PRL – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=%C5%BCo%C5%82nierze%20wykl%C4%99ci%20podziemie%20niepodleg%C5%82o%C5%9Bciowe&fulltext=1&ns0=1',
         source: 'Wikipedia',
-        description: 'Materiały edukacyjne IPN o żołnierzach niezłomnych – biogramy i dokumenty',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
       },
       {
         id: 'represje-polityczne-ipn2',
@@ -1652,6 +1656,7 @@ Wojsko skierowano przeciw obywatelom w Grudniu 1970 na Wybrzeżu, a w 1981 roku 
 
 ## Znaczenie
 LWP łączyło rolę armii z funkcją narzędzia systemu – pozostaje symbolem zależności od ZSRR i użycia siły wobec własnego narodu.`,
+    trivia: ['Armia była politycznie podporządkowana partii.', 'W 1968 roku wzięła udział w inwazji na Czechosłowację.'],
     resources: [
       {
         id: 'lwp-1',
@@ -1786,18 +1791,18 @@ LWP łączyło rolę armii z funkcją narzędzia systemu – pozostaje symbolem 
       },
       {
         id: 'wykletci-2',
-        title: 'Materiały edukacyjne IPN o Żołnierzach Wyklętych',
-        type: 'dokument',
+        title: 'Żołnierze Wyklęci – opracowania',
+        type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=%C5%BCo%C5%82nierze%20wykl%C4%99ci&fulltext=1&ns0=1',
         source: 'Wikipedia',
         description: 'Biogramy, dokumenty i edukacja o Żołnierzach Wyklętych.',
       },
       {
         id: 'wykletci-3',
-        title: 'Witold Pilecki – film dokumentalny IPN',
-        type: 'film',
+        title: 'Żołnierze Wyklęci – nagrania archiwalne',
+        type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Witold+Pilecki+dokument+IPN',
-        source: 'IPN TV YouTube',
+        source: 'YouTube',
         description: 'Dokument o życiu i śmierci rotmistrza Pileckiego, ochotnika do Auschwitz.',
         year: 2008,
       },
@@ -1834,8 +1839,8 @@ ZOMO rozwiązano na przełomie 1989 i 1990 roku wraz z reformą milicji i przeks
     resources: [
       {
         id: 'zomo-1',
-        title: 'ZOMO – historia i działalność (IPN)',
-        type: 'publikacja',
+        title: 'ZOMO – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=ZOMO%20dzia%C5%82alno%C5%9B%C4%87&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Historia i metody ZOMO jako narzędzia represji w PRL.',
@@ -1889,11 +1894,11 @@ ZOMO rozwiązano na przełomie 1989 i 1990 roku wraz z reformą milicji i przeks
     resources: [
       {
         id: 'jp2-1',
-        title: 'Jan Paweł II a Polska – serwis IPN',
-        type: 'publikacja',
+        title: 'Jan Paweł II – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Jan%20Pawe%C5%82&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
-        description: 'Opracowanie IPN o wpływie papieża na opozycję antykomunistyczną w Polsce.',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
         year: 2005,
       },
       {
@@ -1944,6 +1949,7 @@ ZOMO rozwiązano na przełomie 1989 i 1990 roku wraz z reformą milicji i przeks
 **22 lipca — święto PRL** — Data stała się głównym świętem państwowym PRL — „Narodowym Świętem Odrodzenia Polski" — obchodzonym defiladami wojskowymi do 1989 r.
 
 **Ocena historyczna** — Manifest był fundamentem prawnym PRL-owskiego porządku ustrojowego — aktem narzuconym Polakom bez żadnych demokratycznych procedur, zatwierdzonym przez Stalina w Moskwie.`,
+    trivia: ['Formalnie ogłoszono go w Chełmie, w rzeczywistości powstał w Moskwie.', '22 lipca stało się najważniejszym świętem państwowym PRL.'],
     resources: [
       {
         id: 'pkwn-pkf',
@@ -2038,10 +2044,10 @@ ZOMO rozwiązano na przełomie 1989 i 1990 roku wraz z reformą milicji i przeks
       },
       {
         id: 'kolektyw-3',
-        title: 'Wieś polska w stalinizmie – film IPN',
-        type: 'film',
+        title: 'Kolektywizacja rolnictwa – nagrania archiwalne',
+        type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=kolektywizacja+wsi+PRL+dokument+IPN',
-        source: 'IPN TV YouTube',
+        source: 'YouTube',
         description: 'Dokument o losach polskich chłopów w czasie stalinizmu i kampanii kolektywizacyjnej.',
         year: 2012,
       },
@@ -2074,11 +2080,12 @@ ZOMO rozwiązano na przełomie 1989 i 1990 roku wraz z reformą milicji i przeks
 **Represje** — Władze stosowały rewizje, konfiskatę sprzętu i wielomiesięczne areszty. Chojecki był wielokrotnie zatrzymywany. Anonimizacja publikacji i kasowanie numerów seryjnych z powielaczy były technikami przeżycia.
 
 **Dziedzictwo** — Drugi obieg ukształtował całe pokolenie liderów transformacji 1989 r. — przez dostarczanie wiedzy historycznej, filozoficznej i politycznej podtrzymywał niezależną świadomość społeczeństwa.`,
+    trivia: ['Bibułę drukowano na powielaczach ukrytych w prywatnych mieszkaniach.', 'Największe wydawnictwo podziemne, NOWa, wypuściło setki tytułów.'],
     resources: [
       {
         id: 'obieg-1',
-        title: 'Drugi obieg wydawniczy – historia i katalog (IPN)',
-        type: 'publikacja',
+        title: 'Drugi obieg wydawniczy – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Drugi%20obieg%20wydawniczy&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Kompleksowe opracowanie historii niezależnego ruchu wydawniczego w PRL.',
@@ -2095,7 +2102,7 @@ ZOMO rozwiązano na przełomie 1989 i 1990 roku wraz z reformą milicji i przeks
       },
       {
         id: 'obieg-3',
-        title: 'Komunikaty KOR – Polona (Biblioteka Narodowa)',
+        title: 'Drugi obieg wydawniczy – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Komunikaty%20KOR%20Biblioteka&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -2132,8 +2139,8 @@ ZOMO rozwiązano na przełomie 1989 i 1990 roku wraz z reformą milicji i przeks
     resources: [
       {
         id: 'mazowiecki-1',
-        title: 'Tadeusz Mazowiecki – premier transformacji (IPN)',
-        type: 'publikacja',
+        title: 'Tadeusz Mazowiecki – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Tadeusz%20Mazowiecki%20premier&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Biogram i omówienie roli Mazowieckiego w polskiej transformacji ustrojowej.',
@@ -2150,8 +2157,8 @@ ZOMO rozwiązano na przełomie 1989 i 1990 roku wraz z reformą milicji i przeks
       },
       {
         id: 'mazowiecki-3',
-        title: 'Okrągły Stół – portal tematyczny IPN',
-        type: 'dokument',
+        title: 'Tadeusz Mazowiecki – opracowania',
+        type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=okragly%20stol&fulltext=1&ns0=1',
         source: 'Wikipedia',
         description: 'Dokumentacja obrad Okrągłego Stołu, w których Mazowiecki odgrywał kluczową rolę.',
@@ -2260,33 +2267,34 @@ RWE informowało o protestach, represjach i działalności opozycji – m.in. uj
 
 ## Znaczenie
 Radio Wolna Europa odegrało kluczową rolę w przełamywaniu monopolu informacyjnego komunistów i w budowaniu niezależnego społeczeństwa.`,
+    trivia: ['Rozgłośnię zagłuszano, więc słuchano jej wieczorami, cierpliwie kręcąc gałką.', 'Rozgłośnią Polską kierował przez lata Jan Nowak-Jeziorański.'],
     resources: [
       {
         id: 'rwe-1',
-        title: 'Jan Nowak-Jeziorański i Radio Wolna Europa',
+        title: 'Radio Wolna Europa – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=radio%20wolna%20europa&fulltext=1&ns0=1',
         source: 'Wikipedia',
-        description: 'Portal tematyczny IPN poświęcony historii Radia Wolna Europa i jego roli w PRL.',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1952,
         downloadable: false,
       },
       {
         id: 'rwe-2',
-        title: 'Archiwum nagrań Radia Wolna Europa – Polona',
-        type: 'dokument',
+        title: 'Radio Wolna Europa – opracowania (2)',
+        type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Radio%20Wolna%20Europa&fulltext=1&ns0=1',
         source: 'Wikipedia',
-        description: 'Cyfrowe archiwum nagrań Polskiej Sekcji RWE dostępne w Polona.',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1952,
       },
       {
         id: 'rwe-3',
-        title: 'Zagłuszanie Radia Wolna Europa w PRL',
+        title: 'Radio Wolna Europa – nagrania archiwalne',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Zag%C5%82uszanie+Radia+Wolna',
         source: 'YouTube',
-        description: 'Dokumentacja działań aparatu bezpieczeństwa PRL wobec zachodnich rozgłośni – akta SB w zasobach IPN.',
+        description: 'Archiwalne materiały wideo dotyczące tematu.',
         year: 1956,
         downloadable: false,
       },
@@ -2336,6 +2344,7 @@ Wielu artystów, pisarzy i reżyserów – m.in. Ryszard Kapuściński, Zbigniew
 
 **Likwidacja:**
 GUKPPiW został zniesiony ustawą z 11 kwietnia 1990 roku – jednym z pierwszych aktów prawnych nowego porządku demokratycznego.`,
+    trivia: ['Cenzor zatwierdzał każdą publikację – także afisz, etykietę i nekrolog.', 'Tajne zapisy cenzury ujawnił w 1977 roku Tomasz Strzyżewski, wywożąc je do Szwecji.'],
     resources: [
       {
         id: 'cenzura-1',
@@ -2359,11 +2368,11 @@ GUKPPiW został zniesiony ustawą z 11 kwietnia 1990 roku – jednym z pierwszyc
       },
       {
         id: 'cenzura-3',
-        title: 'Cenzura PRL – materiały edukacyjne IPN',
+        title: 'Cenzura PRL – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Cenzura&fulltext=1&ns0=1',
         source: 'Wikipedia',
-        description: 'Materiały edukacyjne IPN dotyczące systemu cenzury i kontroli informacji w PRL.',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1946,
       },
     ],
@@ -2390,6 +2399,7 @@ Powrót Gomułki wywołał entuzjazm społeczny – przemówienie do warszawskie
 
 **Ograniczenia odwilży:**
 Październik 1956 nie zmienił zasad systemu. Cenzura pozostała, Polska trwała w bloku wschodnim, a Gomułka stopniowo cofał liberalizację. Pismo Po Prostu zostało zamknięte w 1957 roku. Nadzieje na prawdziwą demokratyzację okazały się złudne.`,
+    trivia: ['Na wiecu na placu Defilad zebrały się setki tysięcy ludzi.', 'Gomułka wrócił do władzy jako człowiek wcześniej przez partię więziony.'],
     resources: [
       {
         id: 'p56-ipn1',
@@ -2401,11 +2411,11 @@ Październik 1956 nie zmienił zasad systemu. Cenzura pozostała, Polska trwała
       },
       {
         id: 'paz56-1',
-        title: 'Październik 1956 – Przystanek Historia',
+        title: 'Październik 1956 – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=pazdziernik%201956&fulltext=1&ns0=1',
         source: 'Wikipedia',
-        description: 'Portal tematyczny IPN o wydarzeniach Października 1956 i ich znaczeniu.',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1956,
         downloadable: false,
       },
@@ -2462,11 +2472,11 @@ UB pozostaje symbolem stalinowskiego terroru – bezwzględnej machiny represji,
     resources: [
       {
         id: 'ub-1',
-        title: 'Urząd Bezpieczeństwa – portal edukacyjny IPN',
+        title: 'Urząd Bezpieczeństwa – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Urz%C4%85d%20Bezpiecze%C5%84stwa%20edukacyjny&fulltext=1&ns0=1',
         source: 'Wikipedia',
-        description: 'Materiały edukacyjne IPN dotyczące aparatu bezpieczeństwa w latach 1944–1956.',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1944,
       },
       {
@@ -2650,6 +2660,7 @@ Przywileje aparatu były jednym z głównych źródeł frustracji i jednym z pos
 
 ## Znaczenie
 Nomenklatura to klucz do zrozumienia realnego mechanizmu władzy w PRL – systemu, w którym partia kontrolowała kariery i rozdzielała przywileje.`,
+    trivia: ['Stanowiska kierownicze obsadzano wyłącznie za zgodą partii.', 'Sama lista stanowisk nomenklaturowych była tajna.'],
     resources: [
       {
         id: 'nomenklatura-1',
@@ -2663,8 +2674,8 @@ Nomenklatura to klucz do zrozumienia realnego mechanizmu władzy w PRL – syste
       },
       {
         id: 'nomenklatura-2',
-        title: 'Akta KC PZPR – Archiwum Akt Nowych',
-        type: 'akt',
+        title: 'Nomenklatura – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=PZPR%20Komitet%20Centralny&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Dokumenty Komitetu Centralnego PZPR, w tym listy nominacji nomenklaturowych.',
@@ -2800,11 +2811,11 @@ W 1990 roku MO przekształcono w Policję, odcinając się od jej politycznej, r
     resources: [
       {
         id: 'milicja-1',
-        title: 'Milicja Obywatelska – historia i dokumenty IPN',
-        type: 'publikacja',
+        title: 'Milicja Obywatelska – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Milicja%20Obywatelska&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
-        description: 'Akta Komendy Głównej MO i terenowych komend w zasobach archiwalnych IPN.',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
         year: 1944,
         downloadable: false,
       },
@@ -2867,14 +2878,15 @@ Wszystkie filmy powstawały w państwowych wytwórniach i podlegały cenzurze. S
 - "Popiół i diament" (Wajda, 1958) – arcydzieło kina moralnego
 - "Człowiek z marmuru" (Wajda, 1977) – o sfabrykowaniu bohatera socjalizmu
 - "Człowiek z żelaza" (Wajda, 1981) – Palme d\'Or w Cannes, o Solidarności`,
+    trivia: ['O dopuszczeniu filmu na ekrany decydowała komisja kolaudacyjna.', 'Mimo ograniczeń polskie kino zdobywało nagrody na najważniejszych festiwalach.'],
     resources: [
       {
         id: 'kino-1',
-        title: 'archiwum polskiego kina',
-        type: 'film',
+        title: 'Polska Szkoła Filmowa – nagrania archiwalne',
+        type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=polskiego+kina',
         source: 'YouTube',
-        description: 'Największe cyfrowe archiwum polskich filmów, dokumentów i kronik filmowych z PRL.',
+        description: 'Archiwalne materiały wideo dotyczące tematu.',
         year: 1955,
         downloadable: false,
       },
@@ -2939,33 +2951,34 @@ Termin spopularyzowany przez Orwella (w "Roku 1984"), w polskim kontekście opis
 
 **Opór społeczny:**
 Społeczeństwo nauczyło się czytać między wierszami. Żarty polityczne (kawały o Radiu Erewań), samizdaty, drugi obieg – to formy oddolnego oporu wobec propagandy.`,
+    trivia: ['Hasła propagandowe zdobiły fasady zakładów pracy i ulice miast.', 'Nowomowa opisywała rzeczywistość lepszą, niż była w istocie.'],
     resources: [
       {
         id: 'prop-1',
-        title: 'Dziennik Telewizyjny – kroniki i archiwum TVP',
+        title: 'Propaganda PRL – nagranie archiwalne',
         type: 'nagranie',
         url: 'https://www.youtube.com/watch?v=OkmJ-PZMCj8',
-        source: 'YouTube / TVP Archiwum',
+        source: 'YouTube',
         description: 'Archiwalne wydania Dziennika Telewizyjnego – przykład propagandy medialnej PRL.',
         year: 1981,
         downloadable: false,
       },
       {
         id: 'prop-2',
-        title: 'Nowomowa PRL – archiwum prasy',
+        title: 'Propaganda PRL – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Nowomowa%20prasy&fulltext=1&ns0=1',
         source: 'Wikipedia',
-        description: 'Cyfrowe archiwum prasy PRL – Trybuna Ludu, Życie Warszawy i inne tytuły z epoki.',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1952,
       },
       {
         id: 'prop-3',
-        title: 'Propaganda PRL – materiały edukacyjne IPN',
+        title: 'Propaganda PRL – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Propaganda&fulltext=1&ns0=1',
         source: 'Wikipedia',
-        description: 'Materiały edukacyjne IPN o mechanizmach propagandy komunistycznej w Polsce.',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1944,
       },
     ],
@@ -3205,23 +3218,24 @@ Redaktor naczelny i dusza pisma. Wizjoner polskiej polityki wschodniej – jako 
 
 **Biblioteka "Kultury":**
 Instytut Literacki wydał setki książek – autorów zakazanych w PRL, dokumenty historyczne, literaturę emigracyjną. Były one przemycane do kraju przez turystów i dyplomatów.`,
+    trivia: ['Redakcja mieściła się w Maisons-Laffitte pod Paryżem.', 'Egzemplarze przemycano do Polski – m.in. przez Tatry.'],
     resources: [
       {
         id: 'kultura-p-1',
-        title: 'Archiwum Kultury Paryskiej – Biblioteka Narodowa',
+        title: 'Kultura Paryska – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Kultury%20Paryskiej%20Biblioteka&fulltext=1&ns0=1',
         source: 'Wikipedia',
-        description: 'Skany wybranych numerów miesięcznika Kultura dostępne w cyfrowym archiwum Polony.',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1947,
       },
       {
         id: 'kultura-p-2',
-        title: 'Jerzy Giedroyc i Kultura Paryska – IPN',
+        title: 'Kultura Paryska – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=kultura%20paryz&fulltext=1&ns0=1',
         source: 'Wikipedia',
-        description: 'Portal tematyczny IPN o miesięczniku Kultura i jego roli w polskim życiu intelektualnym.',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1947,
         downloadable: false,
       },
@@ -3289,8 +3303,8 @@ Układ Warszawski rozwiązano w 1991 roku, wraz z rozpadem bloku wschodniego i Z
       },
       {
         id: 'uw-3',
-        title: 'Polska w bloku wschodnim – archiwum dokumentów',
-        type: 'akt',
+        title: 'Układ Warszawski – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=bloku%20wschodnim%20dokument%C3%B3w&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Dokumenty dotyczące obecności sił sowieckich w Polsce i struktury Układu Warszawskiego.',
@@ -3321,6 +3335,7 @@ Wyniki ogłoszone przez władze: 68% TAK na pierwsze pytanie. Dokumenty odkryte 
 
 **Konsekwencje:**
 Oszukańcze referendum utorowało drogę do sfałszowanych wyborów w styczniu 1947 roku i pełnego przejęcia władzy przez komunistów. PSL i Mikołajczyk zostali politycznie rozbici. W 1947 roku Mikołajczyk uciekł z Polski.`,
+    trivia: ['Propaganda promowała hasło „3 razy tak”.', 'Wyniki sfałszowano; prawdziwe liczby ujawniono dopiero po 1989 roku.'],
     resources: [
       {
         id: 'ref-pkf',
@@ -3332,18 +3347,18 @@ Oszukańcze referendum utorowało drogę do sfałszowanych wyborów w styczniu 1
       },
       {
         id: 'ref46-1',
-        title: 'Referendum 1946 – Polskie Miesiące IPN',
+        title: 'Referendum ludowe 1946 – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=referendum%201946&fulltext=1&ns0=1',
         source: 'Wikipedia',
-        description: 'Portal tematyczny IPN o referendum 1946 – dokumenty, analizy i świadectwa fałszerstwa.',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1946,
         downloadable: false,
       },
       {
         id: 'ref46-2',
-        title: 'Dokumenty referendum – Archiwum Akt Nowych',
-        type: 'akt',
+        title: 'Referendum ludowe 1946 – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=referendum%20Akt%20Nowych&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Akta Ministerstwa Bezpieczeństwa Publicznego i Państwowej Komisji Wyborczej z 1946 roku.',
@@ -3352,8 +3367,8 @@ Oszukańcze referendum utorowało drogę do sfałszowanych wyborów w styczniu 1
       },
       {
         id: 'ref46-3',
-        title: 'Fałszerstwo wyborcze – materiały edukacyjne IPN',
-        type: 'dokument',
+        title: 'Referendum ludowe 1946 – opracowania (2)',
+        type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Fa%C5%82szerstwo%20wyborcze&fulltext=1&ns0=1',
         source: 'Wikipedia',
         description: 'Materiały dla nauczycieli o mechanizmach fałszerstw wyborczych w powojennej Polsce.',
@@ -3383,6 +3398,7 @@ Sfałszowane wybory zamknęły okres pozornej koalicji i otworzyły drogę do pe
 
 **Przejęcie pełni władzy:**
 W 1948 roku PPR połączyła się z PPS (pod przymusem), tworząc PZPR. Polska stała się jednopartyjnym państwem komunistycznym na wzór sowiecki.`,
+    trivia: ['Wybory sfałszowano, zapewniając zwycięstwo blokowi komunistów.', 'Po nich Stanisław Mikołajczyk musiał uciekać z kraju.'],
     resources: [
       {
         id: 'w47-pkf',
@@ -3404,8 +3420,8 @@ W 1948 roku PPR połączyła się z PPS (pod przymusem), tworząc PZPR. Polska s
       },
       {
         id: 'wyl47-2',
-        title: 'Sfałszowane wybory – materiały edukacyjne IPN',
-        type: 'dokument',
+        title: 'Wybory 1947 – opracowania (2)',
+        type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Sfa%C5%82szowane%20wybory&fulltext=1&ns0=1',
         source: 'Wikipedia',
         description: 'Materiały edukacyjne o konsolidacji władzy komunistycznej w Polsce 1944–1948.',
@@ -3413,11 +3429,11 @@ W 1948 roku PPR połączyła się z PPS (pod przymusem), tworząc PZPR. Polska s
       },
       {
         id: 'wyl47-3',
-        title: 'Archiwum prasy 1947 – Polona',
+        title: 'Wybory 1947 – zdjęcia i grafiki',
         type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=prasy%201947&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
-        description: 'Cyfrowe archiwum prasy z okresu wyborów 1947 – oficjalne komunikaty i propaganda.',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
         year: 1947,
       },
     ],
@@ -3468,8 +3484,8 @@ Po emigracji 1968 roku żydowska społeczność w Polsce została praktycznie zl
       },
       {
         id: 'em68-3',
-        title: 'Dokumenty emigracji – Archiwum Akt Nowych',
-        type: 'akt',
+        title: 'Emigracja Żydów po Marcu 1968 – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=emigracji%20Akt%20Nowych&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Akta MSW i MSZ dotyczące emigracji obywateli żydowskiego pochodzenia po 1968.',
@@ -3515,6 +3531,7 @@ Prawdziwa historia tych ziem – wielokulturowa, złożona, pełna traumy – za
 ### Znaczenie geopolityczne
 
 Zachodnia granica na Odrze i Nysie była przez dekady kontestowana przez RFN. Ostateczne uznanie jej nastąpiło dopiero w 1990 roku – Traktatem 2+4 między dwoma Niemcami a czterema mocarstwami, a następnie polsko-niemieckim traktatem granicznym.`,
+    trivia: ['Objęły tereny na zachodzie i północy przyznane Polsce po wojnie.', 'Zasiedlali je głównie przesiedleńcy z Kresów i Polski centralnej.'],
     resources: [
       {
         id: 'zo-pkf',
@@ -3526,8 +3543,8 @@ Zachodnia granica na Odrze i Nysie była przez dekady kontestowana przez RFN. Os
       },
       {
         id: 'ziemie-polona',
-        title: 'Ziemie Odzyskane – prasa i dokumenty (Polona)',
-        type: 'dokument',
+        title: 'Ziemie Odzyskane – opracowania',
+        type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Ziemie%20Odzyskane%20osadnicy%20repatrianci&fulltext=1&ns0=1',
         source: 'Wikipedia',
         description: 'Zdigitalizowane dokumenty i prasa dotyczące zasiedlania Ziem Odzyskanych',
@@ -3595,6 +3612,7 @@ PRL był stosunkowo postępowy w sporcie kobiecym. Kobiety uczestniczyły we wsz
 ### Granica propagandy i rzeczywistości
 
 Za sukcesami stało zawodowe podejście, świetni trenerzy i system wyławiania talentów. Ale też – jak wszędzie za żelazną kurtyną – doping i system przywilejów dla sportowców. Wyjeżdżanie za granicę, lepsze zaopatrzenie, samochody, paszporty – sportowcy żyli lepiej niż przeciętny Polak.`,
+    trivia: ['Sukcesy sportowe wykorzystywano propagandowo.', 'Zawodnicy formalnie byli amatorami, choć trenowali jak zawodowcy.'],
     resources: [
       {
         id: 'sport-ninateka',
@@ -3674,11 +3692,11 @@ Po upadku PRL Maluch stał się tanim środkiem transportu, a później obiektem
       },
       {
         id: 'fiat-3',
-        title: 'Motoryzacja w PRL – Polona',
+        title: 'Fiat 126p – Maluch – zdjęcia i grafiki',
         type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Motoryzacja&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
-        description: 'Archiwum reklam, katalogów i zdjęć prasowych dotyczących motoryzacji w PRL.',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
         year: 1973,
       },
     ],
@@ -3731,11 +3749,11 @@ Nacjonalizacja zniszczyła klasę przedsiębiorców i kupców. Gospodarka stała
       },
       {
         id: 'nacj-2',
-        title: 'Nacjonalizacja i reforma rolna – materiały IPN',
+        title: 'Nacjonalizacja przemysłu i handlu – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Nacjonalizacja%20reforma%20rolna&fulltext=1&ns0=1',
         source: 'Wikipedia',
-        description: 'Materiały edukacyjne IPN o komunistycznej przebudowie gospodarczej Polski.',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1944,
       },
       {
@@ -3807,8 +3825,8 @@ Miłosz jest autorem „Traktatu moralnego", „Ziemi Ulro", „Roku myśliwego"
       },
       {
         id: 'milosz-polona',
-        title: 'Archiwum Miłosza – Polona',
-        type: 'dokument',
+        title: 'Czesław Miłosz – opracowania',
+        type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Mi%C5%82osz%20Czes%C5%82aw%20poeta&fulltext=1&ns0=1',
         source: 'Wikipedia',
         description: 'Digitalizacje pism, rękopisów i pierwszych wydań Miłosza',
@@ -3880,8 +3898,8 @@ Jego poezja jest przetłumaczona na kilkadziesiąt języków. Jest to jedna z po
       },
       {
         id: 'herbert-polona',
-        title: 'Archiwum Herberta – Polona',
-        type: 'dokument',
+        title: 'Zbigniew Herbert – opracowania',
+        type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Herbert%20Zbigniew%20poeta&fulltext=1&ns0=1',
         source: 'Wikipedia',
         description: 'Rękopisy, korespondencja i pierwsze wydania utworów Zbigniewa Herberta',
@@ -4014,11 +4032,12 @@ Bestie systemu – UB i milicja – niszczyły PSL metodycznie: aresztowania, wy
 Na emigracji Mikołajczyk kontynuował działalność polityczną. Wydał wspomnienia „The Rape of Poland" (1948) – świadectwo fałszowania demokracji przez komunistów. Książka była ważnym dokumentem dla Zachodu.
 
 W PRL Mikołajczyk był postacią przemilczaną lub demonizowaną. Oficjalna historia PSL z nim nie istniała. Dopiero po 1989 roku odzyskał należne mu miejsce w historii – jako polityk, który do końca walczył o demokratyczną Polskę.`,
+    trivia: ['Był premierem rządu na uchodźstwie, potem wicepremierem w kraju.', 'W 1947 roku potajemnie opuścił Polskę, obawiając się aresztowania.'],
     resources: [
       {
         id: 'mikolajczyk-ipn',
-        title: 'Mikołajczyk i PSL – dokumenty IPN',
-        type: 'akt',
+        title: 'Stanisław Mikołajczyk i PSL – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Miko%C5%82ajczyk%20PSL%20wybory%201947&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Dokumenty dotyczące Mikołajczyka, PSL i sfałszowanych wyborów 1947 roku',
@@ -4033,7 +4052,7 @@ W PRL Mikołajczyk był postacią przemilczaną lub demonizowaną. Oficjalna his
       },
       {
         id: 'mikolajczyk-polona',
-        title: 'Prasa i dokumenty PSL (Polona)',
+        title: 'Stanisław Mikołajczyk i PSL – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=PSL%20Miko%C5%82ajczyk%20Stronnictwo%20Ludowe&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -4067,6 +4086,7 @@ Miliony Polaków mieszkały w wielkich blokach z wielkiej płyty – Żoliborz, 
 
 **Niepisane korzyści systemu:**
 PRL zapewniał też gwarancje, które po 1989 roku zniknęły – zatrudnienie (bezrobocie było nielegalne), bezpłatne leczenie, bezpłatną edukację, tanie wczasy FWP i kolonie dla dzieci. Świadomość tych elementów kształtuje nostalgię za PRL wśród części starszego pokolenia.`,
+    trivia: ['Codzienność organizowały kolejki, kartki i nieustanne kombinowanie.', 'Wiele spraw załatwiało się „po znajomości”.'],
     resources: [
       {
         id: 'zc-1',
@@ -4080,17 +4100,17 @@ PRL zapewniał też gwarancje, które po 1989 roku zniknęły – zatrudnienie (
       },
       {
         id: 'zc-2',
-        title: 'Kroniki codzienności PRL',
-        type: 'film',
+        title: 'Życie codzienne w PRL – nagrania archiwalne',
+        type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Kroniki+codzienno%C5%9Bci',
         source: 'YouTube',
-        description: 'Archiwum kronik filmowych i dokumentów pokazujących codzienne życie w PRL.',
+        description: 'Archiwalne materiały wideo dotyczące tematu.',
         year: 1955,
         downloadable: false,
       },
       {
         id: 'zc-3',
-        title: 'Fotografie życia codziennego – Polona',
+        title: 'Życie codzienne w PRL – zdjęcia i grafiki',
         type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Fotografie%20%C5%BCycia%20codziennego&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
@@ -4144,10 +4164,11 @@ Mimo to polskie uczelnie – zwłaszcza Uniwersytet Warszawski, AGH, UJ – zach
 ### Spuścizna
 
 PRL dał Polsce masową edukację – i to jest realne osiągnięcie. Ale też wychował pokolenia w schemacie ideologicznym, z lukusem w wiedzy historycznej i obywatelskiej. Likwidacja tych braków stała się zadaniem szkoły po 1989 roku.`,
+    trivia: ['Szkoła była bezpłatna i powszechna, ale też mocno zideologizowana.', 'Obowiązkowa była nauka języka rosyjskiego.'],
     resources: [
       {
         id: 'edukacja-polona',
-        title: 'Podręczniki szkolne PRL (Polona)',
+        title: 'Edukacja i szkoła w PRL – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=podr%C4%99cznik%20szkolny%20PRL%20historia&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -4366,11 +4387,11 @@ Michnik jest symbolem liberalnej lewicy i dialogu. Jego teza o „grubej kresce"
     resources: [
       {
         id: 'michnik-ipn',
-        title: 'Adam Michnik – dokumenty SB',
-        type: 'dokument',
+        title: 'Adam Michnik – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Michnik%20Adam&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
-        description: 'Materiały bezpieki dotyczące inwigilacji Adama Michnika w zasobach IPN',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
       },
       {
         id: 'michnik-ph',
@@ -4441,8 +4462,8 @@ Kuroń był człowiekiem pełnym sprzeczności: dawny komunista, który stał si
     resources: [
       {
         id: 'kuron-ipn',
-        title: 'Jacek Kuroń – teczka w zasobach IPN',
-        type: 'dokument',
+        title: 'Jacek Kuroń – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Kuro%C5%84%20Jacek&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Dokumenty SB dotyczące inwigilacji Jacka Kuronia w zasobach Instytutu Pamięci Narodowej',
@@ -4491,14 +4512,15 @@ W rocznice kluczowych wydarzeń – 13 grudnia, 31 sierpnia – podziemna Solida
 
 **Kontakty z Zachodem:**
 Przez kurierów i przez Kościół podziemna Solidarność utrzymywała stały kontakt z emigracją, z Biurem Koordynacyjnym w Brukseli i z zachodnimi rządami. Pomoc finansowa i sprzętowa (powielacze, papier) napływała z Zachodu.`,
+    trivia: ['Struktury konspiracyjne działały przez całe lata 80.', 'Wydawano tysiące tytułów prasy podziemnej.'],
     resources: [
       {
         id: 'podz-sol-1',
-        title: 'Tygodnik Mazowsze i prasa podziemna – Polona',
+        title: 'Podziemna Solidarność – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Tygodnik%20Mazowsze%20prasa&fulltext=1&ns0=1',
         source: 'Wikipedia',
-        description: 'Zdigitalizowane numery podziemnych pism Solidarności w archiwum Biblioteki Narodowej.',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1982,
       },
       {
@@ -4513,11 +4535,11 @@ Przez kurierów i przez Kościół podziemna Solidarność utrzymywała stały k
       },
       {
         id: 'podz-sol-3',
-        title: 'TKK i podziemie Solidarności – materiały IPN',
+        title: 'Podziemna Solidarność – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Tymczasowa%20Komisja%20Koordynacyjna&fulltext=1&ns0=1',
         source: 'Wikipedia',
-        description: 'Materiały edukacyjne IPN o strukturach podziemnej Solidarności i jej działalności.',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1982,
       },
       {
@@ -4579,8 +4601,8 @@ Kapuściński był wielokrotnie wymieniany jako kandydat do Nagrody Nobla. Stwor
       },
       {
         id: 'kapuscinski-polona',
-        title: 'Kapuściński – archiwalia (Polona)',
-        type: 'dokument',
+        title: 'Ryszard Kapuściński – opracowania',
+        type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Kapu%C5%9Bci%C5%84ski%20Ryszard%20reporter&fulltext=1&ns0=1',
         source: 'Wikipedia',
         description: 'Zdigitalizowane materiały o Kapuścińskim i jego twórczości',
@@ -4622,6 +4644,7 @@ Po stanie wojennym KPN działała w podziemiu. W wyborach czerwcowych 1989 roku 
 
 **Po 1989 roku:**
 KPN weszła do parlamentu w wyborach 1991 roku. Moczulski przez lata był posłem i senatorem. Partia stopniowo traciła znaczenie i w 2003 roku połączyła się z innymi ugrupowaniami.`,
+    trivia: ['Była pierwszą w bloku wschodnim partią jawnie żądającą niepodległości.', 'Jej przywódcy szybko trafili do więzień.'],
     resources: [
       {
         id: 'kpn-1',
@@ -4635,17 +4658,17 @@ KPN weszła do parlamentu w wyborach 1991 roku. Moczulski przez lata był posłe
       },
       {
         id: 'kpn-2',
-        title: 'Opozycja demokratyczna 1976–1989 – materiały IPN',
+        title: 'Konfederacja Polski Niepodległej – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Opozycja%20demokratyczna%201976&fulltext=1&ns0=1',
         source: 'Wikipedia',
-        description: 'Materiały edukacyjne IPN o strukturach opozycyjnych, w tym KPN, w PRL.',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1979,
       },
       {
         id: 'kpn-3',
-        title: 'KPN i niepodległościowa opozycja – archiwum',
-        type: 'dokument',
+        title: 'Konfederacja Polski Niepodległej – opracowania (2)',
+        type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=KPN%20niepodleg%C5%82o%C5%9Bciowa%20opozycja&fulltext=1&ns0=1',
         source: 'Wikipedia',
         description: 'Dokumenty dotyczące działalności KPN i procesów jej działaczy.',
@@ -4707,10 +4730,11 @@ Kościół konsekwentnie sprzeciwiał się tej regulacji. Po 1989 roku, w wyniku
 W Solidarności kobiety odgrywały kluczową rolę – Anna Walentynowicz, Alina Pienkowska, Joanna i Henryk Duda-Gracz. Ale w kierownictwie Solidarności przeważali mężczyźni. Walentynowicz, choć formalnie była iskrą strajku, nie zasiadała w prezydium MKS.
 
 Internowanie w stanie wojennym dotknęło też kobiety – działaczki Solidarności, doradczynie, publicystki.`,
+    trivia: ['Kobiety masowo podjęły pracę zawodową.', 'Podwójny etat – praca i dom – był normą, nie wyjątkiem.'],
     resources: [
       {
         id: 'kobiety-polona',
-        title: 'Prasa kobieca PRL (Polona)',
+        title: 'Kobiety w PRL – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Kobieta%20%C5%BCycie%20pismo%20PRL%20emancypacja&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -4763,11 +4787,11 @@ W lipcu 1989 roku Rakowski objął funkcję I sekretarza KC PZPR – kiedy parti
     resources: [
       {
         id: 'rakow-1',
-        title: 'Rakowski i schyłek PRL – materiały IPN',
+        title: 'Mieczysław Rakowski – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Rakowski%20schy%C5%82ek&fulltext=1&ns0=1',
         source: 'Wikipedia',
-        description: 'Materiały edukacyjne IPN o ostatnich latach PRL i roli Rakowskiego.',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1988,
         downloadable: false,
       },
@@ -4834,8 +4858,8 @@ RWPG rozwiązała się w 1991 roku, gdy upadły komunistyczne rządy i rynki wsc
     resources: [
       {
         id: 'rwpg-polona',
-        title: 'Dokumenty RWPG – Polona',
-        type: 'dokument',
+        title: 'RWPG – Rada Wzajemnej Pomocy Gospodarczej – opracowania',
+        type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=RWPG%20Rada%20Wzajemnej%20Pomocy%20Gospodarczej&fulltext=1&ns0=1',
         source: 'Wikipedia',
         description: 'Archiwalne dokumenty i publikacje dotyczące RWPG w zbiorach Polony',
@@ -4907,8 +4931,8 @@ Ostatnie lata życia spędziła w Krakowie, otoczona gronem przyjaciół. Pisał
       },
       {
         id: 'szym-polona',
-        title: 'Archiwum Szymborskiej – Polona',
-        type: 'dokument',
+        title: 'Wisława Szymborska – opracowania',
+        type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Szymborska%20Wis%C5%82awa&fulltext=1&ns0=1',
         source: 'Wikipedia',
         description: 'Zdigitalizowane pierwsze wydania tomów poetyckich Szymborskiej',
@@ -5008,36 +5032,49 @@ Geremek łączył w sobie rzadką kombinację: wybitny uczony i skuteczny polity
     summary: 'Polska Partia Robotnicza (PPR) – komunistyczna partia polityczna działająca w Polsce w latach 1942–1948. Założona z inicjatywy Moskwy, z pomocą Kominternu. Pod przywództwem Władysława Gomułki i Bolesława Bieruta przejęła władzę w Polsce po 1944 roku. W 1948 roku połączyła się z PPS, tworząc PZPR.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Polish_Workers%27_Party_logo.svg?width=800',
     imageCaption: 'Polska Partia Robotnicza',
-    content: `Polska Partia Robotnicza założona została 5 stycznia 1942 roku w Warszawie przez grupę komunistów przybyłych z ZSRR (tzw. inicjatywna grupa). Jej pierwszym sekretarzem był Marceli Nowotko, po jego zamordowaniu – Paweł Finder, a następnie Władysław Gomułka.
+    content: `## Polska Partia Robotnicza (PPR)
 
-**Geneza i Komintern:**
-PPR powstała po rozwiązaniu Komunistycznej Partii Polski przez Komintern w 1938 roku (Stalin uznał KPP za "spenetrowaną przez agentów"). Nowa partia była tworzona według sowieckich wytycznych i z kadrami wyszkolonymi w ZSRR.
+Polska Partia Robotnicza (PPR) była komunistyczną partią polityczną powołaną w 1942 roku przez agentów Kominternu. To ona przejęła władzę w Polsce po 1944 roku i zbudowała komunistyczny system, zakończywszy istnienie w 1948 roku przez fuzję z PPS – tworząc PZPR.
 
-**Działalność w konspiracji:**
-W czasie okupacji PPR prowadziła działalność konspiracyjną i zbrojną przez Gwardię Ludową (od 1944 roku Armię Ludową). Rywalizowała z Armią Krajową, niekiedy dochodziło do starć zbrojnych między obiema organizacjami.
+### Założenie i charakter
 
-**Przejęcie władzy 1944–1948:**
-Po wkroczeniu Armii Czerwonej PPR stała się główną siłą polityczną przy wsparciu ZSRR. Kontrolowała kluczowe resorty – bezpieczeństwo i wojsko. Systematycznie likwidowała opozycję (PSL, PPS prawica, partie podziemne).
+PPR powstała 5 stycznia 1942 roku z inicjatywy Kominternu, jako odrodzenie rozwiązanej w 1938 roku Komunistycznej Partii Polski (KPP). Jej trzon stanowili agenci radzieccy desantowani do kraju – Marceli Nowotko (pierwszy sekretarz, zamordowany w 1942 w niewyjaśnionych okolicznościach), Paweł Finder, Bolesław Bierut.
 
-**Zjednoczenie z PPS:**
-W grudniu 1948 roku na Kongresie Zjednoczeniowym PPR i PPS (Polska Partia Socjalistyczna) połączyły się, tworząc Polską Zjednoczoną Partię Robotniczą (PZPR). Było to zjednoczenie wymuszone – PPS po czystkach wewnętrznych i represjach nie miała już samodzielnego oblicza.`,
+PPR była organizacją konspiracyjną w czasie okupacji. Wydawała gazetę „Trybuna Wolności", prowadziła sabotaż i propagandę. Jej Gwardia Ludowa (potem Armia Ludowa) walczyła z okupantem – ale w konflikcie z AK częściej zajmowała wrogie stanowisko.
+
+### Przejęcie władzy
+
+W 1944 roku, gdy Armia Czerwona wkroczyła na ziemie polskie, PPR stanęła na czele PKWN (Polskiego Komitetu Wyzwolenia Narodowego). Opierając się na sowieckiej sile militarnej, systematycznie przejmowała kluczowe resorty: bezpieczeństwo, wojsko, gospodarkę.
+
+Władysław Gomułka był Sekretarzem Generalnym PPR (1943–1948) i symbolem „polskiej drogi do socjalizmu" – próby relatywnie bardziej niezależnej od Moskwy polityki. Ale Stalin nie tolerował zbytniej niezależności.
+
+### Eliminacja opozycji
+
+W latach 1944–1947 PPR prowadziła systematyczne niszczenie opozycji: PSL Mikołajczyka, podziemia niepodległościowego, Kościoła. UB i sądy wojskowe wykonywały brudną robotę. Sfałszowane wybory 1947 roku usunęły ostatnią przeszkodę formalną.
+
+### Zjednoczenie z PPS
+
+W grudniu 1948 roku PPR połączyła się z Polską Partią Socjalistyczną (PPS) tworząc Polską Zjednoczoną Partię Robotniczą (PZPR). Fuzja była wymuszona – PPR wchłonęła PPS, usuwając niekomunistycznych działaczy socjalistycznych. Gomułka, oskarżony o „odchylenie prawicowo-nacjonalistyczne", został usunięty ze stanowiska i aresztowany.
+
+Powstanie PZPR zamknęło etap „dyktatury koalicyjnej" i otworzyło etap jednolitego stalinizmu.`,
+    trivia: ['Powstała w 1942 roku z inicjatywy Moskwy.', 'W 1948 roku weszła w skład nowo utworzonej PZPR.'],
     resources: [
       {
         id: 'ppr-1',
-        title: 'PPR i początki komunizmu w Polsce – IPN',
+        title: 'Polska Partia Robotnicza – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=PPR%20pocz%C4%85tki%20komunizmu&fulltext=1&ns0=1',
         source: 'Wikipedia',
-        description: 'Materiały edukacyjne IPN o PPR, przejęciu władzy i konsolidacji komunizmu w Polsce.',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1942,
       },
       {
         id: 'ppr-2',
-        title: 'Akta PPR – Archiwum Akt Nowych',
-        type: 'akt',
+        title: 'Polska Partia Robotnicza – zdjęcia i grafiki (2)',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=PPR%20Akt%20Nowych&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
-        description: 'Dokumenty Polskiej Partii Robotniczej w zasobach Archiwum Akt Nowych.',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
         year: 1942,
         downloadable: false,
       },
@@ -5051,7 +5088,7 @@ W grudniu 1948 roku na Kongresie Zjednoczeniowym PPR i PPS (Polska Partia Socjal
         year: 1948,
       },
     ],
-    relatedIds: ['pzpr', 'bierut', 'gomulka', 'manifest-pkwn', 'wybory-1947'],
+    relatedIds: ['pzpr', 'bierut', 'gomulka', 'manifest-pkwn', 'pps'],
   },
   {
     id: 'gorbaczow',
@@ -5082,11 +5119,11 @@ Reformy Gorbaczowa uwolniły odśrodkowe siły, których nie mógł kontrolować
     resources: [
       {
         id: 'gorb-1',
-        title: 'Gorbaczow i upadek komunizmu – materiały IPN',
+        title: 'Gorbaczow i pierestrojka – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Gorbaczow%20upadek%20komunizmu&fulltext=1&ns0=1',
         source: 'Wikipedia',
-        description: 'Materiały edukacyjne IPN o pierestrojce i jej znaczeniu dla Polski i Europy Środkowej.',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1985,
       },
       {
@@ -5141,20 +5178,20 @@ Wynik obnażył brak poparcia dla władzy. Kompromis „wasz prezydent, nasz pre
     resources: [
       {
         id: 'wyl89-1',
-        title: 'Wybory 4 czerwca 1989 – Przystanek Historia',
+        title: 'Wybory 4 czerwca 1989 – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=okragly%20stol&fulltext=1&ns0=1',
         source: 'Wikipedia',
-        description: 'Portal tematyczny IPN o Okrągłym Stole i wyborach czerwcowych 1989 roku.',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1989,
         downloadable: false,
       },
       {
         id: 'wyl89-2',
-        title: 'Noc wyborcza 4 czerwca – archiwum TVP',
+        title: 'Wybory 4 czerwca 1989 – nagranie archiwalne',
         type: 'nagranie',
         url: 'https://www.youtube.com/watch?v=nTEspBNM8Z0',
-        source: 'YouTube / TVP Archiwum',
+        source: 'YouTube',
         description: 'Archiwalne nagrania z nocy wyborczej 4 czerwca 1989 – ogłaszanie wyników.',
         year: 1989,
         downloadable: false,
@@ -5205,6 +5242,7 @@ System FWP nie był idealny – przydział zależał od pozycji w zakładzie pra
 
 **Nostalgia:**
 Wczasy FWP są dziś przedmiotem nostalgii – jako symbol beztroskiego lata, prostego życia nad morzem i wspólnotowych doświadczeń. Zdjęcia z wczasów FWP to ikoniczny obraz PRL-owskiej codzienności.`,
+    trivia: ['Skierowania na wczasy rozdzielały zakłady pracy.', 'Były tanie, ale trzeba było na nie czekać i mieć przydział.'],
     resources: [
       {
         id: 'fwp-1',
@@ -5270,7 +5308,7 @@ Po 13 grudnia 1981 roku wielu działaczy Solidarności, którzy zdołali wyjecha
     resources: [
       {
         id: 'uciecz-1',
-        title: 'Emigracja z PRL – materiały edukacyjne IPN',
+        title: 'Ucieczki z PRL – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Emigracja&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -5359,8 +5397,8 @@ Lem jest patronem nauki o przyszłości, cyberprzestrzeni i etyce technologiczne
       },
       {
         id: 'lem-polona',
-        title: 'Archiwum Lema – Polona',
-        type: 'dokument',
+        title: 'Stanisław Lem – opracowania',
+        type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Lem%20Stanis%C5%82aw%20Solaris&fulltext=1&ns0=1',
         source: 'Wikipedia',
         description: 'Zdigitalizowane pierwsze wydania powieści i esejów Stanisława Lema',
@@ -5479,6 +5517,7 @@ Kluby jazzowe przyciągały młodzież, studentów, intelektualistów. Słuchano
 Komunistyczne władze ostatecznie zaakceptowały jazz – bo widziały, że go nie powstrzymają, a był dla nich wygodniejszy niż rock and roll. Jazz był „intelektualny", a więc bezpieczniejszy klasowo. Festiwal Jazz Jamboree stał się też oknem propagandowym: dowodem, że Polska jest krajem otwartym na kulturę zachodnią.
 
 Ten paradoks – muzyka wolności w systemie zniewolenia – jest jednym z najciekawszych wątków kulturalnych PRL.`,
+    trivia: ['W czasach stalinizmu jazz grano w „katakumbach” – prywatnych mieszkaniach.', 'Po 1956 roku stał się muzyką kojarzoną z wolnością.'],
     resources: [
       {
         id: 'jazz-yt',
@@ -5498,7 +5537,7 @@ Ten paradoks – muzyka wolności w systemie zniewolenia – jest jednym z najci
       },
       {
         id: 'jazz-polona',
-        title: 'Polska prasa jazzowa (Polona)',
+        title: 'Jazz w Polsce Ludowej – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=jazz%20polska%20PRL%201956&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -5616,14 +5655,15 @@ Program 2 TVP uruchomiono w 1970 roku. Telewizja kolorowa pojawiła się w 1971 
 
 **Bojkot telewizji:**
 W czasie stanu wojennego wiele rodzin bojkotowało telewizję o godzinie Dziennika – wystawiając w oknie świecącą świeczkę jako znak solidarności.`,
+    trivia: ['Telewizor był marzeniem – na wspólne oglądanie schodzili się sąsiedzi.', 'Program nadawano tylko przez część dnia, z przerwą w ciągu doby.'],
     resources: [
       {
         id: 'tvp-1',
-        title: 'Archiwum TVP – kroniki i programy historyczne',
+        title: 'Telewizja Polska w PRL – nagrania archiwalne',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Dziennik+Telewizyjny+PRL',
         source: 'YouTube',
-        description: 'Archiwum nagrań TVP z epoki PRL – Dziennik Telewizyjny, Teatr Telewizji, seriale.',
+        description: 'Archiwalne materiały wideo dotyczące tematu.',
         year: 1952,
         downloadable: false,
       },
@@ -5674,6 +5714,7 @@ Elektryfikacja wsi postępowała – w 1945 roku prąd miało 10% wsi, w 1980 ro
 
 **Migracja do miast:**
 Polska wieś intensywnie "wylewała się" do miast – miliony chłopów stały się robotnikami w ciągu jednego pokolenia. Zjawisko to zmieniło strukturę społeczną Polski.`,
+    trivia: ['Elektryfikacja wsi trwała przez całe lata 50. i 60.', 'Rolnicy indywidualni długo nie mieli prawa do emerytury.'],
     resources: [
       {
         id: 'wies-1',
@@ -5733,6 +5774,7 @@ W maju 1981 roku sąd zarejestrował NSZZ RI "Solidarność". Był to jeden z ni
 
 **Stan wojenny:**
 Po 13 grudnia 1981 roku NSZZ RI zdelegalizowano wraz z innymi strukturami Solidarności. Reaktywowano go po 1989 roku.`,
+    trivia: ['Rolnicy walczyli o rejestrację związku wiele miesięcy.', 'Udało się to dopiero wiosną 1981 roku.'],
     resources: [
       {
         id: 'sol-rol-1',
@@ -5746,17 +5788,17 @@ Po 13 grudnia 1981 roku NSZZ RI zdelegalizowano wraz z innymi strukturami Solida
       },
       {
         id: 'sol-rol-2',
-        title: 'Kryzys bydgoski 1981 – materiały IPN',
+        title: 'Solidarność Rolników Indywidualnych – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Kryzys%20bydgoski%201981&fulltext=1&ns0=1',
         source: 'Wikipedia',
-        description: 'Materiały edukacyjne IPN o kryzysie bydgoskim i strajku ostrzegawczym marca 1981.',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1981,
       },
       {
         id: 'sol-rol-3',
-        title: 'NSZZ RI – akta IPN',
-        type: 'akt',
+        title: 'Solidarność Rolników Indywidualnych – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=NSZZ&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Dokumenty SB dotyczące inwigilacji NSZZ Rolników Indywidualnych.',
@@ -5800,7 +5842,7 @@ Negocjacje o wycofaniu wojsk sowieckich rozpoczęły się w 1990 roku. Ostatni �
     resources: [
       {
         id: 'pgwn-1',
-        title: 'Sowieci w Polsce – materiały edukacyjne IPN',
+        title: 'Sowieci w Polsce – Północna Grupa Wojsk – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Sowieci%20Polsce&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -5859,8 +5901,8 @@ Grudzień 1970 r. – masakra na Wybrzeżu – przyspieszył jego odejście z ce
     resources: [
       {
         id: 'cyr-1',
-        title: 'Przemówienia Cyrankiewicza – Polona',
-        type: 'dokument',
+        title: 'Józef Cyrankiewicz – opracowania',
+        type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Przem%C3%B3wienia%20Cyrankiewicza&fulltext=1&ns0=1',
         source: 'Wikipedia',
         description: 'Archiwalne teksty przemówień i artykułów Cyrankiewicza z lat 1945–1970.',
@@ -5979,11 +6021,11 @@ Dopiero w 1988 r. złagodzono przepisy, a 1 stycznia 1989 r. weszła w życie no
     resources: [
       {
         id: 'paszport-1',
-        title: 'Akta paszportowe – zasoby IPN',
-        type: 'akt',
+        title: 'Paszporty i ograniczenia wyjazdowe – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=paszportowe&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
-        description: 'Kartoteki paszportowe MSW przechowywane w zasobach IPN – dostępne dla rodzin i badaczy.',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
         year: 1950,
       },
       {
@@ -6057,10 +6099,11 @@ Po sierpniu 1980 roku Solidarność wydawała swoje regionalne biuletyny, tygodn
 Obok prasy drukowanej kluczową rolę odgrywała telewizja (od 1952) i radio. Dziennik Telewizyjny – główny serwis informacyjny TVP – był synonimem propagandy. Prowadzony przez lojalne kadry, manipulował informacją, przemilczał fakty.
 
 Alternatywą były Radio Wolna Europa i głos Ameryki – słuchane nielegalnie przez miliony.`,
+    trivia: ['Każdy tytuł przechodził cenzurę prewencyjną przed drukiem.', 'Gazety kupowano w kioskach „Ruchu” albo zamawiało się prenumeratę na poczcie.'],
     resources: [
       {
         id: 'prasa-polona',
-        title: 'Prasa PRL – archiwalne numery (Polona)',
+        title: 'Prasa i media w PRL – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Trybuna%20Ludu%20Polityka%20Przekr%C3%B3j%20PRL&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -6122,11 +6165,11 @@ Pogrom kielecki przyspieszyć masową emigrację polskich Żydów na Zachód i d
       },
       {
         id: 'kielce-2',
-        title: 'Akta śledztwa – IPN',
-        type: 'akt',
+        title: 'Pogrom kielecki 1946 – zdjęcia i grafiki (2)',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=%C5%9Bledztwa&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
-        description: 'Dokumenty śledztwa IPN w sprawie pogromu kieleckiego z 4 lipca 1946 r.',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
         year: 1946,
       },
       {
@@ -6239,6 +6282,7 @@ Temat Kresów był w PRL półtabu: mówienie o przywiązaniu do Lwowa czy Wilna
 ## Pamięć i tożsamość
 
 Pokolenia wysiedlonych Kresowiaków wychowywały dzieci i wnuki w kulcie utraconej ojczyzny. Towarzystwa Miłośników Lwowa, Wilna, Grodna działały mimo trudności. Dziś kultura kresowa – lwowska gwara, kresowe przepisy kulinarne, literatura – jest żywym dziedzictwem milionów Polaków.`,
+    trivia: ['Utracone ziemie wschodnie były w PRL tematem tabu.', 'O Kresach mówiło się w domach, nie w szkole.'],
     resources: [
       {
         id: 'kresy-1',
@@ -6251,7 +6295,7 @@ Pokolenia wysiedlonych Kresowiaków wychowywały dzieci i wnuki w kulcie utracon
       },
       {
         id: 'kresy-2',
-        title: 'Materiały edukacyjne IPN – Kresy i repatriacje',
+        title: 'Kresy Wschodnie – utracona ojczyzna – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Kresy%20repatriacje&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -6298,6 +6342,7 @@ Osobnym rozdziałem było przymusowe przesiedlenie Ukraińców z południa i wsc
 ## Nowe społeczeństwo
 
 Ziemie Odzyskane stały się tyglem etnicznym i kulturowym: obok Polaków z Kresów przybyli tam Polacy z centralnej Polski, Żydzi, volksdeutsche. Budowała się nowa tożsamość tych ziem – z nostalgią za Kresami i przywiązaniem do "małej ojczyzny" dolnośląskiej.`,
+    trivia: ['Po wojnie miejsce zamieszkania zmieniły miliony ludzi.', 'Przesiedleńcy z Kresów trafiali głównie na Ziemie Zachodnie.'],
     resources: [
       {
         id: 'repat-1',
@@ -6310,7 +6355,7 @@ Ziemie Odzyskane stały się tyglem etnicznym i kulturowym: obok Polaków z Kres
       },
       {
         id: 'repat-2',
-        title: 'Materiały edukacyjne IPN – migracje powojenne',
+        title: 'Wielka migracja powojenna – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=migracje%20powojenne&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -6371,7 +6416,7 @@ Kwestia odszkodowań dla potomków wywłaszczonych właścicieli ziemskich pozos
       },
       {
         id: 'rolna-2',
-        title: 'Materiały edukacyjne IPN – reforma rolna',
+        title: 'Reforma rolna PKWN 1944 – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=reforma%20rolna&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -6420,14 +6465,15 @@ Z PKF zaczynali lub pracowali w niej wybitni filmowcy: Krzysztof Kieślowski (na
 ## Koniec
 
 PKF przeżyła PRL – nadawano ją do 1994 r., zmieniając stopniowo profil. Archiwum PKF liczy dziś tysiące numerów i jest dostępne cyfrowo. To jeden z najważniejszych zasobów historii wizualnej Polski XX w.`,
+    trivia: ['Kronikę wyświetlano przed seansem – widz nie mógł jej pominąć.', 'Nadawano ją nieprzerwanie przez pół wieku, do 1994 roku.'],
     resources: [
       {
         id: 'pkf-1',
-        title: 'Archiwum PKF',
-        type: 'film',
+        title: 'Polska Kronika Filmowa – nagrania archiwalne',
+        type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa',
         source: 'YouTube',
-        description: 'Cyfrowe archiwum Polskiej Kroniki Filmowej z lat 1944–1994 dostępne online.',
+        description: 'Archiwalne materiały wideo dotyczące tematu.',
         year: 1944,
       },
       {
@@ -6441,7 +6487,7 @@ PKF przeżyła PRL – nadawano ją do 1994 r., zmieniając stopniowo profil. Ar
       },
       {
         id: 'pkf-3',
-        title: 'Materiały o historii PKF – Polona',
+        title: 'Polska Kronika Filmowa – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=historii%20PKF&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -6450,11 +6496,11 @@ PKF przeżyła PRL – nadawano ją do 1994 r., zmieniając stopniowo profil. Ar
       },
       {
         id: 'pkf-4',
-        title: 'Repozytorium Cyfrowe Filmoteki Narodowej',
-        type: 'film',
+        title: 'Polska Kronika Filmowa – nagrania archiwalne (2)',
+        type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+kroniki+archiwalne',
-        source: 'Filmoteka Narodowa – Instytut Audiowizualny',
-        description: 'Zdigitalizowane kroniki filmowe i dokumenty filmowe ze zbiorów Filmoteki Narodowej.',
+        source: 'YouTube',
+        description: 'Archiwalne materiały wideo dotyczące tematu.',
         year: 1945,
       },
       {
@@ -6485,8 +6531,8 @@ PKF przeżyła PRL – nadawano ją do 1994 r., zmieniając stopniowo profil. Ar
       },
       {
         id: 'pkf-8',
-        title: 'TVP VOD – kroniki i archiwa',
-        type: 'film',
+        title: 'Polska Kronika Filmowa – nagrania archiwalne (3)',
+        type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+archiwalne',
         source: 'YouTube',
         description: 'Archiwalne materiały filmowe w serwisie TVP VOD.',
@@ -6532,6 +6578,7 @@ Wytwórnia działała pod nadzorem cenzury i władz kinematografii. Wiele filmó
 ## Dziedzictwo
 
 Po 1989 r. wytwórnia kontynuowała działalność jako WFDiF. Jej archiwum – kroniki, dokumenty, taśmy – przeszło w opiekę instytucji audiowizualnych i jest stopniowo digitalizowane. To jeden z największych zasobów filmowej pamięci PRL.`,
+    trivia: ['W wytwórni przy ulicy Chełmskiej powstawały kroniki, dokumenty i filmy fabularne.', 'To tam realizowano większość Polskiej Kroniki Filmowej.'],
     resources: [
       {
         id: 'wfdif-1',
@@ -6591,6 +6638,7 @@ Marcel Łoziński ("Jak żyć", "Próba mikrofonu", "89 mm od Europy") rozwijał
 ## Cenzura i "półkowniki"
 
 Wiele dokumentów trafiało "na półkę" – nie dopuszczano ich do rozpowszechniania. Filmy o strajkach, biedzie, prawdzie o historii czekały na premierę aż do 1989 r. Mimo to polski dokument zachował niezależność artystyczną i moralną, stając się sumieniem epoki.`,
+    trivia: ['Dokumentaliści potrafili mówić prawdę między wierszami.', 'Wielu twórców fabuły zaczynało właśnie od dokumentu.'],
     resources: [
       {
         id: 'dok-1',
@@ -6612,7 +6660,7 @@ Wiele dokumentów trafiało "na półkę" – nie dopuszczano ich do rozpowszech
       },
       {
         id: 'dok-3',
-        title: 'Historia polskiego dokumentu – Polona',
+        title: 'Polski film dokumentalny w PRL – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=polski%20film%20dokumentalny&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -6650,11 +6698,12 @@ Paradoksalnie kronika utrwaliła też obrazy, które dziś czytamy wbrew intencj
 ## Kronika jako źródło historyczne
 
 Dla historyka PKF jest źródłem podwójnym: mówi o wydarzeniach i o sposobie, w jaki władza chciała je przedstawić. Analiza komentarza, montażu i doboru ujęć ujawnia mechanizmy propagandy. Dlatego kroniki są dziś materiałem edukacyjnym o manipulacji medialnej.`,
+    trivia: ['Kroniki pokazywały przede wszystkim sukcesy i budowy.', 'O katastrofach i protestach milczały lub podawały wersję władz.'],
     resources: [
       {
         id: 'krwyd-1',
-        title: 'Archiwum PKF według wydarzeń',
-        type: 'film',
+        title: 'Wielkie wydarzenia PRL w kronice filmowej – nagrania archiwalne',
+        type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa',
         source: 'YouTube',
         description: 'Kolejne numery PKF dokumentujące najważniejsze wydarzenia PRL.',
@@ -6671,10 +6720,10 @@ Dla historyka PKF jest źródłem podwójnym: mówi o wydarzeniach i o sposobie,
       },
       {
         id: 'krwyd-3',
-        title: 'Repozytorium Filmoteki Narodowej – kroniki',
-        type: 'film',
+        title: 'Wielkie wydarzenia PRL w kronice filmowej – nagrania archiwalne (2)',
+        type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+kroniki+archiwalne',
-        source: 'Filmoteka Narodowa – Instytut Audiowizualny',
+        source: 'YouTube',
         description: 'Zdigitalizowane numery kronik filmowych z całego okresu PRL.',
         year: 1960,
       },
@@ -6709,10 +6758,11 @@ Emigracja naukowców była stałym problemem. Wybitni uczeni opuszczali PRL – 
 ## Studenci i życie akademickie
 
 Życie studenckie PRL miało swój specyficzny klimat: akademiki, juwenalia, studenckie teatry i kabarety (STS, Piwnica pod Baranami). Stypendium starczało na minimum; polityczny nadzór – przez ZMP i ZSMP – był odczuwalny, lecz walka o niezależność trwała nieprzerwanie.`,
+    trivia: ['Studia były bezpłatne, ale kadrę kontrolowano politycznie.', 'Po Marcu \'68 wielu naukowców zmuszono do emigracji.'],
     resources: [
       {
         id: 'nauka-1',
-        title: 'Publikacje PAN i uczelni – Polona',
+        title: 'Nauka i szkolnictwo wyższe w PRL – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Publikacje%20PAN%20uczelni&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -6730,7 +6780,7 @@ Emigracja naukowców była stałym problemem. Wybitni uczeni opuszczali PRL – 
       },
       {
         id: 'nauka-3',
-        title: 'Materiały edukacyjne IPN – nauka w PRL',
+        title: 'Nauka i szkolnictwo wyższe w PRL – opracowania (3)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=nauka&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -6776,10 +6826,11 @@ Zachodnie dżinsy – symbol kontrkultury – stały się w PRL fetyszem wolnoś
 ## Lata 80. i kolorowa dekada
 
 Lata 80. przyniosły pewną liberalizację mody: krakowskie bazary, "ciucholandy" (second-handy importowane z Zachodu), pierwsze prywatne sklepy odzieżowe. Młodzież ubrana w kolorowe dresy, militaria i elementy punk – mimo szarości systemu – budowała własną estetykę.`,
+    trivia: ['Ubrania szyto samodzielnie albo u krawcowej.', 'Dżinsy z Pewexu były przedmiotem marzeń całego pokolenia.'],
     resources: [
       {
         id: 'moda-1',
-        title: 'Fotografie mody PRL – Polona',
+        title: 'Moda i ubiór w PRL – zdjęcia i grafiki',
         type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Fotografie%20mody&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
@@ -6797,7 +6848,7 @@ Lata 80. przyniosły pewną liberalizację mody: krakowskie bazary, "ciucholandy
       },
       {
         id: 'moda-3',
-        title: 'Prasa kobieca z okresu PRL – Polona',
+        title: 'Moda i ubiór w PRL – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Prasa%20kobieca%20okresu&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -6835,10 +6886,11 @@ Kawa i kakao były luksusem – serwowano "kawę zbożową" (inka). Czekolada, c
 ## Domowa produkcja
 
 Polacy prowadzili intensywną produkcję domową: przetwory, dżemy, pikliki, nalewki, domowe wyroby wędliniarskie. Działka rekreacyjna z warzywnikiem była bezcenna – uzupełniała sklepowe niedobory. Tradycja "robienia zapasów" przetrwała jako nawyk u starszych Polaków.`,
+    trivia: ['Menu zależało od tego, co akurat „rzucili” do sklepu.', 'Powszechne były domowe przetwory i weki na zimę.'],
     resources: [
       {
         id: 'kuchnia-1',
-        title: 'Książki kucharskie PRL – Polona',
+        title: 'Kuchnia i jedzenie w PRL – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Ksi%C4%85%C5%BCki%20kucharskie&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -6894,14 +6946,15 @@ Najodważniejszy film nurtu: "Przesłuchanie" (1982) Ryszarda Bugajskiego – hi
 ## Zakończenie nurtu
 
 Stan wojenny 1981 r. zakończył nurt – część twórców wyemigrowała (Holland), innych dotknęły represje. Lecz pytania, które kino moralnego niepokoju zadało, pozostały aktualne.`,
+    trivia: ['Nurt narodził się w drugiej połowie lat 70.', 'Po 13 grudnia 1981 większość jego filmów trafiła na półki.'],
     resources: [
       {
         id: 'kmn-1',
-        title: 'Filmy kina moralnego niepokoju',
-        type: 'film',
+        title: 'Kino moralnego niepokoju – nagrania archiwalne (2)',
+        type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=kino+moralnego+niepokoju',
         source: 'YouTube',
-        description: 'Archiwalne filmy nurtu kina moralnego niepokoju dostępne w cyfrowym archiwum.',
+        description: 'Archiwalne materiały wideo dotyczące tematu.',
         year: 1975,
       },
       {
@@ -6954,10 +7007,11 @@ Emigracja wydała wybitnych twórców: Witold Gombrowicz (Argentyna), Czesław M
 ## Wsparcie dla Solidarności
 
 W latach 80. emigracja zachodnia aktywnie wspierała "Solidarność": zbierała fundusze, organizowała pomoc materialną (leki, sprzęt poligraficzny), lobbowała rządy zachodnie. Radio Wolna Europa nadawało z Monachium. Wstrząs stanu wojennego zjednoczył emigrację wokół sprawy wolnej Polski.`,
+    trivia: ['Emigracja polityczna skupiała się w Londynie i Paryżu.', 'Kolejne fale wyjazdów następowały po 1945, 1968 i 1981 roku.'],
     resources: [
       {
         id: 'polonial-1',
-        title: 'Prasa emigracyjna – Polona',
+        title: 'Polska emigracja na Zachodzie – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Prasa%20emigracyjna&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -6966,8 +7020,8 @@ W latach 80. emigracja zachodnia aktywnie wspierała "Solidarność": zbierała 
       },
       {
         id: 'polonial-2',
-        title: 'Akta emigracji polskiej – Archiwa Państwowe',
-        type: 'akt',
+        title: 'Polska emigracja na Zachodzie – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=emigracji%20polskiej%20Archiwa&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Dokumenty dotyczące polskiej emigracji zachodniej.',
@@ -6975,7 +7029,7 @@ W latach 80. emigracja zachodnia aktywnie wspierała "Solidarność": zbierała 
       },
       {
         id: 'polonial-3',
-        title: 'Materiały edukacyjne IPN – emigracja polska',
+        title: 'Polska emigracja na Zachodzie – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=emigracja&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -7013,10 +7067,11 @@ Nostalgia za PRL jest też instrumentalizowana politycznie: partie lewicowe chę
 ## Badania historyczne a pamięć
 
 Historycy wskazują, że nostalgia za PRL jest specyficzna dla pokolenia dorosłości w tamtych czasach – i maleje wśród młodszych, wychowanych po 1989 r. Zarazem rośnie akademickie zainteresowanie historią codzienności PRL, wykraczające poza narrację represji.`,
+    trivia: ['Nostalgia dotyczy najczęściej dzieciństwa, a nie ustroju.', 'Powstały muzea i lokale stylizowane na epokę.'],
     resources: [
       {
         id: 'nostalgia-1',
-        title: 'Materiały edukacyjne IPN – pamięć o PRL',
+        title: 'Nostalgia za PRL – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=pami%C4%99%C4%87&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -7034,7 +7089,7 @@ Historycy wskazują, że nostalgia za PRL jest specyficzna dla pokolenia dorosł
       },
       {
         id: 'nostalgia-3',
-        title: 'Archiwum fotografii PRL – Polona',
+        title: 'Nostalgia za PRL – zdjęcia i grafiki',
         type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=fotografii&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
@@ -7085,7 +7140,7 @@ Kwestia TW do dziś dzieli polskie społeczeństwo. Jedni domagają się pełneg
       },
       {
         id: 'tw-2',
-        title: 'Materiały edukacyjne IPN – inwigilacja',
+        title: 'Tajni współpracownicy SB – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=inwigilacja&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -7145,10 +7200,11 @@ Po ataku Niemiec na ZSRR (czerwiec 1941) Stalin uwolnił część Polaków, by w
 ## Pamięć w PRL
 
 Temat deportacji był w PRL przemilczany – zbrodnie sowieckie podlegały cenzurze. Rodziny deportowanych nie mogły mówić otwarcie o swoich przeżyciach. Dopiero po 1989 r. Polska uzyskała pełny dostęp do sowieckich archiwów i możliwość upamiętnień.`,
+    trivia: ['Wywózki objęły setki tysięcy obywateli przedwojennej Polski.', 'Transporty kierowano do Kazachstanu i na Syberię.'],
     resources: [
       {
         id: 'dep-1',
-        title: 'Materiały edukacyjne IPN – deportacje 1940–1941',
+        title: 'Deportacje Polaków na Wschód – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=deportacje%201940%201941&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -7273,10 +7329,11 @@ Związek Socjalistycznej Młodzieży Polskiej (ZSMP) był organizacją dla stars
 ## Kultura dziecięca
 
 Polska animacja i literatura dziecięca PRL stworzyły wiele wybitnych dzieł – Bolek i Lolek, Miś Uszatek, Reksio, "Akademia Pana Kleksa" Brzechwy. Kultura popularna dla dzieci była relatywnie wolna od ideologii, skupiając się na przygodzie i wartościach ogólnoludzkich. To właśnie ta warstwa PRL-owskiej kultury budzi dziś sentyment.`,
+    trivia: ['Dzieci spędzały czas na podwórku, bez stałego nadzoru dorosłych.', 'Królowały zabawy na trzepaku, skakanka i gra w klasy.'],
     resources: [
       {
         id: 'dzieci-1',
-        title: 'Podręczniki szkolne PRL – Polona',
+        title: 'Dzieci i młodzież w PRL – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Podr%C4%99czniki%20szkolne&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -7338,8 +7395,8 @@ Pilecki został zrehabilitowany dopiero po 1989 r. W 2006 r. pośmiertnie odznac
     resources: [
       {
         id: 'pilecki-1',
-        title: 'Akta procesu Pileckiego – IPN',
-        type: 'akt',
+        title: 'Rotmistrz Witold Pilecki – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=procesu%20Pileckiego&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Dokumenty śledztwa i procesu sądowego rotmistrza Witolda Pileckiego.',
@@ -7347,7 +7404,7 @@ Pilecki został zrehabilitowany dopiero po 1989 r. W 2006 r. pośmiertnie odznac
       },
       {
         id: 'pilecki-2',
-        title: 'Materiały edukacyjne IPN – Pilecki',
+        title: 'Rotmistrz Witold Pilecki – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Pilecki&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -7394,6 +7451,7 @@ W muzyce socrealizm wymagał melodyjności, zrozumiałości i "optymizmu" – aw
 ## Odwilż i dziedzictwo
 
 Po śmierci Stalina (1953) i XX Zjeździe KPZR (1956) socrealizm zaczął się kruszyć. W Polsce "odwilż" kulturalna była wyraźna – artyści odetchnęli, jazz stał się legalny, awangarda powróciła. Architektoniczne relikty socrealizmu – MDM, PKiN, osiedla z lat 50. – stoją do dziś, będąc teraz zabytkami.`,
+    trivia: ['Doktrynę ogłoszono na zjeździe literatów w Szczecinie w 1949 roku.', 'Po 1956 roku odrzucono ją równie szybko, jak wprowadzono.'],
     resources: [
       {
         id: 'soc-yt',
@@ -7414,7 +7472,7 @@ Po śmierci Stalina (1953) i XX Zjeździe KPZR (1956) socrealizm zaczął się k
       },
       {
         id: 'socreal-2',
-        title: 'Materiały edukacyjne IPN – kultura PRL',
+        title: 'Socrealizm w sztuce i architekturze – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=kultura&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -7461,6 +7519,7 @@ Nieformalna gospodarka w służbie zdrowia kwitła. "Koperta" dla chirurga przed
 ## Psychiatria jako narzędzie represji
 
 Wzorem sowieckim SB używała psychiatrii jako narzędzia represji: dysydentów umieszczano w szpitalach psychiatrycznych (np. w Pruszkowie), diagnozując "powolną schizofrenię" jako chorobę osób niezgadzających się z systemem.`,
+    trivia: ['Opieka była bezpłatna, ale brakowało leków i sprzętu.', 'Wiele spraw załatwiało się przez znajomości.'],
     resources: [
       {
         id: 'zdrowie-1',
@@ -7518,6 +7577,7 @@ Teatr bywał zarzewiem wydarzeń politycznych – zdjęcie „Dziadów” w reż
 
 ## Znaczenie
 Teatr PRL łączył wysoki poziom artystyczny z funkcją obywatelską, będąc jedną z najważniejszych przestrzeni wolności w zniewolonym kraju.`,
+    trivia: ['Teatr bywał miejscem mówienia prawdy aluzją.', 'Publiczność nagradzała brawami zdania o wolności, choć padały w kostiumie historycznym.'],
     resources: [
       {
         id: 'teatr-1',
@@ -7586,7 +7646,7 @@ Po wojnie Anders i żołnierze II Korpusu nie wrócili do Polski, którą rządz
     resources: [
       {
         id: 'anders-1',
-        title: 'Materiały edukacyjne IPN – Anders i II Korpus',
+        title: 'Gen. Władysław Anders i Armia Andersa – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Anders%20Korpus&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -7595,7 +7655,7 @@ Po wojnie Anders i żołnierze II Korpusu nie wrócili do Polski, którą rządz
       },
       {
         id: 'anders-2',
-        title: 'Fotografie II Korpusu – Polona',
+        title: 'Gen. Władysław Anders i Armia Andersa – zdjęcia i grafiki',
         type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Fotografie%20Korpusu&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
@@ -7644,6 +7704,7 @@ Rząd emigracyjny działał nieprzerwanie przez 45 lat. Kolejni prezydenci: Racz
 ## Przekazanie insygniów
 
 22 grudnia 1990 r. ostatni prezydent na uchodźstwie Ryszard Kaczorowski przekazał w Warszawie insygnia władzy (oryginalną przedwojenną pieczęć, odznaczenia, dokumenty) Lechowi Wałęsie. Symboliczne domknięcie historii: Polska odzyskała ciągłość prawną przerwaną w 1945 r.`,
+    trivia: ['Działał w Londynie aż do 1990 roku.', 'Insygnia prezydenckie przekazano wtedy Lechowi Wałęsie.'],
     resources: [
       {
         id: 'rzad-em-1',
@@ -7656,7 +7717,7 @@ Rząd emigracyjny działał nieprzerwanie przez 45 lat. Kolejni prezydenci: Racz
       },
       {
         id: 'rzad-em-2',
-        title: 'Materiały edukacyjne IPN – rząd emigracyjny',
+        title: 'Rząd RP na uchodźstwie – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=rz%C4%85d%20emigracyjny&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -7665,7 +7726,7 @@ Rząd emigracyjny działał nieprzerwanie przez 45 lat. Kolejni prezydenci: Racz
       },
       {
         id: 'rzad-em-3',
-        title: 'Prasa emigracyjna i dokumenty – Polona',
+        title: 'Rząd RP na uchodźstwie – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Prasa%20emigracyjna&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -7705,10 +7766,11 @@ Ze środowiskiem "TP" związani byli m.in.: ks. Józef Tischner (filozof), Adam 
 ## Po 1989
 
 Po 1989 r. "Tygodnik Powszechny" kontynuował działalność jako niezależne pismo katolickie. W 2012 r. przeszedł głęboki kryzys finansowy, lecz przetrwał. Do dziś ukazuje się jako jeden z ważniejszych tygodników opinii w Polsce.`,
+    trivia: ['Pismo zamknięto w 1953 roku za odmowę wydrukowania nekrologu Stalina.', 'Wznowiono je dopiero po Październiku 1956.'],
     resources: [
       {
         id: 'tp-1',
-        title: 'Archiwum Tygodnika Powszechnego – Polona',
+        title: 'Tygodnik Powszechny – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Tygodnika%20Powszechnego&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -7777,7 +7839,7 @@ Historycy spierają się, czy Roosevelt i Churchill mieli realną alternatywę �
       },
       {
         id: 'jalta-2',
-        title: 'Dokumenty i prasa z 1945 r. – Polona',
+        title: 'Konferencja Jałtańska 1945 – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=prasa%201945&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -7824,10 +7886,11 @@ Polska 2. Armia LWP wzięła udział w inwazji. Dla wielu polskich żołnierzy b
 ## Doktryna Breżniewa
 
 Inwazja dała początek "doktrynie Breżniewa" – ZSRR zarezerwował sobie prawo do interwencji w każdym kraju socjalistycznym zagrażającym jedności bloku. Doktryna obowiązywała aż do 1989 r., kiedy Gorbaczow ją odrzucił.`,
+    trivia: ['W inwazji na Czechosłowację wzięło udział Wojsko Polskie.', 'W proteście przeciw niej samospalił się Ryszard Siwiec.'],
     resources: [
       {
         id: 'praga68-1',
-        title: 'Materiały edukacyjne IPN – 1968 i inwazja na CSRS',
+        title: 'Praska Wiosna 1968 – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=1968%20inwazja%20CSRS&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -7883,6 +7946,7 @@ Marszałkowska Dzielnica Mieszkaniowa (MDM, 1950–1952) z monumentalnymi kamien
 ## Czyn społeczny i mit
 
 Odbudowa stała się mitem założycielskim PRL: tysiące ochotników z całego kraju pracowało przy odgruzowaniu. Propagandowe kroniki filmowe pokazywały "cały naród buduje swoją stolicę".`,
+    trivia: ['Stare Miasto odtwarzano m.in. na podstawie obrazów Canaletta.', 'Odbudowa była zarazem realnym wysiłkiem i propagandowym sukcesem władzy.'],
     resources: [
       {
         id: 'ow-pkf',
@@ -7954,8 +8018,8 @@ Część akt wywiadu PRL zniszczono przed przekazaniem do IPN. Zachowane dokumen
     resources: [
       {
         id: 'wywiad-1',
-        title: 'Akta wywiadu PRL – zasoby IPN',
-        type: 'akt',
+        title: 'Wywiad i kontrwywiad PRL – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=wywiadu&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Zachowane akta Departamentu I i II MSW dotyczące operacji wywiadowczych PRL.',
@@ -7963,7 +8027,7 @@ Część akt wywiadu PRL zniszczono przed przekazaniem do IPN. Zachowane dokumen
       },
       {
         id: 'wywiad-2',
-        title: 'Materiały edukacyjne IPN – służby specjalne PRL',
+        title: 'Wywiad i kontrwywiad PRL – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=s%C5%82u%C5%BCby%20specjalne&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -8018,6 +8082,7 @@ Stan wojenny zawieszono 31 grudnia 1982 r., zniesiono 22 lipca 1983 r. WRON rozw
 ## Ocena
 
 WRON i stan wojenny ocenia się różnie: jako "mniejsze zło" (Jaruzelski twierdził, że zapobiegł sowieckiej interwencji) lub jako zdradę narodu przez własne wojsko. Debata historyczna trwa.`,
+    trivia: ['Wojskowa Rada Ocalenia Narodowego przejęła władzę 13 grudnia 1981.', 'Skrót złośliwie rozwijano jako „wronę”, która orła nie pokona.'],
     resources: [
       {
         id: 'wron-1',
@@ -8082,7 +8147,7 @@ Chruszczow rządził ZSRR do 1964 r. Jego czas to "odwilż" – ograniczenie ter
     resources: [
       {
         id: 'chruszcz-1',
-        title: 'Materiały edukacyjne IPN – destalinizacja',
+        title: 'Chruszczow i destalinizacja – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=destalinizacja&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -8206,14 +8271,15 @@ Adaptacja wierszy Czesława Janczarskiego produkcji Se-ma-for wyróżniała się
 ## Artystyczna animacja
 
 Obok animacji dziecięcej polska szkoła tworzyła filmy dla dorosłych – krótkie metraże Jana Lenicy, Waleriana Borowczyka, Daniela Szczechury. Polska animacja artystyczna zdobywała nagrody na festiwalach w Cannes i Wenecji.`,
+    trivia: ['Polskie kreskówki często obywały się bez dialogów – dzięki temu rozumiano je wszędzie.', 'Powstawały głównie w studiach w Bielsku-Białej i Łodzi.'],
     resources: [
       {
         id: 'anim-1',
-        title: 'Polska animacja',
-        type: 'film',
+        title: 'Polska animacja w PRL – nagrania archiwalne (2)',
+        type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=polska+animacja',
         source: 'YouTube',
-        description: 'Archiwalne filmy animowane PRL dostępne w cyfrowym archiwum archiwa filmowe.',
+        description: 'Archiwalne materiały wideo dotyczące tematu.',
         year: 1960,
       },
       {
@@ -8267,10 +8333,11 @@ Trójka przełamywała bariery: jako pierwsza medium publiczne puszczała jazz, 
 ## Opór i kontrkultura
 
 Radio Wolna Europa zagłuszano do końca lat 80. – ale Polacy i tak słuchali, obracając gałkę w kierunku Monachium. Odbiorniki radiowe były w niemal każdym domu; radio było medium codziennym i bliskim bardziej niż telewizja.`,
+    trivia: ['Zakładowy radiowęzeł nadawał komunikaty i muzykę prosto na halę.', 'Sygnał „Lata z Radiem” znała cała Polska.'],
     resources: [
       {
         id: 'radio-prl-1',
-        title: 'Archiwum nagrań Polskiego Radia',
+        title: 'Radio w PRL – nagrania archiwalne',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Polskie+Radio+archiwum',
         source: 'YouTube',
@@ -8279,7 +8346,7 @@ Radio Wolna Europa zagłuszano do końca lat 80. – ale Polacy i tak słuchali,
       },
       {
         id: 'radio-prl-2',
-        title: 'Zbiory prasowe o Polskim Radiu – Polona',
+        title: 'Radio w PRL – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=prasowe%20Polskim%20Radiu&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -8330,7 +8397,7 @@ Kisielewski reprezentował w PRL-u coś rzadkiego: liberalny, antysocjalistyczny
     resources: [
       {
         id: 'kisiel-1',
-        title: 'Felietony Kisielewskiego – Polona',
+        title: 'Stefan Kisielewski – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Felietony%20Kisielewskiego&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -8388,6 +8455,7 @@ Po Marcu 1968 Moczar liczył na przejęcie władzy po Gomułce. Grudzień 1970 i
 ## Dziedzictwo
 
 Moczar jest symbolem narodowo-komunistycznej hybrydy: połączenia nacjonalizmu z partyjną ortodoksją, ksenofobii z komunistycznym doktryneryzem. Jego kampania 1968 r. jest jednym z najhaniebniejszych rozdziałów historii PRL.`,
+    trivia: ['Stał na czele partyjnej frakcji „partyzantów”.', 'Kampanię antysemicką 1968 roku wykorzystał w walce o władzę.'],
     resources: [
       {
         id: 'moczar-1',
@@ -8400,7 +8468,7 @@ Moczar jest symbolem narodowo-komunistycznej hybrydy: połączenia nacjonalizmu 
       },
       {
         id: 'moczar-2',
-        title: 'Materiały edukacyjne IPN – Marzec 1968 i antysemityzm',
+        title: 'Mieczysław Moczar i frakcja partyzantów – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Marzec%201968%20antysemityzm&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -8447,6 +8515,7 @@ Jeden z największych kompozytorów XX w. Jego "Koncert na orkiestrę" (1954), "
 ## Henryk Mikołaj Górecki (1933–2010)
 
 Górecki zasłynął przede wszystkim "III Symfonią" ("Symfonia pieśni żałosnych", 1976) – nagraną w 1992 r. przez Dawida Zinmana, sprzedała się w ponad milionie egzemplarzy. Łączyła minimalizm z polską tradycją religijną i historyczną.`,
+    trivia: ['Warszawska Jesień była oknem na muzykę współczesną Zachodu.', 'Polscy kompozytorzy zdobyli w tym czasie światową renomę.'],
     resources: [
       {
         id: 'muz-pow-1',
@@ -8530,7 +8599,7 @@ Po 1989 r. Kiszczak był wielokrotnie oskarżany – o udział w wprowadzeniu st
       },
       {
         id: 'kiszczak-3',
-        title: 'Materiały edukacyjne IPN – stan wojenny i MSW',
+        title: 'Gen. Czesław Kiszczak – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=stan%20wojenny%20MSW&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -8571,14 +8640,15 @@ Polska szkoła filmowa działała w ramach systemu, lecz potrafiła go oszukiwa�
 ## Dziedzictwo
 
 Polska szkoła filmowa umieściła kino polskie na mapie kinematografii światowej. Łódź do dziś jest centrum polskiego kina – filmówka wydała kolejne pokolenia wielkich twórców: Kieślowskiego, Zanussiego, Agnieszki Holland.`,
+    trivia: ['Nurt trwał od połowy lat 50. do początku 60.', 'Rozliczał się z doświadczeniem wojny i mitem heroizmu.'],
     resources: [
       {
         id: 'psf-1',
-        title: 'Filmy polskiej szkoły filmowej',
-        type: 'film',
+        title: 'Polska szkoła filmowa – nagrania archiwalne',
+        type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=polska+szko%C5%82a+filmowa',
         source: 'YouTube',
-        description: 'Archiwalne filmy polskiej szkoły filmowej dostępne w cyfrowym archiwum archiwa filmowe.',
+        description: 'Archiwalne materiały wideo dotyczące tematu.',
         year: 1956,
       },
       {
@@ -8630,6 +8700,7 @@ Kronikarz codzienności i językowy eksperymentator. Jego "Pamiętnik z Powstani
 ## Tadeusz Konwicki (1926–2015)
 
 Prozaik i scenarzysta. Jego powieści – "Kronika wypadków miłosnych" (1974), "Mała apokalipsa" (1979, wydana w drugim obiegu) – łączyły autobiografię, politykę i metafizykę. "Mała apokalipsa" była ostrą satyrą na PRL, niemożliwą do legalnej publikacji.`,
+    trivia: ['Część pisarzy publikowała wyłącznie w drugim obiegu albo na emigracji.', 'Czesław Miłosz odebrał literacką Nagrodę Nobla w 1980 roku.'],
     resources: [
       {
         id: 'lit-prl-1',
@@ -8691,6 +8762,7 @@ Propagandowa formuła "jedności moralno-politycznej narodu" miała oznaczać pe
 **Wybory 1989 roku**
 
 Przełomem były wyspy częściowo wolne wybory z 4 czerwca 1989 roku, będące wynikiem Okrągłego Stołu. PZPR zagwarantowała sobie 65% miejsc w Sejmie i wszystkie miejsca w Senacie (nowo tworzonej izbie) były dostępne w pełni wolnych wyborach. "Solidarność" wygrała niemal wszystkie wolne mandaty, a poseł Tadeusz Mazowiecki został pierwszym niekomunistycznym premierem od 40 lat. Był to koniec systemu fasadowych wyborów.`,
+    trivia: ['Głosowano na jedną listę – bez realnego wyboru kandydatów.', 'Wejście za kotarę, by skreślać, było odnotowywane.'],
     resources: [
       {
         id: 'wybory-1947-ipn',
@@ -8747,6 +8819,7 @@ Mimo że Polska pozostała krajem z dominującym rolnictwem prywatnym, kryzysy �
 **Schyłek i transformacja**
 
 W latach 80. rolnicy uzyskali możliwość zrzeszania się w niezależnych związkach (NSZZ "Solidarność" Rolników Indywidualnych). Po 1989 roku prywatne rolnictwo polskie weszło w trudny okres transformacji rynkowej, a po wstąpieniu do UE skorzystało z systemu dopłat bezpośrednich.`,
+    trivia: ['Polska była jedynym krajem bloku z przewagą gospodarstw prywatnych.', 'Rolnicy przez lata musieli oddawać obowiązkowe dostawy płodów rolnych.'],
     resources: [
       {
         id: 'rolnictwo-reforma',
@@ -8809,14 +8882,15 @@ W dekadzie gierkowskiej (lata 70.) telewizja była relatywnie mniej upolitycznio
 **Dziedzictwo**
 
 Telewizja PRL odcisnęła trwały ślad w kulturze polskiej. Seriale, dziecięce programy animowane (Bolek i Lolek, Reksio, Miś Uszatek, Zaczarowany ołówek) i teleturnieje (Wielka Gra, Familiada) były wspólnym doświadczeniem pokoleń.`,
+    trivia: ['Pierwszy program telewizyjny nadano w Polsce w 1952 roku.', 'Telewizja kolorowa ruszyła dopiero na początku lat 70.'],
     resources: [
       {
         id: 'tvp-ninateka',
-        title: 'Archiwalne programy TVP',
+        title: 'Telewizja w PRL – nagrania archiwalne',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=TVP+archiwum',
         source: 'YouTube',
-        description: 'Cyfrowe archiwum TVP z programami i serialami z okresu PRL',
+        description: 'Archiwalne materiały wideo dotyczące tematu.',
       },
       {
         id: 'tvp-pkf-youtube',
@@ -9093,6 +9167,7 @@ W 1980 roku zdiagnozowano u niej mięsaka kości. Mimo chemioterapii i operacji 
 **Pamięć i kult**
 
 Anna German jest czczona do dziś zarówno w Polsce, jak i w Rosji, na Ukrainie i w innych krajach byłego ZSRR. Jej życie stało się kanwą rosyjskiego serialu telewizyjnego "Anna German" (2012), który był wielkim hitem. Muzeum i ekspozycje poświęcone jej życiu działają we Wrocławiu i w krajach byłego ZSRR.`,
+    trivia: ['Po ciężkim wypadku we Włoszech przez lata wracała do zdrowia i na scenę.', 'Ogromną popularność zdobyła także w Związku Radzieckim.'],
     resources: [
       {
         id: 'ag-yt',
@@ -9120,7 +9195,7 @@ Anna German jest czczona do dziś zarówno w Polsce, jak i w Rosji, na Ukrainie 
       },
       {
         id: 'german-polona',
-        title: 'Materiały prasowe o Annie German – Polona',
+        title: 'Anna German – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Anna%20German%20piosenkarka&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -9168,11 +9243,12 @@ Po śmierci Stalina (1953) i XX Zjeździe KPZS (1956) ZMP weszło w ostry kryzys
 **Ocena i pamięć**
 
 Doświadczenie ZMP jest złożone. Część członków szczerze wierzyła w ideały budowy lepszego świata; wielu z nich po 1956 roku stało się krytykami systemu (m.in. Jacek Kuroń był aktywnym ZMP-owcem). ZMP wyrządziło jednak realne szkody: przez denuncjacje, zniszczenie kariery "nieprawomyślnych", formatowanie całego pokolenia według ideologicznego szablonu.`,
+    trivia: ['Organizacja wychowywała młodzież w duchu stalinowskim.', 'Rozwiązano ją po przełomie 1956 roku.'],
     resources: [
       {
         id: 'zmp-ipn',
-        title: 'ZMP – dokumenty i materiały IPN',
-        type: 'dokument',
+        title: 'Związek Młodzieży Polskiej (ZMP) – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Zwi%C4%85zek%20M%C5%82odzie%C5%BCy%20Polskiej&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Akta organizacyjne ZMP i dokumenty dotyczące działalności w szkołach',
@@ -9240,16 +9316,16 @@ Solidarność Walcząca pozostaje kontrowersyjną organizacją. Zwolennicy podkr
     resources: [
       {
         id: 'sw-ipn',
-        title: 'Solidarność Walcząca – dokumenty IPN',
-        type: 'dokument',
+        title: 'Solidarność Walcząca – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Solidarno%C5%9B%C4%87%20Walcz%C4%85ca&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Akta SB dotyczące inwigilacji Solidarności Walczącej i Kornela Morawieckiego',
       },
       {
         id: 'sw-szukaj',
-        title: 'Archiwum SW – Szukaj w Archiwach',
-        type: 'dokument',
+        title: 'Solidarność Walcząca – opracowania',
+        type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Solidarno%C5%9B%C4%87%20Walcz%C4%85ca&fulltext=1&ns0=1',
         source: 'Wikipedia',
         description: 'Dokumenty i materiały archiwalne dotyczące działalności SW',
@@ -9460,6 +9536,7 @@ Działacze PPS, którzy sprzeciwiali się połączeniu z PPR, byli usuwani z par
 **Znaczenie**
 
 Likwidacja PPS oznaczała zniszczenie pluralizmu politycznego w Polsce i zakończenie możliwości niezależnej działalności lewicy niekomunistycznej. Tradycja PPS przetrwała jednak w emigracji – paryska PPS nieprzerwanie kontynuowała działalność. Powróciła też w 1987 roku w kraju, gdy opozycja reaktywowała partię, nawiązując do historycznych korzeni.`,
+    trivia: ['Po wojnie zmuszono ją do połączenia z komunistyczną PPR.', 'Działaczy niezgadzających się na fuzję represjonowano.'],
     resources: [
       {
         id: 'pps-aan',
@@ -9472,7 +9549,7 @@ Likwidacja PPS oznaczała zniszczenie pluralizmu politycznego w Polsce i zakońc
       },
       {
         id: 'pps-polona',
-        title: 'Prasa PPS z 1948 roku – Polona',
+        title: 'Polska Partia Socjalistyczna (PPS) – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Polska%20Partia%20Socjalistyczna%201948&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -9480,7 +9557,7 @@ Likwidacja PPS oznaczała zniszczenie pluralizmu politycznego w Polsce i zakońc
       },
       {
         id: 'pps-ipn',
-        title: 'Likwidacja PPS – materiały edukacyjne IPN',
+        title: 'Polska Partia Socjalistyczna (PPS) – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=PPS%20zjednoczenie&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -9529,6 +9606,7 @@ Muzyka do "Rosemary's Baby" przyniosła Komedzie uznanie w Hollywood. Pracował 
 **Dziedzictwo**
 
 Komeda zostawił ok. 20 nagrań studyjnych i muzykę do ponad 50 filmów. Jego kołysanka z "Rosemary's Baby" jest do dziś jedną z najczęściej cytowanych w kulturze popularnej. Polski jazz bez Komedy byłby zupełnie inny – ukształtował on zarówno styl gry, jak i wyobraźnię kolejnych pokoleń muzyków. Jan Ptaszyn Wróblewski, Tomasz Stańko i wielu innych przyznaje się do jego wpływu.`,
+    trivia: ['Skomponował muzykę do „Dziecka Rosemary” Romana Polańskiego.', 'Zmarł w 1969 roku, w szczycie międzynarodowej kariery.'],
     resources: [
       {
         id: 'kom-yt',
@@ -9557,7 +9635,7 @@ Komeda zostawił ok. 20 nagrań studyjnych i muzykę do ponad 50 filmów. Jego k
       },
       {
         id: 'komeda-polona',
-        title: 'Materiały prasowe o Komedzie – Polona',
+        title: 'Krzysztof Komeda – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Komeda%20jazz%20Trzci%C5%84ski&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -9602,10 +9680,11 @@ W październiku 1956 roku, gdy PZPR ważyła kurs reformatorski czy konserwatywn
 **Granice odwilży**
 
 Reformy były ograniczone. Zamknięcie "Po prostu" w 1957, powolne przywracanie cenzury, "wyhamowanie" swobody akademickiej pokazały, że Gomułka traktował odwilż instrumentalnie. Inteligencja, która z entuzjazmem przyjęła Październik, stopniowo się rozczarowywała – co stało się ważnym tłem dla Marca 1968.`,
+    trivia: ['Studenci i inteligencja byli motorem odwilży.', 'Likwidacja tygodnika „Po prostu” wywołała uliczne protesty.'],
     resources: [
       {
         id: 'poprostu-polona',
-        title: '"Po prostu" – archiwum tygodnika',
+        title: 'Studenci i inteligencja w Październiku 1956 – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Po%20prostu%20tygodnik%201956&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -9774,7 +9853,7 @@ Kieślowski pokazał, że kino może być filozofią. Jego filmy pytają o sens 
       },
       {
         id: 'kieslowski-polona',
-        title: 'Prasa filmowa lat 80. o Kieślowskim (Polona)',
+        title: 'Krzysztof Kieślowski – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Kie%C5%9Blowski%20Dekalog&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -9825,7 +9904,7 @@ Liberalizacja cen w 1989–1990 roku zlikwidowała kolejki niemal z dnia na dzie
     resources: [
       {
         id: 'kolejki-polona',
-        title: 'Prasa lat 80. – reportaże o brakach (Polona)',
+        title: 'Kolejki i braki towarów – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=kolejki%20sklepy%20braki%20kartki%20PRL&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -9888,10 +9967,11 @@ Posiadanie własnego mieszkania było celem życiowym – nieporównywalnie trud
 ### Trwałość wielkie płyty
 
 Wielka płyta stała się problemem po 1989 roku. Bloki mają ograniczoną żywotność – projektowane na 50–70 lat, wiele z nich wymaga dziś gruntownych remontów. Termomodernizacja, wymiana instalacji, nowe windy – to wyzwania polskich miast w XXI wieku. Mimo to wielka płyta pozostanie z nami na długo.`,
+    trivia: ['Na mieszkanie spółdzielcze czekało się kilkanaście lat.', 'Wielka płyta pozwoliła budować szybko i masowo.'],
     resources: [
       {
         id: 'mieszkania-polona',
-        title: 'Materiały o budownictwie PRL (Polona)',
+        title: 'Wielka płyta i budownictwo mieszkaniowe – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=budownictwo%20mieszkaniowe%20wielka%20p%C5%82yta%20PRL&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -9956,10 +10036,11 @@ Prawo jazdy i samochód oznaczały wolność ruchu. Turystyka samochodowa w Pols
 ### Po 1989 roku
 
 Liberalizacja umożliwiła import zachodnich samochodów. Rynek zalały używane „zachodniaki" – Golf, Mercedes, BMW. Maluch stał się symbolem dawnych czasów. Produkcję Fiata 126p zakończono dopiero w 2000 roku, ale już w połowie lat 90. stał się nostalgiczną zabytkowością.`,
+    trivia: ['Na samochód czekało się latami po zapisaniu na listę.', 'Talon na auto bywał cenniejszy niż samo auto.'],
     resources: [
       {
         id: 'maluch-polona',
-        title: 'Prasa motoryzacyjna PRL (Polona)',
+        title: 'Motoryzacja w PRL – Maluch i inne – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Fiat%20126%20Maluch%20motoryzacja%20PRL&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -10099,6 +10180,7 @@ Socrealizm był oficjalnym stylem artystycznym – narzuconym przez partię, opa
 Pomniki i symbolika PRL były próbą przejęcia przestrzeni publicznej dla ideologii. Polakom trudno było ignorować tę symbolikę – musieli codziennie przechodzić obok pomników „wyzwolicieli" i mieszkać przy ulicy Lenina.
 
 Walka o przestrzeń symboliczną – kto jest patronem ulic i placów – trwa w Polsce do dziś i odzwierciedla głębszy spór o interpretację historii XX wieku.`,
+    trivia: ['Pomniki wyznaczały oficjalną, obowiązującą pamięć o wojnie i władzy.', 'Po 1989 roku wiele z nich usunięto lub przeniesiono.'],
     resources: [
       {
         id: 'pomniki-polona',
@@ -10167,10 +10249,11 @@ Turystyka krajoznawcza była też formą patriotycznego wychowania: poznawaj swo
 Wyjazd – choćby na krajowy kemping – dawał poczucie wolności od codziennej szarzyzny PRL. W namiocie albo w schronisku można było rozmawiać swobodniej, śpiewać piosenki bez dozoru ideologicznego, być po prostu sobą.
 
 Harcerskie obozy były dla wielu dzieci najważniejszą przestrzenią wolności i wspólnoty. Piosenki przy ognisku, przyroda, samodzielność – kontrast z codzienną ideologią szkolną.`,
+    trivia: ['Wyjazd na Zachód wymagał paszportu i zgody władz.', 'Popularne były wczasy krajowe i wycieczki zakładowe.'],
     resources: [
       {
         id: 'turystyka-polona',
-        title: 'Wczasy i turystyka PRL – prasa (Polona)',
+        title: 'Turystyka i wczasy w PRL – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=wczasy%20FWP%20turystyka%20PRL%20Orbis&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -10231,6 +10314,7 @@ Sierpień 1980 był inny: strajk był zorganizowany, miał przywódców, miał p
 ### Pamięć i pojednanie
 
 Po 1989 roku powołano komisje śledcze ws. Poznania 1956 i Grudnia 1970. Sprawcy zostali częściowo ustaleni – ale wyroki były minimalne lub ich nie było. Mury i tablice upamiętniają ofiary. Ale pełna sprawiedliwość historyczna pozostała nieosiągalna.`,
+    trivia: ['Protesty robotnicze wybuchały regularnie od 1956 roku.', 'Każdy kolejny kryzys formował następne pokolenie opozycji.'],
     resources: [
       {
         id: 'opor-ipn',
@@ -10266,64 +10350,6 @@ Po 1989 roku powołano komisje śledcze ws. Poznania 1956 i Grudnia 1970. Sprawc
       },
     ],
     relatedIds: ['czerwiec-1956', 'grudzien-1970', 'czerwiec-1976', 'kor', 'sierpien-1980'],
-  },
-  {
-    id: 'ppkwn',
-    title: 'Polska Partia Robotnicza (PPR)',
-    category: 'polityka',
-    shortDesc: 'Komunistyczna partia zbudowana przez Moskwę, która przejęła władzę w Polsce i wchłonęła PPS tworząc PZPR.',
-    content: `## Polska Partia Robotnicza (PPR)
-
-Polska Partia Robotnicza (PPR) była komunistyczną partią polityczną powołaną w 1942 roku przez agentów Kominternu. To ona przejęła władzę w Polsce po 1944 roku i zbudowała komunistyczny system, zakończywszy istnienie w 1948 roku przez fuzję z PPS – tworząc PZPR.
-
-### Założenie i charakter
-
-PPR powstała 5 stycznia 1942 roku z inicjatywy Kominternu, jako odrodzenie rozwiązanej w 1938 roku Komunistycznej Partii Polski (KPP). Jej trzon stanowili agenci radzieccy desantowani do kraju – Marceli Nowotko (pierwszy sekretarz, zamordowany w 1942 w niewyjaśnionych okolicznościach), Paweł Finder, Bolesław Bierut.
-
-PPR była organizacją konspiracyjną w czasie okupacji. Wydawała gazetę „Trybuna Wolności", prowadziła sabotaż i propagandę. Jej Gwardia Ludowa (potem Armia Ludowa) walczyła z okupantem – ale w konflikcie z AK częściej zajmowała wrogie stanowisko.
-
-### Przejęcie władzy
-
-W 1944 roku, gdy Armia Czerwona wkroczyła na ziemie polskie, PPR stanęła na czele PKWN (Polskiego Komitetu Wyzwolenia Narodowego). Opierając się na sowieckiej sile militarnej, systematycznie przejmowała kluczowe resorty: bezpieczeństwo, wojsko, gospodarkę.
-
-Władysław Gomułka był Sekretarzem Generalnym PPR (1943–1948) i symbolem „polskiej drogi do socjalizmu" – próby relatywnie bardziej niezależnej od Moskwy polityki. Ale Stalin nie tolerował zbytniej niezależności.
-
-### Eliminacja opozycji
-
-W latach 1944–1947 PPR prowadziła systematyczne niszczenie opozycji: PSL Mikołajczyka, podziemia niepodległościowego, Kościoła. UB i sądy wojskowe wykonywały brudną robotę. Sfałszowane wybory 1947 roku usunęły ostatnią przeszkodę formalną.
-
-### Zjednoczenie z PPS
-
-W grudniu 1948 roku PPR połączyła się z Polską Partią Socjalistyczną (PPS) tworząc Polską Zjednoczoną Partię Robotniczą (PZPR). Fuzja była wymuszona – PPR wchłonęła PPS, usuwając niekomunistycznych działaczy socjalistycznych. Gomułka, oskarżony o „odchylenie prawicowo-nacjonalistyczne", został usunięty ze stanowiska i aresztowany.
-
-Powstanie PZPR zamknęło etap „dyktatury koalicyjnej" i otworzyło etap jednolitego stalinizmu.`,
-    resources: [
-      {
-        id: 'ppr-polona',
-        title: 'PPR – dokumenty i prasa (Polona)',
-        type: 'dokument',
-        url: 'https://pl.wikipedia.org/w/index.php?search=Polska%20Partia%20Robotnicza%20PPR%201944&fulltext=1&ns0=1',
-        source: 'Wikipedia',
-        description: 'Zdigitalizowane dokumenty, ulotki i prasa PPR z lat 1942–1948',
-      },
-      {
-        id: 'ppr-ipn',
-        title: 'Polska Partia Robotnicza (PPR) – opracowania',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/w/index.php?search=Polska%20Partia%20Robotnicza%20%28PPR%29&fulltext=1&ns0=1',
-        source: 'Wikipedia',
-        description: 'Dokumenty dotyczące PPR, jej struktur i przejęcia władzy po 1944 roku',
-      },
-      {
-        id: 'ppr-ph',
-        title: 'PPR i narodziny systemu komunistycznego',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/w/index.php?search=PPR%20Partia%20Robotnicza%20komunizm%201944&fulltext=1&ns0=1',
-        source: 'Wikipedia',
-        description: 'Artykuły historyczne o PPR i budowie komunistycznego systemu władzy w Polsce',
-      },
-    ],
-    relatedIds: ['pzpr', 'bierut', 'gomulka', 'manifest-pkwn', 'pps'],
   },
   {
     id: 'pielgrzymki-jp2',
@@ -10363,6 +10389,7 @@ Słowa: „Solidarność" – wypowiadane przez papieża – miały podwójne zn
 Pielgrzymki JP2 były przebudzeniem zbiorowym w ścisłym sensie: miliony Polaków doświadczyły, że są częścią czegoś większego niż szarość PRL. Papież mówił po polsku, zrozumiale, bez propagandy i eufemizmów. To, co powiedział, trafiało prosto do serc.
 
 Komuniści zdawali sobie sprawę z zagrożenia. SB inwigilowała pielgrzymki, dokumentowała każde słowo. Ale nie mogli nic zrobić – papież był nietykalny.`,
+    trivia: ['Pierwsza pielgrzymka w 1979 roku zgromadziła miliony ludzi.', 'Porządku pilnowała sama publiczność – bez udziału milicji.'],
     resources: [
       {
         id: 'jp2-pielgrzymki-ninateka',
@@ -10435,6 +10462,7 @@ Gdańsk ma głębszą symbolikę. To tu zaczęła się II wojna światowa (Weste
 ### Gdynia – pamięć o ofiarach
 
 Gdynia zbudowała swój własny pomnik – Pomnik Ofiar Grudnia 1970 przy Bramie nr 2 Stoczni Gdańskiej (w Gdańsku) i swój własny memoriał przy Urzędzie Pocztowym. Doroczne uroczystości 17 grudnia są w Gdyni szczególnie ważne.`,
+    trivia: ['Trójmiasto było sercem protestów w 1970 i 1980 roku.', 'Tu powstały Wolne Związki Zawodowe, a potem Solidarność.'],
     resources: [
       {
         id: 'trojmiasto-ecs',
@@ -10584,6 +10612,7 @@ W Łodzi działa też Muzeum Kinematografii – w zabytkowym pałacu Scheiblera,
 ### Łódź po PRL
 
 Po 1989 roku Łódź przeżyła kryzys przemysłowy – zamknięte fabryki, bezrobocie, wyludnienie. Szkoła filmowa trwała i rozwijała się. Miasto zaczęło odbudowywać tożsamość kulturalną wokół kina, festiwali i rewitalizacji fabryk (Manufaktura). Łódź Design Festival, Off Festival – Łódź staje się miastem kreatywnym.`,
+    trivia: ['Ukończyli ją m.in. Wajda, Polański, Kieślowski i Zanussi.', 'Legendarne stały się szkolne schody, na których dyskutowano o kinie.'],
     resources: [
       {
         id: 'lodz-ninateka',
@@ -10595,7 +10624,7 @@ Po 1989 roku Łódź przeżyła kryzys przemysłowy – zamknięte fabryki, bezr
       },
       {
         id: 'lodz-polona',
-        title: 'Dokumenty Szkoły Filmowej w Łodzi (Polona)',
+        title: 'Łódź – szkoła filmowa i miasto kultury – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Szko%C5%82a%20Filmowa%20%C5%81%C3%B3d%C5%BA%20PWSFTviT&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -10656,6 +10685,7 @@ Jarocin był też miejscem formowania się sceny punkowej – Lady Pank tam debi
 ### Rock i Solidarność
 
 Muzyka rockowa lat 80. nie była wprost polityczna, ale jej etos był opozycyjny. „Chcemy być sobą" to nie był manifest Solidarności, ale wszyscy wiedzieli, o co chodzi. Energia, bunt, autentyczność – kontrast z oficjalną kulturą partyjną.`,
+    trivia: ['Rock nazywano big-beatem, by uniknąć zachodnio brzmiącej etykiety.', 'Festiwal w Jarocinie stał się największym świętem sceny.'],
     resources: [
       {
         id: 'rock-ninateka',
@@ -10667,7 +10697,7 @@ Muzyka rockowa lat 80. nie była wprost polityczna, ale jej etos był opozycyjny
       },
       {
         id: 'rock-polona',
-        title: 'Prasa muzyczna PRL (Polona)',
+        title: 'Rock i muzyka młodzieżowa w PRL – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=rock%20muzyka%20m%C5%82odzie%C5%BCowa%20PRL%20Jarocin&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -10724,6 +10754,7 @@ W stanie wojennym kabaret przycichł na chwilę – ale szybko wrócił, tym raz
 ### Kabaret po 1989
 
 Po 1989 roku scena kabaretowa rozkwitła. Kabaret Olgi Lipińskiej, potem „Ucho Prezesa", „Kabaret pod Wyrwigroszem" – satyra polityczna dostała do dyspozycji całe spektrum tematów. Paradoksalnie, stała się też mniej wywrotowa – bo nie musiała przemycać prawdy pod zasłoną humoru.`,
+    trivia: ['Kabaret mówił aluzją to, czego nie wolno było powiedzieć wprost.', 'Mimo to każdy tekst i tak trafiał najpierw do cenzora.'],
     resources: [
       {
         id: 'kabaret-ninateka',
@@ -10735,7 +10766,7 @@ Po 1989 roku scena kabaretowa rozkwitła. Kabaret Olgi Lipińskiej, potem „Uch
       },
       {
         id: 'kabaret-polona',
-        title: 'Prasa satyryczna PRL – Szpilki (Polona)',
+        title: 'Kabaret i satyra w PRL – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Szpilki%20satyra%20kabaret%20PRL&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -10859,6 +10890,7 @@ Festiwal Plakatu Filmowego w Łagowie, Międzynarodowe Biennale Plakatu – to w
 ### Wpływ na kulturę
 
 Polska szkoła plakatu dowodzi, że nawet w systemie totalitarnym twórczość może wyrwać się poza schemat, jeśli artysta ma odwagę i umiejętności. Plakaty do filmów Wajdy, Kieślowskiego, do Jazz Jamboree – były oknem na inną Polskę: intelektualną, artystyczną, odważną.`,
+    trivia: ['Polska szkoła plakatu zdobyła światową renomę.', 'Plakaty filmowe bywały ciekawsze i odważniejsze niż same filmy.'],
     resources: [
       {
         id: 'plakat-polona',
@@ -10919,8 +10951,8 @@ Postać Kuklińskiego dzieli Polaków do dziś. Toczy się debata, czy jego dzia
     resources: [
       {
         id: 'kuk-1',
-        title: 'Dokumenty sprawy Kuklińskiego – IPN',
-        type: 'dokument',
+        title: 'Ryszard Kukliński – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Ryszard%20Kukli%C5%84ski&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Materiały śledcze i procesowe dotyczące płk. Kuklińskiego.',
@@ -10928,15 +10960,15 @@ Postać Kuklińskiego dzieli Polaków do dziś. Toczy się debata, czy jego dzia
       },
       {
         id: 'kuk-2',
-        title: 'Kukliński – analizy historyczne',
+        title: 'Ryszard Kukliński – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Ryszard%20Kukli%C5%84ski%20CIA%20stan%20wojenny&fulltext=1&ns0=1',
         source: 'Wikipedia',
-        description: 'Opracowania IPN o współpracy Kuklińskiego z wywiadem USA.',
+        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
       },
       {
         id: 'kuk-3',
-        title: 'Materiały o Kuklińskim – Polona',
+        title: 'Ryszard Kukliński – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Ryszard%20Kukli%C5%84ski%20wywiad&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -10993,7 +11025,7 @@ Kaczmarski pozostaje jednym z najważniejszych głosów polskiej kultury niezale
       },
       {
         id: 'kacz-2',
-        title: 'Kaczmarski i kultura niezależna – IPN',
+        title: 'Jacek Kaczmarski – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Jacek%20Kaczmarski%20Solidarno%C5%9B%C4%87%20pie%C5%9Bni&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -11001,7 +11033,7 @@ Kaczmarski pozostaje jednym z najważniejszych głosów polskiej kultury niezale
       },
       {
         id: 'kacz-3',
-        title: 'Teksty i publikacje – Polona',
+        title: 'Jacek Kaczmarski – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Jacek%20Kaczmarski%20poezja&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -11036,6 +11068,7 @@ Kryzys gospodarczy końca lat 70., podwyżki i strajki obnażyły fałsz propaga
 
 ## Znaczenie
 Propaganda sukcesu to klasyczny przykład manipulacji medialnej PRL – budowania pozornej rzeczywistości w oderwaniu od realnych problemów kraju.`,
+    trivia: ['Termin opisuje styl mediów dekady Gierka.', 'Telewizja pokazywała nowe fabryki, przemilczając kolejki przed sklepami.'],
     resources: [
       {
         id: 'ps-pkf',
@@ -11055,7 +11088,7 @@ Propaganda sukcesu to klasyczny przykład manipulacji medialnej PRL – budowani
       },
       {
         id: 'props-2',
-        title: 'Propaganda PRL – analizy IPN',
+        title: 'Propaganda sukcesu – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=propaganda%20sukcesu%20Gierek%20dekada&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -11063,7 +11096,7 @@ Propaganda sukcesu to klasyczny przykład manipulacji medialnej PRL – budowani
       },
       {
         id: 'props-3',
-        title: 'Prasa epoki Gierka – Polona',
+        title: 'Propaganda sukcesu – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Trybuna%20Ludu%20lata%20siedemdziesi%C4%85te&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -11113,7 +11146,7 @@ Po 1989 r. demokratyczna Polska odziedziczyła ogromny dług PRL. Dopiero negocj
       },
       {
         id: 'zad-2',
-        title: 'Kryzys gospodarczy PRL – IPN',
+        title: 'Zadłużenie zagraniczne PRL – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=gospodarka%20PRL%20zad%C5%82u%C5%BCenie%20kryzys&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -11121,7 +11154,7 @@ Po 1989 r. demokratyczna Polska odziedziczyła ogromny dług PRL. Dopiero negocj
       },
       {
         id: 'zad-3',
-        title: 'Opracowania ekonomiczne – Polona',
+        title: 'Zadłużenie zagraniczne PRL – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=gospodarka%20PRL%20kryzys%20zad%C5%82u%C5%BCenie&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -11158,11 +11191,12 @@ ROPCiO wydawał niezależne pisma, m.in. „Opinię” i „Bratniaka”, rozwij
 ## Znaczenie
 
 Choć ROPCiO nie przetrwał jako jednolita organizacja, odegrał ważną rolę w budowaniu jawnej opozycji przed 1980 r. Wraz z KOR tworzył środowisko, z którego wyrosła „Solidarność” i kadry niepodległościowej polityki.`,
+    trivia: ['Ruch działał jawnie – jego członkowie podawali nazwiska i adresy.', 'Powstał w 1977 roku, rok po KOR.'],
     resources: [
       {
         id: 'rop-1',
-        title: 'Dokumenty ROPCiO – IPN',
-        type: 'dokument',
+        title: 'ROPCiO – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Ruch%20Obrony%20Praw%20Cz%C5%82owieka%20i%20Obywatela&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Materiały dotyczące działalności ROPCiO i jego inwigilacji.',
@@ -11178,7 +11212,7 @@ Choć ROPCiO nie przetrwał jako jednolita organizacja, odegrał ważną rolę w
       },
       {
         id: 'rop-3',
-        title: 'Pisma drugiego obiegu – Polona',
+        title: 'ROPCiO – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Opinia%20Bratniak%20opozycja&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -11291,8 +11325,8 @@ Sprawa Przemyka stała się symbolem brutalności i bezkarności milicji w PRL. 
     resources: [
       {
         id: 'prz-1',
-        title: 'Akta sprawy Przemyka – IPN',
-        type: 'dokument',
+        title: 'Grzegorz Przemyk – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Grzegorz%20Przemyk&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Materiały śledcze i procesowe w sprawie śmierci Przemyka.',
@@ -11308,7 +11342,7 @@ Sprawa Przemyka stała się symbolem brutalności i bezkarności milicji w PRL. 
       },
       {
         id: 'prz-3',
-        title: 'Materiały o ofiarach MO – IPN',
+        title: 'Grzegorz Przemyk – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Grzegorz%20Przemyk%20represje&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -11356,8 +11390,8 @@ Stanisław Pyjas stał się symbolem ofiar systemu wśród młodzieży akademick
     resources: [
       {
         id: 'pyj-1',
-        title: 'Akta sprawy Pyjasa – IPN',
-        type: 'dokument',
+        title: 'Stanisław Pyjas – zdjęcia i grafiki',
+        type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Stanis%C5%82aw%20Pyjas&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Materiały śledcze dotyczące śmierci Stanisława Pyjasa.',
@@ -11373,7 +11407,7 @@ Stanisław Pyjas stał się symbolem ofiar systemu wśród młodzieży akademick
       },
       {
         id: 'pyj-3',
-        title: 'Materiały edukacyjne IPN',
+        title: 'Stanisław Pyjas – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Stanis%C5%82aw%20Pyjas%20opozycja%20studencka&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -11422,11 +11456,11 @@ Od nazwiska reżysera powstało pojęcie „bareizm” – oznaczające typową 
     resources: [
       {
         id: 'bar-1',
-        title: 'Filmy Barei',
-        type: 'film',
+        title: 'Kino Stanisława Barei – nagrania archiwalne',
+        type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Stanis%C5%82aw+Bareja+komedia',
         source: 'YouTube',
-        description: 'Komedie Stanisława Barei dostępne w archiwum cyfrowym.',
+        description: 'Archiwalne materiały wideo dotyczące tematu.',
       },
       {
         id: 'bar-2',
@@ -11438,7 +11472,7 @@ Od nazwiska reżysera powstało pojęcie „bareizm” – oznaczające typową 
       },
       {
         id: 'bar-3',
-        title: 'Kino PRL – analizy IPN',
+        title: 'Kino Stanisława Barei – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=komedia%20PRL%20satyra%20cenzura&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -11475,14 +11509,15 @@ Popularność zdobyły też m.in. „07 zgłoś się” (milicyjny serial sensac
 ## Propaganda i nostalgia
 
 Seriale PRL były narzędziem kształtowania postaw, ale jednocześnie autentycznym fenomenem kultury. Dziś oglądane są nostalgicznie i analizowane jako zapis mentalności epoki oraz przykład splotu rozrywki z ideologią.`,
+    trivia: ['Odcinek serialu gromadził przed telewizorem całą rodzinę.', 'Powtórki emitowano przez kolejne dekady, aż weszły do kanonu.'],
     resources: [
       {
         id: 'ser-1',
-        title: 'Seriale PRL',
-        type: 'film',
+        title: 'Kultowe seriale PRL – nagrania archiwalne (2)',
+        type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=serial+telewizyjny+PRL',
         source: 'YouTube',
-        description: 'Klasyczne seriale telewizyjne PRL w archiwum cyfrowym.',
+        description: 'Archiwalne materiały wideo dotyczące tematu.',
       },
       {
         id: 'ser-2',
@@ -11531,6 +11566,7 @@ Największym idolem był Ryszard Szurkowski, wielokrotny zwycięzca i symbol pol
 ## Schyłek
 
 Wraz z przemianami 1989 r. Wyścig Pokoju stracił polityczny kontekst i dawną rangę. Organizowano go jeszcze w kolejnych dekadach, lecz nigdy nie odzyskał znaczenia z czasów PRL. Pozostał symbolem epoki, w której sport i polityka były ściśle splecione.`,
+    trivia: ['Trasa łączyła Warszawę, Berlin i Pragę.', 'Był największym wydarzeniem kolarskim bloku wschodniego.'],
     resources: [
       {
         id: 'wp-pkf',
@@ -11550,7 +11586,7 @@ Wraz z przemianami 1989 r. Wyścig Pokoju stracił polityczny kontekst i dawną 
       },
       {
         id: 'wyp-2',
-        title: 'Sport w PRL – analizy IPN',
+        title: 'Wyścig Pokoju – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Wy%C5%9Bcig%20Pokoju%20sport%20propaganda&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -11558,7 +11594,7 @@ Wraz z przemianami 1989 r. Wyścig Pokoju stracił polityczny kontekst i dawną 
       },
       {
         id: 'wyp-3',
-        title: 'Prasa sportowa – Polona',
+        title: 'Wyścig Pokoju – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Wy%C5%9Bcig%20Pokoju%20Szurkowski&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -11595,10 +11631,11 @@ Religa angażował się w prace nad polską sztuczną komorą wspomagania serca 
 ## Symbol i dziedzictwo
 
 Postać Religi stała się symbolem polskiej nauki przełamującej ograniczenia systemu. Jego dokonania, rozpoczęte jeszcze w PRL, ratowały tysiące istnień i trwale zmieniły polską medycynę.`,
+    trivia: ['Zdjęcie z jego wielogodzinnej operacji serca obiegło świat.', 'Stworzył ośrodek kardiochirurgii w Zabrzu.'],
     resources: [
       {
         id: 'rel-1',
-        title: 'Materiały o Relidze – Polona',
+        title: 'Zbigniew Religa – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Zbigniew%20Religa%20kardiochirurgia&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -11606,7 +11643,7 @@ Postać Religi stała się symbolem polskiej nauki przełamującej ograniczenia 
       },
       {
         id: 'rel-2',
-        title: 'Polska medycyna i nauka – IPN',
+        title: 'Zbigniew Religa – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=medycyna%20nauka%20PRL&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -11690,7 +11727,7 @@ Bitwa o handel zniszczyła warstwę drobnych przedsiębiorców i kupców, zmieni
       },
       {
         id: 'boh-3',
-        title: 'Prasa epoki – Polona',
+        title: 'Bitwa o handel – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=bitwa%20o%20handel%20spekulacja&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -11731,14 +11768,15 @@ Część kronik i archiwalnych materiałów telewizyjnych dostępna jest w TVP V
 ## Jak szukać skutecznie
 
 Najlepiej wpisywać konkretne hasła: nazwę wydarzenia („Grudzień 1970”), rok, miejsce lub nazwisko. Pamiętaj, że kronika pokazywała rzeczywistość przez pryzmat propagandy – warto zestawiać obraz z opracowaniami historycznymi.`,
+    trivia: ['Znaczna część kronik i dokumentów jest dziś dostępna cyfrowo.', 'Zbiory gromadzi Filmoteka Narodowa – Instytut Audiowizualny.'],
     resources: [
       {
         id: 'arch-1',
-        title: 'Polska Kronika Filmowa',
-        type: 'film',
+        title: 'Gdzie szukać kronik i archiwów filmowych PRL – nagrania archiwalne (2)',
+        type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa',
         source: 'YouTube',
-        description: 'Najobszerniejsze bezpłatne archiwum PKF online.',
+        description: 'Archiwalne materiały wideo dotyczące tematu.',
         year: 1944,
       },
       {
@@ -11751,11 +11789,11 @@ Najlepiej wpisywać konkretne hasła: nazwę wydarzenia („Grudzień 1970”), 
       },
       {
         id: 'arch-3',
-        title: 'Repozytorium Cyfrowe Filmoteki Narodowej',
-        type: 'film',
+        title: 'Gdzie szukać kronik i archiwów filmowych PRL – nagrania archiwalne (3)',
+        type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa',
-        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
-        description: 'Zeskanowane kroniki ze zbiorów Filmoteki Narodowej.',
+        source: 'YouTube',
+        description: 'Archiwalne materiały wideo dotyczące tematu.',
       },
       {
         id: 'arch-4',
@@ -11784,7 +11822,7 @@ Najlepiej wpisywać konkretne hasła: nazwę wydarzenia („Grudzień 1970”), 
       },
       {
         id: 'arch-7',
-        title: 'Polska Kronika Filmowa i fotografie – archiwa',
+        title: 'Gdzie szukać kronik i archiwów filmowych PRL – zdjęcia i grafiki',
         type: 'zdjęcie',
         url: 'https://commons.wikimedia.org/w/index.php?search=Polska%20Kronika%20Filmowa&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
@@ -11793,8 +11831,8 @@ Najlepiej wpisywać konkretne hasła: nazwę wydarzenia („Grudzień 1970”), 
       },
       {
         id: 'arch-8',
-        title: 'TVP VOD – archiwum telewizyjne',
-        type: 'film',
+        title: 'Gdzie szukać kronik i archiwów filmowych PRL – nagrania archiwalne (4)',
+        type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=kronika+filmowa+archiwalne',
         source: 'YouTube',
         description: 'Archiwalne materiały telewizyjne i kroniki w TVP VOD.',
@@ -11847,6 +11885,7 @@ FINA realizuje szeroko zakrojoną digitalizację zbiorów – kronik, dokumentó
 ## Znaczenie
 
 FINA jest kluczową instytucją pamięci filmowej Polski. Bez jej pracy ogromna część wizualnego zapisu PRL – od propagandy po arcydzieła – byłaby dziś niedostępna lub bezpowrotnie utracona.`,
+    trivia: ['Instytucja gromadzi, konserwuje i digitalizuje polskie dziedzictwo filmowe.', 'Udostępnia zbiory m.in. przez serwis Ninateka.'],
     resources: [
       {
         id: 'fina-1',
@@ -11866,15 +11905,15 @@ FINA jest kluczową instytucją pamięci filmowej Polski. Bez jej pracy ogromna 
       },
       {
         id: 'fina-3',
-        title: 'archiwum audiowizualne',
-        type: 'film',
+        title: 'Filmoteka Narodowa – Instytut Audiowizualny – nagrania archiwalne',
+        type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=dokument+PRL',
         source: 'YouTube',
         description: 'Filmy i nagrania udostępniane przez FINA.',
       },
       {
         id: 'fina-filmoteka-wiki2',
-        title: 'Filmoteka Narodowa – Instytut Audiowizualny – artykuł',
+        title: 'Filmoteka Narodowa – Instytut Audiowizualny – artykuł (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/wiki/Filmoteka_Narodowa_%E2%80%93_Instytut_Audiowizualny',
         source: 'Wikipedia',
@@ -11911,6 +11950,7 @@ Transmisje z Opola gromadziły przed telewizorami miliony widzów. Festiwal był
 ## Dziedzictwo
 
 Nagrania opolskie to dziś bezcenna fonoteka i wideoteka polskiej piosenki. Festiwal przetrwał PRL i jest kontynuowany, lecz jego peerelowskie edycje pozostają zapisem gustów, mody i emocji epoki.`,
+    trivia: ['Festiwal odbywa się w opolskim amfiteatrze od lat 60.', 'Nagroda w Opolu oznaczała dla wykonawcy ogólnopolską sławę.'],
     resources: [
       {
         id: 'op-yt',
@@ -11922,8 +11962,8 @@ Nagrania opolskie to dziś bezcenna fonoteka i wideoteka polskiej piosenki. Fest
       },
       {
         id: 'opo-1',
-        title: 'Archiwum festiwalu w Opolu – TVP VOD',
-        type: 'film',
+        title: 'Krajowy Festiwal Piosenki Polskiej w Opolu – nagrania archiwalne',
+        type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=festiwal+Opole',
         source: 'YouTube',
         description: 'Archiwalne transmisje i występy z festiwalu w Opolu.',
@@ -11938,7 +11978,7 @@ Nagrania opolskie to dziś bezcenna fonoteka i wideoteka polskiej piosenki. Fest
       },
       {
         id: 'opo-3',
-        title: 'Prasa muzyczna – Polona',
+        title: 'Krajowy Festiwal Piosenki Polskiej w Opolu – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=festiwal%20Opole%20piosenka&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -11977,6 +12017,7 @@ W kabarecie występowali najwięksi aktorzy epoki: Wiesław Michnikowski, Kalina
 ## Dziedzictwo
 
 Kabaret Starszych Panów pozostaje wzorcem inteligentnej rozrywki. Jego piosenki są wciąż wykonywane, a nagrania – świadectwem, że nawet w PRL możliwa była kultura wolna od ideologii.`,
+    trivia: ['Twórcami byli Jeremi Przybora i Jerzy Wasowski.', 'Program łączył absurd, elegancję i piosenkę – bez politycznej publicystyki.'],
     resources: [
       {
         id: 'ksp-yt',
@@ -12041,6 +12082,7 @@ Jak cała kultura PRL, teatr podlegał cenzurze. Niektóre inscenizacje – zwł
 ## Dziedzictwo
 
 Teatr Telewizji ukształtował gust kulturalny pokoleń Polaków i zachował zapis wielkich kreacji aktorskich. Archiwalne spektakle są dziś świadectwem poziomu artystycznego, jaki osiągano mimo ograniczeń systemu.`,
+    trivia: ['Spektakle oglądały miliony widzów naraz.', 'Był to teatr dostępny w każdym domu, w którym stał telewizor.'],
     resources: [
       {
         id: 'ttv-1',
@@ -12060,7 +12102,7 @@ Teatr Telewizji ukształtował gust kulturalny pokoleń Polaków i zachował zap
       },
       {
         id: 'ttv-3',
-        title: 'Krytyka teatralna – Polona',
+        title: 'Teatr Telewizji – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Teatr%20Telewizji%20inscenizacja&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -12167,7 +12209,7 @@ Jarocin stał się legendą i symbolem pokolenia. Po 1989 roku festiwal reaktywo
       },
       {
         id: 'jar-2',
-        title: 'Jarocin w materiałach IPN',
+        title: 'Festiwal w Jarocinie – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=festiwal%20Jarocin%20muzyka%20m%C5%82odzie%C5%BC&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -12207,6 +12249,7 @@ Kluczową rolę odegrały festiwal w Jarocinie oraz Lista Przebojów Programu Tr
 
 ## Znaczenie
 Polski rock lat 80. był nie tylko zjawiskiem muzycznym, ale i społecznym – formą wyrażania sprzeciwu, tożsamości i marzeń o wolności całego pokolenia.`,
+    trivia: ['Rock stał się głosem pokolenia stanu wojennego.', 'Teksty przemycały treści, których nie przepuściłaby cenzura w prasie.'],
     resources: [
       {
         id: 'rock80-1',
@@ -12218,7 +12261,7 @@ Polski rock lat 80. był nie tylko zjawiskiem muzycznym, ale i społecznym – f
       },
       {
         id: 'rock80-2',
-        title: 'Muzyka rockowa – materiały IPN',
+        title: 'Polski rock lat 80. – nagrania archiwalne',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=muzyka+rockowa+lata+osiemdziesi%C4%85te',
         source: 'YouTube',
@@ -12268,6 +12311,7 @@ Zespół rozpadł się w 1986 roku, a Ciechowski kontynuował karierę solową j
 
 ## Znaczenie
 Republika pozostaje symbolem ambitnego, artystycznego rocka lat 80., a Grzegorz Ciechowski – jedną z najważniejszych postaci polskiej muzyki rozrywkowej.`,
+    trivia: ['Zespół z Torunia, którego liderem był Grzegorz Ciechowski.', 'Rozpoznawalna była ich biało-czarna estetyka.'],
     resources: [
       {
         id: 'rep-yt',
@@ -12405,6 +12449,7 @@ Kult słynął z energetycznych występów na żywo, m.in. w Jarocinie. Bezkompr
 
 ## Znaczenie
 Kult to jeden z najtrwalszych zespołów polskiej sceny, a jego wczesna twórczość pozostaje świadectwem buntu pokolenia schyłku PRL.`,
+    trivia: ['Zespół założył Kazik Staszewski.', 'Teksty bezlitośnie punktowały absurdy PRL.'],
     resources: [
       {
         id: 'kult-yt',
@@ -12424,7 +12469,7 @@ Kult to jeden z najtrwalszych zespołów polskiej sceny, a jego wczesna twórczo
       },
       {
         id: 'kult-2',
-        title: 'Kult i muzyka niezależna – IPN',
+        title: 'Kult – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=muzyka%20niezale%C5%BCna%20cenzura%20rock&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -12464,6 +12509,7 @@ Punkowcy, ze względu na wygląd i postawę, byli szczególnie narażeni na szyk
 
 ## Dziedzictwo
 Scena punkowa, najsilniej obecna w Jarocinie, pozostaje symbolem najbardziej radykalnego nurtu kontrkultury PRL i wpłynęła na kolejne pokolenia muzyków.`,
+    trivia: ['Punk dotarł do Polski pod koniec lat 70.', 'Jarocin stał się jego największym corocznym świętem.'],
     resources: [
       {
         id: 'punk-yt',
@@ -12483,7 +12529,7 @@ Scena punkowa, najsilniej obecna w Jarocinie, pozostaje symbolem najbardziej rad
       },
       {
         id: 'punk-2',
-        title: 'Kontrkultura i punk – IPN',
+        title: 'Punk w PRL – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=punk%20kontrkultura%20m%C5%82odzie%C5%BC%20PRL&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -12525,6 +12571,7 @@ Notowania pomogły wypromować wiele polskich zespołów lat 80., dając im ogó
 
 ## Dziedzictwo
 Lista Przebojów Trójki przetrwała przemiany ustrojowe i przez dekady pozostawała jedną z najważniejszych audycji muzycznych w Polsce, symbolem Programu Trzeciego.`,
+    trivia: ['Notowanie prowadził przez lata Marek Niedźwiecki.', 'Słuchacze głosowali, wysyłając kartki pocztowe.'],
     resources: [
       {
         id: 'lpt-1',
@@ -12614,7 +12661,7 @@ Perfect to jeden z filarów polskiego rocka, a jego przeboje pozostają klasyką
       },
       {
         id: 'perf-3',
-        title: 'Rock lat 80. – IPN',
+        title: 'Perfect – nagrania archiwalne',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=rock+muzyka+lata+osiemdziesi%C4%85te',
         source: 'YouTube',
@@ -12654,6 +12701,7 @@ W stanie wojennym jego nagrania krążyły w drugim obiegu i na kasetach. Koncer
 
 ## Znaczenie
 Gintrowski pozostaje symbolem zaangażowanej, niezależnej sztuki lat 80., a jego pieśni – świadectwem moralnego oporu wobec systemu.`,
+    trivia: ['Tworzył tercet z Jackiem Kaczmarskim i Zbigniewem Łapińskim.', 'Śpiewał wiersze Herberta i Baczyńskiego.'],
     resources: [
       {
         id: 'gin-yt',
@@ -12673,7 +12721,7 @@ Gintrowski pozostaje symbolem zaangażowanej, niezależnej sztuki lat 80., a jeg
       },
       {
         id: 'gin-2',
-        title: 'Poezja śpiewana – IPN',
+        title: 'Przemysław Gintrowski – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=poezja%20%C5%9Bpiewana&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -12741,7 +12789,7 @@ Big-beat położył fundamenty pod rozwój polskiego rocka, a wiele zespołów t
       },
       {
         id: 'bb-3',
-        title: 'Big-beat – materiały IPN',
+        title: 'Big-beat – polski rock lat 60. – nagrania archiwalne',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=big+beat+muzyka+m%C5%82odzie%C5%BCowa+lata+60',
         source: 'YouTube',
@@ -12783,6 +12831,7 @@ Mimo zmian składu Czerwone Gitary pozostały aktywne przez całą epokę PRL, a
 
 ## Znaczenie
 Zespół to symbol melodyjnego big-beatu lat 60. i 70., a jego piosenki na trwałe weszły do kanonu polskiej muzyki popularnej.`,
+    trivia: ['Nazywano ich polskimi Beatlesami.', 'Sprzedali miliony płyt – rekord jak na warunki PRL.'],
     resources: [
       {
         id: 'cg-yt',
@@ -12852,6 +12901,7 @@ Na sopockiej scenie występowali m.in. Czesław Niemen, Maryla Rodowicz, Anna Ge
 
 ## Znaczenie
 Festiwal w Sopocie, obok Opola, współtworzył pejzaż polskiej estrady i był symbolem rozrywkowej kultury PRL otwartej – w ograniczonym zakresie – na świat.`,
+    trivia: ['Festiwal odbywa się w Operze Leśnej.', 'Miał charakter międzynarodowy – występowali artyści z wielu krajów.'],
     resources: [
       {
         id: 'sop-1',
@@ -12991,6 +13041,7 @@ Dżem był częścią silnej śląskiej sceny bluesowej. Zespół często grał 
 
 ## Znaczenie
 Dżem to jeden z filarów polskiego blues-rocka, a Ryszard Riedel pozostaje kultową postacią rodzimej muzyki.`,
+    trivia: ['Charakterystyczny głos zespołu należał do Ryszarda Riedla.', 'Grupa z Tychów grała bluesa w czasach, gdy nie było to modne.'],
     resources: [
       {
         id: 'dzem-yt',
@@ -13018,7 +13069,7 @@ Dżem to jeden z filarów polskiego blues-rocka, a Ryszard Riedel pozostaje kult
       },
       {
         id: 'dzem-3',
-        title: 'Blues i rock – materiały IPN',
+        title: 'Dżem – nagrania archiwalne',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=blues+rock+muzyka+PRL',
         source: 'YouTube',
@@ -13060,6 +13111,7 @@ TSA zdobywała nagrody na festiwalach i koncertowała także za granicą, w tym 
 
 ## Znaczenie
 TSA to pionier polskiego heavy metalu, który otworzył drogę kolejnym zespołom tego nurtu i pozostaje klasyką gatunku.`,
+    trivia: ['Wokalistą był Marek Piekarczyk.', 'To jeden z pierwszych polskich zespołów heavy metalowych.'],
     resources: [
       {
         id: 'tsa-yt',
@@ -13129,6 +13181,7 @@ Lady Pank próbował kariery międzynarodowej, nagrywając anglojęzyczne wersje
 
 ## Znaczenie
 Lady Pank to symbol komercyjnego sukcesu polskiego rocka lat 80., a jego przeboje pozostają klasyką radiową do dziś.`,
+    trivia: ['Muzykę tworzył Jan Borysewicz, a teksty Andrzej Mogielnicki.', '„Mniej niż zero” to jeden z hymnów lat 80.'],
     resources: [
       {
         id: 'lp-yt',
@@ -13198,6 +13251,7 @@ Budka Suflera przetrwała kolejne dekady, przechodząc zmiany składu, ale zacho
 
 ## Znaczenie
 Grupa to jeden z filarów polskiej muzyki rockowej, łączący ambitne brzmienie z masową popularnością na estradzie.`,
+    trivia: ['Zespół z Lublina, którego kompozytorem był Romuald Lipko.', 'Wypromował m.in. Urszulę i Izabelę Trojanowską.'],
     resources: [
       {
         id: 'bs-yt',
@@ -13267,6 +13321,7 @@ Wokalistka Mira Kubasińska, z mocnym, charakterystycznym głosem, współtworzy
 
 ## Znaczenie
 Breakout i Tadeusz Nalepa położyli fundamenty pod rozwój polskiego blues-rocka, inspirując kolejne pokolenia muzyków, w tym zespół Dżem.`,
+    trivia: ['Zespół tworzyli Tadeusz Nalepa i Mira Kubasińska.', 'Grali bluesa, gdy w Polsce był jeszcze nowością.'],
     resources: [
       {
         id: 'br-yt',
@@ -13334,6 +13389,7 @@ W czasach cenzury poezja śpiewana pozwalała przemycać treści niewygodne dla 
 
 ## Znaczenie
 Nurt ten stanowił istotny element kultury niezależnej, kształtując wrażliwość kolejnych pokoleń i tworząc most między muzyką a literaturą.`,
+    trivia: ['Wiersze śpiewano głównie w klubach studenckich.', 'Nurt dał scenę m.in. Markowi Grechucie i Ewie Demarczyk.'],
     resources: [
       {
         id: 'ps-yt2',
@@ -13369,7 +13425,7 @@ Nurt ten stanowił istotny element kultury niezależnej, kształtując wrażliwo
       },
       {
         id: 'ps-3',
-        title: 'Kultura niezależna – materiały IPN',
+        title: 'Poezja śpiewana – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=poezja%20%C5%9Bpiewana%20kultura%20niezale%C5%BCna&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -13401,6 +13457,7 @@ Wyczyny okupione były tragediami – w górach zginęło wielu wybitnych wspina
 
 ## Znaczenie
 „Lodowi wojownicy” stali się źródłem dumy narodowej i dowodem, że mimo ograniczeń systemu Polacy potrafili być najlepsi na świecie.`,
+    trivia: ['Polacy zdobyli większość pierwszych zimowych wejść na ośmiotysięczniki.', 'Nazywano ich w świecie „lodowymi wojownikami”.'],
     resources: [
       {
         id: 'him-1',
@@ -13412,7 +13469,7 @@ Wyczyny okupione były tragediami – w górach zginęło wielu wybitnych wspina
       },
       {
         id: 'him-2',
-        title: 'Himalaizm – materiały IPN',
+        title: 'Złota dekada polskiego himalaizmu – nagrania archiwalne',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=himalaizm+polscy+wspinacze+g%C3%B3ry',
         source: 'YouTube',
@@ -13462,6 +13519,7 @@ Jerzy Kukuczka zginął w 1989 roku podczas próby zdobycia południowej ściany
 
 ## Dziedzictwo
 Kukuczka pozostaje legendą i symbolem polskiego wyczynu górskiego, a jego imię nosi m.in. Akademia Wychowania Fizycznego w Katowicach.`,
+    trivia: ['Jako drugi człowiek w historii zdobył Koronę Himalajów.', 'Zginął w 1989 roku podczas wejścia na Lhotse.'],
     resources: [
       {
         id: 'kuk-1',
@@ -13523,6 +13581,7 @@ W ostatnich latach realizowała projekt „Karawana do marzeń” – zdobycie k
 
 ## Znaczenie
 Wanda Rutkiewicz to ikona himalaizmu i symbol kobiecej siły oraz niezależności, inspiracja dla kolejnych pokoleń wspinaczy.`,
+    trivia: ['Jako pierwsza Europejka stanęła na szczycie Everestu.', 'Zaginęła w 1992 roku podczas wyprawy na Kanczendzongę.'],
     resources: [
       {
         id: 'wr-1',
@@ -13644,6 +13703,7 @@ Na igrzyskach w Montrealu zdobyła złoto na 400 m, ustanawiając rekord świata
 
 ## Znaczenie
 Po zakończeniu kariery działała w międzynarodowych organizacjach sportowych. Pozostaje symbolem polskiego sportu i jedną z najwybitniejszych postaci w historii światowej lekkoatletyki.`,
+    trivia: ['Zdobywała medale olimpijskie na czterech kolejnych igrzyskach.', 'Startowała zarówno w sprincie, jak i w skoku w dal.'],
     resources: [
       {
         id: 'isz-1',
@@ -13705,6 +13765,7 @@ Serial wpisywał się w oficjalny nurt utrwalania pamięci o wojnie i bohaterstw
 
 ## Znaczenie
 „Stawka większa niż życie” to jeden z najbardziej kultowych seriali w historii polskiej telewizji, do dziś chętnie oglądany i cytowany.`,
+    trivia: ['Hans Kloss stał się bohaterem kultowym i wzorem chłopięcych zabaw.', 'Kwestie z serialu weszły na stałe do języka potocznego.'],
     resources: [
       {
         id: 'sww-1',
@@ -13816,6 +13877,7 @@ W odpowiedzi na propagandę część społeczeństwa bojkotowała Dziennik – l
 
 ## Znaczenie
 Dziennik Telewizyjny stał się symbolem manipulacji medialnej PRL. Jego nazwa do dziś bywa synonimem propagandy i dezinformacji.`,
+    trivia: ['Nadawano go codziennie o 19:30.', 'Był głównym narzędziem propagandy telewizyjnej.'],
     resources: [
       {
         id: 'dtv-1',
@@ -13827,7 +13889,7 @@ Dziennik Telewizyjny stał się symbolem manipulacji medialnej PRL. Jego nazwa d
       },
       {
         id: 'dtv-2',
-        title: 'Propaganda TV – materiały IPN',
+        title: 'Dziennik Telewizyjny – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Dziennik%20Telewizyjny%20propaganda%20media&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -13867,6 +13929,7 @@ Historia K-202 stała się symbolem marnowania talentów i innowacji w gospodarc
 
 ## Znaczenie
 Jacek Karpiński bywa nazywany „polskim geniuszem informatyki”, a losy K-202 ilustrują, jak system PRL trwonił szanse na technologiczny rozwój.`,
+    trivia: ['Skonstruował minikomputer K-202, wyprzedzający swoją epokę.', 'Projekt zablokowano, a konstruktora odsunięto od pracy.'],
     resources: [
       {
         id: 'jk-1',
@@ -13918,6 +13981,7 @@ W 1982 roku, w okresie stanu wojennego, wprowadzono m.in. ograniczenie sprzedaż
 
 ## Znaczenie
 Kwestia alkoholu ilustruje społeczne skutki gospodarki niedoboru i bezradność systemu wobec problemów codzienności, a temat ten często pojawiał się w kabarecie i filmie.`,
+    trivia: ['Wódka bywała walutą – płacono nią za usługi i przysługi.', 'Godziny sprzedaży alkoholu ograniczano przepisami.'],
     resources: [
       {
         id: 'alk-1',
@@ -14129,7 +14193,7 @@ Po 1989 roku pełnił funkcję ministra spraw zagranicznych. Pozostaje symbolem 
     resources: [
       {
         id: 'bar-1',
-        title: 'Bartoszewski – materiały IPN',
+        title: 'Władysław Bartoszewski – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=W%C5%82adys%C5%82aw%20Bartoszewski%20opozycja%20%C5%BBegota&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -14311,7 +14375,7 @@ Protest Siwca – wcześniejszy niż głośne samospalenie Jana Palacha w Pradze
     resources: [
       {
         id: 'siw-1',
-        title: 'Ryszard Siwiec – materiały IPN',
+        title: 'Ryszard Siwiec – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Ryszard%20Siwiec%20samospalenie%201968%20protest&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -14363,7 +14427,7 @@ Frasyniuk należy do grona najważniejszych przywódców opozycji lat 80., uczes
     resources: [
       {
         id: 'fra-1',
-        title: 'Frasyniuk – materiały IPN',
+        title: 'Władysław Frasyniuk – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=W%C5%82adys%C5%82aw%20Frasyniuk%20Solidarno%C5%9B%C4%87%20Dolny%20%C5%9Al%C4%85sk&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -14487,7 +14551,7 @@ Ruch stał się symbolem kreatywnego, pokojowego oporu schyłku PRL i inspiracj�
     resources: [
       {
         id: 'pa-1',
-        title: 'Pomarańczowa Alternatywa – materiały IPN',
+        title: 'Pomarańczowa Alternatywa – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Pomara%C5%84czowa%20Alternatywa%20happening%20Fydrych&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -14543,10 +14607,11 @@ WiP stosował pokojowe formy protestu: głodówki, manifestacje, happeningi. Wsp
 
 ## Znaczenie
 Wolność i Pokój wniósł do polskiej opozycji tematykę praw człowieka, pacyfizmu i ekologii, poszerzając jej język o nowe pokolenie działaczy.`,
+    trivia: ['Ruch sprzeciwiał się treści przysięgi wojskowej.', 'Walczył o prawo do odmowy służby wojskowej z pobudek sumienia.'],
     resources: [
       {
         id: 'wip-1',
-        title: 'Wolność i Pokój – materiały IPN',
+        title: 'Ruch „Wolność i Pokój” – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Wolno%C5%9B%C4%87%20i%20Pok%C3%B3j%20ruch%20pacyfistyczny%20opozycja&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -14656,10 +14721,11 @@ W latach 70. i 80. powstał nurt opozycyjny – Kręgi Instruktorów Harcerskich
 
 ## Znaczenie
 Harcerstwo w PRL to historia napięcia między wychowaniem do wartości a próbami indoktrynacji – dla wielu pokoleń pozostało jednak szkołą charakteru i przyjaźni.`,
+    trivia: ['Harcerstwo łączyło tradycję skautową z oficjalną ideologią.', 'Obozy pod namiotami były wakacyjnym marzeniem pokoleń.'],
     resources: [
       {
         id: 'zhp-1',
-        title: 'Harcerstwo w PRL – materiały IPN',
+        title: 'Harcerstwo w PRL (ZHP) – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=ZHP%20harcerstwo%20PRL%20wychowanie%20m%C5%82odzie%C5%BC&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -14707,6 +14773,7 @@ Kabaret był pod stałą obserwacją, a programy ścierały się z cenzurą. W s
 
 ## Znaczenie
 „Pod Egidą” to symbol odważnej satyry politycznej, która śmiechem podtrzymywała ducha sprzeciwu wobec systemu.`,
+    trivia: ['Kabaret Jana Pietrzaka słynął z ostrej satyry politycznej.', '„Żeby Polska była Polską” stała się pieśnią opozycji.'],
     resources: [
       {
         id: 'pe-yt',
@@ -14726,7 +14793,7 @@ Kabaret był pod stałą obserwacją, a programy ścierały się z cenzurą. W s
       },
       {
         id: 'pe-2',
-        title: 'Satyra polityczna – materiały IPN',
+        title: 'Kabaret „Pod Egidą” – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=kabaret%20satyra%20polityczna%20cenzura%20PRL&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -14768,6 +14835,7 @@ Dzięki występom telewizyjnym i estradowym kabaret zyskał masową widownię. W
 
 ## Znaczenie
 Kabaret Tey to klasyka polskiej satyry – obok „Pod Egidą” i kabaretu Olgi Lipińskiej współtworzył złoty wiek humoru epoki PRL.`,
+    trivia: ['Tworzyli go Zenon Laskowik i Bohdan Smoleń.', 'Poznański kabaret słynął z aluzji, które rozumiała cała sala.'],
     resources: [
       {
         id: 'tey-1',
@@ -14827,6 +14895,7 @@ W latach 80. stadion popadał w ruinę. Po 1989 roku stał się słynnym targowi
 
 ## Znaczenie
 Dzieje stadionu odzwierciedlają losy PRL – od propagandowej dumy, przez codzienność i protest, po schyłek systemu.`,
+    trivia: ['Zbudowano go z gruzów zniszczonej Warszawy.', 'To tu w 1968 roku samospalił się Ryszard Siwiec.'],
     resources: [
       {
         id: 'sd-pkf',
@@ -14944,7 +15013,7 @@ ORMO było typowym dla systemu narzędziem wciągania obywateli w aparat kontrol
     resources: [
       {
         id: 'ormo-1',
-        title: 'ORMO – materiały IPN',
+        title: 'ORMO – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=ORMO%20milicja%20aparat%20represji%20PRL&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -15000,6 +15069,7 @@ Dziennik był wzorcowym nośnikiem nowomowy – sztucznego, zideologizowanego j�
 
 ## Znaczenie
 „Trybuna Ludu” to symbol kontrolowanych mediów PRL. Ukazywała się do 1990 roku, gdy wraz z upadkiem systemu zniknął także jego główny prasowy organ.`,
+    trivia: ['Była organem prasowym Komitetu Centralnego PZPR.', 'Nakład zapewniano odgórnie – prenumeratą w zakładach pracy.'],
     resources: [
       {
         id: 'tl-1',
@@ -15011,7 +15081,7 @@ Dziennik był wzorcowym nośnikiem nowomowy – sztucznego, zideologizowanego j�
       },
       {
         id: 'tl-2',
-        title: 'Prasa partyjna – materiały IPN',
+        title: '„Trybuna Ludu” – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Trybuna%20Ludu%20prasa%20propaganda%20PZPR&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -15325,7 +15395,7 @@ Po 1989 roku powrócił do Polski jako autorytet moralny i orędownik wejścia k
     resources: [
       {
         id: 'njz-1',
-        title: 'Nowak-Jeziorański – materiały IPN',
+        title: 'Jan Nowak-Jeziorański – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Jan%20Nowak-Jeziora%C5%84ski%20Wolna%20Europa%20kurier&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -15383,6 +15453,7 @@ Dla wielu pochód był uciążliwym obowiązkiem, znoszonym z dystansem i ironi�
 
 ## Znaczenie
 Pochody pierwszomajowe to symbol propagandowej obrzędowości PRL – spektaklu „jedności”, za którym kryła się przymusowa mobilizacja społeczeństwa.`,
+    trivia: ['Udział w pochodzie bywał w zakładach praktycznie obowiązkowy.', 'Po przemarszu następowała zabawa, piwo i kiełbasa.'],
     resources: [
       {
         id: 'm1-pkf',
@@ -15402,7 +15473,7 @@ Pochody pierwszomajowe to symbol propagandowej obrzędowości PRL – spektaklu 
       },
       {
         id: 'maj-2',
-        title: 'Święto Pracy – materiały IPN',
+        title: 'Pochód pierwszomajowy – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=1%20Maja%20poch%C3%B3d%20propaganda%20%C5%9Bwi%C4%99to%20pracy&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -15442,6 +15513,7 @@ Z okazji 22 lipca ogłaszano amnestie, niekiedy obejmujące więźniów politycz
 
 ## Znaczenie
 Święto 22 Lipca to symbol legitymizacji systemu przez odwołanie do Manifestu PKWN. Po 1989 roku zniesiono je, przywracając Święto Niepodległości 11 Listopada.`,
+    trivia: ['Było głównym świętem państwowym PRL.', 'Z tej okazji uroczyście oddawano do użytku nowe inwestycje.'],
     resources: [
       {
         id: 's22-pkf',
@@ -15501,6 +15573,7 @@ Koncepcje Grotowskiego wpłynęły na teatr na całym świecie – jego pisma, z
 
 ## Znaczenie
 Mimo realiów PRL Grotowski stworzył dzieło o światowym znaczeniu, czyniąc Polskę jednym z centrów teatralnej awangardy XX wieku.`,
+    trivia: ['Jerzy Grotowski stworzył koncepcję „teatru ubogiego”.', 'Jego Teatr Laboratorium zdobył światową sławę.'],
     resources: [
       {
         id: 'gro-1',
@@ -15568,6 +15641,7 @@ Mecze żużlowe były ważnym wydarzeniem towarzyskim i odskocznią od codzienno
 
 ## Znaczenie
 Żużel to jeden z najbardziej charakterystycznych sportów PRL, którego popularność i tradycja przetrwały do czasów współczesnych.`,
+    trivia: ['Żużel gromadził na stadionach dziesiątki tysięcy widzów.', 'Polska należała do światowych potęg tej dyscypliny.'],
     resources: [
       {
         id: 'zuz-pkf',
@@ -15639,7 +15713,7 @@ List 34 był pierwszym zbiorowym, publicznym protestem środowisk twórczych w P
     resources: [
       {
         id: 'l34-1',
-        title: 'List 34 – materiały IPN',
+        title: 'List 34 – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=List%2034%20cenzura%20protest%20intelektuali%C5%9Bci%201964&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -15757,6 +15831,7 @@ Wizyta w domu towarowym była wydarzeniem – zwłaszcza przed świętami. Stois
 
 ## Znaczenie
 Domy towarowe i Supersam to symbol napięcia między propagandową nowoczesnością a realiami gospodarki niedoboru, w której nawet „świątynie handlu” nie miały co sprzedawać.`,
+    trivia: ['Supersam w Warszawie był symbolem nowoczesnego handlu.', 'Domy towarowe nosiły nazwy takie jak Sezam czy Centrum.'],
     resources: [
       {
         id: 'dt-pkf',
@@ -15816,6 +15891,7 @@ Akcja była przedsięwzięciem zarazem oświatowym i propagandowym – łączył
 
 ## Znaczenie
 Szkoły Tysiąclecia to przykład, jak władze PRL wykorzystywały realne inwestycje społeczne do rywalizacji z Kościołem o „rząd dusz”.`,
+    trivia: ['Zbudowano ich ponad tysiąc w całym kraju.', 'Akcja była państwową odpowiedzią na kościelne obchody Milenium.'],
     resources: [
       {
         id: 'szt-pkf',
@@ -15875,10 +15951,11 @@ Władze obawiały się autorytetu Kościoła i wykorzystały orędzie do nagonki
 
 ## Dziedzictwo
 Orędzie biskupów uznawane jest dziś za jeden z fundamentów pojednania polsko-niemieckiego i wybitny akt moralnej odwagi Kościoła.`,
+    trivia: ['Zawierało słynne słowa o przebaczeniu i prośbie o przebaczenie.', 'Władze rozpętały przeciw biskupom kampanię propagandową.'],
     resources: [
       {
         id: 'ob-1',
-        title: 'Orędzie biskupów – materiały IPN',
+        title: 'Orędzie biskupów polskich – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Or%C4%99dzie%20biskup%C3%B3w%20polskich%20niemieckich%201965%20przebaczamy&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -15926,10 +16003,11 @@ Protesty wokół konstytucji zintegrowały środowiska opozycyjne i były ważny
 
 ## Znaczenie
 Sprawa nowelizacji pokazała rosnącą gotowość inteligencji do publicznego sprzeciwu i ujawniła fasadowość „demokracji ludowej”.`,
+    trivia: ['Wpisano do konstytucji kierowniczą rolę PZPR i sojusz z ZSRR.', 'Protest przeciw zmianom podpisało 59 intelektualistów.'],
     resources: [
       {
         id: 'nk-1',
-        title: 'List 59 i konstytucja – materiały IPN',
+        title: 'Nowelizacja konstytucji 1976 – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=List%2059%20nowelizacja%20konstytucji%201976%20protest&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -16045,10 +16123,11 @@ KIK-i stały się zapleczem opozycji demokratycznej. Z ich środowiska wywodził
 
 ## Znaczenie
 Kluby Inteligencji Katolickiej współtworzyły niezależne społeczeństwo obywatelskie i były pomostem między Kościołem, inteligencją a opozycją.`,
+    trivia: ['Kluby powstały w atmosferze odwilży po Październiku 1956.', 'Były jednym z nielicznych miejsc niezależnej debaty.'],
     resources: [
       {
         id: 'kik-1',
-        title: 'KIK – materiały IPN',
+        title: 'Kluby Inteligencji Katolickiej – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Kluby%20Inteligencji%20Katolickiej%20KIK%20opozycja&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -16098,6 +16177,7 @@ W realiach cenzury festiwal bywał areną napięć – niektóre filmy wstrzymyw
 
 ## Znaczenie
 Festiwal w Gdyni pozostaje najważniejszym wydarzeniem polskiego kina, a jego historia jest zwierciadłem przemian rodzimej kinematografii od czasów PRL.`,
+    trivia: ['Festiwal polskich filmów fabularnych zaczynał w Gdańsku.', 'W 1982 roku w ogóle się nie odbył z powodu stanu wojennego.'],
     resources: [
       {
         id: 'fg-1',
@@ -16359,6 +16439,7 @@ Legendarny trener „Papa” Stamm prowadził reprezentację przez dziesięciole
 
 ## Znaczenie
 Polska szkoła boksu to jeden z największych sukcesów sportu PRL, symbol kunsztu, który przez lata stawiał polskie pięściarstwo w światowej czołówce.`,
+    trivia: ['Polska szkoła boksu przyniosła serię medali olimpijskich.', 'Jej twórcą był legendarny trener Feliks Stamm.'],
     resources: [
       {
         id: 'boks-pkf',
@@ -16426,6 +16507,7 @@ W drużynie błyszczeli m.in. Tomasz Wójtowicz, Edward Skorek, Wiesław Gawłow
 
 ## Znaczenie
 Sukcesy siatkarzy z lat 70. były źródłem narodowej dumy i punktem odniesienia dla kolejnych pokoleń. Postać Huberta Wagnera stała się symbolem zwycięskiej woli walki.`,
+    trivia: ['Polscy siatkarze zdobyli mistrzostwo świata.', 'Dwa lata później sięgnęli po złoto olimpijskie w Montrealu.'],
     resources: [
       {
         id: 'siat-pkf',
@@ -16555,6 +16637,7 @@ Kantor sformułował koncepcję „Teatru Śmierci”, w której pamięć, przem
 
 ## Znaczenie
 Kantor zdobył światowe uznanie, prezentując spektakle na całym świecie. Pozostaje jednym z największych nowatorów teatru, obok Grotowskiego stawiając Polskę w awangardzie sceny.`,
+    trivia: ['Tadeusz Kantor stworzył teatr Cricot 2.', 'Jego „Umarła klasa” zdobyła międzynarodowy rozgłos.'],
     resources: [
       {
         id: 'kan-1',
@@ -16668,6 +16751,7 @@ Wydawnictwo podlegało cenzurze i polityce kulturalnej władz – decyzje o wyda
 
 ## Znaczenie
 Polskie Nagrania „Muza” ukształtowały fonograficzny krajobraz PRL; ich katalog to dziś bezcenne archiwum polskiej muzyki epoki.`,
+    trivia: ['Firma była praktycznie monopolistą na rynku płytowym.', 'Logo „Muzy” znalazło się na milionach płyt.'],
     resources: [
       {
         id: 'muz-1',
@@ -16727,6 +16811,7 @@ Wydarzenia zielonogórskie były jednym z pierwszych masowych, otwartych wystąp
 
 ## Pamięć
 Długo zapomniane, dziś przypominane są jako przykład oddolnego oporu społecznego wobec ateizacyjnej polityki władz PRL.`,
+    trivia: ['Mieszkańcy bronili Domu Katolickiego przed przejęciem przez władze.', 'Doszło do wielogodzinnych starć z milicją.'],
     resources: [
       {
         id: 'zg-1',
@@ -16786,6 +16871,7 @@ W dekadzie Gierka forsowano rekordowe wydobycie, m.in. pracą w wolne soboty i n
 
 ## Znaczenie
 Górnictwo węglowe symbolizuje zarówno potęgę przemysłową, jak i strukturalne problemy gospodarki PRL: nadmierną eksploatację surowców i ludzi.`,
+    trivia: ['Węgiel był głównym towarem eksportowym PRL.', 'Górnicy mieli przywileje – deputat węglowy i hucznie obchodzoną Barbórkę.'],
     resources: [
       {
         id: 'gor-pkf',
@@ -16847,6 +16933,7 @@ W realiach zamknięcia granic zdarzały się dramatyczne ucieczki – uprowadzen
 
 ## Znaczenie
 LOT symbolizował zarazem nowoczesność i ograniczenia PRL – techniczne ambicje państwa wobec realnej niedostępności swobodnego podróżowania dla obywateli.`,
+    trivia: ['LOT latał głównie samolotami produkcji radzieckiej.', 'Rejsy na Zachód były prestiżowe i bardzo drogie.'],
     resources: [
       {
         id: 'lot-1',
@@ -16900,6 +16987,7 @@ Szpital specjalizował się w trudnych przypadkach, ratując dzieci z całej Pol
 
 ## Znaczenie
 Centrum Zdrowia Dziecka to przykład, że mimo niewydolnej służby zdrowia PRL oddolna mobilizacja społeczna potrafiła stworzyć instytucję wybitną i trwałą.`,
+    trivia: ['Szpital powstał ze społecznych składek.', 'Miał być pomnikiem-szpitalem dla dzieci – ofiar wojny.'],
     resources: [
       {
         id: 'czd-pkf',
@@ -17011,6 +17099,7 @@ W wyprawach uczestniczyli wybitni badacze i podróżnicy. Polarnictwo, podobnie 
 
 ## Znaczenie
 Polskie wyprawy polarne i Stacja Arctowski to dowód, że mimo ograniczeń systemu polska nauka potrafiła zaistnieć na najdalszych krańcach świata.`,
+    trivia: ['Polska stacja imienia Arctowskiego działa na Antarktydzie od lat 70.', 'Polacy prowadzili badania także na Spitsbergenie.'],
     resources: [
       {
         id: 'pol-1',
@@ -17064,6 +17153,7 @@ Programy balansowały na granicy cenzury – aluzje polityczne i obyczajowe wyma
 
 ## Znaczenie
 Kabaret Olgi Lipińskiej, obok „Pod Egidą” i Kabaretu Tey, współtworzył złotą erę polskiej satyry, łącząc rozrywkę z intelektualną ambicją.`,
+    trivia: ['Kabaret Olgi Lipińskiej łączył satyrę z piosenką i teatrem.', 'Był jednym z niewielu programów satyrycznych w telewizji.'],
     resources: [
       {
         id: 'oli-1',
@@ -17441,7 +17531,7 @@ Wydarzenia w Lubinie pokazują brutalność aparatu represji wobec pokojowego op
     resources: [
       {
         id: 'lub-1',
-        title: 'Zbrodnia lubińska – materiały IPN',
+        title: 'Zbrodnia lubińska 1982 – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=zbrodnia%20lubi%C5%84ska%201982%20Lubin%20ZOMO%20ofiary&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -17501,7 +17591,7 @@ Obrona krzyży stała się symbolem oporu młodzieży i Kościoła wobec ateizac
     resources: [
       {
         id: 'okr-1',
-        title: 'Obrona krzyży – materiały IPN',
+        title: 'Obrona krzyży – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Mi%C4%99tne%20strajk&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -17561,7 +17651,7 @@ Radio Solidarność stało się symbolem niezależnej informacji i pomysłowośc
     resources: [
       {
         id: 'rs-1',
-        title: 'Radio Solidarność – materiały IPN',
+        title: 'Radio Solidarność – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Radio%20Solidarno%C5%9B%C4%87%20podziemie%20stan%20wojenny&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -17677,6 +17767,7 @@ Cepelia odegrała rolę w zachowaniu i popularyzacji tradycyjnych technik i wzor
 
 ## Znaczenie
 Cepelia to instytucja łącząca ochronę dziedzictwa ludowego z gospodarką – jej wyroby stały się rozpoznawalnym elementem estetyki PRL.`,
+    trivia: ['Nazwa to skrót od Centrali Przemysłu Ludowego i Artystycznego.', 'W sklepach Cepelii kupowało się rękodzieło i pamiątki.'],
     resources: [
       {
         id: 'cep-1',
@@ -17934,7 +18025,7 @@ Jako prymas przełomu Józef Glemp odegrał ważną rolę w pokojowym przejściu
     resources: [
       {
         id: 'gle-1',
-        title: 'Józef Glemp – materiały IPN',
+        title: 'Józef Glemp – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=J%C3%B3zef%20Glemp%20prymas%20Ko%C5%9Bci%C3%B3%C5%82%20stan%20wojenny&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -18044,10 +18135,11 @@ Jan Paweł II odwiedził zamachowca w więzieniu i publicznie mu przebaczył –
 
 ## Znaczenie
 Zamach wzmocnił autorytet papieża i jego symboliczną rolę dla Polaków w okresie karnawału Solidarności tuż przed stanem wojennym.`,
+    trivia: ['Do zamachu doszło 13 maja 1981 roku na placu św. Piotra.', 'Wiadomość wstrząsnęła Polską w wyjątkowo napiętym roku.'],
     resources: [
       {
         id: 'zam-1',
-        title: 'Zamach na JP II – materiały IPN',
+        title: 'Zamach na Jana Pawła II – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=zamach%20na%20Jana%20Paw%C5%82a%20II%201981%20Agca&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -18099,7 +18191,7 @@ Proces kurii krakowskiej to symbol represji religijnych okresu stalinizmu i bezw
     resources: [
       {
         id: 'pkk-1',
-        title: 'Proces kurii krakowskiej – materiały IPN',
+        title: 'Proces kurii krakowskiej – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=proces%20kurii%20krakowskiej%201953%20Ko%C5%9Bci%C3%B3%C5%82%20represje&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -18207,6 +18299,7 @@ Popularna była turystyka krajowa – wczasy FWP, wycieczki zakładowe, kolonie 
 
 ## Znaczenie
 Turystyka PRL odzwierciedlała ograniczenia systemu: marzenie o świecie zderzało się z barierą paszportu, dewiz i kontroli, czyniąc podróż na Zachód symbolem wolności.`,
+    trivia: ['Orbis organizował wyjazdy zagraniczne i prowadził hotele.', 'Wycieczka na Zachód wymagała zgody władz i dewiz.'],
     resources: [
       {
         id: 'orb-1',
@@ -18374,7 +18467,7 @@ Długo poszukiwano jej szczątków, odnalezionych po latach. „Inka” stała s
     resources: [
       {
         id: 'in-1',
-        title: 'Danuta Siedzikówna „Inka” – materiały IPN',
+        title: 'Danuta Siedzikówna „Inka” – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Danuta%20Siedzik%C3%B3wna%20Inka%20%C5%BCo%C5%82nierze%20wykl%C4%99ci&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -18546,7 +18639,7 @@ Turowicz to symbol niezależnego dziennikarstwa i katolicyzmu otwartego; jego pr
     resources: [
       {
         id: 'tu-1',
-        title: 'Jerzy Turowicz – materiały IPN',
+        title: 'Jerzy Turowicz – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Jerzy%20Turowicz%20Tygodnik%20Powszechny%20dziennikarstwo&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -18608,7 +18701,7 @@ Proces szesnastu symbolizuje sposób, w jaki ZSRR likwidował niepodległościow
     resources: [
       {
         id: 'ps16-1',
-        title: 'Proces szesnastu – materiały IPN',
+        title: 'Proces szesnastu – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=proces%20szesnastu%201945%20Moskwa%20Polskie%20Pa%C5%84stwo%20Podziemne&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -18738,7 +18831,7 @@ Reforma 1950 to przykład, jak komunistyczne państwo wykorzystywało aparat fin
       },
       {
         id: 'wp-1',
-        title: 'Reforma walutowa 1950 – materiały IPN',
+        title: 'Reforma walutowa 1950 – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=wymiana%20pieni%C4%99dzy%201950%20reforma%20walutowa%20stalinizm&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -18786,6 +18879,7 @@ Janusz Christa stworzył słowiańską, humorystyczną serię „Kajko i Kokosz�
 
 ## Znaczenie
 Komiks PRL, mimo niedoboru papieru i kontroli treści, ukształtował wyobraźnię pokoleń i pozostaje ważnym elementem popkultury epoki.`,
+    trivia: ['Kapitan Żbik był komiksem promującym milicję.', 'Tytus, Romek i A\'Tomek towarzyszyli kolejnym pokoleniom dzieci.'],
     resources: [
       {
         id: 'ko-1',
@@ -18837,10 +18931,11 @@ PAX wspierał politykę władz wobec Kościoła, w tym w okresach napięć. Był
 
 ## Znaczenie
 PAX to przykład mechanizmu „dziel i rządź” – prób rozbijania jedności katolików i instrumentalnego wykorzystywania religii przez komunistyczne państwo.`,
+    trivia: ['Stowarzyszenie skupiało katolików akceptujących ustrój.', 'Kierował nim Bolesław Piasecki, przed wojną działacz nacjonalistyczny.'],
     resources: [
       {
         id: 'px-1',
-        title: 'Stowarzyszenie PAX – materiały IPN',
+        title: 'Stowarzyszenie PAX – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Stowarzyszenie%20PAX&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -19016,7 +19111,7 @@ Dejmek to symbol siły teatru, który – mimo cenzury – potrafił poruszyć s
     resources: [
       {
         id: 'dej-1',
-        title: 'Kazimierz Dejmek – materiały IPN',
+        title: 'Kazimierz Dejmek – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Kazimierz%20Dejmek%20Dziady%201968%20teatr%20marzec&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -19134,10 +19229,11 @@ Z czasem pojawiały się nieliczne głosy sprzeciwu (np. koło „Znak”). Prze
 
 ## Znaczenie
 Sejm PRL to symbol fasadowości instytucji demokratycznych w systemie komunistycznym – pozorów parlamentaryzmu bez realnej władzy.`,
+    trivia: ['Sejm obradował rzadko i przyjmował ustawy niemal jednogłośnie.', 'Realne decyzje zapadały w Biurze Politycznym partii.'],
     resources: [
       {
         id: 'se-1',
-        title: 'Sejm PRL – materiały IPN',
+        title: 'Sejm PRL – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Sejm%20PRL%20parlament%20wybory%20PZPR&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -19199,7 +19295,7 @@ FJN to symbol pozorowanej „jedności” i mechanizmu wyborów bez wyboru, char
       },
       {
         id: 'fjn-1',
-        title: 'Front Jedności Narodu – materiały IPN',
+        title: 'Front Jedności Narodu – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Front%20Jedno%C5%9Bci%20Narodu%20wybory%20PRL%20PZPR&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -19250,10 +19346,11 @@ W 1989 roku ZSL i SD odeszły od PZPR, poparły rząd Tadeusza Mazowieckiego i p
 
 ## Znaczenie
 Dzieje stronnictw satelickich pokazują mechanizm pozorowanego pluralizmu, a ich „bunt” w 1989 roku był jednym z gwoździ do trumny PRL.`,
+    trivia: ['ZSL i SD istniały formalnie, ale uznawały kierowniczą rolę PZPR.', 'W 1989 roku ich posłowie poparli rząd Tadeusza Mazowieckiego.'],
     resources: [
       {
         id: 'ss-1',
-        title: 'ZSL i SD – materiały IPN',
+        title: 'Stronnictwa satelickie (ZSL i SD) – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=ZSL%20SD%20stronnictwa%20satelickie%20PRL%20PZPR&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -19303,6 +19400,7 @@ Liczyło miliony członków, lecz przynależność bywała formalna i wymuszana 
 
 ## Znaczenie
 TPPR to przykład instytucji służącej ideologicznemu zespoleniu PRL z ZSRR i sowietyzacji kultury, działającej obok aparatu partyjnego i państwowego.`,
+    trivia: ['Towarzystwo Przyjaźni Polsko-Radzieckiej organizowało obowiązkowe akademie.', 'Członkostwo bywało formalnością zapisywaną w zakładzie pracy.'],
     resources: [
       {
         id: 'tp-1',
@@ -19356,6 +19454,7 @@ W latach 60. ZBoWiD, kierowany przez Mieczysława Moczara, stał się zapleczem 
 
 ## Znaczenie
 ZBoWiD to przykład instrumentalizacji kombatantów i pamięci o wojnie przez władze PRL dla celów politycznych i propagandowych.`,
+    trivia: ['Skupiał kombatantów, ale pod ścisłą kontrolą polityczną.', 'Przynależność wiązała się z przywilejami socjalnymi.'],
     resources: [
       {
         id: 'zb-1',
@@ -19409,10 +19508,11 @@ Społeczeństwo przyjęło postawę przystosowania – „małych spraw” i pry
 
 ## Znaczenie
 „Mała stabilizacja” to celne określenie kondycji PRL lat 60. – świata bez wielkiego strachu, ale i bez wolności oraz nadziei na lepsze jutro.`,
+    trivia: ['Określenie spopularyzował dramat Tadeusza Różewicza.', 'Oznaczało skromną, ale przewidywalną codzienność.'],
     resources: [
       {
         id: 'ms-1',
-        title: 'Mała stabilizacja – materiały IPN',
+        title: 'Mała stabilizacja – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=ma%C5%82a%20stabilizacja%20Gomu%C5%82ka%20%C5%BCycie%20codzienne%20lata%2060&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -19630,7 +19730,7 @@ Henryka Krzywonos to symbol roli zwykłych ludzi i kobiet w narodzinach Solidarn
     resources: [
       {
         id: 'kr-1',
-        title: 'Henryka Krzywonos – materiały IPN',
+        title: 'Henryka Krzywonos – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Henryka%20Krzywonos%20Solidarno%C5%9B%C4%87%20sierpie%C5%84%201980%20strajk&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -19742,6 +19842,7 @@ Po proteście nastąpiły brutalne represje – zwolnienia, pobicia („ścieżk
 
 ## Znaczenie
 Ursus łączy historię przemysłu PRL z historią robotniczego oporu – od dumy z produkcji po bunt przeciw systemowi.`,
+    trivia: ['Zakłady produkowały ciągniki znane w całym kraju.', 'Robotnicy Ursusa byli jednymi z głównych uczestników protestu w czerwcu 1976.'],
     resources: [
       {
         id: 'urs-pkf',
@@ -19805,7 +19906,7 @@ Zagłuszanie symbolizuje walkę systemu o kontrolę nad informacją; zaprzestano
     resources: [
       {
         id: 'zr-1',
-        title: 'Zagłuszanie RWE – materiały IPN',
+        title: 'Zagłuszanie Radia Wolna Europa – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=zag%C5%82uszanie%20radiowe&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -19861,6 +19962,7 @@ Mimo nowoczesnej formy treść pozostawała pod kontrolą – obok rozrywki i ku
 
 ## Znaczenie
 Kolorowa telewizja symbolizuje napięcie między technologicznymi ambicjami PRL a realiami niedoboru, w których nowoczesność była luksusem dla nielicznych.`,
+    trivia: ['Nadawanie w kolorze ruszyło na początku lat 70.', 'Kolorowy telewizor jeszcze długo pozostawał luksusem.'],
     resources: [
       {
         id: 'tvk-pkf',
@@ -19920,10 +20022,11 @@ Symbolem szczecińskiego strajku stał się Marian Jurczyk, przywódca Międzyza
 
 ## Znaczenie
 Stocznia Szczecińska, obok Gdańskiej, to symbol robotniczego oporu i kolebka Solidarności na Pomorzu Zachodnim.`,
+    trivia: ['Stocznia strajkowała zarówno w 1970, jak i w 1980 roku.', 'Porozumienie szczecińskie podpisano dzień przed gdańskim.'],
     resources: [
       {
         id: 'ssz-1',
-        title: 'Stocznia Szczecińska – materiały IPN',
+        title: 'Stocznia Szczecińska – opracowania (2)',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Stocznia%20Szczeci%C5%84ska%20Warski%201970%201980%20strajk&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -19979,6 +20082,7 @@ W małych miejscowościach dom kultury bywał centrum życia towarzyskiego – m
 
 ## Znaczenie
 Domy kultury i świetlice to ważny, ambiwalentny element PRL: realnie demokratyzowały dostęp do kultury, służąc zarazem jako narzędzie wychowania ideologicznego.`,
+    trivia: ['Niemal każdy większy zakład pracy miał własny dom kultury.', 'Działały tam zespoły, kółka zainteresowań i kino.'],
     resources: [
       {
         id: 'dk-1',
@@ -20094,6 +20198,7 @@ Obok Kopiczyńskiego i Kwiatkowskiej grali m.in. Anna Seniuk (żona Madzia), Leo
 
 ## Znaczenie
 „Czterdziestolatek” to jeden z najlepszych seriali PRL – komedia, która dziś jest też bezcennym dokumentem obyczajowym epoki.`,
+    trivia: ['Serial opowiadał o inżynierze Karwowskim i jego rodzinie.', 'Kobieta Pracująca stała się jedną z najbardziej kultowych postaci.'],
     resources: [
       {
         id: 'cz40-1',
@@ -20155,6 +20260,7 @@ Choć serial ocieplał wizerunek milicji, widzowie cenili go za sprawną fabuł�
 
 ## Znaczenie
 „07 zgłoś się” to klasyk polskiego kryminału telewizyjnego i ważny, ambiwalentny dokument epoki – rozrywka spleciona z funkcją propagandową.`,
+    trivia: ['Porucznik Borewicz jeździł Polonezem – ówczesnym obiektem pożądania.', 'Serial pokazywał milicję w atrakcyjnym, filmowym świetle.'],
     resources: [
       {
         id: '07-1',
@@ -20214,6 +20320,7 @@ Emisję przerwała tragiczna śmierć obu prowadzących w wypadku samochodowym w
 
 ## Znaczenie
 „Sonda” pozostaje wzorem telewizji popularnonaukowej – dowodem, że w PRL potrafiono robić światowej klasy edukacyjną telewizję.`,
+    trivia: ['Program popularnonaukowy prowadzili Zdzisław Kamiński i Andrzej Kurek.', 'Obaj zginęli w wypadku samochodowym w 1989 roku.'],
     resources: [
       {
         id: 'son-1',
@@ -20341,6 +20448,7 @@ Ciężka kontuzja w meczu z Anglią (1973) wykluczyła go z mundialu 1974. Mimo 
 
 ## Znaczenie
 Lubański i Górnik to symbol złotej ery śląskiego futbolu – fundamentu, na którym wyrosły sukcesy reprezentacji w latach 70.`,
+    trivia: ['Włodzimierz Lubański był gwiazdą Górnika Zabrze.', 'Kontuzja odniesiona w 1973 roku wykluczyła go z mundialu 1974.'],
     resources: [
       {
         id: 'lub2-1',
@@ -20404,7 +20512,7 @@ Proces Wańkowicza to symbol zderzenia niezależnej literatury z cenzurą i jede
     resources: [
       {
         id: 'wan-1',
-        title: 'Proces Wańkowicza – materiały IPN',
+        title: 'Proces Melchiora Wańkowicza – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Melchior%20Wa%C5%84kowicz%20proces%201964%20List%2034&fulltext=1&ns0=1',
         source: 'Wikipedia',
@@ -20582,6 +20690,7 @@ Choć akcja działała w ramach oficjalnej telewizji, jej przesłanie – bezint
 
 ## Znaczenie
 „Niewidzialna Ręka” to jeden z najjaśniejszych fenomenów wychowawczych epoki PRL, wspominany z sympatią przez pokolenia uczestników.`,
+    trivia: ['Akcja zachęcała dzieci do anonimowego czynienia dobra.', 'Prowadzono ją w radiu przez wiele lat.'],
     resources: [
       {
         id: 'nr-1',
@@ -20641,6 +20750,7 @@ Beata Kozidrak stała się jedną z najważniejszych wokalistek polskiej sceny, 
 
 ## Znaczenie
 Bajm to klasyk polskiego popu i rocka; jego przeboje z lat 80. pozostają do dziś rozpoznawalne i chętnie wykonywane.`,
+    trivia: ['Wokalistką i twarzą zespołu jest Beata Kozidrak.', 'Grupa pochodzi z Lublina.'],
     resources: [
       {
         id: 'bajm-yt',
@@ -20692,6 +20802,7 @@ Kombi wnosiło do polskiej muzyki estetykę zachodniego new romantic i electro-p
 
 ## Znaczenie
 Kombi to prekursor polskiej muzyki elektronicznej; jego przeboje pozostają symbolem brzmienia lat 80.`,
+    trivia: ['Liderem zespołu był Sławomir Łosowski.', 'Ich brzmienie opierało się na syntezatorach.'],
     resources: [
       {
         id: 'kombi-yt',
@@ -20743,6 +20854,7 @@ Zespół działał krótko, lecz wywarł ogromny wpływ. Brylewski i Lipiński k
 
 ## Znaczenie
 Brygada Kryzys to symbol polskiej nowej fali – muzyki ambitnej, niezależnej i kontestacyjnej, inspirującej kolejne pokolenia.`,
+    trivia: ['Zespół tworzyli Robert Brylewski i Tomasz Lipiński.', 'Ich płyta z początku lat 80. to klasyk polskiej nowej fali.'],
     resources: [
       {
         id: 'bk-yt',
@@ -20794,6 +20906,7 @@ Sukces przyszedł w ponurym okresie stanu wojennego i był dla Polaków źródł
 
 ## Znaczenie
 Mundial 1982, obok 1974, to szczyt osiągnięć polskiej piłki; pokolenie Bońka, Laty i Smolarka zapisało się w historii sportu.`,
+    trivia: ['Polska zajęła 3. miejsce, powtarzając sukces z 1974 roku.', 'Turniej rozgrywano, gdy w kraju wciąż trwał stan wojenny.'],
     resources: [
       {
         id: 'm82-pkf',
@@ -21081,6 +21194,7 @@ Wokół działek wytworzyła się specyficzna kultura – konkursy na najpiękni
 
 ## Znaczenie
 Ogródki działkowe to trwały element pejzażu i obyczajowości PRL, a wiele z nich istnieje do dziś, świadcząc o tej tradycji.`,
+    trivia: ['Działka dawała warzywa i owoce w czasach niedoboru.', 'Altanki budowano najczęściej własnym sumptem.'],
     resources: [
       {
         id: 'ogr-1',
@@ -21246,6 +21360,7 @@ Lombard należał do czołówki polskiego rocka lat 80., regularnie obecny na Li
 
 ## Znaczenie
 Zespół pozostaje klasykiem polskiego rocka, a „Przeżyj to sam” – jednym z najbardziej rozpoznawalnych przebojów epoki.`,
+    trivia: ['Wokalistką zespołu była Małgorzata Ostrowska.', 'Grupa pochodzi z Poznania.'],
     resources: [
       {
         id: 'lom-yt',
@@ -21300,6 +21415,7 @@ Burzliwe dzieje zespołu i zmiany składu (m.in. odejście Jaryczewskiego) nie p
 
 ## Znaczenie
 Oddział Zamknięty to jeden z symboli rockowej kultury młodzieżowej lat 80., a jego przeboje pozostają rozpoznawalne do dziś.`,
+    trivia: ['Przebój „Party” to jeden z klasyków lat 80.', 'Zespół powstał w Warszawie.'],
     resources: [
       {
         id: 'oz-yt',
@@ -21356,6 +21472,7 @@ Andrzej Zieliński, kompozytor i pianista, nadawał zespołowi muzyczny kierunek
 
 ## Znaczenie
 Skaldowie to jeden z najbardziej oryginalnych i cenionych zespołów polskiej muzyki rozrywkowej, łączący popularność z artystyczną ambicją.`,
+    trivia: ['Zespół tworzyli bracia Andrzej i Jacek Zielińscy.', 'Łączyli rock z inspiracjami folklorem Podhala.'],
     resources: [
       {
         id: 'sk-yt',
@@ -26063,11 +26180,11 @@ To najbardziej reprezentacyjny przykład socrealistycznej urbanistyki w Polsce.`
       },
       {
         id: 'mdm-fn',
-        title: 'Polska Kronika Filmowa o Warszawie',
+        title: 'MDM – Marszałkowska Dzielnica Mieszkaniowa – nagrania archiwalne',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+Warszawa+stolica',
         source: 'YouTube',
-        description: 'Kronika o powojennej stolicy (Repozytorium Filmoteki Narodowej).',
+        description: 'Archiwalne materiały wideo dotyczące tematu.',
       },
       {
         id: 'mdm-2',
@@ -26176,11 +26293,11 @@ Trasa W-Z to symbol powojennej odbudowy stolicy i inżynierskiego rozmachu epoki
       },
       {
         id: 'twz-fn',
-        title: 'Warszawa wolna – Polska Kronika Filmowa',
+        title: 'Trasa W-Z – nagrania archiwalne',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+Warszawa+odbudowa',
         source: 'YouTube',
-        description: 'PKF o powojennej Warszawie (Repozytorium Filmoteki Narodowej).',
+        description: 'Archiwalne materiały wideo dotyczące tematu.',
       },
       {
         id: 'twz-2',
@@ -28699,7 +28816,7 @@ To jeden z najbardziej intrygujących, autorskich filmów Tadeusza Konwickiego.`
       },
       {
         id: 'sal-fn',
-        title: '„Salto” – Repozytorium Filmoteki Narodowej',
+        title: 'Salto – nagrania archiwalne',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Salto+1965+Konwicki+film',
         source: 'YouTube',
@@ -29721,7 +29838,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1999, event: 'Polska wstępuje do NATO – dzieło dyplomacji Geremka', category: 'polityka', entryId: 'geremek' },
   { year: 1956, event: 'Robotniczy protest w Poznaniu – 57 zabitych, pierwsze przebudzenie', category: 'opozycja', entryId: 'walczynski-opor' },
   { year: 1953, event: 'Ryszard Kapuściński debiutuje w prasie – początek kariery reporterskiej', category: 'kultura', entryId: 'kapuscinski' },
-  { year: 1948, event: 'Powstanie PZPR z fuzji PPR i PPS – stalinizm triumfuje', category: 'polityka', entryId: 'ppkwn' },
+  { year: 1948, event: 'Powstanie PZPR z fuzji PPR i PPS – stalinizm triumfuje', category: 'polityka', entryId: 'ppr' },
   { year: 1979, event: 'I Pielgrzymka Jana Pawła II – „Niech zstąpi Duch Twój i odnowi tę ziemię"', category: 'społeczeństwo', entryId: 'pielgrzymki-jp2' },
   { year: 1983, event: 'II Pielgrzymka – papież spotyka się z Wałęsą w stanie wojennym', category: 'społeczeństwo', entryId: 'pielgrzymki-jp2' },
   { year: 1970, event: '17 grudnia – masakra robotników w Gdyni i Gdańsku', category: 'represje', entryId: 'gdansk-sopot-gdynia' },
