@@ -471,6 +471,14 @@ PZPR była rdzeniem systemu komunistycznego w Polsce – jej dzieje to historia 
     trivia: ['Powstała w 1948 roku z połączenia PPR i PPS.', 'Rozwiązała się w styczniu 1990 roku.'],
     resources: [
       {
+        id: 'pzpr-pkf',
+        title: 'I Kongres PZPR – PKF 52/1948',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=h_5-fNgpFXw',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie kroniki filmowej „I Kongres PZPR – PKF 52/1948”.',
+      },
+      {
         id: 'pzpr-1',
         title: 'KC PZPR – zbiór archiwalny 1948–1990 (AAN)',
         type: 'akt',
@@ -687,6 +695,14 @@ W 1989 roku dług zewnętrzny PRL wynosił ok. **42 miliardy dolarów**.
 Powszechne zjawisko społeczne. "Dolar" i towary z Pewexu były twardą walutą wymiany.`,
     trivia: ['Ceny ustalało państwo, a nie rynek.', 'Braki towarów były trwałym elementem systemu, nie wyjątkiem.'],
     resources: [
+      {
+        id: 'gospodarka-prl-pkf',
+        title: 'Polskie morze i gospodarka krajowa – PKF 1981',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=j4q88_uD3GM',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie kroniki filmowej „Polskie morze i gospodarka krajowa – PKF 1981”.',
+      },
       {
         id: 'gosp-1',
         title: 'Plany gospodarcze PRL – GUS Archiwum',
@@ -1418,6 +1434,14 @@ Czerwiec 1976 połączył bunt robotniczy ze wsparciem inteligencji, budując fu
     trivia: ['Podwyżki cen ogłoszone 24 czerwca wycofano już następnego dnia.', 'Zatrzymanych przepędzano przez „ścieżki zdrowia” – szpaler bijących milicjantów.'],
     resources: [
       {
+        id: 'czerwiec-1976-pkf',
+        title: 'Radomska Kronika Filmowa z 1976 roku',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=bMlG4bxQGtA',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie kroniki filmowej „Radomska Kronika Filmowa z 1976 roku”.',
+      },
+      {
         id: 'c76-ipn1',
         title: 'Czerwiec 1976 - artykuły IPN',
         type: 'publikacja',
@@ -1673,6 +1697,14 @@ LWP łączyło rolę armii z funkcją narzędzia systemu – pozostaje symbolem 
     trivia: ['Armia była politycznie podporządkowana partii.', 'W 1968 roku wzięła udział w inwazji na Czechosłowację.'],
     resources: [
       {
+        id: 'lwp-pkf',
+        title: 'Niech żyje Ludowe Wojsko Polskie – PKF 45/1953',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=LxTzw9Rk8iU',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie kroniki filmowej „Niech żyje Ludowe Wojsko Polskie – PKF 45/1953”.',
+      },
+      {
         id: 'lwp-1',
         title: 'Ludowe Wojsko Polskie – opracowania',
         type: 'publikacja',
@@ -1853,6 +1885,14 @@ ZOMO budziło powszechny strach i nienawiść; pogardliwie nazywano jego funkcjo
 ZOMO rozwiązano na przełomie 1989 i 1990 roku wraz z reformą milicji i przekształceniem jej w policję. Pozostało symbolem przemocy aparatu PRL.`,
     trivia: ['Zmotoryzowane Odwody Milicji Obywatelskiej utworzono po Poznańskim Czerwcu 1956.', 'Formację rozwiązano dopiero po upadku PRL.'],
     resources: [
+      {
+        id: 'zomo-pkf',
+        title: 'ZOMO w kronice filmowej',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=JmHc1KNo_E8',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie kroniki filmowej „ZOMO w kronice filmowej”.',
+      },
       {
         id: 'zomo-1',
         title: 'ZOMO – zdjęcia i grafiki',
@@ -2427,6 +2467,14 @@ Powrót Gomułki wywołał entuzjazm społeczny – przemówienie do warszawskie
 Październik 1956 nie zmienił zasad systemu. Cenzura pozostała, Polska trwała w bloku wschodnim, a Gomułka stopniowo cofał liberalizację. Pismo Po Prostu zostało zamknięte w 1957 roku. Nadzieje na prawdziwą demokratyzację okazały się złudne.`,
     trivia: ['Na wiecu na placu Defilad zebrały się setki tysięcy ludzi.', 'Gomułka wrócił do władzy jako człowiek wcześniej przez partię więziony.'],
     resources: [
+      {
+        id: 'pazdziernik-1956-pkf',
+        title: 'Wiec w Warszawie 1956 – wystąpienie Gomułki',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=nQc9o_MmIE8',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie kroniki filmowej „Wiec w Warszawie 1956 – wystąpienie Gomułki”.',
+      },
       {
         id: 'p56-ipn1',
         title: 'Październik 1956 - artykuły IPN',
@@ -3123,6 +3171,14 @@ Wybuch robotniczego buntu w Poznaniu w czerwcu 1956 roku był bezpośrednią rea
     trivia: ['Plan na lata 1950–1955 stawiał na przemysł ciężki kosztem dóbr konsumpcyjnych.', 'Jego symbolami stały się Nowa Huta i Pałac Kultury.'],
     resources: [
       {
+        id: 'plan-szescioletni-pkf',
+        title: 'Bierut przedstawia plan rozwoju – PKF 29/1949',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=xcW6-M9vw34',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie kroniki filmowej „Bierut przedstawia plan rozwoju – PKF 29/1949”.',
+      },
+      {
         id: 'p6-pkf',
         title: 'Polska Kronika Filmowa – plan sześcioletni',
         type: 'nagranie',
@@ -3323,6 +3379,14 @@ Układ Warszawski rozwiązano w 1991 roku, wraz z rozpadem bloku wschodniego i Z
     trivia: ['Układ podpisano w 1955 roku jako odpowiedź na powstanie NATO.', 'Rozwiązano go w 1991 roku.'],
     resources: [
       {
+        id: 'uklad-warszawski-pkf',
+        title: 'Powołanie Układu Warszawskiego i RWPG – PKF 21/1955',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=vV6Lhr3DsJs',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie kroniki filmowej „Powołanie Układu Warszawskiego i RWPG – PKF 21/1955”.',
+      },
+      {
         id: 'uw-1',
         title: 'Układ Warszawski – artykuł',
         type: 'publikacja',
@@ -3444,6 +3508,14 @@ Sfałszowane wybory zamknęły okres pozornej koalicji i otworzyły drogę do pe
 W 1948 roku PPR połączyła się z PPS (pod przymusem), tworząc PZPR. Polska stała się jednopartyjnym państwem komunistycznym na wzór sowiecki.`,
     trivia: ['Wybory sfałszowano, zapewniając zwycięstwo blokowi komunistów.', 'Po nich Stanisław Mikołajczyk musiał uciekać z kraju.'],
     resources: [
+      {
+        id: 'wybory-1947-pkf',
+        title: 'Wybory do Sejmu Ustawodawczego – PKF 01/1947',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=fWHtS5hm-Fg',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie kroniki filmowej „Wybory do Sejmu Ustawodawczego – PKF 01/1947”.',
+      },
       {
         id: 'w47-pkf',
         title: 'Polska Kronika Filmowa – wybory 1947',
@@ -3716,6 +3788,14 @@ Małe auto stało się częścią polskiej kultury popularnej – pojawiało si�
 **Po 1989 roku:**
 Po upadku PRL Maluch stał się tanim środkiem transportu, a później obiektem nostalgii i kultowym pojazdem. Dziś dobrze zachowane egzemplarze są kolekcjonerskimi rarytasami.`,
     resources: [
+      {
+        id: 'fiat-126p-pkf',
+        title: 'Fiat 126p w kronice filmowej',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=pmAPTRw8fps',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Fiat 126p w kronice filmowej”.',
+      },
       {
         id: 'fiat-1',
         title: 'Maluch w kronikach filmowych',
@@ -4212,6 +4292,14 @@ Mimo to polskie uczelnie – zwłaszcza Uniwersytet Warszawski, AGH, UJ – zach
 PRL dał Polsce masową edukację – i to jest realne osiągnięcie. Ale też wychował pokolenia w schemacie ideologicznym, z lukusem w wiedzy historycznej i obywatelskiej. Likwidacja tych braków stała się zadaniem szkoły po 1989 roku.`,
     trivia: ['Szkoła była bezpłatna i powszechna, ale też mocno zideologizowana.', 'Obowiązkowa była nauka języka rosyjskiego.'],
     resources: [
+      {
+        id: 'edukacja-prl-pkf',
+        title: 'Szkoła eksperymentalna we Wrocławiu – PKF 1959',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=A1XUOuMeWY8',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Szkoła eksperymentalna we Wrocławiu – PKF 1959”.',
+      },
       {
         id: 'edukacja-polona',
         title: 'Edukacja i szkoła w PRL – opracowania',
@@ -4780,6 +4868,14 @@ W Solidarności kobiety odgrywały kluczową rolę – Anna Walentynowicz, Alina
 Internowanie w stanie wojennym dotknęło też kobiety – działaczki Solidarności, doradczynie, publicystki.`,
     trivia: ['Kobiety masowo podjęły pracę zawodową.', 'Podwójny etat – praca i dom – był normą, nie wyjątkiem.'],
     resources: [
+      {
+        id: 'kobiety-prl-pkf',
+        title: 'Kobieta w PRL – kronika filmowa',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=jaf38gBY8Ys',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Kobieta w PRL – kronika filmowa”.',
+      },
       {
         id: 'kobiety-polona',
         title: 'Kobiety w PRL – opracowania',
@@ -7333,6 +7429,14 @@ Konstytucja PRL obowiązywała do 1989 r. – nowelizacje Okrągłego Stołu prz
     trivia: ['Konstytucję uchwalono 22 lipca 1952 i to ona wprowadziła nazwę Polska Rzeczpospolita Ludowa.', 'Poprawki do projektu nanosił osobiście Józef Stalin.'],
     resources: [
       {
+        id: 'konstytucja-prl-pkf',
+        title: 'Uchwalenie Konstytucji PRL – PKF 31–32/1952',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=VUBNqGt3gW4',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie kroniki filmowej „Uchwalenie Konstytucji PRL – PKF 31–32/1952”.',
+      },
+      {
         id: 'konst-1',
         title: 'Tekst Konstytucji PRL 1952 – Wikiźródła',
         type: 'akt',
@@ -8017,6 +8121,14 @@ Odbudowa stała się mitem założycielskim PRL: tysiące ochotników z całego 
     trivia: ['Stare Miasto odtwarzano m.in. na podstawie obrazów Canaletta.', 'Odbudowa była zarazem realnym wysiłkiem i propagandowym sukcesem władzy.'],
     resources: [
       {
+        id: 'odbudowa-warszawy-pkf',
+        title: 'Budujemy Warszawę – PKF 1945',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=k2ZiYFNMkwk',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Budujemy Warszawę – PKF 1945”.',
+      },
+      {
         id: 'ow-pkf',
         title: 'Polska Kronika Filmowa – odbudowa Warszawy',
         type: 'nagranie',
@@ -8215,6 +8327,14 @@ XX Zjazd przyspieszył rehabilitację ofiar stalinizmu, uwolnienie prymasa Wyszy
 Chruszczow rządził ZSRR do 1964 r. Jego czas to "odwilż" – ograniczenie terroru, pewna liberalizacja kultury, ale też kryzys kubański (1962) i Mur Berliński (1961). W 1964 r. obalili go towarzysze partyjni.`,
     trivia: ['Tajny referat o zbrodniach Stalina wygłoszono na XX Zjeździe KPZR w lutym 1956.', 'Jego treść szybko przedostała się do Polski i przyspieszyła odwilż.'],
     resources: [
+      {
+        id: 'chruszczow-pkf',
+        title: 'Chruszczow wycofuje rakiety z Kuby – PKF 48B/1962',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=890VbFf2WRk',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie kroniki filmowej „Chruszczow wycofuje rakiety z Kuby – PKF 48B/1962”.',
+      },
       {
         id: 'chruszcz-1',
         title: 'Chruszczow i destalinizacja – opracowania',
@@ -8897,6 +9017,14 @@ Mimo że Polska pozostała krajem z dominującym rolnictwem prywatnym, kryzysy �
 W latach 80. rolnicy uzyskali możliwość zrzeszania się w niezależnych związkach (NSZZ "Solidarność" Rolników Indywidualnych). Po 1989 roku prywatne rolnictwo polskie weszło w trudny okres transformacji rynkowej, a po wstąpieniu do UE skorzystało z systemu dopłat bezpośrednich.`,
     trivia: ['Polska była jedynym krajem bloku z przewagą gospodarstw prywatnych.', 'Rolnicy przez lata musieli oddawać obowiązkowe dostawy płodów rolnych.'],
     resources: [
+      {
+        id: 'rolnictwo-prl-pkf',
+        title: 'Socjalistyczne rolnictwo – kronika filmowa',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=wtZRNxKcGuo',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie kroniki filmowej „Socjalistyczne rolnictwo – kronika filmowa”.',
+      },
       {
         id: 'rolnictwo-reforma',
         title: 'Dekret PKWN o reformie rolnej – tekst źródłowy',
@@ -10127,6 +10255,14 @@ Liberalizacja umożliwiła import zachodnich samochodów. Rynek zalały używane
     trivia: ['Na samochód czekało się latami po zapisaniu na listę.', 'Talon na auto bywał cenniejszy niż samo auto.'],
     resources: [
       {
+        id: 'motoryzacja-prl-pkf',
+        title: 'Polskie Fiaty w naszym życiu – PKF 45/1976',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Iyv2tXhg1Do',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Polskie Fiaty w naszym życiu – PKF 45/1976”.',
+      },
+      {
         id: 'maluch-polona',
         title: 'Motoryzacja w PRL – Maluch i inne – opracowania',
         type: 'publikacja',
@@ -10479,6 +10615,14 @@ Pielgrzymki JP2 były przebudzeniem zbiorowym w ścisłym sensie: miliony Polak�
 Komuniści zdawali sobie sprawę z zagrożenia. SB inwigilowała pielgrzymki, dokumentowała każde słowo. Ale nie mogli nic zrobić – papież był nietykalny.`,
     trivia: ['Pierwsza pielgrzymka w 1979 roku zgromadziła miliony ludzi.', 'Porządku pilnowała sama publiczność – bez udziału milicji.'],
     resources: [
+      {
+        id: 'pielgrzymki-jp2-pkf',
+        title: 'Kronika III pielgrzymki Jana Pawła II do Polski',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=2JcDbRT46Vk',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Kronika III pielgrzymki Jana Pawła II do Polski”.',
+      },
       {
         id: 'jp2-pielgrzymki-ninateka',
         title: 'Pielgrzymki Jana Pawła II – nagrania',
@@ -14102,6 +14246,14 @@ Kwestia alkoholu ilustruje społeczne skutki gospodarki niedoboru i bezradność
     trivia: ['Wódka bywała walutą – płacono nią za usługi i przysługi.', 'Godziny sprzedaży alkoholu ograniczano przepisami.'],
     resources: [
       {
+        id: 'alkohol-prl-pkf',
+        title: 'Alkoholizm – PKF 40a/1979',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=EaXi4YsjsaE',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Alkoholizm – PKF 40a/1979”.',
+      },
+      {
         id: 'alk-1',
         title: 'Alkohol w PRL – opracowania',
         type: 'publikacja',
@@ -15594,6 +15746,14 @@ Pochody pierwszomajowe to symbol propagandowej obrzędowości PRL – spektaklu 
     trivia: ['Udział w pochodzie bywał w zakładach praktycznie obowiązkowy.', 'Po przemarszu następowała zabawa, piwo i kiełbasa.'],
     resources: [
       {
+        id: 'pochod-1-maja-pkf',
+        title: 'Pochód pierwszomajowy w stolicy – PKF 18B/1958',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=SkbeGUiuGO8',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Pochód pierwszomajowy w stolicy – PKF 18B/1958”.',
+      },
+      {
         id: 'm1-pkf',
         title: 'Polska Kronika Filmowa – 1 Maja 1953',
         type: 'nagranie',
@@ -15653,6 +15813,14 @@ Z okazji 22 lipca ogłaszano amnestie, niekiedy obejmujące więźniów politycz
 Święto 22 Lipca to symbol legitymizacji systemu przez odwołanie do Manifestu PKWN. Po 1989 roku zniesiono je, przywracając Święto Niepodległości 11 Listopada.`,
     trivia: ['Było głównym świętem państwowym PRL.', 'Z tej okazji uroczyście oddawano do użytku nowe inwestycje.'],
     resources: [
+      {
+        id: 'swieto-22-lipca-pkf',
+        title: 'Centralne obchody Święta 22 Lipca w Łodzi – PKF 30B/1958',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=X-gb2BQNrI4',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Centralne obchody Święta 22 Lipca w Łodzi – PKF 30B/1958”.',
+      },
       {
         id: 's22-pkf',
         title: 'Polska Kronika Filmowa – obchody 22 lipca',
@@ -15781,6 +15949,14 @@ Mecze żużlowe były ważnym wydarzeniem towarzyskim i odskocznią od codzienno
 Żużel to jeden z najbardziej charakterystycznych sportów PRL, którego popularność i tradycja przetrwały do czasów współczesnych.`,
     trivia: ['Żużel gromadził na stadionach dziesiątki tysięcy widzów.', 'Polska należała do światowych potęg tej dyscypliny.'],
     resources: [
+      {
+        id: 'zuzel-prl-pkf',
+        title: 'Żużel w kronice filmowej',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=ykrCqXVRSlI',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Żużel w kronice filmowej”.',
+      },
       {
         id: 'zuz-pkf',
         title: 'Polska Kronika Filmowa – żużel',
@@ -16033,6 +16209,14 @@ Akcja była przedsięwzięciem zarazem oświatowym i propagandowym – łączył
 Szkoły Tysiąclecia to przykład, jak władze PRL wykorzystywały realne inwestycje społeczne do rywalizacji z Kościołem o „rząd dusz”.`,
     trivia: ['Zbudowano ich ponad tysiąc w całym kraju.', 'Akcja była państwową odpowiedzią na kościelne obchody Milenium.'],
     resources: [
+      {
+        id: 'szkoly-tysiaclecia-pkf',
+        title: 'Gomułka otwiera pierwszą Szkołę Tysiąclecia – PKF 31B/1959',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=uc5uK1JHCLI',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Gomułka otwiera pierwszą Szkołę Tysiąclecia – PKF 31B/1959”.',
+      },
       {
         id: 'szt-pkf',
         title: 'Polska Kronika Filmowa – szkoły Tysiąclecia',
@@ -17806,6 +17990,14 @@ Radio Solidarność stało się symbolem niezależnej informacji i pomysłowośc
     trivia: ['Pierwszą audycję nadano w kwietniu 1982, kilka miesięcy po wprowadzeniu stanu wojennego.', 'Nadajniki przenoszono po mieszkaniach, by uniknąć namierzenia.'],
     resources: [
       {
+        id: 'radio-solidarnosc-pkf',
+        title: 'Tu Radio Solidarność – PKF 24/1990',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Iomx3SNYSDE',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie kroniki filmowej „Tu Radio Solidarność – PKF 24/1990”.',
+      },
+      {
         id: 'rs-1',
         title: 'Radio Solidarność – opracowania',
         type: 'publikacja',
@@ -17867,6 +18059,14 @@ Poloneza eksportowano, a produkcję (w zmienianych wersjach) kontynuowano przez 
 FSO i Polonez symbolizują ambicje i ograniczenia przemysłu PRL – techniczny postęp realizowany w warunkach gospodarki niedoboru.`,
     trivia: ['Nadwozie Poloneza zaprojektowało włoskie studio Giugiaro.', 'Auto weszło do produkcji w 1978 roku i pozostało w niej przez ponad dwie dekady.'],
     resources: [
+      {
+        id: 'fso-polonez-pkf',
+        title: 'Polonezy nad Nilem – kronika filmowa',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=fmu8jXtRd2k',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie kroniki filmowej „Polonezy nad Nilem – kronika filmowa”.',
+      },
       {
         id: 'fso-pkf',
         title: 'Polska Kronika Filmowa – FSO i motoryzacja',
@@ -21457,6 +21657,14 @@ W realiach niedoboru Syrena była upragnionym dobrem, choć awaryjnym; obok Fiat
 Syrena to ikona polskiej myśli technicznej epoki – świadectwo ambicji własnej motoryzacji i zarazem ograniczeń gospodarki centralnie planowanej.`,
     resources: [
       {
+        id: 'syrena-samochod-pkf',
+        title: 'Syrena wytrzymała – PKF 1959',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Z3mb0hkvtho',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie kroniki filmowej „Syrena wytrzymała – PKF 1959”.',
+      },
+      {
         id: 'syr-1',
         title: 'Syrena (FSO) – artykuł',
         type: 'publikacja',
@@ -22888,6 +23096,14 @@ Kolej spajała kraj i była częścią codziennego doświadczenia milionów Pola
     trivia: ['W wagonach WARS podawano herbatę w szklankach umieszczonych w metalowych koszyczkach.', 'Na dalekie trasy polowało się na „miejscówki” i kuszetki.'],
     resources: [
       {
+        id: 'podroze-pkp-pkf',
+        title: 'Koleje – nerwy kraju – PKF 4/1948',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=YJlsh6YIlJQ',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Koleje – nerwy kraju – PKF 4/1948”.',
+      },
+      {
         id: 'pkp-yt',
         title: 'Podróże koleją w PRL – materiały',
         type: 'nagranie',
@@ -23283,6 +23499,14 @@ Napoje PRL to nostalgiczny element codzienności i przykład pomysłowości w wa
     trivia: ['Wodę sodową z saturatora pito ze wspólnej, jedynie płukanej szklanki.', 'Polskimi odpowiednikami coli były Cocta i Polo-Cockta.'],
     resources: [
       {
+        id: 'oranzada-napoje-pkf',
+        title: 'Oranżada w kronice filmowej',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Q5hgZ9on79U',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Oranżada w kronice filmowej”.',
+      },
+      {
         id: 'orz-yt',
         title: 'Napoje PRL – materiały',
         type: 'nagranie',
@@ -23337,6 +23561,14 @@ Dla wielu rodzin motocykl z przyczepką lub motorower był pojazdem na lata – 
 Jednoślady to ważny element motoryzacji i codzienności PRL, dziś obiekt kolekcjonerskiej nostalgii.`,
     trivia: ['Junak M10 był najmocniejszym polskim motocyklem i obiektem pożądania.', 'Popularne motorowery to Komar oraz jednoślady i rowery zakładów Romet.'],
     resources: [
+      {
+        id: 'motocykle-prl-pkf',
+        title: 'Polskie motocykle – PKF 1948',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=90Be0koNhN0',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Polskie motocykle – PKF 1948”.',
+      },
       {
         id: 'mot-yt',
         title: 'Motocykle PRL – materiały',
@@ -24259,6 +24491,14 @@ Proste, łatwe w naprawie konstrukcje jeździły przez dekady, wielokrotnie repe
 Nysa i Żuk to nieodłączny element ulicznego krajobrazu PRL i motoryzacyjnej codzienności.`,
     trivia: ['Milicyjną więźniarkę na bazie Nysy nazywano potocznie „suką”.', 'Żuk i Nysa powstawały przez kilka dekad, niemal niezmienione konstrukcyjnie.'],
     resources: [
+      {
+        id: 'nysa-zuk-pkf',
+        title: 'Nowa Nysa – PKF 1983',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Oil7Rz4r588',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Nowa Nysa – PKF 1983”.',
+      },
       {
         id: 'nz-yt',
         title: 'Nysa i Żuk – materiały',
@@ -26215,6 +26455,14 @@ Zakopane to symbol polskich gór, wypoczynku i żywej kultury góralskiej.`,
     trivia: ['Zakopane nazywane jest „zimową stolicą Polski”.', 'Nad miastem góruje Giewont, a na Gubałówkę i Kasprowy Wierch wjeżdża się kolejkami.'],
     resources: [
       {
+        id: 'zakopane-pkf',
+        title: 'Zakopane w dniach mistrzostw – PKF 09A/1962',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=hgH5nyeCPrQ',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Zakopane w dniach mistrzostw – PKF 09A/1962”.',
+      },
+      {
         id: 'zk-yt',
         title: 'Zakopane w PRL – materiały',
         type: 'nagranie',
@@ -26498,6 +26746,14 @@ To jedno z najważniejszych przedsięwzięć konserwatorskich PRL, szeroko dokum
     trivia: ['Zamek Królewski odbudowano w latach 1971–1974 ze społecznych „cegiełek”.', 'Wnętrza rekonstruowano m.in. na podstawie wedut Canaletta (Bellotta).'],
     resources: [
       {
+        id: 'zamek-krolewski-pkf',
+        title: 'Przygotowania do odbudowy Zamku Królewskiego – PKF 39B/1958',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=CA8T6QcScso',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Przygotowania do odbudowy Zamku Królewskiego – PKF 39B/1958”.',
+      },
+      {
         id: 'zk2-pkf',
         title: 'Polska Kronika Filmowa – odbudowa Zamku',
         type: 'nagranie',
@@ -26553,6 +26809,14 @@ Otwarcie hucznie świętowano i szeroko relacjonowano w Polskiej Kronice Filmowe
 Trasa W-Z to symbol powojennej odbudowy stolicy i inżynierskiego rozmachu epoki.`,
     trivia: ['Trasę W-Z otwarto w 1949 roku w rekordowym „warszawskim tempie”.', 'Nowinką były ruchome schody łączące trasę ze Starym Miastem.'],
     resources: [
+      {
+        id: 'trasa-wz-pkf',
+        title: 'Oddanie do użytku Trasy W-Z – PKF 30/1949',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=mURIzlrY1pc',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Oddanie do użytku Trasy W-Z – PKF 30/1949”.',
+      },
       {
         id: 'twz-pkf',
         title: 'Polska Kronika Filmowa – Trasa W-Z',
@@ -26794,6 +27058,14 @@ Ikarusy obsługiwały zarówno komunikację miejską (MZK), jak i dalekobieżną
 To nieodłączny element miejskiego pejzażu i codziennych dojazdów w PRL.`,
     trivia: ['Przegubowy Ikarus 280 zyskał popularny przydomek „ogórek”.', 'Ikarusy sprowadzano z Węgier w ramach wymiany handlowej RWPG.'],
     resources: [
+      {
+        id: 'ikarus-autobusy-pkf',
+        title: 'Autobusy – PKF 1960',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=q5c8_487rpI',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Autobusy – PKF 1960”.',
+      },
       {
         id: 'ika-pkf',
         title: 'Polska Kronika Filmowa – komunikacja miejska',
@@ -28621,6 +28893,14 @@ To jeden z najbardziej rozpoznawalnych, trochę groteskowych rytuałów epoki.`,
     trivia: ['Symbolem święta był czerwony goździk wręczany kobietom.', 'W zakładach pracy z okazji 8 marca rozdawano rajstopy, mydło lub kawę.'],
     resources: [
       {
+        id: 'dzien-kobiet-pkf',
+        title: '8 marca – Dzień Kobiet – PKF 11/1969',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=e03zKRNlVFY',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „8 marca – Dzień Kobiet – PKF 11/1969”.',
+      },
+      {
         id: 'dk-pkf',
         title: 'Polska Kronika Filmowa – Dzień Kobiet',
         type: 'nagranie',
@@ -28859,6 +29139,14 @@ Barwne stroje ludowe, korowody i występy zespołów folklorystycznych nadawały
 To charakterystyczne dla epoki połączenie ludowej tradycji z państwową propagandą.`,
     trivia: ['Delegacje wsi wręczały władzom dożynkowy wieniec i bochen chleba.', 'Dożynki centralne były wielką państwową uroczystością z udziałem władz.'],
     resources: [
+      {
+        id: 'dozynki-pkf',
+        title: 'Dożynki na Stadionie Dziesięciolecia – PKF 38/1956',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=oLZNwjB7uEU',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Dożynki na Stadionie Dziesięciolecia – PKF 38/1956”.',
+      },
       {
         id: 'doz-pkf',
         title: 'Polska Kronika Filmowa – dożynki',
@@ -29324,6 +29612,14 @@ Wesele było jednym z najważniejszych i najbardziej wyczekiwanych świąt rodzi
     trivia: ['Na zastawione wesele latami gromadzono zapasy „spod lady”.', 'Po weselu następowały jeszcze poprawiny – zabawa dnia następnego.'],
     resources: [
       {
+        id: 'wesele-prl-pkf',
+        title: 'Wesele inaczej, Bytom – kronika filmowa',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=5pjzdVKi5tM',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Wesele inaczej, Bytom – kronika filmowa”.',
+      },
+      {
         id: 'we2-yt',
         title: 'Wesela w PRL – materiały',
         type: 'nagranie',
@@ -29548,6 +29844,14 @@ O północy wznoszono toast, składano życzenia, a czasem puszczano rzadkie wó
 Sylwestrowy program TV był jednym z nielicznych momentów odprężenia i rozrywki podanej „od państwa”.`,
     trivia: ['Telewizja nadawała specjalny sylwestrowy program z kabaretem i piosenkami.', 'Na bale gromadzono alkohol i smakołyki zdobywane „na okazję”.'],
     resources: [
+      {
+        id: 'sylwester-tv-pkf',
+        title: 'Warszawski Sylwester 1964 – PKF 2A/1964',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=BslVO2Ib5G4',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Warszawski Sylwester 1964 – PKF 2A/1964”.',
+      },
       {
         id: 'sy-yt',
         title: 'Sylwester w PRL – materiały',
