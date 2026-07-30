@@ -1832,6 +1832,8 @@ LWP łączyło rolę armii z funkcją narzędzia systemu – pozostaje symbolem 
     yearStart: 1956,
     yearEnd: 1990,
     summary: 'ZOMO — Zmotoryzowane Oddziały Milicji Obywatelskiej — były wyspecjalizowanymi jednostkami pacyfikacyjnymi MO PRL, powołanymi w 1956 r. i rozwiązanymi w 1990 r. Zasłynęły z brutalnych interwencji podczas strajków i demonstracji, szczególnie w czasie stanu wojennego, gdy ich działania kosztowały życie kilkudziesięciu osób.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/1989%2C%20Demonstration%20in%20Wroclaw%2C%20Police.jpg?width=800',
+    imageCaption: 'ZOMO',
     content: `## Czym było ZOMO
 Zmotoryzowane Odwody Milicji Obywatelskiej (ZOMO) to specjalne, paramilitarne oddziały milicji powołane w 1956 roku do tłumienia zamieszek i „przywracania porządku”.
 
@@ -2079,6 +2081,8 @@ ZOMO rozwiązano na przełomie 1989 i 1990 roku wraz z reformą milicji i przeks
     yearStart: 1976,
     yearEnd: 1989,
     summary: 'Drugi obieg wydawniczy — sieć niezależnych wydawnictw i redakcji działających poza cenzurą PRL — rozwinął się intensywnie po 1976 r. Jego symbolem stało się Wydawnictwo NOWA (1977). Bezdebitowe publikacje dostarczały milionom Polaków niedostępną oficjalnie literaturę, dokumenty historyczne i prasę podziemną.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wydawnictwa_podziemne.jpg?width=800',
+    imageCaption: 'Drugi obieg wydawniczy',
     content: `**Geneza** — Tradycja niezależnego obiegu sięga lat 60. (maszynopisowe odpisy dzieł odrzuconych przez cenzurę). Drugi obieg jako zorganizowany ruch zrodził się po Czerwcu 1976 r. „Komunikat KOR" (1976) był pierwszym regularnym biuletynem. Wzorem był sowiecki i czechosłowacki samizdat, ale polska wersja przerosła skalą wszystkie odpowiedniki bloku wschodniego.
 
 **Wydawnictwo NOWA** — Najważniejsza instytucja drugiego obiegu założona w 1977 r. przez Mirosława Chojeckiego. Do 1981 r. wydała ponad 100 tytułów: prozę Mackiewicza, eseje Kołakowskiego, dokumenty o Katyniu, literaturę emigracyjną. Druk na powielaczach cyklostylowych, z czasem na sprzęcie przemycanym z Zachodu.
@@ -2473,6 +2477,8 @@ Październik 1956 nie zmienił zasad systemu. Cenzura pozostała, Polska trwała
     yearStart: 1944,
     yearEnd: 1956,
     summary: 'Urząd Bezpieczeństwa (UB) – stalinowski aparat terroru działający w Polsce w latach 1944–1956. Podległy Ministerstwu Bezpieczeństwa Publicznego, przy sowieckim nadzorze NKWD/MWD, prowadził masowe aresztowania, tortury i egzekucje przeciwników politycznych.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Toivi%20Hersz%20Blatt%20%28Boles%C5%82aw%20Stankiewicz%29%2C%20Urz%C4%85d%20Bezpiecze%C5%84stwa%20Publicznego%2C%20Ankieta%20Specjalna.png?width=800',
+    imageCaption: 'Urząd Bezpieczeństwa',
     content: `## Czym był UB
 Urząd Bezpieczeństwa (UB) to aparat policji politycznej pierwszego, stalinowskiego okresu Polski Ludowej (1944/45–1956) – narzędzie terroru w rękach komunistów.
 
@@ -2608,6 +2614,8 @@ Po upadku PRL usunięto z nazwy człon upamiętniający Stalina. Dyskusja o wybu
     tags: ['strajki 1988', 'Solidarność', 'Okrągły Stół', 'Wałęsa', 'młoda Solidarność'],
     yearStart: 1988,
     summary: 'Dwie fale strajków w 1988 roku – wiosenna i letnia – wstrząsnęły schyłkowym PRL. Protestująca młodzież robotnicza wymusiła na władzach podjęcie dialogu z opozycją, co bezpośrednio doprowadziło do rozmów Okrągłego Stołu.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Uniwersytet_Warszawski_%28brama_g%C5%82%C3%B3wna_maj_1988%29.JPG?width=800',
+    imageCaption: 'Strajki 1988',
     content: `Rok 1988 był ostatnim rokiem realnej próby sił między władzami PRL a społeczeństwem. Na tle głębokiego kryzysu ekonomicznego i drożyzny wybuchły dwie fale strajków, które zaskoczyły zarówno władze, jak i podziemną Solidarność.
 
 **Wiosna 1988 – pierwsza fala:**
@@ -3164,6 +3172,8 @@ Wybuch robotniczego buntu w Poznaniu w czerwcu 1956 roku był bezpośrednią rea
     yearStart: 1978,
     yearEnd: 1980,
     summary: 'Wolne Związki Zawodowe Wybrzeża – niezależna organizacja robotnicza założona w 1978 roku w Gdańsku. Skupiała działaczy, którzy zapoczątkowali sierpniowy strajk 1980 i stworzyli zręby NSZZ Solidarność. Spośród jej członków wyrosła większość liderów pierwszej Solidarności.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zbiorka%20na%20wolne%20zwiazki%20zawodowe%201980.jpg?width=800',
+    imageCaption: 'Wolne Związki Zawodowe',
     content: `Wolne Związki Zawodowe Wybrzeża (WZZ) założono 29 kwietnia 1978 roku w Gdańsku. Inicjatorami byli m.in. Andrzej Gwiazda, Bogdan Borusewicz i Krzysztof Wyszkowski. Wkrótce do organizacji dołączyli Lech Wałęsa i Anna Walentynowicz.
 
 **Kontekst:**
@@ -3417,6 +3427,8 @@ Oszukańcze referendum utorowało drogę do sfałszowanych wyborów w styczniu 1
     tags: ['wybory 1947', 'Sejm Ustawodawczy', 'PSL', 'Mikołajczyk', 'PPR', 'fałszerstwo'],
     yearStart: 1947,
     summary: 'Wybory do Sejmu Ustawodawczego z 19 stycznia 1947 roku – jedne z najbardziej sfałszowanych wyborów w historii Polski. PPR i Blok Demokratyczny oficjalnie uzyskały 80% głosów. Sfałszowane wyniki zakończyły demokratyczną opozycję i umożliwiły komunistom pełne przejęcie władzy.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Prezydent_Bierut_1947_%28cropped%29.png?width=800',
+    imageCaption: 'Wybory 1947',
     content: `Wybory do Sejmu Ustawodawczego odbyły się 19 stycznia 1947 roku. Ich przebieg i wyniki były wynikiem masowych fałszerstw przygotowanych przez aparat komunistyczny przy wsparciu sowieckiego NKWD.
 
 **Klimat terroru przed wyborami:**
@@ -3532,6 +3544,8 @@ Po emigracji 1968 roku żydowska społeczność w Polsce została praktycznie zl
     title: 'Ziemie Odzyskane',
     category: 'polityka',
     shortDesc: 'Powojenne przesiedlenia i polska kolonizacja dawnych terenów niemieckich na zachodzie i północy Polski.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ziemie_Odzyskane.png?width=800',
+    imageCaption: 'Ziemie Odzyskane',
     content: `## Ziemie Odzyskane
 
 „Ziemie Odzyskane" – tak komunistyczna propaganda nazywała dawne tereny wschodnioniemieckie włączone do Polski po II wojnie światowej: Śląsk, Pomorze Zachodnie, Warmię, Mazury i ziemię lubuską. Nazwa miała sugerować powrót do słowiańskich korzeni – choć przez wieki były to kraje w znacznej mierze zamieszkałe przez Niemców.
@@ -4230,6 +4244,8 @@ PRL dał Polsce masową edukację – i to jest realne osiągnięcie. Ale też w
     title: 'NZS – Niezależne Zrzeszenie Studentów',
     category: 'opozycja',
     shortDesc: 'Studencki ruch niezależny, zarejestrowany w 1980 roku – pierwsza legalna niezależna organizacja studencka w bloku wschodnim.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/LogoNZS.jpg?width=800',
+    imageCaption: 'NZS – Niezależne Zrzeszenie Studentów',
     content: `## NZS – Niezależne Zrzeszenie Studentów
 
 Niezależne Zrzeszenie Studentów (NZS) było pierwszą legalną niezależną organizacją studencką w całym bloku wschodnim – zarejestrowaną we wrześniu 1980 roku, kilka tygodni po Solidarności. Jej powstanie było wyrazem tego samego ducha Sierpnia, który ogarnął całe polskie społeczeństwo.
@@ -4855,6 +4871,8 @@ W lipcu 1989 roku Rakowski objął funkcję I sekretarza KC PZPR – kiedy parti
     title: 'RWPG – Rada Wzajemnej Pomocy Gospodarczej',
     category: 'gospodarka',
     shortDesc: 'Wschodnioblokowy odpowiednik EWG – integracja gospodarcza krajów komunistycznych pod hegemonią ZSRR.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Comecon.svg?width=800',
+    imageCaption: 'RWPG – Rada Wzajemnej Pomocy Gospodarczej',
     content: `## RWPG – Rada Wzajemnej Pomocy Gospodarczej
 
 Rada Wzajemnej Pomocy Gospodarczej (ros. СЭВ – Sowiet Ekonomiczeskiej Wzaimopomoszczi, ang. COMECON) była organizacją integracji ekonomicznej krajów socjalistycznych, powołaną w 1949 roku jako odpowiedź na Plan Marshalla. Przez 40 lat wyznaczała ramy handlu i kooperacji przemysłowej Polski z blokiem wschodnim.
@@ -5319,6 +5337,8 @@ Wczasy FWP są dziś przedmiotem nostalgii – jako symbol beztroskiego lata, pr
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Przez całe istnienie PRL tysiące obywateli podejmowało ryzykowne próby ucieczki za granicę. Przekraczanie granicy bez zgody władz było przestępstwem zagrożonym więzieniem lub śmiercią. Żelazna kurtyna była fizyczną i prawną barierą oddzielającą Polaków od wolnego świata.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ucieczka%20%C5%BCo%C5%82nierzy%20ze%20stra%C5%BCnicy%20WOP%20w%20Pokrzywnej%2005.jpg?width=800',
+    imageCaption: 'Ucieczki z PRL',
     content: `W PRL wyjazd za granicę wymagał zgody władz i posiadania paszportu. Paszport był własnością państwa – przechowywany w komendzie milicji i wydawany tylko na konkretny wyjazd. Próba wyjazdu bez zgody lub "nielegalne" pozostanie za granicą było przestępstwem.
 
 **Paszport jako narzędzie kontroli:**
@@ -7289,6 +7309,8 @@ Temat deportacji był w PRL przemilczany – zbrodnie sowieckie podlegały cenzu
     yearStart: 1952,
     yearEnd: 1989,
     summary: 'Konstytucja PRL uchwalona 22 lipca 1952 r. była wzorowana na stalinowskiej konstytucji ZSRR z 1936 r. Formalnie gwarantowała prawa obywatelskie, w praktyce legitymizowała monopol PZPR i służyła jako fasada systemu totalitarnego.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Uchwalenie%20Konstytucji%20Polskiej%20Polskiej%20Rzeczypospolitej%20Ludowej%2022%20lipca%201952%20roku.jpg?width=800',
+    imageCaption: 'Konstytucja PRL 1952',
     content: `## Geneza i uchwalenie
 
 Prace nad konstytucją trwały od 1948 r. pod kierownictwem Bolesława Bieruta. Projekt konsultowano z Moskwą; głównym sowieckim doradcą był Andriej Wyszynski. Konstytucję uchwalono 22 lipca 1952 r. – w rocznicę Manifestu PKWN – i od tej daty zmieniono oficjalną nazwę państwa z "Rzeczpospolita Polska" na "Polska Rzeczpospolita Ludowa".
@@ -7600,6 +7622,8 @@ Wzorem sowieckim SB używała psychiatrii jako narzędzia represji: dysydentów 
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'Polski teatr w PRL był polem nieustannej gry między cenzurą a artystyczną wolnością. Mimo ograniczeń wydał wybitnych twórców – Jerzego Grotowskiego, Tadeusza Kantora, Konrada Swinarskiego – i stał się przestrzenią zakodowanego oporu wobec systemu.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Teatr_Wielki_w_Warszawie_p7_2.jpg?width=800',
+    imageCaption: 'Teatr w PRL',
     content: `## Rola teatru
 W PRL teatr był czymś znacznie więcej niż rozrywką – stał się przestrzenią aluzji, dialogu z widzem i mówienia „między wierszami” o sprawach przemilczanych przez propagandę.
 
@@ -7909,6 +7933,8 @@ Historycy spierają się, czy Roosevelt i Churchill mieli realną alternatywę �
     yearStart: 1968,
     yearEnd: 1968,
     summary: 'Praska Wiosna – próba liberalizacji komunizmu w Czechosłowacji – została stłumiona przez inwazję wojsk Układu Warszawskiego w nocy z 20 na 21 sierpnia 1968 r. Polska dywizja LWP uczestniczyła w interwencji. Efektem była "doktryna Breżniewa".',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/10_Soviet_Invasion_of_Czechoslovakia_-_Flickr_-_The_Central_Intelligence_Agency.jpg?width=800',
+    imageCaption: 'Praska Wiosna 1968',
     content: `## Reformy Dubčeka
 
 W styczniu 1968 r. Alexander Dubček stanął na czele KPCz. Ogłosił program "socjalizmu z ludzką twarzą": złagodzenie cenzury, ograniczenie policji politycznej, dialog z opozycją. Praska Wiosna była prawdziwą odwilżą – w Czechosłowacji kwitło wolne słowo.
@@ -8418,6 +8444,8 @@ Radio Wolna Europa zagłuszano do końca lat 80. – ale Polacy i tak słuchali,
     yearStart: 1911,
     yearEnd: 1991,
     summary: 'Stefan Kisielewski – "Kisiel" – był jedynym w swoim rodzaju: kompozytorem i krytykiem muzycznym, powieściopisarzem, felietonistą "Tygodnika Powszechnego" i nieustraszoną szpilą wbitą w balonik partyjnej propagandy. Bity przez "aktywistów" w 1968 r., nigdy nie ucichł.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stefan_Kisielewski.jpg?width=800',
+    imageCaption: 'Stefan Kisielewski',
     content: `## Człowiek wielu talentów
 
 Stefan Kisielewski (ur. 7 III 1911 w Warszawie) był z wykształcenia kompozytorem – ukończył Konserwatorium Warszawskie i studiował w Paryżu. Tworzył muzykę kameralną, symfoniczną i fortepianową. Równolegle pisał felietony, powieści i krytyki – i to właśnie pióro przyniosło mu największą sławę.
@@ -9862,6 +9890,8 @@ Liczne późniejsze odkrycia (np. donos Lecha Wałęsy w latach 70. – sprawa o
     title: 'Krzysztof Kieślowski',
     category: 'osoby',
     shortDesc: 'Reżyser filmowy i dokumentalny, twórca Dekalogu i trylogii Trzy kolory – jeden z najważniejszych filmowców XX wieku.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krzysztof_Kie%C5%9Blowski_Portrait_1994.jpg?width=800',
+    imageCaption: 'Krzysztof Kieślowski',
     content: `## Krzysztof Kieślowski (1941–1996)
 
 Krzysztof Kieślowski był jednym z najważniejszych reżyserów filmowych XX wieku. Zaczynał od dokumentów o codziennym życiu w Polsce Ludowej, a skończył na medytacjach o losie i moralności, które pokochał cały świat.
@@ -10846,6 +10876,8 @@ Po 1989 roku scena kabaretowa rozkwitła. Kabaret Olgi Lipińskiej, potem „Uch
     title: 'Leszek Kołakowski',
     category: 'osoby',
     shortDesc: 'Filozof, autor „Głównych nurtów marksizmu" – od rewizjonizmu komunistycznego do krytyki totalitaryzmu.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2007.10.23._-Leszek_Kolakowski_Foto_Mariusz_Kubik.jpg?width=800',
+    imageCaption: 'Leszek Kołakowski',
     content: `## Leszek Kołakowski (1927–2009)
 
 Leszek Kołakowski był jednym z najwybitniejszych polskich filozofów XX wieku. Jego intelektualna droga – od marksistowskiego rewizjonizmu przez rozczarowanie do fundamentalnej krytyki komunizmu i totalitaryzmu – jest symbolem transformacji całego pokolenia środkowoeuropejskich intelektualistów.
@@ -10911,6 +10943,8 @@ Kołakowski odwiedzał Polskę po 1989 roku. Był uhonorowany wieloma nagrodami,
     title: 'Polska szkoła plakatu',
     category: 'kultura',
     shortDesc: 'Światowej sławy polska szkoła plakatu – graficy PRL stworzyli unikatowy styl artystyczny uznany za jeden z najważniejszych w historii plakatu.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/PIC_40-W-180-5.jpg?width=800',
+    imageCaption: 'Polska szkoła plakatu',
     content: `## Polska szkoła plakatu
 
 Polska szkoła plakatu to jedno z najbardziej paradoksalnych zjawisk kulturalnych PRL – w kraju komunistycznym, gdzie propaganda miała być prosta i czytelna, powstała jedna z najśmielszych i najbardziej awangardowych szkół grafiki użytkowej na świecie.
@@ -11611,6 +11645,8 @@ Seriale PRL były narzędziem kształtowania postaw, ale jednocześnie autentycz
     yearStart: 1948,
     yearEnd: 1989,
     summary: 'Wyścig Pokoju był najważniejszą imprezą kolarską bloku wschodniego, łączącą Warszawę, Pragę i Berlin. Dla PRL był narzędziem propagandy „pokojowej”, a zarazem źródłem autentycznych emocji i bohaterów jak Ryszard Szurkowski.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-1987-0104-004%2C_Friedensfahrt%2C_Logo.jpg?width=800',
+    imageCaption: 'Wyścig Pokoju',
     content: `## Geneza
 
 Wyścig Pokoju (Course de la Paix) zorganizowano po raz pierwszy w 1948 r. z inicjatywy dzienników partyjnych Polski i Czechosłowacji (później dołączyła NRD). Łączył stolice – Warszawę, Pragę i Berlin – pod hasłem walki o pokój, w opozycji do „zachodnich” wyścigów.
@@ -13995,6 +14031,8 @@ Dziennik Telewizyjny stał się symbolem manipulacji medialnej PRL. Jego nazwa d
     yearStart: 1970,
     yearEnd: 1978,
     summary: 'Wybitny polski inżynier, konstruktor nowoczesnego minikomputera K-202, którego produkcję zablokowano, co stało się symbolem marnotrawstwa talentów w PRL.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jacek_Karpi%C5%84ski.jpg?width=800',
+    imageCaption: 'Jacek Karpiński',
     content: `## Sylwetka
 Jacek Karpiński (1927–2010) był utalentowanym inżynierem i konstruktorem, weteranem powstania warszawskiego. W latach 60. i 70. tworzył nowatorskie konstrukcje elektroniczne.
 
@@ -18525,6 +18563,8 @@ Proces taterników był jednym z sygnałów rodzącej się opozycji i obiegu nie
     yearStart: 1945,
     yearEnd: 1953,
     summary: 'Generał, szef Kedywu Armii Krajowej, skrytobójczo skazany i stracony w 1953 roku – symbol komunistycznych mordów sądowych na bohaterach Polski Podziemnej.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Genera%C5%82_August_Emil_Fieldorf.jpg?width=800',
+    imageCaption: 'Gen. Emil Fieldorf „Nil”',
     content: `## Sylwetka
 Generał August Emil Fieldorf, pseudonim „Nil” (1895–1953), był jednym z najwybitniejszych dowódców Armii Krajowej, szefem Kedywu – pionu walki bieżącej i dywersji.
 
@@ -18577,6 +18617,8 @@ Po latach Fieldorfa zrehabilitowano, a jego kaci byli ścigani. Generał „Nil�
     yearStart: 1946,
     yearEnd: 1946,
     summary: 'Siedemnastoletnia sanitariuszka oddziałów podziemia niepodległościowego, stracona w 1946 roku – symbol najmłodszych ofiar komunistycznego terroru.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Danuta_Siedzikowna_Sopot.jpg?width=800',
+    imageCaption: 'Danuta Siedzikówna „Inka”',
     content: `## Sylwetka
 Danuta Siedzikówna „Inka” (1928–1946) była sanitariuszką w oddziałach antykomunistycznego podziemia na Pomorzu, związaną z 5. Wileńską Brygadą AK majora „Łupaszki”.
 
@@ -19744,6 +19786,8 @@ Modzelewski łączył naukę z bezkompromisową postawą obywatelską; pozostaje
     yearStart: 1957,
     yearEnd: 1979,
     summary: 'Poeta i prozaik kultowy dla pokolenia, twórca legendy artysty-wędrowca; jego wiersze i piosenki („Jak”) zyskały drugie życie jako pieśni.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Edward_Stachura_IPN.jpg?width=800',
+    imageCaption: 'Edward Stachura',
     content: `## Sylwetka
 Edward Stachura „Sted” (1937–1979) był poetą, prozaikiem i pieśniarzem, twórcą własnej, osobnej filozofii życia i jednym z najbardziej kultowych pisarzy swojego pokolenia.
 
@@ -21505,6 +21549,8 @@ Villas to jeden z najwybitniejszych głosów w historii polskiej muzyki rozrywko
     yearStart: 1981,
     yearEnd: 1989,
     summary: 'Czołowy zespół rockowy lat 80. z charyzmatyczną wokalistką Małgorzatą Ostrowską, autor przeboju „Przeżyj to sam”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Grzegorz%20Str%C3%B3%C5%BCniak%20zesp%C3%B3%C5%82%20Lombard.jpg?width=800',
+    imageCaption: 'Lombard',
     content: `## Powstanie
 Lombard powstał w 1981 roku w Poznaniu. Zespół tworzyli m.in. Grzegorz Stróżniak i charyzmatyczna wokalistka Małgorzata Ostrowska, której mocny głos stał się znakiem firmowym grupy.
 
@@ -22148,6 +22194,8 @@ Toto-Lotek to symbol PRL-owskich marzeń o lepszym losie – niewinnej rozrywki 
     yearStart: 1962,
     yearEnd: 1989,
     summary: 'Wieczorny blok bajek dla dzieci (zwany też „Wieczorynką”) – nieodłączny element codzienności PRL i wizytówka polskiej szkoły animacji.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Muzeum%20dobranocek%20w%20rzeszowie%201.jpg?width=800',
+    imageCaption: 'Dobranocka',
     content: `## Wieczorny rytuał
 Dobranocka, zwana też „Wieczorynką”, to wieczorny blok filmów animowanych dla dzieci – nieodłączny element telewizyjnej codzienności PRL, poprzedzający „dorosły” Dziennik.
 
@@ -22484,6 +22532,8 @@ Trubadurzy to klasyk polskiego big-beatu, którego przeboje pozostają części�
     yearStart: 1963,
     yearEnd: 1989,
     summary: 'Jedna z najwybitniejszych polskich wokalistek, o mocnym, charakterystycznym głosie, autorka przebojów „Aleja gwiazd” i „Julia i ja”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zdzis%C5%82awa_So%C5%9Bnicka_1972_%28cropped%29.PNG?width=800',
+    imageCaption: 'Zdzisława Sośnicka',
     content: `## Sylwetka
 Zdzisława Sośnicka (ur. 1945) to jedna z najwybitniejszych polskich wokalistek, obdarzona mocnym, charakterystycznym głosem o szerokiej skali.
 
@@ -22594,6 +22644,8 @@ Wczasy nad morzem to symbol PRL-owskiej rekreacji – skromnej, lecz wyczekiwane
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Wszechobecne kioski przedsiębiorstwa „Ruch” – po prasę, papierosy, bilety i drobiazgi; deficytowe towary znikały „spod lady”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Closed%20Old%20Polish%20%27Ruch%27%20Kiosk%20in%20Sorkwity%2C%20Warmian-Masurian%20Voivodeship%2C%20Poland%2C%20July%2C%202020.jpg?width=800',
+    imageCaption: 'Kiosk „Ruch”',
     content: `## Kioski Ruchu
 Kioski przedsiębiorstwa „Ruch” były wszechobecne – w miastach i na wsiach, na przystankach i osiedlach. Stanowiły jeden z podstawowych punktów codziennych zakupów.
 
@@ -24018,6 +24070,8 @@ Trojanowska pozostaje jedną z ikon polskiej sceny rockowej przełomu dekad.`,
     tags: ['film', 'komedia', 'fantasy', 'satyra', 'kino'],
     yearStart: 1988,
     summary: 'Groteskowa komedia fantasy Juliusza Machulskiego (1988) o krasnoludkach marzących o przejściu z ciasnej „szuflandii” do wielkiego „kingsajzu” – alegoria PRL.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Quotation%20from%20film%20%27Kingsajz%27%20advertising%20XXXIV%20Polish%20Film%20Festival%20in%20Gdynia%202009.jpg?width=800',
+    imageCaption: 'Kingsajz',
     content: `## Film
 „Kingsajz” (1988) w reżyserii Juliusza Machulskiego to groteskowa komedia fantasy, jedna z najoryginalniejszych polskich produkcji lat 80.
 
@@ -24184,6 +24238,8 @@ Fibak to ikona polskiego tenisa, który rozsławił Polskę w świecie sportu.`,
     yearStart: 1958,
     yearEnd: 1989,
     summary: 'Nysa i Żuk to najpopularniejsze polskie samochody dostawcze epoki – mikrobusy, karetki, furgony i milicyjne „suki” widoczne na każdej ulicy.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Nysa_522_T_during_%E2%80%9EXXX_lat_motoryzacji_PRL%E2%80%9D_exhibition_at_Bonarka_City_Center_in_Krak%C3%B3w.JPG?width=800',
+    imageCaption: 'Nysa i Żuk',
     content: `## Dostawczaki PRL
 Nysa i Żuk to najpopularniejsze polskie samochody dostawcze epoki, obecne w niemal każdej dziedzinie gospodarki.
 
@@ -24238,6 +24294,8 @@ Nysa i Żuk to nieodłączny element ulicznego krajobrazu PRL i motoryzacyjnej c
     tags: ['film', 'kino', 'ekranizacja', 'historia'],
     yearStart: 1975,
     summary: 'Monumentalna ekranizacja powieści Marii Dąbrowskiej (1975, reż. Jerzy Antczak); saga rodziny Niechciców, nominowana do Oscara.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Noce%20i%20dnie%20%28English%20title%20%E2%80%93%20Nights%20and%20Days%2C%20opening%20credits%20title%29.jpg?width=800',
+    imageCaption: 'Noce i dnie',
     content: `## Film
 „Noce i dnie” (1975) w reżyserii Jerzego Antczaka to monumentalna ekranizacja powieści Marii Dąbrowskiej.
 
@@ -24300,6 +24358,8 @@ Obraz otrzymał nominację do Oscara (1977), a Jadwiga Barańska – Srebrnego N
     tags: ['film', 'kino', 'polska szkoła filmowa', 'wojna'],
     yearStart: 1958,
     summary: 'Arcydzieło polskiej szkoły filmowej (1958, reż. Andrzej Wajda) z ikoniczną rolą Zbigniewa Cybulskiego jako Maćka Chełmickiego.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zbigniew%20cybulski%20popi%C3%B3%C5%82%20i%20diament.jpg?width=800',
+    imageCaption: 'Popiół i diament',
     content: `## Film
 „Popiół i diament” (1958) w reżyserii Andrzeja Wajdy to ekranizacja powieści Jerzego Andrzejewskiego i sztandarowe dzieło polskiej szkoły filmowej.
 
@@ -24420,6 +24480,8 @@ Wanda i Banda to jeden z barwnych fenomenów polskiej muzyki rozrywkowej lat 80.
     yearStart: 1960,
     yearEnd: 1989,
     summary: 'Meblościanka (segment) – zestaw połączonych szafek i regałów – była centralnym meblem PRL-owskiego salonu i wizytówką mieszkania.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mebloscianka.jpg?width=800',
+    imageCaption: 'Meblościanka',
     content: `## Meble PRL
 Meblościanka, zwana też segmentem, to zestaw połączonych szafek, półek i regałów – centralny mebel salonu w epoce PRL.
 
@@ -24474,6 +24536,8 @@ Meblościanka to ikona PRL-owskiego wnętrza i mieszczańskich aspiracji epoki.`
     tags: ['film', 'kino', 'melodramat', 'ekranizacja'],
     yearStart: 1982,
     summary: 'Kultowy melodramat Jerzego Hoffmana (1982) wg powieści Dołęgi-Mostowicza; wybitny chirurg traci pamięć i jako wiejski „znachor” ratuje ludzi.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Scena%20z%20filmu%20Znachor.jpg?width=800',
+    imageCaption: 'Znachor',
     content: `## Film
 „Znachor” (1982) w reżyserii Jerzego Hoffmana to jeden z najsłynniejszych polskich melodramatów, ekranizacja przedwojennej powieści Tadeusza Dołęgi-Mostowicza.
 
@@ -24536,6 +24600,8 @@ Film cieszył się ogromną popularnością i należy do najczęściej powtarzan
     tags: ['film', 'kino', 'ekranizacja', 'historia'],
     yearStart: 1975,
     summary: 'Wielki fresk Andrzeja Wajdy (1975) wg powieści Reymonta o trzech przyjaciołach budujących fabrykę w drapieżnej, przemysłowej Łodzi; nominowany do Oscara.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej%20Wajda%201974.jpg?width=800',
+    imageCaption: 'Ziemia obiecana',
     content: `## Film
 „Ziemia obiecana” (1975) w reżyserii Andrzeja Wajdy to monumentalna ekranizacja powieści Władysława Reymonta.
 
@@ -24599,6 +24665,8 @@ To jedno z najwybitniejszych dzieł Wajdy i wielki fresk o narodzinach przemysł
     yearStart: 1976,
     yearEnd: 1989,
     summary: 'Lekkoatleta, skoczek wzwyż; jako 19-latek zdobył złoto olimpijskie w Montrealu 1976, a w 1980 ustanowił rekord świata.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wszola_Jacek.jpg?width=800',
+    imageCaption: 'Jacek Wszoła',
     content: `## Sylwetka
 Jacek Wszoła (ur. 1956) to jeden z najwybitniejszych polskich lekkoatletów, skoczek wzwyż i gwiazda królowej sportu.
 
@@ -25202,6 +25270,8 @@ Kręcony i emitowany z przerwami przez wiele lat, powstawał aż do lat 2000.
     yearStart: 1963,
     yearEnd: 1989,
     summary: 'Kultowa polska kreskówka o przygodach dwóch braci, produkowana w Studiu Filmów Rysunkowych w Bielsku-Białej; opowiadana niemal bez słów.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bolek%20and%20Lolek%20monument%208.jpg?width=800',
+    imageCaption: 'Bolek i Lolek',
     content: `## Kreskówka
 „Bolek i Lolek” to jedna z najsłynniejszych polskich animacji dla dzieci, produkowana od lat 60. w Studiu Filmów Rysunkowych w Bielsku-Białej.
 
@@ -25257,6 +25327,8 @@ To jedna z najbardziej rozpoznawalnych polskich kreskówek i symbol PRL-owskiej 
     yearStart: 1967,
     yearEnd: 1989,
     summary: 'Seria animowana o sympatycznym psie Reksiu, produkowana od 1967 w Studiu Filmów Rysunkowych w Bielsku-Białej; z rozpoznawalną czołówką.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bielsko-Bia%C5%82a%2C%20Reksio%20i%20fontanna.jpg?width=800',
+    imageCaption: 'Reksio',
     content: `## Kreskówka
 „Reksio” to seria animowana o sympatycznym psie, produkowana od 1967 roku w Studiu Filmów Rysunkowych w Bielsku-Białej.
 
@@ -25543,6 +25615,8 @@ To jedna z najbardziej lubianych polskich kreskówek dla najmłodszych.`,
     tags: ['film', 'kino', 'psychologiczny', 'debiut'],
     yearStart: 1962,
     summary: 'Pełnometrażowy debiut Romana Polańskiego (1962); kameralny dramat psychologiczny na jachcie, pierwszy polski film nominowany do Oscara.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jolanta%20Umecka%20w%20No%C5%BCu%20w%20wodzie%202.jpg?width=800',
+    imageCaption: 'Nóż w wodzie',
     content: `## Film
 „Nóż w wodzie” (1962) to pełnometrażowy debiut Romana Polańskiego i jeden z najsłynniejszych polskich filmów.
 
@@ -25829,6 +25903,8 @@ Dyskoteka to symbol młodzieżowej rozrywki i tęsknoty za zachodnim stylem życ
     yearStart: 1946,
     yearEnd: 1989,
     summary: 'Przedsiębiorstwo prowadzące sklepy z zachodnimi towarami za waluty wymienialne i bony; obok Pewexu symbol dwuwalutowej gospodarki PRL.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bon%20baltonowski%2020c%20a.jpg?width=800',
+    imageCaption: 'Baltona',
     content: `## Sieć
 Baltona to przedsiębiorstwo prowadzące sklepy z towarami sprzedawanymi za waluty wymienialne i bony towarowe.
 
@@ -26753,6 +26829,8 @@ To nieodłączny element miejskiego pejzażu i codziennych dojazdów w PRL.`,
     tags: ['film', 'kino', 'moralny niepokój', 'inteligencja'],
     yearStart: 1977,
     summary: 'Sztandarowy film kina moralnego niepokoju w reżyserii Krzysztofa Zanussiego (1977); o konformizmie inteligencji, ze starciem idealizmu i cynizmu.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Barwy%20ochronne%2C%20Zbigniew%20Zapasiewicz.jpg?width=800',
+    imageCaption: 'Barwy ochronne',
     content: `## Film
 „Barwy ochronne” (1977) w reżyserii Krzysztofa Zanussiego to jeden ze sztandarowych filmów „kina moralnego niepokoju”.
 
@@ -27951,6 +28029,8 @@ To jedna z ulubionych komedii „kina Barei”.`,
     yearStart: 1963,
     yearEnd: 1989,
     summary: 'Gwiazda polskiej estrady lat 60., „dziewczyna big-beatu”; przeboje „O mnie się nie martw” i „Biedroneczki są w kropeczki” śpiewała cała Polska.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kasia%20Sobczyk.jpg?width=800',
+    imageCaption: 'Kasia Sobczyk',
     content: `## Sylwetka
 Katarzyna „Kasia” Sobczyk (1945–2010) to gwiazda polskiej estrady lat 60., zwana „dziewczyną big-beatu”.
 
@@ -29046,6 +29126,8 @@ To jeden z najbardziej intrygujących, autorskich filmów Tadeusza Konwickiego.`
     yearStart: 1965,
     yearEnd: 1989,
     summary: 'Legendarny warszawski kabaret założony w 1965 przez Edwarda Dziewońskiego; słynny z inteligentnych skeczów jak „Sęk”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tablica%20Kabaret%20Dudek.jpg?width=800',
+    imageCaption: 'Kabaret Dudek',
     content: `## Kabaret
 Kabaret Dudek to legendarny warszawski kabaret, założony w 1965 roku przez Edwarda Dziewońskiego (o pseudonimie „Dudek”).
 
@@ -29165,6 +29247,8 @@ To jeden z najwybitniejszych polskich jazzmanów w historii.`,
     tags: ['film', 'komedia', 'absurd', 'kino'],
     yearStart: 1970,
     summary: 'Surrealistyczna, kultowa parodia kina superbohaterskiego Andrzeja Kondratiuka (1970); w upalnej Warszawie znika woda, a ratuje ją bohater As.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Quotation_from_film_%27Hydrozagadka%27_advertising_XXXIV_Polish_Film_Festival_in_Gdynia_2009_-_1.jpg?width=800',
+    imageCaption: 'Hydrozagadka',
     content: `## Film
 „Hydrozagadka” (1970) w reżyserii Andrzeja Kondratiuka to surrealistyczna, kultowa parodia kina superbohaterskiego.
 
