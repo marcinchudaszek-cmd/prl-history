@@ -4,7 +4,7 @@ interface AboutPageProps {
 
 export default function AboutPage({ onNavigate }: AboutPageProps) {
   const completedFeatures = [
-    { icon: '📇', title: 'Baza ponad 200 haseł', desc: 'Hasła z rozbudowanymi opisami i bezpośrednimi linkami do zasobów archiwalnych' },
+    { icon: '📇', title: 'Baza blisko 500 haseł', desc: 'Hasła z rozbudowanymi opisami, ilustracjami, kronikami filmowymi i sprawdzonymi linkami do źródeł' },
     { icon: '🔍', title: 'Wyszukiwarka encyklopedii', desc: 'Przeszukiwanie haseł, tagów i opisów w całej bazie wiedzy' },
     { icon: '🕰️', title: 'Oś czasu wydarzeń', desc: 'Interaktywna chronologia 1944–1990 z filtrowaniem po dekadach i kategoriach' },
     { icon: '🗺️', title: 'Interaktywna mapa PRL', desc: 'Miejsca represji, strajków, ośrodków oporu i kultury na mapie Polski' },

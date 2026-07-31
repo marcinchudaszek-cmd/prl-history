@@ -140,7 +140,7 @@ Stan wojenny zawieszono w 1982 i zniesiono w lipcu 1983 roku. Jego ofiarą padł
         description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
       },
     ],
-    relatedIds: ['solidarnosc', 'jaruzelski', 'wujek', 'sbezpieczenstwa'],
+    relatedIds: ['solidarnosc', 'jaruzelski', 'wujek', 'sbezpieczenstwa', 'pron', 'rada-panstwa'],
   },
   {
     id: 'solidarnosc',
@@ -738,7 +738,7 @@ Powszechne zjawisko społeczne. "Dolar" i towary z Pewexu były twardą walutą 
         description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
-    relatedIds: ['pzpr', 'stan-wojenny', 'gierek', 'nowa-huta'],
+    relatedIds: ['pzpr', 'stan-wojenny', 'gierek', 'nowa-huta', 'komisja-planowania', 'handel-zagraniczny-prl', 'energetyka-prl', 'spoldzielczosc-prl'],
   },
   {
     id: 'kultura-prl',
@@ -861,7 +861,7 @@ Kościół w PRL był ostoją tożsamości narodowej i wolności sumienia oraz k
         description: 'Dokumenty Departamentu IV SB (do spraw walki z Kościołem)',
       },
     ],
-    relatedIds: ['solidarnosc', 'stan-wojenny', 'sbezpieczenstwa', 'popieluszko'],
+    relatedIds: ['solidarnosc', 'stan-wojenny', 'sbezpieczenstwa', 'popieluszko', 'urzad-wyznan'],
   },
   {
     id: 'nowa-huta',
@@ -1730,7 +1730,7 @@ LWP łączyło rolę armii z funkcją narzędzia systemu – pozostaje symbolem 
         year: 1968,
       },
     ],
-    relatedIds: ['pzpr', 'stan-wojenny', 'grudzien-1970', 'jaruzelski'],
+    relatedIds: ['pzpr', 'stan-wojenny', 'grudzien-1970', 'jaruzelski', 'wsw', 'wop', 'kbw', 'operacja-dunaj', 'wopk', 'marynarka-wojenna-prl'],
   },
   {
     id: 'wyszynski',
@@ -3416,7 +3416,7 @@ Układ Warszawski rozwiązano w 1991 roku, wraz z rozpadem bloku wschodniego i Z
         downloadable: false,
       },
     ],
-    relatedIds: ['lwp', 'marzec-1968', 'stan-wojenny', 'jaruzelski', 'manifest-pkwn'],
+    relatedIds: ['lwp', 'marzec-1968', 'stan-wojenny', 'jaruzelski', 'manifest-pkwn', 'operacja-dunaj', 'wopk'],
   },
   {
     id: 'referendum-1946',
@@ -8088,7 +8088,7 @@ Inwazja dała początek "doktrynie Breżniewa" – ZSRR zarezerwował sobie praw
         year: 1968,
       },
     ],
-    relatedIds: ['lwp', 'uklad-warszawski', 'gomulka', 'marzec-1968', 'gorbaczow'],
+    relatedIds: ['lwp', 'uklad-warszawski', 'gomulka', 'marzec-1968', 'gorbaczow', 'operacja-dunaj'],
   },
   {
     id: 'odbudowa-warszawy',
@@ -8960,6 +8960,14 @@ Propagandowa formuła "jedności moralno-politycznej narodu" miała oznaczać pe
 Przełomem były wyspy częściowo wolne wybory z 4 czerwca 1989 roku, będące wynikiem Okrągłego Stołu. PZPR zagwarantowała sobie 65% miejsc w Sejmie i wszystkie miejsca w Senacie (nowo tworzonej izbie) były dostępne w pełni wolnych wyborach. "Solidarność" wygrała niemal wszystkie wolne mandaty, a poseł Tadeusz Mazowiecki został pierwszym niekomunistycznym premierem od 40 lat. Był to koniec systemu fasadowych wyborów.`,
     trivia: ['Głosowano na jedną listę – bez realnego wyboru kandydatów.', 'Wejście za kotarę, by skreślać, było odnotowywane.'],
     resources: [
+      {
+        id: 'wybory-prl-pkf',
+        title: 'O wyborach w PRL – kronika filmowa z 1984 roku',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=t8eThkTS7jo',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie kroniki filmowej „O wyborach w PRL – kronika filmowa z 1984 roku”.',
+      },
       {
         id: 'wybory-1947-ipn',
         title: 'Wybory w PRL – opracowania',
@@ -19634,7 +19642,7 @@ Sejm PRL to symbol fasadowości instytucji demokratycznych w systemie komunistyc
         description: 'Materiały archiwalne i akty prawne.',
       },
     ],
-    relatedIds: ['konstytucja-prl', 'pzpr', 'wybory-prl'],
+    relatedIds: ['konstytucja-prl', 'pzpr', 'wybory-prl', 'rada-panstwa', 'premierzy-prl'],
   },
   {
     id: 'front-jednosci-narodu',
@@ -23299,7 +23307,7 @@ Armia z poboru była narzędziem socjalizacji i kontroli – wspólnym doświadc
         description: 'Materiały o życiu w wojsku.',
       },
     ],
-    relatedIds: ['lwp', 'uklad-warszawski', 'zycie-codzienne'],
+    relatedIds: ['lwp', 'uklad-warszawski', 'zycie-codzienne', 'wsw', 'wop', 'lok'],
   },
   {
     id: 'trzepak-podworko',
@@ -30354,6 +30362,697 @@ To jeden z najmocniejszych filmów kina moralnego niepokoju i ważny półkownik
     ],
     relatedIds: ['polkowniki', 'holland-agnieszka', 'kino-moralnego-niepokoju'],
   },
+  {
+    id: 'wsw',
+    title: 'Wojskowa Służba Wewnętrzna',
+    subtitle: 'Kontrwywiad i policja polityczna w mundurze',
+    category: 'wojsko',
+    tags: ['wojsko', 'służby specjalne', 'kontrwywiad', 'represje'],
+    yearStart: 1957,
+    yearEnd: 1990,
+    summary: 'Formacja kontrwywiadu i policji wojskowej, która przez ponad trzydzieści lat nadzorowała politycznie Ludowe Wojsko Polskie.',
+    content: `## Powstanie
+WSW utworzono w styczniu 1957 roku w miejsce rozwiązanej Informacji Wojskowej – osławionej formacji, która w okresie stalinowskim prowadziła śledztwa w sprawach oficerów oskarżanych o spisek i odpowiadała za wymuszanie zeznań. Zmiana nazwy była elementem popaździernikowej odwilży, ale nowa służba przejęła zarówno kadry, jak i większość zadań.
+
+## Zakres działania
+WSW łączyła trzy funkcje, które w armiach zachodnich należą do odrębnych instytucji: kontrwywiad wojskowy, żandarmerię (porządek w garnizonach, ściganie przestępstw żołnierzy) oraz nadzór polityczny nad korpusem oficerskim. Prowadziła sieć informatorów wśród żołnierzy służby zasadniczej i kadry, opiniowała awanse oraz wyjazdy zagraniczne, kontrolowała zakłady przemysłu zbrojeniowego i ochronę tajemnicy wojskowej.
+
+## Stan wojenny
+W okresie stanu wojennego WSW brała udział w internowaniach i w obsadzaniu wojskowymi komisarzami zakładów pracy oraz urzędów. Współpracowała ze Służbą Bezpieczeństwa, choć obie formacje rywalizowały o wpływy i pilnowały własnych obszarów.
+
+## Rozwiązanie
+Służbę rozwiązano w 1990 roku, a na jej miejsce powołano Wojskowe Służby Informacyjne. Los archiwów WSW stał się jednym z najbardziej spornych wątków rozliczeń z PRL – znaczna część dokumentacji została zniszczona na przełomie lat 1989 i 1990.`,
+    trivia: [
+      'Informacja Wojskowa, poprzedniczka WSW, była w latach 1949–1954 kierowana przez oficerów oddelegowanych z sowieckiego kontrwywiadu.',
+      'WSW dysponowała własnymi aresztami śledczymi, niezależnymi od więziennictwa cywilnego.',
+    ],
+    resources: [
+      {
+        id: 'wsw-wiki',
+        title: 'Wojskowa Służba Wewnętrzna – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Wojskowa_S%C5%82u%C5%BCba_Wewn%C4%99trzna',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'wsw-fot',
+        title: 'Wojskowa Służba Wewnętrzna – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Wojskowa%20S%C5%82u%C5%BCba%20Wewn%C4%99trzna&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['lwp', 'sbezpieczenstwa', 'stan-wojenny', 'sluzba-wojskowa'],
+  },
+  {
+    id: 'wop',
+    title: 'Wojska Ochrony Pogranicza',
+    subtitle: 'Granica strzeżona z obu stron',
+    category: 'wojsko',
+    tags: ['wojsko', 'granica', 'ucieczki', 'służby'],
+    yearStart: 1945,
+    yearEnd: 1991,
+    summary: 'Formacja pilnująca granic PRL, w praktyce nastawiona bardziej na zatrzymywanie uciekinierów niż na obronę przed najazdem.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Dowodztwo_wop.png?width=800',
+    imageCaption: 'Budynek dowództwa Wojsk Ochrony Pogranicza',
+    content: `## Zadania
+WOP powołano we wrześniu 1945 roku do ochrony nowo wytyczonych granic państwa. Formacja podlegała kolejno resortowi obrony i resortowi spraw wewnętrznych, co dobrze oddaje jej podwójny charakter – wojskowy z nazwy, policyjny w praktyce.
+
+## Granica jako bariera wewnętrzna
+W państwie, które reglamentowało prawo wyjazdu, granica służyła przede wszystkim do zatrzymywania własnych obywateli. Strażnice, pasy zaorane, zasieki i wieże obserwacyjne budowano również na granicach z NRD i Czechosłowacją, a więc z państwami sojuszniczymi. Wodne przejścia na Bałtyku patrolowały jednostki morskie WOP.
+
+## Ucieczki
+Próby nielegalnego przekroczenia granicy karano więzieniem, a wobec uciekających wolno było użyć broni. Do najgłośniejszych przypadków należały ucieczki żołnierzy służby zasadniczej pełniących służbę na strażnicach oraz porwania samolotów rejsowych.
+
+## Koniec formacji
+WOP rozwiązano w 1991 roku, zastępując go Strażą Graniczną – formacją cywilną, podporządkowaną resortowi spraw wewnętrznych i pozbawioną charakteru wojskowego.`,
+    trivia: [
+      'Na granicy z NRD i Czechosłowacją – państwami tego samego bloku – również stały strażnice i pasy kontrolne.',
+      'Za nielegalne przekroczenie granicy groziła kara pozbawienia wolności, a rodzina uciekiniera traciła szanse na paszport.',
+    ],
+    resources: [
+      {
+        id: 'wop-wiki',
+        title: 'Wojska Ochrony Pogranicza – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Wojska_Ochrony_Pogranicza',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'wop-fot',
+        title: 'Wojska Ochrony Pogranicza – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Wojska%20Ochrony%20Pogranicza&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['lwp', 'ucieczki-z-prl', 'milicja', 'sluzba-wojskowa'],
+  },
+  {
+    id: 'kbw',
+    title: 'Korpus Bezpieczeństwa Wewnętrznego',
+    subtitle: 'Wojsko użyte przeciwko własnemu społeczeństwu',
+    category: 'wojsko',
+    tags: ['wojsko', 'represje', 'podziemie', '1945'],
+    yearStart: 1945,
+    yearEnd: 1965,
+    summary: 'Formacja wojskowa powołana do walki z podziemiem niepodległościowym i zabezpieczania aparatu władzy w pierwszych latach po wojnie.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gen._Konrad_%C5%9Awietlik_promuje_oficer%C3%B3w_KBW.jpg?width=800',
+    imageCaption: 'Gen. Konrad Świetlik promuje oficerów KBW',
+    content: `## Powstanie i podporządkowanie
+KBW utworzono w maju 1945 roku i podporządkowano nie dowództwu wojska, lecz Ministerstwu Bezpieczeństwa Publicznego. To przesądziło o jego charakterze: było to wojsko przeznaczone do działań wewnętrznych, a nie do obrony granic.
+
+## Walka z podziemiem
+Główne zadanie stanowiły operacje przeciwko oddziałom podziemia niepodległościowego, obławy w terenie oraz pacyfikacje wsi wspierających partyzantkę. KBW brał też udział w akcji „Wisła” w 1947 roku, czyli w przymusowym wysiedleniu ludności ukraińskiej i łemkowskiej z południowo-wschodnich województw.
+
+## Ochrona władzy
+Żołnierze korpusu zabezpieczali referendum 1946 roku i wybory 1947 roku, ochraniali obiekty partyjne i rządowe, tłumili wystąpienia robotnicze. W Poznaniu w czerwcu 1956 roku jednostki KBW skierowano przeciwko demonstrantom.
+
+## Rozwiązanie
+Formację rozwiązano w 1965 roku, a jej zadania rozdzielono między wojska wewnętrzne resortu spraw wewnętrznych i inne służby. Symbolem tej ciągłości stało się ZOMO, utworzone kilka lat wcześniej.`,
+    trivia: [
+      'KBW podlegał Ministerstwu Bezpieczeństwa Publicznego, a nie Ministerstwu Obrony Narodowej.',
+      'Korpus liczył w szczytowym okresie kilkadziesiąt tysięcy żołnierzy – więcej niż niejedna regularna dywizja.',
+    ],
+    resources: [
+      {
+        id: 'kbw-wiki',
+        title: 'Korpus Bezpieczeństwa Wewnętrznego – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Korpus_Bezpiecze%C5%84stwa_Wewn%C4%99trznego',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'kbw-fot',
+        title: 'Korpus Bezpieczeństwa Wewnętrznego – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Korpus%20Bezpiecze%C5%84stwa%20Wewn%C4%99trznego&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['ub', 'lwp', 'milicja', 'zomo'],
+  },
+  {
+    id: 'marynarka-wojenna-prl',
+    title: 'Marynarka Wojenna PRL',
+    subtitle: 'Flota Bałtyku w cieniu sojuszu',
+    category: 'wojsko',
+    tags: ['wojsko', 'morze', 'Gdynia', 'Układ Warszawski'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Flota wojenna PRL, rozbudowana pod kątem operacji desantowych na Bałtyku przewidzianych w planach Układu Warszawskiego.',
+    content: `## Odbudowa floty
+Po wojnie flotę odtwarzano niemal od zera, opierając się na okrętach otrzymanych ze Związku Radzieckiego oraz na jednostkach poniemieckich. Główne bazy powstały w Gdyni, Helu i Świnoujściu, a dowództwo ulokowano w Gdyni.
+
+## Rola w Układzie Warszawskim
+Polska marynarka miała w planach sojuszu wyznaczone zadanie: udział w operacji desantowej na duńskie cieśniny i wybrzeże Jutlandii. Temu podporządkowano strukturę floty – rozbudowywano okręty desantowe, trałowce i lotnictwo morskie, a nie okręty oceaniczne.
+
+## Przemysł i szkolnictwo
+Okręty budowała Stocznia Marynarki Wojennej w Gdyni oraz stocznie w Gdańsku i Szczecinie. Kadry kształciła Wyższa Szkoła Marynarki Wojennej w Gdyni, jedna z najbardziej prestiżowych uczelni wojskowych w kraju.
+
+## Grudzień 1970
+Marynarka zapisała się też w historii wystąpień robotniczych: w grudniu 1970 roku jednostki wojskowe blokowały Wybrzeże, a okręty pojawiły się na redzie portów. Do najkrwawszych wydarzeń doszło w Gdyni i Szczecinie – miastach, w których marynarka była obecna na co dzień.`,
+    trivia: [
+      'Plany Układu Warszawskiego przewidywały dla polskiej floty desant na duńskie cieśniny.',
+      'Wyższa Szkoła Marynarki Wojennej w Gdyni należała do najtrudniej dostępnych uczelni w PRL.',
+    ],
+    resources: [
+      {
+        id: 'marynarka-wojenna-prl-wiki',
+        title: 'Marynarka Wojenna PRL – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Marynarka_Wojenna',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'marynarka-wojenna-prl-fot',
+        title: 'Marynarka Wojenna PRL – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Marynarka%20Wojenna%20PRL&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['lwp', 'uklad-warszawski', 'grudzien-1970', 'stocznia-gdanska', 'wopk'],
+  },
+  {
+    id: 'operacja-dunaj',
+    title: 'Operacja Dunaj – udział LWP',
+    subtitle: 'Polscy żołnierze w Czechosłowacji 1968',
+    category: 'wojsko',
+    tags: ['wojsko', '1968', 'Czechosłowacja', 'Układ Warszawski'],
+    yearStart: 1968,
+    yearEnd: 1968,
+    summary: 'Udział 2. Armii Wojska Polskiego w inwazji państw Układu Warszawskiego na Czechosłowację w sierpniu 1968 roku.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Praga_11.jpg?width=800',
+    imageCaption: 'Praga, sierpień 1968',
+    content: `## Decyzja
+W nocy z 20 na 21 sierpnia 1968 roku wojska pięciu państw Układu Warszawskiego wkroczyły do Czechosłowacji, kończąc okres reform Praskiej Wiosny. Władysław Gomułka należał do najbardziej stanowczych zwolenników interwencji, obawiając się, że czechosłowackie reformy przeniosą się do Polski.
+
+## Polski udział
+Ze strony polskiej użyto 2. Armii Wojska Polskiego pod dowództwem gen. Floriana Siwickiego – kilkudziesięciu tysięcy żołnierzy, którzy zajęli północno-wschodnie Morawy i część Czech. Był to największy udział polskiego wojska w operacji zagranicznej po 1945 roku.
+
+## Odbiór
+Żołnierzom przedstawiano operację jako pomoc bratniemu narodowi zagrożonemu przez kontrrewolucję. W rzeczywistości spotkali się z bierną wrogością mieszkańców: zdejmowanymi tablicami z nazwami miejscowości, napisami na murach i odmową współpracy.
+
+## Sprzeciw
+W Polsce interwencja wywołała nieliczne, ale głośne protesty. 8 września 1968 roku Ryszard Siwiec dokonał samospalenia na Stadionie Dziesięciolecia w Warszawie podczas dożynek – protest ten przez lata przemilczano.
+
+## Rozliczenie
+Dopiero w 1989 roku władze PRL oficjalnie potępiły udział w interwencji.`,
+    trivia: [
+      'Gen. Florian Siwicki, dowódca polskich sił w operacji, był w latach 80. ministrem obrony narodowej.',
+      'Protest Ryszarda Siwca sfilmowały kamery kroniki dożynkowej, ale materiał trafił do archiwum i ujawniono go po latach.',
+    ],
+    resources: [
+      {
+        id: 'operacja-dunaj-wiki',
+        title: 'Operacja Dunaj – udział LWP – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Interwencja_Uk%C5%82adu_Warszawskiego_w_Czechos%C5%82owacji',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'operacja-dunaj-fot',
+        title: 'Operacja Dunaj – udział LWP – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Warsaw%20Pact%20invasion%20of%20Czechoslovakia%201968&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['praga-1968', 'lwp', 'uklad-warszawski', 'marzec-1968'],
+  },
+  {
+    id: 'lok',
+    title: 'Liga Obrony Kraju',
+    subtitle: 'Militaryzacja czasu wolnego',
+    category: 'wojsko',
+    tags: ['wojsko', 'społeczeństwo', 'sport', 'szkolenie'],
+    yearStart: 1962,
+    yearEnd: 1989,
+    summary: 'Masowa organizacja szkolenia obronnego, przez którą przeszły miliony Polaków – od kursów strzeleckich po prawo jazdy.',
+    content: `## Czym była LOK
+Ligę Obrony Kraju powołano w 1962 roku, łącząc wcześniejsze organizacje przysposobienia wojskowego. Jej zadaniem było przygotowanie obywateli do służby i obrony – w praktyce prowadziła jednak ogromną sieć kursów i sekcji, z których wiele miało charakter czysto użytkowy albo sportowy.
+
+## Kursy i sekcje
+W ośrodkach LOK zdobywano uprawnienia kierowcy i motocyklisty, uczono łączności i krótkofalarstwa, prowadzono sekcje strzeleckie, spadochronowe, płetwonurkowe, modelarskie i sportów motorowych. Dla wielu młodych ludzi był to jedyny dostępny sposób na tani kurs prawa jazdy albo kontakt ze sprzętem, którego nie dało się kupić.
+
+## Szkoła i zakład pracy
+Działalność LOK uzupełniało przysposobienie obronne w szkołach oraz szkolenia w zakładach pracy. Zawody strzeleckie i sprawnościowe organizowano przy okazji świąt państwowych.
+
+## Po 1989 roku
+Organizacja przetrwała transformację, tracąc jednak masowy charakter i większość majątku. Dziś jest stowarzyszeniem prowadzącym głównie działalność szkoleniową i sportową.`,
+    trivia: [
+      'Dla wielu Polaków kurs prawa jazdy w LOK był tańszą alternatywą wobec kursów komercyjnych.',
+      'Sekcje krótkofalarskie LOK działały w państwie, które ściśle kontrolowało dostęp do urządzeń nadawczych.',
+    ],
+    resources: [
+      {
+        id: 'lok-wiki',
+        title: 'Liga Obrony Kraju – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Liga_Obrony_Kraju',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'lok-fot',
+        title: 'Liga Obrony Kraju – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Liga%20Obrony%20Kraju&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['sluzba-wojskowa', 'lwp', 'zhp-harcerstwo', 'sport-prl'],
+  },
+  {
+    id: 'wopk',
+    title: 'Wojska Obrony Powietrznej Kraju',
+    subtitle: 'Niebo pod nadzorem',
+    category: 'wojsko',
+    tags: ['wojsko', 'lotnictwo', 'obrona', 'technika'],
+    yearStart: 1962,
+    yearEnd: 1990,
+    summary: 'Odrębny rodzaj sił zbrojnych odpowiadający za lotnictwo myśliwskie, radiolokację i rakiety przeciwlotnicze.',
+    content: `## Struktura
+WOPK wyodrębniono w 1962 roku jako osobny rodzaj sił zbrojnych, obok wojsk lądowych, lotnictwa operacyjnego i marynarki. Tworzyły je pułki lotnictwa myśliwskiego, jednostki rakietowe, artyleria przeciwlotnicza oraz rozbudowany system radiolokacyjny.
+
+## Sprzęt
+Podstawą uzbrojenia były samoloty konstrukcji radzieckiej: kolejne wersje MiG–17, MiG–21, a w latach 80. MiG–23. Obronę rakietową opierano na zestawach ziemia–powietrze rozmieszczonych wokół największych miast i obiektów przemysłowych.
+
+## Miejsce w systemie sojuszu
+System obrony powietrznej PRL był ściśle zintegrowany z systemem Układu Warszawskiego, co oznaczało również, że informacje radiolokacyjne trafiały do wspólnego obiegu, a swoboda decyzji polskiego dowództwa była ograniczona.
+
+## Codzienność
+Dla mieszkańców okolic lotnisk wojskowych obecność WOPK oznaczała hałas i strefy zamknięte. Jednostki utrzymywały całodobowe dyżury bojowe, a przelot nierozpoznanego obiektu uruchamiał procedury alarmowe.`,
+    trivia: [
+      'WOPK był w PRL osobnym rodzajem sił zbrojnych – rozwiązanie wzorowane na strukturze armii radzieckiej.',
+      'Wokół dużych miast rozmieszczano stałe stanowiska rakiet przeciwlotniczych, ukryte w lasach i za wałami ziemnymi.',
+    ],
+    resources: [
+      {
+        id: 'wopk-wiki',
+        title: 'Wojska Obrony Powietrznej Kraju – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Wojska_Obrony_Powietrznej_Kraju',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'wopk-fot',
+        title: 'Wojska Obrony Powietrznej Kraju – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Wojska%20Obrony%20Powietrznej%20Kraju&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['lwp', 'uklad-warszawski', 'lot-prl', 'marynarka-wojenna-prl'],
+  },
+  {
+    id: 'handel-zagraniczny-prl',
+    title: 'Handel zagraniczny PRL',
+    subtitle: 'Centrale handlu i dwie waluty',
+    category: 'gospodarka',
+    tags: ['gospodarka', 'handel', 'RWPG', 'dewizy'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'System, w którym żaden zakład nie mógł sam sprzedać towaru za granicę – wszystko przechodziło przez państwowe centrale handlu zagranicznego.',
+    content: `## Monopol państwa
+Handel zagraniczny był w PRL monopolem państwa. Przedsiębiorstwa nie miały prawa bezpośrednio eksportować ani importować – robiły to za nie wyspecjalizowane centrale handlu zagranicznego, takie jak Ciech, Elektrim, Polimex czy Animex. Oddzielało to producenta od odbiorcy i od informacji o rynku.
+
+## Dwa obiegi
+Wymiana dzieliła się na dwa różne światy. W ramach RWPG rozliczano się w rublu transferowym – jednostce rozrachunkowej, która nie była wymienialna i której kurs ustalano decyzją, a nie rynkiem. Handel z Zachodem wymagał dewiz, których stale brakowało.
+
+## Struktura wymiany
+Polska eksportowała przede wszystkim węgiel, siarkę, miedź, statki, produkty rolne i wyroby przemysłu maszynowego. Importowała ropę i gaz ze Związku Radzieckiego, a z Zachodu – licencje, maszyny i zboże.
+
+## Licencje i dług
+Dekada Gierka opierała się na zakupach licencji i linii produkcyjnych za kredyty zachodnie. Gdy eksport nie zaczął ich spłacać, powstało zadłużenie, które w latach 80. sparaliżowało gospodarkę i wymusiło reglamentację importu.`,
+    trivia: [
+      'Rubel transferowy nie istniał w postaci fizycznej – była to wyłącznie jednostka rozliczeniowa krajów RWPG.',
+      'Producent w PRL zwykle nie wiedział, kto za granicą kupuje jego wyroby – kontakt utrzymywała centrala handlu zagranicznego.',
+    ],
+    resources: [
+      {
+        id: 'handel-zagraniczny-prl-wiki',
+        title: 'Handel zagraniczny PRL – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Handel_zagraniczny',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'handel-zagraniczny-prl-fot',
+        title: 'Handel zagraniczny PRL – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Handel%20zagraniczny%20PRL&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['gospodarka-prl', 'rwpg', 'zadluzenie-prl', 'pewex'],
+  },
+  {
+    id: 'komisja-planowania',
+    title: 'Komisja Planowania przy Radzie Ministrów',
+    subtitle: 'Sztab gospodarki nakazowo-rozdzielczej',
+    category: 'gospodarka',
+    tags: ['gospodarka', 'planowanie', 'administracja', 'PZPR'],
+    yearStart: 1956,
+    yearEnd: 1988,
+    summary: 'Urząd, który układał plany pięcioletnie i rozdzielał surowce, maszyny oraz limity inwestycyjne między resorty i zakłady.',
+    content: `## Rola
+Komisja Planowania, następczyni Państwowej Komisji Planowania Gospodarczego, była instytucją, w której powstawał plan – dokument określający, ile czego ma zostać wyprodukowane, komu przydzielić stal, cement czy dewizy i które inwestycje ruszą.
+
+## Jak działał plan
+Zadania rozpisywano z góry na dół: z planu centralnego na resorty, z resortów na zjednoczenia, ze zjednoczeń na przedsiębiorstwa. Zakład nie decydował, co produkuje, lecz otrzymywał wskaźniki do wykonania. Sukces mierzono procentem wykonania planu, a nie tym, czy wyrób znalazł nabywcę.
+
+## Skutki
+System premiował ilość kosztem jakości i asortymentu. Powstawały nadwyżki towarów niechodliwych i jednoczesne braki podstawowych artykułów. Dyrektorzy negocjowali z centralą zaniżone wskaźniki, by łatwiej je przekroczyć – zjawisko to opisywano jako grę o plan.
+
+## Reformy i koniec
+Kolejne próby reform – 1956, 1973, 1982 – miały poszerzyć samodzielność przedsiębiorstw, ale za każdym razem centrum odzyskiwało kontrolę. Komisję zlikwidowano w 1988 roku, u progu zmiany ustroju gospodarczego.`,
+    trivia: [
+      'W gospodarce planowej wykonanie planu w 99% było porażką, a w 101% – sukcesem, niezależnie od tego, czy wyroby były komukolwiek potrzebne.',
+      'Dyrektorzy zakładów starali się wynegocjować jak najniższe wskaźniki planu – łatwiej było je potem przekroczyć.',
+    ],
+    resources: [
+      {
+        id: 'komisja-planowania-wiki',
+        title: 'Komisja Planowania przy Radzie Ministrów – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Komisja_Planowania_przy_Radzie_Ministr%C3%B3w',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'komisja-planowania-fot',
+        title: 'Komisja Planowania przy Radzie Ministrów – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Komisja%20Planowania%20przy%20Radzie%20Ministr%C3%B3w&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['gospodarka-prl', 'plan-szescioletni', 'nomenklatura', 'handel-zagraniczny-prl'],
+  },
+  {
+    id: 'energetyka-prl',
+    title: 'Energetyka PRL',
+    subtitle: 'Kraj na węglu',
+    category: 'gospodarka',
+    tags: ['gospodarka', 'energia', 'przemysł', 'Bełchatów'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'System energetyczny oparty niemal wyłącznie na węglu, budowany pod potrzeby przemysłu ciężkiego i obciążony ogromnymi kosztami środowiskowymi.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Be%C5%82chat%C3%B3w_Elektrownia.jpg?width=800',
+    imageCaption: 'Elektrownia Bełchatów',
+    content: `## Węgiel jako podstawa
+Energetyka PRL opierała się na węglu kamiennym i brunatnym. Elektrownie budowano przy kopalniach albo przy dużych rzekach, a sieć wysokiego napięcia rozwijano razem z nowymi kombinatami przemysłowymi. Największą inwestycją stał się kompleks Bełchatowa – odkrywka węgla brunatnego i elektrownia, które ruszyły na przełomie lat 70. i 80.
+
+## Przemysł przede wszystkim
+Priorytet miał przemysł ciężki, a gospodarstwa domowe traktowano jako odbiorcę drugiej kategorii. W okresach kryzysu wprowadzano ograniczenia w dostawach energii, wyłączenia i tak zwane stopnie zasilania, a mieszkańcy poznawali harmonogramy przerw w dostawie prądu.
+
+## Elektrownia jądrowa w Żarnowcu
+W latach 80. rozpoczęto budowę pierwszej polskiej elektrowni jądrowej w Żarnowcu. Po katastrofie w Czarnobylu w 1986 roku inwestycja stała się przedmiotem protestów, a w 1990 roku ją przerwano.
+
+## Koszt środowiskowy
+Rachunkiem za taki model był smog w miastach przemysłowych, kwaśne deszcze niszczące lasy w Sudetach i jedne z najwyższych w Europie emisje dwutlenku siarki. Skalę zniszczeń zaczęto opisywać publicznie dopiero pod koniec lat 80.`,
+    trivia: [
+      'Kompleks Bełchatowa – kopalnia odkrywkowa i elektrownia – powstał na terenie, z którego wysiedlono kilka wsi.',
+      'Zamiast wyłączeń prądu ogłaszano „stopnie zasilania” – im wyższy stopień, tym mniej energii dla zakładów i mieszkań.',
+    ],
+    resources: [
+      {
+        id: 'energetyka-prl-wiki',
+        title: 'Energetyka PRL – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Elektrownia_Be%C5%82chat%C3%B3w',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'energetyka-prl-fot',
+        title: 'Energetyka PRL – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Energetyka%20PRL&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['gospodarka-prl', 'huta-katowice', 'karkonosze', 'gornictwo-prl'],
+  },
+  {
+    id: 'spoldzielczosc-prl',
+    title: 'Spółdzielczość w PRL',
+    subtitle: 'Społem, GS i spółdzielnie pracy',
+    category: 'gospodarka',
+    tags: ['gospodarka', 'handel', 'wieś', 'społeczeństwo'],
+    yearStart: 1945,
+    yearEnd: 1989,
+    summary: 'Sieć spółdzielni handlowych, mieszkaniowych i wytwórczych, formalnie samorządna, w praktyce włączona w system nakazowy.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Spolem.jpg?width=800',
+    imageCaption: 'Sklep spółdzielni Społem',
+    content: `## Trzy filary
+Spółdzielczość obejmowała trzy wielkie obszary. Handel prowadziły Powszechne Spółdzielnie Spożywców Społem w miastach i Gminne Spółdzielnie Samopomoc Chłopska na wsi. Produkcją zajmowały się spółdzielnie pracy i spółdzielnie inwalidów, wytwarzające drobne wyroby, których nie opłacało się produkować wielkim zakładom. Trzecim filarem była spółdzielczość mieszkaniowa.
+
+## Sklep GS
+Dla mieszkańca wsi sklep gminnej spółdzielni był często jedynym punktem handlowym w promieniu kilku kilometrów – sprzedawano w nim wszystko: chleb, gwoździe, nawozy, buty gumowe i naftę. GS skupował także płody rolne od rolników.
+
+## Samorząd tylko z nazwy
+Statutowo spółdzielnie były zrzeszeniami członków wybierających władze. W rzeczywistości działały w ramach central i związków podporządkowanych administracji, a obsada stanowisk podlegała nomenklaturze partyjnej.
+
+## Znaczenie
+Mimo to spółdzielczość była elementem gospodarki najbliższym drobnej przedsiębiorczości – i to właśnie spółdzielnie pracy oraz rzemiosło zapewniały część asortymentu, którego przemysł państwowy nie wytwarzał.`,
+    trivia: [
+      'W sklepie gminnej spółdzielni obok chleba i cukru można było kupić nawozy, gwoździe i naftę.',
+      'Spółdzielnie inwalidów wytwarzały drobne artykuły codziennego użytku, których wielkie zakłady nie chciały produkować.',
+    ],
+    resources: [
+      {
+        id: 'spoldzielczosc-prl-pkf',
+        title: 'Spółdzielnia Kółek Rolniczych w Staroźrebach, 1981',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=49cyiNvhRes',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie kroniki filmowej „Spółdzielnia Kółek Rolniczych w Staroźrebach, 1981”.',
+      },
+      {
+        id: 'spoldzielczosc-prl-wiki',
+        title: 'Spółdzielczość w PRL – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Sp%C3%B3%C5%82dzielczo%C5%9B%C4%87',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'spoldzielczosc-prl-fot',
+        title: 'Spółdzielczość w PRL – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Sp%C3%B3%C5%82dzielczo%C5%9B%C4%87%20w%20PRL&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['gospodarka-prl', 'pgr', 'rolnictwo-prl', 'mieszkania-prl'],
+  },
+  {
+    id: 'pron',
+    title: 'PRON – Patriotyczny Ruch Odrodzenia Narodowego',
+    subtitle: 'Fasada porozumienia po stanie wojennym',
+    category: 'polityka',
+    tags: ['polityka', 'stan wojenny', 'propaganda', 'PZPR'],
+    yearStart: 1982,
+    yearEnd: 1989,
+    summary: 'Organizacja powołana po delegalizacji Solidarności, mająca stworzyć wrażenie szerokiego poparcia społecznego dla władzy.',
+    content: `## Po co powstał
+PRON utworzono w 1982 roku, w czasie stanu wojennego, w miejsce dawnego Frontu Jedności Narodu. Miał być platformą „porozumienia narodowego” skupiającą PZPR, stronnictwa satelickie, organizacje katolickie i osoby bezpartyjne.
+
+## Jak działał
+Ruch firmował kampanie wyborcze, apele i uroczystości, wystawiał kandydatów do rad narodowych i Sejmu, wydawał własną prasę. Do udziału starano się pozyskać osoby o pewnym autorytecie, by uwiarygodnić przedsięwzięcie.
+
+## Odbiór
+Społecznie PRON pozostał tworem sztucznym. Środowiska opozycyjne i znaczna część duchowieństwa odmówiły udziału, a udział w jego strukturach traktowano jako deklarację poparcia dla władzy stanu wojennego. Frekwencja i entuzjazm miały charakter urzędowy.
+
+## Koniec
+Organizacja rozwiązała się w 1989 roku, gdy realne rozmowy z opozycją przeniosły się do Okrągłego Stołu – miejsca, w którym PRON nie odgrywał już żadnej roli.`,
+    trivia: [
+      'PRON zastąpił Front Jedności Narodu, powielając jego konstrukcję: jedna lista, wielu firmujących.',
+      'Deklarację przystąpienia do PRON traktowano w środowiskach opozycyjnych jako opowiedzenie się po stronie władzy stanu wojennego.',
+    ],
+    resources: [
+      {
+        id: 'pron-wiki',
+        title: 'PRON – Patriotyczny Ruch Odrodzenia Narodowego – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Patriotyczny_Ruch_Odrodzenia_Narodowego',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'pron-fot',
+        title: 'PRON – Patriotyczny Ruch Odrodzenia Narodowego – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=PRON%20%E2%80%93%20Patriotyczny%20Ruch%20Odrodzenia%20Narodowego&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['stan-wojenny', 'pzpr', 'front-jednosci-narodu', 'okragly-stol'],
+  },
+  {
+    id: 'rada-panstwa',
+    title: 'Rada Państwa',
+    subtitle: 'Kolegialna głowa państwa',
+    category: 'polityka',
+    tags: ['polityka', 'ustrój', 'prawo', 'Sejm'],
+    yearStart: 1947,
+    yearEnd: 1989,
+    summary: 'Organ pełniący funkcje głowy państwa w PRL – to on formalnie wprowadził stan wojenny i wydawał dekrety w czasie przerw w obradach Sejmu.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kompleks_Sejmu_w_latach_60.jpg?width=800',
+    imageCaption: 'Kompleks Sejmu w latach 60.',
+    content: `## Zamiast prezydenta
+Po zniesieniu urzędu prezydenta w 1952 roku funkcje głowy państwa przejęła Rada Państwa – organ kolegialny wybierany przez Sejm. Jej przewodniczący był w praktyce protokolarną głową państwa, choć realna władza pozostawała w rękach I sekretarza PZPR.
+
+## Uprawnienia
+Rada Państwa zarządzała wybory, ratyfikowała umowy międzynarodowe, mianowała ambasadorów, nadawała odznaczenia i stosowała prawo łaski. Najważniejsze było jednak prawo wydawania dekretów z mocą ustawy w okresach między sesjami Sejmu.
+
+## Stan wojenny
+To właśnie z tego uprawnienia skorzystano w nocy z 12 na 13 grudnia 1981 roku. Dekret o stanie wojennym uchwaliła Rada Państwa, mimo że Konstytucja zakazywała wydawania dekretów w czasie sesji Sejmu – a sesja formalnie trwała. Ten spór prawny wrócił po latach przy próbach rozliczenia autorów stanu wojennego.
+
+## Koniec
+Rada Państwa została zniesiona w 1989 roku, wraz z przywróceniem urzędu prezydenta w ramach porozumień Okrągłego Stołu.`,
+    trivia: [
+      'Dekret o stanie wojennym wydano wbrew konstytucyjnemu zakazowi dekretowania w czasie sesji Sejmu – kwestia ta wracała w późniejszych procesach.',
+      'Przewodniczący Rady Państwa pełnił funkcje reprezentacyjne głowy państwa, ale najważniejsze decyzje zapadały w Biurze Politycznym PZPR.',
+    ],
+    resources: [
+      {
+        id: 'rada-panstwa-pkf',
+        title: 'Przewodniczący Rady Państwa Aleksander Zawadzki – PKF 43A/1961',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=qX41vsajnCA',
+        source: 'Polska Kronika Filmowa (YouTube)',
+        description: 'Archiwalne wydanie kroniki filmowej „Przewodniczący Rady Państwa Aleksander Zawadzki – PKF 43A/1961”.',
+      },
+      {
+        id: 'rada-panstwa-wiki',
+        title: 'Rada Państwa – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Rada_Pa%C5%84stwa_%28Polska%29',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'rada-panstwa-fot',
+        title: 'Rada Państwa – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Rada%20Pa%C5%84stwa&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['sejm-prl', 'konstytucja-prl', 'stan-wojenny', 'okragly-stol'],
+  },
+  {
+    id: 'urzad-wyznan',
+    title: 'Urząd do Spraw Wyznań',
+    subtitle: 'Państwowy nadzór nad Kościołem',
+    category: 'polityka',
+    tags: ['polityka', 'Kościół', 'represje', 'administracja'],
+    yearStart: 1950,
+    yearEnd: 1989,
+    summary: 'Instytucja stworzona do administracyjnej kontroli życia religijnego – od zgód na budowę kościołów po obsadę stanowisk duchownych.',
+    content: `## Powstanie
+Urząd powołano w 1950 roku, w okresie narastającego konfliktu państwa z Kościołem. Formalnie miał zajmować się stosunkami wyznaniowymi, w praktyce stał się narzędziem nadzoru nad duchowieństwem i parafiami.
+
+## Narzędzia
+Najskuteczniejszym instrumentem było prawo budowlane: zgoda na budowę kościoła zależała od decyzji administracyjnej, którą można było odmawiać latami. Urząd opiniował też nominacje kościelne, kontrolował wydawnictwa religijne i przydział papieru, decydował o punktach katechetycznych i o wyjazdach duchownych za granicę.
+
+## Współpraca ze służbami
+Urząd działał w ścisłym powiązaniu z pionem IV Służby Bezpieczeństwa, zajmującym się Kościołem. Wymieniano informacje o duchownych, dzielono role: represja i „dialog” prowadzone były równolegle.
+
+## Skutek odwrotny
+Odmowy zgód budowlanych stały się jednym z najczęstszych zarzewi lokalnych konfliktów, a walka o kościół – jak w Nowej Hucie – potrafiła zmobilizować całe społeczności. Urząd zlikwidowano w 1989 roku.`,
+    trivia: [
+      'Odmowa zgody na budowę kościoła była skuteczniejszym narzędziem nacisku niż otwarta represja – nie tworzyła męczenników.',
+      'Urząd decydował także o przydziale papieru na wydawnictwa religijne, co ograniczało nakłady prasy katolickiej.',
+    ],
+    resources: [
+      {
+        id: 'urzad-wyznan-wiki',
+        title: 'Urząd do Spraw Wyznań – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Urz%C4%85d_do_Spraw_Wyzna%C5%84',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'urzad-wyznan-fot',
+        title: 'Urząd do Spraw Wyznań – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Urz%C4%85d%20do%20Spraw%20Wyzna%C5%84&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['kosciol-prl', 'sbezpieczenstwa', 'nowa-huta', 'milenium-1966'],
+  },
+  {
+    id: 'premierzy-prl',
+    title: 'Premierzy PRL',
+    subtitle: 'Rząd w cieniu Biura Politycznego',
+    category: 'polityka',
+    tags: ['polityka', 'ustrój', 'rząd', 'PZPR'],
+    yearStart: 1944,
+    yearEnd: 1989,
+    summary: 'Przegląd szefów rządu PRL i realnej roli premiera w państwie, w którym decyzje zapadały w partii, a nie w Radzie Ministrów.',
+    content: `## Pozycja urzędu
+W ustroju PRL premier kierował administracją i gospodarką, ale nie był najważniejszą osobą w państwie. Kierunek polityki wyznaczało Biuro Polityczne PZPR z I sekretarzem na czele, a rząd wykonywał jego uchwały. Premier bywał więc raczej zarządcą niż przywódcą.
+
+## Kolejni szefowie rządu
+Pierwszym premierem był Edward Osóbka-Morawski, po nim rząd prowadzili kolejno Józef Cyrankiewicz – rekordzista, kierujący gabinetem z przerwą przez ponad dwadzieścia lat – następnie Piotr Jaroszewicz w dekadzie Gierka, Edward Babiuch i Józef Pińkowski w kryzysowym roku 1980, gen. Wojciech Jaruzelski od lutego 1981, a w latach 80. Zbigniew Messner i Mieczysław Rakowski.
+
+## Premier jako amortyzator
+Zmiana premiera bywała sposobem na rozładowanie napięcia bez naruszania układu władzy: rząd odchodził, obwiniany za błędy gospodarcze, a partia trwała. Tak było w 1980 roku, gdy w ciągu kilku miesięcy zmieniono szefa rządu dwukrotnie.
+
+## Przełom 1989
+We wrześniu 1989 roku premierem został Tadeusz Mazowiecki – pierwszy od czterdziestu lat szef rządu niepochodzący z partii komunistycznej.`,
+    trivia: [
+      'Józef Cyrankiewicz stał na czele rządu w latach 1947–1952 i 1954–1970 – najdłużej w historii urzędu.',
+      'W 1980 roku premier zmieniał się dwukrotnie w ciągu kilku miesięcy – zmiana rządu miała zastąpić zmianę systemu.',
+    ],
+    resources: [
+      {
+        id: 'premierzy-prl-wiki',
+        title: 'Premierzy PRL – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Prezes_Rady_Ministr%C3%B3w',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'premierzy-prl-fot',
+        title: 'Premierzy PRL – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Premierzy%20PRL&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['pzpr', 'sejm-prl', 'okragly-stol', 'rada-panstwa'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -30379,7 +31078,7 @@ export const resourceTypeLabels: Record<ResourceType, { label: string; icon: str
 export const timelineEvents: { year: number; event: string; category: string; entryId?: string }[] = [
   { year: 1944, event: 'Powołanie PKWN – "Manifest Lipcowy"', category: 'polityka' },
   { year: 1945, event: 'Konferencja w Poczdamie – ustalenie granic', category: 'polityka' },
-  { year: 1945, event: 'Powstanie KBW – walka z podziemiem niepodległościowym', category: 'represje', entryId: 'represje-polityczne' },
+  { year: 1945, event: 'Powstanie KBW – walka z podziemiem niepodległościowym', category: 'represje', entryId: 'kbw' },
   { year: 1947, event: 'Sfałszowane wybory – eliminacja PSL', category: 'polityka' },
   { year: 1948, event: 'Powstanie PZPR z połączenia PPR i PPS', category: 'polityka', entryId: 'pzpr' },
   { year: 1949, event: 'Budowa Nowej Huty – socjalizm w betonie', category: 'społeczeństwo', entryId: 'nowa-huta' },
@@ -30741,4 +31440,14 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1966, event: 'Obchody Milenium Chrztu Polski', category: 'społeczeństwo', entryId: 'milenium-1966' },
   { year: 1973, event: 'Rusza produkcja Fiata 126p – Malucha', category: 'społeczeństwo', entryId: 'fiat-126p' },
   { year: 1985, event: 'Zbigniew Religa przeprowadza pierwszy udany przeszczep serca w Polsce', category: 'społeczeństwo', entryId: 'zbigniew-religa' },
+  { year: 1957, event: 'Powstaje Wojskowa Służba Wewnętrzna w miejsce Informacji Wojskowej', category: 'wojsko', entryId: 'wsw' },
+  { year: 1945, event: 'Powstają Wojska Ochrony Pogranicza', category: 'wojsko', entryId: 'wop' },
+  { year: 1968, event: '2. Armia WP bierze udział w inwazji na Czechosłowację', category: 'wojsko', entryId: 'operacja-dunaj' },
+  { year: 1962, event: 'Powstaje Liga Obrony Kraju', category: 'wojsko', entryId: 'lok' },
+  { year: 1962, event: 'Powstają Wojska Obrony Powietrznej Kraju', category: 'wojsko', entryId: 'wopk' },
+  { year: 1988, event: 'Likwidacja Komisji Planowania przy Radzie Ministrów', category: 'gospodarka', entryId: 'komisja-planowania' },
+  { year: 1982, event: 'Powstaje Patriotyczny Ruch Odrodzenia Narodowego', category: 'polityka', entryId: 'pron' },
+  { year: 1952, event: 'Konstytucja PRL znosi urząd prezydenta i ustanawia Radę Państwa', category: 'polityka', entryId: 'rada-panstwa' },
+  { year: 1950, event: 'Powstaje Urząd do Spraw Wyznań', category: 'polityka', entryId: 'urzad-wyznan' },
+  { year: 1989, event: 'Tadeusz Mazowiecki pierwszym niekomunistycznym premierem', category: 'polityka', entryId: 'premierzy-prl' },
 ];
