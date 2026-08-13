@@ -18,23 +18,46 @@ function groupOf(tags: string[]): string {
 
 const GROUP_ORDER = ['Władza', 'Opozycja', 'Kultura i nauka', 'Kościół', 'Ofiary represji', 'Pozostali'];
 
+/** Nazwisko to zwykle ostatni człon tytułu; pomijamy dopiski w cudzysłowie
+ *  („Inka”) i skróty stopni, żeby litera odpowiadała temu, czego szuka czytelnik. */
+function surnameLetter(title: string): string {
+  const words = title
+    .replace(/[„”"']/g, '')
+    .split(/\s+/)
+    .filter(w => w.length > 1 && !/^(gen|płk|ks|abp|kard|rtm|prof|dr|św)\.?$/i.test(w));
+  const last = words[words.length - 1] || title;
+  return last
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '')
+    .charAt(0)
+    .toUpperCase()
+    .replace('Ł', 'L');
+}
+
 export default function BiosPage({ onNavigate }: BiosPageProps) {
   const [query, setQuery] = useState('');
+  const [letter, setLetter] = useState<string>('all');
 
   const people = useMemo(
     () => entries.filter(e => e.category === 'osoby'),
     []
   );
 
+  const availableLetters = useMemo(
+    () => [...new Set(people.map(e => surnameLetter(e.title)))].sort((a, b) => a.localeCompare(b, 'pl')),
+    [people]
+  );
+
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
     return people.filter(e =>
-      !q ||
-      e.title.toLowerCase().includes(q) ||
-      (e.subtitle || '').toLowerCase().includes(q) ||
-      (e.summary || e.shortDesc || '').toLowerCase().includes(q)
+      (letter === 'all' || surnameLetter(e.title) === letter) &&
+      (!q ||
+        e.title.toLowerCase().includes(q) ||
+        (e.subtitle || '').toLowerCase().includes(q) ||
+        (e.summary || e.shortDesc || '').toLowerCase().includes(q))
     );
-  }, [people, query]);
+  }, [people, query, letter]);
 
   const grouped = useMemo(() => {
     const map: Record<string, typeof filtered> = {};
@@ -71,6 +94,36 @@ export default function BiosPage({ onNavigate }: BiosPageProps) {
           placeholder="Szukaj postaci…"
           className="w-full px-4 py-2.5 border border-stone-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-red-500"
         />
+      </div>
+
+      {/* Filtr po pierwszej literze NAZWISKA – w tytułach nazwisko stoi na końcu */}
+      <div className="bg-white rounded-xl border border-stone-200 shadow-sm p-4 mb-6">
+        <div className="flex flex-wrap gap-1.5 items-center">
+          <span className="text-xs font-medium text-gray-500 mr-1">Nazwisko na literę:</span>
+          <button
+            onClick={() => setLetter('all')}
+            className={`px-3 h-8 flex items-center justify-center text-sm font-medium rounded border transition-colors ${
+              letter === 'all'
+                ? 'bg-gray-900 text-white border-gray-900'
+                : 'border-stone-200 text-gray-700 hover:bg-stone-100'
+            }`}
+          >
+            Wszystkie
+          </button>
+          {availableLetters.map(l => (
+            <button
+              key={l}
+              onClick={() => setLetter(letter === l ? 'all' : l)}
+              className={`w-8 h-8 flex items-center justify-center text-sm font-semibold rounded border transition-colors ${
+                letter === l
+                  ? 'bg-red-700 text-white border-red-700'
+                  : 'border-stone-200 text-gray-700 hover:bg-stone-100'
+              }`}
+            >
+              {l}
+            </button>
+          ))}
+        </div>
       </div>
 
       <p className="text-sm text-gray-500 mb-6">{filtered.length} postaci</p>

@@ -322,6 +322,14 @@ export default function EntryPage({ entryId, onNavigate }: EntryPageProps) {
             </div>
           )}
 
+          {/* Porównanie z innym hasłem */}
+          <button
+            onClick={() => onNavigate('compare', entry.id)}
+            className="w-full py-3 mb-3 bg-white border border-stone-200 hover:border-red-300 text-stone-700 rounded-lg transition-colors text-sm font-medium flex items-center justify-center gap-2"
+          >
+            ⇄ Porównaj z innym hasłem
+          </button>
+
           {/* Back button */}
           <button
             onClick={() => onNavigate('encyclopedia')}

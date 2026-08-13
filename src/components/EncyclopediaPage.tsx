@@ -7,12 +7,28 @@ interface EncyclopediaPageProps {
   initialCategory?: Category | 'all';
 }
 
+const decades = [
+  { id: '1940', label: 'Lata 40.', from: 1944, to: 1949 },
+  { id: '1950', label: 'Lata 50.', from: 1950, to: 1959 },
+  { id: '1960', label: 'Lata 60.', from: 1960, to: 1969 },
+  { id: '1970', label: 'Lata 70.', from: 1970, to: 1979 },
+  { id: '1980', label: 'Lata 80.', from: 1980, to: 1989 },
+];
+
+/** Hasło należy do dekady, jeśli jego zakres lat zachodzi na nią choćby częściowo. */
+function inDecade(e: { yearStart?: number; yearEnd?: number }, from: number, to: number) {
+  if (!e.yearStart) return false;
+  const end = e.yearEnd ?? e.yearStart;
+  return e.yearStart <= to && end >= from;
+}
+
 export default function EncyclopediaPage({
   onNavigate,
   searchQuery = '',
   initialCategory = 'all',
 }: EncyclopediaPageProps) {
   const [selectedCategory, setSelectedCategory] = useState<Category | 'all'>(initialCategory);
+  const [selectedDecade, setSelectedDecade] = useState<string>('all');
   const [search, setSearch] = useState(searchQuery);
   const [sortBy, setSortBy] = useState<'title' | 'year'>('title');
 
@@ -20,6 +36,10 @@ export default function EncyclopediaPage({
     let result = [...entries];
     if (selectedCategory !== 'all') {
       result = result.filter(e => e.category === selectedCategory);
+    }
+    if (selectedDecade !== 'all') {
+      const d = decades.find(x => x.id === selectedDecade);
+      if (d) result = result.filter(e => inDecade(e, d.from, d.to));
     }
     if (search.trim()) {
       const q = search.toLowerCase();
@@ -115,6 +135,37 @@ export default function EncyclopediaPage({
             );
           })}
         </div>
+
+        {/* Decade filters */}
+        <div className="mt-3 pt-3 border-t border-stone-100 flex flex-wrap items-center gap-2">
+          <span className="text-xs font-medium text-gray-500 mr-1">Dekada:</span>
+          <button
+            onClick={() => setSelectedDecade('all')}
+            className={`px-3 py-1 text-sm rounded-full border transition-colors ${
+              selectedDecade === 'all'
+                ? 'bg-gray-900 text-white border-gray-900'
+                : 'bg-white text-gray-600 border-stone-200 hover:border-gray-400'
+            }`}
+          >
+            Cały okres
+          </button>
+          {decades.map(d => {
+            const count = entries.filter(e => inDecade(e, d.from, d.to)).length;
+            return (
+              <button
+                key={d.id}
+                onClick={() => setSelectedDecade(d.id)}
+                className={`px-3 py-1 text-sm rounded-full border transition-colors ${
+                  selectedDecade === d.id
+                    ? 'bg-red-700 text-white border-red-700'
+                    : 'bg-white text-gray-600 border-stone-200 hover:border-red-300'
+                }`}
+              >
+                {d.label} ({count})
+              </button>
+            );
+          })}
+        </div>
       </div>
 
       {/* Results count */}
@@ -123,6 +174,7 @@ export default function EncyclopediaPage({
           Znaleziono <strong className="text-gray-900">{filtered.length}</strong> haseł
           {search && ` dla frazy „${search}"`}
           {selectedCategory !== 'all' && ` w kategorii „${categories.find(c => c.id === selectedCategory)?.label}"`}
+          {selectedDecade !== 'all' && ` – ${decades.find(d => d.id === selectedDecade)?.label.toLowerCase()}`}
         </p>
       </div>
 
@@ -133,7 +185,7 @@ export default function EncyclopediaPage({
           <h3 className="text-lg font-semibold text-gray-700 mb-2">Brak wyników</h3>
           <p className="text-gray-500 text-sm">Spróbuj zmienić kryteria wyszukiwania</p>
           <button
-            onClick={() => { setSearch(''); setSelectedCategory('all'); }}
+            onClick={() => { setSearch(''); setSelectedCategory('all'); setSelectedDecade('all'); }}
             className="mt-4 text-red-700 hover:underline text-sm"
           >
             Wyczyść filtry

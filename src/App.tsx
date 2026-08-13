@@ -12,10 +12,12 @@ import SlangPage from './components/SlangPage';
 import BiosPage from './components/BiosPage';
 import PressPage from './components/PressPage';
 import QuizPage from './components/QuizPage';
+import IndexPage from './components/IndexPage';
+import ComparePage from './components/ComparePage';
 import { entries } from './data/entries';
 import type { Category } from './data/entries';
 
-type View = 'home' | 'encyclopedia' | 'entry' | 'timeline' | 'archives' | 'about' | 'map' | 'slang' | 'bios' | 'press' | 'quiz';
+type View = 'home' | 'encyclopedia' | 'entry' | 'timeline' | 'archives' | 'about' | 'map' | 'slang' | 'bios' | 'press' | 'quiz' | 'index' | 'compare';
 
 export default function App() {
   const [view, setView] = useState<View>('home');
@@ -83,6 +85,11 @@ export default function App() {
         return <PressPage onNavigate={handleNavigate} />;
       case 'quiz':
         return <QuizPage onNavigate={handleNavigate} />;
+      case 'index':
+        return <IndexPage onNavigate={handleNavigate} />;
+      case 'compare':
+        // hasło otwarte przed przejściem trafia do lewej kolumny
+        return <ComparePage onNavigate={handleNavigate} initialLeft={entryId} key={entryId} />;
       default:
         return <HomePage onNavigate={handleNavigate} onNavigateWithCategory={handleNavigateWithCategory} />;
     }

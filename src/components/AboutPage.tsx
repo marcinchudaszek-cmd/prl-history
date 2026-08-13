@@ -14,6 +14,9 @@ export default function AboutPage({ onNavigate }: AboutPageProps) {
     { icon: '📰', title: 'Archiwum prasy PRL', desc: 'Skany „Trybuny Ludu”, prasy katolickiej i wydawnictw drugiego obiegu' },
     { icon: '🎓', title: 'Quiz wiedzy o PRL', desc: 'Pytania układane za każdym razem od nowa z haseł, ciekawostek i osi czasu' },
     { icon: '🎲', title: 'Losowe hasło', desc: 'Skok do przypadkowego hasła – sposób na natrafienie na coś, czego się nie szukało' },
+    { icon: '🔤', title: 'Indeks alfabetyczny', desc: 'Wszystkie hasła od A do Z, ze skokami literowymi i filtrem kategorii' },
+    { icon: '⇄', title: 'Porównanie haseł', desc: 'Dwa hasła obok siebie: zakres lat, obudowa źródłowa, zawartość i wspólne tagi' },
+    { icon: '📅', title: 'Filtr dekad', desc: 'Zawężanie encyklopedii do lat 40., 50., 60., 70. lub 80.' },
   ];
 
   const plannedFeatures = [
