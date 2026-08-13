@@ -10,12 +10,13 @@ export default function AboutPage({ onNavigate }: AboutPageProps) {
     { icon: '🗺️', title: 'Interaktywna mapa PRL', desc: 'Miejsca represji, strajków, ośrodków oporu i kultury na mapie Polski' },
     { icon: '👤', title: 'Biogramy postaci', desc: 'Profile przywódców, dysydentów, twórców i ofiar systemu, pogrupowane tematycznie' },
     { icon: '🏚️', title: 'Słownik slangu PRL', desc: '„Kombinowanie”, „cinkciarz”, „teczka”, „ścieżka zdrowia” – język epoki z wyjaśnieniami' },
-    { icon: '🗂️', title: 'Archiwum zasobów cyfrowych', desc: 'Katalog instytucji i archiwów (IPN, AAN, NINATEKA, POLONA) z linkami do źródeł' },
+    { icon: '🗂️', title: 'Archiwum zasobów cyfrowych', desc: 'Katalog instytucji i archiwów (IPN, AAN, NINATEKA) z linkami do źródeł' },
+    { icon: '📰', title: 'Archiwum prasy PRL', desc: 'Skany „Trybuny Ludu”, prasy katolickiej i wydawnictw drugiego obiegu' },
+    { icon: '🎓', title: 'Quiz wiedzy o PRL', desc: 'Pytania układane za każdym razem od nowa z haseł, ciekawostek i osi czasu' },
+    { icon: '🎲', title: 'Losowe hasło', desc: 'Skok do przypadkowego hasła – sposób na natrafienie na coś, czego się nie szukało' },
   ];
 
   const plannedFeatures = [
-    { icon: '📰', title: 'Archiwum prasy PRL', desc: '"Trybuna Ludu", "Tygodnik Solidarność", podziemne wydawnictwa – skany i OCR' },
-    { icon: '🎓', title: 'Quizy i testy wiedzy', desc: 'Edukacyjne quizy sprawdzające wiedzę o historii PRL' },
     { icon: '💬', title: 'Oral history – relacje świadków', desc: 'Nagrane wspomnienia osób pamiętających czasy PRL, z możliwością dodawania własnych' },
     { icon: '📊', title: 'Infografiki gospodarcze', desc: 'Interaktywne wykresy długu, cen, PKB, reglamentacji i porównania z Zachodem' },
     { icon: '🌐', title: 'Wielojęzyczność', desc: 'Wersje w języku angielskim i niemieckim dla zagranicznych badaczy i Polonii' },

@@ -24,6 +24,7 @@ export default function Header({ onSearch, onNavigate, activeView }: HeaderProps
     { id: 'slang', label: 'Słownik' },
     { id: 'press', label: 'Prasa' },
     { id: 'archives', label: 'Archiwum' },
+    { id: 'quiz', label: 'Quiz' },
     { id: 'about', label: 'O projekcie' },
   ];
 
@@ -76,6 +77,18 @@ export default function Header({ onSearch, onNavigate, activeView }: HeaderProps
               </button>
             </div>
           </form>
+
+          {/* Losowe hasło */}
+          <button
+            onClick={() => onNavigate('random')}
+            title="Otwórz losowe hasło"
+            className="hidden sm:flex items-center gap-1.5 px-3 py-2 rounded-md border border-white/20 hover:bg-white/10 text-gray-200 hover:text-white text-sm transition-colors flex-shrink-0"
+          >
+            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4h5l11 11v5M20 4h-5L4 15v5M15 4h5v5M15 20h5v-5" />
+            </svg>
+            Losowe
+          </button>
 
           {/* GitHub link */}
           <a
@@ -156,6 +169,15 @@ export default function Header({ onSearch, onNavigate, activeView }: HeaderProps
                   </button>
                 </li>
               ))}
+              {/* na wąskich ekranach przycisk „Losowe” z paska jest ukryty */}
+              <li>
+                <button
+                  onClick={() => { onNavigate('random'); setMenuOpen(false); }}
+                  className="w-full text-left px-4 py-3 text-sm font-medium text-gray-300 hover:text-white hover:bg-white/5 transition-colors"
+                >
+                  Losowe hasło
+                </button>
+              </li>
             </ul>
           )}
         </div>

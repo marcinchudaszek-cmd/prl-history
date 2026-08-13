@@ -11,9 +11,11 @@ import MapPage from './components/MapPage';
 import SlangPage from './components/SlangPage';
 import BiosPage from './components/BiosPage';
 import PressPage from './components/PressPage';
+import QuizPage from './components/QuizPage';
+import { entries } from './data/entries';
 import type { Category } from './data/entries';
 
-type View = 'home' | 'encyclopedia' | 'entry' | 'timeline' | 'archives' | 'about' | 'map' | 'slang' | 'bios' | 'press';
+type View = 'home' | 'encyclopedia' | 'entry' | 'timeline' | 'archives' | 'about' | 'map' | 'slang' | 'bios' | 'press' | 'quiz';
 
 export default function App() {
   const [view, setView] = useState<View>('home');
@@ -22,6 +24,15 @@ export default function App() {
   const [categoryFilter, setCategoryFilter] = useState<Category | 'all'>('all');
 
   const handleNavigate = (newView: string, id?: string) => {
+    // „losowe” to nie widok, tylko skok do wylosowanego hasła
+    if (newView === 'random') {
+      const pool = entries.filter(e => e.id !== entryId);
+      const target = pool[Math.floor(Math.random() * pool.length)];
+      setEntryId(target.id);
+      setView('entry');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+      return;
+    }
     setView(newView as View);
     if (id) setEntryId(id);
     window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -70,6 +81,8 @@ export default function App() {
         return <BiosPage onNavigate={handleNavigate} />;
       case 'press':
         return <PressPage onNavigate={handleNavigate} />;
+      case 'quiz':
+        return <QuizPage onNavigate={handleNavigate} />;
       default:
         return <HomePage onNavigate={handleNavigate} onNavigateWithCategory={handleNavigateWithCategory} />;
     }
