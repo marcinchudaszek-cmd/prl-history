@@ -24915,24 +24915,21 @@ To jedno z najwybitniejszych dzieł Wajdy i wielki fresk o narodzinach przemysł
     summary: 'Lekkoatleta, skoczek wzwyż; jako 19-latek zdobył złoto olimpijskie w Montrealu 1976, a w 1980 ustanowił rekord świata.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wszola_Jacek.jpg?width=800',
     imageCaption: 'Jacek Wszoła',
-    content: `## Sylwetka
-Jacek Wszoła (ur. 1956) to jeden z najwybitniejszych polskich lekkoatletów, skoczek wzwyż i gwiazda królowej sportu.
+    content: `## Cudowne dziecko Montrealu
+Jacek Wszoła (ur. 1956) wygrał mistrzostwa Europy juniorów w 1975 roku, a rok później, mając dziewiętnaście lat, zdobył w Montrealu złoty medal olimpijski w skoku wzwyż. Przylgnęło do niego określenie „cudowne dziecko Montrealu”.
 
-## Montreal 1976
-Jako zaledwie 19-latek zdobył złoty medal olimpijski w skoku wzwyż na igrzyskach w Montrealu.
+## Dwa medale, dwa rekordy igrzysk
+W Moskwie w 1980 roku był drugi. W obu startach olimpijskich poprawiał rekord igrzysk – rzadki przypadek, by zawodnik zrobił to dwukrotnie. Do dorobku dołożył halowe mistrzostwo Europy i złoto uniwersjady.
 
-## Moskwa 1980
-Na kolejnych igrzyskach w Moskwie wywalczył srebrny medal.
+## Technika i moment historyczny
+Kariera Wszoły przypadła na lata, w których skok wzwyż przechodził na technikę flop, spopularyzowaną po 1968 roku. Wymagała ona miękkich materacy zamiast piasku i trocin, co w polskich warunkach oznaczało, że o poziomie treningu decydowało wyposażenie obiektu, a nie tylko talent zawodnika.
 
-## Rekord świata
-W 1980 roku ustanowił rekord świata w skoku wzwyż.
-
-## Technika
-Reprezentował nowoczesny styl „flop” – skok przewrotem tyłem, który zrewolucjonizował tę konkurencję.
-
-## Znaczenie
-Wszoła to ikona polskiej lekkoatletyki lat 70. i 80. i wzór dla kolejnych pokoleń.`,
-    trivia: ['Złoto olimpijskie w Montrealu 1976 zdobył jako zaledwie 19-latek.', 'W 1980 roku ustanowił rekord świata w skoku wzwyż.'],
+## Sport jako wizytówka
+Medale olimpijskie były w PRL walutą propagandową: sukces sportowca pokazywano jako dowód wyższości systemu, a kroniki filmowe i prasa poświęcały mu więcej miejsca niż wynikom gospodarczym. Montreal 1976 wypadł kilka tygodni po czerwcowych strajkach w Radomiu i Ursusie – i był władzy potrzebny.`,
+    trivia: [
+      'Złoto olimpijskie zdobył w wieku 19 lat i nazywano go „cudownym dzieckiem Montrealu”.',
+      'W obu startach olimpijskich – 1976 i 1980 – poprawiał rekord igrzysk.',
+    ],
     resources: [
       {
         id: 'jw-yt',
@@ -27039,32 +27036,29 @@ To najsłynniejszy polski kabaret artystyczny i prawdziwa wylęgarnia talentów.
   {
     id: 'ikarus-autobusy',
     title: 'Autobusy Ikarus',
-    subtitle: '„Ogórki” i miejska komunikacja',
+    subtitle: 'Węgierskie autobusy na polskich ulicach',
     category: 'społeczeństwo',
     tags: ['technika', 'komunikacja', 'transport', 'RWPG', 'życie codzienne'],
     yearStart: 1970,
     yearEnd: 1989,
-    summary: 'Węgierskie Ikarusy były najpopularniejszymi autobusami miejskimi i dalekobieżnymi w PRL; przegubowy Ikarus 280 zyskał przydomek „ogórek”.',
+    summary: 'Węgierskie Ikarusy były w PRL podstawą komunikacji miejskiej i dalekobieżnej; przegubowy Ikarus 280 stał się najbardziej rozpoznawalnym autobusem epoki.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ikarus%20280.jpg?width=800',
-    imageCaption: 'Przegubowy Ikarus 280 – „ogórek”.',
-    content: `## Autobusy
-Węgierskie Ikarusy były najpopularniejszymi autobusami miejskimi i dalekobieżnymi w PRL, obecnymi w całym kraju.
-
-## Import z RWPG
-Sprowadzano je z Węgier w ramach wymiany handlowej w RWPG.
+    imageCaption: 'Przegubowy Ikarus 280.',
+    content: `## Skąd się wzięły
+Ikarusy sprowadzano z Węgier w ramach podziału produkcji w RWPG: kraje bloku specjalizowały się w wybranych wyrobach i wymieniały je między sobą, a autobusy przypadły Węgrom. Import na tak dużą skalę oznaczał, że polskie miasta jeździły sprzętem, na którego konstrukcję nie miały wpływu, ale też że nie musiały budować własnych mocy produkcyjnych.
 
 ## Modele
-Miejski Ikarus 260 i przegubowy Ikarus 280 to prawdziwe ikony komunikacji epoki.
+Podstawą były Ikarus 260 – autobus jednoczłonowy – oraz przegubowy Ikarus 280, zdolny zabrać ponad sto pięćdziesiąt osób. Ten drugi stał się najbardziej rozpoznawalnym autobusem epoki, obsługującym najbardziej obciążone linie w dużych miastach.
 
-## Ogórek
-Długi, przegubowy Ikarus 280 zyskał popularny przydomek „ogórek”.
+## Obok Jelcza
+Ikarusy nie miały monopolu: równolegle jeździły polskie Jelcze, w tym Jelcz 043 – licencyjna odmiana czechosłowackiej Škody 706 RTO, którą ze względu na kształt nadwozia nazywano „ogórkiem”. To Jelczowi, a nie Ikarusowi, należy się ten przydomek, choć w potocznej pamięci bywa on przypisywany obu.
 
-## PKS i MZK
-Ikarusy obsługiwały zarówno komunikację miejską (MZK), jak i dalekobieżną (PKS).
-
-## Znaczenie
-To nieodłączny element miejskiego pejzażu i codziennych dojazdów w PRL.`,
-    trivia: ['Przegubowy Ikarus 280 zyskał popularny przydomek „ogórek”.', 'Ikarusy sprowadzano z Węgier w ramach wymiany handlowej RWPG.'],
+## Codzienność
+Autobus był w PRL środkiem transportu podstawowym, nie uzupełniającym: przy niskiej motoryzacji indywidualnej dojazd do pracy oznaczał dla większości ludzi tłok w komunikacji miejskiej albo w dalekobieżnym PKS. Stan taboru i częstotliwość kursów były więc sprawą codziennego życia, a nie techniczną ciekawostką.`,
+    trivia: [
+      'Przydomek „ogórek” należał się polskiemu Jelczowi 043, licencyjnej odmianie Škody 706 RTO, a nie węgierskiemu Ikarusowi.',
+      'Przegubowy Ikarus 280 mógł zabrać ponad 150 pasażerów i obsługiwał najbardziej obciążone linie miejskie.',
+    ],
     resources: [
       {
         id: 'ikarus-autobusy-pkf',
@@ -27288,24 +27282,21 @@ To jedna z najbardziej cenionych polskich wokalistek epoki.`,
     yearStart: 1960,
     yearEnd: 1989,
     summary: 'Najpopularniejszy tani gramofon (adapter) w PRL – walizkowe Bambino było marzeniem wielu domów i centrum młodzieżowych potańcówek.',
-    content: `## Gramofon
-Bambino to najpopularniejszy, tani gramofon (adapter) w PRL, marzenie wielu domów i młodzieży.
+    content: `## Gramofon dla każdego
+Bambino to monofoniczny gramofon lampowy produkowany od 1963 roku przez Łódzkie Zakłady Radiowe Fonica. Powstały cztery wersje: WG 252 Bambino, WG 262 Bambino 2, WG 263 Bambino 3 i WG 264 Bambino 4 z 1972 roku. Był to sprzęt tani, prosty i masowy – dla większości polskich domów pierwsze własne urządzenie do odtwarzania muzyki.
 
-## Produkcja
-Walizkowe adaptery produkowano masowo od lat 60. – były symbolem dostępnej domowej rozrywki.
+## Jak grał
+Konstrukcja miała swoją cenę: nacisk igły przekraczał we wszystkich modelach dziesięć gramów, co przy dłuższym używaniu niszczyło płyty. Cenniejszych nagrań na Bambinie raczej nie odtwarzano – po prostu je zdzierał. Głośnik i wzmacniacz były wbudowane, więc do grania nie trzeba było niczego dokupować, co przy ówczesnej dostępności sprzętu miało znaczenie rozstrzygające.
 
 ## Płyty
-Na Bambino słuchano singli i longplayów wytwórni Polskie Nagrania „Muza”.
+Bambino grało to, co można było kupić: płyty Polskich Nagrań, a także pocztówki dźwiękowe – nagrania tłoczone na cienkiej folii, sprzedawane na bazarach, często z zachodnimi przebojami skopiowanymi z radia. To one bywały jedynym sposobem, by mieć u siebie muzykę, której państwowa wytwórnia nie wydawała.
 
-## Pocztówki dźwiękowe
-Ogromną popularnością cieszyły się „pocztówki dźwiękowe” – elastyczne płytki z nadrukowanym obrazkiem.
-
-## Kultura młodzieżowa
-Adapter był centrum domowych potańcówek i słuchania big-beatu.
-
-## Znaczenie
-Bambino to nostalgiczny symbol domowej muzyki epoki.`,
-    trivia: ['Popularne „pocztówki dźwiękowe” to elastyczne płytki z nadrukowanym obrazkiem.', 'Walizkowy adapter Bambino był marzeniem i centrum domowych potańcówek.'],
+## Symbol
+Nazwa stała się potocznym określeniem gramofonu w ogóle. Dla pokolenia dorastającego w latach 60. i 70. Bambino było tym, czym dla następnych magnetofon kasetowy: pierwszym urządzeniem, przez które muzyka stawała się czymś prywatnym.`,
+    trivia: [
+      'Nacisk igły przekraczał we wszystkich modelach 10 gramów, więc gramofon niszczył cenniejsze płyty.',
+      'Obok zwykłych płyt grano na nim pocztówki dźwiękowe – nagrania tłoczone na cienkiej folii, kupowane na bazarach.',
+    ],
     resources: [
       {
         id: 'ab-yt',
@@ -27407,24 +27398,21 @@ To jeden z kluczowych filmów Kieślowskiego i całego nurtu moralnego niepokoju
     summary: 'Lekkoatleta, tyczkarz; w 1976 zdobył złoty medal olimpijski w Montrealu, a w 1980 srebro; przedstawiciel złotej generacji polskiej tyczki.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tadeusz%20%C5%9Alusarski.jpg?width=800',
     imageCaption: 'Tadeusz Ślusarski – mistrz olimpijski w skoku o tyczce.',
-    content: `## Sylwetka
-Tadeusz Ślusarski (1950–1998) to lekkoatleta, tyczkarz i mistrz olimpijski.
+    content: `## Droga do Montrealu
+Tadeusz Ślusarski (1950–1998) pochodził z Żar. Na igrzyska pojechał trzy razy, ale pierwszy start w Monachium w 1972 roku skończył się dla niego katastrofą: w finale nie zaliczył ani jednej wysokości. Cztery lata później w Montrealu wrócił jako zawodnik ukształtowany – i wygrał.
 
-## Montreal 1976
-Zdobył złoty medal olimpijski w skoku o tyczce na igrzyskach w Montrealu.
+## Złoto i srebro
+W Montrealu w 1976 roku zdobył złoty medal olimpijski w skoku o tyczce. W Moskwie w 1980 roku był drugi. Do tego dołożył dwa tytuły halowego mistrza Europy i srebro uniwersjady. Jego kariera przypadła na moment, w którym polska tyczka liczyła się w świecie – cztery lata po jego złocie Władysław Kozakiewicz wygrał w Moskwie konkurs zakończony słynnym gestem pod adresem gwiżdżącej publiczności.
 
-## Moskwa 1980
-Na kolejnych igrzyskach w Moskwie wywalczył srebrny medal.
+## Warunki
+Sport wyczynowy w PRL był etatem: zawodnicy formalnie pracowali w klubach związanych z zakładami pracy, wojskiem lub milicją, a treningi łączono z fikcyjnymi posadami. Sprzęt – w skoku o tyczce kluczowy, bo tyczki z włókna szklanego zmieniły dyscyplinę – sprowadzano z Zachodu za dewizy, więc dostęp do niego był reglamentowany.
 
-## Złota tyczka
-Należał do złotej generacji polskich skoczków o tyczce, która przez lata liczyła się w świecie.
-
-## Tragedia 1998
-Zginął w wypadku samochodowym razem z Władysławem Komarem.
-
-## Znaczenie
-To jeden z wybitnych polskich lekkoatletów lat 70. i 80.`,
-    trivia: ['Złoto olimpijskie w skoku o tyczce zdobył w Montrealu w 1976 roku.', 'Zginął w 1998 w tym samym wypadku samochodowym co Władysław Komar.'],
+## Śmierć
+Zginął 17 sierpnia 1998 roku w wypadku samochodowym pod Przybiernowem. W tym samym wypadku zginął Władysław Komar, mistrz olimpijski w pchnięciu kulą z Monachium. Dwaj medaliści olimpijscy w jednym samochodzie – ta zbieżność sprawiła, że wypadek stał się jednym z najgłośniejszych wydarzeń w historii polskiego sportu.`,
+    trivia: [
+      'Na swoich pierwszych igrzyskach, w Monachium w 1972 roku, nie zaliczył w finale ani jednej wysokości.',
+      'Zginął w tym samym wypadku samochodowym co Władysław Komar, mistrz olimpijski w pchnięciu kulą.',
+    ],
     resources: [
       {
         id: 'ts2-yt',
@@ -27861,24 +27849,21 @@ To jeden z klasyków polskiej szkoły filmowej i mistrzowski popis kina kameraln
     summary: 'Pierwszy polski girlsband, założony w 1959 w szczecińskim technikum; u szczytu popularności „Batumi” nuciła cała Polska, a o zespole pisał „Billboard”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Filipinki_1966.jpg?width=800',
     imageCaption: 'Filipinki',
-    content: `## Zespół
-Filipinki to pierwszy polski girlsband, założony w 1959 roku w szczecińskim technikum przez nauczyciela Jana Janikowskiego.
+    content: `## Zespół ze szkoły
+Filipinki powstały w listopadzie 1959 roku przy Technikum Handlowym w Szczecinie, z okazji piętnastolecia szkoły. Założył je Jan Janikowski, nauczyciel ekonomii, towaroznawstwa i muzyki. Nazwa pochodziła od tytułu pisma dla dziewcząt „Filipinka”.
 
-## Nazwa
-Nazwę zespół przyjął od dwutygodnika „Filipinka”.
+## Pierwszy dziewczęcy zespół
+Był to pierwszy polski dziewczęcy zespół wokalny, który zdobył popularność w skali kraju. Śpiewały wielogłosowo, w jednakowych sukienkach, z repertuarem lekkim i obyczajowym – formuła bezpieczna dla cenzury i akceptowalna dla władz, a jednocześnie nowa dla publiczności.
 
-## Przeboje
-Największe przeboje to „Batumi”, „Wala twist”, „Bal arlekina” i „Do widzenia, profesorze”.
-
-## Fenomen
-U szczytu popularności (1963–1965) ich piosenki nucił cały kraj; pisał o nich nawet amerykański „Billboard”.
-
-## Girlsband
-Zapoczątkowały w bloku wschodnim modę na żeńskie zespoły wokalne.
+## Kariera
+Nagrywały dla radia, występowały na festiwalach i wyjeżdżały na trasy zagraniczne, także poza blok wschodni. Skład zmieniał się wraz z kolejnymi rocznikami uczennic, co odróżniało je od typowych zespołów estradowych.
 
 ## Znaczenie
-To pionierki polskiej muzyki młodzieżowej i pierwszy rodzimy girlsband.`,
-    trivia: ['To pierwszy polski girlsband – pisał o nim nawet amerykański „Billboard”.', 'Nazwę wzięły od dwutygodnika „Filipinka”.'],
+Filipinki pokazały, że popularna muzyka młodzieżowa może w PRL powstać poza wielkimi ośrodkami i poza państwowymi instytucjami – z inicjatywy szkolnego nauczyciela. Dla wielu późniejszych zespołów były dowodem, że taka droga jest w ogóle możliwa.`,
+    trivia: [
+      'Zespół założył nauczyciel ekonomii i muzyki w szczecińskim technikum handlowym.',
+      'Nazwa pochodzi od tytułu popularnego pisma dla dziewcząt „Filipinka”.',
+    ],
     resources: [
       {
         id: 'fp2-yt',
@@ -28311,24 +28296,21 @@ To jedna z ulubionych komedii „kina Barei”.`,
     summary: 'Gwiazda polskiej estrady lat 60., „dziewczyna big-beatu”; przeboje „O mnie się nie martw” i „Biedroneczki są w kropeczki” śpiewała cała Polska.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kasia%20Sobczyk.jpg?width=800',
     imageCaption: 'Kasia Sobczyk',
-    content: `## Sylwetka
-Katarzyna „Kasia” Sobczyk (1945–2010) to gwiazda polskiej estrady lat 60., zwana „dziewczyną big-beatu”.
+    content: `## Piosenkarka big-beatu
+Katarzyna Sobczyk (1945–2010), właściwie Kazimiera Sobczyk-Sawicka, była jedną z najpopularniejszych wokalistek okresu big-beatu. Występowała z zespołem Czerwono-Czarni, a jej wizerunek – drobna sylwetka i charakterystyczna grzywka – stał się rozpoznawalnym znakiem epoki.
 
 ## Przeboje
-Największe hity to „O mnie się nie martw”, „Biedroneczki są w kropeczki” i „Nie wiem, czy to warto”.
+Największą popularność przyniosły jej piosenki „O mnie się nie martw” i „Mały książę”. Repertuar pisali dla niej czołowi twórcy estradowi tamtych lat, a nagrania trafiały do radia i na festiwale w Opolu i Sopocie – trzy kanały, które w praktyce decydowały wtedy o rozgłosie.
 
-## Opole i Sopot
-Triumfowała na krajowych festiwalach; „Biedroneczkami” zachwyciła nawet szefa paryskiej Olympii.
+## Estrada jako instytucja
+Kariera piosenkarki w PRL toczyła się w ramach państwowych agencji artystycznych: to one organizowały trasy, przydzielały stawki i decydowały o wyjazdach zagranicznych. Teksty przechodziły przez cenzurę, co pchało piosenkę w stronę tematów obyczajowych i lirycznych.
 
-## Czerwono-Czarni
-Występowała z zespołem Czerwono-Czarni, współtworząc scenę big-beatu.
-
-## Wizerunek
-Była pogodną, dziewczęcą ikoną epoki i idolką młodzieży.
-
-## Znaczenie
-To jedna z najpopularniejszych polskich wokalistek lat 60.`,
-    trivia: ['„Biedroneczki są w kropeczki” zachwyciły szefa paryskiej Olympii.', 'Występowała z zespołem Czerwono-Czarni.'],
+## Później
+W kolejnych dekadach występowała rzadziej, wracając głównie przy okazji koncertów wspominających big-beat. Jej piosenki pozostały jednak w powszechnym obiegu jako muzyczny skrót lat 60.`,
+    trivia: [
+      'Naprawdę nazywała się Kazimiera Sobczyk-Sawicka – „Kasia” było imieniem scenicznym.',
+      'O rozgłosie piosenkarki decydowały wtedy trzy kanały: radio oraz festiwale w Opolu i Sopocie.',
+    ],
     resources: [
       {
         id: 'ks2-yt',
@@ -28536,24 +28518,21 @@ To klasyk komedii „kina Barei”, pełen kultowych scen.`,
     summary: 'Wokalistka rock and rolla i big-beatu, „dziewczyna z gitarą”; z Czerwono-Czarnymi nagrała przebój „Malowana lala”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Karin_Stanek%2C_1967_r.jpg?width=800',
     imageCaption: 'Karin Stanek',
-    content: `## Sylwetka
-Karin Stanek (1943–2011) to wokalistka rock and rolla i big-beatu, zwana „dziewczyną z gitarą”.
-
-## Czerwono-Czarni
-Zadebiutowała utworem „Jimmy Joe”, wygrywając konkurs młodych talentów zespołu Czerwono-Czarni.
-
-## Malowana lala
-Przebój „Malowana lala” (Sopot 1962) stał się jej muzycznym znakiem firmowym.
-
-## Chłopczyca
-Nietypowy, chłopięcy wizerunek i sceniczna energia wyróżniały ją na tle estrady.
+    content: `## Dziewczyna z gitarą
+Karin Stanek (1943–2011) pochodziła z Bytomia i śpiewała w zespole Czerwono-Czarni. Na scenie zachowywała się inaczej niż ówczesne wokalistki: energicznie, chłopięco, bez estradowej sztuczności – i to zdecydowało o jej pozycji jako jednego z symboli polskiego big-beatu.
 
 ## Przeboje
-W dorobku ma też „Jedziemy autostopem”, „Chłopiec z gitarą” i „Wala twist”.
+Jej najbardziej znane nagrania to „Malowana lala” (właściwie „Malowana piosenka”), „Chłopiec z gitarą”, „Jedziemy autostopem” i „Jimmy Joe”. „Jedziemy autostopem” stało się nieformalnym hymnem młodzieżowego stopowania – sposobu podróżowania, który w latach 60. miał w Polsce własny, oficjalnie firmowany system książeczek autostopowicza.
 
-## Znaczenie
-To jedna z pierwszych gwiazd polskiego rock and rolla.`,
-    trivia: ['Zadebiutowała utworem „Jimmy Joe”, wygrywając konkurs Czerwono-Czarnych.', 'Wyróżniał ją chłopięcy wizerunek „dziewczyny z gitarą”.'],
+## Emigracja
+W latach 60. należała do najpopularniejszych polskich piosenkarek. Później wyjechała do Republiki Federalnej Niemiec, gdzie mieszkała do końca życia i gdzie zmarła w Wolfenbüttel. Powroty na polskie sceny były rzadkie.
+
+## Miejsce w epoce
+Stanek pokazuje, jak krótkie bywały kariery estradowe w PRL: pozycja gwiazdy zależała od dostępu do radia, festiwali i państwowych agencji, a wyjazd z kraju oznaczał w praktyce zniknięcie z tego obiegu.`,
+    trivia: [
+      'Śpiewała „Jedziemy autostopem” w czasach, gdy autostop w Polsce miał oficjalny system książeczek dla podróżujących.',
+      '„Malowana lala” to potoczny tytuł – piosenka nazywa się w istocie „Malowana piosenka”.',
+    ],
     resources: [
       {
         id: 'kst-yt',
@@ -28593,24 +28572,21 @@ To jedna z pierwszych gwiazd polskiego rock and rolla.`,
     summary: 'Popularny aktor komediowy i charakterystyczny, ulubieniec publiczności; grał Tomasza Czereśniaka w „Czterech pancernych i psie”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wies%C5%82aw%20Go%C5%82as%20w%20latach%2060.jpg?width=800',
     imageCaption: 'Wiesław Gołas – aktor komediowy.',
-    content: `## Sylwetka
-Wiesław Gołas (1930–2021) to popularny aktor komediowy i charakterystyczny, prawdziwy ulubieniec publiczności.
+    content: `## Aktor
+Wiesław Gołas (1930–2021) był aktorem teatralnym, filmowym i kabaretowym, a także wykonawcą piosenki aktorskiej. Miał rzadką umiejętność łączenia komedii z rolami dramatycznymi bez utraty wiarygodności w żadnej z nich.
 
-## Czterej pancerni
-Szerokiej widowni znany jest jako energiczny Tomasz Czereśniak w serialu „Czterej pancerni i pies”.
+## Role
+Widzowie znali go przede wszystkim jako Tomka Czereśniaka z „Czterech pancernych i psa” oraz z ról u Stanisława Barei i Wojciecha Hasa – w „Lalce” z 1968 roku zagrał barona Krzeszowskiego. Występował też w Kabarecie Dudek, jednej z najważniejszych scen satyrycznych PRL.
 
-## Kabaret
-Błyszczał w kabarecie (m.in. Dudek) i piosence aktorskiej – jego „Czterdziestu chłopa” to przebój.
+## Kabaret w PRL
+Kabaret był w tamtych latach dziedziną szczególną: żył z aluzji, których cenzura nie mogła zapisać wprost, a publiczność rozumiała natychmiast. Aktor kabaretowy musiał operować tonem i pauzą, bo to one niosły treść, której nie było w zatwierdzonym tekście.
 
-## Teatr i film
-Zagrał w wielu komediach i sztukach, będąc mistrzem komicznego drugiego planu.
-
-## Estrada
-Był charyzmatycznym, ciepłym wykonawcą piosenek i skeczów.
-
-## Znaczenie
-To jeden z najbardziej lubianych polskich aktorów komediowych.`,
-    trivia: ['Grał Tomasza Czereśniaka w „Czterech pancernych i psie”.', 'Błyszczał także w kabarecie i piosence aktorskiej.'],
+## Pozycja
+Gołas należał do aktorów, których obecność w obsadzie była dla widza rekomendacją filmu. Grał dziesiątki ról drugoplanowych, które zapamiętywano lepiej niż niejedną rolę główną.`,
+    trivia: [
+      'Jako Tomek Czereśniak w „Czterech pancernych” stał się jedną z najbardziej rozpoznawalnych postaci polskiej telewizji.',
+      'W „Lalce” Wojciecha Hasa z 1968 roku zagrał barona Krzeszowskiego.',
+    ],
     resources: [
       {
         id: 'wg-yt',
@@ -28769,24 +28745,21 @@ To jedna z najcieplejszych komedii PRL, obejrzana w kinach przez miliony widzów
     summary: 'Wokalistka big-beatu zwana „królową twista”; energicznymi przebojami jak „Czarny Alibaba” porywała młodzież początku lat 60.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Szczecin_Helena_Majdaniec_pomnik.jpg?width=800',
     imageCaption: 'Helena Majdaniec',
-    content: `## Sylwetka
-Helena Majdaniec (1941–2002) to wokalistka big-beatu, zwana „królową twista”.
-
-## Twist
-Porywała publiczność energicznym twistem i rock and rollem, wpisując się w światową modę na taniec.
+    content: `## Królowa twista
+Helena Majdaniec (1941–2002) była jedną z czołowych wokalistek polskiego big-beatu i zyskała przydomek „królowej twista”. Karierę zaczynała w Szczecinie, a rozgłos przyniósł jej występ na festiwalu w Sopocie i współpraca z zespołem Czerwono-Czarni.
 
 ## Przeboje
-Największe hity to „Czarny Alibaba”, „Rudy rydz”, „Wesoły twist” i „Jutro będzie dobry dzień”.
+Do najpopularniejszych jej nagrań należą „Czarny Alibaba” i „Jak długo jeszcze”. Śpiewała szybko, rytmicznie i z dużą swobodą sceniczną – w epoce, w której estrada dopiero uczyła się takiego stylu.
 
-## Niebiesko-Czarni
-Nagrywała i występowała m.in. z zespołem Niebiesko-Czarni.
+## Big-beat jako kompromis
+Władze traktowały big-beat nieufnie, ale uznały go za mniejsze zło niż rock zachodni: polskie zespoły grały po polsku, występowały w państwowych agencjach estradowych i podlegały cenzurze tekstów. Powstał w ten sposób obieg muzyki młodzieżowej kontrolowany, lecz autentycznie popularny.
 
-## Estrada
-Pełna energii, taneczna obecność sceniczna czyniła z niej idolkę młodzieży.
-
-## Znaczenie
-To jedna z pierwszych gwiazd polskiej muzyki młodzieżowej.`,
-    trivia: ['Nazywano ją „królową twista”.', 'Pierwsza nagrała „Czarnego Alibabę” – później wielki przebój Andrzeja Zauchy.'],
+## Francja
+Od 1968 roku mieszkała we Francji, gdzie kontynuowała pracę artystyczną. Do Polski wróciła po latach; zmarła w Szczecinie, mieście, w którym zaczynała.`,
+    trivia: [
+      'Nazywano ją „królową twista” – ten taniec był w Polsce początku lat 60. symbolem młodzieżowej nowoczesności.',
+      'Od 1968 roku mieszkała we Francji, a zmarła w Szczecinie, gdzie zaczynała karierę.',
+    ],
     resources: [
       {
         id: 'hm2-yt',
@@ -28826,24 +28799,21 @@ To jedna z pierwszych gwiazd polskiej muzyki młodzieżowej.`,
     summary: 'Wybitny aktor komediowy i charakterystyczny, mistrz mimiki i skeczu; filar legendarnego kabaretu Dudek.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Kobuszewski.jpg?width=800',
     imageCaption: 'Jan Kobuszewski – aktor komediowy i kabaretowy.',
-    content: `## Sylwetka
-Jan Kobuszewski (1934–2019) to wybitny aktor komediowy i charakterystyczny, mistrz mimiki i błyskotliwego skeczu.
+    content: `## Aktor i satyryk
+Jan Kobuszewski (1934–2019) był aktorem teatralnym, telewizyjnym i filmowym, reżyserem teatralnym oraz artystą kabaretowym. Wystąpił w około dwóch tysiącach programów telewizyjnych i kilkudziesięciu filmach.
 
-## Kabaret Dudek
-Był filarem legendarnego warszawskiego kabaretu Dudek Edwarda Dziewońskiego.
+## Bareja i kabaret
+Zagrał u Stanisława Barei w „Poszukiwany, poszukiwana” (1972), „Nie ma róży bez ognia” (1974) i „Brunecie wieczorową porą” (1976). Związany był z Kabaretem Dudek i kabaretem Olgi Lipińskiej – dwiema scenami, na których uprawiano satyrę możliwie ostrą w granicach wyznaczonych przez cenzurę.
 
-## Skecze
-Jego kultowe skecze, m.in. „Sęk” z językowymi łamańcami, są cytowane do dziś.
+## Role charakterystyczne
+Specjalizował się w rolach charakterystycznych, często niewielkich, ale zapadających w pamięć dzięki sposobowi mówienia i mimice. W komediach Barei takie epizody niosły często najostrzejsze obserwacje o absurdach codzienności.
 
-## Teatr i film
-Zagrał w teatrze oraz w licznych komediach filmowych, mistrzowsko budując drugi plan.
-
-## Warszawa
-Związany z warszawskimi scenami, przez dekady pozostawał ulubieńcem publiczności.
-
-## Znaczenie
-To jeden z najzabawniejszych i najbardziej lubianych polskich aktorów komediowych.`,
-    trivia: ['Był filarem legendarnego kabaretu Dudek.', 'Jego skecz „Sęk” z językowymi łamańcami jest cytowany do dziś.'],
+## Teatr
+Przez dziesięciolecia pozostawał aktorem teatralnym, głównie warszawskim. Popularność telewizyjna nie oderwała go od sceny, co w jego pokoleniu było regułą – telewizja była dodatkiem do etatu w teatrze, a nie zawodem samym w sobie.`,
+    trivia: [
+      'Wystąpił w około dwóch tysiącach programów telewizyjnych.',
+      'Grał w Kabarecie Dudek i w kabarecie Olgi Lipińskiej – dwóch najważniejszych scenach satyrycznych epoki.',
+    ],
     resources: [
       {
         id: 'jk2-yt',
@@ -29073,24 +29043,21 @@ To jeden z najbardziej rozpoznawalnych polskich zespołów estradowych; duet zak
     summary: 'Aktorka, jedna z największych gwiazd i „sex symbol” polskiego kina lat 60.; kultowa jako sanitariuszka Marusia w „Czterech pancernych i psie”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pola%20Raksa%20Ma%C5%82gorzata%20Niemirska%20Czterej%20pancerni%20i%20pies%201969.jpg?width=800',
     imageCaption: 'Pola Raksa (z lewej) w „Czterech pancernych i psie”.',
-    content: `## Sylwetka
-Pola Raksa (ur. 1941) to aktorka, jedna z największych gwiazd i „sex symbol” polskiego kina lat 60.
+    content: `## Aktorka
+Pola Raksa, właściwie Apolonia Raksa (ur. 1941 w Lidzie), należy do najpopularniejszych aktorek w historii polskiego kina. W latach 60. i 70. uchodziła za symbol urody polskiego ekranu.
 
 ## Marusia
-Najbardziej znana jest z kultowej roli radzieckiej sanitariuszki Marusi w serialu „Czterej pancerni i pies”.
+Rozpoznawalność w skali masowej przyniosła jej rola Marusi w serialu „Czterej pancerni i pies” (1966–1970). Serial oglądały miliony widzów, a jego bohaterowie stali się częścią wyobraźni całego pokolenia – co było zresztą jego zamierzoną funkcją, bo opowiadał historię wojny w wersji zgodnej z oficjalną wykładnią.
 
-## Uroda
-Jej uroda i wdzięk uczyniły ją idolką i marzeniem całego pokolenia widzów.
+## Poza serialem
+Grała też w kinie ambitniejszym, m.in. u Janusza Morgensterna i Wojciecha Hasa. Z czasem ograniczyła występy, a w ostatnich dekadach niemal całkowicie wycofała się z życia publicznego i nie udziela wywiadów.
 
-## Role
-Grała także m.in. w „Rękopisie znalezionym w Saragossie” i wielu innych filmach epoki.
-
-## Wycofanie
-Z czasem usunęła się z życia publicznego, co jeszcze spotęgowało jej legendę.
-
-## Znaczenie
-To jedna z najbardziej ikonicznych aktorek w historii polskiego kina.`,
-    trivia: ['Zasłynęła jako sanitariuszka Marusia w „Czterech pancernych i psie”.', 'Była uważana za „sex symbol” polskiego kina lat 60.'],
+## Gwiazda bez rynku
+Aktorka tej popularności w kraju zachodnim byłaby gwiazdą przemysłu filmowego. W PRL kino było instytucją państwową: honoraria ustalano taryfowo, a rozpoznawalność nie przekładała się na majątek. Sława istniała, rynek – nie.`,
+    trivia: [
+      'Rola Marusi w „Czterech pancernych” zapewniła jej rozpoznawalność, jakiej nie dałby żaden film kinowy.',
+      'Od dziesięcioleci nie udziela wywiadów i unika życia publicznego.',
+    ],
     resources: [
       {
         id: 'pr-yt',
@@ -29248,24 +29215,21 @@ To jeden z najważniejszych festiwali jazzowych Europy i duma polskiej kultury.`
     summary: 'Trębacz jazzowy i kompozytor światowej sławy, pionier europejskiego free jazzu; grał w kwintecie Komedy, nagrywał dla wytwórni ECM.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tomasz%20Stanko.jpg?width=800',
     imageCaption: 'Tomasz Stańko – trębacz jazzowy i kompozytor.',
-    content: `## Sylwetka
-Tomasz Stańko (1942–2018) to trębacz jazzowy i kompozytor światowej sławy, pionier europejskiego free jazzu.
+    content: `## Trębacz
+Tomasz Stańko (1942–2018) był trębaczem i kompozytorem, muzykiem o rozpoznawalnym od pierwszych dźwięków, chropawym brzmieniu. Uchodzi za najbardziej znanego na świecie polskiego jazzmana.
 
-## Komeda
-Grał w kwintecie Krzysztofa Komedy i uczestniczył w nagraniu legendarnego „Astigmatic” (1965).
+## Z Komedą
+Grał w kwintecie Krzysztofa Komedy i wziął udział w nagraniu „Astigmatic” (1966) – płyty uznawanej za najważniejszy album w historii polskiego jazzu i jedno z dzieł, które oderwały jazz europejski od wzorców amerykańskich.
 
-## Music for K
-Swój album „Music for K” (1970) zadedykował zmarłemu Komedzie.
-
-## Świat
-Zrobił międzynarodową karierę i nagrywał dla prestiżowej wytwórni ECM.
-
-## Styl
-Rozpoznawalny był jego liryczny, melancholijny, a zarazem awangardowy ton trąbki.
+## Własna droga
+Od przełomu lat 60. i 70. prowadził własne składy, zbliżając się do free jazzu. Wieloletnia współpraca z monachijską wytwórnią ECM przyniosła mu międzynarodową pozycję, a w ostatnich dekadach dzielił czas między Warszawę i Nowy Jork.
 
 ## Znaczenie
-To jeden z najwybitniejszych europejskich jazzmanów i ambasador polskiego jazzu.`,
-    trivia: ['Grał w kwintecie Komedy i uczestniczył w nagraniu „Astigmatic” (1965).', 'Nagrywał dla prestiżowej wytwórni ECM, robiąc światową karierę.'],
+Kariera Stańki pokazuje, jak wąskim gardłem był w PRL kontakt ze światem: o możliwości nagrywania i koncertowania za granicą decydowały paszport i dewizy. Jazz był jedną z nielicznych dziedzin, w których polski artysta mógł funkcjonować w obiegu zachodnim bez zrywania z krajem.`,
+    trivia: [
+      'Grał w kwintecie Krzysztofa Komedy przy nagraniu „Astigmatic”, uznawanego za najważniejszą polską płytę jazzową.',
+      'Przez lata nagrywał dla monachijskiej wytwórni ECM, co dało mu pozycję w obiegu światowym.',
+    ],
     resources: [
       {
         id: 'st-yt',
@@ -29481,24 +29445,21 @@ To jeden z najważniejszych polskich kabaretów i wzór dla następnych pokoleń
     summary: 'Saksofonista i kompozytor, jeden z filarów polskiego jazzu; łączył jazz z folklorem, a jego album „Winobranie” (1973) to klasyk gatunku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Namyslowski%20Zbigniew.jpg?width=800',
     imageCaption: 'Zbigniew Namysłowski – saksofonista jazzowy.',
-    content: `## Sylwetka
-Zbigniew Namysłowski (1939–2022) to saksofonista, kompozytor i jeden z filarów polskiego jazzu.
+    content: `## Muzyk
+Zbigniew Namysłowski (1939–2022) był saksofonistą, kompozytorem i aranżerem, jedną z najważniejszych postaci polskiego jazzu. Zaczynał na wiolonczeli i puzonie, zanim wybrał saksofon altowy.
 
-## Winobranie
-Jego album „Winobranie” (1973) uchodzi za jeden z klasyków polskiego jazzu.
+## Lola
+W 1964 roku nagrał w Londynie płytę „Lola” – pierwszy album polskiego muzyka jazzowego zarejestrowany i wydany na Zachodzie. W państwie reglamentującym paszporty i dewizy sam wyjazd na taką sesję był wydarzeniem, a płyta stała się dowodem, że polski jazz gra w tej samej lidze co zachodni.
 
-## Folklor
-Łączył jazz z polskim i góralskim folklorem, tworząc rozpoznawalny, oryginalny styl.
+## Współpracownicy
+Grał z Krzysztofem Komedą, Czesławem Niemenem, Michałem Urbaniakiem i Januszem Muniakiem, a w późniejszych latach z Leszkiem Możdżerem. Jego kwartety i kwintety były szkołą dla kolejnych pokoleń muzyków.
 
-## Świat
-Koncertował na całym świecie, współpracując z międzynarodowymi gwiazdami jazzu.
-
-## Jazz Jamboree
-Był stałym bywalcem i gwiazdą festiwalu Jazz Jamboree.
-
-## Znaczenie
-To jeden z najwybitniejszych polskich jazzmanów w historii.`,
-    trivia: ['Jego album „Winobranie” (1973) to klasyk polskiego jazzu.', 'Łączył jazz z polskim i góralskim folklorem.'],
+## Jazz i władza
+Jazz w pierwszej połowie lat 50. był w Polsce tępiony jako muzyka imperialistyczna i grano go w prywatnych mieszkaniach – stąd określenie „okres katakumbowy”. Po 1956 roku władze zmieniły podejście: jazz stał się dowodem otwartości, a festiwal Jazz Jamboree jedną z niewielu imprez, na które regularnie przyjeżdżali artyści z Zachodu.`,
+    trivia: [
+      'Jego płyta „Lola” z 1964 roku była pierwszym albumem polskiego jazzmana nagranym i wydanym na Zachodzie.',
+      'Zaczynał od wiolonczeli i puzonu, a saksofon altowy wybrał dopiero później.',
+    ],
     resources: [
       {
         id: 'zn-yt',
@@ -29952,24 +29913,21 @@ To kultowy film o polskiej codzienności i tęsknocie za czymś więcej.`,
     summary: 'Wokalistka jazzowa światowej sławy, mistrzyni improwizacji głosem; jej utwór „Papaya” stał się światowym przebojem.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Urszula%20Dudziak.jpg?width=800',
     imageCaption: 'Urszula Dudziak – wokalistka jazzowa.',
-    content: `## Sylwetka
-Urszula Dudziak (ur. 1943) to wokalistka jazzowa światowej sławy, mistrzyni improwizacji głosem.
+    content: `## Głos jako instrument
+Urszula Dudziak (ur. 1943) zbudowała karierę na traktowaniu głosu jak instrumentu: zamiast śpiewać słowa, operuje dźwiękiem, oddechem i szmerem, przepuszczając głos przez efekty elektroniczne. W latach 70. było to rozwiązanie nowatorskie w skali światowej.
 
 ## Papaya
-Jej utwór „Papaya” stał się światowym przebojem, a po latach także internetowym hitem.
+Największą rozpoznawalność przyniósł jej utwór „Papaya”, który po latach zyskał drugie życie w internecie i stał się przebojem w Azji Południowo-Wschodniej – przypadek polskiego nagrania z epoki PRL, które trafiło do globalnej kultury masowej zupełnie inną drogą, niż zakładali jego twórcy.
 
-## Głos jako instrument
-Słynęła z awangardowego, wręcz instrumentalnego traktowania głosu i elektronicznych efektów.
+## Wyjazd
+W połowie lat 70. wyjechała z Michałem Urbaniakiem do Stanów Zjednoczonych i weszła w tamtejsze środowisko jazzowe. Współpracowała m.in. z Bobbym McFerrinem i Florą Purim. Dla polskiej publiczności pozostała obecna dzięki płytom i sporadycznym koncertom.
 
-## USA
-Od lat 70. wraz z mężem Michałem Urbaniakiem robiła karierę w Nowym Jorku.
-
-## Współprace
-Nagrywała i występowała z czołowymi jazzmanami świata.
-
-## Znaczenie
-To jedna z najbardziej oryginalnych wokalistek jazzowych na świecie.`,
-    trivia: ['Jej „Papaya” stała się światowym przebojem, a po latach internetowym hitem.', 'Traktowała głos jak instrument, słynąc z awangardowej improwizacji.'],
+## Kontekst
+Wyjazd artysty na Zachód był w PRL decyzją obciążoną ryzykiem: oznaczał zależność od zgody na paszport, a w razie pozostania za granicą – zniknięcie z oficjalnego obiegu w kraju. Jazz dawał tu więcej swobody niż piosenka, bo mniej nadawał się na nośnik propagandy.`,
+    trivia: [
+      'Posługuje się głosem jak instrumentem – zamiast tekstu używa dźwięków przetwarzanych elektronicznie.',
+      'Jej „Papaya” po latach stała się przebojem w Azji Południowo-Wschodniej dzięki internetowi.',
+    ],
     resources: [
       {
         id: 'ud-yt',
@@ -31464,7 +31422,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1967, event: 'Gustaw Holoubek jako Konrad w „Dziadach” Dejmka', category: 'osoby', entryId: 'holoubek-gustaw' },
   { year: 1981, event: 'Zbigniew Bujak przechodzi do podziemia i ukrywa się do 1986 roku', category: 'osoby', entryId: 'bujak-zbigniew' },
   { year: 1954, event: 'Agnieszka Osiecka współtworzy Studencki Teatr Satyryków', category: 'osoby', entryId: 'osiecka-agnieszka' },
-  { year: 1968, event: 'Kalina Jędrusik jako Izabela Łęcka w „Lalce”', category: 'osoby', entryId: 'kalina-jedrusik' },
+  { year: 1968, event: 'Kalina Jędrusik jako Kazimiera Wąsowska w „Lalce” Wojciecha Hasa', category: 'osoby', entryId: 'kalina-jedrusik' },
   { year: 1974, event: 'Jan Ciszewski komentuje mistrzostwa świata w piłce nożnej', category: 'osoby', entryId: 'ciszewski-jan' },
   { year: 1982, event: 'Tadeusz Łomnicki oddaje legitymację partyjną po wprowadzeniu stanu wojennego', category: 'osoby', entryId: 'tadeusz-lomnicki' },
   { year: 1958, event: 'Marek Hłasko wyjeżdża z Polski i już nie wraca', category: 'osoby', entryId: 'hlasko-marek' },
