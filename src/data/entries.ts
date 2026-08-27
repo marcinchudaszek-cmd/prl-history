@@ -738,7 +738,7 @@ Powszechne zjawisko społeczne. "Dolar" i towary z Pewexu były twardą walutą 
         description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
-    relatedIds: ['pzpr', 'stan-wojenny', 'gierek', 'nowa-huta', 'komisja-planowania', 'handel-zagraniczny-prl', 'energetyka-prl', 'spoldzielczosc-prl'],
+    relatedIds: ['pzpr', 'stan-wojenny', 'gierek', 'nowa-huta', 'komisja-planowania', 'handel-zagraniczny-prl', 'energetyka-prl', 'spoldzielczosc-prl', 'cup'],
   },
   {
     id: 'kultura-prl',
@@ -861,7 +861,7 @@ Kościół w PRL był ostoją tożsamości narodowej i wolności sumienia oraz k
         description: 'Dokumenty Departamentu IV SB (do spraw walki z Kościołem)',
       },
     ],
-    relatedIds: ['solidarnosc', 'stan-wojenny', 'sbezpieczenstwa', 'popieluszko', 'urzad-wyznan'],
+    relatedIds: ['solidarnosc', 'stan-wojenny', 'sbezpieczenstwa', 'popieluszko', 'urzad-wyznan', 'sluby-jasnogorskie'],
   },
   {
     id: 'nowa-huta',
@@ -1244,7 +1244,7 @@ Bierut pozostaje symbolem stalinizmu w Polsce – okresu terroru i całkowitego 
         description: 'Zestawienie najważniejszych zbrodni systemu stalinowskiego w Polsce',
       },
     ],
-    relatedIds: ['pzpr', 'represje-polityczne', 'gomulka'],
+    relatedIds: ['pzpr', 'represje-polityczne', 'gomulka', 'krn'],
   },
   {
     id: 'kor',
@@ -1783,7 +1783,7 @@ LWP łączyło rolę armii z funkcją narzędzia systemu – pozostaje symbolem 
         description: 'Dokumenty Służby Bezpieczeństwa z operacji inwigilacji i działań wobec prymasa Wyszyńskiego.',
       },
     ],
-    relatedIds: ['kosciol-prl', 'jan-pawel-ii', 'popieluszko', 'marzec-1968', 'bierut'],
+    relatedIds: ['kosciol-prl', 'jan-pawel-ii', 'popieluszko', 'marzec-1968', 'bierut', 'sluby-jasnogorskie'],
   },
   {
     id: 'zolnierze-wykletci',
@@ -1853,7 +1853,7 @@ LWP łączyło rolę armii z funkcją narzędzia systemu – pozostaje symbolem 
         year: 2008,
       },
     ],
-    relatedIds: ['represje-polityczne', 'sbezpieczenstwa', 'bierut', 'manifest-pkwn'],
+    relatedIds: ['represje-polityczne', 'sbezpieczenstwa', 'bierut', 'manifest-pkwn', 'panstwo-podziemne'],
   },
   {
     id: 'zomo',
@@ -2046,7 +2046,7 @@ ZOMO rozwiązano na przełomie 1989 i 1990 roku wraz z reformą milicji i przeks
         year: 2014,
       },
     ],
-    relatedIds: ['pzpr', 'bierut', 'gomulka', 'kolektywizacja', 'gospodarka-prl'],
+    relatedIds: ['pzpr', 'bierut', 'gomulka', 'kolektywizacja', 'gospodarka-prl', 'krn', 'rzad-tymczasowy'],
   },
   {
     id: 'kolektywizacja',
@@ -3217,7 +3217,7 @@ Wybuch robotniczego buntu w Poznaniu w czerwcu 1956 roku był bezpośrednią rea
         downloadable: false,
       },
     ],
-    relatedIds: ['gospodarka-prl', 'nowa-huta', 'bierut', 'kolektywizacja', 'czerwiec-1956'],
+    relatedIds: ['gospodarka-prl', 'nowa-huta', 'bierut', 'kolektywizacja', 'czerwiec-1956', 'cup'],
   },
   {
     id: 'wzz',
@@ -3553,7 +3553,7 @@ W 1948 roku PPR połączyła się z PPS (pod przymusem), tworząc PZPR. Polska s
         year: 1947,
       },
     ],
-    relatedIds: ['referendum-1946', 'pzpr', 'bierut', 'ub', 'represje-polityczne'],
+    relatedIds: ['referendum-1946', 'pzpr', 'bierut', 'ub', 'represje-polityczne', 'trjn', 'krn'],
   },
   {
     id: 'emigracja-1968',
@@ -3684,7 +3684,7 @@ Zachodnia granica na Odrze i Nysie była przez dekady kontestowana przez RFN. Os
         description: 'Archiwalia dotyczące administracji i zasiedlania Ziem Zachodnich po 1945 roku',
       },
     ],
-    relatedIds: ['jalta', 'deportacje', 'akcja-wisla', 'manifest-pkwn', 'bierut'],
+    relatedIds: ['jalta', 'deportacje', 'akcja-wisla', 'manifest-pkwn', 'bierut', 'poczdam'],
   },
   {
     id: 'sport-prl',
@@ -4185,7 +4185,7 @@ W PRL Mikołajczyk był postacią przemilczaną lub demonizowaną. Oficjalna his
         description: 'Zdigitalizowane dokumenty i prasa Polskiego Stronnictwa Ludowego',
       },
     ],
-    relatedIds: ['wybory-prl', 'referendum-1946', 'manifest-pkwn', 'bierut', 'ub'],
+    relatedIds: ['wybory-prl', 'referendum-1946', 'manifest-pkwn', 'bierut', 'ub', 'trjn'],
   },
   {
     id: 'zycie-codzienne',
@@ -7902,7 +7902,7 @@ Rząd emigracyjny działał nieprzerwanie przez 45 lat. Kolejni prezydenci: Racz
         year: 1945,
       },
     ],
-    relatedIds: ['anders', 'manifest-pkwn', 'kultura-paryz', 'emigracja-1968', 'mikolajczyk'],
+    relatedIds: ['anders', 'manifest-pkwn', 'kultura-paryz', 'emigracja-1968', 'mikolajczyk', 'panstwo-podziemne', 'delegatura-rzadu', 'trjn'],
   },
   {
     id: 'tygodnik-powszechny',
@@ -8026,7 +8026,7 @@ Historycy spierają się, czy Roosevelt i Churchill mieli realną alternatywę �
         year: 1945,
       },
     ],
-    relatedIds: ['manifest-pkwn', 'rzad-emigracyjny', 'anders', 'ziemie-odzyskane', 'pgwn'],
+    relatedIds: ['manifest-pkwn', 'rzad-emigracyjny', 'anders', 'ziemie-odzyskane', 'pgwn', 'poczdam', 'trjn'],
   },
   {
     id: 'praga-1968',
@@ -8164,7 +8164,7 @@ Odbudowa stała się mitem założycielskim PRL: tysiące ochotników z całego 
         year: 1945,
       },
     ],
-    relatedIds: ['palac-kultury', 'socrealizm', 'mieszkania-prl', 'manifest-pkwn', 'plan-szescioletni'],
+    relatedIds: ['palac-kultury', 'socrealizm', 'mieszkania-prl', 'manifest-pkwn', 'plan-szescioletni', 'bos'],
   },
   {
     id: 'wywiad-prl',
@@ -12430,7 +12430,7 @@ Milenium 1966 umocniło pozycję Kościoła i prymasa Wyszyńskiego, pokazując 
         description: 'Materiały filmowe z obchodów milenijnych.',
       },
     ],
-    relatedIds: ['wyszynski', 'kosciol-prl', 'gomulka', 'pielgrzymki-jp2', 'propaganda-prl'],
+    relatedIds: ['wyszynski', 'kosciol-prl', 'gomulka', 'pielgrzymki-jp2', 'propaganda-prl', 'sluby-jasnogorskie'],
   },
   {
     id: 'jarocin-festiwal',
@@ -19116,7 +19116,7 @@ Proces szesnastu symbolizuje sposób, w jaki ZSRR likwidował niepodległościow
         description: 'Teksty i opracowania historyków IPN na ten temat.',
       },
     ],
-    relatedIds: ['zolnierze-wykletci', 'rzad-emigracyjny', 'represje-polityczne'],
+    relatedIds: ['zolnierze-wykletci', 'rzad-emigracyjny', 'represje-polityczne', 'panstwo-podziemne', 'delegatura-rzadu'],
   },
   {
     id: 'oblawa-augustowska',
@@ -30723,7 +30723,7 @@ Kolejne próby reform – 1956, 1973, 1982 – miały poszerzyć samodzielność
         description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
       },
     ],
-    relatedIds: ['gospodarka-prl', 'plan-szescioletni', 'nomenklatura', 'handel-zagraniczny-prl'],
+    relatedIds: ['gospodarka-prl', 'plan-szescioletni', 'nomenklatura', 'handel-zagraniczny-prl', 'cup'],
   },
   {
     id: 'energetyka-prl',
@@ -31010,6 +31010,416 @@ We wrześniu 1989 roku premierem został Tadeusz Mazowiecki – pierwszy od czte
       },
     ],
     relatedIds: ['pzpr', 'sejm-prl', 'okragly-stol', 'rada-panstwa'],
+  },
+  {
+    id: 'krn',
+    title: 'Krajowa Rada Narodowa',
+    subtitle: 'Samozwańczy parlament nowej władzy',
+    category: 'polityka',
+    tags: ['polityka', 'ustrój', 'PPR', '1944'],
+    yearStart: 1944,
+    yearEnd: 1947,
+    summary: 'Ciało utworzone w konspiracji przez PPR w nocy z 31 grudnia 1943 na 1 stycznia 1944, pełniące rolę parlamentu powstającego państwa komunistycznego.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/PL_Boles%C5%82aw_Bierut_%281892-1956%29.jpg?width=800',
+    imageCaption: 'Bolesław Bierut, przewodniczący Krajowej Rady Narodowej',
+    content: `## Powstanie
+Krajową Radę Narodową powołano w konspiracji w nocy z 31 grudnia 1943 na 1 stycznia 1944 roku z inicjatywy Polskiej Partii Robotniczej. Przedstawiała się jako „faktyczna reprezentacja polityczna narodu polskiego”, uprawniona do występowania w jego imieniu do czasu wyzwolenia kraju. W rzeczywistości była ciałem samozwańczym: nie pochodziła z wyborów i nie miała mandatu społecznego, a jej powstanie zignorowały struktury Polskiego Państwa Podziemnego.
+
+## Konkurencja wobec Delegatury
+KRN tworzono jako przeciwwagę dla legalnych władz – Delegatury Rządu na Kraj i Rady Jedności Narodowej, podległych rządowi w Londynie. W terenie miała się opierać na konspiracyjnych radach narodowych. Był to spór nie o szczegóły ustroju, lecz o to, kto po wojnie będzie prawowitą władzą w Polsce.
+
+## Rola prawodawcza
+Po lipcu 1944 roku KRN stała się formalnym źródłem prawa nowej władzy: to ona powołała PKWN, a następnie Rząd Tymczasowy, i to jej ustawa z 3 stycznia 1945 roku otworzyła drogę do wydawania dekretów z mocą ustawy. W praktyce zatwierdzała decyzje podjęte gdzie indziej.
+
+## Koniec
+Rada działała do 19 stycznia 1947 roku, czyli do sfałszowanych wyborów, po których jej miejsce zajął Sejm Ustawodawczy. Jej przewodniczącym, a więc i formalną głową państwa, był Bolesław Bierut.`,
+    trivia: [
+      'KRN powstała w konspiracji w noc sylwestrową 1943/1944 – w prywatnym mieszkaniu w Warszawie.',
+      'To ustawa KRN z 3 stycznia 1945 roku otworzyła drogę do rządzenia dekretami, z czego korzystano przez cały okres PRL.',
+    ],
+    resources: [
+      {
+        id: 'krn-wiki',
+        title: 'Krajowa Rada Narodowa – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Krajowa_Rada_Narodowa',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'krn-fot',
+        title: 'Krajowa Rada Narodowa – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Krajowa%20Rada%20Narodowa&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, dokumenty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['manifest-pkwn', 'ppr', 'bierut', 'wybory-1947', 'sejm-prl', 'rzad-tymczasowy', 'trjn'],
+  },
+  {
+    id: 'rzad-tymczasowy',
+    title: 'Rząd Tymczasowy RP',
+    subtitle: 'Z PKWN w rząd, grudzień 1944',
+    category: 'polityka',
+    tags: ['polityka', '1944', 'PPR', 'władza'],
+    yearStart: 1944,
+    yearEnd: 1945,
+    summary: 'Rząd powstały 31 grudnia 1944 z przekształcenia PKWN, uznany przez ZSRR, a odrzucony przez mocarstwa zachodnie.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Polski_druk_ulotny_1945.jpg?width=800',
+    imageCaption: 'Druk ulotny z 1945 roku',
+    content: `## Przekształcenie PKWN
+31 grudnia 1944 roku Polski Komitet Wyzwolenia Narodowego został przekształcony w Rząd Tymczasowy Rzeczypospolitej Polskiej. Premierem i ministrem spraw zagranicznych został Edward Osóbka-Morawski, wicepremierami Władysław Gomułka i Stanisław Janusz. Resort obrony objął gen. Michał Rola-Żymierski, a bezpieczeństwa publicznego – Stanisław Radkiewicz.
+
+## Uznanie i jego brak
+Rząd uznał niemal natychmiast Związek Radziecki. Wielka Brytania i Stany Zjednoczone nadal uznawały rząd na uchodźstwie w Londynie, co oznaczało, że przez pół roku istniały dwa ośrodki roszczące sobie prawo do reprezentowania Polski.
+
+## Warszawa
+1 lutego 1945 roku rząd przeniósł się z Lublina do zniszczonej Warszawy – decyzja miała wymiar symboliczny, bo stolica leżała w gruzach i pozbawiona była infrastruktury.
+
+## Krótki żywot
+Rząd Tymczasowy istniał niecałe pół roku. 28 czerwca 1945 roku zastąpił go Tymczasowy Rząd Jedności Narodowej, powołany w wyniku ustaleń jałtańskich i rozmów moskiewskich – co otworzyło Zachodowi drogę do wycofania uznania dla władz londyńskich.`,
+    trivia: [
+      'Przez pierwsze pół 1945 roku istniały dwa rządy roszczące sobie prawo do reprezentowania Polski – w Warszawie i w Londynie.',
+      'Rząd przeniósł się do Warszawy 1 lutego 1945 roku, gdy miasto było jeszcze morzem gruzów.',
+    ],
+    resources: [
+      {
+        id: 'rzad-tymczasowy-wiki',
+        title: 'Rząd Tymczasowy RP – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Rz%C4%85d_Tymczasowy_Rzeczypospolitej_Polskiej',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'rzad-tymczasowy-fot',
+        title: 'Rząd Tymczasowy RP – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Rz%C4%85d%20Tymczasowy%20RP&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, dokumenty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['manifest-pkwn', 'krn', 'jalta', 'rzad-emigracyjny'],
+  },
+  {
+    id: 'trjn',
+    title: 'Tymczasowy Rząd Jedności Narodowej',
+    subtitle: 'Cena uznania Zachodu',
+    category: 'polityka',
+    tags: ['polityka', '1945', 'Jałta', 'Mikołajczyk'],
+    yearStart: 1945,
+    yearEnd: 1947,
+    summary: 'Rząd powołany 28 czerwca 1945 roku na podstawie ustaleń jałtańskich, z udziałem Stanisława Mikołajczyka – i z zachowaniem przewagi komunistów.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Manifestacja_na_cze%C5%9B%C4%87_Tymczasowego_Rz%C4%85du_Jedno%C5%9Bci_Narodowej_w_Warszawie_1945.jpg?width=800',
+    imageCaption: 'Manifestacja na cześć Tymczasowego Rządu Jedności Narodowej',
+    content: `## Skąd się wziął
+Konferencja jałtańska zobowiązała do przebudowy Rządu Tymczasowego przez włączenie doń polityków demokratycznych z kraju i z emigracji. Po rozmowach w Moskwie w czerwcu 1945 roku prezydent KRN Bolesław Bierut powołał 28 czerwca Tymczasowy Rząd Jedności Narodowej.
+
+## Skład
+Do rządu weszli, obok komunistów i ich sojuszników, Stanisław Mikołajczyk jako wicepremier i minister rolnictwa oraz działacz ruchu ludowego Władysław Kiernik, a także część polityków PPS i przedstawiciele środowisk naukowych. Kluczowe resorty – bezpieczeństwo, obrona, administracja – pozostały jednak w rękach komunistów.
+
+## Skutek dyplomatyczny
+Powstanie TRJN pozwoliło mocarstwom zachodnim uznać nowe władze i cofnąć uznanie rządowi na uchodźstwie, co nastąpiło 5 lipca 1945 roku. Dla Polski Podziemnej oznaczało to utratę międzynarodowego oparcia, na którym opierała swoją legalność.
+
+## Rozkład
+Rząd przetrwał do wyborów w styczniu 1947 roku. Były to półtora roku narastającego konfliktu: PSL Mikołajczyka poddano nasilającym się represjom, a jego działaczy aresztowaniom. Po sfałszowanych wyborach Mikołajczyk musiał uciekać z kraju.`,
+    trivia: [
+      'Uznanie TRJN przez Zachód 5 lipca 1945 roku oznaczało cofnięcie uznania rządowi RP w Londynie.',
+      'Mikołajczyk otrzymał tekę rolnictwa, ale bezpieczeństwo, wojsko i administracja pozostały u komunistów.',
+    ],
+    resources: [
+      {
+        id: 'trjn-wiki',
+        title: 'Tymczasowy Rząd Jedności Narodowej – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Tymczasowy_Rz%C4%85d_Jedno%C5%9Bci_Narodowej',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'trjn-fot',
+        title: 'Tymczasowy Rząd Jedności Narodowej – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Tymczasowy%20Rz%C4%85d%20Jedno%C5%9Bci%20Narodowej&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, dokumenty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['jalta', 'mikolajczyk', 'rzad-tymczasowy', 'wybory-1947', 'rzad-emigracyjny'],
+  },
+  {
+    id: 'delegatura-rzadu',
+    title: 'Delegatura Rządu na Kraj',
+    subtitle: 'Cywilne państwo w konspiracji',
+    category: 'opozycja',
+    tags: ['podziemie', 'okupacja', 'administracja', 'Polskie Państwo Podziemne'],
+    yearStart: 1940,
+    yearEnd: 1945,
+    summary: 'Tajny naczelny organ władzy cywilnej w okupowanej Polsce, podległy rządowi na uchodźstwie i kierujący cywilnym pionem Polskiego Państwa Podziemnego.',
+    content: `## Zadania
+Delegaturę utworzono w 1940 roku jako tajną administrację cywilną podległą rządowi RP na uchodźstwie. Miała utrzymać ciągłość instytucji państwowych, przygotować przejęcie władzy po wojnie, dokumentować zbrodnie okupanta oraz chronić dobra kultury. Dzieliła się na departamenty odpowiadające przedwojennym ministerstwom.
+
+## Struktura
+Na czele stał Delegat Rządu na Kraj, od 1944 roku w randze wicepremiera. Delegatura prowadziła tajne nauczanie, wymiar sprawiedliwości, opiekę społeczną i łączność z krajem – równolegle do zbrojnego pionu, jakim była Armia Krajowa.
+
+## Konflikt o władzę
+Wraz z wkroczeniem Armii Czerwonej struktury Delegatury ujawniały się wobec nowych władz, licząc na uznanie. Kończyło się to zwykle aresztowaniami i deportacjami. Ta praktyka – ujawnienie, rozmowy, a po nich fala zatrzymań – powtarzała się od Wołynia po Pomorze.
+
+## Rozwiązanie
+1 lipca 1945 roku Delegatura i Rada Jedności Narodowej rozwiązały się, gdy mocarstwa zachodnie cofnęły uznanie rządowi w Londynie. Był to formalny koniec cywilnych struktur Polskiego Państwa Podziemnego.`,
+    trivia: [
+      'Delegatura prowadziła tajne nauczanie i podziemny wymiar sprawiedliwości – państwo działało w konspiracji z własnymi sądami.',
+      'Delegat Rządu na Kraj miał od 1944 roku rangę wicepremiera rządu RP.',
+    ],
+    resources: [
+      {
+        id: 'delegatura-rzadu-wiki',
+        title: 'Delegatura Rządu na Kraj – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Delegatura_Rz%C4%85du_na_Kraj',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'delegatura-rzadu-fot',
+        title: 'Delegatura Rządu na Kraj – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Delegatura%20Rz%C4%85du%20na%20Kraj&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, dokumenty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['panstwo-podziemne', 'rzad-emigracyjny', 'proces-szesnastu'],
+  },
+  {
+    id: 'panstwo-podziemne',
+    title: 'Polskie Państwo Podziemne',
+    subtitle: 'Struktury państwa pod okupacją',
+    category: 'opozycja',
+    tags: ['podziemie', 'okupacja', 'Armia Krajowa', 'konspiracja'],
+    yearStart: 1939,
+    yearEnd: 1945,
+    summary: 'Tajne struktury państwa polskiego działające pod okupacją niemiecką i radziecką, podległe rządowi RP na uchodźstwie – ewenement w skali okupowanej Europy.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Armia_krajowa_1.png?width=800',
+    imageCaption: 'Armia Krajowa – zbrojny pion Polskiego Państwa Podziemnego',
+    content: `## Czym było
+Polskie Państwo Podziemne to system tajnych władz działających w imieniu Rzeczypospolitej w czasie okupacji. Istniało od 27 września 1939 roku, gdy powołano Służbę Zwycięstwu Polski, do 1 lipca 1945 roku, kiedy rozwiązały się Rada Jedności Narodowej i Delegatura Rządu. Samo określenie pojawiło się w „Biuletynie Informacyjnym” w styczniu 1944 roku.
+
+## Dwa piony
+Państwo miało pion wojskowy – Związek Walki Zbrojnej, a od 1942 roku Armię Krajową – oraz pion cywilny, czyli Delegaturę Rządu na Kraj z reprezentacją polityczną w postaci Rady Jedności Narodowej. Działały sądy, szkolnictwo, prasa i opieka społeczna.
+
+## Dlaczego było wyjątkowe
+W okupowanej Europie nie powstała druga tak rozbudowana struktura podziemna, obejmująca nie tylko wojsko, ale i administrację cywilną z zapleczem politycznym.
+
+## Miejsce w historii PRL
+Dla nowej władzy Polskie Państwo Podziemne było przeszkodą, a nie dziedzictwem. Jego przywódców sądzono w Moskwie w procesie szesnastu, a żołnierzy podziemia ścigano jeszcze przez lata. Przez cały okres PRL temat podlegał cenzurze i fałszowaniu, a pamięć o nim przetrwała głównie w przekazie rodzinnym i w wydawnictwach emigracyjnych.`,
+    trivia: [
+      'Nazwa „Polskie Państwo Podziemne” pojawiła się dopiero w styczniu 1944 roku, na łamach „Biuletynu Informacyjnego”.',
+      'Struktura obejmowała nie tylko wojsko, lecz także sądy, szkolnictwo i opiekę społeczną – przypadek bez odpowiednika w okupowanej Europie.',
+    ],
+    resources: [
+      {
+        id: 'panstwo-podziemne-wiki',
+        title: 'Polskie Państwo Podziemne – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Polskie_Pa%C5%84stwo_Podziemne',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'panstwo-podziemne-fot',
+        title: 'Polskie Państwo Podziemne – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Polskie%20Pa%C5%84stwo%20Podziemne&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, dokumenty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['delegatura-rzadu', 'proces-szesnastu', 'rzad-emigracyjny', 'zolnierze-wykletci', 'pilecki'],
+  },
+  {
+    id: 'poczdam',
+    title: 'Konferencja poczdamska',
+    subtitle: 'Granice przypieczętowane',
+    category: 'polityka',
+    tags: ['polityka', '1945', 'granice', 'Wielka Trójka'],
+    yearStart: 1945,
+    yearEnd: 1945,
+    summary: 'Spotkanie przywódców ZSRR, USA i Wielkiej Brytanii w dniach 17 lipca – 2 sierpnia 1945, na którym ustalono zachodnią granicę Polski i wysiedlenie ludności niemieckiej.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/L_to_R%2C_British_Prime_Minister_Winston_Churchill%2C_President_Harry_S._Truman%2C_and_Soviet_leader_Josef_Stalin_in_the..._-_NARA_-_198958.jpg?width=800',
+    imageCaption: 'Churchill, Truman i Stalin w Poczdamie, 1945',
+    content: `## Uczestnicy
+Konferencja obradowała od 17 lipca do 2 sierpnia 1945 roku w pałacu Cecilienhof w Poczdamie. Wzięli w niej udział Józef Stalin, prezydent Harry Truman – następca zmarłego w kwietniu Roosevelta – oraz Winston Churchill, którego od 28 lipca zastąpił nowy premier brytyjski Clement Attlee. Zmiana w trakcie obrad była skutkiem brytyjskich wyborów.
+
+## Granica zachodnia
+Dla Polski najważniejsze było ustalenie, że tereny na wschód od Odry i Nysy Łużyckiej przechodzą pod polską administrację do czasu konferencji pokojowej. Ta ostatnia nigdy się nie odbyła, więc rozwiązanie tymczasowe okazało się trwałe – i przez dziesięciolecia było źródłem niepewności, wykorzystywanej propagandowo przez władze PRL.
+
+## Wysiedlenia
+Konferencja zaakceptowała przesiedlenie ludności niemieckiej z Polski, Czechosłowacji i Węgier, zalecając, by odbywało się ono w sposób „uporządkowany i humanitarny”. W praktyce objęło miliony ludzi i przebiegało w warunkach dalekich od tego zapisu.
+
+## Znaczenie
+Poczdam domknął to, co zaczęto w Jałcie: Polska otrzymała nowe granice i znalazła się w radzieckiej strefie wpływów, a jej kształt terytorialny został przesądzony bez udziału jej własnych, wybranych władz.`,
+    trivia: [
+      'W trakcie obrad zmienił się jeden z uczestników – Churchilla zastąpił Clement Attlee po przegranych przez konserwatystów wyborach.',
+      'Granicę na Odrze i Nysie ustalono „do czasu konferencji pokojowej”, która nigdy się nie odbyła.',
+    ],
+    resources: [
+      {
+        id: 'poczdam-wiki',
+        title: 'Konferencja poczdamska – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Konferencja_poczdamska',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'poczdam-fot',
+        title: 'Konferencja poczdamska – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Konferencja%20poczdamska&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, dokumenty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['jalta', 'ziemie-odzyskane', 'trjn'],
+  },
+  {
+    id: 'cup',
+    title: 'Centralny Urząd Planowania',
+    subtitle: 'Krótki epizod planowania bez wzorca radzieckiego',
+    category: 'gospodarka',
+    tags: ['gospodarka', 'planowanie', 'odbudowa', 'PPS'],
+    yearStart: 1945,
+    yearEnd: 1949,
+    summary: 'Urząd kierujący odbudową gospodarki w latach 1945–1949, rozbity wraz z odejściem od koncepcji gospodarki trójsektorowej.',
+    content: `## Powstanie
+Centralny Urząd Planowania powołano w 1945 roku, by pokierować odbudową kraju. Jego przewodniczącym został ekonomista Czesław Bobrowski, związany z PPS. Urząd przygotował plan trzyletni na lata 1947–1949, nastawiony na odbudowę i podniesienie poziomu życia, a nie na forsowną industrializację.
+
+## Gospodarka trzech sektorów
+Koncepcja CUP zakładała współistnienie sektora państwowego, spółdzielczego i prywatnego. Był to model bliższy powojennym rozwiązaniom zachodnioeuropejskim niż radzieckiemu planowaniu nakazowemu – i właśnie dlatego okazał się nie do przyjęcia.
+
+## Rozbicie
+W 1948 roku, wraz z zaostrzeniem kursu i przygotowaniami do zjednoczenia PPR i PPS, koncepcje CUP poddano ostrej krytyce jako odstępstwo od socjalizmu. Bobrowski stracił stanowisko, a urząd wkrótce zlikwidowano. Jego miejsce zajęła Państwowa Komisja Planowania Gospodarczego, budowana już wprost na wzorze radzieckim.
+
+## Co po nim zostało
+Plan trzyletni był jedynym okresem powojennej gospodarki, w którym wzrost produkcji przełożył się szybko na poprawę zaopatrzenia. Kolejny plan – sześcioletni – odwrócił te proporcje na rzecz przemysłu ciężkiego.`,
+    trivia: [
+      'Plan trzyletni 1947–1949 był nastawiony na odbudowę i poziom życia, a nie na przemysł ciężki – w odróżnieniu od późniejszego planu sześcioletniego.',
+      'Koncepcję gospodarki trzech sektorów uznano w 1948 roku za odstępstwo od socjalizmu, a urząd rozwiązano.',
+    ],
+    resources: [
+      {
+        id: 'cup-wiki',
+        title: 'Centralny Urząd Planowania – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Centralny_Urz%C4%85d_Planowania_%281945%E2%80%931949%29',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'cup-fot',
+        title: 'Centralny Urząd Planowania – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Centralny%20Urz%C4%85d%20Planowania&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, dokumenty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['gospodarka-prl', 'plan-szescioletni', 'komisja-planowania', 'odbudowa-warszawy'],
+  },
+  {
+    id: 'sluby-jasnogorskie',
+    title: 'Jasnogórskie Śluby Narodu Polskiego',
+    subtitle: 'Milion ludzi i pusty fotel prymasa',
+    category: 'społeczeństwo',
+    tags: ['Kościół', '1956', 'Wyszyński', 'Jasna Góra'],
+    yearStart: 1956,
+    yearEnd: 1956,
+    summary: 'Śluby złożone 26 sierpnia 1956 roku na Jasnej Górze wobec około miliona wiernych, napisane przez internowanego prymasa Stefana Wyszyńskiego.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Cela_Stefana_Wyszy%C5%84skiego%2C_Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._J%C3%B3zefa_w_Prudniku-Lesie.jpg?width=800',
+    imageCaption: 'Cela prymasa Wyszyńskiego w Prudniku, gdzie powstał tekst ślubów',
+    content: `## Tekst pisany w internowaniu
+Tekst ślubów napisał prymas Stefan Wyszyński podczas internowania – najpierw w Prudniku, potem w Komańczy. Wzorował się na ślubach lwowskich Jana Kazimierza z 1656 roku, znanych mu także z „Potopu” Sienkiewicza – nawiązanie do trzechsetnej rocznicy było zamierzone.
+
+## Uroczystość
+Śluby złożono 26 sierpnia 1956 roku na Jasnej Górze przy udziale około miliona wiernych. Rotę odczytał biskup Michał Klepacz. Na fotelu przeznaczonym dla prymasa położono biało-czerwone kwiaty – nieobecność uwięzionego Wyszyńskiego stała się najmocniejszym elementem całej uroczystości.
+
+## Kontekst polityczny
+Wydarzenie wypadło między poznańskim Czerwcem a październikowym przełomem, w miesiącach słabnącej kontroli władz. Zgromadzenie takiej liczby ludzi bez zgody i udziału państwa było demonstracją siły Kościoła w momencie, gdy system tracił pewność siebie.
+
+## Następstwa
+Wyszyński wyszedł na wolność w październiku 1956 roku. Śluby zapoczątkowały dziewięcioletnią Wielką Nowennę, przygotowującą obchody tysiąclecia chrztu Polski w 1966 roku – program duszpasterski, który stał się osią kolejnego konfliktu państwa z Kościołem.`,
+    trivia: [
+      'Prymas Wyszyński, autor tekstu ślubów, nie mógł być na uroczystości – na jego fotelu położono biało-czerwone kwiaty.',
+      'Śluby rozpoczęły Wielką Nowennę – dziewięć lat przygotowań do obchodów Milenium w 1966 roku.',
+    ],
+    resources: [
+      {
+        id: 'sluby-jasnogorskie-wiki',
+        title: 'Jasnogórskie Śluby Narodu Polskiego – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Jasnog%C3%B3rskie_%C5%9Aluby_Narodu_Polskiego',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'sluby-jasnogorskie-fot',
+        title: 'Jasnogórskie Śluby Narodu Polskiego – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Jasnog%C3%B3rskie%20%C5%9Aluby%20Narodu%20Polskiego&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, dokumenty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['kosciol-prl', 'wyszynski', 'milenium-1966', 'pazdziernik-1956'],
+  },
+  {
+    id: 'bos',
+    title: 'Biuro Odbudowy Stolicy',
+    subtitle: 'Kto zaprojektował powojenną Warszawę',
+    category: 'społeczeństwo',
+    tags: ['Warszawa', 'odbudowa', 'architektura', '1945'],
+    yearStart: 1945,
+    yearEnd: 1950,
+    summary: 'Instytucja powołana w 1945 roku dekretem KRN do odbudowy zniszczonej Warszawy; jej dokumentacja trafiła na listę UNESCO.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pracownicy_Biura_Odbudowy_Stolicy_pracownia_%C5%9Ar%C3%B3dmie%C5%9Bcie.jpg?width=800',
+    imageCaption: 'Pracownia Śródmieścia w Biurze Odbudowy Stolicy',
+    content: `## Zadanie
+Biuro Odbudowy Stolicy powołano w 1945 roku dekretem Krajowej Rady Narodowej. Miało zaplanować odbudowę miasta zrujnowanego w czasie wojny, a po Powstaniu Warszawskim systematycznie niszczonego przez Niemców. Skala zniszczeń była taka, że rozważano poważnie przeniesienie stolicy do Łodzi.
+
+## Jak pracowano
+Architekci i urbaniści inwentaryzowali ruiny, dokumentowali zachowane detale i odtwarzali wygląd zabudowy na podstawie fotografii, planów i obrazów – przy rekonstrukcji Starego Miasta posiłkowano się m.in. widokami Canaletta. Jednocześnie projektowano miasto od nowa: szersze arterie, nowe osiedla, inny układ funkcjonalny.
+
+## Spór o zakres
+Odbudowa nie była wiernym odtworzeniem. Część zabudowy, zwłaszcza dziewiętnastowiecznych kamienic i pałaców, świadomie rozebrano, uznając ją za spuściznę epoki, która miała odejść. Decyzje BOS do dziś bywają przedmiotem sporu wśród historyków architektury.
+
+## Dziedzictwo
+Odbudowane Stare Miasto zostało wpisane na listę światowego dziedzictwa UNESCO, a sama dokumentacja Biura Odbudowy Stolicy trafiła na listę „Pamięć Świata” – jako świadectwo bezprecedensowej rekonstrukcji zniszczonego miasta.`,
+    trivia: [
+      'Przy rekonstrukcji Starego Miasta korzystano z osiemnastowiecznych widoków Warszawy pędzla Canaletta.',
+      'Dokumentacja Biura Odbudowy Stolicy została wpisana na listę UNESCO „Pamięć Świata”.',
+    ],
+    resources: [
+      {
+        id: 'bos-wiki',
+        title: 'Biuro Odbudowy Stolicy – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Biuro_Odbudowy_Stolicy',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'bos-fot',
+        title: 'Biuro Odbudowy Stolicy – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Biuro%20Odbudowy%20Stolicy&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie, dokumenty i materiały graficzne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['odbudowa-warszawy', 'krn', 'mieszkania-prl'],
   },
 ];
 
@@ -31451,4 +31861,12 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1956, event: 'Studenci i inteligencja w Październiku 1956', category: 'opozycja', entryId: 'pazdziernik-1956-studenci' },
   { year: 1970, event: 'Początek dekady „propagandy sukcesu”', category: 'polityka', entryId: 'propaganda-sukcesu' },
   { year: 1981, event: 'Powstaje Wojskowa Rada Ocalenia Narodowego', category: 'polityka', entryId: 'wron' },
+  { year: 1944, event: 'Powstaje Krajowa Rada Narodowa – konkurencyjna wobec władz podziemnych', category: 'polityka', entryId: 'krn' },
+  { year: 1944, event: 'PKWN przekształcony w Rząd Tymczasowy RP', category: 'polityka', entryId: 'rzad-tymczasowy' },
+  { year: 1945, event: 'Powstaje Tymczasowy Rząd Jedności Narodowej; Zachód cofa uznanie rządowi w Londynie', category: 'polityka', entryId: 'trjn' },
+  { year: 1945, event: 'Rozwiązanie Delegatury Rządu na Kraj i Rady Jedności Narodowej', category: 'opozycja', entryId: 'delegatura-rzadu' },
+  { year: 1945, event: 'Samorozwiązanie struktur Polskiego Państwa Podziemnego', category: 'opozycja', entryId: 'panstwo-podziemne' },
+  { year: 1945, event: 'Konferencja poczdamska – granica na Odrze i Nysie oraz zgoda na wysiedlenia', category: 'polityka', entryId: 'poczdam' },
+  { year: 1947, event: 'Rusza plan trzyletni opracowany przez Centralny Urząd Planowania', category: 'gospodarka', entryId: 'cup' },
+  { year: 1956, event: 'Jasnogórskie Śluby Narodu Polskiego wobec około miliona wiernych', category: 'społeczeństwo', entryId: 'sluby-jasnogorskie' },
 ];
