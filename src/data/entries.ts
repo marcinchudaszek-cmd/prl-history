@@ -229,7 +229,7 @@ Solidarność zapoczątkowała pokojowy demontaż komunizmu w Polsce i Europie �
         description: 'Hasła i opracowania encyklopedyczne na ten temat.',
       },
     ],
-    relatedIds: ['stan-wojenny', 'okragly-stol', 'sierpien-1980', 'walesa', 'kania', 'olszewski-jan'],
+    relatedIds: ['stan-wojenny', 'okragly-stol', 'sierpien-1980', 'walesa', 'kania', 'olszewski-jan', 'gwiazda', 'rulewski', 'lipski'],
   },
   {
     id: 'czerwiec-1956',
@@ -659,7 +659,7 @@ Sierpień 1980 był przełomem – pokojowym zwycięstwem społeczeństwa nad w�
         description: 'Hasła i opracowania encyklopedyczne na ten temat.',
       },
     ],
-    relatedIds: ['solidarnosc', 'stan-wojenny', 'grudzien-1970', 'walesa'],
+    relatedIds: ['solidarnosc', 'stan-wojenny', 'grudzien-1970', 'walesa', 'gwiazda'],
   },
   {
     id: 'gospodarka-prl',
@@ -738,7 +738,7 @@ Powszechne zjawisko społeczne. "Dolar" i towary z Pewexu były twardą walutą 
         description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
-    relatedIds: ['pzpr', 'stan-wojenny', 'gierek', 'nowa-huta', 'komisja-planowania', 'handel-zagraniczny-prl', 'energetyka-prl', 'spoldzielczosc-prl', 'cup'],
+    relatedIds: ['pzpr', 'stan-wojenny', 'gierek', 'nowa-huta', 'komisja-planowania', 'handel-zagraniczny-prl', 'energetyka-prl', 'spoldzielczosc-prl', 'cup', 'balcerowicz', 'pstrowski'],
   },
   {
     id: 'kultura-prl',
@@ -811,7 +811,7 @@ Jerzy Grotowski, Tadeusz Kantor (Teatr Cricot 2) – artyści o światowej sław
         description: 'Odcinek Kroniki Polskiej o sukcesach literatury i teatru.',
       },
     ],
-    relatedIds: ['pzpr', 'sbezpieczenstwa', 'solidarnosc'],
+    relatedIds: ['pzpr', 'sbezpieczenstwa', 'solidarnosc', 'iwaszkiewicz', 'przeglad-kulturalny'],
   },
   {
     id: 'kosciol-prl',
@@ -861,7 +861,7 @@ Kościół w PRL był ostoją tożsamości narodowej i wolności sumienia oraz k
         description: 'Dokumenty Departamentu IV SB (do spraw walki z Kościołem)',
       },
     ],
-    relatedIds: ['solidarnosc', 'stan-wojenny', 'sbezpieczenstwa', 'popieluszko', 'urzad-wyznan', 'sluby-jasnogorskie', 'hlond', 'sapieha', 'kaczmarek-biskup'],
+    relatedIds: ['solidarnosc', 'stan-wojenny', 'sbezpieczenstwa', 'popieluszko', 'urzad-wyznan', 'sluby-jasnogorskie', 'hlond', 'sapieha', 'kaczmarek-biskup', 'stomma', 'piasecki'],
   },
   {
     id: 'nowa-huta',
@@ -1185,7 +1185,7 @@ Wałęsa to jedna z najważniejszych postaci najnowszej historii Polski – symb
         description: 'Odcinek Kroniki Polskiej o Pokojowej Nagrodzie Nobla dla Lecha Wałęsy.',
       },
     ],
-    relatedIds: ['solidarnosc', 'sierpien-1980', 'stan-wojenny', 'okragly-stol'],
+    relatedIds: ['solidarnosc', 'sierpien-1980', 'stan-wojenny', 'okragly-stol', 'gwiazda', 'rulewski'],
   },
   {
     id: 'bierut',
@@ -1308,7 +1308,7 @@ KOR stworzył intelektualne i organizacyjne zaplecze, na którym w 1980 roku wyr
         description: 'Dokumenty Służby Bezpieczeństwa dotyczące inwigilacji KOR i jego działaczy',
       },
     ],
-    relatedIds: ['czerwiec-1976', 'solidarnosc', 'sbezpieczenstwa', 'marzec-1968', 'olszewski-jan'],
+    relatedIds: ['czerwiec-1976', 'solidarnosc', 'sbezpieczenstwa', 'marzec-1968', 'olszewski-jan', 'lipski'],
   },
   {
     id: 'marzec-1968',
@@ -2169,7 +2169,7 @@ ZOMO rozwiązano na przełomie 1989 i 1990 roku wraz z reformą milicji i przeks
         description: 'Cyfrowe kopie biuletynów KOR i innych druków bezdebitowych.',
       },
     ],
-    relatedIds: ['kor', 'solidarnosc', 'kultura-prl', 'stan-wojenny', 'sierpien-1980'],
+    relatedIds: ['kor', 'solidarnosc', 'kultura-prl', 'stan-wojenny', 'sierpien-1980', 'lipski'],
   },
   {
     id: 'mazowiecki',
@@ -2440,7 +2440,7 @@ GUKPPiW został zniesiony ustawą z 11 kwietnia 1990 roku – jednym z pierwszyc
         year: 1946,
       },
     ],
-    relatedIds: ['kultura-prl', 'drugi-obieg', 'radio-wolna-europa', 'represje-polityczne', 'pzpr'],
+    relatedIds: ['kultura-prl', 'drugi-obieg', 'radio-wolna-europa', 'represje-polityczne', 'pzpr', 'przeglad-kulturalny', 'zycie-warszawy', 'prawo-i-zycie'],
   },
   {
     id: 'pazdziernik-1956',
@@ -3066,7 +3066,7 @@ Społeczeństwo nauczyło się czytać między wierszami. Żarty polityczne (kaw
         year: 1944,
       },
     ],
-    relatedIds: ['kultura-prl', 'cenzura-prl', 'pzpr', 'radio-wolna-europa', 'drugi-obieg'],
+    relatedIds: ['kultura-prl', 'cenzura-prl', 'pzpr', 'radio-wolna-europa', 'drugi-obieg', 'pstrowski'],
   },
   {
     id: 'akcja-wisla',
@@ -3284,7 +3284,7 @@ Członkowie WZZ byli stale inwigilowani, zatrzymywani, zwalniani z pracy. Anna W
         description: 'Teksty i opracowania historyków IPN na ten temat.',
       },
     ],
-    relatedIds: ['solidarnosc', 'sierpien-1980', 'walesa', 'kor', 'stocznia-gdanska'],
+    relatedIds: ['solidarnosc', 'sierpien-1980', 'walesa', 'kor', 'stocznia-gdanska', 'gwiazda'],
   },
   {
     id: 'kultura-paryz',
@@ -4244,7 +4244,7 @@ PRL zapewniał też gwarancje, które po 1989 roku zniknęły – zatrudnienie (
         year: 1960,
       },
     ],
-    relatedIds: ['gospodarka-prl', 'fiat-126p', 'nomenklatura', 'nowa-huta', 'gierek'],
+    relatedIds: ['gospodarka-prl', 'fiat-126p', 'nomenklatura', 'nowa-huta', 'gierek', 'zycie-warszawy', 'express-wieczorny'],
   },
   {
     id: 'edukacja-prl',
@@ -5234,7 +5234,7 @@ Powstanie PZPR zamknęło etap „dyktatury koalicyjnej" i otworzyło etap jedno
         year: 1948,
       },
     ],
-    relatedIds: ['pzpr', 'bierut', 'gomulka', 'manifest-pkwn', 'pps'],
+    relatedIds: ['pzpr', 'bierut', 'gomulka', 'manifest-pkwn', 'pps', 'glos-ludu'],
   },
   {
     id: 'gorbaczow',
@@ -5363,7 +5363,7 @@ Wynik obnażył brak poparcia dla władzy. Kompromis „wasz prezydent, nasz pre
         description: 'Odcinek Kroniki Polskiej o Okrągłym Stole i wyborach 4 czerwca 1989.',
       },
     ],
-    relatedIds: ['okragly-stol', 'solidarnosc', 'mazowiecki', 'walesa', 'strajki-1988'],
+    relatedIds: ['okragly-stol', 'solidarnosc', 'mazowiecki', 'walesa', 'strajki-1988', 'balcerowicz'],
   },
   {
     id: 'wczasy-fwp',
@@ -6280,7 +6280,7 @@ Alternatywą były Radio Wolna Europa i głos Ameryki – słuchane nielegalnie 
         description: 'Dokumenty Głównego Urzędu Kontroli Prasy dotyczące ingerencji cenzury',
       },
     ],
-    relatedIds: ['cenzura-prl', 'propaganda-prl', 'drugi-obieg', 'tygodnik-powszechny', 'radio-wolna-europa'],
+    relatedIds: ['cenzura-prl', 'propaganda-prl', 'drugi-obieg', 'tygodnik-powszechny', 'radio-wolna-europa', 'glos-ludu', 'zycie-warszawy', 'slowo-powszechne', 'przeglad-kulturalny', 'express-wieczorny', 'prawo-i-zycie'],
   },
   {
     id: 'kielce-1946',
@@ -7964,7 +7964,7 @@ Po 1989 r. "Tygodnik Powszechny" kontynuował działalność jako niezależne pi
         year: 2017,
       },
     ],
-    relatedIds: ['prasa-prl', 'kosciol-prl', 'szymborska', 'milosz', 'cenzura-prl'],
+    relatedIds: ['prasa-prl', 'kosciol-prl', 'szymborska', 'milosz', 'cenzura-prl', 'stomma', 'slowo-powszechne'],
   },
   {
     id: 'jalta',
@@ -8924,7 +8924,7 @@ Prozaik i scenarzysta. Jego powieści – "Kronika wypadków miłosnych" (1974),
         year: 2018,
       },
     ],
-    relatedIds: ['cenzura-prl', 'drugi-obieg', 'milosz', 'herbert', 'szymborska', 'grydzewski'],
+    relatedIds: ['cenzura-prl', 'drugi-obieg', 'milosz', 'herbert', 'szymborska', 'grydzewski', 'iwaszkiewicz'],
   },
   {
     id: 'wybory-prl',
@@ -9785,7 +9785,7 @@ Likwidacja PPS oznaczała zniszczenie pluralizmu politycznego w Polsce i zakońc
         year: 1948,
       },
     ],
-    relatedIds: ['pzpr', 'ppr', 'cyrankiewicz', 'manifest-pkwn', 'bierut', 'puzak', 'arciszewski', 'ciolkosz', 'zaremba-zygmunt'],
+    relatedIds: ['pzpr', 'ppr', 'cyrankiewicz', 'manifest-pkwn', 'bierut', 'puzak', 'arciszewski', 'ciolkosz', 'zaremba-zygmunt', 'lipski'],
   },
   {
     id: 'komeda',
@@ -10814,7 +10814,7 @@ Pytanie o rozliczenie sprawców sądowych zbrodni komunistycznych pozostaje aktu
         description: 'Teksty i opracowania historyków IPN na ten temat.',
       },
     ],
-    relatedIds: ['ub', 'represje-polityczne', 'zbrodnie-stalinizmu', 'obozy-pracy', 'pilecki'],
+    relatedIds: ['ub', 'represje-polityczne', 'zbrodnie-stalinizmu', 'obozy-pracy', 'pilecki', 'prawo-i-zycie'],
   },
   {
     id: 'lodz-szkola-filmowa',
@@ -11540,7 +11540,7 @@ Kryzys bydgoski pokazał determinację władzy i jej gotowość do użycia siły
         description: 'Teksty i opracowania historyków IPN na ten temat.',
       },
     ],
-    relatedIds: ['solidarnosc', 'solidarnosc-rolnikow', 'stan-wojenny', 'walesa', 'rakowski'],
+    relatedIds: ['solidarnosc', 'solidarnosc-rolnikow', 'stan-wojenny', 'walesa', 'rakowski', 'rulewski'],
   },
   {
     id: 'grzegorz-przemyk',
@@ -15390,7 +15390,7 @@ Dziennik był wzorcowym nośnikiem nowomowy – sztucznego, zideologizowanego j�
         description: 'Materiały o propagandzie prasowej.',
       },
     ],
-    relatedIds: ['prasa-prl', 'propaganda-prl', 'pzpr'],
+    relatedIds: ['prasa-prl', 'propaganda-prl', 'pzpr', 'glos-ludu'],
   },
   {
     id: 'cybulski-zbigniew',
@@ -17246,7 +17246,7 @@ Górnictwo węglowe symbolizuje zarówno potęgę przemysłową, jak i struktura
         description: 'Materiały ikonograficzne.',
       },
     ],
-    relatedIds: ['gospodarka-prl', 'wujek', 'huta-katowice'],
+    relatedIds: ['gospodarka-prl', 'wujek', 'huta-katowice', 'pstrowski'],
   },
   {
     id: 'lot-prl',
@@ -19342,7 +19342,7 @@ PAX to przykład mechanizmu „dziel i rządź” – prób rozbijania jedności
         description: 'Materiały archiwalne.',
       },
     ],
-    relatedIds: ['kosciol-prl', 'propaganda-prl', 'pzpr'],
+    relatedIds: ['kosciol-prl', 'propaganda-prl', 'pzpr', 'piasecki', 'slowo-powszechne'],
   },
   {
     id: 'kozakiewicz-wladyslaw',
@@ -19642,7 +19642,7 @@ Sejm PRL to symbol fasadowości instytucji demokratycznych w systemie komunistyc
         description: 'Materiały archiwalne i akty prawne.',
       },
     ],
-    relatedIds: ['konstytucja-prl', 'pzpr', 'wybory-prl', 'rada-panstwa', 'premierzy-prl'],
+    relatedIds: ['konstytucja-prl', 'pzpr', 'wybory-prl', 'rada-panstwa', 'premierzy-prl', 'stomma', 'iwaszkiewicz'],
   },
   {
     id: 'front-jednosci-narodu',
@@ -30921,7 +30921,7 @@ Rada Państwa została zniesiona w 1989 roku, wraz z przywróceniem urzędu prez
         description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
       },
     ],
-    relatedIds: ['sejm-prl', 'konstytucja-prl', 'stan-wojenny', 'okragly-stol', 'zawadzki', 'ochab', 'spychalski'],
+    relatedIds: ['sejm-prl', 'konstytucja-prl', 'stan-wojenny', 'okragly-stol', 'zawadzki', 'ochab', 'spychalski', 'piasecki'],
   },
   {
     id: 'urzad-wyznan',
@@ -32479,6 +32479,642 @@ Zwolniony w 1956 roku, wrócił do diecezji. Wyrok uchylono dopiero po latach, a
     ],
     relatedIds: ['kosciol-prl', 'wyszynski', 'urzad-wyznan', 'represje-polityczne', 'wiezienia-polityczne'],
   },
+  {
+    id: 'gwiazda',
+    title: 'Andrzej Gwiazda',
+    subtitle: 'Od Wolnych Związków Zawodowych do sporu z Wałęsą',
+    category: 'osoby',
+    tags: ['opozycja', 'Solidarność', 'WZZ', 'Gdańsk'],
+    yearStart: 1978,
+    yearEnd: 1989,
+    summary: 'Inżynier, współtwórca Wolnych Związków Zawodowych Wybrzeża i jeden z przywódców Solidarności, konsekwentny krytyk kompromisów z władzą.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej_Gwiazda_2021.jpg?width=800',
+    imageCaption: 'Andrzej Gwiazda',
+    content: `## Przed Sierpniem
+Andrzej Gwiazda (ur. 1935), inżynier elektronik, wraz z żoną Joanną należał do założycieli Wolnych Związków Zawodowych Wybrzeża w 1978 roku – środowiska, z którego dwa lata później wyrosła Solidarność. Działalność w WZZ oznaczała zwolnienia z pracy, zatrzymania i stałą inwigilację.
+
+## Sierpień 1980
+W czasie strajku w Stoczni Gdańskiej należał do Prezydium Międzyzakładowego Komitetu Strajkowego i współtworzył listę dwudziestu jeden postulatów. Był jednym z sygnatariuszy porozumień sierpniowych.
+
+## Spór o linię
+W Solidarności reprezentował nurt nieufny wobec negocjacji z władzą. Zarzucał Lechowi Wałęsie zbyt daleko idące ustępstwa i zbyt osobisty styl przywództwa. Ten spór – ile kompromisu, ile stanowczości – przewijał się przez cały okres legalnej działalności związku.
+
+## Stan wojenny i później
+Internowany 13 grudnia 1981 roku, następnie aresztowany i przetrzymywany do 1984 roku. Po 1989 roku pozostał krytyczny wobec kształtu przemian, uznając Okrągły Stół za porozumienie zawarte ponad głowami większości działaczy.`,
+    trivia: [
+      'Wolne Związki Zawodowe Wybrzeża, które współtworzył w 1978 roku, były zalążkiem Solidarności.',
+      'Współtworzył listę dwudziestu jeden postulatów sierpniowych.',
+    ],
+    resources: [
+      {
+        id: 'gwiazda-wiki',
+        title: 'Andrzej Gwiazda – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Andrzej_Gwiazda',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'gwiazda-fot',
+        title: 'Andrzej Gwiazda – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Andrzej%20Gwiazda&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['wzz', 'solidarnosc', 'walesa', 'stan-wojenny', 'sierpien-1980'],
+  },
+  {
+    id: 'rulewski',
+    title: 'Jan Rulewski',
+    subtitle: 'Pobicie, które omal nie wywołało strajku generalnego',
+    category: 'osoby',
+    tags: ['opozycja', 'Solidarność', 'Bydgoszcz', '1981'],
+    yearStart: 1980,
+    yearEnd: 1989,
+    summary: 'Przewodniczący bydgoskiej Solidarności, pobity w marcu 1981 roku podczas sesji Wojewódzkiej Rady Narodowej – co doprowadziło kraj na próg strajku generalnego.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Rulewski_Kancelaria_Senatu_2015.jpg?width=800',
+    imageCaption: 'Jan Rulewski',
+    content: `## Działacz z Bydgoszczy
+Jan Rulewski (ur. 1944) stanął na czele bydgoskiego regionu Solidarności zaraz po powstaniu związku. Region ten był jednym z aktywniejszych w kraju, a Rulewski – jednym z bardziej stanowczych przywódców regionalnych.
+
+## Marzec 1981
+19 marca 1981 roku, podczas sesji Wojewódzkiej Rady Narodowej w Bydgoszczy, działacze Solidarności domagający się głosu zostali usunięci z sali i pobici przez funkcjonariuszy milicji. Rulewski odniósł najpoważniejsze obrażenia; zdjęcia jego zakrwawionej twarzy obiegły kraj.
+
+## Na progu strajku generalnego
+Reakcją była fala oburzenia i przygotowania do strajku generalnego – największej próby sił między związkiem a władzą przed stanem wojennym. Do strajku ostatecznie nie doszło: 30 marca podpisano porozumienie warszawskie, co część działaczy uznała za kapitulację kierownictwa.
+
+## Później
+Internowany w stanie wojennym, potem więziony. Po 1989 roku był posłem i senatorem. Wydarzenia bydgoskie pozostały jednym z punktów zwrotnych roku 1981.`,
+    trivia: [
+      'Zdjęcia jego pobitej twarzy stały się jednym z najbardziej rozpoznawalnych obrazów 1981 roku.',
+      'Po wydarzeniach bydgoskich kraj stanął na progu strajku generalnego; odwołano go po porozumieniu z 30 marca.',
+    ],
+    resources: [
+      {
+        id: 'rulewski-wiki',
+        title: 'Jan Rulewski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Jan_Rulewski',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'rulewski-fot',
+        title: 'Jan Rulewski – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Jan%20Rulewski&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['bydgoszcz-1981', 'solidarnosc', 'stan-wojenny', 'walesa'],
+  },
+  {
+    id: 'lipski',
+    title: 'Jan Józef Lipski',
+    subtitle: 'Historyk literatury i kronikarz KOR',
+    category: 'osoby',
+    tags: ['opozycja', 'KOR', 'literatura', 'PPS'],
+    yearStart: 1976,
+    yearEnd: 1991,
+    summary: 'Krytyk i historyk literatury, współzałożyciel KOR i autor jego historii; w 1987 roku współtwórca odrodzonej PPS.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Jozef_Lipski.jpg?width=800',
+    imageCaption: 'Jan Jozef Lipski',
+    content: `## Dwie drogi
+Jan Józef Lipski (1926–1991) był z zawodu historykiem literatury, badaczem twórczości pozytywistów i Młodej Polski. Równolegle prowadził działalność opozycyjną, traktując obie te role jako jedno zadanie: obronę prawdy o rzeczywistości.
+
+## KOR
+W 1976 roku należał do założycieli Komitetu Obrony Robotników, powstałego po represjach wobec robotników Radomia i Ursusa. Napisał później obszerną historię KOR – pracę, która wyszła w drugim obiegu i stała się podstawowym źródłem o tym środowisku.
+
+## Powstaniec
+Był żołnierzem Armii Krajowej i uczestnikiem Powstania Warszawskiego. To pokoleniowe doświadczenie łączyło wielu działaczy opozycji lat 70. z tradycją, którą w oficjalnym obiegu przemilczano.
+
+## Socjalista
+W 1987 roku współtworzył reaktywowaną Polską Partię Socjalistyczną, wracając do tradycji lewicy niepodległościowej. Bronił jej odrębności zarówno wobec komunistów, jak i wobec tych środowisk opozycji, które utożsamiały socjalizm z PRL.`,
+    trivia: [
+      'Napisał historię KOR wydaną w drugim obiegu – do dziś podstawowe źródło o tym środowisku.',
+      'W 1987 roku współtworzył reaktywowaną PPS, wracając do tradycji lewicy niepodległościowej.',
+    ],
+    resources: [
+      {
+        id: 'lipski-wiki',
+        title: 'Jan Józef Lipski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Jan_J%C3%B3zef_Lipski',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'lipski-fot',
+        title: 'Jan Józef Lipski – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Jan%20J%C3%B3zef%20Lipski&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['kor', 'drugi-obieg', 'pps', 'solidarnosc', 'czerwiec-1976'],
+  },
+  {
+    id: 'stomma',
+    title: 'Stanisław Stomma',
+    subtitle: 'Poseł, który jako jedyny nie poparł zmian w konstytucji',
+    category: 'osoby',
+    tags: ['Kościół', 'Znak', 'Sejm', '1976'],
+    yearStart: 1957,
+    yearEnd: 1989,
+    summary: 'Prawnik i publicysta katolicki, poseł koła Znak w latach 1957–1976; w 1976 roku jako jedyny nie zagłosował za zmianami w konstytucji.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw_Stomma.jpg?width=800',
+    imageCaption: 'Stanislaw Stomma',
+    content: `## Znak w Sejmie
+Stanisław Stomma (1908–2005), prawnik i publicysta związany z „Tygodnikiem Powszechnym”, zasiadał w Sejmie PRL od 1957 do 1976 roku z ramienia koła poselskiego Znak. Było to jedyne środowisko w parlamencie niepodporządkowane bezpośrednio partii – kilkuosobowa reprezentacja katolików świeckich, dopuszczona po Październiku.
+
+## Granice tej roli
+Znak nie miał realnego wpływu na ustawodawstwo. Jego rola polegała na zabieraniu głosu w sprawach, o których inni milczeli, i na tym, że sama jego obecność świadczyła o istnieniu środowiska niezależnego. Władze traktowały koło jako dowód rzekomego pluralizmu.
+
+## Rok 1976
+Gdy Sejm głosował nad zmianami w konstytucji, wpisującymi do niej kierowniczą rolę PZPR i sojusz z ZSRR, Stomma jako jedyny poseł nie zagłosował za. Kosztowało go to mandat – w kolejnej kadencji nie znalazł się na liście.
+
+## Później
+W latach 1981–1984 przewodniczył Prymasowskiej Radzie Społecznej. Po 1989 roku był senatorem pierwszej kadencji i marszałkiem seniorem Senatu.`,
+    trivia: [
+      'W 1976 roku był jedynym posłem, który nie zagłosował za zmianami wpisującymi do konstytucji kierowniczą rolę PZPR.',
+      'Koło Znak było jedyną w Sejmie PRL reprezentacją niepodporządkowaną bezpośrednio partii.',
+    ],
+    resources: [
+      {
+        id: 'stomma-wiki',
+        title: 'Stanisław Stomma – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Stomma',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'stomma-fot',
+        title: 'Stanisław Stomma – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Stanis%C5%82aw%20Stomma&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['sejm-prl', 'kosciol-prl', 'tygodnik-powszechny', 'konstytucja-prl'],
+  },
+  {
+    id: 'piasecki',
+    title: 'Bolesław Piasecki',
+    subtitle: 'Od Falangi do Rady Państwa',
+    category: 'osoby',
+    tags: ['polityka', 'PAX', 'Kościół', 'kolaboracja'],
+    yearStart: 1945,
+    yearEnd: 1979,
+    summary: 'Przedwojenny przywódca nacjonalistycznej Falangi, po wojnie twórca Stowarzyszenia PAX i wieloletni uczestnik oficjalnego życia politycznego PRL.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-31684-0002%2C_Boleslaw_Piasecki.jpg?width=800',
+    imageCaption: 'Boleslaw Piasecki',
+    content: `## Przed wojną
+Bolesław Piasecki (1915–1979) był współzałożycielem Obozu Narodowo-Radykalnego w 1934 roku, a następnie przywódcą Ruchu Narodowo-Radykalnego „Falanga” – formacji skrajnie nacjonalistycznej. Za działalność polityczną trafił do miejsca odosobnienia w Berezie Kartuskiej.
+
+## Okupacja i zwrot
+W czasie wojny stworzył Konfederację Narodu, scaloną później z Armią Krajową. W listopadzie 1944 roku został aresztowany przez NKWD. Wyszedł na wolność po rozmowach z gen. Iwanem Sierowem – i od tego momentu jego droga prowadziła już w stronę porozumienia z nową władzą.
+
+## PAX
+Zbudował Stowarzyszenie PAX: organizację katolików świeckich akceptujących ustrój, z własnym wydawnictwem, przedsiębiorstwami i dziennikiem „Słowo Powszechne”. Hierarchia kościelna traktowała PAX z nieufnością, widząc w nim narzędzie rozbijania jedności katolików.
+
+## Pozycja
+W latach 70. zasiadał w Radzie Państwa. Jego biografia – od przedwojennego radykalnego nacjonalizmu po najwyższe gremia PRL – należy do najbardziej zaskakujących w polskiej polityce XX wieku.`,
+    trivia: [
+      'Przed wojną kierował skrajnie nacjonalistyczną Falangą i był więziony w Berezie Kartuskiej.',
+      'Wyszedł z więzienia NKWD po rozmowach z gen. Iwanem Sierowem i wkrótce zaczął budować PAX.',
+    ],
+    resources: [
+      {
+        id: 'piasecki-wiki',
+        title: 'Bolesław Piasecki – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Boles%C5%82aw_Piasecki',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'piasecki-fot',
+        title: 'Bolesław Piasecki – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Boles%C5%82aw%20Piasecki&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['pax-piasecki', 'kosciol-prl', 'slowo-powszechne', 'rada-panstwa'],
+  },
+  {
+    id: 'balcerowicz',
+    title: 'Leszek Balcerowicz',
+    subtitle: 'Ekonomista, który zamknął gospodarkę PRL',
+    category: 'osoby',
+    tags: ['gospodarka', 'reformy', '1989', 'transformacja'],
+    yearStart: 1980,
+    yearEnd: 1989,
+    summary: 'Ekonomista, autor programu przebudowy gospodarki wdrażanego od 1989 roku; wcześniej uczestnik prac nad reformami w schyłkowym PRL.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2019_-_Leszek_Balcerowicz_%2810%29_MLU_in_Halle_%28cropped%29.jpg?width=800',
+    imageCaption: 'Leszek Balcerowicz',
+    content: `## Ekonomista w PRL
+Leszek Balcerowicz (ur. 1947) był wykładowcą warszawskiej Szkoły Głównej Planowania i Statystyki, dzisiejszej SGH. W latach 80. kierował zespołem opracowującym propozycje reformy gospodarczej – jednym z wielu takich zespołów, których projekty systematycznie rozmywano w praktyce.
+
+## Dlaczego reformy nie działały
+Kolejne próby naprawy gospodarki PRL – w 1956, 1973 i 1982 roku – zakładały poszerzenie samodzielności przedsiębiorstw, ale za każdym razem centrum odzyskiwało kontrolę, bo rezygnacja z rozdzielnictwa oznaczałaby rezygnację z władzy nad gospodarką. Ta doświadczenie ukształtowało przekonanie, że zmiana musi być całościowa.
+
+## 1989
+We wrześniu 1989 roku został wicepremierem i ministrem finansów w rządzie Tadeusza Mazowieckiego. Przygotowany pod jego kierunkiem pakiet ustaw, uchwalony pod koniec roku, znosił centralne planowanie, uwalniał ceny i otwierał gospodarkę na wymianę zagraniczną.
+
+## Spór
+Skutki tej zmiany – zahamowanie hiperinflacji z jednej strony, bezrobocie i upadek całych branż z drugiej – pozostają przedmiotem sporu do dziś. Dla dziejów PRL istotne jest to, że rok 1989 zamknął nie tylko system polityczny, ale i gospodarkę budowaną od 1944 roku.`,
+    trivia: [
+      'Wykładał w Szkole Głównej Planowania i Statystyki – uczelni kształcącej kadry gospodarki planowej.',
+      'Kolejne reformy PRL – 1956, 1973, 1982 – kończyły się odzyskaniem kontroli przez centrum.',
+    ],
+    resources: [
+      {
+        id: 'balcerowicz-wiki',
+        title: 'Leszek Balcerowicz – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Leszek_Balcerowicz',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'balcerowicz-fot',
+        title: 'Leszek Balcerowicz – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Leszek%20Balcerowicz&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['gospodarka-prl', 'komisja-planowania', 'wybory-1989', 'zadluzenie-prl', 'premierzy-prl'],
+  },
+  {
+    id: 'pstrowski',
+    title: 'Wincenty Pstrowski',
+    subtitle: 'Przodownik pracy, który zapracował się na śmierć',
+    category: 'osoby',
+    tags: ['gospodarka', 'propaganda', 'górnictwo', 'współzawodnictwo'],
+    yearStart: 1947,
+    yearEnd: 1948,
+    summary: 'Górnik, którego wezwanie do współzawodnictwa pracy w 1947 roku uczyniło symbolem epoki; zmarł niespełna rok później, mając 43 lata.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wincenty_Pstrowski_miner.jpg?width=800',
+    imageCaption: 'Wincenty Pstrowski',
+    content: `## Wezwanie
+Wincenty Pstrowski (1904–1948) był rębaczem dołowym w kopalni w Zabrzu. W lipcu 1947 roku ogłoszono jego list z pytaniem: kto wyrąbie więcej niż on. Wezwanie rozpropagowano w całym kraju i uczyniono początkiem masowego współzawodnictwa pracy.
+
+## Mechanizm
+Współzawodnictwo miało podnieść wydajność bez inwestycji: nagradzano rekordy, ogłaszano wyniki, przodowników odznaczano i pokazywano w kronikach filmowych. W praktyce prowadziło do zaniedbywania bezpieczeństwa, niszczenia sprzętu i podnoszenia norm, po którym ta sama praca oznaczała niższą płacę.
+
+## Śmierć
+Pstrowski zmarł w kwietniu 1948 roku, niespełna rok po ogłoszeniu wezwania, mając czterdzieści trzy lata. Oficjalnie mówiono o chorobie; powszechnie wiązano śmierć z wyniszczającą pracą ponad siły.
+
+## Po latach
+Jego nazwisko weszło do języka potocznego jako ostrzeżenie – powiedzenie o zapracowaniu się jak Pstrowski krążyło przez cały okres PRL, będąc cichym komentarzem do propagandy pracy.`,
+    trivia: [
+      'Zmarł niespełna rok po ogłoszeniu swojego wezwania do współzawodnictwa, w wieku 43 lat.',
+      'Jego nazwisko weszło do języka potocznego jako ostrzeżenie przed zapracowaniem się na śmierć.',
+    ],
+    resources: [
+      {
+        id: 'pstrowski-wiki',
+        title: 'Wincenty Pstrowski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Wincenty_Pstrowski',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'pstrowski-fot',
+        title: 'Wincenty Pstrowski – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Wincenty%20Pstrowski&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['gornictwo-prl', 'propaganda-prl', 'plan-szescioletni', 'gospodarka-prl'],
+  },
+  {
+    id: 'iwaszkiewicz',
+    title: 'Jarosław Iwaszkiewicz',
+    subtitle: 'Pisarz na styku literatury i władzy',
+    category: 'osoby',
+    tags: ['literatura', 'ZLP', 'Skamander', 'kultura'],
+    yearStart: 1945,
+    yearEnd: 1980,
+    summary: 'Prozaik i poeta, przez dwadzieścia jeden lat prezes Związku Literatów Polskich i redaktor „Twórczości”; czterokrotnie nominowany do Nobla.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jaroslaw_Iwaszkiewicz.jpg?width=800',
+    imageCaption: 'Jaroslaw Iwaszkiewicz',
+    content: `## Pisarz
+Jarosław Iwaszkiewicz (1894–1980) należał przed wojną do grupy poetyckiej Skamander i współpracował z „Wiadomościami Literackimi”. Jest autorem opowiadań i powieści, które weszły do kanonu – wiele z nich, jak „Panny z Wilka”, doczekało się głośnych ekranizacji.
+
+## Dwie funkcje
+W latach 1955–1980 redagował miesięcznik „Twórczość”, a od 1959 roku aż do śmierci przewodniczył Związkowi Literatów Polskich. Był też przez blisko trzydzieści lat posłem na Sejm PRL.
+
+## Rola pośrednika
+Pozycja Iwaszkiewicza była dwuznaczna i taką pozostaje w ocenach. Z jednej strony firmował swoim nazwiskiem instytucje podporządkowane władzy, z drugiej – wykorzystywał wpływy, by pomagać pisarzom w kłopotach, interweniować w sprawach cenzury i utrzymywać kontakty ze środowiskami emigracyjnymi.
+
+## Stawisko
+Jego dom w Stawisku pod Warszawą był miejscem spotkań literatów przez kilka dekad. Czterokrotnie nominowano go do Nagrody Nobla. Zmarł w 1980 roku, kilka miesięcy przed Sierpniem, który zmienił układ sił także w środowisku literackim.`,
+    trivia: [
+      'Kierował Związkiem Literatów Polskich przez dwadzieścia jeden lat, aż do śmierci.',
+      'Czterokrotnie nominowano go do Nagrody Nobla w dziedzinie literatury.',
+    ],
+    resources: [
+      {
+        id: 'iwaszkiewicz-wiki',
+        title: 'Jarosław Iwaszkiewicz – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Jaros%C5%82aw_Iwaszkiewicz',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'iwaszkiewicz-fot',
+        title: 'Jarosław Iwaszkiewicz – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Jaros%C5%82aw%20Iwaszkiewicz&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['literatura-prl', 'cenzura-prl', 'kultura-prl', 'sejm-prl'],
+  },
+  {
+    id: 'glos-ludu',
+    title: '„Głos Ludu”',
+    subtitle: 'Organ PPR, poprzednik „Trybuny Ludu”',
+    category: 'kultura',
+    tags: ['prasa', 'propaganda', 'PPR', 'media'],
+    yearStart: 1944,
+    yearEnd: 1948,
+    summary: 'Dziennik Polskiej Partii Robotniczej wychodzący w latach 1944–1948; po zjednoczeniu partii zastąpiła go „Trybuna Ludu”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Boles%C5%82aw_Bierut_do_ludno%C5%9Bci_Warszawy_1945.jpg?width=800',
+    imageCaption: 'Odezwa Boleslawa Bieruta do ludnosci Warszawy, 1945',
+    content: `## Gazeta partii
+„Głos Ludu” był organem Komitetu Centralnego Polskiej Partii Robotniczej, wychodzącym od 1944 roku. Pełnił funkcję, jaką w systemie partyjnym miała prasa centralna: nie informował, lecz wykładał aktualną linię – to z niego aktyw dowiadywał się, co należy myśleć o kolejnych wydarzeniach.
+
+## Rok 1947
+Gazeta odegrała istotną rolę w kampanii przed wyborami 1947 roku i w nagonce na PSL Stanisława Mikołajczyka, publikując oskarżenia pod adresem działaczy opozycji.
+
+## Koniec
+W grudniu 1948 roku, po połączeniu PPR i PPS w PZPR, „Głos Ludu” połączono z socjalistycznym „Robotnikiem”. Z tego połączenia powstała „Trybuna Ludu” – odtąd jedyny organ centralny partii, wychodzący aż do 1990 roku.
+
+## Dlaczego to ważne
+Los gazety jest dokładnym odbiciem losu samej PPS: formalnie połączenie równych, w praktyce wchłonięcie. Tytuł socjalistyczny zniknął, tytuł komunistyczny zmienił nazwę.`,
+    trivia: [
+      'Powstał z połączenia z socjalistycznym „Robotnikiem”, ale to tytuł socjalistyczny zniknął.',
+      'Prasa partyjna nie tyle informowała, ile wykładała aktualną linię – aktyw dowiadywał się z niej, co myśleć.',
+    ],
+    resources: [
+      {
+        id: 'glos-ludu-wiki',
+        title: '„Głos Ludu” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/G%C5%82os_Ludu_%28dziennik_PPR%29',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'glos-ludu-fot',
+        title: '„Głos Ludu” – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=G%C5%82os%20Ludu%20%28dziennik%20PPR%29&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['trybuna-ludu', 'ppr', 'pzpr', 'wybory-1947', 'prasa-prl'],
+  },
+  {
+    id: 'zycie-warszawy',
+    title: '„Życie Warszawy”',
+    subtitle: 'Dziennik miasta, nie partii',
+    category: 'kultura',
+    tags: ['prasa', 'Warszawa', 'media', 'życie codzienne'],
+    yearStart: 1944,
+    yearEnd: 1989,
+    summary: 'Warszawski dziennik wychodzący od 15 października 1944 roku – jedna z najpopularniejszych gazet PRL, czytana dla informacji miejskiej i ogłoszeń.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zycie_Warszawy_1944_nr_1.jpg?width=800',
+    imageCaption: 'Pierwszy numer z 1944 roku',
+    content: `## Od 1944 roku
+„Życie Warszawy” zaczęło wychodzić 15 października 1944 roku, jeszcze przed końcem wojny, w mieście leżącym w gruzach. Przetrwało cały okres PRL i ukazywało się do 2011 roku.
+
+## Czym się różniło
+Formalnie podlegało tym samym regułom co cała prasa: cenzurze, przydziałowi papieru i nadzorowi partyjnemu. W praktyce, jako dziennik miejski, zajmowało się sprawami, które nie miały ciężaru ideologicznego: komunikacją, zaopatrzeniem sklepów, remontami, kulturą, sportem. To czyniło je gazetą realnie czytaną.
+
+## Ogłoszenia
+Dużą część nakładu napędzały ogłoszenia drobne. W gospodarce niedoboru rubryka z ofertami zamiany mieszkania, sprzedaży części samochodowych czy korepetycji bywała praktyczniejsza niż wszystko inne w gazecie.
+
+## Miejsce w systemie prasy
+Prasa PRL miała wyraźną hierarchię: organy centralne partii wykładały linię, dzienniki regionalne i miejskie obsługiwały codzienność, a pisma społeczno-kulturalne były polem, na którym co pewien czas dało się powiedzieć więcej.`,
+    trivia: [
+      'Pierwszy numer ukazał się 15 października 1944 roku, gdy wojna jeszcze trwała.',
+      'W gospodarce niedoboru rubryka ogłoszeń drobnych bywała najużyteczniejszą częścią gazety.',
+    ],
+    resources: [
+      {
+        id: 'zycie-warszawy-wiki',
+        title: '„Życie Warszawy” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/%C5%BBycie_Warszawy',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'zycie-warszawy-fot',
+        title: '„Życie Warszawy” – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=%C5%BBycie%20Warszawy&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['prasa-prl', 'cenzura-prl', 'zycie-codzienne', 'kolejki-prl'],
+  },
+  {
+    id: 'slowo-powszechne',
+    title: '„Słowo Powszechne”',
+    subtitle: 'Katolicki dziennik pod kontrolą',
+    category: 'kultura',
+    tags: ['prasa', 'Kościół', 'PAX', 'media'],
+    yearStart: 1947,
+    yearEnd: 1989,
+    summary: 'Jedyny w bloku wschodnim ogólnokrajowy dziennik katolicki, wydawany od 1947 roku przez środowisko Bolesława Piaseckiego.',
+    content: `## Ewenement
+„Słowo Powszechne” było jedynym w krajach socjalistycznych codziennym pismem katolickim o zasięgu ogólnokrajowym. Wychodziło od 1947 roku i przetrwało do 1997.
+
+## Kto je wydawał
+Gazetę prowadziło środowisko Bolesława Piaseckiego, późniejsze Stowarzyszenie PAX. To wyjaśnia paradoks jej istnienia: dziennik katolicki mógł się ukazywać dlatego, że reprezentował nurt akceptujący ustrój, a nie niezależny Kościół.
+
+## Rola
+Dla władz pismo było dowodem rzekomej swobody wyznaniowej i narzędziem wpływu na katolików. Dla hierarchii kościelnej – przedsięwzięciem podejrzanym, konkurencyjnym wobec prasy diecezjalnej i wobec „Tygodnika Powszechnego”, który za odmowę druku nekrologu Stalina zamknięto w 1953 roku.
+
+## Dwie prasy katolickie
+Zestawienie obu tytułów pokazuje mechanizm dokładnie: pismo niezależne można było zamknąć, pismo koncesjonowane wychodziło codziennie przez pół wieku.`,
+    trivia: [
+      'Był to jedyny ogólnokrajowy dziennik katolicki w całym bloku wschodnim.',
+      'Wychodził codziennie przez pół wieku, podczas gdy niezależny „Tygodnik Powszechny” zamknięto w 1953 roku.',
+    ],
+    resources: [
+      {
+        id: 'slowo-powszechne-wiki',
+        title: '„Słowo Powszechne” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/S%C5%82owo_Powszechne',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'slowo-powszechne-fot',
+        title: '„Słowo Powszechne” – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=S%C5%82owo%20Powszechne&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['pax-piasecki', 'piasecki', 'tygodnik-powszechny', 'kosciol-prl', 'prasa-prl'],
+  },
+  {
+    id: 'przeglad-kulturalny',
+    title: '„Przegląd Kulturalny”',
+    subtitle: 'Tygodnik odwilży zamknięty w 1963',
+    category: 'kultura',
+    tags: ['prasa', 'kultura', 'odwilż', 'cenzura'],
+    yearStart: 1952,
+    yearEnd: 1963,
+    summary: 'Tygodnik społeczno-kulturalny wydawany w latach 1952–1963, jedno z pism odwilży; zlikwidowany przy zaostrzaniu kursu wobec inteligencji.',
+    content: `## Pismo środowiska
+„Przegląd Kulturalny” ukazywał się w Warszawie od 1952 roku. Podobnie jak „Nowa Kultura” czy „Po prostu”, należał do pism, w których w latach odwilży toczyła się realna dyskusja o literaturze, sztuce i granicach dopuszczalnej krytyki.
+
+## Czym była prasa kulturalna
+W systemie, w którym gazety codzienne wykładały linię partii, tygodniki społeczno-kulturalne były jedynym miejscem, gdzie dało się prowadzić spór – zwykle językiem aluzji i przez wybór tematów. Dlatego to one bywały zamykane jako pierwsze.
+
+## Likwidacja
+W 1963 roku „Przegląd Kulturalny” zlikwidowano, a jego miejsce zajął nowy tygodnik „Kultura”. Decyzja zapadła w okresie zaostrzania kursu wobec środowisk twórczych, kilka lat po zamknięciu „Po prostu” w 1957 roku.
+
+## Wzór
+Historia pisma pokazuje rytm, który w PRL powtarzał się kilkakrotnie: odwilż otwierała pole dyskusji, po czym pole to zamykano, a redakcje rozwiązywano bez podawania rzeczywistych powodów.`,
+    trivia: [
+      'Zlikwidowany w 1963 roku przy zaostrzaniu kursu wobec środowisk twórczych.',
+      'Tygodniki społeczno-kulturalne były jedynym miejscem realnej dyskusji – i dlatego zamykano je jako pierwsze.',
+    ],
+    resources: [
+      {
+        id: 'przeglad-kulturalny-wiki',
+        title: '„Przegląd Kulturalny” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Przegl%C4%85d_Kulturalny',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'przeglad-kulturalny-fot',
+        title: '„Przegląd Kulturalny” – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Przegl%C4%85d%20Kulturalny&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['prasa-prl', 'cenzura-prl', 'kultura-prl', 'pazdziernik-1956'],
+  },
+  {
+    id: 'express-wieczorny',
+    title: '„Express Wieczorny”',
+    subtitle: 'Popołudniówka z ostatniej strony',
+    category: 'kultura',
+    tags: ['prasa', 'media', 'Warszawa', 'życie codzienne'],
+    yearStart: 1946,
+    yearEnd: 1989,
+    summary: 'Popołudniowy dziennik wydawany od 1946 roku, pisany lżej niż prasa partyjna – z kroniką wypadków, sportem i ogłoszeniami.',
+    content: `## Popołudniówka
+„Express Wieczorny” zaczął wychodzić w 1946 roku i ukazywał się do 1999. Był popołudniówką: gazetą kupowaną w drodze z pracy, pisaną krótko i lekko, nastawioną na wiadomości miejskie, sport, kronikę wypadków i ogłoszenia.
+
+## Inna funkcja
+W systemie prasy PRL taki tytuł pełnił rolę odciążającą. Nie prowadził polemik ideologicznych, więc nie budził czujności cenzury w tym samym stopniu co pisma społeczno-kulturalne, a jednocześnie był realnie czytany – przez ludzi, którzy prasy partyjnej nie brali do ręki.
+
+## Czytelnictwo
+Wysokie nakłady gazet w PRL wynikały z niskiej ceny i braku konkurencji, ale popołudniówki sprzedawały się naprawdę – kupowano je z wyboru, nie z prenumeraty zakładowej.
+
+## Obraz miasta
+Dla dzisiejszego czytelnika roczniki takiej gazety są zapisem codzienności: cen, kolejek, repertuaru kin, wypadków komunikacyjnych i drobnych spraw, których nie odnotowywała prasa centralna.`,
+    trivia: [
+      'Popołudniówki kupowano z wyboru, podczas gdy prasa partyjna trafiała do rąk przez prenumeratę zakładową.',
+      'Roczniki takiej gazety są dziś zapisem codzienności, której prasa centralna nie odnotowywała.',
+    ],
+    resources: [
+      {
+        id: 'express-wieczorny-wiki',
+        title: '„Express Wieczorny” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Express_Wieczorny',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'express-wieczorny-fot',
+        title: '„Express Wieczorny” – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Express%20Wieczorny&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['prasa-prl', 'zycie-warszawy', 'zycie-codzienne', 'sport-prl'],
+  },
+  {
+    id: 'prawo-i-zycie',
+    title: '„Prawo i Życie”',
+    subtitle: 'Pismo prawników po Październiku',
+    category: 'kultura',
+    tags: ['prasa', 'prawo', 'odwilż', 'media'],
+    yearStart: 1956,
+    yearEnd: 1989,
+    summary: 'Czasopismo prawnicze wydawane od 1956 roku, organ Zrzeszenia Prawników Polskich; powstało w atmosferze popaździernikowej odwilży.',
+    content: `## Rok powstania
+„Prawo i Życie” zaczęło wychodzić w 1956 roku – w momencie, gdy odwilż otwierała pole do rozmowy o praworządności po okresie procesów politycznych i wymuszanych zeznań. Do 1973 roku był to dwutygodnik, później tygodnik.
+
+## Zakres
+Pismo, wydawane przez Zrzeszenie Prawników Polskich, zajmowało się orzecznictwem, praktyką sądową i sprawami obyczajowymi widzianymi od strony prawa. Publikowało reportaże sądowe, które bywały jedynym sposobem opisania konkretnych ludzkich spraw.
+
+## Granice
+Dyskusja o prawie miała w PRL wyraźny sufit: można było pisać o wadliwym stosowaniu przepisów, nie można było kwestionować podporządkowania sądów i prokuratury interesom politycznym. Niezawisłość sędziowska pozostawała zapisem, nie praktyką.
+
+## Po 1989
+Tytuł przetrwał zmianę ustroju i ukazywał się do 2000 roku, tracąc stopniowo swoją wcześniejszą rolę – wraz z pojawieniem się wolnej prasy prawniczej i publicystyki.`,
+    trivia: [
+      'Powstało w 1956 roku, gdy odwilż otwarła rozmowę o praworządności po okresie procesów politycznych.',
+      'O wadliwym stosowaniu przepisów pisać było wolno; o podporządkowaniu sądów polityce – nie.',
+    ],
+    resources: [
+      {
+        id: 'prawo-i-zycie-wiki',
+        title: '„Prawo i Życie” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Prawo_i_%C5%BBycie',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'prawo-i-zycie-fot',
+        title: '„Prawo i Życie” – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Prawo%20i%20%C5%BBycie&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['niezaleznosc-sadow', 'prasa-prl', 'pazdziernik-1956', 'cenzura-prl'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -32945,4 +33581,13 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1976, event: 'Jan Olszewski wśród założycieli Komitetu Obrony Robotników', category: 'osoby', entryId: 'olszewski-jan' },
   { year: 1945, event: 'Kard. Hlond organizuje administrację kościelną na ziemiach zachodnich', category: 'osoby', entryId: 'hlond' },
   { year: 1953, event: 'Pokazowy proces biskupa Czesława Kaczmarka', category: 'osoby', entryId: 'kaczmarek-biskup' },
+  { year: 1978, event: 'Andrzej Gwiazda wśród założycieli Wolnych Związków Zawodowych Wybrzeża', category: 'osoby', entryId: 'gwiazda' },
+  { year: 1981, event: 'Pobicie Jana Rulewskiego w Bydgoszczy; kraj na progu strajku generalnego', category: 'osoby', entryId: 'rulewski' },
+  { year: 1987, event: 'Jan Józef Lipski współtworzy reaktywowaną PPS', category: 'osoby', entryId: 'lipski' },
+  { year: 1976, event: 'Stanisław Stomma jako jedyny poseł nie popiera zmian w konstytucji', category: 'osoby', entryId: 'stomma' },
+  { year: 1989, event: 'Leszek Balcerowicz ministrem finansów w rządzie Mazowieckiego', category: 'osoby', entryId: 'balcerowicz' },
+  { year: 1947, event: 'Wezwanie Wincentego Pstrowskiego rozpoczyna masowe współzawodnictwo pracy', category: 'osoby', entryId: 'pstrowski' },
+  { year: 1959, event: 'Jarosław Iwaszkiewicz prezesem Związku Literatów Polskich', category: 'osoby', entryId: 'iwaszkiewicz' },
+  { year: 1948, event: '„Głos Ludu” i „Robotnik” łączą się w „Trybunę Ludu”', category: 'kultura', entryId: 'glos-ludu' },
+  { year: 1963, event: 'Likwidacja „Przeglądu Kulturalnego”', category: 'kultura', entryId: 'przeglad-kulturalny' },
 ];
