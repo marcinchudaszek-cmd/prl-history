@@ -26376,23 +26376,20 @@ To kultowy zespół polskiej nowej fali, wpływowy mimo krótkiego istnienia.`,
     yearStart: 1973,
     summary: 'Oniryczna ekranizacja prozy Brunona Schulza w reżyserii Wojciecha Hasa (1973); labiryntowa feeria obrazów, nagrodzona w Cannes.',
     content: `## Film
-„Sanatorium pod klepsydrą” (1973) w reżyserii Wojciecha Jerzego Hasa to oniryczna, wizyjna ekranizacja prozy Brunona Schulza.
+„Sanatorium pod Klepsydrą” Wojciecha Hasa z 1973 roku to swobodna adaptacja prozy Brunona Schulza, oparta głównie na tytułowym opowiadaniu ze zbioru z 1937 roku. Bohater przybywa do sanatorium, w którym czas płynie inaczej, by spotkać zmarłego ojca.
 
-## Fabuła
-Józef odwiedza sanatorium, w którym czas płynie inaczej, a jego zmarły ojciec wciąż pozostaje przy życiu.
+## Forma
+Has zbudował film jako ciąg obrazów sennych, z rozbudowaną scenografią i kostiumem, bez klasycznej ciągłości fabularnej. Powstało dzieło uznawane za jedno z najbardziej oryginalnych w polskim kinie, formalnie bliższe malarstwu niż narracji filmowej.
 
-## Wizja
-Labiryntowa, senna sceneria oraz feeria obrazów i kostiumów czynią z filmu arcydzieło wyobraźni.
+## Kłopot polityczny
+Film afirmował kulturę żydowską, naznaczoną doświadczeniem Zagłady, a powstawał w cieniu antysemickiej kampanii 1968 roku. Z tego powodu władze odkładały jego premierę, a wyjazd na festiwal odbył się w atmosferze konfliktu z decydentami.
 
-## Schulz
-To adaptacja opowiadań ze zbioru „Sanatorium pod klepsydrą” Brunona Schulza.
-
-## Cannes
-Film otrzymał nagrodę Jury na festiwalu w Cannes (1973), mimo niechęci ówczesnych władz.
-
-## Znaczenie
-To jeden z najbardziej oryginalnych wizualnie filmów w historii polskiego kina.`,
-    trivia: ['Film to oniryczna ekranizacja prozy Brunona Schulza.', 'Otrzymał nagrodę Jury na festiwalu w Cannes w 1973 roku.'],
+## Uznanie
+Mimo przeszkód film nagrodzono w Cannes i wszedł do kanonu kina europejskiego. Dziś bywa najczęściej przywoływanym przykładem tego, jak wybitne dzieło mogło powstać w PRL wbrew, a nie dzięki systemowi.`,
+    trivia: [
+      'Premierę odkładano, bo film afirmował kulturę żydowską kilka lat po kampanii antysemickiej 1968 roku.',
+      'Zamiast klasycznej fabuły Has zbudował film jako ciąg obrazów sennych.',
+    ],
     resources: [
       {
         id: 'sk2-yt',
@@ -26504,24 +26501,21 @@ Zakopane to symbol polskich gór, wypoczynku i żywej kultury góralskiej.`,
     summary: 'Ceniona ekranizacja powieści Bolesława Prusa w reżyserii Ryszarda Bera (1977); dzieje kupca Wokulskiego i jego miłości do Izabeli Łęckiej.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jerzy_Kamas.jpg?width=800',
     imageCaption: 'Lalka',
-    content: `## Serial
-„Lalka” (1977) w reżyserii Ryszarda Bera to ceniona telewizyjna ekranizacja powieści Bolesława Prusa.
-
-## Fabuła
-Serial opowiada dzieje kupca Stanisława Wokulskiego i jego nieszczęśliwej miłości do arystokratki Izabeli Łęckiej.
+    content: `## Ekranizacja
+Serial „Lalka” z 1977 roku, w reżyserii Ryszarda Bera, był drugą po filmie Wojciecha Hasa z 1968 roku dużą ekranizacją powieści Bolesława Prusa. Formuła wieloodcinkowa pozwoliła oddać to, na co w filmie nie było miejsca: rozbudowaną panoramę Warszawy końca XIX wieku.
 
 ## Obsada
-W rolach głównych Jerzy Kamas (Wokulski), Małgorzata Braunek (Izabela) i Bronisław Pawlik (Rzecki).
+W rolę Stanisława Wokulskiego wcielił się Jerzy Kamas, Izabelę Łęcką zagrała Małgorzata Braunek. Serial zyskał opinię jednej z najwierniejszych adaptacji polskiej klasyki literackiej.
 
-## Panorama epoki
-To barwny obraz Warszawy drugiej połowy XIX wieku i społeczeństwa doby pozytywizmu.
+## Dlaczego klasyka
+Ekranizacje lektur szkolnych były w PRL osobnym gatunkiem produkcji telewizyjnej. Miały walor edukacyjny, były bezpieczne cenzuralnie i pozwalały zatrudnić najlepszych aktorów przy materiale, którego nikt nie kwestionował. Dla widowni oznaczały wieczorne spotkanie z literaturą, do której inaczej wielu by nie sięgnęło.
 
-## Wierność
-Serial ceniono za wierność literze powieści i pieczołowitość scenografii.
-
-## Znaczenie
-To jedna z najlepszych polskich ekranizacji literatury i szkolna klasyka.`,
-    trivia: ['Wokulskiego zagrał Jerzy Kamas, a Izabelę Łęcką – Małgorzata Braunek.', 'Serial to wierna ekranizacja pozytywistycznej powieści Bolesława Prusa.'],
+## Trwałość
+Serial przez dekady powracał na antenę i pozostał punktem odniesienia przy każdej kolejnej dyskusji o adaptowaniu „Lalki”.`,
+    trivia: [
+      'Była to druga duża ekranizacja „Lalki” – po filmie Wojciecha Hasa z 1968 roku.',
+      'Ekranizacje lektur były w PRL gatunkiem bezpiecznym cenzuralnie i dlatego chętnie produkowanym.',
+    ],
     resources: [
       {
         id: 'la-yt',
@@ -26561,23 +26555,20 @@ To jedna z najlepszych polskich ekranizacji literatury i szkolna klasyka.`,
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Karjera_Nikodema_Dyzmy.jpg?width=800',
     imageCaption: 'Kariera Nikodema Dyzmy',
     content: `## Serial
-„Kariera Nikodema Dyzmy” (1980) w reżyserii Jana Rybkowskiego i Marka Nowickiego to ekranizacja powieści Tadeusza Dołęgi-Mostowicza.
+Siedmioodcinkowa „Kariera Nikodema Dyzmy” w reżyserii Jana Rybkowskiego i Marka Nowickiego była emitowana wiosną 1980 roku, na kilka miesięcy przed Sierpniem. Powstała na podstawie powieści Tadeusza Dołęgi-Mostowicza z 1931 roku.
 
 ## Fabuła
-Bezrobotny Nikodem Dyzma przypadkiem robi zawrotną karierę w elitach II RP – dzięki tupetowi, szczęściu i cudzej głupocie.
+Bohaterem jest marnie wykształcony bezrobotny z prowincji, który trafia do Warszawy okresu sanacji i dzięki serii nieporozumień robi zawrotną karierę państwową. Nikt z otoczenia nie chce przyznać, że nie rozumie jego wypowiedzi, więc brany jest za człowieka wybitnego.
 
-## Roman Wilhelmi
-Genialna rola tytułowa: cwaniak i nieuk brany przez otoczenie za męża stanu.
+## Podwójne dno
+Formalnie serial krytykował II Rzeczpospolitą, co czyniło go akceptowalnym dla cenzury. Widownia odczytywała go jednak inaczej: jako opis mechanizmu awansu w każdym systemie, w którym o karierze decydują układy, a nie kompetencje – a więc również we własnym.
 
-## Satyra
-To gorzka satyra na mechanizmy władzy, koniunkturalizm i puste elity.
-
-## Aktualność
-Mimo międzywojennej scenerii serial czytano jako celny komentarz do realiów PRL.
-
-## Znaczenie
-Kultowy serial – „dyzma” stało się synonimem karierowicza-nieuka.`,
-    trivia: ['Rolę Nikodema Dyzmy zagrał Roman Wilhelmi.', 'Nazwisko „Dyzma” stało się synonimem karierowicza-nieuka.'],
+## Rola Wilhelmiego
+Rola Romana Wilhelmiego stała się jedną z najbardziej rozpoznawalnych w historii polskiej telewizji, a samo nazwisko bohatera weszło do języka jako określenie karierowicza bez kwalifikacji.`,
+    trivia: [
+      'Serial emitowano wiosną 1980 roku, na kilka miesięcy przed sierpniowymi strajkami.',
+      'Krytyka sanacji była cenzuralnie bezpieczna, ale widzowie odczytywali serial jako opis własnych czasów.',
+    ],
     resources: [
       {
         id: 'knd-yt',
@@ -26727,28 +26718,25 @@ To najbardziej reprezentacyjny przykład socrealistycznej urbanistyki w Polsce.`
     category: 'społeczeństwo',
     tags: ['architektura', 'Warszawa', 'odbudowa', 'dziedzictwo'],
     yearStart: 1971,
-    yearEnd: 1974,
-    summary: 'Zburzony przez Niemców Zamek Królewski w Warszawie odbudowano w latach 1971–1974 ze społecznej zbiórki „cegiełek”; symbol odzyskiwania dziedzictwa.',
+    yearEnd: 1984,
+    summary: 'Zburzony przez Niemców Zamek Królewski w Warszawie odbudowano w latach 1971–1984 ze społecznej zbiórki „cegiełek”; symbol odzyskiwania dziedzictwa.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zamek%20Kr%C3%B3lewski%20w%20Warszawie%20z%20Ogrodami%20Kr%C3%B3lewskimi.jpg?width=800',
     imageCaption: 'Odbudowany Zamek Królewski w Warszawie.',
-    content: `## Odbudowa
-Zamek Królewski w Warszawie, zburzony przez Niemców w czasie wojny, odbudowano w latach 1971–1974.
+    content: `## Zburzony
+Zamek Królewski, dawna siedziba króla i Sejmu Rzeczypospolitej, został po Powstaniu Warszawskim wysadzony przez Niemców. Po wojnie z budowli pozostał zasypany gruz i fragmenty murów.
 
-## Decyzja 1971
-Decyzję o odbudowie podjęto w 1971 roku; natychmiast ruszyła szeroka społeczna zbiórka funduszy.
+## Trzydzieści lat sporu
+Odbudowy nie podjęto od razu. Przez ponad dwie dekady zamek pozostawał pustym placem, a decyzja odkładana była z powodów zarówno finansowych, jak i ideologicznych – rezydencja królewska nie mieściła się w obowiązującej wizji przeszłości.
 
-## Cegiełki
-Polacy w kraju i na emigracji masowo kupowali „cegiełki” na odbudowę zamku.
+## Decyzja i zbiórka
+Odbudowę rozpoczęto w 1971 roku, po zmianie ekipy rządzącej. Finansowano ją w znacznej części ze społecznych składek, zbieranych także wśród Polonii – co uczyniło z przedsięwzięcia jedno z nielicznych działań publicznych opartych na dobrowolnym zaangażowaniu ludzi, a nie na przydziale środków.
 
-## Rekonstrukcja
-Wnętrza i bryłę odtwarzano m.in. na podstawie wedut Canaletta (Bernarda Bellotta).
-
-## Symbol
-Odbudowa Zamku stała się symbolem odzyskiwania narodowego dziedzictwa i dumy stolicy.
-
-## Znaczenie
-To jedno z najważniejszych przedsięwzięć konserwatorskich PRL, szeroko dokumentowane przez Polską Kronikę Filmową.`,
-    trivia: ['Zamek Królewski odbudowano w latach 1971–1974 ze społecznych „cegiełek”.', 'Wnętrza rekonstruowano m.in. na podstawie wedut Canaletta (Bellotta).'],
+## Otwarcie
+Prace prowadzono ponad dekadę, korzystając z zachowanych detali, planów i ikonografii. Zamek udostępniono zwiedzającym w latach 80. Wraz z odbudowanym Starym Miastem stał się najbardziej rozpoznawalnym przykładem powojennej rekonstrukcji zabytków w Europie.`,
+    trivia: [
+      'Przez ponad dwadzieścia pięć lat po wojnie w miejscu zamku był pusty plac.',
+      'Odbudowę finansowano w znacznej części ze społecznych składek, zbieranych także wśród Polonii.',
+    ],
     resources: [
       {
         id: 'zamek-krolewski-pkf',
@@ -26795,24 +26783,21 @@ To jedno z najważniejszych przedsięwzięć konserwatorskich PRL, szeroko dokum
     summary: 'Pierwsza wielka arteria powojennej Warszawy (wschód–zachód), otwarta w 1949; symbol „warszawskiego tempa” odbudowy, opiewany w Polskiej Kronice Filmowej.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Trasa%20W-Z%20lata%2040.%2001.jpg?width=800',
     imageCaption: 'Trasa W-Z w Warszawie, przełom lat 40. i 50.',
-    content: `## Trasa W-Z
-Trasa W-Z to pierwsza wielka arteria komunikacyjna powojennej Warszawy, prowadząca ze wschodu na zachód, otwarta w 1949 roku.
-
-## Tunel
-Poprowadzono ją tunelem pod placem Zamkowym oraz mostem Śląsko-Dąbrowskim przez Wisłę.
+    content: `## Inwestycja
+Trasa W-Z, czyli arteria wschód–zachód, była pierwszą wielką inwestycją komunikacyjną powojennej Warszawy. Poprowadzono ją przez zniszczone śródmieście, z tunelem pod Krakowskim Przedmieściem i mostem Śląsko-Dąbrowskim.
 
 ## Tempo
-Budowa w rekordowym tempie stała się sztandarowym pokazem „warszawskiego tempa” odbudowy.
+Budowę prowadzono w rekordowym tempie i oddano do użytku w lipcu 1949 roku. Pośpiech miał wymiar polityczny: trasa miała pokazać, że nowa władza potrafi budować szybciej i na większą skalę niż przedwojenne państwo.
 
-## Ruchome schody
-Nowinką techniczną były ruchome schody łączące trasę ze Starym Miastem.
+## Cena pośpiechu
+Przy okazji przebudowy rozebrano część zabudowy, którą można było ratować, a osuwisko skarpy wiślanej groziło katastrofą kościoła św. Anny – budowlę ratowano w improwizowanych warunkach. Rozwiązania techniczne bywały prowizoryczne, a tempo wymuszało pracę na trzy zmiany.
 
-## Propaganda
-Otwarcie hucznie świętowano i szeroko relacjonowano w Polskiej Kronice Filmowej.
-
-## Znaczenie
-Trasa W-Z to symbol powojennej odbudowy stolicy i inżynierskiego rozmachu epoki.`,
-    trivia: ['Trasę W-Z otwarto w 1949 roku w rekordowym „warszawskim tempie”.', 'Nowinką były ruchome schody łączące trasę ze Starym Miastem.'],
+## Symbol odbudowy
+Otwarcie trasy stało się jednym z najczęściej pokazywanych obrazów odbudowy: relacjonowały je kroniki filmowe, prasa i plakaty. Przez dziesięciolecia Trasa W-Z była w propagandzie skrótem opisującym powojenny wysiłek budowlany.`,
+    trivia: [
+      'Trasę oddano do użytku w lipcu 1949 roku, po budowie prowadzonej w rekordowym tempie.',
+      'Osuwisko skarpy wiślanej zagroziło kościołowi św. Anny, który ratowano w trakcie budowy.',
+    ],
     resources: [
       {
         id: 'trasa-wz-pkf',
@@ -27170,24 +27155,21 @@ To jeden z najważniejszych filmów nurtu moralnego niepokoju polskiego kina.`,
     summary: 'Lekkoatleta, kulomiot; w 1972 zdobył złoty medal olimpijski w Monachium w dramatycznym, wyrównanym finale; barwna postać sportu i aktor.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/W%C5%82adys%C5%82aw%20Komar%201972.jpg?width=800',
     imageCaption: 'Władysław Komar – złoty medalista z 1972 roku.',
-    content: `## Sylwetka
-Władysław Komar (1940–1998) to lekkoatleta, kulomiot i jedna z najbarwniejszych postaci polskiego sportu.
+    content: `## Monachium 1972
+Władysław Komar (1940–1998) zdobył złoty medal olimpijski w pchnięciu kulą w Monachium w 1972 roku. Był to jeden z najlepszych występów polskiej lekkoatletyki w historii igrzysk – tego samego dnia Polacy sięgali po kolejne medale.
 
-## Monachium 1972
-Zdobył złoty medal olimpijski w pchnięciu kulą, w niezwykle wyrównanym i dramatycznym finale.
+## Nie tylko kula
+Zanim skupił się na lekkoatletyce, grał w rugby. Później występował też jako aktor i artysta estradowy, wykorzystując posturę i rozpoznawalność. Ta wielotorowość była w PRL rzadkością: sportowcy zwykle znikali z życia publicznego wraz z końcem kariery.
 
-## Charyzma
-Był popularnym, lubianym sportowcem o wielkiej charyzmie, znanym także z ekranu.
+## Postać publiczna
+Był typem sportowca-celebryty, jeszcze zanim to pojęcie zaistniało – znanego z charakteru i barwnych historii, a nie tylko z wyników. Dla publiczności był kimś w rodzaju bohatera ludowego.
 
-## Rywalizacja
-Złoto wywalczył minimalną przewagą, w jednym z najbardziej emocjonujących konkursów igrzysk.
-
-## Poza sportem
-Po karierze udzielał się aktorsko, grając w filmach.
-
-## Znaczenie
-To jeden z najbardziej lubianych polskich olimpijczyków; zginął tragicznie w 1998 roku.`,
-    trivia: ['Złoto w Monachium 1972 zdobył w niezwykle wyrównanym, dramatycznym finale.', 'Był nie tylko kulomiotem, ale i aktorem filmowym.'],
+## Wypadek
+Zginął 17 sierpnia 1998 roku w wypadku samochodowym pod Przybiernowem. W tym samym samochodzie zginął Tadeusz Ślusarski, mistrz olimpijski w skoku o tyczce z Montrealu. Śmierć dwóch mistrzów olimpijskich naraz uczyniła z tego wypadku jedno z najgłośniejszych wydarzeń w historii polskiego sportu.`,
+    trivia: [
+      'Przed karierą lekkoatletyczną grał w rugby, a później występował jako aktor i artysta estradowy.',
+      'Zginął w tym samym wypadku co Tadeusz Ślusarski, mistrz olimpijski w skoku o tyczce.',
+    ],
     resources: [
       {
         id: 'wk2-yt',
@@ -27452,24 +27434,21 @@ Zginął 17 sierpnia 1998 roku w wypadku samochodowym pod Przybiernowem. W tym s
     summary: 'Kamieniarz, aktor-naturszczyk, pisarz i scenarzysta; zasłynął rolą w „Rejsie” (1970) w kultowym duecie ze Zdzisławem Maklakiewiczem.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Himilsbach%20Polish%20actor.jpg?width=800',
     imageCaption: 'Jan Himilsbach – aktor-naturszczyk i pisarz.',
-    content: `## Sylwetka
-Jan Himilsbach (1931–1988) to kamieniarz, aktor-naturszczyk, pisarz i scenarzysta, zwany „księciem naturszczyków”.
+    content: `## Kamieniarz
+Jan Himilsbach (1931–1988) z zawodu był kamieniarzem i nigdy nie ukończył szkoły aktorskiej. Do filmu trafił przypadkiem, a został w nim dzięki temu, czego nie dawało wykształcenie: absolutnej naturalności przed kamerą.
 
 ## Rejs
-Zadebiutował w 1970 w „Rejsie” Marka Piwowskiego, tworząc kultowy duet ze Zdzisławem Maklakiewiczem.
-
-## Naturszczyk
-Grał niejako samego siebie – z charakterystyczną chrypką i naturalnością, bez aktorskiej szkoły.
+Rolą, która przesądziła o jego miejscu w polskiej kulturze, był „Rejs” Marka Piwowskiego (1970) – film w dużej części improwizowany, obsadzony amatorami. Dialogi z „Rejsu” weszły do języka potocznego i przez dziesięciolecia służyły jako skrót myślowy opisujący absurdy PRL.
 
 ## Pisarz
-Był też cenionym pisarzem, autorem m.in. zbioru opowiadań „Monidło” (1967).
+Był też autorem opowiadań, pisanych językiem prostym i bez literackiego ozdobnika, opisujących świat, z którego pochodził. Tę część dorobku doceniono później niż role filmowe.
 
 ## Legenda
-Barwna, cygańska postać warszawskiej bohemy i knajp, obrosła anegdotami.
-
-## Znaczenie
-To jeden z najbardziej charakterystycznych i kultowych bohaterów polskiego kina.`,
-    trivia: ['Nazywano go „księciem naturszczyków” – grał, nie mając aktorskiego wykształcenia.', 'Był też pisarzem – autorem m.in. zbioru opowiadań „Monidło”.'],
+Za życia stał się postacią anegdotyczną, a opowieści o nim krążyły w środowisku i poza nim. To zresztą charakterystyczne dla epoki: w kulturze poddanej cenzurze anegdota i ustny przekaz miały siłę, jakiej nie miały oficjalne biogramy.`,
+    trivia: [
+      'Nie ukończył szkoły aktorskiej – z zawodu był kamieniarzem.',
+      'Dialogi z „Rejsu”, filmu w dużej części improwizowanego, weszły do języka potocznego.',
+    ],
     resources: [
       {
         id: 'jh-yt',
@@ -27564,23 +27543,20 @@ PKS to kręgosłup transportu zbiorowego w PRL, zwłaszcza tam, gdzie nie docier
     yearStart: 1961,
     summary: 'Ascetyczny dramat Jerzego Kawalerowicza (1961) wg Iwaszkiewicza; o egzorcyzmach w klasztorze, nagrodzony w Cannes.',
     content: `## Film
-„Matka Joanna od Aniołów” (1961) w reżyserii Jerzego Kawalerowicza to ekranizacja opowiadania Jarosława Iwaszkiewicza.
+„Matka Joanna od Aniołów” Jerzego Kawalerowicza, zrealizowana w 1960 roku i pokazana rok później, powstała na podstawie opowiadania Jarosława Iwaszkiewicza, inspirowanego siedemnastowiecznymi wydarzeniami w klasztorze we francuskim Loudun, przeniesionymi przez pisarza na polski grunt.
 
 ## Fabuła
-Ksiądz Józef Suryn przybywa do klasztoru, by egzorcyzmować przeoryszę Joannę, rzekomo opętaną przez demony.
+Jezuita Józef Suryn, grany przez Mieczysława Voita, przybywa do klasztoru, by odprawić egzorcyzmy nad opętanymi zakonnicami. Tytułową przełożoną zagrała Lucyna Winnicka. Film unika taniej sensacji: opętanie jest w nim pytaniem o wiarę, pożądanie i granice poznania.
 
-## Opętanie
-Historia luźno nawiązuje do XVII-wiecznych opętań w Loudun i drąży temat wiary, pokusy i winy.
+## Forma
+Czarno-biała, oszczędna fotografia, puste wnętrza i statyczne kadry uczyniły z filmu jedno z najbardziej rozpoznawalnych dzieł polskiej szkoły filmowej. Powstał w Zespole Filmowym „Kadr”.
 
-## Styl
-Surowa, ascetyczna, czarno-biała forma i wielka rola Lucyny Winnickiej czynią z filmu dzieło wybitne.
-
-## Cannes
-Obraz zdobył Specjalną Nagrodę Jury na festiwalu w Cannes w 1961 roku.
-
-## Znaczenie
-To jedno z arcydzieł polskiej szkoły filmowej, odważne jak na epokę.`,
-    trivia: ['Film zdobył Specjalną Nagrodę Jury na festiwalu w Cannes w 1961.', 'To ekranizacja opowiadania Jarosława Iwaszkiewicza o opętaniu w klasztorze.'],
+## Odbiór
+Film nagrodzono na festiwalu w Cannes i pokazywano na całym świecie. W kraju wywołał spór: dla części środowisk katolickich był obrazoburczy, dla władz – wygodny, bo dotykał religii w sposób niejednoznaczny. Ta dwuznaczność ochroniła go zresztą przed jednoznaczną instrumentalizacją.`,
+    trivia: [
+      'Pierwowzorem były siedemnastowieczne wydarzenia w klasztorze we francuskim Loudun.',
+      'Film nagrodzono w Cannes i uznano za jedno z czołowych dzieł polskiej szkoły filmowej.',
+    ],
     resources: [
       {
         id: 'mj-yt',
@@ -28126,24 +28102,21 @@ To pionierzy i legenda polskiego big-beatu, wylęgarnia wielkich talentów.`,
     summary: 'Jeden z najwybitniejszych polskich aktorów teatralnych i filmowych; zasłynął rolą w „Pokoleniu” Wajdy, mistrz sceny i pedagog.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tadeusz%20%C5%81omnicki.jpg?width=800',
     imageCaption: 'Tadeusz Łomnicki – aktor teatralny i filmowy.',
-    content: `## Sylwetka
-Tadeusz Łomnicki (1927–1992) to jeden z najwybitniejszych polskich aktorów teatralnych i filmowych.
+    content: `## Aktor teatru
+Tadeusz Łomnicki (1927–1992) był przede wszystkim aktorem sceny: zostawił osiemdziesiąt dwie role teatralne, pięćdziesiąt jeden filmowych i kilkanaście reżyserii. Założył i prowadził warszawski Teatr na Woli.
 
-## Pokolenie
-Zasłynął już rolą w „Pokoleniu” Andrzeja Wajdy (1955), grając następnie u czołowych reżyserów.
+## Role
+W kinie zapamiętano go m.in. jako Michała Wołodyjowskiego w ekranizacjach Hoffmana oraz z ról u Wajdy i Zanussiego. Był aktorem, którego środki wyrazu – tempo mowy, napięcie, praca ciałem – kształtowały sposób gry całego pokolenia.
 
-## Teatr
-Był mistrzem sceny, dyrektorem teatru i cenionym pedagogiem – prawdziwą legendą polskiego teatru.
-
-## Film
-Stworzył pamiętne role m.in. w „Człowieku z marmuru” (jako cyniczny dyrektor) i „Kontrakcie”.
+## Legitymacja
+Przez lata należał do PZPR i zasiadał we władzach partyjnych. Po wprowadzeniu stanu wojennego oddał legitymację partyjną. Był to gest kosztowny: oznaczał utratę części możliwości zawodowych w momencie, gdy środowisko aktorskie i tak prowadziło bojkot telewizji.
 
 ## Śmierć na scenie
-Zmarł w 1992 podczas próby do „Króla Leara” – symbolicznie, na scenie.
-
-## Znaczenie
-To uosobienie aktorskiego kunsztu i bezgranicznego oddania teatrowi.`,
-    trivia: ['Zasłynął już rolą w „Pokoleniu” Andrzeja Wajdy (1955).', 'Zmarł w 1992 podczas próby do „Króla Leara” – symbolicznie na scenie.'],
+Zmarł w 1992 roku w Poznaniu, podczas próby „Króla Leara”. Okoliczności – atak serca w trakcie pracy nad jedną z najtrudniejszych ról repertuaru – stały się częścią legendy polskiego teatru.`,
+    trivia: [
+      'Po wprowadzeniu stanu wojennego oddał legitymację partyjną, mimo lat spędzonych we władzach PZPR.',
+      'Zmarł podczas próby „Króla Leara” w 1992 roku.',
+    ],
     resources: [
       {
         id: 'tl-yt',
@@ -29277,24 +29250,21 @@ Kariera Stańki pokazuje, jak wąskim gardłem był w PRL kontakt ze światem: o
     summary: 'Trener piłkarski, twórca największego sukcesu lat 80.; poprowadził reprezentację Polski po 3. miejsce na mistrzostwach świata 1982 w Hiszpanii.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Antoni%20Piechniczek.jpg?width=800',
     imageCaption: 'Antoni Piechniczek – trener reprezentacji Polski.',
-    content: `## Sylwetka
-Antoni Piechniczek (ur. 1942) to trener piłkarski, twórca największego sukcesu polskiej reprezentacji lat 80.
+    content: `## Selekcjoner
+Antoni Piechniczek (ur. 1942) prowadził reprezentację Polski w latach 1981–1986, w okresie dwóch mistrzostw świata. Wcześniej sam grał w ekstraklasie, a szkoleniowcem został po zakończeniu kariery zawodniczej.
 
-## Mundial 1982
-Poprowadził reprezentację Polski po 3. miejsce na mistrzostwach świata w Hiszpanii.
+## Hiszpania 1982
+Największym osiągnięciem było trzecie miejsce na mistrzostwach świata w Hiszpanii w 1982 roku – powtórzenie wyniku Kazimierza Górskiego z 1974 roku. Turniej wypadł w szczególnym momencie: kilka miesięcy po wprowadzeniu stanu wojennego, gdy Solidarność była zdelegalizowana, a kraj odcięty od świata. Mecze oglądano jako jedną z niewielu okazji do wspólnego przeżywania czegokolwiek.
 
-## Boniek i spółka
-Dowodził drużyną gwiazd, w której błyszczał m.in. Zbigniew Boniek.
+## Polityka na trybunach
+Podczas turnieju na trybunach pojawiały się transparenty z napisem Solidarność, pokazywane przez zachodnie telewizje. Dla władz sukces drużyny był kłopotliwy: propagandowo cenny, ale rozgrywany na oczach świata, w którym Polska kojarzyła się wtedy przede wszystkim ze stanem wojennym.
 
-## Mundial 1986
-Prowadził kadrę także na kolejnych mistrzostwach świata w Meksyku.
-
-## Warsztat
-Ceniony był jako taktyk i wychowawca zawodników.
-
-## Znaczenie
-To jeden z najważniejszych trenerów w historii polskiej piłki nożnej.`,
-    trivia: ['Poprowadził Polskę po 3. miejsce na mundialu 1982 w Hiszpanii.', 'W jego drużynie błyszczał m.in. Zbigniew Boniek.'],
+## Meksyk 1986
+Cztery lata później drużyna odpadła w drugiej rundzie po przegranej z Brazylią. Był to koniec epoki, która zaczęła się w 1974 roku – przez kolejne dwadzieścia lat polska piłka nie zakwalifikowała się na mistrzostwa świata.`,
+    trivia: [
+      'Trzecie miejsce w 1982 roku wywalczono kilka miesięcy po wprowadzeniu stanu wojennego.',
+      'Po mundialu w Meksyku 1986 Polska nie zagrała na mistrzostwach świata przez dwadzieścia lat.',
+    ],
     resources: [
       {
         id: 'apn-yt',
@@ -29388,24 +29358,21 @@ To jeden z najbardziej intrygujących, autorskich filmów Tadeusza Konwickiego.`
     summary: 'Legendarny warszawski kabaret założony w 1965 przez Edwarda Dziewońskiego; słynny z inteligentnych skeczów jak „Sęk”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tablica%20Kabaret%20Dudek.jpg?width=800',
     imageCaption: 'Kabaret Dudek',
-    content: `## Kabaret
-Kabaret Dudek to legendarny warszawski kabaret, założony w 1965 roku przez Edwarda Dziewońskiego (o pseudonimie „Dudek”).
+    content: `## Scena przy Nowym Świecie
+Kabaret Dudek, założony i prowadzony przez Edwarda Dziewońskiego, zainaugurował działalność w styczniu 1965 roku. Występy odbywały się w kawiarni „Nowy Świat” w Warszawie – w warunkach kameralnych, przy stolikach.
 
-## Skecze
-Kultowe skecze, m.in. „Sęk” i „Kombinatorzy”, opierały się na inteligentnym, często żydowskim humorze (szmonces).
+## Skala
+W ciągu dziesięciu lat działalności odbyło się około tysiąca przedstawień, na które złożyło się blisko dwieście skeczy, monologów i piosenek. Występowali tam czołowi aktorzy warszawskich scen, m.in. Wiesław Gołas i Jan Kobuszewski.
 
-## Gwiazdy
-Występowali w nim Wiesław Michnikowski, Jan Kobuszewski, Bronisław Pawlik i sam Edward Dziewoński.
+## Język aluzji
+Kabaret w PRL żył z tego, czego nie dawało się zapisać w zatwierdzonym tekście: z pauzy, tonu, gestu i skojarzenia, które publiczność wychwytywała natychmiast. Cenzor zatwierdzał scenariusz, ale nie sposób wykonania – i właśnie tam mieściła się satyra.
 
-## Styl
-Dopracowane, literackie skecze i błyskotliwe dialogi wyznaczały poziom polskiego kabaretu.
-
-## Telewizja
-Programy Dudka cieszyły się ogromną popularnością w telewizji.
-
-## Znaczenie
-To jeden z najważniejszych polskich kabaretów i wzór dla następnych pokoleń.`,
-    trivia: ['Kultowy skecz „Sęk” opiera się na językowych łamańcach i szmoncesie.', 'Nazwa kabaretu pochodzi od pseudonimu Edwarda Dziewońskiego – „Dudek”.'],
+## Koniec i trwanie
+Oficjalnie kabaret zakończył działalność w 1975 roku, potem występował sporadycznie, głównie dla telewizji. Nagrania skeczy krążyły latami i weszły do kanonu polskiego humoru.`,
+    trivia: [
+      'Przez dziesięć lat dał około tysiąca przedstawień, na które złożyło się blisko dwieście skeczy i monologów.',
+      'Cenzor zatwierdzał tekst, ale nie sposób jego wykonania – i to tam mieściła się satyra.',
+    ],
     resources: [
       {
         id: 'kd-yt',
@@ -29507,23 +29474,20 @@ Jazz w pierwszej połowie lat 50. był w Polsce tępiony jako muzyka imperialist
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Quotation_from_film_%27Hydrozagadka%27_advertising_XXXIV_Polish_Film_Festival_in_Gdynia_2009_-_1.jpg?width=800',
     imageCaption: 'Hydrozagadka',
     content: `## Film
-„Hydrozagadka” (1970) w reżyserii Andrzeja Kondratiuka to surrealistyczna, kultowa parodia kina superbohaterskiego.
+„Hydrozagadka” Andrzeja Kondratiuka, zrealizowana w 1970 roku i pokazana rok później, to komedia fantastycznonaukowa utrzymana w konwencji parodii: filmu sensacyjnego, kina o superbohaterach i komiksu. Powstała jako produkcja telewizyjna, w skromnych warunkach.
 
 ## Fabuła
-W upalnej Warszawie tajemniczo znika woda; śledztwo w tej sprawie prowadzi osobliwy superbohater As.
+Z Warszawy znika woda. Śledztwo prowadzi As, bohater w pasiastym kostiumie, na co dzień zwykły obywatel, walczący ze złoczyńcą dysponującym mocą odbierania wody. Absurdalna intryga jest pretekstem do pokazania miasta i codzienności.
 
-## As
-Józef Nowak zagrał polskiego „supermana” ratującego dręczone upałem i suszą miasto.
+## Dlaczego to działa
+Siła filmu polega na zderzeniu konwencji superbohaterskiej z realiami PRL: kolejkami, biurokracją, prowizorką i językiem urzędowym. Parodiując kino zachodnie, film mimochodem portretuje własną rzeczywistość, i to ta warstwa okazała się trwalsza.
 
-## Absurd
-Purnonsensowy humor, celowo tania konwencja i kultowe cytaty złożyły się na fenomen filmu.
-
-## Kino kultowe
-Z czasem „Hydrozagadka” obrosła legendą jako klasyk polskiego absurdu.
-
-## Znaczenie
-To jedna z najbardziej oryginalnych, surrealistycznych komedii PRL.`,
-    trivia: ['Superbohater As ratuje Warszawę, w której tajemniczo znika woda.', 'Kultowy cytat „Panowie, żar leje się z nieba!” pochodzi z tego filmu.'],
+## Kult
+Przy premierze przyjęty bez fajerwerków, z czasem stał się filmem kultowym, cytowanym i przywoływanym jako jeden z najlepszych przykładów polskiego humoru absurdalnego.`,
+    trivia: [
+      'Bohaterem jest As – superbohater w pasiastym kostiumie, na co dzień zwykły obywatel.',
+      'Parodiując kino zachodnie, film mimochodem sportretował realia PRL i to ta warstwa okazała się trwalsza.',
+    ],
     resources: [
       {
         id: 'hz-yt',
@@ -29682,24 +29646,21 @@ To jedna z najpopularniejszych polskich komedii wojennych, wciąż chętnie powt
     summary: 'Skrzypek, saksofonista i kompozytor jazzowy światowej sławy, pionier fusion; od lat 70. w Nowym Jorku, współpracował z gwiazdami światowego jazzu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Micha%C5%82%20Urbaniak.jpg?width=800',
     imageCaption: 'Michał Urbaniak – skrzypek i saksofonista jazzowy.',
-    content: `## Sylwetka
-Michał Urbaniak (ur. 1943) to skrzypek, saksofonista i kompozytor jazzowy światowej sławy, pionier nurtu fusion.
+    content: `## Skrzypce w jazzie
+Michał Urbaniak (1943–2025) grał na skrzypcach i saksofonie – połączenie rzadkie, a skrzypce w jazzie były wówczas instrumentem niszowym. To brzmienie stało się jego znakiem rozpoznawczym.
 
 ## Fusion
-Tworzył jazz-rockowe fusion, łączące jazz, funk i elementy polskiego folkloru.
+Na początku lat 70. zwrócił się ku fusion, łączeniu jazzu z rockiem i elektroniką. Wraz z Urszulą Dudziak, swoją żoną, tworzył skład, który wypracował własny język muzyczny – głos traktowany jak instrument, skrzypce przetwarzane elektronicznie.
 
-## USA
-Od lat 70. działał w Nowym Jorku; nagrywał dla Columbii i współpracował z gwiazdami, m.in. z Milesem Davisem.
+## Nowy Jork
+W połowie lat 70. wyjechał do Stanów Zjednoczonych i wszedł do tamtejszego środowiska jazzowego, nagrywając dla amerykańskich wytwórni. Był jednym z nielicznych polskich muzyków, którzy zrobili karierę w Nowym Jorku na własnych warunkach, a nie jako goście.
 
-## Instrumenty
-Grał na pięciostrunowych skrzypcach i na skrzypcach-syntezatorze, tzw. „talking violin”.
-
-## Urszula Dudziak
-Wraz z żoną Urszulą Dudziak podbijał amerykańską scenę jazzową.
-
-## Znaczenie
-To jeden z najbardziej rozpoznawalnych na świecie polskich jazzmanów.`,
-    trivia: ['Współpracował z gwiazdami światowego jazzu, m.in. z Milesem Davisem.', 'Grał na pięciostrunowych skrzypcach i skrzypcach-syntezatorze.'],
+## Znaczenie dla polskiego jazzu
+Jego droga pokazuje, czym był jazz w PRL: dziedziną, w której kontakt ze światem zachodnim był możliwy, a jednocześnie zależny od paszportu i dewiz. Dla kolejnych pokoleń polskich muzyków wyjazd Urbaniaka był dowodem, że taka kariera jest wykonalna.`,
+    trivia: [
+      'Skrzypce, jego główny instrument, były w jazzie tamtych lat rzadkością.',
+      'Wraz z Urszulą Dudziak wypracował brzmienie oparte na elektronicznie przetwarzanych skrzypcach i głosie.',
+    ],
     resources: [
       {
         id: 'mu2-yt',
@@ -29739,24 +29700,21 @@ To jeden z najbardziej rozpoznawalnych na świecie polskich jazzmanów.`,
     summary: 'Aktorka o arystokratycznej urodzie, „pierwsza dama polskiego kina”; grała w „Popiołach”, „Lalce” i „Rękopisie znalezionym w Saragossie”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Beata%20Tyszkiewicz.jpg?width=800',
     imageCaption: 'Beata Tyszkiewicz – aktorka filmowa.',
-    content: `## Sylwetka
-Beata Tyszkiewicz (ur. 1938) to aktorka o arystokratycznej urodzie, nazywana „pierwszą damą polskiego kina”.
+    content: `## Aktorka
+Beata Tyszkiewicz (ur. 1938) zagrała ponad sto ról filmowych. Ze względu na urodę i arystokratyczne pochodzenie obsadzano ją zwykle w rolach dam – co w PRL było sytuacją paradoksalną, bo warstwa, którą przedstawiała, w oficjalnej narracji nie powinna już istnieć.
 
-## Role
-Zagrała w wielu klasykach, m.in. „Popiołach”, „Lalce” i „Rękopisie znalezionym w Saragossie”.
+## Izabela Łęcka
+Najbardziej znaną kreacją pozostaje Izabela Łęcka w „Lalce” Wojciecha Hasa z 1968 roku. Film, adaptacja powieści Prusa, zdobył Grand Prix na festiwalu w Panamie, a jego realizacja pochłonęła ogromne jak na tamte czasy środki.
 
-## Ekran i telewizja
-Grała u czołowych reżyserów, a z czasem stała się także rozpoznawalną osobowością telewizyjną.
+## U Wajdy
+Grała też w „Popiołach” i „Wszystko na sprzedaż” Andrzeja Wajdy, z którym była przez pewien czas związana. Występowała w produkcjach zagranicznych, co przy ówczesnych ograniczeniach paszportowych było przywilejem nielicznych.
 
-## Uroda i klasa
-Elegancja i dystyngowany wdzięk uczyniły ją ikoną stylu i klasy.
-
-## Międzynarodowo
-Występowała również w produkcjach zagranicznych.
-
-## Znaczenie
-To jedna z najbardziej rozpoznawalnych i cenionych polskich aktorek.`,
-    trivia: ['Nazywano ją „pierwszą damą polskiego kina”.', 'Grała m.in. w „Popiołach” i „Lalce”, u czołowych reżyserów.'],
+## Gwiazda bez rynku
+Jej pozycja pokazuje mechanizm typowy dla PRL: rozpoznawalność była powszechna, a honoraria ustalane taryfowo. Sława aktorska nie tworzyła majątku, bo nie było rynku, który mógłby ją wycenić – kino było instytucją państwową.`,
+    trivia: [
+      'Obsadzano ją w rolach arystokratek w państwie, które oficjalnie uznawało tę warstwę za przeszłość.',
+      '„Lalka” z jej udziałem zdobyła Grand Prix na międzynarodowym festiwalu w Panamie.',
+    ],
     resources: [
       {
         id: 'bt-yt',
@@ -29967,24 +29925,21 @@ Wyjazd artysty na Zachód był w PRL decyzją obciążoną ryzykiem: oznaczał z
     summary: 'Wybitny aktor teatralny i filmowy o ogromnej ekspresji; pamiętny jako Moryc Welt w „Ziemi obiecanej” i Robespierre w „Dantonie”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wojciech%20Pszoniak%20%28portret%29.jpg?width=800',
     imageCaption: 'Wojciech Pszoniak – aktor teatralny i filmowy.',
-    content: `## Sylwetka
-Wojciech Pszoniak (1942–2020) to wybitny aktor teatralny i filmowy o ogromnej ekspresji i temperamencie.
+    content: `## Aktor
+Wojciech Pszoniak (1942–2020) urodził się we Lwowie, a wykształcenie aktorskie zdobył w Krakowie. Zaliczano go do najwybitniejszych polskich aktorów dramatycznych swojego pokolenia – obok Holoubka, Łomnickiego i Zapasiewicza.
 
-## Ziemia obiecana
-Stworzył pamiętną rolę Moryca Welta w „Ziemi obiecanej” Andrzeja Wajdy.
+## Moryc Welt
+Międzynarodową rozpoznawalność przyniosła mu rola Moryca Welta w „Ziemi obiecanej” Andrzeja Wajdy (1974). Zagrał też w „Weselu” i w „Korczaku” tego samego reżysera oraz w „Austerii” Jerzego Kawalerowicza.
 
-## Danton
-Zagrał Robespierre'a w „Dantonie” Wajdy, tworząc jedną ze swoich najsłynniejszych ról.
+## Francja
+Na początku lat 80. wyjechał do Francji, gdzie zagrał Robespierre'a w „Dantonie” Wajdy (1983) – filmie o rewolucji francuskiej, odczytywanym powszechnie jako opowieść o rewolucji zjadającej własne dzieci, nakręconym tuż po wprowadzeniu stanu wojennego w Polsce.
 
-## Teatr
-Był wybitnym aktorem scenicznym, grał także na scenach francuskich.
-
-## Wszechstronność
-Poruszał się swobodnie od ról dramatycznych po charakterystyczne i groteskowe.
-
-## Znaczenie
-To jeden z najwybitniejszych polskich aktorów swojego pokolenia.`,
-    trivia: ['Stworzył pamiętną rolę Moryca Welta w „Ziemi obiecanej”.', 'Zagrał Robespierre\'a w „Dantonie” Andrzeja Wajdy.'],
+## Dwa obiegi
+Jego kariera pokazuje sytuację polskiego aktora tamtych lat: prawdziwie międzynarodowy dorobek można było zbudować, ale zwykle za cenę wyjazdu, a powroty na krajowe ekrany zależały od tego, czy władze uznają go za osobę akceptowalną.`,
+    trivia: [
+      'Rolę Robespierre\'a w „Dantonie” zagrał tuż po wprowadzeniu w Polsce stanu wojennego.',
+      'Zaliczano go do czołówki polskich aktorów dramatycznych obok Holoubka, Łomnickiego i Zapasiewicza.',
+    ],
     resources: [
       {
         id: 'wp2-yt',
