@@ -229,7 +229,7 @@ Solidarność zapoczątkowała pokojowy demontaż komunizmu w Polsce i Europie �
         description: 'Hasła i opracowania encyklopedyczne na ten temat.',
       },
     ],
-    relatedIds: ['stan-wojenny', 'okragly-stol', 'sierpien-1980', 'walesa', 'kania'],
+    relatedIds: ['stan-wojenny', 'okragly-stol', 'sierpien-1980', 'walesa', 'kania', 'olszewski-jan'],
   },
   {
     id: 'czerwiec-1956',
@@ -861,7 +861,7 @@ Kościół w PRL był ostoją tożsamości narodowej i wolności sumienia oraz k
         description: 'Dokumenty Departamentu IV SB (do spraw walki z Kościołem)',
       },
     ],
-    relatedIds: ['solidarnosc', 'stan-wojenny', 'sbezpieczenstwa', 'popieluszko', 'urzad-wyznan', 'sluby-jasnogorskie'],
+    relatedIds: ['solidarnosc', 'stan-wojenny', 'sbezpieczenstwa', 'popieluszko', 'urzad-wyznan', 'sluby-jasnogorskie', 'hlond', 'sapieha', 'kaczmarek-biskup'],
   },
   {
     id: 'nowa-huta',
@@ -1308,7 +1308,7 @@ KOR stworzył intelektualne i organizacyjne zaplecze, na którym w 1980 roku wyr
         description: 'Dokumenty Służby Bezpieczeństwa dotyczące inwigilacji KOR i jego działaczy',
       },
     ],
-    relatedIds: ['czerwiec-1976', 'solidarnosc', 'sbezpieczenstwa', 'marzec-1968'],
+    relatedIds: ['czerwiec-1976', 'solidarnosc', 'sbezpieczenstwa', 'marzec-1968', 'olszewski-jan'],
   },
   {
     id: 'marzec-1968',
@@ -1783,7 +1783,7 @@ LWP łączyło rolę armii z funkcją narzędzia systemu – pozostaje symbolem 
         description: 'Dokumenty Służby Bezpieczeństwa z operacji inwigilacji i działań wobec prymasa Wyszyńskiego.',
       },
     ],
-    relatedIds: ['kosciol-prl', 'jan-pawel-ii', 'popieluszko', 'marzec-1968', 'bierut', 'sluby-jasnogorskie'],
+    relatedIds: ['kosciol-prl', 'jan-pawel-ii', 'popieluszko', 'marzec-1968', 'bierut', 'sluby-jasnogorskie', 'hlond', 'sapieha', 'kaczmarek-biskup'],
   },
   {
     id: 'zolnierze-wykletci',
@@ -2857,7 +2857,7 @@ Katyń stał się symbolem martyrologii Polaków pod okupacją sowiecką i zakł
         description: 'Cykl filmów dokumentalnych o zbrodni katyńskiej i pamięci o niej.',
       },
     ],
-    relatedIds: ['represje-polityczne', 'ub', 'manifest-pkwn', 'bierut', 'zolnierze-wykletci'],
+    relatedIds: ['represje-polityczne', 'ub', 'manifest-pkwn', 'bierut', 'zolnierze-wykletci', 'kukiel'],
   },
   {
     id: 'milicja',
@@ -3346,7 +3346,7 @@ Instytut Literacki wydał setki książek – autorów zakazanych w PRL, dokumen
         downloadable: true,
       },
     ],
-    relatedIds: ['kultura-prl', 'drugi-obieg', 'cenzura-prl', 'radio-wolna-europa', 'kino-prl'],
+    relatedIds: ['kultura-prl', 'drugi-obieg', 'cenzura-prl', 'radio-wolna-europa', 'kino-prl', 'grydzewski', 'zaremba-zygmunt', 'ciolkosz'],
   },
   {
     id: 'uklad-warszawski',
@@ -3684,7 +3684,7 @@ Zachodnia granica na Odrze i Nysie była przez dekady kontestowana przez RFN. Os
         description: 'Archiwalia dotyczące administracji i zasiedlania Ziem Zachodnich po 1945 roku',
       },
     ],
-    relatedIds: ['jalta', 'deportacje', 'akcja-wisla', 'manifest-pkwn', 'bierut', 'poczdam'],
+    relatedIds: ['jalta', 'deportacje', 'akcja-wisla', 'manifest-pkwn', 'bierut', 'poczdam', 'hlond'],
   },
   {
     id: 'sport-prl',
@@ -4185,7 +4185,7 @@ W PRL Mikołajczyk był postacią przemilczaną lub demonizowaną. Oficjalna his
         description: 'Zdigitalizowane dokumenty i prasa Polskiego Stronnictwa Ludowego',
       },
     ],
-    relatedIds: ['wybory-prl', 'referendum-1946', 'manifest-pkwn', 'bierut', 'ub', 'trjn'],
+    relatedIds: ['wybory-prl', 'referendum-1946', 'manifest-pkwn', 'bierut', 'ub', 'trjn', 'arciszewski', 'ciolkosz'],
   },
   {
     id: 'zycie-codzienne',
@@ -5774,7 +5774,7 @@ Po Październiku 1956 masowy terror zelżał, lecz więzienia polityczne nie zni
         description: 'Teksty i opracowania historyków IPN na ten temat.',
       },
     ],
-    relatedIds: ['represje-polityczne', 'ub', 'zolnierze-wykletci', 'internowanie', 'katyn'],
+    relatedIds: ['represje-polityczne', 'ub', 'zolnierze-wykletci', 'internowanie', 'katyn', 'puzak', 'kaczmarek-biskup'],
   },
   {
     id: 'tvp-prl',
@@ -7193,7 +7193,7 @@ W latach 80. emigracja zachodnia aktywnie wspierała "Solidarność": zbierała 
         year: 2018,
       },
     ],
-    relatedIds: ['rzad-emigracyjny', 'kultura-paryz', 'anders', 'radio-wolna-europa', 'emigracja-1968'],
+    relatedIds: ['rzad-emigracyjny', 'kultura-paryz', 'anders', 'radio-wolna-europa', 'emigracja-1968', 'arciszewski', 'ciolkosz', 'zaremba-zygmunt', 'raczynski', 'grydzewski', 'kukiel'],
   },
   {
     id: 'nostalgia-prl',
@@ -7902,7 +7902,7 @@ Rząd emigracyjny działał nieprzerwanie przez 45 lat. Kolejni prezydenci: Racz
         year: 1945,
       },
     ],
-    relatedIds: ['anders', 'manifest-pkwn', 'kultura-paryz', 'emigracja-1968', 'mikolajczyk', 'panstwo-podziemne', 'delegatura-rzadu', 'trjn'],
+    relatedIds: ['anders', 'manifest-pkwn', 'kultura-paryz', 'emigracja-1968', 'mikolajczyk', 'panstwo-podziemne', 'delegatura-rzadu', 'trjn', 'arciszewski', 'raczynski', 'kukiel', 'ciolkosz'],
   },
   {
     id: 'tygodnik-powszechny',
@@ -8924,7 +8924,7 @@ Prozaik i scenarzysta. Jego powieści – "Kronika wypadków miłosnych" (1974),
         year: 2018,
       },
     ],
-    relatedIds: ['cenzura-prl', 'drugi-obieg', 'milosz', 'herbert', 'szymborska'],
+    relatedIds: ['cenzura-prl', 'drugi-obieg', 'milosz', 'herbert', 'szymborska', 'grydzewski'],
   },
   {
     id: 'wybory-prl',
@@ -9785,7 +9785,7 @@ Likwidacja PPS oznaczała zniszczenie pluralizmu politycznego w Polsce i zakońc
         year: 1948,
       },
     ],
-    relatedIds: ['pzpr', 'ppr', 'cyrankiewicz', 'manifest-pkwn', 'bierut'],
+    relatedIds: ['pzpr', 'ppr', 'cyrankiewicz', 'manifest-pkwn', 'bierut', 'puzak', 'arciszewski', 'ciolkosz', 'zaremba-zygmunt'],
   },
   {
     id: 'komeda',
@@ -14566,7 +14566,7 @@ Uznawany za jednego z najważniejszych Polaków XX wieku, ukształtował niezale
         description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
       },
     ],
-    relatedIds: ['kultura-paryz', 'milosz', 'herling-grudzinski', 'polacy-na-emigracji'],
+    relatedIds: ['kultura-paryz', 'milosz', 'herling-grudzinski', 'polacy-na-emigracji', 'grydzewski'],
   },
   {
     id: 'herling-grudzinski',
@@ -19116,7 +19116,7 @@ Proces szesnastu symbolizuje sposób, w jaki ZSRR likwidował niepodległościow
         description: 'Teksty i opracowania historyków IPN na ten temat.',
       },
     ],
-    relatedIds: ['zolnierze-wykletci', 'rzad-emigracyjny', 'represje-polityczne', 'panstwo-podziemne', 'delegatura-rzadu', 'okulicki'],
+    relatedIds: ['zolnierze-wykletci', 'rzad-emigracyjny', 'represje-polityczne', 'panstwo-podziemne', 'delegatura-rzadu', 'okulicki', 'puzak'],
   },
   {
     id: 'oblawa-augustowska',
@@ -30965,7 +30965,7 @@ Odmowy zgód budowlanych stały się jednym z najczęstszych zarzewi lokalnych k
         description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
       },
     ],
-    relatedIds: ['kosciol-prl', 'sbezpieczenstwa', 'nowa-huta', 'milenium-1966'],
+    relatedIds: ['kosciol-prl', 'sbezpieczenstwa', 'nowa-huta', 'milenium-1966', 'kaczmarek-biskup'],
   },
   {
     id: 'premierzy-prl',
@@ -31147,7 +31147,7 @@ Rząd przetrwał do wyborów w styczniu 1947 roku. Były to półtora roku naras
         description: 'Fotografie, dokumenty i materiały graficzne w Wikimedia Commons.',
       },
     ],
-    relatedIds: ['jalta', 'mikolajczyk', 'rzad-tymczasowy', 'wybory-1947', 'rzad-emigracyjny'],
+    relatedIds: ['jalta', 'mikolajczyk', 'rzad-tymczasowy', 'wybory-1947', 'rzad-emigracyjny', 'arciszewski'],
   },
   {
     id: 'delegatura-rzadu',
@@ -31191,7 +31191,7 @@ Wraz z wkroczeniem Armii Czerwonej struktury Delegatury ujawniały się wobec no
         description: 'Fotografie, dokumenty i materiały graficzne w Wikimedia Commons.',
       },
     ],
-    relatedIds: ['panstwo-podziemne', 'rzad-emigracyjny', 'proces-szesnastu'],
+    relatedIds: ['panstwo-podziemne', 'rzad-emigracyjny', 'proces-szesnastu', 'puzak'],
   },
   {
     id: 'panstwo-podziemne',
@@ -31237,7 +31237,7 @@ Dla nowej władzy Polskie Państwo Podziemne było przeszkodą, a nie dziedzictw
         description: 'Fotografie, dokumenty i materiały graficzne w Wikimedia Commons.',
       },
     ],
-    relatedIds: ['delegatura-rzadu', 'proces-szesnastu', 'rzad-emigracyjny', 'zolnierze-wykletci', 'pilecki', 'okulicki'],
+    relatedIds: ['delegatura-rzadu', 'proces-szesnastu', 'rzad-emigracyjny', 'zolnierze-wykletci', 'pilecki', 'okulicki', 'puzak', 'zaremba-zygmunt'],
   },
   {
     id: 'poczdam',
@@ -31973,6 +31973,512 @@ W procesie szesnastu otrzymał najwyższy wyrok – dziesięć lat więzienia. Z
     ],
     relatedIds: ['proces-szesnastu', 'panstwo-podziemne', 'zolnierze-wykletci', 'delegatura-rzadu', 'anders'],
   },
+  {
+    id: 'arciszewski',
+    title: 'Tomasz Arciszewski',
+    subtitle: 'Premier rządu, który stracił uznanie',
+    category: 'osoby',
+    tags: ['emigracja', 'PPS', 'rząd na uchodźstwie', '1945'],
+    yearStart: 1944,
+    yearEnd: 1955,
+    summary: 'Socjalista i premier rządu RP na uchodźstwie w latach 1944–1947; do 5 lipca 1945 roku kierował rządem uznawanym międzynarodowo za władze Polski.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tomasz_Arciszewski.jpg?width=800',
+    imageCaption: 'Tomasz Arciszewski',
+    content: `## Bojowiec i poseł
+Tomasz Arciszewski (1877–1955) zaczynał w Organizacji Bojowej PPS w czasach zaborów. W niepodległej Polsce był ministrem poczt i telegrafów w pierwszych rządach oraz posłem przez cztery kadencje. W czasie okupacji kierował podziemną PPS-WRN.
+
+## Premier w Londynie
+Urząd premiera rządu na uchodźstwie objął pod koniec 1944 roku, po dymisji Stanisława Mikołajczyka, który odszedł, gdy rząd nie zgodził się na oddanie ziem wschodnich. Arciszewski reprezentował linię twardą: bez uznania granicy na linii Curzona i bez wchodzenia w układ z Moskwą.
+
+## Utrata uznania
+5 lipca 1945 roku mocarstwa zachodnie cofnęły uznanie jego rządowi, przenosząc je na Tymczasowy Rząd Jedności Narodowej. Od tego dnia rząd w Londynie działał już tylko jako emigracyjna kontynuacja państwa – bez ambasad, bez środków, bez wpływu na wydarzenia w kraju.
+
+## Trwanie
+Arciszewski pozostał premierem do 1947 roku i do końca życia działał na emigracji. Rząd RP na uchodźstwie przetrwał wszystkie dekady PRL i rozwiązał się dopiero w grudniu 1990 roku, przekazując insygnia prezydenckie Lechowi Wałęsie.`,
+    trivia: [
+      'Objął urząd premiera, gdy Mikołajczyk odszedł po odmowie zgody na oddanie ziem wschodnich.',
+      'Rząd RP na uchodźstwie, którym kierował, przetrwał cały okres PRL i rozwiązał się dopiero w 1990 roku.',
+    ],
+    resources: [
+      {
+        id: 'arciszewski-wiki',
+        title: 'Tomasz Arciszewski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Tomasz_Arciszewski',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'arciszewski-fot',
+        title: 'Tomasz Arciszewski – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Tomasz%20Arciszewski&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['rzad-emigracyjny', 'mikolajczyk', 'trjn', 'pps', 'polacy-na-emigracji'],
+  },
+  {
+    id: 'puzak',
+    title: 'Kazimierz Pużak',
+    subtitle: 'Przewodniczący podziemnego parlamentu',
+    category: 'osoby',
+    tags: ['podziemie', 'PPS', 'represje', 'proces szesnastu'],
+    yearStart: 1944,
+    yearEnd: 1950,
+    summary: 'Socjalista, przewodniczący Rady Jedności Narodowej – podziemnego parlamentu; sądzony w Moskwie, a następnie skazany w Polsce, zmarł w więzieniu w Rawiczu.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz_Pu%C5%BCak_-_6-14.jpg?width=800',
+    imageCaption: 'Kazimierz Pużak',
+    content: `## Weteran
+Kazimierz Pużak (1883–1950) działał w ruchu socjalistycznym od czasów zaborów; za działalność niepodległościową odsiedział wiele lat w rosyjskim więzieniu. W II Rzeczypospolitej był posłem czterech kadencji.
+
+## Podziemie
+W czasie okupacji organizował i prowadził PPS-WRN, a od 1944 roku przewodniczył Radzie Jedności Narodowej – podziemnemu parlamentowi, reprezentującemu główne stronnictwa polityczne przy Delegaturze Rządu.
+
+## Dwa procesy
+27 marca 1945 roku został aresztowany przez NKWD i wywieziony do Moskwy, gdzie sądzono go w procesie szesnastu. Po powrocie do kraju aresztowano go ponownie, tym razem przez UB, i w listopadzie 1948 roku skazano w pokazowym procesie działaczy PPS-WRN na dziesięć lat więzienia.
+
+## Śmierć
+Zmarł 30 kwietnia 1950 roku w więzieniu w Rawiczu. Jego los pokazuje, że dla nowej władzy socjaliści z tradycji niepodległościowej byli przeciwnikiem równie niewygodnym jak podziemie zbrojne – a może bardziej, bo mieli własną, konkurencyjną legitymację lewicową.`,
+    trivia: [
+      'Sądzono go dwukrotnie: najpierw w Moskwie w procesie szesnastu, potem w Warszawie w procesie działaczy PPS-WRN.',
+      'Przewodniczył Radzie Jedności Narodowej – podziemnemu parlamentowi działającemu pod okupacją.',
+    ],
+    resources: [
+      {
+        id: 'puzak-wiki',
+        title: 'Kazimierz Pużak – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Kazimierz_Pu%C5%BCak',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'puzak-fot',
+        title: 'Kazimierz Pużak – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Kazimierz%20Pu%C5%BCak&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['proces-szesnastu', 'panstwo-podziemne', 'delegatura-rzadu', 'pps', 'wiezienia-polityczne'],
+  },
+  {
+    id: 'ciolkosz',
+    title: 'Adam Ciołkosz',
+    subtitle: 'Sumienie emigracyjnej lewicy',
+    category: 'osoby',
+    tags: ['emigracja', 'PPS', 'publicystyka', 'Londyn'],
+    yearStart: 1944,
+    yearEnd: 1978,
+    summary: 'Jeden z przywódców PPS na emigracji, publicysta i wieloletni krytyk zarówno komunizmu, jak i prób porozumienia z władzami PRL.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Cio%C5%82kosz1.jpg?width=800',
+    imageCaption: 'Adam Ciołkosz',
+    content: `## Przed wojną
+Adam Ciołkosz (1901–1978) był instruktorem harcerskim, oficerem i posłem PPS w II Rzeczypospolitej. W procesie brzeskim, wytoczonym opozycji przez sanację, skazano go na karę więzienia – doświadczenie, które ukształtowało jego stosunek do władzy łamiącej reguły.
+
+## Na emigracji
+Wojnę i całe późniejsze życie spędził w Londynie, gdzie należał do czołowych postaci PPS na obczyźnie i był jednym z najpłodniejszych publicystów politycznych emigracji. Pisał razem z żoną Lidią, historyczką ruchu socjalistycznego.
+
+## Linia
+Konsekwentnie odrzucał uznanie PRL i sprzeciwiał się polityce ustępstw wobec Moskwy. Krytykował Mikołajczyka za powrót do kraju w 1945 roku, uznając, że wejście do Tymczasowego Rządu Jedności Narodowej uwiarygodni komunistów, nie ograniczając ich władzy.
+
+## Znaczenie
+Publicystyka Ciołkosza dowodziła, że sprzeciw wobec PRL nie był domeną wyłącznie prawicy. Emigracyjna PPS zachowała tradycję lewicy niepodległościowej, którą w kraju konsekwentnie wymazywano – po 1948 roku partia socjalistyczna została wchłonięta przez komunistów.`,
+    trivia: [
+      'Przed wojną skazano go w procesie brzeskim – tym samym, w którym sądzono przywódców opozycji wobec sanacji.',
+      'Krytykował Mikołajczyka za wejście do TRJN, uznając, że uwiarygodni to komunistów bez ograniczenia ich władzy.',
+    ],
+    resources: [
+      {
+        id: 'ciolkosz-wiki',
+        title: 'Adam Ciołkosz – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Adam_Cio%C5%82kosz',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'ciolkosz-fot',
+        title: 'Adam Ciołkosz – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Adam%20Cio%C5%82kosz&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['polacy-na-emigracji', 'pps', 'mikolajczyk', 'rzad-emigracyjny', 'trjn'],
+  },
+  {
+    id: 'zaremba-zygmunt',
+    title: 'Zygmunt Zaremba',
+    subtitle: 'Socjalista paryskiej emigracji',
+    category: 'osoby',
+    tags: ['emigracja', 'PPS', 'Paryż', 'publicystyka'],
+    yearStart: 1944,
+    yearEnd: 1967,
+    summary: 'Działacz i publicysta socjalistyczny, jeden z przywódców podziemnej PPS-WRN, po wojnie na emigracji we Francji.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zaremba1.jpg?width=800',
+    imageCaption: 'Zygmunt Zaremba',
+    content: `## Konspiracja
+Zygmunt Zaremba (1895–1967) należał do kierownictwa podziemnej PPS-WRN i do ścisłego grona polityków Polski Podziemnej. Po wojnie, w obliczu aresztowań działaczy socjalistycznych, wyjechał z kraju.
+
+## Paryż
+Osiadł we Francji, gdzie stał się jednym z filarów emigracyjnej PPS i publicystą wydawnictw socjalistycznych. Emigracja paryska – obok londyńskiej – była drugim ośrodkiem polskiej myśli politycznej poza krajem; działał tam również Instytut Literacki Jerzego Giedroycia.
+
+## Spór o lewicę
+Zaremba pisał przede wszystkim o tym, co stało się z polskim socjalizmem: o wchłonięciu PPS przez komunistów w 1948 roku i o zawłaszczeniu przez nich języka lewicy. Dowodził, że ustrój PRL nie jest realizacją socjalizmu, lecz jego zaprzeczeniem.
+
+## Pamięć
+Zmarł pod Paryżem w 1967 roku. W PRL jego dorobek był nieobecny w oficjalnym obiegu – emigracyjna lewica była dla władz kłopotliwsza niż emigracja narodowa, bo podważała ich legitymację na własnym gruncie ideowym.`,
+    trivia: [
+      'Emigracyjna lewica była dla władz PRL kłopotliwsza niż emigracja narodowa – podważała ich legitymację na gruncie ideowym.',
+      'Działał w Paryżu, drugim po Londynie ośrodku polskiej myśli politycznej na obczyźnie.',
+    ],
+    resources: [
+      {
+        id: 'zaremba-zygmunt-wiki',
+        title: 'Zygmunt Zaremba – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Zygmunt_Zaremba',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'zaremba-zygmunt-fot',
+        title: 'Zygmunt Zaremba – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Zygmunt%20Zaremba&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['polacy-na-emigracji', 'pps', 'panstwo-podziemne', 'kultura-paryz'],
+  },
+  {
+    id: 'raczynski',
+    title: 'Edward Raczyński',
+    subtitle: 'Prezydent na uchodźstwie, który dożył wolnej Polski',
+    category: 'osoby',
+    tags: ['emigracja', 'dyplomacja', 'rząd na uchodźstwie', 'Londyn'],
+    yearStart: 1944,
+    yearEnd: 1990,
+    summary: 'Dyplomata i minister spraw zagranicznych rządu na uchodźstwie, w latach 1979–1986 prezydent RP na uchodźstwie; zmarł w wieku 101 lat.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Edward_Bernard_Raczy%C5%84ski.jpg?width=800',
+    imageCaption: 'Edward Raczyński',
+    content: `## Dyplomata
+Edward Raczyński (1891–1993) był przed wojną ambasadorem RP w Londynie, a w czasie wojny ministrem spraw zagranicznych rządu na uchodźstwie. To on w 1941 roku przekazywał aliantom informacje o sytuacji w okupowanej Polsce, a później o zagładzie Żydów.
+
+## Prezydent
+W latach 1979–1986 pełnił urząd prezydenta RP na uchodźstwie – jako czwarty z kolei. Objął go w wieku osiemdziesięciu siedmiu lat, a złożył w wieku dziewięćdziesięciu czterech; był najstarszym prezydentem w historii Polski.
+
+## Sens instytucji
+Urząd prezydenta na uchodźstwie nie dawał realnej władzy, ale utrzymywał ciągłość prawną Rzeczypospolitej sprzed 1939 roku. Dla władz PRL emigracyjna prezydentura była fikcją, dla emigracji – dowodem, że państwo nie zostało zlikwidowane, tylko okupowane.
+
+## Koniec drogi
+Dożył upadku systemu i przekazania insygniów prezydenckich do kraju w grudniu 1990 roku. Zmarł w Londynie w 1993 roku, mając 101 lat.`,
+    trivia: [
+      'Był najstarszym prezydentem w dziejach Polski – urząd objął w wieku 87 lat, a złożył w wieku 94.',
+      'Zmarł w wieku 101 lat, dożywszy końca PRL i przekazania insygniów prezydenckich do kraju.',
+    ],
+    resources: [
+      {
+        id: 'raczynski-wiki',
+        title: 'Edward Raczyński – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Edward_Bernard_Raczy%C5%84ski',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'raczynski-fot',
+        title: 'Edward Raczyński – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Edward%20Bernard%20Raczy%C5%84ski&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['rzad-emigracyjny', 'polacy-na-emigracji', 'arciszewski', 'wybory-1989'],
+  },
+  {
+    id: 'kukiel',
+    title: 'Marian Kukiel',
+    subtitle: 'Generał, historyk i sprawa Katynia',
+    category: 'osoby',
+    tags: ['emigracja', 'wojsko', 'Katyń', 'historia'],
+    yearStart: 1943,
+    yearEnd: 1973,
+    summary: 'Generał i historyk wojskowości, minister obrony narodowej rządu na uchodźstwie; w kwietniu 1943 roku ogłosił komunikat o poszukiwaniach zaginionych oficerów.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Marian_Kukiel.jpg?width=800',
+    imageCaption: 'Gen. Marian Kukiel',
+    content: `## Żołnierz i uczony
+Marian Kukiel (1885–1973) łączył dwie kariery: generalską i naukową. Był historykiem wojskowości, autorem prac o epoce napoleońskiej i o polskich powstaniach, a jednocześnie dowódcą i ministrem.
+
+## Kwiecień 1943
+Jako minister obrony narodowej w rządzie gen. Sikorskiego ogłosił w kwietniu 1943 roku komunikat o wieloletnich, bezskutecznych poszukiwaniach polskich oficerów zaginionych w ZSRR. Kilka dni później rząd zwrócił się do Międzynarodowego Czerwonego Krzyża o zbadanie sprawy Katynia. Stalin wykorzystał to jako pretekst do zerwania stosunków dyplomatycznych z rządem polskim.
+
+## Emigracja
+Po wojnie pozostał w Wielkiej Brytanii, gdzie kierował Instytutem Historycznym imienia gen. Sikorskiego – placówką gromadzącą dokumentację polskiego wysiłku wojennego, niedostępną wówczas badaczom w kraju.
+
+## Dlaczego to ważne
+W PRL Katyń był tematem zakazanym, a oficjalna wersja obarczała winą Niemców aż do 1990 roku. Dorobek emigracyjnych historyków, w tym Kukiela, przechowywał ustalenia, do których w kraju wolno było wrócić dopiero po upadku systemu.`,
+    trivia: [
+      'Jego komunikat z kwietnia 1943 roku poprzedził wystąpienie rządu do Czerwonego Krzyża w sprawie Katynia.',
+      'Kierował na emigracji Instytutem Historycznym im. gen. Sikorskiego, gromadzącym dokumenty niedostępne w PRL.',
+    ],
+    resources: [
+      {
+        id: 'kukiel-wiki',
+        title: 'Marian Kukiel – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Marian_Kukiel',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'kukiel-fot',
+        title: 'Marian Kukiel – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Marian%20Kukiel&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['katyn', 'rzad-emigracyjny', 'polacy-na-emigracji'],
+  },
+  {
+    id: 'grydzewski',
+    title: 'Mieczysław Grydzewski',
+    subtitle: 'Redaktor londyńskich „Wiadomości”',
+    category: 'osoby',
+    tags: ['emigracja', 'prasa', 'literatura', 'Londyn'],
+    yearStart: 1944,
+    yearEnd: 1970,
+    summary: 'Redaktor przedwojennych „Wiadomości Literackich”, a na emigracji londyńskich „Wiadomości” – najważniejszego pisma literackiego polskiej diaspory.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mieczyslaw_Grydzewski.jpg?width=800',
+    imageCaption: 'Mieczysław Grydzewski',
+    content: `## Przed wojną
+Mieczysław Grydzewski (1894–1970) redagował „Skamandra”, a przede wszystkim „Wiadomości Literackie” – tygodnik, który w dwudziestoleciu międzywojennym wyznaczał ton polskiego życia literackiego.
+
+## Londyn
+Na emigracji wznowił pismo pod tytułem „Wiadomości” i prowadził je przez ćwierć wieku. Publikowali w nim najwybitniejsi pisarze emigracyjni; obok paryskiej „Kultury” było to najważniejsze pismo polskiej diaspory.
+
+## Dwa ośrodki
+Londyńskie „Wiadomości” i paryska „Kultura” reprezentowały różne postawy: pierwsze trwały przy niezłomnym odrzuceniu PRL, drugie szukały sposobów oddziaływania na kraj i prowadziły dialog z krajowymi środowiskami. Spór między tymi liniami był jednym z głównych sporów emigracji.
+
+## Zasięg
+Egzemplarze „Wiadomości” docierały do Polski nielegalnie i krążyły w zamkniętym obiegu. Dla czytelnika w kraju był to jeden z niewielu sposobów, by wiedzieć, co pisze się poza zasięgiem cenzury.`,
+    trivia: [
+      'Przed wojną redagował „Wiadomości Literackie”, najważniejszy tygodnik literacki dwudziestolecia.',
+      'Londyńskie „Wiadomości” i paryska „Kultura” reprezentowały dwie rywalizujące linie emigracji.',
+    ],
+    resources: [
+      {
+        id: 'grydzewski-wiki',
+        title: 'Mieczysław Grydzewski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Mieczys%C5%82aw_Grydzewski',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'grydzewski-fot',
+        title: 'Mieczysław Grydzewski – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Mieczys%C5%82aw%20Grydzewski&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['polacy-na-emigracji', 'drugi-obieg', 'literatura-prl', 'kultura-paryz', 'giedroyc'],
+  },
+  {
+    id: 'olszewski-jan',
+    title: 'Jan Olszewski',
+    subtitle: 'Obrońca w procesach politycznych',
+    category: 'osoby',
+    tags: ['opozycja', 'prawo', 'KOR', 'procesy polityczne'],
+    yearStart: 1956,
+    yearEnd: 1989,
+    summary: 'Adwokat broniący w procesach politycznych PRL, współzałożyciel KOR, uczestnik rejestracji Solidarności w 1980 roku.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Olszewski_3_%28cropped%29.jpg?width=800',
+    imageCaption: 'Jan Olszewski',
+    content: `## Początki
+Jan Olszewski (1930–2019) był w czasie okupacji żołnierzem Szarych Szeregów i uczestnikiem Powstania Warszawskiego. Po wojnie został adwokatem – i tę rolę wykorzystał do działalności, którą inaczej trudno było prowadzić legalnie.
+
+## Obrońca
+Występował jako obrońca w najgłośniejszych procesach politycznych PRL, m.in. w sprawach działaczy opozycji z lat 60. i 70. oraz uczestników protestów robotniczych. Obrona w takim procesie oznaczała ryzyko: adwokatom odbierano prawo wykonywania zawodu, zakładano teczki, blokowano wyjazdy.
+
+## KOR i Solidarność
+Był jednym z założycieli Komitetu Obrony Robotników w 1976 roku, powstałego po represjach wobec robotników Radomia i Ursusa. W 1980 roku uczestniczył w postępowaniu rejestracyjnym NSZZ „Solidarność” – sporze prawnym o to, czy niezależny związek w ogóle może istnieć.
+
+## Później
+Po 1989 roku był premierem w latach 1991–1992. Jego droga – od obrony w procesach politycznych po urząd premiera – należy do typowych dla pokolenia opozycji prawniczej.`,
+    trivia: [
+      'Bronił w procesach politycznych, choć adwokatom groziło za to odebranie prawa wykonywania zawodu.',
+      'W 1980 roku uczestniczył w postępowaniu o rejestrację Solidarności – sporze o samo prawo istnienia niezależnego związku.',
+    ],
+    resources: [
+      {
+        id: 'olszewski-jan-wiki',
+        title: 'Jan Olszewski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Jan_Olszewski',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'olszewski-jan-fot',
+        title: 'Jan Olszewski – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Jan%20Olszewski&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['kor', 'solidarnosc', 'czerwiec-1976', 'niezaleznosc-sadow'],
+  },
+  {
+    id: 'hlond',
+    title: 'Kard. August Hlond',
+    subtitle: 'Prymas przełomu, 1945–1948',
+    category: 'osoby',
+    tags: ['Kościół', 'prymas', 'Ziemie Odzyskane', '1945'],
+    yearStart: 1945,
+    yearEnd: 1948,
+    summary: 'Prymas Polski w latach 1926–1948; po powrocie do kraju w 1945 roku zorganizował administrację kościelną na ziemiach zachodnich i północnych.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/August_Hlond_Colorized.png?width=800',
+    imageCaption: 'Kard. August Hlond',
+    content: `## Prymas dwóch epok
+August Hlond (1881–1948), salezjanin, był prymasem Polski od 1926 roku – a więc przez całe dwudziestolecie międzywojenne, wojnę i pierwsze lata powojenne. Wojnę spędził poza krajem, część w niemieckim internowaniu.
+
+## Ziemie zachodnie
+Po powrocie w 1945 roku, dysponując specjalnymi uprawnieniami papieskimi, zorganizował polską administrację kościelną na ziemiach przyłączonych po konferencji poczdamskiej. Było to posunięcie o dużym ciężarze politycznym: Kościół działał tam, zanim ustalono ostateczny status granicy, co władze wykorzystywały propagandowo, a Watykan traktował z ostrożnością.
+
+## Wobec nowej władzy
+Hlond starał się zabezpieczyć pozycję Kościoła w państwie, którego charakter oceniał trzeźwo. Konflikt narastał: od 1945 roku wypowiedziano konkordat, ograniczano prasę katolicką i szkolnictwo, a wobec duchownych rozpoczęto działania operacyjne.
+
+## Następca
+Zmarł w październiku 1948 roku. Jego następcą został Stefan Wyszyński, który przejął Kościół w momencie, gdy konfrontacja z państwem dopiero się zaczynała.`,
+    trivia: [
+      'Był prymasem Polski przez dwadzieścia dwa lata – od 1926 roku aż do śmierci w 1948.',
+      'Organizował polską administrację kościelną na ziemiach zachodnich, zanim status granicy został ostatecznie przesądzony.',
+    ],
+    resources: [
+      {
+        id: 'hlond-wiki',
+        title: 'Kard. August Hlond – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/August_Hlond',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'hlond-fot',
+        title: 'Kard. August Hlond – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=August%20Hlond&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['kosciol-prl', 'wyszynski', 'ziemie-odzyskane', 'poczdam'],
+  },
+  {
+    id: 'sapieha',
+    title: 'Kard. Adam Sapieha',
+    subtitle: 'Książę Niezłomny',
+    category: 'osoby',
+    tags: ['Kościół', 'Kraków', 'okupacja', 'Wojtyła'],
+    yearStart: 1944,
+    yearEnd: 1951,
+    summary: 'Metropolita krakowski, w czasie okupacji faktyczny przywódca Kościoła w kraju; wyświęcił Karola Wojtyłę na kapłana.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Adam_Stefan_Sapieha_%281867-1951%29.jpg?width=800',
+    imageCaption: 'Kard. Adam Stefan Sapieha',
+    content: `## Książę Niezłomny
+Adam Stefan Sapieha (1867–1951), metropolita krakowski od 1911 roku, zyskał przydomek Księcia Niezłomnego jeszcze w czasie okupacji. Gdy prymas Hlond przebywał poza krajem, to Sapieha był faktycznym przywódcą Kościoła w Polsce i jedynym hierarchą, który otwarcie występował wobec niemieckich władz okupacyjnych.
+
+## Tajne seminarium
+W czasie okupacji prowadził w swojej rezydencji tajne seminarium duchowne. Jednym z kleryków był Karol Wojtyła, którego Sapieha wyświęcił na kapłana w 1946 roku i skierował na studia do Rzymu.
+
+## Po wojnie
+Kardynałem został w 1946 roku. Wobec nowej władzy zachowywał postawę nieustępliwą: protestował przeciw ograniczaniu prasy katolickiej i wpływom państwa na Kościół, a w 1948 roku nie zgodził się na udział duchownych w politycznych przedsięwzięciach władz.
+
+## Znaczenie
+Zmarł w 1951 roku, u progu najostrzejszej fazy konfliktu państwa z Kościołem. Postawa, którą reprezentował – brak zgody na kompromis kosztem niezależności – stała się wzorcem dla Wyszyńskiego i dla pokolenia duchownych, w tym dla przyszłego papieża.`,
+    trivia: [
+      'W czasie okupacji prowadził tajne seminarium duchowne we własnej rezydencji.',
+      'W 1946 roku wyświęcił na kapłana Karola Wojtylę i skierował go na studia do Rzymu.',
+    ],
+    resources: [
+      {
+        id: 'sapieha-wiki',
+        title: 'Kard. Adam Sapieha – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Adam_Stefan_Sapieha',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'sapieha-fot',
+        title: 'Kard. Adam Sapieha – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Adam%20Stefan%20Sapieha&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['kosciol-prl', 'wyszynski', 'hlond', 'pielgrzymki-jp2'],
+  },
+  {
+    id: 'kaczmarek-biskup',
+    title: 'Bp Czesław Kaczmarek',
+    subtitle: 'Pokazowy proces biskupa, 1953',
+    category: 'osoby',
+    tags: ['Kościół', 'represje', 'proces pokazowy', '1953'],
+    yearStart: 1951,
+    yearEnd: 1963,
+    summary: 'Biskup kielecki, sądzony w 1953 roku w pokazowym procesie – najgłośniejszej rozprawie wytoczonej hierarsze Kościoła w PRL.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Czes%C5%82aw_Kaczmarek_1.jpg?width=800',
+    imageCaption: 'Bp Czesław Kaczmarek',
+    content: `## Biskup kielecki
+Czesław Kaczmarek (1895–1963) był biskupem diecezjalnym kieleckim od 1938 roku. Po wojnie należał do hierarchów wyraźnie niechętnych układaniu się z nową władzą.
+
+## Aresztowanie i proces
+Aresztowano go w styczniu 1951 roku. Śledztwo prowadzono metodami stosowanymi wobec więźniów politycznych: długotrwałym, wyczerpującym przesłuchiwaniem, izolacją, presją psychiczną. We wrześniu 1953 roku odbył się pokazowy proces, w którym oskarżono go o szpiegostwo na rzecz Stanów Zjednoczonych i Watykanu. Zapadł wyrok dwunastu lat więzienia.
+
+## Kontekst
+Proces był punktem kulminacyjnym kampanii przeciw Kościołowi. Kilka tygodni później internowano prymasa Stefana Wyszyńskiego. Rok wcześniej władze wydały dekret o obsadzaniu duchownych stanowisk kościelnych, dający państwu wpływ na nominacje.
+
+## Po odwilży
+Zwolniony w 1956 roku, wrócił do diecezji. Wyrok uchylono dopiero po latach, a proces uznano za sfabrykowany. Zmarł w 1963 roku.`,
+    trivia: [
+      'Oskarżono go o szpiegostwo na rzecz Stanów Zjednoczonych i Watykanu; wyrok opiewał na dwanaście lat.',
+      'Kilka tygodni po jego procesie internowano prymasa Wyszyńskiego.',
+    ],
+    resources: [
+      {
+        id: 'kaczmarek-biskup-wiki',
+        title: 'Bp Czesław Kaczmarek – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Czes%C5%82aw_Kaczmarek',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'kaczmarek-biskup-fot',
+        title: 'Bp Czesław Kaczmarek – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Czes%C5%82aw%20Kaczmarek&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['kosciol-prl', 'wyszynski', 'urzad-wyznan', 'represje-polityczne', 'wiezienia-polityczne'],
+  },
 ];
 
 export const categories: { id: Category; label: string; color: string; icon: string }[] = [
@@ -32433,4 +32939,10 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1976, event: 'Premier Jaroszewicz ogłasza podwyżkę cen; odwołana po protestach', category: 'osoby', entryId: 'jaroszewicz' },
   { year: 1980, event: 'Stanisław Kania I sekretarzem KC PZPR po Edwardzie Gierku', category: 'osoby', entryId: 'kania' },
   { year: 1945, event: 'Gen. Okulicki rozwiązuje Armię Krajową, a w marcu zostaje podstępnie aresztowany', category: 'osoby', entryId: 'okulicki' },
+  { year: 1945, event: 'Zachód cofa uznanie rządowi Tomasza Arciszewskiego w Londynie', category: 'osoby', entryId: 'arciszewski' },
+  { year: 1948, event: 'Kazimierz Pużak skazany w pokazowym procesie działaczy PPS-WRN', category: 'osoby', entryId: 'puzak' },
+  { year: 1943, event: 'Komunikat gen. Kukiela o zaginionych oficerach poprzedza sprawę Katynia', category: 'osoby', entryId: 'kukiel' },
+  { year: 1976, event: 'Jan Olszewski wśród założycieli Komitetu Obrony Robotników', category: 'osoby', entryId: 'olszewski-jan' },
+  { year: 1945, event: 'Kard. Hlond organizuje administrację kościelną na ziemiach zachodnich', category: 'osoby', entryId: 'hlond' },
+  { year: 1953, event: 'Pokazowy proces biskupa Czesława Kaczmarka', category: 'osoby', entryId: 'kaczmarek-biskup' },
 ];
