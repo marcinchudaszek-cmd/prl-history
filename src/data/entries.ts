@@ -140,7 +140,7 @@ Stan wojenny zawieszono w 1982 i zniesiono w lipcu 1983 roku. Jego ofiarą padł
         description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
       },
     ],
-    relatedIds: ['solidarnosc', 'jaruzelski', 'wujek', 'sbezpieczenstwa', 'pron', 'rada-panstwa'],
+    relatedIds: ['solidarnosc', 'jaruzelski', 'wujek', 'sbezpieczenstwa', 'pron', 'rada-panstwa', 'kania'],
   },
   {
     id: 'solidarnosc',
@@ -229,7 +229,7 @@ Solidarność zapoczątkowała pokojowy demontaż komunizmu w Polsce i Europie �
         description: 'Hasła i opracowania encyklopedyczne na ten temat.',
       },
     ],
-    relatedIds: ['stan-wojenny', 'okragly-stol', 'sierpien-1980', 'walesa'],
+    relatedIds: ['stan-wojenny', 'okragly-stol', 'sierpien-1980', 'walesa', 'kania'],
   },
   {
     id: 'czerwiec-1956',
@@ -365,7 +365,7 @@ Zginęło co najmniej 45 osób, ponad tysiąc odniosło rany. Pamięć o ofiarac
         description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
     ],
-    relatedIds: ['czerwiec-1956', 'solidarnosc', 'gomulka', 'gierek'],
+    relatedIds: ['czerwiec-1956', 'solidarnosc', 'gomulka', 'gierek', 'spychalski', 'jaroszewicz'],
   },
   {
     id: 'okragly-stol',
@@ -993,7 +993,7 @@ Gomułka pozostaje symbolem zmarnowanych nadziei 1956 roku – polityka, który 
         description: 'Hasła i opracowania encyklopedyczne na ten temat.',
       },
     ],
-    relatedIds: ['pzpr', 'czerwiec-1956', 'grudzien-1970', 'marzec-1968'],
+    relatedIds: ['pzpr', 'czerwiec-1956', 'grudzien-1970', 'marzec-1968', 'ochab', 'zambrowski', 'spychalski', 'rokossowski', 'zawadzki'],
   },
   {
     id: 'gierek',
@@ -1051,7 +1051,7 @@ Gierek pozostaje postacią ambiwalentną – wspominaną z nostalgią za pozorn�
         description: 'Hasła i opracowania encyklopedyczne na ten temat.',
       },
     ],
-    relatedIds: ['pzpr', 'grudzien-1970', 'gospodarka-prl', 'sierpien-1980'],
+    relatedIds: ['pzpr', 'grudzien-1970', 'gospodarka-prl', 'sierpien-1980', 'jaroszewicz', 'kania'],
   },
   {
     id: 'jaruzelski',
@@ -1110,7 +1110,7 @@ W 2008 roku prokuratura IPN oskarżyła Jaruzelskiego o wydanie bezprawnych rozk
         description: 'Naukowa analiza przesłanek i skutków stanu wojennego oparta na odtajnionych dokumentach',
       },
     ],
-    relatedIds: ['stan-wojenny', 'pzpr', 'okragly-stol', 'solidarnosc'],
+    relatedIds: ['stan-wojenny', 'pzpr', 'okragly-stol', 'solidarnosc', 'kania'],
   },
   {
     id: 'walesa',
@@ -1244,7 +1244,7 @@ Bierut pozostaje symbolem stalinizmu w Polsce – okresu terroru i całkowitego 
         description: 'Zestawienie najważniejszych zbrodni systemu stalinowskiego w Polsce',
       },
     ],
-    relatedIds: ['pzpr', 'represje-polityczne', 'gomulka', 'krn'],
+    relatedIds: ['pzpr', 'represje-polityczne', 'gomulka', 'krn', 'berman', 'minc', 'ochab', 'radkiewicz'],
   },
   {
     id: 'kor',
@@ -1401,7 +1401,7 @@ Marzec 1968 to trauma polskiej inteligencji i kompromitacja władzy. Ukształtow
         description: 'Relacje świadków wydarzeń marcowych (Zapiski ze współczesności).',
       },
     ],
-    relatedIds: ['pzpr', 'sbezpieczenstwa', 'kultura-prl', 'kor', 'gomulka'],
+    relatedIds: ['pzpr', 'sbezpieczenstwa', 'kultura-prl', 'kor', 'gomulka', 'zambrowski', 'ochab'],
   },
   {
     id: 'czerwiec-1976',
@@ -1469,7 +1469,7 @@ Czerwiec 1976 połączył bunt robotniczy ze wsparciem inteligencji, budując fu
         year: 1976,
       },
     ],
-    relatedIds: ['kor', 'solidarnosc', 'represje-polityczne', 'gierek'],
+    relatedIds: ['kor', 'solidarnosc', 'represje-polityczne', 'gierek', 'jaroszewicz'],
   },
   {
     id: 'popieluszko',
@@ -1730,7 +1730,7 @@ LWP łączyło rolę armii z funkcją narzędzia systemu – pozostaje symbolem 
         year: 1968,
       },
     ],
-    relatedIds: ['pzpr', 'stan-wojenny', 'grudzien-1970', 'jaruzelski', 'wsw', 'wop', 'kbw', 'operacja-dunaj', 'wopk', 'marynarka-wojenna-prl'],
+    relatedIds: ['pzpr', 'stan-wojenny', 'grudzien-1970', 'jaruzelski', 'wsw', 'wop', 'kbw', 'operacja-dunaj', 'wopk', 'marynarka-wojenna-prl', 'rokossowski', 'spychalski'],
   },
   {
     id: 'wyszynski',
@@ -2377,7 +2377,7 @@ Radio Wolna Europa odegrało kluczową rolę w przełamywaniu monopolu informacy
         description: 'Relacje o roli Radia Wolna Europa (Zapiski ze współczesności).',
       },
     ],
-    relatedIds: ['kultura-prl', 'drugi-obieg', 'cenzura-prl', 'kor', 'solidarnosc'],
+    relatedIds: ['kultura-prl', 'drugi-obieg', 'cenzura-prl', 'kor', 'solidarnosc', 'swiatlo'],
   },
   {
     id: 'cenzura-prl',
@@ -2514,7 +2514,7 @@ Październik 1956 nie zmienił zasad systemu. Cenzura pozostała, Polska trwała
         downloadable: false,
       },
     ],
-    relatedIds: ['gomulka', 'czerwiec-1956', 'bierut', 'wyszynski', 'pzpr'],
+    relatedIds: ['gomulka', 'czerwiec-1956', 'bierut', 'wyszynski', 'pzpr', 'ochab', 'rokossowski', 'swiatlo', 'berman', 'minc'],
   },
   {
     id: 'ub',
@@ -2584,7 +2584,7 @@ UB pozostaje symbolem stalinowskiego terroru – bezwzględnej machiny represji,
         description: 'Teksty i opracowania historyków IPN na ten temat.',
       },
     ],
-    relatedIds: ['represje-polityczne', 'sbezpieczenstwa', 'bierut', 'zolnierze-wykletci', 'wyszynski'],
+    relatedIds: ['represje-polityczne', 'sbezpieczenstwa', 'bierut', 'zolnierze-wykletci', 'wyszynski', 'radkiewicz', 'swiatlo', 'berman'],
   },
   {
     id: 'palac-kultury',
@@ -3217,7 +3217,7 @@ Wybuch robotniczego buntu w Poznaniu w czerwcu 1956 roku był bezpośrednią rea
         downloadable: false,
       },
     ],
-    relatedIds: ['gospodarka-prl', 'nowa-huta', 'bierut', 'kolektywizacja', 'czerwiec-1956', 'cup'],
+    relatedIds: ['gospodarka-prl', 'nowa-huta', 'bierut', 'kolektywizacja', 'czerwiec-1956', 'cup', 'minc'],
   },
   {
     id: 'wzz',
@@ -6023,7 +6023,7 @@ Negocjacje o wycofaniu wojsk sowieckich rozpoczęły się w 1990 roku. Ostatni �
         year: 1945,
       },
     ],
-    relatedIds: ['uklad-warszawski', 'lwp', 'manifest-pkwn', 'stan-wojenny', 'gorbaczow'],
+    relatedIds: ['uklad-warszawski', 'lwp', 'manifest-pkwn', 'stan-wojenny', 'gorbaczow', 'rokossowski'],
   },
   {
     id: 'cyrankiewicz',
@@ -8164,7 +8164,7 @@ Odbudowa stała się mitem założycielskim PRL: tysiące ochotników z całego 
         year: 1945,
       },
     ],
-    relatedIds: ['palac-kultury', 'socrealizm', 'mieszkania-prl', 'manifest-pkwn', 'plan-szescioletni', 'bos'],
+    relatedIds: ['palac-kultury', 'socrealizm', 'mieszkania-prl', 'manifest-pkwn', 'plan-szescioletni', 'bos', 'spychalski'],
   },
   {
     id: 'wywiad-prl',
@@ -8677,7 +8677,7 @@ Moczar jest symbolem narodowo-komunistycznej hybrydy: połączenia nacjonalizmu 
         year: 1968,
       },
     ],
-    relatedIds: ['marzec-1968', 'gomulka', 'gierek', 'sbezpieczenstwa', 'emigracja-1968'],
+    relatedIds: ['marzec-1968', 'gomulka', 'gierek', 'sbezpieczenstwa', 'emigracja-1968', 'zambrowski'],
   },
   {
     id: 'muzyka-powazna-prl',
@@ -11988,7 +11988,7 @@ Bitwa o handel zniszczyła warstwę drobnych przedsiębiorców i kupców, zmieni
         description: 'Cyfrowe zbiory prasy z okresu bitwy o handel.',
       },
     ],
-    relatedIds: ['nacjonalizacja', 'kolektywizacja', 'gospodarka-prl', 'plan-szescioletni', 'zbrodnie-stalinizmu'],
+    relatedIds: ['nacjonalizacja', 'kolektywizacja', 'gospodarka-prl', 'plan-szescioletni', 'zbrodnie-stalinizmu', 'minc'],
   },
   {
     id: 'kroniki-archiwa-filmowe',
@@ -19116,7 +19116,7 @@ Proces szesnastu symbolizuje sposób, w jaki ZSRR likwidował niepodległościow
         description: 'Teksty i opracowania historyków IPN na ten temat.',
       },
     ],
-    relatedIds: ['zolnierze-wykletci', 'rzad-emigracyjny', 'represje-polityczne', 'panstwo-podziemne', 'delegatura-rzadu'],
+    relatedIds: ['zolnierze-wykletci', 'rzad-emigracyjny', 'represje-polityczne', 'panstwo-podziemne', 'delegatura-rzadu', 'okulicki'],
   },
   {
     id: 'oblawa-augustowska',
@@ -30921,7 +30921,7 @@ Rada Państwa została zniesiona w 1989 roku, wraz z przywróceniem urzędu prez
         description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
       },
     ],
-    relatedIds: ['sejm-prl', 'konstytucja-prl', 'stan-wojenny', 'okragly-stol'],
+    relatedIds: ['sejm-prl', 'konstytucja-prl', 'stan-wojenny', 'okragly-stol', 'zawadzki', 'ochab', 'spychalski'],
   },
   {
     id: 'urzad-wyznan',
@@ -31009,7 +31009,7 @@ We wrześniu 1989 roku premierem został Tadeusz Mazowiecki – pierwszy od czte
         description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
       },
     ],
-    relatedIds: ['pzpr', 'sejm-prl', 'okragly-stol', 'rada-panstwa'],
+    relatedIds: ['pzpr', 'sejm-prl', 'okragly-stol', 'rada-panstwa', 'jaroszewicz'],
   },
   {
     id: 'krn',
@@ -31237,7 +31237,7 @@ Dla nowej władzy Polskie Państwo Podziemne było przeszkodą, a nie dziedzictw
         description: 'Fotografie, dokumenty i materiały graficzne w Wikimedia Commons.',
       },
     ],
-    relatedIds: ['delegatura-rzadu', 'proces-szesnastu', 'rzad-emigracyjny', 'zolnierze-wykletci', 'pilecki'],
+    relatedIds: ['delegatura-rzadu', 'proces-szesnastu', 'rzad-emigracyjny', 'zolnierze-wykletci', 'pilecki', 'okulicki'],
   },
   {
     id: 'poczdam',
@@ -31419,7 +31419,559 @@ Odbudowane Stare Miasto zostało wpisane na listę światowego dziedzictwa UNESC
         description: 'Fotografie, dokumenty i materiały graficzne w Wikimedia Commons.',
       },
     ],
-    relatedIds: ['odbudowa-warszawy', 'krn', 'mieszkania-prl'],
+    relatedIds: ['odbudowa-warszawy', 'krn', 'mieszkania-prl', 'spychalski'],
+  },
+  {
+    id: 'berman',
+    title: 'Jakub Berman',
+    subtitle: 'Trzeci z rządzącej trójki',
+    category: 'osoby',
+    tags: ['władza', 'PZPR', 'stalinizm', 'bezpieczeństwo'],
+    yearStart: 1944,
+    yearEnd: 1956,
+    summary: 'Członek Biura Politycznego odpowiadający za ideologię, kulturę i nadzór nad aparatem bezpieczeństwa; wraz z Bierutem i Mincem tworzył ścisłe kierownictwo lat 1949–1956.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jakub_Berman.jpg?width=800',
+    imageCaption: 'Jakub Berman',
+    content: `## Kim był
+Jakub Berman (1901–1984), prawnik z wykształcenia, wojnę spędził w ZSRR, gdzie współtworzył tajne Centralne Biuro Komunistów Polski przy KC WKP(b). Od sierpnia 1944 roku zasiadał w Biurze Politycznym, najpierw PPR, potem PZPR.
+
+## Trójka
+W latach 1949–1956 najważniejsze decyzje zapadały w gronie trzech osób: Bolesława Bieruta, Hilarego Minca i Jakuba Bermana. Podział ról był wyraźny – Minc odpowiadał za gospodarkę, Berman za ideologię, kulturę, propagandę i nadzór nad bezpieczeństwem, Bierut sprawował zwierzchnictwo. W latach 1954–1956 Berman był wicepremierem.
+
+## Odpowiedzialność
+Nadzór nad aparatem bezpieczeństwa oznaczał współodpowiedzialność za represje okresu stalinowskiego: procesy polityczne, wymuszanie zeznań, wyroki śmierci. Berman do końca życia bronił swoich decyzji jako historycznej konieczności.
+
+## Odejście
+Ujawnienia Józefa Światły i referat Chruszczowa na XX Zjeździe KPZR podcięły pozycję całej trójki. Bierut zmarł w marcu 1956 roku w Moskwie, Berman stracił stanowiska w maju. Późniejsze lata przepracował w wydawnictwie, usunięty z życia publicznego, ale nigdy nie pociągnięty do odpowiedzialności.`,
+    trivia: [
+      'Wraz z Bierutem i Mincem tworzył trójkę, w której zapadały wszystkie kluczowe decyzje lat 1949–1956.',
+      'Po odsunięciu od władzy pracował jako redaktor w wydawnictwie – nigdy nie odpowiedział za represje okresu stalinowskiego.',
+    ],
+    resources: [
+      {
+        id: 'berman-wiki',
+        title: 'Jakub Berman – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Jakub_Berman',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'berman-fot',
+        title: 'Jakub Berman – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Jakub%20Berman&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['bierut', 'minc', 'ub', 'pazdziernik-1956', 'pzpr'],
+  },
+  {
+    id: 'minc',
+    title: 'Hilary Minc',
+    subtitle: 'Architekt gospodarki nakazowej',
+    category: 'osoby',
+    tags: ['władza', 'gospodarka', 'stalinizm', 'przemysł'],
+    yearStart: 1944,
+    yearEnd: 1956,
+    summary: 'Ekonomista, który faktycznie kierował polityką gospodarczą państwa w pierwszej dekadzie PRL – autor bitwy o handel i planu sześcioletniego.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Hilary_Minc_1949.jpg?width=800',
+    imageCaption: 'Hilary Minc, 1949',
+    content: `## Droga do władzy
+Hilary Minc (1905–1974) był ekonomistą, w partii komunistycznej od 1921 roku. Wojnę spędził w ZSRR, a w grudniu 1944 roku objął resort przemysłu w PKWN. Jako minister przemysłu, a potem przemysłu i handlu, przez dekadę faktycznie kierował gospodarką kraju.
+
+## Bitwa o handel
+To on w 1947 roku ogłosił bitwę o handel – kampanię wymierzoną w prywatny handel i drobną wytwórczość, prowadzoną domiarami podatkowymi, kontrolami i szykanami. W ciągu kilku lat zlikwidowała ona sektor, który po wojnie odbudował zaopatrzenie miast.
+
+## Plan sześcioletni
+Minc odpowiadał za plan sześcioletni 1950–1955, przestawiający gospodarkę na przemysł ciężki i zbrojeniowy kosztem konsumpcji i rolnictwa. Był to zwrot wobec wcześniejszego planu trzyletniego, opracowanego w Centralnym Urzędzie Planowania, którego koncepcje odrzucono jako odstępstwo od socjalizmu.
+
+## Koniec
+Odsunięty w 1956 roku wraz z resztą stalinowskiego kierownictwa. Model gospodarczy, który zbudował – centralne rozdzielnictwo, prymat przemysłu ciężkiego, marginalizacja prywatnej inicjatywy – przetrwał go jednak o ponad trzydzieści lat.`,
+    trivia: [
+      'Ogłoszona przez niego w 1947 roku bitwa o handel zlikwidowała prywatny handel domiarami podatkowymi, bez formalnej nacjonalizacji.',
+      'Zbudowany przez niego model gospodarczy przetrwał jego odejście o ponad trzydzieści lat.',
+    ],
+    resources: [
+      {
+        id: 'minc-wiki',
+        title: 'Hilary Minc – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Hilary_Minc',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'minc-fot',
+        title: 'Hilary Minc – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Hilary%20Minc&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['bierut', 'berman', 'bitwa-o-handel', 'plan-szescioletni', 'cup', 'gospodarka-prl'],
+  },
+  {
+    id: 'zambrowski',
+    title: 'Roman Zambrowski',
+    subtitle: 'Od Biura Politycznego do celu kampanii marcowej',
+    category: 'osoby',
+    tags: ['władza', 'PZPR', 'Marzec 1968', 'puławianie'],
+    yearStart: 1944,
+    yearEnd: 1968,
+    summary: 'Członek Biura Politycznego w latach 1948–1963, kojarzony z liberalniejszą frakcją puławian, później jeden z celów antysemickiej kampanii 1968 roku.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Roman_Zambrowski_1949.jpg?width=800',
+    imageCaption: 'Roman Zambrowski, 1949',
+    content: `## Kariera
+Roman Zambrowski (1909–1977) należał do kierownictwa partii od pierwszych lat powojennych: wicemarszałek Sejmu Ustawodawczego, członek Rady Państwa w latach 1947–1955, minister kontroli państwowej, a przede wszystkim członek Biura Politycznego KC PZPR przez piętnaście lat, od 1948 do 1963 roku.
+
+## Puławianie
+Po 1956 roku kojarzono go z frakcją zwaną puławianami, opowiadającą się za utrzymaniem odwilżowych zmian. Przeciwna frakcja, natolińczycy, a później grupa Mieczysława Moczara, posługiwała się wobec puławian argumentacją narodową, a w istocie antysemicką.
+
+## Usunięcie
+W 1963 roku Zambrowski stracił miejsce w Biurze Politycznym. Pięć lat później, w kampanii marcowej 1968 roku, jego nazwisko wracało w propagandzie jako przykład „syjonisty” w aparacie władzy.
+
+## Znaczenie
+Jego los pokazuje mechanizm, który w PRL działał wielokrotnie: człowiek współtworzący system represji sam stawał się jego celem, gdy zmieniał się układ sił w partii. Zmiana ta nie oznaczała jednak liberalizacji – tylko wymianę ludzi.`,
+    trivia: [
+      'Zasiadał w Biurze Politycznym przez piętnaście lat, a mimo to w 1968 roku propaganda przedstawiała go jako wroga.',
+      'Frakcje popaździernikowe nazwano od miejsc spotkań: puławianie od ulicy Puławskiej, natolińczycy od pałacyku w Natolinie.',
+    ],
+    resources: [
+      {
+        id: 'zambrowski-wiki',
+        title: 'Roman Zambrowski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Roman_Zambrowski',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'zambrowski-fot',
+        title: 'Roman Zambrowski – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Roman%20Zambrowski&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['marzec-1968', 'moczar', 'pazdziernik-1956', 'pzpr', 'gomulka'],
+  },
+  {
+    id: 'ochab',
+    title: 'Edward Ochab',
+    subtitle: 'I sekretarz na siedem miesięcy',
+    category: 'osoby',
+    tags: ['władza', 'PZPR', '1956', 'Marzec 1968'],
+    yearStart: 1944,
+    yearEnd: 1968,
+    summary: 'I sekretarz KC PZPR w burzliwym roku 1956, później przewodniczący Rady Państwa; ustąpił w 1968 roku, co wiązano z jego sprzeciwem wobec kampanii antysemickiej.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Edward_Ochab_2.jpg?width=800',
+    imageCaption: 'Edward Ochab',
+    content: `## Rok 1956
+Edward Ochab (1906–1989) objął kierownictwo partii po śmierci Bolesława Bieruta w marcu 1956 roku. Trafił na najtrudniejsze miesiące w dotychczasowej historii PRL: referat Chruszczowa na XX Zjeździe KPZR, poznański Czerwiec, narastające żądania zmian.
+
+## Poznań i Październik
+To za jego kadencji stłumiono zbrojnie wystąpienie robotników w Poznaniu, a kilka miesięcy później doszło do przesilenia na VIII Plenum. Ochab ustąpił miejsca Władysławowi Gomułce, sam pozostając w kierownictwie – przekazanie władzy odbyło się bez rozliczenia i bez rozłamu w partii.
+
+## Rada Państwa
+W latach 1964–1968 pełnił funkcję przewodniczącego Rady Państwa, czyli formalnej głowy państwa.
+
+## Odejście w 1968
+Zrezygnował ze stanowisk w 1968 roku, w czasie kampanii marcowej. Jego odejście wiązano z niezgodą na antysemicki charakter tej kampanii – był jednym z nielicznych ludzi z najwyższego kierownictwa, którzy w tym momencie usunęli się z własnej woli.`,
+    trivia: [
+      'Kierował partią tylko przez siedem miesięcy 1956 roku – od śmierci Bieruta do VIII Plenum.',
+      'Ustąpił ze stanowisk w 1968 roku; jego odejście wiązano ze sprzeciwem wobec kampanii antysemickiej.',
+    ],
+    resources: [
+      {
+        id: 'ochab-wiki',
+        title: 'Edward Ochab – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Edward_Ochab',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'ochab-fot',
+        title: 'Edward Ochab – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Edward%20Ochab&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['pazdziernik-1956', 'gomulka', 'bierut', 'marzec-1968', 'rada-panstwa'],
+  },
+  {
+    id: 'zawadzki',
+    title: 'Aleksander Zawadzki',
+    subtitle: 'Głowa państwa przez dwanaście lat',
+    category: 'osoby',
+    tags: ['władza', 'PZPR', 'Rada Państwa', 'wojsko'],
+    yearStart: 1944,
+    yearEnd: 1964,
+    summary: 'Generał i działacz komunistyczny, przewodniczący Rady Państwa w latach 1952–1964, czyli formalna głowa państwa przez cały ten okres.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Aleksander_Zawadzki_1.jpg?width=800',
+    imageCaption: 'Aleksander Zawadzki',
+    content: `## Droga
+Aleksander Zawadzki (1899–1964) wywodził się z Zagłębia Dąbrowskiego i z przedwojennego ruchu komunistycznego. W czasie wojny stanął na czele tajnego Centralnego Biura Komunistów Polski w ZSRR, a następnie był zastępcą naczelnego dowódcy Wojska Polskiego do spraw polityczno-wychowawczych.
+
+## Funkcje
+Po wojnie przeszedł przez najwyższe stanowiska: Biuro Polityczne, przewodnictwo Centralnej Rady Związków Zawodowych, dwukrotnie wicepremierostwo. Od 1952 roku, gdy konstytucja zniosła urząd prezydenta, aż do śmierci w 1964 roku przewodniczył Radzie Państwa.
+
+## Rola
+Jako przewodniczący Rady Państwa był protokolarną głową państwa: podpisywał ustawy, przyjmował listy uwierzytelniające, nadawał odznaczenia i stosował prawo łaski. Realna władza pozostawała jednak u I sekretarza partii.
+
+## Trwałość
+Przetrwał na szczycie zmianę epok – stalinizm, Październik i pierwsze lata rządów Gomułki – co w kierownictwie PZPR było rzadkością. Zmarł na stanowisku w sierpniu 1964 roku.`,
+    trivia: [
+      'Przewodniczył Radzie Państwa nieprzerwanie przez dwanaście lat i zmarł na tym stanowisku.',
+      'Był jednym z nielicznych członków kierownictwa, którzy utrzymali pozycję i przed Październikiem 1956, i po nim.',
+    ],
+    resources: [
+      {
+        id: 'zawadzki-wiki',
+        title: 'Aleksander Zawadzki – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Aleksander_Zawadzki',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'zawadzki-fot',
+        title: 'Aleksander Zawadzki – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Aleksander%20Zawadzki&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['rada-panstwa', 'konstytucja-prl', 'pzpr', 'gomulka'],
+  },
+  {
+    id: 'radkiewicz',
+    title: 'Stanisław Radkiewicz',
+    subtitle: 'Minister bezpieczeństwa publicznego',
+    category: 'osoby',
+    tags: ['represje', 'UB', 'stalinizm', 'władza'],
+    yearStart: 1944,
+    yearEnd: 1956,
+    summary: 'Szef resortu bezpieczeństwa od PKWN w 1944 roku aż do rozwiązania MBP w 1954, odpowiedzialny za aparat represji okresu stalinowskiego.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw_Radkiewicz.jpg?width=800',
+    imageCaption: 'Stanisław Radkiewicz',
+    content: `## Dziesięć lat na czele bezpieki
+Stanisław Radkiewicz (1903–1987) kierował resortem bezpieczeństwa publicznego od jego powstania w PKWN w 1944 roku do rozwiązania Ministerstwa Bezpieczeństwa Publicznego pod koniec 1954 roku. Był to okres najcięższych represji w historii PRL.
+
+## Zakres władzy
+Podległy mu aparat prowadził walkę z podziemiem niepodległościowym, procesy polityczne, śledztwa wobec oficerów, duchownych i działaczy PSL. Dysponował własnymi więzieniami, siecią agentury i praktycznie nieograniczoną swobodą w stosowaniu przemocy wobec zatrzymanych.
+
+## Rozwiązanie MBP
+Ucieczka na Zachód wicedyrektora Departamentu X Józefa Światły i jego audycje w Radiu Wolna Europa ujawniły metody resortu i wywołały wstrząs. W grudniu 1954 roku MBP rozwiązano, dzieląc jego zadania między nowe struktury. Radkiewicz przeszedł na stanowisko ministra państwowych gospodarstw rolnych.
+
+## Brak rozliczenia
+Usunięty z kierownictwa w 1956 roku, nigdy nie odpowiedział przed sądem za działania resortu. Zmarł w Warszawie w 1987 roku.`,
+    trivia: [
+      'Po rozwiązaniu MBP w 1954 roku został ministrem państwowych gospodarstw rolnych.',
+      'Kierował aparatem bezpieczeństwa przez dziesięć lat i nigdy nie stanął za to przed sądem.',
+    ],
+    resources: [
+      {
+        id: 'radkiewicz-wiki',
+        title: 'Stanisław Radkiewicz – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Radkiewicz',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'radkiewicz-fot',
+        title: 'Stanisław Radkiewicz – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Stanis%C5%82aw%20Radkiewicz&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['ub', 'swiatlo', 'represje-polityczne', 'wiezienia-polityczne', 'radio-wolna-europa'],
+  },
+  {
+    id: 'swiatlo',
+    title: 'Józef Światło',
+    subtitle: 'Ucieczka, która rozbiła bezpiekę',
+    category: 'osoby',
+    tags: ['UB', 'Radio Wolna Europa', 'represje', '1954'],
+    yearStart: 1953,
+    yearEnd: 1955,
+    summary: 'Wicedyrektor Departamentu X MBP, który uciekł na Zachód w 1953 roku, a jego audycje w Radiu Wolna Europa ujawniły kulisy aparatu bezpieczeństwa.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jozef_Swiatlo.jpg?width=800',
+    imageCaption: 'Józef Światło',
+    content: `## Kim był
+Józef Światło, właściwie Izaak Fleischfarb (1915–1994), był wysokim funkcjonariuszem Ministerstwa Bezpieczeństwa Publicznego, wicedyrektorem Departamentu X – komórki zajmującej się kontrolą samej partii i tropieniem odchyleń wśród jej działaczy. Znał mechanizmy aparatu od środka, bo je współtworzył.
+
+## Ucieczka
+Obawiając się czystek po aresztowaniu Ławrientija Berii, w 1953 roku podczas podróży służbowej do Berlina Wschodniego przeszedł na stronę zachodnią.
+
+## Audycje
+Od 1954 roku Radio Wolna Europa nadawało cykl jego relacji, znany jako „Za kulisami bezpieki i partii”. Opisywał w nich metody śledcze, podsłuchy zakładane członkom kierownictwa, prywatne życie przywódców i mechanizm fabrykowania spraw. Audycji słuchano masowo, mimo zagłuszania.
+
+## Skutki
+Wstrząs był na tyle duży, że w grudniu 1954 roku rozwiązano Ministerstwo Bezpieczeństwa Publicznego, a część funkcjonariuszy odsunięto. Ujawnienia Światły przyczyniły się do kryzysu, który dwa lata później doprowadził do Października 1956. Sam Światło zmarł w Stanach Zjednoczonych pod zmienionym nazwiskiem.`,
+    trivia: [
+      'Departament X, w którym pracował, zajmował się kontrolą własnej partii – to on zakładał podsłuchy członkom kierownictwa.',
+      'Jego audycje w Radiu Wolna Europa przyczyniły się do rozwiązania Ministerstwa Bezpieczeństwa Publicznego w grudniu 1954 roku.',
+    ],
+    resources: [
+      {
+        id: 'swiatlo-wiki',
+        title: 'Józef Światło – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/J%C3%B3zef_%C5%9Awiat%C5%82o',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'swiatlo-fot',
+        title: 'Józef Światło – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=J%C3%B3zef%20%C5%9Awiat%C5%82o&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['ub', 'radkiewicz', 'radio-wolna-europa', 'pazdziernik-1956', 'represje-polityczne'],
+  },
+  {
+    id: 'rokossowski',
+    title: 'Konstanty Rokossowski',
+    subtitle: 'Marszałek Polski przysłany z Moskwy',
+    category: 'osoby',
+    tags: ['wojsko', 'ZSRR', 'stalinizm', 'władza'],
+    yearStart: 1949,
+    yearEnd: 1956,
+    summary: 'Marszałek Związku Radzieckiego skierowany do Polski w 1949 roku jako minister obrony narodowej i marszałek Polski – symbol podporządkowania wojska Moskwie.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%B0%D1%80%D1%88%D0%B0%D0%BB_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%A1%D0%BE%D1%8E%D0%B7%D0%B0_%D0%B4%D0%B2%D0%B0%D0%B6%D0%B4%D1%8B_%D0%93%D0%B5%D1%80%D0%BE%D0%B9_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%A1%D0%BE%D1%8E%D0%B7%D0%B0_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_%D0%A0%D0%BE%D0%BA%D0%BE%D1%81%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpg?width=800',
+    imageCaption: 'Marszałek Konstanty Rokossowski',
+    content: `## Kim był
+Konstanty Rokossowski (1896–1968) urodził się w Warszawie, ale całą karierę zrobił w armii radzieckiej: dowodził frontami w czasie wojny z Niemcami, był dwukrotnym Bohaterem Związku Radzieckiego i marszałkiem ZSRR. Przed wojną przeszedł przez stalinowskie więzienie w okresie wielkiej czystki.
+
+## Przysłany do Polski
+W 1949 roku Stalin skierował go do Polski. Rokossowski został ministrem obrony narodowej, marszałkiem Polski, wicepremierem i członkiem Biura Politycznego. Wraz z nim przybyły setki radzieckich oficerów, obsadzających stanowiska dowódcze w Wojsku Polskim.
+
+## Co to oznaczało
+Był to najbardziej jawny przejaw zwierzchnictwa Moskwy nad Polską: obroną kraju kierował oficer, który jednocześnie pozostawał marszałkiem obcego państwa. W tym samym okresie prowadzono czystki wśród przedwojennych i akowskich oficerów.
+
+## Odejście
+Podczas VIII Plenum w październiku 1956 roku jego pozostanie w Polsce stało się jednym z głównych punktów spornych. Rokossowski wrócił do ZSRR i został wiceministrem obrony. Jego wyjazd był dla opinii publicznej najbardziej czytelnym znakiem, że coś się zmieniło.`,
+    trivia: [
+      'Był jednocześnie marszałkiem Polski i marszałkiem Związku Radzieckiego.',
+      'Jego wyjazd z Polski w 1956 roku odebrano jako najbardziej namacalny efekt Października.',
+    ],
+    resources: [
+      {
+        id: 'rokossowski-wiki',
+        title: 'Konstanty Rokossowski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Konstanty_Rokossowski',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'rokossowski-fot',
+        title: 'Konstanty Rokossowski – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Konstanty%20Rokossowski&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['lwp', 'pazdziernik-1956', 'uklad-warszawski', 'gomulka', 'pgwn'],
+  },
+  {
+    id: 'spychalski',
+    title: 'Marian Spychalski',
+    subtitle: 'Architekt, więzień, marszałek',
+    category: 'osoby',
+    tags: ['wojsko', 'Warszawa', 'represje', 'władza'],
+    yearStart: 1944,
+    yearEnd: 1970,
+    summary: 'Architekt i pierwszy powojenny prezydent Warszawy, więziony w latach 1950–1956, później marszałek Polski i przewodniczący Rady Państwa.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Spychalski_Marian.jpg?width=800',
+    imageCaption: 'Marian Spychalski',
+    content: `## Architekt
+Marian Spychalski (1906–1980) był z wykształcenia architektem i to zdecydowało o jego pierwszej powojennej roli: jako prezydent Warszawy w latach 1944–1945 powołał Biuro Organizacji Odbudowy Warszawy, przekształcone następnie w Biuro Odbudowy Stolicy.
+
+## Więzienie
+W 1950 roku został aresztowany w ramach rozprawy z tak zwanym odchyleniem prawicowo-nacjonalistycznym, wymierzonej w środowisko Władysława Gomułki. Spędził w więzieniu sześć lat, poddawany brutalnemu śledztwu. Wyszedł w 1956 roku, wraz z odwilżą.
+
+## Powrót na szczyt
+Po Październiku wrócił do kierownictwa: minister obrony narodowej w latach 1956–1968, marszałek Polski, a następnie przewodniczący Rady Państwa w latach 1968–1970.
+
+## Odsunięcie
+Stracił stanowiska po grudniu 1970 roku, wraz z ekipą Gomułki. Jego biografia – od odbudowy stolicy przez więzienie po najwyższe godności – pokazuje, jak gwałtownie zmieniały się w PRL losy ludzi z tego samego kręgu władzy.`,
+    trivia: [
+      'Powołał instytucję, z której powstało Biuro Odbudowy Stolicy, a pięć lat później trafił do więzienia.',
+      'W więzieniu spędził sześć lat, po czym wrócił na stanowisko ministra obrony narodowej.',
+    ],
+    resources: [
+      {
+        id: 'spychalski-wiki',
+        title: 'Marian Spychalski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Marian_Spychalski',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'spychalski-fot',
+        title: 'Marian Spychalski – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Marian%20Spychalski&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['bos', 'odbudowa-warszawy', 'gomulka', 'grudzien-1970', 'rada-panstwa'],
+  },
+  {
+    id: 'jaroszewicz',
+    title: 'Piotr Jaroszewicz',
+    subtitle: 'Premier dekady Gierka',
+    category: 'osoby',
+    tags: ['władza', 'gospodarka', 'lata 70.', 'PZPR'],
+    yearStart: 1970,
+    yearEnd: 1980,
+    summary: 'Premier w latach 1970–1980, wykonawca gospodarczego programu ekipy Gierka; zamordowany wraz z żoną w 1992 roku w niewyjaśnionych okolicznościach.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Piotr_Jaroszewicz%2C_Prime_Minister_of_the_People%27s_Republic_of_Poland_1970-1980_%28cropped%29_%28cropped%29.jpg?width=800',
+    imageCaption: 'Piotr Jaroszewicz',
+    content: `## Kariera
+Piotr Jaroszewicz (1909–1992) przed objęciem urzędu premiera był przez osiemnaście lat wicepremierem i ministrem górnictwa. Generał dywizji, długoletni poseł, człowiek aparatu w każdym calu.
+
+## Dekada Gierka
+Rząd objął w grudniu 1970 roku, po masakrze na Wybrzeżu i zmianie ekipy. Jego dziesięcioletnie premierostwo pokrywa się dokładnie z dekadą Edwarda Gierka: zakupami licencji na Zachodzie, wielkimi inwestycjami, wzrostem konsumpcji, a następnie narastającym zadłużeniem.
+
+## Czerwiec 1976
+To on 24 czerwca 1976 roku ogłosił w Sejmie drastyczną podwyżkę cen żywności. Nazajutrz wybuchły protesty w Radomiu, Ursusie i Płocku, a podwyżkę odwołano po jednym dniu – co stało się dowodem, że władza cofa się pod naciskiem ulicy.
+
+## Koniec i śmierć
+Odszedł w lutym 1980 roku, na kilka miesięcy przed Sierpniem. W 1992 roku został zamordowany we własnym domu wraz z żoną, dziennikarką Alicją Solską. Sprawa nie została wyjaśniona i pozostaje jedną z najgłośniejszych niewyjaśnionych zbrodni III RP.`,
+    trivia: [
+      'Ogłoszoną przez niego 24 czerwca 1976 roku podwyżkę cen odwołano już następnego dnia, po wybuchu protestów.',
+      'Został zamordowany w 1992 roku we własnym domu; sprawa do dziś nie została wyjaśniona.',
+    ],
+    resources: [
+      {
+        id: 'jaroszewicz-wiki',
+        title: 'Piotr Jaroszewicz – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Piotr_Jaroszewicz',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'jaroszewicz-fot',
+        title: 'Piotr Jaroszewicz – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Piotr%20Jaroszewicz&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['gierek', 'czerwiec-1976', 'zadluzenie-prl', 'grudzien-1970', 'premierzy-prl'],
+  },
+  {
+    id: 'kania',
+    title: 'Stanisław Kania',
+    subtitle: 'I sekretarz między Sierpniem a stanem wojennym',
+    category: 'osoby',
+    tags: ['władza', 'PZPR', 'Solidarność', '1981'],
+    yearStart: 1980,
+    yearEnd: 1981,
+    summary: 'I sekretarz KC PZPR od września 1980 do października 1981 – w okresie legalnego działania Solidarności i przygotowań do stanu wojennego.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw_Kania_-1979-.jpg?width=800',
+    imageCaption: 'Stanisław Kania, 1979',
+    content: `## Objęcie władzy
+Stanisław Kania (1927–2020) zastąpił Edwarda Gierka we wrześniu 1980 roku, kilka tygodni po podpisaniu porozumień sierpniowych. Wcześniej w kierownictwie partii odpowiadał m.in. za nadzór nad aparatem bezpieczeństwa i wojskiem.
+
+## Rok balansowania
+Jego kadencja przypadła na jedyny okres, gdy Solidarność działała legalnie. Kania prowadził politykę lawirowania: unikał otwartej konfrontacji, ale nie godził się na trwałe ustępstwa. Równolegle trwały przygotowania do wprowadzenia stanu wojennego oraz naciski ze strony Moskwy i sojuszników, domagających się rozwiązania siłowego.
+
+## Odsunięcie
+W październiku 1981 roku zastąpił go gen. Wojciech Jaruzelski, który skupił w jednym ręku kierownictwo partii, rządu i wojska. Dwa miesiące później wprowadzono stan wojenny.
+
+## Później
+Kania pozostał w Radzie Państwa do 1985 roku, potem wycofał się z polityki. Do końca życia twierdził, że jego linia – unikanie rozwiązania siłowego – była właściwa.`,
+    trivia: [
+      'Kierował partią przez cały okres legalnego działania Solidarności – od września 1980 do października 1981.',
+      'Zastąpił go Jaruzelski, który jako jedyny w historii PRL łączył kierownictwo partii, rządu i wojska.',
+    ],
+    resources: [
+      {
+        id: 'kania-wiki',
+        title: 'Stanisław Kania – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Kania',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'kania-fot',
+        title: 'Stanisław Kania – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Stanis%C5%82aw%20Kania&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['solidarnosc', 'gierek', 'jaruzelski', 'stan-wojenny', 'pzpr'],
+  },
+  {
+    id: 'okulicki',
+    title: 'Leopold Okulicki',
+    subtitle: 'Ostatni komendant Armii Krajowej',
+    category: 'osoby',
+    tags: ['podziemie', 'Armia Krajowa', 'represje', 'proces szesnastu'],
+    yearStart: 1944,
+    yearEnd: 1946,
+    summary: 'Generał, ostatni komendant główny AK, który 19 stycznia 1945 roku rozwiązał armię; sądzony w Moskwie w procesie szesnastu, zmarł w więzieniu.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Leopold_Okulicki_dow%C3%B3dca_7_DP_w_2_Korpusie_Polskim_gen._Andersa_1943_%28digital_restoration%29.jpg?width=800',
+    imageCaption: 'Gen. Leopold Okulicki',
+    content: `## Żołnierz
+Leopold Okulicki (1898–1946), pseudonim „Niedźwiadek”, był współtwórcą konspiracji od jej początków. Aresztowany przez NKWD w 1941 roku, po układzie Sikorski–Majski wyszedł na wolność i trafił do armii gen. Andersa. Do okupowanej Polski wrócił jako cichociemny.
+
+## Ostatni komendant
+Po upadku Powstania Warszawskiego objął komendę główną Armii Krajowej. To on 19 stycznia 1945 roku wydał rozkaz rozwiązujący AK – decyzję podjętą wobec wkroczenia Armii Czerwonej i aresztowań żołnierzy podziemia. Kierował też organizacją NIE, przygotowywaną na wypadek okupacji radzieckiej.
+
+## Podstęp
+W marcu 1945 roku, wraz z piętnastoma innymi przywódcami Polskiego Państwa Podziemnego, przyjął zaproszenie na rozmowy z przedstawicielem dowództwa radzieckiego. Wszystkich aresztowano i wywieziono do Moskwy.
+
+## Śmierć
+W procesie szesnastu otrzymał najwyższy wyrok – dziesięć lat więzienia. Zmarł w więzieniu na Butyrkach 24 grudnia 1946 roku, w okolicznościach do dziś nie w pełni wyjaśnionych. Przez cały okres PRL jego nazwisko było w oficjalnym obiegu przemilczane albo obrzucane oskarżeniami.`,
+    trivia: [
+      'Rozkaz rozwiązujący Armię Krajową wydał 19 stycznia 1945 roku, gdy front przesuwał się na zachód.',
+      'Zmarł w moskiewskim więzieniu na Butyrkach w Wigilię 1946 roku.',
+    ],
+    resources: [
+      {
+        id: 'okulicki-wiki',
+        title: 'Leopold Okulicki – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Leopold_Okulicki',
+        source: 'Wikipedia',
+        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
+      },
+      {
+        id: 'okulicki-fot',
+        title: 'Leopold Okulicki – zdjęcia i grafiki',
+        type: 'zdjęcie',
+        url: 'https://commons.wikimedia.org/w/index.php?search=Leopold%20Okulicki&title=Special:Search&fulltext=1&ns6=1',
+        source: 'Wikimedia Commons',
+        description: 'Fotografie i materiały archiwalne w Wikimedia Commons.',
+      },
+    ],
+    relatedIds: ['proces-szesnastu', 'panstwo-podziemne', 'zolnierze-wykletci', 'delegatura-rzadu', 'anders'],
   },
 ];
 
@@ -31869,4 +32421,16 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1945, event: 'Konferencja poczdamska – granica na Odrze i Nysie oraz zgoda na wysiedlenia', category: 'polityka', entryId: 'poczdam' },
   { year: 1947, event: 'Rusza plan trzyletni opracowany przez Centralny Urząd Planowania', category: 'gospodarka', entryId: 'cup' },
   { year: 1956, event: 'Jasnogórskie Śluby Narodu Polskiego wobec około miliona wiernych', category: 'społeczeństwo', entryId: 'sluby-jasnogorskie' },
+  { year: 1956, event: 'Jakub Berman usunięty z Biura Politycznego', category: 'osoby', entryId: 'berman' },
+  { year: 1947, event: 'Hilary Minc ogłasza bitwę o handel', category: 'osoby', entryId: 'minc' },
+  { year: 1963, event: 'Roman Zambrowski usunięty z Biura Politycznego', category: 'osoby', entryId: 'zambrowski' },
+  { year: 1956, event: 'Edward Ochab I sekretarzem KC PZPR po śmierci Bieruta', category: 'osoby', entryId: 'ochab' },
+  { year: 1952, event: 'Aleksander Zawadzki przewodniczącym Rady Państwa', category: 'osoby', entryId: 'zawadzki' },
+  { year: 1944, event: 'Stanisław Radkiewicz staje na czele resortu bezpieczeństwa publicznego', category: 'osoby', entryId: 'radkiewicz' },
+  { year: 1954, event: 'Audycje Józefa Światły w Radiu Wolna Europa ujawniają metody bezpieki', category: 'osoby', entryId: 'swiatlo' },
+  { year: 1949, event: 'Konstanty Rokossowski ministrem obrony narodowej i marszałkiem Polski', category: 'osoby', entryId: 'rokossowski' },
+  { year: 1950, event: 'Marian Spychalski aresztowany w rozprawie z odchyleniem prawicowo-nacjonalistycznym', category: 'osoby', entryId: 'spychalski' },
+  { year: 1976, event: 'Premier Jaroszewicz ogłasza podwyżkę cen; odwołana po protestach', category: 'osoby', entryId: 'jaroszewicz' },
+  { year: 1980, event: 'Stanisław Kania I sekretarzem KC PZPR po Edwardzie Gierku', category: 'osoby', entryId: 'kania' },
+  { year: 1945, event: 'Gen. Okulicki rozwiązuje Armię Krajową, a w marcu zostaje podstępnie aresztowany', category: 'osoby', entryId: 'okulicki' },
 ];
