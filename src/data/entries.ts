@@ -25574,24 +25574,21 @@ To jedna z najbardziej rozpoznawalnych polskich kreskówek i symbol PRL-owskiej 
     summary: 'Seria animowana o sympatycznym psie Reksiu, produkowana od 1967 w Studiu Filmów Rysunkowych w Bielsku-Białej; z rozpoznawalną czołówką.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bielsko-Bia%C5%82a%2C%20Reksio%20i%20fontanna.jpg?width=800',
     imageCaption: 'Reksio',
-    content: `## Kreskówka
-„Reksio” to seria animowana o sympatycznym psie, produkowana od 1967 roku w Studiu Filmów Rysunkowych w Bielsku-Białej.
+    content: `## Serial
+„Reksio” powstawał w latach 1967–1990 w Studiu Filmów Rysunkowych w Bielsku-Białej, w reżyserii i według scenariusza Lechosława Marszałka. To jeden z najdłużej realizowanych polskich seriali animowanych.
 
 ## Bohater
-Mały kundelek Reksio przeżywa przygody na wiejskim podwórku i poza nim, zawsze pełen dobrego serca.
+Tytułowy pies w każdym odcinku mierzy się z czymś nowym: zawodem, który chce wykonywać, porą roku, zwierzęciem albo przedmiotem. Nie mówi – cała narracja opiera się na obrazie i muzyce, co czyniło serial zrozumiałym bez tłumaczenia.
 
-## Muzyka
-Rozpoznawalną, wpadającą w ucho czołówkę skomponował Zenon Kowalowski.
+## Eksport
+Właśnie brak dialogów sprawił, że „Reksio” sprzedawał się za granicę łatwiej niż produkcje wymagające dubbingu. Polska animacja dla dzieci była jednym z nielicznych towarów kulturalnych, które PRL realnie eksportował.
 
-## Bez słów
-Jak wiele polskich kreskówek, opowiadany był bez dialogów – uniwersalnym językiem obrazu.
-
-## Odcinki
-Powstało kilkadziesiąt krótkich epizodów, m.in. „Reksio kompozytor” i „Reksio ratownik”.
-
-## Znaczenie
-Reksio to jeden z najukochańszych bohaterów polskiej animacji dla dzieci.`,
-    trivia: ['Muzykę do czołówki „Reksia” skomponował Zenon Kowalowski.', 'Reksio, jak wiele polskich kreskówek, obywał się bez dialogów.'],
+## Bielsko-Biała
+Studio Filmów Rysunkowych uczyniło z Bielska-Białej ośrodek animacji porównywalny z łódzkim Se-Ma-Forem. Powstały tam także „Bolek i Lolek” – druga seria, która przez dekady definiowała polską dobranockę.`,
+    trivia: [
+      'Serial realizowano przez ponad dwadzieścia lat, od 1967 do 1990 roku.',
+      'Brak dialogów sprawił, że sprzedawał się za granicę łatwiej niż produkcje wymagające dubbingu.',
+    ],
     resources: [
       {
         id: 'rx-yt',
@@ -25743,24 +25740,21 @@ Klenczon to jeden z najważniejszych twórców polskiej muzyki big-beatowej; zgi
     yearStart: 1975,
     yearEnd: 1989,
     summary: 'Jeden z najukochańszych bohaterów polskich dobranocek – pluszowy miś z opadającym uszkiem, produkowany w łódzkim studiu Se-ma-for.',
-    content: `## Dobranocka
-„Miś Uszatek” to jeden z najukochańszych bohaterów polskich dobranocek – poczciwy pluszowy miś z charakterystycznym opadającym uszkiem.
+    content: `## Skąd się wziął
+Miś Uszatek narodził się w opowiadaniach Czesława Janczarskiego, ilustrowanych przez Zbigniewa Rychlickiego. Charakterystyczne opadające ucho, od którego wzięła się nazwa, było pomysłem plastycznym, który zdecydował o rozpoznawalności postaci.
 
-## Se-ma-for
-Serial powstawał od połowy lat 70. w słynnym łódzkim studiu Se-ma-for.
+## Serial
+Serial animowany, realizowany techniką lalkową w Se-Ma-Forze, składał się ze stukilkudziesięciu odcinków. Każdy kończył się tą samą formułą: miś siadał na łóżku i mówił dobranoc, co czyniło go zamknięciem dnia dla milionów dzieci.
 
-## Narracja
-Niezapomniany głos podkładał Mieczysław Czechowicz, a czołówkę otwierało „Na dobranoc – dobry wieczór”.
+## Świat bez konfliktu
+Historie Uszatka opowiadały o zwyczajnych sprawach: koleżeństwie, drobnych kłopotach, pomaganiu innym. Nie było w nich ideologii, co w kulturze dziecięcej PRL nie było oczywiste – część produkcji dla najmłodszych miała wyraźny wydźwięk wychowawczo-polityczny.
 
-## Bohater
-Uszatek to rozsądny, dobroduszny miś, który na koniec każdego odcinka mówił dzieciom „Bardzo dobranoc”.
-
-## Twórca
-Postać stworzył pisarz Czesław Janczarski.
-
-## Znaczenie
-Miś Uszatek to symbol PRL-owskiej dobranocki i dzieciństwa kilku pokoleń.`,
-    trivia: ['Miś Uszatek kończył każdy odcinek słowami „Bardzo dobranoc”.', 'Serial powstawał w łódzkim Se-ma-forze; głosu użyczył Mieczysław Czechowicz.'],
+## Trwałość
+Uszatek przetrwał zmianę ustroju i pozostał jedną z nielicznych postaci z tamtej epoki, która nie budzi żadnych skojarzeń politycznych – funkcjonuje po prostu jako część dzieciństwa kilku pokoleń.`,
+    trivia: [
+      'Postać wymyślił pisarz Czesław Janczarski, a jej wygląd – ilustrator Zbigniew Rychlicki.',
+      'Serial realizowano techniką lalkową, klatka po klatce, w łódzkim Se-Ma-Forze.',
+    ],
     resources: [
       {
         id: 'mu-yt',
@@ -25806,24 +25800,21 @@ Miś Uszatek to symbol PRL-owskiej dobranocki i dzieciństwa kilku pokoleń.`,
     yearStart: 1972,
     yearEnd: 1981,
     summary: 'Seria animowana ze studia Se-ma-for (1972–1981) o naiwnym kotku Filemonie i statecznym kocurze Bonifacym; klasyka polskiej dobranocki.',
-    content: `## Kreskówka
-„Przygody kota Filemona” to seria animowana produkowana w łódzkim studiu Se-ma-for, emitowana w latach 1972–1981.
+    content: `## Serial
+„Przygody kota Filemona” to serial animowany dla dzieci emitowany w latach 1977–1981, kontynuacja „Dziwnego świata kota Filemona” z lat 1972–1974. Powstał w łódzkim Studiu Małych Form Filmowych Se-Ma-For, a scenariusz napisał Marek Nejman.
 
 ## Bohaterowie
-Główni bohaterowie to mały, naiwny biały kotek Filemon oraz stary, poważny czarny kocur Bonifacy.
+Historie opowiadają o małym kotku Filemonie i dorosłym kocie Bonifacym. Zderzenie dziecięcej ciekawości z flegmatycznym doświadczeniem starszego kota daje humor, który działa na obu poziomach: dla dziecka i dla dorosłego.
 
-## Poczekaj Bonifacy
-Z serialu pochodzi kultowe zawołanie „Poczekaj, Bonifacy”, znane kolejnym pokoleniom.
+## Rzemiosło
+Serial liczył dwadzieścia sześć odcinków po około dziewięć minut. Animacja rysunkowa powstawała klatka po klatce, a każdy odcinek wymagał tysięcy rysunków – praca pochłaniająca miesiące.
 
-## Wieś
-Akcja toczy się na sielskim, wiejskim podwórku, pełnym drobnych perypetii.
-
-## Humor
-Ciepły, łagodny humor i przygody kociej pary bawiły dzieci przez całe lata.
-
-## Znaczenie
-To jedna z najbardziej lubianych polskich kreskówek dla najmłodszych.`,
-    trivia: ['Serial liczył 39 odcinków emitowanych w latach 1972–1981.', 'Bohaterami są naiwny kotek Filemon i stateczny kocur Bonifacy.'],
+## Dobranocka
+Filemon należał do żelaznego repertuaru wieczorynki. W kraju z dwoma programami telewizji dobranocka o ustalonej porze była wspólnym doświadczeniem całego pokolenia – i jednym z niewielu momentów, gdy dzieci w całej Polsce oglądały to samo.`,
+    trivia: [
+      'Serial powstał w łódzkim Se-Ma-Forze, jednym z najważniejszych studiów animacji w kraju.',
+      'Był kontynuacją wcześniejszego „Dziwnego świata kota Filemona” z lat 1972–1974.',
+    ],
     resources: [
       {
         id: 'fk-yt',
@@ -26038,24 +26029,21 @@ To jedno z arcydzieł Wajdy i wybitna filmowa wizualizacja polskiego dramatu nar
     summary: 'Piosenkarz, satyryk i showman; przebój „Najwięcej witaminy” wygrał „Premiery” na festiwalu w Opolu w 1980 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej%20Rosiewicz.jpg?width=800',
     imageCaption: 'Andrzej Rosiewicz – piosenkarz i satyryk.',
-    content: `## Sylwetka
-Andrzej Rosiewicz (ur. 1946) to piosenkarz, satyryk, kompozytor i showman o niepohamowanej energii scenicznej.
-
-## Najwięcej witaminy
-Jego przebój „Najwięcej witaminy mają polskie dziewczyny” wygrał konkurs „Premiery” na festiwalu w Opolu w 1980 roku.
-
-## Humor
-Łączył muzykę z dowcipem, pastiszem i błyskotliwą satyrą obyczajową.
+    content: `## Piosenkarz
+Andrzej Rosiewicz (ur. 1944) to piosenkarz estradowy, satyryk i kompozytor, rozpoznawalny po specyficznym, przerysowanym sposobie śpiewania i scenicznej ruchliwości.
 
 ## Przeboje
-W dorobku ma też m.in. „Chały” i „Sportowa 5”.
+Największą popularność przyniosły mu „Najwięcej witaminy”, „Czy czuje pani cha-chę” i „Chłopcy radarowcy”, a także „Czterdzieści lat minęło” z czołówki serialu „Czterdziestolatek” – melodia rozpoznawana przez wszystkich, którzy oglądali telewizję w latach 70.
 
-## Estrada
-Barwny, ekscentryczny wykonawca stał się rozpoznawalnym znakiem firmowym estrady lat 80.
+## Przegląd Piosenki Prawdziwej
+W okresie legalnej Solidarności wystąpił na I Przeglądzie Piosenki Prawdziwej w gdańskiej hali Olivia – przedsięwzięciu, które zgromadziło utwory wcześniej nieprzepuszczane przez cenzurę. Udział w takiej imprezie miał wtedy jednoznaczny wydźwięk polityczny.
 
-## Znaczenie
-To jeden z najoryginalniejszych i najbardziej rozrywkowych artystów epoki.`,
-    trivia: ['„Najwięcej witaminy mają polskie dziewczyny” wygrało „Premiery” w Opolu 1980.', 'Łączył piosenkę z satyrą, pastiszem i scenicznym humorem.'],
+## Estrada i cenzura
+Piosenka rozrywkowa wydawała się dziedziną neutralną, ale i ona przechodziła przez cenzurę. Wykonawca poruszał się między tym, co dawało się zaśpiewać, a tym, co publiczność dopowiadała sobie sama – i właśnie ta druga warstwa decydowała często o popularności.`,
+    trivia: [
+      'Zaśpiewał „Czterdzieści lat minęło” z czołówki serialu „Czterdziestolatek”.',
+      'Wystąpił na I Przeglądzie Piosenki Prawdziwej w hali Olivia, gdzie grano utwory odrzucone wcześniej przez cenzurę.',
+    ],
     resources: [
       {
         id: 'ar2-yt',
@@ -26093,24 +26081,21 @@ To jeden z najoryginalniejszych i najbardziej rozrywkowych artystów epoki.`,
     yearStart: 1970,
     yearEnd: 1989,
     summary: 'Dyskoteki i dancingi były głównym miejscem młodzieżowej rozrywki lat 70. i 80.; królowały tam zachodnie przeboje zdobywane „spod lady”.',
-    content: `## Rozrywka młodzieży
-Dyskoteki i dancingi były głównym miejscem młodzieżowej rozrywki, zwłaszcza w latach 70. i 80.
+    content: `## Skąd się wzięły
+Dyskoteki pojawiły się w Polsce w latach 70., wraz z otwarciem na kulturę zachodnią w dekadzie Gierka. Organizowano je w domach kultury, klubach studenckich, świetlicach zakładowych i remizach – wszędzie tam, gdzie była sala i sprzęt.
 
 ## Didżej i sprzęt
-Didżej puszczał płyty – często zachodnie, zdobywane „spod lady” – na skromnym, lecz cennym sprzęcie.
+Prowadzący, wtedy nazywany dyskdżokejem, sam kompletował repertuar: z płyt sprowadzanych okazjonalnie z Zachodu, nagrań z Radia Luxembourg i wydawnictw krajowych. Sprzęt bywał składany samodzielnie, a kolorowe światła robiono z przerobionych reflektorów.
 
-## Muzyka
-Na parkietach królowały disco, italo-disco i polski pop: Papa Dance, Boney M., ABBA.
-
-## Kluby
-Dyskoteki działały w domach kultury, klubach studenckich i nadmorskich kurortach.
-
-## Moda
-Kolorowe stroje, dżinsy i „bananowa” młodzież nadawały ton parkietom.
+## Kontrola
+Impreza wymagała zgody, a repertuar bywał przedmiotem uwag. Kluby studenckie miały więcej swobody niż świetlice zakładowe, dlatego to one stały się miejscem, w którym muzyka zachodnia docierała do publiczności najszybciej.
 
 ## Znaczenie
-Dyskoteka to symbol młodzieżowej rozrywki i tęsknoty za zachodnim stylem życia.`,
-    trivia: ['Na dyskotekach królowały zachodnie przeboje zdobywane „spod lady”.', 'Didżeje puszczali płyty w domach kultury, klubach studenckich i kurortach.'],
+Dla młodzieży dyskoteka była jedną z niewielu form spędzania czasu poza strukturami oficjalnymi – i jedną z nielicznych okazji, by usłyszeć na głos to, czego radio nie grało.`,
+    trivia: [
+      'Repertuar didżeje kompletowali z płyt przywożonych z Zachodu i nagrań z Radia Luxembourg.',
+      'Kluby studenckie miały większą swobodę programową niż świetlice zakładowe.',
+    ],
     resources: [
       {
         id: 'dy-yt',
@@ -26264,24 +26249,21 @@ Jelenia Góra to brama w Karkonosze i ważny ośrodek łączący przemysł, uzdr
     summary: 'Najwyższe pasmo Sudetów z kulminacją na Śnieżce (1603 m); jeden z najpopularniejszych rejonów turystycznych PRL, latem i zimą.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/%C5%9Anie%C5%BCka%20z%20zachodu.jpg?width=800',
     imageCaption: 'Śnieżka (1603 m) – najwyższy szczyt Karkonoszy.',
-    content: `## Góry
-Karkonosze to najwyższe pasmo Sudetów, z kulminacją na Śnieżce liczącej 1603 m n.p.m.
+    content: `## Góry dostępne
+Karkonosze były w PRL jednym z najpopularniejszych kierunków turystycznych. Bliskość Wrocławia, gęsta sieć schronisk i dobra komunikacja kolejowa sprawiały, że w góry jeździło się tu masowo, także na weekend.
 
-## Turystyka
-Był to jeden z najpopularniejszych rejonów turystycznych PRL, tłumnie odwiedzany przez cały rok.
+## Wczasy i wycieczki
+Karpacz i Szklarska Poręba żyły z wczasów pracowniczych organizowanych przez Fundusz Wczasów Pracowniczych i zakłady pracy. Skierowanie na wczasy było elementem socjalnego pakietu, a nie zakupem – o wyjeździe decydowała komisja w zakładzie.
 
-## Schroniska
-Celem wędrówek były górskie schroniska, jak Samotnia czy Strzecha Akademicka.
+## Granica
+Grzbietem gór biegła granica z Czechosłowacją, pilnowana przez Wojska Ochrony Pogranicza mimo sojuszu obu państw. Przez pewien czas obowiązywał ruch bezwizowy, co czyniło Karkonosze jednym z nielicznych miejsc realnego kontaktu z zagranicą.
 
-## Śnieżka
-Na szczycie Śnieżki stanęło charakterystyczne obserwatorium meteorologiczne o futurystycznym kształcie.
-
-## Zima
-Ośrodki jak Szklarska Poręba i Karpacz przyciągały narciarzy z całego kraju.
-
-## Znaczenie
-Karkonosze to góry masowej turystyki PRL, dostępne dzięki wczasom FWP i tanim wyjazdom.`,
-    trivia: ['Najwyższy szczyt Karkonoszy, Śnieżka, ma 1603 m n.p.m.', 'Obserwatorium na Śnieżce ma futurystyczny kształt przypominający „latające spodki”.'],
+## Kwaśne deszcze
+W latach 80. lasy karkonoskie zaczęły masowo zamierać wskutek zanieczyszczeń z elektrowni węglowych po obu stronach granicy. Klęska ekologiczna – tak zwany czarny trójkąt – stała się jednym z pierwszych tematów, wokół których zawiązywał się w Polsce ruch ekologiczny.`,
+    trivia: [
+      'O wyjeździe na wczasy decydowała komisja socjalna w zakładzie pracy, a nie możliwość zapłacenia.',
+      'W latach 80. lasy Karkonoszy zamierały od kwaśnych deszczy – obszar nazwano czarnym trójkątem.',
+    ],
     resources: [
       {
         id: 'ka-yt',
@@ -26609,23 +26591,20 @@ Rola Romana Wilhelmiego stała się jedną z najbardziej rozpoznawalnych w histo
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pawel_Kukiz.jpg?width=800',
     imageCaption: 'Aya RL',
     content: `## Zespół
-Aya RL to warszawski zespół nowej fali, założony w 1983 roku przez Igora Czerniawskiego.
+Aya RL, początkowo Aya Red Love, powstała w 1983 roku. Założyli ją Igor Czerniawski, Paweł Kukiz i Jarosław Lach. Nazwa – nieoczywista, obca brzmieniowo – sama w sobie była deklaracją zerwania z estradową konwencją.
 
 ## Brzmienie
-Grupę wyróżniało nowofalowe, elektroniczne brzmienie z mocnym, wyrazistym wokalem.
+Grupa łączyła nową falę z elektroniką: syntezatory, automat perkusyjny, chłodne aranżacje. Było to brzmienie bliższe temu, co działo się wtedy w Wielkiej Brytanii, niż polskiej estradzie, którą wciąż zdominowała piosenka festiwalowa.
 
-## Skóra
-Przebój „Skóra” (1984), z debiutanckiej „czerwonej” płyty (1985), stał się klasykiem polskiej muzyki lat 80.
-
-## Paweł Kukiz
-Wokalistą zespołu bywał m.in. Paweł Kukiz, późniejszy lider Piersi i polityk.
-
-## Nowa fala
-To jeden z ciekawszych zespołów polskiej nowej fali i rocka schyłkowej dekady PRL.
+## Lata 80.
+Zespół wpisywał się w falę nowych grup, które po stanie wojennym wypełniły lukę po zawieszonym życiu kulturalnym. Festiwal w Jarocinie i studenckie kluby stały się miejscami, gdzie taka muzyka mogła zaistnieć bez pośrednictwa oficjalnej estrady.
 
 ## Znaczenie
-Przebój „Skóra” do dziś pozostaje rozpoznawalnym znakiem epoki.`,
-    trivia: ['Wokalistą Aya RL bywał m.in. Paweł Kukiz.', 'Przebój „Skóra” pochodzi z debiutanckiej „czerwonej” płyty zespołu.'],
+Aya RL należy do zespołów, które pokazały, że polski rock lat 80. nie sprowadzał się do gitarowej dosłowności. Późniejsza rozpoznawalność Pawła Kukiza sprawiła, że grupa wraca w opowieściach o tamtej dekadzie częściej niż wiele równie ważnych formacji.`,
+    trivia: [
+      'Zespół założył m.in. Paweł Kukiz, znany później z zupełnie innych ról publicznych.',
+      'Brzmienie oparte na syntezatorach i automacie perkusyjnym było w polskiej muzyce lat 80. rzadkością.',
+    ],
     resources: [
       {
         id: 'ay-yt',
@@ -27091,23 +27070,20 @@ Autobus był w PRL środkiem transportu podstawowym, nie uzupełniającym: przy 
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Barwy%20ochronne%2C%20Zbigniew%20Zapasiewicz.jpg?width=800',
     imageCaption: 'Barwy ochronne',
     content: `## Film
-„Barwy ochronne” (1977) w reżyserii Krzysztofa Zanussiego to jeden ze sztandarowych filmów „kina moralnego niepokoju”.
+Dramat Krzysztofa Zanussiego zrealizowany w 1976 roku, na ekrany wszedł rok później. Należy do nurtu kina moralnego niepokoju – filmów opisujących mechanizmy przystosowania i cichej korupcji w instytucjach PRL.
 
-## Fabuła
-Na letnim obozie naukowym młody, idealistyczny asystent Jarosław ściera się z cynicznym, manipulującym ludźmi docentem Jakubem.
+## Pojedynek postaw
+Osią jest starcie dwóch językoznawców podczas studenckiego obozu naukowego: idealistycznego asystenta Jarosława Kruszewskiego, granego przez Piotra Garlickiego, i cynicznego docenta Jakuba Szelestowskiego w wykonaniu Zbigniewa Zapasiewicza.
 
-## Konformizm
-Film obnaża konformizm i moralne kompromisy inteligencji w realiach PRL.
+## O czym naprawdę
+Docent nie jest zwykłym łajdakiem: tłumaczy młodszemu koledze, jak działa świat, w którym awans zależy od układów, a przyzwoitość jest luksusem. Film nie daje prostej odpowiedzi, kto ma rację, i właśnie ta niejednoznaczność czyniła go niewygodnym dla władz.
 
-## Pojedynek
-Oś fabuły to starcie dwóch postaw: uczciwości i cynicznego przystosowania do systemu.
-
-## Muzyka
-Muzykę do filmu skomponował Wojciech Kilar.
-
-## Znaczenie
-To jeden z najważniejszych filmów nurtu moralnego niepokoju polskiego kina.`,
-    trivia: ['To sztandarowy film „kina moralnego niepokoju”.', 'Muzykę do filmu skomponował Wojciech Kilar.'],
+## Uczelnia jako obraz systemu
+Wybór środowiska akademickiego nie był przypadkowy. Uczelnia – formalnie miejsce poszukiwania prawdy – pokazana jest jako struktura rządząca się lojalnością wobec przełożonych. To pozwoliło opisać cały system, mówiąc pozornie tylko o obozie językoznawczym.`,
+    trivia: [
+      'Rolę cynicznego docenta zagrał Zbigniew Zapasiewicz – to jedna z najgłośniejszych kreacji polskiego kina.',
+      'Film nie rozstrzyga, kto ma rację, i ta niejednoznaczność czyniła go niewygodnym dla władz.',
+    ],
     resources: [
       {
         id: 'bo-yt',
@@ -27209,24 +27185,21 @@ Zginął 17 sierpnia 1998 roku w wypadku samochodowym pod Przybiernowem. W tym s
     summary: 'Wokalistka o ciepłej barwie głosu, gwiazda estrady od lat 60.; autorka przebojów „Napisz proszę” i „Bądź gotowy dziś do drogi”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Halina%20Frackowiak.jpg?width=800',
     imageCaption: 'Halina Frąckowiak – wokalistka estradowa.',
-    content: `## Sylwetka
-Halina Frąckowiak (ur. 1947) to wokalistka o ciepłej barwie głosu, jedna z gwiazd polskiej estrady od lat 60.
-
-## Debiut
-Karierę zaczynała w latach 60., śpiewając m.in. z grupą ABC Andrzeja Nebeskiego.
+    content: `## Głos
+Halina Frąckowiak (ur. 1947) zaczynała w Poznaniu, w środowisku big-beatowym, a z czasem stała się jedną z najbardziej cenionych wokalistek polskiej piosenki – zarówno popowej, jak i rockowej. Jest też kompozytorką i autorką tekstów.
 
 ## Przeboje
-Największe przeboje to „Napisz proszę”, „Bądź gotowy dziś do drogi” i „Mały elf”.
+Do najbardziej znanych nagrań należą „Napisz proszę” i „Bądź gotowy dziś do drogi” – utwór do słów Ryszarda Kapuścińskiego, co samo w sobie było w polskiej piosence sytuacją nietypową.
 
-## Bądź gotowy dziś do drogi
-Przebój z 1974 roku, z muzyką Ryszarda Poznakowskiego, stał się klasykiem polskiej piosenki.
+## Współpraca
+Śpiewała z zespołami rockowymi i jazzowymi, m.in. z formacją SBB i z Andrzejem Kurylewiczem, a repertuar pisali dla niej czołowi kompozytorzy tamtych lat. Ta wszechstronność była w PRL cenna: pozwalała funkcjonować i na festiwalach, i poza obiegiem estradowym.
 
-## Wszechstronność
-Poruszała się swobodnie od bigbitu przez pop po piosenkę poetycką.
-
-## Znaczenie
-To jedna z najbardziej cenionych polskich wokalistek epoki.`,
-    trivia: ['Karierę zaczynała w latach 60. z grupą ABC Andrzeja Nebeskiego.', '„Bądź gotowy dziś do drogi” (1974) to jeden z jej największych przebojów.'],
+## Festiwale
+Karierę budowano wtedy przez Opole i Sopot oraz radiowe listy przebojów. Bez tych kanałów piosenka praktycznie nie istniała w świadomości publiczności, bo nie było rynku płytowego, który mógłby je zastąpić.`,
+    trivia: [
+      '„Bądź gotowy dziś do drogi” zaśpiewała do słów Ryszarda Kapuścińskiego.',
+      'Bez radia i festiwali w Opolu oraz Sopocie piosenka w PRL praktycznie nie docierała do publiczności.',
+    ],
     resources: [
       {
         id: 'hf-yt',
@@ -27488,24 +27461,21 @@ Za życia stał się postacią anegdotyczną, a opowieści o nim krążyły w ś
     summary: 'Państwowa Komunikacja Samochodowa obsługiwała autobusowy transport dalekobieżny i lokalny; dla wielu wsi PKS był jedynym połączeniem ze światem.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Neon_PKS_Dworzec_Wroc%C5%82aw.jpg?width=800',
     imageCaption: 'PKS',
-    content: `## PKS
-Państwowa Komunikacja Samochodowa (PKS) obsługiwała autobusowy transport dalekobieżny i lokalny w całym kraju.
+    content: `## Kraj na autobusach
+Państwowa Komunikacja Samochodowa była w PRL podstawowym środkiem transportu poza koleją. Przy niskiej motoryzacji indywidualnej to PKS łączył wsie i miasteczka z miastami powiatowymi, dowoził do pracy, szkoły i szpitala.
 
-## Dworce
-Czerwone autobusy PKS łączyły z dworców autobusowych miasta, miasteczka i najdalsze wsie.
-
-## Na wieś
-Dla wielu mieszkańców wsi PKS był jedynym połączeniem ze światem i miastem powiatowym.
+## Jak to wyglądało
+Sieć była gęsta, ale tabor przeciążony: autobusy jeździły zatłoczone, często z opóźnieniami, a rozkłady dostosowywano do zmian w zakładach pracy. Przystanek PKS bywał w małej miejscowości jedynym punktem kontaktu ze światem.
 
 ## Tabor
-W taborze jeździły Autosany, Jelcze (miejskie „ogórki”) i węgierskie Ikarusy.
+Jeździły przede wszystkim polskie Autosany i Jelcze oraz węgierskie Ikarusy. Warunki podróży – ogrzewanie, resory, ciasnota – były przedmiotem stałych narzekań i częstym tematem satyry.
 
-## Bilety i tłok
-W szczycie sezonu autobusy bywały oblegane, a bilety trudno dostępne.
-
-## Znaczenie
-PKS to kręgosłup transportu zbiorowego w PRL, zwłaszcza tam, gdzie nie docierała kolej.`,
-    trivia: ['Dla wielu wsi autobus PKS był jedynym połączeniem z miastem powiatowym.', 'W taborze PKS jeździły Autosany, Jelcze i Ikarusy.'],
+## Co po nim zostało
+PKS był instytucją, która realnie spajała kraj, a jej znaczenie widać najlepiej po tym, co stało się później: likwidacja wielu połączeń po 1989 roku odcięła część miejscowości od transportu publicznego, tworząc zjawisko wykluczenia komunikacyjnego.`,
+    trivia: [
+      'W wielu miejscowościach przystanek PKS był jedynym połączeniem ze światem.',
+      'Rozkłady jazdy układano pod godziny rozpoczęcia zmian w zakładach pracy.',
+    ],
     resources: [
       {
         id: 'pks-pkf',
@@ -27936,24 +27906,21 @@ To jeden z najwybitniejszych polskich aktorów komediowych; zginął tragicznie 
     summary: 'Najpopularniejsza zachodnia rozgłośnia muzyczna słuchana w PRL; nadawała przeboje, których nie było w oficjalnym radiu – okno na światowy rock i pop.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Expo58%20radio%20luxembourg.jpg?width=800',
     imageCaption: 'Radio Luxembourg',
-    content: `## Zachodni eter
-Radio Luxembourg było najpopularniejszą zachodnią rozgłośnią muzyczną słuchaną w PRL.
+    content: `## Luxy
+Radio Luxembourg, nazywane w Polsce „Luxy”, była komercyjną rozgłośnią nadającą z Wielkiego Księstwa Luksemburga. W latach 60. i 70. grało muzykę młodzieżową i wyznaczało mody muzyczne w całej Europie, także w krajach bloku wschodniego.
 
-## Muzyka
-Nadawało zachodnie przeboje, których próżno było szukać w oficjalnym, kontrolowanym radiu.
-
-## Nocne słuchanie
-Łapano je wieczorami na falach średnich – mimo trzasków, szumów i zanikającego sygnału.
-
-## Okno na świat
-Dla młodzieży było oknem na światowy rock, pop i najnowsze muzyczne nowinki.
+## Jak się słuchało
+Odbiór na falach średnich był kapryśny: sygnał wzmacniał się wieczorem, a audycji słuchano z uchem przy głośniku, przy zmiennym natężeniu i szumach. Mimo to dla polskich nastolatków było to główne źródło wiedzy o tym, czego aktualnie słucha Zachód.
 
 ## Nagrywanie
-Usłyszane przeboje nagrywano wprost z radia na magnetofon szpulowy lub kasetowy.
+Utwory nagrywano z odbiornika na magnetofon szpulowy, później kasetowy. Powstawał w ten sposób prywatny obieg muzyki, całkowicie poza państwową dystrybucją – kopiowany i wymieniany wśród znajomych.
 
-## Znaczenie
-To symbol tęsknoty za zachodnią kulturą i sposobu jej przemycania mimo żelaznej kurtyny.`,
-    trivia: ['Zachodnie przeboje łapano wieczorami na falach średnich, mimo trzasków i szumów.', 'Dla młodzieży Radio Luxembourg było oknem na światowy rock i pop.'],
+## Dlaczego to ważne
+Radio Luxembourg, obok Wolnej Europy w innej dziedzinie, pokazuje, jak nieszczelna była kontrola nad informacją. Granicę dało się zamknąć dla ludzi i towarów, ale nie dla fal radiowych.`,
+    trivia: [
+      'Sygnał na falach średnich wzmacniał się wieczorem, więc słuchano głównie po zmroku.',
+      'Utwory nagrywane z radia na magnetofon tworzyły prywatny obieg muzyki poza państwową dystrybucją.',
+    ],
     resources: [
       {
         id: 'rl-yt',
@@ -28380,24 +28347,21 @@ To jeden z filarów polskiego aktorstwa, ceniony przez kolejne pokolenia widzów
     summary: 'Państwowy monopolista usług pocztowych i telekomunikacyjnych; listy, telegramy, paczki i przekazy pieniężne łączyły rodziny w całym kraju.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Biurowiec_przy_ul._Rodziny_Hiszpa%C5%84skich_8_w_Warszawie_2026.jpg?width=800',
     imageCaption: 'Poczta Polska',
-    content: `## Poczta
-Poczta Polska była państwowym monopolistą usług pocztowych, telekomunikacyjnych i częściowo bankowych (wraz z PKO).
+    content: `## Jedna instytucja, trzy dziedziny
+W PRL poczta, telegraf i telefon tworzyły jedno przedsiębiorstwo państwowe – Polską Pocztę, Telegraf i Telefon. Oznaczało to, że ta sama instytucja doręczała listy, obsługiwała telegramy i decydowała o przyznaniu telefonu.
 
-## Listy i paczki
-Listy, kartki, przekazy pieniężne i paczki łączyły rozdzielone rodziny w całym kraju.
+## Urząd pocztowy
+Placówka pocztowa pełniła funkcje wykraczające daleko poza korespondencję: wypłacano tam emerytury, opłacano rachunki, nadawano paczki i zamawiano rozmowy międzymiastowe. Dla wielu miejscowości był to główny punkt kontaktu z instytucjami państwa.
 
-## Telegram
-Pilne wiadomości słano telegramem; listonosz był ważną postacią lokalnej społeczności.
+## Telefon jako dobro reglamentowane
+Na przydział linii telefonicznej czekano latami, a w wielu wsiach jedyny aparat znajdował się właśnie na poczcie. Telegram pozostawał więc do końca PRL podstawowym sposobem przekazania pilnej wiadomości.
 
-## Kolejki i okienka
-Na poczcie stało się w kolejkach do okienek po znaczki, przekazy i opłaty za rachunki.
-
-## Prenumerata
-Poczta dostarczała też prasę z prenumeraty prosto do domów.
-
-## Znaczenie
-To kręgosłup komunikacji i drobnych finansów w epoce przed masową telefonią.`,
-    trivia: ['Pilne wiadomości słano telegramem, a listonosz był ważną osobą w okolicy.', 'Poczta obsługiwała też przekazy pieniężne i prenumeratę prasy.'],
+## Kontrola korespondencji
+Poczta była też narzędziem nadzoru: w okresie stanu wojennego wprowadzono oficjalną cenzurę korespondencji, a przesyłki opatrywano stemplem informującym, że zostały ocenzurowane. Rozmowy telefoniczne przerywał wtedy komunikat o kontrolowaniu połączenia.`,
+    trivia: [
+      'Poczta, telegraf i telefon tworzyły jedno przedsiębiorstwo, więc ta sama instytucja przyznawała telefon i doręczała listy.',
+      'W stanie wojennym listy opatrywano stemplem o ocenzurowaniu, a rozmowy przerywał komunikat o kontroli.',
+    ],
     resources: [
       {
         id: 'poc-pkf',
@@ -28824,24 +28788,21 @@ Przez dziesięciolecia pozostawał aktorem teatralnym, głównie warszawskim. Po
     yearStart: 1945,
     yearEnd: 1989,
     summary: '8 marca, Międzynarodowy Dzień Kobiet, był hucznie obchodzonym świętem PRL – z czerwonym goździkiem, rajstopami i uroczystymi akademiami.',
-    content: `## Święto
-8 marca, Międzynarodowy Dzień Kobiet, był w PRL hucznie obchodzonym świętem o propagandowym charakterze.
+    content: `## Święto państwowe
+8 marca obchodzono w PRL jako Międzynarodowy Dzień Kobiet – święto o rodowodzie socjalistycznym, w oficjalnej wykładni upamiętniające walkę o prawa pracownic. W praktyce stało się elementem kalendarza zakładowego.
 
 ## Goździk i rajstopy
-Mężczyźni wręczali kobietom czerwony goździk, a w zakładach pracy rozdawano rajstopy, mydło lub kawę.
+Obchody miały ustalony scenariusz: akademia, przemówienie dyrekcji, a potem wręczanie kobietom kwiatów i drobnych upominków. Goździk i rajstopy stały się symbolem tego święta, przywoływanym do dziś jako skrót całej epoki.
 
-## Akademie
-W zakładach i szkołach odbywały się uroczyste akademie ku czci kobiet.
+## Dwuznaczność
+Święto łączyło dwie sprzeczne rzeczy. Z jednej strony państwo faktycznie otworzyło kobietom dostęp do zawodów i wykształcenia. Z drugiej – obowiązki domowe pozostały w całości po ich stronie, a jednodniowy upominek nie zmieniał niczego w podziale pracy.
 
-## Propaganda
-Święto podkreślało „równouprawnienie” i rolę kobiety pracującej w socjalizmie.
-
-## Obyczaj
-Obowiązkowy goździk stał się symbolem PRL-owskiego, nieco odgórnego świętowania.
-
-## Znaczenie
-To jeden z najbardziej rozpoznawalnych, trochę groteskowych rytuałów epoki.`,
-    trivia: ['Symbolem święta był czerwony goździk wręczany kobietom.', 'W zakładach pracy z okazji 8 marca rozdawano rajstopy, mydło lub kawę.'],
+## Po 1989
+Święto na pewien czas straciło znaczenie jako kojarzone z poprzednim systemem, by wrócić później w innej formie – już bez akademii, za to z nowym sporem o to, czym właściwie ma być.`,
+    trivia: [
+      'Goździk i rajstopy stały się symbolem zakładowych obchodów 8 marca.',
+      'Państwo otwierało kobietom dostęp do zawodów, ale obowiązki domowe pozostawały w całości po ich stronie.',
+    ],
     resources: [
       {
         id: 'dzien-kobiet-pkf',
@@ -29525,24 +29486,21 @@ Przy premierze przyjęty bez fajerwerków, z czasem stał się filmem kultowym, 
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Wesele w PRL to wielkie, często dwudniowe przyjęcie gromadzące rodzinę i sąsiadów; na zastawione stoły latami gromadzono zapasy „spod lady”.',
-    content: `## Obrzęd
-Wesele w PRL to wielkie, huczne, często dwudniowe przyjęcie gromadzące całą rodzinę i sąsiadów.
+    content: `## Uroczystość i zaopatrzenie
+Wesele w PRL było przedsięwzięciem logistycznym. Przy reglamentacji mięsa, alkoholu i cukru przygotowania zaczynały się wiele tygodni wcześniej: od gromadzenia zapasów, przez znajomości w sklepie, po hodowanie własnych zwierząt na wsi.
 
-## Sala i dom
-Bawiono się w wynajętej sali, remizie strażackiej albo w domu; stoły uginały się od potraw.
+## Gdzie i jak
+Przyjęcia urządzano w remizach, świetlicach, salach zakładowych albo w domu, bo restauracji było niewiele i trudno je było wynająć. Grała kapela albo zespół z okolicy, a menu – rosół, kotlet schabowy, sałatka jarzynowa – powtarzało się na tyle konsekwentnie, że stało się kanonem.
 
-## Deficyty
-Na wesele latami gromadzono zapasy: wódkę, mięso i cytrusy zdobywane „spod lady”.
+## Ślub cywilny i kościelny
+Państwo uznawało wyłącznie ślub cywilny, ale zdecydowana większość par brała także ślub kościelny. Dla osób na stanowiskach albo w partii mogło to oznaczać kłopoty, więc zdarzały się śluby udzielane po cichu, w innej parafii lub bez świadków z zakładu pracy.
 
-## Kapela
-Grała kapela lub zespół; królowały polki, oberki oraz przeboje z list przebojów.
-
-## Oczepiny i poprawiny
-Nie brakowało tradycyjnych oczepin, a nazajutrz następowały poprawiny.
-
-## Znaczenie
-Wesele było jednym z najważniejszych i najbardziej wyczekiwanych świąt rodzinnych.`,
-    trivia: ['Na zastawione wesele latami gromadzono zapasy „spod lady”.', 'Po weselu następowały jeszcze poprawiny – zabawa dnia następnego.'],
+## Wesele jako wymiana
+Prezenty miały wymiar praktyczny: pościel, komplet garnków, sprzęt gospodarstwa domowego zdobyty z przydziału. W gospodarce niedoboru wyprawa młodej pary była efektem zbiorowego wysiłku rodziny i znajomych, a nie zakupów.`,
+    trivia: [
+      'Przy reglamentacji mięsa i alkoholu przygotowania do wesela zaczynały się wiele tygodni wcześniej.',
+      'Państwo uznawało tylko ślub cywilny, więc osoby na stanowiskach brały ślub kościelny po cichu.',
+    ],
     resources: [
       {
         id: 'wesele-prl-pkf',
@@ -29815,23 +29773,20 @@ Sylwestrowy program TV był jednym z nielicznych momentów odprężenia i rozryw
     yearStart: 1973,
     summary: 'Kultowa tragikomedia Andrzeja Kondratiuka (1973) z Himilsbachem i Maklakiewiczem; dwaj koledzy wydają ostatnie pieniądze, by przelecieć się samolotem.',
     content: `## Film
-„Wniebowzięci” (1973) w reżyserii Andrzeja Kondratiuka to kultowa tragikomedia z niepowtarzalnym duetem aktorskim.
+Komedia Andrzeja Kondratiuka z 1973 roku, zagrana przez Jana Himilsbacha i Zdzisława Maklakiewicza – duet, który trzy lata wcześniej zaistniał w „Rejsie”. Obaj grają samych siebie w takim stopniu, że granica między rolą a osobą przestaje mieć znaczenie.
 
 ## Fabuła
-Dwaj koledzy, marząc o lataniu, wydają resztki pieniędzy, by za wszelką cenę przelecieć się samolotem.
+Dwaj przyjaciele postanawiają polecieć samolotem, choć nie mają dokąd. Kupują bilety na krajowy rejs i traktują lot jak wydarzenie towarzyskie. Cała fabuła sprowadza się do tego pomysłu i do rozmów, które przy nim padają.
 
-## Duet
-Jan Himilsbach i Zdzisław Maklakiewicz tworzą tu kolejny kultowy duet – po „Rejsie”.
+## Dlaczego to działa
+Film jest zapisem sposobu mówienia i myślenia, a nie opowieścią. Bohaterowie wygłaszają tyrady o życiu, sztuce i kobietach, mieszając patos z bełkotem. Właśnie to zderzenie wielkich słów z całkowitą marnością sytuacji jest tu przedmiotem obserwacji.
 
-## Melancholia
-Pod warstwą absurdu kryje się gorzka opowieść o marzeniach, samotności i przemijaniu.
-
-## Cytaty
-Dialogi z filmu weszły do kanonu polskiego humoru.
-
-## Znaczenie
-To kultowy film o polskiej codzienności i tęsknocie za czymś więcej.`,
-    trivia: ['Bohaterowie wydają ostatnie pieniądze, by przelecieć się samolotem.', 'To kolejny kultowy duet Himilsbacha i Maklakiewicza po „Rejsie”.'],
+## Miejsce w kulturze
+Razem z „Rejsem” film utrwalił typ polskiego humoru opartego na obserwacji języka, a nie na dowcipie sytuacyjnym. Cytaty weszły do obiegu i przez dekady służyły jako komentarz do peerelowskiej codzienności.`,
+    trivia: [
+      'Himilsbach i Maklakiewicz grają postacie na tyle bliskie sobie samym, że widzowie brali film za zapis rzeczywistości.',
+      'Cała fabuła opiera się na jednym pomyśle: locie samolotem donikąd.',
+    ],
     resources: [
       {
         id: 'wnb-yt',
@@ -33494,7 +33449,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1965, event: 'Kuroń i Modzelewski ogłaszają „List otwarty do partii”', category: 'opozycja', entryId: 'modzelewski-karol' },
   { year: 1969, event: 'Daniel Olbrychski w „Wszystko na sprzedaż”', category: 'osoby', entryId: 'olbrychski-daniel' },
   { year: 1976, event: 'Stanisław Barańczak wśród założycieli KOR', category: 'opozycja', entryId: 'baranczak-stanislaw' },
-  { year: 1977, event: 'Krzysztof Zanussi kręci „Barwy ochronne”', category: 'osoby', entryId: 'zanussi-krzysztof' },
+  { year: 1977, event: 'Premiera „Barw ochronnych” Krzysztofa Zanussiego', category: 'osoby', entryId: 'zanussi-krzysztof' },
   { year: 1974, event: 'Kazimierz Deyna w drużynie brązowych medalistów mistrzostw świata', category: 'osoby', entryId: 'deyna-kazimierz' },
   { year: 1980, event: '„Mury” Jacka Kaczmarskiego hymnem Solidarności', category: 'osoby', entryId: 'jacek-kaczmarski' },
   { year: 1988, event: 'Mieczysław Rakowski zostaje premierem', category: 'osoby', entryId: 'rakowski' },
