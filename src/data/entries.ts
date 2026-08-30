@@ -51,24 +51,21 @@ export const entries: Entry[] = [
     summary: 'Stan wojenny w Polsce – okres w historii PRL wprowadzony 13 grudnia 1981 przez gen. Wojciecha Jaruzelskiego, mający na celu zdławienie opozycji demokratycznej skupionej wokół "Solidarności".',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/T-55A_Martial_law_Poland.jpg?width=800',
     imageCaption: 'Stan wojenny',
-    trivia: ['13 grudnia 1981 roku telewizyjni spikerzy Dziennika wystąpili w mundurach wojskowych.', 'Wprowadzono godzinę milicyjną, a rozmowy telefoniczne przerywała zapowiedź „rozmowa kontrolowana”.', 'Zawieszono zajęcia w szkołach i na uczelniach oraz wyjazdy zagraniczne; granice zamknięto.'],
-    content: `## Wprowadzenie
-W nocy z 12 na 13 grudnia 1981 roku gen. Wojciech Jaruzelski ogłosił wprowadzenie stanu wojennego. Władzę przejęła Wojskowa Rada Ocalenia Narodowego (WRON), zawieszając Solidarność i prawa obywatelskie.
+    trivia: [
+      'Dekret wydano wbrew konstytucyjnemu zakazowi dekretowania w czasie sesji Sejmu.',
+      'Internowano ponad dziesięć tysięcy działaczy Solidarności.',
+    ],
+    content: `## 13 grudnia 1981
+Stan wojenny wprowadzono w nocy z 12 na 13 grudnia 1981 roku na terenie całego kraju. Dekret wydała Rada Państwa, mimo że konstytucja zakazywała dekretowania w czasie sesji Sejmu – a sesja formalnie trwała. Władzę przejęła Wojskowa Rada Ocalenia Narodowego z gen. Wojciechem Jaruzelskim na czele.
 
-## Aparat represji
-Internowano około 10 tysięcy działaczy (operacja „Jodła”), wprowadzono godzinę milicyjną, cenzurę korespondencji i rozmów telefonicznych oraz militaryzację zakładów. Ulice patrolowały ZOMO i wojsko.
+## Co to oznaczało
+Zawieszono działalność związków zawodowych i organizacji, wprowadzono godzinę milicyjną, zakaz zgromadzeń i przemieszczania się między województwami. Odcięto telefony, ocenzurowano korespondencję, zmilitaryzowano zakłady pracy. Internowano ponad dziesięć tysięcy działaczy Solidarności.
 
-## Pacyfikacje
-Opór tłumiono siłą. Najtragiczniejszym wydarzeniem była pacyfikacja kopalni Wujek 16 grudnia 1981 roku, gdzie ZOMO zastrzeliło dziewięciu górników.
+## Ofiary
+Najkrwawszym wydarzeniem była pacyfikacja kopalni Wujek 16 grudnia, gdzie zginęło dziewięciu górników. W kolejnych latach zginęli m.in. Grzegorz Przemyk i ks. Jerzy Popiełuszko, a w Lubinie w 1982 roku strzelano do demonstrantów.
 
-## Codzienność
-Telewizyjni spikerzy wystąpili w mundurach, zawieszono zajęcia szkolne i wyjazdy, rozszerzono reglamentację. Kraj pogrążył się w atmosferze strachu i szarości.
-
-## Opór
-Mimo represji działała podziemna Solidarność, drugi obieg, Radio Solidarność i uliczne demonstracje. Kościół wspierał represjonowanych; symbolem oporu stał się m.in. ks. Jerzy Popiełuszko.
-
-## Zniesienie i bilans
-Stan wojenny zawieszono w 1982 i zniesiono w lipcu 1983 roku. Jego ofiarą padło kilkadziesiąt osób. Pozostał symbolem przemocy państwa wobec własnego społeczeństwa.`,
+## Koniec i spór
+Stan wojenny zawieszono 31 grudnia 1982 roku, a zniesiono 22 lipca 1983. Spór o jego ocenę – czy był mniejszym złem wobec groźby interwencji, czy zamachem na własne społeczeństwo – trwa do dziś i pozostaje jednym z głównych podziałów w polskiej debacie publicznej.`,
     resources: [
       {
         id: 'sw-ipn1',
@@ -517,24 +514,21 @@ PZPR była rdzeniem systemu komunistycznego w Polsce – jej dzieje to historia 
     summary: 'Służba Bezpieczeństwa – tajna policja polityczna PRL, następczyni Urzędu Bezpieczeństwa (UB). Prowadziła inwigilację obywateli, werbowała tajnych współpracowników i stosowała represje wobec opozycji.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wagrowiec_pomnik_MO_SB.jpg?width=800',
     imageCaption: 'Służba Bezpieczeństwa (SB)',
-    content: `## Czym była SB
-Służba Bezpieczeństwa (SB) to tajna policja polityczna PRL, działająca w ramach Ministerstwa Spraw Wewnętrznych w latach 1956–1990. Zastąpiła osławiony Urząd Bezpieczeństwa.
+    content: `## Następca UB
+Służbę Bezpieczeństwa powołano w 1956 roku, po rozwiązaniu Ministerstwa Bezpieczeństwa Publicznego. Działała w strukturze Ministerstwa Spraw Wewnętrznych do 1990 roku – a więc przez większą część istnienia PRL.
 
-## Zadania
-Głównym celem SB była ochrona ustroju komunistycznego przed „wrogiem wewnętrznym”: inwigilacja opozycji, Kościoła, środowisk twórczych i całego społeczeństwa.
+## Zmiana metod
+W miejsce masowego terroru weszła praca operacyjna: sieć tajnych współpracowników, podsłuchy, perlustracja korespondencji, rozpracowywanie środowisk. Zamiast łamać ludzi w śledztwie, starano się ich pozyskiwać, szantażować i skłócać.
 
-## Metody
-SB stosowała podsłuchy, perlustrację korespondencji, obserwację, werbunek tajnych współpracowników (TW), prowokacje i szantaż, a w skrajnych przypadkach – przemoc i mordy polityczne (jak zabójstwo ks. Jerzego Popiełuszki).
+## Piony
+Osobne departamenty zajmowały się Kościołem, opozycją, kulturą, gospodarką i wywiadem. Pion IV, odpowiedzialny za sprawy wyznaniowe, prowadził działania przeciw duchowieństwu, z zabójstwem ks. Jerzego Popiełuszki włącznie.
 
-## Sieć agentury
-Filarem działania była rozbudowana sieć tajnych współpracowników, donoszących na sąsiadów, kolegów i bliskich. Akta gromadzone w „teczkach” obejmowały miliony obywateli.
-
-## Pion przeciw Kościołowi i opozycji
-Wyspecjalizowane departamenty zajmowały się Kościołem (Departament IV) oraz opozycją; w latach 80. SB całą siłą zwalczała Solidarność.
-
-## Rozwiązanie i rozliczenia
-SB rozwiązano w 1990 roku, tworząc Urząd Ochrony Państwa. Akta przejął później IPN, a kwestia lustracji i odpowiedzialności funkcjonariuszy pozostaje przedmiotem debat.`,
-    trivia: ['Służba Bezpieczeństwa powstała w 1956 roku w miejsce rozwiązanego UB.', 'Działała w strukturach MSW aż do 1990 roku.'],
+## Akta
+Na przełomie 1989 i 1990 roku zniszczono znaczną część dokumentacji. To, co ocalało, trafiło później do Instytutu Pamięci Narodowej i stało się podstawą sporów lustracyjnych, które towarzyszą polskiej polityce do dziś.`,
+    trivia: [
+      'Zamiast masowego terroru SB stosowała pracę operacyjną: agenturę, podsłuchy i szantaż.',
+      'Na przełomie 1989 i 1990 roku zniszczono znaczną część dokumentacji służby.',
+    ],
     resources: [
       {
         id: 'sb-1',
@@ -814,24 +808,21 @@ Jerzy Grotowski, Tadeusz Kantor (Teatr Cricot 2) – artyści o światowej sław
     summary: 'Kościół katolicki był jedyną niezależną instytucją masową w PRL i głównym bastionem oporu społecznego wobec komunizmu. Pielgrzymki Jana Pawła II były przełomem w dziejach opozycji.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ststanislauscathedral.JPG?width=800',
     imageCaption: 'Kościół katolicki w PRL',
-    content: `## Twierdza niezależności
-W ateistycznym państwie Kościół katolicki pozostał jedyną w pełni niezależną od władzy instytucją oraz oparciem moralnym i wspólnotowym dla milionów Polaków.
+    content: `## Konfrontacja
+Państwo od początku dążyło do ograniczenia roli Kościoła: wypowiedziano konkordat, zlikwidowano organizacje katolickie, w 1950 roku powołano Urząd do Spraw Wyznań, a w 1953 – po dekrecie o obsadzaniu stanowisk kościelnych – internowano prymasa Stefana Wyszyńskiego.
 
-## Konflikt z władzą
-Komuniści dążyli do podporządkowania i osłabienia Kościoła – poprzez represje, procesy księży, przejmowanie majątku, ograniczanie nauczania religii oraz wspieranie rozłamowców (PAX, „księża patrioci”).
+## Dlaczego nie udało się złamać
+Kościół był jedyną instytucją masową niezależną od partii. Miał własną strukturę, finansowanie z ofiar i autorytet niezależny od państwa. Represje wobec duchownych tworzyły męczenników, a odmowy zgód budowlanych – lokalne konflikty, w których wygrywała parafia.
 
-## Prymas Wyszyński
-Symbolem oporu był prymas Stefan Wyszyński, internowany w latach 1953–1956. Zainicjowane przez niego Wielka Nowenna i obchody Milenium Chrztu Polski (1966) stały się manifestacją siły wiary, rywalizującą z państwowymi uroczystościami.
+## Milenium i Wielka Nowenna
+Obchody tysiąclecia chrztu Polski w 1966 roku stały się największym starciem symbolicznym: państwo organizowało konkurencyjne uroczystości Tysiąclecia Państwa Polskiego, a kopię obrazu jasnogórskiego zatrzymano i internowano.
 
-## Jan Paweł II
-Wybór Karola Wojtyły na papieża (1978) i jego pielgrzymki do Polski (od 1979) dodały Polakom odwagi i poczucia wspólnoty, walnie przyczyniając się do narodzin Solidarności.
-
-## Wsparcie opozycji
-W stanie wojennym Kościół niósł pomoc internowanym i represjonowanym, dawał schronienie kulturze niezależnej, a kapłani jak ks. Jerzy Popiełuszko płacili za to najwyższą cenę.
-
-## Znaczenie
-Kościół w PRL był ostoją tożsamości narodowej i wolności sumienia oraz kluczowym uczestnikiem pokojowej drogi Polski ku demokracji.`,
-    trivia: ['Kościół był jedyną instytucją realnie niezależną od partii.', 'Msze i pielgrzymki gromadziły tłumy poza kontrolą władz.'],
+## Papież
+Wybór Karola Wojtyły w 1978 roku i jego pielgrzymka rok później zmieniły układ sił. Miliony ludzi zobaczyły, ilu ich jest, poza strukturami państwa. Bez tego doświadczenia Sierpień 1980 wyglądałby inaczej.`,
+    trivia: [
+      'Odmowa zgody na budowę kościoła bywała skuteczniejszą metodą nacisku niż otwarta represja.',
+      'W 1966 roku państwo organizowało konkurencyjne obchody Tysiąclecia Państwa Polskiego.',
+    ],
     resources: [
       {
         id: 'kosc-1',
@@ -863,24 +854,21 @@ Kościół w PRL był ostoją tożsamości narodowej i wolności sumienia oraz k
     summary: 'Nowa Huta – wzorcowe miasto socjalistyczne wybudowane od podstaw przy Krakowie, siedziba Huty im. Lenina. Symbol industrializacji PRL, który z czasem stał się centrum oporu robotniczego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Nowa%20Huta%20-%20Plac%20Centralny%20z%20lotu%20ptaka.jpg?width=800',
     imageCaption: 'Plac Centralny w Nowej Hucie – wzorcowe miasto socrealizmu.',
-    trivia: ['Nowa Huta miała być miastem bez kościoła – walka o krzyż w Bieńczycach w 1960 roku zakończyła się starciami z milicją.', 'Układ ulic projektowano także z myślą o obronie – szerokie aleje miały ułatwiać ruch wojsk.'],
-    content: `## Geneza
-Decyzję o budowie wielkiego kombinatu metalurgicznego i nowego miasta pod Krakowem podjęto w 1949 roku. Nowa Huta miała być wzorcowym miastem socjalistycznym i przeciwwagą dla „inteligenckiego”, niepokornego Krakowa.
+    trivia: [
+      'Miasto miało być robotniczą przeciwwagą dla konserwatywnego, inteligenckiego Krakowa.',
+      'Zbudowane bez kościoła, stało się miejscem najgłośniejszej walki o krzyż i jednym z najbardziej zbuntowanych ośrodków lat 80.',
+    ],
+    content: `## Miasto od zera
+Nową Hutę zaczęto budować w 1949 roku pod Krakowem, wraz z kombinatem metalurgicznym. Miała być wzorcowym miastem socjalistycznym: zbudowanym od podstaw, dla robotników, według jednolitego planu urbanistycznego.
 
-## Budowa
-Powstała od podstaw na podkrakowskich polach, z monumentalnym, socrealistycznym układem urbanistycznym – Placem Centralnym i promienistymi alejami. Do pracy ściągnięto tysiące robotników, junaków „Służby Polsce” i mieszkańców wsi.
+## Po co obok Krakowa
+Lokalizację tłumaczono względami gospodarczymi, ale liczył się też argument polityczny: obok konserwatywnego, inteligenckiego Krakowa miała powstać przeciwwaga – miasto klasy robotniczej.
 
-## Kombinat
-Sercem miasta była Huta im. Lenina – gigantyczny zakład, duma propagandy i symbol forsownej industrializacji planu sześcioletniego.
+## Architektura
+Centrum zaprojektowano w duchu socrealizmu: place, osie widokowe, monumentalne bloki z arkadami. Powstało założenie urbanistyczne o dużej wartości, dziś objęte ochroną konserwatorską – niezależnie od ideologii, która je powołała.
 
-## Walka o krzyż
-Wbrew zamysłom władz Nowa Huta stała się ośrodkiem religijności. W 1960 roku doszło do gwałtownych starć w obronie krzyża w Bieńczycach, a po latach – mimo oporu władz – wzniesiono kościół Arka Pana.
-
-## Ośrodek Solidarności
-W latach 80. robotnicy kombinatu byli aktywni w Solidarności; Nowa Huta stała się miejscem strajków i demonstracji, brutalnie pacyfikowanych przez ZOMO.
-
-## Znaczenie
-Nowa Huta to paradoks PRL – miasto budowane jako pomnik komunizmu, które stało się bastionem wiary i sprzeciwu.`,
+## Kościół i bunt
+Miasto budowane bez świątyni stało się miejscem najgłośniejszej walki o krzyż – w 1960 roku doszło tam do wielogodzinnych starć. Ostatecznie zbudowano Arkę Pana. W latach 80. Nowa Huta była jednym z najbardziej zbuntowanych ośrodków w kraju, co całkowicie odwróciło pierwotny zamysł jej twórców.`,
     resources: [
       {
         id: 'nh-yt',
@@ -993,24 +981,21 @@ W grudniu 1970 roku, po podwyżce cen tuż przed świętami, wybuchły protesty 
     summary: 'Edward Gierek – I sekretarz KC PZPR w latach 1970–1980. Twórca polityki "drugiej Polski" opartej na zachodnich kredytach i modernizacji. Jego dekada skończyła się kryzysem zadłużenia i narodzinami Solidarności.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Gierek%2C%201973.png?width=800',
     imageCaption: 'Edward Gierek, I sekretarz KC PZPR (1973).',
-    trivia: ['Edward Gierek biegle mówił po francusku – młodość spędził na emigracji we Francji i Belgii, pracując w kopalniach.', 'Słynne „Pomożecie?” z 1971 roku stało się symbolem pozornego dialogu władzy ze społeczeństwem.'],
-    content: `## Sylwetka
-Edward Gierek (1913–2001), górnik z doświadczeniem emigracji we Francji i Belgii, był I sekretarzem KC PZPR w latach 1970–1980 – symbolem „dekady sukcesu” i jej spektakularnego krachu.
+    trivia: [
+      'Młodość spędził jako górnik we Francji i Belgii, co odróżniało go od kierownictwa wychowanego w Moskwie.',
+      'W stanie wojennym został internowany przez własną partię.',
+    ],
+    content: `## Dojście do władzy
+Edward Gierek (1913–2001) większość młodości spędził jako górnik we Francji i Belgii, co odróżniało go od kierownictwa wychowanego w Moskwie. Władzę objął w grudniu 1970 roku, po masakrze na Wybrzeżu i upadku Gomułki.
 
-## Dojście do władzy
-Objął władzę po masakrze Grudnia 1970, obiecując poprawę warunków życia. Słynne pytanie do robotników „Pomożecie?” i odpowiedź „Pomożemy!” miały budować wrażenie dialogu.
+## Pomożecie?
+W styczniu 1971 roku pojechał do strajkujących stoczni w Szczecinie i Gdańsku i rozmawiał z załogami przez wiele godzin. Pytanie „Pomożecie?” i odpowiedź „Pomożemy!” weszły do języka jako skrót całej jego metody: obietnica i osobisty kontakt zamiast siły.
 
 ## Dekada na kredyt
-Lata 70. to wielkie inwestycje (Huta Katowice, Trasa Łazienkowska, Fiat 126p), wzrost stopy życiowej i otwarcie na Zachód – finansowane jednak rosnącymi kredytami zagranicznymi.
+Lata 70. przyniosły zakupy licencji na Zachodzie, wielkie inwestycje, wzrost płac i realnie odczuwalną poprawę życia. Finansowano to kredytami, licząc, że eksport je spłaci. Gdy eksport zawiódł, powstało zadłużenie, które sparaliżowało gospodarkę lat 80.
 
-## Propaganda sukcesu
-Media lansowały „propagandę sukcesu”, przedstawiając Polskę jako kraj dynamicznego rozwoju, podczas gdy narastały niedobory, dług i nierównowaga gospodarcza.
-
-## Kryzys i upadek
-Podwyżki cen wywołały protesty Czerwca 1976, a pogłębiający się kryzys doprowadził do strajków Sierpnia 1980. Schorowanego Gierka odsunięto od władzy, a w stanie wojennym internowano.
-
-## Ocena
-Gierek pozostaje postacią ambiwalentną – wspominaną z nostalgią za pozorną prosperity, lecz odpowiedzialną za zadłużenie, które pogrążyło gospodarkę PRL.`,
+## Upadek
+Podwyżka cen w lipcu 1980 roku wywołała falę strajków zakończoną porozumieniami sierpniowymi. We wrześniu Gierek stracił władzę, a w stanie wojennym został internowany przez własną partię.`,
     resources: [
       {
         id: 'gie-1',
@@ -1109,24 +1094,21 @@ W 2008 roku prokuratura IPN oskarżyła Jaruzelskiego o wydanie bezprawnych rozk
     summary: 'Lech Wałęsa – elektryk z Gdańska, który stał się symbolem pokojowego oporu przeciw komunizmowi. Przywódca Solidarności, laureat Pokojowej Nagrody Nobla (1983) i Prezydent RP (1990–1995).',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Lech%20Wa%C5%82%C4%99sa%201980.jpg?width=800',
     imageCaption: 'Lech Wałęsa w czasie strajku w Stoczni Gdańskiej, 1980.',
-    content: `## Sylwetka
-Lech Wałęsa (ur. 1943), elektryk ze Stoczni Gdańskiej, stał się przywódcą Solidarności, laureatem Pokojowej Nagrody Nobla i pierwszym prezydentem wolnej Polski wybranym w wyborach powszechnych.
+    content: `## Elektryk ze stoczni
+Lech Wałęsa (ur. 1943) pracował jako elektryk w Stoczni Gdańskiej. Uczestniczył w protestach grudnia 1970 roku, a w latach 70. działał w Wolnych Związkach Zawodowych Wybrzeża, za co był zwalniany z pracy i zatrzymywany.
 
 ## Sierpień 1980
-Przeskoczywszy stoczniowy mur, stanął na czele strajku w Stoczni Gdańskiej i Międzyzakładowego Komitetu Strajkowego. Podpisał Porozumienia Gdańskie, zostając twarzą rodzącego się ruchu.
+14 sierpnia 1980 roku przedostał się na teren strajkującej stoczni i stanął na czele Międzyzakładowego Komitetu Strajkowego. To on podpisał porozumienia sierpniowe i został pierwszym przewodniczącym Solidarności – związku, który w ciągu kilku miesięcy skupił blisko dziesięć milionów członków.
 
-## Przywódca Solidarności
-Jako przewodniczący NSZZ „Solidarność” stał się symbolem pokojowego oporu. W stanie wojennym był internowany, lecz jego pozycji nie udało się złamać.
+## Stan wojenny i Nobel
+Internowany 13 grudnia 1981 roku, zwolniony po roku, pozostał symbolem oporu. W 1983 roku otrzymał Pokojową Nagrodę Nobla; po odbiór nie pojechał, obawiając się, że nie zostanie wpuszczony z powrotem – odebrała ją żona.
 
-## Nobel
-W 1983 roku otrzymał Pokojową Nagrodę Nobla – odebraną w jego imieniu przez żonę Danutę, z obawy przed odmową powrotu do kraju – co wzmocniło międzynarodową rangę Solidarności.
-
-## Okrągły Stół i prezydentura
-Współprzewodniczył obradom Okrągłego Stołu (1989), a w 1990 roku został wybrany na prezydenta RP w pierwszych powszechnych wyborach prezydenckich.
-
-## Znaczenie
-Wałęsa to jedna z najważniejszych postaci najnowszej historii Polski – symbol zwycięstwa Solidarności, choć jego rola i biografia bywają przedmiotem sporów.`,
-    trivia: ['Był elektrykiem w Stoczni Gdańskiej, zanim stanął na czele strajku.', 'Pokojową Nagrodę Nobla odebrała w jego imieniu żona Danuta – obawiał się, że nie zostanie wpuszczony z powrotem do kraju.'],
+## Okrągły Stół i później
+W 1989 roku był głównym negocjatorem strony solidarnościowej przy Okrągłym Stole, a w latach 1990–1995 prezydentem Rzeczypospolitej. Jego rola i biografia pozostają przedmiotem sporu, ale znaczenie momentu sierpniowego nie jest kwestionowane.`,
+    trivia: [
+      'Po Nagrodę Nobla nie pojechał, obawiając się, że nie zostanie wpuszczony z powrotem – odebrała ją żona.',
+      'Solidarność pod jego przewodnictwem skupiła w kilka miesięcy blisko dziesięć milionów członków.',
+    ],
     resources: [
       {
         id: 'wal-1',
@@ -1302,24 +1284,21 @@ Po spełnieniu części postulatów komitet przekształcił się w Komitet Samoo
     summary: 'Marzec 1968 – fala studenckich protestów wywołana zakazem wystawiania "Dziadów" Mickiewicza, stłumiona przez władze. Towarzyszyła jej wewnątrzpartyjna kampania antysemicka, która zmusiła około 13 000 Polaków żydowskiego pochodzenia do emigracji.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/20200121%20102923%201968%20Polish%20political%20crisis.jpg?width=800',
     imageCaption: 'Marzec 1968',
-    trivia: ['Iskrą protestów było zdjęcie ze sceny „Dziadów” – widzowie reagowali owacjami na antycarskie fragmenty.'],
-    content: `## Iskra
-Bezpośrednim powodem wybuchu było zdjęcie ze sceny Teatru Narodowego „Dziadów” Adama Mickiewicza w reżyserii Kazimierza Dejmka oraz relegowanie z uczelni Adama Michnika i Henryka Szlajfera.
+    trivia: [
+      'Wyjeżdżający po Marcu musieli zrzec się obywatelstwa i otrzymywali dokument podróży w jedną stronę.',
+      'Zarzewiem kryzysu było zdjęcie z afisza „Dziadów” Kazimierza Dejmka.',
+    ],
+    content: `## Dziady
+Bezpośrednim zarzewiem było zdjęcie z afisza „Dziadów” w reżyserii Kazimierza Dejmka, w których publiczność owacyjnie reagowała na antyrosyjskie fragmenty. Po ostatnim spektaklu w styczniu 1968 roku doszło do demonstracji, a protest studentów przeniósł się na uczelnie.
 
-## Protesty studenckie
-8 marca 1968 roku na Uniwersytecie Warszawskim odbył się wiec w obronie swobód obywatelskich. Został brutalnie spacyfikowany przez milicję i „aktyw robotniczy”. Protesty rozlały się na uczelnie w całym kraju.
-
-## Represje
-Władze odpowiedziały pałowaniem, aresztowaniami, relegowaniem studentów i wcielaniem „buntowników” do wojska. Pokazowe procesy i wyroki miały zastraszyć młodzież.
+## 8 marca
+8 marca 1968 roku wiec na Uniwersytecie Warszawskim rozbito przy użyciu milicji i tak zwanego aktywu robotniczego. Strajki i wiece objęły uczelnie w całym kraju, a odpowiedzią były relegowania, wcielenia do wojska i procesy.
 
 ## Kampania antysemicka
-Wykorzystując wewnętrzne rozgrywki (frakcja „partyzantów” Mieczysława Moczara), władza rozpętała haniebną kampanię „antysyjonistyczną”, obarczając Żydów odpowiedzialnością za niepokoje.
+Walka frakcyjna w partii, prowadzona przez środowisko Mieczysława Moczara, przekształciła kryzys w nagonkę: mówiono o „syjonistach” i piątej kolumnie. Z pracy usuwano ludzi pochodzenia żydowskiego, także tych całkowicie zasymilowanych.
 
-## Emigracja
-W wyniku nagonki z Polski wyjechało około 13–15 tysięcy obywateli pochodzenia żydowskiego – często wybitnych naukowców i twórców – pozbawionych obywatelstwa i zmuszonych do emigracji.
-
-## Znaczenie
-Marzec 1968 to trauma polskiej inteligencji i kompromitacja władzy. Ukształtował „pokolenie '68”, z którego wywodzili się późniejsi działacze opozycji i KOR.`,
+## Emigracja marcowa
+Z Polski wyjechało kilkanaście tysięcy osób, zmuszonych do zrzeczenia się obywatelstwa i wyjeżdżających z dokumentem podróży w jedną stronę. Kraj stracił naukowców, lekarzy i twórców, a Marzec pozostał jedną z najciemniejszych kart w historii PRL.`,
     resources: [
       {
         id: 'm68-ipn1',
@@ -2741,24 +2720,21 @@ Zasoby, kontakty i doświadczenie zarządcze zgromadzone w tym środowisku okaza
     summary: 'Wiosną 1940 roku NKWD zamordowało blisko 22 000 polskich oficerów, policjantów i przedstawicieli inteligencji. Przez całe 45 lat PRL władze komunistyczne ukrywały prawdę i zrzucały winę na Niemców. Prawda oficjalnie wyszła na jaw dopiero w 1990 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pomnik%20katynski1.JPG?width=800',
     imageCaption: 'Pomnik ofiar zbrodni katyńskiej.',
-    trivia: ['Przez całą epokę PRL prawda o Katyniu była zakazana – winą oficjalnie obarczano Niemców.'],
+    trivia: [
+      'Napisy o Katyniu usuwano nawet z nagrobków, a badaczy tematu ścigano.',
+      'Odpowiedzialność ZSRR za zbrodnię przyznano oficjalnie dopiero w 1990 roku.',
+    ],
     content: `## Zbrodnia
-Wiosną 1940 roku NKWD, na mocy decyzji najwyższych władz ZSRR, wymordowało blisko 22 tysiące polskich oficerów, policjantów i przedstawicieli elit wziętych do niewoli w 1939 roku. Egzekucje wykonano m.in. w Katyniu, Charkowie i Twerze (Miednoje).
+Wiosną 1940 roku NKWD rozstrzelało blisko dwadzieścia dwa tysiące obywateli polskich, w tym około piętnastu tysięcy oficerów Wojska Polskiego i Policji Państwowej, wziętych do niewoli po 17 września 1939 roku. Decyzję podjęły najwyższe władze ZSRR.
 
-## Odkrycie
-Masowe groby w Katyniu ujawnili w 1943 roku Niemcy. ZSRR zaprzeczył i zerwał stosunki z rządem polskim w Londynie, gdy ten zażądał śledztwa Międzynarodowego Czerwonego Krzyża.
+## Miejsca
+Egzekucje przeprowadzono m.in. w Katyniu, Charkowie, Twerze i Kijowie, a ofiary pochowano w masowych grobach. Groby w Lesie Katyńskim ujawnili Niemcy w kwietniu 1943 roku.
 
 ## Kłamstwo katyńskie
-Przez całą epokę PRL władze, za Moskwą, fałszywie obarczały odpowiedzialnością Niemców. „Kłamstwo katyńskie” było jednym z filarów oficjalnej propagandy, a prawda – surowo cenzurowana.
+Gdy rząd polski poprosił Międzynarodowy Czerwony Krzyż o zbadanie sprawy, Stalin wykorzystał to jako pretekst do zerwania stosunków dyplomatycznych. Przez cały okres PRL obowiązywała wersja obarczająca winą Niemców; napisy o Katyniu usuwano z nagrobków, a badaczy ścigano.
 
-## Temat zakazany
-Mówienie prawdy o Katyniu groziło represjami. Pamięć podtrzymywały rodziny ofiar, Kościół, emigracja i drugi obieg – mimo zacierania śladów i niszczenia tablic.
-
-## Przełom
-Dopiero w 1990 roku ZSRR oficjalnie przyznał, że zbrodni dokonało NKWD. Ujawniono część dokumentów, w tym decyzję z marca 1940 roku.
-
-## Pamięć
-Katyń stał się symbolem martyrologii Polaków pod okupacją sowiecką i zakłamania komunizmu. Upamiętniają go liczne pomniki oraz Dzień Pamięci Ofiar Zbrodni Katyńskiej.`,
+## Prawda
+Odpowiedzialność ZSRR przyznano oficjalnie dopiero w 1990 roku. Katyń pozostaje przykładem tego, jak długo państwo potrafi utrzymywać kłamstwo, gdy kontroluje szkołę, prasę i badania naukowe – i jak trwałą pamięć potrafi zachować przekaz rodzinny.`,
     resources: [
       {
         id: 'kat-ipn1',
@@ -7676,24 +7652,21 @@ Wzorem sowieckim SB używała psychiatrii jako narzędzia represji: dysydentów 
     summary: 'Polski teatr w PRL był polem nieustannej gry między cenzurą a artystyczną wolnością. Mimo ograniczeń wydał wybitnych twórców – Jerzego Grotowskiego, Tadeusza Kantora, Konrada Swinarskiego – i stał się przestrzenią zakodowanego oporu wobec systemu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Teatr_Wielki_w_Warszawie_p7_2.jpg?width=800',
     imageCaption: 'Teatr w PRL',
-    content: `## Rola teatru
-W PRL teatr był czymś znacznie więcej niż rozrywką – stał się przestrzenią aluzji, dialogu z widzem i mówienia „między wierszami” o sprawach przemilczanych przez propagandę.
+    content: `## Instytucja państwowa
+Wszystkie teatry w PRL były państwowe: obsadę dyrektorską zatwierdzała partia, repertuar przechodził przez cenzurę, a finansowanie pochodziło z budżetu. Zapewniało to stabilność zespołów i etaty, ale i pełną zależność.
 
-## Cenzura i aluzja
-Każdy spektakl przechodził przez cenzurę, lecz reżyserzy i aktorzy potrafili przemycać znaczenia. Klasyka (Mickiewicz, Słowacki, Wyspiański) nabierała aktualnych, wolnościowych sensów.
+## Wolność w klasyce
+Teatr wypracował metodę mówienia przez inscenizację: sztuka klasyczna, zatwierdzona bez zastrzeżeń, mogła w konkretnym ustawieniu brzmieć jak komentarz do współczesności. Publiczność czytała te sygnały natychmiast, a cenzor miał przed sobą tekst Mickiewicza albo Szekspira.
 
-## Wielkie sceny i twórcy
-Działali wybitni reżyserzy i dyrektorzy – Kazimierz Dejmek, Erwin Axer, Konrad Swinarski, Adam Hanuszkiewicz – a wielcy aktorzy, jak Gustaw Holoubek, nadawali scenom rangę.
+## Dziady
+Najgłośniejszym przypadkiem było zdjęcie „Dziadów” Kazimierza Dejmka w 1968 roku, po owacyjnych reakcjach widowni na fragmenty antyrosyjskie. Decyzja ta uruchomiła protesty studenckie i kryzys marcowy.
 
-## Awangarda światowej klasy
-Polska szczyciła się teatrem eksperymentalnym o światowej sławie – Teatrem Laboratorium Jerzego Grotowskiego oraz Cricot 2 Tadeusza Kantora.
-
-## Teatr a polityka
-Teatr bywał zarzewiem wydarzeń politycznych – zdjęcie „Dziadów” w reżyserii Dejmka w 1968 roku stało się iskrą Marca '68.
-
-## Znaczenie
-Teatr PRL łączył wysoki poziom artystyczny z funkcją obywatelską, będąc jedną z najważniejszych przestrzeni wolności w zniewolonym kraju.`,
-    trivia: ['Teatr bywał miejscem mówienia prawdy aluzją.', 'Publiczność nagradzała brawami zdania o wolności, choć padały w kostiumie historycznym.'],
+## Poza sceną główną
+Obok teatrów repertuarowych działały teatry studenckie i alternatywne, a w latach 80. – po wprowadzeniu stanu wojennego i bojkocie telewizji przez aktorów – przedstawienia odbywały się także w kościołach. Teatr pozostał przez cały okres PRL jedną z najżywszych dziedzin kultury.`,
+    trivia: [
+      'Klasyka bywała bezpieczniejsza niż współczesność – cenzor czytał tekst, a publiczność inscenizację.',
+      'W stanie wojennym, gdy aktorzy bojkotowali telewizję, przedstawienia odbywały się w kościołach.',
+    ],
     resources: [
       {
         id: 'teatr-1',
@@ -12322,24 +12295,21 @@ Teatr Telewizji ukształtował gust kulturalny pokoleń Polaków i zachował zap
     tags: ['Milenium', '1966', 'Kościół', 'Wyszyński', 'Gomułka', 'Tysiąclecie', 'chrzest Polski'],
     yearStart: 1966,
     summary: 'Obchody tysiąclecia chrztu Polski w 1966 r. stały się areną rywalizacji między Kościołem a państwem. Religijnym uroczystościom prymasa Wyszyńskiego władza przeciwstawiła świeckie obchody „Tysiąclecia Państwa Polskiego”.',
-    trivia: ['Władze „aresztowały” wędrujący obraz Matki Bożej – po kraju pielgrzymowały same puste ramy.'],
-    content: `## Dwie rocznice
-Rok 1966 przyniósł rywalizację dwóch obchodów: kościelnego Milenium Chrztu Polski (966) i państwowego Tysiąclecia Państwa Polskiego – starcie Kościoła z władzą o „rząd dusz”.
+    trivia: [
+      'Po zatrzymaniu kopii obrazu peregrynację kontynuowano z pustymi ramami.',
+      'Państwo ustawiało swoje obchody Tysiąclecia w tych samych terminach co uroczystości kościelne.',
+    ],
+    content: `## Dwa jubileusze
+W 1966 roku przypadła tysięczna rocznica chrztu Polski. Kościół obchodził Milenium jako rocznicę religijną, państwo zaś zorganizowało równoległe obchody Tysiąclecia Państwa Polskiego, świadomie ustawiając imprezy w tych samych terminach i miejscach.
 
-## Wielka Nowenna
-Obchody kościelne przygotowywała zainicjowana przez prymasa Wyszyńskiego dziewięcioletnia Wielka Nowenna oraz peregrynacja kopii obrazu Matki Bożej Częstochowskiej po całym kraju.
+## Przygotowania
+Kościół przygotowywał się przez dziewięć lat, w ramach Wielkiej Nowenny zapoczątkowanej Jasnogórskimi Ślubami Narodu w 1956 roku. Po kraju wędrowała kopia obrazu Matki Boskiej Częstochowskiej, witana w kolejnych parafiach.
 
-## Konflikt z władzą
-Władze utrudniały uroczystości: „aresztowały” wędrujący obraz, ograniczały pielgrzymki, organizowały konkurencyjne imprezy świeckie i akcje propagandowe, m.in. „Tysiąc szkół na Tysiąclecie”.
+## Aresztowanie obrazu
+Władze zatrzymały peregrynację, a kopię obrazu odesłano na Jasną Górę pod eskortą. Wędrówkę kontynuowano wówczas z pustymi ramami – gest, który okazał się mocniejszy niż sam obraz.
 
-## Orędzie biskupów
-Napięcie podsycił list biskupów polskich do niemieckich (1965) ze słowami „przebaczamy i prosimy o przebaczenie”, zaatakowany przez propagandę hasłem „Nie przebaczamy”.
-
-## Triumf wiary
-Mimo szykan obchody milenijne zgromadziły tłumy wiernych i stały się wielką manifestacją siły Kościoła oraz porażką ateizacyjnej polityki władz.
-
-## Znaczenie
-Milenium 1966 umocniło pozycję Kościoła i prymasa Wyszyńskiego, pokazując granice wpływu komunistycznego państwa na duchowość Polaków.`,
+## Rezultat
+Konfrontacja zakończyła się porażką państwa: uroczystości kościelne gromadziły nieporównanie więcej ludzi niż państwowe defilady. Milenium pokazało skalę obecności Kościoła w społeczeństwie i było zapowiedzią tego, co powtórzy się w 1979 roku podczas pielgrzymki papieża.`,
     resources: [
       {
         id: 'mil-pkf',
@@ -21613,24 +21583,21 @@ Syrena stała się bohaterką dowcipów i zarazem obiektem sentymentu. Dla pokol
     summary: 'Piosenkarka i aktorka o fenomenalnym, wielooktawowym głosie, gwiazda estrady i jedna z nielicznych polskich artystek z karierą na Zachodzie.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Violetta%20Villas.jpg?width=800',
     imageCaption: 'Violetta Villas – piosenkarka o fenomenalnym, wielooktawowym głosie.',
-    content: `## Sylwetka
-Violetta Villas (1938–2011), właśc. Czesława Cieślak, była piosenkarką i aktorką obdarzoną fenomenalnym, wielooktawowym głosem (sopran koloraturowy), nazywaną „głosem atomowym” i „perłą Karpat”.
+    content: `## Głos
+Violetta Villas, właściwie Czesława Gospodarek (1938–2011), dysponowała sopranem koloraturowym o rozszerzonej skali. Śpiewała repertuar estradowy, operowy i operetkowy, a jej możliwości wokalne uchodziły za zjawisko w skali światowej.
 
-## Kariera
-Zadebiutowała na przełomie lat 50. i 60., szybko stając się gwiazdą estrady. Jej brawurowe wykonania i ekspresyjna interpretacja zachwycały publiczność.
+## Kariera zagraniczna
+W latach 60. występowała w Las Vegas, Paryżu i innych ośrodkach zachodnich, co dla artystki z PRL było przypadkiem wyjątkowym. Otrzymywała propozycje kontraktów, których przyjęcie oznaczałoby jednak pozostanie za granicą.
 
-## Przeboje
-Do najsłynniejszych należą „Do ciebie mamo” (List do matki), „Oczy czarne” i „Śpij, laleczko”. Repertuar łączył piosenkę estradową z operetką i muzyką poważną.
+## Powrót
+Zdecydowała się wrócić do kraju, co zamknęło jej międzynarodową drogę. W Polsce była gwiazdą estrady, ale w skali nieporównywalnej z możliwościami, jakie dawał rynek zachodni.
 
-## Kariera na Zachodzie
-W latach 60. występowała za granicą – w Las Vegas, Paryżu i zachodnich telewizjach – jako jedna z nielicznych polskich gwiazd o międzynarodowej rozpoznawalności.
-
-## Powrót i legenda
-Po powrocie do kraju jej życie naznaczyły ekscentryzm i samotność wśród gromady zwierząt. Mimo trudnych lat pozostała legendą polskiej estrady.
-
-## Znaczenie
-Villas to jeden z najwybitniejszych głosów w historii polskiej muzyki rozrywkowej – artystka osobna, której talent wykraczał poza ramy epoki.`,
-    trivia: ['Dysponowała głosem o wyjątkowej skali.', 'Występowała w Las Vegas – rzadkość dla artystki z PRL.'],
+## Legenda
+Ekscentryczny wizerunek sceniczny i późniejsze samotne życie w otoczeniu zwierząt uczyniły z niej postać obrosłą anegdotą. Za tą warstwą kryje się jednak jeden z najbardziej niezwykłych głosów w historii polskiej muzyki.`,
+    trivia: [
+      'Występowała w Las Vegas, co dla artystki z PRL było przypadkiem wyjątkowym.',
+      'Powrót do kraju zamknął jej międzynarodową karierę.',
+    ],
     resources: [
       {
         id: 'vv-yt',
@@ -21722,24 +21689,21 @@ Lombard nagrał kilkanaście płyt i zagrał kilka tysięcy koncertów w kraju i
     yearStart: 1979,
     yearEnd: 1989,
     summary: 'Popularny zespół rockowy pierwszej połowy lat 80., znany z przebojów „Andzia” i „Party”.',
-    content: `## Powstanie
-Oddział Zamknięty powstał w 1979 roku w Warszawie. W zespole grali m.in. Krzysztof Jaryczewski (wokal) i Paweł Mścisławski, a z grupą związany był też Andrzej Szpilman.
-
-## Brzmienie
-Zespół grał energetyczny rock z elementami nowej fali, zyskując popularność dzięki chwytliwym przebojom i scenicznej energii.
+    content: `## Zespół
+Oddział Zamknięty powstał na początku lat 80. i należał do fali polskiego rocka, która wypełniła lukę po zawieszeniu życia kulturalnego w stanie wojennym. Grał rock gitarowy, energiczny i prosty w formie.
 
 ## Przeboje
-Do największych hitów należą „Andzia (i ja)”, „Party” oraz „Ten wasz świat”. Utwory te stały się stałym elementem dyskotek i Listy Przebojów Trójki.
+Największą popularność przyniosły „Party” i „Andzia i ja”, utwory obecne na listach przebojów i w repertuarze koncertowym przez kolejne dekady.
 
-## Popularność
-W pierwszej połowie lat 80. Oddział Zamknięty był jednym z najpopularniejszych zespołów rockowych w kraju, z licznymi koncertami i nagraniami.
+## Jarocin
+Podobnie jak dla innych zespołów tej fali, kluczowe znaczenie miał festiwal w Jarocinie i sieć klubów studenckich. To one, a nie radio, decydowały wtedy o istnieniu grupy rockowej.
 
-## Zmiany składu
-Burzliwe dzieje zespołu i zmiany składu (m.in. odejście Jaryczewskiego) nie przekreśliły jego pozycji – grupa wracała na scenę w kolejnych latach.
-
-## Znaczenie
-Oddział Zamknięty to jeden z symboli rockowej kultury młodzieżowej lat 80., a jego przeboje pozostają rozpoznawalne do dziś.`,
-    trivia: ['Przebój „Party” to jeden z klasyków lat 80.', 'Zespół powstał w Warszawie.'],
+## Trwałość
+Zespół przetrwał zmiany składu i zmianę ustroju, a jego piosenki funkcjonują dziś jako muzyczny znak lat 80. – dekady, w której rock stał się w Polsce główną muzyką młodzieżową.`,
+    trivia: [
+      'O istnieniu zespołu rockowego decydował wtedy Jarocin i kluby studenckie, a nie radio.',
+      '„Party” i „Andzia i ja” pozostały w repertuarze koncertowym przez dekady.',
+    ],
     resources: [
       {
         id: 'oz-yt',
@@ -21779,24 +21743,21 @@ Oddział Zamknięty to jeden z symboli rockowej kultury młodzieżowej lat 80., 
     summary: 'Jeden z najbardziej oryginalnych zespołów polskiej muzyki rozrywkowej, łączący big-beat z muzyką klasyczną i folkiem, autor „Medytacji wiejskiego listonosza”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Skaldowie_2012.JPG?width=800',
     imageCaption: 'Skaldowie',
-    content: `## Powstanie
-Skaldowie powstali w 1965 roku w Krakowie, założeni przez braci Andrzeja i Jacka Zielińskich. Należeli do czołówki polskiego big-beatu i muzyki rozrywkowej.
+    content: `## Zespół z Krakowa
+Skaldowie powstali w 1965 roku w Krakowie, założeni przez braci Andrzeja i Jacka Zielińskich. Andrzej, z wykształceniem muzycznym, komponował i aranżował – co odróżniało zespół od grup big-beatowych uczących się grania na słuch.
 
-## Styl
-Zespół wyróżniał się ambitnymi aranżacjami łączącymi rock z muzyką klasyczną, folkiem podhalańskim i jazzem, a także wielogłosowymi harmoniami.
+## Brzmienie
+Łączyli rock i pop z folklorem góralskim oraz elementami muzyki poważnej, sięgając z czasem po rozbudowane formy bliskie rockowi progresywnemu. Charakterystyczne były wielogłosowe harmonie wokalne braci.
 
 ## Przeboje
-Najsłynniejsze utwory to „Medytacje wiejskiego listonosza”, „Wszystko mi mówi, że mnie ktoś pokochał”, „Nie domykajmy drzwi” i „Z kopyta kulig rwie”. Teksty często pisał Leszek Aleksander Moczulski.
+Najbardziej znane pozostają „Wszystko mi mówi, że mnie ktoś pokochał”, „Nie domykajmy drzwi” i „Z kopyta kulig rwie” – ta ostatnia oparta wprost na motywach góralskich.
 
 ## Trwałość
-Skaldowie utrzymywali popularność przez całą epokę PRL, koncertując i nagrywając ambitne płyty, cenione zarówno przez publiczność, jak i krytykę.
-
-## Bracia Zielińscy
-Andrzej Zieliński, kompozytor i pianista, nadawał zespołowi muzyczny kierunek, a Jacek był współwokalistą; ich współpraca określiła brzmienie grupy.
-
-## Znaczenie
-Skaldowie to jeden z najbardziej oryginalnych i cenionych zespołów polskiej muzyki rozrywkowej, łączący popularność z artystyczną ambicją.`,
-    trivia: ['Zespół tworzyli bracia Andrzej i Jacek Zielińscy.', 'Łączyli rock z inspiracjami folklorem Podhala.'],
+Zespół nagrywał i koncertował przez dziesięciolecia, przechodząc przez kolejne mody bez rezygnacji z własnego stylu. Należy do najdłużej działających polskich grup muzycznych w historii.`,
+    trivia: [
+      'Andrzej Zieliński miał wykształcenie muzyczne, co odróżniało zespół od grup uczących się grania na słuch.',
+      '„Z kopyta kulig rwie” oparto wprost na motywach muzyki góralskiej.',
+    ],
     resources: [
       {
         id: 'sk-yt',
@@ -21890,24 +21851,21 @@ Dysponowała głosem szkolonym i dykcją, dzięki której każde słowo tekstu b
     summary: 'Jeden z najwybitniejszych twórców poezji śpiewanej, lider grupy Anawa, autor „Dni, których nie znamy” i „Wolności”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Marek%20Grechuta.jpg?width=800',
     imageCaption: 'Marek Grechuta – jeden z najwybitniejszych twórców poezji śpiewanej.',
-    content: `## Sylwetka
-Marek Grechuta (1945–2006) był piosenkarzem, kompozytorem i poetą, jednym z najważniejszych twórców polskiej poezji śpiewanej, o niepowtarzalnym, lirycznym stylu.
+    content: `## Poeta śpiewający
+Marek Grechuta (1945–2006) był z wykształcenia architektem, a w muzyce – najważniejszym przedstawicielem polskiej poezji śpiewanej. Zadebiutował w 1967 roku w krakowskim środowisku studenckim.
 
-## Anawa i debiut
-Karierę rozpoczął na przełomie lat 60. wraz z grupą Anawa, zwracając uwagę ambitnymi, poetyckimi piosenkami. Studiował architekturę, zanim poświęcił się muzyce.
+## Anawa i dalej
+Z zespołem Anawa, prowadzonym przez Jana Kantego Pawluśkiewicza, nagrał utwory łączące piosenkę literacką z rockiem i jazzem. Później współtworzył grupę Wiem i kontynuował karierę solową.
 
-## Przeboje
-Do najsłynniejszych utworów należą „Dni, których nie znamy”, „Wolność”, „Niepewność” (do słów Mickiewicza) i „Ocalić od zapomnienia” (do wiersza Gałczyńskiego).
+## Repertuar
+Śpiewał do słów własnych oraz Wyspiańskiego, Gałczyńskiego i Baczyńskiego. Najbardziej znane utwory to „Dni, których nie znamy”, „Ocalić od zapomnienia” i „Niepewność” – wszystkie funkcjonują dziś jako standardy.
 
-## Poezja w piosence
-Grechuta śpiewał teksty wielkich poetów i własne, łącząc muzykę z literaturą. Jego twórczość cechowały wrażliwość, refleksja i artystyczna powaga.
-
-## Krakowskie środowisko
-Związany z krakowskim środowiskiem artystycznym (Piwnica pod Baranami), współtworzył klimat ambitnej, niezależnej kultury.
-
-## Znaczenie
-Marek Grechuta to klasyk polskiej piosenki literackiej; jego utwory pozostają żywe i wciąż wykonywane przez kolejne pokolenia.`,
-    trivia: ['Zanim został muzykiem, studiował architekturę na Politechnice Krakowskiej.', 'Piosenka „Dni, których nie znamy” stała się jednym z hymnów pokolenia.'],
+## Miejsce w kulturze
+Grechuta pokazał, że piosenka może być literaturą bez utraty popularności. W czasach, gdy estrada dzieliła się na rozrywkę i ambicję, jego twórczość znosiła tę granicę – i właśnie dlatego przetrwała zmianę pokoleń.`,
+    trivia: [
+      'Z wykształcenia był architektem, a malarstwo uprawiał przez całe życie.',
+      'Śpiewał do słów Wyspiańskiego, Gałczyńskiego i Baczyńskiego, nie tracąc przy tym masowej publiczności.',
+    ],
     resources: [
       {
         id: 'gr-yt',
@@ -21955,24 +21913,21 @@ Marek Grechuta to klasyk polskiej piosenki literackiej; jego utwory pozostają �
     summary: 'Legendarna wykonawczyni piosenki poetyckiej, gwiazda Piwnicy pod Baranami, znana z dramatycznych interpretacji wierszy wielkich poetów.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ewa%20Demarczyk%20Polish%20singer.jpg?width=800',
     imageCaption: 'Ewa Demarczyk – „czarny anioł” polskiej piosenki poetyckiej.',
-    content: `## Sylwetka
-Ewa Demarczyk (1941–2020), nazywana „czarnym aniołem polskiej piosenki”, była wykonawczynią o niezwykłej sile wyrazu i dramatycznej interpretacji.
+    content: `## Głos
+Ewa Demarczyk (1941–2020) była najwybitniejszą wykonawczynią polskiej poezji śpiewanej. Nie śpiewała piosenek – interpretowała wiersze, budując z nich dramatyczne monologi o skrajnej ekspresji.
 
 ## Piwnica pod Baranami
-Zasłynęła w krakowskim kabarecie Piwnica pod Baranami, stając się jego największą gwiazdą i symbolem ambitnej piosenki literackiej.
+W latach 1962–1972 była związana z krakowską Piwnicą pod Baranami. Tam powstał jej repertuar, oparty na tekstach Baczyńskiego, Tuwima, Leśmiana i Białoszewskiego, z muzyką Zygmunta Koniecznego i Andrzeja Zaryckiego.
 
-## Repertuar
-Śpiewała wiersze wielkich poetów – Juliana Tuwima, Krzysztofa Kamila Baczyńskiego, Bolesława Leśmiana – w muzyce m.in. Zygmunta Koniecznego i Andrzeja Zaryckiego.
+## Czarny anioł
+Występowała w czerni, bez scenografii i konferansjerki, w skupieniu bliższym koncertowi niż estradzie. Przydomek Czarnego Anioła oddawał zarówno wygląd, jak i charakter tych występów.
 
-## Przeboje
-Do jej znaków rozpoznawczych należą „Grande Valse Brillante”, „Karuzela z madonnami”, „Tomaszów” i „Pocałunki”. Występy cechowała hipnotyzująca ekspresja.
-
-## Międzynarodowa sława
-Koncertowała w całej Europie i poza nią, zachwycając publiczność nawet nieznającą polskiego siłą interpretacji i sceniczną charyzmą.
-
-## Znaczenie
-Demarczyk to legenda polskiej kultury – artystka osobna, której nagrania uznawane są za szczyt piosenki poetyckiej.`,
-    trivia: ['Nazywano ją „czarnym aniołem polskiej piosenki” – występowała zawsze ubrana na czarno.', 'Zachwycała publiczność za granicą, choć śpiewała wyłącznie po polsku.'],
+## Wycofanie
+Koncertowała na całym świecie, ale z czasem ograniczała występy, a w latach 90. wycofała się całkowicie i nie udzielała wywiadów. Pozostawiła niewiele nagrań, co paradoksalnie wzmocniło legendę.`,
+    trivia: [
+      'Nie śpiewała piosenek, lecz interpretowała wiersze – Baczyńskiego, Tuwima, Leśmiana.',
+      'Występowała w czerni, bez scenografii i konferansjerki; stąd przydomek Czarnego Anioła.',
+    ],
     resources: [
       {
         id: 'de-yt',
@@ -22013,23 +21968,20 @@ Demarczyk to legenda polskiej kultury – artystka osobna, której nagrania uzna
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tablica_pami%C4%85tkowa_filmu_Rejs_Marka_Piwowskiego_od_strony_star%C3%B3wki.jpg?width=800',
     imageCaption: 'Rejs',
     content: `## Film
-„Rejs” (1970) w reżyserii Marka Piwowskiego to kultowa komedia, której akcja toczy się na statku wycieczkowym płynącym Wisłą. Pozornie błaha fabuła kryje błyskotliwą satyrę.
+„Rejs” Marka Piwowskiego z 1970 roku to komedia o wycieczce statkiem po Wiśle. Scenariusz powstawał wspólnie z Januszem Głowackim, ale znaczna część dialogów została zaimprowizowana przez wykonawców.
 
-## Improwizacja
-Znaczną część dialogów zaimprowizowano, a w obsadzie obok aktorów znaleźli się naturszczycy – m.in. Zdzisław Maklakiewicz i Jan Himilsbach, tworzący niezapomniane duety.
+## Amatorzy
+Obok aktorów zawodowych wystąpili ludzie z ulicy, m.in. Jan Himilsbach i Zdzisław Maklakiewicz. Piwowski kręcił często bez ich wiedzy o tym, że kamera pracuje, dzięki czemu zachowania są autentyczne, a nie zagrane.
 
-## Satyra na PRL
-Film w krzywym zwierciadle pokazywał absurdy systemu: pozorną aktywność, pustosłowie zebrań, konformizm i bezsens odgórnie organizowanej „kulturalno-oświatowej” rozrywki.
+## O czym to jest
+Człowiek podający się za instruktora kulturalno-oświatowego, grany przez Stanisława Tyma, przejmuje kontrolę nad pasażerami i organizuje im zajęcia. Nikt nie sprawdza jego uprawnień, wszyscy się podporządkowują. Powstaje model władzy w pigułce.
 
-## Kultowe sceny
-Słynna „rozmowa o polskim kinie” oraz sceny z „kaowcem” organizującym życie pasażerów weszły do kanonu polskiego humoru i są cytowane do dziś.
-
-## Cenzura i recepcja
-Cenzura miała z filmem problem, uznając go za „bełkot”; z czasem „Rejs” zyskał status arcydzieła komedii i jednego z najważniejszych polskich filmów.
-
-## Znaczenie
-„Rejs” to perła polskiej komedii absurdu – dowód, że nawet w PRL powstawały dzieła błyskotliwie demaskujące rzeczywistość.`,
-    trivia: ['Wielu wykonawców to naturszczycy – Maklakiewicz i Himilsbach grali w zasadzie samych siebie.', 'Cenzura uznała film za „bełkot”; dziś to klasyka polskiej komedii.'],
+## Trwałość
+Dialogi z „Rejsu” weszły do polszczyzny i przez dekady służyły jako komentarz do absurdów PRL. Film, przyjęty początkowo z rezerwą, jest dziś uznawany za jedno z najoryginalniejszych dzieł polskiego kina.`,
+    trivia: [
+      'Znaczna część dialogów została zaimprowizowana, a część scen nakręcono bez wiedzy uczestników, że kamera pracuje.',
+      'Nikt na statku nie sprawdza uprawnień samozwańczego instruktora – i wszyscy się podporządkowują.',
+    ],
     resources: [
       {
         id: 'rejs-yt',
@@ -22181,24 +22133,21 @@ Film opisuje społeczeństwo totalitarne: oparte na kłamstwie założycielskim,
     yearStart: 1973,
     yearEnd: 1973,
     summary: 'Historyczny remis 1:1 z Anglią na Wembley (17 października 1973), który dał Polsce awans na mistrzostwa świata 1974.',
-    content: `## Mecz
-17 października 1973 roku na londyńskim Wembley reprezentacja Polski zremisowała z Anglią 1:1 w decydującym meczu eliminacji mistrzostw świata.
+    content: `## Stawka
+17 października 1973 roku Polska grała na Wembley z Anglią o awans na mistrzostwa świata. Wystarczał remis; gospodarze musieli wygrać. Anglia była mistrzem świata sprzed siedmiu lat i faworytem nie do podważenia.
 
-## Stawka
-Polsce do awansu na mundial 1974 wystarczał remis; Anglii potrzebne było tylko zwycięstwo. Faworyzowani gospodarze atakowali przez cały mecz.
+## Mecz
+Anglicy atakowali przez cały mecz i oddali kilkadziesiąt strzałów. Jan Tomaszewski bronił sytuacje, w których bramka wydawała się pewna. Polska wykorzystała jedyną okazję – bramkę zdobył Jan Domarski – i utrzymała remis 1:1.
 
-## Jan Tomaszewski
-Bohaterem został bramkarz Jan Tomaszewski, który obronił mnóstwo strzałów. Angielski trener Brian Clough nazwał go przed meczem „clownem” – po meczu słowa te obróciły się przeciw niemu.
+## Klaun
+Przed meczem trener Brian Clough nazwał Tomaszewskiego klaunem. Określenie przeszło do historii w odwróconej wersji: jako przykład pychy, która skończyła się kompromitacją.
 
-## Gol Domarskiego
-Polskę na prowadzenie wyprowadził gol Jana Domarskiego; Anglia zdołała jedynie wyrównać z rzutu karnego. Remis oznaczał historyczny awans.
-
-## Echo
-Awans rozpoczął najlepszą erę polskiej piłki – drużyna Kazimierza Górskiego zdobyła wkrótce 3. miejsce na mundialu 1974.
-
-## Znaczenie
-„Mecz na Wembley” to jedno z najsłynniejszych wydarzeń w historii polskiego sportu i symbol triumfu nad faworytem.`,
-    trivia: ['Brian Clough nazwał Tomaszewskiego „clownem” – a ten obronił awans Polski.', 'Gola na 1:0 strzelił Jan Domarski; Anglia wyrównała tylko z karnego.'],
+## Co to znaczyło
+Rok później Polska zajęła trzecie miejsce na mistrzostwach świata. W kraju odciętym od świata zwycięstwo nad Anglią na jej własnym stadionie miało wymiar wykraczający poza sport – i władze wykorzystywały je propagandowo przez lata.`,
+    trivia: [
+      'Anglii wystarczało zwycięstwo, Polsce remis – i to Polska awansowała.',
+      'Bramkę dla Polski zdobył Jan Domarski, wykorzystując jedyną wyraźną okazję w meczu.',
+    ],
     resources: [
       {
         id: 'wem-pkf',
@@ -22884,24 +22833,21 @@ Impreza zniknęła wraz z systemem, który ją powołał. Pozostała jako przyk�
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Najważniejsze święto rodzinne, obchodzone mimo ateizacji i niedoborów – z polowaniem na karpia, pomarańcze i choinkę.',
-    content: `## Święta mimo systemu
-Mimo ateizacyjnej polityki władz Boże Narodzenie pozostało najważniejszym świętem rodzinnym Polaków, obchodzonym w niemal każdym domu.
+    content: `## Święto mimo państwa
+Boże Narodzenie było najważniejszym świętem w roku, obchodzonym powszechnie mimo świeckiego charakteru państwa. Wigilia nie była dniem wolnym od pracy przez większość okresu PRL – wracano do domu prosto z zakładu.
 
-## Polowanie na zaopatrzenie
-Przygotowania to walka z niedoborem: kolejki po karpia, bakalie, a zwłaszcza pomarańcze i mandarynki, które pojawiały się głównie przed świętami i były rarytasem.
+## Zdobywanie
+Przygotowania oznaczały polowanie na produkty: karpia, mak, bakalie, pomarańcze. Kolejki po karpia i wanny pełne żywych ryb należały do stałych obrazów grudnia. Prezenty często wykonywano samodzielnie albo zdobywano przez znajomości.
 
-## Karp i Wigilia
-Karp – symbol wigilijnego stołu – często czekał na swój los, pływając w domowej wannie. Mimo braków starano się zastawić stół dwunastoma potrawami.
+## Choinka i pasterka
+Ozdoby robiono w domu, ze słomy, bibuły i papieru. Udział w pasterce był manifestacją religijną w przestrzeni publicznej, a w przypadku nauczycieli, milicjantów czy działaczy partyjnych bywał odnotowywany.
 
-## Choinka i ozdoby
-Choinkę zdobiły bombki, „włosy anielskie”, łańcuchy z kolorowej bibuły i czekoladowe ozdoby, po które również ustawiały się kolejki.
-
-## Prezenty
-Podarki bywały skromne; czasem same pomarańcze, czekolada czy wyczekana zabawka stanowiły największy prezent. Dzieciom dawał je Gwiazdor lub św. Mikołaj.
-
-## Znaczenie
-Święta były ostoją tradycji, wiary i rodzinnej wspólnoty – wytchnieniem od szarości i ideologii codzienności PRL.`,
-    trivia: ['Pomarańcze i mandarynki pojawiały się głównie na święta i bywały prawdziwym rarytasem.', 'Świąteczny karp przed Wigilią często pływał w domowej wannie.'],
+## Grudzień 1981
+Najbardziej pamiętane są święta stanu wojennego: bez telefonów, z godziną milicyjną, z bliskimi w ośrodkach internowania. Ten kontrast – między świętem rodzinnym a rozbitą rodziną – utrwalił się w pamięci mocniej niż cokolwiek innego z tamtej zimy.`,
+    trivia: [
+      'Wigilia nie była dniem wolnym od pracy przez większość okresu PRL.',
+      'Ozdoby choinkowe robiono w domu, ze słomy, bibuły i papieru.',
+    ],
     resources: [
       {
         id: 'sw-yt',
