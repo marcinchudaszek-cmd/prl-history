@@ -22644,24 +22644,21 @@ Grupa należała do czołówki polskiej estrady lat 70. i 80., regularnie obecna
     summary: 'Jeden z czołowych zespołów big-beatowych lat 60., autor przebojów „Cóż wiemy o miłości” i „Krajobrazy”; w jego szeregach zaczynał Krzysztof Krawczyk.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zesp%C3%B3%C5%82_%22Trubadurzy%22_z_wokalistk%C4%85_Halin%C4%85_%C5%BBytkowiak_-_teledysk.jpg?width=800',
     imageCaption: 'Trubadurzy',
-    content: `## Powstanie
-Trubadurzy powstali w 1963 roku w Łodzi i szybko stali się jednym z czołowych zespołów polskiego big-beatu.
+    content: `## Zespół
+Trubadurzy powstali w Łodzi w 1963 roku. Obok Czerwonych Gitar i Skaldów zaliczani są do najważniejszych grup polskiego big-beatu, a ich największa popularność przypadła na przełom lat 60. i 70.
 
 ## Brzmienie
-Grupa grała melodyjny big-beat i nastrojowe ballady, z wyrazistymi wokalami i chwytliwymi refrenami.
+Ich znakiem rozpoznawczym było połączenie rock and rolla ze stylistyką ludowej muzyki wschodniosłowiańskiej: melodyka, harmonie wokalne i instrumentacja nawiązująca do folkloru. Ta fuzja odróżniała ich od zespołów naśladujących wzory zachodnie.
 
 ## Przeboje
-Do najsłynniejszych utworów należą „Cóż wiemy o miłości”, „Krajobrazy”, „Kasztany” i „Znamy się tylko z widzenia”.
+Największą rozpoznawalność zyskały „Znamy się tylko z widzenia” i „Przyjedź mamo na przysięgę”. Piosenki te przez dziesięciolecia grano w radiu i śpiewano przy okazjach rodzinnych.
 
-## Krzysztof Krawczyk
-W Trubadurach rozpoczynał karierę Krzysztof Krawczyk, zanim zyskał sławę jako jeden z najpopularniejszych polskich wokalistów.
-
-## Popularność
-Zespół triumfował na festiwalach w Opolu i gromadził masową publiczność przez całe lata 60.
-
-## Znaczenie
-Trubadurzy to klasyk polskiego big-beatu, którego przeboje pozostają częścią kanonu rodzimej muzyki rozrywkowej.`,
-    trivia: ['W Trubadurach zaczynał karierę Krzysztof Krawczyk.', 'Zespół był jednym z filarów big-beatu lat 60.'],
+## Miejsce w epoce
+Trubadurzy pokazują, że polski big-beat nie był wyłącznie kopiowaniem Zachodu. Sięgnięcie po folklor było zarazem wyborem artystycznym i praktycznym – muzyka o rodzimym rodowodzie łatwiej przechodziła przez sito instytucji estradowych.`,
+    trivia: [
+      'Ich brzmienie łączyło rock and rolla ze stylistyką ludowej muzyki wschodniosłowiańskiej.',
+      'Sięgnięcie po folklor ułatwiało też przejście przez sito państwowych instytucji estradowych.',
+    ],
     resources: [
       {
         id: 'tru-yt',
@@ -23157,24 +23154,21 @@ Lato to jeden z najlepszych polskich piłkarzy w historii i symbol najlepszej ep
     summary: 'Piosenkarz i gitarzysta, autor nostalgicznego przeboju „Gdzie się podziały tamte prywatki” oraz „Zielonych wzgórz nad Soliną”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wojciech_G%C4%85ssowski_2013.jpg?width=800',
     imageCaption: 'Wojciech Gąssowski',
-    content: `## Sylwetka
-Wojciech Gąssowski (ur. 1943) to piosenkarz, gitarzysta i kompozytor, popularny od lat 60., wykonawca melodyjnej muzyki rozrywkowej.
+    content: `## Piosenkarz
+Wojciech Gąssowski (ur. 1943) należy do pokolenia, które zaczynało w big-beacie na początku lat 60. Jest piosenkarzem, gitarzystą i kompozytorem, a jego kariera trwa nieprzerwanie od tamtego czasu.
 
-## Big-beat i estrada
-Karierę rozpoczynał w epoce big-beatu, z czasem stając się rozpoznawalną postacią polskiej estrady.
+## Gdzie się podziały tamte prywatki
+Największy przebój, nagrany w drugiej połowie lat 70., stał się piosenką pokoleniową: opowiada o tęsknocie za młodością i za domowymi zabawami przy adapterze. Śpiewano ją potem na każdym spotkaniu rocznicowym.
 
-## Przeboje
-Najsłynniejsze utwory to „Gdzie się podziały tamte prywatki”, „Zielone wzgórza nad Soliną” i „Tak mi źle, tak mi szaro”.
+## Prywatka
+Sama prywatka – domowa impreza z muzyką z płyt i taśm – była w PRL podstawową formą życia towarzyskiego młodzieży. Lokali było mało i były drogie, więc tańczono w mieszkaniach, przy zwiniętym dywanie.
 
-## Prywatki
-„Gdzie się podziały tamte prywatki” stało się nostalgicznym hymnem o domowych potańcówkach i minionej młodości.
-
-## Popularność
-Występował na festiwalach i listach przebojów, ciesząc się sympatią publiczności przez dekady.
-
-## Znaczenie
-Gąssowski to klasyk polskiej piosenki rozrywkowej, którego przeboje grane są do dziś na imprezach i potańcówkach.`,
-    trivia: ['„Gdzie się podziały tamte prywatki” to nostalgiczny hymn o domowych potańcówkach.', '„Zielone wzgórza nad Soliną” to jeden z jego najbardziej rozpoznawalnych przebojów.'],
+## Ciągłość
+Gąssowski jest przykładem wykonawcy, który przetrwał wszystkie zmiany mody: od big-beatu przez disco po współczesne trasy nostalgiczne. Jego repertuar funkcjonuje dziś głównie jako muzyczny znak epoki.`,
+    trivia: [
+      '„Gdzie się podziały tamte prywatki” stało się piosenką pokoleniową o tęsknocie za młodością.',
+      'Prywatka w mieszkaniu, przy zwiniętym dywanie, była podstawową formą życia towarzyskiego młodzieży.',
+    ],
     resources: [
       {
         id: 'wg-yt',
@@ -23438,24 +23432,21 @@ Stan Borys to legenda polskiej sceny rockowej i poetyckiej, a „Jaskółka uwi�
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Napoje epoki – oranżada, woda sodowa z saturatora, Cocta i Polo-Cockta – nostalgiczne smaki codzienności PRL.',
-    content: `## Smaki PRL
-Napoje epoki to przede wszystkim oranżada, woda sodowa z saturatora oraz krajowe odpowiedniki coli – Cocta i Polo-Cockta.
+    content: `## Oranżada
+Oranżada w butelce z kapslem, najczęściej w wersji pomarańczowej albo cytrynowej, była podstawowym napojem dzieciństwa w PRL. Produkowały ją rozproszone wytwórnie wód gazowanych, często lokalne, co dawało różnice smaku między regionami.
 
-## Saturator
-Uliczny saturator nalewał wodę sodową „czystą” lub „z sokiem” – pito ją latem ze wspólnej, jedynie płukanej szklanki.
+## Butelka zwrotna
+Napoje sprzedawano w butelkach zwrotnych, za które płaciło się kaucję. Zbieranie i oddawanie butelek było powszechnym sposobem zdobywania drobnych pieniędzy przez dzieci – i zarazem systemem recyklingu skuteczniejszym niż niejeden dzisiejszy.
 
-## Oranżada
-Oranżada – w proszku lub w butelkach z charakterystycznym porcelanowym kapslem na drucianym pałąku – była smakiem dzieciństwa.
+## Reszta asortymentu
+Obok oranżady dostępne były wody mineralne, kwas chlebowy i napoje w proszku. Zachodnie marki pojawiły się w Peweksie, a szeroko dopiero pod koniec lat 80. – ich smak był dla wielu dzieci pierwszym kontaktem z Zachodem.
 
-## Cocta i Polo-Cockta
-Gdy zachodnia cola była luksusem z Pewexu, jej rolę pełniły polskie napoje Cocta i Polo-Cockta.
-
-## Butelki na kaucję
-Szklane butelki zwracało się do skupu za kaucją – był to powszechny, ekologiczny zwyczaj epoki.
-
-## Znaczenie
-Napoje PRL to nostalgiczny element codzienności i przykład pomysłowości w warunkach niedoboru.`,
-    trivia: ['Wodę sodową z saturatora pito ze wspólnej, jedynie płukanej szklanki.', 'Polskimi odpowiednikami coli były Cocta i Polo-Cockta.'],
+## Sentyment
+Oranżada wróciła po latach jako produkt sprzedawany właśnie na wspomnieniu: w butelce z kapslem i z etykietą stylizowaną na dawną. Jest jednym z najczystszych przykładów tego, jak przedmiot codzienny staje się nośnikiem nostalgii.`,
+    trivia: [
+      'Butelki zwrotne z kaucją były dla dzieci powszechnym sposobem zdobywania drobnych pieniędzy.',
+      'Oranżadę produkowały lokalne wytwórnie wód gazowanych, więc smak różnił się między regionami.',
+    ],
     resources: [
       {
         id: 'oranzada-napoje-pkf',
@@ -23695,23 +23686,20 @@ Sukces przyniósł kontynuację „Vabank II, czyli riposta” (1985).
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mural_Alternatywy_4_klatka_schodowa_2.jpg?width=800',
     imageCaption: 'Alternatywy 4',
     content: `## Serial
-„Alternatywy 4” w reżyserii Stanisława Barei (zrealizowany w 1983, wyemitowany w 1986) opowiada o lokatorach nowego bloku przy fikcyjnej ulicy Alternatywy 4 i ich zmaganiach z gospodarzem domu.
+„Alternatywy 4” Stanisława Barei zrealizowano w 1983 roku, ale na antenę trafił dopiero w 1986. Trzy lata na półce wynikały z tego, że portret społeczeństwa, jaki dawał, był dla władz zbyt celny.
 
-## Stanisław Anioł
-Despotycznego, koniunkturalnego gospodarza zagrał Roman Wilhelmi – to jedna z najsłynniejszych ról w historii polskiego serialu.
+## Blok jako Polska
+Treścią są zmagania lokatorów nowego bloku z gospodarzem Stanisławem Aniołem, granym przez Romana Wilhelmiego. Anioł – drobny funkcjonariusz z ambicjami – zamienia budynek w państwo w miniaturze, z donosami, przywilejami i regulaminem na każdą okazję.
 
-## Satyra
-Serial to gorzka, absurdalna satyra na realia PRL: kombinatorstwo, kolejki, układy i wszechobecną biurokrację.
+## Przekrój społeczny
+Wśród mieszkańców są inżynier, docent, milicjant, prywaciarz, artysta i emerytka. Bareja zbudował z nich zbiorowy portret PRL, w którym każdy kombinuje na swoją miarę, a wspólnota powstaje dopiero wtedy, gdy trzeba się przeciw komuś zjednoczyć.
 
-## Cenzura
-Emisję opóźniono o kilka lat ze względu na wymowę – serial trafił na ekrany dopiero w 1986/87.
-
-## Postacie
-Galeria sąsiadów stanowi barwny przekrój całego społeczeństwa PRL.
-
-## Znaczenie
-Obok „Misia” to sztandarowe dzieło „kina Barei” i źródło niezliczonych, do dziś cytowanych tekstów.`,
-    trivia: ['Emisję serialu opóźniono o kilka lat ze względu na satyryczną wymowę.', 'Rola Stanisława Anioła (Roman Wilhelmi) to jedna z ikon polskiego serialu.'],
+## Trwałość
+Serial jest dziś jednym z najczęściej cytowanych obrazów epoki. Jego siła polega na tym, że opisuje mechanizm, a nie tylko realia – dlatego pozostaje czytelny także dla widzów, którzy PRL nie pamiętają.`,
+    trivia: [
+      'Serial nakręcono w 1983 roku, a wyemitowano dopiero w 1986 – trzy lata leżał na półce.',
+      'Gospodarz Stanisław Anioł zamienia blok w państwo w miniaturze, z donosami i regulaminem na każdą okazję.',
+    ],
     resources: [
       {
         id: 'a4-yt',
@@ -23752,23 +23740,20 @@ Obok „Misia” to sztandarowe dzieło „kina Barei” i źródło niezliczony
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/00_Dezerter_2025.jpg?width=800',
     imageCaption: 'Dezerter',
     content: `## Zespół
-Dezerter powstał w 1981 w Warszawie, początkowo pod nazwą SS-20. Szybko stał się jednym z najważniejszych polskich zespołów punkowych.
+Dezerter powstał na początku lat 80. w Warszawie i stał się najważniejszym polskim zespołem punkowym. Początkowo działał pod nazwą SS-20, zmienioną po interwencji władz – oryginalna była nazwą radzieckiej rakiety.
 
-## Skład
-Trzon grupy tworzyli Robert „Robal” Matera, Krzysztof Grabowski i Dariusz „Stepa” Stepnowski.
+## Muzyka i teksty
+Grali szybko, krótko i surowo, a teksty były wprost polityczne: o kłamstwie propagandy, o wojsku, o beznadziei życia w kraju bez perspektyw. Nie stosowali aluzji, którymi posługiwała się estrada.
 
-## Ku przyszłości
-W 1983 nagrali EP-kę „Ku przyszłości” (znaną też jako „Spytaj milicjanta”); spośród 12 zgłoszonych utworów cenzura dopuściła tylko cztery.
+## Jarocin i drugi obieg
+Festiwal w Jarocinie dał im scenę, a kasety magnetofonowe – obieg. Nagrania kopiowano prywatnie i wymieniano, całkowicie poza państwową dystrybucją. Był to muzyczny odpowiednik drugiego obiegu wydawniczego.
 
-## Bunt
-Bezkompromisowe, antysystemowe teksty czyniły z zespołu autentyczny głos młodzieżowego buntu schyłkowej dekady PRL.
-
-## Jarocin
-Dezerter był jednym z czołowych wykonawców festiwalu w Jarocinie – mekki polskiego punka.
-
-## Znaczenie
-To legenda polskiej sceny punk/hardcore, aktywna do dziś, inspiracja dla kolejnych pokoleń.`,
-    trivia: ['Początkowo zespół nazywał się SS-20 – od radzieckiej rakiety balistycznej.', 'Z 12 zgłoszonych utworów cenzura dopuściła na EP-kę tylko cztery.'],
+## Niezależność
+Dezerter pozostał zespołem niezależnym także po 1989 roku, nie wchodząc w obieg komercyjny. To rzadki przypadek grupy, dla której formuła sceny niezależnej nie była etapem, lecz trwałym wyborem.`,
+    trivia: [
+      'Pierwotna nazwa zespołu, SS-20, była nazwą radzieckiej rakiety i wymusiła zmianę po interwencji władz.',
+      'Nagrania krążyły na kopiowanych kasetach – muzyczny odpowiednik drugiego obiegu wydawniczego.',
+    ],
     resources: [
       {
         id: 'dz-yt',
@@ -23863,23 +23848,20 @@ Premiera w 1960 zbiegła się z obchodami 550. rocznicy bitwy i milenijną atmos
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Polski_Fiat_125p_Taxi_Zmiennicy_%28MSP16%29.jpg?width=800',
     imageCaption: 'Zmiennicy',
     content: `## Serial
-„Zmiennicy” w reżyserii Stanisława Barei (zrealizowany w 1986, emitowany 1987/88) opowiada o dwójce kierowców prowadzących na zmianę tę samą taksówkę.
+„Zmiennicy” to ostatni serial Stanisława Barei, emitowany na przełomie 1987 i 1988 roku. Tytuł roboczy brzmiał „Zawód taksówkarz” i dobrze oddawał punkt wyjścia.
 
-## Bohaterowie
-Jacek (Mieczysław Hryniewicz) i przebrana za mężczyznę Kasia (Ewa Błaszczyk) trafiają w wir absurdalnych perypetii.
+## Fabuła
+Bohaterką jest dziewczyna, która przebiera się za mężczyznę, żeby dostać pracę taksówkarza. Zawód pozwala jej – i widzowi – przejechać przez całą Warszawę i zajrzeć do wszystkich środowisk naraz.
 
-## Satyra
-Podobnie jak „Alternatywy 4”, serial to kopalnia obserwacji z życia schyłkowego PRL: kombinatorstwo, waluta, drobne cwaniactwo.
+## Taksówka jako pretekst
+Konstrukcja z pasażerami zmieniającymi się w każdym odcinku pozwalała Barei robić to, co umiał najlepiej: pokazywać krótkie scenki z urzędów, sklepów i mieszkań, w których absurd jest normą, a język urzędowy narzędziem komedii.
 
-## Cytaty
-Dialogi obfitują w kultowe teksty, wielokrotnie później przywoływane przez fanów „kina Barei”.
-
-## Realizacja
-Serial powstawał w trudnych warunkach połowy lat 80.; zdjęcia ukończono jesienią 1986.
-
-## Znaczenie
-„Zmiennicy” to jeden z ostatnich i najbardziej lubianych seriali Stanisława Barei.`,
-    trivia: ['Bohaterka Kasia przez większość serialu udaje mężczyznę – kierowcę taksówki.', 'To jeden z ostatnich seriali Stanisława Barei, mistrza satyry na PRL.'],
+## Schyłek
+Serial powstał u samego końca PRL, gdy cenzura już słabła, a system tracił impet. Jest przez to nie tylko satyrą, ale i zapisem ostatnich lat epoki, wykonanym przez reżysera, który obserwował ją dłużej niż ktokolwiek inny w polskim kinie.`,
+    trivia: [
+      'Tytuł roboczy brzmiał „Zawód taksówkarz”.',
+      'Był to ostatni serial Barei, powstały u samego schyłku PRL.',
+    ],
     resources: [
       {
         id: 'zm-yt',
@@ -23919,24 +23901,21 @@ Serial powstawał w trudnych warunkach połowy lat 80.; zdjęcia ukończono jesi
     summary: 'Wokalistka rockowo-popowa, która przebojem „Dmuchawce, latawce, wiatr” (1983, z Budką Suflera) zdobyła ogromną popularność.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Urszula-2a.jpg?width=800',
     imageCaption: 'Urszula (Urszula Kasprzak) – wokalistka rockowo-popowa.',
-    content: `## Sylwetka
-Urszula (Urszula Kasprzak, ur. 1960) to jedna z najpopularniejszych polskich wokalistek rockowo-popowych lat 80.
+    content: `## Debiut
+Urszula Kasprzak (ur. 1960) zwróciła na siebie uwagę jako nastolatka, wygrywając w 1977 roku główną nagrodę Festiwalu Piosenki Radzieckiej w Zielonej Górze – imprezy, która mimo nazwy była jednym z niewielu ogólnopolskich konkursów wokalnych.
 
-## Debiut
-Karierę rozwinęła u boku zespołu Budka Suflera, z którym nagrała swoje najważniejsze wczesne przeboje.
+## Budka Suflera
+Od 1982 roku koncertowała z Budką Suflera. Współpraca z Romualdem Lipką przyniosła przeboje, które zdefiniowały jej pozycję: „Dmuchawce, latawce, wiatr”, „Malinowy król” i „Luz blues”.
 
-## Dmuchawce, latawce, wiatr
-Przebój „Dmuchawce, latawce, wiatr” (1983), z muzyką Romualda Lipki, stał się jej wizytówką i klasykiem polskiej piosenki.
+## Rock kobiecy
+Wraz z Izabelą Trojanowską należała do pierwszych polskich wokalistek rockowych. Jej wizerunek – chłopięcy, bez estradowej ozdobności – był w polskiej muzyce nowy i szybko znalazł naśladowczynie.
 
-## Kolejne przeboje
-W dorobku ma też m.in. „Konik na biegunach” i „Malinowy król” – utwory łączące rock z melodyjnym popem.
-
-## Wizerunek
-Energetyczna scena i charakterystyczny głos uczyniły z niej gwiazdę estrady schyłkowego PRL.
-
-## Znaczenie
-Urszula pozostaje jedną z ikon polskiej muzyki rozrywkowej, a jej przeboje z lat 80. są wciąż popularne.`,
-    trivia: ['Największe wczesne przeboje nagrała wspólnie z zespołem Budka Suflera.', 'Muzykę do „Dmuchawców…” skomponował Romuald Lipko z Budki Suflera.'],
+## Lata 80.
+Popularność Urszuli przypadła na dekadę, w której rock stał się główną muzyką młodzieżową, a Program Trzeci i festiwale w Jarocinie oraz Opolu decydowały o zasięgu. Jej piosenki należą do najczęściej granych utworów tamtego okresu.`,
+    trivia: [
+      'Karierę zaczęła jako nastolatka, wygrywając festiwal w Zielonej Górze w 1977 roku.',
+      'Wraz z Izabelą Trojanowską należała do pierwszych polskich wokalistek rockowych.',
+    ],
     resources: [
       {
         id: 'ur-yt',
@@ -24471,24 +24450,21 @@ Oba modele produkowano przez dziesięciolecia w niewiele zmienionej postaci. Wyn
     summary: 'Monumentalna ekranizacja powieści Marii Dąbrowskiej (1975, reż. Jerzy Antczak); saga rodziny Niechciców, nominowana do Oscara.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Noce%20i%20dnie%20%28English%20title%20%E2%80%93%20Nights%20and%20Days%2C%20opening%20credits%20title%29.jpg?width=800',
     imageCaption: 'Noce i dnie',
-    content: `## Film
-„Noce i dnie” (1975) w reżyserii Jerzego Antczaka to monumentalna ekranizacja powieści Marii Dąbrowskiej.
+    content: `## Film i serial
+„Noce i dnie” Jerzego Antczaka z 1975 roku to adaptacja powieści Marii Dąbrowskiej. Obok wersji kinowej powstał dwa lata później serial telewizyjny, obszerniejszy i przez wielu widzów uważany za wersję właściwą.
 
-## Fabuła
-To saga rodziny Niechciców na przełomie XIX i XX wieku, osnuta wokół dziejów małżeństwa Barbary i Bogumiła na tle Polski pod zaborami.
+## Saga
+Opowieść obejmuje losy dwóch pokoleń rodziny Niechciców na tle Polski pod zaborami. Osią jest małżeństwo Barbary i Bogumiła, granych przez Jadwigę Barańską i Jerzego Bińczyckiego.
 
-## Barbara i Bogumił
-Jadwiga Barańska i Jerzy Bińczycki stworzyli jedną z najsłynniejszych i najbardziej wzruszających par w historii polskiego kina.
+## Barbara Niechcicowa
+Postać Barbary – kobiety nieustannie niezadowolonej, tęskniącej za czymś, czego sama nie potrafi nazwać – należy do najbardziej pamiętanych w polskim kinie. Film unika idealizacji: pokazuje małżeństwo jako trud, a nie romans.
 
-## Rozmach
-Produkcja trwała blisko dwa i pół roku; film liczył ponad cztery godziny i był pokazywany w dwóch częściach.
-
-## Nagrody
-Obraz otrzymał nominację do Oscara (1977), a Jadwiga Barańska – Srebrnego Niedźwiedzia na festiwalu w Berlinie.
-
-## Znaczenie
-„Noce i dnie” to jedno z arcydzieł polskiego kina i wzorcowa adaptacja wielkiej literatury.`,
-    trivia: ['Film był nominowany do Oscara dla najlepszego filmu nieanglojęzycznego (1977).', 'Jadwiga Barańska za rolę Barbary otrzymała Srebrnego Niedźwiedzia w Berlinie.'],
+## Uznanie
+Obraz otrzymał nominację do Oscara i był jedną z największych polskich produkcji swoich czasów. Ekranizacje klasyki literackiej należały w PRL do przedsięwzięć chętnie finansowanych: były prestiżowe, kosztowne i bezpieczne cenzuralnie.`,
+    trivia: [
+      'Obok wersji kinowej powstał serial telewizyjny, przez wielu widzów uważany za wersję właściwą.',
+      'Film otrzymał nominację do Oscara w kategorii filmu nieanglojęzycznego.',
+    ],
     resources: [
       {
         id: 'nd-yt',
@@ -24708,23 +24684,20 @@ Dziś meblościanka jest skrótem opisującym całą estetykę epoki: praktyczn�
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Scena%20z%20filmu%20Znachor.jpg?width=800',
     imageCaption: 'Znachor',
     content: `## Film
-„Znachor” (1982) w reżyserii Jerzego Hoffmana to jeden z najsłynniejszych polskich melodramatów, ekranizacja przedwojennej powieści Tadeusza Dołęgi-Mostowicza.
+„Znachor” Jerzego Hoffmana, zrealizowany w 1981 roku i pokazany rok później, to melodramat według powieści Tadeusza Dołęgi-Mostowicza z 1937 roku. Była to druga ekranizacja tej książki – pierwsza powstała jeszcze przed wojną.
 
 ## Fabuła
-Wybitny chirurg, profesor Rafał Wilczur, po brutalnym napadzie traci pamięć i jako wiejski „znachor” Antoni Kosiba ratuje ludzkie życie.
+Wybitny chirurg profesor Wilczur traci pamięć po napadzie i przez lata żyje jako wiejski znachor, lecząc ludzi bez wiedzy o własnej przeszłości. Rolę zagrał Jerzy Bińczycki, a partnerowała mu Anna Dymna.
 
-## Rola
-Jerzy Bińczycki w roli Wilczura stworzył jedną z najbardziej wzruszających kreacji polskiego kina.
+## Fenomen frekwencyjny
+Film obejrzały miliony widzów i przez lata należał do najchętniej oglądanych polskich produkcji. Trafił w moment, w którym publiczność potrzebowała opowieści poruszającej, a przy tym całkowicie wolnej od bieżącej polityki.
 
-## Kultowe sceny
-Scena rozprawy sądowej z okrzykiem „To jest profesor Rafał Wilczur!” oraz finał to klasyka filmowego wzruszenia.
-
-## Fenomen
-Film cieszył się ogromną popularnością i należy do najczęściej powtarzanych w telewizji produkcji.
-
-## Znaczenie
-„Znachor” to kwintesencja polskiego melodramatu i film-legenda kilku pokoleń.`,
-    trivia: ['Film to ekranizacja przedwojennej powieści Tadeusza Dołęgi-Mostowicza.', 'Scena rozprawy „To jest profesor Rafał Wilczur!” należy do najsłynniejszych w polskim kinie.'],
+## Dlaczego działa
+Melodramat o utraconej tożsamości i o krzywdzie naprawionej po latach jest konstrukcją uniwersalną. W PRL takie kino miało dodatkową zaletę: nie wymagało od widza czytania między wierszami – można było po prostu je przeżyć.`,
+    trivia: [
+      'Była to druga ekranizacja powieści – pierwsza powstała jeszcze przed wojną, w 1937 roku.',
+      'Film należał przez lata do najchętniej oglądanych polskich produkcji.',
+    ],
     resources: [
       {
         id: 'zn-yt',
@@ -24939,23 +24912,20 @@ Banaszak należy do wykonawców, którzy zbudowali pozycję poza głównym obieg
     yearStart: 1977,
     summary: 'Rozrachunkowy dramat polityczny Andrzeja Wajdy (1977) o studentce kręcącej film o zapomnianym przodowniku pracy Mateuszu Birkucie; demaskacja propagandy stalinowskiej.',
     content: `## Film
-„Człowiek z marmuru” (1977) w reżyserii Andrzeja Wajdy to rozrachunkowy dramat polityczny według scenariusza Aleksandra Ścibora-Rylskiego.
+„Człowiek z marmuru” Andrzeja Wajdy powstał w 1976 roku, a na ekrany wszedł rok później. Scenariusz Aleksandra Ścibora-Rylskiego czekał na realizację od lat 60., bo władze konsekwentnie odmawiały zgody.
 
-## Fabuła
-Studentka szkoły filmowej Agnieszka kręci dokument o zapomnianym przodowniku pracy z lat 50. – murarzu Mateuszu Birkucie.
+## Konstrukcja
+Studentka szkoły filmowej Agnieszka, grana przez Krystynę Jandę, zbiera materiały do dokumentu o przodowniku pracy Mateuszu Birkucie – postaci fikcyjnej, wzorowanej na murarzu Piotrze Ożańskim. Śledztwo dziennikarskie odsłania kolejne warstwy przemilczeń.
 
-## Birkut
-Jerzy Radziwiłowicz zagrał robotnika wyniesionego, a potem cynicznie porzuconego przez stalinowską propagandę.
+## Rozliczenie ze stalinizmem
+Film pokazuje, jak system tworzy bohatera, a potem go niszczy, gdy przestaje być użyteczny. Sceny kronikalne z lat 50. Wajda zrealizował tak, by były nieodróżnialne od autentycznych – co czyniło krytykę propagandy tym dotkliwszą.
 
-## Rozrachunek
-Film bezlitośnie demaskuje mechanizmy propagandy sukcesu i kult przodowników pracy epoki stalinowskiej.
-
-## Cannes
-Obraz pokazano poza konkursem na festiwalu w Cannes, gdzie otrzymał nagrodę FIPRESCI.
-
-## Znaczenie
-To jeden z najważniejszych politycznych filmów PRL i zapowiedź późniejszego „Człowieka z żelaza”.`,
-    trivia: ['Rolę reżyserki-studentki Agnieszki zagrała debiutująca Krystyna Janda.', 'Film demaskował propagandę i kult przodowników pracy epoki stalinowskiej.'],
+## Kłopoty
+Film dopuszczono do kin w ograniczonej liczbie kopii, bez reklamy i bez zgody na wyjazd na festiwale. Mimo to widzowie stali w kolejkach, a obraz stał się jednym z najważniejszych dzieł kina moralnego niepokoju.`,
+    trivia: [
+      'Scenariusz czekał na realizację kilkanaście lat, bo władze odmawiały zgody.',
+      'Film wypuszczono w ograniczonej liczbie kopii, bez reklamy – a mimo to ustawiały się kolejki.',
+    ],
     resources: [
       {
         id: 'czm-yt',
@@ -25000,24 +24970,21 @@ To jeden z najważniejszych politycznych filmów PRL i zapowiedź późniejszego
     tags: ['film', 'kino', 'solidarność', 'polityka', 'opozycja'],
     yearStart: 1981,
     summary: 'Kontynuacja „Człowieka z marmuru” (1981, reż. Wajda); najważniejszy film fabularny o Sierpniu \'80 i Solidarności, nagrodzony Złotą Palmą w Cannes.',
-    content: `## Film
-„Człowiek z żelaza” (1981) w reżyserii Andrzeja Wajdy to kontynuacja „Człowieka z marmuru” i najważniejszy film fabularny o narodzinach Solidarności.
+    content: `## Kontynuacja
+„Człowiek z żelaza” Andrzeja Wajdy powstał w 1981 roku jako kontynuacja „Człowieka z marmuru”. Akcja toczy się w sierpniu 1980 roku, w czasie strajku w Stoczni Gdańskiej.
 
 ## Fabuła
-Na tle strajku w Stoczni Gdańskiej w 1980 roku splatają się losy syna Birkuta oraz dziennikarza wysłanego, by go skompromitować.
+Dziennikarz Winkel, grany przez Mariana Opanię, dostaje zadanie przygotowania materiału kompromitującego działacza komitetu strajkowego Macieja Tomczyka – syna Birkuta z poprzedniego filmu. W trakcie pracy sam zmienia stronę.
 
-## Dokument i fikcja
-Film łączy fabułę z autentycznymi materiałami z Sierpnia '80; na ekranie pojawia się m.in. Lech Wałęsa.
+## Film o teraźniejszości
+Powstał w trakcie wydarzeń, które opisywał, z udziałem autentycznych uczestników strajku i zdjęciami kręconymi w stoczni. Jest to rzadki przypadek filmu fabularnego realizowanego równolegle do historii, którą przedstawia.
 
-## Złota Palma
-Obraz zdobył Złotą Palmę na festiwalu w Cannes w 1981 – najwyższy laur w historii polskiego filmu.
-
-## Fenomen
-Powstał na fali karnawału Solidarności; związkowcy sami zabiegali o jego szybką premierę i chronili przed cenzurą.
-
-## Znaczenie
-To filmowy pomnik Sierpnia '80 i symbol Roku Solidarności.`,
-    trivia: ['Zdobył Złotą Palmę w Cannes w 1981 – najwyższy laur dla polskiego filmu.', 'W filmie wykorzystano autentyczne materiały z Sierpnia \'80 i występ Lecha Wałęsy.'],
+## Złota Palma i zakaz
+Film zdobył Złotą Palmę w Cannes w 1981 roku. Kilka miesięcy później wprowadzono stan wojenny, a obraz zdjęto z ekranów na resztę dekady. Nagroda i zakaz w odstępie kilku miesięcy dobrze pokazują, jak gwałtownie zamknęło się wtedy pole wolności.`,
+    trivia: [
+      'Film kręcono w trakcie wydarzeń, które opisuje, z udziałem autentycznych uczestników strajku.',
+      'Złota Palma w Cannes w 1981 roku, a kilka miesięcy później zdjęcie z ekranów po wprowadzeniu stanu wojennego.',
+    ],
     resources: [
       {
         id: 'czz-yt',
@@ -25057,24 +25024,21 @@ To filmowy pomnik Sierpnia '80 i symbol Roku Solidarności.`,
     summary: 'Jedna z najwybitniejszych polskich aktorek; zadebiutowała w „Człowieku z marmuru” (1977), a rolą w „Przesłuchaniu” zdobyła nagrodę w Cannes.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krystyna%20Janda%20by%20Foksal.jpg?width=800',
     imageCaption: 'Krystyna Janda – aktorka teatralna i filmowa.',
-    content: `## Sylwetka
-Krystyna Janda (ur. 1952) to jedna z najwybitniejszych polskich aktorek teatralnych i filmowych, symbol artystycznej niezależności.
+    content: `## Debiut
+Krystyna Janda (ur. 1952) zadebiutowała w kinie główną rolą Agnieszki w „Człowieku z marmuru” Andrzeja Wajdy – jeszcze w trakcie studiów. Rola nieustępliwej, konfrontacyjnej reżyserki od razu ustawiła jej pozycję.
 
-## Debiut
-Zadebiutowała pełną charyzmy rolą Agnieszki w „Człowieku z marmuru” (1977) Andrzeja Wajdy.
+## Role
+Zagrała w „Człowieku z żelaza”, „Bez znieczulenia” oraz w „Przesłuchaniu” Ryszarda Bugajskiego – filmie o kobiecie torturowanej w więzieniu stalinowskim, zatrzymanym przez cenzurę na całą dekadę i pokazanym dopiero pod koniec lat 80.
 
-## Wielkie role
-Zagrała także w „Człowieku z żelaza”, a przede wszystkim w „Przesłuchaniu” (1982) Ryszarda Bugajskiego – porażającej roli więźniarki UB.
+## Typ aktorski
+Wprowadziła do polskiego kina bohaterkę silną, uparta i pozbawioną uległości – typ wcześniej praktycznie nieobecny. Grała też w teatrze i w produkcjach zagranicznych, m.in. u Andrzeja Żuławskiego.
 
-## Przesłuchanie
-Film był „półkownikiem” zatrzymanym przez cenzurę; jego premiera nastąpiła dopiero u schyłku PRL, a Janda otrzymała nagrodę aktorską w Cannes.
-
-## Teatr
-Wybitna aktorka sceniczna, z czasem twórczyni i dyrektorka własnego teatru.
-
-## Znaczenie
-Janda to ikona polskiego aktorstwa i jedna z najsilniejszych osobowości kultury.`,
-    trivia: ['Za rolę w „Przesłuchaniu” otrzymała nagrodę aktorską na festiwalu w Cannes.', '„Przesłuchanie” (1982) było „półkownikiem” – premiera dopiero u schyłku PRL.'],
+## Poza ekranem
+Śpiewała, pisała felietony i książki, a po 1989 roku stworzyła własne teatry w Warszawie. Należy do nielicznych artystów, którzy zbudowali silną pozycję zarówno w PRL, jak i po jego końcu.`,
+    trivia: [
+      'Zadebiutowała główną rolą u Wajdy jeszcze w trakcie studiów aktorskich.',
+      'Jej „Przesłuchanie” zatrzymano na całą dekadę i pokazano dopiero pod koniec lat 80.',
+    ],
     resources: [
       {
         id: 'kj-yt',
@@ -25311,24 +25275,21 @@ Serial dotknął spraw wcześniej pomijanych: szmalcownictwa, handlu, moralnej d
     summary: 'Wokalista i perkusista o soulowej, jazzującej barwie głosu; autor przebojów „C\'est la vie” i „Byłaś serca biciem”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej%20Zaucha%20%28lipiec%201991%29.jpg?width=800',
     imageCaption: 'Andrzej Zaucha – wokalista i perkusista.',
-    content: `## Sylwetka
-Andrzej Zaucha (1949–1991) to wokalista i perkusista o soulowej, jazzującej barwie głosu, jeden z najbardziej muzykalnych polskich artystów.
+    content: `## Muzyk
+Andrzej Zaucha (1949–1991) był wokalistą, perkusistą i saksofonistą, samoukiem o niezwykłej swobodzie rytmicznej. Śpiewał muzykę z pogranicza jazzu, soulu i piosenki rozrywkowej – gatunków, które w polskiej estradzie rzadko się spotykały.
 
 ## Głos
-Ceniony był za swing, feeling i niezwykłe poczucie rytmu; uchodził za jednego z najlepszych rodzimych wokalistów.
+Jego sposób śpiewania, oparty na frazowaniu jazzowym i improwizacji, odróżniał go od wykonawców festiwalowych. Współpracował z zespołem Anawa i z Ewą Bem, nagrywał też muzykę do filmów i seriali.
 
 ## Przeboje
-W dorobku ma m.in. „C'est la vie – Paryż z pocztówki”, „Byłaś serca biciem” i „Wielką wodę”.
+Najbardziej znane są „Bądź moim natchnieniem” i „C'est la vie, Paryż z pocztówki”. Śpiewał też w musicalach i występował jako aktor, co przy jego warunkach scenicznych było naturalnym rozwinięciem kariery.
 
-## Wielka woda
-Zaśpiewał tytułową piosenkę do serialu „Wielka woda”, która stała się jednym z jego znaków firmowych.
-
-## Estrada i teatr
-Występował na estradzie i w teatrze, współpracując m.in. ze środowiskiem krakowskiej Piwnicy pod Baranami.
-
-## Znaczenie
-Zaucha to jeden z najwybitniejszych polskich wokalistów; zginął tragicznie w 1991 roku.`,
-    trivia: ['Słynął z soulowej, jazzującej barwy głosu i doskonałego poczucia rytmu.', 'Zaśpiewał tytułową piosenkę do serialu „Wielka woda”.'],
+## Śmierć
+Został zastrzelony w Krakowie w 1991 roku wraz z Zuzanną Leśniak przez jej byłego męża. Zbrodnia wstrząsnęła opinią publiczną i przerwała karierę artysty u szczytu możliwości.`,
+    trivia: [
+      'Był muzycznym samoukiem, a jego frazowanie wywodziło się z jazzu, nie z estrady.',
+      'Zginął zastrzelony w Krakowie w 1991 roku – zbrodnia wstrząsnęła wtedy opinią publiczną.',
+    ],
     resources: [
       {
         id: 'az-yt',
@@ -28843,23 +28804,20 @@ Aktorka tej popularności w kraju zachodnim byłaby gwiazdą przemysłu filmoweg
     yearEnd: 1989,
     summary: 'Tradycyjne święto plonów, w PRL przekształcone w państwową uroczystość; dożynki centralne z wieńcem, chlebem i władzami partyjnymi.',
     content: `## Święto plonów
-Dożynki to tradycyjne święto zakończenia żniw, które w PRL przekształcono w wielką państwową uroczystość.
+Dożynki są tradycyjnym świętem zakończenia żniw, obchodzonym w Polsce od stuleci. W PRL państwo przejęło tę tradycję i nadało jej formę uroczystości państwowej z udziałem najwyższych władz.
 
 ## Dożynki centralne
-Organizowano huczne dożynki centralne z udziałem najwyższych władz partyjnych i państwowych.
+Od lat 50. organizowano dożynki centralne, na Stadionie Dziesięciolecia w Warszawie albo w kolejnych miastach wojewódzkich. Były to widowiska masowe: pochody, wieńce z kłosów, występy zespołów ludowych i przemówienia o sukcesach rolnictwa.
 
-## Wieniec i chleb
-Delegacje wsi wręczały przywódcom dożynkowy wieniec i bochen chleba z tegorocznego zboża.
+## Dwuznaczność
+Święto rolników organizowało państwo, które jednocześnie prowadziło kolektywizację, utrzymywało obowiązkowe dostawy i traktowało gospodarstwa indywidualne jako przeżytek. Wieś przyjmowała honory, nie dostając tego, o co naprawdę chodziło – swobody gospodarowania.
 
-## Propaganda
-Święto pokazywano jako triumf socjalistycznego rolnictwa i sojuszu robotniczo-chłopskiego.
-
-## Ludowość
-Barwne stroje ludowe, korowody i występy zespołów folklorystycznych nadawały im widowiskowy charakter.
-
-## Znaczenie
-To charakterystyczne dla epoki połączenie ludowej tradycji z państwową propagandą.`,
-    trivia: ['Delegacje wsi wręczały władzom dożynkowy wieniec i bochen chleba.', 'Dożynki centralne były wielką państwową uroczystością z udziałem władz.'],
+## Wieś i tradycja
+Równolegle trwały dożynki parafialne, związane z Kościołem i lokalną wspólnotą. To one, a nie centralne widowiska, zachowały ciągłość obrzędu – i przetrwały po 1989 roku, gdy państwowa forma zniknęła.`,
+    trivia: [
+      'Dożynki centralne organizowano m.in. na Stadionie Dziesięciolecia, jako widowisko masowe z przemówieniami.',
+      'Święto rolników urządzało państwo, które jednocześnie utrzymywało obowiązkowe dostawy płodów rolnych.',
+    ],
     resources: [
       {
         id: 'dozynki-pkf',
@@ -29514,24 +29472,21 @@ Jej pozycja pokazuje mechanizm typowy dla PRL: rozpoznawalność była powszechn
     yearStart: 1955,
     yearEnd: 1989,
     summary: 'Noc sylwestrową spędzano na balach lub przed telewizorem; TV nadawała specjalny program rozrywkowy z kabaretem, piosenkami i skeczami.',
-    content: `## Noc sylwestrowa
-Sylwestra spędzano na domowych i zakładowych balach albo przed telewizorem w rodzinnym gronie.
+    content: `## Wieczór przed telewizorem
+Sylwestrowy program telewizyjny był w PRL jednym z najważniejszych wydarzeń roku. Przy dwóch programach telewizji i braku alternatywy oglądała go w praktyce cała Polska naraz.
 
-## Program TV
-Telewizja nadawała specjalny sylwestrowy program rozrywkowy z kabaretem, piosenkami i skeczami.
+## Formuła
+Program łączył estradę, kabaret, skecze i muzykę taneczną, prowadzony przez najpopularniejszych konferansjerów epoki. Realizowano go w studiu, z publicznością, a przygotowania trwały miesiącami.
 
-## Kabaret i gwiazdy
-Występowały gwiazdy estrady i kabaretu; program bywał jednym z niewielu „luksusów” wieczoru.
+## Co wolno było
+Sylwester był jedną z nielicznych okazji, gdy satyra dostawała więcej miejsca. Żarty o kolejkach, zaopatrzeniu i biurokracji przechodziły łatwiej, bo święto usprawiedliwiało lekki ton – granicą pozostawała jednak polityka.
 
-## Bale
-Na balach sylwestrowych królowały dancing, alkohol zdobyty „na okazję” i papierowe serpentyny.
-
-## Toast o północy
-O północy wznoszono toast, składano życzenia, a czasem puszczano rzadkie wówczas fajerwerki.
-
-## Znaczenie
-Sylwestrowy program TV był jednym z nielicznych momentów odprężenia i rozrywki podanej „od państwa”.`,
-    trivia: ['Telewizja nadawała specjalny sylwestrowy program z kabaretem i piosenkami.', 'Na bale gromadzono alkohol i smakołyki zdobywane „na okazję”.'],
+## Wspólne doświadczenie
+Program tworzył rzadkie w PRL poczucie jednoczesności: te same żarty, te same piosenki i te same twarze w każdym mieszkaniu w kraju. Po 1989 roku, wraz z rozdrobnieniem rynku telewizyjnego, taka sytuacja przestała być możliwa.`,
+    trivia: [
+      'Przy dwóch programach telewizji sylwestrowy program oglądała w praktyce cała Polska naraz.',
+      'Święto usprawiedliwiało ostrzejszą satyrę – ale granicą pozostawała polityka.',
+    ],
     resources: [
       {
         id: 'sylwester-tv-pkf',
@@ -29863,24 +29818,21 @@ To najgłośniejszy polski „półkownik” i wstrząsające świadectwo stalin
     summary: 'Półkowniki to filmy, których rozpowszechnianie wstrzymała cenzura – kładziono je „na półkę”; najwięcej trafiło tam po wprowadzeniu stanu wojennego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Archiv_DIAF_%2802%29.JPG?width=800',
     imageCaption: 'Półkowniki',
-    content: `## Nazwa
-„Półkownik” to żartobliwe określenie filmu, którego rozpowszechnianie wstrzymano – dzieło trafiało „na półkę” zamiast na ekrany.
+    content: `## Skąd nazwa
+Półkownikami nazywano żartobliwie filmy zatrzymane przez cenzurę i odłożone – dosłownie – na półkę. Słowo powstało z gry na wyrazie pułkownik i oddawało ironiczny stosunek środowiska do tej praktyki.
 
-## Mechanizm
-O losie filmu decydowała komisja kolaudacyjna; wystarczyła jedna niewygodna scena lub sam kontekst polityczny, by wstrzymać premierę.
+## Kiedy
+Zjawisko istniało przez cały okres PRL, ale kulminacja przypadła na lata po wprowadzeniu stanu wojennego. Filmy zrealizowane w latach 1980–1981, w okresie legalnej Solidarności, po grudniu 1981 nie miały szans na premierę.
 
-## Po 13 grudnia
-Najwięcej filmów trafiło na półki po wprowadzeniu stanu wojennego, gdy zatrzymano niemal cały dorobek kina moralnego niepokoju.
+## Które
+Na półce znalazły się m.in. „Przesłuchanie” Ryszarda Bugajskiego, „Matka Królów” Janusza Zaorskiego, „Kobieta samotna” Agnieszki Holland i „Wielki bieg” Jerzego Domaradzkiego. Serial „Alternatywy 4” Barei czekał na emisję trzy lata.
 
-## Festiwal, który się nie odbył
-Gdański festiwal filmowy w 1982 roku został odwołany – filmy z tamtego rocznika pokazano publiczności dopiero po latach.
-
-## Drugi obieg
-Niektóre zatrzymane filmy krążyły nieoficjalnie na kasetach wideo, poza kontrolą władz.
-
-## Odwieszenie
-Większość półkowników trafiła na ekrany dopiero w 1989 roku i później.`,
-    trivia: ['Nazwa pochodzi od kładzenia taśmy filmowej „na półkę” zamiast do kin.', 'Festiwal filmowy w Gdańsku w 1982 roku w ogóle się nie odbył.', 'O dopuszczeniu filmu decydowała komisja kolaudacyjna.'],
+## Uwolnienie
+Większość zatrzymanych tytułów pokazano dopiero w drugiej połowie lat 80., gdy system tracił pewność siebie. Fala premier w latach 1987–1988 była sama w sobie sygnałem politycznym – władza przestawała wierzyć, że warto te filmy zatrzymywać.`,
+    trivia: [
+      'Nazwa to gra słów: film odłożony na półkę zostawał „półkownikiem”.',
+      'Fala premier zatrzymanych filmów w latach 1987–1988 była sama w sobie sygnałem, że system słabnie.',
+    ],
     resources: [
       {
         id: 'plk-nina1',
