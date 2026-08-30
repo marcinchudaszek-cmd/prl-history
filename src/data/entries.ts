@@ -13491,21 +13491,21 @@ Lady Pank to symbol komercyjnego sukcesu polskiego rocka lat 80., a jego przeboj
     summary: 'Jeden z najdłużej działających polskich zespołów rockowych, założony przez Romualda Lipko, znany z utworów „Jolka, Jolka” i „Cień wielkiej góry”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Budka_Suflera_02.jpg?width=800',
     imageCaption: 'Budka Suflera',
-    content: `## Powstanie
-Budka Suflera powstała w 1974 roku w Lublinie z inicjatywy Romualda Lipko i Krzysztofa Cugowskiego. Debiutancki singiel „Cień wielkiej góry” od razu zwrócił uwagę słuchaczy.
-
-## Brzmienie
-Zespół łączył hard rock z balladą i elementami bluesa. Mocny głos Krzysztofa Cugowskiego stał się znakiem rozpoznawczym grupy.
+    content: `## Zespół
+Budkę Suflera założyli w Lublinie w 1974 roku Romuald Lipko, Krzysztof Cugowski i Andrzej Ziółkowski. Przez skład przewinęło się z czasem ponad dwudziestu pięciu muzyków, ale to Lipko jako kompozytor decydował o brzmieniu.
 
 ## Przeboje
-Największe przeboje to „Jolka, Jolka pamiętasz”, „Jest taki samotny dom”, „Czas ołowiu”, „Takie tango”. Wiele z nich na stałe weszło do kanonu polskiej muzyki.
+Zespół nagrał utwory, które weszły do kanonu polskiej muzyki rozrywkowej: „Sen o dolinie”, „Cień wielkiej góry”, „Jolka, Jolka pamiętasz” i „Za ostatni grosz”.
 
-## Trwałość
-Budka Suflera przetrwała kolejne dekady, przechodząc zmiany składu, ale zachowując pozycję jednego z najpopularniejszych zespołów w kraju.
+## Rock w wersji przystępnej
+Grali rock melodyjny, oparty na mocnym wokalu i rozbudowanych aranżacjach. Ta formuła pozwalała funkcjonować jednocześnie w radiu i na koncertach – co w latach 70. i 80. nie było oczywiste.
 
-## Znaczenie
-Grupa to jeden z filarów polskiej muzyki rockowej, łączący ambitne brzmienie z masową popularnością na estradzie.`,
-    trivia: ['Zespół z Lublina, którego kompozytorem był Romuald Lipko.', 'Wypromował m.in. Urszulę i Izabelę Trojanowską.'],
+## Współpraca
+Lipko komponował także dla innych wykonawców, m.in. dla Urszuli i Izabeli Trojanowskiej. Budka Suflera funkcjonowała więc nie tylko jako zespół, ale i jako zaplecze kompozytorskie sporej części polskiej estrady lat 80.`,
+    trivia: [
+      'Przez skład zespołu przewinęło się ponad dwudziestu pięciu muzyków.',
+      'Romuald Lipko komponował także dla innych wykonawców, m.in. dla Urszuli i Izabeli Trojanowskiej.',
+    ],
     resources: [
       {
         id: 'bs-yt',
@@ -21145,21 +21145,21 @@ Bajm to klasyk polskiego popu i rocka; jego przeboje z lat 80. pozostają do dzi
     summary: 'Pionierski zespół muzyki elektronicznej i synthpopu w Polsce, kierowany przez Sławomira Łosowskiego, autor przeboju „Słodkiego miłego życia”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kombi_logo.svg?width=800',
     imageCaption: 'Kombi',
-    content: `## Powstanie
-Kombi (wcześniej Akcenty) ukształtowało się w Gdańsku, a jego liderem i twórcą brzmienia był klawiszowiec Sławomir Łosowski.
+    content: `## Zespół
+Kombi powstało w 1976 roku z przekształcenia zespołu Akcenty, założonego siedem lat wcześniej przez Sławomira Łosowskiego. Grupa pochodziła z Trójmiasta, a Łosowski był jej kompozytorem i klawiszowcem.
 
-## Brzmienie
-Zespół jako jeden z pierwszych w Polsce postawił na syntezatory i elektroniczne aranżacje, tworząc nowoczesny, taneczny synthpop wyróżniający się na tle rockowej sceny.
+## Od jazz-rocka do elektroniki
+Zaczynali od muzyki z pogranicza jazz-rocka, by na początku lat 80. przejść w stronę brzmienia opartego na syntezatorach. Kombi było jednym z pierwszych polskich zespołów, dla których instrument elektroniczny stał się podstawą, a nie ozdobnikiem.
 
 ## Przeboje
-Największe hity to „Słodkiego miłego życia”, „Czas relaksu”, „Pokolenie” i „Black and white”. Utwory te były stałym elementem Listy Przebojów Programu Trzeciego.
+Najbardziej znane są „Słodkiego miłego życia” i „Black and White”. Utwory instrumentalne zespołu wykorzystywano też jako sygnały i podkłady w telewizji, co dodatkowo je upowszechniło.
 
-## Nowoczesność
-Kombi wnosiło do polskiej muzyki estetykę zachodniego new romantic i electro-popu, co czyniło je zespołem nowatorskim w realiach PRL.
-
-## Znaczenie
-Kombi to prekursor polskiej muzyki elektronicznej; jego przeboje pozostają symbolem brzmienia lat 80.`,
-    trivia: ['Liderem zespołu był Sławomir Łosowski.', 'Ich brzmienie opierało się na syntezatorach.'],
+## Muzyka Młodej Generacji
+Zespół należał do nurtu określanego jako Muzyka Młodej Generacji – fali zespołów końca lat 70., które wprowadziły do polskiego rocka nowe brzmienia i wyprowadziły go poza schemat piosenki festiwalowej.`,
+    trivia: [
+      'Kombi było jednym z pierwszych polskich zespołów, dla których syntezator był podstawą brzmienia.',
+      'Utwory instrumentalne zespołu wykorzystywano jako sygnały i podkłady telewizyjne.',
+    ],
     resources: [
       {
         id: 'kombi-yt',
@@ -21718,24 +21718,21 @@ Villas to jeden z najwybitniejszych głosów w historii polskiej muzyki rozrywko
     summary: 'Czołowy zespół rockowy lat 80. z charyzmatyczną wokalistką Małgorzatą Ostrowską, autor przeboju „Przeżyj to sam”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Grzegorz%20Str%C3%B3%C5%BCniak%20zesp%C3%B3%C5%82%20Lombard.jpg?width=800',
     imageCaption: 'Lombard',
-    content: `## Powstanie
-Lombard powstał w 1981 roku w Poznaniu. Zespół tworzyli m.in. Grzegorz Stróżniak i charyzmatyczna wokalistka Małgorzata Ostrowska, której mocny głos stał się znakiem firmowym grupy.
-
-## Brzmienie
-Lombard łączył rock z nową falą oraz elementami reggae i popu, tworząc energetyczne, nowoczesne brzmienie lat 80.
+    content: `## Zespół
+Lombard powstał w 1981 roku w Poznaniu. Liderem był Grzegorz Stróżniak – kompozytor, aranżer i klawiszowiec, a charakterystyczny, wysoki wokal wniosła Małgorzata Ostrowska.
 
 ## Przeboje
-Największą sławę przyniósł przebój „Przeżyj to sam” (1982) – jeden z hymnów dekady. Popularne były też „Szklana pogoda” i „Adriatyk – ocean gorący”.
+Największą popularność przyniosły „Przeżyj to sam” i „Szklana pogoda”. Obie piosenki, powstałe w pierwszej połowie lat 80., publiczność odczytywała jako komentarz do nastrojów po stanie wojennym.
 
-## Małgorzata Ostrowska
-Wokalistka stała się jedną z najbardziej rozpoznawalnych kobiet polskiej sceny rockowej, łącząc siłę głosu z charyzmą sceniczną.
+## Brzmienie
+Zespół grał rock z mocną warstwą klawiszową i wyrazistą melodią, adresowany do szerokiej publiczności. Była to formuła pośrednia między estradą a sceną rockową – i właśnie dzięki temu docierał do obu.
 
-## Pozycja
-Lombard należał do czołówki polskiego rocka lat 80., regularnie obecny na Liście Przebojów Trójki i festiwalach.
-
-## Znaczenie
-Zespół pozostaje klasykiem polskiego rocka, a „Przeżyj to sam” – jednym z najbardziej rozpoznawalnych przebojów epoki.`,
-    trivia: ['Wokalistką zespołu była Małgorzata Ostrowska.', 'Grupa pochodzi z Poznania.'],
+## Skala
+Lombard nagrał kilkanaście płyt i zagrał kilka tysięcy koncertów w kraju i za granicą. Należy do zespołów, które przetrwały nie tylko dekadę swojej największej popularności, ale i zmianę ustroju.`,
+    trivia: [
+      '„Przeżyj to sam” i „Szklaną pogodę” odczytywano jako komentarz do nastrojów po stanie wojennym.',
+      'Zespół zagrał kilka tysięcy koncertów w kraju i za granicą.',
+    ],
     resources: [
       {
         id: 'lom-yt',
@@ -21887,24 +21884,21 @@ Skaldowie to jeden z najbardziej oryginalnych i cenionych zespołów polskiej mu
     summary: 'Jedna z najwybitniejszych polskich piosenkarek, zwana „pierwszą damą polskiej piosenki”, autorka przebojów „Powrócisz tu” i „Embarras”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Irena%20Santor.jpg?width=800',
     imageCaption: 'Irena Santor – „pierwsza dama polskiej piosenki”.',
-    content: `## Sylwetka
-Irena Santor (ur. 1934) to jedna z najwybitniejszych polskich piosenkarek, zwana „pierwszą damą polskiej piosenki”, o ciepłym, dojrzałym głosie i nienagannym warsztacie.
+    content: `## Mazowsze
+Irena Santor (ur. 1934) zaczynała jako solistka Państwowego Zespołu Ludowego Pieśni i Tańca „Mazowsze”, z którym śpiewała przez całe lata 50. Zespół był wtedy najważniejszą wizytówką kulturalną Polski za granicą.
 
-## Od Mazowsza do estrady
-Karierę zaczynała w Zespole „Mazowsze”, by w drugiej połowie lat 50. rozpocząć karierę solową i stać się gwiazdą polskiej estrady.
+## Kariera solowa
+Od 1959 roku występowała samodzielnie, przechodząc od repertuaru ludowego do piosenki estradowej. Wylansowała m.in. „Powrócisz tu”, „Tych lat nie odda nikt” i „Embarras”.
 
-## Przeboje
-Do najsłynniejszych należą „Powrócisz tu”, „Embarras”, „Tych lat nie odda nikt” i „Już nie ma dzikich plaż”. Jej repertuar to klasyka polskiej piosenki.
+## Sposób śpiewania
+Dysponowała głosem szkolonym i dykcją, dzięki której każde słowo tekstu było słyszalne – co przy piosence literackiej miało znaczenie decydujące. Ten warsztat uczynił ją wzorem dla kolejnych pokoleń wokalistek.
 
-## Festiwale
-Triumfowała na festiwalach w Opolu i Sopocie, reprezentowała polską piosenkę za granicą, ceniona za elegancję i muzykalność.
-
-## Pozycja
-Przez dziesięciolecia pozostawała wzorem interpretacji i kultury wykonawczej, autorytetem dla kolejnych pokoleń wokalistów.
-
-## Znaczenie
-Irena Santor to symbol najwyższej klasy polskiej piosenki estradowej – artystka, której nagrania weszły do narodowego kanonu.`,
-    trivia: ['Zaczynała jako solistka zespołu Mazowsze.', 'Jej „Powrócisz tu” należy do najbardziej znanych polskich piosenek.'],
+## Trwałość
+Śpiewała przez ponad pół wieku, a jej repertuar przetrwał zmianę ustroju i mód muzycznych. Należy do nielicznych artystek PRL, które nie musiały przebudowywać wizerunku, żeby pozostać w obiegu.`,
+    trivia: [
+      'Zaczynała jako solistka „Mazowsza”, najważniejszej wizytówki kulturalnej Polski za granicą.',
+      'Jej dykcja sprawiała, że każde słowo tekstu było słyszalne – przy piosence literackiej rzecz decydująca.',
+    ],
     resources: [
       {
         id: 'is-yt',
@@ -22122,23 +22116,20 @@ Cenzura miała z filmem problem, uznając go za „bełkot”; z czasem „Rejs�
     yearEnd: 1981,
     summary: 'Najsłynniejsza komedia Stanisława Barei – ikona „bareizmu”, bezlitośnie wyśmiewająca absurdy schyłkowego PRL.',
     content: `## Film
-„Miś” (1981) Stanisława Barei to jedna z najsłynniejszych polskich komedii – satyra na absurdy schyłkowego PRL, oparta na scenariuszu Barei i Stanisława Tyma.
+„Miś” Stanisława Barei z 1981 roku, napisany wspólnie ze Stanisławem Tymem, jest najbardziej znaną polską komedią o absurdach PRL. Tym zagrał główną rolę Ryszarda Ochódzkiego, prezesa klubu sportowego „Tęcza”.
 
-## Fabuła
-Prezes klubu sportowego „Tęcza” Ryszard Ochódzki (Stanisław Tym) wikła się w pokrętne intrygi wokół paszportu i pieniędzy, w świecie pełnym absurdów i niedoborów.
+## Intryga
+Ochódzki musi uniemożliwić byłej żonie dostęp do wspólnego konta w Londynie, więc szuka sobowtóra i wyrabia mu paszport. Fabuła jest jednak tylko szkieletem, na którym Bareja zawiesił kilkadziesiąt scen z codzienności.
 
-## Bareizm
-Film stał się ikoną „bareizmu” – kina, które z groteską i precyzją portretowało absurdy systemu: kolejki, biurokratyczny bełkot i pozorność oficjalnego świata.
+## Metoda
+Właściwą treścią są epizody: sklep bez mięsa, kolejka, budowa, milicja, absurdalne przepisy i język urzędowy doprowadzony do granic sensu. Bareja nie budował dowcipu, lecz notował rzeczywistość i pokazywał ją bez komentarza.
 
-## Kultowe kwestie
-Padają tu kwestie, które weszły do języka, m.in. „Nie mamy pańskiego płaszcza i co pan nam zrobi?”.
-
-## Cenzura
-Mimo licznych aluzji film przeszedł przez cenzurę, częściowo dzięki pozornej błahości fabuły; dziś bywa traktowany jak podręcznik realiów PRL.
-
-## Znaczenie
-„Miś” to kultowa komedia i bezcenny, satyryczny dokument codzienności epoki – cytowany i oglądany przez kolejne pokolenia.`,
-    trivia: ['Z filmu pochodzi słynna kwestia „Nie mamy pańskiego płaszcza i co pan nam zrobi?”.', 'Film tak celnie portretuje absurdy PRL, że jego nazwisko dało początek terminowi „bareizm”.'],
+## Cytaty
+Dialogi weszły do polszczyzny na trwałe i do dziś funkcjonują jako komentarz do sytuacji urzędowych. Określenie „bareizm” zaczęło opisywać sam typ absurdu, który film zarejestrował.`,
+    trivia: [
+      'Fabuła o sobowtórze i koncie w Londynie jest tylko pretekstem do kilkudziesięciu scen z codzienności.',
+      'Od nazwiska reżysera powstało określenie „bareizm”, opisujące charakterystyczny typ absurdu.',
+    ],
     resources: [
       {
         id: 'mis-yt',
@@ -22179,23 +22170,20 @@ Mimo licznych aluzji film przeszedł przez cenzurę, częściowo dzięki pozorne
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Seksmisja_Logo.png?width=800',
     imageCaption: 'Seksmisja',
     content: `## Film
-„Seksmisja” (1984) Juliusza Machulskiego to jedna z najpopularniejszych polskich komedii science fiction – kasowy hit łączący rozrywkę z satyrą.
+„Seksmisja” Juliusza Machulskiego z 1983 roku to komedia fantastycznonaukowa. Dwaj mężczyźni, zahibernowani w eksperymencie, budzą się po latach w podziemnym świecie rządzonym wyłącznie przez kobiety, w którym mężczyzn uznano za wymarłych.
 
-## Fabuła
-Dwaj mężczyźni budzą się po latach hibernacji w podziemnym świecie zamieszkanym wyłącznie przez kobiety, gdzie mężczyzn uznano za zbędnych – co prowadzi do serii absurdalnych perypetii.
+## Obsada
+Główne role zagrali Jerzy Stuhr i Olgierd Łukaszewicz. Ich bezradność wobec nowego porządku – i kolejne próby przystosowania się do niego – napędzają całą komedię.
 
-## Satyra na totalitaryzm
-Pod płaszczykiem science fiction kryła się satyra na totalitaryzm, propagandę i zniewolenie – czytelna dla widzów PRL aluzja do systemu.
+## Podwójne dno
+Film opisuje społeczeństwo totalitarne: oparte na kłamstwie założycielskim, izolacji od świata zewnętrznego i indoktrynacji. Cenzura przepuściła go jako fantastykę, ale widzowie odczytywali kolejne kwestie jako komentarz do własnej rzeczywistości.
 
-## Kultowe kwestie
-Kwestie takie jak „Ciemność, widzę ciemność!” na trwałe weszły do języka potocznego i popkultury.
-
-## Cenzura
-Cenzura ingerowała w film – aluzyjny dialog o kierunku „na wschód” (gdzie „musi być Zachód”) niósł sens, który o mało nie przepadł.
-
-## Znaczenie
-„Seksmisja” to jeden z największych sukcesów frekwencyjnych polskiego kina i klasyk komedii, łączący humor z gorzką refleksją o wolności.`,
-    trivia: ['Okrzyk „Ciemność, widzę ciemność!” stał się popularnym powiedzeniem.', 'Słynne zdanie o kierunku „na Zachód” cenzura omal nie wycięła z filmu.'],
+## Frekwencja
+„Seksmisja” stała się jednym z największych sukcesów frekwencyjnych w historii polskiego kina, a jej dialogi weszły do obiegu na równi z tymi z filmów Barei.`,
+    trivia: [
+      'Cenzura przepuściła film jako fantastykę, a widzowie czytali go jako opis własnego systemu.',
+      'Był jednym z największych sukcesów frekwencyjnych w historii polskiego kina.',
+    ],
     resources: [
       {
         id: 'seks-fp',
@@ -22306,24 +22294,21 @@ Awans rozpoczął najlepszą erę polskiej piłki – drużyna Kazimierza Górsk
     summary: 'Gry liczbowe Totalizatora Sportowego (Duży Lotek, „6 z 49”), uruchomione w 1957 roku – marzenie milionów o nagłej wygranej.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kupony_Lotto.jpg?width=800',
     imageCaption: 'Toto-Lotek',
-    content: `## Gry liczbowe
-Toto-Lotek (Duży Lotek) to gry liczbowe Totalizatora Sportowego, uruchomione w 1957 roku. Polegały na typowaniu liczb – słynne „6 z 49” – w nadziei na wygraną.
+    content: `## Gra
+Toto-Lotek, prowadzony przez Totalizator Sportowy, był najstarszą i najpopularniejszą polską grą liczbową. Pierwsze losowanie odbyło się 27 stycznia 1957 roku, a zasada – sześć liczb z czterdziestu dziewięciu – pozostała niezmieniona do dziś.
 
-## Marzenie o szóstce
-W szarej rzeczywistości niedoboru trafienie „szóstki” było jedną z nielicznych szans na nagłe wzbogacenie – marzeniem milionów Polaków.
+## Legalny hazard
+W państwie, które zakazywało prywatnej przedsiębiorczości i większości form gry, totalizator był wyjątkiem: hazardem prowadzonym przez samo państwo, z przeznaczeniem części wpływów na sport.
 
-## Kultura gry
-Wypełnianie kuponów i niedzielne losowania stały się elementem codzienności; wynikami żyły całe rodziny, a kolektury Totalizatora były stałym punktem miast.
+## Kupon i rytuał
+Kupony wypełniało się długopisem w kolekturze, a wyniki losowania podawano w telewizji i radiu. Skreślanie liczb, sprawdzanie kuponu i dyskusje o systemach były cotygodniowym rytuałem w milionach domów.
 
-## Totalizator Sportowy
-Dochody Totalizatora zasilały m.in. sport i inwestycje, co czyniło grę także narzędziem finansowania państwowych przedsięwzięć.
-
-## Inne gry
-Z czasem pojawiły się kolejne gry liczbowe i zakłady, a Toto-Lotek wrósł na trwałe w pejzaż PRL.
-
-## Znaczenie
-Toto-Lotek to symbol PRL-owskich marzeń o lepszym losie – niewinnej rozrywki dającej nadzieję na odmianę szarej codzienności.`,
-    trivia: ['„Duży Lotek” (6 z 49) wystartował w 1957 roku.', 'Trafienie „szóstki” było jednym z nielicznych marzeń o nagłym bogactwie w PRL.'],
+## Marzenie
+Wygrana oznaczała sumę nieosiągalną z pracy – samochód, mieszkanie, a czasem wszystko naraz. W gospodarce, w której awans materialny zależał od przydziału, a nie od zarobków, los na loterii bywał jedyną wyobrażalną drogą do zmiany.`,
+    trivia: [
+      'Pierwsze losowanie odbyło się 27 stycznia 1957 roku, a zasada gry nie zmieniła się do dziś.',
+      'Totalizator był hazardem prowadzonym przez państwo, które równocześnie zakazywało innych form gry.',
+    ],
     resources: [
       {
         id: 'toto-yt',
@@ -22363,24 +22348,21 @@ Toto-Lotek to symbol PRL-owskich marzeń o lepszym losie – niewinnej rozrywki 
     summary: 'Wieczorny blok bajek dla dzieci (zwany też „Wieczorynką”) – nieodłączny element codzienności PRL i wizytówka polskiej szkoły animacji.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Muzeum%20dobranocek%20w%20rzeszowie%201.jpg?width=800',
     imageCaption: 'Dobranocka',
-    content: `## Wieczorny rytuał
-Dobranocka, zwana też „Wieczorynką”, to wieczorny blok filmów animowanych dla dzieci – nieodłączny element telewizyjnej codzienności PRL, poprzedzający „dorosły” Dziennik.
+    content: `## Instytucja wieczoru
+Dobranocka – kilkuminutowy program dla dzieci nadawany codziennie przed wieczornym wydaniem wiadomości – była stałym punktem dnia. Przy dwóch programach telewizji oglądały ją wszystkie dzieci w kraju o tej samej porze.
 
-## Polskie studia
-Polskie wytwórnie – Se-ma-for w Łodzi, Studio Filmów Rysunkowych w Bielsku-Białej – stworzyły bohaterów kochanych przez całe pokolenia.
+## Repertuar
+Nadawano polskie seriale animowane: „Bolka i Lolka”, „Reksia”, „Misia Uszatka” i „Przygody kota Filemona”, a także produkcje z zagranicy, w tym czeskie i radzieckie oraz zachodnie, jak „Pszczółka Maja”.
 
-## Kultowe postacie
-Najsłynniejsi to Miś Uszatek, Bolek i Lolek, Reksio i Koziołek Matołek, a także zagraniczni goście, jak Pszczółka Maja.
+## Rytm dnia
+Dobranocka wyznaczała porę pójścia spać. Dla rodziców była narzędziem organizacyjnym, dla dzieci – nagrodą i zamknięciem dnia. Ta funkcja wykraczała daleko poza samą treść programów.
 
-## Miś Uszatek
-Miś Uszatek z opadającym uszkiem opowiadał historie „na dobranoc” i żegnał widzów słowami „Dobranoc, pa, pa” – do dziś rozpoznawalnymi.
-
-## Funkcja
-Dobranocka organizowała wieczór rodzin – po niej dzieci szły spać. Była jednym z nielicznych pasm tworzonych z myślą o najmłodszych.
-
-## Znaczenie
-Dobranocka to symbol dzieciństwa w PRL i dorobek polskiej szkoły animacji, ceniony do dziś.`,
-    trivia: ['Dobranockę powszechnie nazywano też „Wieczorynką”.', 'Polskie studia stworzyły Misia Uszatka, Bolka i Lolka oraz Reksia – bohaterów znanych także za granicą.'],
+## Dziedzictwo
+Polskie animacje z dobranocek okazały się jednym z najtrwalszych elementów kultury PRL: nie niosły treści ideologicznych, więc przetrwały zmianę ustroju bez żadnych zastrzeżeń i wracają dziś jako klasyka.`,
+    trivia: [
+      'Przy dwóch programach telewizji dobranockę oglądały wszystkie dzieci w kraju o tej samej porze.',
+      'Polskie animacje przetrwały zmianę ustroju bez zastrzeżeń, bo nie niosły treści ideologicznych.',
+    ],
     resources: [
       {
         id: 'dob-yt',
@@ -22472,24 +22454,21 @@ W kraju, w którym urlop oznaczał najczęściej podróż koleją albo autobusem
     yearStart: 1984,
     yearEnd: 1989,
     summary: 'Fala mikrokomputerów domowych (ZX Spectrum, Atari, Commodore), która w latach 80. rozbudziła pasję młodego pokolenia mimo barier i niedoboru.',
-    content: `## Boom lat 80.
-W drugiej połowie lat 80. do Polski dotarła fala mikrokomputerów domowych, rozbudzając pasję młodego pokolenia mimo barier dewizowych i niedoboru.
+    content: `## Pierwsze komputery
+Komputery domowe pojawiły się w Polsce w połowie lat 80. Podstawą były maszyny ośmiobitowe: ZX Spectrum, Commodore 64 i Atari, sprowadzane głównie prywatnie, przez osoby wyjeżdżające na Zachód.
 
-## Kultowe modele
-Najpopularniejsze były ZX Spectrum, Atari (800XL, 65XE), Commodore 64 oraz Amiga – sprowadzane z Zachodu lub kupowane na giełdach.
+## Skąd się brały
+Oficjalna dystrybucja praktycznie nie istniała, więc rynek tworzyły giełdy komputerowe, organizowane w halach i domach kultury. Tam kupowano sprzęt, części i oprogramowanie, przegrywane masowo na kasety magnetofonowe.
 
-## Giełdy i kasety
-Giełdy komputerowe (m.in. w Warszawie) były centrami handlu sprzętem i grami. Programy i gry przegrywano z kaset magnetofonowych, a ich ładowanie trwało wiele minut.
+## Kaseta zamiast dyskietki
+Programy ładowano z magnetofonu, co trwało kilka minut i często kończyło się błędem. Kopiowanie było powszechne i nikt nie traktował go jako naruszenia prawa – w praktyce nie istniał legalny sposób kupienia większości tytułów.
 
-## Polskie konstrukcje
-Powstawały też krajowe komputery, jak Meritum czy szkolne Elwro 800 Junior, choć ustępowały zachodnim odpowiednikom.
-
-## Subkultura
-Wokół komputerów rozwinęła się subkultura – pisma (np. „Bajtek”), wymiana gier i pierwsze domowe próby programowania.
-
-## Znaczenie
-Domowe komputery zwiastowały nadejście ery cyfrowej i otwarcie na świat, mimo ograniczeń schyłkowego PRL.`,
-    trivia: ['Gry i programy przegrywano z kaset magnetofonowych – ładowanie potrafiło trwać kilkanaście minut.', 'Sprzęt zdobywano głównie na giełdach komputerowych; popularne było pismo „Bajtek”.'],
+## Pokolenie
+Na tych maszynach wychowało się pokolenie, które zaczynało od gier, a kończyło na programowaniu. Był to zresztą pierwszy obszar techniki, w którym młodzi Polacy mieli kontakt ze światowym standardem niemal bez opóźnienia.`,
+    trivia: [
+      'Rynek tworzyły giełdy komputerowe w halach i domach kultury, bo oficjalna dystrybucja praktycznie nie istniała.',
+      'Programy ładowano z kaset magnetofonowych, co trwało kilka minut i często kończyło się błędem.',
+    ],
     resources: [
       {
         id: 'kom-yt',
@@ -22527,24 +22506,21 @@ Domowe komputery zwiastowały nadejście ery cyfrowej i otwarcie na świat, mimo
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Własny telefon był w PRL luksusem – na założenie linii czekało się latami, a rozmowy bywały podsłuchiwane.',
-    content: `## Luksus i czekanie
-Własny telefon w PRL był luksusem – na założenie linii czekało się nawet kilkanaście lat, a przydział bywał przedmiotem starań i znajomości.
+    content: `## Dobro reglamentowane
+Telefon w mieszkaniu był w PRL rzadkością. Na przydział linii czekano latami, a w wielu miejscowościach jedyny aparat znajdował się na poczcie albo w zakładzie pracy. Liczba abonentów należała do najniższych w Europie.
 
-## Sprzęt
-W użyciu były aparaty tarczowe z charakterystyczną „kręconą” tarczą, a na wsiach i w starszych instalacjach – telefony na korbkę, łączone przez telefonistkę.
+## Jak działał
+Aparaty były tarczowe, a połączenia międzymiastowe przez długi czas zamawiało się u telefonistki. Rozmowa bywała słabo słyszalna, a linie – zwłaszcza na wsi – współdzielone przez kilku abonentów.
 
-## Linie współdzielone
-Powszechne były tzw. „party line” – linie współdzielone przez kilku abonentów, co utrudniało rozmowy i sprzyjało podsłuchiwaniu sąsiadów.
+## Podsłuch
+Telefon był też narzędziem kontroli. W stanie wojennym połączenia najpierw całkowicie odcięto, a po przywróceniu rozmowy poprzedzał komunikat informujący, że są kontrolowane. Świadomość podsłuchu zmieniła sposób mówienia przez telefon na całe lata.
 
-## Automaty
-W miastach działały automaty telefoniczne na żetony (później na karty); kolejka do budki telefonicznej bywała codziennym widokiem.
-
-## Kontrola
-Nad rozmowami, zwłaszcza międzymiastowymi i zagranicznymi, ciążyła groza inwigilacji – stąd ironiczne powiedzenie o „rozmowie kontrolowanej”.
-
-## Znaczenie
-Telefon w PRL ilustruje skalę niedoboru i kontroli – nawet podstawowa łączność była reglamentowana i nadzorowana.`,
-    trivia: ['Na założenie telefonu czekało się nieraz kilkanaście lat.', 'Wiele osób korzystało ze współdzielonych linii „party line”, a automaty działały na żetony.'],
+## Skutek
+Brak telefonu kształtował codzienność: umawiano się z góry i na stałe, pisano listy, przychodzono bez zapowiedzi. Sposób organizowania życia rodzinnego i towarzyskiego wynikał wprost z tego braku.`,
+    trivia: [
+      'Połączenia międzymiastowe przez lata zamawiało się u telefonistki.',
+      'W stanie wojennym rozmowy poprzedzał komunikat informujący, że są kontrolowane.',
+    ],
     resources: [
       {
         id: 'tel-yt',
@@ -22744,24 +22720,21 @@ Sośnicka należy do wykonawczyń, które zbudowały pozycję na umiejętnościa
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Masowy letni wypoczynek nad Bałtykiem – ośrodki FWP, dancingi i smażalnie ryb – jedno z głównych marzeń wakacyjnych Polaków.',
-    content: `## Wakacje PRL
-Wypoczynek nad Bałtykiem był marzeniem milionów Polaków. Tłoczono się w nadmorskich kurortach – Mielnie, Władysławowie, Łebie, Międzyzdrojach i Kołobrzegu.
+    content: `## Wyjazd z przydziału
+Wczasy nad Bałtykiem organizowały zakłady pracy i Fundusz Wczasów Pracowniczych. O skierowaniu decydowała komisja socjalna, a odpłatność zależała od zarobków – wyjazd był świadczeniem, nie zakupem.
 
-## FWP i zakłady
-Na wczasy jeździło się głównie ze skierowaniem z Funduszu Wczasów Pracowniczych lub przez zakład pracy; miejsca były reglamentowane i rozchwytywane.
+## Ośrodek
+Mieszkano w ośrodkach zakładowych: w domkach kempingowych albo pawilonach, z posiłkami o stałych porach w stołówce i turnusem trwającym zwykle dwa tygodnie. Program wypełniały wieczorki taneczne, konkursy i wycieczki.
 
-## Realia
-Ośrodki oferowały skromne, często wieloosobowe pokoje i stołówkowe wyżywienie. Towarzyszyły im kolejki, niedobory i walka o leżak na plaży.
+## Kwatery prywatne
+Obok obiegu państwowego działał prywatny: pokoje wynajmowane przez mieszkańców nadmorskich miejscowości. Dla wielu rodzin nad morzem był to jedyny legalny sposób zarobku, a dla wczasowiczów – sposób na wyjazd bez skierowania.
 
-## Atrakcje
-Klimat tworzyły plaża, dancing, smażalnia ryb, oranżada, gofry i lody. Popularne były też „wczasy pod gruszą” – wypoczynek na własną rękę.
-
-## Kemping
-Tańszą alternatywą były pola namiotowe i kempingi, oblegane przez rodziny i młodzież.
-
-## Znaczenie
-Wczasy nad morzem to symbol PRL-owskiej rekreacji – skromnej, lecz wyczekiwanej odskoczni od codzienności.`,
-    trivia: ['Popularne były „wczasy pod gruszą” – wypoczynek na własną rękę z dofinansowaniem zakładu pracy.', 'Skierowania na wczasy FWP rozdzielał zakład pracy lub związek zawodowy.'],
+## Bałtyk jako granica
+Morze było też granicą państwa, patrolowaną przez Wojska Ochrony Pogranicza. Plaża, na której wypoczywano, była jednocześnie pasem granicznym, a nocne przebywanie na niej bywało ograniczane.`,
+    trivia: [
+      'O skierowaniu na wczasy decydowała komisja socjalna, a odpłatność zależała od zarobków.',
+      'Plaża była jednocześnie pasem granicznym patrolowanym przez Wojska Ochrony Pogranicza.',
+    ],
     resources: [
       {
         id: 'wnm-yt',
@@ -22801,24 +22774,21 @@ Wczasy nad morzem to symbol PRL-owskiej rekreacji – skromnej, lecz wyczekiwane
     summary: 'Wszechobecne kioski przedsiębiorstwa „Ruch” – po prasę, papierosy, bilety i drobiazgi; deficytowe towary znikały „spod lady”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Closed%20Old%20Polish%20%27Ruch%27%20Kiosk%20in%20Sorkwity%2C%20Warmian-Masurian%20Voivodeship%2C%20Poland%2C%20July%2C%202020.jpg?width=800',
     imageCaption: 'Kiosk „Ruch”',
-    content: `## Kioski Ruchu
-Kioski przedsiębiorstwa „Ruch” były wszechobecne – w miastach i na wsiach, na przystankach i osiedlach. Stanowiły jeden z podstawowych punktów codziennych zakupów.
+    content: `## Punkt sprzedaży
+Kioski „Ruchu” należały do państwowego przedsiębiorstwa kolportażu prasy i stały praktycznie na każdym osiedlu, przy przystankach i dworcach. Były najgęstszą siecią handlową w kraju.
 
-## Asortyment
-Kupowało się tam prasę i czasopisma, papierosy, znaczki, bilety komunikacji, drobiazgi, zabawki, gumę do żucia i napoje.
+## Co można było kupić
+Prasę, papierosy, znaczki, bilety komunikacji miejskiej, zapałki, gumę do żucia, zeszyty, a bywało, że i towary trudno dostępne. Kiosk pełnił funkcję sklepu wielobranżowego w miniaturze.
 
-## Spod lady
-Najbardziej pożądane towary – atrakcyjne pisma, zagraniczne papierosy, deficytowe drobiazgi – „kiosková” trzymała często „spod lady” dla stałych klientów.
+## Bilety i prenumerata
+To właśnie w kiosku kupowało się bilety tramwajowe i autobusowe – nie istniały automaty biletowe. Tam też opłacało się prenumeratę gazet, co przy reglamentacji papieru było jedynym pewnym sposobem otrzymywania tytułu.
 
-## Bilety
-Kioski Ruchu były głównym miejscem sprzedaży biletów komunikacji miejskiej, które kasowało się dopiero w pojazdach.
-
-## Punkt osiedla
-Kiosk bywał nieformalnym centrum życia osiedla – miejscem spotkań, plotek i porannego rytuału zakupu gazety.
-
-## Znaczenie
-„Ruch” to ikona codzienności PRL – mała witryna wielkiego świata prasy i drobnych przyjemności w realiach niedoboru.`,
-    trivia: ['Atrakcyjne pisma i zagraniczne papierosy trzymano „spod lady” dla stałych klientów.', 'W kioskach Ruchu kupowało się bilety komunikacji miejskiej – kasowane dopiero w pojeździe.'],
+## Kolejka po gazetę
+Popularne tytuły, zwłaszcza tygodniki, znikały w kilkanaście minut od dostawy. Kolejka przed kioskiem o poranku była codziennym widokiem, a znajomość z kioskarzem – realnym kapitałem społecznym.`,
+    trivia: [
+      'Bilety komunikacji miejskiej kupowało się w kiosku – automaty biletowe nie istniały.',
+      'Popularne tygodniki znikały w kilkanaście minut od dostawy, więc znajomość z kioskarzem miała realną wartość.',
+    ],
     resources: [
       {
         id: 'ruch-yt',
@@ -22910,24 +22880,21 @@ Krawczyk był wykonawcą traktowanym przez krytykę z dystansem, a przez publicz
     yearStart: 1968,
     yearEnd: 1989,
     summary: 'Festiwal piosenki wojskowej i patriotycznej w Kołobrzegu – jeden z głównych festiwali PRL, silnie zideologizowany i firmowany przez wojsko.',
-    content: `## Geneza
-Festiwal Piosenki Żołnierskiej organizowano od końca lat 60. (od 1968 roku w Kołobrzegu). Stał się jednym z głównych festiwali muzycznych PRL – obok Opola i Sopotu.
+    content: `## Festiwal
+Festiwal Piosenki Żołnierskiej w Kołobrzegu organizował Główny Zarząd Polityczny Wojska Polskiego. Kompozytorów zapraszano do udziału według rozdzielnika – twórczość powstawała więc na zamówienie instytucji, a nie z potrzeby autora.
 
-## Charakter
-Promował pieśni o wojsku, „braterstwie broni” i Ludowym Wojsku Polskim, niosąc silny ładunek propagandowy i patriotyczno-militarny.
+## Repertuar
+Śpiewano pieśni o wojsku, o granicy na Odrze i Nysie, o braterstwie broni z Armią Radziecką. Obok utworów czysto propagandowych powstawały też piosenki liryczne, które przetrwały jako zwykłe przeboje estradowe.
 
-## Gwiazdy i nagrody
-Występowali tu znani wykonawcy estradowi, zdobywając nagrody, m.in. „Złoty Pierścień” i wyróżnienia Ministra Obrony Narodowej.
+## Rola
+Festiwal był jedną z trzech wielkich imprez piosenkarskich w kraju, obok Opola i Sopotu, i podobnie jak one gwarantował transmisję telewizyjną. Udział był dla wykonawcy opłacalny zawodowo, niezależnie od poglądów.
 
-## Oprawa
-Festiwalowi towarzyszyły defilady, oprawa wojskowa i transmisje telewizyjne, czyniące z niego propagandowe widowisko.
-
-## Miejsce w kulturze
-Mimo zideologizowania festiwal był popularny i wypromował wiele piosenek, choć dziś kojarzy się przede wszystkim z militaryzacją kultury.
-
-## Znaczenie
-Festiwal w Kołobrzegu to symbol wykorzystania estrady do celów propagandowych w PRL.`,
-    trivia: ['Nagrody wręczał m.in. minister obrony narodowej; laureaci otrzymywali „Złoty Pierścień”.', 'Festiwal łączył estradową rozrywkę z propagandą Ludowego Wojska Polskiego.'],
+## Koniec
+Impreza zniknęła wraz z systemem, który ją powołał. Pozostała jako przykład zjawiska charakterystycznego dla PRL: kultury masowej organizowanej odgórnie, z rozdzielnikiem zamiast rynku.`,
+    trivia: [
+      'Kompozytorów zapraszano do udziału według rozdzielnika przygotowanego przez Główny Zarząd Polityczny WP.',
+      'Festiwal był – obok Opola i Sopotu – jedną z trzech wielkich imprez piosenkarskich w kraju.',
+    ],
     resources: [
       {
         id: 'fk-yt',
@@ -23191,23 +23158,20 @@ Gąssowski jest przykładem wykonawcy, który przetrwał wszystkie zmiany mody: 
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Obwieszczenie_o_przeprowadzeniu_poboru_m%C4%99%C5%BCczyzn_rocznika_1927.jpg?width=800',
     imageCaption: 'Zasadnicza służba wojskowa',
     content: `## Obowiązek
-Zasadnicza służba wojskowa była obowiązkowa dla młodych mężczyzn i trwała zwykle dwa lata. Stanowiła swoisty obrzęd przejścia kolejnych pokoleń.
+Zasadnicza służba wojskowa była w PRL powszechnym obowiązkiem mężczyzn. Trwała dwa lata, a w marynarce dłużej. Powołanie przychodziło zwykle po szkole średniej albo po studiach, gdy służba była krótsza.
 
-## Pobór
-O przydziale decydowały komisje wojskowe; „bilet” do wojska był nieunikniony, a odroczenia (np. studia) jedynie odkładały służbę w czasie.
+## Codzienność
+Życie w jednostce oznaczało koszary, musztrę, prace porządkowe i szkolenie polityczne. Znaczną część czasu zajmowały zajęcia niezwiązane z wyszkoleniem: prace gospodarcze, budowlane, a nierzadko pomoc w żniwach.
 
-## Realia
-Koszarowe życie oznaczało dryl, musztrę, prace porządkowe oraz „falę” – nieformalne dręczenie młodszych roczników przez starszych.
+## Fala
+Nieformalna hierarchia starszych roczników nad młodszymi, zwana falą, była zjawiskiem powszechnym i tolerowanym przez kadrę. Przybierała formy od upokorzeń po przemoc fizyczną, a skargi rzadko przynosiły skutek.
 
-## Indoktrynacja i przysięga
-W wojsku prowadzono szkolenie polityczne. Przysięga wojskowa zawierała deklarację wierności sojuszowi z ZSRR – jej odmowa (m.in. w ruchu Wolność i Pokój) groziła więzieniem.
-
-## Po służbie
-„Książeczka wojskowa” była ważnym dokumentem, a odbyta służba bywała warunkiem niektórych karier i przywilejów.
-
-## Znaczenie
-Armia z poboru była narzędziem socjalizacji i kontroli – wspólnym doświadczeniem milionów mężczyzn epoki PRL.`,
-    trivia: ['Wśród poborowych panowała „fala” – nieformalne dręczenie młodszych roczników.', 'Przysięga zawierała deklarację wierności ZSRR, co kontestował ruch Wolność i Pokój.'],
+## Wojsko a polityka
+Służba była też narzędziem oddziaływania: w jednostkach prowadzono szkolenie ideologiczne, a wobec studentów zaangażowanych w opozycję stosowano powołania jako formę represji. W stanie wojennym rezerwistów wcielano do jednostek, żeby odizolować ich od zakładów pracy.`,
+    trivia: [
+      'Znaczną część służby zajmowały prace gospodarcze i budowlane, niezwiązane z wyszkoleniem wojskowym.',
+      'Powołanie do wojska bywało stosowane jako forma represji wobec studentów zaangażowanych w opozycję.',
+    ],
     resources: [
       {
         id: 'sw2-yt',
@@ -23754,24 +23718,21 @@ Dezerter pozostał zespołem niezależnym także po 1989 roku, nie wchodząc w o
     tags: ['film', 'kino', 'historia', 'ekranizacja'],
     yearStart: 1960,
     summary: 'Historyczna superprodukcja Aleksandra Forda (1960) wg powieści Sienkiewicza; z rekordową w dziejach polskiego kina widownią i słynną sceną bitwy pod Grunwaldem.',
-    content: `## Film
-„Krzyżacy” (1960) w reżyserii Aleksandra Forda to pierwsza polska barwna superprodukcja historyczna, ekranizacja powieści Henryka Sienkiewicza.
+    content: `## Superprodukcja
+„Krzyżacy” Aleksandra Forda z 1960 roku byli pierwszą polską superprodukcją: barwną, kosztowną, z tysiącami statystów i wielką sceną batalistyczną. Powstali na podstawie powieści Henryka Sienkiewicza.
 
-## Fabuła
-Akcja rozgrywa się na przełomie XIV i XV wieku; losy Zbyszka z Bogdańca i Danusi splatają się z konfliktem Królestwa Polskiego z zakonem krzyżackim.
+## Grunwald
+Kulminacją jest bitwa pod Grunwaldem, zrealizowana z rozmachem nieznanym wcześniej w polskim kinie. Premiera zbiegła się z pięćsetpięćdziesiątą rocznicą bitwy, obchodzoną w 1960 roku jako wielkie święto państwowe.
 
-## Bitwa pod Grunwaldem
-Kulminacją jest widowiskowa, rozmachem imponująca scena bitwy pod Grunwaldem z 1410 roku – jedna z najsłynniejszych sekwencji polskiego kina.
+## Polityka
+Film wpisywał się w oficjalną narrację: pokazywał odwieczny konflikt z niemieckim zakonem i uzasadniał obecność Polski na ziemiach zachodnich. Był to jeden z nielicznych przypadków, gdy interes propagandowy i ambicja artystyczna prowadziły w tę samą stronę.
 
-## Rekord widowni
-Film obejrzało kilkadziesiąt milionów widzów – to najczęściej oglądany polski film w historii rodzimej kinematografii.
-
-## Kontekst
-Premiera w 1960 zbiegła się z obchodami 550. rocznicy bitwy i milenijną atmosferą podkreślania polskiej państwowości.
-
-## Znaczenie
-„Krzyżacy” to kanon polskiego kina historycznego i szkolna lektura ekranowa kolejnych pokoleń.`,
-    trivia: ['To najczęściej oglądany polski film w historii – widownia liczona w dziesiątkach milionów.', 'Premiera w 1960 zbiegła się z 550. rocznicą bitwy pod Grunwaldem.'],
+## Rekord
+Obraz obejrzały miliony widzów i przez dziesięciolecia pozostawał najchętniej oglądanym polskim filmem w historii. Pokazywano go rutynowo w szkołach jako uzupełnienie lektury.`,
+    trivia: [
+      'Premiera zbiegła się z 550. rocznicą bitwy pod Grunwaldem, obchodzoną jako święto państwowe.',
+      'Przez dziesięciolecia był najchętniej oglądanym polskim filmem w historii.',
+    ],
     resources: [
       {
         id: 'kz-yt',
@@ -29706,23 +29667,20 @@ Wielkanoc była najważniejszym świętem religijnym, a jednocześnie dniem, kt�
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ryszard%20Bugajski.jpg?width=800',
     imageCaption: 'Ryszard Bugajski – reżyser „Przesłuchania”.',
     content: `## Film
-„Przesłuchanie” (1982) w reżyserii Ryszarda Bugajskiego to jeden z najmocniejszych polskich dramatów politycznych.
+„Przesłuchanie” Ryszarda Bugajskiego powstało w 1982 roku, w pierwszych miesiącach stanu wojennego. Zatrzymano je natychmiast i pokazano publicznie dopiero pod koniec dekady – to najgłośniejszy z półkowników.
 
 ## Fabuła
-Antonina Dziwisz, beztroska piosenkarka rewiowa, trafia bez powodu do stalinowskiego więzienia, gdzie próbuje się ją złamać, by zeznawała przeciw znajomemu.
+Piosenkarka Antonina Dziwisz, grana przez Krystynę Jandę, zostaje bez powodu aresztowana przez Urząd Bezpieczeństwa. Ma zeznawać przeciw znajomemu, o którym nic nie wie. Cały film to śledztwo prowadzone w celi i pokoju przesłuchań.
 
-## Rola Krystyny Jandy
-Kreacja Jandy – od naiwności po nieustępliwą godność – uchodzi za jedną z największych ról w historii polskiego kina.
+## Metoda
+Bugajski pokazał aparat represji bez publicystyki: przez rutynę, znużenie funkcjonariuszy, powtarzalność pytań i fizyczne wyniszczanie więźnia. Właśnie ta zwyczajność przemocy czyni film trudnym do zniesienia.
 
-## Zatrzymany przez cenzurę
-Film ukończono tuż przed stanem wojennym; władze zablokowały go na siedem lat, a kopie krążyły w drugim obiegu na kasetach wideo.
-
-## Premiera i Cannes
-Oficjalna premiera odbyła się dopiero w 1989 roku; rok później Krystyna Janda otrzymała w Cannes nagrodę dla najlepszej aktorki.
-
-## Znaczenie
-To najgłośniejszy polski „półkownik” i wstrząsające świadectwo stalinowskich represji.`,
-    trivia: ['Film leżał na półce siedem lat – premiera odbyła się dopiero w 1989 roku.', 'Krystyna Janda otrzymała za tę rolę nagrodę aktorską w Cannes (1990).', 'Zablokowany film krążył nieoficjalnie na kasetach wideo w drugim obiegu.'],
+## Drugi obieg
+Zanim doszło do oficjalnej premiery, kopie krążyły nielegalnie na kasetach wideo. Rola Jandy została nagrodzona w Cannes. Film pozostaje najmocniejszym polskim obrazem stalinowskich metod śledczych.`,
+    trivia: [
+      'Kopie filmu krążyły w drugim obiegu na kasetach wideo, zanim doszło do oficjalnej premiery.',
+      'Za rolę w tym filmie Krystyna Janda otrzymała nagrodę aktorską w Cannes.',
+    ],
     resources: [
       {
         id: 'prz-nina1',
