@@ -14809,21 +14809,21 @@ Marek Edelman pozostaje symbolem odwagi, wierności wartościom i niezależnego 
     summary: 'Wrocławski ruch happeningowy Waldemara „Majora” Fydrycha, który absurdem i humorem ośmieszał władzę i aparat represji.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pomaranczowa_alternatywa-dzien_wojska.jpg?width=800',
     imageCaption: 'Pomarańczowa Alternatywa',
-    content: `## Geneza
-Pomarańczowa Alternatywa narodziła się we Wrocławiu z inicjatywy Waldemara Fydrycha, zwanego „Majorem”. Ruch posługiwał się happeningiem i absurdem jako bronią przeciw ponuremu systemowi.
-
-## Krasnoludki
-Najsłynniejszym symbolem stały się krasnoludki – malowane na murach w miejscach zamalowanych antyrządowych napisów. Później setki ludzi w pomarańczowych czapeczkach krasnoludków wychodziły na ulice.
-
-## Happeningi
-Uczestnicy organizowali absurdalne akcje („Rewolucja Krasnoludków”, rozdawanie papieru toaletowego), wciągając milicję w groteskowe sytuacje. Zatrzymywanie „krasnoludków” ośmieszało aparat represji.
+    content: `## Happening zamiast ulotki
+Pomarańczowa Alternatywa powstała we Wrocławiu i działała w latach 80., także w Warszawie, Łodzi i Lublinie. Zamiast demonstracji organizowała happeningi: absurdalne akcje uliczne, w których uczestnicy przebierali się za krasnoludki i wznosili hasła parodiujące język propagandy.
 
 ## Metoda
-W odróżnieniu od poważnej, podziemnej opozycji Pomarańczowa Alternatywa rozbrajała strach śmiechem. Absurd okazał się skuteczny – władza nie wiedziała, jak reagować na pokojowy happening.
+Pomysł polegał na odwróceniu ról. Milicja zatrzymująca ludzi w czerwonych czapeczkach za wznoszenie okrzyków na cześć milicji wyglądała groteskowo, a każda interwencja obracała się przeciw władzy. Nie dało się tego przedstawić jako działalności wrogiej bez ośmieszenia się.
+
+## Skala
+Największe akcje gromadziły tysiące uczestników, głównie młodych. Dla pokolenia, które nie pamiętało Sierpnia, była to forma udziału w oporze bez patosu i bez ryzyka porównywalnego z konspiracją.
 
 ## Znaczenie
-Ruch stał się symbolem kreatywnego, pokojowego oporu schyłku PRL i inspiracją dla późniejszych form protestu obywatelskiego.`,
-    trivia: ['Happeningi wrocławskie prowadził „Major” Waldemar Fydrych.', 'Uczestnicy w czerwonych czapeczkach krasnali obezwładniali milicję śmiechem.'],
+Pomarańczowa Alternatywa pokazała, że system daje się atakować śmiechem skuteczniej niż powagą. W ostatnich latach PRL, gdy aparat tracił pewność siebie, kompromitacja okazała się bronią silniejszą niż konfrontacja.`,
+    trivia: [
+      'Uczestnicy przebierali się za krasnoludki, a hasła parodiowały język oficjalnej propagandy.',
+      'Milicja zatrzymująca ludzi za wznoszenie okrzyków na jej cześć ośmieszała się bardziej niż sami demonstranci.',
+    ],
     resources: [
       {
         id: 'pa-1',
@@ -14871,21 +14871,21 @@ Ruch stał się symbolem kreatywnego, pokojowego oporu schyłku PRL i inspiracj�
     summary: 'Niezależny ruch pacyfistyczno-ekologiczny lat 80., sprzeciwiający się przymusowej wojskowej przysiędze i niszczeniu środowiska.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wolno%C5%9B%C4%87_i_Pok%C3%B3j-tablica_%28cropped2%29.JPG?width=800',
     imageCaption: 'Ruch „Wolność i Pokój”',
-    content: `## Powstanie
-Ruch „Wolność i Pokój” (WiP) powstał w 1985 roku jako niezależna inicjatywa młodzieżowa, łącząca pacyfizm, obronę praw człowieka i ekologię.
+    content: `## Ruch
+Ruch „Wolność i Pokój” działał od 1985 roku. Tworzyli go głównie studenci i młodzież – od środowisk anarchizujących po aktywistów katolickich. W szczytowym okresie liczył kilkuset członków, ale rozgłos miał nieproporcjonalnie większy niż liczebność.
 
 ## Odmowa przysięgi
-Działacze WiP odmawiali składania wojskowej przysięgi zawierającej deklarację wierności ZSRR, a także służby z bronią. Za odmowę trafiali do więzień, stając się więźniami sumienia.
+Znakiem rozpoznawczym była odmowa złożenia przysięgi wojskowej, która zawierała zobowiązanie do wierności sojuszowi ze Związkiem Radzieckim. Odmawiający trafiali przed sądy i do więzień, a ich sprawy nagłaśniano w kraju i za granicą.
 
-## Ekologia
-Ruch protestował przeciw zanieczyszczeniu środowiska i niebezpiecznym inwestycjom, m.in. przeciw elektrowni jądrowej w Żarnowcu, łącząc opozycję polityczną z ruchem ekologicznym.
+## Nowe tematy
+WiP wniósł do polskiej opozycji sprawy dotąd nieobecne: pacyfizm, prawa człowieka rozumiane uniwersalnie, ekologię i sprzeciw wobec energetyki jądrowej po katastrofie w Czarnobylu. Protestował też przeciw budowie elektrowni w Żarnowcu.
 
-## Metody
-WiP stosował pokojowe formy protestu: głodówki, manifestacje, happeningi. Współpracował z opozycją zachodnią i ruchami pokojowymi za granicą.
-
-## Znaczenie
-Wolność i Pokój wniósł do polskiej opozycji tematykę praw człowieka, pacyfizmu i ekologii, poszerzając jej język o nowe pokolenie działaczy.`,
-    trivia: ['Ruch sprzeciwiał się treści przysięgi wojskowej.', 'Walczył o prawo do odmowy służby wojskowej z pobudek sumienia.'],
+## Forma
+Zamiast konspiracji ruch wybierał jawność: happeningi, głodówki, podpisywanie wystąpień własnym nazwiskiem. Ta taktyka – podobnie jak w Pomarańczowej Alternatywie – stawiała władze w sytuacji, w której każda reakcja ośmieszała je bardziej niż sam protest.`,
+    trivia: [
+      'Znakiem rozpoznawczym ruchu była odmowa przysięgi wojskowej z powodu zapisu o wierności sojuszowi z ZSRR.',
+      'WiP wprowadził do polskiej opozycji tematy ekologiczne, m.in. protest przeciw elektrowni w Żarnowcu.',
+    ],
     resources: [
       {
         id: 'wip-1',
@@ -15223,21 +15223,21 @@ Dzieje stadionu odzwierciedlają losy PRL – od propagandowej dumy, przez codzi
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Nielegalny obrót towarami deficytowymi i walutą obcą, który w warunkach gospodarki niedoboru stał się integralną częścią codzienności.',
-    content: `## Geneza
-W gospodarce centralnie planowanej, cierpiącej na chroniczne niedobory, równolegle do oficjalnego rynku rozwinął się rozległy czarny rynek – „druga gospodarka” PRL.
+    content: `## Dlaczego istniał
+Czarny rynek był nieodłączną częścią gospodarki niedoboru. Skoro ceny urzędowe nie odpowiadały realnej wartości towarów, a wielu rzeczy po prostu nie było w sklepach, obieg nieoficjalny wypełniał lukę – i obejmował praktycznie wszystkich.
 
-## Towary spod lady
-Deficytowe produkty – od mięsa po sprzęt RTV i części samochodowe – sprzedawano „spod lady”, za łapówki lub w ramach układów. „Załatwianie” stało się powszechną praktyką.
+## Waluta
+Posiadanie dewiz było przez znaczną część PRL ograniczone przepisami, a wymiana poza bankiem – nielegalna. Mimo to kurs czarnorynkowy dolara był powszechnie znany i wielokrotnie przewyższał oficjalny. Cinkciarze działali w miejscach publicznych, przy hotelach i sklepach dewizowych.
 
-## Waluta i cinkciarze
-Posiadanie obcych walut było reglamentowane, ale dolary i marki krążyły nielegalnie. Cinkciarze handlowali walutą wokół hoteli i Pewexów, oferując kursy lepsze niż oficjalne.
+## Nie tylko waluta
+Handlowano wszystkim, czego brakowało: mięsem, benzyną, częściami samochodowymi, materiałami budowlanymi, lekami. Osobnym obiegiem były towary z Peweksu i Baltony, odsprzedawane dalej z zyskiem.
 
-## Skala zjawiska
-Czarny rynek obejmował miliony ludzi – od drobnego handlu po zorganizowane sieci. Władze zwalczały go, lecz same były od niego uzależnione, tolerując jako wentyl niedoborów.
-
-## Znaczenie
-Druga gospodarka ilustruje strukturalną niewydolność systemu i przedsiębiorczość Polaków zmuszonych „kombinować”, by przetrwać w realiach niedoboru.`,
-    trivia: ['Waluty skupowali cinkciarze, oferujący kurs wielokrotnie wyższy od oficjalnego.', 'Dolar był realnym miernikiem wartości, mimo że handel nim był nielegalny.'],
+## Podwójna moralność
+Państwo ścigało obrót nieoficjalny, ale samo z niego korzystało: sklepy dewizowe przyciągały walutę do budżetu, a bez kombinowania gospodarka nie mogłaby działać. Powstała w ten sposób sytuacja, w której prawie każdy naruszał przepisy i prawie nikt nie uważał tego za nieuczciwość.`,
+    trivia: [
+      'Kurs czarnorynkowy dolara był powszechnie znany i wielokrotnie przewyższał oficjalny.',
+      'Państwo ścigało obrót nieoficjalny, a jednocześnie korzystało z niego, ściągając dewizy przez sklepy Peweksu i Baltony.',
+    ],
     resources: [
       {
         id: 'cr-1',
@@ -16006,21 +16006,21 @@ Mecze żużlowe były ważnym wydarzeniem towarzyskim i odskocznią od codzienno
     summary: 'Krótki list 34 wybitnych pisarzy i uczonych z 1964 roku, protestujący przeciw cenzurze i polityce kulturalnej władz – pierwszy taki publiczny gest w PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Antoni_Slonimski_Polish_writer.jpg?width=800',
     imageCaption: 'List 34',
-    content: `## Geneza
-W marcu 1964 roku 34 wybitnych przedstawicieli polskiej kultury i nauki podpisało krótki list do premiera, protestując przeciw zaostrzeniu cenzury i ograniczeniom przydziału papieru na książki.
+    content: `## Dwa zdania
+List 34 był krótkim, dwuzdaniowym protestem przeciw polityce kulturalnej i ograniczeniom przydziału papieru. Skierowano go do premiera Józefa Cyrankiewicza, a 14 marca 1964 roku złożył go w Urzędzie Rady Ministrów Antoni Słonimski. Nazwa pochodzi od liczby sygnatariuszy.
 
-## Treść
-List był wyjątkowo zwięzły – dwa zdania – lecz jego waga wynikała z nazwisk sygnatariuszy, wśród których znaleźli się m.in. Maria Dąbrowska, Antoni Słonimski, Jan Parandowski i Paweł Jasienica.
+## Kto podpisał
+Podpisy złożyli najwybitniejsi pisarze i uczeni, m.in. Maria Dąbrowska, Jerzy Andrzejewski, Melchior Wańkowicz, Leopold Infeld i Tadeusz Kotarbiński. Siłą listu było właśnie nazwisko – nie liczba osób, lecz ich pozycja.
 
-## Reakcja władz
-Władze odpowiedziały represjami: szykanami, zakazami druku, naciskami i kampanią propagandową. Próbowano też wymusić kontrlisty potępiające sygnatariuszy.
+## Odpowiedź władz
+Reakcja była nieproporcjonalna do treści: zakazy druku, wstrzymywanie wyjazdów zagranicznych, naciski w miejscach pracy, kampania prasowa przeciw sygnatariuszom. Melchiora Wańkowicza postawiono przed sądem.
 
-## Echo na świecie
-O sprawie informowały zachodnie media i Radio Wolna Europa, co czyniło z Listu 34 wydarzenie o międzynarodowym rozgłosie i prekursora późniejszych protestów.
-
-## Znaczenie
-List 34 był pierwszym zbiorowym, publicznym protestem środowisk twórczych w PRL i zapowiedzią rosnącego oporu inteligencji wobec cenzury.`,
-    trivia: ['List protestacyjny z 1964 roku liczył zaledwie dwa zdania.', 'Podpisało go 34 pisarzy i uczonych – stąd nazwa.'],
+## Precedens
+List 34 był pierwszym zbiorowym wystąpieniem środowisk twórczych w PRL i wzorem dla późniejszych protestów: Listu 59 z 1975 roku przeciw zmianom w konstytucji i kolejnych apeli lat 70. Pokazał też mechanizm, który powtarzał się później – represja nadawała sprawie rozgłos, którego sam list by nie zdobył.`,
+    trivia: [
+      'List miał zaledwie dwa zdania, a jego siłą były nazwiska sygnatariuszy.',
+      'Po jego złożeniu Melchiora Wańkowicza postawiono przed sądem.',
+    ],
     resources: [
       {
         id: 'l34-1',
@@ -16068,21 +16068,21 @@ List 34 był pierwszym zbiorowym, publicznym protestem środowisk twórczych w P
     summary: 'Gigantyczny kombinat metalurgiczny w Dąbrowie Górniczej, symbol forsownej industrializacji i prestiżowych, lecz zadłużających kraj inwestycji epoki Gierka.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Katowice_Steelworks_Gate.jpg?width=800',
     imageCaption: 'Huta Katowice',
-    content: `## Wielka inwestycja
-Hutę Katowice w Dąbrowie Górniczej budowano od 1972 roku jako sztandarową inwestycję dekady Edwarda Gierka. Miała być dowodem skoku cywilizacyjnego i potęgi przemysłowej PRL.
+    content: `## Inwestycja dekady
+Budowę kombinatu w Dąbrowie Górniczej rozpoczęto w 1972 roku. Była to największa inwestycja przemysłowa dekady Gierka i jeden z symboli ówczesnej polityki gospodarczej: wielkie zakłady budowane szybko, za kredyty i z importowanym wyposażeniem.
 
-## Skala
-Była to jedna z największych hut w Europie, oparta na licencjach i technologii z Zachodu oraz ZSRR. Do jej obsługi zbudowano specjalną szerokotorową linię kolejową z granicy radzieckiej.
+## Szeroki tor
+Do huty doprowadzono Linię Hutniczo-Siarkową – tor o rozstawie szyn stosowanym w ZSRR, biegnący od granicy wschodniej. Miał dostarczać rudę żelaza bez przeładunku. Rozwiązanie to trwale związało zakład z dostawami radzieckimi.
 
-## Koszty i długi
-Inwestycja pochłonęła ogromne środki, w dużej części z zachodnich kredytów. Stała się symbolem polityki „na pokaz”, która napędzała rosnące zadłużenie i kryzys gospodarczy schyłku lat 70.
+## Rachunek
+Kombinat pochłonął ogromne środki, a jego rentowność od początku budziła wątpliwości ekonomistów. Powstał w miejscu oddalonym od złóż i portów, a produkcję zaplanowano pod potrzeby, które nie zdążyły się zmaterializować.
 
 ## Solidarność
-W 1980 roku Huta Katowice stała się jednym z ważnych ośrodków rodzącej się Solidarności na Śląsku, a jej załoga aktywnie uczestniczyła w strajkach.
-
-## Znaczenie
-Huta Katowice to symbol rozmachu i zarazem słabości gospodarki PRL – wielkich inwestycji finansowanych długiem, które nie uchroniły kraju przed załamaniem.`,
-    trivia: ['Do huty doprowadzono Linię Hutniczą Szerokotorową prosto ze Związku Radzieckiego.', 'Budowę rozpoczęto w 1972 roku jako sztandarową inwestycję dekady Gierka.'],
+W sierpniu 1980 roku huta stała się jednym z głównych ośrodków strajkowych na Śląsku, a jej Komitet Strajkowy należał do najaktywniejszych w regionie. Zakład zbudowany jako dowód siły systemu okazał się jednym z miejsc, w których system ten był kwestionowany najgłośniej.`,
+    trivia: [
+      'Do huty doprowadzono tor o rozstawie szyn stosowanym w ZSRR, żeby wozić rudę bez przeładunku.',
+      'Zakład budowany jako dowód siły systemu stał się w 1980 roku jednym z głównych ośrodków strajkowych na Śląsku.',
+    ],
     resources: [
       {
         id: 'hk-pkf',
@@ -16367,21 +16367,21 @@ Kampania protestacyjna zintegrowała środowiska, które kilka miesięcy późni
     yearStart: 1977,
     yearEnd: 1981,
     summary: 'Niezależne wykłady i Towarzystwo Kursów Naukowych z lat 70., kontynuujące tradycję tajnego nauczania wbrew cenzurze i kontroli władz.',
-    content: `## Geneza
-W 1977 roku, w środowiskach opozycyjnych, zaczęto organizować niezależne wykłady – „Uniwersytet Latający”, nawiązujący nazwą do tajnego nauczania z czasów zaborów i okupacji.
+    content: `## Wykłady w mieszkaniach
+Towarzystwo Kursów Naukowych powstało na początku 1978 roku. Organizowało wykłady z historii, socjologii, ekonomii i literatury – tematów, które na uczelniach podlegały cenzurze lub były wykładane wyłącznie w obowiązującej wersji. Zajęcia odbywały się w prywatnych mieszkaniach.
 
-## Towarzystwo Kursów Naukowych
-W 1978 roku powołano Towarzystwo Kursów Naukowych (TKN), które koordynowało niezależne wykłady z historii, literatury, socjologii i ekonomii – tematów zakłamywanych przez oficjalną naukę.
+## Nazwa
+Określenie „uniwersytet latający” nawiązywało do tajnego nauczania z czasów zaborów i okupacji. Wykłady „latały” też dosłownie: zmieniano miejsca, by utrudnić rozpracowanie.
 
-## Wykładowcy
-Wykłady prowadzili wybitni uczeni i intelektualiści, m.in. związani z KOR. Odbywały się w prywatnych mieszkaniach, często nachodzonych przez SB i bojówki.
+## Kto uczył
+Wykładowcami byli uznani naukowcy i publicyści, m.in. Bronisław Geremek, Jan Józef Lipski, Adam Michnik, Jacek Kuroń i Tadeusz Kowalik. Dla wielu studentów był to pierwszy kontakt z historią najnowszą opowiedzianą bez przemilczeń.
 
 ## Represje
-Uczestników i wykładowców szykanowano, wykłady rozbijano, a prowadzących zastraszano. Mimo to inicjatywa rozwijała się, docierając do młodzieży akademickiej.
-
-## Znaczenie
-Uniwersytet Latający i TKN były ważnym elementem niezależnej kultury i nauki, kształtując kadry przyszłej opozycji i broniąc prawa do prawdy.`,
-    trivia: ['Wykłady odbywały się w prywatnych mieszkaniach, stąd nazwa „uniwersytet latający”.', 'Nawiązywała ona do tajnego nauczania z czasów zaborów i okupacji.'],
+Spotkania rozbijano: wyłączano prąd, blokowano wejścia, a bojówki opisywane w prasie jako „oburzeni obywatele” wdzierały się na wykłady i biły uczestników. Mimo to TKN działało do 1981 roku i stało się jednym z najważniejszych przedsięwzięć opozycji przedsierpniowej.`,
+    trivia: [
+      'Nazwa nawiązywała do tajnego nauczania z czasów zaborów, ale wykłady „latały” też dosłownie – zmieniano mieszkania.',
+      'Spotkania rozbijały bojówki opisywane w prasie jako „oburzeni obywatele”.',
+    ],
     resources: [
       {
         id: 'tkn-1',
@@ -17121,21 +17121,21 @@ Polskie Nagrania „Muza” ukształtowały fonograficzny krajobraz PRL; ich kat
     summary: 'Spontaniczny protest mieszkańców Zielonej Góry w obronie Domu Katolickiego przed odebraniem przez władze – jeden z pierwszych otwartych buntów religijnych w PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zielona_G%C3%B3ra%2C_Filharmonia_%281%29.jpg?width=800',
     imageCaption: 'Wydarzenia zielonogórskie 1960',
-    content: `## Tło
-W maju 1960 roku władze postanowiły odebrać wiernym Dom Katolicki w Zielonej Górze, przeznaczając budynek na cele świeckie. Decyzja wywołała gwałtowny sprzeciw mieszkańców.
+    content: `## O co poszło
+30 maja 1960 roku w Zielonej Górze doszło do wielogodzinnych starć ulicznych. Powodem była decyzja władz o odebraniu parafii Domu Katolickiego i likwidacji prowadzonych tam salek katechetycznych.
 
-## Protest
-Na wieść o eksmisji tłum, głównie kobiet i robotników, stanął w obronie budynku. Doszło do starć z milicją i ZOMO, które trwały wiele godzin i objęły centrum miasta.
+## Przebieg
+Gdy urzędnicy przystąpili do przejmowania budynku, zebrał się tłum broniący dostępu. Do rozpędzenia zgromadzonych skierowano milicję i zmotoryzowane odwody. Starcia objęły centrum miasta i trwały przez większą część dnia.
 
 ## Represje
-Władze brutalnie spacyfikowały protest. Aresztowano i skazano kilkadziesiąt osób w pokazowych procesach, a wydarzenia przemilczano w oficjalnych mediach.
+Zatrzymano kilkuset uczestników, a wobec kilkudziesięciu osób zapadły wyroki więzienia. Sprawę przedstawiono w prasie jako chuligaństwo inspirowane przez kler, unikając wskazania rzeczywistej przyczyny.
 
-## Znaczenie symboliczne
-Wydarzenia zielonogórskie były jednym z pierwszych masowych, otwartych wystąpień w obronie wiary i praw obywatelskich w okresie zaostrzającej się walki państwa z Kościołem.
-
-## Pamięć
-Długo zapomniane, dziś przypominane są jako przykład oddolnego oporu społecznego wobec ateizacyjnej polityki władz PRL.`,
-    trivia: ['Mieszkańcy bronili Domu Katolickiego przed przejęciem przez władze.', 'Doszło do wielogodzinnych starć z milicją.'],
+## Kontekst
+Wydarzenia zielonogórskie wpisują się w falę konfliktów o obecność religii w przestrzeni publicznej, jaka przetoczyła się przez Polskę na przełomie lat 50. i 60. – miesiąc wcześniej doszło do starć w Nowej Hucie, w obronie krzyża. Odwilż popaździernikowa w tej dziedzinie skończyła się wyraźnie wcześniej niż w innych.`,
+    trivia: [
+      'Powodem starć było odebranie parafii Domu Katolickiego i likwidacja salek katechetycznych.',
+      'Miesiąc wcześniej doszło do podobnych zajść w Nowej Hucie, w obronie krzyża.',
+    ],
     resources: [
       {
         id: 'zg-1',
@@ -17840,21 +17840,21 @@ Wojciech Fortuna jest pionierem polskich sukcesów w skokach narciarskich, preku
     summary: '31 sierpnia 1982 roku w Lubinie funkcjonariusze ZOMO otworzyli ogień do uczestników manifestacji, zabijając trzech demonstrantów.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Lubin_31.08.1982.jpg?width=800',
     imageCaption: 'Zbrodnia lubińska 1982',
-    content: `## Tło
-W drugą rocznicę porozumień sierpniowych, 31 sierpnia 1982 roku, w wielu miastach Polski odbyły się manifestacje przeciw stanowi wojennemu. Jedna z największych miała miejsce w Lubinie na Dolnym Śląsku.
+    content: `## Manifestacja
+31 sierpnia 1982 roku, w drugą rocznicę porozumień sierpniowych, w Lubinie na Dolnym Śląsku odbyła się pokojowa demonstracja. Podobne wystąpienia miały tego dnia miejsce w kilkudziesięciu miastach w całym kraju.
 
 ## Strzały
-Funkcjonariusze ZOMO użyli broni palnej z ostrą amunicją wobec pokojowych demonstrantów. Zginęły trzy osoby: Michał Adamowicz, Andrzej Trajkowski i Mieczysław Poźniak, a kilkadziesiąt zostało rannych.
+Funkcjonariusze służb milicyjnych otworzyli ogień z broni maszynowej do demonstrantów. Zginęły trzy osoby, jedenaście zostało rannych. Strzelano na otwartej przestrzeni, do ludzi nieuzbrojonych.
 
-## Tuszowanie
-Władze próbowały ukryć prawdę o zbrodni, fałszując okoliczności śmierci i utrudniając śledztwo. Sprawcy przez lata pozostawali bezkarni.
+## Zacieranie śladów
+Władze przedstawiły zajścia jako starcie z bojówkami, a dokumentację obrażeń i przebiegu wydarzeń utajniono. Zdjęcia wykonane przez przypadkowego świadka, pokazujące niesienie rannego, stały się jednym z najbardziej znanych obrazów stanu wojennego.
 
-## Pamięć
-Zbrodnia lubińska stała się jednym z symboli represji stanu wojennego. Po 1989 roku prowadzono procesy, a ofiary upamiętniono pomnikiem.
-
-## Znaczenie
-Wydarzenia w Lubinie pokazują brutalność aparatu represji wobec pokojowego oporu i należą do najtragiczniejszych kart stanu wojennego, obok pacyfikacji kopalni Wujek.`,
-    trivia: ['Milicja użyła ostrej amunicji wobec demonstrantów – zginęły trzy osoby.', 'Wydarzenia udokumentowały zdjęcia wykonane potajemnie z okien.'],
+## Rozliczenie
+Sprawców nie osądzono w czasach PRL. Postępowania podjęto dopiero po 1989 roku i ciągnęły się przez lata. Zbrodnia lubińska pozostaje jednym z najpoważniejszych przypadków użycia broni palnej wobec demonstrantów po wprowadzeniu stanu wojennego.`,
+    trivia: [
+      'Do pokojowej manifestacji strzelano z broni maszynowej; zginęły trzy osoby.',
+      'Zdjęcia niesionego rannego, zrobione przez przypadkowego świadka, stały się jednym z symboli stanu wojennego.',
+    ],
     resources: [
       {
         id: 'lub-1',
@@ -17959,21 +17959,21 @@ Konflikt o krzyż był dla władz najgorszym możliwym polem sporu: dotyczył rz
     summary: 'Podziemna rozgłośnia Solidarności, nadająca krótkie audycje mimo stanu wojennego – symbol niezależnej informacji i sprzeciwu wobec monopolu mediów.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Berta_with_antenna.jpg?width=800',
     imageCaption: 'Radio Solidarność',
-    content: `## Powstanie
-Radio Solidarność zaczęło nadawać w 1982 roku, w czasie stanu wojennego, jako inicjatywa podziemnych struktur związku. Pierwsze audycje w Warszawie przygotował zespół Zbigniewa Romaszewskiego.
+    content: `## Pierwsza audycja
+Radio „Solidarność” nadało pierwszą audycję 12 kwietnia 1982 roku o godzinie 21.00, cztery miesiące po wprowadzeniu stanu wojennego. Sygnał wyemitowano na falach UKF z dachu budynku przy ulicy Grójeckiej w Warszawie. Program trwał osiem i pół minuty.
 
-## Konspiracja
-Krótkie, kilkuminutowe audycje nadawano z ukrycia, z przenośnych nadajników, by uniknąć namierzenia. Informowano o nich wcześniej w ulotkach, podając częstotliwość i godzinę.
+## Jak to działało
+Nadajniki budowano samodzielnie i uruchamiano na krótko, z dachów i strychów, po czym natychmiast opuszczano miejsce. Audycje wchodziły na częstotliwość telewizji lub radia, żeby dotrzeć do przypadkowych odbiorców. Krótki czas emisji wynikał z obawy przed namierzeniem.
 
-## Treść
-Radio przekazywało prawdziwe informacje, apele, relacje z protestów i wezwania do oporu – przełamując monopol propagandy Dziennika Telewizyjnego i oficjalnych mediów.
+## Zasięg
+Stacje działały w kilkunastu miastach, niezależnie od siebie. Zasięg pojedynczej audycji obejmował dzielnicę, ale wiadomość o samym fakcie nadawania rozchodziła się znacznie szerzej – i to ona miała największe znaczenie.
 
-## Represje
-Służba Bezpieczeństwa intensywnie tropiła nadajniki i ludzi radia. Wpadki kończyły się aresztowaniami i procesami, lecz audycje wznawiano w kolejnych miastach.
-
-## Znaczenie
-Radio Solidarność stało się symbolem niezależnej informacji i pomysłowości podziemia, dowodząc, że nawet w eterze można było przełamać monopol władzy.`,
-    trivia: ['Pierwszą audycję nadano w kwietniu 1982, kilka miesięcy po wprowadzeniu stanu wojennego.', 'Nadajniki przenoszono po mieszkaniach, by uniknąć namierzenia.'],
+## Po co
+Sens radia podziemnego polegał nie tyle na przekazaniu informacji, ile na dowodzie, że podziemie istnieje i działa w miejscach, których władza nie kontroluje. W stanie wojennym, gdy odcięto telefony i cenzurowano listy, był to komunikat sam w sobie.`,
+    trivia: [
+      'Pierwsza audycja trwała osiem i pół minuty i nadano ją z dachu budynku przy Grójeckiej.',
+      'Nadajniki uruchamiano na kilka minut i natychmiast opuszczano miejsce, żeby uniknąć namierzenia.',
+    ],
     resources: [
       {
         id: 'radio-solidarnosc-pkf',
@@ -18029,21 +18029,21 @@ Radio Solidarność stało się symbolem niezależnej informacji i pomysłowośc
     summary: 'Fabryka Samochodów Osobowych na warszawskim Żeraniu i jej sztandarowy model Polonez – nowoczesny jak na PRL samochód rodzinny, marzenie wielu kierowców.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Polonez_niebieski.jpg?width=800',
     imageCaption: 'FSO i Polonez',
-    content: `## FSO Żerań
-Fabryka Samochodów Osobowych na warszawskim Żeraniu była głównym producentem samochodów osobowych w PRL. Wcześniej powstawały tu Warszawa i Syrena.
+    content: `## Następca Dużego Fiata
+Polonez wszedł do produkcji 3 maja 1978 roku jako następca Polskiego Fiata 125p. W praktyce oba modele wytwarzano równolegle jeszcze przez trzynaście lat, co samo w sobie mówi wiele o tempie modernizacji przemysłu.
 
-## Polonez
-W 1978 roku zaprezentowano Poloneza – nowoczesny, większy samochód rodzinny, zaprojektowany przy współpracy z Fiatem i włoskimi stylistami. Miał być dumą polskiej motoryzacji.
+## Co było nowe
+Nowoczesne było przede wszystkim pięciodrzwiowe nadwozie typu hatchback, zaprojektowane z udziałem włoskiego studia. Pod nim kryła się jednak technika odziedziczona po poprzedniku: ten sam układ napędowy, zmodyfikowane silniki, hamulce i zawieszenie.
 
-## Marzenie i kolejki
-Polonez, obok Fiata 126p, był obiektem pożądania. Na samochód czekało się latami, zdobywając talony, a ceny i dostępność czyniły go dobrem luksusowym.
+## Dlaczego tak
+Wygaśnięcie licencji Fiata w 1983 roku odcięło fabrykę od dopływu nowych rozwiązań, a kryzys zadłużenia uniemożliwił zakup kolejnych. Polonez musiał więc trwać przez całe lata 80. w zasadniczo niezmienionej postaci, coraz bardziej odstając od europejskich konkurentów.
 
-## Eksport i trwałość
-Poloneza eksportowano, a produkcję (w zmienianych wersjach) kontynuowano przez dekady. Mimo niedoskonałości stał się ikoną polskiej motoryzacji.
-
-## Znaczenie
-FSO i Polonez symbolizują ambicje i ograniczenia przemysłu PRL – techniczny postęp realizowany w warunkach gospodarki niedoboru.`,
-    trivia: ['Nadwozie Poloneza zaprojektowało włoskie studio Giugiaro.', 'Auto weszło do produkcji w 1978 roku i pozostało w niej przez ponad dwie dekady.'],
+## Symbol
+Dla polskiego nabywcy pozostawał samochodem prestiżowym, bo droższym i większym od Malucha. Dziś jest jednym z najbardziej rozpoznawalnych obrazów schyłku PRL: nowoczesnej formy, pod którą kryje się technika sprzed dekady.`,
+    trivia: [
+      'Polonez i jego poprzednik, Duży Fiat, były produkowane równolegle przez trzynaście lat.',
+      'Po wygaśnięciu licencji Fiata w 1983 roku fabryka straciła dostęp do nowych rozwiązań technicznych.',
+    ],
     resources: [
       {
         id: 'fso-polonez-pkf',
@@ -18582,21 +18582,21 @@ We wrześniu 1953 roku skazano biskupa kieleckiego Czesława Kaczmarka, a wkrót
     yearStart: 1964,
     yearEnd: 1965,
     summary: 'Głośna afera gospodarcza z lat 60. dotycząca nielegalnego handlu mięsem; zakończona pokazowym procesem i kontrowersyjnym wyrokiem śmierci dla Stanisława Wawrzeckiego.',
-    content: `## Tło
-W gospodarce niedoboru handel mięsem był polem nadużyć. W 1964 roku wykryto rozległy proceder nielegalnego obrotu mięsem w warszawskich zakładach mięsnych i handlu.
+    content: `## Sprawa
+Afera mięsna z pierwszej połowy lat 60. dotyczyła nieprawidłowości w handlu mięsem: kradzieży, podmieniania towaru lepszego na gorszy, fałszowania faktur i łapówek za większe przydziały dostaw. Nieprawidłowości wykryła specjalna komisja partyjna.
 
-## Proces
-Władze urządziły pokazowy proces, mający pokazać walkę z „aferzystami” i odwrócić uwagę od systemowych przyczyn niedoboru. Oskarżonych przedstawiano jako pasożytów żerujących na społeczeństwie.
+## Skala
+Aresztowano około czterystu osób. Główną postacią procesu stał się Stanisław Wawrzecki, dyrektor Miejskiego Handlu Mięsem Warszawa Praga.
 
-## Wyrok śmierci
-Dyrektora Miejskiego Handlu Mięsem Stanisława Wawrzeckiego skazano na karę śmierci i stracono w 1965 roku – wyrok uznano za rażąco niesprawiedliwy i wykorzystany propagandowo.
+## Wyrok
+Wawrzecki został skazany na karę śmierci i stracony w 1965 roku. Wyrok śmierci za przestępstwo gospodarcze był w ówczesnej Europie przypadkiem odosobnionym i do dziś uchodzi za przykład kary orzeczonej dla przykładu, a nie za czyn.
 
-## Kontrowersje
-Proces ujawnił mechanizmy korupcji wpisane w gospodarkę centralnie planowaną, a zarazem brutalność systemu, który winą obarczał jednostki, nie struktury.
-
-## Znaczenie
-Afera mięsna stała się symbolem patologii gospodarki niedoboru oraz instrumentalnego traktowania wymiaru sprawiedliwości przez władze PRL.`,
-    trivia: ['W procesie z 1964 roku Stanisław Wawrzecki został skazany na karę śmierci i stracony.', 'Wyrok uznaje się za pokazowy – karę orzeczono za przestępstwo gospodarcze.'],
+## Co to mówi o systemie
+Afera pokazała mechanizm nieuchronny w gospodarce niedoboru: tam, gdzie towar jest reglamentowany, a jego cena urzędowa nie odpowiada realnej wartości, decydujący staje się dostęp do rozdzielnictwa. Karanie pojedynczych dyrektorów nie mogło tego zmienić, bo źródłem zjawiska był sam sposób zarządzania.`,
+    trivia: [
+      'Stanisław Wawrzecki został skazany na karę śmierci i stracony – za przestępstwo gospodarcze.',
+      'W aferze aresztowano około czterystu osób.',
+    ],
     resources: [
       {
         id: 'am-1',
@@ -19040,20 +19040,20 @@ Turowicz to symbol niezależnego dziennikarstwa i katolicyzmu otwartego; jego pr
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/THE_TRIAL_OF_THE_SIXTEEN%2C_JUNE_1945_Presiding_judge_of_the_trial%2C_Colonel-General_Vasiliy_Ulrikh_%28centre%29.jpg?width=800',
     imageCaption: 'Proces szesnastu',
     content: `## Podstęp
-W marcu 1945 roku NKWD podstępnie aresztowało szesnastu przywódców Polskiego Państwa Podziemnego, zaproszonych na rzekome rozmowy pod gwarancją bezpieczeństwa, m.in. wicepremiera Jana Stanisława Jankowskiego i gen. Leopolda Okulickiego.
+W marcu 1945 roku przywódcy Polskiego Państwa Podziemnego przyjęli zaproszenie na rozmowy z przedstawicielem dowództwa radzieckiego, otrzymawszy gwarancje bezpieczeństwa. Zamiast negocjacji nastąpiło aresztowanie: szesnastu osób wywieziono do Moskwy.
 
-## Proces w Moskwie
-Uprowadzonych przewieziono do Moskwy i w czerwcu 1945 roku osądzono w pokazowym procesie przed Kolegium Wojskowym Sądu Najwyższego ZSRR, oskarżając o działalność „antyradziecką”.
+## Kto
+Wśród zatrzymanych byli Delegat Rządu na Kraj Jan Stanisław Jankowski, ostatni komendant Armii Krajowej gen. Leopold Okulicki i przewodniczący Rady Jedności Narodowej Kazimierz Pużak. Aresztowano więc jednocześnie cywilne i wojskowe kierownictwo podziemia.
 
-## Wyroki
-Zapadły wyroki więzienia; część skazanych zmarła w sowieckich więzieniach. Proces był aktem bezprawia wobec legalnych władz Polski Podziemnej.
-
-## Wymowa
-Odbywał się w czasie, gdy na Zachodzie tworzono podporządkowany Moskwie Tymczasowy Rząd Jedności Narodowej – proces miał złamać niezależne struktury państwa polskiego.
+## Proces
+Rozprawa odbyła się w czerwcu 1945 roku przed Kolegium Wojskowym Sądu Najwyższego ZSRR. Oskarżono ich o dywersję na tyłach Armii Czerwonej i działalność wrogą wobec Związku Radzieckiego. Zapadły wyroki więzienia; najwyższy, dziesięcioletni, otrzymał Okulicki.
 
 ## Znaczenie
-Proces szesnastu symbolizuje sposób, w jaki ZSRR likwidował niepodległościowe elity, narzucając Polsce komunistyczną dominację.`,
-    trivia: ['Przywódców Polskiego Państwa Podziemnego zwabiono na rozmowy i podstępnie aresztowano.', 'Proces odbył się w Moskwie w 1945 roku, gdy trwała jeszcze konferencja w San Francisco.'],
+Proces toczył się dokładnie wtedy, gdy w Moskwie negocjowano skład Tymczasowego Rządu Jedności Narodowej. Zbieżność nie była przypadkowa: usunięcie przywódców podziemia poprzedziło porozumienie, które Zachód uznał kilka tygodni później. Okulicki i Jankowski zmarli w radzieckich więzieniach.`,
+    trivia: [
+      'Aresztowanych zwabiono na rozmowy, dając im wcześniej gwarancje bezpieczeństwa.',
+      'Proces toczył się w tym samym czasie, gdy w Moskwie ustalano skład Tymczasowego Rządu Jedności Narodowej.',
+    ],
     resources: [
       {
         id: 'ps16-1',
@@ -19159,20 +19159,20 @@ Przez cały okres PRL temat był objęty całkowitym zakazem. Rodziny nie mogły
     yearEnd: 1950,
     summary: 'Przeprowadzona w 1950 roku wymiana pieniędzy po nierównym kursie, która de facto skonfiskowała oszczędności obywateli na rzecz państwa.',
     content: `## Reforma
-W październiku 1950 roku władze przeprowadziły reformę walutową – wymianę starych złotych na nowe, ogłoszoną nagle, by uniemożliwić obywatelom reakcję.
+Pod koniec października 1950 roku przeprowadzono wymianę pieniędzy. Ogłoszono ją nagle, a na wymianę dano zaledwie kilka dni – tak krótko, by nikt nie zdążył ulokować gotówki.
 
-## Nierówny kurs
-Gotówkę wymieniano w niekorzystnym przeliczniku 100:3 (a nawet gorszym dla części środków), podczas gdy ceny i płace przeliczano korzystniej – w praktyce skonfiskowano realną wartość oszczędności.
+## Podwójny kurs
+Istota reformy tkwiła w dwóch różnych przelicznikach. Płace, ceny i zobowiązania przeliczano w stosunku sto do trzech, natomiast gotówkę wymieniano sto do jednego. Kto trzymał pieniądze w domu, tracił dwie trzecie ich wartości.
 
-## Cel
-Reforma uderzyła zwłaszcza w prywatnych przedsiębiorców, rzemieślników i rolników, pozbawiając ich kapitału. Była elementem stalinowskiej polityki niszczenia „prywatnej inicjatywy”.
+## Kogo uderzyła
+Najmocniej dotknęła tych, którzy operowali gotówką: rzemieślników, prywatnych handlowców i chłopów. Była więc nie tylko operacją monetarną, ale i elementem walki z sektorem prywatnym, prowadzonej równolegle przez bitwę o handel i domiary podatkowe.
 
-## Skutki
-Obywatele stracili znaczną część zgromadzonych pieniędzy. Operacja podkopała zaufanie do państwa i pieniądza, a oszczędzanie „w skarpecie” czy w dobrach stało się powszechne.
-
-## Znaczenie
-Reforma 1950 to przykład, jak komunistyczne państwo wykorzystywało aparat finansowy jako narzędzie represji ekonomicznej wobec własnych obywateli.`,
-    trivia: ['Oszczędności wymieniano po kursie 100 starych złotych za 1 nowy.', 'Operację ogłoszono i przeprowadzono w ciągu kilku dni, by nikt nie zdążył zareagować.'],
+## Skutek
+Reforma odebrała oszczędności znacznej części społeczeństwa i na długo podkopała zaufanie do pieniądza oraz do instytucji państwa. Nawyk trzymania majątku w towarach, dewizach lub złocie, a nie w złotówkach, przetrwał w Polsce dekady.`,
+    trivia: [
+      'Gotówkę wymieniano w stosunku sto do jednego, a płace i ceny przeliczano sto do trzech.',
+      'Na wymianę dano zaledwie kilka dni, żeby nikt nie zdążył ulokować gotówki.',
+    ],
     resources: [
       {
         id: 'wpz-pkf',
@@ -19271,20 +19271,20 @@ Komiks PRL, mimo niedoboru papieru i kontroli treści, ukształtował wyobraźni
     yearEnd: 1989,
     summary: 'Prorządowe stowarzyszenie katolików świeckich kierowane przez Bolesława Piaseckiego, wykorzystywane przez władze do rozbijania jedności Kościoła.',
     content: `## Geneza
-Stowarzyszenie PAX powstało na przełomie lat 40., a jego liderem był Bolesław Piasecki, przedwojenny działacz nacjonalistyczny, który po wojnie ułożył się z komunistami.
+Stowarzyszenie PAX zbudował Bolesław Piasecki – przed wojną przywódca skrajnie nacjonalistycznej Falangi, aresztowany w 1944 roku przez NKWD i zwolniony po rozmowach z gen. Iwanem Sierowem. Od 1947 roku środowisko wydawało dziennik „Słowo Powszechne”.
 
-## „Katolicy koncesjonowani”
-PAX prezentował się jako ruch katolików świeckich akceptujących socjalizm. Władze wykorzystywały go do osłabiania niezależnego Kościoła i tworzenia wrażenia poparcia katolików dla systemu.
+## Katolicy koncesjonowani
+PAX przedstawiał się jako ruch katolików świeckich akceptujących socjalizm. Władzom dawał to, czego same nie mogły wytworzyć: katolicki głos popierający ustrój. Hierarchia kościelna traktowała stowarzyszenie z nieufnością, widząc w nim narzędzie rozbijania jedności Kościoła.
 
-## Działalność
-Stowarzyszenie prowadziło wydawnictwo (Instytut Wydawniczy PAX), prasę i przedsiębiorstwa, dysponując znacznymi środkami. Jego pozycja budziła nieufność hierarchii kościelnej.
+## Imperium gospodarcze
+Stowarzyszenie dysponowało własnym wydawnictwem, prasą i przedsiębiorstwami, co dawało mu środki nieporównywalne z możliwościami niezależnych środowisk katolickich. Instytut Wydawniczy PAX wydawał zarówno literaturę religijną, jak i pozycje niedostępne gdzie indziej.
 
-## Rola polityczna
-PAX wspierał politykę władz wobec Kościoła, w tym w okresach napięć. Był narzędziem dywersji i kontroli, choć zachowywał pozory niezależności.
-
-## Znaczenie
-PAX to przykład mechanizmu „dziel i rządź” – prób rozbijania jedności katolików i instrumentalnego wykorzystywania religii przez komunistyczne państwo.`,
-    trivia: ['Stowarzyszenie skupiało katolików akceptujących ustrój.', 'Kierował nim Bolesław Piasecki, przed wojną działacz nacjonalistyczny.'],
+## Rola
+PAX jest przykładem metody stosowanej przez władze konsekwentnie: zamiast likwidować środowisko, tworzono jego koncesjonowany odpowiednik i przeciwstawiano go oryginałowi. Ten sam mechanizm widać w związkach zawodowych, organizacjach młodzieżowych i stronnictwach politycznych.`,
+    trivia: [
+      'Piasecki wyszedł z więzienia NKWD po rozmowach z gen. Iwanem Sierowem i wkrótce zaczął budować PAX.',
+      'Stowarzyszenie miało własne wydawnictwo i przedsiębiorstwa, więc dysponowało środkami nieosiągalnymi dla niezależnych katolików.',
+    ],
     resources: [
       {
         id: 'px-1',
@@ -20121,21 +20121,21 @@ Henryka Krzywonos to symbol roli zwykłych ludzi i kobiet w narodzinach Solidarn
     summary: 'Masowa organizacja z lat 1948–1955, w ramach której młodzież kierowano do przymusowej pracy fizycznej i indoktrynacji w junackich brygadach.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Junacy_ze_S%C5%82u%C5%BCby_Polsce_na_obozie_w_Ksi%C4%99ginicach.jpg?width=800',
     imageCaption: 'Powszechna Organizacja „Służba Polsce”',
-    content: `## Geneza
-Powszechną Organizację „Służba Polsce” (SP) powołano w 1948 roku, by zmobilizować młodzież do pracy przy wielkich inwestycjach planu sześcioletniego i poddać ją ideologicznemu wychowaniu.
+    content: `## Organizacja
+Powszechna Organizacja „Służba Polsce” istniała w latach 1948–1955 i obejmowała młodzież w wieku od szesnastu do dwudziestu jeden lat. Była formacją paramilitarną: z mundurem, dyscypliną, musztrą i przysięgą.
 
-## Brygady junackie
-Młodzież – „junaków” – kierowano do brygad pracy przy budowach, kopalniach, melioracji czy Nowej Hucie. Praca była ciężka, a warunki często bardzo trudne.
+## Praca i szkolenie
+Uczestników kierowano do brygad pracy przy wielkich budowach, wykopach, melioracjach i żniwach, łącząc to ze szkoleniem wojskowym i politycznym. Udział formalnie był powszechnym obowiązkiem, a nie ochotniczym zgłoszeniem.
 
-## Przymus i indoktrynacja
-Udział bywał faktycznie przymusowy; obok pracy prowadzono szkolenie wojskowe i intensywną indoktrynację w duchu stalinowskim, łącząc „wychowanie” z eksploatacją.
+## Po co
+Organizacja rozwiązywała trzy problemy naraz: dostarczała taniej siły roboczej do inwestycji planu sześcioletniego, obejmowała młodzież kontrolą ideologiczną i przygotowywała rezerwy dla wojska. Praca fizyczna była tu zarazem środkiem wychowawczym.
 
-## Represyjny charakter
-Dla części młodzieży, zwłaszcza o „niewłaściwym” pochodzeniu, brygady SP były formą represji i taniej siły roboczej, zbliżonej do pracy przymusowej.
-
-## Znaczenie
-„Służba Polsce” to przykład militaryzacji i wyzysku młodego pokolenia w okresie stalinizmu; organizację rozwiązano po odwilży, w 1955 roku.`,
-    trivia: ['Junaków kierowano do pracy przy odbudowie kraju i wielkich budowach.', 'Organizację rozwiązano w połowie lat 50.'],
+## Koniec
+Organizację rozwiązano w 1955 roku, u progu odwilży. Pozostała w pamięci jako jeden z najbardziej charakterystycznych przejawów stalinowskiego podejścia do młodzieży: entuzjazm miał być zorganizowany odgórnie, a udział w nim obowiązkowy.`,
+    trivia: [
+      'Udział formalnie był obowiązkiem powszechnym, mimo że organizacja nazywała się „Służba Polsce”.',
+      'Brygady pracy dostarczały taniej siły roboczej na budowy planu sześcioletniego.',
+    ],
     resources: [
       {
         id: 'sp-1',
@@ -21599,21 +21599,21 @@ Ogródki działkowe to trwały element pejzażu i obyczajowości PRL, a wiele z 
     summary: 'Pierwszy polski powojenny samochód osobowy produkowany seryjnie (1957–1983) – skromny, dwusuwowy, lecz kultowy pojazd epoki.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/FSO%20Syrena%20103.JPG?width=800',
     imageCaption: 'FSO Syrena 103 – polski samochód osobowy produkcji z lat 60.',
-    trivia: ['Silnik Syreny był dwusuwowy – do benzyny trzeba było dolewać oleju.', 'Ze względu na charakterystyczny dźwięk i wygląd auto zyskało przezwiska, m.in. „skarpeta”.'],
-    content: `## Polski samochód
-Syrena była pierwszym polskim powojennym samochodem osobowym produkowanym seryjnie. Prototyp powstał w 1953 roku, a produkcję rozpoczęto w 1957 w FSO na warszawskim Żeraniu.
+    trivia: [
+      'Wyprodukowano ponad 520 tysięcy Syren, a produkcja trwała od 1957 do 1983 roku.',
+      'Silnik dwusuwowy wymagał mieszania oleju z benzyną przy każdym tankowaniu.',
+    ],
+    content: `## Pierwszy własny samochód
+Syrenę produkowano od 1957 roku w warszawskiej Fabryce Samochodów Osobowych, a od 1972 roku w Bielsku-Białej. Była to konstrukcja polska, nie licencyjna – co czyniło ją przedmiotem dumy, ale też źródłem wszystkich jej wad.
 
 ## Konstrukcja
-Napędzana głośnym, dymiącym silnikiem dwusuwowym, o nadwoziu samonośnym, Syrena była konstrukcją skromną i prostą w naprawie – „zrób to sam” było częścią jej legendy.
+Miała silnik dwusuwowy, napęd na przednie koła i nadwozie początkowo z drewnianym szkieletem krytym blachą. Dwusuw oznaczał charakterystyczny dźwięk, niebieski dym i konieczność mieszania oleju z benzyną przy każdym tankowaniu.
 
-## Modele
-Kolejne wersje (100, 101, 102, 103, 104 i najpopularniejsza 105) produkowano do 1972 w FSO, a następnie w FSM w Bielsku-Białej do 1983 roku.
+## Skala
+Wyprodukowano ponad pięćset dwadzieścia tysięcy egzemplarzy. Przez lata Syrena była jedynym samochodem realnie dostępnym dla prywatnego nabywcy – o ile ten doczekał swojej kolejki, bo na przydział czekano latami.
 
-## Marzenie i kłopot
-W realiach niedoboru Syrena była upragnionym dobrem, choć awaryjnym; obok Fiata 126p stała się symbolem motoryzacji PRL i przedmiotem licznych dowcipów.
-
-## Znaczenie
-Syrena to ikona polskiej myśli technicznej epoki – świadectwo ambicji własnej motoryzacji i zarazem ograniczeń gospodarki centralnie planowanej.`,
+## Pamięć
+Syrena stała się bohaterką dowcipów i zarazem obiektem sentymentu. Dla pokolenia, które ją pamięta, jest skrótem opisującym całą epokę: konstrukcję pomysłową w warunkach niedoboru, wykonaną z tego, co było pod ręką.`,
     resources: [
       {
         id: 'syrena-samochod-pkf',
