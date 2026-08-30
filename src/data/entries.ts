@@ -672,27 +672,17 @@ Sierpień 1980 był przełomem – pokojowym zwycięstwem społeczeństwa nad w�
     summary: 'Gospodarka PRL oparta była na centralnym planowaniu i własności państwowej. Charakteryzowała się cyklami inwestycji, niedoborów towarowych, reglamentacji i zadłużenia zagranicznego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/%C5%9Aciana_Wschodnia_i_Hotel_Forum_w_Warszawie.jpg?width=800',
     imageCaption: 'Gospodarka PRL',
-    content: `Gospodarka PRL opierała się na modelu sowieckim: własności państwowej środków produkcji, centralnym planowaniu i prymacie przemysłu ciężkiego.
+    content: `## Zasada
+Gospodarka PRL była gospodarką planową i państwową. Środki produkcji należały do państwa, ceny ustalano decyzją administracyjną, a o tym, co i ile wyprodukować, rozstrzygał plan, a nie popyt. Rynek jako mechanizm nie istniał.
 
-**Główne okresy gospodarcze:**
+## Cztery fazy
+Okres powojenny dzieli się wyraźnie. Do 1949 roku trwała odbudowa przy zachowaniu sektora prywatnego. Plan sześcioletni 1950–1955 przestawił kraj na przemysł ciężki kosztem konsumpcji. Dekada Gierka to inwestycje na kredyt zachodni i wzrost stopy życiowej. Lata 80. to kryzys zadłużenia, reglamentacja i spadek produkcji.
 
-**Plan 3-letni (1947–1949):** Odbudowa zniszczeń wojennych, nacjonalizacja przemysłu.
+## Chroniczny niedobór
+Cechą stałą był niedobór: kolejki, kartki, deficytowe towary i rozdzielnictwo. Wynikał on nie z braku mocy produkcyjnych, lecz z ustalania cen poniżej kosztów i z premiowania wykonania planu ilościowego zamiast dopasowania produkcji do potrzeb.
 
-**Plan 6-letni (1950–1955):** Forsowna industrializacja na wzór stalinowski. Budowa Nowej Huty, Nowych Tychów, Nowej Soli. Drastyczny spadek poziomu życia.
-
-**Gierkowska dekada (1970–1980):** Pożyczki z Zachodu, import technologii, poprawa poziomu życia. Zakończona kryzysem zadłużenia.
-
-**Reglamentacja towarów:**
-Kartki na żywność i artykuły przemysłowe wprowadzano kilkakrotnie:
-- Cukier (od 1976)
-- Mięso (1981–1989)
-- Masło, benzyna, papierosy, alkohol, buty...
-
-**Dług zagraniczny:**
-W 1989 roku dług zewnętrzny PRL wynosił ok. **42 miliardy dolarów**.
-
-**Czarny rynek i "kombinowanie":**
-Powszechne zjawisko społeczne. "Dolar" i towary z Pewexu były twardą walutą wymiany.`,
+## Reformy, które nie mogły się udać
+Kolejne próby naprawy – w 1956, 1973 i 1982 roku – zakładały większą samodzielność przedsiębiorstw, ale za każdym razem centrum odzyskiwało kontrolę. Rezygnacja z rozdzielnictwa oznaczałaby bowiem rezygnację z władzy nad gospodarką, a tej żadna ekipa nie była gotowa oddać.`,
     trivia: ['Ceny ustalało państwo, a nie rynek.', 'Braki towarów były trwałym elementem systemu, nie wyjątkiem.'],
     resources: [
       {
@@ -15287,20 +15277,17 @@ Druga gospodarka ilustruje strukturalną niewydolność systemu i przedsiębiorc
     summary: 'Paramilitarna, masowa formacja wspierająca milicję, wykorzystywana do kontroli społecznej, akcji porządkowych i tłumienia protestów.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Odznaka_ORMO.jpg?width=800',
     imageCaption: 'ORMO',
-    content: `## Powstanie
-Ochotniczą Rezerwę Milicji Obywatelskiej powołano w 1946 roku jako paramilitarną formację wspierającą Milicję Obywatelską i władze w utrzymaniu „porządku”.
+    content: `## Czym było
+Ochotnicza Rezerwa Milicji Obywatelskiej powstała w lutym 1946 roku jako paramilitarna organizacja wspierająca milicję. Służba była bezpłatna i formalnie dobrowolna, a przyjmowano do niej osoby między osiemnastym a czterdziestym piątym rokiem życia.
 
-## Masowość
-ORMO liczyła setki tysięcy członków. Wstępowano do niej z pobudek ideowych, dla przywilejów lub pod presją w zakładach pracy. Stanowiła narzędzie kontroli społecznej.
+## Skala
+W szczytowym okresie ORMO liczyła około czterystu tysięcy członków, rekrutowanych przede wszystkim spośród członków PZPR, ale też stronnictw satelickich i bezpartyjnych. Była to więc struktura porównywalna liczebnie z armią.
 
 ## Zadania
-ORMO-wcy pełnili służbę porządkową, patrolowali ulice, kontrolowali handel, uczestniczyli w akcjach przeciw „spekulantom”. Bywali też wykorzystywani do rozpędzania demonstracji.
+Ormowcy pomagali przy zabezpieczaniu imprez masowych, patrolach, kontrolach porządkowych i akcjach przeciw handlowi nielegalnemu. Byli też wykorzystywani przy tłumieniu wystąpień społecznych, co w pamięci zbiorowej przesądziło o odbiorze całej formacji.
 
-## Rola w represjach
-Formacja uczestniczyła w tłumieniu protestów, m.in. w 1968 i 1976 roku, wspierając milicję i SB. Jej zaangażowanie budziło niechęć społeczeństwa.
-
-## Znaczenie
-ORMO było typowym dla systemu narzędziem wciągania obywateli w aparat kontroli, rozmywającym granicę między państwem a społeczeństwem. Rozwiązano je w 1989 roku.`,
+## Rozwiązanie
+Organizację zlikwidowano ustawą Sejmu z 23 listopada 1989 roku – jedną z pierwszych decyzji parlamentu po zmianie ustroju. Sam pośpiech w jej rozwiązaniu pokazuje, jak silnie kojarzono ją z aparatem przemocy poprzedniego systemu.`,
     trivia: ['ORMO było ochotniczą formacją wspierającą milicję, także przy tłumieniu protestów.', 'Jej członkowie zachowywali normalną pracę – służyli po godzinach.'],
     resources: [
       {
@@ -16323,20 +16310,17 @@ Orędzie biskupów uznawane jest dziś za jeden z fundamentów pojednania polsko
     yearStart: 1975,
     yearEnd: 1976,
     summary: 'Wpisanie do konstytucji „kierowniczej roli PZPR” i sojuszu z ZSRR wywołało protesty intelektualistów, m.in. słynny List 59.',
-    content: `## Projekt zmian
-Na przełomie 1975 i 1976 roku władze przygotowały nowelizację konstytucji PRL, wpisującą do niej „kierowniczą rolę PZPR” oraz „nierozerwalny sojusz” z ZSRR.
+    content: `## Zmiana
+W lutym 1976 roku Sejm uchwalił nowelizację konstytucji PRL. Wpisano do niej kierowniczą rolę PZPR w państwie oraz nienaruszalność sojuszu ze Związkiem Radzieckim. To, co dotąd było praktyką ustrojową, stało się przepisem.
 
-## List 59
-W grudniu 1975 roku 59 intelektualistów, pisarzy i naukowców podpisało protest – „List 59” – sprzeciwiając się zapisom ograniczającym suwerenność i prawa obywatelskie.
+## Protesty
+Projekt wywołał falę listów protestacyjnych środowisk inteligenckich, z Listem 59 na czele. Sygnatariusze wskazywali, że zapis o sojuszu ogranicza suwerenność, a kierownicza rola partii przekreśla zwierzchnictwo narodu.
 
-## Fala protestów
-List 59 zapoczątkował serię petycji i protestów środowisk twórczych i kościelnych. Mimo to nowelizację uchwalono w 1976 roku, choć w nieco złagodzonej formie.
+## Jedyny sprzeciw w Sejmie
+W głosowaniu jedynym posłem, który nie poparł zmian, był Stanisław Stomma z koła Znak. Kosztowało go to mandat: w kolejnej kadencji nie znalazł się na liście. Był to jedyny taki przypadek w historii Sejmu PRL.
 
-## Krok ku opozycji
-Protesty wokół konstytucji zintegrowały środowiska opozycyjne i były ważnym etapem na drodze do powstania KOR i jawnej opozycji demokratycznej.
-
-## Znaczenie
-Sprawa nowelizacji pokazała rosnącą gotowość inteligencji do publicznego sprzeciwu i ujawniła fasadowość „demokracji ludowej”.`,
+## Skutek
+Kampania protestacyjna zintegrowała środowiska, które kilka miesięcy później, po represjach wobec robotników Radomia i Ursusa, utworzyły Komitet Obrony Robotników. Rok 1976 zaczął się od protestu inteligencji, a skończył jej trwałym sojuszem z robotnikami.`,
     trivia: ['Wpisano do konstytucji kierowniczą rolę PZPR i sojusz z ZSRR.', 'Protest przeciw zmianom podpisało 59 intelektualistów.'],
     resources: [
       {
@@ -17197,20 +17181,17 @@ Długo zapomniane, dziś przypominane są jako przykład oddolnego oporu społec
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Wydobycie węgla było filarem gospodarki PRL i głównym towarem eksportowym; górnicy cieszyli się przywilejami, lecz pracowali w trudnych i niebezpiecznych warunkach.',
-    content: `## Filar gospodarki
-Węgiel kamienny – „czarne złoto” – był podstawą energetyki i głównym towarem eksportowym PRL, źródłem dewiz potrzebnych do spłaty długów i importu.
+    content: `## Fundament gospodarki
+Węgiel kamienny był w PRL surowcem, na którym opierało się wszystko: energetyka, hutnictwo, ogrzewanie mieszkań i eksport przynoszący dewizy. Górnictwo zatrudniało setki tysięcy ludzi, głównie na Górnym Śląsku.
 
-## Górniczy stan
-Górnicy byli grupą uprzywilejowaną: zarabiali więcej, otrzymywali deputaty węglowe, wczasy i wcześniejsze emerytury. Górniczy mundur i Barbórka miały wysoki prestiż.
+## Przywileje
+Górnik był w hierarchii socjalnej wysoko: wyższe zarobki, deputat węglowy, wcześniejsza emerytura, pierwszeństwo w przydziale mieszkań, a przy okazji Barbórki – oficjalne honory. Zawód opłacalny, ale też jeden z najbardziej niebezpiecznych.
 
-## Forsowne wydobycie
-W dekadzie Gierka forsowano rekordowe wydobycie, m.in. pracą w wolne soboty i niedziele. Eksploatacja odbywała się kosztem bezpieczeństwa i zdrowia załóg.
+## Wydobycie ponad wszystko
+Plany zakładały stały wzrost wydobycia, co w latach 70. doprowadziło do pracy w system czterobrygadowy, także w niedziele. Ceną było zmęczenie załóg, wypadkowość i rabunkowa eksploatacja złóż, prowadzona pod presją wskaźników, a nie rachunku ekonomicznego.
 
-## Opór i represje
-Śląskie kopalnie stały się ośrodkami Solidarności. W stanie wojennym to właśnie w kopalni Wujek doszło do najtragiczniejszej pacyfikacji – śmierci 9 górników.
-
-## Znaczenie
-Górnictwo węglowe symbolizuje zarówno potęgę przemysłową, jak i strukturalne problemy gospodarki PRL: nadmierną eksploatację surowców i ludzi.`,
+## Wujek
+16 grudnia 1981 roku, trzy dni po wprowadzeniu stanu wojennego, w kopalni Wujek w Katowicach oddziały ZOMO otworzyły ogień do strajkujących górników. Zginęło dziewięciu ludzi. Była to najkrwawsza pacyfikacja stanu wojennego i moment, w którym mit górnika-filaru systemu ostatecznie się załamał.`,
     trivia: ['Węgiel był głównym towarem eksportowym PRL.', 'Górnicy mieli przywileje – deputat węglowy i hucznie obchodzoną Barbórkę.'],
     resources: [
       {
@@ -17919,20 +17900,17 @@ Wydarzenia w Lubinie pokazują brutalność aparatu represji wobec pokojowego op
     yearStart: 1984,
     yearEnd: 1984,
     summary: 'Protesty uczniów i rodziców w obronie krzyży w szkołach (Miętne, Włoszczowa) w 1984 roku – sprzeciw wobec usuwania symboli religijnych z placówek.',
-    content: `## Tło
-W 1984 roku władze, realizując politykę laicyzacji, nakazały usunięcie krzyży z sal lekcyjnych w szkołach. Wywołało to spontaniczny opór uczniów, rodziców i Kościoła.
+    content: `## O co szło
+Spór o obecność krzyża w przestrzeni publicznej wracał przez cały okres PRL. Państwo usuwało krzyże ze szkół, szpitali i miejsc publicznych, powołując się na świeckość instytucji; społeczności lokalne broniły ich, traktując usunięcie jako atak na wiarę i na siebie.
 
-## Miętne
-W Zespole Szkół Rolniczych w Miętnem uczniowie zaprotestowali przeciw zdjęciu krzyży, organizując strajk i modlitwy. Spór odbił się szerokim echem w całym kraju.
+## Nowa Huta 1960
+Najgłośniejsze starcie wybuchło w kwietniu 1960 roku w Nowej Hucie, gdzie władze postanowiły usunąć krzyż z placu przeznaczonego wcześniej pod budowę kościoła. Doszło do wielogodzinnych zajść z udziałem tysięcy ludzi, użyto milicji, zatrzymano kilkuset uczestników.
 
-## Włoszczowa
-We Włoszczowej uczniowie liceum przeprowadzili kilkutygodniowy strajk okupacyjny w obronie krzyży, wspierani przez rodziców i miejscowego księdza.
+## Miętne i Włoszczowa
+W 1984 roku, po zdjęciu krzyży z sal lekcyjnych, uczniowie szkoły rolniczej w Miętnem i szkół we Włoszczowej podjęli strajk. Protesty poparli rodzice i duchowieństwo, a sprawa stała się głośna w całym kraju.
 
-## Reakcja
-Władze stosowały naciski, szykany i represje wobec protestujących i wspierających ich duchownych. Mimo to opór zmusił do częściowych ustępstw.
-
-## Znaczenie
-Obrona krzyży stała się symbolem oporu młodzieży i Kościoła wobec ateizacji, pokazując siłę przywiązania społeczeństwa do wiary i tradycji.`,
+## Dlaczego to działało
+Konflikt o krzyż był dla władz najgorszym możliwym polem sporu: dotyczył rzeczy konkretnej i zrozumiałej dla każdego, jednoczył ludzi niezaangażowanych politycznie i nie dawał się przedstawić jako działalność wywrotowa.`,
     trivia: ['Protesty w Miętnem i Włoszczowej w 1984 roku broniły krzyży zdejmowanych ze szkolnych ścian.', 'Uczniowie prowadzili strajki okupacyjne, wspierani przez rodziców i księży.'],
     resources: [
       {
@@ -18547,20 +18525,17 @@ Zamach wzmocnił autorytet papieża i jego symboliczną rolę dla Polaków w okr
     summary: 'Pokazowy proces księży kurii krakowskiej w 1953 roku, element stalinowskiej kampanii zastraszania Kościoła, z wyrokami śmierci i wieloletniego więzienia.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stalinizm_-_proces_Kurii_Krakowskiej_%281953%29.jpg?width=800',
     imageCaption: 'Proces kurii krakowskiej',
-    content: `## Tło
-Na początku lat 50. władze komunistyczne nasiliły walkę z Kościołem. Proces kurii krakowskiej w 1953 roku był jednym z najgłośniejszych aktów tej kampanii.
-
-## Oskarżenia
-Księży i osoby świeckie oskarżono o szpiegostwo na rzecz USA i działalność antypaństwową. Zeznania wymuszano w śledztwie, a proces miał charakter pokazowy, z udziałem propagandy.
+    content: `## Proces
+W styczniu 1953 roku przed sądem wojskowym w Krakowie stanęli księża kurii metropolitalnej i osoby świeckie, oskarżeni o szpiegostwo na rzecz Stanów Zjednoczonych oraz działalność wywrotową. Był to proces pokazowy, przygotowany propagandowo i szeroko relacjonowany w prasie.
 
 ## Wyroki
-Zapadły surowe wyroki, w tym kary śmierci (część zamieniono na więzienie) i wieloletniego pozbawienia wolności. Proces miał zastraszyć duchowieństwo i wiernych.
+Zapadły wyroki śmierci, później zamienione na kary długoletniego więzienia, oraz szereg wysokich wyroków pozbawienia wolności. Materiał dowodowy opierał się na zeznaniach uzyskanych w śledztwie prowadzonym metodami stosowanymi wobec więźniów politycznych.
 
-## Reakcja władz wobec Kościoła
-Wkrótce po procesie, jeszcze w 1953 roku, internowano prymasa Stefana Wyszyńskiego – kulminację stalinowskiego ataku na niezależność Kościoła.
+## Non possumus
+Proces był częścią szerokiej kampanii przeciw Kościołowi. W odpowiedzi na dekret o obsadzaniu duchownych stanowisk kościelnych i na kolejne procesy Episkopat wystosował w maju 1953 roku memoriał znany od słów „Non possumus” – deklarację, że w sprawach sumienia ustępstw nie będzie.
 
-## Znaczenie
-Proces kurii krakowskiej to symbol represji religijnych okresu stalinizmu i bezwzględności aparatu wobec Kościoła, który mimo to zachował niezależność.`,
+## Konsekwencje
+We wrześniu 1953 roku skazano biskupa kieleckiego Czesława Kaczmarka, a wkrótce internowano prymasa Stefana Wyszyńskiego. Rok 1953 był kulminacją konfrontacji państwa z Kościołem – i punktem, po którym władze zaczęły szukać innych metod niż otwarta rozprawa sądowa.`,
     trivia: ['Pokazowy proces z 1953 roku uderzał wprost w Kościół katolicki.', 'Wkrótce po nim aresztowano prymasa Stefana Wyszyńskiego.'],
     resources: [
       {
@@ -18711,20 +18686,17 @@ Turystyka PRL odzwierciedlała ograniczenia systemu: marzenie o świecie zderza�
     yearStart: 1969,
     yearEnd: 1970,
     summary: 'Proces grupy taterników z 1970 roku, oskarżonych o przemyt przez Tatry wydawnictw paryskiej „Kultury” – jeden z głośnych procesów politycznych przełomu dekad.',
-    content: `## Tło
-Na przełomie lat 60. i 70. młodzi opozycjoniści, korzystając z górskich szlaków, przemycali przez Tatry i Czechosłowację nielegalne wydawnictwa Instytutu Literackiego – paryskiej „Kultury”.
+    content: `## Sprawa
+Śledztwo i proces toczyły się w latach 1969–1970. Oskarżonymi byli młodzi ludzie współpracujący z paryską „Kulturą” Jerzego Giedroycia – grupa, której nazwa wzięła się stąd, że część z nich uprawiała taternictwo i wykorzystywała górskie przejścia do przerzutu wydawnictw.
 
-## Wykrycie
-Działalność wykryła Służba Bezpieczeństwa we współpracy ze służbami Czechosłowacji. Aresztowano grupę osób związanych ze środowiskiem taternickim i opozycyjnym.
+## O co chodziło
+Zarzuty dotyczyły przewożenia przez granicę emigracyjnych publikacji i utrzymywania kontaktów z ośrodkiem uznawanym przez władze za wrogi. Chodziło więc o obieg drukowanego słowa, a nie o działalność konspiracyjną w klasycznym rozumieniu.
 
-## Proces
-W 1970 roku odbył się proces, w którym oskarżonym – m.in. Maciejowi Kozłowskiemu i innym – zarzucono działalność antypaństwową. Zapadły wyroki więzienia.
+## Znaczenie
+Proces pokazał, jak poważnie władze traktowały przenikanie wydawnictw emigracyjnych do kraju. Sprawa toczyła się rok po Marcu 1968, w atmosferze rozliczeń ze środowiskami inteligenckimi, a wyroki miały odstraszyć naśladowców.
 
-## Znaczenie obiegu
-Sprawa pokazała znaczenie drugiego obiegu i niezależnej myśli docierającej do kraju mimo cenzury, a także determinację władz w jej zwalczaniu.
-
-## Dziedzictwo
-Proces taterników był jednym z sygnałów rodzącej się opozycji i obiegu niezależnej literatury, który rozwinął się w kolejnej dekadzie.`,
+## Skutek odwrotny
+Efekt okazał się przeciwny do zamierzonego: sprawa nagłośniła istnienie kanałów przerzutowych i samej „Kultury”. Kilka lat później niezależny obieg wydawniczy przestał być domeną pojedynczych kurierów i przekształcił się w drugi obieg drukowany już w kraju.`,
     trivia: ['Oskarżeni przenosili przez Tatry paryską „Kulturę” i wydawnictwa emigracyjne.', 'Proces z 1970 roku uderzał w kanał przerzutowy bibuły do kraju.'],
     resources: [
       {
@@ -19130,19 +19102,16 @@ Proces szesnastu symbolizuje sposób, w jaki ZSRR likwidował niepodległościow
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pomnik_Ofiar_Ob%C5%82awy_Augustowskiej_-_Suwa%C5%82ki_fot._Kamil_Korbik_2018.jpg?width=800',
     imageCaption: 'Obława augustowska',
     content: `## Operacja
-W lipcu 1945 roku Armia Czerwona, NKWD oraz polskie służby przeprowadziły wielką obławę na Suwalszczyźnie i Augustowszczyźnie, wymierzoną w podziemie niepodległościowe.
+W lipcu 1945 roku w rejonie Suwałk i Augustowa przeprowadzono operację wojskową wymierzoną w podziemie niepodległościowe. Wzięły w niej udział oddziały Armii Czerwonej, formacje NKWD oraz wydzielone jednostki Ludowego Wojska Polskiego i Urzędu Bezpieczeństwa.
 
-## Zatrzymania
-Zatrzymano kilka tysięcy osób. Większość zwolniono, jednak około 600 osób uznanych za związane z podziemiem zaginęło bez śladu.
+## Przebieg
+Wojsko otoczyło rozległy obszar Puszczy Augustowskiej i okolicznych wsi, przeczesując teren i zatrzymując mieszkańców. Zatrzymanych przesłuchiwano w prowizorycznych obozach; część zwolniono, część wywieziono w nieznanym kierunku.
 
-## „Mały Katyń”
-Los zaginionych pozostaje niewyjaśniony – najprawdopodobniej zostali zamordowani przez Sowietów i potajemnie pogrzebani. Zbrodnię nazywa się „małym Katyniem”.
+## Zaginieni
+Losu blisko sześciuset osób nigdy oficjalnie nie wyjaśniono. Nie wróciły do domów i nie odnaleziono ich grobów. Ze względu na charakter zbrodni – uprowadzenie i zamordowanie w tajemnicy, bez procesu i bez śladu – nazywa się ją „Małym Katyniem”.
 
-## Przemilczenie
-Przez dekady PRL temat był całkowicie przemilczany. Rodziny ofiar latami bezskutecznie poszukiwały prawdy o losie bliskich.
-
-## Znaczenie
-Obława augustowska to największa niewyjaśniona zbrodnia na Polakach po II wojnie światowej i symbol sowieckiego terroru u progu rządów komunistycznych.`,
+## Milczenie
+Przez cały okres PRL temat był objęty całkowitym zakazem. Rodziny nie mogły prowadzić poszukiwań ani wystawić symbolicznych grobów. Badania podjęto dopiero po 1989 roku, a miejsce pochówku ofiar do dziś pozostaje nieustalone.`,
     trivia: ['Bywa nazywana „małym Katyniem” – los zatrzymanych do dziś nie został wyjaśniony.', 'Obława objęła Suwalszczyznę latem 1945 roku.'],
     resources: [
       {
@@ -19601,20 +19570,17 @@ Konwicki to klasyk literatury i kina, mistrz gorzkiej autorefleksji, którego tw
     yearStart: 1952,
     yearEnd: 1989,
     summary: 'Parlament Polski Ludowej, formalnie najwyższy organ władzy, w praktyce fasadowy – zatwierdzający decyzje PZPR niemal jednomyślnie.',
-    content: `## Pozycja formalna
-Konstytucja z 1952 roku czyniła Sejm „najwyższym organem władzy państwowej”. W rzeczywistości realna władza spoczywała w rękach kierownictwa PZPR.
+    content: `## Pozycja ustrojowa
+Konstytucja z 1952 roku czyniła Sejm najwyższym organem władzy państwowej. W praktyce nie był miejscem stanowienia polityki: uchwalał ustawy przygotowane gdzie indziej, a kierunek wyznaczało Biuro Polityczne PZPR.
 
-## Wybory bez wyboru
-Deputowanych wybierano z jednej listy Frontu Jedności Narodu, bez realnej konkurencji. Skład Sejmu odzwierciedlał ustalony z góry „klucz” partyjny i organizacji satelickich.
+## Skład
+Posłowie pochodzili z jednej listy Frontu Jedności Narodu, a od 1983 roku „PRON”-u. Obok PZPR zasiadały w nim ZSL i SD oraz nieliczni posłowie katoliccy, w tym koło Znak – jedyne środowisko niepodporządkowane wprost partii.
 
-## Maszyna do głosowania
-Sejm zbierał się rzadko i niemal jednomyślnie przyjmował ustawy przygotowane przez władze. Pełnił funkcję dekoracyjną, legitymizującą decyzje partii.
+## Jak głosowano
+Ustawy przyjmowano niemal zawsze jednomyślnie. Sytuacje odmienne zapamiętano właśnie dlatego, że były wyjątkami: w 1976 roku Stanisław Stomma jako jedyny nie poparł nowelizacji konstytucji wpisującej kierowniczą rolę partii, za co stracił mandat. Między sesjami prawo wydawała dekretami Rada Państwa.
 
-## Wyjątki i przełom
-Z czasem pojawiały się nieliczne głosy sprzeciwu (np. koło „Znak”). Przełomem był Sejm wybrany w czerwcu 1989 roku, w wyniku częściowo wolnych wyborów.
-
-## Znaczenie
-Sejm PRL to symbol fasadowości instytucji demokratycznych w systemie komunistycznym – pozorów parlamentaryzmu bez realnej władzy.`,
+## Rok 1989
+Wybory 4 czerwca 1989 roku odbyły się według ustaleń Okrągłego Stołu: o 35 procent mandatów w Sejmie można było ubiegać się swobodnie, a Senat wybierano w pełni wolnymi wyborami. Sejm kontraktowy stał się miejscem, w którym system zaczęto demontować od środka.`,
     trivia: ['Sejm obradował rzadko i przyjmował ustawy niemal jednogłośnie.', 'Realne decyzje zapadały w Biurze Politycznym partii.'],
     resources: [
       {
@@ -19655,20 +19621,17 @@ Sejm PRL to symbol fasadowości instytucji demokratycznych w systemie komunistyc
     summary: 'Organizacja zrzeszająca partie i stowarzyszenia pod kierownictwem PZPR, firmująca jedną listę wyborczą i pozorującą poparcie społeczne dla władzy.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_the_Front_of_National_Unity.svg?width=800',
     imageCaption: 'Front Jedności Narodu',
-    content: `## Geneza
-Front Jedności Narodu (wcześniej Front Narodowy) powstał w latach 50. jako struktura skupiająca PZPR, stronnictwa satelickie i organizacje społeczne pod przewodnią rolą partii.
+    content: `## Konstrukcja
+Front Jedności Narodu, do 1956 roku działający jako Front Narodowy, powstał w 1952 roku. Skupiał PZPR oraz stronnictwa satelickie – ZSL i SD – a także związki zawodowe i organizacje społeczne. Formalnie był porozumieniem, faktycznie strukturą podporządkowaną partii.
 
-## Jedna lista
-Główną funkcją FJN było wystawianie jednej, wspólnej listy wyborczej. Wyborca mógł jedynie poprzeć kandydatów, bez realnego wyboru, co dawało władzy „99-procentowe” poparcie.
+## Po co istniał
+Główną funkcją było firmowanie wyborów. FJN wystawiał jedną wspólną listę kandydatów, co oznaczało, że wyborca nie wybierał między programami, lecz zatwierdzał ustalony wcześniej skład. Liczba kandydatów odpowiadała liczbie mandatów albo nieznacznie ją przekraczała.
 
-## Pozory pluralizmu
-Front miał stwarzać wrażenie jedności wszystkich Polaków i organizacji wokół „budowy socjalizmu”, maskując monopol władzy PZPR.
+## Rytuał głosowania
+Udział w wyborach traktowano jako obowiązek obywatelski, a głosowanie bez skreśleń – jako poparcie. Frekwencję podawano w wysokościach bliskich stu procentom, co samo w sobie było komunikatem: system nie tyle liczył głosy, ile demonstrował jedność.
 
-## Przekształcenia
-W 1983 roku, po stanie wojennym, FJN zastąpiono Patriotycznym Ruchem Odrodzenia Narodowego (PRON), pełniącym podobną, fasadową rolę.
-
-## Znaczenie
-FJN to symbol pozorowanej „jedności” i mechanizmu wyborów bez wyboru, charakterystycznych dla systemu komunistycznego.`,
+## Koniec
+W 1983 roku, po stanie wojennym, miejsce FJN zajął Patriotyczny Ruch Odrodzenia Narodowego. Zmieniła się nazwa i skład firmujących, konstrukcja pozostała ta sama.`,
     trivia: ['Wyborcy dostawali jedną listę – głosowanie polegało na wrzuceniu jej bez skreśleń.', 'Skreślanie kandydatów wymagało wejścia za kotarę, co odnotowywano.'],
     resources: [
       {
@@ -20220,20 +20183,17 @@ Dla części młodzieży, zwłaszcza o „niewłaściwym” pochodzeniu, brygady
     summary: 'Wielka fabryka ciągników pod Warszawą – symbol mechanizacji rolnictwa, a zarazem ośrodek robotniczych protestów, m.in. w czerwcu 1976.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ci%C4%85gniki_pod_zak%C5%82adami_Ursus_w_Warszawie_w_latach_70.jpg?width=800',
     imageCaption: 'Zakłady Mechaniczne Ursus',
-    content: `## Fabryka ciągników
-Zakłady Mechaniczne Ursus pod Warszawą były głównym producentem ciągników w PRL. Traktory „Ursus” stały się symbolem mechanizacji polskiego rolnictwa.
+    content: `## Fabryka
+Zakłady w podwarszawskim Ursusie miały rodowód sięgający końca XIX wieku. Po wojnie przestawiono je na produkcję ciągników rolniczych, które stały się marką rozpoznawalną w całym kraju i eksportowaną do kilkudziesięciu państw.
 
-## Skala i znaczenie
-Fabryka zatrudniała tysiące robotników i była jednym z filarów przemysłu maszynowego. Ciągniki Ursus eksportowano także za granicę.
+## Ciągnik jako symbol
+Traktor z Ursusa był w propagandzie skrótem opisującym modernizację wsi. W praktyce mechanizacja rolnictwa postępowała nierówno: duże gospodarstwa państwowe wyposażano w pierwszej kolejności, a rolnik indywidualny czekał na przydział latami.
 
 ## Czerwiec 1976
-Ursus zapisał się w historii oporu: w czerwcu 1976 roku, w proteście przeciw podwyżkom cen, robotnicy zablokowali i rozkręcili tory kolejowe, zatrzymując ruch pociągów.
+25 czerwca 1976 roku, po ogłoszeniu drastycznej podwyżki cen żywności, załoga Ursusa przerwała pracę i zablokowała tory linii kolejowej. Protest – obok Radomia i Płocka – zmusił władze do wycofania podwyżki już następnego dnia.
 
-## Represje
-Po proteście nastąpiły brutalne represje – zwolnienia, pobicia („ścieżki zdrowia”) i procesy. Pomoc represjonowanym współtworzyła grunt pod powstanie KOR.
-
-## Znaczenie
-Ursus łączy historię przemysłu PRL z historią robotniczego oporu – od dumy z produkcji po bunt przeciw systemowi.`,
+## Represje i ich skutek
+Po proteście nastąpiły zwolnienia, pobicia i procesy uczestników. To właśnie pomoc represjonowanym robotnikom Ursusa i Radomia stała się bezpośrednim powodem powstania Komitetu Obrony Robotników – momentu, od którego opozycja inteligencka i robotnicza zaczęły działać razem.`,
     trivia: ['Zakłady produkowały ciągniki znane w całym kraju.', 'Robotnicy Ursusa byli jednymi z głównych uczestników protestu w czerwcu 1976.'],
     resources: [
       {
@@ -20283,19 +20243,16 @@ Ursus łączy historię przemysłu PRL z historią robotniczego oporu – od dum
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Nowak-Jezioranski_RFE.jpg?width=800',
     imageCaption: 'Zagłuszanie Radia Wolna Europa',
     content: `## Wojna w eterze
-Od początku lat 50. władze PRL prowadziły systematyczne zagłuszanie zachodnich rozgłośni, przede wszystkim Radia Wolna Europa, nadającego po polsku z Monachium.
+Audycje Radia Wolna Europa, BBC i Głosu Ameryki docierały do Polski na falach krótkich. Państwo odpowiadało zagłuszaniem: nadawaniem na tych samych częstotliwościach szumu i tonów uniemożliwiających odbiór.
 
-## Technika
-Budowano sieć specjalnych stacji zagłuszających, emitujących szum i hałas na częstotliwościach RWE. Mimo to determinacja słuchaczy pozwalała „złapać” audycje, zwłaszcza wieczorem i poza miastami.
+## Infrastruktura
+Do zagłuszania utrzymywano sieć specjalnych stacji nadawczych, rozmieszczonych tak, by pokryć duże miasta. Było to przedsięwzięcie kosztowne – pochłaniało energię, sprzęt i etaty na skalę porównywalną z utrzymaniem rozgłośni, które zagłuszano.
 
-## Koszty
-Zagłuszanie pochłaniało ogromne środki i energię. Była to kosztowna, lecz priorytetowa dla władz walka o monopol informacyjny.
+## Jak sobie radzono
+Zagłuszanie było skuteczniejsze w miastach niż na wsi, a odbiór poprawiał się nocą i przy zmianie częstotliwości, co rozgłośnie wykorzystywały, nadając ten sam program na kilku falach naraz. Słuchacze przestrajali odbiorniki, budowali anteny i wymieniali się wiedzą, gdzie i kiedy słychać najlepiej.
 
-## Skuteczność i opór
-Mimo zakłóceń RWE docierało do milionów Polaków, informując o wydarzeniach przemilczanych w kraju. Słuchanie „Wolnej Europy” stało się formą cichego oporu.
-
-## Znaczenie
-Zagłuszanie symbolizuje walkę systemu o kontrolę nad informacją; zaprzestano go ostatecznie pod koniec lat 80., u schyłku PRL.`,
+## Koniec
+Zagłuszanie przerywano i wznawiano zależnie od koniunktury politycznej, a definitywnie zaprzestano go w 1988 roku, u schyłku systemu. Sam fakt, że przez cztery dekady utrzymywano tę infrastrukturę, mówi więcej o sile słowa niezależnego niż niejeden dokument.`,
     trivia: ['Do zagłuszania rozgłośni zachodnich budowano specjalne stacje nadawcze.', 'Zagłuszania zaprzestano dopiero pod koniec lat 80.'],
     resources: [
       {
@@ -20404,20 +20361,17 @@ Kolorowa telewizja symbolizuje napięcie między technologicznymi ambicjami PRL 
     summary: 'Wielka stocznia w Szczecinie, obok gdańskiej najważniejszy ośrodek robotniczych protestów – w grudniu 1970 i w sierpniu 1980 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stocznia_Szczeci%C5%84ska_Nowa%2C_gate%2C_2017.jpg?width=800',
     imageCaption: 'Stocznia Szczecińska',
-    content: `## Wielki zakład
-Stocznia Szczecińska im. Adolfa Warskiego była jedną z największych stoczni w Polsce, zatrudniającą tysiące robotników i budującą statki na eksport.
+    content: `## Zakład
+Stocznia Szczecińska imienia Adolfa Warskiego była jednym z największych zakładów przemysłu okrętowego w kraju, obok stoczni gdańskiej i gdyńskiej. Budowano tam statki na eksport, w znacznej części dla odbiorców radzieckich.
 
 ## Grudzień 1970
-W grudniu 1970 roku stała się jednym z głównych ośrodków robotniczego buntu na Wybrzeżu. Strajki i starcia spacyfikowano, a wśród ofiar grudnia byli także szczecinianie.
+Po podwyżce cen żywności stocznia stanęła. W Szczecinie protest przybrał szczególnie gwałtowny przebieg: podpalono gmach komitetu wojewódzkiego partii, a wojsko i milicja użyły broni. Zginęło kilkanaście osób, rannych było wielokrotnie więcej.
+
+## Styczeń 1971
+W styczniu 1971 roku do strajkującej stoczni przyjechał Edward Gierek i przez kilka godzin rozmawiał z załogą. Rozmowa – zakończona pytaniem, czy robotnicy pomogą – weszła do historii jako moment, w którym nowa ekipa kupowała sobie czas obietnicami zamiast siłą.
 
 ## Sierpień 1980
-W sierpniu 1980 roku w Stoczni Szczecińskiej wybuchł wielki strajk, zakończony jednym z trzech porozumień sierpniowych – Porozumieniem Szczecińskim (30 sierpnia).
-
-## Marian Jurczyk
-Symbolem szczecińskiego strajku stał się Marian Jurczyk, przywódca Międzyzakładowego Komitetu Strajkowego, sygnatariusz porozumienia.
-
-## Znaczenie
-Stocznia Szczecińska, obok Gdańskiej, to symbol robotniczego oporu i kolebka Solidarności na Pomorzu Zachodnim.`,
+Dziesięć lat później stocznia znów była jednym z głównych ośrodków strajku. Porozumienie szczecińskie podpisano 30 sierpnia 1980 roku, dzień przed gdańskim – co często umyka w potocznej pamięci o Sierpniu.`,
     trivia: ['Stocznia strajkowała zarówno w 1970, jak i w 1980 roku.', 'Porozumienie szczecińskie podpisano dzień przed gdańskim.'],
     resources: [
       {
@@ -20894,20 +20848,17 @@ Lubański i Górnik to symbol złotej ery śląskiego futbolu – fundamentu, na
     summary: 'Proces 72-letniego pisarza, sygnatariusza Listu 34, oskarżonego o „szkalowanie PRL” za tekst wysłany do Radia Wolna Europa.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Melchior_Wa%C5%84kowicz_20-112.jpg?width=800',
     imageCaption: 'Proces Melchiora Wańkowicza',
-    content: `## Tło
-Melchior Wańkowicz (1892–1974), znakomity reportażysta i autor „Bitwy o Monte Cassino”, podpisał w 1964 roku List 34 przeciw cenzurze.
+    content: `## Pisarz
+Melchior Wańkowicz (1892–1974) był jednym z najbardziej znanych polskich reportażystów, autorem m.in. relacji spod Monte Cassino. Po latach na emigracji wrócił do kraju w 1958 roku – co władze przedstawiały jako dowód, że z PRL da się układać.
 
-## Aresztowanie
-W odwecie władze aresztowały 72-letniego pisarza, zarzucając mu przekazanie za granicę (m.in. do RWE) tekstu „szkalującego” Polskę Ludową.
+## List 34
+W 1964 roku Wańkowicz znalazł się wśród sygnatariuszy Listu 34 – krótkiego protestu pisarzy i uczonych przeciw polityce kulturalnej i ograniczeniom przydziału papieru. Był to pierwszy zbiorowy protest środowisk twórczych w PRL.
 
 ## Proces
-Proces w 1964 roku stał się głośnym wydarzeniem – sądzenie sędziwego, zasłużonego pisarza kompromitowało władze w kraju i za granicą. Wańkowicz bronił się odważnie i błyskotliwie.
+Jeszcze w tym samym roku postawiono go przed sądem, zarzucając przekazanie za granicę tekstów szkalujących Polskę. Wyrok był stosunkowo łagodny, a kary nie wykonano, ale sam fakt sądzenia pisarza tej rangi miał wymiar ostrzeżenia dla całego środowiska.
 
-## Wyrok
-Skazano go na 3 lata więzienia (złagodzone), lecz kary nie wykonano. Sprawa pokazała, że władze gotowe są represjonować nawet najwybitniejszych twórców.
-
-## Znaczenie
-Proces Wańkowicza to symbol zderzenia niezależnej literatury z cenzurą i jeden z głośnych procesów politycznych lat 60., który wzmocnił opór środowisk twórczych.`,
+## Efekt
+Sprawa odbiła się echem za granicą i zaszkodziła władzom bardziej, niż pomogła. Pokazała mechanizm, który powtórzy się później wielokrotnie: represja wobec znanego twórcy nie uciszała środowiska, lecz nadawała sprawie rozgłos, którego bez niej by nie miała.`,
     trivia: ['Proces wytoczono pisarzowi po podpisaniu przez niego Listu 34.', 'Sprawa odbiła się szerokim echem także poza granicami Polski.'],
     resources: [
       {
@@ -26135,23 +26086,17 @@ Dla młodzieży dyskoteka była jedną z niewielu form spędzania czasu poza str
     summary: 'Przedsiębiorstwo prowadzące sklepy z zachodnimi towarami za waluty wymienialne i bony; obok Pewexu symbol dwuwalutowej gospodarki PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bon%20baltonowski%2020c%20a.jpg?width=800',
     imageCaption: 'Baltona',
-    content: `## Sieć
-Baltona to przedsiębiorstwo prowadzące sklepy z towarami sprzedawanymi za waluty wymienialne i bony towarowe.
+    content: `## Skąd nazwa
+Baltona powstała w 1946 roku w Gdyni jako przedsiębiorstwo handlu zagranicznego. Nazwa jest złożeniem słów Bałtyk i tona – firma zaczynała od zaopatrywania statków, a nie od handlu detalicznego.
 
-## Dla marynarzy
-Początkowo zaopatrywała marynarzy i statki handlowe; z czasem sklepy stały się dostępne dla posiadaczy dewiz.
+## Sklepy za dewizy
+Z czasem stała się, obok Peweksu, główną siecią sklepów sprzedających za waluty wymienialne i bony. Kupowano tam towary niedostępne w normalnym obiegu: alkohole, kosmetyki, elektronikę, odzież zachodnią.
 
-## Deficyty z Zachodu
-Podobnie jak Pewex, oferowała zachodnie towary: elektronikę, alkohole, papierosy i kosmetyki.
+## Kto miał dewizy
+Dostęp mieli przede wszystkim marynarze, pracownicy kontraktowi wracający z zagranicy i osoby otrzymujące przekazy od rodzin na emigracji. Powstawał w ten sposób podział, którego oficjalna ideologia nie przewidywała: na tych, którzy mieli dostęp do waluty, i całą resztę.
 
-## Bony
-Płaciło się bonami towarowymi lub walutą wymienialną – złotówki tu nie wystarczały.
-
-## Luksus
-Zakupy w Baltonie były oznaką dostępu do „lepszego świata” niedostępnego w zwykłych sklepach.
-
-## Znaczenie
-Baltona to symbol dwuwalutowej gospodarki PRL i wszechobecnego deficytu towarów.`,
+## Paradoks
+Państwo deklarujące równość prowadziło sieć sklepów, w których za obcą walutę kupowało się to, czego nie było gdzie indziej. Baltona i Pewex były więc jednocześnie źródłem dewiz dla budżetu i najbardziej widocznym zaprzeczeniem głoszonych zasad.`,
     trivia: ['Baltona, podobnie jak Pewex, sprzedawała zachodnie towary za dewizy i bony.', 'Początkowo zaopatrywała marynarzy i statki handlowe.'],
     resources: [
       {
@@ -28123,23 +28068,17 @@ Zmarł w 1992 roku w Poznaniu, podczas próby „Króla Leara”. Okoliczności 
     summary: 'Państwowe Gospodarstwa Rolne to wielkoobszarowe gospodarstwa państwowe, tworzone od 1949, głównie na Ziemiach Odzyskanych; symbol państwowego rolnictwa.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pod%20lasem%20by%C5%82e%20Pa%C5%84stwowe%20Gospodarstwo%20Rolne%20%28PGR%29.jpg?width=800',
     imageCaption: 'Zabudowania dawnego PGR-u.',
-    content: `## PGR
-Państwowe Gospodarstwa Rolne (PGR) to wielkoobszarowe gospodarstwa państwowe, tworzone od 1949 roku, głównie na Ziemiach Odzyskanych.
+    content: `## Powstanie
+Państwowe gospodarstwa rolne utworzono w lutym 1949 roku z Państwowych Nieruchomości Ziemskich oraz państwowych zakładów hodowli. Miały być wzorcową, uspołecznioną formą rolnictwa – przeciwieństwem gospodarstwa chłopskiego.
 
-## Idea
-Miały być socjalistyczną alternatywą dla indywidualnego rolnictwa i wzorem „uprzemysłowionej” wsi.
+## Po klęsce kolektywizacji
+Równolegle prowadzono przymusową kolektywizację, zrzeszając chłopów w spółdzielniach produkcyjnych. Po Październiku 1956 roku z blisko dziesięciu tysięcy spółdzielni pozostało około półtora tysiąca – chłopi rozwiązali je natychmiast, gdy tylko presja zelżała. PGR-y pozostały więc jedyną trwałą formą rolnictwa państwowego.
 
-## Osiedla
-Przy PGR-ach powstawały bloki, świetlice, przedszkola i całe osiedla pracownicze.
+## Jak działały
+Skupiały się przede wszystkim na ziemiach zachodnich i północnych, gdzie po wojnie przejęto duże majątki. Zatrudniały pracowników na etat, z mieszkaniem służbowym, przedszkolem i świetlicą – tworzyły całe osiedla zależne od jednego zakładu. Wydajność pozostawała jednak niższa niż w gospodarstwach indywidualnych.
 
-## Efektywność
-Często nierentowne i silnie dotowane, stały się symbolem nieefektywności państwowego rolnictwa.
-
-## Praca i życie
-Dla wielu rodzin PGR był całym światem: dawał pracę, mieszkanie i socjalną opiekę.
-
-## Znaczenie
-To trwały element krajobrazu wsi; po 1989 upadek PGR-ów stał się dramatem społecznym.`,
+## Co po nich zostało
+Likwidacja PGR-ów po 1989 roku pozbawiła pracy i zaplecza socjalnego całe miejscowości naraz. Skutki tej zapaści – bezrobocie strukturalne i trwałe zubożenie części wsi – należą do najtrwalszych społecznych następstw gospodarki PRL.`,
     trivia: ['PGR-y tworzono od 1949, głównie na Ziemiach Odzyskanych.', 'Przy PGR-ach powstawały całe osiedla pracownicze z blokami i świetlicami.'],
     resources: [
       {
