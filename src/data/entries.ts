@@ -24031,24 +24031,21 @@ Dziś „Frania” to nostalgiczny symbol codzienności PRL i skromnych realiów
     yearStart: 1984,
     yearEnd: 1989,
     summary: 'Synth-popowy zespół italo-disco założony w 1984, jeden z symboli polskiej muzyki tanecznej lat 80. i idol młodzieży.',
-    content: `## Zespół
-Papa Dance to synth-popowy zespół z nurtu italo-disco, założony w 1984 – jeden z symboli polskiej muzyki tanecznej schyłkowej dekady PRL.
+    content: `## Projekt producencki
+Papa Dance powstało w 1984 roku z inicjatywy producentów Sławomira Wesołowskiego i Mariusza Zabrodzkiego. Nie był to zespół w tradycyjnym rozumieniu, lecz projekt – muzykę i teksty pisali producenci, a wokalistów wymieniano.
 
 ## Brzmienie
-Taneczne syntezatory, chwytliwe refreny i lekki, dyskotekowy klimat uczyniły z zespołu fenomen list przebojów.
+Grupa grała synthpop wzorowany na tym, co działo się wtedy w Europie Zachodniej: syntezatory, automat perkusyjny, chwytliwe refreny. Było to świadome przeniesienie zachodniej formuły na polski grunt.
 
-## Przeboje
-W dorobku m.in. „Galaktyczny zwiad”, „Nasz ostatni taniec”, „Poniżej krytyki” i „Zbuntowany świat”.
+## Popularność
+Największe przeboje przypadły na drugą połowę lat 80., gdy wokalistą był Paweł Stasiak. Zespół stał się zjawiskiem masowym wśród nastolatków, z całą towarzyszącą temu oprawą: plakatami, strojami i fryzurami.
 
-## Wizerunek
-Kolorowe stroje, choreografie i telewizyjne teledyski budowały gwiazdorski, popowy image grupy.
-
-## Fenomen
-Masowa popularność wśród młodzieży, tłumy na koncertach i sprzedaż płyt czyniły z Papa Dance czołową markę popu.
-
-## Znaczenie
-Dziś Papa Dance to nostalgiczna ikona polskiego popu lat 80.`,
-    trivia: ['Zespół był czołowym przedstawicielem polskiego italo-disco lat 80.', 'Tytuł jednego z albumów głosił, że „1 000 000 fanek nie może się mylić”.'],
+## Spór o ocenę
+Krytyka traktowała Papa Dance lekceważąco jako muzykę komercyjną. Z perspektywy czasu widać w tym jednak coś istotnego: to była pierwsza polska muzyka młodzieżowa zbudowana od początku jako produkt rynkowy – w kraju, w którym rynku jeszcze nie było.`,
+    trivia: [
+      'Nie był to zespół w tradycyjnym sensie, lecz projekt producencki z wymienialnymi wokalistami.',
+      'To pierwsza polska muzyka młodzieżowa zbudowana jako produkt rynkowy – w kraju bez rynku.',
+    ],
     resources: [
       {
         id: 'pd-yt',
@@ -24140,23 +24137,20 @@ W drugiej połowie lat 80. zespół przesunął się w stronę cięższego, szyb
     yearStart: 1966,
     summary: 'Monumentalny dramat historyczny Jerzego Kawalerowicza (1966) wg powieści Bolesława Prusa; nominowany do Oscara film o walce faraona z kastą kapłanów.',
     content: `## Film
-„Faraon” (1966) w reżyserii Jerzego Kawalerowicza to monumentalna ekranizacja powieści Bolesława Prusa.
+„Faraon” Jerzego Kawalerowicza powstał w 1965 roku, a na ekrany wszedł rok później, na podstawie powieści Bolesława Prusa. Akcja rozgrywa się w starożytnym Egipcie, a bohaterem jest młody następca tronu Ramzes XIII, grany przez Jerzego Zelnika.
 
-## Fabuła
-Młody faraon Ramzes XIII próbuje umocnić władzę i skarb państwa w starciu z potężną, wpływową kastą kapłanów starożytnego Egiptu.
+## O co walczy Ramzes
+Młody władca próbuje reformować państwo, w którym faktyczną władzę sprawuje kasta kapłanów z arcykapłanem Herhorem na czele. Przegrywa nie w bitwie, lecz w starciu z aparatem, który zna mechanizmy państwa lepiej niż on.
 
-## Rozmach
-Imponująca scenografia, pustynne plenery i tłumy statystów złożyły się na jedno z najbardziej widowiskowych dzieł polskiego kina.
+## Dlaczego to nie jest film o Egipcie
+Powieść Prusa, a za nią film, opisuje mechanizm władzy: rolę wiedzy jako narzędzia panowania, manipulowanie religią i bezradność reformatora wobec instytucji. Widzowie w PRL czytali to jednoznacznie, choć film formalnie mówił o starożytności.
 
-## Nominacja do Oscara
-Film został nominowany do Oscara dla najlepszego filmu nieanglojęzycznego (1967) i pokazany na festiwalu w Cannes.
-
-## Wymowa
-To ponadczasowa opowieść o mechanizmach władzy i konflikcie tronu z aparatem religijnym.
-
-## Znaczenie
-„Faraon” uchodzi za jedno z arcydzieł polskiej kinematografii historycznej.`,
-    trivia: ['Film był nominowany do Oscara dla najlepszego filmu nieanglojęzycznego (1967).', 'To ekranizacja powieści Bolesława Prusa o starożytnym Egipcie.'],
+## Realizacja
+Zdjęcia kręcono m.in. w Uzbekistanie i Egipcie, przy ogromnej jak na polskie warunki skali produkcji. Film otrzymał nominację do Oscara i należy do najwyżej cenionych polskich widowisk historycznych.`,
+    trivia: [
+      'Film mówi formalnie o starożytnym Egipcie, ale opisuje mechanizm władzy czytelny dla widzów PRL.',
+      'Zdjęcia realizowano m.in. w Uzbekistanie, bo polskiej produkcji nie stać było na pełne plenery egipskie.',
+    ],
     resources: [
       {
         id: 'fa-yt',
@@ -24258,23 +24252,20 @@ Równolegle grała w filmie i teatrze. Takie łączenie ról było w PRL możliw
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Quotation%20from%20film%20%27Kingsajz%27%20advertising%20XXXIV%20Polish%20Film%20Festival%20in%20Gdynia%202009.jpg?width=800',
     imageCaption: 'Kingsajz',
     content: `## Film
-„Kingsajz” (1988) w reżyserii Juliusza Machulskiego to groteskowa komedia fantasy, jedna z najoryginalniejszych polskich produkcji lat 80.
+„Kingsajz” Juliusza Machulskiego, zrealizowana w 1987 roku i pokazana rok później, to komedia fantastyczna. Tytuł nawiązuje do napoju, który krasnoludkom nadaje wymiary zwykłego człowieka – dla nich właśnie królewski rozmiar.
 
-## Dwa światy
-Krasnoludki żyją w ciasnym mikroświecie „szuflandii” i marzą o przejściu do „kingsajzu” – normalnego, wielkiego świata ludzi.
+## Szuflandia
+Akcja toczy się w Szuflandii, krainie krasnoludków rządzonej przez biurokratyczny aparat na czele z Szefem. Krasnoludki marzą o wydostaniu się na powierzchnię, a dostęp do kingsajzu jest reglamentowany i zarezerwowany dla władzy.
 
 ## Alegoria
-Rządzony przez biurokrację i Krwawego Hugona świat ludzików to czytelna satyra na PRL i tęsknotę za wolnością.
-
-## Efekty
-Film wyróżniał się nowatorskimi jak na polskie kino efektami łączącymi aktorów w różnych skalach.
+Nikt w 1987 roku nie miał wątpliwości, o czym jest ten film: o systemie, w którym przywileje ma nomenklatura, a wyjście na zewnątrz jest przepustką do innego życia. Konwencja baśni pozwoliła powiedzieć to wprost bez ryzyka.
 
 ## Cytaty
-Kwestie z filmu, jak „Statutu se nie doczytał?”, weszły do języka fanów kina.
-
-## Znaczenie
-„Kingsajz” to kultowa komedia i jedno z najbardziej pomysłowych dzieł Machulskiego.`,
-    trivia: ['„Szuflandia” i „kingsajz” stały się metaforami PRL-owskiej niewoli i wolności.', 'Efekty łączące różne skale postaci były jak na polskie kino nowatorskie.'],
+Dialogi weszły do języka potocznego, a określenia z filmu były używane jako komentarz do rzeczywistości. Machulski powtórzył w ten sposób sztuczkę znaną z Barei: mówić o systemie środkami, których cenzura nie potrafiła zakwestionować.`,
+    trivia: [
+      'Dostęp do napoju dającego normalny wzrost jest w filmie reglamentowany i zarezerwowany dla władzy.',
+      'Konwencja baśni pozwoliła powiedzieć o systemie wprost, bez ryzyka zatrzymania filmu.',
+    ],
     resources: [
       {
         id: 'ks-yt',
@@ -24419,24 +24410,21 @@ Jego sukcesy pokazywano w kraju, ale sam model kariery – indywidualny, zawodow
     summary: 'Nysa i Żuk to najpopularniejsze polskie samochody dostawcze epoki – mikrobusy, karetki, furgony i milicyjne „suki” widoczne na każdej ulicy.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Nysa_522_T_during_%E2%80%9EXXX_lat_motoryzacji_PRL%E2%80%9D_exhibition_at_Bonarka_City_Center_in_Krak%C3%B3w.JPG?width=800',
     imageCaption: 'Nysa i Żuk',
-    content: `## Dostawczaki PRL
-Nysa i Żuk to najpopularniejsze polskie samochody dostawcze epoki, obecne w niemal każdej dziedzinie gospodarki.
+    content: `## Dwa samochody dostawcze
+Nysa i Żuk były podstawą transportu użytkowego w PRL. Nysę produkowano w Nysie od 1959 do 1994 roku, Żuka – w Fabryce Samochodów Ciężarowych w Lublinie. Oba powstały na bazie podzespołów samochodów osobowych.
 
-## Nysa
-Produkowana w Nysie służyła jako mikrobus, karetka pogotowia, furgon oraz milicyjna więźniarka.
+## Wszechobecność
+Jeździły jako karetki, radiowozy milicji, samochody pocztowe, warsztaty, furgony sklepowe i mikrobusy. Ich sylwetki należą do najbardziej rozpoznawalnych elementów krajobrazu miejskiego epoki.
 
-## Żuk
-Lubelski Żuk to lekki samochód dostawczy o charakterystycznej, spadzistej masce, spotykany w sklepach i warsztatach.
+## Nysa jako suka
+Wersja milicyjna Nysy, używana do przewożenia zatrzymanych, zyskała potoczną nazwę suka. W okresie stanu wojennego pojazdy te stały się jednym z symboli represji i pojawiały się w relacjach z każdej niemal demonstracji.
 
-## Zastosowania
-Dostawy do sklepów, pogotowie, milicja, poczta, zakłady usługowe – Nysa i Żuk były dosłownie wszędzie.
-
-## Trwałość
-Proste, łatwe w naprawie konstrukcje jeździły przez dekady, wielokrotnie reperowane.
-
-## Znaczenie
-Nysa i Żuk to nieodłączny element ulicznego krajobrazu PRL i motoryzacyjnej codzienności.`,
-    trivia: ['Milicyjną więźniarkę na bazie Nysy nazywano potocznie „suką”.', 'Żuk i Nysa powstawały przez kilka dekad, niemal niezmienione konstrukcyjnie.'],
+## Konstrukcja
+Oba modele produkowano przez dziesięciolecia w niewiele zmienionej postaci. Wynikało to nie z doskonałości konstrukcji, lecz z braku środków na opracowanie następcy – ta sama przyczyna, która zatrzymała rozwój samochodów osobowych.`,
+    trivia: [
+      'Milicyjna wersja Nysy zyskała potoczną nazwę suka i stała się jednym z symboli stanu wojennego.',
+      'Oba modele produkowano dziesięcioleciami niemal bez zmian, bo brakowało środków na następcę.',
+    ],
     resources: [
       {
         id: 'nysa-zuk-pkf',
@@ -24666,24 +24654,21 @@ Wokalistka prowadząca zespół rockowy była w Polsce lat 80. zjawiskiem rzadki
     summary: 'Meblościanka (segment) – zestaw połączonych szafek i regałów – była centralnym meblem PRL-owskiego salonu i wizytówką mieszkania.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mebloscianka.jpg?width=800',
     imageCaption: 'Meblościanka',
-    content: `## Meble PRL
-Meblościanka, zwana też segmentem, to zestaw połączonych szafek, półek i regałów – centralny mebel salonu w epoce PRL.
+    content: `## Mebel epoki
+Meblościanka – zestaw szafek, półek i witryn ustawiony wzdłuż jednej ściany – była w PRL standardowym wyposażeniem pokoju dziennego. Odpowiadała na realny problem: w mieszkaniu o kilkunastu metrach na pokój meble musiały zajmować jak najmniej podłogi.
 
-## Funkcje
-Mieściła książki, telewizor, barek, pamiątki i kryształy, pełniąc rolę reprezentacyjnej „wizytówki” mieszkania.
+## Funkcja
+W jednym zestawie mieściły się ubrania, naczynia, książki, dokumenty, telewizor i barek. Pokój dzienny bywał zarazem sypialnią, więc meblościanka musiała obsłużyć wszystkie funkcje mieszkania naraz.
 
-## Popularne modele
-Seryjnie produkowane zestawy z fabryk mebli bywały towarem deficytowym, zdobywanym „spod lady” lub na talony.
+## Zdobycie
+Meble kupowało się nie wtedy, gdy były potrzebne, lecz wtedy, gdy się pojawiły. Wymagało to kolejki, znajomości albo talonu, a wybór ograniczał się do kilku wzorów produkowanych seryjnie – stąd wrażenie, że wszyscy mieli takie same mieszkania.
 
-## Ciasnota
-W małych blokowych mieszkaniach meblościanka sprytnie rozwiązywała problem przechowywania w jednym pomieszczeniu.
-
-## Kryształy i barek
-Za szklaną witryną prezentowano kryształy i alkohole „na specjalne okazje”.
-
-## Znaczenie
-Meblościanka to ikona PRL-owskiego wnętrza i mieszczańskich aspiracji epoki.`,
-    trivia: ['Za szklaną witryną meblościanki prezentowano kryształy „na specjalne okazje”.', 'Meblościankę często zdobywało się „spod lady” lub na talony.'],
+## Symbol
+Dziś meblościanka jest skrótem opisującym całą estetykę epoki: praktyczną, powtarzalną i wymuszoną przez ciasnotę. Wraca zresztą jako obiekt sentymentu i przedmiot kolekcjonerski.`,
+    trivia: [
+      'W jednym zestawie mieściły się ubrania, naczynia, książki, telewizor i barek – bo pokój dzienny bywał też sypialnią.',
+      'Meble kupowało się nie wtedy, gdy były potrzebne, lecz wtedy, gdy w ogóle się pojawiły.',
+    ],
     resources: [
       {
         id: 'mb2-yt',
@@ -24787,23 +24772,20 @@ Film cieszył się ogromną popularnością i należy do najczęściej powtarzan
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej%20Wajda%201974.jpg?width=800',
     imageCaption: 'Ziemia obiecana',
     content: `## Film
-„Ziemia obiecana” (1975) w reżyserii Andrzeja Wajdy to monumentalna ekranizacja powieści Władysława Reymonta.
+„Ziemia obiecana” Andrzeja Wajdy powstała w 1974 roku, a na ekrany weszła rok później, na podstawie powieści Władysława Reymonta. Rzecz dzieje się w Łodzi końca XIX wieku, w czasie gwałtownego rozwoju przemysłu włókienniczego.
 
-## Fabuła
-Trzej przyjaciele – Polak Karol Borowiecki, Niemiec Maks Baum i Żyd Moryc Welt – próbują zbudować własną fabrykę w rozpędzonej, bezwzględnej Łodzi.
+## Trzej wspólnicy
+Bohaterami są Polak Karol Borowiecki, Niemiec Maks Baum i Żyd Moryc Welt, którzy postanawiają wspólnie zbudować fabrykę. Zagrali ich Daniel Olbrychski, Andrzej Seweryn i Wojciech Pszoniak.
 
-## Miasto-moloch
-Film maluje obraz XIX-wiecznej Łodzi jako drapieżnej „ziemi obiecanej” rodzącego się kapitalizmu.
+## Kapitalizm bez osłon
+Wajda pokazał wczesny kapitalizm jako maszynę mielącą ludzi: wypadki przy pracy, bankructwa, zdrady i awanse okupione czyjąś krzywdą. Taka wymowa czyniła film wygodnym dla władz – można go było czytać jako oskarżenie ustroju, z którym PRL się spierał.
 
-## Obsada
-W rolach głównych Daniel Olbrychski, Wojciech Pszoniak i Andrzej Seweryn.
-
-## Nominacja do Oscara
-Obraz został nominowany do Oscara dla najlepszego filmu nieanglojęzycznego (1976).
-
-## Znaczenie
-To jedno z najwybitniejszych dzieł Wajdy i wielki fresk o narodzinach przemysłowego świata.`,
-    trivia: ['Film był nominowany do Oscara dla najlepszego filmu nieanglojęzycznego (1976).', 'To ekranizacja powieści Władysława Reymonta o przemysłowej Łodzi.'],
+## Rozmach i uznanie
+Film kręcono w autentycznych łódzkich fabrykach i pałacach fabrykanckich, co dało mu skalę rzadką w polskim kinie. Otrzymał nominację do Oscara i do dziś uchodzi za jedno z najważniejszych dzieł Wajdy.`,
+    trivia: [
+      'Bohaterami są Polak, Niemiec i Żyd, którzy razem budują fabrykę – zagrali ich Olbrychski, Seweryn i Pszoniak.',
+      'Zdjęcia kręcono w autentycznych łódzkich fabrykach i pałacach fabrykanckich.',
+    ],
     resources: [
       {
         id: 'zo-yt',
@@ -25156,24 +25138,21 @@ Janda to ikona polskiego aktorstwa i jedna z najsilniejszych osobowości kultury
     summary: 'Wszechstronny muzyk – wokalista, skrzypek, trębacz i kompozytor; autor przebojów „Chałupy welcome to” i „Zacznij od Bacha”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/JKruk%2020121016%20ZBIGNIEW%20WODECKI%20BUSKO%20IMG%202857.jpg?width=800',
     imageCaption: 'Zbigniew Wodecki – wokalista i instrumentalista.',
-    content: `## Sylwetka
-Zbigniew Wodecki (ur. 1950) to wszechstronny muzyk – wokalista, skrzypek, trębacz i kompozytor, ceniony za wyjątkową muzykalność.
+    content: `## Muzyk kompletny
+Zbigniew Wodecki (1950–2017) zaczynał jako skrzypek z wykształceniem klasycznym, grał też na trąbce, śpiewał, komponował i aranżował. Ta wszechstronność była podstawą jego pozycji, a nie dodatkiem do niej.
 
-## Muzykalność
-Wykształcony instrumentalista, grał na skrzypcach i trąbce, współpracując z czołowymi artystami estrady.
+## Anawa i Demarczyk
+Występował w zespole Anawa, a w latach 1968–1973 akompaniował Ewie Demarczyk podczas jej tras koncertowych po świecie. Praca u boku najwybitniejszej wykonawczyni piosenki literackiej ukształtowała jego warsztat.
 
 ## Przeboje
-W dorobku ma m.in. „Chałupy welcome to”, „Zacznij od Bacha”, „Lubię wracać tam, gdzie byłem”.
+Największą popularność przyniosły mu „Chałupy welcome to”, „Zacznij od Bacha” i „Lubię wracać tam, gdzie byłem”. Śpiewał też piosenkę z czołówki serialu „Pszczółka Maja”, znaną każdemu dziecku w Polsce.
 
-## Pszczółka Maja
-Zaśpiewał kultową czołówkę polskiej wersji kreskówki „Pszczółka Maja”, znaną kolejnym pokoleniom.
-
-## Chałupy welcome to
-Żartobliwy przebój o plaży nudystów w Chałupach stał się jednym z jego znaków rozpoznawczych.
-
-## Znaczenie
-Wodecki to jeden z najbardziej lubianych i wszechstronnych polskich artystów estradowych.`,
-    trivia: ['Zaśpiewał kultową czołówkę polskiej wersji „Pszczółki Mai”.', 'Był nie tylko wokalistą, ale i utalentowanym skrzypkiem oraz trębaczem.'],
+## Druga kariera
+Pod koniec życia zyskał nową publiczność, gdy młodsze pokolenie muzyków odkryło jego dawne nagrania. Jest to rzadki przypadek artysty PRL, którego dorobek doceniono ponownie za jego życia, w zupełnie innej epoce.`,
+    trivia: [
+      'Przez pięć lat akompaniował Ewie Demarczyk podczas jej tras koncertowych po świecie.',
+      'Zaśpiewał piosenkę z czołówki „Pszczółki Mai” – znaną każdemu dziecku w Polsce.',
+    ],
     resources: [
       {
         id: 'zw-yt',
@@ -25219,23 +25198,20 @@ Wodecki to jeden z najbardziej lubianych i wszechstronnych polskich artystów es
     yearStart: 1984,
     summary: 'Muzyczna baśń filmowa Krzysztofa Gradowskiego (1984) wg Jana Brzechwy, z Piotrem Fronczewskim jako Panem Kleksem; hit obejrzany przez ponad 10 mln widzów.',
     content: `## Film
-„Akademia Pana Kleksa” (premiera 1984, prod. 1983) w reżyserii Krzysztofa Gradowskiego to muzyczna baśń filmowa według książki Jana Brzechwy.
+„Akademia pana Kleksa” Krzysztofa Gradowskiego, zrealizowana w 1983 roku i pokazana rok później, to muzyczna baśń filmowa według Jana Brzechwy, zrealizowana jako koprodukcja polsko-radziecka. Powstała w dwóch częściach.
 
-## Fabuła
-Chłopiec Adaś Niezgódka trafia do niezwykłej Akademii prowadzonej przez czarodzieja i bajarza Ambrożego Kleksa.
+## Forma
+Film łączy grę aktorską, animację i teatr kukiełkowy, a jego siłą jest warstwa muzyczna Andrzeja Korzyńskiego. Piosenki z filmu weszły do repertuaru dziecięcego na trwałe.
 
-## Ambroży Kleks
-Piotr Fronczewski stworzył kultową, barwną kreację tytułowego mistrza – jedną z najbardziej rozpoznawalnych ról dziecięcego kina.
+## Piotr Fronczewski
+Rolę Ambrożego Kleksa zagrał Piotr Fronczewski i to jego kreacja przesądziła o powodzeniu całości. Postać dziwaka rządzącego własnym światem według absurdalnych reguł trafiła w wyobraźnię dzieci dokładnie tak, jak zamierzył to Brzechwa.
 
-## Piosenki
-Muzyka Andrzeja Korzyńskiego – „Kaczka dziwaczka”, „Na wyspach Bergamutach”, „Witaj, przygodo” – dzieci znały na pamięć.
-
-## Sukces
-Film obejrzało w kinach ponad 10 milionów widzów, stając się ogromnym hitem familijnym.
-
-## Znaczenie
-To kultowa baśń filmowa kilku pokoleń polskich dzieci.`,
-    trivia: ['Film obejrzało w kinach ponad 10 milionów widzów.', 'Rolę Pana Kleksa zagrał Piotr Fronczewski, a muzykę skomponował Andrzej Korzyński.'],
+## Kontekst
+Film powstał w latach, w których kino dla dzieci było jedną z niewielu dziedzin wolnych od bieżącej polityki. Sukces frekwencyjny i nagrody sprawiły, że powstały kolejne części, a sam Kleks stał się jedną z najbardziej rozpoznawalnych postaci polskiej kultury dziecięcej.`,
+    trivia: [
+      'Film łączy grę aktorską, animację i teatr kukiełkowy w jednej opowieści.',
+      'Rolę Ambrożego Kleksa zagrał Piotr Fronczewski, a piosenki napisał Andrzej Korzyński.',
+    ],
     resources: [
       {
         id: 'apk-yt',
@@ -25282,23 +25258,20 @@ To kultowa baśń filmowa kilku pokoleń polskich dzieci.`,
     yearEnd: 1977,
     summary: 'Epicki serial wojenny Janusza Morgensterna (1977) o losach Polaków od kampanii wrześniowej po koniec okupacji; 11 odcinków i ponad 16 godzin.',
     content: `## Serial
-„Polskie drogi” (1977) w reżyserii Janusza Morgensterna to epicka telewizyjna opowieść o losach Polaków podczas II wojny światowej.
-
-## Fabuła
-Akcja prowadzi bohaterów od kampanii wrześniowej 1939 roku przez całą okupację, na tle wielkich wydarzeń historycznych.
+„Polskie drogi” w reżyserii Janusza Morgensterna powstawały w drugiej połowie lat 70. Jedenaście odcinków obejmuje okres od kampanii wrześniowej do końca okupacji, pokazywanych z perspektywy zwykłych ludzi.
 
 ## Bohaterowie
-Losy głównych postaci splatają się w panoramę wojennej Polski – od konspiracji po codzienne przetrwanie.
+Głównymi postaciami są Kuraś, grany przez Kazimierza Kaczora, i Leon Kuraś – ludzie, którzy nie są ani bohaterami, ani zdrajcami, tylko próbują przetrwać. Ta perspektywa odróżniała serial od bohaterskiej konwencji obowiązującej w kinie wojennym.
 
-## Rozmach
-Serial liczył 11 odcinków i ponad 16 godzin, będąc jednym z najambitniejszych przedsięwzięć telewizji PRL.
+## Co pokazano
+Serial dotknął spraw wcześniej pomijanych: szmalcownictwa, handlu, moralnej dwuznaczności zachowań pod okupacją, złożoności relacji między konspiracją a zwykłym życiem. Jak na produkcję telewizyjną PRL była to nietypowa szczerość.
 
-## Aktorzy
-Wystąpiła plejada gwiazd, m.in. Karol Strasburger, Kazimierz Kaczor i Zdzisław Maklakiewicz.
-
-## Znaczenie
-To jeden z najważniejszych polskich seriali wojennych, wielokrotnie powtarzany w telewizji.`,
-    trivia: ['Serial liczył 11 odcinków i ponad 16 godzin – to epicki fresk o II wojnie.', 'Scenariusz (poza pierwszym odcinkiem) napisał Jerzy Janicki.'],
+## Odbiór
+„Polskie drogi” uchodzą za jeden z najlepszych polskich seriali w historii i za obraz wojny bliższy doświadczeniu niż propagandowej wersji, w której wychowywano kolejne pokolenia.`,
+    trivia: [
+      'Bohaterowie nie są ani herosami, ani zdrajcami – po prostu próbują przetrwać okupację.',
+      'Serial poruszał tematy pomijane w kinie wojennym, m.in. szmalcownictwo i moralną dwuznaczność zachowań.',
+    ],
     resources: [
       {
         id: 'pdr-yt',
@@ -25609,24 +25582,21 @@ Po zakończeniu kariery zawodniczej pracował jako trener i działacz sportowy. 
     summary: 'Kompozytor, wokalista i gitarzysta, jeden z filarów big-beatu; współtwórca Czerwonych Gitar i autor przebojów jak „Biały krzyż”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krzysztof%20Klenczon.jpg?width=800',
     imageCaption: 'Krzysztof Klenczon – kompozytor, wokalista i gitarzysta.',
-    content: `## Sylwetka
-Krzysztof Klenczon (1942–1981) to kompozytor, wokalista i gitarzysta, jeden z filarów polskiego big-beatu.
+    content: `## Muzyk
+Krzysztof Klenczon (1942–1981) był kompozytorem, gitarzystą i wokalistą, jedną z centralnych postaci polskiego big-beatu. Grał w Czerwonych Gitarach w latach 1965–1970, a potem prowadził własny zespół Trzy Korony.
 
-## Czerwone Gitary
-Współtworzył legendarne Czerwone Gitary, komponując wiele największych przebojów zespołu.
+## Kompozytor
+Napisał m.in. „Nie przejdziemy do historii”, „Powiedz stary, gdzieś ty był” i „Biały krzyż”. Ta ostatnia piosenka, o żołnierzach poległych na wojnie, zyskała status niemal pieśni pamięci i śpiewano ją przez dziesięciolecia.
 
-## Przeboje
-Spod jego pióra wyszły m.in. „Historia jednej znajomości”, „Biały krzyż”, „Kwiaty we włosach” i „Port”.
+## Rozstanie z zespołem
+Odejście z Czerwonych Gitar w 1970 roku oznaczało rozstanie z pozycją członka najpopularniejszej grupy w kraju. Klenczon chciał grać muzykę cięższą i bardziej osobistą, na co formuła zespołu nie dawała miejsca.
 
-## Trzy Korony
-Po odejściu z zespołu założył grupę Trzy Korony i cykl koncertów „Nie przejdziemy do historii”.
-
-## Emigracja
-W latach 70. wyjechał do Stanów Zjednoczonych, gdzie kontynuował działalność muzyczną.
-
-## Znaczenie
-Klenczon to jeden z najważniejszych twórców polskiej muzyki big-beatowej; zginął tragicznie w 1981 roku.`,
-    trivia: ['Skomponował wielkie przeboje Czerwonych Gitar, m.in. „Biały krzyż”.', 'Po odejściu z zespołu założył grupę Trzy Korony.'],
+## Emigracja i śmierć
+W połowie lat 70. wyjechał do Stanów Zjednoczonych. Zginął w wypadku samochodowym w Chicago w 1981 roku, mając trzydzieści dziewięć lat. W Polsce jego piosenki przetrwały niezależnie od tego, że sam zniknął z krajowego obiegu.`,
+    trivia: [
+      '„Biały krzyż” jego autorstwa zyskał status pieśni pamięci i śpiewano go przez dziesięciolecia.',
+      'Odszedł z Czerwonych Gitar u szczytu ich popularności, bo chciał grać muzykę cięższą i bardziej osobistą.',
+    ],
     resources: [
       {
         id: 'kk-yt',
@@ -26550,24 +26520,21 @@ Aya RL należy do zespołów, które pokazały, że polski rock lat 80. nie spro
     summary: 'Sztandarowe założenie socrealizmu w Warszawie, budowane od 1950; z monumentalnym placem Konstytucji, szeroko pokazywane w Polskiej Kronice Filmowej.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Warszawa%20-%20Plac%20Konstytucji%20%282%29.jpg?width=800',
     imageCaption: 'Plac Konstytucji – serce MDM w Warszawie.',
-    content: `## MDM
-Marszałkowska Dzielnica Mieszkaniowa (MDM) to sztandarowe założenie socrealizmu w Warszawie, wznoszone od 1950 roku.
+    content: `## Osiedle-manifest
+Marszałkowską Dzielnicę Mieszkaniową wzniesiono w latach 1950–1952 w śródmieściu Warszawy, według projektu zespołu kierowanego przez Józefa Sigalina, a następnie Stanisława Jankowskiego. Był to sztandarowy zespół socrealistyczny w Polsce.
 
-## Plac Konstytucji
-Sercem dzielnicy jest monumentalny plac Konstytucji z charakterystycznymi latarniami-kandelabrami i robotniczymi płaskorzeźbami.
+## Architektura
+Monumentalne elewacje, kolumnady, rzeźby robotników i chłopów oraz plac Konstytucji jako centralne założenie – wszystko miało pokazywać, że nowe państwo buduje dla ludzi pracy w formie dotąd zarezerwowanej dla władzy i religii.
 
-## Socrealizm
-Architektura utrzymana w duchu socrealizmu: monumentalizm, kolumnady i propagandowa dekoracja.
+## Mieszkania
+Standard był jak na tamte czasy wysoki: duże metraże, wysokie sufity, dobre lokalizacje. Przydział mieszkania w MDM traktowano jako wyróżnienie, a trafiały one często do osób zasłużonych dla systemu.
 
-## Propaganda
-Otwarcie w 1952 świętowano hucznie; MDM pokazywano w Polskiej Kronice Filmowej jako symbol nowego ustroju.
-
-## Życie
-Mieszkania w MDM były prestiżowe i przydzielane m.in. zasłużonym oraz aparatowi partyjnemu.
-
-## Znaczenie
-To najbardziej reprezentacyjny przykład socrealistycznej urbanistyki w Polsce.`,
-    trivia: ['Sercem MDM jest monumentalny plac Konstytucji, otwarty w 1952 roku.', 'MDM była sztandarowym pokazem socrealistycznej architektury i propagandy.'],
+## Ocena
+Zespół powstał kosztem zabudowy, którą można było odbudować, i w tempie wymuszonym politycznie. Dziś MDM jest wpisana do rejestru zabytków jako najpełniejszy przykład socrealizmu w polskiej architekturze.`,
+    trivia: [
+      'Przydział mieszkania w MDM traktowano jako wyróżnienie i trafiał często do osób zasłużonych dla systemu.',
+      'Zespół jest dziś wpisany do rejestru zabytków jako najpełniejszy przykład socrealizmu w Polsce.',
+    ],
     resources: [
       {
         id: 'mdm-yt',
@@ -26731,23 +26698,20 @@ Otwarcie trasy stało się jednym z najczęściej pokazywanych obrazów odbudowy
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jozef%20Skrzek.jpg?width=800',
     imageCaption: 'Józef Skrzek – lider i multiinstrumentalista SBB.',
     content: `## Zespół
-SBB to czołowy polski zespół rocka progresywnego, założony w 1971 roku przez Józefa Skrzeka (skrót rozwijano m.in. jako „Szukaj, Burz, Buduj”).
-
-## Skład
-Klasyczny skład to Józef Skrzek (śpiew, klawisze, bas), Apostolis Anthimos (gitara) i Jerzy Piotrowski (perkusja).
+SBB założył w 1971 roku w Siemianowicach Śląskich Józef Skrzek. Skrót oznaczał najpierw Silesian Blues Band, potem rozwinięto go jako Szukaj, Burz, Buduj. Trzon składu tworzyli Skrzek, Antymos Apostolis i Jerzy Piotrowski.
 
 ## Muzyka
-Zespół tworzył rozbudowane, improwizowane kompozycje na styku rocka, jazzu i muzyki elektronicznej.
+Zespół przeszedł drogę od bluesa i jazz-rocka do rocka progresywnego. Koncerty opierały się w dużej mierze na improwizacji, a utwory trwały po kilkanaście minut – formuła odległa od piosenki festiwalowej obowiązującej na estradzie.
 
-## Koncerty
-Słynęli z żywiołowych, transowych występów; grali jako support przed czołowymi gwiazdami.
-
-## Wołanie o brzęk szkła
-Jednym z ich najważniejszych albumów jest „Wołanie o brzęk szkła” (1977).
+## Zagranica
+SBB koncertowało w Europie Zachodniej i nagrywało dla zagranicznych wytwórni, grając między innymi jako support przed zespołami światowej czołówki. Dla polskiej grupy rockowej był to przypadek rzadki.
 
 ## Znaczenie
-SBB to legenda polskiego rocka progresywnego, a Skrzek – wybitny multiinstrumentalista.`,
-    trivia: ['Skrót SBB rozwijano m.in. jako „Szukaj, Burz, Buduj”.', 'Liderem i multiinstrumentalistą zespołu jest Józef Skrzek.'],
+Zespół udowodnił, że w PRL można było uprawiać muzykę ambitną i instrumentalnie wymagającą, znajdując dla niej publiczność. Jest jedną z nielicznych polskich grup tamtej epoki rozpoznawanych za granicą.`,
+    trivia: [
+      'Skrót rozwijano najpierw jako Silesian Blues Band, a później jako Szukaj, Burz, Buduj.',
+      'Koncerty opierały się na improwizacji, a utwory trwały po kilkanaście minut.',
+    ],
     resources: [
       {
         id: 'sbb-yt',
@@ -27197,23 +27161,20 @@ Nazwa stała się potocznym określeniem gramofonu w ogóle. Dla pokolenia doras
     yearStart: 1979,
     summary: 'Przełomowy film Krzysztofa Kieślowskiego (1979) z Jerzym Stuhrem; zaopatrzeniowiec kupuje kamerę i wciąga się w filmowanie – z nurtu moralnego niepokoju.',
     content: `## Film
-„Amator” (1979) w reżyserii Krzysztofa Kieślowskiego to przełomowy film w jego karierze, zaliczany do kina moralnego niepokoju.
+„Amator” Krzysztofa Kieślowskiego z 1979 roku należy do kina moralnego niepokoju. Bohaterem jest Filip Mosz, zaopatrzeniowiec w zakładzie przemysłowym, grany przez Jerzego Stuhra.
 
-## Fabuła
-Filip Mosz (Jerzy Stuhr), zaopatrzeniowiec z małego miasta, kupuje kamerę amatorską, by filmować córkę – i coraz mocniej wciąga się w kręcenie filmów.
+## Kamera
+Filip kupuje amatorską kamerę, by nakręcić narodziny córki. Zakład szybko wykorzystuje jego pasję do kręcenia filmów o sobie, a bohater odkrywa, że rejestrowanie rzeczywistości nie jest czynnością niewinną.
 
-## Pasja i cena
-Rosnąca pasja filmowania wchodzi w konflikt z rodziną i naraża bohatera na starcia z dyrekcją zakładu.
+## Cena patrzenia
+Im uczciwiej filmuje, tym więcej szkód wyrządza: materiał o kolegach ściąga na nich kłopoty, dyrektor traci stanowisko, rozpada się małżeństwo. Film pyta, gdzie kończy się prawo do pokazywania prawdy, a zaczyna odpowiedzialność za skutki.
 
-## Kino a rzeczywistość
-To film o odpowiedzialności twórcy i granicach prawdy na ekranie w realiach PRL.
-
-## Nagrody
-Obraz zdobył Grand Prix w Moskwie oraz Złote Lwy w Gdańsku; Jerzy Stuhr otrzymał nagrodę aktorską.
-
-## Znaczenie
-To jeden z kluczowych filmów Kieślowskiego i całego nurtu moralnego niepokoju.`,
-    trivia: ['Filip Mosz kupuje kamerę, by filmować córkę – i staje się filmowcem-amatorem.', 'Film zdobył Grand Prix na festiwalu w Moskwie i Złote Lwy w Gdańsku.'],
+## Samoocena reżysera
+Kieślowski, wcześniej dokumentalista, opisał w „Amatorze” własny dylemat. Wkrótce potem odszedł od dokumentu, uznając, że kamera skierowana na prawdziwych ludzi zawsze coś im zabiera. To jeden z nielicznych filmów, w których twórca rozlicza sam siebie.`,
+    trivia: [
+      'Bohater kupuje kamerę, by sfilmować narodziny córki, a kończy jako filmowiec zakładowy.',
+      'Kieślowski opisał w filmie własny dylemat i wkrótce potem porzucił dokument.',
+    ],
     resources: [
       {
         id: 'am-yt',
@@ -27737,24 +27698,21 @@ Filipinki pokazały, że popularna muzyka młodzieżowa może w PRL powstać poz
     summary: 'Wybitny aktor komediowy i charakterystyczny; stworzył kultową rolę Jana Piszczyka w „Zezowatym szczęściu” Munka, przyjaciel Zbigniewa Cybulskiego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Modelska%20Kobiela%20Cz%C5%82owiek%20z%20M-3%20%28cropped%29.jpg?width=800',
     imageCaption: 'Bogumił Kobiela – aktor komediowy i charakterystyczny.',
-    content: `## Sylwetka
-Bogumił Kobiela (1931–1969) to wybitny aktor komediowy i charakterystyczny, mistrz drugiego planu, gagu i błyskotliwej charakterystyki postaci.
+    content: `## Aktor
+Bogumił Kobiela (1931–1969) uchodzi za najwybitniejszego polskiego aktora tragikomicznego. Należał do pokolenia polskiej szkoły filmowej i był bliskim przyjacielem Zbigniewa Cybulskiego, z którym współtworzył gdański teatr Bim-Bom.
 
-## Zezowate szczęście
-Stworzył genialną rolę Jana Piszczyka w „Zezowatym szczęściu” Andrzeja Munka (1960) – portret życiowego pechowca i konformisty.
+## Sposób grania
+Potrafił w jednej scenie przejść od komizmu do dramatu bez zmiany tonu. Jego postacie – urzędnicy, cwaniaczki, ludzie przeciętni – były śmieszne i przejmujące jednocześnie, co czyniło je bliższymi widzowi niż role heroiczne.
 
-## Cybulski
-Był przyjacielem i scenicznym partnerem Zbigniewa Cybulskiego; wspólnie współtworzyli legendę teatrzyku Bim-Bom.
+## Role
+Zagrał m.in. w „Popiele i diamencie” i „Zezowatym szczęściu”, gdzie jako Jan Piszczyk stworzył postać człowieka, któremu wszystko wychodzi odwrotnie – jedną z najbardziej rozpoznawalnych w polskim kinie.
 
-## Komizm
-Słynął z mimiki, wyczucia rytmu i umiejętności budowania komicznych postaci.
-
-## Popiół i diament
-Zagrał też m.in. w „Popiele i diamencie” Andrzeja Wajdy.
-
-## Znaczenie
-To jeden z najwybitniejszych polskich aktorów komediowych; zginął tragicznie w 1969 roku.`,
-    trivia: ['Stworzył kultową rolę Jana Piszczyka w „Zezowatym szczęściu” Munka.', 'Był przyjacielem i scenicznym partnerem Zbigniewa Cybulskiego.'],
+## Śmierć
+Zginął w 1969 roku w wypadku samochodowym, mając trzydzieści osiem lat – dwa lata po śmierci Cybulskiego. Odejście obu aktorów w tak krótkim czasie zamknęło pewien rozdział polskiego kina.`,
+    trivia: [
+      'Jako Jan Piszczyk w „Zezowatym szczęściu” stworzył postać człowieka, któremu wszystko wychodzi odwrotnie.',
+      'Zginął w wypadku dwa lata po śmierci Zbigniewa Cybulskiego, swojego przyjaciela i partnera z teatru Bim-Bom.',
+    ],
     resources: [
       {
         id: 'bk2-yt',
@@ -28948,23 +28906,20 @@ To charakterystyczne dla epoki połączenie ludowej tradycji z państwową propa
     yearEnd: 1989,
     summary: 'Najstarszy i najważniejszy polski festiwal jazzowy, organizowany w Warszawie od 1958; okno na światowy jazz mimo żelaznej kurtyny.',
     content: `## Festiwal
-Jazz Jamboree to najstarszy i najważniejszy polski festiwal jazzowy, organizowany w Warszawie od 1958 roku.
-
-## Początki
-Pierwsze edycje odbywały się w klubie studenckim Stodoła; od 1965 festiwal gościł w Sali Kongresowej Pałacu Kultury i Nauki.
+Jazz Jamboree jest jednym z najstarszych festiwali jazzowych w Europie. Odbywa się w Warszawie od przełomu lat 50. i 60., a jego początki wiążą się z odwilżą, która zdjęła z jazzu odium muzyki wrogiej.
 
 ## Okno na świat
-Mimo żelaznej kurtyny na jego scenie występowały światowe gwiazdy jazzu obok polskich mistrzów.
+Festiwal był jedną z nielicznych imprez, na które regularnie przyjeżdżali artyści z Zachodu, w tym czołowi muzycy amerykańscy. Dla polskiej publiczności oznaczało to kontakt z muzyką znaną wcześniej wyłącznie z nagrań i audycji radiowych.
 
-## Polscy mistrzowie
-Grali tu Krzysztof Komeda, Tomasz Stańko, Zbigniew Namysłowski i inni czołowi polscy jazzmani.
+## Polski jazz
+Na scenie Jamboree budowały pozycję kolejne pokolenia polskich muzyków – od Komedy i Namysłowskiego po Stańkę i Urbaniaka. Festiwal działał więc w obie strony: przywoził świat i pokazywał światu polskich wykonawców.
 
-## Wolność
-Jazz był w PRL enklawą artystycznej i osobistej wolności, a festiwal – jej świętem.
-
-## Znaczenie
-To jeden z najważniejszych festiwali jazzowych Europy i duma polskiej kultury.`,
-    trivia: ['Pierwsze Jazz Jamboree (jako „Jazz 58”) odbyło się w klubie Stodoła.', 'Od 1965 festiwal gościł w Sali Kongresowej Pałacu Kultury i Nauki.'],
+## Dlaczego jazz
+Muzyka instrumentalna nie miała tekstu, którego cenzor mógłby zakwestionować. To sprawiło, że jazz stał się w PRL dziedziną stosunkowo swobodną – i jednocześnie wygodną dla władz, bo dowodził otwartości bez politycznego ryzyka.`,
+    trivia: [
+      'Festiwal był jedną z nielicznych imprez, na które regularnie przyjeżdżali muzycy z Zachodu.',
+      'Jazz był w PRL dziedziną stosunkowo swobodną, bo muzyka instrumentalna nie miała tekstu do ocenzurowania.',
+    ],
     resources: [
       {
         id: 'jj-pkf',
@@ -29400,23 +29355,20 @@ Prezenty miały wymiar praktyczny: pościel, komplet garnków, sprzęt gospodars
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Przybli%C5%BCona%20trasa%20Franciszka%20Dolasa%20w%20serialu%20Jak%20rozp%C4%99ta%C5%82em%20II%20wojn%C4%99%20%C5%9Bwiatow%C4%85.png?width=800',
     imageCaption: 'Jak rozpętałem drugą wojnę światową',
     content: `## Film
-„Jak rozpętałem drugą wojnę światową” (1970) w reżyserii Tadeusza Chmielewskiego to trzyczęściowa wojenna komedia wg powieści Kazimierza Sławińskiego.
+Komedia wojenna Tadeusza Chmielewskiego, zrealizowana w 1969 roku i pokazana rok później, oparta na powieści Kazimierza Sławińskiego. Powstała jako trzyczęściowa opowieść o kanonierze Franciszku Dolasie, granym przez Mariana Kociniaka.
 
-## Fabuła
-Kanonier Franek Dolas, przez ciąg absurdalnych zbiegów okoliczności, nabiera przekonania, że to on rozpętał II wojnę światową.
+## Bohater
+Dolas jest przekonany, że przez zbieg okoliczności to on wywołał drugą wojnę światową. Chcąc się zrehabilitować, przemierza kolejne fronty – od Jugosławii przez Afrykę po Włochy – wpadając z jednej absurdalnej sytuacji w drugą.
 
-## Franek Dolas
-Marian Kociniak stworzył kultową rolę poczciwego pechowca, który przemierza pół świata, próbując naprawić błąd.
+## Wojna jako farsa
+Pokazanie wojny w konwencji komediowej było w polskim kinie odważne, bo naruszało obowiązującą powagę tematu. Film nie kpi jednak z ofiar, lecz z chaosu, przypadku i wojskowej biurokracji.
 
-## Trzy części
-Film składa się z części „Ucieczka”, „Za bronią” i „Wśród swoich”.
-
-## Humor
-Slapstickowa komedia miesza się tu z wojenną tułaczką i ciepłym patriotyzmem.
-
-## Znaczenie
-To jedna z najpopularniejszych polskich komedii wojennych, wciąż chętnie powtarzana w telewizji.`,
-    trivia: ['Kanonier Franek Dolas jest przekonany, że to on rozpętał II wojnę światową.', 'W roli Dolasa wystąpił Marian Kociniak; film ma trzy części.'],
+## Trwałość
+Scena z formularzem i nazwiskiem Grzegorz Brzęczyszczykiewicz stała się jednym z najbardziej rozpoznawalnych fragmentów polskiego kina, cytowanym przez pokolenia, które samego filmu czasem nawet nie widziały w całości.`,
+    trivia: [
+      'Bohater jest przekonany, że to on nieświadomie wywołał drugą wojnę światową.',
+      'Scena z nazwiskiem Grzegorz Brzęczyszczykiewicz należy do najczęściej cytowanych w polskim kinie.',
+    ],
     resources: [
       {
         id: 'jrw-yt',
