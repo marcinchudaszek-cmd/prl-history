@@ -24089,23 +24089,20 @@ Dziś Papa Dance to nostalgiczna ikona polskiego popu lat 80.`,
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krushfest-Turbo.jpg?width=800',
     imageCaption: 'Turbo',
     content: `## Zespół
-Turbo to jeden z najważniejszych i najstarszych polskich zespołów heavy metalowych, wywodzący się z Poznania.
+Turbo powstało w Poznaniu na przełomie lat 70. i 80. i stało się jednym z pierwszych polskich zespołów grających ciężki rock. Wypełniało lukę, której estrada nie obsługiwała: muzykę głośną, gitarową, adresowaną do młodzieży robotniczej.
 
 ## Dorosłe dzieci
-Album i singel „Dorosłe dzieci” (1983) przyniósł przełomowy przebój – refleksyjny, gniewny hymn młodego pokolenia.
-
-## Brzmienie
-Zespół ewoluował od hard rocka po ciężki heavy i thrash metal; rozpoznawalny był mocny wokal Grzegorza Kupczyka.
+Największy przebój, „Dorosłe dzieci”, stał się nieformalnym hymnem pokolenia dorastającego w latach 80. Tekst mówił o młodych ludziach zmuszonych do wcześniejszej dorosłości – co w dekadzie stanu wojennego i kryzysu czytało się jednoznacznie.
 
 ## Jarocin
-Turbo należało do czołowych wykonawców festiwalu w Jarocinie, kuźni polskiej sceny rockowej.
+Festiwal w Jarocinie był dla takich zespołów jedynym realnym obiegiem. Władze tolerowały go, licząc, że skupi młodzieżową energię w jednym, kontrolowanym miejscu – i przez lata rzeczywiście tak działał, dając zarazem scenę muzyce, której radio nie grało.
 
-## Rozwój
-Kolejne albumy przynosiły coraz cięższe, bardziej metalowe brzmienie.
-
-## Znaczenie
-Turbo to pionier i legenda polskiej sceny metalowej, aktywna przez dekady.`,
-    trivia: ['„Dorosłe dzieci” to jeden z najważniejszych polskich przebojów rockowych lat 80.', 'Turbo należy do pionierów polskiej sceny heavy metal.'],
+## Dalej
+W drugiej połowie lat 80. zespół przesunął się w stronę cięższego, szybszego grania, wpisując się w falę metalu docierającą wtedy do Polski. Turbo należy do najdłużej działających polskich zespołów rockowych.`,
+    trivia: [
+      '„Dorosłe dzieci” stały się nieformalnym hymnem pokolenia dorastającego w latach 80.',
+      'Władze tolerowały Jarocin, licząc, że skupi młodzieżową energię w jednym, kontrolowanym miejscu.',
+    ],
     resources: [
       {
         id: 'tb-yt',
@@ -24207,24 +24204,21 @@ To ponadczasowa opowieść o mechanizmach władzy i konflikcie tronu z aparatem 
     summary: 'Wokalistka rockowa i aktorka, gwiazda przełomu lat 70. i 80.; przeboje „Wszystko czego dziś chcę” i „Tyle samo prawd ile kłamstw” nagrała z Budką Suflera.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Izabela%20Trojanowska%20by%20Foksal.jpg?width=800',
     imageCaption: 'Izabela Trojanowska – wokalistka rockowa i aktorka.',
-    content: `## Sylwetka
-Izabela Trojanowska to wokalistka rockowa i aktorka, jedna z najjaśniejszych gwiazd przełomu lat 70. i 80.
+    content: `## Piosenkarka i aktorka
+Izabela Trojanowska (ur. 1955) łączyła dwie kariery: aktorską i muzyczną. Na przełomie lat 70. i 80. stała się jedną z najbardziej rozpoznawalnych postaci polskiej estrady.
 
-## Debiut z Budką
-Debiutancki album „Iza” (1981) nagrała z zespołem Budka Suflera; muzykę tworzył Romuald Lipko, a teksty Andrzej Mogielnicki.
+## Wizerunek
+Wprowadziła na polską scenę wizerunek wokalistki rockowej: wyrazisty makijaż, mocny głos, sceniczna pewność siebie. Było to zerwanie z konwencją grzecznej piosenkarki festiwalowej, obowiązującą przez poprzednią dekadę.
 
 ## Przeboje
-Jej wizytówką stały się „Wszystko czego dziś chcę”, „Tyle samo prawd ile kłamstw” oraz „Jestem twoim grzechem”.
+Największą popularność przyniosły jej piosenki z początku lat 80., śpiewane do muzyki Romualda Lipki. Trafiła w moment, w którym publiczność szukała czegoś ostrzejszego niż dotychczasowa estrada.
 
-## Bunt
-Mocne, buntownicze teksty i pełen energii wizerunek uczyniły z niej idolkę młodzieży.
-
-## Emigracja
-Na część lat 80. wyjechała za granicę, ograniczając krajową działalność.
-
-## Znaczenie
-Trojanowska pozostaje jedną z ikon polskiej sceny rockowej przełomu dekad.`,
-    trivia: ['Debiutancki album „Iza” (1981) nagrała z zespołem Budka Suflera.', 'Teksty jej przebojów pisał Andrzej Mogielnicki, muzykę – Romuald Lipko.'],
+## Dwa zawody
+Równolegle grała w filmie i teatrze. Takie łączenie ról było w PRL możliwe, bo rynek muzyczny praktycznie nie istniał – o utrzymaniu decydowały etat, koncerty przez państwową agencję i praca w kilku dziedzinach naraz.`,
+    trivia: [
+      'Wprowadziła na polską estradę wizerunek wokalistki rockowej zamiast grzecznej piosenkarki festiwalowej.',
+      'Łączyła śpiewanie z pracą aktorską, bo rynek muzyczny w PRL praktycznie nie istniał.',
+    ],
     resources: [
       {
         id: 'it-yt',
@@ -24619,23 +24613,20 @@ To jeden z najważniejszych i najbardziej znanych za granicą filmów polskich.`
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wanda%20Kwietniewska%20beax.jpg?width=800',
     imageCaption: 'Wanda Kwietniewska – liderka zespołu Wanda i Banda.',
     content: `## Zespół
-Wanda i Banda to rockowo-popowy zespół z charyzmatyczną wokalistką Wandą Kwietniewską, powstały w połowie lat 80.
-
-## Hi-Fi
-Przebój „Hi-Fi” (1984), z muzyką Wojciecha Trzcińskiego, brzmiał jak żywcem przeniesiony z zachodnich list przebojów.
+Wanda i Banda powstała w 1982 roku w Poznaniu, początkowo pod nazwą Banda i Wanda. Wokalistką była Wanda Kwietniewska, której mocny, chropawy głos zdecydował o brzmieniu grupy.
 
 ## Debiut
-Debiutancki album przyniósł też „Nie będę Julią” i „Chcę zapomnieć”, zdobywając status złotej płyty.
+Zespół zadebiutował na przełomie 1982 i 1983 roku w sylwestrowej audycji Programu Trzeciego Polskiego Radia – rozgłośni, która w latach 80. pełniła rolę głównego kanału dla muzyki spoza oficjalnej estrady.
 
-## Wokalistka
-Mocny, charakterystyczny głos Wandy Kwietniewskiej wyróżniał zespół na tle estrady epoki.
+## Siedem życzeń
+Grupa nagrała piosenki do serialu „Siedem życzeń” i wystąpiła w nim na ekranie. Połączenie muzyki rockowej z produkcją telewizyjną dla młodzieży było wtedy rozwiązaniem nowym.
 
-## Zakład
-Według anegdoty „Hi-Fi” powstało w wyniku zakładu, czy Trzciński potrafi napisać utwór rockowy.
-
-## Znaczenie
-Wanda i Banda to jeden z barwnych fenomenów polskiej muzyki rozrywkowej lat 80.`,
-    trivia: ['Refren „Hi-fi, superstar…” był pełen anglicyzmów i brzmiał bardzo „zachodnio”.', 'Przebój „Hi-Fi” powstał podobno w wyniku zakładu z kompozytorem Wojciechem Trzcińskim.'],
+## Kobieta na scenie rockowej
+Wokalistka prowadząca zespół rockowy była w Polsce lat 80. zjawiskiem rzadkim. Scena rockowa pozostawała męska, a wykonawczynie kierowano zwykle do piosenki estradowej – Wanda i Banda była jednym z wyraźnych wyjątków.`,
+    trivia: [
+      'Zespół zadebiutował w sylwestrowej audycji Programu Trzeciego na przełomie 1982 i 1983 roku.',
+      'Nagrał piosenki do serialu „Siedem życzeń” i wystąpił w nim na ekranie.',
+    ],
     resources: [
       {
         id: 'wb-yt',
@@ -25456,24 +25447,21 @@ Kamienica jako mikroświat pozwalała pokazać całą epokę bez wielkich scen h
     summary: 'Kultowa polska kreskówka o przygodach dwóch braci, produkowana w Studiu Filmów Rysunkowych w Bielsku-Białej; opowiadana niemal bez słów.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bolek%20and%20Lolek%20monument%208.jpg?width=800',
     imageCaption: 'Bolek i Lolek',
-    content: `## Kreskówka
-„Bolek i Lolek” to jedna z najsłynniejszych polskich animacji dla dzieci, produkowana od lat 60. w Studiu Filmów Rysunkowych w Bielsku-Białej.
+    content: `## Serial
+„Bolek i Lolek” powstawał od lat 60. w Studiu Filmów Rysunkowych w Bielsku-Białej. Bohaterami są dwaj bracia przeżywający przygody w kolejnych scenografiach: na Dzikim Zachodzie, w dżungli, w kosmosie, na wakacjach.
 
-## Bohaterowie
-Rezolutny Bolek i młodszy Lolek przeżywają barwne przygody – niemal całkowicie bez dialogów.
+## Bez słów
+Postacie nie mówią – porozumiewają się gestem i mimiką, a narrację niesie muzyka. Rozwiązanie przyjęte ze względów artystycznych okazało się handlowo przełomowe: serial sprzedano do kilkudziesięciu krajów, bo nie wymagał dubbingu.
 
-## Serie
-Powstały liczne cykle: „Przygody Bolka i Lolka”, „Bolek i Lolek na wakacjach”, „...na Dzikim Zachodzie” i „...wokół świata”.
-
-## Bez barier
-Brak słów sprawił, że bajka była zrozumiała na całym świecie i chętnie eksportowana za granicę.
+## Eksport
+Polska animacja dla dzieci była jednym z niewielu towarów kulturalnych, które PRL realnie sprzedawał za granicę i na których zarabiał dewizy. Obok Bolka i Lolka eksportowano „Reksia”, również pozbawionego dialogów.
 
 ## Tola
-Z czasem do bohaterów dołączyła koleżanka Tola.
-
-## Znaczenie
-To jedna z najbardziej rozpoznawalnych polskich kreskówek i symbol PRL-owskiej dobranocki.`,
-    trivia: ['Bolek i Lolek niemal się nie odzywają – dzięki temu bajkę rozumiano na całym świecie.', 'Serial powstawał w Studiu Filmów Rysunkowych w Bielsku-Białej.'],
+Z czasem do duetu dołączyła Tola – postać dziewczynki wprowadzona po uwagach, że serial adresowany jest wyłącznie do chłopców. Zmiana ta dobrze pokazuje, jak w PRL reagowano na krytykę: dopisaniem elementu, a nie zmianą formuły.`,
+    trivia: [
+      'Bohaterowie nie mówią, dzięki czemu serial sprzedano do kilkudziesięciu krajów bez dubbingu.',
+      'Postać Toli dopisano po uwagach, że serial adresowany jest wyłącznie do chłopców.',
+    ],
     resources: [
       {
         id: 'bl-yt',
@@ -25789,24 +25777,21 @@ Filemon należał do żelaznego repertuaru wieczorynki. W kraju z dwoma programa
     summary: 'Pełnometrażowy debiut Romana Polańskiego (1962); kameralny dramat psychologiczny na jachcie, pierwszy polski film nominowany do Oscara.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jolanta%20Umecka%20w%20No%C5%BCu%20w%20wodzie%202.jpg?width=800',
     imageCaption: 'Nóż w wodzie',
-    content: `## Film
-„Nóż w wodzie” (1962) to pełnometrażowy debiut Romana Polańskiego i jeden z najsłynniejszych polskich filmów.
+    content: `## Debiut
+„Nóż w wodzie” był pełnometrażowym debiutem Romana Polańskiego. Film zrealizowano w 1961 roku, na ekrany wszedł rok później. Scenariusz napisał Polański wspólnie z Jerzym Skolimowskim i Jakubem Goldbergiem.
 
-## Fabuła
-Małżeństwo zabiera na weekendowy rejs młodego autostopowicza; wyprawa zamienia się w psychologiczny pojedynek trójki bohaterów.
+## Trzy osoby, jedna łódka
+Cała fabuła rozgrywa się między małżeństwem, Krystyną i Andrzejem, a przygodnie zabranym młodym autostopowiczem, na jachcie na mazurskich jeziorach po sezonie. Nie ma tu wojny, historii ani polityki – tylko rywalizacja, próba sił i napięcie erotyczne.
 
-## Kameralność
-Cała akcja rozgrywa się na niewielkim jachcie, w narastającym napięciu między trzema postaciami.
+## Zerwanie ze szkołą polską
+To właśnie brak tematu narodowego był radykalny. Polska szkoła filmowa rozliczała wojnę i pokolenie Kolumbów; Polański nakręcił film kameralny, uniwersalny i całkowicie obojętny wobec tej tradycji, za co spotkała go w kraju ostra krytyka.
 
-## Obsada
-W rolach głównych Leon Niemczyk, Jolanta Umecka i Zygmunt Malanowicz.
-
-## Nominacja do Oscara
-Był pierwszym polskim filmem nominowanym do Oscara dla najlepszego filmu nieanglojęzycznego (1963).
-
-## Znaczenie
-To mistrzowski debiut Polańskiego i klasyk kina psychologicznego.`,
-    trivia: ['To pierwszy polski film nominowany do Oscara (1963).', 'Cała akcja rozgrywa się na niewielkim jachcie – to popis kina kameralnego.'],
+## Świat
+Film dostał nagrodę krytyki na festiwalu w Wenecji i jako pierwszy polski obraz otrzymał nominację do Oscara w kategorii filmu nieanglojęzycznego. Dla Polańskiego był przepustką na Zachód, gdzie zrobił dalszą karierę.`,
+    trivia: [
+      'Był pierwszym polskim filmem nominowanym do Oscara w kategorii filmu nieanglojęzycznego.',
+      'Cała fabuła rozgrywa się między trzema osobami na jachcie – bez wątku wojennego, czym zrywał z polską szkołą filmową.',
+    ],
     resources: [
       {
         id: 'nw-yt',
@@ -25897,24 +25882,21 @@ Krajewski budował piosenki na wyrazistej melodii i prostym, zapadającym w pami
     tags: ['film', 'kino', 'ekranizacja', 'symbolizm'],
     yearStart: 1973,
     summary: 'Ekranizacja dramatu Stanisława Wyspiańskiego w reżyserii Andrzeja Wajdy (1973); narodowy dramat o marazmie i niemocy, zwieńczony hipnotycznym chocholim tańcem.',
-    content: `## Film
-„Wesele” (1973) w reżyserii Andrzeja Wajdy to sugestywna ekranizacja dramatu Stanisława Wyspiańskiego.
+    content: `## Ekranizacja
+„Wesele” Andrzeja Wajdy, zrealizowane w 1972 roku i pokazane rok później, to adaptacja dramatu Stanisława Wyspiańskiego. Akcja rozgrywa się w bronowickiej chacie, gdzie inteligencja i chłopi świętują ślub Pana Młodego z Panną Młodą.
 
-## Fabuła
-Na weselu inteligenta z chłopką, w podkrakowskich Bronowicach, zjawiają się widma i zjawy narodowej historii.
+## Zjawy
+W trakcie zabawy pojawiają się postacie z przeszłości, prowadzące z gośćmi rozmowy o polskiej historii i o tym, co z niej wynika. Wajda nakręcił to jako jeden narastający, gorączkowy ruch – kamera niemal nie przestaje krążyć wśród tańczących.
 
-## Symbolika
-Film to obraz narodowych mitów, marazmu i niemocy; kulminacją jest hipnotyczny, senny „chocholi taniec”.
+## Dlaczego wracano do tego tekstu
+Dramat Wyspiańskiego mówi o niezdolności do wspólnego działania i o czekaniu na sygnał, który nie nadchodzi. W 1972 roku, dwa lata po Grudniu i osiem lat przed Sierpniem, ta diagnoza czytała się jako komentarz do współczesności – a przy tym była klasyką szkolną, więc cenzuralnie bezpieczną.
 
-## Miałeś chamie złoty róg
-Finałowa pieśń Chochoła (głosem Czesława Niemena) i utrata złotego rogu to symbol zaprzepaszczonej szansy.
-
-## Obsada
-Wystąpili m.in. Daniel Olbrychski, Ewa Ziętek i Andrzej Łapicki.
-
-## Znaczenie
-To jedno z arcydzieł Wajdy i wybitna filmowa wizualizacja polskiego dramatu narodowego.`,
-    trivia: ['Finałowy „chocholi taniec” to jeden z najsłynniejszych obrazów polskiego kina.', 'Pieśń Chochoła „Miałeś chamie złoty róg” wykonał Czesław Niemen.'],
+## Chocholi taniec
+Końcowa scena, w której weselnicy tańczą w otępieniu, stała się jednym z najczęściej przywoływanych obrazów polskiej kultury i skrótem opisującym narodowy bezwład.`,
+    trivia: [
+      'Klasyka szkolna była cenzuralnie bezpieczna, więc pozwalała powiedzieć o współczesności więcej niż film o niej wprost.',
+      'Końcowy chocholi taniec stał się skrótem opisującym narodowy bezwład.',
+    ],
     resources: [
       {
         id: 'we-yt',
@@ -26803,23 +26785,20 @@ SBB to legenda polskiego rocka progresywnego, a Skrzek – wybitny multiinstrume
     yearStart: 1965,
     summary: 'Kultowa ekranizacja powieści Jana Potockiego w reżyserii Wojciecha Hasa (1965); szkatułkowa, oniryczna opowieść wielbiona na całym świecie.',
     content: `## Film
-„Rękopis znaleziony w Saragossie” (1965) w reżyserii Wojciecha Jerzego Hasa to ekranizacja powieści Jana Potockiego.
+Ekranizacja powieści Jana Potockiego w reżyserii Wojciecha Hasa powstała w 1964 roku, a na ekrany weszła rok później. Główną rolę – oficera Alfonsa van Wordena – zagrał Zbigniew Cybulski.
 
-## Fabuła
-Oficer Alfons van Worden zostaje wplątany w labirynt opowieści – historii w historii – pełnych tajemnic, duchów i uwodzicielek.
+## Szkatułkowa konstrukcja
+Bohater, podróżując przez Sierra Morena, wysłuchuje kolejnych opowieści, z których każda otwiera następną. Historie zagnieżdżają się w sobie jak szkatułki, a widz traci pewność, na którym poziomie opowieści się znajduje.
 
-## Struktura
-Film słynie ze „szkatułkowej” narracji: opowieści zagnieżdżonych jedna w drugiej.
+## Dlaczego to działa
+Has połączył horror, komedię, filozofię i erotykę w formie, która nie miała wtedy odpowiednika w kinie europejskim. Film trwa ponad trzy godziny i wymaga od widza uwagi, ale nagradza ją konsekwencją całej konstrukcji.
 
-## Kultowość
-Na Zachodzie stał się filmem kultowym – jego wielbicielami byli m.in. Jerry Garcia, Luis Buñuel i Martin Scorsese.
-
-## Styl
-Czarno-biała, oniryczna i ironiczna wizja Hasa czyni go dziełem osobnym.
-
-## Znaczenie
-To jedno z najoryginalniejszych dzieł polskiego kina i klasyka światowego kina fantasy.`,
-    trivia: ['Film uwielbiali m.in. Jerry Garcia, Luis Buñuel i Martin Scorsese.', 'Ma słynną „szkatułkową” konstrukcję – opowieści zagnieżdżone w opowieściach.'],
+## Druga młodość
+Obraz zyskał na Zachodzie status kultowy, a jego wielbicielami byli m.in. Jerry Garcia i Martin Scorsese, którzy przyczynili się do rekonstrukcji pełnej wersji. Dziś „Rękopis” uchodzi za jeden z najoryginalniejszych polskich filmów w historii.`,
+    trivia: [
+      'Opowieści zagnieżdżają się w sobie jak szkatułki, przez co widz gubi poziom narracji.',
+      'Do rekonstrukcji pełnej wersji filmu przyczynili się jego zachodni wielbiciele, m.in. Martin Scorsese.',
+    ],
     resources: [
       {
         id: 'rzs-yt',
@@ -26868,23 +26847,20 @@ To jedno z najoryginalniejszych dzieł polskiego kina i klasyka światowego kina
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Piotr%20Skrzynecki.jpg?width=800',
     imageCaption: 'Piotr Skrzynecki – twórca i dusza Piwnicy pod Baranami.',
     content: `## Kabaret
-Piwnica pod Baranami to legendarny kabaret literacki, założony w 1956 roku w piwnicach pałacu „Pod Baranami” przy krakowskim Rynku.
+Piwnicę pod Baranami założono w 1956 roku w Krakowie, w podziemiach pałacu przy Rynku Głównym. Powstała w roku Października – w momencie, gdy odwilż otworzyła pole dla inicjatyw spoza oficjalnego obiegu.
 
-## Piotr Skrzynecki
-Twórcą, konferansjerem i duszą Piwnicy był charyzmatyczny Piotr Skrzynecki – artystyczny „guru” tego miejsca.
+## Formuła
+Nie była kabaretem w klasycznym rozumieniu: łączyła piosenkę literacką, poezję, improwizację i widowiska plenerowe. Prowadził ją przez dziesięciolecia Piotr Skrzynecki – postać, która sama stała się symbolem miejsca.
 
-## Artyści
-Z Piwnicą związani byli m.in. Ewa Demarczyk, Marek Grechuta, Zygmunt Konieczny i Grzegorz Turnau.
+## Środowisko
+Z Piwnicą związani byli m.in. Ewa Demarczyk, Zygmunt Konieczny, Wiesław Dymny i Marek Grechuta. Miejsce działało jak inkubator: przez lata przewijali się przez nie twórcy, którzy potem robili osobne kariery.
 
-## Klimat
-Poezja, piosenka literacka, absurd i artystyczna wolność stanowiły odtrutkę na szarość PRL.
-
-## Sobotnie wieczory
-Kultowe sobotnie spotkania kabaretu trwają nieprzerwanie do dziś.
-
-## Znaczenie
-To najsłynniejszy polski kabaret artystyczny i prawdziwa wylęgarnia talentów.`,
-    trivia: ['Twórcą i duszą Piwnicy był Piotr Skrzynecki.', 'Z Piwnicy pod Baranami wyszli m.in. Ewa Demarczyk i Marek Grechuta.'],
+## Wolność w piwnicy
+Kameralna skala i literacka forma dawały swobodę, jakiej nie miała estrada. Cenzor czytał tekst piosenki inaczej niż odezwę, a to, co niosła interpretacja, zostawało poza protokołem. Piwnica przetrwała cały okres PRL.`,
+    trivia: [
+      'Powstała w 1956 roku, w tym samym roku co Październik i związana z nim odwilż.',
+      'Przez lata prowadził ją Piotr Skrzynecki, a występowali tam m.in. Ewa Demarczyk i Marek Grechuta.',
+    ],
     resources: [
       {
         id: 'ppb-yt',
@@ -27602,24 +27578,21 @@ Mecz na Wembley funkcjonuje w polskiej pamięci zbiorowej niemal jak wydarzenie 
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Kolonie i obozy letnie były masową formą zorganizowanego wypoczynku dzieci w PRL, organizowaną przez zakłady pracy, szkoły, ZHP i FWP.',
-    content: `## Wakacje
-Kolonie i obozy letnie były masową formą zorganizowanego wypoczynku dzieci i młodzieży w PRL.
+    content: `## System wakacyjny
+Kolonie i obozy organizowały zakłady pracy, szkoły, harcerstwo i związki zawodowe. Skierowanie przydzielała komisja socjalna w miejscu pracy rodzica – wyjazd był więc świadczeniem, a nie zakupem.
 
-## Organizatorzy
-Organizowały je zakłady pracy, szkoły, ZHP i FWP; wyjazd bywał tani lub dofinansowany z funduszu socjalnego.
+## Jak wyglądały
+Grupy liczyły po kilkadziesiąt osób, mieszkano w internatach, ośrodkach zakładowych albo pod namiotami. Dzień miał stały rytm: pobudka, apel, posiłki o wyznaczonych porach, cisza poobiednia, ognisko. Kadrę stanowili nauczyciele i studenci.
 
-## Życie kolonijne
-Apel, wspólna stołówka, gry terenowe, ogniska i „poczta kolonijna” tworzyły niezapomniany rytm dnia.
+## Wychowanie
+Program łączył wypoczynek z elementami wychowawczymi: apelami, konkursami, śpiewaniem pieśni, czasem uroczystościami rocznicowymi. Skala tego elementu zależała od organizatora – inaczej wyglądał obóz harcerski, inaczej kolonia zakładowa.
 
-## Harcerskie obozy
-Obozy ZHP pod namiotami uczyły samodzielności, zaradności i życia w grupie.
-
-## Pierwsze wyjazdy
-Dla wielu dzieci to była pierwsza rozłąka z domem i pierwsze wakacyjne przyjaźnie.
-
-## Znaczenie
-To nostalgiczny element dzieciństwa i socjalnej polityki wypoczynku w PRL.`,
-    trivia: ['Kolonie organizowały zakłady pracy, szkoły, ZHP i FWP – często z dofinansowaniem.', 'Ogniska, apele i „poczta kolonijna” tworzyły niezapomniany rytm wakacji.'],
+## Znaczenie społeczne
+Dla wielu dzieci był to jedyny wyjazd w roku i pierwszy kontakt z morzem albo górami. System, mimo całej swojej sztywności, dawał dostęp do wypoczynku dzieciom z rodzin, których nigdy nie byłoby na to stać.`,
+    trivia: [
+      'Skierowanie na kolonie przydzielała komisja socjalna w zakładzie pracy rodzica.',
+      'Dla wielu dzieci była to jedyna okazja w roku, by zobaczyć morze albo góry.',
+    ],
     resources: [
       {
         id: 'kol2-pkf',
@@ -27657,23 +27630,20 @@ To nostalgiczny element dzieciństwa i socjalnej polityki wypoczynku w PRL.`,
     yearStart: 1959,
     summary: 'Kameralny dramat psychologiczny Jerzego Kawalerowicza (1959) rozgrywający się w nocnym pociągu; klasyk polskiej szkoły filmowej.',
     content: `## Film
-„Pociąg” (1959) w reżyserii Jerzego Kawalerowicza to kameralny dramat psychologiczny rozgrywający się niemal w całości w nocnym pociągu.
+„Pociąg” Jerzego Kawalerowicza z 1959 roku to czarno-biały dramat psychologiczny rozgrywający się niemal w całości w nocnym pociągu jadącym z Łodzi nad morze.
 
-## Fabuła
-W jednym przedziale nocnego pociągu z Warszawy nad morze spotykają się przypadkiem meteorolog Marta i chirurg Jerzy.
+## Bohaterowie
+W jednym przedziale spotykają się meteorolog Marta, grana przez Lucynę Winnicką, i chirurg Jerzy w wykonaniu Leona Niemczyka. Równolegle milicja poszukuje w pociągu zbiegłego mordercy, co buduje napięcie, ale nie jest właściwym tematem filmu.
 
-## Napięcie
-Tłok, plotki i pościg za rzekomym mordercą wśród pasażerów budują duszną, gęstą atmosferę zamkniętej przestrzeni.
+## Zamknięta przestrzeń
+Ciasnota wagonu, przypadkowe sąsiedztwo obcych ludzi i niemożność ucieczki tworzą sytuację, w której obserwuje się zachowanie tłumu. Scena zbiorowego pościgu za podejrzanym pokazuje, jak szybko przypadkowi pasażerowie zamieniają się w gromadę gotową linczować.
 
-## Obsada
-Wystąpili Lucyna Winnicka, Leon Niemczyk oraz Zbigniew Cybulski.
-
-## Muzyka
-Słynny, jazzowy motyw nadaje filmowi niepowtarzalny, melancholijny nastrój.
-
-## Znaczenie
-To jeden z klasyków polskiej szkoły filmowej i mistrzowski popis kina kameralnego.`,
-    trivia: ['Cała akcja rozgrywa się głównie w ciasnej przestrzeni nocnego pociągu.', 'Jazzowy motyw muzyczny współtworzył niepowtarzalny nastrój filmu.'],
+## Forma
+Film wyróżniała fotografia Jana Laskowskiego i jazzowy motyw muzyczny – oba elementy zbliżały go bardziej do kina zachodniego niż do socrealistycznej produkcji sprzed kilku lat. Nagrodzono go na festiwalu w Wenecji.`,
+    trivia: [
+      'Akcja rozgrywa się niemal w całości w jednym wagonie nocnego pociągu.',
+      'Scena pościgu pasażerów za podejrzanym pokazuje, jak łatwo przypadkowy tłum zamienia się w gromadę gotową do linczu.',
+    ],
     resources: [
       {
         id: 'pc-yt',
@@ -28086,23 +28056,20 @@ Likwidacja PGR-ów po 1989 roku pozbawiła pracy i zaplecza socjalnego całe mie
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Quotation%20from%20Brunet%20At%20Evening.jpg?width=800',
     imageCaption: 'Brunet wieczorową porą',
     content: `## Film
-„Brunet wieczorową porą” (1976) w reżyserii Stanisława Barei to kultowa komedia kryminalna z gęstą satyrą na realia PRL.
+Komedia kryminalna Stanisława Barei z 1976 roku, napisana wspólnie ze Stanisławem Tymem, który zagrał też jedną z ról. Punktem wyjścia jest przepowiednia jasnowidza, że bohater zabije bruneta.
 
-## Fabuła
-Michał Roman (Krzysztof Kowalewski) słyszy od Cyganki przepowiednię, że nazajutrz nieświadomie zabije brunetkę – i wpada w wir absurdalnych zdarzeń.
+## Absurd jako metoda
+Fabuła kryminalna jest tu wyłącznie pretekstem. Właściwą treścią są sceny poboczne: rozmowy w instytucjach, absurdalne przepisy, usługi, których nie da się wyegzekwować, i ludzie mówiący językiem urzędowych formułek.
 
-## Bareja
-Reżyser wyśmiewa zarówno codzienność PRL, jak i konwencje kryminału; film to kopalnia kultowych cytatów.
+## Cenzura
+Bareja poruszał się na granicy tego, co wolno. Jego filmy przechodziły przez cenzurę dlatego, że krytykowały nieudolność jednostek, a nie ustrój – ale widz odczytywał je dokładnie odwrotnie i to przesądziło o ich popularności.
 
-## Obsada
-Wystąpili m.in. Krzysztof Kowalewski, Wojciech Pokora, Bronisław Pawlik i Maria Chwalibóg.
-
-## Absurd
-Piętrzące się nieporozumienia i „załatwianie” spraw po znajomości napędzają komizm.
-
-## Znaczenie
-To jedna z ulubionych komedii „kina Barei”.`,
-    trivia: ['Bohaterowi Cyganka przepowiada, że zabije brunetkę – i tak zaczyna się absurd.', 'To jedna z kultowych komedii Stanisława Barei.'],
+## Duet z Tymem
+Współpraca z Tymem zaowocowała kilka lat później „Misiem” – filmem, który stał się najbardziej rozpoznawalnym obrazem absurdów PRL i źródłem cytatów używanych do dziś.`,
+    trivia: [
+      'Wątek kryminalny jest tylko pretekstem – właściwą treścią są sceny poboczne w urzędach i sklepach.',
+      'Filmy Barei przechodziły cenzurę jako krytyka nieudolności jednostek, a widzowie czytali je jako krytykę ustroju.',
+    ],
     resources: [
       {
         id: 'bw-yt',
@@ -28302,23 +28269,20 @@ Poczta była też narzędziem nadzoru: w okresie stanu wojennego wprowadzono ofi
     yearStart: 1972,
     summary: 'Jedna z najzabawniejszych komedii Stanisława Barei (1972); pracownik muzeum ukrywa się przebrany za kobietę i zatrudnia jako pomoc domowa.',
     content: `## Film
-„Poszukiwany, poszukiwana” (1972) w reżyserii Stanisława Barei to jedna z najzabawniejszych polskich komedii przebieranek.
+Komedia Stanisława Barei z 1972 roku, napisana wspólnie z Jackiem Fedorowiczem. W roli głównej wystąpił Wojciech Pokora jako Stanisław Rochowicz – kustosz muzeum, który po fałszywym oskarżeniu ukrywa się, przebierając za kobietę i zatrudniając jako gosposia.
 
-## Fabuła
-Pracownik muzeum Stanisław Rochowicz, po zniknięciu obrazu ze zbiorów, ukrywa się przebrany za kobietę i zatrudnia jako pomoc domowa.
+## Podwójna perspektywa
+Pomysł z przebraniem pozwala bohaterowi zobaczyć świat z drugiej strony: jako pracownica domowa trafia kolejno do mieszkań ludzi z różnych warstw. Powstaje przegląd społeczeństwa widzianego od kuchni – dosłownie.
 
-## Wojciech Pokora
-Brawurowa rola głównego bohatera w podwójnym, damsko-męskim wcieleniu jest popisem aktorstwa.
+## Bareja przed Barei
+Film powstał zanim reżyser wypracował styl znany z „Misia”, ale widać już w nim to, co stanie się jego znakiem: absurd instytucji, język urzędowy traktowany jak materiał komediowy i obserwację obyczajową zamiast intrygi.
 
-## Satyra
-Przy okazji Bareja punktuje absurdy PRL i obłudę pozornie „porządnych” domów.
-
-## Obsada
-Wystąpiła plejada komików: Mieczysław Czechowicz, Wiesław Gołas, Bohdan Łazuka i Jan Kobuszewski.
-
-## Znaczenie
-To klasyk komedii „kina Barei”, pełen kultowych scen.`,
-    trivia: ['Główny bohater ukrywa się przebrany za kobietę i zostaje pomocą domową.', 'W obsadzie wystąpiła plejada komików, m.in. Wiesław Gołas i Bohdan Łazuka.'],
+## Odbiór
+Krytyka traktowała Bareję lekceważąco przez całą jego karierę. Dopiero po latach jego komedie uznano za najcelniejszy zapis realiów PRL, a określenie „bareizm” weszło do języka.`,
+    trivia: [
+      'Bohater ukrywa się przebrany za kobietę i pracuje jako gosposia, poznając mieszkania ludzi z różnych warstw.',
+      'Krytyka lekceważyła Bareję przez całą karierę; jego komedie doceniono dopiero po latach.',
+    ],
     resources: [
       {
         id: 'pp2-yt',
@@ -28474,24 +28438,21 @@ Gołas należał do aktorów, których obecność w obsadzie była dla widza rek
     summary: 'Amatorska fotografia była popularnym hobby PRL; zdjęcia robiono tanimi aparatami (Druh, Ami, Smiena, Zenit) na kliszy, wywoływanej w domu lub zakładzie „foto”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Druh%20Synchro.jpg?width=800',
     imageCaption: 'Popularny aparat Druh Synchro.',
-    content: `## Fotografia
-Amatorska fotografia była w PRL popularnym hobby; zdjęcia robiono na kliszy, a potem wywoływano je w domu lub w zakładzie „foto”.
+    content: `## Sprzęt
+Fotografia amatorska opierała się w PRL na aparatach z krajów bloku wschodniego: radzieckich Zenitach i Zorkach, wschodnioniemieckich Practicach oraz polskich konstrukcjach, w tym prostych aparatach Druh z bydgoskiego Warszawskiego Zakładu Fotooptycznego.
 
-## Druh i Smiena
-Popularne tanie aparaty to polski Druh i Ami oraz radzieckie Smiena i Zenit.
+## Film i ciemnia
+Zdjęcia robiono na kliszy, a wywoływanie i odbitki wykonywano często samodzielnie. Domowa ciemnia – zwykle zaadaptowana łazienka – z powiększalnikiem i kuwetami była zjawiskiem powszechnym, bo usługi fotograficzne były drogie i wolne.
 
-## Klisza i odbitki
-Film wywoływano, a odbitki robiono w domowej ciemni lub oddawano do laboratorium.
+## Oszczędność kadru
+Film miał trzydzieści sześć klatek i kosztował, więc fotografowano rozważnie. Zdjęcie robiono raz, pozując, przy okazji uroczystości. Ta ekonomia widoczna jest w rodzinnych albumach z epoki: mało kadrów, dużo świąt.
 
-## Rodzinne albumy
-Czarno-białe, a z czasem kolorowe zdjęcia trafiały do starannie prowadzonych rodzinnych albumów.
-
-## Fotograf na okazje
-Na wesela, komunie i akademie zapraszano zawodowego fotografa.
-
-## Znaczenie
-Aparat utrwalał codzienność i święta epoki – dziś to bezcenne źródło ikonografii PRL.`,
-    trivia: ['Popularne tanie aparaty to Druh i Ami oraz radzieckie Smiena i Zenit.', 'Kliszę wywoływano w domowej ciemni lub oddawano do zakładu fotograficznego.'],
+## Co po tym zostało
+Amatorska fotografia okazała się jednym z najcenniejszych źródeł do historii codzienności PRL. Prasa i kroniki pokazywały rzeczywistość zaplanowaną; zdjęcia rodzinne pokazują tę, którą ludzie faktycznie widzieli.`,
+    trivia: [
+      'Film miał 36 klatek i kosztował, więc zdjęcia robiono rozważnie i zwykle przy okazji uroczystości.',
+      'Domowa ciemnia w zaadaptowanej łazience była zjawiskiem powszechnym, bo usługi fotograficzne były drogie.',
+    ],
     resources: [
       {
         id: 'af-yt',
@@ -28529,23 +28490,20 @@ Aparat utrwalał codzienność i święta epoki – dziś to bezcenne źródło 
     yearStart: 1971,
     summary: 'Barwna komedia Tadeusza Chmielewskiego (1971) o jednym pechowym poniedziałku w Warszawie, śledząca splatające się losy kilkunastu bohaterów.',
     content: `## Film
-„Nie lubię poniedziałku” (1971) w reżyserii Tadeusza Chmielewskiego to barwna komedia o jednym pechowym dniu w stolicy.
+Komedia Tadeusza Chmielewskiego z 1971 roku. Akcja obejmuje jeden pechowy poniedziałek w Warszawie, a fabułę tworzy kilkanaście splatających się wątków z udziałem dziesiątek postaci.
 
-## Fabuła
-Akcja rozgrywa się w feralny poniedziałek 15 września; śledzimy splatające się losy kilkunastu bohaterów.
+## Konstrukcja
+Film jest komedią zbiorową bez jednego bohatera: włoski turysta, kierowca, urzędnicy, uczniowie i milicjanci mijają się, gubią przedmioty i przekazują sobie kłopoty. Każdy epizod domyka się dopiero na końcu.
 
 ## Warszawa
-Film maluje żywą panoramę stolicy: taksówkarzy, urzędników, włoskich turystów i milicjantów.
+Największą wartością filmu jest dziś zapis miasta: ulice, sklepy, komunikacja, sposób ubierania się i mówienia. Powstał niezamierzony dokument codzienności początku lat 70. – tuż przed dekadą Gierka.
 
-## Humor
-Całość napędza łańcuch absurdów, zbiegów okoliczności i drobnych katastrof dnia codziennego.
-
-## Bohdan Łazuka
-Pamiętna jest scena aktora wracającego skacowanego nad ranem wzdłuż torów tramwajowych.
-
-## Znaczenie
-To jedna z najcieplejszych komedii PRL, obejrzana w kinach przez miliony widzów.`,
-    trivia: ['Akcja rozgrywa się w jeden pechowy poniedziałek, 15 września.', 'Film w kinach obejrzały miliony widzów.'],
+## Podwójne dno
+Komedia śmieje się z biurokracji, bałaganu i pozorowanej pracy, ale robi to w tonie życzliwym, kończąc pogodnie. Po latach zwracano uwagę, że taki ton był warunkiem przepuszczenia takiej satyry – wolno było wyśmiewać niesprawność, nie wolno wskazywać jej przyczyn.`,
+    trivia: [
+      'Film nie ma jednego bohatera – to kilkanaście wątków splatających się w ciągu jednego dnia.',
+      'Dziś jest przede wszystkim zapisem wyglądu Warszawy z początku lat 70.',
+    ],
     resources: [
       {
         id: 'nlp-yt',
@@ -29834,24 +29792,21 @@ Jego kariera pokazuje sytuację polskiego aktora tamtych lat: prawdziwie między
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Wielkanoc obchodzono uroczyście mimo oficjalnej ateizacji; ze święconką, wielkanocnym śniadaniem i lanym poniedziałkiem (śmigus-dyngus).',
-    content: `## Święta
-Wielkanoc obchodzono w PRL uroczyście, mimo oficjalnej niechęci władz do religii i ateizacji.
+    content: `## Święto poza kalendarzem państwa
+Wielkanoc była najważniejszym świętem religijnym, a jednocześnie dniem, którego państwo nie obchodziło. Poniedziałek wielkanocny przez większość okresu PRL nie był dniem wolnym od pracy – przywrócono go dopiero w 1981 roku.
 
-## Święconka
-W Wielką Sobotę święcono koszyczki z jajkami, kiełbasą, chlebem, solą i cukrowym barankiem.
+## Przygotowania
+Świąteczne zakupy oznaczały polowanie na produkty reglamentowane: mięso na wędliny, drożdże, cukier, bakalie. Wypiekano w domu, bo ciasta w sklepach praktycznie nie było, a przepisy przekazywano w rodzinie.
 
-## Śniadanie wielkanocne
-Niedzielne śniadanie z jajkiem, żurkiem, białą kiełbasą i babką gromadziło całą rodzinę.
+## Święcenie pokarmów
+Święconka i procesja rezurekcyjna były demonstracją przywiązania do tradycji w przestrzeni publicznej. Dla nauczycieli, milicjantów czy urzędników udział w nich bywał odnotowywany i mógł zaszkodzić w pracy.
 
-## Śmigus-dyngus
-Lany poniedziałek to radosne, mokre oblewanie wodą, zwłaszcza wśród dzieci i młodzieży.
-
-## Palmy i pisanki
-Robiono własne palmy, a pisanki barwiono domowymi sposobami – m.in. w łupinach cebuli.
-
-## Znaczenie
-To jedno z najważniejszych świąt rodzinnych, kultywowane wbrew odgórnej ateizacji.`,
-    trivia: ['W Wielką Sobotę święcono koszyczki ze święconką.', 'Lany poniedziałek (śmigus-dyngus) to radosne oblewanie wodą.'],
+## Lany poniedziałek
+Śmigus-dyngus był jednym z niewielu zwyczajów całkowicie wolnych od nadzoru: odbywał się na podwórkach, bez organizatora i bez akademii. Właśnie dlatego zachował ludowy, żywiołowy charakter przez cały okres PRL.`,
+    trivia: [
+      'Poniedziałek wielkanocny stał się dniem wolnym od pracy dopiero w 1981 roku.',
+      'Udział w procesji rezurekcyjnej bywał odnotowywany i mógł zaszkodzić nauczycielom czy urzędnikom.',
+    ],
     resources: [
       {
         id: 'wlk-yt',
@@ -30075,24 +30030,21 @@ Film należy do najostrzejszych rozliczeń ze stalinizmem, jakie powstały w PRL
     summary: 'Dramat Agnieszki Holland (1981) o samotnej listonoszce walczącej o przetrwanie; jeden z najbardziej bezlitosnych obrazów biedy w PRL, zatrzymany przez cenzurę.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/MJK32641%20Agnieszka%20Holland%20%28Pokot%2C%20Berlinale%202017%29%20crop.jpg?width=800',
     imageCaption: 'Agnieszka Holland – reżyserka „Kobiety samotnej”.',
-    content: `## Film
-„Kobieta samotna” (1981) w reżyserii Agnieszki Holland to jeden z najbardziej przejmujących polskich dramatów społecznych.
+    content: `## Film z półki
+„Kobieta samotna” Agnieszki Holland powstała w 1981 roku, tuż przed stanem wojennym. Władze zatrzymały film na kilka lat; na ekrany wszedł dopiero w drugiej połowie lat 80.
 
-## Fabuła
-Samotna listonoszka Irena z małym synem walczy o przetrwanie w nędzy, poniżana przez urzędy i otoczenie.
+## Bohaterka
+Irena, grana przez Marię Chwalibóg, jest listonoszką samotnie wychowującą syna, mieszkającą w rozsypującym się domu na peryferiach. Film obserwuje jej codzienną walkę o pieniądze, mieszkanie i odrobinę godności.
 
-## Bezlitosny obraz
-Film pokazuje biedę, beznadzieję i przemoc bez upiększeń – daleko od oficjalnego wizerunku PRL.
+## Bez pocieszenia
+Holland nie daje bohaterce ani wsparcia instytucji, ani solidarności sąsiadów, ani szczęśliwego zakończenia. To jeden z najbardziej bezlitosnych obrazów biedy, jakie powstały w polskim kinie – i właśnie dlatego był nie do przyjęcia.
 
-## Na półce
-Ukończony tuż przed stanem wojennym, trafił na półkę; premiera nastąpiła dopiero pod koniec lat 80.
-
-## Maria Chwalibóg
-Rolę Ireny zagrała Maria Chwalibóg, tworząc kreację pełną rozpaczliwej prawdy.
-
-## Znaczenie
-To jeden z najmocniejszych filmów kina moralnego niepokoju i ważny półkownik.`,
-    trivia: ['Film ukończono tuż przed stanem wojennym i zatrzymano na kilka lat.', 'Rolę listonoszki Ireny zagrała Maria Chwalibóg.'],
+## Dlaczego zatrzymano
+Film nie zawierał politycznych oskarżeń. Pokazywał natomiast nędzę w państwie, które opierało swoją legitymację na opiece nad ludźmi pracy. Ten obraz był groźniejszy niż niejeden jawny protest.`,
+    trivia: [
+      'Film nakręcono w 1981 roku, a na ekrany trafił dopiero w drugiej połowie lat 80.',
+      'Nie zawierał politycznych oskarżeń – pokazywał nędzę w państwie opartym na obietnicy opieki nad pracownikami.',
+    ],
     resources: [
       {
         id: 'ks3-nina',
