@@ -24318,23 +24318,20 @@ Kwestie z filmu, jak „Statutu se nie doczytał?”, weszły do języka fanów 
     yearStart: 1981,
     summary: 'Ciepły serial obyczajowy Radosława Piwowarskiego (1981) o poczciwym warszawskim kanalarzu Janie Sercu, idealiście i pechowcu z Woli.',
     content: `## Serial
-„Jan Serce” (1981) w reżyserii Radosława Piwowarskiego to ciepły serial obyczajowy o zwykłym mieszkańcu Warszawy.
+„Jan Serce” to serial obyczajowy z 1981 roku w reżyserii Radosława Piwowarskiego, z Kazimierzem Kaczorem w roli tytułowej. Powstał tuż przed stanem wojennym, w okresie legalnej Solidarności.
 
 ## Bohater
-Tytułowy Jan Serce (Kazimierz Kaczor) to poczciwy, uczciwy idealista i pechowiec, kanalarz z warszawskiej Woli.
+Jan Serce jest hydraulikiem: człowiekiem dobrym, nieporadnym w sprawach uczuciowych i pozbawionym cech bohatera. Serial obserwuje jego codzienność, nie robiąc z niej ani tragedii, ani komedii.
 
-## Miłość
-Kolejne odcinki to sercowe perypetie dobrodusznego, choć nieco nieporadnego w życiu bohatera.
+## Zwykłość jako temat
+Wartość serialu polegała na tym, że pokazywał życie takim, jakie było – z ciasnym mieszkaniem, pracą, kolejką i samotnością – bez propagandowego optymizmu i bez publicystycznego oskarżenia. Taka zwykłość była w telewizji PRL rzadkością.
 
-## Klimat
-Serial maluje nostalgiczny, ciepły obraz codziennej Warszawy i losów zwyczajnych ludzi.
-
-## Muzyka
-Pamiętna, sentymentalna czołówka na trwałe wpisała się w klimat produkcji.
-
-## Znaczenie
-„Jan Serce” to jeden z najbardziej lubianych, ciepłych seriali epoki PRL.`,
-    trivia: ['Tytułowy Jan Serce z zawodu jest kanalarzem z warszawskiej Woli.', 'W roli głównej wystąpił Kazimierz Kaczor.'],
+## Odbiór
+Serial zyskał sympatię widzów właśnie za ten ton. Tytułowa postać weszła do języka jako określenie człowieka poczciwego i bezbronnego wobec życia.`,
+    trivia: [
+      'Serial nakręcono w 1981 roku, tuż przed wprowadzeniem stanu wojennego.',
+      'Imię bohatera weszło do języka jako określenie człowieka poczciwego i bezbronnego.',
+    ],
     resources: [
       {
         id: 'js-yt',
@@ -24374,24 +24371,21 @@ Pamiętna, sentymentalna czołówka na trwałe wpisała się w klimat produkcji.
     summary: 'Najwybitniejszy polski tenisista w historii, gwiazda światowego touru lat 70. i 80.; w 1976 triumfował w prestiżowym turnieju Masters.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Winnaar%20Fibak%20uit%20Polen%20in%20actie%2C%20Bestanddeelnr%20932-3751.jpg?width=800',
     imageCaption: 'Wojciech Fibak w akcji na korcie (lata 70.).',
-    content: `## Sylwetka
-Wojciech Fibak (ur. 1952) to najwybitniejszy polski tenisista w historii i jedna z gwiazd światowego touru lat 70. i 80.
+    content: `## Tenisista
+Wojciech Fibak (ur. 1952) jest uznawany za najlepszego polskiego tenisistę w historii. Był finalistą turnieju Masters, czterokrotnym ćwierćfinalistą turniejów wielkoszlemowych w grze pojedynczej i zwycięzcą Australian Open w deblu.
 
-## Sukcesy
-W 1976 triumfował w prestiżowym turnieju Masters, docierając do ścisłej czołówki rankingu ATP.
+## Zawód nietypowy
+Tenis był w PRL dyscypliną niszową, bez zaplecza i finansowania porównywalnego z lekkoatletyką czy piłką nożną. Kariera zawodowa oznaczała życie w objeździe po turniejach na Zachodzie, co przy ówczesnych przepisach paszportowych i dewizowych było sytuacją wyjątkową.
 
-## Debel
-Wielkie sukcesy odnosił także w grze podwójnej, wygrywając liczne turnieje najwyższej rangi.
+## Sportowiec-przedsiębiorca
+Fibak zarabiał w obiegu zachodnim i tam też inwestował, zajmując się później kolekcjonerstwem sztuki i działalnością gospodarczą. Był jednym z nielicznych obywateli PRL funkcjonujących realnie w gospodarce rynkowej.
 
-## Fenomen epoki
-Międzynarodowa kariera obywatela PRL na zawodowym tourze była w realiach epoki rzadkością i powodem dumy.
-
-## Poza kortem
-Znany jest również jako kolekcjoner sztuki i przedsiębiorca.
-
-## Znaczenie
-Fibak to ikona polskiego tenisa, który rozsławił Polskę w świecie sportu.`,
-    trivia: ['W 1976 wygrał prestiżowy turniej Masters – największy sukces polskiego tenisa.', 'Był jednym z najlepszych deblistów świata swojej epoki.'],
+## Pozycja
+Jego sukcesy pokazywano w kraju, ale sam model kariery – indywidualny, zawodowy, oparty na kontraktach – był trudny do pogodzenia z obowiązującą opowieścią o sporcie amatorskim i klubach zakładowych.`,
+    trivia: [
+      'Wygrał Australian Open w grze podwójnej i był finalistą turnieju Masters.',
+      'Jako zawodowiec zarabiał i inwestował na Zachodzie – w PRL sytuacja niemal bez precedensu.',
+    ],
     resources: [
       {
         id: 'fi-yt',
@@ -24920,24 +24914,21 @@ Medale olimpijskie były w PRL walutą propagandową: sukces sportowca pokazywan
     summary: 'Wokalistka jazzowa i estradowa o ciepłej, subtelnej barwie głosu; zadebiutowała w 1976 na festiwalu w Opolu, słynąc z wyrafinowanych aranżacji.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Hanna%20Banaszak.jpg?width=800',
     imageCaption: 'Hanna Banaszak – wokalistka jazzowa i estradowa.',
-    content: `## Sylwetka
-Hanna Banaszak (ur. 1957) to ceniona wokalistka jazzowa i estradowa o ciepłej, kameralnej barwie głosu.
+    content: `## Debiut
+Hanna Banaszak (ur. 1957) zwróciła na siebie uwagę jako nastolatka, wygrywając konkursy piosenki studenckiej. Od początku wybierała repertuar ambitniejszy niż typowa piosenka estradowa.
 
-## Debiut
-W 1976 zadebiutowała na Krajowym Festiwalu Polskiej Piosenki w Opolu w koncercie „Młode Talenty”.
+## Repertuar
+Wykonuje piosenkę literacką, standardy jazzowe i utwory z pogranicza muzyki poważnej. Jest też kompozytorką i autorką tekstów. Jej sposób śpiewania – oszczędny, oparty na frazie i barwie głosu – odróżniał ją od estrady festiwalowej.
 
-## Styl
-Łączyła jazz, standardy i polską piosenkę literacką, słynąc z wyrafinowanych, subtelnych aranżacji.
+## Piosenka literacka
+Nurt, w którym się mieściła, wyrósł z klubów studenckich i festiwali w Krakowie oraz Opolu. Była to jedna z niewielu przestrzeni, gdzie tekst traktowano jak literaturę, a nie jak dodatek do melodii – i gdzie dawało się powiedzieć więcej, bo cenzor czytał wiersz inaczej niż odezwę.
 
-## Przeboje
-W dorobku ma m.in. „W moim magicznym domu” i „Pogodę ducha”, a także interpretacje jazzowych standardów.
-
-## Głos
-Delikatna, precyzyjna interpretacja uczyniła z niej jedną z najbardziej docenianych wokalistek epoki.
-
-## Znaczenie
-Banaszak to czołowa polska wokalistka jazzowa przełomu epok.`,
-    trivia: ['Zadebiutowała w 1976 w opolskim koncercie „Młode Talenty”.', 'Słynęła z łączenia jazzu, standardów i polskiej piosenki literackiej.'],
+## Pozycja
+Banaszak należy do wykonawców, którzy zbudowali pozycję poza głównym obiegiem przebojów, a mimo to przetrwali w świadomości publiczności dłużej niż wielu twórców list przebojów.`,
+    trivia: [
+      'Karierę zaczynała jako nastolatka, wygrywając konkursy piosenki studenckiej.',
+      'Piosenka literacka dawała więcej swobody, bo cenzor czytał wiersz inaczej niż tekst publicystyczny.',
+    ],
     resources: [
       {
         id: 'hb-yt',
@@ -25412,23 +25403,20 @@ Zaucha to jeden z najwybitniejszych polskich wokalistów; zginął tragicznie w 
     yearEnd: 1989,
     summary: 'Wieloletnia serialowa saga Jana Łomnickiego (od 1980) o mieszkańcach warszawskiej kamienicy przy ul. Złotej – kronika powojennej Polski.',
     content: `## Serial
-„Dom” (emisja od 1980) w reżyserii Jana Łomnickiego to wieloletnia saga o mieszkańcach jednej warszawskiej kamienicy.
+„Dom” w reżyserii Jana Łomnickiego emitowano od stycznia 1980 roku. Opowiada losy mieszkańców kamienicy przy ulicy Złotej w Warszawie od 1945 do 1980 roku – historia PRL widziana z poziomu jednej klatki schodowej.
 
-## Fabuła
-Akcja śledzi losy lokatorów domu przy ul. Złotej od 1945 roku i przez kolejne dekady PRL.
+## Rozciągnięty w czasie
+Powstało dwadzieścia pięć odcinków w czterech seriach, kręconych w latach 1980, 1982–1987, 1996–1997 i 2000. Od premiery do ostatniego odcinka minęło dwadzieścia lat, co czyni „Dom” jednym z najdłużej realizowanych polskich seriali.
 
-## Panorama
-Dzieje bohaterów są soczewką skupiającą powojenną historię Polski – politykę, obyczaje i codzienność.
+## Co się zmieniło po drodze
+Serial zaczęto kręcić w PRL, a skończono w III Rzeczypospolitej. Zmieniły się nie tylko warunki produkcji, ale i granice tego, co wolno było pokazać – kolejne serie mówią o powojennej historii coraz bardziej wprost.
 
-## Realia
-Serial pieczołowicie oddaje przemiany społeczne i scenografię kolejnych dekad.
-
-## Długowieczność
-Kręcony i emitowany z przerwami przez wiele lat, powstawał aż do lat 2000.
-
-## Znaczenie
-„Dom” to jeden z najważniejszych polskich seriali-sag i telewizyjna kronika epoki.`,
-    trivia: ['Serial śledzi losy mieszkańców jednej warszawskiej kamienicy przez dekady PRL.', 'Powstawał z przerwami przez wiele lat, stając się kroniką całej epoki.'],
+## Formuła
+Kamienica jako mikroświat pozwalała pokazać całą epokę bez wielkich scen historycznych: przez sąsiedzkie rozmowy, awanse, wyprowadzki i powroty. To właśnie ta perspektywa zdecydowała o trwałości serialu.`,
+    trivia: [
+      'Od premiery pierwszego odcinka do ostatniego minęło dwadzieścia lat.',
+      'Serial zaczęto kręcić w PRL, a dokończono w III Rzeczypospolitej – i widać to w tym, co wolno było pokazać.',
+    ],
     resources: [
       {
         id: 'ds2-yt',
@@ -25579,24 +25567,21 @@ Studio Filmów Rysunkowych uczyniło z Bielska-Białej ośrodek animacji porówn
     summary: 'Najwybitniejszy polski tenisista stołowy, gwiazda światowej czołówki lat 80.; wielokrotny medalista mistrzostw Europy.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej%20Grubba.jpg?width=800',
     imageCaption: 'Andrzej Grubba – tenisista stołowy.',
-    content: `## Sylwetka
-Andrzej Grubba (1958–2005) to najwybitniejszy polski tenisista stołowy i jedna z gwiazd światowej czołówki lat 80.
+    content: `## Tenis stołowy
+Andrzej Grubba (1958–2005) był najwybitniejszym polskim tenisistą stołowym. Pochodził z Kaszub, a karierę zaczynał w klubie w Gdańsku. Przez lata należał do ścisłej światowej czołówki tej dyscypliny.
 
 ## Sukcesy
-Był wielokrotnym medalistą mistrzostw Europy i walczył o medale mistrzostw świata.
+Zdobywał medale mistrzostw Europy, wygrywał prestiżowe turnieje i przez pewien czas zajmował miejsce w pierwszej trójce rankingu światowego – co dla zawodnika spoza Azji było osiągnięciem wyjątkowym.
 
-## Ranking
-Przez lata utrzymywał się w ścisłej światowej czołówce rankingu tenisa stołowego.
+## Dyscyplina bez rozgłosu
+Tenis stołowy nie miał w Polsce statusu porównywalnego z piłką czy lekkoatletyką, a transmisje pojawiały się rzadko. Sukcesy Grubby były więc znane bardziej specjalistom niż szerokiej publiczności, mimo że w skali światowej znaczyły więcej niż niejeden głośniejszy wynik.
 
-## Styl
-Ofensywny, dynamiczny styl gry czynił go groźnym rywalem dla najlepszych zawodników globu.
-
-## Ambasador
-Rozsławił polski tenis stołowy na arenie międzynarodowej, będąc wzorem dla kolejnych pokoleń.
-
-## Znaczenie
-Grubba to ikona polskiego sportu i najlepszy pingpongista w historii kraju.`,
-    trivia: ['Był wielokrotnym medalistą mistrzostw Europy w tenisie stołowym.', 'Przez lata należał do ścisłej światowej czołówki rankingu.'],
+## Później
+Po zakończeniu kariery zawodniczej pracował jako trener i działacz sportowy. Zmarł w 2005 roku, mając czterdzieści siedem lat.`,
+    trivia: [
+      'Przez pewien czas zajmował miejsce w pierwszej trójce światowego rankingu tenisa stołowego.',
+      'Był zawodnikiem spoza Azji w dyscyplinie zdominowanej przez azjatyckie szkoły.',
+    ],
     resources: [
       {
         id: 'ag-yt',
@@ -25861,24 +25846,21 @@ To mistrzowski debiut Polańskiego i klasyk kina psychologicznego.`,
     summary: 'Kompozytor, wokalista i gitarzysta, filar Czerwonych Gitar; autor melodii do przebojów „Anna Maria” i „Nie spoczniemy”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Seweryn%20Krajewski.jpg?width=800',
     imageCaption: 'Seweryn Krajewski – kompozytor i wokalista Czerwonych Gitar.',
-    content: `## Sylwetka
-Seweryn Krajewski (ur. 1947) to kompozytor, wokalista i gitarzysta, wieloletni lider i filar Czerwonych Gitar.
-
-## Czerwone Gitary
-Od lat 60. współtworzył zespół, komponując jego największe przeboje i nadając mu melodyjny charakter.
+    content: `## Kompozytor
+Seweryn Krajewski (ur. 1947) jest kompozytorem, wokalistą i multiinstrumentalistą, przez lata liderem Czerwonych Gitar. Jego melodie przez kilka dekad wyznaczały kanon polskiej piosenki.
 
 ## Przeboje
-Spod jego pióra wyszły m.in. „Anna Maria”, „Nie spoczniemy”, „Nie zadzieraj nosa” i „Płoną góry, płoną lasy”.
+Skomponował m.in. „Annę Marię”, „Nie spoczniemy”, „Remedium” i „Ludzkie gadanie”. Wiele z nich powstało do słów Agnieszki Osieckiej – duet kompozytora i poetki należy do najtrwalszych w polskiej muzyce rozrywkowej.
 
-## Głos i melodie
-Słynął z ciepłego głosu i wyjątkowego talentu do pisania chwytliwych melodii.
+## Czerwone Gitary
+Zespół reklamowano hasłem, że sprzedaje więcej płyt niż ktokolwiek inny w kraju, a porównania do Beatlesów były w prasie stałym motywem. Przy ówczesnej skali produkcji Polskich Nagrań nakłady rzeczywiście były rekordowe.
 
-## Kompozytor
-Tworzył także muzykę filmową oraz piosenki dla innych wykonawców.
-
-## Znaczenie
-Krajewski to jeden z najważniejszych polskich twórców piosenki i symbol melodyjnego popu.`,
-    trivia: ['Skomponował największe przeboje Czerwonych Gitar, m.in. „Anna Maria”.', 'Do „Nie spoczniemy” napisał muzykę, a słowa – Agnieszka Osiecka.'],
+## Warsztat
+Krajewski budował piosenki na wyrazistej melodii i prostym, zapadającym w pamięć refrenie. W czasach, gdy o popularności decydowało radio i festiwale, taka konstrukcja była jedyną skuteczną – utwór musiał zadziałać przy pierwszym przesłuchaniu.`,
+    trivia: [
+      'Wiele jego najbardziej znanych piosenek powstało do słów Agnieszki Osieckiej.',
+      'Czerwone Gitary reklamowano jako zespół sprzedający najwięcej płyt w kraju.',
+    ],
     resources: [
       {
         id: 'sk-yt',
@@ -26249,23 +26231,20 @@ W latach 80. lasy karkonoskie zaczęły masowo zamierać wskutek zanieczyszczeń
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Lech_Janerka_%28Klaus_Mitffoch%29_%283596269749%29.jpg?width=800',
     imageCaption: 'Klaus Mitffoch',
     content: `## Zespół
-Klaus Mitffoch to wrocławski zespół nowej fali, założony w 1979 roku przez Lecha Janerkę.
+Klaus Mitffoch powstał w 1979 roku we Wrocławiu, założony przez Lecha Janerkę. Nazwa – celowo bezsensowna, brzmiąca z niemiecka – była częścią strategii: zespół od początku odcinał się od konwencji polskiej estrady.
 
-## Nowa fala
-Grupę wyróżniało surowe, oszczędne brzmienie oraz przewrotne, inteligentne teksty.
+## Jedna płyta
+W oryginalnym składzie grupa nagrała tylko jeden album, wydany w 1985 roku. Uchodzi on za jedną z najważniejszych płyt w historii polskiego rocka, a przez część krytyków bywa uznawany za najlepszą.
 
-## Jezu jak się cieszę
-Największy przebój zespołu – paradoksalnie muzycy go nie lubili i pominęli na debiutanckiej płycie.
+## Język
+O sile nagrań decydowały teksty Janerki: skrótowe, ironiczne, oparte na grze słów i celowym absurdzie. Zamiast publicystyki opisywały stan umysłu w rzeczywistości, której nie dawało się opisać wprost – co w latach 80. działało mocniej niż bezpośredni protest.
 
-## Płyta
-Album „Klaus Mitffoch” (1984) uchodzi za jeden z przełomowych w historii polskiej muzyki.
-
-## Lech Janerka
-Lider zespołu, później ceniony artysta solowy (m.in. „Bez ciebie umieram”).
-
-## Znaczenie
-To kultowy zespół polskiej nowej fali, wpływowy mimo krótkiego istnienia.`,
-    trivia: ['Największy przebój „Jezu jak się cieszę” nie trafił na debiutancki album zespołu.', 'Liderem grupy był Lech Janerka, późniejszy artysta solowy.'],
+## Kontekst
+Zespół należał do fali nowofalowej, która po stanie wojennym wypełniła lukę po zawieszonym oficjalnym życiu kulturalnym. Jarocin i kluby studenckie były dla takich grup jedynym realnym obiegiem.`,
+    trivia: [
+      'Zespół nagrał w oryginalnym składzie tylko jeden album – uznawany za jedną z najważniejszych płyt polskiego rocka.',
+      'Bezsensowna, z niemiecka brzmiąca nazwa była świadomym odcięciem się od konwencji estrady.',
+    ],
     resources: [
       {
         id: 'km-yt',
@@ -27514,27 +27493,24 @@ Film nagrodzono na festiwalu w Cannes i pokazywano na całym świecie. W kraju w
     subtitle: 'Pionierzy polskiego big-beatu',
     category: 'kultura',
     tags: ['muzyka', 'big-beat', 'rock', 'estrada'],
-    yearStart: 1965,
+    yearStart: 1960,
     yearEnd: 1976,
     summary: 'Jeden z pierwszych i najważniejszych polskich zespołów big-beatu, powołany przez Franciszka Walickiego; wylęgarnia gwiazd, m.in. Niemena i Kasi Sobczyk.',
-    content: `## Zespół
-Czerwono-Czarni to jeden z pierwszych i najważniejszych polskich zespołów big-beatu, powstały w połowie lat 60. z inicjatywy Franciszka Walickiego.
+    content: `## Początek big-beatu
+Czerwono-Czarni powstali w 1960 roku w Gdańsku z inicjatywy Franciszka Walickiego – dziennikarza i menedżera, który wymyślił też samo określenie big-beat, żeby uniknąć słowa rock and roll, źle widzianego przez władze.
 
-## Big-beat
-To właśnie Walicki ukuł termin „big-beat”, by ominąć niechęć władz do „rock and rolla”.
+## Formuła
+Zespół działał jak wytwórnia: przez jego skład przewinęli się niemal wszyscy czołowi wokaliści epoki, m.in. Karin Stanek, Helena Majdaniec, Katarzyna Sobczyk i Czesław Niemen. Grupa akompaniowała, a solistów wymieniano.
 
-## Wokaliści
-Przez zespół przewinęli się m.in. Czesław Niemen, Helena Majdaniec, Kasia Sobczyk i Michaj Burano.
+## Kompromis z cenzurą
+Śpiewanie po polsku, występy w państwowych agencjach estradowych i teksty poddawane cenzurze czyniły big-beat akceptowalnym. Powstał obieg muzyki młodzieżowej kontrolowany, ale autentycznie popularny – kompromis, który dał polskiej piosence całą dekadę rozwoju.
 
-## Przeboje
-W repertuarze m.in. „Bądź poważny choć raz” oraz rock and rollowe standardy epoki.
-
-## Estrada
-Masowe trasy koncertowe i festiwale rozkręcały polską scenę młodzieżową.
-
-## Znaczenie
-To pionierzy polskiego rocka i prawdziwa wylęgarnia gwiazd big-beatu.`,
-    trivia: ['Termin „big-beat” ukuto, by ominąć niechęć władz do „rock and rolla”.', 'Przez zespół przewinęli się m.in. Czesław Niemen i Kasia Sobczyk.'],
+## Dziedzictwo
+Z tego środowiska wyrosły później zespoły takie jak Niebiesko-Czarni i Czerwone Gitary. Nazwa Czerwono-Czarnych oznacza dziś nie tyle konkretny skład, ile początek polskiej muzyki młodzieżowej.`,
+    trivia: [
+      'Określenie big-beat wymyślił Franciszek Walicki, żeby uniknąć źle widzianego słowa rock and roll.',
+      'Przez skład zespołu przewinęli się niemal wszyscy czołowi wokaliści epoki, w tym Czesław Niemen.',
+    ],
     resources: [
       {
         id: 'cc-yt',
@@ -27574,24 +27550,21 @@ To pionierzy polskiego rocka i prawdziwa wylęgarnia gwiazd big-beatu.`,
     summary: 'Bramkarz reprezentacji Polski, bohater remisu na Wembley (1973) i filar drużyny Górskiego, która zdobyła 3. miejsce na mundialu 1974.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Aankomst%20Pools%20elftal%20op%20Schiphol%2015%20Tomaszewski%2C%20kop%2C%2016%20Deyna%2C%20kop%2C%20Bestanddeelnr%20928-2029.jpg?width=800',
     imageCaption: 'Jan Tomaszewski (z lewej) i Kazimierz Deyna, lata 70.',
-    content: `## Sylwetka
-Jan Tomaszewski (ur. 1948) to legendarny bramkarz reprezentacji Polski, jeden z bohaterów złotej drużyny lat 70.
-
-## Wembley 1973
-Fenomenalną postawą w bramce wywalczył remis 1:1 z Anglią, dający Polsce historyczny awans na mistrzostwa świata.
+    content: `## Wembley 1973
+17 października 1973 roku reprezentacja Polski zagrała na Wembley mecz decydujący o awansie na mistrzostwa świata. Anglicy atakowali przez cały mecz, a Jan Tomaszewski obronił kilkanaście sytuacji bramkowych. Remis 1:1 wystarczył Polsce, a wyeliminował gospodarzy.
 
 ## Clown
-Angielski komentator Brian Clough nazwał go przed meczem „clownem” – Tomaszewski serią obron zamknął mu usta.
+Przed meczem trener Brian Clough nazwał go w telewizji klaunem. Określenie przylgnęło na stałe – ale w wersji odwróconej: jako przykład lekceważenia, które skończyło się kompromitacją tego, kto je wypowiedział.
 
-## Monachium 1974
-Był filarem drużyny Kazimierza Górskiego, która zdobyła 3. miejsce na mistrzostwach świata.
-
-## Styl
-Słynął z brawurowych, nieszablonowych, czasem wręcz akrobatycznych interwencji.
+## RFN 1974
+Rok później Polska zajęła trzecie miejsce na mistrzostwach świata, a Tomaszewski był jednym z filarów drużyny Kazimierza Górskiego. Obronił między innymi rzut karny w meczu z Brazylią o trzecie miejsce.
 
 ## Znaczenie
-To jeden z najsłynniejszych polskich bramkarzy w historii.`,
-    trivia: ['Brian Clough nazwał go przed meczem „clownem” – Tomaszewski go zawstydził.', 'Jego remis 1:1 z Anglią na Wembley dał Polsce awans na mundial 1974.'],
+Mecz na Wembley funkcjonuje w polskiej pamięci zbiorowej niemal jak wydarzenie historyczne. W kraju odciętym od świata sukces sportowy był jedną z niewielu okazji, by poczuć się równym Zachodowi – i władze skwapliwie to wykorzystywały.`,
+    trivia: [
+      'Brian Clough nazwał go przed meczem klaunem; po remisie na Wembley określenie obróciło się przeciw niemu.',
+      'Remis 1:1 wyeliminował Anglię z mistrzostw świata i dał awans Polsce.',
+    ],
     resources: [
       {
         id: 'jt-yt',
@@ -27903,23 +27876,20 @@ Radio Luxembourg, obok Wolnej Europy w innej dziedzinie, pokazuje, jak nieszczel
     yearStart: 1978,
     summary: 'Sztandarowy film kina moralnego niepokoju Feliksa Falka (1978); Jerzy Stuhr jako prowincjonalny wodzirej brnący po karierę przez donosy i podłość.',
     content: `## Film
-„Wodzirej” (1978) w reżyserii Feliksa Falka to jeden ze sztandarowych filmów kina moralnego niepokoju.
+„Wodzirej” Feliksa Falka, zrealizowany w 1977 roku i pokazany rok później, należy do nurtu kina moralnego niepokoju. W roli głównej wystąpił Jerzy Stuhr jako Lutek Danielak – prowincjonalny wodzirej walczący o prowadzenie prestiżowego balu.
 
-## Fabuła
-Lutek Danielak (Jerzy Stuhr), prowincjonalny wodzirej i konferansjer, brnie po karierę przez donosy, intrygi i podłość.
+## Mechanizm
+Bohater intryguje, donosi, poniża się i podkłada nogę konkurentom, wierząc, że prowadzenie jednego balu odmieni jego życie. Stawka jest śmiesznie mała, a środki – nieproporcjonalnie brutalne. Na tym zderzeniu zbudowany jest cały film.
 
-## Kariera za wszelką cenę
-Bohater jest gotów zniszczyć nawet przyjaciela, byle zdobyć prestiżowe zlecenie i pozycję.
+## Portret
+Falk opisuje nie tyle jednostkę, ile system, w którym awans zależy od układów, a nie od umiejętności. Wodzirej jest tego systemu produktem: cynicznym, ale też w gruncie rzeczy przegranym.
 
-## Jerzy Stuhr
-Brawurowa, obnażająca rola cynicznego karierowicza przyniosła Stuhrowi nagrodę na festiwalu w Chicago.
-
-## Satyra
-To bezlitosny portret konformizmu i „załatwiania” spraw w realiach PRL.
-
-## Znaczenie
-Obok „Barw ochronnych” to najważniejszy film nurtu moralnego niepokoju.`,
-    trivia: ['Jerzy Stuhr za rolę Lutka Danielaka otrzymał nagrodę na festiwalu w Chicago.', 'To obok „Barw ochronnych” sztandarowy film kina moralnego niepokoju.'],
+## Rola Stuhra
+Kreacja Jerzego Stuhra – z jego charakterystycznym, nerwowym tempem mowy – należy do najważniejszych w polskim kinie i na lata zdefiniowała typ bohatera-karierowicza.`,
+    trivia: [
+      'Stawką w filmie jest prowadzenie jednego balu, a środki, jakich używa bohater, są nieproporcjonalnie brutalne.',
+      'Rola Lutka Danielaka na lata zdefiniowała w polskim kinie typ bohatera-karierowicza.',
+    ],
     resources: [
       {
         id: 'wo-yt',
@@ -27957,24 +27927,21 @@ Obok „Barw ochronnych” to najważniejszy film nurtu moralnego niepokoju.`,
     yearStart: 1962,
     yearEnd: 1976,
     summary: 'Jeden z najważniejszych zespołów polskiego big-beatu, powołany przez Franciszka Walickiego; śpiewali w nim m.in. Czesław Niemen i Ada Rusowicz.',
-    content: `## Zespół
-Niebiesko-Czarni to jeden z najważniejszych i najstarszych zespołów polskiego big-beatu, powołany przez Franciszka Walickiego.
+    content: `## Powstanie
+Niebiesko-Czarni powstali w 1962 roku w Gdyni, założeni przez Franciszka Walickiego i Jerzego Kosselę. Byli – obok Czerwono-Czarnych – drugim filarem polskiego big-beatu i podobnie jak tamci działali jako scena dla wielu solistów.
 
-## Big-beat
-Wraz z Czerwono-Czarnymi wytyczali szlaki rodzącej się polskiej muzyki młodzieżowej.
+## Muzycy
+W zespole grali i śpiewali m.in. Czesław Niemen, Wojciech Korda i Ada Rusowicz. Grupa łączyła rock, rhythm and blues i elementy muzyki ludowej, wychodząc poza prostą formułę piosenki festiwalowej.
 
-## Wokaliści
-Śpiewali w nim m.in. Czesław Niemen, Ada Rusowicz, Wojciech Korda i Helena Majdaniec.
+## Ambicje
+Niebiesko-Czarni jako jedni z pierwszych w Polsce podjęli próbę stworzenia większej formy muzycznej – widowiska łączącego rock z tekstem literackim. Był to krok w stronę tego, co dekadę później zrobią zespoły rocka progresywnego.
 
-## Nie pukaj do moich drzwi
-Przebój Ady Rusowicz (Opole 1967, z muzyką Niemena) stał się klasykiem polskiej piosenki.
-
-## Mocne uderzenie
-Zespół wystąpił w kultowym filmie muzycznym „Mocne uderzenie” (1967).
-
-## Znaczenie
-To pionierzy i legenda polskiego big-beatu, wylęgarnia wielkich talentów.`,
-    trivia: ['Śpiewali w nim m.in. Czesław Niemen i Ada Rusowicz.', 'Przebój „Nie pukaj do moich drzwi” pochodzi z filmu „Mocne uderzenie” (1967).'],
+## Rozejście
+Z zespołu wyszli muzycy, którzy tworzyli później własne, znaczące projekty. Historia obu formacji Walickiego pokazuje, jak w ciągu kilku lat z niczego zbudowano w Polsce całą infrastrukturę muzyki młodzieżowej.`,
+    trivia: [
+      'W zespole śpiewali m.in. Czesław Niemen, Wojciech Korda i Ada Rusowicz.',
+      'Grupa jako jedna z pierwszych w Polsce próbowała łączyć rock z większą formą muzyczną.',
+    ],
     resources: [
       {
         id: 'nc-yt',
@@ -28229,24 +28196,21 @@ W kolejnych dekadach występowała rzadziej, wracając głównie przy okazji kon
     summary: 'Jeden z najwybitniejszych i najbardziej lubianych polskich aktorów charakterystycznych; rozpoznawalny jako Gustlik w „Czterech pancernych i psie”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Franciszek%20Pieczka%20%281953%29.jpg?width=800',
     imageCaption: 'Franciszek Pieczka – aktor charakterystyczny.',
-    content: `## Sylwetka
-Franciszek Pieczka (1928–2022) to jeden z najwybitniejszych i najbardziej lubianych polskich aktorów charakterystycznych.
+    content: `## Aktor
+Franciszek Pieczka (1928–2022) pochodził ze Śląska i zagrał blisko czterysta pięćdziesiąt ról. Miał typ aktorski rzadki w polskim kinie: postawny, powolny, wiarygodny w rolach ludzi prostych, ale nie prostackich.
 
 ## Gustlik
-Szerokiej publiczności znany jest przede wszystkim jako poczciwy Gustlik Jeleń w serialu „Czterej pancerni i pies”.
+Największą popularność przyniósł mu Gustlik w serialu „Czterej pancerni i pies” (1966–1970). Postać śląskiego czołgisty stała się jedną z najbardziej rozpoznawalnych w historii polskiej telewizji.
 
-## Role
-Stworzył pamiętne kreacje m.in. w „Perle w koronie”, „Żywocie Mateusza” i „Awansie” – mistrz ról prostych, mądrych bohaterów.
+## Kino autorskie
+Równolegle grał u najwybitniejszych reżyserów: u Kawalerowicza, Konwickiego i Jerzego Hoffmana. Jego role w kinie ambitnym pokazywały skalę, jakiej serial nie dawał – milczenie i twarz zamiast dialogu.
 
-## Twarz
-Jego charakterystyczna, jakby „rzeźbiona” twarz i spokojna godność stały się znakiem firmowym.
-
-## Teatr
-Był także wybitnym aktorem teatralnym.
-
-## Znaczenie
-To jeden z filarów polskiego aktorstwa, ceniony przez kolejne pokolenia widzów.`,
-    trivia: ['Zasłynął jako poczciwy Gustlik Jeleń w „Czterech pancernych i psie”.', 'Słynął z ról prostych, mądrych, ludowych bohaterów.'],
+## Długowieczność
+Grał aktywnie przez ponad sześćdziesiąt lat, do późnej starości. Dla kolejnych pokoleń widzów był kimś innym: dla jednych czołgistą, dla innych Jankielem albo bohaterem seriali z lat 90.`,
+    trivia: [
+      'Zagrał blisko 450 ról i pracował aktywnie przez ponad sześćdziesiąt lat.',
+      'Dla różnych pokoleń widzów był kimś zupełnie innym – od Gustlika po role w kinie autorskim.',
+    ],
     resources: [
       {
         id: 'fpi-yt',
@@ -28795,23 +28759,20 @@ Obchody miały ustalony scenariusz: akademia, przemówienie dyrekcji, a potem wr
     yearStart: 1963,
     summary: 'Kameralny dramat Wojciecha Hasa (1963) o poświęceniu i miłości; aktorka wspomina, jak w czasie okupacji ukrywała przed gestapo niewdzięcznego kochanka.',
     content: `## Film
-„Jak być kochaną” (1963) w reżyserii Wojciecha Jerzego Hasa to kameralny dramat o miłości, poświęceniu i cieniu wojny.
+„Jak być kochaną” Wojciecha Hasa, zrealizowany w 1962 roku i pokazany rok później, powstał na podstawie opowiadania Kazimierza Brandysa. Akcja toczy się dwutorowo: w czasie okupacji i w latach powojennych, a całość jest wspomnieniem bohaterki podczas lotu samolotem.
 
 ## Fabuła
-Aktorka Felicja, lecąc samolotem do Paryża, wspomina, jak podczas okupacji ukrywała przed gestapo kochanego, choć niewdzięcznego aktora.
+Aktorka Felicja, grana przez Barbarę Krafftównę, ukrywa w mieszkaniu aktora Wiktora Rawicza – w tej roli Zbigniew Cybulski – poszukiwanego przez Niemców. Płaci za to cenę, o której po wojnie nikt nie chce pamiętać, łącznie z samym uratowanym.
 
-## Barbara Krafftówna
-Subtelna, przejmująca rola Felicji przyniosła aktorce nagrodę na festiwalu w San Francisco.
+## Temat
+Film mówi o tym, jak niewdzięczna i niewygodna bywa cudza ofiara. Bohaterka nie dostaje ani wdzięczności, ani zrozumienia; jej poświęcenie zostaje przemilczane, bo nie pasuje do bohaterskiej opowieści o wojnie.
 
-## Cybulski
-W roli ukrywanego, egocentrycznego aktora wystąpił Zbigniew Cybulski.
-
-## Forma
-Retrospekcje, delikatny psychologizm i gorzka ironia losu budują niezwykły nastrój.
-
-## Znaczenie
-To jeden z najpiękniejszych i najbardziej docenianych filmów Hasa.`,
-    trivia: ['Barbara Krafftówna za rolę Felicji otrzymała nagrodę aktorską w San Francisco.', 'W roli ukrywanego aktora wystąpił Zbigniew Cybulski.'],
+## Rola Krafftówny
+Kreacja Barbary Krafftówny uchodzi za jedną z najwybitniejszych ról kobiecych w historii polskiego kina. Film należy do najdojrzalszych rozliczeń z mitem heroizmu, jakie powstały w latach 60.`,
+    trivia: [
+      'Cała opowieść jest wspomnieniem bohaterki podczas lotu samolotem.',
+      'Film mówi o ofierze, której nikt nie chce pamiętać – łącznie z uratowanym.',
+    ],
     resources: [
       {
         id: 'jbk-yt',
@@ -28860,23 +28821,20 @@ To jeden z najpiękniejszych i najbardziej docenianych filmów Hasa.`,
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Marek_i_Wacek.JPG?width=800',
     imageCaption: 'Marek i Wacek',
     content: `## Duet
-Marek i Wacek to fortepianowy duet Marka Tomaszewskiego i Wacława „Vacka” Kisielewskiego, występujący od 1963 roku.
+Marek Tomaszewski i Wacław Kisielewski tworzyli duet fortepianowy działający w latach 1966–1986. Grali na dwóch fortepianach ustawionych naprzeciw siebie, co samo w sobie było elementem widowiska.
 
-## Styl
-Z humorem przerabiali klasykę na nowocześnie i odwrotnie – nowoczesne przeboje w stylu klasycznym.
+## Repertuar
+Ich pomysł polegał na łączeniu muzyki klasycznej z rozrywkową: przeboje w opracowaniu koncertowym, klasyka zagrana z jazzową swobodą, cytaty przeplatane żartem muzycznym. Formuła trafiała jednocześnie do publiczności filharmonicznej i estradowej.
 
-## Estrada
-Brawurowe, dowcipne występy przy dwóch fortepianach zachwycały publiczność w kraju i za granicą.
+## Zagranica
+Duet zrobił karierę międzynarodową, koncertując w Europie Zachodniej i nagrywając dla zagranicznych wytwórni. Dla artystów z PRL było to osiągnięcie rzadkie – muzyka instrumentalna nie wymagała tłumaczenia i nie budziła podejrzeń cenzury.
 
-## Świat
-Zrobili międzynarodową karierę, grając w prestiżowych salach koncertowych świata.
-
-## Telewizja
-Zadebiutowali w telewizji 8 marca 1963; wystąpili też w filmie „Tandem”.
-
-## Znaczenie
-To jeden z najbardziej rozpoznawalnych polskich zespołów estradowych; duet zakończyła śmierć Vacka w 1986 roku.`,
-    trivia: ['Z humorem przerabiali klasykę na nowocześnie i odwrotnie.', 'Zrobili międzynarodową karierę, grając przy dwóch fortepianach.'],
+## Koniec
+Działalność duetu przerwała śmierć Wacława Kisielewskiego w wypadku samochodowym w 1986 roku. Marek Tomaszewski kontynuował karierę solową.`,
+    trivia: [
+      'Grali na dwóch fortepianach ustawionych naprzeciw siebie – układ był częścią widowiska.',
+      'Muzyka instrumentalna nie wymagała tłumaczenia ani zgody cenzury, co ułatwiało karierę zagraniczną.',
+    ],
     resources: [
       {
         id: 'mv-yt',
@@ -29202,23 +29160,20 @@ Cztery lata później drużyna odpadła w drugiej rundzie po przegranej z Brazyl
     yearStart: 1965,
     summary: 'Oniryczny, wieloznaczny dramat Tadeusza Konwickiego (1965) z Cybulskim; słynny ze zbiorowego, somnambulicznego tańca „salto” i muzyki Kilara.',
     content: `## Film
-„Salto” (1965) w reżyserii Tadeusza Konwickiego to oniryczny, wieloznaczny dramat z Zbigniewem Cybulskim w roli głównej.
+„Salto” Tadeusza Konwickiego z 1965 roku to jeden z najbardziej niejednoznacznych filmów polskiego kina. Główną rolę zagrał Zbigniew Cybulski, wcielając się w człowieka, który przyjeżdża do małego miasteczka i podaje się za kogoś, kim być może nie jest.
 
-## Fabuła
-Tajemniczy przybysz Kowalski-Malinowski zjawia się w sennym miasteczku, budząc emocje, fascynację i podejrzliwość mieszkańców.
+## Nie wiadomo, co jest prawdą
+Bohater opowiada o sobie sprzeczne historie, a mieszkańcy przyjmują je bez pytań, bo każdy chce w nich odnaleźć coś własnego. Film nie rozstrzyga, czy jest oszustem, czy człowiekiem naprawdę naznaczonym wojną.
 
-## Salto
-Słynna scena zbiorowego, somnambulicznego tańca „salto” to metafora wyobcowania, póz i niemożności porozumienia.
+## O czym naprawdę
+Konwicki opisuje sposób, w jaki społeczność radzi sobie z niewygodną przeszłością: przez zbiorowe udawanie, rytuał i wygodną legendę. W kraju, w którym o wojnie i o latach powojennych mówiono wersją obowiązującą, była to diagnoza dotkliwa.
 
-## Muzyka
-Hipnotyczną, niepokojącą muzykę skomponował Wojciech Kilar.
-
-## Symbolika
-Film to rozrachunek z polskimi mitami, wojenną traumą i narodowym mitomaństwem.
-
-## Znaczenie
-To jeden z najbardziej intrygujących, autorskich filmów Tadeusza Konwickiego.`,
-    trivia: ['Słynny zbiorowy taniec „salto” to metafora wyobcowania i póz.', 'Hipnotyczną muzykę do filmu skomponował Wojciech Kilar.'],
+## Forma
+Słynna scena zbiorowego tańca – tytułowego salta – stała się jednym z najczęściej przywoływanych obrazów polskiego kina lat 60., czytanym jako metafora wspólnego odsuwania od siebie prawdy.`,
+    trivia: [
+      'Film nie rozstrzyga, czy bohater jest oszustem, czy człowiekiem naznaczonym wojną.',
+      'Scena zbiorowego tańca stała się jednym z najczęściej przywoływanych obrazów polskiego kina lat 60.',
+    ],
     resources: [
       {
         id: 'sal-yt',
@@ -30066,24 +30021,21 @@ Większość półkowników trafiła na ekrany dopiero w 1989 roku i później.`
     summary: 'Film polityczny Janusza Zaorskiego (1982) wg powieści Kazimierza Brandysa; losy praczki i jej synów w czasach stalinizmu – kolejny półkownik.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Janusz%20zaorski.jpg?width=800',
     imageCaption: 'Janusz Zaorski – reżyser „Matki Królów”.',
-    content: `## Film
-„Matka Królów” (1982) w reżyserii Janusza Zaorskiego to ekranizacja powieści Kazimierza Brandysa.
+    content: `## Film z półki
+„Matka Królów” Janusza Zaorskiego powstała w 1982 roku na podstawie powieści Kazimierza Brandysa. Władze zatrzymały film na pięć lat – na ekrany wszedł dopiero w 1987 roku, gdy cenzura zaczęła słabnąć.
 
 ## Fabuła
-Łucja Król, uboga praczka z Woli, samotnie wychowuje czterech synów; ich losy splatają się z historią Polski od lat 30. po stalinizm.
+To historia matki i jej synów rozgrywająca się od lat 30. przez okupację po stalinizm. Film pokazuje, jak system pochłania kolejnych ludzi – w tym tych, którzy w niego uwierzyli.
 
-## Rozrachunek
-Film bezlitośnie pokazuje, jak system niszczy ludzi wierzących w jego ideały.
-
-## Na półce
-Ukończony w 1982 roku, trafił na półkę i czekał na premierę do 1987.
-
-## Nagrody
-Po odwieszeniu zdobył nagrody, m.in. Srebrnego Niedźwiedzia na festiwalu w Berlinie.
+## Półkownicy
+Filmy zatrzymywane przez cenzurę nazywano żartobliwie półkownikami, od półki, na której leżały. Po 1981 roku trafiło tam kilkanaście tytułów, a ich uwolnienie w drugiej połowie lat 80. samo w sobie było sygnałem, że system traci pewność siebie.
 
 ## Znaczenie
-To jeden z najważniejszych polskich filmów rozrachunkowych o epoce stalinizmu.`,
-    trivia: ['Film czekał na premierę pięć lat – od 1982 do 1987 roku.', 'Po odwieszeniu zdobył Srebrnego Niedźwiedzia na festiwalu w Berlinie.'],
+Film należy do najostrzejszych rozliczeń ze stalinizmem, jakie powstały w PRL. To, że w ogóle go zrealizowano w 1982 roku, mówi o istnieniu w kinematografii przestrzeni, której władza nie zdołała do końca zamknąć.`,
+    trivia: [
+      'Film leżał na półce pięć lat – nakręcony w 1982 roku, pokazany w 1987.',
+      'Zatrzymane przez cenzurę filmy nazywano żartobliwie półkownikami.',
+    ],
     resources: [
       {
         id: 'mk-nina',
