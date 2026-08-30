@@ -929,24 +929,21 @@ Nowa Huta to paradoks PRL – miasto budowane jako pomnik komunizmu, które sta�
     summary: 'Władysław Gomułka – komunistyczny polityk, I sekretarz KC PZPR w latach 1956–1970. Symbol "odwilży" po epoce stalinowskiej, a zarazem człowiek odpowiedzialny za masakrę robotników w Grudniu 1970 i antysemicką kampanię Marca 1968.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wladyslaw%20Gomulka%201967.jpg?width=800',
     imageCaption: 'Władysław Gomułka, I sekretarz KC PZPR w latach 1956–1970.',
-    content: `## Sylwetka
-Władysław Gomułka „Wiesław” (1905–1982) był komunistycznym politykiem, I sekretarzem KC PZPR w latach 1956–1970 – postacią dwóch odsłon: nadziei odwilży i schyłkowego usztywnienia.
+    content: `## Dwa razy na szczycie
+Władysław Gomułka (1905–1982), pseudonim „Wiesław”, kierował PPR w latach 1943–1948, po czym został oskarżony o odchylenie prawicowo-nacjonalistyczne, usunięty i uwięziony. Wrócił w październiku 1956 roku jako I sekretarz KC PZPR i rządził do grudnia 1970.
 
-## Odsunięcie i powrót
-Oskarżony o „odchylenie prawicowo-nacjonalistyczne”, w okresie stalinizmu został usunięty z partii i uwięziony. Do władzy wrócił w październiku 1956 roku, na fali odwilży, witany z entuzjazmem.
+## Nadzieja Października
+Powrót Gomułki witano entuzjastycznie: zapowiadał polską drogę do socjalizmu, zakończył przymusową kolektywizację, uwolnił prymasa Wyszyńskiego i doprowadził do wyjazdu marszałka Rokossowskiego. Kilkaset tysięcy ludzi słuchało jego przemówienia na wiecu w Warszawie.
 
-## „Polska droga do socjalizmu”
-Początkowo złagodził represje, zatrzymał kolektywizację i unormował stosunki z Kościołem. Nadzieje na trwałą liberalizację szybko jednak zgasły.
-
-## Mała stabilizacja
-Lata 60. to „mała stabilizacja” – szara, skromna codzienność, narastający konflikt z Kościołem (Milenium 1966) i polityczne usztywnienie.
+## Odwrót
+Odwilż skończyła się szybko. Zamknięto „Po prostu”, zaostrzono kurs wobec Kościoła i inteligencji, a w 1968 roku doszło do kampanii marcowej z antysemicką nagonką. Gomułka osobiście naciskał też na interwencję w Czechosłowacji.
 
 ## Upadek
-Rządy Gomułki zakończyła krwawa masakra Grudnia 1970 na Wybrzeżu. Skompromitowany, ustąpił miejsca Edwardowi Gierkowi.
-
-## Ocena
-Gomułka pozostaje symbolem zmarnowanych nadziei 1956 roku – polityka, który od reformatora przeszedł do roli twardego, oderwanego od społeczeństwa przywódcy.`,
-    trivia: ['W latach 1951–1954 był więziony przez własną partię, by po Październiku 1956 wrócić jako przywódca.', 'Odsunięto go od władzy po masakrze na Wybrzeżu w grudniu 1970.'],
+W grudniu 1970 roku, po podwyżce cen tuż przed świętami, wybuchły protesty na Wybrzeżu. Do robotników strzelano; zginęło kilkadziesiąt osób. Gomułka stracił władzę w ciągu kilku dni i do śmierci pozostał na politycznym marginesie.`,
+    trivia: [
+      'Był usunięty i uwięziony przez własną partię, a osiem lat później wrócił jako jej przywódca.',
+      'Podwyżkę cen, która wywołała protesty grudnia 1970 roku, ogłoszono tuż przed świętami.',
+    ],
     resources: [
       {
         id: 'gom-1',
@@ -1188,24 +1185,21 @@ Wałęsa to jedna z najważniejszych postaci najnowszej historii Polski – symb
     summary: 'Bolesław Bierut – stalinowski przywódca Polski Ludowej w najciemniejszym okresie jej dziejów (1948–1956). Prezydent KRN, a następnie I sekretarz PZPR. Pod jego rządami przeprowadzono masowe represje i procesy polityczne.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Boles%C5%82aw%20Bierut.jpg?width=800',
     imageCaption: 'Bolesław Bierut – prezydent i I sekretarz KC PZPR w okresie stalinizmu.',
-    content: `## Sylwetka
-Bolesław Bierut (1892–1956) był czołowym polskim komunistą, przywódcą kraju w najciemniejszym, stalinowskim okresie powojennej Polski.
+    content: `## Droga do władzy
+Bolesław Bierut (1892–1956) wojnę spędził w ZSRR, a do Polski wrócił jako człowiek Moskwy. Od 1944 roku przewodniczył Krajowej Radzie Narodowej, a od 1947, po sfałszowanych wyborach, był prezydentem Rzeczypospolitej.
 
-## Droga do władzy
-Związany z Kominternem i sowieckimi służbami, po wojnie objął funkcję prezydenta Krajowej Rady Narodowej, następnie prezydenta RP (1947) i I sekretarza KC PZPR – stając się faktycznym dyktatorem.
+## Wszystkie funkcje naraz
+Po zniesieniu urzędu prezydenta w 1952 roku został premierem, a od 1948 kierował partią – najpierw jako sekretarz generalny, potem I sekretarz KC PZPR. Skupiał więc jednocześnie władzę partyjną i państwową, czego nie powtórzył żaden jego następca.
 
 ## Stalinizm
-Pod jego rządami nasiliły się terror, procesy pokazowe, prześladowania Kościoła i żołnierzy podziemia, kolektywizacja i sowietyzacja kraju. Kult jednostki czynił z Bieruta „polskiego Stalina”.
+Lata jego rządów to okres najcięższych represji: procesów politycznych, wyroków śmierci, walki z Kościołem i przymusowej kolektywizacji. Decyzje zapadały w gronie trzech osób: Bieruta, Hilarego Minca i Jakuba Bermana.
 
-## Konstytucja 1952
-Za jego rządów uchwalono stalinowską Konstytucję PRL (1952), cementującą ustrój komunistyczny i zależność od ZSRR.
-
-## Śmierć
-Bierut zmarł w 1956 roku w Moskwie, podczas XX Zjazdu KPZR, na którym Chruszczow potępił zbrodnie Stalina. Jego śmierć zbiegła się z początkiem odwilży.
-
-## Ocena
-Bierut pozostaje symbolem stalinizmu w Polsce – okresu terroru i całkowitego podporządkowania kraju Moskwie.`,
-    trivia: ['Formalnie bezpartyjny prezydent, w rzeczywistości przywódca komunistów.', 'Zmarł w Moskwie w 1956 roku, tuż po XX Zjeździe KPZR.'],
+## Śmierć w Moskwie
+Zmarł 12 marca 1956 roku w Moskwie, dokąd pojechał na XX Zjazd KPZR, gdzie Chruszczow wygłosił referat o zbrodniach Stalina. Zbieżność okoliczności natychmiast obrosła plotkami. Jego śmierć otworzyła drogę do odwilży i do Października 1956.`,
+    trivia: [
+      'Skupiał jednocześnie funkcję prezydenta, premiera i przywódcy partii – czego nie powtórzył żaden następca.',
+      'Zmarł w Moskwie, dokąd pojechał na XX Zjazd KPZR, na którym potępiono zbrodnie Stalina.',
+    ],
     resources: [
       {
         id: 'bie-1',
@@ -1245,24 +1239,21 @@ Bierut pozostaje symbolem stalinizmu w Polsce – okresu terroru i całkowitego 
     yearStart: 1976,
     yearEnd: 1981,
     summary: 'KOR – Komitet Obrony Robotników założony w 1976 roku przez intelektualistów w obronie represjonowanych robotników z Radomia i Ursusa. Pierwsza jawna, zorganizowana opozycja w PRL, prekursor "Solidarności".',
-    content: `## Geneza
-Komitet Obrony Robotników powstał we wrześniu 1976 roku, po brutalnych represjach wobec uczestników protestów Czerwca 1976 w Radomiu i Ursusie.
+    content: `## Powstanie
+Komitet Obrony Robotników powstał we wrześniu 1976 roku, po represjach wobec uczestników czerwcowych protestów w Radomiu, Ursusie i Płocku. Był pierwszą jawną organizacją opozycyjną w PRL – jego członkowie podpisywali się nazwiskiem i podawali adresy.
 
-## Pomoc represjonowanym
-KOR organizował pomoc prawną, finansową i medyczną dla pobitych, zwalnianych z pracy i skazanych robotników oraz ich rodzin – konkretne, namacalne wsparcie.
+## Co robił
+Zbierał pieniądze dla rodzin zwolnionych i aresztowanych, organizował pomoc prawną i lekarską, dokumentował przypadki bicia i procesów. Ta konkretna, policzalna praca była ważniejsza niż deklaracje programowe.
 
-## Jawność jako metoda
-Działacze występowali pod własnymi nazwiskami, podając adresy i telefony. Ta odwaga łamała strach i odróżniała KOR od dawnej konspiracji.
+## Przełom
+Znaczenie KOR polegało na połączeniu dwóch środowisk, które wcześniej działały osobno: inteligencji i robotników. W 1968 roku robotnicy nie poparli studentów, w 1970 studenci nie poparli robotników. Od 1976 roku ten podział przestał działać na korzyść władzy.
 
-## Ludzie
-W KOR działali m.in. Jacek Kuroń, Antoni Macierewicz, Adam Michnik, Jan Józef Lipski, Jan Lityński, Zbigniew i Zofia Romaszewscy oraz pisarz Jerzy Andrzejewski i ks. Jan Zieja.
-
-## Drugi obieg i przekształcenie
-KOR rozwinął niezależny obieg wydawniczy („Biuletyn Informacyjny”, „Robotnik”) i przekształcił się w KSS „KOR”, budując sieć kontaktów w środowiskach robotniczych.
-
-## Znaczenie
-KOR stworzył intelektualne i organizacyjne zaplecze, na którym w 1980 roku wyrosła Solidarność – pomost między inteligencją a robotnikami.`,
-    trivia: ['Komitet powstał we wrześniu 1976, by pomagać robotnikom represjonowanym po proteście w Radomiu i Ursusie.', 'Rozwiązał się dobrowolnie w 1981 roku, uznając, że jego zadania przejęła Solidarność.'],
+## Dalej
+Po spełnieniu części postulatów komitet przekształcił się w Komitet Samoobrony Społecznej „KOR”. Z jego środowiska wyszli ludzie, którzy cztery lata później doradzali strajkującym w Stoczni Gdańskiej.`,
+    trivia: [
+      'Członkowie KOR podpisywali się nazwiskiem i podawali własne adresy – to była jawność zamiast konspiracji.',
+      'KOR połączył inteligencję z robotnikami; wcześniej, w 1968 i 1970 roku, obie grupy nie poparły się nawzajem.',
+    ],
     resources: [
       {
         id: 'kor-ipn1',
@@ -1404,24 +1395,21 @@ Marzec 1968 to trauma polskiej inteligencji i kompromitacja władzy. Ukształtow
     summary: 'Robotnicze protesty w Radomiu i Ursusie z 25 czerwca 1976 roku, wywołane ogłoszeniem drastycznych podwyżek cen żywności. Stłumione przez władze z użyciem brutalnych represji, w tym słynnych "ścieżek zdrowia".',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Poland_Warsaw_Ursus_Monument_of_June_1976.jpg?width=800',
     imageCaption: 'Czerwiec 1976',
-    content: `## Tło
-24 czerwca 1976 roku premier Piotr Jaroszewicz ogłosił drastyczne podwyżki cen żywności – w niektórych przypadkach o kilkadziesiąt procent. Następnego dnia wybuchły protesty.
+    content: `## Podwyżka
+24 czerwca 1976 roku premier Piotr Jaroszewicz ogłosił w Sejmie drastyczną podwyżkę cen żywności – mięso miało zdrożeć o kilkadziesiąt procent. Nazajutrz stanęły zakłady w całym kraju.
 
-## Protesty
-Strajki i demonstracje objęły przede wszystkim Radom, Ursus pod Warszawą i Płock. W Radomiu doszło do walk ulicznych i podpalenia komitetu partii; w Ursusie robotnicy zablokowali tory kolejowe.
+## Radom, Ursus, Płock
+Najostrzejszy przebieg protesty miały w Radomiu, gdzie podpalono gmach komitetu wojewódzkiego partii, oraz w Ursusie, gdzie robotnicy zablokowali tory linii kolejowej. Strajkowano też w Płocku i kilkudziesięciu innych miejscach.
 
-## Represje
-Po stłumieniu protestów nastąpiły brutalne represje: bicie zatrzymanych w słynnych „ścieżkach zdrowia”, masowe zwolnienia z pracy, pokazowe procesy i wyroki więzienia.
+## Odwołanie i zemsta
+Podwyżkę wycofano już następnego dnia – władza po raz pierwszy cofnęła się przed naciskiem tak szybko. Następnie jednak przeprowadzono represje: zwolnienia z pracy, pobicia na komisariatach, procesy. Przez tak zwane ścieżki zdrowia, czyli szpalery bijących milicjantów, przepędzono setki osób.
 
-## Wycofanie podwyżek
-Pod presją protestów władze jeszcze tego samego dnia wycofały podwyżki – co było rzadkim przyznaniem się do porażki, lecz nie powstrzymało represji.
-
-## Powstanie KOR
-Pomoc dla represjonowanych robotników stała się impulsem do powstania Komitetu Obrony Robotników (wrzesień 1976) – przełomu w organizowaniu jawnej opozycji.
-
-## Znaczenie
-Czerwiec 1976 połączył bunt robotniczy ze wsparciem inteligencji, budując fundament pod przyszłą Solidarność.`,
-    trivia: ['Podwyżki cen ogłoszone 24 czerwca wycofano już następnego dnia.', 'Zatrzymanych przepędzano przez „ścieżki zdrowia” – szpaler bijących milicjantów.'],
+## Skutek
+To właśnie pomoc represjonowanym doprowadziła we wrześniu 1976 roku do powstania Komitetu Obrony Robotników. Czerwiec był więc przegraną władzy podwójnie: musiała cofnąć decyzję i sama wywołała powstanie zorganizowanej opozycji.`,
+    trivia: [
+      'Podwyżkę cen odwołano już następnego dnia po jej ogłoszeniu.',
+      'Represje po Czerwcu doprowadziły do powstania KOR – władza sama wywołała zorganizowaną opozycję.',
+    ],
     resources: [
       {
         id: 'czerwiec-1976-pkf',
@@ -1472,24 +1460,21 @@ Czerwiec 1976 połączył bunt robotniczy ze wsparciem inteligencji, budując fu
     summary: 'Ks. Jerzy Popiełuszko – kapłan katolicki i kapelan "Solidarności", zamordowany 19 października 1984 roku przez funkcjonariuszy Służby Bezpieczeństwa. Jego "Msze za Ojczyznę" gromadziły dziesiątki tysięcy wiernych.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jerzy%20Popieluszko%20Funeral%20-%2061.jpg?width=800',
     imageCaption: 'Pogrzeb ks. Jerzego Popiełuszki, 3 listopada 1984 – wielka manifestacja.',
-    trivia: ['Na pogrzeb ks. Popiełuszki w 1984 roku przyszło kilkaset tysięcy ludzi.'],
-    content: `## Sylwetka
-Ksiądz Jerzy Popiełuszko (1947–1984) był kapłanem warszawskiej parafii św. Stanisława Kostki, który stał się duchowym przewodnikiem Solidarności.
+    trivia: [
+      'Jego kazania nagrywano i rozprowadzano w drugim obiegu w całym kraju.',
+      'Proces po morderstwie objął bezpośrednich wykonawców, ale nie zleceniodawców.',
+    ],
+    content: `## Kapelan Solidarności
+Ks. Jerzy Popiełuszko (1947–1984) został skierowany do posługi wśród robotników w sierpniu 1980 roku, gdy strajkująca Huta Warszawa poprosiła o księdza. Od tego czasu był związany z warszawską Solidarnością.
 
-## Msze za Ojczyznę
-Odprawiane przez niego Msze za Ojczyznę gromadziły tłumy wiernych z całej Polski. Jego kazania – odważne, lecz wzywające do „zwyciężania zła dobrem” – dawały nadzieję w mrocznym okresie stanu wojennego.
+## Msze za ojczyznę
+W kościele św. Stanisława Kostki na Żoliborzu odprawiał msze za ojczyznę, na które przyjeżdżali ludzie z całego kraju. Jego kazania – spokojne, bez wezwań do przemocy, oparte na zasadzie zwyciężania zła dobrem – były nagrywane i rozprowadzane w drugim obiegu.
 
-## Inwigilacja i nagonka
-Kapłan był inwigilowany, nękany i atakowany przez propagandę oraz Służbę Bezpieczeństwa, która widziała w nim groźnego przeciwnika.
+## Nękanie
+Służba Bezpieczeństwa prowadziła przeciw niemu kampanię: podrzucono mu materiały wybuchowe, wielokrotnie zatrzymywano, próbowano wywołać wypadek samochodowy. W prasie ukazywały się artykuły przedstawiające go jako politycznego agitatora.
 
-## Męczeństwo
-19 października 1984 roku został uprowadzony i bestialsko zamordowany przez funkcjonariuszy SB. Jego ciało wydobyto z Wisły pod Włocławkiem.
-
-## Pogrzeb
-Pogrzeb 3 listopada 1984 roku przerodził się w wielką, milczącą manifestację – uczestniczyły w niej setki tysięcy ludzi, a grób przy kościele stał się miejscem pielgrzymek.
-
-## Pamięć
-Proces zabójców (proces toruński) był bezprecedensowy, choć nie objął mocodawców. W 2010 roku ks. Popiełuszko został beatyfikowany jako męczennik.`,
+## Morderstwo
+19 października 1984 roku został uprowadzony i zamordowany przez funkcjonariuszy SB. Jego ciało wyłowiono z Wisły pod Włocławkiem. Pogrzeb zgromadził setki tysięcy ludzi i stał się największą manifestacją od czasu stanu wojennego. Proces sprawców objął wykonawców, ale nie zleceniodawców.`,
     resources: [
       {
         id: 'pop-1',
@@ -1532,24 +1517,21 @@ Proces zabójców (proces toruński) był bezprecedensowy, choć nie objął moc
     summary: 'Pacyfikacja Kopalni Węgla Kamiennego "Wujek" w Katowicach – 16 grudnia 1981 roku oddziały ZOMO i wojsko otworzyły ogień do strajkujących górników. Zginęło 9 osób, 23 zostały ranne. Najtragiczniejsza ze zbrodni stanu wojennego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Katowice%20kopalnia%20Wujek%207.jpg?width=800',
     imageCaption: 'Kopalnia Wujek w Katowicach – miejsce pacyfikacji z 16 grudnia 1981 roku.',
-    trivia: ['Była to jedyna pacyfikacja stanu wojennego, w której użyto broni palnej ze skutkiem śmiertelnym.'],
-    content: `## Tło
-Po wprowadzeniu stanu wojennego 13 grudnia 1981 roku w wielu zakładach wybuchły strajki. Górnicy kopalni „Wujek” w Katowicach zaprotestowali przeciw internowaniu działaczy i delegalizacji Solidarności.
+    trivia: [
+      'Do przełamania oporu strajkujących skierowano czołgi, które sforsowały mur kopalni.',
+      'Krzyż stawiany pod kopalnią był w latach 80. wielokrotnie usuwany przez władze.',
+    ],
+    content: `## Strajk
+Po wprowadzeniu stanu wojennego górnicy kopalni Wujek w Katowicach podjęli strajk okupacyjny, protestując przeciw internowaniom i zawieszeniu Solidarności. Podobne strajki wybuchły w kilkunastu zakładach Śląska.
 
-## Pacyfikacja
-16 grudnia 1981 roku do kopalni wkroczyły oddziały ZOMO wsparte czołgami i specjalnym plutonem. Doszło do brutalnej pacyfikacji strajkujących górników.
+## 16 grudnia 1981
+Do pacyfikacji skierowano oddziały Milicji Obywatelskiej, wojsko i czołgi, które przełamały mur kopalni. Gdy natarcie utknęło, ogień do górników otworzył pluton specjalny ZOMO.
 
 ## Ofiary
-W wyniku użycia broni palnej zginęło dziewięciu górników, a ponad dwudziestu zostało rannych. Była to najtragiczniejsza zbrodnia stanu wojennego.
+Zginęło dziewięciu górników, dwudziestu trzech zostało rannych. Instytut Pamięci Narodowej określił te wydarzenia jako najkrwawszą pacyfikację stanu wojennego.
 
-## Tuszowanie
-Władze przedstawiały wydarzenia tendencyjnie, a sprawcy przez lata pozostawali bezkarni. Pamięć o ofiarach podtrzymywały rodziny, Kościół i podziemna Solidarność.
-
-## Symbol
-„Wujek” stał się symbolem oporu i ofiary stanu wojennego. Pod kopalnią co roku odbywają się uroczystości, a poległych upamiętnia pomnik-krzyż.
-
-## Sprawiedliwość
-Procesy sprawców toczyły się dopiero po 1989 roku i ciągnęły przez dziesięciolecia, kończąc się skazaniem części dowodzących pacyfikacją.`,
+## Pamięć i rozliczenie
+Władze przedstawiły zajścia jako obronę konieczną wobec uzbrojonych napastników. Krzyż stawiany pod kopalnią był wielokrotnie usuwany, a rocznice rozpędzano. Procesy sprawców toczyły się dopiero po 1989 roku i ciągnęły przez blisko dwie dekady.`,
     resources: [
       {
         id: 'wuj-1',
@@ -1668,23 +1650,20 @@ Po 1989 roku IPN wszczął setki śledztw w sprawie zbrodni komunistycznych. Wi�
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Emblem_of_the_Polish_People%27s_Army_land_forces_%281972%29_%282%29.png?width=800',
     imageCaption: 'Ludowe Wojsko Polskie',
     content: `## Powstanie
-Ludowe Wojsko Polskie (LWP) wywodziło się z formowanej w ZSRR od 1943 roku armii (1. Dywizja Piechoty im. Tadeusza Kościuszki), podporządkowanej politycznie komunistom i Moskwie.
+Ludowe Wojsko Polskie wyrosło z jednostek formowanych w ZSRR od 1943 roku. Po wojnie stało się armią państwa, w którym korpus oficerski budowano od nowa, bo przedwojennych oficerów i żołnierzy Armii Krajowej usuwano lub więziono.
 
-## Podporządkowanie ZSRR
-Armię wyposażono w sowiecki sprzęt i szkolono według radzieckich wzorów, a kluczowe stanowiska obsadzali oficerowie ZSRR – jak marszałek Konstanty Rokossowski, pełniący funkcję ministra obrony.
+## Pod kontrolą
+Nad armią czuwały równolegle trzy struktury: aparat polityczny z oficerami politycznymi w każdej jednostce, Informacja Wojskowa i jej następczyni Wojskowa Służba Wewnętrzna oraz sama partia poprzez Komisję Wojskową Biura Politycznego. W latach 1949–1956 ministrem obrony był marszałek radziecki Konstanty Rokossowski.
 
-## Indoktrynacja
-W wojsku działał rozbudowany aparat polityczny (oficerowie polityczni, Główny Zarząd Polityczny), dbający o ideologiczną „prawomyślność” żołnierzy.
+## Użycie wewnątrz kraju
+Wojsko wielokrotnie kierowano przeciw obywatelom: w Poznaniu w 1956, na Wybrzeżu w 1970 i po wprowadzeniu stanu wojennego. Największą operacją zagraniczną był udział 2. Armii w inwazji na Czechosłowację w 1968 roku.
 
-## Układ Warszawski i 1968
-LWP było częścią Układu Warszawskiego. W 1968 roku wzięło udział w inwazji na Czechosłowację, tłumiącej Praską Wiosnę.
-
-## Użycie przeciw społeczeństwu
-Wojsko skierowano przeciw obywatelom w Grudniu 1970 na Wybrzeżu, a w 1981 roku to wojskowa WRON gen. Jaruzelskiego formalnie wprowadziła i firmowała stan wojenny.
-
-## Znaczenie
-LWP łączyło rolę armii z funkcją narzędzia systemu – pozostaje symbolem zależności od ZSRR i użycia siły wobec własnego narodu.`,
-    trivia: ['Armia była politycznie podporządkowana partii.', 'W 1968 roku wzięła udział w inwazji na Czechosłowację.'],
+## Służba i codzienność
+Dla setek tysięcy mężczyzn armia oznaczała dwuletnią służbę zasadniczą, a dla gospodarki – stałe zapotrzebowanie na ludzi i środki. Wojsko było też obecne w kulturze: przez festiwal piosenki żołnierskiej, filmy wojenne i uroczystości państwowe.`,
+    trivia: [
+      'W latach 1949–1956 ministrem obrony narodowej Polski był marszałek Związku Radzieckiego.',
+      'Nad armią czuwały równolegle trzy struktury kontroli: aparat polityczny, kontrwywiad wojskowy i komisja partyjna.',
+    ],
     resources: [
       {
         id: 'lwp-pkf',
@@ -1856,24 +1835,21 @@ LWP łączyło rolę armii z funkcją narzędzia systemu – pozostaje symbolem 
     summary: 'ZOMO — Zmotoryzowane Oddziały Milicji Obywatelskiej — były wyspecjalizowanymi jednostkami pacyfikacyjnymi MO PRL, powołanymi w 1956 r. i rozwiązanymi w 1990 r. Zasłynęły z brutalnych interwencji podczas strajków i demonstracji, szczególnie w czasie stanu wojennego, gdy ich działania kosztowały życie kilkudziesięciu osób.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/1989%2C%20Demonstration%20in%20Wroclaw%2C%20Police.jpg?width=800',
     imageCaption: 'ZOMO',
-    content: `## Czym było ZOMO
-Zmotoryzowane Odwody Milicji Obywatelskiej (ZOMO) to specjalne, paramilitarne oddziały milicji powołane w 1956 roku do tłumienia zamieszek i „przywracania porządku”.
+    content: `## Powstanie
+Zmotoryzowane Odwody Milicji Obywatelskiej powołano w drugiej połowie 1956 roku, po poznańskim Czerwcu. Formalnym zadaniem była „likwidacja zbiorowych naruszeń porządku publicznego”, a także pomoc podczas klęsk żywiołowych.
 
-## Wyposażenie i metody
-ZOMO dysponowało pałkami, tarczami, armatkami wodnymi, gazem łzawiącym i pojazdami opancerzonymi. Słynęło z brutalności wobec demonstrantów.
+## Do czego służyły
+W praktyce ZOMO było oddziałem do tłumienia protestów. Wyposażone w tarcze, pałki, armatki wodne i gaz łzawiący, szkolone do działania w zwartym szyku, stanowiło narzędzie, którego zwykła milicja nie zastępowała.
 
-## Narzędzie represji
-Oddziały kierowano do tłumienia protestów – m.in. w Grudniu 1970, Czerwcu 1976, a przede wszystkim w stanie wojennym, gdy stały się głównym narzędziem pacyfikacji.
+## Stan wojenny
+Największą rolę odegrało po 13 grudnia 1981 roku: przy pacyfikacjach zakładów, rozbijaniu demonstracji i internowaniach. Pluton specjalny ZOMO otworzył ogień do górników w kopalni Wujek.
 
-## Wujek i pacyfikacje
-To pluton specjalny ZOMO odpowiadał za śmierć dziewięciu górników w kopalni „Wujek”. ZOMO rozbijało też uliczne manifestacje Solidarności w latach 80.
-
-## Strach i pogarda
-ZOMO budziło powszechny strach i nienawiść; pogardliwie nazywano jego funkcjonariuszy „pałami”, a skrót złośliwie rozwijano na różne sposoby.
-
-## Koniec
-ZOMO rozwiązano na przełomie 1989 i 1990 roku wraz z reformą milicji i przekształceniem jej w policję. Pozostało symbolem przemocy aparatu PRL.`,
-    trivia: ['Zmotoryzowane Odwody Milicji Obywatelskiej utworzono po Poznańskim Czerwcu 1956.', 'Formację rozwiązano dopiero po upadku PRL.'],
+## Przywileje i pamięć
+Funkcjonariuszom zapewniano wyższe pensje, dodatki i przydziały mieszkań, co miało budować lojalność. W pamięci społecznej skrót ZOMO stał się synonimem przemocy państwa; formację rozwiązano w 1989 roku.`,
+    trivia: [
+      'Formację powołano po poznańskim Czerwcu 1956 roku, żeby mieć oddział do tłumienia protestów.',
+      'Funkcjonariuszom zapewniano wyższe pensje i przydziały mieszkań, co miało budować lojalność.',
+    ],
     resources: [
       {
         id: 'zomo-pkf',
@@ -2302,24 +2278,21 @@ Przed bramą stoczni wznosi się pomnik Poległych Stoczniowców 1970 – trzy k
     summary: 'Radio Wolna Europa – finansowana przez CIA rozgłośnia emigracyjna nadająca z Monachium. Polska sekcja RWE dostarczała Polakom niezależne informacje przez ponad 40 lat, stając się jednym z najważniejszych narzędzi oporu wobec komunistycznej propagandy.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/RFE_RL_Logo_Prague.jpg?width=800',
     imageCaption: 'Radio Wolna Europa',
-    content: `## Czym było RWE
-Rozgłośnia Polska Radia Wolna Europa, nadająca z Monachium od 1952 roku, była najważniejszym niezależnym źródłem informacji docierającym zza żelaznej kurtyny do Polaków.
+    content: `## Rozgłośnia
+Radio Wolna Europa powstało w 1949 roku jako amerykańska rozgłośnia nadająca do krajów bloku wschodniego. Sekcja polska ruszyła w 1952 roku, a jej wieloletnim dyrektorem był Jan Nowak-Jeziorański, kurier z Warszawy.
 
-## Misja
-RWE przekazywało wiadomości przemilczane lub zakłamane przez oficjalne media, komentarze polityczne oraz audycje kulturalne i religijne, podtrzymując nadzieję i niezależne myślenie.
+## Co nadawano
+Informacje przemilczane w kraju, komentarze polityczne, audycje o historii i literaturze, a także relacje z wydarzeń, o których prasa milczała. To z RWE Polacy dowiadywali się o strajkach, procesach i o tym, co działo się w innych krajach bloku.
 
-## Jan Nowak-Jeziorański
-Przez ćwierć wieku (1952–1976) rozgłośnią kierował Jan Nowak-Jeziorański, „Kurier z Warszawy”, nadając jej rangę i wiarygodność.
+## Przełomy
+Największy wstrząs wywołał cykl audycji Józefa Światły w latach 1954–1955, który ujawnił kulisy aparatu bezpieczeństwa. Później rozgłośnia relacjonowała Marzec 1968, Grudzień 1970, Czerwiec 1976 i cały okres Solidarności.
 
 ## Zagłuszanie
-Władze PRL prowadziły kosztowną akcję zagłuszania RWE, budując sieć stacji zakłócających. Mimo to słuchacze „łapali” audycje, zwłaszcza wieczorem i poza miastami.
-
-## Wpływ
-RWE informowało o protestach, represjach i działalności opozycji – m.in. ujawniło zbrodnie UB w audycjach zbiegłego płk. Józefa Światły – wspierając KOR i Solidarność. Słuchanie „Wolnej Europy” było formą cichego oporu.
-
-## Znaczenie
-Radio Wolna Europa odegrało kluczową rolę w przełamywaniu monopolu informacyjnego komunistów i w budowaniu niezależnego społeczeństwa.`,
-    trivia: ['Rozgłośnię zagłuszano, więc słuchano jej wieczorami, cierpliwie kręcąc gałką.', 'Rozgłośnią Polską kierował przez lata Jan Nowak-Jeziorański.'],
+Państwo utrzymywało kosztowną sieć stacji zagłuszających, ale słuchano mimo szumów, przestrajając odbiornik i wybierając porę. Zagłuszania zaprzestano dopiero w 1988 roku – sam fakt, że utrzymywano je przez cztery dekady, mówi więcej o sile niezależnej informacji niż niejedna analiza.`,
+    trivia: [
+      'Wieloletnim dyrektorem sekcji polskiej był Jan Nowak-Jeziorański, kurier z Warszawy.',
+      'Zagłuszania zaprzestano dopiero w 1988 roku, po czterech dekadach kosztownej wojny w eterze.',
+    ],
     resources: [
       {
         id: 'rwe-1',
@@ -2517,24 +2490,21 @@ Październik 1956 nie zmienił zasad systemu. Cenzura pozostała, Polska trwała
     summary: 'Urząd Bezpieczeństwa (UB) – stalinowski aparat terroru działający w Polsce w latach 1944–1956. Podległy Ministerstwu Bezpieczeństwa Publicznego, przy sowieckim nadzorze NKWD/MWD, prowadził masowe aresztowania, tortury i egzekucje przeciwników politycznych.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Toivi%20Hersz%20Blatt%20%28Boles%C5%82aw%20Stankiewicz%29%2C%20Urz%C4%85d%20Bezpiecze%C5%84stwa%20Publicznego%2C%20Ankieta%20Specjalna.png?width=800',
     imageCaption: 'Urząd Bezpieczeństwa',
-    content: `## Czym był UB
-Urząd Bezpieczeństwa (UB) to aparat policji politycznej pierwszego, stalinowskiego okresu Polski Ludowej (1944/45–1956) – narzędzie terroru w rękach komunistów.
+    content: `## Aparat
+Urząd Bezpieczeństwa – potocznie bezpieka – to niewojskowe struktury aparatu bezpieczeństwa działające w okresie stalinizmu, od 1944 do 1956 roku. Centralą było Ministerstwo Bezpieczeństwa Publicznego kierowane przez Stanisława Radkiewicza.
 
-## Zwalczanie podziemia
-UB ścigał żołnierzy podziemia niepodległościowego (AK, NSZ, WiN), legalną opozycję (PSL Mikołajczyka) oraz wszystkich uznanych za „wrogów ludu”.
+## Zadania
+Głównym celem było zwalczanie podziemia niepodległościowego, opozycji politycznej i Kościoła. Aparat prowadził śledztwa, dysponował własnymi więzieniami i rozbudowaną siecią agentury, a jego funkcjonariusze mieli praktycznie nieograniczoną swobodę wobec zatrzymanych.
 
-## Terror
-Funkcjonariusze stosowali masowe aresztowania, brutalne tortury w śledztwie, pokazowe procesy i egzekucje. W więzieniach UB (m.in. przy Rakowieckiej w Warszawie) zginęły tysiące ludzi.
+## Metody
+Standardem było wielogodzinne przesłuchiwanie, pozbawianie snu, karcer, bicie i szantaż wobec rodziny. Zeznania uzyskane w ten sposób stanowiły podstawę wyroków w procesach politycznych, także tych zakończonych karą śmierci.
 
-## Skala i kierownictwo
-Aparat liczył dziesiątki tysięcy funkcjonariuszy oraz rozległą sieć agentury. Kierował nim Stanisław Radkiewicz, a nad całością czuwali doradcy sowieccy.
-
-## Przełom 1956
-Po ujawnieniu zbrodni – m.in. w audycjach zbiegłego na Zachód płk. Józefa Światły w Radiu Wolna Europa – i w atmosferze odwilży UB rozwiązano w 1956 roku, zastępując go Służbą Bezpieczeństwa.
-
-## Znaczenie
-UB pozostaje symbolem stalinowskiego terroru – bezwzględnej machiny represji, która złamała zbrojny i polityczny opór wobec komunizmu.`,
-    trivia: ['Ministerstwo Bezpieczeństwa Publicznego rozwiązano w 1954 roku po ucieczce na Zachód płk. Józefa Światły.', 'Aparat bezpieczeństwa rozrósł się do dziesiątek tysięcy funkcjonariuszy i sieci informatorów.'],
+## Koniec i ciąg dalszy
+Po ucieczce Józefa Światły i jego audycjach w Radiu Wolna Europa ministerstwo rozwiązano w grudniu 1954 roku. Jego zadania przejęła powołana w 1956 roku Służba Bezpieczeństwa – zmieniły się nazwa i metody, nie sam cel istnienia.`,
+    trivia: [
+      'Aparat dysponował własnymi więzieniami, niezależnymi od więziennictwa cywilnego.',
+      'Ministerstwo rozwiązano po tym, jak jego wicedyrektor Józef Światło ujawnił metody pracy w Radiu Wolna Europa.',
+    ],
     resources: [
       {
         id: 'ub-1',
@@ -2711,24 +2681,21 @@ Pod wpływem strajków gen. Czesław Kiszczak podjął pierwsze rozmowy z Wałę
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'Nomenklatura – system obsady stanowisk kierowniczych w PRL, zarezerwowanych wyłącznie dla osób zatwierdzonych przez PZPR. Tworzył on uprzywilejowaną klasę społeczną korzystającą z dóbr niedostępnych dla ogółu obywateli.',
-    content: `## Pojęcie
-Nomenklatura to system obsadzania kluczowych stanowisk w państwie, gospodarce i instytucjach wyłącznie osobami zatwierdzonymi przez partię (PZPR) – a także sama uprzywilejowana warstwa tak nominowanych.
+    content: `## Zasada
+Nomenklatura to system, w którym obsada stanowisk kierowniczych wymagała zgody odpowiedniego szczebla partii. Istniały listy stanowisk przypisanych do komitetów: od centralnego po zakładowy. Bez akceptacji nie można było zostać dyrektorem, redaktorem naczelnym ani kierownikiem szkoły.
 
-## Mechanizm
-Listy „nomenklaturowe” obejmowały tysiące posad – od dyrektorów fabryk po redaktorów i urzędników. Awans zależał nie od kompetencji, lecz od lojalności i partyjnego namaszczenia.
+## Zasięg
+Obejmowała nie tylko administrację, ale też przedsiębiorstwa, spółdzielnie, wydawnictwa, kluby sportowe i instytucje kultury. Kilkaset tysięcy stanowisk w kraju podlegało tej procedurze.
 
-## Przywileje
-Nomenklatura cieszyła się przywilejami niedostępnymi dla zwykłych obywateli: lepszym zaopatrzeniem, mieszkaniami, samochodami, talonami, wczasami i odrębną opieką zdrowotną.
+## Skutki
+Kryterium lojalności politycznej stawało się ważniejsze niż kompetencja, a odpowiedzialność przesuwała się z osoby na tego, kto ją zatwierdził. Osoba odwołana ze stanowiska zwykle nie wypadała z systemu, tylko trafiała na inne – co nazywano karuzelą stanowisk.
 
-## Klasa rządząca
-W praktyce nomenklatura stała się nową, zamkniętą klasą uprzywilejowaną – zaprzeczeniem głoszonego egalitaryzmu, budzącym społeczną niechęć.
-
-## Krytyka
-Przywileje aparatu były jednym z głównych źródeł frustracji i jednym z postulatów Solidarności, domagającej się sprawiedliwości społecznej i jawności życia publicznego.
-
-## Znaczenie
-Nomenklatura to klucz do zrozumienia realnego mechanizmu władzy w PRL – systemu, w którym partia kontrolowała kariery i rozdzielała przywileje.`,
-    trivia: ['Stanowiska kierownicze obsadzano wyłącznie za zgodą partii.', 'Sama lista stanowisk nomenklaturowych była tajna.'],
+## Po 1989 roku
+Zasoby, kontakty i doświadczenie zarządcze zgromadzone w tym środowisku okazały się przydatne w gospodarce rynkowej. Zjawisko uwłaszczenia nomenklatury stało się jednym z głównych sporów pierwszej dekady po zmianie ustroju.`,
+    trivia: [
+      'Bez zgody odpowiedniego komitetu partii nie można było zostać nawet kierownikiem szkoły.',
+      'Odwołany dyrektor zwykle nie wypadał z systemu, tylko trafiał na inne stanowisko – nazywano to karuzelą.',
+    ],
     resources: [
       {
         id: 'nomenklatura-1',
@@ -2860,24 +2827,21 @@ Katyń stał się symbolem martyrologii Polaków pod okupacją sowiecką i zakł
     summary: 'Milicja Obywatelska (MO) – komunistyczna formacja policyjna powołana w 1944 roku jako zamiennik przedwojennej Policji Państwowej. Przez 45 lat pełniła funkcje porządkowe, lecz przede wszystkim była narzędziem represji politycznych i kontroli społeczeństwa.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Milicja_Obywatelska_orze%C5%82ek_czapkowy.png?width=800',
     imageCaption: 'Milicja Obywatelska',
-    content: `## Czym była MO
-Milicja Obywatelska (MO) to umundurowana policja PRL, utworzona w 1944 roku. Obok funkcji porządkowych była narzędziem władzy komunistycznej.
+    content: `## Formacja
+Milicja Obywatelska powstała w 1944 roku i przez cały okres PRL pełniła funkcje policyjne. Liczyła około osiemdziesięciu tysięcy funkcjonariuszy i podlegała Ministerstwu Spraw Wewnętrznych – temu samemu, któremu podlegała Służba Bezpieczeństwa.
 
-## Struktura i podległość
-MO podlegała Ministerstwu Spraw Wewnętrznych i była ściśle powiązana z aparatem bezpieczeństwa (UB, później SB). Milicjant – ironicznie zwany „panem władzą” – był codzienną twarzą państwa.
+## Dwie role
+Milicja zajmowała się przestępczością pospolitą, ruchem drogowym i porządkiem publicznym, ale jednocześnie służyła utrzymaniu systemu: kontrolowała zgromadzenia, sprawdzała dokumenty, uczestniczyła w rozpędzaniu demonstracji. Ta dwoistość kształtowała stosunek społeczeństwa do formacji.
 
-## Zadania
-Poza zwalczaniem przestępczości MO uczestniczyła w kontroli społeczeństwa: legitymowaniu, pilnowaniu porządku na zgromadzeniach, egzekwowaniu reglamentacji i godziny milicyjnej.
+## Codzienny kontakt
+Dla przeciętnego obywatela milicjant był najbardziej widoczną twarzą państwa: przy legitymowaniu, w punkcie kontroli drogowej, na komisariacie przy meldunku. Uprawnienia były szerokie, a droga odwołania od decyzji – w praktyce żadna.
 
-## ZOMO i represje
-W jej strukturach działały oddziały ZOMO, kierowane do tłumienia protestów. MO brała udział w pacyfikacjach Grudnia 1970, Czerwca 1976 i stanu wojennego.
-
-## ORMO
-Milicję wspierała paramilitarna Ochotnicza Rezerwa Milicji Obywatelskiej (ORMO) – masowa formacja kontroli społecznej liczona w setkach tysięcy członków.
-
-## Przekształcenie
-W 1990 roku MO przekształcono w Policję, odcinając się od jej politycznej, represyjnej roli z czasów PRL.`,
-    trivia: ['Milicję Obywatelską powołano dekretem jeszcze w 1944 roku.', 'Rozwiązano ją w 1990 roku, zastępując Policją.'],
+## Koniec
+W 1990 roku milicję zastąpiono Policją, przeprowadzając weryfikację funkcjonariuszy. Sama zmiana nazwy miała znaczenie symboliczne: słowo milicja było zbyt mocno związane z poprzednim systemem, by je zachować.`,
+    trivia: [
+      'Milicja i Służba Bezpieczeństwa podlegały temu samemu ministerstwu.',
+      'W 1990 roku zmieniono nie tylko strukturę, ale i nazwę – słowo milicja było zbyt obciążone.',
+    ],
     resources: [
       {
         id: 'milicja-1',
@@ -3350,23 +3314,20 @@ Instytut Literacki wydał setki książek – autorów zakazanych w PRL, dokumen
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Warsaw_Pact_Logo.svg?width=800',
     imageCaption: 'Układ Warszawski',
     content: `## Powstanie
-Układ Warszawski to sojusz wojskowy państw bloku wschodniego, zawarty w 1955 roku w Warszawie jako odpowiedź na utworzenie NATO i remilitaryzację RFN.
+Układ o Przyjaźni, Współpracy i Pomocy Wzajemnej podpisano w Warszawie w 1955 roku, jako odpowiedź na powstanie NATO i przyjęcie do niego Republiki Federalnej Niemiec. Formalnie był sojuszem równych państw.
 
-## Członkowie
-W skład wchodziły ZSRR oraz państwa satelickie: Polska, NRD, Czechosłowacja, Węgry, Rumunia, Bułgaria i (do 1968) Albania. Faktyczne dowództwo sprawowała Moskwa.
+## Kto naprawdę dowodził
+Naczelnym dowódcą zjednoczonych sił zawsze był marszałek radziecki, a plany operacyjne powstawały w Moskwie. Armie państw członkowskich miały przypisane role w scenariuszach opracowanych bez ich udziału – polskiej flocie wyznaczono na przykład desant na duńskie cieśniny.
 
-## Narzędzie dominacji
-Choć formalnie był to sojusz obronny, w praktyce służył utrzymaniu kontroli ZSRR nad blokiem – w tym tłumieniu prób uniezależnienia się państw członkowskich.
-
-## Interwencje
-Wojska Układu stłumiły Praską Wiosnę w Czechosłowacji w 1968 roku (z udziałem LWP). „Doktryna Breżniewa” usprawiedliwiała takie interwencje rzekomą „obroną socjalizmu”.
-
-## Zagrożenie dla Polski
-W okresie Solidarności (1980–1981) groźba interwencji wojsk Układu była jednym z argumentów przywoływanych dla uzasadnienia wprowadzenia stanu wojennego.
+## Do czego użyto
+Jedyną operacją wojskową w historii układu była interwencja w Czechosłowacji w 1968 roku, wymierzona przeciw jednemu z jego własnych członków. Sojusz obronny okazał się więc przede wszystkim narzędziem utrzymania dyscypliny wewnątrz bloku.
 
 ## Rozwiązanie
-Układ Warszawski rozwiązano w 1991 roku, wraz z rozpadem bloku wschodniego i ZSRR, co przypieczętowało koniec zimnowojennego podziału Europy.`,
-    trivia: ['Układ podpisano w 1955 roku jako odpowiedź na powstanie NATO.', 'Rozwiązano go w 1991 roku.'],
+Układ rozwiązano w 1991 roku, po upadku systemów komunistycznych w regionie. Wojska radzieckie opuściły Polskę ostatecznie dopiero w 1993 roku.`,
+    trivia: [
+      'Naczelnym dowódcą sił układu zawsze był marszałek radziecki, a plany powstawały w Moskwie.',
+      'Jedyną operacją wojskową w historii sojuszu była interwencja przeciw jego własnemu członkowi – Czechosłowacji.',
+    ],
     resources: [
       {
         id: 'uklad-warszawski-pkf',
@@ -5295,24 +5256,21 @@ Reformy Gorbaczowa uwolniły odśrodkowe siły, których nie mógł kontrolować
     summary: 'Wybory parlamentarne z 4 czerwca 1989 roku – pierwsze częściowo wolne wybory w PRL od 1947 roku. Solidarność zdobyła wszystkie możliwe do wygrania mandaty w Sejmie i 99 na 100 miejsc w Senacie. Wynik wyborów był początkiem końca komunizmu nie tylko w Polsce, lecz w całej Europie Środkowej.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Elections%201989%20in%20Poznan%20Poland.JPG?width=800',
     imageCaption: 'Wybory 4 czerwca 1989',
-    trivia: ['Plakat Solidarności przedstawiał Gary\'ego Coopera z filmu „W samo południe” i datą 4 czerwca 1989.', 'Solidarność zdobyła 99 na 100 miejsc w Senacie.'],
-    content: `## Geneza
-Częściowo wolne wybory parlamentarne 4 czerwca 1989 roku były efektem ustaleń Okrągłego Stołu. Po raz pierwszy od dekad opozycja mogła legalnie kandydować.
+    trivia: [
+      'Komitet Obywatelski zdobył wszystkie dostępne mandaty poselskie i 99 ze 100 miejsc w Senacie.',
+      'Lista krajowa czołowych działaczy partyjnych przepadła, bo wyborcy masowo skreślali nazwiska.',
+    ],
+    content: `## Zasady
+Wybory przeprowadzono 4 i 18 czerwca 1989 roku, według reguł ustalonych przy Okrągłym Stole. O 35 procent mandatów w Sejmie można było ubiegać się swobodnie, pozostałe 65 procent zarezerwowano dla PZPR i stronnictw sojuszniczych. Senat, instytucja nowa, wybierany był w całości wolnymi wyborami.
 
-## Zasady
-Uzgodniono, że 65% mandatów w Sejmie zarezerwowano dla PZPR i jej sojuszników, a o pozostałe 35% oraz o wszystkie miejsca w przywróconym Senacie toczyła się wolna rywalizacja.
+## Wynik
+Kandydaci Komitetu Obywatelskiego zdobyli wszystkie 161 dostępnych mandatów poselskich i 99 ze 100 miejsc w Senacie. Lista krajowa, na której startowali czołowi działacze partyjni bez konkurencji, przepadła prawie w całości, bo wyborcy skreślali nazwiska.
 
-## Kampania
-Solidarność prowadziła kampanię pod znakiem plakatu z Garym Cooperem („W samo południe”) i symboliką Komitetów Obywatelskich, które zmobilizowały społeczeństwo.
+## Skala porażki
+Nikt – ani władza, ani opozycja – nie spodziewał się takiego wyniku. Głosowanie okazało się plebiscytem: nie tyle wyborem programu, ile odpowiedzią na pytanie, czy system ma trwać.
 
-## Miażdżące zwycięstwo
-Solidarność zdobyła wszystkie możliwe mandaty sejmowe (161) oraz 99 ze 100 miejsc w Senacie. Lista krajowa władzy poniosła kompromitującą porażkę.
-
-## Skutki
-Wynik obnażył brak poparcia dla władzy. Kompromis „wasz prezydent, nasz premier” doprowadził do powstania rządu Tadeusza Mazowieckiego – pierwszego niekomunistycznego premiera w bloku wschodnim.
-
-## Znaczenie
-4 czerwca 1989 roku uznaje się za symboliczny koniec PRL i początek III Rzeczypospolitej oraz impuls do przemian w całej Europie Środkowo-Wschodniej.`,
+## Konsekwencje
+Kontrakt zakładał, że władza zachowa większość i kontrolę. Wynik uczynił to niemożliwym: we wrześniu 1989 roku premierem został Tadeusz Mazowiecki. Wybory czerwcowe uchodzą za moment, w którym PRL faktycznie się skończył.`,
     resources: [
       {
         id: 'wyl89-1',
@@ -11287,24 +11245,21 @@ Kaczmarski pozostaje jednym z najważniejszych głosów polskiej kultury niezale
     yearStart: 1970,
     yearEnd: 1980,
     summary: '„Propaganda sukcesu” to określenie medialnej strategii ekipy Gierka, która kreowała obraz dynamicznego rozwoju i dobrobytu. Kolorowa telewizja pokazywała nowe fabryki i bloki, przemilczając rosnące zadłużenie i kryzys, który doprowadził do wybuchu 1980 r.',
-    content: `## Pojęcie
-„Propaganda sukcesu” to określenie polityki medialnej epoki Edwarda Gierka (lata 70.), kreującej obraz Polski jako kraju dynamicznego rozwoju i dobrobytu.
+    content: `## Nazwa
+Propagandą sukcesu określa się styl przekazu obowiązujący w dekadzie Edwarda Gierka. Media miały pokazywać kraj rozwijający się, budujący i nowoczesny, a informacje o kłopotach ograniczać do minimum.
 
-## Mechanizm
-Telewizja, radio i prasa nieustannie donosiły o „sukcesach”: nowych fabrykach, budowach, rekordach produkcji i rosnącej stopie życiowej, pomijając problemy i niedobory.
+## Jak działała
+Dziennik Telewizyjny otwierały relacje z otwarć fabryk, wykonania planów i wizyt zagranicznych. Rósł udział materiałów o sukcesach, malał – o cenach, brakach i wypadkach. Awarie i katastrofy albo przemilczano, albo podawano z opóźnieniem i bez szczegółów.
 
-## Dekada Gierka
-Propaganda towarzyszyła realnym inwestycjom (Huta Katowice, Fiat 126p, Trasa Łazienkowska), finansowanym jednak zachodnimi kredytami, co budowało iluzję trwałego dobrobytu.
+## Rozjazd z rzeczywistością
+Problem polegał na tym, że widz codziennie porównywał telewizję z własnym sklepem. Im lepszy obraz nadawano, tym bardziej rosła nieufność wobec każdej informacji – także prawdziwej. Propaganda sukcesu zniszczyła wiarygodność mediów skuteczniej niż jakakolwiek krytyka.
 
-## Rozdźwięk z rzeczywistością
-Z czasem optymistyczny przekaz coraz bardziej rozmijał się z codziennością – kolejkami, brakami w sklepach i rosnącym długiem, co pogłębiało frustrację społeczeństwa.
-
-## Kompromitacja
-Kryzys gospodarczy końca lat 70., podwyżki i strajki obnażyły fałsz propagandy sukcesu. Samo pojęcie stało się ironicznym symbolem zakłamania oficjalnego przekazu.
-
-## Znaczenie
-Propaganda sukcesu to klasyczny przykład manipulacji medialnej PRL – budowania pozornej rzeczywistości w oderwaniu od realnych problemów kraju.`,
-    trivia: ['Termin opisuje styl mediów dekady Gierka.', 'Telewizja pokazywała nowe fabryki, przemilczając kolejki przed sklepami.'],
+## Koniec
+Gdy w 1980 roku wybuchły strajki, telewizja przez wiele dni milczała albo mówiła o przerwach w pracy. Postulat dostępu do mediów znalazł się wśród dwudziestu jeden żądań sierpniowych – co pokazuje, jak dotkliwie odczuwano to kłamstwo.`,
+    trivia: [
+      'Im lepszy obraz nadawano, tym mniej wierzono mediom – także wtedy, gdy mówiły prawdę.',
+      'Dostęp do mediów znalazł się wśród dwudziestu jeden postulatów sierpniowych.',
+    ],
     resources: [
       {
         id: 'ps-pkf',
@@ -19678,24 +19633,21 @@ W 1983 roku, po stanie wojennym, miejsce FJN zajął Patriotyczny Ruch Odrodzeni
     yearStart: 1949,
     yearEnd: 1989,
     summary: 'Zjednoczone Stronnictwo Ludowe i Stronnictwo Demokratyczne – formalnie odrębne partie, w praktyce podporządkowane PZPR i firmujące pozory wielopartyjności.',
-    content: `## Pozorny pluralizm
-Obok PZPR w PRL istniały dwa „sojusznicze” stronnictwa: Zjednoczone Stronnictwo Ludowe (ZSL) i Stronnictwo Demokratyczne (SD), mające stwarzać wrażenie wielopartyjności.
+    content: `## Dwie partie obok PZPR
+Zjednoczone Stronnictwo Ludowe i Stronnictwo Demokratyczne istniały przez cały okres PRL jako formalnie odrębne partie. ZSL miało reprezentować wieś, SD – inteligencję, rzemiosło i drobną wytwórczość.
 
-## ZSL
-Zjednoczone Stronnictwo Ludowe (od 1949) adresowane było do wsi i rolników. Choć formalnie reprezentowało chłopów, akceptowało kierowniczą rolę PZPR i politykę władz.
+## Rola
+Ich zadaniem było uwiarygodnienie systemu: obecność kilku szyldów pozwalała mówić o sojuszu stronnictw zamiast o monopolu jednej partii. W Sejmie i w rządzie miały przypisaną z góry pulę miejsc, głosując zawsze zgodnie z PZPR.
 
-## SD
-Stronnictwo Demokratyczne skupiało inteligencję, rzemieślników i drobnych przedsiębiorców. Również uznawało przewodnią rolę partii komunistycznej.
+## Skąd się wzięły
+Powstały z resztek partii przedwojennych: ZSL w 1949 roku po rozbiciu PSL Mikołajczyka, SD wywodziło się z przedwojennego ruchu demokratycznego. Ich historia to opowieść o tym, jak z prawdziwych partii zrobiono atrapy.
 
-## Rola w systemie
-Stronnictwa miały przedstawicieli w Sejmie i administracji, lecz nie prowadziły niezależnej polityki. Były elementem fasady demokratycznej i kanałem kontroli nad środowiskami.
-
-## Przełom 1989
-W 1989 roku ZSL i SD odeszły od PZPR, poparły rząd Tadeusza Mazowieckiego i przyczyniły się do upadku systemu, dając większość obozowi solidarnościowemu.
-
-## Znaczenie
-Dzieje stronnictw satelickich pokazują mechanizm pozorowanego pluralizmu, a ich „bunt” w 1989 roku był jednym z gwoździ do trumny PRL.`,
-    trivia: ['ZSL i SD istniały formalnie, ale uznawały kierowniczą rolę PZPR.', 'W 1989 roku ich posłowie poparli rząd Tadeusza Mazowieckiego.'],
+## 1989
+W sierpniu 1989 roku oba stronnictwa zerwały sojusz z PZPR i poparły rząd Tadeusza Mazowieckiego. To ich głosy przesądziły o powstaniu pierwszego niekomunistycznego rządu – atrapy okazały się w decydującym momencie czymś realnym.`,
+    trivia: [
+      'ZSL powstało w 1949 roku z resztek rozbitego PSL Stanisława Mikołajczyka.',
+      'W sierpniu 1989 roku to głosy obu stronnictw przesądziły o powstaniu rządu Mazowieckiego.',
+    ],
     resources: [
       {
         id: 'ss-1',
