@@ -22421,23 +22421,20 @@ Dobranocka to symbol dzieciństwa w PRL i dorobek polskiej szkoły animacji, cen
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Lato_z_Radiem_w_Stegnie_%282015%29.JPG?width=800',
     imageCaption: 'Lato z Radiem',
     content: `## Audycja
-„Lato z Radiem” to popularna wakacyjna audycja Programu I Polskiego Radia, nadawana od 1971 roku i towarzysząca Polakom przez letnie miesiące.
-
-## Polka Dziadek
-Rozpoznawalnym sygnałem audycji stała się skoczna melodia „Polka Dziadek” – jeden z najbardziej znanych dżingli polskiego radia.
+„Lato z radiem” pojawiło się na antenie Programu Pierwszego Polskiego Radia 1 lipca 1971 roku. Pomysłodawcą był Aleksander Tarnawski, a początkowo miał to być magazyn turystyczny. Pierwsze wydanie trwało czterdzieści osiem minut.
 
 ## Formuła
-Audycja łączyła muzykę, informacje, porady, reportaże i konkursy, tworząc pogodny, wakacyjny klimat.
+Program łączył muzykę, informacje drogowe, porady wakacyjne i relacje z całego kraju. Nadawany codziennie przez całe lato, stał się dźwiękowym tłem sezonu urlopowego dla milionów słuchaczy.
 
-## Towarzysz lata
-„Lato z Radiem” rozbrzmiewało na plażach, działkach i w domach, stając się dźwiękowym tłem wakacji milionów słuchaczy.
+## Sygnał
+Rozpoznawalna melodia otwierająca audycję – oparta na motywie z poloneza – należy do najbardziej znanych sygnałów w historii polskiego radia i sama w sobie stała się symbolem wakacji.
 
-## Trwałość
-Audycja przetrwała przemiany ustrojowe i nadawana jest do dziś, pozostając jedną z najdłużej istniejących w polskim radiu.
-
-## Znaczenie
-„Lato z Radiem” to symbol PRL-owskich wakacji i siły radia w czasach, gdy było ono głównym towarzyszem codzienności.`,
-    trivia: ['Sygnałem audycji jest skoczna „Polka Dziadek”.', 'Audycja ruszyła w 1971 roku i nadawana jest nieprzerwanie do dziś.'],
+## Rola
+W kraju, w którym urlop oznaczał najczęściej podróż koleją albo autobusem z tranzystorem w torbie, radio było głównym towarzyszem wyjazdu. „Lato z radiem” przetrwało zmianę ustroju i jest jedną z najdłużej nadawanych audycji w Polsce.`,
+    trivia: [
+      'Pierwsze wydanie, 1 lipca 1971 roku, trwało czterdzieści osiem minut i było magazynem turystycznym.',
+      'Sygnał audycji stał się jednym z najbardziej rozpoznawalnych dźwięków w historii polskiego radia.',
+    ],
     resources: [
       {
         id: 'lzr-yt',
@@ -22587,24 +22584,21 @@ Telefon w PRL ilustruje skalę niedoboru i kontroli – nawet podstawowa łączn
     summary: 'Popularne trio folk-rockowe (Janusz Kruk, Elżbieta Dmoch, Andrzej Krzysztofik), autor przebojów „Chodź, pomaluj mój świat” i „Windą do nieba”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Dwa_plus_Jeden_1972.jpg?width=800',
     imageCaption: '2 plus 1',
-    content: `## Powstanie
-Zespół 2 plus 1 (Dwa plus Jeden) powstał w 1971 roku. Jego trzon stanowili Janusz Kruk i Elżbieta Dmoch, początkowo w towarzystwie Andrzeja Krzysztofika.
+    content: `## Zespół
+2 plus 1 powstał w 1971 roku w Warszawie, założony przez Janusza Kruka i Elżbietę Dmoch. Nazwa opisywała skład: dwóch mężczyzn i kobieta, choć z czasem obsada się zmieniała.
 
 ## Brzmienie
-Grupa łączyła folk i rock z melodyjnym popem oraz pięknymi wokalnymi harmoniami, tworząc łagodne, rozpoznawalne brzmienie.
+Grupa zaczynała od folku i piosenki akustycznej, opartej na trzygłosowych harmoniach, by w latach 80. przejść w stronę popu i muzyki elektronicznej. Nagrali dziesięć albumów studyjnych, w tym trzy złote płyty.
 
 ## Przeboje
-Do największych hitów należą „Chodź, pomaluj mój świat”, „Windą do nieba”, „Wyspa dzieci” i „Iść w stronę słońca”.
+Najbardziej znane są „Chodź, pomaluj mój świat”, „Windą do nieba” i „Windmills”. Pierwsza z tych piosenek należy do najczęściej wykonywanych utworów polskiej muzyki rozrywkowej.
 
-## Kruk i Dmoch
-Janusz Kruk i Elżbieta Dmoch tworzyli duet twórczy, a także małżeństwo; ich głosy określiły charakter zespołu.
-
-## Popularność
-Grupa należała do czołówki polskiej estrady lat 70. i 80., regularnie obecna na festiwalach i listach przebojów.
-
-## Znaczenie
-2 plus 1 to klasyk melodyjnego polskiego popu; jego przeboje pozostają do dziś rozpoznawalne i lubiane.`,
-    trivia: ['Trzon zespołu tworzyli Elżbieta Dmoch i Janusz Kruk – para także prywatnie.', '„Chodź, pomaluj mój świat” to jeden z najpopularniejszych polskich przebojów wszech czasów.'],
+## Zagranica
+Zespół koncertował i nagrywał także poza krajem, m.in. w Niemczech Zachodnich. Melodyjność i brak tekstu politycznego czyniły ich muzykę łatwą do eksportu – co w PRL było jedną z niewielu dróg do zagranicznej publiczności.`,
+    trivia: [
+      'Nazwa opisywała skład: dwóch mężczyzn i kobieta.',
+      '„Chodź, pomaluj mój świat” należy do najczęściej wykonywanych polskich piosenek.',
+    ],
     resources: [
       {
         id: '2p1-yt',
@@ -22698,24 +22692,21 @@ Trubadurzy pokazują, że polski big-beat nie był wyłącznie kopiowaniem Zacho
     summary: 'Jedna z najwybitniejszych polskich wokalistek, o mocnym, charakterystycznym głosie, autorka przebojów „Aleja gwiazd” i „Julia i ja”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zdzis%C5%82awa_So%C5%9Bnicka_1972_%28cropped%29.PNG?width=800',
     imageCaption: 'Zdzisława Sośnicka',
-    content: `## Sylwetka
-Zdzisława Sośnicka (ur. 1945) to jedna z najwybitniejszych polskich wokalistek, obdarzona mocnym, charakterystycznym głosem o szerokiej skali.
+    content: `## Wokalistka
+Zdzisława Sośnicka (ur. 1945) pochodzi z Kalisza i jest jedną z najbardziej cenionych polskich wokalistek. Ma wykształcenie muzyczne, jest też dyrygentką i kompozytorką, publikującą pod pseudonimem.
 
-## Kariera
-Karierę rozwijała od lat 60., zdobywając popularność na estradzie i festiwalach jako jedna z najbardziej cenionych śpiewaczek rozrywkowych.
+## Skala
+Jej głos – mocny, o dużej rozpiętości – pozwalał wykonywać repertuar od piosenki estradowej po utwory zbliżone do rocka symfonicznego. W polskiej muzyce lat 70. był to głos bez odpowiednika.
 
 ## Przeboje
-Do najsłynniejszych utworów należą „Aleja gwiazd”, „Julia i ja”, „Dom, który mam” i „Bądź gotowy dziś do drogi”.
+Najbardziej znane są „Julia i ja”, „Aleja gwiazd” i „Dom, który mam”. Śpiewała do muzyki czołowych kompozytorów epoki i regularnie występowała na festiwalach w Opolu i Sopocie.
 
-## Współpraca
-Śpiewała utwory wybitnych kompozytorów, m.in. Romualda Lipki z Budki Suflera, który skomponował „Aleję gwiazd”.
-
-## Pozycja
-Przez dekady pozostawała czołową gwiazdą estrady, cenioną za wokalną siłę i muzykalność.
-
-## Znaczenie
-Sośnicka to jedna z najlepszych polskich wokalistek; jej przeboje na trwałe weszły do kanonu rodzimej piosenki.`,
-    trivia: ['„Aleję gwiazd” skomponował Romuald Lipko z Budki Suflera.', 'Słynęła z mocnego, charakterystycznego głosu o szerokiej skali.'],
+## Warsztat
+Sośnicka należy do wykonawczyń, które zbudowały pozycję na umiejętnościach wokalnych, a nie na wizerunku. W czasach, gdy o karierze decydowało radio i festiwal, taka droga była możliwa – dziś byłaby znacznie trudniejsza.`,
+    trivia: [
+      'Ma wykształcenie muzyczne, jest też dyrygentką i kompozytorką.',
+      'Jej głos pozwalał wykonywać repertuar od piosenki estradowej po utwory bliskie rockowi symfonicznemu.',
+    ],
     resources: [
       {
         id: 'zs-yt',
@@ -22867,24 +22858,21 @@ Kiosk bywał nieformalnym centrum życia osiedla – miejscem spotkań, plotek i
     summary: 'Jeden z najpopularniejszych i najbardziej lubianych polskich wokalistów, autor przeboju „Parostatek”, który karierę zaczynał w Trubadurach.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krzysztof%20Krawczyk.jpg?width=800',
     imageCaption: 'Krzysztof Krawczyk – jeden z najpopularniejszych polskich wokalistów.',
-    content: `## Sylwetka
-Krzysztof Krawczyk (1946–2021) był jednym z najpopularniejszych polskich wokalistów, obdarzonym ciepłym, rozpoznawalnym barytonem.
+    content: `## Głos
+Krzysztof Krawczyk (1946–2021) miał baryton rozpoznawalny po jednej frazie. Zaczynał w Trubadurach, z którymi śpiewał w latach 1963–1973, a potem prowadził karierę solową przez prawie pół wieku.
 
-## Od Trubadurów
-Karierę rozpoczynał w big-beatowym zespole Trubadurzy, by w połowie lat 70. rozwinąć karierę solową i stać się gwiazdą estrady.
+## Repertuar
+Nagrał ponad sto płyt, poruszając się między piosenką estradową, country, balladą i muzyką sakralną. Ta rozpiętość bywała mu wypominana, ale to właśnie ona zapewniła mu publiczność w każdym pokoleniu.
 
-## Przeboje
-Do najsłynniejszych utworów należą „Parostatek”, „Rysunek na szkle”, „Bo jesteś ty” i „Mój przyjacielu”.
+## Ameryka
+W latach 80. wyjechał do Stanów Zjednoczonych, gdzie przez lata śpiewał głównie dla Polonii. Powrót do kraju i druga fala popularności w latach 90. uczyniły z niego jednego z nielicznych artystów PRL, którzy odbudowali pozycję po zmianie ustroju.
 
-## Wszechstronność
-Krawczyk poruszał się swobodnie między big-beatem, piosenką estradową, country i muzyką sakralną, nagrywając dziesiątki płyt.
-
-## Popularność
-Triumfował na festiwalach w Opolu i Kołobrzegu, koncertował także w USA dla Polonii, zachowując popularność przez dekady.
-
-## Znaczenie
-Krawczyk to jeden z najbardziej lubianych głosów polskiej muzyki rozrywkowej, którego przeboje znają kolejne pokolenia.`,
-    trivia: ['Karierę zaczynał w big-beatowym zespole Trubadurzy.', 'Część kariery spędził w USA, koncertując dla Polonii.'],
+## Miejsce w kulturze
+Krawczyk był wykonawcą traktowanym przez krytykę z dystansem, a przez publiczność z bezwarunkową sympatią. Ten rozdźwięk sam w sobie mówi coś o polskiej estradzie: o tym, jak niewiele miała wspólnego z hierarchiami budowanymi przez recenzentów.`,
+    trivia: [
+      'Nagrał ponad sto oficjalnych płyt, od piosenki estradowej po muzykę sakralną.',
+      'W latach 80. wyjechał do Stanów Zjednoczonych, gdzie śpiewał głównie dla Polonii.',
+    ],
     resources: [
       {
         id: 'kk-yt',
@@ -23032,24 +23020,21 @@ Podarki bywały skromne; czasem same pomarańcze, czekolada czy wyczekana zabawk
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Kolej była kręgosłupem transportu PRL – zatłoczone pociągi, walka o miejscówkę i herbata w szklance w wagonie WARS.',
-    content: `## Kręgosłup transportu
-Polskie Koleje Państwowe (PKP) były podstawowym środkiem dalekich podróży w PRL – łączyły kraj i przewoziły miliony pasażerów.
+    content: `## Kolej jako kręgosłup
+Polskie Koleje Państwowe były w PRL podstawowym środkiem transportu na dłuższych trasach. Sieć była gęsta, obejmowała także małe miejscowości, a bilet – tani, bo ceny ustalano administracyjnie, nie wedle kosztów.
 
-## Realia
-Pociągi bywały zatłoczone, z twardymi ławkami i częstymi opóźnieniami; „osobowy” wlókł się godzinami, zatrzymując na każdej stacji.
+## Jak się jeździło
+Pociągi osobowe zatrzymywały się na każdej stacji i jechały wolno; pospieszne i ekspresy wymagały miejscówki, o którą trzeba było walczyć. W sezonie wakacyjnym i przed świętami wagony były zapchane, a podróż na korytarzu należała do normy.
 
-## Bilety i miejscówki
-Na dalekie trasy polowało się na „miejscówki” i kuszetki, a po bilety ustawiały się kolejki w kasach dworcowych.
+## Przedział jako miejsce
+Ośmioosobowy przedział wymuszał kontakt z obcymi na wiele godzin. Rozmowa z przypadkowymi współpasażerami była elementem podróży na tyle stałym, że stała się motywem literackim i filmowym – od „Pociągu” Kawalerowicza po niezliczone anegdoty.
 
-## Klimat podróży
-Podróż miała swój klimat: herbata w szklankach podawana w wagonie WARS, zapach węgla, rozmowy z nieznajomymi w przedziałach.
-
-## PKS i LOT
-Uzupełnieniem kolei był PKS (autobusy międzymiastowe), a luksusem – rzadkie i drogie loty LOT-u.
-
-## Znaczenie
-Kolej spajała kraj i była częścią codziennego doświadczenia milionów Polaków – z całym jej urokiem i uciążliwościami.`,
-    trivia: ['W wagonach WARS podawano herbatę w szklankach umieszczonych w metalowych koszyczkach.', 'Na dalekie trasy polowało się na „miejscówki” i kuszetki.'],
+## Zaplecze
+Do kolei należały też dworcowe bary, poczekalnie i kioski, a węzły kolejowe decydowały o rozwoju całych miast. Ograniczanie połączeń po 1989 roku odcięło wiele miejscowości, które wcześniej żyły właśnie z kolei.`,
+    trivia: [
+      'Bilety były tanie, bo ceny ustalano administracyjnie, a nie według kosztów przewozu.',
+      'Ośmioosobowy przedział wymuszał wielogodzinny kontakt z obcymi – stąd rozmowa z współpasażerami jako motyw literacki.',
+    ],
     resources: [
       {
         id: 'podroze-pkp-pkf',
@@ -23097,24 +23082,21 @@ Kolej spajała kraj i była częścią codziennego doświadczenia milionów Pola
     summary: 'Skrzydłowy złotej reprezentacji, jedyny Polak będący królem strzelców mistrzostw świata (7 goli, RFN 1974).',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Grzegorz%20Lato.jpg?width=800',
     imageCaption: 'Grzegorz Lato – król strzelców mistrzostw świata 1974.',
-    content: `## Sylwetka
-Grzegorz Lato (ur. 1950) był skrzydłowym i napastnikiem reprezentacji Polski oraz Stali Mielec, jednym z najwybitniejszych piłkarzy złotej ery.
+    content: `## Piłkarz
+Grzegorz Lato (ur. 1950) grał w reprezentacji Polski w latach 1971–1984 i wystąpił w niej sto razy. Był skrzydłowym o wyjątkowej szybkości, wykorzystywanym do ataków z prawej strony boiska.
 
-## Mundial 1974
-Na mistrzostwach świata w RFN został królem strzelców z siedmioma golami – jako jedyny Polak w historii. Polska zajęła wówczas 3. miejsce.
+## Król strzelców
+Na mistrzostwach świata w RFN w 1974 roku zdobył siedem bramek i został królem strzelców turnieju, a Polska zajęła trzecie miejsce. Był to najlepszy wynik w historii polskiej piłki i moment, który zdefiniował całe pokolenie kibiców.
 
-## Reprezentacja
-Wraz z drużyną Kazimierza Górskiego zdobył złoto olimpijskie w 1972 roku, a także brązowe medale mundiali 1974 i 1982.
+## Trzy mundiale
+Grał także w Argentynie w 1978 roku i w Hiszpanii w 1982, gdzie Polska ponownie zajęła trzecie miejsce. Do tego doszedł złoty medal olimpijski z Monachium w 1972 roku – dorobek, jakiego nie ma żaden inny polski piłkarz.
 
-## Styl
-Słynął z szybkości, skuteczności i znakomitej gry głową oraz wykorzystywania kontrataków i dośrodkowań.
-
-## Po karierze
-Grał także za granicą (Belgia, Meksyk), pozostając legendą Stali Mielec i reprezentacji.
-
-## Znaczenie
-Lato to jeden z najlepszych polskich piłkarzy w historii i symbol najlepszej epoki rodzimego futbolu.`,
-    trivia: ['Jest jedynym Polakiem, który został królem strzelców mistrzostw świata.', 'Zdobył medale trzech wielkich imprez: igrzysk 1972 oraz mundiali 1974 i 1982.'],
+## Wyjazd
+Zgodę na transfer zagraniczny dostał dopiero po trzydziestce, zgodnie z ówczesnymi przepisami, które wypuszczały piłkarzy dopiero u schyłku kariery. Grał potem w Belgii i Meksyku, a po 1989 roku był działaczem i politykiem.`,
+    trivia: [
+      'Na mundialu 1974 zdobył siedem bramek i został królem strzelców turnieju.',
+      'Zgodę na wyjazd do zagranicznego klubu dostał dopiero po trzydziestce – tak stanowiły ówczesne przepisy.',
+    ],
     resources: [
       {
         id: 'lat-yt',
@@ -23263,24 +23245,21 @@ Armia z poboru była narzędziem socjalizacji i kontroli – wspólnym doświadc
     yearStart: 1960,
     yearEnd: 1989,
     summary: 'Trzepak i osiedlowe podwórko były centrum dzieciństwa w PRL – świata zabaw bez ekranów, „na dworze do wieczora”.',
-    content: `## Centrum podwórka
-Trzepak – metalowa konstrukcja do trzepania dywanów – był nieformalnym centrum życia osiedlowych dzieci i nastolatków.
+    content: `## Trzepak
+Metalowa rama do trzepania dywanów stała na każdym podwórku bloku. Jej właściwa funkcja – trzepanie chodników – zajmowała kilka godzin w tygodniu; przez resztę czasu trzepak był miejscem spotkań.
 
-## Zabawy
-Królowały gra w gumę, klasy, podchody, palant, kapsle i „dwa ognie”; na trzepaku siadało się, ćwiczyło akrobacje i umawiało na zabawy.
+## Podwórko jako instytucja
+Dzieci spędzały na podwórku całe popołudnia bez nadzoru dorosłych. Gry, hierarchie, konflikty i sojusze – wszystko to rozgrywało się w przestrzeni wspólnej, między blokami, na trzepaku i na klatce schodowej.
 
-## Bez ekranów
-Dzieci spędzały czas na dworze „do wieczora”, bez telefonów i komputerów; wracało się dopiero na wołanie rodziców z okna.
+## Dlaczego tak było
+Mieszkania były ciasne, oboje rodzice pracowali, a ruch samochodowy na osiedlach znikomy. Dziecko wypuszczano po szkole na dwór i wołano na kolację przez okno. Osiedle projektowano zresztą z myślą o takiej przestrzeni – z podwórkami wewnątrz kwartałów.
 
-## Blokowiska
-W osiedlach z wielkiej płyty podwórko i trzepak były wspólną przestrzenią integrującą całe pokolenia mieszkańców.
-
-## Symbol
-Trzepak stał się symbolem analogowego, podwórkowego dzieciństwa i jest dziś przedmiotem nostalgii.
-
-## Znaczenie
-Podwórko PRL to świat samodzielnej, wspólnotowej zabawy – ikona dzieciństwa epoki, wspominana z rozrzewnieniem.`,
-    trivia: ['Trzepak do dywanów był nieformalnym centrum spotkań osiedlowych dzieci.', 'Kultowe zabawy podwórkowe to guma, klasy, kapsle i „dwa ognie”.'],
+## Co zniknęło
+Trzepak stał się dziś symbolem dzieciństwa całego pokolenia, a zarazem znakiem czegoś, co przeminęło: samodzielności dzieci i podwórka jako podstawowej formy życia społecznego w mieście.`,
+    trivia: [
+      'Trzepak służył do trzepania dywanów kilka godzin w tygodniu, a przez resztę czasu był miejscem spotkań.',
+      'Dzieci wypuszczano na podwórko po szkole i wołano na kolację przez okno.',
+    ],
     resources: [
       {
         id: 'trz-yt',
@@ -23320,24 +23299,21 @@ Podwórko PRL to świat samodzielnej, wspólnotowej zabawy – ikona dzieciństw
     summary: 'Wokalistka jazzowa i estradowa o mocnym głosie, autorka przeboju „Jesteś lekiem na całe zło” i „Psalmu stojących w kolejce”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krystyna%20Pro%C5%84ko.jpg?width=800',
     imageCaption: 'Krystyna Prońko – wokalistka jazzowa i estradowa.',
-    content: `## Sylwetka
-Krystyna Prońko (ur. 1947) to wokalistka jazzowa i estradowa, kompozytorka i pedagog, obdarzona silnym, charakterystycznym głosem.
+    content: `## Wokalistka
+Krystyna Prońko (ur. 1947) jest piosenkarką i wokalistką jazzową, kompozytorką oraz pedagogiem. Wykształciła kilka pokoleń wokalistów, ucząc emisji głosu i interpretacji.
 
-## Głos i wszechstronność
-Słynęła z jazzującej maniery i szerokiej skali; swobodnie poruszała się między jazzem, soulem a piosenką estradową.
+## Na pograniczu
+Poruszała się między jazzem, soulem i piosenką literacką. Repertuar tego typu nie trafiał na listy przebojów, ale zapewniał pozycję w środowisku i stały kontakt z najlepszymi muzykami epoki.
 
-## Przeboje
-Największą popularność przyniósł jej przebój „Jesteś lekiem na całe zło” (1983). Wykonała też „Psalm stojących w kolejce”.
+## Jesteś lekiem
+Najbardziej znanym jej nagraniem jest „Jesteś lekiem na całe zło”, utwór, który wszedł do kanonu polskiej piosenki i bywa wykonywany do dziś przez kolejne pokolenia.
 
-## Psalm stojących w kolejce
-Utwór ten stał się gorzkim, celnym komentarzem do realiów gospodarki niedoboru i wszechobecnych kolejek.
-
-## Scena jazzowa
-Związana ze środowiskiem polskiego jazzu, występowała z czołowymi muzykami i ceniona jest za muzykalność.
-
-## Znaczenie
-Prońko to jedna z najlepszych polskich wokalistek jazzowo-estradowych, a jej przeboje pozostają klasyką.`,
-    trivia: ['Wykonała „Psalm stojących w kolejce” – gorzki komentarz do realiów niedoboru.', 'Jest cenioną wokalistką jazzową oraz pedagogiem śpiewu.'],
+## Pedagogika
+Jej praca dydaktyczna miała znaczenie systemowe: w PRL nie istniało kształcenie wokalistów rozrywkowych na poziomie akademickim, więc wiedza przekazywana była właśnie w ten sposób – od wykonawcy do wykonawcy.`,
+    trivia: [
+      '„Jesteś lekiem na całe zło” weszło do kanonu polskiej piosenki.',
+      'W PRL nie kształcono wokalistów rozrywkowych akademicko – wiedzę przekazywano od wykonawcy do wykonawcy.',
+    ],
     resources: [
       {
         id: 'kp-yt',
@@ -23377,24 +23353,21 @@ Prońko to jedna z najlepszych polskich wokalistek jazzowo-estradowych, a jej pr
     summary: 'Charyzmatyczny wokalista rockowy i poeta sceny, znany z dramatycznej „Jaskółki uwięzionej”, śpiewał w czołowych zespołach big-beatu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stan_Borys_in_2016.jpg?width=800',
     imageCaption: 'Stan Borys',
-    content: `## Sylwetka
-Stan Borys (właśc. Stanisław Guzek, ur. 1941) to wokalista rockowy i poeta sceny, znany z charyzmatycznych, ekspresyjnych występów.
-
-## Big-beat
-Śpiewał w czołowych zespołach big-beatu – Blackout i Niebiesko-Czarni – stając się jedną z wyrazistych postaci sceny lat 60.
+    content: `## Artysta
+Stan Borys, właściwie Stanisław Guzek (ur. 1941), był wokalistą, kompozytorem, aktorem i poetą. Na scenie wyróżniał się ekspresją – śpiewał całym ciałem, co w polskiej estradzie lat 60. było zjawiskiem nowym.
 
 ## Jaskółka uwięziona
-Jego najsłynniejszy utwór, dramatyczna ballada „Jaskółka uwięziona”, stał się klasykiem i jednym z najbardziej rozpoznawalnych nagrań epoki.
+Największy przebój, „Jaskółka uwięziona”, stał się jedną z tych piosenek, które publiczność odczytywała szerzej, niż wynikało to z tekstu. Metafora uwięzienia była w tamtych latach czytelna bez wyjaśnień.
 
-## Styl
-Borys łączył śpiew z recytacją i poezją, budując ekspresyjny, buntowniczy wizerunek artysty osobnego.
+## Wyjazd
+Na początku lat 70. wyjechał do Stanów Zjednoczonych i pozostał tam na dziesięciolecia. Dla wykonawcy z PRL oznaczało to zniknięcie z krajowego obiegu: radio przestawało grać, a nazwisko wypadało z oficjalnych zestawień.
 
-## Emigracja
-W latach 70. wyjechał do Stanów Zjednoczonych, gdzie kontynuował działalność artystyczną.
-
-## Znaczenie
-Stan Borys to legenda polskiej sceny rockowej i poetyckiej, a „Jaskółka uwięziona” pozostaje jego nieśmiertelnym przebojem.`,
-    trivia: ['Śpiewał w czołowych zespołach big-beatu – Blackout i Niebiesko-Czarni.', '„Jaskółka uwięziona” to jeden z najbardziej rozpoznawalnych utworów epoki.'],
+## Powroty
+Wracał do Polski z koncertami po 1989 roku, odnajdując publiczność, która pamiętała jego nagrania mimo wieloletniej nieobecności. To jeden z dowodów na to, że pamięć muzyczna działała niezależnie od tego, co grało radio.`,
+    trivia: [
+      '„Jaskółkę uwięzioną” publiczność odczytywała szerzej, niż wynikało to z samego tekstu.',
+      'Po wyjeździe do Stanów Zjednoczonych zniknął z krajowego obiegu radiowego na dziesięciolecia.',
+    ],
     resources: [
       {
         id: 'sb2-yt',
@@ -23492,24 +23465,21 @@ Oranżada wróciła po latach jako produkt sprzedawany właśnie na wspomnieniu:
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Jednoślady – tańsze od auta motocykle i motorowery (WSK, Junak, Komar, Romet) – były ważnym środkiem transportu w PRL.',
-    content: `## Dwa kółka
-Motocykle i motorowery, tańsze i łatwiej dostępne od samochodu, były popularnym środkiem transportu w PRL, zwłaszcza na wsi i w mniejszych miastach.
+    content: `## Pojazd dostępny
+Zanim samochód stał się osiągalny, podstawowym pojazdem indywidualnym był motocykl albo motorower. Kosztował ułamek ceny auta, nie wymagał garażu i był realną alternatywą dla dojazdów do pracy.
 
-## Polskie marki
-Krajowy przemysł produkował motocykle WSK, WFM i SHL oraz dumę produkcji – Junaka, a także motorowery i rowery marki Romet.
+## Marki
+Produkowano SHL i Junaka, a w Kielcach oraz Bydgoszczy powstawały kolejne modele. Najpopularniejsze były jednak motorowery Komar i Romet – tanie, proste i dostępne dla młodzieży bez prawa jazdy w dzisiejszym rozumieniu.
 
-## Junak
-Junak M10 był najmocniejszym polskim motocyklem i obiektem pożądania – symbolem rodzimej myśli technicznej.
+## WSK
+Motocykle WSK ze Świdnika stały się synonimem taniego pojazdu użytkowego: jeździły po wsiach, wożąc ludzi, narzędzia i towar. Ich prostota oznaczała, że naprawy wykonywano samodzielnie, często improwizowanymi metodami.
 
-## Komar i Romet
-Motorower Komar oraz produkty zakładów Romet masowo jeździły po drogach, będąc pierwszym „własnym pojazdem” wielu Polaków.
-
-## Realia
-Dla wielu rodzin motocykl z przyczepką lub motorower był pojazdem na lata – nierzadko jedynym, przed erą Malucha.
-
-## Znaczenie
-Jednoślady to ważny element motoryzacji i codzienności PRL, dziś obiekt kolekcjonerskiej nostalgii.`,
-    trivia: ['Junak M10 był najmocniejszym polskim motocyklem i obiektem pożądania.', 'Popularne motorowery to Komar oraz jednoślady i rowery zakładów Romet.'],
+## Koniec epoki
+Wraz z upowszechnieniem Malucha w latach 70. motocykl przestał być pierwszym wyborem i przesunął się w stronę sportu i rekreacji. Wcześniej jednak przez dwie dekady to on, a nie samochód, oznaczał w Polsce prywatną mobilność.`,
+    trivia: [
+      'Motocykl kosztował ułamek ceny samochodu i nie wymagał garażu, więc był pierwszym pojazdem indywidualnym.',
+      'Motocykle WSK ze Świdnika jeździły po wsiach, wożąc ludzi, narzędzia i towar.',
+    ],
     resources: [
       {
         id: 'motocykle-prl-pkf',
@@ -23556,24 +23526,21 @@ Jednoślady to ważny element motoryzacji i codzienności PRL, dziś obiekt kole
     summary: 'Kultowa komedia Sylwestra Chęcińskiego (1967) o dwóch zwaśnionych rodzinach – Kargulach i Pawlakach – przesiedlonych z Kresów na Ziemie Odzyskane.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/POL_Wac%C5%82aw_Kowalski_W%C5%82adys%C5%82aw_Ha%C5%84cza.jpg?width=800',
     imageCaption: 'Sami swoi',
-    content: `## Fabuła
-„Sami swoi” (1967), w reżyserii Sylwestra Chęcińskiego i według scenariusza Andrzeja Mularczyka, opowiada o dwóch zwaśnionych rodzinach przesiedlonych po wojnie z Kresów Wschodnich na Ziemie Odzyskane.
+    content: `## Film
+„Sami swoi” Sylwestra Chęcińskiego z 1967 roku powstał według scenariusza Andrzeja Mularczyka. To pierwsza część trylogii, którą uzupełniły „Nie ma mocnych” i „Kochaj albo rzuć”.
 
-## Bohaterowie
-Kargul (Władysław Hańcza) i Pawlak (Wacław Kowalski) to sąsiedzi-wrogowie, których mimo zaciętej kłótni o miedzę łączy ślub ich dzieci.
+## Temat
+Bohaterami są dwie zwaśnione rodziny, Karguli i Pawlaków, przesiedlone z Kresów na Ziemie Odzyskane. Spór o miedzę, ciągnący się jeszcze zza Buga, toczy się dalej w nowym miejscu, w cudzych, poniemieckich gospodarstwach.
 
-## Humor
-Kłótnie o granicę, kultowe kwestie „A niech to gęś kopnie” czy „Sąsiad, podejdźcie no do płota” na stałe weszły do języka potocznego.
+## Co pod komedią
+Za farsą kryje się doświadczenie milionów ludzi: przymusowe przesiedlenie, utrata domu i konieczność ułożenia życia wśród obcych. Komediowa forma pozwoliła opowiedzieć o tym w czasach, gdy o Kresach i wysiedleniach nie mówiło się wprost.
 
-## Trylogia
-Ogromna popularność zaowocowała kontynuacjami: „Nie ma mocnych” (1974) i „Kochaj albo rzuć” (1977).
-
-## Tło historyczne
-Film w lekkiej formie podejmuje temat powojennego przesiedlenia i oswajania nowej, obcej ziemi.
-
-## Znaczenie
-To jedna z najpopularniejszych polskich komedii i klasyk telewizyjnych emisji świątecznych.`,
-    trivia: ['Kwestie z filmu, jak „A niech to gęś kopnie”, weszły na stałe do języka.', 'Powstała cała trylogia: „Sami swoi”, „Nie ma mocnych”, „Kochaj albo rzuć”.'],
+## Język
+Dialogi weszły do polszczyzny na trwałe, a kresowy sposób mówienia bohaterów utrwalił w kulturze masowej mowę, która wraz z pokoleniem przesiedleńców zanikała.`,
+    trivia: [
+      'Za komediową farsą kryje się doświadczenie milionów przesiedleńców z Kresów.',
+      'Film utrwalił kresowy sposób mówienia, który wraz z pokoleniem przesiedleńców zanikał.',
+    ],
     resources: [
       {
         id: 'ss-yt',
@@ -23620,24 +23587,21 @@ To jedna z najpopularniejszych polskich komedii i klasyk telewizyjnych emisji ś
     summary: 'Kultowa komedia kryminalna Juliusza Machulskiego (1981) o kasiarzu Kwincie, który w przedwojennej Warszawie planuje zemstę na bankierze Kramerze.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Henryk_Kwinto_mural%2C_Vabank%2C_Piramowicza_6%2C_%C5%81%C3%B3d%C5%BA%2C_2023-03-18%2C_03.jpg?width=800',
     imageCaption: 'Vabank',
-    content: `## Fabuła
-„Vabank” (1981), reżyserski debiut Juliusza Machulskiego, rozgrywa się w Warszawie lat 30. Doświadczony kasiarz Kwinto planuje wyrafinowaną zemstę na bankierze Kramerze, który wiele lat wcześniej wrobił go i wydał policji.
+    content: `## Debiut
+„Vabank” Juliusza Machulskiego z 1981 roku był jego pełnometrażowym debiutem. To komedia kryminalna w konwencji retro, rozgrywająca się w Polsce lat 30.
 
-## Obsada
-W rolach głównych Jan Machulski (Kwinto) i Leonard Pietraszak (Kramer), a także Witold Pyrkosz i Jacek Chmielnik.
+## Fabuła
+Kasiarz Henryk Kwinto, grany przez Jana Machulskiego – ojca reżysera – po wyjściu z więzienia organizuje skok na bank swojego dawnego wspólnika Kramera, odpowiedzialnego za śmierć przyjaciela. Zemsta jest tu precyzyjnie zaplanowaną operacją, nie odruchem.
 
-## Skok
-Precyzyjnie zaplanowany skok na bank i misterne wrobienie Kramera to popis kina gatunkowego w eleganckim, retro stylu.
+## Ucieczka od współczesności
+Film powstał w roku, w którym Polska żyła strajkami i kryzysem. Sięgnięcie po przedwojenną scenerię, eleganckie kostiumy i jazzową muzykę Henryka Kuźniaka było propozycją całkowicie odmienną: kino jako rozrywka doskonale zrobiona.
 
-## Muzyka
-Niezapomniana, jazzująca ścieżka dźwiękowa Henryka Kuźniaka stała się równie kultowa jak sam film.
-
-## Kontynuacja
-Sukces przyniósł kontynuację „Vabank II, czyli riposta” (1985).
-
-## Znaczenie
-„Vabank” to jeden z najlepiej zrealizowanych polskich filmów rozrywkowych epoki i klasyk komedii kryminalnej.`,
-    trivia: ['Reżyserski debiut Juliusza Machulskiego – Kwintę zagrał jego ojciec, Jan.', 'Jazzująca muzyka Henryka Kuźniaka stała się równie kultowa jak film.'],
+## Sukces
+Obraz odniósł duży sukces frekwencyjny i doczekał się kontynuacji. Machulski udowodnił, że w polskich warunkach da się zrobić kino gatunkowe na poziomie porównywalnym z zachodnim – co wcześniej uchodziło za niemożliwe.`,
+    trivia: [
+      'Główną rolę zagrał Jan Machulski, ojciec reżysera.',
+      'Film powstał w roku strajków i kryzysu, a proponował widzowi ucieczkę w elegancką scenerię lat 30.',
+    ],
     resources: [
       {
         id: 'vb-yt',
@@ -23955,24 +23919,21 @@ Popularność Urszuli przypadła na dekadę, w której rock stał się główną
     summary: 'Prosta wirnikowa pralka „Frania” była jednym z symboli PRL-owskiego AGD – obecna w niemal każdym domu, choć wymagała ręcznego przekładania prania.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pralka_Frania_-_producent_%C5%9Awiatowit.jpg?width=800',
     imageCaption: 'Pralka Frania',
-    content: `## Ikona AGD
-„Frania” to popularna, prosta pralka wirnikowa produkowana od końca lat 50., jeden z symboli PRL-owskiego wyposażenia domu.
+    content: `## Urządzenie
+Frania była elektryczną pralką wirnikową – zbiornikiem z silnikiem i wirnikiem, który poruszał wodę z praniem. Nie miała programów, grzałki ani wirowania: woda musiała być nalana ręcznie, a pranie wyjęte i wyżęte samodzielnie.
 
-## Jak działała
-Pralka miała jeden zbiornik i wirnik; prało się partiami, a pranie trzeba było ręcznie przekładać i wyżymać, często wałkami.
+## Jak się prało
+Pranie było operacją na pół dnia: gotowanie wody, kilka cykli w pralce, płukanie w wannie, przepuszczanie przez wyżymaczkę, rozwieszanie. Frania stała zwykle w łazience albo kuchni i wyciągało się ją tylko na czas prania.
 
-## Nazwa
-Potoczna nazwa „Frania” (od zdrobnienia imienia) przylgnęła do całej kategorii tanich pralek wirnikowych.
+## Dlaczego trwała tak długo
+Pralki automatyczne pojawiły się w Polsce szerzej dopiero w latach 80., i to w ograniczonej dostępności. Frania była tania, prosta, łatwa do naprawy i mieściła się w małym mieszkaniu – dlatego produkowano ją dziesięcioleciami.
 
-## Codzienność
-Dzień prania był całodniowym przedsięwzięciem – z gotowaniem wody, praniem, płukaniem i suszeniem na sznurach.
-
-## Awans cywilizacyjny
-Mimo prostoty „Frania” oznaczała realne odciążenie od prania ręcznego w balii i była marzeniem wielu gospodarstw.
-
-## Znaczenie
-Dziś „Frania” to nostalgiczny symbol codzienności PRL i skromnych realiów domowej techniki.`,
-    trivia: ['Prania nie dało się prać w całości naraz – trzeba je było ręcznie przekładać partiami.', 'Nazwa „Frania” przylgnęła potocznie do całej kategorii tanich pralek wirnikowych.'],
+## Praca kobiet
+Za praniem stała konkretna praca, wykonywana niemal wyłącznie przez kobiety, obok pracy zawodowej. Sprzęt gospodarstwa domowego nie był w PRL kwestią wygody, lecz realnym czynnikiem decydującym o ilości wolnego czasu w rodzinie.`,
+    trivia: [
+      'Pralka nie miała programów ani wirowania – wodę nalewało się ręcznie, a pranie wyżymało osobno.',
+      'Pralki automatyczne upowszechniły się w Polsce dopiero w latach 80.',
+    ],
     resources: [
       {
         id: 'fr-yt',
@@ -24512,23 +24473,20 @@ Obraz otrzymał nominację do Oscara i był jedną z największych polskich prod
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zbigniew%20cybulski%20popi%C3%B3%C5%82%20i%20diament.jpg?width=800',
     imageCaption: 'Popiół i diament',
     content: `## Film
-„Popiół i diament” (1958) w reżyserii Andrzeja Wajdy to ekranizacja powieści Jerzego Andrzejewskiego i sztandarowe dzieło polskiej szkoły filmowej.
-
-## Fabuła
-Akcja rozgrywa się w ostatnim dniu wojny w 1945 roku; młody żołnierz podziemia Maciek Chełmicki ma wykonać wyrok na komunistycznym działaczu.
+„Popiół i diament” Andrzeja Wajdy z 1958 roku powstał na podstawie powieści Jerzego Andrzejewskiego. Akcja toczy się 8 maja 1945 roku – w dniu zakończenia wojny w Europie, gdy dla bohaterów zaczyna się zupełnie nowy konflikt.
 
 ## Maciek Chełmicki
-Zbigniew Cybulski w ciemnych okularach stworzył ikoniczną, buntowniczą kreację, dzięki której zyskał przydomek „polskiego Jamesa Deana”.
+Były żołnierz Armii Krajowej otrzymuje rozkaz zabicia Szczuki, sekretarza PPR. W ciągu jednej doby przechodzi drogę od wykonawcy rozkazu do człowieka, który chce żyć. Rolę zagrał Zbigniew Cybulski, w ciemnych okularach, które stały się znakiem całego pokolenia.
 
-## Kultowe sceny
-Płonące kieliszki spirytusu i tragiczny finał na śmietnisku na trwałe weszły do historii światowego kina.
+## Dwuznaczność
+Film formalnie mieści się w obowiązującej wykładni: bohater należy do podziemia, ofiarą jest komunista. W praktyce widz współczuje Maćkowi, a jego śmierć na śmietniku jest jedną z najbardziej gorzkich scen polskiego kina.
 
-## Styl
-Mistrzowskie zdjęcia Jerzego Wójcika, gęsta symbolika i atmosfera moralnego rozdarcia złożyły się na dzieło wybitne.
-
-## Znaczenie
-To jeden z najważniejszych i najbardziej znanych za granicą filmów polskich.`,
-    trivia: ['Zbigniew Cybulski w ciemnych okularach zyskał przydomek „polskiego Jamesa Deana”.', 'Cybulski sam wymyślił słynną scenę z płonącymi kieliszkami spirytusu.'],
+## Polska szkoła filmowa
+Obraz stał się najważniejszym dziełem polskiej szkoły filmowej i zapewnił Wajdzie międzynarodową pozycję. Pokazał, że o niedawnej historii można mówić językiem tragedii, a nie sprawozdania.`,
+    trivia: [
+      'Cała akcja rozgrywa się 8 maja 1945 roku – w dniu zakończenia wojny w Europie.',
+      'Ciemne okulary Cybulskiego stały się znakiem rozpoznawczym całego pokolenia.',
+    ],
     resources: [
       {
         id: 'pd2-yt',
@@ -26033,23 +25991,20 @@ Państwo deklarujące równość prowadziło sieć sklepów, w których za obcą
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jelenia%20Gora%20panorama%20HDR.jpg?width=800',
     imageCaption: 'Panorama Jeleniej Góry u stóp Karkonoszy.',
     content: `## Miasto
-Jelenia Góra to miasto w malowniczej Kotlinie Jeleniogórskiej u stóp Karkonoszy, jeden z ważniejszych ośrodków Dolnego Śląska.
-
-## Stolica województwa
-W 1975 roku, po reformie administracyjnej, Jelenia Góra została stolicą osobnego województwa jeleniogórskiego.
+Jelenia Góra leży w Kotlinie Jeleniogórskiej, u podnóża Karkonoszy. Po wojnie znalazła się w granicach Polski jako część ziem zachodnich, a jej dawni mieszkańcy zostali wysiedleni; miasto zasiedlili przesiedleńcy, w znacznej części z Kresów.
 
 ## Przemysł
-Działały tu m.in. zakłady farmaceutyczne Jelfa, przemysł optyczny oraz Celwiskoza produkująca włókna sztuczne.
+Rozwijano tu przemysł farmaceutyczny, papierniczy i optyczny – zakłady Jelfa i Celwiskoza należały do największych pracodawców regionu. Miasto było też ośrodkiem administracyjnym: w latach 1975–1998 stolicą województwa.
 
-## Czarny Trójkąt
-Wraz z pobliskimi elektrowniami region współtworzył „Czarny Trójkąt” – jeden z najbardziej zanieczyszczonych obszarów ówczesnej Europy.
+## Turystyka i uzdrowisko
+Cieplice, włączone do miasta, są uzdrowiskiem o wielowiekowej tradycji. Jelenia Góra pełniła funkcję bazy wypadowej w Karkonosze, obsługując ruch wczasowy i wycieczkowy z całego kraju.
 
-## Cieplice i kultura
-Uzdrowiskowa dzielnica Cieplice oraz Jeleniogórskie Spotkania Teatralne przyciągały kuracjuszy i miłośników teatru.
-
-## Znaczenie
-Jelenia Góra to brama w Karkonosze i ważny ośrodek łączący przemysł, uzdrowisko i masową turystykę.`,
-    trivia: ['Od 1975 do 1998 Jelenia Góra była stolicą osobnego województwa jeleniogórskiego.', 'Region należał do „Czarnego Trójkąta” – obszaru silnie zanieczyszczonego przez przemysł.'],
+## Zniszczone dziedzictwo
+Poniemiecka zabudowa regionu – pałace, dwory i uzdrowiskowe wille – przez dziesięciolecia niszczała, bo nie mieściła się w polityce historycznej epoki. Jej odbudowa zaczęła się dopiero po 1989 roku.`,
+    trivia: [
+      'Po wojnie miasto zasiedlili przesiedleńcy, w znacznej części z Kresów.',
+      'Poniemieckie pałace i wille regionu niszczały przez dziesięciolecia, bo nie mieściły się w ówczesnej polityce historycznej.',
+    ],
     resources: [
       {
         id: 'jg-yt',
@@ -26257,23 +26212,20 @@ Mimo przeszkód film nagrodzono w Cannes i wszedł do kanonu kina europejskiego.
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Giewont.jpg?width=800',
     imageCaption: 'Giewont górujący nad Zakopanem.',
     content: `## Zimowa stolica
-Zakopane u stóp Tatr to najsłynniejszy górski kurort Polski, powszechnie zwany „zimową stolicą”.
+Zakopane było w PRL najpopularniejszym górskim kierunkiem turystycznym i głównym ośrodkiem sportów zimowych. Potoczne określenie zimowej stolicy Polski przylgnęło do miasta na trwałe.
 
-## Turystyka
-Miasto ściągało tłumy turystów przez cały rok; deptakiem były Krupówki, a na Gubałówkę i Kasprowy Wierch wjeżdżało się kolejkami.
+## Wczasy i skierowania
+Podstawą ruchu turystycznego były wczasy pracownicze i wycieczki zakładowe. Ośrodki wypoczynkowe należały do przedsiębiorstw, a o wyjeździe decydowała komisja socjalna. Prywatne kwatery u górali stanowiły obieg równoległy – i jedno z nielicznych legalnych źródeł prywatnego dochodu.
 
 ## Sport
-Odbywały się tu zawody narciarskie i skoki na Wielkiej Krokwi; słynna była kolej na Kasprowy Wierch z lat 30.
+Skocznia na Wielkiej Krokwi i zawody narciarskie zapewniały miastu stałą obecność w telewizji. Sukcesy skoczków i biegaczy narciarskich należały do najchętniej wykorzystywanych propagandowo wydarzeń sportowych.
 
-## Kultura góralska
-Zakopane to centrum folkloru Podhala – muzyki, stroju i charakterystycznej architektury zakopiańskiej.
-
-## Wypoczynek
-Był to popularny cel wczasów FWP oraz wycieczek zakładowych i szkolnych.
-
-## Znaczenie
-Zakopane to symbol polskich gór, wypoczynku i żywej kultury góralskiej.`,
-    trivia: ['Zakopane nazywane jest „zimową stolicą Polski”.', 'Nad miastem góruje Giewont, a na Gubałówkę i Kasprowy Wierch wjeżdża się kolejkami.'],
+## Krupówki
+Główna ulica była miejscem, gdzie stykały się dwa światy: oficjalna turystyka i handel prywatny – oscypki, swetry, pamiątki. Zakopane pozostawało dzięki temu jednym z niewielu miejsc w PRL, gdzie drobna przedsiębiorczość była widoczna na co dzień.`,
+    trivia: [
+      'Prywatne kwatery u górali były jednym z nielicznych legalnych źródeł prywatnego dochodu.',
+      'Zawody na Wielkiej Krokwi zapewniały miastu stałą obecność w telewizji.',
+    ],
     resources: [
       {
         id: 'zakopane-pkf',
