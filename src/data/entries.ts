@@ -3562,6 +3562,8 @@ Po emigracji 1968 roku żydowska społeczność w Polsce została praktycznie zl
     id: 'ziemie-odzyskane',
     title: 'Ziemie Odzyskane',
     category: 'polityka',
+    yearStart: 1945,
+    yearEnd: 1990,
     shortDesc: 'Powojenne przesiedlenia i polska kolonizacja dawnych terenów niemieckich na zachodzie i północy Polski.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ziemie_Odzyskane.png?width=800',
     imageCaption: 'Ziemie Odzyskane',
@@ -3637,6 +3639,8 @@ Zachodnia granica na Odrze i Nysie była przez dekady kontestowana przez RFN. Os
     id: 'sport-prl',
     title: 'Sport w PRL',
     category: 'społeczeństwo',
+    yearStart: 1944,
+    yearEnd: 1989,
     shortDesc: 'Sukcesy olimpijskie, masowy sport robotniczy i propaganda sukcesu – sport jako polityczne narzędzie PRL.',
     content: `## Sport w PRL
 
@@ -3846,6 +3850,8 @@ Nacjonalizacja zniszczyła klasę przedsiębiorców i kupców. Gospodarka stała
     id: 'milosz',
     title: 'Czesław Miłosz',
     category: 'osoby',
+    yearStart: 1911,
+    yearEnd: 2004,
     shortDesc: 'Poeta, prozaik, eseista – autor „Zniewolonego umysłu", noblista 1980, jeden z największych pisarzy XX wieku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Czes%C5%82aw%20Mi%C5%82osz.jpg?width=800',
     imageCaption: 'Czesław Miłosz – poeta, laureat Nagrody Nobla (1980).',
@@ -3927,6 +3933,8 @@ Miłosz jest autorem „Traktatu moralnego", „Ziemi Ulro", „Roku myśliwego"
     id: 'herbert',
     title: 'Zbigniew Herbert',
     category: 'osoby',
+    yearStart: 1924,
+    yearEnd: 1998,
     shortDesc: 'Jeden z najwybitniejszych polskich poetów – twórca Pana Cogito, głos moralnego sprzeciwu wobec totalitaryzmu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zbigniew%20Herbert.jpg?width=800',
     imageCaption: 'Zbigniew Herbert – poeta, autor cyklu „Pan Cogito”.',
@@ -4000,6 +4008,8 @@ Jego poezja jest przetłumaczona na kilkadziesiąt języków. Jest to jedna z po
     id: 'walentynowicz',
     title: 'Anna Walentynowicz',
     category: 'osoby',
+    yearStart: 1929,
+    yearEnd: 2010,
     shortDesc: 'Suwnicowa z Gdańska – jej zwolnienie wywołało strajk sierpniowy, który zmienił Polskę i świat.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Walentynowicz.jpg?width=800',
     imageCaption: 'Anna Walentynowicz – suwnicowa, współzałożycielka Solidarności.',
@@ -4069,6 +4079,8 @@ Walentynowicz do końca życia czuła, że jest niedoceniana. Historia oddaje je
     id: 'mikolajczyk',
     title: 'Stanisław Mikołajczyk i PSL',
     category: 'polityka',
+    yearStart: 1901,
+    yearEnd: 1966,
     shortDesc: 'Premier rządu londyńskiego, lider PSL – ostatni demokratyczny opór przed komunizacją Polski.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stanislaw%20Mikolajczyk%20in%20Poznan%20%281945r.%29.jpg?width=800',
     imageCaption: 'Stanisław Mikołajczyk (1945) – przywódca PSL, lider legalnej opozycji.',
@@ -4197,6 +4209,8 @@ PRL zapewniał też gwarancje, które po 1989 roku zniknęły – zatrudnienie (
     id: 'edukacja-prl',
     title: 'Edukacja i szkoła w PRL',
     category: 'społeczeństwo',
+    yearStart: 1944,
+    yearEnd: 1989,
     shortDesc: 'System oświaty jako narzędzie indoktrynacji – i mimo to szkoła jako miejsce realnej wiedzy i przyjaźni.',
     content: `## Edukacja i szkoła w PRL
 
@@ -4278,6 +4292,8 @@ PRL dał Polsce masową edukację – i to jest realne osiągnięcie. Ale też w
     id: 'nzs',
     title: 'NZS – Niezależne Zrzeszenie Studentów',
     category: 'opozycja',
+    yearStart: 1980,
+    yearEnd: 1989,
     shortDesc: 'Studencki ruch niezależny, zarejestrowany w 1980 roku – pierwsza legalna niezależna organizacja studencka w bloku wschodnim.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/LogoNZS.jpg?width=800',
     imageCaption: 'NZS – Niezależne Zrzeszenie Studentów',
@@ -4353,6 +4369,8 @@ NZS był dowodem, że wolnościowy impuls Solidarności dosięgnął całego spo
     id: 'internowanie',
     title: 'Internowanie w stanie wojennym',
     category: 'represje',
+    yearStart: 1981,
+    yearEnd: 1982,
     shortDesc: 'Nocna akcja 13 grudnia 1981 – aresztowanie 10 tysięcy działaczy Solidarności bez wyroku sądowego.',
     content: `## Internowanie w stanie wojennym
 
@@ -4432,6 +4450,7 @@ Po 1989 roku postępowania karne wobec sprawców internowania toczyły się lata
     id: 'michnik',
     title: 'Adam Michnik',
     category: 'osoby',
+    yearStart: 1946,
     shortDesc: 'Historyk, publicysta i działacz opozycji, współzałożyciel KOR, redaktor naczelny Gazety Wyborczej.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Adam%20Michnik.jpg?width=800',
     imageCaption: 'Adam Michnik – działacz opozycji demokratycznej.',
@@ -4507,6 +4526,8 @@ Michnik jest symbolem liberalnej lewicy i dialogu. Jego teza o „grubej kresce"
     id: 'kuron',
     title: 'Jacek Kuroń',
     category: 'osoby',
+    yearStart: 1934,
+    yearEnd: 2004,
     shortDesc: 'Pedagog, działacz opozycji, współzałożyciel KOR i jeden z ojców polskiej transformacji.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/A-Jacek%20Kuro%C5%84.jpg?width=800',
     imageCaption: 'Jacek Kuroń – legendarny opozycjonista, współtwórca KOR.',
@@ -4649,6 +4670,8 @@ Przez kurierów i przez Kościół podziemna Solidarność utrzymywała stały k
     id: 'kapuscinski',
     title: 'Ryszard Kapuściński',
     category: 'osoby',
+    yearStart: 1932,
+    yearEnd: 2007,
     shortDesc: 'Dziennikarz i pisarz – reporter świata, autor „Cesarza" i „Szachinszacha", jeden z najwybitniejszych reportażystów XX wieku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ryszard%20Kapu%C5%9Bci%C5%84ski.jpg?width=800',
     imageCaption: 'Ryszard Kapuściński – reporter i pisarz.',
@@ -4782,6 +4805,8 @@ KPN weszła do parlamentu w wyborach 1991 roku. Moczulski przez lata był posłe
     id: 'kobiety-prl',
     title: 'Kobiety w PRL',
     category: 'społeczeństwo',
+    yearStart: 1944,
+    yearEnd: 1989,
     shortDesc: 'Równouprawnienie w teorii i podwójny etat w praktyce – sytuacja kobiet w Polsce Ludowej.',
     content: `## Kobiety w PRL
 
@@ -4922,6 +4947,8 @@ W lipcu 1989 roku Rakowski objął funkcję I sekretarza KC PZPR – kiedy parti
     id: 'rwpg',
     title: 'RWPG – Rada Wzajemnej Pomocy Gospodarczej',
     category: 'gospodarka',
+    yearStart: 1949,
+    yearEnd: 1991,
     shortDesc: 'Wschodnioblokowy odpowiednik EWG – integracja gospodarcza krajów komunistycznych pod hegemonią ZSRR.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Comecon.svg?width=800',
     imageCaption: 'RWPG – Rada Wzajemnej Pomocy Gospodarczej',
@@ -4989,6 +5016,8 @@ RWPG rozwiązała się w 1991 roku, gdy upadły komunistyczne rządy i rynki wsc
     id: 'szymborska',
     title: 'Wisława Szymborska',
     category: 'osoby',
+    yearStart: 1923,
+    yearEnd: 2012,
     shortDesc: 'Poetka, laureatka Nagrody Nobla 1996 – mistrzyni ironii i codziennej filozofii.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wis%C5%82awa%20Szymborska.jpg?width=800',
     imageCaption: 'Wisława Szymborska – poetka, laureatka Nagrody Nobla (1996).',
@@ -5054,6 +5083,8 @@ Ostatnie lata życia spędziła w Krakowie, otoczona gronem przyjaciół. Pisał
     id: 'geremek',
     title: 'Bronisław Geremek',
     category: 'osoby',
+    yearStart: 1932,
+    yearEnd: 2008,
     shortDesc: 'Mediewista, doradca Solidarności, minister spraw zagranicznych – jeden z architektów polskiej transformacji.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2004.05.01.%20Bronislaw%20Geremek%2001.jpg?width=800',
     imageCaption: 'Bronisław Geremek – historyk i jeden z architektów Okrągłego Stołu.',
@@ -5454,6 +5485,8 @@ Po 13 grudnia 1981 roku wielu działaczy Solidarności, którzy zdołali wyjecha
     id: 'lem',
     title: 'Stanisław Lem',
     category: 'osoby',
+    yearStart: 1921,
+    yearEnd: 2006,
     shortDesc: 'Pisarz science-fiction i futurysta – jeden z najczęściej tłumaczonych polskich autorów w historii.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw%20Lem.jpg?width=800',
     imageCaption: 'Stanisław Lem – pisarz science fiction o światowej sławie.',
@@ -5523,6 +5556,8 @@ Lem jest patronem nauki o przyszłości, cyberprzestrzeni i etyce technologiczne
     id: 'wajda',
     title: 'Andrzej Wajda',
     category: 'osoby',
+    yearStart: 1926,
+    yearEnd: 2016,
     shortDesc: 'Reżyser filmowy, twórca Polskiej Szkoły Filmowej, autor dzieł o historii i wolności.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej%20Wajda%201974.jpg?width=800',
     imageCaption: 'Andrzej Wajda (1974) – czołowy reżyser polskiego kina.',
@@ -5588,6 +5623,8 @@ Wajda nauczył świat patrzeć na Polskę przez pryzmat jej tragicznej historii.
     id: 'jazz-prl',
     title: 'Jazz w Polsce Ludowej',
     category: 'kultura',
+    yearStart: 1947,
+    yearEnd: 1989,
     shortDesc: 'Jazz – muzyka wolności, która przebiła się przez ideologiczne bariery PRL i stała się symbolem otwarcia na Zachód.',
     content: `## Jazz w Polsce Ludowej
 
@@ -6192,6 +6229,8 @@ Dopiero w 1988 r. złagodzono przepisy, a 1 stycznia 1989 r. weszła w życie no
     id: 'prasa-prl',
     title: 'Prasa i media w PRL',
     category: 'kultura',
+    yearStart: 1944,
+    yearEnd: 1989,
     shortDesc: 'Trybuna Ludu, Polityka, Przekrój – kontrolowana prasa jako narzędzie propagandy i okno na rzeczywistość.',
     content: `## Prasa i media w PRL
 
@@ -10058,6 +10097,8 @@ Liczne późniejsze odkrycia (np. donos Lecha Wałęsy w latach 70. – sprawa o
     id: 'kieslowski',
     title: 'Krzysztof Kieślowski',
     category: 'osoby',
+    yearStart: 1941,
+    yearEnd: 1996,
     shortDesc: 'Reżyser filmowy i dokumentalny, twórca Dekalogu i trylogii Trzy kolory – jeden z najważniejszych filmowców XX wieku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krzysztof_Kie%C5%9Blowski_Portrait_1994.jpg?width=800',
     imageCaption: 'Krzysztof Kieślowski',
@@ -10123,6 +10164,8 @@ Kieślowski pokazał, że kino może być filozofią. Jego filmy pytają o sens 
     id: 'kolejki-prl',
     title: 'Kolejki i braki towarów',
     category: 'społeczeństwo',
+    yearStart: 1944,
+    yearEnd: 1989,
     shortDesc: 'Permanentny niedobór dóbr i wielogodzinne kolejki – codzienność Polaków w epoce PRL.',
     trivia: ['Powstawały „społeczne komitety kolejkowe”, a numerki zapisywano długopisem na dłoniach.', 'Często stało się w kolejce, nie wiedząc nawet, co akurat „rzucą” do sklepu.'],
     content: `## Kolejki i braki towarów w PRL
@@ -10190,6 +10233,8 @@ Liberalizacja cen w 1989–1990 roku zlikwidowała kolejki niemal z dnia na dzie
     id: 'mieszkania-prl',
     title: 'Wielka płyta i budownictwo mieszkaniowe',
     category: 'społeczeństwo',
+    yearStart: 1956,
+    yearEnd: 1989,
     shortDesc: 'Masowe budownictwo z prefabrykatów – wielka płyta – i polityka mieszkaniowa PRL.',
     content: `## Wielka płyta i budownictwo mieszkaniowe w PRL
 
@@ -10257,6 +10302,8 @@ Wielka płyta stała się problemem po 1989 roku. Bloki mają ograniczoną żywo
     id: 'motoryzacja-prl',
     title: 'Motoryzacja w PRL – Maluch i inne',
     category: 'społeczeństwo',
+    yearStart: 1951,
+    yearEnd: 1989,
     shortDesc: 'Fiat 126p „Maluch", Warszawa, Syrenka – samochód jako marzenie i symbol statusu w Polsce Ludowej.',
     content: `## Motoryzacja w PRL
 
@@ -10334,6 +10381,8 @@ Liberalizacja umożliwiła import zachodnich samochodów. Rynek zalały używane
     id: 'obozy-pracy',
     title: 'Obozy pracy i więzienia polityczne',
     category: 'represje',
+    yearStart: 1944,
+    yearEnd: 1956,
     shortDesc: 'Sieć obozów pracy i więzień politycznych w Polsce lat 1944–1956 – sowiecka metoda eliminacji opozycji.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jaworzno_camp_memorial%2C_Poland.JPG?width=800',
     imageCaption: 'Pomnik na terenie dawnego obozu pracy w Jaworznie (fot. współczesna)',
@@ -10413,6 +10462,8 @@ Po 1956 roku, w wyniku odwilży październikowej, część więźniów polityczn
     id: 'pomniki-prl',
     title: 'Pomniki i symbolika PRL',
     category: 'kultura',
+    yearStart: 1944,
+    yearEnd: 1989,
     shortDesc: 'Pomniki bohaterów radzieckich, monumenty partyjne i socrealistyczna architektura jako narzędzie ideologii.',
     content: `## Pomniki i symbolika PRL
 
@@ -10480,6 +10531,8 @@ Walka o przestrzeń symboliczną – kto jest patronem ulic i placów – trwa w
     id: 'turystyka-prl',
     title: 'Turystyka i wczasy w PRL',
     category: 'społeczeństwo',
+    yearStart: 1944,
+    yearEnd: 1989,
     shortDesc: 'Wczasy FWP, obozy harcerskie i marzenia o morzu – turystyka jako przywilej i element polityki społecznej.',
     content: `## Turystyka i wczasy w PRL
 
@@ -10549,6 +10602,8 @@ Harcerskie obozy były dla wielu dzieci najważniejszą przestrzenią wolności 
     id: 'walczynski-opor',
     title: 'Strajki i opór robotniczy przed 1980',
     category: 'opozycja',
+    yearStart: 1956,
+    yearEnd: 1980,
     shortDesc: 'Fale strajków 1956, 1970, 1976 – robotniczy sprzeciw, który torował drogę Solidarności.',
     content: `## Strajki i opór robotniczy przed 1980
 
@@ -10622,6 +10677,8 @@ Po 1989 roku powołano komisje śledcze ws. Poznania 1956 i Grudnia 1970. Sprawc
     id: 'pielgrzymki-jp2',
     title: 'Pielgrzymki Jana Pawła II do Polski',
     category: 'społeczeństwo',
+    yearStart: 1979,
+    yearEnd: 1987,
     shortDesc: 'Trzy historyczne pielgrzymki – 1979, 1983, 1987 – które zmieniły Polskę i umocniły opór wobec komunizmu.',
     content: `## Pielgrzymki Jana Pawła II do Polski
 
@@ -10705,6 +10762,8 @@ Komuniści zdawali sobie sprawę z zagrożenia. SB inwigilowała pielgrzymki, do
     id: 'gdansk-sopot-gdynia',
     title: 'Trójmiasto – serce Solidarności',
     category: 'opozycja',
+    yearStart: 1970,
+    yearEnd: 1989,
     shortDesc: 'Gdańsk, Sopot i Gdynia – centrum stoczniowego ruchu robotniczego, kolebka Solidarności i pamięci Grudnia 1970.',
     content: `## Trójmiasto – serce Solidarności
 
@@ -10778,6 +10837,8 @@ Gdynia zbudowała swój własny pomnik – Pomnik Ofiar Grudnia 1970 przy Bramie
     id: 'niezaleznosc-sadow',
     title: 'Sądownictwo i praworządność w PRL',
     category: 'represje',
+    yearStart: 1944,
+    yearEnd: 1989,
     shortDesc: 'Sądy PRL jako narzędzie represji – procesy pokazowe, ustawione wyroki i brak niezależności wymiaru sprawiedliwości.',
     content: `## Sądownictwo i praworządność w PRL
 
@@ -10855,6 +10916,8 @@ Pytanie o rozliczenie sprawców sądowych zbrodni komunistycznych pozostaje aktu
     id: 'lodz-szkola-filmowa',
     title: 'Łódź – szkoła filmowa i miasto kultury',
     category: 'kultura',
+    yearStart: 1948,
+    yearEnd: 1989,
     shortDesc: 'PWSFTviT w Łodzi – najsłynniejsza szkoła filmowa Europy Środkowej, kuźnia talentów Polskiej Szkoły Filmowej.',
     content: `## Łódź – szkoła filmowa i miasto kultury
 
@@ -10920,6 +10983,8 @@ Po 1989 roku Łódź przeżyła kryzys przemysłowy – zamknięte fabryki, bezr
     id: 'muzyka-rockowa-prl',
     title: 'Rock i muzyka młodzieżowa w PRL',
     category: 'kultura',
+    yearStart: 1959,
+    yearEnd: 1989,
     shortDesc: 'Perfect, Lady Pank, Republika, Maanam – polska scena rockowa lat 80. jako wyraz buntu i wolności.',
     content: `## Rock i muzyka młodzieżowa w PRL
 
@@ -10993,6 +11058,8 @@ Muzyka rockowa lat 80. nie była wprost polityczna, ale jej etos był opozycyjny
     id: 'kabaret-prl',
     title: 'Kabaret i satyra w PRL',
     category: 'kultura',
+    yearStart: 1946,
+    yearEnd: 1989,
     shortDesc: 'Piwnica pod Baranami, Dudek, STS – satyra jako jedyna dozwolona forma krytyki systemu.',
     content: `## Kabaret i satyra w PRL
 
@@ -11062,6 +11129,8 @@ Po 1989 roku scena kabaretowa rozkwitła. Kabaret Olgi Lipińskiej, potem „Uch
     id: 'kolakowski',
     title: 'Leszek Kołakowski',
     category: 'osoby',
+    yearStart: 1927,
+    yearEnd: 2009,
     shortDesc: 'Filozof, autor „Głównych nurtów marksizmu" – od rewizjonizmu komunistycznego do krytyki totalitaryzmu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2007.10.23._-Leszek_Kolakowski_Foto_Mariusz_Kubik.jpg?width=800',
     imageCaption: 'Leszek Kołakowski',
@@ -11129,6 +11198,8 @@ Kołakowski odwiedzał Polskę po 1989 roku. Był uhonorowany wieloma nagrodami,
     id: 'plakat-prl',
     title: 'Polska szkoła plakatu',
     category: 'kultura',
+    yearStart: 1945,
+    yearEnd: 1989,
     shortDesc: 'Światowej sławy polska szkoła plakatu – graficy PRL stworzyli unikatowy styl artystyczny uznany za jeden z najważniejszych w historii plakatu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/PIC_40-W-180-5.jpg?width=800',
     imageCaption: 'Polska szkoła plakatu',
