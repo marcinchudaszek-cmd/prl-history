@@ -1238,6 +1238,15 @@ Po spełnieniu części postulatów komitet przekształcił się w Komitet Samoo
     ],
     resources: [
       {
+        id: 'kor-pkf',
+        title: 'Radomski Czerwiec \'76',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=1Kz_8ZajP10',
+        source: 'YouTube (arch.)',
+        description: 'Protest robotniczy w Radomiu, po którym powstał Komitet Obrony Robotników',
+        year: 1976,
+      },
+      {
         id: 'kor-ipn1',
         title: 'KOR - artykuły IPN',
         type: 'publikacja',
@@ -1558,6 +1567,8 @@ Władze przedstawiły zajścia jako obronę konieczną wobec uzbrojonych napastn
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'Represje polityczne w PRL – system prześladowań obywateli przez aparat bezpieczeństwa, prokuraturę i sądy. W różnych formach trwały przez cały okres istnienia PRL, z największym natężeniem w latach 1944–1956.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mokot%C3%B3w_Prison_%283%29.jpg?width=800',
+    imageCaption: 'Więzienie przy Rakowieckiej w Warszawie, gdzie wykonywano wyroki śmierci na żołnierzach podziemia (fot. współczesna)',
     content: `System represji politycznych w PRL przechodził przez kilka faz, choć nigdy całkowicie nie ustał.
 
 **Faza stalinowska (1944–1956):**
@@ -3507,6 +3518,15 @@ Po emigracji 1968 roku żydowska społeczność w Polsce została praktycznie zl
     trivia: ['Wyjeżdżający otrzymywali dokument podróży bez prawa powrotu do kraju.', 'Polskę opuściło wtedy kilkanaście tysięcy osób pochodzenia żydowskiego.'],
     resources: [
       {
+        id: 'em68-pkf',
+        title: 'Przemówienie Gomułki z 19 marca 1968',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=dGQncIgbm-4',
+        source: 'YouTube (arch. PKF 12/68B)',
+        description: 'Fragmenty wystąpienia w Sali Kongresowej, które nadało ton kampanii marcowej',
+        year: 1968,
+      },
+      {
         id: 'em68-1',
         title: 'Marzec 1968 – emigracja Żydów, portal IPN',
         type: 'publikacja',
@@ -4578,6 +4598,15 @@ Przez kurierów i przez Kościół podziemna Solidarność utrzymywała stały k
     trivia: ['Struktury konspiracyjne działały przez całe lata 80.', 'Wydawano tysiące tytułów prasy podziemnej.'],
     resources: [
       {
+        id: 'podz-film',
+        title: 'Podziemne Radio Solidarność',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=PdIhkfLvtvg',
+        source: 'YouTube (arch.)',
+        description: 'Konspiracyjna rozgłośnia jako narzędzie podziemnej Solidarności',
+        year: 1982,
+      },
+      {
         id: 'podz-sol-1',
         title: 'Podziemna Solidarność – opracowania',
         type: 'publikacja',
@@ -5172,6 +5201,8 @@ Powstanie PZPR zamknęło etap „dyktatury koalicyjnej" i otworzyło etap jedno
     yearStart: 1985,
     yearEnd: 1991,
     summary: 'Michaił Gorbaczow (1931–2022) – ostatni przywódca ZSRR, inicjator reform pierestrojki (przebudowy) i głasnosti (jawności). Jego polityka, choć miała uratować socjalizm, uruchomiła procesy, które doprowadziły do upadku ZSRR i wyzwolenia Europy Środkowej spod sowieckiej dominacji, w tym Polski.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mikhail_Gorbachev_in_1987_%28cropped%29.jpg?width=800',
+    imageCaption: 'Michaił Gorbaczow w 1987 roku, u szczytu pieriestrojki',
     content: `Michaił Gorbaczow objął władzę w ZSRR w marcu 1985 roku. Od początku wiedział, że system wymaga głębokiej reformy – gospodarka była w stagnacji, technologia pozostawała daleko za Zachodem, a społeczeństwo traciło wiarę w komunizm.
 
 **Pierestrojka (przebudowa):**
@@ -5637,6 +5668,8 @@ Ten paradoks – muzyka wolności w systemie zniewolenia – jest jednym z najci
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'Przez cały okres PRL system więziennictwa był narzędziem politycznych represji. Więźniowie polityczni – żołnierze podziemia, działacze opozycji, osoby aresztowane za poglądy – trafiali do zakładów karnych, gdzie warunki i metody stosowane wobec nich były celowo upokarzające i okrutne.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mokot%C3%B3w_Prison_DSC_2381.JPG?width=800',
+    imageCaption: 'Mury aresztu przy Rakowieckiej – najbardziej znanego więzienia politycznego PRL (fot. współczesna)',
     content: `Więziennictwo w PRL służyło nie tylko izolacji przestępców, lecz przede wszystkim eliminacji i łamaniu przeciwników politycznych systemu. W szczytowym okresie stalinowskim (1944–1956) przez więzienia i obozy przeszły setki tysięcy Polaków.
 
 **Najważniejsze więzienia polityczne:**
@@ -5852,6 +5885,15 @@ W maju 1981 roku sąd zarejestrował NSZZ RI "Solidarność". Był to jeden z ni
 Po 13 grudnia 1981 roku NSZZ RI zdelegalizowano wraz z innymi strukturami Solidarności. Reaktywowano go po 1989 roku.`,
     trivia: ['Rolnicy walczyli o rejestrację związku wiele miesięcy.', 'Udało się to dopiero wiosną 1981 roku.'],
     resources: [
+      {
+        id: 'sr-film',
+        title: 'Bydgoski Marzec \'81',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=2Nnz_kkxlmU',
+        source: 'YouTube (film dok.)',
+        description: 'Pobicie działaczy Solidarności i Solidarności RI, spór o rejestrację związku rolników',
+        year: 1981,
+      },
       {
         id: 'sol-rol-1',
         title: 'Solidarność Rolnicza – archiwum ECS',
@@ -6076,6 +6118,8 @@ Kartki znoszono stopniowo: cukier w 1985 r., mięso w 1989 r. Reforma Balcerowic
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'W PRL paszport nie był prawem obywatela – był przywilejem udzielanym przez władze. MSW mogło go nie wydać, cofnąć lub zatrzymać. Wyjazd na Zachód wymagał specjalnego zezwolenia, co czyniło z podróży za granicę nagrodę lub narzędzie kontroli.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Paszport_s%C5%82u%C5%BCbowy_PRL_1974_r._ok%C5%82adka.jpg?width=800',
+    imageCaption: 'Okładka paszportu służbowego PRL z 1974 roku',
     content: `## Paszport jako narzędzie kontroli
 
 Od samego początku PRL władze traktowały swobodę podróżowania jako zagrożenie dla systemu. Paszport był dokumentem przechowywanym przez urząd – nie przez obywatela. Wydawano go na konkretną podróż i na określony czas, po czym należało go zwrócić do MSW. Posiadanie paszportu w domu (tzw. paszportu stałego) było rzadkim przywilejem.
@@ -6485,6 +6529,15 @@ Kwestia odszkodowań dla potomków wywłaszczonych właścicieli ziemskich pozos
     trivia: ['Dekret PKWN z września 1944 przejmował majątki powyżej 50 hektarów.', 'Parcelacja miała pozyskać wieś dla nowej władzy.'],
     resources: [
       {
+        id: 'rr-pkf',
+        title: 'PKF 1945 nr 13: „Ziemia dla chłopów!”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=CXL1VvEb0Es',
+        source: 'YouTube (Polska Kronika Filmowa)',
+        description: 'Propagandowa relacja z parcelacji majątków ziemskich',
+        year: 1945,
+      },
+      {
         id: 'rolna-1',
         title: 'Dekret o reformie rolnej – Dziennik Ustaw',
         type: 'akt',
@@ -6819,6 +6872,8 @@ Dla historyka PKF jest źródłem podwójnym: mówi o wydarzeniach i o sposobie,
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'PRL zbudował rozbudowany system szkolnictwa wyższego i badań naukowych – Polska Akademia Nauk, dziesiątki uczelni, instytuty badawcze. Nauka musiała służyć "budownictwu socjalizmu", lecz w naukach ścisłych osiągnięcia były autentyczne – choć wielu wybitnych naukowców emigrowało.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Polska_Akademia_Nauk.jpg?width=800',
+    imageCaption: 'Pałac Staszica w Warszawie – siedziba Polskiej Akademii Nauk',
     content: `## Odbudowa i rozbudowa
 
 Po zniszczeniach wojennych nauka polska musiała zaczynać niemal od zera. Polska Akademia Nauk (PAN) założona w 1952 r. miała koordynować badania naukowe według planu centralnego. Rozbudowywano szkoły wyższe – Politechniki, Akademie Medyczne, Akademie Ekonomiczne – otwierając je dla "dzieci klasy robotniczej i chłopskiej".
@@ -9613,6 +9668,15 @@ Destalinizacja w Polsce nie zniszczyła systemu, ale go znacząco zreformowała.
     trivia: ['Odwilż przyniosła powrót Władysława Gomułki i zwolnienie części więźniów politycznych.', 'Rozwiązano Ministerstwo Bezpieczeństwa Publicznego.'],
     resources: [
       {
+        id: 'dest-pkf',
+        title: 'Wiec na placu Defilad – wystąpienie Gomułki (1956)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=nQc9o_MmIE8',
+        source: 'YouTube (Polska Kronika Filmowa)',
+        description: 'Kronika z 24 października 1956, symboliczny początek odwilży',
+        year: 1956,
+      },
+      {
         id: 'destalin-xxzjazd',
         title: 'XX Zjazd KPZS – referat Chruszczowa',
         type: 'dokument',
@@ -9650,6 +9714,8 @@ Destalinizacja w Polsce nie zniszczyła systemu, ale go znacząco zreformowała.
     yearStart: 1892,
     yearEnd: 1948,
     summary: 'Polska Partia Socjalistyczna – historyczna partia lewicy, działająca od 1892 roku. Po wojnie PPR stopniowo przejmowała kontrolę nad PPS i eliminowała niezależne kierownictwo. W grudniu 1948 roku wymuszono "kongres zjednoczeniowy" PPS z PPR – w efekcie powstała PZPR, a PPS przestała istnieć jako niezależna siła.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/AGAD_Pierwszy_powiatowy_zjazd_PPS_w_Wieluniu.jpg?width=800',
+    imageCaption: 'Pierwszy powiatowy zjazd PPS w Wieluniu, jeszcze przed zjednoczeniem z PPR',
     content: `Polska Partia Socjalistyczna (PPS) była jedną z najstarszych i najbardziej wpływowych polskich partii politycznych. Jej likwidacja poprzez wymuszone połączenie z PPR w 1948 roku była symbolem końca pluralizmu politycznego w Polsce.
 
 **Historia PPS przed 1939**
@@ -9679,6 +9745,15 @@ Działacze PPS, którzy sprzeciwiali się połączeniu z PPR, byli usuwani z par
 Likwidacja PPS oznaczała zniszczenie pluralizmu politycznego w Polsce i zakończenie możliwości niezależnej działalności lewicy niekomunistycznej. Tradycja PPS przetrwała jednak w emigracji – paryska PPS nieprzerwanie kontynuowała działalność. Powróciła też w 1987 roku w kraju, gdy opozycja reaktywowała partię, nawiązując do historycznych korzeni.`,
     trivia: ['Po wojnie zmuszono ją do połączenia z komunistyczną PPR.', 'Działaczy niezgadzających się na fuzję represjonowano.'],
     resources: [
+      {
+        id: 'pps-pkf',
+        title: 'PKF 1948 nr 50: w przededniu zjednoczenia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=-nujECQl2nM',
+        source: 'YouTube (Polska Kronika Filmowa)',
+        description: 'Konferencje PPS i PPR wybierające delegatów na kongres zjednoczeniowy',
+        year: 1948,
+      },
       {
         id: 'pps-aan',
         title: 'Akta PPS – Archiwum Akt Nowych',
@@ -10223,6 +10298,8 @@ Liberalizacja umożliwiła import zachodnich samochodów. Rynek zalały używane
     title: 'Obozy pracy i więzienia polityczne',
     category: 'represje',
     shortDesc: 'Sieć obozów pracy i więzień politycznych w Polsce lat 1944–1956 – sowiecka metoda eliminacji opozycji.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jaworzno_camp_memorial%2C_Poland.JPG?width=800',
+    imageCaption: 'Pomnik na terenie dawnego obozu pracy w Jaworznie (fot. współczesna)',
     content: `## Obozy pracy i więzienia polityczne (1944–1956)
 
 W pierwszym dziesięcioleciu PRL (1944–1956) reżim komunistyczny stworzył rozległy system represji, obejmujący obozy pracy, więzienia polityczne i obozy filtracyjne. System ten pochłonął setki tysięcy ofiar – żołnierzy AK, działaczy PSL, duchownych, przedsiębiorców, intelektualistów i zwykłych obywateli podejrzanych o wrogość wobec władzy.
@@ -11093,6 +11170,8 @@ Polska szkoła plakatu dowodzi, że nawet w systemie totalitarnym twórczość m
     yearStart: 1972,
     yearEnd: 1981,
     summary: 'Płk Ryszard Kukliński przez niemal dekadę przekazywał CIA najtajniejsze dokumenty Układu Warszawskiego, w tym plany wprowadzenia stanu wojennego. Do dziś jest postacią sporną: zdrajca czy bohater, który ostrzegał Zachód przed sowieckim atakiem.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/P%C5%82k_Ryszard_Kukli%C5%84ski.jpg?width=800',
+    imageCaption: 'Płk Ryszard Kukliński',
     content: `## Oficer Sztabu Generalnego
 
 Ryszard Kukliński (1930–2004) był wysokim oficerem Sztabu Generalnego Wojska Polskiego, zaangażowanym w planowanie operacyjne Układu Warszawskiego. Miał dostęp do najtajniejszych dokumentów dotyczących sowieckiej strategii wojennej w Europie.
@@ -11299,6 +11378,15 @@ Na początku lat 80. PRL faktycznie stała się niewypłacalna. Stan wojenny i z
 Po 1989 r. demokratyczna Polska odziedziczyła ogromny dług PRL. Dopiero negocjacje z Klubem Paryskim i Londyńskim w pierwszej połowie lat 90. doprowadziły do redukcji znacznej jego części. Zadłużenie pozostaje jednym z najtrwalszych ekonomicznych dziedzictw PRL.`,
     trivia: ['Kredyty zaciągnięte w dekadzie Gierka miały sfinansować skok gospodarczy.', 'Ich spłata stała się jedną z przyczyn kryzysu lat 80.'],
     resources: [
+      {
+        id: 'zad-film',
+        title: 'Dlaczego Polska zbankrutowała za Gierka?',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=MueATrKaerw',
+        source: 'YouTube (film dok.)',
+        description: 'Mechanizm kredytów lat 70. i droga do niewypłacalności',
+        year: 1980,
+      },
       {
         id: 'zad-1',
         title: 'Zadłużenie zagraniczne PRL – artykuł',
@@ -11535,6 +11623,8 @@ Sprawa Przemyka stała się symbolem brutalności i bezkarności milicji w PRL. 
     tags: ['Pyjas', 'SKS', 'KOR', 'Kraków', '1977', 'student', 'opozycja'],
     yearStart: 1977,
     summary: 'Śmierć Stanisława Pyjasa, krakowskiego studenta współpracującego z KOR, w maju 1977 r. wstrząsnęła środowiskiem akademickim. Doprowadziła do powstania Studenckiego Komitetu Solidarności – pierwszej niezależnej organizacji studenckiej w PRL.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw_Pyjas_-_pomnik_w_Krakowie.jpg?width=800',
+    imageCaption: 'Pomnik Stanisława Pyjasa przy ul. Szewskiej w Krakowie, w miejscu znalezienia ciała (fot. współczesna)',
     content: `## Student i działacz
 
 Stanisław Pyjas (1953–1977) był studentem polonistyki i filozofii Uniwersytetu Jagiellońskiego, współpracownikiem Komitetu Obrony Robotników. Angażował się w pomoc represjonowanym robotnikom po wydarzeniach 1976 r. i był inwigilowany przez SB.
@@ -29794,6 +29884,8 @@ Film nie zawierał politycznych oskarżeń. Pokazywał natomiast nędzę w pańs
     yearStart: 1957,
     yearEnd: 1990,
     summary: 'Formacja kontrwywiadu i policji wojskowej, która przez ponad trzydzieści lat nadzorowała politycznie Ludowe Wojsko Polskie.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Poczet_WSW.jpg?width=800',
+    imageCaption: 'Poczet sztandarowy Wojskowej Służby Wewnętrznej',
     content: `## Powstanie
 WSW utworzono w styczniu 1957 roku w miejsce rozwiązanej Informacji Wojskowej – osławionej formacji, która w okresie stalinowskim prowadziła śledztwa w sprawach oficerów oskarżanych o spisek i odpowiadała za wymuszanie zeznań. Zmiana nazwy była elementem popaździernikowej odwilży, ale nowa służba przejęła zarówno kadry, jak i większość zadań.
 
@@ -29930,6 +30022,8 @@ Formację rozwiązano w 1965 roku, a jej zadania rozdzielono między wojska wewn
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Flota wojenna PRL, rozbudowana pod kątem operacji desantowych na Bałtyku przewidzianych w planach Układu Warszawskiego.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/ORP_B%C5%82yskawica_Gdynia.jpg?width=800',
+    imageCaption: 'ORP „Błyskawica” w Gdyni, okręt-muzeum i weteran obu epok',
     content: `## Odbudowa floty
 Po wojnie flotę odtwarzano niemal od zera, opierając się na okrętach otrzymanych ze Związku Radzieckiego oraz na jednostkach poniemieckich. Główne bazy powstały w Gdyni, Helu i Świnoujściu, a dowództwo ulokowano w Gdyni.
 
@@ -29946,6 +30040,15 @@ Marynarka zapisała się też w historii wystąpień robotniczych: w grudniu 197
       'Wyższa Szkoła Marynarki Wojennej w Gdyni należała do najtrudniej dostępnych uczelni w PRL.',
     ],
     resources: [
+      {
+        id: 'mw-pkf',
+        title: 'PKF 29/53: Dni Morza w Gdyni',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=jQ7_fRbCGMs',
+        source: 'YouTube (Polska Kronika Filmowa)',
+        description: 'Święto Morza 1953 z udziałem Bieruta i marszałka Rokossowskiego',
+        year: 1953,
+      },
       {
         id: 'marynarka-wojenna-prl-wiki',
         title: 'Marynarka Wojenna PRL – artykuł',
@@ -30023,6 +30126,8 @@ Dopiero w 1989 roku władze PRL oficjalnie potępiły udział w interwencji.`,
     yearStart: 1962,
     yearEnd: 1989,
     summary: 'Masowa organizacja szkolenia obronnego, przez którą przeszły miliony Polaków – od kursów strzeleckich po prawo jazdy.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Katowice%2C_Liga_Obrony_Kraju_-_Oddzia%C5%82_Zarz%C4%85du_G%C5%82%C3%B3wnego_w_Katowicach_-_fotopolska.eu_%28320124%29.jpg?width=800',
+    imageCaption: 'Siedziba katowickiego oddziału Ligi Obrony Kraju',
     content: `## Czym była LOK
 Ligę Obrony Kraju powołano w 1962 roku, łącząc wcześniejsze organizacje przysposobienia wojskowego. Jej zadaniem było przygotowanie obywateli do służby i obrony – w praktyce prowadziła jednak ogromną sieć kursów i sekcji, z których wiele miało charakter czysto użytkowy albo sportowy.
 
@@ -30067,6 +30172,8 @@ Organizacja przetrwała transformację, tracąc jednak masowy charakter i więks
     yearStart: 1962,
     yearEnd: 1990,
     summary: 'Odrębny rodzaj sił zbrojnych odpowiadający za lotnictwo myśliwskie, radiolokację i rakiety przeciwlotnicze.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Polish_Air_Force_Mikoyan-Gurevich_MiG-21bis_Czestochowa_Idaszak.jpg?width=800',
+    imageCaption: 'MiG-21bis – podstawowy myśliwiec Wojsk Obrony Powietrznej Kraju',
     content: `## Struktura
 WOPK wyodrębniono w 1962 roku jako osobny rodzaj sił zbrojnych, obok wojsk lądowych, lotnictwa operacyjnego i marynarki. Tworzyły je pułki lotnictwa myśliwskiego, jednostki rakietowe, artyleria przeciwlotnicza oraz rozbudowany system radiolokacyjny.
 
@@ -30127,6 +30234,15 @@ Dekada Gierka opierała się na zakupach licencji i linii produkcyjnych za kredy
       'Producent w PRL zwykle nie wiedział, kto za granicą kupuje jego wyroby – kontakt utrzymywała centrala handlu zagranicznego.',
     ],
     resources: [
+      {
+        id: 'hz-pkf',
+        title: 'PKF 1963 nr 25A: XXII Międzynarodowe Targi Poznańskie',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=mbvRLhLIfh4',
+        source: 'YouTube (Polska Kronika Filmowa)',
+        description: 'Polskie maszyny i obrabiarki jako towar eksportowy na targach',
+        year: 1963,
+      },
       {
         id: 'handel-zagraniczny-prl-wiki',
         title: 'Handel zagraniczny PRL – artykuł',
@@ -30299,6 +30415,8 @@ Mimo to spółdzielczość była elementem gospodarki najbliższym drobnej przed
     yearStart: 1982,
     yearEnd: 1989,
     summary: 'Organizacja powołana po delegalizacji Solidarności, mająca stworzyć wrażenie szerokiego poparcia społecznego dla władzy.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wpinka_PRON.jpg?width=800',
+    imageCaption: 'Wpinka Patriotycznego Ruchu Odrodzenia Narodowego',
     content: `## Po co powstał
 PRON utworzono w 1982 roku, w czasie stanu wojennego, w miejsce dawnego Frontu Jedności Narodu. Miał być platformą „porozumienia narodowego” skupiającą PZPR, stronnictwa satelickie, organizacje katolickie i osoby bezpartyjne.
 
@@ -30759,6 +30877,8 @@ Poczdam domknął to, co zaczęto w Jałcie: Polska otrzymała nowe granice i zn
     yearStart: 1945,
     yearEnd: 1949,
     summary: 'Urząd kierujący odbudową gospodarki w latach 1945–1949, rozbity wraz z odejściem od koncepcji gospodarki trójsektorowej.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Czes%C5%82aw_Bobrowski.jpg?width=800',
+    imageCaption: 'Czesław Bobrowski, twórca i szef Centralnego Urzędu Planowania',
     content: `## Powstanie
 Centralny Urząd Planowania powołano w 1945 roku, by pokierować odbudową kraju. Jego przewodniczącym został ekonomista Czesław Bobrowski, związany z PPS. Urząd przygotował plan trzyletni na lata 1947–1949, nastawiony na odbudowę i podniesienie poziomu życia, a nie na forsowną industrializację.
 
