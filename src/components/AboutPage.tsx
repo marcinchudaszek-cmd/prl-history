@@ -6,7 +6,7 @@ export default function AboutPage({ onNavigate }: AboutPageProps) {
   const completedFeatures = [
     { icon: '📇', title: 'Baza blisko 500 haseł', desc: 'Hasła z rozbudowanymi opisami, ilustracjami, kronikami filmowymi i sprawdzonymi linkami do źródeł' },
     { icon: '🔍', title: 'Wyszukiwarka encyklopedii', desc: 'Przeszukiwanie haseł, tagów i opisów w całej bazie wiedzy' },
-    { icon: '🕰️', title: 'Oś czasu wydarzeń', desc: 'Interaktywna chronologia 1944–1990 z filtrowaniem po dekadach i kategoriach' },
+    { icon: '🕰️', title: 'Oś czasu wydarzeń', desc: 'Interaktywna chronologia 1944–1990 z filtrowaniem po dekadach i kategoriach, z datami dziennymi lat przełomowych (1956, 1970–71, 1980–81, 1989)' },
     { icon: '🗺️', title: 'Interaktywna mapa PRL', desc: 'Miejsca represji, strajków, ośrodków oporu i kultury na mapie Polski' },
     { icon: '👤', title: 'Biogramy postaci', desc: 'Profile przywódców, dysydentów, twórców i ofiar systemu, pogrupowane tematycznie' },
     { icon: '🏚️', title: 'Słownik slangu PRL', desc: '„Kombinowanie”, „cinkciarz”, „teczka”, „ścieżka zdrowia” – język epoki z wyjaśnieniami' },
