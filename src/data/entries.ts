@@ -5886,6 +5886,15 @@ Po 13 grudnia 1981 roku NSZZ RI zdelegalizowano wraz z innymi strukturami Solida
     trivia: ['Rolnicy walczyli o rejestrację związku wiele miesięcy.', 'Udało się to dopiero wiosną 1981 roku.'],
     resources: [
       {
+        id: 'sr-film2',
+        title: 'NSZZ Rolników Indywidualnych „Solidarność”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=-dOkDEoDCbc',
+        source: 'YouTube (arch.)',
+        description: 'Historia związku od rejestracji w 1981 roku',
+        year: 1981,
+      },
+      {
         id: 'sr-film',
         title: 'Bydgoski Marzec \'81',
         type: 'nagranie',
@@ -7122,6 +7131,8 @@ Stan wojenny 1981 r. zakończył nurt – część twórców wyemigrowała (Holl
     yearStart: 1939,
     yearEnd: 1989,
     summary: 'Polska emigracja na Zachodzie – od żołnierzy Andersa po uciekinierów stanu wojennego – tworzyła żywą diasporę zachowującą kulturę i język. Polonia w USA (Chicago, Nowy Jork), Wielkiej Brytanii i Francji wspierała kraj finansowo, politycznie i kulturalnie.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/The_Polish_Institute_and_Sikorski_Museum_%2824054354201%29.jpg?width=800',
+    imageCaption: 'Instytut Polski i Muzeum im. gen. Sikorskiego w Londynie – archiwum emigracji (fot. współczesna)',
     content: `## Fale emigracji
 
 Polska diaspora zachodnia tworzyła się w kilku falach:
@@ -7265,6 +7276,15 @@ Kwestia TW do dziś dzieli polskie społeczeństwo. Jedni domagają się pełneg
     trivia: ['Współpracowników rejestrowano pod pseudonimami, a akta prowadzono w teczkach.', 'Zachowane materiały trafiły po 1989 roku do archiwum IPN.'],
     resources: [
       {
+        id: 'tw-film',
+        title: '„Trzech kumpli” (2008)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=mQ6QXcL6ZfE',
+        source: 'YouTube (TVP)',
+        description: 'Film Anny Ferens i Ewy Stankiewicz o Pyjasie, Wildsteinie i tajnym współpracowniku Maleszce',
+        year: 2008,
+      },
+      {
         id: 'tw-1',
         title: 'Tajni współpracownicy SB – opracowania',
         type: 'publikacja',
@@ -7311,6 +7331,8 @@ Kwestia TW do dziś dzieli polskie społeczeństwo. Jedni domagają się pełneg
     yearStart: 1939,
     yearEnd: 1956,
     summary: 'W latach 1940–1941 sowieckie NKWD deportowało w głąb ZSRR setki tysięcy Polaków z Kresów Wschodnich – oficerów, policjantów, urzędników, nauczycieli i ich rodziny. Zsyłki na Sybir, do Kazachstanu i Azji Środkowej pochłonęły dziesiątki tysięcy ofiar.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/W_ho%C5%82dzie_zes%C5%82a%C5%84com_Sybiru_-_002.JPG?width=800',
+    imageCaption: 'Pomnik zesłańcom Sybiru (fot. współczesna)',
     content: `## Kontekst: sowiecka okupacja Kresów
 
 17 września 1939 r. ZSRR zaatakował Polskę od wschodu. Kresy Wschodnie (wschodnia Polska z Lwowem, Wilnem, Pińskiem) znalazły się pod sowiecką okupacją. NKWD przystąpiło do systematycznej likwidacji polskich elit i struktur państwowych.
@@ -8173,6 +8195,15 @@ Część akt wywiadu PRL zniszczono przed przekazaniem do IPN. Zachowane dokumen
     trivia: ['Wywiad cywilny działał w I Departamencie MSW.', 'Kontrwywiad tropił przede wszystkim kontakty obywateli z Zachodem.'],
     resources: [
       {
+        id: 'wyw-film',
+        title: 'Wywiad cywilny Polski Ludowej – rozmowa z Witoldem Bagieńskim',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=-m2wYbaXTn8',
+        source: 'YouTube (IPN)',
+        description: 'Historyk IPN o zadaniach i strukturze cywilnego wywiadu PRL',
+        year: 2024,
+      },
+      {
         id: 'wywiad-1',
         title: 'Wywiad i kontrwywiad PRL – zdjęcia i grafiki',
         type: 'zdjęcie',
@@ -8851,6 +8882,8 @@ Polska szkoła filmowa umieściła kino polskie na mapie kinematografii światow
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'Literatura polska PRL wydała wybitnych twórców, którzy pisali wbrew lub obok cenzury: absurdysta Sławomir Mrożek, poeta Tadeusz Różewicz, prozaik Tadeusz Konwicki, kronikarz Miron Białoszewski. Każdy z nich stworzył dzieła trwałe – i każdy musiał liczyć się z systemem.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Warszawa%2C_ul._Krakowskie_Przedmie%C5%9Bcie_87%2C_89_20170516_003.jpg?width=800',
+    imageCaption: 'Dom Literatury przy Krakowskim Przedmieściu, siedziba Związku Literatów Polskich (fot. współczesna)',
     content: `## Związek Literatów Polskich i cenzura
 
 Związek Literatów Polskich (ZLP) był oficjalną organizacją pisarzy, przez którą partia starała się kontrolować środowisko. Przynależność dawała przywileje (dostęp do domów twórczych, wczasów, stypendiów); wyrzucenie z ZLP oznaczało utratę możliwości publikacji. Cenzura przeczesywała każdy manuskrypt.
@@ -9110,6 +9143,8 @@ Telewizja PRL odcisnęła trwały ślad w kulturze polskiej. Seriale, dziecięce
     yearStart: 1944,
     yearEnd: 1956,
     summary: 'Lata stalinowskie (1944–1956) były okresem masowych represji, tortur i egzekucji sądowych. UB aresztowało dziesiątki tysięcy żołnierzy AK, działaczy PSL i opozycjonistów. Procesy pokazowe służyły eliminacji politycznych przeciwników i zastraszeniu społeczeństwa.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/%C5%81_Quarter_at_Military_Cemetery_in_Warsaw_%282023%29.jpg?width=800',
+    imageCaption: 'Kwatera „na Łączce” na Powązkach Wojskowych, miejsce potajemnych pochówków ofiar (fot. współczesna)',
     content: `Stalinizm w Polsce (1944–1956) oznaczał brutalną sowietyzację kraju połączoną z masowym terrorem wymierzonym w rzeczywistych i wyobrażonych przeciwników nowej władzy.
 
 **Skala represji**
@@ -9946,6 +9981,8 @@ Reformy były ograniczone. Zamknięcie "Po prostu" w 1957, powolne przywracanie 
     yearStart: 1956,
     yearEnd: 1989,
     summary: 'Służba Bezpieczeństwa PRL stosowała wyrafinowane metody kontroli społeczeństwa: werbowanie tajnych współpracowników, podsłuchy telefoniczne, dezinformację, "kombinacje operacyjne" rozkładające środowiska opozycyjne. W szczytowym okresie (lata 80.) posiadała dziesiątki tysięcy agentów.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Muzeum_%C5%BBo%C5%82nierzy_Wykl%C4%99tych_i_Wi%C4%99%C5%BAni%C3%B3w_Politycznych_PRL_2026a.jpg?width=800',
+    imageCaption: 'Muzeum Żołnierzy Wyklętych i Więźniów Politycznych PRL w dawnym więzieniu przy Rakowieckiej',
     content: `Służba Bezpieczeństwa (SB) – następczyni Urzędu Bezpieczeństwa (UB) – była fundamentem utrzymania władzy komunistycznej w Polsce. Po 1956 roku zrezygnowała z masowych egzekucji, ale rozwinęła niezwykle rozbudowany system inwigilacji i kontroli społecznej.
 
 **Struktura i skala**
@@ -11424,6 +11461,8 @@ Po 1989 r. demokratyczna Polska odziedziczyła ogromny dług PRL. Dopiero negocj
     yearStart: 1977,
     yearEnd: 1981,
     summary: 'ROPCiO był jedną z pierwszych jawnych organizacji opozycyjnych w PRL. Powołując się na podpisane przez PRL akty o prawach człowieka, działacze otwarcie domagali się ich przestrzegania, torując drogę szerszemu ruchowi przedsierpniowemu.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Leszek_Moczulski_1978_1980.jpg?width=800',
+    imageCaption: 'Leszek Moczulski, współzałożyciel ROPCiO, na przełomie lat 70. i 80.',
     content: `## Geneza
 
 Ruch Obrony Praw Człowieka i Obywatela powstał w marcu 1977 r., w atmosferze ożywienia opozycji po represjach 1976 r. i powstaniu KOR. Inspiracją był Akt Końcowy KBWE z Helsinek (1975), w którym PRL zobowiązała się do przestrzegania praw człowieka.
@@ -30191,6 +30230,15 @@ Dla mieszkańców okolic lotnisk wojskowych obecność WOPK oznaczała hałas i 
     ],
     resources: [
       {
+        id: 'wopk-film',
+        title: 'Defilada Tysiąclecia, Warszawa 22 lipca 1966',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=_eGNLf3KUUQ',
+        source: 'YouTube (arch.)',
+        description: 'Przelot lotnictwa wojskowego nad Warszawą w pełnej, oryginalnej wersji',
+        year: 1966,
+      },
+      {
         id: 'wopk-wiki',
         title: 'Wojska Obrony Powietrznej Kraju – artykuł',
         type: 'publikacja',
@@ -30271,6 +30319,8 @@ Dekada Gierka opierała się na zakupach licencji i linii produkcyjnych za kredy
     yearStart: 1956,
     yearEnd: 1988,
     summary: 'Urząd, który układał plany pięcioletnie i rozdzielał surowce, maszyny oraz limity inwestycyjne między resorty i zakłady.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Warszawa_-_plac_Trzech_Krzy%C5%BCy_3_-_ZJ001.jpg?width=800',
+    imageCaption: 'Gmach przy placu Trzech Krzyży, siedziba Komisji Planowania przy Radzie Ministrów',
     content: `## Rola
 Komisja Planowania, następczyni Państwowej Komisji Planowania Gospodarczego, była instytucją, w której powstawał plan – dokument określający, ile czego ma zostać wyprodukowane, komu przydzielić stal, cement czy dewizy i które inwestycje ruszą.
 
@@ -30515,6 +30565,8 @@ Rada Państwa została zniesiona w 1989 roku, wraz z przywróceniem urzędu prez
     yearStart: 1950,
     yearEnd: 1989,
     summary: 'Instytucja stworzona do administracyjnej kontroli życia religijnego – od zgód na budowę kościołów po obsadę stanowisk duchownych.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jerzy_Kuberski.jpg?width=800',
+    imageCaption: 'Jerzy Kuberski, kierownik Urzędu do Spraw Wyznań w latach 1980–1982',
     content: `## Powstanie
 Urząd powołano w 1950 roku, w okresie narastającego konfliktu państwa z Kościołem. Formalnie miał zajmować się stosunkami wyznaniowymi, w praktyce stał się narzędziem nadzoru nad duchowieństwem i parafiami.
 
@@ -30559,6 +30611,8 @@ Odmowy zgód budowlanych stały się jednym z najczęstszych zarzewi lokalnych k
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'Przegląd szefów rządu PRL i realnej roli premiera w państwie, w którym decyzje zapadały w partii, a nie w Radzie Ministrów.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Cyrankiewicz.jpg?width=800',
+    imageCaption: 'Józef Cyrankiewicz, premier przez blisko dwadzieścia lat PRL',
     content: `## Pozycja urzędu
 W ustroju PRL premier kierował administracją i gospodarką, ale nie był najważniejszą osobą w państwie. Kierunek polityki wyznaczało Biuro Polityczne PZPR z I sekretarzem na czele, a rząd wykonywał jego uchwały. Premier bywał więc raczej zarządcą niż przywódcą.
 
@@ -30741,6 +30795,8 @@ Rząd przetrwał do wyborów w styczniu 1947 roku. Były to półtora roku naras
     yearStart: 1940,
     yearEnd: 1945,
     summary: 'Tajny naczelny organ władzy cywilnej w okupowanej Polsce, podległy rządowi na uchodźstwie i kierujący cywilnym pionem Polskiego Państwa Podziemnego.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Stanis%C5%82aw_Jankowski.png?width=800',
+    imageCaption: 'Jan Stanisław Jankowski, Delegat Rządu na Kraj, sądzony w procesie szesnastu',
     content: `## Zadania
 Delegaturę utworzono w 1940 roku jako tajną administrację cywilną podległą rządowi RP na uchodźstwie. Miała utrzymać ciągłość instytucji państwowych, przygotować przejęcie władzy po wojnie, dokumentować zbrodnie okupanta oraz chronić dobra kultury. Dzieliła się na departamenty odpowiadające przedwojennym ministerstwom.
 
@@ -32533,6 +32589,8 @@ Prasa PRL miała wyraźną hierarchię: organy centralne partii wykładały lini
     yearStart: 1947,
     yearEnd: 1989,
     summary: 'Jedyny w bloku wschodnim ogólnokrajowy dziennik katolicki, wydawany od 1947 roku przez środowisko Bolesława Piaseckiego.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wywiad_-_S%C5%82owo_Powszechne_16.03.1989.jpg?width=800',
+    imageCaption: 'Kolumna „Słowa Powszechnego” z 16 marca 1989 roku',
     content: `## Ewenement
 „Słowo Powszechne” było jedynym w krajach socjalistycznych codziennym pismem katolickim o zasięgu ogólnokrajowym. Wychodziło od 1947 roku i przetrwało do 1997.
 
@@ -32593,6 +32651,15 @@ Historia pisma pokazuje rytm, który w PRL powtarzał się kilkakrotnie: odwilż
       'Tygodniki społeczno-kulturalne były jedynym miejscem realnej dyskusji – i dlatego zamykano je jako pierwsze.',
     ],
     resources: [
+      {
+        id: 'pk-film',
+        title: 'Życie literackie PRL – cykl „Kulisy historii”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Zhv2Phf-XBY',
+        source: 'YouTube (IPN)',
+        description: 'O roli pism literackich i pozycji pisarzy w PRL',
+        year: 2023,
+      },
       {
         id: 'przeglad-kulturalny-wiki',
         title: '„Przegląd Kulturalny” – artykuł',
@@ -32665,6 +32732,8 @@ Dla dzisiejszego czytelnika roczniki takiej gazety są zapisem codzienności: ce
     yearStart: 1956,
     yearEnd: 1989,
     summary: 'Czasopismo prawnicze wydawane od 1956 roku, organ Zrzeszenia Prawników Polskich; powstało w atmosferze popaździernikowej odwilży.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz_K%C4%85kol_w_latach_60.jpg?width=800',
+    imageCaption: 'Kazimierz Kąkol, redaktor naczelny „Prawa i Życia”',
     content: `## Rok powstania
 „Prawo i Życie” zaczęło wychodzić w 1956 roku – w momencie, gdy odwilż otwierała pole do rozmowy o praworządności po okresie procesów politycznych i wymuszanych zeznań. Do 1973 roku był to dwutygodnik, później tygodnik.
 
