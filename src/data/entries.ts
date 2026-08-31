@@ -24529,7 +24529,7 @@ Obraz otrzymał nominację do Oscara i był jedną z największych polskich prod
     tags: ['film', 'kino', 'polska szkoła filmowa', 'wojna'],
     yearStart: 1958,
     summary: 'Arcydzieło polskiej szkoły filmowej (1958, reż. Andrzej Wajda) z ikoniczną rolą Zbigniewa Cybulskiego jako Maćka Chełmickiego.',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zbigniew%20cybulski%20popi%C3%B3%C5%82%20i%20diament.jpg?width=800',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zbigniew_Cybulski_w_filmie_Popi%C3%B3%C5%82_i_diament_%281958%29_1.jpg?width=800',
     imageCaption: 'Popiół i diament',
     content: `## Film
 „Popiół i diament” Andrzeja Wajdy z 1958 roku powstał na podstawie powieści Jerzego Andrzejewskiego. Akcja toczy się 8 maja 1945 roku – w dniu zakończenia wojny w Europie, gdy dla bohaterów zaczyna się zupełnie nowy konflikt.
@@ -29970,7 +29970,7 @@ Film nie zawierał politycznych oskarżeń. Pokazywał natomiast nędzę w pańs
         id: 'ks3-wiki',
         title: 'Kobieta samotna – artykuł',
         type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Kobieta_samotna',
+        url: 'https://pl.wikipedia.org/wiki/Kobieta_samotna_(film_1981)',
         source: 'Wikipedia',
         description: 'Hasło encyklopedyczne o filmie.',
       },
