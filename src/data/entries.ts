@@ -13477,19 +13477,19 @@ Dżem to jeden z filarów polskiego blues-rocka, a Ryszard Riedel pozostaje kult
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/TSA_%282008%29.jpg?width=800',
     imageCaption: 'TSA',
     content: `## Powstanie
-TSA powstała w 1979 roku w Opolu. Zespół wprowadził na polską scenę ciężkie, hardrockowe i heavymetalowe brzmienie, którego wcześniej brakowało.
+TSA powstała w 1979 roku w Opolu. Skrót rozwijano żartobliwie na kilka sposobów; zespół wprowadził na polską scenę ciężkie brzmienie hardrockowe i heavymetalowe, którego wcześniej praktycznie nie było. W 1980 roku dołączył do składu wokalista Marek Piekarczyk.
 
-## Marek Piekarczyk
-Wokalista Marek Piekarczyk wyróżniał się wysokim, mocnym głosem. TSA szybko zyskała grono oddanych fanów, a koncerty zespołu należały do najbardziej energetycznych w kraju.
+## Brzmienie i teksty
+Wysoki, przenikliwy głos Piekarczyka i gitarowe riffy Andrzeja Nowaka dały grupie rozpoznawalne brzmienie. Teksty – „Mass media”, „Bez podtekstów”, „51”, „Trzy zapałki” – mówiły o manipulacji, przemocy i zniewoleniu; w latach 80. słuchano ich jako komentarza do rzeczywistości.
 
-## Przeboje
-Najbardziej znane utwory to „Mass media”, „Bez podtekstów”, „51”. Teksty często odnosiły się do rzeczywistości społecznej i manipulacji medialnej.
+## Jarocin i koncerty
+TSA grała na festiwalu w Jarocinie i w klubach studenckich, gdzie rodziła się cała polska scena rockowa dekady. Koncerty należały do najgłośniejszych i najbardziej energetycznych w kraju, a płyta „TSA” z 1982 roku rozeszła się w nakładzie liczonym w setkach tysięcy.
 
-## Sukcesy
-TSA zdobywała nagrody na festiwalach i koncertowała także za granicą, w tym w Stanach Zjednoczonych, co było rzadkością dla polskiego zespołu w latach 80.
+## Za granicą
+Zespół koncertował w krajach bloku wschodniego, a także w Stanach Zjednoczonych – rzadkość dla polskiej grupy rockowej tamtych lat i przedmiot artykułów w prasie muzycznej.
 
 ## Znaczenie
-TSA to pionier polskiego heavy metalu, który otworzył drogę kolejnym zespołom tego nurtu i pozostaje klasyką gatunku.`,
+TSA otworzyła drogę kolejnym zespołom metalowym w Polsce i pozostaje klasyką gatunku; jej utwory z lat 80. wciąż są grane na koncertach i rozpoznawane przez publiczność młodszą o dwa pokolenia.`,
     trivia: ['Wokalistą był Marek Piekarczyk.', 'To jeden z pierwszych polskich zespołów heavy metalowych.'],
     resources: [
       {
@@ -15227,19 +15227,19 @@ Kabaret był pod stałą obserwacją, a programy ścierały się z cenzurą. W s
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zenon_laskowik.jpg?width=800',
     imageCaption: 'Kabaret Tey',
     content: `## Powstanie
-Kabaret Tey powstał w 1971 roku w Poznaniu, wyrastając ze środowiska studenckiego kabaretu Tey. Jego filarami byli Zenon Laskowik i Bohdan Smoleń.
+Kabaret Tey powstał w 1971 roku w Poznaniu, wyrastając ze środowiska studenckiego. Jego twarzą był Zenon Laskowik, a od połowy lat 70. również Bohdan Smoleń, który stworzył postać Hadziuka – wiejskiego cwaniaka mówiącego gwarą.
 
 ## Duet
-Kontrast między intelektualnym, ironicznym Laskowikiem a rubasznym, ludowym Smoleniem („Hadziukiem”) tworzył niepowtarzalny humor, który podbił całą Polskę.
+Kontrast między inteligenckim, ironicznym Laskowikiem a rubasznym Smoleniem był motorem całego kabaretu. Ich programy – m.in. „Z tyłu sklepu” i „Ten wredny rok 1981” – łączyły absurd z bardzo konkretnymi obserwacjami z kolejki, urzędu i zebrania.
 
-## Satyra
-Programy Tey celnie wyśmiewały absurdy systemu, propagandę i codzienne bolączki PRL. Skecze i piosenki wchodziły między ludźmi, cytowane i powtarzane.
+## Satyra i cenzura
+Teksty Tey przechodziły przez cenzurę na granicy dopuszczalności; część skeczy zdejmowano, część funkcjonowała wyłącznie na koncertach, bez rejestracji telewizyjnej. Publiczność wychwytywała aluzje szybciej niż urzędnicy, a widownie liczyły po kilka tysięcy osób.
 
-## Popularność
-Dzięki występom telewizyjnym i estradowym kabaret zyskał masową widownię. W okresie stanu wojennego, jak wielu artystów, mierzył się z ograniczeniami.
+## Stan wojenny
+Po 13 grudnia 1981 roku działalność estradowa została ograniczona, a Laskowik na kilka lat wycofał się z występów. Kabaret w dawnym kształcie już się nie odbudował, choć obaj artyści wracali później osobno.
 
 ## Znaczenie
-Kabaret Tey to klasyka polskiej satyry – obok „Pod Egidą” i kabaretu Olgi Lipińskiej współtworzył złoty wiek humoru epoki PRL.`,
+Obok „Pod Egidą” Jana Pietrzaka i kabaretu Olgi Lipińskiej, Tey współtworzył złoty okres polskiej satyry. Powiedzenia Hadziuka weszły do języka potocznego i są cytowane do dziś.`,
     trivia: ['Tworzyli go Zenon Laskowik i Bohdan Smoleń.', 'Poznański kabaret słynął z aluzji, które rozumiała cała sala.'],
     resources: [
       {
@@ -15289,19 +15289,19 @@ Kabaret Tey to klasyka polskiej satyry – obok „Pod Egidą” i kabaretu Olgi
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Warszawa-Stadion_Dziesieciolecia-2006.jpg?width=800',
     imageCaption: 'Stadion Dziesięciolecia',
     content: `## Budowa
-Stadion Dziesięciolecia otwarto w 1955 roku z okazji dziesięciolecia PRL. Wzniesiono go częściowo z gruzów zniszczonej wojną Warszawy, na prawym brzegu Wisły.
+Stadion Dziesięciolecia otwarto 22 lipca 1955 roku, w rocznicę manifestu PKWN. Nasyp usypano z gruzu zburzonej Warszawy, zwożonego na prawy brzeg Wisły; obiekt mieścił ponad siedemdziesiąt tysięcy widzów i był największym w kraju.
 
 ## Imprezy masowe
-Stadion był areną dożynek centralnych, defilad, wieców propagandowych, zawodów sportowych i koncertów. Miał być wizytówką osiągnięć Polski Ludowej.
+Odbywały się tu dożynki centralne, wiece, zawody lekkoatletyczne, mecze i zloty młodzieżowe. Stadion miał być wizytówką Polski Ludowej – miejscem, w którym państwo pokazywało samo sobie własną sprawność organizacyjną.
 
 ## Protest Ryszarda Siwca
-To właśnie tu, podczas dożynek w 1968 roku, Ryszard Siwiec dokonał samospalenia w proteście przeciw inwazji na Czechosłowację – akt na długo przemilczany przez władze.
+8 września 1968 roku, podczas dożynek oglądanych przez stutysięczny tłum i kierownictwo partii, Ryszard Siwiec oblał się rozpuszczalnikiem i podpalił w proteście przeciw udziałowi Wojska Polskiego w inwazji na Czechosłowację. Zmarł cztery dni później. Sprawę zatuszowano, a nagranie z kroniki filmowej ukryto w archiwum na ponad dwadzieścia lat.
 
 ## Schyłek
-W latach 80. stadion popadał w ruinę. Po 1989 roku stał się słynnym targowiskiem „Jarmark Europa”, a w XXI wieku w jego miejscu zbudowano Stadion Narodowy.
+Od lat 70. obiekt niszczał, w latach 80. wyłączono go z użytku. Po 1989 roku na jego płycie i nasypach powstał Jarmark Europa – największe targowisko Europy Środkowej, z tysiącami stoisk i obrotem liczonym w miliardach.
 
 ## Znaczenie
-Dzieje stadionu odzwierciedlają losy PRL – od propagandowej dumy, przez codzienność i protest, po schyłek systemu.`,
+Rozebrany w 2008 roku, ustąpił miejsca Stadionowi Narodowemu, otwartemu w 2012. Jego historia – od gruzu przez propagandowe święta i samospalenie po bazar – układa się w skrót dziejów całej epoki.`,
     trivia: ['Zbudowano go z gruzów zniszczonej Warszawy.', 'To tu w 1968 roku samospalił się Ryszard Siwiec.'],
     resources: [
       {
@@ -15584,7 +15584,7 @@ Gustaw Holoubek (1923–2008) był jednym z najwybitniejszych polskich aktorów,
 Grał Gustawa-Konrada w „Dziadach” Adama Mickiewicza w reżyserii Kazimierza Dejmka. Zdjęcie spektaklu w 1968 roku, odebrane jako cenzura treści patriotycznych, wywołało studenckie protesty Marca '68.
 
 ## Teatr
-Holoubek był legendą polskiego teatru – kreował role w dramatach klasycznych i współczesnych, słynął z интelektualnej interpretacji i niepowtarzalnego głosu.
+Holoubek był legendą polskiego teatru – kreował role w dramatach klasycznych i współczesnych, słynął z intelektualnej interpretacji i niepowtarzalnego głosu.
 
 ## Film i telewizja
 Występował w filmach i Teatrze Telewizji, docierając do masowej widowni. Jego role pozostają wzorcem aktorskiego kunsztu.
@@ -18925,19 +18925,19 @@ Po latach Fieldorfa zrehabilitowano, a jego kaci byli ścigani. Generał „Nil�
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Danuta_Siedzikowna_Sopot.jpg?width=800',
     imageCaption: 'Danuta Siedzikówna „Inka”',
     content: `## Sylwetka
-Danuta Siedzikówna „Inka” (1928–1946) była sanitariuszką w oddziałach antykomunistycznego podziemia na Pomorzu, związaną z 5. Wileńską Brygadą AK majora „Łupaszki”.
+Danuta Siedzikówna „Inka” (1928–1946) pochodziła z Guszczewiny na Podlasiu. Jej ojciec zginął po zesłaniu w głąb ZSRR, matkę zamordowało gestapo. Jako nastolatka złożyła przysięgę AK, przeszła kurs sanitarny i trafiła do oddziałów 5. Wileńskiej Brygady majora Zygmunta Szendzielarza „Łupaszki”.
 
 ## Aresztowanie
-W 1946 roku, mając zaledwie 17 lat, została aresztowana przez UB w Gdańsku. W śledztwie torturowano ją, lecz nie wydała towarzyszy broni.
+Wysłana po zaopatrzenie medyczne do Gdańska, została aresztowana 20 lipca 1946 roku w wyniku donosu. Miała siedemnaście lat. W śledztwie w gdańskim więzieniu przy Kurkowej była bita i zastraszana, ale nikogo nie wydała.
 
 ## Proces i wyrok
-W pokazowym procesie skazano ją na karę śmierci. Mimo młodego wieku władze nie skorzystały z prawa łaski.
+Wojskowy Sąd Rejonowy w Gdańsku skazał ją 3 sierpnia 1946 roku na karę śmierci w procesie trwającym kilka godzin. Obrońca wnosił o łaskę, Bolesław Bierut jej nie udzielił. Wyrok wykonano 28 sierpnia 1946 roku, razem z Feliksem Selmanowiczem „Zagończykiem”; pluton egzekucyjny spudłował, dobił ją dowódca.
 
 ## „Zachowałam się jak trzeba”
-Przed egzekucją w grypsie napisała słynne słowa: „powiedzcie mojej babci, że zachowałam się jak trzeba”. Została rozstrzelana w więzieniu w Gdańsku.
+W grypsie przemyconym z więzienia napisała do sióstr Mikołajewskich: „powiedzcie mojej babci, że zachowałam się jak trzeba”. Zdanie to stało się najczęściej cytowanym zapisem z całej historii powojennego podziemia.
 
 ## Pamięć
-Długo poszukiwano jej szczątków, odnalezionych po latach. „Inka” stała się symbolem heroizmu i tragedii najmłodszego pokolenia żołnierzy wyklętych.`,
+Miejsce pochówku ukryto. Szczątki odnaleziono dopiero we wrześniu 2014 roku podczas prac ekshumacyjnych na cmentarzu garnizonowym w Gdańsku i zidentyfikowano badaniami genetycznymi. Pogrzeb państwowy odbył się w 2016 roku.`,
     trivia: ['Sanitariuszkę podziemia stracono, gdy miała siedemnaście lat.', 'W grypsie napisała, że zachowała się jak trzeba.'],
     resources: [
       {
@@ -20909,19 +20909,19 @@ Kutz to klasyk polskiego kina i najważniejszy artystyczny ambasador Śląska �
     yearEnd: 1980,
     summary: 'Najskuteczniejszy strzelec w historii reprezentacji i jego Górnik Zabrze – wielokrotny mistrz Polski i finalista europejskiego pucharu w 1970 roku.',
     content: `## Górnik Zabrze
-Górnik Zabrze był najsilniejszym polskim klubem lat 60. – zdobywał mistrzostwo Polski wielokrotnie z rzędu, a jego mecze gromadziły dziesiątki tysięcy kibiców.
+Górnik był najsilniejszym polskim klubem lat 60. – mistrzostwo zdobywał seryjnie od 1963 roku, a mecze na stadionie przy Roosevelta gromadziły dziesiątki tysięcy widzów. Klub wyrastał z górniczego zaplecza Zabrza i był traktowany jak duma całego Śląska.
 
 ## Finał 1970
-Największym sukcesem klubu był finał Pucharu Zdobywców Pucharów w 1970 roku (porażka z Manchesterem City) – pierwszy europejski finał polskiej drużyny klubowej.
+W 1970 roku Górnik dotarł do finału Pucharu Zdobywców Pucharów, gdzie w Wiedniu przegrał 1:2 z Manchesterem City. Był to pierwszy europejski finał polskiej drużyny klubowej i przez dekady pozostawał jej najlepszym wynikiem.
 
 ## Włodzimierz Lubański
-Gwiazdą Górnika był Włodzimierz Lubański (ur. 1947) – fenomenalny napastnik, najmłodszy debiutant i przez dekady najskuteczniejszy strzelec reprezentacji Polski (48 goli).
+Włodzimierz Lubański (ur. 1947) zadebiutował w reprezentacji w wieku szesnastu lat i przez ponad trzydzieści lat pozostawał jej najskuteczniejszym strzelcem – 48 bramek w 75 meczach. Był napastnikiem szybkim, wykańczającym akcje bez zbędnych zagrań.
 
 ## Kontuzja
-Ciężka kontuzja w meczu z Anglią (1973) wykluczyła go z mundialu 1974. Mimo to wrócił do gry i występował z powodzeniem w Belgii.
+6 czerwca 1973 roku, w wygranym 2:0 meczu z Anglią w Chorzowie, doznał ciężkiego urazu kolana po faulu Roya McFarlanda. Stracił niemal dwa lata i nie zagrał na mundialu 1974, na którym Polska zdobyła brąz. Po powrocie grał z powodzeniem w belgijskim Lokeren.
 
 ## Znaczenie
-Lubański i Górnik to symbol złotej ery śląskiego futbolu – fundamentu, na którym wyrosły sukcesy reprezentacji w latach 70.`,
+Górnik i Lubański to fundament, na którym wyrosły sukcesy reprezentacji lat 70. Historia tej kontuzji jest w polskim futbolu przywoływana do dziś jako największe „co by było, gdyby”.`,
     trivia: ['Włodzimierz Lubański był gwiazdą Górnika Zabrze.', 'Kontuzja odniesiona w 1973 roku wykluczyła go z mundialu 1974.'],
     resources: [
       {
@@ -21030,19 +21030,19 @@ Sprawa odbiła się echem za granicą i zaszkodziła władzom bardziej, niż pom
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Ciszewski.JPG?width=800',
     imageCaption: 'Jan Ciszewski',
     content: `## Sylwetka
-Jan Ciszewski (1930–1982) był najsłynniejszym komentatorem sportowym PRL, związanym z Telewizją Polską, głosem największych wydarzeń sportowych epoki.
+Jan Ciszewski (1930–1982) zaczynał w Katowicach, a od lat 60. był głównym komentatorem sportowym Telewizji Polskiej. W czasach, gdy transmisja z ważnego meczu była jednym z nielicznych wspólnych przeżyć całego kraju, jego głos znali wszyscy.
 
 ## Styl
-Jego komentarz był pełen emocji, erudycji i charakterystycznych fraz. Potrafił zamienić transmisję w narodowe przeżycie, a jego głos znała cała Polska.
+Komentował emocjonalnie, z podniesionym głosem i wyraźnym kibicowaniem polskim zawodnikom – dziś byłoby to uznane za brak dystansu, wtedy było normą i podstawą jego popularności. Sypał liczbami i nazwiskami z pamięci, bo statystyk pod ręką nie było.
 
 ## Wielkie chwile
-Komentował m.in. mecze reprezentacji Górskiego – w tym słynny „mecz na Wembley” (1973) i mundial 1974 – a także sukcesy siatkarzy, bokserów i lekkoatletów.
+Prowadził relacje z igrzysk w Monachium (1972), mistrzostw świata w RFN (1974), meczów drużyny Górskiego, walk bokserskich i turniejów siatkarskich, w tym mistrzostwa świata siatkarzy w 1974 roku i złota olimpijskiego w Montrealu (1976).
 
 ## Wembley 1973
-Jego relacja z remisu 1:1 z Anglią na Wembley, który dał Polsce awans na mundial, przeszła do legendy polskiego dziennikarstwa sportowego.
+Jego relacja z remisu 1:1 na Wembley 17 października 1973 roku, po którym Polska pojechała na mistrzostwa świata, a Anglia została w domu, jest najczęściej przywoływanym nagraniem w historii polskiego dziennikarstwa sportowego – razem z okrzykami pod adresem broniącego Jana Tomaszewskiego.
 
 ## Znaczenie
-Ciszewski ustanowił wzorzec komentarza sportowego; dla pokoleń kibiców jego głos jest nieodłączną ścieżką dźwiękową złotej ery polskiego sportu.`,
+Zmarł w 1982 roku, w wieku pięćdziesięciu dwóch lat, u szczytu popularności. Ustanowił wzorzec komentarza, do którego kolejne pokolenia sprawozdawców odnosiły się przez następne dekady – przyjmując go albo świadomie odrzucając.`,
     trivia: ['Legendarny komentator sportowy telewizji PRL.', 'Komentował m.in. mundial 1974 i igrzyska olimpijskie.'],
     resources: [
       {
@@ -21367,26 +21367,26 @@ Brygada Kryzys to symbol polskiej nowej fali – muzyki ambitnej, niezależnej i
   {
     id: 'mundial-1982',
     title: 'Mundial 1982',
-    subtitle: 'Trzecie miejsce i gол Bońka',
+    subtitle: 'Trzecie miejsce i gol Bońka',
     category: 'społeczeństwo',
     tags: ['sport', 'piłka nożna', 'lata 80.', 'reprezentacja'],
     yearStart: 1982,
     yearEnd: 1982,
     summary: 'Reprezentacja Polski po raz drugi zajęła 3. miejsce na mistrzostwach świata (Hiszpania 1982), z Zbigniewem Bońkiem jako gwiazdą turnieju.',
     content: `## Powtórka sukcesu
-Na mistrzostwach świata w Hiszpanii w 1982 roku reprezentacja Polski, prowadzona przez Antoniego Piechniczka, powtórzyła wyczyn z 1974 roku, zajmując 3. miejsce.
-
-## Zbigniew Boniek
-Gwiazdą turnieju był Zbigniew Boniek, autor m.in. hat-tricka w meczu z Belgią. Jego forma przyniosła mu wkrótce transfer do Juventusu Turyn.
+Na mistrzostwach świata w Hiszpanii reprezentacja Polski pod wodzą Antoniego Piechniczka powtórzyła wynik z 1974 roku i zajęła trzecie miejsce. Kadra jechała na turniej bez wielkich oczekiwań – krajowa liga była w rozsypce, a wielu zawodników grało już za granicą.
 
 ## Droga do podium
-Polacy awansowali z grupy, pokonali ZSRR/Belgię i dotarli do półfinału, gdzie ulegli Włochom (bez zawieszonego za kartki Bońka). W meczu o 3. miejsce pokonali Francję 3:2.
+W grupie Polacy zremisowali bezbramkowo z Włochami i Kamerunem, a Peru rozbili 5:1. W drugiej fazie pokonali Belgię 3:0 i zremisowali 0:0 ze Związkiem Radzieckim, co wystarczyło do awansu. W półfinale ulegli Włochom 0:2, a w meczu o trzecie miejsce pokonali Francję 3:2.
+
+## Zbigniew Boniek
+Bohaterem turnieju był Zbigniew Boniek, autor trzech bramek w meczu z Belgią. Za żółtą kartkę w spotkaniu ze Związkiem Radzieckim pauzował w półfinale – jego nieobecność uchodzi za jedną z przyczyn porażki z Włochami. Wkrótce po mundialu przeszedł do Juventusu Turyn.
 
 ## Kontekst stanu wojennego
-Sukces przyszedł w ponurym okresie stanu wojennego i był dla Polaków źródłem rzadkiej radości oraz narodowej dumy.
+Turniej rozgrywano pół roku po 13 grudnia 1981. Transmisje oglądano w kraju, w którym obowiązywała godzina milicyjna, a na trybunach w Hiszpanii pojawiały się transparenty z napisem „Solidarność” – pokazywane przez zagraniczne kamery i omijane przez polską telewizję.
 
 ## Znaczenie
-Mundial 1982, obok 1974, to szczyt osiągnięć polskiej piłki; pokolenie Bońka, Laty i Smolarka zapisało się w historii sportu.`,
+Pokolenie Bońka, Laty, Smolarka, Szarmacha i Młynarczyka zamknęło najlepszy okres w historii polskiej piłki. Kolejny awans na mistrzostwa świata Polska wywalczyła dopiero w 1986 roku, a na podium nie wróciła już nigdy.`,
     trivia: ['Polska zajęła 3. miejsce, powtarzając sukces z 1974 roku.', 'Turniej rozgrywano, gdy w kraju wciąż trwał stan wojenny.'],
     resources: [
       {
@@ -21890,16 +21890,16 @@ Lombard nagrał kilkanaście płyt i zagrał kilka tysięcy koncertów w kraju i
     yearEnd: 1989,
     summary: 'Popularny zespół rockowy pierwszej połowy lat 80., znany z przebojów „Andzia” i „Party”.',
     content: `## Zespół
-Oddział Zamknięty powstał na początku lat 80. i należał do fali polskiego rocka, która wypełniła lukę po zawieszeniu życia kulturalnego w stanie wojennym. Grał rock gitarowy, energiczny i prosty w formie.
+Oddział Zamknięty powstał w 1980 roku w Warszawie i wszedł na scenę razem z całą falą polskiego rocka początku dekady. Grał prosty, energiczny rock gitarowy; pierwszym wokalistą był Krzysztof Jaryczewski, a gitarzystą Wojciech Łuczaj-Pogorzelski.
 
 ## Przeboje
-Największą popularność przyniosły „Party” i „Andzia i ja”, utwory obecne na listach przebojów i w repertuarze koncertowym przez kolejne dekady.
+„Party”, „Andzia i ja” i „Ten wasz świat” zapewniły grupie miejsce na listach przebojów i w repertuarze koncertowym na kolejne dekady. Debiutancka płyta ukazała się w 1983 roku, w momencie największej popularności zespołu.
 
-## Jarocin
-Podobnie jak dla innych zespołów tej fali, kluczowe znaczenie miał festiwal w Jarocinie i sieć klubów studenckich. To one, a nie radio, decydowały wtedy o istnieniu grupy rockowej.
+## Jarocin i kluby
+O istnieniu grupy rockowej w latach 80. decydowały festiwal w Jarocinie i sieć klubów studenckich, a nie radio czy telewizja. Oddział Zamknięty przeszedł tę samą drogę co Perfect, Lady Pank czy Republika – od koncertów w salach uczelnianych do stadionowej publiczności.
 
-## Trwałość
-Zespół przetrwał zmiany składu i zmianę ustroju, a jego piosenki funkcjonują dziś jako muzyczny znak lat 80. – dekady, w której rock stał się w Polsce główną muzyką młodzieżową.`,
+## Zmiany i trwałość
+Skład zmieniał się wielokrotnie, Jaryczewski odszedł w 1984 roku, zespół zawieszał i wznawiał działalność. Mimo to jego piosenki pozostały muzycznym znakiem dekady, w której rock stał się w Polsce główną muzyką młodzieżową – i jednym z niewielu miejsc, gdzie młodzi mówili własnym językiem.`,
     trivia: [
       'O istnieniu zespołu rockowego decydował wtedy Jarocin i kluby studenckie, a nie radio.',
       '„Party” i „Andzia i ja” pozostały w repertuarze koncertowym przez dekady.',
