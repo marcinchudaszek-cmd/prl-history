@@ -17185,19 +17185,19 @@ Beksiński to fenomen polskiej sztuki – artysta osobny, którego wizyjne malar
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ulica_Okaryny_w_Warszawie_2022.jpg?width=800',
     imageCaption: 'Polskie Nagrania „Muza”',
     content: `## Monopol
-Polskie Nagrania, z charakterystycznym logo „Muza”, były głównym i niemal jedynym wydawnictwem płytowym w PRL. Decydowały, co i w jakim nakładzie trafi na rynek.
+Polskie Nagrania powstały w 1956 roku i przez całą epokę były głównym wydawcą płytowym w kraju. To one decydowały, co się ukaże, w jakim nakładzie i kiedy – artysta bez umowy z „Muzą” praktycznie nie istniał na rynku fonograficznym.
 
 ## Repertuar
-Wydawały muzykę poważną, jazz, rock, piosenkę estradową, folklor i nagrania słowa. Seria „Polish Jazz” stała się legendarna i ceniona także za granicą.
+Katalog obejmował muzykę poważną, jazz, rock, piosenkę estradową, folklor, nagrania słowa i bajki dla dzieci. Seria „Polish Jazz”, wydawana od 1965 roku i licząca kilkadziesiąt tomów, dokumentowała całą polską scenę jazzową i do dziś jest poszukiwana przez kolekcjonerów na całym świecie.
 
 ## Niedobór płyt
-Mimo monopolu płyt chronicznie brakowało. Atrakcyjne tytuły znikały błyskawicznie, a winylowe wydania zachodnich wykonawców na licencji były rarytasem.
+Mimo monopolu płyt chronicznie brakowało. Nakłady były ustalane odgórnie, atrakcyjne tytuły znikały w dniu dostawy, a licencyjne wydania zachodnich wykonawców traktowano jak rarytas i odsprzedawano po wielokrotności ceny.
 
 ## Cenzura i selekcja
-Wydawnictwo podlegało cenzurze i polityce kulturalnej władz – decyzje o wydaniu bywały uznaniowe, a wielu wykonawców musiało czekać latami na płytę.
+Wydawnictwo podlegało polityce kulturalnej władz. Decyzje bywały uznaniowe: zespół z pierwszych miejsc list przebojów mógł czekać na debiutancką płytę kilka lat, a nagrany materiał leżał w archiwum, aż przestawał być aktualny.
 
 ## Znaczenie
-Polskie Nagrania „Muza” ukształtowały fonograficzny krajobraz PRL; ich katalog to dziś bezcenne archiwum polskiej muzyki epoki.`,
+Po 1989 roku firma nie wytrzymała konkurencji i przeszła przez lata przekształceń; jej katalog trafił ostatecznie pod opiekę państwową. Zostało po niej najpełniejsze archiwum polskiej muzyki drugiej połowy XX wieku.`,
     trivia: ['Firma była praktycznie monopolistą na rynku płytowym.', 'Logo „Muzy” znalazło się na milionach płyt.'],
     resources: [
       {
@@ -17772,19 +17772,19 @@ Gombrowicz to klasyk literatury światowej, wielokrotnie wymieniany jako kandyda
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Marekhlasko.jpg?width=800',
     imageCaption: 'Marek Hłasko',
     content: `## Sylwetka
-Marek Hłasko (1934–1969) był prozaikiem i scenarzystą, ikoną buntu pokolenia odwilży 1956 roku, porównywaną do amerykańskich „wyklętych” pisarzy i Jamesa Deana.
+Marek Hłasko (1934–1969) pracował jako kierowca ciężarówki, zanim został pisarzem – i ten życiorys stał się częścią jego legendy. Debiutował w prasie w 1954 roku, a rozgłos przyniosła mu odwilż, w której jego proza zabrzmiała jak głos innego pokolenia.
 
 ## Proza odwilży
-Jego opowiadania – „Pierwszy krok w chmurach”, „Ósmy dzień tygodnia” – z brutalnym realizmem i liryzmem ukazywały szarość, przemoc i rozczarowanie życia w PRL, łamiąc socrealistyczny optymizm.
+„Pierwszy krok w chmurach” (1956) i „Ósmy dzień tygodnia” (1957) opisywały Polskę baraków, bijatyk, alkoholu i miłości bez przyszłości. Bohaterowie mówili językiem ulicy, a świat przedstawiony nie miał nic wspólnego z socrealistycznym optymizmem. Sukces był natychmiastowy, podobnie jak kłopoty z cenzurą.
 
 ## Konflikt z władzą
-Po okresie popularności popadł w konflikt z władzami. W 1958 roku wyjechał na Zachód i pozostał na emigracji, gdzie publikował m.in. w paryskiej „Kulturze”.
+W 1958 roku wyjechał do Paryża, odebrał nagrodę „Kultury” i odmówił powrotu, gdy zażądano od niego wyrzeczenia się emigracyjnego wydawnictwa. Odebrano mu prawo powrotu do kraju, a jego książki zniknęły z księgarni na kilkanaście lat.
 
-## Legenda
-Prowadził burzliwe, tułacze życie w Izraelu, Niemczech i USA. Zmarł młodo w 1969 roku, co dopełniło legendy „przeklętego” pisarza.
+## Tułaczka
+Mieszkał w Izraelu, Niemczech i Stanach Zjednoczonych, imał się przypadkowych zajęć, pisał dalej – „Cmentarze”, „Drugie zabicie psa”, „Piękni dwudziestoletni”. Był przez pewien czas mężem niemieckiej aktorki Sonji Ziemann. Zmarł w Wiesbaden w 1969 roku, mając trzydzieści pięć lat.
 
 ## Znaczenie
-Hłasko pozostaje symbolem literackiego buntu i nonkonformizmu, a jego proza – świadectwem rozczarowania pokolenia odwilży.`,
+Do polskich księgarń wrócił dopiero w latach 80., a naprawdę szeroko po 1989 roku. Pozostaje symbolem literackiego buntu i najbardziej „amerykańskim” z polskich pisarzy – zarówno stylem, jak i biografią.`,
     trivia: ['Uchodził za polskiego Jamesa Deana literatury.', 'Nie wrócił z wyjazdu na Zachód w 1958 roku; zmarł na emigracji.'],
     resources: [
       {
@@ -17904,19 +17904,19 @@ Jest tłumaczony na kilkadziesiąt języków i wielokrotnie wymieniany wśród k
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wojciech_Fortuna.jpg?width=800',
     imageCaption: 'Wojciech Fortuna',
     content: `## Sylwetka
-Wojciech Fortuna (ur. 1952) to skoczek narciarski, który zapisał się w historii polskiego sportu, zdobywając pierwszy zimowy złoty medal olimpijski dla Polski.
+Wojciech Fortuna (ur. 1952) pochodzi z Zakopanego i był skoczkiem, po którym przed igrzyskami nikt nie spodziewał się wiele – w sezonie startował nierówno i nie należał do faworytów.
 
 ## Sapporo 1972
-Na igrzyskach w Sapporo w 1972 roku, na dużej skoczni, oddał rewelacyjny pierwszy skok na 111 metrów, który – mimo słabszego drugiego – wystarczył do sensacyjnego zwycięstwa.
+11 lutego 1972 roku na dużej skoczni w Sapporo oddał pierwszy skok na 111 metrów, najdłuższy w konkursie. Drugi wypadł znacznie słabiej, ale przewaga okazała się wystarczająca: Fortuna wygrał ułamkiem punktu przed Szwajcarem Walterem Steinerem.
 
 ## Sensacja
-Złoto Fortuny było ogromną niespodzianką i źródłem narodowej dumy. Był to przełom – pierwszy polski medal olimpijski zimowych igrzysk najwyższej próby.
+Było to pierwsze i przez wiele lat jedyne polskie złoto zimowych igrzysk – kolejne przyszło dopiero w 2010 roku, gdy w Vancouver wygrała Justyna Kowalczyk. W kraju wiadomość podawano jako sukces narodowy; skoki narciarskie były wtedy sportem oglądanym wąsko, przez pasjonatów.
 
 ## Później
-W kolejnych latach nie powtórzył tego sukcesu, a jego kariera bywała burzliwa. Złoto z Sapporo pozostało jednak legendą polskich skoków.
+Nie powtórzył tego wyniku; kariera skończyła się kilka lat później, a jego dalsze życie bywało burzliwe i przez lata opisywane w prasie z niezdrową ciekawością. Sam mówił o sobie, że dostał od losu jeden skok.
 
 ## Znaczenie
-Wojciech Fortuna jest pionierem polskich sukcesów w skokach narciarskich, prekursorem późniejszej „małyszomanii” i bohaterem sportowej historii PRL.`,
+Złoto z Sapporo pozostaje jednym z najczęściej przywoływanych momentów w historii polskiego sportu i punktem odniesienia dla późniejszych sukcesów skoczków, od Adama Małysza po Kamila Stocha.`,
     trivia: ['W 1972 roku zdobył pierwsze polskie złoto olimpijskie w skokach narciarskich.', 'Był to jedyny wielki sukces w jego karierze.'],
     resources: [
       {
@@ -18979,19 +18979,19 @@ Miejsce pochówku ukryto. Szczątki odnaleziono dopiero we wrześniu 2014 roku p
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mironbia%C5%82oszewski.png?width=800',
     imageCaption: 'Miron Białoszewski',
     content: `## Sylwetka
-Miron Białoszewski (1922–1983) był poetą, prozaikiem i dramaturgiem, jednym z najbardziej oryginalnych twórców powojennej literatury polskiej.
+Miron Białoszewski (1922–1983) przeżył powstanie warszawskie jako cywil, po wojnie pracował m.in. w redakcjach i pisał do szuflady. Debiutował późno, mając trzydzieści cztery lata, i od razu jako twórca całkowicie osobny.
 
 ## Poezja codzienności
-Debiutował w 1956 roku. Tworzył poezję „lingwistyczną” – z języka mówionego, przejęzyczeń, drobiazgów codzienności, odnajdując poezję w tym, co zwykłe i niepozorne.
+Tom „Obroty rzeczy” (1956) ukazał się w roku odwilży i wprowadził do polskiej poezji język mówiony: przejęzyczenia, urwane zdania, gwarę podwórka, nazwy przedmiotów. Białoszewski szukał poezji w łyżce, piecu i klatce schodowej, a nie w wielkich tematach – co było wtedy zerwaniem zarówno z socrealizmem, jak i z poezją wysokiego stylu.
 
 ## Teatr Osobny
-Prowadził w swoim mieszkaniu prywatny, awangardowy Teatr Osobny – kameralną, niezależną scenę poza oficjalnym obiegiem kultury.
+W latach 1955–1963 prowadził w swoim mieszkaniu przy placu Dąbrowskiego prywatną scenę – Teatr Osobny – razem z Ludwikiem Heringiem i Ludmiłą Murawską. Widownia liczyła kilkanaście osób, dekoracje robiono z tektury, a przedstawienia istniały poza wszelkim oficjalnym obiegiem kultury.
 
 ## Pamiętnik z powstania
-„Pamiętnik z powstania warszawskiego” (1970) to nowatorska, antyheroiczna relacja cywila z powstania – arcydzieło prozy, ukazujące wojnę z perspektywy zwykłego człowieka.
+„Pamiętnik z powstania warszawskiego” (1970) opisuje sześćdziesiąt trzy dni z perspektywy cywila w piwnicy: głód, przebieżki przez ulice, kanały, ciasnotę. Nie ma tu heroizmu ani sztandarów, jest zdyszany język relacji naocznego świadka. Książka przełamała obowiązujący sposób mówienia o powstaniu.
 
 ## Znaczenie
-Białoszewski na trwałe odmienił polską poezję i prozę, a jego wrażliwość na język i codzienność inspiruje kolejne pokolenia twórców.`,
+W ostatnich latach mieszkał na Saskiej Kępie, prowadząc dziennik wydany pośmiertnie jako „Tajny dziennik” (2012). Jego wrażliwość na język i codzienność jest wciąż jednym z najczęściej wskazywanych punktów odniesienia w polskiej literaturze.`,
     trivia: ['Napisał „Pamiętnik z powstania warszawskiego” – relację zwykłego cywila.', 'Prowadził teatr we własnym mieszkaniu.'],
     resources: [
       {
@@ -19041,19 +19041,19 @@ Białoszewski na trwałe odmienił polską poezję i prozę, a jego wrażliwoś�
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bronislawmalinowski.jpg?width=800',
     imageCaption: 'Bronisław Malinowski',
     content: `## Sylwetka
-Bronisław Malinowski (1951–1981) był lekkoatletą specjalizującym się w biegu na 3000 metrów z przeszkodami, jednym z najwybitniejszych polskich biegaczy.
+Bronisław Malinowski (1951–1981) pochodził z Nowego nad Wisłą, a całą karierę związał z klubem w Grudziądzu. Specjalizował się w biegu na 3000 metrów z przeszkodami – konkurencji wymagającej jednocześnie wytrzymałości, techniki i zimnej kalkulacji tempa.
 
 ## Kariera
-Przez całą dekadę lat 70. należał do światowej czołówki. Zdobywał medale mistrzostw Europy i igrzysk olimpijskich, słynąc z taktycznej dojrzałości i wytrzymałości.
+Przez całą dekadę należał do ścisłej światowej czołówki. Był mistrzem Europy w 1974 roku w Rzymie i w 1978 w Pradze, a w Montrealu w 1976 zdobył srebro olimpijskie, przegrywając jedynie ze Szwedem Andersem Gärderudem, który ustanowił wtedy rekord świata.
 
 ## Moskwa 1980
-Ukoronowaniem kariery było złoto olimpijskie w Moskwie w 1980 roku na 3000 m z przeszkodami – po wcześniejszym srebrze z Montrealu (1976).
+Igrzyska w Moskwie, bojkotowane przez państwa zachodnie, przyniosły mu złoto na 3000 metrów z przeszkodami. Był to jeden z ostatnich wielkich sukcesów polskiej lekkoatletyki w epoce PRL i zwieńczenie dziesięciu lat startów na najwyższym poziomie.
 
 ## Tragiczna śmierć
-W 1981 roku, u szczytu sławy, zginął tragicznie w wypadku samochodowym, co wstrząsnęło polskim sportem.
+Zginął 27 września 1981 roku w wypadku samochodowym na moście w Grudziądzu, mając trzydzieści lat i będąc wciąż czynnym zawodnikiem. Wiadomość dotarła do kraju w tygodniach między I Zjazdem Solidarności a stanem wojennym.
 
 ## Znaczenie
-Bronisław Malinowski pozostaje legendą polskiej lekkoatletyki; jego imię nosi m.in. stadion w Grudziądzu, a sukcesy są wzorem dla kolejnych pokoleń.`,
+Jego imię nosi stadion w Grudziądzu i szkoły w kilku miastach. W historii polskiej lekkoatletyki pozostaje wzorem biegacza, który wygrywał głową, a nie tylko nogami.`,
     trivia: ['Zdobył złoto olimpijskie w Moskwie w biegu na 3000 metrów z przeszkodami.', 'Zginął w wypadku samochodowym rok po tym sukcesie.'],
     resources: [
       {
@@ -21552,19 +21552,19 @@ Olbrychski to ikona polskiego kina, łączący role kostiumowe, współczesne i 
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/MJK32681_Agnieszka_Holland_%28Pokot%2C_Berlinale_2017%29.jpg?width=800',
     imageCaption: 'Agnieszka Holland',
     content: `## Sylwetka
-Agnieszka Holland (ur. 1948), absolwentka praskiej FAMU, to jedna z najwybitniejszych polskich reżyserek o międzynarodowej renomie.
+Agnieszka Holland (ur. 1948) studiowała reżyserię w praskiej FAMU i była w Czechosłowacji świadkiem 1968 roku. Za kontakty z czeską opozycją trafiła w 1970 roku na kilka tygodni do aresztu – dyplom obroniła mimo to i wróciła do Polski.
 
 ## Kino moralnego niepokoju
-Jej filmy z przełomu lat 70. i 80. – „Aktorzy prowincjonalni” (1979, nagroda w Cannes) i „Gorączka” – należą do nurtu kina moralnego niepokoju, demaskującego konformizm i zakłamanie.
+„Aktorzy prowincjonalni” (1979) opowiadają o zespole teatralnym z małego miasta, w którym ambicja, kompromis i podległość mieszają się jak w całym kraju; film dostał nagrodę FIPRESCI w Cannes. Do tego samego nurtu należą „Gorączka” (1980) i „Kobieta samotna” (1981) – ten drugi, brutalnie szczery portret ubóstwa, trafił na półkę na całe lata 80.
 
 ## Współpraca z Wajdą
-Współpracowała z Andrzejem Wajdą jako scenarzystka (m.in. „Człowiek z żelaza”, „Danton”), łącząc twórczość reżyserską z pisarską.
+Pisała scenariusze dla Andrzeja Wajdy: „Bez znieczulenia” (1978), „Człowiek z żelaza” (1981) i „Danton” (1983). Ta współpraca łączyła jej własną twórczość z najgłośniejszym kinem politycznym epoki.
 
 ## Emigracja
-Stan wojenny zastał ją za granicą; pozostała na emigracji i rozwinęła światową karierę, realizując filmy nagradzane na największych festiwalach i nominowane do Oscara.
+Stan wojenny zastał ją we Francji, gdzie została. „Gorzkie żniwa” (1985) przyniosły nominację do Oscara dla filmu nieanglojęzycznego, „Europa, Europa” (1990) – nominację za scenariusz, a „W ciemności” (2011) ponownie nominację w kategorii filmu obcojęzycznego.
 
 ## Znaczenie
-Holland to jedna z najważniejszych postaci polskiego i europejskiego kina, łącząca zaangażowanie moralne z mistrzostwem warsztatu.`,
+Zrobiła kariery w trzech kinematografiach naraz – polskiej, europejskiej i amerykańskiej, gdzie reżyserowała także seriale, m.in. „The Wire”. Pozostaje jedną z niewielu polskich reżyserek rozpoznawalnych na świecie.`,
     trivia: ['Studiowała w Pradze i zetknęła się tam z Praską Wiosną.', 'Jej „Kobieta samotna” trafiła na półkę po 13 grudnia 1981.'],
     resources: [
       {
@@ -21668,19 +21668,19 @@ Od 1981 roku był profesorem Harvardu. Przełożył niemal całego Szekspira, an
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gardens_-_panoramio.jpg?width=800',
     imageCaption: 'Ogródki działkowe',
     content: `## Fenomen
-Ogrody działkowe (Pracownicze Ogrody Działkowe) stały się w PRL masowym zjawiskiem – niewielkie działki na obrzeżach miast dawały mieszkańcom ciasnych mieszkań własny kawałek ziemi.
+Pracownicze Ogrody Działkowe były w PRL zjawiskiem masowym: kilkaset tysięcy niewielkich działek na obrzeżach miast, przydzielanych przez zakłady pracy. Dla rodziny z ciasnego bloku była to jedyna dostępna forma posiadania kawałka ziemi.
 
 ## Funkcja
-Działka łączyła funkcje praktyczne i rekreacyjne: uprawiano warzywa i owoce (ważne w gospodarce niedoboru), hodowano kwiaty, a w altanie spędzano wolny czas i weekendy.
+Działka miała sens praktyczny: warzywa, owoce i przetwory realnie odciążały domowy budżet w gospodarce niedoboru, zwłaszcza w latach 80., gdy w sklepach brakowało wszystkiego. Jednocześnie była miejscem wypoczynku – z altaną, leżakiem i niedzielnym obiadem.
 
 ## Organizacja
-Ogrody przydzielano przez zakłady pracy i związki działkowców. Posiadanie działki było cenione, a listy oczekujących bywały długie.
+Podstawy prawne dała ustawa z 1949 roku, a w 1981 powstał Polski Związek Działkowców, zrzeszający ogrody w całym kraju. Przydział szedł przez zakład pracy i związki zawodowe, listy oczekujących bywały wieloletnie, a dobra działka była przedmiotem starań i znajomości.
 
 ## Kultura działkowa
-Wokół działek wytworzyła się specyficzna kultura – konkursy na najpiękniejszą działkę, altanki z odzysku, sąsiedzkie życie towarzyskie i niedzielne grillowanie.
+Wokół ogrodów wytworzył się osobny obyczaj: konkursy na najładniejszą działkę, altanki budowane z materiałów „zdobytych” w pracy, wymiana sadzonek i sąsiedzkie życie towarzyskie z własnymi hierarchiami i konfliktami o miedzę.
 
 ## Znaczenie
-Ogródki działkowe to trwały element pejzażu i obyczajowości PRL, a wiele z nich istnieje do dziś, świadcząc o tej tradycji.`,
+Ogrody przetrwały zmianę ustroju i wciąż zajmują tysiące hektarów w polskich miastach, choć dziś toczą się o nie spory z deweloperami. To jeden z najtrwalszych elementów codzienności PRL, który nie zniknął razem z systemem.`,
     trivia: ['Działka dawała warzywa i owoce w czasach niedoboru.', 'Altanki budowano najczęściej własnym sumptem.'],
     resources: [
       {
@@ -23362,16 +23362,19 @@ Trzepak stał się dziś symbolem dzieciństwa całego pokolenia, a zarazem znak
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krystyna%20Pro%C5%84ko.jpg?width=800',
     imageCaption: 'Krystyna Prońko – wokalistka jazzowa i estradowa.',
     content: `## Wokalistka
-Krystyna Prońko (ur. 1947) jest piosenkarką i wokalistką jazzową, kompozytorką oraz pedagogiem. Wykształciła kilka pokoleń wokalistów, ucząc emisji głosu i interpretacji.
+Krystyna Prońko (ur. 1947) jest piosenkarką, wokalistką jazzową i kompozytorką, a od lat 80. także pedagogiem. Jej głos – niski, o dużej skali, prowadzony po jazzowemu – wyróżniał się na polskiej estradzie zdominowanej przez lżejszą piosenkę.
 
-## Na pograniczu
-Poruszała się między jazzem, soulem i piosenką literacką. Repertuar tego typu nie trafiał na listy przebojów, ale zapewniał pozycję w środowisku i stały kontakt z najlepszymi muzykami epoki.
+## Na pograniczu gatunków
+Poruszała się między jazzem, soulem i piosenką literacką. Taki repertuar rzadko trafiał na listy przebojów, ale dawał stały kontakt z najlepszymi instrumentalistami epoki i pozycję w środowisku muzycznym, gdzie liczyło się rzemiosło, a nie nakład płyty.
 
-## Jesteś lekiem
-Najbardziej znanym jej nagraniem jest „Jesteś lekiem na całe zło”, utwór, który wszedł do kanonu polskiej piosenki i bywa wykonywany do dziś przez kolejne pokolenia.
+## „Jesteś lekiem na całe zło”
+Nagranie z przełomu lat 70. i 80. stało się jej wizytówką i weszło do kanonu polskiej piosenki. Jest do dziś wykonywane przez kolejne pokolenia wokalistów, często przez osoby, które nie kojarzą już oryginalnej wykonawczyni.
+
+## Festiwale
+Występowała w Opolu i Sopocie, czyli tam, gdzie w PRL rozstrzygało się, kto zaistnieje w radiu i telewizji. Dla artystki spoza głównego nurtu estrady festiwalowa nagroda była często jedyną drogą do nagrania płyty.
 
 ## Pedagogika
-Jej praca dydaktyczna miała znaczenie systemowe: w PRL nie istniało kształcenie wokalistów rozrywkowych na poziomie akademickim, więc wiedza przekazywana była właśnie w ten sposób – od wykonawcy do wykonawcy.`,
+Jej praca dydaktyczna miała znaczenie systemowe: w PRL nie istniało akademickie kształcenie wokalistów rozrywkowych, więc wiedza o emisji głosu i interpretacji przekazywana była bezpośrednio, od wykonawcy do wykonawcy. Przez jej zajęcia przeszło kilka pokoleń śpiewających.`,
     trivia: [
       '„Jesteś lekiem na całe zło” weszło do kanonu polskiej piosenki.',
       'W PRL nie kształcono wokalistów rozrywkowych akademicko – wiedzę przekazywano od wykonawcy do wykonawcy.',
@@ -33372,4 +33375,6 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1988, event: '30 listopada – telewizyjna debata Wałęsa–Miodowicz', category: 'opozycja', entryId: 'walesa' },
   { year: 1988, event: '18 grudnia – powstaje Komitet Obywatelski przy Lechu Wałęsie', category: 'opozycja', entryId: 'solidarnosc' },
   { year: 1988, event: '23 grudnia – ustawa Wilczka otwiera drogę prywatnej przedsiębiorczości', category: 'gospodarka', entryId: 'gospodarka-prl' },
+  { year: 1946, event: '28 sierpnia – egzekucja siedemnastoletniej Danuty Siedzikówny „Inki”', category: 'represje', entryId: 'inka-siedzikowna' },
+  { year: 1981, event: 'powstaje Polski Związek Działkowców, zrzeszający ogrody pracownicze', category: 'społeczeństwo', entryId: 'ogrodki-dzialkowe' },
 ];
