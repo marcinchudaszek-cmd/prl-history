@@ -15710,19 +15710,19 @@ Osiecka to jedna z najważniejszych postaci polskiej kultury XX wieku; jej tekst
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wojciech_M%C5%82ynarski_in_2012.jpg?width=800',
     imageCaption: 'Wojciech Młynarski',
     content: `## Sylwetka
-Wojciech Młynarski (1941–2017) był piosenkarzem, autorem tekstów, satyrykiem i tłumaczem. Słynął z błyskotliwego, wirtuozerskiego operowania językiem polskim.
+Wojciech Młynarski (1941–2017) skończył filologię polską na Uniwersytecie Warszawskim i przez całą karierę pisał tak, jak pisze się z miłości do języka: z rymem wewnętrznym, kalamburem i podwójnym dnem. Był autorem tekstów, wykonawcą, reżyserem kabaretowym i tłumaczem – m.in. Brela i Okudżawy.
 
 ## Satyra obyczajowa
-Jego piosenki celnie i z humorem portretowały PRL-owską codzienność, konformizm i absurdy systemu, omijając cenzurę dzięki ironii i grze słów.
+Jego piosenki opisywały PRL nie od strony polityki, lecz codzienności: wczasów zakładowych, kolejek, awansu społecznego, drobnego cwaniactwa. „Jesteśmy na wczasach”, „W Polskę idziemy”, „Po co babci koń”, „Przyjdzie walec i wyrówna” – cenzura miała z nimi kłopot, bo formalnie nie dotyczyły niczego zakazanego.
 
-## Przeboje
-Do najsłynniejszych należą „Jesteśmy na wczasach”, „W Polskę idziemy”, „Po co babci koń”, „Róbmy swoje” – ta ostatnia stała się hymnem przetrwania w trudnych latach 80.
+## Sposób na cenzurę
+Młynarski rzadko atakował wprost. Mówił o zwykłych ludziach w zwykłych sytuacjach, a system pojawiał się w tle jako to, co czyni te sytuacje absurdalnymi. Dzięki temu jego teksty przechodziły przez urząd kontroli prasy, a publiczność i tak słyszała w nich to, co trzeba.
 
 ## „Róbmy swoje”
-Piosenka „Róbmy swoje” (1986) niosła przesłanie wytrwałości i godności mimo przeciwności – stała się jednym z nieformalnych haseł schyłku PRL.
+Piosenka z pierwszej połowy lat 80., napisana po stanie wojennym, mówi o robieniu swojego mimo wszystko: „Może to coś da, kto wie”. Stała się nieformalnym hasłem schyłku dekady – pozbawionym patosu i tym bardziej skutecznym.
 
 ## Znaczenie
-Młynarski to klasyk polskiej piosenki autorskiej, łączący rozrywkę z refleksją; jego teksty pozostają wzorem językowej maestrii.`,
+Napisał ponad dwa tysiące tekstów, w tym dla Michaja Burano, Ireny Santor, Hanny Banaszak i Piotra Fronczewskiego. Jego wieczory autorskie w Ateneum stały się osobnym gatunkiem, a język jego piosenek do dziś funkcjonuje w mowie potocznej.`,
     trivia: ['Mistrz piosenki z drugim dnem, omijającej cenzurę.', 'Napisał m.in. „Jesteśmy na wczasach” i „W Polskę idziemy”.'],
     resources: [
       {
@@ -16669,19 +16669,19 @@ Festiwal w Gdyni pozostaje najważniejszym wydarzeniem polskiego kina, a jego hi
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krzysztof_Zanussi_DSC_5413.jpg?width=800',
     imageCaption: 'Krzysztof Zanussi',
     content: `## Sylwetka
-Krzysztof Zanussi (ur. 1939), z wykształcenia fizyk i filozof, wniósł do polskiego kina refleksję intelektualną, etyczną i egzystencjalną.
+Krzysztof Zanussi (ur. 1939) studiował fizykę w Warszawie i filozofię w Krakowie, zanim trafił do łódzkiej szkoły filmowej. To wykształcenie widać w jego kinie: bohaterami są naukowcy, lekarze, inżynierowie, a konflikt rzadko dotyczy polityki wprost – częściej wyboru między uczciwością a wygodą.
 
 ## Kino myśli
-Jego filmy, jak „Struktura kryształu” czy „Iluminacja”, stawiały pytania o sens życia, naukę, wiarę i moralne wybory jednostki, wyróżniając się na tle ówczesnej kinematografii.
+„Struktura kryształu” (1969) opowiada o dwóch fizykach: jeden robi karierę, drugi osiadł na prowincjonalnej stacji meteorologicznej. „Iluminacja” (1973), nagrodzona Złotym Lampartem w Locarno, miesza fabułę z wykładem i dokumentem. „Barwy ochronne” (1977) – najgłośniejszy jego film – pokazuje obóz naukowy, na którym starszy docent cynicznie tłumaczy młodszemu asystentowi reguły przetrwania w systemie.
 
 ## Kino moralnego niepokoju
-„Barwy ochronne” (1977) stały się jednym z manifestów kina moralnego niepokoju – nurtu demaskującego konformizm, układy i zakłamanie życia w PRL.
+„Barwy ochronne” uznaje się za jeden z manifestów nurtu, obok „Człowieka z marmuru” Wajdy i „Amatora” Kieślowskiego. Wspólny temat tego kina to konformizm: nie terror, lecz drobne ustępstwa, z których składa się przyzwoite życie w PRL.
 
-## Pozycja
-Zanussi zdobył międzynarodowe uznanie i nagrody na festiwalach. Kierował Zespołem Filmowym „Tor”, wspierając innych twórców, w tym Kieślowskiego.
+## Zespół „Tor”
+Od 1980 roku kierował Zespołem Filmowym „Tor”, który produkował m.in. filmy Kieślowskiego – łącznie z „Dekalogiem” i „Trzema kolorami”. Rola producenta i opiekuna młodszych twórców okazała się dla polskiego kina równie ważna jak jego własna filmografia.
 
 ## Znaczenie
-Krzysztof Zanussi to jeden z najważniejszych polskich reżyserów, symbol kina ambitnego, intelektualnego i zaangażowanego moralnie.`,
+Pracował także za granicą, kręcąc we Włoszech, Niemczech i Francji, i przez dekady był jednym z najbardziej rozpoznawalnych polskich reżyserów w Europie. W kraju pozostaje synonimem kina, które stawia pytania zamiast dawać odpowiedzi.`,
     trivia: ['Z wykształcenia jest fizykiem i filozofem.', 'Twórca kina intelektualnego – „Struktury kryształu” i „Barw ochronnych”.'],
     resources: [
       {
@@ -17834,19 +17834,19 @@ Hłasko pozostaje symbolem literackiego buntu i nonkonformizmu, a jego proza –
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B3%C5%BCewicz_cropped.JPG?width=800',
     imageCaption: 'Tadeusz Różewicz',
     content: `## Sylwetka
-Tadeusz Różewicz (1921–2014), żołnierz AK, był jednym z najważniejszych polskich poetów i dramaturgów XX wieku, twórcą nowego języka poezji po doświadczeniu wojny i Zagłady.
+Tadeusz Różewicz (1921–2014) w czasie okupacji był żołnierzem AK w oddziale leśnym; jego brat Janusz, także konspirator, został rozstrzelany przez gestapo w 1944 roku. To doświadczenie wyznaczyło całą późniejszą twórczość: poezję pisaną tak, jakby po wojnie nie dało się już ufać dawnym słowom.
 
 ## Poezja
-Jego wczesne tomy, jak „Niepokój” (1947), wprowadziły poezję ascetyczną, pozbawioną ozdobników i rymów, próbującą mówić o świecie po katastrofie ludzkich wartości.
+Tom „Niepokój” (1947) odrzucił rym, metaforę i melodię – został sam rzeczowy, urwany zapis. „Ocalony” z tego tomu („Mam dwadzieścia cztery lata / ocalałem / prowadzony na rzeź”) stał się jednym z najczęściej cytowanych wierszy polskiego XX wieku. Różewicz konsekwentnie pisał wiersz „nagi”, bez ozdobników, i tym stylem naznaczył kilka pokoleń poetów.
 
 ## Dramat
-W teatrze zasłynął nowatorskimi sztukami, zwłaszcza „Kartoteką” (1960) – dziełem rozbijającym tradycyjną fabułę, uznawanym za przełom w polskim dramacie.
+„Kartoteka” (1960) rozbiła klasyczną budowę sztuki: bohater leży w łóżku pośrodku sceny, przez pokój przechodzą przypadkowe osoby, akcja nie prowadzi donikąd. Późniejsze „Świadkowie”, „Stara kobieta wysiaduje” i „Białe małżeństwo” (1974) potwierdziły jego pozycję najważniejszego polskiego dramaturga obok Mrożka.
 
-## Pozycja
-Różewicz tworzył przez całą epokę PRL, zachowując niezależność artystyczną. Był wielokrotnie nagradzany i tłumaczony na wiele języków.
+## Postawa
+Nie należał do opozycji ani do partyjnego establishmentu, unikał deklaracji i wywiadów. Mieszkał we Wrocławiu, publikował regularnie, ale trzymał dystans wobec obu stron – rodzaj niezależności rzadkiej w PRL.
 
 ## Znaczenie
-Należy do najwybitniejszych twórców polskiej literatury; jego poezja i dramaturgia wywarły ogromny wpływ na kolejne pokolenia.`,
+Jest tłumaczony na kilkadziesiąt języków i wielokrotnie wymieniany wśród kandydatów do Nagrody Nobla. Jego zdanie o poezji po Zagładzie i sposób pisania wiersza zmieniły polską literaturę trwalej niż niejeden manifest.`,
     trivia: ['Tworzył poezję „ocalonego” – pisaną po doświadczeniu wojny.', 'Odrzucił rym i regularny rytm, szukając języka po katastrofie.'],
     resources: [
       {
@@ -18419,19 +18419,19 @@ Dla kina PRL Polański to symbol talentu, który zaistniał na świecie; jego po
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ryszard_Szurkowski_2.jpg?width=800',
     imageCaption: 'Ryszard Szurkowski',
     content: `## Sylwetka
-Ryszard Szurkowski (1946–2021) był najwybitniejszym polskim kolarzem szosowym, bohaterem masowej publiczności w czasach świetności Wyścigu Pokoju.
+Ryszard Szurkowski (1946–2021) pochodził ze wsi pod Świebodzicami i do kolarstwa trafił późno, po dwudziestce. W ciągu dekady stał się najbardziej rozpoznawalnym polskim sportowcem lat 70. – w czasach, gdy Wyścig Pokoju był wydarzeniem oglądanym przez całe rodziny.
 
 ## Wyścig Pokoju
-Cztery razy wygrywał klasyfikację generalną Wyścigu Pokoju – najważniejszej amatorskiej imprezy kolarskiej bloku wschodniego, śledzonej przez miliony kibiców.
+Wygrał klasyfikację generalną czterokrotnie: w 1970, 1971, 1973 i 1975 roku. Wyścig, prowadzony trasą Warszawa–Berlin–Praga, był największą amatorską imprezą kolarską bloku wschodniego i miał status propagandowej wizytówki – zwycięstwo Polaka znaczyło więcej niż wynik sportowy.
 
 ## Sukcesy światowe
-Zdobywał tytuły mistrza świata amatorów i medale olimpijskie w drużynowej jeździe na czas, ugruntowując pozycję jednego z najlepszych kolarzy świata swojej epoki.
+Był mistrzem świata amatorów w wyścigu ze startu wspólnego (1973) oraz w drużynowej jeździe na czas (1975). Na igrzyskach zdobył srebro w Monachium (1972) i w Montrealu (1976), oba w drużynie.
 
 ## Idol
-W czasach niedoboru rozrywek Szurkowski był sportowym idolem, a transmisje z jego startów gromadziły rodziny przed telewizorami i radioodbiornikami.
+W czasach ubogiej oferty rozrywkowej transmisje z Wyścigu Pokoju gromadziły przed odbiornikami miliony ludzi, a kolarze byli rozpoznawani na ulicy jak dzisiejsi piłkarze. Szurkowski, spokojny i nieefektowny, pasował do wzorca bohatera pracowitego, a nie gwiazdorskiego.
 
-## Znaczenie
-Ryszard Szurkowski to legenda polskiego kolarstwa i symbol sportowych sukcesów PRL, inspiracja dla kolejnych pokoleń zawodników.`,
+## Po karierze
+Prowadził grupy kolarskie i pracował jako trener. W 2018 roku uległ ciężkiemu wypadkowi podczas wyścigu weteranów w Niemczech; zmarł trzy lata później. Pozostaje najczęściej przywoływanym symbolem sportowych sukcesów PRL obok piłkarzy Górskiego.`,
     trivia: ['Dwukrotnie wygrał Wyścig Pokoju.', 'Uznano go za najlepszego polskiego kolarza XX wieku.'],
     resources: [
       {
@@ -18535,19 +18535,19 @@ Jako prymas przełomu Józef Glemp odegrał ważną rolę w pokojowym przejściu
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/KalinaJedrusik.jpg?width=800',
     imageCaption: 'Kalina Jędrusik',
     content: `## Sylwetka
-Kalina Jędrusik (1930–1991) była aktorką teatralną, filmową i piosenkarką, jedną z najbardziej charyzmatycznych i kontrowersyjnych postaci kultury PRL.
+Kalina Jędrusik (1930–1991) pochodziła z Częstochowy, skończyła krakowską PWST i związała się z warszawskim Teatrem Współczesnym. Była aktorką, piosenkarką i osobą publiczną, która swoim istnieniem podważała obyczajowe normy epoki – co kosztowało ją więcej niż jakakolwiek deklaracja polityczna.
 
 ## Kabaret Starszych Panów
-Wielką popularność przyniósł jej udział w telewizyjnym Kabarecie Starszych Panów, gdzie wykonywała piosenki Przybory i Wasowskiego, zachwycając głosem i osobowością.
+Od 1958 roku występowała w telewizyjnym Kabarecie Starszych Panów Jeremiego Przybory i Jerzego Wasowskiego. Piosenki takie jak „Bo we mnie jest seks” czy „W czasie deszczu dzieci się nudzą” pisano wprost dla jej głosu i sposobu bycia. To w tych programach powstał jej wizerunek: ironiczny, zmysłowy i nieskrępowany.
 
-## Łamanie tabu
-W pruderyjnej obyczajowości PRL Jędrusik szokowała otwartą zmysłowością, odwagą i niezależnością. Jej wizerunek wymykał się normom narzucanym kobietom epoki.
+## Konflikt z władzą
+Legenda mówi, że Władysław Gomułka po jednym z występów miał zażądać usunięcia jej z telewizji; niezależnie od tego, jak było naprawdę, przez pewien czas rzeczywiście zniknęła z ekranu. Jej otwarta zmysłowość była w oficjalnej obyczajowości PRL problemem sama w sobie.
 
 ## Film i teatr
-Grała w teatrze i filmach, m.in. u Andrzeja Wajdy („Ziemia obiecana”). Tworzyła role pełne ekspresji, charakteru i ironii.
+Zagrała Lucy Zuckerową w „Ziemi obiecanej” Wajdy (1975) i Kazimierę Wąsowską w telewizyjnej „Lalce” (1977). Na scenie grała role charakterystyczne, w których ironia mieszała się z melancholią.
 
 ## Znaczenie
-Kalina Jędrusik pozostaje ikoną kultury PRL i symbolem kobiecej niezależności oraz artystycznej odwagi w czasach obyczajowych ograniczeń.`,
+Jej małżeństwo ze Stanisławem Dygatem i niezależny styl życia były przedmiotem plotek przez całą epokę. Pozostaje ikoną kultury PRL i przykładem tego, jak wiele kosztowała kobietę odmowa dopasowania się do wzorca.`,
     trivia: ['Uchodziła za pierwszy polski sex symbol.', 'Jej występy bywały zdejmowane z anteny jako „gorszące”.'],
     resources: [
       {
@@ -19512,19 +19512,19 @@ Kozakiewicz pozostaje legendą polskiej lekkoatletyki, a jego gest – jednym z 
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz_G%C3%B3rski_%281973%29.jpg?width=800',
     imageCaption: 'Kazimierz Górski',
     content: `## Sylwetka
-Kazimierz Górski (1921–2006) był piłkarzem i trenerem, najsłynniejszym selekcjonerem reprezentacji Polski, który stworzył jej złotą drużynę lat 70.
+Kazimierz Górski (1921–2006) urodził się we Lwowie, grał w Rewerze Stanisławów i po wojnie w Legii Warszawa, a jako trener przeszedł przez kluby i reprezentacje młodzieżowe, zanim w 1970 roku objął pierwszą drużynę narodową.
 
 ## Sukcesy
-Pod jego wodzą Polska zdobyła złoty medal olimpijski w Monachium (1972) i trzecie miejsce na mistrzostwach świata w RFN (1974) – największe osiągnięcia w historii rodzimego futbolu.
+Złoto olimpijskie w Monachium w 1972 roku, trzecie miejsce na mistrzostwach świata w RFN w 1974 i srebro olimpijskie w Montrealu w 1976 – to bilans, którego polska piłka nie powtórzyła. Po drodze było zwycięstwo nad Anglią na Wembley w 1973 roku (remis 1:1, który wyeliminował gospodarzy z mundialu) i wygrana 2:0 w Chorzowie.
 
-## Drużyna marzeń
-Prowadził pokolenie gwiazd: Deynę, Latę, Szarmacha, Gadochę, Tomaszewskiego. Słynął ze spokoju, umiejętności budowania zespołu i motywowania zawodników.
+## Drużyna
+Prowadził pokolenie Deyny, Laty, Szarmacha, Gadochy, Ćmikiewicza, Żmudy i Tomaszewskiego. Jego metoda polegała mniej na taktycznych nowinkach, a bardziej na budowaniu zespołu, w którym gwiazdy godziły się grać dla siebie nawzajem.
 
 ## Złote myśli
-Przypisuje mu się słynne, obrosłe legendą powiedzenia, jak „Piłka jest okrągła, a bramki są dwie”, które weszły do języka potocznego.
+„Piłka jest okrągła, a bramki są dwie”, „Dopóki piłka w grze, wszystko jest możliwe” – powiedzenia przypisywane Górskiemu weszły do języka potocznego i funkcjonują dziś poza kontekstem sportu.
 
 ## Znaczenie
-Kazimierz Górski to ikona polskiego sportu i symbol najlepszej epoki rodzimej piłki; jego imię nosi m.in. siedziba polskiej federacji.`,
+Sukcesy jego drużyny przypadły na dekadę Gierka i były przez propagandę traktowane jako dowód sprawności państwa. Dla kibiców znaczyły co innego: przez kilka lat Polska naprawdę należała do światowej czołówki. Imię Górskiego nosi siedziba PZPN.`,
     trivia: ['Poprowadził reprezentację po złoto olimpijskie 1972 i brąz mundialu 1974.', 'Powtarzał, że dopóki piłka w grze, wszystko jest możliwe.'],
     resources: [
       {
@@ -19628,19 +19628,19 @@ Dejmek to symbol siły teatru, który – mimo cenzury – potrafił poruszyć s
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tadeusz_Konwicki_Kancelaria_Senatu_01.jpg?width=800',
     imageCaption: 'Tadeusz Konwicki',
     content: `## Sylwetka
-Tadeusz Konwicki (1926–2015) był pisarzem, scenarzystą i reżyserem filmowym, jednym z najważniejszych twórców powojennej kultury, łączącym prozę z kinem.
+Tadeusz Konwicki (1926–2015) urodził się pod Wilnem i jako nastolatek walczył w wileńskiej AK – doświadczenie, do którego wracał przez całe życie. Po wojnie znalazł się w Warszawie, przeszedł krótki epizod socrealistyczny („Przy budowie”, 1950), by potem stać się jednym z najbardziej rozpoznawalnych głosów rozliczających PRL.
 
 ## Proza
-W powieściach jak „Sennik współczesny”, „Kompleks polski” czy „Mała apokalipsa” (1979) z gorzką ironią rozliczał polskie mity, rzeczywistość PRL i kondycję jednostki.
+„Sennik współczesny” (1963) wprowadził jego znak firmowy: sen, wspomnienie i rzeczywistość zlewające się w jedno. „Kompleks polski” (1977) rozgrywa się w kolejce przed sklepem jubilerskim w Wigilię, „Mała apokalipsa” (1979) opisuje dzień, w którym bohater ma się spalić przed Pałacem Kultury. Obie powieści to portrety państwa, które zgniło od środka, pisane bez patosu i bez nadziei na naprawę.
 
 ## Film
-Reżyserował autorskie, oniryczne filmy, m.in. „Salto” (1965) i „Jak daleko stąd, jak blisko”, tworząc kino osobne i refleksyjne.
+Reżyserował kino osobne, nakręcone małym kosztem i wbrew modom: „Ostatni dzień lata” (1958), „Salto” (1965) z Cybulskim, „Jak daleko stąd, jak blisko” (1972), „Dolina Issy” (1982) według Miłosza. Był też scenarzystą dla innych – m.in. „Matki Joanny od Aniołów” i „Faraona” Kawalerowicza.
 
 ## Drugi obieg
-Niektóre jego dzieła, jak „Kompleks polski” i „Mała apokalipsa”, ukazały się poza cenzurą, w drugim obiegu, co czyniło go ważną postacią niezależnej kultury.
+„Kompleks polski” ukazał się w niezależnym „Zapisie”, a „Mała apokalipsa” w wydawnictwie NOWa. Konwicki przeszedł tym samym z oficjalnego obiegu do podziemnego, choć nigdy nie stał się działaczem – pozostał pisarzem, który po prostu przestał oddawać teksty cenzurze.
 
 ## Znaczenie
-Konwicki to klasyk literatury i kina, mistrz gorzkiej autorefleksji, którego twórczość pozostaje jednym z najcelniejszych portretów PRL.`,
+Jego proza jest dziś czytana jako najcelniejszy zapis późnego PRL: państwa zmęczonego, obdrapanego i wciąż wymagającego udziału w rytuale. Filmowo pozostaje twórcą osobnym, którego kino trudno przypisać do jakiegokolwiek nurtu.`,
     trivia: ['Był jednocześnie pisarzem i reżyserem – autorem „Małej apokalipsy”.', 'Jego „Salto” to jeden z najbardziej osobnych filmów PRL.'],
     resources: [
       {
@@ -20020,19 +20020,19 @@ Społeczeństwo przyjęło postawę przystosowania – „małych spraw” i pry
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Karol_Modzelewski3.jpg?width=800',
     imageCaption: 'Karol Modzelewski',
     content: `## Sylwetka
-Karol Modzelewski (1937–2019) był wybitnym historykiem mediewistą oraz jednym z najważniejszych działaczy opozycji demokratycznej w PRL.
+Karol Modzelewski (1937–2019) urodził się w Moskwie jako Cyryl Budniewicz; przybranym ojcem był Zygmunt Modzelewski, powojenny minister spraw zagranicznych. Wychowany w rodzinie komunistycznej elity, całe dorosłe życie spędził w konflikcie z systemem, który ta elita budowała. Zawodowo był mediewistą, badaczem wczesnego średniowiecza i profesorem Uniwersytetu Warszawskiego.
 
 ## List otwarty
-W 1964 roku wraz z Jackiem Kuroniem napisał „List otwarty do Partii”, krytykujący z lewicowych pozycji biurokratyczną dyktaturę. Za tekst obaj trafili do więzienia.
+W 1964 roku wraz z Jackiem Kuroniem napisał „List otwarty do Partii” – analizę PRL z pozycji marksistowskich, dowodzącą, że władzę sprawuje biurokracja wyzyskująca klasę robotniczą. Obaj autorzy dostali po trzy i pół roku więzienia; tekst krążył w odpisach i stał się jednym z pierwszych dokumentów opozycji.
 
 ## Więzień systemu
-Modzelewski był więziony kilkukrotnie – po 1964, po Marcu 1968 i w stanie wojennym – spędzając w sumie wiele lat za kratami za działalność opozycyjną.
+Siedział po 1964 roku, ponownie po Marcu 1968 (do 1971) i wreszcie po 13 grudnia 1981 – łącznie osiem i pół roku. W 1968 był jedną z osób, które władza przedstawiała jako inspiratorów studenckich protestów.
 
 ## Nazwa „Solidarność”
-W 1980 roku to on zaproponował nazwę „Solidarność” dla powstającego niezależnego związku zawodowego, którą przyjęto i która przeszła do historii.
+W sierpniu 1980 roku, jako doradca strajkujących we Wrocławiu, zaproponował nazwę dla powstającego związku: „Solidarność”. Był rzecznikiem prasowym Komisji Krajowej, a w 1981 roku jednym z najostrzej sprzeciwiających się ustępstwom wobec władzy.
 
-## Znaczenie
-Modzelewski łączył naukę z bezkompromisową postawą obywatelską; pozostaje symbolem intelektualisty-opozycjonisty wiernego zasadom.`,
+## Po 1989
+Zasiadał w Senacie I kadencji, potem wrócił do nauki. Otwarcie krytykował koszty transformacji, uważając, że robotnicy, którzy obalili system, zapłacili za zmianę najwyższą cenę. Jego wspomnienia „Zajeździmy kobyłę historii” (2013) otrzymały Nagrodę Nike w 2014 roku.`,
     trivia: ['Za „List otwarty do partii” trafił do więzienia.', 'To on zaproponował nazwę „Solidarność” dla nowego związku.'],
     resources: [
       {
@@ -21614,19 +21614,19 @@ Holland to jedna z najważniejszych postaci polskiego i europejskiego kina, łą
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw_Bara%C5%84czak.jpg?width=800',
     imageCaption: 'Stanisław Barańczak',
     content: `## Sylwetka
-Stanisław Barańczak (1946–2014) był poetą, krytykiem literackim i genialnym tłumaczem, jednym z czołowych przedstawicieli pokolenia Nowej Fali.
+Stanisław Barańczak (1946–2014) był poetą, krytykiem, teoretykiem przekładu i tłumaczem, a przez pierwsze lata pracy także wykładowcą poznańskiej polonistyki. Jego biografia dzieli się wyraźnie na dwie części: opozycyjny Poznań lat 70. i amerykańska katedra po 1981 roku.
 
 ## Nowa Fala
-W poezji debiutował w nurcie Nowej Fali (pokolenia '68), demaskując nowomowę i manipulację języka propagandy. Jego wiersze łączyły zaangażowanie z wirtuozerią formy.
+Debiutował w pokoleniu '68 razem z Krynickim, Zagajewskim i Kornhauserem. Program tej poezji brzmiał: nie ufać językowi propagandy, rozbierać go na części, pokazywać, jak zdanie z gazety kłamie. Barańczak robił to najprecyzyjniej – w tomach „Jednym tchem” (1970) i „Ja wiem, że to niesłuszne” (1977).
 
 ## Opozycja
-Był współzałożycielem KOR (1976) i działaczem opozycji; objęty zakazem druku, publikował w drugim obiegu, co przypłacił szykanami i utratą pracy na uczelni.
+W 1976 roku był jednym z założycieli KOR. Objęto go zakazem druku, a w 1977 zwolniono z Uniwersytetu im. Adama Mickiewicza; przywrócono go dopiero po Sierpniu 1980. Współtworzył niezależny kwartalnik „Zapis” i wykładał na Uniwersytecie Latającym.
 
 ## Tłumacz
-Na emigracji (od 1981, profesor Harvardu) stworzył wybitne przekłady – Szekspira, poetów metafizycznych, Brodskiego – uznawane za arcydzieła sztuki translatorskiej.
+Od 1981 roku był profesorem Harvardu. Przełożył niemal całego Szekspira, angielskich poetów metafizycznych, Brodskiego, Audena, Larkina, Dickinson, a także wiersze niepoważne, którym poświęcił antologie. Sformułował własną teorię przekładu poetyckiego, opartą na wierności wobec formy, nie tylko sensu.
 
 ## Znaczenie
-Barańczak to jeden z najważniejszych polskich poetów i tłumaczy XX wieku, symbol łączenia literatury z postawą obywatelską.`,
+Łączył trzy role rzadko spotykane razem: poety własnego głosu, tłumacza przenoszącego całą tradycję i obywatela płacącego za swoje wybory. Chorował na parkinsona, ale pracował do końca; Nagroda Nike z 1999 roku przypadła jego tomowi „Chirurgiczna precyzja”.`,
     trivia: ['Poeta Nowej Fali i wybitny tłumacz Szekspira.', 'Był jednym ze współzałożycieli KOR.'],
     resources: [
       {
