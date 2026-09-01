@@ -13617,16 +13617,19 @@ Lady Pank to najpełniejszy przykład komercyjnego sukcesu polskiego rocka lat 8
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Budka_Suflera_02.jpg?width=800',
     imageCaption: 'Budka Suflera',
     content: `## Zespół
-Budkę Suflera założyli w Lublinie w 1974 roku Romuald Lipko, Krzysztof Cugowski i Andrzej Ziółkowski. Przez skład przewinęło się z czasem ponad dwudziestu pięciu muzyków, ale to Lipko jako kompozytor decydował o brzmieniu.
+Budkę Suflera założyli w Lublinie w 1974 roku Romuald Lipko, Krzysztof Cugowski i Andrzej Ziółkowski. Przez skład przewinęło się z czasem kilkudziesięciu muzyków, ale to Lipko jako kompozytor decydował o brzmieniu przez cały czas istnienia grupy.
 
 ## Przeboje
-Zespół nagrał utwory, które weszły do kanonu polskiej muzyki rozrywkowej: „Sen o dolinie”, „Cień wielkiej góry”, „Jolka, Jolka pamiętasz” i „Za ostatni grosz”.
+„Sen o dolinie” i „Cień wielkiej góry” z połowy lat 70. dały zespołowi pozycję od razu, a „Jolka, Jolka pamiętasz” (1981) i „Za ostatni grosz” (1982) uczyniły z niego zjawisko masowe. „Jolkę” śpiewał Felicjan Andrzejczak, bo Cugowski odszedł wtedy z zespołu na kilka lat – wrócił dopiero w 1984 roku.
 
 ## Rock w wersji przystępnej
-Grali rock melodyjny, oparty na mocnym wokalu i rozbudowanych aranżacjach. Ta formuła pozwalała funkcjonować jednocześnie w radiu i na koncertach – co w latach 70. i 80. nie było oczywiste.
+Grali rock melodyjny, oparty na mocnym wokalu i rozbudowanych aranżacjach z klawiszami. Ta formuła pozwalała funkcjonować jednocześnie w radiu i na koncertach – w latach 70. i 80. nie było to oczywiste, bo scena dzieliła się wyraźnie na estradę i rock klubowy.
 
 ## Współpraca
-Lipko komponował także dla innych wykonawców, m.in. dla Urszuli i Izabeli Trojanowskiej. Budka Suflera funkcjonowała więc nie tylko jako zespół, ale i jako zaplecze kompozytorskie sporej części polskiej estrady lat 80.`,
+Lipko komponował także dla innych: „Dmuchawce, latawce, wiatr” dla Urszuli i „Wszystko, czego dziś chcę” dla Izabeli Trojanowskiej to jego utwory. Budka funkcjonowała więc nie tylko jako zespół, ale i jako zaplecze kompozytorskie sporej części polskiej estrady lat 80.
+
+## Znaczenie
+Grupa działała do 2014 roku i zagrała pożegnalną trasę na stadionach. Należy do najdłużej i najszerzej słuchanych polskich zespołów, a jej piosenki z lat 80. znane są także pokoleniom, które nie pamiętają PRL.`,
     trivia: [
       'Przez skład zespołu przewinęło się ponad dwudziestu pięciu muzyków.',
       'Romuald Lipko komponował także dla innych wykonawców, m.in. dla Urszuli i Izabeli Trojanowskiej.',
@@ -17007,19 +17010,19 @@ Sukcesy siatkarzy z lat 70. były źródłem narodowej dumy i punktem odniesieni
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz_Deyna.jpg?width=800',
     imageCaption: 'Kazimierz Deyna',
     content: `## Sylwetka
-Kazimierz Deyna (1947–1989) był jednym z najwybitniejszych polskich piłkarzy w historii – rozgrywającym o niezwykłej technice, wizji gry i precyzji podań.
+Kazimierz Deyna (1947–1989) był rozgrywającym o niezwykłej technice i wizji gry – piłkarzem, który widział podanie wcześniej niż inni zawodnicy na boisku. Pochodził ze Starogardu Gdańskiego, a do Legii Warszawa trafił w 1966 roku, po grze w rodzinnym Starogardzie i krótkim epizodzie w ŁKS.
 
 ## Legia i reprezentacja
-Przez większość kariery związany z Legią Warszawa, w reprezentacji Polski rozegrał kilkadziesiąt meczów, będąc jej dyrygentem w złotej erze lat 70.
+Z Legią zdobył mistrzostwo Polski w 1969 i 1970 roku, a w reprezentacji rozegrał 97 meczów i strzelił 41 bramek. Był dyrygentem drużyny Górskiego – zespołu, w którym gwiazd nie brakowało, ale to on rozdzielał grę.
 
 ## Sukcesy
-Był kluczową postacią drużyny, która zdobyła złoty medal olimpijski w 1972 roku i trzecie miejsce na mistrzostwach świata w 1974 roku. Słynął z mistrzowsko wykonywanych rzutów karnych.
+Na igrzyskach w Monachium w 1972 roku zdobył złoto i koronę króla strzelców, a na mistrzostwach świata w 1974 roku poprowadził Polskę do trzeciego miejsca; w plebiscycie na Złotą Piłkę zajął wtedy trzecie miejsce w Europie. Słynął z rzutów karnych wykonywanych bez rozbiegu i bez emocji.
 
 ## Za granicą
-Pod koniec kariery wyjechał do angielskiego Manchesteru City, a potem do USA. Zginął tragicznie w wypadku samochodowym w Stanach Zjednoczonych w 1989 roku.
+W 1978 roku odszedł do Manchesteru City – jego transfer władze zgodziły się przeprowadzić dopiero po skończeniu trzydziestu lat, zgodnie z obowiązującą wtedy zasadą. Wystąpił także w filmie „Ucieczka do zwycięstwa” (1981) obok Pelégo i Bobby'ego Moore'a. Karierę kończył w San Diego, gdzie zginął w wypadku samochodowym 1 września 1989 roku.
 
 ## Znaczenie
-Deyna pozostaje ikoną polskiej piłki, symbolem futbolowej elegancji; jego numer i nazwisko są legendą Legii Warszawa i reprezentacji.`,
+Pozostaje symbolem futbolowej elegancji, a jego koszulka z numerem 10 – ikoną Legii. Stadion klubu nosi dziś jego imię.`,
     trivia: ['Był rozgrywającym złotej drużyny Kazimierza Górskiego.', 'Grał później w Manchesterze City – w czasach PRL to rzadkość.'],
     resources: [
       {
@@ -19450,19 +19453,19 @@ PAX jest przykładem metody stosowanej przez władze konsekwentnie: zamiast likw
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/W%C5%82adys%C5%82aw_Kozakiewicz_2016.jpg?width=800',
     imageCaption: 'Władysław Kozakiewicz',
     content: `## Sylwetka
-Władysław Kozakiewicz (ur. 1953) był jednym z najlepszych tyczkarzy świata przełomu lat 70. i 80., rekordzistą globu w skoku o tyczce.
+Władysław Kozakiewicz (ur. 1953 w Wilnie) przyjechał do Polski jako dziecko w ramach repatriacji i wyrósł na jednego z najlepszych tyczkarzy świata przełomu lat 70. i 80. Skok o tyczce był wtedy konkurencją, w której rekordy padały co sezon, a rywalizacja z Francuzami i Sowietami toczyła się non stop.
 
 ## Moskwa 1980
-Na igrzyskach olimpijskich w Moskwie zdobył złoty medal, ustanawiając rekord świata, mimo wrogiej atmosfery i gwizdów radzieckiej publiczności, która kibicowała jego rywalowi.
+Na igrzyskach w Moskwie, bojkotowanych przez Zachód, zdobył złoto z rekordem świata 5,78 m. Radziecka publiczność gwizdała i tupała podczas jego rozbiegów, kibicując Konstantinowi Wołkowowi – zakłócanie skoków było wyraźne i systematyczne.
 
 ## „Gest Kozakiewicza”
-Po zwycięskim skoku wykonał wobec trybun słynny gest zgiętej ręki – odebrany jako odpowiedź na gwizdy i symboliczny sprzeciw wobec ZSRR. Wywołał on dyplomatyczny incydent.
+Po zwycięskim skoku pokazał trybunom zgięte ramię. Radziecka ambasada zażądała odebrania medalu, a sprawa stała się incydentem dyplomatycznym; oficjalnie tłumaczono gest skurczem mięśnia. W Polsce nikt w to tłumaczenie nie wierzył i nikt tego nie potrzebował.
 
 ## Symbol
-W realiach PRL gest stał się dla Polaków symbolem nieujarzmionej dumy i niezgody na dominację radziecką, a jego echa wykraczały daleko poza sport.
+W kraju, w którym wyższość radzieckiego brata była obowiązkowym elementem każdej uroczystości, publiczny gest wobec moskiewskich trybun stał się natychmiast czymś więcej niż sportowym epizodem. Zdjęcie obiegło świat i do dziś funkcjonuje jako skrót całej epoki.
 
 ## Znaczenie
-Kozakiewicz pozostaje legendą polskiej lekkoatletyki, a jego gest – jednym z najbardziej rozpoznawalnych symboli sportowego i narodowego buntu epoki.`,
+W 1985 roku wyemigrował do Republiki Federalnej Niemiec, gdzie przez pewien czas startował. Jego gest pozostaje jednym z najbardziej rozpoznawalnych symboli sportowego i narodowego buntu w PRL.`,
     trivia: ['Złoto w Moskwie 1980 zdobył, ustanawiając rekord świata.', 'Jego gest wobec gwiżdżącej publiczności obiegł cały świat.'],
     resources: [
       {
@@ -20657,19 +20660,19 @@ Jej śmierć wstrząsnęła Polską, a pogrzeb zgromadził tłumy. Proroczy tytu
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Czterdziestolatek%2C_mural%2C_metro_Ursyn%C3%B3w%2C_Warszawa.jpg?width=800',
     imageCaption: 'Czterdziestolatek',
     content: `## Serial
-„Czterdziestolatek” (1975–1977), w reżyserii Jerzego Gruzy, opowiadał o perypetiach inżyniera Stefana Karwowskiego (Andrzej Kopiczyński), który właśnie skończył 40 lat.
+„Czterdziestolatek” w reżyserii Jerzego Gruzy powstawał w latach 1974–1977 i liczył dwadzieścia jeden odcinków. Bohaterem jest inżynier Stefan Karwowski (Andrzej Kopiczyński), budowlaniec, który właśnie skończył czterdzieści lat i mierzy się z pracą, rodziną i własnymi ambicjami.
 
 ## Portret epoki
-Serial z humorem pokazywał realia dekady Gierka: wielkie budowy (Trasa Łazienkowska, Dworzec Centralny), absurdy biurokracji, kolejki, talony i aspiracje klasy średniej PRL.
+Serial pokazywał dekadę Gierka od środka: wielkie budowy – Trasa Łazienkowska, Dworzec Centralny – premie i talony, wyjazdy służbowe na Zachód, kolejki, załatwianie i awans, który nigdy nie przychodzi tak, jak powinien. Robił to z humorem, ale bez propagandowego lukru.
 
 ## „Kobieta pracująca”
-Niezapomnianą postacią była „kobieta pracująca” (Irena Kwiatkowska), która „żadnej pracy się nie boi” – w każdym odcinku w innym zawodzie. Jej kwestie weszły do języka potocznego.
+Postać grana przez Irenę Kwiatkowską pojawiała się w każdym odcinku w innym zawodzie – jako spawaczka, taksówkarka, kelnerka. Jej kwestia „jestem kobieta pracująca, żadnej pracy się nie boję” weszła do języka potocznego i funkcjonuje w nim do dziś.
 
 ## Obsada
-Obok Kopiczyńskiego i Kwiatkowskiej grali m.in. Anna Seniuk (żona Madzia), Leonard Pietraszak (doktor Stelmach) i Roman Kłosowski.
+Obok Kopiczyńskiego i Kwiatkowskiej grali Anna Seniuk jako Madzia Karwowska, Leonard Pietraszak jako doktor Stelmach i Roman Kłosowski jako Maliniak. Zespół aktorski stworzył postacie, które widzowie traktowali jak znajomych z własnego bloku.
 
 ## Znaczenie
-„Czterdziestolatek” to jeden z najlepszych seriali PRL – komedia, która dziś jest też bezcennym dokumentem obyczajowym epoki.`,
+W 1993 roku powstała kontynuacja – „Czterdziestolatek. 20 lat później” – pokazująca tych samych bohaterów w nowej rzeczywistości. Oryginał pozostaje jednym z najlepszych seriali PRL i dokumentem obyczajowym dekady.`,
     trivia: ['Serial opowiadał o inżynierze Karwowskim i jego rodzinie.', 'Kobieta Pracująca stała się jedną z najbardziej kultowych postaci.'],
     resources: [
       {
@@ -20779,19 +20782,19 @@ Choć serial ocieplał wizerunek milicji, widzowie cenili go za sprawną fabuł�
     yearEnd: 1989,
     summary: 'Kultowy program popularnonaukowy Zdzisława Kamińskiego i Andrzeja Kurka, który przystępnie i z humorem tłumaczył naukę i technikę.',
     content: `## Program
-„Sonda” (od 1977) była telewizyjnym programem popularnonaukowym prowadzonym przez Zdzisława Kamińskiego i Andrzeja Kurka, emitowanym co tydzień przez ponad dekadę.
+„Sonda” była telewizyjnym magazynem popularnonaukowym nadawanym od 1977 roku, prowadzonym przez Zdzisława Kamińskiego i Andrzeja Kurka. Ukazywała się co tydzień przez ponad dekadę i miała stałe, świetne miejsce w ramówce.
 
 ## Formuła
-Prowadzący w formie dialogu – sceptyka i entuzjasty – tłumaczyli zagadnienia nauki i techniki: od kosmosu i komputerów po energetykę i biologię, z pokazami i efektami w studiu.
+Prowadzący rozmawiali ze sobą – jeden dopytywał, drugi tłumaczył – zamiast wykładać do kamery. Tematy szły od kosmosu, komputerów i energetyki jądrowej po biologię i medycynę, zawsze z pokazem, modelem albo eksperymentem w studiu. Był to jeden z niewielu programów, w których PRL-owska telewizja mówiła o świecie bez ideologii.
 
 ## Fenomen
-Program przyciągał miliony widzów i rozbudzał naukowe pasje pokoleń. Charakterystyczna czołówka i muzyka elektroniczna stały się znakiem rozpoznawczym.
+Program oglądały miliony widzów, w tym całe rodziny; dla wielu dzisiejszych inżynierów i naukowców był pierwszym zetknięciem z nauką jako czymś ciekawym. Elektroniczna czołówka i charakterystyczne studio należą do najlepiej pamiętanych obrazów telewizji tamtych lat.
 
 ## Tragiczny koniec
-Emisję przerwała tragiczna śmierć obu prowadzących w wypadku samochodowym w 1989 roku, w drodze na nagranie programu. Polska straciła najlepszych popularyzatorów nauki.
+30 kwietnia 1989 roku obaj prowadzący zginęli w wypadku samochodowym, jadąc na zdjęcia do kolejnego odcinka. Program zakończono; nie znaleziono nikogo, kto mógłby zastąpić duet, i nie próbowano go odtwarzać.
 
 ## Znaczenie
-„Sonda” pozostaje wzorem telewizji popularnonaukowej – dowodem, że w PRL potrafiono robić światowej klasy edukacyjną telewizję.`,
+„Sonda” pozostaje wzorem telewizji popularnonaukowej i jest przywoływana za każdym razem, gdy mowa o tym, że stacja publiczna potrafiła kiedyś robić edukację na światowym poziomie.`,
     trivia: ['Program popularnonaukowy prowadzili Zdzisław Kamiński i Andrzej Kurek.', 'Obaj zginęli w wypadku samochodowym w 1989 roku.'],
     resources: [
       {
@@ -21322,19 +21325,19 @@ Zespół należał do nurtu określanego jako Muzyka Młodej Generacji – fali 
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Brylewski.jpg?width=800',
     imageCaption: 'Brygada Kryzys',
     content: `## Powstanie
-Brygada Kryzys powstała w 1981 roku z połączenia muzyków zespołów Kryzys i Tilt. Jej filarami byli Robert Brylewski i Tomasz Lipiński – czołowe postacie polskiej sceny niezależnej.
+Brygada Kryzys powstała w 1981 roku z połączenia muzyków zespołów Kryzys i Tilt. Jej filarami byli Robert Brylewski i Tomasz Lipiński – postacie, wokół których obracała się cała warszawska scena niezależna przełomu dekad.
 
 ## „Czarny album”
-Wydany w 1982 roku album (zwany „Czarnym albumem”) stał się jednym z najważniejszych dzieł polskiej nowej fali i punka, z utworami jak „Centrala” i „Too Much”.
+Wydany w 1982 roku album, znany jako Czarny album, łączył punk, reggae i nową falę w brzmieniu, jakiego w polskich studiach dotąd nie było. Utwory „Centrala” i „Radioaktywny blok” opisywały świat betonowy, kontrolowany i bez wyjścia. Płyta ukazała się w Tonpressie, a potem zniknęła z obiegu.
 
 ## Bunt
-Muzyka i teksty zespołu wyrażały bunt, niepokój i sprzeciw wobec szarej rzeczywistości schyłku PRL. Brygada była ikoną warszawskiej sceny niezależnej.
+Zespół grał w czasie, gdy stan wojenny odciął młodą publiczność od normalnego życia kulturalnego. Koncerty odbywały się w klubach studenckich i domach kultury, często zrywane albo odwoływane. Muzyka nie zawierała haseł politycznych, ale sam sposób istnienia zespołu był deklaracją.
 
 ## Krótko, lecz mocno
-Zespół działał krótko, lecz wywarł ogromny wpływ. Brylewski i Lipiński kontynuowali kariery (Izrael, reggae, kolejne projekty), pozostając legendami undergroundu.
+Brygada działała zaledwie kilka lat, po czym rozpadła się i reaktywowała kilkakrotnie. Brylewski poszedł w stronę reggae (Izrael) i punkowej Armii, Lipiński wrócił do Tiltu – obaj pozostali punktami odniesienia dla polskiego undergroundu aż do śmierci Brylewskiego w 2018 roku.
 
 ## Znaczenie
-Brygada Kryzys to symbol polskiej nowej fali – muzyki ambitnej, niezależnej i kontestacyjnej, inspirującej kolejne pokolenia.`,
+Czarny album jest dziś wymieniany wśród najważniejszych polskich płyt w ogóle, a Brygadę Kryzys uznaje się za moment, w którym polska muzyka niezależna dogoniła to, co działo się na Zachodzie.`,
     trivia: ['Zespół tworzyli Robert Brylewski i Tomasz Lipiński.', 'Ich płyta z początku lat 80. to klasyk polskiej nowej fali.'],
     resources: [
       {
@@ -25323,16 +25326,19 @@ Serial dotknął spraw wcześniej pomijanych: szmalcownictwa, handlu, moralnej d
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej%20Zaucha%20%28lipiec%201991%29.jpg?width=800',
     imageCaption: 'Andrzej Zaucha – wokalista i perkusista.',
     content: `## Muzyk
-Andrzej Zaucha (1949–1991) był wokalistą, perkusistą i saksofonistą, samoukiem o niezwykłej swobodzie rytmicznej. Śpiewał muzykę z pogranicza jazzu, soulu i piosenki rozrywkowej – gatunków, które w polskiej estradzie rzadko się spotykały.
+Andrzej Zaucha (1949–1991) był wokalistą, perkusistą i saksofonistą, samoukiem o niezwykłej swobodzie rytmicznej. Pochodził z Krakowa i śpiewał muzykę z pogranicza jazzu, soulu i piosenki rozrywkowej – gatunków, które w polskiej estradzie rzadko się spotykały.
 
 ## Głos
-Jego sposób śpiewania, oparty na frazowaniu jazzowym i improwizacji, odróżniał go od wykonawców festiwalowych. Współpracował z zespołem Anawa i z Ewą Bem, nagrywał też muzykę do filmów i seriali.
+Frazował jak jazzman, zmieniał melodię w locie, potrafił zaimprowizować całą zwrotkę – w kraju, gdzie estrada nagradzała wierne wykonanie nut, brzmiało to obco i świeżo. Śpiewał z zespołem Anawa i w duecie z Ewą Bem, nagrywał muzykę do filmów i seriali.
 
 ## Przeboje
-Najbardziej znane są „Bądź moim natchnieniem” i „C'est la vie, Paryż z pocztówki”. Śpiewał też w musicalach i występował jako aktor, co przy jego warunkach scenicznych było naturalnym rozwinięciem kariery.
+„Bądź moim natchnieniem”, „C'est la vie, Paryż z pocztówki” i „Byle było tak” to jego najbardziej znane nagrania. Występował też w musicalach i grał w teatrze, co przy jego warunkach scenicznych było naturalnym rozwinięciem kariery.
 
 ## Śmierć
-Został zastrzelony w Krakowie w 1991 roku wraz z Zuzanną Leśniak przez jej byłego męża. Zbrodnia wstrząsnęła opinią publiczną i przerwała karierę artysty u szczytu możliwości.`,
+10 lutego 1991 roku został zastrzelony w Krakowie razem z Zuzanną Leśniak przez jej byłego męża. Zbrodnia, popełniona w środku dnia na osiedlowym parkingu, wstrząsnęła opinią publiczną i przerwała karierę artysty w momencie, gdy był u szczytu możliwości.
+
+## Znaczenie
+Jego nagrania są dziś odkrywane na nowo, także przez muzyków młodszych o pokolenie, sięgających po polski soul i funk lat 70. i 80. W tej niszy pozostaje wykonawcą bez odpowiednika.`,
     trivia: [
       'Był muzycznym samoukiem, a jego frazowanie wywodziło się z jazzu, nie z estrady.',
       'Zginął zastrzelony w Krakowie w 1991 roku – zbrodnia wstrząsnęła wtedy opinią publiczną.',
@@ -28124,16 +28130,19 @@ W kolejnych dekadach występowała rzadziej, wracając głównie przy okazji kon
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Franciszek%20Pieczka%20%281953%29.jpg?width=800',
     imageCaption: 'Franciszek Pieczka – aktor charakterystyczny.',
     content: `## Aktor
-Franciszek Pieczka (1928–2022) pochodził ze Śląska i zagrał blisko czterysta pięćdziesiąt ról. Miał typ aktorski rzadki w polskim kinie: postawny, powolny, wiarygodny w rolach ludzi prostych, ale nie prostackich.
+Franciszek Pieczka (1928–2022) pochodził z Godowa na Śląsku i zagrał kilkaset ról filmowych, teatralnych i telewizyjnych. Miał typ aktorski rzadki w polskim kinie: postawny, powolny, wiarygodny w rolach ludzi prostych, ale nigdy prostackich.
 
 ## Gustlik
-Największą popularność przyniósł mu Gustlik w serialu „Czterej pancerni i pies” (1966–1970). Postać śląskiego czołgisty stała się jedną z najbardziej rozpoznawalnych w historii polskiej telewizji.
+Największą popularność przyniósł mu Gustlik Jeleń w „Czterech pancernych i psie” (1966–1970). Śląski czołgista o niedźwiedziej sile i dobrym sercu stał się jedną z najbardziej rozpoznawalnych postaci w historii polskiej telewizji – i przylgnął do aktora na dziesięciolecia.
 
 ## Kino autorskie
-Równolegle grał u najwybitniejszych reżyserów: u Kawalerowicza, Konwickiego i Jerzego Hoffmana. Jego role w kinie ambitnym pokazywały skalę, jakiej serial nie dawał – milczenie i twarz zamiast dialogu.
+Równolegle grał u najwybitniejszych reżyserów. Tytułową rolę w „Żywocie Mateusza” Witolda Leszczyńskiego (1968) – historii człowieka nieprzystosowanego do świata – uważa się za jedno z największych osiągnięć aktorskich polskiego kina. Grał też u Kawalerowicza, Kutza i Hoffmana.
 
 ## Długowieczność
-Grał aktywnie przez ponad sześćdziesiąt lat, do późnej starości. Dla kolejnych pokoleń widzów był kimś innym: dla jednych czołgistą, dla innych Jankielem albo bohaterem seriali z lat 90.`,
+Występował przez ponad sześćdziesiąt lat, do późnej starości. Po 1989 roku zagrał Jankiela w „Panu Tadeuszu” Wajdy (1999) i przez lata występował w serialu „Ranczo”, zdobywając widownię młodszą o dwa pokolenia.
+
+## Znaczenie
+Dla jednych pozostał czołgistą, dla innych Mateuszem albo Jankielem – rzadki przypadek aktora, którego każde pokolenie zna z czegoś innego, a wszyscy z tego samego sposobu bycia na ekranie.`,
     trivia: [
       'Zagrał blisko 450 ról i pracował aktywnie przez ponad sześćdziesiąt lat.',
       'Dla różnych pokoleń widzów był kimś zupełnie innym – od Gustlika po role w kinie autorskim.',
