@@ -13547,19 +13547,19 @@ TSA otworzyła drogę kolejnym zespołom metalowym w Polsce i pozostaje klasyką
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Lady_Pank_2007.jpg?width=800',
     imageCaption: 'Lady Pank',
     content: `## Powstanie
-Lady Pank powstał w 1982 roku w Warszawie. Filarami zespołu byli gitarzysta i kompozytor Jan Borysewicz oraz wokalista Janusz Panasewicz. Teksty pisał m.in. Andrzej Mogielnicki.
+Lady Pank powstał na początku lat 80. w Warszawie z tandemu autorskiego: muzykę pisał gitarzysta Jan Borysewicz, teksty Andrzej Mogielnicki. Wokalistą został Janusz Panasewicz, którego wysoki, nosowy głos stał się znakiem rozpoznawczym zespołu.
 
 ## Sukces
-Debiutancki album „Lady Pank” (1983) okazał się jednym z najlepiej sprzedających się w historii polskiej fonografii. Zespół błyskawicznie stał się gwiazdą dekady.
+Debiutancki album „Lady Pank” (1983) sprzedał się w nakładzie liczonym w setkach tysięcy egzemplarzy i należy do najlepiej sprzedających się polskich płyt w ogóle. Zespół w ciągu kilkunastu miesięcy przeszedł z klubów na stadiony.
 
 ## Przeboje
-Największe przeboje to „Kryzysowa narzeczona”, „Mniej niż zero”, „Zamki na piasku”, „Tańcz głupia tańcz”. Chwytliwe melodie i energetyczne brzmienie zapewniły im masową popularność.
+„Kryzysowa narzeczona”, „Mniej niż zero”, „Zamki na piasku”, „Tańcz głupia, tańcz”, „Vademecum skauta” – piosenki o chwytliwych refrenach i tekstach, które przy pozornej lekkości opisywały nastroje dekady: cynizm, znużenie i brak perspektyw.
 
 ## Za granicą
-Lady Pank próbował kariery międzynarodowej, nagrywając anglojęzyczne wersje utworów i koncertując m.in. w Stanach Zjednoczonych.
+W 1985 roku ukazał się anglojęzyczny album „Drop Everything”, a zespół koncertował w Stanach Zjednoczonych. Międzynarodowej kariery z tego nie było, ale sam fakt wyjazdu na taką trasę był w PRL wydarzeniem.
 
 ## Znaczenie
-Lady Pank to symbol komercyjnego sukcesu polskiego rocka lat 80., a jego przeboje pozostają klasyką radiową do dziś.`,
+Lady Pank to najpełniejszy przykład komercyjnego sukcesu polskiego rocka lat 80. – zespołu, który grał muzykę młodzieżową, a słuchali go wszyscy. Jego przeboje pozostają stałym elementem radiowych stacji do dziś.`,
     trivia: ['Muzykę tworzył Jan Borysewicz, a teksty Andrzej Mogielnicki.', '„Mniej niż zero” to jeden z hymnów lat 80.'],
     resources: [
       {
@@ -16607,19 +16607,19 @@ Kluby Inteligencji Katolickiej współtworzyły niezależne społeczeństwo obyw
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2004_08_16_GDYNIA_Festiwal_Polskich_Filmow_Fabularnych.jpeg?width=800',
     imageCaption: 'Festiwal Polskich Filmów Fabularnych',
     content: `## Powstanie
-Festiwal Polskich Filmów Fabularnych zainaugurowano w 1974 roku w Gdańsku. Od 1987 roku jego stałą siedzibą stała się Gdynia, z którą jest dziś najmocniej kojarzony.
+Festiwal Polskich Filmów Fabularnych zainaugurowano w 1974 roku w Gdańsku i przez pierwsze trzynaście edycji odbywał się właśnie tam. Od 1987 roku jego stałą siedzibą jest Gdynia, z którą jest dziś kojarzony.
 
 ## Przegląd kina
-Festiwal był corocznym przeglądem najważniejszych polskich produkcji, miejscem prezentacji nowych filmów i debat o kondycji kinematografii.
+Był corocznym przeglądem najważniejszych polskich premier – miejscem, gdzie środowisko oglądało samo siebie, a krytyka i publiczność po raz pierwszy widziały filmy, o których potem mówiło się przez cały sezon.
 
 ## Nagrody
-Główną nagrodą były Złote Lwy (Gdańskie/Gdyńskie). Festiwal wyłaniał najwybitniejsze dzieła, w tym filmy nurtu kina moralnego niepokoju.
+Główną nagrodą były Złote Lwy, przyznawane najlepszemu filmowi. Wśród laureatów epoki PRL znalazły się dzieła kina moralnego niepokoju, które kilka lat wcześniej nie miałyby szansy nawet na produkcję.
 
 ## Polityka i kino
-W realiach cenzury festiwal bywał areną napięć – niektóre filmy wstrzymywano lub nagradzano wbrew oczekiwaniom władz. Odzwierciedlał stan ducha twórców.
+W realiach cenzury festiwal bywał areną napięć. Filmy wycofywano z programu, nagrody bywały czytane jako demonstracja środowiska wobec władz, a decyzje jury komentowano politycznie niezależnie od intencji jurorów. Po 1981 roku część nagrodzonych wcześniej filmów trafiła na półki.
 
 ## Znaczenie
-Festiwal w Gdyni pozostaje najważniejszym wydarzeniem polskiego kina, a jego historia jest zwierciadłem przemian rodzimej kinematografii od czasów PRL.`,
+Festiwal przetrwał zmianę ustroju i pozostaje najważniejszym wydarzeniem polskiego kina. Jego historia – od Gdańska lat 70., przez okres stanu wojennego, po współczesność – jest zwierciadłem przemian całej kinematografii.`,
     trivia: ['Festiwal polskich filmów fabularnych zaczynał w Gdańsku.', 'W 1982 roku w ogóle się nie odbył z powodu stanu wojennego.'],
     resources: [
       {
@@ -21152,19 +21152,19 @@ Kwiatkowska to legenda polskiej komedii – aktorka, której energia i profesjon
     yearEnd: 1985,
     summary: 'Telewizyjna akcja zachęcająca dzieci do anonimowych dobrych uczynków – fenomen wychowawczy, który ukształtował pokolenia „niewidzialnorękowiczów”.',
     content: `## Idea
-„Niewidzialna Ręka” to akcja telewizyjna zapoczątkowana w końcu lat 50. (związana z programem dla młodych widzów), zachęcająca dzieci do anonimowego pomagania innym.
+„Niewidzialna Ręka” to akcja telewizyjna dla dzieci, związana z programami Macieja Zimińskiego i przez lata prowadzona w ramach niedzielnego „Teleranka”. Zachęcała młodych widzów do pomagania innym anonimowo – bez pochwał, dyplomów i zbiorowych apeli.
 
 ## Zasady
-Uczestnicy wykonywali dobre uczynki – naprawiali płoty, nosili węgiel starszym, pomagali chorym – nie ujawniając się; zostawiali jedynie znak „Niewidzialnej Ręki”.
+Uczestnicy wykonywali dobre uczynki: naprawiali płoty, nosili węgiel starszym sąsiadom, odśnieżali chodniki, opiekowali się chorymi. Nie ujawniali się – zostawiali jedynie kartkę ze znakiem „Niewidzialnej Ręki”. O wykonanych zadaniach donosiły do telewizji osoby, którym pomożono, a nie sami wykonawcy.
 
 ## Fenomen
-Do akcji włączyły się setki tysięcy dzieci w całej Polsce. Relacje i listy pokazywano w telewizji, a idea bezinteresownej pomocy zyskała ogromny zasięg.
+Do akcji włączyły się setki tysięcy dzieci w całym kraju, powstawały szkolne i podwórkowe drużyny, a listy do redakcji liczono workami. Dla wielu uczestników był to pierwszy kontakt z ideą działania wspólnotowego poza organizacją i poza przymusem.
 
 ## Kontekst
-Choć akcja działała w ramach oficjalnej telewizji, jej przesłanie – bezinteresowna dobroć bez rozgłosu – wykraczało poza ideologię i budowało realne postawy.
+Akcja działała w ramach oficjalnej telewizji i mieściła się w wychowawczych zadaniach mediów PRL, ale jej przesłanie – bezinteresowność bez rozgłosu – nie miało w sobie nic ideologicznego. To rzadki przykład programu z tamtej epoki, który daje się wspominać bez zastrzeżeń.
 
 ## Znaczenie
-„Niewidzialna Ręka” to jeden z najjaśniejszych fenomenów wychowawczych epoki PRL, wspominany z sympatią przez pokolenia uczestników.`,
+„Niewidzialna Ręka” jest dziś przywoływana jako jeden z najjaśniejszych fenomenów wychowawczych PRL, a próby jej reaktywacji podejmowano w telewizji jeszcze kilkakrotnie po 1989 roku.`,
     trivia: ['Akcja zachęcała dzieci do anonimowego czynienia dobra.', 'Prowadzono ją w radiu przez wiele lat.'],
     resources: [
       {
@@ -21214,19 +21214,19 @@ Choć akcja działała w ramach oficjalnej telewizji, jej przesłanie – bezint
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/BAJM_24.11.2011_Edynburgh.jpg?width=800',
     imageCaption: 'Bajm',
     content: `## Powstanie
-Bajm powstał pod koniec lat 70. w Lublinie. Liderką i wokalistką została Beata Kozidrak, obdarzona mocnym, rozpoznawalnym głosem, współautorka większości przebojów.
+Bajm powstał w 1978 roku w Lublinie, w środowisku szkolno-studenckim. Liderką i wokalistką była od początku Beata Kozidrak – współautorka większości piosenek, obdarzona mocnym, natychmiast rozpoznawalnym głosem.
 
 ## Debiut
-Zespół zwypłynął na festiwalu w Opolu, a debiutancki album „Józek, nie daruję ci tej nocy” (1983) przyniósł ogromną popularność, z tytułowym przebojem na czele.
+Przełomem był festiwal w Opolu w 1983 roku, po którym zespół trafił na listy przebojów w całym kraju. W tym samym roku ukazała się debiutancka płyta „Bajm” z „Józkiem, nie daruję ci tej nocy” i „Piechotą do lata”.
 
 ## Przeboje
-Do największych hitów dekady należą „Józek”, „Piechotą do lata”, „Co mi, Panie, dasz”. Bajm łączył melodyjny pop z rockowym pazurem, podbijając listy przebojów.
+„Józek”, „Piechotą do lata”, „Co mi, Panie, dasz”, „Biała armia” – Bajm łączył melodyjny pop z rockowym brzmieniem i tekstami pisanymi z kobiecej perspektywy, co na ówczesnej estradzie nie było oczywiste.
 
 ## Pozycja
-Beata Kozidrak stała się jedną z najważniejszych wokalistek polskiej sceny, a Bajm – jednym z nielicznych zespołów z kobietą-liderką na czołowej pozycji.
+Zespół z kobietą na czele, a nie z wokalistką dopisaną do męskiego składu, był w polskiej muzyce rozrywkowej rzadkością. Kozidrak stała się jedną z najważniejszych postaci sceny i pozostała nią przez kolejne dekady.
 
 ## Znaczenie
-Bajm to klasyk polskiego popu i rocka; jego przeboje z lat 80. pozostają do dziś rozpoznawalne i chętnie wykonywane.`,
+Bajm nagrał kilkanaście albumów i przetrwał zmianę ustroju bez utraty popularności. Jego piosenki z lat 80. należą dziś do żelaznego repertuaru polskiej muzyki rozrywkowej.`,
     trivia: ['Wokalistką i twarzą zespołu jest Beata Kozidrak.', 'Grupa pochodzi z Lublina.'],
     resources: [
       {
@@ -21841,13 +21841,16 @@ Ekscentryczny wizerunek sceniczny i późniejsze samotne życie w otoczeniu zwie
 Lombard powstał w 1981 roku w Poznaniu. Liderem był Grzegorz Stróżniak – kompozytor, aranżer i klawiszowiec, a charakterystyczny, wysoki wokal wniosła Małgorzata Ostrowska.
 
 ## Przeboje
-Największą popularność przyniosły „Przeżyj to sam” i „Szklana pogoda”. Obie piosenki, powstałe w pierwszej połowie lat 80., publiczność odczytywała jako komentarz do nastrojów po stanie wojennym.
+„Przeżyj to sam” z płyty „Śmierć dyskotece!” (1983) i „Szklana pogoda” z „Anatomii” (1984) stały się przebojami dekady. Obie piosenki publiczność odczytywała jako komentarz do nastrojów po stanie wojennym – mimo że teksty mówiły o rzeczach ogólnych, kontekst dopisywał resztę.
 
 ## Brzmienie
 Zespół grał rock z mocną warstwą klawiszową i wyrazistą melodią, adresowany do szerokiej publiczności. Była to formuła pośrednia między estradą a sceną rockową – i właśnie dzięki temu docierał do obu.
 
 ## Skala
-Lombard nagrał kilkanaście płyt i zagrał kilka tysięcy koncertów w kraju i za granicą. Należy do zespołów, które przetrwały nie tylko dekadę swojej największej popularności, ale i zmianę ustroju.`,
+Lombard nagrał kilkanaście płyt i zagrał kilka tysięcy koncertów w kraju i za granicą, w tym w Stanach Zjednoczonych i Związku Radzieckim. Należy do zespołów, które przetrwały nie tylko dekadę swojej największej popularności, ale i zmianę ustroju.
+
+## Później
+Ostrowska odeszła z zespołu na początku lat 90. i rozwinęła karierę solową; Stróżniak kontynuował działalność Lombardu z nowymi wokalistkami. Obie strony wykonują dziś ten sam repertuar, co bywa przedmiotem sporów o prawa do nazwy.`,
     trivia: [
       '„Przeżyj to sam” i „Szklaną pogodę” odczytywano jako komentarz do nastrojów po stanie wojennym.',
       'Zespół zagrał kilka tysięcy koncertów w kraju i za granicą.',
@@ -22662,16 +22665,19 @@ Brak telefonu kształtował codzienność: umawiano się z góry i na stałe, pi
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Dwa_plus_Jeden_1972.jpg?width=800',
     imageCaption: '2 plus 1',
     content: `## Zespół
-2 plus 1 powstał w 1971 roku w Warszawie, założony przez Janusza Kruka i Elżbietę Dmoch. Nazwa opisywała skład: dwóch mężczyzn i kobieta, choć z czasem obsada się zmieniała.
+2 plus 1 powstał w 1971 roku w Warszawie, założony przez Janusza Kruka i Elżbietę Dmoch. Nazwa opisywała skład: dwóch mężczyzn i kobieta – trzecim był kolejno Andrzej Rybiński, a potem Cezary Szlązak.
 
 ## Brzmienie
-Grupa zaczynała od folku i piosenki akustycznej, opartej na trzygłosowych harmoniach, by w latach 80. przejść w stronę popu i muzyki elektronicznej. Nagrali dziesięć albumów studyjnych, w tym trzy złote płyty.
+Grupa zaczynała od folku i piosenki akustycznej, opartej na trzygłosowych harmoniach, by w latach 80. przejść w stronę popu i muzyki elektronicznej. Nagrali dziesięć albumów studyjnych i należeli do najlepiej sprzedających się wykonawców epoki.
 
 ## Przeboje
-Najbardziej znane są „Chodź, pomaluj mój świat”, „Windą do nieba” i „Windmills”. Pierwsza z tych piosenek należy do najczęściej wykonywanych utworów polskiej muzyki rozrywkowej.
+„Chodź, pomaluj mój świat” (1976) to jedna z najczęściej wykonywanych polskich piosenek w ogóle – śpiewana przy ogniskach przez pokolenia, które nie kojarzą już jej autorów. Do tego „Windą do nieba” (1984), „Iść w stronę słońca” i „Wyspa dzieci”.
 
 ## Zagranica
-Zespół koncertował i nagrywał także poza krajem, m.in. w Niemczech Zachodnich. Melodyjność i brak tekstu politycznego czyniły ich muzykę łatwą do eksportu – co w PRL było jedną z niewielu dróg do zagranicznej publiczności.`,
+Zespół nagrywał i koncertował w Niemczech Zachodnich, wydając tam płyty w wersjach anglo- i niemieckojęzycznych. Melodyjność i brak politycznego tekstu czyniły tę muzykę łatwą do eksportu – co w PRL było jedną z niewielu dróg do zagranicznej publiczności.
+
+## Koniec
+Janusz Kruk zmarł nagle w 1992 roku, co zakończyło historię zespołu. Elżbieta Dmoch wycofała się z życia publicznego i od tego czasu nie występuje ani nie udziela wywiadów.`,
     trivia: [
       'Nazwa opisywała skład: dwóch mężczyzn i kobieta.',
       '„Chodź, pomaluj mój świat” należy do najczęściej wykonywanych polskich piosenek.',
@@ -22773,13 +22779,16 @@ Trubadurzy pokazują, że polski big-beat nie był wyłącznie kopiowaniem Zacho
 Zdzisława Sośnicka (ur. 1945) pochodzi z Kalisza i jest jedną z najbardziej cenionych polskich wokalistek. Ma wykształcenie muzyczne, jest też dyrygentką i kompozytorką, publikującą pod pseudonimem.
 
 ## Skala
-Jej głos – mocny, o dużej rozpiętości – pozwalał wykonywać repertuar od piosenki estradowej po utwory zbliżone do rocka symfonicznego. W polskiej muzyce lat 70. był to głos bez odpowiednika.
+Jej głos – mocny, o dużej rozpiętości – pozwalał wykonywać repertuar od piosenki estradowej po utwory zbliżone do rocka symfonicznego. W polskiej muzyce lat 70. był to głos bez odpowiednika, częściej porównywany do wykonawczyń zachodnich niż krajowych.
 
 ## Przeboje
-Najbardziej znane są „Julia i ja”, „Aleja gwiazd” i „Dom, który mam”. Śpiewała do muzyki czołowych kompozytorów epoki i regularnie występowała na festiwalach w Opolu i Sopocie.
+„Julia i ja”, „Aleja gwiazd”, „Dom, który mam”, „Serce” – śpiewała do muzyki czołowych kompozytorów epoki i regularnie występowała na festiwalach w Opolu i Sopocie, gdzie zdobywała główne nagrody.
 
 ## Warsztat
-Sośnicka należy do wykonawczyń, które zbudowały pozycję na umiejętnościach wokalnych, a nie na wizerunku. W czasach, gdy o karierze decydowało radio i festiwal, taka droga była możliwa – dziś byłaby znacznie trudniejsza.`,
+Należy do wykonawczyń, które zbudowały pozycję na umiejętnościach wokalnych, a nie na wizerunku. W czasach, gdy o karierze decydowały radio i festiwal, taka droga była możliwa – dziś byłaby znacznie trudniejsza.
+
+## Później
+Po 1989 roku ograniczyła występy i przez lata nie nagrywała, wracając okazjonalnie na koncerty i do studia. Jej płyty z lat 70. i 80. są dziś odkrywane na nowo, także przez młodszych muzyków sięgających po tamten repertuar.`,
     trivia: [
       'Ma wykształcenie muzyczne, jest też dyrygentką i kompozytorką.',
       'Jej głos pozwalał wykonywać repertuar od piosenki estradowej po utwory bliskie rockowi symfonicznemu.',
@@ -24305,16 +24314,19 @@ Dialogi weszły do języka potocznego, a określenia z filmu były używane jako
     yearStart: 1981,
     summary: 'Ciepły serial obyczajowy Radosława Piwowarskiego (1981) o poczciwym warszawskim kanalarzu Janie Sercu, idealiście i pechowcu z Woli.',
     content: `## Serial
-„Jan Serce” to serial obyczajowy z 1981 roku w reżyserii Radosława Piwowarskiego, z Kazimierzem Kaczorem w roli tytułowej. Powstał tuż przed stanem wojennym, w okresie legalnej Solidarności.
+„Jan Serce” to siedmioodcinkowy serial obyczajowy zrealizowany w 1981 roku przez Radosława Piwowarskiego, z Kazimierzem Kaczorem w roli tytułowej. Powstawał w okresie legalnej Solidarności, a na ekrany trafił już w innej Polsce.
 
 ## Bohater
-Jan Serce jest hydraulikiem: człowiekiem dobrym, nieporadnym w sprawach uczuciowych i pozbawionym cech bohatera. Serial obserwuje jego codzienność, nie robiąc z niej ani tragedii, ani komedii.
+Jan Serce jest hydraulikiem: człowiekiem dobrym, nieporadnym w sprawach uczuciowych i pozbawionym cech bohatera. Kolejne odcinki to kolejne kobiety w jego życiu i kolejne nieporozumienia, z których wychodzi bez pretensji do świata.
 
 ## Zwykłość jako temat
-Wartość serialu polegała na tym, że pokazywał życie takim, jakie było – z ciasnym mieszkaniem, pracą, kolejką i samotnością – bez propagandowego optymizmu i bez publicystycznego oskarżenia. Taka zwykłość była w telewizji PRL rzadkością.
+Wartość serialu polegała na tym, że pokazywał życie takim, jakie było – z ciasnym mieszkaniem, pracą, kolejką i samotnością – bez propagandowego optymizmu i bez publicystycznego oskarżenia. Taka zwykłość była w telewizji PRL rzadkością: bohaterami bywali albo budowniczowie socjalizmu, albo ludzie uwikłani w wielkie sprawy.
 
 ## Odbiór
-Serial zyskał sympatię widzów właśnie za ten ton. Tytułowa postać weszła do języka jako określenie człowieka poczciwego i bezbronnego wobec życia.`,
+Serial zyskał sympatię widzów właśnie za ten ton, a rola Kaczora – wcześniej kojarzonego z „Polskimi drogami” – pokazała go z zupełnie innej strony. Tytułowa postać weszła do języka jako określenie człowieka poczciwego i bezbronnego wobec życia.
+
+## Miejsce w kinie Piwowarskiego
+Piwowarski rozwinął tę wrażliwość w późniejszych filmach, m.in. w „Yesterday” (1984) i „Kochankach mojej mamy” (1985). Wszystkie łączy zainteresowanie ludźmi z drugiego planu i niechęć do wielkich tez.`,
     trivia: [
       'Serial nakręcono w 1981 roku, tuż przed wprowadzeniem stanu wojennego.',
       'Imię bohatera weszło do języka jako określenie człowieka poczciwego i bezbronnego.',
@@ -33013,7 +33025,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1979, event: 'Agnieszka Holland debiutuje „Aktorami prowincjonalnymi” (nagroda w Cannes)', category: 'kultura', entryId: 'holland-agnieszka' },
   { year: 1982, event: 'Brygada Kryzys wydaje „Czarny album” – manifest nowej fali', category: 'kultura', entryId: 'brygada-kryzys' },
   { year: 1982, event: 'Polska zajmuje 3. miejsce na mundialu w Hiszpanii; gwiazdą Zbigniew Boniek', category: 'społeczeństwo', entryId: 'mundial-1982' },
-  { year: 1983, event: 'Debiut Bajm – album „Józek, nie daruję ci tej nocy”', category: 'kultura', entryId: 'bajm-zespol' },
+  { year: 1983, event: 'Debiut Bajmu – album „Bajm” z przebojem „Józek, nie daruję ci tej nocy”', category: 'kultura', entryId: 'bajm-zespol' },
   { year: 1985, event: 'Zbigniew Boniek zdobywa z Juventusem Puchar Europy', category: 'społeczeństwo', entryId: 'boniek-zbigniew' },
   { year: 1961, event: 'Violetta Villas podbija estradę swoim wielooktawowym głosem', category: 'kultura', entryId: 'violetta-villas' },
   { year: 1968, event: 'Irena Santor – przebój „Powrócisz tu”', category: 'kultura', entryId: 'irena-santor' },
