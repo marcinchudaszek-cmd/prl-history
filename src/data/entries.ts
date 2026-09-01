@@ -15918,19 +15918,19 @@ Pochody pierwszomajowe to symbol propagandowej obrzędowości PRL – spektaklu 
     yearEnd: 1989,
     summary: 'Najważniejsze święto państwowe PRL, ustanowione w rocznicę ogłoszenia Manifestu PKWN, symbolicznego „narodzenia” Polski Ludowej.',
     content: `## Geneza
-22 lipca ustanowiono Narodowym Świętem Odrodzenia Polski – w rocznicę ogłoszenia w 1944 roku Manifestu PKWN, uznawanego przez władze za akt założycielski Polski Ludowej.
+22 lipca ustanowiono Narodowym Świętem Odrodzenia Polski już w 1945 roku – w rocznicę ogłoszenia Manifestu PKWN. Dokument, formalnie proklamowany w Chełmie, powstał i został zatwierdzony w Moskwie, co przez całą epokę było w oficjalnych opisach pomijane.
 
 ## Główne święto państwowe
-Było to najważniejsze święto PRL, zastępujące przedwojenne 3 Maja i 11 Listopada. Organizowano akademie, defilady, otwarcia inwestycji i uroczystości.
+Zastąpiło przedwojenne 3 maja i 11 listopada, które usunięto z kalendarza. Program był co roku ten sam: akademia z referatem, capstrzyk, defilada, dekoracje odznaczeniami, festyn i wieczorne fajerwerki. W 1966 roku święto połączono z Defiladą Tysiąclecia.
 
 ## „Czyny” i otwarcia
-Na 22 lipca przyspieszano oddawanie do użytku obiektów – mostów, fabryk, osiedli – często niedokończonych, by zameldować o sukcesach „na czas” na święto.
+Na 22 lipca przyspieszano oddawanie inwestycji: mostów, fabryk, osiedli, odcinków dróg. Obiekty przecinano wstęgą niedokończone, żeby zameldować wykonanie na czas – Trasa Łazienkowska, Dworzec Centralny czy kolejne bloki oddawano właśnie „na lipca”. Usterki poprawiano potem miesiącami.
 
 ## Amnestie
-Z okazji 22 lipca ogłaszano amnestie, niekiedy obejmujące więźniów politycznych – element propagandowego gestu „łaski” władzy.
+Z okazji święta ogłaszano amnestie, obejmujące niekiedy więźniów politycznych – najgłośniejsza w lipcu 1984 roku objęła osoby skazane po 13 grudnia 1981. Był to gest łaski dozowany przez władzę i wykorzystywany propagandowo.
 
 ## Znaczenie
-Święto 22 Lipca to symbol legitymizacji systemu przez odwołanie do Manifestu PKWN. Po 1989 roku zniesiono je, przywracając Święto Niepodległości 11 Listopada.`,
+Święto legitymizowało system przez odwołanie do Manifestu jako aktu założycielskiego. Zniesiono je w 1990 roku, przywracając 11 listopada jako Narodowe Święto Niepodległości.`,
     trivia: ['Było głównym świętem państwowym PRL.', 'Z tej okazji uroczyście oddawano do użytku nowe inwestycje.'],
     resources: [
       {
@@ -19344,19 +19344,19 @@ Reforma odebrała oszczędności znacznej części społeczeństwa i na długo p
     yearEnd: 1989,
     summary: 'Polski komiks epoki PRL – od „Tytusa, Romka i A’Tomka” po „Kapitana Żbika” i „Kajka i Kokosza” – łączył rozrywkę, edukację, a czasem propagandę.',
     content: `## Rozwój
-Mimo nieufności władz wobec „zachodniej” formy komiks rozwinął się w PRL, zyskując ogromną popularność wśród dzieci i młodzieży, zwłaszcza od lat 60. i 70.
+Władze traktowały komiks nieufnie jako formę „zachodnią” i płytką, ale od lat 60. przestały go zwalczać, a zaczęły wykorzystywać. Historyjki obrazkowe ukazywały się w prasie dziecięcej – przede wszystkim w „Świecie Młodych” – a od 1976 roku istniał osobny magazyn „Relax”.
 
 ## Tytus, Romek i A’Tomek
-Seria Henryka Jerzego Chmielewskiego (Papcia Chmiela), tworzona od 1957 roku, z humorem i pomysłowością łączyła przygodę z edukacją; stała się klasyką polskiego komiksu.
+Serię Henryka Jerzego Chmielewskiego, znanego jako Papcio Chmiel, publikowano od 1957 roku nieprzerwanie przez pół wieku. Tytus de Zoo, małpa uczłowieczana przez dwóch harcerzy, trafiał kolejno do wojska, kosmosu i na budowę – forma pozwalała żartować z rzeczywistości pod pozorem edukacji.
 
 ## Kapitan Żbik
-Seria o oficerze milicji „Kapitan Żbik” miała walory rozrywkowe, ale i propagandowe – budowała pozytywny wizerunek MO. Mimo to była namiętnie kolekcjonowana.
+Wydawana od 1967 roku seria o oficerze milicji liczyła kilkadziesiąt zeszytów i powstawała przy współpracy z MO, która dbała o pozytywny wizerunek funkcjonariusza. Mimo tej genezy zeszyty były namiętnie kolekcjonowane i wymieniane, a kupony z ostatniej strony zbierano jak znaczki.
 
 ## Kajko i Kokosz
-Janusz Christa stworzył słowiańską, humorystyczną serię „Kajko i Kokosz”, do dziś uwielbianą i wznawianą, wolną od politycznych podtekstów.
+Janusz Christa stworzył od 1972 roku słowiańską, humorystyczną serię o dwóch wojach z Mirmiłowa – wolną od jakichkolwiek podtekstów politycznych i dzięki temu zupełnie nieprzestarzałą. Jest wznawiana do dziś i doczekała się serialu animowanego.
 
 ## Znaczenie
-Komiks PRL, mimo niedoboru papieru i kontroli treści, ukształtował wyobraźnię pokoleń i pozostaje ważnym elementem popkultury epoki.`,
+Komiks PRL powstawał w warunkach niedoboru papieru, kiepskiego druku i kontroli treści, a mimo to ukształtował wyobraźnię kilku pokoleń. Zeszyty z tamtych lat są dziś przedmiotem kolekcjonerskiego rynku.`,
     trivia: ['Kapitan Żbik był komiksem promującym milicję.', 'Tytus, Romek i A\'Tomek towarzyszyli kolejnym pokoleniom dzieci.'],
     resources: [
       {
@@ -20082,19 +20082,19 @@ Zasiadał w Senacie I kadencji, potem wrócił do nauki. Otwarcie krytykował ko
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Edward_Stachura_IPN.jpg?width=800',
     imageCaption: 'Edward Stachura',
     content: `## Sylwetka
-Edward Stachura „Sted” (1937–1979) był poetą, prozaikiem i pieśniarzem, twórcą własnej, osobnej filozofii życia i jednym z najbardziej kultowych pisarzy swojego pokolenia.
+Edward Stachura „Sted” (1937–1979) urodził się we Francji, w rodzinie polskich emigrantów zarobkowych, i przyjechał do Polski jako dziecko. Był poetą, prozaikiem, pieśniarzem i tłumaczem, a przede wszystkim twórcą własnego sposobu życia, w którym pisanie i wędrowanie były tym samym.
 
 ## Włóczęga i twórczość
-Prowadził życie wędrowca, podróżując po Polsce i świecie. Jego proza („Cała jaskrawość”, „Siekierezada”) i poezja głosiły jedność z naturą, wolność i poszukiwanie autentyczności.
+Przemierzał Polskę autostopem i pociągami, pracował dorywczo, jeździł do Meksyku, Norwegii i na Bliski Wschód. „Cała jaskrawość” (1969) i „Siekierezada albo Zima leśnych ludzi” (1971) opisują ten świat: pracę fizyczną, drogę, obcowanie z ludźmi na marginesie. Późniejsze „Się” (1977) rozbija już samą formę prozy.
 
 ## Pieśni
-Wiele jego tekstów (m.in. „Jak”, „Dni, których nie znamy” – z Grechutą) stało się popularnymi piosenkami, szczególnie w środowiskach studenckich i turystycznych.
+Pisał teksty i śpiewał je do własnej gitary. „Jak” i „Dni, których nie znamy” – ta druga w wykonaniu Marka Grechuty – weszły do kanonu piosenki studenckiej i turystycznej. Śpiewano je na obozach, rajdach i przy ogniskach przez kolejne dekady.
 
 ## Legenda
-Tragiczna śmierć w 1979 roku ugruntowała legendę „Steda” jako artysty przeklętego i wędrowca, wiernego własnej drodze wbrew konwenansom.
+W 1979 roku stracił w wypadku kolejowym dłoń, przeszedł załamanie i 24 lipca odebrał sobie życie w wieku czterdziestu dwóch lat. Pozostawił zapiski, które wydano jako „Pogodzić się ze światem”. Śmierć dopełniła legendy poety przeklętego.
 
 ## Znaczenie
-Stachura pozostaje patronem nonkonformistów i poszukiwaczy wolności; jego twórczość wciąż inspiruje czytelników i muzyków.`,
+Stachura pozostaje patronem nonkonformistów: czytany bywa raczej jako propozycja postawy niż zestaw książek. Jego kult, najsilniejszy wśród młodych czytelników, trwa nieprzerwanie od lat 70.`,
     trivia: ['Poeta-włóczęga, kultowy wśród młodzieży lat 70.', 'Zmarł tragicznie w 1979 roku.'],
     resources: [
       {
@@ -20841,19 +20841,19 @@ Emisję przerwała tragiczna śmierć obu prowadzących w wypadku samochodowym w
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz_Kutz_Kancelaria_Senatu_2005.jpg?width=800',
     imageCaption: 'Kazimierz Kutz',
     content: `## Sylwetka
-Kazimierz Kutz (1929–2018), rodowity Ślązak z Szopienic, był reżyserem filmowym, teatralnym i telewizyjnym, który wprowadził Górny Śląsk do wielkiej sztuki.
+Kazimierz Kutz (1929–2018) pochodził z Szopienic, robotniczej dzielnicy Katowic, i był Ślązakiem w czasach, gdy śląskość traktowano w kulturze jako folklor albo problem. Zaczynał jako asystent Andrzeja Wajdy przy „Kanale” i „Popiele i diamencie”.
 
 ## Tryptyk śląski
-Jego najsłynniejsze dzieła to „Sól ziemi czarnej” (1969) o powstaniach śląskich, „Perła w koronie” (1971) o strajku górników i „Paciorki jednego różańca” (1979) o godności starego górnika.
+„Sól ziemi czarnej” (1969) opowiada o drugim powstaniu śląskim oczami siedmiu braci, „Perła w koronie” (1971) o strajku okupacyjnym górników w latach 30., a „Paciorki jednego różańca” (1979) o starym górniku, który nie chce oddać domu pod wyburzenie. Trzy filmy złożyły się na portret regionu, jakiego polskie kino wcześniej nie miało.
 
 ## Język filmowy
-Kutz stworzył własny, malarski styl – epicki i liryczny zarazem, czerpiący z śląskiego pejzażu, obyczaju i etosu pracy. Dał Ślązakom głos i godność na ekranie.
+Kutz filmował Śląsk malarsko – hałdy, familoki, procesje, wesela – ale bez cepelii. Mówił o etosie pracy, wierności i godności ludzi, których w oficjalnym obiegu przedstawiano jako trybik przemysłu ciężkiego. Aktorów często dobierał spośród mieszkańców, a dialogi zostawiał w gwarze.
 
 ## Teatr i telewizja
-Reżyserował także w Teatrze Telewizji, tworząc wybitne spektakle. Po 1989 roku angażował się również w życie publiczne.
+Wyreżyserował kilkadziesiąt spektakli Teatru Telewizji, w tym „Śmierć jak kromka chleba” (1994) o pacyfikacji kopalni Wujek – temat, którego przez całe lata 80. nie można było tknąć.
 
 ## Znaczenie
-Kutz to klasyk polskiego kina i najważniejszy artystyczny ambasador Śląska – regionu, którego tożsamość uczynił tematem uniwersalnym.`,
+Po 1989 roku był senatorem i wicemarszałkiem Sejmu, ostro obecnym w debacie publicznej. Pozostaje najważniejszym artystycznym ambasadorem Śląska, który z regionalnej tożsamości zrobił temat uniwersalny.`,
     trivia: ['Stworzył śląską trylogię – „Sól ziemi czarnej” i „Perłę w koronie”.', 'Pochodził z Szopienic i opowiadał o Śląsku po swojemu.'],
     resources: [
       {
@@ -21092,19 +21092,19 @@ Zmarł w 1982 roku, w wieku pięćdziesięciu dwóch lat, u szczytu popularnośc
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Irena_Kwiatkowska.jpg?width=800',
     imageCaption: 'Irena Kwiatkowska',
     content: `## Sylwetka
-Irena Kwiatkowska (1912–2011) była aktorką teatralną, kabaretową i telewizyjną, jedną z najwybitniejszych komediowych osobowości polskiej sceny.
+Irena Kwiatkowska (1912–2011) zdała egzamin aktorski jeszcze przed wojną, w 1935 roku, i grała nieprzerwanie przez siedem dekad. Była aktorką teatralną, kabaretową, radiową i telewizyjną – z warsztatem szkoły przedwojennej i komediowym instynktem, który działał w każdym medium.
 
 ## Kabaret Starszych Panów
-W telewizyjnym Kabarecie Starszych Panów stworzyła niezapomniane kreacje i interpretacje piosenek Przybory i Wasowskiego („Herkulesy”, „Shimmy szuja”).
+W programach Jeremiego Przybory i Jerzego Wasowskiego stworzyła cykl niezapomnianych postaci i wykonań, od „Herkulesów” po „Shimmy szuja”. Jej sposób podawania tekstu – każde słowo słyszalne, każdy żart wypunktowany – stał się wzorcem dla kolejnych pokoleń.
 
 ## „Kobieta pracująca”
-Pokoleniom widzów wryła się w pamięć jako „kobieta pracująca” z „Czterdziestolatka” – w każdym odcinku w innym zawodzie, z kultową frazą „żadna praca mi nie straszna”.
+W „Czterdziestolatku” (1974–1977) grała postać pojawiającą się w każdym odcinku w innym zawodzie: jako spawaczka, taksówkarka, betoniarka, kelnerka. Jej kwestia „jestem kobieta pracująca, żadnej pracy się nie boję” i sam typ kobiety robiącej wszystko weszły do języka i do zbiorowego obrazu tamtej dekady.
 
 ## Mistrzostwo słowa
-Słynęła z perfekcyjnej dykcji i interpretacji – znakomicie mówiła wiersze (m.in. Tuwima i Brzechwę dla dzieci), łącząc precyzję z komizmem.
+Nagrywała wiersze Tuwima i Brzechwy dla dzieci, występowała w radiowym „Podwieczorku przy mikrofonie” i w Teatrze Syrena. Słynęła z dykcji, którą wykładowcy stawiali studentom za wzór.
 
 ## Znaczenie
-Kwiatkowska to legenda polskiej komedii – aktorka, której energia i profesjonalizm pozostają wzorem; pracowała na scenie niemal do setnych urodzin.`,
+Grała do późnej starości, a jej stulecie obchodzono jako wydarzenie kulturalne. Pozostaje legendą polskiej komedii – aktorką, którą pamięta się z ról drugoplanowych bardziej niż wielu odtwórców głównych.`,
     trivia: ['Zagrała Kobietę Pracującą w „Czterdziestolatku”.', 'Jej kwestia o tym, że żadnej pracy się nie boi, weszła do języka.'],
     resources: [
       {
@@ -21436,19 +21436,19 @@ Pokolenie Bońka, Laty, Smolarka, Szarmacha i Młynarczyka zamknęło najlepszy 
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zbigniew_Boniek_2015.jpg?width=800',
     imageCaption: 'Zbigniew Boniek',
     content: `## Sylwetka
-Zbigniew Boniek (ur. 1956) to jeden z najwybitniejszych polskich piłkarzy w historii – wszechstronny, szybki napastnik i ofensywny pomocnik o znakomitym wykończeniu akcji.
+Zbigniew Boniek (ur. 1956 w Bydgoszczy) zaczynał w Zawiszy Bydgoszcz, a w 1975 roku przeszedł do Widzewa Łódź. Był piłkarzem szybkim, silnym fizycznie i skutecznym – grał zarówno jako napastnik, jak i ofensywny pomocnik.
 
 ## Widzew i reprezentacja
-Karierę rozwinął w Widzewie Łódź, z którym odnosił sukcesy ligowe i europejskie. W reprezentacji błyszczał na mundialach 1978 i przede wszystkim 1982.
+Z Widzewem zdobył mistrzostwo Polski w 1981 i 1982 roku, a w europejskich pucharach eliminował m.in. Manchester United i Juventus – co zwróciło na niego uwagę zachodnich klubów. W reprezentacji debiutował w 1976 roku i zagrał na trzech mistrzostwach świata.
 
 ## Mundial 1982
-Na mistrzostwach w Hiszpanii był gwiazdą turnieju, m.in. z hat-trickiem w meczu z Belgią, co przesądziło o jego transferze do najlepszych klubów Europy.
+W Hiszpanii był gwiazdą turnieju: trzy bramki w meczu z Belgią, wybór do drużyny mistrzostw, a potem transfer do Juventusu. W półfinale nie zagrał przez kartkę – jego nieobecność uchodzi za jedną z przyczyn porażki z Włochami.
 
-## Juventus
-W Juventusie Turyn („Bello di notte” – „piękny nocą”, od świetnej gry w europejskich pucharach) zdobył m.in. Puchar Europy w 1985 roku, grając u boku Platiniego.
+## Juventus i Roma
+W Turynie grał u boku Michela Platiniego, zdobywając Puchar Zdobywców Pucharów (1984) i Puchar Europy (1985 – finał na Heysel, rozegrany po katastrofie, w której zginęło 39 osób). Gianni Agnelli nazwał go „Bello di notte”, pięknym nocą, za formę w meczach pucharowych rozgrywanych wieczorami. Od 1985 roku grał w Romie.
 
 ## Znaczenie
-Boniek to ikona polskiej piłki, jeden z nielicznych Polaków, którzy osiągnęli sukcesy na najwyższym światowym poziomie klubowym.`,
+Był pierwszym polskim piłkarzem, który wygrywał najważniejsze trofea klubowe Europy, a nie tylko błyszczał w reprezentacji. Po karierze pracował jako trener, a w latach 2012–2021 był prezesem PZPN.`,
     trivia: ['Na mundialu 1982 strzelił trzy gole w jednym meczu z Belgią.', 'Grał później w Juventusie i Romie.'],
     resources: [
       {
@@ -22117,16 +22117,19 @@ Grechuta pokazał, że piosenka może być literaturą bez utraty popularności.
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ewa%20Demarczyk%20Polish%20singer.jpg?width=800',
     imageCaption: 'Ewa Demarczyk – „czarny anioł” polskiej piosenki poetyckiej.',
     content: `## Głos
-Ewa Demarczyk (1941–2020) była najwybitniejszą wykonawczynią polskiej poezji śpiewanej. Nie śpiewała piosenek – interpretowała wiersze, budując z nich dramatyczne monologi o skrajnej ekspresji.
+Ewa Demarczyk (1941–2020) była najwybitniejszą wykonawczynią polskiej poezji śpiewanej. Nie śpiewała piosenek – interpretowała wiersze, budując z nich dramatyczne monologi o skrajnej ekspresji, prowadzone od szeptu do krzyku w obrębie jednego utworu.
 
 ## Piwnica pod Baranami
-W latach 1962–1972 była związana z krakowską Piwnicą pod Baranami. Tam powstał jej repertuar, oparty na tekstach Baczyńskiego, Tuwima, Leśmiana i Białoszewskiego, z muzyką Zygmunta Koniecznego i Andrzeja Zaryckiego.
+Od 1962 roku występowała w krakowskiej Piwnicy pod Baranami. Tam powstał jej repertuar: „Karuzela z madonnami” do wiersza Białoszewskiego, „Grande valse brillante” do Tuwima, „Tomaszów” i teksty Baczyńskiego oraz Leśmiana, z muzyką Zygmunta Koniecznego, a później Andrzeja Zaryckiego.
 
 ## Czarny anioł
-Występowała w czerni, bez scenografii i konferansjerki, w skupieniu bliższym koncertowi niż estradzie. Przydomek Czarnego Anioła oddawał zarówno wygląd, jak i charakter tych występów.
+Grand Prix festiwalu w Opolu w 1963 roku otworzyło jej drogę do szerokiej publiczności. Występowała w czerni, bez scenografii i konferansjerki, w skupieniu bliższym koncertowi poważnemu niż estradzie. Przydomek Czarnego Anioła oddawał zarówno wygląd, jak i temperaturę tych występów.
+
+## Kariera zagraniczna
+Śpiewała w paryskiej Olympii, w Carnegie Hall i na festiwalach w kilkunastu krajach, a jej nagrania wydawano we Francji i Związku Radzieckim. Krytyka zagraniczna porównywała ją do Édith Piaf, choć sama odrzucała takie zestawienia.
 
 ## Wycofanie
-Koncertowała na całym świecie, ale z czasem ograniczała występy, a w latach 90. wycofała się całkowicie i nie udzielała wywiadów. Pozostawiła niewiele nagrań, co paradoksalnie wzmocniło legendę.`,
+W latach 1986–2000 prowadziła własny teatr w Krakowie, potem wycofała się całkowicie: nie występowała, nie nagrywała i nie udzielała wywiadów. Zostawiła zaledwie kilka płyt – niedosyt, który paradoksalnie wzmocnił legendę.`,
     trivia: [
       'Nie śpiewała piosenek, lecz interpretowała wiersze – Baczyńskiego, Tuwima, Leśmiana.',
       'Występowała w czerni, bez scenografii i konferansjerki; stąd przydomek Czarnego Anioła.',
@@ -23601,16 +23604,19 @@ Wraz z upowszechnieniem Malucha w latach 70. motocykl przestał być pierwszym w
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/POL_Wac%C5%82aw_Kowalski_W%C5%82adys%C5%82aw_Ha%C5%84cza.jpg?width=800',
     imageCaption: 'Sami swoi',
     content: `## Film
-„Sami swoi” Sylwestra Chęcińskiego z 1967 roku powstał według scenariusza Andrzeja Mularczyka. To pierwsza część trylogii, którą uzupełniły „Nie ma mocnych” i „Kochaj albo rzuć”.
+„Sami swoi” Sylwestra Chęcińskiego z 1967 roku powstały według scenariusza Andrzeja Mularczyka. Pawlaka zagrał Wacław Kowalski, Kargula – Władysław Hańcza. To pierwsza część trylogii, którą uzupełniły „Nie ma mocnych” (1974) i „Kochaj albo rzuć” (1977).
 
 ## Temat
-Bohaterami są dwie zwaśnione rodziny, Karguli i Pawlaków, przesiedlone z Kresów na Ziemie Odzyskane. Spór o miedzę, ciągnący się jeszcze zza Buga, toczy się dalej w nowym miejscu, w cudzych, poniemieckich gospodarstwach.
+Bohaterami są dwie zwaśnione rodziny przesiedlone z Kresów na Ziemie Odzyskane. Spór o miedzę, ciągnący się jeszcze zza Buga, toczy się dalej w nowym miejscu, w cudzych, poniemieckich gospodarstwach, do których nikt nie czuje się do końca uprawniony.
 
 ## Co pod komedią
-Za farsą kryje się doświadczenie milionów ludzi: przymusowe przesiedlenie, utrata domu i konieczność ułożenia życia wśród obcych. Komediowa forma pozwoliła opowiedzieć o tym w czasach, gdy o Kresach i wysiedleniach nie mówiło się wprost.
+Za farsą kryje się doświadczenie milionów ludzi: przymusowe przesiedlenie, utrata domu i konieczność ułożenia życia wśród obcych. Komediowa forma pozwoliła opowiedzieć o tym w czasach, gdy o utracie Kresów i o wysiedleniach nie mówiło się wprost – cenzura przepuszczała żart tam, gdzie zatrzymałaby dramat.
 
 ## Język
-Dialogi weszły do polszczyzny na trwałe, a kresowy sposób mówienia bohaterów utrwalił w kulturze masowej mowę, która wraz z pokoleniem przesiedleńców zanikała.`,
+„A bo to moja wina?”, „Sąsiad, kładź pan tę siekierę” i cała kresowa mowa bohaterów weszły do polszczyzny na trwałe. Film utrwalił w kulturze masowej sposób mówienia, który wraz z pokoleniem przesiedleńców zanikał.
+
+## Trwałość
+Zdjęcia kręcono w Lubomierzu na Dolnym Śląsku, gdzie działa dziś muzeum poświęcone filmowi. Trylogia jest regularnie powtarzana w telewizji i należy do najczęściej oglądanych polskich komedii w historii.`,
     trivia: [
       'Za komediową farsą kryje się doświadczenie milionów przesiedleńców z Kresów.',
       'Film utrwalił kresowy sposób mówienia, który wraz z pokoleniem przesiedleńców zanikał.',
