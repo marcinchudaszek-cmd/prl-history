@@ -13407,19 +13407,19 @@ Maryla Rodowicz to jedna z najtrwalszych postaci polskiej sceny muzycznej, któr
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/D%C5%BCem%2C_Opera_Le%C5%9Bna%2C_30.08.2024_22.jpg?width=800',
     imageCaption: 'Dżem',
     content: `## Powstanie
-Dżem powstał w 1973 roku w Tychach, a klasyczny skład ukształtował się na przełomie lat 70. i 80. Zespół grał bluesa i rocka z głębokim, emocjonalnym przekazem.
+Dżem powstał w 1973 roku w Tychach, założony przez braci Adama i Beno Otrębów. Klasyczny skład ukształtował się na przełomie lat 70. i 80., gdy do zespołu dołączył wokalista Ryszard Riedel, a gitarę objął Jerzy Styczyński.
 
 ## Ryszard Riedel
-Wokalista Ryszard Riedel (1956–1994) stał się legendą polskiego bluesa dzięki charakterystycznemu, chropawemu głosowi i autentyczności. Jego dramatyczny życiorys dopełnił legendy zespołu.
+Riedel (1956–1994) śpiewał chropawym, zdartym głosem, który brzmiał jak zapis własnego życiorysu – i publiczność tak go właśnie słuchała. Był uzależniony od narkotyków, opuszczał koncerty i wracał, aż w 1994 roku zmarł w wieku trzydziestu ośmiu lat. Jego historię opowiada film „Skazany na bluesa” (2005).
 
 ## Przeboje
-Najbardziej znane utwory to „Whisky”, „List do M.”, „Naiwne pytania”, „Czerwony jak cegła”. Koncerty Dżemu gromadziły wiernych fanów w całym kraju.
+„Whisky”, „List do M.”, „Naiwne pytania”, „Czerwony jak cegła”, „Wehikuł czasu” – utwory z płyt „Cegła” (1985), „Zemsta nietoperzy” (1987) i „Najemnik” (1989). Teksty mówiły o samotności, uzależnieniu i przemijaniu, bez politycznych aluzji, których w tamtej dekadzie oczekiwano niemal od każdego.
 
 ## Scena śląska
-Dżem był częścią silnej śląskiej sceny bluesowej. Zespół często grał na festiwalu w Jarocinie i innych imprezach, budując pozycję jednego z najważniejszych polskich zespołów.
+Dżem wyrósł ze śląskiej sceny bluesowej, silnej dzięki tradycji górniczych klubów i domów kultury. Grał w Jarocinie i objeżdżał kraj trasami po kilkadziesiąt koncertów, budując publiczność koncert po koncercie, bez pomocy telewizji.
 
 ## Znaczenie
-Dżem to jeden z filarów polskiego blues-rocka, a Ryszard Riedel pozostaje kultową postacią rodzimej muzyki.`,
+Zespół działa do dziś z kolejnymi wokalistami, a jego koncerty wciąż wypełniają hale. Riedel pozostaje jedną z najsilniejszych legend polskiej muzyki – przypadkiem, w którym autentyczność i autodestrukcja okazały się nierozdzielne.`,
     trivia: ['Charakterystyczny głos zespołu należał do Ryszarda Riedla.', 'Grupa z Tychów grała bluesa w czasach, gdy nie było to modne.'],
     resources: [
       {
@@ -13687,19 +13687,19 @@ Lipko komponował także dla innych wykonawców, m.in. dla Urszuli i Izabeli Tro
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tadeusz_Nalepa_i_Mira_Kubasi%C5%84ska_z_synem_%28ok._1968%29.png?width=800',
     imageCaption: 'Breakout',
     content: `## Powstanie
-Breakout powstał w 1968 roku, wyrastając z zespołu Blackout. Liderem i głównym kompozytorem był Tadeusz Nalepa, nazywany później „ojcem polskiego bluesa”.
+Breakout powstał w 1968 roku z przekształcenia rzeszowskiego zespołu Blackout. Liderem, kompozytorem i gitarzystą był Tadeusz Nalepa, nazywany później ojcem polskiego bluesa.
 
 ## Tadeusz Nalepa
-Nalepa (1943–2007) był gitarzystą, wokalistą i kompozytorem, który zaszczepił na polskim gruncie autentyczne brzmienie bluesa. Wczesne nagrania tworzył wraz z żoną Mirą Kubasińską.
+Nalepa (1943–2007) grał bluesa serio, bez estradowego sztafażu, w czasach gdy polska scena rozrywkowa oczekiwała lekkich piosenek. Teksty pisał dla niego poeta Bogdan Loebl – to połączenie surowej muzyki z literacką frazą stało się znakiem rozpoznawczym zespołu.
 
 ## Twórczość
-Albumy „Blues” (1971) i „Karate” (1972) uznawane są za kamienie milowe polskiej muzyki rockowej. Utwory takie jak „Kiedy byłem małym chłopcem” stały się klasyką.
+Debiutancki „Na drugim brzegu tęczy” (1969) miał jeszcze big-beatowy rodowód, ale „Blues” (1971) i „Karate” (1972) to już nagrania dojrzałe, uznawane za kamienie milowe polskiego rocka. „Kiedy byłem małym chłopcem” weszło do kanonu na stałe.
 
 ## Mira Kubasińska
-Wokalistka Mira Kubasińska, z mocnym, charakterystycznym głosem, współtworzyła wczesny sukces zespołu, m.in. przebojem „Gdybyś kochał, hej”.
+Mira Kubasińska (1944–2005), żona Nalepy, śpiewała mocnym, ostrym głosem i to ona wykonywała wczesne przeboje zespołu, w tym „Gdybyś kochał, hej”. Para rozstała się w latach 70., co zbiegło się ze zmianą brzmienia grupy.
 
 ## Znaczenie
-Breakout i Tadeusz Nalepa położyli fundamenty pod rozwój polskiego blues-rocka, inspirując kolejne pokolenia muzyków, w tym zespół Dżem.`,
+Breakout rozwiązano w 1982 roku, a Nalepa grał dalej solo aż do śmierci. Bez tych nagrań nie byłoby ani Dżemu, ani całej śląskiej sceny bluesowej lat 80. – wszyscy jej muzycy wskazywali Nalepę jako punkt wyjścia.`,
     trivia: ['Zespół tworzyli Tadeusz Nalepa i Mira Kubasińska.', 'Grali bluesa, gdy w Polsce był jeszcze nowością.'],
     resources: [
       {
@@ -15462,19 +15462,19 @@ Organizację zlikwidowano ustawą Sejmu z 23 listopada 1989 roku – jedną z pi
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/TrybunaLudu.png?width=800',
     imageCaption: '„Trybuna Ludu”',
     content: `## Powstanie
-„Trybuna Ludu” powstała w 1948 roku z połączenia organów prasowych PPR i PPS, jako centralny dziennik nowo utworzonej PZPR.
+„Trybuna Ludu” zaczęła wychodzić w grudniu 1948 roku, w dniach kongresu zjednoczeniowego, z połączenia „Głosu Ludu” (organu PPR) i „Robotnika” (organu PPS). Była centralnym dziennikiem PZPR i najważniejszą gazetą w kraju – nie z powodu poczytności, lecz rangi.
 
 ## Tuba partii
-Gazeta była oficjalnym głosem partii – publikowała przemówienia przywódców, uchwały, propagandowe relacje o sukcesach gospodarczych i ataki na „wrogów” systemu oraz Zachód.
+Publikowała przemówienia przywódców w całości, uchwały plenów, relacje o wykonaniu planu i ataki na wrogów wewnętrznych i zewnętrznych. Nakład sięgał kilkuset tysięcy egzemplarzy, w dużej mierze prenumerowanych obowiązkowo przez zakłady pracy i instytucje.
 
 ## Wyznacznik linii
-„Trybuna Ludu” wyznaczała obowiązującą interpretację wydarzeń, którą powielała pozostała prasa. Lektura między wierszami pozwalała czytelnikom domyślać się rozgrywek we władzy.
+To, co ukazało się w „Trybunie”, pozostała prasa powielała i rozwijała. Redaktorzy gazet w całym kraju czytali ją, żeby wiedzieć, co wolno napisać. Czytelnicy z kolei uczyli się wyławiać sygnały: zmiana kolejności nazwisk w podpisie pod komunikatem albo zniknięcie kogoś z fotografii mówiły o rozgrywkach w kierownictwie więcej niż treść.
 
 ## Język propagandy
-Dziennik był wzorcowym nośnikiem nowomowy – sztucznego, zideologizowanego języka pełnego sloganów o „wytężonej pracy” i „słusznej polityce partii”.
+Dziennik był wzorcowym nośnikiem nowomowy – zideologizowanego języka pełnego zwrotów o wytężonej pracy, słusznej linii i wrogich ośrodkach dywersji. Analizy tego języka, prowadzone m.in. przez Michała Głowińskiego, opierały się głównie na tekstach z „Trybuny”.
 
 ## Znaczenie
-„Trybuna Ludu” to symbol kontrolowanych mediów PRL. Ukazywała się do 1990 roku, gdy wraz z upadkiem systemu zniknął także jego główny prasowy organ.`,
+Ostatni numer ukazał się w styczniu 1990 roku, kilka tygodni po rozwiązaniu PZPR; jej miejsce zajęła „Trybuna”. Zniknięcie tego tytułu było jednym z najbardziej widocznych znaków końca systemu.`,
     trivia: ['Była organem prasowym Komitetu Centralnego PZPR.', 'Nakład zapewniano odgórnie – prenumeratą w zakładach pracy.'],
     resources: [
       {
@@ -18279,19 +18279,19 @@ Cepelia to instytucja łącząca ochronę dziedzictwa ludowego z gospodarką –
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2016.02.21._Jerzy_Hoffman_Fot_Mariusz_Kubik_08.JPG?width=800',
     imageCaption: 'Jerzy Hoffman',
     content: `## Sylwetka
-Jerzy Hoffman (1932–2023) był reżyserem i scenarzystą, mistrzem widowiskowego kina historycznego, autorem najpopularniejszych polskich superprodukcji epoki PRL.
+Jerzy Hoffman (1932–2023) spędził dzieciństwo na zesłaniu w Syberii, dokąd jego rodzinę wywieziono w 1940 roku. Reżyserię studiował w moskiewskiej szkole filmowej WGIK i zaczynał od dokumentu, który realizował wspólnie z Edwardem Skórzewskim.
 
 ## Trylogia Sienkiewicza
-Zasłynął ekranizacjami powieści Henryka Sienkiewicza: „Pan Wołodyjowski” (1969) i monumentalny „Potop” (1974) z Danielem Olbrychskim, który zdobył nominację do Oscara.
+„Pan Wołodyjowski” (1969) był pierwszym polskim filmem sprzedanym na tak wielką skalę – obejrzało go blisko jedenaście milionów widzów. „Potop” (1974) z Danielem Olbrychskim jako Kmicicem powstawał trzy lata, kosztował rekordową sumę i otrzymał nominację do Oscara dla filmu nieanglojęzycznego.
 
 ## Rozmach
-Jego filmy realizowano z niespotykanym rozmachem – wielkie sceny batalistyczne, tłumy statystów, kostiumy i plenery czyniły je kasowymi hitami, oglądanymi przez miliony.
+Sceny batalistyczne kręcono z udziałem wojska, tysięcy statystów i setek koni. Takie produkcje mogły powstać wyłącznie w gospodarce, w której państwo było jedynym producentem i mogło skierować na plan całe jednostki – argument, który sam Hoffman przywoływał, mówiąc o realiach tamtej pracy.
 
-## Dokument i fabuła
-Wcześniej tworzył cenione filmy dokumentalne. Po latach zrealizował też „Ogniem i mieczem” (1999), domykając filmową Trylogię.
+## Poza Sienkiewiczem
+Zrealizował też „Znachora” (1982) według Dołęgi-Mostowicza – melodramat, który stał się jednym z największych sukcesów frekwencyjnych dekady, oraz „Do krwi ostatniej” (1978). Trylogię domknął dopiero po zmianie ustroju filmem „Ogniem i mieczem” (1999).
 
 ## Znaczenie
-Hoffman dał polskiej publiczności wielkie kino historyczne, które krzepiło narodową wyobraźnię i pozostaje klasyką rodzimej kinematografii.`,
+Dał polskiej publiczności kino widowiskowe, którego wcześniej nie było, i zrobił to z literatury czytanej przez wszystkich. Jego ekranizacje na trwałe ukształtowały wyobrażenia o Sienkiewiczowskich bohaterach.`,
     trivia: ['Wyreżyserował „Znachora” i ekranizacje Sienkiewicza.', 'Jego „Potop” otrzymał nominację do Oscara.'],
     resources: [
       {
@@ -21490,19 +21490,19 @@ Był pierwszym polskim piłkarzem, który wygrywał najważniejsze trofea klubow
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2025.02.27._Daniel_Olbrychski_Photo_Mariusz_Kubik_01.JPG?width=800',
     imageCaption: 'Daniel Olbrychski',
     content: `## Sylwetka
-Daniel Olbrychski (ur. 1945) to jeden z najsłynniejszych polskich aktorów, obdarzony charyzmą i sceniczną energią, gwiazda kina od lat 60.
+Daniel Olbrychski (ur. 1945) zadebiutował na ekranie w połowie lat 60. i niemal natychmiast stał się aktorem pierwszego planu. Miał to, czego polskie kino po śmierci Cybulskiego szukało: energię, fizyczność i twarz, którą kamera lubiła w każdym kostiumie.
 
 ## Wajda
-Stworzył pamiętne role w filmach Andrzeja Wajdy – „Popioły”, „Wesele”, „Ziemia obiecana”, „Brzezina” – stając się jednym z ulubionych aktorów reżysera.
+Zagrał u Andrzeja Wajdy kilkanaście razy: „Popioły” (1965), „Wszystko na sprzedaż” (1968), „Brzezina” (1970), „Krajobraz po bitwie” (1970), „Wesele” (1972), „Ziemia obiecana” (1974), „Panny z Wilka” (1979). Ta współpraca definiowała jego pozycję przez całą dekadę.
 
 ## Kmicic
-Rolą, która przyniosła mu masową popularność, był Andrzej Kmicic w „Potopie” (1974) Jerzego Hoffmana – brawurowa kreacja, która uczyniła go bohaterem wyobraźni widzów.
+Rola Andrzeja Kmicica w „Potopie” (1974) przyniosła mu popularność, jakiej nie miał żaden inny polski aktor tamtych lat. Widzowie utożsamili go z postacią do tego stopnia, że przez lata rozpoznawano go na ulicy właśnie jako Kmicica.
 
-## Międzynarodowa kariera
-Grał także w produkcjach zagranicznych, współpracując z wybitnymi reżyserami światowego kina, co czyniło go jednym z nielicznych polskich aktorów rozpoznawalnych za granicą.
+## Za granicą
+Grał w „Blaszanym bębenku” Volkera Schlöndorffa (1979), nagrodzonym Oscarem, w „Nieznośnej lekkości bytu” (1988) oraz u Josepha Loseya i Margarethe von Trotty. Był jednym z nielicznych aktorów z bloku wschodniego zapraszanych regularnie do produkcji zachodnich.
 
 ## Znaczenie
-Olbrychski to ikona polskiego kina, łączący role kostiumowe, współczesne i charakterystyczne; jego kreacje należą do kanonu rodzimej kinematografii.`,
+Przez ponad pół wieku pozostaje twarzą polskiego kina, obecną zarówno w rolach kostiumowych, jak i współczesnych. Jego kreacje z lat 70. należą do kanonu, po który sięga każda opowieść o kinie tamtej epoki.`,
     trivia: ['Zagrał u Wajdy m.in. w „Ziemi obiecanej” i „Weselu”.', 'Był jedną z twarzy polskiego kina lat 70.'],
     resources: [
       {
@@ -21947,16 +21947,19 @@ Skład zmieniał się wielokrotnie, Jaryczewski odszedł w 1984 roku, zespół z
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Skaldowie_2012.JPG?width=800',
     imageCaption: 'Skaldowie',
     content: `## Zespół z Krakowa
-Skaldowie powstali w 1965 roku w Krakowie, założeni przez braci Andrzeja i Jacka Zielińskich. Andrzej, z wykształceniem muzycznym, komponował i aranżował – co odróżniało zespół od grup big-beatowych uczących się grania na słuch.
+Skaldowie powstali w 1965 roku w Krakowie, założeni przez braci Andrzeja i Jacka Zielińskich. Andrzej, z wykształceniem muzycznym, komponował i aranżował – co odróżniało zespół od grup big-beatowych uczących się grania na słuch i ze słyszenia zachodnich płyt.
 
 ## Brzmienie
-Łączyli rock i pop z folklorem góralskim oraz elementami muzyki poważnej, sięgając z czasem po rozbudowane formy bliskie rockowi progresywnemu. Charakterystyczne były wielogłosowe harmonie wokalne braci.
+Łączyli rock i pop z folklorem góralskim oraz elementami muzyki poważnej, sięgając z czasem po rozbudowane formy bliskie rockowi progresywnemu. Charakterystyczne były wielogłosowe harmonie wokalne braci, wsparte instrumentarium wykraczającym poza gitary i perkusję.
 
 ## Przeboje
-Najbardziej znane pozostają „Wszystko mi mówi, że mnie ktoś pokochał”, „Nie domykajmy drzwi” i „Z kopyta kulig rwie” – ta ostatnia oparta wprost na motywach góralskich.
+„Wszystko mi mówi, że mnie ktoś pokochał”, „Nie domykajmy drzwi”, „Z kopyta kulig rwie” i „Medytacje wiejskiego listonosza” – piosenki obecne w radiu przez całe dekady. Teksty pisali dla nich m.in. Leszek Aleksander Moczulski i Agnieszka Osiecka, co podnosiło poziom literacki repertuaru.
+
+## Płyty
+Nagrali kilkanaście albumów, w tym ambitne „Ty” i „Od wschodu do zachodu słońca”, w których forma piosenki ustępowała miejsca rozbudowanym kompozycjom. Koncertowali w całym bloku wschodnim i w krajach zachodnich.
 
 ## Trwałość
-Zespół nagrywał i koncertował przez dziesięciolecia, przechodząc przez kolejne mody bez rezygnacji z własnego stylu. Należy do najdłużej działających polskich grup muzycznych w historii.`,
+Zespół działa z przerwami do dziś, a bracia Zielińscy występują razem od sześćdziesięciu lat. To jedna z najdłużej działających polskich grup muzycznych – i jedna z niewielu, które przeszły przez kolejne mody bez porzucania własnego stylu.`,
     trivia: [
       'Andrzej Zieliński miał wykształcenie muzyczne, co odróżniało zespół od grup uczących się grania na słuch.',
       '„Z kopyta kulig rwie” oparto wprost na motywach muzyki góralskiej.',
@@ -22001,16 +22004,19 @@ Zespół nagrywał i koncertował przez dziesięciolecia, przechodząc przez kol
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Irena%20Santor.jpg?width=800',
     imageCaption: 'Irena Santor – „pierwsza dama polskiej piosenki”.',
     content: `## Mazowsze
-Irena Santor (ur. 1934) zaczynała jako solistka Państwowego Zespołu Ludowego Pieśni i Tańca „Mazowsze”, z którym śpiewała przez całe lata 50. Zespół był wtedy najważniejszą wizytówką kulturalną Polski za granicą.
+Irena Santor (ur. 1934) zaczynała jako solistka Państwowego Zespołu Ludowego Pieśni i Tańca „Mazowsze”, z którym śpiewała przez całe lata 50. Zespół był wtedy najważniejszą wizytówką kulturalną Polski za granicą i jednym z nielicznych, które regularnie wyjeżdżały na Zachód.
 
 ## Kariera solowa
-Od 1959 roku występowała samodzielnie, przechodząc od repertuaru ludowego do piosenki estradowej. Wylansowała m.in. „Powrócisz tu”, „Tych lat nie odda nikt” i „Embarras”.
+Od 1959 roku występowała samodzielnie, przechodząc od repertuaru ludowego do piosenki estradowej i literackiej. Wylansowała „Powrócisz tu”, „Tych lat nie odda nikt”, „Embarras” i „Już nie ma dzikich plaż” – utwory obecne na festiwalach w Opolu i Sopocie oraz w stałym repertuarze radia.
 
 ## Sposób śpiewania
-Dysponowała głosem szkolonym i dykcją, dzięki której każde słowo tekstu było słyszalne – co przy piosence literackiej miało znaczenie decydujące. Ten warsztat uczynił ją wzorem dla kolejnych pokoleń wokalistek.
+Dysponowała głosem szkolonym i dykcją, dzięki której każde słowo tekstu było słyszalne – co przy piosence literackiej miało znaczenie decydujące. Śpiewała bez efekciarstwa, budując interpretację na frazie, nie na sile głosu.
+
+## Pozycja
+Przydomek pierwszej damy polskiej piosenki przylgnął do niej już w latach 60. Współpracowała z czołowymi kompozytorami epoki, a jej koncerty i telewizyjne recitale należały do stałych punktów kalendarza estradowego.
 
 ## Trwałość
-Śpiewała przez ponad pół wieku, a jej repertuar przetrwał zmianę ustroju i mód muzycznych. Należy do nielicznych artystek PRL, które nie musiały przebudowywać wizerunku, żeby pozostać w obiegu.`,
+Śpiewała przez ponad pół wieku, a pożegnalny koncert dała dopiero w XXI wieku. Należy do nielicznych artystek PRL, które nie musiały przebudowywać wizerunku, żeby pozostać w obiegu po zmianie ustroju.`,
     trivia: [
       'Zaczynała jako solistka „Mazowsza”, najważniejszej wizytówki kulturalnej Polski za granicą.',
       'Jej dykcja sprawiała, że każde słowo tekstu było słyszalne – przy piosence literackiej rzecz decydująca.',
@@ -24615,16 +24621,19 @@ Obraz stał się najważniejszym dziełem polskiej szkoły filmowej i zapewnił 
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wanda%20Kwietniewska%20beax.jpg?width=800',
     imageCaption: 'Wanda Kwietniewska – liderka zespołu Wanda i Banda.',
     content: `## Zespół
-Wanda i Banda powstała w 1982 roku w Poznaniu, początkowo pod nazwą Banda i Wanda. Wokalistką była Wanda Kwietniewska, której mocny, chropawy głos zdecydował o brzmieniu grupy.
+Wanda i Banda powstała w 1982 roku, początkowo pod nazwą Banda i Wanda. Wokalistką była Wanda Kwietniewska, której mocny, chropawy głos zdecydował o brzmieniu grupy; muzycznie zespół sięgał po new wave i rock z wyraźnie zachodnim, starannie zrealizowanym brzmieniem.
 
 ## Debiut
-Zespół zadebiutował na przełomie 1982 i 1983 roku w sylwestrowej audycji Programu Trzeciego Polskiego Radia – rozgłośni, która w latach 80. pełniła rolę głównego kanału dla muzyki spoza oficjalnej estrady.
+Grupa zadebiutowała szerzej na przełomie 1982 i 1983 roku w Programie Trzecim Polskiego Radia – rozgłośni, która w latach 80. pełniła rolę głównego kanału dla muzyki spoza oficjalnej estrady i decydowała o tym, kto zaistnieje.
 
-## Siedem życzeń
-Grupa nagrała piosenki do serialu „Siedem życzeń” i wystąpiła w nim na ekranie. Połączenie muzyki rockowej z produkcją telewizyjną dla młodzieży było wtedy rozwiązaniem nowym.
+## Przeboje
+„Hi-Fi”, „Nie będę Julią” i „Kto tu wpuścił dziennikarzy” trafiły na listy przebojów i utrzymały się w nich długo. Zespół nagrał też piosenki do serialu „Siedem życzeń” (1984) i wystąpił w nim na ekranie – połączenie muzyki rockowej z produkcją telewizyjną dla młodzieży było wtedy rozwiązaniem nowym.
 
 ## Kobieta na scenie rockowej
-Wokalistka prowadząca zespół rockowy była w Polsce lat 80. zjawiskiem rzadkim. Scena rockowa pozostawała męska, a wykonawczynie kierowano zwykle do piosenki estradowej – Wanda i Banda była jednym z wyraźnych wyjątków.`,
+Wokalistka prowadząca zespół rockowy była w Polsce lat 80. zjawiskiem rzadkim. Scena rockowa pozostawała męska, a wykonawczynie kierowano zwykle do piosenki estradowej; obok Kwietniewskiej wyjątkami były Małgorzata Ostrowska w Lombardzie, Beata Kozidrak w Bajmie i Kora w Maanamie.
+
+## Znaczenie
+Zespół działał z przerwami także po 1989 roku. Jego nagrania z pierwszej połowy lat 80. są dziś przywoływane jako przykład polskiej muzyki, która brzmiała współcześnie w skali europejskiej, mimo warunków technicznych ówczesnych studiów.`,
     trivia: [
       'Zespół zadebiutował w sylwestrowej audycji Programu Trzeciego na przełomie 1982 i 1983 roku.',
       'Nagrał piosenki do serialu „Siedem życzeń” i wystąpił w nim na ekranie.',
