@@ -14879,19 +14879,19 @@ Uczestniczył w obradach Okrągłego Stołu i pozostał aktywny w życiu publicz
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Marek_Edelman_by_Kubik.JPG?width=800',
     imageCaption: 'Marek Edelman',
     content: `## Sylwetka
-Marek Edelman (1919–2009) był jednym z przywódców powstania w getcie warszawskim w 1943 roku, a po wojnie – wybitnym kardiologiem i działaczem społecznym w Łodzi.
+Marek Edelman (1919–2009) był jednym z przywódców powstania w getcie warszawskim, a po śmierci Mordechaja Anielewicza – ostatnim komendantem Żydowskiej Organizacji Bojowej. Wyszedł z getta kanałami, walczył potem w powstaniu warszawskim 1944 roku, a po wojnie został kardiologiem w Łodzi.
 
 ## Pamięć o getcie
-Jako ostatni żyjący dowódca Żydowskiej Organizacji Bojowej był strażnikiem pamięci o powstaniu i Zagładzie, opisanej m.in. w rozmowie z Hanną Krall „Zdążyć przed Panem Bogiem”.
+Przez dziesięciolecia był jedynym żyjącym dowódcą powstania i mówił o nim inaczej niż podręczniki: bez heroicznej frazy, z naciskiem na to, że chodziło o wybór sposobu umierania. Ten sposób opowiadania utrwaliła Hanna Krall w „Zdążyć przed Panem Bogiem” (1977). Co roku 19 kwietnia składał żółte żonkile pod pomnikiem Bohaterów Getta.
 
 ## Lekarz
-W PRL pracował jako ceniony kardiolog. Mimo antysemickiej kampanii 1968 roku, która zmusiła wielu do emigracji, zdecydował się pozostać w Polsce.
+Pracował w klinice kardiologicznej profesora Jana Molla, w zespole prowadzącym pionierskie operacje serca. Mimo antysemickiej kampanii Marca 1968, która zmusiła do wyjazdu tysiące ludzi, w tym jego znajomych i współpracowników, został w Polsce – jak mówił, żeby ktoś przy tych grobach został.
 
 ## Opozycja
-W latach 70. i 80. zaangażował się w działalność opozycyjną – współpracował z KOR i Solidarnością, był internowany w stanie wojennym i uczestniczył w obradach Okrągłego Stołu.
+Od lat 70. współpracował z KOR, wspierał Solidarność i był internowany po 13 grudnia 1981 roku. Uczestniczył w obradach Okrągłego Stołu, a później zabierał głos w sprawach, o których nie wypadało mówić – od Bośni po sytuację uchodźców.
 
 ## Znaczenie
-Marek Edelman pozostaje symbolem odwagi, wierności wartościom i niezależnego myślenia – łącznikiem między pamięcią o Zagładzie a walką o wolną Polskę.`,
+Otrzymał Order Orła Białego, ale odmawiał roli pomnika. Pozostaje symbolem odwagi i niezależnego myślenia – człowiekiem łączącym pamięć o Zagładzie z walką o wolną Polskę.`,
     trivia: ['Był ostatnim żyjącym przywódcą powstania w getcie warszawskim.', 'Po wojnie został wybitnym kardiologiem i wspierał opozycję.'],
     resources: [
       {
@@ -17426,19 +17426,19 @@ LOT symbolizował zarazem nowoczesność i ograniczenia PRL – techniczne ambic
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Centrum_Zdrowia_Dziecka.svg?width=800',
     imageCaption: 'Centrum Zdrowia Dziecka',
     content: `## Idea
-Pomysł budowy Centrum Zdrowia Dziecka narodził się jako „pomnik-szpital” upamiętniający dzieci, które zginęły podczas II wojny światowej – żywy pomnik służący ratowaniu życia.
+Pomysł budowy Centrum Zdrowia Dziecka narodził się pod koniec lat 60. jako „pomnik-szpital” upamiętniający dzieci, które zginęły w czasie II wojny światowej. Zamiast kolejnego obelisku miał powstać żywy pomnik – szpital ratujący życie.
 
 ## Społeczna zbiórka
-Inwestycję sfinansowano w dużej mierze ze społecznych składek i datków, także od Polonii. Była to jedna z największych oddolnych akcji charytatywnych w historii PRL.
+Inwestycję sfinansowano w znacznej mierze ze społecznych składek: wpłat zakładów pracy, zbiórek szkolnych, cegiełek i darowizn Polonii oraz darczyńców z zagranicy, w tym z Niemiec Zachodnich. Była to jedna z największych oddolnych akcji charytatywnych w historii PRL i jedna z niewielu, w które ludzie angażowali się naprawdę, a nie z rozdzielnika.
 
 ## Nowoczesność
-Otwarte w 1977 roku Centrum w warszawskim Międzylesiu stało się najnowocześniejszym szpitalem pediatrycznym w kraju, ośrodkiem leczenia i badań na światowym poziomie.
+Szpital w warszawskim Międzylesiu otwarto w 1977 roku. Wyposażono go w sprzęt sprowadzany z Zachodu i zaprojektowano jako kompleks pawilonów z zapleczem badawczym – był najnowocześniejszym ośrodkiem pediatrycznym w kraju i jednym z lepszych w bloku wschodnim.
 
 ## Misja
-Szpital specjalizował się w trudnych przypadkach, ratując dzieci z całej Polski. Stał się symbolem solidarności społecznej i troski o najmłodszych.
+Specjalizował się w przypadkach, których nie podejmowały szpitale terenowe: wadach wrodzonych, chorobach metabolicznych, transplantacjach. Trafiały tu dzieci z całej Polski, często po miesiącach wcześniejszej diagnostyki.
 
 ## Znaczenie
-Centrum Zdrowia Dziecka to przykład, że mimo niewydolnej służby zdrowia PRL oddolna mobilizacja społeczna potrafiła stworzyć instytucję wybitną i trwałą.`,
+Instytut „Pomnik – Centrum Zdrowia Dziecka” działa do dziś i pozostaje jednym z najważniejszych szpitali pediatrycznych w kraju. To dowód, że przy niewydolnej służbie zdrowia PRL oddolna mobilizacja potrafiła stworzyć instytucję wybitną i trwałą.`,
     trivia: ['Szpital powstał ze społecznych składek.', 'Miał być pomnikiem-szpitalem dla dzieci – ofiar wojny.'],
     resources: [
       {
@@ -17654,19 +17654,19 @@ Obok „Pod Egidą” Pietrzaka i Kabaretu Tey programy Lipińskiej współtworz
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Slawomir_Mrozek.JPG?width=800',
     imageCaption: 'Sławomir Mrożek',
     content: `## Sylwetka
-Sławomir Mrożek (1930–2013) był dramaturgiem, prozaikiem i rysownikiem, jednym z najczęściej wystawianych polskich autorów na świecie i mistrzem groteski.
+Sławomir Mrożek (1930–2013) był dramaturgiem, prozaikiem i rysownikiem – jednym z najczęściej wystawianych polskich autorów na świecie. Zaczynał w krakowskiej prasie jako rysownik i autor krótkich tekstów satyrycznych, i ten skrótowy, celny styl został z nim na zawsze.
 
 ## Teatr absurdu
-Jego sztuki, jak „Tango” (1964), „Policja” czy „Emigranci”, w krzywym zwierciadle absurdu ukazywały mechanizmy władzy, przemocy i konformizmu, czytelne dla widzów PRL mimo cenzury.
+„Policja” (1958) opisuje państwo policyjne, w którym skończyli się już przeciwnicy, więc trzeba ich wyprodukować. „Tango” (1964) pokazuje rodzinę, w której bunt przeciw wszystkiemu doprowadził do pustki, a władzę bierze prostak Edek. „Emigranci” (1974) zamykają dwóch Polaków w jednej suterenie na obczyźnie. Wszystkie te sztuki czytano w PRL jako opis własnej sytuacji – i jednocześnie grano je na całym świecie jako rzecz uniwersalną.
 
 ## Proza i rysunki
-Słynął też z krótkich, ironicznych opowiadań i celnych rysunków satyrycznych. Jego poczucie humoru i precyzja języka stały się wzorem inteligentnej satyry.
+Jego opowiadania mieszczą się często na jednej stronie i działają jak dowcip logiczny doprowadzony do końca. Rysunki – kilka kresek i podpis – publikował przez dekady i były rozpoznawalne od pierwszego spojrzenia.
 
 ## Emigracja
-W 1963 roku wyjechał z Polski i przez lata tworzył na emigracji (we Włoszech, Francji, Meksyku), publikując m.in. w paryskiej „Kulturze”, pozostając krytycznym wobec systemu.
+Wyjechał z Polski w 1963 roku. Po tym, jak w 1968 roku publicznie potępił udział wojsk polskich w inwazji na Czechosłowację, odmówiono mu przedłużenia paszportu, a jego utwory zniknęły z afiszy i księgarni na kilka lat. Mieszkał we Włoszech, Francji i Meksyku, do Krakowa wrócił w 1996 roku, a ostatnie lata spędził w Nicei.
 
 ## Znaczenie
-Mrożek to klasyk literatury XX wieku; jego „Tango” należy do kanonu dramatu, a styl – do najbardziej rozpoznawalnych w polskiej kulturze.`,
+Po udarze w 2002 roku stracił zdolność mowy i pisania, po czym nauczył się ich od nowa i napisał jeszcze książkę wspomnieniową. „Tango” należy do żelaznego kanonu dramatu XX wieku, a jego nazwisko stało się w polszczyźnie synonimem groteski.`,
     trivia: ['Autor „Tanga” – jednej z najczęściej granych polskich sztuk.', 'Po 1968 roku pozostał na emigracji, protestując przeciw inwazji na Czechosłowację.'],
     resources: [
       {
@@ -20196,19 +20196,19 @@ Zginął w wypadku samochodowym w 2002 roku. Zbudowany przez niego system pomocy
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Henryka_Krzywonos_-_Strycharska.jpg?width=800',
     imageCaption: 'Henryka Krzywonos',
     content: `## Sylwetka
-Henryka Krzywonos (ur. 1953) była motorniczą w Gdańsku, która w sierpniu 1980 roku odegrała ważną rolę w strajku, stając się jego symbolem.
+Henryka Krzywonos (ur. 1953) była motorniczą gdańskiej komunikacji miejskiej. W sierpniu 1980 roku stała się jedną z tych postaci, których obecność przesądziła o przebiegu strajku, choć nie należała do żadnych struktur ani środowisk opozycyjnych.
 
 ## Zatrzymanie tramwaju
-15 sierpnia 1980 roku zatrzymała prowadzony przez siebie tramwaj, przyłączając komunikację miejską do strajku i wzmacniając protest w całym mieście.
+15 sierpnia 1980 roku zatrzymała prowadzony przez siebie tramwaj na środku trasy i ogłosiła strajk komunikacji. Unieruchomienie tramwajów przyłączyło do protestu całe miasto – strajk przestał być sprawą jednego zakładu i stał się sprawą Gdańska.
 
 ## „Nie wolno się dać”
-Gdy w Stoczni Gdańskiej rozważano zakończenie strajku po spełnieniu postulatów ekonomicznych, Krzywonos wraz z innymi przekonała robotników do strajku solidarnościowego w obronie innych zakładów.
+16 sierpnia, gdy w Stoczni Gdańskiej ogłoszono zakończenie strajku po spełnieniu postulatów stoczniowców, to ona wraz z Anną Walentynowicz, Aliną Pienkowską i Ewą Ossowską zatrzymała wychodzących robotników, przekonując ich do strajku solidarnościowego w obronie mniejszych zakładów. Ta decyzja przesądziła o powstaniu Międzyzakładowego Komitetu Strajkowego.
 
 ## Porozumienia Gdańskie
-Weszła w skład Prezydium Międzyzakładowego Komitetu Strajkowego i była jedną z sygnatariuszy Porozumień Gdańskich z 31 sierpnia 1980 roku.
+Weszła do prezydium MKS i znalazła się wśród sygnatariuszy Porozumień Gdańskich z 31 sierpnia 1980 roku. W stanie wojennym była zatrzymywana i pobita, straciła pracę i przez lata pracowała dorywczo.
 
 ## Znaczenie
-Henryka Krzywonos to symbol roli zwykłych ludzi i kobiet w narodzinach Solidarności oraz determinacji, która przesądziła o sukcesie sierpniowego strajku.`,
+Jej historia pokazuje, jak wiele w Sierpniu zależało od decyzji podjętych w pojedynkę i na miejscu. Razem z Walentynowicz i Pienkowską należy do kobiet, bez których Solidarność nie powstałaby w tym kształcie – a które przez lata były w oficjalnej opowieści niemal niewidoczne.`,
     trivia: ['Zatrzymała tramwaj w Gdańsku, wspierając strajk w sierpniu 1980.', 'Zasiadła w prezydium Międzyzakładowego Komitetu Strajkowego.'],
     resources: [
       {
@@ -20725,19 +20725,19 @@ W 1993 roku powstała kontynuacja – „Czterdziestolatek. 20 lat później” 
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/07_zg%C5%82o%C5%9B_si%C4%99.JPG?width=800',
     imageCaption: '07 zgłoś się',
     content: `## Serial
-„07 zgłoś się” (1976–1987), w reżyserii Krzysztofa Szmagiera, opowiadał o śledztwach porucznika MO Sławomira Borewicza, granego przez Bronisława Cieślaka.
+„07 zgłoś się” powstawał w latach 1976–1987 w reżyserii Krzysztofa Szmagiera i liczy dwadzieścia jeden odcinków. Bohaterem jest porucznik MO Sławomir Borewicz, grany przez Bronisława Cieślaka – dziennikarza bez aktorskiego wykształcenia, który dostał tę rolę przypadkiem i został z nią na jedenaście lat.
 
 ## Borewicz
-Ironiczny, nonszalancki i nieugięty Borewicz stał się najsłynniejszym milicjantem polskiej popkultury – bohaterem przewrotnym, bo budującym sympatię do munduru, którego społeczeństwo nie kochało.
+Ironiczny, nonszalancki, jeżdżący zachodnimi samochodami i nadużywający swobody wobec przełożonych – Borewicz był bohaterem przewrotnym: budował sympatię do formacji, której społeczeństwo nie kochało. Powodzenie serialu polegało na tym, że oglądano go dla postaci, a nie dla munduru.
 
 ## Kryminał i obyczaj
-Serial łączył intrygi kryminalne z portretem ciemniejszych stron PRL: afer, przemytu, marginesu społecznego i prywatnych dramatów – na ile pozwalała cenzura.
+Każdy odcinek to osobna sprawa: przemyt, afery gospodarcze, przestępczość zorganizowana, margines społeczny. Przy okazji serial pokazywał kawałki rzeczywistości rzadko trafiające na ekran – hotele dla dewizowych gości, prywaciarzy, dworcowe środowiska – na tyle, na ile pozwalała cenzura.
 
 ## Propaganda i popularność
-Choć serial ocieplał wizerunek milicji, widzowie cenili go za sprawną fabułę, humor i charyzmę Cieślaka. Powiedzonka Borewicza weszły do języka.
+Produkcja powstawała przy współpracy z MSW, które dbało o wizerunek milicji i miało wgląd w scenariusze. Widzowie akceptowali tę cenę za sprawną fabułę i charyzmę Cieślaka; powiedzonka Borewicza weszły do języka potocznego.
 
 ## Znaczenie
-„07 zgłoś się” to klasyk polskiego kryminału telewizyjnego i ważny, ambiwalentny dokument epoki – rozrywka spleciona z funkcją propagandową.`,
+To klasyk polskiego kryminału telewizyjnego i jednocześnie dokument ambiwalentny: rozrywka najwyższej próby spleciona z funkcją propagandową, oglądana dziś przede wszystkim jako zapis realiów epoki.`,
     trivia: ['Porucznik Borewicz jeździł Polonezem – ówczesnym obiektem pożądania.', 'Serial pokazywał milicję w atrakcyjnym, filmowym świetle.'],
     resources: [
       {
@@ -22238,13 +22238,16 @@ Dialogi z „Rejsu” weszły do polszczyzny i przez dekady służyły jako kome
     yearEnd: 1981,
     summary: 'Najsłynniejsza komedia Stanisława Barei – ikona „bareizmu”, bezlitośnie wyśmiewająca absurdy schyłkowego PRL.',
     content: `## Film
-„Miś” Stanisława Barei z 1981 roku, napisany wspólnie ze Stanisławem Tymem, jest najbardziej znaną polską komedią o absurdach PRL. Tym zagrał główną rolę Ryszarda Ochódzkiego, prezesa klubu sportowego „Tęcza”.
+„Miś” Stanisława Barei, nakręcony w 1980 i pokazany rok później, jest najbardziej znaną polską komedią o absurdach PRL. Scenariusz napisał wspólnie ze Stanisławem Tymem, który zagrał główną rolę Ryszarda Ochódzkiego, prezesa klubu sportowego „Tęcza”.
 
 ## Intryga
-Ochódzki musi uniemożliwić byłej żonie dostęp do wspólnego konta w Londynie, więc szuka sobowtóra i wyrabia mu paszport. Fabuła jest jednak tylko szkieletem, na którym Bareja zawiesił kilkadziesiąt scen z codzienności.
+Ochódzki musi uniemożliwić byłej żonie dostęp do wspólnego konta w Londynie, więc szuka sobowtóra i wyrabia mu paszport. Fabuła jest jednak tylko szkieletem, na którym Bareja zawiesił kilkadziesiąt scen z codzienności – i to one są właściwym filmem.
 
 ## Metoda
-Właściwą treścią są epizody: sklep bez mięsa, kolejka, budowa, milicja, absurdalne przepisy i język urzędowy doprowadzony do granic sensu. Bareja nie budował dowcipu, lecz notował rzeczywistość i pokazywał ją bez komentarza.
+Sklep bez mięsa, kolejka, budowa, milicja, absurdalne przepisy, język urzędowy doprowadzony do granic sensu. Bareja nie wymyślał dowcipów, tylko notował rzeczywistość i pokazywał ją bez komentarza; wiele scen powstało z autentycznych zdarzeń i podsłuchanych zdań.
+
+## Odbiór
+Krytyka przyjęła film lekceważąco, jako komedyjkę bez wartości, a publiczność ustawiła się w kolejkach. Dopiero po latach doceniono go jako najcelniejszy zapis późnego PRL – w momencie, gdy opisywany świat zniknął i film przestał być satyrą, a stał się dokumentem.
 
 ## Cytaty
 Dialogi weszły do polszczyzny na trwałe i do dziś funkcjonują jako komentarz do sytuacji urzędowych. Określenie „bareizm” zaczęło opisywać sam typ absurdu, który film zarejestrował.`,
@@ -22528,16 +22531,19 @@ Te seriale okazały się jednym z najtrwalszych elementów kultury PRL: nie nios
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Lato_z_Radiem_w_Stegnie_%282015%29.JPG?width=800',
     imageCaption: 'Lato z Radiem',
     content: `## Audycja
-„Lato z radiem” pojawiło się na antenie Programu Pierwszego Polskiego Radia 1 lipca 1971 roku. Pomysłodawcą był Aleksander Tarnawski, a początkowo miał to być magazyn turystyczny. Pierwsze wydanie trwało czterdzieści osiem minut.
+„Lato z radiem” pojawiło się na antenie Programu Pierwszego Polskiego Radia 1 lipca 1971 roku. W założeniu miał to być magazyn turystyczny na sezon urlopowy; został na ponad pół wieku i jest dziś jedną z najdłużej nadawanych audycji w Polsce.
 
 ## Formuła
-Program łączył muzykę, informacje drogowe, porady wakacyjne i relacje z całego kraju. Nadawany codziennie przez całe lato, stał się dźwiękowym tłem sezonu urlopowego dla milionów słuchaczy.
+Program łączył muzykę, informacje drogowe, prognozy, porady wakacyjne, konkursy i relacje korespondentów z całego kraju. Nadawany codziennie przez całe lato, stał się dźwiękowym tłem sezonu – w kraju, w którym urlop oznaczał najczęściej pociąg, autobus albo namiot, a nie zorganizowany wyjazd.
 
 ## Sygnał
-Rozpoznawalna melodia otwierająca audycję – oparta na motywie z poloneza – należy do najbardziej znanych sygnałów w historii polskiego radia i sama w sobie stała się symbolem wakacji.
+Melodią rozpoczynającą audycję jest ludowa „Polka Dziadek” – kilka taktów rozpoznawalnych dla kilku pokoleń słuchaczy. Sygnał sam w sobie stał się symbolem wakacji i należy do najbardziej znanych motywów w historii polskiego radia.
 
 ## Rola
-W kraju, w którym urlop oznaczał najczęściej podróż koleją albo autobusem z tranzystorem w torbie, radio było głównym towarzyszem wyjazdu. „Lato z radiem” przetrwało zmianę ustroju i jest jedną z najdłużej nadawanych audycji w Polsce.`,
+Tranzystor był podstawowym wyposażeniem wyjazdu, a radio – jedynym źródłem informacji o pogodzie, korkach i utrudnieniach. Audycja pełniła więc funkcję praktyczną, a przy okazji budowała poczucie, że cały kraj przeżywa lato razem, o tej samej godzinie.
+
+## Trwałość
+„Lato z radiem” przetrwało zmianę ustroju, kolejne reformy anteny i zmiany pokoleniowe wśród prowadzących. Sygnał pozostał ten sam – i to on jest dziś głównym nośnikiem pamięci o audycji.`,
     trivia: [
       'Pierwsze wydanie, 1 lipca 1971 roku, trwało czterdzieści osiem minut i było magazynem turystycznym.',
       'Sygnał audycji stał się jednym z najbardziej rozpoznawalnych dźwięków w historii polskiego radia.',
@@ -27830,16 +27836,19 @@ Radio Luxembourg, obok Wolnej Europy w innej dziedzinie, pokazuje, jak nieszczel
     yearStart: 1978,
     summary: 'Sztandarowy film kina moralnego niepokoju Feliksa Falka (1978); Jerzy Stuhr jako prowincjonalny wodzirej brnący po karierę przez donosy i podłość.',
     content: `## Film
-„Wodzirej” Feliksa Falka, zrealizowany w 1977 roku i pokazany rok później, należy do nurtu kina moralnego niepokoju. W roli głównej wystąpił Jerzy Stuhr jako Lutek Danielak – prowincjonalny wodzirej walczący o prowadzenie prestiżowego balu.
+„Wodzirej” Feliksa Falka, zrealizowany w 1977 roku i pokazany rok później, należy do nurtu kina moralnego niepokoju. W roli głównej wystąpił Jerzy Stuhr jako Lutek Danielak – prowincjonalny wodzirej walczący o prowadzenie prestiżowego balu w nowym hotelu.
 
 ## Mechanizm
-Bohater intryguje, donosi, poniża się i podkłada nogę konkurentom, wierząc, że prowadzenie jednego balu odmieni jego życie. Stawka jest śmiesznie mała, a środki – nieproporcjonalnie brutalne. Na tym zderzeniu zbudowany jest cały film.
+Bohater intryguje, donosi, poniża się i podkłada nogę konkurentom, wierząc, że jeden wieczór przy mikrofonie odmieni jego życie. Stawka jest śmiesznie mała, a środki nieproporcjonalnie brutalne – i na tym zderzeniu zbudowany jest cały film.
 
 ## Portret
-Falk opisuje nie tyle jednostkę, ile system, w którym awans zależy od układów, a nie od umiejętności. Wodzirej jest tego systemu produktem: cynicznym, ale też w gruncie rzeczy przegranym.
+Falk opisuje nie tyle jednostkę, ile system, w którym awans zależy od układów, przysług i donosu, a nie od umiejętności. Danielak jest tego systemu produktem: cyniczny, ale w gruncie rzeczy przegrany, bo nawet wygrana niczego mu nie daje.
 
 ## Rola Stuhra
-Kreacja Jerzego Stuhra – z jego charakterystycznym, nerwowym tempem mowy – należy do najważniejszych w polskim kinie i na lata zdefiniowała typ bohatera-karierowicza.`,
+Kreacja Jerzego Stuhra – z jego charakterystycznym, nerwowym tempem mowy i uśmiechem gaszonym w pół sekundy – należy do najważniejszych w polskim kinie i na lata zdefiniowała typ bohatera-karierowicza. Film nagrodzono Złotymi Lwami na festiwalu w Gdańsku.
+
+## Znaczenie
+„Wodzirej” bywa czytany razem z „Barwami ochronnymi” Zanussiego i „Amatorem” Kieślowskiego jako trzy różne odpowiedzi na to samo pytanie: co robi z człowiekiem konieczność ustawienia się w systemie, którego się nie wybrało.`,
     trivia: [
       'Stawką w filmie jest prowadzenie jednego balu, a środki, jakich używa bohater, są nieproporcjonalnie brutalne.',
       'Rola Lutka Danielaka na lata zdefiniowała w polskim kinie typ bohatera-karierowicza.',
