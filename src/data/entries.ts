@@ -14577,19 +14577,19 @@ W latach 80. wspierał opozycję i bojkotował oficjalne media po wprowadzeniu s
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Min._W%C5%82adys%C5%82aw_Teofil_Bartoszewski_%28cropped_2%29.jpg?width=800',
     imageCaption: 'Władysław Bartoszewski',
     content: `## Sylwetka
-Władysław Bartoszewski (1922–2015) był historykiem, publicystą i działaczem społecznym. Jego biografia odzwierciedla najtrudniejsze doświadczenia XX wieku.
+Władysław Bartoszewski (1922–2015) był historykiem, publicystą i działaczem społecznym, a jego biografia mieści w sobie wszystkie punkty zwrotne polskiego XX wieku – zwykle po stronie represjonowanych.
 
 ## Więzień dwóch totalitaryzmów
-Był więźniem niemieckiego obozu Auschwitz, a po wojnie – jako żołnierz AK i niezależny działacz – trafił do stalinowskich więzień, gdzie spędził kilka lat jako więzień polityczny.
+We wrześniu 1940 roku, mając osiemnaście lat, trafił w łapance do Auschwitz; wyszedł po siedmiu miesiącach dzięki staraniom Czerwonego Krzyża i był jednym z pierwszych, którzy przekazali podziemiu relację o obozie. Po wojnie, jako żołnierz AK, został aresztowany przez UB i spędził w stalinowskich więzieniach ponad sześć lat.
 
 ## Żegota i pamięć
-W czasie wojny działał w Radzie Pomocy Żydom „Żegota”. Po wojnie dokumentował tę historię, stając się jednym z najważniejszych świadków i strażników pamięci.
+W czasie okupacji działał w Radzie Pomocy Żydom „Żegota”, zajmującej się ukrywaniem i finansowaniem pomocy dla ukrywających się. Po wojnie dokumentował tę historię w książkach i wykładach; w 1963 roku otrzymał tytuł Sprawiedliwego wśród Narodów Świata, a później honorowe obywatelstwo Izraela.
 
 ## Opozycja
-W PRL współpracował z „Tygodnikiem Powszechnym”, KOR i opozycją demokratyczną. Wykładał, publikował w drugim obiegu i był internowany w stanie wojennym.
+Publikował w „Tygodniku Powszechnym”, wykładał na Uniwersytecie Latającym, współpracował z KOR i wspierał Solidarność. Po 13 grudnia 1981 roku był internowany; zwolniono go po protestach z zagranicy.
 
 ## Autorytet
-Po 1989 roku pełnił funkcję ministra spraw zagranicznych. Pozostaje symbolem prawości, dialogu polsko-żydowskiego i pojednania polsko-niemieckiego.`,
+Po 1989 roku był ambasadorem w Austrii i dwukrotnie ministrem spraw zagranicznych. Jego przemówienie w Bundestagu w 1995 roku, w pięćdziesiątą rocznicę zakończenia wojny, uchodzi za jeden z najważniejszych tekstów pojednania polsko-niemieckiego.`,
     trivia: ['Był więźniem Auschwitz, żołnierzem AK, a po wojnie więźniem stalinowskim.', 'Otrzymał tytuł Sprawiedliwego wśród Narodów Świata.'],
     resources: [
       {
@@ -16875,19 +16875,19 @@ Przez lata wykładał w łódzkiej Szkole Filmowej, której był potem rektorem.
     yearEnd: 1989,
     summary: 'Boks był jedną z najpopularniejszych i najbardziej utytułowanych dyscyplin PRL, a „polska szkoła boksu” przynosiła medale olimpijskie i mistrzostwa Europy.',
     content: `## Fenomen
-Pięściarstwo należało do najpopularniejszych sportów PRL. Mecze gromadziły tłumy, a sukcesy bokserów były źródłem narodowej dumy i przedmiotem propagandowej chluby.
+Pięściarstwo należało do najpopularniejszych sportów PRL. Hale wypełniały się po brzegi, transmisje radiowe słuchano zbiorowo, a sukcesy bokserów były przedmiotem propagandowej chluby – dyscyplina robotnicza, tania w uprawianiu i przynosząca medale.
 
 ## „Polska szkoła boksu”
-Pojęcie „polskiej szkoły boksu” oznaczało technikę, finezję i taktykę nad siłą. Jej twórcą był trener Feliks Stamm, wychowawca pokoleń mistrzów.
+Pojęcie oznaczało prymat techniki, ruchu i taktyki nad siłą: unik zamiast wymiany ciosów, praca nóg, punktowanie. Jej twórcą był Feliks Stamm, prowadzący reprezentację przez ponad trzydzieści lat.
 
 ## Mistrzowie
-Sukcesy odnosili m.in. Jerzy Kulej (dwukrotny mistrz olimpijski), Zbigniew Pietrzykowski, Marian Kasprzyk i Jan Szczepański. Polscy bokserzy zdobywali medale igrzysk i mistrzostw Europy.
+Jerzy Kulej zdobył złoto olimpijskie dwukrotnie, w Tokio (1964) i Meksyku (1968). Marian Kasprzyk wygrał w Tokio, walcząc ze złamaną ręką, a Jan Szczepański sięgnął po złoto w Monachium (1972). Zbigniew Pietrzykowski przegrał w Rzymie (1960) finałową drogę z młodym Cassiusem Clayem – późniejszym Muhammadem Alim.
 
 ## Feliks Stamm
-Legendarny trener „Papa” Stamm prowadził reprezentację przez dziesięciolecia, budując jej światową renomę i wychowując zawodników w duchu sportowej klasy.
+„Papa” Stamm wychował kilka pokoleń mistrzów i był postacią, wokół której zbudowano cały system: kluby przy zakładach pracy, szkolenie od podstaw i selekcję prowadzoną w całym kraju. Jego imieniem nazwano turniej rozgrywany do dziś.
 
 ## Znaczenie
-Polska szkoła boksu to jeden z największych sukcesów sportu PRL, symbol kunsztu, który przez lata stawiał polskie pięściarstwo w światowej czołówce.`,
+Polska szkoła boksu przyniosła kilkadziesiąt medali olimpijskich i mistrzostw Europy, głównie w latach 50. i 60. Po zmianie ustroju struktura klubowa, na której się opierała, w dużej mierze się rozpadła.`,
     trivia: ['Polska szkoła boksu przyniosła serię medali olimpijskich.', 'Jej twórcą był legendarny trener Feliks Stamm.'],
     resources: [
       {
@@ -16943,19 +16943,19 @@ Polska szkoła boksu to jeden z największych sukcesów sportu PRL, symbol kunsz
     yearEnd: 1976,
     summary: 'Reprezentacja Polski w siatkówce pod wodzą Huberta „Kata” Wagnera zdobyła mistrzostwo świata 1974 i złoto olimpijskie 1976 – największe sukcesy tej dyscypliny.',
     content: `## Sukces
-Polska siatkówka przeżyła złotą erę w połowie lat 70. W 1974 roku reprezentacja zdobyła mistrzostwo świata, a w 1976 roku – złoty medal igrzysk olimpijskich w Montrealu.
+Polska siatkówka przeżyła złotą erę w połowie lat 70. W 1974 roku reprezentacja zdobyła mistrzostwo świata w Meksyku, a dwa lata później złoty medal igrzysk w Montrealu – jedyne w historii polskiej siatkówki przez następne dekady.
 
 ## Hubert Wagner
-Architektem sukcesu był trener Hubert Wagner, nazywany „Katem” za bezkompromisowe, twarde metody treningowe. Zbudował drużynę o żelaznej kondycji i charakterze.
+Architektem sukcesu był trener Hubert Wagner, nazywany „Katem” za bezkompromisowe metody treningowe. Stawiał na kondycję, dyscyplinę i psychiczną odporność, a zawodników dobierał pod charakter co najmniej tak samo jak pod umiejętności.
 
 ## Finał w Montrealu
-Dramatyczny, pięciosetowy finał olimpijski z ZSRR przeszedł do legendy polskiego sportu. Zwycięstwo nad faworyzowanym rywalem wywołało euforię w całym kraju.
+Finał ze Związkiem Radzieckim rozstrzygnął się w pięciu setach, po ponad trzech godzinach gry i przy stanie meczowym odwracającym się kilkakrotnie. Transmisja skończyła się w Polsce nad ranem, a zwycięstwo nad faworytem wywołało euforię porównywalną z sukcesami piłkarzy.
 
 ## Gwiazdy
-W drużynie błyszczeli m.in. Tomasz Wójtowicz, Edward Skorek, Wiesław Gawłowski i Mirosław Rybaczewski – pokolenie, które na trwałe zapisało się w historii.
+W drużynie grali Tomasz Wójtowicz, Edward Skorek, Wiesław Gawłowski, Mirosław Rybaczewski i Włodzimierz Stefański – pokolenie, do którego odwoływano się przy każdym kolejnym sukcesie polskiej siatkówki.
 
 ## Znaczenie
-Sukcesy siatkarzy z lat 70. były źródłem narodowej dumy i punktem odniesienia dla kolejnych pokoleń. Postać Huberta Wagnera stała się symbolem zwycięskiej woli walki.`,
+Wagner wracał później do kadry i pozostał symbolem trenera-charakteru; jego imieniem nazwano coroczny turniej reprezentacji. Złoto z Montrealu przez trzydzieści lat pozostawało punktem odniesienia dla całej dyscypliny w Polsce.`,
     trivia: ['Polscy siatkarze zdobyli mistrzostwo świata.', 'Dwa lata później sięgnęli po złoto olimpijskie w Montrealu.'],
     resources: [
       {
@@ -20094,7 +20094,7 @@ Edward Stachura „Sted” (1937–1979) urodził się we Francji, w rodzinie po
 Przemierzał Polskę autostopem i pociągami, pracował dorywczo, jeździł do Meksyku, Norwegii i na Bliski Wschód. „Cała jaskrawość” (1969) i „Siekierezada albo Zima leśnych ludzi” (1971) opisują ten świat: pracę fizyczną, drogę, obcowanie z ludźmi na marginesie. Późniejsze „Się” (1977) rozbija już samą formę prozy.
 
 ## Pieśni
-Pisał teksty i śpiewał je do własnej gitary. „Jak” i „Dni, których nie znamy” – ta druga w wykonaniu Marka Grechuty – weszły do kanonu piosenki studenckiej i turystycznej. Śpiewano je na obozach, rajdach i przy ogniskach przez kolejne dekady.
+Pisał teksty i śpiewał je do własnej gitary. „Jak” i „Życie to nie teatr” weszły do kanonu piosenki studenckiej i turystycznej, śpiewane później m.in. przez Stare Dobre Małżeństwo. Śpiewano je na obozach, rajdach i przy ogniskach przez kolejne dekady.
 
 ## Legenda
 W 1979 roku stracił w wypadku kolejowym dłoń, przeszedł załamanie i 24 lipca odebrał sobie życie w wieku czterdziestu dwóch lat. Pozostawił zapiski, które wydano jako „Pogodzić się ze światem”. Śmierć dopełniła legendy poety przeklętego.
@@ -22067,16 +22067,19 @@ Przydomek pierwszej damy polskiej piosenki przylgnął do niej już w latach 60.
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Marek%20Grechuta.jpg?width=800',
     imageCaption: 'Marek Grechuta – jeden z najwybitniejszych twórców poezji śpiewanej.',
     content: `## Poeta śpiewający
-Marek Grechuta (1945–2006) był z wykształcenia architektem, a w muzyce – najważniejszym przedstawicielem polskiej poezji śpiewanej. Zadebiutował w 1967 roku w krakowskim środowisku studenckim.
+Marek Grechuta (1945–2006) był z wykształcenia architektem, a w muzyce najważniejszym przedstawicielem polskiej poezji śpiewanej. Debiutował w 1967 roku w krakowskim środowisku studenckim, na festiwalu piosenki studenckiej, i od razu został zauważony.
 
 ## Anawa i dalej
-Z zespołem Anawa, prowadzonym przez Jana Kantego Pawluśkiewicza, nagrał utwory łączące piosenkę literacką z rockiem i jazzem. Później współtworzył grupę Wiem i kontynuował karierę solową.
+Z zespołem Anawa, prowadzonym przez Jana Kantego Pawluśkiewicza, nagrał utwory łączące piosenkę literacką z rockiem, jazzem i muzyką kameralną. Album „Korowód” (1971) uchodzi za jedno z najważniejszych nagrań polskiej muzyki w ogóle. Później współtworzył grupę WIEM i kontynuował karierę solową.
 
 ## Repertuar
-Śpiewał do słów własnych oraz Wyspiańskiego, Gałczyńskiego i Baczyńskiego. Najbardziej znane utwory to „Dni, których nie znamy”, „Ocalić od zapomnienia” i „Niepewność” – wszystkie funkcjonują dziś jako standardy.
+Śpiewał do słów własnych oraz Wyspiańskiego, Gałczyńskiego, Baczyńskiego i Mickiewicza. „Dni, których nie znamy” – z tekstem własnym i muzyką Pawluśkiewicza – „Ocalić od zapomnienia”, „Niepewność” i „Wiosna, ach to ty” funkcjonują dziś jako standardy śpiewane przez kolejne pokolenia wykonawców.
+
+## Choroba
+Przez znaczną część życia zmagał się z chorobą afektywną dwubiegunową, która na lata wyłączała go z występów. Wracał na scenę po długich przerwach, a publiczność przyjmowała go za każdym razem bez zastrzeżeń.
 
 ## Miejsce w kulturze
-Grechuta pokazał, że piosenka może być literaturą bez utraty popularności. W czasach, gdy estrada dzieliła się na rozrywkę i ambicję, jego twórczość znosiła tę granicę – i właśnie dlatego przetrwała zmianę pokoleń.`,
+Pokazał, że piosenka może być literaturą bez utraty popularności. W czasach, gdy estrada dzieliła się na rozrywkę i ambicję, jego twórczość znosiła tę granicę – i właśnie dlatego przetrwała zmianę pokoleń.`,
     trivia: [
       'Z wykształcenia był architektem, a malarstwo uprawiał przez całe życie.',
       'Śpiewał do słów Wyspiańskiego, Gałczyńskiego i Baczyńskiego, nie tracąc przy tym masowej publiczności.',
@@ -23811,16 +23814,19 @@ Serial jest dziś jednym z najczęściej cytowanych obrazów epoki. Jego siła p
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/00_Dezerter_2025.jpg?width=800',
     imageCaption: 'Dezerter',
     content: `## Zespół
-Dezerter powstał na początku lat 80. w Warszawie i stał się najważniejszym polskim zespołem punkowym. Początkowo działał pod nazwą SS-20, zmienioną po interwencji władz – oryginalna była nazwą radzieckiej rakiety.
+Dezerter powstał w 1981 roku w Warszawie i stał się najważniejszym polskim zespołem punkowym. Początkowo działał jako SS-20 – od nazwy radzieckiej rakiety średniego zasięgu rozmieszczanej wtedy w Europie – i musiał ją zmienić pod naciskiem organizatorów i cenzury.
 
 ## Muzyka i teksty
-Grali szybko, krótko i surowo, a teksty były wprost polityczne: o kłamstwie propagandy, o wojsku, o beznadziei życia w kraju bez perspektyw. Nie stosowali aluzji, którymi posługiwała się estrada.
+Grali szybko, krótko i surowo, a teksty pisali wprost: o kłamstwie propagandy, o wojsku, o szkole, o życiu w kraju bez perspektyw. Nie stosowali aluzji, którymi posługiwała się estrada – i to była zasadnicza różnica między nimi a resztą sceny.
 
 ## Jarocin i drugi obieg
-Festiwal w Jarocinie dał im scenę, a kasety magnetofonowe – obieg. Nagrania kopiowano prywatnie i wymieniano, całkowicie poza państwową dystrybucją. Był to muzyczny odpowiednik drugiego obiegu wydawniczego.
+Występy w Jarocinie dały im publiczność, a kasety magnetofonowe – obieg. Nagrania kopiowano prywatnie, z kasety na kasetę, poza państwową dystrybucją; był to muzyczny odpowiednik drugiego obiegu wydawniczego. Płyta „Underground Out of Poland” ukazała się w Stanach Zjednoczonych, zanim zespół doczekał się wydawnictwa w kraju.
+
+## Kontrola
+Teksty zdejmowano z programów koncertów, a występy odwoływano. Władze próbowały jednocześnie kontrolować Jarocin i traktować go jako wentyl bezpieczeństwa – festiwal był naszpikowany funkcjonariuszami, a mimo to przez kilka lat pozostawał najbardziej wolnym miejscem w kraju.
 
 ## Niezależność
-Dezerter pozostał zespołem niezależnym także po 1989 roku, nie wchodząc w obieg komercyjny. To rzadki przypadek grupy, dla której formuła sceny niezależnej nie była etapem, lecz trwałym wyborem.`,
+Dezerter gra do dziś i pozostał zespołem niezależnym także po 1989 roku, nie wchodząc w obieg komercyjny. To rzadki przypadek grupy, dla której formuła sceny niezależnej nie była etapem, lecz trwałym wyborem.`,
     trivia: [
       'Pierwotna nazwa zespołu, SS-20, była nazwą radzieckiej rakiety i wymusiła zmianę po interwencji władz.',
       'Nagrania krążyły na kopiowanych kasetach – muzyczny odpowiednik drugiego obiegu wydawniczego.',
@@ -23916,16 +23922,19 @@ Obraz obejrzały miliony widzów i przez dziesięciolecia pozostawał najchętni
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Polski_Fiat_125p_Taxi_Zmiennicy_%28MSP16%29.jpg?width=800',
     imageCaption: 'Zmiennicy',
     content: `## Serial
-„Zmiennicy” to ostatni serial Stanisława Barei, emitowany na przełomie 1987 i 1988 roku. Tytuł roboczy brzmiał „Zawód taksówkarz” i dobrze oddawał punkt wyjścia.
+„Zmiennicy” to ostatni serial Stanisława Barei, emitowany od 18 października 1987 do 12 lutego 1988 roku. Tytuł roboczy brzmiał „Zawód taksówkarz” i dobrze oddawał punkt wyjścia.
 
 ## Fabuła
-Bohaterką jest dziewczyna, która przebiera się za mężczyznę, żeby dostać pracę taksówkarza. Zawód pozwala jej – i widzowi – przejechać przez całą Warszawę i zajrzeć do wszystkich środowisk naraz.
+Katarzyna Piórecka (Ewa Błaszczyk), której nie chcą przyjąć do przedsiębiorstwa taksówkowego, bo jest kobietą, przebiera się za mężczyznę i zostaje zmiennikiem Jacka Żytkiewicza (Mieczysław Hryniewicz). Wspólny fiat 125p o numerach bocznych 1313 wozi ich przez całą Warszawę.
 
 ## Taksówka jako pretekst
-Konstrukcja z pasażerami zmieniającymi się w każdym odcinku pozwalała Barei robić to, co umiał najlepiej: pokazywać krótkie scenki z urzędów, sklepów i mieszkań, w których absurd jest normą, a język urzędowy narzędziem komedii.
+Konstrukcja z pasażerami zmieniającymi się w każdym odcinku pozwalała Barei robić to, co umiał najlepiej: krótkie scenki z urzędów, sklepów, mieszkań i milicyjnych kontroli, w których absurd jest normą, a język urzędowy narzędziem komedii. Obok pary głównej grali Bronisław Pawlik i Krzysztof Kowalewski.
 
 ## Schyłek
-Serial powstał u samego końca PRL, gdy cenzura już słabła, a system tracił impet. Jest przez to nie tylko satyrą, ale i zapisem ostatnich lat epoki, wykonanym przez reżysera, który obserwował ją dłużej niż ktokolwiek inny w polskim kinie.`,
+Serial powstawał u samego końca PRL, gdy cenzura już słabła, a system tracił impet. Jest przez to nie tylko satyrą, ale i zapisem ostatnich lat epoki – wykonanym przez reżysera, który obserwował ją dłużej i uważniej niż ktokolwiek inny w polskim kinie.
+
+## Znaczenie
+Bareja zmarł w 1987 roku, jeszcze przed końcem emisji. „Zmiennicy” są więc jego pożegnaniem – i jedynym jego serialem, w którym głównym bohaterem jest kobieta walcząca o prawo do wykonywania zawodu.`,
     trivia: [
       'Tytuł roboczy brzmiał „Zawód taksówkarz”.',
       'Był to ostatni serial Barei, powstały u samego schyłku PRL.',
@@ -25096,16 +25105,19 @@ Film zdobył Złotą Palmę w Cannes w 1981 roku. Kilka miesięcy później wpro
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krystyna%20Janda%20by%20Foksal.jpg?width=800',
     imageCaption: 'Krystyna Janda – aktorka teatralna i filmowa.',
     content: `## Debiut
-Krystyna Janda (ur. 1952) zadebiutowała w kinie główną rolą Agnieszki w „Człowieku z marmuru” Andrzeja Wajdy – jeszcze w trakcie studiów. Rola nieustępliwej, konfrontacyjnej reżyserki od razu ustawiła jej pozycję.
+Krystyna Janda (ur. 1952) zadebiutowała w kinie główną rolą Agnieszki w „Człowieku z marmuru” Andrzeja Wajdy (1976) – jeszcze jako studentka. Rola nieustępliwej, konfrontacyjnej reżyserki, która wydziera archiwom prawdę o stalinizmie, od razu ustawiła jej pozycję.
 
 ## Role
-Zagrała w „Człowieku z żelaza”, „Bez znieczulenia” oraz w „Przesłuchaniu” Ryszarda Bugajskiego – filmie o kobiecie torturowanej w więzieniu stalinowskim, zatrzymanym przez cenzurę na całą dekadę i pokazanym dopiero pod koniec lat 80.
+Zagrała w „Bez znieczulenia” (1978), „Człowieku z żelaza” (1981) i „Dyrygencie” Wajdy, a przede wszystkim w „Przesłuchaniu” Ryszarda Bugajskiego – filmie o kobiecie torturowanej w więzieniu stalinowskim, zatrzymanym przez cenzurę na całą dekadę. Rola przyniosła jej nagrodę dla najlepszej aktorki w Cannes, gdy film pokazano w 1990 roku.
 
 ## Typ aktorski
-Wprowadziła do polskiego kina bohaterkę silną, uparta i pozbawioną uległości – typ wcześniej praktycznie nieobecny. Grała też w teatrze i w produkcjach zagranicznych, m.in. u Andrzeja Żuławskiego.
+Wprowadziła do polskiego kina bohaterkę silną, upartą i pozbawioną uległości – typ wcześniej praktycznie nieobecny, bo kobiety grały żony, matki albo obiekty uczuć. Pracowała też za granicą, m.in. z Andrzejem Żuławskim i Istvánem Szabó.
+
+## Teatr
+Na scenie zbudowała pozycję równie mocną, słynąc z monodramów granych po kilkaset razy. Śpiewała, pisała felietony i książki.
 
 ## Poza ekranem
-Śpiewała, pisała felietony i książki, a po 1989 roku stworzyła własne teatry w Warszawie. Należy do nielicznych artystów, którzy zbudowali silną pozycję zarówno w PRL, jak i po jego końcu.`,
+Po 1989 roku stworzyła w Warszawie własne teatry – Polonię i Och-Teatr – prowadzone bez stałej dotacji. Należy do nielicznych artystów, którzy zbudowali silną pozycję zarówno w PRL, jak i po jego końcu.`,
     trivia: [
       'Zadebiutowała główną rolą u Wajdy jeszcze w trakcie studiów aktorskich.',
       'Jej „Przesłuchanie” zatrzymano na całą dekadę i pokazano dopiero pod koniec lat 80.',
@@ -30015,16 +30027,19 @@ Film należy do najostrzejszych rozliczeń ze stalinizmem, jakie powstały w PRL
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/MJK32641%20Agnieszka%20Holland%20%28Pokot%2C%20Berlinale%202017%29%20crop.jpg?width=800',
     imageCaption: 'Agnieszka Holland – reżyserka „Kobiety samotnej”.',
     content: `## Film z półki
-„Kobieta samotna” Agnieszki Holland powstała w 1981 roku, tuż przed stanem wojennym. Władze zatrzymały film na kilka lat; na ekrany wszedł dopiero w drugiej połowie lat 80.
+„Kobieta samotna” Agnieszki Holland powstała w 1981 roku, tuż przed stanem wojennym. Władze zatrzymały film na kilka lat; na ekrany wszedł dopiero pod koniec dekady, a za granicą pokazano go wcześniej niż w Polsce.
 
 ## Bohaterka
-Irena, grana przez Marię Chwalibóg, jest listonoszką samotnie wychowującą syna, mieszkającą w rozsypującym się domu na peryferiach. Film obserwuje jej codzienną walkę o pieniądze, mieszkanie i odrobinę godności.
+Irena, grana przez Marię Chwalibóg, jest listonoszką samotnie wychowującą syna, mieszkającą w rozsypującej się przybudówce na peryferiach. Film obserwuje jej codzienną walkę o pieniądze, mieszkanie i odrobinę godności, a jedyną nadzieję – związek z rencistą granym przez Bogusława Lindę – kończy katastrofa.
 
 ## Bez pocieszenia
-Holland nie daje bohaterce ani wsparcia instytucji, ani solidarności sąsiadów, ani szczęśliwego zakończenia. To jeden z najbardziej bezlitosnych obrazów biedy, jakie powstały w polskim kinie – i właśnie dlatego był nie do przyjęcia.
+Holland nie daje bohaterce ani wsparcia instytucji, ani solidarności sąsiadów, ani szczęśliwego zakończenia. To jeden z najbardziej bezlitosnych obrazów biedy w polskim kinie – bliższy dokumentowi niż melodramatowi, kręcony w prawdziwych wnętrzach i w zimowej scenerii bez upiększeń.
 
 ## Dlaczego zatrzymano
-Film nie zawierał politycznych oskarżeń. Pokazywał natomiast nędzę w państwie, które opierało swoją legitymację na opiece nad ludźmi pracy. Ten obraz był groźniejszy niż niejeden jawny protest.`,
+Film nie zawierał politycznych oskarżeń ani jednej sceny o partii czy milicji. Pokazywał natomiast nędzę w państwie, które całą swoją legitymację opierało na opiece nad ludźmi pracy. Ten obraz okazał się groźniejszy niż niejeden jawny protest.
+
+## Znaczenie
+Dziś uchodzi za jeden z najlepszych filmów Holland i za najmocniejszy zapis tego, jak wyglądało życie na dole drabiny społecznej u schyłku PRL.`,
     trivia: [
       'Film nakręcono w 1981 roku, a na ekrany trafił dopiero w drugiej połowie lat 80.',
       'Nie zawierał politycznych oskarżeń – pokazywał nędzę w państwie opartym na obietnicy opieki nad pracownikami.',
