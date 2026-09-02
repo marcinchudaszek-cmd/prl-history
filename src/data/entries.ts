@@ -14817,19 +14817,19 @@ Protest Siwca – wcześniejszy niż głośne samospalenie Jana Palacha w Pradze
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/W%C5%82adys%C5%82aw_Frasyniuk_%282026%29.jpg?width=800',
     imageCaption: 'Władysław Frasyniuk',
     content: `## Sylwetka
-Władysław Frasyniuk (ur. 1954) był kierowcą autobusowym we Wrocławiu, który w 1980 roku stał się jednym z czołowych działaczy Solidarności na Dolnym Śląsku.
+Władysław Frasyniuk (ur. 1954) był kierowcą autobusu we wrocławskim MPK, gdy w sierpniu 1980 roku stanął na czele strajku w zajezdni. W ciągu kilku tygodni przeszedł z kabiny kierowcy na czoło jednego z największych regionów Solidarności – co samo w sobie mówi o tym, jak działał ten ruch.
 
 ## Sierpień 1980
-Współorganizował strajki we Wrocławiu i został przewodniczącym Zarządu Regionu Dolny Śląsk NSZZ „Solidarność”, jednego z największych regionów związku.
+Kierowany przez niego Zarząd Regionu Dolny Śląsk liczył blisko milion członków. Frasyniuk należał do skrzydła, które w 1981 roku sprzeciwiało się ustępstwom wobec władzy, i wszedł do Komisji Krajowej związku.
 
 ## Podziemie
-Po wprowadzeniu stanu wojennego nie dał się internować i przeszedł do podziemia, współtworząc Regionalny Komitet Strajkowy. Stał się jednym z najbardziej poszukiwanych działaczy.
+13 grudnia 1981 roku uniknął zatrzymania i przeszedł do konspiracji. Współtworzył Regionalny Komitet Strajkowy, a następnie Tymczasową Komisję Koordynacyjną – podziemne kierownictwo Solidarności. Przez dziesięć miesięcy był jednym z najbardziej poszukiwanych ludzi w kraju.
 
 ## Więzienia
-Aresztowany w 1982 roku, był wielokrotnie skazywany i więziony. Mimo represji nie zaprzestał działalności, pozostając symbolem nieugiętości podziemnej Solidarności.
+Aresztowano go w październiku 1982 roku i skazano na sześć lat. Wyszedł na mocy amnestii w 1984, po czym wrócił do działalności i został ponownie uwięziony. Łącznie spędził za kratami blisko pięć lat, konsekwentnie odmawiając emigracji w zamian za zwolnienie.
 
 ## Znaczenie
-Frasyniuk należy do grona najważniejszych przywódców opozycji lat 80., uczestnik obrad Okrągłego Stołu i postać aktywna w życiu publicznym po 1989 roku.`,
+Uczestniczył w obradach Okrągłego Stołu i pozostał aktywny w życiu publicznym po 1989 roku. Należy do najbardziej rozpoznawalnych przywódców podziemnej Solidarności obok Bujaka i Lisa.`,
     trivia: ['Po 13 grudnia 1981 ukrywał się i kierował podziemiem na Dolnym Śląsku.', 'W latach 80. był wielokrotnie aresztowany i skazywany.'],
     resources: [
       {
@@ -15856,19 +15856,19 @@ Po 1989 roku doradzał w Waszyngtonie w sprawach Europy Środkowej i był jednym
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Demonstracja_Mi%C5%84sk_1_maja_1917.jpg?width=800',
     imageCaption: 'Pochód pierwszomajowy',
     content: `## Święto Pracy
-1 Maja, Międzynarodowy Dzień Solidarności Ludzi Pracy, był jednym z najważniejszych świąt PRL. Jego centralnym elementem był masowy pochód pierwszomajowy.
+1 Maja, obchodzony jako Międzynarodowy Dzień Solidarności Ludzi Pracy, był obok 22 lipca najważniejszym świętem PRL. Jego centralnym elementem był pochód: kilkugodzinny przemarsz zakładów pracy przed trybuną honorową, transmitowany przez radio i telewizję.
 
 ## Obowiązkowy udział
-W pochodach „dobrowolnie-obowiązkowo” uczestniczyli pracownicy zakładów, uczniowie i studenci. Nieobecność mogła oznaczać kłopoty, dlatego frekwencja była masowa.
+Udział był „dobrowolno-obowiązkowy”. Listy obecności sprawdzano w zakładach i szkołach, a nieobecność mogła kosztować premię, opinię albo miejsce na liście mieszkaniowej. Frekwencja była więc masowa, a jej masowość podawano potem jako dowód poparcia.
 
 ## Choreografia propagandy
-Uczestnicy nieśli transparenty, portrety przywódców i hasła o sukcesach socjalizmu, defilując przed trybuną honorową z lokalnymi i partyjnymi dygnitarzami.
+Kolumny niosły transparenty, portrety przywódców i hasła przygotowane centralnie, a zakłady rywalizowały o najlepszą oprawę. Przed trybuną należało wznieść okrzyk i pomachać; potem większość uczestników rozchodziła się na piwo i grill, traktując resztę dnia jak wolne.
 
 ## Druga strona
-Dla wielu pochód był uciążliwym obowiązkiem, znoszonym z dystansem i ironią. Z czasem stał się pustym rytuałem, w którym nikt nie wierzył w głoszone hasła.
+W latach 80. święto zaczęło się władzy wymykać: w 1982 i 1983 roku Solidarność organizowała własne, niezależne pochody, które w kilku miastach liczyły dziesiątki tysięcy osób i kończyły się starciami z ZOMO. Ten sam dzień służył wtedy obu stronom.
 
 ## Znaczenie
-Pochody pierwszomajowe to symbol propagandowej obrzędowości PRL – spektaklu „jedności”, za którym kryła się przymusowa mobilizacja społeczeństwa.`,
+Pochody pierwszomajowe pozostają symbolem propagandowej obrzędowości PRL – spektaklu jedności, w który pod koniec epoki nie wierzyli już nawet organizatorzy, a który odbywał się dalej, bo tak wypadało.`,
     trivia: ['Udział w pochodzie bywał w zakładach praktycznie obowiązkowy.', 'Po przemarszu następowała zabawa, piwo i kiełbasa.'],
     resources: [
       {
@@ -16815,19 +16815,19 @@ Zostawił zaledwie kilka filmów, a mimo to jest wymieniany obok Wajdy jako wsp�
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wojciech_Jerzy_Has.jpg?width=800',
     imageCaption: 'Wojciech Jerzy Has',
     content: `## Sylwetka
-Wojciech Jerzy Has (1925–2000) był reżyserem osobnym, tworzącym kino poetyckie, oniryczne i wizyjne, dalekie od politycznego zaangażowania.
+Wojciech Jerzy Has (1925–2000) był reżyserem osobnym: budował kino poetyckie i wizyjne, obojętne na aktualność i polityczne zaangażowanie, którego oczekiwano od jego pokolenia. Debiutował „Pętlą” (1957) z Gustawem Holoubkiem – studium jednego dnia alkoholika.
 
 ## Rękopis znaleziony w Saragossie
-Jego najsłynniejszy film, „Rękopis znaleziony w Saragossie” (1965) na podstawie powieści Jana Potockiego, to labiryntowa, wielopiętrowa opowieść, która zyskała status kultowego dzieła także za granicą.
+Film według powieści Jana Potockiego, nakręcony w 1964 i pokazany rok później, z Zbigniewem Cybulskim w roli głównej, to opowieść szkatułkowa: historia wewnątrz historii wewnątrz historii. Zyskał status dzieła kultowego za granicą – jego wielbicielami byli Jerry Garcia, Martin Scorsese i Luis Buñuel, a Garcia zainicjował rekonstrukcję pełnej wersji, dokończoną po jego śmierci.
 
 ## Sanatorium pod Klepsydrą
-„Sanatorium pod Klepsydrą” (1973) według Brunona Schulza to wizjonerska adaptacja, olśniewająca plastyczną wyobraźnią i nagrodzona w Cannes.
+Adaptacja Brunona Schulza z 1973 roku, nagrodzona w Cannes, jest jego najbardziej rozbuchaną plastycznie realizacją: świat, w którym czas płynie w kilku kierunkach naraz, zbudowany w całości w atelier z tysięcy rekwizytów.
 
 ## Styl
-Has budował niepowtarzalne, gęste od detali światy, w których czas i przestrzeń tracą zwykłe reguły. Był też wieloletnim pedagogiem łódzkiej Szkoły Filmowej.
+Has konstruował przestrzenie gęste od detali, w których przedmioty znaczą tyle co dialog. Zekranizował też „Lalkę” (1968) i „Jak być kochaną” (1962, premiera 1963) – ten drugi film uchodzi za jedną z najlepszych ról Barbary Krafftówny.
 
 ## Znaczenie
-Wojciech Has to jeden z najbardziej oryginalnych polskich reżyserów, twórca kina wyobraźni o trwałym, międzynarodowym oddziaływaniu.`,
+Przez lata wykładał w łódzkiej Szkole Filmowej, której był potem rektorem. Pozostaje najbardziej rozpoznawalnym za granicą polskim twórcą kina wyobraźni – i reżyserem, którego filmy odkrywano na nowo w każdej kolejnej dekadzie.`,
     trivia: ['Mistrz kina onirycznego – „Rękopisu” i „Sanatorium pod klepsydrą”.', '„Rękopis znaleziony w Saragossie” zyskał na Zachodzie status filmu kultowego.'],
     resources: [
       {
@@ -17716,19 +17716,19 @@ Mrożek to klasyk literatury XX wieku; jego „Tango” należy do kanonu dramat
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Witold_Gombrowicz_by_Bohdan_Paczowski_-_detail.jpg?width=800',
     imageCaption: 'Witold Gombrowicz',
     content: `## Sylwetka
-Witold Gombrowicz (1904–1969) był prozaikiem i dramaturgiem, jednym z najoryginalniejszych pisarzy polskich, autorem nowatorskich powieści badających „formę” i międzyludzkie zniewolenie.
+Witold Gombrowicz (1904–1969) był prozaikiem i dramaturgiem, autorem powieści badających „formę” – to, jak ludzie nawzajem narzucają sobie role i jak nikt nie jest sobą inaczej niż wobec innych. „Ferdydurke” (1937) uczyniła go głośnym jeszcze przed wojną.
 
 ## Emigracja
-Wybuch wojny zastał go w Argentynie, gdzie spędził wiele lat, później przeniósł się do Europy. Nigdy nie wrócił do Polski, tworząc poza zasięgiem cenzury.
+W sierpniu 1939 roku popłynął do Argentyny jako dziennikarz na dziewiczy rejs transatlantyku i został tam na dwadzieścia cztery lata. Przez większość tego czasu żył w niedostatku, pracując w banku i pisząc do szuflady albo dla paryskiej „Kultury”. Do Europy wrócił w 1963 roku, osiadając ostatecznie we francuskim Vence.
 
 ## Twórczość
-„Ferdydurke”, „Trans-Atlantyk”, „Pornografia”, „Kosmos” i monumentalny „Dziennik” to dzieła o światowym znaczeniu, analizujące formę, niedojrzałość i tożsamość.
+„Trans-Atlantyk” (1953), „Pornografia”, „Kosmos”, dramaty „Ślub” i „Operetka” oraz przede wszystkim „Dziennik”, publikowany w „Kulturze” od 1953 roku – jedno z najważniejszych dzieł polskiej prozy XX wieku, pisane jak nieustanny pojedynek z czytelnikiem.
 
 ## Cenzura
-W PRL jego twórczość była przez długi czas zakazana lub ograniczana; krążyła w drugim obiegu i dzięki paryskiej „Kulturze”, która go publikowała.
+Krótka odwilż pozwoliła wydać go w kraju w 1957 roku, ale rok później nałożono zakaz, który trwał do końca lat 70. Czytano go z egzemplarzy „Kultury” i z drugiego obiegu; wpływ na polską literaturę wywierał więc mimo nieobecności w księgarniach.
 
 ## Znaczenie
-Gombrowicz to klasyk literatury światowej, wielokrotnie wymieniany jako kandydat do Nagrody Nobla; jego wpływ na polską i europejską kulturę pozostaje ogromny.`,
+W 1968 roku był poważnie rozważany jako kandydat do Nagrody Nobla. Dziś należy do klasyków literatury światowej, a jego pojęcia – forma, gęba, upupienie – weszły do języka, którym Polacy opisują samych siebie.`,
     trivia: ['Wypłynął do Argentyny na kilka dni przed wybuchem wojny i został tam ponad dwadzieścia lat.', 'Jego „Dziennik” ukazywał się w paryskiej „Kulturze”.'],
     resources: [
       {
@@ -18231,19 +18231,19 @@ Dla polskiego nabywcy pozostawał samochodem prestiżowym, bo droższym i więks
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wwa-cepelia-logo-2011.jpg?width=800',
     imageCaption: 'Cepelia',
     content: `## Geneza
-Cepelia (Centrala Przemysłu Ludowego i Artystycznego) powstała w 1949 roku, by organizować, wspierać i komercjalizować twórczość ludową oraz rękodzieło artystyczne.
+Cepelia, czyli Centrala Przemysłu Ludowego i Artystycznego, powstała w 1949 roku, by organizować, wspierać i sprzedawać twórczość ludową oraz rękodzieło artystyczne. Zrzeszała kilkadziesiąt spółdzielni i tysiące wytwórców w całym kraju.
 
 ## Rękodzieło
-Pod jej szyldem działały spółdzielnie twórców ludowych wytwarzających wycinanki, ceramikę, tkaniny, hafty, zabawki, rzeźby i stroje regionalne, sprzedawane w charakterystycznych sklepach Cepelii.
+Pod jej szyldem powstawały wycinanki, ceramika, tkaniny dwuosnowowe, hafty, zabawki, rzeźby, kilimy i stroje regionalne. Sklepy Cepelii miały rozpoznawalny wystrój i były jednym z niewielu miejsc, gdzie dało się kupić przedmiot ładny i niepowtarzalny – w gospodarce produkującej rzeczy identyczne.
 
 ## Eksport
-Wyroby Cepelii były cenionym towarem eksportowym, przynoszącym dewizy. Polskie rękodzieło zdobywało nagrody na wystawach i targach za granicą.
+Wyroby stanowiły cenny towar eksportowy przynoszący dewizy; sprzedawano je w Europie Zachodniej i Stanach Zjednoczonych, a projektanci Cepelii zdobywali nagrody na targach i wystawach. Wzornictwo ludowe stało się w ten sposób jednym z niewielu polskich produktów rozpoznawalnych za granicą.
 
-## Promocja kultury
-Cepelia odegrała rolę w zachowaniu i popularyzacji tradycyjnych technik i wzornictwa ludowego, choć bywała też krytykowana za komercjalizację i ujednolicanie folkloru.
+## Krytyka
+Zarzucano jej ujednolicanie folkloru: dobór wzorów pod gust odbiorcy miejskiego, powielanie kilku „reprezentacyjnych” regionów i wypieranie autentycznych, lokalnych form. Słowo „cepeliada” stało się określeniem sztucznej, wystawowej ludowości.
 
 ## Znaczenie
-Cepelia to instytucja łącząca ochronę dziedzictwa ludowego z gospodarką – jej wyroby stały się rozpoznawalnym elementem estetyki PRL.`,
+Cepelia realnie ocaliła wiele technik rzemieślniczych, które bez zamówień zniknęłyby razem z ostatnim pokoleniem twórców. Jej estetyka pozostaje jednym z najbardziej charakterystycznych elementów wizualnych PRL i wraca dziś jako inspiracja dla projektantów.`,
     trivia: ['Nazwa to skrót od Centrali Przemysłu Ludowego i Artystycznego.', 'W sklepach Cepelii kupowało się rękodzieło i pamiątki.'],
     resources: [
       {
@@ -18487,19 +18487,19 @@ Prowadził grupy kolarskie i pracował jako trener. W 2018 roku uległ ciężkie
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/JKRUK_20080826_PRYMAS_JOZEF_GLEMP_JASNA_GORA_DSC07260A_%28cropped%29.JPG?width=800',
     imageCaption: 'Józef Glemp',
     content: `## Sylwetka
-Józef Glemp (1929–2013) został prymasem Polski w 1981 roku, po śmierci kardynała Stefana Wyszyńskiego, obejmując ster Kościoła w jednym z najtrudniejszych okresów.
+Józef Glemp (1929–2013) był prawnikiem kanonicznym i sekretarzem prymasa Wyszyńskiego, a od lipca 1981 roku – po jego śmierci – prymasem Polski. Objął urząd w momencie, gdy Kościół stał się jedynym pośrednikiem między władzą a społeczeństwem.
 
 ## Stan wojenny
-Niemal natychmiast po jego nominacji wprowadzono stan wojenny. Glemp apelował o spokój i unikanie rozlewu krwi, co część społeczeństwa odbierała jako nadmierną ostrożność, a inni jako roztropność.
+13 grudnia 1981 roku, kilka godzin po ogłoszeniu stanu wojennego, wygłosił kazanie wzywające do spokoju i przestrzegające przed rozlewem krwi. Jedni odczytali je jako roztropność ratującą życie, inni jako nadmierną ustępliwość wobec generałów. Spór o tę homilię ciągnął się przez całą dekadę i towarzyszył mu do końca.
+
+## Pomoc represjonowanym
+Pod jego kierownictwem działał Prymasowski Komitet Pomocy Osobom Pozbawionym Wolności i ich Rodzinom, rozdzielający dary z Zachodu, organizujący pomoc prawną i odwiedziny w więzieniach. Kościół prowadził też tygodnie kultury chrześcijańskiej – legalne forum dla twórców objętych zakazem.
 
 ## Mediacja
-Kościół pod jego kierownictwem prowadził działalność charytatywną, wspierał internowanych i represjonowanych oraz pełnił rolę mediatora między władzą a społeczeństwem.
-
-## Ku wolności
-Glemp uczestniczył w procesie prowadzącym do obrad Okrągłego Stołu, a Kościół był gwarantem porozumień między władzą a opozycją.
+Po zabójstwie księdza Popiełuszki w 1984 roku ponownie apelował o powściągliwość, a Kościół uczestniczył w rozmowach, które doprowadziły do Okrągłego Stołu; jego przedstawiciele byli przy nim gwarantami porozumienia.
 
 ## Znaczenie
-Jako prymas przełomu Józef Glemp odegrał ważną rolę w pokojowym przejściu Polski od PRL do demokracji, kontynuując dzieło prymasa Wyszyńskiego.`,
+Prymasostwo Glempa przypadło na najtrudniejsze lata i na przełom. Ocena jego postawy pozostaje przedmiotem sporu, ale rola Kościoła jako mediatora w pokojowym demontażu PRL jest bezsporna.`,
     trivia: ['Objął urząd prymasa tuż przed wprowadzeniem stanu wojennego.', 'Uczestniczył w przygotowaniach do rozmów Okrągłego Stołu.'],
     resources: [
       {
@@ -22471,16 +22471,19 @@ Wygrana oznaczała sumę nieosiągalną z pracy – samochód, mieszkanie, a cza
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Muzeum%20dobranocek%20w%20rzeszowie%201.jpg?width=800',
     imageCaption: 'Dobranocka',
     content: `## Instytucja wieczoru
-Dobranocka – kilkuminutowy program dla dzieci nadawany codziennie przed wieczornym wydaniem wiadomości – była stałym punktem dnia. Przy dwóch programach telewizji oglądały ją wszystkie dzieci w kraju o tej samej porze.
+Dobranocka – kilkuminutowy program dla dzieci nadawany codziennie przed wieczornymi wiadomościami – była stałym punktem dnia. Przy dwóch programach telewizji oglądały ją wszystkie dzieci w kraju o tej samej porze, co dziś jest sytuacją nie do odtworzenia.
 
 ## Repertuar
-Nadawano polskie seriale animowane: „Bolka i Lolka”, „Reksia”, „Misia Uszatka” i „Przygody kota Filemona”, a także produkcje z zagranicy, w tym czeskie i radzieckie oraz zachodnie, jak „Pszczółka Maja”.
+Nadawano polskie seriale animowane: „Bolka i Lolka” oraz „Reksia” ze Studia Filmów Rysunkowych w Bielsku-Białej, „Misia Uszatka” i „Colargola” z łódzkiego Se-ma-fora, „Przygody kota Filemona”, a także produkcje zagraniczne – czeskie, radzieckie i zachodnie, w tym „Pszczółkę Maję”. Najstarszą pozycją byli lalkowi „Jacek i Agatka”.
 
 ## Rytm dnia
-Dobranocka wyznaczała porę pójścia spać. Dla rodziców była narzędziem organizacyjnym, dla dzieci – nagrodą i zamknięciem dnia. Ta funkcja wykraczała daleko poza samą treść programów.
+Dobranocka wyznaczała porę pójścia spać: po niej dziecko szło do łóżka, a dorośli oglądali dziennik. Dla rodziców była narzędziem organizacyjnym, dla dzieci nagrodą i zamknięciem dnia – funkcja wykraczająca daleko poza treść samych programów.
+
+## Rzemiosło
+Polskie animacje powstawały metodą poklatkową, kilka sekund dziennie, w studiach zatrudniających dziesiątki plastyków. Odcinek „Misia Uszatka” robiono tygodniami, a scenariusze pisali pisarze dziecięcy, m.in. Czesław Janczarski.
 
 ## Dziedzictwo
-Polskie animacje z dobranocek okazały się jednym z najtrwalszych elementów kultury PRL: nie niosły treści ideologicznych, więc przetrwały zmianę ustroju bez żadnych zastrzeżeń i wracają dziś jako klasyka.`,
+Te seriale okazały się jednym z najtrwalszych elementów kultury PRL: nie niosły treści ideologicznych, więc przetrwały zmianę ustroju bez zastrzeżeń i wracają dziś jako klasyka, oglądana przez wnuki pierwszej widowni.`,
     trivia: [
       'Przy dwóch programach telewizji dobranockę oglądały wszystkie dzieci w kraju o tej samej porze.',
       'Polskie animacje przetrwały zmianę ustroju bez zastrzeżeń, bo nie niosły treści ideologicznych.',
@@ -22903,16 +22906,19 @@ Morze było też granicą państwa, patrolowaną przez Wojska Ochrony Pogranicza
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Closed%20Old%20Polish%20%27Ruch%27%20Kiosk%20in%20Sorkwity%2C%20Warmian-Masurian%20Voivodeship%2C%20Poland%2C%20July%2C%202020.jpg?width=800',
     imageCaption: 'Kiosk „Ruch”',
     content: `## Punkt sprzedaży
-Kioski „Ruchu” należały do państwowego przedsiębiorstwa kolportażu prasy i stały praktycznie na każdym osiedlu, przy przystankach i dworcach. Były najgęstszą siecią handlową w kraju.
+Kioski „Ruchu” należały do państwowego przedsiębiorstwa kolportażu prasy, wchodzącego w skład koncernu RSW „Prasa-Książka-Ruch”. Stały na każdym osiedlu, przy przystankach i dworcach, tworząc najgęstszą sieć handlową w kraju – liczoną w dziesiątkach tysięcy punktów.
 
 ## Co można było kupić
-Prasę, papierosy, znaczki, bilety komunikacji miejskiej, zapałki, gumę do żucia, zeszyty, a bywało, że i towary trudno dostępne. Kiosk pełnił funkcję sklepu wielobranżowego w miniaturze.
+Prasę, papierosy, znaczki, bilety komunikacji miejskiej, zapałki, gumę do żucia, zeszyty, pocztówki, a bywało, że i towary trudno dostępne. Kiosk pełnił funkcję sklepu wielobranżowego w miniaturze, a jego asortyment zależał od zaradności kioskarza.
 
 ## Bilety i prenumerata
-To właśnie w kiosku kupowało się bilety tramwajowe i autobusowe – nie istniały automaty biletowe. Tam też opłacało się prenumeratę gazet, co przy reglamentacji papieru było jedynym pewnym sposobem otrzymywania tytułu.
+To w kiosku kupowało się bilety tramwajowe i autobusowe – automatów biletowych nie było. Tam też opłacało się prenumeratę, co przy reglamentacji papieru bywało jedynym pewnym sposobem otrzymywania gazety, bo nakłady ustalano odgórnie i nie miały nic wspólnego z popytem.
 
 ## Kolejka po gazetę
-Popularne tytuły, zwłaszcza tygodniki, znikały w kilkanaście minut od dostawy. Kolejka przed kioskiem o poranku była codziennym widokiem, a znajomość z kioskarzem – realnym kapitałem społecznym.`,
+Popularne tygodniki znikały w kilkanaście minut od dostawy. Kolejka przed kioskiem o poranku była codziennym widokiem, a znajomość z kioskarzem – realnym kapitałem społecznym: to od niej zależało, czy egzemplarz „Przekroju” albo „Polityki” zostanie odłożony pod ladę.
+
+## Znaczenie
+Kiosk był miejscem, gdzie system dystrybucji PRL stykał się z klientem najbezpośredniej: obok siebie leżały tam prasa partyjna, której nikt nie chciał, i tytuły, po które ustawiała się kolejka. Sieć przetrwała zmianę ustroju, choć jej rola stopniowo zanikła.`,
     trivia: [
       'Bilety komunikacji miejskiej kupowało się w kiosku – automaty biletowe nie istniały.',
       'Popularne tygodniki znikały w kilkanaście minut od dostawy, więc znajomość z kioskarzem miała realną wartość.',
