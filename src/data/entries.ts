@@ -1510,16 +1510,19 @@ Służba Bezpieczeństwa prowadziła przeciw niemu kampanię: podrzucono mu mate
       'Krzyż stawiany pod kopalnią był w latach 80. wielokrotnie usuwany przez władze.',
     ],
     content: `## Strajk
-Po wprowadzeniu stanu wojennego górnicy kopalni Wujek w Katowicach podjęli strajk okupacyjny, protestując przeciw internowaniom i zawieszeniu Solidarności. Podobne strajki wybuchły w kilkunastu zakładach Śląska.
+Po wprowadzeniu stanu wojennego górnicy kopalni Wujek w Katowicach podjęli strajk okupacyjny, protestując przeciw internowaniom – w tym aresztowaniu przewodniczącego zakładowej Solidarności – i zawieszeniu związku. Podobne strajki wybuchły w kilkunastu zakładach Śląska, m.in. w kopalniach Manifest Lipcowy i Piast.
 
 ## 16 grudnia 1981
-Do pacyfikacji skierowano oddziały Milicji Obywatelskiej, wojsko i czołgi, które przełamały mur kopalni. Gdy natarcie utknęło, ogień do górników otworzył pluton specjalny ZOMO.
+Do pacyfikacji skierowano oddziały ZOMO, milicji i wojska. Czołgi przełamały mur kopalni, a gdy natarcie utknęło w starciu z górnikami uzbrojonymi w narzędzia, ogień otworzył pluton specjalny ZOMO. Strzelano z broni maszynowej z odległości kilkunastu metrów.
 
 ## Ofiary
-Zginęło dziewięciu górników, dwudziestu trzech zostało rannych. Instytut Pamięci Narodowej określił te wydarzenia jako najkrwawszą pacyfikację stanu wojennego.
+Zginęło dziewięciu górników, dwudziestu trzech zostało rannych, a po stronie pacyfikujących rannych było czterdziestu jeden milicjantów i żołnierzy. Była to najkrwawsza pacyfikacja stanu wojennego i największa liczba ofiar jednego dnia w całej historii PRL po 1970 roku.
+
+## Propaganda
+Władze przedstawiły zajścia jako obronę konieczną wobec napastników rzekomo dysponujących bronią. Telewizja pokazywała rzekome dowody, a nazwiska zabitych przez lata nie mogły pojawić się w prasie.
 
 ## Pamięć i rozliczenie
-Władze przedstawiły zajścia jako obronę konieczną wobec uzbrojonych napastników. Krzyż stawiany pod kopalnią był wielokrotnie usuwany, a rocznice rozpędzano. Procesy sprawców toczyły się dopiero po 1989 roku i ciągnęły przez blisko dwie dekady.`,
+Krzyż stawiany pod kopalnią był wielokrotnie usuwany przez milicję i odtwarzany przez mieszkańców; rocznice rozpędzano siłą. Pomnik odsłonięto dopiero w 1991 roku. Procesy sprawców ruszyły po 1989 roku i ciągnęły się blisko dwadzieścia lat – prawomocne wyroki dla członków plutonu zapadły w 2009 roku, żaden z dowódców politycznych nie został skazany.`,
     resources: [
       {
         id: 'wuj-1',
@@ -13330,19 +13333,19 @@ Festiwal w Sopocie, obok Opola, współtworzył pejzaż polskiej estrady i był 
     imageCaption: 'Maryla Rodowicz',
     trivia: ['Słynęła z barwnych, niekonwencjonalnych strojów scenicznych.'],
     content: `## Początki
-Maryla Rodowicz zadebiutowała pod koniec lat 60., zdobywając nagrody na festiwalach w Opolu. Jej żywiołowy temperament i ludowo-folkowe brzmienie wyróżniały ją na tle estrady.
+Maryla Rodowicz (ur. 1945) zadebiutowała pod koniec lat 60., a przełomem był festiwal w Opolu w 1970 roku i „Jadą wozy kolorowe”. Wniosła na estradę temperament, ruch sceniczny i brzmienie czerpiące z folku – w czasach, gdy wykonawczynie stały przy mikrofonie w sukni wieczorowej.
 
 ## Przeboje
-Do największych przebojów należą „Małgośka”, „Sing-Sing”, „Niech żyje bal”, „Remedium” oraz „Damą być”. Piosenki te stały się klasyką polskiej muzyki rozrywkowej.
+„Małgośka”, „Sing-Sing”, „Niech żyje bal”, „Remedium”, „Damą być”, „Wsiąść do pociągu byle jakiego” – to piosenki, które zna każde pokolenie. Wiele z nich napisała Agnieszka Osiecka, a muzykę komponowali Katarzyna Gärtner i Seweryn Krajewski.
 
 ## Wizerunek
-Rodowicz słynęła z barwnych, niekonwencjonalnych strojów i scenicznej energii. Stała się jedną z najbardziej rozpoznawalnych gwiazd PRL i symbolem estrady lat 70.
+Występowała w strojach ludowych, cygańskich, przerabianych i wymyślanych samodzielnie, z rozwianymi włosami i bez estradowej sztywności. Ten wizerunek – dziś oczywisty – w latach 70. był zerwaniem z konwencją i budził tyleż zachwytu, co oburzenia.
 
-## Współpraca
-Śpiewała utwory komponowane przez czołowych twórców, m.in. Seweryna Krajewskiego i Katarzyny Gärtner. Reprezentowała Polskę na międzynarodowych festiwalach.
+## Zasięg
+Koncertowała w całym bloku wschodnim, gdzie była gwiazdą porównywalnej rangi co w kraju, a także na Zachodzie i na Kubie. Nagrywała w kilku językach i sprzedała kilkanaście milionów płyt.
 
 ## Znaczenie
-Maryla Rodowicz to jedna z najtrwalszych postaci polskiej sceny muzycznej, której kariera przetrwała wszystkie przemiany od czasów PRL.`,
+Śpiewa nieprzerwanie od ponad pięćdziesięciu lat i pozostaje jedną z najtrwalszych postaci polskiej sceny. Jej kariera przetrwała wszystkie zmiany mód i ustroju bez przerwy dłuższej niż sezon.`,
     resources: [
       {
         id: 'mr-yt',
@@ -15168,19 +15171,19 @@ Harcerstwo w PRL to historia napięcia między wychowaniem do wartości a próba
     yearEnd: 1989,
     summary: 'Najsłynniejszy kabaret polityczny PRL, prowadzony przez Jana Pietrzaka, słynący z aluzyjnej satyry i pieśni „Żeby Polska była Polską”.',
     content: `## Powstanie
-Kabaret „Pod Egidą” założył w 1967 roku Jan Pietrzak. Stał się on najważniejszą sceną satyry politycznej w PRL, balansującą na granicy tego, co dopuszczała cenzura.
+Kabaret „Pod Egidą” założył w 1967 roku Jan Pietrzak. Przez kolejne dwie dekady był najważniejszą sceną satyry politycznej w PRL, działającą legalnie, a jednocześnie stale na granicy tego, co dopuszczała cenzura.
 
 ## Aluzyjna satyra
-Programy operowały aluzją, metaforą i grą słów, by przemycić krytykę systemu. Publiczność, wyćwiczona w czytaniu między wierszami, reagowała entuzjastycznie na każdy ukryty sens.
+Programy operowały aluzją, metaforą i grą słów. Tekst przechodził przez urząd kontroli, ale sens dopisywała publiczność i sposób podania ze sceny – dlatego zapis programu bywał niewinny, a wykonanie już nie. Widownia, wyćwiczona w czytaniu między wierszami, reagowała owacją na zdanie, które na papierze nic nie znaczyło.
 
 ## „Żeby Polska była Polską”
-Napisana przez Pietrzaka pieśń „Żeby Polska była Polską” (muzyka Włodzimierza Korcza) stała się nieformalnym hymnem opozycji i symbolem dążeń niepodległościowych.
+Napisana przez Pietrzaka pieśń z muzyką Włodzimierza Korcza (1976) stała się nieformalnym hymnem opozycji. W 1982 roku jej tytuł – „Let Poland Be Poland” – posłużył za nazwę transmitowanego na cały świat programu w obronie uwięzionych w Polsce, a wers cytował Ronald Reagan.
 
 ## Cenzura i naciski
-Kabaret był pod stałą obserwacją, a programy ścierały się z cenzurą. W stanie wojennym Pietrzak był internowany, a jego działalność ograniczana.
+Kabaret był pod stałą obserwacją SB, występy odwoływano, a sale odmawiały wynajmu. Po 13 grudnia 1981 roku Pietrzak został internowany, a działalność zespołu zawieszona na kilka lat.
 
 ## Znaczenie
-„Pod Egidą” to symbol odważnej satyry politycznej, która śmiechem podtrzymywała ducha sprzeciwu wobec systemu.`,
+„Pod Egidą” pokazał, że w PRL dało się mówić rzeczy zakazane – pod warunkiem, że mówiło się je żartem i przy pełnej sali. Obok kabaretu Tey i programów Olgi Lipińskiej współtworzył złoty okres polskiej satyry.`,
     trivia: ['Kabaret Jana Pietrzaka słynął z ostrej satyry politycznej.', '„Żeby Polska była Polską” stała się pieśnią opozycji.'],
     resources: [
       {
@@ -16057,19 +16060,19 @@ Mimo realiów PRL Grotowski stworzył dzieło o światowym znaczeniu, czyniąc P
     yearEnd: 1989,
     summary: 'Sport żużlowy był jedną z najpopularniejszych dyscyplin w PRL, gromadząc tłumy kibiców i przynosząc Polsce światowe sukcesy.',
     content: `## Fenomen popularności
-Żużel (sport motocyklowy na owalnym torze) stał się w PRL dyscypliną masową. Mecze ligowe gromadziły dziesiątki tysięcy widzów, a kluby budziły lokalny patriotyzm.
+Żużel był w PRL sportem masowym w skali, jakiej dziś trudno sobie wyobrazić: mecze ligowe oglądało po kilkanaście, a finały nawet sto tysięcy widzów. Wstęp był tani, tor blisko domu, a zawodnicy pracowali na co dzień w tych samych zakładach co kibice.
 
 ## Sukcesy
-Polscy żużlowcy odnosili światowe triumfy. Jerzy Szczakiel w 1973 roku został indywidualnym mistrzem świata – pierwszym Polakiem z tym tytułem, co wywołało euforię.
+Jerzy Szczakiel został w 1973 roku indywidualnym mistrzem świata, wygrywając finał na Stadionie Śląskim w dodatkowym biegu z Ivanem Maugerem – wobec stutysięcznej publiczności. Wcześniej polskie drużyny sięgały po medale mistrzostw świata, a Zenon Plech i Andrzej Wyglenda należeli do światowej czołówki.
 
 ## Kluby i rywalizacja
-Drużyny z Wrocławia, Bydgoszczy, Częstochowy, Zielonej Góry, Rzeszowa czy Leszna toczyły zacięte boje. Żużel był jednym z niewielu sportów, w których Polska liczyła się globalnie.
+Drużyny z Wrocławia, Bydgoszczy, Częstochowy, Zielonej Góry, Rzeszowa, Leszna i Gorzowa toczyły zacięte boje, a przynależność klubowa była elementem lokalnej tożsamości. Derby ściągały całe miasta.
 
 ## Społeczna rola
-Mecze żużlowe były ważnym wydarzeniem towarzyskim i odskocznią od codzienności. Sport ten miał silne zaplecze robotnicze i lokalne.
+Mecz żużlowy był wydarzeniem towarzyskim: wyjściem całych rodzin, okazją do spotkania i jedną z niewielu form masowej rozrywki dostępnej w mniejszych miastach. Zaplecze sportu było robotnicze, a warsztaty klubowe działały przy fabrykach.
 
 ## Znaczenie
-Żużel to jeden z najbardziej charakterystycznych sportów PRL, którego popularność i tradycja przetrwały do czasów współczesnych.`,
+Żużel przetrwał zmianę ustroju lepiej niż większość dyscyplin PRL i pozostaje sportem, w którym Polska należy do światowej czołówki, z ligą uznawaną za najsilniejszą na świecie.`,
     trivia: ['Żużel gromadził na stadionach dziesiątki tysięcy widzów.', 'Polska należała do światowych potęg tej dyscypliny.'],
     resources: [
       {
@@ -16556,19 +16559,19 @@ Spotkania rozbijano: wyłączano prąd, blokowano wejścia, a bojówki opisywane
     yearEnd: 1989,
     summary: 'Stowarzyszenia katolickiej inteligencji, powstałe po 1956 roku, będące jednym z nielicznych legalnych ośrodków niezależnej myśli i debaty w PRL.',
     content: `## Powstanie
-Kluby Inteligencji Katolickiej (KIK) powstały w okresie odwilży 1956 roku w największych miastach – Warszawie, Krakowie, Poznaniu, Wrocławiu i Toruniu.
+Kluby Inteligencji Katolickiej powstały w okresie odwilży, a pięć z nich – w Warszawie, Krakowie, Poznaniu, Toruniu i Wrocławiu – zarejestrowano w 1957 roku. Zgoda władz była elementem porozumienia z Kościołem po Październiku i nigdy nie została rozszerzona: przez całą epokę nie pozwolono założyć kolejnych.
 
 ## Niezależna przestrzeń
-W realiach jednopartyjnego państwa KIK-i były jednym z niewielu legalnych miejsc swobodnej dyskusji o kulturze, etyce i sprawach publicznych, łącząc wiarę z otwartością intelektualną.
+W państwie jednopartyjnym KIK-i były jednym z niewielu legalnych miejsc, gdzie można było publicznie dyskutować o etyce, kulturze i sprawach publicznych bez udziału partii. Nie były organizacją opozycyjną, ale samo istnienie forum poza kontrolą PZPR miało znaczenie polityczne.
 
 ## Działalność
-Organizowały wykłady, dyskusje, rekolekcje i spotkania z wybitnymi myślicielami. Były związane ze środowiskiem „Tygodnika Powszechnego” i „Więzi”.
+Organizowały wykłady, seminaria, rekolekcje, obozy i spotkania z myślicielami z kraju i zagranicy. Środowisko było ściśle powiązane z „Tygodnikiem Powszechnym” i miesięcznikiem „Więź”, a w Sejmie reprezentowało je nieliczne koło poselskie Znak.
 
 ## Rola w opozycji
-KIK-i stały się zapleczem opozycji demokratycznej. Z ich środowiska wywodziło się wielu działaczy i ekspertów Solidarności, m.in. Tadeusz Mazowiecki.
+Od połowy lat 70. KIK-i stały się zapleczem opozycji demokratycznej: użyczały sal, drukowały, wspierały KOR. Z tego środowiska wywodzili się doradcy Solidarności, w tym Tadeusz Mazowiecki i Andrzej Wielowieyski. Po 13 grudnia 1981 roku wielu członków internowano, a kluby zawieszono.
 
 ## Znaczenie
-Kluby Inteligencji Katolickiej współtworzyły niezależne społeczeństwo obywatelskie i były pomostem między Kościołem, inteligencją a opozycją.`,
+KIK-i były pomostem między Kościołem, inteligencją i opozycją, a przy tym praktyczną szkołą samoorganizacji. Działają do dziś, choć rola, jaką pełniły w PRL, siłą rzeczy zniknęła wraz z systemem.`,
     trivia: ['Kluby powstały w atmosferze odwilży po Październiku 1956.', 'Były jednym z nielicznych miejsc niezależnej debaty.'],
     resources: [
       {
@@ -16742,19 +16745,19 @@ Pracował także za granicą, kręcąc we Włoszech, Niemczech i Francji, i prze
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej_Munk_%281921-1961%29.jpg?width=800',
     imageCaption: 'Andrzej Munk',
     content: `## Sylwetka
-Andrzej Munk (1921–1961) był reżyserem i jednym z czołowych twórców polskiej szkoły filmowej, znanym z chłodnego, ironicznego spojrzenia na historię i mity narodowe.
+Andrzej Munk (1921–1961) pochodził z Krakowa, przeżył okupację ukrywając się po aryjskiej stronie, a po wojnie trafił do łódzkiej Szkoły Filmowej. Zaczynał od dokumentu i zachował dokumentalne oko także w fabule: chłodne, uważne, nieskłonne do wzruszeń.
 
 ## Demitologizacja
-W odróżnieniu od romantycznego nurtu Wajdy, Munk z dystansem i ironią pokazywał polskie bohaterstwo. „Eroica” (1957) i „Zezowate szczęście” (1960) demaskowały narodowe złudzenia.
+W odróżnieniu od romantycznego nurtu Wajdy Munk pokazywał polskie bohaterstwo z dystansem. „Eroica” (1958) zestawia cwaniaka z powstańczej Warszawy z oficerami w obozie jenieckim, którzy podtrzymują legendę o zbiegu, jakiego nie było. „Zezowate szczęście” (1960) z Bogumiłem Kobielą opowiada o człowieku, którego historia raz po raz stawia po niewłaściwej stronie.
 
 ## Styl
-Jego filmy łączyły inteligentny scenariusz, ironię i precyzyjną formę. Munk był też cenionym dokumentalistą i wykładowcą łódzkiej Szkoły Filmowej.
+Jego filmy łączyły precyzyjny scenariusz z ironią i skrótem. Wcześniejszy „Człowiek na torze” (1957) rozbijał socrealistyczny schemat, pokazując to samo wydarzenie z trzech różnych perspektyw. Munk wykładał też w łódzkiej szkole i wychował kolejne pokolenie reżyserów.
 
 ## Tragiczna śmierć
-Zginął w 1961 roku w wypadku samochodowym podczas realizacji „Pasażerki” – filmu o Auschwitz, ukończonego pośmiertnie przez współpracowników i uznanego za arcydzieło.
+Zginął 20 września 1961 roku w wypadku samochodowym pod Łowiczem, wracając ze zdjęć do „Pasażerki” – filmu o Auschwitz opowiedzianego z perspektywy nadzorczyni. Materiał ukończył Witold Lesiewicz, montując gotowe sceny z fotosami i komentarzem; tak powstała wersja z 1963 roku, uznana za arcydzieło.
 
 ## Znaczenie
-Andrzej Munk pozostaje jednym z najwybitniejszych polskich reżyserów, twórcą krytycznego, intelektualnego nurtu rodzimego kina.`,
+Zostawił zaledwie kilka filmów, a mimo to jest wymieniany obok Wajdy jako współtwórca polskiej szkoły filmowej – ten, który wybrał ironię tam, gdzie inni wybierali patos.`,
     trivia: ['Zginął w wypadku samochodowym podczas kręcenia „Pasażerki”.', 'Wniósł do polskiej szkoły filmowej ironię i dystans.'],
     resources: [
       {
@@ -20139,19 +20142,19 @@ Stachura pozostaje patronem nonkonformistów: czytany bywa raczej jako propozycj
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Powazki_Marek_kotanski_medalion.jpg?width=800',
     imageCaption: 'Marek Kotański',
     content: `## Sylwetka
-Marek Kotański (1942–2002) był psychologiem i charyzmatycznym działaczem społecznym, który podjął walkę z narkomanią – problemem przemilczanym przez władze PRL.
+Marek Kotański (1942–2002) był psychologiem, który zajął się problemem oficjalnie w PRL nieistniejącym. Narkomania nie mieściła się w obrazie socjalistycznego społeczeństwa, więc nie było ani statystyk, ani leczenia, ani nawet słownictwa, żeby o niej mówić.
 
 ## Monar
-W 1978 roku w Głoskowie założył pierwszy ośrodek dla osób uzależnionych, dając początek Monarowi (1981). Stworzył nowatorską metodę terapii opartą na wspólnocie i pracy.
+W 1978 roku w Głoskowie pod Warszawą otworzył pierwszy ośrodek dla osób uzależnionych, prowadzony metodą społeczności terapeutycznej: bez leków, za to z pracą, regułami ustalanymi przez samych mieszkańców i odpowiedzialnością za wspólnotę. W 1981 roku powstało z tego stowarzyszenie Monar.
 
 ## Przełamanie tabu
-W realiach, w których oficjalnie „problemu narkomanii nie było”, Kotański głośno mówił o uzależnieniach, bezdomności i AIDS, łamiąc społeczne i polityczne tabu.
+Mówił publicznie o uzależnieniach, bezdomności i – od końca lat 80. – o AIDS, gdy chorych bano się nawet dotknąć. Tworzone przez niego domy dla nosicieli HIV bywały blokowane przez protesty mieszkańców, a on sam prowadził wtedy kampanie, głodówki i happeningi.
 
 ## Ruch pomocy
-Monar rozrósł się w sieć ośrodków, a Kotański zainicjował kolejne akcje pomocy wykluczonym (m.in. Markot dla bezdomnych), stając się symbolem zaangażowania społecznego.
+Monar rozrósł się w sieć kilkudziesięciu ośrodków w całym kraju. Kotański zakładał kolejne inicjatywy: Markot dla bezdomnych, domy dla samotnych matek, ośrodki dla dzieci. Był postacią medialną i kontrowersyjną, uważaną zarówno za wizjonera, jak i za autokratę.
 
 ## Znaczenie
-Kotański to pionier nowoczesnej pomocy uzależnionym i wykluczonym w Polsce; jego dzieło przetrwało epokę PRL i działa do dziś.`,
+Zginął w wypadku samochodowym w 2002 roku. Zbudowany przez niego system pomocy przetrwał epokę, w której powstał, i pozostaje największą tego typu strukturą w Polsce.`,
     trivia: ['Założył Monar, gdy oficjalnie twierdzono, że w Polsce nie ma narkomanii.', 'Stworzył pierwszy ośrodek pomocy dla uzależnionych w kraju.'],
     resources: [
       {
@@ -22289,16 +22292,19 @@ Dialogi weszły do polszczyzny na trwałe i do dziś funkcjonują jako komentarz
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Seksmisja_Logo.png?width=800',
     imageCaption: 'Seksmisja',
     content: `## Film
-„Seksmisja” Juliusza Machulskiego z 1983 roku to komedia fantastycznonaukowa. Dwaj mężczyźni, zahibernowani w eksperymencie, budzą się po latach w podziemnym świecie rządzonym wyłącznie przez kobiety, w którym mężczyzn uznano za wymarłych.
+„Seksmisja” Juliusza Machulskiego, nakręcona w 1983 i pokazana rok później, to komedia fantastycznonaukowa. Dwaj mężczyźni zahibernowani w eksperymencie budzą się po pięćdziesięciu latach w podziemnym świecie rządzonym wyłącznie przez kobiety, w którym mężczyzn uznano za gatunek wymarły.
 
 ## Obsada
-Główne role zagrali Jerzy Stuhr i Olgierd Łukaszewicz. Ich bezradność wobec nowego porządku – i kolejne próby przystosowania się do niego – napędzają całą komedię.
+Główne role zagrali Jerzy Stuhr i Olgierd Łukaszewicz, a przewodniczącą Ligi Kobiet Bożena Stryjkówna. Bezradność bohaterów wobec nowego porządku i ich kolejne próby przystosowania się napędzają całą komedię.
 
 ## Podwójne dno
-Film opisuje społeczeństwo totalitarne: oparte na kłamstwie założycielskim, izolacji od świata zewnętrznego i indoktrynacji. Cenzura przepuściła go jako fantastykę, ale widzowie odczytywali kolejne kwestie jako komentarz do własnej rzeczywistości.
+Pod fantastyką kryje się opis państwa totalitarnego: opartego na kłamstwie założycielskim, odciętego od świata zewnętrznego, w którym historię pisze się na nowo, a dostęp do prawdy ma wąska grupa u władzy. Cenzura przepuściła film jako fantastykę – choć część kwestii wycięto, a widzowie i tak czytali resztę jako komentarz do własnej rzeczywistości.
 
-## Frekwencja
-„Seksmisja” stała się jednym z największych sukcesów frekwencyjnych w historii polskiego kina, a jej dialogi weszły do obiegu na równi z tymi z filmów Barei.`,
+## Frekwencja i język
+Film obejrzało w kinach ponad jedenaście milionów widzów. „Ciemność, widzę ciemność”, „Kopernik była kobietą” i kilkanaście innych zdań weszło do polszczyzny na równi z cytatami z Barei i funkcjonuje w niej do dziś.
+
+## Znaczenie
+Pozostaje jedną z najczęściej powtarzanych i najlepiej pamiętanych polskich komedii, a jednocześnie przykładem, jak w PRL opowiadano o systemie, przebierając go za coś zupełnie innego.`,
     trivia: [
       'Cenzura przepuściła film jako fantastykę, a widzowie czytali go jako opis własnego systemu.',
       'Był jednym z największych sukcesów frekwencyjnych w historii polskiego kina.',
