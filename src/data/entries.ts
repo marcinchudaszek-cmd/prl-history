@@ -17538,19 +17538,19 @@ Obok „Teleranka” telewizja PRL oferowała „Dobranocki” z bohaterami jak 
     yearEnd: 1989,
     summary: 'Polskie badania polarne, zwieńczone otwarciem w 1977 roku stałej Stacji Antarktycznej im. Henryka Arctowskiego, dowód naukowych ambicji PRL.',
     content: `## Tradycja
-Polacy mieli udział w badaniach polarnych już przed wojną. Po wojnie polarnictwo rozwijano w ramach badań naukowych Polskiej Akademii Nauk, na Spitsbergenie i w Antarktyce.
+Polacy uczestniczyli w badaniach polarnych już przed wojną, a po wojnie polarnictwo rozwijano w ramach Polskiej Akademii Nauk. Przełomem był Międzynarodowy Rok Geofizyczny 1957/58, gdy polskie ekipy stanęły na Spitsbergenie, a w 1959 roku Polska przejęła od Związku Radzieckiego antarktyczną stację, nazwaną imieniem Antoniego Dobrowolskiego.
 
 ## Stacja Arctowski
-W 1977 roku na Wyspie Króla Jerzego otwarto stałą Polską Stację Antarktyczną im. Henryka Arctowskiego – placówkę badawczą działającą do dziś, prowadzącą badania klimatu, biologii i geologii.
+W lutym 1977 roku na Wyspie Króla Jerzego otwarto stałą Polską Stację Antarktyczną imienia Henryka Arctowskiego. Rok później Polska uzyskała status członka konsultatywnego Układu Antarktycznego – czyli państwa współdecydującego o losach kontynentu, co wymagało prowadzenia tam realnych badań.
 
 ## Badania
-Polscy naukowcy prowadzili badania glacjologiczne, meteorologiczne i przyrodnicze, zdobywając międzynarodowe uznanie mimo skromnych środków i trudnych warunków.
+Prowadzono badania glacjologiczne, meteorologiczne, geologiczne i przyrodnicze, a wyniki publikowano w obiegu międzynarodowym. Na Spitsbergenie działała Polska Stacja Polarna w Hornsundzie, czynna całorocznie od 1978 roku i pracująca do dziś.
 
-## Ludzie
-W wyprawach uczestniczyli wybitni badacze i podróżnicy. Polarnictwo, podobnie jak himalaizm, dawało poczucie uczestnictwa w światowej nauce i przygodzie.
+## Warunki
+Wyprawy organizowano skromnymi środkami, z improwizowanym sprzętem i transportem załatwianym latami. Uczestnicy spędzali w izolacji po kilkanaście miesięcy, a wymiana ekip zależała od jednego rejsu w sezonie.
 
 ## Znaczenie
-Polskie wyprawy polarne i Stacja Arctowski to dowód, że mimo ograniczeń systemu polska nauka potrafiła zaistnieć na najdalszych krańcach świata.`,
+Polarnictwo, podobnie jak himalaizm, dawało poczucie uczestnictwa w światowej nauce mimo zamkniętych granic. Obie stacje działają nieprzerwanie i należą do najstarszych stałych placówek badawczych swoich rejonów.`,
     trivia: ['Polska stacja imienia Arctowskiego działa na Antarktydzie od lat 70.', 'Polacy prowadzili badania także na Spitsbergenie.'],
     resources: [
       {
@@ -18355,19 +18355,19 @@ Dał polskiej publiczności kino widowiskowe, którego wcześniej nie było, i z
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2023.11.13._Roman_Polanski_Photo_Mariusz_Kubik_01.JPG?width=800',
     imageCaption: 'Roman Polański',
     content: `## Sylwetka
-Roman Polański (ur. 1933), absolwent łódzkiej Szkoły Filmowej, jest jednym z najsłynniejszych reżyserów wywodzących się z Polski, o karierze rozpiętej między Europą a Hollywood.
+Roman Polański (ur. 1933 w Paryżu) trafił jako dziecko do krakowskiego getta; jego matka zginęła w Auschwitz, on sam przetrwał okupację ukrywany na wsi. Po wojnie skończył łódzką Szkołę Filmową i szybko został najbardziej obiecującym reżyserem swojego pokolenia.
+
+## Etiudy
+Krótkie filmy „Dwaj ludzie z szafą” (1958), „Gdy spadają anioły” i „Ssaki” zdobywały nagrody na festiwalach studenckich w całej Europie i pokazywały już jego znak firmowy: absurd traktowany całkiem serio.
 
 ## „Nóż w wodzie”
-Jego pełnometrażowy debiut „Nóż w wodzie” (1962) – kameralny, psychologiczny dramat – zdobył nominację do Oscara i otworzył mu drogę na Zachód, stając się wydarzeniem polskiego kina.
-
-## Etiudy i szkoła łódzka
-Wczesne, nagradzane etiudy („Dwaj ludzie z szafą”, „Ssaki”) powstały w kręgu łódzkiej Szkoły Filmowej, ukazując jego absurdalne i wizyjne poczucie obrazu.
+Pełnometrażowy debiut z 1962 roku – trzy osoby na jachcie, napięcie bez jednego wystrzału – został zaatakowany w kraju za brak zaangażowania społecznego, a za granicą trafił na okładkę „Time'a” i dostał nominację do Oscara. To był pierwszy polski film nominowany w tej kategorii.
 
 ## Emigracja
-W latach 60. Polański wyjechał z Polski i kontynuował karierę za granicą, współpracując m.in. z Krzysztofem Komedą, autorem muzyki do jego filmów.
+Wyjechał w 1963 roku i pracował we Francji, Wielkiej Brytanii i Stanach Zjednoczonych, tworząc „Wstręt”, „Dziecko Rosemary” i „Chinatown”. Muzykę do jego wczesnych filmów pisał Krzysztof Komeda. W 1969 roku bojówka Charlesa Mansona zamordowała jego żonę Sharon Tate. W 1978 roku, po przyznaniu się do współżycia z nieletnią, uciekł ze Stanów Zjednoczonych przed wyrokiem i od tego czasu nie wrócił do tego kraju.
 
 ## Znaczenie
-Dla kina PRL Polański to symbol talentu, który zaistniał na świecie; jego polski debiut pozostaje kamieniem milowym rodzimej kinematografii.`,
+Dla kina PRL pozostaje symbolem talentu, który zaistniał na świecie, a „Nóż w wodzie” – kamieniem milowym rodzimej kinematografii i dowodem, że polski film mógł być nowoczesny bez mówienia o polityce.`,
     trivia: ['Debiutował „Nożem w wodzie” – pierwszym polskim filmem nominowanym do Oscara.', 'Karierę kontynuował na Zachodzie.'],
     resources: [
       {
@@ -18603,19 +18603,19 @@ Jej małżeństwo ze Stanisławem Dygatem i niezależny styl życia były przedm
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pope_John_Paul_II_After_Assassination_Attempt.jpg?width=800',
     imageCaption: 'Zamach na Jana Pawła II',
     content: `## Zamach
-13 maja 1981 roku na placu św. Piotra w Watykanie turecki zamachowiec Mehmet Ali Agca oddał strzały do Jana Pawła II. Papież został ciężko ranny, lecz po długiej rekonwalescencji wrócił do zdrowia.
+13 maja 1981 roku na placu św. Piotra, podczas audiencji generalnej, turecki zamachowiec Mehmet Ali Ağca oddał strzały do Jana Pawła II z odległości kilku metrów. Papież został ciężko ranny w brzuch i przeszedł wielogodzinną operację; rekonwalescencja trwała miesiącami i pozostawiła trwałe następstwa.
 
 ## Wstrząs
-Wiadomość o zamachu na polskiego papieża wstrząsnęła światem, a w Polsce wywołała falę modlitw i ogromne poruszenie. Wielu wiązało ocalenie z opieką Matki Bożej Fatimskiej.
+Wiadomość dotarła do Polski w środku karnawału Solidarności, dwa tygodnie przed śmiercią prymasa Wyszyńskiego. Wywołała falę modlitw i zgromadzeń w całym kraju. Papież sam wskazywał na zbieżność daty z rocznicą objawień fatimskich; jeden z pocisków umieszczono później w koronie figury Matki Bożej Fatimskiej.
 
 ## Tło
-Do dziś trwają spory o tło zamachu. Pojawiały się hipotezy o udziale służb bloku wschodniego, niepokojonych rolą papieża w budzeniu oporu w Polsce, choć nie zostały jednoznacznie udowodnione.
+Ağca był związany z tureckimi Szarymi Wilkami i miał za sobą wcześniejsze morderstwo. Włoskie śledztwo prowadziło w stronę tzw. tropu bułgarskiego, ale w procesie w 1986 roku oskarżonych uniewinniono z braku dowodów. Hipotezy o udziale służb bloku wschodniego, zaniepokojonych rolą papieża w Polsce, powracają do dziś, lecz nie zostały dowiedzione.
 
 ## Przebaczenie
-Jan Paweł II odwiedził zamachowca w więzieniu i publicznie mu przebaczył – gest, który stał się symbolem chrześcijańskiego miłosierdzia.
+27 grudnia 1983 roku Jan Paweł II odwiedził zamachowca w rzymskim więzieniu Rebibbia i rozmawiał z nim w cztery oczy. Zdjęcie z tej wizyty stało się jednym z najbardziej rozpoznawalnych obrazów jego pontyfikatu.
 
 ## Znaczenie
-Zamach wzmocnił autorytet papieża i jego symboliczną rolę dla Polaków w okresie karnawału Solidarności tuż przed stanem wojennym.`,
+Zamach wzmocnił symboliczną pozycję papieża wśród Polaków na kilka miesięcy przed stanem wojennym, a jego przeżycie odczytywano powszechnie jako znak – niezależnie od tego, co ustaliły potem śledztwa.`,
     trivia: ['Do zamachu doszło 13 maja 1981 roku na placu św. Piotra.', 'Wiadomość wstrząsnęła Polską w wyjątkowo napiętym roku.'],
     resources: [
       {
@@ -19109,19 +19109,19 @@ Jego imię nosi stadion w Grudziądzu i szkoły w kilku miastach. W historii pol
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jerzy_Turowicz_1994.jpg?width=800',
     imageCaption: 'Jerzy Turowicz',
     content: `## Sylwetka
-Jerzy Turowicz (1912–1999) był dziennikarzem i publicystą, współzałożycielem i wieloletnim redaktorem naczelnym „Tygodnika Powszechnego”, najważniejszego niezależnego pisma katolickiego.
+Jerzy Turowicz (1912–1999) był dziennikarzem i publicystą, współzałożycielem „Tygodnika Powszechnego” i jego redaktorem naczelnym przez ponad pół wieku – od pierwszego numeru w marcu 1945 roku aż do śmierci.
 
 ## „Tygodnik Powszechny”
-Pod jego kierownictwem od 1945 roku tygodnik stał się przestrzenią wolnej myśli, łączącą katolicyzm z otwartością intelektualną i niezależnością wobec władzy.
+Pismo było ewenementem: katolickie, wydawane legalnie, a przy tym niezależne od partii i uparcie broniące własnego zdania. Skupiło środowisko, do którego należeli Stefan Kisielewski, Antoni Gołubiew, Stanisław Stomma i Karol Wojtyła, publikujący tam wiersze i eseje na długo przed wyborem na papieża.
 
-## Opór wobec cenzury
-W 1953 roku pismo zawieszono za odmowę druku nekrologu Stalina; wznowiono je po odwilży. Turowicz konsekwentnie bronił niezależności redakcji wobec nacisków.
+## Odmowa
+W 1953 roku redakcja odmówiła wydrukowania nekrologu Stalina. Pismo zamknięto, a tytuł przekazano stowarzyszeniu PAX Bolesława Piaseckiego, które wydawało je przez trzy lata pod tą samą nazwą. Dawna redakcja wróciła dopiero po Październiku 1956 roku.
 
 ## Środowisko
-Wokół „Tygodnika” skupiło się wybitne środowisko twórców i myślicieli; pismo współpracowało z Karolem Wojtyłą i wspierało dialog oraz opozycję demokratyczną.
+„Tygodnik” relacjonował Sobór Watykański II, na który Turowicz jeździł jako korespondent, otwierał łamy dla dyskusji o dialogu z Żydami i z niewierzącymi, a w latach 70. i 80. publikował autorów objętych zakazem druku w innych miejscach. Nakład był reglamentowany odgórnie i zawsze niższy od popytu.
 
 ## Znaczenie
-Turowicz to symbol niezależnego dziennikarstwa i katolicyzmu otwartego; jego praca przez dekady podtrzymywała przestrzeń wolnego słowa w PRL.`,
+Turowicz uczestniczył w obradach Okrągłego Stołu jako członek strony solidarnościowej. Pozostaje symbolem niezależnego dziennikarstwa i katolicyzmu otwartego – oraz redaktorem, który przez czterdzieści lat utrzymał pismo, nie oddając ani jego linii, ani ludzi.`,
     trivia: ['Kierował „Tygodnikiem Powszechnym” przez ponad pół wieku.', 'Odmówił druku nekrologu Stalina – pismo zostało za to zamknięte.'],
     resources: [
       {
@@ -19918,19 +19918,19 @@ TPPR rozwiązano na początku lat 90. Pozostaje przykładem instytucji, która p
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Odznaka_ZBoWiD.jpg?width=800',
     imageCaption: 'ZBoWiD',
     content: `## Geneza
-Związek Bojowników o Wolność i Demokrację (ZBoWiD) powstał w 1949 roku z połączenia (i likwidacji niezależności) wcześniejszych organizacji kombatanckich.
+Związek Bojowników o Wolność i Demokrację powstał w 1949 roku z połączenia – i faktycznej likwidacji – kilkunastu wcześniejszych, samodzielnych organizacji kombatanckich. Odtąd istniała jedna organizacja weteranów, kontrolowana przez partię.
 
 ## Polityka pamięci
-ZBoWiD kształtował oficjalną pamięć o wojnie zgodnie z linią partii – eksponował walkę u boku ZSRR i Ludowego WP, marginalizując lub fałszując rolę AK i Polski Podziemnej.
+ZBoWiD kształtował oficjalny obraz wojny: eksponował walkę u boku Armii Czerwonej i szlak bojowy Ludowego Wojska Polskiego, a rolę Armii Krajowej i Polskiego Państwa Podziemnego pomijał albo przedstawiał wrogo. Żołnierzy AK zaczęto przyjmować dopiero po 1956 roku, i to warunkowo.
 
 ## Przywileje i kontrola
-Członkostwo dawało przywileje (świadczenia, miejsca w kolejce po mieszkanie), ale wiązało się z lojalnością. Organizacja była narzędziem kontroli środowisk weteranów.
+Członkostwo dawało realne korzyści: dodatki, świadczenia zdrowotne, miejsca w kolejce mieszkaniowej, przydziały. Ceną była lojalność – organizacja stanowiła narzędzie nadzoru nad środowiskiem, które z definicji miało własną pamięć i własne autorytety.
 
 ## Moczar
-W latach 60. ZBoWiD, kierowany przez Mieczysława Moczara, stał się zapleczem nacjonalistyczno-partyjnej frakcji „partyzantów”, odgrywając rolę w rozgrywkach politycznych, m.in. w 1968 roku.
+Pod kierownictwem Mieczysława Moczara w latach 1964–1972 ZBoWiD stał się zapleczem frakcji „partyzantów” – nacjonalistycznego skrzydła partii, które używało kombatanckiej retoryki w walce o władzę. Organizacja odegrała aktywną rolę w kampanii antysemickiej Marca 1968.
 
 ## Znaczenie
-ZBoWiD to przykład instrumentalizacji kombatantów i pamięci o wojnie przez władze PRL dla celów politycznych i propagandowych.`,
+To jeden z najczystszych przykładów instrumentalizacji pamięci o wojnie: struktura zbudowana na autentycznych biografiach i autentycznej krzywdzie, wykorzystywana do bieżących rozgrywek politycznych.`,
     trivia: ['Skupiał kombatantów, ale pod ścisłą kontrolą polityczną.', 'Przynależność wiązała się z przywilejami socjalnymi.'],
     resources: [
       {
@@ -20428,19 +20428,19 @@ Zagłuszanie przerywano i wznawiano zależnie od koniunktury politycznej, a defi
     yearEnd: 1989,
     summary: 'Wprowadzenie nadawania w kolorze (system SECAM) w 1971 roku; kolorowy telewizor stał się jednak na długo luksusem i przedmiotem marzeń.',
     content: `## Start nadawania
-Polska Telewizja rozpoczęła regularne nadawanie w kolorze w 1971 roku, w systemie SECAM (zgodnym z blokiem wschodnim), co było technologicznym wydarzeniem epoki.
+Regularne nadawanie w kolorze ruszyło w 1971 roku w systemie SECAM – tym samym, którego używały Związek Radziecki i Francja. Wybór był polityczny co najmniej tak samo jak techniczny: przesądzała zgodność z resztą bloku.
 
-## Luksusowy odbiornik
-Kolorowe telewizory – krajowe (np. „Rubin”, „Jowisz”) i importowane – były drogie i deficytowe. Przez lata pozostawały oznaką statusu i przedmiotem wieloletnich oszczędności.
+## Produkcja i luksus
+W 1976 roku uruchomiono w Piasecznie zakłady Polkolor, wytwarzające kineskopy na licencji RCA – jedną ze sztandarowych inwestycji dekady Gierka. Mimo to kolorowe odbiorniki, krajowe i importowane, były drogie i deficytowe; kosztowały równowartość kilkunastu pensji i kupowało się je na talon albo po latach oszczędzania.
 
 ## Życie wokół telewizora
-Telewizja organizowała życie rodzin: wspólne oglądanie Dziennika, seriali, transmisji sportowych i „Wieczorynki”. Kolorowy odbiornik był marzeniem wielu gospodarstw.
+Odbiornik organizował rytm domu: wspólne oglądanie dziennika, seriali, transmisji sportowych i dobranocki. Sąsiedzi schodzili się na mecz do tego, kto miał kolor, a zakup telewizora był wydarzeniem rodzinnym.
 
 ## Treści
-Mimo nowoczesnej formy treść pozostawała pod kontrolą – obok rozrywki i kultury dominowała propaganda, zwłaszcza w programach informacyjnych.
+Nowoczesna forma nie zmieniała zawartości. Program pozostawał pod pełną kontrolą, a „Dziennik Telewizyjny” był głównym narzędziem propagandy – co w latach 80. doprowadziło do bojkotu: ludzie wystawiali telewizory w oknach na czas jego emisji.
 
 ## Znaczenie
-Kolorowa telewizja symbolizuje napięcie między technologicznymi ambicjami PRL a realiami niedoboru, w których nowoczesność była luksusem dla nielicznych.`,
+Kolorowa telewizja jest dobrym skrótem całej dekady Gierka: nowoczesna technologia sprowadzona na kredyt i licencję, dostępna dla nielicznych, obsługująca system, który tą nowoczesnością chciał się legitymizować.`,
     trivia: ['Nadawanie w kolorze ruszyło na początku lat 70.', 'Kolorowy telewizor jeszcze długo pozostawał luksusem.'],
     resources: [
       {
@@ -22361,16 +22361,19 @@ Pozostaje jedną z najczęściej powtarzanych i najlepiej pamiętanych polskich 
     yearEnd: 1973,
     summary: 'Historyczny remis 1:1 z Anglią na Wembley (17 października 1973), który dał Polsce awans na mistrzostwa świata 1974.',
     content: `## Stawka
-17 października 1973 roku Polska grała na Wembley z Anglią o awans na mistrzostwa świata. Wystarczał remis; gospodarze musieli wygrać. Anglia była mistrzem świata sprzed siedmiu lat i faworytem nie do podważenia.
+17 października 1973 roku Polska grała na Wembley z Anglią o awans na mistrzostwa świata. Wystarczał remis; gospodarze musieli wygrać. Anglia była mistrzem świata sprzed siedmiu lat, grała u siebie i była faworytem nie do podważenia.
 
 ## Mecz
-Anglicy atakowali przez cały mecz i oddali kilkadziesiąt strzałów. Jan Tomaszewski bronił sytuacje, w których bramka wydawała się pewna. Polska wykorzystała jedyną okazję – bramkę zdobył Jan Domarski – i utrzymała remis 1:1.
+Anglicy atakowali przez cały mecz i oddali kilkadziesiąt strzałów. Jan Tomaszewski bronił kolanami, łokciami i twarzą sytuacje, w których bramka wydawała się pewna. Polska wykorzystała jedną z niewielu okazji – po błędzie obrony gola zdobył Jan Domarski – a wynik 1:1 ustalił z rzutu karnego Allan Clarke.
 
 ## Klaun
-Przed meczem trener Brian Clough nazwał Tomaszewskiego klaunem. Określenie przeszło do historii w odwróconej wersji: jako przykład pychy, która skończyła się kompromitacją.
+Przed meczem komentujący dla telewizji Brian Clough nazwał Tomaszewskiego klaunem. Określenie przeszło do historii w odwróconej wersji – jako przykład pychy, która skończyła się kompromitacją – i towarzyszyło Cloughowi do końca kariery.
 
 ## Co to znaczyło
-Rok później Polska zajęła trzecie miejsce na mistrzostwach świata. W kraju odciętym od świata zwycięstwo nad Anglią na jej własnym stadionie miało wymiar wykraczający poza sport – i władze wykorzystywały je propagandowo przez lata.`,
+Rok później Polska zajęła trzecie miejsce na mistrzostwach świata w RFN, a Anglia nie pojechała na turniej i przez kolejne lata odbudowywała reprezentację. Dla polskich kibiców zwycięstwo nad Anglikami na ich własnym stadionie miało wymiar wykraczający daleko poza sport.
+
+## Pamięć
+Mecz jest w Polsce przywoływany jako jedno z najważniejszych wydarzeń sportowych epoki, a relacja Jana Ciszewskiego z tego spotkania należy do najczęściej odtwarzanych nagrań w historii polskiego dziennikarstwa sportowego.`,
     trivia: [
       'Anglii wystarczało zwycięstwo, Polsce remis – i to Polska awansowała.',
       'Bramkę dla Polski zdobył Jan Domarski, wykorzystując jedyną wyraźną okazję w meczu.',
@@ -23024,16 +23027,19 @@ Krawczyk był wykonawcą traktowanym przez krytykę z dystansem, a przez publicz
     yearEnd: 1989,
     summary: 'Festiwal piosenki wojskowej i patriotycznej w Kołobrzegu – jeden z głównych festiwali PRL, silnie zideologizowany i firmowany przez wojsko.',
     content: `## Festiwal
-Festiwal Piosenki Żołnierskiej w Kołobrzegu organizował Główny Zarząd Polityczny Wojska Polskiego. Kompozytorów zapraszano do udziału według rozdzielnika – twórczość powstawała więc na zamówienie instytucji, a nie z potrzeby autora.
+Festiwal Piosenki Żołnierskiej w Kołobrzegu organizował Główny Zarząd Polityczny Wojska Polskiego, a odbywał się corocznie od końca lat 60. do początku 90. Kompozytorów i autorów zapraszano według rozdzielnika – repertuar powstawał więc na zamówienie instytucji, a nie z potrzeby twórcy.
 
 ## Repertuar
-Śpiewano pieśni o wojsku, o granicy na Odrze i Nysie, o braterstwie broni z Armią Radziecką. Obok utworów czysto propagandowych powstawały też piosenki liryczne, które przetrwały jako zwykłe przeboje estradowe.
+Śpiewano pieśni o wojsku, o granicy na Odrze i Nysie, o braterstwie broni z Armią Radziecką. Obok utworów czysto propagandowych powstawały jednak piosenki liryczne i marszowe, które przyjęły się jako zwykłe przeboje estradowe i przetrwały dłużej niż ich pierwotny kontekst.
 
 ## Rola
-Festiwal był jedną z trzech wielkich imprez piosenkarskich w kraju, obok Opola i Sopotu, i podobnie jak one gwarantował transmisję telewizyjną. Udział był dla wykonawcy opłacalny zawodowo, niezależnie od poglądów.
+Była to jedna z trzech wielkich imprez piosenkarskich w kraju, obok Opola i Sopotu, z transmisją telewizyjną i pełną obsadą gwiazd. Udział był dla wykonawcy opłacalny zawodowo – oznaczał antenę, nagranie i honorarium – niezależnie od jego poglądów.
+
+## Miasto
+Kołobrzeg zyskał na festiwalu rozpoznawalność i inwestycje; amfiteatr zbudowany na potrzeby imprezy służy miastu do dziś, choć od dawna wypełnia go zupełnie inny repertuar.
 
 ## Koniec
-Impreza zniknęła wraz z systemem, który ją powołał. Pozostała jako przykład zjawiska charakterystycznego dla PRL: kultury masowej organizowanej odgórnie, z rozdzielnikiem zamiast rynku.`,
+Impreza zniknęła wraz z systemem, który ją powołał. Pozostała jako przykład zjawiska charakterystycznego dla PRL: kultury masowej organizowanej odgórnie, z rozdzielnikiem zamiast rynku – i produkującej przy okazji rzeczy, które ludzie naprawdę śpiewali.`,
     trivia: [
       'Kompozytorów zapraszano do udziału według rozdzielnika przygotowanego przez Główny Zarząd Polityczny WP.',
       'Festiwal był – obok Opola i Sopotu – jedną z trzech wielkich imprez piosenkarskich w kraju.',
@@ -23244,16 +23250,16 @@ Zgodę na transfer zagraniczny dostał dopiero po trzydziestce, zgodnie z ówcze
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wojciech_G%C4%85ssowski_2013.jpg?width=800',
     imageCaption: 'Wojciech Gąssowski',
     content: `## Piosenkarz
-Wojciech Gąssowski (ur. 1943) należy do pokolenia, które zaczynało w big-beacie na początku lat 60. Jest piosenkarzem, gitarzystą i kompozytorem, a jego kariera trwa nieprzerwanie od tamtego czasu.
+Wojciech Gąssowski (ur. 1943) należy do pokolenia, które zaczynało w big-beacie na początku lat 60. Śpiewał w kilku zespołach tamtej sceny, zanim rozwinął karierę solową, i występuje nieprzerwanie od sześćdziesięciu lat.
 
 ## Gdzie się podziały tamte prywatki
-Największy przebój, nagrany w drugiej połowie lat 70., stał się piosenką pokoleniową: opowiada o tęsknocie za młodością i za domowymi zabawami przy adapterze. Śpiewano ją potem na każdym spotkaniu rocznicowym.
+Największy przebój, nagrany pod koniec lat 70., stał się piosenką pokoleniową: opowiada o tęsknocie za młodością i domowymi zabawami przy adapterze. Utwór okazał się trwalszy niż cała reszta jego dorobku i jest dziś śpiewany na spotkaniach rocznicowych i weselach.
 
 ## Prywatka
-Sama prywatka – domowa impreza z muzyką z płyt i taśm – była w PRL podstawową formą życia towarzyskiego młodzieży. Lokali było mało i były drogie, więc tańczono w mieszkaniach, przy zwiniętym dywanie.
+Prywatka – domowa impreza z muzyką z płyt i taśm – była w PRL podstawową formą życia towarzyskiego młodzieży. Lokali było mało i były drogie, więc tańczono w mieszkaniach, przy zwiniętym dywanie, ze światłem przyciemnionym chustą na lampie. Muzykę stanowiły płyty przywożone z Zachodu i nagrania z radia.
 
 ## Ciągłość
-Gąssowski jest przykładem wykonawcy, który przetrwał wszystkie zmiany mody: od big-beatu przez disco po współczesne trasy nostalgiczne. Jego repertuar funkcjonuje dziś głównie jako muzyczny znak epoki.`,
+Przetrwał wszystkie zmiany mody: od big-beatu przez disco po współczesne trasy nostalgiczne. Jego repertuar funkcjonuje dziś głównie jako muzyczny znak epoki – co on sam przyjmuje bez złudzeń i z humorem.`,
     trivia: [
       '„Gdzie się podziały tamte prywatki” stało się piosenką pokoleniową o tęsknocie za młodością.',
       'Prywatka w mieszkaniu, przy zwiniętym dywanie, była podstawową formą życia towarzyskiego młodzieży.',
