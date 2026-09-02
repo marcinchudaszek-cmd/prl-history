@@ -14701,19 +14701,19 @@ Uznawany za jednego z najważniejszych Polaków XX wieku, ukształtował niezale
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gustaw_Herling-Grudzinski_3.jpg?width=800',
     imageCaption: 'Gustaw Herling-Grudziński',
     content: `## Sylwetka
-Gustaw Herling-Grudziński (1919–2000) był pisarzem, eseistą i krytykiem literackim, jednym z czołowych twórców polskiej emigracji, związanym z paryską „Kulturą”.
+Gustaw Herling-Grudziński (1919–2000) był pisarzem, eseistą i krytykiem, jednym z filarów paryskiej „Kultury”. Drugą połowę życia spędził w Neapolu, żonaty z Lidią Croce, córką filozofa Benedetta Crocego – stamtąd pisał przez czterdzieści lat o Polsce, do której nie chciał wracać na warunkach ustalonych przez cenzurę.
 
 ## Łagier
-W czasie wojny został aresztowany przez NKWD i osadzony w sowieckim łagrze. Doświadczenia te opisał w książce „Inny świat” (1951) – wstrząsającym świadectwie nieludzkiego systemu obozowego.
+W 1940 roku, próbując przedostać się na Litwę, został aresztowany przez NKWD i skazany na pięć lat obozu. Trafił do Jercewa koło Archangielska, gdzie pracował przy wyrębie lasu. Wyszedł w 1942 roku po głodówce, którą podjął wraz z innymi Polakami, i dotarł do armii Andersa; walczył pod Monte Cassino.
 
 ## „Inny świat”
-Książka, mimo uznania na Zachodzie, przez dekady była w PRL zakazana przez cenzurę. Krążyła w drugim obiegu, a jej znaczenie porównywano z dziełami Sołżenicyna.
+Książka o łagrze ukazała się najpierw po angielsku w 1951 roku, z przedmową Bertranda Russella, a po polsku dwa lata później w Londynie. Powstała ponad dekadę przed „Jednym dniem Iwana Denisowicza” i była jednym z pierwszych świadectw sowieckiego systemu obozowego napisanych przez naocznego świadka. W PRL objęto ją zakazem; krążyła w drugim obiegu i w egzemplarzach przewożonych z Zachodu.
 
 ## „Dziennik pisany nocą”
-Przez lata tworzył „Dziennik pisany nocą” – wybitne dzieło eseistyczne łączące refleksję literacką, polityczną i moralną.
+Od 1971 roku prowadził w „Kulturze” dziennik, który stał się jego głównym dziełem: mieszanką zapisu bieżącego, eseju, opowiadania i notatki z lektury, pisaną przez blisko trzydzieści lat.
 
 ## Znaczenie
-Herling-Grudziński należy do najważniejszych pisarzy polskich XX wieku, a jego świadectwo o łagrach pozostaje fundamentem pamięci o zbrodniach komunizmu.`,
+Do polskich księgarń wrócił w pełni dopiero po 1989 roku. Jego świadectwo o łagrach pozostaje fundamentem pamięci o zbrodniach komunizmu, a „Inny świat” jest dziś lekturą szkolną.`,
     trivia: ['„Inny Świat” to jego relacja z sowieckiego łagru.', 'Współtworzył Instytut Literacki – wydawcę paryskiej „Kultury”.'],
     resources: [
       {
@@ -15584,19 +15584,19 @@ Cybulski pozostaje symbolem polskiej szkoły filmowej i jednym z najważniejszyc
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gustaw_Holoubek_%28portret%29.jpg?width=800',
     imageCaption: 'Gustaw Holoubek',
     content: `## Sylwetka
-Gustaw Holoubek (1923–2008) był jednym z najwybitniejszych polskich aktorów, mistrzem ról wymagających intelektu i wewnętrznego napięcia, a także reżyserem i dyrektorem teatrów.
+Gustaw Holoubek (1923–2008) był aktorem, reżyserem i dyrektorem teatrów, mistrzem ról wymagających intelektu i wewnętrznego napięcia. Grał oszczędnie, głosem i pauzą, budując postacie myślące na scenie zamiast ilustrować emocje.
 
-## „Dziady” 1968
-Grał Gustawa-Konrada w „Dziadach” Adama Mickiewicza w reżyserii Kazimierza Dejmka. Zdjęcie spektaklu w 1968 roku, odebrane jako cenzura treści patriotycznych, wywołało studenckie protesty Marca '68.
+## „Dziady” 1967
+Rolę Gustawa-Konrada w inscenizacji Kazimierza Dejmka zagrał w Teatrze Narodowym od listopada 1967 roku. Zdjęcie spektaklu pod naciskiem władz i przemarsz widzów pod pomnik Mickiewicza po ostatnim przedstawieniu 30 stycznia 1968 roku uruchomiły wydarzenia Marca '68.
 
 ## Teatr
-Holoubek był legendą polskiego teatru – kreował role w dramatach klasycznych i współczesnych, słynął z intelektualnej interpretacji i niepowtarzalnego głosu.
+W latach 1972–1982 kierował Teatrem Dramatycznym w Warszawie, budując jedną z najważniejszych scen w kraju. Reżyserował i grał role klasyczne i współczesne – od Szekspira po Mrożka – a jego interpretacje omawiano jak wydarzenia intelektualne, nie tylko artystyczne.
 
 ## Film i telewizja
-Występował w filmach i Teatrze Telewizji, docierając do masowej widowni. Jego role pozostają wzorcem aktorskiego kunsztu.
+Zagrał m.in. w „Pętli” Wojciecha Hasa (1957) i w „Rękopisie znalezionym w Saragossie” (1964), a przede wszystkim w kilkudziesięciu spektaklach Teatru Telewizji, które docierały do widowni liczonej w milionach.
 
-## Znaczenie
-Holoubek to symbol ambitnego, zaangażowanego aktorstwa; jego nazwisko łączy historię sztuki z dramatycznymi wydarzeniami politycznymi PRL.`,
+## Postawa
+Był posłem na Sejm, ale po wprowadzeniu stanu wojennego zrzekł się mandatu w proteście i na kilka lat wycofał się z życia publicznego. Po 1989 roku zasiadał w Senacie. Jego nazwisko łączy historię polskiego teatru z najbardziej dramatycznymi momentami polityki PRL.`,
     trivia: ['Jego rola w „Dziadach” Dejmka stała się iskrą Marca \'68.', 'Był aktorem i dyrektorem najważniejszych warszawskich teatrów.'],
     resources: [
       {
@@ -15654,19 +15654,19 @@ Holoubek to symbol ambitnego, zaangażowanego aktorstwa; jego nazwisko łączy h
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Agnieszka_Osiecka_Polish_writer.jpg?width=800',
     imageCaption: 'Agnieszka Osiecka',
     content: `## Sylwetka
-Agnieszka Osiecka (1936–1997) była poetką, autorką tekstów piosenek, pisarką i reżyserką. Napisała kilka tysięcy tekstów, w tym słowa do najsłynniejszych polskich przebojów.
+Agnieszka Osiecka (1936–1997) była poetką, autorką tekstów, pisarką, dziennikarką i reżyserką. Napisała około dwóch tysięcy tekstów piosenek – liczba, która w polskiej kulturze nie ma odpowiednika – a obok tego dramaty, opowiadania i felietony.
+
+## STS
+Od 1954 roku była związana ze Studenckim Teatrem Satyryków, gdzie ukształtowało się jej pisanie: szybkie, dowcipne, reagujące na bieżąco. STS okresu odwilży był środowiskiem, z którego wyszła znaczna część późniejszej warszawskiej kultury.
 
 ## Piosenka literacka
-Współtworzyła nurt piosenki literackiej. Jej teksty łączyły liryzm, ironię i refleksję nad miłością i przemijaniem, podnosząc piosenkę do rangi poezji.
+Podniosła piosenkę do rangi poezji, nie odbierając jej lekkości. Jej teksty łączyły liryzm z ironią, mówiły o miłości, przemijaniu i codziennych porażkach językiem naturalnym, bez estradowej egzaltacji. Pisała dla Rodowicz, Demarczyk, Skaldów i Czerwonych Gitar, współpracując z kompozytorami od Gärtner i Krajewskiego po Przybylskiego.
 
 ## Przeboje
-Pisała dla największych gwiazd – m.in. „Małgośkę” i „Niech żyje bal” dla Maryli Rodowicz, „Okularnicy”, „Na całych jeziorach – ty”. Współpracowała z kompozytorami jak Seweryn Krajewski.
-
-## STS i środowisko
-Była związana ze Studenckim Teatrem Satyryków (STS) i warszawskim środowiskiem artystycznym okresu odwilży, współtworząc klimat kulturalny epoki.
+„Małgośka”, „Niech żyje bal”, „Okularnicy”, „Na całych jeziorach – ty”, „Nie spoczniemy”, „Sing-Sing” – utwory, których teksty znane są na pamięć przez kilka pokoleń, często bez świadomości, kto je napisał.
 
 ## Znaczenie
-Osiecka to jedna z najważniejszych postaci polskiej kultury XX wieku; jej teksty na trwałe weszły do kanonu i wciąż są wykonywane.`,
+Jej archiwum, listy i dzienniki wydawane po śmierci pokazały skalę dorobku wykraczającego daleko poza piosenkę. Pozostaje jedną z najważniejszych postaci polskiej kultury XX wieku, a jej teksty są wykonywane nieprzerwanie.`,
     trivia: ['Napisała teksty do kilku tysięcy piosenek.', 'Współpracowała m.in. z Marylą Rodowicz i Ewą Demarczyk.'],
     resources: [
       {
@@ -15794,19 +15794,19 @@ Napisał ponad dwa tysiące tekstów, w tym dla Michaja Burano, Ireny Santor, Ha
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Konferencja_programowa_Rozg%C5%82o%C5%9Bni_Polskiej_Radia_Wolna_Europa_%28cropped%291.jpg?width=800',
     imageCaption: 'Jan Nowak-Jeziorański',
     content: `## Sylwetka
-Jan Nowak-Jeziorański (1914–2005), właściwie Zdzisław Jeziorański, był kurierem i emisariuszem Armii Krajowej, a po wojnie wybitnym dziennikarzem i działaczem emigracyjnym.
+Jan Nowak-Jeziorański (1914–2005), właściwie Zdzisław Antoni Jeziorański, był emisariuszem Armii Krajowej, a po wojnie dziennikarzem i jedną z najważniejszych postaci polskiej emigracji politycznej.
 
 ## Kurier z Warszawy
-W czasie wojny jako emisariusz przewoził meldunki między Warszawą a Londynem, ryzykując życie. Doświadczenia te opisał w słynnej książce „Kurier z Warszawy”.
+W czasie wojny kilkakrotnie przewoził meldunki między okupowaną Polską a Londynem, przekraczając kilka granic na fałszywych papierach. W 1944 roku dotarł do Wielkiej Brytanii z relacją o powstaniu warszawskim i o Zagładzie, spotykając się m.in. z brytyjskimi politykami. Opisał to w książce „Kurier z Warszawy”.
 
 ## Radio Wolna Europa
-W latach 1952–1976 kierował Rozgłośnią Polską Radia Wolna Europa w Monachium. RWE było dla milionów Polaków oknem na prawdę, mimo zagłuszania przez władze PRL.
+W latach 1952–1976 kierował Rozgłośnią Polską RWE w Monachium. Stacja nadawała informacje przemilczane w kraju: o Poznaniu 1956, Marcu 1968, Grudniu 1970 i o działalności opozycji. Władze PRL wydawały ogromne środki na zagłuszanie, budując sieć nadajników zakłócających – co samo w sobie było dowodem skuteczności rozgłośni.
 
 ## Wpływ
-Audycje RWE informowały o wydarzeniach przemilczanych w kraju, wspierały opozycję i podtrzymywały nadzieję. Nowak-Jeziorański stał się symbolem walki o wolne słowo.
+Audycje słuchano przy uchylonych oknach, z uchem przy odbiorniku, w kilkumilionowej skali. Dla opozycji RWE była kanałem, dzięki któremu informacja z podziemnej ulotki wracała tego samego dnia do całego kraju.
 
 ## Znaczenie
-Po 1989 roku powrócił do Polski jako autorytet moralny i orędownik wejścia kraju do NATO. Pozostaje symbolem niezłomnej służby Polsce.`,
+Po 1989 roku doradzał w Waszyngtonie w sprawach Europy Środkowej i był jednym z najskuteczniejszych orędowników wejścia Polski do NATO. Do kraju wrócił na stałe w 2002 roku jako autorytet moralny.`,
     trivia: ['Jako „Kurier z Warszawy” przewoził meldunki do Londynu.', 'Przez lata kierował Rozgłośnią Polską Radia Wolna Europa.'],
     resources: [
       {
@@ -16320,19 +16320,19 @@ Domy towarowe i Supersam to symbol napięcia między propagandową nowoczesnośc
     yearEnd: 1966,
     summary: 'Akcja budowy tysiąca szkół na obchody Tysiąclecia Państwa Polskiego – świecka odpowiedź władz na kościelne obchody Milenium Chrztu Polski.',
     content: `## Geneza
-W 1958 roku ogłoszono akcję „Tysiąc szkół na Tysiąclecie Państwa Polskiego”. Była to świecka, państwowa odpowiedź na zapowiadane przez Kościół obchody Milenium Chrztu Polski w 1966 roku.
+W 1958 roku ogłoszono akcję „Tysiąc szkół na Tysiąclecie Państwa Polskiego”, a jej finansowanie oparto na Społecznym Funduszu Budowy Szkół – składkach potrącanych z pensji, zbiórkach i „czynach społecznych”. Była to świecka, państwowa odpowiedź na zapowiadane przez Kościół obchody Milenium Chrztu Polski w 1966 roku.
 
 ## Rywalizacja z Kościołem
-Władze chciały, by obchody tysiąclecia kojarzyły się z państwem i postępem, a nie z chrześcijaństwem. Budowa szkół miała być namacalnym dowodem troski socjalizmu o oświatę.
+Spór dotyczył tego, czyja rocznica jest ważniejsza: tysiąclecie państwa czy tysiąclecie chrztu. Władze chciały, żeby okrągła data kojarzyła się z postępem i oświatą, nie z chrześcijaństwem. Budowa szkół była w tym sporze argumentem materialnym – trudnym do podważenia i realnie zmieniającym życie.
 
 ## Realizacja
-Dzięki masowej zbiórce społecznej i „czynom” powstało ponad tysiąc nowoczesnych szkół, zwanych „tysiąclatkami”. Wiele z nich służy do dziś.
+Do połowy lat 60. powstało ponad tysiąc budynków – „tysiąclatek” – według kilku powtarzalnych projektów: jasnych, przeszklonych, z salą gimnastyczną i pracowniami. Wiele z nich stoi i działa do dziś, a ich architektura jest dziś przedmiotem osobnych opracowań.
 
 ## Wymiar propagandowy
-Akcja była przedsięwzięciem zarazem oświatowym i propagandowym – łączyła realną poprawę bazy szkolnej z ideologiczną walką o symbolikę tysiąclecia.
+Każde otwarcie było uroczystością z udziałem władz, a listy dzieci dziękujących partii publikowała prasa. Akcja łączyła więc realną poprawę bazy szkolnej z ideologiczną walką o symbolikę tysiąclecia.
 
 ## Znaczenie
-Szkoły Tysiąclecia to przykład, jak władze PRL wykorzystywały realne inwestycje społeczne do rywalizacji z Kościołem o „rząd dusz”.`,
+To jeden z najlepszych przykładów tego, jak PRL potrafił wykorzystać autentyczną potrzebę społeczną – w powojennym wyżu demograficznym szkół brakowało dramatycznie – jako narzędzie w walce o rząd dusz.`,
     trivia: ['Zbudowano ich ponad tysiąc w całym kraju.', 'Akcja była państwową odpowiedzią na kościelne obchody Milenium.'],
     resources: [
       {
@@ -20547,19 +20547,19 @@ Dziesięć lat później stocznia znów była jednym z głównych ośrodków str
     yearEnd: 1989,
     summary: 'Sieć domów kultury, świetlic i klubów – masowa infrastruktura upowszechniania kultury, łącząca realną ofertę zajęć z funkcją ideologiczną.',
     content: `## Powszechna sieć
-W PRL zbudowano gęstą sieć domów kultury, świetlic, klubów (m.in. „Ruch”, zakładowych, wiejskich) – instytucji mających „upowszechniać kulturę” wśród mas.
+W PRL zbudowano gęstą sieć instytucji upowszechniania kultury: domy kultury, świetlice, kluby zakładowe, wiejskie i osiedlowe oraz kluby „Ruch”. Dom kultury stawiano razem z osiedlem albo fabryką i traktowano jak element wyposażenia miejscowości, na równi ze szkołą i przychodnią.
 
 ## Oferta
-Działały tam kółka zainteresowań, zespoły taneczne i muzyczne, chóry, sekcje fotograficzne, biblioteki, kino objazdowe i zajęcia dla dzieci. Dla wielu była to realna szansa kontaktu z kulturą.
+Działały tam kółka zainteresowań, zespoły taneczne i muzyczne, chóry, sekcje fotograficzne i modelarskie, biblioteki, kino objazdowe i zajęcia dla dzieci. Ruch amatorski był masowy, a instruktorzy – etatowi. Dla wielu osób z małych miejscowości była to jedyna dostępna forma kontaktu z kulturą.
 
 ## Funkcja ideologiczna
-Obok autentycznej działalności domy kultury pełniły rolę „pracy oświatowej” – organizowano akademie, prelekcje i imprezy o charakterze propagandowym.
+Obok autentycznej działalności prowadzono „pracę oświatową”: akademie rocznicowe, prelekcje, konkursy wiedzy o partii i imprezy okolicznościowe. Sprawozdania z tej części działalności decydowały o budżecie, więc każda placówka je produkowała, niezależnie od tego, co robiła naprawdę.
 
 ## Życie lokalne
-W małych miejscowościach dom kultury bywał centrum życia towarzyskiego – miejscem zabaw, dyskotek, prywatek i spotkań pokoleń.
+W praktyce dom kultury bywał po prostu centrum życia towarzyskiego: salą zabaw i wesel, miejscem dyskotek i prób zespołów rockowych lat 80. Wiele grup, które później nagrywały płyty, zaczynało w salce udostępnionej przez instruktora patrzącego na przepisy przez palce.
 
 ## Znaczenie
-Domy kultury i świetlice to ważny, ambiwalentny element PRL: realnie demokratyzowały dostęp do kultury, służąc zarazem jako narzędzie wychowania ideologicznego.`,
+To element PRL wyraźnie dwuznaczny: instytucje służyły ideologicznemu wychowaniu, a jednocześnie realnie demokratyzowały dostęp do kultury. Po 1989 roku znaczna część sieci podupadła wraz z likwidacją zakładów, które ją finansowały.`,
     trivia: ['Niemal każdy większy zakład pracy miał własny dom kultury.', 'Działały tam zespoły, kółka zainteresowań i kino.'],
     resources: [
       {
@@ -24231,16 +24231,19 @@ Zdjęcia kręcono m.in. w Uzbekistanie i Egipcie, przy ogromnej jak na polskie w
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Izabela%20Trojanowska%20by%20Foksal.jpg?width=800',
     imageCaption: 'Izabela Trojanowska – wokalistka rockowa i aktorka.',
     content: `## Piosenkarka i aktorka
-Izabela Trojanowska (ur. 1955) łączyła dwie kariery: aktorską i muzyczną. Na przełomie lat 70. i 80. stała się jedną z najbardziej rozpoznawalnych postaci polskiej estrady.
+Izabela Trojanowska (ur. 1955) łączyła dwie kariery: aktorską i muzyczną. Na przełomie lat 70. i 80. stała się jedną z najbardziej rozpoznawalnych postaci polskiej estrady, a rozpoznawalność aktorską dał jej udział w serialu „07 zgłoś się”.
 
 ## Wizerunek
-Wprowadziła na polską scenę wizerunek wokalistki rockowej: wyrazisty makijaż, mocny głos, sceniczna pewność siebie. Było to zerwanie z konwencją grzecznej piosenkarki festiwalowej, obowiązującą przez poprzednią dekadę.
+Wprowadziła na polską scenę wizerunek wokalistki rockowej: rude włosy, wyrazisty makijaż, mocny głos i sceniczna pewność siebie. Było to zerwanie z konwencją grzecznej piosenkarki festiwalowej, obowiązującą przez poprzednią dekadę, i budziło zarówno entuzjazm, jak i oburzenie recenzentów.
 
 ## Przeboje
-Największą popularność przyniosły jej piosenki z początku lat 80., śpiewane do muzyki Romualda Lipki. Trafiła w moment, w którym publiczność szukała czegoś ostrzejszego niż dotychczasowa estrada.
+„Tyle samo prawd ile kłamstw”, „Wszystko czego dziś chcę” i „Jestem twoim grzechem” – piosenki skomponowane przez Romualda Lipkę z tekstami Andrzeja Mogielnickiego, czyli przez ten sam zespół autorski, który stał za sukcesami Budki Suflera. Trafiła w moment, w którym publiczność szukała czegoś ostrzejszego niż dotychczasowa estrada.
 
 ## Dwa zawody
-Równolegle grała w filmie i teatrze. Takie łączenie ról było w PRL możliwe, bo rynek muzyczny praktycznie nie istniał – o utrzymaniu decydowały etat, koncerty przez państwową agencję i praca w kilku dziedzinach naraz.`,
+Równolegle grała w filmie i teatrze. Takie łączenie ról było w PRL naturalne, bo rynek muzyczny praktycznie nie istniał – o utrzymaniu decydowały etat, koncerty rozliczane przez państwową agencję i praca w kilku dziedzinach naraz.
+
+## Później
+Po latach spędzonych częściowo za granicą wróciła do występów i pracy telewizyjnej. Jej nagrania z początku lat 80. pozostają punktem odniesienia dla polskiej piosenki rockowej śpiewanej przez kobiety.`,
     trivia: [
       'Wprowadziła na polską estradę wizerunek wokalistki rockowej zamiast grzecznej piosenkarki festiwalowej.',
       'Łączyła śpiewanie z pracą aktorską, bo rynek muzyczny w PRL praktycznie nie istniał.',
@@ -28760,16 +28763,19 @@ Kreacja Barbary Krafftówny uchodzi za jedną z najwybitniejszych ról kobiecych
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Marek_i_Wacek.JPG?width=800',
     imageCaption: 'Marek i Wacek',
     content: `## Duet
-Marek Tomaszewski i Wacław Kisielewski tworzyli duet fortepianowy działający w latach 1966–1986. Grali na dwóch fortepianach ustawionych naprzeciw siebie, co samo w sobie było elementem widowiska.
+Marek Tomaszewski i Wacław Kisielewski tworzyli duet fortepianowy działający w latach 1966–1986. Grali na dwóch fortepianach ustawionych naprzeciw siebie, co samo w sobie było elementem widowiska – publiczność widziała obu wykonawców i grę spojrzeń między nimi. Kisielewski był synem Stefana Kisielewskiego, kompozytora i publicysty „Tygodnika Powszechnego”.
 
 ## Repertuar
-Ich pomysł polegał na łączeniu muzyki klasycznej z rozrywkową: przeboje w opracowaniu koncertowym, klasyka zagrana z jazzową swobodą, cytaty przeplatane żartem muzycznym. Formuła trafiała jednocześnie do publiczności filharmonicznej i estradowej.
+Ich pomysł polegał na łączeniu muzyki klasycznej z rozrywkową: przeboje w opracowaniu koncertowym, klasyka zagrana z jazzową swobodą, cytaty przeplatane żartem muzycznym. Formuła trafiała jednocześnie do publiczności filharmonicznej i estradowej, co udawało się nielicznym.
 
 ## Zagranica
-Duet zrobił karierę międzynarodową, koncertując w Europie Zachodniej i nagrywając dla zagranicznych wytwórni. Dla artystów z PRL było to osiągnięcie rzadkie – muzyka instrumentalna nie wymagała tłumaczenia i nie budziła podejrzeń cenzury.
+Duet zrobił karierę międzynarodową, koncertując w Europie Zachodniej, występując w telewizjach i nagrywając dla zagranicznych wytwórni. Dla artystów z PRL było to osiągnięcie rzadkie – muzyka instrumentalna nie wymagała tłumaczenia i nie budziła podejrzeń cenzury, więc łatwiej było uzyskać zgodę na wyjazdy.
 
 ## Koniec
-Działalność duetu przerwała śmierć Wacława Kisielewskiego w wypadku samochodowym w 1986 roku. Marek Tomaszewski kontynuował karierę solową.`,
+Działalność duetu przerwała śmierć Wacława Kisielewskiego w wypadku samochodowym w 1986 roku. Marek Tomaszewski kontynuował karierę solową i wracał do wspólnego repertuaru w koncertach wspomnieniowych.
+
+## Znaczenie
+Marek i Vacek byli jednym z najbardziej rozpoznawalnych polskich zespołów instrumentalnych epoki i dowodem, że popularność da się zbudować bez tekstu, wizerunku i festiwalowej machiny – na samym pomyśle muzycznym.`,
     trivia: [
       'Grali na dwóch fortepianach ustawionych naprzeciw siebie – układ był częścią widowiska.',
       'Muzyka instrumentalna nie wymagała tłumaczenia ani zgody cenzury, co ułatwiało karierę zagraniczną.',
