@@ -13001,19 +13001,19 @@ Lista Przebojów Trójki przetrwała przemiany ustrojowe i przez dekady pozostaw
     imageCaption: 'Perfect',
     trivia: ['Publiczność śpiewała „Chcemy być sobą” jako „chcemy bić ZOMO”, co niepokoiło władze.'],
     content: `## Powstanie
-Perfect w klasycznym składzie ukształtował się w 1980 roku w Warszawie. Liderem zespołu był Zbigniew Hołdys, a wokalistą Grzegorz Markowski.
+Perfect w klasycznym składzie ukształtował się w 1980 roku w Warszawie. Liderem, gitarzystą i głównym autorem był Zbigniew Hołdys, wokalistą Grzegorz Markowski. Zespół pojawił się dokładnie w momencie, gdy karnawał Solidarności otworzył scenę dla muzyki mówiącej własnym językiem.
 
 ## Przeboje
-Debiutancki album „Perfect” (1981) okazał się ogromnym sukcesem. Przeboje „Nie płacz Ewka”, „Autobiografia”, „Chcemy być sobą” stały się hymnami pokolenia, a koncerty gromadziły tłumy.
+Debiutancki album „Perfect” (1981) sprzedał się w ogromnym nakładzie. „Nie płacz Ewka”, „Autobiografia”, „Ale wkoło jest wesoło” i „Chcemy być sobą” stały się pokoleniowymi hymnami, a koncerty wypełniały największe hale w kraju.
 
 ## „Chcemy być sobą”
-Piosenka „Chcemy być sobą” nabrała znaczenia politycznego – publiczność śpiewała ją jako „chcemy bić ZOMO”, co czyniło z niej nieformalny hymn sprzeciwu. Tego typu interpretacje niepokoiły władze.
+Refren piosenki publiczność śpiewała jako „chcemy bić ZOMO” – i robiła to chóralnie, na oczach milicji zabezpieczającej koncerty. Utwór zdjęto z anteny, a zespołowi utrudniano występy; to jeden z najczystszych przykładów tekstu, któremu znaczenie nadała sama widownia.
 
 ## Trudności
-W okresie stanu wojennego zespół, podobnie jak inni artyści, mierzył się z ograniczeniami i naciskami. Hołdys odszedł z zespołu w 1983 roku.
+Po 13 grudnia 1981 roku zespół działał w warunkach ograniczeń koncertowych i cenzury. Hołdys odszedł w 1983 roku, a grupa – w zmienionym składzie i z Markowskim jako liderem – kontynuowała działalność.
 
 ## Znaczenie
-Perfect to jeden z filarów polskiego rocka, a jego przeboje pozostają klasyką, do dziś rozpoznawalną przez kolejne pokolenia.`,
+Perfect wrócił po 1989 roku i zagrał serię koncertów stadionowych, a jego repertuar z początku lat 80. pozostaje żywy. To jeden z niewielu polskich zespołów rockowych, których piosenki zna także publiczność zupełnie nieinteresująca się rockiem.`,
     resources: [
       {
         id: 'perf-yt',
@@ -13200,19 +13200,19 @@ Big-beat położył fundamenty pod rozwój polskiego rocka, a wiele zespołów t
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Czerwone_Gitary%2C_Polska_Filharmonia_Ba%C5%82tycka%2C_20.03.2023_034.jpg?width=800',
     imageCaption: 'Czerwone Gitary',
     content: `## Powstanie
-Czerwone Gitary powstały w 1965 roku w Gdańsku. Zespół czerpał z brzmienia The Beatles i The Shadows, łącząc je z melodyjnymi, polskimi tekstami.
+Czerwone Gitary powstały w 1965 roku w Gdańsku, założone przez muzyków wywodzących się z Niebiesko-Czarnych: Jerzego Kosselę, Krzysztofa Klenczona, Seweryna Krajewskiego, Bernarda Dornowskiego i Henryka Zomerskiego. Reklamowali się hasłem, że grają najgłośniej w Polsce.
 
 ## „Polscy Beatlesi”
-Dzięki wielogłosowym harmoniom i chwytliwym melodiom zespół zyskał miano „polskich Beatlesów”. Czołowymi postaciami byli Seweryn Krajewski, Krzysztof Klenczon i Jerzy Kosela.
+Wielogłosowe harmonie, gitarowe brzmienie i melodyjność przyniosły im to porównanie niemal od razu. W odróżnieniu od większości zespołów big-beatowych mieli własnych kompozytorów – Krajewskiego i Klenczona – co pozwoliło zbudować repertuar, a nie tylko program koncertowy.
 
 ## Przeboje
-Do największych przebojów należą „Anna Maria”, „Matura”, „Nie spoczniemy”, „Biały krzyż” czy „Płoną góry, płoną lasy”. Płyty zespołu sprzedawały się w milionowych nakładach.
+„Anna Maria”, „Matura”, „Biały krzyż”, „Płoną góry, płoną lasy”, a później „Nie spoczniemy” z tekstem Agnieszki Osieckiej – piosenki, które zna każde pokolenie. Płyty sprzedawały się w nakładach liczonych w milionach, rekordowych jak na polski rynek.
 
-## Trwałość
-Mimo zmian składu Czerwone Gitary pozostały aktywne przez całą epokę PRL, a Seweryn Krajewski stał się jednym z najważniejszych polskich kompozytorów muzyki rozrywkowej.
+## Zmiany składu
+Klenczon odszedł w 1970 roku, założył Trzy Korony, a potem wyemigrował do Stanów Zjednoczonych, gdzie zginął w wypadku w 1981 roku. Krajewski został liderem i głównym kompozytorem, a zespół – mimo kolejnych zmian – nie przerwał działalności.
 
 ## Znaczenie
-Zespół to symbol melodyjnego big-beatu lat 60. i 70., a jego piosenki na trwałe weszły do kanonu polskiej muzyki popularnej.`,
+Czerwone Gitary są symbolem melodyjnego big-beatu lat 60. i 70. i jednym z najlepiej sprzedających się polskich zespołów w historii. Seweryn Krajewski, komponujący także dla innych wykonawców, stał się jednym z najważniejszych twórców polskiej muzyki rozrywkowej.`,
     trivia: ['Nazywano ich polskimi Beatlesami.', 'Sprzedali miliony płyt – rekord jak na warunki PRL.'],
     resources: [
       {
@@ -17592,19 +17592,19 @@ Polskie wyprawy polarne i Stacja Arctowski to dowód, że mimo ograniczeń syste
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Olga_Lipi%C5%84ska.jpg?width=800',
     imageCaption: 'Kabaret Olgi Lipińskiej',
     content: `## Twórczyni
-Olga Lipińska, reżyserka telewizyjna i teatralna, stworzyła cykl programów kabaretowych, które przez dekady były jedną z najambitniejszych form telewizyjnej satyry w Polsce.
+Olga Lipińska (ur. 1932) jest reżyserką telewizyjną i teatralną, autorką cyklu programów kabaretowych realizowanych dla telewizji przez ponad dwadzieścia lat – od „Właśnie leci kabarecik” w latach 70. po „Kabaret Olgi Lipińskiej” prowadzony do końca lat 90.
 
 ## Charakter
-Kabaret łączył piosenkę, skecz i poezję z aluzyjną, inteligentną krytyką rzeczywistości. Wyróżniał się literackim poziomem tekstów i wysmakowaną formą.
+Kabaret łączył piosenkę, skecz i poezję w formie zbliżonej do telewizyjnego widowiska. Teksty pisali literaci, muzykę komponowano specjalnie, a całość realizowano w scenografii i kostiumach – bliżej to było teatru telewizji niż estradowego programu rozrywkowego.
 
 ## Obsada
-Występowali w nim wybitni aktorzy, m.in. Wiesław Michnikowski, Barbara Krafftówna, Marian Kociniak czy Piotr Fronczewski, nadając programom najwyższą klasę aktorską.
+Występowali w nim Wiesław Michnikowski, Barbara Krafftówna, Marian Kociniak, Piotr Fronczewski, Zbigniew Zapasiewicz i Damian Damięcki – aktorzy pierwszej klasy, dla których udział w kabarecie był pracą aktorską, a nie występem gościnnym.
 
 ## Cenzura
-Programy balansowały na granicy cenzury – aluzje polityczne i obyczajowe wymagały finezji, by przejść przez sito kontroli, co czyniło je tym bardziej cenionymi przez widzów.
+Programy balansowały na granicy dopuszczalnego. Aluzja polityczna musiała być na tyle finezyjna, żeby przejść przez kontrolę, i na tyle czytelna, żeby widz ją zrozumiał – ta podwójna precyzja była właściwą sztuką tego kabaretu i powodem, dla którego widzowie go cenili.
 
 ## Znaczenie
-Kabaret Olgi Lipińskiej, obok „Pod Egidą” i Kabaretu Tey, współtworzył złotą erę polskiej satyry, łącząc rozrywkę z intelektualną ambicją.`,
+Obok „Pod Egidą” Pietrzaka i Kabaretu Tey programy Lipińskiej współtworzyły złotą erę polskiej satyry. Wyróżniały się tym, że nie rezygnowały z ambicji literackiej ani z formy – rozrywka była tu robiona z najwyższą starannością.`,
     trivia: ['Kabaret Olgi Lipińskiej łączył satyrę z piosenką i teatrem.', 'Był jednym z niewielu programów satyrycznych w telewizji.'],
     resources: [
       {
@@ -18877,19 +18877,19 @@ Efekt okazał się przeciwny do zamierzonego: sprawa nagłośniła istnienie kan
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Genera%C5%82_August_Emil_Fieldorf.jpg?width=800',
     imageCaption: 'Gen. Emil Fieldorf „Nil”',
     content: `## Sylwetka
-Generał August Emil Fieldorf, pseudonim „Nil” (1895–1953), był jednym z najwybitniejszych dowódców Armii Krajowej, szefem Kedywu – pionu walki bieżącej i dywersji.
+August Emil Fieldorf „Nil” (1895–1953) był oficerem Legionów, uczestnikiem wojny 1920 roku i kampanii wrześniowej, a w konspiracji jednym z najwybitniejszych dowódców. Od 1942 roku kierował Kedywem – pionem walki bieżącej i dywersji Armii Krajowej.
 
 ## Wojna
-Organizował akcje przeciw niemieckiemu okupantowi, w tym wykonanie wyroku na kacie Warszawy Franzu Kutscherze. Był legendą konspiracji niepodległościowej.
+Pod jego dowództwem prowadzono akcje sabotażowe, odbijanie więźniów i wykonywanie wyroków, w tym zamach na Franza Kutscherę, dowódcę SS i policji w dystrykcie warszawskim, w lutym 1944 roku. Po upadku powstania organizował struktury organizacji „Niepodległość”.
 
 ## Aresztowanie
-Po wojnie aparat bezpieczeństwa rozpracował i aresztował Fieldorfa. W sfingowanym procesie oskarżono go o wydawanie rozkazów mordowania partyzantów sowieckich.
+W marcu 1945 roku został aresztowany przez NKWD pod fałszywym nazwiskiem, nierozpoznany, i zesłany na Ural do obozu pracy. Wrócił do Polski w 1947 roku, ujawnił się i przez kilka lat żył legalnie – dopiero w listopadzie 1950 roku aresztowało go Ministerstwo Bezpieczeństwa Publicznego, tym razem znając jego tożsamość.
 
 ## Mord sądowy
-W 1953 roku skazano go na karę śmierci i stracono przez powieszenie. Był to typowy mord sądowy – zbrodnia komunistycznego wymiaru „sprawiedliwości” na bohaterze narodowym.
+W procesie oskarżono go o wydawanie rozkazów mordowania partyzantów sowieckich i Żydów – zarzut spreparowany na podstawie wymuszonych zeznań. Wyrok śmierci zapadł w kwietniu 1952 roku, Bolesław Bierut odmówił łaski, a egzekucję przez powieszenie wykonano 24 lutego 1953 roku w więzieniu na Mokotowie.
 
 ## Pamięć
-Po latach Fieldorfa zrehabilitowano, a jego kaci byli ścigani. Generał „Nil” pozostaje symbolem żołnierzy wyklętych i ofiar stalinowskiego terroru.`,
+Miejsca pochówku nigdy nie ustalono. Zrehabilitowano go w 1989 roku, a śledztwo przeciw osobom odpowiedzialnym za wyrok toczyło się przez kolejne dekady. Generał „Nil” pozostaje najczęściej przywoływanym symbolem stalinowskich mordów sądowych na żołnierzach podziemia.`,
     trivia: ['Dowodził Kedywem – pionem dywersji Armii Krajowej.', 'Skazany na śmierć w sfingowanym procesie i stracony w 1953 roku.'],
     resources: [
       {
@@ -19580,19 +19580,19 @@ Sukcesy jego drużyny przypadły na dekadę Gierka i były przez propagandę tra
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz_Dejmek_w_latach_60.jpg?width=800',
     imageCaption: 'Kazimierz Dejmek',
     content: `## Sylwetka
-Kazimierz Dejmek (1924–2002) był jednym z najwybitniejszych polskich reżyserów teatralnych i dyrektorów teatrów, m.in. Teatru Narodowego w Warszawie.
+Kazimierz Dejmek (1924–2002) był aktorem, reżyserem i dyrektorem teatrów – współzałożycielem Teatru Nowego w Łodzi, a od 1962 roku dyrektorem Teatru Narodowego w Warszawie. Budował teatr oparty na wielkiej literaturze, misteryjny i inscenizacyjnie rozmachowy.
 
 ## „Dziady” 1967
-Jego inscenizacja „Dziadów” Adama Mickiewicza w Teatrze Narodowym, z Gustawem Holoubkiem w roli Konrada, podkreślała antyrosyjskie i wolnościowe treści dramatu, entuzjastycznie przyjmowane przez publiczność.
+Premiera „Dziadów” Mickiewicza odbyła się 25 listopada 1967 roku, w przeddzień rocznicy rewolucji październikowej, z Gustawem Holoubkiem jako Konradem. Antyrosyjskie fragmenty dramatu publiczność przyjmowała owacjami, a przedstawienie stało się wydarzeniem politycznym niezależnie od intencji inscenizatora.
 
 ## Marzec '68
-Władze, zaniepokojone reakcjami widowni, nakazały zdjęcie spektaklu w styczniu 1968 roku. Protesty studentów przeciw cenzurze zapoczątkowały wydarzenia Marca 1968.
+Władze nakazały zdjęcie spektaklu po kilkunastu przedstawieniach; ostatnie zagrano 30 stycznia 1968 roku. Po nim widzowie przeszli pod pomnik Mickiewicza, gdzie milicja dokonała zatrzymań. Studenckie protesty przeciw zakazowi zapoczątkowały wydarzenia Marca 1968.
 
-## Twórczość
-Dejmek był mistrzem teatru opartego na wielkiej literaturze i tradycji, łączącym rozmach inscenizacji z intelektualną głębią. Część kariery spędził też za granicą.
+## Konsekwencje
+Dejmka usunięto z partii i odwołano z Teatru Narodowego. Przez kolejne lata pracował głównie za granicą – w Wiedniu, Mediolanie, Oslo i Essen – a do polskich teatrów wrócił dopiero w drugiej połowie lat 70.
 
 ## Znaczenie
-Dejmek to symbol siły teatru, który – mimo cenzury – potrafił poruszyć sumienia i wpłynąć na bieg historii.`,
+Po 1989 roku był ministrem kultury. Historia jego „Dziadów” pozostaje najczęściej przywoływanym dowodem na to, że w PRL teatr potrafił uruchomić procesy polityczne – i że władza doskonale zdawała sobie z tego sprawę.`,
     trivia: ['Jego inscenizację „Dziadów” zdjęto z afisza, co wywołało Marzec \'68.', 'Był jednym z najwybitniejszych reżyserów teatralnych epoki.'],
     resources: [
       {
@@ -19864,19 +19864,19 @@ W sierpniu 1989 roku oba stronnictwa zerwały sojusz z PZPR i poparły rząd Tad
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Odznaka_TPPR.JPG?width=800',
     imageCaption: 'Towarzystwo Przyjaźni Polsko-Radzieckiej',
     content: `## Geneza
-Towarzystwo Przyjaźni Polsko-Radzieckiej (TPPR) powstało jeszcze przed końcem wojny i rozwinęło się w jedną z najliczniejszych organizacji masowych PRL.
+Towarzystwo Przyjaźni Polsko-Radzieckiej powstało w 1944 roku, jeszcze przed końcem wojny, i szybko stało się jedną z najliczniejszych organizacji masowych w kraju. Jego struktura obejmowała koła w zakładach pracy, szkołach i urzędach.
 
 ## Cele
-Głównym zadaniem było propagowanie „nierozerwalnej przyjaźni” z ZSRR, kultury i osiągnięć radzieckich oraz utrwalanie przekonania o sojuszu jako gwarancji bezpieczeństwa Polski.
+Zadaniem było propagowanie „nierozerwalnej przyjaźni” z ZSRR, popularyzowanie radzieckiej kultury i nauki oraz utrwalanie przekonania, że sojusz ze Wschodem jest gwarancją granic i bezpieczeństwa Polski. Był to jeden z filarów oficjalnej narracji przez cały okres PRL.
 
 ## Działalność
-TPPR organizowało Dni Przyjaźni, prelekcje, kursy języka rosyjskiego, pokazy filmów radzieckich, wymiany i uroczystości rocznicowe (np. rewolucji październikowej).
+Organizowano Dni Kultury Radzieckiej, prelekcje, kursy języka rosyjskiego, pokazy filmów, konkursy szkolne, wycieczki i uroczystości rocznicowe – przede wszystkim rocznicę rewolucji październikowej. Wydawano też własną prasę i literaturę popularną.
 
 ## Masowość „na papierze”
-Liczyło miliony członków, lecz przynależność bywała formalna i wymuszana w zakładach pracy. Dla wielu była pustym rytuałem, traktowanym z dystansem.
+Towarzystwo podawało członkostwo liczone w milionach, ale przynależność bywała zbiorowa i formalna: zapisywano całe załogi zakładów albo klasy szkolne. Dla większości członków był to rytuał odbywany bez zaangażowania, a udział w imprezach – obowiązek służbowy.
 
 ## Znaczenie
-TPPR to przykład instytucji służącej ideologicznemu zespoleniu PRL z ZSRR i sowietyzacji kultury, działającej obok aparatu partyjnego i państwowego.`,
+TPPR rozwiązano na początku lat 90. Pozostaje przykładem instytucji, która przy imponujących statystykach nie zbudowała realnego poparcia – rozmiar organizacji i jej rzeczywisty wpływ rozchodziły się w PRL wyjątkowo daleko.`,
     trivia: ['Towarzystwo Przyjaźni Polsko-Radzieckiej organizowało obowiązkowe akademie.', 'Członkostwo bywało formalnością zapisywaną w zakładzie pracy.'],
     resources: [
       {
@@ -25549,16 +25549,19 @@ Studio Filmów Rysunkowych uczyniło z Bielska-Białej ośrodek animacji porówn
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej%20Grubba.jpg?width=800',
     imageCaption: 'Andrzej Grubba – tenisista stołowy.',
     content: `## Tenis stołowy
-Andrzej Grubba (1958–2005) był najwybitniejszym polskim tenisistą stołowym. Pochodził z Kaszub, a karierę zaczynał w klubie w Gdańsku. Przez lata należał do ścisłej światowej czołówki tej dyscypliny.
+Andrzej Grubba (1958–2005) był najwybitniejszym polskim tenisistą stołowym w historii. Pochodził z Kaszub, z okolic Starogardu Gdańskiego, a karierę związał z klubami Trójmiasta, występując przez lata także w lidze niemieckiej i francuskiej.
 
 ## Sukcesy
-Zdobywał medale mistrzostw Europy, wygrywał prestiżowe turnieje i przez pewien czas zajmował miejsce w pierwszej trójce rankingu światowego – co dla zawodnika spoza Azji było osiągnięciem wyjątkowym.
+W 1988 roku wygrał Puchar Świata, a rok później zdobył brązowy medal mistrzostw świata w grze pojedynczej. Był mistrzem Europy w grze mieszanej (1982), czterokrotnym wicemistrzem i siedmiokrotnym brązowym medalistą mistrzostw Europy oraz dwudziestosześciokrotnym mistrzem Polski. W dyscyplinie zdominowanej przez zawodników z Chin, Japonii i Korei Europejczyk w ścisłej czołówce był rzadkością.
+
+## Styl
+Grał ofensywnie, z bardzo mocnym atakiem z forehandu, i słynął ze spokoju przy stole. W czasach, gdy sprzęt i sparingi trzeba było zdobywać za granicą, jego pozycja opierała się w dużej mierze na indywidualnej determinacji.
 
 ## Dyscyplina bez rozgłosu
-Tenis stołowy nie miał w Polsce statusu porównywalnego z piłką czy lekkoatletyką, a transmisje pojawiały się rzadko. Sukcesy Grubby były więc znane bardziej specjalistom niż szerokiej publiczności, mimo że w skali światowej znaczyły więcej niż niejeden głośniejszy wynik.
+Tenis stołowy nie miał w Polsce statusu porównywalnego z piłką czy lekkoatletyką, a transmisje pojawiały się rzadko. Sukcesy Grubby znali więc bardziej specjaliści niż szeroka publiczność, mimo że w skali światowej znaczyły więcej niż niejeden głośniejszy wynik.
 
 ## Później
-Po zakończeniu kariery zawodniczej pracował jako trener i działacz sportowy. Zmarł w 2005 roku, mając czterdzieści siedem lat.`,
+Po zakończeniu kariery zawodniczej pracował jako trener i działacz, kierował polskim związkiem tenisa stołowego. Zmarł na chorobę nowotworową w 2005 roku, mając czterdzieści siedem lat; jego imię nosi hala sportowa w Gdańsku.`,
     trivia: [
       'Przez pewien czas zajmował miejsce w pierwszej trójce światowego rankingu tenisa stołowego.',
       'Był zawodnikiem spoza Azji w dyscyplinie zdominowanej przez azjatyckie szkoły.',
@@ -28028,16 +28031,19 @@ Likwidacja PGR-ów po 1989 roku pozbawiła pracy i zaplecza socjalnego całe mie
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Quotation%20from%20Brunet%20At%20Evening.jpg?width=800',
     imageCaption: 'Brunet wieczorową porą',
     content: `## Film
-Komedia kryminalna Stanisława Barei z 1976 roku, napisana wspólnie ze Stanisławem Tymem, który zagrał też jedną z ról. Punktem wyjścia jest przepowiednia jasnowidza, że bohater zabije bruneta.
+Komedia kryminalna Stanisława Barei z 1976 roku, napisana wspólnie ze Stanisławem Tymem, który zagrał w niej jedną z ról. Punktem wyjścia jest przepowiednia jasnowidza, że bohater – grany przez Krzysztofa Kowalewskiego – zabije bruneta. Kiedy w jego domu rzeczywiście pojawia się trup, zaczyna się farsa z ukrywaniem ciała.
 
 ## Absurd jako metoda
-Fabuła kryminalna jest tu wyłącznie pretekstem. Właściwą treścią są sceny poboczne: rozmowy w instytucjach, absurdalne przepisy, usługi, których nie da się wyegzekwować, i ludzie mówiący językiem urzędowych formułek.
+Fabuła kryminalna jest wyłącznie pretekstem. Właściwą treścią są sceny poboczne: rozmowy w instytucjach, przepisy, których nie da się spełnić, usługi, których nie da się wyegzekwować, i ludzie mówiący językiem urzędowych formułek zamiast po polsku. Bareja notował te obserwacje z życia i przenosił je na ekran niemal bez przetworzenia.
 
 ## Cenzura
-Bareja poruszał się na granicy tego, co wolno. Jego filmy przechodziły przez cenzurę dlatego, że krytykowały nieudolność jednostek, a nie ustrój – ale widz odczytywał je dokładnie odwrotnie i to przesądziło o ich popularności.
+Jego filmy przechodziły przez kontrolę, bo formalnie krytykowały nieudolność jednostek, a nie ustrój. Widz odczytywał je dokładnie odwrotnie – i to przesądziło o ich popularności. Krytyka tamtych lat traktowała Bareję lekceważąco, jako twórcę komedyjek; oceniono go inaczej dopiero po latach.
 
 ## Duet z Tymem
-Współpraca z Tymem zaowocowała kilka lat później „Misiem” – filmem, który stał się najbardziej rozpoznawalnym obrazem absurdów PRL i źródłem cytatów używanych do dziś.`,
+Współpraca z Tymem doprowadziła cztery lata później do „Misia” – filmu, który stał się najbardziej rozpoznawalnym obrazem absurdów PRL i najobficiej cytowanym polskim scenariuszem w ogóle.
+
+## Znaczenie
+„Brunet wieczorową porą” jest dziś oglądany nie jako kryminał, lecz jako dokument obyczajowy: zapis tego, jak wyglądały i jak brzmiały codzienne sprawy w Polsce połowy lat 70.`,
     trivia: [
       'Wątek kryminalny jest tylko pretekstem – właściwą treścią są sceny poboczne w urzędach i sklepach.',
       'Filmy Barei przechodziły cenzurę jako krytyka nieudolności jednostek, a widzowie czytali je jako krytykę ustroju.',
