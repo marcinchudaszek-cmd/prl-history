@@ -166,7 +166,7 @@ export default function EntryPage({ entryId, onNavigate }: EntryPageProps) {
                 src={entry.image}
                 alt={entry.imageCaption || entry.title}
                 loading="lazy"
-                className="w-full max-h-[26rem] object-cover"
+                className="mx-auto w-auto max-w-full max-h-[30rem] object-contain"
               />
               {entry.imageCaption && (
                 <figcaption className="text-xs text-gray-500 p-3 border-t border-stone-100">

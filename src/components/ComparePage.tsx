@@ -85,7 +85,7 @@ function Column({ e, onNavigate }: { e: Entry; onNavigate: (v: string, id?: stri
           src={e.image}
           alt={e.imageCaption || e.title}
           loading="lazy"
-          className="w-full h-44 object-cover bg-stone-100"
+          className="w-full h-44 object-contain bg-stone-100 p-2"
         />
       )}
       <div className="p-5 flex flex-col flex-1">

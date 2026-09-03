@@ -67,7 +67,7 @@ export default function PressPage({ onNavigate }: PressPageProps) {
             <a href={p.scanUrl} target="_blank" rel="noopener noreferrer" className="block group">
               {p.image ? (
                 <div className="h-48 bg-stone-100 overflow-hidden flex items-center justify-center">
-                  <img src={p.image} alt={`Skan – ${p.title}`} loading="lazy" className="w-full h-full object-cover group-hover:scale-105 transition-transform" />
+                  <img src={p.image} alt={`Skan – ${p.title}`} loading="lazy" className="w-full h-full object-contain p-2 group-hover:scale-105 transition-transform" />
                 </div>
               ) : (
                 <div
