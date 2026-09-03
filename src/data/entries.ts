@@ -13953,19 +13953,19 @@ Kukuczka pozostaje legendą i symbolem polskiego wyczynu górskiego, a jego imi�
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wanda_Rutkiewicz_IPN.jpg?width=800',
     imageCaption: 'Wanda Rutkiewicz',
     content: `## Sylwetka
-Wanda Rutkiewicz (1943–1992) była najwybitniejszą polską himalaistką i jedną z najlepszych na świecie. Łączyła determinację, talent organizacyjny i niezłomność w dążeniu do celu.
+Wanda Rutkiewicz (1943–1992) była najwybitniejszą polską himalaistką i jedną z najlepszych na świecie. Z wykształcenia inżynier elektronik, do gór trafiła przez wspinaczkę skałkową, a w Himalajach wyróżniała się nie tylko formą, lecz także talentem organizacyjnym – sama montowała wyprawy, załatwiała sprzęt i dewizy.
 
 ## Mount Everest
-W 1978 roku zdobyła Mount Everest jako pierwsza Polka i trzecia kobieta na świecie – tego samego dnia, w którym wybrano papieża Jana Pawła II, który pogratulował jej tego podwójnego „wejścia na szczyt”.
+16 października 1978 roku weszła na Mount Everest jako pierwsza osoba z Polski, trzecia kobieta na świecie i pierwsza Europejka. Tego samego dnia wybrano Karola Wojtyłę na papieża; podczas późniejszego spotkania Jan Paweł II powiedział jej, że dobry Bóg zechciał, by tego jednego dnia obydwoje znaleźli się tak wysoko.
 
 ## K2
-W 1986 roku jako pierwsza kobieta na świecie stanęła na szczycie K2 – uznawanego za najtrudniejszy ośmiotysięcznik. Organizowała też kobiece wyprawy wysokogórskie.
+23 czerwca 1986 roku jako pierwsza kobieta stanęła na szczycie K2 – uznawanego za najtrudniejszy ośmiotysięcznik. Wyprawa ta była jednocześnie jedną z najtragiczniejszych w historii góry: w tym samym sezonie zginęło trzynaście osób.
 
 ## Karawana do marzeń
-W ostatnich latach realizowała projekt „Karawana do marzeń” – zdobycie kolejnych ośmiotysięczników. Zaginęła w 1992 roku podczas wejścia na Kangczendzongę.
+W ostatnich latach realizowała projekt zdobycia kolejnych ośmiotysięczników w krótkim czasie. Zdobyła ich osiem – więcej niż jakakolwiek kobieta przed nią. Zaginęła w maju 1992 roku podczas wejścia na Kangczendzongę; ciała nigdy nie odnaleziono.
 
 ## Znaczenie
-Wanda Rutkiewicz to ikona himalaizmu i symbol kobiecej siły oraz niezależności, inspiracja dla kolejnych pokoleń wspinaczy.`,
+Organizowała wyprawy wyłącznie kobiece, przełamując przekonanie, że himalaizm wysokogórski jest sportem męskim. Pozostaje ikoną polskiego himalaizmu, obok Kukuczki i Wielickiego, i jedną z najbardziej rozpoznawalnych postaci światowego alpinizmu.`,
     trivia: ['Jako pierwsza Europejka stanęła na szczycie Everestu.', 'Zaginęła w 1992 roku podczas wyprawy na Kanczendzongę.'],
     resources: [
       {
@@ -14075,19 +14075,19 @@ Sukcesy z lat 70. były źródłem ogromnej dumy narodowej i pozostają punktem 
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Poolse_wereldrecordhoudster_Irena_Szewinska_met_landgenoot_Buciarski%2C_Bestanddeelnr_928-0515_%28Szewinska_cropped%29.jpg?width=800',
     imageCaption: 'Irena Szewińska',
     content: `## Sylwetka
-Irena Szewińska (1946–2018), z domu Kirszenstein, była jedną z najwybitniejszych lekkoatletek wszech czasów i najbardziej utytułowaną polską olimpijką.
+Irena Szewińska (1946–2018), z domu Kirszenstein, urodziła się w Leningradzie i była najbardziej utytułowaną polską olimpijką w historii. Startowała na najwyższym poziomie przez szesnaście lat – w epoce, gdy kariera sprinterki trwała zwykle jeden cykl olimpijski.
 
 ## Medale
-W ciągu kariery zdobyła siedem medali olimpijskich (w tym trzy złote) na czterech igrzyskach, od Tokio 1964 po Montreal 1976. Startowała w biegach sprinterskich i skoku w dal.
+Zdobyła siedem medali olimpijskich na pięciu igrzyskach, od Tokio 1964 po Moskwę 1980, w tym trzy złote: w sztafecie 4x100 metrów (1964), na 200 metrów (1968) i na 400 metrów (1976). W Tokio miała osiemnaście lat i wywalczyła również srebro w skoku w dal.
 
 ## Rekordy świata
-Ustanawiała rekordy świata na 100 m, 200 m, 400 m oraz w skoku w dal – była wszechstronną zawodniczką, co czyniło ją wyjątkową w światowej lekkoatletyce.
+Biła rekordy świata na 100, 200 i 400 metrów oraz w sztafecie – wszechstronność w tych trzech dystansach nie miała wtedy odpowiednika. W 1974 roku jako pierwsza kobieta przebiegła 400 metrów poniżej pięćdziesięciu sekund.
 
 ## Montreal 1976
-Na igrzyskach w Montrealu zdobyła złoto na 400 m, ustanawiając rekord świata i pieczętując status legendy. Jej dominacja na tym dystansie była bezdyskusyjna.
+Bieg na 400 metrów wygrała z przewagą kilku metrów i rekordem świata 49,28 – jednym z najdłużej cytowanych wyników w historii polskiej lekkoatletyki. Miała wtedy trzydzieści lat i dwoje dzieci.
 
 ## Znaczenie
-Po zakończeniu kariery działała w międzynarodowych organizacjach sportowych. Pozostaje symbolem polskiego sportu i jedną z najwybitniejszych postaci w historii światowej lekkoatletyki.`,
+Po zakończeniu kariery działała w Międzynarodowym Komitecie Olimpijskim i władzach światowej lekkoatletyki. Pozostaje najwybitniejszą polską lekkoatletką i jedną z najważniejszych postaci w historii tej dyscypliny na świecie.`,
     trivia: ['Zdobywała medale olimpijskie na czterech kolejnych igrzyskach.', 'Startowała zarówno w sprincie, jak i w skoku w dal.'],
     resources: [
       {
@@ -14639,19 +14639,19 @@ Po 1989 roku był ambasadorem w Austrii i dwukrotnie ministrem spraw zagraniczny
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Z_Jerzym_Giedroyciem_%2C_Maisons_-_Laffitte_1999_%28cropped%29.jpg?width=800',
     imageCaption: 'Jerzy Giedroyc',
     content: `## Sylwetka
-Jerzy Giedroyc (1906–2000) był redaktorem i wydawcą, twórcą Instytutu Literackiego i miesięcznika „Kultura”, wydawanego pod Paryżem (Maisons-Laffitte) od 1947 roku.
+Jerzy Giedroyc (1906–2000) był redaktorem i wydawcą, twórcą Instytutu Literackiego, założonego w 1946 roku w Rzymie i przeniesionego rok później pod Paryż, do Maisons-Laffitte. Stamtąd przez pół wieku redagował miesięcznik „Kultura”, nie wracając do Polski ani razu.
 
 ## „Kultura” paryska
-„Kultura” stała się najważniejszym pismem polskiej emigracji – łączyła wybitnych pisarzy (Miłosz, Gombrowicz, Herling-Grudziński) z odważną refleksją polityczną, docierając nielegalnie do kraju.
+Pismo, wydane w 637 numerach, było najważniejszym forum polskiej emigracji. Publikowali w nim Miłosz, Gombrowicz, Herling-Grudziński i Mrożek; to Instytut Literacki wydał „Zniewolony umysł” i „Dziennik” Gombrowicza. Egzemplarze przemycano do kraju i przepisywano, a posiadanie ich groziło konsekwencjami.
 
 ## Doktryna ULB
-Giedroyc lansował koncepcję pojednania z Ukrainą, Litwą i Białorusią oraz uznania granic wschodnich – wizjonerską myśl, która wpłynęła na polską politykę po 1989 roku.
+Razem z Juliuszem Mieroszewskim sformułował koncepcję, według której warunkiem bezpieczeństwa Polski jest niepodległa Ukraina, Litwa i Białoruś, a granic wschodnich nie należy kwestionować. W latach 50., wśród emigracji marzącej o powrocie Lwowa i Wilna, była to teza skandaliczna; po 1989 roku stała się fundamentem polskiej polityki wschodniej.
 
 ## Most do kraju
-Mimo emigracji Giedroyc utrzymywał kontakt z opozycją w PRL, wspierał drugi obieg i publikował autorów krajowych, budując pomost między emigracją a krajem.
+Utrzymywał kontakty z opozycją, przesyłał książki i sprzęt poligraficzny, publikował autorów krajowych pod pseudonimami i wydawał „Zeszyty Historyczne”, dokumentujące tematy objęte w PRL zakazem.
 
 ## Znaczenie
-Uznawany za jednego z najważniejszych Polaków XX wieku, ukształtował niezależną myśl polityczną i kulturę poza zasięgiem cenzury.`,
+Był redaktorem w najściślejszym sensie: nie pisał, lecz decydował, co się ukaże, i przez pięćdziesiąt lat kształtował niezależną polską myśl polityczną poza zasięgiem cenzury.`,
     trivia: ['Redagował paryską „Kulturę” przez ponad pół wieku.', 'Sformułował program pojednania Polski z Ukrainą, Litwą i Białorusią.'],
     resources: [
       {
@@ -15992,19 +15992,19 @@ Z okazji święta ogłaszano amnestie, obejmujące niekiedy więźniów politycz
     yearEnd: 1984,
     summary: 'Eksperymentalny teatr Jerzego Grotowskiego, twórcy koncepcji „teatru ubogiego”, który zdobył światową sławę i zrewolucjonizował myślenie o sztuce aktorskiej.',
     content: `## Powstanie
-Teatr Laboratorium założył Jerzy Grotowski w 1959 roku w Opolu, a w 1965 roku przeniósł go do Wrocławia. Stał się jednym z najsłynniejszych teatrów eksperymentalnych świata.
+Jerzy Grotowski objął w 1959 roku Teatr 13 Rzędów w Opolu – małą scenę, którą przekształcił w laboratorium pracy nad aktorem. W 1965 roku zespół przeniósł się do Wrocławia jako Teatr Laboratorium i stamtąd zdobył światową sławę.
 
 ## Teatr ubogi
-Grotowski sformułował ideę „teatru ubogiego” – rezygnacji z dekoracji, kostiumów i efektów na rzecz skupienia na aktorze i jego relacji z widzem. Liczył się akt obecności, nie scenografia.
+Grotowski odrzucił dekoracje, kostiumy, muzykę i efekty, uznając je za protezy. Zostawił to, czego teatr nie może pożyczyć od filmu ani telewizji: żywego aktora i obecnego widza w tej samej przestrzeni. Widownia liczyła kilkadziesiąt osób i była każdorazowo wkomponowana w układ przedstawienia.
 
 ## Metoda
-Aktorzy poddawani byli intensywnemu treningowi fizycznemu i psychicznemu. Spektakle jak „Książę Niezłomny” czy „Apocalypsis cum figuris” stały się legendą światowego teatru.
+Aktorzy przechodzili wieloletni trening fizyczny i głosowy zmierzający do „aktu całkowitego” – gry bez zasłon i bez techniki obronnej. Rola Ryszarda Cieślaka w „Księciu Niezłomnym” (1965) uchodzi za najsłynniejsze osiągnięcie aktorskie tego teatru. „Apocalypsis cum figuris” (1968) zamknęło okres spektakli.
 
-## Wpływ
-Koncepcje Grotowskiego wpłynęły na teatr na całym świecie – jego pisma, zwłaszcza „Ku teatrowi ubogiemu”, są fundamentem współczesnej refleksji o sztuce aktorskiej.
+## Poza teatrem
+Od lat 70. Grotowski porzucił przedstawienia na rzecz parateatru i „teatru źródeł” – działań warsztatowych bez podziału na scenę i widownię. W 1982 roku wyjechał z Polski i pracował dalej we Włoszech, gdzie zmarł w 1999 roku.
 
 ## Znaczenie
-Mimo realiów PRL Grotowski stworzył dzieło o światowym znaczeniu, czyniąc Polskę jednym z centrów teatralnej awangardy XX wieku.`,
+„Ku teatrowi ubogiemu” przetłumaczono na kilkadziesiąt języków i wykłada się je w szkołach teatralnych na całym świecie. Grotowski uczynił Polskę jednym z centrów teatralnej awangardy XX wieku – z Wrocławia, w państwie z zamkniętymi granicami.`,
     trivia: ['Jerzy Grotowski stworzył koncepcję „teatru ubogiego”.', 'Jego Teatr Laboratorium zdobył światową sławę.'],
     resources: [
       {
@@ -17137,19 +17137,19 @@ Kantor zdobył światowe uznanie, prezentując spektakle na całym świecie. Poz
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zdzis%C5%82aw_Beksi%C5%84ski_i_Piotr_Dmochowski_%2828.06.2003%29_%28cropped%29.jpg?width=800',
     imageCaption: 'Zdzisław Beksiński',
     content: `## Sylwetka
-Zdzisław Beksiński (1929–2005), pochodzący z Sanoka, był malarzem, rysownikiem i fotografem o niezwykłej, mrocznej wyobraźni, jednym z najbardziej oryginalnych polskich artystów XX wieku.
+Zdzisław Beksiński (1929–2005) pochodził z Sanoka, skończył architekturę w Krakowie i przez lata pracował w przedsiębiorstwie budowlanym, malując po godzinach. Zaczynał od fotografii i rzeźby z materiałów odpadowych; w latach 60. przeszedł do malarstwa, które przyniosło mu rozpoznawalność.
 
 ## Okres fantastyczny
-Najsłynniejszy jest jego „okres fantastyczny” (od lat 70.) – monumentalne, oniryczne i niepokojące wizje rozpadu, śmierci i apokaliptycznych krajobrazów, malowane z drobiazgową precyzją.
+Od lat 70. tworzył obrazy, z których jest znany: monumentalne, oniryczne wizje rozpadu, martwych krajobrazów i postaci na granicy człowieka i szczątku, malowane z drobiazgową, niemal ilustratorską precyzją. Sam podkreślał, że nie mają znaczenia symbolicznego i że nie należy ich odczytywać.
 
 ## Filozofia twórczości
-Beksiński unikał tytułów i interpretacji, twierdząc, że obrazy mają „znaczyć nic”. Tworzył w izolacji, z pasją dokumentując własne dzieła fotografią.
+Nie tytułował obrazów, nie komentował ich i niechętnie udzielał wywiadów. Część prac zniszczył sam, paląc je na podwórku. Dokumentował za to własną twórczość i życie – zdjęciami, a później nagraniami wideo, obsesyjnie i systematycznie.
 
 ## Uznanie
-W realiach PRL jego sztuka, daleka od socrealizmu i polityki, zyskała popularność, a po latach – międzynarodową sławę, m.in. dzięki wystawom i kolekcji w Sanoku.
+Jego malarstwo, całkowicie obojętne wobec polityki, nie kolidowało z żadną doktryną i mogło być wystawiane. W latach 80. i 90. sprzedawał obrazy przez galerię Piotra Dmochowskiego w Paryżu, co dało mu międzynarodową publiczność i niezależność finansową.
 
-## Znaczenie
-Beksiński to fenomen polskiej sztuki – artysta osobny, którego wizyjne malarstwo do dziś fascynuje widzów na całym świecie.`,
+## Zakończenie
+Jego syn Tomasz, znany radiowiec i tłumacz, odebrał sobie życie w 1999 roku. Sam Beksiński został zamordowany w swoim mieszkaniu w 2005 roku przez nastoletniego znajomego rodziny. Największa kolekcja jego prac znajduje się w Muzeum Historycznym w Sanoku.`,
     trivia: ['Nie nadawał tytułów swoim obrazom, by nie narzucać interpretacji.', 'Zginął zamordowany w 2005 roku.'],
     resources: [
       {
@@ -27749,16 +27749,19 @@ Filipinki pokazały, że popularna muzyka młodzieżowa może w PRL powstać poz
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Modelska%20Kobiela%20Cz%C5%82owiek%20z%20M-3%20%28cropped%29.jpg?width=800',
     imageCaption: 'Bogumił Kobiela – aktor komediowy i charakterystyczny.',
     content: `## Aktor
-Bogumił Kobiela (1931–1969) uchodzi za najwybitniejszego polskiego aktora tragikomicznego. Należał do pokolenia polskiej szkoły filmowej i był bliskim przyjacielem Zbigniewa Cybulskiego, z którym współtworzył gdański teatr Bim-Bom.
+Bogumił Kobiela (1931–1969) uchodzi za najwybitniejszego polskiego aktora tragikomicznego. Należał do pokolenia polskiej szkoły filmowej i był bliskim przyjacielem Zbigniewa Cybulskiego, z którym w Gdańsku współtworzył studencki teatrzyk Bim-Bom.
 
 ## Sposób grania
-Potrafił w jednej scenie przejść od komizmu do dramatu bez zmiany tonu. Jego postacie – urzędnicy, cwaniaczki, ludzie przeciętni – były śmieszne i przejmujące jednocześnie, co czyniło je bliższymi widzowi niż role heroiczne.
+Potrafił w jednej scenie przejść od komizmu do dramatu bez zmiany tonu. Jego postacie – urzędnicy, cwaniaczki, ludzie przeciętni – były śmieszne i przejmujące jednocześnie, przez co bliższe widzowi niż role heroiczne, w jakich obsadzano jego rówieśników.
 
 ## Role
-Zagrał m.in. w „Popiele i diamencie” i „Zezowatym szczęściu”, gdzie jako Jan Piszczyk stworzył postać człowieka, któremu wszystko wychodzi odwrotnie – jedną z najbardziej rozpoznawalnych w polskim kinie.
+Zagrał w „Popiele i diamencie” Wajdy, w „Zezowatym szczęściu” Andrzeja Munka (1960) jako Jan Piszczyk – człowiek, któremu każda epoka i każdy wybór wychodzą odwrotnie – oraz w „Rękopisie znalezionym w Saragossie” i „Wojnie domowej”. Piszczyk stał się typem postaci opisującym polski los dokładniej niż niejeden bohater dramatu.
 
 ## Śmierć
-Zginął w 1969 roku w wypadku samochodowym, mając trzydzieści osiem lat – dwa lata po śmierci Cybulskiego. Odejście obu aktorów w tak krótkim czasie zamknęło pewien rozdział polskiego kina.`,
+Zginął w lipcu 1969 roku w wyniku obrażeń odniesionych w wypadku samochodowym, mając trzydzieści osiem lat – dwa lata po śmierci Cybulskiego, który zginął pod kołami pociągu.
+
+## Znaczenie
+Odejście obu przyjaciół w tak krótkim czasie zamknęło pewien rozdział polskiego kina. Kobiela pozostaje aktorem, do którego porównuje się każdego następnego mistrza roli tragikomicznej.`,
     trivia: [
       'Jako Jan Piszczyk w „Zezowatym szczęściu” stworzył postać człowieka, któremu wszystko wychodzi odwrotnie.',
       'Zginął w wypadku dwa lata po śmierci Zbigniewa Cybulskiego, swojego przyjaciela i partnera z teatru Bim-Bom.',
@@ -29855,16 +29858,19 @@ Wielkanoc była najważniejszym świętem religijnym, a jednocześnie dniem, kt�
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ryszard%20Bugajski.jpg?width=800',
     imageCaption: 'Ryszard Bugajski – reżyser „Przesłuchania”.',
     content: `## Film
-„Przesłuchanie” Ryszarda Bugajskiego powstało w 1982 roku, w pierwszych miesiącach stanu wojennego. Zatrzymano je natychmiast i pokazano publicznie dopiero pod koniec dekady – to najgłośniejszy z półkowników.
+„Przesłuchanie” Ryszarda Bugajskiego powstało w 1982 roku, w pierwszych miesiącach stanu wojennego, i zostało zatrzymane natychmiast po ukończeniu. Publicznie pokazano je dopiero pod koniec dekady – to najgłośniejszy z „półkowników”.
 
 ## Fabuła
-Piosenkarka Antonina Dziwisz, grana przez Krystynę Jandę, zostaje bez powodu aresztowana przez Urząd Bezpieczeństwa. Ma zeznawać przeciw znajomemu, o którym nic nie wie. Cały film to śledztwo prowadzone w celi i pokoju przesłuchań.
+Piosenkarka Antonina Dziwisz, grana przez Krystynę Jandę, zostaje bez powodu aresztowana przez Urząd Bezpieczeństwa. Ma zeznawać przeciw znajomemu, o którym nic nie wie. Cały film rozgrywa się w celi i pokoju przesłuchań; oficera prowadzącego sprawę zagrał Adam Ferency.
 
 ## Metoda
-Bugajski pokazał aparat represji bez publicystyki: przez rutynę, znużenie funkcjonariuszy, powtarzalność pytań i fizyczne wyniszczanie więźnia. Właśnie ta zwyczajność przemocy czyni film trudnym do zniesienia.
+Bugajski pokazał aparat represji bez publicystyki: przez rutynę, znużenie funkcjonariuszy, powtarzalność pytań i powolne fizyczne wyniszczanie więźnia. Właśnie ta zwyczajność przemocy, pozbawiona demonicznych ujęć i muzyki, czyni film trudnym do zniesienia.
 
 ## Drugi obieg
-Zanim doszło do oficjalnej premiery, kopie krążyły nielegalnie na kasetach wideo. Rola Jandy została nagrodzona w Cannes. Film pozostaje najmocniejszym polskim obrazem stalinowskich metod śledczych.`,
+Zanim doszło do oficjalnej premiery, kopie krążyły nielegalnie na kasetach wideo – w drugiej połowie lat 80. magnetowid stał się narzędziem obiegu niezależnego na równi z powielaczem. Bugajski, pozbawiony możliwości pracy, wyemigrował w 1985 roku do Kanady.
+
+## Znaczenie
+Po oficjalnym pokazie film trafił do Cannes, gdzie Krystyna Janda otrzymała nagrodę dla najlepszej aktorki. Pozostaje najmocniejszym polskim obrazem stalinowskich metod śledczych.`,
     trivia: [
       'Kopie filmu krążyły w drugim obiegu na kasetach wideo, zanim doszło do oficjalnej premiery.',
       'Za rolę w tym filmie Krystyna Janda otrzymała nagrodę aktorską w Cannes.',
@@ -29979,16 +29985,19 @@ Większość zatrzymanych tytułów pokazano dopiero w drugiej połowie lat 80.,
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Janusz%20zaorski.jpg?width=800',
     imageCaption: 'Janusz Zaorski – reżyser „Matki Królów”.',
     content: `## Film z półki
-„Matka Królów” Janusza Zaorskiego powstała w 1982 roku na podstawie powieści Kazimierza Brandysa. Władze zatrzymały film na pięć lat – na ekrany wszedł dopiero w 1987 roku, gdy cenzura zaczęła słabnąć.
+„Matka Królów” Janusza Zaorskiego powstała w 1982 roku na podstawie powieści Kazimierza Brandysa z 1957 roku. Władze zatrzymały film na pięć lat – na ekrany wszedł w 1987 roku, gdy cenzura zaczęła słabnąć, i od razu został wysłany na festiwal do Berlina, gdzie zdobył Srebrnego Niedźwiedzia.
 
 ## Fabuła
-To historia matki i jej synów rozgrywająca się od lat 30. przez okupację po stalinizm. Film pokazuje, jak system pochłania kolejnych ludzi – w tym tych, którzy w niego uwierzyli.
+To historia Łucji Król, praczki samotnie wychowującej czterech synów, prowadzona od lat 30., przez okupację, aż po stalinizm. Kolejni synowie giną albo zostają zniszczeni przez system – w tym ten, który w niego uwierzył i zrobił w nim karierę.
+
+## Co pokazuje
+Film opisuje mechanizm, w którym rewolucja pożera ludzi wierzących w nią najgoręcej, a matka zostaje sama, nie rozumiejąc, dlaczego. Rola Magdy Teresy Wójcik należy do najmocniejszych kreacji kobiecych w polskim kinie.
 
 ## Półkownicy
-Filmy zatrzymywane przez cenzurę nazywano żartobliwie półkownikami, od półki, na której leżały. Po 1981 roku trafiło tam kilkanaście tytułów, a ich uwolnienie w drugiej połowie lat 80. samo w sobie było sygnałem, że system traci pewność siebie.
+Filmy zatrzymywane przez cenzurę nazywano żartobliwie półkownikami – od półki, na której leżały. Po 1981 roku trafiło tam kilkanaście tytułów, a ich stopniowe uwalnianie w drugiej połowie lat 80. samo w sobie było sygnałem, że system traci pewność siebie.
 
 ## Znaczenie
-Film należy do najostrzejszych rozliczeń ze stalinizmem, jakie powstały w PRL. To, że w ogóle go zrealizowano w 1982 roku, mówi o istnieniu w kinematografii przestrzeni, której władza nie zdołała do końca zamknąć.`,
+Należy do najostrzejszych rozliczeń ze stalinizmem, jakie powstały w PRL. To, że w ogóle zrealizowano go w 1982 roku, mówi o istnieniu w kinematografii przestrzeni, której władza nie zdołała do końca zamknąć.`,
     trivia: [
       'Film leżał na półce pięć lat – nakręcony w 1982 roku, pokazany w 1987.',
       'Zatrzymane przez cenzurę filmy nazywano żartobliwie półkownikami.',
@@ -32756,16 +32765,19 @@ Prasa PRL miała wyraźną hierarchię: organy centralne partii wykładały lini
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wywiad_-_S%C5%82owo_Powszechne_16.03.1989.jpg?width=800',
     imageCaption: 'Kolumna „Słowa Powszechnego” z 16 marca 1989 roku',
     content: `## Ewenement
-„Słowo Powszechne” było jedynym w krajach socjalistycznych codziennym pismem katolickim o zasięgu ogólnokrajowym. Wychodziło od 1947 roku i przetrwało do 1997.
+„Słowo Powszechne” było jedynym w bloku wschodnim codziennym pismem katolickim o zasięgu ogólnokrajowym. Ukazywało się od 1947 roku i przetrwało pół wieku, do 1997 – dłużej niż system, w którym powstało.
 
 ## Kto je wydawał
-Gazetę prowadziło środowisko Bolesława Piaseckiego, późniejsze Stowarzyszenie PAX. To wyjaśnia paradoks jej istnienia: dziennik katolicki mógł się ukazywać dlatego, że reprezentował nurt akceptujący ustrój, a nie niezależny Kościół.
+Gazetę prowadziło środowisko Bolesława Piaseckiego, przedwojennego działacza nacjonalistycznego, późniejsze Stowarzyszenie PAX. To wyjaśnia paradoks jej istnienia: dziennik katolicki mógł wychodzić dlatego, że reprezentował nurt akceptujący ustrój, a nie niezależny Kościół.
 
 ## Rola
-Dla władz pismo było dowodem rzekomej swobody wyznaniowej i narzędziem wpływu na katolików. Dla hierarchii kościelnej – przedsięwzięciem podejrzanym, konkurencyjnym wobec prasy diecezjalnej i wobec „Tygodnika Powszechnego”, który za odmowę druku nekrologu Stalina zamknięto w 1953 roku.
+Dla władz pismo było dowodem rzekomej swobody wyznaniowej – pokazywanym zagranicznym delegacjom – i narzędziem wpływu na katolików. PAX dysponował przy tym własnym wydawnictwem, zakładami produkcyjnymi i przydziałem papieru, o jakim inne redakcje mogły tylko marzyć.
 
 ## Dwie prasy katolickie
-Zestawienie obu tytułów pokazuje mechanizm dokładnie: pismo niezależne można było zamknąć, pismo koncesjonowane wychodziło codziennie przez pół wieku.`,
+Zestawienie ze „Słowem Powszechnym” pokazuje mechanizm najdokładniej: „Tygodnik Powszechny” za odmowę wydrukowania nekrologu Stalina zamknięto w 1953 roku i na trzy lata oddano właśnie PAX-owi. Pismo niezależne dało się zlikwidować jednym pismem urzędowym; pismo koncesjonowane wychodziło codziennie przez pięćdziesiąt lat.
+
+## Znaczenie
+Historia dziennika jest przykładem tego, jak PRL budował fasadowy pluralizm: nie zakazując wszystkiego, lecz tworząc kontrolowane odpowiedniki instytucji, których nie mógł znieść.`,
     trivia: [
       'Był to jedyny ogólnokrajowy dziennik katolicki w całym bloku wschodnim.',
       'Wychodził codziennie przez pół wieku, podczas gdy niezależny „Tygodnik Powszechny” zamknięto w 1953 roku.',
