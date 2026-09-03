@@ -6331,6 +6331,8 @@ Pogrom kielecki przyspieszyć masową emigrację polskich Żydów na Zachód i d
     yearStart: 1972,
     yearEnd: 1989,
     summary: 'Pewex i Baltona – sklepy z towarami zachodnimi sprzedawanymi wyłącznie za dewizy lub bony – były osobliwością PRL. Dolar i marka zachodnioniemiecka były prawdziwą walutą; sklepy oferowały Marlboro, dżinsy, whisky i elektronikę niedostępną w zwykłej sieci.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pewex_w_Mo%C5%84kach_%28Kolejowa%29.jpg?width=800',
+    imageCaption: 'Dawny pawilon Pewexu w Mońkach (fot. współczesna)',
     trivia: ['W Pewexie płaciło się walutą wymienialną lub bonami towarowymi – nie złotówkami.', 'Dżinsy, coca-cola, guma Donald i zachodnia elektronika były symbolami „lepszego świata”.'],
     content: `## Geneza – dewizy dla państwa
 
@@ -7008,6 +7010,8 @@ Lata 80. przyniosły pewną liberalizację mody: krakowskie bazary, "ciucholandy
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'Kuchnia PRL-owska kształtowała się między tradycją kulinarną a realiami niedoboru. Kotlet schabowy, bigos, flaczki i żurek stały się symbolami epoki. Bary mleczne karmiły tysiące za grosze. Niedobory mięsa i kartki wyzwoliły kreatywność kulinarną Polaków.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Opole%2C_bar_mleczny_Kubu%C5%9B%2C_wn%C4%99trze_01.jpg?width=800',
+    imageCaption: 'Wnętrze baru mlecznego „Kubuś” w Opolu, jednego z nielicznych działających do dziś',
     content: `## Niedobór jako kulinarny kontekst
 
 Kuchnia PRL rozwijała się w warunkach chronicznego niedoboru. Mięso było towarem reglamentowanym lub trudno dostępnym; w kolejkach stano po kiełbasę i szynkę od świtu. Polki nauczyły się zastępować mięso podrobami, gotować "coś z niczego" i maksymalnie wykorzystywać każdy składnik.
@@ -8446,6 +8450,8 @@ Tischner zachorował na raka mózgu i umarł w 2000 r. Jego twórczość – "My
     yearStart: 1957,
     yearEnd: 1989,
     summary: 'Polska animacja PRL należała do najwybitniejszych na świecie. Studio Miniatur Filmowych i Se-ma-for wyprodukowały dziesiątki seriali podziwianych nie tylko w Polsce, ale i na Zachodzie. Bolek i Lolek, Reksio, Miś Uszatek to ikony całego pokolenia.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bielsko-Bia%C5%82a%2C_Studio_Film%C3%B3w_Rysunkowych_-_Centrum_Bajki_i_Animacji_OKO%2C_ekspozycja_sta%C5%82a_01.jpg?width=800',
+    imageCaption: 'Ekspozycja Studia Filmów Rysunkowych w Bielsku-Białej, gdzie powstali Bolek i Lolek oraz Reksio',
     content: `## Narodziny studia
 
 Studio Miniatur Filmowych (SMF) w Warszawie i łódzki Se-ma-for były głównymi wytwórniami polskiej animacji. Powstały w latach 40. i 50. Po 1956 r. zyskały większą artystyczną wolność i rozkwitły twórczo.
@@ -8506,6 +8512,8 @@ Obok animacji dziecięcej polska szkoła tworzyła filmy dla dorosłych – kró
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'Polskie Radio w PRL było monopolistycznym medium państwowym – narzędziem propagandy i zarazem platformą wybitnej kultury. Trójka stała się oazą wolniejszej myśli, a słuchowiska radiowe osiągnęły artystyczny poziom nieznany w innych krajach bloku.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Radio_Szarotka-front.jpg?width=800',
+    imageCaption: 'Odbiornik „Szarotka” – popularne radio tranzystorowe produkcji krajowej',
     content: `## Radio jako narzędzie władzy
 
 Polskie Radio zostało upaństwowione i w pełni podporządkowane PZPR po 1944 r. Programy informacyjne i publicystyczne były pod ścisłą kontrolą cenzury – "Dziennik" radiowy powielał wersję wydarzeń zgodną z linią partii. Radiostacje lokalne nadawały z ośrodków wojewódzkich, wszystkie pod nadzorem centrali.
@@ -9439,6 +9447,8 @@ Anna German jest czczona do dziś zarówno w Polsce, jak i w Rosji, na Ukrainie 
     yearStart: 1948,
     yearEnd: 1957,
     summary: 'Związek Młodzieży Polskiej (1948–1957) – masowa organizacja komunistyczna wzorowana na radzieckim Komsomolu. Skupiała ponad milion członków, prowadziła indoktrynację ideologiczną w szkołach i zakładach pracy, organizowała brygady młodzieżowe przy budowie Nowej Huty i MDM. Rozwiązana po Październiku 1956.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Brulion_ZMP_ok%C5%82adka_przednia_01.jpg?width=800',
+    imageCaption: 'Okładka szkolnego brulionu z symboliką Związku Młodzieży Polskiej',
     content: `Związek Młodzieży Polskiej (ZMP) – organizacja komunistyczna powołana w 1948 roku jako masowe zrzeszenie młodzieży, będące głównym instrumentem ideologicznej formacji młodego pokolenia.
 
 **Powstanie i struktura**
@@ -10421,6 +10431,8 @@ Po 1956 roku, w wyniku odwilży październikowej, część więźniów polityczn
     yearStart: 1944,
     yearEnd: 1989,
     shortDesc: 'Pomniki bohaterów radzieckich, monumenty partyjne i socrealistyczna architektura jako narzędzie ideologii.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Legnica%2C_pomnik_wdzi%C4%99czno%C5%9Bci_dla_Armii_Radzieckiej02.JPG?width=800',
+    imageCaption: 'Pomnik wdzięczności dla Armii Radzieckiej w Legnicy',
     content: `## Pomniki i symbolika PRL
 
 Przestrzeń publiczna w Polsce Ludowej była celowo kształtowana przez ideologię – pomniki, nazwy ulic, architektura i symbolika miały tworzyć wizualną narrację triumfu socjalizmu. To, co widziało się codziennie, miało wzmacniać lojalność wobec systemu.
@@ -10491,6 +10503,8 @@ Walka o przestrzeń symboliczną – kto jest patronem ulic i placów – trwa w
     yearStart: 1944,
     yearEnd: 1989,
     shortDesc: 'Wczasy FWP, obozy harcerskie i marzenia o morzu – turystyka jako przywilej i element polityki społecznej.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2015_Schronisko_PTTK_%E2%80%9EJagodna%E2%80%9D_01.JPG?width=800',
+    imageCaption: 'Schronisko PTTK „Jagodna” w Górach Bystrzyckich (fot. współczesna)',
     content: `## Turystyka i wczasy w PRL
 
 Wyjazd na wakacje w PRL był przeżyciem zbiorowym i rytuałem społecznym – od obozów harcerskich i kolonii po wczasy Funduszu Wczasów Pracowniczych nad Bałtykiem. Turystyka zagraniczna była dostępna dla nielicznych uprzywilejowanych.
@@ -10563,6 +10577,8 @@ Harcerskie obozy były dla wielu dzieci najważniejszą przestrzenią wolności 
     yearStart: 1956,
     yearEnd: 1980,
     shortDesc: 'Fale strajków 1956, 1970, 1976 – robotniczy sprzeciw, który torował drogę Solidarności.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/AGAD_foto_operacyjne_dok_zniszczenia_w_Radomiu_po_25_06_f-5.png?width=800',
+    imageCaption: 'Zdjęcie operacyjne dokumentujące zniszczenia w Radomiu po proteście z 25 czerwca 1976',
     content: `## Strajki i opór robotniczy przed 1980
 
 Długa droga do Solidarności wiodła przez trzy wielkie fale robotniczego protestu: 1956 (Poznań), 1970 (Wybrzeże) i 1976 (Radom i Ursus). Każda z tych eksplozji kończyła się krwawo lub represjami – ale każda też zmieniała kraj i kumulowała gotowość do walki.
@@ -10873,6 +10889,8 @@ Pytanie o rozliczenie sprawców sądowych zbrodni komunistycznych pozostaje aktu
     yearStart: 1948,
     yearEnd: 1989,
     shortDesc: 'PWSFTviT w Łodzi – najsłynniejsza szkoła filmowa Europy Środkowej, kuźnia talentów Polskiej Szkoły Filmowej.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Palac_Oskara_Kona_Lodz.jpg?width=800',
+    imageCaption: 'Pałac Oskara Kona w Łodzi – siedziba Szkoły Filmowej',
     content: `## Łódź – szkoła filmowa i miasto kultury
 
 Łódź w czasach PRL była przemysłowym centrum włókienniczym, ale też miejscem, gdzie mieściła się jedna z najważniejszych szkół filmowych na świecie – Państwowa Wyższa Szkoła Filmowa, Telewizyjna i Teatralna (PWSFTviT). To stąd wyszli Wajda, Polański, Kieślowski, Zanussi – i to tu wyrobiły się całe pokolenia polskiego kina.
@@ -12075,6 +12093,8 @@ Bitwa o handel zniszczyła warstwę drobnych przedsiębiorców i kupców, zmieni
     yearStart: 1944,
     yearEnd: 1994,
     summary: 'Praktyczny przewodnik po cyfrowych archiwach z kronikami filmowymi i dokumentami PRL. Zbiera w jednym miejscu sprawdzone, działające źródła – od NINATEKI i Filmoteki Narodowej, przez repozytoria archiwów państwowych, po bazy filmowe i serwisy VOD.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Sergiusz_Sprudin_-_Polska_Kronika_Filmowa_-_Film_nr_12_-_1947-02-15.JPG?width=800',
+    imageCaption: 'Operator Polskiej Kroniki Filmowej Sergiusz Sprudin przy pracy, 1947',
     content: `## NINATEKA – największe archiwum online
 
 NINATEKA prowadzona przez Narodowy Instytut Audiowizualny to najobszerniejszy bezpłatny zbiór Polskiej Kroniki Filmowej, dokumentów i nagrań audio. To pierwszy adres, od którego warto zacząć poszukiwania kronik z całego okresu 1944–1994.
@@ -13766,6 +13786,8 @@ Nurt ten stanowił istotny element kultury niezależnej, kształtując wrażliwo
     yearStart: 1979,
     yearEnd: 1989,
     summary: 'Na przełomie lat 70. i 80. polscy wspinacze zdominowali himalaizm wysokogórski, zdobywając zimą ośmiotysięczniki i zyskując miano „lodowych wojowników”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jerzy_Kukuczka_Mount_Everest_1980.jpg?width=800',
+    imageCaption: 'Jerzy Kukuczka na Mount Evereście, 1980',
     content: `## Fenomen
 Lata 70. i 80. to złota era polskiego himalaizmu. W szarej rzeczywistości PRL góry najwyższe stały się dla wielu Polaków przestrzenią wolności, ambicji i wyczynu na światowym poziomie.
 
@@ -13950,6 +13972,8 @@ Organizowała wyprawy wyłącznie kobiece, przełamując przekonanie, że himala
     yearStart: 1972,
     yearEnd: 1976,
     summary: 'Złota era polskiej piłki nożnej pod wodzą Kazimierza Górskiego: złoto olimpijskie 1972 i trzecie miejsce na mundialu w 1974 roku.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz_Deyna.jpg?width=800',
+    imageCaption: 'Kazimierz Deyna, rozgrywający drużyny Kazimierza Górskiego',
     trivia: ['Półfinał z RFN rozegrano na zalanym deszczem boisku – przeszedł do historii jako „mecz na wodzie”.', 'Grzegorz Lato został królem strzelców mistrzostw z siedmioma golami.', 'Bramkarza Jana Tomaszewskiego angielska prasa nazwała „clownem” – po czym obronił Anglii awans.'],
     content: `## Kazimierz Górski
 Kazimierz Górski jako selekcjoner reprezentacji Polski stworzył najlepszą drużynę w historii polskiego futbolu. Jego słowa „Piłka jest okrągła, a bramki są dwie” weszły do języka potocznego.
@@ -16197,6 +16221,8 @@ W sierpniu 1980 roku huta stała się jednym z głównych ośrodków strajkowych
     yearStart: 1952,
     yearEnd: 1989,
     summary: 'Wielkie domy towarowe (CDT, „Centrum”) i pierwszy samoobsługowy Supersam były wizytówkami handlu PRL, mimo chronicznych braków towarów.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/SuperSam_Warszawa_1969.jpg?width=800',
+    imageCaption: 'Supersam na placu Unii Lubelskiej w Warszawie, 1969',
     content: `## Wizytówki handlu
 Domy towarowe – warszawski CDT (później „Smyk”), domy „Centrum”, sieć „Sezam” – były dumą socjalistycznego handlu, nowoczesnymi gmachami w centrach miast.
 
@@ -16812,6 +16838,8 @@ Przez lata wykładał w łódzkiej Szkole Filmowej, której był potem rektorem.
     yearStart: 1948,
     yearEnd: 1989,
     summary: 'Boks był jedną z najpopularniejszych i najbardziej utytułowanych dyscyplin PRL, a „polska szkoła boksu” przynosiła medale olimpijskie i mistrzostwa Europy.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jerzy_Kulej_2.jpg?width=800',
+    imageCaption: 'Jerzy Kulej, dwukrotny mistrz olimpijski w boksie',
     content: `## Fenomen
 Pięściarstwo należało do najpopularniejszych sportów PRL. Hale wypełniały się po brzegi, transmisje radiowe słuchano zbiorowo, a sukcesy bokserów były przedmiotem propagandowej chluby – dyscyplina robotnicza, tania w uprawianiu i przynosząca medale.
 
@@ -16880,6 +16908,8 @@ Polska szkoła boksu przyniosła kilkadziesiąt medali olimpijskich i mistrzostw
     yearStart: 1974,
     yearEnd: 1976,
     summary: 'Reprezentacja Polski w siatkówce pod wodzą Huberta „Kata” Wagnera zdobyła mistrzostwo świata 1974 i złoto olimpijskie 1976 – największe sukcesy tej dyscypliny.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wojtowicz_Tomasz.jpg?width=800',
+    imageCaption: 'Tomasz Wójtowicz, atakujący mistrzowskiej drużyny Huberta Wagnera',
     content: `## Sukces
 Polska siatkówka przeżyła złotą erę w połowie lat 70. W 1974 roku reprezentacja zdobyła mistrzostwo świata w Meksyku, a dwa lata później złoty medal igrzysk w Montrealu – jedyne w historii polskiej siatkówki przez następne dekady.
 
@@ -19331,6 +19361,8 @@ Komiks PRL powstawał w warunkach niedoboru papieru, kiepskiego druku i kontroli
     yearStart: 1947,
     yearEnd: 1989,
     summary: 'Prorządowe stowarzyszenie katolików świeckich kierowane przez Bolesława Piaseckiego, wykorzystywane przez władze do rozbijania jedności Kościoła.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Boles%C5%82aw_Piasecki.jpg?width=800',
+    imageCaption: 'Bolesław Piasecki, przywódca Stowarzyszenia PAX',
     content: `## Geneza
 Stowarzyszenie PAX zbudował Bolesław Piasecki – przed wojną przywódca skrajnie nacjonalistycznej Falangi, aresztowany w 1944 roku przez NKWD i zwolniony po rozmowach z gen. Iwanem Sierowem. Od 1947 roku środowisko wydawało dziennik „Słowo Powszechne”.
 
@@ -19623,6 +19655,8 @@ Jego proza jest dziś czytana jako najcelniejszy zapis późnego PRL: państwa z
     yearStart: 1952,
     yearEnd: 1989,
     summary: 'Parlament Polski Ludowej, formalnie najwyższy organ władzy, w praktyce fasadowy – zatwierdzający decyzje PZPR niemal jednomyślnie.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Warszawa_ul._Wiejska_Sejm_i_Senat_Sala_Posiedze%C5%84_Sejmu.jpg?width=800',
+    imageCaption: 'Sala posiedzeń Sejmu przy ulicy Wiejskiej (fot. współczesna)',
     content: `## Pozycja ustrojowa
 Konstytucja z 1952 roku czyniła Sejm najwyższym organem władzy państwowej. W praktyce nie był miejscem stanowienia polityki: uchwalał ustawy przygotowane gdzie indziej, a kierunek wyznaczało Biuro Polityczne PZPR.
 
@@ -20468,6 +20502,8 @@ Dziesięć lat później stocznia znów była jednym z głównych ośrodków str
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Sieć domów kultury, świetlic i klubów – masowa infrastruktura upowszechniania kultury, łącząca realną ofertę zajęć z funkcją ideologiczną.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Miejski_O%C5%9Brodek_Kultury_w_%C5%BBorach_1.JPG?width=800',
+    imageCaption: 'Miejski Ośrodek Kultury w Żorach – typowa placówka z czasów PRL (fot. współczesna)',
     content: `## Powszechna sieć
 W PRL zbudowano gęstą sieć instytucji upowszechniania kultury: domy kultury, świetlice, kluby zakładowe, wiejskie i osiedlowe oraz kluby „Ruch”. Dom kultury stawiano razem z osiedlem albo fabryką i traktowano jak element wyposażenia miejscowości, na równi ze szkołą i przychodnią.
 
@@ -21301,6 +21337,8 @@ Czarny album jest dziś wymieniany wśród najważniejszych polskich płyt w og�
     yearStart: 1982,
     yearEnd: 1982,
     summary: 'Reprezentacja Polski po raz drugi zajęła 3. miejsce na mistrzostwach świata (Hiszpania 1982), z Zbigniewem Bońkiem jako gwiazdą turnieju.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Boniek_Zbigniew.jpg?width=800',
+    imageCaption: 'Zbigniew Boniek, najlepszy zawodnik polskiej drużyny na mundialu 1982',
     content: `## Powtórka sukcesu
 Na mistrzostwach świata w Hiszpanii reprezentacja Polski pod wodzą Antoniego Piechniczka powtórzyła wynik z 1974 roku i zajęła trzecie miejsce. Kadra jechała na turniej bez wielkich oczekiwań – krajowa liga była w rozsypce, a wielu zawodników grało już za granicą.
 
@@ -22948,6 +22986,8 @@ Krawczyk był wykonawcą traktowanym przez krytykę z dystansem, a przez publicz
     yearStart: 1968,
     yearEnd: 1989,
     summary: 'Festiwal piosenki wojskowej i patriotycznej w Kołobrzegu – jeden z głównych festiwali PRL, silnie zideologizowany i firmowany przez wojsko.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ko%C5%82obrzeg_Amfiteatr_-_14.06.2024_15-57-45.jpg?width=800',
+    imageCaption: 'Amfiteatr w Kołobrzegu, zbudowany na potrzeby Festiwalu Piosenki Żołnierskiej (fot. współczesna)',
     content: `## Festiwal
 Festiwal Piosenki Żołnierskiej w Kołobrzegu organizował Główny Zarząd Polityczny Wojska Polskiego, a odbywał się corocznie od końca lat 60. do początku 90. Kompozytorów i autorów zapraszano według rozdzielnika – repertuar powstawał więc na zamówienie instytucji, a nie z potrzeby twórcy.
 
@@ -29725,6 +29765,8 @@ Jego kariera pokazuje sytuację polskiego aktora tamtych lat: prawdziwie między
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Wielkanoc obchodzono uroczyście mimo oficjalnej ateizacji; ze święconką, wielkanocnym śniadaniem i lanym poniedziałkiem (śmigus-dyngus).',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/%C5%9Awi%C4%99conka.jpg?width=800',
+    imageCaption: 'Święconka – koszyczek wielkanocny',
     content: `## Święto poza kalendarzem państwa
 Wielkanoc była najważniejszym świętem religijnym, a jednocześnie dniem, którego państwo nie obchodziło. Poniedziałek wielkanocny przez większość okresu PRL nie był dniem wolnym od pracy – przywrócono go dopiero w 1981 roku.
 
