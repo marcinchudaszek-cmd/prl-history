@@ -17337,8 +17337,8 @@ Plany zakładały stały wzrost wydobycia, co w latach 70. doprowadziło do prac
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Państwowy przewoźnik lotniczy PRL, łączący Polskę ze światem radzieckimi i (z czasem) zachodnimi samolotami, dla większości obywateli pozostający luksusem.',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/LOT_Polish_Airlines_wordmark.svg?width=800',
-    imageCaption: 'Polskie Linie Lotnicze LOT',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/LOT_Ilyushin_Il-62_SP-LAA_Gilliand.jpg?width=800',
+    imageCaption: 'Ił-62 w barwach LOT-u – flagowy samolot polskich linii od lat 70.',
     content: `## Państwowy przewoźnik
 Polskie Linie Lotnicze LOT, reaktywowane po wojnie, były jedynym przewoźnikiem lotniczym kraju. Flotę tworzyły początkowo samoloty radzieckie (Ił, Tu, An), z czasem także zachodnie.
 
@@ -19361,7 +19361,7 @@ Komiks PRL powstawał w warunkach niedoboru papieru, kiepskiego druku i kontroli
     yearStart: 1947,
     yearEnd: 1989,
     summary: 'Prorządowe stowarzyszenie katolików świeckich kierowane przez Bolesława Piaseckiego, wykorzystywane przez władze do rozbijania jedności Kościoła.',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Boles%C5%82aw_Piasecki.jpg?width=800',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-31684-0002%2C_Boleslaw_Piasecki.jpg?width=800',
     imageCaption: 'Bolesław Piasecki, przywódca Stowarzyszenia PAX',
     content: `## Geneza
 Stowarzyszenie PAX zbudował Bolesław Piasecki – przed wojną przywódca skrajnie nacjonalistycznej Falangi, aresztowany w 1944 roku przez NKWD i zwolniony po rozmowach z gen. Iwanem Sierowem. Od 1947 roku środowisko wydawało dziennik „Słowo Powszechne”.
@@ -21229,8 +21229,8 @@ Bajm nagrał kilkanaście albumów i przetrwał zmianę ustroju bez utraty popul
     yearStart: 1976,
     yearEnd: 1989,
     summary: 'Pionierski zespół muzyki elektronicznej i synthpopu w Polsce, kierowany przez Sławomira Łosowskiego, autor przeboju „Słodkiego miłego życia”.',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kombi_logo.svg?width=800',
-    imageCaption: 'Kombi',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/S%C5%82awomir_%C5%81osowski_%22Kombi%22_..._%2849186856931%29.jpg?width=800',
+    imageCaption: 'Sławomir Łosowski, lider i kompozytor Kombi (fot. współczesna)',
     content: `## Zespół
 Kombi powstało w 1976 roku z przekształcenia zespołu Akcenty, założonego siedem lat wcześniej przez Sławomira Łosowskiego. Grupa pochodziła z Trójmiasta, a Łosowski był jej kompozytorem i klawiszowcem.
 
@@ -21577,8 +21577,8 @@ Zrobiła kariery w trzech kinematografiach naraz – polskiej, europejskiej i am
     yearStart: 1965,
     yearEnd: 1989,
     summary: 'Wybitny poeta pokolenia Nowej Fali, tłumacz i działacz opozycji, współzałożyciel KOR, autor poezji lingwistycznej i przekładów Szekspira.',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw_Bara%C5%84czak.jpg?width=800',
-    imageCaption: 'Stanisław Barańczak',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Anna_and_Stanislaw_Baranczak_by_Kubik_05061995.jpg?width=800',
+    imageCaption: 'Stanisław Barańczak z żoną Anną, 1995',
     content: `## Sylwetka
 Stanisław Barańczak (1946–2014) był poetą, krytykiem, teoretykiem przekładu i tłumaczem, a przez pierwsze lata pracy także wykładowcą poznańskiej polonistyki. Jego biografia dzieli się wyraźnie na dwie części: opozycyjny Poznań lat 70. i amerykańska katedra po 1981 roku.
 
@@ -23155,8 +23155,8 @@ Do kolei należały też dworcowe bary, poczekalnie i kioski, a węzły kolejowe
     yearStart: 1971,
     yearEnd: 1984,
     summary: 'Skrzydłowy złotej reprezentacji, jedyny Polak będący królem strzelców mistrzostw świata (7 goli, RFN 1974).',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Grzegorz%20Lato.jpg?width=800',
-    imageCaption: 'Grzegorz Lato – król strzelców mistrzostw świata 1974.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Grzegorz_Lato_%2828478756371%29_%28cropped%29.jpg?width=800',
+    imageCaption: 'Grzegorz Lato, król strzelców mistrzostw świata 1974 (fot. współczesna)',
     content: `## Piłkarz
 Grzegorz Lato (ur. 1950) grał w reprezentacji Polski w latach 1971–1984 i wystąpił w niej sto razy. Był skrzydłowym o wyjątkowej szybkości, wykorzystywanym do ataków z prawej strony boiska.
 
@@ -23369,8 +23369,8 @@ Trzepak stał się dziś symbolem dzieciństwa całego pokolenia, a zarazem znak
     yearStart: 1970,
     yearEnd: 1989,
     summary: 'Wokalistka jazzowa i estradowa o mocnym głosie, autorka przeboju „Jesteś lekiem na całe zło” i „Psalmu stojących w kolejce”.',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krystyna%20Pro%C5%84ko.jpg?width=800',
-    imageCaption: 'Krystyna Prońko – wokalistka jazzowa i estradowa.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krystyna_Pro%C5%84ko_%289223675626%29.jpg?width=800',
+    imageCaption: 'Krystyna Prońko na koncercie (fot. współczesna)',
     content: `## Wokalistka
 Krystyna Prońko (ur. 1947) jest piosenkarką, wokalistką jazzową i kompozytorką, a od lat 80. także pedagogiem. Jej głos – niski, o dużej skali, prowadzony po jazzowemu – wyróżniał się na polskiej estradzie zdominowanej przez lżejszą piosenkę.
 
@@ -25070,8 +25070,8 @@ Film zdobył Złotą Palmę w Cannes w 1981 roku. Kilka miesięcy później wpro
     yearStart: 1977,
     yearEnd: 1989,
     summary: 'Jedna z najwybitniejszych polskich aktorek; zadebiutowała w „Człowieku z marmuru” (1977), a rolą w „Przesłuchaniu” zdobyła nagrodę w Cannes.',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krystyna%20Janda%20by%20Foksal.jpg?width=800',
-    imageCaption: 'Krystyna Janda – aktorka teatralna i filmowa.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krystyna_Janda_by_Zbigniew_Kresowaty.jpg?width=800',
+    imageCaption: 'Krystyna Janda (fot. współczesna)',
     content: `## Debiut
 Krystyna Janda (ur. 1952) zadebiutowała w kinie główną rolą Agnieszki w „Człowieku z marmuru” Andrzeja Wajdy (1976) – jeszcze jako studentka. Rola nieustępliwej, konfrontacyjnej reżyserki, która wydziera archiwom prawdę o stalinizmie, od razu ustawiła jej pozycję.
 
@@ -26820,8 +26820,8 @@ Obraz zyskał na Zachodzie status kultowy, a jego wielbicielami byli m.in. Jerry
     yearStart: 1956,
     yearEnd: 1989,
     summary: 'Legendarny kabaret literacki założony w 1956 w Krakowie przez Piotra Skrzyneckiego; wylęgarnia wielkich talentów piosenki literackiej.',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Piotr%20Skrzynecki.jpg?width=800',
-    imageCaption: 'Piotr Skrzynecki – twórca i dusza Piwnicy pod Baranami.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pa%C5%82ac_i_Piwnica_pod_Baranami_w_Krakowie%2C_fot._K._Schubert%2C_MIK_2019_%2849424028277%29.jpg?width=800',
+    imageCaption: 'Pałac pod Baranami przy Rynku Głównym w Krakowie, siedziba Piwnicy (fot. współczesna)',
     content: `## Kabaret
 Piwnicę pod Baranami założono w 1956 roku w Krakowie, w podziemiach pałacu przy Rynku Głównym. Powstała w roku Października – w momencie, gdy odwilż otworzyła pole dla inicjatyw spoza oficjalnego obiegu.
 
@@ -29043,8 +29043,8 @@ Kariera Stańki pokazuje, jak wąskim gardłem był w PRL kontakt ze światem: o
     yearStart: 1981,
     yearEnd: 1989,
     summary: 'Trener piłkarski, twórca największego sukcesu lat 80.; poprowadził reprezentację Polski po 3. miejsce na mistrzostwach świata 1982 w Hiszpanii.',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Antoni%20Piechniczek.jpg?width=800',
-    imageCaption: 'Antoni Piechniczek – trener reprezentacji Polski.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Antoni_Piechniczek_VII_kadencja_Kancelaria_Senatu.jpg?width=800',
+    imageCaption: 'Antoni Piechniczek, selekcjoner drużyny z mundialu 1982 (fot. współczesna)',
     content: `## Selekcjoner
 Antoni Piechniczek (ur. 1942) prowadził reprezentację Polski w latach 1981–1986, w okresie dwóch mistrzostw świata. Wcześniej sam grał w ekstraklasie, a szkoleniowcem został po zakończeniu kariery zawodniczej.
 
@@ -29649,8 +29649,8 @@ Razem z „Rejsem” film utrwalił typ polskiego humoru opartego na obserwacji 
     yearStart: 1962,
     yearEnd: 1989,
     summary: 'Wokalistka jazzowa światowej sławy, mistrzyni improwizacji głosem; jej utwór „Papaya” stał się światowym przebojem.',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Urszula%20Dudziak.jpg?width=800',
-    imageCaption: 'Urszula Dudziak – wokalistka jazzowa.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Urszula_Dudziak_2008.jpg?width=800',
+    imageCaption: 'Urszula Dudziak (fot. współczesna)',
     content: `## Głos jako instrument
 Urszula Dudziak (ur. 1943) zbudowała karierę na traktowaniu głosu jak instrumentu: zamiast śpiewać słowa, operuje dźwiękiem, oddechem i szmerem, przepuszczając głos przez efekty elektroniczne. W latach 70. było to rozwiązanie nowatorskie w skali światowej.
 
@@ -30106,8 +30106,8 @@ Służbę rozwiązano w 1990 roku, a na jej miejsce powołano Wojskowe Służby 
     yearStart: 1945,
     yearEnd: 1991,
     summary: 'Formacja pilnująca granic PRL, w praktyce nastawiona bardziej na zatrzymywanie uciekinierów niż na obronę przed najazdem.',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Dowodztwo_wop.png?width=800',
-    imageCaption: 'Budynek dowództwa Wojsk Ochrony Pogranicza',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Border_Protection_Forces_in_Poland%2C_1975-1979_03.jpg?width=800',
+    imageCaption: 'Żołnierze Wojsk Ochrony Pogranicza, druga połowa lat 70.',
     content: `## Zadania
 WOP powołano we wrześniu 1945 roku do ochrony nowo wytyczonych granic państwa. Formacja podlegała kolejno resortowi obrony i resortowi spraw wewnętrznych, co dobrze oddaje jej podwójny charakter – wojskowy z nazwy, policyjny w praktyce.
 
