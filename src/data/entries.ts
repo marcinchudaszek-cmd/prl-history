@@ -16160,7 +16160,7 @@ List 34 był pierwszym zbiorowym wystąpieniem środowisk twórczych w PRL i wzo
     yearEnd: 1989,
     summary: 'Gigantyczny kombinat metalurgiczny w Dąbrowie Górniczej, symbol forsownej industrializacji i prestiżowych, lecz zadłużających kraj inwestycji epoki Gierka.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Katowice_Steelworks_Gate.jpg?width=800',
-    imageCaption: 'Huta Katowice',
+    imageCaption: 'Brama Huty Katowice (fot. współczesna)',
     content: `## Inwestycja dekady
 Budowę kombinatu w Dąbrowie Górniczej rozpoczęto w 1972 roku. Była to największa inwestycja przemysłowa dekady Gierka i jeden z symboli ówczesnej polityki gospodarczej: wielkie zakłady budowane szybko, za kredyty i z importowanym wyposażeniem.
 
@@ -16352,7 +16352,7 @@ To jeden z najlepszych przykładów tego, jak PRL potrafił wykorzystać autenty
     yearEnd: 1965,
     summary: 'List biskupów polskich do niemieckich z 1965 roku ze słynnymi słowami „przebaczamy i prosimy o przebaczenie”, który wywołał gniew władz PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wroclaw-KardynalKominek.jpg?width=800',
-    imageCaption: 'Orędzie biskupów polskich',
+    imageCaption: 'Pomnik kardynała Bolesława Kominka, autora Orędzia, we Wrocławiu (fot. współczesna)',
     content: `## Kontekst
 W 1965 roku, na zakończenie Soboru Watykańskiego II, biskupi polscy wystosowali orędzie do biskupów niemieckich, zapraszając ich na obchody Milenium Chrztu Polski.
 
@@ -16575,7 +16575,7 @@ KIK-i były pomostem między Kościołem, inteligencją i opozycją, a przy tym 
     yearEnd: 1989,
     summary: 'Najważniejszy festiwal polskiego kina, zainaugurowany w 1974 roku w Gdańsku (później Gdynia), prezentujący dorobek rodzimej kinematografii.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2004_08_16_GDYNIA_Festiwal_Polskich_Filmow_Fabularnych.jpeg?width=800',
-    imageCaption: 'Festiwal Polskich Filmów Fabularnych',
+    imageCaption: 'Festiwal Polskich Filmów Fabularnych w Gdyni, 2004',
     content: `## Powstanie
 Festiwal Polskich Filmów Fabularnych zainaugurowano w 1974 roku w Gdańsku i przez pierwsze trzynaście edycji odbywał się właśnie tam. Od 1987 roku jego stałą siedzibą jest Gdynia, z którą jest dziś kojarzony.
 
@@ -16637,7 +16637,7 @@ Festiwal przetrwał zmianę ustroju i pozostaje najważniejszym wydarzeniem pols
     yearEnd: 1989,
     summary: 'Reżyser filmowy, twórca kina intelektualnego i współtwórca nurtu kina moralnego niepokoju, znany z filmów „Iluminacja” i „Barwy ochronne”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krzysztof_Zanussi_DSC_5413.jpg?width=800',
-    imageCaption: 'Krzysztof Zanussi',
+    imageCaption: 'Krzysztof Zanussi (fot. współczesna)',
     content: `## Sylwetka
 Krzysztof Zanussi (ur. 1939) studiował fizykę w Warszawie i filozofię w Krakowie, zanim trafił do łódzkiej szkoły filmowej. To wykształcenie widać w jego kinie: bohaterami są naukowcy, lekarze, inżynierowie, a konflikt rzadko dotyczy polityki wprost – częściej wyboru między uczciwością a wygodą.
 
@@ -16707,7 +16707,7 @@ Pracował także za granicą, kręcąc we Włoszech, Niemczech i Francji, i prze
     yearEnd: 1961,
     summary: 'Wybitny reżyser polskiej szkoły filmowej, twórca „Eroiki” i „Zezowatego szczęścia”, demaskujący narodowe mity z ironią i dystansem.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej_Munk_%281921-1961%29.jpg?width=800',
-    imageCaption: 'Andrzej Munk',
+    imageCaption: 'Andrzej Munk, koniec lat 50.',
     content: `## Sylwetka
 Andrzej Munk (1921–1961) pochodził z Krakowa, przeżył okupację ukrywając się po aryjskiej stronie, a po wojnie trafił do łódzkiej Szkoły Filmowej. Zaczynał od dokumentu i zachował dokumentalne oko także w fabule: chłodne, uważne, nieskłonne do wzruszeń.
 
@@ -16777,7 +16777,7 @@ Zostawił zaledwie kilka filmów, a mimo to jest wymieniany obok Wajdy jako wsp�
     yearEnd: 1989,
     summary: 'Reżyser o niepowtarzalnej, onirycznej wyobraźni, twórca kultowego „Rękopisu znalezionego w Saragossie” i „Sanatorium pod Klepsydrą”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wojciech_Jerzy_Has.jpg?width=800',
-    imageCaption: 'Wojciech Jerzy Has',
+    imageCaption: 'Wojciech Jerzy Has, 1967',
     content: `## Sylwetka
 Wojciech Jerzy Has (1925–2000) był reżyserem osobnym: budował kino poetyckie i wizyjne, obojętne na aktualność i polityczne zaangażowanie, którego oczekiwano od jego pokolenia. Debiutował „Pętlą” (1957) z Gustawem Holoubkiem – studium jednego dnia alkoholika.
 
@@ -16979,7 +16979,7 @@ Wagner wracał później do kadry i pozostał symbolem trenera-charakteru; jego 
     yearEnd: 1980,
     summary: 'Jeden z najwybitniejszych polskich piłkarzy, rozgrywający reprezentacji i Legii Warszawa, filar drużyny z mundialu 1974 i mistrz olimpijski 1972.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz_Deyna.jpg?width=800',
-    imageCaption: 'Kazimierz Deyna',
+    imageCaption: 'Kazimierz Deyna z Legią Warszawa w Holandii, 1970',
     content: `## Sylwetka
 Kazimierz Deyna (1947–1989) był rozgrywającym o niezwykłej technice i wizji gry – piłkarzem, który widział podanie wcześniej niż inni zawodnicy na boisku. Pochodził ze Starogardu Gdańskiego, a do Legii Warszawa trafił w 1966 roku, po grze w rodzinnym Starogardzie i krótkim epizodzie w ŁKS.
 
@@ -17041,7 +17041,7 @@ Pozostaje symbolem futbolowej elegancji, a jego koszulka z numerem 10 – ikoną
     yearEnd: 1989,
     summary: 'Awangardowy teatr Tadeusza Kantora, twórcy „Teatru Śmierci” i spektaklu „Umarła klasa”, jednego z najsłynniejszych dzieł polskiej sceny.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tadeusz_kantor_17.jpg?width=800',
-    imageCaption: 'Tadeusz Kantor i Cricot 2',
+    imageCaption: 'Tadeusz Kantor',
     content: `## Sylwetka
 Tadeusz Kantor (1915–1990) był malarzem, scenografem i reżyserem, jednym z najwybitniejszych twórców awangardy teatralnej i plastycznej XX wieku.
 
@@ -17103,7 +17103,7 @@ Kantor zdobył światowe uznanie, prezentując spektakle na całym świecie. Poz
     yearEnd: 1989,
     summary: 'Wybitny malarz, fotograf i rysownik, twórca niepokojących, wizyjnych obrazów określanych jako „fantastyka” – jeden z najbardziej rozpoznawalnych polskich artystów.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zdzis%C5%82aw_Beksi%C5%84ski_i_Piotr_Dmochowski_%2828.06.2003%29_%28cropped%29.jpg?width=800',
-    imageCaption: 'Zdzisław Beksiński',
+    imageCaption: 'Zdzisław Beksiński i Piotr Dmochowski, jego paryski marszand, 2003',
     content: `## Sylwetka
 Zdzisław Beksiński (1929–2005) pochodził z Sanoka, skończył architekturę w Krakowie i przez lata pracował w przedsiębiorstwie budowlanym, malując po godzinach. Zaczynał od fotografii i rzeźby z materiałów odpadowych; w latach 60. przeszedł do malarstwa, które przyniosło mu rozpoznawalność.
 
@@ -17156,8 +17156,6 @@ Jego syn Tomasz, znany radiowiec i tłumacz, odebrał sobie życie w 1999 roku. 
     yearStart: 1956,
     yearEnd: 1989,
     summary: 'Państwowe wydawnictwo fonograficzne, niemal monopolista rynku płytowego PRL, wydające pod marką „Muza” muzykę wszystkich gatunków.',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ulica_Okaryny_w_Warszawie_2022.jpg?width=800',
-    imageCaption: 'Polskie Nagrania „Muza”',
     content: `## Monopol
 Polskie Nagrania powstały w 1956 roku i przez całą epokę były głównym wydawcą płytowym w kraju. To one decydowały, co się ukaże, w jakim nakładzie i kiedy – artysta bez umowy z „Muzą” praktycznie nie istniał na rynku fonograficznym.
 
@@ -17219,7 +17217,7 @@ Po 1989 roku firma nie wytrzymała konkurencji i przeszła przez lata przekszta�
     yearEnd: 1960,
     summary: 'Spontaniczny protest mieszkańców Zielonej Góry w obronie Domu Katolickiego przed odebraniem przez władze – jeden z pierwszych otwartych buntów religijnych w PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zielona_G%C3%B3ra%2C_Filharmonia_%281%29.jpg?width=800',
-    imageCaption: 'Wydarzenia zielonogórskie 1960',
+    imageCaption: 'Dawny dom parafialny w Zielonej Górze, o który toczył się spór w 1960 roku (fot. współczesna)',
     content: `## O co poszło
 30 maja 1960 roku w Zielonej Górze doszło do wielogodzinnych starć ulicznych. Powodem była decyzja władz o odebraniu parafii Domu Katolickiego i likwidacji prowadzonych tam salek katechetycznych.
 
@@ -17392,7 +17390,7 @@ LOT symbolizował zarazem nowoczesność i ograniczenia PRL – techniczne ambic
     yearEnd: 1989,
     summary: 'Nowoczesny szpital dziecięcy w Warszawie, zbudowany ze społecznych składek jako pomnik dzieci – ofiar II wojny światowej.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Centrum_Zdrowia_Dziecka.svg?width=800',
-    imageCaption: 'Centrum Zdrowia Dziecka',
+    imageCaption: 'Znak Instytutu „Pomnik – Centrum Zdrowia Dziecka”',
     content: `## Idea
 Pomysł budowy Centrum Zdrowia Dziecka narodził się pod koniec lat 60. jako „pomnik-szpital” upamiętniający dzieci, które zginęły w czasie II wojny światowej. Zamiast kolejnego obelisku miał powstać żywy pomnik – szpital ratujący życie.
 
@@ -17558,7 +17556,7 @@ Polarnictwo, podobnie jak himalaizm, dawało poczucie uczestnictwa w światowej 
     yearEnd: 1989,
     summary: 'Telewizyjny kabaret literacki tworzony przez reżyserkę Olgę Lipińską, słynący z inteligentnej, aluzyjnej satyry i wybitnej obsady aktorskiej.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Olga_Lipi%C5%84ska.jpg?width=800',
-    imageCaption: 'Kabaret Olgi Lipińskiej',
+    imageCaption: 'Olga Lipińska',
     content: `## Twórczyni
 Olga Lipińska (ur. 1932) jest reżyserką telewizyjną i teatralną, autorką cyklu programów kabaretowych realizowanych dla telewizji przez ponad dwadzieścia lat – od „Właśnie leci kabarecik” w latach 70. po „Kabaret Olgi Lipińskiej” prowadzony do końca lat 90.
 
@@ -17620,7 +17618,7 @@ Obok „Pod Egidą” Pietrzaka i Kabaretu Tey programy Lipińskiej współtworz
     yearEnd: 1989,
     summary: 'Dramaturg, prozaik i rysownik, najwybitniejszy polski twórca teatru absurdu, autor „Tanga” i „Emigrantów”, demaskujący mechanizmy władzy i konformizmu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Slawomir_Mrozek.JPG?width=800',
-    imageCaption: 'Sławomir Mrożek',
+    imageCaption: 'Sławomir Mrożek (1930–2013)',
     content: `## Sylwetka
 Sławomir Mrożek (1930–2013) był dramaturgiem, prozaikiem i rysownikiem – jednym z najczęściej wystawianych polskich autorów na świecie. Zaczynał w krakowskiej prasie jako rysownik i autor krótkich tekstów satyrycznych, i ten skrótowy, celny styl został z nim na zawsze.
 
@@ -17682,7 +17680,7 @@ Po udarze w 2002 roku stracił zdolność mowy i pisania, po czym nauczył się 
     yearEnd: 1989,
     summary: 'Jeden z najwybitniejszych pisarzy polskich XX wieku, autor „Ferdydurke” i „Dziennika”, tworzący na emigracji, przez lata zakazany przez cenzurę PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Witold_Gombrowicz_by_Bohdan_Paczowski_-_detail.jpg?width=800',
-    imageCaption: 'Witold Gombrowicz',
+    imageCaption: 'Witold Gombrowicz w Vence we Francji',
     content: `## Sylwetka
 Witold Gombrowicz (1904–1969) był prozaikiem i dramaturgiem, autorem powieści badających „formę” – to, jak ludzie nawzajem narzucają sobie role i jak nikt nie jest sobą inaczej niż wobec innych. „Ferdydurke” (1937) uczyniła go głośnym jeszcze przed wojną.
 
@@ -17744,7 +17742,7 @@ W 1968 roku był poważnie rozważany jako kandydat do Nagrody Nobla. Dziś nale
     yearEnd: 1969,
     summary: 'Buntowniczy prozaik pokolenia odwilży, autor „Ósmego dnia tygodnia” i „Pierwszego kroku w chmurach”, legenda literackiego nonkonformizmu, zmarły na emigracji.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Marekhlasko.jpg?width=800',
-    imageCaption: 'Marek Hłasko',
+    imageCaption: 'Marek Hłasko, 1967',
     content: `## Sylwetka
 Marek Hłasko (1934–1969) pracował jako kierowca ciężarówki, zanim został pisarzem – i ten życiorys stał się częścią jego legendy. Debiutował w prasie w 1954 roku, a rozgłos przyniosła mu odwilż, w której jego proza zabrzmiała jak głos innego pokolenia.
 
@@ -17806,7 +17804,7 @@ Do polskich księgarń wrócił dopiero w latach 80., a naprawdę szeroko po 198
     yearEnd: 1989,
     summary: 'Wybitny poeta, dramaturg i prozaik, twórca nowoczesnej poezji „ogołoconej” po doświadczeniu wojny oraz nowatorskiego dramatu („Kartoteka”).',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/R%C3%B3%C5%BCewicz_cropped.JPG?width=800',
-    imageCaption: 'Tadeusz Różewicz',
+    imageCaption: 'Tadeusz Różewicz, 2006',
     content: `## Sylwetka
 Tadeusz Różewicz (1921–2014) w czasie okupacji był żołnierzem AK w oddziale leśnym; jego brat Janusz, także konspirator, został rozstrzelany przez gestapo w 1944 roku. To doświadczenie wyznaczyło całą późniejszą twórczość: poezję pisaną tak, jakby po wojnie nie dało się już ufać dawnym słowom.
 
@@ -17876,7 +17874,7 @@ Jest tłumaczony na kilkadziesiąt języków i wielokrotnie wymieniany wśród k
     yearEnd: 1972,
     summary: 'Skoczek narciarski, zdobywca pierwszego dla Polski zimowego złota olimpijskiego – w Sapporo 1972 – po niespodziewanym, brawurowym skoku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wojciech_Fortuna.jpg?width=800',
-    imageCaption: 'Wojciech Fortuna',
+    imageCaption: 'Wojciech Fortuna (fot. współczesna)',
     content: `## Sylwetka
 Wojciech Fortuna (ur. 1952) pochodzi z Zakopanego i był skoczkiem, po którym przed igrzyskami nikt nie spodziewał się wiele – w sezonie startował nierówno i nie należał do faworytów.
 
@@ -17938,7 +17936,7 @@ Złoto z Sapporo pozostaje jednym z najczęściej przywoływanych momentów w hi
     yearEnd: 1982,
     summary: '31 sierpnia 1982 roku w Lubinie funkcjonariusze ZOMO otworzyli ogień do uczestników manifestacji, zabijając trzech demonstrantów.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Lubin_31.08.1982.jpg?width=800',
-    imageCaption: 'Zbrodnia lubińska 1982',
+    imageCaption: 'Demonstranci niosą rannego Michała Adamowicza, Lubin, 31 sierpnia 1982',
     content: `## Manifestacja
 31 sierpnia 1982 roku, w drugą rocznicę porozumień sierpniowych, w Lubinie na Dolnym Śląsku odbyła się pokojowa demonstracja. Podobne wystąpienia miały tego dnia miejsce w kilkudziesięciu miastach w całym kraju.
 
@@ -18057,7 +18055,7 @@ Konflikt o krzyż był dla władz najgorszym możliwym polem sporu: dotyczył rz
     yearEnd: 1989,
     summary: 'Podziemna rozgłośnia Solidarności, nadająca krótkie audycje mimo stanu wojennego – symbol niezależnej informacji i sprzeciwu wobec monopolu mediów.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Berta_with_antenna.jpg?width=800',
-    imageCaption: 'Radio Solidarność',
+    imageCaption: 'Nadajnik „Berta”, używany przez podziemne Radio Solidarność w stanie wojennym',
     content: `## Pierwsza audycja
 Radio „Solidarność” nadało pierwszą audycję 12 kwietnia 1982 roku o godzinie 21.00, cztery miesiące po wprowadzeniu stanu wojennego. Sygnał wyemitowano na falach UKF z dachu budynku przy ulicy Grójeckiej w Warszawie. Program trwał osiem i pół minuty.
 
@@ -18127,7 +18125,7 @@ Sens radia podziemnego polegał nie tyle na przekazaniu informacji, ile na dowod
     yearEnd: 1989,
     summary: 'Fabryka Samochodów Osobowych na warszawskim Żeraniu i jej sztandarowy model Polonez – nowoczesny jak na PRL samochód rodzinny, marzenie wielu kierowców.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Polonez_niebieski.jpg?width=800',
-    imageCaption: 'FSO i Polonez',
+    imageCaption: 'FSO Polonez 1500 LE z 1985 roku',
     content: `## Następca Dużego Fiata
 Polonez wszedł do produkcji 3 maja 1978 roku jako następca Polskiego Fiata 125p. W praktyce oba modele wytwarzano równolegle jeszcze przez trzynaście lat, co samo w sobie mówi wiele o tempie modernizacji przemysłu.
 
@@ -18197,7 +18195,7 @@ Dla polskiego nabywcy pozostawał samochodem prestiżowym, bo droższym i więks
     yearEnd: 1989,
     summary: 'Centrala Przemysłu Ludowego i Artystycznego – sieć skupiająca twórców ludowych, promująca i sprzedająca rękodzieło, także na eksport po dewizy.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wwa-cepelia-logo-2011.jpg?width=800',
-    imageCaption: 'Cepelia',
+    imageCaption: 'Szyld Cepelii w Warszawie',
     content: `## Geneza
 Cepelia, czyli Centrala Przemysłu Ludowego i Artystycznego, powstała w 1949 roku, by organizować, wspierać i sprzedawać twórczość ludową oraz rękodzieło artystyczne. Zrzeszała kilkadziesiąt spółdzielni i tysiące wytwórców w całym kraju.
 
@@ -18243,7 +18241,7 @@ Cepelia realnie ocaliła wiele technik rzemieślniczych, które bez zamówień z
     yearEnd: 1989,
     summary: 'Reżyser wielkich ekranizacji Sienkiewicza – „Pana Wołodyjowskiego” i „Potopu” – twórca widowiskowego kina historycznego PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2016.02.21._Jerzy_Hoffman_Fot_Mariusz_Kubik_08.JPG?width=800',
-    imageCaption: 'Jerzy Hoffman',
+    imageCaption: 'Jerzy Hoffman (fot. współczesna)',
     content: `## Sylwetka
 Jerzy Hoffman (1932–2023) spędził dzieciństwo na zesłaniu w Syberii, dokąd jego rodzinę wywieziono w 1940 roku. Reżyserię studiował w moskiewskiej szkole filmowej WGIK i zaczynał od dokumentu, który realizował wspólnie z Edwardem Skórzewskim.
 
@@ -18313,7 +18311,7 @@ Dał polskiej publiczności kino widowiskowe, którego wcześniej nie było, i z
     yearEnd: 1989,
     summary: 'Reżyser, którego debiut „Nóż w wodzie” rozpoczął światową karierę; absolwent łódzkiej Szkoły Filmowej, jeden z najbardziej znanych polskich twórców kina.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2023.11.13._Roman_Polanski_Photo_Mariusz_Kubik_01.JPG?width=800',
-    imageCaption: 'Roman Polański',
+    imageCaption: 'Roman Polański (fot. współczesna)',
     content: `## Sylwetka
 Roman Polański (ur. 1933 w Paryżu) trafił jako dziecko do krakowskiego getta; jego matka zginęła w Auschwitz, on sam przetrwał okupację ukrywany na wsi. Po wojnie skończył łódzką Szkołę Filmową i szybko został najbardziej obiecującym reżyserem swojego pokolenia.
 
@@ -18383,7 +18381,7 @@ Dla kina PRL pozostaje symbolem talentu, który zaistniał na świecie, a „Nó
     yearEnd: 1980,
     summary: 'Najwybitniejszy polski kolarz szosowy epoki PRL, wielokrotny zwycięzca Wyścigu Pokoju i mistrz świata amatorów.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ryszard_Szurkowski_2.jpg?width=800',
-    imageCaption: 'Ryszard Szurkowski',
+    imageCaption: 'Ryszard Szurkowski (fot. współczesna)',
     content: `## Sylwetka
 Ryszard Szurkowski (1946–2021) pochodził ze wsi pod Świebodzicami i do kolarstwa trafił późno, po dwudziestce. W ciągu dekady stał się najbardziej rozpoznawalnym polskim sportowcem lat 70. – w czasach, gdy Wyścig Pokoju był wydarzeniem oglądanym przez całe rodziny.
 
@@ -18445,7 +18443,7 @@ Prowadził grupy kolarskie i pracował jako trener. W 2018 roku uległ ciężkie
     yearEnd: 1989,
     summary: 'Prymas Polski od 1981 roku, następca kardynała Wyszyńskiego, który prowadził Kościół przez stan wojenny i przemiany ku wolnej Polsce.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/JKRUK_20080826_PRYMAS_JOZEF_GLEMP_JASNA_GORA_DSC07260A_%28cropped%29.JPG?width=800',
-    imageCaption: 'Józef Glemp',
+    imageCaption: 'Prymas Józef Glemp na Jasnej Górze, 2008',
     content: `## Sylwetka
 Józef Glemp (1929–2013) był prawnikiem kanonicznym i sekretarzem prymasa Wyszyńskiego, a od lipca 1981 roku – po jego śmierci – prymasem Polski. Objął urząd w momencie, gdy Kościół stał się jedynym pośrednikiem między władzą a społeczeństwem.
 
@@ -18499,7 +18497,7 @@ Prymasostwo Glempa przypadło na najtrudniejsze lata i na przełom. Ocena jego p
     yearEnd: 1989,
     summary: 'Aktorka, piosenkarka i ikona Kabaretu Starszych Panów, łamiąca obyczajowe tabu PRL swoją odwagą, seksapilem i niezależnością.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/KalinaJedrusik.jpg?width=800',
-    imageCaption: 'Kalina Jędrusik',
+    imageCaption: 'Kalina Jędrusik, 1965',
     content: `## Sylwetka
 Kalina Jędrusik (1930–1991) pochodziła z Częstochowy, skończyła krakowską PWST i związała się z warszawskim Teatrem Współczesnym. Była aktorką, piosenkarką i osobą publiczną, która swoim istnieniem podważała obyczajowe normy epoki – co kosztowało ją więcej niż jakakolwiek deklaracja polityczna.
 
@@ -18561,7 +18559,7 @@ Jej małżeństwo ze Stanisławem Dygatem i niezależny styl życia były przedm
     yearEnd: 1981,
     summary: '13 maja 1981 roku Mehmet Ali Agca postrzelił Jana Pawła II na placu św. Piotra; papież przeżył, a sprawa do dziś budzi pytania o tło polityczne.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pope_John_Paul_II_After_Assassination_Attempt.jpg?width=800',
-    imageCaption: 'Zamach na Jana Pawła II',
+    imageCaption: 'Jan Paweł II podtrzymywany przez sekretarza tuż po postrzeleniu, plac św. Piotra, 13 maja 1981',
     content: `## Zamach
 13 maja 1981 roku na placu św. Piotra, podczas audiencji generalnej, turecki zamachowiec Mehmet Ali Ağca oddał strzały do Jana Pawła II z odległości kilku metrów. Papież został ciężko ranny w brzuch i przeszedł wielogodzinną operację; rekonwalescencja trwała miesiącami i pozostawiła trwałe następstwa.
 
@@ -18615,7 +18613,7 @@ Zamach wzmocnił symboliczną pozycję papieża wśród Polaków na kilka miesi�
     yearEnd: 1953,
     summary: 'Pokazowy proces księży kurii krakowskiej w 1953 roku, element stalinowskiej kampanii zastraszania Kościoła, z wyrokami śmierci i wieloletniego więzienia.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stalinizm_-_proces_Kurii_Krakowskiej_%281953%29.jpg?width=800',
-    imageCaption: 'Proces kurii krakowskiej',
+    imageCaption: 'Oskarżeni księża podczas pokazowego procesu kurii krakowskiej, styczeń 1953',
     content: `## Proces
 W styczniu 1953 roku przed sądem wojskowym w Krakowie stanęli księża kurii metropolitalnej i osoby świeckie, oskarżeni o szpiegostwo na rzecz Stanów Zjednoczonych oraz działalność wywrotową. Był to proces pokazowy, przygotowany propagandowo i szeroko relacjonowany w prasie.
 
@@ -18835,7 +18833,7 @@ Efekt okazał się przeciwny do zamierzonego: sprawa nagłośniła istnienie kan
     yearEnd: 1953,
     summary: 'Generał, szef Kedywu Armii Krajowej, skrytobójczo skazany i stracony w 1953 roku – symbol komunistycznych mordów sądowych na bohaterach Polski Podziemnej.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Genera%C5%82_August_Emil_Fieldorf.jpg?width=800',
-    imageCaption: 'Gen. Emil Fieldorf „Nil”',
+    imageCaption: 'Generał August Emil Fieldorf „Nil” przed 1939 rokiem',
     content: `## Sylwetka
 August Emil Fieldorf „Nil” (1895–1953) był oficerem Legionów, uczestnikiem wojny 1920 roku i kampanii wrześniowej, a w konspiracji jednym z najwybitniejszych dowódców. Od 1942 roku kierował Kedywem – pionem walki bieżącej i dywersji Armii Krajowej.
 
@@ -18943,7 +18941,7 @@ Miejsce pochówku ukryto. Szczątki odnaleziono dopiero we wrześniu 2014 roku p
     yearEnd: 1983,
     summary: 'Nowatorski poeta i prozaik, mistrz języka mówionego i codzienności, autor „Pamiętnika z powstania warszawskiego” i twórca prywatnego teatru.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mironbia%C5%82oszewski.png?width=800',
-    imageCaption: 'Miron Białoszewski',
+    imageCaption: 'Miron Białoszewski, zdjęcie sprzed 1983 roku',
     content: `## Sylwetka
 Miron Białoszewski (1922–1983) przeżył powstanie warszawskie jako cywil, po wojnie pracował m.in. w redakcjach i pisał do szuflady. Debiutował późno, mając trzydzieści cztery lata, i od razu jako twórca całkowicie osobny.
 
@@ -19004,8 +19002,8 @@ W ostatnich latach mieszkał na Saskiej Kępie, prowadząc dziennik wydany pośm
     yearStart: 1972,
     yearEnd: 1981,
     summary: 'Wybitny lekkoatleta, mistrz olimpijski z Moskwy 1980 w biegu na 3000 m z przeszkodami, jeden z najlepszych przeszkodowców świata swojej epoki.',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bronislawmalinowski.jpg?width=800',
-    imageCaption: 'Bronisław Malinowski',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/MalonowskiBronislawFuerth1976.jpg?width=800',
+    imageCaption: 'Bronisław Malinowski na mityngu w Fürth, na krótko przed igrzyskami w Montrealu, 1976',
     content: `## Sylwetka
 Bronisław Malinowski (1951–1981) pochodził z Nowego nad Wisłą, a całą karierę związał z klubem w Grudziądzu. Specjalizował się w biegu na 3000 metrów z przeszkodami – konkurencji wymagającej jednocześnie wytrzymałości, techniki i zimnej kalkulacji tempa.
 
@@ -19067,7 +19065,7 @@ Jego imię nosi stadion w Grudziądzu i szkoły w kilku miastach. W historii pol
     yearEnd: 1989,
     summary: 'Wieloletni redaktor naczelny „Tygodnika Powszechnego”, twórca niezależnego, katolicko-liberalnego ośrodka myśli i jeden z autorytetów moralnych PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jerzy_Turowicz_1994.jpg?width=800',
-    imageCaption: 'Jerzy Turowicz',
+    imageCaption: 'Jerzy Turowicz (1912–1999)',
     content: `## Sylwetka
 Jerzy Turowicz (1912–1999) był dziennikarzem i publicystą, współzałożycielem „Tygodnika Powszechnego” i jego redaktorem naczelnym przez ponad pół wieku – od pierwszego numeru w marcu 1945 roku aż do śmierci.
 
@@ -19129,7 +19127,7 @@ Turowicz uczestniczył w obradach Okrągłego Stołu jako członek strony solida
     yearEnd: 1945,
     summary: 'Pokazowy proces w Moskwie w 1945 roku przeciw szesnastu przywódcom Polskiego Państwa Podziemnego, podstępnie aresztowanym przez NKWD.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/THE_TRIAL_OF_THE_SIXTEEN%2C_JUNE_1945_Presiding_judge_of_the_trial%2C_Colonel-General_Vasiliy_Ulrikh_%28centre%29.jpg?width=800',
-    imageCaption: 'Proces szesnastu',
+    imageCaption: 'Proces szesnastu w Moskwie, czerwiec 1945 – sędzia Wasilij Ulrich pośrodku',
     content: `## Podstęp
 W marcu 1945 roku przywódcy Polskiego Państwa Podziemnego przyjęli zaproszenie na rozmowy z przedstawicielem dowództwa radzieckiego, otrzymawszy gwarancje bezpieczeństwa. Zamiast negocjacji nastąpiło aresztowanie: szesnastu osób wywieziono do Moskwy.
 
@@ -19191,7 +19189,7 @@ Proces toczył się dokładnie wtedy, gdy w Moskwie negocjowano skład Tymczasow
     yearEnd: 1945,
     summary: 'Operacja wojsk sowieckich i komunistycznych z lipca 1945 roku w rejonie Augustowa; zaginęło ok. 600 osób, których losu do dziś nie wyjaśniono.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pomnik_Ofiar_Ob%C5%82awy_Augustowskiej_-_Suwa%C5%82ki_fot._Kamil_Korbik_2018.jpg?width=800',
-    imageCaption: 'Obława augustowska',
+    imageCaption: 'Miejsce pamięci ofiar obławy augustowskiej (fot. współczesna)',
     content: `## Operacja
 W lipcu 1945 roku w rejonie Suwałk i Augustowa przeprowadzono operację wojskową wymierzoną w podziemie niepodległościowe. Wzięły w niej udział oddziały Armii Czerwonej, formacje NKWD oraz wydzielone jednostki Ludowego Wojska Polskiego i Urzędu Bezpieczeństwa.
 
@@ -19416,7 +19414,7 @@ PAX jest przykładem metody stosowanej przez władze konsekwentnie: zamiast likw
     yearEnd: 1981,
     summary: 'Tyczkarz, mistrz olimpijski z Moskwy 1980, który po zwycięstwie wykonał słynny „gest Kozakiewicza” wobec gwiżdżącej radzieckiej publiczności.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/W%C5%82adys%C5%82aw_Kozakiewicz_2016.jpg?width=800',
-    imageCaption: 'Władysław Kozakiewicz',
+    imageCaption: 'Władysław Kozakiewicz (fot. współczesna)',
     content: `## Sylwetka
 Władysław Kozakiewicz (ur. 1953 w Wilnie) przyjechał do Polski jako dziecko w ramach repatriacji i wyrósł na jednego z najlepszych tyczkarzy świata przełomu lat 70. i 80. Skok o tyczce był wtedy konkurencją, w której rekordy padały co sezon, a rywalizacja z Francuzami i Sowietami toczyła się non stop.
 
@@ -19478,7 +19476,7 @@ W 1985 roku wyemigrował do Republiki Federalnej Niemiec, gdzie przez pewien cza
     yearEnd: 1976,
     summary: 'Najwybitniejszy polski selekcjoner, twórca najlepszej reprezentacji w historii – mistrzów olimpijskich 1972 i brązowych medalistów mundialu 1974.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz_G%C3%B3rski_%281973%29.jpg?width=800',
-    imageCaption: 'Kazimierz Górski',
+    imageCaption: 'Kazimierz Górski, 1973',
     content: `## Sylwetka
 Kazimierz Górski (1921–2006) urodził się we Lwowie, grał w Rewerze Stanisławów i po wojnie w Legii Warszawa, a jako trener przeszedł przez kluby i reprezentacje młodzieżowe, zanim w 1970 roku objął pierwszą drużynę narodową.
 
@@ -19540,7 +19538,7 @@ Sukcesy jego drużyny przypadły na dekadę Gierka i były przez propagandę tra
     yearEnd: 1981,
     summary: 'Wybitny reżyser teatralny, twórca głośnej inscenizacji „Dziadów” z 1967 roku, której zdjęcie ze sceny stało się iskrą wydarzeń Marca 1968.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz_Dejmek_w_latach_60.jpg?width=800',
-    imageCaption: 'Kazimierz Dejmek',
+    imageCaption: 'Kazimierz Dejmek w latach 60.',
     content: `## Sylwetka
 Kazimierz Dejmek (1924–2002) był aktorem, reżyserem i dyrektorem teatrów – współzałożycielem Teatru Nowego w Łodzi, a od 1962 roku dyrektorem Teatru Narodowego w Warszawie. Budował teatr oparty na wielkiej literaturze, misteryjny i inscenizacyjnie rozmachowy.
 
@@ -19594,7 +19592,7 @@ Po 1989 roku był ministrem kultury. Historia jego „Dziadów” pozostaje najc
     yearEnd: 1989,
     summary: 'Prozaik i reżyser, autor „Małej apokalipsy” i filmu „Salto”, twórca rozliczający mity i rzeczywistość PRL, publikujący też w drugim obiegu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tadeusz_Konwicki_Kancelaria_Senatu_01.jpg?width=800',
-    imageCaption: 'Tadeusz Konwicki',
+    imageCaption: 'Tadeusz Konwicki w Senacie, 2008',
     content: `## Sylwetka
 Tadeusz Konwicki (1926–2015) urodził się pod Wilnem i jako nastolatek walczył w wileńskiej AK – doświadczenie, do którego wracał przez całe życie. Po wojnie znalazł się w Warszawie, przeszedł krótki epizod socrealistyczny („Przy budowie”, 1950), by potem stać się jednym z najbardziej rozpoznawalnych głosów rozliczających PRL.
 
@@ -19707,7 +19705,7 @@ Wybory 4 czerwca 1989 roku odbyły się według ustaleń Okrągłego Stołu: o 3
     yearEnd: 1983,
     summary: 'Organizacja zrzeszająca partie i stowarzyszenia pod kierownictwem PZPR, firmująca jedną listę wyborczą i pozorującą poparcie społeczne dla władzy.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_the_Front_of_National_Unity.svg?width=800',
-    imageCaption: 'Front Jedności Narodu',
+    imageCaption: 'Znak Frontu Jedności Narodu',
     content: `## Konstrukcja
 Front Jedności Narodu, do 1956 roku działający jako Front Narodowy, powstał w 1952 roku. Skupiał PZPR oraz stronnictwa satelickie – ZSL i SD – a także związki zawodowe i organizacje społeczne. Formalnie był porozumieniem, faktycznie strukturą podporządkowaną partii.
 
@@ -19818,7 +19816,7 @@ W sierpniu 1989 roku oba stronnictwa zerwały sojusz z PZPR i poparły rząd Tad
     yearEnd: 1989,
     summary: 'Masowa organizacja propagująca „przyjaźń” z ZSRR i kulturę radziecką, jeden z filarów ideologicznego podporządkowania PRL Związkowi Radzieckiemu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Odznaka_TPPR.JPG?width=800',
-    imageCaption: 'Towarzystwo Przyjaźni Polsko-Radzieckiej',
+    imageCaption: 'Odznaka Towarzystwa Przyjaźni Polsko-Radzieckiej',
     content: `## Geneza
 Towarzystwo Przyjaźni Polsko-Radzieckiej powstało w 1944 roku, jeszcze przed końcem wojny, i szybko stało się jedną z najliczniejszych organizacji masowych w kraju. Jego struktura obejmowała koła w zakładach pracy, szkołach i urzędach.
 
@@ -19872,7 +19870,7 @@ TPPR rozwiązano na początku lat 90. Pozostaje przykładem instytucji, która p
     yearEnd: 1989,
     summary: 'Związek Bojowników o Wolność i Demokrację – masowa organizacja kombatancka, wykorzystywana przez władze do kontroli środowisk weteranów i polityki pamięci.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Odznaka_ZBoWiD.jpg?width=800',
-    imageCaption: 'ZBoWiD',
+    imageCaption: 'Odznaka Związku Bojowników o Wolność i Demokrację',
     content: `## Geneza
 Związek Bojowników o Wolność i Demokrację powstał w 1949 roku z połączenia – i faktycznej likwidacji – kilkunastu wcześniejszych, samodzielnych organizacji kombatanckich. Odtąd istniała jedna organizacja weteranów, kontrolowana przez partię.
 
@@ -19926,7 +19924,7 @@ To jeden z najczystszych przykładów instrumentalizacji pamięci o wojnie: stru
     yearEnd: 1970,
     summary: 'Określenie szarej, skromnej stabilizacji życia w Polsce Gomułki lat 60. – po odwilży, bez wielkiego terroru, lecz i bez dobrobytu oraz wolności.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gomulka_speech.jpg?width=800',
-    imageCaption: 'Mała stabilizacja',
+    imageCaption: 'Wiec z udziałem Gomułki w Warszawie, 24 października 1956 – początek dekady małej stabilizacji',
     content: `## Pojęcie
 „Mała stabilizacja” to popularne określenie atmosfery życia w Polsce za rządów Władysława Gomułki w latach 60. Spopularyzował je m.in. dramat Tadeusza Różewicza „Świadkowie albo nasza mała stabilizacja”.
 
@@ -19980,7 +19978,7 @@ Społeczeństwo przyjęło postawę przystosowania – „małych spraw” i pry
     yearEnd: 1989,
     summary: 'Historyk-mediewista i działacz opozycji, współautor (z Jackiem Kuroniem) „Listu otwartego do Partii”, wielokrotnie więziony; autor nazwy „Solidarność”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Karol_Modzelewski3.jpg?width=800',
-    imageCaption: 'Karol Modzelewski',
+    imageCaption: 'Karol Modzelewski, 2017',
     content: `## Sylwetka
 Karol Modzelewski (1937–2019) urodził się w Moskwie jako Cyryl Budniewicz; przybranym ojcem był Zygmunt Modzelewski, powojenny minister spraw zagranicznych. Wychowany w rodzinie komunistycznej elity, całe dorosłe życie spędził w konflikcie z systemem, który ta elita budowała. Zawodowo był mediewistą, badaczem wczesnego średniowiecza i profesorem Uniwersytetu Warszawskiego.
 
@@ -20042,7 +20040,7 @@ Zasiadał w Senacie I kadencji, potem wrócił do nauki. Otwarcie krytykował ko
     yearEnd: 1979,
     summary: 'Poeta i prozaik kultowy dla pokolenia, twórca legendy artysty-wędrowca; jego wiersze i piosenki („Jak”) zyskały drugie życie jako pieśni.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Edward_Stachura_IPN.jpg?width=800',
-    imageCaption: 'Edward Stachura',
+    imageCaption: 'Edward Stachura na zdjęciu z akt paszportowych, druga połowa lat 70. (zasób IPN)',
     content: `## Sylwetka
 Edward Stachura „Sted” (1937–1979) urodził się we Francji, w rodzinie polskich emigrantów zarobkowych, i przyjechał do Polski jako dziecko. Był poetą, prozaikiem, pieśniarzem i tłumaczem, a przede wszystkim twórcą własnego sposobu życia, w którym pisanie i wędrowanie były tym samym.
 
@@ -20096,7 +20094,7 @@ Stachura pozostaje patronem nonkonformistów: czytany bywa raczej jako propozycj
     yearEnd: 1989,
     summary: 'Psycholog i działacz społeczny, twórca Monaru – pionierskiego systemu leczenia narkomanii, oraz ruchu pomocy ludziom wykluczonym.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Powazki_Marek_kotanski_medalion.jpg?width=800',
-    imageCaption: 'Marek Kotański',
+    imageCaption: 'Medalion na grobie Marka Kotańskiego na Powązkach (fot. współczesna)',
     content: `## Sylwetka
 Marek Kotański (1942–2002) był psychologiem, który zajął się problemem oficjalnie w PRL nieistniejącym. Narkomania nie mieściła się w obrazie socjalistycznego społeczeństwa, więc nie było ani statystyk, ani leczenia, ani nawet słownictwa, żeby o niej mówić.
 
@@ -20150,7 +20148,7 @@ Zginął w wypadku samochodowym w 2002 roku. Zbudowany przez niego system pomocy
     yearEnd: 1989,
     summary: 'Gdańska motornicza, której gest zatrzymania tramwaju i apel pomogły podtrzymać strajk sierpniowy 1980 – jedna z sygnatariuszek Porozumień Gdańskich.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Henryka_Krzywonos_-_Strycharska.jpg?width=800',
-    imageCaption: 'Henryka Krzywonos',
+    imageCaption: 'Henryka Krzywonos-Strycharska (fot. współczesna)',
     content: `## Sylwetka
 Henryka Krzywonos (ur. 1953) była motorniczą gdańskiej komunikacji miejskiej. W sierpniu 1980 roku stała się jedną z tych postaci, których obecność przesądziła o przebiegu strajku, choć nie należała do żadnych struktur ani środowisk opozycyjnych.
 
@@ -20204,7 +20202,7 @@ Jej historia pokazuje, jak wiele w Sierpniu zależało od decyzji podjętych w p
     yearEnd: 1955,
     summary: 'Masowa organizacja z lat 1948–1955, w ramach której młodzież kierowano do przymusowej pracy fizycznej i indoktrynacji w junackich brygadach.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Junacy_ze_S%C5%82u%C5%BCby_Polsce_na_obozie_w_Ksi%C4%99ginicach.jpg?width=800',
-    imageCaption: 'Powszechna Organizacja „Służba Polsce”',
+    imageCaption: 'Junacy ze Służby Polsce na obozie w Księginicach, przełom lat 40. i 50.',
     content: `## Organizacja
 Powszechna Organizacja „Służba Polsce” istniała w latach 1948–1955 i obejmowała młodzież w wieku od szesnastu do dwudziestu jeden lat. Była formacją paramilitarną: z mundurem, dyscypliną, musztrą i przysięgą.
 
@@ -20266,7 +20264,7 @@ Organizację rozwiązano w 1955 roku, u progu odwilży. Pozostała w pamięci ja
     yearEnd: 1989,
     summary: 'Wielka fabryka ciągników pod Warszawą – symbol mechanizacji rolnictwa, a zarazem ośrodek robotniczych protestów, m.in. w czerwcu 1976.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ci%C4%85gniki_pod_zak%C5%82adami_Ursus_w_Warszawie_w_latach_70.jpg?width=800',
-    imageCaption: 'Zakłady Mechaniczne Ursus',
+    imageCaption: 'Ciągniki przed zakładami Ursus w Warszawie, lata 70.',
     content: `## Fabryka
 Zakłady w podwarszawskim Ursusie miały rodowód sięgający końca XIX wieku. Po wojnie przestawiono je na produkcję ciągników rolniczych, które stały się marką rozpoznawalną w całym kraju i eksportowaną do kilkudziesięciu państw.
 
@@ -20325,7 +20323,7 @@ Po proteście nastąpiły zwolnienia, pobicia i procesy uczestników. To właśn
     yearEnd: 1988,
     summary: 'Prowadzona przez władze PRL akcja celowego zakłócania audycji Radia Wolna Europa i innych rozgłośni zachodnich, by odciąć Polaków od niezależnych informacji.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Nowak-Jezioranski_RFE.jpg?width=800',
-    imageCaption: 'Zagłuszanie Radia Wolna Europa',
+    imageCaption: 'Jan Nowak-Jeziorański w studiu Radia Wolna Europa',
     content: `## Wojna w eterze
 Audycje Radia Wolna Europa, BBC i Głosu Ameryki docierały do Polski na falach krótkich. Państwo odpowiadało zagłuszaniem: nadawaniem na tych samych częstotliwościach szumu i tonów uniemożliwiających odbiór.
 
@@ -20444,7 +20442,7 @@ Kolorowa telewizja jest dobrym skrótem całej dekady Gierka: nowoczesna technol
     yearEnd: 1989,
     summary: 'Wielka stocznia w Szczecinie, obok gdańskiej najważniejszy ośrodek robotniczych protestów – w grudniu 1970 i w sierpniu 1980 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stocznia_Szczeci%C5%84ska_Nowa%2C_gate%2C_2017.jpg?width=800',
-    imageCaption: 'Stocznia Szczecińska',
+    imageCaption: 'Brama dawnej Stoczni Szczecińskiej (fot. współczesna)',
     content: `## Zakład
 Stocznia Szczecińska imienia Adolfa Warskiego była jednym z największych zakładów przemysłu okrętowego w kraju, obok stoczni gdańskiej i gdyńskiej. Budowano tam statki na eksport, w znacznej części dla odbiorców radzieckich.
 
@@ -20557,7 +20555,7 @@ To element PRL wyraźnie dwuznaczny: instytucje służyły ideologicznemu wychow
     yearEnd: 1980,
     summary: 'Uwielbiana piosenkarka lat 70., wykonawczyni „Tyle słońca w całym mieście” i „Nic nie może wiecznie trwać”; zginęła w katastrofie lotniczej na Okęciu w 1980 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Anna_Jantar2.png?width=800',
-    imageCaption: 'Anna Jantar',
+    imageCaption: 'Anna Jantar w latach 70.',
     trivia: ['Zginęła w katastrofie samolotu Ił-62 na Okęciu w 1980 roku, wracając z koncertów w USA.'],
     content: `## Sylwetka
 Anna Jantar (1950–1980) była jedną z najpopularniejszych i najbardziej lubianych piosenkarek polskiej estrady lat 70., obdarzoną ciepłym, charakterystycznym głosem.
@@ -20619,7 +20617,7 @@ Jej śmierć wstrząsnęła Polską, a pogrzeb zgromadził tłumy. Proroczy tytu
     yearEnd: 1977,
     summary: 'Kultowy serial komediowy o inżynierze Stefanie Karwowskim – celny, ciepły portret codzienności dekady Gierka.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Czterdziestolatek%2C_mural%2C_metro_Ursyn%C3%B3w%2C_Warszawa.jpg?width=800',
-    imageCaption: 'Czterdziestolatek',
+    imageCaption: 'Mural z inżynierem Karwowskim przy stacji metra Ursynów w Warszawie (fot. współczesna)',
     content: `## Serial
 „Czterdziestolatek” w reżyserii Jerzego Gruzy powstawał w latach 1974–1977 i liczył dwadzieścia jeden odcinków. Bohaterem jest inżynier Stefan Karwowski (Andrzej Kopiczyński), budowlaniec, który właśnie skończył czterdzieści lat i mierzy się z pracą, rodziną i własnymi ambicjami.
 
@@ -20681,7 +20679,7 @@ W 1993 roku powstała kontynuacja – „Czterdziestolatek. 20 lat później” 
     yearEnd: 1987,
     summary: 'Najpopularniejszy serial kryminalny PRL z porucznikiem Sławomirem Borewiczem (Bronisław Cieślak) – milicyjny kryminał z drugim dnem obyczajowym.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/07_zg%C5%82o%C5%9B_si%C4%99.JPG?width=800',
-    imageCaption: '07 zgłoś się',
+    imageCaption: 'Plansza wzorowana na czołówce serialu „07 zgłoś się”',
     content: `## Serial
 „07 zgłoś się” powstawał w latach 1976–1987 w reżyserii Krzysztofa Szmagiera i liczy dwadzieścia jeden odcinków. Bohaterem jest porucznik MO Sławomir Borewicz, grany przez Bronisława Cieślaka – dziennikarza bez aktorskiego wykształcenia, który dostał tę rolę przypadkiem i został z nią na jedenaście lat.
 
@@ -20803,7 +20801,7 @@ Program oglądały miliony widzów, w tym całe rodziny; dla wielu dzisiejszych 
     yearEnd: 1989,
     summary: 'Reżyser filmowy i teatralny, twórca śląskiego tryptyku („Sól ziemi czarnej”, „Perła w koronie”, „Paciorki jednego różańca”) – epickiego portretu Górnego Śląska.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz_Kutz_Kancelaria_Senatu_2005.jpg?width=800',
-    imageCaption: 'Kazimierz Kutz',
+    imageCaption: 'Kazimierz Kutz jako senator, 2005',
     content: `## Sylwetka
 Kazimierz Kutz (1929–2018) pochodził z Szopienic, robotniczej dzielnicy Katowic, i był Ślązakiem w czasach, gdy śląskość traktowano w kulturze jako folklor albo problem. Zaczynał jako asystent Andrzeja Wajdy przy „Kanale” i „Popiele i diamencie”.
 
@@ -20933,7 +20931,7 @@ Górnik i Lubański to fundament, na którym wyrosły sukcesy reprezentacji lat 
     yearEnd: 1964,
     summary: 'Proces 72-letniego pisarza, sygnatariusza Listu 34, oskarżonego o „szkalowanie PRL” za tekst wysłany do Radia Wolna Europa.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Melchior_Wa%C5%84kowicz_20-112.jpg?width=800',
-    imageCaption: 'Proces Melchiora Wańkowicza',
+    imageCaption: 'Melchior Wańkowicz przed 1950 rokiem',
     content: `## Pisarz
 Melchior Wańkowicz (1892–1974) był jednym z najbardziej znanych polskich reportażystów, autorem m.in. relacji spod Monte Cassino. Po latach na emigracji wrócił do kraju w 1958 roku – co władze przedstawiały jako dowód, że z PRL da się układać.
 
@@ -20992,7 +20990,7 @@ Sprawa odbiła się echem za granicą i zaszkodziła władzom bardziej, niż pom
     yearEnd: 1982,
     summary: 'Legendarny komentator sportowy, którego emocjonalne relacje z meczów „Orłów Górskiego” współtworzyły wielkie chwile polskiego sportu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Ciszewski.JPG?width=800',
-    imageCaption: 'Jan Ciszewski',
+    imageCaption: 'Jan Ciszewski, około 1975',
     content: `## Sylwetka
 Jan Ciszewski (1930–1982) zaczynał w Katowicach, a od lat 60. był głównym komentatorem sportowym Telewizji Polskiej. W czasach, gdy transmisja z ważnego meczu była jednym z nielicznych wspólnych przeżyć całego kraju, jego głos znali wszyscy.
 
@@ -21176,7 +21174,7 @@ Akcja działała w ramach oficjalnej telewizji i mieściła się w wychowawczych
     yearEnd: 1989,
     summary: 'Jeden z najpopularniejszych zespołów pop-rockowych, z charyzmatyczną wokalistką Beatą Kozidrak, autor przebojów „Józek” i „Piechotą do lata”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/BAJM_24.11.2011_Edynburgh.jpg?width=800',
-    imageCaption: 'Bajm',
+    imageCaption: 'Bajm na koncercie w Edynburgu, 2011',
     content: `## Powstanie
 Bajm powstał w 1978 roku w Lublinie, w środowisku szkolno-studenckim. Liderką i wokalistką była od początku Beata Kozidrak – współautorka większości piosenek, obdarzona mocnym, natychmiast rozpoznawalnym głosem.
 
@@ -21284,7 +21282,7 @@ Zespół należał do nurtu określanego jako Muzyka Młodej Generacji – fali 
     yearEnd: 1982,
     summary: 'Kultowa supergrupa nowofalowo-punkowa Roberta Brylewskiego i Tomasza Lipińskiego, autorka legendarnego „Czarnego albumu” (1982).',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Brylewski.jpg?width=800',
-    imageCaption: 'Brygada Kryzys',
+    imageCaption: 'Robert Brylewski na festiwalu w Brzeszczach, 2007',
     content: `## Powstanie
 Brygada Kryzys powstała w 1981 roku z połączenia muzyków zespołów Kryzys i Tilt. Jej filarami byli Robert Brylewski i Tomasz Lipiński – postacie, wokół których obracała się cała warszawska scena niezależna przełomu dekad.
 
@@ -21400,7 +21398,7 @@ Pokolenie Bońka, Laty, Smolarka, Szarmacha i Młynarczyka zamknęło najlepszy 
     yearEnd: 1989,
     summary: 'Jeden z najwybitniejszych polskich piłkarzy, gwiazda mundialu 1982 i Juventusu Turyn, z którym zdobył Puchar Europy.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zbigniew_Boniek_2015.jpg?width=800',
-    imageCaption: 'Zbigniew Boniek',
+    imageCaption: 'Zbigniew Boniek (fot. współczesna)',
     content: `## Sylwetka
 Zbigniew Boniek (ur. 1956 w Bydgoszczy) zaczynał w Zawiszy Bydgoszcz, a w 1975 roku przeszedł do Widzewa Łódź. Był piłkarzem szybkim, silnym fizycznie i skutecznym – grał zarówno jako napastnik, jak i ofensywny pomocnik.
 
@@ -21454,7 +21452,7 @@ Był pierwszym polskim piłkarzem, który wygrywał najważniejsze trofea klubow
     yearEnd: 1989,
     summary: 'Jeden z najwybitniejszych polskich aktorów, gwiazda filmów Wajdy i Hoffmana, m.in. Kmicic w „Potopie” i role w „Weselu” i „Ziemi obiecanej”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2025.02.27._Daniel_Olbrychski_Photo_Mariusz_Kubik_01.JPG?width=800',
-    imageCaption: 'Daniel Olbrychski',
+    imageCaption: 'Daniel Olbrychski (fot. współczesna)',
     content: `## Sylwetka
 Daniel Olbrychski (ur. 1945) zadebiutował na ekranie w połowie lat 60. i niemal natychmiast stał się aktorem pierwszego planu. Miał to, czego polskie kino po śmierci Cybulskiego szukało: energię, fizyczność i twarz, którą kamera lubiła w każdym kostiumie.
 
@@ -21516,7 +21514,7 @@ Przez ponad pół wieku pozostaje twarzą polskiego kina, obecną zarówno w rol
     yearEnd: 1989,
     summary: 'Wybitna reżyserka, współtwórczyni kina moralnego niepokoju („Aktorzy prowincjonalni”), która po stanie wojennym kontynuowała światową karierę.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/MJK32681_Agnieszka_Holland_%28Pokot%2C_Berlinale_2017%29.jpg?width=800',
-    imageCaption: 'Agnieszka Holland',
+    imageCaption: 'Agnieszka Holland na Berlinale, 2017',
     content: `## Sylwetka
 Agnieszka Holland (ur. 1948) studiowała reżyserię w praskiej FAMU i była w Czechosłowacji świadkiem 1968 roku. Za kontakty z czeską opozycją trafiła w 1970 roku na kilka tygodni do aresztu – dyplom obroniła mimo to i wróciła do Polski.
 
@@ -21802,7 +21800,7 @@ Ekscentryczny wizerunek sceniczny i późniejsze samotne życie w otoczeniu zwie
     yearEnd: 1989,
     summary: 'Czołowy zespół rockowy lat 80. z charyzmatyczną wokalistką Małgorzatą Ostrowską, autor przeboju „Przeżyj to sam”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Grzegorz%20Str%C3%B3%C5%BCniak%20zesp%C3%B3%C5%82%20Lombard.jpg?width=800',
-    imageCaption: 'Lombard',
+    imageCaption: 'Grzegorz Stróżniak, lider Lombardu (fot. współczesna)',
     content: `## Zespół
 Lombard powstał w 1981 roku w Poznaniu. Liderem był Grzegorz Stróżniak – kompozytor, aranżer i klawiszowiec, a charakterystyczny, wysoki wokal wniosła Małgorzata Ostrowska.
 
@@ -21911,7 +21909,7 @@ Skład zmieniał się wielokrotnie, Jaryczewski odszedł w 1984 roku, zespół z
     yearEnd: 1989,
     summary: 'Jeden z najbardziej oryginalnych zespołów polskiej muzyki rozrywkowej, łączący big-beat z muzyką klasyczną i folkiem, autor „Medytacji wiejskiego listonosza”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Skaldowie_2012.JPG?width=800',
-    imageCaption: 'Skaldowie',
+    imageCaption: 'Skaldowie z braćmi Andrzejem i Jackiem Zielińskimi (fot. współczesna)',
     content: `## Zespół z Krakowa
 Skaldowie powstali w 1965 roku w Krakowie, założeni przez braci Andrzeja i Jacka Zielińskich. Andrzej, z wykształceniem muzycznym, komponował i aranżował – co odróżniało zespół od grup big-beatowych uczących się grania na słuch i ze słyszenia zachodnich płyt.
 
@@ -22147,7 +22145,7 @@ W latach 1986–2000 prowadziła własny teatr w Krakowie, potem wycofała się 
     yearEnd: 1970,
     summary: 'Kultowa komedia Marka Piwowskiego, w krzywym zwierciadle ukazująca absurdy PRL na pokładzie statku płynącego Wisłą.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tablica_pami%C4%85tkowa_filmu_Rejs_Marka_Piwowskiego_od_strony_star%C3%B3wki.jpg?width=800',
-    imageCaption: 'Rejs',
+    imageCaption: 'Tablica upamiętniająca „Rejs” na Bulwarze Filadelfijskim w Toruniu (fot. współczesna)',
     content: `## Film
 „Rejs” Marka Piwowskiego z 1970 roku to komedia o wycieczce statkiem po Wiśle. Scenariusz powstawał wspólnie z Januszem Głowackim, ale znaczna część dialogów została zaimprowizowana przez wykonawców.
 
@@ -22256,7 +22254,7 @@ Dialogi weszły do polszczyzny na trwałe i do dziś funkcjonują jako komentarz
     yearEnd: 1984,
     summary: 'Kasowy hit Juliusza Machulskiego – komedia science fiction z satyrą na totalitaryzm, jeden z największych sukcesów polskiego kina.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Seksmisja_Logo.png?width=800',
-    imageCaption: 'Seksmisja',
+    imageCaption: 'Napis tytułowy z czołówki „Seksmisji”, projekt Beaty Januszkiewicz',
     content: `## Film
 „Seksmisja” Juliusza Machulskiego, nakręcona w 1983 i pokazana rok później, to komedia fantastycznonaukowa. Dwaj mężczyźni zahibernowani w eksperymencie budzą się po pięćdziesięciu latach w podziemnym świecie rządzonym wyłącznie przez kobiety, w którym mężczyzn uznano za gatunek wymarły.
 
@@ -22384,7 +22382,7 @@ Mecz jest w Polsce przywoływany jako jedno z najważniejszych wydarzeń sportow
     yearEnd: 1989,
     summary: 'Gry liczbowe Totalizatora Sportowego (Duży Lotek, „6 z 49”), uruchomione w 1957 roku – marzenie milionów o nagłej wygranej.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kupony_Lotto.jpg?width=800',
-    imageCaption: 'Toto-Lotek',
+    imageCaption: 'Kupony Lotto',
     content: `## Gra
 Toto-Lotek, prowadzony przez Totalizator Sportowy, był najstarszą i najpopularniejszą polską grą liczbową. Pierwsze losowanie odbyło się 27 stycznia 1957 roku, a zasada – sześć liczb z czterdziestu dziewięciu – pozostała niezmieniona do dziś.
 
@@ -22438,7 +22436,7 @@ Wygrana oznaczała sumę nieosiągalną z pracy – samochód, mieszkanie, a cza
     yearEnd: 1989,
     summary: 'Wieczorny blok bajek dla dzieci (zwany też „Wieczorynką”) – nieodłączny element codzienności PRL i wizytówka polskiej szkoły animacji.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Muzeum%20dobranocek%20w%20rzeszowie%201.jpg?width=800',
-    imageCaption: 'Dobranocka',
+    imageCaption: 'Gąska Balbinka, bohaterka dobranocki',
     content: `## Instytucja wieczoru
 Dobranocka – kilkuminutowy program dla dzieci nadawany codziennie przed wieczornymi wiadomościami – była stałym punktem dnia. Przy dwóch programach telewizji oglądały ją wszystkie dzieci w kraju o tej samej porze, co dziś jest sytuacją nie do odtworzenia.
 
@@ -22495,7 +22493,7 @@ Te seriale okazały się jednym z najtrwalszych elementów kultury PRL: nie nios
     yearEnd: 1989,
     summary: 'Popularna wakacyjna audycja Programu I Polskiego Radia (od 1971), rozpoznawalna po sygnale „Polka Dziadek”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Lato_z_Radiem_w_Stegnie_%282015%29.JPG?width=800',
-    imageCaption: 'Lato z Radiem',
+    imageCaption: 'Letnia trasa koncertowa „Lata z Radiem” w Stegnie (fot. współczesna)',
     content: `## Audycja
 „Lato z radiem” pojawiło się na antenie Programu Pierwszego Polskiego Radia 1 lipca 1971 roku. W założeniu miał to być magazyn turystyczny na sezon urlopowy; został na ponad pół wieku i jest dziś jedną z najdłużej nadawanych audycji w Polsce.
 
@@ -22656,7 +22654,7 @@ Brak telefonu kształtował codzienność: umawiano się z góry i na stałe, pi
     yearEnd: 1989,
     summary: 'Popularne trio folk-rockowe (Janusz Kruk, Elżbieta Dmoch, Andrzej Krzysztofik), autor przebojów „Chodź, pomaluj mój świat” i „Windą do nieba”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Dwa_plus_Jeden_1972.jpg?width=800',
-    imageCaption: '2 plus 1',
+    imageCaption: 'Zespół 2 plus 1, 1972',
     content: `## Zespół
 2 plus 1 powstał w 1971 roku w Warszawie, założony przez Janusza Kruka i Elżbietę Dmoch. Nazwa opisywała skład: dwóch mężczyzn i kobieta – trzecim był kolejno Andrzej Rybiński, a potem Cezary Szlązak.
 
@@ -22713,7 +22711,7 @@ Janusz Kruk zmarł nagle w 1992 roku, co zakończyło historię zespołu. Elżbi
     yearEnd: 1989,
     summary: 'Jeden z czołowych zespołów big-beatowych lat 60., autor przebojów „Cóż wiemy o miłości” i „Krajobrazy”; w jego szeregach zaczynał Krzysztof Krawczyk.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zesp%C3%B3%C5%82_%22Trubadurzy%22_z_wokalistk%C4%85_Halin%C4%85_%C5%BBytkowiak_-_teledysk.jpg?width=800',
-    imageCaption: 'Trubadurzy',
+    imageCaption: 'Trubadurzy na scenie z Krzysztofem Krawczykiem i Haliną Żytkowiak, 1972',
     content: `## Zespół
 Trubadurzy powstali w Łodzi w 1963 roku. Obok Czerwonych Gitar i Skaldów zaliczani są do najważniejszych grup polskiego big-beatu, a ich największa popularność przypadła na przełom lat 60. i 70.
 
@@ -22767,7 +22765,7 @@ Trubadurzy pokazują, że polski big-beat nie był wyłącznie kopiowaniem Zacho
     yearEnd: 1989,
     summary: 'Jedna z najwybitniejszych polskich wokalistek, o mocnym, charakterystycznym głosie, autorka przebojów „Aleja gwiazd” i „Julia i ja”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zdzis%C5%82awa_So%C5%9Bnicka_1972_%28cropped%29.PNG?width=800',
-    imageCaption: 'Zdzisława Sośnicka',
+    imageCaption: 'Zdzisława Sośnicka na okładce magazynu muzycznego, 1972',
     content: `## Wokalistka
 Zdzisława Sośnicka (ur. 1945) pochodzi z Kalisza i jest jedną z najbardziej cenionych polskich wokalistek. Ma wykształcenie muzyczne, jest też dyrygentką i kompozytorką, publikującą pod pseudonimem.
 
@@ -22876,7 +22874,7 @@ Morze było też granicą państwa, patrolowaną przez Wojska Ochrony Pogranicza
     yearEnd: 1989,
     summary: 'Wszechobecne kioski przedsiębiorstwa „Ruch” – po prasę, papierosy, bilety i drobiazgi; deficytowe towary znikały „spod lady”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Closed%20Old%20Polish%20%27Ruch%27%20Kiosk%20in%20Sorkwity%2C%20Warmian-Masurian%20Voivodeship%2C%20Poland%2C%20July%2C%202020.jpg?width=800',
-    imageCaption: 'Kiosk „Ruch”',
+    imageCaption: 'Zamknięty kiosk „Ruchu” w Sorkwitach na Warmii (fot. współczesna)',
     content: `## Punkt sprzedaży
 Kioski „Ruchu” należały do państwowego przedsiębiorstwa kolportażu prasy, wchodzącego w skład koncernu RSW „Prasa-Książka-Ruch”. Stały na każdym osiedlu, przy przystankach i dworcach, tworząc najgęstszą sieć handlową w kraju – liczoną w dziesiątkach tysięcy punktów.
 
@@ -23210,7 +23208,7 @@ Zgodę na transfer zagraniczny dostał dopiero po trzydziestce, zgodnie z ówcze
     yearEnd: 1989,
     summary: 'Piosenkarz i gitarzysta, autor nostalgicznego przeboju „Gdzie się podziały tamte prywatki” oraz „Zielonych wzgórz nad Soliną”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wojciech_G%C4%85ssowski_2013.jpg?width=800',
-    imageCaption: 'Wojciech Gąssowski',
+    imageCaption: 'Wojciech Gąssowski (fot. współczesna)',
     content: `## Piosenkarz
 Wojciech Gąssowski (ur. 1943) należy do pokolenia, które zaczynało w big-beacie na początku lat 60. Śpiewał w kilku zespołach tamtej sceny, zanim rozwinął karierę solową, i występuje nieprzerwanie od sześćdziesięciu lat.
 
@@ -23264,7 +23262,7 @@ Przetrwał wszystkie zmiany mody: od big-beatu przez disco po współczesne tras
     yearEnd: 1989,
     summary: 'Obowiązkowa, zwykle dwuletnia służba w Ludowym Wojsku Polskim – obrzęd przejścia pokoleń młodych mężczyzn, naznaczony drylem i indoktrynacją.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Obwieszczenie_o_przeprowadzeniu_poboru_m%C4%99%C5%BCczyzn_rocznika_1927.jpg?width=800',
-    imageCaption: 'Zasadnicza służba wojskowa',
+    imageCaption: 'Obwieszczenie o poborze mężczyzn rocznika 1927, 1948',
     content: `## Obowiązek
 Zasadnicza służba wojskowa była w PRL powszechnym obowiązkiem mężczyzn. Trwała dwa lata, a w marynarce dłużej. Powołanie przychodziło zwykle po szkole średniej albo po studiach, gdy służba była krótsza.
 
@@ -23427,7 +23425,7 @@ Jej praca dydaktyczna miała znaczenie systemowe: w PRL nie istniało akademicki
     yearEnd: 1989,
     summary: 'Charyzmatyczny wokalista rockowy i poeta sceny, znany z dramatycznej „Jaskółki uwięzionej”, śpiewał w czołowych zespołach big-beatu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stan_Borys_in_2016.jpg?width=800',
-    imageCaption: 'Stan Borys',
+    imageCaption: 'Stan Borys (fot. współczesna)',
     content: `## Artysta
 Stan Borys, właściwie Stanisław Guzek (ur. 1941), był wokalistą, kompozytorem, aktorem i poetą. Na scenie wyróżniał się ekspresją – śpiewał całym ciałem, co w polskiej estradzie lat 60. było zjawiskiem nowym.
 
@@ -23600,7 +23598,7 @@ Wraz z upowszechnieniem Malucha w latach 70. motocykl przestał być pierwszym w
     yearStart: 1967,
     summary: 'Kultowa komedia Sylwestra Chęcińskiego (1967) o dwóch zwaśnionych rodzinach – Kargulach i Pawlakach – przesiedlonych z Kresów na Ziemie Odzyskane.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/POL_Wac%C5%82aw_Kowalski_W%C5%82adys%C5%82aw_Ha%C5%84cza.jpg?width=800',
-    imageCaption: 'Sami swoi',
+    imageCaption: 'Wacław Kowalski i Władysław Hańcza jako Pawlak i Kargul',
     content: `## Film
 „Sami swoi” Sylwestra Chęcińskiego z 1967 roku powstały według scenariusza Andrzeja Mularczyka. Pawlaka zagrał Wacław Kowalski, Kargula – Władysław Hańcza. To pierwsza część trylogii, którą uzupełniły „Nie ma mocnych” (1974) i „Kochaj albo rzuć” (1977).
 
@@ -23664,7 +23662,7 @@ Zdjęcia kręcono w Lubomierzu na Dolnym Śląsku, gdzie działa dziś muzeum po
     yearStart: 1981,
     summary: 'Kultowa komedia kryminalna Juliusza Machulskiego (1981) o kasiarzu Kwincie, który w przedwojennej Warszawie planuje zemstę na bankierze Kramerze.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Henryk_Kwinto_mural%2C_Vabank%2C_Piramowicza_6%2C_%C5%81%C3%B3d%C5%BA%2C_2023-03-18%2C_03.jpg?width=800',
-    imageCaption: 'Vabank',
+    imageCaption: 'Mural z Henrykiem Kwintą, bohaterem „Vabanku” (fot. współczesna)',
     content: `## Debiut
 „Vabank” Juliusza Machulskiego z 1981 roku był jego pełnometrażowym debiutem. To komedia kryminalna w konwencji retro, rozgrywająca się w Polsce lat 30.
 
@@ -23726,7 +23724,7 @@ Obraz odniósł duży sukces frekwencyjny i doczekał się kontynuacji. Machulsk
     yearEnd: 1986,
     summary: 'Satyryczny serial Stanisława Barei (zrealizowany 1983, emisja 1986) o lokatorach warszawskiego bloku i ich walce z despotycznym gospodarzem Stanisławem Aniołem.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mural_Alternatywy_4_klatka_schodowa_2.jpg?width=800',
-    imageCaption: 'Alternatywy 4',
+    imageCaption: 'Mural z klatką schodową z „Alternatywy 4” na warszawskim Ursynowie (fot. współczesna)',
     content: `## Serial
 „Alternatywy 4” Stanisława Barei zrealizowano w 1983 roku, ale na antenę trafił dopiero w 1986. Trzy lata na półce wynikały z tego, że portret społeczeństwa, jaki dawał, był dla władz zbyt celny.
 
@@ -23780,7 +23778,7 @@ Serial jest dziś jednym z najczęściej cytowanych obrazów epoki. Jego siła p
     yearEnd: 1989,
     summary: 'Jeden z najważniejszych polskich zespołów punkowych, założony w 1981 w Warszawie; bezkompromisowe, antysystemowe teksty uczyniły go głosem buntu młodzieży lat 80.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/00_Dezerter_2025.jpg?width=800',
-    imageCaption: 'Dezerter',
+    imageCaption: 'Dezerter przed koncertem w Bydgoszczy (fot. współczesna)',
     content: `## Zespół
 Dezerter powstał w 1981 roku w Warszawie i stał się najważniejszym polskim zespołem punkowym. Początkowo działał jako SS-20 – od nazwy radzieckiej rakiety średniego zasięgu rozmieszczanej wtedy w Europie – i musiał ją zmienić pod naciskiem organizatorów i cenzury.
 
@@ -23888,7 +23886,7 @@ Obraz obejrzały miliony widzów i przez dziesięciolecia pozostawał najchętni
     yearEnd: 1988,
     summary: 'Komediowy serial Stanisława Barei (zrealizowany 1986, emisja 1987/88) o dwójce taksówkarzy na zmianę prowadzących tę samą taksówkę – kolejna satyra na PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Polski_Fiat_125p_Taxi_Zmiennicy_%28MSP16%29.jpg?width=800',
-    imageCaption: 'Zmiennicy',
+    imageCaption: 'Fiat 125p w barwach taksówki z serialu „Zmiennicy”',
     content: `## Serial
 „Zmiennicy” to ostatni serial Stanisława Barei, emitowany od 18 października 1987 do 12 lutego 1988 roku. Tytuł roboczy brzmiał „Zawód taksówkarz” i dobrze oddawał punkt wyjścia.
 
@@ -23999,7 +23997,7 @@ Popularność Urszuli przypadła na dekadę, w której rock stał się główną
     yearEnd: 1989,
     summary: 'Prosta wirnikowa pralka „Frania” była jednym z symboli PRL-owskiego AGD – obecna w niemal każdym domu, choć wymagała ręcznego przekładania prania.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pralka_Frania_-_producent_%C5%9Awiatowit.jpg?width=800',
-    imageCaption: 'Pralka Frania',
+    imageCaption: 'Pralka Frania produkcji zakładów Światowit',
     content: `## Urządzenie
 Frania była elektryczną pralką wirnikową – zbiornikiem z silnikiem i wirnikiem, który poruszał wodę z praniem. Nie miała programów, grzałki ani wirowania: woda musiała być nalana ręcznie, a pranie wyjęte i wyżęte samodzielnie.
 
@@ -24105,7 +24103,7 @@ Krytyka traktowała Papa Dance lekceważąco jako muzykę komercyjną. Z perspek
     yearEnd: 1989,
     summary: 'Jeden z najważniejszych polskich zespołów heavy metalowych; przebój „Dorosłe dzieci” (1983) stał się hymnem pokolenia.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krushfest-Turbo.jpg?width=800',
-    imageCaption: 'Turbo',
+    imageCaption: 'Turbo na koncercie (fot. współczesna)',
     content: `## Zespół
 Turbo powstało w Poznaniu na przełomie lat 70. i 80. i stało się jednym z pierwszych polskich zespołów grających ciężki rock. Wypełniało lukę, której estrada nie obsługiwała: muzykę głośną, gitarową, adresowaną do młodzieży robotniczej.
 
@@ -24274,7 +24272,7 @@ Po latach spędzonych częściowo za granicą wróciła do występów i pracy te
     yearStart: 1988,
     summary: 'Groteskowa komedia fantasy Juliusza Machulskiego (1988) o krasnoludkach marzących o przejściu z ciasnej „szuflandii” do wielkiego „kingsajzu” – alegoria PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Quotation%20from%20film%20%27Kingsajz%27%20advertising%20XXXIV%20Polish%20Film%20Festival%20in%20Gdynia%202009.jpg?width=800',
-    imageCaption: 'Kingsajz',
+    imageCaption: 'Cytat z „Kingsajzu” na chodniku w Gdyni, reklama festiwalu filmowego (fot. współczesna)',
     content: `## Film
 „Kingsajz” Juliusza Machulskiego, zrealizowana w 1987 roku i pokazana rok później, to komedia fantastyczna. Tytuł nawiązuje do napoju, który krasnoludkom nadaje wymiary zwykłego człowieka – dla nich właśnie królewski rozmiar.
 
@@ -24436,7 +24434,7 @@ Jego sukcesy pokazywano w kraju, ale sam model kariery – indywidualny, zawodow
     yearEnd: 1989,
     summary: 'Nysa i Żuk to najpopularniejsze polskie samochody dostawcze epoki – mikrobusy, karetki, furgony i milicyjne „suki” widoczne na każdej ulicy.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Nysa_522_T_during_%E2%80%9EXXX_lat_motoryzacji_PRL%E2%80%9D_exhibition_at_Bonarka_City_Center_in_Krak%C3%B3w.JPG?width=800',
-    imageCaption: 'Nysa i Żuk',
+    imageCaption: 'Nysa 522 T na wystawie motoryzacji PRL (fot. współczesna)',
     content: `## Dwa samochody dostawcze
 Nysa i Żuk były podstawą transportu użytkowego w PRL. Nysę produkowano w Nysie od 1959 do 1994 roku, Żuka – w Fabryce Samochodów Ciężarowych w Lublinie. Oba powstały na bazie podzespołów samochodów osobowych.
 
@@ -24497,7 +24495,7 @@ Oba modele produkowano przez dziesięciolecia w niewiele zmienionej postaci. Wyn
     yearStart: 1975,
     summary: 'Monumentalna ekranizacja powieści Marii Dąbrowskiej (1975, reż. Jerzy Antczak); saga rodziny Niechciców, nominowana do Oscara.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Noce%20i%20dnie%20%28English%20title%20%E2%80%93%20Nights%20and%20Days%2C%20opening%20credits%20title%29.jpg?width=800',
-    imageCaption: 'Noce i dnie',
+    imageCaption: 'Napis tytułowy z czołówki „Nocy i dni”, 1975',
     content: `## Film i serial
 „Noce i dnie” Jerzego Antczaka z 1975 roku to adaptacja powieści Marii Dąbrowskiej. Obok wersji kinowej powstał dwa lata później serial telewizyjny, obszerniejszy i przez wielu widzów uważany za wersję właściwą.
 
@@ -24558,7 +24556,7 @@ Obraz otrzymał nominację do Oscara i był jedną z największych polskich prod
     yearStart: 1958,
     summary: 'Arcydzieło polskiej szkoły filmowej (1958, reż. Andrzej Wajda) z ikoniczną rolą Zbigniewa Cybulskiego jako Maćka Chełmickiego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zbigniew_Cybulski_w_filmie_Popi%C3%B3%C5%82_i_diament_%281958%29_1.jpg?width=800',
-    imageCaption: 'Popiół i diament',
+    imageCaption: 'Zbigniew Cybulski w „Popiele i diamencie”, 1958',
     content: `## Film
 „Popiół i diament” Andrzeja Wajdy z 1958 roku powstał na podstawie powieści Jerzego Andrzejewskiego. Akcja toczy się 8 maja 1945 roku – w dniu zakończenia wojny w Europie, gdy dla bohaterów zaczyna się zupełnie nowy konflikt.
 
@@ -24677,7 +24675,7 @@ Zespół działał z przerwami także po 1989 roku. Jego nagrania z pierwszej po
     yearEnd: 1989,
     summary: 'Meblościanka (segment) – zestaw połączonych szafek i regałów – była centralnym meblem PRL-owskiego salonu i wizytówką mieszkania.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mebloscianka.jpg?width=800',
-    imageCaption: 'Meblościanka',
+    imageCaption: 'Meblościanka – zestaw mebli typowy dla lat 70. i 80.',
     content: `## Mebel epoki
 Meblościanka – zestaw szafek, półek i witryn ustawiony wzdłuż jednej ściany – była w PRL standardowym wyposażeniem pokoju dziennego. Odpowiadała na realny problem: w mieszkaniu o kilkunastu metrach na pokój meble musiały zajmować jak najmniej podłogi.
 
@@ -24730,7 +24728,7 @@ Dziś meblościanka jest skrótem opisującym całą estetykę epoki: praktyczn�
     yearStart: 1982,
     summary: 'Kultowy melodramat Jerzego Hoffmana (1982) wg powieści Dołęgi-Mostowicza; wybitny chirurg traci pamięć i jako wiejski „znachor” ratuje ludzi.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Scena%20z%20filmu%20Znachor.jpg?width=800',
-    imageCaption: 'Znachor',
+    imageCaption: 'Kadr z pierwszej ekranizacji „Znachora” z 1937 roku',
     content: `## Film
 „Znachor” Jerzego Hoffmana, zrealizowany w 1981 roku i pokazany rok później, to melodramat według powieści Tadeusza Dołęgi-Mostowicza z 1937 roku. Była to druga ekranizacja tej książki – pierwsza powstała jeszcze przed wojną.
 
@@ -24791,7 +24789,7 @@ Melodramat o utraconej tożsamości i o krzywdzie naprawionej po latach jest kon
     yearStart: 1975,
     summary: 'Wielki fresk Andrzeja Wajdy (1975) wg powieści Reymonta o trzech przyjaciołach budujących fabrykę w drapieżnej, przemysłowej Łodzi; nominowany do Oscara.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej%20Wajda%201974.jpg?width=800',
-    imageCaption: 'Ziemia obiecana',
+    imageCaption: 'Andrzej Wajda na planie „Ziemi obiecanej”, 1974',
     content: `## Film
 „Ziemia obiecana” Andrzeja Wajdy powstała w 1974 roku, a na ekrany weszła rok później, na podstawie powieści Władysława Reymonta. Rzecz dzieje się w Łodzi końca XIX wieku, w czasie gwałtownego rozwoju przemysłu włókienniczego.
 
@@ -24853,7 +24851,7 @@ Film kręcono w autentycznych łódzkich fabrykach i pałacach fabrykanckich, co
     yearEnd: 1989,
     summary: 'Lekkoatleta, skoczek wzwyż; jako 19-latek zdobył złoto olimpijskie w Montrealu 1976, a w 1980 ustanowił rekord świata.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wszola_Jacek.jpg?width=800',
-    imageCaption: 'Jacek Wszoła',
+    imageCaption: 'Jacek Wszoła, mistrz olimpijski w skoku wzwyż (fot. współczesna)',
     content: `## Cudowne dziecko Montrealu
 Jacek Wszoła (ur. 1956) wygrał mistrzostwa Europy juniorów w 1975 roku, a rok później, mając dziewiętnaście lat, zdobył w Montrealu złoty medal olimpijski w skoku wzwyż. Przylgnęło do niego określenie „cudowne dziecko Montrealu”.
 
@@ -25434,7 +25432,7 @@ Kamienica jako mikroświat pozwalała pokazać całą epokę bez wielkich scen h
     yearEnd: 1989,
     summary: 'Kultowa polska kreskówka o przygodach dwóch braci, produkowana w Studiu Filmów Rysunkowych w Bielsku-Białej; opowiadana niemal bez słów.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bolek%20and%20Lolek%20monument%208.jpg?width=800',
-    imageCaption: 'Bolek i Lolek',
+    imageCaption: 'Pomnik Bolka i Lolka w Bielsku-Białej (fot. współczesna)',
     content: `## Serial
 „Bolek i Lolek” powstawał od lat 60. w Studiu Filmów Rysunkowych w Bielsku-Białej. Bohaterami są dwaj bracia przeżywający przygody w kolejnych scenografiach: na Dzikim Zachodzie, w dżungli, w kosmosie, na wakacjach.
 
@@ -25488,7 +25486,7 @@ Z czasem do duetu dołączyła Tola – postać dziewczynki wprowadzona po uwaga
     yearEnd: 1989,
     summary: 'Seria animowana o sympatycznym psie Reksiu, produkowana od 1967 w Studiu Filmów Rysunkowych w Bielsku-Białej; z rozpoznawalną czołówką.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bielsko-Bia%C5%82a%2C%20Reksio%20i%20fontanna.jpg?width=800',
-    imageCaption: 'Reksio',
+    imageCaption: 'Pomnik Reksia w Bielsku-Białej (fot. współczesna)',
     content: `## Serial
 „Reksio” powstawał w latach 1967–1990 w Studiu Filmów Rysunkowych w Bielsku-Białej, w reżyserii i według scenariusza Lechosława Marszałka. To jeden z najdłużej realizowanych polskich seriali animowanych.
 
@@ -25764,7 +25762,7 @@ Filemon należał do żelaznego repertuaru wieczorynki. W kraju z dwoma programa
     yearStart: 1962,
     summary: 'Pełnometrażowy debiut Romana Polańskiego (1962); kameralny dramat psychologiczny na jachcie, pierwszy polski film nominowany do Oscara.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jolanta%20Umecka%20w%20No%C5%BCu%20w%20wodzie%202.jpg?width=800',
-    imageCaption: 'Nóż w wodzie',
+    imageCaption: 'Jolanta Umecka w „Nożu w wodzie”, 1962',
     content: `## Debiut
 „Nóż w wodzie” był pełnometrażowym debiutem Romana Polańskiego. Film zrealizowano w 1961 roku, na ekrany wszedł rok później. Scenariusz napisał Polański wspólnie z Jerzym Skolimowskim i Jakubem Goldbergiem.
 
@@ -26037,7 +26035,7 @@ Dla młodzieży dyskoteka była jedną z niewielu form spędzania czasu poza str
     yearEnd: 1989,
     summary: 'Przedsiębiorstwo prowadzące sklepy z zachodnimi towarami za waluty wymienialne i bony; obok Pewexu symbol dwuwalutowej gospodarki PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bon%20baltonowski%2020c%20a.jpg?width=800',
-    imageCaption: 'Baltona',
+    imageCaption: 'Bon z dodatku dewizowego',
     content: `## Skąd nazwa
 Baltona powstała w 1946 roku w Gdyni jako przedsiębiorstwo handlu zagranicznego. Nazwa jest złożeniem słów Bałtyk i tona – firma zaczynała od zaopatrywania statków, a nie od handlu detalicznego.
 
@@ -26196,7 +26194,7 @@ W latach 80. lasy karkonoskie zaczęły masowo zamierać wskutek zanieczyszczeń
     yearEnd: 1985,
     summary: 'Wrocławski zespół nowej fali założony w 1979 przez Lecha Janerkę; jego przełomowy album (1984) i przebój „Jezu jak się cieszę” to klasyka gatunku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Lech_Janerka_%28Klaus_Mitffoch%29_%283596269749%29.jpg?width=800',
-    imageCaption: 'Klaus Mitffoch',
+    imageCaption: 'Koncert Lecha Janerki (fot. współczesna)',
     content: `## Zespół
 Klaus Mitffoch powstał w 1979 roku we Wrocławiu, założony przez Lecha Janerkę. Nazwa – celowo bezsensowna, brzmiąca z niemiecka – była częścią strategii: zespół od początku odcinał się od konwencji polskiej estrady.
 
@@ -26370,7 +26368,7 @@ Główna ulica była miejscem, gdzie stykały się dwa światy: oficjalna turyst
     yearStart: 1977,
     summary: 'Ceniona ekranizacja powieści Bolesława Prusa w reżyserii Ryszarda Bera (1977); dzieje kupca Wokulskiego i jego miłości do Izabeli Łęckiej.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jerzy_Kamas.jpg?width=800',
-    imageCaption: 'Lalka',
+    imageCaption: 'Jerzy Kamas, serialowy Wokulski, na zdjęciu z teatralnej roli w 1973 roku',
     content: `## Ekranizacja
 Serial „Lalka” z 1977 roku, w reżyserii Ryszarda Bera, był drugą po filmie Wojciecha Hasa z 1968 roku dużą ekranizacją powieści Bolesława Prusa. Formuła wieloodcinkowa pozwoliła oddać to, na co w filmie nie było miejsca: rozbudowaną panoramę Warszawy końca XIX wieku.
 
@@ -26423,7 +26421,7 @@ Serial przez dekady powracał na antenę i pozostał punktem odniesienia przy ka
     yearStart: 1980,
     summary: 'Serial (1980) wg powieści Dołęgi-Mostowicza z Romanem Wilhelmim; bezrobotny Dyzma robi zawrotną karierę w elitach dzięki tupetowi i szczęściu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Karjera_Nikodema_Dyzmy.jpg?width=800',
-    imageCaption: 'Kariera Nikodema Dyzmy',
+    imageCaption: 'Strona tytułowa pierwszego wydania powieści Dołęgi-Mostowicza, 1932',
     content: `## Serial
 Siedmioodcinkowa „Kariera Nikodema Dyzmy” w reżyserii Jana Rybkowskiego i Marka Nowickiego była emitowana wiosną 1980 roku, na kilka miesięcy przed Sierpniem. Powstała na podstawie powieści Tadeusza Dołęgi-Mostowicza z 1931 roku.
 
@@ -26477,7 +26475,7 @@ Rola Romana Wilhelmiego stała się jedną z najbardziej rozpoznawalnych w histo
     yearEnd: 1989,
     summary: 'Warszawski zespół nowej fali założony w 1983 przez Igora Czerniawskiego; przebój „Skóra” to klasyk gatunku, a wokalistą bywał Paweł Kukiz.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pawel_Kukiz.jpg?width=800',
-    imageCaption: 'Aya RL',
+    imageCaption: 'Paweł Kukiz, wokalista Aya RL (fot. współczesna)',
     content: `## Zespół
 Aya RL, początkowo Aya Red Love, powstała w 1983 roku. Założyli ją Igor Czerniawski, Paweł Kukiz i Jarosław Lach. Nazwa – nieoczywista, obca brzmieniowo – sama w sobie była deklaracją zerwania z estradową konwencją.
 
@@ -26944,7 +26942,7 @@ Autobus był w PRL środkiem transportu podstawowym, nie uzupełniającym: przy 
     yearStart: 1977,
     summary: 'Sztandarowy film kina moralnego niepokoju w reżyserii Krzysztofa Zanussiego (1977); o konformizmie inteligencji, ze starciem idealizmu i cynizmu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Barwy%20ochronne%2C%20Zbigniew%20Zapasiewicz.jpg?width=800',
-    imageCaption: 'Barwy ochronne',
+    imageCaption: 'Zbigniew Zapasiewicz na planie „Barw ochronnych”',
     content: `## Film
 Dramat Krzysztofa Zanussiego zrealizowany w 1976 roku, na ekrany wszedł rok później. Należy do nurtu kina moralnego niepokoju – filmów opisujących mechanizmy przystosowania i cichej korupcji w instytucjach PRL.
 
@@ -27333,7 +27331,7 @@ Za życia stał się postacią anegdotyczną, a opowieści o nim krążyły w ś
     yearEnd: 1989,
     summary: 'Państwowa Komunikacja Samochodowa obsługiwała autobusowy transport dalekobieżny i lokalny; dla wielu wsi PKS był jedynym połączeniem ze światem.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Neon_PKS_Dworzec_Wroc%C5%82aw.jpg?width=800',
-    imageCaption: 'PKS',
+    imageCaption: 'Neon z godłem Państwowej Komunikacji Samochodowej na dworcu we Wrocławiu',
     content: `## Kraj na autobusach
 Państwowa Komunikacja Samochodowa była w PRL podstawowym środkiem transportu poza koleją. Przy niskiej motoryzacji indywidualnej to PKS łączył wsie i miasteczka z miastami powiatowymi, dowoził do pracy, szkoły i szpitala.
 
@@ -27655,7 +27653,7 @@ Film wyróżniała fotografia Jana Laskowskiego i jazzowy motyw muzyczny – oba
     yearEnd: 1974,
     summary: 'Pierwszy polski girlsband, założony w 1959 w szczecińskim technikum; u szczytu popularności „Batumi” nuciła cała Polska, a o zespole pisał „Billboard”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Filipinki_1966.jpg?width=800',
-    imageCaption: 'Filipinki',
+    imageCaption: 'Filipinki podczas zdjęć do filmu, wiosna 1966',
     content: `## Zespół ze szkoły
 Filipinki powstały w listopadzie 1959 roku przy Technikum Handlowym w Szczecinie, z okazji piętnastolecia szkoły. Założył je Jan Janikowski, nauczyciel ekonomii, towaroznawstwa i muzyki. Nazwa pochodziła od tytułu pisma dla dziewcząt „Filipinka”.
 
@@ -27766,7 +27764,7 @@ Odejście obu przyjaciół w tak krótkim czasie zamknęło pewien rozdział pol
     yearEnd: 1989,
     summary: 'Najpopularniejsza zachodnia rozgłośnia muzyczna słuchana w PRL; nadawała przeboje, których nie było w oficjalnym radiu – okno na światowy rock i pop.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Expo58%20radio%20luxembourg.jpg?width=800',
-    imageCaption: 'Radio Luxembourg',
+    imageCaption: 'Pawilon Radia Luksemburg na wystawie Expo, 1958',
     content: `## Luxy
 Radio Luxembourg, nazywane w Polsce „Luxy”, była komercyjną rozgłośnią nadającą z Wielkiego Księstwa Luksemburga. W latach 60. i 70. grało muzykę młodzieżową i wyznaczało mody muzyczne w całej Europie, także w krajach bloku wschodniego.
 
@@ -28030,7 +28028,7 @@ Likwidacja PGR-ów po 1989 roku pozbawiła pracy i zaplecza socjalnego całe mie
     yearStart: 1976,
     summary: 'Kultowa komedia kryminalna Stanisława Barei (1976); Michałowi Romanowi Cyganka przepowiada, że nazajutrz zabije brunetkę – i zaczyna się absurd.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Quotation%20from%20Brunet%20At%20Evening.jpg?width=800',
-    imageCaption: 'Brunet wieczorową porą',
+    imageCaption: 'Cytat z „Bruneta wieczorową porą” na chodniku w Gdyni (fot. współczesna)',
     content: `## Film
 Komedia kryminalna Stanisława Barei z 1976 roku, napisana wspólnie ze Stanisławem Tymem, który zagrał w niej jedną z ról. Punktem wyjścia jest przepowiednia jasnowidza, że bohater – grany przez Krzysztofa Kowalewskiego – zabije bruneta. Kiedy w jego domu rzeczywiście pojawia się trup, zaczyna się farsa z ukrywaniem ciała.
 
@@ -28087,7 +28085,7 @@ Współpraca z Tymem doprowadziła cztery lata później do „Misia” – film
     yearEnd: 1989,
     summary: 'Gwiazda polskiej estrady lat 60., „dziewczyna big-beatu”; przeboje „O mnie się nie martw” i „Biedroneczki są w kropeczki” śpiewała cała Polska.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kasia%20Sobczyk.jpg?width=800',
-    imageCaption: 'Kasia Sobczyk',
+    imageCaption: 'Katarzyna Sobczyk na koncercie (fot. współczesna)',
     content: `## Piosenkarka big-beatu
 Katarzyna Sobczyk (1945–2010), właściwie Kazimiera Sobczyk-Sawicka, była jedną z najpopularniejszych wokalistek okresu big-beatu. Występowała z zespołem Czerwono-Czarni, a jej wizerunek – drobna sylwetka i charakterystyczna grzywka – stał się rozpoznawalnym znakiem epoki.
 
@@ -28198,7 +28196,7 @@ Dla jednych pozostał czołgistą, dla innych Mateuszem albo Jankielem – rzadk
     yearEnd: 1989,
     summary: 'Państwowy monopolista usług pocztowych i telekomunikacyjnych; listy, telegramy, paczki i przekazy pieniężne łączyły rodziny w całym kraju.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Biurowiec_przy_ul._Rodziny_Hiszpa%C5%84skich_8_w_Warszawie_2026.jpg?width=800',
-    imageCaption: 'Poczta Polska',
+    imageCaption: 'Biurowiec Poczty Polskiej w Warszawie (fot. współczesna)',
     content: `## Jedna instytucja, trzy dziedziny
 W PRL poczta, telegraf i telefon tworzyły jedno przedsiębiorstwo państwowe – Polską Pocztę, Telegraf i Telefon. Oznaczało to, że ta sama instytucja doręczała listy, obsługiwała telegramy i decydowała o przyznaniu telefonu.
 
@@ -28303,7 +28301,7 @@ Krytyka traktowała Bareję lekceważąco przez całą jego karierę. Dopiero po
     yearEnd: 1989,
     summary: 'Wokalistka rock and rolla i big-beatu, „dziewczyna z gitarą”; z Czerwono-Czarnymi nagrała przebój „Malowana lala”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Karin_Stanek%2C_1967_r.jpg?width=800',
-    imageCaption: 'Karin Stanek',
+    imageCaption: 'Karin Stanek w teledysku do „Soboty”, 1967',
     content: `## Dziewczyna z gitarą
 Karin Stanek (1943–2011) pochodziła z Bytomia i śpiewała w zespole Czerwono-Czarni. Na scenie zachowywała się inaczej niż ówczesne wokalistki: energicznie, chłopięco, bez estradowej sztuczności – i to zdecydowało o jej pozycji jako jednego z symboli polskiego big-beatu.
 
@@ -28524,7 +28522,7 @@ Komedia śmieje się z biurokracji, bałaganu i pozorowanej pracy, ale robi to w
     yearEnd: 1989,
     summary: 'Wokalistka big-beatu zwana „królową twista”; energicznymi przebojami jak „Czarny Alibaba” porywała młodzież początku lat 60.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Szczecin_Helena_Majdaniec_pomnik.jpg?width=800',
-    imageCaption: 'Helena Majdaniec',
+    imageCaption: 'Pomnik Heleny Majdaniec przy Teatrze Letnim w Szczecinie (fot. współczesna)',
     content: `## Królowa twista
 Helena Majdaniec (1941–2002) była jedną z czołowych wokalistek polskiego big-beatu i zyskała przydomek „królowej twista”. Karierę zaczynała w Szczecinie, a rozgłos przyniósł jej występ na festiwalu w Sopocie i współpraca z zespołem Czerwono-Czarni.
 
@@ -28759,7 +28757,7 @@ Kreacja Barbary Krafftówny uchodzi za jedną z najwybitniejszych ról kobiecych
     yearEnd: 1986,
     summary: 'Fortepianowy duet Marka Tomaszewskiego i Wacława „Vacka” Kisielewskiego; z humorem przerabiali klasykę na nowocześnie i robili międzynarodową karierę.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Marek_i_Wacek.JPG?width=800',
-    imageCaption: 'Marek i Wacek',
+    imageCaption: 'Duet fortepianowy Marek i Wacek',
     content: `## Duet
 Marek Tomaszewski i Wacław Kisielewski tworzyli duet fortepianowy działający w latach 1966–1986. Grali na dwóch fortepianach ustawionych naprzeciw siebie, co samo w sobie było elementem widowiska – publiczność widziała obu wykonawców i grę spojrzeń między nimi. Kisielewski był synem Stefana Kisielewskiego, kompozytora i publicysty „Tygodnika Powszechnego”.
 
@@ -29149,7 +29147,7 @@ Słynna scena zbiorowego tańca – tytułowego salta – stała się jednym z n
     yearEnd: 1989,
     summary: 'Legendarny warszawski kabaret założony w 1965 przez Edwarda Dziewońskiego; słynny z inteligentnych skeczów jak „Sęk”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tablica%20Kabaret%20Dudek.jpg?width=800',
-    imageCaption: 'Kabaret Dudek',
+    imageCaption: 'Tablica przy Nowym Świecie 63 w Warszawie, upamiętniająca m.in. Kabaret Dudek (fot. współczesna)',
     content: `## Scena przy Nowym Świecie
 Kabaret Dudek, założony i prowadzony przez Edwarda Dziewońskiego, zainaugurował działalność w styczniu 1965 roku. Występy odbywały się w kawiarni „Nowy Świat” w Warszawie – w warunkach kameralnych, przy stolikach.
 
@@ -29264,7 +29262,7 @@ Jazz w pierwszej połowie lat 50. był w Polsce tępiony jako muzyka imperialist
     yearStart: 1970,
     summary: 'Surrealistyczna, kultowa parodia kina superbohaterskiego Andrzeja Kondratiuka (1970); w upalnej Warszawie znika woda, a ratuje ją bohater As.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Quotation_from_film_%27Hydrozagadka%27_advertising_XXXIV_Polish_Film_Festival_in_Gdynia_2009_-_1.jpg?width=800',
-    imageCaption: 'Hydrozagadka',
+    imageCaption: 'Cytat z „Hydrozagadki” na bulwarze w Gdyni, reklama festiwalu filmowego (fot. współczesna)',
     content: `## Film
 „Hydrozagadka” Andrzeja Kondratiuka, zrealizowana w 1970 roku i pokazana rok później, to komedia fantastycznonaukowa utrzymana w konwencji parodii: filmu sensacyjnego, kina o superbohaterach i komiksu. Powstała jako produkcja telewizyjna, w skromnych warunkach.
 
@@ -29377,7 +29375,7 @@ Prezenty miały wymiar praktyczny: pościel, komplet garnków, sprzęt gospodars
     yearStart: 1970,
     summary: 'Trzyczęściowa wojenna komedia Tadeusza Chmielewskiego (1970); kanonier Franek Dolas jest przekonany, że to on rozpętał II wojnę światową.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Przybli%C5%BCona%20trasa%20Franciszka%20Dolasa%20w%20serialu%20Jak%20rozp%C4%99ta%C5%82em%20II%20wojn%C4%99%20%C5%9Bwiatow%C4%85.png?width=800',
-    imageCaption: 'Jak rozpętałem drugą wojnę światową',
+    imageCaption: 'Trasa Franciszka Dolasa z serialu „Jak rozpętałem drugą wojnę światową”',
     content: `## Film
 Komedia wojenna Tadeusza Chmielewskiego, zrealizowana w 1969 roku i pokazana rok później, oparta na powieści Kazimierza Sławińskiego. Powstała jako trzyczęściowa opowieść o kanonierze Franciszku Dolasie, granym przez Mariana Kociniaka.
 
@@ -29884,8 +29882,6 @@ Po oficjalnym pokazie film trafił do Cannes, gdzie Krystyna Janda otrzymała na
     yearStart: 1976,
     yearEnd: 1989,
     summary: 'Półkowniki to filmy, których rozpowszechnianie wstrzymała cenzura – kładziono je „na półkę”; najwięcej trafiło tam po wprowadzeniu stanu wojennego.',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Archiv_DIAF_%2802%29.JPG?width=800',
-    imageCaption: 'Półkowniki',
     content: `## Skąd nazwa
 Półkownikami nazywano żartobliwie filmy zatrzymane przez cenzurę i odłożone – dosłownie – na półkę. Słowo powstało z gry na wyrazie pułkownik i oddawało ironiczny stosunek środowiska do tej praktyki.
 
@@ -31209,7 +31205,7 @@ Odbudowane Stare Miasto zostało wpisane na listę światowego dziedzictwa UNESC
     yearEnd: 1956,
     summary: 'Członek Biura Politycznego odpowiadający za ideologię, kulturę i nadzór nad aparatem bezpieczeństwa; wraz z Bierutem i Mincem tworzył ścisłe kierownictwo lat 1949–1956.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jakub_Berman.jpg?width=800',
-    imageCaption: 'Jakub Berman',
+    imageCaption: 'Jakub Berman, członek Biura Politycznego odpowiedzialny za aparat bezpieczeństwa',
     content: `## Kim był
 Jakub Berman (1901–1984), prawnik z wykształcenia, wojnę spędził w ZSRR, gdzie współtworzył tajne Centralne Biuro Komunistów Polski przy KC WKP(b). Od sierpnia 1944 roku zasiadał w Biurze Politycznym, najpierw PPR, potem PZPR.
 
@@ -31393,7 +31389,7 @@ Zrezygnował ze stanowisk w 1968 roku, w czasie kampanii marcowej. Jego odejści
     yearEnd: 1964,
     summary: 'Generał i działacz komunistyczny, przewodniczący Rady Państwa w latach 1952–1964, czyli formalna głowa państwa przez cały ten okres.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Aleksander_Zawadzki_1.jpg?width=800',
-    imageCaption: 'Aleksander Zawadzki',
+    imageCaption: 'Aleksander Zawadzki, przewodniczący Rady Państwa, około 1952',
     content: `## Droga
 Aleksander Zawadzki (1899–1964) wywodził się z Zagłębia Dąbrowskiego i z przedwojennego ruchu komunistycznego. W czasie wojny stanął na czele tajnego Centralnego Biura Komunistów Polski w ZSRR, a następnie był zastępcą naczelnego dowódcy Wojska Polskiego do spraw polityczno-wychowawczych.
 
@@ -31439,7 +31435,7 @@ Przetrwał na szczycie zmianę epok – stalinizm, Październik i pierwsze lata 
     yearEnd: 1956,
     summary: 'Szef resortu bezpieczeństwa od PKWN w 1944 roku aż do rozwiązania MBP w 1954, odpowiedzialny za aparat represji okresu stalinowskiego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw_Radkiewicz.jpg?width=800',
-    imageCaption: 'Stanisław Radkiewicz',
+    imageCaption: 'Stanisław Radkiewicz, szef Ministerstwa Bezpieczeństwa Publicznego, 1946',
     content: `## Dziesięć lat na czele bezpieki
 Stanisław Radkiewicz (1903–1987) kierował resortem bezpieczeństwa publicznego od jego powstania w PKWN w 1944 roku do rozwiązania Ministerstwa Bezpieczeństwa Publicznego pod koniec 1954 roku. Był to okres najcięższych represji w historii PRL.
 
@@ -31485,7 +31481,7 @@ Usunięty z kierownictwa w 1956 roku, nigdy nie odpowiedział przed sądem za dz
     yearEnd: 1955,
     summary: 'Wicedyrektor Departamentu X MBP, który uciekł na Zachód w 1953 roku, a jego audycje w Radiu Wolna Europa ujawniły kulisy aparatu bezpieczeństwa.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jozef_Swiatlo.jpg?width=800',
-    imageCaption: 'Józef Światło',
+    imageCaption: 'Józef Światło, 1952',
     content: `## Kim był
 Józef Światło, właściwie Izaak Fleischfarb (1915–1994), był wysokim funkcjonariuszem Ministerstwa Bezpieczeństwa Publicznego, wicedyrektorem Departamentu X – komórki zajmującej się kontrolą samej partii i tropieniem odchyleń wśród jej działaczy. Znał mechanizmy aparatu od środka, bo je współtworzył.
 
@@ -31577,7 +31573,7 @@ Podczas VIII Plenum w październiku 1956 roku jego pozostanie w Polsce stało si
     yearEnd: 1970,
     summary: 'Architekt i pierwszy powojenny prezydent Warszawy, więziony w latach 1950–1956, później marszałek Polski i przewodniczący Rady Państwa.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Spychalski_Marian.jpg?width=800',
-    imageCaption: 'Marian Spychalski',
+    imageCaption: 'Marian Spychalski w latach 40.',
     content: `## Architekt
 Marian Spychalski (1906–1980) był z wykształcenia architektem i to zdecydowało o jego pierwszej powojennej roli: jako prezydent Warszawy w latach 1944–1945 powołał Biuro Organizacji Odbudowy Warszawy, przekształcone następnie w Biuro Odbudowy Stolicy.
 
@@ -31623,7 +31619,7 @@ Stracił stanowiska po grudniu 1970 roku, wraz z ekipą Gomułki. Jego biografia
     yearEnd: 1980,
     summary: 'Premier w latach 1970–1980, wykonawca gospodarczego programu ekipy Gierka; zamordowany wraz z żoną w 1992 roku w niewyjaśnionych okolicznościach.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Piotr_Jaroszewicz%2C_Prime_Minister_of_the_People%27s_Republic_of_Poland_1970-1980_%28cropped%29_%28cropped%29.jpg?width=800',
-    imageCaption: 'Piotr Jaroszewicz',
+    imageCaption: 'Piotr Jaroszewicz, premier w latach 1970–1980',
     content: `## Kariera
 Piotr Jaroszewicz (1909–1992) przed objęciem urzędu premiera był przez osiemnaście lat wicepremierem i ministrem górnictwa. Generał dywizji, długoletni poseł, człowiek aparatu w każdym calu.
 
@@ -31761,7 +31757,7 @@ W procesie szesnastu otrzymał najwyższy wyrok – dziesięć lat więzienia. Z
     yearEnd: 1955,
     summary: 'Socjalista i premier rządu RP na uchodźstwie w latach 1944–1947; do 5 lipca 1945 roku kierował rządem uznawanym międzynarodowo za władze Polski.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tomasz_Arciszewski.jpg?width=800',
-    imageCaption: 'Tomasz Arciszewski',
+    imageCaption: 'Tomasz Arciszewski, premier rządu RP na uchodźstwie, 1944',
     content: `## Bojowiec i poseł
 Tomasz Arciszewski (1877–1955) zaczynał w Organizacji Bojowej PPS w czasach zaborów. W niepodległej Polsce był ministrem poczt i telegrafów w pierwszych rządach oraz posłem przez cztery kadencje. W czasie okupacji kierował podziemną PPS-WRN.
 
@@ -31807,7 +31803,7 @@ Arciszewski pozostał premierem do 1947 roku i do końca życia działał na emi
     yearEnd: 1950,
     summary: 'Socjalista, przewodniczący Rady Jedności Narodowej – podziemnego parlamentu; sądzony w Moskwie, a następnie skazany w Polsce, zmarł w więzieniu w Rawiczu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz_Pu%C5%BCak_-_6-14.jpg?width=800',
-    imageCaption: 'Kazimierz Pużak',
+    imageCaption: 'Kazimierz Pużak, przywódca PPS, w latach 30.',
     content: `## Weteran
 Kazimierz Pużak (1883–1950) działał w ruchu socjalistycznym od czasów zaborów; za działalność niepodległościową odsiedział wiele lat w rosyjskim więzieniu. W II Rzeczypospolitej był posłem czterech kadencji.
 
@@ -31853,7 +31849,7 @@ Zmarł 30 kwietnia 1950 roku w więzieniu w Rawiczu. Jego los pokazuje, że dla 
     yearEnd: 1978,
     summary: 'Jeden z przywódców PPS na emigracji, publicysta i wieloletni krytyk zarówno komunizmu, jak i prób porozumienia z władzami PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Cio%C5%82kosz1.jpg?width=800',
-    imageCaption: 'Adam Ciołkosz',
+    imageCaption: 'Adam Ciołkosz, około 1956',
     content: `## Przed wojną
 Adam Ciołkosz (1901–1978) był instruktorem harcerskim, oficerem i posłem PPS w II Rzeczypospolitej. W procesie brzeskim, wytoczonym opozycji przez sanację, skazano go na karę więzienia – doświadczenie, które ukształtowało jego stosunek do władzy łamiącej reguły.
 
@@ -31899,7 +31895,7 @@ Publicystyka Ciołkosza dowodziła, że sprzeciw wobec PRL nie był domeną wył
     yearEnd: 1967,
     summary: 'Działacz i publicysta socjalistyczny, jeden z przywódców podziemnej PPS-WRN, po wojnie na emigracji we Francji.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zaremba1.jpg?width=800',
-    imageCaption: 'Zygmunt Zaremba',
+    imageCaption: 'Zygmunt Zaremba, około 1955',
     content: `## Konspiracja
 Zygmunt Zaremba (1895–1967) należał do kierownictwa podziemnej PPS-WRN i do ścisłego grona polityków Polski Podziemnej. Po wojnie, w obliczu aresztowań działaczy socjalistycznych, wyjechał z kraju.
 
@@ -31945,7 +31941,7 @@ Zmarł pod Paryżem w 1967 roku. W PRL jego dorobek był nieobecny w oficjalnym 
     yearEnd: 1990,
     summary: 'Dyplomata i minister spraw zagranicznych rządu na uchodźstwie, w latach 1979–1986 prezydent RP na uchodźstwie; zmarł w wieku 101 lat.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Edward_Bernard_Raczy%C5%84ski.jpg?width=800',
-    imageCaption: 'Edward Raczyński',
+    imageCaption: 'Edward Raczyński, dyplomata i prezydent RP na uchodźstwie, na zdjęciu z lat 20.',
     content: `## Dyplomata
 Edward Raczyński (1891–1993) był przed wojną ambasadorem RP w Londynie, a w czasie wojny ministrem spraw zagranicznych rządu na uchodźstwie. To on w 1941 roku przekazywał aliantom informacje o sytuacji w okupowanej Polsce, a później o zagładzie Żydów.
 
@@ -32037,7 +32033,7 @@ W PRL Katyń był tematem zakazanym, a oficjalna wersja obarczała winą Niemcó
     yearEnd: 1970,
     summary: 'Redaktor przedwojennych „Wiadomości Literackich”, a na emigracji londyńskich „Wiadomości” – najważniejszego pisma literackiego polskiej diaspory.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mieczyslaw_Grydzewski.jpg?width=800',
-    imageCaption: 'Mieczysław Grydzewski',
+    imageCaption: 'Mieczysław Grydzewski, redaktor londyńskich „Wiadomości”',
     content: `## Przed wojną
 Mieczysław Grydzewski (1894–1970) redagował „Skamandra”, a przede wszystkim „Wiadomości Literackie” – tygodnik, który w dwudziestoleciu międzywojennym wyznaczał ton polskiego życia literackiego.
 
@@ -32083,7 +32079,7 @@ Egzemplarze „Wiadomości” docierały do Polski nielegalnie i krążyły w za
     yearEnd: 1989,
     summary: 'Adwokat broniący w procesach politycznych PRL, współzałożyciel KOR, uczestnik rejestracji Solidarności w 1980 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Olszewski_3_%28cropped%29.jpg?width=800',
-    imageCaption: 'Jan Olszewski',
+    imageCaption: 'Jan Olszewski, obrońca w procesach politycznych',
     content: `## Początki
 Jan Olszewski (1930–2019) był w czasie okupacji żołnierzem Szarych Szeregów i uczestnikiem Powstania Warszawskiego. Po wojnie został adwokatem – i tę rolę wykorzystał do działalności, którą inaczej trudno było prowadzić legalnie.
 
@@ -32129,7 +32125,7 @@ Po 1989 roku był premierem w latach 1991–1992. Jego droga – od obrony w pro
     yearEnd: 1948,
     summary: 'Prymas Polski w latach 1926–1948; po powrocie do kraju w 1945 roku zorganizował administrację kościelną na ziemiach zachodnich i północnych.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/August_Hlond_Colorized.png?width=800',
-    imageCaption: 'Kard. August Hlond',
+    imageCaption: 'Kardynał August Hlond (fotografia koloryzowana)',
     content: `## Prymas dwóch epok
 August Hlond (1881–1948), salezjanin, był prymasem Polski od 1926 roku – a więc przez całe dwudziestolecie międzywojenne, wojnę i pierwsze lata powojenne. Wojnę spędził poza krajem, część w niemieckim internowaniu.
 
@@ -32221,7 +32217,7 @@ Zmarł w 1951 roku, u progu najostrzejszej fazy konfliktu państwa z Kościołem
     yearEnd: 1963,
     summary: 'Biskup kielecki, sądzony w 1953 roku w pokazowym procesie – najgłośniejszej rozprawie wytoczonej hierarsze Kościoła w PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Czes%C5%82aw_Kaczmarek_1.jpg?width=800',
-    imageCaption: 'Bp Czesław Kaczmarek',
+    imageCaption: 'Biskup kielecki Czesław Kaczmarek, 1938',
     content: `## Biskup kielecki
 Czesław Kaczmarek (1895–1963) był biskupem diecezjalnym kieleckim od 1938 roku. Po wojnie należał do hierarchów wyraźnie niechętnych układaniu się z nową władzą.
 
@@ -32267,7 +32263,7 @@ Zwolniony w 1956 roku, wrócił do diecezji. Wyrok uchylono dopiero po latach, a
     yearEnd: 1989,
     summary: 'Inżynier, współtwórca Wolnych Związków Zawodowych Wybrzeża i jeden z przywódców Solidarności, konsekwentny krytyk kompromisów z władzą.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej_Gwiazda_2021.jpg?width=800',
-    imageCaption: 'Andrzej Gwiazda',
+    imageCaption: 'Andrzej Gwiazda (fot. współczesna)',
     content: `## Przed Sierpniem
 Andrzej Gwiazda (ur. 1935), inżynier elektronik, wraz z żoną Joanną należał do założycieli Wolnych Związków Zawodowych Wybrzeża w 1978 roku – środowiska, z którego dwa lata później wyrosła Solidarność. Działalność w WZZ oznaczała zwolnienia z pracy, zatrzymania i stałą inwigilację.
 
@@ -32313,7 +32309,7 @@ Internowany 13 grudnia 1981 roku, następnie aresztowany i przetrzymywany do 198
     yearEnd: 1989,
     summary: 'Przewodniczący bydgoskiej Solidarności, pobity w marcu 1981 roku podczas sesji Wojewódzkiej Rady Narodowej – co doprowadziło kraj na próg strajku generalnego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Rulewski_Kancelaria_Senatu_2015.jpg?width=800',
-    imageCaption: 'Jan Rulewski',
+    imageCaption: 'Jan Rulewski (fot. współczesna)',
     content: `## Działacz z Bydgoszczy
 Jan Rulewski (ur. 1944) stanął na czele bydgoskiego regionu Solidarności zaraz po powstaniu związku. Region ten był jednym z aktywniejszych w kraju, a Rulewski – jednym z bardziej stanowczych przywódców regionalnych.
 
@@ -32359,7 +32355,7 @@ Internowany w stanie wojennym, potem więziony. Po 1989 roku był posłem i sena
     yearEnd: 1991,
     summary: 'Krytyk i historyk literatury, współzałożyciel KOR i autor jego historii; w 1987 roku współtwórca odrodzonej PPS.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Jozef_Lipski.jpg?width=800',
-    imageCaption: 'Jan Jozef Lipski',
+    imageCaption: 'Jan Józef Lipski',
     content: `## Dwie drogi
 Jan Józef Lipski (1926–1991) był z zawodu historykiem literatury, badaczem twórczości pozytywistów i Młodej Polski. Równolegle prowadził działalność opozycyjną, traktując obie te role jako jedno zadanie: obronę prawdy o rzeczywistości.
 
@@ -32497,7 +32493,7 @@ W latach 70. zasiadał w Radzie Państwa. Jego biografia – od przedwojennego r
     yearEnd: 1989,
     summary: 'Ekonomista, autor programu przebudowy gospodarki wdrażanego od 1989 roku; wcześniej uczestnik prac nad reformami w schyłkowym PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2019_-_Leszek_Balcerowicz_%2810%29_MLU_in_Halle_%28cropped%29.jpg?width=800',
-    imageCaption: 'Leszek Balcerowicz',
+    imageCaption: 'Leszek Balcerowicz (fot. współczesna)',
     content: `## Ekonomista w PRL
 Leszek Balcerowicz (ur. 1947) był wykładowcą warszawskiej Szkoły Głównej Planowania i Statystyki, dzisiejszej SGH. W latach 80. kierował zespołem opracowującym propozycje reformy gospodarczej – jednym z wielu takich zespołów, których projekty systematycznie rozmywano w praktyce.
 
@@ -32543,7 +32539,7 @@ Skutki tej zmiany – zahamowanie hiperinflacji z jednej strony, bezrobocie i up
     yearEnd: 1948,
     summary: 'Górnik, którego wezwanie do współzawodnictwa pracy w 1947 roku uczyniło symbolem epoki; zmarł niespełna rok później, mając 43 lata.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wincenty_Pstrowski_miner.jpg?width=800',
-    imageCaption: 'Wincenty Pstrowski',
+    imageCaption: 'Wincenty Pstrowski, górnik uczyniony wzorem przodownika pracy',
     content: `## Wezwanie
 Wincenty Pstrowski (1904–1948) był rębaczem dołowym w kopalni w Zabrzu. W lipcu 1947 roku ogłoszono jego list z pytaniem: kto wyrąbie więcej niż on. Wezwanie rozpropagowano w całym kraju i uczyniono początkiem masowego współzawodnictwa pracy.
 
