@@ -68,6 +68,14 @@ Najkrwawszym wydarzeniem była pacyfikacja kopalni Wujek 16 grudnia, gdzie zgin�
 Stan wojenny zawieszono 31 grudnia 1982 roku, a zniesiono 22 lipca 1983. Spór o jego ocenę – czy był mniejszym złem wobec groźby interwencji, czy zamachem na własne społeczeństwo – trwa do dziś i pozostaje jednym z głównych podziałów w polskiej debacie publicznej.`,
     resources: [
       {
+        id: 'stan-wojenny-zrodlo1',
+        title: 'Obwieszczenie Rady Państwa o stanie wojennym',
+        type: 'akt',
+        url: 'https://pl.wikisource.org/wiki/Obwieszczenie_Rady_Pa%C5%84stwa_o_stanie_wojennym',
+        source: 'Wikiźródła',
+        description: 'Tekst obwieszczenia o wprowadzeniu stanu wojennego.',
+      },
+      {
         id: 'sw-ipn1',
         title: 'Portal IPN o stanie wojennym',
         type: 'akt',
@@ -574,6 +582,22 @@ Na fali porozumień powstał NSZZ „Solidarność” – pierwszy w bloku wscho
 Sierpień 1980 był przełomem – pokojowym zwycięstwem społeczeństwa nad władzą i początkiem procesu, który przez stan wojenny doprowadził do upadku komunizmu w 1989 roku. W 2003 r. 21 postulatów wpisano na listę UNESCO „Pamięć Świata”.`,
     trivia: ['Tablice z 21 postulatami wpisano na listę UNESCO „Pamięć Świata”.', 'Porozumienia gdańskie podpisano 31 sierpnia 1980 roku wielkim, pamiątkowym długopisem.'],
     resources: [
+      {
+        id: 'sierpien-1980-zrodlo2',
+        title: 'Protokół ustaleń MKS z komisją rządową w Gdańsku (1980)',
+        type: 'akt',
+        url: 'https://pl.wikisource.org/wiki/Protok%C3%B3%C5%82_ustale%C5%84_MKS_z_komisj%C4%85_rz%C4%85dow%C4%85_w_Gda%C5%84sku_(1980)',
+        source: 'Wikiźródła',
+        description: 'Pełny tekst Porozumień Gdańskich z 31 sierpnia 1980 roku.',
+      },
+      {
+        id: 'sierpien-1980-zrodlo1',
+        title: '21 postulatów Międzyzakładowego Komitetu Strajkowego z 17 sierpnia 1980',
+        type: 'akt',
+        url: 'https://pl.wikisource.org/wiki/21_postulat%C3%B3w_Mi%C4%99dzyzak%C5%82adowego_Komitetu_Strajkowego_z_17_sierpnia_1980',
+        source: 'Wikiźródła',
+        description: 'Tekst 21 postulatów spisanych w Stoczni Gdańskiej.',
+      },
       {
         id: 's80-ipn1',
         title: 'Sierpień 1980 - artykuły IPN',
@@ -1947,6 +1971,14 @@ Funkcjonariuszom zapewniano wyższe pensje, dodatki i przydziały mieszkań, co 
     trivia: ['Formalnie ogłoszono go w Chełmie, w rzeczywistości powstał w Moskwie.', '22 lipca stało się najważniejszym świętem państwowym PRL.'],
     resources: [
       {
+        id: 'manifest-pkwn-zrodlo',
+        title: 'Manifest Polskiego Komitetu Wyzwolenia Narodowego \u2013 tekst źródłowy',
+        type: 'akt',
+        url: 'https://pl.wikisource.org/wiki/Manifest_Polskiego_Komitetu_Wyzwolenia_Narodowego',
+        source: 'Wikiźródła',
+        description: 'Pełny tekst manifestu z 22 lipca 1944 roku.',
+      },
+      {
         id: 'pkwn-pkf',
         title: 'Polska Kronika Filmowa – PKWN i 22 lipca',
         type: 'nagranie',
@@ -2810,6 +2842,14 @@ W 1990 roku milicję zastąpiono Policją, przeprowadzając weryfikację funkcjo
     ],
     resources: [
       {
+        id: 'milicja-zrodlo1',
+        title: 'Dekret PKWN z 15 sierpnia 1944 r. o ustanowieniu Milicji Obywatelskiej',
+        type: 'akt',
+        url: 'https://pl.wikisource.org/wiki/Dekret_PKWN_z_15_sierpnia_1944_r._o_ustanowieniu_Milicji_Obywatelskiej',
+        source: 'Wikiźródła',
+        description: 'Akt powołujący Milicję Obywatelską.',
+      },
+      {
         id: 'milicja-1',
         title: 'Milicja Obywatelska – zdjęcia i grafiki',
         type: 'zdjęcie',
@@ -3580,6 +3620,14 @@ Prawdziwa historia tych ziem – wielokulturowa, złożona, pełna traumy – za
 Zachodnia granica na Odrze i Nysie była przez dekady kontestowana przez RFN. Ostateczne uznanie jej nastąpiło dopiero w 1990 roku – Traktatem 2+4 między dwoma Niemcami a czterema mocarstwami, a następnie polsko-niemieckim traktatem granicznym.`,
     trivia: ['Objęły tereny na zachodzie i północy przyznane Polsce po wojnie.', 'Zasiedlali je głównie przesiedleńcy z Kresów i Polski centralnej.'],
     resources: [
+      {
+        id: 'ziemie-odzyskane-zrodlo1',
+        title: 'Układ zgorzelecki (1950)',
+        type: 'akt',
+        url: 'https://pl.wikisource.org/wiki/Uk%C5%82ad_zgorzelecki_(1950)',
+        source: 'Wikiźródła',
+        description: 'Umowa o granicy na Odrze i Nysie Łużyckiej.',
+      },
       {
         id: 'zo-pkf',
         title: 'Polska Kronika Filmowa – Wystawa Ziem Odzyskanych 1948',
@@ -20928,6 +20976,14 @@ W styczniu 1971 roku do strajkującej stoczni przyjechał Edward Gierek i przez 
 Dziesięć lat później stocznia znów była jednym z głównych ośrodków strajku. Porozumienie szczecińskie podpisano 30 sierpnia 1980 roku, dzień przed gdańskim – co często umyka w potocznej pamięci o Sierpniu.`,
     trivia: ['Stocznia strajkowała zarówno w 1970, jak i w 1980 roku.', 'Porozumienie szczecińskie podpisano dzień przed gdańskim.'],
     resources: [
+      {
+        id: 'stocznia-szczecinska-zrodlo1',
+        title: 'Protokół ustaleń MKS z komisją rządową w Szczecinie (1980)',
+        type: 'akt',
+        url: 'https://pl.wikisource.org/wiki/Protok%C3%B3%C5%82_ustale%C5%84_MKS_z_komisj%C4%85_rz%C4%85dow%C4%85_w_Szczecinie_(1980)',
+        source: 'Wikiźródła',
+        description: 'Tekst porozumienia szczecińskiego z 30 sierpnia 1980 roku.',
+      },
       {
         id: 'ssz-1',
         title: 'Stocznia Szczecińska – opracowania (2)',
