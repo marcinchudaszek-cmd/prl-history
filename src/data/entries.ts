@@ -3877,6 +3877,14 @@ Miłosz jest autorem „Traktatu moralnego", „Ziemi Ulro", „Roku myśliwego"
     trivia: ['Nagrodę Nobla otrzymał w 1980 roku, gdy w Polsce rodziła się Solidarność.', 'Jego słowa wyryto na pomniku Poległych Stoczniowców w Gdańsku.'],
     resources: [
       {
+        id: 'milosz-culture',
+        title: 'Czesław Miłosz w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/czeslaw-milosz',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'milosz-wl',
         title: 'Czesław Miłosz – biogram i twórczość',
         type: 'publikacja',
@@ -3952,6 +3960,14 @@ Ostatni zbiór „Epilog burzy" ukazał się pośmiertnie w 1998 roku. Herbert w
 Jego poezja jest przetłumaczona na kilkadziesiąt języków. Jest to jedna z postaci, które najlepiej reprezentują polską tradycję moralną: opór, pamięć, niezgoda na kłamstwo.`,
     trivia: ['Stworzył postać Pana Cogito – alter ego myślącego człowieka.', '„Przesłanie Pana Cogito” stało się wierszem-manifestem opozycji.'],
     resources: [
+      {
+        id: 'herbert-culture',
+        title: 'Zbigniew Herbert w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/zbigniew-herbert',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'herbert-encysol',
         title: 'Zbigniew Herbert w Encyklopedii Solidarności',
@@ -4730,6 +4746,14 @@ Kapuściński był wielokrotnie wymieniany jako kandydat do Nagrody Nobla. Stwor
     trivia: ['Relacjonował dziesiątki przewrotów i rewolucji na świecie.', 'Jego „Cesarza” czytano w Polsce jako aluzję do dworu władzy w PRL.'],
     resources: [
       {
+        id: 'kapuscinski-culture',
+        title: 'Ryszard Kapuściński w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/ryszard-kapuscinski',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'kapuscinski-wl',
         title: 'Ryszard Kapuściński – biogram i twórczość',
         type: 'publikacja',
@@ -5078,6 +5102,14 @@ Nagrodę Nobla odebrała skromnie i ze swoją typową ironią. Na bankiecie nobl
 Ostatnie lata życia spędziła w Krakowie, otoczona gronem przyjaciół. Pisała do końca. Jej ostatni tom „Wystarczy" ukazał się pośmiertnie. Pochowana na cmentarzu Rakowickim w Krakowie.`,
     trivia: ['Nagrodę Nobla otrzymała w 1996 roku.', 'Debiutowała w czasach socrealizmu i po latach odcięła się od tych wierszy.'],
     resources: [
+      {
+        id: 'szymborska-culture',
+        title: 'Wisława Szymborska w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/wislawa-szymborska',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'szym-wl',
         title: 'Wisława Szymborska – biogram i twórczość',
@@ -5562,6 +5594,14 @@ Lem był postacią kontrowersyjną. Ostro krytykował amerykańskie SF jako inte
 Lem jest patronem nauki o przyszłości, cyberprzestrzeni i etyce technologicznej. Jego przewidywania dotyczące internetu, wirtualnej rzeczywistości i problemów etycznych AI okazały się trafne. Muzeum Lema w Krakowie jest hołdem dla jego wyobraźni.`,
     resources: [
       {
+        id: 'lem-culture',
+        title: 'Stanisław Lem w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/stanislaw-lem',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'lem-wl',
         title: 'Stanisław Lem – biogram i twórczość',
         type: 'publikacja',
@@ -5629,6 +5669,14 @@ Po 1989 roku Wajda stworzył „Pierścionek z orłem w koronie" (1993), „Pan 
 Wajda nauczył świat patrzeć na Polskę przez pryzmat jej tragicznej historii. Był sumieniem polskiego kina i moralnym autorytetem. Odznaczony Orderem Orła Białego, pochowany z honorami na Skałce w Krakowie.`,
     trivia: ['W 2000 roku odebrał Oscara za całokształt twórczości.', '„Człowiek z marmuru” i „Człowiek z żelaza” to jego zapis dwóch epok PRL.'],
     resources: [
+      {
+        id: 'wajda-culture',
+        title: 'Andrzej Wajda w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/andrzej-wajda',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'wajda-ninateka',
         title: 'Andrzej Wajda | Rozmowy poszczególne',
@@ -8008,6 +8056,14 @@ Po 1989 r. "Tygodnik Powszechny" kontynuował działalność jako niezależne pi
     trivia: ['Pismo zamknięto w 1953 roku za odmowę wydrukowania nekrologu Stalina.', 'Wznowiono je dopiero po Październiku 1956.'],
     resources: [
       {
+        id: 'tygodnik-powszechny-culture',
+        title: 'Tygodnik Powszechny w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/dzielo/tygodnik-powszechny',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Omówienie dzieła: geneza, treść i recepcja.',
+      },
+      {
         id: 'tp-1',
         title: 'Tygodnik Powszechny – opracowania',
         type: 'publikacja',
@@ -8476,6 +8532,14 @@ Tischner zachorował na raka mózgu i umarł w 2000 r. Jego twórczość – "My
     trivia: ['Był kapelanem Solidarności i filozofem dialogu.', 'Napisał „Historię filozofii po góralsku” – gwarą podhalańską.'],
     resources: [
       {
+        id: 'tischner-culture',
+        title: 'Ks. Józef Tischner w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/jozef-tischner',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'tischner-encysol',
         title: 'Ks. Józef Tischner w Encyklopedii Solidarności',
         type: 'publikacja',
@@ -8679,6 +8743,14 @@ Kisielewski pisał powieści obyczajowe i polityczne – czytane chętnie, częs
 Kisielewski reprezentował w PRL-u coś rzadkiego: liberalny, antysocjalistyczny światopogląd wyrażany publicznie z odwagą i humorem. Do dziś jego cytaty krążą w polskim internecie jako celne diagnozy systemów totalitarnych.`,
     trivia: ['Cenzurę nazwał publicznie „dyktaturą ciemniaków”.', 'Wkrótce potem został pobity przez „nieznanych sprawców”.'],
     resources: [
+      {
+        id: 'kisielewski-culture',
+        title: 'Stefan Kisielewski w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/stefan-kisielewski',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'kisielewski-encysol',
         title: 'Stefan Kisielewski w Encyklopedii Solidarności',
@@ -9414,6 +9486,14 @@ W latach 80. Niemen sięgnął po muzykę elektroniczną i syntezatory. Wydał a
 Niemen jest dla polskiej muzyki tym, czym Hendrix dla rocka angloamerykańskiego – artystą, który przekroczył własną epokę i gatunki. Jego teksty, przede wszystkim do poezji Norwida ("Bema pamięci żałobny rapsod"), Kochanowskiego i własne, łączyły kulturę wysoką z popularną. Nagroda Fryderyk Lifetime Achievement (2004), setki coverów i nieustanna obecność w popkulturze świadczą o jego ponadczasowości.`,
     resources: [
       {
+        id: 'niemen-czeslaw-culture',
+        title: 'Czesław Niemen w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/czeslaw-niemen',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'nie-yt',
         title: 'Czesław Niemen – „Dziwny jest ten świat”',
         type: 'nagranie',
@@ -9957,6 +10037,14 @@ Komeda zostawił ok. 20 nagrań studyjnych i muzykę do ponad 50 filmów. Jego k
     trivia: ['Skomponował muzykę do „Dziecka Rosemary” Romana Polańskiego.', 'Zmarł w 1969 roku, w szczycie międzynarodowej kariery.'],
     resources: [
       {
+        id: 'komeda-culture',
+        title: 'Krzysztof Komeda w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/krzysztof-komeda',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'kom-yt',
         title: 'Krzysztof Komeda – „Lullaby” (Rosemary’s Baby, 1968)',
         type: 'nagranie',
@@ -10190,6 +10278,14 @@ W 1994 roku Kieślowski ogłosił, że rezygnuje z reżyserii. W 1996 roku zmar�
 Kieślowski pokazał, że kino może być filozofią. Jego filmy pytają o sens życia, wolną wolę i moralność bez udzielania prostych odpowiedzi. Polska tradycja dokumentalna stała się przez niego szkołą humanizmu dla całego świata.`,
     trivia: ['Zaczynał od dokumentu, który porzucił z powodów etycznych – bał się wkraczania w cudze życie.', 'Później stworzył „Dekalog” i „Trzy kolory”.'],
     resources: [
+      {
+        id: 'kieslowski-culture',
+        title: 'Krzysztof Kieślowski w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/krzysztof-kieslowski',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'kieslowski-ninateka',
         title: 'Krzysztof Kieślowski | Wtedy-teraz. Polska Szkoła Dokumentu',
@@ -11239,6 +11335,14 @@ Kołakowski odwiedzał Polskę po 1989 roku. Był uhonorowany wieloma nagrodami,
     trivia: ['Po Marcu \'68 usunięto go z uniwersytetu; wyemigrował.', 'Napisał „Główne nurty marksizmu” – krytykę systemu od środka.'],
     resources: [
       {
+        id: 'kolakowski-culture',
+        title: 'Leszek Kołakowski w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/leszek-kolakowski',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'kolakowski-polona',
         title: 'Kołakowski – dzieła w zasobach Polony',
         type: 'publikacja',
@@ -11433,6 +11537,14 @@ W twórczości Kaczmarskiego powracały motywy historii, tyranii i wolności –
 Kaczmarski pozostaje jednym z najważniejszych głosów polskiej kultury niezależnej. Jego pieśni śpiewane są do dziś, a „Mury” stały się symbolem walki o wolność wykraczającym poza polski kontekst.`,
     trivia: ['Jego „Mury” stały się nieoficjalnym hymnem Solidarności.', 'Melodię zapożyczył z pieśni katalońskiego barda Lluísa Llacha.'],
     resources: [
+      {
+        id: 'jacek-kaczmarski-culture',
+        title: 'Jacek Kaczmarski w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/jacek-kaczmarski',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'jacek-kaczmarski-encysol',
         title: 'Jacek Kaczmarski w Encyklopedii Solidarności',
@@ -13156,6 +13268,14 @@ Gintrowski pozostaje symbolem zaangażowanej, niezależnej sztuki lat 80., a jeg
     trivia: ['Tworzył tercet z Jackiem Kaczmarskim i Zbigniewem Łapińskim.', 'Śpiewał wiersze Herberta i Baczyńskiego.'],
     resources: [
       {
+        id: 'gintrowski-bard-culture',
+        title: 'Przemysław Gintrowski w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/przemyslaw-gintrowski',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'gintrowski-bard-encysol',
         title: 'Przemysław Gintrowski w Encyklopedii Solidarności',
         type: 'publikacja',
@@ -13294,6 +13414,14 @@ Czerwone Gitary są symbolem melodyjnego big-beatu lat 60. i 70. i jednym z najl
     trivia: ['Nazywano ich polskimi Beatlesami.', 'Sprzedali miliony płyt – rekord jak na warunki PRL.'],
     resources: [
       {
+        id: 'czerwone-gitary-culture',
+        title: 'Czerwone Gitary w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/czerwone-gitary',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'cg-yt',
         title: 'Czerwone Gitary – „Nie spoczniemy”',
         type: 'nagranie',
@@ -13425,6 +13553,14 @@ Koncertowała w całym bloku wschodnim, gdzie była gwiazdą porównywalnej rang
 ## Znaczenie
 Śpiewa nieprzerwanie od ponad pięćdziesięciu lat i pozostaje jedną z najtrwalszych postaci polskiej sceny. Jej kariera przetrwała wszystkie zmiany mód i ustroju bez przerwy dłuższej niż sezon.`,
     resources: [
+      {
+        id: 'maryla-rodowicz-culture',
+        title: 'Maryla Rodowicz w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/maryla-rodowicz',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'mr-yt',
         title: 'Maryla Rodowicz – „Małgośka”',
@@ -14519,6 +14655,14 @@ Pozostaje jednym z symboli polskiej kultury wysokiej, dowodem, że mimo żelazne
     trivia: ['Napisał „Tren – ofiarom Hiroszimy”, jedno z najgłośniejszych dzieł XX wieku.', 'Skomponował „Lacrimosę” na odsłonięcie pomnika Poległych Stoczniowców.'],
     resources: [
       {
+        id: 'penderecki-culture',
+        title: 'Krzysztof Penderecki w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/krzysztof-penderecki',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'pen-yt',
         title: 'Penderecki – „Tren – Ofiarom Hiroszimy”',
         type: 'nagranie',
@@ -14597,6 +14741,14 @@ W latach 80. wspierał opozycję i bojkotował oficjalne media po wprowadzeniu s
     trivia: ['Zaliczany do najwybitniejszych kompozytorów XX wieku.', 'Po 13 grudnia 1981 zbojkotował oficjalne życie muzyczne w kraju.'],
     resources: [
       {
+        id: 'lutoslawski-culture',
+        title: 'Witold Lutosławski w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/witold-lutoslawski',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'lut-yt',
         title: 'Lutosławski – „Koncert na orkiestrę” (Intrada)',
         type: 'nagranie',
@@ -14674,6 +14826,14 @@ Publikował w „Tygodniku Powszechnym”, wykładał na Uniwersytecie Latający
 Po 1989 roku był ambasadorem w Austrii i dwukrotnie ministrem spraw zagranicznych. Jego przemówienie w Bundestagu w 1995 roku, w pięćdziesiątą rocznicę zakończenia wojny, uchodzi za jeden z najważniejszych tekstów pojednania polsko-niemieckiego.`,
     trivia: ['Był więźniem Auschwitz, żołnierzem AK, a po wojnie więźniem stalinowskim.', 'Otrzymał tytuł Sprawiedliwego wśród Narodów Świata.'],
     resources: [
+      {
+        id: 'bartoszewski-culture',
+        title: 'Władysław Bartoszewski w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/wladyslaw-bartoszewski',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'bartoszewski-encysol',
         title: 'Władysław Bartoszewski w Encyklopedii Solidarności',
@@ -15644,6 +15804,14 @@ Cybulski pozostaje symbolem polskiej szkoły filmowej i jednym z najważniejszyc
     trivia: ['Nazywano go polskim Jamesem Deanem.', 'Zginął w 1967 roku, wskakując do ruszającego pociągu.'],
     resources: [
       {
+        id: 'cybulski-zbigniew-culture',
+        title: 'Zbigniew Cybulski w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/zbigniew-cybulski',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'cyb-1',
         title: 'Zbigniew Cybulski – biogram',
         type: 'film',
@@ -15705,6 +15873,14 @@ Zagrał m.in. w „Pętli” Wojciecha Hasa (1957) i w „Rękopisie znalezionym
 Był posłem na Sejm, ale po wprowadzeniu stanu wojennego zrzekł się mandatu w proteście i na kilka lat wycofał się z życia publicznego. Po 1989 roku zasiadał w Senacie. Jego nazwisko łączy historię polskiego teatru z najbardziej dramatycznymi momentami polityki PRL.`,
     trivia: ['Jego rola w „Dziadach” Dejmka stała się iskrą Marca \'68.', 'Był aktorem i dyrektorem najważniejszych warszawskich teatrów.'],
     resources: [
+      {
+        id: 'holoubek-gustaw-culture',
+        title: 'Gustaw Holoubek w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/gustaw-holoubek',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'hol-1',
         title: 'Gustaw Holoubek – biogram',
@@ -15776,6 +15952,14 @@ Jej archiwum, listy i dzienniki wydawane po śmierci pokazały skalę dorobku wy
     trivia: ['Napisała teksty do kilku tysięcy piosenek.', 'Współpracowała m.in. z Marylą Rodowicz i Ewą Demarczyk.'],
     resources: [
       {
+        id: 'osiecka-agnieszka-culture',
+        title: 'Agnieszka Osiecka w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/agnieszka-osiecka',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'osi-1',
         title: 'Agnieszka Osiecka – nagrania',
         type: 'nagranie',
@@ -15837,6 +16021,14 @@ Piosenka z pierwszej połowy lat 80., napisana po stanie wojennym, mówi o robie
 Napisał ponad dwa tysiące tekstów, w tym dla Michaja Burano, Ireny Santor, Hanny Banaszak i Piotra Fronczewskiego. Jego wieczory autorskie w Ateneum stały się osobnym gatunkiem, a język jego piosenek do dziś funkcjonuje w mowie potocznej.`,
     trivia: ['Mistrz piosenki z drugim dnem, omijającej cenzurę.', 'Napisał m.in. „Jesteśmy na wczasach” i „W Polskę idziemy”.'],
     resources: [
+      {
+        id: 'mlynarski-wojciech-culture',
+        title: 'Wojciech Młynarski w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/wojciech-mlynarski',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'mly-yt',
         title: 'Wojciech Młynarski – „Róbmy swoje”',
@@ -16799,6 +16991,14 @@ Pracował także za granicą, kręcąc we Włoszech, Niemczech i Francji, i prze
     trivia: ['Z wykształcenia jest fizykiem i filozofem.', 'Twórca kina intelektualnego – „Struktury kryształu” i „Barw ochronnych”.'],
     resources: [
       {
+        id: 'zanussi-krzysztof-culture',
+        title: 'Krzysztof Zanussi w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/krzysztof-zanussi',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'zan-1',
         title: 'Krzysztof Zanussi – biogram',
         type: 'film',
@@ -16868,6 +17068,14 @@ Zginął 20 września 1961 roku w wypadku samochodowym pod Łowiczem, wracając 
 Zostawił zaledwie kilka filmów, a mimo to jest wymieniany obok Wajdy jako współtwórca polskiej szkoły filmowej – ten, który wybrał ironię tam, gdzie inni wybierali patos.`,
     trivia: ['Zginął w wypadku samochodowym podczas kręcenia „Pasażerki”.', 'Wniósł do polskiej szkoły filmowej ironię i dystans.'],
     resources: [
+      {
+        id: 'munk-andrzej-culture',
+        title: 'Andrzej Munk w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/andrzej-munk',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'mun2-1',
         title: 'Andrzej Munk – biogram',
@@ -17264,6 +17472,14 @@ Jego malarstwo, całkowicie obojętne wobec polityki, nie kolidowało z żadną 
 Jego syn Tomasz, znany radiowiec i tłumacz, odebrał sobie życie w 1999 roku. Sam Beksiński został zamordowany w swoim mieszkaniu w 2005 roku przez nastoletniego znajomego rodziny. Największa kolekcja jego prac znajduje się w Muzeum Historycznym w Sanoku.`,
     trivia: ['Nie nadawał tytułów swoim obrazom, by nie narzucać interpretacji.', 'Zginął zamordowany w 2005 roku.'],
     resources: [
+      {
+        id: 'beksinski-culture',
+        title: 'Zdzisław Beksiński w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/zdzislaw-beksinski',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'bek-1',
         title: 'Zdzisław Beksiński – materiały',
@@ -17780,6 +17996,14 @@ Po udarze w 2002 roku stracił zdolność mowy i pisania, po czym nauczył się 
     trivia: ['Autor „Tanga” – jednej z najczęściej granych polskich sztuk.', 'Po 1968 roku pozostał na emigracji, protestując przeciw inwazji na Czechosłowację.'],
     resources: [
       {
+        id: 'mrozek-slawomir-culture',
+        title: 'Sławomir Mrożek w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/slawomir-mrozek',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'mro-1',
         title: 'Sławomir Mrożek – materiały',
         type: 'publikacja',
@@ -17841,6 +18065,14 @@ Krótka odwilż pozwoliła wydać go w kraju w 1957 roku, ale rok później nał
 W 1968 roku był poważnie rozważany jako kandydat do Nagrody Nobla. Dziś należy do klasyków literatury światowej, a jego pojęcia – forma, gęba, upupienie – weszły do języka, którym Polacy opisują samych siebie.`,
     trivia: ['Wypłynął do Argentyny na kilka dni przed wybuchem wojny i został tam ponad dwadzieścia lat.', 'Jego „Dziennik” ukazywał się w paryskiej „Kulturze”.'],
     resources: [
+      {
+        id: 'gombrowicz-witold-culture',
+        title: 'Witold Gombrowicz w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/witold-gombrowicz',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'gom-1',
         title: 'Witold Gombrowicz – materiały',
@@ -17904,6 +18136,14 @@ Do polskich księgarń wrócił dopiero w latach 80., a naprawdę szeroko po 198
     trivia: ['Uchodził za polskiego Jamesa Deana literatury.', 'Nie wrócił z wyjazdu na Zachód w 1958 roku; zmarł na emigracji.'],
     resources: [
       {
+        id: 'hlasko-marek-culture',
+        title: 'Marek Hłasko w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/marek-hlasko',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'hla-1',
         title: 'Marek Hłasko – materiały',
         type: 'publikacja',
@@ -17965,6 +18205,14 @@ Nie należał do opozycji ani do partyjnego establishmentu, unikał deklaracji i
 Jest tłumaczony na kilkadziesiąt języków i wielokrotnie wymieniany wśród kandydatów do Nagrody Nobla. Jego zdanie o poezji po Zagładzie i sposób pisania wiersza zmieniły polską literaturę trwalej niż niejeden manifest.`,
     trivia: ['Tworzył poezję „ocalonego” – pisaną po doświadczeniu wojny.', 'Odrzucił rym i regularny rytm, szukając języka po katastrofie.'],
     resources: [
+      {
+        id: 'rozewicz-tadeusz-culture',
+        title: 'Tadeusz Różewicz w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/tadeusz-rozewicz',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'roz-1',
         title: 'Tadeusz Różewicz – materiały',
@@ -18403,6 +18651,14 @@ Dał polskiej publiczności kino widowiskowe, którego wcześniej nie było, i z
     trivia: ['Wyreżyserował „Znachora” i ekranizacje Sienkiewicza.', 'Jego „Potop” otrzymał nominację do Oscara.'],
     resources: [
       {
+        id: 'hoffman-jerzy-culture',
+        title: 'Jerzy Hoffman w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/jerzy-hoffman',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'hof-1',
         title: 'Jerzy Hoffman – biogram',
         type: 'film',
@@ -18472,6 +18728,14 @@ Wyjechał w 1963 roku i pracował we Francji, Wielkiej Brytanii i Stanach Zjedno
 Dla kina PRL pozostaje symbolem talentu, który zaistniał na świecie, a „Nóż w wodzie” – kamieniem milowym rodzimej kinematografii i dowodem, że polski film mógł być nowoczesny bez mówienia o polityce.`,
     trivia: ['Debiutował „Nożem w wodzie” – pierwszym polskim filmem nominowanym do Oscara.', 'Karierę kontynuował na Zachodzie.'],
     resources: [
+      {
+        id: 'polanski-roman-culture',
+        title: 'Roman Polański w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/roman-polanski',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'pol-1',
         title: 'Roman Polański – biogram',
@@ -18658,6 +18922,14 @@ Zagrała Lucy Zuckerową w „Ziemi obiecanej” Wajdy (1975) i Kazimierę Wąso
 Jej małżeństwo ze Stanisławem Dygatem i niezależny styl życia były przedmiotem plotek przez całą epokę. Pozostaje ikoną kultury PRL i przykładem tego, jak wiele kosztowała kobietę odmowa dopasowania się do wzorca.`,
     trivia: ['Uchodziła za pierwszy polski sex symbol.', 'Jej występy bywały zdejmowane z anteny jako „gorszące”.'],
     resources: [
+      {
+        id: 'kalina-jedrusik-culture',
+        title: 'Kalina Jędrusik w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/kalina-jedrusik',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'kj-1',
         title: 'Kalina Jędrusik – biogram',
@@ -19102,6 +19374,14 @@ W latach 1955–1963 prowadził w swoim mieszkaniu przy placu Dąbrowskiego pryw
 W ostatnich latach mieszkał na Saskiej Kępie, prowadząc dziennik wydany pośmiertnie jako „Tajny dziennik” (2012). Jego wrażliwość na język i codzienność jest wciąż jednym z najczęściej wskazywanych punktów odniesienia w polskiej literaturze.`,
     trivia: ['Napisał „Pamiętnik z powstania warszawskiego” – relację zwykłego cywila.', 'Prowadził teatr we własnym mieszkaniu.'],
     resources: [
+      {
+        id: 'bialoszewski-miron-culture',
+        title: 'Miron Białoszewski w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/miron-bialoszewski',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'bi-1',
         title: 'Miron Białoszewski – materiały',
@@ -19708,6 +19988,14 @@ Po 1989 roku był ministrem kultury. Historia jego „Dziadów” pozostaje najc
     trivia: ['Jego inscenizację „Dziadów” zdjęto z afisza, co wywołało Marzec \'68.', 'Był jednym z najwybitniejszych reżyserów teatralnych epoki.'],
     resources: [
       {
+        id: 'dejmek-kazimierz-culture',
+        title: 'Kazimierz Dejmek w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/kazimierz-dejmek',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'dej-1',
         title: 'Kazimierz Dejmek – opracowania',
         type: 'publikacja',
@@ -19761,6 +20049,14 @@ Reżyserował kino osobne, nakręcone małym kosztem i wbrew modom: „Ostatni d
 Jego proza jest dziś czytana jako najcelniejszy zapis późnego PRL: państwa zmęczonego, obdrapanego i wciąż wymagającego udziału w rytuale. Filmowo pozostaje twórcą osobnym, którego kino trudno przypisać do jakiegokolwiek nurtu.`,
     trivia: ['Był jednocześnie pisarzem i reżyserem – autorem „Małej apokalipsy”.', 'Jego „Salto” to jeden z najbardziej osobnych filmów PRL.'],
     resources: [
+      {
+        id: 'konwicki-tadeusz-culture',
+        title: 'Tadeusz Konwicki w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/tadeusz-konwicki',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'konwicki-tadeusz-encysol',
         title: 'Tadeusz Konwicki w Encyklopedii Solidarności',
@@ -20225,6 +20521,14 @@ W 1979 roku stracił w wypadku kolejowym dłoń, przeszedł załamanie i 24 lipc
 Stachura pozostaje patronem nonkonformistów: czytany bywa raczej jako propozycja postawy niż zestaw książek. Jego kult, najsilniejszy wśród młodych czytelników, trwa nieprzerwanie od lat 70.`,
     trivia: ['Poeta-włóczęga, kultowy wśród młodzieży lat 70.', 'Zmarł tragicznie w 1979 roku.'],
     resources: [
+      {
+        id: 'stachura-edward-culture',
+        title: 'Edward Stachura w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/edward-stachura',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'st2-1',
         title: 'Edward Stachura – materiały',
@@ -20987,6 +21291,14 @@ Po 1989 roku był senatorem i wicemarszałkiem Sejmu, ostro obecnym w debacie pu
     trivia: ['Stworzył śląską trylogię – „Sól ziemi czarnej” i „Perłę w koronie”.', 'Pochodził z Szopienic i opowiadał o Śląsku po swojemu.'],
     resources: [
       {
+        id: 'kutz-kazimierz-culture',
+        title: 'Kazimierz Kutz w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/kazimierz-kutz',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'kutz-1',
         title: 'Kazimierz Kutz – biogram',
         type: 'film',
@@ -21238,6 +21550,14 @@ Grała do późnej starości, a jej stulecie obchodzono jako wydarzenie kultural
     trivia: ['Zagrała Kobietę Pracującą w „Czterdziestolatku”.', 'Jej kwestia o tym, że żadnej pracy się nie boi, weszła do języka.'],
     resources: [
       {
+        id: 'kwiatkowska-irena-culture',
+        title: 'Irena Kwiatkowska w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/irena-kwiatkowska',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'kw-1',
         title: 'Irena Kwiatkowska – biogram',
         type: 'film',
@@ -21468,6 +21788,14 @@ Czarny album jest dziś wymieniany wśród najważniejszych polskich płyt w og�
     trivia: ['Zespół tworzyli Robert Brylewski i Tomasz Lipiński.', 'Ich płyta z początku lat 80. to klasyk polskiej nowej fali.'],
     resources: [
       {
+        id: 'brygada-kryzys-culture',
+        title: 'Brygada Kryzys w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/brygada-kryzys',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'bk-yt',
         title: 'Brygada Kryzys – „Centrala” (Czarny album, 1982)',
         type: 'nagranie',
@@ -21638,6 +21966,14 @@ Przez ponad pół wieku pozostaje twarzą polskiego kina, obecną zarówno w rol
     trivia: ['Zagrał u Wajdy m.in. w „Ziemi obiecanej” i „Weselu”.', 'Był jedną z twarzy polskiego kina lat 70.'],
     resources: [
       {
+        id: 'olbrychski-daniel-culture',
+        title: 'Daniel Olbrychski w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/daniel-olbrychski',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'olb-fp',
         title: 'Daniel Olbrychski – biogram',
         type: 'film',
@@ -21700,6 +22036,14 @@ Zrobiła kariery w trzech kinematografiach naraz – polskiej, europejskiej i am
     trivia: ['Studiowała w Pradze i zetknęła się tam z Praską Wiosną.', 'Jej „Kobieta samotna” trafiła na półkę po 13 grudnia 1981.'],
     resources: [
       {
+        id: 'holland-agnieszka-culture',
+        title: 'Agnieszka Holland w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/agnieszka-holland',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'hol-fp',
         title: 'Agnieszka Holland – biogram',
         type: 'film',
@@ -21761,6 +22105,14 @@ Od 1981 roku był profesorem Harvardu. Przełożył niemal całego Szekspira, an
 Łączył trzy role rzadko spotykane razem: poety własnego głosu, tłumacza przenoszącego całą tradycję i obywatela płacącego za swoje wybory. Chorował na parkinsona, ale pracował do końca; Nagroda Nike z 1999 roku przypadła jego tomowi „Chirurgiczna precyzja”.`,
     trivia: ['Poeta Nowej Fali i wybitny tłumacz Szekspira.', 'Był jednym ze współzałożycieli KOR.'],
     resources: [
+      {
+        id: 'baranczak-stanislaw-culture',
+        title: 'Stanisław Barańczak w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/stanislaw-baranczak',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'baranczak-stanislaw-encysol',
         title: 'Stanisław Barańczak w Encyklopedii Solidarności',
@@ -21939,6 +22291,14 @@ Ekscentryczny wizerunek sceniczny i późniejsze samotne życie w otoczeniu zwie
       'Powrót do kraju zamknął jej międzynarodową karierę.',
     ],
     resources: [
+      {
+        id: 'violetta-villas-culture',
+        title: 'Violetta Villas w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/violetta-villas',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'vv-yt',
         title: 'Violetta Villas – „Do ciebie mamo”',
@@ -22163,6 +22523,14 @@ Przydomek pierwszej damy polskiej piosenki przylgnął do niej już w latach 60.
     ],
     resources: [
       {
+        id: 'irena-santor-culture',
+        title: 'Irena Santor w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/irena-santor',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'is-yt',
         title: 'Irena Santor – „Powrócisz tu”',
         type: 'nagranie',
@@ -22219,6 +22587,14 @@ Pokazał, że piosenka może być literaturą bez utraty popularności. W czasac
       'Śpiewał do słów Wyspiańskiego, Gałczyńskiego i Baczyńskiego, nie tracąc przy tym masowej publiczności.',
     ],
     resources: [
+      {
+        id: 'grechuta-marek-culture',
+        title: 'Marek Grechuta w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/marek-grechuta',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'gr-yt',
         title: 'Marek Grechuta – „Dni, których nie znamy”',
@@ -22285,6 +22661,14 @@ W latach 1986–2000 prowadziła własny teatr w Krakowie, potem wycofała się 
     ],
     resources: [
       {
+        id: 'demarczyk-ewa-culture',
+        title: 'Ewa Demarczyk w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/ewa-demarczyk',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'de-yt',
         title: 'Ewa Demarczyk – „Grande Valse Brillante” (TVP 1971)',
         type: 'nagranie',
@@ -22338,6 +22722,14 @@ Dialogi z „Rejsu” weszły do polszczyzny i przez dekady służyły jako kome
       'Nikt na statku nie sprawdza uprawnień samozwańczego instruktora – i wszyscy się podporządkowują.',
     ],
     resources: [
+      {
+        id: 'rejs-film-culture',
+        title: 'Rejs w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/dzielo/rejs',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Omówienie dzieła: geneza, treść i recepcja.',
+      },
       {
         id: 'rejs-yt',
         title: '„Rejs” – kultowa scena',
@@ -23125,6 +23517,14 @@ Krawczyk był wykonawcą traktowanym przez krytykę z dystansem, a przez publicz
     ],
     resources: [
       {
+        id: 'krawczyk-krzysztof-culture',
+        title: 'Krzysztof Krawczyk w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/krzysztof-krawczyk',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'kk-yt',
         title: 'Krzysztof Krawczyk – „Parostatek” (Opole \'79)',
         type: 'nagranie',
@@ -23564,6 +23964,14 @@ Jej praca dydaktyczna miała znaczenie systemowe: w PRL nie istniało akademicki
       'W PRL nie kształcono wokalistów rozrywkowych akademicko – wiedzę przekazywano od wykonawcy do wykonawcy.',
     ],
     resources: [
+      {
+        id: 'pronko-krystyna-culture',
+        title: 'Krystyna Prońko w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/krystyna-pronko',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'kp-yt',
         title: 'Krystyna Prońko – „Jesteś lekiem na całe zło” (1983)',
@@ -24026,6 +24434,14 @@ Obraz obejrzały miliony widzów i przez dziesięciolecia pozostawał najchętni
     ],
     resources: [
       {
+        id: 'krzyzacy-culture',
+        title: 'Krzyżacy w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/dzielo/krzyzacy',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Omówienie dzieła: geneza, treść i recepcja.',
+      },
+      {
         id: 'kz-yt',
         title: '„Krzyżacy” – bitwa pod Grunwaldem',
         type: 'nagranie',
@@ -24347,6 +24763,14 @@ Zdjęcia kręcono m.in. w Uzbekistanie i Egipcie, przy ogromnej jak na polskie w
       'Zdjęcia realizowano m.in. w Uzbekistanie, bo polskiej produkcji nie stać było na pełne plenery egipskie.',
     ],
     resources: [
+      {
+        id: 'faraon-culture',
+        title: 'Faraon w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/dzielo/faraon',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Omówienie dzieła: geneza, treść i recepcja.',
+      },
       {
         id: 'fa-yt',
         title: '„Faraon” (1966) – zwiastun',
@@ -24750,6 +25174,14 @@ Obraz stał się najważniejszym dziełem polskiej szkoły filmowej i zapewnił 
     ],
     resources: [
       {
+        id: 'popiol-i-diament-culture',
+        title: 'Popiół i diament w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/dzielo/popiol-i-diament',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Omówienie dzieła: geneza, treść i recepcja.',
+      },
+      {
         id: 'pd2-yt',
         title: '„Popiół i diament” – kultowa scena',
         type: 'nagranie',
@@ -25150,6 +25582,14 @@ Film dopuszczono do kin w ograniczonej liczbie kopii, bez reklamy i bez zgody na
     ],
     resources: [
       {
+        id: 'czlowiek-z-marmuru-culture',
+        title: 'Człowiek z marmuru w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/dzielo/czlowiek-z-marmuru',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Omówienie dzieła: geneza, treść i recepcja.',
+      },
+      {
         id: 'czm-yt',
         title: '„Człowiek z marmuru” – fragmenty',
         type: 'nagranie',
@@ -25266,6 +25706,14 @@ Po 1989 roku stworzyła w Warszawie własne teatry – Polonię i Och-Teatr – 
     ],
     resources: [
       {
+        id: 'krystyna-janda-culture',
+        title: 'Krystyna Janda w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/krystyna-janda',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'kj-yt',
         title: 'Krystyna Janda – role filmowe',
         type: 'nagranie',
@@ -25343,6 +25791,14 @@ Pod koniec życia zyskał nową publiczność, gdy młodsze pokolenie muzyków o
       'Zaśpiewał piosenkę z czołówki „Pszczółki Mai” – znaną każdemu dziecku w Polsce.',
     ],
     resources: [
+      {
+        id: 'zbigniew-wodecki-culture',
+        title: 'Zbigniew Wodecki w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/zbigniew-wodecki',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'zw-yt',
         title: 'Zbigniew Wodecki – „Chałupy welcome to”',
@@ -25520,6 +25976,14 @@ Jego nagrania są dziś odkrywane na nowo, także przez muzyków młodszych o po
     ],
     resources: [
       {
+        id: 'andrzej-zaucha-culture',
+        title: 'Andrzej Zaucha w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/andrzej-zaucha',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'az-yt',
         title: 'Andrzej Zaucha – „C\'est la vie”',
         type: 'nagranie',
@@ -25571,6 +26035,14 @@ Kamienica jako mikroświat pozwalała pokazać całą epokę bez wielkich scen h
       'Serial zaczęto kręcić w PRL, a dokończono w III Rzeczypospolitej – i widać to w tym, co wolno było pokazać.',
     ],
     resources: [
+      {
+        id: 'dom-serial-culture',
+        title: 'Dom w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/dzielo/dom',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Omówienie dzieła: geneza, treść i recepcja.',
+      },
       {
         id: 'ds2-yt',
         title: '„Dom” – fragmenty serialu',
@@ -25956,6 +26428,14 @@ Film dostał nagrodę krytyki na festiwalu w Wenecji i jako pierwszy polski obra
     ],
     resources: [
       {
+        id: 'noz-w-wodzie-culture',
+        title: 'Nóż w wodzie w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/dzielo/noz-w-wodzie',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Omówienie dzieła: geneza, treść i recepcja.',
+      },
+      {
         id: 'nw-yt',
         title: '„Nóż w wodzie” – czołówka',
         type: 'nagranie',
@@ -26060,6 +26540,14 @@ Końcowa scena, w której weselnicy tańczą w otępieniu, stała się jednym z 
       'Końcowy chocholi taniec stał się skrótem opisującym narodowy bezwład.',
     ],
     resources: [
+      {
+        id: 'wesele-film-culture',
+        title: 'Wesele w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/dzielo/wesele',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Omówienie dzieła: geneza, treść i recepcja.',
+      },
       {
         id: 'we-yt',
         title: '„Wesele” – chocholi taniec',
@@ -26438,6 +26926,14 @@ Mimo przeszkód film nagrodzono w Cannes i wszedł do kanonu kina europejskiego.
       'Zamiast klasycznej fabuły Has zbudował film jako ciąg obrazów sennych.',
     ],
     resources: [
+      {
+        id: 'sanatorium-pod-klepsydra-culture',
+        title: 'Sanatorium pod klepsydrą w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/dzielo/sanatorium-pod-klepsydra',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Omówienie dzieła: geneza, treść i recepcja.',
+      },
       {
         id: 'sk2-yt',
         title: '„Sanatorium pod klepsydrą” – zwiastun',
@@ -26951,6 +27447,14 @@ Obraz zyskał na Zachodzie status kultowy, a jego wielbicielami byli m.in. Jerry
     ],
     resources: [
       {
+        id: 'rekopis-znaleziony-w-saragossie-culture',
+        title: 'Rękopis znaleziony w Saragossie w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/dzielo/rekopis-znaleziony-w-saragossie',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Omówienie dzieła: geneza, treść i recepcja.',
+      },
+      {
         id: 'rzs-yt',
         title: '„Rękopis znaleziony w Saragossie” – zwiastun',
         type: 'nagranie',
@@ -27135,6 +27639,14 @@ Wybór środowiska akademickiego nie był przypadkowy. Uczelnia – formalnie mi
       'Film nie rozstrzyga, kto ma rację, i ta niejednoznaczność czyniła go niewygodnym dla władz.',
     ],
     resources: [
+      {
+        id: 'barwy-ochronne-culture',
+        title: 'Barwy ochronne w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/dzielo/barwy-ochronne',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Omówienie dzieła: geneza, treść i recepcja.',
+      },
       {
         id: 'bo-yt',
         title: '„Barwy ochronne” – fragment',
@@ -27363,6 +27875,14 @@ Kieślowski, wcześniej dokumentalista, opisał w „Amatorze” własny dylemat
     ],
     resources: [
       {
+        id: 'amator-film-culture',
+        title: 'Amator w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/dzielo/amator',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Omówienie dzieła: geneza, treść i recepcja.',
+      },
+      {
         id: 'am-yt',
         title: '„Amator” – scena z filmu',
         type: 'nagranie',
@@ -27471,6 +27991,14 @@ Za życia stał się postacią anegdotyczną, a opowieści o nim krążyły w ś
     ],
     resources: [
       {
+        id: 'jan-himilsbach-culture',
+        title: 'Jan Himilsbach w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/jan-himilsbach',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'jh-yt',
         title: 'Jan Himilsbach – film dokumentalny',
         type: 'nagranie',
@@ -27575,6 +28103,14 @@ Film nagrodzono na festiwalu w Cannes i pokazywano na całym świecie. W kraju w
       'Film nagrodzono w Cannes i uznano za jedno z czołowych dzieł polskiej szkoły filmowej.',
     ],
     resources: [
+      {
+        id: 'matka-joanna-od-aniolow-culture',
+        title: 'Matka Joanna od Aniołów w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/dzielo/matka-joanna-od-aniolow',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Omówienie dzieła: geneza, treść i recepcja.',
+      },
       {
         id: 'mj-yt',
         title: '„Matka Joanna od Aniołów” – film',
@@ -27904,6 +28440,14 @@ Odejście obu przyjaciół w tak krótkim czasie zamknęło pewien rozdział pol
     ],
     resources: [
       {
+        id: 'bogumil-kobiela-culture',
+        title: 'Bogumił Kobiela w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/bogumil-kobiela',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'bk2-yt',
         title: 'Bogumił Kobiela – role filmowe',
         type: 'nagranie',
@@ -28117,6 +28661,14 @@ Zmarł w 1992 roku w Poznaniu, podczas próby „Króla Leara”. Okoliczności 
       'Zmarł podczas próby „Króla Leara” w 1992 roku.',
     ],
     resources: [
+      {
+        id: 'tadeusz-lomnicki-culture',
+        title: 'Tadeusz Łomnicki w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/tadeusz-lomnicki',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'tl-yt',
         title: 'Tadeusz Łomnicki – role',
@@ -28336,6 +28888,14 @@ Dla jednych pozostał czołgistą, dla innych Mateuszem albo Jankielem – rzadk
     ],
     resources: [
       {
+        id: 'franciszek-pieczka-culture',
+        title: 'Franciszek Pieczka w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/franciszek-pieczka',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'fpi-yt',
         title: 'Franciszek Pieczka – role',
         type: 'nagranie',
@@ -28548,6 +29108,14 @@ Gołas należał do aktorów, których obecność w obsadzie była dla widza rek
       'W „Lalce” Wojciecha Hasa z 1968 roku zagrał barona Krzeszowskiego.',
     ],
     resources: [
+      {
+        id: 'wieslaw-golas-culture',
+        title: 'Wiesław Gołas w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/wieslaw-golas',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'wg-yt',
         title: 'Wiesław Gołas – role',
@@ -28769,6 +29337,14 @@ Przez dziesięciolecia pozostawał aktorem teatralnym, głównie warszawskim. Po
       'Grał w Kabarecie Dudek i w kabarecie Olgi Lipińskiej – dwóch najważniejszych scenach satyrycznych epoki.',
     ],
     resources: [
+      {
+        id: 'jan-kobuszewski-culture',
+        title: 'Jan Kobuszewski w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/jan-kobuszewski',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'jk2-yt',
         title: 'Jan Kobuszewski – skecze i role',
@@ -29174,6 +29750,14 @@ Kariera Stańki pokazuje, jak wąskim gardłem był w PRL kontakt ze światem: o
     ],
     resources: [
       {
+        id: 'tomasz-stanko-culture',
+        title: 'Tomasz Stańko w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/tomasz-stanko',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'st-yt',
         title: 'Tomasz Stańko – nagrania',
         type: 'nagranie',
@@ -29287,6 +29871,14 @@ Słynna scena zbiorowego tańca – tytułowego salta – stała się jednym z n
     ],
     resources: [
       {
+        id: 'salto-culture',
+        title: 'Salto w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/dzielo/salto',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Omówienie dzieła: geneza, treść i recepcja.',
+      },
+      {
         id: 'sal-yt',
         title: '„Salto” – somnambuliczny taniec',
         type: 'nagranie',
@@ -29394,6 +29986,14 @@ Jazz w pierwszej połowie lat 50. był w Polsce tępiony jako muzyka imperialist
       'Zaczynał od wiolonczeli i puzonu, a saksofon altowy wybrał dopiero później.',
     ],
     resources: [
+      {
+        id: 'zbigniew-namyslowski-culture',
+        title: 'Zbigniew Namysłowski w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/zbigniew-namyslowski',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'zn-yt',
         title: 'Zbigniew Namysłowski – nagrania',
@@ -29623,6 +30223,14 @@ Jego droga pokazuje, czym był jazz w PRL: dziedziną, w której kontakt ze świ
     ],
     resources: [
       {
+        id: 'michal-urbaniak-culture',
+        title: 'Michał Urbaniak w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/michal-urbaniak',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'mu2-yt',
         title: 'Michał Urbaniak – nagrania',
         type: 'nagranie',
@@ -29676,6 +30284,14 @@ Jej pozycja pokazuje mechanizm typowy dla PRL: rozpoznawalność była powszechn
       '„Lalka” z jej udziałem zdobyła Grand Prix na międzynarodowym festiwalu w Panamie.',
     ],
     resources: [
+      {
+        id: 'beata-tyszkiewicz-culture',
+        title: 'Beata Tyszkiewicz w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/beata-tyszkiewicz',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'bt-yt',
         title: 'Beata Tyszkiewicz – role filmowe',
@@ -29842,6 +30458,14 @@ Wyjazd artysty na Zachód był w PRL decyzją obciążoną ryzykiem: oznaczał z
     ],
     resources: [
       {
+        id: 'urszula-dudziak-culture',
+        title: 'Urszula Dudziak w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/urszula-dudziak',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'ud-yt',
         title: 'Urszula Dudziak – nagrania',
         type: 'nagranie',
@@ -29895,6 +30519,14 @@ Jego kariera pokazuje sytuację polskiego aktora tamtych lat: prawdziwie między
       'Zaliczano go do czołówki polskich aktorów dramatycznych obok Holoubka, Łomnickiego i Zapasiewicza.',
     ],
     resources: [
+      {
+        id: 'wojciech-pszoniak-culture',
+        title: 'Wojciech Pszoniak w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/wojciech-pszoniak',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'wp2-yt',
         title: 'Wojciech Pszoniak – role',
@@ -30014,6 +30646,14 @@ Po oficjalnym pokazie film trafił do Cannes, gdzie Krystyna Janda otrzymała na
       'Za rolę w tym filmie Krystyna Janda otrzymała nagrodę aktorską w Cannes.',
     ],
     resources: [
+      {
+        id: 'przesluchanie-culture',
+        title: 'Przesłuchanie w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/dzielo/przesluchanie',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Omówienie dzieła: geneza, treść i recepcja.',
+      },
       {
         id: 'prz-nina1',
         title: 'Kolaudacja filmu „Przesłuchanie” | Gdańsk ’82',
@@ -30140,6 +30780,14 @@ Należy do najostrzejszych rozliczeń ze stalinizmem, jakie powstały w PRL. To,
     ],
     resources: [
       {
+        id: 'matka-krolow-culture',
+        title: 'Matka Królów w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/dzielo/matka-krolow',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Omówienie dzieła: geneza, treść i recepcja.',
+      },
+      {
         id: 'mk-nina',
         title: 'Rozmowa po filmie „Matka Królów” | Gdańsk ’82',
         type: 'film',
@@ -30196,6 +30844,14 @@ Dziś uchodzi za jeden z najlepszych filmów Holland i za najmocniejszy zapis te
       'Nie zawierał politycznych oskarżeń – pokazywał nędzę w państwie opartym na obietnicy opieki nad pracownikami.',
     ],
     resources: [
+      {
+        id: 'kobieta-samotna-culture',
+        title: 'Kobieta samotna w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/dzielo/kobieta-samotna',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Omówienie dzieła: geneza, treść i recepcja.',
+      },
       {
         id: 'ks3-nina',
         title: 'Kobieta samotna | Jedna scena',
@@ -32227,6 +32883,14 @@ Egzemplarze „Wiadomości” docierały do Polski nielegalnie i krążyły w za
     ],
     resources: [
       {
+        id: 'grydzewski-culture',
+        title: 'Mieczysław Grydzewski w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/mieczyslaw-grydzewski',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
+      {
         id: 'grydzewski-wiki',
         title: 'Mieczysław Grydzewski – artykuł',
         type: 'publikacja',
@@ -32810,6 +33474,14 @@ Jego dom w Stawisku pod Warszawą był miejscem spotkań literatów przez kilka 
       'Czterokrotnie nominowano go do Nagrody Nobla w dziedzinie literatury.',
     ],
     resources: [
+      {
+        id: 'iwaszkiewicz-culture',
+        title: 'Jarosław Iwaszkiewicz w serwisie Culture.pl',
+        type: 'publikacja',
+        url: 'https://culture.pl/pl/tworca/jaroslaw-iwaszkiewicz',
+        source: 'Culture.pl (Instytut Adama Mickiewicza)',
+        description: 'Opracowanie biograficzne z omówieniem twórczości.',
+      },
       {
         id: 'iwaszkiewicz-wiki',
         title: 'Jarosław Iwaszkiewicz – artykuł',
