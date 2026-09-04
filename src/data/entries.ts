@@ -1031,6 +1031,14 @@ W 2008 roku prokuratura IPN oskarżyła Jaruzelskiego o wydanie bezprawnych rozk
     trivia: ['Wprowadzenie stanu wojennego ogłosił w telewizyjnym przemówieniu 13 grudnia 1981.', 'W 1989 roku został pierwszym i jedynym prezydentem PRL.'],
     resources: [
       {
+        id: 'jaruzelski-encysol',
+        title: 'Wojciech Jaruzelski w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/16391,Jaruzelski-Wojciech.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
+      {
         id: 'jar-1',
         title: 'Przemówienie Jaruzelskiego – 13 grudnia 1981',
         type: 'nagranie',
@@ -1084,6 +1092,14 @@ W 1989 roku był głównym negocjatorem strony solidarnościowej przy Okrągłym
       'Solidarność pod jego przewodnictwem skupiła w kilka miesięcy blisko dziesięć milionów członków.',
     ],
     resources: [
+      {
+        id: 'walesa-encysol',
+        title: 'Lech Wałęsa w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/19308,Walesa-Lech.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
       {
         id: 'wal-1',
         title: 'Przemówienie Wałęsy – podpisanie Porozumień Gdańskich',
@@ -1418,6 +1434,14 @@ Służba Bezpieczeństwa prowadziła przeciw niemu kampanię: podrzucono mu mate
 ## Morderstwo
 19 października 1984 roku został uprowadzony i zamordowany przez funkcjonariuszy SB. Jego ciało wyłowiono z Wisły pod Włocławkiem. Pogrzeb zgromadził setki tysięcy ludzi i stał się największą manifestacją od czasu stanu wojennego. Proces sprawców objął wykonawców, ale nie zleceniodawców.`,
     resources: [
+      {
+        id: 'popieluszko-encysol',
+        title: 'Ks. Jerzy Popiełuszko w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/18234,Popieluszko-Jerzy.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
       {
         id: 'pop-1',
         title: 'Ks. Jerzy Popiełuszko – opracowania',
@@ -2110,6 +2134,14 @@ Funkcjonariuszom zapewniano wyższe pensje, dodatki i przydziały mieszkań, co 
 **Po premieraturze** — W wyborach prezydenckich 1990 r. przegrał w pierwszej turze ze Stanisławem Tymińskim. Był Specjalnym Sprawozdawcą ONZ ds. praw człowieka w Jugosławii (1992–1995), skąd zrezygnował w proteście wobec masakry w Srebrenicy. Zm. 28 października 2013 r. w Warszawie.`,
     trivia: ['Został pierwszym niekomunistycznym premierem w bloku wschodnim.', 'Podczas exposé zasłabł; wrócił na mównicę i porównał się do biegacza, któremu zabrakło sił.'],
     resources: [
+      {
+        id: 'mazowiecki-encysol',
+        title: 'Tadeusz Mazowiecki w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/17578,Mazowiecki-Tadeusz.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
       {
         id: 'mazowiecki-1',
         title: 'Tadeusz Mazowiecki – zdjęcia i grafiki',
@@ -3921,6 +3953,14 @@ Jego poezja jest przetłumaczona na kilkadziesiąt języków. Jest to jedna z po
     trivia: ['Stworzył postać Pana Cogito – alter ego myślącego człowieka.', '„Przesłanie Pana Cogito” stało się wierszem-manifestem opozycji.'],
     resources: [
       {
+        id: 'herbert-encysol',
+        title: 'Zbigniew Herbert w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/16218,Herbert-Zbigniew.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
+      {
         id: 'herbert-wl',
         title: 'Zbigniew Herbert – Wolne Lektury',
         type: 'publikacja',
@@ -4000,6 +4040,14 @@ Anna Walentynowicz zginęła 10 kwietnia 2010 roku w katastrofie lotniczej pod S
 Walentynowicz do końca życia czuła, że jest niedoceniana. Historia oddaje jej sprawiedliwość – bez jej zwolnienia i bez strajku sierpniowego, który ono wywołało, historia Polski potoczyłaby się inaczej.`,
     trivia: ['Jej zwolnienie z pracy stało się bezpośrednią iskrą strajku w sierpniu 1980.', 'Pracowała jako suwnicowa; współtworzyła Wolne Związki Zawodowe.'],
     resources: [
+      {
+        id: 'walentynowicz-encysol',
+        title: 'Anna Walentynowicz w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/19299,Walentynowicz-Anna.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
       {
         id: 'walentynowicz-ecs',
         title: 'Anna Walentynowicz – archiwum ECS',
@@ -4445,6 +4493,14 @@ Michnik jest symbolem liberalnej lewicy i dialogu. Jego teza o „grubej kresce"
     trivia: ['Uczestnik Marca \'68, wielokrotnie więziony w PRL.', 'Napisał „Kościół, lewica, dialog” – książkę o porozumieniu środowisk opozycji.'],
     resources: [
       {
+        id: 'michnik-encysol',
+        title: 'Adam Michnik w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/17630,Michnik-Adam.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
+      {
         id: 'michnik-ipn',
         title: 'Adam Michnik – zdjęcia i grafiki',
         type: 'zdjęcie',
@@ -4522,6 +4578,14 @@ Zasłynął z „kuroniówki" – dożywania dla bezrobotnych, którą zorganizo
 Kuroń był człowiekiem pełnym sprzeczności: dawny komunista, który stał się symbolem demokratycznej opozycji; minister transformacji, który najbardziej troszczył się o jej ofiary. Jego myśl pedagogiczna – dać dzieciom wolność i odpowiedzialność – pozostaje aktualna. Odznaczony Orderem Orła Białego, pochowany na Powązkach Wojskowych.`,
     trivia: ['Za „List otwarty do partii” trafił do więzienia razem z Karolem Modzelewskim.', 'Powtarzał: nie palcie komitetów, zakładajcie własne.'],
     resources: [
+      {
+        id: 'kuron-encysol',
+        title: 'Jacek Kuroń w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/17141,Kuron-Jacek.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
       {
         id: 'kuron-ipn',
         title: 'Jacek Kuroń – zdjęcia i grafiki',
@@ -5082,6 +5146,14 @@ Bronisław Geremek zginął 13 lipca 2008 roku w wypadku samochodowym pod Lubine
 Geremek łączył w sobie rzadką kombinację: wybitny uczony i skuteczny polityk. Jego zaangażowanie w historię marginesu społecznego współgrało z jego praktyką polityczną – zawsze po stronie słabszych, zawsze z imperatywem etycznym.`,
     trivia: ['Mediewista, który został jednym z głównych doradców Solidarności.', 'Kierował zespołem opozycji przy stole politycznym Okrągłego Stołu.'],
     resources: [
+      {
+        id: 'geremek-encysol',
+        title: 'Bronisław Geremek w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/15919,Geremek-Bronislaw.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
       {
         id: 'geremek-ipn',
         title: 'Bronisław Geremek – dokumenty SB i Solidarności',
@@ -8404,6 +8476,14 @@ Tischner zachorował na raka mózgu i umarł w 2000 r. Jego twórczość – "My
     trivia: ['Był kapelanem Solidarności i filozofem dialogu.', 'Napisał „Historię filozofii po góralsku” – gwarą podhalańską.'],
     resources: [
       {
+        id: 'tischner-encysol',
+        title: 'Ks. Józef Tischner w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/19168,Tischner-Jozef-Stanislaw.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
+      {
         id: 'tischner-1',
         title: 'Nagrania wykładów i wywiadów Tischnera',
         type: 'nagranie',
@@ -8599,6 +8679,14 @@ Kisielewski pisał powieści obyczajowe i polityczne – czytane chętnie, częs
 Kisielewski reprezentował w PRL-u coś rzadkiego: liberalny, antysocjalistyczny światopogląd wyrażany publicznie z odwagą i humorem. Do dziś jego cytaty krążą w polskim internecie jako celne diagnozy systemów totalitarnych.`,
     trivia: ['Cenzurę nazwał publicznie „dyktaturą ciemniaków”.', 'Wkrótce potem został pobity przez „nieznanych sprawców”.'],
     resources: [
+      {
+        id: 'kisielewski-encysol',
+        title: 'Stefan Kisielewski w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/16686,Kisielewski-Stefan.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
       {
         id: 'kisiel-1',
         title: 'Stefan Kisielewski – opracowania',
@@ -9615,6 +9703,14 @@ Bujak był jednym z negocjatorów ze strony opozycji przy Okrągłym Stole (1989
 Zbigniew Bujak jest symbolem oporu i wytrwałości – człowiek, który przez 4,5 roku chodził po wolności tuż obok policji totalitarnego państwa i nie dał się schwytać. Jego historia inspiruje i pokazuje, że nawet w warunkach brutalnej dyktatury można skutecznie działać, mając wsparcie społeczeństwa.`,
     trivia: ['Ukrywał się przed Służbą Bezpieczeństwa ponad cztery lata.', 'Kierował podziemną Solidarnością regionu Mazowsze.'],
     resources: [
+      {
+        id: 'bujak-zbigniew-encysol',
+        title: 'Zbigniew Bujak w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/15337,Bujak-Zbigniew.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
       {
         id: 'bujak-ipn',
         title: 'Akta SB dotyczące Zbigniewa Bujaka',
@@ -11338,6 +11434,14 @@ Kaczmarski pozostaje jednym z najważniejszych głosów polskiej kultury niezale
     trivia: ['Jego „Mury” stały się nieoficjalnym hymnem Solidarności.', 'Melodię zapożyczył z pieśni katalońskiego barda Lluísa Llacha.'],
     resources: [
       {
+        id: 'jacek-kaczmarski-encysol',
+        title: 'Jacek Kaczmarski w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/16508,Kaczmarski-Jacek.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
+      {
         id: 'kacz-yt',
         title: 'Jacek Kaczmarski – „Mury”',
         type: 'nagranie',
@@ -11732,6 +11836,14 @@ Późniejsze ustalenia wskazały na inwigilację Pyjasa i jego środowiska przez
 Stanisław Pyjas stał się symbolem ofiar systemu wśród młodzieży akademickiej. SKS, powstały po jego śmierci, był ważnym ogniwem opozycji przedsierpniowej i kuźnią działaczy „Solidarności”.`,
     trivia: ['Po śmierci studenta w maju 1977 w Krakowie zawiązał się Studencki Komitet Solidarności.', 'Czarny Marsz przeszedł ulicami Krakowa w Juwenalia, które odwołano.'],
     resources: [
+      {
+        id: 'stanislaw-pyjas-encysol',
+        title: 'Stanisław Pyjas w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/18307,Pyjas-Stanislaw.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
       {
         id: 'pyj-1',
         title: 'Stanisław Pyjas – zdjęcia i grafiki',
@@ -13043,6 +13155,14 @@ W stanie wojennym jego nagrania krążyły w drugim obiegu i na kasetach. Koncer
 Gintrowski pozostaje symbolem zaangażowanej, niezależnej sztuki lat 80., a jego pieśni – świadectwem moralnego oporu wobec systemu.`,
     trivia: ['Tworzył tercet z Jackiem Kaczmarskim i Zbigniewem Łapińskim.', 'Śpiewał wiersze Herberta i Baczyńskiego.'],
     resources: [
+      {
+        id: 'gintrowski-bard-encysol',
+        title: 'Przemysław Gintrowski w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/15936,Gintrowski-Przemyslaw.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
       {
         id: 'gin-yt',
         title: 'Kaczmarski / Gintrowski / Łapiński – „Epitafium dla Włodzimierza Wysockiego”',
@@ -14555,6 +14675,14 @@ Po 1989 roku był ambasadorem w Austrii i dwukrotnie ministrem spraw zagraniczny
     trivia: ['Był więźniem Auschwitz, żołnierzem AK, a po wojnie więźniem stalinowskim.', 'Otrzymał tytuł Sprawiedliwego wśród Narodów Świata.'],
     resources: [
       {
+        id: 'bartoszewski-encysol',
+        title: 'Władysław Bartoszewski w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/15036,Bartoszewski-Wladyslaw.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
+      {
         id: 'bar-1',
         title: 'Władysław Bartoszewski – opracowania',
         type: 'publikacja',
@@ -14795,6 +14923,14 @@ Uczestniczył w obradach Okrągłego Stołu i pozostał aktywny w życiu publicz
     trivia: ['Po 13 grudnia 1981 ukrywał się i kierował podziemiem na Dolnym Śląsku.', 'W latach 80. był wielokrotnie aresztowany i skazywany.'],
     resources: [
       {
+        id: 'frasyniuk-encysol',
+        title: 'Władysław Frasyniuk w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/15829,Frasyniuk-Wladyslaw.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
+      {
         id: 'fra-1',
         title: 'Władysław Frasyniuk – opracowania',
         type: 'publikacja',
@@ -14856,6 +14992,14 @@ Od lat 70. współpracował z KOR, wspierał Solidarność i był internowany po
 Otrzymał Order Orła Białego, ale odmawiał roli pomnika. Pozostaje symbolem odwagi i niezależnego myślenia – człowiekiem łączącym pamięć o Zagładzie z walką o wolną Polskę.`,
     trivia: ['Był ostatnim żyjącym przywódcą powstania w getcie warszawskim.', 'Po wojnie został wybitnym kardiologiem i wspierał opozycję.'],
     resources: [
+      {
+        id: 'edelman-encysol',
+        title: 'Marek Edelman w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/15748,Edelman-Marek.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
       {
         id: 'ede-1',
         title: 'Marek Edelman – materiały',
@@ -19083,6 +19227,14 @@ Turowicz uczestniczył w obradach Okrągłego Stołu jako członek strony solida
     trivia: ['Kierował „Tygodnikiem Powszechnym” przez ponad pół wieku.', 'Odmówił druku nekrologu Stalina – pismo zostało za to zamknięte.'],
     resources: [
       {
+        id: 'turowicz-jerzy-encysol',
+        title: 'Jerzy Turowicz w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/23927,Turowicz-Jerzy.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
+      {
         id: 'tu-1',
         title: 'Jerzy Turowicz – opracowania',
         type: 'publikacja',
@@ -19610,6 +19762,14 @@ Jego proza jest dziś czytana jako najcelniejszy zapis późnego PRL: państwa z
     trivia: ['Był jednocześnie pisarzem i reżyserem – autorem „Małej apokalipsy”.', 'Jego „Salto” to jeden z najbardziej osobnych filmów PRL.'],
     resources: [
       {
+        id: 'konwicki-tadeusz-encysol',
+        title: 'Tadeusz Konwicki w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/16804,Konwicki-Tadeusz.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
+      {
         id: 'kon2-1',
         title: 'Tadeusz Konwicki – materiały',
         type: 'publikacja',
@@ -19995,6 +20155,14 @@ W sierpniu 1980 roku, jako doradca strajkujących we Wrocławiu, zaproponował n
 Zasiadał w Senacie I kadencji, potem wrócił do nauki. Otwarcie krytykował koszty transformacji, uważając, że robotnicy, którzy obalili system, zapłacili za zmianę najwyższą cenę. Jego wspomnienia „Zajeździmy kobyłę historii” (2013) otrzymały Nagrodę Nike w 2014 roku.`,
     trivia: ['Za „List otwarty do partii” trafił do więzienia.', 'To on zaproponował nazwę „Solidarność” dla nowego związku.'],
     resources: [
+      {
+        id: 'modzelewski-karol-encysol',
+        title: 'Karol Modzelewski w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/17690,Modzelewski-Karol.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
       {
         id: 'mod-1',
         title: 'Karol Modzelewski – artykuł',
@@ -21593,6 +21761,14 @@ Od 1981 roku był profesorem Harvardu. Przełożył niemal całego Szekspira, an
 Łączył trzy role rzadko spotykane razem: poety własnego głosu, tłumacza przenoszącego całą tradycję i obywatela płacącego za swoje wybory. Chorował na parkinsona, ale pracował do końca; Nagroda Nike z 1999 roku przypadła jego tomowi „Chirurgiczna precyzja”.`,
     trivia: ['Poeta Nowej Fali i wybitny tłumacz Szekspira.', 'Był jednym ze współzałożycieli KOR.'],
     resources: [
+      {
+        id: 'baranczak-stanislaw-encysol',
+        title: 'Stanisław Barańczak w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/22724,Baranczak-Stanislaw.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
       {
         id: 'bar2-1',
         title: 'Stanisław Barańczak – artykuł',
@@ -32097,6 +32273,14 @@ Po 1989 roku był premierem w latach 1991–1992. Jego droga – od obrony w pro
     ],
     resources: [
       {
+        id: 'olszewski-jan-encysol',
+        title: 'Jan Olszewski w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/17934,Olszewski-Jan.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
+      {
         id: 'olszewski-jan-wiki',
         title: 'Jan Olszewski – artykuł',
         type: 'publikacja',
@@ -32281,6 +32465,14 @@ Internowany 13 grudnia 1981 roku, następnie aresztowany i przetrzymywany do 198
     ],
     resources: [
       {
+        id: 'gwiazda-encysol',
+        title: 'Andrzej Gwiazda w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/16165,Gwiazda-Andrzej.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
+      {
         id: 'gwiazda-wiki',
         title: 'Andrzej Gwiazda – artykuł',
         type: 'publikacja',
@@ -32327,6 +32519,14 @@ Internowany w stanie wojennym, potem więziony. Po 1989 roku był posłem i sena
     ],
     resources: [
       {
+        id: 'rulewski-encysol',
+        title: 'Jan Rulewski w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/18442,Rulewski-Jan.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
+      {
         id: 'rulewski-wiki',
         title: 'Jan Rulewski – artykuł',
         type: 'publikacja',
@@ -32372,6 +32572,14 @@ W 1987 roku współtworzył reaktywowaną Polską Partię Socjalistyczną, wraca
       'W 1987 roku współtworzył reaktywowaną PPS, wracając do tradycji lewicy niepodległościowej.',
     ],
     resources: [
+      {
+        id: 'lipski-encysol',
+        title: 'Jan Józef Lipski w Encyklopedii Solidarności',
+        type: 'publikacja',
+        url: 'https://encysol.pl/es/encyklopedia/biogramy/17306,Lipski-Jan-Jozef.html',
+        source: 'Encyklopedia Solidarności (IPN)',
+        description: 'Biogram opracowany przez historyków, z kalendarium działalności i bibliografią.',
+      },
       {
         id: 'lipski-wiki',
         title: 'Jan Józef Lipski – artykuł',
