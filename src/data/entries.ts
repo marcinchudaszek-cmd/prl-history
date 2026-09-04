@@ -4220,6 +4220,8 @@ W PRL Mikołajczyk był postacią przemilczaną lub demonizowaną. Oficjalna his
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'Życie codzienne obywateli PRL naznaczone było stałym niedoborem towarów, wszechobecnymi kolejkami i systemem kartkowym. Zaradność, kombinowanie i szara strefa stały się normą przetrwania. Jednocześnie socjalizm zapewniał pewne formy stabilizacji – tanie mieszkania, bezpłatną opiekę zdrowotną i edukację.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bon_baltonowski_20c_a.jpg?width=800',
+    imageCaption: 'Bon Baltony – namiastka waluty wymienialnej w codziennym obiegu',
     content: `Codzienność w PRL to przede wszystkim walka o dobra podstawowe. W sklepach brakowało mięsa, kawy, papieru toaletowego, butów, pralki, telewizora. Na wszystko czekało się w kolejce lub przez znajomości.
 
 **System kartkowy:**
@@ -6988,6 +6990,8 @@ Wiele dokumentów trafiało "na półkę" – nie dopuszczano ich do rozpowszech
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'Polska Kronika Filmowa relacjonowała najważniejsze wydarzenia PRL – ale zawsze przez pryzmat propagandy. Porównanie tego, co PKF pokazywała, z tym, co przemilczała, jest lekcją o mechanizmach manipulacji obrazem w państwie komunistycznym.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Antoni_Wawrzyniak_-_Film_nr_12_-_1947-02-15.JPG?width=800',
+    imageCaption: 'Antoni Wawrzyniak, operator Polskiej Kroniki Filmowej, 1947',
     content: `## Kronika jako narzędzie narracji
 
 PKF nie była neutralnym zapisem rzeczywistości – była aktywnym narzędziem kształtowania pamięci. Każde wydarzenie pokazywano tak, by wzmacniać legitymizację władzy. To, czego nie chciano pokazać, po prostu nie istniało na ekranie.
@@ -18443,6 +18447,8 @@ Sprawców nie osądzono w czasach PRL. Postępowania podjęto dopiero po 1989 ro
     yearStart: 1984,
     yearEnd: 1984,
     summary: 'Protesty uczniów i rodziców w obronie krzyży w szkołach (Miętne, Włoszczowa) w 1984 roku – sprzeciw wobec usuwania symboli religijnych z placówek.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Narcyz_Witczak-Witaczy%C5%84ski_-_Uroczysto%C5%9B%C4%87_dotycz%C4%85ca_szko%C5%82y_rolniczej_w_Mi%C4%99tnem_%28107-742-9%29.jpg?width=800',
+    imageCaption: 'Szkoła rolnicza w Miętnem na zdjęciu przedwojennym – to o krzyże w jej salach toczył się spór w 1984 roku',
     content: `## O co szło
 Spór o obecność krzyża w przestrzeni publicznej wracał przez cały okres PRL. Państwo usuwało krzyże ze szkół, szpitali i miejsc publicznych, powołując się na świeckość instytucji; społeczności lokalne broniły ich, traktując usunięcie jako atak na wiarę i na siebie.
 
@@ -19245,6 +19251,8 @@ Turystyka PRL odzwierciedlała ograniczenia systemu: marzenie o świecie zderza�
     yearStart: 1969,
     yearEnd: 1970,
     summary: 'Proces grupy taterników z 1970 roku, oskarżonych o przemyt przez Tatry wydawnictw paryskiej „Kultury” – jeden z głośnych procesów politycznych przełomu dekad.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Taternicy_literatura.jpg?width=800',
+    imageCaption: 'Literatura wydana w sprawie taterników',
     content: `## Sprawa
 Śledztwo i proces toczyły się w latach 1969–1970. Oskarżonymi byli młodzi ludzie współpracujący z paryską „Kulturą” Jerzego Giedroycia – grupa, której nazwa wzięła się stąd, że część z nich uprawiała taternictwo i wykorzystywała górskie przejścia do przerzutu wydawnictw.
 
@@ -21274,6 +21282,8 @@ To klasyk polskiego kryminału telewizyjnego i jednocześnie dokument ambiwalent
     yearStart: 1977,
     yearEnd: 1989,
     summary: 'Kultowy program popularnonaukowy Zdzisława Kamińskiego i Andrzeja Kurka, który przystępnie i z humorem tłumaczył naukę i technikę.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej_Kurek.jpg?width=800',
+    imageCaption: 'Andrzej Kurek, jeden z dwóch prowadzących „Sondę”',
     content: `## Program
 „Sonda” była telewizyjnym magazynem popularnonaukowym nadawanym od 1977 roku, prowadzonym przez Zdzisława Kamińskiego i Andrzeja Kurka. Ukazywała się co tydzień przez ponad dekadę i miała stałe, świetne miejsce w ramówce.
 
@@ -24994,11 +25004,13 @@ Dialogi weszły do języka potocznego, a określenia z filmu były używane jako
     tags: ['film', 'serial', 'obyczajowy', 'telewizja', 'warszawa'],
     yearStart: 1981,
     summary: 'Ciepły serial obyczajowy Radosława Piwowarskiego (1981) o poczciwym warszawskim kanalarzu Janie Sercu, idealiście i pechowcu z Woli.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Radoslaw_piwowarski.jpg?width=800',
+    imageCaption: 'Radosław Piwowarski, reżyser serialu (fot. współczesna)',
     content: `## Serial
 „Jan Serce” to siedmioodcinkowy serial obyczajowy zrealizowany w 1981 roku przez Radosława Piwowarskiego, z Kazimierzem Kaczorem w roli tytułowej. Powstawał w okresie legalnej Solidarności, a na ekrany trafił już w innej Polsce.
 
 ## Bohater
-Jan Serce jest hydraulikiem: człowiekiem dobrym, nieporadnym w sprawach uczuciowych i pozbawionym cech bohatera. Kolejne odcinki to kolejne kobiety w jego życiu i kolejne nieporozumienia, z których wychodzi bez pretensji do świata.
+Jan Serce jest kanalarzem z warszawskiej Woli: człowiekiem dobrym, nieporadnym w sprawach uczuciowych i pozbawionym cech bohatera. Kolejne odcinki to kolejne kobiety w jego życiu i kolejne nieporozumienia, z których wychodzi bez pretensji do świata.
 
 ## Zwykłość jako temat
 Wartość serialu polegała na tym, że pokazywał życie takim, jakie było – z ciasnym mieszkaniem, pracą, kolejką i samotnością – bez propagandowego optymizmu i bez publicystycznego oskarżenia. Taka zwykłość była w telewizji PRL rzadkością: bohaterami bywali albo budowniczowie socjalizmu, albo ludzie uwikłani w wielkie sprawy.
