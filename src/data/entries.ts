@@ -8490,6 +8490,8 @@ WRON i stan wojenny ocenia się różnie: jako "mniejsze zło" (Jaruzelski twier
     yearStart: 1953,
     yearEnd: 1964,
     summary: 'Nikita Chruszczow na XX Zjeździe KPZR w lutym 1956 r. wygłosił tajny referat potępiający zbrodnie Stalina. Wstrząsnął podstawami bloku wschodniego, wywołał falę odwilży i kryzysy – w Polsce Październik 1956, na Węgrzech rewolucję.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Removed_Stalin.jpg?width=800',
+    imageCaption: 'Rzeźba przy Pałacu Kultury ze skutym napisem „STALIN” (fot. współczesna)',
     content: `## Po śmierci Stalina
 
 Stalin zmarł 5 marca 1953 r. Jego następcy – Beria, Malenkow, Chruszczow – podjęli walkę o władzę. Chruszczow wygrał i zaczął dystansować się od stalinizmu: rehabilitował część ofiar, zwalniał jeńców z łagrów, łagodził terror.
@@ -10509,6 +10511,8 @@ Wielka płyta stała się problemem po 1989 roku. Bloki mają ograniczoną żywo
     yearStart: 1951,
     yearEnd: 1989,
     shortDesc: 'Fiat 126p „Maluch", Warszawa, Syrenka – samochód jako marzenie i symbol statusu w Polsce Ludowej.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Polski_Fiat_126p_rocznik_1973.jpg?width=800',
+    imageCaption: 'Polski Fiat 126p z 1973 roku',
     content: `## Motoryzacja w PRL
 
 Samochód w Polsce Ludowej był luksusem nieosiągalnym dla większości obywateli – i właśnie dlatego stał się jednym z najbardziej pożądanych symboli statusu. Historia motoryzacji PRL to historia kolejek (wieloletnich!), kombinowania i marzeń o własnych czterech kółkach.
@@ -12728,6 +12732,8 @@ Teatr Telewizji ukształtował gust kulturalny pokoleń Polaków i zachował zap
     tags: ['Milenium', '1966', 'Kościół', 'Wyszyński', 'Gomułka', 'Tysiąclecie', 'chrzest Polski'],
     yearStart: 1966,
     summary: 'Obchody tysiąclecia chrztu Polski w 1966 r. stały się areną rywalizacji między Kościołem a państwem. Religijnym uroczystościom prymasa Wyszyńskiego władza przeciwstawiła świeckie obchody „Tysiąclecia Państwa Polskiego”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Karol_Wojty%C5%82a_19-4-22.jpg?width=800',
+    imageCaption: 'Arcybiskup Karol Wojtyła podczas mszy milenijnej, 8 maja 1966',
     trivia: [
       'Po zatrzymaniu kopii obrazu peregrynację kontynuowano z pustymi ramami.',
       'Państwo ustawiało swoje obchody Tysiąclecia w tych samych terminach co uroczystości kościelne.',
@@ -23445,6 +23451,8 @@ Po 1989 roku ograniczyła występy i przez lata nie nagrywała, wracając okazjo
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Masowy letni wypoczynek nad Bałtykiem – ośrodki FWP, dancingi i smażalnie ryb – jedno z głównych marzeń wakacyjnych Polaków.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mi%C4%99dzyzdroje%2C_Hotel_Posejdon_FWP_02.JPG?width=800',
+    imageCaption: 'Hotel Posejdon w Międzyzdrojach, dawny ośrodek Funduszu Wczasów Pracowniczych (fot. współczesna)',
     content: `## Wyjazd z przydziału
 Wczasy nad Bałtykiem organizowały zakłady pracy i Fundusz Wczasów Pracowniczych. O skierowaniu decydowała komisja socjalna, a odpłatność zależała od zarobków – wyjazd był świadczeniem, nie zakupem.
 
@@ -24118,6 +24126,8 @@ Wracał do Polski z koncertami po 1989 roku, odnajdując publiczność, która p
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Napoje epoki – oranżada, woda sodowa z saturatora, Cocta i Polo-Cockta – nostalgiczne smaki codzienności PRL.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Muzeum_%C5%BBycia_w_PRL_przy_ul._Pi%C4%99knej_2834_w_Warszawie_2021d.jpg?width=800',
+    imageCaption: 'Oranżada, chleb ze smalcem i kiszony ogórek w Muzeum Życia w PRL w Warszawie',
     content: `## Oranżada
 Oranżada w butelce z kapslem, najczęściej w wersji pomarańczowej albo cytrynowej, była podstawowym napojem dzieciństwa w PRL. Produkowały ją rozproszone wytwórnie wód gazowanych, często lokalne, co dawało różnice smaku między regionami.
 
@@ -24178,6 +24188,8 @@ Oranżada wróciła po latach jako produkt sprzedawany właśnie na wspomnieniu:
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Jednoślady – tańsze od auta motocykle i motorowery (WSK, Junak, Komar, Romet) – były ważnym środkiem transportu w PRL.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2016_Motocykl_WSK_125_1.jpg?width=800',
+    imageCaption: 'WSK 125 Kos – najpopularniejszy motocykl PRL',
     content: `## Pojazd dostępny
 Zanim samochód stał się osiągalny, podstawowym pojazdem indywidualnym był motocykl albo motorower. Kosztował ułamek ceny auta, nie wymagał garażu i był realną alternatywą dla dojazdów do pracy.
 
@@ -24698,6 +24710,8 @@ Za praniem stała konkretna praca, wykonywana niemal wyłącznie przez kobiety, 
     yearStart: 1984,
     yearEnd: 1989,
     summary: 'Synth-popowy zespół italo-disco założony w 1984, jeden z symboli polskiej muzyki tanecznej lat 80. i idol młodzieży.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/PapaDance-9316.jpg?width=800',
+    imageCaption: 'Papa Dance (fot. współczesna)',
     content: `## Projekt producencki
 Papa Dance powstało w 1984 roku z inicjatywy producentów Sławomira Wesołowskiego i Mariusza Zabrodzkiego. Nie był to zespół w tradycyjnym rozumieniu, lecz projekt – muzykę i teksty pisali producenci, a wokalistów wymieniano.
 
@@ -25958,6 +25972,8 @@ Film powstał w latach, w których kino dla dzieci było jedną z niewielu dzied
     yearStart: 1976,
     yearEnd: 1977,
     summary: 'Epicki serial wojenny Janusza Morgensterna (1977) o losach Polaków od kampanii wrześniowej po koniec okupacji; 11 odcinków i ponad 16 godzin.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Polskie_drogi.JPG?width=800',
+    imageCaption: 'Karol Strasburger i Arkadiusz Bazak w „Polskich drogach”',
     content: `## Serial
 „Polskie drogi” w reżyserii Janusza Morgensterna powstawały w drugiej połowie lat 70. Jedenaście odcinków obejmuje okres od kampanii wrześniowej do końca okupacji, pokazywanych z perspektywy zwykłych ludzi.
 
@@ -26354,6 +26370,8 @@ W połowie lat 70. wyjechał do Stanów Zjednoczonych. Zginął w wypadku samoch
     yearStart: 1975,
     yearEnd: 1989,
     summary: 'Jeden z najukochańszych bohaterów polskich dobranocek – pluszowy miś z opadającym uszkiem, produkowany w łódzkim studiu Se-ma-for.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Muzeum_dobranocek_w_rzeszowie_7.jpg?width=800',
+    imageCaption: 'Plan zdjęciowy „Misia Uszatka” w Muzeum Dobranocek w Rzeszowie',
     content: `## Skąd się wziął
 Miś Uszatek narodził się w opowiadaniach Czesława Janczarskiego, ilustrowanych przez Zbigniewa Rychlickiego. Charakterystyczne opadające ucho, od którego wzięła się nazwa, było pomysłem plastycznym, który zdecydował o rozpoznawalności postaci.
 
@@ -26966,6 +26984,8 @@ Zespół należał do fali nowofalowej, która po stanie wojennym wypełniła lu
     tags: ['film', 'kino', 'oniryzm', 'ekranizacja'],
     yearStart: 1973,
     summary: 'Oniryczna ekranizacja prozy Brunona Schulza w reżyserii Wojciecha Hasa (1973); labiryntowa feeria obrazów, nagrodzona w Cannes.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tomasz_W%C3%B3jcik_-_Has.jpg?width=800',
+    imageCaption: 'Plakat kinowy „Sanatorium pod Klepsydrą”',
     content: `## Film
 „Sanatorium pod Klepsydrą” Wojciecha Hasa z 1973 roku to swobodna adaptacja prozy Brunona Schulza, oparta głównie na tytułowym opowiadaniu ze zbioru z 1937 roku. Bohater przybywa do sanatorium, w którym czas płynie inaczej, by spotkać zmarłego ojca.
 
@@ -29735,6 +29755,8 @@ Równolegle trwały dożynki parafialne, związane z Kościołem i lokalną wsp�
     yearStart: 1958,
     yearEnd: 1989,
     summary: 'Najstarszy i najważniejszy polski festiwal jazzowy, organizowany w Warszawie od 1958; okno na światowy jazz mimo żelaznej kurtyny.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Plakat_Jazz_Jamboree_z_1968_r.png?width=800',
+    imageCaption: 'Plakat Jazz Jamboree z 1968 roku',
     content: `## Festiwal
 Jazz Jamboree jest jednym z najstarszych festiwali jazzowych w Europie. Odbywa się w Warszawie od przełomu lat 50. i 60., a jego początki wiążą się z odwilżą, która zdjęła z jazzu odium muzyki wrogiej.
 
