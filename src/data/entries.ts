@@ -50,7 +50,7 @@ export const entries: Entry[] = [
     yearEnd: 1983,
     summary: 'Stan wojenny w Polsce – okres w historii PRL wprowadzony 13 grudnia 1981 przez gen. Wojciecha Jaruzelskiego, mający na celu zdławienie opozycji demokratycznej skupionej wokół "Solidarności".',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/T-55A_Martial_law_Poland.jpg?width=800',
-    imageCaption: 'Stan wojenny',
+    imageCaption: 'Czołg T-55 na ulicach Zbąszynia, 13 grudnia 1981',
     trivia: [
       'Dekret wydano wbrew konstytucyjnemu zakazowi dekretowania w czasie sesji Sejmu.',
       'Internowano ponad dziesięć tysięcy działaczy Solidarności.',
@@ -230,7 +230,7 @@ Solidarność zapoczątkowała pokojowy demontaż komunizmu w Polsce i Europie �
     yearEnd: 1956,
     summary: 'Poznański Czerwiec 1956 – masowy protest robotniczy w Poznaniu 28–29 czerwca 1956, brutalnie stłumiony przez wojsko i milicję. Pierwszy tak duży bunt społeczny w historii PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Poznan_1956.jpg?width=800',
-    imageCaption: 'Poznański Czerwiec 1956',
+    imageCaption: 'Poznańscy robotnicy z transparentem „Żądamy chleba”, czerwiec 1956',
     trivia: ['Symbolem ofiar stał się 13-letni Romek Strzałkowski.', 'Do stłumienia protestu skierowano około 10 tysięcy żołnierzy i setki czołgów.'],
     content: `## Tło
 W połowie lat 50. robotnicy poznańskich Zakładów im. Cegielskiego (ZISPO) domagali się obniżenia zawyżonych norm, podwyżek i zwrotu niesłusznie pobranych podatków. Rozmowy z władzami nie przyniosły rezultatu, a delegacja robotnicza została w Warszawie zignorowana.
@@ -420,8 +420,8 @@ Okrągły Stół zapoczątkował pokojową transformację Polski i całego bloku
     yearStart: 1948,
     yearEnd: 1990,
     summary: 'PZPR – monopartia komunistyczna rządząca Polską Ludową przez 42 lata. Powstała z połączenia PPR i PPS w 1948 roku, rozwiązała się dobrowolnie w 1990 roku.',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Collectie_Fotocollectiie_Afdrukken_ANEFO_Rousel%2C_fotonummer_157-1282%2C_Bestanddeelnr_157-1282.jpg?width=800',
-    imageCaption: 'PZPR',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Plac_Politechniki_Kongres_zjednoczeniowy_PPR_i_PPS_1948.jpg?width=800',
+    imageCaption: 'Kongres zjednoczeniowy PPR i PPS na placu Politechniki w Warszawie, grudzień 1948 – narodziny PZPR',
     content: `## Powstanie
 PZPR powstała w grudniu 1948 roku z przymusowego połączenia Polskiej Partii Robotniczej (PPR) z resztkami Polskiej Partii Socjalistycznej (PPS), tworząc monopartię rządzącą Polską aż do 1990 roku.
 
@@ -487,7 +487,7 @@ PZPR była rdzeniem systemu komunistycznego w Polsce – jej dzieje to historia 
     yearEnd: 1990,
     summary: 'Służba Bezpieczeństwa – tajna policja polityczna PRL, następczyni Urzędu Bezpieczeństwa (UB). Prowadziła inwigilację obywateli, werbowała tajnych współpracowników i stosowała represje wobec opozycji.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wagrowiec_pomnik_MO_SB.jpg?width=800',
-    imageCaption: 'Służba Bezpieczeństwa (SB)',
+    imageCaption: 'Pomnik funkcjonariuszy MO i SB w Wągrowcu (fot. współczesna)',
     content: `## Następca UB
 Służbę Bezpieczeństwa powołano w 1956 roku, po rozwiązaniu Ministerstwa Bezpieczeństwa Publicznego. Działała w strukturze Ministerstwa Spraw Wewnętrznych do 1990 roku – a więc przez większą część istnienia PRL.
 
@@ -639,7 +639,7 @@ Sierpień 1980 był przełomem – pokojowym zwycięstwem społeczeństwa nad w�
     yearEnd: 1989,
     summary: 'Gospodarka PRL oparta była na centralnym planowaniu i własności państwowej. Charakteryzowała się cyklami inwestycji, niedoborów towarowych, reglamentacji i zadłużenia zagranicznego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/%C5%9Aciana_Wschodnia_i_Hotel_Forum_w_Warszawie.jpg?width=800',
-    imageCaption: 'Gospodarka PRL',
+    imageCaption: 'Ściana Wschodnia i hotel Forum w Warszawie, około 1975',
     content: `## Zasada
 Gospodarka PRL była gospodarką planową i państwową. Środki produkcji należały do państwa, ceny ustalano decyzją administracyjną, a o tym, co i ile wyprodukować, rozstrzygał plan, a nie popyt. Rynek jako mechanizm nie istniał.
 
@@ -780,8 +780,8 @@ Jerzy Grotowski, Tadeusz Kantor (Teatr Cricot 2) – artyści o światowej sław
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'Kościół katolicki był jedyną niezależną instytucją masową w PRL i głównym bastionem oporu społecznego wobec komunizmu. Pielgrzymki Jana Pawła II były przełomem w dziejach opozycji.',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ststanislauscathedral.JPG?width=800',
-    imageCaption: 'Kościół katolicki w PRL',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pielgrzymi_pod_JG.jpg?width=800',
+    imageCaption: 'Pielgrzymi pod Jasną Górą (fot. współczesna)',
     content: `## Konfrontacja
 Państwo od początku dążyło do ograniczenia roli Kościoła: wypowiedziano konkordat, zlikwidowano organizacje katolickie, w 1950 roku powołano Urząd do Spraw Wyznań, a w 1953 – po dekrecie o obsadzaniu stanowisk kościelnych – internowano prymasa Stefana Wyszyńskiego.
 
@@ -1266,7 +1266,7 @@ Po spełnieniu części postulatów komitet przekształcił się w Komitet Samoo
     yearEnd: 1968,
     summary: 'Marzec 1968 – fala studenckich protestów wywołana zakazem wystawiania "Dziadów" Mickiewicza, stłumiona przez władze. Towarzyszyła jej wewnątrzpartyjna kampania antysemicka, która zmusiła około 13 000 Polaków żydowskiego pochodzenia do emigracji.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/20200121%20102923%201968%20Polish%20political%20crisis.jpg?width=800',
-    imageCaption: 'Marzec 1968',
+    imageCaption: 'Tablica upamiętniająca Marzec 1968 w Bibliotece Uniwersytetu Łódzkiego (fot. współczesna)',
     trivia: [
       'Wyjeżdżający po Marcu musieli zrzec się obywatelstwa i otrzymywali dokument podróży w jedną stronę.',
       'Zarzewiem kryzysu było zdjęcie z afisza „Dziadów” Kazimierza Dejmka.',
@@ -1346,7 +1346,7 @@ Z Polski wyjechało kilkanaście tysięcy osób, zmuszonych do zrzeczenia się o
     yearEnd: 1976,
     summary: 'Robotnicze protesty w Radomiu i Ursusie z 25 czerwca 1976 roku, wywołane ogłoszeniem drastycznych podwyżek cen żywności. Stłumione przez władze z użyciem brutalnych represji, w tym słynnych "ścieżek zdrowia".',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Poland_Warsaw_Ursus_Monument_of_June_1976.jpg?width=800',
-    imageCaption: 'Czerwiec 1976',
+    imageCaption: 'Pomnik Czerwca 1976 w warszawskim Ursusie (fot. współczesna)',
     content: `## Podwyżka
 24 czerwca 1976 roku premier Piotr Jaroszewicz ogłosił w Sejmie drastyczną podwyżkę cen żywności – mięso miało zdrożeć o kilkadziesiąt procent. Nazajutrz stanęły zakłady w całym kraju.
 
@@ -1595,7 +1595,7 @@ Po 1989 roku IPN wszczął setki śledztw w sprawie zbrodni komunistycznych. Wi�
     yearEnd: 1989,
     summary: 'Ludowe Wojsko Polskie – siły zbrojne PRL podległe ZSRR przez Układ Warszawski. Tworzone od 1943 roku przez komunistów, obsadzone oficerami sowieckimi, używane do tłumienia protestów społecznych.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Emblem_of_the_Polish_People%27s_Army_land_forces_%281972%29_%282%29.png?width=800',
-    imageCaption: 'Ludowe Wojsko Polskie',
+    imageCaption: 'Emblemat wojsk lądowych Ludowego Wojska Polskiego z 1972 roku',
     content: `## Powstanie
 Ludowe Wojsko Polskie wyrosło z jednostek formowanych w ZSRR od 1943 roku. Po wojnie stało się armią państwa, w którym korpus oficerski budowano od nowa, bo przedwojennych oficerów i żołnierzy Armii Krajowej usuwano lub więziono.
 
@@ -1711,7 +1711,7 @@ Dla setek tysięcy mężczyzn armia oznaczała dwuletnią służbę zasadniczą,
     yearEnd: 1963,
     summary: 'Żołnierze Wyklęci (Niezłomni) to żołnierze polskiego podziemia niepodległościowego kontynuujący zbrojną walkę z sowiecką dominacją po 1944 r. Przez szeregi podziemia przeszło ok. 120–180 tys. ludzi; ostatni partyzant zginął w 1963 r. Tysiące zostały zamordowane przez UB i NKWD lub stracone po sfingowanych procesach.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/%C5%BBo%C5%82nierze_V_Wile%C5%84skiej_Brygady_AK.jpg?width=800',
-    imageCaption: 'Żołnierze Wyklęci',
+    imageCaption: 'Żołnierze V Wileńskiej Brygady AK, 1945',
     content: `**Geneza i struktury** — Po wkroczeniu Armii Czerwonej w 1944 r. część żołnierzy AK, NSZ i BCh odmówiła rozbrojenia, słusznie oceniając, że sowiecka dominacja przekreśla niepodległość Polski. Główne struktury: Armia Krajowa (do 1945), Delegatura Sił Zbrojnych na Kraj (1945), Wolność i Niezawisłość — **WiN** (1945–1952), Narodowe Siły Zbrojne oraz lokalne oddziały partyzanckie.
 
 **Skala zjawiska** — Historycy IPN szacują 120–180 tys. osób przez całe podziemie. Szczyt aktywności: 1945–1947. Tylko w 1946 r. przeprowadzono ok. 8 tys. „akcji zbrojnych". Aparat komunistyczny odpowiedział masowymi pacyfikacjami wsi, aresztowaniami rodzin i torturami.
@@ -1781,7 +1781,7 @@ Dla setek tysięcy mężczyzn armia oznaczała dwuletnią służbę zasadniczą,
     yearEnd: 1990,
     summary: 'ZOMO — Zmotoryzowane Oddziały Milicji Obywatelskiej — były wyspecjalizowanymi jednostkami pacyfikacyjnymi MO PRL, powołanymi w 1956 r. i rozwiązanymi w 1990 r. Zasłynęły z brutalnych interwencji podczas strajków i demonstracji, szczególnie w czasie stanu wojennego, gdy ich działania kosztowały życie kilkudziesięciu osób.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/1989%2C%20Demonstration%20in%20Wroclaw%2C%20Police.jpg?width=800',
-    imageCaption: 'ZOMO',
+    imageCaption: 'Milicyjne więźniarki podczas demonstracji we Wrocławiu, październik 1989',
     content: `## Powstanie
 Zmotoryzowane Odwody Milicji Obywatelskiej powołano w drugiej połowie 1956 roku, po poznańskim Czerwcu. Formalnym zadaniem była „likwidacja zbiorowych naruszeń porządku publicznego”, a także pomoc podczas klęsk żywiołowych.
 
@@ -1901,7 +1901,7 @@ Funkcjonariuszom zapewniano wyższe pensje, dodatki i przydziały mieszkań, co 
     yearEnd: 1944,
     summary: 'Manifest PKWN ogłoszony 22 lipca 1944 r. był aktem założycielskim komunistycznej władzy w Polsce. Proklamował reformę rolną, nacjonalizację przemysłu, nowe granice oparte na linii Curzona i Odrze–Nysie, odrzucał legalny rząd w Londynie i ustanawiał PKWN jako tymczasowy organ władzy podległy Stalinowi.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/PKWN_Manifest.jpg?width=800',
-    imageCaption: 'Manifest PKWN',
+    imageCaption: 'Druk Manifestu PKWN z 22 lipca 1944 roku',
     content: `**Geneza i kontekst** — Latem 1944 r. Armia Czerwona wkraczała na terytorium II Rzeczypospolitej. Stalin potrzebował polskiego organu władzy legitymizującego sowiecką dominację. 21–22 lipca 1944 r. w Moskwie sformułowano tekst Manifestu; podległe ZSRS środowiska komunistyczne ogłosiły go 22 lipca w Chełmie. Lublin był wówczas jeszcze pod kontrolą Niemców — data i miejsce były manipulacją propagandową.
 
 **Treść Manifestu** — Manifest proklamował:
@@ -2035,7 +2035,7 @@ Funkcjonariuszom zapewniano wyższe pensje, dodatki i przydziały mieszkań, co 
     yearEnd: 1989,
     summary: 'Drugi obieg wydawniczy — sieć niezależnych wydawnictw i redakcji działających poza cenzurą PRL — rozwinął się intensywnie po 1976 r. Jego symbolem stało się Wydawnictwo NOWA (1977). Bezdebitowe publikacje dostarczały milionom Polaków niedostępną oficjalnie literaturę, dokumenty historyczne i prasę podziemną.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wydawnictwa_podziemne.jpg?width=800',
-    imageCaption: 'Drugi obieg wydawniczy',
+    imageCaption: 'Książki i broszury drugiego obiegu wydane w latach 80.',
     content: `**Geneza** — Tradycja niezależnego obiegu sięga lat 60. (maszynopisowe odpisy dzieł odrzuconych przez cenzurę). Drugi obieg jako zorganizowany ruch zrodził się po Czerwcu 1976 r. „Komunikat KOR" (1976) był pierwszym regularnym biuletynem. Wzorem był sowiecki i czechosłowacki samizdat, ale polska wersja przerosła skalą wszystkie odpowiedniki bloku wschodniego.
 
 **Wydawnictwo NOWA** — Najważniejsza instytucja drugiego obiegu założona w 1977 r. przez Mirosława Chojeckiego. Do 1981 r. wydała ponad 100 tytułów: prozę Mackiewicza, eseje Kołakowskiego, dokumenty o Katyniu, literaturę emigracyjną. Druk na powielaczach cyklostylowych, z czasem na sprzęcie przemycanym z Zachodu.
@@ -2224,7 +2224,7 @@ Przed bramą stoczni wznosi się pomnik Poległych Stoczniowców 1970 – trzy k
     yearEnd: 1994,
     summary: 'Radio Wolna Europa – finansowana przez CIA rozgłośnia emigracyjna nadająca z Monachium. Polska sekcja RWE dostarczała Polakom niezależne informacje przez ponad 40 lat, stając się jednym z najważniejszych narzędzi oporu wobec komunistycznej propagandy.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/RFE_RL_Logo_Prague.jpg?width=800',
-    imageCaption: 'Radio Wolna Europa',
+    imageCaption: 'Znak Radia Wolna Europa na siedzibie rozgłośni w Pradze (fot. współczesna)',
     content: `## Rozgłośnia
 Radio Wolna Europa powstało w 1949 roku jako amerykańska rozgłośnia nadająca do krajów bloku wschodniego. Sekcja polska ruszyła w 1952 roku, a jej wieloletnim dyrektorem był Jan Nowak-Jeziorański, kurier z Warszawy.
 
@@ -2299,7 +2299,7 @@ Państwo utrzymywało kosztowną sieć stacji zagłuszających, ale słuchano mi
     yearEnd: 1990,
     summary: 'Cenzura w PRL – system kontroli wszelkich publikacji, audycji radiowych i telewizyjnych oraz widowisk publicznych. Główny Urząd Kontroli Prasy, Publikacji i Widowisk (GUKPPiW) funkcjonował od 1946 do 1990 roku jako narzędzie ideologicznego nadzoru nad kulturą i informacją.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/AGAD_Opinion_of_Culture_Dept_of_Polish_Communust_Party_on_Man_of_Iron_2.png?width=800',
-    imageCaption: 'Cenzura PRL',
+    imageCaption: 'Opinia Wydziału Kultury KC PZPR o „Człowieku z żelaza” Wajdy, 19 maja 1981',
     content: `Cenzura prewencyjna w Polsce Ludowej została wprowadzona dekretem z 5 lipca 1946 roku. Powołano Główny Urząd Kontroli Prasy, Publikacji i Widowisk (GUKPPiW) z siedzibą w Warszawie. Każda publikacja – książka, gazeta, plakat, scenariusz filmowy – musiała przejść przez urząd przed dopuszczeniem do obiegu.
 
 **Mechanizm działania:**
@@ -2361,7 +2361,7 @@ GUKPPiW został zniesiony ustawą z 11 kwietnia 1990 roku – jednym z pierwszyc
     yearStart: 1956,
     summary: 'Październik 1956 w Polsce – moment przełomowy, gdy po śmierci Stalina i Poznańskim Czerwcu władze PZPR pod presją społeczną przywróciły do władzy Władysława Gomułkę. Wydarzenie zwane polską odwilżą lub Październikiem 1956 dało Polakom nadzieję na liberalizację, choć nie zmieniło istoty systemu komunistycznego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gomulka_speech.jpg?width=800',
-    imageCaption: 'Październik 1956',
+    imageCaption: 'Władysław Gomułka przemawia do kilkusettysięcznego tłumu w Warszawie, 24 października 1956',
     content: `Październik 1956 roku był kulminacją procesów odwilżowych zapoczątkowanych śmiercią Stalina w 1953 roku i tzw. referatem Chruszczowa na XX Zjeździe KPZR w lutym 1956 roku, potępiającym kult jednostki.
 
 **Kontekst – rok 1956:**
@@ -2426,7 +2426,7 @@ Październik 1956 nie zmienił zasad systemu. Cenzura pozostała, Polska trwała
     yearEnd: 1956,
     summary: 'Urząd Bezpieczeństwa (UB) – stalinowski aparat terroru działający w Polsce w latach 1944–1956. Podległy Ministerstwu Bezpieczeństwa Publicznego, przy sowieckim nadzorze NKWD/MWD, prowadził masowe aresztowania, tortury i egzekucje przeciwników politycznych.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Toivi%20Hersz%20Blatt%20%28Boles%C5%82aw%20Stankiewicz%29%2C%20Urz%C4%85d%20Bezpiecze%C5%84stwa%20Publicznego%2C%20Ankieta%20Specjalna.png?width=800',
-    imageCaption: 'Urząd Bezpieczeństwa',
+    imageCaption: 'Centralna Szkoła Oficerów Politycznych Ministerstwa Bezpieczeństwa Publicznego w Łodzi, 1947',
     content: `## Aparat
 Urząd Bezpieczeństwa – potocznie bezpieka – to niewojskowe struktury aparatu bezpieczeństwa działające w okresie stalinizmu, od 1944 do 1956 roku. Centralą było Ministerstwo Bezpieczeństwa Publicznego kierowane przez Stanisława Radkiewicza.
 
@@ -2560,7 +2560,7 @@ Po upadku PRL usunięto z nazwy człon upamiętniający Stalina. Dyskusja o wybu
     yearStart: 1988,
     summary: 'Dwie fale strajków w 1988 roku – wiosenna i letnia – wstrząsnęły schyłkowym PRL. Protestująca młodzież robotnicza wymusiła na władzach podjęcie dialogu z opozycją, co bezpośrednio doprowadziło do rozmów Okrągłego Stołu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Uniwersytet_Warszawski_%28brama_g%C5%82%C3%B3wna_maj_1988%29.JPG?width=800',
-    imageCaption: 'Strajki 1988',
+    imageCaption: 'Demonstracja studentów przy bramie Uniwersytetu Warszawskiego, maj 1988',
     content: `Rok 1988 był ostatnim rokiem realnej próby sił między władzami PRL a społeczeństwem. Na tle głębokiego kryzysu ekonomicznego i drożyzny wybuchły dwie fale strajków, które zaskoczyły zarówno władze, jak i podziemną Solidarność.
 
 **Wiosna 1988 – pierwsza fala:**
@@ -2760,7 +2760,7 @@ Odpowiedzialność ZSRR przyznano oficjalnie dopiero w 1990 roku. Katyń pozosta
     yearEnd: 1990,
     summary: 'Milicja Obywatelska (MO) – komunistyczna formacja policyjna powołana w 1944 roku jako zamiennik przedwojennej Policji Państwowej. Przez 45 lat pełniła funkcje porządkowe, lecz przede wszystkim była narzędziem represji politycznych i kontroli społeczeństwa.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Milicja_Obywatelska_orze%C5%82ek_czapkowy.png?width=800',
-    imageCaption: 'Milicja Obywatelska',
+    imageCaption: 'Orzełek czapkowy Milicji Obywatelskiej',
     content: `## Formacja
 Milicja Obywatelska powstała w 1944 roku i przez cały okres PRL pełniła funkcje policyjne. Liczyła około osiemdziesięciu tysięcy funkcjonariuszy i podlegała Ministerstwu Spraw Wewnętrznych – temu samemu, któremu podlegała Służba Bezpieczeństwa.
 
@@ -2828,7 +2828,7 @@ W 1990 roku milicję zastąpiono Policją, przeprowadzając weryfikację funkcjo
     yearEnd: 1989,
     summary: 'Polska Szkoła Filmowa – nurt w kinie polskim lat 1955–1963, który przy użyciu metafory i symbolu podejmował temat II wojny, Holokaustu i moralnych rozterek. Późniejsze pokolenia twórców – Zanussi, Kieślowski, Holland – kontynuowały tradycję kina artystycznego w PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Palac_Oskara_Kona_Lodz.jpg?width=800',
-    imageCaption: 'Polska Szkoła Filmowa',
+    imageCaption: 'Pałac Oskara Kona w Łodzi, siedziba Szkoły Filmowej (fot. współczesna)',
     content: `Polskie kino okresu PRL paradoksalnie należało do najwybitniejszych na świecie. Twórcy, operując alegorią i przemycając treści niemożliwe do powiedzenia wprost, stworzyli filmy o światowej randze.
 
 **Polska Szkoła Filmowa (1955–1963):**
@@ -2901,7 +2901,7 @@ Wszystkie filmy powstawały w państwowych wytwórniach i podlegały cenzurze. S
     yearEnd: 1989,
     summary: 'Propaganda PRL – rozbudowany system manipulowania informacją i kształtowania świadomości społecznej przez komunistyczne władze. Obejmował prasę, radio, telewizję, plakat, film, szkołę i język publiczny (nowomowę).',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/3xtak.jpg?width=800',
-    imageCaption: 'Propaganda PRL',
+    imageCaption: 'Plakat referendum „3 razy tak”, 1946',
     content: `System propagandowy PRL budowany był od pierwszych dni nowej władzy i obejmował każdą sferę życia publicznego. Wzorowany na sowieckich metodach, łączył pozytywną agitację (sukcesy socjalizmu) z negatywną (strach przed Zachodem i wrogami klasowymi).
 
 **Narzędzia propagandy:**
@@ -2965,7 +2965,7 @@ Społeczeństwo nauczyło się czytać między wierszami. Żarty polityczne (kaw
     yearStart: 1947,
     summary: 'Akcja Wisła – przeprowadzona wiosną i latem 1947 roku przez władze komunistyczne przymusowa deportacja około 150 000 Ukraińców, Łemków i Bojków z południowo-wschodniej Polski na Ziemie Odzyskane. Jedna z największych operacji etnicznych w powojennej historii Polski.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/%D0%94%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D1%86%D1%96%D1%8F_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%86%D1%96%D0%B2_%D1%83_%D1%80%D0%B0%D0%BC%D0%BA%D0%B0%D1%85_%D0%B0%D0%BA%D1%86%D1%96%D1%97_%C2%AB%D0%92%D1%96%D1%81%D0%BB%D0%B0%C2%BB%2C_%D0%BA%D0%B2%D1%96%D1%82%D0%B5%D0%BD%D1%8C_1947_%D1%80.jpg?width=800',
-    imageCaption: 'Akcja Wisła',
+    imageCaption: 'Jeńcy UPA podczas akcji „Wisła”, kwiecień 1947',
     content: `Akcja Wisła trwała od 28 kwietnia do 31 lipca 1947 roku. Jej oficjalnym powodem była walka z Ukraińską Powstańczą Armią (UPA), jednak w istocie była to operacja etniczna mająca na celu trwałe rozproszenie ukraińskiej i łemkowskiej mniejszości narodowej.
 
 **Przebieg:**
@@ -3034,7 +3034,7 @@ Przez dekady Akcja Wisła była tematem tabu w PRL. Dopiero po 1989 roku możliw
     yearEnd: 1955,
     summary: 'Plan sześcioletni (1950–1955) – stalinowski plan przebudowy gospodarczej Polski wzorowany na sowieckich planach pięcioletnich. Kładł nacisk na ciężki przemysł i zbrojenia kosztem konsumpcji, rolnictwa i standardu życia. Jego realizacja powiązana była z rozbudową Nowej Huty i kolektywizacją wsi.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Hilary_Minc_1950.jpg?width=800',
-    imageCaption: 'Plan sześcioletni',
+    imageCaption: 'Hilary Minc, twórca planu sześcioletniego, 1950',
     content: `Plan sześcioletni – oficjalnie "Plan rozwoju gospodarczego i budowy podstaw socjalizmu w Polsce na lata 1950–1955" – uchwalony przez Sejm w lipcu 1950 roku. Zakładał ponad dwukrotne zwiększenie produkcji przemysłowej, przede wszystkim w branżach: hutnictwo, górnictwo, energetyka i przemysł maszynowy.
 
 **Priorytety i założenia:**
@@ -3117,7 +3117,7 @@ Wybuch robotniczego buntu w Poznaniu w czerwcu 1956 roku był bezpośrednią rea
     yearEnd: 1980,
     summary: 'Wolne Związki Zawodowe Wybrzeża – niezależna organizacja robotnicza założona w 1978 roku w Gdańsku. Skupiała działaczy, którzy zapoczątkowali sierpniowy strajk 1980 i stworzyli zręby NSZZ Solidarność. Spośród jej członków wyrosła większość liderów pierwszej Solidarności.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zbiorka%20na%20wolne%20zwiazki%20zawodowe%201980.jpg?width=800',
-    imageCaption: 'Wolne Związki Zawodowe',
+    imageCaption: 'Zbiórka na Wolne Związki Zawodowe w Szczecinie, sierpień 1980',
     content: `Wolne Związki Zawodowe Wybrzeża (WZZ) założono 29 kwietnia 1978 roku w Gdańsku. Inicjatorami byli m.in. Andrzej Gwiazda, Bogdan Borusewicz i Krzysztof Wyszkowski. Wkrótce do organizacji dołączyli Lech Wałęsa i Anna Walentynowicz.
 
 **Kontekst:**
@@ -3184,7 +3184,7 @@ Członkowie WZZ byli stale inwigilowani, zatrzymywani, zwalniani z pracy. Anna W
     yearEnd: 2000,
     summary: 'Miesięcznik "Kultura" wydawany przez Jerzego Giedroycia w Paryżu od 1947 roku – najważniejsze polskie pismo emigracyjne, które przez dekady kształtowało myśl polityczną opozycji i intelektualistów w kraju. Instytut Literacki w Maisons-Laffitte był centrum polskiej niezależnej myśli przez całą epokę PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gustaw_Herling-Grudzinski_3.jpg?width=800',
-    imageCaption: 'Kultura Paryska',
+    imageCaption: 'Gustaw Herling-Grudziński na zdjęciu z więzienia w Grodnie, 1940',
     content: `"Kultura" – miesięcznik założony przez Jerzego Giedroycia w Rzymie w 1947 roku, a od 1948 roku wydawany w podparyskim Maisons-Laffitte przez Instytut Literacki. Przez ponad pół wieku (do śmierci Giedroycia w 2000 roku) było to najważniejsze polskie pismo poza krajem.
 
 **Jerzy Giedroyc (1906–2000):**
@@ -3246,7 +3246,7 @@ Instytut Literacki wydał setki książek – autorów zakazanych w PRL, dokumen
     yearEnd: 1991,
     summary: 'Układ o Przyjaźni, Współpracy i Pomocy Wzajemnej – sojusz militarny krajów bloku wschodniego pod przywództwem ZSRR, podpisany 14 maja 1955 roku w Warszawie. Polska była jego członkiem przez cały czas istnienia, uczestnicząc m.in. w interwencji zbrojnej w Czechosłowacji w 1968 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Warsaw_Pact_Logo.svg?width=800',
-    imageCaption: 'Układ Warszawski',
+    imageCaption: 'Godło Układu Warszawskiego',
     content: `## Powstanie
 Układ o Przyjaźni, Współpracy i Pomocy Wzajemnej podpisano w Warszawie w 1955 roku, jako odpowiedź na powstanie NATO i przyjęcie do niego Republiki Federalnej Niemiec. Formalnie był sojuszem równych państw.
 
@@ -3312,7 +3312,7 @@ Układ rozwiązano w 1991 roku, po upadku systemów komunistycznych w regionie. 
     yearStart: 1946,
     summary: 'Referendum z 30 czerwca 1946 roku – pierwsze wielkie fałszerstwo wyborcze w powojennej Polsce. Komuniści sfałszowali wyniki, podając 68% głosów na TAK przy trzech pytaniach. W rzeczywistości większość Polaków głosowała zgodnie z apelem PSL: TAK–NIE–TAK. Był to wstęp do przejęcia pełni władzy.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tablice_referendum_1946_Warszawa.jpg?width=800',
-    imageCaption: 'Referendum ludowe 1946',
+    imageCaption: 'Tablice propagandowe przed referendum 30 czerwca 1946 w Warszawie',
     content: `Referendum ludowe przeprowadzono 30 czerwca 1946 roku. Postawiło trzy pytania:
 1. Czy jesteś za zniesieniem Senatu?
 2. Czy chcesz utrwalenia w przyszłej konstytucji ustroju gospodarczego, zaprowadzonego przez reformę rolną i unarodowienie podstawowych gałęzi gospodarki narodowej?
@@ -3377,7 +3377,7 @@ Oszukańcze referendum utorowało drogę do sfałszowanych wyborów w styczniu 1
     yearStart: 1947,
     summary: 'Wybory do Sejmu Ustawodawczego z 19 stycznia 1947 roku – jedne z najbardziej sfałszowanych wyborów w historii Polski. PPR i Blok Demokratyczny oficjalnie uzyskały 80% głosów. Sfałszowane wyniki zakończyły demokratyczną opozycję i umożliwiły komunistom pełne przejęcie władzy.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Prezydent_Bierut_1947_%28cropped%29.png?width=800',
-    imageCaption: 'Wybory 1947',
+    imageCaption: 'Bolesław Bierut, wybrany prezydentem przez Sejm Ustawodawczy po sfałszowanych wyborach 1947 roku',
     content: `Wybory do Sejmu Ustawodawczego odbyły się 19 stycznia 1947 roku. Ich przebieg i wyniki były wynikiem masowych fałszerstw przygotowanych przez aparat komunistyczny przy wsparciu sowieckiego NKWD.
 
 **Klimat terroru przed wyborami:**
@@ -3514,7 +3514,7 @@ Po emigracji 1968 roku żydowska społeczność w Polsce została praktycznie zl
     yearEnd: 1990,
     shortDesc: 'Powojenne przesiedlenia i polska kolonizacja dawnych terenów niemieckich na zachodzie i północy Polski.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ziemie_Odzyskane.png?width=800',
-    imageCaption: 'Ziemie Odzyskane',
+    imageCaption: 'Ziemie przyłączone do Polski w 1945 roku',
     content: `## Ziemie Odzyskane
 
 „Ziemie Odzyskane" – tak komunistyczna propaganda nazywała dawne tereny wschodnioniemieckie włączone do Polski po II wojnie światowej: Śląsk, Pomorze Zachodnie, Warmię, Mazury i ziemię lubuską. Nazwa miała sugerować powrót do słowiańskich korzeni – choć przez wieki były to kraje w znacznej mierze zamieszkałe przez Niemców.
@@ -4251,7 +4251,7 @@ PRL dał Polsce masową edukację – i to jest realne osiągnięcie. Ale też w
     yearEnd: 1989,
     shortDesc: 'Studencki ruch niezależny, zarejestrowany w 1980 roku – pierwsza legalna niezależna organizacja studencka w bloku wschodnim.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/LogoNZS.jpg?width=800',
-    imageCaption: 'NZS – Niezależne Zrzeszenie Studentów',
+    imageCaption: 'Znak Niezależnego Zrzeszenia Studentów',
     content: `## NZS – Niezależne Zrzeszenie Studentów
 
 Niezależne Zrzeszenie Studentów (NZS) było pierwszą legalną niezależną organizacją studencką w całym bloku wschodnim – zarejestrowaną we wrześniu 1980 roku, kilka tygodni po Solidarności. Jej powstanie było wyrazem tego samego ducha Sierpnia, który ogarnął całe polskie społeczeństwo.
@@ -4701,7 +4701,7 @@ Kapuściński był wielokrotnie wymieniany jako kandydat do Nagrody Nobla. Stwor
     yearStart: 1979,
     summary: 'Konfederacja Polski Niepodległej (KPN) – organizacja polityczna założona 1 września 1979 roku przez Leszka Moczulskiego. Była pierwszą jawnie działającą partią polityczną dążącą do pełnej niepodległości Polski i zerwania z ZSRR. Jej działacze byli wielokrotnie skazywani na długoletnie wyroki więzienia.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Rewolucja_bez_rewolucji.jpg?width=800',
-    imageCaption: 'Konfederacja Polski Niepodległej',
+    imageCaption: '„Rewolucja bez rewolucji” Leszka Moczulskiego, nieoficjalny program KPN z 1979 roku',
     content: `Konfederacja Polski Niepodległej powstała 1 września 1979 roku – w 40. rocznicę wybuchu II wojny światowej. Jej założycielem i liderem był Leszek Moczulski, dziennikarz i historyk.
 
 **Program:**
@@ -4912,7 +4912,7 @@ W lipcu 1989 roku Rakowski objął funkcję I sekretarza KC PZPR – kiedy parti
     yearEnd: 1991,
     shortDesc: 'Wschodnioblokowy odpowiednik EWG – integracja gospodarcza krajów komunistycznych pod hegemonią ZSRR.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Comecon.svg?width=800',
-    imageCaption: 'RWPG – Rada Wzajemnej Pomocy Gospodarczej',
+    imageCaption: 'Godło Rady Wzajemnej Pomocy Gospodarczej',
     content: `## RWPG – Rada Wzajemnej Pomocy Gospodarczej
 
 Rada Wzajemnej Pomocy Gospodarczej (ros. СЭВ – Sowiet Ekonomiczeskiej Wzaimopomoszczi, ang. COMECON) była organizacją integracji ekonomicznej krajów socjalistycznych, powołaną w 1949 roku jako odpowiedź na Plan Marshalla. Przez 40 lat wyznaczała ramy handlu i kooperacji przemysłowej Polski z blokiem wschodnim.
@@ -5127,7 +5127,7 @@ Geremek łączył w sobie rzadką kombinację: wybitny uczony i skuteczny polity
     yearEnd: 1948,
     summary: 'Polska Partia Robotnicza (PPR) – komunistyczna partia polityczna działająca w Polsce w latach 1942–1948. Założona z inicjatywy Moskwy, z pomocą Kominternu. Pod przywództwem Władysława Gomułki i Bolesława Bieruta przejęła władzę w Polsce po 1944 roku. W 1948 roku połączyła się z PPS, tworząc PZPR.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Polish_Workers%27_Party_logo.svg?width=800',
-    imageCaption: 'Polska Partia Robotnicza',
+    imageCaption: 'Znak Polskiej Partii Robotniczej z ulotki propagandowej, 1947',
     content: `## Polska Partia Robotnicza (PPR)
 
 Polska Partia Robotnicza (PPR) była komunistyczną partią polityczną powołaną w 1942 roku przez agentów Kominternu. To ona przejęła władzę w Polsce po 1944 roku i zbudowała komunistyczny system, zakończywszy istnienie w 1948 roku przez fuzję z PPS – tworząc PZPR.
@@ -5256,7 +5256,7 @@ Reformy Gorbaczowa uwolniły odśrodkowe siły, których nie mógł kontrolować
     yearStart: 1989,
     summary: 'Wybory parlamentarne z 4 czerwca 1989 roku – pierwsze częściowo wolne wybory w PRL od 1947 roku. Solidarność zdobyła wszystkie możliwe do wygrania mandaty w Sejmie i 99 na 100 miejsc w Senacie. Wynik wyborów był początkiem końca komunizmu nie tylko w Polsce, lecz w całej Europie Środkowej.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Elections%201989%20in%20Poznan%20Poland.JPG?width=800',
-    imageCaption: 'Wybory 4 czerwca 1989',
+    imageCaption: 'Ulotka wyborcza Solidarności z Poznania, 1989',
     trivia: [
       'Komitet Obywatelski zdobył wszystkie dostępne mandaty poselskie i 99 ze 100 miejsc w Senacie.',
       'Lista krajowa czołowych działaczy partyjnych przepadła, bo wyborcy masowo skreślali nazwiska.',
@@ -5383,7 +5383,7 @@ Wczasy FWP są dziś przedmiotem nostalgii – jako symbol beztroskiego lata, pr
     yearEnd: 1989,
     summary: 'Przez całe istnienie PRL tysiące obywateli podejmowało ryzykowne próby ucieczki za granicę. Przekraczanie granicy bez zgody władz było przestępstwem zagrożonym więzieniem lub śmiercią. Żelazna kurtyna była fizyczną i prawną barierą oddzielającą Polaków od wolnego świata.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ucieczka%20%C5%BCo%C5%82nierzy%20ze%20stra%C5%BCnicy%20WOP%20w%20Pokrzywnej%2005.jpg?width=800',
-    imageCaption: 'Ucieczki z PRL',
+    imageCaption: 'Inscenizacja pościgu WOP za żołnierzami, którzy uciekli ze strażnicy w Pokrzywnej w 1951 roku',
     content: `W PRL wyjazd za granicę wymagał zgody władz i posiadania paszportu. Paszport był własnością państwa – przechowywany w komendzie milicji i wydawany tylko na konkretny wyjazd. Próba wyjazdu bez zgody lub "nielegalne" pozostanie za granicą było przestępstwem.
 
 **Paszport jako narzędzie kontroli:**
@@ -5746,7 +5746,7 @@ Po Październiku 1956 masowy terror zelżał, lecz więzienia polityczne nie zni
     yearEnd: 1989,
     summary: 'Telewizja Polska rozpoczęła regularne nadawanie w 1952 roku. Przez dekady była głównym narzędziem propagandy partyjnej – Dziennik Telewizyjny manipulował informacją, a program był ściśle kontrolowany. Jednocześnie TVP tworzyła wybitne spektakle Teatru Telewizji i seriale, które na stałe weszły do kultury.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Siedziba_Telewizji_Polskiej_w_Warszawie_2017.jpg?width=800',
-    imageCaption: 'Telewizja Polska w PRL',
+    imageCaption: 'Budynek Telewizji Polskiej przy ulicy Woronicza w Warszawie (fot. współczesna)',
     content: `Telewizja Polska rozpoczęła regularne emisje 25 października 1952 roku. Początkowo nadawała kilka godzin dziennie, docierając do nielicznych posiadaczy odbiorników. W latach 60. telewizja upowszechniła się – posiadanie telewizora stało się aspiracją każdej rodziny.
 
 **Dziennik Telewizyjny:**
@@ -5956,7 +5956,7 @@ Po 13 grudnia 1981 roku NSZZ RI zdelegalizowano wraz z innymi strukturami Solida
     yearEnd: 1993,
     summary: 'Północna Grupa Wojsk (PGWN) – stacjonujące w Polsce oddziały Armii Sowieckiej, obecne od 1945 do 1993 roku. Liczyły w szczytowym momencie ok. 60 000 żołnierzy. Ich obecność była namacalnym symbolem braku suwerenności PRL i radzieckiej dominacji nad krajem.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Komendantura_Wermachtu%2C_obecnie_ZUS%2C_Legnica%2C_ul._Grabskiego_26_%28VII%29.JPG?width=800',
-    imageCaption: 'Sowieci w Polsce – Północna Grupa Wojsk',
+    imageCaption: 'Legnica, dawna komendantura garnizonu – miasto było siedzibą dowództwa Północnej Grupy Wojsk Armii Radzieckiej',
     content: `Po zakończeniu II wojny światowej wojska sowieckie pozostały na terytorium Polski. Formalnie uzasadniano to koniecznością zabezpieczenia szlaków komunikacyjnych do Niemiec i "gwarancją bezpieczeństwa" bloku wschodniego. W rzeczywistości była to militarna gwarancja sowieckiej dominacji.
 
 **Struktura i bazy:**
@@ -6266,7 +6266,7 @@ Alternatywą były Radio Wolna Europa i głos Ameryki – słuchane nielegalnie 
     yearEnd: 1946,
     summary: 'Pogrom kielecki (4 lipca 1946 r.) był największym mordem na Żydach w powojennej Polsce: tłum zaatakował budynek przy ul. Planty 7, zabijając 42 Żydów ocalałych z Holokaustu. Tragedia ta przyspieszyła masową emigrację polskich Żydów i do dziś budzi trudne pytania.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kielce_planty_7.jpg?width=800',
-    imageCaption: 'Pogrom kielecki 1946',
+    imageCaption: 'Kamienica przy ulicy Planty 7 w Kielcach, miejsce pogromu z 4 lipca 1946 roku',
     content: `## Kontekst – Żydzi w powojennej Polsce
 
 Po wyzwoleniu do Polski wróciło ok. 200–250 tys. Żydów – ocalałych z obozów, ukrywających się po wsiach, powracających z ZSRR. Atmosfera była napięta: antysemityzm zakorzeniony w uprzedzeniach i rywalizacji o majątek żydowski przejęty w czasie okupacji. W latach 1944–1946 zginęło w Polsce ok. 1 500–2 000 Żydów w różnych incydentach.
@@ -6394,7 +6394,7 @@ W 1990 r., po urynkowieniu i otwarciu granic, Pewex stracił rację bytu. Sklepy
     yearEnd: 1989,
     summary: 'Kresy Wschodnie – wschodnie tereny II Rzeczypospolitej z Lwowem, Wilnem, Grodnem i Pińskiem – zostały utracone na rzecz ZSRR na podstawie ustaleń jałtańskich. Miliony Polaków wysiedlonych stamtąd na zawsze zachowały pamięć o utraconej ojczyźnie.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Borders_of_Polish_states_and_Polish%E2%80%93Lithuanian_Commonwealth_%28union_state_of_the_Crown_of_the_Kingdom_of_Poland_and_Grand_Duchy_of_Lithuania%29.png?width=800',
-    imageCaption: 'Kresy Wschodnie – utracona ojczyzna',
+    imageCaption: 'Zmiany granic państwa polskiego na przestrzeni wieków',
     content: `## Czym były Kresy
 
 Kresy Wschodnie to rozległe tereny wschodnie II RP: Wileńszczyzna, Nowogródczyzna, Polesie, Wołyń, Małopolska Wschodnia (z Lwowem). Zamieszkiwała je niezwykle różnorodna mozaika narodowościowa: Polacy, Ukraińcy, Białorusini, Litwini, Żydzi, Rusini. Lwów – "miasto siedmiu kultur" – był centrum kulturalnym i naukowym.
@@ -6586,7 +6586,7 @@ Kwestia odszkodowań dla potomków wywłaszczonych właścicieli ziemskich pozos
     yearEnd: 1994,
     summary: 'Polska Kronika Filmowa (PKF) przez 50 lat była wyświetlana w kinach przed każdym filmem. Oficjalnie – narzędzie propagandy PZPR. W rzeczywistości – nieocenione archiwum wizualne Polski XX w., dokumentujące zarówno sukcesy systemu, jak i codzienne życie Polaków.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Sergiusz_Sprudin_-_Polska_Kronika_Filmowa_-_Film_nr_12_-_1947-02-15.JPG?width=800',
-    imageCaption: 'Polska Kronika Filmowa',
+    imageCaption: 'Sergiusz Sprudin, operator Polskiej Kroniki Filmowej, 1947',
     content: `## Narodziny PKF
 
 Polska Kronika Filmowa powstała w 1944 r. w Lublinie, natychmiast po wkroczeniu Armii Czerwonej. Wzorowana na sowieckich kronikach, miała dostarczać propagandowych obrazów "odbudowy i budowy socjalizmu". Przed erą telewizji była jedynym ruchomym obrazem aktualnych wydarzeń dla milionów Polaków odwiedzających kino.
@@ -6699,7 +6699,7 @@ PKF przeżyła PRL – nadawano ją do 1994 r., zmieniając stopniowo profil. Ar
     yearEnd: 1989,
     summary: 'Wytwórnia Filmów Dokumentalnych (od 1989 WFDiF) przy ul. Chełmskiej w Warszawie była głównym producentem Polskiej Kroniki Filmowej, filmów dokumentalnych i oświatowych w PRL. To tutaj powstawały tysiące materiałów dokumentujących epokę – od propagandy po wybitne dzieła dokumentalistyki.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wytw%C3%B3rnia_Film%C3%B3w_Dokumentalnych_i_Fabularnych_w_Warszawie_2020.jpg?width=800',
-    imageCaption: 'Wytwórnia Filmów Dokumentalnych i Fabularnych',
+    imageCaption: 'Wytwórnia Filmów Dokumentalnych i Fabularnych przy ulicy Chełmskiej w Warszawie (fot. współczesna)',
     content: `## Powstanie wytwórni
 
 Wytwórnia Filmów Dokumentalnych powstała w 1949 r. w Warszawie przy ul. Chełmskiej 21, w ramach upaństwowionej i scentralizowanej kinematografii. Stała się głównym ośrodkiem produkcji filmu dokumentalnego, oświatowego i – przede wszystkim – Polskiej Kroniki Filmowej, wyświetlanej co tydzień w kinach całego kraju.
@@ -7408,7 +7408,7 @@ Temat deportacji był w PRL przemilczany – zbrodnie sowieckie podlegały cenzu
     yearEnd: 1989,
     summary: 'Konstytucja PRL uchwalona 22 lipca 1952 r. była wzorowana na stalinowskiej konstytucji ZSRR z 1936 r. Formalnie gwarantowała prawa obywatelskie, w praktyce legitymizowała monopol PZPR i służyła jako fasada systemu totalitarnego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Uchwalenie%20Konstytucji%20Polskiej%20Polskiej%20Rzeczypospolitej%20Ludowej%2022%20lipca%201952%20roku.jpg?width=800',
-    imageCaption: 'Konstytucja PRL 1952',
+    imageCaption: 'Uchwalenie Konstytucji PRL, 22 lipca 1952',
     content: `## Geneza i uchwalenie
 
 Prace nad konstytucją trwały od 1948 r. pod kierownictwem Bolesława Bieruta. Projekt konsultowano z Moskwą; głównym sowieckim doradcą był Andriej Wyszynski. Konstytucję uchwalono 22 lipca 1952 r. – w rocznicę Manifestu PKWN – i od tej daty zmieniono oficjalną nazwę państwa z "Rzeczpospolita Polska" na "Polska Rzeczpospolita Ludowa".
@@ -7729,7 +7729,7 @@ Wzorem sowieckim SB używała psychiatrii jako narzędzia represji: dysydentów 
     yearEnd: 1989,
     summary: 'Polski teatr w PRL był polem nieustannej gry między cenzurą a artystyczną wolnością. Mimo ograniczeń wydał wybitnych twórców – Jerzego Grotowskiego, Tadeusza Kantora, Konrada Swinarskiego – i stał się przestrzenią zakodowanego oporu wobec systemu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Teatr_Wielki_w_Warszawie_p7_2.jpg?width=800',
-    imageCaption: 'Teatr w PRL',
+    imageCaption: 'Gmach przy placu Teatralnym w Warszawie, siedziba Opery Narodowej i Muzeum Teatralnego',
     content: `## Instytucja państwowa
 Wszystkie teatry w PRL były państwowe: obsadę dyrektorską zatwierdzała partia, repertuar przechodził przez cenzurę, a finansowanie pochodziło z budżetu. Zapewniało to stabilność zespołów i etaty, ale i pełną zależność.
 
@@ -7851,7 +7851,7 @@ Po wojnie Anders i żołnierze II Korpusu nie wrócili do Polski, którą rządz
     yearEnd: 1990,
     summary: 'Rząd RP na uchodźstwie działał nieprzerwanie w Londynie od 1939 do 1990 r. – kiedy to przekazał insygnia prezydentowi Lechowi Wałęsie. Przez 45 lat był legalną reprezentacją Polski na Zachodzie, nieuznającą władzy PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/W%C5%82adys%C5%82aw_Raczkiewicz_1.jpg?width=800',
-    imageCaption: 'Rząd RP na uchodźstwie',
+    imageCaption: 'Władysław Raczkiewicz, prezydent RP na uchodźstwie w latach 1939–1947',
     content: `## Geneza – wrzesień 1939
 
 Po klęsce kampanii wrześniowej prezydent Ignacy Mościcki przekazał urząd Władysławowi Raczkiewiczowi (zgodnie z konstytucją kwietniową). Rząd ewakuował się przez Rumunię do Francji, a po jej upadku – do Londynu. Od 1940 r. to właśnie Londyn był siedzibą legalnych władz RP.
@@ -7913,7 +7913,7 @@ Rząd emigracyjny działał nieprzerwanie przez 45 lat. Kolejni prezydenci: Racz
     yearEnd: 1989,
     summary: '"Tygodnik Powszechny" – krakowskie pismo katolickie Jerzego Turowicza (1945–1989) – był najbardziej prestiżowym periodykiem katolickim w całym bloku wschodnim i jedynym miejscem, gdzie w PRL można było czytać niezależną myśl religijną i kulturalną.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/TP_logo_male.png?width=800',
-    imageCaption: 'Tygodnik Powszechny',
+    imageCaption: 'Winieta „Tygodnika Powszechnego”',
     content: `## Powstanie i redakcja
 
 "Tygodnik Powszechny" założono w Krakowie w 1945 r. Redaktorem naczelnym przez niemal całe powojenne czterdziestolecie był Jerzy Turowicz (1912–1999) – wybitny intelektualista i człowiek dialogu. Wokół pisma skupiło się środowisko krakowskiej inteligencji katolickiej: Stanisław Stomma, Kisiel (Stefan Kisielewski), Hanna Malewska, Karol Wojtyła (późniejszy Jan Paweł II).
@@ -7975,7 +7975,7 @@ Po 1989 r. "Tygodnik Powszechny" kontynuował działalność jako niezależne pi
     yearEnd: 1945,
     summary: 'Konferencja Jałtańska (4–11 lutego 1945 r.) zadecydowała o losach powojennej Europy. Roosevelt i Churchill zgodzili się na sowiecką dominację w Polsce i Europie Środkowej. Polacy nazwali ją zdradą i początkiem komunistycznej niewoli.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Yalta_Conference_1945_Churchill%2C_Stalin%2C_Roosevelt.jpg?width=800',
-    imageCaption: 'Konferencja Jałtańska 1945',
+    imageCaption: 'Churchill, Roosevelt i Stalin w Jałcie, luty 1945',
     content: `## Kontekst – schyłek wojny
 
 W lutym 1945 r. klęska Niemiec była kwestią czasu. Armia Czerwona stała już na Odrze. Wielka Trójka – Roosevelt (USA), Churchill (Wielka Brytania) i Stalin (ZSRR) – spotkała się w krymskiej Jałcie, by uzgodnić kształt powojennego świata.
@@ -8037,7 +8037,7 @@ Historycy spierają się, czy Roosevelt i Churchill mieli realną alternatywę �
     yearEnd: 1968,
     summary: 'Praska Wiosna – próba liberalizacji komunizmu w Czechosłowacji – została stłumiona przez inwazję wojsk Układu Warszawskiego w nocy z 20 na 21 sierpnia 1968 r. Polska dywizja LWP uczestniczyła w interwencji. Efektem była "doktryna Breżniewa".',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/10_Soviet_Invasion_of_Czechoslovakia_-_Flickr_-_The_Central_Intelligence_Agency.jpg?width=800',
-    imageCaption: 'Praska Wiosna 1968',
+    imageCaption: 'Czesi z flagą narodową obok płonącego czołgu w Pradze, sierpień 1968',
     content: `## Reformy Dubčeka
 
 W styczniu 1968 r. Alexander Dubček stanął na czele KPCz. Ogłosił program "socjalizmu z ludzką twarzą": złagodzenie cenzury, ograniczenie policji politycznej, dialog z opozycją. Praska Wiosna była prawdziwą odwilżą – w Czechosłowacji kwitło wolne słowo.
@@ -8252,7 +8252,7 @@ Część akt wywiadu PRL zniszczono przed przekazaniem do IPN. Zachowane dokumen
     yearEnd: 1983,
     summary: 'Wojskowa Rada Ocalenia Narodowego (WRON) powstała 13 grudnia 1981 r. razem ze stanem wojennym. Była organem faktycznej władzy wojskowej w PRL. Polacy żartowali, że WRON to "kruk" po polsku – symbol złowróżbny.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/AGAD_Posiedzenie_Wojskowej_Rady_Ocalenia_Narodowego.jpg?width=800',
-    imageCaption: 'WRON – Wojskowa Rada Ocalenia Narodowego',
+    imageCaption: 'Posiedzenie WRON pod przewodnictwem gen. Jaruzelskiego, Warszawa, 14 grudnia 1981',
     content: `## Powołanie i skład
 
 WRON proklamował gen. Wojciech Jaruzelski w nocy z 12 na 13 grudnia 1981 r. W skład rady weszło 21 generałów i admirałów. Przewodniczącym był Jaruzelski, pełniący jednocześnie funkcje I sekretarza PZPR, premiera i ministra obrony – bezprecedensowa kumulacja władzy.
@@ -8577,7 +8577,7 @@ Radio Wolna Europa zagłuszano do końca lat 80. – ale Polacy i tak słuchali,
     yearEnd: 1991,
     summary: 'Stefan Kisielewski – "Kisiel" – był jedynym w swoim rodzaju: kompozytorem i krytykiem muzycznym, powieściopisarzem, felietonistą "Tygodnika Powszechnego" i nieustraszoną szpilą wbitą w balonik partyjnej propagandy. Bity przez "aktywistów" w 1968 r., nigdy nie ucichł.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stefan_Kisielewski.jpg?width=800',
-    imageCaption: 'Stefan Kisielewski',
+    imageCaption: 'Stefan Kisielewski na zdjęciu z kwestionariusza paszportowego, 1987 (zasób IPN)',
     content: `## Człowiek wielu talentów
 
 Stefan Kisielewski (ur. 7 III 1911 w Warszawie) był z wykształcenia kompozytorem – ukończył Konserwatorium Warszawskie i studiował w Paryżu. Tworzył muzykę kameralną, symfoniczną i fortepianową. Równolegle pisał felietony, powieści i krytyki – i to właśnie pióro przyniosło mu największą sławę.
@@ -8823,7 +8823,7 @@ Po 1989 r. Kiszczak był wielokrotnie oskarżany – o udział w wprowadzeniu st
     yearEnd: 1970,
     summary: 'Polska szkoła filmowa (ok. 1955–1965) to jeden z najważniejszych ruchów w historii kina europejskiego. Twórcy z łódzkiej filmówki – Munk, Kawalerowicz, Has, Polański, Skolimowski – stworzyli filmy rozliczające się z wojną i przemilczeniami historii, które zyskały światowe uznanie.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Palac_Oskara_Kona_Lodz.jpg?width=800',
-    imageCaption: 'Polska szkoła filmowa',
+    imageCaption: 'Pałac Oskara Kona w Łodzi, siedziba Szkoły Filmowej (fot. współczesna)',
     content: `## Narodziny szkoły – odwilż i filmówka
 
 Polska Szkoła Filmowa wyrosła z odwilży po 1956 r. i z Państwowej Wyższej Szkoły Filmowej w Łodzi (PWSF, założonej 1948) – jednej z pierwszych i najlepszych uczelni filmowych w Europie. Jej absolwenci otrzymali po 1956 r. bezprecedensową artystyczną wolność: mogli rozliczać się z wojną, martyrologią i przemilczaną historią.
@@ -8950,7 +8950,7 @@ Prozaik i scenarzysta. Jego powieści – "Kronika wypadków miłosnych" (1974),
     yearEnd: 1989,
     summary: 'Wybory w PRL były starannie wyreżyserowaną fikcją demokratyczną. Kandydatury zatwierdzał Front Jedności Narodu kontrolowany przez PZPR. Oficjalne wyniki sięgały 99% poparcia – produkowane przez fałszowanie protokołów.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Elections%201989%20in%20Poznan%20Poland.JPG?width=800',
-    imageCaption: 'Wybory w PRL',
+    imageCaption: 'Ulotka wyborcza Solidarności z 1989 roku – pierwszych wyborów, w których był wybór',
     content: `Wybory w Polskiej Rzeczypospolitej Ludowej były jednym z filarów fasady demokratycznej systemu komunistycznego. Organizowane regularnie, służyły przede wszystkim legitymizacji władzy i demonstracji jedności społeczeństwa z partią.
 
 **System wyborczy**
@@ -9078,7 +9078,7 @@ W latach 80. rolnicy uzyskali możliwość zrzeszania się w niezależnych zwią
     yearEnd: 1989,
     summary: 'Telewizja Polska była od początku narzędziem propagandy państwowej, ale jednocześnie dostarczała rozrywki milionom Polaków. "Dziennik Telewizyjny" był synonimem kłamstwa władzy, ale "Teleranek", "Kobra" i "Czterdziestolatek" budowały wspólną kulturę.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Siedziba_Telewizji_Polskiej_w_Warszawie_2017.jpg?width=800',
-    imageCaption: 'Telewizja w PRL',
+    imageCaption: 'Budynek Telewizji Polskiej przy ulicy Woronicza w Warszawie (fot. współczesna)',
     content: `Telewizja Polska (TVP) – narzędzie propagandy i codzienne okno na świat milionów Polaków – zajmuje szczególne miejsce w zbiorowej pamięci o PRL.
 
 **Początki telewizji w Polsce**
@@ -9231,7 +9231,7 @@ Po śmierci Stalina (marzec 1953) represje stopniowo słabły. Przełom nastąpi
     yearEnd: 2022,
     summary: 'Mirosław Hermaszewski – jedyny Polak, który poleciał w kosmos. 27 czerwca 1978 roku wystartował na pokładzie statku kosmicznego Sojuz 30 w ramach programu Interkosmos. Lot trwał niemal 8 dób i stał się największym triumfem propagandowym PRL lat siedemdziesiątych.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Miroslaw_H.jpg?width=800',
-    imageCaption: 'Mirosław Hermaszewski',
+    imageCaption: 'Mirosław Hermaszewski, pierwszy Polak w kosmosie, 1978',
     content: `Mirosław Hermaszewski (1941–2022) – generał brygady, pilot doświadczalny i kosmonauta, jedyny Polak, który przebywał w przestrzeni kosmicznej.
 
 **Droga do kosmosu**
@@ -9297,7 +9297,7 @@ Hermaszewski jest jedynym Polakiem w kosmosie – Polska od lat nie uczestniczy�
     yearEnd: 2004,
     summary: 'Czesław Niemen (1939–2004) – jeden z największych polskich muzyków wszech czasów. Zaczynał od bigbitu, tworzył przeboje ("Dziwny jest ten świat"), sięgał po psychodelię, jazz-rock i muzykę elektroniczną. Artysta niepokory i oryginalności, porównywany na Zachodzie z największymi gwiazdami.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Czes%C5%82aw_Niemen.png?width=800',
-    imageCaption: 'Czesław Niemen',
+    imageCaption: 'Czesław Niemen na Festiwalu Piosenki Polskiej w Opolu, 1975',
     trivia: ['„Dziwny jest ten świat” zdobył Grand Prix festiwalu w Opolu w 1967 roku.'],
     content: `Czesław Niemen (właśc. Czesław Juliusz Wydrzycki, 1939–2004) – piosenkarz, kompozytor, multiinstrumentalista i aranżer, jeden z symboli polskiej muzyki popularnej i rockowej.
 
@@ -9371,7 +9371,7 @@ Niemen jest dla polskiej muzyki tym, czym Hendrix dla rocka angloamerykańskiego
     yearEnd: 1982,
     summary: 'Anna German (1936–1982) – piosenkarka o niezwykłym, lirycznym sopranowym głosie, uwielbiana zarówno w Polsce, jak i w ZSRR. Przerwał jej karierę tragiczny wypadek samochodowy w 1967 roku, z którego cudem wróciła na scenę. Jej piosenki jak "Człowieczy los" i "Tańczące Eurydyki" zostały klasykami.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Anna_german.png?width=800',
-    imageCaption: 'Anna German',
+    imageCaption: 'Anna German w latach 60.',
     content: `Anna German (właśc. Anna Wiktoria German, 1936–1982) – polsko-radziecka piosenkarka, jedna z najbardziej kochanych artystek epoki PRL.
 
 **Pochodzenie i dzieciństwo**
@@ -9518,7 +9518,7 @@ Doświadczenie ZMP jest złożone. Część członków szczerze wierzyła w idea
     yearEnd: 1992,
     summary: 'Solidarność Walcząca – podziemna organizacja powstała we Wrocławiu w 1982 roku, radykalniejsza od głównego nurtu podziemnej Solidarności. Odrzucała jakikolwiek kompromis z komunistami, dążąc do pełnego obalenia systemu i odzyskania niepodległości. Była silnie inwigilowana przez SB.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Dewiza-SW.jpg?width=800',
-    imageCaption: 'Solidarność Walcząca',
+    imageCaption: 'Deklaracja Solidarności Walczącej, 1982',
     content: `Solidarność Walcząca (SW) – konspiracyjna organizacja powołana we Wrocławiu w czerwcu 1982 roku przez Kornela Morawieckiego, reprezentująca radykalne skrzydło oporu po wprowadzeniu stanu wojennego.
 
 **Powstanie i ideologia**
@@ -9827,7 +9827,7 @@ Likwidacja PPS oznaczała zniszczenie pluralizmu politycznego w Polsce i zakońc
     yearEnd: 1969,
     summary: 'Krzysztof Komeda (1931–1969) – pianista jazzowy i kompozytor, jeden z najwybitniejszych muzyków polskich XX wieku. Twórca muzyki do filmów Romana Polańskiego, w tym słynnego "Dziecka Rosemary" (1968). Tragicznie zginął w wypadku samochodowym w Hollywood. Jego styl zrewolucjonizował polski jazz.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krzysztofkomeda.jpg?width=800',
-    imageCaption: 'Krzysztof Komeda',
+    imageCaption: 'Krzysztof Komeda, zdjęcie sprzed 1969 roku',
     content: `Krzysztof Komeda (właśc. Krzysztof Trzcinski, 1931–1969) – pianista jazzowy i kompozytor filmowy, jeden z najważniejszych twórców polskiego jazzu i ikona kultury PRL lat 50. i 60.
 
 **Pseudonim i początki**
@@ -10062,7 +10062,7 @@ Liczne późniejsze odkrycia (np. donos Lecha Wałęsy w latach 70. – sprawa o
     yearEnd: 1996,
     shortDesc: 'Reżyser filmowy i dokumentalny, twórca Dekalogu i trylogii Trzy kolory – jeden z najważniejszych filmowców XX wieku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krzysztof_Kie%C5%9Blowski_Portrait_1994.jpg?width=800',
-    imageCaption: 'Krzysztof Kieślowski',
+    imageCaption: 'Krzysztof Kieślowski na festiwalu w Wenecji, 1994',
     content: `## Krzysztof Kieślowski (1941–1996)
 
 Krzysztof Kieślowski był jednym z najważniejszych reżyserów filmowych XX wieku. Zaczynał od dokumentów o codziennym życiu w Polsce Ludowej, a skończył na medytacjach o losie i moralności, które pokochał cały świat.
@@ -11108,7 +11108,7 @@ Po 1989 roku scena kabaretowa rozkwitła. Kabaret Olgi Lipińskiej, potem „Uch
     yearEnd: 2009,
     shortDesc: 'Filozof, autor „Głównych nurtów marksizmu" – od rewizjonizmu komunistycznego do krytyki totalitaryzmu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2007.10.23._-Leszek_Kolakowski_Foto_Mariusz_Kubik.jpg?width=800',
-    imageCaption: 'Leszek Kołakowski',
+    imageCaption: 'Leszek Kołakowski (1927–2009)',
     content: `## Leszek Kołakowski (1927–2009)
 
 Leszek Kołakowski był jednym z najwybitniejszych polskich filozofów XX wieku. Jego intelektualna droga – od marksistowskiego rewizjonizmu przez rozczarowanie do fundamentalnej krytyki komunizmu i totalitaryzmu – jest symbolem transformacji całego pokolenia środkowoeuropejskich intelektualistów.
@@ -11178,7 +11178,7 @@ Kołakowski odwiedzał Polskę po 1989 roku. Był uhonorowany wieloma nagrodami,
     yearEnd: 1989,
     shortDesc: 'Światowej sławy polska szkoła plakatu – graficy PRL stworzyli unikatowy styl artystyczny uznany za jeden z najważniejszych w historii plakatu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/PIC_40-W-180-5.jpg?width=800',
-    imageCaption: 'Polska szkoła plakatu',
+    imageCaption: 'Kobieta naklejająca plakaty w Warszawie, 1971',
     content: `## Polska szkoła plakatu
 
 Polska szkoła plakatu to jedno z najbardziej paradoksalnych zjawisk kulturalnych PRL – w kraju komunistycznym, gdzie propaganda miała być prosta i czytelna, powstała jedna z najśmielszych i najbardziej awangardowych szkół grafiki użytkowej na świecie.
@@ -11315,7 +11315,7 @@ Postać Kuklińskiego dzieli Polaków do dziś. Toczy się debata, czy jego dzia
     yearEnd: 1989,
     summary: 'Jacek Kaczmarski, autor i wykonawca pieśni „Mury”, stał się muzycznym głosem opozycji. Jego poezja śpiewana – pełna metafor historycznych i sprzeciwu wobec systemu – krążyła w drugim obiegu i na kasetach, inspirując pokolenie „Solidarności”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jacek_Kaczmarski.jpg?width=800',
-    imageCaption: 'Jacek Kaczmarski',
+    imageCaption: 'Jacek Kaczmarski na koncercie w Gdańsku, 1992',
     content: `## Poeta z gitarą
 
 Jacek Kaczmarski (1957–2004) był poetą, kompozytorem i pieśniarzem. Tworzył w nurcie poezji śpiewanej, łącząc literacką głębię z muzyczną ekspresją. Jego utwory były gęste od odniesień historycznych, malarskich i literackich, a zarazem czytelnie antysystemowe.
@@ -11576,7 +11576,7 @@ Choć ROPCiO nie przetrwał jako jednolita organizacja, odegrał ważną rolę w
     yearStart: 1981,
     summary: 'W marcu 1981 r. milicja brutalnie pobiła działaczy „Solidarności”, m.in. Jana Rulewskiego, podczas sesji rady w Bydgoszczy. Wydarzenie wywołało najpoważniejszy kryzys między władzą a związkiem i groźbę strajku generalnego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/WieczorWroclawia20marca1981.jpg?width=800',
-    imageCaption: 'Prowokacja bydgoska 1981',
+    imageCaption: '„Wieczór Wrocławia” z 20 marca 1981 roku o wydarzeniach bydgoskich',
     content: `## Tło
 
 Wiosną 1981 r. napięcie między „Solidarnością” a władzą rosło. Związek domagał się rejestracji „Solidarności” rolniczej i realizacji porozumień. W tej atmosferze doszło do wydarzeń w Bydgoszczy, które omal nie doprowadziły do otwartego starcia.
@@ -11643,7 +11643,7 @@ Kryzys bydgoski pokazał determinację władzy i jej gotowość do użycia siły
     yearStart: 1983,
     summary: 'Grzegorz Przemyk, 19-letni maturzysta i syn opozycyjnej poetki, został śmiertelnie pobity przez milicjantów w maju 1983 r. Jego pogrzeb stał się wielką manifestacją, a sfingowane śledztwo – symbolem bezkarności aparatu przemocy PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Grzegorz_Przemyk_IPN.jpg?width=800',
-    imageCaption: 'Grzegorz Przemyk',
+    imageCaption: 'Grzegorz Przemyk, maturzysta zakatowany przez milicjantów w maju 1983 roku',
     content: `## Kim był
 
 Grzegorz Przemyk (1964–1983) był maturzystą, synem opozycyjnej poetki Barbary Sadowskiej, związanej ze środowiskami niezależnymi. Po zdaniu matury, 12 maja 1983 r., został zatrzymany przez milicję na Starym Mieście w Warszawie.
@@ -11892,7 +11892,7 @@ Seriale PRL były narzędziem kształtowania postaw, ale jednocześnie autentycz
     yearEnd: 1989,
     summary: 'Wyścig Pokoju był najważniejszą imprezą kolarską bloku wschodniego, łączącą Warszawę, Pragę i Berlin. Dla PRL był narzędziem propagandy „pokojowej”, a zarazem źródłem autentycznych emocji i bohaterów jak Ryszard Szurkowski.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-1987-0104-004%2C_Friedensfahrt%2C_Logo.jpg?width=800',
-    imageCaption: 'Wyścig Pokoju',
+    imageCaption: 'Etap Wyścigu Pokoju, 1987',
     content: `## Geneza
 
 Wyścig Pokoju (Course de la Paix) zorganizowano po raz pierwszy w 1948 r. z inicjatywy dzienników partyjnych Polski i Czechosłowacji (później dołączyła NRD). Łączył stolice – Warszawę, Pragę i Berlin – pod hasłem walki o pokój, w opozycji do „zachodnich” wyścigów.
@@ -11959,7 +11959,7 @@ Wraz z przemianami 1989 r. Wyścig Pokoju stracił polityczny kontekst i dawną 
     yearEnd: 1989,
     summary: 'Profesor Zbigniew Religa przełamał barierę polskiej medycyny, przeprowadzając w 1985 r. w Zabrzu udany przeszczep serca. Dokonał tego mimo skromnych warunków PRL, stając się symbolem determinacji i postępu polskiej nauki.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zbigniew_Religa_Kancelaria_Senatu_Senat_Rzeczypospolitej_Polskiej_V_kadencji.jpg?width=800',
-    imageCaption: 'Zbigniew Religa',
+    imageCaption: 'Zbigniew Religa, kardiochirurg i pionier polskiej transplantologii',
     content: `## Droga do kardiochirurgii
 
 Zbigniew Religa (1938–2009) był chirurgiem, który postawił sobie za cel rozwój kardiochirurgii w Polsce. Po stażach zagranicznych wrócił do kraju z ambicją wykonywania operacji, które w PRL uchodziły za niemożliwe ze względu na warunki i sprzęt.
@@ -12026,7 +12026,7 @@ Postać Religi stała się symbolem polskiej nauki przełamującej ograniczenia 
     yearEnd: 1949,
     summary: '„Bitwa o handel”, ogłoszona przez Hilarego Minca w 1947 r., była kampanią likwidacji prywatnego handlu i rzemiosła. Poprzez domiary, kontrole i represje fiskalne państwo zniszczyło prywatną przedsiębiorczość, wprowadzając gospodarkę uspołecznioną.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/PDT_Wola_z_lotu_ptaka_ok._1971.jpg?width=800',
-    imageCaption: 'Bitwa o handel',
+    imageCaption: 'Powszechny Dom Towarowy na warszawskiej Woli z lotu ptaka, około 1971',
     content: `## Zapowiedź ofensywy
 
 W 1947 r. Hilary Minc, główny architekt gospodarki stalinowskiej w Polsce, ogłosił „bitwę o handel”. Był to program ofensywy przeciw prywatnemu handlowi i rzemiosłu, które po wojnie odbudowały się i zaopatrywały ludność lepiej niż sektor państwowy.
@@ -12198,7 +12198,7 @@ Najlepiej wpisywać konkretne hasła: nazwę wydarzenia („Grudzień 1970”), 
     yearStart: 1955,
     summary: 'Filmoteka Narodowa, dziś działająca jako FINA, od 1955 r. gromadzi, konserwuje i udostępnia polskie dziedzictwo filmowe. To dzięki niej zachowały się i są digitalizowane kroniki, dokumenty oraz fabuły z czasów PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/LOGO_FINA.png?width=800',
-    imageCaption: 'Filmoteka Narodowa – Instytut Audiowizualny',
+    imageCaption: 'Znak Filmoteki Narodowej – Instytutu Audiowizualnego',
     content: `## Powstanie Filmoteki
 
 Centralne Archiwum Filmowe, przekształcone później w Filmotekę Narodową, powstało w 1955 r. Jego zadaniem było gromadzenie i ochrona kopii filmów produkowanych w Polsce oraz materiałów archiwalnych, w tym Polskiej Kroniki Filmowej.
@@ -12265,7 +12265,7 @@ FINA jest kluczową instytucją pamięci filmowej Polski. Bez jej pracy ogromna 
     yearEnd: 1989,
     summary: 'Festiwal w Opolu, organizowany od 1963 r., był najważniejszą sceną polskiej piosenki i telewizyjnym świętem rozrywki. Pod kontrolą cenzury wypromował dziesiątki gwiazd, a jego nagrania to fonoteka epoki PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/62._Krajowy_Festiwal_Piosenki_Polskiej_w_Opolu%2C_2025%2C_KsP_199.jpg?width=800',
-    imageCaption: 'Krajowy Festiwal Piosenki Polskiej w Opolu',
+    imageCaption: 'Krajowy Festiwal Piosenki Polskiej w Opolu (fot. współczesna)',
     content: `## Narodziny festiwalu
 
 Krajowy Festiwal Piosenki Polskiej w Opolu odbył się po raz pierwszy w 1963 r. w amfiteatrze u stóp opolskiego zamku. Szybko stał się najważniejszym wydarzeniem muzyki rozrywkowej w kraju i dorocznym świętem transmitowanym przez radio i telewizję.
@@ -12332,7 +12332,7 @@ Nagrania opolskie to dziś bezcenna fonoteka i wideoteka polskiej piosenki. Fest
     yearEnd: 1966,
     summary: 'Kabaret Starszych Panów Jeremiego Przybory i Jerzego Wasowskiego był telewizyjnym fenomenem przełomu lat 50. i 60. – wyspą wyrafinowanego humoru, poezji i muzyki, kontrastującą z szarością i propagandą PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Starsi_Panowie_dwaj.jpg?width=800',
-    imageCaption: 'Kabaret Starszych Panów',
+    imageCaption: 'Pomnik Starszych Panów dłuta Mariana Molendy w Opolu (fot. współczesna)',
     content: `## Telewizyjny fenomen
 
 Kabaret Starszych Panów emitowano w Telewizji Polskiej w latach 1958–1966. Stworzony przez Jeremiego Przyborę (teksty) i Jerzego Wasowskiego (muzyka), był programem na wskroś oryginalnym – eleganckim, lirycznym i absurdalnym zarazem.
@@ -12399,7 +12399,7 @@ Kabaret Starszych Panów pozostaje wzorcem inteligentnej rozrywki. Jego piosenki
     yearEnd: 1989,
     summary: 'Teatr Telewizji od 1953 r. wprowadzał wielką dramaturgię do milionów domów. Mimo cenzury prezentował klasykę i ambitne inscenizacje, stając się jednym z najważniejszych zjawisk kultury PRL i szkołą gustu widzów.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Hanuszkiewicz.jpg?width=800',
-    imageCaption: 'Teatr Telewizji',
+    imageCaption: 'Adam Hanuszkiewicz, reżyser wielu spektakli Teatru Telewizji, 1973',
     content: `## Teatr dla milionów
 
 Teatr Telewizji zadebiutował w 1953 r. i szybko stał się unikalnym fenomenem – sceną docierającą do milionów widzów, którzy nigdy nie bywali w teatrze. Cotygodniowe spektakle wprowadzały wielki repertuar do zwykłych mieszkań.
@@ -12518,7 +12518,7 @@ Konfrontacja zakończyła się porażką państwa: uroczystości kościelne grom
     yearEnd: 1989,
     summary: 'Najważniejszy festiwal muzyki rockowej i punkowej w PRL, który od 1980 roku stał się symbolem młodzieżowego buntu i namiastki wolności.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/KSU-1944.jpg?width=800',
-    imageCaption: 'Festiwal w Jarocinie',
+    imageCaption: 'Zespół KSU na scenie w Jarocinie',
     trivia: ['Służba Bezpieczeństwa fotografowała i spisywała uczestników festiwalu jako „element antysocjalistyczny”.', 'Dla wielu młodych Jarocin był jedynym miejscem, gdzie mogli przez kilka dni poczuć namiastkę wolności.'],
     content: `## Geneza
 Festiwal w Jarocinie wyrósł z odbywających się od 1970 roku Wielkopolskich Rytmów Młodych. Od 1980 roku, pod nazwą Ogólnopolski Przegląd Muzyki Młodej Generacji, impreza przekształciła się w największy w bloku wschodnim festiwal muzyki rockowej, punkowej i nowofalowej.
@@ -12632,7 +12632,7 @@ Polski rock lat 80. był nie tylko zjawiskiem muzycznym, ale i społecznym – f
     yearEnd: 1989,
     summary: 'Jeden z najważniejszych zespołów nowej fali w Polsce, kierowany przez Grzegorza Ciechowskiego, twórcę przebojów „Kombinat” i „Biała flaga”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bialo-czarna.png?width=800',
-    imageCaption: 'Republika',
+    imageCaption: 'Biało-czarna estetyka, znak rozpoznawczy Republiki',
     content: `## Powstanie
 Republika powstała w 1981 roku w Toruniu z inicjatywy Grzegorza Ciechowskiego. Zespół szybko wypracował charakterystyczne, czarno-białe brzmienie i wizerunek, łączące nową falę z elektroniką i intelektualnymi tekstami.
 
@@ -12702,7 +12702,7 @@ Republika pozostaje symbolem ambitnego, artystycznego rocka lat 80., a Grzegorz 
     yearEnd: 1989,
     summary: 'Kultowy zespół rockowy z charyzmatyczną wokalistką Korą, autor przebojów „Boskie Buenos” i „Kocham cię kochanie moje”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Maanam_-_Kora.jpg?width=800',
-    imageCaption: 'Maanam',
+    imageCaption: 'Kora Jackowska, wokalistka Maanamu (fot. współczesna)',
     trivia: ['Po odmowie udziału w propagandowym koncercie w 1984 roku Maanam objęto nieformalnym bojkotem w mediach.'],
     content: `## Powstanie
 Maanam powstał w Krakowie na przełomie lat 70. i 80. Kluczowymi postaciami byli Kora (Olga Jackowska) jako wokalistka oraz Marek Jackowski jako gitarzysta i kompozytor.
@@ -12772,7 +12772,7 @@ Maanam to jeden z najważniejszych zespołów polskiego rocka, a Kora stała si�
     yearEnd: 1989,
     summary: 'Zespół założony przez Kazika Staszewskiego, słynący z ostrych, bezkompromisowych tekstów krytykujących rzeczywistość PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kult%2C_3-Maj%C3%B3wka_2022_11.jpg?width=800',
-    imageCaption: 'Kult',
+    imageCaption: 'Kult na koncercie we Wrocławiu (fot. współczesna)',
     content: `## Powstanie
 Kult powstał w 1982 roku w Warszawie z inicjatywy Kazika Staszewskiego. Zespół łączył punk, rock i nową falę z elementami muzyki dętej, tworząc oryginalne brzmienie.
 
@@ -12894,7 +12894,7 @@ Scena punkowa, najsilniej obecna w Jarocinie, pozostaje symbolem najbardziej rad
     yearEnd: 1989,
     summary: 'Kultowe radiowe notowanie muzyczne prowadzone przez Marka Niedźwieckiego, które od 1982 roku kształtowało muzyczne gusta Polaków.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Marek_Niedzwiecki_2010_big_RK.jpg?width=800',
-    imageCaption: 'Lista Przebojów Programu Trzeciego',
+    imageCaption: 'Marek Niedźwiecki, wieloletni prowadzący Listę Przebojów Trójki',
     content: `## Geneza
 Lista Przebojów Programu Trzeciego Polskiego Radia („Trójki”) wystartowała w 1982 roku. Słuchacze głosowali na ulubione utwory, tworząc cotygodniowy ranking najpopularniejszych piosenek.
 
@@ -12956,7 +12956,7 @@ Lista Przebojów Trójki przetrwała przemiany ustrojowe i przez dekady pozostaw
     yearEnd: 1989,
     summary: 'Jeden z najpopularniejszych zespołów rockowych lat 80., kierowany przez Zbigniewa Hołdysa, autor przebojów „Nie płacz Ewka” i „Autobiografia”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Perfect19112010.JPG?width=800',
-    imageCaption: 'Perfect',
+    imageCaption: 'Perfect na spotkaniu z publicznością, 2010',
     trivia: ['Publiczność śpiewała „Chcemy być sobą” jako „chcemy bić ZOMO”, co niepokoiło władze.'],
     content: `## Powstanie
 Perfect w klasycznym składzie ukształtował się w 1980 roku w Warszawie. Liderem, gitarzystą i głównym autorem był Zbigniew Hołdys, wokalistą Grzegorz Markowski. Zespół pojawił się dokładnie w momencie, gdy karnawał Solidarności otworzył scenę dla muzyki mówiącej własnym językiem.
@@ -13156,7 +13156,7 @@ Big-beat położył fundamenty pod rozwój polskiego rocka, a wiele zespołów t
     yearEnd: 1989,
     summary: 'Jeden z najpopularniejszych zespołów big-beatowych, nazywany „polskimi Beatlesami”, autor przebojów „Anna Maria” i „Nie spoczniemy”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Czerwone_Gitary%2C_Polska_Filharmonia_Ba%C5%82tycka%2C_20.03.2023_034.jpg?width=800',
-    imageCaption: 'Czerwone Gitary',
+    imageCaption: 'Czerwone Gitary w Filharmonii Bałtyckiej (fot. współczesna)',
     content: `## Powstanie
 Czerwone Gitary powstały w 1965 roku w Gdańsku, założone przez muzyków wywodzących się z Niebiesko-Czarnych: Jerzego Kosselę, Krzysztofa Klenczona, Seweryna Krajewskiego, Bernarda Dornowskiego i Henryka Zomerskiego. Reklamowali się hasłem, że grają najgłośniej w Polsce.
 
@@ -13226,7 +13226,7 @@ Czerwone Gitary są symbolem melodyjnego big-beatu lat 60. i 70. i jednym z najl
     yearEnd: 1989,
     summary: 'Międzynarodowy Festiwal Piosenki w Sopocie, organizowany od 1961 roku, był najważniejszą estradową imprezą PRL z udziałem gwiazd z Zachodu i bloku wschodniego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Top_of_the_Top_Sopot_Festival_2024.png?width=800',
-    imageCaption: 'Festiwal w Sopocie',
+    imageCaption: 'Znak współczesnego festiwalu w sopockiej Operze Leśnej',
     content: `## Geneza
 Międzynarodowy Festiwal Piosenki w Sopocie zainaugurowano w 1961 roku z inicjatywy Władysława Szpilmana. Początkowo odbywał się w hali Stoczni Gdańskiej, później w sopockiej Operze Leśnej.
 
@@ -13288,7 +13288,7 @@ Festiwal w Sopocie, obok Opola, współtworzył pejzaż polskiej estrady i był 
     yearEnd: 1989,
     summary: 'Jedna z najpopularniejszych polskich piosenkarek, autorka przebojów „Małgośka”, „Sing-Sing” i „Niech żyje bal”, gwiazda estrady od przełomu lat 60. i 70.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Maryla_Rodowicz%2C_Polsat_Superhit_Festival_2023_10_%28cropped%29.jpg?width=800',
-    imageCaption: 'Maryla Rodowicz',
+    imageCaption: 'Maryla Rodowicz (fot. współczesna)',
     trivia: ['Słynęła z barwnych, niekonwencjonalnych strojów scenicznych.'],
     content: `## Początki
 Maryla Rodowicz (ur. 1945) zadebiutowała pod koniec lat 60., a przełomem był festiwal w Opolu w 1970 roku i „Jadą wozy kolorowe”. Wniosła na estradę temperament, ruch sceniczny i brzmienie czerpiące z folku – w czasach, gdy wykonawczynie stały przy mikrofonie w sukni wieczorowej.
@@ -13366,7 +13366,7 @@ Koncertowała w całym bloku wschodnim, gdzie była gwiazdą porównywalnej rang
     yearEnd: 1989,
     summary: 'Czołowy polski zespół blues-rockowy z charyzmatycznym wokalistą Ryszardem Riedlem, autor przebojów „Whisky” i „List do M.”',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/D%C5%BCem%2C_Opera_Le%C5%9Bna%2C_30.08.2024_22.jpg?width=800',
-    imageCaption: 'Dżem',
+    imageCaption: 'Dżem w Operze Leśnej (fot. współczesna)',
     content: `## Powstanie
 Dżem powstał w 1973 roku w Tychach, założony przez braci Adama i Beno Otrębów. Klasyczny skład ukształtował się na przełomie lat 70. i 80., gdy do zespołu dołączył wokalista Ryszard Riedel, a gitarę objął Jerzy Styczyński.
 
@@ -13436,7 +13436,7 @@ Zespół działa do dziś z kolejnymi wokalistami, a jego koncerty wciąż wype�
     yearEnd: 1989,
     summary: 'Pionierski polski zespół hardrockowy i heavymetalowy z lat 80., z wokalistą Markiem Piekarczykiem, autor przeboju „Mass media”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/TSA_%282008%29.jpg?width=800',
-    imageCaption: 'TSA',
+    imageCaption: 'TSA na koncercie w Bydgoszczy, 2008',
     content: `## Powstanie
 TSA powstała w 1979 roku w Opolu. Skrót rozwijano żartobliwie na kilka sposobów; zespół wprowadził na polską scenę ciężkie brzmienie hardrockowe i heavymetalowe, którego wcześniej praktycznie nie było. W 1980 roku dołączył do składu wokalista Marek Piekarczyk.
 
@@ -13506,7 +13506,7 @@ TSA otworzyła drogę kolejnym zespołom metalowym w Polsce i pozostaje klasyką
     yearEnd: 1989,
     summary: 'Jeden z najpopularniejszych zespołów pop-rockowych lat 80., duet Jan Borysewicz–Janusz Panasewicz, autor przebojów „Kryzysowa narzeczona” i „Mniej niż zero”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Lady_Pank_2007.jpg?width=800',
-    imageCaption: 'Lady Pank',
+    imageCaption: 'Lady Pank odbiera gwiazdę w alei gwiazd w Opolu, 2007',
     content: `## Powstanie
 Lady Pank powstał na początku lat 80. w Warszawie z tandemu autorskiego: muzykę pisał gitarzysta Jan Borysewicz, teksty Andrzej Mogielnicki. Wokalistą został Janusz Panasewicz, którego wysoki, nosowy głos stał się znakiem rozpoznawczym zespołu.
 
@@ -13576,7 +13576,7 @@ Lady Pank to najpełniejszy przykład komercyjnego sukcesu polskiego rocka lat 8
     yearEnd: 1989,
     summary: 'Jeden z najdłużej działających polskich zespołów rockowych, założony przez Romualda Lipko, znany z utworów „Jolka, Jolka” i „Cień wielkiej góry”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Budka_Suflera_02.jpg?width=800',
-    imageCaption: 'Budka Suflera',
+    imageCaption: 'Budka Suflera na koncercie w Gdańsku, 2005',
     content: `## Zespół
 Budkę Suflera założyli w Lublinie w 1974 roku Romuald Lipko, Krzysztof Cugowski i Andrzej Ziółkowski. Przez skład przewinęło się z czasem kilkudziesięciu muzyków, ale to Lipko jako kompozytor decydował o brzmieniu przez cały czas istnienia grupy.
 
@@ -13649,7 +13649,7 @@ Grupa działała do 2014 roku i zagrała pożegnalną trasę na stadionach. Nale
     yearEnd: 1982,
     summary: 'Pionierski polski zespół blues-rockowy założony przez Tadeusza Nalepę, „ojca polskiego bluesa”, autor albumów „Blues” i „Karate”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tadeusz_Nalepa_i_Mira_Kubasi%C5%84ska_z_synem_%28ok._1968%29.png?width=800',
-    imageCaption: 'Breakout',
+    imageCaption: 'Tadeusz Nalepa i Mira Kubasińska z synem Piotrem, około 1968',
     content: `## Powstanie
 Breakout powstał w 1968 roku z przekształcenia rzeszowskiego zespołu Blackout. Liderem, kompozytorem i gitarzystą był Tadeusz Nalepa, nazywany później ojcem polskiego bluesa.
 
@@ -13849,7 +13849,7 @@ Wyczyny okupione były tragediami – w górach zginęło wielu wybitnych wspina
     yearEnd: 1989,
     summary: 'Drugi człowiek na świecie, który zdobył wszystkie 14 ośmiotysięczników, dokonując tego w rekordowym tempie i często nowymi drogami lub zimą.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jerzy_Kukuczka_Mount_Everest_1980.jpg?width=800',
-    imageCaption: 'Jerzy Kukuczka',
+    imageCaption: 'Jerzy Kukuczka i Andrzej Czok podczas wiosennej wyprawy na Everest, 1980',
     content: `## Sylwetka
 Jerzy Kukuczka (1948–1989), pochodzący z Katowic, był jednym z najwybitniejszych himalaistów w historii. Jako drugi człowiek na świecie – po Reinholdzie Messnerze – zdobył wszystkie 14 ośmiotysięczników.
 
@@ -13911,7 +13911,7 @@ Kukuczka pozostaje legendą i symbolem polskiego wyczynu górskiego, a jego imi�
     yearEnd: 1989,
     summary: 'Najwybitniejsza polska himalaistka, pierwsza Polka i trzecia kobieta na świecie na szczycie Mount Everest oraz pierwsza kobieta na K2.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wanda_Rutkiewicz_IPN.jpg?width=800',
-    imageCaption: 'Wanda Rutkiewicz',
+    imageCaption: 'Wanda Rutkiewicz (fot. z zasobu IPN)',
     content: `## Sylwetka
 Wanda Rutkiewicz (1943–1992) była najwybitniejszą polską himalaistką i jedną z najlepszych na świecie. Z wykształcenia inżynier elektronik, do gór trafiła przez wspinaczkę skałkową, a w Himalajach wyróżniała się nie tylko formą, lecz także talentem organizacyjnym – sama montowała wyprawy, załatwiała sprzęt i dewizy.
 
@@ -14035,7 +14035,7 @@ Sukcesy z lat 70. były źródłem ogromnej dumy narodowej i pozostają punktem 
     yearEnd: 1980,
     summary: 'Jedna z najwybitniejszych lekkoatletek w historii, zdobywczyni siedmiu medali olimpijskich i rekordzistka świata na wielu dystansach.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Poolse_wereldrecordhoudster_Irena_Szewinska_met_landgenoot_Buciarski%2C_Bestanddeelnr_928-0515_%28Szewinska_cropped%29.jpg?width=800',
-    imageCaption: 'Irena Szewińska',
+    imageCaption: 'Irena Szewińska na zawodach lekkoatletycznych w Papendal, 1975',
     content: `## Sylwetka
 Irena Szewińska (1946–2018), z domu Kirszenstein, urodziła się w Leningradzie i była najbardziej utytułowaną polską olimpijką w historii. Startowała na najwyższym poziomie przez szesnaście lat – w epoce, gdy kariera sprinterki trwała zwykle jeden cykl olimpijski.
 
@@ -14097,7 +14097,7 @@ Po zakończeniu kariery działała w Międzynarodowym Komitecie Olimpijskim i w�
     yearEnd: 1968,
     summary: 'Kultowy serial szpiegowski o polskim agencie Hansie Klossie działającym w niemieckim wywiadzie, jeden z najpopularniejszych w historii polskiej telewizji.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Katowice%2C_Muzeum_Hansa_Klossa_-_fotopolska.eu_%2815969%29.jpg?width=800',
-    imageCaption: 'Stawka większa niż życie',
+    imageCaption: 'Muzeum Hansa Klossa w Katowicach (fot. współczesna)',
     content: `## Fabuła
 Serial opowiada o Stanisławie Kolickim, polskim agencie działającym pod przybraną tożsamością niemieckiego oficera Abwehry Hansa Klossa w czasie II wojny światowej. Każdy odcinek to osobna intryga szpiegowska.
 
@@ -14159,7 +14159,7 @@ Serial wpisywał się w oficjalny nurt utrwalania pamięci o wojnie i bohaterstw
     yearEnd: 1970,
     summary: 'Kultowy serial wojenny o załodze czołgu „Rudy” i psie Szariku, niezwykle popularny, choć przedstawiający wojnę zgodnie z oficjalną wykładnią.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Janusz_Gajos_i_Szarik_na_planie_filmu_Czterej_pancerni_i_pies_1969.jpg?width=800',
-    imageCaption: 'Czterej pancerni i pies',
+    imageCaption: 'Janusz Gajos i Szarik na planie „Czterech pancernych”, 1969',
     trivia: ['Psa Szarika grało w rzeczywistości kilka tresowanych owczarków niemieckich.', 'Serial wzbudzał takie emocje, że dzieci masowo bawiły się w „pancernych”, a powstawały kluby miłośników załogi Rudego.'],
     content: `## Fabuła
 Serial oparty na powieści Janusza Przymanowskiego opowiada o losach załogi czołgu T-34 „Rudy 102” i owczarka Szarika podczas szlaku bojowego 1. Armii Wojska Polskiego u boku Armii Czerwonej.
@@ -14213,7 +14213,7 @@ Serial przedstawiał wojnę zgodnie z oficjalną, prosowiecką narracją, ekspon
     yearEnd: 1989,
     summary: 'Główny serwis informacyjny telewizji PRL, będący kluczowym narzędziem propagandy partyjnej, szczególnie w okresie stanu wojennego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Dziennik_Telewizyjny_1981-89_logo.webp?width=800',
-    imageCaption: 'Dziennik Telewizyjny',
+    imageCaption: 'Znak „Dziennika Telewizyjnego” używany w latach 1981–1989',
     content: `## Rola
 Dziennik Telewizyjny (DTV) był głównym programem informacyjnym Telewizji Polskiej i zarazem najważniejszym telewizyjnym narzędziem propagandy PRL. Emitowano go wieczorem, gromadząc milionową widownię.
 
@@ -14267,7 +14267,7 @@ Dziennik Telewizyjny stał się symbolem manipulacji medialnej PRL. Jego nazwa d
     yearEnd: 1978,
     summary: 'Wybitny polski inżynier, konstruktor nowoczesnego minikomputera K-202, którego produkcję zablokowano, co stało się symbolem marnotrawstwa talentów w PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jacek_Karpi%C5%84ski.jpg?width=800',
-    imageCaption: 'Jacek Karpiński',
+    imageCaption: 'Jacek Karpiński, konstruktor minikomputera K-202',
     content: `## Sylwetka
 Jacek Karpiński (1927–2010) był utalentowanym inżynierem i konstruktorem, weteranem powstania warszawskiego. W latach 60. i 70. tworzył nowatorskie konstrukcje elektroniczne.
 
@@ -14381,7 +14381,7 @@ Kwestia alkoholu ilustruje społeczne skutki gospodarki niedoboru i bezradność
     yearEnd: 1989,
     summary: 'Jeden z najwybitniejszych kompozytorów XX wieku, twórca „Trenu – Ofiarom Hiroszimy” i „Pasji wg św. Łukasza”, który zdobył światową sławę mimo realiów PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krzysztof_Penderecki_20080706.jpg?width=800',
-    imageCaption: 'Krzysztof Penderecki',
+    imageCaption: 'Krzysztof Penderecki w Gdańsku, 2008',
     content: `## Sylwetka
 Krzysztof Penderecki (1933–2020) był kompozytorem i dyrygentem, jednym z najważniejszych twórców muzyki współczesnej. Jego dzieła wykonywano na całym świecie, a on sam stał się ambasadorem polskiej kultury.
 
@@ -14459,7 +14459,7 @@ Pozostaje jednym z symboli polskiej kultury wysokiej, dowodem, że mimo żelazne
     yearEnd: 1989,
     summary: 'Wybitny kompozytor i dyrygent, autor „Koncertu na orkiestrę” i III Symfonii, łączący najwyższy kunszt z niezależnością wobec presji ideologicznej.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Lutoslawski3.jpg?width=800',
-    imageCaption: 'Witold Lutosławski',
+    imageCaption: 'Witold Lutosławski przy fortepianie w swoim domu',
     content: `## Sylwetka
 Witold Lutosławski (1913–1994) był jednym z najważniejszych kompozytorów XX wieku. Jego twórczość ewoluowała od neoklasycyzmu po nowatorskie techniki aleatoryczne.
 
@@ -14537,7 +14537,7 @@ W latach 80. wspierał opozycję i bojkotował oficjalne media po wprowadzeniu s
     yearEnd: 1989,
     summary: 'Historyk, działacz opozycji i więzień zarówno Auschwitz, jak i stalinowskich więzień; współtwórca pamięci o pomocy Żydom i autorytet moralny.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Min._W%C5%82adys%C5%82aw_Teofil_Bartoszewski_%28cropped_2%29.jpg?width=800',
-    imageCaption: 'Władysław Bartoszewski',
+    imageCaption: 'Władysław Bartoszewski (fot. MSZ)',
     content: `## Sylwetka
 Władysław Bartoszewski (1922–2015) był historykiem, publicystą i działaczem społecznym, a jego biografia mieści w sobie wszystkie punkty zwrotne polskiego XX wieku – zwykle po stronie represjonowanych.
 
@@ -14599,7 +14599,7 @@ Po 1989 roku był ambasadorem w Austrii i dwukrotnie ministrem spraw zagraniczny
     yearEnd: 1989,
     summary: 'Twórca i redaktor emigracyjnej „Kultury”, najważniejszego ośrodka niezależnej polskiej myśli politycznej i literackiej w drugiej połowie XX wieku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Z_Jerzym_Giedroyciem_%2C_Maisons_-_Laffitte_1999_%28cropped%29.jpg?width=800',
-    imageCaption: 'Jerzy Giedroyc',
+    imageCaption: 'Jerzy Giedroyc w Maisons-Laffitte, 1999',
     content: `## Sylwetka
 Jerzy Giedroyc (1906–2000) był redaktorem i wydawcą, twórcą Instytutu Literackiego, założonego w 1946 roku w Rzymie i przeniesionego rok później pod Paryż, do Maisons-Laffitte. Stamtąd przez pół wieku redagował miesięcznik „Kultura”, nie wracając do Polski ani razu.
 
@@ -14661,7 +14661,7 @@ Był redaktorem w najściślejszym sensie: nie pisał, lecz decydował, co się 
     yearEnd: 1989,
     summary: 'Pisarz i eseista, więzień sowieckiego łagru, autor „Innego świata” – jednego z najważniejszych świadectw o systemie obozów ZSRR.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gustaw_Herling-Grudzinski_3.jpg?width=800',
-    imageCaption: 'Gustaw Herling-Grudziński',
+    imageCaption: 'Gustaw Herling-Grudziński na zdjęciu z więzienia w Grodnie, 1940',
     content: `## Sylwetka
 Gustaw Herling-Grudziński (1919–2000) był pisarzem, eseistą i krytykiem, jednym z filarów paryskiej „Kultury”. Drugą połowę życia spędził w Neapolu, żonaty z Lidią Croce, córką filozofa Benedetta Crocego – stamtąd pisał przez czterdzieści lat o Polsce, do której nie chciał wracać na warunkach ustalonych przez cenzurę.
 
@@ -14723,7 +14723,7 @@ Do polskich księgarń wrócił w pełni dopiero po 1989 roku. Jego świadectwo 
     yearEnd: 1968,
     summary: 'Były żołnierz AK, który w 1968 roku dokonał samospalenia w proteście przeciw udziałowi LWP w inwazji na Czechosłowację – pierwszy taki akt w bloku wschodnim.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/05850_Sanok_03.05.2011.jpg?width=800',
-    imageCaption: 'Ryszard Siwiec',
+    imageCaption: 'Upamiętnienie Ryszarda Siwca w jego rodzinnym Sanoku (fot. współczesna)',
     content: `## Sylwetka
 Ryszard Siwiec (1909–1968) był księgowym, byłym żołnierzem Armii Krajowej, ojcem pięciorga dzieci. Głęboko przeżywał zniewolenie Polski i krajów bloku wschodniego.
 
@@ -14777,7 +14777,7 @@ Protest Siwca – wcześniejszy niż głośne samospalenie Jana Palacha w Pradze
     yearEnd: 1989,
     summary: 'Robotnik i działacz Solidarności, lider podziemia na Dolnym Śląsku, wielokrotnie więziony za działalność opozycyjną w stanie wojennym.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/W%C5%82adys%C5%82aw_Frasyniuk_%282026%29.jpg?width=800',
-    imageCaption: 'Władysław Frasyniuk',
+    imageCaption: 'Władysław Frasyniuk (fot. współczesna)',
     content: `## Sylwetka
 Władysław Frasyniuk (ur. 1954) był kierowcą autobusu we wrocławskim MPK, gdy w sierpniu 1980 roku stanął na czele strajku w zajezdni. W ciągu kilku tygodni przeszedł z kabiny kierowcy na czoło jednego z największych regionów Solidarności – co samo w sobie mówi o tym, jak działał ten ruch.
 
@@ -14839,7 +14839,7 @@ Uczestniczył w obradach Okrągłego Stołu i pozostał aktywny w życiu publicz
     yearEnd: 1989,
     summary: 'Ostatni przywódca powstania w getcie warszawskim, wybitny kardiolog i działacz opozycji demokratycznej, niezłomny głos sumienia.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Marek_Edelman_by_Kubik.JPG?width=800',
-    imageCaption: 'Marek Edelman',
+    imageCaption: 'Marek Edelman (1919–2009)',
     content: `## Sylwetka
 Marek Edelman (1919–2009) był jednym z przywódców powstania w getcie warszawskim, a po śmierci Mordechaja Anielewicza – ostatnim komendantem Żydowskiej Organizacji Bojowej. Wyszedł z getta kanałami, walczył potem w powstaniu warszawskim 1944 roku, a po wojnie został kardiologiem w Łodzi.
 
@@ -14901,7 +14901,7 @@ Otrzymał Order Orła Białego, ale odmawiał roli pomnika. Pozostaje symbolem o
     yearEnd: 1989,
     summary: 'Wrocławski ruch happeningowy Waldemara „Majora” Fydrycha, który absurdem i humorem ośmieszał władzę i aparat represji.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pomaranczowa_alternatywa-dzien_wojska.jpg?width=800',
-    imageCaption: 'Pomarańczowa Alternatywa',
+    imageCaption: 'Happening Pomarańczowej Alternatywy w Dniu Wojska Polskiego',
     content: `## Happening zamiast ulotki
 Pomarańczowa Alternatywa powstała we Wrocławiu i działała w latach 80., także w Warszawie, Łodzi i Lublinie. Zamiast demonstracji organizowała happeningi: absurdalne akcje uliczne, w których uczestnicy przebierali się za krasnoludki i wznosili hasła parodiujące język propagandy.
 
@@ -14963,7 +14963,7 @@ Pomarańczowa Alternatywa pokazała, że system daje się atakować śmiechem sk
     yearEnd: 1989,
     summary: 'Niezależny ruch pacyfistyczno-ekologiczny lat 80., sprzeciwiający się przymusowej wojskowej przysiędze i niszczeniu środowiska.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wolno%C5%9B%C4%87_i_Pok%C3%B3j-tablica_%28cropped2%29.JPG?width=800',
-    imageCaption: 'Ruch „Wolność i Pokój”',
+    imageCaption: 'Tablica upamiętniająca Ruch „Wolność i Pokój” we Wrocławiu (fot. współczesna)',
     content: `## Ruch
 Ruch „Wolność i Pokój” działał od 1985 roku. Tworzyli go głównie studenci i młodzież – od środowisk anarchizujących po aktywistów katolickich. W szczytowym okresie liczył kilkuset członków, ale rozgłos miał nieproporcjonalnie większy niż liczebność.
 
@@ -15025,7 +15025,7 @@ Zamiast konspiracji ruch wybierał jawność: happeningi, głodówki, podpisywan
     yearEnd: 1989,
     summary: 'Dotowane przez państwo, tanie bary samoobsługowe serwujące proste dania mączne i mleczne – symbol PRL-owskiej gastronomii dla mas.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bar_mleczny_%C5%81%C3%B3dzki_al._%C5%9Awierczewskiego_82_w_Warszawie_ok._1971.jpg?width=800',
-    imageCaption: 'Bar mleczny',
+    imageCaption: 'Bar mleczny „Łódzki” przy alei Świerczewskiego w Warszawie, około 1971',
     trivia: ['Sztućce bywały przywiązane łańcuszkami do stołów, by zapobiec ich ginięciu.', 'Charakterystyczne tabliczki przypominały: „Prosimy nie zostawiać resztek”.'],
     content: `## Idea
 Bary mleczne to tanie, dotowane przez państwo jadłodajnie, dostępne dla najuboższych. Serwowały proste, bezmięsne dania: pierogi, naleśniki, kluski, zupy mleczne i kompoty.
@@ -15079,7 +15079,7 @@ Bary mleczne stały się ikoną PRL-owskiej codzienności. Część przetrwała 
     yearEnd: 1989,
     summary: 'Związek Harcerstwa Polskiego – masowa organizacja młodzieżowa, poddana ideologizacji, lecz zachowująca tradycyjne wartości w wielu drużynach.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Prawo_harcerskie_Warszawa_sw_Marcin.jpg?width=800',
-    imageCaption: 'Harcerstwo w PRL (ZHP)',
+    imageCaption: 'Tablica z Prawem Harcerskim przy kościele św. Marcina w Warszawie',
     content: `## Powojenne losy
 Po wojnie tradycyjne harcerstwo zostało zlikwidowane i wcielone do komunistycznej Organizacji Harcerskiej, podporządkowanej ZMP. Odrzucono krzyż harcerski i przyrzeczenie.
 
@@ -15193,7 +15193,7 @@ Kabaret był pod stałą obserwacją SB, występy odwoływano, a sale odmawiały
     yearEnd: 1989,
     summary: 'Poznański kabaret Zenona Laskowika i Bohdana Smolenia, jeden z najpopularniejszych w PRL, łączący satyrę polityczną z humorem absurdu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zenon_laskowik.jpg?width=800',
-    imageCaption: 'Kabaret Tey',
+    imageCaption: 'Zenon Laskowik, współtwórca kabaretu Tey (fot. współczesna)',
     content: `## Powstanie
 Kabaret Tey powstał w 1971 roku w Poznaniu, wyrastając ze środowiska studenckiego. Jego twarzą był Zenon Laskowik, a od połowy lat 70. również Bohdan Smoleń, który stworzył postać Hadziuka – wiejskiego cwaniaka mówiącego gwarą.
 
@@ -15255,7 +15255,7 @@ Obok „Pod Egidą” Jana Pietrzaka i kabaretu Olgi Lipińskiej, Tey współtwo
     yearEnd: 1989,
     summary: 'Wielki stadion w Warszawie otwarty w 1955 roku, miejsce defilad, imprez masowych i dramatycznego protestu Ryszarda Siwca.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Warszawa-Stadion_Dziesieciolecia-2006.jpg?width=800',
-    imageCaption: 'Stadion Dziesięciolecia',
+    imageCaption: 'Stadion Dziesięciolecia w 2006 roku, w czasach Jarmarku Europa',
     content: `## Budowa
 Stadion Dziesięciolecia otwarto 22 lipca 1955 roku, w rocznicę manifestu PKWN. Nasyp usypano z gruzu zburzonej Warszawy, zwożonego na prawy brzeg Wisły; obiekt mieścił ponad siedemdziesiąt tysięcy widzów i był największym w kraju.
 
@@ -15369,7 +15369,7 @@ Państwo ścigało obrót nieoficjalny, ale samo z niego korzystało: sklepy dew
     yearEnd: 1989,
     summary: 'Paramilitarna, masowa formacja wspierająca milicję, wykorzystywana do kontroli społecznej, akcji porządkowych i tłumienia protestów.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Odznaka_ORMO.jpg?width=800',
-    imageCaption: 'ORMO',
+    imageCaption: 'Odznaka Ochotniczej Rezerwy Milicji Obywatelskiej',
     content: `## Czym było
 Ochotnicza Rezerwa Milicji Obywatelskiej powstała w lutym 1946 roku jako paramilitarna organizacja wspierająca milicję. Służba była bezpłatna i formalnie dobrowolna, a przyjmowano do niej osoby między osiemnastym a czterdziestym piątym rokiem życia.
 
@@ -15428,7 +15428,7 @@ Organizację zlikwidowano ustawą Sejmu z 23 listopada 1989 roku – jedną z pi
     yearEnd: 1989,
     summary: 'Główny dziennik partyjny PZPR, najważniejsze pismo propagandowe PRL, wyznaczające oficjalną linię i język całej prasy.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/TrybunaLudu.png?width=800',
-    imageCaption: '„Trybuna Ludu”',
+    imageCaption: 'Winieta „Trybuny Ludu”',
     content: `## Powstanie
 „Trybuna Ludu” zaczęła wychodzić w grudniu 1948 roku, w dniach kongresu zjednoczeniowego, z połączenia „Głosu Ludu” (organu PPR) i „Robotnika” (organu PPS). Była centralnym dziennikiem PZPR i najważniejszą gazetą w kraju – nie z powodu poczytności, lecz rangi.
 
@@ -15482,7 +15482,7 @@ Ostatni numer ukazał się w styczniu 1990 roku, kilka tygodni po rozwiązaniu P
     yearEnd: 1967,
     summary: 'Najsłynniejszy aktor polskiej szkoły filmowej, ikona pokolenia dzięki roli w „Popiele i diamencie” Andrzeja Wajdy.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zbigniew_Cybulski.jpg?width=800',
-    imageCaption: 'Zbigniew Cybulski',
+    imageCaption: 'Zbigniew Cybulski, 1960',
     content: `## Sylwetka
 Zbigniew Cybulski (1927–1967) był aktorem filmowym i teatralnym, najjaśniejszą gwiazdą polskiej szkoły filmowej, porównywaną do Jamesa Deana ze względu na buntowniczy styl i charyzmę.
 
@@ -15544,7 +15544,7 @@ Cybulski pozostaje symbolem polskiej szkoły filmowej i jednym z najważniejszyc
     yearEnd: 1989,
     summary: 'Wybitny aktor teatralny i filmowy, intelektualista sceny, którego zdjęcie spektaklu „Dziady” w 1968 roku stało się iskrą wydarzeń Marca \'68.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gustaw_Holoubek_%28portret%29.jpg?width=800',
-    imageCaption: 'Gustaw Holoubek',
+    imageCaption: 'Gustaw Holoubek, aktor i wieloletni dyrektor Teatru Dramatycznego',
     content: `## Sylwetka
 Gustaw Holoubek (1923–2008) był aktorem, reżyserem i dyrektorem teatrów, mistrzem ról wymagających intelektu i wewnętrznego napięcia. Grał oszczędnie, głosem i pauzą, budując postacie myślące na scenie zamiast ilustrować emocje.
 
@@ -15614,7 +15614,7 @@ Był posłem na Sejm, ale po wprowadzeniu stanu wojennego zrzekł się mandatu w
     yearEnd: 1989,
     summary: 'Najwybitniejsza autorka tekstów polskiej piosenki, twórczyni słów do setek przebojów, związana z kabaretem STS i estradą.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Agnieszka_Osiecka_Polish_writer.jpg?width=800',
-    imageCaption: 'Agnieszka Osiecka',
+    imageCaption: 'Agnieszka Osiecka, 1965',
     content: `## Sylwetka
 Agnieszka Osiecka (1936–1997) była poetką, autorką tekstów, pisarką, dziennikarką i reżyserką. Napisała około dwóch tysięcy tekstów piosenek – liczba, która w polskiej kulturze nie ma odpowiednika – a obok tego dramaty, opowiadania i felietony.
 
@@ -15676,7 +15676,7 @@ Jej archiwum, listy i dzienniki wydawane po śmierci pokazały skalę dorobku wy
     yearEnd: 1989,
     summary: 'Autor i wykonawca piosenek, mistrz inteligentnej satyry obyczajowej i językowej, twórca przebojów „W Polskę idziemy” i „Jesteśmy na wczasach”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wojciech_M%C5%82ynarski_in_2012.jpg?width=800',
-    imageCaption: 'Wojciech Młynarski',
+    imageCaption: 'Wojciech Młynarski (fot. współczesna)',
     content: `## Sylwetka
 Wojciech Młynarski (1941–2017) skończył filologię polską na Uniwersytecie Warszawskim i przez całą karierę pisał tak, jak pisze się z miłości do języka: z rymem wewnętrznym, kalamburem i podwójnym dnem. Był autorem tekstów, wykonawcą, reżyserem kabaretowym i tłumaczem – m.in. Brela i Okudżawy.
 
@@ -15754,7 +15754,7 @@ Napisał ponad dwa tysiące tekstów, w tym dla Michaja Burano, Ireny Santor, Ha
     yearEnd: 1989,
     summary: 'Emisariusz Polski Podziemnej, przez ćwierć wieku dyrektor Rozgłośni Polskiej Radia Wolna Europa – najważniejszego niezależnego głosu docierającego do PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Konferencja_programowa_Rozg%C5%82o%C5%9Bni_Polskiej_Radia_Wolna_Europa_%28cropped%291.jpg?width=800',
-    imageCaption: 'Jan Nowak-Jeziorański',
+    imageCaption: 'Narada programowa Rozgłośni Polskiej Radia Wolna Europa; Jan Nowak-Jeziorański drugi od lewej, lata 60.',
     content: `## Sylwetka
 Jan Nowak-Jeziorański (1914–2005), właściwie Zdzisław Antoni Jeziorański, był emisariuszem Armii Krajowej, a po wojnie dziennikarzem i jedną z najważniejszych postaci polskiej emigracji politycznej.
 
@@ -15815,8 +15815,8 @@ Po 1989 roku doradzał w Waszyngtonie w sprawach Europy Środkowej i był jednym
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Coroczne, obowiązkowe pochody 1 Maja – centralny rytuał propagandowy PRL, manifestujący „jedność ludu pracującego” z władzą.',
-    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Demonstracja_Mi%C5%84sk_1_maja_1917.jpg?width=800',
-    imageCaption: 'Pochód pierwszomajowy',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Poch%C3%B3d_pierwszomajowy_w_Alejach_Jerozolimskich_w_Warszawie_1950.jpg?width=800',
+    imageCaption: 'Pochód pierwszomajowy w Alejach Jerozolimskich w Warszawie, 1950',
     content: `## Święto Pracy
 1 Maja, obchodzony jako Międzynarodowy Dzień Solidarności Ludzi Pracy, był obok 22 lipca najważniejszym świętem PRL. Jego centralnym elementem był pochód: kilkugodzinny przemarsz zakładów pracy przed trybuną honorową, transmitowany przez radio i telewizję.
 
@@ -16098,7 +16098,7 @@ Mecz żużlowy był wydarzeniem towarzyskim: wyjściem całych rodzin, okazją d
     yearEnd: 1964,
     summary: 'Krótki list 34 wybitnych pisarzy i uczonych z 1964 roku, protestujący przeciw cenzurze i polityce kulturalnej władz – pierwszy taki publiczny gest w PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Antoni_Slonimski_Polish_writer.jpg?width=800',
-    imageCaption: 'List 34',
+    imageCaption: 'Antoni Słonimski, który złożył List 34 w kancelarii premiera',
     content: `## Dwa zdania
 List 34 był krótkim, dwuzdaniowym protestem przeciw polityce kulturalnej i ograniczeniom przydziału papieru. Skierowano go do premiera Józefa Cyrankiewicza, a 14 marca 1964 roku złożył go w Urzędzie Rady Ministrów Antoni Słonimski. Nazwa pochodzi od liczby sygnatariuszy.
 
