@@ -1834,16 +1834,19 @@ Dla setek tysięcy mężczyzn armia oznaczała dwuletnią służbę zasadniczą,
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/1989%2C%20Demonstration%20in%20Wroclaw%2C%20Police.jpg?width=800',
     imageCaption: 'Milicyjne więźniarki podczas demonstracji we Wrocławiu, październik 1989',
     content: `## Powstanie
-Zmotoryzowane Odwody Milicji Obywatelskiej powołano w drugiej połowie 1956 roku, po poznańskim Czerwcu. Formalnym zadaniem była „likwidacja zbiorowych naruszeń porządku publicznego”, a także pomoc podczas klęsk żywiołowych.
+Zmotoryzowane Odwody Milicji Obywatelskiej powołano w drugiej połowie 1956 roku, po Poznańskim Czerwcu. Formalnym zadaniem była „likwidacja zbiorowych naruszeń porządku publicznego”, a także pomoc podczas klęsk żywiołowych – ten drugi punkt służył głównie do pokazywania formacji w kronikach filmowych.
 
 ## Do czego służyły
-W praktyce ZOMO było oddziałem do tłumienia protestów. Wyposażone w tarcze, pałki, armatki wodne i gaz łzawiący, szkolone do działania w zwartym szyku, stanowiło narzędzie, którego zwykła milicja nie zastępowała.
+W praktyce ZOMO było oddziałem do tłumienia protestów. Wyposażone w tarcze, pałki, armatki wodne, gaz łzawiący i pojazdy opancerzone, szkolone do działania w zwartym szyku, stanowiło narzędzie, którego zwykła milicja nie zastępowała. W latach 80. liczyło kilkanaście tysięcy funkcjonariuszy zgrupowanych w kilkudziesięciu jednostkach.
 
 ## Stan wojenny
-Największą rolę odegrało po 13 grudnia 1981 roku: przy pacyfikacjach zakładów, rozbijaniu demonstracji i internowaniach. Pluton specjalny ZOMO otworzył ogień do górników w kopalni Wujek.
+Największą rolę odegrało po 13 grudnia 1981 roku: przy pacyfikacjach zakładów, rozbijaniu demonstracji i internowaniach. Pluton specjalny ZOMO otworzył ogień do górników w kopalni Wujek, zabijając dziewięciu. Z tego okresu pochodzi też „ścieżka zdrowia” – bicie zatrzymanego przepędzanego między dwoma szeregami milicjantów.
 
 ## Przywileje i pamięć
-Funkcjonariuszom zapewniano wyższe pensje, dodatki i przydziały mieszkań, co miało budować lojalność. W pamięci społecznej skrót ZOMO stał się synonimem przemocy państwa; formację rozwiązano w 1989 roku.`,
+Funkcjonariuszom zapewniano wyższe pensje, dodatki, przydziały mieszkań i skrócony czas służby, co miało budować lojalność wobec formacji, a nie wobec własnego środowiska. Rozwiązanie ZOMO we wrześniu 1989 roku było jednym z pierwszych symbolicznych gestów nowej władzy.
+
+## Ślad w języku
+Skrót wszedł do polszczyzny jako synonim przemocy państwa, a rozwinięcia w rodzaju „bijące serce partii” krążyły jako dowcip przez całą dekadę. Do dziś jest to jedno z niewielu określeń z epoki, które nie wymaga tłumaczenia.`,
     trivia: [
       'Formację powołano po poznańskim Czerwcu 1956 roku, żeby mieć oddział do tłumienia protestów.',
       'Funkcjonariuszom zapewniano wyższe pensje i przydziały mieszkań, co miało budować lojalność.',
@@ -13063,19 +13066,19 @@ Maanam to jeden z najważniejszych zespołów polskiego rocka, a Kora stała si�
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kult%2C_3-Maj%C3%B3wka_2022_11.jpg?width=800',
     imageCaption: 'Kult na koncercie we Wrocławiu (fot. współczesna)',
     content: `## Powstanie
-Kult powstał w 1982 roku w Warszawie z inicjatywy Kazika Staszewskiego. Zespół łączył punk, rock i nową falę z elementami muzyki dętej, tworząc oryginalne brzmienie.
+Kult powstał w 1982 roku w Warszawie z inicjatywy Kazika Staszewskiego. Zespół łączył punk, rock i nową falę z sekcją dętą, co dało brzmienie nieporównywalne z niczym innym na polskiej scenie tamtych lat.
 
 ## Kazik
-Kazimierz Staszewski stał się jednym z najbardziej rozpoznawalnych głosów buntu w polskiej muzyce. Jego teksty bezpośrednio i ironicznie opisywały absurdy systemu, biurokrację, propagandę i codzienne upokorzenia życia w PRL.
+Kazimierz Staszewski (ur. 1963) jest synem Stanisława Staszewskiego – inżyniera i barda, którego piosenki syn nagrał później w osobnym projekcie. Jego teksty opisywały absurdy systemu wprost i bez alegorii: biurokrację, propagandę, aparat, codzienne upokorzenia. Śpiewał je głosem, który brzmiał jak zdarte gardło po awanturze.
 
 ## Cenzura
-Wiele utworów Kultu padło ofiarą cenzury – zespół musiał zmieniać słowa lub wycofywać piosenki. Mimo to nagrania krążyły w obiegu kasetowym i koncertowym, zyskując kultowy status.
+Wiele utworów nie przeszło przez urząd kontroli albo trafiło na płytę w wersji okrojonej; zespół zmieniał słowa, żeby przepuszczono nagranie. Debiutancka płyta ukazała się dopiero w 1987 roku, pięć lat po założeniu zespołu – w tym czasie muzyka krążyła na kasetach kopiowanych z koncertów.
 
 ## Koncerty
-Kult słynął z energetycznych występów na żywo, m.in. w Jarocinie. Bezkompromisowość przekazu czyniła zespół ulubieńcem niezależnej młodzieży.
+Kult grał w Jarocinie i w klubach studenckich, gdzie publiczność znała teksty lepiej niż radio. Bezkompromisowość przekazu czyniła zespół ulubieńcem niezależnej młodzieży i stałym przedmiotem zainteresowania służb.
 
 ## Znaczenie
-Kult to jeden z najtrwalszych zespołów polskiej sceny, a jego wczesna twórczość pozostaje świadectwem buntu pokolenia schyłku PRL.`,
+Zespół gra nieprzerwanie od czterdziestu lat i pozostaje jednym z najpopularniejszych w Polsce, a Kazik jest jednym z nielicznych artystów, którzy po 1989 roku nie zmiękli – kolejne dekady dostawały od niego równie ostre teksty co PRL.`,
     trivia: ['Zespół założył Kazik Staszewski.', 'Teksty bezlitośnie punktowały absurdy PRL.'],
     resources: [
       {
@@ -14483,19 +14486,19 @@ Serial wpisywał się w oficjalny nurt utrwalania pamięci o wojnie i bohaterstw
     imageCaption: 'Janusz Gajos i Szarik na planie „Czterech pancernych”, 1969',
     trivia: ['Psa Szarika grało w rzeczywistości kilka tresowanych owczarków niemieckich.', 'Serial wzbudzał takie emocje, że dzieci masowo bawiły się w „pancernych”, a powstawały kluby miłośników załogi Rudego.'],
     content: `## Fabuła
-Serial oparty na powieści Janusza Przymanowskiego opowiada o losach załogi czołgu T-34 „Rudy 102” i owczarka Szarika podczas szlaku bojowego 1. Armii Wojska Polskiego u boku Armii Czerwonej.
+Serial oparty na powieści Janusza Przymanowskiego opowiada o losach załogi czołgu T-34 „Rudy 102” i owczarka Szarika podczas szlaku bojowego 1. Armii Wojska Polskiego u boku Armii Czerwonej – od Syberii, przez Lenino i Wał Pomorski, po Berlin.
 
 ## Produkcja
-Emitowany w latach 1966–1970 (21 odcinków) w reżyserii Konrada Nałęckiego. Serial zyskał ogromną popularność, zwłaszcza wśród młodych widzów.
+Powstawał w latach 1966–1970 w reżyserii Konrada Nałęckiego i liczy dwadzieścia jeden odcinków. Janka Kosa zagrał Janusz Gajos, Gustlika – Franciszek Pieczka, Grigorija – Włodzimierz Press, Olgierda – Roman Wilhelmi. W roli Szarika wystąpiło kilka psów.
 
-## Bohaterowie
-Janek Kos, Gustlik, Grigorij, Olgierd oraz pies Szarik stali się ulubieńcami widzów. Powstawały kluby miłośników serialu, a dzieci bawiły się w „pancernych”.
+## Fenomen
+Popularność przerosła wszystko, co polska telewizja znała wcześniej: powstawały kluby pancernych, dzieci pisały listy do bohaterów, a odcinki emitowano także w Związku Radzieckim i pozostałych krajach bloku. Zabawa „w pancernych” była podwórkowym standardem przez dwie dekady.
 
 ## Kontekst propagandowy
-Serial przedstawiał wojnę zgodnie z oficjalną, prosowiecką narracją, eksponując braterstwo broni z ZSRR i pomijając trudne karty historii. Mimo to pozostał fenomenem popkultury.
+Serial przedstawiał wojnę zgodnie z oficjalną narracją: braterstwo broni z ZSRR jako oczywistość, Armia Krajowa nieobecna, deportacje i Katyń przemilczane. Bohater trafia do wojska „stamtąd”, ale przyczyna, dla której jego rodzina znalazła się na Syberii, nie pada nigdy.
 
 ## Znaczenie
-„Czterej pancerni i pies” to jeden z najpopularniejszych seriali PRL, dziś oceniany ambiwalentnie – jako sprawny serial przygodowy, ale i nośnik propagandy.`,
+Dziś ocenia się go ambiwalentnie – jako sprawnie zrobiony serial przygodowy i jednocześnie jeden z najskuteczniejszych nośników propagandy w historii polskiej telewizji. Obie te rzeczy są prawdziwe naraz i to właśnie czyni go interesującym.`,
     resources: [
       {
         id: 'cp-1',
@@ -24503,16 +24506,19 @@ Dezerter gra do dziś i pozostał zespołem niezależnym także po 1989 roku, ni
     yearStart: 1960,
     summary: 'Historyczna superprodukcja Aleksandra Forda (1960) wg powieści Sienkiewicza; z rekordową w dziejach polskiego kina widownią i słynną sceną bitwy pod Grunwaldem.',
     content: `## Superprodukcja
-„Krzyżacy” Aleksandra Forda z 1960 roku byli pierwszą polską superprodukcją: barwną, kosztowną, z tysiącami statystów i wielką sceną batalistyczną. Powstali na podstawie powieści Henryka Sienkiewicza.
+„Krzyżacy” Aleksandra Forda z 1960 roku byli pierwszą polską superprodukcją: barwną, szerokoekranową, kosztowną, z tysiącami statystów i wielką sceną batalistyczną. Powstali na podstawie powieści Henryka Sienkiewicza, a w rolach głównych wystąpili Mieczysław Kalenik, Grażyna Staniszewska i Andrzej Szalawski jako Jurand ze Spychowa.
 
 ## Grunwald
-Kulminacją jest bitwa pod Grunwaldem, zrealizowana z rozmachem nieznanym wcześniej w polskim kinie. Premiera zbiegła się z pięćsetpięćdziesiątą rocznicą bitwy, obchodzoną w 1960 roku jako wielkie święto państwowe.
+Kulminacją jest bitwa pod Grunwaldem, zrealizowana z rozmachem nieznanym wcześniej w polskim kinie – z udziałem wojska, setek koni i pirotechniki. Premiera zbiegła się z pięćsetpięćdziesiątą rocznicą bitwy, obchodzoną w 1960 roku jako wielkie święto państwowe.
 
 ## Polityka
-Film wpisywał się w oficjalną narrację: pokazywał odwieczny konflikt z niemieckim zakonem i uzasadniał obecność Polski na ziemiach zachodnich. Był to jeden z nielicznych przypadków, gdy interes propagandowy i ambicja artystyczna prowadziły w tę samą stronę.
+Film wpisywał się w oficjalną narrację: pokazywał odwieczny konflikt z niemieckim zakonem i uzasadniał obecność Polski na ziemiach zachodnich w momencie, gdy RFN nie uznawała granicy na Odrze. Był to jeden z nielicznych przypadków, gdy interes propagandowy i ambicja artystyczna prowadziły w tę samą stronę.
 
 ## Rekord
-Obraz obejrzały miliony widzów i przez dziesięciolecia pozostawał najchętniej oglądanym polskim filmem w historii. Pokazywano go rutynowo w szkołach jako uzupełnienie lektury.`,
+Obraz obejrzało w kinach ponad trzydzieści milionów widzów i do dziś pozostaje najchętniej oglądanym polskim filmem w historii. Pokazywano go rutynowo w szkołach jako uzupełnienie lektury, co przez dekady utrwaliło wyobrażenia o średniowieczu na podstawie kadrów, a nie źródeł.
+
+## Ocena
+Krytyka od początku dzieliła się między podziwem dla skali a zarzutem, że film jest ilustracją powieści, a nie jej interpretacją. Ta ocena utrzymuje się do dziś, co nie przeszkadza kolejnym pokoleniom oglądać sceny grunwaldzkiej z takim samym przejęciem.`,
     trivia: [
       'Premiera zbiegła się z 550. rocznicą bitwy pod Grunwaldem, obchodzoną jako święto państwowe.',
       'Przez dziesięciolecia był najchętniej oglądanym polskim filmem w historii.',
@@ -25865,16 +25871,19 @@ Po 1989 roku stworzyła w Warszawie własne teatry – Polonię i Och-Teatr – 
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/JKruk%2020121016%20ZBIGNIEW%20WODECKI%20BUSKO%20IMG%202857.jpg?width=800',
     imageCaption: 'Zbigniew Wodecki – wokalista i instrumentalista.',
     content: `## Muzyk kompletny
-Zbigniew Wodecki (1950–2017) zaczynał jako skrzypek z wykształceniem klasycznym, grał też na trąbce, śpiewał, komponował i aranżował. Ta wszechstronność była podstawą jego pozycji, a nie dodatkiem do niej.
+Zbigniew Wodecki (1950–2017) pochodził z Krakowa, zaczynał jako skrzypek z wykształceniem klasycznym, grał też na trąbce, śpiewał, komponował i aranżował. Ta wszechstronność była podstawą jego pozycji, a nie dodatkiem do niej – zaczynał w orkiestrze filharmonii, a skończył jako gwiazda estrady.
 
 ## Anawa i Demarczyk
-Występował w zespole Anawa, a w latach 1968–1973 akompaniował Ewie Demarczyk podczas jej tras koncertowych po świecie. Praca u boku najwybitniejszej wykonawczyni piosenki literackiej ukształtowała jego warsztat.
+Grał w zespole Anawa, a w latach 1968–1973 akompaniował Ewie Demarczyk podczas jej tras po świecie. Praca u boku najwybitniejszej wykonawczyni piosenki literackiej ukształtowała jego warsztat i sposób traktowania tekstu.
 
 ## Przeboje
-Największą popularność przyniosły mu „Chałupy welcome to”, „Zacznij od Bacha” i „Lubię wracać tam, gdzie byłem”. Śpiewał też piosenkę z czołówki serialu „Pszczółka Maja”, znaną każdemu dziecku w Polsce.
+Największą popularność przyniosły mu „Zacznij od Bacha”, „Lubię wracać tam, gdzie byłem”, „Rzuć to wszystko co złe” i „Chałupy welcome to” – ta ostatnia, o nudystach nad Bałtykiem, została po latach uznana za jeden z symboli obyczajowego luzu lat 80. Śpiewał też piosenkę z czołówki „Pszczółki Mai”, znaną każdemu dziecku w Polsce.
 
 ## Druga kariera
-Pod koniec życia zyskał nową publiczność, gdy młodsze pokolenie muzyków odkryło jego dawne nagrania. Jest to rzadki przypadek artysty PRL, którego dorobek doceniono ponownie za jego życia, w zupełnie innej epoce.`,
+W 2015 roku nagrał z zespołem Mitch & Mitch płytę, która odkryła jego dawne, ambitne aranżacje dla zupełnie nowej publiczności. Zagrał na festiwalach, na których wcześniej nie bywał, i zyskał słuchaczy o czterdzieści lat młodszych.
+
+## Znaczenie
+To rzadki przypadek artysty PRL, którego dorobek doceniono ponownie za jego życia i w innej epoce. Zmarł nagle w 2017 roku, w trakcie tej drugiej kariery.`,
     trivia: [
       'Przez pięć lat akompaniował Ewie Demarczyk podczas jej tras koncertowych po świecie.',
       'Zaśpiewał piosenkę z czołówki „Pszczółki Mai” – znaną każdemu dziecku w Polsce.',
@@ -27596,16 +27605,19 @@ Obraz zyskał na Zachodzie status kultowy, a jego wielbicielami byli m.in. Jerry
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pa%C5%82ac_i_Piwnica_pod_Baranami_w_Krakowie%2C_fot._K._Schubert%2C_MIK_2019_%2849424028277%29.jpg?width=800',
     imageCaption: 'Pałac pod Baranami przy Rynku Głównym w Krakowie, siedziba Piwnicy (fot. współczesna)',
     content: `## Kabaret
-Piwnicę pod Baranami założono w 1956 roku w Krakowie, w podziemiach pałacu przy Rynku Głównym. Powstała w roku Października – w momencie, gdy odwilż otworzyła pole dla inicjatyw spoza oficjalnego obiegu.
+Piwnicę pod Baranami założono w 1956 roku w Krakowie, w podziemiach pałacu przy Rynku Głównym. Powstała w roku Października – w momencie, gdy odwilż otworzyła pole dla inicjatyw spoza oficjalnego obiegu, i przetrwała cały okres PRL.
 
 ## Formuła
-Nie była kabaretem w klasycznym rozumieniu: łączyła piosenkę literacką, poezję, improwizację i widowiska plenerowe. Prowadził ją przez dziesięciolecia Piotr Skrzynecki – postać, która sama stała się symbolem miejsca.
+Nie była kabaretem w klasycznym rozumieniu: łączyła piosenkę literacką, poezję, improwizację i widowiska plenerowe. Program bywał układany na kilka godzin przed występem, a wieczory kończyły się nad ranem. Prowadził ją przez dziesięciolecia Piotr Skrzynecki – postać, która sama stała się symbolem miejsca, rozpoznawalna na Rynku z dzwonkiem i w kapeluszu.
 
 ## Środowisko
-Z Piwnicą związani byli m.in. Ewa Demarczyk, Zygmunt Konieczny, Wiesław Dymny i Marek Grechuta. Miejsce działało jak inkubator: przez lata przewijali się przez nie twórcy, którzy potem robili osobne kariery.
+Z Piwnicą związani byli Ewa Demarczyk, Zygmunt Konieczny, Wiesław Dymny, Marek Grechuta, Anna Szałapak i Zbigniew Preisner. Miejsce działało jak inkubator: przez lata przewijali się przez nie twórcy, którzy potem robili osobne kariery, i wracali na jeden wieczór.
 
 ## Wolność w piwnicy
-Kameralna skala i literacka forma dawały swobodę, jakiej nie miała estrada. Cenzor czytał tekst piosenki inaczej niż odezwę, a to, co niosła interpretacja, zostawało poza protokołem. Piwnica przetrwała cały okres PRL.`,
+Kameralna skala i literacka forma dawały swobodę, jakiej nie miała estrada. Cenzor czytał tekst piosenki inaczej niż odezwę, a to, co niosła interpretacja – pauza, ironia, spojrzenie – zostawało poza protokołem. Sala mieściła kilkadziesiąt osób, więc formalnie nie było to wydarzenie masowe.
+
+## Po latach
+Skrzynecki zmarł w 1997 roku, a jego pogrzeb zgromadził tłumy na krakowskim Rynku. Piwnica działa do dziś, choć rola, jaką pełniła w państwie z cenzurą, siłą rzeczy zniknęła razem z tym państwem.`,
     trivia: [
       'Powstała w 1956 roku, w tym samym roku co Październik i związana z nim odwilż.',
       'Przez lata prowadził ją Piotr Skrzynecki, a występowali tam m.in. Ewa Demarczyk i Marek Grechuta.',
@@ -30426,16 +30438,19 @@ Jej pozycja pokazuje mechanizm typowy dla PRL: rozpoznawalność była powszechn
     yearEnd: 1989,
     summary: 'Noc sylwestrową spędzano na balach lub przed telewizorem; TV nadawała specjalny program rozrywkowy z kabaretem, piosenkami i skeczami.',
     content: `## Wieczór przed telewizorem
-Sylwestrowy program telewizyjny był w PRL jednym z najważniejszych wydarzeń roku. Przy dwóch programach telewizji i braku alternatywy oglądała go w praktyce cała Polska naraz.
+Sylwestrowy program telewizyjny był w PRL jednym z najważniejszych wydarzeń roku. Przy dwóch programach telewizji i braku alternatywy oglądała go w praktyce cała Polska naraz, a nazajutrz omawiano go w pracy jak mecz.
 
 ## Formuła
-Program łączył estradę, kabaret, skecze i muzykę taneczną, prowadzony przez najpopularniejszych konferansjerów epoki. Realizowano go w studiu, z publicznością, a przygotowania trwały miesiącami.
+Program łączył estradę, kabaret, skecze i muzykę taneczną, prowadzony przez najpopularniejszych konferansjerów epoki – przez lata rolę tę pełnił Lucjan Kydryński. Realizowano go w studiu, z publicznością przy stolikach, a przygotowania trwały miesiącami.
 
 ## Co wolno było
-Sylwester był jedną z nielicznych okazji, gdy satyra dostawała więcej miejsca. Żarty o kolejkach, zaopatrzeniu i biurokracji przechodziły łatwiej, bo święto usprawiedliwiało lekki ton – granicą pozostawała jednak polityka.
+Sylwester był jedną z nielicznych okazji, gdy satyra dostawała więcej miejsca. Żarty o kolejkach, zaopatrzeniu i biurokracji przechodziły łatwiej, bo święto usprawiedliwiało lekki ton. Granicą pozostawała polityka: można było kpić z tego, że nie ma mięsa, ale nie z tego, dlaczego go nie ma.
+
+## Sylwester bez sylwestra
+Ostatni dzień 1981 roku wypadł w stanie wojennym, przy obowiązującej godzinie milicyjnej. Zabaw publicznych nie było, a telewizja nadawała program okrojony – ten jeden wieczór zapamiętano jako ciszę zamiast hałasu.
 
 ## Wspólne doświadczenie
-Program tworzył rzadkie w PRL poczucie jednoczesności: te same żarty, te same piosenki i te same twarze w każdym mieszkaniu w kraju. Po 1989 roku, wraz z rozdrobnieniem rynku telewizyjnego, taka sytuacja przestała być możliwa.`,
+Program tworzył rzadkie w PRL poczucie jednoczesności: te same żarty, te same piosenki i te same twarze w każdym mieszkaniu w kraju. Po 1989 roku, wraz z rozdrobnieniem rynku telewizyjnego i konkurencją sylwestrów plenerowych, taka sytuacja przestała być możliwa.`,
     trivia: [
       'Przy dwóch programach telewizji sylwestrowy program oglądała w praktyce cała Polska naraz.',
       'Święto usprawiedliwiało ostrzejszą satyrę – ale granicą pozostawała polityka.',
@@ -33610,16 +33625,19 @@ Jego dom w Stawisku pod Warszawą był miejscem spotkań literatów przez kilka 
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Boles%C5%82aw_Bierut_do_ludno%C5%9Bci_Warszawy_1945.jpg?width=800',
     imageCaption: 'Odezwa Boleslawa Bieruta do ludnosci Warszawy, 1945',
     content: `## Gazeta partii
-„Głos Ludu” był organem Komitetu Centralnego Polskiej Partii Robotniczej, wychodzącym od 1944 roku. Pełnił funkcję, jaką w systemie partyjnym miała prasa centralna: nie informował, lecz wykładał aktualną linię – to z niego aktyw dowiadywał się, co należy myśleć o kolejnych wydarzeniach.
+„Głos Ludu” był organem Komitetu Centralnego Polskiej Partii Robotniczej, wychodzącym od listopada 1944 roku. Pełnił funkcję, jaką w systemie partyjnym miała prasa centralna: nie informował, lecz wykładał aktualną linię – to z niego aktyw dowiadywał się, co należy myśleć o kolejnych wydarzeniach.
+
+## Jak to działało
+Tekst z pierwszej strony powielała potem prasa terenowa, a prelegenci referowali go na zebraniach. Zmiana tonu wobec jakiejś sprawy albo zniknięcie nazwiska z łamów były sygnałem czytelnym dla każdego, kto umiał gazetę czytać – i właśnie tego uczyli się czytelnicy przez następne czterdzieści lat.
 
 ## Rok 1947
-Gazeta odegrała istotną rolę w kampanii przed wyborami 1947 roku i w nagonce na PSL Stanisława Mikołajczyka, publikując oskarżenia pod adresem działaczy opozycji.
+Gazeta odegrała istotną rolę w kampanii przed wyborami 1947 roku i w nagonce na PSL Stanisława Mikołajczyka, publikując oskarżenia pod adresem działaczy opozycji, którzy w tym samym czasie byli aresztowani.
 
 ## Koniec
-W grudniu 1948 roku, po połączeniu PPR i PPS w PZPR, „Głos Ludu” połączono z socjalistycznym „Robotnikiem”. Z tego połączenia powstała „Trybuna Ludu” – odtąd jedyny organ centralny partii, wychodzący aż do 1990 roku.
+W grudniu 1948 roku, przy kongresie zjednoczeniowym PPR i PPS, „Głos Ludu” połączono z socjalistycznym „Robotnikiem”. Z tego połączenia powstała „Trybuna Ludu” – odtąd jedyny organ centralny partii, wychodzący aż do 1990 roku.
 
 ## Dlaczego to ważne
-Los gazety jest dokładnym odbiciem losu samej PPS: formalnie połączenie równych, w praktyce wchłonięcie. Tytuł socjalistyczny zniknął, tytuł komunistyczny zmienił nazwę.`,
+Los gazety jest dokładnym odbiciem losu samej PPS: formalnie połączenie równych, w praktyce wchłonięcie. Tytuł socjalistyczny zniknął, tytuł komunistyczny zmienił nazwę i zachował ciągłość redakcji.`,
     trivia: [
       'Powstał z połączenia z socjalistycznym „Robotnikiem”, ale to tytuł socjalistyczny zniknął.',
       'Prasa partyjna nie tyle informowała, ile wykładała aktualną linię – aktyw dowiadywał się z niej, co myśleć.',
