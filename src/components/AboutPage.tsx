@@ -17,11 +17,11 @@ export default function AboutPage({ onNavigate }: AboutPageProps) {
     { icon: '🔤', title: 'Indeks alfabetyczny', desc: 'Wszystkie hasła od A do Z, ze skokami literowymi i filtrem kategorii' },
     { icon: '⇄', title: 'Porównanie haseł', desc: 'Dwa hasła obok siebie: zakres lat, obudowa źródłowa, zawartość i wspólne tagi' },
     { icon: '📅', title: 'Filtr dekad', desc: 'Zawężanie encyklopedii do lat 40., 50., 60., 70. lub 80.' },
+    { icon: '📊', title: 'Infografiki gospodarcze', desc: 'Interaktywne wykresy zadłużenia, inflacji, reglamentacji i dystansu do Zachodu – każdy ze źródłem i uwagą o dokładności danych' },
+    { icon: '💬', title: 'Relacje świadków', desc: 'Archiwa historii mówionej, zasady nagrywania i pytania pomocnicze, a także miejsce na spisanie własnego wspomnienia' },
   ];
 
   const plannedFeatures = [
-    { icon: '💬', title: 'Oral history – relacje świadków', desc: 'Nagrane wspomnienia osób pamiętających czasy PRL, z możliwością dodawania własnych' },
-    { icon: '📊', title: 'Infografiki gospodarcze', desc: 'Interaktywne wykresy długu, cen, PKB, reglamentacji i porównania z Zachodem' },
     { icon: '🌐', title: 'Wielojęzyczność', desc: 'Wersje w języku angielskim i niemieckim dla zagranicznych badaczy i Polonii' },
     { icon: '⭐', title: 'Zakładki i notatki', desc: 'System osobistych zakładek i notatek dla użytkowników zalogowanych' },
     { icon: '📡', title: 'API dla badaczy', desc: 'Otwarty interfejs API umożliwiający pobieranie danych do badań naukowych' },

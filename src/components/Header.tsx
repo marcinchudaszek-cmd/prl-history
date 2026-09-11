@@ -24,6 +24,8 @@ export default function Header({ onSearch, onNavigate, activeView }: HeaderProps
     { id: 'map', label: 'Mapa' },
     { id: 'slang', label: 'Słownik' },
     { id: 'press', label: 'Prasa' },
+    { id: 'economy', label: 'Gospodarka' },
+    { id: 'oral', label: 'Relacje' },
     { id: 'archives', label: 'Archiwum' },
     { id: 'quiz', label: 'Quiz' },
     { id: 'about', label: 'O projekcie' },
