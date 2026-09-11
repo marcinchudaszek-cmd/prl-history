@@ -19,8 +19,11 @@ export default function Footer({ onNavigate }: FooterProps) {
               </div>
             </div>
             <p className="text-sm text-gray-400 leading-relaxed max-w-sm">
-              Cyfrowe archiwum wiedzy o dziejach PRL. Hasła encyklopedyczne, 
+              Cyfrowe archiwum wiedzy o dziejach PRL. Hasła encyklopedyczne,
               dokumenty archiwalne, nagrania i fotografie historyczne.
+            </p>
+            <p className="text-sm text-gray-300 mt-3">
+              Główny autor encyklopedii: <span className="font-semibold text-white">Marcin Chudaszek</span>
             </p>
           </div>
 
@@ -74,7 +77,7 @@ export default function Footer({ onNavigate }: FooterProps) {
         </div>
 
         <div className="border-t border-white/10 pt-6 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-gray-500">
-          <p>© 2025 Encyklopedia PRL – Projekt edukacyjno-historyczny</p>
+          <p>© 2025 Encyklopedia PRL – Projekt edukacyjno-historyczny. Główny autor: Marcin Chudaszek</p>
           <div className="flex items-center gap-4">
             <div className="flex items-center gap-2">
               <span className="w-2 h-2 rounded-full bg-red-600" />
