@@ -28,18 +28,31 @@ export default function AboutPage({ onNavigate }: AboutPageProps) {
     { icon: '🤝', title: 'Współpraca z IPN i ECS', desc: 'Integracja z oficjalnymi archiwami cyfrowymi instytucji historycznych' },
   ];
 
+  // Serwisy, do których prowadzą odnośniki w hasłach – lista odpowiada temu,
+  // co faktycznie jest w bazie, a nie temu, co brzmi poważnie.
   const sources = [
-    'Instytut Pamięci Narodowej (IPN)',
-    'Archiwum Akt Nowych (AAN)',
-    'Europejskie Centrum Solidarności (ECS)',
-    'Filmoteka Narodowa – NINATEKA',
-    'Biblioteka Narodowa – POLONA',
-    'Szukaj w Archiwach (NDAP)',
-    'Wikipedia Polska – Portal: Polska Ludowa',
-    'Wikiźródła – teksty dokumentów epoki',
+    'Instytut Pamięci Narodowej – Przystanek Historia i serwisy tematyczne',
+    'Wikipedia i Wikiźródła – hasła oraz teksty dokumentów epoki',
+    'Wikimedia Commons – fotografie archiwalne',
+    'Filmoteka Narodowa – NINATEKA i FINA',
     'Culture.pl – Instytut Adama Mickiewicza',
     'Encyklopedia Solidarności (IPN)',
-    'Ośrodek KARTA – archiwum społeczne',
+    'FilmPolski.pl – baza polskiego filmu',
+    'Europejskie Centrum Solidarności',
+    'Archiwum Akt Nowych',
+    'Dziennik Ustaw i Główny Urząd Statystyczny',
+    'Wolne Lektury – teksty w domenie publicznej',
+    'YouTube – kroniki filmowe i nagrania archiwalne',
+  ];
+
+  // Archiwa, które warto znać, ale z których hasła nie czerpią bezpośrednio.
+  const recommendedArchives = [
+    { name: 'Biblioteka Narodowa – POLONA', url: 'https://polona.pl', desc: 'Skany książek, czasopism i grafiki ze zbiorów BN' },
+    { name: 'Szukaj w Archiwach (NDAP)', url: 'https://www.szukajwarchiwach.gov.pl', desc: 'Zdigitalizowane akta archiwów państwowych' },
+    { name: 'Ośrodek KARTA', url: 'https://karta.org.pl', desc: 'Archiwum społeczne: relacje, dzienniki, listy, fotografie' },
+    { name: 'Audiohistoria', url: 'https://audiohistoria.pl', desc: 'Nagrane relacje świadków historii mówionej' },
+    { name: 'Dom Spotkań z Historią', url: 'https://dsh.waw.pl', desc: 'Nagrania relacji, wystawy i spotkania ze świadkami' },
+    { name: 'Muzeum Historii Polski', url: 'https://muzhp.pl', desc: 'Zbiory muzealne i materiały edukacyjne' },
   ];
 
   return (
@@ -121,15 +134,43 @@ export default function AboutPage({ onNavigate }: AboutPageProps) {
 
       {/* Sources */}
       <div className="bg-white rounded-xl border border-stone-200 shadow-sm p-8 mb-8">
-        <h3 className="text-xl font-bold font-serif text-gray-900 mb-5 flex items-center gap-2">
-          <span>📖</span> Źródła i podstawy merytoryczne
+        <h3 className="text-xl font-bold font-serif text-gray-900 mb-2 flex items-center gap-2">
+          <span>📖</span> Źródła, do których prowadzą hasła
         </h3>
+        <p className="text-sm text-gray-500 mb-5">
+          Serwisy, z których pochodzą odnośniki podpięte pod hasła encyklopedii
+        </p>
         <div className="grid sm:grid-cols-2 gap-3">
           {sources.map(src => (
-            <div key={src} className="flex items-center gap-2 text-sm text-gray-700">
+            <div key={src} className="flex items-start gap-2 text-sm text-gray-700">
               <span className="text-green-500 flex-shrink-0">✓</span>
               {src}
             </div>
+          ))}
+        </div>
+
+        <h3 className="text-xl font-bold font-serif text-gray-900 mt-8 mb-2 flex items-center gap-2">
+          <span>🏛️</span> Polecane archiwa
+        </h3>
+        <p className="text-sm text-gray-500 mb-5">
+          Zbiory, które warto znać przy własnych poszukiwaniach. Hasła encyklopedii nie czerpią z nich
+          bezpośrednio – dlatego są wymienione osobno, a nie razem ze źródłami.
+        </p>
+        <div className="grid sm:grid-cols-2 gap-3">
+          {recommendedArchives.map(a => (
+            <a
+              key={a.url}
+              href={a.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-start gap-2 text-sm p-3 rounded-lg border border-stone-200 hover:border-red-300 transition-colors"
+            >
+              <span className="text-red-600 flex-shrink-0">↗</span>
+              <span>
+                <span className="font-medium text-gray-800">{a.name}</span>
+                <span className="block text-xs text-gray-500 mt-0.5">{a.desc}</span>
+              </span>
+            </a>
           ))}
         </div>
         <div className="mt-6 p-4 bg-amber-50 border border-amber-200 rounded-lg">
