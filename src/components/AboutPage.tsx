@@ -36,8 +36,10 @@ export default function AboutPage({ onNavigate }: AboutPageProps) {
     'Biblioteka Narodowa – POLONA',
     'Szukaj w Archiwach (NDAP)',
     'Wikipedia Polska – Portal: Polska Ludowa',
-    'Encyklopedia PWN',
-    'Fundacja Archiwum Dokumentacji Historycznej PRL',
+    'Wikiźródła – teksty dokumentów epoki',
+    'Culture.pl – Instytut Adama Mickiewicza',
+    'Encyklopedia Solidarności (IPN)',
+    'Ośrodek KARTA – archiwum społeczne',
   ];
 
   return (
