@@ -13320,20 +13320,26 @@ Perfect wrócił po 1989 roku i zagrał serię koncertów stadionowych, a jego r
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gintrowski_Przemyslaw_20090516.jpg?width=800',
     imageCaption: 'Przemysław Gintrowski',
     content: `## Sylwetka
-Przemysław Gintrowski (1951–2012) był kompozytorem, gitarzystą i pieśniarzem, jednym z najważniejszych twórców poezji śpiewanej w Polsce.
+Przemysław Gintrowski (1951–2012) urodził się w Stargardzie, ukończył Wydział Mechaniczny Energetyki i Lotnictwa Politechniki Warszawskiej i przez pewien czas uczył w warszawskim liceum. Debiutował w 1976 roku piosenką „Epitafium dla Sergiusza Jesienina”.
 
-## Trio
-Najsłynniejszą kartą jego twórczości była współpraca z Jackiem Kaczmarskim i Zbigniewem Łapińskim. Program „Mury” (1981) stał się muzycznym manifestem opozycji, a tytułowa pieśń – hymnem „Solidarności”.
+## Trio i „Mury”
+W 1979 roku razem z Jackiem Kaczmarskim i Zbigniewem Łapińskim przygotował program poetycki „Mury”. Tytułowa pieśń – tekst Kaczmarskiego oparty na „L’Estaca” katalońskiego barda Lluísa Llacha – stała się nieformalnym hymnem „Solidarności”. Kolejne programy tria nosiły tytuły „Raj” i „Muzeum”.
 
-## Muzyka do poezji
-Gintrowski komponował muzykę do wierszy wybitnych poetów, m.in. Zbigniewa Herberta (program „Raport z oblężonego miasta”). Jego pieśni łączyły wysoką poezję z mocnym, emocjonalnym przekazem.
+## Rozpad
+W grudniu 1981 roku trio koncertowało we Francji. Gintrowski i Łapiński wrócili na krótko do kraju, by uporządkować sprawy zawodowe; Gintrowskiemu odmówiono paszportu, a kilka dni później wprowadzono stan wojenny. Kaczmarski pozostał na emigracji i zespół przestał istnieć.
 
-## Drugi obieg
-W stanie wojennym jego nagrania krążyły w drugim obiegu i na kasetach. Koncerty często odbywały się w kościołach i salach parafialnych, poza zasięgiem oficjalnej kultury.
+## W podziemiu
+Utrzymywał się z muzyki filmowej – w ciągu dekady napisał ją do ponad dwudziestu filmów i seriali, m.in. do „Zmienników”. Równolegle koncertował poza oficjalnymi scenami, między innymi w pomieszczeniach warszawskiego Muzeum Archidiecezji, często z zaledwie kilkugodzinnym uprzedzeniem. Płytę „Pamiątki” nagrał nielegalnie w studiu państwowej telewizji, przy okazji pracy nad muzyką do filmu „Matka Królów”; w podobny sposób powstało nagranie programu „Raport z oblężonego miasta”. Obie krążyły w drugim obiegu.
 
-## Znaczenie
-Gintrowski pozostaje symbolem zaangażowanej, niezależnej sztuki lat 80., a jego pieśni – świadectwem moralnego oporu wobec systemu.`,
-    trivia: ['Tworzył tercet z Jackiem Kaczmarskim i Zbigniewem Łapińskim.', 'Śpiewał wiersze Herberta i Baczyńskiego.'],
+## Słowa
+Sięgał po teksty Kaczmarskiego, Zbigniewa Herberta, Tomasza Jastruna i Tadeusza Nowaka. Jego pieśni łączyły wysoką poezję z oszczędną, surową muzyką.
+
+## Po 1989
+W latach 1991–1993 trio ponownie koncertowało razem. Gintrowski zmarł w 2012 roku w Warszawie. Jego pieśni pozostają obok utworów Kaczmarskiego najważniejszym muzycznym zapisem oporu lat 80.`,
+    trivia: [
+      'Pieśń „Mury” oparto na „L’Estaca” katalońskiego barda Lluísa Llacha.',
+      'Płytę „Pamiątki” nagrał nielegalnie w studiu państwowej telewizji, przy okazji pracy nad muzyką filmową.',
+    ],
     resources: [
       {
         id: 'gintrowski-bard-culture',
@@ -16758,20 +16764,23 @@ To jeden z najlepszych przykładów tego, jak PRL potrafił wykorzystać autenty
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wroclaw-KardynalKominek.jpg?width=800',
     imageCaption: 'Pomnik kardynała Bolesława Kominka, autora Orędzia, we Wrocławiu (fot. współczesna)',
     content: `## Kontekst
-W 1965 roku, na zakończenie Soboru Watykańskiego II, biskupi polscy wystosowali orędzie do biskupów niemieckich, zapraszając ich na obchody Milenium Chrztu Polski.
+List wystosowano 18 listopada 1965 roku w Rzymie, pod koniec Soboru Watykańskiego II. Formalnie było to zaproszenie episkopatu Niemiec na obchody Milenium Chrztu Polski w 1966 roku. Głównym autorem był abp Bolesław Kominek, późniejszy metropolita wrocławski, który jako Ślązak od razu napisał tekst po niemiecku. W redakcji uczestniczyli m.in. prymas Stefan Wyszyński i abp Karol Wojtyła.
 
-## Słynne słowa
-List zawierał historyczne zdanie: „Udzielamy przebaczenia i prosimy o przebaczenie”. Był odważnym gestem pojednania z narodem niemieckim zaledwie 20 lat po wojnie.
+## Treść
+Orędzie przypominało tysiąc lat sąsiedztwa – od chrystianizacji i św. Jadwigi Śląskiej po zabory i niemiecką okupację, nazwaną „aktem totalnego zniszczenia i wytępienia”. Biskupi poruszyli sprawę granicy na Odrze i Nysie oraz los wysiedlonych Niemców. Kulminacją było zdanie „udzielamy wybaczenia i prosimy o nie”, cytowane potem jako „przebaczamy i prosimy o przebaczenie”.
+
+## Odpowiedź z Niemiec
+Biskupi niemieccy odpowiedzieli 5 grudnia 1965 roku listem utrzymanym w tonie dyplomatycznym. Przyjęli zaproszenie, ale uniknęli jasnego stanowiska w sprawie granicy. Kominek przyznawał później, że wyciągnięta ręka „nie została spontanicznie ujęta”, a chłodna odpowiedź ułatwiła zadanie propagandzie.
 
 ## Reakcja władz
-Komunistyczne władze rozpętały kampanię nienawiści przeciw biskupom, oskarżając ich o zdradę i „wtrącanie się” do polityki zagranicznej. Hasło „Nie przebaczamy” pojawiało się na transparentach.
-
-## Znaczenie polityczne
-Władze obawiały się autorytetu Kościoła i wykorzystały orędzie do nagonki, m.in. odmawiając prymasowi Wyszyńskiemu paszportu. Konflikt zaostrzył napięcia państwo–Kościół.
+Kierownictwo PZPR uznało, że słowa o przebaczeniu Niemcom dwadzieścia lat po wojnie pozwolą podważyć autorytet Kościoła. Prasa prowadziła kampanię oskarżającą biskupów o zdradę i uprawianie własnej polityki zagranicznej, w zakładach pracy organizowano wiece i rezolucje, a na transparentach pojawiało się hasło „Nie przebaczamy”. Prymasowi Wyszyńskiemu odmówiono paszportu, a konflikt zaciążył na roku 1966, w którym kościelne obchody Milenium rywalizowały z państwowymi obchodami Tysiąclecia Państwa Polskiego.
 
 ## Dziedzictwo
-Orędzie biskupów uznawane jest dziś za jeden z fundamentów pojednania polsko-niemieckiego i wybitny akt moralnej odwagi Kościoła.`,
-    trivia: ['Zawierało słynne słowa o przebaczeniu i prośbie o przebaczenie.', 'Władze rozpętały przeciw biskupom kampanię propagandową.'],
+W krótkiej perspektywie orędzie kosztowało Kościół falę ataków i nieufność części wiernych. W dłuższej uznawane jest za początek dialogu polsko-niemieckiego i jeden z najważniejszych kroków ku pojednaniu obu narodów.`,
+    trivia: [
+      'Abp Bolesław Kominek napisał tekst orędzia od razu po niemiecku.',
+      'Biskupi niemieccy odpowiedzieli chłodno i uniknęli stanowiska w sprawie granicy na Odrze i Nysie.',
+    ],
     resources: [
       {
         id: 'ob-1',
@@ -22358,19 +22367,22 @@ Syrena stała się bohaterką dowcipów i zarazem obiektem sentymentu. Dla pokol
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Violetta%20Villas.jpg?width=800',
     imageCaption: 'Violetta Villas – piosenkarka o fenomenalnym, wielooktawowym głosie.',
     content: `## Głos
-Violetta Villas, właściwie Czesława Gospodarek (1938–2011), dysponowała sopranem koloraturowym o rozszerzonej skali. Śpiewała repertuar estradowy, operowy i operetkowy, a jej możliwości wokalne uchodziły za zjawisko w skali światowej.
+Violetta Villas, właściwie Czesława Gospodarek z domu Cieślak (1938–2011), urodziła się w Belgii w rodzinie polskiego górnika. W 1946 roku rodzina wróciła do kraju i zamieszkała w Lewinie Kłodzkim. Śpiewu uczyła się w szkołach muzycznych w Szczecinie, Wrocławiu i Warszawie. Miała słuch absolutny i sopran koloraturowy o rozszerzonej skali; warunki zapowiadały karierę operową, ale wybrała estradę.
 
-## Kariera zagraniczna
-W latach 60. występowała w Las Vegas, Paryżu i innych ośrodkach zachodnich, co dla artystki z PRL było przypadkiem wyjątkowym. Otrzymywała propozycje kontraktów, których przyjęcie oznaczałoby jednak pozostanie za granicą.
+## Paryż i Las Vegas
+Latem 1966 roku wystąpiła w paryskiej Olympii w polskim programie rewiowym, a stamtąd trafiła do Las Vegas. Od grudnia 1966 roku przez trzy sezony śpiewała w rewii „Casino de Paris” – najpierw jako druga gwiazda, potem jako główna artystka wieczoru – w repertuarze od „Strangers in the Night” po arie operowe. Amerykańska prasa pisała o „głosie ery atomowej”. Dla piosenkarki z PRL był to przypadek wyjątkowy.
 
 ## Powrót
-Zdecydowała się wrócić do kraju, co zamknęło jej międzynarodową drogę. W Polsce była gwiazdą estrady, ale w skali nieporównywalnej z możliwościami, jakie dawał rynek zachodni.
+Pod koniec 1969 roku wróciła do Polski. Zagrała w „Dzięciole” Jerzego Gruzy, wyjeżdżała jeszcze na występy do Australii, Tokio czy Rio de Janeiro i na trasy polonijne, ale pozycji z Las Vegas już nie odbudowała. Krytyka bywała bezlitosna: jej telewizyjny program rewiowy recenzent „Sztandaru Młodych” nazwał „kiczem nad kicze”, nieprzystającym do socjalistycznej rzeczywistości.
+
+## Kłopoty
+W 1976 roku, po trasie polonijnej, została w Chicago bez wymaganej zgody na dłuższy pobyt, co wywołało w kraju skandal; po powrocie jej trasę koncertową przerwano po kilku występach. Pod koniec lat 70. popadła w ubóstwo, a na scenę wróciła w rewii warszawskiego Teatru Syrena.
 
 ## Legenda
-Ekscentryczny wizerunek sceniczny i późniejsze samotne życie w otoczeniu zwierząt uczyniły z niej postać obrosłą anegdotą. Za tą warstwą kryje się jednak jeden z najbardziej niezwykłych głosów w historii polskiej muzyki.`,
+Ekscentryczny wizerunek i późniejsze samotne życie w Lewinie Kłodzkim w otoczeniu zwierząt uczyniły z niej postać obrosłą anegdotą. Za tą warstwą kryje się jednak jeden z najbardziej niezwykłych głosów w historii polskiej estrady.`,
     trivia: [
-      'Występowała w Las Vegas, co dla artystki z PRL było przypadkiem wyjątkowym.',
-      'Powrót do kraju zamknął jej międzynarodową karierę.',
+      'Przez trzy sezony występowała w Las Vegas w rewii „Casino de Paris”, ostatecznie jako główna gwiazda wieczoru.',
+      'Urodziła się w Belgii i mówiła biegle po francusku, co ułatwiło jej start na Zachodzie.',
     ],
     resources: [
       {
@@ -24209,21 +24221,21 @@ Oranżada wróciła po latach jako produkt sprzedawany właśnie na wspomnieniu:
     yearEnd: 1989,
     summary: 'Jednoślady – tańsze od auta motocykle i motorowery (WSK, Junak, Komar, Romet) – były ważnym środkiem transportu w PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2016_Motocykl_WSK_125_1.jpg?width=800',
-    imageCaption: 'WSK 125 Kos – najpopularniejszy motocykl PRL',
+    imageCaption: 'WSK 125 Kos – jeden z ostatnich modeli motocykli ze Świdnika (1979–1985)',
     content: `## Pojazd dostępny
-Zanim samochód stał się osiągalny, podstawowym pojazdem indywidualnym był motocykl albo motorower. Kosztował ułamek ceny auta, nie wymagał garażu i był realną alternatywą dla dojazdów do pracy.
+Zanim samochód stał się osiągalny dla przeciętnej rodziny, podstawowym pojazdem indywidualnym był motocykl albo motorower. Kosztował ułamek ceny auta, nie wymagał garażu i pozwalał dojechać do pracy tam, gdzie autobus kursował rzadko.
 
 ## Marki
-Produkowano SHL i Junaka, a w Kielcach oraz Bydgoszczy powstawały kolejne modele. Najpopularniejsze były jednak motorowery Komar i Romet – tanie, proste i dostępne dla młodzieży bez prawa jazdy w dzisiejszym rozumieniu.
+Motocykle SHL produkowano w Kielcach, a Warszawska Fabryka Motocykli wytwarzała WFM i skuter Osa. Szczecińska Fabryka Motocykli budowała Junaka – ciężki motocykl o pojemności 350 cm³, marzenie wielu młodych mężczyzn przełomu lat 50. i 60. Z Bydgoszczy pochodziły motorowery Komar, wytwarzane w kolejnych wersjach w latach 1960–1983: lekkie, proste i spalające około dwóch litrów mieszanki na sto kilometrów.
 
 ## WSK
-Motocykle WSK ze Świdnika stały się synonimem taniego pojazdu użytkowego: jeździły po wsiach, wożąc ludzi, narzędzia i towar. Ich prostota oznaczała, że naprawy wykonywano samodzielnie, często improwizowanymi metodami.
+Najliczniejsze były motocykle WSK ze Świdnika, produkowane od 1955 roku w zakładach lotniczych. Samych odmian podstawowego modelu 125 cm³ zbudowano ponad półtora miliona. Lepiej wyposażone od warszawskiej konkurencji, przyczyniły się do zamknięcia produkcji motocykli w WFM. WSK-i jeździły po wsiach, wożąc ludzi, narzędzia i towar, a naprawiano je samodzielnie, często improwizowanymi metodami. Modele z lat 70. dostały ptasie nazwy: Gil, Bąk, Lelek i Kos.
 
 ## Koniec epoki
-Wraz z upowszechnieniem Malucha w latach 70. motocykl przestał być pierwszym wyborem i przesunął się w stronę sportu i rekreacji. Wcześniej jednak przez dwie dekady to on, a nie samochód, oznaczał w Polsce prywatną mobilność.`,
+Wraz z upowszechnieniem Fiata 126p w latach 70. motocykl przestał być pierwszym wyborem i przesunął się w stronę sportu i rekreacji. Ostatni egzemplarz WSK zjechał z taśmy 5 listopada 1985 roku. Wcześniej jednak przez dwie dekady to jednoślad, a nie samochód, oznaczał w Polsce prywatną mobilność.`,
     trivia: [
-      'Motocykl kosztował ułamek ceny samochodu i nie wymagał garażu, więc był pierwszym pojazdem indywidualnym.',
-      'Motocykle WSK ze Świdnika jeździły po wsiach, wożąc ludzi, narzędzia i towar.',
+      'Ostatni motocykl WSK zjechał z taśmy w Świdniku 5 listopada 1985 roku.',
+      'Motorower Komar spalał około dwóch litrów mieszanki na sto kilometrów.',
     ],
     resources: [
       {
@@ -26236,19 +26248,22 @@ Z czasem do duetu dołączyła Tola – postać dziewczynki wprowadzona po uwaga
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bielsko-Bia%C5%82a%2C%20Reksio%20i%20fontanna.jpg?width=800',
     imageCaption: 'Pomnik Reksia w Bielsku-Białej (fot. współczesna)',
     content: `## Serial
-„Reksio” powstawał w latach 1967–1990 w Studiu Filmów Rysunkowych w Bielsku-Białej, w reżyserii i według scenariusza Lechosława Marszałka. To jeden z najdłużej realizowanych polskich seriali animowanych.
+„Reksio” powstawał w latach 1967–1990 w Studiu Filmów Rysunkowych w Bielsku-Białej. Twórcą serii był Lechosław Marszałek, reżyser i scenarzysta pierwszych odcinków. Łącznie zrealizowano 65 odcinków, zwykle 8–10-minutowych.
 
-## Bohater
-Tytułowy pies w każdym odcinku mierzy się z czymś nowym: zawodem, który chce wykonywać, porą roku, zwierzęciem albo przedmiotem. Nie mówi – cała narracja opiera się na obrazie i muzyce, co czyniło serial zrozumiałym bez tłumaczenia.
+## Pies z protestu
+Marszałek współtworzył wcześniej „Bolka i Lolka”. Gdy koledzy wymyślili cykl rozgrywający się na Dzikim Zachodzie, odszedł od serii – nie chciał robić filmów, w których dzieci bawią się bronią. Nowego bohatera wzorował na własnej suczce, foksterierze Troli. Krótki film „Reksio poliglota” zdobył nagrodę na festiwalu w Teheranie, a sukces przerodził się w serial.
 
-## Eksport
-Właśnie brak dialogów sprawił, że „Reksio” sprzedawał się za granicę łatwiej niż produkcje wymagające dubbingu. Polska animacja dla dzieci była jednym z nielicznych towarów kulturalnych, które PRL realnie eksportował.
+## Bohater bez słów
+W każdym odcinku Reksio mierzy się z czymś nowym: zawodem, który chce wykonywać, porą roku, zwierzęciem – najczęściej ptakiem – albo przedmiotem. Nie mówi; narracja opiera się na obrazie i muzyce, dzięki czemu serial był zrozumiały bez tłumaczenia i emitowano go również za granicą, m.in. w ZSRR.
+
+## Rozwój
+Pierwsze odcinki miały skromniejszą grafikę, a pies nosił obrożę. Czołówkę wprowadzono dopiero w 1972 roku, w odcinku „Reksio strażak”; wraz z popularnością produkcja przyspieszyła i nad serią pracowało kilku reżyserów. W 1987 roku powstał drugi cykl – „Reksio i ptaki”.
 
 ## Bielsko-Biała
-Studio Filmów Rysunkowych uczyniło z Bielska-Białej ośrodek animacji porównywalny z łódzkim Se-Ma-Forem. Powstały tam także „Bolek i Lolek” – druga seria, która przez dekady definiowała polską dobranockę.`,
+Studio Filmów Rysunkowych uczyniło z Bielska-Białej jeden z głównych ośrodków polskiej animacji – obok „Reksia” powstawał tam „Bolek i Lolek”. Dziś Reksio ma w mieście pomnik z brązu, a w 2016 roku Poczta Polska wydała znaczki z jego wizerunkiem.`,
     trivia: [
-      'Serial realizowano przez ponad dwadzieścia lat, od 1967 do 1990 roku.',
-      'Brak dialogów sprawił, że sprzedawał się za granicę łatwiej niż produkcje wymagające dubbingu.',
+      'Lechosław Marszałek wzorował Reksia na swojej suczce, foksterierze o imieniu Trola.',
+      'Marszałek zaczął serię po odejściu od „Bolka i Lolka”, bo nie chciał robić odcinków, w których dzieci bawią się bronią.',
     ],
     resources: [
       {
@@ -27479,24 +27494,30 @@ Otwarcie trasy stało się jednym z najczęściej pokazywanych obrazów odbudowy
     category: 'kultura',
     tags: ['muzyka', 'rock progresywny', 'jazz-rock', 'Śląsk'],
     yearStart: 1971,
-    yearEnd: 1989,
+    yearEnd: 1980,
     summary: 'Czołowy polski zespół rocka progresywnego, założony w 1971 przez Józefa Skrzeka; słynny z rozbudowanych, improwizowanych, transowych koncertów.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jozef%20Skrzek.jpg?width=800',
     imageCaption: 'Józef Skrzek – lider i multiinstrumentalista SBB.',
-    content: `## Zespół
-SBB założył w 1971 roku w Siemianowicach Śląskich Józef Skrzek. Skrót oznaczał najpierw Silesian Blues Band, potem rozwinięto go jako Szukaj, Burz, Buduj. Trzon składu tworzyli Skrzek, Antymos Apostolis i Jerzy Piotrowski.
+    content: `## Początki
+Zespół założył w 1971 roku w Siemianowicach Śląskich Józef Skrzek, wcześniej muzyk Breakoutu. Pierwszy skład tworzyli Skrzek (gitara basowa, klawisze, śpiew), gitarzysta Apostolis Anthimos i perkusista Jerzy Piotrowski. Nazwa była skrótem od Silesian Blues Band.
 
-## Muzyka
-Zespół przeszedł drogę od bluesa i jazz-rocka do rocka progresywnego. Koncerty opierały się w dużej mierze na improwizacji, a utwory trwały po kilkanaście minut – formuła odległa od piosenki festiwalowej obowiązującej na estradzie.
+## Z Niemenem
+Jesienią 1971 roku muzyków dostrzegł Czesław Niemen. Jako Grupa Niemen nagrali z nim cztery albumy – dwa w Polsce i dwa w RFN – i grali razem do lata 1973. Dla młodych instrumentalistów była to szkoła zawodowego grania i pierwsza droga na zachodnie sceny.
+
+## Szukaj, Burz, Buduj
+Po rozstaniu z Niemenem opiekę nad zespołem przejął Franciszek Walicki, który skrócił nazwę do SBB i dopisał do niej motto „Szukaj, Burz, Buduj”. Debiutancki album, nagrany na koncertach w warszawskiej Stodole w kwietniu 1974 roku, rozszedł się błyskawicznie – na czarnym rynku osiągał cenę czterokrotnie wyższą od sklepowej. Kolejne płyty, „Nowy Horyzont”, „Pamięć” i „Ze słowem biegnę do ciebie”, prowadziły od improwizowanego jazz-rocka ku rozbudowanym suitom rocka progresywnego z brzmieniem organów Hammonda i syntezatorów Mooga.
 
 ## Zagranica
-SBB koncertowało w Europie Zachodniej i nagrywało dla zagranicznych wytwórni, grając między innymi jako support przed zespołami światowej czołówki. Dla polskiej grupy rockowej był to przypadek rzadki.
+SBB koncertowało w Czechosłowacji, NRD, RFN, Szwajcarii, krajach Beneluksu i Skandynawii. Płyty wydano w Czechosłowacji i NRD, a w RFN ukazały się „Follow My Dream” (1978) i „Welcome” (1979). Dla polskiej grupy rockowej była to skala wyjątkowa.
 
-## Znaczenie
-Zespół udowodnił, że w PRL można było uprawiać muzykę ambitną i instrumentalnie wymagającą, znajdując dla niej publiczność. Jest jedną z nielicznych polskich grup tamtej epoki rozpoznawanych za granicą.`,
+## Teksty z niespodzianką
+Wiele tekstów dla zespołu napisał pod pseudonimem Julian Matej Romuald Skopowski – jak ustalono po latach, pracownik Służby Bezpieczeństwa. Skrzek nic o tym nie wiedział, a SB nie wiedziała, że jej funkcjonariusz pisze wiersze dla obserwowanego zespołu.
+
+## Koniec
+Wyczerpany dziesięcioma latami nieustannych tras zespół rozwiązał się w 1980 roku, po nagraniu płyty „Memento z banalnym tryptykiem”. Skrzek kontynuował karierę solową, Anthimos grał m.in. z Dżemem, a Piotrowski z Kombi. SBB wracało na scenę dopiero w latach 90.`,
     trivia: [
-      'Skrót rozwijano najpierw jako Silesian Blues Band, a później jako Szukaj, Burz, Buduj.',
-      'Koncerty opierały się na improwizacji, a utwory trwały po kilkanaście minut.',
+      'Debiutancki album z 1974 roku osiągał na czarnym rynku cenę czterokrotnie wyższą od sklepowej.',
+      'Zanim stali się SBB, muzycy przez dwa lata grali jako zespół Czesława Niemena.',
     ],
     resources: [
       {
@@ -29321,19 +29342,22 @@ Amatorska fotografia okazała się jednym z najcenniejszych źródeł do histori
     yearStart: 1971,
     summary: 'Barwna komedia Tadeusza Chmielewskiego (1971) o jednym pechowym poniedziałku w Warszawie, śledząca splatające się losy kilkunastu bohaterów.',
     content: `## Film
-Komedia Tadeusza Chmielewskiego z 1971 roku. Akcja obejmuje jeden pechowy poniedziałek w Warszawie, a fabułę tworzy kilkanaście splatających się wątków z udziałem dziesiątek postaci.
+Barwna komedia Tadeusza Chmielewskiego, twórcy „Jak rozpętałem drugą wojnę światową”. Zdjęcia kręcono jesienią 1970 roku w różnych dzielnicach Warszawy, premiera odbyła się 27 sierpnia 1971 roku. Autorem zdjęć był Mieczysław Jahoda, muzykę napisał Jerzy „Duduś” Matuszkiewicz.
+
+## Pomysł z niczego
+Chmielewski wspominał, że gdy nowy szef kinematografii zapytał go o kolejny projekt, zaimprowizował: film jak książka telefoniczna, z tyloma postaciami, ile zmieści pełny metraż. Scenariusz zatwierdzono następnego dnia – zanim reżyser w ogóle zaczął go pisać.
 
 ## Konstrukcja
-Film jest komedią zbiorową bez jednego bohatera: włoski turysta, kierowca, urzędnicy, uczniowie i milicjanci mijają się, gubią przedmioty i przekazują sobie kłopoty. Każdy epizod domyka się dopiero na końcu.
+Akcja toczy się 15 września, w pechowy poniedziałek. Filmu nie niesie jeden bohater: włoski przemysłowiec przyjeżdża podpisać kontrakt i gubi się w obcym mieście, milicjant kierujący ruchem musi pilnować synka, bo przedszkole zamknięto z powodu różyczki, pracownik gminnej spółdzielni na delegacji szuka części do kombajnu i kłóci się z taksówkarzem, a Bohdan Łazuka, grający samego siebie, wraca po nocy do domu przez budzącą się Warszawę. Wątki mijają się i splatają aż do finału.
 
 ## Warszawa
-Największą wartością filmu jest dziś zapis miasta: ulice, sklepy, komunikacja, sposób ubierania się i mówienia. Powstał niezamierzony dokument codzienności początku lat 70. – tuż przed dekadą Gierka.
+Dziś film jest także niezamierzonym dokumentem: ulice, sklepy, taksówki, stroje i sposób mówienia z ostatnich miesięcy rządów Gomułki. W kinach obejrzały go dwa miliony widzów, a w 2012 roku wrócił na ekrany w cyfrowej rekonstrukcji.
 
 ## Podwójne dno
-Komedia śmieje się z biurokracji, bałaganu i pozorowanej pracy, ale robi to w tonie życzliwym, kończąc pogodnie. Po latach zwracano uwagę, że taki ton był warunkiem przepuszczenia takiej satyry – wolno było wyśmiewać niesprawność, nie wolno wskazywać jej przyczyn.`,
+Komedia śmieje się z biurokracji, bałaganu i braków w zaopatrzeniu, ale życzliwie i z pogodnym zakończeniem. Po latach zwracano uwagę na jej ideologiczną wymowę: wolno było wyśmiewać niesprawność, pod warunkiem że nie wskazywało się jej przyczyn.`,
     trivia: [
-      'Film nie ma jednego bohatera – to kilkanaście wątków splatających się w ciągu jednego dnia.',
-      'Dziś jest przede wszystkim zapisem wyglądu Warszawy z początku lat 70.',
+      'Scenariusz zatwierdzono, zanim Tadeusz Chmielewski zaczął go pisać.',
+      'Bohdan Łazuka zagrał w filmie samego siebie, wracającego rano do domu przez Warszawę.',
     ],
     resources: [
       {
@@ -31545,19 +31569,22 @@ Mimo to spółdzielczość była elementem gospodarki najbliższym drobnej przed
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wpinka_PRON.jpg?width=800',
     imageCaption: 'Wpinka Patriotycznego Ruchu Odrodzenia Narodowego',
     content: `## Po co powstał
-PRON utworzono w 1982 roku, w czasie stanu wojennego, w miejsce dawnego Frontu Jedności Narodu. Miał być platformą „porozumienia narodowego” skupiającą PZPR, stronnictwa satelickie, organizacje katolickie i osoby bezpartyjne.
+Deklarację o utworzeniu ruchu podpisały 20 lipca 1982 roku PZPR, ZSL i SD oraz koncesjonowane organizacje chrześcijańskie: PAX, ChSS i PZKS. Początkowo działał pod nazwą Obywatelskich Komitetów Ocalenia Narodowego. PRON zastąpił Front Jedności Narodu i miał wykazać, że władza stanu wojennego ma szerokie poparcie społeczne.
 
-## Jak działał
-Ruch firmował kampanie wyborcze, apele i uroczystości, wystawiał kandydatów do rad narodowych i Sejmu, wydawał własną prasę. Do udziału starano się pozyskać osoby o pewnym autorytecie, by uwiarygodnić przedsięwzięcie.
+## Ludzie
+Przewodniczącym – od pierwszego posiedzenia Tymczasowej Rady Krajowej 17 grudnia 1982 roku aż do końca – był pisarz Jan Dobraczyński, działacz PAX-u. Kongres w maju 1983 roku powołał 400-osobową Radę Krajową. W lipcu tego roku zapis o PRON wpisano do Konstytucji PRL w miejsce Frontu Jedności Narodu.
 
-## Odbiór
-Społecznie PRON pozostał tworem sztucznym. Środowiska opozycyjne i znaczna część duchowieństwa odmówiły udziału, a udział w jego strukturach traktowano jako deklarację poparcia dla władzy stanu wojennego. Frekwencja i entuzjazm miały charakter urzędowy.
+## Władza nad listami
+Pozycja konstytucyjna dawała ruchowi decydujący głos przy układaniu list wyborczych do rad narodowych i Sejmu – w praktyce bez zgody PRON nie można było kandydować. Firmował też kampanie, apele i uroczystości, a w 1986 roku powołał Ogólnopolski Komitet Grunwaldzki.
+
+## Członkostwo z urzędu
+Wiele osób należało do PRON bez własnej wiedzy, bo przyjmowano całe organizacje decyzją ich władz. Kto działał w kilku, bywał członkiem wielokrotnie, więc formalne liczby nie miały nic wspólnego z rzeczywistym poparciem. Organizacje zawieszone w stanie wojennym szybciej odzyskiwały możliwość działania, jeśli zgłosiły akces do ruchu. Osobom rozpoznawalnym proponowano przystąpienie, sugerując, że odmowa może zaszkodzić karierze; środowiska opozycyjne i znaczna część duchowieństwa traktowały udział jako opowiedzenie się po stronie władzy.
 
 ## Koniec
-Organizacja rozwiązała się w 1989 roku, gdy realne rozmowy z opozycją przeniosły się do Okrągłego Stołu – miejsca, w którym PRON nie odgrywał już żadnej roli.`,
+Po Okrągłym Stole i wyborach czerwcowych PRON stracił rację bytu. Zakończył działalność 8 listopada 1989 roku.`,
     trivia: [
-      'PRON zastąpił Front Jedności Narodu, powielając jego konstrukcję: jedna lista, wielu firmujących.',
-      'Deklarację przystąpienia do PRON traktowano w środowiskach opozycyjnych jako opowiedzenie się po stronie władzy stanu wojennego.',
+      'Całe organizacje wstępowały do PRON decyzją swoich władz, często bez wiedzy członków.',
+      'W 1983 roku zapis o PRON wpisano do Konstytucji PRL w miejsce Frontu Jedności Narodu.',
     ],
     resources: [
       {
@@ -33996,7 +34023,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1980, event: 'Pierwsze zimowe wejście na Mount Everest – Cichy i Wielicki', category: 'społeczeństwo', entryId: 'himalaizm-polski' },
   { year: 1980, event: 'I Ogólnopolski Przegląd Muzyki Młodej Generacji w Jarocinie', category: 'kultura', entryId: 'jarocin-festiwal' },
   { year: 1981, event: 'Powstaje Republika – nowa fala Grzegorza Ciechowskiego', category: 'kultura', entryId: 'republika-zespol' },
-  { year: 1981, event: 'Premiera programu „Mury” Kaczmarskiego i Gintrowskiego', category: 'kultura', entryId: 'gintrowski-bard' },
+  { year: 1979, event: 'Kaczmarski, Gintrowski i Łapiński przygotowują program „Mury”', category: 'kultura', entryId: 'gintrowski-bard' },
   { year: 1982, event: 'Start Listy Przebojów Programu Trzeciego', category: 'kultura', entryId: 'lista-przebojow-trojki' },
   { year: 1983, event: 'Debiut Lady Pank – „Kryzysowa narzeczona”', category: 'kultura', entryId: 'lady-pank' },
   { year: 1986, event: 'Wanda Rutkiewicz pierwszą kobietą na szczycie K2', category: 'społeczeństwo', entryId: 'wanda-rutkiewicz' },
@@ -34072,7 +34099,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1982, event: 'Polska zajmuje 3. miejsce na mundialu w Hiszpanii; gwiazdą Zbigniew Boniek', category: 'społeczeństwo', entryId: 'mundial-1982' },
   { year: 1983, event: 'Debiut Bajmu – album „Bajm” z przebojem „Józek, nie daruję ci tej nocy”', category: 'kultura', entryId: 'bajm-zespol' },
   { year: 1985, event: 'Zbigniew Boniek zdobywa z Juventusem Puchar Europy', category: 'społeczeństwo', entryId: 'boniek-zbigniew' },
-  { year: 1961, event: 'Violetta Villas podbija estradę swoim wielooktawowym głosem', category: 'kultura', entryId: 'violetta-villas' },
+  { year: 1966, event: 'Violetta Villas zaczyna trzy sezony w rewii „Casino de Paris” w Las Vegas', category: 'kultura', entryId: 'violetta-villas' },
   { year: 1968, event: 'Irena Santor – przebój „Powrócisz tu”', category: 'kultura', entryId: 'irena-santor' },
   { year: 1969, event: 'Skaldowie nagrywają „Medytacje wiejskiego listonosza”', category: 'kultura', entryId: 'skaldowie' },
   { year: 1982, event: 'Lombard wydaje przebój „Przeżyj to sam”', category: 'kultura', entryId: 'lombard-zespol' },
@@ -34145,7 +34172,8 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1971, event: 'Decyzja o odbudowie Zamku Królewskiego w Warszawie', category: 'społeczeństwo', entryId: 'zamek-krolewski' },
   { year: 1956, event: 'Powstanie kabaretu Piwnica pod Baranami w Krakowie', category: 'kultura', entryId: 'piwnica-pod-baranami' },
   { year: 1965, event: 'Premiera „Rękopisu znalezionego w Saragossie” Wojciecha Hasa', category: 'kultura', entryId: 'rekopis-znaleziony-w-saragossie' },
-  { year: 1974, event: 'SBB – czołowy polski zespół rocka progresywnego', category: 'kultura', entryId: 'sbb-zespol' },
+  { year: 1974, event: 'SBB nagrywa debiutancki album na koncertach w warszawskiej Stodole', category: 'kultura', entryId: 'sbb-zespol' },
+  { year: 1985, event: 'Ostatni motocykl WSK zjeżdża z taśmy w Świdniku', category: 'gospodarka', entryId: 'motocykle-prl' },
   { year: 1972, event: 'Władysław Komar zdobywa złoto olimpijskie w pchnięciu kulą (Monachium)', category: 'społeczeństwo', entryId: 'wladyslaw-komar' },
   { year: 1974, event: 'Halina Frąckowiak – przebój „Bądź gotowy dziś do drogi”', category: 'kultura', entryId: 'halina-frackowiak' },
   { year: 1977, event: 'Premiera „Barw ochronnych” Krzysztofa Zanussiego', category: 'kultura', entryId: 'barwy-ochronne' },
