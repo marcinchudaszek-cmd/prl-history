@@ -15404,21 +15404,24 @@ Zamiast konspiracji ruch wybierał jawność: happeningi, głodówki, podpisywan
     summary: 'Dotowane przez państwo, tanie bary samoobsługowe serwujące proste dania mączne i mleczne – symbol PRL-owskiej gastronomii dla mas.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bar_mleczny_%C5%81%C3%B3dzki_al._%C5%9Awierczewskiego_82_w_Warszawie_ok._1971.jpg?width=800',
     imageCaption: 'Bar mleczny „Łódzki” przy alei Świerczewskiego w Warszawie, około 1971',
-    trivia: ['Sztućce bywały przywiązane łańcuszkami do stołów, by zapobiec ich ginięciu.', 'Charakterystyczne tabliczki przypominały: „Prosimy nie zostawiać resztek”.'],
-    content: `## Idea
-Bary mleczne to tanie, dotowane przez państwo jadłodajnie, dostępne dla najuboższych. Serwowały proste, bezmięsne dania: pierogi, naleśniki, kluski, zupy mleczne i kompoty.
+    trivia: [
+      'Pierwszy bar mleczny otwarto w Warszawie już w 1896 roku – na długo przed PRL.',
+      'Łyżki na łańcuchach i przykręcone talerze to karykatura z „Misia” Barei, a nie standardowe wyposażenie barów.',
+    ],
+    content: `## Starsze niż PRL
+Pierwszą jadłodajnię tego typu, mleczarnię „Nadświdrzańską”, otworzył w Warszawie w 1896 roku ziemianin i hodowca bydła Stanisław Dłużewski. Pomysł szybko się przyjął, a w kryzysie lat 30. rozporządzenia regulowały wielkość, skład i ceny porcji, by jedzenie było dostępne dla uboższych.
 
-## Wystrój i obyczaje
-Charakterystyczny był skromny wystrój, lastrykowe podłogi, aluminiowe sztućce przywiązane łańcuszkami i tabliczki „Prosimy nie zostawiać resztek”. Obsługa za ladą wydawała posiłki na bony lub paragony.
-
-## Funkcja społeczna
-Bary mleczne karmiły studentów, robotników, emerytów i rodziny o niskich dochodach. Stanowiły element polityki socjalnej i były powszechnie obecne w miastach.
+## Społem
+W PRL bary mleczne przeżyły szczególnie intensywny rozwój. Większość należała do Spółdzielni Spożywców „Społem”, a ceny dań bywały trzykrotnie niższe niż w restauracjach. W samej Warszawie w 1972 roku działało ich 41. Karmiły studentów, robotników, emerytów i rodziny o niskich dochodach – były częścią polityki taniego wyżywienia.
 
 ## Menu
-Kuchnia była prosta i tania: leniwe, ruskie pierogi, kasza, jajka sadzone, mleko, kefir, budyń. Mięso pojawiało się rzadko, zgodnie z ideą taniego wyżywienia.
+Nazwa pochodziła od przewagi dań mlecznych, ale jadłospis obejmował też potrawy z jajek, kasz i mąki: pierogi ruskie i leniwe, naleśniki, kluski, omlety, zupy mleczne i kompoty. Mięso pojawiało się rzadko. W latach 50. w niektórych barach można było dostać nawet piwo.
 
-## Znaczenie
-Bary mleczne stały się ikoną PRL-owskiej codzienności. Część przetrwała transformację jako element kulturowego dziedzictwa i nostalgii za epoką.`,
+## Wystrój
+Charakterystyczne były talerze i kubki z grubej ceramiki z niebieską obwódką, często wyszczerbione, aluminiowe sztućce, stoliki z laminatu bez obrusów i spawane z prętów krzesła. Przez słabą wentylację w sali unosił się zapach kuchni. Zamawiało się przy kasie, a posiłek odbierało z okienka.
+
+## Bareja i legenda
+Obraz przytwierdzonych do stołów talerzy i łyżek na łańcuchach utrwalił Stanisław Bareja w „Misiu”. To ironiczna, przejaskrawiona karykatura, a nie opis typowego baru – ale weszła do zbiorowej pamięci mocniej niż rzeczywistość. Część barów mlecznych przetrwała transformację, nadal wspierana dotacjami.`,
     resources: [
       {
         id: 'bm-1',
@@ -15862,20 +15865,23 @@ Ostatni numer ukazał się w styczniu 1990 roku, kilka tygodni po rozwiązaniu P
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zbigniew_Cybulski.jpg?width=800',
     imageCaption: 'Zbigniew Cybulski, 1960',
     content: `## Sylwetka
-Zbigniew Cybulski (1927–1967) był aktorem filmowym i teatralnym, najjaśniejszą gwiazdą polskiej szkoły filmowej, porównywaną do Jamesa Deana ze względu na buntowniczy styl i charyzmę.
+Zbigniew Cybulski (1927–1967) urodził się w Kniażem na Pokuciu. Wojnę spędził bez rodziców – ojciec, urzędnik MSZ, przedostał się do Francji, a matkę Sowieci wywieźli do Kazachstanu. Po wojnie zdał maturę w Dzierżoniowie, a w 1953 roku ukończył krakowską szkołę aktorską i zadebiutował w gdańskim Teatrze Wybrzeże.
+
+## Bim-Bom
+W Gdańsku razem z Bogumiłem Kobielą założył studencki teatr Bim-Bom – jedno z najciekawszych zjawisk odwilży, łączące poezję, groteskę i kabaret. Na ekranie debiutował niewielką rolą w „Pokoleniu” Andrzeja Wajdy (1954); krytycy już wtedy zauważali jego naturalność.
 
 ## Popiół i diament
-Rola Maćka Chełmickiego w „Popiele i diamencie” (1958) Andrzeja Wajdy przyniosła mu legendę. Ciemne okulary, dżinsy i nerwowa ekspresja uczyniły go symbolem powojennego pokolenia.
+Rola Maćka Chełmickiego w „Popiele i diamencie” (1958) przyniosła mu legendę. Grał żołnierza podziemia w ciemnych okularach i kurtce, współczesnego raczej widzom z 1958 roku niż realiom 1945 – i tym właśnie trafił do pokolenia. Krytycy porównywali go do Jamesa Deana.
 
-## Styl
-Cybulski wprowadził do polskiego kina nowy, naturalny styl gry – nerwowy, spontaniczny, daleki od teatralnej maniery. Stał się idolem młodzieży i ikoną mody.
+## Ucieczka od Maćka
+W kolejnych latach grał młodych buntowników w filmach „Koniec nocy” i „Pociąg”, a potem świadomie szukał innych typów postaci: w „Jak być kochaną” Wojciecha Hasa, „Rękopisie znalezionym w Saragossie” i „Salcie” Tadeusza Konwickiego. Publiczność i tak widziała w nim przede wszystkim Chełmickiego.
 
-## Tragiczna śmierć
-Zginął tragicznie w 1967 roku, wskakując do ruszającego pociągu na dworcu we Wrocławiu. Jego śmierć wstrząsnęła Polską i dopełniła legendy „aktora przeklętego”.
-
-## Znaczenie
-Cybulski pozostaje symbolem polskiej szkoły filmowej i jednym z najważniejszych aktorów w historii rodzimego kina; jego pamięci poświęcono nagrodę filmową.`,
-    trivia: ['Nazywano go polskim Jamesem Deanem.', 'Zginął w 1967 roku, wskakując do ruszającego pociągu.'],
+## Śmierć
+8 stycznia 1967 roku na dworcu we Wrocławiu, próbując wskoczyć do ruszającego pociągu, dostał się pod jego koła i zmarł w szpitalu. Miał 39 lat. Do jego legendy nawiązał Wajda w filmie „Wszystko na sprzedaż” (1968), a jego imię nosi nagroda dla młodych aktorów.`,
+    trivia: [
+      'Razem z Bogumiłem Kobielą założył w Gdańsku studencki teatr Bim-Bom.',
+      'Andrzej Wajda nawiązał do jego śmierci w filmie „Wszystko na sprzedaż” z 1968 roku.',
+    ],
     resources: [
       {
         id: 'cybulski-zbigniew-culture',
@@ -17888,21 +17894,24 @@ Instytut „Pomnik – Centrum Zdrowia Dziecka” działa do dziś i pozostaje j
     yearStart: 1972,
     yearEnd: 1989,
     summary: 'Kultowy niedzielny program telewizyjny dla dzieci i młodzieży; jego nieemitowanie 13 grudnia 1981 roku zwiastowało wprowadzenie stanu wojennego.',
-    trivia: ['13 grudnia 1981 roku zamiast „Teleranka” na ekranach pojawili się spikerzy w mundurach – tak wielu Polaków dowiedziało się o stanie wojennym.', 'Znakiem rozpoznawczym programu był rysunkowy kogucik w czołówce.'],
+    trivia: [
+      'Kogut z czołówki o dziewiątej wskakiwał na płot i piał – od 1974 roku w kolorowej animacji.',
+      'Po 13 grudnia 1981 roku „Teleranek” wrócił na antenę dopiero w marcu 1982 roku.',
+    ],
     content: `## Program
-„Teleranek” to emitowany od 1972 roku niedzielny poranny program dla dzieci i młodzieży. Łączył filmy, bajki, konkursy, reportaże i edukację, z charakterystycznym kogucikiem w czołówce.
+„Teleranek” nadawano od września 1972 roku w niedziele o 9:00. Twórcami byli Maciej Zimiński i Joanna Koenig, a jednym z prowadzących – Tadeusz Broś. Początkowo był godzinnym magazynem, który wchłonął wcześniejsze programy z tego pasma: „Zrób to sam” Adama Słodowego, „Niewidzialną rękę” i „Klub Pancernych”.
+
+## Kogut
+Symbolem programu był kogut zaprojektowany przez Joannę Zacharzewską. Od 1974 roku w kolorowej czołówce Studia Miniatur Filmowych biegł, o dziewiątej wskakiwał na płot i piał. Dla pokoleń dzieci ten obraz oznaczał początek niedzieli.
 
 ## Rytuał niedzieli
-Dla pokoleń dzieci PRL „Teleranek” był nieodłącznym elementem niedzielnego poranka – jednym z niewielu programów stworzonych specjalnie dla młodego widza.
+Filmy, seriale, konkursy, majsterkowanie i reportaże składały się na jeden z niewielu programów robionych specjalnie dla młodego widza. Stała godzina emisji sprawiała, że „Teleranek” wyznaczał rytm niedzielnego poranka w wielu domach.
 
 ## 13 grudnia 1981
-W niedzielny poranek 13 grudnia 1981 roku zamiast „Teleranka” pojawili się spikerzy w mundurach ogłaszający stan wojenny. Brak programu stał się symbolem tego dramatycznego dnia.
-
-## Telewizja dla dzieci
-Obok „Teleranka” telewizja PRL oferowała „Dobranocki” z bohaterami jak Bolek i Lolek, Reksio czy Miś Uszatek, które na trwałe weszły do kultury dziecięcej.
+W niedzielę 13 grudnia 1981 roku dzieci, które włączyły telewizor o dziewiątej, zamiast koguta zobaczyły przemówienie generała Wojciecha Jaruzelskiego ogłaszające stan wojenny. W kolejnych dniach „Dziennik Telewizyjny” prowadzili prezenterzy w mundurach. Program wrócił na antenę dopiero po trzech miesiącach, w marcu 1982 roku.
 
 ## Znaczenie
-„Teleranek” pozostaje symbolem dzieciństwa w PRL, a jego brak owego grudniowego poranka – jednym z najtrwalszych wspomnień początku stanu wojennego.`,
+Dla dzieci tamtego pokolenia brak „Teleranka” stał się synonimem stanu wojennego – często pierwszym, jaki zapamiętały, zanim zrozumiały, co się stało. Program przetrwał PRL i był nadawany do 2009 roku, a w 2016 roku wrócił na antenę.`,
     resources: [
       {
         id: 'ter-1',
@@ -23371,23 +23380,26 @@ Janusz Kruk zmarł nagle w 1992 roku, co zakończyło historię zespołu. Elżbi
     tags: ['muzyka', 'big-beat', 'pop', 'lata 60.'],
     yearStart: 1963,
     yearEnd: 1989,
-    summary: 'Jeden z czołowych zespołów big-beatowych lat 60., autor przebojów „Cóż wiemy o miłości” i „Krajobrazy”; w jego szeregach zaczynał Krzysztof Krawczyk.',
+    summary: 'Jeden z czołowych zespołów big-beatowych, łączący rock and rolla z folklorem słowiańskim; autor przebojów „Znamy się tylko z widzenia” i „Krajobrazy”, w jego składzie śpiewał Krzysztof Krawczyk.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zesp%C3%B3%C5%82_%22Trubadurzy%22_z_wokalistk%C4%85_Halin%C4%85_%C5%BBytkowiak_-_teledysk.jpg?width=800',
-    imageCaption: 'Trubadurzy na scenie z Krzysztofem Krawczykiem i Haliną Żytkowiak, 1972',
+    imageCaption: 'Trubadurzy na scenie w 1972 roku: Krzysztof Krawczyk, Halina Żytkowiak, Sławomir Kowalewski, Ryszard Poznakowski i Marian Lichtman',
     content: `## Zespół
-Trubadurzy powstali w Łodzi w 1963 roku. Obok Czerwonych Gitar i Skaldów zaliczani są do najważniejszych grup polskiego big-beatu, a ich największa popularność przypadła na przełom lat 60. i 70.
+Trubadurzy powstali w Łodzi w 1963 roku z inicjatywy Sławomira Kowalewskiego, który założył grupę razem z Krzysztofem Krawczykiem. Wkrótce dołączył perkusista i wokalista Marian Lichtman. Regularne występy w Estradzie Łódzkiej zaczęli w 1964 roku, a nazwę – początkowo The Troubadours – wymyślił gitarzysta Bogdan Borkowski. Obok Czerwonych Gitar i Skaldów zaliczani są do najważniejszych grup polskiego big-beatu.
+
+## Nowy początek
+W 1967 roku zespół na krótko się rozpadł. Wznowił działalność z Ryszardem Poznakowskim jako liderem i w nowych, barwnych strojach inspirowanych mundurami trubadurów i muszkieterów, zaprojektowanych przez Szymona Kobylińskiego. Pod koniec 1969 roku miejsce Poznakowskiego zajęła wokalistka, pianistka i flecistka Halina Żytkowiak.
 
 ## Brzmienie
-Ich znakiem rozpoznawczym było połączenie rock and rolla ze stylistyką ludowej muzyki wschodniosłowiańskiej: melodyka, harmonie wokalne i instrumentacja nawiązująca do folkloru. Ta fuzja odróżniała ich od zespołów naśladujących wzory zachodnie.
+W klasycznym okresie, między 1968 a 1976 rokiem, wypracowali brzmienie łączące rock and rolla ze stylistyką wschodniosłowiańskiej muzyki ludowej. Na tej fuzji oparte są największe przeboje: „Znamy się tylko z widzenia”, „Ej, Sobótka, Sobótka”, „Kasia” i „Krajobrazy”, a także „Przyjedź mamo na przysięgę”, nagrodzone w Opolu. Na płytach sięgali też po psychodelię, funk i rock progresywny.
 
-## Przeboje
-Największą rozpoznawalność zyskały „Znamy się tylko z widzenia” i „Przyjedź mamo na przysięgę”. Piosenki te przez dziesięciolecia grano w radiu i śpiewano przy okazjach rodzinnych.
+## Sukces
+Płyty „Krajobrazy”, „Ej, sobótka, sobótka”, „Kochana”, „Zaufaj sercu” i „Będziesz ty” zdobywały złote płyty. Zespół zagrał w dwóch filmach Andrzeja Wajdy – „Wszystko na sprzedaż” i „Polowaniu na muchy” – koncertował w ZSRR, Szwecji, Jugosławii, Mongolii i Wietnamie, a w 1972 roku wyjechał do Monachium jako reprezentacja polskiej kultury podczas igrzysk olimpijskich.
 
-## Miejsce w epoce
-Trubadurzy pokazują, że polski big-beat nie był wyłącznie kopiowaniem Zachodu. Sięgnięcie po folklor było zarazem wyborem artystycznym i praktycznym – muzyka o rodzimym rodowodzie łatwiej przechodziła przez sito instytucji estradowych.`,
+## Rozstania
+Po wyjeździe Lichtmana do Danii i rozpoczęciu solowej kariery przez Krawczyka grupa się rozpadła. Krawczyk wrócił jeszcze w 1976 roku na płytę „Znowu razem”, po czym odszedł definitywnie. Próby reaktywacji w latach 80. nie przywróciły dawnej pozycji.`,
     trivia: [
-      'Ich brzmienie łączyło rock and rolla ze stylistyką ludowej muzyki wschodniosłowiańskiej.',
-      'Sięgnięcie po folklor ułatwiało też przejście przez sito państwowych instytucji estradowych.',
+      'Zagrali w dwóch filmach Andrzeja Wajdy: „Wszystko na sprzedaż” i „Polowaniu na muchy”.',
+      'Stroje inspirowane mundurami trubadurów i muszkieterów zaprojektował dla nich Szymon Kobyliński.',
     ],
     resources: [
       {
@@ -23485,20 +23497,23 @@ Po 1989 roku ograniczyła występy i przez lata nie nagrywała, wracając okazjo
     summary: 'Masowy letni wypoczynek nad Bałtykiem – ośrodki FWP, dancingi i smażalnie ryb – jedno z głównych marzeń wakacyjnych Polaków.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mi%C4%99dzyzdroje%2C_Hotel_Posejdon_FWP_02.JPG?width=800',
     imageCaption: 'Hotel Posejdon w Międzyzdrojach, dawny ośrodek Funduszu Wczasów Pracowniczych (fot. współczesna)',
-    content: `## Wyjazd z przydziału
-Wczasy nad Bałtykiem organizowały zakłady pracy i Fundusz Wczasów Pracowniczych. O skierowaniu decydowała komisja socjalna, a odpłatność zależała od zarobków – wyjazd był świadczeniem, nie zakupem.
+    content: `## Fundusz
+Fundusz Wczasów Pracowniczych powołano ustawą z 4 lutego 1949 roku i podporządkowano związkom zawodowym. Miał monopol na organizację wypoczynku pracowników zakładów państwowych i uspołecznionych, a podlegały mu ośrodki w całym kraju. Obok niego działały ośrodki należące bezpośrednio do zakładów pracy.
 
-## Ośrodek
-Mieszkano w ośrodkach zakładowych: w domkach kempingowych albo pawilonach, z posiłkami o stałych porach w stołówce i turnusem trwającym zwykle dwa tygodnie. Program wypełniały wieczorki taneczne, konkursy i wycieczki.
+## Skierowanie
+Wczasów nie można było po prostu kupić – potrzebne było skierowanie. Rozdzielano je szczebel po szczeblu przez struktury związkowe, a na sezon letni i do najbardziej atrakcyjnych miejscowości, takich jak Międzyzdroje, przydzielały je pracownikom rady zakładowe. O tym, kto pojedzie, mogły decydować wolne miejsca, wcześniejsze wyjazdy, ale też opinia w zakładzie.
+
+## Turnus
+Podstawą były czternastodniowe wczasy zwykłe i rodzinne. Mieszkano w domach wczasowych, pawilonach albo domkach kempingowych, posiłki podawano o stałych porach w stołówce. Program uzupełniały wieczorki taneczne, konkursy, wycieczki i nieodłączne smażalnie ryb.
 
 ## Kwatery prywatne
-Obok obiegu państwowego działał prywatny: pokoje wynajmowane przez mieszkańców nadmorskich miejscowości. Dla wielu rodzin nad morzem był to jedyny legalny sposób zarobku, a dla wczasowiczów – sposób na wyjazd bez skierowania.
+Obok obiegu państwowego działał prywatny: pokoje i letnie domki wynajmowane przez mieszkańców nadmorskich miejscowości. Dla gospodarzy był to ważny dochód, a dla wczasowiczów sposób na wyjazd bez skierowania – za cenę mniejszej wygody i targowania się o stawkę.
 
 ## Bałtyk jako granica
-Morze było też granicą państwa, patrolowaną przez Wojska Ochrony Pogranicza. Plaża, na której wypoczywano, była jednocześnie pasem granicznym, a nocne przebywanie na niej bywało ograniczane.`,
+Morze było też granicą państwa, patrolowaną przez Wojska Ochrony Pogranicza. Plaża, na której w dzień wypoczywano, stanowiła jednocześnie pas graniczny, a przebywanie na niej nocą bywało ograniczane. Wczasowicz odpoczywał więc na skraju państwa, którego granice były szczelnie strzeżone.`,
     trivia: [
-      'O skierowaniu na wczasy decydowała komisja socjalna, a odpłatność zależała od zarobków.',
-      'Plaża była jednocześnie pasem granicznym patrolowanym przez Wojska Ochrony Pogranicza.',
+      'Fundusz Wczasów Pracowniczych powołano ustawą z 4 lutego 1949 roku.',
+      'Skierowania do najatrakcyjniejszych miejscowości w sezonie rozdzielały między pracowników rady zakładowe.',
     ],
     resources: [
       {
@@ -24102,24 +24117,27 @@ Jej praca dydaktyczna miała znaczenie systemowe: w PRL nie istniało akademicki
     category: 'osoby',
     tags: ['kultura', 'muzyka', 'rock', 'big-beat'],
     yearStart: 1963,
-    yearEnd: 1989,
+    yearEnd: 1976,
     summary: 'Charyzmatyczny wokalista rockowy i poeta sceny, znany z dramatycznej „Jaskółki uwięzionej”, śpiewał w czołowych zespołach big-beatu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stan_Borys_in_2016.jpg?width=800',
     imageCaption: 'Stan Borys (fot. współczesna)',
-    content: `## Artysta
-Stan Borys, właściwie Stanisław Guzek (ur. 1941), był wokalistą, kompozytorem, aktorem i poetą. Na scenie wyróżniał się ekspresją – śpiewał całym ciałem, co w polskiej estradzie lat 60. było zjawiskiem nowym.
+    content: `## Droga na scenę
+Stan Borys, właściwie Stanisław Guzek (ur. 1941), pochodzi z rodziny kolejarza spod Rzeszowa. Zanim zaczął śpiewać, pracował jako meliorator, górnik i robotnik budowlany, był rekwizytorem w rzeszowskim teatrze i założył teatr poezji „Symbol”. Jako poeta debiutował w 1965 roku.
+
+## Blackout i Bizony
+W tym samym roku poznał w Rzeszowie Tadeusza Nalepę i razem założyli zespół Blackout. Pod koniec 1966 roku Borys przeszedł do Bizonów, z którymi w 1968 roku otrzymał nagrodę prasy w Opolu za piosenkę „To ziemia”. Od 1969 roku śpiewał solo.
+
+## Ekspresja
+Na scenie wyróżniał się ekspresją – śpiewał całym ciałem, z teatralną dramaturgią, która w ówczesnej estradzie była zjawiskiem rzadkim. Zbierał nagrody także za granicą: w Rennes, Ostendzie i Atenach.
 
 ## Jaskółka uwięziona
-Największy przebój, „Jaskółka uwięziona”, stał się jedną z tych piosenek, które publiczność odczytywała szerzej, niż wynikało to z tekstu. Metafora uwięzienia była w tamtych latach czytelna bez wyjaśnień.
+Największy przebój, „Jaskółka uwięziona”, przyniósł mu w 1973 roku nagrodę dziennikarzy w Opolu i pierwsze miejsce za interpretację polskiej piosenki w Sopocie. Tekst o ptaku w niewoli bywa odczytywany szerzej niż jako piosenka o miłości – metafora uwięzienia była w tamtych latach czytelna bez wyjaśnień.
 
 ## Wyjazd
-Na początku lat 70. wyjechał do Stanów Zjednoczonych i pozostał tam na dziesięciolecia. Dla wykonawcy z PRL oznaczało to zniknięcie z krajowego obiegu: radio przestawało grać, a nazwisko wypadało z oficjalnych zestawień.
-
-## Powroty
-Wracał do Polski z koncertami po 1989 roku, odnajdując publiczność, która pamiętała jego nagrania mimo wieloletniej nieobecności. To jeden z dowodów na to, że pamięć muzyczna działała niezależnie od tego, co grało radio.`,
+W połowie lat 70. występował w warszawskim Teatrze Syrena, w 1976 roku nagrał z Marylą Rodowicz „Dziś prawdziwych Cyganów już nie ma”. Potem wyjechał z kraju i przez niemal trzydzieści lat mieszkał w Chicago, Toronto i Las Vegas, dorabiając m.in. jako taksówkarz. W 1981 roku zaśpiewał w Chicago na pogrzebie Krzysztofa Klenczona. Nagrania z lat 60. i 70. przetrwały w pamięci słuchaczy mimo jego wieloletniej nieobecności.`,
     trivia: [
-      '„Jaskółkę uwięzioną” publiczność odczytywała szerzej, niż wynikało to z samego tekstu.',
-      'Po wyjeździe do Stanów Zjednoczonych zniknął z krajowego obiegu radiowego na dziesięciolecia.',
+      'Zanim został piosenkarzem, pracował m.in. jako meliorator, górnik i robotnik budowlany.',
+      'Razem z Tadeuszem Nalepą założył w Rzeszowie zespół Blackout, poprzednika Breakoutu.',
     ],
     resources: [
       {
@@ -24129,14 +24147,6 @@ Wracał do Polski z koncertami po 1989 roku, odnajdując publiczność, która p
         url: 'https://www.youtube.com/watch?v=WeiJXcryBic',
         source: 'YouTube',
         description: 'Najsłynniejszy utwór artysty – Stan Borys - Jaskółka Uwięziona (SOPOT LIVE 1973)',
-      },
-      {
-        id: 'sb2-1',
-        title: 'Stan Borys – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=WeiJXcryBic',
-        source: 'YouTube',
-        description: 'Wykonania i materiały archiwalne.',
       },
       {
         id: 'sb2-2',
@@ -24636,23 +24646,26 @@ Bareja zmarł w 1987 roku, jeszcze przed końcem emisji. „Zmiennicy” są wi�
     tags: ['muzyka', 'rock', 'pop', 'estrada', 'kobiety'],
     yearStart: 1982,
     yearEnd: 1989,
-    summary: 'Wokalistka rockowo-popowa, która przebojem „Dmuchawce, latawce, wiatr” (1983, z Budką Suflera) zdobyła ogromną popularność.',
+    summary: 'Wokalistka rockowo-popowa, która z Budką Suflera nagrała przeboje „Luz-blues”, „Dmuchawce, latawce, wiatr” i „Malinowy król” – jedna z największych gwiazd muzyki lat 80.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Urszula-2a.jpg?width=800',
     imageCaption: 'Urszula (Urszula Kasprzak) – wokalistka rockowo-popowa.',
     content: `## Debiut
-Urszula Kasprzak (ur. 1960) zwróciła na siebie uwagę jako nastolatka, wygrywając w 1977 roku główną nagrodę Festiwalu Piosenki Radzieckiej w Zielonej Górze – imprezy, która mimo nazwy była jednym z niewielu ogólnopolskich konkursów wokalnych.
+Urszula Kasprzak urodziła się w 1960 roku w Lublinie. Od dziecka uczyła się gry na akordeonie i fortepianie, a jako czternastolatka zaczęła lekcje śpiewu w lubelskim Studium Piosenki. W 1977 roku, po dwóch nieudanych próbach w eliminacjach, zdobyła Złoty Samowar – główną nagrodę Festiwalu Piosenki Radzieckiej w Zielonej Górze – za piosenkę „Kopciuszek”. Rok później wystąpiła w koncercie debiutów w Opolu.
+
+## Tylko imię
+Po festiwalu na kilka lat skupiła się na studiach muzycznych na UMCS. Do śpiewania wróciła w 1982 roku. Występuje pod samym imieniem, bo przy radiowej premierze piosenki „Fatamorgana ’82” w Programie Trzecim ktoś pominął jej nazwisko – i tak zostało.
 
 ## Budka Suflera
-Od 1982 roku koncertowała z Budką Suflera. Współpraca z Romualdem Lipką przyniosła przeboje, które zdefiniowały jej pozycję: „Dmuchawce, latawce, wiatr”, „Malinowy król” i „Luz blues”.
+W 1982 roku zaczęła koncertować z Budką Suflera. Romuald Lipka i Marek Dutkiewicz pisali dla niej piosenki, które zdefiniowały jej pozycję: „Luz-blues, w niebie same dziury”, „Dmuchawce, latawce, wiatr” – największy przebój w jej dorobku, numer jeden Listy Przebojów Programu Trzeciego – i „Malinowy król” z 1984 roku. Część tych kompozycji wcześniej odrzuciła Izabela Trojanowska.
 
-## Rock kobiecy
-Wraz z Izabelą Trojanowską należała do pierwszych polskich wokalistek rockowych. Jej wizerunek – chłopięcy, bez estradowej ozdobności – był w polskiej muzyce nowy i szybko znalazł naśladowczynie.
+## Wizerunek
+Punkrockowe stylizacje, mocny makijaż i sceniczna swoboda odróżniały ją od estradowych piosenkarek poprzedniej dekady. Po „Malinowym królu” rozstała się z Budką Suflera, zagrała w filmie „Och, Karol” i nagrała z Sewerynem Krajewskim przebój „Baw mnie”.
 
 ## Lata 80.
-Popularność Urszuli przypadła na dekadę, w której rock stał się główną muzyką młodzieżową, a Program Trzeci i festiwale w Jarocinie oraz Opolu decydowały o zasięgu. Jej piosenki należą do najczęściej granych utworów tamtego okresu.`,
+Jej popularność przypadła na dekadę, w której rock stał się główną muzyką młodzieżową, a o zasięgu decydowały Program Trzeci i telewizyjne listy przebojów. Piosenki z tamtych lat należą do najczęściej granych utworów epoki.`,
     trivia: [
-      'Karierę zaczęła jako nastolatka, wygrywając festiwal w Zielonej Górze w 1977 roku.',
-      'Wraz z Izabelą Trojanowską należała do pierwszych polskich wokalistek rockowych.',
+      'Występuje pod samym imieniem, bo przy radiowej premierze jej piosenki ktoś pominął nazwisko.',
+      '„Luz-blues” i „Malinowy król” wcześniej zaproponowano Izabeli Trojanowskiej, która je odrzuciła.',
     ],
     resources: [
       {
@@ -25204,19 +25217,22 @@ Oba modele produkowano przez dziesięciolecia w niewiele zmienionej postaci. Wyn
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Noce%20i%20dnie%20%28English%20title%20%E2%80%93%20Nights%20and%20Days%2C%20opening%20credits%20title%29.jpg?width=800',
     imageCaption: 'Napis tytułowy z czołówki „Nocy i dni”, 1975',
     content: `## Film i serial
-„Noce i dnie” Jerzego Antczaka z 1975 roku to adaptacja powieści Marii Dąbrowskiej. Obok wersji kinowej powstał dwa lata później serial telewizyjny, obszerniejszy i przez wielu widzów uważany za wersję właściwą.
+„Noce i dnie” Jerzego Antczaka z 1975 roku to adaptacja powieści Marii Dąbrowskiej, wydawanej w latach 1931–1934. Obok wersji kinowej w 1977 roku powstał serial telewizyjny, obszerniejszy i przez wielu widzów uważany za wersję właściwą.
+
+## Produkcja
+Realizacja trwała blisko dwa i pół roku, a budżet sięgnął 130 milionów złotych – jak na możliwości ówczesnej kinematografii ogromnie dużo. Zdjęcia wykonał Stanisław Loth, montaż Janina Niedźwiecka, a sentymentalny walc Waldemara Kazaneckiego stał się jedną z najbardziej rozpoznawalnych melodii polskiego kina.
 
 ## Saga
-Opowieść obejmuje losy dwóch pokoleń rodziny Niechciców na tle Polski pod zaborami. Osią jest małżeństwo Barbary i Bogumiła, granych przez Jadwigę Barańską i Jerzego Bińczyckiego.
+Film zaczyna się w sierpniu 1914 roku, gdy Niemcy zajmują Kaliniec – pod tą nazwą w powieści występuje Kalisz. Uciekająca z miasta Barbara wraca wspomnieniami do przeszłości: do nieszczęśliwej miłości do Toliboskiego, małżeństwa z Bogumiłem Niechcicem, śmierci pierwszego syna i dziesięcioleci pracy w Serbinowie. W głównych rolach wystąpili Jadwiga Barańska i Jerzy Bińczycki.
 
 ## Barbara Niechcicowa
-Postać Barbary – kobiety nieustannie niezadowolonej, tęskniącej za czymś, czego sama nie potrafi nazwać – należy do najbardziej pamiętanych w polskim kinie. Film unika idealizacji: pokazuje małżeństwo jako trud, a nie romans.
+Postać Barbary – kobiety nieustannie niezadowolonej, tęskniącej za czymś, czego sama nie potrafi nazwać – należy do najbardziej pamiętanych w polskim kinie. Film unika idealizacji: pokazuje małżeństwo jako trud i codzienność, a nie romans.
 
 ## Uznanie
-Obraz otrzymał nominację do Oscara i był jedną z największych polskich produkcji swoich czasów. Ekranizacje klasyki literackiej należały w PRL do przedsięwzięć chętnie finansowanych: były prestiżowe, kosztowne i bezpieczne cenzuralnie.`,
+Obraz otrzymał Złote Lwy w Gdańsku, Jadwiga Barańska – Srebrnego Niedźwiedzia w Berlinie, a film był nominowany do Oscara dla najlepszego filmu nieanglojęzycznego. Do połowy 1977 roku obejrzało go w Polsce ponad 21 milionów widzów. Ekranizacje klasyki należały w PRL do przedsięwzięć chętnie finansowanych: były prestiżowe, kosztowne i bezpieczne cenzuralnie.`,
     trivia: [
-      'Obok wersji kinowej powstał serial telewizyjny, przez wielu widzów uważany za wersję właściwą.',
-      'Film otrzymał nominację do Oscara w kategorii filmu nieanglojęzycznego.',
+      'Do połowy 1977 roku film obejrzało w kinach ponad 21 milionów widzów.',
+      'Jadwiga Barańska otrzymała za rolę Barbary Srebrnego Niedźwiedzia w Berlinie.',
     ],
     resources: [
       {
@@ -34113,7 +34129,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1971, event: 'Startuje „Lato z Radiem” – kultowa wakacyjna audycja', category: 'kultura', entryId: 'lato-z-radiem' },
   { year: 1975, event: 'Premiera dobranocki „Miś Uszatek”', category: 'kultura', entryId: 'dobranocka' },
   { year: 1986, event: 'Boom domowych mikrokomputerów (ZX Spectrum, Atari, C64)', category: 'społeczeństwo', entryId: 'komputery-domowe' },
-  { year: 1968, event: 'Trubadurzy – przebój „Cóż wiemy o miłości”', category: 'kultura', entryId: 'trubadurzy' },
+  { year: 1968, event: 'Trubadurzy wydają album „Krajobrazy” – pierwszą z serii złotych płyt', category: 'kultura', entryId: 'trubadurzy' },
   { year: 1972, event: '2 plus 1 – przebój „Chodź, pomaluj mój świat”', category: 'kultura', entryId: 'dwa-plus-jeden' },
   { year: 1987, event: 'Zdzisława Sośnicka – przebój „Aleja gwiazd”', category: 'kultura', entryId: 'sosnicka-zdzislawa' },
   { year: 1968, event: 'Pierwszy Festiwal Piosenki Żołnierskiej w Kołobrzegu', category: 'kultura', entryId: 'festiwal-kolobrzeg' },
