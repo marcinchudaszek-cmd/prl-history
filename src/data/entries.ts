@@ -498,19 +498,25 @@ PZPR była rdzeniem systemu komunistycznego w Polsce – jej dzieje to historia 
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wagrowiec_pomnik_MO_SB.jpg?width=800',
     imageCaption: 'Pomnik funkcjonariuszy MO i SB w Wągrowcu (fot. współczesna)',
     content: `## Następca UB
-Służbę Bezpieczeństwa powołano w 1956 roku, po rozwiązaniu Ministerstwa Bezpieczeństwa Publicznego. Działała w strukturze Ministerstwa Spraw Wewnętrznych do 1990 roku – a więc przez większą część istnienia PRL.
+Po ucieczce na Zachód wicedyrektora Departamentu X MBP Józefa Światły, który ujawnił metody stalinowskiej bezpieki, w 1954 roku zlikwidowano Ministerstwo Bezpieczeństwa Publicznego i utworzono Komitet do spraw Bezpieczeństwa Publicznego. Po Październiku, w listopadzie 1956 roku, bezpiekę włączono do Ministerstwa Spraw Wewnętrznych pod nazwą Służba Bezpieczeństwa.
+
+## Odwilż w resorcie
+Reorganizacja nie była tylko zmianą szyldu. Liczbę funkcjonariuszy zmniejszono o 40 procent, do około dziewięciu tysięcy, z sieci usunięto 60 procent informatorów, zlikwidowano referaty ochrony w fabrykach i zamknięto ponad połowę spraw operacyjnych. Państwo masowego terroru ustąpiło państwu rozległej kontroli, prewencji i selektywnych represji.
 
 ## Zmiana metod
-W miejsce masowego terroru weszła praca operacyjna: sieć tajnych współpracowników, podsłuchy, perlustracja korespondencji, rozpracowywanie środowisk. Zamiast łamać ludzi w śledztwie, starano się ich pozyskiwać, szantażować i skłócać.
+W miejsce masowych aresztowań weszła praca operacyjna: sieć tajnych współpracowników, podsłuchy, perlustracja korespondencji, rozpracowywanie środowisk. Zamiast łamać ludzi w śledztwie, starano się ich pozyskiwać, szantażować, zastraszać i skłócać.
 
 ## Piony
-Osobne departamenty zajmowały się Kościołem, opozycją, kulturą, gospodarką i wywiadem. Pion IV, odpowiedzialny za sprawy wyznaniowe, prowadził działania przeciw duchowieństwu, z zabójstwem ks. Jerzego Popiełuszki włącznie.
+Osobne departamenty zajmowały się m.in. wywiadem, kontrwywiadem, opozycją, kulturą, gospodarką i Kościołem. Funkcjonariusze Departamentu IV, odpowiedzialnego za sprawy wyznaniowe, w październiku 1984 roku uprowadzili i zamordowali ks. Jerzego Popiełuszkę.
 
-## Akta
-Na przełomie 1989 i 1990 roku zniszczono znaczną część dokumentacji. To, co ocalało, trafiło później do Instytutu Pamięci Narodowej i stało się podstawą sporów lustracyjnych, które towarzyszą polskiej polityce do dziś.`,
+## Skala
+W sierpniu 1989 roku SB zatrudniała 24 300 funkcjonariuszy, którzy prowadzili około 90 tysięcy tajnych współpracowników w kraju – mniej więcej 0,2 procent ludności – oraz agentów wywiadu za granicą.
+
+## Koniec i akta
+SB działała jeszcze w pierwszym roku III RP i została rozwiązana w 1990 roku. Na przełomie 1989 i 1990 roku zniszczono znaczną część jej dokumentacji. To, co ocalało, trafiło później do Instytutu Pamięci Narodowej i stało się podstawą lustracji oraz sporów, które towarzyszą polskiej polityce do dziś.`,
     trivia: [
-      'Zamiast masowego terroru SB stosowała pracę operacyjną: agenturę, podsłuchy i szantaż.',
-      'Na przełomie 1989 i 1990 roku zniszczono znaczną część dokumentacji służby.',
+      'W sierpniu 1989 roku SB miała 24 300 funkcjonariuszy i około 90 tysięcy tajnych współpracowników.',
+      'Po Październiku 1956 roku liczbę funkcjonariuszy bezpieki zmniejszono o 40 procent.',
     ],
     resources: [
       {
@@ -3283,19 +3289,22 @@ Instytut Literacki wydał setki książek – autorów zakazanych w PRL, dokumen
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Warsaw_Pact_Logo.svg?width=800',
     imageCaption: 'Godło Układu Warszawskiego',
     content: `## Powstanie
-Układ o Przyjaźni, Współpracy i Pomocy Wzajemnej podpisano w Warszawie w 1955 roku, jako odpowiedź na powstanie NATO i przyjęcie do niego Republiki Federalnej Niemiec. Formalnie był sojuszem równych państw.
+Układ o Przyjaźni, Współpracy i Pomocy Wzajemnej podpisano w Warszawie 14 maja 1955 roku. Oficjalnie był odpowiedzią na przyjęcie Republiki Federalnej Niemiec do NATO. Członkami zostały ZSRR, Polska, Czechosłowacja, NRD, Węgry, Rumunia, Bułgaria i Albania. Formalnie był sojuszem równych państw.
 
 ## Kto naprawdę dowodził
-Naczelnym dowódcą zjednoczonych sił zawsze był marszałek radziecki, a plany operacyjne powstawały w Moskwie. Armie państw członkowskich miały przypisane role w scenariuszach opracowanych bez ich udziału – polskiej flocie wyznaczono na przykład desant na duńskie cieśniny.
+Naczelnym dowódcą Zjednoczonych Sił Zbrojnych zawsze był radziecki marszałek lub generał, a szefem sztabu – oficer radziecki. Plany operacyjne powstawały w Moskwie, a armie członkowskie miały w nich przypisane role. Polskiej armii w razie wojny wyznaczano działania na kierunku nadmorskim: uderzenie przez północne Niemcy w stronę Danii.
 
 ## Do czego użyto
-Jedyną operacją wojskową w historii układu była interwencja w Czechosłowacji w 1968 roku, wymierzona przeciw jednemu z jego własnych członków. Sojusz obronny okazał się więc przede wszystkim narzędziem utrzymania dyscypliny wewnątrz bloku.
+Jedyną wspólną operacją wojskową w historii układu była interwencja w Czechosłowacji w sierpniu 1968 roku, w której wzięło udział także Ludowe Wojsko Polskie. Wymierzono ją przeciw jednemu z członków sojuszu. Rumunia odmówiła udziału, a Albania wystąpiła z układu. Sojusz obronny okazał się przede wszystkim narzędziem utrzymania dyscypliny wewnątrz bloku.
+
+## Cień nad Polską
+Groźba „bratniej pomocy” wisiała nad Polską w latach 1980–1981. Manewry wojsk układu przy granicach i u siebie w kraju przypominały, jak skończyła się Praska Wiosna – co władze PRL wykorzystywały potem jako argument za wprowadzeniem stanu wojennego.
 
 ## Rozwiązanie
-Układ rozwiązano w 1991 roku, po upadku systemów komunistycznych w regionie. Wojska radzieckie opuściły Polskę ostatecznie dopiero w 1993 roku.`,
+Po upadku systemów komunistycznych w regionie struktury wojskowe układu rozwiązano 31 marca 1991 roku, a sam układ – 1 lipca 1991 roku. Ostatni żołnierze radzieccy – już rosyjscy – opuścili Polskę we wrześniu 1993 roku.`,
     trivia: [
-      'Naczelnym dowódcą sił układu zawsze był marszałek radziecki, a plany powstawały w Moskwie.',
-      'Jedyną operacją wojskową w historii sojuszu była interwencja przeciw jego własnemu członkowi – Czechosłowacji.',
+      'Naczelnym dowódcą sił układu zawsze był wojskowy radziecki, a plany operacyjne powstawały w Moskwie.',
+      'Jedyną wspólną operacją sojuszu była interwencja przeciw jego własnemu członkowi – Czechosłowacji w 1968 roku.',
     ],
     resources: [
       {
@@ -20024,19 +20033,22 @@ W 1983 roku, po stanie wojennym, miejsce FJN zajął Patriotyczny Ruch Odrodzeni
     yearEnd: 1989,
     summary: 'Zjednoczone Stronnictwo Ludowe i Stronnictwo Demokratyczne – formalnie odrębne partie, w praktyce podporządkowane PZPR i firmujące pozory wielopartyjności.',
     content: `## Dwie partie obok PZPR
-Zjednoczone Stronnictwo Ludowe i Stronnictwo Demokratyczne istniały przez cały okres PRL jako formalnie odrębne partie. ZSL miało reprezentować wieś, SD – inteligencję, rzemiosło i drobną wytwórczość.
+Zjednoczone Stronnictwo Ludowe i Stronnictwo Demokratyczne istniały przez cały okres PRL jako formalnie odrębne partie. ZSL miało reprezentować wieś, SD – inteligencję, rzemiosło i drobną wytwórczość. Obie miały posłów w każdej kadencji Sejmu, swoich ministrów i wicepremierów.
 
 ## Rola
-Ich zadaniem było uwiarygodnienie systemu: obecność kilku szyldów pozwalała mówić o sojuszu stronnictw zamiast o monopolu jednej partii. W Sejmie i w rządzie miały przypisaną z góry pulę miejsc, głosując zawsze zgodnie z PZPR.
+Ich zadaniem było uwiarygodnienie systemu: kilka szyldów pozwalało mówić o „sojuszu stronnictw” zamiast o monopolu jednej partii. Miejsca w Sejmie i w radach narodowych rozdzielano z góry na wspólnej liście Frontu Jedności Narodu, a później PRON, a stronnictwa głosowały zgodnie z PZPR. Konstytucja z 1976 roku zapisała kierowniczą rolę PZPR – ZSL i SD pozostały „sojusznikami”.
 
-## Skąd się wzięły
-Powstały z resztek partii przedwojennych: ZSL w 1949 roku po rozbiciu PSL Mikołajczyka, SD wywodziło się z przedwojennego ruchu demokratycznego. Ich historia to opowieść o tym, jak z prawdziwych partii zrobiono atrapy.
+## SD – z konspiracji do satelity
+Stronnictwo Demokratyczne wywodziło się z Klubów Demokratycznych z 1937 roku, a partię założono w kwietniu 1939 roku jako ugrupowanie demokratycznej inteligencji, przeciwne sanacji i nacjonalizmowi. W czasie wojny jego działacze działali w Polskim Państwie Podziemnym a jego ludzie współtworzyli w 1942 roku Radę Pomocy Żydom „Żegota”. Po wojnie partię podporządkowano komunistom.
+
+## ZSL – z rozbitego PSL
+ZSL powstało w listopadzie 1949 roku z połączenia prokomunistycznego Stronnictwa Ludowego z resztkami PSL, rozbitego po sfałszowanych wyborach 1947 roku i ucieczce Stanisława Mikołajczyka. Z masowego ruchu ludowego zrobiono przybudówkę władzy.
 
 ## 1989
-W sierpniu 1989 roku oba stronnictwa zerwały sojusz z PZPR i poparły rząd Tadeusza Mazowieckiego. To ich głosy przesądziły o powstaniu pierwszego niekomunistycznego rządu – atrapy okazały się w decydującym momencie czymś realnym.`,
+Po wyborach czerwcowych oba stronnictwa zerwały sojusz z PZPR. W sierpniu 1989 roku ich przywódcy porozumieli się z Lechem Wałęsą, a głosy ich posłów przesądziły o powołaniu rządu Tadeusza Mazowieckiego – atrapy okazały się w decydującym momencie czymś realnym.`,
     trivia: [
-      'ZSL powstało w 1949 roku z resztek rozbitego PSL Stanisława Mikołajczyka.',
-      'W sierpniu 1989 roku to głosy obu stronnictw przesądziły o powstaniu rządu Mazowieckiego.',
+      'Działacze Stronnictwa Demokratycznego współtworzyli w 1942 roku Radę Pomocy Żydom „Żegota”.',
+      'W sierpniu 1989 roku to głosy posłów ZSL i SD przesądziły o powstaniu rządu Mazowieckiego.',
     ],
     resources: [
       {
@@ -25153,19 +25165,22 @@ Meble kupowało się często nie wtedy, gdy były potrzebne, lecz wtedy, gdy si�
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Scena%20z%20filmu%20Znachor.jpg?width=800',
     imageCaption: 'Kadr z pierwszej ekranizacji „Znachora” z 1937 roku',
     content: `## Film
-„Znachor” Jerzego Hoffmana, zrealizowany w 1981 roku i pokazany rok później, to melodramat według powieści Tadeusza Dołęgi-Mostowicza z 1937 roku. Była to druga ekranizacja tej książki – pierwsza powstała jeszcze przed wojną.
+„Znachor” Jerzego Hoffmana, zrealizowany w 1981 roku, to melodramat według powieści Tadeusza Dołęgi-Mostowicza z 1937 roku. Była to druga ekranizacja książki – pierwszą nakręcił przed wojną Michał Waszyński. Film składa się z dwóch części: „Antoni Kosiba” i „Maria Jolanta Wilczur”.
 
 ## Fabuła
-Wybitny chirurg profesor Wilczur traci pamięć po napadzie i przez lata żyje jako wiejski znachor, lecząc ludzi bez wiedzy o własnej przeszłości. Rolę zagrał Jerzy Bińczycki, a partnerowała mu Anna Dymna.
+Profesor Rafał Wilczur (Jerzy Bińczycki), najsłynniejszy kardiochirurg lat 30., wraca do domu na rocznicę ślubu i znajduje list pożegnalny od żony, która odeszła, zabierając córkę. Zrozpaczony trafia do baru, zostaje pobity, ograbiony i traci pamięć. Jako włóczęga bez dokumentów kradnie papiery Antoniego Kosiby i pod tym nazwiskiem trafia do młyna Prokopa (Bernard Ładysz). Gdy przywraca do chodzenia jego syna Wasylka (Artur Barciś), okolica zaczyna nazywać go znachorem.
+
+## Marysia
+W miasteczku poznaje sprzedawczynię Marysię (Anna Dymna), która wydaje mu się dziwnie znajoma. W dziewczynie zakochuje się hrabia Leszek Czyński (Tomasz Stockinger). Po wypadku, gdy miejscowy lekarz uznaje jej stan za beznadziejny, Kosiba kradzionymi narzędziami przeprowadza trepanację czaszki i ratuje jej życie – nie wiedząc, że to jego własna córka. W obsadzie znaleźli się też Piotr Fronczewski jako docent Dobraniecki i Jerzy Trela jako żebrak Obiedziński.
 
 ## Fenomen frekwencyjny
-Film obejrzały miliony widzów i przez lata należał do najchętniej oglądanych polskich produkcji. Trafił w moment, w którym publiczność potrzebowała opowieści poruszającej, a przy tym całkowicie wolnej od bieżącej polityki.
+Film obejrzały miliony widzów i przez dekady należał do najchętniej oglądanych i powtarzanych w telewizji polskich produkcji. Trafił w moment kryzysu, gdy publiczność potrzebowała opowieści poruszającej i wolnej od bieżącej polityki.
 
 ## Dlaczego działa
-Melodramat o utraconej tożsamości i o krzywdzie naprawionej po latach jest konstrukcją uniwersalną. W PRL takie kino miało dodatkową zaletę: nie wymagało od widza czytania między wierszami – można było po prostu je przeżyć.`,
+Melodramat o utraconej tożsamości, krzywdzie naprawionej po latach i odnalezionej rodzinie jest konstrukcją uniwersalną. W 2023 roku film przeszedł cyfrową rekonstrukcję.`,
     trivia: [
-      'Była to druga ekranizacja powieści – pierwsza powstała jeszcze przed wojną, w 1937 roku.',
-      'Film należał przez lata do najchętniej oglądanych polskich produkcji.',
+      'Była to druga ekranizacja powieści – pierwszą nakręcił przed wojną Michał Waszyński.',
+      'Anna Dymna zagrała Marysię, córkę profesora Wilczura, który jej nie rozpoznaje.',
     ],
     resources: [
       {
@@ -25326,23 +25341,26 @@ Medale olimpijskie były w PRL walutą propagandową: sukces sportowca pokazywan
     tags: ['muzyka', 'jazz', 'estrada', 'kobiety'],
     yearStart: 1976,
     yearEnd: 1989,
-    summary: 'Wokalistka jazzowa i estradowa o ciepłej, subtelnej barwie głosu; zadebiutowała w 1976 na festiwalu w Opolu, słynąc z wyrafinowanych aranżacji.',
+    summary: 'Wokalistka jazzowa i estradowa o ciepłej, subtelnej barwie głosu; zadebiutowała w 1976 roku w Opolu, śpiewała z zespołem Sami Swoi i utworami Przybory, Kofty czy Młynarskiego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Hanna%20Banaszak.jpg?width=800',
     imageCaption: 'Hanna Banaszak – wokalistka jazzowa i estradowa.',
     content: `## Debiut
-Hanna Banaszak (ur. 1957) zwróciła na siebie uwagę jako nastolatka, wygrywając konkursy piosenki studenckiej. Od początku wybierała repertuar ambitniejszy niż typowa piosenka estradowa.
+Hanna Banaszak urodziła się w 1957 roku w Poznaniu. Na początku lat 70. śpiewała w duecie z gitarzystą Piotrem Żurowskim. Jako solistka zadebiutowała w 1976 roku w koncercie „Debiuty” na festiwalu w Opolu.
 
-## Repertuar
-Wykonuje piosenkę literacką, standardy jazzowe i utwory z pogranicza muzyki poważnej. Jest też kompozytorką i autorką tekstów. Jej sposób śpiewania – oszczędny, oparty na frazie i barwie głosu – odróżniał ją od estrady festiwalowej.
+## Jazz
+W latach 1977–1979 śpiewała z zespołem jazzowym Sami Swoi. Występowała z nim na Jazzie nad Odrą, Old Jazz Meeting w Warszawie, w Hanowerze i w Mönchengladbach, gdzie zespół zdobył pierwszą nagrodę. W 1977 roku zajęła trzecie miejsce na Festiwalu Wokalistów Jazzowych w Lublinie, a w 1979 roku otrzymała nagrodę w konkursie wytwórni fonograficznych w Sopocie.
 
-## Piosenka literacka
-Nurt, w którym się mieściła, wyrósł z klubów studenckich i festiwali w Krakowie oraz Opolu. Była to jedna z niewielu przestrzeni, gdzie tekst traktowano jak literaturę, a nie jak dodatek do melodii – i gdzie dawało się powiedzieć więcej, bo cenzor czytał wiersz inaczej niż odezwę.
+## Autorzy
+Współpracowała z najlepszymi autorami i kompozytorami: Jeremim Przyborą i Jerzym Wasowskim, Jonaszem Koftą, Wojciechem Młynarskim, Jerzym Matuszkiewiczem, Andrzejem Trzaskowskim, Zbigniewem Preisnerem i Janem Kantym Pawluśkiewiczem. Śpiewała wiersze Wisławy Szymborskiej i Josifa Brodskiego, standardy jazzowe i muzykę klasyczną.
 
-## Pozycja
-Banaszak należy do wykonawców, którzy zbudowali pozycję poza głównym obiegiem przebojów, a mimo to przetrwali w świadomości publiczności dłużej niż wielu twórców list przebojów.`,
+## Film
+Użyczyła głosu Hance Ordonównie w filmie „Miłość ci wszystko wybaczy” (1981). W „Słonej róży” Janusza Majewskiego (1982) zaśpiewała swój przebój „Tak bym chciała kochać…”, a w „Siekieriadzie” Witolda Leszczyńskiego (1985) – wokalizę arii ze „Stabat Mater” Vivaldiego.
+
+## Styl
+Jej sposób śpiewania – oszczędny, oparty na frazie, barwie głosu i starannej polszczyźnie – odróżniał ją od estrady festiwalowej. Aleksander Bardini chwalił jej „niebywały smak i takt” w ozdobnikach muzycznych. Banaszak zbudowała pozycję poza głównym obiegiem przebojów, a mimo to przetrwała w pamięci publiczności dłużej niż wielu twórców list przebojów.`,
     trivia: [
-      'Karierę zaczynała jako nastolatka, wygrywając konkursy piosenki studenckiej.',
-      'Piosenka literacka dawała więcej swobody, bo cenzor czytał wiersz inaczej niż tekst publicystyczny.',
+      'W filmie „Miłość ci wszystko wybaczy” (1981) użyczyła głosu Hance Ordonównie.',
+      'Z jazzowym zespołem Sami Swoi zdobyła pierwszą nagrodę na festiwalu w Mönchengladbach.',
     ],
     resources: [
       {
@@ -27711,19 +27729,22 @@ Nazwa stała się potocznym określeniem gramofonu w ogóle. Dla pokolenia doras
     yearStart: 1979,
     summary: 'Przełomowy film Krzysztofa Kieślowskiego (1979) z Jerzym Stuhrem; zaopatrzeniowiec kupuje kamerę i wciąga się w filmowanie – z nurtu moralnego niepokoju.',
     content: `## Film
-„Amator” Krzysztofa Kieślowskiego z 1979 roku należy do kina moralnego niepokoju. Bohaterem jest Filip Mosz, zaopatrzeniowiec w zakładzie przemysłowym, grany przez Jerzego Stuhra.
+„Amator” Krzysztofa Kieślowskiego z 1979 roku, nakręcony według autorskiego scenariusza, uchodzi za przełom w karierze reżysera i należy do kina moralnego niepokoju. Bohaterem jest Filip Mosz, zaopatrzeniowiec w zakładzie przemysłowym pod Krakowem, grany przez Jerzego Stuhra.
+
+## Pierwowzór
+Postać Mosza wzorowana była na Franciszku Dzidzie, twórcy Amatorskiego Klubu Filmowego „Klaps”. Kieślowski poznał go na konfrontacjach filmowych w Krakowie, gdzie Dzida przewodniczył jury, i poprosił o spisanie wspomnień – posłużyły za materiał do scenariusza. Reżyser dodał do nich własne doświadczenia dokumentalisty. W epizodach wystąpili jako oni sami Krzysztof Zanussi i Andrzej Jurga.
 
 ## Kamera
-Filip kupuje amatorską kamerę, by nakręcić narodziny córki. Zakład szybko wykorzystuje jego pasję do kręcenia filmów o sobie, a bohater odkrywa, że rejestrowanie rzeczywistości nie jest czynnością niewinną.
+Filip kupuje kamerę, by filmować narodziny i dorastanie córki. Dyrektor zakładu zleca mu film na dwudziestopięciolecie przedsiębiorstwa. Film zdobywa nagrodę, Filip zakłada zakładowy klub filmowy i coraz bardziej wciąga się w kręcenie, zaniedbując dom.
 
 ## Cena patrzenia
-Im uczciwiej filmuje, tym więcej szkód wyrządza: materiał o kolegach ściąga na nich kłopoty, dyrektor traci stanowisko, rozpada się małżeństwo. Film pyta, gdzie kończy się prawo do pokazywania prawdy, a zaczyna odpowiedzialność za skutki.
+Kiedy jego krytyczne filmy – o miasteczku i o robotniku-inwalidzie – trafiają do telewizji, Filip przekonuje się, że rejestrowanie rzeczywistości ma skutki dla ludzi, których pokazał. Po rozmowie z dyrektorem rezygnuje, by nikomu nie zaszkodzić, ale wracając do domu, odkrywa, że żona z dzieckiem odeszła. W finale odwraca kamerę ku sobie.
 
-## Samoocena reżysera
-Kieślowski, wcześniej dokumentalista, opisał w „Amatorze” własny dylemat. Wkrótce potem odszedł od dokumentu, uznając, że kamera skierowana na prawdziwych ludzi zawsze coś im zabiera. To jeden z nielicznych filmów, w których twórca rozlicza sam siebie.`,
+## Uznanie
+Film zdobył Złoty Medal i wyróżnienie FIPRESCI na festiwalu w Moskwie, otwierając Kieślowskiemu drogę do międzynarodowej kariery. Krytycy chwalili scenariusz i autotematyczną refleksję nad kinem, zarzucali natomiast schematyczne potraktowanie postaci żony. Kieślowski opisał w „Amatorze” dylemat, który sam przeżywał, i w kolejnych latach odszedł od dokumentu.`,
     trivia: [
-      'Bohater kupuje kamerę, by sfilmować narodziny córki, a kończy jako filmowiec zakładowy.',
-      'Kieślowski opisał w filmie własny dylemat i wkrótce potem porzucił dokument.',
+      'Pierwowzorem Filipa Mosza był Franciszek Dzida, twórca amatorskiego klubu filmowego „Klaps”.',
+      'Film zdobył Złoty Medal na festiwalu w Moskwie w 1979 roku.',
     ],
     resources: [
       {
@@ -28165,19 +28186,22 @@ Dla wielu dzieci był to jedyny wyjazd w roku i pierwszy kontakt z morzem albo g
     yearStart: 1959,
     summary: 'Kameralny dramat psychologiczny Jerzego Kawalerowicza (1959) rozgrywający się w nocnym pociągu; klasyk polskiej szkoły filmowej.',
     content: `## Film
-„Pociąg” Jerzego Kawalerowicza z 1959 roku to czarno-biały dramat psychologiczny rozgrywający się niemal w całości w nocnym pociągu jadącym z Łodzi nad morze.
+„Pociąg” Jerzego Kawalerowicza z 1959 roku to czarno-biały dramat psychologiczny rozgrywający się niemal w całości w nocnym pociągu z Łodzi Kaliskiej na Hel. Scenariusz Kawalerowicz napisał z Jerzym Lutowskim, opierając się na zdarzeniu z własnego życia. Film wyprodukował Zespół Filmowy „Kadr”, a sceny w wagonie nakręcono w łódzkim atelier.
 
 ## Bohaterowie
-W jednym przedziale spotykają się meteorolog Marta, grana przez Lucynę Winnicką, i chirurg Jerzy w wykonaniu Leona Niemczyka. Równolegle milicja poszukuje w pociągu zbiegłego mordercy, co buduje napięcie, ale nie jest właściwym tematem filmu.
+W jednym przedziale sypialnym przypadkowo spotykają się meteorolog Marta (Lucyna Winnicka), która kupiła bilet od nieznajomego na dworcu, i chirurg Jerzy (Leon Niemczyk), roztrzęsiony śmiercią pacjentki na stole operacyjnym. Wokół nich przewijają się inni pasażerowie: dawny chłopak Marty, cierpiący na bezsenność były więzień Buchenwaldu, wikary rozprawiający o grzechu, kokieteryjna żona adwokata.
 
-## Zamknięta przestrzeń
-Ciasnota wagonu, przypadkowe sąsiedztwo obcych ludzi i niemożność ucieczki tworzą sytuację, w której obserwuje się zachowanie tłumu. Scena zbiorowego pościgu za podejrzanym pokazuje, jak szybko przypadkowi pasażerowie zamieniają się w gromadę gotową linczować.
+## Pościg
+Milicja wkracza do pociągu, szukając zbiegłego mordercy – okazuje się, że to on sprzedał Marcie bilet. Jerzy zostaje najpierw wzięty za przestępcę, a gdy prawdziwy morderca wyskakuje z zatrzymanego pociągu, pasażerowie ruszają za nim, obrzucają go kamieniami i niemal linczują na wiejskim cmentarzu. Przypadkowi ludzie w kilka minut zamieniają się w groźną gromadę.
 
 ## Forma
-Film wyróżniała fotografia Jana Laskowskiego i jazzowy motyw muzyczny – oba elementy zbliżały go bardziej do kina zachodniego niż do socrealistycznej produkcji sprzed kilku lat. Nagrodzono go na festiwalu w Wenecji.`,
+Film wyróżniała fotografia Jana Laskowskiego i jazzowa muzyka – oba elementy zbliżały go bardziej do nowoczesnego kina zachodniego niż do socrealistycznych produkcji sprzed kilku lat. Późniejsi badacze wskazywali na pokrewieństwo z kinem Michelangela Antonioniego.
+
+## Odbiór
+Polscy krytycy przyjęli „Pociąg” z mieszanymi uczuciami, za granicą film zdobył sławę. Na festiwalu w Wenecji otrzymał nagrodę techniczną imienia Georges’a Mélièsa, doceniono tam też rolę Lucyny Winnickiej.`,
     trivia: [
-      'Akcja rozgrywa się niemal w całości w jednym wagonie nocnego pociągu.',
-      'Scena pościgu pasażerów za podejrzanym pokazuje, jak łatwo przypadkowy tłum zamienia się w gromadę gotową do linczu.',
+      'Scenariusz „Pociągu” opierał się na zdarzeniu z życia Jerzego Kawalerowicza.',
+      'Na festiwalu w Wenecji film otrzymał nagrodę imienia Georges’a Mélièsa.',
     ],
     resources: [
       {
@@ -28836,21 +28860,24 @@ Poczta była też narzędziem nadzoru: w okresie stanu wojennego wprowadzono ofi
     category: 'kultura',
     tags: ['film', 'komedia', 'satyra', 'kino'],
     yearStart: 1972,
-    summary: 'Jedna z najzabawniejszych komedii Stanisława Barei (1972); pracownik muzeum ukrywa się przebrany za kobietę i zatrudnia jako pomoc domowa.',
+    summary: 'Komedia Stanisława Barei (1972, premiera 1973); niesłusznie oskarżony historyk sztuki ukrywa się przebrany za kobietę i zatrudnia jako pomoc domowa.',
     content: `## Film
-Komedia Stanisława Barei z 1972 roku, napisana wspólnie z Jackiem Fedorowiczem. W roli głównej wystąpił Wojciech Pokora jako Stanisław Rochowicz – kustosz muzeum, który po fałszywym oskarżeniu ukrywa się, przebierając za kobietę i zatrudniając jako gosposia.
+Komedia Stanisława Barei, napisana z Jackiem Fedorowiczem. Historyk sztuki Stanisław Maria Rochowicz (Wojciech Pokora) zostaje niesłusznie oskarżony o kradzież obrazu z muzeum. Grozi mu pięć lat więzienia, więc ukrywa się w przebraniu kobiety, dopóki nie namaluje kopii i nie podrzuci jej na miejsce. Zatrudnia się jako gosposia „Marysia” – i szybko odkrywa, że zarabia więcej niż jako magister historii sztuki.
 
-## Podwójna perspektywa
-Pomysł z przebraniem pozwala bohaterowi zobaczyć świat z drugiej strony: jako pracownica domowa trafia kolejno do mieszkań ludzi z różnych warstw. Powstaje przegląd społeczeństwa widzianego od kuchni – dosłownie.
+## Skąd pomysł
+Historię podsunęła Barei żona, Hanna Kotkowska-Bareja, historyk sztuki z Muzeum Narodowego. Znała sprawę rzekomego zaginięcia dzieła Alfonsa Karnego, które artysta po prostu zabrał, a dyrektor tego nie pokwitował. Barejowie zatrudniali też pomoc domową do opieki nad dziećmi, więc realia „Marysi” znali z własnego domu.
 
-## Bareja przed Barei
-Film powstał zanim reżyser wypracował styl znany z „Misia”, ale widać już w nim to, co stanie się jego znakiem: absurd instytucji, język urzędowy traktowany jak materiał komediowy i obserwację obyczajową zamiast intrygi.
+## Casting
+Do głównej roli próbowali się Jacek Fedorowicz, Janusz Gajos i Wojciech Pokora. Gajos miał zbyt męską posturę, a Fedorowiczowi zbyt szybko odrastał zarost. Stanisława Celińska odmówiła roli żony Rochowicza, bo obawiała się, że współpraca z Bareją, źle wtedy postrzeganym w środowisku, zamknie jej drogę do filmów Zanussiego i Kutza.
 
-## Odbiór
-Krytyka traktowała Bareję lekceważąco przez całą jego karierę. Dopiero po latach jego komedie uznano za najcelniejszy zapis realiów PRL, a określenie „bareizm” weszło do języka.`,
+## Przegląd społeczeństwa
+Pomysł z przebraniem pozwala bohaterowi zobaczyć świat od kuchni – dosłownie. Jako pomoc domowa trafia do mieszkań ludzi z różnych warstw, a film staje się satyrą na obyczaje przełomu lat 60. i 70.
+
+## Kolaudacja i odbiór
+Na kolaudacji w październiku 1972 roku zarzucano filmowi pokazywanie osób na wysokich stanowiskach w złym świetle i dawano reżyserowi do zrozumienia, że wyszydzania władzy nie będzie się tolerować; bronili go Aleksander Ścibor-Rylski i Tadeusz Konwicki. Premiera odbyła się 22 kwietnia 1973 roku, a w ciągu roku film obejrzało prawie dwa miliony widzów. Określenie „bareizm”, ukute przez Kazimierza Kutza jako przytyk, po latach zmieniło znaczenie na komplement.`,
     trivia: [
-      'Bohater ukrywa się przebrany za kobietę i pracuje jako gosposia, poznając mieszkania ludzi z różnych warstw.',
-      'Krytyka lekceważyła Bareję przez całą karierę; jego komedie doceniono dopiero po latach.',
+      'Do roli Rochowicza próbowali się także Janusz Gajos i Jacek Fedorowicz.',
+      'Pojęcie „bareizm” ukuł Kazimierz Kutz jako przytyk wobec komedii Barei.',
     ],
     resources: [
       {
@@ -33878,7 +33905,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1984, event: 'Debiut Wandy i Bandy – przebój „Hi-Fi”', category: 'kultura', entryId: 'wanda-i-banda' },
   { year: 1975, event: 'Premiera „Ziemi obiecanej” Andrzeja Wajdy – nominacja do Oscara', category: 'kultura', entryId: 'ziemia-obiecana' },
   { year: 1976, event: 'Jacek Wszoła zdobywa złoto olimpijskie w skoku wzwyż (Montreal)', category: 'społeczeństwo', entryId: 'jacek-wszola' },
-  { year: 1976, event: 'Debiut Hanny Banaszak na festiwalu w Opolu („Młode Talenty”)', category: 'kultura', entryId: 'hanna-banaszak' },
+  { year: 1976, event: 'Debiut Hanny Banaszak w koncercie „Debiuty” na festiwalu w Opolu', category: 'kultura', entryId: 'hanna-banaszak' },
   { year: 1982, event: 'Premiera „Znachora” Jerzego Hoffmana', category: 'kultura', entryId: 'znachor' },
   { year: 1977, event: 'Premiera „Człowieka z marmuru” Andrzeja Wajdy', category: 'kultura', entryId: 'czlowiek-z-marmuru' },
   { year: 1981, event: '„Człowiek z żelaza” Wajdy zdobywa Złotą Palmę w Cannes', category: 'kultura', entryId: 'czlowiek-z-zelaza' },
@@ -33919,7 +33946,8 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1977, event: 'Premiera „Barw ochronnych” Krzysztofa Zanussiego', category: 'kultura', entryId: 'barwy-ochronne' },
   { year: 1970, event: 'Debiut Jana Himilsbacha w „Rejsie” – fenomen naturszczyka', category: 'kultura', entryId: 'jan-himilsbach' },
   { year: 1976, event: 'Tadeusz Ślusarski zdobywa złoto olimpijskie w skoku o tyczce (Montreal)', category: 'społeczeństwo', entryId: 'tadeusz-slusarski' },
-  { year: 1979, event: '„Amator” Kieślowskiego – Grand Prix w Moskwie i Złote Lwy w Gdańsku', category: 'kultura', entryId: 'amator-film' },
+  { year: 1979, event: '„Amator” Kieślowskiego zdobywa Złoty Medal na festiwalu w Moskwie', category: 'kultura', entryId: 'amator-film' },
+  { year: 1989, event: 'W sierpniu SB liczy 24 300 funkcjonariuszy i około 90 tysięcy tajnych współpracowników', category: 'represje', entryId: 'sbezpieczenstwa' },
   { year: 1961, event: '„Matka Joanna od Aniołów” Kawalerowicza – nagroda w Cannes', category: 'kultura', entryId: 'matka-joanna-od-aniolow' },
   { year: 1965, event: 'Czerwono-Czarni – jeden z pierwszych zespołów polskiego big-beatu', category: 'kultura', entryId: 'czerwono-czarni' },
   { year: 1973, event: 'Jan Tomaszewski broni na Wembley – awans Polski na mundial', category: 'społeczeństwo', entryId: 'jan-tomaszewski' },
@@ -33934,7 +33962,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1976, event: 'Premiera komedii „Brunet wieczorową porą” Stanisława Barei', category: 'kultura', entryId: 'brunet-wieczorowa-pora' },
   { year: 1962, event: 'Karin Stanek – „Malowana lala” z Czerwono-Czarnymi (Sopot)', category: 'kultura', entryId: 'karin-stanek' },
   { year: 1966, event: 'Wiesław Gołas jako Tomasz Czereśniak w „Czterech pancernych”', category: 'kultura', entryId: 'wieslaw-golas' },
-  { year: 1972, event: 'Premiera komedii „Poszukiwany, poszukiwana” Stanisława Barei', category: 'kultura', entryId: 'poszukiwany-poszukiwana' },
+  { year: 1973, event: '22 kwietnia – premiera komedii „Poszukiwany, poszukiwana” Stanisława Barei', category: 'kultura', entryId: 'poszukiwany-poszukiwana' },
   { year: 1963, event: 'Helena Majdaniec – „królowa twista” (festiwal w Opolu)', category: 'kultura', entryId: 'helena-majdaniec' },
   { year: 1965, event: 'Jan Kobuszewski współtworzy kabaret Dudek', category: 'kultura', entryId: 'jan-kobuszewski' },
   { year: 1971, event: 'Premiera komedii „Nie lubię poniedziałku” Tadeusza Chmielewskiego', category: 'kultura', entryId: 'nie-lubie-poniedzialku' },
