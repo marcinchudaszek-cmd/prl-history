@@ -14215,25 +14215,28 @@ Po zakończeniu kariery działała w Międzynarodowym Komitecie Olimpijskim i w�
     category: 'kultura',
     tags: ['telewizja', 'serial', 'lata 60.', 'wojna', 'propaganda'],
     yearStart: 1967,
-    yearEnd: 1968,
+    yearEnd: 1969,
     summary: 'Kultowy serial szpiegowski o polskim agencie Hansie Klossie działającym w niemieckim wywiadzie, jeden z najpopularniejszych w historii polskiej telewizji.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Katowice%2C_Muzeum_Hansa_Klossa_-_fotopolska.eu_%2815969%29.jpg?width=800',
     imageCaption: 'Muzeum Hansa Klossa w Katowicach (fot. współczesna)',
     content: `## Fabuła
-Serial opowiada o Stanisławie Kolickim, polskim agencie działającym pod przybraną tożsamością niemieckiego oficera Abwehry Hansa Klossa w czasie II wojny światowej. Każdy odcinek to osobna intryga szpiegowska.
+Bohaterem jest Stanisław Kolicki, polski agent J-23, który w 1941 roku zajmuje miejsce łudząco do niego podobnego niemieckiego oficera Abwehry, Hansa Klossa. Jako Kloss przekazuje informacje wywiadowi radzieckiemu. Każdy z osiemnastu odcinków to osobna intryga szpiegowska, a stałym przeciwnikiem, a zarazem kompanem Klossa jest esesman Brunner, grany przez Emila Karewicza.
 
 ## Produkcja
-Wyemitowany w latach 1967–1968 (18 odcinków), w reżyserii Janusza Morgensterna i Andrzeja Konica. W rolę Klossa wcielił się Stanisław Mikulski, który stał się gwiazdą.
+Serial zrealizowano w latach 1967–1968 w Zespole Filmowym „Syrena”, w reżyserii Janusza Morgensterna i Andrzeja Konica. Telewizja emitowała go od 10 października 1968 do 6 lutego 1969 roku. Wcześniej postać Klossa pojawiła się w spektaklach Teatru Telewizji. W roli agenta wystąpił Stanisław Mikulski, który z dnia na dzień stał się gwiazdą.
 
 ## Popularność
-„Stawka” biła rekordy oglądalności. Hans Kloss stał się ikoną popkultury PRL, a hasła z serialu na trwałe weszły do języka. Powstał też komiks i adaptacje.
+„Stawka” biła rekordy oglądalności i była pokazywana także w innych krajach, głównie bloku wschodniego. Cytaty z serialu przeszły do języka potocznego, a na jego motywach powstał trzytomowy zbiór opowiadań i seria komiksów „Kapitan Kloss”. Chłopcy na podwórkach bawili się w Klossa i Brunnera.
 
 ## Kontekst propagandowy
-Serial wpisywał się w oficjalny nurt utrwalania pamięci o wojnie i bohaterstwie, ale przede wszystkim był znakomitą, wciągającą rozrywką, co zapewniło mu trwałą popularność.
+Serial był znakomitą rozrywką, ale nie był neutralny. Bohater, Polak w służbie wywiadu radzieckiego, wpisywał się w oficjalną wersję historii wojny, w której o sukcesie decydował sojusz z ZSRR, a konspiracja niepodległościowa pozostawała w cieniu. To połączenie atrakcyjnej formy z politycznie pożądanym przekazem zapewniło mu zarówno wsparcie władz, jak i sympatię widzów.
 
-## Znaczenie
-„Stawka większa niż życie” to jeden z najbardziej kultowych seriali w historii polskiej telewizji, do dziś chętnie oglądany i cytowany.`,
-    trivia: ['Hans Kloss stał się bohaterem kultowym i wzorem chłopięcych zabaw.', 'Kwestie z serialu weszły na stałe do języka potocznego.'],
+## Dziedzictwo
+W 2011 roku serial przeszedł cyfrową rekonstrukcję, a w 2012 roku powstała kinowa kontynuacja „Hans Kloss. Stawka większa niż śmierć”. Do dziś należy do najczęściej powtarzanych i cytowanych polskich seriali.`,
+    trivia: [
+      'Kloss był agentem J-23 i przekazywał informacje wywiadowi radzieckiemu.',
+      'Serial nakręcono w latach 1967–1968, ale telewizja emitowała go od października 1968 do lutego 1969 roku.',
+    ],
     resources: [
       {
         id: 'sww-1',
@@ -14592,24 +14595,30 @@ Pozostaje jednym z symboli polskiej kultury wysokiej, dowodem, że mimo żelazne
     tags: ['kultura', 'muzyka', 'kompozytor', 'muzyka poważna'],
     yearStart: 1945,
     yearEnd: 1989,
-    summary: 'Wybitny kompozytor i dyrygent, autor „Koncertu na orkiestrę” i III Symfonii, łączący najwyższy kunszt z niezależnością wobec presji ideologicznej.',
+    summary: 'Wybitny kompozytor i dyrygent, autor „Koncertu na orkiestrę” i III Symfonii; w czasach socrealizmu utrzymywał się z muzyki użytkowej, a w 1989 roku wszedł do Komitetu Obywatelskiego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Lutoslawski3.jpg?width=800',
     imageCaption: 'Witold Lutosławski przy fortepianie w swoim domu',
     content: `## Sylwetka
-Witold Lutosławski (1913–1994) był jednym z najważniejszych kompozytorów XX wieku. Jego twórczość ewoluowała od neoklasycyzmu po nowatorskie techniki aleatoryczne.
+Witold Lutosławski (1913–1994) urodził się w Warszawie w rodzinie ziemiańskiej. Komponował od dziewiątego roku życia, studiował w warszawskim konserwatorium, a przez rok także matematykę. Należy do najwybitniejszych kompozytorów XX wieku.
+
+## Wojna
+We wrześniu 1939 roku walczył jako radiotelegrafista, uciekł z niewoli i wrócił do Warszawy. W czasie okupacji grał z Andrzejem Panufnikiem w kawiarniach; przygotowali razem około dwustu transkrypcji, z których przetrwały „Wariacje na temat Paganiniego”. Z Eugenią Umińską zbierał pieniądze dla ukrywających się artystów, m.in. dla Władysława Szpilmana.
 
 ## Socrealizm
-W okresie stalinowskim, gdy narzucano doktrynę socrealizmu, jego I Symfonia została potępiona jako „formalistyczna”. Kompozytor musiał lawirować, tworząc m.in. utwory ludowe, lecz nie porzucił własnej drogi.
+Po wojnie pracował w Polskim Radiu i działał we władzach Związku Kompozytorów Polskich, z których wycofał się w 1948 roku, nie akceptując rosnących wpływów socrealizmu. Jego ekspresjonistyczną I Symfonię uznano za „formalistyczną” i wycofano z repertuaru. Utrzymywał się z muzyki użytkowej: pisał utwory pedagogiczne, piosenki dla dzieci, a pod pseudonimem „Derwid” – walce, tanga i fokstroty, śpiewane m.in. przez Mieczysława Fogga i Irenę Santor.
 
 ## Koncert na orkiestrę
-„Koncert na orkiestrę” (1954), oparty na motywach ludowych, stał się jednym z jego najpopularniejszych dzieł i wizytówką polskiej muzyki za granicą.
+Ukończony w 1954 roku „Koncert na orkiestrę”, oparty na motywach ludowych, jest do dziś jego najczęściej wykonywanym utworem.
 
-## Dojrzała twórczość
-Od lat 60. rozwijał technikę aleatoryzmu kontrolowanego. III Symfonia (1983) uznawana jest za arcydzieło. Lutosławski dyrygował własnymi utworami na całym świecie.
+## Nowy język
+Odwilż pozwoliła mu zmienić styl. Po „Muzyce żałobnej” w „Grach weneckich” (1961) zastosował aleatoryzm kontrolowany – technikę tak z nim związaną, że powszechnie kojarzoną z jego nazwiskiem. Był nieprzerwanie przez 37 lat członkiem komisji repertuarowej „Warszawskiej Jesieni” i najczęściej grywanym na niej za życia polskim kompozytorem. III Symfonia z 1983 roku uchodzi za jedno z jego arcydzieł.
 
 ## Postawa
-W latach 80. wspierał opozycję i bojkotował oficjalne media po wprowadzeniu stanu wojennego. Pozostaje symbolem artystycznej i moralnej niezależności.`,
-    trivia: ['Zaliczany do najwybitniejszych kompozytorów XX wieku.', 'Po 13 grudnia 1981 zbojkotował oficjalne życie muzyczne w kraju.'],
+W stanie wojennym unikał obecności w życiu publicznym. W 1989 roku wyraźnie opowiedział się po stronie „Solidarności” i jako jedyny przedstawiciel środowiska muzycznego wszedł do Komitetu Obywatelskiego przy Lechu Wałęsie.`,
+    trivia: [
+      'Pod pseudonimem „Derwid” pisał taneczne piosenki – walce, tanga i fokstroty.',
+      'W 1989 roku jako jedyny muzyk wszedł do Komitetu Obywatelskiego przy Lechu Wałęsie.',
+    ],
     resources: [
       {
         id: 'lutoslawski-culture',
@@ -17227,20 +17236,23 @@ Pozostaje symbolem futbolowej elegancji, a jego koszulka z numerem 10 – ikoną
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tadeusz_kantor_17.jpg?width=800',
     imageCaption: 'Tadeusz Kantor',
     content: `## Sylwetka
-Tadeusz Kantor (1915–1990) był malarzem, scenografem i reżyserem, jednym z najwybitniejszych twórców awangardy teatralnej i plastycznej XX wieku.
+Tadeusz Kantor (1915–1990) urodził się w Wielopolu Skrzyńskim. Studiował na krakowskiej Akademii Sztuk Pięknych. Jego ojciec zginął w 1942 roku w Auschwitz. W czasie okupacji Kantor stworzył konspiracyjny Teatr Niezależny, w którym dla zaufanej publiczności wystawiał m.in. „Balladynę” i „Powrót Odysa”.
+
+## Wbrew socrealizmowi
+W 1949 roku, gdy władze wprowadzały socrealizm i zwalczały sztukę nowoczesną, usunięto go ze stanowiska profesora krakowskiej uczelni. Pracował jako scenograf, głównie w Starym Teatrze, a jako malarz zamilkł. W 1955 roku z grupą artystów, m.in. Marią Jaremą i Jerzym Nowosielskim, zaprotestował przeciwko socrealizmowi wystawą „9 Malarzy”.
 
 ## Cricot 2
-W 1955 roku reaktywował w Krakowie awangardowy teatr Cricot 2. Stworzył w nim własny, niepowtarzalny język sceniczny, łączący malarstwo, ruch, przedmiot i obecność aktora.
-
-## Umarła klasa
-Spektakl „Umarła klasa” (1975) – seans pamięci, w którym starcy-uczniowie niosą manekiny własnego dzieciństwa – stał się arcydziełem o światowym rozgłosie i wizytówką „Teatru Śmierci”.
+W tym samym roku z plastykami i krytykami założył teatr Cricot 2. Pierwszą premierą była „Mątwa” Witkacego (1956), a aktorzy poruszali się w niej niczym kukły. Kolejne etapy – teatr informel, teatr zerowy, ambalaże – rozbijały konwencje sceny. W 1965 roku Kantor zorganizował pierwsze polskie happeningi, a w 1967 roku słynny „Panoramiczny happening morski”.
 
 ## Teatr Śmierci
-Kantor sformułował koncepcję „Teatru Śmierci”, w której pamięć, przemijanie i obecność umarłych stawały się tworzywem sztuki, przełamując konwencje tradycyjnego teatru.
+Spektakl „Umarła klasa” (1975) – seans pamięci, w którym starzy ludzie wracają do szkolnych ławek z manekinami własnego dzieciństwa – przyniósł mu światowy rozgłos i otworzył etap Teatru Śmierci. Następne były „Wielopole, Wielopole” (1980), opowieść o rodzinnym miasteczku splecionym z męką Chrystusa, „Niech sczezną artyści” (1985) i „Nigdy tu już nie powrócę” (1988). Kantor był obecny na scenie podczas przedstawień, jak dyrygent własnej pamięci.
 
 ## Znaczenie
-Kantor zdobył światowe uznanie, prezentując spektakle na całym świecie. Pozostaje jednym z największych nowatorów teatru, obok Grotowskiego stawiając Polskę w awangardzie sceny.`,
-    trivia: ['Tadeusz Kantor stworzył teatr Cricot 2.', 'Jego „Umarła klasa” zdobyła międzynarodowy rozgłos.'],
+Spektakle Cricot 2 grano na festiwalach i scenach całego świata. Obok Jerzego Grotowskiego Kantor postawił polski teatr w awangardzie światowej sceny. Zmarł w grudniu 1990 roku w trakcie prób do przedstawienia „Dziś są moje urodziny”.`,
+    trivia: [
+      'Pierwszą premierą Cricot 2 była „Mątwa” Witkacego w 1956 roku.',
+      'W 1949 roku usunięto go z krakowskiej uczelni za uprawianie sztuki nowoczesnej.',
+    ],
     resources: [
       {
         id: 'kan-1',
@@ -22913,19 +22925,22 @@ Na tych maszynach wychowało się pokolenie, które zaczynało od gier, a kończ
     yearEnd: 1989,
     summary: 'Własny telefon był w PRL luksusem – na założenie linii czekało się latami, a rozmowy bywały podsłuchiwane.',
     content: `## Dobro reglamentowane
-Telefon w mieszkaniu był w PRL rzadkością. Na przydział linii czekano latami, a w wielu miejscowościach jedyny aparat znajdował się na poczcie albo w zakładzie pracy. Liczba abonentów należała do najniższych w Europie.
+Telefon w mieszkaniu był w PRL rzadkością. Na przydział linii czekano latami, a kolejka nie zawsze była jedynym kryterium – liczyły się też stanowisko i znajomości. W wielu miejscowościach jedyny aparat znajdował się na poczcie, w urzędzie gminy albo w zakładzie pracy. Telefon domowy był więc także oznaką statusu.
 
 ## Jak działał
-Aparaty były tarczowe, a połączenia międzymiastowe przez długi czas zamawiało się u telefonistki. Rozmowa bywała słabo słyszalna, a linie – zwłaszcza na wsi – współdzielone przez kilku abonentów.
+Aparaty były tarczowe, a połączenia międzymiastowe przez długi czas zamawiało się u telefonistki i czekało na nie, czasem godzinami. Rozmowa bywała słabo słyszalna, a na wsi linia bywała współdzielona przez kilku abonentów. Na ulicach stały budki z automatami.
 
-## Podsłuch
-Telefon był też narzędziem kontroli. W stanie wojennym połączenia najpierw całkowicie odcięto, a po przywróceniu rozmowy poprzedzał komunikat informujący, że są kontrolowane. Świadomość podsłuchu zmieniła sposób mówienia przez telefon na całe lata.
+## Stan wojenny
+W nocy z 12 na 13 grudnia 1981 roku łączność telefoniczną w kraju odcięto. Przywracano ją stopniowo, a po wznowieniu rozmowy poprzedzał nagrany komunikat „rozmowa kontrolowana”. Władza nie ukrywała więc podsłuchu – ogłaszała go. Świadomość, że ktoś słucha, zmieniła sposób mówienia przez telefon na całe lata: umawiano się półsłówkami, ważne sprawy załatwiano osobiście.
+
+## Podsłuch na co dzień
+Kontrola rozmów nie była wynalazkiem stanu wojennego. Służba Bezpieczeństwa zakładała podsłuchy osobom inwigilowanym przez cały okres PRL, a nagrania i ich stenogramy trafiały do teczek. Opozycjoniści zakładali, że ich telefony są na podsłuchu, i często mieli rację.
 
 ## Skutek
-Brak telefonu kształtował codzienność: umawiano się z góry i na stałe, pisano listy, przychodzono bez zapowiedzi. Sposób organizowania życia rodzinnego i towarzyskiego wynikał wprost z tego braku.`,
+Brak telefonu kształtował codzienność: umawiano się z góry i na stałe, pisano listy i kartki, przychodzono bez zapowiedzi, a wiadomości przekazywano przez sąsiadów. Komunikat „rozmowa kontrolowana” dał później tytuł komedii Sylwestra Chęcińskiego z 1991 roku.`,
     trivia: [
-      'Połączenia międzymiastowe przez lata zamawiało się u telefonistki.',
-      'W stanie wojennym rozmowy poprzedzał komunikat informujący, że są kontrolowane.',
+      'Po przywróceniu łączności w stanie wojennym rozmowy poprzedzał komunikat „rozmowa kontrolowana”.',
+      'Połączenia międzymiastowe przez lata zamawiało się u telefonistki i czekało na nie nieraz godzinami.',
     ],
     resources: [
       {
@@ -24001,19 +24016,22 @@ Zdjęcia kręcono w Lubomierzu na Dolnym Śląsku, gdzie działa dziś muzeum po
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Henryk_Kwinto_mural%2C_Vabank%2C_Piramowicza_6%2C_%C5%81%C3%B3d%C5%BA%2C_2023-03-18%2C_03.jpg?width=800',
     imageCaption: 'Mural z Henrykiem Kwintą, bohaterem „Vabanku” (fot. współczesna)',
     content: `## Debiut
-„Vabank” Juliusza Machulskiego z 1981 roku był jego pełnometrażowym debiutem. To komedia kryminalna w konwencji retro, rozgrywająca się w Polsce lat 30.
+„Vabank” z 1981 roku to pełnometrażowy debiut Juliusza Machulskiego – komedia kryminalna retro, której akcja toczy się w Warszawie w 1934 roku. Pierwszy zarys scenariusza reżyser napisał w 1977 roku na wczasach w Bułgarii, nie wierząc, że debiutantowi pozwolą go zrealizować. Projekt przyjął jednak Zespół Filmowy „Kadr” Jerzego Kawalerowicza.
 
 ## Fabuła
-Kasiarz Henryk Kwinto, grany przez Jana Machulskiego – ojca reżysera – po wyjściu z więzienia organizuje skok na bank swojego dawnego wspólnika Kramera, odpowiedzialnego za śmierć przyjaciela. Zemsta jest tu precyzyjnie zaplanowaną operacją, nie odruchem.
+Kasiarz Henryk Kwinto, grany przez Jana Machulskiego – ojca reżysera – wychodzi z więzienia po sześciu latach. Jego dawny wspólnik Gustaw Kramer (Leonard Pietraszak), przez którego zdradę Kwinto trafił za kraty, jest teraz dyrektorem banku. Kwinto gotów jest mu wybaczyć, dopóki nie dowiaduje się, że Kramer doprowadził do bankructwa i śmierci jego przyjaciela Rychlińskiego. Wtedy z Duńczykiem oraz młodymi złodziejaszkami Nutą i Moksem organizuje napad, po którym podejrzenia padają na samego Kramera.
+
+## Pierwowzory
+Machulski wzorował Kwintę na Stanisławie Cichockim „Szpicbródce”, najsłynniejszym kasiarzu II Rzeczypospolitej. W przedwojennych gazetach znalazł wzmiankę o metalowej blaszce, którą Cichocki zablokował alarm w banku – ten szczegół trafił do filmu. Nazwiska bohaterów zaczerpnął z przedwojennego „Tajnego Detektywa”.
 
 ## Ucieczka od współczesności
-Film powstał w roku, w którym Polska żyła strajkami i kryzysem. Sięgnięcie po przedwojenną scenerię, eleganckie kostiumy i jazzową muzykę Henryka Kuźniaka było propozycją całkowicie odmienną: kino jako rozrywka doskonale zrobiona.
+Film wszedł do kin w roku strajków i kryzysu. Przedwojenna sceneria, eleganckie kostiumy i jazzowa muzyka Henryka Kuźniaka proponowały coś zupełnie innego: kino gatunkowe jako dobrze zrobioną rozrywkę.
 
 ## Sukces
-Obraz odniósł duży sukces frekwencyjny i doczekał się kontynuacji. Machulski udowodnił, że w polskich warunkach da się zrobić kino gatunkowe na poziomie porównywalnym z zachodnim – co wcześniej uchodziło za niemożliwe.`,
+„Vabank” odniósł duży sukces frekwencyjny, a Machulski dostał nagrodę za debiut na Festiwalu Polskich Filmów Fabularnych. W 1985 roku powstał „Vabank II, czyli riposta”. Kwestia Kramera „ucho od śledzia” weszła do potocznej polszczyzny.`,
     trivia: [
-      'Główną rolę zagrał Jan Machulski, ojciec reżysera.',
-      'Film powstał w roku strajków i kryzysu, a proponował widzowi ucieczkę w elegancką scenerię lat 30.',
+      'Pierwowzorem Henryka Kwinty był przedwojenny kasiarz Stanisław Cichocki „Szpicbródka”.',
+      'Pierwszy zarys scenariusza Machulski napisał w 1977 roku na wczasach w Bułgarii.',
     ],
     resources: [
       {
@@ -26531,19 +26549,22 @@ Państwo deklarujące równość prowadziło sieć sklepów, w których za obcą
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jelenia%20Gora%20panorama%20HDR.jpg?width=800',
     imageCaption: 'Panorama Jeleniej Góry u stóp Karkonoszy.',
     content: `## Miasto
-Jelenia Góra leży w Kotlinie Jeleniogórskiej, u podnóża Karkonoszy. Po wojnie znalazła się w granicach Polski jako część ziem zachodnich, a jej dawni mieszkańcy zostali wysiedleni; miasto zasiedlili przesiedleńcy, w znacznej części z Kresów.
+Jelenia Góra leży w Kotlinie Jeleniogórskiej, u podnóża Karkonoszy. W 1945 roku znalazła się w granicach Polski; nazwę zatwierdzono administracyjnie w maju 1946 roku. Przedwojennych niemieckich mieszkańców wysiedlono, a na ich miejsce napłynęli w zdecydowanej większości Polacy – przesiedleńcy z różnych stron.
 
-## Przemysł
-Rozwijano tu przemysł farmaceutyczny, papierniczy i optyczny – zakłady Jelfa i Celwiskoza należały do największych pracodawców regionu. Miasto było też ośrodkiem administracyjnym: w latach 1975–1998 stolicą województwa.
+## Nowy początek
+Polskie życie miejskie organizowano szybko: już w sierpniu 1945 roku działał tu teatr, otwierano polskie szkoły, tworzono archiwum. Jednocześnie wojna i powojenne demontaże zostawiły ślad – na linii kolejowej Zgorzelec–Wrocław w 1945 roku zlikwidowano sieć trakcyjną, a elektryfikację przywrócono dopiero w latach 60.
 
-## Turystyka i uzdrowisko
-Cieplice, włączone do miasta, są uzdrowiskiem o wielowiekowej tradycji. Jelenia Góra pełniła funkcję bazy wypadowej w Karkonosze, obsługując ruch wczasowy i wycieczkowy z całego kraju.
+## Przemysł i administracja
+W mieście rozwijano przemysł farmaceutyczny, włókienniczy, papierniczy i optyczny – zakłady Jelfa i Celwiskoza należały do największych pracodawców regionu. W 1975 roku, dzięki silnej pozycji gospodarczej i kulturalnej, Jelenia Góra została stolicą nowego województwa jeleniogórskiego, istniejącego do 1998 roku.
+
+## Cieplice
+2 lipca 1976 roku do miasta przyłączono Cieplice Śląskie-Zdrój, Sobieszów i Maciejową, co wymusiło zmianę nazw ponad stu ulic. Cieplice – uzdrowisko o wielowiekowej tradycji – i bliskość Karkonoszy uczyniły z Jeleniej Góry bazę ruchu wczasowego i wycieczkowego z całego kraju.
 
 ## Zniszczone dziedzictwo
-Poniemiecka zabudowa regionu – pałace, dwory i uzdrowiskowe wille – przez dziesięciolecia niszczała, bo nie mieściła się w polityce historycznej epoki. Jej odbudowa zaczęła się dopiero po 1989 roku.`,
+W 1971 roku rozpoczęto wyburzanie większości zabytkowych kamienic w obrębie rynku i ulicy Kopernika. Także poniemieckie pałace, dwory i uzdrowiskowe wille regionu przez dziesięciolecia niszczały, pozbawione opieki i właściwego użytku. Ich ratowanie na większą skalę zaczęło się dopiero po 1989 roku.`,
     trivia: [
-      'Po wojnie miasto zasiedlili przesiedleńcy, w znacznej części z Kresów.',
-      'Poniemieckie pałace i wille regionu niszczały przez dziesięciolecia, bo nie mieściły się w ówczesnej polityce historycznej.',
+      'W 1976 roku przyłączenie Cieplic, Sobieszowa i Maciejowej wymusiło zmianę nazw ponad stu ulic.',
+      'W 1971 roku rozpoczęto wyburzanie większości zabytkowych kamienic wokół jeleniogórskiego rynku.',
     ],
     resources: [
       {
@@ -29918,23 +29939,26 @@ Prezenty miały wymiar praktyczny: pościel, komplet garnków, sprzęt gospodars
     category: 'kultura',
     tags: ['film', 'komedia', 'wojna', 'kino'],
     yearStart: 1970,
-    summary: 'Trzyczęściowa wojenna komedia Tadeusza Chmielewskiego (1970); kanonier Franek Dolas jest przekonany, że to on rozpętał II wojnę światową.',
+    summary: 'Trzyczęściowa wojenna komedia Tadeusza Chmielewskiego (1969); kanonier Franek Dolas jest przekonany, że to on rozpętał II wojnę światową, i przemierza pół Europy i Bliski Wschód, by się zrehabilitować.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Przybli%C5%BCona%20trasa%20Franciszka%20Dolasa%20w%20serialu%20Jak%20rozp%C4%99ta%C5%82em%20II%20wojn%C4%99%20%C5%9Bwiatow%C4%85.png?width=800',
     imageCaption: 'Trasa Franciszka Dolasa z serialu „Jak rozpętałem drugą wojnę światową”',
     content: `## Film
-Komedia wojenna Tadeusza Chmielewskiego, zrealizowana w 1969 roku i pokazana rok później, oparta na powieści Kazimierza Sławińskiego. Powstała jako trzyczęściowa opowieść o kanonierze Franciszku Dolasie, granym przez Mariana Kociniaka.
+Komedia wojenna Tadeusza Chmielewskiego z 1969 roku, oparta na powieści Kazimierza Sławińskiego „Przygody kanoniera Dolasa”. Składa się z trzech części: „Ucieczka”, „Za bronią” i „Wśród swoich”. W roli Franciszka Dolasa wystąpił Marian Kociniak. Film nakręcono w czerni i bieli; kolorową wersję przygotowano w 2001 roku.
 
 ## Bohater
-Dolas jest przekonany, że przez zbieg okoliczności to on wywołał drugą wojnę światową. Chcąc się zrehabilitować, przemierza kolejne fronty – od Jugosławii przez Afrykę po Włochy – wpadając z jednej absurdalnej sytuacji w drugą.
+31 sierpnia 1939 roku starszy strzelec Dolas zasypia w wagonie i nieświadomie przekracza granicę. Widząc Niemców szykujących się do ataku, strzela – a gdy wkrótce wybucha wojna, jest przekonany, że to on ją rozpętał. Chcąc się zrehabilitować, ucieka z obozu jenieckiego, pracuje w Tyrolu, przez Jugosławię trafia na statek, ląduje w Syrii w Legii Cudzoziemskiej, potem u Brytyjczyków i na froncie włoskim, by w końcu wrócić do Polski.
 
 ## Wojna jako farsa
-Pokazanie wojny w konwencji komediowej było w polskim kinie odważne, bo naruszało obowiązującą powagę tematu. Film nie kpi jednak z ofiar, lecz z chaosu, przypadku i wojskowej biurokracji.
+Pokazanie wojny w konwencji komediowej naruszało obowiązującą powagę tematu. Podczas kolaudacji zarzucano filmowi m.in. zbyt łagodne przedstawienie obozu jenieckiego, a prasa krytykowała go także po premierze. Chmielewski nie kpił jednak z ofiar, lecz z chaosu, przypadku i wojskowej biurokracji, a jego bohater – zaradny, uparty i niezniszczalny – odpowiadał potrzebie pozytywnego obrazu Polaka.
 
-## Trwałość
-Scena z formularzem i nazwiskiem Grzegorz Brzęczyszczykiewicz stała się jednym z najbardziej rozpoznawalnych fragmentów polskiego kina, cytowanym przez pokolenia, które samego filmu czasem nawet nie widziały w całości.`,
+## Sukces
+Mimo krytyki film przyciągnął do kin około 8,5 miliona widzów i z czasem zyskał status kultowego. Chwalono przede wszystkim kreację Kociniaka i scenografię. W 2003 roku powstała na jego motywach gra komputerowa.
+
+## Brzęczyszczykiewicz
+Scena, w której Dolas, podając się za kogoś innego, przedstawia się niemieckiemu oficerowi jako Grzegorz Brzęczyszczykiewicz z Chrząszczyżewoszyc, stała się jednym z najbardziej rozpoznawalnych fragmentów polskiego kina – cytowanym przez pokolenia, które czasem nie widziały nawet całego filmu.`,
     trivia: [
-      'Bohater jest przekonany, że to on nieświadomie wywołał drugą wojnę światową.',
-      'Scena z nazwiskiem Grzegorz Brzęczyszczykiewicz należy do najczęściej cytowanych w polskim kinie.',
+      'Film obejrzało w kinach około 8,5 miliona widzów.',
+      'Kolaudacja zarzucała filmowi m.in. zbyt łagodne przedstawienie obozu jenieckiego.',
     ],
     resources: [
       {
@@ -33483,19 +33507,22 @@ Historia pisma pokazuje rytm, który w PRL powtarzał się kilkakrotnie: odwilż
     yearEnd: 1989,
     summary: 'Popołudniowy dziennik wydawany od 1946 roku, pisany lżej niż prasa partyjna – z kroniką wypadków, sportem i ogłoszeniami.',
     content: `## Popołudniówka
-„Express Wieczorny” zaczął wychodzić w 1946 roku i ukazywał się do 1999. Był popołudniówką: gazetą kupowaną w drodze z pracy, pisaną krótko i lekko, nastawioną na wiadomości miejskie, sport, kronikę wypadków i ogłoszenia.
+„Express Wieczorny” założył w 1946 roku Rafał Praga; gazeta wychodziła w Warszawie do 1999 roku. Do powstania PZPR w 1948 roku należała do PPS, a od 1973 roku do koncernu RSW „Prasa-Książka-Ruch”. Była popołudniówką: kupowaną w drodze z pracy, pisaną krótko i lekko, nastawioną na wiadomości miejskie, sport, kronikę wypadków i ogłoszenia.
+
+## Szybkość
+Redakcja przy Alejach Jerozolimskich 125 była bezpośrednio połączona z drukarnią przy Nowogrodzkiej, co pozwalało skrócić proces wydawniczy do minimum. „Express” uchodził za najlepiej poinformowaną gazetę warszawską, najszybciej reagującą na wydarzenia w mieście. Ostatnią, czwartą mutację rozwożono samochodami do kiosków w centrum – wczesnym popołudniem ustawiały się po nią kolejki ludzi kończących pierwszą zmianę.
+
+## Autorzy
+Na łamach „Expressu” felietony pisał Stefan Wiechecki „Wiech”, mistrz warszawskiej gwary, a rysunki zamieszczał Julian Żebrowski. Sobotnie wydanie „Kulisy” miało charakter publicystyczny.
 
 ## Inna funkcja
-W systemie prasy PRL taki tytuł pełnił rolę odciążającą. Nie prowadził polemik ideologicznych, więc nie budził czujności cenzury w tym samym stopniu co pisma społeczno-kulturalne, a jednocześnie był realnie czytany – przez ludzi, którzy prasy partyjnej nie brali do ręki.
-
-## Czytelnictwo
-Wysokie nakłady gazet w PRL wynikały z niskiej ceny i braku konkurencji, ale popołudniówki sprzedawały się naprawdę – kupowano je z wyboru, nie z prenumeraty zakładowej.
+W systemie prasy PRL taki tytuł pełnił rolę odciążającą. Nie prowadził polemik ideologicznych na pierwszym planie, a jednocześnie był realnie czytany, także przez ludzi, którzy po prasę partyjną sięgali niechętnie. W 1976 roku redakcja dostała Order Sztandaru Pracy II klasy – pismo lekkie nie znaczyło pisma niezależnego.
 
 ## Obraz miasta
-Dla dzisiejszego czytelnika roczniki takiej gazety są zapisem codzienności: cen, kolejek, repertuaru kin, wypadków komunikacyjnych i drobnych spraw, których nie odnotowywała prasa centralna.`,
+Dla dzisiejszego czytelnika roczniki „Expressu” są zapisem codzienności: cen, kolejek, repertuaru kin, wypadków i drobnych spraw Warszawy, których nie odnotowywała prasa centralna.`,
     trivia: [
-      'Popołudniówki kupowano z wyboru, podczas gdy prasa partyjna trafiała do rąk przez prenumeratę zakładową.',
-      'Roczniki takiej gazety są dziś zapisem codzienności, której prasa centralna nie odnotowywała.',
+      'Wczesnym popołudniem przed kioskami w centrum Warszawy ustawiały się kolejki po ostatnią mutację „Expressu”.',
+      'Felietony pisał w nim Stefan Wiechecki „Wiech”.',
     ],
     resources: [
       {
@@ -33655,7 +33682,9 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1965, event: 'Powstają Czerwone Gitary – „polscy Beatlesi”', category: 'kultura', entryId: 'czerwone-gitary' },
   { year: 1958, event: 'Pierwsze wydanie Dziennika Telewizyjnego – główny program propagandowy', category: 'społeczeństwo', entryId: 'dziennik-telewizyjny' },
   { year: 1966, event: 'Premiera serialu „Czterej pancerni i pies”', category: 'kultura', entryId: 'czterej-pancerni' },
-  { year: 1967, event: 'Premiera serialu „Stawka większa niż życie” – kapitan Kloss', category: 'kultura', entryId: 'stawka-wieksza-niz-zycie' },
+  { year: 1968, event: 'Telewizja rozpoczyna emisję serialu „Stawka większa niż życie” – kapitan Kloss', category: 'kultura', entryId: 'stawka-wieksza-niz-zycie' },
+  { year: 1946, event: 'Rafał Praga zakłada w Warszawie popołudniówkę „Express Wieczorny”', category: 'kultura', entryId: 'express-wieczorny' },
+  { year: 1981, event: 'Po odcięciu telefonów w stanie wojennym rozmowy poprzedza komunikat „rozmowa kontrolowana”', category: 'represje', entryId: 'telefon-prl' },
   { year: 1971, event: 'Jacek Karpiński konstruuje minikomputer K-202 – projekt zablokowany', category: 'społeczeństwo', entryId: 'jacek-karpinski' },
   { year: 1978, event: 'Wanda Rutkiewicz pierwszą Polką na Mount Everest', category: 'społeczeństwo', entryId: 'wanda-rutkiewicz' },
   { year: 1980, event: 'Pierwsze zimowe wejście na Mount Everest – Cichy i Wielicki', category: 'społeczeństwo', entryId: 'himalaizm-polski' },
