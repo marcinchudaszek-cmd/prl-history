@@ -1288,14 +1288,6 @@ Po spełnieniu części postulatów komitet przekształcił się w Komitet Samoo
         source: 'Wikipedia',
         description: 'Cyfrowe kopie biuletynu KOR wydawanego w drugim obiegu',
       },
-      {
-        id: 'kor-3',
-        title: 'Komitet Obrony Robotników (KOR) – opracowania',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Komitet_Obrony_Robotnik%C3%B3w',
-        source: 'Wikipedia',
-        description: 'Dokumenty Służby Bezpieczeństwa dotyczące inwigilacji KOR i jego działaczy',
-      },
     ],
     relatedIds: ['czerwiec-1976', 'solidarnosc', 'sbezpieczenstwa', 'marzec-1968', 'olszewski-jan', 'lipski'],
   },
@@ -1733,15 +1725,6 @@ Dla setek tysięcy mężczyzn armia oznaczała dwuletnią służbę zasadniczą,
         year: 2021,
       },
       {
-        id: 'wyszynski-2',
-        title: 'Non possumus – memoriał Episkopatu 1953',
-        type: 'dokument',
-        url: 'https://pl.wikipedia.org/wiki/Stefan_Wyszy%C5%84ski',
-        source: 'Wikipedia',
-        description: 'Omówienie memoriału biskupów polskich odmawiającego podporządkowania Kościoła władzy komunistycznej.',
-        year: 1953,
-      },
-      {
         id: 'wyszynski-3',
         title: 'Prymas Stefan Wyszyński – zdjęcia i grafiki',
         type: 'zdjęcie',
@@ -1801,14 +1784,6 @@ Dla setek tysięcy mężczyzn armia oznaczała dwuletnią służbę zasadniczą,
         url: 'https://pl.wikipedia.org/wiki/%C5%BBo%C5%82nierze_wykl%C4%99ci',
         source: 'Wikipedia',
         description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
-      },
-      {
-        id: 'wykletci-2',
-        title: 'Żołnierze Wyklęci – opracowania',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/%C5%BBo%C5%82nierze_wykl%C4%99ci',
-        source: 'Wikipedia',
-        description: 'Biogramy, dokumenty i edukacja o Żołnierzach Wyklętych.',
       },
       {
         id: 'wykletci-3',
@@ -2321,15 +2296,6 @@ Państwo utrzymywało kosztowną sieć stacji zagłuszających, ale słuchano mi
         description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1952,
         downloadable: false,
-      },
-      {
-        id: 'rwe-2',
-        title: 'Radio Wolna Europa – opracowania (2)',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Radio_Wolna_Europa',
-        source: 'Wikipedia',
-        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
-        year: 1952,
       },
       {
         id: 'rwe-3',
@@ -3069,16 +3035,6 @@ Przez dekady Akcja Wisła była tematem tabu w PRL. Dopiero po 1989 roku możliw
         url: 'https://pl.wikipedia.org/wiki/Akcja_%E2%80%9EWis%C5%82a%E2%80%9D',
         source: 'Wikipedia',
         description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
-        year: 1947,
-        downloadable: false,
-      },
-      {
-        id: 'wisla-2',
-        title: 'Akcja Wisła – opracowania',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Akcja_%E2%80%9EWis%C5%82a%E2%80%9D',
-        source: 'Wikipedia',
-        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1947,
         downloadable: false,
       },
@@ -3948,22 +3904,6 @@ Miłosz jest autorem „Traktatu moralnego", „Ziemi Ulro", „Roku myśliwego"
         description: 'Poezja i proza Czesława Miłosza dostępna online',
       },
       {
-        id: 'milosz-polona',
-        title: 'Czesław Miłosz – opracowania',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Czes%C5%82aw_Mi%C5%82osz',
-        source: 'Wikipedia',
-        description: 'Digitalizacje pism, rękopisów i pierwszych wydań Miłosza',
-      },
-      {
-        id: 'milosz-ph',
-        title: 'Czesław Miłosz – twórczość i emigracja',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Czes%C5%82aw_Mi%C5%82osz',
-        source: 'Wikipedia',
-        description: 'Artykuły historyczne o twórczości i losach Czesława Miłosza',
-      },
-      {
         id: 'milosz-nina',
         title: 'Czesław Miłosz. Czciciel rzek',
         type: 'nagranie',
@@ -4048,14 +3988,6 @@ Jego poezja jest przetłumaczona na kilkadziesiąt języków. Jest to jedna z po
         description: 'Rękopisy, korespondencja i pierwsze wydania utworów Zbigniewa Herberta',
       },
       {
-        id: 'herbert-ph',
-        title: 'Zbigniew Herbert – poeta niezłomny',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Zbigniew_Herbert',
-        source: 'Wikipedia',
-        description: 'Artykuły o postawie Zbigniewa Herberta wobec komunizmu i jego spuściźnie',
-      },
-      {
         id: 'herbert-nina',
         title: 'Zbigniew Herbert | Finezje literackie',
         type: 'nagranie',
@@ -4134,14 +4066,6 @@ Walentynowicz do końca życia czuła, że jest niedoceniana. Historia oddaje je
         url: 'https://pl.wikipedia.org/wiki/Anna_Walentynowicz',
         source: 'Wikipedia',
         description: 'Dokumenty Służby Bezpieczeństwa dotyczące inwigilacji Anny Walentynowicz',
-      },
-      {
-        id: 'walentynowicz-ph',
-        title: 'Anna Walentynowicz – iskra Solidarności',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Anna_Walentynowicz',
-        source: 'Wikipedia',
-        description: 'Artykuły historyczne o roli Anny Walentynowicz w narodzinach Solidarności',
       },
     ],
     relatedIds: ['sierpien-1980', 'stocznia-gdanska', 'walesa', 'solidarnosc', 'wzz'],
@@ -4497,14 +4421,6 @@ Po 1989 roku postępowania karne wobec sprawców internowania toczyły się lata
         description: 'Dokumenty dotyczące operacji internowania i list internowanych w stanie wojennym',
       },
       {
-        id: 'intern-ph',
-        title: 'Internowani w stanie wojennym',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Internowanie',
-        source: 'Wikipedia',
-        description: 'Artykuły historyczne i relacje świadków dotyczące internowania w stanie wojennym',
-      },
-      {
         id: 'intern-ninateka',
         title: 'Dokumenty stanu wojennego – nagrania',
         type: 'nagranie',
@@ -4589,14 +4505,6 @@ Michnik jest symbolem liberalnej lewicy i dialogu. Jego teza o „grubej kresce"
         url: 'https://pl.wikipedia.org/wiki/Adam_Michnik',
         source: 'Wikipedia',
         description: 'Artykuły historyczne o roli Adama Michnika w polskiej opozycji',
-      },
-      {
-        id: 'michnik-polona',
-        title: 'Adam Michnik – artykuł',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Adam_Michnik',
-        source: 'Wikipedia',
-        description: 'Digitalizacja pierwszych numerów Gazety Wyborczej z 1989 roku',
       },
       {
         id: 'michnik-nina',
@@ -4818,14 +4726,6 @@ Kapuściński był wielokrotnie wymieniany jako kandydat do Nagrody Nobla. Stwor
         url: 'https://pl.wikipedia.org/wiki/Ryszard_Kapu%C5%9Bci%C5%84ski',
         source: 'Wikipedia',
         description: 'Wybrane teksty Ryszarda Kapuścińskiego dostępne online',
-      },
-      {
-        id: 'kapuscinski-polona',
-        title: 'Ryszard Kapuściński – opracowania',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Ryszard_Kapu%C5%9Bci%C5%84ski',
-        source: 'Wikipedia',
-        description: 'Zdigitalizowane materiały o Kapuścińskim i jego twórczości',
       },
       {
         id: 'kapuscinski-ipn',
@@ -5109,14 +5009,6 @@ RWPG rozwiązała się w 1991 roku, gdy upadły komunistyczne rządy i rynki wsc
         source: 'Wikipedia',
         description: 'Artykuły historyczne o RWPG i jej wpływie na polską gospodarkę',
       },
-      {
-        id: 'rwpg-ipn',
-        title: 'RWPG – Rada Wzajemnej Pomocy Gospodarczej – artykuł',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Rada_Wzajemnej_Pomocy_Gospodarczej',
-        source: 'Wikipedia',
-        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
-      },
     ],
     relatedIds: ['gospodarka-prl', 'plan-szescioletni', 'gierek', 'uklad-warszawski', 'jalta'],
   },
@@ -5176,14 +5068,6 @@ Ostatnie lata życia spędziła w Krakowie, otoczona gronem przyjaciół. Pisał
         url: 'https://pl.wikipedia.org/wiki/Wis%C5%82awa_Szymborska',
         source: 'Wikipedia',
         description: 'Wiersze Wisławy Szymborskiej dostępne online',
-      },
-      {
-        id: 'szym-polona',
-        title: 'Wisława Szymborska – opracowania',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Wis%C5%82awa_Szymborska',
-        source: 'Wikipedia',
-        description: 'Zdigitalizowane pierwsze wydania tomów poetyckich Szymborskiej',
       },
       {
         id: 'szym-ninateka',
@@ -5669,14 +5553,6 @@ Lem jest patronem nauki o przyszłości, cyberprzestrzeni i etyce technologiczne
         description: 'Wybrane utwory Stanisława Lema dostępne online',
       },
       {
-        id: 'lem-polona',
-        title: 'Stanisław Lem – opracowania',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Lem',
-        source: 'Wikipedia',
-        description: 'Zdigitalizowane pierwsze wydania powieści i esejów Stanisława Lema',
-      },
-      {
         id: 'lem-ninateka',
         title: 'Stanisław Lem | Filmowy Kanon Literatury',
         type: 'film',
@@ -5751,14 +5627,6 @@ Wajda nauczył świat patrzeć na Polskę przez pryzmat jej tragicznej historii.
         url: 'https://pl.wikipedia.org/wiki/Andrzej_Wajda',
         source: 'Wikipedia',
         description: 'Artykuły historyczne o filmografii i znaczeniu Andrzeja Wajdy',
-      },
-      {
-        id: 'wajda-polona',
-        title: 'Andrzej Wajda – artykuł',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Andrzej_Wajda',
-        source: 'Wikipedia',
-        description: 'Recenzje i artykuły prasowe z epoki PRL dotyczące twórczości Wajdy',
       },
     ],
     relatedIds: ['polska-szkola-filmowa', 'kino-moralnego-niepokoju', 'kino-prl', 'solidarnosc', 'katyn'],
@@ -11415,22 +11283,6 @@ Kołakowski odwiedzał Polskę po 1989 roku. Był uhonorowany wieloma nagrodami,
         source: 'Wikipedia',
         description: 'Zdigitalizowane publikacje i artykuły filozoficzne Leszka Kołakowskiego',
       },
-      {
-        id: 'kolakowski-ipn',
-        title: 'Kołakowski – inwigilacja SB',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Leszek_Ko%C5%82akowski',
-        source: 'Wikipedia',
-        description: 'Dokumenty dotyczące inwigilacji Leszka Kołakowskiego przez Służbę Bezpieczeństwa',
-      },
-      {
-        id: 'kolakowski-ph',
-        title: 'Kołakowski – od rewizjonizmu do krytyki',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Leszek_Ko%C5%82akowski',
-        source: 'Wikipedia',
-        description: 'Artykuły historyczne o drodze intelektualnej Leszka Kołakowskiego',
-      },
     ],
     relatedIds: ['literatura-prl', 'marzec-1968', 'michnik', 'drugi-obieg', 'milosz'],
   },
@@ -11499,14 +11351,6 @@ Polska szkoła plakatu dowodzi, że nawet w systemie totalitarnym twórczość m
         source: 'YouTube',
         description: 'Materiały o polskiej szkole plakatu i jej twórcach',
       },
-      {
-        id: 'plakat-ph',
-        title: 'Polska szkoła plakatu – fenomen artystyczny PRL',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Polska_szko%C5%82a_plakatu',
-        source: 'Wikipedia',
-        description: 'Artykuły o polskiej szkole plakatu jako zjawisku artystycznym i kulturowym',
-      },
     ],
     relatedIds: ['kultura-prl', 'socrealizm', 'kino-prl', 'jazz-prl', 'animacja-prl'],
   },
@@ -11558,14 +11402,6 @@ Postać Kuklińskiego dzieli Polaków do dziś. Toczy się debata, czy jego dzia
         url: 'https://pl.wikipedia.org/wiki/Ryszard_Kukli%C5%84ski',
         source: 'Wikipedia',
         description: 'Hasła i opracowania encyklopedyczne na ten temat.',
-      },
-      {
-        id: 'kuk-3',
-        title: 'Ryszard Kukliński – opracowania (2)',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Ryszard_Kukli%C5%84ski',
-        source: 'Wikipedia',
-        description: 'Publikacje i prasa o najsłynniejszym polskim szpiegu zimnej wojny.',
       },
     ],
     relatedIds: ['stan-wojenny', 'uklad-warszawski', 'lwp', 'wywiad-prl', 'jaruzelski'],
@@ -11641,14 +11477,6 @@ Kaczmarski pozostaje jednym z najważniejszych głosów polskiej kultury niezale
         url: 'https://pl.wikipedia.org/wiki/Jacek_Kaczmarski',
         source: 'Wikipedia',
         description: 'Materiały o roli poezji śpiewanej w opozycji.',
-      },
-      {
-        id: 'kacz-3',
-        title: 'Jacek Kaczmarski – opracowania (2)',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Jacek_Kaczmarski',
-        source: 'Wikipedia',
-        description: 'Zbiory tekstów i opracowań o twórczości barda.',
       },
     ],
     relatedIds: ['solidarnosc', 'drugi-obieg', 'radio-wolna-europa', 'kultura-prl', 'muzyka-rockowa-prl'],
@@ -12039,14 +11867,6 @@ Stanisław Pyjas stał się symbolem ofiar systemu wśród młodzieży akademick
         description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
       {
-        id: 'pyj-3',
-        title: 'Stanisław Pyjas – opracowania',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Pyjas',
-        source: 'Wikipedia',
-        description: 'Materiały o opozycji studenckiej lat 70.',
-      },
-      {
         id: 'stanislaw-pyjas-ipn2',
         title: 'Artykuły IPN – opozycja lat 70.',
         type: 'publikacja',
@@ -12361,14 +12181,6 @@ Bitwa o handel zniszczyła warstwę drobnych przedsiębiorców i kupców, zmieni
         url: 'https://pl.wikipedia.org/w/index.php?search=bitwa%20o%20handel%20Minc%20prywatny%20handel&fulltext=1&ns0=1',
         source: 'Wikipedia',
         description: 'Opracowania o likwidacji prywatnej przedsiębiorczości.',
-      },
-      {
-        id: 'boh-3',
-        title: 'Bitwa o handel – opracowania',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Bitwa_o_handel',
-        source: 'Wikipedia',
-        description: 'Cyfrowe zbiory prasy z okresu bitwy o handel.',
       },
     ],
     relatedIds: ['nacjonalizacja', 'kolektywizacja', 'gospodarka-prl', 'plan-szescioletni', 'zbrodnie-stalinizmu', 'minc'],
@@ -12782,14 +12594,6 @@ Konfrontacja zakończyła się porażką państwa: uroczystości kościelne grom
         year: 1966,
       },
       {
-        id: 'mil-2',
-        title: 'Milenium 1966 – Przystanek Historia',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Milenium_chrztu_Polski',
-        source: 'Wikipedia',
-        description: 'Opracowania o rywalizacji obchodów w 1966 r.',
-      },
-      {
         id: 'mil-3',
         title: 'Kroniki obchodów',
         type: 'film',
@@ -12842,14 +12646,6 @@ Jarocin stał się legendą i symbolem pokolenia. Po 1989 roku festiwal reaktywo
         url: 'https://pl.wikipedia.org/wiki/Festiwal_w_Jarocinie',
         source: 'Wikipedia',
         description: 'Teksty o festiwalu i jego inwigilacji przez SB.',
-      },
-      {
-        id: 'jar-3',
-        title: 'Jarocin – dokumentacja',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=2R1yeSGfrgw',
-        source: 'YouTube',
-        description: 'Filmy i nagrania związane z festiwalem.',
       },
     ],
     relatedIds: ['muzyka-rockowa-prl', 'rock-lat-80', 'punk-prl'],
@@ -13212,14 +13008,6 @@ Lista Przebojów Trójki przetrwała przemiany ustrojowe i przez dekady pozostaw
         description: 'Archiwalne nagrania audycji – 142 lista przebojów trójki | 05.01.1985 | Marek Niedźwiecki – 142 lista przebojów trójki | 05.01.1985 | Marek Niedźwiecki',
       },
       {
-        id: 'lpt-2',
-        title: 'Trójka i muzyka – VOD TVP',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=SKD3-Iv-tGk',
-        source: 'YouTube',
-        description: 'Materiały o radiowych notowaniach.',
-      },
-      {
         id: 'lpt-3',
         title: 'Radio w PRL – materiały',
         type: 'nagranie',
@@ -13550,20 +13338,23 @@ Czerwone Gitary są symbolem melodyjnego big-beatu lat 60. i 70. i jednym z najl
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Top_of_the_Top_Sopot_Festival_2024.png?width=800',
     imageCaption: 'Znak współczesnego festiwalu w sopockiej Operze Leśnej',
     content: `## Geneza
-Międzynarodowy Festiwal Piosenki w Sopocie zainaugurowano w 1961 roku z inicjatywy Władysława Szpilmana. Początkowo odbywał się w hali Stoczni Gdańskiej, później w sopockiej Operze Leśnej.
+Międzynarodowy Festiwal Piosenki w Sopocie wymyślił Władysław Szpilman. Pierwsza edycja odbyła się w dniach 25–27 sierpnia 1961 roku. Przez trzy pierwsze lata festiwal gościła hala Stoczni Gdańskiej, a od 1964 roku – sopocka Opera Leśna. Pierwszym konferansjerem był Lucjan Kydryński, a zapowiadały Irena Dziedzic i Zofia Słaboszewska.
 
 ## Okno na świat
-Festiwal był jednym z nielicznych miejsc, gdzie polska publiczność mogła zobaczyć zachodnich artystów. Występowali tu wykonawcy z całej Europy, a także gwiazdy zza żelaznej kurtyny.
+Festiwal był jednym z nielicznych miejsc, gdzie polska publiczność mogła zobaczyć wykonawców z Zachodu obok artystów z bloku wschodniego. Zgodnie z tradycją zagraniczni uczestnicy śpiewali też polskie przeboje, co miało promować polską piosenkę za granicą.
 
-## Opera Leśna
-Leśna scena w Sopocie stała się kultowym miejscem. Transmisje telewizyjne gromadziły miliony widzów, a festiwal był wydarzeniem towarzyskim i medialnym sezonu.
+## Interwizja
+Największy rozmach festiwal osiągnął w latach 1977–1980, gdy Telewizja Polska, hojnie finansowana przez Macieja Szczepańskiego, zamieniła go w Festiwal Interwizji – wschodnioeuropejską odpowiedź na Konkurs Eurowizji. Czołówka w duchu propagandy sukcesu, efektowna scenografia, gwiazdy światowego formatu i jacht pełnomorski jako nagroda publiczności miały pokazać, że PRL stać na imprezę na światowym poziomie.
 
-## Gwiazdy
-Na sopockiej scenie występowali m.in. Czesław Niemen, Maryla Rodowicz, Anna German, a także zagraniczni artyści jak Charles Aznavour czy zespoły z bloku wschodniego.
+## Rasputin
+Najwięcej emocji wywołał festiwal 1979 roku, gdy wystąpił Boney M. Telewizja nadała koncert z jednodniowym poślizgiem i wycięła piosenkę „Rasputin”, uznaną za godzącą w sojusz z ZSRR.
 
-## Znaczenie
-Festiwal w Sopocie, obok Opola, współtworzył pejzaż polskiej estrady i był symbolem rozrywkowej kultury PRL otwartej – w ograniczonym zakresie – na świat.`,
-    trivia: ['Festiwal odbywa się w Operze Leśnej.', 'Miał charakter międzynarodowy – występowali artyści z wielu krajów.'],
+## Przerwa i powrót
+W latach 1981–1983, w czasie kryzysu i stanu wojennego, festiwal się nie odbywał i powszechnie sądzono, że zniknął na zawsze. Wznowienie w 1984 roku pod dawną nazwą było wydarzeniem; od tego roku główną nagrodą był Bursztynowy Słowik. Festiwal, obok Opola, współtworzył pejzaż estrady PRL – otwartej na świat, choć w ściśle wyznaczonych granicach.`,
+    trivia: [
+      'W 1979 roku telewizja wycięła z występu Boney M. piosenkę „Rasputin”, uznaną za godzącą w sojusz z ZSRR.',
+      'W czasach Festiwalu Interwizji nagrodą publiczności był jacht pełnomorski.',
+    ],
     resources: [
       {
         id: 'sop-1',
@@ -14544,21 +14335,27 @@ Dziś ocenia się go ambiwalentnie – jako sprawnie zrobiony serial przygodowy 
     summary: 'Główny serwis informacyjny telewizji PRL, będący kluczowym narzędziem propagandy partyjnej, szczególnie w okresie stanu wojennego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Dziennik_Telewizyjny_1981-89_logo.webp?width=800',
     imageCaption: 'Znak „Dziennika Telewizyjnego” używany w latach 1981–1989',
-    content: `## Rola
-Dziennik Telewizyjny (DTV) był głównym programem informacyjnym Telewizji Polskiej i zarazem najważniejszym telewizyjnym narzędziem propagandy PRL. Emitowano go wieczorem, gromadząc milionową widownię.
+    content: `## Początek
+Pierwsze wydanie „Dziennika Telewizyjnego” wyemitowano 2 stycznia 1958 roku. Program zastąpił „Wiadomości Dnia”, a poprowadził je Stanisław Cześnin. Początkowo nadawano go raz na dobę o 19:30 – i ta godzina, poza krótkim okresem w połowie lat 60., pozostała porą głównego wydania aż do końca PRL.
+
+## Rozrost
+Wraz z wydłużaniem się czasu emisji i uruchomieniem Programu II przybywało wydań: porannych, południowych, popołudniowych i późnowieczornych. W wyborcze niedziele lat 80. wydania specjalne nadawano nawet osiem razy w ciągu dnia, poza głównym o 19:30.
 
 ## Propaganda
-Dziennik prezentował rzeczywistość zgodnie z linią partii: eksponował „sukcesy” gospodarcze, przyjaźń z ZSRR i atakował opozycję oraz Zachód. Informacje były selekcjonowane i zniekształcane.
+W latach 70. i 80. „Dziennik” był głównym ośrodkiem propagandy władz i PZPR, zdolnym oddziaływać na całe społeczeństwo. Eksponował sukcesy gospodarcze, przyjaźń z ZSRR i atakował opozycję oraz Zachód. Po Sierpniu 1980 roku stał się jednym z najostrzej krytykowanych przez „Solidarność” bastionów władzy, a sięgał po metody powszechnie uznawane w dziennikarstwie za nieuczciwe.
 
 ## Stan wojenny
-Po 13 grudnia 1981 roku prezenterzy Dziennika wystąpili w mundurach wojskowych, co stało się symbolem militaryzacji mediów. Telewizja stała się tubą propagandową WRON.
+Bezpośrednio po wprowadzeniu stanu wojennego prezenterzy „Dziennika” występowali w mundurach wojskowych – obraz, który stał się symbolem militaryzacji mediów.
 
-## Bojkot
-W odpowiedzi na propagandę część społeczeństwa bojkotowała Dziennik – ludzie wychodzili na spacery w porze jego emisji, manifestując sprzeciw wobec kłamstw telewizji.
+## Spacery
+Najbardziej znaną formą protestu był bojkot głównego wydania. Od lutego 1982 roku w Świdniku mieszkańcy wychodzili w porze „Dziennika” na spacer, a niektórzy wystawiali telewizory w oknach ekranami na ulicę. Władze odpowiadały przesunięciem godziny milicyjnej, lecz forma protestu przeniosła się do innych miast.
 
-## Znaczenie
-Dziennik Telewizyjny stał się symbolem manipulacji medialnej PRL. Jego nazwa do dziś bywa synonimem propagandy i dezinformacji.`,
-    trivia: ['Nadawano go codziennie o 19:30.', 'Był głównym narzędziem propagandy telewizyjnej.'],
+## Koniec
+„Dziennik Telewizyjny” nadawano do listopada 1989 roku, gdy zastąpiły go „Wiadomości”. Jego nazwa do dziś bywa synonimem propagandy i manipulacji.`,
+    trivia: [
+      'Pierwsze wydanie nadano 2 stycznia 1958 roku, o godzinie 19:30.',
+      'W Świdniku w 1982 roku mieszkańcy wychodzili na spacer w porze „Dziennika”, a telewizory wystawiali w oknach ekranem na ulicę.',
+    ],
     resources: [
       {
         id: 'dtv-1',
@@ -15118,14 +14915,6 @@ Protest Siwca – wcześniejszy niż głośne samospalenie Jana Palacha w Pradze
         source: 'YouTube',
         description: 'Materiały filmowe o wydarzeniu – Usłyszcie mój krzyk 1991 / Ryszard Siwiec',
       },
-      {
-        id: 'siw-3',
-        title: 'Ryszard Siwiec – artykuł',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Ryszard_Siwiec',
-        source: 'Wikipedia',
-        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
-      },
     ],
     relatedIds: ['praga-1968', 'represje-polityczne', 'uklad-warszawski'],
   },
@@ -15251,14 +15040,6 @@ Otrzymał Order Orła Białego, ale odmawiał roli pomnika. Pozostaje symbolem o
         description: 'Wywiady i materiały filmowe.',
       },
       {
-        id: 'ede-3',
-        title: 'Marek Edelman – opracowania',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Marek_Edelman',
-        source: 'Wikipedia',
-        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
-      },
-      {
         id: 'edelman-nina',
         title: 'Marek Edelman w kuluarach o ochronie zdrowia',
         type: 'nagranie',
@@ -15311,14 +15092,6 @@ Pomarańczowa Alternatywa pokazała, że system daje się atakować śmiechem sk
         url: 'https://www.youtube.com/watch?v=GJMmAvYw2Wk',
         source: 'YouTube',
         description: 'Materiały filmowe o akcjach – Pomarańczowa alternatywa - na pohybel komunie',
-      },
-      {
-        id: 'pa-3',
-        title: 'Druki i ulotki',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Pomara%C5%84czowa_Alternatywa',
-        source: 'Wikipedia',
-        description: 'Materiały ikonograficzne.',
       },
       {
         id: 'pomaranczowa-alternatywa-ipn2',
@@ -15833,14 +15606,6 @@ Ostatni numer ukazał się w styczniu 1990 roku, kilka tygodni po rozwiązaniu P
         url: 'https://pl.wikipedia.org/wiki/Trybuna_Ludu',
         source: 'Wikipedia',
         description: 'Zdigitalizowane numery dziennika.',
-      },
-      {
-        id: 'tl-2',
-        title: '„Trybuna Ludu” – opracowania',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Trybuna_Ludu',
-        source: 'Wikipedia',
-        description: 'Artykuły o prasie partyjnej.',
       },
       {
         id: 'tl-3',
@@ -16394,14 +16159,6 @@ Od lat 70. Grotowski porzucił przedstawienia na rzecz parateatru i „teatru ź
         description: 'Artykuły o teatrze i jego twórcy – Jerzy Grotowski i Teatr Laboratorium – Jerzy Grotowski i Teatr Laboratorium',
       },
       {
-        id: 'gro-2',
-        title: 'Grotowski – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=pbmx_Kx_nio',
-        source: 'YouTube',
-        description: 'Materiały filmowe o teatrze.',
-      },
-      {
         id: 'gro-3',
         title: 'Teatr w Ninatece',
         type: 'nagranie',
@@ -16608,14 +16365,6 @@ W sierpniu 1980 roku huta stała się jednym z głównych ośrodków strajkowych
         url: 'https://pl.wikipedia.org/w/index.php?search=Huta%20Katowice%20Gierek%20przemys%C5%82%20inwestycja&fulltext=1&ns0=1',
         source: 'Wikipedia',
         description: 'Artykuły o budowie i znaczeniu huty.',
-      },
-      {
-        id: 'hk-2',
-        title: 'Industrializacja – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=bhmDI3TRf2I',
-        source: 'YouTube',
-        description: 'Archiwalne materiały filmowe.',
       },
       {
         id: 'hk-3',
@@ -17812,14 +17561,6 @@ LOT symbolizował zarazem nowoczesność i ograniczenia PRL – techniczne ambic
         source: 'YouTube',
         description: 'Archiwalne materiały filmowe.',
       },
-      {
-        id: 'lot-3',
-        title: 'Fotografie lotnictwa',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Polskie_Linie_Lotnicze_LOT',
-        source: 'Wikipedia',
-        description: 'Materiały ikonograficzne.',
-      },
     ],
     relatedIds: ['gospodarka-prl', 'ucieczki-z-prl', 'turystyka-prl'],
   },
@@ -18244,14 +17985,6 @@ Do polskich księgarń wrócił dopiero w latach 80., a naprawdę szeroko po 198
         url: 'https://www.youtube.com/watch?v=0OFZmBhO2sI',
         source: 'YouTube',
         description: 'Materiały filmowe i archiwalne – Marek Hłasko Ósmy dzień tygodnia Fragment',
-      },
-      {
-        id: 'hla-3',
-        title: 'Teksty w Polonie',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Marek_H%C5%82asko',
-        source: 'Wikipedia',
-        description: 'Publikacje i wydania.',
       },
       {
         id: 'hlasko-marek-nina',
@@ -19311,14 +19044,6 @@ Efekt okazał się przeciwny do zamierzonego: sprawa nagłośniła istnienie kan
         description: 'Materiały o wydarzeniu.',
       },
       {
-        id: 'pt-3',
-        title: 'Proces taterników – opracowania',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Sprawa_taternik%C3%B3w',
-        source: 'Wikipedia',
-        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
-      },
-      {
         id: 'proces-taternikow-ipn2',
         title: 'Artykuły IPN – represje wobec drugiego obiegu',
         type: 'publikacja',
@@ -19621,14 +19346,6 @@ Turowicz uczestniczył w obradach Okrągłego Stołu jako członek strony solida
         description: 'Materiały filmowe i archiwalne.',
       },
       {
-        id: 'tu-3',
-        title: 'Prasa katolicka w Polonie',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Tygodnik_Powszechny',
-        source: 'Wikipedia',
-        description: 'Materiały prasowe i publikacje.',
-      },
-      {
         id: 'turowicz-jerzy-nina',
         title: 'Jerzy Turowicz | Głosy z przeszłości',
         type: 'nagranie',
@@ -19681,14 +19398,6 @@ Proces toczył się dokładnie wtedy, gdy w Moskwie negocjowano skład Tymczasow
         url: 'https://www.youtube.com/results?search_query=proces+szesnastu+1945+Moskwa+NKWD',
         source: 'YouTube',
         description: 'Materiały filmowe i dokumenty.',
-      },
-      {
-        id: 'ps16-3',
-        title: 'Proces szesnastu – artykuł',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Proces_szesnastu',
-        source: 'Wikipedia',
-        description: 'Hasło encyklopedyczne wraz z opracowaniem tematu.',
       },
       {
         id: 'proces-szesnastu-ipn2',
@@ -19748,14 +19457,6 @@ Przez cały okres PRL temat był objęty całkowitym zakazem. Rodziny nie mogły
         url: 'https://www.youtube.com/watch?v=PWlq_JJQi-k',
         source: 'YouTube',
         description: 'Materiały filmowe i dokumenty – Mały Katyń - Obława Augustowska. Historia Bez Cenzury',
-      },
-      {
-        id: 'oa-3',
-        title: 'Obława augustowska – opracowania',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Ob%C5%82awa_augustowska',
-        source: 'Wikipedia',
-        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
       },
     ],
     relatedIds: ['zolnierze-wykletci', 'represje-polityczne', 'ub'],
@@ -20289,14 +19990,6 @@ W 1983 roku, po stanie wojennym, miejsce FJN zajął Patriotyczny Ruch Odrodzeni
         source: 'YouTube',
         description: 'Materiały filmowe i propagandowe.',
       },
-      {
-        id: 'fjn-3',
-        title: 'Druki wyborcze',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Front_Jedno%C5%9Bci_Narodu',
-        source: 'Wikipedia',
-        description: 'Materiały ikonograficzne i prasowe.',
-      },
     ],
     relatedIds: ['pzpr', 'wybory-prl', 'propaganda-prl'],
   },
@@ -20395,14 +20088,6 @@ TPPR rozwiązano na początku lat 90. Pozostaje przykładem instytucji, która p
         source: 'YouTube',
         description: 'Materiały filmowe i propagandowe – Kongres Towarzystwa Przyjazni Polsko Radzieckiej w Warszawie 1946 06 1',
       },
-      {
-        id: 'tp-3',
-        title: 'Plakaty i druki',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Towarzystwo_Przyja%C5%BAni_Polsko-Radzieckiej',
-        source: 'Wikipedia',
-        description: 'Materiały ikonograficzne i propagandowe.',
-      },
     ],
     relatedIds: ['propaganda-prl', 'rwpg', 'uklad-warszawski'],
   },
@@ -20448,14 +20133,6 @@ To jeden z najczystszych przykładów instrumentalizacji pamięci o wojnie: stru
         url: 'https://www.youtube.com/results?search_query=ZBoWiD+kombatanci+PRL+uroczysto%C5%9Bci',
         source: 'YouTube',
         description: 'Materiały filmowe i archiwalne.',
-      },
-      {
-        id: 'zb-3',
-        title: 'ZBoWiD – opracowania',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Zwi%C4%85zek_Bojownik%C3%B3w_o_Wolno%C5%9B%C4%87_i_Demokracj%C4%99',
-        source: 'Wikipedia',
-        description: 'Hasła i opracowania encyklopedyczne na ten temat.',
       },
     ],
     relatedIds: ['propaganda-prl', 'lwp', 'moczar'],
@@ -20796,14 +20473,6 @@ Organizację rozwiązano w 1955 roku, u progu odwilży. Pozostała w pamięci ja
         url: 'https://www.youtube.com/results?search_query=S%C5%82u%C5%BCba+Polsce+junacy+brygady+PRL',
         source: 'YouTube',
         description: 'Archiwalne materiały filmowe.',
-      },
-      {
-        id: 'sp-3',
-        title: 'Fotografie i druki',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Powszechna_Organizacja_%E2%80%9ES%C5%82u%C5%BCba_Polsce%E2%80%9D',
-        source: 'Wikipedia',
-        description: 'Materiały ikonograficzne i propagandowe.',
       },
       {
         id: 'sluzba-polsce-ipn2',
@@ -21475,14 +21144,6 @@ Górnik i Lubański to fundament, na którym wyrosły sukcesy reprezentacji lat 
         description: 'Archiwalne nagrania meczów – Kapitan Wlodzimierz Lubanski Górnik Zabrze 2006.avi',
       },
       {
-        id: 'lub2-2',
-        title: 'Górnik Zabrze – materiały',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=A_l2Ho209MU',
-        source: 'YouTube',
-        description: 'Artykuły o klubie i piłkarzu – Kapitan Wlodzimierz Lubanski Górnik Zabrze 2006.avi',
-      },
-      {
         id: 'lub2-3',
         title: 'Sport w Ninatece',
         type: 'nagranie',
@@ -21540,14 +21201,6 @@ Sprawa odbiła się echem za granicą i zaszkodziła władzom bardziej, niż pom
         url: 'https://www.youtube.com/results?search_query=Melchior+Wa%C5%84kowicz+pisarz+proces',
         source: 'YouTube',
         description: 'Materiały filmowe i archiwalne.',
-      },
-      {
-        id: 'wan-3',
-        title: 'Teksty w Polonie',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/Melchior_Wa%C5%84kowicz',
-        source: 'Wikipedia',
-        description: 'Publikacje i wydania.',
       },
       {
         id: 'proces-wankowicza-ipn2',
@@ -21817,20 +21470,20 @@ Bajm nagrał kilkanaście albumów i przetrwał zmianę ustroju bez utraty popul
     summary: 'Pionierski zespół muzyki elektronicznej i synthpopu w Polsce, kierowany przez Sławomira Łosowskiego, autor przeboju „Słodkiego miłego życia”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/S%C5%82awomir_%C5%81osowski_%22Kombi%22_..._%2849186856931%29.jpg?width=800',
     imageCaption: 'Sławomir Łosowski, lider i kompozytor Kombi (fot. współczesna)',
-    content: `## Zespół
-Kombi powstało w 1976 roku z przekształcenia zespołu Akcenty, założonego siedem lat wcześniej przez Sławomira Łosowskiego. Grupa pochodziła z Trójmiasta, a Łosowski był jej kompozytorem i klawiszowcem.
+    content: `## Akcenty
+Zespół wywodzi się z Akcentów, grupy założonej w 1969 roku w Trójmieście przez klawiszowca Sławomira Łosowskiego. Zaczynali od bluesa i coverów Cream czy Hendriksa, a od 1971 roku grali rozbudowane, improwizowane kompozycje instrumentalne. W 1973 roku zdobyli pierwszą nagrodę na festiwalu w Kaliszu, a Łosowski rok później główną nagrodę indywidualną na Jazzie nad Odrą.
 
-## Od jazz-rocka do elektroniki
-Zaczynali od muzyki z pogranicza jazz-rocka, by na początku lat 80. przejść w stronę brzmienia opartego na syntezatorach. Kombi było jednym z pierwszych polskich zespołów, dla których instrument elektroniczny stał się podstawą, a nie ozdobnikiem.
-
-## Przeboje
-Najbardziej znane są „Słodkiego miłego życia” i „Black and White”. Utwory instrumentalne zespołu wykorzystywano też jako sygnały i podkłady w telewizji, co dodatkowo je upowszechniło.
+## Nowy skład, nowa nazwa
+W 1975 roku Łosowski przebudował zespół: doszli perkusista Jan Pluta, basista Waldemar Tkaczyk i gitarzysta Grzegorz Skawiński. 4 lipca 1976 roku, podczas koncertu na żywo w Radiu Gdańsk, grupa zaczęła występ jako Akcenty, a skończyła jako Kombi. Nazwę kojarzono z kombinacją stylów, ale według Łosowskiego pochodziła od nadwozia samochodowego – towaru luksusowego w PRL; na pierwszych plakatach muzycy pozowali za tylną szybą kombi.
 
 ## Muzyka Młodej Generacji
-Zespół należał do nurtu określanego jako Muzyka Młodej Generacji – fali zespołów końca lat 70., które wprowadziły do polskiego rocka nowe brzmienia i wyprowadziły go poza schemat piosenki festiwalowej.`,
+Pod koniec lat 70. Kombi uchodziło za sztandarowy zespół Muzyki Młodej Generacji, fali grup, które wprowadziły do polskiego rocka nowe brzmienia. Pierwszy longplay, „Kombi” z 1980 roku, zawierał przeboje „Hotel twoich snów” i „Przytul mnie”, nagrane także w wersji z Marylą Rodowicz.
+
+## Syntezatory
+Od początku lat 80. ukształtował się rozpoznawalny styl zespołu z wiodącą rolą instrumentów klawiszowych, bliski synth popowi i elektro-rockowi. Kombi było jednym z najpopularniejszych zespołów dekady: „Słodkiego miłego życia”, „Black and White”, „Nasze randez-vous” i „Królowie życia” znała cała Polska, a obok piosenek zespół nagrywał utwory instrumentalne, jak „Wspomnienia z pleneru” czy „Taniec w słońcu”.`,
     trivia: [
-      'Kombi było jednym z pierwszych polskich zespołów, dla których syntezator był podstawą brzmienia.',
-      'Utwory instrumentalne zespołu wykorzystywano jako sygnały i podkłady telewizyjne.',
+      'Zespół zmienił nazwę w trakcie koncertu radiowego – zaczął go jako Akcenty, a skończył jako Kombi.',
+      'Według Łosowskiego nazwa pochodziła od nadwozia kombi, a pierwsze plakaty pokazywały muzyków za tylną szybą samochodu.',
     ],
     resources: [
       {
@@ -22353,14 +22006,6 @@ Syrena stała się bohaterką dowcipów i zarazem obiektem sentymentu. Dla pokol
         source: 'YouTube',
         description: 'Archiwalne materiały filmowe i reklamy.',
       },
-      {
-        id: 'syr-2',
-        title: 'Syrena – fotografie',
-        type: 'publikacja',
-        url: 'https://pl.wikipedia.org/wiki/FSO_Syrena',
-        source: 'Wikipedia',
-        description: 'Zdjęcia samochodu.',
-      },
     ],
     relatedIds: ['motoryzacja-prl', 'fiat-126p', 'fso-polonez'],
   },
@@ -22810,19 +22455,22 @@ W latach 1986–2000 prowadziła własny teatr w Krakowie, potem wycofała się 
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tablica_pami%C4%85tkowa_filmu_Rejs_Marka_Piwowskiego_od_strony_star%C3%B3wki.jpg?width=800',
     imageCaption: 'Tablica upamiętniająca „Rejs” na Bulwarze Filadelfijskim w Toruniu (fot. współczesna)',
     content: `## Film
-„Rejs” Marka Piwowskiego z 1970 roku to komedia o wycieczce statkiem po Wiśle. Scenariusz powstawał wspólnie z Januszem Głowackim, ale znaczna część dialogów została zaimprowizowana przez wykonawców.
-
-## Amatorzy
-Obok aktorów zawodowych wystąpili ludzie z ulicy, m.in. Jan Himilsbach i Zdzisław Maklakiewicz. Piwowski kręcił często bez ich wiedzy o tym, że kamera pracuje, dzięki czemu zachowania są autentyczne, a nie zagrane.
+„Rejs” Marka Piwowskiego z 1970 roku to czarno-biała komedia o wycieczce statkiem po Wiśle. Scenariusz Piwowski napisał wspólnie z Januszem Głowackim, Andrzejem Barszczyńskim i Jerzym Karaszkiewiczem, ale film zasłynął jako jeden z pierwszych polskich pełnometrażowych filmów zrealizowanych metodą improwizacji.
 
 ## O czym to jest
-Człowiek podający się za instruktora kulturalno-oświatowego, grany przez Stanisława Tyma, przejmuje kontrolę nad pasażerami i organizuje im zajęcia. Nikt nie sprawdza jego uprawnień, wszyscy się podporządkowują. Powstaje model władzy w pigułce.
+Na statek dostaje się dwóch pasażerów na gapę. Jednego z nich, granego przez Stanisława Tyma, kapitan bierze za instruktora kulturalno-oświatowego. Gapowicz wchodzi w rolę kaowca i stopniowo podporządkowuje sobie pasażerów: organizuje gry, zabawy, śpiewy i gimnastykę, powołuje radę rejsu, ustala sposób głosowania. Nikt nie sprawdza jego uprawnień, a zebrani przyjmują kolejne pomysły z coraz większym entuzjazmem.
+
+## Aktorzy i naturszczycy
+Obok zawodowych aktorów, takich jak Zdzisław Maklakiewicz, wystąpili naturszczycy – przede wszystkim Jan Himilsbach. Film zapoczątkował sławę duetu Maklakiewicz–Himilsbach i aktorską karierę Tyma. Inżynier Mamoń narzekający, że podobają mu się tylko piosenki, które „dobrze zna”, stał się jedną z najczęściej cytowanych postaci polskiego kina.
+
+## Cenzura
+„Rejs” odczytano jako gorzką satyrę na społeczeństwo po Marcu 1968. Cenzura potraktowała go surowo: dostał najniższą kategorię artystyczną i trafił wyłącznie do kin studyjnych. Tam jednak natychmiast zdobył ogromną popularność.
 
 ## Trwałość
-Dialogi z „Rejsu” weszły do polszczyzny i przez dekady służyły jako komentarz do absurdów PRL. Film, przyjęty początkowo z rezerwą, jest dziś uznawany za jedno z najoryginalniejszych dzieł polskiego kina.`,
+Dialogi z „Rejsu” weszły do polszczyzny i przez dekady służyły jako komentarz do absurdów PRL – rad, zebrań, głosowań i entuzjazmu na zamówienie. Dziś film uchodzi za jedno z najoryginalniejszych dzieł polskiego kina.`,
     trivia: [
-      'Znaczna część dialogów została zaimprowizowana, a część scen nakręcono bez wiedzy uczestników, że kamera pracuje.',
-      'Nikt na statku nie sprawdza uprawnień samozwańczego instruktora – i wszyscy się podporządkowują.',
+      '„Rejs” dostał od władz najniższą kategorię artystyczną i był wyświetlany tylko w kinach studyjnych.',
+      'Inżynier Mamoń twierdzi, że podobają mu się tylko te piosenki, które już dobrze zna.',
     ],
     resources: [
       {
@@ -23015,14 +22663,6 @@ Mecz jest w Polsce przywoływany jako jedno z najważniejszych wydarzeń sportow
         url: 'https://www.youtube.com/watch?v=E0c8iI1xyvo',
         source: 'YouTube',
         description: 'Kroniki filmowe wokół meczu na Wembley (1973) – TOP🔟Jan Tomaszewski vs. Anglia/Wembley [1973]',
-      },
-      {
-        id: 'wem-yt',
-        title: 'Tomaszewski na Wembley 1973 – obrony',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=E0c8iI1xyvo',
-        source: 'YouTube',
-        description: 'Archiwalne fragmenty legendarnego meczu.',
       },
       {
         id: 'wem-1',
@@ -24003,19 +23643,22 @@ Służba była też narzędziem oddziaływania: w jednostkach prowadzono szkolen
     yearEnd: 1989,
     summary: 'Trzepak i osiedlowe podwórko były centrum dzieciństwa w PRL – świata zabaw bez ekranów, „na dworze do wieczora”.',
     content: `## Trzepak
-Metalowa rama do trzepania dywanów stała na każdym podwórku bloku. Jej właściwa funkcja – trzepanie chodników – zajmowała kilka godzin w tygodniu; przez resztę czasu trzepak był miejscem spotkań.
+Trzepak to rama z rur stalowych, zwykle z dwiema poprzeczkami na różnej wysokości – górna na mniej więcej dwóch metrach – na której przewieszano dywany i wybijano z nich kurz trzepaczką. Przed upowszechnieniem się odkurzaczy był obowiązkowym wyposażeniem każdego podwórka, zarówno przy kamienicach, jak i na osiedlach z wielkiej płyty, gdzie obok stawiano ławki do układania wytrzepanych chodników.
+
+## Przyrząd do zabawy
+Właściwa funkcja zajmowała trzepakowi kilka godzin w tygodniu. Przez resztę czasu służył dzieciom: do ewolucji akrobatycznych, jako bramka do gry w piłkę tam, gdzie nie było boiska, i do wymyślnych gier, jak „ślepiec” rozgrywany na dużych, wielomodułowych konstrukcjach blokowisk.
 
 ## Podwórko jako instytucja
-Dzieci spędzały na podwórku całe popołudnia bez nadzoru dorosłych. Gry, hierarchie, konflikty i sojusze – wszystko to rozgrywało się w przestrzeni wspólnej, między blokami, na trzepaku i na klatce schodowej.
+Dzieci spędzały na podwórku całe popołudnia bez nadzoru dorosłych. Gry, hierarchie, konflikty i sojusze rozgrywały się w przestrzeni wspólnej: między blokami, na trzepaku i na klatce schodowej. Mieszkania były ciasne, oboje rodzice zwykle pracowali, a ruch samochodowy na osiedlach niewielki. Dziecko wypuszczano po szkole na dwór i wołano na kolację przez okno.
 
-## Dlaczego tak było
-Mieszkania były ciasne, oboje rodzice pracowali, a ruch samochodowy na osiedlach znikomy. Dziecko wypuszczano po szkole na dwór i wołano na kolację przez okno. Osiedle projektowano zresztą z myślą o takiej przestrzeni – z podwórkami wewnątrz kwartałów.
+## Miejsce spotkań
+Trzepak integrował też dorosłych. Przy nim stała często jedyna ławka na podwórku, na której można było przysiąść, postawić siatki z zakupami i porozmawiać z sąsiadami. Młodzież przeżywała tu pierwsze randki. W „Czterdziestolatku” trzepak pojawia się niemal w każdym odcinku.
 
 ## Co zniknęło
-Trzepak stał się dziś symbolem dzieciństwa całego pokolenia, a zarazem znakiem czegoś, co przeminęło: samodzielności dzieci i podwórka jako podstawowej formy życia społecznego w mieście.`,
+W nowych osiedlach trzepaków się już nie stawia – mieszkańcom najbliższych okien przeszkadzał kurz. Stały się symbolem dzieciństwa całego pokolenia, a zarazem znakiem czegoś, co przeminęło: samodzielności dzieci i podwórka jako podstawowej formy życia społecznego w mieście. Od nich wzięła się nawet nazwa amatorskich osiedlowych sieci komputerowych – „sieci trzepakowych”.`,
     trivia: [
-      'Trzepak służył do trzepania dywanów kilka godzin w tygodniu, a przez resztę czasu był miejscem spotkań.',
-      'Dzieci wypuszczano na podwórko po szkole i wołano na kolację przez okno.',
+      'W „Czterdziestolatku” trzepak pojawia się niemal w każdym odcinku.',
+      'Amatorskie osiedlowe sieci komputerowe nazywano od niego „sieciami trzepakowymi”.',
     ],
     resources: [
       {
@@ -26027,23 +25670,26 @@ Film powstał w latach, w których kino dla dzieci było jedną z niewielu dzied
     tags: ['film', 'serial', 'wojna', 'historia', 'telewizja'],
     yearStart: 1976,
     yearEnd: 1977,
-    summary: 'Epicki serial wojenny Janusza Morgensterna (1977) o losach Polaków od kampanii wrześniowej po koniec okupacji; 11 odcinków i ponad 16 godzin.',
+    summary: 'Epicki serial Janusza Morgensterna (1976–1977) o losach Polaków od kampanii wrześniowej po okupowaną Warszawę 1943 roku; 11 odcinków i 16,5 godziny.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Polskie_drogi.JPG?width=800',
     imageCaption: 'Karol Strasburger i Arkadiusz Bazak w „Polskich drogach”',
     content: `## Serial
-„Polskie drogi” w reżyserii Janusza Morgensterna powstawały w drugiej połowie lat 70. Jedenaście odcinków obejmuje okres od kampanii wrześniowej do końca okupacji, pokazywanych z perspektywy zwykłych ludzi.
+„Polskie drogi” wyreżyserował Janusz Morgenstern według scenariusza Jerzego Janickiego (pierwszy odcinek napisał Bohdan Czeszko). Realizacja trwała ponad trzy lata, zaangażowano kilkuset aktorów, a efektem było 11 odcinków o łącznym czasie 16,5 godziny. Muzykę skomponował Andrzej Kurylewicz. Odcinek pilotowy pokazano 1 września 1976 roku, a regularną emisję rozpoczęto 16 października 1977 roku.
 
 ## Bohaterowie
-Głównymi postaciami są Kuraś, grany przez Kazimierza Kaczora, i Leon Kuraś – ludzie, którzy nie są ani bohaterami, ani zdrajcami, tylko próbują przetrwać. Ta perspektywa odróżniała serial od bohaterskiej konwencji obowiązującej w kinie wojennym.
+Akcja obejmuje lata 1939–1943: od kampanii wrześniowej po codzienność okupowanej Warszawy. Osią są dwie postacie – podchorąży Władysław Niwiński (Karol Strasburger), który przyjmuje tożsamość poległego we wrześniu kapitana, i jego podkomendny, kapral Leon Kuraś (Kazimierz Kaczor), później prywaciarz, pracodawca i przyjaciel Niwińskiego.
 
-## Co pokazano
-Serial dotknął spraw wcześniej pomijanych: szmalcownictwa, handlu, moralnej dwuznaczności zachowań pod okupacją, złożoności relacji między konspiracją a zwykłym życiem. Jak na produkcję telewizyjną PRL była to nietypowa szczerość.
+## Przekrój
+Serial pokazuje wszystkie warstwy społeczne i bardzo różne postawy wobec okupacji: konspirację, handel, przystosowanie i zwykłą walkę o przetrwanie. Kuraś, cwany i ludzki zarazem, stał się jedną z najbardziej lubianych postaci polskiej telewizji właśnie dlatego, że nie był pomnikowym bohaterem.
+
+## Perspektywa epoki
+Morgenstern przyznawał, że fabuła w dużym stopniu uwzględniała problematykę lewicy społecznej. Serial powstawał w latach 70. i nosi ślady ówczesnych granic tego, co można było powiedzieć o wojnie – mimo to był obrazem bliższym doświadczeniu zwykłych ludzi niż wiele wcześniejszych produkcji.
 
 ## Odbiór
-„Polskie drogi” uchodzą za jeden z najlepszych polskich seriali w historii i za obraz wojny bliższy doświadczeniu niż propagandowej wersji, w której wychowywano kolejne pokolenia.`,
+Od początku cieszył się ogromną popularnością i był wielokrotnie powtarzany. W plebiscycie tygodnika „Antena” z 1984 roku, na dwudziestolecie polskiego filmu telewizyjnego, wybrano go najpopularniejszym filmem telewizyjnym.`,
     trivia: [
-      'Bohaterowie nie są ani herosami, ani zdrajcami – po prostu próbują przetrwać okupację.',
-      'Serial poruszał tematy pomijane w kinie wojennym, m.in. szmalcownictwo i moralną dwuznaczność zachowań.',
+      'Janicki, Kurylewicz i Morgenstern pochodzili z Kresów – scenarzysta mówił, że serial stworzyli Kresowiacy.',
+      'W plebiscycie „Anteny” z 1984 roku „Polskie drogi” wybrano najpopularniejszym polskim filmem telewizyjnym.',
     ],
     resources: [
       {
@@ -26988,24 +26634,27 @@ W latach 80. lasy karkonoskie zaczęły masowo zamierać wskutek zanieczyszczeń
     category: 'kultura',
     tags: ['muzyka', 'nowa fala', 'rock', 'Wrocław', 'Dolny Śląsk'],
     yearStart: 1979,
-    yearEnd: 1985,
-    summary: 'Wrocławski zespół nowej fali założony w 1979 przez Lecha Janerkę; jego przełomowy album (1984) i przebój „Jezu jak się cieszę” to klasyka gatunku.',
+    yearEnd: 1984,
+    summary: 'Wrocławski zespół nowej fali założony w 1979 przez Lecha Janerkę; jego jedyny album (1984) i przebój „Jezu jak się cieszę” to klasyka polskiego rocka.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Lech_Janerka_%28Klaus_Mitffoch%29_%283596269749%29.jpg?width=800',
     imageCaption: 'Koncert Lecha Janerki (fot. współczesna)',
     content: `## Zespół
-Klaus Mitffoch powstał w 1979 roku we Wrocławiu, założony przez Lecha Janerkę. Nazwa – celowo bezsensowna, brzmiąca z niemiecka – była częścią strategii: zespół od początku odcinał się od konwencji polskiej estrady.
+Klaus Mitffoch powstał w 1979 roku we Wrocławiu z inicjatywy Lecha Janerki, basisty i wokalisty. Grali w nim gitarzyści Krzysztof Pociecha i Wiesław Mrozik oraz perkusista Kazimierz Sycz, później zastąpiony przez Marka Puchałę. Nazwa – z niemiecka brzmiąca i celowo niejasna – od początku odcinała zespół od konwencji estrady.
+
+## Przełom
+W czerwcu 1983 roku grupa zajęła ex aequo drugie miejsce z Azylem P. na Ogólnopolskim Turnieju Młodych Talentów (pierwszego nie przyznano). Nagrodą była sesja w studiu Tonpressu. W marcu 1984 roku „Jezu jak się cieszę” doszło do pierwszego miejsca Listy Przebojów Programu Trzeciego – jako jedyny utwór zespołu.
 
 ## Jedna płyta
-W oryginalnym składzie grupa nagrała tylko jeden album, wydany w 1985 roku. Uchodzi on za jedną z najważniejszych płyt w historii polskiego rocka, a przez część krytyków bywa uznawany za najlepszą.
+W 1984 roku ukazał się album „Klaus Mitffoch”, na którym, co ciekawe, nie znalazło się „Jezu jak się cieszę”. To jedyna płyta nagrana w oryginalnym składzie; uchodzi za przełomową w historii polskiej muzyki, a przez część krytyków za najlepszą płytę polskiego rocka. W sierpniu 1984 roku zespół się rozpadł, a Janerka rozpoczął karierę solową, nadal współpracując z Pociechą.
 
 ## Język
 O sile nagrań decydowały teksty Janerki: skrótowe, ironiczne, oparte na grze słów i celowym absurdzie. Zamiast publicystyki opisywały stan umysłu w rzeczywistości, której nie dawało się opisać wprost – co w latach 80. działało mocniej niż bezpośredni protest.
 
-## Kontekst
-Zespół należał do fali nowofalowej, która po stanie wojennym wypełniła lukę po zawieszonym oficjalnym życiu kulturalnym. Jarocin i kluby studenckie były dla takich grup jedynym realnym obiegiem.`,
+## Epilog
+W 1986 roku muzycy bez Janerki i Pociechy wrócili jako Klaus Mit Foch i nagrali płytę „Mordoplan” (1988); zespół rozwiązano w 1989 roku. Oryginalny Klaus Mitffoch zagrał jeszcze raz 3 czerwca 2009 roku w Warszawie, na koncercie z okazji dwudziestolecia wyborów czerwcowych.`,
     trivia: [
-      'Zespół nagrał w oryginalnym składzie tylko jeden album – uznawany za jedną z najważniejszych płyt polskiego rocka.',
-      'Bezsensowna, z niemiecka brzmiąca nazwa była świadomym odcięciem się od konwencji estrady.',
+      'Największy przebój zespołu, „Jezu jak się cieszę”, nie trafił na jego jedyną płytę.',
+      'W 2009 roku zespół zagrał „Jezu jak się cieszę” na placu Teatralnym w Warszawie, w dwudziestolecie wyborów 4 czerwca.',
     ],
     resources: [
       {
@@ -27015,14 +26664,6 @@ Zespół należał do fali nowofalowej, która po stanie wojennym wypełniła lu
         url: 'https://www.youtube.com/watch?v=5LPd6BHy8Io',
         source: 'YouTube',
         description: 'Największy przebój zespołu (1984) – Klaus Mitffoch - Jezu jak się cieszę (video 1984)',
-      },
-      {
-        id: 'km-1',
-        title: 'Klaus Mitffoch – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=5LPd6BHy8Io',
-        source: 'YouTube',
-        description: 'Wykonania i materiały o zespole.',
       },
       {
         id: 'km-2',
@@ -28607,14 +28248,6 @@ Odejście obu przyjaciół w tak krótkim czasie zamknęło pewien rozdział pol
         source: 'Wikipedia',
         description: 'Hasło i opracowania o aktorze.',
       },
-      {
-        id: 'bk2-3',
-        title: '„Zezowate szczęście” – o filmie',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=34P5LgDAY1Q',
-        source: 'YouTube',
-        description: 'Materiały o słynnej komedii.',
-      },
     ],
     relatedIds: ['cybulski-zbigniew', 'kalina-jedrusik', 'popiol-i-diament'],
   },
@@ -28736,19 +28369,22 @@ Kreacja Jerzego Stuhra – z jego charakterystycznym, nerwowym tempem mowy i uś
     yearEnd: 1976,
     summary: 'Jeden z najważniejszych zespołów polskiego big-beatu, powołany przez Franciszka Walickiego; śpiewali w nim m.in. Czesław Niemen i Ada Rusowicz.',
     content: `## Powstanie
-Niebiesko-Czarni powstali w 1962 roku w Gdyni, założeni przez Franciszka Walickiego i Jerzego Kosselę. Byli – obok Czerwono-Czarnych – drugim filarem polskiego big-beatu i podobnie jak tamci działali jako scena dla wielu solistów.
+Niebiesko-Czarni powstali w 1962 roku w Gdyni z inicjatywy Franciszka Walickiego i Jerzego Kosseli. Pierwszy koncert zagrali 24 marca 1962 roku w gdańskim klubie „Żak”, a w czerwcu wygrali 1. Festiwal Młodych Talentów. W latach 1962–1963 byli gospodarzami sopockiego klubu Non-Stop – letniej stolicy polskiego big-beatu.
 
-## Muzycy
-W zespole grali i śpiewali m.in. Czesław Niemen, Wojciech Korda i Ada Rusowicz. Grupa łączyła rock, rhythm and blues i elementy muzyki ludowej, wychodząc poza prostą formułę piosenki festiwalowej.
+## Szkoła wokalistów
+Przez zespół przeszło wielu artystów, którzy potem zbudowali własną sławę: Czesław Niemen (do 1966 roku, gdy założył Akwarele), Krzysztof Klenczon, Wojciech Korda, Helena Majdaniec, Michaj Burano i Ada Rusowicz. Muzycy, którzy odeszli w 1965 roku, założyli grupę Polanie.
 
-## Ambicje
-Niebiesko-Czarni jako jedni z pierwszych w Polsce podjęli próbę stworzenia większej formy muzycznej – widowiska łączącego rock z tekstem literackim. Był to krok w stronę tego, co dekadę później zrobią zespoły rocka progresywnego.
+## Zagranica
+W grudniu 1963 roku zespół wystąpił z Niemenem, Burano i Majdaniec w paryskiej Olympii i nagrał dla Decca pierwszą płytę na Zachodzie. W 1966 roku zdobył Grand Prix festiwalu w Rennes, a w 1967 roku zagrał w Radiu Luksemburg. Koncertował w Szwecji, Jugosławii, Francji, Finlandii, RFN, ZSRR, USA i Kanadzie; w 1971 roku wystąpił w amerykańskiej telewizji.
 
-## Rozejście
-Z zespołu wyszli muzycy, którzy tworzyli później własne, znaczące projekty. Historia obu formacji Walickiego pokazuje, jak w ciągu kilku lat z niczego zbudowano w Polsce całą infrastrukturę muzyki młodzieżowej.`,
+## Naga
+Po powrocie z USA zespół przygotował „Nagą” – pierwszą polską operę rockową. Premiera w Teatrze Muzycznym w Gdyni odbyła się 22 kwietnia 1973 roku, a spektakl wystawiono około 150 razy. Był to krok w stronę większych form, które w tej dekadzie rozwijał rock progresywny.
+
+## Bilans
+W ciągu czternastu lat Niebiesko-Czarni nagrali osiem longplayów oraz 24 single i czwórki o łącznym nakładzie 3,5 miliona egzemplarzy i zagrali ponad trzy tysiące koncertów. Zespół rozwiązał się po koncercie we Lwowie 30 czerwca 1976 roku.`,
     trivia: [
-      'W zespole śpiewali m.in. Czesław Niemen, Wojciech Korda i Ada Rusowicz.',
-      'Grupa jako jedna z pierwszych w Polsce próbowała łączyć rock z większą formą muzyczną.',
+      'W 1963 roku zespół nagrał w Paryżu dla Decca pierwszą płytę na Zachodzie.',
+      'Przygotowali „Nagą” – pierwszą polską operę rockową, wystawioną około 150 razy.',
     ],
     resources: [
       {
@@ -29553,14 +29189,6 @@ Obchody miały ustalony scenariusz: akademia, przemówienie dyrekcji, a potem wr
         description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „8 marca – Dzień Kobiet – PKF 11/1969” – 8 marca - Dzień Kobiet. Polska Kronika Filmowa 11/69',
       },
       {
-        id: 'dk-pkf',
-        title: 'Polska Kronika Filmowa – Dzień Kobiet',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=e03zKRNlVFY',
-        source: 'YouTube',
-        description: 'Kroniki filmowe z obchodów Dnia Kobiet.',
-      },
-      {
         id: 'dk-1',
         title: 'Dzień Kobiet w PRL – materiały',
         type: 'nagranie',
@@ -30211,14 +29839,6 @@ Przy premierze przyjęty bez fajerwerków, z czasem stał się filmem kultowym, 
         url: 'https://www.youtube.com/watch?v=CKTKbiZW38Y',
         source: 'YouTube',
         description: 'Kultowa scena z filmu Kondratiuka – "Panowie, żar leje się z nieba" (Hydrozagadka, reż A. Kondratiuk, 1970',
-      },
-      {
-        id: 'hz-1',
-        title: '„Hydrozagadka” – materiały',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=CKTKbiZW38Y',
-        source: 'YouTube',
-        description: 'Sceny i materiały o filmie.',
       },
       {
         id: 'hz-2',
@@ -34029,6 +33649,8 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1948, event: 'Państwowa Wyższa Szkoła Filmowa w Łodzi – narodziny kuźni polskiego kina', category: 'kultura', entryId: 'lodz-szkola-filmowa' },
   { year: 1959, event: 'Powstaje Rhythm and Blues – pierwszy polski zespół big-beatowy', category: 'kultura', entryId: 'big-beat-prl' },
   { year: 1961, event: 'Inauguracja Międzynarodowego Festiwalu Piosenki w Sopocie', category: 'kultura', entryId: 'sopot-festiwal' },
+  { year: 1979, event: 'Telewizja wycina „Rasputina” z występu Boney M. na festiwalu Interwizji w Sopocie', category: 'kultura', entryId: 'sopot-festiwal' },
+  { year: 1982, event: 'Mieszkańcy Świdnika wychodzą na spacery w porze „Dziennika Telewizyjnego”', category: 'opozycja', entryId: 'dziennik-telewizyjny' },
   { year: 1963, event: 'Pierwszy Krajowy Festiwal Piosenki Polskiej w Opolu', category: 'kultura', entryId: 'festiwal-opole' },
   { year: 1965, event: 'Powstają Czerwone Gitary – „polscy Beatlesi”', category: 'kultura', entryId: 'czerwone-gitary' },
   { year: 1958, event: 'Pierwsze wydanie Dziennika Telewizyjnego – główny program propagandowy', category: 'społeczeństwo', entryId: 'dziennik-telewizyjny' },
@@ -34203,7 +33825,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1960, event: 'Bogumił Kobiela w „Zezowatym szczęściu” Andrzeja Munka', category: 'kultura', entryId: 'bogumil-kobiela' },
   { year: 1963, event: 'Filipinki – „Batumi” i pierwszy polski girlsband', category: 'kultura', entryId: 'filipinki' },
   { year: 1949, event: 'Tworzenie Państwowych Gospodarstw Rolnych (PGR)', category: 'gospodarka', entryId: 'pgr' },
-  { year: 1967, event: 'Niebiesko-Czarni z Adą Rusowicz – „Nie pukaj do moich drzwi” (Opole)', category: 'kultura', entryId: 'niebiesko-czarni' },
+  { year: 1973, event: 'Premiera „Nagiej” Niebiesko-Czarnych – pierwszej polskiej opery rockowej', category: 'kultura', entryId: 'niebiesko-czarni' },
   { year: 1978, event: 'Premiera „Wodzireja” Feliksa Falka', category: 'kultura', entryId: 'wodzirej' },
   { year: 1964, event: 'Kasia Sobczyk – „Biedroneczki są w kropeczki” (festiwale Opole i Sopot)', category: 'kultura', entryId: 'kasia-sobczyk' },
   { year: 1966, event: 'Franciszek Pieczka jako Gustlik w „Czterech pancernych i psie”', category: 'kultura', entryId: 'franciszek-pieczka' },
