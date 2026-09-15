@@ -738,24 +738,24 @@ Kolejne próby naprawy – w 1956, 1973 i 1982 roku – zakładały większą sa
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'Kultura PRL to pasmo napięć między ideologicznym nakazem socrealizmu a wolną twórczością. Cenzura, "drugi obieg" wydawniczy i kontestacja artystyczna współistniały przez 45 lat.',
-    content: `**Socrealizm (1949–1955):**
-Obowiązująca doktryna estetyczna nakazywała tworzenie sztuki "realistycznej w formie, socjalistycznej w treści". Dotyczyła literatury, malarstwa, architektury (PKiN), muzyki i filmu.
+    content: `## Mecenat i kontrola
+Państwo PRL było głównym wydawcą, jedynym producentem filmowym, właścicielem teatrów i galerii. Dawało twórcom stabilność – etaty, stypendia, nakłady, o jakich marzyli artyści na Zachodzie – ale w zamian oczekiwało lojalności. Całą historię kultury PRL można opisać jako przesuwanie się granicy między tym, co wolno, a tym, czego nie wolno.
 
-**Cenzura – GUKPPiW:**
-Główny Urząd Kontroli Prasy, Publikacji i Widowisk kontrolował całość życia kulturalnego. Każda publikacja wymagała imprimatur cenzora. Instytut Literacki w Paryżu (Kultura Jerzego Giedroycia) był głównym wydawcą emigracyjnym.
+## Socrealizm
+Po zjeździe Związku Literatów Polskich w Szczecinie w styczniu 1949 roku obowiązującą doktryną stał się realizm socjalistyczny: sztuka „narodowa w formie, socjalistyczna w treści”. Dotyczył literatury, malarstwa, muzyki, filmu i architektury – od powieści produkcyjnych po MDM i Pałac Kultury. Już w 1955 roku „Poemat dla dorosłych” Adama Ważyka zapowiedział odwilż, a po Październiku 1956 roku socrealizm stracił status obowiązku.
 
-**Drugi obieg:**
-Od połowy lat 70. rozwinął się potężny ruch wydawniczy poza cenzurą:
-- NOWA (Niezależna Oficyna Wydawnicza)
-- "Zapis", "Puls", "Res Publica"
-- Podziemne nagrania i kasety magnetofonowe
+## Cenzura
+Główny Urząd Kontroli Prasy, Publikacji i Widowisk kontrolował wszystko, co miało trafić do obiegu: książki, prasę, sztuki, filmy, a nawet programy kabaretów. Twórcy nauczyli się pisać tak, by cenzor przepuścił, a czytelnik zrozumiał – aluzja i „czytanie między wierszami” stały się cechą całej epoki. Filmy zatrzymane przez władze trafiały „na półkę”.
 
-**Kino PRL:**
-"Szkoła polska" (Wajda, Munk, Kawalerowicz), kino moralnego niepokoju lat 70. (Zanussi, Holland, Kieślowski). Wiele filmów było zakazanych lub "półkowych".
+## Emigracja i drugi obieg
+Poza zasięgiem cenzury działał Instytut Literacki Jerzego Giedroycia i paryska „Kultura”, drukujące Miłosza, Gombrowicza czy Herlinga-Grudzińskiego. Po 1976 roku w kraju rozwinął się drugi obieg: w 1977 roku powstały Niezależna Oficyna Wydawnicza NOWA, kwartalnik „Zapis” i „Puls”, a później setki tytułów. Po stanie wojennym podziemne wydawnictwa, kasety i spektakle w kościołach stworzyły całą równoległą kulturę.
 
-**Teatr:**
-Jerzy Grotowski, Tadeusz Kantor (Teatr Cricot 2) – artyści o światowej sławie działający w PRL.`,
-    trivia: ['Państwo finansowało kulturę, co dawało twórcom stabilność, ale i poddawało ich kontroli.', 'Mimo cenzury powstały w PRL dzieła cenione na całym świecie.'],
+## Kino i teatr
+Polska szkoła filmowa lat 50. (Wajda, Munk, Kawalerowicz), kino moralnego niepokoju lat 70. (Kieślowski, Zanussi, Holland) i teatr Jerzego Grotowskiego oraz Tadeusza Kantora zyskały światowe uznanie. Paradoks PRL polega na tym, że dzieła najważniejsze powstawały często w sporze z państwem, które je finansowało.`,
+    trivia: [
+      'Państwo finansowało kulturę, co dawało twórcom stabilność, ale i poddawało ich kontroli.',
+      'Doktrynę socrealizmu w literaturze ogłoszono na zjeździe Związku Literatów Polskich w Szczecinie w 1949 roku.',
+    ],
     resources: [
       {
         id: 'kult-1',
@@ -22007,20 +22007,23 @@ Ogrody przetrwały zmianę ustroju i wciąż zajmują tysiące hektarów w polsk
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/FSO%20Syrena%20103.JPG?width=800',
     imageCaption: 'FSO Syrena 103 – polski samochód osobowy produkcji z lat 60.',
     trivia: [
-      'Wyprodukowano ponad 520 tysięcy Syren, a produkcja trwała od 1957 do 1983 roku.',
-      'Silnik dwusuwowy wymagał mieszania oleju z benzyną przy każdym tankowaniu.',
+      'Wyprodukowano 521 311 Syren, choć pierwotnie zakładano zaledwie 3–4 tysiące sztuk rocznie.',
+      'Pierwotny projekt przewidywał nadwozie z drewnianego szkieletu obitego płytami pilśniowymi.',
     ],
-    content: `## Pierwszy własny samochód
-Syrenę produkowano od 1957 roku w warszawskiej Fabryce Samochodów Osobowych, a od 1972 roku w Bielsku-Białej. Była to konstrukcja polska, nie licencyjna – co czyniło ją przedmiotem dumy, ale też źródłem wszystkich jej wad.
+    content: `## Samochód popularny
+Decyzję o budowie polskiego samochodu małolitrażowego, uzupełniającego większą Warszawę, podjęło Prezydium Rządu w maju 1953 roku. Pracami koordynował inż. Karol Pionnier; podwozie opracowywała FSO, nadwozie – Biuro Konstrukcyjne Przemysłu Motoryzacyjnego, a dwusuwowy silnik – WSM w Bielsku-Białej. Pierwszy przedprototyp zaprezentowano 31 grudnia 1953 roku.
 
-## Konstrukcja
-Miała silnik dwusuwowy, napęd na przednie koła i nadwozie początkowo z drewnianym szkieletem krytym blachą. Dwusuw oznaczał charakterystyczny dźwięk, niebieski dym i konieczność mieszania oleju z benzyną przy każdym tankowaniu.
+## Drewno i dwusuw
+Pierwotnie nadwozie miało mieć drewniany szkielet obity płytami pilśniowymi. Po rajdzie doświadczalnym w 1954 roku zrezygnowano z całkowicie drewnianej konstrukcji na rzecz metalowo-drewnianej. Dwucylindrowy silnik dwusuwowy napędzał przednie koła – rozwiązanie jak na tamte czasy nowatorskie. Dwusuw oznaczał charakterystyczny dźwięk, niebieski dym i mieszanie oleju z benzyną przy tankowaniu.
 
-## Skala
-Wyprodukowano ponad pięćset dwadzieścia tysięcy egzemplarzy. Przez lata Syrena była jedynym samochodem realnie dostępnym dla prywatnego nabywcy – o ile ten doczekał swojej kolejki, bo na przydział czekano latami.
+## Produkcja
+Syrenę produkowano w latach 1957–1972 w warszawskiej FSO, a w latach 1972–1983 w Fabryce Samochodów Małolitrażowych w Bielsku-Białej jako FSM Syrena. Pierwotnie zakładano zaledwie 3–4 tysiące sztuk rocznie; ostatecznie powstało 521 311 egzemplarzy osobowych i dostawczych.
+
+## Dostępność
+Syrena była najtańszym polskim samochodem i dla wielu rodzin pierwszym autem, na które – po latach oszczędzania i czekania na przydział – było je stać. Jej miejsce stopniowo zajął Fiat 126p, którego od 1973 roku produkowała ta sama bielska fabryka.
 
 ## Pamięć
-Syrena stała się bohaterką dowcipów i zarazem obiektem sentymentu. Dla pokolenia, które ją pamięta, jest skrótem opisującym całą epokę: konstrukcję pomysłową w warunkach niedoboru, wykonaną z tego, co było pod ręką.`,
+Syrena stała się bohaterką dowcipów i zarazem obiektem sentymentu. Była konstrukcją polską, nie licencyjną – co czyniło ją przedmiotem dumy, ale też źródłem wszystkich jej wad. Dla pokolenia, które ją pamięta, jest skrótem całej epoki: pomysłowości w warunkach niedoboru.`,
     resources: [
       {
         id: 'syrena-samochod-pkf',
@@ -22904,19 +22907,22 @@ Tranzystor był podstawowym wyposażeniem wyjazdu, a radio – jedynym źródłe
     yearEnd: 1989,
     summary: 'Fala mikrokomputerów domowych (ZX Spectrum, Atari, Commodore), która w latach 80. rozbudziła pasję młodego pokolenia mimo barier i niedoboru.',
     content: `## Pierwsze komputery
-Komputery domowe pojawiły się w Polsce w połowie lat 80. Podstawą były maszyny ośmiobitowe: ZX Spectrum, Commodore 64 i Atari, sprowadzane głównie prywatnie, przez osoby wyjeżdżające na Zachód.
+Komputery domowe pojawiły się w Polsce w połowie lat 80. Podstawą były maszyny ośmiobitowe: ZX Spectrum, Commodore 64, Atari, Amstrad. Sprowadzano je głównie prywatnie, przez osoby wyjeżdżające na Zachód, a część dało się kupić za dewizy w Peweksie.
 
-## Skąd się brały
-Oficjalna dystrybucja praktycznie nie istniała, więc rynek tworzyły giełdy komputerowe, organizowane w halach i domach kultury. Tam kupowano sprzęt, części i oprogramowanie, przegrywane masowo na kasety magnetofonowe.
+## Giełdy i kasety
+Oficjalny handel oprogramowaniem praktycznie nie istniał, więc rynek tworzyły giełdy komputerowe w halach i domach kultury – w Warszawie słynna była giełda przy Grzybowskiej. Kupowano tam sprzęt, części i programy przegrywane masowo na kasety magnetofonowe. Ładowanie gry z magnetofonu trwało kilka minut i często kończyło się błędem. Kopiowanie było powszechne, a legalnego sposobu kupienia większości tytułów po prostu nie było.
 
-## Kaseta zamiast dyskietki
-Programy ładowano z magnetofonu, co trwało kilka minut i często kończyło się błędem. Kopiowanie było powszechne i nikt nie traktował go jako naruszenia prawa – w praktyce nie istniał legalny sposób kupienia większości tytułów.
+## „Bajtek”
+We wrześniu 1985 roku ukazał się pierwszy numer „Bajtka” – jednego z pierwszych polskich czasopism komputerowych, stawiającego sobie za cel „zwalczanie analfabetyzmu komputerowego”. Tytuł wymyślił Władysław Majewski, a pismo drukowano na papierze odstąpionym przez „Sztandar Młodych”, bo papier był reglamentowany. Od piątego numeru ponad 200 tysięcy egzemplarzy sprzedawało się bez zwrotów. W 1986 roku zespół „Bajtka” stworzył także miesięcznik „Komputer”.
+
+## Elwro 800 Junior
+Państwo próbowało dogonić zjawisko. Na zamówienie Ministerstwa Oświaty zespół z Politechniki Poznańskiej zaprojektował szkolny komputer zgodny z ZX Spectrum – Elwro 800 Junior. Pokazany w 1986 roku, produkowany we wrocławskim Elwro, mógł pracować w sieci JUNET. Planowano 30 tysięcy sztuk rocznie, a według raportu NIK wyprodukowano łącznie 13 696 egzemplarzy. Obudowę zaadaptowano z elektronicznych organków Elwirka.
 
 ## Pokolenie
-Na tych maszynach wychowało się pokolenie, które zaczynało od gier, a kończyło na programowaniu. Był to zresztą pierwszy obszar techniki, w którym młodzi Polacy mieli kontakt ze światowym standardem niemal bez opóźnienia.`,
+Na tych maszynach wychowało się pokolenie, które zaczynało od gier, a kończyło na programowaniu. Był to pierwszy obszar techniki, w którym młodzi Polacy mieli kontakt ze światowym standardem niemal bez opóźnienia.`,
     trivia: [
-      'Rynek tworzyły giełdy komputerowe w halach i domach kultury, bo oficjalna dystrybucja praktycznie nie istniała.',
-      'Programy ładowano z kaset magnetofonowych, co trwało kilka minut i często kończyło się błędem.',
+      'Obudowę szkolnego komputera Elwro 800 Junior zaadaptowano z elektronicznych organków Elwirka.',
+      'Pierwsze numery „Bajtka” drukowano na papierze odstąpionym przez „Sztandar Młodych”, bo papier był reglamentowany.',
     ],
     resources: [
       {
@@ -23294,23 +23300,26 @@ Kiosk był miejscem, gdzie system dystrybucji PRL stykał się z klientem najbez
     tags: ['kultura', 'muzyka', 'estrada', 'big-beat'],
     yearStart: 1963,
     yearEnd: 1989,
-    summary: 'Jeden z najpopularniejszych i najbardziej lubianych polskich wokalistów, autor przeboju „Parostatek”, który karierę zaczynał w Trubadurach.',
+    summary: 'Jeden z najpopularniejszych polskich wokalistów, nazywany „polskim Tomem Jonesem”; zaczynał w Trubadurach, solo wylansował m.in. „Parostatek” i „Rysunek na szkle”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krzysztof%20Krawczyk.jpg?width=800',
     imageCaption: 'Krzysztof Krawczyk – jeden z najpopularniejszych polskich wokalistów.',
-    content: `## Głos
-Krzysztof Krawczyk (1946–2021) miał baryton rozpoznawalny po jednej frazie. Zaczynał w Trubadurach, z którymi śpiewał w latach 1963–1973, a potem prowadził karierę solową przez prawie pół wieku.
+    content: `## Młodość
+Krzysztof Krawczyk (1946–2021) urodził się w Katowicach jako syn śpiewaków operowych. Dorastał w Poznaniu i Łodzi; jako dziecko dubbingował filmy i statystował, m.in. w „Szatanie z siódmej klasy”. Jego idolami byli Mieczysław Fogg, a później Elvis Presley. Po śmierci ojca w 1964 roku został jedynym żywicielem rodziny.
 
-## Repertuar
-Nagrał ponad sto płyt, poruszając się między piosenką estradową, country, balladą i muzyką sakralną. Ta rozpiętość bywała mu wypominana, ale to właśnie ona zapewniła mu publiczność w każdym pokoleniu.
+## Trubadurzy
+W 1963 roku ze Sławomirem Kowalewskim założył w Łodzi Trubadurów. Z zespołem śpiewał „Kasię”, „Znamy się tylko z widzenia”, „Krajobrazy” i „Przyjedź mamo na przysięgę”, koncertował w ZSRR, Szwecji, Jugosławii i Mongolii, a w 1972 roku wystąpił w Monachium podczas igrzysk olimpijskich.
+
+## Solo
+W 1973 roku, za namową żony Haliny Żytkowiak, odszedł z Trubadurów i rozpoczął karierę solową. Zaczęto go nazywać „polskim Tomem Jonesem”. W 1975 roku wylansował z Jerzym Milianem „Parostatek” i „Rysunek na szkle”, a z Wojciechem Trzcińskim – „Pamiętam ciebie z tamtych lat”, „Byle było tak” i „Jak minął dzień”. Na rok 1976 wrócił jeszcze do Trubadurów na płytę „Znowu razem”.
 
 ## Ameryka
-W latach 80. wyjechał do Stanów Zjednoczonych, gdzie przez lata śpiewał głównie dla Polonii. Powrót do kraju i druga fala popularności w latach 90. uczyniły z niego jednego z nielicznych artystów PRL, którzy odbudowali pozycję po zmianie ustroju.
+W latach 80. wyjechał do Stanów Zjednoczonych, gdzie przez lata występował głównie dla Polonii. Powrót do kraju i druga fala popularności po 1989 roku – m.in. duety z Goranem Bregoviciem i Edytą Bartosiewicz – uczyniły z niego jednego z nielicznych artystów PRL, którzy odbudowali pozycję po zmianie ustroju.
 
-## Miejsce w kulturze
-Krawczyk był wykonawcą traktowanym przez krytykę z dystansem, a przez publiczność z bezwarunkową sympatią. Ten rozdźwięk sam w sobie mówi coś o polskiej estradzie: o tym, jak niewiele miała wspólnego z hierarchiami budowanymi przez recenzentów.`,
+## Stachanowiec estrady
+Za życia wydano 129 oficjalnych płyt z jego muzyką: od popu, swingu i country po kolędy, piosenki religijne i muzykę biesiadną. Krytyka traktowała go z dystansem, publiczność – z bezwarunkową sympatią. Ten rozdźwięk mówi coś o polskiej estradzie: jak niewiele miała wspólnego z hierarchiami recenzentów.`,
     trivia: [
-      'Nagrał ponad sto oficjalnych płyt, od piosenki estradowej po muzykę sakralną.',
-      'W latach 80. wyjechał do Stanów Zjednoczonych, gdzie śpiewał głównie dla Polonii.',
+      'Za życia wydano 129 oficjalnych płyt z jego muzyką.',
+      'Jako dziecko statystował w filmie „Szatan z siódmej klasy”.',
     ],
     resources: [
       {
@@ -25466,19 +25475,22 @@ Film dopuszczono do kin w ograniczonej liczbie kopii, bez reklamy i bez zgody na
     yearStart: 1981,
     summary: 'Kontynuacja „Człowieka z marmuru” (1981, reż. Wajda); najważniejszy film fabularny o Sierpniu \'80 i Solidarności, nagrodzony Złotą Palmą w Cannes.',
     content: `## Kontynuacja
-„Człowiek z żelaza” Andrzeja Wajdy powstał w 1981 roku jako kontynuacja „Człowieka z marmuru”. Akcja toczy się w sierpniu 1980 roku, w czasie strajku w Stoczni Gdańskiej.
+„Człowiek z żelaza” Andrzeja Wajdy, według scenariusza Aleksandra Ścibora-Rylskiego, powstał w 1981 roku jako kontynuacja „Człowieka z marmuru”. Wyprodukował go Zespół Filmowy „X”. Akcja toczy się w Gdańsku w sierpniu 1980 roku, w czasie strajku w Stoczni Gdańskiej.
 
 ## Fabuła
-Dziennikarz Winkel, grany przez Mariana Opanię, dostaje zadanie przygotowania materiału kompromitującego działacza komitetu strajkowego Macieja Tomczyka – syna Birkuta z poprzedniego filmu. W trakcie pracy sam zmienia stronę.
+Radiowy dziennikarz Winkel (Marian Opania) dostaje polecenie przygotowania reportażu kompromitującego Macieja Tomczyka (Jerzy Radziwiłowicz), działacza Międzyzakładowego Komitetu Strajkowego i syna Mateusza Birkuta z „Człowieka z marmuru”. Od znajomych i od żony Tomczyka, Agnieszki (Krystyna Janda), dowiaduje się, że Birkut zginął w Grudniu 1970 roku, a Maciek przeszedł drogę od posłusznego syna do przywódcy strajku. Winkel coraz bardziej sympatyzuje ze strajkującymi i w końcu rezygnuje z reportażu.
 
 ## Film o teraźniejszości
-Powstał w trakcie wydarzeń, które opisywał, z udziałem autentycznych uczestników strajku i zdjęciami kręconymi w stoczni. Jest to rzadki przypadek filmu fabularnego realizowanego równolegle do historii, którą przedstawia.
+Film kręcono w pośpiechu, by uchwycić świeże nastroje Sierpnia i narodziny „Solidarności”. Fabułę przeplatają materiały dokumentalne, a w epizodach pojawiają się autentyczni uczestnicy wydarzeń, w tym Lech Wałęsa. To rzadki przypadek filmu fabularnego realizowanego niemal równolegle do historii, którą przedstawia.
 
-## Złota Palma i zakaz
-Film zdobył Złotą Palmę w Cannes w 1981 roku. Kilka miesięcy później wprowadzono stan wojenny, a obraz zdjęto z ekranów na resztę dekady. Nagroda i zakaz w odstępie kilku miesięcy dobrze pokazują, jak gwałtownie zamknęło się wtedy pole wolności.`,
+## Złota Palma
+Na festiwalu w Cannes w 1981 roku film przyjęto entuzjastycznie i przyznano mu Złotą Palmę – pierwszą w historii polskiego kina. W kraju zdania były podzielone: chwalono dokumentalną wartość zapisu, krytykowano sentymentalizm fabuły i mimowolne powielanie schematów realizmu socjalistycznego, tyle że z odwróconym znakiem.
+
+## Po 13 grudnia
+Do grudnia 1981 roku film obejrzało w Polsce około pięciu milionów widzów. Po wprowadzeniu stanu wojennego zniknął z kin, Zespół Filmowy „X” rozwiązano, a Wajda przez pewien czas realizował filmy za granicą. Nagroda i represje w odstępie kilku miesięcy pokazują, jak gwałtownie zamknęło się wtedy pole wolności.`,
     trivia: [
-      'Film kręcono w trakcie wydarzeń, które opisuje, z udziałem autentycznych uczestników strajku.',
-      'Złota Palma w Cannes w 1981 roku, a kilka miesięcy później zdjęcie z ekranów po wprowadzeniu stanu wojennego.',
+      '„Człowiek z żelaza” zdobył pierwszą w historii polskiego kina Złotą Palmę w Cannes.',
+      'Po wprowadzeniu stanu wojennego rozwiązano Zespół Filmowy „X”, który wyprodukował film.',
     ],
     resources: [
       {
@@ -25861,19 +25873,22 @@ Jego nagrania są dziś odkrywane na nowo, także przez muzyków młodszych o po
     yearEnd: 1989,
     summary: 'Wieloletnia serialowa saga Jana Łomnickiego (od 1980) o mieszkańcach warszawskiej kamienicy przy ul. Złotej – kronika powojennej Polski.',
     content: `## Serial
-„Dom” w reżyserii Jana Łomnickiego emitowano od stycznia 1980 roku. Opowiada losy mieszkańców kamienicy przy ulicy Złotej w Warszawie od 1945 do 1980 roku – historia PRL widziana z poziomu jednej klatki schodowej.
+„Dom” w reżyserii Jana Łomnickiego emitowano w TVP1 od 16 stycznia 1980 do 17 grudnia 2000 roku. Opowiada o losach mieszkańców kamienicy przy ulicy Złotej w Warszawie od 1945 do 1980 roku – historia PRL widziana z poziomu jednej klatki schodowej.
 
 ## Rozciągnięty w czasie
-Powstało dwadzieścia pięć odcinków w czterech seriach, kręconych w latach 1980, 1982–1987, 1996–1997 i 2000. Od premiery do ostatniego odcinka minęło dwadzieścia lat, co czyni „Dom” jednym z najdłużej realizowanych polskich seriali.
+Powstało 25 odcinków w czterech seriach, emitowanych w latach 1980, 1982–1987, 1996–1997 i 2000. Od premiery do ostatniego odcinka minęło dwadzieścia lat, co czyni „Dom” jednym z najdłużej realizowanych polskich seriali. Fabułę przeplatają fragmenty ówczesnych kronik filmowych, nadające opowieści charakter dokumentalno-obyczajowy.
+
+## Talarowie
+Najważniejszym bohaterem jest Andrzej Talar, chłopak z mazowieckiej wsi Sierpuchowo, który po wyzwoleniu przyjeżdża do Warszawy na studia. Zaczyna jako milicjant, kończy Politechnikę i zostaje inżynierem w FSO. Zakochuje się w Basi z kamienicy przy Złotej, która czeka na zaginionego poetę Łukasza Zbożnego. Za Andrzejem do stolicy przybywają bracia: Bronek, który przy budowie Trasy W-Z zostaje przodownikiem pracy, wykorzystanym i porzuconym przez propagandę, oraz najmłodszy Leszek.
+
+## Kamienica jako tygiel
+Przy Złotej mieszkają obok siebie inteligenci, robotnicy, przedwojenni urzędnicy i nowi ludzie władzy – zwolennicy i przeciwnicy systemu. Kamienica pozwala pokazać całą epokę bez wielkich scen historycznych: przez sąsiedzkie rozmowy, awanse, wyprowadzki i powroty.
 
 ## Co się zmieniło po drodze
-Serial zaczęto kręcić w PRL, a skończono w III Rzeczypospolitej. Zmieniły się nie tylko warunki produkcji, ale i granice tego, co wolno było pokazać – kolejne serie mówią o powojennej historii coraz bardziej wprost.
-
-## Formuła
-Kamienica jako mikroświat pozwalała pokazać całą epokę bez wielkich scen historycznych: przez sąsiedzkie rozmowy, awanse, wyprowadzki i powroty. To właśnie ta perspektywa zdecydowała o trwałości serialu.`,
+Serial zaczęto kręcić w PRL, a skończono w III Rzeczypospolitej. Zmieniły się nie tylko warunki produkcji, lecz także granice tego, co wolno było pokazać – kolejne serie mówią o powojennej historii coraz bardziej wprost.`,
     trivia: [
-      'Od premiery pierwszego odcinka do ostatniego minęło dwadzieścia lat.',
-      'Serial zaczęto kręcić w PRL, a dokończono w III Rzeczypospolitej – i widać to w tym, co wolno było pokazać.',
+      'Od premiery pierwszego odcinka w 1980 roku do ostatniego w 2000 roku minęło dwadzieścia lat.',
+      'Bronek Talar zostaje przodownikiem pracy przy budowie Trasy W-Z – i ofiarą propagandy, która go wykorzystuje.',
     ],
     resources: [
       {
@@ -26207,20 +26222,23 @@ Uszatek przetrwał zmianę ustroju i pozostał jedną z nielicznych postaci z ta
     yearStart: 1972,
     yearEnd: 1981,
     summary: 'Seria animowana ze studia Se-ma-for (1972–1981) o naiwnym kotku Filemonie i statecznym kocurze Bonifacym; klasyka polskiej dobranocki.',
-    content: `## Serial
-„Przygody kota Filemona” to serial animowany dla dzieci emitowany w latach 1977–1981, kontynuacja „Dziwnego świata kota Filemona” z lat 1972–1974. Powstał w łódzkim Studiu Małych Form Filmowych Se-Ma-For, a scenariusz napisał Marek Nejman.
+    content: `## Dwa seriale
+Kot Filemon ma dwa seriale. Pierwszy, „Dziwny świat kota Filemona”, powstawał w latach 1972–1974. Drugi, „Przygody kota Filemona”, emitowano w latach 1977–1981. Oba wyprodukowało łódzkie Studio Małych Form Filmowych Se-Ma-For, a scenariusze napisał Marek Nejman.
 
 ## Bohaterowie
-Historie opowiadają o małym kotku Filemonie i dorosłym kocie Bonifacym. Zderzenie dziecięcej ciekawości z flegmatycznym doświadczeniem starszego kota daje humor, który działa na obu poziomach: dla dziecka i dla dorosłego.
+Historie opowiadają o małym, ciekawskim kotku Filemonie i dorosłym, statecznym kocie Bonifacym. Zderzenie dziecięcej naiwności z flegmatycznym doświadczeniem starszego kota daje humor, który działa na dwóch poziomach: dla dziecka i dla dorosłego. Opowieść prowadzi narratorka – głosu użyczyła jej Barbara Marszałek.
+
+## Odcinki
+„Przygody kota Filemona” liczyły 26 odcinków, każdy około dziewięciu minut. Ich tytuły to często przysłowia i frazeologizmy: „Szukaj wiatru w polu”, „Kupić kota w worku”, „Jak pies z kotem”, „Kwiecień plecień”, „Groch z kapustą”. Serial przy okazji uczył polszczyzny.
 
 ## Rzemiosło
-Serial liczył dwadzieścia sześć odcinków po około dziewięć minut. Animacja rysunkowa powstawała klatka po klatce, a każdy odcinek wymagał tysięcy rysunków – praca pochłaniająca miesiące.
+Odcinki reżyserowało kilku animatorów Se-Ma-Foru, m.in. Ludwik Kronic, Wacław Fedak, Ireneusz Czesny, Alina Kotowska, Andrzej Piliczewski i Zbigniew Czernelecki. Animacja rysunkowa powstawała klatka po klatce, a każdy odcinek wymagał tysięcy rysunków i miesięcy pracy.
 
 ## Dobranocka
-Filemon należał do żelaznego repertuaru wieczorynki. W kraju z dwoma programami telewizji dobranocka o ustalonej porze była wspólnym doświadczeniem całego pokolenia – i jednym z niewielu momentów, gdy dzieci w całej Polsce oglądały to samo.`,
+Filemon należał do żelaznego repertuaru wieczorynki. W kraju z dwoma programami telewizji dobranocka o stałej porze była wspólnym doświadczeniem całego pokolenia – jednym z niewielu momentów, gdy dzieci w całej Polsce oglądały to samo.`,
     trivia: [
-      'Serial powstał w łódzkim Se-Ma-Forze, jednym z najważniejszych studiów animacji w kraju.',
-      'Był kontynuacją wcześniejszego „Dziwnego świata kota Filemona” z lat 1972–1974.',
+      'Tytuły odcinków to często przysłowia, np. „Kupić kota w worku” czy „Szukaj wiatru w polu”.',
+      'Scenariusze obu seriali o Filemonie napisał Marek Nejman.',
     ],
     resources: [
       {
@@ -29264,20 +29282,23 @@ Przez dziesięciolecia pozostawał aktorem teatralnym, głównie warszawskim. Po
     yearStart: 1945,
     yearEnd: 1989,
     summary: '8 marca, Międzynarodowy Dzień Kobiet, był hucznie obchodzonym świętem PRL – z czerwonym goździkiem, rajstopami i uroczystymi akademiami.',
-    content: `## Święto państwowe
-8 marca obchodzono w PRL jako Międzynarodowy Dzień Kobiet – święto o rodowodzie socjalistycznym, w oficjalnej wykładni upamiętniające walkę o prawa pracownic. W praktyce stało się elementem kalendarza zakładowego.
+    content: `## Rodowód
+Międzynarodowy Dzień Kobiet wywodzi się z ruchu socjalistycznego początku XX wieku: ideę corocznego święta kobiet pracujących przyjęła w 1910 roku międzynarodowa konferencja kobiet socjalistek w Kopenhadze, z udziałem Clary Zetkin. W bloku wschodnim 8 marca stał się stałym elementem oficjalnego kalendarza, a w PRL w wykładni propagandowej upamiętniał walkę o prawa pracownic i „równouprawnienie kobiet w socjalizmie”.
+
+## Święto zakładowe
+Nie był to dzień wolny od pracy – obchodziło się go właśnie w pracy. W zakładach, urzędach i szkołach scenariusz był podobny: akademia, przemówienie dyrektora albo sekretarza organizacji partyjnej, a potem wręczanie kobietom kwiatów i drobnych upominków. Organizowały to rady zakładowe i koła Ligi Kobiet.
 
 ## Goździk i rajstopy
-Obchody miały ustalony scenariusz: akademia, przemówienie dyrekcji, a potem wręczanie kobietom kwiatów i drobnych upominków. Goździk i rajstopy stały się symbolem tego święta, przywoływanym do dziś jako skrót całej epoki.
+Czerwony goździk, zawinięty w celofan, i para rajstop – w latach niedoborów towar cenny – stały się symbolem tego święta. Zależnie od możliwości zakładu upominkiem bywało też coś z trudno dostępnych towarów. W szkołach uczniowie przynosili kwiaty nauczycielkom, w domach mężowie i synowie – matkom i żonom.
 
 ## Dwuznaczność
-Święto łączyło dwie sprzeczne rzeczy. Z jednej strony państwo faktycznie otworzyło kobietom dostęp do zawodów i wykształcenia. Z drugiej – obowiązki domowe pozostały w całości po ich stronie, a jednodniowy upominek nie zmieniał niczego w podziale pracy.
+Święto łączyło dwie sprzeczne rzeczy. Państwo rzeczywiście otworzyło kobietom szeroki dostęp do pracy zawodowej i wykształcenia, a propaganda eksponowała traktorzystki i przodownice pracy. Jednocześnie obowiązki domowe, stanie w kolejkach i opieka nad dziećmi pozostawały w praktyce po stronie kobiet – jednodniowy goździk nie zmieniał niczego w podziale tej „drugiej zmiany”.
 
 ## Po 1989
-Święto na pewien czas straciło znaczenie jako kojarzone z poprzednim systemem, by wrócić później w innej formie – już bez akademii, za to z nowym sporem o to, czym właściwie ma być.`,
+Po zmianie ustroju święto na pewien czas straciło znaczenie jako kojarzone z PRL, by wrócić w innej formie: bez akademii, za to z nowymi sporami o prawa kobiet i o to, czym właściwie ma być 8 marca.`,
     trivia: [
-      'Goździk i rajstopy stały się symbolem zakładowych obchodów 8 marca.',
-      'Państwo otwierało kobietom dostęp do zawodów, ale obowiązki domowe pozostawały w całości po ich stronie.',
+      '8 marca nie był w PRL dniem wolnym – obchodzono go w zakładach pracy, z akademią i upominkami.',
+      'Czerwony goździk i para rajstop stały się symbolem zakładowych obchodów Dnia Kobiet.',
     ],
     resources: [
       {
@@ -33857,7 +33878,8 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1975, event: 'Premiera serialu „Czterdziestolatek” Jerzego Gruzy', category: 'kultura', entryId: 'czterdziestolatek' },
   { year: 1977, event: 'Start programu popularnonaukowego „Sonda”', category: 'kultura', entryId: 'sonda-program' },
   { year: 1980, event: 'Katastrofa na Okęciu – ginie m.in. Anna Jantar (14 marca)', category: 'społeczeństwo', entryId: 'anna-jantar' },
-  { year: 1957, event: 'Rusza produkcja FSO Syrena – pierwszego polskiego seryjnego auta', category: 'gospodarka', entryId: 'syrena-samochod' },
+  { year: 1957, event: 'Rusza produkcja FSO Syrena – pierwszego seryjnego samochodu osobowego polskiej konstrukcji po wojnie', category: 'gospodarka', entryId: 'syrena-samochod' },
+  { year: 1985, event: 'We wrześniu ukazuje się pierwszy numer „Bajtka”', category: 'społeczeństwo', entryId: 'komputery-domowe' },
   { year: 1979, event: 'Agnieszka Holland debiutuje „Aktorami prowincjonalnymi” (nagroda w Cannes)', category: 'kultura', entryId: 'holland-agnieszka' },
   { year: 1982, event: 'Brygada Kryzys wydaje „Czarny album” – manifest nowej fali', category: 'kultura', entryId: 'brygada-kryzys' },
   { year: 1982, event: 'Polska zajmuje 3. miejsce na mundialu w Hiszpanii; gwiazdą Zbigniew Boniek', category: 'społeczeństwo', entryId: 'mundial-1982' },
@@ -33920,7 +33942,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1971, event: 'Krzysztof Klenczon zakłada Trzy Korony po odejściu z Czerwonych Gitar', category: 'kultura', entryId: 'krzysztof-klenczon' },
   { year: 1984, event: 'Andrzej Grubba w światowej czołówce tenisa stołowego', category: 'społeczeństwo', entryId: 'andrzej-grubba' },
   { year: 1962, event: 'Premiera „Noża w wodzie” – debiut Polańskiego, nominacja do Oscara', category: 'kultura', entryId: 'noz-w-wodzie' },
-  { year: 1972, event: 'Debiut kreskówki „Przygody kota Filemona”', category: 'kultura', entryId: 'filemon-kot' },
+  { year: 1972, event: 'Debiut serialu „Dziwny świat kota Filemona” ze studia Se-Ma-For', category: 'kultura', entryId: 'filemon-kot' },
   { year: 1975, event: 'Debiut dobranocki „Miś Uszatek”', category: 'kultura', entryId: 'mis-uszatek' },
   { year: 1965, event: 'Seweryn Krajewski dołącza do Czerwonych Gitar', category: 'kultura', entryId: 'seweryn-krajewski' },
   { year: 1979, event: 'Edward Raczyński zostaje prezydentem RP na uchodźstwie – w wieku 87 lat', category: 'osoby', entryId: 'raczynski' },
