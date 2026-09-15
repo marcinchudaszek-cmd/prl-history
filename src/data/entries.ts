@@ -16395,26 +16395,29 @@ W sierpniu 1980 roku huta stała się jednym z głównych ośrodków strajkowych
     subtitle: 'Świątynie handlu w gospodarce niedoboru',
     category: 'społeczeństwo',
     tags: ['społeczeństwo', 'handel', 'życie codzienne', 'architektura'],
-    yearStart: 1952,
+    yearStart: 1951,
     yearEnd: 1989,
-    summary: 'Wielkie domy towarowe (CDT, „Centrum”) i pierwszy samoobsługowy Supersam były wizytówkami handlu PRL, mimo chronicznych braków towarów.',
+    summary: 'Wielkie domy towarowe (CDT, „Centrum”) i warszawski Supersam – pierwszy taki sklep w Polsce – były wizytówkami handlu PRL, mimo chronicznych braków towarów.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/SuperSam_Warszawa_1969.jpg?width=800',
     imageCaption: 'Supersam na placu Unii Lubelskiej w Warszawie, 1969',
-    content: `## Wizytówki handlu
-Domy towarowe – warszawski CDT (później „Smyk”), domy „Centrum”, sieć „Sezam” – były dumą socjalistycznego handlu, nowoczesnymi gmachami w centrach miast.
+    content: `## CDT
+Centralny Dom Towarowy przy Brackiej w Warszawie zaprojektowali w latach 1947–1948 Zbigniew Ihnatowicz i Jerzy Romański. Otwarto go 22 lipca 1951 roku. Przeszklona bryła na słupach, podziemny garaż i urządzenia przeciwsłoneczne czyniły z niego wybitne dzieło funkcjonalizmu – ale ukończony już po wprowadzeniu socrealizmu gmach spotkał się z ostrą krytyką za „zachodnią” formę. Od 1971 roku mieścił Centralny Dom Dziecka, znany później jako „Smyk”.
 
 ## Supersam
-Otwarty w 1962 roku warszawski Supersam był pierwszym sklepem samoobsługowym w Polsce – nowinką wzorowaną na Zachodzie, z odważną, wiszącą konstrukcją dachu uznawaną za ikonę architektury.
+Supersam przy placu Unii Lubelskiej otwarto 6 czerwca 1962 roku. Był pierwszym supersamem w Polsce – od niego wzięła się nazwa podobnych sklepów. Dach zawieszony na stalowych linach, zaprojektowany przez Jerzego Hryniewieckiego, Macieja Krasińskiego i Ewę Krasińską z konstruktorami Wacławem Zalewskim, Stanisławem Kusiem i Andrzejem Żórawskim, uchodzi za jedno z najwybitniejszych osiągnięć polskiego modernizmu. Na 6 tysiącach metrów kwadratowych mieścił największy samoobsługowy sklep spożywczy w Warszawie, z własną piekarnią, palarnią kawy i barem „Frykas”.
+
+## Ściana Wschodnia
+W latach 60. po wschodniej stronie Marszałkowskiej powstały Domy Towarowe „Centrum” – nowoczesne pawilony mające pokazać, że socjalistyczne śródmieście ma własne salony handlu.
 
 ## Niedobór mimo wystaw
-Mimo reprezentacyjnego charakteru półki domów towarowych często świeciły pustkami. Atrakcyjne towary „rzucano” nieregularnie, co wywoływało kolejki i polowanie na deficyt.
-
-## Rytuał zakupów
-Wizyta w domu towarowym była wydarzeniem – zwłaszcza przed świętami. Stoiska z zabawkami, konfekcją i sprzętem RTV przyciągały tłumy, choć wybór bywał ubogi.
+Mimo reprezentacyjnego charakteru półki często świeciły pustkami. Atrakcyjne towary „rzucano” nieregularnie, co wywoływało kolejki i polowanie na deficyt. 7 sierpnia 1971 roku, w czasie rekordowych upałów, Supersam wizytował premier Piotr Jaroszewicz – interesował się zaopatrzeniem w mięso i napoje chłodzące i zalecił częstsze dostawy.
 
 ## Znaczenie
-Domy towarowe i Supersam to symbol napięcia między propagandową nowoczesnością a realiami gospodarki niedoboru, w której nawet „świątynie handlu” nie miały co sprzedawać.`,
-    trivia: ['Supersam w Warszawie był symbolem nowoczesnego handlu.', 'Domy towarowe nosiły nazwy takie jak Sezam czy Centrum.'],
+Domy towarowe i Supersam to symbol napięcia między nowoczesną architekturą a gospodarką niedoboru. Supersam zamknięto w 2006 roku z powodu skorodowanego dachu i mimo protestów rozebrano.`,
+    trivia: [
+      'Od warszawskiego Supersamu, otwartego w 1962 roku, wzięła się nazwa „supersam” dla podobnych sklepów.',
+      'W 1971 roku zaopatrzeniem Supersamu w mięso i napoje chłodzące osobiście interesował się premier Jaroszewicz.',
+    ],
     resources: [
       {
         id: 'dt-pkf',
@@ -17544,21 +17547,24 @@ Plany zakładały stały wzrost wydobycia, co w latach 70. doprowadziło do prac
     summary: 'Państwowy przewoźnik lotniczy PRL, łączący Polskę ze światem radzieckimi i (z czasem) zachodnimi samolotami, dla większości obywateli pozostający luksusem.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/LOT_Ilyushin_Il-62_SP-LAA_Gilliand.jpg?width=800',
     imageCaption: 'Ił-62 w barwach LOT-u – flagowy samolot polskich linii od lat 70.',
-    content: `## Państwowy przewoźnik
-Polskie Linie Lotnicze LOT, reaktywowane po wojnie, były jedynym przewoźnikiem lotniczym kraju. Flotę tworzyły początkowo samoloty radzieckie (Ił, Tu, An), z czasem także zachodnie.
+    content: `## Powrót po wojnie
+Polskie Linie Lotnicze LOT, założone w 1928 roku, zawiesiły działalność na czas wojny. Loty krajowe wznowiono już 1 kwietnia 1945 roku linią okrężną Warszawa–Łódź–Kraków–Rzeszów–Lublin–Warszawa, a 11 maja 1945 roku uruchomiono pierwsze połączenie międzynarodowe – do Berlina. W lipcu doszły Paryż i Sztokholm. Pierwszą powojenną flotę tworzyły amerykańskie DC-3 i radzieckie Li-2.
 
-## Okno na świat
-LOT obsługiwał połączenia krajowe i międzynarodowe, w tym dalekie trasy. Dla większości Polaków podróż samolotem była jednak rzadkością i luksusem.
+## Flota
+W kolejnych dekadach do LOT-u trafiały głównie samoloty radzieckie: Ił-12, Ił-14, Ił-18, An-24, Tu-134, Ił-62 i Tu-154. Zdarzały się wyjątki z Zachodu – Convair CV-240 w 1957 roku i Vickers Viscount w 1962 roku. LOT wykonywał też usługi agrolotnicze, m.in. zwalczanie stonki ziemniaczanej.
 
-## Reglamentacja podróży
-Wyjazdy zagraniczne ograniczała polityka paszportowa – bilet to nie wszystko, trzeba było jeszcze uzyskać zgodę władz na wyjazd, co czyniło lotnicze podróże na Zachód elitarnymi.
+## Za ocean
+Dopiero dalekodystansowe Ił-62 pozwoliły w maju 1972 roku uruchomić pierwsze loty transatlantyckie do Montrealu, a w kwietniu 1973 roku regularną linię Warszawa–Nowy Jork. Dla większości obywateli taka podróż pozostawała jednak poza zasięgiem: poza ceną biletu trzeba było mieć paszport, a ten władze wydawały wybiórczo.
 
-## Porwania i ucieczki
-W realiach zamknięcia granic zdarzały się dramatyczne ucieczki – uprowadzenia samolotów LOT do Berlina Zachodniego czy Wiednia, by wydostać się z bloku wschodniego.
+## Katastrofy i porwania
+14 marca 1980 roku podczas podejścia do lądowania na Okęciu rozbił się Ił-62 „Mikołaj Kopernik” – zginęło 87 osób, w tym Anna Jantar. 9 maja 1987 roku w Lesie Kabackim runął Ił-62M „Tadeusz Kościuszko”; zginęły 183 osoby, co pozostaje największą katastrofą w historii polskiego lotnictwa. W realiach zamkniętych granic zdarzały się też uprowadzenia samolotów LOT-u na Zachód, zwłaszcza do Berlina Zachodniego.
 
-## Znaczenie
-LOT symbolizował zarazem nowoczesność i ograniczenia PRL – techniczne ambicje państwa wobec realnej niedostępności swobodnego podróżowania dla obywateli.`,
-    trivia: ['LOT latał głównie samolotami produkcji radzieckiej.', 'Rejsy na Zachód były prestiżowe i bardzo drogie.'],
+## Stan wojenny i koniec epoki
+Stan wojenny sparaliżował przewoźnika: w 1982 roku sieć połączeń skurczyła się o jedną trzecią, a liczba pasażerów spadła o połowę. Poziom przewozów z początku dekady udało się przekroczyć dopiero w 1987 roku. W kwietniu 1989 roku LOT kupił pierwsze amerykańskie Boeingi – symboliczny koniec radzieckiej floty.`,
+    trivia: [
+      'Pierwsze powojenne połączenie międzynarodowe LOT uruchomił 11 maja 1945 roku – do Berlina.',
+      'Regularną linię Warszawa–Nowy Jork otwarto w kwietniu 1973 roku dzięki samolotom Ił-62.',
+    ],
     resources: [
       {
         id: 'lot-1',
@@ -24833,19 +24839,25 @@ Jego sukcesy pokazywano w kraju, ale sam model kariery – indywidualny, zawodow
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Nysa_522_T_during_%E2%80%9EXXX_lat_motoryzacji_PRL%E2%80%9D_exhibition_at_Bonarka_City_Center_in_Krak%C3%B3w.JPG?width=800',
     imageCaption: 'Nysa 522 T na wystawie motoryzacji PRL (fot. współczesna)',
     content: `## Dwa samochody dostawcze
-Nysa i Żuk były podstawą transportu użytkowego w PRL. Nysę produkowano w Nysie od 1959 do 1994 roku, Żuka – w Fabryce Samochodów Ciężarowych w Lublinie. Oba powstały na bazie podzespołów samochodów osobowych.
+Nysa i Żuk były podstawą transportu użytkowego w PRL. Oba zbudowano na podzespołach osobowej Warszawy – silnikach, skrzyniach biegów, zawieszeniu i hamulcach – dodając ramę podwozia. Dzięki temu były tanie i proste w naprawie, ale dziedziczyły też słabości: nietrwałe zawieszenie i ograniczoną ładowność.
+
+## Nysa
+Zakład w Nysie powstał z dawnej fabryki mebli stalowych, która w latach 1947–1951 produkowała łóżka szpitalne i kasy pancerne. Od 1952 roku jako Zakłady Budowy Nadwozi Samochodowych robił zabudowy dla ciężarówek: furgony, warsztaty, kina objazdowe. W kraju brakowało małych dostawczaków do tony ładowności, więc w 1957 roku rozpoczęto prace nad własnym pojazdem. Nysę produkowano w latach 1959–1994.
+
+## Żuk
+Żuka opracowano w 1956 roku w Fabryce Samochodów Ciężarowych w Lublinie; konstruktorami byli Stanisław Tański i Roman Skwarek, a nadwozie zaprojektował Julian Kamiński. Nazwę zawdzięcza pasiastemu malowaniu ostatniego prototypu. W szczytowych okresach powstawało 30 tysięcy Żuków rocznie, także na eksport. Produkowano pikapy, furgony, skrzyniowe, mikrobusy i wozy strażackie; następca, FS Lublin, wszedł do produkcji dopiero w 1993 roku.
 
 ## Wszechobecność
-Jeździły jako karetki, radiowozy milicji, samochody pocztowe, warsztaty, furgony sklepowe i mikrobusy. Ich sylwetki należą do najbardziej rozpoznawalnych elementów krajobrazu miejskiego epoki.
+Jeździły jako karetki, radiowozy, samochody pocztowe, piekarnicze, warsztaty i mikrobusy. Ich sylwetki należą do najbardziej rozpoznawalnych elementów krajobrazu epoki.
 
 ## Nysa jako suka
-Wersja milicyjna Nysy, używana do przewożenia zatrzymanych, zyskała potoczną nazwę suka. W okresie stanu wojennego pojazdy te stały się jednym z symboli represji i pojawiały się w relacjach z każdej niemal demonstracji.
+Milicyjna wersja Nysy, używana do przewożenia zatrzymanych, zyskała potoczną nazwę „suka”. W stanie wojennym stała się jednym z symboli represji i pojawiała się w relacjach z niemal każdej demonstracji.
 
-## Konstrukcja
-Oba modele produkowano przez dziesięciolecia w niewiele zmienionej postaci. Wynikało to nie z doskonałości konstrukcji, lecz z braku środków na opracowanie następcy – ta sama przyczyna, która zatrzymała rozwój samochodów osobowych.`,
+## Długowieczność
+Oba modele unowocześniano – zwłaszcza w latach 70. dostały mocniejsze silniki i nowy wygląd – ale w zasadniczej konstrukcji przetrwały ponad trzy dekady. Wynikało to nie z doskonałości projektu, lecz z braku środków na następcę.`,
     trivia: [
-      'Milicyjna wersja Nysy zyskała potoczną nazwę suka i stała się jednym z symboli stanu wojennego.',
-      'Oba modele produkowano dziesięcioleciami niemal bez zmian, bo brakowało środków na następcę.',
+      'Nazwa Żuka wzięła się od pasiastego malowania ostatniego prototypu.',
+      'Zakład w Nysie zaczynał od produkcji łóżek szpitalnych i kas pancernych.',
     ],
     resources: [
       {
@@ -25889,23 +25901,26 @@ Kamienica jako mikroświat pozwalała pokazać całą epokę bez wielkich scen h
     tags: ['film', 'animacja', 'dzieci', 'dobranocka', 'kultura'],
     yearStart: 1963,
     yearEnd: 1989,
-    summary: 'Kultowa polska kreskówka o przygodach dwóch braci, produkowana w Studiu Filmów Rysunkowych w Bielsku-Białej; opowiadana niemal bez słów.',
+    summary: 'Kultowa polska kreskówka Władysława Nehrebeckiego o przygodach dwóch braci, produkowana od 1962 roku w Studiu Filmów Rysunkowych w Bielsku-Białej; opowiadana niemal bez słów.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bolek%20and%20Lolek%20monument%208.jpg?width=800',
     imageCaption: 'Pomnik Bolka i Lolka w Bielsku-Białej (fot. współczesna)',
-    content: `## Serial
-„Bolek i Lolek” powstawał od lat 60. w Studiu Filmów Rysunkowych w Bielsku-Białej. Bohaterami są dwaj bracia przeżywający przygody w kolejnych scenografiach: na Dzikim Zachodzie, w dżungli, w kosmosie, na wakacjach.
+    content: `## Twórca
+Serię wymyślił Władysław Nehrebecki ze Studia Filmów Rysunkowych w Bielsku-Białej. Inspiracją były zabawy jego synów, Jana i Romana, a także pomysły przysyłane do studia przez dzieci. Imiona bohaterów nawiązywały do przedwojennej komedii „Bolek i Lolek” z Adolfem Dymszą, ulubionym aktorem Nehrebeckiego. Najbardziej znany motyw muzyczny skomponował Waldemar Kazanecki.
+
+## Początek
+Serię zainicjowano w 1962 roku jako odpowiedź na rozwój telewizji. W pierwszym filmie, „Kuszy” (1963), chłopcy bawią się w Wilhelma Tella – film miał przestrzegać przed zabawą bronią i zdobył nagrodę na festiwalu w Gottwaldowie. Nehrebecki chciał, by Bolek był niższy i grubszy, ale rada artystyczna studia go przegłosowała: niższym, tęższym chłopcem w fioletowych spodniach na szelkach został Lolek.
+
+## Przygody
+Założeniem było pokazanie podwórkowych zabaw, w których chłopcy wcielają się w bohaterów książek i filmów, a granica między fantazją a rzeczywistością się zaciera. Kolejne serie przenosiły ich na Dziki Zachód, w podróż dookoła świata, na wakacje. Przez 23 lata powstało ponad 150 odcinków w dziesięciu seriach oraz dwa filmy pełnometrażowe; nad jednym odcinkiem pracowało około 20 osób przez kilka miesięcy.
 
 ## Bez słów
-Postacie nie mówią – porozumiewają się gestem i mimiką, a narrację niesie muzyka. Rozwiązanie przyjęte ze względów artystycznych okazało się handlowo przełomowe: serial sprzedano do kilkudziesięciu krajów, bo nie wymagał dubbingu.
-
-## Eksport
-Polska animacja dla dzieci była jednym z niewielu towarów kulturalnych, które PRL realnie sprzedawał za granicę i na których zarabiał dewizy. Obok Bolka i Lolka eksportowano „Reksia”, również pozbawionego dialogów.
+Większość odcinków nie ma dialogów – narrację niosą obraz, gest i muzyka. Dzięki temu serial był zrozumiały bez tłumaczenia i odniósł sukces także za granicą. Wyjątkiem jest pełnometrażowa „Wielka podróż Bolka i Lolka”.
 
 ## Tola
-Z czasem do duetu dołączyła Tola – postać dziewczynki wprowadzona po uwagach, że serial adresowany jest wyłącznie do chłopców. Zmiana ta dobrze pokazuje, jak w PRL reagowano na krytykę: dopisaniem elementu, a nie zmianą formuły.`,
+W 1973 roku, na życzenie żeńskiej części widowni, do duetu dołączyła Tola. Pierwszy raz wystąpiła w odcinku zatytułowanym po prostu „Tola”, a w sumie pojawiła się w 30 odcinkach.`,
     trivia: [
-      'Bohaterowie nie mówią, dzięki czemu serial sprzedano do kilkudziesięciu krajów bez dubbingu.',
-      'Postać Toli dopisano po uwagach, że serial adresowany jest wyłącznie do chłopców.',
+      'Imiona bohaterów nawiązują do przedwojennej komedii „Bolek i Lolek” z Adolfem Dymszą.',
+      'Nehrebecki chciał, by Bolek był niższy i grubszy, ale rada artystyczna studia zdecydowała odwrotnie.',
     ],
     resources: [
       {
@@ -27022,19 +27037,22 @@ Aya RL należy do zespołów, które pokazały, że polski rock lat 80. nie spro
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Warszawa%20-%20Plac%20Konstytucji%20%282%29.jpg?width=800',
     imageCaption: 'Plac Konstytucji – serce MDM w Warszawie.',
     content: `## Osiedle-manifest
-Marszałkowską Dzielnicę Mieszkaniową wzniesiono w latach 1950–1952 w śródmieściu Warszawy, według projektu zespołu kierowanego przez Józefa Sigalina, a następnie Stanisława Jankowskiego. Był to sztandarowy zespół socrealistyczny w Polsce.
+Po ukończeniu Trasy W-Z w 1949 roku władze chciały mieć w stolicy sztandarową inwestycję na wzór moskiewskiej ulicy Gorkiego czy wschodnioberlińskiej Stalinallee. Marszałkowską Dzielnicę Mieszkaniową wzniesiono w latach 1950–1952 według projektu zespołu kierowanego najpierw przez Józefa Sigalina, a potem przez Stanisława Jankowskiego. Uroczyste otwarcie wyznaczono na 22 lipca 1952 roku.
+
+## Wyburzenia
+Aby poszerzyć Marszałkowską, rozebrano zabudowę po zachodniej stronie ulicy od Królewskiej do Koszykowej – także kamienice, które przetrwały wojnę. Dalszego poszerzania na odcinku do placu Unii Lubelskiej zaniechano ze względu na plac Zbawiciela i liczne zachowane domy. W jednym z projektów postulowano nawet rozebranie wież kościoła Najświętszego Zbawiciela.
+
+## Nazwa
+W rejonie Koszykowej i Pięknej miał powstać plac, na którym kończyłyby się pochody pierwszomajowe. Warszawiacy niechętnie patrzyli jednak na kolejne gmachy ministerstw, dlatego całości nadano nazwę dzielnicy „mieszkaniowej” – podkreślającej, że nowe państwo buduje dla ludzi pracy.
 
 ## Architektura
-Monumentalne elewacje, kolumnady, rzeźby robotników i chłopów oraz plac Konstytucji jako centralne założenie – wszystko miało pokazywać, że nowe państwo buduje dla ludzi pracy w formie dotąd zarezerwowanej dla władzy i religii.
+Monumentalne elewacje, arkady, kandelabry, płaskorzeźby i rzeźby robotników oraz plac Konstytucji jako centralne założenie miały pokazać, że forma dotąd zarezerwowana dla władzy i religii służy teraz robotnikom. Plac Konstytucji i jego otoczenie Polska Kronika Filmowa pokazywała jako wizytówkę socjalistycznej Warszawy.
 
-## Mieszkania
-Standard był jak na tamte czasy wysoki: duże metraże, wysokie sufity, dobre lokalizacje. Przydział mieszkania w MDM traktowano jako wyróżnienie, a trafiały one często do osób zasłużonych dla systemu.
-
-## Ocena
-Zespół powstał kosztem zabudowy, którą można było odbudować, i w tempie wymuszonym politycznie. Dziś MDM jest wpisana do rejestru zabytków jako najpełniejszy przykład socrealizmu w polskiej architekturze.`,
+## Mieszkania i ocena
+Standard był jak na tamte czasy wysoki: duże metraże, wysokie sufity, centralna lokalizacja; przydział mieszkania w MDM uchodził za wyróżnienie. Zespół powstał jednak w tempie wymuszonym politycznie i kosztem zabudowy, którą można było odbudować. W 2015 roku MDM wpisano do rejestru zabytków.`,
     trivia: [
-      'Przydział mieszkania w MDM traktowano jako wyróżnienie i trafiał często do osób zasłużonych dla systemu.',
-      'Zespół jest dziś wpisany do rejestru zabytków jako najpełniejszy przykład socrealizmu w Polsce.',
+      'Nazwa „dzielnica mieszkaniowa” miała złagodzić niechęć warszawiaków do kolejnych gmachów władzy.',
+      'W jednym z projektów MDM postulowano rozebranie wież kościoła Najświętszego Zbawiciela.',
     ],
     resources: [
       {
@@ -27567,28 +27585,34 @@ Zginął 17 sierpnia 1998 roku w wypadku samochodowym pod Przybiernowem. W tym s
   {
     id: 'halina-frackowiak',
     title: 'Halina Frąckowiak',
-    subtitle: '„Bądź gotowy dziś do drogi”',
+    subtitle: '„Papierowy księżyc” i „Napisz, proszę”',
     category: 'osoby',
     tags: ['muzyka', 'estrada', 'pop', 'big-beat', 'kobiety'],
-    yearStart: 1966,
+    yearStart: 1963,
     yearEnd: 1989,
-    summary: 'Wokalistka o ciepłej barwie głosu, gwiazda estrady od lat 60.; autorka przebojów „Napisz proszę” i „Bądź gotowy dziś do drogi”.',
+    summary: 'Wokalistka o ciepłej barwie głosu, gwiazda estrady od lat 60.; śpiewała z Czerwono-Czarnymi i Grupą ABC, nagrała z SBB album „Geira”, znana z przebojów „Napisz, proszę” i „Papierowy księżyc”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Halina%20Frackowiak.jpg?width=800',
     imageCaption: 'Halina Frąckowiak – wokalistka estradowa.',
-    content: `## Głos
-Halina Frąckowiak (ur. 1947) zaczynała w Poznaniu, w środowisku big-beatowym, a z czasem stała się jedną z najbardziej cenionych wokalistek polskiej piosenki – zarówno popowej, jak i rockowej. Jest też kompozytorką i autorką tekstów.
+    content: `## Debiut
+Halina Frąckowiak urodziła się w 1947 roku w Poznaniu. Zadebiutowała w 1963 roku na Festiwalu Młodych Talentów w Szczecinie, gdzie konkurowała m.in. z Czesławem Niemenem, Zdzisławą Sośnicką i Krzysztofem Klenczonem, i trafiła do „Złotej Dziesiątki”. Śpiewu uczyła się u Alicji Barskiej.
 
-## Przeboje
-Do najbardziej znanych nagrań należą „Napisz proszę” i „Bądź gotowy dziś do drogi” – utwór do słów Ryszarda Kapuścińskiego, co samo w sobie było w polskiej piosence sytuacją nietypową.
+## Zespoły
+Śpiewała z Tarpanami, Czerwono-Czarnymi, Drumlersami i Grupą ABC, z którymi wylansowała przeboje „Ktoś”, „Czekam tu”, „Napisz, proszę” i „Za mną nie oglądaj się”. Nagrody zdobywała na festiwalach w Opolu i Kołobrzegu; w 1975 roku w Opolu dostała też tytuł „Miss Obiektywu”.
 
-## Współpraca
-Śpiewała z zespołami rockowymi i jazzowymi, m.in. z formacją SBB i z Andrzejem Kurylewiczem, a repertuar pisali dla niej czołowi kompozytorzy tamtych lat. Ta wszechstronność była w PRL cenna: pozwalała funkcjonować i na festiwalach, i poza obiegiem estradowym.
+## Solo
+W 1972 roku rozpoczęła karierę solową i kilkakrotnie wygrywała plebiscyty na najpopularniejszą piosenkarkę. Występowała na festiwalach w Ostendzie, Rostocku i Dreźnie, koncertowała w Europie, USA i Kanadzie, śpiewała w Teatrze Muzycznym w Gdyni i teatrach wielkich w Łodzi i Warszawie. Pierwszy album, „Idę”, ukazał się w 1974 roku.
 
-## Festiwale
-Karierę budowano wtedy przez Opole i Sopot oraz radiowe listy przebojów. Bez tych kanałów piosenka praktycznie nie istniała w świadomości publiczności, bo nie było rynku płytowego, który mógłby je zastąpić.`,
+## Z SBB i Wierzyńskim
+Jej repertuar stopniowo stawał się poważniejszy i bardziej liryczny. W 1977 roku nagrała z SBB album „Geira”, a w 1981 roku, z Józefem Skrzekiem, „Ogród Luizy” – cykl oparty na miłosnej poezji Kazimierza Wierzyńskiego. Na listy przebojów trafiały „Papierowy księżyc”, „Tin Pan Alley” i „Anna już tu nie mieszka”.
+
+## Pamięć o Annie Jantar
+„Anna już tu nie mieszka” – z tekstem Janusza Kondratowicza i muzyką Jarosława Kukulskiego – była hołdem dla zmarłej w 1980 roku Anny Jantar. Frąckowiak zainicjowała Nagrodę im. Anny Jantar dla najzdolniejszych debiutantów.
+
+## Po 1989
+W 1990 roku, w drodze na koncert do Gorzowa Wielkopolskiego, uległa poważnemu wypadkowi samochodowemu i przez wiele miesięcy wracała do zdrowia. Za całokształt twórczości otrzymała od Polskich Nagrań Złotą Płytę.`,
     trivia: [
-      '„Bądź gotowy dziś do drogi” zaśpiewała do słów Ryszarda Kapuścińskiego.',
-      'Bez radia i festiwali w Opolu oraz Sopocie piosenka w PRL praktycznie nie docierała do publiczności.',
+      'W 1977 roku nagrała z zespołem SBB album „Geira”.',
+      'Zainicjowała Nagrodę im. Anny Jantar dla najzdolniejszych debiutantów.',
     ],
     resources: [
       {
@@ -28306,19 +28330,25 @@ Odejście obu przyjaciół w tak krótkim czasie zamknęło pewien rozdział pol
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Expo58%20radio%20luxembourg.jpg?width=800',
     imageCaption: 'Pawilon Radia Luksemburg na wystawie Expo, 1958',
     content: `## Luxy
-Radio Luxembourg, nazywane w Polsce „Luxy”, była komercyjną rozgłośnią nadającą z Wielkiego Księstwa Luksemburga. W latach 60. i 70. grało muzykę młodzieżową i wyznaczało mody muzyczne w całej Europie, także w krajach bloku wschodniego.
+Radio Luxembourg, w Polsce nazywane „Luxy”, było komercyjną rozgłośnią nadającą z Wielkiego Księstwa Luksemburga w wielu językach, incydentalnie także z okienkami po polsku. W latach 60.–80. grało muzykę młodzieżową i lansowało mody muzyczne wśród nastolatków Europy Zachodniej i Środkowej, w tym Polski.
+
+## Pirat z koncesją
+W Wielkiej Brytanii przez dziesięciolecia radio publiczne miało monopol, a reklamy w eterze były zakazane. Radio Luxembourg, nadające do Brytyjczyków z zagranicy, było więc pionierem radiowego „piractwa” i zarazem wzorem nowoczesnej radiofonii komercyjnej: listy przebojów, didżeje, audycje sponsorowane. Tę samą muzykę słyszeli w PRL nastolatkowie, dla których nie była przeznaczona.
 
 ## Jak się słuchało
-Odbiór na falach średnich był kapryśny: sygnał wzmacniał się wieczorem, a audycji słuchano z uchem przy głośniku, przy zmiennym natężeniu i szumach. Mimo to dla polskich nastolatków było to główne źródło wiedzy o tym, czego aktualnie słucha Zachód.
+Program anglojęzyczny nadawano wieczorem na falach średnich. Odbiór był kapryśny: sygnał wzmacniał się po zmroku, zanikał i wracał, a audycji słuchano z uchem przy głośniku. Mimo to dla polskiej młodzieży było to główne źródło wiedzy o tym, czego aktualnie słucha Zachód.
 
 ## Nagrywanie
 Utwory nagrywano z odbiornika na magnetofon szpulowy, później kasetowy. Powstawał w ten sposób prywatny obieg muzyki, całkowicie poza państwową dystrybucją – kopiowany i wymieniany wśród znajomych.
 
+## Polacy na antenie
+Radio grało nie tylko Zachód. W 1967 roku wystąpili w nim Niebiesko-Czarni – dla polskiego zespołu wejście na antenę słuchaną w całej Europie było wyróżnieniem.
+
 ## Dlaczego to ważne
-Radio Luxembourg, obok Wolnej Europy w innej dziedzinie, pokazuje, jak nieszczelna była kontrola nad informacją. Granicę dało się zamknąć dla ludzi i towarów, ale nie dla fal radiowych.`,
+Radio Luxembourg, obok Wolnej Europy w dziedzinie informacji, pokazuje, jak nieszczelna była kontrola nad kulturą. Granicę dało się zamknąć dla ludzi i towarów, ale nie dla fal radiowych.`,
     trivia: [
-      'Sygnał na falach średnich wzmacniał się wieczorem, więc słuchano głównie po zmroku.',
-      'Utwory nagrywane z radia na magnetofon tworzyły prywatny obieg muzyki poza państwową dystrybucją.',
+      'Program anglojęzyczny na falach średnich słychać było najlepiej po zmroku.',
+      'W 1967 roku na antenie Radia Luxembourg wystąpili Niebiesko-Czarni.',
     ],
     resources: [
       {
@@ -32694,19 +32724,22 @@ W PRL Katyń był tematem zakazanym, a oficjalna wersja obarczała winą Niemcó
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mieczyslaw_Grydzewski.jpg?width=800',
     imageCaption: 'Mieczysław Grydzewski, redaktor londyńskich „Wiadomości”',
     content: `## Przed wojną
-Mieczysław Grydzewski (1894–1970) redagował „Skamandra”, a przede wszystkim „Wiadomości Literackie” – tygodnik, który w dwudziestoleciu międzywojennym wyznaczał ton polskiego życia literackiego.
+Mieczysław Grydzewski (1894–1970), właściwie Grützhändler, urodził się w Warszawie w rodzinie żydowskiej. Studiował prawo w Moskwie, a historię w Warszawie u Marcelego Handelsmana. W czasie wojny polsko-bolszewickiej pracował z Janem Lechoniem i Julianem Tuwimem w Biurze Prasowym Naczelnego Wodza. Założył i redagował „Skamandra”, wokół którego powstała grupa poetycka, oraz „Wiadomości Literackie” – tygodnik wyznaczający ton życia literackiego dwudziestolecia.
 
-## Londyn
-Na emigracji wznowił pismo pod tytułem „Wiadomości” i prowadził je przez ćwierć wieku. Publikowali w nim najwybitniejsi pisarze emigracyjni; obok paryskiej „Kultury” było to najważniejsze pismo polskiej diaspory.
+## Emigracja
+Pismo prowadził nieprzerwanie na emigracji: od 1939 roku w Paryżu, od 1940 roku w Londynie, pod tytułami „Wiadomości Polskie, Polityczne i Literackie”, a od 1946 roku jako „Wiadomości”. Publikowali w nim najwybitniejsi pisarze emigracyjni; obok paryskiej „Kultury” było to najważniejsze pismo literackie polskiej diaspory.
 
-## Dwa ośrodki
-Londyńskie „Wiadomości” i paryska „Kultura” reprezentowały różne postawy: pierwsze trwały przy niezłomnym odrzuceniu PRL, drugie szukały sposobów oddziaływania na kraj i prowadziły dialog z krajowymi środowiskami. Spór między tymi liniami był jednym z głównych sporów emigracji.
+## Bez przebaczenia
+Grydzewski był nieprzejednany wobec PRL. Zrywał z przedwojennymi przyjaciółmi, którym nie potrafił wybaczyć powrotu do kraju i poparcia dla stalinizmu – szczególnie z Julianem Tuwimem. Londyńskie „Wiadomości” i paryska „Kultura” reprezentowały różne postawy: pierwsze trwały przy niezłomnym odrzuceniu PRL, drugie szukały sposobów oddziaływania na kraj. Spór tych linii był jednym z głównych sporów emigracji.
 
-## Zasięg
-Egzemplarze „Wiadomości” docierały do Polski nielegalnie i krążyły w zamkniętym obiegu. Dla czytelnika w kraju był to jeden z niewielu sposobów, by wiedzieć, co pisze się poza zasięgiem cenzury.`,
+## Silva rerum
+Najwięcej energii wkładał w felietony „Silva rerum”, pisane zwykle w czytelni British Museum i pełne historycznych ciekawostek o Polsce, literaturze i polskich Żydach. Nie przyznawał się do ich autorstwa, podpisywał je różnymi pseudonimami i prowadził w nich nawet polemiki z… redaktorem naczelnym.
+
+## Akademia i nagroda
+W 1957 roku powołał emigracyjną Akademię Literatury i ustanowił Nagrodę „Wiadomości” dla najlepszej książki wydanej na emigracji, przyznawaną do 1990 roku. W 1966 roku, chory, przekazał prowadzenie pisma Michałowi Chmielowcowi. Zmarł w Londynie w 1970 roku; „Wiadomości” ukazywały się do 1981 roku, a do Polski docierały nielegalnie.`,
     trivia: [
-      'Przed wojną redagował „Wiadomości Literackie”, najważniejszy tygodnik literacki dwudziestolecia.',
-      'Londyńskie „Wiadomości” i paryska „Kultura” reprezentowały dwie rywalizujące linie emigracji.',
+      'W felietonach „Silva rerum”, podpisywanych pseudonimami, polemizował sam ze sobą jako redaktorem naczelnym.',
+      'Ustanowiona przez niego Nagroda „Wiadomości” była przyznawana najlepszej książce emigracyjnej do 1990 roku.',
     ],
     resources: [
       {
@@ -33744,7 +33777,10 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1965, event: 'Teatr Laboratorium Jerzego Grotowskiego przenosi się do Wrocławia', category: 'kultura', entryId: 'teatr-grotowskiego' },
   { year: 1967, event: 'Tragiczna śmierć Zbigniewa Cybulskiego – ikony polskiego kina', category: 'kultura', entryId: 'cybulski-zbigniew' },
   { year: 1973, event: 'Jerzy Szczakiel indywidualnym mistrzem świata na żużlu', category: 'społeczeństwo', entryId: 'zuzel-prl' },
-  { year: 1962, event: 'Otwarcie warszawskiego Supersamu – pierwszego sklepu samoobsługowego', category: 'społeczeństwo', entryId: 'domy-towarowe' },
+  { year: 1962, event: '6 czerwca – otwarcie warszawskiego Supersamu, pierwszego supersamu w Polsce', category: 'społeczeństwo', entryId: 'domy-towarowe' },
+  { year: 1951, event: 'Otwarcie Centralnego Domu Towarowego przy Brackiej w Warszawie', category: 'społeczeństwo', entryId: 'domy-towarowe' },
+  { year: 1987, event: '9 maja – katastrofa Ił-62M „Tadeusz Kościuszko” w Lesie Kabackim, giną 183 osoby', category: 'społeczeństwo', entryId: 'lot-prl' },
+  { year: 1946, event: 'Mieczysław Grydzewski wydaje w Londynie „Wiadomości”', category: 'kultura', entryId: 'grydzewski' },
   { year: 1965, event: 'Orędzie biskupów polskich do niemieckich – „przebaczamy i prosimy o przebaczenie”', category: 'społeczeństwo', entryId: 'oredzie-biskupow' },
   { year: 1961, event: 'Tragiczna śmierć Andrzeja Munka podczas realizacji „Pasażerki”', category: 'kultura', entryId: 'munk-andrzej' },
   { year: 1965, event: 'Wojciech Has ekranizuje „Rękopis znaleziony w Saragossie”', category: 'kultura', entryId: 'has-wojciech' },
@@ -33852,7 +33888,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1980, event: 'Początek emisji serialu „Dom” Jana Łomnickiego', category: 'kultura', entryId: 'dom-serial' },
   { year: 1984, event: 'Premiera „Akademii Pana Kleksa” – hit z ponad 10 mln widzów', category: 'kultura', entryId: 'akademia-pana-kleksa' },
   { year: 1987, event: 'Andrzej Zaucha – przebój „C\'est la vie – Paryż z pocztówki”', category: 'kultura', entryId: 'andrzej-zaucha' },
-  { year: 1964, event: 'Debiut kreskówki „Bolek i Lolek” (Studio Filmów Rysunkowych)', category: 'kultura', entryId: 'bolek-i-lolek' },
+  { year: 1963, event: '„Kusza” – pierwszy film z Bolkiem i Lolkiem (Studio Filmów Rysunkowych)', category: 'kultura', entryId: 'bolek-i-lolek' },
   { year: 1967, event: 'Debiut kreskówki „Reksio”', category: 'kultura', entryId: 'reksio' },
   { year: 1971, event: 'Krzysztof Klenczon zakłada Trzy Korony po odejściu z Czerwonych Gitar', category: 'kultura', entryId: 'krzysztof-klenczon' },
   { year: 1984, event: 'Andrzej Grubba w światowej czołówce tenisa stołowego', category: 'społeczeństwo', entryId: 'andrzej-grubba' },
@@ -33879,7 +33915,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1974, event: 'SBB nagrywa debiutancki album na koncertach w warszawskiej Stodole', category: 'kultura', entryId: 'sbb-zespol' },
   { year: 1985, event: 'Ostatni motocykl WSK zjeżdża z taśmy w Świdniku', category: 'gospodarka', entryId: 'motocykle-prl' },
   { year: 1972, event: 'Władysław Komar zdobywa złoto olimpijskie w pchnięciu kulą (Monachium)', category: 'społeczeństwo', entryId: 'wladyslaw-komar' },
-  { year: 1974, event: 'Halina Frąckowiak – przebój „Bądź gotowy dziś do drogi”', category: 'kultura', entryId: 'halina-frackowiak' },
+  { year: 1977, event: 'Halina Frąckowiak nagrywa z SBB album „Geira”', category: 'kultura', entryId: 'halina-frackowiak' },
   { year: 1977, event: 'Premiera „Barw ochronnych” Krzysztofa Zanussiego', category: 'kultura', entryId: 'barwy-ochronne' },
   { year: 1970, event: 'Debiut Jana Himilsbacha w „Rejsie” – fenomen naturszczyka', category: 'kultura', entryId: 'jan-himilsbach' },
   { year: 1976, event: 'Tadeusz Ślusarski zdobywa złoto olimpijskie w skoku o tyczce (Montreal)', category: 'społeczeństwo', entryId: 'tadeusz-slusarski' },
@@ -34011,7 +34047,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1957, event: 'Start radiowej akcji „Niewidzialna Ręka”', category: 'społeczeństwo', entryId: 'niewidzialna-reka' },
   { year: 1958, event: 'Akcja „Tysiąc szkół na Tysiąclecie”', category: 'społeczeństwo', entryId: 'szkoly-tysiaclecia' },
   { year: 1958, event: 'Rusza produkcja pralki Frania', category: 'społeczeństwo', entryId: 'frania-pralka' },
-  { year: 1958, event: 'Rusza produkcja samochodów dostawczych Nysa', category: 'społeczeństwo', entryId: 'nysa-zuk' },
+  { year: 1959, event: 'Rusza produkcja samochodów dostawczych Nysa', category: 'społeczeństwo', entryId: 'nysa-zuk' },
   { year: 1966, event: 'Obchody Milenium Chrztu Polski', category: 'społeczeństwo', entryId: 'milenium-1966' },
   { year: 1973, event: 'Rusza produkcja Fiata 126p – Malucha', category: 'społeczeństwo', entryId: 'fiat-126p' },
   { year: 1985, event: 'Zbigniew Religa przeprowadza pierwszy udany przeszczep serca w Polsce', category: 'społeczeństwo', entryId: 'zbigniew-religa' },
