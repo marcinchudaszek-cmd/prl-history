@@ -12983,21 +12983,24 @@ Scena punkowa, najsilniej obecna w Jarocinie, pozostaje symbolem najbardziej rad
     summary: 'Kultowe radiowe notowanie muzyczne prowadzone przez Marka Niedźwieckiego, które od 1982 roku kształtowało muzyczne gusta Polaków.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Marek_Niedzwiecki_2010_big_RK.jpg?width=800',
     imageCaption: 'Marek Niedźwiecki, wieloletni prowadzący Listę Przebojów Trójki',
-    content: `## Geneza
-Lista Przebojów Programu Trzeciego Polskiego Radia („Trójki”) wystartowała w 1982 roku. Słuchacze głosowali na ulubione utwory, tworząc cotygodniowy ranking najpopularniejszych piosenek.
+    content: `## Pierwsze notowanie
+Lista Przebojów Programu Trzeciego Polskiego Radia wystartowała 24 kwietnia 1982 roku – cztery miesiące po wprowadzeniu stanu wojennego. W pierwszym notowaniu zwyciężyło „I’ll Find My Way Home” duetu Jon and Vangelis, a drugie miejsce zajęło „O! nie rób tyle hałasu” Maanamu, które tydzień później było już pierwsze.
 
 ## Marek Niedźwiecki
-Najbardziej rozpoznawalnym prezenterem Listy był Marek Niedźwiecki, którego spokojny głos i pasja muzyczna uczyniły z notowania kultową audycję słuchaną przez miliony.
+Od pierwszego notowania do 2007 roku Listę prowadził Marek Niedźwiecki. Jego spokojny głos i opowieści o muzyce uczyniły z notowania jedną z najbardziej kultowych audycji w historii polskiego radia. Początkowo nadawano ją w soboty w godzinach 20:00–22:00; we wrześniu 1989 roku wydłużono ją do czterech godzin.
 
-## Rola
-W czasach ograniczonego dostępu do muzyki zagranicznej i niezależnej Lista Przebojów była dla wielu młodych ludzi oknem na świat – promowała zarówno polskie zespoły, jak i zachodnie przeboje.
+## Głosy słuchaczy
+Kolejność ustalali słuchacze, przysyłając kartki pocztowe z głosami. W latach, gdy płyt zachodnich nie było w sklepach, a nagrania zdobywało się z radia na kasety, Lista była dla wielu młodych ludzi oknem na świat i przewodnikiem po muzyce.
 
 ## Polska scena
-Notowania pomogły wypromować wiele polskich zespołów lat 80., dając im ogólnopolską popularność. Pierwsze miejsce na Liście było ważnym wyróżnieniem.
+Notowania pomogły wypromować polskie zespoły lat 80. i dawały im ogólnopolską popularność niezależnie od telewizji. Pierwsze miejsce na Liście było ważnym wyróżnieniem – zdobywały je m.in. Maanam, Urszula z „Dmuchawcami” czy Klaus Mitffoch z „Jezu jak się cieszę”.
 
 ## Dziedzictwo
-Lista Przebojów Trójki przetrwała przemiany ustrojowe i przez dekady pozostawała jedną z najważniejszych audycji muzycznych w Polsce, symbolem Programu Trzeciego.`,
-    trivia: ['Notowanie prowadził przez lata Marek Niedźwiecki.', 'Słuchacze głosowali, wysyłając kartki pocztowe.'],
+Lista przetrwała przemiany ustrojowe i przez niemal cztery dekady pozostawała jedną z najważniejszych audycji muzycznych w Polsce. Ostatnie regularne notowanie – numer 1998 – wyemitowano 15 maja 2020 roku.`,
+    trivia: [
+      'W pierwszym notowaniu z 24 kwietnia 1982 roku zwyciężyło „I’ll Find My Way Home” Jon and Vangelis.',
+      'Słuchacze głosowali, wysyłając kartki pocztowe.',
+    ],
     resources: [
       {
         id: 'lpt-1',
@@ -20807,21 +20810,28 @@ To element PRL wyraźnie dwuznaczny: instytucje służyły ideologicznemu wychow
     summary: 'Uwielbiana piosenkarka lat 70., wykonawczyni „Tyle słońca w całym mieście” i „Nic nie może wiecznie trwać”; zginęła w katastrofie lotniczej na Okęciu w 1980 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Anna_Jantar2.png?width=800',
     imageCaption: 'Anna Jantar w latach 70.',
-    trivia: ['Zginęła w katastrofie samolotu Ił-62 na Okęciu w 1980 roku, wracając z koncertów w USA.'],
-    content: `## Sylwetka
-Anna Jantar (1950–1980) była jedną z najpopularniejszych i najbardziej lubianych piosenkarek polskiej estrady lat 70., obdarzoną ciepłym, charakterystycznym głosem.
+    trivia: [
+      'Pseudonim Jantar przyjęła w 1970 roku, bo jej nazwisko Szmeterling trudno było zapamiętać.',
+      'Przebój „Najtrudniejszy pierwszy krok” zajął w Opolu w 1973 roku dopiero szóste miejsce.',
+      'Zginęła 14 marca 1980 roku w katastrofie samolotu Ił-62 na Okęciu, wracając z koncertów w USA.',
+    ],
+    content: `## Początki
+Anna Jantar, właściwie Anna Maria Kukulska z domu Szmeterling (1950–1980), urodziła się w Poznaniu. Miała słuch absolutny, uczyła się gry na fortepianie w szkołach muzycznych. Jako czternastolatka śpiewała w bigbitowym zespole Szafiry, występowała w poznańskich teatrach studenckich. W 1969 roku nie dostała się do warszawskiej szkoły teatralnej.
+
+## Jantar
+W latach 1969–1971 śpiewała z zespołem Waganci. Ponieważ nazwisko Szmeterling trudno było zapamiętać, od 1970 roku występowała jako Jantar. W 1972 roku zdała egzamin przed komisją weryfikacyjną Ministerstwa Kultury i Sztuki i uzyskała uprawnienia zawodowej piosenkarki.
 
 ## Przeboje
-Jej największe przeboje to „Tyle słońca w całym mieście”, „Najtrudniejszy pierwszy krok” i „Nic nie może wiecznie trwać” (nagrane z Budką Suflera). Piosenki te śpiewała cała Polska.
+„Najtrudniejszy pierwszy krok” zajął na festiwalu w Opolu w 1973 roku dopiero szóste miejsce, ale stał się radiowym przebojem. Rok później „Tyle słońca w całym mieście” zdobyło w Opolu nagrodę publiczności, a debiutancki album o tym tytule – złotą płytę. W 1975 roku w Sopocie, ze „Staruszkiem światem”, zajęła drugie miejsce za interpretację. Pod koniec 1979 roku nagrała z Budką Suflera „Nic nie może wiecznie trwać”, uznane za najpopularniejszą piosenkę roku w plebiscycie Studia Gama. W sumie zaśpiewała około 160 piosenek.
 
-## Kariera
-Występowała na festiwalach w Opolu i Sopocie, koncertowała dla Polonii w USA i Europie. Prywatnie była żoną kompozytora Jarosława Kukulskiego i matką przyszłej piosenkarki Natalii Kukulskiej.
+## Rodzina i trasy
+Była żoną kompozytora Jarosława Kukulskiego, autora wielu jej przebojów, i matką Natalii Kukulskiej. Koncertowała w kilkunastu krajach, m.in. w RFN, ZSRR, Szwecji i Kanadzie, oraz dla Polonii w USA.
 
 ## Katastrofa na Okęciu
-14 marca 1980 roku zginęła w katastrofie samolotu Ił-62 „Mikołaj Kopernik” podczas podejścia do lądowania na Okęciu, wracając z koncertów w USA. Zginęło 87 osób.
+14 marca 1980 roku, wracając z koncertów w USA, zginęła w katastrofie samolotu PLL LOT Ił-62 „Mikołaj Kopernik”, który rozbił się podczas podejścia do lądowania na Okęciu. Zginęło 87 osób, wśród nich także członkowie reprezentacji USA w boksie.
 
 ## Pamięć
-Jej śmierć wstrząsnęła Polską, a pogrzeb zgromadził tłumy. Proroczy tytuł ostatniego wielkiego przeboju uczynił ją legendą; jej piosenki są wykonywane do dziś.`,
+Jej śmierć wstrząsnęła Polską. Tytuł ostatniego wielkiego przeboju – „Nic nie może wiecznie trwać” – nabrał po katastrofie gorzkiego znaczenia i przyczynił się do legendy piosenkarki, której utwory śpiewa się do dziś.`,
     resources: [
       {
         id: 'aj-yt',
@@ -22707,19 +22717,22 @@ Mecz jest w Polsce przywoływany jako jedno z najważniejszych wydarzeń sportow
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kupony_Lotto.jpg?width=800',
     imageCaption: 'Kupony Lotto',
     content: `## Gra
-Toto-Lotek, prowadzony przez Totalizator Sportowy, był najstarszą i najpopularniejszą polską grą liczbową. Pierwsze losowanie odbyło się 27 stycznia 1957 roku, a zasada – sześć liczb z czterdziestu dziewięciu – pozostała niezmieniona do dziś.
+Gra liczbowa Totalizatora Sportowego to najstarsza i najpopularniejsza polska loteria. Pierwsze losowanie odbyło się 27 stycznia 1957 roku. Zasada – wytypowanie sześciu liczb z czterdziestu dziewięciu – przetrwała do dziś. Do 1975 roku gra nazywała się Toto-Lotek, od września 1975 roku Duży Lotek, a potoczna nazwa „Toto-Lotek” została w użyciu na dziesięciolecia.
+
+## Liczby i dyscypliny
+W latach 1958–1988 każdej liczbie przypisana była dyscyplina sportowa: jedynka to bobsleje, dwudziestka dwójka – piłka nożna, czterdziestka dziewiątka – żużel. Totalizator był „sportowy” nie tylko z nazwy – część wpływów przeznaczano na sport.
 
 ## Legalny hazard
-W państwie, które zakazywało prywatnej przedsiębiorczości i większości form gry, totalizator był wyjątkiem: hazardem prowadzonym przez samo państwo, z przeznaczeniem części wpływów na sport.
+W państwie, które nie tolerowało prywatnej przedsiębiorczości i ograniczało inne formy gry, totalizator był wyjątkiem: hazardem prowadzonym przez samo państwo.
 
 ## Kupon i rytuał
-Kupony wypełniało się długopisem w kolekturze, a wyniki losowania podawano w telewizji i radiu. Skreślanie liczb, sprawdzanie kuponu i dyskusje o systemach były cotygodniowym rytuałem w milionach domów.
+Losowania odbywały się raz w tygodniu, w niedzielę; w czerwcu 1984 roku przeniesiono je na sobotę. Kupony wypełniało się ręcznie w kolekturze, a wyniki podawały telewizja, radio i gazety. Skreślanie liczb, sprawdzanie kuponu i rozmowy o „systemach” – zakładach na siedem i więcej liczb – należały do cotygodniowego rytuału w milionach domów. Lottomaty i typowanie „na chybił trafił” pojawiły się dopiero w latach 90.
 
 ## Marzenie
-Wygrana oznaczała sumę nieosiągalną z pracy – samochód, mieszkanie, a czasem wszystko naraz. W gospodarce, w której awans materialny zależał od przydziału, a nie od zarobków, los na loterii bywał jedyną wyobrażalną drogą do zmiany.`,
+Wygrana oznaczała sumę nieosiągalną z pracy – samochód, mieszkanie, a czasem wszystko naraz. W gospodarce, w której wiele dóbr zależało od przydziału i kolejki, a nie tylko od zarobków, „szóstka” była jedną z niewielu wyobrażalnych dróg do nagłej zmiany losu.`,
     trivia: [
-      'Pierwsze losowanie odbyło się 27 stycznia 1957 roku, a zasada gry nie zmieniła się do dziś.',
-      'Totalizator był hazardem prowadzonym przez państwo, które równocześnie zakazywało innych form gry.',
+      'W latach 1958–1988 każdej z 49 liczb przypisana była dyscyplina sportu – od bobslejów po żużel.',
+      'Do 1984 roku losowania odbywały się w niedziele, potem przeniesiono je na soboty.',
     ],
     resources: [
       {
@@ -23497,20 +23510,23 @@ Do kolei należały też dworcowe bary, poczekalnie i kioski, a węzły kolejowe
     summary: 'Skrzydłowy złotej reprezentacji, jedyny Polak będący królem strzelców mistrzostw świata (7 goli, RFN 1974).',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Grzegorz_Lato_%2828478756371%29_%28cropped%29.jpg?width=800',
     imageCaption: 'Grzegorz Lato, król strzelców mistrzostw świata 1974 (fot. współczesna)',
-    content: `## Piłkarz
-Grzegorz Lato (ur. 1950) grał w reprezentacji Polski w latach 1971–1984 i wystąpił w niej sto razy. Był skrzydłowym o wyjątkowej szybkości, wykorzystywanym do ataków z prawej strony boiska.
+    content: `## Stal Mielec
+Grzegorz Lato urodził się w 1950 roku w Malborku; w dzieciństwie stracił ojca, a w młodości matkę. Całą polską karierę związał ze Stalą Mielec, w której juniorach zaczynał w 1962 roku. W I lidze zadebiutował 9 sierpnia 1970 roku dwiema bramkami przeciw Wiśle Kraków. Ze Stalą dwukrotnie zdobył mistrzostwo Polski (1973, 1976), dwa razy był królem strzelców ligi i strzelił dla klubu ponad sto goli.
 
 ## Król strzelców
-Na mistrzostwach świata w RFN w 1974 roku zdobył siedem bramek i został królem strzelców turnieju, a Polska zajęła trzecie miejsce. Był to najlepszy wynik w historii polskiej piłki i moment, który zdefiniował całe pokolenie kibiców.
+W reprezentacji grał w latach 1971–1984 i wystąpił w stu oficjalnych meczach. Był prawoskrzydłowym o wyjątkowej szybkości. Na mistrzostwach świata w RFN w 1974 roku zdobył siedem bramek i został królem strzelców turnieju, a Polska zajęła trzecie miejsce. W tym samym roku zajął szóste miejsce w plebiscycie „France Football” na najlepszego piłkarza Europy.
 
-## Trzy mundiale
-Grał także w Argentynie w 1978 roku i w Hiszpanii w 1982, gdzie Polska ponownie zajęła trzecie miejsce. Do tego doszedł złoty medal olimpijski z Monachium w 1972 roku – dorobek, jakiego nie ma żaden inny polski piłkarz.
+## Trzy mundiale, dwa medale olimpijskie
+Grał także w Argentynie w 1978 roku i w Hiszpanii w 1982, gdzie Polska ponownie była trzecia. Dziesięć bramek na mistrzostwach świata to rekord w historii występów reprezentacji Polski. Z igrzysk przywiózł złoto z Monachium (1972) i srebro z Montrealu (1976). PZPN wybrał go do jedenastki stulecia.
 
 ## Wyjazd
-Zgodę na transfer zagraniczny dostał dopiero po trzydziestce, zgodnie z ówczesnymi przepisami, które wypuszczały piłkarzy dopiero u schyłku kariery. Grał potem w Belgii i Meksyku, a po 1989 roku był działaczem i politykiem.`,
+Zgodę na grę za granicą dostał dopiero w 1980 roku, po trzydziestce – ówczesna praktyka pozwalała wyjeżdżać zasłużonym piłkarzom dopiero u schyłku kariery. Grał w belgijskim Lokeren, a od 1982 roku w meksykańskim Atlante, z którym w 1983 roku zdobył Puchar Mistrzów CONCACAF.
+
+## Po karierze
+Po 1989 roku był trenerem, działaczem i politykiem: senatorem w latach 2001–2005 i prezesem Polskiego Związku Piłki Nożnej w latach 2008–2012.`,
     trivia: [
-      'Na mundialu 1974 zdobył siedem bramek i został królem strzelców turnieju.',
-      'Zgodę na wyjazd do zagranicznego klubu dostał dopiero po trzydziestce – tak stanowiły ówczesne przepisy.',
+      'Dziesięć bramek na mistrzostwach świata to rekord w historii występów reprezentacji Polski.',
+      'Do zagranicznego klubu, belgijskiego Lokeren, mógł wyjechać dopiero w 1980 roku, po trzydziestce.',
     ],
     resources: [
       {
@@ -25069,19 +25085,22 @@ Zespół działał z przerwami także po 1989 roku. Jego nagrania z pierwszej po
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mebloscianka.jpg?width=800',
     imageCaption: 'Meblościanka – zestaw mebli typowy dla lat 70. i 80.',
     content: `## Mebel epoki
-Meblościanka – zestaw szafek, półek i witryn ustawiony wzdłuż jednej ściany – była w PRL standardowym wyposażeniem pokoju dziennego. Odpowiadała na realny problem: w mieszkaniu o kilkunastu metrach na pokój meble musiały zajmować jak najmniej podłogi.
+Meblościanka to kilka segmentów meblowych ustawionych wzdłuż jednej ściany, ze względów oszczędnościowych połączonych wspólnymi bokami. Po zmontowaniu tworzyła „ścianę” – stąd nazwa. W PRL, zwłaszcza w latach 70. i 80., była standardowym wyposażeniem pokoju dziennego.
+
+## Amerykański rodowód
+Pierwowzór zaprojektowali w latach 1949–1950 amerykańscy projektanci Ray i Charles Eamesowie: modernistyczną serię mebli do samodzielnego składania ze stalowej ramy i płyt. W USA nie znalazła dostatecznego zbytu i szybko zniknęła z produkcji. W Polsce zrobiła karierę.
+
+## Droga do bloków
+Pierwszy raz pokazano meblościankę w Polsce w 1959 roku na wystawie Spółdzielni Artystów „Ład” na warszawskim Osiedlu Młodych, a potem na Targach Wzornictwa Przemysłowego. Do masowej produkcji weszła w 1963 roku. Szczególne uznanie zdobył model zaprojektowany przez Bogusławę i Czesława Kowalskich.
 
 ## Funkcja
-W jednym zestawie mieściły się ubrania, naczynia, książki, dokumenty, telewizor i barek. Pokój dzienny bywał zarazem sypialnią, więc meblościanka musiała obsłużyć wszystkie funkcje mieszkania naraz.
+Na Zachodzie meblościanka była elementem designu; w Polsce – odpowiedzią na mały metraż. Klasyczny układ miał trzy poziomy: szuflady na dole, półki pośrodku i szafki u góry, z telewizorem w centralnym miejscu. W jednym zestawie mieściły się ubrania, naczynia, książki, dokumenty, kryształy i barek, bo pokój dzienny bywał zarazem sypialnią. Zdarzały się wersje z biurkiem lub toaletką, a w większych pokojach meblościanka dzieliła przestrzeń na dwie części.
 
 ## Zdobycie
-Meble kupowało się nie wtedy, gdy były potrzebne, lecz wtedy, gdy się pojawiły. Wymagało to kolejki, znajomości albo talonu, a wybór ograniczał się do kilku wzorów produkowanych seryjnie – stąd wrażenie, że wszyscy mieli takie same mieszkania.
-
-## Symbol
-Dziś meblościanka jest skrótem opisującym całą estetykę epoki: praktyczną, powtarzalną i wymuszoną przez ciasnotę. Wraca zresztą jako obiekt sentymentu i przedmiot kolekcjonerski.`,
+Meble kupowało się często nie wtedy, gdy były potrzebne, lecz wtedy, gdy się pojawiły – po kolejce, zapisach albo przez znajomości. Wybór ograniczał się do kilku seryjnych wzorów, stąd wrażenie, że wszyscy mieli takie same mieszkania. Dziś meblościanka jest skrótem opisującym całą estetykę epoki i wraca jako obiekt sentymentu.`,
     trivia: [
-      'W jednym zestawie mieściły się ubrania, naczynia, książki, telewizor i barek – bo pokój dzienny bywał też sypialnią.',
-      'Meble kupowało się nie wtedy, gdy były potrzebne, lecz wtedy, gdy w ogóle się pojawiły.',
+      'Pierwowzór meblościanki zaprojektowali w latach 1949–1950 Amerykanie Ray i Charles Eamesowie.',
+      'Do masowej produkcji w Polsce meblościanka weszła w 1963 roku.',
     ],
     resources: [
       {
@@ -26267,23 +26286,26 @@ Film dostał nagrodę krytyki na festiwalu w Wenecji i jako pierwszy polski obra
     tags: ['muzyka', 'big-beat', 'pop', 'kompozytor'],
     yearStart: 1965,
     yearEnd: 1989,
-    summary: 'Kompozytor, wokalista i gitarzysta, filar Czerwonych Gitar; autor melodii do przebojów „Anna Maria” i „Nie spoczniemy”.',
+    summary: 'Kompozytor, wokalista i multiinstrumentalista Czerwonych Gitar, a po odejściu Klenczona ich lider; autor „Anny Marii”, „Dnia jednego w roku” i „Nie spoczniemy”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Seweryn%20Krajewski.jpg?width=800',
     imageCaption: 'Seweryn Krajewski – kompozytor i wokalista Czerwonych Gitar.',
-    content: `## Kompozytor
-Seweryn Krajewski (ur. 1947) jest kompozytorem, wokalistą i multiinstrumentalistą, przez lata liderem Czerwonych Gitar. Jego melodie przez kilka dekad wyznaczały kanon polskiej piosenki.
-
-## Przeboje
-Skomponował m.in. „Annę Marię”, „Nie spoczniemy”, „Remedium” i „Ludzkie gadanie”. Wiele z nich powstało do słów Agnieszki Osieckiej – duet kompozytora i poetki należy do najtrwalszych w polskiej muzyce rozrywkowej.
+    content: `## Początki
+Seweryn Krajewski urodził się w 1947 roku w Nowej Soli, a dorastał w Sopocie. Ukończył klasę skrzypiec w gdańskiej szkole muzycznej. Jako nastolatek grał w zespołach Błękitni i Złote Struny, współpracował z Pięcioliniami i Czerwono-Czarnymi. W grudniu 1965 roku dołączył do Czerwonych Gitar.
 
 ## Czerwone Gitary
-Zespół reklamowano hasłem, że sprzedaje więcej płyt niż ktokolwiek inny w kraju, a porównania do Beatlesów były w prasie stałym motywem. Przy ówczesnej skali produkcji Polskich Nagrań nakłady rzeczywiście były rekordowe.
+W zespole śpiewał razem z Jerzym Kosselą i Krzysztofem Klenczonem, a piosenki pisali głównie sami członkowie grupy. Duet kompozytorski Krajewski–Klenczon zdefiniował brzmienie zespołu w latach 60.; po odejściu Klenczona w 1970 roku Krajewski stał się głównym autorem i liderem Czerwonych Gitar. W 1967 roku za „Co za dziewczyna” i „Stracić kogoś” dostał w Opolu nagrodę za debiut kompozytorski.
+
+## Przeboje
+Skomponował m.in. „Nie zadzieraj nosa”, „Dzień jeden w roku”, „Takie ładne oczy”, „Annę Marię”, „Gondolierów znad Wisły”, „Tak bardzo się starałem”, „Płoną góry, płoną lasy”, „Ciągle pada”, „Remedium”, „Ludzkie gadanie”, „Nie spoczniemy” i „Niech żyje bal”. Pisał także dla innych wykonawców: Ireny Jarockiej, Urszuli Sipińskiej, Maryli Rodowicz i Krzysztofa Krawczyka.
+
+## Film i telewizja
+Jest autorem muzyki filmowej, m.in. do „Och, Karol”, „Kogla-mogla” i jego kontynuacji oraz do serialu „Jan Serce”. Już w 1969 roku skomponował muzykę do bigbitowego musicalu „Gwałtu, co się dzieje!” według Fredry.
 
 ## Warsztat
-Krajewski budował piosenki na wyrazistej melodii i prostym, zapadającym w pamięć refrenie. W czasach, gdy o popularności decydowało radio i festiwale, taka konstrukcja była jedyną skuteczną – utwór musiał zadziałać przy pierwszym przesłuchaniu.`,
+Budował piosenki na wyrazistej melodii i prostym, zapadającym w pamięć refrenie. W czasach, gdy o popularności decydowały radio i festiwale, utwór musiał zadziałać przy pierwszym przesłuchaniu – a jego melodie przez kilka dekad należały do kanonu polskiej piosenki. Z Czerwonymi Gitarami rozstał się w 1997 roku.`,
     trivia: [
-      'Wiele jego najbardziej znanych piosenek powstało do słów Agnieszki Osieckiej.',
-      'Czerwone Gitary reklamowano jako zespół sprzedający najwięcej płyt w kraju.',
+      'Zanim został gitarzystą i kompozytorem, ukończył klasę skrzypiec w gdańskiej szkole muzycznej.',
+      'Skomponował muzykę do „Kogla-mogla” i serialu „Jan Serce”.',
     ],
     resources: [
       {
@@ -32574,19 +32596,25 @@ Zmarł pod Paryżem w 1967 roku. W PRL jego dorobek był nieobecny w oficjalnym 
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Edward_Bernard_Raczy%C5%84ski.jpg?width=800',
     imageCaption: 'Edward Raczyński, dyplomata i prezydent RP na uchodźstwie, na zdjęciu z lat 20.',
     content: `## Dyplomata
-Edward Raczyński (1891–1993) był przed wojną ambasadorem RP w Londynie, a w czasie wojny ministrem spraw zagranicznych rządu na uchodźstwie. To on w 1941 roku przekazywał aliantom informacje o sytuacji w okupowanej Polsce, a później o zagładzie Żydów.
+Edward Raczyński (1891–1993) urodził się w Zakopanem w wielkopolskim rodzie hrabiowskim. Studiował prawo w Lipsku, w London School of Economics i na Uniwersytecie Jagiellońskim. Do służby dyplomatycznej wstąpił w 1919 roku; od 1934 roku był ambasadorem RP w Londynie i w imieniu Polski podpisał w 1939 roku polsko-brytyjski układ sojuszniczy.
+
+## Nota o Zagładzie
+W latach 1941–1943 był ministrem spraw zagranicznych rządu na uchodźstwie. Na podstawie dokumentów przywiezionych przez kuriera Jana Karskiego przygotował i 10 grudnia 1942 roku przekazał rządom państw sojuszniczych notę o zagładzie Żydów – pierwszy na świecie oficjalny raport rządowy o Holokauście. Redagował też oświadczenie rządu po odkryciu grobów w Katyniu w 1943 roku.
+
+## Po wojnie
+Ambasadorem był do 5 lipca 1945 roku, gdy Wielka Brytania cofnęła uznanie rządowi RP na uchodźstwie. Pozostał w Londynie i działał w życiu politycznym emigracji, m.in. jako członek Rady Trzech, która w latach rozłamu pełniła funkcję kolegialnej głowy państwa.
 
 ## Prezydent
-W latach 1979–1986 pełnił urząd prezydenta RP na uchodźstwie – jako czwarty z kolei. Objął go w wieku osiemdziesięciu siedmiu lat, a złożył w wieku dziewięćdziesięciu czterech; był najstarszym prezydentem w historii Polski.
+W latach 1979–1986 był czwartym prezydentem RP na uchodźstwie. Objął urząd w wieku 87 lat, złożył go w wieku 94 lat – był najstarszym prezydentem w dziejach Polski.
 
 ## Sens instytucji
-Urząd prezydenta na uchodźstwie nie dawał realnej władzy, ale utrzymywał ciągłość prawną Rzeczypospolitej sprzed 1939 roku. Dla władz PRL emigracyjna prezydentura była fikcją, dla emigracji – dowodem, że państwo nie zostało zlikwidowane, tylko okupowane.
+Urząd prezydenta na uchodźstwie nie dawał realnej władzy, ale utrzymywał ciągłość prawną Rzeczypospolitej sprzed 1939 roku. Dla władz PRL emigracyjna prezydentura była fikcją, dla emigracji – dowodem, że państwo nie zostało zlikwidowane.
 
 ## Koniec drogi
-Dożył upadku systemu i przekazania insygniów prezydenckich do kraju w grudniu 1990 roku. Zmarł w Londynie w 1993 roku, mając 101 lat.`,
+Dożył upadku systemu i przekazania insygniów prezydenckich wybranemu w wolnych wyborach prezydentowi w grudniu 1990 roku. Zmarł w Londynie 30 lipca 1993 roku, w wieku 101 lat – jako najdłużej żyjący prezydent Polski.`,
     trivia: [
-      'Był najstarszym prezydentem w dziejach Polski – urząd objął w wieku 87 lat, a złożył w wieku 94.',
-      'Zmarł w wieku 101 lat, dożywszy końca PRL i przekazania insygniów prezydenckich do kraju.',
+      'Jego nota z 10 grudnia 1942 roku była pierwszym oficjalnym raportem rządowym o Holokauście.',
+      'Był najstarszym i najdłużej żyjącym prezydentem Polski – zmarł w wieku 101 lat.',
     ],
     resources: [
       {
@@ -33556,19 +33584,25 @@ Dla dzisiejszego czytelnika roczniki „Expressu” są zapisem codzienności: c
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz_K%C4%85kol_w_latach_60.jpg?width=800',
     imageCaption: 'Kazimierz Kąkol, redaktor naczelny „Prawa i Życia”',
     content: `## Rok powstania
-„Prawo i Życie” zaczęło wychodzić w 1956 roku – w momencie, gdy odwilż otwierała pole do rozmowy o praworządności po okresie procesów politycznych i wymuszanych zeznań. Do 1973 roku był to dwutygodnik, później tygodnik.
+„Prawo i Życie” zaczęło wychodzić w Warszawie 6 maja 1956 roku, w momencie, gdy odwilż otwierała rozmowę o praworządności po okresie procesów politycznych i wymuszanych zeznań. Jednym z inicjatorów był prawnik Leszek Kubicki. Do 1973 roku pismo było dwutygodnikiem, później tygodnikiem; redakcja mieściła się w Pałacu Brzozowskich przy Brackiej.
 
-## Zakres
-Pismo, wydawane przez Zrzeszenie Prawników Polskich, zajmowało się orzecznictwem, praktyką sądową i sprawami obyczajowymi widzianymi od strony prawa. Publikowało reportaże sądowe, które bywały jedynym sposobem opisania konkretnych ludzkich spraw.
+## Organ prawników
+Do 1991 roku było organem Zrzeszenia Prawników Polskich, skupiającego większość prawników w kraju. Wśród oficjalnych zadań wymieniano „zabezpieczenie socjalistycznej praworządności” – hasło, które w 1956 roku stało się kluczem do rozważań o sprawiedliwości w czasie odwilży.
+
+## Najlepsza karta
+Najważniejsze znaczenie pismo miało właśnie w 1956 roku. Później, w kolejnych okresach przełomów, działało zgodnie z linią partii i rządu, choć zachowało wpływ na debatę prawniczą – odegrało na przykład ważną rolę w dyskusjach nad projektem kodeksu rodzinnego i opiekuńczego. Publikowało też reportaże sądowe, pozwalające opisać konkretne ludzkie sprawy.
+
+## Redaktorzy
+Pierwszym redaktorem naczelnym był Andrzej Bachrach, a w latach 1957–1974 pismem kierował Kazimierz Kąkol, późniejszy kierownik Urzędu do Spraw Wyznań. Współzałożycielem i członkiem redakcji był specjalista prawa międzynarodowego Marian Muszkat.
 
 ## Granice
-Dyskusja o prawie miała w PRL wyraźny sufit: można było pisać o wadliwym stosowaniu przepisów, nie można było kwestionować podporządkowania sądów i prokuratury interesom politycznym. Niezawisłość sędziowska pozostawała zapisem, nie praktyką.
+Dyskusja o prawie miała w PRL wyraźny sufit: można było pisać o wadliwym stosowaniu przepisów, nie można było kwestionować podporządkowania sądów i prokuratury polityce. Niezawisłość sędziowska pozostawała zapisem, nie praktyką.
 
 ## Po 1989
-Tytuł przetrwał zmianę ustroju i ukazywał się do 2000 roku, tracąc stopniowo swoją wcześniejszą rolę – wraz z pojawieniem się wolnej prasy prawniczej i publicystyki.`,
+Tytuł przetrwał zmianę ustroju i ukazywał się do 2000 roku, tracąc stopniowo dawną rolę wraz z pojawieniem się wolnej prasy.`,
     trivia: [
-      'Powstało w 1956 roku, gdy odwilż otwarła rozmowę o praworządności po okresie procesów politycznych.',
-      'O wadliwym stosowaniu przepisów pisać było wolno; o podporządkowaniu sądów polityce – nie.',
+      'Pierwszy numer ukazał się 6 maja 1956 roku, pół roku przed Październikiem.',
+      'W latach 1957–1974 pismem kierował Kazimierz Kąkol, późniejszy szef Urzędu do Spraw Wyznań.',
     ],
     resources: [
       {
@@ -33825,7 +33859,10 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1962, event: 'Premiera „Noża w wodzie” – debiut Polańskiego, nominacja do Oscara', category: 'kultura', entryId: 'noz-w-wodzie' },
   { year: 1972, event: 'Debiut kreskówki „Przygody kota Filemona”', category: 'kultura', entryId: 'filemon-kot' },
   { year: 1975, event: 'Debiut dobranocki „Miś Uszatek”', category: 'kultura', entryId: 'mis-uszatek' },
-  { year: 1970, event: 'Seweryn Krajewski – przeboje Czerwonych Gitar („Anna Maria”)', category: 'kultura', entryId: 'seweryn-krajewski' },
+  { year: 1965, event: 'Seweryn Krajewski dołącza do Czerwonych Gitar', category: 'kultura', entryId: 'seweryn-krajewski' },
+  { year: 1979, event: 'Edward Raczyński zostaje prezydentem RP na uchodźstwie – w wieku 87 lat', category: 'osoby', entryId: 'raczynski' },
+  { year: 1956, event: '6 maja – ukazuje się pierwszy numer „Prawa i Życia”', category: 'kultura', entryId: 'prawo-i-zycie' },
+  { year: 1963, event: 'Meblościanka wchodzi do masowej produkcji', category: 'społeczeństwo', entryId: 'mebloscianka' },
   { year: 1973, event: 'Premiera „Wesela” Andrzeja Wajdy wg Wyspiańskiego', category: 'kultura', entryId: 'wesele-film' },
   { year: 1980, event: 'Andrzej Rosiewicz wygrywa „Premiery” w Opolu z „Najwięcej witaminy”', category: 'kultura', entryId: 'andrzej-rosiewicz' },
   { year: 1973, event: 'Premiera „Sanatorium pod klepsydrą” Wojciecha Hasa – nagroda w Cannes', category: 'kultura', entryId: 'sanatorium-pod-klepsydra' },
