@@ -12931,20 +12931,24 @@ Zespół gra nieprzerwanie od czterdziestu lat i pozostaje jednym z najpopularni
     yearEnd: 1989,
     summary: 'Polska scena punkowa lat 80., z zespołami Dezerter, Brygada Kryzys i Siekiera, będąca najostrzejszą formą muzycznego buntu przeciw systemowi.',
     content: `## Narodziny
-Punk dotarł do Polski na przełomie lat 70. i 80. Surowa, agresywna muzyka i bezkompromisowe teksty idealnie wyrażały frustrację młodzieży żyjącej w szarej rzeczywistości schyłkowego PRL.
+Punk dotarł do Polski na przełomie lat 70. i 80. Pierwszym zespołem punkowym na festiwalu w Jarocinie byli w 1980 roku Nocne Szczury, traktowane wtedy jak sensacja. Surowa muzyka i bezkompromisowe teksty wyrażały frustrację młodzieży żyjącej w szarej rzeczywistości schyłkowego PRL.
 
 ## Zespoły
-Najważniejsze zespoły to Dezerter (początkowo SS-20), Brygada Kryzys, Siekiera, Moskwa, Abaddon czy KSU. Grały szybko, głośno i wprost, atakując hipokryzję systemu, militaryzm i konformizm.
+Dezerter powstał w maju 1981 roku w Warszawie pod nazwą SS-20 – od radzieckiej rakiety zdolnej przenosić głowice jądrowe. W Jarocinie w 1982 roku grał jeszcze pod starą nazwą. Siekierę założyli w 1983 roku w Puławach Tomasz Adamski i Tomasz Budzyński. Obok nich grały m.in. Brygada Kryzys, Moskwa, Abaddon i KSU.
 
-## Teksty
-Teksty punkowe były bezpośrednie i prowokacyjne – „Rebeli” Dezertera, „Nie ma”, antywojenne i antysystemowe manifesty pokolenia, które nie wierzyło ani w komunizm, ani w obietnice dorosłych.
+## Cenzura
+Teksty atakowały milicję, militaryzm i konformizm. Wydany przez Tonpress w 1983 roku singiel Dezertera „Ku przyszłości”, z piosenką „Spytaj milicjanta”, padł ofiarą cenzury – część nakładu zniszczono. Wiele nagrań krążyło więc na kasetach wydawanych własnym sumptem.
 
-## Represje i inwigilacja
-Punkowcy, ze względu na wygląd i postawę, byli szczególnie narażeni na szykany milicji i obserwację SB. Koncerty bywały przerywane, a uczestnicy spisywani.
+## Jarocin
+Najważniejszą sceną był festiwal w Jarocinie, gdzie punkowcy mogli zagrać przed tysiącami ludzi. Jedni widzieli w nim oazę wolności, inni – wentyl bezpieczeństwa celowo zostawiony przez władze. Część zespołów, m.in. Dezerter po sporze z organizatorami, grała też na alternatywnym warszawskim festiwalu Róbrege.
 
-## Dziedzictwo
-Scena punkowa, najsilniej obecna w Jarocinie, pozostaje symbolem najbardziej radykalnego nurtu kontrkultury PRL i wpłynęła na kolejne pokolenia muzyków.`,
-    trivia: ['Punk dotarł do Polski pod koniec lat 70.', 'Jarocin stał się jego największym corocznym świętem.'],
+## Szykany
+Punkowcy, ze względu na wygląd i postawę, byli szczególnie narażeni na zatrzymania i spisywanie przez milicję. Scena punkowa pozostała symbolem najbardziej radykalnego nurtu kontrkultury PRL i wpłynęła na kolejne pokolenia muzyków.`,
+    trivia: [
+      'Dezerter zaczynał jako SS-20 – nazwa pochodziła od radzieckiej rakiety z głowicami jądrowymi.',
+      'Część nakładu singla Dezertera „Ku przyszłości” zniszczono po ingerencji cenzury.',
+      'Pierwszym zespołem punkowym w Jarocinie byli w 1980 roku Nocne Szczury.',
+    ],
     resources: [
       {
         id: 'punk-yt',
@@ -15264,21 +15268,25 @@ Obraz przytwierdzonych do stołów talerzy i łyżek na łańcuchach utrwalił S
     summary: 'Związek Harcerstwa Polskiego – masowa organizacja młodzieżowa, poddana ideologizacji, lecz zachowująca tradycyjne wartości w wielu drużynach.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Prawo_harcerskie_Warszawa_sw_Marcin.jpg?width=800',
     imageCaption: 'Tablica z Prawem Harcerskim przy kościele św. Marcina w Warszawie',
-    content: `## Powojenne losy
-Po wojnie tradycyjne harcerstwo zostało zlikwidowane i wcielone do komunistycznej Organizacji Harcerskiej, podporządkowanej ZMP. Odrzucono krzyż harcerski i przyrzeczenie.
+    content: `## Likwidacja tradycji
+Po wojnie tradycyjne harcerstwo zostało podporządkowane nowej władzy, a w 1950 roku włączone do Związku Młodzieży Polskiej jako Organizacja Harcerska. Zrezygnowano z krzyża harcerskiego, lilijki i dawnych obrzędów, a wielu instruktorów z Szarych Szeregów odsunięto lub represjonowano.
 
 ## Odrodzenie 1956
-W okresie odwilży 1956 roku reaktywowano Związek Harcerstwa Polskiego, częściowo przywracając tradycyjne metody, mundury i symbolikę, choć pod kontrolą partii.
+W czasie odwilży 4 grudnia 1956 roku instruktorzy w Krakowie reaktywowali Związek Harcerstwa Polskiego. W dniach 8–10 grudnia 1956 roku w Łodzi odbył się Krajowy Zjazd Działaczy Harcerskich – harcerski „okrągły stół” z udziałem m.in. Aleksandra Kamińskiego. Przywrócono nazwę ZHP, mundury, krzyż i lilijkę, a pierwszą naczelniczką została Zofia Zakrzewska.
 
-## Ideologizacja
-Władze wykorzystywały ZHP do wychowania w duchu socjalistycznym – organizowano akcje, czyny społeczne i obozy o charakterze ideologicznym. Mimo to wiele drużyn kultywowało autentyczne wartości harcerskie.
+## Kompromis
+Ceną była deklaracja ideowa, zgodnie z którą ZHP „pracuje pod ideowym przewodnictwem” PZPR i wychowuje „w duchu idei socjalizmu”. W latach 1958–1959 wielu instruktorów z Szarych Szeregów odeszło, a Kamiński zrezygnował z przewodniczenia Naczelnej Radzie Harcerskiej, wzywając: „Idźcie pracować do drużyn”. Od tej pory w ZHP współistniał aparat partyjny i drużyny prowadzone przez instruktorów wiernych dawnym ideałom.
 
-## Nurt niezależny
-W latach 70. i 80. powstał nurt opozycyjny – Kręgi Instruktorów Harcerskich im. Andrzeja Małkowskiego (KIHAM), nawiązujący do przedwojennych tradycji i niezależności.
+## Akcje i zloty
+ZHP organizował wielkie przedsięwzięcia, jak Zlot Grunwaldzki w 1960 roku czy Operacja 1001-Frombork (1967–1973), związana z odbudową miasta na 500. rocznicę urodzin Kopernika. Dla wielu dzieci harcerstwo oznaczało przede wszystkim obozy pod namiotami i przyjaźnie na lata.
 
-## Znaczenie
-Harcerstwo w PRL to historia napięcia między wychowaniem do wartości a próbami indoktrynacji – dla wielu pokoleń pozostało jednak szkołą charakteru i przyjaźni.`,
-    trivia: ['Harcerstwo łączyło tradycję skautową z oficjalną ideologią.', 'Obozy pod namiotami były wakacyjnym marzeniem pokoleń.'],
+## Ruch odnowy
+Po Sierpniu 1980 roku powstały Kręgi Instruktorów Harcerskich im. Andrzeja Małkowskiego (KIHAM), a 22 listopada 1980 roku ich ogólnopolskie porozumienie. Ruch domagał się przywrócenia przedwojennej roty przyrzeczenia i uwolnienia wychowania od nacisku ideologicznego. We wrześniu 1981 roku zorganizował w Krakowie Zlot 70-lecia Harcerstwa Polskiego. Po wprowadzeniu stanu wojennego działalność kręgów ustała.`,
+    trivia: [
+      'Reaktywowany w 1956 roku ZHP w deklaracji ideowej przyjął „ideowe przewodnictwo” PZPR.',
+      'Aleksander Kamiński, odchodząc z władz ZHP, wezwał instruktorów: „Idźcie pracować do drużyn”.',
+      'Symbolem ruchu KIHAM była lilijka przewiązana węzłem płaskim – stąd nazwa Ruch Płaskiego Węzła.',
+    ],
     resources: [
       {
         id: 'zhp-1',
@@ -23662,19 +23670,23 @@ Przetrwał wszystkie zmiany mody: od big-beatu przez disco po współczesne tras
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Obwieszczenie_o_przeprowadzeniu_poboru_m%C4%99%C5%BCczyzn_rocznika_1927.jpg?width=800',
     imageCaption: 'Obwieszczenie o poborze mężczyzn rocznika 1927, 1948',
     content: `## Obowiązek
-Zasadnicza służba wojskowa była w PRL powszechnym obowiązkiem mężczyzn. Trwała dwa lata, a w marynarce dłużej. Powołanie przychodziło zwykle po szkole średniej albo po studiach, gdy służba była krótsza.
+Zasadnicza służba wojskowa była w PRL powszechnym obowiązkiem mężczyzn. Zdolnych do służby powoływano na dwa lata do wojsk lądowych, lotnictwa i Wojsk Obrony Powietrznej Kraju, a do marynarki wojennej – na trzy lata. Skrócono ją do półtora roku dopiero w 1990 roku.
 
 ## Codzienność
-Życie w jednostce oznaczało koszary, musztrę, prace porządkowe i szkolenie polityczne. Znaczną część czasu zajmowały zajęcia niezwiązane z wyszkoleniem: prace gospodarcze, budowlane, a nierzadko pomoc w żniwach.
+Życie w jednostce oznaczało koszary, musztrę, prace porządkowe i szkolenie polityczne. Poborowi często wykonywali też prace gospodarcze niezwiązane z wyszkoleniem, a wojsko pomagało przy żniwach i na budowach.
 
 ## Fala
-Nieformalna hierarchia starszych roczników nad młodszymi, zwana falą, była zjawiskiem powszechnym i tolerowanym przez kadrę. Przybierała formy od upokorzeń po przemoc fizyczną, a skargi rzadko przynosiły skutek.
+Nieformalna hierarchia starszych roczników nad młodszymi, zwana falą, była zjawiskiem powszechnym i w praktyce tolerowanym przez kadrę. Przybierała formy od upokarzających rytuałów po przemoc fizyczną, a skargi rzadko przynosiły skutek.
 
-## Wojsko a polityka
-Służba była też narzędziem oddziaływania: w jednostkach prowadzono szkolenie ideologiczne, a wobec studentów zaangażowanych w opozycję stosowano powołania jako formę represji. W stanie wojennym rezerwistów wcielano do jednostek, żeby odizolować ich od zakładów pracy.`,
+## Wojsko jako kara
+Pobór bywał narzędziem represji. Po Marcu 1968 roku relegowanych z uczelni studentów powoływano do wojska, a powołanie wisiało też nad każdym, kto przerwał studia, bo z utratą statusu studenta tracił odroczenie. W jednostkach prowadzono szkolenie ideologiczne i obserwowano nastroje żołnierzy.
+
+## Obrzęd przejścia
+Dla kilku pokoleń mężczyzn „woja” była wspólnym doświadczeniem – od wezwania z WKU, przez przysięgę, po odliczanie dni do cywila. Wiele z tego weszło do języka i kultury, choćby w filmach o wojsku.`,
     trivia: [
-      'Znaczną część służby zajmowały prace gospodarcze i budowlane, niezwiązane z wyszkoleniem wojskowym.',
-      'Powołanie do wojska bywało stosowane jako forma represji wobec studentów zaangażowanych w opozycję.',
+      'Służba w marynarce wojennej trwała trzy lata zamiast dwóch.',
+      'Zasadniczą służbę skrócono do półtora roku dopiero w 1990 roku.',
+      'Po Marcu 1968 roku relegowanych studentów powoływano do wojska.',
     ],
     resources: [
       {
@@ -26550,19 +26562,23 @@ Piosenka rozrywkowa wydawała się dziedziną neutralną, ale i ona przechodził
     yearStart: 1970,
     yearEnd: 1989,
     summary: 'Dyskoteki i dancingi były głównym miejscem młodzieżowej rozrywki lat 70. i 80.; królowały tam zachodnie przeboje zdobywane „spod lady”.',
-    content: `## Skąd się wzięły
-Dyskoteki pojawiły się w Polsce w latach 70., wraz z otwarciem na kulturę zachodnią w dekadzie Gierka. Organizowano je w domach kultury, klubach studenckich, świetlicach zakładowych i remizach – wszędzie tam, gdzie była sala i sprzęt.
+    content: `## Pierwsze dyskoteki
+Dyskoteki pojawiły się w Polsce na przełomie lat 60. i 70. Za pierwszą uchodzi sopocka „Musicorama”, w której w 1970 roku jako dyskdżokej debiutował Marcin Jacobson, późniejszy współorganizator festiwalu w Jarocinie. W dekadzie Gierka, przy większym otwarciu na kulturę zachodnią, dyskoteki rozeszły się po kraju: organizowano je w klubach studenckich, domach kultury, świetlicach zakładowych i remizach – wszędzie tam, gdzie była sala i sprzęt.
 
-## Didżej i sprzęt
-Prowadzący, wtedy nazywany dyskdżokejem, sam kompletował repertuar: z płyt sprowadzanych okazjonalnie z Zachodu, nagrań z Radia Luxembourg i wydawnictw krajowych. Sprzęt bywał składany samodzielnie, a kolorowe światła robiono z przerobionych reflektorów.
+## Dyskdżokej
+Prowadzący, wtedy nazywany dyskdżokejem, sam kompletował repertuar. Zachodnie płyty były trudno dostępne i drogie, więc liczył się każdy egzemplarz przywieziony z zagranicy, każde nagranie z radia i każda krajowa licencja. Dobry zestaw płyt był kapitałem, który decydował o powodzeniu imprezy.
 
-## Kontrola
-Impreza wymagała zgody, a repertuar bywał przedmiotem uwag. Kluby studenckie miały więcej swobody niż świetlice zakładowe, dlatego to one stały się miejscem, w którym muzyka zachodnia docierała do publiczności najszybciej.
+## Dancingi
+Starsza publiczność bawiła się na dancingach w restauracjach i kawiarniach, zwykle przy muzyce granej na żywo przez zespół. Dancing był wyjściem „na miasto” z konsumpcją i strojem wieczorowym, dyskoteka – zabawą młodzieżową, tańszą i swobodniejszą.
+
+## Kontrola i swoboda
+Imprezy odbywały się w lokalach należących do instytucji – uczelni, zakładów, organizacji młodzieżowych – i pod ich nadzorem. Kluby studenckie miały więcej swobody niż świetlice zakładowe, dlatego to tam nowa muzyka z Zachodu docierała do publiczności najszybciej.
 
 ## Znaczenie
-Dla młodzieży dyskoteka była jedną z niewielu form spędzania czasu poza strukturami oficjalnymi – i jedną z nielicznych okazji, by usłyszeć na głos to, czego radio nie grało.`,
+W latach 80. na parkietach królowały zachodnie przeboje, a obok nich polskie zespoły taneczne, takie jak Papa Dance. Dla młodzieży dyskoteka była jedną z niewielu form spędzania czasu poza oficjalnymi strukturami i okazją, by usłyszeć muzykę, której radio grało niewiele.`,
     trivia: [
-      'Repertuar didżeje kompletowali z płyt przywożonych z Zachodu i nagrań z Radia Luxembourg.',
+      'Za pierwszą polską dyskotekę uchodzi sopocka „Musicorama”, w której w 1970 roku debiutował dyskdżokej Marcin Jacobson.',
+      'Dobra kolekcja zachodnich płyt była dla dyskdżokeja kapitałem decydującym o powodzeniu imprezy.',
       'Kluby studenckie miały większą swobodę programową niż świetlice zakładowe.',
     ],
     resources: [
@@ -26942,23 +26958,28 @@ Główna ulica była miejscem, gdzie stykały się dwa światy: oficjalna turyst
     category: 'kultura',
     tags: ['film', 'serial', 'ekranizacja', 'literatura', 'telewizja'],
     yearStart: 1977,
+    yearEnd: 1978,
     summary: 'Ceniona ekranizacja powieści Bolesława Prusa w reżyserii Ryszarda Bera (1977); dzieje kupca Wokulskiego i jego miłości do Izabeli Łęckiej.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jerzy_Kamas.jpg?width=800',
     imageCaption: 'Jerzy Kamas, serialowy Wokulski, na zdjęciu z teatralnej roli w 1973 roku',
     content: `## Ekranizacja
-Serial „Lalka” z 1977 roku, w reżyserii Ryszarda Bera, był drugą po filmie Wojciecha Hasa z 1968 roku dużą ekranizacją powieści Bolesława Prusa. Formuła wieloodcinkowa pozwoliła oddać to, na co w filmie nie było miejsca: rozbudowaną panoramę Warszawy końca XIX wieku.
+Serial „Lalka” w reżyserii Ryszarda Bera powstał w 1977 roku w Zespole Filmowym „Pryzmat” na zlecenie Telewizji Polskiej. Telewizyjna premiera odbyła się 17 września 1978 roku. Była to druga ekranizacja powieści Bolesława Prusa – dziesięć lat po filmie Wojciecha Jerzego Hasa z 1968 roku. Scenariusz napisali Aleksander Ścibor-Rylski i Jadwiga Wojtyłło.
 
 ## Obsada
-W rolę Stanisława Wokulskiego wcielił się Jerzy Kamas, Izabelę Łęcką zagrała Małgorzata Braunek. Serial zyskał opinię jednej z najwierniejszych adaptacji polskiej klasyki literackiej.
+Stanisława Wokulskiego zagrał Jerzy Kamas, Izabelę Łęcką – Małgorzata Braunek, a subiekta Ignacego Rzeckiego – Bronisław Pawlik. Rola Pawlika zbierała najlepsze recenzje. Czesław Dondziłło nazwał ją „genialną”, a Ber i Pawlik dostali za serial nagrodę Złoty Ekran.
 
-## Dlaczego klasyka
-Ekranizacje lektur szkolnych były w PRL osobnym gatunkiem produkcji telewizyjnej. Miały walor edukacyjny, były bezpieczne cenzuralnie i pozwalały zatrudnić najlepszych aktorów przy materiale, którego nikt nie kwestionował. Dla widowni oznaczały wieczorne spotkanie z literaturą, do której inaczej wielu by nie sięgnęło.
+## Wierniej niż u Hasa
+Formuła wieloodcinkowa pozwoliła zachować to, na co w filmie nie było miejsca, zwłaszcza pamiętnik starego subiekta, pominięty przez Hasa. Widzowie przyjęli serial lepiej niż film i uznali za wierniejszy powieści. Krytycy doceniali za to wyższość plastycznej wizji Hasa.
 
-## Trwałość
-Serial przez dekady powracał na antenę i pozostał punktem odniesienia przy każdej kolejnej dyskusji o adaptowaniu „Lalki”.`,
+## Własne akcenty
+Ber mocniej niż Prus podkreślił wątki powstań: pokazał potyczkę z powstania styczniowego i przywrócił scenę z kupcem Suzinem, wyciętą niegdyś przez carską cenzurę. Serial krytycznie patrzy na narodowe zrywy – Wokulski po powrocie z Syberii mówi wprost: „Oszukano mnie”. Zmieniono też zakończenie na bardziej optymistyczne niż w powieści.
+
+## Plenery
+Zdjęcia kręcono w Warszawie, m.in. w bazylice Świętego Krzyża, a także we Wrocławiu, Janowcu, Nieborowie, Czerwińsku nad Wisłą i na dworcu w Piotrkowie Trybunalskim. Autorem zdjęć był Jacek Korcelli.`,
     trivia: [
-      'Była to druga duża ekranizacja „Lalki” – po filmie Wojciecha Hasa z 1968 roku.',
-      'Ekranizacje lektur były w PRL gatunkiem bezpiecznym cenzuralnie i dlatego chętnie produkowanym.',
+      'Premiera telewizyjna odbyła się 17 września 1978 roku, choć serial powstał w 1977.',
+      'Ber przywrócił scenę z kupcem Suzinem, wyciętą z powieści przez carską cenzurę.',
+      'Za rolę Rzeckiego Bronisław Pawlik dostał nagrodę Złoty Ekran.',
     ],
     resources: [
       {
@@ -28584,19 +28605,23 @@ W ciągu czternastu lat Niebiesko-Czarni nagrali osiem longplayów oraz 24 singl
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tadeusz%20%C5%81omnicki.jpg?width=800',
     imageCaption: 'Tadeusz Łomnicki – aktor teatralny i filmowy.',
     content: `## Aktor teatru
-Tadeusz Łomnicki (1927–1992) był przede wszystkim aktorem sceny: zostawił osiemdziesiąt dwie role teatralne, pięćdziesiąt jeden filmowych i kilkanaście reżyserii. Założył i prowadził warszawski Teatr na Woli.
+Tadeusz Łomnicki (1927–1992) urodził się w Podhajcach. W czasie wojny należał do Szarych Szeregów i Armii Krajowej. Zostawił 82 role sceniczne, 51 filmowych, 26 w Teatrze Telewizji i 12 reżyserii teatralnych. Grał w Teatrze Współczesnym i Narodowym, a do historii przeszły m.in. jego Arturo Ui w „Karierze Artura Ui” Brechta i Prysypkin w „Pluskwie” Majakowskiego. W 1976 roku założył warszawski Teatr na Woli i był jego pierwszym dyrektorem.
 
-## Role
-W kinie zapamiętano go m.in. jako Michała Wołodyjowskiego w ekranizacjach Hoffmana oraz z ról u Wajdy i Zanussiego. Był aktorem, którego środki wyrazu – tempo mowy, napięcie, praca ciałem – kształtowały sposób gry całego pokolenia.
+## Role filmowe
+Grał w „Pokoleniu”, „Niewinnych czarodziejach” i „Człowieku z marmuru” Wajdy, w „Eroice” Munka, „Kontrakcie” Zanussiego oraz w „Przypadku” i „Dekalogu VIII” Kieślowskiego. Najszerzej znany był jako pułkownik Michał Wołodyjowski w „Panu Wołodyjowskim” i „Potopie” Jerzego Hoffmana.
 
-## Legitymacja
-Przez lata należał do PZPR i zasiadał we władzach partyjnych. Po wprowadzeniu stanu wojennego oddał legitymację partyjną. Był to gest kosztowny: oznaczał utratę części możliwości zawodowych w momencie, gdy środowisko aktorskie i tak prowadziło bojkot telewizji.
+## Rektor i członek KC
+W latach 1970–1981 był rektorem warszawskiej PWST. Należał do PZPR, od 1971 roku był zastępcą członka, a od 1975 członkiem Komitetu Centralnego. Po wprowadzeniu stanu wojennego, 17 grudnia 1981 roku, oddał legitymację partyjną. Do polityki już nie wrócił, mimo propozycji Mieczysława Rakowskiego, a po 1989 roku – Lecha Wałęsy.
+
+## Choroba
+Ciężko chorował na serce. Operację w Londynie zorganizował i opłacił Roman Polański, u którego Łomnicki potem przez kilka miesięcy mieszkał w Paryżu. Choroba oznaczała blisko dwuletnią przerwę w pracy. W 1984 roku przeszedł do Teatru Studio.
 
 ## Śmierć na scenie
-Zmarł w 1992 roku w Poznaniu, podczas próby „Króla Leara”. Okoliczności – atak serca w trakcie pracy nad jedną z najtrudniejszych ról repertuaru – stały się częścią legendy polskiego teatru.`,
+Zmarł 22 lutego 1992 roku w Poznaniu na atak serca podczas próby „Króla Leara” w Teatrze Nowym. Jego ostatnie słowa były kwestią Leara. Jan Kott napisał po jego śmierci, że odszedł jeden z największych aktorów pokolenia.`,
     trivia: [
-      'Po wprowadzeniu stanu wojennego oddał legitymację partyjną, mimo lat spędzonych we władzach PZPR.',
-      'Zmarł podczas próby „Króla Leara” w 1992 roku.',
+      'Oddał legitymację partyjną 17 grudnia 1981 roku, cztery dni po wprowadzeniu stanu wojennego.',
+      'Operację serca w Londynie zorganizował i opłacił mu Roman Polański.',
+      'Zmarł podczas próby „Króla Leara” – jego ostatnie słowa były kwestią Leara.',
     ],
     resources: [
       {
@@ -29211,20 +29236,24 @@ Komedia śmieje się z biurokracji, bałaganu i braków w zaopatrzeniu, ale życ
     summary: 'Wokalistka big-beatu zwana „królową twista”; energicznymi przebojami jak „Czarny Alibaba” porywała młodzież początku lat 60.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Szczecin_Helena_Majdaniec_pomnik.jpg?width=800',
     imageCaption: 'Pomnik Heleny Majdaniec przy Teatrze Letnim w Szczecinie (fot. współczesna)',
-    content: `## Królowa twista
-Helena Majdaniec (1941–2002) była jedną z czołowych wokalistek polskiego big-beatu i zyskała przydomek „królowej twista”. Karierę zaczynała w Szczecinie, a rozgłos przyniósł jej występ na festiwalu w Sopocie i współpraca z zespołem Czerwono-Czarni.
+    content: `## Ze Szczecina na estradę
+Helena Majdaniec (1941–2002) urodziła się w Mylsku na Wołyniu, w rodzinie prawosławnej, a od 1946 roku mieszkała w Szczecinie. Ukończyła tam liceum i szkołę muzyczną II stopnia. Zadebiutowała w 1962 roku w szczecińskim klubie studenckim „Pinokio”. Jeszcze w tym samym roku wystąpiła na festiwalu w Sopocie, a w 1963 roku na pierwszym festiwalu w Opolu.
 
-## Przeboje
-Do najpopularniejszych jej nagrań należą „Czarny Alibaba” i „Jak długo jeszcze”. Śpiewała szybko, rytmicznie i z dużą swobodą sceniczną – w epoce, w której estrada dopiero uczyła się takiego stylu.
+## Królowa twista
+Zyskała przydomek „królowej twista”. Współpracowała z Czerwono-Czarnymi, Niebiesko-Czarnymi i Radiowym Zespołem M-2. Na jej pierwszym singlu z 1963 roku znalazły się m.in. „Czarny Ali Baba”, „Wesoły twist” i „Jutro będzie dobry dzień”. Występowała też w paryskiej „Olympii”, w Szwajcarii, Jugosławii i na Węgrzech.
 
 ## Big-beat jako kompromis
-Władze traktowały big-beat nieufnie, ale uznały go za mniejsze zło niż rock zachodni: polskie zespoły grały po polsku, występowały w państwowych agencjach estradowych i podlegały cenzurze tekstów. Powstał w ten sposób obieg muzyki młodzieżowej kontrolowany, lecz autentycznie popularny.
+Władze traktowały big-beat nieufnie, ale uznały go za mniejsze zło niż rock zachodni. Polskie zespoły śpiewały po polsku, działały w państwowych agencjach estradowych i podlegały cenzurze tekstów. Powstał w ten sposób obieg muzyki młodzieżowej kontrolowany, lecz autentycznie popularny.
 
-## Francja
-Od 1968 roku mieszkała we Francji, gdzie kontynuowała pracę artystyczną. Do Polski wróciła po latach; zmarła w Szczecinie, mieście, w którym zaczynała.`,
+## Paryż
+W 1968 roku wyemigrowała do Francji. W Paryżu śpiewała w kabaretach, m.in. „Raspoutine” i „Étoile de Moscou”, pracowała dla francuskiego radia i telewizji, a w 1970 roku wydała we Francji płytę dla Philipsa. Koncertowała też w Kanadzie, Maroku i USA.
+
+## Pamięć
+Zmarła nagle 18 stycznia 2002 roku w rodzinnym domu w Szczecinie, dwa dni po nagraniu programu telewizyjnego. Jej imię nosi szczeciński Teatr Letni, przed którym w 2022 roku stanął jej pomnik.`,
     trivia: [
-      'Nazywano ją „królową twista” – ten taniec był w Polsce początku lat 60. symbolem młodzieżowej nowoczesności.',
-      'Od 1968 roku mieszkała we Francji, a zmarła w Szczecinie, gdzie zaczynała karierę.',
+      'Zadebiutowała w 1962 roku w szczecińskim klubie studenckim „Pinokio”.',
+      'W 1963 roku wystąpiła na pierwszym festiwalu w Opolu.',
+      'Jej imię nosi Teatr Letni w Szczecinie.',
     ],
     resources: [
       {
@@ -32135,20 +32164,24 @@ Jego los pokazuje mechanizm, który w PRL działał wielokrotnie: człowiek wsp�
     summary: 'I sekretarz KC PZPR w burzliwym roku 1956, później przewodniczący Rady Państwa; ustąpił w 1968 roku, co wiązano z jego sprzeciwem wobec kampanii antysemickiej.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Edward_Ochab_2.jpg?width=800',
     imageCaption: 'Edward Ochab',
-    content: `## Rok 1956
-Edward Ochab (1906–1989) objął kierownictwo partii po śmierci Bolesława Bieruta w marcu 1956 roku. Trafił na najtrudniejsze miesiące w dotychczasowej historii PRL: referat Chruszczowa na XX Zjeździe KPZR, poznański Czerwiec, narastające żądania zmian.
+    content: `## Komunista przedwojenny
+Edward Ochab (1906–1989) urodził się w Krakowie. Do Komunistycznej Partii Polski wstąpił w 1929 roku, był pięciokrotnie aresztowany i spędził w więzieniach łącznie sześć i pół roku. W 1944 roku należał do tajnego Centralnego Biura Komunistów Polski przy KC WKP(b). Po wojnie kierował m.in. Wydziałem Propagandy KC PPR, a w 1948 roku jako prezes Centralnego Związku Spółdzielczego podporządkował państwu niezależny dotąd ruch spółdzielczy.
 
-## Poznań i Październik
-To za jego kadencji stłumiono zbrojnie wystąpienie robotników w Poznaniu, a kilka miesięcy później doszło do przesilenia na VIII Plenum. Ochab ustąpił miejsca Władysławowi Gomułce, sam pozostając w kierownictwie – przekazanie władzy odbyło się bez rozliczenia i bez rozłamu w partii.
+## Rok 1956
+Od 1950 roku był sekretarzem KC PZPR, a po śmierci Bolesława Bieruta, od marca do października 1956 roku, I sekretarzem partii. Trafił na najtrudniejsze miesiące w dotychczasowej historii PRL: referat Chruszczowa, poznański Czerwiec i narastające żądania zmian. Reprezentował nurt środka między natolińczykami a puławianami. Popularność władzy oddawało powiedzenie „Więcej schabów, mniej Ochabów”.
+
+## Październik
+Na VIII Plenum ustąpił miejsca Władysławowi Gomułce, sam pozostając w kierownictwie – przekazanie władzy odbyło się bez rozliczeń i bez rozłamu w partii. Według źródeł jego działania w październiku 1956 roku pomogły zatrzymać eskalację rozpoczętej już interwencji wojsk radzieckich.
 
 ## Rada Państwa
-W latach 1964–1968 pełnił funkcję przewodniczącego Rady Państwa, czyli formalnej głowy państwa.
+W latach 1957–1959 był ministrem rolnictwa, a od 12 sierpnia 1964 do 11 kwietnia 1968 roku przewodniczącym Rady Państwa, czyli formalną głową państwa. W marcu 1966 roku przekazał prymasowi Wyszyńskiemu odmowę władz w sprawie przyjazdu papieża Pawła VI na obchody tysiąclecia chrztu Polski.
 
 ## Odejście w 1968
-Zrezygnował ze stanowisk w 1968 roku, w czasie kampanii marcowej. Jego odejście wiązano z niezgodą na antysemicki charakter tej kampanii – był jednym z nielicznych ludzi z najwyższego kierownictwa, którzy w tym momencie usunęli się z własnej woli.`,
+Uchodził za koniunkturalistę, który zawsze popierał najsilniejszych. Wyjątkiem był rok 1968: po wydarzeniach marcowych sam zrezygnował ze wszystkich stanowisk, a 8 kwietnia 1968 roku Biuro Polityczne przyjęło jego rezygnację. Jego odejście wiązano z niezgodą na antysemicką kampanię. Zmarł 1 maja 1989 roku w Warszawie.`,
     trivia: [
+      'Za jego rządów w 1956 roku mówiono: „Więcej schabów, mniej Ochabów”.',
       'Kierował partią tylko przez siedem miesięcy 1956 roku – od śmierci Bieruta do VIII Plenum.',
-      'Ustąpił ze stanowisk w 1968 roku; jego odejście wiązano ze sprzeciwem wobec kampanii antysemickiej.',
+      'W 1968 roku jako jeden z nielicznych z najwyższego kierownictwa sam zrzekł się wszystkich stanowisk.',
     ],
     resources: [
       {
@@ -34025,7 +34058,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1973, event: 'Premiera „Sanatorium pod klepsydrą” Wojciecha Hasa – nagroda w Cannes', category: 'kultura', entryId: 'sanatorium-pod-klepsydra' },
   { year: 1975, event: 'Reforma administracyjna – Jelenia Góra stolicą województwa', category: 'społeczeństwo', entryId: 'jelenia-gora' },
   { year: 1984, event: 'Klaus Mitffoch wydaje przełomowy album nowej fali', category: 'kultura', entryId: 'klaus-mitffoch' },
-  { year: 1977, event: 'Emisja serialu „Lalka” wg Bolesława Prusa', category: 'kultura', entryId: 'lalka-serial' },
+  { year: 1978, event: 'Premiera telewizyjna serialu „Lalka” Ryszarda Bera wg Bolesława Prusa', category: 'kultura', entryId: 'lalka-serial' },
   { year: 1980, event: 'Emisja serialu „Kariera Nikodema Dyzmy” z Romanem Wilhelmim', category: 'kultura', entryId: 'kariera-nikodema-dyzmy' },
   { year: 1985, event: 'Aya RL wydaje debiut z przebojem „Skóra”', category: 'kultura', entryId: 'aya-rl' },
   { year: 1949, event: 'Otwarcie Trasy W-Z – symbol odbudowy Warszawy', category: 'społeczeństwo', entryId: 'trasa-wz' },
@@ -34058,7 +34091,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1962, event: 'Karin Stanek – „Malowana lala” z Czerwono-Czarnymi (Sopot)', category: 'kultura', entryId: 'karin-stanek' },
   { year: 1966, event: 'Wiesław Gołas jako Tomasz Czereśniak w „Czterech pancernych”', category: 'kultura', entryId: 'wieslaw-golas' },
   { year: 1973, event: '22 kwietnia – premiera komedii „Poszukiwany, poszukiwana” Stanisława Barei', category: 'kultura', entryId: 'poszukiwany-poszukiwana' },
-  { year: 1963, event: 'Helena Majdaniec – „królowa twista” (festiwal w Opolu)', category: 'kultura', entryId: 'helena-majdaniec' },
+  { year: 1963, event: 'Helena Majdaniec, „królowa twista”, na pierwszym festiwalu w Opolu', category: 'kultura', entryId: 'helena-majdaniec' },
   { year: 1965, event: 'Jan Kobuszewski współtworzy kabaret Dudek', category: 'kultura', entryId: 'jan-kobuszewski' },
   { year: 1971, event: 'Premiera komedii „Nie lubię poniedziałku” Tadeusza Chmielewskiego', category: 'kultura', entryId: 'nie-lubie-poniedzialku' },
   { year: 1963, event: 'Debiut telewizyjny duetu Marek i Wacek', category: 'kultura', entryId: 'marek-i-vacek' },
@@ -34204,7 +34237,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1954, event: 'Agnieszka Osiecka współtworzy Studencki Teatr Satyryków', category: 'osoby', entryId: 'osiecka-agnieszka' },
   { year: 1968, event: 'Kalina Jędrusik jako Kazimiera Wąsowska w „Lalce” Wojciecha Hasa', category: 'osoby', entryId: 'kalina-jedrusik' },
   { year: 1974, event: 'Jan Ciszewski komentuje mistrzostwa świata w piłce nożnej', category: 'osoby', entryId: 'ciszewski-jan' },
-  { year: 1982, event: 'Tadeusz Łomnicki oddaje legitymację partyjną po wprowadzeniu stanu wojennego', category: 'osoby', entryId: 'tadeusz-lomnicki' },
+  { year: 1981, event: 'Tadeusz Łomnicki oddaje legitymację partyjną (17 grudnia) po wprowadzeniu stanu wojennego', category: 'osoby', entryId: 'tadeusz-lomnicki' },
   { year: 1958, event: 'Marek Hłasko wyjeżdża z Polski i już nie wraca', category: 'osoby', entryId: 'hlasko-marek' },
   { year: 1970, event: 'Miron Białoszewski wydaje „Pamiętnik z powstania warszawskiego”', category: 'osoby', entryId: 'bialoszewski-miron' },
   { year: 1979, event: 'Śmierć Edwarda Stachury', category: 'osoby', entryId: 'stachura-edward' },
@@ -34243,6 +34276,9 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1947, event: 'Hilary Minc ogłasza bitwę o handel', category: 'osoby', entryId: 'minc' },
   { year: 1963, event: 'Roman Zambrowski usunięty z Biura Politycznego', category: 'osoby', entryId: 'zambrowski' },
   { year: 1956, event: 'Edward Ochab I sekretarzem KC PZPR po śmierci Bieruta', category: 'osoby', entryId: 'ochab' },
+  { year: 1968, event: 'Edward Ochab rezygnuje ze wszystkich stanowisk po wydarzeniach marcowych', category: 'osoby', entryId: 'ochab' },
+  { year: 1956, event: 'Zjazd Łódzki: reaktywacja Związku Harcerstwa Polskiego', category: 'społeczeństwo', entryId: 'zhp-harcerstwo' },
+  { year: 1980, event: 'Nocne Szczury – pierwszy zespół punkowy na festiwalu w Jarocinie', category: 'kultura', entryId: 'punk-prl' },
   { year: 1952, event: 'Aleksander Zawadzki przewodniczącym Rady Państwa', category: 'osoby', entryId: 'zawadzki' },
   { year: 1944, event: 'Stanisław Radkiewicz staje na czele resortu bezpieczeństwa publicznego', category: 'osoby', entryId: 'radkiewicz' },
   { year: 1954, event: 'Audycje Józefa Światły w Radiu Wolna Europa ujawniają metody bezpieki', category: 'osoby', entryId: 'swiatlo' },
