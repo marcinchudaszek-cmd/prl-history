@@ -19500,20 +19500,24 @@ Przez cały okres PRL temat był objęty całkowitym zakazem. Rodziny nie mogły
     yearStart: 1950,
     yearEnd: 1950,
     summary: 'Przeprowadzona w 1950 roku wymiana pieniędzy po nierównym kursie, która de facto skonfiskowała oszczędności obywateli na rzecz państwa.',
-    content: `## Reforma
-Pod koniec października 1950 roku przeprowadzono wymianę pieniędzy. Ogłoszono ją nagle, a na wymianę dano zaledwie kilka dni – tak krótko, by nikt nie zdążył ulokować gotówki.
+    content: `## Zaskoczenie
+Przygotowania trzymano w ścisłej tajemnicy. Ustawę o zmianie systemu pieniężnego ogłoszono 28 października 1950 roku, nowy złoty wszedł do obiegu 30 października, a stare pieniądze straciły ważność już 8 listopada. Na wymianę zostało więc kilka dni. Była to druga powojenna wymiana pieniędzy – pierwszą przeprowadzono dekretem PKWN w 1944 roku.
 
 ## Podwójny kurs
-Istota reformy tkwiła w dwóch różnych przelicznikach. Płace, ceny i zobowiązania przeliczano w stosunku sto do trzech, natomiast gotówkę wymieniano sto do jednego. Kto trzymał pieniądze w domu, tracił dwie trzecie ich wartości.
+Ceny i płace przeliczono w stosunku 100 starych złotych do 3 nowych. Po tym samym kursie wymieniano wkłady bankowe, ale tylko do 100 tys. starych złotych. Gotówkę wymieniano bez limitu, lecz 100 do 1. Kto trzymał pieniądze w domu, dostawał za nie trzy razy mniej niż ten, kto miał je w banku.
 
 ## Kogo uderzyła
-Najmocniej dotknęła tych, którzy operowali gotówką: rzemieślników, prywatnych handlowców i chłopów. Była więc nie tylko operacją monetarną, ale i elementem walki z sektorem prywatnym, prowadzonej równolegle przez bitwę o handel i domiary podatkowe.
+Mechanizm godził w tych, którzy nie ufali bankom i rozliczali się gotówką: prywatnych przedsiębiorców i rolników indywidualnych. Władze otwarcie tłumaczyły reformę chęcią odebrania pieniędzy „kapitalistom, prywaciarzom i spekulantom”. Tego samego dnia uchwalono ustawę zakazującą posiadania walut obcych, złotych monet, złota i platyny.
+
+## Skala
+Unieważniono około 60% pieniądza w obiegu. Wymieniono 162,2 mld starych złotych na 1,658 mld nowych – zamiast 4,97 mld, które dałby jednolity kurs. Stratę ludności szacuje się na 3,3 mld nowych złotych. Nowy złoty był równy jednemu rublowi radzieckiemu, a banknoty, drukowane w Szwecji, Czechosłowacji i na Węgrzech, nosiły datę 1 lipca 1948 roku.
 
 ## Skutek
-Reforma odebrała oszczędności znacznej części społeczeństwa i na długo podkopała zaufanie do pieniądza oraz do instytucji państwa. Nawyk trzymania majątku w towarach, dewizach lub złocie, a nie w złotówkach, przetrwał w Polsce dekady.`,
+Reforma zatrzymała inflację i przyniosła trudne do podrobienia banknoty oraz bilon, dzięki któremu wróciły automaty telefoniczne. Jej ceną było zaufanie do państwowego pieniądza: obawa przed kolejną taką wymianą przetrwała do końca PRL, a nawyk trzymania oszczędności w dolarach czy złocie – jeszcze dłużej.`,
     trivia: [
-      'Gotówkę wymieniano w stosunku sto do jednego, a płace i ceny przeliczano sto do trzech.',
-      'Na wymianę dano zaledwie kilka dni, żeby nikt nie zdążył ulokować gotówki.',
+      'Gotówkę wymieniano w stosunku 100 do 1, a płace, ceny i wkłady bankowe przeliczano 100 do 3.',
+      'Nowe banknoty nosiły datę 1 lipca 1948 roku, choć weszły do obiegu ponad dwa lata później.',
+      'Nowy złoty był zrównany z jednym rublem radzieckim.',
     ],
     resources: [
       {
@@ -25236,21 +25240,29 @@ Melodramat o utraconej tożsamości, krzywdzie naprawionej po latach i odnalezio
     yearStart: 1975,
     summary: 'Wielki fresk Andrzeja Wajdy (1975) wg powieści Reymonta o trzech przyjaciołach budujących fabrykę w drapieżnej, przemysłowej Łodzi; nominowany do Oscara.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej%20Wajda%201974.jpg?width=800',
-    imageCaption: 'Andrzej Wajda na planie „Ziemi obiecanej”, 1974',
+    imageCaption: 'Andrzej Wajda w 1974 roku, gdy kręcił „Ziemię obiecaną”',
     content: `## Film
-„Ziemia obiecana” Andrzeja Wajdy powstała w 1974 roku, a na ekrany weszła rok później, na podstawie powieści Władysława Reymonta. Rzecz dzieje się w Łodzi końca XIX wieku, w czasie gwałtownego rozwoju przemysłu włókienniczego.
+„Ziemia obiecana” to film Andrzeja Wajdy według powieści Władysława Reymonta. Zdjęcia trwały od 15 lutego do 8 czerwca 1974 roku, a premiera odbyła się 21 lutego 1975 w Warszawie. Wcześniej zorganizowano dwie prapremiery dla robotników: łódzkich zakładów bawełnianych i warszawskiej Fabryki Samochodów Osobowych. Akcja toczy się w przemysłowej Łodzi na przełomie XIX i XX wieku.
 
 ## Trzej wspólnicy
-Bohaterami są Polak Karol Borowiecki, Niemiec Maks Baum i Żyd Moryc Welt, którzy postanawiają wspólnie zbudować fabrykę. Zagrali ich Daniel Olbrychski, Andrzej Seweryn i Wojciech Pszoniak.
+Polski ziemianin Karol Borowiecki, Niemiec Maks Baum i Żyd Moryc Welt postanawiają wspólnie zbudować fabrykę. Zagrali ich Daniel Olbrychski, Andrzej Seweryn i Wojciech Pszoniak. Wajda zmienił wymowę powieści: u Reymonta wspólnicy zdradzają Karola, w filmie bronią go w chwilach kryzysu. Złagodził też antysemicki wydźwięk pierwowzoru.
 
-## Kapitalizm bez osłon
-Wajda pokazał wczesny kapitalizm jako maszynę mielącą ludzi: wypadki przy pracy, bankructwa, zdrady i awanse okupione czyjąś krzywdą. Taka wymowa czyniła film wygodnym dla władz – można go było czytać jako oskarżenie ustroju, z którym PRL się spierał.
+## Od scenariusza do planu
+Pierwszą wersję scenariusza Wajda napisał już latem 1968 roku, ale zgodę na realizację dostał dopiero po powołaniu Zespołu Filmowego „X” w listopadzie 1971. Film kręciły dwie ekipy i trzech operatorów, w tym Witold Sobociński i Edward Kłosiński. Scenografię Tadeusza Kosarewicza urządzono w autentycznych wnętrzach łódzkich fabryk i pałaców, Barbara Ptak zaprojektowała 600 kostiumów, a muzykę napisał Wojciech Kilar.
 
-## Rozmach i uznanie
-Film kręcono w autentycznych łódzkich fabrykach i pałacach fabrykanckich, co dało mu skalę rzadką w polskim kinie. Otrzymał nominację do Oscara i do dziś uchodzi za jedno z najważniejszych dzieł Wajdy.`,
+## Film wygodny dla władz
+Obraz drapieżnego kapitalizmu pasował do oficjalnej narracji. W wytycznych dla cenzorów zalecano, by właśnie „Ziemia obiecana” reprezentowała Polskę na festiwalach, bo jest „dobrą lekcją o naszych racjach”. Film zaatakowało jednak środowisko moczarowskie, a w jego obronie stanęła partyjna „Trybuna Ludu”.
+
+## Sukces i kontrowersje
+Do 2000 roku film obejrzało w kinach ponad 7,3 mln widzów. W 1975 roku zdobył Złotą Nagrodę festiwalu w Moskwie, a w 1976 nominację do Oscara dla filmu nieanglojęzycznego – jako czwarty polski film w tej kategorii. W Stanach Zjednoczonych ciągnęły się za nim zarzuty antysemityzmu i dystrybutorzy nie wprowadzili go do kin ani w Nowym Jorku, ani w Los Angeles.
+
+## Wersje
+Wersja kinowa z 1975 roku trwała 179 minut. Rozszerzoną wersję telewizyjną w czterech odcinkach TVP pokazała 21 maja 1978. W 2000 roku Wajda przygotował wersję skróconą do 138 minut, a w 2012 do dystrybucji wróciła cyfrowo odnowiona wersja oryginalna.`,
     trivia: [
       'Bohaterami są Polak, Niemiec i Żyd, którzy razem budują fabrykę – zagrali ich Olbrychski, Seweryn i Pszoniak.',
-      'Zdjęcia kręcono w autentycznych łódzkich fabrykach i pałacach fabrykanckich.',
+      'Wajda napisał pierwszą wersję scenariusza w 1968 roku, ale zgodę na realizację dostał dopiero w 1971.',
+      'Przed seansami puszczano teledysk, w którym Olbrychski, Seweryn i Pszoniak śpiewali na ulicach współczesnej Łodzi.',
+      'W wytycznych dla cenzorów film nazwano „dobrą lekcją o naszych racjach”.',
     ],
     resources: [
       {
@@ -26103,25 +26115,29 @@ Po zakończeniu kariery zawodniczej pracował jako trener i działacz, kierował
     subtitle: 'Kompozytor przebojów big-beatu',
     category: 'osoby',
     tags: ['muzyka', 'big-beat', 'rock', 'kompozytor'],
-    yearStart: 1965,
+    yearStart: 1963,
     yearEnd: 1981,
     summary: 'Kompozytor, wokalista i gitarzysta, jeden z filarów big-beatu; współtwórca Czerwonych Gitar i autor przebojów jak „Biały krzyż”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krzysztof%20Klenczon.jpg?width=800',
     imageCaption: 'Krzysztof Klenczon – kompozytor, wokalista i gitarzysta.',
-    content: `## Muzyk
-Krzysztof Klenczon (1942–1981) był kompozytorem, gitarzystą i wokalistą, jedną z centralnych postaci polskiego big-beatu. Grał w Czerwonych Gitarach w latach 1965–1970, a potem prowadził własny zespół Trzy Korony.
+    content: `## Początki
+Krzysztof Klenczon (1942–1981) urodził się w Pułtusku, a dorastał w Szczytnie. Jego ojciec, żołnierz AK i WiN, przez dziesięć lat ukrywał się przed UB pod zmienionym nazwiskiem. Klenczon był muzycznym samoukiem i nie czytał nut. Karierę zaczął w Niebiesko-Czarnych, z którymi w 1963 roku wystąpił w paryskiej „Olympii”.
 
-## Kompozytor
-Napisał m.in. „Nie przejdziemy do historii”, „Powiedz stary, gdzieś ty był” i „Biały krzyż”. Ta ostatnia piosenka, o żołnierzach poległych na wojnie, zyskała status niemal pieśni pamięci i śpiewano ją przez dziesięciolecia.
+## Czerwone Gitary
+W 1964 roku dołączył do gdańskiego zespołu Pięciolinie, przemianowanego w 1965 roku na Czerwone Gitary. Obok Seweryna Krajewskiego był głównym kompozytorem grupy. Napisał m.in. „Taka jak ty”, „Historia jednej znajomości”, „Wróćmy na jeziora”, „Powiedz stary, gdzieś ty był” i „Biały krzyż”, za który w 1969 roku dostał nagrodę ministra kultury na festiwalu w Opolu.
 
-## Rozstanie z zespołem
-Odejście z Czerwonych Gitar w 1970 roku oznaczało rozstanie z pozycją członka najpopularniejszej grupy w kraju. Klenczon chciał grać muzykę cięższą i bardziej osobistą, na co formuła zespołu nie dawała miejsca.
+## Trzy Korony
+Zafascynowany Black Sabbath, Led Zeppelin i Deep Purple chciał grać ciężej. Po konflikcie z Krajewskim o repertuar odszedł z Czerwonych Gitar i w styczniu 1970 roku założył Trzy Korony, m.in. z kuzynem Ryszardem Klenczonem. Napisał dla nich „10 w skali Beauforta” i „Nie przejdziemy do historii”, ale zespół nie powtórzył sukcesu Czerwonych Gitar.
 
-## Emigracja i śmierć
-W połowie lat 70. wyjechał do Stanów Zjednoczonych. Zginął w wypadku samochodowym w Chicago w 1981 roku, mając trzydzieści dziewięć lat. W Polsce jego piosenki przetrwały niezależnie od tego, że sam zniknął z krajowego obiegu.`,
+## Emigracja
+W maju 1973 roku wyjechał z rodziną do Stanów Zjednoczonych. Występował w małych klubach, dorabiał jako taksówkarz i dozorca, a w 1977 roku pod pseudonimem „Christopher” wydał album „The Show Never Ends”, który przeszedł bez echa. W latach 1978–1979 koncertował w Polsce i rozważał powrót do Czerwonych Gitar.
+
+## Śmierć i pamięć
+27 lutego 1981 roku, wracając z koncertu charytatywnego w Chicago, został ciężko ranny w wypadku samochodowym. Zmarł po czterdziestu dniach, 7 kwietnia 1981 roku, a urnę z jego prochami złożono w Szczytnie. Jego imię noszą ulice w Warszawie, Sopocie i Białogardzie, a w 2020 roku NBP wydał upamiętniającą go monetę kolekcjonerską.`,
     trivia: [
-      '„Biały krzyż” jego autorstwa zyskał status pieśni pamięci i śpiewano go przez dziesięciolecia.',
-      'Odszedł z Czerwonych Gitar u szczytu ich popularności, bo chciał grać muzykę cięższą i bardziej osobistą.',
+      'Nie umiał czytać nut – był samoukiem, który godzinami ćwiczył grę na gitarze.',
+      'W 1963 roku z Niebiesko-Czarnymi wystąpił w paryskiej „Olympii”.',
+      'W Stanach Zjednoczonych wydał płytę pod pseudonimem „Christopher”.',
     ],
     resources: [
       {
@@ -27310,19 +27326,23 @@ Wyczerpany dziesięcioma latami nieustannych tras zespół rozwiązał się w 19
     yearStart: 1965,
     summary: 'Kultowa ekranizacja powieści Jana Potockiego w reżyserii Wojciecha Hasa (1965); szkatułkowa, oniryczna opowieść wielbiona na całym świecie.',
     content: `## Film
-Ekranizacja powieści Jana Potockiego w reżyserii Wojciecha Hasa powstała w 1964 roku, a na ekrany weszła rok później. Główną rolę – oficera Alfonsa van Wordena – zagrał Zbigniew Cybulski.
+„Rękopis znaleziony w Saragossie” Wojciecha Jerzego Hasa to ekranizacja powieści Jana Potockiego nakręcona w 1964 roku. Premierę planowano na 25 stycznia 1965, ale odbyła się 9 lutego w warszawskiej Sali Kongresowej. Alfonsa van Wordena, młodego oficera armii hiszpańskiej, zagrał Zbigniew Cybulski.
+
+## Obsada i muzyka
+Główną rolę miał pierwotnie zagrać Zbigniew Wójcik ze Starego Teatru, który zmarł tuż przed zdjęciami. Na planie pojawiło się aż 187 aktorów, nie licząc statystów. Muzykę napisał Krzysztof Penderecki: sparodiował barok i klasycyzm, a przy tym sięgnął po taśmę magnetofonową i syntezatory.
 
 ## Szkatułkowa konstrukcja
-Bohater, podróżując przez Sierra Morena, wysłuchuje kolejnych opowieści, z których każda otwiera następną. Historie zagnieżdżają się w sobie jak szkatułki, a widz traci pewność, na którym poziomie opowieści się znajduje.
+Bohater, przemierzając góry Sierra Morena, wysłuchuje kolejnych opowieści, z których każda otwiera następną. Film ma dwie części: przygody Alfonsa w dolinie Los Hermanos i opowieść Avadora snutą w zamku Kabalisty. W Polsce pokazywano pełną, trzygodzinną wersję. Francja dostała 152 minuty, a amerykański dystrybutor zażądał skrócenia do 125.
 
-## Dlaczego to działa
-Has połączył horror, komedię, filozofię i erotykę w formie, która nie miała wtedy odpowiednika w kinie europejskim. Film trwa ponad trzy godziny i wymaga od widza uwagi, ale nagradza ją konsekwencją całej konstrukcji.
+## Odbiór
+W Polsce film przyjęto chłodno – wielu znudzonych widzów wychodziło w trakcie seansu. Lepiej zrozumiała go publiczność francuska. W 1965 roku „Rękopis” zdobył wyróżnienie na festiwalu w Edynburgu i dwie nagrody w San Sebastián.
 
-## Druga młodość
-Obraz zyskał na Zachodzie status kultowy, a jego wielbicielami byli m.in. Jerry Garcia i Martin Scorsese, którzy przyczynili się do rekonstrukcji pełnej wersji. Dziś „Rękopis” uchodzi za jeden z najoryginalniejszych polskich filmów w historii.`,
+## Kult
+W Stanach Zjednoczonych nawet okrojona wersja stała się kultowa. Jerry Garcia z Grateful Dead zabiegał o sprowadzenie pełnej wersji, a w latach 90. dzięki jego staraniom oraz Martina Scorsese i Francisa Forda Coppoli powstała rekonstrukcja oryginału. Za jeden z najwybitniejszych filmów w historii kina uznawali go m.in. Luis Buñuel, David Lynch i Lars von Trier.`,
     trivia: [
-      'Opowieści zagnieżdżają się w sobie jak szkatułki, przez co widz gubi poziom narracji.',
-      'Do rekonstrukcji pełnej wersji filmu przyczynili się jego zachodni wielbiciele, m.in. Martin Scorsese.',
+      'Na planie wystąpiło 187 aktorów, nie licząc statystów.',
+      'Penderecki stworzył muzykę do filmu m.in. z użyciem taśmy magnetofonowej i syntezatorów.',
+      'Rekonstrukcję pełnej wersji w latach 90. wsparli Jerry Garcia, Martin Scorsese i Francis Ford Coppola.',
     ],
     resources: [
       {
@@ -29577,20 +29597,24 @@ Równolegle trwały dożynki parafialne, związane z Kościołem i lokalną wsp�
     summary: 'Najstarszy i najważniejszy polski festiwal jazzowy, organizowany w Warszawie od 1958; okno na światowy jazz mimo żelaznej kurtyny.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Plakat_Jazz_Jamboree_z_1968_r.png?width=800',
     imageCaption: 'Plakat Jazz Jamboree z 1968 roku',
-    content: `## Festiwal
-Jazz Jamboree jest jednym z najstarszych festiwali jazzowych w Europie. Odbywa się w Warszawie od przełomu lat 50. i 60., a jego początki wiążą się z odwilżą, która zdjęła z jazzu odium muzyki wrogiej.
+    content: `## Początki
+Pierwszy festiwal zorganizował warszawski Hot-Club Hybrydy. Odbył się w dniach 18–21 września 1958 roku pod nazwą „Jazz 58”. Nazwę Jazz Jamboree wymyślił Leopold Tyrmand – pisarz i jeden z najgłośniejszych propagatorów jazzu w Polsce. To jeden z najstarszych festiwali jazzowych w Europie.
+
+## Od Stodoły do Kongresowej
+Pierwsze trzy edycje odbyły się w studenckim klubie „Stodoła”, a część koncertów w Krakowie. Później festiwal przeniósł się do Filharmonii Narodowej, a od 1965 roku odbywał się w Sali Kongresowej Pałacu Kultury i Nauki.
 
 ## Okno na świat
-Festiwal był jedną z nielicznych imprez, na które regularnie przyjeżdżali artyści z Zachodu, w tym czołowi muzycy amerykańscy. Dla polskiej publiczności oznaczało to kontakt z muzyką znaną wcześniej wyłącznie z nagrań i audycji radiowych.
+Jamboree było jedną z nielicznych imprez, na które przyjeżdżały gwiazdy z Zachodu. W różnych latach grali tu m.in. Miles Davis, Duke Ellington, Dizzy Gillespie i Ray Charles. Publiczność znająca jazz głównie z płyt i audycji radiowych mogła usłyszeć legendy na żywo.
 
-## Polski jazz
-Na scenie Jamboree budowały pozycję kolejne pokolenia polskich muzyków – od Komedy i Namysłowskiego po Stańkę i Urbaniaka. Festiwal działał więc w obie strony: przywoził świat i pokazywał światu polskich wykonawców.
+## Polska scena
+Na festiwalu występowali Krzysztof Komeda, Andrzej Trzaskowski, Jan Ptaszyn Wróblewski, Tomasz Stańko, Urszula Dudziak i Michał Urbaniak. Jamboree działało więc w obie strony: przywoziło świat do Warszawy i pokazywało polskich muzyków zagranicznym gościom.
 
 ## Dlaczego jazz
-Muzyka instrumentalna nie miała tekstu, którego cenzor mógłby zakwestionować. To sprawiło, że jazz stał się w PRL dziedziną stosunkowo swobodną – i jednocześnie wygodną dla władz, bo dowodził otwartości bez politycznego ryzyka.`,
+Muzyka instrumentalna nie miała tekstu, który cenzor mógłby zakwestionować. Po odwilży jazz przestał uchodzić za muzykę wrogą i stał się dziedziną stosunkowo swobodną. Dla władz był przy tym wygodny, bo pokazywał otwartość bez politycznego ryzyka.`,
     trivia: [
-      'Festiwal był jedną z nielicznych imprez, na które regularnie przyjeżdżali muzycy z Zachodu.',
-      'Jazz był w PRL dziedziną stosunkowo swobodną, bo muzyka instrumentalna nie miała tekstu do ocenzurowania.',
+      'Pierwsza edycja w 1958 roku nazywała się po prostu „Jazz 58”.',
+      'Nazwę Jazz Jamboree wymyślił Leopold Tyrmand.',
+      'Od 1965 roku koncerty odbywały się w Sali Kongresowej Pałacu Kultury i Nauki.',
     ],
     resources: [
       {
@@ -30469,20 +30493,24 @@ Jego kariera pokazuje sytuację polskiego aktora tamtych lat: prawdziwie między
     summary: 'Wielkanoc obchodzono uroczyście mimo oficjalnej ateizacji; ze święconką, wielkanocnym śniadaniem i lanym poniedziałkiem (śmigus-dyngus).',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/%C5%9Awi%C4%99conka.jpg?width=800',
     imageCaption: 'Święconka – koszyczek wielkanocny',
-    content: `## Święto poza kalendarzem państwa
-Wielkanoc była najważniejszym świętem religijnym, a jednocześnie dniem, którego państwo nie obchodziło. Poniedziałek wielkanocny przez większość okresu PRL nie był dniem wolnym od pracy – przywrócono go dopiero w 1981 roku.
+    content: `## Święto w kalendarzu
+Wielkanoc była najważniejszym świętem religijnym i państwo nie odważyło się jej ruszyć. Ustawa z 18 stycznia 1951 roku o dniach wolnych od pracy zniosła siedem świąt, m.in. Wniebowstąpienie i 3 maja, ale zachowała oba dni Wielkiej Nocy. W 1960 roku skreślono kolejne: Trzech Króli i Wniebowzięcie. Poniedziałek wielkanocny pozostał dniem wolnym przez cały okres PRL.
+
+## Wielka Sobota w pracy
+Do 1972 roku obowiązywał sześciodniowy tydzień pracy i każda sobota była dniem roboczym – także Wielka Sobota, w którą święci się pokarmy. Wolne soboty wprowadzano stopniowo w latach 1972–1974 i w 1981 roku.
+
+## Święconka na nowych ziemiach
+Święcenie pokarmów było w Polsce zwyczajem powszechnym, ale na ziemiach przyłączonych po wojnie prawie go nie znano. Przynieśli je tam przesiedleńcy z centralnej Polski. Na Śląsku święconka upowszechniła się dopiero na przełomie lat 70. i 80.
 
 ## Przygotowania
-Świąteczne zakupy oznaczały polowanie na produkty reglamentowane: mięso na wędliny, drożdże, cukier, bakalie. Wypiekano w domu, bo ciasta w sklepach praktycznie nie było, a przepisy przekazywano w rodzinie.
-
-## Święcenie pokarmów
-Święconka i procesja rezurekcyjna były demonstracją przywiązania do tradycji w przestrzeni publicznej. Dla nauczycieli, milicjantów czy urzędników udział w nich bywał odnotowywany i mógł zaszkodzić w pracy.
+W latach niedoborów świąteczne zakupy oznaczały kolejki po mięso, wędliny, cukier i bakalie. Piekło się w domu – babkę drożdżową i mazurki – a przepisy przekazywano w rodzinie. Śniadanie wielkanocne zaczynało się od dzielenia się poświęconym jajkiem.
 
 ## Lany poniedziałek
-Śmigus-dyngus był jednym z niewielu zwyczajów całkowicie wolnych od nadzoru: odbywał się na podwórkach, bez organizatora i bez akademii. Właśnie dlatego zachował ludowy, żywiołowy charakter przez cały okres PRL.`,
+Śmigus-dyngus był zwyczajem całkowicie oddolnym. Odbywał się na podwórkach i ulicach, bez organizatora i bez akademii, dlatego zachował żywiołowy charakter przez cały okres PRL.`,
     trivia: [
-      'Poniedziałek wielkanocny stał się dniem wolnym od pracy dopiero w 1981 roku.',
-      'Udział w procesji rezurekcyjnej bywał odnotowywany i mógł zaszkodzić nauczycielom czy urzędnikom.',
+      'Poniedziałek wielkanocny był dniem wolnym od pracy przez cały PRL – gwarantowała to ustawa z 1951 roku.',
+      'Do 1972 roku Wielka Sobota, jak każda sobota, była dniem roboczym.',
+      'Na Śląsku zwyczaj święconki upowszechnił się dopiero na przełomie lat 70. i 80.',
     ],
     resources: [
       {
@@ -30591,23 +30619,28 @@ Po oficjalnym pokazie film trafił do Cannes, gdzie Krystyna Janda otrzymała na
     subtitle: 'Filmy zatrzymane przez cenzurę',
     category: 'kultura',
     tags: ['film', 'cenzura', 'stan wojenny', 'kino', 'represje'],
-    yearStart: 1976,
+    yearStart: 1945,
     yearEnd: 1989,
     summary: 'Półkowniki to filmy, których rozpowszechnianie wstrzymała cenzura – kładziono je „na półkę”; najwięcej trafiło tam po wprowadzeniu stanu wojennego.',
     content: `## Skąd nazwa
-Półkownikami nazywano żartobliwie filmy zatrzymane przez cenzurę i odłożone – dosłownie – na półkę. Słowo powstało z gry na wyrazie pułkownik i oddawało ironiczny stosunek środowiska do tej praktyki.
+Półkownikami nazywano filmy, których rozpowszechnianie zablokowała cenzura. Nazwa to satyryczna gra słów: zatrzymane taśmy odkładano na półki magazynów. Określenie dotyczyło zarówno filmów fabularnych, jak i dokumentalnych.
 
-## Kiedy
-Zjawisko istniało przez cały okres PRL, ale kulminacja przypadła na lata po wprowadzeniu stanu wojennego. Filmy zrealizowane w latach 1980–1981, w okresie legalnej Solidarności, po grudniu 1981 nie miały szans na premierę.
+## Od pierwszych lat PRL
+Zjawisko jest tak stare jak Polska Ludowa. Za pierwszy półkownik uważa się krótki film Antoniego Bohdziewicza „2 × 2 = 4” z 1945 roku, który nigdy nie wszedł na ekrany. Na półkę trafiały potem m.in. „Ósmy dzień tygodnia” Aleksandra Forda (1958, 25 lat), „Ręce do góry” Jerzego Skolimowskiego (1967, 18 lat) i „Diabeł” Andrzeja Żuławskiego (1972, 16 lat).
 
-## Które
-Na półce znalazły się m.in. „Przesłuchanie” Ryszarda Bugajskiego, „Matka Królów” Janusza Zaorskiego, „Kobieta samotna” Agnieszki Holland i „Wielki bieg” Jerzego Domaradzkiego. Serial „Alternatywy 4” Barei czekał na emisję trzy lata.
+## Zakaz mówienia
+W 1975 roku Główny Urząd Kontroli Prasy, Publikacji i Widowisk zakazał publikowania jakichkolwiek informacji o wstrzymanych filmach – także recenzji i postulatów, by pokazać je w kinach. Półkowniki miały zniknąć nie tylko z ekranów, ale i z rozmowy o kinie.
+
+## Po 13 grudnia
+Największa fala przyszła po wprowadzeniu stanu wojennego. Na półkę trafiły filmy nakręcone w czasach legalnej Solidarności, wiele z nich w Zespole Filmowym „X” Andrzeja Wajdy: „Przesłuchanie” Ryszarda Bugajskiego, „Matka Królów” Janusza Zaorskiego i „Wielki bieg” Jerzego Domaradzkiego. Zatrzymano też „Kobietę samotną” Agnieszki Holland i „Przypadek” Krzysztofa Kieślowskiego. Serial „Alternatywy 4” Barei, ukończony w 1983 roku, wyemitowano dopiero w 1986.
 
 ## Uwolnienie
-Większość zatrzymanych tytułów pokazano dopiero w drugiej połowie lat 80., gdy system tracił pewność siebie. Fala premier w latach 1987–1988 była sama w sobie sygnałem politycznym – władza przestawała wierzyć, że warto te filmy zatrzymywać.`,
+„Matka Królów” i „Wielki bieg” weszły na ekrany w 1987 roku, podobnie jak „Przypadek”. „Przesłuchanie” dopuszczono do kin dopiero 13 grudnia 1989 roku – wcześniej krążyło w podziemnym obiegu. Fala spóźnionych premier pod koniec lat 80. była sygnałem, że władza przestaje wierzyć w sens zatrzymywania tych filmów.`,
     trivia: [
-      'Nazwa to gra słów: film odłożony na półkę zostawał „półkownikiem”.',
-      'Fala premier zatrzymanych filmów w latach 1987–1988 była sama w sobie sygnałem, że system słabnie.',
+      'Za pierwszy półkownik uchodzi film „2 × 2 = 4” z 1945 roku, który nigdy nie trafił na ekrany.',
+      '„Ósmy dzień tygodnia” Aleksandra Forda przeleżał na półce 25 lat.',
+      'Od 1975 roku cenzura zakazywała nawet pisania o zatrzymanych filmach.',
+      '„Przesłuchanie” przyczyniło się do rozwiązania Zespołu Filmowego „X”, a do kin trafiło 13 grudnia 1989 roku.',
     ],
     resources: [
       {
@@ -32305,20 +32338,24 @@ Podczas VIII Plenum w październiku 1956 roku jego pozostanie w Polsce stało si
     summary: 'Architekt i pierwszy powojenny prezydent Warszawy, więziony w latach 1950–1956, później marszałek Polski i przewodniczący Rady Państwa.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Spychalski_Marian.jpg?width=800',
     imageCaption: 'Marian Spychalski w latach 40.',
-    content: `## Architekt
-Marian Spychalski (1906–1980) był z wykształcenia architektem i to zdecydowało o jego pierwszej powojennej roli: jako prezydent Warszawy w latach 1944–1945 powołał Biuro Organizacji Odbudowy Warszawy, przekształcone następnie w Biuro Odbudowy Stolicy.
+    content: `## Architekt i konspirator
+Marian Spychalski (1906–1980) urodził się w Łodzi. Był architektem i działaczem komunistycznym – od 1933 roku pracował w wydziale planowania zabudowy Poznania. W czasie okupacji należał do kierownictwa PPR i kierował Oddziałem II (wywiadem) Sztabu Głównego Armii Ludowej, a od stycznia 1944 roku zasiadał w Krajowej Radzie Narodowej.
 
-## Więzienie
-W 1950 roku został aresztowany w ramach rozprawy z tak zwanym odchyleniem prawicowo-nacjonalistycznym, wymierzonej w środowisko Władysława Gomułki. Spędził w więzieniu sześć lat, poddawany brutalnemu śledztwu. Wyszedł w 1956 roku, wraz z odwilżą.
+## Prezydent Warszawy
+Od września 1944 roku był prezydentem Warszawy z ramienia PKWN. W 1945 roku założył Biuro Organizacji Odbudowy Warszawy, przekształcone w Biuro Odbudowy Stolicy, i postawił na jego czele prof. Jana Zachwatowicza. W tym samym roku dwukrotnie awansował na generała. Do 1949 roku był wiceministrem obrony narodowej i z ramienia PPR faktycznie nadzorował swojego formalnego zwierzchnika, Michała Żymierskiego.
+
+## Oskarżenie i więzienie
+W listopadzie 1949 roku oskarżono go o odchylenie prawicowo-nacjonalistyczne i odsunięto od stanowisk. Pracował wtedy jako architekt przy odbudowie Wrocławia. 13 maja 1950 roku został aresztowany. Przesłuchiwany codziennie przez wiele godzin, złożył wymuszone przyznanie, które w listopadzie 1950 roku odwołał. Bierut chciał procesu, ale w styczniu 1956 roku Biuro Polityczne się temu sprzeciwiło. Spychalski wyszedł na wolność 9 marca 1956 roku na mocy amnestii, bez procesu i wyroku.
 
 ## Powrót na szczyt
-Po Październiku wrócił do kierownictwa: minister obrony narodowej w latach 1956–1968, marszałek Polski, a następnie przewodniczący Rady Państwa w latach 1968–1970.
+Zarzuty anulowało VII Plenum KC PZPR w lipcu 1956 roku. Po Październiku Spychalski należał do najbliższych współpracowników Gomułki. Od listopada 1956 do 1968 roku był ministrem obrony narodowej, a 7 października 1963 roku otrzymał stopień marszałka Polski – jako ostatnia osoba w historii. W latach 1968–1970 był przewodniczącym Rady Państwa.
 
 ## Odsunięcie
-Stracił stanowiska po grudniu 1970 roku, wraz z ekipą Gomułki. Jego biografia – od odbudowy stolicy przez więzienie po najwyższe godności – pokazuje, jak gwałtownie zmieniały się w PRL losy ludzi z tego samego kręgu władzy.`,
+W 1970 roku, podczas wizyty w Pakistanie, przeżył zamach na lotnisku w Karaczi. Ciężarówka wjechała w szpaler witających i zabiła cztery osoby, w tym wiceministra spraw zagranicznych Zygfryda Wolniaka. Po grudniu 1970 roku Spychalskiego odsunięto od władzy razem z ekipą Gomułki. Zmarł 7 czerwca 1980 roku w Warszawie.`,
     trivia: [
-      'Powołał instytucję, z której powstało Biuro Odbudowy Stolicy, a pięć lat później trafił do więzienia.',
-      'W więzieniu spędził sześć lat, po czym wrócił na stanowisko ministra obrony narodowej.',
+      'Był ostatnią osobą, której nadano stopień marszałka Polski (7 października 1963).',
+      'Z więzienia wyszedł w marcu 1956 roku na mocy amnestii – bez procesu i bez wyroku.',
+      'W 1970 roku przeżył zamach na lotnisku w Karaczi, w którym zginęły cztery osoby.',
     ],
     resources: [
       {
@@ -33856,7 +33893,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1981, event: 'Zamach na Jana Pawła II na placu św. Piotra (13 maja)', category: 'społeczeństwo', entryId: 'zamach-na-jp2' },
   { year: 1945, event: 'Proces szesnastu w Moskwie – sąd nad przywódcami Polski Podziemnej', category: 'represje', entryId: 'proces-szesnastu' },
   { year: 1945, event: 'Obława augustowska – „mały Katyń”, zaginięcie ok. 600 osób', category: 'represje', entryId: 'oblawa-augustowska' },
-  { year: 1950, event: 'Reforma walutowa – wymiana pieniędzy okrada oszczędności Polaków', category: 'gospodarka', entryId: 'wymiana-pieniedzy-1950' },
+  { year: 1950, event: 'Reforma walutowa – gotówkę wymieniono 100 do 1, płace i ceny przeliczono 100 do 3', category: 'gospodarka', entryId: 'wymiana-pieniedzy-1950' },
   { year: 1953, event: 'Stracenie gen. Emila Fieldorfa „Nila”', category: 'represje', entryId: 'fieldorf-nil' },
   { year: 1957, event: 'Debiut komiksu „Tytus, Romek i A’Tomek” Papcia Chmiela', category: 'kultura', entryId: 'komiks-prl' },
   { year: 1980, event: 'Bronisław Malinowski zdobywa złoto olimpijskie w Moskwie (3000 m z przeszkodami)', category: 'społeczeństwo', entryId: 'malinowski-bronislaw' },
@@ -33925,7 +33962,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1958, event: 'Premiera „Popiołu i diamentu” Andrzeja Wajdy', category: 'kultura', entryId: 'popiol-i-diament' },
   { year: 1975, event: 'Premiera „Nocy i dni” Jerzego Antczaka – nominacja do Oscara', category: 'kultura', entryId: 'noce-i-dnie' },
   { year: 1984, event: 'Debiut Wandy i Bandy – przebój „Hi-Fi”', category: 'kultura', entryId: 'wanda-i-banda' },
-  { year: 1975, event: 'Premiera „Ziemi obiecanej” Andrzeja Wajdy – nominacja do Oscara', category: 'kultura', entryId: 'ziemia-obiecana' },
+  { year: 1975, event: 'Premiera „Ziemi obiecanej” Andrzeja Wajdy – Złota Nagroda festiwalu w Moskwie, rok później nominacja do Oscara', category: 'kultura', entryId: 'ziemia-obiecana' },
   { year: 1976, event: 'Jacek Wszoła zdobywa złoto olimpijskie w skoku wzwyż (Montreal)', category: 'społeczeństwo', entryId: 'jacek-wszola' },
   { year: 1976, event: 'Debiut Hanny Banaszak w koncercie „Debiuty” na festiwalu w Opolu', category: 'kultura', entryId: 'hanna-banaszak' },
   { year: 1982, event: 'Premiera „Znachora” Jerzego Hoffmana', category: 'kultura', entryId: 'znachor' },
@@ -33939,7 +33976,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1987, event: 'Andrzej Zaucha – przebój „C\'est la vie – Paryż z pocztówki”', category: 'kultura', entryId: 'andrzej-zaucha' },
   { year: 1963, event: '„Kusza” – pierwszy film z Bolkiem i Lolkiem (Studio Filmów Rysunkowych)', category: 'kultura', entryId: 'bolek-i-lolek' },
   { year: 1967, event: 'Debiut kreskówki „Reksio”', category: 'kultura', entryId: 'reksio' },
-  { year: 1971, event: 'Krzysztof Klenczon zakłada Trzy Korony po odejściu z Czerwonych Gitar', category: 'kultura', entryId: 'krzysztof-klenczon' },
+  { year: 1970, event: 'Krzysztof Klenczon zakłada Trzy Korony po odejściu z Czerwonych Gitar', category: 'kultura', entryId: 'krzysztof-klenczon' },
   { year: 1984, event: 'Andrzej Grubba w światowej czołówce tenisa stołowego', category: 'społeczeństwo', entryId: 'andrzej-grubba' },
   { year: 1962, event: 'Premiera „Noża w wodzie” – debiut Polańskiego, nominacja do Oscara', category: 'kultura', entryId: 'noz-w-wodzie' },
   { year: 1972, event: 'Debiut serialu „Dziwny świat kota Filemona” ze studia Se-Ma-For', category: 'kultura', entryId: 'filemon-kot' },
@@ -33991,7 +34028,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1963, event: 'Debiut telewizyjny duetu Marek i Wacek', category: 'kultura', entryId: 'marek-i-vacek' },
   { year: 1963, event: 'Premiera „Jak być kochaną” Wojciecha Hasa', category: 'kultura', entryId: 'jak-byc-kochana' },
   { year: 1966, event: 'Pola Raksa jako Marusia w „Czterech pancernych i psie”', category: 'kultura', entryId: 'pola-raksa' },
-  { year: 1958, event: 'Pierwszy festiwal Jazz Jamboree w Warszawie', category: 'kultura', entryId: 'jazz-jamboree' },
+  { year: 1958, event: 'Pierwszy festiwal Jazz Jamboree („Jazz 58”) w warszawskiej Stodole', category: 'kultura', entryId: 'jazz-jamboree' },
   { year: 1965, event: 'Premiera „Salta” Tadeusza Konwickiego', category: 'kultura', entryId: 'salto' },
   { year: 1970, event: 'Tomasz Stańko nagrywa „Music for K” – pamięci Komedy', category: 'kultura', entryId: 'tomasz-stanko' },
   { year: 1982, event: 'Antoni Piechniczek prowadzi Polskę po 3. miejsce na mundialu', category: 'społeczeństwo', entryId: 'antoni-piechniczek' },
@@ -34006,6 +34043,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1975, event: 'Wojciech Pszoniak jako Moryc Welt w „Ziemi obiecanej”', category: 'kultura', entryId: 'wojciech-pszoniak' },
   { year: 1981, event: 'Ukończenie „Kobiety samotnej” Agnieszki Holland – film trafia na półkę', category: 'kultura', entryId: 'kobieta-samotna' },
   { year: 1982, event: 'Odwołany festiwal w Gdańsku – rocznik filmów trafia na półki', category: 'kultura', entryId: 'polkowniki' },
+  { year: 1975, event: 'Cenzura zakazuje publikowania jakichkolwiek informacji o zatrzymanych filmach', category: 'kultura', entryId: 'polkowniki' },
   { year: 1982, event: '„Przesłuchanie” Bugajskiego zatrzymane przez cenzurę na siedem lat', category: 'kultura', entryId: 'przesluchanie' },
   { year: 1987, event: 'Premiera „Matki Królów” po pięciu latach na półce', category: 'kultura', entryId: 'matka-krolow' },
   { year: 1942, event: 'Powstanie Polskiej Partii Robotniczej', category: 'polityka', entryId: 'ppr' },
@@ -34172,6 +34210,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1954, event: 'Audycje Józefa Światły w Radiu Wolna Europa ujawniają metody bezpieki', category: 'osoby', entryId: 'swiatlo' },
   { year: 1949, event: 'Konstanty Rokossowski ministrem obrony narodowej i marszałkiem Polski', category: 'osoby', entryId: 'rokossowski' },
   { year: 1950, event: 'Marian Spychalski aresztowany w rozprawie z odchyleniem prawicowo-nacjonalistycznym', category: 'osoby', entryId: 'spychalski' },
+  { year: 1963, event: 'Marian Spychalski marszałkiem Polski – ostatnim w historii', category: 'osoby', entryId: 'spychalski' },
   { year: 1976, event: 'Premier Jaroszewicz ogłasza podwyżkę cen; odwołana po protestach', category: 'osoby', entryId: 'jaroszewicz' },
   { year: 1980, event: 'Stanisław Kania I sekretarzem KC PZPR po Edwardzie Gierku', category: 'osoby', entryId: 'kania' },
   { year: 1945, event: 'Gen. Okulicki rozwiązuje Armię Krajową, a w marcu zostaje podstępnie aresztowany', category: 'osoby', entryId: 'okulicki' },
