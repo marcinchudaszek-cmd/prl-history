@@ -13851,21 +13851,25 @@ Breakout rozwiązano w 1982 roku, a Nalepa grał dalej solo aż do śmierci. Bez
     yearStart: 1960,
     yearEnd: 1989,
     summary: 'Nurt łączący muzykę z poezją, ważny dla niezależnej kultury PRL, reprezentowany przez Jacka Kaczmarskiego, Przemysława Gintrowskiego i Piwnicę pod Baranami.',
-    content: `## Idea
-Poezja śpiewana to gatunek łączący wartościowy tekst poetycki z muzyką, w którym słowo jest równie ważne jak melodia. W PRL nurt ten stał się przestrzenią ambitnej, niezależnej twórczości.
-
-## Twórcy
-Do najważniejszych wykonawców należeli Ewa Demarczyk, Marek Grechuta, Jacek Kaczmarski, Przemysław Gintrowski, Jacek Kleyff oraz środowisko krakowskiej Piwnicy pod Baranami.
+    content: `## Czym jest
+Poezja śpiewana to gatunek słowno-muzyczny, w którym śpiewa się wiersz wysokiej próby, zwykle nie pisany z myślą o muzyce. Melodia ma podkreślać wagę tekstu, a aranżacja jest skromna – najczęściej gitara albo fortepian. Nazwę spopularyzował krytyk i językoznawca Andrzej „Ibis” Wróblewski. Granica między poezją śpiewaną a piosenką autorską, aktorską i studencką jest płynna.
 
 ## Piwnica pod Baranami
-Krakowski kabaret literacki Piwnica pod Baranami, kierowany przez Piotra Skrzyneckiego, był ważnym ośrodkiem poezji śpiewanej, łącząc ją z kabaretem i sztuką niezależną.
+Najważniejszym ośrodkiem nurtu był krakowski kabaret literacki Piwnica pod Baranami, oficjalnie otwarty 26 maja 1956 roku. Założył go Piotr Skrzynecki z grupą studentów, wśród których był m.in. Krzysztof Penderecki. W latach 60. Ewa Demarczyk i kompozytor Zygmunt Konieczny rozsławili Piwnicę w całej Polsce. Występował tam też śpiewający poeta Leszek Długosz.
 
-## Funkcja społeczna
-W czasach cenzury poezja śpiewana pozwalała przemycać treści niewygodne dla władz poprzez metaforę i odwołania do wielkiej literatury. Koncerty często odbywały się w kościołach i klubach studenckich.
+## Festiwale
+Od 1962 roku w Krakowie odbywał się Studencki Festiwal Piosenki. W pierwszej edycji drugie miejsce zajęła Ewa Demarczyk. W latach 1968, 1971 i 1982 festiwal się nie odbył z powodu wydarzeń politycznych. Od 1974 roku w Olsztynie organizowano Spotkania Zamkowe „Śpiewajmy Poezję”, a od 1978 w Warszawie Ogólnopolski Przegląd Piosenki Autorskiej.
+
+## Twórcy
+Do najważniejszych wykonawców należeli Ewa Demarczyk, Marek Grechuta, Leszek Długosz i Magda Umer. Z poezją śpiewaną łączy się określenie „kraina łagodności”, zaczerpnięte z wierszy Jerzego Harasymowicza. Nawiązywali do niej m.in. Wojciech Belon, Elżbieta Adamiak i Przemysław Gintrowski. Pod koniec lat 70. na scenę weszli bardowie, tacy jak Jacek Kaczmarski i Gintrowski, dla których piosenka stała się komentarzem do rzeczywistości.
 
 ## Znaczenie
-Nurt ten stanowił istotny element kultury niezależnej, kształtując wrażliwość kolejnych pokoleń i tworząc most między muzyką a literaturą.`,
-    trivia: ['Wiersze śpiewano głównie w klubach studenckich.', 'Nurt dał scenę m.in. Markowi Grechucie i Ewie Demarczyk.'],
+W kulturze pod nadzorem cenzury wiersz śpiewany w klubie studenckim pozwalał mówić metaforą i odwołaniem do wielkiej literatury. Nurt kształtował wrażliwość kolejnych pokoleń i budował most między estradą a poezją.`,
+    trivia: [
+      'Nazwę „poezja śpiewana” spopularyzował krytyk Andrzej „Ibis” Wróblewski.',
+      'Wśród założycieli Piwnicy pod Baranami był młody Krzysztof Penderecki.',
+      'W pierwszym Studenckim Festiwalu Piosenki w 1962 roku Ewa Demarczyk zajęła drugie miejsce.',
+    ],
     resources: [
       {
         id: 'ps-yt2',
@@ -14901,24 +14905,29 @@ Do polskich księgarń wrócił w pełni dopiero po 1989 roku. Jego świadectwo 
     tags: ['represje', 'opozycja', 'protest', 'ofiara'],
     yearStart: 1968,
     yearEnd: 1968,
-    summary: 'Były żołnierz AK, który w 1968 roku dokonał samospalenia w proteście przeciw udziałowi LWP w inwazji na Czechosłowację – pierwszy taki akt w bloku wschodnim.',
+    summary: 'Były żołnierz AK, który w 1968 roku dokonał samospalenia w proteście przeciw udziałowi LWP w inwazji na Czechosłowację – pół roku przed Janem Palachem.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/05850_Sanok_03.05.2011.jpg?width=800',
-    imageCaption: 'Upamiętnienie Ryszarda Siwca w jego rodzinnym Sanoku (fot. współczesna)',
+    imageCaption: 'Plansza o Ryszardzie Siwcu na wystawie IPN przed kościołem Przemienienia Pańskiego w Sanoku, 2011',
     content: `## Sylwetka
-Ryszard Siwiec (1909–1968) był księgowym, byłym żołnierzem Armii Krajowej, ojcem pięciorga dzieci. Głęboko przeżywał zniewolenie Polski i krajów bloku wschodniego.
+Ryszard Siwiec (1909–1968) urodził się w Dębicy. Ukończył filozofię na Uniwersytecie Jana Kazimierza we Lwowie, a w czasie wojny należał do Armii Krajowej. Po wojnie odmówił pracy w szkole, bo nie chciał uczestniczyć w indoktrynacji młodzieży, i został księgowym w Przemyślu. Był katolikiem, ojcem pięciorga dzieci. Przez lata pisał na maszynie i powielał ulotki, które podpisywał „Jan Polak”.
 
 ## Protest
-8 września 1968 roku, podczas dożynek na Stadionie Dziesięciolecia w Warszawie, w obecności tysięcy widzów i władz partyjnych, dokonał samospalenia w proteście przeciw udziałowi wojsk Układu Warszawskiego w inwazji na Czechosłowację.
+Udział polskich wojsk w inwazji na Czechosłowację przekonał go, że trzeba wstrząsnąć sumieniem rodaków. Przed wyjazdem do Warszawy sporządził testament i nagrał na taśmę antykomunistyczne przesłanie. 8 września 1968 roku, podczas dożynek na Stadionie Dziesięciolecia, w obecności władz PZPR, dyplomatów i ok. 100 tys. widzów, rozrzucił ulotki, oblał się rozpuszczalnikiem i podpalił. Płonąc, krzyczał „Protestuję!” i nie pozwalał gasić ognia.
 
 ## Przemilczenie
-Władze natychmiast zatuszowały wydarzenie. Siwiec zmarł kilka dni później w szpitalu, a jego czyn przez lata pozostawał niemal nieznany w Polsce, wymazany przez cenzurę.
+Zmarł cztery dni później, 12 września 1968 roku, w Szpitalu Praskim – oparzenia objęły ponad 85% ciała. Oficjalne media przemilczały jego protest. SB wmawiała świadkom, że był niezrównoważony psychicznie, i rozpuszczała plotki podczas jego pogrzebu w Przemyślu. List pożegnalny do żony, napisany w pociągu, SB przechwyciła na poczcie – dotarł do adresatki dopiero po 22 latach.
+
+## Siwiec i Palach
+Pół roku później w Pradze podpalił się student Jan Palach. Najpewniej nie wiedział o Siwcu: pierwszą informację o jego czynie nadało Radio Wolna Europa dopiero w kwietniu 1969 roku, niemal cztery miesiące po śmierci Palacha.
 
 ## Pamięć
-Dopiero po latach, m.in. dzięki czeskim dokumentalistom i odzyskanym nagraniom, jego ofiara została przypomniana. Stał się symbolem indywidualnego sprzeciwu sumienia.
-
-## Znaczenie
-Protest Siwca – wcześniejszy niż głośne samospalenie Jana Palacha w Pradze – jest dziś upamiętniany jako akt heroicznej odwagi i moralnego świadectwa.`,
-    trivia: ['Podpalił się w 1968 roku w proteście przeciw inwazji na Czechosłowację.', 'Jego czyn przemilczano; ocalało jednak nagranie filmowe.'],
+Postać Siwca przywrócił zbiorowej pamięci dopiero film Macieja Drygasa „Usłyszcie mój krzyk” z 1991 roku, w którym wykorzystano utajnione wcześniej zdjęcia Polskiej Kroniki Filmowej. W 2001 roku prezydent Czech Václav Havel przyznał mu pośmiertnie Order Tomáša Garrigue Masaryka, a w 2009 roku Sejm podjął uchwałę upamiętniającą. Jego imię nosi ulica w Pradze, przy której działa czeski Instytut Badania Reżimów Totalitarnych, oraz ulica przy Stadionie Narodowym w Warszawie.`,
+    trivia: [
+      'Ulotki, które przez lata pisał na maszynie, podpisywał „Jan Polak”.',
+      'List pożegnalny do żony przechwyciła SB – dotarł do niej po 22 latach.',
+      'Jan Palach najpewniej nie wiedział o jego proteście – RWE podało informację dopiero w kwietniu 1969.',
+      'Pamięć o nim przywrócił film Macieja Drygasa „Usłyszcie mój krzyk” (1991).',
+    ],
     resources: [
       {
         id: 'siw-1',
@@ -24469,19 +24478,23 @@ Za praniem stała konkretna praca, wykonywana niemal wyłącznie przez kobiety, 
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/PapaDance-9316.jpg?width=800',
     imageCaption: 'Papa Dance (fot. współczesna)',
     content: `## Projekt producencki
-Papa Dance powstało w 1984 roku z inicjatywy producentów Sławomira Wesołowskiego i Mariusza Zabrodzkiego. Nie był to zespół w tradycyjnym rozumieniu, lecz projekt – muzykę i teksty pisali producenci, a wokalistów wymieniano.
+Papa Dance założyli w sierpniu 1984 roku producenci Sławomir Wesołowski i Mariusz Zabrodzki, którzy działali pod wspólnym pseudonimem Adam Patoh. Zespół zaczynał jako eksperyment studyjny: pierwsze piosenki, „W 40 dni dookoła świata” i „Ordynarny faul”, nagrali z wokalistą Grzegorzem Wawrzyszakiem w studiu Programu III Polskiego Radia. Muzyków do teledysków i koncertów dobierano później.
 
-## Brzmienie
-Grupa grała synthpop wzorowany na tym, co działo się wtedy w Europie Zachodniej: syntezatory, automat perkusyjny, chwytliwe refreny. Było to świadome przeniesienie zachodniej formuły na polski grunt.
+## Nazwa i cenzura
+Grupa miała się pierwotnie nazywać Papa Dock. Cenzura skojarzyła to jednak z przydomkiem haitańskiego dyktatora François Duvaliera, „Papa Doc”. Zachowano więc inicjały i zmieniono nazwę na Papa Dance.
 
-## Popularność
-Największe przeboje przypadły na drugą połowę lat 80., gdy wokalistą był Paweł Stasiak. Zespół stał się zjawiskiem masowym wśród nastolatków, z całą towarzyszącą temu oprawą: plakatami, strojami i fryzurami.
+## Przeboje
+Pierwszy skład z Wawrzyszakiem nagrał jeszcze m.in. „Kamikaze wróć” i „Pocztówkę z wakacji”. W 1986 roku wokalistą został Paweł Stasiak. „Naj story” jako jedyna piosenka zespołu zajęła pierwsze miejsce na Liście Przebojów Programu III. Na festiwalu w Opolu zespół wygrywał głosowanie publiczności: w 1987 roku z „Maxi singlem”, a w 1988 z „Naszym Disneylandem”.
+
+## Idol nastolatków
+Od końca 1986 roku zespół grał w składzie wzbogaconym o gitary i szybko stał się idolem nastoletniej publiczności. Wydał płyty „Poniżej krytyki” (1987) i „Nasz ziemski Eden” (1989). Koncertował w Związku Radzieckim, a na koncert w Moskwie przyszło 120 tys. widzów. W 1990 roku zawiesił działalność.
 
 ## Spór o ocenę
-Krytyka traktowała Papa Dance lekceważąco jako muzykę komercyjną. Z perspektywy czasu widać w tym jednak coś istotnego: to była pierwsza polska muzyka młodzieżowa zbudowana od początku jako produkt rynkowy – w kraju, w którym rynku jeszcze nie było.`,
+Krytyka traktowała Papa Dance jako muzykę czysto komercyjną. Z perspektywy czasu widać w tym coś istotnego: była to polska muzyka młodzieżowa zbudowana od początku jak produkt – z producentami w roli autorów i wymiennymi wokalistami – w kraju, w którym rynku muzycznego w zachodnim sensie jeszcze nie było.`,
     trivia: [
-      'Nie był to zespół w tradycyjnym sensie, lecz projekt producencki z wymienialnymi wokalistami.',
-      'To pierwsza polska muzyka młodzieżowa zbudowana jako produkt rynkowy – w kraju bez rynku.',
+      'Zespół miał się nazywać Papa Dock, ale cenzura skojarzyła to z haitańskim dyktatorem „Papa Doc” Duvalierem.',
+      'Założyciele działali pod wspólnym pseudonimem Adam Patoh.',
+      'Na koncert Papa Dance w Moskwie przyszło 120 tys. widzów.',
     ],
     resources: [
       {
@@ -25703,19 +25716,24 @@ To rzadki przypadek artysty PRL, którego dorobek doceniono ponownie za jego ży
     yearStart: 1984,
     summary: 'Muzyczna baśń filmowa Krzysztofa Gradowskiego (1984) wg Jana Brzechwy, z Piotrem Fronczewskim jako Panem Kleksem; hit obejrzany przez ponad 10 mln widzów.',
     content: `## Film
-„Akademia pana Kleksa” Krzysztofa Gradowskiego, zrealizowana w 1983 roku i pokazana rok później, to muzyczna baśń filmowa według Jana Brzechwy, zrealizowana jako koprodukcja polsko-radziecka. Powstała w dwóch częściach.
+„Akademia pana Kleksa” Krzysztofa Gradowskiego to muzyczna baśń filmowa według książki Jana Brzechwy, nakręcona w 1983 roku jako koprodukcja Zespołu Filmowego „Zodiak” z radziecką wytwórnią im. Gorkiego. Składa się z dwóch części: „Przygody księcia Mateusza” i „Tajemnicy Golarza Filipa”. Premiera odbyła się 30 stycznia 1984 roku w Pałacu Kultury i Nauki.
 
-## Forma
-Film łączy grę aktorską, animację i teatr kukiełkowy, a jego siłą jest warstwa muzyczna Andrzeja Korzyńskiego. Piosenki z filmu weszły do repertuaru dziecięcego na trwałe.
+## Droga do realizacji
+Gradowski chciał nakręcić ten film już w latach 70., ale eskapistyczny projekt nie miał wtedy poparcia decydentów. Sytuacja zmieniła się na początku lat 80., gdy władzy zależało na odwróceniu uwagi widzów od bieżących konfliktów. Warunkiem budżetu były muzyczne interpretacje wierszy Brzechwy. Produkcja kosztowała ponad 78 mln złotych, a radzieckie wytwórnie hojnie ją dofinansowały.
 
-## Piotr Fronczewski
-Rolę Ambrożego Kleksa zagrał Piotr Fronczewski i to jego kreacja przesądziła o powodzeniu całości. Postać dziwaka rządzącego własnym światem według absurdalnych reguł trafiła w wyobraźnię dzieci dokładnie tak, jak zamierzył to Brzechwa.
+## Pan Kleks i plenery
+Rolę Ambrożego Kleksa miał początkowo zagrać Jan Kobuszewski, ale reżyser wybrał Piotra Fronczewskiego, którego codziennie charakteryzowano sztuczną brodą i włosami. W uczniów Akademii wcielili się uczniowie szkół muzycznych. Filmową Akademią był pałac w Nieborowie, a zdjęcia kręcono też m.in. w Arkadii, w Łodzi i na Krymie.
 
-## Kontekst
-Film powstał w latach, w których kino dla dzieci było jedną z niewielu dziedzin wolnych od bieżącej polityki. Sukces frekwencyjny i nagrody sprawiły, że powstały kolejne części, a sam Kleks stał się jedną z najbardziej rozpoznawalnych postaci polskiej kultury dziecięcej.`,
+## Muzyka
+Muzykę skomponował Andrzej Korzyński, z wyjątkiem „Marszu wilków” zespołu TSA. Piosenki powstały do wierszy Brzechwy i tekstów samego Gradowskiego, a płyta z nimi ukazała się w 1983 roku.
+
+## Sukces
+W samym 1984 roku film obejrzało ponad 10,8 mln widzów, a do końca rozpowszechniania – 14 mln. Po płyty z piosenkami ustawiały się kolejki. Film nagrodzono m.in. na festiwalu w Moskwie, był też bardzo popularny w Indiach. Doczekał się kontynuacji: „Podróży pana Kleksa” (1985) i „Pana Kleksa w kosmosie” (1988).`,
     trivia: [
-      'Film łączy grę aktorską, animację i teatr kukiełkowy w jednej opowieści.',
-      'Rolę Ambrożego Kleksa zagrał Piotr Fronczewski, a piosenki napisał Andrzej Korzyński.',
+      'Rolę pana Kleksa miał pierwotnie zagrać Jan Kobuszewski.',
+      'Filmową Akademią był pałac w Nieborowie.',
+      '„Marsz wilków” w filmie to utwór zespołu TSA.',
+      'W samym 1984 roku film obejrzało ponad 10,8 mln widzów.',
     ],
     resources: [
       {
@@ -27880,25 +27898,30 @@ Zginął 17 sierpnia 1998 roku w wypadku samochodowym pod Przybiernowem. W tym s
     subtitle: 'Książę naturszczyków',
     category: 'osoby',
     tags: ['film', 'aktorstwo', 'literatura', 'kultura'],
-    yearStart: 1970,
+    yearStart: 1959,
     yearEnd: 1988,
     summary: 'Kamieniarz, aktor-naturszczyk, pisarz i scenarzysta; zasłynął rolą w „Rejsie” (1970) w kultowym duecie ze Zdzisławem Maklakiewiczem.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Himilsbach%20Polish%20actor.jpg?width=800',
     imageCaption: 'Jan Himilsbach – aktor-naturszczyk i pisarz.',
-    content: `## Kamieniarz
-Jan Himilsbach (1931–1988) z zawodu był kamieniarzem i nigdy nie ukończył szkoły aktorskiej. Do filmu trafił przypadkiem, a został w nim dzięki temu, czego nie dawało wykształcenie: absolutnej naturalności przed kamerą.
+    content: `## Biografia pełna zagadek
+Jan Himilsbach urodził się w 1931 roku w Mińsku Mazowieckim, ale nawet dzienną datę jego urodzin podaje się różnie. Sam świadomie mnożył wersje swojego życiorysu: udzielił ok. 700 wywiadów i za każdym razem dodawał nowe wątki. Jako szesnastolatek trafił do więzienia, a potem do zakładu poprawczego w Szubinie, gdzie poznał podstawy kamieniarstwa. Pracował też m.in. jako piekarz, ślusarz i palacz na statkach.
 
-## Rejs
-Rolą, która przesądziła o jego miejscu w polskiej kulturze, był „Rejs” Marka Piwowskiego (1970) – film w dużej części improwizowany, obsadzony amatorami. Dialogi z „Rejsu” weszły do języka potocznego i przez dziesięciolecia służyły jako skrót myślowy opisujący absurdy PRL.
+## Kamieniarz z Powązek
+Od 1956 roku przez wiele lat był kamieniarzem na warszawskich Powązkach. W 1975 roku pomógł zdobyć tam miejsce na grób dla sprowadzonego do kraju Marka Hłaski i sam wykuł napis na jego płycie nagrobnej.
 
 ## Pisarz
-Był też autorem opowiadań, pisanych językiem prostym i bez literackiego ozdobnika, opisujących świat, z którego pochodził. Tę część dorobku doceniono później niż role filmowe.
+Pierwszy wiersz opublikował w 1951 roku, a jako prozaik zadebiutował w 1959. Wydał trzy tomy opowiadań: „Monidło” (1967), „Przepychankę” (1974) i „Łzy sołtysa” (1982). Pisał o ludziach z marginesu, wśród których dorastał. Na podstawie jego tekstów i scenariuszy powstały m.in. „Monidło” (1969), „Wniebowzięci” (1973, wspólnie z Andrzejem Kondratiukiem) i „Przyjęcie na dziesięć osób plus trzy” (1973).
+
+## Aktor naturszczyk
+Najbardziej znaną rolę zagrał w „Rejsie” Marka Piwowskiego (1970). Jego dialog z inżynierem Mamoniem, granym przez Zdzisława Maklakiewicza, przeszedł do klasyki. W 1972 roku zdobył za tę rolę, ex aequo z Danielem Olbrychskim, Złotą Maskę czytelników „Expressu Wieczornego” – jedno z nielicznych wyróżnień za życia. Z powodu chrapliwego głosu i charakterystycznego wyglądu obsadzano go zwykle w epizodach ludzi z marginesu. Pod koniec kariery zdał eksternistycznie egzamin aktorski.
 
 ## Legenda
-Za życia stał się postacią anegdotyczną, a opowieści o nim krążyły w środowisku i poza nim. To zresztą charakterystyczne dla epoki: w kulturze poddanej cenzurze anegdota i ustny przekaz miały siłę, jakiej nie miały oficjalne biogramy.`,
+Był bohaterem niezliczonych anegdot, często przez siebie wymyślonych, i autorem złotych myśli powtarzanych do dziś. Zmarł w listopadzie 1988 roku w Warszawie. W 2013 roku jego imieniem nazwano rondo na Woli, a w 2015 roku obok powstał mural z kadrami filmów z nim i Maklakiewiczem.`,
     trivia: [
-      'Nie ukończył szkoły aktorskiej – z zawodu był kamieniarzem.',
-      'Dialogi z „Rejsu”, filmu w dużej części improwizowanego, weszły do języka potocznego.',
+      'Udzielił ok. 700 wywiadów i w każdym opowiadał swój życiorys trochę inaczej.',
+      'Jako kamieniarz z Powązek wykuł napis na nagrobku Marka Hłaski.',
+      'Za „Rejs” dostał Złotą Maskę ex aequo z Danielem Olbrychskim.',
+      'Większość kariery był naturszczykiem – egzamin aktorski zdał eksternistycznie dopiero pod jej koniec.',
     ],
     resources: [
       {
@@ -29830,7 +29853,7 @@ Słynna scena zbiorowego tańca – tytułowego salta – stała się jednym z n
   {
     id: 'kabaret-dudek',
     title: 'Kabaret Dudek',
-    subtitle: 'Sęk, szmonces i Dziewoński',
+    subtitle: 'Dziewoński, Młynarski i „Sęk”',
     category: 'kultura',
     tags: ['kabaret', 'satyra', 'telewizja', 'Warszawa'],
     yearStart: 1965,
@@ -29839,19 +29862,23 @@ Słynna scena zbiorowego tańca – tytułowego salta – stała się jednym z n
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tablica%20Kabaret%20Dudek.jpg?width=800',
     imageCaption: 'Tablica przy Nowym Świecie 63 w Warszawie, upamiętniająca m.in. Kabaret Dudek (fot. współczesna)',
     content: `## Scena przy Nowym Świecie
-Kabaret Dudek, założony i prowadzony przez Edwarda Dziewońskiego, zainaugurował działalność w styczniu 1965 roku. Występy odbywały się w kawiarni „Nowy Świat” w Warszawie – w warunkach kameralnych, przy stolikach.
+Kabaret „Dudek” założył i przez cały czas prowadził Edward Dziewoński. Pierwszy program, „Spotkajmy się na Nowym Świecie”, miał premierę 13 stycznia 1965 roku. Przedstawienia odbywały się w kawiarni „Nowy Świat” przy Nowym Świecie 63 w Warszawie, zawsze późnym wieczorem, bo aktorzy przychodzili tam po spektaklach we własnych teatrach. Nad sceną wisiał napis „Upupa epops” – łacińska nazwa dudka.
+
+## Gwiazdy i autorzy
+Filarem kabaretu była piątka: Irena Kwiatkowska, Edward Dziewoński, Wiesław Gołas, Jan Kobuszewski i Wiesław Michnikowski. Najczęściej grano teksty Wojciecha Młynarskiego i Stanisława Tyma. Do najsłynniejszych numerów należał „Sęk” Konrada Toma w wykonaniu Dziewońskiego i Michnikowskiego, a także „Ucz się, Jasiu” Tyma, znany też jako „Hydraulik”.
 
 ## Skala
-W ciągu dziesięciu lat działalności odbyło się około tysiąca przedstawień, na które złożyło się blisko dwieście skeczy, monologów i piosenek. Występowali tam czołowi aktorzy warszawskich scen, m.in. Wiesław Gołas i Jan Kobuszewski.
+Przez dziesięć lat odbyło się ok. 1000 przedstawień, na które złożyło się blisko 200 skeczy, monologów i piosenek. Kabaret jeździł też na występy dla Polonii – program „Playboyland” powstał po tournée po Stanach Zjednoczonych. Formalnie działał pod szyldem państwowej „Estrady”.
 
 ## Język aluzji
-Kabaret w PRL żył z tego, czego nie dawało się zapisać w zatwierdzonym tekście: z pauzy, tonu, gestu i skojarzenia, które publiczność wychwytywała natychmiast. Cenzor zatwierdzał scenariusz, ale nie sposób wykonania – i właśnie tam mieściła się satyra.
+Kabaret w PRL żył z tego, czego nie dało się zapisać w zatwierdzonym tekście: z pauzy, tonu, gestu i skojarzenia, które publiczność wychwytywała natychmiast. Cenzor zatwierdzał scenariusz, ale nie sposób wykonania.
 
-## Koniec i trwanie
-Oficjalnie kabaret zakończył działalność w 1975 roku, potem występował sporadycznie, głównie dla telewizji. Nagrania skeczy krążyły latami i weszły do kanonu polskiego humoru.`,
+## Pożegnania
+Ostatni program miał premierę 13 stycznia 1975 roku. Piosenkę na zakończenie, „Spotkamy się na Nowym Świecie”, zaśpiewano wtedy ze zmienionym refrenem: „Spotkamy się na tamtym świecie”. Potem kabaret występował już tylko sporadycznie, głównie dla telewizji. W 1987 roku Dziewoński spróbował go wskrzesić z młodszymi aktorami, ale był niezadowolony z efektu i dwa lata później ostatecznie zakończył działalność.`,
     trivia: [
-      'Przez dziesięć lat dał około tysiąca przedstawień, na które złożyło się blisko dwieście skeczy i monologów.',
-      'Cenzor zatwierdzał tekst, ale nie sposób jego wykonania – i to tam mieściła się satyra.',
+      'Nad sceną wisiał napis „Upupa epops” – to łacińska nazwa dudka.',
+      'Przedstawienia zaczynały się późnym wieczorem, bo aktorzy przychodzili prosto ze spektakli w swoich teatrach.',
+      'W ostatnim programie refren zmieniono na „Spotkamy się na tamtym świecie”.',
     ],
     resources: [
       {
@@ -33012,19 +33039,23 @@ Zmarł w 1951 roku, u progu najostrzejszej fazy konfliktu państwa z Kościołem
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Czes%C5%82aw_Kaczmarek_1.jpg?width=800',
     imageCaption: 'Biskup kielecki Czesław Kaczmarek, 1938',
     content: `## Biskup kielecki
-Czesław Kaczmarek (1895–1963) był biskupem diecezjalnym kieleckim od 1938 roku. Po wojnie należał do hierarchów wyraźnie niechętnych układaniu się z nową władzą.
+Czesław Kaczmarek (1895–1963) był biskupem diecezjalnym kieleckim od 1938 roku. Jesienią 1945 roku nawiązał bliskie kontakty z ambasadorem USA Arthurem Blissem Lane’em, co ściągnęło na niego uwagę Ministerstwa Bezpieczeństwa Publicznego. Po pogromie kieleckim w lipcu 1946 roku powołał komisję do zbadania jego okoliczności, a jej ustalenia trafiły do raportu przekazanego ambasadorowi.
 
-## Aresztowanie i proces
-Aresztowano go w styczniu 1951 roku. Śledztwo prowadzono metodami stosowanymi wobec więźniów politycznych: długotrwałym, wyczerpującym przesłuchiwaniem, izolacją, presją psychiczną. We wrześniu 1953 roku odbył się pokazowy proces, w którym oskarżono go o szpiegostwo na rzecz Stanów Zjednoczonych i Watykanu. Zapadł wyrok dwunastu lat więzienia.
+## Aresztowanie
+20 stycznia 1951 roku aresztowano go razem z ks. Janem Danilewiczem, autorem raportu o pogromie. Postawiono im zarzuty szpiegostwa na rzecz USA i Watykanu, faszyzacji życia społecznego, nielegalnego handlu walutami i kolaboracji. W areszcie śledczym MBP obaj byli wielokrotnie torturowani.
 
-## Kontekst
-Proces był punktem kulminacyjnym kampanii przeciw Kościołowi. Kilka tygodni później internowano prymasa Stefana Wyszyńskiego. Rok wcześniej władze wydały dekret o obsadzaniu duchownych stanowisk kościelnych, dający państwu wpływ na nominacje.
+## Proces pokazowy
+Proces przed Wojskowym Sądem Rejonowym w Warszawie trwał od 14 do 22 września 1953 roku. Akt oskarżenia zatwierdzono w Moskwie. Złamany śledztwem biskup przyznał się do zarzutów i odciął od polityki Watykanu. Skazano go na 12 lat więzienia, a współoskarżonych z kurii na kary od 5 do 10 lat. Wyrokiem pośrednio uderzono w prymasa Wyszyńskiego – kilka dni później, 25 września, został internowany. Władze miały już w ręku dekret z lutego 1953 roku, dający państwu wpływ na obsadę stanowisk kościelnych.
 
-## Po odwilży
-Zwolniony w 1956 roku, wrócił do diecezji. Wyrok uchylono dopiero po latach, a proces uznano za sfabrykowany. Zmarł w 1963 roku.`,
+## Więzienie i powrót
+W 1955 roku dostał półroczną przerwę w karze ze względu na zdrowie, ale w lutym 1956 znów trafił do więzienia. W maju 1956 roku objęła go amnestia, lecz władze zesłały go do klasztoru w Rywałdzie. Śledztwo umorzono 30 marca 1957 roku, a 2 kwietnia biskup wrócił do Kielc.
+
+## Nagonka do końca
+W 1959 roku rząd zażądał usunięcia go z diecezji, ale odmówili zarówno episkopat, jak i papież. W 1961 roku władze wydały paszkwil jego byłego sekretarza, powtarzający zarzuty z procesu. Kaczmarek zmarł 26 sierpnia 1963 roku w Lublinie. Pośmiertnie uniewinniono go w 1990 roku.`,
     trivia: [
-      'Oskarżono go o szpiegostwo na rzecz Stanów Zjednoczonych i Watykanu; wyrok opiewał na dwanaście lat.',
-      'Kilka tygodni po jego procesie internowano prymasa Wyszyńskiego.',
+      'Akt oskarżenia w jego procesie zatwierdzono w Moskwie.',
+      'Prymasa Wyszyńskiego internowano trzy dni po wyroku w procesie biskupa.',
+      'Pośmiertnie uniewinniono go dopiero w 1990 roku.',
     ],
     resources: [
       {
@@ -33599,20 +33630,24 @@ Historia dziennika jest przykładem tego, jak PRL budował fasadowy pluralizm: n
     yearStart: 1952,
     yearEnd: 1963,
     summary: 'Tygodnik społeczno-kulturalny wydawany w latach 1952–1963, jedno z pism odwilży; zlikwidowany przy zaostrzaniu kursu wobec inteligencji.',
-    content: `## Pismo środowiska
-„Przegląd Kulturalny” ukazywał się w Warszawie od 1952 roku. Podobnie jak „Nowa Kultura” czy „Po prostu”, należał do pism, w których w latach odwilży toczyła się realna dyskusja o literaturze, sztuce i granicach dopuszczalnej krytyki.
+    content: `## Pismo
+„Przegląd Kulturalny” był tygodnikiem społeczno-kulturalnym wydawanym w Warszawie w latach 1952–1963. Redakcja mieściła się przy ulicy Wiejskiej 16. W latach 1952–1956 pismo było oficjalnym organem Rady Kultury i Sztuki.
+
+## Redakcja
+Do 1955 roku redaktorem naczelnym był Jerzy Andrzejewski, a po nim Gustaw Gottesman. Jego zastępcą w latach 1955–1957 był filozof Paweł Beylin. Z pismem współpracowali m.in. Stanisław Dygat, Andrzej Kijowski, Marcin Czerwiński, Jerzy Putrament i Stanisław Lem.
+
+## Czym się zajmował
+Tygodnik pisał o literaturze, teatrze, muzyce, filmie, plastyce i filozofii, a dużo miejsca poświęcał upowszechnianiu kultury. W latach odwilży należał – obok „Nowej Kultury” i „Po prostu” – do pism, w których toczyła się rzeczywista dyskusja o sztuce i granicach dopuszczalnej krytyki.
 
 ## Czym była prasa kulturalna
-W systemie, w którym gazety codzienne wykładały linię partii, tygodniki społeczno-kulturalne były jedynym miejscem, gdzie dało się prowadzić spór – zwykle językiem aluzji i przez wybór tematów. Dlatego to one bywały zamykane jako pierwsze.
+W systemie, w którym dzienniki wykładały linię partii, tygodniki społeczno-kulturalne były jednym z niewielu miejsc na spór – prowadzony zwykle językiem aluzji i przez dobór tematów. Dlatego to one najczęściej stawały się celem ingerencji.
 
 ## Likwidacja
-W 1963 roku „Przegląd Kulturalny” zlikwidowano, a jego miejsce zajął nowy tygodnik „Kultura”. Decyzja zapadła w okresie zaostrzania kursu wobec środowisk twórczych, kilka lat po zamknięciu „Po prostu” w 1957 roku.
-
-## Wzór
-Historia pisma pokazuje rytm, który w PRL powtarzał się kilkakrotnie: odwilż otwierała pole dyskusji, po czym pole to zamykano, a redakcje rozwiązywano bez podawania rzeczywistych powodów.`,
+W 1963 roku pismo zlikwidowano. Z połączenia części jego zespołu z częścią redakcji „Nowej Kultury” powstał nowy tygodnik „Kultura”, wydawany do 1981 roku. Stało się to kilka lat po zamknięciu „Po prostu” w 1957 roku, w okresie, gdy ekipa Gomułki coraz wyraźniej wycofywała się z październikowych swobód.`,
     trivia: [
-      'Zlikwidowany w 1963 roku przy zaostrzaniu kursu wobec środowisk twórczych.',
-      'Tygodniki społeczno-kulturalne były jedynym miejscem realnej dyskusji – i dlatego zamykano je jako pierwsze.',
+      'Pierwszym redaktorem naczelnym był Jerzy Andrzejewski, autor „Popiołu i diamentu”.',
+      'Współpracował z nim m.in. Stanisław Lem.',
+      'Z połączenia części jego zespołu z „Nową Kulturą” powstał w 1963 roku tygodnik „Kultura”.',
     ],
     resources: [
       {
@@ -33955,7 +33990,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1966, event: 'Premiera „Faraona” Jerzego Kawalerowicza – nominacja do Oscara', category: 'kultura', entryId: 'faraon' },
   { year: 1980, event: 'Izabela Trojanowska – przebój „Wszystko czego dziś chcę”', category: 'kultura', entryId: 'izabela-trojanowska' },
   { year: 1983, event: 'Turbo wydaje „Dorosłe dzieci” – kamień milowy polskiego metalu', category: 'kultura', entryId: 'turbo-zespol' },
-  { year: 1985, event: 'Papa Dance – szczyt popularności polskiego italo-disco', category: 'kultura', entryId: 'papa-dance' },
+  { year: 1984, event: 'Debiut Papa Dance: „W 40 dni dookoła świata” i „Ordynarny faul”', category: 'kultura', entryId: 'papa-dance' },
   { year: 1981, event: 'Emisja serialu „Jan Serce” Radosława Piwowarskiego', category: 'kultura', entryId: 'jan-serce' },
   { year: 1976, event: 'Wojciech Fibak wygrywa turniej Masters – triumf polskiego tenisa', category: 'społeczeństwo', entryId: 'fibak-wojciech' },
   { year: 1988, event: 'Premiera „Kingsajzu” Juliusza Machulskiego', category: 'kultura', entryId: 'kingsajz' },
@@ -33972,7 +34007,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1985, event: 'Zbigniew Wodecki – przebój „Chałupy welcome to”', category: 'kultura', entryId: 'zbigniew-wodecki' },
   { year: 1977, event: 'Emisja serialu „Polskie drogi” Janusza Morgensterna', category: 'kultura', entryId: 'polskie-drogi' },
   { year: 1980, event: 'Początek emisji serialu „Dom” Jana Łomnickiego', category: 'kultura', entryId: 'dom-serial' },
-  { year: 1984, event: 'Premiera „Akademii Pana Kleksa” – hit z ponad 10 mln widzów', category: 'kultura', entryId: 'akademia-pana-kleksa' },
+  { year: 1984, event: 'Premiera „Akademii pana Kleksa” – w samym 1984 roku ponad 10,8 mln widzów', category: 'kultura', entryId: 'akademia-pana-kleksa' },
   { year: 1987, event: 'Andrzej Zaucha – przebój „C\'est la vie – Paryż z pocztówki”', category: 'kultura', entryId: 'andrzej-zaucha' },
   { year: 1963, event: '„Kusza” – pierwszy film z Bolkiem i Lolkiem (Studio Filmów Rysunkowych)', category: 'kultura', entryId: 'bolek-i-lolek' },
   { year: 1967, event: 'Debiut kreskówki „Reksio”', category: 'kultura', entryId: 'reksio' },
@@ -34003,7 +34038,8 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1972, event: 'Władysław Komar zdobywa złoto olimpijskie w pchnięciu kulą (Monachium)', category: 'społeczeństwo', entryId: 'wladyslaw-komar' },
   { year: 1977, event: 'Halina Frąckowiak nagrywa z SBB album „Geira”', category: 'kultura', entryId: 'halina-frackowiak' },
   { year: 1977, event: 'Premiera „Barw ochronnych” Krzysztofa Zanussiego', category: 'kultura', entryId: 'barwy-ochronne' },
-  { year: 1970, event: 'Debiut Jana Himilsbacha w „Rejsie” – fenomen naturszczyka', category: 'kultura', entryId: 'jan-himilsbach' },
+  { year: 1970, event: 'Jan Himilsbach i Zdzisław Maklakiewicz w „Rejsie” Marka Piwowskiego', category: 'kultura', entryId: 'jan-himilsbach' },
+  { year: 1975, event: 'Jan Himilsbach wykuwa napis na nagrobku Marka Hłaski na Powązkach', category: 'kultura', entryId: 'jan-himilsbach' },
   { year: 1976, event: 'Tadeusz Ślusarski zdobywa złoto olimpijskie w skoku o tyczce (Montreal)', category: 'społeczeństwo', entryId: 'tadeusz-slusarski' },
   { year: 1979, event: '„Amator” Kieślowskiego zdobywa Złoty Medal na festiwalu w Moskwie', category: 'kultura', entryId: 'amator-film' },
   { year: 1989, event: 'W sierpniu SB liczy 24 300 funkcjonariuszy i około 90 tysięcy tajnych współpracowników', category: 'represje', entryId: 'sbezpieczenstwa' },
@@ -34032,7 +34068,9 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1965, event: 'Premiera „Salta” Tadeusza Konwickiego', category: 'kultura', entryId: 'salto' },
   { year: 1970, event: 'Tomasz Stańko nagrywa „Music for K” – pamięci Komedy', category: 'kultura', entryId: 'tomasz-stanko' },
   { year: 1982, event: 'Antoni Piechniczek prowadzi Polskę po 3. miejsce na mundialu', category: 'społeczeństwo', entryId: 'antoni-piechniczek' },
-  { year: 1965, event: 'Powstanie kabaretu Dudek Edwarda Dziewońskiego', category: 'kultura', entryId: 'kabaret-dudek' },
+  { year: 1965, event: 'Kabaret Dudek Edwarda Dziewońskiego – premiera programu „Spotkajmy się na Nowym Świecie”', category: 'kultura', entryId: 'kabaret-dudek' },
+  { year: 1975, event: 'Ostatni program kabaretu Dudek – refren „Spotkamy się na tamtym świecie”', category: 'kultura', entryId: 'kabaret-dudek' },
+  { year: 1962, event: 'Pierwszy Studencki Festiwal Piosenki w Krakowie – drugie miejsce Ewy Demarczyk', category: 'kultura', entryId: 'poezja-spiewana' },
   { year: 1970, event: 'Premiera „Hydrozagadki” Andrzeja Kondratiuka', category: 'kultura', entryId: 'hydrozagadka' },
   { year: 1973, event: 'Zbigniew Namysłowski nagrywa „Winobranie” – klasyk polskiego jazzu', category: 'kultura', entryId: 'zbigniew-namyslowski' },
   { year: 1970, event: 'Premiera „Jak rozpętałem drugą wojnę światową” Tadeusza Chmielewskiego', category: 'kultura', entryId: 'jak-rozpetalem-ii-wojne' },
@@ -34219,7 +34257,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1943, event: 'Komunikat gen. Kukiela o zaginionych oficerach poprzedza sprawę Katynia', category: 'osoby', entryId: 'kukiel' },
   { year: 1976, event: 'Jan Olszewski wśród założycieli Komitetu Obrony Robotników', category: 'osoby', entryId: 'olszewski-jan' },
   { year: 1945, event: 'Kard. Hlond organizuje administrację kościelną na ziemiach zachodnich', category: 'osoby', entryId: 'hlond' },
-  { year: 1953, event: 'Pokazowy proces biskupa Czesława Kaczmarka', category: 'osoby', entryId: 'kaczmarek-biskup' },
+  { year: 1953, event: 'Pokazowy proces biskupa Czesława Kaczmarka – wyrok 12 lat więzienia', category: 'osoby', entryId: 'kaczmarek-biskup' },
   { year: 1978, event: 'Andrzej Gwiazda wśród założycieli Wolnych Związków Zawodowych Wybrzeża', category: 'osoby', entryId: 'gwiazda' },
   { year: 1981, event: 'Pobicie Jana Rulewskiego w Bydgoszczy; kraj na progu strajku generalnego', category: 'osoby', entryId: 'rulewski' },
   { year: 1987, event: 'Jan Józef Lipski współtworzy reaktywowaną PPS', category: 'osoby', entryId: 'lipski' },
@@ -34228,7 +34266,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1947, event: 'Wezwanie Wincentego Pstrowskiego rozpoczyna masowe współzawodnictwo pracy', category: 'osoby', entryId: 'pstrowski' },
   { year: 1959, event: 'Jarosław Iwaszkiewicz prezesem Związku Literatów Polskich', category: 'osoby', entryId: 'iwaszkiewicz' },
   { year: 1948, event: '„Głos Ludu” i „Robotnik” łączą się w „Trybunę Ludu”', category: 'kultura', entryId: 'glos-ludu' },
-  { year: 1963, event: 'Likwidacja „Przeglądu Kulturalnego”', category: 'kultura', entryId: 'przeglad-kulturalny' },
+  { year: 1963, event: 'Likwidacja „Przeglądu Kulturalnego” – z części jego zespołu i „Nowej Kultury” powstaje tygodnik „Kultura”', category: 'kultura', entryId: 'przeglad-kulturalny' },
   { year: 1989, event: '5 kwietnia – podpisanie porozumień Okrągłego Stołu', category: 'polityka', entryId: 'okragly-stol' },
   { year: 1989, event: '7 kwietnia – Sejm uchwala nową ordynację, przywraca Senat i urząd prezydenta', category: 'polityka', entryId: 'wybory-1989' },
   { year: 1989, event: '17 kwietnia – ponowna rejestracja NSZZ „Solidarność”', category: 'opozycja', entryId: 'solidarnosc' },
