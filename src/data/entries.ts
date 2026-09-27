@@ -2730,20 +2730,24 @@ Zasoby, kontakty i doświadczenie zarządcze zgromadzone w tym środowisku okaza
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pomnik%20katynski1.JPG?width=800',
     imageCaption: 'Pomnik ofiar zbrodni katyńskiej.',
     trivia: [
-      'Napisy o Katyniu usuwano nawet z nagrobków, a badaczy tematu ścigano.',
-      'Odpowiedzialność ZSRR za zbrodnię przyznano oficjalnie dopiero w 1990 roku.',
+      'Decyzję o egzekucjach podjęło Biuro Polityczne KC WKP(b) 5 marca 1940 roku.',
+      'Z obozów w Kozielsku, Starobielsku i Ostaszkowie ocalało tylko 395 jeńców.',
+      'ZSRR przyznał się do zbrodni dopiero 13 kwietnia 1990 roku.',
     ],
-    content: `## Zbrodnia
-Wiosną 1940 roku NKWD rozstrzelało blisko dwadzieścia dwa tysiące obywateli polskich, w tym około piętnastu tysięcy oficerów Wojska Polskiego i Policji Państwowej, wziętych do niewoli po 17 września 1939 roku. Decyzję podjęły najwyższe władze ZSRR.
+    content: `## Decyzja
+5 marca 1940 roku Biuro Polityczne KC WKP(b) podjęło, na wniosek Ławrientija Berii, tajną decyzję o rozstrzelaniu polskich jeńców i więźniów. Wiosną 1940 roku NKWD zamordowało co najmniej 21 768 obywateli polskich, w tym niemal 15 tys. oficerów Wojska Polskiego, policjantów i funkcjonariuszy wziętych do niewoli po 17 września 1939 roku. Ofiary zabijano strzałem w tył głowy.
 
-## Miejsca
-Egzekucje przeprowadzono m.in. w Katyniu, Charkowie, Twerze i Kijowie, a ofiary pochowano w masowych grobach. Groby w Lesie Katyńskim ujawnili Niemcy w kwietniu 1943 roku.
+## Trzy obozy
+Jeńców przetrzymywano w obozach specjalnych w Kozielsku, Starobielsku i Ostaszkowie. Od 3 kwietnia do połowy maja 1940 roku ok. 4400 jeńców z Kozielska zamordowano w Katyniu, ok. 3800 ze Starobielska w Charkowie, a ok. 6300 z Ostaszkowa – głównie policjantów – w Twerze. Ocalało tylko 395 jeńców z tych obozów. Pozostałe ofiary, więźniów z tzw. listy ukraińskiej i białoruskiej, zamordowano m.in. w Kijowie i Mińsku.
+
+## Ujawnienie
+Józef Czapski, ocalały ze Starobielska, na polecenie władz polskich szukał zaginionych oficerów w ZSRR, ale nie dostał żadnych wyjaśnień. Groby w Lesie Katyńskim ujawnili Niemcy w kwietniu 1943 roku. Gdy rząd polski zwrócił się do Międzynarodowego Czerwonego Krzyża o zbadanie sprawy, Stalin wykorzystał to jako pretekst do zerwania stosunków z rządem w Londynie.
 
 ## Kłamstwo katyńskie
-Gdy rząd polski poprosił Międzynarodowy Czerwony Krzyż o zbadanie sprawy, Stalin wykorzystał to jako pretekst do zerwania stosunków dyplomatycznych. Przez cały okres PRL obowiązywała wersja obarczająca winą Niemców; napisy o Katyniu usuwano z nagrobków, a badaczy ścigano.
+Przez cały okres PRL obowiązywała wersja obarczająca winą Niemców. Temat był objęty cenzurą, napisy o Katyniu usuwano nawet z nagrobków, a upominających się o prawdę represjonowano. Pamięć przetrwała w rodzinach, Kościele, drugim obiegu i na emigracji.
 
 ## Prawda
-Odpowiedzialność ZSRR przyznano oficjalnie dopiero w 1990 roku. Katyń pozostaje przykładem tego, jak długo państwo potrafi utrzymywać kłamstwo, gdy kontroluje szkołę, prasę i badania naukowe – i jak trwałą pamięć potrafi zachować przekaz rodzinny.`,
+13 kwietnia 1990 roku ZSRR oficjalnie przyznał, że zbrodnia była „jedną z ciężkich zbrodni stalinizmu”. Katyń pozostaje przykładem tego, jak długo państwo potrafi utrzymywać kłamstwo, kontrolując szkołę, prasę i naukę – i jak trwałą pamięć potrafi zachować przekaz rodzinny.`,
     resources: [
       {
         id: 'kat-ipn1',
@@ -12578,20 +12582,24 @@ Teatr Telewizji ukształtował gust kulturalny pokoleń Polaków i zachował zap
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Karol_Wojty%C5%82a_19-4-22.jpg?width=800',
     imageCaption: 'Arcybiskup Karol Wojtyła podczas mszy milenijnej, 8 maja 1966',
     trivia: [
-      'Po zatrzymaniu kopii obrazu peregrynację kontynuowano z pustymi ramami.',
-      'Państwo ustawiało swoje obchody Tysiąclecia w tych samych terminach co uroczystości kościelne.',
+      'Po „aresztowaniu” obrazu w 1966 roku po kraju przez sześć lat wędrowały puste ramy.',
+      'Władze nie zgodziły się na przyjazd papieża Pawła VI na obchody Milenium.',
+      'W 1972 roku kopię obrazu potajemnie wywieziono z pilnowanej przez milicję Jasnej Góry.',
     ],
     content: `## Dwa jubileusze
-W 1966 roku przypadła tysięczna rocznica chrztu Polski. Kościół obchodził Milenium jako rocznicę religijną, państwo zaś zorganizowało równoległe obchody Tysiąclecia Państwa Polskiego, świadomie ustawiając imprezy w tych samych terminach i miejscach.
+W 1966 roku przypadła tysięczna rocznica chrztu Polski. Kościół obchodził Milenium jako rocznicę religijną, a władze już w 1958 roku ogłosiły obchody Tysiąclecia Państwa Polskiego na lata 1960–1966. Obie strony uznały jubileusz za pole walki o „rząd dusz”, a państwo świadomie ustawiało swoje imprezy w tych samych terminach i miejscach co uroczystości kościelne.
 
-## Przygotowania
-Kościół przygotowywał się przez dziewięć lat, w ramach Wielkiej Nowenny zapoczątkowanej Jasnogórskimi Ślubami Narodu w 1956 roku. Po kraju wędrowała kopia obrazu Matki Boskiej Częstochowskiej, witana w kolejnych parafiach.
+## Wielka Nowenna
+Inicjatorem kościelnych obchodów był prymas Stefan Wyszyński. Przygotowania trwały dziewięć lat – w ramach Wielkiej Nowenny w latach 1957–1966, zapoczątkowanej Jasnogórskimi Ślubami Narodu z 1956 roku. Od 1957 roku po parafiach wędrowała kopia obrazu Matki Boskiej Częstochowskiej, pobłogosławiona przez papieża Piusa XII.
+
+## Rok 1966
+Centralne uroczystości odbyły się 3 maja 1966 roku na Jasnej Górze, gdzie odnowiono akt zawierzenia narodu. Władze nie zgodziły się na przyjazd papieża Pawła VI. W Gnieźnie 15 kwietnia armatnie salwy na powitanie marszałka Spychalskiego zakłóciły mszę arcybiskupa Karola Wojtyły, a dzień później w Poznaniu Gomułka publicznie atakował prymasa. 22 lipca przez Warszawę przeszła wielka parada „Tysiąclecia Oręża Polskiego”.
 
 ## Aresztowanie obrazu
-Władze zatrzymały peregrynację, a kopię obrazu odesłano na Jasną Górę pod eskortą. Wędrówkę kontynuowano wówczas z pustymi ramami – gest, który okazał się mocniejszy niż sam obraz.
+Władze utrudniały peregrynację, a 2 września 1966 roku pod Będzinem milicja zatrzymała obraz i zmusiła do odwiezienia go na Jasną Górę. Przez kolejne sześć lat klasztoru pilnowały posterunki milicji, a po kraju wędrowały puste ramy ze świecą i Ewangelią – gest mocniejszy niż sam obraz. W czerwcu 1972 roku kopię potajemnie wywieziono z Jasnej Góry i peregrynacja ruszyła na nowo.
 
 ## Rezultat
-Konfrontacja zakończyła się porażką państwa: uroczystości kościelne gromadziły nieporównanie więcej ludzi niż państwowe defilady. Milenium pokazało skalę obecności Kościoła w społeczeństwie i było zapowiedzią tego, co powtórzy się w 1979 roku podczas pielgrzymki papieża.`,
+Uroczystości kościelne gromadziły nieporównanie więcej ludzi niż państwowe defilady. Państwo zostawiło po jubileuszu trwały ślad w postaci ok. 1,5 tys. szkół „Tysiąclatek”, ale Milenium pokazało skalę obecności Kościoła w społeczeństwie i zapowiadało to, co powtórzy się w 1979 roku podczas pielgrzymki papieża.`,
     resources: [
       {
         id: 'mil-pkf',
@@ -14136,21 +14144,25 @@ Organizowała wyprawy wyłącznie kobiece, przełamując przekonanie, że himala
     summary: 'Złota era polskiej piłki nożnej pod wodzą Kazimierza Górskiego: złoto olimpijskie 1972 i trzecie miejsce na mundialu w 1974 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz_Deyna.jpg?width=800',
     imageCaption: 'Kazimierz Deyna, rozgrywający drużyny Kazimierza Górskiego',
-    trivia: ['Półfinał z RFN rozegrano na zalanym deszczem boisku – przeszedł do historii jako „mecz na wodzie”.', 'Grzegorz Lato został królem strzelców mistrzostw z siedmioma golami.', 'Bramkarza Jana Tomaszewskiego angielska prasa nazwała „clownem” – po czym obronił Anglii awans.'],
+    trivia: [
+      '„Mecz na wodzie” z RFN rozpoczął się z półgodzinnym opóźnieniem, bo z boiska nie udało się usunąć wody.',
+      'Grzegorz Lato został królem strzelców mundialu z siedmioma golami.',
+      'Srebro olimpijskie w 1976 roku uznano w kraju za porażkę i Górski odszedł z reprezentacji.',
+    ],
     content: `## Kazimierz Górski
-Kazimierz Górski jako selekcjoner reprezentacji Polski stworzył najlepszą drużynę w historii polskiego futbolu. Jego słowa „Piłka jest okrągła, a bramki są dwie” weszły do języka potocznego.
+Kazimierz Górski, przed wojną piłkarz RKS Lwów, został selekcjonerem reprezentacji w grudniu 1970 roku. Stworzył najlepszą drużynę w historii polskiego futbolu. Przypisuje mu się powiedzenie „Piłka jest okrągła, a bramki są dwie”, które weszło do języka potocznego.
 
-## Igrzyska 1972
-Drużyna zdobyła złoty medal na igrzyskach olimpijskich w Monachium w 1972 roku, pokonując w finale Węgry. Był to pierwszy wielki sukces tego pokolenia.
+## Monachium 1972
+W 1972 roku drużyna zdobyła złoty medal olimpijski w Monachium, pokonując w finale Węgry. Rok później remis 1:1 na Wembley wyeliminował Anglię i dał Polsce pierwszy od 36 lat awans na mistrzostwa świata.
 
 ## Mundial 1974
-Na mistrzostwach świata w RFN w 1974 roku Polska zajęła trzecie miejsce – do dziś jeden z największych sukcesów. „Deszczowy mecz” z gospodarzami przesądził o finale, ale Polacy pokonali Brazylię w meczu o brąz.
+Na mistrzostwach w RFN Polska wygrała grupę, pokonując m.in. Argentynę i Włochy. W drugiej rundzie decydujący mecz z gospodarzami rozegrano 3 lipca 1974 roku we Frankfurcie na zalanym boisku – z półgodzinnym opóźnieniem, bo mimo pomp i walców nie udało się usunąć wody. Ten „mecz na wodzie” Polska przegrała 0:1 i straciła szansę na finał. W meczu o trzecie miejsce pokonała Brazylię 1:0 po golu Grzegorza Laty.
 
 ## Gwiazdy
-W drużynie błyszczeli Grzegorz Lato (król strzelców mundialu), Kazimierz Deyna, Robert Gadocha, Andrzej Szarmach i bramkarz Jan Tomaszewski, nazwany „człowiekiem, który zatrzymał Anglię”.
+Grzegorz Lato został królem strzelców mundialu z siedmioma golami, a drugi był Andrzej Szarmach z pięcioma. W drużynie grali też kapitan Kazimierz Deyna, Robert Gadocha, Władysław Żmuda i Jerzy Gorgoń. Bramkarz Jan Tomaszewski jako pierwszy w historii mundiali obronił na jednym turnieju dwa rzuty karne.
 
 ## Znaczenie
-Sukcesy z lat 70. były źródłem ogromnej dumy narodowej i pozostają punktem odniesienia dla polskiej piłki. Drużyna powtórzyła sukces, zajmując 3. miejsce również w 1982 roku.`,
+W 1976 roku drużyna Górskiego zdobyła srebro olimpijskie w Montrealu, co w kraju uznano za porażkę – i trener odszedł, by pracować w Grecji. Sukcesy lat 70. były źródłem ogromnej dumy narodowej. Trzecie miejsce na mundialu w 1982 roku zdobyła już następna drużyna, prowadzona przez Antoniego Piechniczka.`,
     resources: [
       {
         id: 'mun-1',
@@ -23965,19 +23977,23 @@ W połowie lat 70. występował w warszawskim Teatrze Syrena, w 1976 roku nagra�
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Muzeum_%C5%BBycia_w_PRL_przy_ul._Pi%C4%99knej_2834_w_Warszawie_2021d.jpg?width=800',
     imageCaption: 'Oranżada, chleb ze smalcem i kiszony ogórek w Muzeum Życia w PRL w Warszawie',
     content: `## Oranżada
-Oranżada w butelce z kapslem, najczęściej w wersji pomarańczowej albo cytrynowej, była podstawowym napojem dzieciństwa w PRL. Produkowały ją rozproszone wytwórnie wód gazowanych, często lokalne, co dawało różnice smaku między regionami.
+Oranżada – słodki, gazowany napój, najczęściej pomarańczowy – trafiła do polskiej kuchni już w XVIII wieku jako zapożyczenie z kuchni francuskiej. W PRL produkowano ją przemysłowo z soku w proszku, słodzików, barwników i aromatów. Rozlewały ją liczne, często lokalne wytwórnie wód gazowanych, więc smak różnił się między regionami. Najpopularniejsze były wersje biała i czerwona.
 
-## Butelka zwrotna
-Napoje sprzedawano w butelkach zwrotnych, za które płaciło się kaucję. Zbieranie i oddawanie butelek było powszechnym sposobem zdobywania drobnych pieniędzy przez dzieci – i zarazem systemem recyklingu skuteczniejszym niż niejeden dzisiejszy.
+## Prywatni producenci
+Oranżada była jedną z dziedzin, w których przetrwała drobna prywatna wytwórczość. Warszawska firma Ronisz, założona w 1948 roku na Grochowie, należy do najdłużej działających prywatnych wytwórni oranżady w Polsce i produkuje ją do dziś.
 
-## Reszta asortymentu
-Obok oranżady dostępne były wody mineralne, kwas chlebowy i napoje w proszku. Zachodnie marki pojawiły się w Peweksie, a szeroko dopiero pod koniec lat 80. – ich smak był dla wielu dzieci pierwszym kontaktem z Zachodem.
+## W proszku i w woreczku
+Popularna była oranżada w proszku, sprzedawana w małych torebkach – dzieci często jadły ją na sucho, zamiast rozpuszczać w wodzie. Można było też kupić oranżadę w foliowym woreczku, pitą przez słomkę. Napoje w szklanych butelkach sprzedawano z kaucją, a zbieranie butelek zwrotnych było dla dzieci sposobem na drobne pieniądze.
+
+## Polo Cockta
+W latach 70. na polski rynek weszły Coca-Cola i Pepsi. W odpowiedzi zaczęto produkować Polo Cocktę – napój typu cola na jugosłowiańskiej recepturze Cockty. Produkowały ją spółdzielnie „Społem”, nie trzymając się jednej receptury. W Polsce sprzedawano jej więcej niż w całej Jugosławii – ok. 80 mln butelek rocznie. Polo Cockta zagrała nawet ważną rolę w „Kingsajzie” Machulskiego.
 
 ## Sentyment
-Oranżada wróciła po latach jako produkt sprzedawany właśnie na wspomnieniu: w butelce z kapslem i z etykietą stylizowaną na dawną. Jest jednym z najczystszych przykładów tego, jak przedmiot codzienny staje się nośnikiem nostalgii.`,
+Oranżada i Polo Cockta wróciły po latach jako produkty sprzedawane na wspomnieniu – w butelkach z kapslem i z etykietami stylizowanymi na dawne. To jeden z najczystszych przykładów tego, jak przedmiot codzienny staje się nośnikiem nostalgii.`,
     trivia: [
-      'Butelki zwrotne z kaucją były dla dzieci powszechnym sposobem zdobywania drobnych pieniędzy.',
-      'Oranżadę produkowały lokalne wytwórnie wód gazowanych, więc smak różnił się między regionami.',
+      'Oranżadę w proszku dzieci często jadły na sucho, prosto z torebki.',
+      'Polo Cocktę sprzedawano w Polsce w liczbie ok. 80 mln butelek rocznie – więcej niż w całej Jugosławii.',
+      'Warszawska wytwórnia oranżady Ronisz działa nieprzerwanie od 1948 roku.',
     ],
     resources: [
       {
@@ -26304,24 +26320,28 @@ W maju 1973 roku wyjechał z rodziną do Stanów Zjednoczonych. Występował w m
     category: 'kultura',
     tags: ['film', 'animacja', 'dzieci', 'dobranocka', 'kultura'],
     yearStart: 1975,
-    yearEnd: 1989,
+    yearEnd: 1987,
     summary: 'Jeden z najukochańszych bohaterów polskich dobranocek – pluszowy miś z opadającym uszkiem, produkowany w łódzkim studiu Se-ma-for.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Muzeum_dobranocek_w_rzeszowie_7.jpg?width=800',
     imageCaption: 'Plan zdjęciowy „Misia Uszatka” w Muzeum Dobranocek w Rzeszowie',
     content: `## Skąd się wziął
-Miś Uszatek narodził się w opowiadaniach Czesława Janczarskiego, ilustrowanych przez Zbigniewa Rychlickiego. Charakterystyczne opadające ucho, od którego wzięła się nazwa, było pomysłem plastycznym, który zdecydował o rozpoznawalności postaci.
+Miś Uszatek powstał 6 marca 1957 roku jako wspólne dzieło pisarza Czesława Janczarskiego i ilustratora Zbigniewa Rychlickiego. Najpierw był patronem pisemka dla dzieci „Miś”, a imię nadały mu dzieci w konkursie. Potem stał się bohaterem książek, tłumaczonych także na obce języki. Klapnięte lewe ucho Janczarski tłumaczył tym, że miś długo przesiedział na półce w sklepie z zabawkami, zanim ktoś go kupił.
 
-## Serial
-Serial animowany, realizowany techniką lalkową w Se-Ma-Forze, składał się ze stukilkudziesięciu odcinków. Każdy kończył się tą samą formułą: miś siadał na łóżku i mówił dobranoc, co czyniło go zamknięciem dnia dla milionów dzieci.
+## Na ekranie
+Pierwszy krótkometrażowy film o Uszatku powstał w 1962 roku – miś nie miał w nim jeszcze klapniętego ucha. Prawdziwa popularność przyszła w 1975 roku, gdy łódzkie studio Se-ma-for na zlecenie Telewizji Polskiej zaczęło produkować lalkowy serial „Przygody Misia Uszatka”. Głosu użyczył mu Mieczysław Czechowicz. Janczarski już wtedy nie żył, więc scenariusze na podstawie jego opowiadań pisał głównie Janusz Galewicz.
+
+## 104 odcinki
+Do 1987 roku powstały 104 odcinki – materiał na dwa pełne lata cotygodniowych dobranocek. Pod względem liczby odcinków ustępował tylko „Bolkowi i Lolkowi”. Każdy kończył się tak samo: miś żegnał się z dziećmi i szedł spać.
 
 ## Świat bez konfliktu
-Historie Uszatka opowiadały o zwyczajnych sprawach: koleżeństwie, drobnych kłopotach, pomaganiu innym. Nie było w nich ideologii, co w kulturze dziecięcej PRL nie było oczywiste – część produkcji dla najmłodszych miała wyraźny wydźwięk wychowawczo-polityczny.
+Uszatek mieszka sam w domku, ubiera się jak człowiek i chodzi do przedszkola. Jego przyjaciółmi są m.in. Prosiaczek, Króliczki, Zajączek i pies Kruczek. Historie dotyczyły zwyczajnych spraw – koleżeństwa, drobnych kłopotów, pomagania innym. Dzieci w wieku przedszkolnym łatwo się z nim utożsamiały, bo przypominał pluszową zabawkę, a zarazem był kolegą z przedszkola.
 
 ## Trwałość
-Uszatek przetrwał zmianę ustroju i pozostał jedną z nielicznych postaci z tamtej epoki, która nie budzi żadnych skojarzeń politycznych – funkcjonuje po prostu jako część dzieciństwa kilku pokoleń.`,
+Uszatek przetrwał zmianę ustroju i pozostał jedną z nielicznych postaci tamtej epoki, które nie budzą żadnych skojarzeń politycznych. Serial wciąż powtarzają telewizje dziecięce, a dla kilku pokoleń jest po prostu częścią dzieciństwa.`,
     trivia: [
-      'Postać wymyślił pisarz Czesław Janczarski, a jej wygląd – ilustrator Zbigniew Rychlicki.',
-      'Serial realizowano techniką lalkową, klatka po klatce, w łódzkim Se-Ma-Forze.',
+      'Imię Uszatkowi nadały dzieci w konkursie ogłoszonym przez pisemko „Miś”.',
+      'Serial liczy 104 odcinki – więcej miał tylko „Bolek i Lolek”.',
+      'W pierwszym filmie z 1962 roku miś nie miał jeszcze klapniętego ucha.',
     ],
     resources: [
       {
@@ -27189,23 +27209,27 @@ Rola Romana Wilhelmiego stała się jedną z najbardziej rozpoznawalnych w histo
     tags: ['muzyka', 'nowa fala', 'rock', 'elektronika'],
     yearStart: 1983,
     yearEnd: 1989,
-    summary: 'Warszawski zespół nowej fali założony w 1983 przez Igora Czerniawskiego; przebój „Skóra” to klasyk gatunku, a wokalistą bywał Paweł Kukiz.',
+    summary: 'Nowofalowy zespół założony w 1983 roku przez Igora Czerniawskiego, Pawła Kukiza i Jarosława Lacha; przebój „Skóra” z Jarocina 1984 to klasyk gatunku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pawel_Kukiz.jpg?width=800',
     imageCaption: 'Paweł Kukiz, wokalista Aya RL (fot. współczesna)',
     content: `## Zespół
-Aya RL, początkowo Aya Red Love, powstała w 1983 roku. Założyli ją Igor Czerniawski, Paweł Kukiz i Jarosław Lach. Nazwa – nieoczywista, obca brzmieniowo – sama w sobie była deklaracją zerwania z estradową konwencją.
+Aya RL, początkowo Aya Red Love, powstała w 1983 roku. Klawiszowiec Igor Czerniawski poznał na festiwalu w Jarocinie Jarosława Lacha i Pawła Kukiza, założycieli zespołu Hak, i razem stworzyli nową grupę. Przez chwilę grał z nimi drugi klawiszowiec, Robert Milewski, ale szybko odszedł.
+
+## Skóra
+W 1984 roku trio wystąpiło w Jarocinie i odniosło sukces utworem „Skóra”, który wysoko wspiął się na listach przebojów. Przebój przyniósł jednak zespołowi wizerunek, którego muzycy nie chcieli – nie zamierzali nagrywać młodzieżowych hitów. Dlatego „Skóra” celowo nie trafiła na debiutancki album z 1985 roku, zwany „Czerwoną płytą”. Znalazł się na nim ambitniejszy rock z utworami „Unikaj zdjęć”, „Nasza ściana” i „Ulica miasta”.
 
 ## Brzmienie
-Grupa łączyła nową falę z elektroniką: syntezatory, automat perkusyjny, chłodne aranżacje. Było to brzmienie bliższe temu, co działo się wtedy w Wielkiej Brytanii, niż polskiej estradzie, którą wciąż zdominowała piosenka festiwalowa.
+Grupa łączyła nową falę z elektroniką: syntezatory, automat perkusyjny, chłodne aranżacje. Takie brzmienie było bliższe temu, co działo się wtedy w Wielkiej Brytanii, niż polskiej estradzie. Festiwal w Jarocinie i kluby studenckie były miejscami, gdzie ta muzyka mogła zaistnieć bez pośrednictwa oficjalnej estrady.
 
-## Lata 80.
-Zespół wpisywał się w falę nowych grup, które po stanie wojennym wypełniły lukę po zawieszonym życiu kulturalnym. Festiwal w Jarocinie i studenckie kluby stały się miejscami, gdzie taka muzyka mogła zaistnieć bez pośrednictwa oficjalnej estrady.
+## Przerwa i „Niebieska płyta”
+Wkrótce po debiucie Lach wyjechał do USA. Czerniawski działał w innych projektach, m.in. z zespołem Kosmetyki Mrs. Pinki, i realizował nagrania innych grup. Z Kukizem i gitarzystą Adamem Romanowskim wrócił do pracy nad drugim albumem, który jako „Niebieska płyta” ukazał się w 1989 roku.
 
 ## Znaczenie
-Aya RL należy do zespołów, które pokazały, że polski rock lat 80. nie sprowadzał się do gitarowej dosłowności. Późniejsza rozpoznawalność Pawła Kukiza sprawiła, że grupa wraca w opowieściach o tamtej dekadzie częściej niż wiele równie ważnych formacji.`,
+Aya RL pokazała, że polski rock lat 80. nie sprowadzał się do gitarowej dosłowności. Późniejsza kariera polityczna Pawła Kukiza sprawiła, że zespół wraca w opowieściach o tamtej dekadzie częściej niż wiele równie ważnych formacji.`,
     trivia: [
-      'Zespół założył m.in. Paweł Kukiz, znany później z zupełnie innych ról publicznych.',
-      'Brzmienie oparte na syntezatorach i automacie perkusyjnym było w polskiej muzyce lat 80. rzadkością.',
+      'Przebój „Skóra” celowo nie trafił na debiutancki album – zespół nie chciał wizerunku autorów młodzieżowych hitów.',
+      'Założyciele poznali się na festiwalu w Jarocinie w 1983 roku.',
+      'Pierwszy album nazywano „Czerwoną płytą”, a drugi, z 1989 roku, „Niebieską płytą”.',
     ],
     resources: [
       {
@@ -27360,24 +27384,29 @@ Prace prowadzono ponad dekadę, korzystając z zachowanych detali, planów i iko
     subtitle: 'Sztandarowa arteria odbudowy stolicy',
     category: 'społeczeństwo',
     tags: ['architektura', 'Warszawa', 'odbudowa', 'komunikacja', 'propaganda'],
-    yearStart: 1949,
+    yearStart: 1947,
+    yearEnd: 1949,
     summary: 'Pierwsza wielka arteria powojennej Warszawy (wschód–zachód), otwarta w 1949; symbol „warszawskiego tempa” odbudowy, opiewany w Polskiej Kronice Filmowej.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Trasa%20W-Z%20lata%2040.%2001.jpg?width=800',
     imageCaption: 'Trasa W-Z w Warszawie, przełom lat 40. i 50.',
     content: `## Inwestycja
-Trasa W-Z, czyli arteria wschód–zachód, była pierwszą wielką inwestycją komunikacyjną powojennej Warszawy. Poprowadzono ją przez zniszczone śródmieście, z tunelem pod Krakowskim Przedmieściem i mostem Śląsko-Dąbrowskim.
+Trasa W-Z, czyli arteria wschód–zachód, była pierwszą większą inwestycją komunikacyjną powojennej Warszawy, zbudowaną w latach 1947–1949. Biegła od ulicy Radzymińskiej na Pradze, przez most Śląsko-Dąbrowski, pod Krakowskim Przedmieściem, aż do Woli. Pracowało przy niej ok. 4 tys. osób.
 
-## Tempo
-Budowę prowadzono w rekordowym tempie i oddano do użytku w lipcu 1949 roku. Pośpiech miał wymiar polityczny: trasa miała pokazać, że nowa władza potrafi budować szybciej i na większą skalę niż przedwojenne państwo.
+## Tunel i schody
+Tunel pod Krakowskim Przedmieściem wykonano w otwartym wykopie, wzorując się na paryskim tunelu Saint-Cloud. Rozebrane nad nim kamienice potem odtworzono – z wyjątkiem pałacu Teppera. Tunele wyłożono ceramiką w socrealistycznym stylu. Przy trasie stanęły pierwsze w powojennej Polsce schody ruchome, radzieckiej produkcji, łączące tunel z placem Zamkowym – przez lata były atrakcją turystyczną.
 
-## Cena pośpiechu
-Przy okazji przebudowy rozebrano część zabudowy, którą można było ratować, a osuwisko skarpy wiślanej groziło katastrofą kościoła św. Anny – budowlę ratowano w improwizowanych warunkach. Rozwiązania techniczne bywały prowizoryczne, a tempo wymuszało pracę na trzy zmiany.
+## Walka o skarpę
+Most Śląsko-Dąbrowski ukończono 6 grudnia 1948 roku, a tunel następnego dnia. W 1949 roku skarpa wiślana zaczęła się osuwać, a mury stojącego na niej kościoła św. Anny pękać. Osuwisko zatrzymano dzięki metodzie utwardzania gruntu opracowanej przez Romualda Cebertowicza.
+
+## 22 lipca 1949
+Trasę oddano do użytku w Narodowe Święto Odrodzenia Polski, 22 lipca 1949 roku, razem z osiedlem Mariensztat, zbudowanym dla przodowników pracy. Dziesięć dni wcześniej na plac Zamkowy wróciła kolumna Zygmunta. Przed południem przez most i tunel przeszedł pochód budowniczych, a wieczorem na rynku Mariensztatu odbyła się zabawa. Nieopodal urządzono wybieg dla niedźwiedzi.
 
 ## Symbol odbudowy
-Otwarcie trasy stało się jednym z najczęściej pokazywanych obrazów odbudowy: relacjonowały je kroniki filmowe, prasa i plakaty. Przez dziesięciolecia Trasa W-Z była w propagandzie skrótem opisującym powojenny wysiłek budowlany.`,
+Pośpiech miał wymiar polityczny: trasa miała dowodzić, że nowa władza buduje szybciej i na większą skalę niż przedwojenne państwo. Otwarcie stało się jednym z najczęściej pokazywanych obrazów odbudowy w kronikach, prasie i na plakatach, a „Trasa W-Z” na dekady stała się propagandowym skrótem powojennego wysiłku.`,
     trivia: [
-      'Trasę oddano do użytku w lipcu 1949 roku, po budowie prowadzonej w rekordowym tempie.',
-      'Osuwisko skarpy wiślanej zagroziło kościołowi św. Anny, który ratowano w trakcie budowy.',
+      'Przy Trasie W-Z uruchomiono pierwsze w powojennej Polsce schody ruchome.',
+      'Kościół św. Anny uratowano przed osuwiskiem skarpy dzięki metodzie Romualda Cebertowicza.',
+      'Trasę otwarto 22 lipca 1949 roku, razem z osiedlem Mariensztat.',
     ],
     resources: [
       {
@@ -30530,21 +30559,22 @@ Program tworzył rzadkie w PRL poczucie jednoczesności: te same żarty, te same
     category: 'kultura',
     tags: ['film', 'komedia', 'absurd', 'kino'],
     yearStart: 1973,
-    summary: 'Kultowa tragikomedia Andrzeja Kondratiuka (1973) z Himilsbachem i Maklakiewiczem; dwaj koledzy wydają ostatnie pieniądze, by przelecieć się samolotem.',
+    summary: 'Kultowa tragikomedia Andrzeja Kondratiuka (1973) z Himilsbachem i Maklakiewiczem; dwaj koledzy wygrywają w toto-lotka i wydają wygraną na pierwsze w życiu loty samolotem.',
     content: `## Film
-Komedia Andrzeja Kondratiuka z 1973 roku, zagrana przez Jana Himilsbacha i Zdzisława Maklakiewicza – duet, który trzy lata wcześniej zaistniał w „Rejsie”. Obaj grają samych siebie w takim stopniu, że granica między rolą a osobą przestaje mieć znaczenie.
+„Wniebowzięci” to komedia Andrzeja Kondratiuka z 1973 roku, zagrana przez Jana Himilsbacha i Zdzisława Maklakiewicza – duet, który trzy lata wcześniej zaistniał w „Rejsie”. Himilsbach był też współautorem scenariusza. Obaj grają postacie tak bliskie sobie samym, że granica między rolą a osobą przestaje mieć znaczenie.
 
 ## Fabuła
-Dwaj przyjaciele postanawiają polecieć samolotem, choć nie mają dokąd. Kupują bilety na krajowy rejs i traktują lot jak wydarzenie towarzyskie. Cała fabuła sprowadza się do tego pomysłu i do rozmów, które przy nim padają.
+Dwaj prości mężczyźni, Lutek Narożniak (Himilsbach) i Arkaszka Kozłowski (Maklakiewicz), niespodziewanie wygrywają dużą sumę w toto-lotka. Za wygraną pierwszy raz w życiu lecą samolotem i przez jakiś czas czują się innymi ludźmi. Lot staje się dla nich wydarzeniem towarzyskim i sposobem na chwilowe wyrwanie się z codzienności.
 
 ## Dlaczego to działa
-Film jest zapisem sposobu mówienia i myślenia, a nie opowieścią. Bohaterowie wygłaszają tyrady o życiu, sztuce i kobietach, mieszając patos z bełkotem. Właśnie to zderzenie wielkich słów z całkowitą marnością sytuacji jest tu przedmiotem obserwacji.
+Film jest zapisem sposobu mówienia i myślenia, a nie klasyczną opowieścią. Bohaterowie wygłaszają tyrady o życiu, sztuce i kobietach, mieszając patos z bełkotem. Przedmiotem obserwacji jest właśnie zderzenie wielkich słów z marnością sytuacji – i marzenie o innym życiu, na które stać ich tylko na chwilę.
 
 ## Miejsce w kulturze
-Razem z „Rejsem” film utrwalił typ polskiego humoru opartego na obserwacji języka, a nie na dowcipie sytuacyjnym. Cytaty weszły do obiegu i przez dekady służyły jako komentarz do peerelowskiej codzienności.`,
+Razem z „Rejsem” i „Hydrozagadką” film utrwalił typ polskiego humoru opartego na obserwacji języka, a nie na dowcipie sytuacyjnym. Cytaty weszły do obiegu i przez dekady służyły jako komentarz do codzienności PRL. Duet Himilsbacha i Maklakiewicza upamiętnia dziś warszawski mural z kadrami z ich filmów.`,
     trivia: [
-      'Himilsbach i Maklakiewicz grają postacie na tyle bliskie sobie samym, że widzowie brali film za zapis rzeczywistości.',
-      'Cała fabuła opiera się na jednym pomyśle: locie samolotem donikąd.',
+      'Bohaterowie finansują swoje loty wygraną w toto-lotka.',
+      'Jan Himilsbach był nie tylko aktorem, ale i współautorem scenariusza.',
+      'Himilsbach i Maklakiewicz grają postacie tak bliskie sobie, że widzowie brali film za zapis rzeczywistości.',
     ],
     resources: [
       {
@@ -31701,19 +31731,23 @@ Zgodnie ze zmianą konstytucji z 7 kwietnia 1989 roku kompetencje Rady przeszły
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jerzy_Kuberski.jpg?width=800',
     imageCaption: 'Jerzy Kuberski, kierownik Urzędu do Spraw Wyznań w latach 1980–1982',
     content: `## Powstanie
-Urząd powołano w 1950 roku, w okresie narastającego konfliktu państwa z Kościołem. Formalnie miał zajmować się stosunkami wyznaniowymi, w praktyce stał się narzędziem nadzoru nad duchowieństwem i parafiami.
+Urząd do Spraw Wyznań powołano ustawą z 19 kwietnia 1950 roku, zaledwie kilka dni po podpisaniu porozumienia rządu z Episkopatem. Podlegał bezpośrednio premierowi, a w terenie działały wojewódzkie wydziały do spraw wyznań (do 1957 roku także powiatowe i miejskie). Formalnie zajmował się stosunkami wyznaniowymi, w praktyce był częścią aparatu kontroli i represji wobec Kościołów i związków wyznaniowych.
 
 ## Narzędzia
-Najskuteczniejszym instrumentem było prawo budowlane: zgoda na budowę kościoła zależała od decyzji administracyjnej, którą można było odmawiać latami. Urząd opiniował też nominacje kościelne, kontrolował wydawnictwa religijne i przydział papieru, decydował o punktach katechetycznych i o wyjazdach duchownych za granicę.
+Najskuteczniejszym narzędziem było prawo budowlane: zgoda na budowę kościoła zależała od decyzji, którą można było odmawiać latami. Urząd współpracował niemal ze wszystkimi ministerstwami: z oświatą w sprawach nauczania religii i seminariów, z finansami w polityce podatkowej, z budownictwem w sprawach budownictwa sakralnego. Nadzorował też Fundusz Kościelny i stowarzyszenia wyznaniowe.
 
 ## Współpraca ze służbami
-Urząd działał w ścisłym powiązaniu z pionem IV Służby Bezpieczeństwa, zajmującym się Kościołem. Wymieniano informacje o duchownych, dzielono role: represja i „dialog” prowadzone były równolegle.
+Urząd ściśle współpracował ze Służbą Bezpieczeństwa, która miała osobny pion do spraw Kościoła. Wymieniano informacje o duchownych i dzielono role: represja i „dialog” toczyły się równolegle.
+
+## Kierownicy
+Na czele urzędu stali m.in. Antoni Bida, Jerzy Sztachelski, Aleksander Skarżyński i Kazimierz Kąkol. Od 1974 roku kierownik miał rangę ministra. W latach 1980–1982 urzędem kierował Jerzy Kuberski, a w latach 1982–1987 Adam Łopatka.
 
 ## Skutek odwrotny
-Odmowy zgód budowlanych stały się jednym z najczęstszych zarzewi lokalnych konfliktów, a walka o kościół – jak w Nowej Hucie – potrafiła zmobilizować całe społeczności. Urząd zlikwidowano w 1989 roku.`,
+Odmowy zgód budowlanych były jednym z najczęstszych zarzewi lokalnych konfliktów, a walka o kościół – jak w Nowej Hucie – potrafiła zmobilizować całe społeczności. Urząd zlikwidował Sejm ustawą z 23 listopada 1989 roku, a jego zadania przejął Urząd Rady Ministrów.`,
     trivia: [
-      'Odmowa zgody na budowę kościoła była skuteczniejszym narzędziem nacisku niż otwarta represja – nie tworzyła męczenników.',
-      'Urząd decydował także o przydziale papieru na wydawnictwa religijne, co ograniczało nakłady prasy katolickiej.',
+      'Urząd powołano kilka dni po podpisaniu porozumienia rządu z Episkopatem w kwietniu 1950 roku.',
+      'Odmowa zgody na budowę kościoła była skutecznym narzędziem nacisku, bo nie tworzyła męczenników.',
+      'Urząd zlikwidowano dopiero 23 listopada 1989 roku.',
     ],
     resources: [
       {
@@ -34061,6 +34095,9 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1956, event: 'Pierwsze Ogólnopolskie Festiwal Muzyki Jazzowej w Sopocie', category: 'kultura', entryId: 'jazz-prl' },
   { year: 1972, event: 'Złoto olimpijskie polskich piłkarzy w Monachium', category: 'społeczeństwo', entryId: 'mundial-1974' },
   { year: 1974, event: 'Polska zajmuje 3. miejsce na Mistrzostwach Świata w piłce nożnej', category: 'społeczeństwo', entryId: 'mundial-1974' },
+  { year: 1974, event: 'Mecz na wodzie we Frankfurcie – porażka z RFN 0:1', category: 'społeczeństwo', entryId: 'mundial-1974' },
+  { year: 1940, event: 'Biuro Polityczne KC WKP(b) podejmuje decyzję o rozstrzelaniu polskich jeńców (5 marca)', category: 'represje', entryId: 'katyn' },
+  { year: 1990, event: 'ZSRR przyznaje się do zbrodni katyńskiej (13 kwietnia)', category: 'represje', entryId: 'katyn' },
   { year: 1976, event: 'Irena Szewińska złotą medalistką olimpijską (400 m, Montreal)', category: 'społeczeństwo', entryId: 'irena-szewinska' },
   { year: 1980, event: 'Gest Kozakiewicza – złoto w skoku o tyczce w Moskwie', category: 'społeczeństwo', entryId: 'kozakiewicz-wladyslaw' },
   { year: 1964, event: 'Jacek Kuroń i Karol Modzelewski – „List otwarty do Partii"', category: 'opozycja', entryId: 'kuron' },
@@ -34272,7 +34309,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1984, event: 'Klaus Mitffoch wydaje przełomowy album nowej fali', category: 'kultura', entryId: 'klaus-mitffoch' },
   { year: 1978, event: 'Premiera telewizyjna serialu „Lalka” Ryszarda Bera wg Bolesława Prusa', category: 'kultura', entryId: 'lalka-serial' },
   { year: 1980, event: 'Emisja serialu „Kariera Nikodema Dyzmy” z Romanem Wilhelmim', category: 'kultura', entryId: 'kariera-nikodema-dyzmy' },
-  { year: 1985, event: 'Aya RL wydaje debiut z przebojem „Skóra”', category: 'kultura', entryId: 'aya-rl' },
+  { year: 1984, event: 'Aya RL odnosi sukces w Jarocinie przebojem „Skóra”', category: 'kultura', entryId: 'aya-rl' },
   { year: 1949, event: 'Otwarcie Trasy W-Z – symbol odbudowy Warszawy', category: 'społeczeństwo', entryId: 'trasa-wz' },
   { year: 1952, event: 'Otwarcie MDM i placu Konstytucji – sztandar socrealizmu', category: 'społeczeństwo', entryId: 'mdm-marszalkowska' },
   { year: 1971, event: 'Decyzja o odbudowie Zamku Królewskiego w Warszawie', category: 'społeczeństwo', entryId: 'zamek-krolewski' },
@@ -34422,7 +34459,8 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1958, event: 'Akcja „Tysiąc szkół na Tysiąclecie”', category: 'społeczeństwo', entryId: 'szkoly-tysiaclecia' },
   { year: 1954, event: 'W Kielcach rusza produkcja pralki Frania', category: 'społeczeństwo', entryId: 'frania-pralka' },
   { year: 1959, event: 'Rusza produkcja samochodów dostawczych Nysa', category: 'społeczeństwo', entryId: 'nysa-zuk' },
-  { year: 1966, event: 'Obchody Milenium Chrztu Polski', category: 'społeczeństwo', entryId: 'milenium-1966' },
+  { year: 1966, event: 'Obchody Milenium Chrztu Polski; milicja „aresztuje” wędrujący obraz Matki Boskiej', category: 'społeczeństwo', entryId: 'milenium-1966' },
+  { year: 1950, event: 'Ustawa z 19 kwietnia powołuje Urząd do Spraw Wyznań', category: 'polityka', entryId: 'urzad-wyznan' },
   { year: 1973, event: 'Rusza produkcja Fiata 126p – Malucha', category: 'społeczeństwo', entryId: 'fiat-126p' },
   { year: 1985, event: 'Zbigniew Religa przeprowadza pierwszy udany przeszczep serca w Polsce', category: 'społeczeństwo', entryId: 'zbigniew-religa' },
   { year: 1957, event: 'Powstaje Wojskowa Służba Wewnętrzna w miejsce Informacji Wojskowej', category: 'wojsko', entryId: 'wsw' },
@@ -34439,7 +34477,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1947, event: 'Mała Konstytucja powołuje Radę Państwa', category: 'polityka', entryId: 'rada-panstwa' },
   { year: 1968, event: 'Tomasz Stańko Quintet na Jazz Jamboree', category: 'kultura', entryId: 'tomasz-stanko' },
   { year: 1946, event: 'Zygmunt Zaremba wyjeżdża do Francji i staje na czele Delegacji Zagranicznej PPS', category: 'osoby', entryId: 'zaremba-zygmunt' },
-  { year: 1950, event: 'Powstaje Urząd do Spraw Wyznań', category: 'polityka', entryId: 'urzad-wyznan' },
+  { year: 1989, event: 'Sejm likwiduje Urząd do Spraw Wyznań (23 listopada)', category: 'polityka', entryId: 'urzad-wyznan' },
   { year: 1989, event: 'Tadeusz Mazowiecki pierwszym niekomunistycznym premierem', category: 'polityka', entryId: 'premierzy-prl' },
   { year: 1946, event: 'Gen. Władysław Anders pozbawiony obywatelstwa polskiego', category: 'osoby', entryId: 'anders' },
   { year: 1948, event: 'Rotmistrz Witold Pilecki stracony w więzieniu na Mokotowie', category: 'osoby', entryId: 'pilecki' },
