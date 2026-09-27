@@ -14426,26 +14426,30 @@ Najbardziej znaną formą protestu był bojkot głównego wydania. Od lutego 198
     subtitle: 'Konstruktor minikomputera K-202',
     category: 'społeczeństwo',
     tags: ['nauka', 'technika', 'informatyka', 'lata 70.'],
-    yearStart: 1970,
+    yearStart: 1957,
     yearEnd: 1978,
     summary: 'Wybitny polski inżynier, konstruktor nowoczesnego minikomputera K-202, którego produkcję zablokowano, co stało się symbolem marnotrawstwa talentów w PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jacek_Karpi%C5%84ski.jpg?width=800',
     imageCaption: 'Jacek Karpiński, konstruktor minikomputera K-202',
-    content: `## Sylwetka
-Jacek Karpiński (1927–2010) był utalentowanym inżynierem i konstruktorem, weteranem powstania warszawskiego. W latach 60. i 70. tworzył nowatorskie konstrukcje elektroniczne.
+    content: `## Żołnierz „Zośki”
+Jacek Karpiński (1927–2010) urodził się w Turynie. W czasie okupacji walczył w Szarych Szeregach, m.in. razem z Krzysztofem Kamilem Baczyńskim w batalionie „Zośka”. Drugiego dnia Powstania Warszawskiego został postrzelony w kręgosłup i sparaliżowany. Znowu nauczył się chodzić, ale utykał do końca życia. Po wojnie, prześladowany za AK, skończył Politechnikę Warszawską.
+
+## Wynalazca
+W 1957 roku zbudował AAH, maszynę do długoterminowych prognoz pogody, a w 1959 roku AKAT-1 – pierwszy na świecie tranzystorowy analizator równań różniczkowych. Zwyciężył w konkursie młodych talentów UNESCO i w latach 1961–1962 studiował w USA, m.in. na Harvardzie i MIT. Po powrocie skonstruował perceptron – uczącą się sieć neuronową rozpoznającą obraz z kamery, drugą taką konstrukcję na świecie – a potem komputer KAR-65.
 
 ## K-202
-Na początku lat 70. Karpiński skonstruował minikomputer K-202 – maszynę, która pod względem szybkości i możliwości wyprzedzała wiele zachodnich konstrukcji tamtych czasów. Był to projekt na światowym poziomie.
+W latach 1970–1973 zaprojektował K-202, pierwszy polski minikomputer na układach scalonych, pokazany na targach w Poznaniu w 1971 roku. Wykonywał ok. miliona operacji na sekundę i dzięki stronicowaniu mógł teoretycznie adresować 8 MB pamięci. Władze początkowo odrzuciły projekt. Produkcję ruszono dzięki kapitałowi brytyjskich firm, ale powstało tylko ok. 30 egzemplarzy, a 15 wysłanych do Wielkiej Brytanii okazało się niesprawnych.
 
-## Zablokowanie
-Mimo potencjału produkcję K-202 zablokowano. Złożyły się na to biurokracja, zawiść, branżowe rozgrywki i niechęć decydentów. Karpiński nie uzyskał wsparcia, a projekt upadł.
+## Odsunięcie
+W latach 70. Karpiński był szykanowany, a w końcu odsunięto go od kierowania zakładem produkującym K-202. Produkcję przerwano, choć na taśmach czekało 200 niedokończonych egzemplarzy. Jego zespół rozwinął konstrukcję w MERA-400, produkowaną w latach 1976–1986. Według ustaleń historyków w latach 60. był też tajnym źródłem wywiadu gospodarczego, który współfinansował jego wyjazdy.
 
-## Symbol marnotrawstwa
-Historia K-202 stała się symbolem marnowania talentów i innowacji w gospodarce centralnie planowanej, gdzie polityka i układy przeważały nad merytoryką. Rozgoryczony Karpiński zajął się m.in. hodowlą.
-
-## Znaczenie
-Jacek Karpiński bywa nazywany „polskim geniuszem informatyki”, a losy K-202 ilustrują, jak system PRL trwonił szanse na technologiczny rozwój.`,
-    trivia: ['Skonstruował minikomputer K-202, wyprzedzający swoją epokę.', 'Projekt zablokowano, a konstruktora odsunięto od pracy.'],
+## Hodowla i emigracja
+Karpińskiemu odmawiano wyjazdów, a w 1978 roku wyjechał pod Olsztyn i zajął się hodowlą drobiu i świń. W 1981 roku władze nie zgodziły się, by pokierował Merą lub Instytutem Maszyn Matematycznych. Wyemigrował do Szwajcarii, gdzie pracował dla producenta magnetofonów Nagra. Do Polski wrócił w 1990 roku. Jego historia stała się symbolem zmarnowanego potencjału technicznego PRL.`,
+    trivia: [
+      'Był powstańcem z batalionu „Zośka”, sparaliżowanym po postrzale w kręgosłup.',
+      'Powstało tylko ok. 30 egzemplarzy K-202, a 200 niedokończonych czekało na taśmach.',
+      'Po odsunięciu od pracy zajął się pod Olsztynem hodowlą drobiu i świń.',
+    ],
     resources: [
       {
         id: 'jk-1',
@@ -20235,20 +20239,24 @@ To jeden z najczystszych przykładów instrumentalizacji pamięci o wojnie: stru
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gomulka_speech.jpg?width=800',
     imageCaption: 'Wiec z udziałem Gomułki w Warszawie, 24 października 1956 – początek dekady małej stabilizacji',
     content: `## Pojęcie
-„Mała stabilizacja” to popularne określenie atmosfery życia w Polsce za rządów Władysława Gomułki w latach 60. Spopularyzował je m.in. dramat Tadeusza Różewicza „Świadkowie albo nasza mała stabilizacja”.
+„Mała stabilizacja” to określenie klimatu życia w Polsce po Październiku 1956 roku, w epoce Władysława Gomułki. Bywa używane jako potoczna nazwa całego okresu po odwilży gomułkowskiej. Utrwalił je dramat Tadeusza Różewicza „Świadkowie albo nasza mała stabilizacja”.
 
 ## Po odwilży
-Po odwilży 1956 roku ustał masowy terror, lecz nadzieje na głębsze reformy się rozwiały. Nastała szara codzienność – skromna, przewidywalna, pozbawiona zarówno represji na wielką skalę, jak i dobrobytu.
+Po 1956 roku ustał masowy terror stalinowski, a Gomułka – który objął władzę 21 października 1956 roku – początkowo budził wielkie nadzieje. Z czasem nadzieje na głębsze reformy się rozwiały. Nastała szara codzienność – przewidywalna, bez represji na masową skalę, ale i bez dobrobytu oraz wolności.
 
 ## Życie codzienne
-Dominowały niedobory, ciasne mieszkania, kolejki i ograniczony wybór towarów. Symbolami epoki stały się skromne marzenia o telewizorze, pralce „Frani” czy meblościance.
+Dominowały niedobory, ciasne mieszkania, kolejki i ograniczony wybór towarów. Symbolami epoki stały się skromne marzenia: telewizor, pralka „Frania”, meblościanka, mieszkanie w bloku. Gomułka, znany z oszczędności i nieufności wobec konsumpcji, stawiał na przemysł ciężki kosztem rynku.
 
-## Klimat społeczny
-Społeczeństwo przyjęło postawę przystosowania – „małych spraw” i prywatności, w obliczu braku perspektyw na zmianę. Narastało jednak rozczarowanie, które wybuchło w 1968 i 1970 roku.
+## Przystosowanie
+Społeczeństwo wybrało postawę przystosowania – „małych spraw”, życia prywatnego i drobnych przyjemności – wobec braku widoków na zmianę. Pod powierzchnią narastało jednak rozczarowanie. Wybuchło w 1968 roku wśród studentów i inteligencji, a w grudniu 1970 roku na Wybrzeżu, co zakończyło rządy Gomułki.
 
 ## Znaczenie
-„Mała stabilizacja” to celne określenie kondycji PRL lat 60. – świata bez wielkiego strachu, ale i bez wolności oraz nadziei na lepsze jutro.`,
-    trivia: ['Określenie spopularyzował dramat Tadeusza Różewicza.', 'Oznaczało skromną, ale przewidywalną codzienność.'],
+„Mała stabilizacja” opisuje kondycję PRL lat 60. – świat bez wielkiego strachu, ale i bez wolności oraz nadziei na szybką poprawę. Historycy używają tego określenia na równi z „odwilżą gomułkowską”.`,
+    trivia: [
+      'Określenie utrwalił dramat Tadeusza Różewicza „Świadkowie albo nasza mała stabilizacja”.',
+      'Bywa używane jako potoczna nazwa całego okresu po Październiku 1956 roku.',
+      'Rozczarowanie „małą stabilizacją” wybuchło w 1968 i 1970 roku.',
+    ],
     resources: [
       {
         id: 'ms-1',
@@ -23481,19 +23489,23 @@ Impreza zniknęła wraz z systemem, który ją powołał. Pozostała jako przyk�
     yearEnd: 1989,
     summary: 'Najważniejsze święto rodzinne, obchodzone mimo ateizacji i niedoborów – z polowaniem na karpia, pomarańcze i choinkę.',
     content: `## Święto mimo państwa
-Boże Narodzenie było najważniejszym świętem w roku, obchodzonym powszechnie mimo świeckiego charakteru państwa. Wigilia nie była dniem wolnym od pracy przez większość okresu PRL – wracano do domu prosto z zakładu.
+Boże Narodzenie było najważniejszym świętem rodzinnym w roku, obchodzonym powszechnie mimo świeckiego charakteru państwa. Pierwszy i drugi dzień świąt były wolne od pracy, ale Wigilia – w przeciwieństwie do dzisiejszych czasów – przez cały PRL była zwykłym dniem roboczym. Na wieczerzę wracano prosto z zakładu.
 
 ## Zdobywanie
-Przygotowania oznaczały polowanie na produkty: karpia, mak, bakalie, pomarańcze. Kolejki po karpia i wanny pełne żywych ryb należały do stałych obrazów grudnia. Prezenty często wykonywano samodzielnie albo zdobywano przez znajomości.
+Przygotowania oznaczały polowanie na produkty: karpia, mak, bakalie, cytrusy. Kolejki po karpia i żywe ryby pływające w wannie należały do stałych obrazów grudnia. Pomarańcze czy mandarynki bywały towarem świątecznym, rzucanym do sklepów przed Gwiazdką. Prezenty często robiono samemu albo zdobywano przez znajomości.
 
-## Choinka i pasterka
-Ozdoby robiono w domu, ze słomy, bibuły i papieru. Udział w pasterce był manifestacją religijną w przestrzeni publicznej, a w przypadku nauczycieli, milicjantów czy działaczy partyjnych bywał odnotowywany.
+## Tradycja
+Wieczerza wigilijna zachowała dawny kształt: dzielenie się opłatkiem, potrawy postne i zwyczajowe dwanaście dań, kolędy. Ozdoby choinkowe często robiono w domu – ze słomy, bibuły i papieru. Wieczór kończyła pasterka, na którą chodziły tłumy, także w latach największej presji na Kościół.
 
 ## Grudzień 1981
-Najbardziej pamiętane są święta stanu wojennego: bez telefonów, z godziną milicyjną, z bliskimi w ośrodkach internowania. Ten kontrast – między świętem rodzinnym a rozbitą rodziną – utrwalił się w pamięci mocniej niż cokolwiek innego z tamtej zimy.`,
+Najbardziej pamiętane są święta stanu wojennego: bez telefonów, z godziną milicyjną i z bliskimi w ośrodkach internowania. Kontrast między świętem rodzinnym a rozbitymi rodzinami utrwalił się w pamięci mocniej niż cokolwiek innego z tamtej zimy.
+
+## Po latach
+Wiele zwyczajów z tamtych lat – karp kupowany na żywo, domowe ozdoby, zdobywanie cytrusów – przetrwało w pamięci jako symbol PRL-owskich świąt. Wigilia stała się dniem wolnym od pracy dopiero w 2025 roku.`,
     trivia: [
-      'Wigilia nie była dniem wolnym od pracy przez większość okresu PRL.',
-      'Ozdoby choinkowe robiono w domu, ze słomy, bibuły i papieru.',
+      'Wigilia przez cały PRL była zwykłym dniem pracy – wolna jest dopiero od 2025 roku.',
+      'Żywy karp pływający w wannie był stałym obrazem grudnia.',
+      'Ozdoby choinkowe często robiono w domu, ze słomy, bibuły i papieru.',
     ],
     resources: [
       {
@@ -24470,25 +24482,29 @@ Jej popularność przypadła na dekadę, w której rock stał się główną muz
     subtitle: 'Wirnikowa pralka w każdym domu',
     category: 'społeczeństwo',
     tags: ['technika', 'życie codzienne', 'AGD', 'przemysł'],
-    yearStart: 1958,
+    yearStart: 1954,
     yearEnd: 1989,
     summary: 'Prosta wirnikowa pralka „Frania” była jednym z symboli PRL-owskiego AGD – obecna w niemal każdym domu, choć wymagała ręcznego przekładania prania.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pralka_Frania_-_producent_%C5%9Awiatowit.jpg?width=800',
     imageCaption: 'Pralka Frania produkcji zakładów Światowit',
     content: `## Urządzenie
-Frania była elektryczną pralką wirnikową – zbiornikiem z silnikiem i wirnikiem, który poruszał wodę z praniem. Nie miała programów, grzałki ani wirowania: woda musiała być nalana ręcznie, a pranie wyjęte i wyżęte samodzielnie.
+Frania to elektryczna pralka wirnikowa: bęben stoi w miejscu, a wodę i pranie porusza obracający się wirnik. W typowej wersji składała się z dwóch cylindrycznych komór z emaliowanej blachy – w górnej prało się, w dolnej był silnik o mocy ok. 180 W z przekładnią pasową. Nie miała programów ani wirowania. Niektóre odmiany miały wyżymaczkę, pompkę albo podgrzewanie wody, inne trzeba było napełniać ciepłą wodą.
+
+## Z Kielc
+Pralkę opracowano w 1953 roku w Kieleckich Zakładach Wyrobów Metalowych, które produkowały też motocykle SHL, a produkcja ruszyła w 1954 roku. Frania nosiła znak SHL. Od lat 60. podobny model, nazwany „Olkusz”, wytwarzała olkuska Emalia – z korpusem zespawanym podobno z dwóch garnków. Z czasem „frania” stała się potoczną nazwą wszystkich pralek wirnikowych.
 
 ## Jak się prało
-Pranie było operacją na pół dnia: gotowanie wody, kilka cykli w pralce, płukanie w wannie, przepuszczanie przez wyżymaczkę, rozwieszanie. Frania stała zwykle w łazience albo kuchni i wyciągało się ją tylko na czas prania.
+Pranie było operacją na pół dnia: gotowanie wody, kilka cykli w pralce, płukanie w wannie, wyżymanie, rozwieszanie. Frania stała zwykle w łazience albo kuchni i wyciągało się ją tylko na czas prania. Za tą pracą stały niemal wyłącznie kobiety, obok pracy zawodowej.
 
 ## Dlaczego trwała tak długo
-Pralki automatyczne pojawiły się w Polsce szerzej dopiero w latach 80., i to w ograniczonej dostępności. Frania była tania, prosta, łatwa do naprawy i mieściła się w małym mieszkaniu – dlatego produkowano ją dziesięcioleciami.
+Bębnowe pralki automatyczne upowszechniły się w Polsce dopiero w latach 80. Frania była tania, prosta, łatwa do naprawy i mieściła się w małym mieszkaniu – dlatego przez dziesięciolecia była najpopularniejszą pralką w kraju.
 
-## Praca kobiet
-Za praniem stała konkretna praca, wykonywana niemal wyłącznie przez kobiety, obok pracy zawodowej. Sprzęt gospodarstwa domowego nie był w PRL kwestią wygody, lecz realnym czynnikiem decydującym o ilości wolnego czasu w rodzinie.`,
+## Po PRL
+Frania przetrwała ustrój. Olkuska Emalia produkowała ją do 2014 roku, a markę odkupiła firma z Myszkowa. Jeszcze w 2016 roku sprzedawano 500–600 sztuk miesięcznie, głównie właścicielom jachtów, domków letniskowych i warsztatów.`,
     trivia: [
-      'Pralka nie miała programów ani wirowania – wodę nalewało się ręcznie, a pranie wyżymało osobno.',
-      'Pralki automatyczne upowszechniły się w Polsce dopiero w latach 80.',
+      'Pierwsze Franie produkowano w Kielcach, w zakładach, które robiły też motocykle SHL.',
+      'Olkuski model miał podobno korpus zespawany z dwóch garnków.',
+      'Jeszcze w 2016 roku sprzedawano 500–600 Frań miesięcznie.',
     ],
     resources: [
       {
@@ -29787,20 +29803,24 @@ Muzyka instrumentalna nie miała tekstu, który cenzor mógłby zakwestionować.
     summary: 'Trębacz jazzowy i kompozytor światowej sławy, pionier europejskiego free jazzu; grał w kwintecie Komedy, nagrywał dla wytwórni ECM.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tomasz%20Stanko.jpg?width=800',
     imageCaption: 'Tomasz Stańko – trębacz jazzowy i kompozytor.',
-    content: `## Trębacz
-Tomasz Stańko (1942–2018) był trębaczem i kompozytorem, muzykiem o rozpoznawalnym od pierwszych dźwięków, chropawym brzmieniu. Uchodzi za najbardziej znanego na świecie polskiego jazzmana.
+    content: `## Od skrzypiec do trąbki
+Tomasz Stańko (1942–2018) urodził się w Rzeszowie, a dorastał w Krakowie. Muzyki uczył się od dziecka, najpierw na skrzypcach. Plany zostania plastykiem porzucił po koncercie Dave'a Brubecka w krakowskiej „Rotundzie” w 1958 roku. Bywał w klubie jazzowym Helikon, a od 1963 roku grał z Jazz Darings, współpracując też z Michałem Urbaniakiem i Andrzejem Trzaskowskim.
 
 ## Z Komedą
-Grał w kwintecie Krzysztofa Komedy i wziął udział w nagraniu „Astigmatic” (1966) – płyty uznawanej za najważniejszy album w historii polskiego jazzu i jedno z dzieł, które oderwały jazz europejski od wzorców amerykańskich.
+W 1964 roku dwukrotnie wystąpił na Jazz Jamboree – z Trzaskowskim i z Krzysztofem Komedą. Zagrał na płycie Komedy „Astigmatic” z 1966 roku, uznawanej za najważniejszy album polskiego jazzu i jedno z dzieł, które oderwały jazz europejski od amerykańskich wzorców.
 
-## Własna droga
-Od przełomu lat 60. i 70. prowadził własne składy, zbliżając się do free jazzu. Wieloletnia współpraca z monachijską wytwórnią ECM przyniosła mu międzynarodową pozycję, a w ostatnich dekadach dzielił czas między Warszawę i Nowy Jork.
+## Własny kwintet
+Po wyjeździe Komedy do USA w 1968 roku Stańko został liderem. Tomasz Stańko Quintet, ze Zbigniewem Seifertem, zdobył uznanie na Jazz Jamboree ’68, a w 1970 roku nagrał „Music for K” pamięci Komedy. W tym samym roku Stańko dołączył do awangardowej Globe Unity Orchestra, a w 1971 współpracował z Krzysztofem Pendereckim.
 
-## Znaczenie
-Kariera Stańki pokazuje, jak wąskim gardłem był w PRL kontakt ze światem: o możliwości nagrywania i koncertowania za granicą decydowały paszport i dewizy. Jazz był jedną z nielicznych dziedzin, w których polski artysta mógł funkcjonować w obiegu zachodnim bez zrywania z krajem.`,
+## Lata 70. i 80.
+Od 1974 roku jego najważniejszym partnerem był fiński perkusista Edward Vesala. Z nim Stańko grał m.in. w Indiach, we wnętrzu Tadż Mahal. W 1985 roku założył Freelectronic, skład wyprzedzający epokę w użyciu elektroniki. Kariera za granicą wymagała jednak paszportu i dewiz – jazz był jedną z nielicznych dziedzin, w których polski artysta mógł działać w obiegu zachodnim bez zrywania z krajem.
+
+## Światowa sława
+W latach 90. związał się na stałe z monachijską wytwórnią ECM. Płyta „Litania” z 1997 roku, z muzyką Komedy, stała się przebojem, a z młodym kwartetem Marcina Wasilewskiego koncertował po obu stronach Atlantyku. Przez lata dzielił czas między Warszawę i Nowy Jork. Uchodzi za najbardziej znanego na świecie polskiego jazzmana.`,
     trivia: [
-      'Grał w kwintecie Krzysztofa Komedy przy nagraniu „Astigmatic”, uznawanego za najważniejszą polską płytę jazzową.',
-      'Przez lata nagrywał dla monachijskiej wytwórni ECM, co dało mu pozycję w obiegu światowym.',
+      'O karierze jazzowej zdecydował koncert Dave\'a Brubecka w Krakowie w 1958 roku.',
+      'Grał na płycie Komedy „Astigmatic”, uznawanej za najważniejszy album polskiego jazzu.',
+      'Z Edwardem Vesalą zagrał we wnętrzu Tadż Mahal.',
     ],
     resources: [
       {
@@ -30568,20 +30588,24 @@ Wyjazd artysty na Zachód był w PRL decyzją obciążoną ryzykiem: oznaczał z
     summary: 'Wybitny aktor teatralny i filmowy o ogromnej ekspresji; pamiętny jako Moryc Welt w „Ziemi obiecanej” i Robespierre w „Dantonie”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wojciech%20Pszoniak%20%28portret%29.jpg?width=800',
     imageCaption: 'Wojciech Pszoniak – aktor teatralny i filmowy.',
-    content: `## Aktor
-Wojciech Pszoniak (1942–2020) urodził się we Lwowie, a wykształcenie aktorskie zdobył w Krakowie. Zaliczano go do najwybitniejszych polskich aktorów dramatycznych swojego pokolenia – obok Holoubka, Łomnickiego i Zapasiewicza.
+    content: `## Ze Lwowa do Starego Teatru
+Wojciech Pszoniak (1942–2020) urodził się we Lwowie, ale dorastał w Gliwicach, w tej samej kamienicy co Adam Zagajewski. W 1968 roku ukończył krakowską PWST. Grał w Starym Teatrze – w 1972 roku nagrodzono go m.in. za Piotra Wierchowieńskiego w „Biesach” – a potem w Teatrze Narodowym i Powszechnym w Warszawie. W latach 70. występował też w kabarecie Pod Egidą i uczył w warszawskiej PWST.
 
 ## Moryc Welt
-Międzynarodową rozpoznawalność przyniosła mu rola Moryca Welta w „Ziemi obiecanej” Andrzeja Wajdy (1974). Zagrał też w „Weselu” i w „Korczaku” tego samego reżysera oraz w „Austerii” Jerzego Kawalerowicza.
+Międzynarodową sławę przyniosła mu rola Moryca Welta w „Ziemi obiecanej” Andrzeja Wajdy, za którą w 1975 roku dostał nagrodę na festiwalu w Gdańsku. Zagrał też tytułową rolę w „Diable” Andrzeja Żuławskiego, a u Wajdy m.in. w „Weselu”.
+
+## Robespierre
+W 1975 roku zagrał Robespierre'a w „Sprawie Dantona” Stanisławy Przybyszewskiej w reżyserii Wajdy w Teatrze Powszechnym i zebrał za tę rolę kilka nagród. Do postaci wrócił w filmowym „Dantonie” Wajdy z 1983 roku, nakręconym we Francji tuż po wprowadzeniu stanu wojennego i odczytywanym jako opowieść o rewolucji pożerającej własne dzieci.
 
 ## Francja
-Na początku lat 80. wyjechał do Francji, gdzie zagrał Robespierre'a w „Dantonie” Wajdy (1983) – filmie o rewolucji francuskiej, odczytywanym powszechnie jako opowieść o rewolucji zjadającej własne dzieci, nakręconym tuż po wprowadzeniu stanu wojennego w Polsce.
+Od końca lat 70. grał w teatrach francuskich, a potem zamieszkał we Francji na stałe, podkreślając przy tym przywiązanie do Polski. Francja uhonorowała go Orderem Narodowym Zasługi i Orderem Sztuki i Literatury.
 
-## Dwa obiegi
-Jego kariera pokazuje sytuację polskiego aktora tamtych lat: prawdziwie międzynarodowy dorobek można było zbudować, ale zwykle za cenę wyjazdu, a powroty na krajowe ekrany zależały od tego, czy władze uznają go za osobę akceptowalną.`,
+## Uznanie
+W 1990 roku Gustaw Holoubek, Tadeusz Łomnicki i Zbigniew Zapasiewicz uznali go – obok Piotra Fronczewskiego i Andrzeja Seweryna – za jednego z trzech największych polskich aktorów dramatycznych po 1965 roku.`,
     trivia: [
-      'Rolę Robespierre\'a w „Dantonie” zagrał tuż po wprowadzeniu w Polsce stanu wojennego.',
-      'Zaliczano go do czołówki polskich aktorów dramatycznych obok Holoubka, Łomnickiego i Zapasiewicza.',
+      'Robespierre\'a zagrał najpierw na scenie Teatru Powszechnego w 1975 roku, a dopiero potem w filmowym „Dantonie”.',
+      'Holoubek, Łomnicki i Zapasiewicz zaliczyli go do trzech największych polskich aktorów po 1965 roku.',
+      'Dorastał w Gliwicach, w tej samej kamienicy co poeta Adam Zagajewski.',
     ],
     resources: [
       {
@@ -31555,20 +31579,24 @@ Po Okrągłym Stole i wyborach czerwcowych PRON stracił rację bytu. Zakończy�
     summary: 'Organ pełniący funkcje głowy państwa w PRL – to on formalnie wprowadził stan wojenny i wydawał dekrety w czasie przerw w obradach Sejmu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kompleks_Sejmu_w_latach_60.jpg?width=800',
     imageCaption: 'Kompleks Sejmu w latach 60.',
-    content: `## Zamiast prezydenta
-Po zniesieniu urzędu prezydenta w 1952 roku funkcje głowy państwa przejęła Rada Państwa – organ kolegialny wybierany przez Sejm. Jej przewodniczący był w praktyce protokolarną głową państwa, choć realna władza pozostawała w rękach I sekretarza PZPR.
+    content: `## Mała Konstytucja 1947
+Radę Państwa powołała Mała Konstytucja z 1947 roku, wzorując ją na doświadczeniach Prezydium KRN i na rozwiązaniach radzieckich. Przewodniczył jej wtedy prezydent Bolesław Bierut, a zasiadali w niej m.in. marszałek i wicemarszałkowie Sejmu oraz prezes NIK. Rada nadzorowała rady narodowe, zatwierdzała dekrety rządu i mogła decydować o wprowadzeniu stanu wyjątkowego lub wojennego.
 
-## Uprawnienia
-Rada Państwa zarządzała wybory, ratyfikowała umowy międzynarodowe, mianowała ambasadorów, nadawała odznaczenia i stosowała prawo łaski. Najważniejsze było jednak prawo wydawania dekretów z mocą ustawy w okresach między sesjami Sejmu.
+## Kolegialna głowa państwa
+Konstytucja z 1952 roku zniosła urząd prezydenta i uczyniła z Rady Państwa kolegialną głowę państwa. Wybierał ją Sejm spośród posłów. Rada podpisywała ustawy, zarządzała wybory, ratyfikowała umowy, mianowała ambasadorów i sędziów, nadawała odznaczenia i stosowała prawo łaski. Najważniejsze było jednak prawo wydawania dekretów z mocą ustawy w przerwach między sesjami Sejmu. Przewodniczyli jej m.in. Aleksander Zawadzki, Edward Ochab, Marian Spychalski, Henryk Jabłoński i Wojciech Jaruzelski.
+
+## Pozór i władza
+Przewodniczący pełnił funkcje reprezentacyjne głowy państwa, ale realne decyzje zapadały w Biurze Politycznym PZPR. Rada mieściła się w kompleksie Sejmu przy ulicy Wiejskiej.
 
 ## Stan wojenny
-To właśnie z tego uprawnienia skorzystano w nocy z 12 na 13 grudnia 1981 roku. Dekret o stanie wojennym uchwaliła Rada Państwa, mimo że Konstytucja zakazywała wydawania dekretów w czasie sesji Sejmu – a sesja formalnie trwała. Ten spór prawny wrócił po latach przy próbach rozliczenia autorów stanu wojennego.
+Z prawa do dekretów skorzystano w nocy z 12 na 13 grudnia 1981 roku, uchwalając dekret o stanie wojennym, choć konstytucja zakazywała dekretowania w czasie sesji Sejmu – a sesja formalnie trwała. Spór o legalność tego kroku wracał po latach przy próbach rozliczenia autorów stanu wojennego.
 
 ## Koniec
-Rada Państwa została zniesiona w 1989 roku, wraz z przywróceniem urzędu prezydenta w ramach porozumień Okrągłego Stołu.`,
+Zgodnie ze zmianą konstytucji z 7 kwietnia 1989 roku kompetencje Rady przeszły na prezydenta. Rada Państwa działała do 19 lipca 1989 roku, gdy Zgromadzenie Narodowe wybrało na prezydenta Wojciecha Jaruzelskiego.`,
     trivia: [
-      'Dekret o stanie wojennym wydano wbrew konstytucyjnemu zakazowi dekretowania w czasie sesji Sejmu – kwestia ta wracała w późniejszych procesach.',
-      'Przewodniczący Rady Państwa pełnił funkcje reprezentacyjne głowy państwa, ale najważniejsze decyzje zapadały w Biurze Politycznym PZPR.',
+      'Radę Państwa powołano już w 1947 roku – przez pierwsze lata przewodniczył jej prezydent Bierut.',
+      'Dekret o stanie wojennym wydano wbrew zakazowi dekretowania w czasie sesji Sejmu.',
+      'Rada Państwa działała do 19 lipca 1989 roku, gdy wybrano prezydenta Jaruzelskiego.',
     ],
     resources: [
       {
@@ -32814,20 +32842,24 @@ Publicystyka Ciołkosza dowodziła, że sprzeciw wobec PRL nie był domeną wył
     summary: 'Działacz i publicysta socjalistyczny, jeden z przywódców podziemnej PPS-WRN, po wojnie na emigracji we Francji.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zaremba1.jpg?width=800',
     imageCaption: 'Zygmunt Zaremba, około 1955',
-    content: `## Konspiracja
-Zygmunt Zaremba (1895–1967) należał do kierownictwa podziemnej PPS-WRN i do ścisłego grona polityków Polski Podziemnej. Po wojnie, w obliczu aresztowań działaczy socjalistycznych, wyjechał z kraju.
+    content: `## Socjalista
+Zygmunt Zaremba (1895–1967) urodził się w Piotrkowie Trybunalskim w rodzinie ziemiańskiej. W II RP był jednym z najczynniejszych publicystów PPS, redaktorem m.in. „Robotnika”, i twórcą Zespołu Czasopism PPS. Należał do lewicy partyjnej, ale sprzeciwiał się jednolitemu frontowi z komunistami.
+
+## Konspiracja
+Wraz z Kazimierzem Pużakiem i Mieczysławem Niedziałkowskim tworzył podziemną PPS (PPS-WRN) i kierował jej prasą. Od lipca 1944 roku stał na czele Centralnego Kierownictwa Ruchu. Był głównym autorem „Programu Polski Ludowej” socjalistów. Od 1944 roku zasiadał w Radzie Jedności Narodowej, a po aresztowaniu „szesnastu” w 1945 roku został jednym z jej współprzewodniczących. W Powstaniu Warszawskim wydał 61 numerów „Robotnika”.
+
+## Emigracja
+W 1945 roku zdecydował o rozwiązaniu podziemnych struktur, ale komuniści nie dopuścili go do legalnej PPS. Zagrożony aresztowaniem, w marcu 1946 roku wyjechał do Francji pod fałszywym nazwiskiem, z transportem Polskiego Czerwonego Krzyża. Latem 1946 roku stanął na czele Delegacji Zagranicznej PPS.
 
 ## Paryż
-Osiadł we Francji, gdzie stał się jednym z filarów emigracyjnej PPS i publicystą wydawnictw socjalistycznych. Emigracja paryska – obok londyńskiej – była drugim ośrodkiem polskiej myśli politycznej poza krajem; działał tam również Instytut Literacki Jerzego Giedroycia.
-
-## Spór o lewicę
-Zaremba pisał przede wszystkim o tym, co stało się z polskim socjalizmem: o wchłonięciu PPS przez komunistów w 1948 roku i o zawłaszczeniu przez nich języka lewicy. Dowodził, że ustrój PRL nie jest realizacją socjalizmu, lecz jego zaprzeczeniem.
+W 1947 roku założył w Paryżu Towarzystwo Wydawnicze „Światło” i wydawał kwartalnik „Światło” (1947–1959), a potem pismo „Droga” (1964–1966). Przewodniczył emigracyjnej Radzie Centralnej PPS i współtworzył Unię Socjalistyczną Europy Środkowo-Wschodniej. Dowodził, że ustrój PRL nie jest realizacją socjalizmu, lecz jego zaprzeczeniem.
 
 ## Pamięć
-Zmarł pod Paryżem w 1967 roku. W PRL jego dorobek był nieobecny w oficjalnym obiegu – emigracyjna lewica była dla władz kłopotliwsza niż emigracja narodowa, bo podważała ich legitymację na własnym gruncie ideowym.`,
+Zmarł 5 października 1967 roku w Sceaux pod Paryżem. W PRL jego dorobek nie istniał w oficjalnym obiegu. Emigracyjna lewica była dla władz kłopotliwa szczególnie dlatego, że podważała ich legitymację na własnym gruncie ideowym.`,
     trivia: [
-      'Emigracyjna lewica była dla władz PRL kłopotliwsza niż emigracja narodowa – podważała ich legitymację na gruncie ideowym.',
-      'Działał w Paryżu, drugim po Londynie ośrodku polskiej myśli politycznej na obczyźnie.',
+      'W czasie Powstania Warszawskiego wydał 61 numerów „Robotnika”.',
+      'W 1946 roku wyjechał z kraju pod fałszywym nazwiskiem, z transportem Polskiego Czerwonego Krzyża.',
+      'Emigracyjna lewica podważała legitymację władz PRL na ich własnym gruncie ideowym.',
     ],
     resources: [
       {
@@ -34003,7 +34035,8 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1968, event: 'Telewizja rozpoczyna emisję serialu „Stawka większa niż życie” – kapitan Kloss', category: 'kultura', entryId: 'stawka-wieksza-niz-zycie' },
   { year: 1946, event: 'Rafał Praga zakłada w Warszawie popołudniówkę „Express Wieczorny”', category: 'kultura', entryId: 'express-wieczorny' },
   { year: 1981, event: 'Po odcięciu telefonów w stanie wojennym rozmowy poprzedza komunikat „rozmowa kontrolowana”', category: 'represje', entryId: 'telefon-prl' },
-  { year: 1971, event: 'Jacek Karpiński konstruuje minikomputer K-202 – projekt zablokowany', category: 'społeczeństwo', entryId: 'jacek-karpinski' },
+  { year: 1971, event: 'Minikomputer K-202 Jacka Karpińskiego pokazany na targach w Poznaniu', category: 'społeczeństwo', entryId: 'jacek-karpinski' },
+  { year: 1978, event: 'Odsunięty od pracy Jacek Karpiński zajmuje się hodowlą pod Olsztynem', category: 'społeczeństwo', entryId: 'jacek-karpinski' },
   { year: 1978, event: 'Wanda Rutkiewicz pierwszą Polką na Mount Everest', category: 'społeczeństwo', entryId: 'wanda-rutkiewicz' },
   { year: 1980, event: 'Pierwsze zimowe wejście na Mount Everest – Cichy i Wielicki', category: 'społeczeństwo', entryId: 'himalaizm-polski' },
   { year: 1980, event: 'I Ogólnopolski Przegląd Muzyki Młodej Generacji w Jarocinie', category: 'kultura', entryId: 'jarocin-festiwal' },
@@ -34315,7 +34348,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1956, event: 'Mała stabilizacja – codzienność epoki Gomułki', category: 'społeczeństwo', entryId: 'mala-stabilizacja' },
   { year: 1957, event: 'Start radiowej akcji „Niewidzialna Ręka”', category: 'społeczeństwo', entryId: 'niewidzialna-reka' },
   { year: 1958, event: 'Akcja „Tysiąc szkół na Tysiąclecie”', category: 'społeczeństwo', entryId: 'szkoly-tysiaclecia' },
-  { year: 1958, event: 'Rusza produkcja pralki Frania', category: 'społeczeństwo', entryId: 'frania-pralka' },
+  { year: 1954, event: 'W Kielcach rusza produkcja pralki Frania', category: 'społeczeństwo', entryId: 'frania-pralka' },
   { year: 1959, event: 'Rusza produkcja samochodów dostawczych Nysa', category: 'społeczeństwo', entryId: 'nysa-zuk' },
   { year: 1966, event: 'Obchody Milenium Chrztu Polski', category: 'społeczeństwo', entryId: 'milenium-1966' },
   { year: 1973, event: 'Rusza produkcja Fiata 126p – Malucha', category: 'społeczeństwo', entryId: 'fiat-126p' },
@@ -34327,7 +34360,10 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1962, event: 'Powstają Wojska Obrony Powietrznej Kraju', category: 'wojsko', entryId: 'wopk' },
   { year: 1988, event: 'Likwidacja Komisji Planowania przy Radzie Ministrów', category: 'gospodarka', entryId: 'komisja-planowania' },
   { year: 1982, event: 'Powstaje Patriotyczny Ruch Odrodzenia Narodowego', category: 'polityka', entryId: 'pron' },
-  { year: 1952, event: 'Konstytucja PRL znosi urząd prezydenta i ustanawia Radę Państwa', category: 'polityka', entryId: 'rada-panstwa' },
+  { year: 1952, event: 'Konstytucja PRL znosi urząd prezydenta – Rada Państwa staje się kolegialną głową państwa', category: 'polityka', entryId: 'rada-panstwa' },
+  { year: 1947, event: 'Mała Konstytucja powołuje Radę Państwa', category: 'polityka', entryId: 'rada-panstwa' },
+  { year: 1968, event: 'Tomasz Stańko Quintet na Jazz Jamboree', category: 'kultura', entryId: 'tomasz-stanko' },
+  { year: 1946, event: 'Zygmunt Zaremba wyjeżdża do Francji i staje na czele Delegacji Zagranicznej PPS', category: 'osoby', entryId: 'zaremba-zygmunt' },
   { year: 1950, event: 'Powstaje Urząd do Spraw Wyznań', category: 'polityka', entryId: 'urzad-wyznan' },
   { year: 1989, event: 'Tadeusz Mazowiecki pierwszym niekomunistycznym premierem', category: 'polityka', entryId: 'premierzy-prl' },
   { year: 1946, event: 'Gen. Władysław Anders pozbawiony obywatelstwa polskiego', category: 'osoby', entryId: 'anders' },
