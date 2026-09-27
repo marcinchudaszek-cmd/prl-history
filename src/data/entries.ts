@@ -12795,26 +12795,30 @@ Republika pozostaje symbolem ambitnego, artystycznego rocka lat 80., a Grzegorz 
     subtitle: 'Kora i rockowa rewolucja',
     category: 'kultura',
     tags: ['muzyka', 'rock', 'nowa fala', 'lata 80.', 'Kora'],
-    yearStart: 1980,
+    yearStart: 1975,
     yearEnd: 1989,
     summary: 'Kultowy zespół rockowy z charyzmatyczną wokalistką Korą, autor przebojów „Boskie Buenos” i „Kocham cię kochanie moje”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Maanam_-_Kora.jpg?width=800',
     imageCaption: 'Kora Jackowska, wokalistka Maanamu (fot. współczesna)',
-    trivia: ['Po odmowie udziału w propagandowym koncercie w 1984 roku Maanam objęto nieformalnym bojkotem w mediach.'],
+    trivia: [
+      'Po odmowie Kory Trójka zamiast piosenek Maanamu puszczała na liście przebojów tylko dźwięki perkusji z „To tylko tango”.',
+      'W 1981 roku zespół zagrał ponad 500 koncertów – w Sali Kongresowej nawet trzy razy jednego dnia.',
+      'Zamówienia na płytę „O!” przekroczyły milion sztuk, ale wytłoczono tylko 300 tysięcy.',
+    ],
     content: `## Powstanie
-Maanam powstał w Krakowie na przełomie lat 70. i 80. Kluczowymi postaciami byli Kora (Olga Jackowska) jako wokalistka oraz Marek Jackowski jako gitarzysta i kompozytor.
+Zalążkiem Maanamu był założony w 1975 roku w Krakowie duet gitarowy Marka Jackowskiego i Milo Kurtisa, grający orientalną muzykę świata. W lutym 1976 roku dołączyła Kora (Olga Jackowska), żona Jackowskiego. Po odejściu Kurtisa grupa występowała jako Maanam Elektryczny Prysznic, z Johnem Porterem, a od 1979 roku już jako Maanam. Muzykę pisał Jackowski, teksty – Kora.
+
+## Przełom
+Pierwszym radiowym przebojem był „Hamlet”, grany w Programie III. Na początku 1980 roku zespół nagrał „Boskie Buenos” i „Żądzę pieniądza”. Latem zagrał w Jarocinie, a potem w Opolu, gdzie dostał wyróżnienie za „Boskie Buenos”. Opolski występ przyniósł mu ogólnopolską sławę i uchodzi za początek rozkwitu polskiego rocka lat 80.
+
+## Szczyt popularności
+Debiutancki album „Maanam” z 1981 roku sprzedał się w dniu premiery w 50 tys. egzemplarzy. W samym 1981 roku zespół zagrał ponad 500 koncertów, w Sali Kongresowej nawet trzy razy jednego dnia. Zamówienia na płytę „O!” z 1982 roku przekroczyły milion sztuk, ale udało się wytłoczyć 300 tys. Przebojami były m.in. „Oddech szczura”, „Cykady na Cykladach”, „Kocham cię, kochanie moje” i „Krakowski spleen”, a „Nocny patrol” oddawał atmosferę stanu wojennego.
+
+## Zakaz
+Kora odmówiła występu na zlocie młodzieży polskiej i radzieckiej w Pałacu Kultury. Wywołało to skandal, a władze zakazały prezentowania zespołu w mediach. Na Liście Przebojów Trójki w miejsce notowanych piosenek Maanamu puszczano tylko powtórzone dźwięki perkusji z „To tylko tango”. Po trzech miesiącach, pod naciskiem fanów, zakaz zniesiono.
 
 ## Kora
-Kora (1951–2018) była jedną z najbardziej charyzmatycznych postaci polskiej sceny muzycznej – silną, niezależną kobietą, której wizerunek i teksty łamały konwenanse epoki.
-
-## Przeboje
-Zespół zdobył ogromną popularność dzięki przebojom takim jak „Boskie Buenos”, „Kocham cię kochanie moje”, „Szał niebieskich ciał” czy „Lucciola”. Występ w telewizyjnym programie w 1980 roku przyniósł im błyskawiczną sławę.
-
-## Bojkot
-W 1984 roku Maanam, po odmowie udziału w koncercie transmitowanym przez telewizję w okresie napięć politycznych, został objęty nieformalnym bojkotem w mediach państwowych, co tylko wzmocniło legendę zespołu.
-
-## Znaczenie
-Maanam to jeden z najważniejszych zespołów polskiego rocka, a Kora stała się ikoną niezależności i kobiecej siły w kulturze PRL.`,
+Kora (1951–2018) była jedną z najbardziej charyzmatycznych postaci polskiej sceny. Jej wizerunek i teksty łamały konwenanse epoki, a Maanam, grający także w Europie Zachodniej, m.in. na festiwalu w Roskilde, stał się jednym z najważniejszych zespołów polskiego rocka.`,
     resources: [
       {
         id: 'maa-yt',
@@ -13992,20 +13996,25 @@ Wyczyny okupione były tragediami – w górach zginęło wielu wybitnych wspina
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jerzy_Kukuczka_Mount_Everest_1980.jpg?width=800',
     imageCaption: 'Jerzy Kukuczka i Andrzej Czok podczas wiosennej wyprawy na Everest, 1980',
     content: `## Sylwetka
-Jerzy Kukuczka (1948–1989), pochodzący z Katowic, był jednym z najwybitniejszych himalaistów w historii. Jako drugi człowiek na świecie – po Reinholdzie Messnerze – zdobył wszystkie 14 ośmiotysięczników.
+Jerzy Kukuczka (1948–1989) urodził się w Katowicach w rodzinie beskidzkich górali z Istebnej. Wspinać zaczął się w 1965 roku w Harcerskim Klubie Taternickim, a w latach 70. robił pierwsze zimowe przejścia w Tatrach i Alpach. Jako drugi człowiek na świecie – po Reinholdzie Messnerze – zdobył wszystkie 14 ośmiotysięczników.
 
-## Wyczyn
-Kukuczka skompletował Koronę Himalajów w zaledwie osiem lat (1979–1987), znacznie szybciej niż Messner. Większość szczytów zdobył nowymi drogami, w stylu alpejskim lub zimą, co czyniło jego dokonania wyjątkowymi.
+## Korona w osiem lat
+Koronę Himalajów i Karakorum skompletował w latach 1979–1987, w niespełna osiem lat; Messnerowi zajęło to ponad szesnaście. Zaczął 4 października 1979 roku od Lhotse, a zakończył 18 września 1987 na Sziszapangmie. Na co najmniej osiem szczytów wszedł nowymi drogami (według Polskiego Związku Alpinizmu – na jedenaście), siedem razy w stylu alpejskim.
 
-## Styl
-Wspinał się w trudnych warunkach, z minimalnym sprzętem, wykazując niezwykłą wytrzymałość i odwagę. Messner powiedział o nim z uznaniem: „Nie jesteś drugi, jesteś wielki”.
+## Zimą
+Cztery ośmiotysięczniki zdobył zimą, w tym trzy po raz pierwszy w historii: Dhaulagiri (21 stycznia 1985, z Andrzejem Czokiem), Kanczendzongę (11 stycznia 1986, z Krzysztofem Wielickim) i Annapurnę (3 lutego 1987, z Arturem Hajzerem). Jako jedyny człowiek wszedł na dwa ośmiotysięczniki w ciągu jednej zimy – w 1985 roku na Dhaulagiri i Czo Oju.
 
-## Śmierć
-Jerzy Kukuczka zginął w 1989 roku podczas próby zdobycia południowej ściany Lhotse, gdy zerwała się lina. Jego śmierć zakończyła symbolicznie złotą erę polskiego himalaizmu.
+## Medal w Calgary
+Podczas igrzysk w Calgary w 1988 roku razem z Messnerem otrzymał srebrny Order Olimpijski. Messner odmówił przyjęcia medalu, bo uważał alpinizm za twórczość, a nie rywalizację. Kukuczka przyjął go, bo w wyczynowym wspinaniu widział wartości sportowe.
 
-## Dziedzictwo
-Kukuczka pozostaje legendą i symbolem polskiego wyczynu górskiego, a jego imię nosi m.in. Akademia Wychowania Fizycznego w Katowicach.`,
-    trivia: ['Jako drugi człowiek w historii zdobył Koronę Himalajów.', 'Zginął w 1989 roku podczas wejścia na Lhotse.'],
+## Śmierć na Lhotse
+Zginął 24 października 1989 roku na wysokości ok. 8300 m, próbując przejść niezdobytą wtedy południową ścianę Lhotse razem z Ryszardem Pawłowskim. Prowadził, odpadł tuż przed granią szczytową, a lina nie wytrzymała obciążenia. Jego śmierć symbolicznie zamknęła złotą erę polskiego himalaizmu.`,
+    trivia: [
+      'Koronę Himalajów zdobył w niespełna osiem lat – Messnerowi zajęło to ponad szesnaście.',
+      'Jako jedyny człowiek wszedł na dwa ośmiotysięczniki w ciągu jednej zimy.',
+      'W 1988 roku przyjął srebrny Order Olimpijski, którego Messner odmówił.',
+      'Zginął w 1989 roku na południowej ścianie Lhotse, gdy pękła lina.',
+    ],
     resources: [
       {
         id: 'kuk-1',
@@ -19004,24 +19013,28 @@ Afera pokazała mechanizm nieuchronny w gospodarce niedoboru: tam, gdzie towar j
     subtitle: 'Podróże w cieniu paszportu',
     category: 'społeczeństwo',
     tags: ['społeczeństwo', 'turystyka', 'podróże', 'życie codzienne'],
-    yearStart: 1945,
+    yearStart: 1944,
     yearEnd: 1989,
     summary: 'Państwowe biuro Orbis organizowało turystykę i wyjazdy zagraniczne, które – ograniczane polityką paszportową i brakiem dewiz – były dla wielu marzeniem.',
-    content: `## Orbis
-Orbis był państwowym monopolistą w organizacji turystyki: prowadził biura podróży, hotele i wycieczki krajowe oraz zagraniczne, pośrednicząc w nielicznych wyjazdach na Zachód.
+    content: `## Od Lwowa do Lublina
+Polskie Biuro Podróży „Orbis” założono w 1920 roku we Lwowie; przed wojną miało 136 oddziałów w kraju i 19 za granicą. 13 grudnia 1944 roku w Lublinie reaktywowano je jako przedsiębiorstwo państwowe. Do końca lat 40. zajmowało się głównie połączeniami autobusowymi i obsługą imprez masowych.
 
-## Reglamentacja podróży
-Wyjazdy zagraniczne ograniczała polityka paszportowa – paszport przechowywano w urzędzie, a na wyjazd trzeba było uzyskać zgodę. Brak dewiz dodatkowo czynił podróże luksusem.
+## Monopol hotelowy
+W 1951 roku przejęło dziewięć hoteli, przygotowywanych do obsługi gości z zagranicy, co w praktyce dało mu monopol na hotele wysokiego standardu. W latach 60. i 70. zbudowano 34 nowe hotele, m.in. warszawskie Victorię i Forum. W 1980 roku Orbis miał 60% pokoi hotelowych w Polsce, a turystyka przyjazdowa była dla państwa źródłem dewiz – w latach 70. przygotowywano nawet oferty dla zachodnich „myśliwych dewizowych”.
 
-## „Demoludy” i Zachód
-Najłatwiej podróżowało się do „bratnich” krajów bloku wschodniego (NRD, Czechosłowacja, Bułgaria, Węgry). Wyjazd na Zachód był rzadkim przywilejem, często okazją do drobnego handlu.
+## Za granicę
+Do 1956 roku Orbis obsługiwał głównie przejazdy robotników i rolników oraz zjazdy młodzieży. Po Październiku wrócił do wyjazdów zagranicznych: nad Morze Czarne, nad Balaton i na jugosłowiańskie wybrzeże Adriatyku. Organizował też wycieczki na Zachód i rejsy „Batorym”. W 1979 roku z usług biura skorzystało 12,2 mln klientów.
 
-## Turystyka krajowa
-Popularna była turystyka krajowa – wczasy FWP, wycieczki zakładowe, kolonie i obozy. Orbis organizował też przyjazdy turystów zagranicznych, źródło cennych dewiz.
+## Paszport i dewizy
+Każdy wyjazd ograniczała polityka paszportowa: na każdy wyjazd trzeba było uzyskać paszport w urzędzie, a władze mogły go odmówić. Barierą był też brak dewiz. Najłatwiej podróżowało się do „demoludów”, a wyjazd na Zachód pozostawał rzadkim przywilejem, często łączonym z drobnym handlem.
 
-## Znaczenie
-Turystyka PRL odzwierciedlała ograniczenia systemu: marzenie o świecie zderzało się z barierą paszportu, dewiz i kontroli, czyniąc podróż na Zachód symbolem wolności.`,
-    trivia: ['Orbis organizował wyjazdy zagraniczne i prowadził hotele.', 'Wycieczka na Zachód wymagała zgody władz i dewiz.'],
+## Wczasy w kraju
+Większość Polaków wypoczywała w kraju. Wczasy pracownicze organizował od 1949 roku Fundusz Wczasów Pracowniczych, a o przydziale skierowania decydował zakład pracy. W latach 80., gdy zmalały dochody z turystyki przyjazdowej, podstawą działalności Orbisu stały się wyjazdy do krajów bloku wschodniego.`,
+    trivia: [
+      'Orbis powstał w 1920 roku we Lwowie, a w PRL reaktywowano go w Lublinie 13 grudnia 1944 roku.',
+      'W 1980 roku Orbis miał 60% pokoi hotelowych w Polsce.',
+      'W 1979 roku z usług biura skorzystało 12,2 mln klientów.',
+    ],
     resources: [
       {
         id: 'orb-1',
@@ -24725,19 +24738,23 @@ Po latach spędzonych częściowo za granicą wróciła do występów i pracy te
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Quotation%20from%20film%20%27Kingsajz%27%20advertising%20XXXIV%20Polish%20Film%20Festival%20in%20Gdynia%202009.jpg?width=800',
     imageCaption: 'Cytat z „Kingsajzu” na chodniku w Gdyni, reklama festiwalu filmowego (fot. współczesna)',
     content: `## Film
-„Kingsajz” Juliusza Machulskiego, zrealizowana w 1987 roku i pokazana rok później, to komedia fantastyczna. Tytuł nawiązuje do napoju, który krasnoludkom nadaje wymiary zwykłego człowieka – dla nich właśnie królewski rozmiar.
+„Kingsajz” Juliusza Machulskiego to komedia fantasy nakręcona w 1987 roku, z premierą 2 maja 1988. Scenariusz reżyser napisał z Jolantą Hartwig-Sosnowską. Tytuł – od angielskiego „king size” – to nazwa eliksiru, który daje krasnoludkom wymiary zwykłego człowieka, czyli dla nich właśnie „królewski rozmiar”.
 
 ## Szuflandia
-Akcja toczy się w Szuflandii, krainie krasnoludków rządzonej przez biurokratyczny aparat na czele z Szefem. Krasnoludki marzą o wydostaniu się na powierzchnię, a dostęp do kingsajzu jest reglamentowany i zarezerwowany dla władzy.
+Szuflandia to ukryta kraina krasnoludków w podziemiach Instytutu Badań Czwartorzędu. Rządzi nią szyszkownik Kilkujadek (Jerzy Stuhr), który wraz ze świtą pilnuje, by mieszkańcy nie poznali sekretu kingsajzu. Na powierzchni jest świat ludzi, a w nim wolność. Uciekinierzy mogą tam przetrwać tylko dzięki Polo Cockcie, tymczasowemu zamiennikowi eliksiru.
+
+## Dysydent
+Alchemik Adaś samodzielnie uzyskuje kingsajz. Poznanie formuły pozwoliłoby innym zostać w świecie ludzi na stałe, więc słudzy Kilkujadka ruszają w pościg. Na pomoc wyruszają przyjaciel Adasia Olo (Jacek Chmielnik) i Ala (Katarzyna Figura).
 
 ## Alegoria
-Nikt w 1987 roku nie miał wątpliwości, o czym jest ten film: o systemie, w którym przywileje ma nomenklatura, a wyjście na zewnątrz jest przepustką do innego życia. Konwencja baśni pozwoliła powiedzieć to wprost bez ryzyka.
+W 1987 roku nikt nie miał wątpliwości, o czym jest ten film: o systemie, w którym władza strzeże przywilejów i zamyka drogę na zewnątrz, a wyjście do innego świata jest marzeniem. Machulski powtórzył sztuczkę znaną z Barei – mówił o systemie środkami, których cenzura nie umiała zakwestionować. Kwestie w rodzaju „Szuflandio, ojczyzno moja…” weszły do języka.
 
-## Cytaty
-Dialogi weszły do języka potocznego, a określenia z filmu były używane jako komentarz do rzeczywistości. Machulski powtórzył w ten sposób sztuczkę znaną z Barei: mówić o systemie środkami, których cenzura nie potrafiła zakwestionować.`,
+## Jak to zrobiono
+Sceny z krasnoludkami kręcono wśród rekwizytów w skali 20:1. Powstało ponad 200 obiektów, m.in. szklanka wysoka na prawie 2 metry z huty w Sandomierzu. Przy efektach pomagało czechosłowackie studio Barrandov, a Szuflandię urządzono w łódzkiej willi Zygmunta Teemana przy ulicy Wólczańskiej.`,
     trivia: [
-      'Dostęp do napoju dającego normalny wzrost jest w filmie reglamentowany i zarezerwowany dla władzy.',
-      'Konwencja baśni pozwoliła powiedzieć o systemie wprost, bez ryzyka zatrzymania filmu.',
+      'Szuflandią rządzi szyszkownik Kilkujadek, grany przez Jerzego Stuhra.',
+      'Rekwizyty do scen z krasnoludkami budowano w skali 20:1 – szklanka miała prawie 2 metry.',
+      'Uciekinierzy z Szuflandii przeżywają w świecie ludzi dzięki Polo Cockcie.',
     ],
     resources: [
       {
@@ -27991,20 +28008,24 @@ Był bohaterem niezliczonych anegdot, często przez siebie wymyślonych, i autor
     summary: 'Państwowa Komunikacja Samochodowa obsługiwała autobusowy transport dalekobieżny i lokalny; dla wielu wsi PKS był jedynym połączeniem ze światem.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Neon_PKS_Dworzec_Wroc%C5%82aw.jpg?width=800',
     imageCaption: 'Neon z godłem Państwowej Komunikacji Samochodowej na dworcu we Wrocławiu',
-    content: `## Kraj na autobusach
-Państwowa Komunikacja Samochodowa była w PRL podstawowym środkiem transportu poza koleją. Przy niskiej motoryzacji indywidualnej to PKS łączył wsie i miasteczka z miastami powiatowymi, dowoził do pracy, szkoły i szpitala.
+    content: `## Początki
+Państwowa Komunikacja Samochodowa powstała w 1945 roku: 1 lipca Państwowy Urząd Samochodowy wydzielił ją jako osobną organizację, a dekretem z 16 stycznia 1946 roku utworzono przedsiębiorstwo państwowe PKS. Pierwsze przewozy pasażerów odbywały się na przystosowanych do tego ciężarówkach.
 
-## Jak to wyglądało
-Sieć była gęsta, ale tabor przeciążony: autobusy jeździły zatłoczone, często z opóźnieniami, a rozkłady dostosowywano do zmian w zakładach pracy. Przystanek PKS bywał w małej miejscowości jedynym punktem kontaktu ze światem.
+## Monopolista
+Do lat 90. PKS był jedynym państwowym przewoźnikiem autobusowym o zasięgu ogólnokrajowym. Od 1960 roku jego przedsiębiorstwa podlegały wojewódzkim radom narodowym i działały w Zjednoczeniu PKS, do którego należał też przewoźnik międzynarodowy „Pekaes”. W latach 1983–1990 firma nosiła nazwę Krajowa Państwowa Komunikacja Samochodowa.
+
+## Kraj na autobusach
+Przy niskiej motoryzacji indywidualnej to PKS łączył wsie i miasteczka z miastami powiatowymi, dowoził do pracy, szkoły i szpitala. Sieć była gęsta, ale autobusy jeździły zatłoczone i często spóźnione, a przystanek PKS bywał w małej miejscowości jedynym łącznikiem ze światem.
 
 ## Tabor
-Jeździły przede wszystkim polskie Autosany i Jelcze oraz węgierskie Ikarusy. Warunki podróży – ogrzewanie, resory, ciasnota – były przedmiotem stałych narzekań i częstym tematem satyry.
+Po drogach jeździły przede wszystkim polskie Autosany i Jelcze oraz węgierskie Ikarusy. Ciasnota, ogrzewanie i stan autobusów były przedmiotem stałych narzekań i częstym tematem satyry.
 
 ## Co po nim zostało
-PKS był instytucją, która realnie spajała kraj, a jej znaczenie widać najlepiej po tym, co stało się później: likwidacja wielu połączeń po 1989 roku odcięła część miejscowości od transportu publicznego, tworząc zjawisko wykluczenia komunikacyjnego.`,
+W 1990 roku przedsiębiorstwo podzielono na 176 firm. Część z nich zlikwidowano lub przebranżowiono, a wiele połączeń zniknęło. Wtedy okazało się, jak bardzo PKS spajał kraj: wiele miejscowości zostało bez transportu publicznego, co dziś nazywa się wykluczeniem komunikacyjnym.`,
     trivia: [
-      'W wielu miejscowościach przystanek PKS był jedynym połączeniem ze światem.',
-      'Rozkłady jazdy układano pod godziny rozpoczęcia zmian w zakładach pracy.',
+      'Pierwsze przewozy pasażerów PKS odbywały się na przystosowanych ciężarówkach.',
+      'W latach 1983–1990 firma nazywała się Krajowa Państwowa Komunikacja Samochodowa.',
+      'W 1990 roku PKS podzielono na 176 przedsiębiorstw.',
     ],
     resources: [
       {
@@ -28217,19 +28238,23 @@ Mecz na Wembley funkcjonuje w polskiej pamięci zbiorowej niemal jak wydarzenie 
     yearEnd: 1989,
     summary: 'Kolonie i obozy letnie były masową formą zorganizowanego wypoczynku dzieci w PRL, organizowaną przez zakłady pracy, szkoły, ZHP i FWP.',
     content: `## System wakacyjny
-Kolonie i obozy organizowały zakłady pracy, szkoły, harcerstwo i związki zawodowe. Skierowanie przydzielała komisja socjalna w miejscu pracy rodzica – wyjazd był więc świadczeniem, a nie zakupem.
+Kolonie dla dzieci znano w Polsce już przed wojną, a upowszechniało je m.in. harcerstwo. Po 1945 roku stały się masową formą zorganizowanego wypoczynku: od 1946 roku dużymi organizatorami były zakłady pracy i Związek Harcerstwa Polskiego, a także szkoły i związki zawodowe. Wyjazd załatwiało się zwykle przez zakład pracy rodzica, więc był raczej świadczeniem socjalnym niż zakupem.
+
+## Kolonie, obozy, półkolonie
+Kolonie były wyjazdami do ośrodków, internatów i szkół, obozy – często pod namiotami, stałe albo wędrowne. Dzieci, które zostawały w mieście, mogły chodzić na półkolonie. Zimą organizowano zimowiska.
 
 ## Jak wyglądały
-Grupy liczyły po kilkadziesiąt osób, mieszkano w internatach, ośrodkach zakładowych albo pod namiotami. Dzień miał stały rytm: pobudka, apel, posiłki o wyznaczonych porach, cisza poobiednia, ognisko. Kadrę stanowili nauczyciele i studenci.
+Grupy liczyły po kilkadziesiąt osób. Dzień miał stały rytm: pobudka, apel, posiłki o wyznaczonych porach, cisza poobiednia, zajęcia i ognisko. Wychowawcami byli najczęściej nauczyciele i studenci, a kontakt z domem utrzymywano listami i kartkami.
 
 ## Wychowanie
-Program łączył wypoczynek z elementami wychowawczymi: apelami, konkursami, śpiewaniem pieśni, czasem uroczystościami rocznicowymi. Skala tego elementu zależała od organizatora – inaczej wyglądał obóz harcerski, inaczej kolonia zakładowa.
+Program łączył wypoczynek z elementami wychowawczymi: apelami, konkursami, śpiewaniem piosenek, czasem uroczystościami rocznicowymi. Skala tego elementu zależała od organizatora – inaczej wyglądał obóz harcerski, inaczej kolonia zakładowa.
 
 ## Znaczenie społeczne
-Dla wielu dzieci był to jedyny wyjazd w roku i pierwszy kontakt z morzem albo górami. System, mimo całej swojej sztywności, dawał dostęp do wypoczynku dzieciom z rodzin, których nigdy nie byłoby na to stać.`,
+Dla wielu dzieci był to jedyny wyjazd w roku i pierwszy kontakt z morzem albo górami. System, mimo całej swojej sztywności, dawał dostęp do wypoczynku dzieciom z rodzin, których nie byłoby na to stać.`,
     trivia: [
-      'Skierowanie na kolonie przydzielała komisja socjalna w zakładzie pracy rodzica.',
-      'Dla wielu dzieci była to jedyna okazja w roku, by zobaczyć morze albo góry.',
+      'Od 1946 roku największymi organizatorami kolonii były zakłady pracy i ZHP.',
+      'Dzieci, które nie wyjeżdżały, mogły chodzić na półkolonie w swoim mieście.',
+      'Dla wielu dzieci kolonia była jedyną okazją w roku, by zobaczyć morze albo góry.',
     ],
     resources: [
       {
@@ -29417,19 +29442,23 @@ Po zmianie ustroju święto na pewien czas straciło znaczenie jako kojarzone z 
     yearStart: 1963,
     summary: 'Kameralny dramat Wojciecha Hasa (1963) o poświęceniu i miłości; aktorka wspomina, jak w czasie okupacji ukrywała przed gestapo niewdzięcznego kochanka.',
     content: `## Film
-„Jak być kochaną” Wojciecha Hasa, zrealizowany w 1962 roku i pokazany rok później, powstał na podstawie opowiadania Kazimierza Brandysa. Akcja toczy się dwutorowo: w czasie okupacji i w latach powojennych, a całość jest wspomnieniem bohaterki podczas lotu samolotem.
+„Jak być kochaną” Wojciecha Jerzego Hasa powstał w 1962 roku na podstawie opowiadania Kazimierza Brandysa, uchodzącego za „niefilmowe” z powodu monologu wewnętrznego. Premiera odbyła się 11 stycznia 1963 roku. Kontrastowe, czarno-białe zdjęcia zrobił Stefan Matyjaszkiewicz, a plenery kręcono m.in. na warszawskim Okęciu, we Wrocławiu i w Krakowie.
 
 ## Fabuła
-Aktorka Felicja, grana przez Barbarę Krafftównę, ukrywa w mieszkaniu aktora Wiktora Rawicza – w tej roli Zbigniew Cybulski – poszukiwanego przez Niemców. Płaci za to cenę, o której po wojnie nikt nie chce pamiętać, łącznie z samym uratowanym.
+Felicja, popularna aktorka radiowa, leci do Paryża i w czasie lotu wspomina okupację. We wrześniu 1939 roku, grając Ofelię, zakochała się w odtwórcy Hamleta, Wiktorze Rawiczu (Zbigniew Cybulski). Gdy padło na niego podejrzenie o zabicie volksdeutscha, ukryła go w swoim pokoju.
+
+## Cena ofiary
+Ukrywając Rawicza, Felicja została zgwałcona przez niemieckich żołnierzy. Żeby przetrwać i utrzymać ukrywanego, zatrudniła się w niemieckim teatrze. Po wojnie uznano ją za kolaborantkę i zakazano jej pracy na scenie. Wiktor nie odwzajemnił jej uczucia, popadł w alkoholizm i w końcu popełnił samobójstwo.
 
 ## Temat
-Film mówi o tym, jak niewdzięczna i niewygodna bywa cudza ofiara. Bohaterka nie dostaje ani wdzięczności, ani zrozumienia; jej poświęcenie zostaje przemilczane, bo nie pasuje do bohaterskiej opowieści o wojnie.
+Krytycy widzieli w filmie polemikę z bohaterskim mitem Maćka Chełmickiego z „Popiołu i diamentu”. To opowieść o ofierze, która nie pasowała do heroicznej wersji wojny i dlatego została przemilczana. Bywa też odczytywana jako poemat o pamięci.
 
-## Rola Krafftówny
-Kreacja Barbary Krafftówny uchodzi za jedną z najwybitniejszych ról kobiecych w historii polskiego kina. Film należy do najdojrzalszych rozliczeń z mitem heroizmu, jakie powstały w latach 60.`,
+## Uznanie
+Kreacja Barbary Krafftówny uchodzi za jedną z najwybitniejszych ról kobiecych w polskim kinie. Has wybrał ją ze względu na „emocjonalny i bezpośredni” styl gry. Film zwyciężył na festiwalu w San Francisco, a w Bejrucie reżyser dostał nagrodę FIPRESCI. Dziś zalicza się go do najważniejszych dzieł polskiej szkoły filmowej.`,
     trivia: [
-      'Cała opowieść jest wspomnieniem bohaterki podczas lotu samolotem.',
-      'Film mówi o ofierze, której nikt nie chce pamiętać – łącznie z uratowanym.',
+      'Cała opowieść jest wspomnieniem bohaterki podczas lotu samolotem do Paryża.',
+      'Opowiadanie Brandysa uchodziło za niefilmowe z powodu monologu wewnętrznego.',
+      'Film zwyciężył na festiwalu w San Francisco.',
     ],
     resources: [
       {
@@ -30014,23 +30043,28 @@ Jazz w pierwszej połowie lat 50. był w Polsce tępiony jako muzyka imperialist
     category: 'kultura',
     tags: ['film', 'komedia', 'absurd', 'kino'],
     yearStart: 1970,
+    yearEnd: 1971,
     summary: 'Surrealistyczna, kultowa parodia kina superbohaterskiego Andrzeja Kondratiuka (1970); w upalnej Warszawie znika woda, a ratuje ją bohater As.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Quotation_from_film_%27Hydrozagadka%27_advertising_XXXIV_Polish_Film_Festival_in_Gdynia_2009_-_1.jpg?width=800',
     imageCaption: 'Cytat z „Hydrozagadki” na bulwarze w Gdyni, reklama festiwalu filmowego (fot. współczesna)',
     content: `## Film
-„Hydrozagadka” Andrzeja Kondratiuka, zrealizowana w 1970 roku i pokazana rok później, to komedia fantastycznonaukowa utrzymana w konwencji parodii: filmu sensacyjnego, kina o superbohaterach i komiksu. Powstała jako produkcja telewizyjna, w skromnych warunkach.
+„Hydrozagadka” Andrzeja Kondratiuka to czarno-biała komedia fantastycznonaukowa, nakręcona w 1970 roku w Zespole Filmowym „Plan”. Premiera odbyła się 30 kwietnia 1971 roku. Film parodiuje kino sensacyjne, komiks i opowieści o superbohaterach. Scenariusz Kondratiuk napisał z Andrzejem Bonarskim, zdjęcia robił Zygmunt Samosiuk, a muzykę skomponował Waldemar Kazanecki.
 
 ## Fabuła
-Z Warszawy znika woda. Śledztwo prowadzi As, bohater w pasiastym kostiumie, na co dzień zwykły obywatel, walczący ze złoczyńcą dysponującym mocą odbierania wody. Absurdalna intryga jest pretekstem do pokazania miasta i codzienności.
+W upalnej Warszawie znika woda. Profesor Milczarek nie potrafi rozwiązać zagadki, więc pomaga mu superbohater o kryptonimie As. Trop prowadzi do złoczyńcy Doktora Plamy, który robi ciemne interesy z maharadżą pustynnego Kaburu.
 
-## Dlaczego to działa
-Siła filmu polega na zderzeniu konwencji superbohaterskiej z realiami PRL: kolejkami, biurokracją, prowizorką i językiem urzędowym. Parodiując kino zachodnie, film mimochodem portretuje własną rzeczywistość, i to ta warstwa okazała się trwalsza.
+## Obsada
+Asa zagrał Józef Nowak, członek PZPR, znany z głównych ról w socrealistycznych filmach „Celuloza” i „Pod gwiazdą frygijską”. Kondratiuk wspominał, że Nowak świetnie bawił się tą rolą i nie chciał nawet dublera kaskadera. Doktora Plamę zagrał Zdzisław Maklakiewicz, a jego kwestie, jak „Jestem bezwzględnie inteligentny”, weszły do języka. Krokodyla zagrała aligatorzyca Marta z płockiego zoo.
+
+## Bieda i pomysłowość
+Film powstał skromnymi środkami. Listę płac na początku melorecytuje Iga Cembrzyńska, późniejsza żona reżysera – zabrakło bowiem pieniędzy na wykonanie napisów.
 
 ## Kult
-Przy premierze przyjęty bez fajerwerków, z czasem stał się filmem kultowym, cytowanym i przywoływanym jako jeden z najlepszych przykładów polskiego humoru absurdalnego.`,
+Zderzenie konwencji superbohaterskiej z realiami PRL – urzędowym językiem, prowizorką, codziennością – sprawiło, że parodiując kino zachodnie, film mimochodem sportretował własną rzeczywistość i wyśmiał oficjalną kulturę socjalistyczną. Z czasem stał się filmem kultowym i jednym z najczęściej przywoływanych przykładów polskiego humoru absurdalnego.`,
     trivia: [
-      'Bohaterem jest As – superbohater w pasiastym kostiumie, na co dzień zwykły obywatel.',
-      'Parodiując kino zachodnie, film mimochodem sportretował realia PRL i to ta warstwa okazała się trwalsza.',
+      'Listę płac melorecytuje Iga Cembrzyńska – zabrakło pieniędzy na wykonanie napisów.',
+      'Superbohatera Asa zagrał Józef Nowak, znany wcześniej z ról w filmach socrealistycznych.',
+      'Krokodyla zagrała aligatorzyca Marta z zoo w Płocku.',
     ],
     resources: [
       {
@@ -33915,6 +33949,9 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1983, event: 'Debiut Lady Pank – „Kryzysowa narzeczona”', category: 'kultura', entryId: 'lady-pank' },
   { year: 1986, event: 'Wanda Rutkiewicz pierwszą kobietą na szczycie K2', category: 'społeczeństwo', entryId: 'wanda-rutkiewicz' },
   { year: 1987, event: 'Jerzy Kukuczka kończy Koronę Himalajów jako drugi człowiek na świecie', category: 'społeczeństwo', entryId: 'jerzy-kukuczka' },
+  { year: 1988, event: 'Jerzy Kukuczka otrzymuje srebrny Order Olimpijski w Calgary', category: 'społeczeństwo', entryId: 'jerzy-kukuczka' },
+  { year: 1945, event: 'Powstaje Państwowa Komunikacja Samochodowa', category: 'społeczeństwo', entryId: 'pks-transport' },
+  { year: 1944, event: 'Reaktywacja Orbisu w Lublinie jako przedsiębiorstwa państwowego', category: 'społeczeństwo', entryId: 'orbis-turystyka' },
   { year: 1947, event: 'Jerzy Giedroyc zakłada paryską „Kulturę” – ośrodek niezależnej myśli', category: 'kultura', entryId: 'giedroyc' },
   { year: 1966, event: 'Prawykonanie „Pasji wg św. Łukasza” Krzysztofa Pendereckiego', category: 'kultura', entryId: 'penderecki' },
   { year: 1968, event: 'Ryszard Siwiec dokonuje samospalenia w proteście przeciw inwazji na Czechosłowację', category: 'represje', entryId: 'ryszard-siwiec' },
@@ -34026,7 +34063,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1984, event: 'Debiut Papa Dance: „W 40 dni dookoła świata” i „Ordynarny faul”', category: 'kultura', entryId: 'papa-dance' },
   { year: 1981, event: 'Emisja serialu „Jan Serce” Radosława Piwowarskiego', category: 'kultura', entryId: 'jan-serce' },
   { year: 1976, event: 'Wojciech Fibak wygrywa turniej Masters – triumf polskiego tenisa', category: 'społeczeństwo', entryId: 'fibak-wojciech' },
-  { year: 1988, event: 'Premiera „Kingsajzu” Juliusza Machulskiego', category: 'kultura', entryId: 'kingsajz' },
+  { year: 1988, event: 'Premiera „Kingsajzu” Juliusza Machulskiego (2 maja)', category: 'kultura', entryId: 'kingsajz' },
   { year: 1958, event: 'Premiera „Popiołu i diamentu” Andrzeja Wajdy', category: 'kultura', entryId: 'popiol-i-diament' },
   { year: 1975, event: 'Premiera „Nocy i dni” Jerzego Antczaka – nominacja do Oscara', category: 'kultura', entryId: 'noce-i-dnie' },
   { year: 1984, event: 'Debiut Wandy i Bandy – przebój „Hi-Fi”', category: 'kultura', entryId: 'wanda-i-banda' },
@@ -34104,7 +34141,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1965, event: 'Kabaret Dudek Edwarda Dziewońskiego – premiera programu „Spotkajmy się na Nowym Świecie”', category: 'kultura', entryId: 'kabaret-dudek' },
   { year: 1975, event: 'Ostatni program kabaretu Dudek – refren „Spotkamy się na tamtym świecie”', category: 'kultura', entryId: 'kabaret-dudek' },
   { year: 1962, event: 'Pierwszy Studencki Festiwal Piosenki w Krakowie – drugie miejsce Ewy Demarczyk', category: 'kultura', entryId: 'poezja-spiewana' },
-  { year: 1970, event: 'Premiera „Hydrozagadki” Andrzeja Kondratiuka', category: 'kultura', entryId: 'hydrozagadka' },
+  { year: 1971, event: 'Premiera „Hydrozagadki” Andrzeja Kondratiuka (30 kwietnia)', category: 'kultura', entryId: 'hydrozagadka' },
   { year: 1973, event: 'Zbigniew Namysłowski nagrywa „Winobranie” – klasyk polskiego jazzu', category: 'kultura', entryId: 'zbigniew-namyslowski' },
   { year: 1970, event: 'Premiera „Jak rozpętałem drugą wojnę światową” Tadeusza Chmielewskiego', category: 'kultura', entryId: 'jak-rozpetalem-ii-wojne' },
   { year: 1974, event: 'Michał Urbaniak i fusion – polski jazz podbija USA', category: 'kultura', entryId: 'michal-urbaniak' },
@@ -34187,7 +34224,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1974, event: 'Budka Suflera – przebój „Sen o dolinie”', category: 'kultura', entryId: 'budka-suflera' },
   { year: 1976, event: 'Powstanie zespołu Kombi', category: 'kultura', entryId: 'kombi-zespol' },
   { year: 1979, event: 'Powstanie zespołu TSA', category: 'kultura', entryId: 'tsa-zespol' },
-  { year: 1980, event: 'Maanam – przebój „Boskie Buenos”', category: 'kultura', entryId: 'maanam-zespol' },
+  { year: 1980, event: 'Maanam w Jarocinie i Opolu – wyróżnienie za „Boskie Buenos” i ogólnopolska sława', category: 'kultura', entryId: 'maanam-zespol' },
   { year: 1981, event: 'Perfect – przebój „Autobiografia”', category: 'kultura', entryId: 'perfect-zespol' },
   { year: 1982, event: 'Powstanie zespołu Kult', category: 'kultura', entryId: 'kult-zespol' },
   { year: 1948, event: 'Stefan Wyszyński prymasem Polski', category: 'osoby', entryId: 'wyszynski' },
