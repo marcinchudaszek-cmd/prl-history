@@ -18205,19 +18205,23 @@ Złoto z Sapporo pozostaje jednym z najczęściej przywoływanych momentów w hi
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Lubin_31.08.1982.jpg?width=800',
     imageCaption: 'Demonstranci niosą rannego Michała Adamowicza, Lubin, 31 sierpnia 1982',
     content: `## Manifestacja
-31 sierpnia 1982 roku, w drugą rocznicę porozumień sierpniowych, w Lubinie na Dolnym Śląsku odbyła się pokojowa demonstracja. Podobne wystąpienia miały tego dnia miejsce w kilkudziesięciu miastach w całym kraju.
+Pod koniec lipca 1982 roku podziemna Solidarność wezwała do pokojowej manifestacji w Lubinie w drugą rocznicę porozumień sierpniowych. 31 sierpnia 1982 roku na rynku zebrało się ok. 5000 osób. Układano z kwiatów krzyż z szarfą „Solidarność” i śpiewano hymn, „Rotę” i „Boże, coś Polskę”. Tego dnia podobne demonstracje odbywały się w wielu miastach kraju.
 
 ## Strzały
-Funkcjonariusze służb milicyjnych otworzyli ogień z broni maszynowej do demonstrantów. Zginęły trzy osoby, jedenaście zostało rannych. Strzelano na otwartej przestrzeni, do ludzi nieuzbrojonych.
+Milicja ściągnęła znaczne siły, w tym dwa plutony ZOMO z Legnicy z karabinkami AK. O 15.30 wezwano zebranych do rozejścia się, a potem użyto gazu łzawiącego. Gdy tłum się nie rozszedł, milicja otworzyła ogień. Funkcjonariusze krążyli radiowozami po mieście i strzelali do grup ludzi, pojedynczych osób, a nawet w okna mieszkań.
+
+## Ofiary
+Od kul zginęli Michał Adamowicz, Andrzej Trajkowski i Mieczysław Poźniak, a jedenaście osób zostało rannych. Zdjęcie Krzysztofa Raczkowiaka, na którym czterech mężczyzn niesie śmiertelnie rannego Adamowicza, stało się jedną z ikon stanu wojennego.
 
 ## Zacieranie śladów
-Władze przedstawiły zajścia jako starcie z bojówkami, a dokumentację obrażeń i przebiegu wydarzeń utajniono. Zdjęcia wykonane przez przypadkowego świadka, pokazujące niesienie rannego, stały się jednym z najbardziej znanych obrazów stanu wojennego.
+W kolejnych dniach władze usuwały ślady zajść. W 1983 roku śledztwo umorzono, przyjmując, że milicjanci działali w obronie koniecznej. Trzej prokuratorzy przygotowali raport o prawdziwym przebiegu wydarzeń, ale przełożeni go odrzucili. Raport trafił do prasy podziemnej i Radia Wolna Europa, a jego autorów oskarżono o ujawnienie tajemnicy państwowej.
 
 ## Rozliczenie
-Sprawców nie osądzono w czasach PRL. Postępowania podjęto dopiero po 1989 roku i ciągnęły się przez lata. Zbrodnia lubińska pozostaje jednym z najpoważniejszych przypadków użycia broni palnej wobec demonstrantów po wprowadzeniu stanu wojennego.`,
+Po 1989 roku śledztwo wznowiono. Prawomocnie skazano trzech dowódców milicji, ale bezpośrednich sprawców śmierci nie ustalono. W grudniu 2025 roku prokurator IPN skierował do sądu w Legnicy akt oskarżenia przeciw dziesięciu byłym funkcjonariuszom MO. Pomnik Pamięci Ofiar Lubina ’82 odsłonięto w 10. rocznicę zbrodni.`,
     trivia: [
-      'Do pokojowej manifestacji strzelano z broni maszynowej; zginęły trzy osoby.',
-      'Zdjęcia niesionego rannego, zrobione przez przypadkowego świadka, stały się jednym z symboli stanu wojennego.',
+      'Zginęli Michał Adamowicz, Andrzej Trajkowski i Mieczysław Poźniak.',
+      'Prokuratorów, którzy opisali prawdziwy przebieg wydarzeń, oskarżono o ujawnienie tajemnicy państwowej.',
+      'Zdjęcie Krzysztofa Raczkowiaka z niesionym Adamowiczem stało się jedną z ikon stanu wojennego.',
     ],
     resources: [
       {
@@ -24156,25 +24160,29 @@ Film wszedł do kin w roku strajków i kryzysu. Przedwojenna sceneria, elegancki
     subtitle: 'Bloku lokatorzy kontra gospodarz Anioł',
     category: 'kultura',
     tags: ['film', 'serial', 'komedia', 'satyra', 'telewizja'],
-    yearStart: 1983,
+    yearStart: 1981,
     yearEnd: 1986,
     summary: 'Satyryczny serial Stanisława Barei (zrealizowany 1983, emisja 1986) o lokatorach warszawskiego bloku i ich walce z despotycznym gospodarzem Stanisławem Aniołem.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mural_Alternatywy_4_klatka_schodowa_2.jpg?width=800',
     imageCaption: 'Mural z klatką schodową z „Alternatywy 4” na warszawskim Ursynowie (fot. współczesna)',
-    content: `## Serial
-„Alternatywy 4” Stanisława Barei zrealizowano w 1983 roku, ale na antenę trafił dopiero w 1986. Trzy lata na półce wynikały z tego, że portret społeczeństwa, jaki dawał, był dla władz zbyt celny.
+    content: `## Od „Naszego domu” do Anioła
+Pomysł narodził się jesienią 1979 roku, gdy scenarzysta Maciej Rybiński odbierał klucze do nowego mieszkania na Okęciu. Z Januszem Płońskim napisał scenariusz o społeczeństwie PRL na przykładzie mieszkańców jednego bloku, pierwotnie zatytułowany „Nasz dom”. Na fali solidarnościowej odwilży, po sukcesie „Misia”, telewizja zgodziła się, by serial zrealizował Stanisław Bareja.
+
+## Stan wojenny na planie
+Zdjęcia ruszyły 9 grudnia 1981 roku i już 13 grudnia przerwało je wprowadzenie stanu wojennego. W styczniu 1982 roku Bareja przeszedł zawał serca. Prace wznowiono miesiąc później, pod ścisłą kontrolą władz. Operatora Wojciecha Jastrzębowskiego, którego brat działał w opozycji, wezwano na przesłuchanie do MSW, ale Bareja go obronił. Sam, jako członek Solidarności, dostał od związku „dyspensę” od bojkotu telewizji.
+
+## Trzy lata na półce
+Serial ukończono w 1983 roku, ale cenzura wstrzymywała emisję przez ponad trzy lata. W tym czasie kopie krążyły nielegalnie na kasetach wideo. Program Pierwszy pokazał go dopiero w 1986 roku, z wyciętymi scenami uznanymi za zbyt krytyczne. Pełną, zrekonstruowaną wersję TVP wyemitowała w 2014 roku.
 
 ## Blok jako Polska
-Treścią są zmagania lokatorów nowego bloku z gospodarzem Stanisławem Aniołem, granym przez Romana Wilhelmiego. Anioł – drobny funkcjonariusz z ambicjami – zamienia budynek w państwo w miniaturze, z donosami, przywilejami i regulaminem na każdą okazję.
-
-## Przekrój społeczny
-Wśród mieszkańców są inżynier, docent, milicjant, prywaciarz, artysta i emerytka. Bareja zbudował z nich zbiorowy portret PRL, w którym każdy kombinuje na swoją miarę, a wspólnota powstaje dopiero wtedy, gdy trzeba się przeciw komuś zjednoczyć.
+Treścią są zmagania lokatorów nowego bloku na Ursynowie z gospodarzem Stanisławem Aniołem, granym przez Romana Wilhelmiego. Anioł, drobny funkcjonariusz z ambicjami, zamienia budynek w państwo w miniaturze – z donosami, przywilejami i regulaminem na każdą okazję. Bareja przemycał aluzje: docent Furman wspomina „syjonistę”, który wyjechał do Harvardu (echo emigracji Kołakowskiego po Marcu 1968), a w jednej z rozmów pojawia się zamaskowane nawiązanie do zbrodni katyńskiej.
 
 ## Trwałość
-Serial jest dziś jednym z najczęściej cytowanych obrazów epoki. Jego siła polega na tym, że opisuje mechanizm, a nie tylko realia – dlatego pozostaje czytelny także dla widzów, którzy PRL nie pamiętają.`,
+Prasa przyjęła serial źle, zarzucając mu chaos i słabą konstrukcję, ale widzowie go pokochali. Dziś jest jednym z najczęściej cytowanych obrazów epoki, a na Ursynowie jest ulica Alternatywy i murale z bohaterami.`,
     trivia: [
-      'Serial nakręcono w 1983 roku, a wyemitowano dopiero w 1986 – trzy lata leżał na półce.',
-      'Gospodarz Stanisław Anioł zamienia blok w państwo w miniaturze, z donosami i regulaminem na każdą okazję.',
+      'Zdjęcia ruszyły 9 grudnia 1981 roku – cztery dni później przerwał je stan wojenny.',
+      'Zanim serial trafił na antenę, kopie krążyły nielegalnie na kasetach wideo.',
+      'Pełną wersję, z wyciętymi przez cenzurę scenami, TVP pokazała dopiero w 2014 roku.',
     ],
     resources: [
       {
@@ -25461,20 +25469,24 @@ Jej sposób śpiewania – oszczędny, oparty na frazie, barwie głosu i starann
     tags: ['film', 'kino', 'polityka', 'rozrachunek', 'stalinizm'],
     yearStart: 1977,
     summary: 'Rozrachunkowy dramat polityczny Andrzeja Wajdy (1977) o studentce kręcącej film o zapomnianym przodowniku pracy Mateuszu Birkucie; demaskacja propagandy stalinowskiej.',
-    content: `## Film
-„Człowiek z marmuru” Andrzeja Wajdy powstał w 1976 roku, a na ekrany wszedł rok później. Scenariusz Aleksandra Ścibora-Rylskiego czekał na realizację od lat 60., bo władze konsekwentnie odmawiały zgody.
+    content: `## Scenariusz z szuflady
+W 1962 roku Jerzy Bossak podsunął Andrzejowi Wajdzie gazetową historię Piotra Ożańskiego, przodownika pracy z czasów stalinowskich, który po latach nie mógł znaleźć zatrudnienia. Scenariusz Aleksandra Ścibora-Rylskiego nie mógł wtedy powstać. Wajda wrócił do niego po sukcesie „Ziemi obiecanej”. 3 lutego 1976 roku minister kultury Józef Tejchma, ryzykując stanowisko, dał formalną zgodę na realizację.
 
 ## Konstrukcja
-Studentka szkoły filmowej Agnieszka, grana przez Krystynę Jandę, zbiera materiały do dokumentu o przodowniku pracy Mateuszu Birkucie – postaci fikcyjnej, wzorowanej na murarzu Piotrze Ożańskim. Śledztwo dziennikarskie odsłania kolejne warstwy przemilczeń.
+Studentka szkoły filmowej Agnieszka (Krystyna Janda) kręci dyplomowy dokument o przodowniku pracy z lat 50., Mateuszu Birkucie. W Birkuta i jego syna Maćka Tomczyka wcielił się Jerzy Radziwiłowicz. Dziennikarskie śledztwo odsłania, jak system stworzył bohatera, a potem go zniszczył, gdy przestał być użyteczny. Sceny „kronikalne” z lat 50. Wajda nakręcił tak, że trudno je odróżnić od prawdziwych.
 
-## Rozliczenie ze stalinizmem
-Film pokazuje, jak system tworzy bohatera, a potem go niszczy, gdy przestaje być użyteczny. Sceny kronikalne z lat 50. Wajda zrealizował tak, by były nieodróżnialne od autentycznych – co czyniło krytykę propagandy tym dotkliwszą.
+## Premiera i nagonka
+Film ukończono w październiku 1976 roku. Tejchma zgodził się na rozpowszechnianie, ale niektóre sceny trzeba było nakręcić od nowa. Premiera odbyła się 25 lutego 1977 roku. Premier Jaroszewicz odwołał szefa kinematografii i nakazał publikować wyłącznie negatywne recenzje, a Tejchma podał się do dymisji. Mimo ograniczeń w rozpowszechnianiu film obejrzało 2,5 mln widzów.
 
-## Kłopoty
-Film dopuszczono do kin w ograniczonej liczbie kopii, bez reklamy i bez zgody na wyjazd na festiwale. Mimo to widzowie stali w kolejkach, a obraz stał się jednym z najważniejszych dzieł kina moralnego niepokoju.`,
+## Gdańsk i Cannes
+Na festiwalu w Gdańsku jury dobrane przez nowego szefa kinematografii pominęło film. Zanussi, nagrodzony za „Barwy ochronne”, nie odebrał nagrody na znak solidarności, a dziennikarze przyznali Wajdzie własną. Za granicę film trafił dopiero w 1978 roku: w Cannes pokazano go poza konkursem, a krytycy przyznali mu nagrodę FIPRESCI. „The New York Times” nazwał go „Obywatelem Kane’em w polskim stylu”.
+
+## Znaczenie
+Powstający równolegle z KOR film trafił w nastroje po wydarzeniach czerwca 1976 roku. Dał impuls kinu moralnego niepokoju i otworzył „trylogię robotniczą” Wajdy, kontynuowaną w „Człowieku z żelaza” (1981).`,
     trivia: [
-      'Scenariusz czekał na realizację kilkanaście lat, bo władze odmawiały zgody.',
-      'Film wypuszczono w ograniczonej liczbie kopii, bez reklamy – a mimo to ustawiały się kolejki.',
+      'Pierwowzorem Birkuta był przodownik pracy Piotr Ożański, który po latach nie mógł znaleźć pracy.',
+      'Mimo zakazu pozytywnych recenzji film obejrzało 2,5 mln widzów.',
+      'W Cannes w 1978 roku, pokazany poza konkursem, dostał nagrodę FIPRESCI.',
     ],
     resources: [
       {
@@ -28130,21 +28142,25 @@ Film nagrodzono na festiwalu w Cannes i pokazywano na całym świecie. W kraju w
     tags: ['muzyka', 'big-beat', 'rock', 'estrada'],
     yearStart: 1960,
     yearEnd: 1976,
-    summary: 'Jeden z pierwszych i najważniejszych polskich zespołów big-beatu, powołany przez Franciszka Walickiego; wylęgarnia gwiazd, m.in. Niemena i Kasi Sobczyk.',
+    summary: 'Jeden z pierwszych polskich zespołów big-beatu, założony w 1960 roku przez Franciszka Walickiego; akompaniował m.in. Karin Stanek, Helenie Majdaniec i Kasi Sobczyk.',
     content: `## Początek big-beatu
-Czerwono-Czarni powstali w 1960 roku w Gdańsku z inicjatywy Franciszka Walickiego – dziennikarza i menedżera, który wymyślił też samo określenie big-beat, żeby uniknąć słowa rock and roll, źle widzianego przez władze.
+Czerwono-Czarni powstali 22 czerwca 1960 roku przy gdańskim Jazz Clubie z inicjatywy Franciszka Walickiego. Nazwa pochodziła od barw klubu. Zespół miał kontynuować działalność rozwiązanej odgórnie w 1959 roku grupy Rhythm and Blues. Walicki wymyślił dla tej muzyki określenie „big-beat”, żeby nie używać źle widzianego „rock and rolla”.
 
-## Formuła
-Zespół działał jak wytwórnia: przez jego skład przewinęli się niemal wszyscy czołowi wokaliści epoki, m.in. Karin Stanek, Helena Majdaniec, Katarzyna Sobczyk i Czesław Niemen. Grupa akompaniowała, a solistów wymieniano.
+## Debiut
+Zespół zadebiutował 23 lipca 1960 roku w gdańskim klubie studenckim „Żak”. 23 kwietnia 1961 roku nagrał pierwszą EP-kę – pierwszy polski krążek z zagraniczną muzyką rockandrollową. Walicki opiekował się grupą do września 1961 roku, a wiosną 1962 założył kolejny zespół, Niebiesko-Czarnych.
 
-## Kompromis z cenzurą
-Śpiewanie po polsku, występy w państwowych agencjach estradowych i teksty poddawane cenzurze czyniły big-beat akceptowalnym. Powstał obieg muzyki młodzieżowej kontrolowany, ale autentycznie popularny – kompromis, który dał polskiej piosence całą dekadę rozwoju.
+## Wylęgarnia gwiazd
+Czerwono-Czarni działali jak wytwórnia talentów: brali udział w konkursach dla początkujących wokalistów i akompaniowali solistom. Śpiewali z nimi m.in. Karin Stanek, Helena Majdaniec, Katarzyna Sobczyk, Wojciech Gąssowski i Maciej Kossowski, a na basie grał m.in. Seweryn Krajewski.
 
-## Dziedzictwo
-Z tego środowiska wyrosły później zespoły takie jak Niebiesko-Czarni i Czerwone Gitary. Nazwa Czerwono-Czarnych oznacza dziś nie tyle konkretny skład, ile początek polskiej muzyki młodzieżowej.`,
+## Szczyt
+W latach 1964–1966 zespół koncertował w Czechosłowacji, Niemczech, USA i Kanadzie oraz grał w filmach. 13 kwietnia 1967 roku wystąpił obok The Rolling Stones podczas ich koncertów w Warszawie. W 1968 roku wykonał mszę beatową „Pan przyjacielem moim” Katarzyny Gärtner w kościele w Podkowie Leśnej.
+
+## Kompromis i schyłek
+Śpiewanie po polsku, występy w państwowych agencjach estradowych i teksty poddane cenzurze czyniły big-beat akceptowalnym dla władz. Po odejściu kierownika muzycznego Ryszarda Poznakowskiego w 1967 roku popularność zespołu zaczęła spadać. W 1971 roku zawiesił działalność, a w 1976 w zasadzie ją zakończył.`,
     trivia: [
-      'Określenie big-beat wymyślił Franciszek Walicki, żeby uniknąć źle widzianego słowa rock and roll.',
-      'Przez skład zespołu przewinęli się niemal wszyscy czołowi wokaliści epoki, w tym Czesław Niemen.',
+      'Nazwa zespołu pochodziła od barw gdańskiego Jazz Clubu.',
+      'Pierwsza EP-ka Czerwono-Czarnych z 1961 roku była pierwszym polskim krążkiem z zagraniczną muzyką rockandrollową.',
+      'W 1967 roku zespół wystąpił obok The Rolling Stones w Warszawie.',
     ],
     resources: [
       {
@@ -28185,20 +28201,24 @@ Z tego środowiska wyrosły później zespoły takie jak Niebiesko-Czarni i Czer
     summary: 'Bramkarz reprezentacji Polski, bohater remisu na Wembley (1973) i filar drużyny Górskiego, która zdobyła 3. miejsce na mundialu 1974.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Aankomst%20Pools%20elftal%20op%20Schiphol%2015%20Tomaszewski%2C%20kop%2C%2016%20Deyna%2C%20kop%2C%20Bestanddeelnr%20928-2029.jpg?width=800',
     imageCaption: 'Jan Tomaszewski (z lewej) i Kazimierz Deyna, lata 70.',
-    content: `## Wembley 1973
-17 października 1973 roku reprezentacja Polski zagrała na Wembley mecz decydujący o awansie na mistrzostwa świata. Anglicy atakowali przez cały mecz, a Jan Tomaszewski obronił kilkanaście sytuacji bramkowych. Remis 1:1 wystarczył Polsce, a wyeliminował gospodarzy.
+    content: `## Bramkarz z przypadku
+Jan Tomaszewski urodził się 9 stycznia 1948 roku we Wrocławiu. W juniorach Gwardii Wrocław grał jako pomocnik, dopóki drużyna nie potrzebowała bramkarza. Bronił barw Śląska Wrocław, Legii Warszawa i ŁKS Łódź, a w latach 1971–1981 rozegrał 63 mecze w reprezentacji Polski.
 
-## Clown
-Przed meczem trener Brian Clough nazwał go w telewizji klaunem. Określenie przylgnęło na stałe – ale w wersji odwróconej: jako przykład lekceważenia, które skończyło się kompromitacją tego, kto je wypowiedział.
+## Wembley 1973
+17 października 1973 roku Polska zagrała na Wembley mecz decydujący o awansie na mistrzostwa świata. Przed meczem Brian Clough nazwał Tomaszewskiego „klaunem”, a prasa – najgorszym bramkarzem, jaki grał na Wembley. Anglicy mieli przygniatającą przewagę, a Tomaszewski w 10. minucie doznał kontuzji ręki, ale bronił do końca. Przepuścił tylko rzut karny Allana Clarke’a. Po golu Jana Domarskiego i remisie 1:1 Polska po 36 latach awansowała na mundial, a on zyskał przydomek „człowieka, który zatrzymał Anglię”.
 
 ## RFN 1974
-Rok później Polska zajęła trzecie miejsce na mistrzostwach świata, a Tomaszewski był jednym z filarów drużyny Kazimierza Górskiego. Obronił między innymi rzut karny w meczu z Brazylią o trzecie miejsce.
+Rok później Polska zajęła trzecie miejsce na mistrzostwach świata, a Tomaszewski zagrał we wszystkich siedmiu meczach. Jako pierwszy bramkarz w historii mundiali obronił dwa rzuty karne na jednym turnieju: Staffana Tappera w meczu ze Szwecją i Uliego Hoenessa w spotkaniu z RFN.
+
+## Dalsza kariera
+W 1976 roku zdobył srebrny medal olimpijski w Montrealu, a w 1978 zagrał na mundialu w Argentynie. W 1978 roku wyjechał do Belgii, gdzie z Beerschotem zdobył Puchar Belgii, potem grał w hiszpańskim Hérculesie. W 1982 roku wstąpił do PRON, popierając wprowadzenie stanu wojennego.
 
 ## Znaczenie
-Mecz na Wembley funkcjonuje w polskiej pamięci zbiorowej niemal jak wydarzenie historyczne. W kraju odciętym od świata sukces sportowy był jedną z niewielu okazji, by poczuć się równym Zachodowi – i władze skwapliwie to wykorzystywały.`,
+Mecz na Wembley funkcjonuje w polskiej pamięci niemal jak wydarzenie historyczne. Gratulacje drużynie złożyli Gierek i premier Jaroszewicz. W kraju odciętym od świata sukces sportowy był jedną z niewielu okazji, by poczuć się równym Zachodowi – a władze skwapliwie to wykorzystywały.`,
     trivia: [
-      'Brian Clough nazwał go przed meczem klaunem; po remisie na Wembley określenie obróciło się przeciw niemu.',
-      'Remis 1:1 wyeliminował Anglię z mistrzostw świata i dał awans Polsce.',
+      'W 1974 roku jako pierwszy bramkarz w historii mundiali obronił dwa rzuty karne na jednym turnieju.',
+      'Na Wembley grał od 10. minuty z kontuzjowaną ręką.',
+      'Brian Clough nazwał go przed meczem „klaunem”, a po remisie nazywano go „człowiekiem, który zatrzymał Anglię”.',
     ],
     resources: [
       {
@@ -29856,21 +29876,25 @@ Cztery lata później drużyna odpadła w drugiej rundzie po przegranej z Brazyl
     category: 'kultura',
     tags: ['film', 'kino', 'oniryzm', 'rozrachunek'],
     yearStart: 1965,
-    summary: 'Oniryczny, wieloznaczny dramat Tadeusza Konwickiego (1965) z Cybulskim; słynny ze zbiorowego, somnambulicznego tańca „salto” i muzyki Kilara.',
+    summary: 'Oniryczny, wieloznaczny dramat Tadeusza Konwickiego (1965) ze Zbigniewem Cybulskim; słynny z nocnego, zbiorowego tańca w dawnej synagodze.',
     content: `## Film
-„Salto” Tadeusza Konwickiego z 1965 roku to jeden z najbardziej niejednoznacznych filmów polskiego kina. Główną rolę zagrał Zbigniew Cybulski, wcielając się w człowieka, który przyjeżdża do małego miasteczka i podaje się za kogoś, kim być może nie jest.
+„Salto” to film psychologiczny Tadeusza Konwickiego, który napisał też scenariusz. Konwicki musiał czekać na zgodę z powodów politycznych – odmówił podpisania kontrlistu wobec Listu 34 – i dostał ją dopiero w październiku 1964 roku. Premiera odbyła się 11 czerwca 1965 roku. Ponieważ akcja rozgrywa się latem, a zdjęcia kręcono jesienią, na drzewach podobno wieszano kilogramy jabłek.
 
-## Nie wiadomo, co jest prawdą
-Bohater opowiada o sobie sprzeczne historie, a mieszkańcy przyjmują je bez pytań, bo każdy chce w nich odnaleźć coś własnego. Film nie rozstrzyga, czy jest oszustem, czy człowiekiem naprawdę naznaczonym wojną.
+## Przybysz
+Do sennego miasteczka na Ziemiach Odzyskanych przybywa tajemniczy mężczyzna, który wyskoczył z pędzącego pociągu. Zagrał go Zbigniew Cybulski. Przedstawia się raz jako Kowalski, raz jako Malinowski, opowiada sprzeczne wersje swojego życiorysu i twierdzi, że ucieka przed niesprawiedliwym wyrokiem. Na przemian jawi się jako prorok i oszust: uzdrawia, uwodzi, przepowiada przyszłość. W snach czeka go egzekucja – raz z rąk hitlerowców, raz komunistów.
 
-## O czym naprawdę
-Konwicki opisuje sposób, w jaki społeczność radzi sobie z niewygodną przeszłością: przez zbiorowe udawanie, rytuał i wygodną legendę. W kraju, w którym o wojnie i o latach powojennych mówiono wersją obowiązującą, była to diagnoza dotkliwa.
+## Taniec
+Miasteczko leży przy kopalni uranu i wkrótce ma zniknąć. Mieszkańcy przygotowują uroczystość rocznicową w magazynie urządzonym w dawnej synagodze. O świcie razem z przybyszem tańczą tam synchronicznie tajemniczy, chocholi taniec – najsłynniejszą scenę filmu. W obsadzie byli też m.in. Gustaw Holoubek, Wojciech Siemion, Zdzisław Maklakiewicz i Andrzej Łapicki.
 
-## Forma
-Słynna scena zbiorowego tańca – tytułowego salta – stała się jednym z najczęściej przywoływanych obrazów polskiego kina lat 60., czytanym jako metafora wspólnego odsuwania od siebie prawdy.`,
+## Demaskacja
+Następnego dnia zjawia się kobieta z dziećmi, która podaje się za żonę przybysza i nazywa go „dziwkarzem i łazęgą”. Rozczarowani mieszkańcy, którzy odkryli w nim samych siebie, zwracają się przeciw „fałszywemu prorokowi”, a on ucieka, wskakując do przejeżdżającego pociągu.
+
+## Diagnoza
+Tadeusz Sobolewski pisał, że polskie kino nie ma dziś równie przenikliwej diagnozy charakteru narodowego. Jonathan Rosenbaum z „Chicago Readera” cenił tę rolę najwyżej ze wszystkich kreacji Cybulskiego. W 2014 roku Martin Scorsese włączył „Salto” do przeglądu arcydzieł polskiego kina w USA i Kanadzie.`,
     trivia: [
-      'Film nie rozstrzyga, czy bohater jest oszustem, czy człowiekiem naznaczonym wojną.',
-      'Scena zbiorowego tańca stała się jednym z najczęściej przywoływanych obrazów polskiego kina lat 60.',
+      'Konwicki dostał zgodę na film dopiero w 1964 roku, bo nie podpisał kontrlistu wobec Listu 34.',
+      'Zdjęcia do letniej akcji kręcono jesienią – na drzewach podobno wieszano jabłka.',
+      'Martin Scorsese zaliczył „Salto” do arcydzieł polskiego kina.',
     ],
     resources: [
       {
@@ -32528,20 +32552,21 @@ Odszedł w lutym 1980 roku, na kilka miesięcy przed Sierpniem. W 1992 roku zost
     summary: 'I sekretarz KC PZPR od września 1980 do października 1981 – w okresie legalnego działania Solidarności i przygotowań do stanu wojennego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw_Kania_-1979-.jpg?width=800',
     imageCaption: 'Stanisław Kania, 1979',
-    content: `## Objęcie władzy
-Stanisław Kania (1927–2020) zastąpił Edwarda Gierka we wrześniu 1980 roku, kilka tygodni po podpisaniu porozumień sierpniowych. Wcześniej w kierownictwie partii odpowiadał m.in. za nadzór nad aparatem bezpieczeństwa i wojskiem.
+    content: `## Droga do władzy
+Stanisław Kania (1927–2020) urodził się we Wrocance. W czasie wojny należał do Batalionów Chłopskich, a po 1945 roku robił karierę w aparacie partyjnym. Od 1968 roku kierował Wydziałem Administracyjnym KC PZPR, od 1971 był sekretarzem KC, a od 1975 członkiem Biura Politycznego. Przez całe lata 70. nadzorował m.in. aparat bezpieczeństwa.
 
 ## Rok balansowania
-Jego kadencja przypadła na jedyny okres, gdy Solidarność działała legalnie. Kania prowadził politykę lawirowania: unikał otwartej konfrontacji, ale nie godził się na trwałe ustępstwa. Równolegle trwały przygotowania do wprowadzenia stanu wojennego oraz naciski ze strony Moskwy i sojuszników, domagających się rozwiązania siłowego.
+6 września 1980 roku zastąpił Edwarda Gierka, usuniętego po sierpniowych strajkach. Jego kadencja przypadła na jedyny okres, gdy Solidarność działała legalnie. Kania opowiadał się za wyjściem z kryzysu przez politykę „odnowy” i reformy, unikał otwartej konfrontacji, ale nie godził się na trwałe ustępstwa. Jednocześnie trwały przygotowania do stanu wojennego i naciski Moskwy, domagającej się rozwiązania siłowego.
 
-## Odsunięcie
-W październiku 1981 roku zastąpił go gen. Wojciech Jaruzelski, który skupił w jednym ręku kierownictwo partii, rządu i wojska. Dwa miesiące później wprowadzono stan wojenny.
+## Rezygnacja
+18 października 1981 roku zrezygnował ze stanowiska I sekretarza. Według jego biografii – sprzeciwiając się zamiarowi wprowadzenia stanu wojennego. Zastąpił go gen. Wojciech Jaruzelski, który skupił w swoich rękach kierownictwo partii, rządu i wojska. Niecałe dwa miesiące później wprowadzono stan wojenny.
 
 ## Później
-Kania pozostał w Radzie Państwa do 1985 roku, potem wycofał się z polityki. Do końca życia twierdził, że jego linia – unikanie rozwiązania siłowego – była właściwa.`,
+Od maja 1982 do listopada 1985 roku zasiadał w Radzie Państwa, a do 1989 był posłem na Sejm. W III RP sądzono go razem z twórcami stanu wojennego, ale w 2012 roku sąd go uniewinnił, a Sąd Najwyższy w 2014 roku oddalił kasację IPN. Zmarł 3 marca 2020 roku jako ostatni żyjący I sekretarz KC PZPR.`,
     trivia: [
       'Kierował partią przez cały okres legalnego działania Solidarności – od września 1980 do października 1981.',
-      'Zastąpił go Jaruzelski, który jako jedyny w historii PRL łączył kierownictwo partii, rządu i wojska.',
+      'W 2012 roku został uniewinniony z zarzutu udziału we wprowadzeniu stanu wojennego.',
+      'Zmarł w 2020 roku jako ostatni żyjący I sekretarz KC PZPR.',
     ],
     resources: [
       {
@@ -33263,20 +33288,24 @@ Internowany w stanie wojennym, potem więziony. Po 1989 roku był posłem i sena
     summary: 'Krytyk i historyk literatury, współzałożyciel KOR i autor jego historii; w 1987 roku współtwórca odrodzonej PPS.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Jozef_Lipski.jpg?width=800',
     imageCaption: 'Jan Józef Lipski',
-    content: `## Dwie drogi
-Jan Józef Lipski (1926–1991) był z zawodu historykiem literatury, badaczem twórczości pozytywistów i Młodej Polski. Równolegle prowadził działalność opozycyjną, traktując obie te role jako jedno zadanie: obronę prawdy o rzeczywistości.
+    content: `## Żołnierz „Baszty”
+Jan Józef Lipski (1926–1991) urodził się w Warszawie. W czasie okupacji uczył się na tajnych kompletach, brał udział w małym sabotażu, a od 1943 roku służył w batalionie „Baszta” Armii Krajowej i walczył w Powstaniu Warszawskim.
+
+## Historyk literatury
+Studiował polonistykę na Uniwersytecie Warszawskim i badał literaturę Młodej Polski. Doktorat i habilitację poświęcił twórczości Jana Kasprowicza. Pracował w PIW, a od 1961 roku w Instytucie Badań Literackich. W latach 50. należał do Klubu Krzywego Koła i przez pewien czas kierował działem kulturalnym „Po prostu”.
+
+## Listy i pomoc
+W 1964 roku organizował podpisy pod Listem 34, protestem intelektualistów przeciw zaostrzeniu cenzury. Od połowy lat 60., z pomocą Jana Olszewskiego, prowadził kasę pomocy dla represjonowanych opozycjonistów. W 1968 roku podpisał list w obronie relegowanego Adama Michnika, a w 1975 był jednym z inicjatorów Listu 59.
 
 ## KOR
-W 1976 roku należał do założycieli Komitetu Obrony Robotników, powstałego po represjach wobec robotników Radomia i Ursusa. Napisał później obszerną historię KOR – pracę, która wyszła w drugim obiegu i stała się podstawowym źródłem o tym środowisku.
+W 1976 roku pomagał robotnikom represjonowanym po czerwcowych wydarzeniach w Radomiu i Ursusie, a we wrześniu współtworzył Komitet Obrony Robotników. Był nieformalnym skarbnikiem KOR, a w maju 1977 roku trafił do aresztu. Po 13 grudnia 1981 roku zatrzymano go w strajkującym Ursusie. Podczas leczenia w Londynie napisał monografię KOR, wydaną przez emigracyjne wydawnictwo „Aneks”. W 1981 roku opublikował głośny esej „Dwie ojczyzny – dwa patriotyzmy” o megalomanii i ksenofobii narodowej.
 
-## Powstaniec
-Był żołnierzem Armii Krajowej i uczestnikiem Powstania Warszawskiego. To pokoleniowe doświadczenie łączyło wielu działaczy opozycji lat 70. z tradycją, którą w oficjalnym obiegu przemilczano.
-
-## Socjalista
-W 1987 roku współtworzył reaktywowaną Polską Partię Socjalistyczną, wracając do tradycji lewicy niepodległościowej. Bronił jej odrębności zarówno wobec komunistów, jak i wobec tych środowisk opozycji, które utożsamiały socjalizm z PRL.`,
+## Socjalista i senator
+W listopadzie 1987 roku współtworzył w kraju Polską Partię Socjalistyczną i został przewodniczącym jej Rady Naczelnej, a w 1990 roku stanął na czele zjednoczonej PPS. W 1989 roku wybrano go do Senatu z województwa radomskiego. Zmarł 10 września 1991 roku w Krakowie.`,
     trivia: [
-      'Napisał historię KOR wydaną w drugim obiegu – do dziś podstawowe źródło o tym środowisku.',
-      'W 1987 roku współtworzył reaktywowaną PPS, wracając do tradycji lewicy niepodległościowej.',
+      'Był nieformalnym skarbnikiem KOR.',
+      'Monografię KOR napisał podczas leczenia w Londynie; wydało ją emigracyjne wydawnictwo „Aneks”.',
+      'W 1981 roku opublikował głośny esej „Dwie ojczyzny – dwa patriotyzmy”.',
     ],
     resources: [
       {
@@ -33987,7 +34016,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1965, event: 'Prapremiera „Tanga” Sławomira Mrożka', category: 'kultura', entryId: 'mrozek-slawomir' },
   { year: 1972, event: 'Wojciech Fortuna zdobywa olimpijskie złoto w skokach narciarskich (Sapporo)', category: 'społeczeństwo', entryId: 'wojciech-fortuna' },
   { year: 1978, event: 'Premiera FSO Polonez – nowego polskiego samochodu rodzinnego', category: 'gospodarka', entryId: 'fso-polonez' },
-  { year: 1982, event: 'Zbrodnia lubińska – ZOMO zabija trzech demonstrantów', category: 'represje', entryId: 'lubin-1982' },
+  { year: 1982, event: 'Zbrodnia lubińska – milicja strzela do demonstrantów, giną trzy osoby', category: 'represje', entryId: 'lubin-1982' },
   { year: 1982, event: 'Pierwsze audycje podziemnego Radia Solidarność', category: 'opozycja', entryId: 'radio-solidarnosc' },
   { year: 1984, event: 'Obrona krzyży w Miętnem i Włoszczowej', category: 'opozycja', entryId: 'obrona-krzyzy' },
   { year: 1953, event: 'Proces kurii krakowskiej – pokazowy proces przeciw duchownym', category: 'represje', entryId: 'proces-kurii-krakowskiej' },
@@ -34054,6 +34083,10 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1981, event: 'Premiera „Vabanku” – debiut reżyserski Juliusza Machulskiego', category: 'kultura', entryId: 'vabank' },
   { year: 1983, event: 'Dezerter nagrywa EP „Ku przyszłości” („Spytaj milicjanta”)', category: 'kultura', entryId: 'dezerter-zespol' },
   { year: 1986, event: 'Emisja serialu „Alternatywy 4” Stanisława Barei', category: 'kultura', entryId: 'alternatywy-4' },
+  { year: 1981, event: 'Zdjęcia do „Alternatyw 4” przerwane przez stan wojenny', category: 'kultura', entryId: 'alternatywy-4' },
+  { year: 1981, event: 'Stanisław Kania rezygnuje (18 października), zastępuje go Jaruzelski', category: 'osoby', entryId: 'kania' },
+  { year: 1981, event: 'Esej Jana Józefa Lipskiego „Dwie ojczyzny – dwa patriotyzmy”', category: 'osoby', entryId: 'lipski' },
+  { year: 1974, event: 'Jan Tomaszewski broni dwa rzuty karne na mundialu w RFN', category: 'społeczeństwo', entryId: 'jan-tomaszewski' },
   { year: 1960, event: 'Premiera „Krzyżaków” Aleksandra Forda – rekord widowni polskiego kina', category: 'kultura', entryId: 'krzyzacy' },
   { year: 1983, event: 'Urszula – przebój „Dmuchawce, latawce, wiatr” (z Budką Suflera)', category: 'kultura', entryId: 'urszula' },
   { year: 1987, event: 'Emisja serialu „Zmiennicy” Stanisława Barei', category: 'kultura', entryId: 'zmiennicy' },
@@ -34071,7 +34104,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1976, event: 'Jacek Wszoła zdobywa złoto olimpijskie w skoku wzwyż (Montreal)', category: 'społeczeństwo', entryId: 'jacek-wszola' },
   { year: 1976, event: 'Debiut Hanny Banaszak w koncercie „Debiuty” na festiwalu w Opolu', category: 'kultura', entryId: 'hanna-banaszak' },
   { year: 1982, event: 'Premiera „Znachora” Jerzego Hoffmana', category: 'kultura', entryId: 'znachor' },
-  { year: 1977, event: 'Premiera „Człowieka z marmuru” Andrzeja Wajdy', category: 'kultura', entryId: 'czlowiek-z-marmuru' },
+  { year: 1977, event: 'Premiera „Człowieka z marmuru” Andrzeja Wajdy (25 lutego) – 2,5 mln widzów mimo nagonki', category: 'kultura', entryId: 'czlowiek-z-marmuru' },
   { year: 1981, event: '„Człowiek z żelaza” Wajdy zdobywa Złotą Palmę w Cannes', category: 'kultura', entryId: 'czlowiek-z-zelaza' },
   { year: 1977, event: 'Debiut Krystyny Jandy w „Człowieku z marmuru”', category: 'kultura', entryId: 'krystyna-janda' },
   { year: 1985, event: 'Zbigniew Wodecki – przebój „Chałupy welcome to”', category: 'kultura', entryId: 'zbigniew-wodecki' },
@@ -34114,7 +34147,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1979, event: '„Amator” Kieślowskiego zdobywa Złoty Medal na festiwalu w Moskwie', category: 'kultura', entryId: 'amator-film' },
   { year: 1989, event: 'W sierpniu SB liczy 24 300 funkcjonariuszy i około 90 tysięcy tajnych współpracowników', category: 'represje', entryId: 'sbezpieczenstwa' },
   { year: 1961, event: '„Matka Joanna od Aniołów” Kawalerowicza – nagroda w Cannes', category: 'kultura', entryId: 'matka-joanna-od-aniolow' },
-  { year: 1965, event: 'Czerwono-Czarni – jeden z pierwszych zespołów polskiego big-beatu', category: 'kultura', entryId: 'czerwono-czarni' },
+  { year: 1967, event: 'Czerwono-Czarni występują obok The Rolling Stones w Warszawie', category: 'kultura', entryId: 'czerwono-czarni' },
   { year: 1973, event: 'Jan Tomaszewski broni na Wembley – awans Polski na mundial', category: 'społeczeństwo', entryId: 'jan-tomaszewski' },
   { year: 1959, event: 'Premiera „Pociągu” Jerzego Kawalerowicza', category: 'kultura', entryId: 'pociag-film' },
   { year: 1960, event: 'Bogumił Kobiela w „Zezowatym szczęściu” Andrzeja Munka', category: 'kultura', entryId: 'bogumil-kobiela' },
