@@ -1244,20 +1244,24 @@ Zmarł 12 marca 1956 roku w Moskwie, dokąd pojechał na XX Zjazd KPZR, gdzie Ch
     yearStart: 1976,
     yearEnd: 1981,
     summary: 'KOR – Komitet Obrony Robotników założony w 1976 roku przez intelektualistów w obronie represjonowanych robotników z Radomia i Ursusa. Pierwsza jawna, zorganizowana opozycja w PRL, prekursor "Solidarności".',
-    content: `## Powstanie
-Komitet Obrony Robotników powstał we wrześniu 1976 roku, po represjach wobec uczestników czerwcowych protestów w Radomiu, Ursusie i Płocku. Był pierwszą jawną organizacją opozycyjną w PRL – jego członkowie podpisywali się nazwiskiem i podawali adresy.
+    content: `## Pomoc przed komitetem
+Po czerwcowych protestach 1976 roku władze represjonowały robotników Radomia, Ursusa i Płocka. Pierwszą pomoc zorganizowało środowisko harcerskiej „Gromady Włóczęgów” Antoniego Macierewicza i młodzi działacze warszawskiego KIK, m.in. Henryk Wujec, przy wsparciu Jana Józefa Lipskiego. Symbolicznym początkiem był udział w pierwszym procesie robotników Ursusa 16–17 lipca 1976 roku, gdzie nawiązano kontakt z rodzinami.
+
+## Powstanie
+23 września 1976 roku czternastu sygnatariuszy ogłosiło „Apel do społeczeństwa i władz PRL” i powołało Komitet Obrony Robotników. Byli wśród nich m.in. Jerzy Andrzejewski, Stanisław Barańczak, Jacek Kuroń, Edward Lipiński, Jan Józef Lipski, Antoni Macierewicz i ks. Jan Zieja. Był to pierwszy jawny komitet opozycyjny w PRL – jego członkowie podpisywali się nazwiskami i podawali adresy. Do KOR dołączyli potem m.in. Halina Mikołajska, Bogdan Borusewicz i Adam Michnik.
 
 ## Co robił
-Zbierał pieniądze dla rodzin zwolnionych i aresztowanych, organizował pomoc prawną i lekarską, dokumentował przypadki bicia i procesów. Ta konkretna, policzalna praca była ważniejsza niż deklaracje programowe.
+Komitet organizował pomoc finansową, prawną i lekarską dla represjonowanych i ich rodzin. Działały dwie ekipy – ursuska i radomska – docierające do rodzin skazanych robotników. KOR wydawał poza cenzurą „Komunikat” i „Biuletyn Informacyjny”, dokumentując pobicia i procesy. Władze odpowiadały nękaniem: pobiciami, zwolnieniami z pracy i grzywnami za „nielegalną zbiórkę pieniędzy”.
 
 ## Przełom
-Znaczenie KOR polegało na połączeniu dwóch środowisk, które wcześniej działały osobno: inteligencji i robotników. W 1968 roku robotnicy nie poparli studentów, w 1970 studenci nie poparli robotników. Od 1976 roku ten podział przestał działać na korzyść władzy.
+KOR połączył środowiska, które wcześniej działały osobno: inteligencję i robotników. W 1968 roku robotnicy nie poparli studentów, w 1970 studenci nie poparli robotników. Członkowie KOR mieli bardzo różne rodowody: od przedwojennych socjalistów i żołnierzy konspiracji po „komandosów” z Marca i harcerzy.
 
-## Dalej
-Po spełnieniu części postulatów komitet przekształcił się w Komitet Samoobrony Społecznej „KOR”. Z jego środowiska wyszli ludzie, którzy cztery lata później doradzali strajkującym w Stoczni Gdańskiej.`,
+## Od KOR do KSS „KOR”
+Po amnestii ogłoszonej na 22 lipca 1977 roku na wolność wyszli zarówno aresztowani członkowie KOR, jak i ostatni uwięzieni robotnicy – pierwotny cel komitetu został osiągnięty. Jesienią 1977 roku przekształcił się w Komitet Samoobrony Społecznej „KOR”. Z jego środowiska wyszli ludzie, którzy w 1980 roku doradzali strajkującym na Wybrzeżu.`,
     trivia: [
-      'Członkowie KOR podpisywali się nazwiskiem i podawali własne adresy – to była jawność zamiast konspiracji.',
-      'KOR połączył inteligencję z robotnikami; wcześniej, w 1968 i 1970 roku, obie grupy nie poparły się nawzajem.',
+      'Członkowie KOR podpisywali się nazwiskiem i podawali własne adresy – jawność zamiast konspiracji.',
+      'Apel założycielski podpisało 14 osób, w tym ks. Jan Zieja i pisarz Jerzy Andrzejewski.',
+      'Władze karały działaczy KOR grzywnami za „nielegalną zbiórkę pieniędzy”.',
     ],
     resources: [
       {
@@ -16623,18 +16627,25 @@ W krótkiej perspektywie orędzie kosztowało Kościół falę ataków i nieufno
     yearStart: 1975,
     yearEnd: 1976,
     summary: 'Wpisanie do konstytucji „kierowniczej roli PZPR” i sojuszu z ZSRR wywołało protesty intelektualistów, m.in. słynny List 59.',
-    content: `## Zmiana
-W lutym 1976 roku Sejm uchwalił nowelizację konstytucji PRL. Wpisano do niej kierowniczą rolę PZPR w państwie oraz nienaruszalność sojuszu ze Związkiem Radzieckim. To, co dotąd było praktyką ustrojową, stało się przepisem.
+    content: `## Zapowiedź
+We wrześniu 1975 roku „Tezy na VII Zjazd PZPR” zapowiedziały zmiany w konstytucji. Miały do niej trafić przewodnia rola PZPR i socjalistyczny charakter państwa, trwały i nienaruszalny sojusz z ZSRR oraz uzależnienie praw obywateli od wypełniania obowiązków wobec państwa. Stało się to kilka tygodni po tym, jak Polska podpisała Akt końcowy KBWE w Helsinkach, zobowiązujący do przestrzegania praw człowieka.
 
-## Protesty
-Projekt wywołał falę listów protestacyjnych środowisk inteligenckich, z Listem 59 na czele. Sygnatariusze wskazywali, że zapis o sojuszu ogranicza suwerenność, a kierownicza rola partii przekreśla zwierzchnictwo narodu.
+## List 59
+Pomysł listu protestacyjnego zgłosił Jan Olszewski. Tekst zredagował z Jakubem Karpińskim i Jackiem Kuroniem, a 5 grudnia 1975 roku Edward Lipiński złożył go w Kancelarii Sejmu. Podpisało go początkowo 59 intelektualistów – stąd nazwa – a ostatecznie 66. Sygnatariusze domagali się zagwarantowania wolności sumienia, pracy, słowa i nauki. Po nim napłynęły kolejne listy protestacyjne.
 
-## Jedyny sprzeciw w Sejmie
-W głosowaniu jedynym posłem, który nie poparł zmian, był Stanisław Stomma z koła Znak. Kosztowało go to mandat: w kolejnej kadencji nie znalazł się na liście. Był to jedyny taki przypadek w historii Sejmu PRL.
+## Uchwalenie
+W lutym 1976 roku Sejm uchwalił nowelizację. Kierownicza rola PZPR i sojusz z ZSRR, dotąd będące praktyką ustrojową, stały się przepisami konstytucji.
+
+## Jeden poseł przeciw
+Jedynym posłem, który nie poparł zmian, był Stanisław Stomma, przewodniczący koła posłów „Znak” – wstrzymał się od głosu. Uważał, że zmiany utrwalą władzę bez społecznej kontroli. Władze nie pozwoliły mu kandydować w wyborach w 1976 roku, choć sam dopuszczał taką możliwość.
 
 ## Skutek
-Kampania protestacyjna zintegrowała środowiska, które kilka miesięcy później, po represjach wobec robotników Radomia i Ursusa, utworzyły Komitet Obrony Robotników. Rok 1976 zaczął się od protestu inteligencji, a skończył jej trwałym sojuszem z robotnikami.`,
-    trivia: ['Wpisano do konstytucji kierowniczą rolę PZPR i sojusz z ZSRR.', 'Protest przeciw zmianom podpisało 59 intelektualistów.'],
+Kampania protestacyjna zintegrowała środowiska, które kilka miesięcy później, po represjach wobec robotników Radomia i Ursusa, utworzyły Komitet Obrony Robotników. Rok 1976 zaczął się od protestu inteligencji, a skończył jej sojuszem z robotnikami.`,
+    trivia: [
+      'List 59 nazwano od pierwotnej liczby sygnatariuszy – ostatecznie podpisało go 66 osób.',
+      'Stanisław Stomma jako jedyny poseł nie poparł zmian i nie pozwolono mu kandydować w kolejnych wyborach.',
+      'Zapowiedź zmian padła kilka tygodni po podpisaniu przez Polskę Aktu końcowego KBWE w Helsinkach.',
+    ],
     resources: [
       {
         id: 'nk-1',
@@ -18969,19 +18980,23 @@ We wrześniu 1953 roku skazano biskupa kieleckiego Czesława Kaczmarka, a wkrót
     yearEnd: 1965,
     summary: 'Głośna afera gospodarcza z lat 60. dotycząca nielegalnego handlu mięsem; zakończona pokazowym procesem i kontrowersyjnym wyrokiem śmierci dla Stanisława Wawrzeckiego.',
     content: `## Sprawa
-Afera mięsna z pierwszej połowy lat 60. dotyczyła nieprawidłowości w handlu mięsem: kradzieży, podmieniania towaru lepszego na gorszy, fałszowania faktur i łapówek za większe przydziały dostaw. Nieprawidłowości wykryła specjalna komisja partyjna.
+Afera mięsna z pierwszej połowy lat 60. dotyczyła nieprawidłowości w handlu mięsem, które wykryła specjalna komisja PZPR: kradzieży, podmieniania lepszego towaru na gorszy, fałszowania faktur i łapówek za większe przydziały dostaw. Aresztowano ok. 400 osób. Główną postacią procesu był Stanisław Wawrzecki, dyrektor Miejskiego Handlu Mięsem Warszawa Praga. Oskarżono też czterech innych dyrektorów, właściciela prywatnej masarni i czterech kierowników sklepów.
 
-## Skala
-Aresztowano około czterystu osób. Główną postacią procesu stał się Stanisław Wawrzecki, dyrektor Miejskiego Handlu Mięsem Warszawa Praga.
+## Tryb doraźny
+Proces rozpoczął się 20 listopada 1964 roku przed Sądem Wojewódzkim w Warszawie. Nie toczył się w zwykłym trybie, lecz w doraźnym, na podstawie dekretu z 1945 roku. Oznaczało to ograniczenie prawa do obrony, brak możliwości odwołania i dopuszczenie kary śmierci. Wniosek obrońców o zmianę trybu odrzucono. Składowi orzekającemu przewodniczył sędzia Roman Kryże.
 
 ## Wyrok
-Wawrzecki został skazany na karę śmierci i stracony w 1965 roku. Wyrok śmierci za przestępstwo gospodarcze był w ówczesnej Europie przypadkiem odosobnionym i do dziś uchodzi za przykład kary orzeczonej dla przykładu, a nie za czyn.
+Prokuratorzy żądali trzech wyroków śmierci. 2 lutego 1965 roku sąd skazał na śmierć jednego oskarżonego – Wawrzeckiego, któremu zarzucono m.in. przyjęcie ok. 3,5 mln zł łapówek. Stracono go 19 marca 1965 roku w więzieniu przy Rakowieckiej. Czterech dyrektorów skazano na dożywocie, pozostałych na 9–12 lat więzienia.
+
+## Rewizja
+27 lipca 2004 roku Sąd Najwyższy uchylił wyroki jako wydane z rażącym naruszeniem prawa. Sędzia Stanisław Zabłocki podkreślił, że nie oznacza to pełnej rehabilitacji skazanych, lecz „rehabilitację wymiaru sprawiedliwości”, który nie zapewnił im rzetelnego procesu – kasacja nie podważała bowiem ich winy.
 
 ## Co to mówi o systemie
-Afera pokazała mechanizm nieuchronny w gospodarce niedoboru: tam, gdzie towar jest reglamentowany, a jego cena urzędowa nie odpowiada realnej wartości, decydujący staje się dostęp do rozdzielnictwa. Karanie pojedynczych dyrektorów nie mogło tego zmienić, bo źródłem zjawiska był sam sposób zarządzania.`,
+W gospodarce niedoboru, gdzie towar był reglamentowany, a cena urzędowa nie odpowiadała realnej wartości, decydujący stawał się dostęp do rozdzielnictwa. Karanie dyrektorów, nawet śmiercią, nie mogło zmienić mechanizmu, bo jego źródłem był sam sposób zarządzania gospodarką.`,
     trivia: [
-      'Stanisław Wawrzecki został skazany na karę śmierci i stracony – za przestępstwo gospodarcze.',
-      'W aferze aresztowano około czterystu osób.',
+      'Proces toczył się w trybie doraźnym, bez możliwości odwołania od wyroku.',
+      'Stanisława Wawrzeckiego stracono 19 marca 1965 roku.',
+      'W 2004 roku Sąd Najwyższy uchylił wyroki jako wydane z rażącym naruszeniem prawa.',
     ],
     resources: [
       {
@@ -20514,19 +20529,23 @@ Jej historia pokazuje, jak wiele w Sierpniu zależało od decyzji podjętych w p
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Junacy_ze_S%C5%82u%C5%BCby_Polsce_na_obozie_w_Ksi%C4%99ginicach.jpg?width=800',
     imageCaption: 'Junacy ze Służby Polsce na obozie w Księginicach, przełom lat 40. i 50.',
     content: `## Organizacja
-Powszechna Organizacja „Służba Polsce” istniała w latach 1948–1955 i obejmowała młodzież w wieku od szesnastu do dwudziestu jeden lat. Była formacją paramilitarną: z mundurem, dyscypliną, musztrą i przysięgą.
+Powszechną Organizację „Służba Polsce” utworzono ustawą z 25 lutego 1948 roku o powszechnym obowiązku przysposobienia zawodowego, wychowania fizycznego i przysposobienia wojskowego młodzieży. Obejmowała młodzież w wieku 16–21 lat i była formacją paramilitarną: z poborem, mundurami i hufcami. Nawiązywała do przedwojennych Junackich Hufców Pracy, ale służyła celom ideologicznym nowej władzy. Politycznie kontrolował ją ZWM, a potem ZMP.
 
-## Praca i szkolenie
-Uczestników kierowano do brygad pracy przy wielkich budowach, wykopach, melioracjach i żniwach, łącząc to ze szkoleniem wojskowym i politycznym. Udział formalnie był powszechnym obowiązkiem, a nie ochotniczym zgłoszeniem.
+## Obowiązek
+Obowiązek obejmował naukę, pracę okresową do sześciu miesięcy i pracę dorywczą do trzech dni w miesiącu. Pobór prowadziły specjalne komisje, rocznikami. Zwolnieni byli m.in. niezdolni do pracy, zamężne kobiety i matki, jedyni żywiciele rodzin oraz duchowni. W 1949 roku do organizacji należało ok. 1,2 mln osób.
 
-## Po co
-Organizacja rozwiązywała trzy problemy naraz: dostarczała taniej siły roboczej do inwestycji planu sześcioletniego, obejmowała młodzież kontrolą ideologiczną i przygotowywała rezerwy dla wojska. Praca fizyczna była tu zarazem środkiem wychowawczym.
+## Brygady
+Junaków kierowano do hufców w miejscu zamieszkania albo do skoszarowanych brygad pracujących daleko od domu. Brygady odbudowywały Warszawę, budowały Nową Hutę, osuszały Żuławy, pracowały w kopalniach i kamieniołomach. Towarzyszyły temu szkolenie wojskowe i indoktrynacja.
+
+## Brygady „nadkontyngentowe”
+Do specjalnych brygad w kopalniach i kamieniołomach przymusowo wcielano młodzież z grup uznanych za wrogie: synów zamożnych rolników, przedwojennych kupców, przemysłowców i urzędników oraz Ukraińców. Dopiero ustawa z 1994 roku przyznała im dodatek do emerytury.
 
 ## Koniec
-Organizację rozwiązano w 1955 roku, u progu odwilży. Pozostała w pamięci jako jeden z najbardziej charakterystycznych przejawów stalinowskiego podejścia do młodzieży: entuzjazm miał być zorganizowany odgórnie, a udział w nim obowiązkowy.`,
+W 1953 roku ograniczono liczbę brygad i wprowadzono zaciąg ochotniczy, a 17 grudnia 1955 roku Rada Ministrów rozwiązała organizację. Jej następcą stały się utworzone w 1958 roku Ochotnicze Hufce Pracy. Pamięć o junakach przetrwała w kulturze, choćby w piosence „Hej, młody junaku” z „Misia” Barei.`,
     trivia: [
-      'Udział formalnie był obowiązkiem powszechnym, mimo że organizacja nazywała się „Służba Polsce”.',
-      'Brygady pracy dostarczały taniej siły roboczej na budowy planu sześcioletniego.',
+      'W 1949 roku do „Służby Polsce” należało ok. 1,2 mln młodych ludzi.',
+      'Do brygad w kopalniach przymusowo wcielano młodzież z rodzin uznanych za „wrogie klasowo”.',
+      'Następcą organizacji stały się w 1958 roku Ochotnicze Hufce Pracy.',
     ],
     resources: [
       {
@@ -25045,19 +25064,23 @@ Obraz otrzymał Złote Lwy w Gdańsku, Jadwiga Barańska – Srebrnego Niedźwie
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zbigniew_Cybulski_w_filmie_Popi%C3%B3%C5%82_i_diament_%281958%29_1.jpg?width=800',
     imageCaption: 'Zbigniew Cybulski w „Popiele i diamencie”, 1958',
     content: `## Film
-„Popiół i diament” Andrzeja Wajdy z 1958 roku powstał na podstawie powieści Jerzego Andrzejewskiego. Akcja toczy się 8 maja 1945 roku – w dniu zakończenia wojny w Europie, gdy dla bohaterów zaczyna się zupełnie nowy konflikt.
+„Popiół i diament” Andrzeja Wajdy to czarno-biały dramat z 1958 roku, oparty na powieści Jerzego Andrzejewskiego. Powieść była w PRL lekturą szkolną i cieszyła się uznaniem władz, ale Wajda złagodził jej propagandową wymowę. Zamiast perspektywy komunistycznych notabli postawił w centrum tragiczne losy żołnierzy podziemia niepodległościowego.
 
-## Maciek Chełmicki
-Były żołnierz Armii Krajowej otrzymuje rozkaz zabicia Szczuki, sekretarza PPR. W ciągu jednej doby przechodzi drogę od wykonawcy rozkazu do człowieka, który chce żyć. Rolę zagrał Zbigniew Cybulski, w ciemnych okularach, które stały się znakiem całego pokolenia.
+## Jedna doba
+Akcja zaczyna się 8 maja 1945 roku, w dniu zakończenia wojny w Europie. Maciek Chełmicki, były żołnierz AK, dostaje rozkaz zabicia Szczuki, sekretarza PPR. Po nieudanej zasadzce trafia do hotelu „Monopol” w Ostrowcu, gdzie zakochuje się w barmance Krystynie i zaczyna marzyć o zwykłym życiu. Rozkaz jednak wykonuje – a potem sam ginie na śmietnisku.
 
-## Dwuznaczność
-Film formalnie mieści się w obowiązującej wykładni: bohater należy do podziemia, ofiarą jest komunista. W praktyce widz współczuje Maćkowi, a jego śmierć na śmietniku jest jedną z najbardziej gorzkich scen polskiego kina.
+## Cybulski
+Rolę Maćka miał pierwotnie zagrać Tadeusz Janczar, ale Janusz Morgenstern przekonał Wajdę do Zbigniewa Cybulskiego. Cybulski zagrał we współczesnym stroju i ciemnych okularach, co uczyniło z niego idola pokolenia i legendę polskiego kina.
 
-## Polska szkoła filmowa
-Obraz stał się najważniejszym dziełem polskiej szkoły filmowej i zapewnił Wajdzie międzynarodową pozycję. Pokazał, że o niedawnej historii można mówić językiem tragedii, a nie sprawozdania.`,
+## Realizacja
+Zdjęcia kręcono od marca do czerwca 1958 roku, przez 60 dni zdjęciowych, w wytwórni we Wrocławiu, gdzie wykreowano filmowy Ostrowiec. Za kamerą stał Jerzy Wójcik. Najtrudniej było przekonać władze do rozpowszechniania filmu: partyjni intelektualiści nie chcieli, by bohaterem był akowiec. Pomogła interwencja Andrzejewskiego i jego kolegów literatów.
+
+## Znaczenie
+Film stał się najważniejszym osiągnięciem polskiej szkoły filmowej i najbardziej rozpoznawalnym dziełem Wajdy. Gorzką ironię niesie m.in. śmierć Maćka na „śmietniku historii” i kontrast jego losu z pieśnią „Czerwone maki na Monte Cassino”. Wajda nawiązywał do tego filmu jeszcze w „Krajobrazie po bitwie” i „Weselu”.`,
     trivia: [
-      'Cała akcja rozgrywa się 8 maja 1945 roku – w dniu zakończenia wojny w Europie.',
-      'Ciemne okulary Cybulskiego stały się znakiem rozpoznawczym całego pokolenia.',
+      'Maćka miał zagrać Tadeusz Janczar – Cybulskiego do roli przekonał Wajdę Janusz Morgenstern.',
+      'Cała akcja rozgrywa się od 8 maja 1945 roku, w dniu zakończenia wojny w Europie.',
+      'Filmowy Ostrowiec zbudowano w wytwórni we Wrocławiu.',
     ],
     resources: [
       {
@@ -29103,20 +29126,24 @@ Stanek pokazuje, jak krótkie bywały kariery estradowe w PRL: pozycja gwiazdy z
     summary: 'Popularny aktor komediowy i charakterystyczny, ulubieniec publiczności; grał Tomasza Czereśniaka w „Czterech pancernych i psie”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wies%C5%82aw%20Go%C5%82as%20w%20latach%2060.jpg?width=800',
     imageCaption: 'Wiesław Gołas – aktor komediowy.',
-    content: `## Aktor
-Wiesław Gołas (1930–2021) był aktorem teatralnym, filmowym i kabaretowym, a także wykonawcą piosenki aktorskiej. Miał rzadką umiejętność łączenia komedii z rolami dramatycznymi bez utraty wiarygodności w żadnej z nich.
+    content: `## Harcerz z Szarych Szeregów
+Wiesław Gołas (1930–2021) urodził się w Kielcach. W 1943 roku wstąpił do Szarych Szeregów, brał udział w akcjach zdobywania broni, a w grudniu 1944 roku został aresztowany i brutalnie przesłuchiwany przez Gestapo. Jego ojciec, żołnierz Września i konspiracji, zginął na Majdanku.
+
+## Aktor
+Studiował w warszawskiej PWST, kierowanej przez Aleksandra Zelwerowicza, i ukończył ją w 1954 roku. Zadebiutował w Jeleniej Górze, a w latach 1955–1985 grał w Teatrze Dramatycznym w Warszawie, potem w Teatrze Polskim. Łączył komedię z rolami dramatycznymi bez utraty wiarygodności w żadnej z nich.
 
 ## Role
-Widzowie znali go przede wszystkim jako Tomka Czereśniaka z „Czterech pancernych i psa” oraz z ról u Stanisława Barei i Wojciecha Hasa – w „Lalce” z 1968 roku zagrał barona Krzeszowskiego. Występował też w Kabarecie Dudek, jednej z najważniejszych scen satyrycznych PRL.
+Widzowie znali go przede wszystkim jako Tomka Czereśniaka z „Czterech pancernych i psa”. W „Lalce” Wojciecha Hasa z 1968 roku zagrał barona Krzeszowskiego. W latach 1966 i 1967 zdobywał Srebrną Maskę w plebiscycie „Expressu Wieczornego” na najpopularniejszego aktora.
 
-## Kabaret w PRL
-Kabaret był w tamtych latach dziedziną szczególną: żył z aluzji, których cenzura nie mogła zapisać wprost, a publiczność rozumiała natychmiast. Aktor kabaretowy musiał operować tonem i pauzą, bo to one niosły treść, której nie było w zatwierdzonym tekście.
+## Kabaret
+Współtworzył Kabaret Koń, występował w Kabarecie Starszych Panów i był jedną z gwiazd Kabaretu Dudek. Śpiewał też piosenkę „W Polskę idziemy” Jerzego Wasowskiego i Wojciecha Młynarskiego. Kabaret w PRL żył z aluzji, których cenzura nie mogła zapisać wprost, a publiczność rozumiała natychmiast – aktor musiał operować tonem i pauzą.
 
 ## Pozycja
-Gołas należał do aktorów, których obecność w obsadzie była dla widza rekomendacją filmu. Grał dziesiątki ról drugoplanowych, które zapamiętywano lepiej niż niejedną rolę główną.`,
+Gołas należał do aktorów, których obecność w obsadzie była dla widza rekomendacją. Zagrał dziesiątki ról drugoplanowych, które zapamiętywano lepiej niż niejedną główną. Pośmiertnie w 2021 roku odznaczono go Krzyżem Wielkim Orderu Odrodzenia Polski.`,
     trivia: [
-      'Jako Tomek Czereśniak w „Czterech pancernych” stał się jedną z najbardziej rozpoznawalnych postaci polskiej telewizji.',
+      'Jako nastolatek z Szarych Szeregów został aresztowany i przesłuchiwany przez Gestapo.',
       'W „Lalce” Wojciecha Hasa z 1968 roku zagrał barona Krzeszowskiego.',
+      'Śpiewał piosenkę „W Polskę idziemy” Wasowskiego i Młynarskiego.',
     ],
     resources: [
       {
@@ -29637,19 +29664,23 @@ Aktorka tej popularności w kraju zachodnim byłaby gwiazdą przemysłu filmoweg
     yearEnd: 1989,
     summary: 'Tradycyjne święto plonów, w PRL przekształcone w państwową uroczystość; dożynki centralne z wieńcem, chlebem i władzami partyjnymi.',
     content: `## Święto plonów
-Dożynki są tradycyjnym świętem zakończenia żniw, obchodzonym w Polsce od stuleci. W PRL państwo przejęło tę tradycję i nadało jej formę uroczystości państwowej z udziałem najwyższych władz.
+Dożynki to tradycyjne święto zakończenia żniw, obchodzone w Polsce od stuleci, zwykle w niedzielę w okolicach jesiennej równonocy. W PRL zachowano ich tradycyjne elementy – pochody z wieńcami z kłosów, chleb z nowej mąki i pieśni – ale nadano im charakter polityczny. Gospodarzami byli przedstawiciele władz różnych szczebli, a uroczystość miała wyrażać poparcie dla polityki rolnej państwa.
 
 ## Dożynki centralne
-Od lat 50. organizowano dożynki centralne, na Stadionie Dziesięciolecia w Warszawie albo w kolejnych miastach wojewódzkich. Były to widowiska masowe: pochody, wieńce z kłosów, występy zespołów ludowych i przemówienia o sukcesach rolnictwa.
+Pierwsze dożynki centralne odbyły się 15 września 1946 roku w Opolu. Gospodarzem ogólnopolskich uroczystości był zwykle I sekretarz partii. W 1949 roku zorganizowano je na wrocławskim Psim Polu i wzbogacono inscenizacją średniowiecznej bitwy, przedstawianej jako wielkie zwycięstwo nad Niemcami. W latach 70. dożynki centralne co roku gościło inne miasto – Opole, Bydgoszcz, Białystok, Poznań, Koszalin, Płock, Leszno, Olsztyn czy Piotrków Trybunalski.
+
+## Stadion Dziesięciolecia 1968
+8 września 1968 roku dożynki centralne odbyły się na Stadionie Dziesięciolecia w Warszawie. W obecności władz partyjnych, dyplomatów i ok. 100 tys. widzów podpalił się tam Ryszard Siwiec, protestując przeciw inwazji na Czechosłowację. Oficjalne media przemilczały to wydarzenie.
 
 ## Dwuznaczność
-Święto rolników organizowało państwo, które jednocześnie prowadziło kolektywizację, utrzymywało obowiązkowe dostawy i traktowało gospodarstwa indywidualne jako przeżytek. Wieś przyjmowała honory, nie dostając tego, o co naprawdę chodziło – swobody gospodarowania.
+Święto rolników urządzało państwo, które w latach 50. prowadziło kolektywizację, przez dekady utrzymywało obowiązkowe dostawy i traktowało gospodarstwa indywidualne jak przeżytek. Wieś przyjmowała honory, nie dostając tego, o co naprawdę chodziło – swobody gospodarowania.
 
-## Wieś i tradycja
-Równolegle trwały dożynki parafialne, związane z Kościołem i lokalną wspólnotą. To one, a nie centralne widowiska, zachowały ciągłość obrzędu – i przetrwały po 1989 roku, gdy państwowa forma zniknęła.`,
+## Powrót do Kościoła
+Równolegle trwały dożynki parafialne. W latach 80. święto zmieniło charakter i wróciło do wymiaru dziękczynnego. Największe uroczystości dożynkowe odbywają się dziś na Jasnej Górze, dokąd przybywają delegacje rolników z całej Polski z wieńcami i chlebami.`,
     trivia: [
-      'Dożynki centralne organizowano m.in. na Stadionie Dziesięciolecia, jako widowisko masowe z przemówieniami.',
-      'Święto rolników urządzało państwo, które jednocześnie utrzymywało obowiązkowe dostawy płodów rolnych.',
+      'Pierwsze dożynki centralne odbyły się w 1946 roku w Opolu.',
+      'W 1949 roku dożynki na wrocławskim Psim Polu połączono z inscenizacją bitwy z Niemcami.',
+      'Podczas dożynek centralnych w 1968 roku na Stadionie Dziesięciolecia podpalił się Ryszard Siwiec.',
     ],
     resources: [
       {
@@ -33476,7 +33507,7 @@ Skutki tej zmiany – zahamowanie hiperinflacji z jednej strony, bezrobocie i up
   {
     id: 'pstrowski',
     title: 'Wincenty Pstrowski',
-    subtitle: 'Przodownik pracy, który zapracował się na śmierć',
+    subtitle: 'Pierwszy przodownik pracy Polski Ludowej',
     category: 'osoby',
     tags: ['gospodarka', 'propaganda', 'górnictwo', 'współzawodnictwo'],
     yearStart: 1947,
@@ -33484,20 +33515,24 @@ Skutki tej zmiany – zahamowanie hiperinflacji z jednej strony, bezrobocie i up
     summary: 'Górnik, którego wezwanie do współzawodnictwa pracy w 1947 roku uczyniło symbolem epoki; zmarł niespełna rok później, mając 43 lata.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wincenty_Pstrowski_miner.jpg?width=800',
     imageCaption: 'Wincenty Pstrowski, górnik uczyniony wzorem przodownika pracy',
-    content: `## Wezwanie
-Wincenty Pstrowski (1904–1948) był rębaczem dołowym w kopalni w Zabrzu. W lipcu 1947 roku ogłoszono jego list z pytaniem: kto wyrąbie więcej niż on. Wezwanie rozpropagowano w całym kraju i uczyniono początkiem masowego współzawodnictwa pracy.
+    content: `## Górnik z emigracji
+Wincenty Pstrowski (1904–1948) urodził się w Desznie. Od 1928 roku pracował w kopalni „Mortimer”, a potem w biedaszybach. W 1937 roku wyjechał za pracą do Belgii, gdzie wstąpił do Komunistycznej Partii Belgii. Do Polski wrócił w 1946 roku i wstąpił do PPR.
+
+## Wezwanie
+Jako rębacz w kopalni „Jadwiga” w Zabrzu 27 lipca 1947 roku wystosował list otwarty do górników z wezwaniem do współzawodnictwa pracy i przekraczania norm. Do historii przeszło jego hasło „Kto wyrobi więcej ode mnie?”, dziś często przekręcane na „Kto wyrąbie więcej niż ja?”. Propaganda ogłosiła go pierwszym polskim przodownikiem pracy, a w listopadzie 1947 roku dostał Krzyż Kawalerski Orderu Odrodzenia Polski.
 
 ## Mechanizm
-Współzawodnictwo miało podnieść wydajność bez inwestycji: nagradzano rekordy, ogłaszano wyniki, przodowników odznaczano i pokazywano w kronikach filmowych. W praktyce prowadziło do zaniedbywania bezpieczeństwa, niszczenia sprzętu i podnoszenia norm, po którym ta sama praca oznaczała niższą płacę.
+Współzawodnictwo miało podnieść wydajność bez inwestycji: nagradzano rekordy, ogłaszano wyniki, przodowników odznaczano i pokazywano w kronikach filmowych. W praktyce rekordy służyły podnoszeniu norm, po którym ta sama praca oznaczała niższą płacę.
 
 ## Śmierć
-Pstrowski zmarł w kwietniu 1948 roku, niespełna rok po ogłoszeniu wezwania, mając czterdzieści trzy lata. Oficjalnie mówiono o chorobie; powszechnie wiązano śmierć z wyniszczającą pracą ponad siły.
+W ostatnich tygodniach życia leżał w krakowskiej klinice z powodu białaczki szpikowej. Chorobę wykryto przypadkiem, przy leczeniu zębów, a przetoczono mu ok. 12,5 litra krwi. Zmarł 18 kwietnia 1948 roku, niespełna rok po ogłoszeniu wezwania, w wieku 43 lat. Pochowano go w Zabrzu.
 
-## Po latach
-Jego nazwisko weszło do języka potocznego jako ostrzeżenie – powiedzenie o zapracowaniu się jak Pstrowski krążyło przez cały okres PRL, będąc cichym komentarzem do propagandy pracy.`,
+## Pamięć i drwina
+Kopalnię „Jadwiga” nazwano jego imieniem, a w latach 1951–2006 nosiła je Politechnika Śląska. Ludzie kwitowali tę legendę po swojemu: krążyły powiedzonka „Gdy chcesz trafić na Sąd Boski, pracuj tak jak Wicek Pstrowski” oraz „Wincenty Pstrowski, górnik ubogi, przekroczył normę, wyciągnął nogi”. Po 2016 roku wiele ulic jego imienia zmieniono w ramach dekomunizacji.`,
     trivia: [
-      'Zmarł niespełna rok po ogłoszeniu swojego wezwania do współzawodnictwa, w wieku 43 lat.',
-      'Jego nazwisko weszło do języka potocznego jako ostrzeżenie przed zapracowaniem się na śmierć.',
+      'Jego hasło brzmiało „Kto wyrobi więcej ode mnie?”, a nie – jak się często cytuje – „Kto wyrąbie więcej niż ja?”.',
+      'Zmarł na białaczkę niespełna rok po ogłoszeniu wezwania; ludzie mówili, że „przekroczył normę, wyciągnął nogi”.',
+      'W latach 1951–2006 jego imię nosiła Politechnika Śląska.',
     ],
     resources: [
       {
@@ -34020,7 +34055,8 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1982, event: 'Pierwsze audycje podziemnego Radia Solidarność', category: 'opozycja', entryId: 'radio-solidarnosc' },
   { year: 1984, event: 'Obrona krzyży w Miętnem i Włoszczowej', category: 'opozycja', entryId: 'obrona-krzyzy' },
   { year: 1953, event: 'Proces kurii krakowskiej – pokazowy proces przeciw duchownym', category: 'represje', entryId: 'proces-kurii-krakowskiej' },
-  { year: 1964, event: 'Afera mięsna – pokazowy proces i wyrok śmierci dla S. Wawrzeckiego', category: 'gospodarka', entryId: 'afera-miesna' },
+  { year: 1964, event: 'Afera mięsna – proces w trybie doraźnym przed sądem w Warszawie', category: 'gospodarka', entryId: 'afera-miesna' },
+  { year: 1965, event: 'Stracenie Stanisława Wawrzeckiego, skazanego w aferze mięsnej (19 marca)', category: 'gospodarka', entryId: 'afera-miesna' },
   { year: 1970, event: 'Proces taterników – kara za przemyt paryskiej „Kultury”', category: 'opozycja', entryId: 'proces-taternikow' },
   { year: 1972, event: 'Ryszard Szurkowski wygrywa Wyścig Pokoju', category: 'społeczeństwo', entryId: 'szurkowski-ryszard' },
   { year: 1974, event: 'Premiera „Potopu” Jerzego Hoffmana według Sienkiewicza', category: 'kultura', entryId: 'hoffman-jerzy' },
@@ -34038,6 +34074,10 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1968, event: 'Zdjęcie „Dziadów” Kazimierza Dejmka zapala Marzec \'68', category: 'kultura', entryId: 'dejmek-kazimierz' },
   { year: 1972, event: 'Reprezentacja Kazimierza Górskiego mistrzem olimpijskim w Monachium', category: 'społeczeństwo', entryId: 'gorski-kazimierz' },
   { year: 1948, event: 'Powstaje Powszechna Organizacja „Służba Polsce” – brygady pracy młodzieży', category: 'represje', entryId: 'sluzba-polsce' },
+  { year: 1955, event: 'Rozwiązanie Powszechnej Organizacji „Służba Polsce”', category: 'represje', entryId: 'sluzba-polsce' },
+  { year: 1946, event: 'Pierwsze dożynki centralne w Opolu', category: 'społeczeństwo', entryId: 'dozynki' },
+  { year: 1977, event: 'Amnestia uwalnia członków KOR i uwięzionych robotników; komitet przekształca się w KSS „KOR”', category: 'opozycja', entryId: 'kor' },
+  { year: 1975, event: 'List 59 złożony w Kancelarii Sejmu (5 grudnia)', category: 'opozycja', entryId: 'nowelizacja-konstytucji-1976' },
   { year: 1952, event: 'Władze rozbudowują system zagłuszania Radia Wolna Europa', category: 'represje', entryId: 'zagluszanie-radia' },
   { year: 1971, event: 'Polska Telewizja rozpoczyna regularne nadawanie w kolorze', category: 'społeczeństwo', entryId: 'telewizja-kolorowa' },
   { year: 1978, event: 'Marek Kotański zakłada pierwszy ośrodek Monaru – walka z narkomanią', category: 'społeczeństwo', entryId: 'kotanski-marek' },
