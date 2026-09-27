@@ -17487,23 +17487,27 @@ Po 1989 roku firma nie wytrzymała konkurencji i przeszła przez lata przekszta�
     tags: ['opozycja', 'kościół', 'represje', 'protest'],
     yearStart: 1960,
     yearEnd: 1960,
-    summary: 'Spontaniczny protest mieszkańców Zielonej Góry w obronie Domu Katolickiego przed odebraniem przez władze – jeden z pierwszych otwartych buntów religijnych w PRL.',
+    summary: 'Spontaniczny protest mieszkańców Zielonej Góry w obronie Domu Katolickiego przed odebraniem przez władze – jeden z największych protestów w PRL między 1956 a 1970 rokiem.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zielona_G%C3%B3ra%2C_Filharmonia_%281%29.jpg?width=800',
     imageCaption: 'Dawny dom parafialny w Zielonej Górze, o który toczył się spór w 1960 roku (fot. współczesna)',
-    content: `## O co poszło
-30 maja 1960 roku w Zielonej Górze doszło do wielogodzinnych starć ulicznych. Powodem była decyzja władz o odebraniu parafii Domu Katolickiego i likwidacji prowadzonych tam salek katechetycznych.
+    content: `## Dom Katolicki
+W budynku z 1900 roku przy ulicy Powstańców Wielkopolskich w Zielonej Górze mieścił się od 1945 roku Dom Katolicki parafii św. Jadwigi. Działały tam m.in. redakcja „Słowa Powszechnego”, Caritas i PCK, a w salkach odbywały się lekcje religii. Władze postanowiły przejąć cały budynek na potrzeby orkiestry – katecheza w państwie „budującym socjalizm” była niepożądana.
 
-## Przebieg
-Gdy urzędnicy przystąpili do przejmowania budynku, zebrał się tłum broniący dostępu. Do rozpędzenia zgromadzonych skierowano milicję i zmotoryzowane odwody. Starcia objęły centrum miasta i trwały przez większą część dnia.
+## 30 maja 1960
+Gdy proboszcz ks. Kazimierz Michalski ogłosił parafianom eksmisję, część z nich postanowiła ją zablokować. W poniedziałek 30 maja 1960 roku ok. godziny 10 doszło do szarpaniny z milicją. Po kilku godzinach przerodziła się ona w zamieszki w centrum miasta, w których wzięło udział ok. 5000 osób.
+
+## Starcia
+Przeciw mieszkańcom rzucono milicję i ZOMO, które użyły pałek i gazu łzawiącego. Protestujący wyrywali bruk i rzucali kamieniami, spalili dwa samochody milicyjne. Walki trwały od przedpołudnia do wieczora. Był to jeden z największych protestów w PRL między Poznańskim Czerwcem 1956 a Grudniem 1970.
 
 ## Represje
-Zatrzymano kilkuset uczestników, a wobec kilkudziesięciu osób zapadły wyroki więzienia. Sprawę przedstawiono w prasie jako chuligaństwo inspirowane przez kler, unikając wskazania rzeczywistej przyczyny.
+Zatrzymano 333 osoby, a kolejne ustalano na podstawie zdjęć wykonanych przez SB. Przed sądami stanęło 196 osób, a przed kolegiami orzekającymi – 48. Zapadały wyroki więzienia (dwie osoby dostały po pięć lat) i grzywny. Uczestników zwalniano z pracy i ze szkół, a część z nich razem z rodzinami musiała na zawsze opuścić Zieloną Górę. Prasa przedstawiała zajścia jako chuligaństwo inspirowane przez kler.
 
-## Kontekst
-Wydarzenia zielonogórskie wpisują się w falę konfliktów o obecność religii w przestrzeni publicznej, jaka przetoczyła się przez Polskę na przełomie lat 50. i 60. – miesiąc wcześniej doszło do starć w Nowej Hucie, w obronie krzyża. Odwilż popaździernikowa w tej dziedzinie skończyła się wyraźnie wcześniej niż w innych.`,
+## Pamięć
+Wydarzenia objęła zbiorowa amnezja – pierwsza książka o nich ukazała się dopiero w 1995 roku. Budynek jest dziś siedzibą Filharmonii Zielonogórskiej. W 2000 roku sąsiednia ulica otrzymała nazwę 30 Maja 1960 roku, a w 2010 roku stanął pomnik. Miesiąc przed zajściami w Zielonej Górze, w kwietniu 1960 roku, do podobnych starć w obronie krzyża doszło w Nowej Hucie.`,
     trivia: [
-      'Powodem starć było odebranie parafii Domu Katolickiego i likwidacja salek katechetycznych.',
-      'Miesiąc wcześniej doszło do podobnych zajść w Nowej Hucie, w obronie krzyża.',
+      'W zamieszkach wzięło udział ok. 5000 osób, a zatrzymano 333.',
+      'Dom Katolicki odebrano parafii na potrzeby orkiestry – dziś mieści się tam filharmonia.',
+      'Uczestników ustalano później na podstawie zdjęć wykonanych przez SB.',
     ],
     resources: [
       {
@@ -24619,20 +24623,24 @@ Krytyka traktowała Papa Dance jako muzykę czysto komercyjną. Z perspektywy cz
     summary: 'Jeden z najważniejszych polskich zespołów heavy metalowych; przebój „Dorosłe dzieci” (1983) stał się hymnem pokolenia.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krushfest-Turbo.jpg?width=800',
     imageCaption: 'Turbo na koncercie (fot. współczesna)',
-    content: `## Zespół
-Turbo powstało w Poznaniu na przełomie lat 70. i 80. i stało się jednym z pierwszych polskich zespołów grających ciężki rock. Wypełniało lukę, której estrada nie obsługiwała: muzykę głośną, gitarową, adresowaną do młodzieży robotniczej.
+    content: `## Początki
+Turbo założono w styczniu 1980 roku w Poznaniu. Założycielem i liderem był gitarzysta Wojciech Hoffmann. Zespół zadebiutował singlem z hardrockowymi utworami „W środku tej ciszy” i „Byłem z tobą tyle lat”. Po zmianach w składzie wokalistą został Grzegorz Kupczyk.
 
 ## Dorosłe dzieci
-Największy przebój, „Dorosłe dzieci”, stał się nieformalnym hymnem pokolenia dorastającego w latach 80. Tekst mówił o młodych ludziach zmuszonych do wcześniejszej dorosłości – co w dekadzie stanu wojennego i kryzysu czytało się jednoznacznie.
+W 1983 roku ukazał się debiutancki album „Dorosłe dzieci”, łączący ostry hard rock z brytyjskim heavy metalem. Tytułowy przebój stał się nieformalnym hymnem pokolenia dorastającego w latach 80. – piosenka o młodych ludziach zmuszonych do przedwczesnej dorosłości w dekadzie stanu wojennego i kryzysu czytała się jednoznacznie. Zespół grał na Rockowisku w Łodzi i na festiwalu w Jarocinie.
 
-## Jarocin
-Festiwal w Jarocinie był dla takich zespołów jedynym realnym obiegiem. Władze tolerowały go, licząc, że skupi młodzieżową energię w jednym, kontrolowanym miejscu – i przez lata rzeczywiście tak działał, dając zarazem scenę muzyce, której radio nie grało.
+## Okres błędów
+Po sukcesie wytwórnia naciskała na złagodzenie brzmienia. Wydany w 1985 roku album „Smak ciszy” był kompromisem, który Hoffmann nazwał później „okresem błędów i wypaczeń” – ironicznie, językiem partyjnych rozliczeń.
 
-## Dalej
-W drugiej połowie lat 80. zespół przesunął się w stronę cięższego, szybszego grania, wpisując się w falę metalu docierającą wtedy do Polski. Turbo należy do najdłużej działających polskich zespołów rockowych.`,
+## Metal
+W 1986 roku płytą „Kawaleria Szatana” zespół zerwał z łagodnym brzmieniem i zaczął grać heavy metal. Nawiązał współpracę z Metal Mind Productions i grał na festiwalu Metalmania. Album „Ostatni wojownik” (1987), inspirowany Metalliką i Slayerem, był już thrash metalem. W 1988 roku ukazała się jego anglojęzyczna wersja „Last Warrior”, skierowana na rynek europejski.
+
+## Scena bez radia
+Festiwale w Jarocinie i Metalmania były dla takich zespołów głównym obiegiem, dającym scenę muzyce, której radio grało niewiele. Turbo należy do pionierów i najdłużej działających zespołów polskiego metalu.`,
     trivia: [
-      '„Dorosłe dzieci” stały się nieformalnym hymnem pokolenia dorastającego w latach 80.',
-      'Władze tolerowały Jarocin, licząc, że skupi młodzieżową energię w jednym, kontrolowanym miejscu.',
+      'Wojciech Hoffmann nazwał łagodniejszy okres zespołu „okresem błędów i wypaczeń”.',
+      'Album „Ostatni wojownik” wydano też po angielsku jako „Last Warrior” na rynek europejski.',
+      'Turbo powstało w Poznaniu w styczniu 1980 roku.',
     ],
     resources: [
       {
@@ -24671,19 +24679,23 @@ W drugiej połowie lat 80. zespół przesunął się w stronę cięższego, szyb
     yearStart: 1966,
     summary: 'Monumentalny dramat historyczny Jerzego Kawalerowicza (1966) wg powieści Bolesława Prusa; nominowany do Oscara film o walce faraona z kastą kapłanów.',
     content: `## Film
-„Faraon” Jerzego Kawalerowicza powstał w 1965 roku, a na ekrany wszedł rok później, na podstawie powieści Bolesława Prusa. Akcja rozgrywa się w starożytnym Egipcie, a bohaterem jest młody następca tronu Ramzes XIII, grany przez Jerzego Zelnika.
+„Faraon” Jerzego Kawalerowicza to film historyczny z 1965 roku według powieści Bolesława Prusa, zrealizowany w Zespole Filmowym „Kadr”. Premiera odbyła się 11 marca 1966 roku w Sali Kongresowej w Warszawie. Młodego następcę tronu, a potem faraona Ramzesa XIII, zagrał Jerzy Zelnik.
 
 ## O co walczy Ramzes
-Młody władca próbuje reformować państwo, w którym faktyczną władzę sprawuje kasta kapłanów z arcykapłanem Herhorem na czele. Przegrywa nie w bitwie, lecz w starciu z aparatem, który zna mechanizmy państwa lepiej niż on.
+Ramzes chce zreformować państwo, w którym faktyczną władzę sprawuje kasta kapłanów z arcykapłanem Herhorem na czele. Przegrywa nie w bitwie, lecz w starciu z aparatem, który zna mechanizmy państwa lepiej niż on. Kawalerowicz chciał pokazać starcie równorzędnych postaci, ale część krytyków widziała w filmie opowiedzenie się po jednej ze stron.
 
-## Dlaczego to nie jest film o Egipcie
-Powieść Prusa, a za nią film, opisuje mechanizm władzy: rolę wiedzy jako narzędzia panowania, manipulowanie religią i bezradność reformatora wobec instytucji. Widzowie w PRL czytali to jednoznacznie, choć film formalnie mówił o starożytności.
+## Nie tylko o Egipcie
+Film opisuje mechanizm władzy: wiedzę jako narzędzie panowania i manipulowanie religią. Premiera zbiegła się z kampanią antyklerykalną władz w roku obchodów tysiąclecia chrztu Polski, co część widzów i historyków odczytywała jako kontekst polityczny.
 
-## Realizacja
-Zdjęcia kręcono m.in. w Uzbekistanie i Egipcie, przy ogromnej jak na polskie warunki skali produkcji. Film otrzymał nominację do Oscara i należy do najwyżej cenionych polskich widowisk historycznych.`,
+## Rozmach
+Produkcja trwała trzy lata – od jesieni 1962 roku – i angażowała do dwóch tysięcy statystów w scenach batalistycznych. Sceny pustynne kręcono niemal pięć miesięcy na pustyni Kyzył-kum pod Bucharą w Uzbekistanie. W upale taśmę trzeba było przechowywać w chłodni. Zdjęcia powstawały też w Egipcie i w łódzkiej wytwórni. Krytycy nazywali „Faraona” „supergigantem” na miarę amerykańskiej „Kleopatry”.
+
+## Uznanie
+Film pokazano na zamknięcie festiwalu w Cannes w 1966 roku i nominowano do Oscara dla najlepszego filmu nieanglojęzycznego. Przegrał z „Kobietą i mężczyzną” Claude'a Leloucha. W USA „Film Quarterly” nazwał go arcydziełem i najlepszym widowiskiem o starożytności w historii kina.`,
     trivia: [
-      'Film mówi formalnie o starożytnym Egipcie, ale opisuje mechanizm władzy czytelny dla widzów PRL.',
-      'Zdjęcia realizowano m.in. w Uzbekistanie, bo polskiej produkcji nie stać było na pełne plenery egipskie.',
+      'Sceny pustynne kręcono prawie pięć miesięcy na pustyni Kyzył-kum w Uzbekistanie.',
+      'W scenach batalistycznych brało udział do dwóch tysięcy statystów.',
+      'Film pokazano na zamknięcie festiwalu w Cannes w 1966 roku.',
     ],
     resources: [
       {
@@ -26413,19 +26425,23 @@ Filemon należał do żelaznego repertuaru wieczorynki. W kraju z dwoma programa
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jolanta%20Umecka%20w%20No%C5%BCu%20w%20wodzie%202.jpg?width=800',
     imageCaption: 'Jolanta Umecka w „Nożu w wodzie”, 1962',
     content: `## Debiut
-„Nóż w wodzie” był pełnometrażowym debiutem Romana Polańskiego. Film zrealizowano w 1961 roku, na ekrany wszedł rok później. Scenariusz napisał Polański wspólnie z Jerzym Skolimowskim i Jakubem Goldbergiem.
+„Nóż w wodzie” to czarno-biały, pełnometrażowy debiut Romana Polańskiego, zrealizowany w 1961 roku w Zespole Filmowym „Kamera” Jerzego Bossaka. Scenariusz napisali Polański, Jerzy Skolimowski i Jakub Goldberg. Komisja Ocen Scenariuszy odrzuciła pierwszą wersję w kwietniu 1961 roku, drugą przyjęła, choć niechętnie.
 
 ## Trzy osoby, jedna łódka
-Cała fabuła rozgrywa się między małżeństwem, Krystyną i Andrzejem, a przygodnie zabranym młodym autostopowiczem, na jachcie na mazurskich jeziorach po sezonie. Nie ma tu wojny, historii ani polityki – tylko rywalizacja, próba sił i napięcie erotyczne.
+Dziennikarz sportowy Andrzej (Leon Niemczyk) i jego młodsza żona Krystyna (Jolanta Umecka) jadą na Mazury i zabierają autostopowicza (Zygmunt Malanowicz). Cała fabuła rozgrywa się między nimi na jachcie: bez wojny, historii ani polityki, tylko rywalizacja, próba sił i napięcie erotyczne. Zdjęcia, które robił Jerzy Lipman, kręcono od lipca 1961 roku w Giżycku, Mikołajkach i na jeziorach, m.in. na Śniardwach, z kamery na pływającej platformie. Muzykę napisał Krzysztof Komeda.
 
 ## Zerwanie ze szkołą polską
-To właśnie brak tematu narodowego był radykalny. Polska szkoła filmowa rozliczała wojnę i pokolenie Kolumbów; Polański nakręcił film kameralny, uniwersalny i całkowicie obojętny wobec tej tradycji, za co spotkała go w kraju ostra krytyka.
+Radykalny był właśnie brak tematu narodowego. Polska szkoła filmowa rozliczała wojnę, a Polański nakręcił film kameralny i uniwersalny. Po premierze 9 marca 1962 roku film potępiły władze i oficjalna krytyka, a po dwóch tygodniach zdjęto go z ekranów. Polański wyemigrował do Francji.
 
 ## Świat
-Film dostał nagrodę krytyki na festiwalu w Wenecji i jako pierwszy polski obraz otrzymał nominację do Oscara w kategorii filmu nieanglojęzycznego. Dla Polańskiego był przepustką na Zachód, gdzie zrobił dalszą karierę.`,
+Za granicą film odniósł sukces: dostał nagrodę FIPRESCI w Wenecji i jako pierwszy polski obraz nominację do Oscara dla filmu nieanglojęzycznego. We wrześniu 1963 roku kadr z filmu trafił na okładkę magazynu „Time”. Do 1991 roku w polskich kinach obejrzało go ponad milion widzów.
+
+## Dziś
+„Nóż w wodzie” uchodzi za jeden z najlepszych polskich filmów – w plebiscycie Muzeum Kinematografii w Łodzi zajął czwarte miejsce. Dla Polańskiego był przepustką do międzynarodowej kariery.`,
     trivia: [
+      'Po premierze w 1962 roku film zdjęto z polskich ekranów po dwóch tygodniach.',
       'Był pierwszym polskim filmem nominowanym do Oscara w kategorii filmu nieanglojęzycznego.',
-      'Cała fabuła rozgrywa się między trzema osobami na jachcie – bez wątku wojennego, czym zrywał z polską szkołą filmową.',
+      'Kadr z filmu trafił w 1963 roku na okładkę magazynu „Time”.',
     ],
     resources: [
       {
@@ -26926,19 +26942,23 @@ W 1986 roku muzycy bez Janerki i Pociechy wrócili jako Klaus Mit Foch i nagrali
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tomasz_W%C3%B3jcik_-_Has.jpg?width=800',
     imageCaption: 'Plakat kinowy „Sanatorium pod Klepsydrą”',
     content: `## Film
-„Sanatorium pod Klepsydrą” Wojciecha Hasa z 1973 roku to swobodna adaptacja prozy Brunona Schulza, oparta głównie na tytułowym opowiadaniu ze zbioru z 1937 roku. Bohater przybywa do sanatorium, w którym czas płynie inaczej, by spotkać zmarłego ojca.
+„Sanatorium pod Klepsydrą” Wojciecha Jerzego Hasa z 1973 roku to swobodna adaptacja prozy Brunona Schulza, oparta głównie na tytułowym opowiadaniu ze zbioru z 1937 roku i na opowiadaniu „Wiosna”. Józef, który jedzie pociągiem prowadzonym przez ślepego konduktora, trafia do sanatorium doktora Gotarda, gdzie czas płynie inaczej, a jego zmarły ojciec wciąż żyje.
+
+## Marzenie od okupacji
+Zbiór Schulza uchodził za nieprzetłumaczalny na język filmu. Has poznał go w Krakowie w czasie okupacji i po wojnie postawił sobie za cel jego ekranizację. Nie chciał odtwarzać treści opowiadań, lecz – jak mówił – „odfotografować” ich poetykę: zamknięty świat, klimat, barwę i kształt. Wystawną scenografię zaprojektowali Jerzy Skarżyński i Andrzej Płocki.
 
 ## Forma
-Has zbudował film jako ciąg obrazów sennych, z rozbudowaną scenografią i kostiumem, bez klasycznej ciągłości fabularnej. Powstało dzieło uznawane za jedno z najbardziej oryginalnych w polskim kinie, formalnie bliższe malarstwu niż narracji filmowej.
+Film to ciąg sennych obrazów bez klasycznej ciągłości fabularnej: Józef wędruje przez dom z dzieciństwa, sklep ojca, gabinet manekinów postaci historycznych i ptaszarnię. Krytyk Konrad Eberhardt zwracał uwagę, że Has wplótł w świat Schulza kontekst Zagłady Żydów – choćby w scenie tłumu uciekającego w panice z całym dobytkiem.
 
 ## Kłopot polityczny
-Film afirmował kulturę żydowską, naznaczoną doświadczeniem Zagłady, a powstawał w cieniu antysemickiej kampanii 1968 roku. Z tego powodu władze odkładały jego premierę, a wyjazd na festiwal odbył się w atmosferze konfliktu z decydentami.
+Film afirmował kulturę żydowską, a powstawał w cieniu antysemickiej kampanii 1968 roku. Władze odkładały jego premierę, a w Polsce spotkał się z ostrą krytyką. Gdy Has, wbrew decydentom, wysłał go na festiwal w Cannes, film zdobył Nagrodę Jury – a reżyser dostał zakaz realizacji filmów na dziesięć lat.
 
 ## Uznanie
-Mimo przeszkód film nagrodzono w Cannes i wszedł do kanonu kina europejskiego. Dziś bywa najczęściej przywoływanym przykładem tego, jak wybitne dzieło mogło powstać w PRL wbrew, a nie dzięki systemowi.`,
+Szczególnie dobrze przyjęto film we Francji: „Le Monde” i „L'Humanité” podkreślały kunszt dekoracji, kostiumów i zdjęć. Dziś „Sanatorium” należy do kanonu kina europejskiego i jest przykładem dzieła, które powstało w PRL wbrew, a nie dzięki systemowi.`,
     trivia: [
-      'Premierę odkładano, bo film afirmował kulturę żydowską kilka lat po kampanii antysemickiej 1968 roku.',
-      'Zamiast klasycznej fabuły Has zbudował film jako ciąg obrazów sennych.',
+      'Za wysłanie filmu do Cannes wbrew władzom Has dostał zakaz realizacji filmów na dziesięć lat.',
+      'Has poznał prozę Schulza w Krakowie w czasie okupacji i od tamtej pory marzył o jej ekranizacji.',
+      'W Cannes w 1973 roku film zdobył Nagrodę Jury.',
     ],
     resources: [
       {
@@ -26996,19 +27016,23 @@ Mimo przeszkód film nagrodzono w Cannes i wszedł do kanonu kina europejskiego.
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Giewont.jpg?width=800',
     imageCaption: 'Giewont górujący nad Zakopanem.',
     content: `## Zimowa stolica
-Zakopane było w PRL najpopularniejszym górskim kierunkiem turystycznym i głównym ośrodkiem sportów zimowych. Potoczne określenie zimowej stolicy Polski przylgnęło do miasta na trwałe.
+Zakopane było w PRL najpopularniejszym kierunkiem górskim i głównym ośrodkiem sportów zimowych. Status uzdrowiska miało od 1886 roku, a określenie „zimowa stolica Polski” przylgnęło do niego na trwałe. W listopadzie 1955 roku rząd PRL podjął specjalną uchwałę o rozwoju miasta.
 
-## Wczasy i skierowania
-Podstawą ruchu turystycznego były wczasy pracownicze i wycieczki zakładowe. Ośrodki wypoczynkowe należały do przedsiębiorstw, a o wyjeździe decydowała komisja socjalna. Prywatne kwatery u górali stanowiły obieg równoległy – i jedno z nielicznych legalnych źródeł prywatnego dochodu.
+## Wczasy i kwatery
+Podstawą ruchu turystycznego były wczasy pracownicze i wycieczki zakładowe. Ośrodki wypoczynkowe należały do przedsiębiorstw i związków, a o wyjeździe decydowało skierowanie. Równolegle działał obieg prywatny: kwatery u górali były jednym z nielicznych legalnych źródeł prywatnego dochodu.
 
 ## Sport
-Skocznia na Wielkiej Krokwi i zawody narciarskie zapewniały miastu stałą obecność w telewizji. Sukcesy skoczków i biegaczy narciarskich należały do najchętniej wykorzystywanych propagandowo wydarzeń sportowych.
+Wielka Krokiew, otwarta w 1925 roku, gościła konkursy mistrzostw świata w narciarstwie klasycznym. W dniach 18–27 lutego 1962 roku Zakopane po raz trzeci zorganizowało te mistrzostwa – po raz pierwszy w historii rozegrano na nich konkurs na normalnej skoczni. W 1969 roku odbyły się tu mistrzostwa świata w biathlonie, a w 1980 roku pierwszy konkurs Pucharu Świata w skokach. W 1989 roku patronem skoczni został Stanisław Marusarz, „król Wielkiej Krokwi”.
 
 ## Krupówki
-Główna ulica była miejscem, gdzie stykały się dwa światy: oficjalna turystyka i handel prywatny – oscypki, swetry, pamiątki. Zakopane pozostawało dzięki temu jednym z niewielu miejsc w PRL, gdzie drobna przedsiębiorczość była widoczna na co dzień.`,
+Główna ulica łączyła dwa światy: oficjalną turystykę i prywatny handel – oscypki, swetry, pamiątki. Zakopane było jednym z niewielu miejsc w PRL, gdzie drobna przedsiębiorczość była widoczna na co dzień.
+
+## Kultura
+Miasto zachowało tradycję ośrodka kultury, sięgającą czasów Witkiewicza, Żeromskiego i Karłowicza. W latach 1963–1977 przy klubie KMPiK działała tu galeria „Pegaz”. W latach 1975–1998 Zakopane należało do województwa nowosądeckiego.`,
     trivia: [
+      'W 1962 roku Zakopane po raz trzeci zorganizowało mistrzostwa świata w narciarstwie klasycznym.',
       'Prywatne kwatery u górali były jednym z nielicznych legalnych źródeł prywatnego dochodu.',
-      'Zawody na Wielkiej Krokwi zapewniały miastu stałą obecność w telewizji.',
+      'Od 1989 roku patronem Wielkiej Krokwi jest Stanisław Marusarz.',
     ],
     resources: [
       {
@@ -29243,20 +29267,24 @@ Gołas należał do aktorów, których obecność w obsadzie była dla widza rek
     summary: 'Amatorska fotografia była popularnym hobby PRL; zdjęcia robiono tanimi aparatami (Druh, Ami, Smiena, Zenit) na kliszy, wywoływanej w domu lub zakładzie „foto”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Druh%20Synchro.jpg?width=800',
     imageCaption: 'Popularny aparat Druh Synchro.',
-    content: `## Sprzęt
-Fotografia amatorska opierała się w PRL na aparatach z krajów bloku wschodniego: radzieckich Zenitach i Zorkach, wschodnioniemieckich Practicach oraz polskich konstrukcjach, w tym prostych aparatach Druh z bydgoskiego Warszawskiego Zakładu Fotooptycznego.
+    content: `## Polskie aparaty
+Pierwszym polskim aparatem po wojnie był Start – lustrzanka dwuobiektywowa wzorowana na Rolleicordzie, produkowana w latach 1951–1980. W Warszawskich Zakładach Fotooptycznych powstawały też proste aparaty dla amatorów: Druh i jego następca Ami. W 1968 roku zakłady włączono do Polskich Zakładów Optycznych.
 
-## Film i ciemnia
-Zdjęcia robiono na kliszy, a wywoływanie i odbitki wykonywano często samodzielnie. Domowa ciemnia – zwykle zaadaptowana łazienka – z powiększalnikiem i kuwetami była zjawiskiem powszechnym, bo usługi fotograficzne były drogie i wolne.
+## Druh
+Druh, produkowany od 1956 roku, był bakelitowym aparatem skrzynkowym wzorowanym na niemieckim Pouva Start, w stylu art déco. Robił zdjęcia na błonie zwojowej typu 120 – w formacie 6×6 albo 6×4,5 cm – z obiektywem o stałej ostrości i jednym czasem migawki. Wersja Druh Synchro miała gniazdo lampy błyskowej. Pod koniec lat 60. wyparły go aparaty małoobrazkowe, a dziś przeżywa drugą młodość wśród miłośników lomografii.
+
+## Ami
+Następca Druha, Ami, miał lżejszą obudowę z polistyrenu w kolorowych zestawieniach. Wersja Ami 2 miała już kilka czasów naświetlania i blokadę podwójnej ekspozycji, a do aparatów produkowano lampę błyskową Amilux na jednorazowe żarówki.
+
+## Sprzęt z bloku
+Ambitniejsi fotoamatorzy sięgali po aparaty z krajów bloku wschodniego: radzieckie Zenity i Smieny oraz wschodnioniemieckie Praktiki. Zdjęcia robiono na kliszy, a wywoływanie i odbitki wykonywano często samodzielnie – w domowej ciemni, zwykle w łazience, z powiększalnikiem i kuwetami.
 
 ## Oszczędność kadru
-Film miał trzydzieści sześć klatek i kosztował, więc fotografowano rozważnie. Zdjęcie robiono raz, pozując, przy okazji uroczystości. Ta ekonomia widoczna jest w rodzinnych albumach z epoki: mało kadrów, dużo świąt.
-
-## Co po tym zostało
-Amatorska fotografia okazała się jednym z najcenniejszych źródeł do historii codzienności PRL. Prasa i kroniki pokazywały rzeczywistość zaplanowaną; zdjęcia rodzinne pokazują tę, którą ludzie faktycznie widzieli.`,
+Film kosztował, a zwój do Druha mieścił tylko kilkanaście klatek, więc fotografowano rozważnie, zwykle przy okazji uroczystości. Widać to w rodzinnych albumach: mało kadrów, dużo świąt. Amatorska fotografia okazała się jednym z najcenniejszych źródeł do historii codzienności PRL – pokazuje świat, jaki ludzie faktycznie widzieli, a nie ten z kronik.`,
     trivia: [
-      'Film miał 36 klatek i kosztował, więc zdjęcia robiono rozważnie i zwykle przy okazji uroczystości.',
-      'Domowa ciemnia w zaadaptowanej łazience była zjawiskiem powszechnym, bo usługi fotograficzne były drogie.',
+      'Druh był produkowany w Warszawie od 1956 roku i wzorowany na niemieckim aparacie Pouva Start.',
+      'Start z 1951 roku był pierwszym polskim aparatem fotograficznym produkowanym po wojnie.',
+      'Druh przeżywa drugą młodość wśród miłośników lomografii.',
     ],
     resources: [
       {
@@ -29649,25 +29677,29 @@ Marek i Vacek byli jednym z najbardziej rozpoznawalnych polskich zespołów inst
     subtitle: 'Marusia i ikona urody',
     category: 'osoby',
     tags: ['film', 'aktorstwo', 'kobiety', 'kultura'],
-    yearStart: 1959,
+    yearStart: 1960,
     yearEnd: 1989,
     summary: 'Aktorka, jedna z największych gwiazd i „sex symbol” polskiego kina lat 60.; kultowa jako sanitariuszka Marusia w „Czterech pancernych i psie”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pola%20Raksa%20Ma%C5%82gorzata%20Niemirska%20Czterej%20pancerni%20i%20pies%201969.jpg?width=800',
     imageCaption: 'Pola Raksa (z lewej) w „Czterech pancernych i psie”.',
-    content: `## Aktorka
-Pola Raksa, właściwie Apolonia Raksa (ur. 1941 w Lidzie), należy do najpopularniejszych aktorek w historii polskiego kina. W latach 60. i 70. uchodziła za symbol urody polskiego ekranu.
+    content: `## Odkrycie w barze mlecznym
+Pola Raksa, właściwie Apolonia Raksa (ur. 14 kwietnia 1941 roku w Lidzie), po wojnie zamieszkała z rodziną we Wrocławiu, a potem w Jeleniej Górze. Jesienią 1959 roku, gdy studiowała polonistykę we Wrocławiu, fotoreporter zauważył ją w barze mlecznym i zaprosił do sesji dla pisma „Dookoła Świata”. Zdjęcia zwróciły uwagę reżyserki Marii Kaniewskiej, która obsadziła ją w „Szatanie z siódmej klasy” (1960).
+
+## Aktorka
+Porzuciła polonistykę i w 1964 roku ukończyła łódzką szkołę filmową. Grała w Teatrze Powszechnym w Łodzi, a w latach 1968–1986 w Teatrze Współczesnym w Warszawie. W kinie wystąpiła m.in. w „Panience z okienka”, „Beacie”, „Popiołach” Andrzeja Wajdy, „Przygodzie z piosenką” i „Arii dla atlety”.
 
 ## Marusia
-Rozpoznawalność w skali masowej przyniosła jej rola Marusi w serialu „Czterej pancerni i pies” (1966–1970). Serial oglądały miliony widzów, a jego bohaterowie stali się częścią wyobraźni całego pokolenia – co było zresztą jego zamierzoną funkcją, bo opowiadał historię wojny w wersji zgodnej z oficjalną wykładnią.
+Masową rozpoznawalność przyniosła jej rola sanitariuszki Marusi w serialu „Czterej pancerni i pies” (1966–1970). Serial oglądały miliony, a jego bohaterowie stali się częścią wyobraźni całego pokolenia. Opowiadał przy tym historię wojny w wersji zgodnej z oficjalną wykładnią.
 
-## Poza serialem
-Grała też w kinie ambitniejszym, m.in. u Janusza Morgensterna i Wojciecha Hasa. Z czasem ograniczyła występy, a w ostatnich dekadach niemal całkowicie wycofała się z życia publicznego i nie udziela wywiadów.
+## Ikona
+W latach 60. i 70. uchodziła za symbol seksu polskiego kina i jedną z najpopularniejszych aktorek w historii. W PRL kino było jednak instytucją państwową: honoraria ustalano taryfowo, a popularność nie przekładała się na majątek.
 
-## Gwiazda bez rynku
-Aktorka tej popularności w kraju zachodnim byłaby gwiazdą przemysłu filmowego. W PRL kino było instytucją państwową: honoraria ustalano taryfowo, a rozpoznawalność nie przekładała się na majątek. Sława istniała, rynek – nie.`,
+## Wycofanie
+Ostatnią rolę filmową zagrała w 1993 roku w „Uprowadzeniu Agaty”, a ostatni raz wystąpiła na scenie w 1997 roku. Konsekwentnie nie udziela wywiadów. Zajmuje się plastyką i projektowaniem strojów, m.in. kostiumów do recitalu Ewy Błaszczyk.`,
     trivia: [
-      'Rola Marusi w „Czterech pancernych” zapewniła jej rozpoznawalność, jakiej nie dałby żaden film kinowy.',
-      'Od dziesięcioleci nie udziela wywiadów i unika życia publicznego.',
+      'Odkrył ją fotoreporter, który zauważył ją w barze mlecznym we Wrocławiu.',
+      'Debiutowała w 1960 roku w „Szatanie z siódmej klasy”.',
+      'Od lat 90. konsekwentnie nie udziela wywiadów.',
     ],
     resources: [
       {
@@ -34277,6 +34309,9 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1963, event: 'Debiut telewizyjny duetu Marek i Wacek', category: 'kultura', entryId: 'marek-i-vacek' },
   { year: 1963, event: 'Premiera „Jak być kochaną” Wojciecha Hasa', category: 'kultura', entryId: 'jak-byc-kochana' },
   { year: 1966, event: 'Pola Raksa jako Marusia w „Czterech pancernych i psie”', category: 'kultura', entryId: 'pola-raksa' },
+  { year: 1962, event: 'Mistrzostwa świata w narciarstwie klasycznym w Zakopanem', category: 'społeczeństwo', entryId: 'zakopane' },
+  { year: 1956, event: 'Rusza produkcja aparatu fotograficznego Druh', category: 'społeczeństwo', entryId: 'aparaty-fotograficzne' },
+  { year: 1980, event: 'W Poznaniu powstaje zespół Turbo', category: 'kultura', entryId: 'turbo-zespol' },
   { year: 1958, event: 'Pierwszy festiwal Jazz Jamboree („Jazz 58”) w warszawskiej Stodole', category: 'kultura', entryId: 'jazz-jamboree' },
   { year: 1965, event: 'Premiera „Salta” Tadeusza Konwickiego', category: 'kultura', entryId: 'salto' },
   { year: 1970, event: 'Tomasz Stańko nagrywa „Music for K” – pamięci Komedy', category: 'kultura', entryId: 'tomasz-stanko' },
