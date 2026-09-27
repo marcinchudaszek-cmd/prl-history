@@ -830,6 +830,30 @@ Wybór Karola Wojtyły w 1978 roku i jego pielgrzymka rok później zmieniły uk
     ],
     resources: [
       {
+        id: 'kosc-ipn-wroclaw',
+        title: 'Kościół w PRL. Historia prawdziwa: terror i propaganda 1945–1956 (IPN Wrocław)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=0-qdYw3aacI',
+        source: 'YouTube',
+        description: 'Materiał IPN o represjach i propagandzie wymierzonej w Kościół w okresie stalinowskim.',
+      },
+      {
+        id: 'kosc-milenium',
+        title: 'Milenium chrztu Polski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Milenium_chrztu_Polski',
+        source: 'Wikipedia',
+        description: 'Artykuł o obchodach tysiąclecia chrztu Polski w 1966 roku i rywalizacji Kościoła z państwem o ich kształt.',
+      },
+      {
+        id: 'kosc-oredzie',
+        title: 'Orędzie biskupów polskich do biskupów niemieckich – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Or%C4%99dzie_biskup%C3%B3w_polskich_do_biskup%C3%B3w_niemieckich',
+        source: 'Wikipedia',
+        description: 'Artykuł o liście biskupów z 1965 roku i kampanii propagandowej, jaką władze rozpętały wokół niego.',
+      },
+      {
         id: 'kosc-1',
         title: 'Jan Paweł II – pielgrzymka 1979, homilia Warszawa',
         type: 'nagranie',
@@ -857,24 +881,28 @@ Wybór Karola Wojtyły w 1978 roku i jego pielgrzymka rok później zmieniły uk
     tags: ['urbanistyka', 'socrealizm', 'Kraków', 'stal', 'Huta im. Lenina'],
     yearStart: 1949,
     yearEnd: 1989,
-    summary: 'Nowa Huta – wzorcowe miasto socjalistyczne wybudowane od podstaw przy Krakowie, siedziba Huty im. Lenina. Symbol industrializacji PRL, który z czasem stał się centrum oporu robotniczego.',
+    summary: 'Nowa Huta – miasto socjalistyczne budowane od 1949 roku przy Krakowie dla pracowników Huty im. Lenina. Symbol industrializacji PRL, które stało się miejscem obrony krzyża w 1960 roku i oporu wobec władzy w latach 80.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Nowa%20Huta%20-%20Plac%20Centralny%20z%20lotu%20ptaka.jpg?width=800',
     imageCaption: 'Plac Centralny w Nowej Hucie – wzorcowe miasto socrealizmu.',
     trivia: [
-      'Miasto miało być robotniczą przeciwwagą dla konserwatywnego, inteligenckiego Krakowa.',
-      'Zbudowane bez kościoła, stało się miejscem najgłośniejszej walki o krzyż i jednym z najbardziej zbuntowanych ośrodków lat 80.',
+      'Pierwszy nowohucki blok, dziś nr 14 na osiedlu Wandy, zaczęto stawiać 23 czerwca 1949 roku, zanim istniał plan generalny miasta.',
+      'Po starciach w obronie krzyża 27 kwietnia 1960 roku aresztowano około 500 osób, a 87 skazano na więzienie.',
+      'Kamień węgielny pod Arkę Pana, wmurowany przez kardynała Wojtyłę w 1969 roku, pochodził z bazyliki św. Piotra w Watykanie.',
     ],
     content: `## Miasto od zera
-Nową Hutę zaczęto budować w 1949 roku pod Krakowem, wraz z kombinatem metalurgicznym. Miała być wzorcowym miastem socjalistycznym: zbudowanym od podstaw, dla robotników, według jednolitego planu urbanistycznego.
+Lokalizację kombinatu metalurgicznego w okolicach Mogiły i Pleszowa zatwierdzono 1 lutego 1949 roku. Już 23 czerwca 1949 roku zaczęto wznosić pierwsze bloki na osiedlu Wandy – zanim powstał plan całego miasta. Generalnym projektantem był Tadeusz Ptaszycki, który zaplanował miasto na 100 tysięcy mieszkańców. W 1951 roku Nową Hutę włączono do Krakowa jako dzielnicę, a 22 lipca 1954 roku uruchomiono kombinat nazwany imieniem Lenina.
 
-## Po co obok Krakowa
-Lokalizację tłumaczono względami gospodarczymi, ale liczył się też argument polityczny: obok konserwatywnego, inteligenckiego Krakowa miała powstać przeciwwaga – miasto klasy robotniczej.
+## Dlaczego pod Krakowem
+Decyzja wynikała z planu sześcioletniego i industrializacji, miała jednak także podłoże polityczne. Za Krakowem przemawiały dostęp do węgla ze Śląska i rudy z Krzywego Rogu, woda z Wisły i zaplecze dużego miasta. Chłopi wywłaszczeni pod budowę dostawali niskie odszkodowania. Dla wielu przybyszów ze wsi praca w Hucie była jednak awansem społecznym.
 
 ## Architektura
-Centrum zaprojektowano w duchu socrealizmu: place, osie widokowe, monumentalne bloki z arkadami. Powstało założenie urbanistyczne o dużej wartości, dziś objęte ochroną konserwatorską – niezależnie od ideologii, która je powołała.
+Centrum zaprojektowano w duchu socrealizmu: symetryczny Plac Centralny, promieniste aleje, bloki z podcieniami. Pełnego programu nie ukończono – około 1955 roku zrezygnowano m.in. z ratusza i Domu Kultury. Od 2023 roku zespół urbanistyczny Nowej Huty jest pomnikiem historii.
 
-## Kościół i bunt
-Miasto budowane bez świątyni stało się miejscem najgłośniejszej walki o krzyż – w 1960 roku doszło tam do wielogodzinnych starć. Ostatecznie zbudowano Arkę Pana. W latach 80. Nowa Huta była jednym z najbardziej zbuntowanych ośrodków w kraju, co całkowicie odwróciło pierwotny zamysł jej twórców.`,
+## Krzyż i Arka Pana
+W mieście nie przewidziano kościoła. Po 1956 roku zgodzono się na budowę i postawiono krzyż, ale w 1959 roku pozwolenie cofnięto. Próba usunięcia krzyża 27 kwietnia 1960 roku wywołała całodzienne starcia z milicją. Aresztowano około 500 osób, 87 dostało wyroki więzienia. Władze ostatecznie zgodziły się na świątynię w innym miejscu – Arkę Pana, budowaną od 1967 i konsekrowaną w 1977 roku.
+
+## Bunt w mieście robotników
+Miasto zbudowane dla klasy robotniczej stało się miejscem oporu wobec władzy, która je stworzyła. 13 października 1982 roku, podczas zamieszek w stanie wojennym, kapitan SB zastrzelił przed Arką Pana robotnika Bogdana Włosika.`,
     resources: [
       {
         id: 'nh-yt',
@@ -1195,19 +1223,20 @@ W 1989 roku był głównym negocjatorem strony solidarnościowej przy Okrągłym
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Boles%C5%82aw%20Bierut.jpg?width=800',
     imageCaption: 'Bolesław Bierut – prezydent i I sekretarz KC PZPR w okresie stalinizmu.',
     content: `## Droga do władzy
-Bolesław Bierut (1892–1956) wojnę spędził w ZSRR, a do Polski wrócił jako człowiek Moskwy. Od 1944 roku przewodniczył Krajowej Radzie Narodowej, a od 1947, po sfałszowanych wyborach, był prezydentem Rzeczypospolitej.
+Bolesław Bierut urodził się w 1892 roku pod Lublinem. Był zecerem i działaczem spółdzielczym, od 1921 roku komunistą. W latach 30. działał dla Kominternu, a w 1933 roku skazano go na siedem lat więzienia. Wojnę spędził na terenach okupowanych przez ZSRR, m.in. w Mińsku. W lipcu 1943 roku przerzucono go do Polski. Od stycznia 1944 roku przewodniczył Krajowej Radzie Narodowej. Na polecenie Stalina do 1948 roku występował publicznie jako bezpartyjny, choć zasiadał w tajnym Biurze Politycznym PPR.
 
-## Wszystkie funkcje naraz
-Po zniesieniu urzędu prezydenta w 1952 roku został premierem, a od 1948 kierował partią – najpierw jako sekretarz generalny, potem I sekretarz KC PZPR. Skupiał więc jednocześnie władzę partyjną i państwową, czego nie powtórzył żaden jego następca.
+## Prezydent, sekretarz, premier
+Sejm Ustawodawczy, wyłoniony w sfałszowanych wyborach, 5 lutego 1947 roku wybrał go na prezydenta. Latem 1948 roku doprowadził do odsunięcia Gomułki, a 22 grudnia 1948 roku został sekretarzem generalnym nowej PZPR. Konstytucja z 22 lipca 1952 roku, przygotowana przez komisję pod jego przewodnictwem, zlikwidowała urząd prezydenta. Od 20 listopada 1952 do 18 marca 1954 roku był premierem, a od marca 1954 roku I sekretarzem KC.
 
 ## Stalinizm
-Lata jego rządów to okres najcięższych represji: procesów politycznych, wyroków śmierci, walki z Kościołem i przymusowej kolektywizacji. Decyzje zapadały w gronie trzech osób: Bieruta, Hilarego Minca i Jakuba Bermana.
+Od 1949 roku kierował komisją Biura Politycznego do spraw bezpieczeństwa, nadzorującą aparat represji. Zatwierdzał wyroki, a według niepełnych danych w czasie jego rządów stracono 2500 osób. W połowie 1952 roku w więzieniach przebywało 49,5 tysiąca więźniów politycznych. Wydał polecenie uwięzienia prymasa Stefana Wyszyńskiego. Najważniejsze decyzje zapadały w „wielkiej trójce”: Bierut, Hilary Minc i Jakub Berman.
 
 ## Śmierć w Moskwie
-Zmarł 12 marca 1956 roku w Moskwie, dokąd pojechał na XX Zjazd KPZR, gdzie Chruszczow wygłosił referat o zbrodniach Stalina. Zbieżność okoliczności natychmiast obrosła plotkami. Jego śmierć otworzyła drogę do odwilży i do Października 1956.`,
+Zmarł 12 marca 1956 roku w Moskwie, dokąd pojechał na XX Zjazd KPZR. Na zjeździe Chruszczow wygłosił tajny referat o zbrodniach Stalina. Zbieżność okoliczności natychmiast obrosła plotkami, a przyczyny śmierci do dziś budzą wątpliwości. Pochowano go 16 marca na Powązkach Wojskowych. Jego śmierć przyspieszyła odwilż i drogę do Października 1956.`,
     trivia: [
-      'Skupiał jednocześnie funkcję prezydenta, premiera i przywódcy partii – czego nie powtórzył żaden następca.',
-      'Zmarł w Moskwie, dokąd pojechał na XX Zjazd KPZR, na którym potępiono zbrodnie Stalina.',
+      'W 1936 roku, gdy siedział w więzieniu, komisja partyjna usunęła go z KPP za „zachowanie niegodne komunisty” podczas śledztwa.',
+      'Na polecenie Stalina do 1948 roku występował publicznie jako bezpartyjny, choć był członkiem tajnego Biura Politycznego PPR.',
+      '30 września 1953 roku Stolica Apostolska obłożyła go ekskomuniką za uwięzienie prymasa Wyszyńskiego.',
     ],
     resources: [
       {
@@ -1397,19 +1426,20 @@ Z Polski wyjechało kilkanaście tysięcy osób, zmuszonych do zrzeczenia się o
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Poland_Warsaw_Ursus_Monument_of_June_1976.jpg?width=800',
     imageCaption: 'Pomnik Czerwca 1976 w warszawskim Ursusie (fot. współczesna)',
     content: `## Podwyżka
-24 czerwca 1976 roku premier Piotr Jaroszewicz ogłosił w Sejmie drastyczną podwyżkę cen żywności – mięso miało zdrożeć o kilkadziesiąt procent. Nazajutrz stanęły zakłady w całym kraju.
+24 czerwca 1976 roku premier Piotr Jaroszewicz przedstawił w Sejmie projekt drastycznych podwyżek cen żywności. Mięso i wędliny miały zdrożeć średnio o 69 procent, masło i sery o 50, a cukier o 200 procent. Słowo „podwyżka” w przemówieniu nie padło – KC PZPR zalecał go unikać. MSW przygotowywało się na protesty od wiosny w ramach operacji „Lato 76”, ale nie przewidziało zamieszek w Radomiu.
 
 ## Radom, Ursus, Płock
-Najostrzejszy przebieg protesty miały w Radomiu, gdzie podpalono gmach komitetu wojewódzkiego partii, oraz w Ursusie, gdzie robotnicy zablokowali tory linii kolejowej. Strajkowano też w Płocku i kilkudziesięciu innych miejscach.
+25 czerwca strajkowało 97 zakładów. W Radomiu rano stanął „Łucznik”, a pochód robotników ruszył pod Komitet Wojewódzki PZPR. Po godzinie 14 tłum wdarł się do gmachu i go podpalił, rozgrabiono też ponad 100 sklepów. W walkach ulicznych brało udział około 20 tysięcy osób. W Ursusie zatrzymano pociąg i rozkręcono szyny na linii międzynarodowej. Według MSW zastrajkowało łącznie 112 zakładów w 12 województwach, a w strajkach wzięło udział ponad 80 tysięcy ludzi.
 
 ## Odwołanie i zemsta
-Podwyżkę wycofano już następnego dnia – władza po raz pierwszy cofnęła się przed naciskiem tak szybko. Następnie jednak przeprowadzono represje: zwolnienia z pracy, pobicia na komisariatach, procesy. Przez tak zwane ścieżki zdrowia, czyli szpalery bijących milicjantów, przepędzono setki osób.
+O godzinie 20 tego samego dnia rząd wycofał projekt podwyżek. Potem przyszły represje. W Radomiu zatrzymano 634 osoby, a następnego dnia zwolniono z pracy 939. Zatrzymanych bito, przepędzając ich przez tak zwane ścieżki zdrowia – szpalery milicjantów z pałkami. W zamieszkach zginęły dwie osoby, a kolejną śmiertelnie pobiła milicja. Propaganda nazywała protestujących „radomskimi warchołami”, a sądy skazywały przywódców na kary do 10 lat więzienia.
 
 ## Skutek
-To właśnie pomoc represjonowanym doprowadziła we wrześniu 1976 roku do powstania Komitetu Obrony Robotników. Czerwiec był więc przegraną władzy podwójnie: musiała cofnąć decyzję i sama wywołała powstanie zorganizowanej opozycji.`,
+Pomoc dla represjonowanych po raz pierwszy połączyła środowiska robotnicze i inteligenckie. 23 września 1976 roku powstał Komitet Obrony Robotników. Czerwiec był więc dla władzy przegraną podwójną: musiała cofnąć decyzję i sama doprowadziła do powstania zorganizowanej opozycji. Zamiast podwyżek wprowadzono w sierpniu kartki na cukier.`,
     trivia: [
-      'Podwyżkę cen odwołano już następnego dnia po jej ogłoszeniu.',
-      'Represje po Czerwcu doprowadziły do powstania KOR – władza sama wywołała zorganizowaną opozycję.',
+      'Według MSW w czerwcowych strajkach wzięło udział ponad 80 tysięcy osób, w tym 20,8 tysiąca w Radomiu i 14,2 tysiąca w Ursusie.',
+      'Plany MSW nie przewidywały zamieszek w Radomiu, więc 25 czerwca skierowano tam jedynie 75 funkcjonariuszy ZOMO.',
+      'KC PZPR zdecydował przed ogłoszeniem nowych cen, by w mediach nie używać określenia „podwyżka cen”.',
     ],
     resources: [
       {
@@ -2668,21 +2698,25 @@ Pod wpływem strajków gen. Czesław Kiszczak podjął pierwsze rozmowy z Wałę
     tags: ['nomenklatura', 'przywileje', 'PZPR', 'elita', 'Pewex', 'dostęp', 'sklepy za żółtymi firankami'],
     yearStart: 1944,
     yearEnd: 1989,
-    summary: 'Nomenklatura – system obsady stanowisk kierowniczych w PRL, zarezerwowanych wyłącznie dla osób zatwierdzonych przez PZPR. Tworzył on uprzywilejowaną klasę społeczną korzystającą z dóbr niedostępnych dla ogółu obywateli.',
+    summary: 'Nomenklatura – system obsady stanowisk kierowniczych w PRL, w którym o nominacji decydowały instancje PZPR, od komitetu zakładowego po Biuro Polityczne. Tak nazywano też uprzywilejowaną warstwę ludzi zajmujących te stanowiska.',
     content: `## Zasada
-Nomenklatura to system, w którym obsada stanowisk kierowniczych wymagała zgody odpowiedniego szczebla partii. Istniały listy stanowisk przypisanych do komitetów: od centralnego po zakładowy. Bez akceptacji nie można było zostać dyrektorem, redaktorem naczelnym ani kierownikiem szkoły.
+Nazwa pochodzi od łacińskiego słowa „nomenclatura”, czyli mianowanie. Tak nazywano system obsadzania stanowisk kierowniczych w ZSRR i krajach bloku wschodniego. Decydowała rekomendacja partii komunistycznej, a organy przedstawicielskie pełniły rolę fasadową. W partyjnym żargonie mówiono, że dane stanowisko jest „w nomenklaturze” konkretnej instancji. To ona, a w praktyce najczęściej jej I sekretarz, decydowała o obsadzie.
 
-## Zasięg
-Obejmowała nie tylko administrację, ale też przedsiębiorstwa, spółdzielnie, wydawnictwa, kluby sportowe i instytucje kultury. Kilkaset tysięcy stanowisk w kraju podlegało tej procedurze.
+## Piramida instancji
+System obejmował wszystkie szczeble. Stanowisko majstra czy kierownika wydziału w fabryce mogło należeć do nomenklatury podstawowej organizacji partyjnej albo komitetu zakładowego PZPR. Wyższe stanowiska przypisywano komitetom miejskim, powiatowym i wojewódzkim. O najważniejszych decydowały wydziały Komitetu Centralnego, jego Sekretariat albo Biuro Polityczne. Decyzje formalnie przygotowywał Wydział Kadr KC. Wykaz takich stanowisk obejmował według Wikipedii około 300 tysięcy pozycji.
 
-## Skutki
-Kryterium lojalności politycznej stawało się ważniejsze niż kompetencja, a odpowiedzialność przesuwała się z osoby na tego, kto ją zatwierdził. Osoba odwołana ze stanowiska zwykle nie wypadała z systemu, tylko trafiała na inne – co nazywano karuzelą stanowisk.
+## Kto o czym decydował
+Obsadę stanowisk ministerialnych ustalało Biuro Polityczne. W nomenklaturze Sekretariatu KC były m.in. kierownicze stanowiska w prasie centralnej, radiu i telewizji oraz posady dyrektorów departamentów w ministerstwach. Lojalność polityczna stawała się więc warunkiem awansu, a odpowiedzialność za wybór przesuwała się na instancję, która kandydata zatwierdziła.
+
+## Warstwa uprzywilejowana
+Potocznie „nomenklaturą” nazywano też samych ludzi zajmujących te stanowiska. Mieli oni dostęp do przywilejów niedostępnych dla innych. Były one bardzo zróżnicowane: od nieco lepszych wczasów po specjalne kliniki i sklepy.
 
 ## Po 1989 roku
-Zasoby, kontakty i doświadczenie zarządcze zgromadzone w tym środowisku okazały się przydatne w gospodarce rynkowej. Zjawisko uwłaszczenia nomenklatury stało się jednym z głównych sporów pierwszej dekady po zmianie ustroju.`,
+W latach 90. popularne stało się określenie „uwłaszczenie nomenklatury”. Opisywało ono przejmowanie majątku publicznego przez część dawnych działaczy partyjnych i państwowych w czasie prywatyzacji. Jego początki badacze wiążą zwykle z drugą połową lat 80. Skala zjawiska pozostaje przedmiotem sporów, a sam proces był jednym z głównych konfliktów pierwszej dekady przemian.`,
     trivia: [
-      'Bez zgody odpowiedniego komitetu partii nie można było zostać nawet kierownikiem szkoły.',
-      'Odwołany dyrektor zwykle nie wypadał z systemu, tylko trafiał na inne stanowisko – nazywano to karuzelą.',
+      'Słowo „nomenklatura” pochodzi od łacińskiego „nomenclatura”, czyli mianowanie.',
+      'Nawet stanowisko majstra w fabryce mogło należeć do nomenklatury zakładowego komitetu PZPR, który decydował o obsadzie.',
+      'O obsadzie stanowisk ministerialnych decydowało Biuro Polityczne KC, a o kierownictwie prasy centralnej, radia i telewizji – Sekretariat KC.',
     ],
     resources: [
       {
@@ -5326,20 +5360,21 @@ Reformy Gorbaczowa uwolniły odśrodkowe siły, których nie mógł kontrolować
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Elections%201989%20in%20Poznan%20Poland.JPG?width=800',
     imageCaption: 'Ulotka wyborcza Solidarności z Poznania, 1989',
     trivia: [
-      'Komitet Obywatelski zdobył wszystkie dostępne mandaty poselskie i 99 ze 100 miejsc w Senacie.',
-      'Lista krajowa czołowych działaczy partyjnych przepadła, bo wyborcy masowo skreślali nazwiska.',
+      'Z 35 kandydatów listy krajowej mandaty zdobyło tylko dwóch – Mikołaj Kozakiewicz i Adam Zieliński.',
+      'Frekwencja w pierwszej turze wyniosła 62 procent, a w drugiej zaledwie 25 procent.',
+      'Cenzura wycięła z materiału Komitetu Obywatelskiego scenę, w której Jacek Fedorowicz pokazywał, jak skreślić całą listę krajową.',
     ],
     content: `## Zasady
-Wybory przeprowadzono 4 i 18 czerwca 1989 roku, według reguł ustalonych przy Okrągłym Stole. O 35 procent mandatów w Sejmie można było ubiegać się swobodnie, pozostałe 65 procent zarezerwowano dla PZPR i stronnictw sojuszniczych. Senat, instytucja nowa, wybierany był w całości wolnymi wyborami.
+Wybory przeprowadzono 4 i 18 czerwca 1989 roku według reguł ustalonych przy Okrągłym Stole. 7 kwietnia Sejm znowelizował konstytucję i uchwalił nowe ordynacje. Koalicji PZPR i jej satelitów zagwarantowano 299 miejsc w Sejmie, czyli 65 procent. O pozostałe 161 mandatów mogli ubiegać się wyłącznie kandydaci bezpartyjni. Nowo utworzony Senat, liczący 100 miejsc, wybierano w całości w wolnych wyborach. Na liście krajowej 35 czołowych działaczy obozu władzy startowało bez kontrkandydatów.
 
 ## Wynik
-Kandydaci Komitetu Obywatelskiego zdobyli wszystkie 161 dostępnych mandatów poselskich i 99 ze 100 miejsc w Senacie. Lista krajowa, na której startowali czołowi działacze partyjni bez konkurencji, przepadła prawie w całości, bo wyborcy skreślali nazwiska.
+W pierwszej turze kandydaci Komitetu Obywatelskiego zdobyli 160 ze 161 dostępnych mandatów poselskich, a ostatni dołożyli w drugiej turze. W Senacie wygrali 99 ze 100 miejsc. Z listy krajowej przeszły tylko dwie osoby, bo wyborcy masowo skreślali nazwiska. Koalicja rządowa nie zdobyła ani jednego miejsca w Senacie, a w okręgach tylko trzech jej kandydatów wygrało w pierwszej turze. Frekwencja wyniosła 62 procent, co zaskoczyło obie strony.
 
 ## Skala porażki
-Nikt – ani władza, ani opozycja – nie spodziewał się takiego wyniku. Głosowanie okazało się plebiscytem: nie tyle wyborem programu, ile odpowiedzią na pytanie, czy system ma trwać.
+Wynik zaskoczył władze. Partyjne analizy przed wyborami przewidywały wzmocnienie koalicji. Mieczysław Rakowski nazwał upadek listy krajowej „potężnym ciosem”. Głosowanie przeciw liście krajowej zaczęto traktować jako wotum nieufności wobec przywódców PRL. Wiadomość z Polski trafiła na czołówki światowej prasy razem z masakrą na placu Tian’anmen.
 
 ## Konsekwencje
-Kontrakt zakładał, że władza zachowa większość i kontrolę. Wynik uczynił to niemożliwym: we wrześniu 1989 roku premierem został Tadeusz Mazowiecki. Wybory czerwcowe uchodzą za moment, w którym PRL faktycznie się skończył.`,
+Kontrakt zakładał, że władza zachowa większość i kontrolę. Wojciech Jaruzelski został prezydentem większością jednego głosu. Czesław Kiszczak nie zdołał jednak utworzyć rządu. 24 sierpnia 1989 roku Sejm wybrał na premiera Tadeusza Mazowieckiego, a jego rząd zatwierdzono 12 września. Jeszcze w tym samym roku parlament wykreślił z konstytucji kierowniczą rolę PZPR i przywrócił nazwę Rzeczpospolita Polska. Wybory czerwcowe uchodzą za moment, w którym PRL faktycznie się skończył, i za sygnał dla Jesieni Ludów.`,
     resources: [
       {
         id: 'wyl89-1',
@@ -15604,17 +15639,24 @@ Państwo ścigało obrót nieoficjalny, ale samo z niego korzystało: sklepy dew
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Odznaka_ORMO.jpg?width=800',
     imageCaption: 'Odznaka Ochotniczej Rezerwy Milicji Obywatelskiej',
     content: `## Czym było
-Ochotnicza Rezerwa Milicji Obywatelskiej powstała w lutym 1946 roku jako paramilitarna organizacja wspierająca milicję. Służba była bezpłatna i formalnie dobrowolna, a przyjmowano do niej osoby między osiemnastym a czterdziestym piątym rokiem życia.
+Ochotniczą Rezerwę Milicji Obywatelskiej powołała uchwała Rady Ministrów z 21 lutego 1946 roku. Była to paramilitarna organizacja społeczna wspierająca milicję. Przyjmowano do niej obywateli w wieku od 18 do 45 lat, a służba była bezpłatna. Formalnie samodzielna, w praktyce podlegała MO, a później bezpośrednio aparatowi PZPR.
 
 ## Skala
-W szczytowym okresie ORMO liczyła około czterystu tysięcy członków, rekrutowanych przede wszystkim spośród członków PZPR, ale też stronnictw satelickich i bezpartyjnych. Była to więc struktura porównywalna liczebnie z armią.
+W szczytowym okresie ORMO liczyła około 400 tysięcy członków. Większość stanowili członkowie PZPR, ale należeli do niej także ludzie z ZSL, SD i bezpartyjni. Ustawa z 13 czerwca 1967 roku dawała ormowcom prawo legitymowania, kontroli ruchu drogowego i doprowadzania podejrzanych do milicji, także z użyciem siły fizycznej.
+
+## Marzec 1968 i zmiana statutu
+Pod koniec lat 50. działalność organizacji osłabła. Ożywił ją Marzec 1968, gdy do pacyfikacji studenckich demonstracji użyto tak zwanego aktywu robotniczego. W dużej części tworzyli go pospiesznie zmobilizowani członkowie ORMO. Po tych wydarzeniach nadano jej nowy statut, a organizacje wojewódzkie podporządkowano komitetom wojewódzkim PZPR.
 
 ## Zadania
-Ormowcy pomagali przy zabezpieczaniu imprez masowych, patrolach, kontrolach porządkowych i akcjach przeciw handlowi nielegalnemu. Byli też wykorzystywani przy tłumieniu wystąpień społecznych, co w pamięci zbiorowej przesądziło o odbiorze całej formacji.
+Oddziały Zwarte ORMO współdziałały z ZOMO. Chroniły mecze, festyny i manifestacje oraz patrolowały ulice razem z milicją. Brygady Ruchu Drogowego nadzorowały ruch na drogach. W stanie wojennym władze używały Oddziałów Zwartych ostrożnie, bo obawiały się prosolidarnościowych sympatii robotników, choć kilkakrotnie wysłano je do tłumienia demonstracji. Od lutego 1982 roku partyjne grupy samoobrony przekształcano w Oddziały Polityczno-Obronne ORMO.
 
 ## Rozwiązanie
-Organizację zlikwidowano ustawą Sejmu z 23 listopada 1989 roku – jedną z pierwszych decyzji parlamentu po zmianie ustroju. Sam pośpiech w jej rozwiązaniu pokazuje, jak silnie kojarzono ją z aparatem przemocy poprzedniego systemu.`,
-    trivia: ['ORMO było ochotniczą formacją wspierającą milicję, także przy tłumieniu protestów.', 'Jej członkowie zachowywali normalną pracę – służyli po godzinach.'],
+Pod koniec lat 80. organizacja w naturalny sposób zamierała. Sejm rozwiązał ją ustawą z 23 listopada 1989 roku, gdy liczyła jeszcze 328 510 członków. Decyzja ta zatwierdziła stan faktyczny. W pamięci zbiorowej ORMO pozostało kojarzone przede wszystkim z pałkami w Marcu 1968 roku.`,
+    trivia: [
+      'W ORMO nie było stopni – dystynkcje na mundurze zależały od funkcji, a szef wojewódzkiego komitetu nosił oznaki podobne do generalskich.',
+      'W chwili rozwiązania w listopadzie 1989 roku ORMO liczyła 328 510 członków.',
+      'W Brygadach Ruchu Drogowego ORMO działało sporo znanych osób, m.in. piosenkarzy, aktorów i dziennikarzy.',
+    ],
     resources: [
       {
         id: 'ormo-1',
@@ -20069,17 +20111,21 @@ Wybory 4 czerwca 1989 roku odbyły się według ustaleń Okrągłego Stołu: o 3
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Logo_of_the_Front_of_National_Unity.svg?width=800',
     imageCaption: 'Znak Frontu Jedności Narodu',
     content: `## Konstrukcja
-Front Jedności Narodu, do 1956 roku działający jako Front Narodowy, powstał w 1952 roku. Skupiał PZPR oraz stronnictwa satelickie – ZSL i SD – a także związki zawodowe i organizacje społeczne. Formalnie był porozumieniem, faktycznie strukturą podporządkowaną partii.
+Front powstał w 1952 roku, a do 1956 roku działał pod nazwą Front Narodowy. Pierwszym przewodniczącym jego ogólnopolskiego komitetu był od 30 sierpnia 1952 roku Bolesław Bierut. Front skupiał PZPR i stronnictwa satelickie – ZSL i SD – a także związki zawodowe i organizacje społeczne. Formalnie był porozumieniem, faktycznie realizował cele PZPR i był jej podporządkowany. Na jego czele stał zwykle przewodniczący lub zastępca przewodniczącego Rady Państwa. Siedziba mieściła się w Pałacyku Sobańskich przy Alejach Ujazdowskich.
 
 ## Po co istniał
-Główną funkcją było firmowanie wyborów. FJN wystawiał jedną wspólną listę kandydatów, co oznaczało, że wyborca nie wybierał między programami, lecz zatwierdzał ustalony wcześniej skład. Liczba kandydatów odpowiadała liczbie mandatów albo nieznacznie ją przekraczała.
+Główną funkcją było firmowanie wyborów do Sejmu i rad narodowych. FJN miał monopol na zgłaszanie kandydatów – do 1976 roku w praktyce, potem oficjalnie. Wyborca nie wybierał więc między programami, lecz zatwierdzał skład ustalony wcześniej przez partię. W założeniach Front miał wyrażać „wspólnotę interesów, dążeń i poglądów” robotników, chłopów i inteligencji. Patronował też akcjom społecznym, a jego komitet przyznawał Odznakę 1000-lecia Państwa Polskiego.
 
 ## Rytuał głosowania
-Udział w wyborach traktowano jako obowiązek obywatelski, a głosowanie bez skreśleń – jako poparcie. Frekwencję podawano w wysokościach bliskich stu procentom, co samo w sobie było komunikatem: system nie tyle liczył głosy, ile demonstrował jedność.
+Wyniki ogłaszano w wysokościach bliskich stu procentom. W wyborach do Sejmu w 1980 roku oficjalnie głosowało 98,87 procent uprawnionych, a 99,52 procent poparło kandydatów FJN. Liczby te były komunikatem samym w sobie: system nie tyle liczył głosy, ile demonstrował jedność. Od 1947 roku stałym elementem głosowań w PRL było też fałszowanie wyników.
 
 ## Koniec
-W 1983 roku, po stanie wojennym, miejsce FJN zajął Patriotyczny Ruch Odrodzenia Narodowego. Zmieniła się nazwa i skład firmujących, konstrukcja pozostała ta sama.`,
-    trivia: ['Wyborcy dostawali jedną listę – głosowanie polegało na wrzuceniu jej bez skreśleń.', 'Skreślanie kandydatów wymagało wejścia za kotarę, co odnotowywano.'],
+Po stanie wojennym, w 1983 roku, FJN rozwiązano, a jego miejsce zajął Patriotyczny Ruch Odrodzenia Narodowego. W lipcu 1983 roku zapisy o PRON zastąpiły w konstytucji zapisy o Froncie. Zmieniła się nazwa i skład firmujących, konstrukcja pozostała ta sama: bez zgody PRON nie dało się kandydować w wyborach.`,
+    trivia: [
+      'Przewodniczącymi komitetu Frontu byli kolejno m.in. Bolesław Bierut, Aleksander Zawadzki, Edward Ochab, Marian Spychalski i Henryk Jabłoński.',
+      'Według oficjalnych danych w wyborach do Sejmu w 1980 roku kandydatów FJN poparło 99,52 procent głosujących.',
+      'Siedziba Ogólnopolskiego Komitetu FJN mieściła się w Pałacyku Sobańskich przy Alejach Ujazdowskich 13 w Warszawie.',
+    ],
     resources: [
       {
         id: 'fjn-pkf',
@@ -20801,17 +20847,24 @@ Kolorowa telewizja jest dobrym skrótem całej dekady Gierka: nowoczesna technol
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stocznia_Szczeci%C5%84ska_Nowa%2C_gate%2C_2017.jpg?width=800',
     imageCaption: 'Brama dawnej Stoczni Szczecińskiej (fot. współczesna)',
     content: `## Zakład
-Stocznia Szczecińska imienia Adolfa Warskiego była jednym z największych zakładów przemysłu okrętowego w kraju, obok stoczni gdańskiej i gdyńskiej. Budowano tam statki na eksport, w znacznej części dla odbiorców radzieckich.
+Stocznia Szczecińska powstała po wojnie na terenie zniszczonych stoczni niemieckich Vulcan i Oderwerke. Od 1950 roku była odrębnym przedsiębiorstwem państwowym, a w 1959 roku otrzymała imię Adolfa Warskiego. W latach 70. pracowało w niej ponad 12 tysięcy osób. Budowano tu drobnicowce, masowce, chemikaliowce i promy, w dużej części na zamówienia radzieckie. Rozliczenia w rublach transferowych sprawiały jednak, że takie kontrakty bywały dla stoczni nierentowne.
 
-## Grudzień 1970
-Po podwyżce cen żywności stocznia stanęła. W Szczecinie protest przybrał szczególnie gwałtowny przebieg: podpalono gmach komitetu wojewódzkiego partii, a wojsko i milicja użyły broni. Zginęło kilkanaście osób, rannych było wielokrotnie więcej.
+## Pierwsze strajki i Grudzień 1970
+Już w styczniu 1958 roku część załogi przerwała pracę – był to pierwszy powojenny strajk w zakładzie. Po zapowiedzi podwyżek z 12 grudnia 1970 roku stoczniowcy wyszli na ulice 17 grudnia. Tłum podpalił gmach Komitetu Wojewódzkiego PZPR, milicja i wojsko otworzyły ogień. Następnego dnia pod bramami stoczni zginęły kolejne dwie osoby. Pomnik ofiar na Cmentarzu Centralnym wymienia szesnaście nazwisk. W stoczni trwał strajk okupacyjny, zakończony 22 grudnia.
 
 ## Styczeń 1971
-W styczniu 1971 roku do strajkującej stoczni przyjechał Edward Gierek i przez kilka godzin rozmawiał z załogą. Rozmowa – zakończona pytaniem, czy robotnicy pomogą – weszła do historii jako moment, w którym nowa ekipa kupowała sobie czas obietnicami zamiast siłą.
+Obietnice władz nie zostały dotrzymane, więc 22 stycznia 1971 roku strajk wybuchł ponownie. Na czele komitetu stał Edmund Bałuka, a w jego składzie był Marian Jurczyk. Stoczniowcy żądali m.in. demokratycznych wyborów do związków i przyjazdu nowego I sekretarza. Edward Gierek przybył 24 stycznia, a po rozmowach strajk zakończono. Nowa ekipa kupiła sobie spokój obietnicami, nie siłą. W kolejnych latach aktywnych uczestników protestu szykanowano, a Bałukę zwolniono.
 
 ## Sierpień 1980
-Dziesięć lat później stocznia znów była jednym z głównych ośrodków strajku. Porozumienie szczecińskie podpisano 30 sierpnia 1980 roku, dzień przed gdańskim – co często umyka w potocznej pamięci o Sierpniu.`,
-    trivia: ['Stocznia strajkowała zarówno w 1970, jak i w 1980 roku.', 'Porozumienie szczecińskie podpisano dzień przed gdańskim.'],
+Strajk w stoczni rozpoczął się 18 sierpnia 1980 roku, a komitetem kierował Marian Jurczyk. Międzyzakładowy Komitet Strajkowy wysunął 36 postulatów i negocjował z komisją rządową Kazimierza Barcikowskiego. Porozumienie szczecińskie podpisano 30 sierpnia, dzień przed gdańskim – co często umyka w potocznej pamięci o Sierpniu.
+
+## Stan wojenny
+Po 13 grudnia 1981 roku w stoczni strajkowało około 4 tysięcy osób. W nocy z 14 na 15 grudnia strajk rozbiły wojsko, milicja i ZOMO. Przywódców skazały sądy wojskowe, a pracę straciło około 1,5 tysiąca osób.`,
+    trivia: [
+      'Pierwszy w powojennym Szczecinie statek pełnomorski zwodowano tu 24 kwietnia 1948 roku, dokańczając kadłub pozostawiony przez Niemców.',
+      'W styczniu 1971 roku strajkujący stoczniowcy zażądali przyjazdu Edwarda Gierka – przybył 24 stycznia, a strajk zakończył się dzień później.',
+      'Szczeciński Międzyzakładowy Komitet Strajkowy sformułował w sierpniu 1980 roku 36 postulatów, a porozumienie podpisano dzień przed gdańskim.',
+    ],
     resources: [
       {
         id: 'stocznia-szczecinska-zrodlo1',
@@ -27155,23 +27208,28 @@ Zdjęcia kręcono w Warszawie, m.in. w bazylice Świętego Krzyża, a także we 
     category: 'kultura',
     tags: ['film', 'serial', 'satyra', 'ekranizacja', 'telewizja'],
     yearStart: 1980,
+    yearEnd: 1980,
     summary: 'Serial (1980) wg powieści Dołęgi-Mostowicza z Romanem Wilhelmim; bezrobotny Dyzma robi zawrotną karierę w elitach dzięki tupetowi i szczęściu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Karjera_Nikodema_Dyzmy.jpg?width=800',
     imageCaption: 'Strona tytułowa pierwszego wydania powieści Dołęgi-Mostowicza, 1932',
     content: `## Serial
-Siedmioodcinkowa „Kariera Nikodema Dyzmy” w reżyserii Jana Rybkowskiego i Marka Nowickiego była emitowana wiosną 1980 roku, na kilka miesięcy przed Sierpniem. Powstała na podstawie powieści Tadeusza Dołęgi-Mostowicza z 1931 roku.
+Siedmioodcinkowa „Kariera Nikodema Dyzmy” w reżyserii Jana Rybkowskiego i Marka Nowickiego była emitowana przez Telewizję Polską od 6 kwietnia do 18 maja 1980 roku, na kilka miesięcy przed Sierpniem. Rybkowski już 24 lata wcześniej nakręcił kinową adaptację „Nikodem Dyzma”. Gdy w trakcie zdjęć poważnie zachorował, część serialu wyreżyserował operator Marek Nowicki. Plenery kręcono m.in. w Łodzi, Zaborowie, Nieborowie i Warszawie.
+
+## Powieść
+Tadeusz Dołęga-Mostowicz drukował powieść w odcinkach w dzienniku „ABC” od 1 stycznia do 26 maja 1931 roku, a książka wyszła w 1932 roku. Pierwszy nakład, 50 tysięcy egzemplarzy, rozszedł się w kilka tygodni. Czytelnicy rozpoznawali w bohaterach postaci z życia publicznego – w ministrze Jaszuńskim widziano ministra rolnictwa Leona Jantę-Połczyńskiego.
 
 ## Fabuła
-Bohaterem jest marnie wykształcony bezrobotny z prowincji, który trafia do Warszawy okresu sanacji i dzięki serii nieporozumień robi zawrotną karierę państwową. Nikt z otoczenia nie chce przyznać, że nie rozumie jego wypowiedzi, więc brany jest za człowieka wybitnego.
+Bohaterem jest marnie wykształcony bezrobotny z prowincjonalnego Łyskowa, który w Warszawie okresu sanacji znajduje zaproszenie na raut u premiera. Tam ostro strofuje wpływowego szefa gabinetu premiera, nie wiedząc, kim on jest. Zdobywa tym uznanie i zaczyna zawrotną karierę dzięki tupetowi i szczęśliwym przypadkom. W finale proponuje mu się stanowisko premiera.
 
-## Podwójne dno
-Formalnie serial krytykował II Rzeczpospolitą, co czyniło go akceptowalnym dla cenzury. Widownia odczytywała go jednak inaczej: jako opis mechanizmu awansu w każdym systemie, w którym o karierze decydują układy, a nie kompetencje – a więc również we własnym.
+## Serial i cenzura
+Scenariusz dość wiernie trzyma się powieści, ale pominięto lub zmieniono kilka wątków. Według Wikipedii różnice wynikały w większości z wymogów cenzury. Krytyka elit II Rzeczypospolitej była w PRL tematem bezpiecznym. Mechanizm awansu bez kwalifikacji widz mógł jednak odnieść także do czasów, w których oglądał serial.
 
 ## Rola Wilhelmiego
-Rola Romana Wilhelmiego stała się jedną z najbardziej rozpoznawalnych w historii polskiej telewizji, a samo nazwisko bohatera weszło do języka jako określenie karierowicza bez kwalifikacji.`,
+Serial uchodzi za jeden z najlepszych w historii polskiej telewizji, a rola Romana Wilhelmiego za wybitne osiągnięcie aktorskie. W 1981 roku aktor dostał za nią m.in. Złoty Ekran. Nazwisko bohatera jeszcze w latach 30. stało się symbolem nieokrzesanego karierowicza bez kwalifikacji.`,
     trivia: [
-      'Serial emitowano wiosną 1980 roku, na kilka miesięcy przed sierpniowymi strajkami.',
-      'Krytyka sanacji była cenzuralnie bezpieczna, ale widzowie odczytywali serial jako opis własnych czasów.',
+      'Reżyser serialu Jan Rybkowski już w 1956 roku nakręcił filmową adaptację tej samej powieści pt. „Nikodem Dyzma”.',
+      'W maju 1931 roku cenzura skonfiskowała dwa odcinki drukowanej w „ABC” powieści, opisujące pobicie prostytutki przez policjantów.',
+      'W serialu wykorzystano przedwojenne piosenki „Chodź na Pragę” i „Dulcynea” – tę drugą śpiewa Bohdan Łazuka.',
     ],
     resources: [
       {
@@ -30438,20 +30496,24 @@ Jego droga pokazuje, czym był jazz w PRL: dziedziną, w której kontakt ze świ
     summary: 'Aktorka o arystokratycznej urodzie, „pierwsza dama polskiego kina”; grała w „Popiołach”, „Lalce” i „Rękopisie znalezionym w Saragossie”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Beata%20Tyszkiewicz.jpg?width=800',
     imageCaption: 'Beata Tyszkiewicz – aktorka filmowa.',
-    content: `## Aktorka
-Beata Tyszkiewicz (ur. 1938) zagrała ponad sto ról filmowych. Ze względu na urodę i arystokratyczne pochodzenie obsadzano ją zwykle w rolach dam – co w PRL było sytuacją paradoksalną, bo warstwa, którą przedstawiała, w oficjalnej narracji nie powinna już istnieć.
+    content: `## Hrabianka z Wilanowa
+Beata Tyszkiewicz urodziła się 14 sierpnia 1938 roku w pałacu w Wilanowie, w hrabiowskiej rodzinie Tyszkiewiczów. Pochodzenie ciążyło jej w szkole: do gimnazjum w Karpaczu przyjęto ją dopiero po interwencji matki w ministerstwie. Zadebiutowała jako uczennica, rolą Klary w „Zemście” z 1957 roku. Z warszawskiej szkoły teatralnej wyrzucono ją po roku za występy publiczne, zakazane studentom.
+
+## Pierwsza dama kina
+W drugiej połowie lat 60. grała głównie damy i postaci historyczne, stąd przydomek „pierwszej damy polskiego kina”. Była księżniczką Elżbietą w „Popiołach” Wajdy i donną Rebeką w „Rękopisie znalezionym w Saragossie” Hasa (oba z 1965 roku). W komedii „Marysia i Napoleon” zagrała Marię Walewską. Zagrała łącznie ponad sto ról filmowych.
 
 ## Izabela Łęcka
-Najbardziej znaną kreacją pozostaje Izabela Łęcka w „Lalce” Wojciecha Hasa z 1968 roku. Film, adaptacja powieści Prusa, zdobył Grand Prix na festiwalu w Panamie, a jego realizacja pochłonęła ogromne jak na tamte czasy środki.
+Najbardziej znaną kreacją pozostaje Izabela Łęcka w „Lalce” Wojciecha Hasa z 1968 roku. Budżet filmu wyniósł 35 milionów złotych. Has przewidział w nim 87 ról głównych i 500 epizodów. Krytycy przyjęli adaptację z mieszanymi uczuciami, ale na festiwalu w Panamie zdobyła cztery nagrody, w tym Grand Prix. W tym samym roku zagrała Beatę we „Wszystkim na sprzedaż” Andrzeja Wajdy, którego żoną była w latach 1967–1969.
 
-## U Wajdy
-Grała też w „Popiołach” i „Wszystko na sprzedaż” Andrzeja Wajdy, z którym była przez pewien czas związana. Występowała w produkcjach zagranicznych, co przy ówczesnych ograniczeniach paszportowych było przywilejem nielicznych.
+## Za granicą i w komedii
+Grała w wielu filmach zagranicznych, głównie radzieckich i węgierskich, m.in. u Andrieja Konczałowskiego w „Szlacheckim gnieździe”. W PRL, przy ograniczeniach paszportowych, taka kariera była przywilejem nielicznych. W latach 80. odkryła talent komediowy u Juliusza Machulskiego – jako Berna w „Seksmisji” (1983) i fałszywa hrabina w „Vabanku II”.
 
-## Gwiazda bez rynku
-Jej pozycja pokazuje mechanizm typowy dla PRL: rozpoznawalność była powszechna, a honoraria ustalane taryfowo. Sława aktorska nie tworzyła majątku, bo nie było rynku, który mógłby ją wycenić – kino było instytucją państwową.`,
+## Arystokratka w PRL
+Jej kariera ma w sobie paradoks. Państwo, które oficjalnie uznawało arystokrację za przeszłość, obsadzało hrabiankę w rolach dam, a widzowie ją za to kochali.`,
     trivia: [
-      'Obsadzano ją w rolach arystokratek w państwie, które oficjalnie uznawało tę warstwę za przeszłość.',
-      '„Lalka” z jej udziałem zdobyła Grand Prix na międzynarodowym festiwalu w Panamie.',
+      'Urodziła się w pałacu w Wilanowie, a jej ojcem chrzestnym był hrabia Adam Branicki, właściciel pałacu.',
+      'Z warszawskiej szkoły teatralnej wyrzucono ją po roku za występ w reklamie telewizyjnej, bo regulamin zakazywał studentom publicznych występów.',
+      '„Lalka” z jej udziałem kosztowała 35 milionów złotych i zdobyła cztery nagrody na festiwalu w Panamie, w tym Grand Prix.',
     ],
     resources: [
       {
@@ -31140,6 +31202,30 @@ WOP rozwiązano w 1991 roku, zastępując go Strażą Graniczną – formacją c
     ],
     resources: [
       {
+        id: 'wop-ipn-film-1',
+        title: 'Z filmoteki bezpieki, odc. 55 – Wojska Ochrony Pogranicza cz. 1 (IPNtv)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=2YUf1quotS8',
+        source: 'YouTube',
+        description: 'Program IPN oparty na filmach szkoleniowych resortu, pokazujący służbę WOP i ochronę granicy PRL.',
+      },
+      {
+        id: 'wop-ipn-film-2',
+        title: 'Z filmoteki bezpieki, odc. 56 – Wojska Ochrony Pogranicza cz. 2 (IPNtv)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=aMbdx8kqO2Q',
+        source: 'YouTube',
+        description: 'Druga część programu IPN o Wojskach Ochrony Pogranicza na podstawie archiwalnych filmów resortowych.',
+      },
+      {
+        id: 'wop-sg',
+        title: 'Straż Graniczna – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Stra%C5%BC_Graniczna_%28Polska%29',
+        source: 'Wikipedia',
+        description: 'Artykuł o Straży Granicznej, która w 1991 roku zastąpiła Wojska Ochrony Pogranicza.',
+      },
+      {
         id: 'wop-wiki',
         title: 'Wojska Ochrony Pogranicza – artykuł',
         type: 'publikacja',
@@ -31185,6 +31271,30 @@ Formację rozwiązano w 1965 roku, a jej zadania rozdzielono między wojska wewn
       'Korpus liczył w szczytowym okresie kilkadziesiąt tysięcy żołnierzy – więcej niż niejedna regularna dywizja.',
     ],
     resources: [
+      {
+        id: 'kbw-ipn-film',
+        title: 'Korpus Bezpieczeństwa Wewnętrznego (IPNtv)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=MpgWUIGnPA8',
+        source: 'YouTube',
+        description: 'Materiał IPN o powstaniu i działaniach KBW w walce z podziemiem niepodległościowym.',
+      },
+      {
+        id: 'kbw-njw',
+        title: 'Nadwiślańskie Jednostki Wojskowe – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Nadwi%C5%9Bla%C5%84skie_Jednostki_Wojskowe',
+        source: 'Wikipedia',
+        description: 'Artykuł o formacji wojsk wewnętrznych MSW, która przejęła zadania KBW.',
+      },
+      {
+        id: 'kbw-wykleci',
+        title: 'Żołnierze wyklęci – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/%C5%BBo%C5%82nierze_wykl%C4%99ci',
+        source: 'Wikipedia',
+        description: 'Artykuł o powojennym podziemiu niepodległościowym, przeciw któremu kierowano oddziały KBW.',
+      },
       {
         id: 'kbw-wiki',
         title: 'Korpus Bezpieczeństwa Wewnętrznego – artykuł',
@@ -31335,6 +31445,30 @@ Organizacja przetrwała transformację, tracąc jednak masowy charakter i więks
       'Sekcje krótkofalarskie LOK działały w państwie, które ściśle kontrolowało dostęp do urządzeń nadawczych.',
     ],
     resources: [
+      {
+        id: 'lok-tpz',
+        title: 'Towarzystwo Przyjaciół Żołnierza – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Towarzystwo_Przyjaci%C3%B3%C5%82_%C5%BBo%C5%82nierza',
+        source: 'Wikipedia',
+        description: 'Artykuł o organizacji, z której w 1962 roku powstała Liga Obrony Kraju.',
+      },
+      {
+        id: 'lok-lpz',
+        title: 'Liga Przyjaciół Żołnierza – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Liga_Przyjaci%C3%B3%C5%82_%C5%BBo%C5%82nierza',
+        source: 'Wikipedia',
+        description: 'Artykuł o powojennej organizacji paramilitarnej, poprzedniczce TPŻ i LOK.',
+      },
+      {
+        id: 'lok-po',
+        title: 'Przysposobienie obronne – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Przysposobienie_obronne',
+        source: 'Wikipedia',
+        description: 'Artykuł o szkoleniu obronnym młodzieży i dorosłych, w które LOK była włączona w szkołach i zakładach pracy.',
+      },
       {
         id: 'lok-wiki',
         title: 'Liga Obrony Kraju – artykuł',
@@ -31493,6 +31627,30 @@ Kolejne próby reform – 1956, 1973, 1982 – miały poszerzyć samodzielność
       'Dyrektorzy zakładów starali się wynegocjować jak najniższe wskaźniki planu – łatwiej było je potem przekroczyć.',
     ],
     resources: [
+      {
+        id: 'komisja-planowania-pkpg',
+        title: 'Państwowa Komisja Planowania Gospodarczego – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Pa%C5%84stwowa_Komisja_Planowania_Gospodarczego',
+        source: 'Wikipedia',
+        description: 'Artykuł o urzędzie planistycznym z lat 1949–1956, poprzedniku Komisji Planowania przy Radzie Ministrów.',
+      },
+      {
+        id: 'komisja-planowania-6latka',
+        title: 'Plan sześcioletni – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Plan_sze%C5%9Bcioletni',
+        source: 'Wikipedia',
+        description: 'Artykuł o planie gospodarczym na lata 1950–1955, najbardziej znanym przykładzie centralnego planowania w PRL.',
+      },
+      {
+        id: 'komisja-planowania-minc',
+        title: 'Hilary Minc – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Hilary_Minc',
+        source: 'Wikipedia',
+        description: 'Artykuł o głównym architekcie gospodarki planowej okresu stalinowskiego i szefie PKPG.',
+      },
       {
         id: 'komisja-planowania-wiki',
         title: 'Komisja Planowania przy Radzie Ministrów – artykuł',
@@ -31797,6 +31955,30 @@ We wrześniu 1989 roku premierem został Tadeusz Mazowiecki – pierwszy od czte
     ],
     resources: [
       {
+        id: 'premierzy-prl-lista',
+        title: 'Premierzy Polski – lista',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Premierzy_Polski',
+        source: 'Wikipedia',
+        description: 'Artykuł z listą szefów rządów polskich, w tym premierów PRL.',
+      },
+      {
+        id: 'premierzy-prl-konstytucja-1952',
+        title: 'Konstytucja PRL z 1952 roku',
+        type: 'akt',
+        url: 'https://pl.wikisource.org/wiki/Konstytucja_Polskiej_Rzeczypospolitej_Ludowej_%281952%29',
+        source: 'Wikisource',
+        description: 'Tekst konstytucji z 1952 roku, określającej pozycję Rady Ministrów i jej prezesa w PRL.',
+      },
+      {
+        id: 'premierzy-prl-cyrankiewicz',
+        title: 'Cyrankiewicz: premier rekordzista (Dudek o Historii)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=LjvtF8mQpwY',
+        source: 'YouTube',
+        description: 'Prof. Antoni Dudek o Józefie Cyrankiewiczu, najdłużej urzędującym premierze PRL.',
+      },
+      {
         id: 'premierzy-prl-wiki',
         title: 'Premierzy PRL – artykuł',
         type: 'publikacja',
@@ -31889,6 +32071,30 @@ Rząd Tymczasowy istniał niecałe pół roku. 28 czerwca 1945 roku zastąpił g
     ],
     resources: [
       {
+        id: 'rzad-tymczasowy-pkf',
+        title: 'Polska Kronika Filmowa 1945 nr 2 – utworzenie Rządu Tymczasowego',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=vvkEWFA0qjQ',
+        source: 'YouTube',
+        description: 'Archiwalne wydanie PKF z 1945 roku z relacją o utworzeniu Rządu Tymczasowego RP.',
+      },
+      {
+        id: 'rzad-tymczasowy-trjn',
+        title: 'Tymczasowy Rząd Jedności Narodowej – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Tymczasowy_Rz%C4%85d_Jedno%C5%9Bci_Narodowej',
+        source: 'Wikipedia',
+        description: 'Artykuł o rządzie z czerwca 1945 roku, który zastąpił Rząd Tymczasowy po rozmowach moskiewskich.',
+      },
+      {
+        id: 'rzad-tymczasowy-osobka',
+        title: 'Edward Osóbka-Morawski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Edward_Os%C3%B3bka-Morawski',
+        source: 'Wikipedia',
+        description: 'Artykuł o premierze Rządu Tymczasowego, wcześniej przewodniczącym PKWN.',
+      },
+      {
         id: 'rzad-tymczasowy-wiki',
         title: 'Rząd Tymczasowy RP – artykuł',
         type: 'publikacja',
@@ -31980,6 +32186,30 @@ Wraz z wkroczeniem Armii Czerwonej struktury Delegatury ujawniały się wobec no
       'Delegat Rządu na Kraj miał od 1944 roku rangę wicepremiera rządu RP.',
     ],
     resources: [
+      {
+        id: 'delegatura-ipn-dyskusja',
+        title: 'Delegatura utraconych nadziei – dyskusja (IPNtv)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=Am4PTJUZx_Y',
+        source: 'YouTube',
+        description: 'Dyskusja historyków IPN o Delegaturze Rządu na Kraj.',
+      },
+      {
+        id: 'delegatura-jankowski',
+        title: 'Jan Stanisław Jankowski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Jan_Stanis%C5%82aw_Jankowski',
+        source: 'Wikipedia',
+        description: 'Artykuł o Delegacie Rządu na Kraj z lat 1943–1945, aresztowanym przez NKWD i sądzonym w procesie szesnastu.',
+      },
+      {
+        id: 'delegatura-odezwa-rjn',
+        title: 'Odezwa Rady Jedności Narodowej i p.o. Delegata Rządu Stefana Korbońskiego',
+        type: 'dokument',
+        url: 'https://pl.wikisource.org/wiki/Odezwa_Rady_Jedno%C5%9Bci_Narodowej_i_p.o._Delegata_Rz%C4%85du_Stefana_Korbo%C5%84skiego',
+        source: 'Wikisource',
+        description: 'Tekst odezwy Rady Jedności Narodowej i pełniącego obowiązki Delegata Rządu Stefana Korbońskiego.',
+      },
       {
         id: 'delegatura-rzadu-wiki',
         title: 'Delegatura Rządu na Kraj – artykuł',
@@ -32349,6 +32579,30 @@ Jego los pokazuje mechanizm, który w PRL działał wielokrotnie: człowiek wsp�
     ],
     resources: [
       {
+        id: 'zambrowski-ipn-portrety',
+        title: 'Komunista Roman Zambrowski – cykl Portrety, odc. 3 (IPNtv)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=AYD2nOAKUJA',
+        source: 'YouTube',
+        description: 'Rozmowa historyków IPN o drodze politycznej Zambrowskiego od KPP do usunięcia z władz partii.',
+      },
+      {
+        id: 'zambrowski-pulawianie',
+        title: 'Puławianie – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Pu%C5%82awianie',
+        source: 'Wikipedia',
+        description: 'Artykuł o frakcji puławian w PZPR, z którą kojarzono Zambrowskiego.',
+      },
+      {
+        id: 'zambrowski-natolinczycy',
+        title: 'Natolińczycy – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Natoli%C5%84czycy',
+        source: 'Wikipedia',
+        description: 'Artykuł o konkurencyjnej frakcji natolińczyków, rywalizującej z puławianami w 1956 roku.',
+      },
+      {
         id: 'zambrowski-wiki',
         title: 'Roman Zambrowski – artykuł',
         type: 'publikacja',
@@ -32495,6 +32749,30 @@ Usunięty z kierownictwa w 1956 roku, nigdy nie odpowiedział przed sądem za dz
     ],
     resources: [
       {
+        id: 'radkiewicz-mbp',
+        title: 'Ministerstwo Bezpieczeństwa Publicznego – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Ministerstwo_Bezpiecze%C5%84stwa_Publicznego',
+        source: 'Wikipedia',
+        description: 'Artykuł o resorcie bezpieczeństwa, którym Radkiewicz kierował do jego rozwiązania w 1954 roku.',
+      },
+      {
+        id: 'radkiewicz-rozkaz-1945',
+        title: 'Rozkaz Stanisława Radkiewicza z 27 września 1945',
+        type: 'dokument',
+        url: 'https://pl.wikisource.org/wiki/Rozkaz_Stanis%C5%82awa_Radkiewicza_z_27_wrze%C5%9Bnia_1945',
+        source: 'Wikisource',
+        description: 'Tekst rozkazu ministra bezpieczeństwa publicznego z okresu walki z podziemiem niepodległościowym.',
+      },
+      {
+        id: 'radkiewicz-rmf-film',
+        title: 'Radkiewicz – cień Bieruta w MBP (RMF FM, Misja specjalna)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Nlg6w7Qf83U',
+        source: 'YouTube',
+        description: 'Audycja o karierze Radkiewicza i jego roli na czele aparatu bezpieczeństwa.',
+      },
+      {
         id: 'radkiewicz-wiki',
         title: 'Stanisław Radkiewicz – artykuł',
         type: 'publikacja',
@@ -32540,6 +32818,30 @@ Wstrząs był na tyle duży, że w grudniu 1954 roku rozwiązano Ministerstwo Be
       'Jego audycje w Radiu Wolna Europa przyczyniły się do rozwiązania Ministerstwa Bezpieczeństwa Publicznego w grudniu 1954 roku.',
     ],
     resources: [
+      {
+        id: 'swiatlo-trzy-twarze',
+        title: 'Trzy twarze Józefa Światły',
+        type: 'publikacja',
+        url: 'https://pl.wikisource.org/wiki/Trzy_twarze_J%C3%B3zefa_%C5%9Awiat%C5%82y',
+        source: 'Wikisource',
+        description: 'Książka Zbigniewa Błażyńskiego z Radia Wolna Europa oparta na relacjach Światły, dostępna w pełnym tekście.',
+      },
+      {
+        id: 'swiatlo-ipn-portrety',
+        title: 'Józef Światło – cykl Portrety, odc. 11 (IPNtv)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=bCV2AO2xewQ',
+        source: 'YouTube',
+        description: 'Rozmowa historyków IPN o karierze Światły w MBP, jego ucieczce na Zachód i skutkach audycji.',
+      },
+      {
+        id: 'swiatlo-mbp',
+        title: 'Ministerstwo Bezpieczeństwa Publicznego – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Ministerstwo_Bezpiecze%C5%84stwa_Publicznego',
+        source: 'Wikipedia',
+        description: 'Artykuł o resorcie, którego kulisy ujawnił Światło i który rozwiązano w 1954 roku.',
+      },
       {
         id: 'swiatlo-wiki',
         title: 'Józef Światło – artykuł',
@@ -32666,22 +32968,50 @@ W 1970 roku, podczas wizyty w Pakistanie, przeżył zamach na lotnisku w Karaczi
     summary: 'Premier w latach 1970–1980, wykonawca gospodarczego programu ekipy Gierka; zamordowany wraz z żoną w 1992 roku w niewyjaśnionych okolicznościach.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Piotr_Jaroszewicz%2C_Prime_Minister_of_the_People%27s_Republic_of_Poland_1970-1980_%28cropped%29_%28cropped%29.jpg?width=800',
     imageCaption: 'Piotr Jaroszewicz, premier w latach 1970–1980',
-    content: `## Kariera
-Piotr Jaroszewicz (1909–1992) przed objęciem urzędu premiera był przez osiemnaście lat wicepremierem i ministrem górnictwa. Generał dywizji, długoletni poseł, człowiek aparatu w każdym calu.
+    content: `## Nauczyciel, zesłaniec, generał
+Piotr Jaroszewicz urodził się w 1909 roku w Nieświeżu. Przed wojną był nauczycielem i kierownikiem szkół powszechnych. W 1940 roku Sowieci deportowali go w okolice Archangielska. W sierpniu 1943 roku wstąpił jako szeregowiec do 1 Korpusu Polskich Sił Zbrojnych w ZSRR i zrobił błyskawiczną karierę oficera politycznego. W grudniu 1945 roku, w wieku 36 lat, był już generałem brygady, a w 1950 roku został generałem dywizji.
+
+## Człowiek aparatu
+W latach 1952–1970 był wicepremierem, a w latach 1954–1956 ministrem górnictwa. Od 1956 roku reprezentował Polskę w RWPG. Zasiadał w Sejmie nieprzerwanie od 1947 do 1980 roku, a w KC PZPR od 1948 roku.
 
 ## Dekada Gierka
-Rząd objął w grudniu 1970 roku, po masakrze na Wybrzeżu i zmianie ekipy. Jego dziesięcioletnie premierostwo pokrywa się dokładnie z dekadą Edwarda Gierka: zakupami licencji na Zachodzie, wielkimi inwestycjami, wzrostem konsumpcji, a następnie narastającym zadłużeniem.
+Premierem został 23 grudnia 1970 roku, po masakrze na Wybrzeżu i zmianie ekipy. Jego premierostwo pokrywa się niemal dokładnie z dekadą Edwarda Gierka: zakupami licencji, wielkimi inwestycjami, wzrostem konsumpcji i narastającym zadłużeniem. W 1971 roku jego rząd uchylił decyzję o pozbawieniu obywatelstwa m.in. generałów Andersa i Maczka, ale uchwały nie opublikowano.
 
 ## Czerwiec 1976
-To on 24 czerwca 1976 roku ogłosił w Sejmie drastyczną podwyżkę cen żywności. Nazajutrz wybuchły protesty w Radomiu, Ursusie i Płocku, a podwyżkę odwołano po jednym dniu – co stało się dowodem, że władza cofa się pod naciskiem ulicy.
+Był współautorem „manewru gospodarczego” – podwyżki cen żywności połączonej z rekompensatami. Ogłosił ją 24 czerwca 1976 roku. Nazajutrz wybuchły protesty w Radomiu, Ursusie i Płocku, a podwyżkę wieczorem wycofano. Po strajkach chciał ustąpić, lecz Gierek przekonał go do pozostania.
 
-## Koniec i śmierć
-Odszedł w lutym 1980 roku, na kilka miesięcy przed Sierpniem. W 1992 roku został zamordowany we własnym domu wraz z żoną, dziennikarką Alicją Solską. Sprawa nie została wyjaśniona i pozostaje jedną z najgłośniejszych niewyjaśnionych zbrodni III RP.`,
+## Upadek i śmierć
+18 lutego 1980 roku, na VIII Zjeździe PZPR, Gierek usunął go z urzędu premiera i z Biura Politycznego. W 1981 roku wyrzucono go z partii, a po 13 grudnia internowano razem z ekipą Gierka. W nocy z 31 sierpnia na 1 września 1992 roku został zamordowany wraz z żoną Alicją Solską w swoim domu w Aninie. Przed śmiercią był torturowany. Proces oskarżonych zakończył się w 2024 roku uniewinnieniem, a sprawa pozostaje niewyjaśniona.`,
     trivia: [
-      'Ogłoszoną przez niego 24 czerwca 1976 roku podwyżkę cen odwołano już następnego dnia, po wybuchu protestów.',
-      'Został zamordowany w 1992 roku we własnym domu; sprawa do dziś nie została wyjaśniona.',
+      'Wstąpił do armii w 1943 roku jako szeregowiec, a generałem brygady został w 1945 roku, po zaledwie 28 miesiącach służby.',
+      'W numizmatyce przyjęło się określenie „wzór Jaroszewicza” – banknot z nadrukiem „WZÓR” przygotowany dla premiera-kolekcjonera.',
+      'Dom w Aninie, w którym go zamordowano, był po wojnie miejscem zamieszkania Juliana Tuwima.',
     ],
     resources: [
+      {
+        id: 'jaroszewicz-zabojstwo',
+        title: 'Zabójstwo małżeństwa Jaroszewiczów – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Zab%C3%B3jstwo_ma%C5%82%C5%BCe%C5%84stwa_Jaroszewicz%C3%B3w',
+        source: 'Wikipedia',
+        description: 'Artykuł o zbrodni w warszawskim Aninie z przełomu sierpnia i września 1992 roku i o kolejnych śledztwach.',
+      },
+      {
+        id: 'jaroszewicz-rzad',
+        title: 'Rząd Piotra Jaroszewicza – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Rz%C4%85d_Piotra_Jaroszewicza',
+        source: 'Wikipedia',
+        description: 'Artykuł o składzie i działalności rządów kierowanych przez Jaroszewicza w latach 1970–1980.',
+      },
+      {
+        id: 'jaroszewicz-gazeta-film',
+        title: 'Historia (nie)wyjaśniania sprawy zabójstwa Jaroszewiczów (Gazeta.pl)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=cH-zoT-o4gY',
+        source: 'YouTube',
+        description: 'Reportaż wideo Gazeta.pl o przebiegu śledztwa w sprawie zabójstwa byłego premiera i jego żony.',
+      },
       {
         id: 'jaroszewicz-wiki',
         title: 'Piotr Jaroszewicz – artykuł',
@@ -32776,6 +33106,30 @@ W procesie szesnastu otrzymał najwyższy wyrok – dziesięć lat więzienia. Z
     ],
     resources: [
       {
+        id: 'okulicki-ostatni-rozkaz',
+        title: 'Ostatni rozkaz dzienny dowódcy Armii Krajowej (1945)',
+        type: 'dokument',
+        url: 'https://pl.wikisource.org/wiki/Ostatni_rozkaz_dzienny_dow%C3%B3dcy_Armii_Krajowej_%281945%29',
+        source: 'Wikisource',
+        description: 'Tekst rozkazu z 19 stycznia 1945 roku, którym gen. Okulicki rozwiązał Armię Krajową.',
+      },
+      {
+        id: 'okulicki-ipn-krakow',
+        title: 'Ostatni rozkaz gen. Leopolda Okulickiego i jego konsekwencje (IPN Kraków)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=LVbLGMueLPQ',
+        source: 'YouTube',
+        description: 'Materiał IPN Kraków o rozwiązaniu AK i jego następstwach.',
+      },
+      {
+        id: 'okulicki-nie',
+        title: 'Organizacja NIE – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/NIE',
+        source: 'Wikipedia',
+        description: 'Artykuł o organizacji NIE, konspiracyjnej strukturze kierowanej przez Okulickiego po rozwiązaniu AK.',
+      },
+      {
         id: 'okulicki-wiki',
         title: 'Leopold Okulicki – artykuł',
         type: 'publikacja',
@@ -32822,6 +33176,30 @@ Arciszewski pozostał premierem do 1947 roku i do końca życia działał na emi
     ],
     resources: [
       {
+        id: 'arciszewski-rzad',
+        title: 'Rząd Tomasza Arciszewskiego – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Rz%C4%85d_Tomasza_Arciszewskiego',
+        source: 'Wikipedia',
+        description: 'Artykuł o składzie i działalności rządu RP na uchodźstwie kierowanego przez Arciszewskiego od listopada 1944 roku.',
+      },
+      {
+        id: 'arciszewski-jalta',
+        title: 'Konferencja jałtańska – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Konferencja_ja%C5%82ta%C5%84ska',
+        source: 'Wikipedia',
+        description: 'Artykuł o konferencji z lutego 1945 roku, której postanowienia rząd Arciszewskiego odrzucił.',
+      },
+      {
+        id: 'arciszewski-rabinski',
+        title: 'Tomasz Arciszewski jako premier RP – wykład dr. hab. Jarosława Rabińskiego (Instytut De Republica)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=wBwtJXE6SRg',
+        source: 'YouTube',
+        description: 'Wykład z konferencji naukowej o Arciszewskim, poświęcony jego premierostwu na uchodźstwie.',
+      },
+      {
         id: 'arciszewski-wiki',
         title: 'Tomasz Arciszewski – artykuł',
         type: 'publikacja',
@@ -32852,21 +33230,49 @@ Arciszewski pozostał premierem do 1947 roku i do końca życia działał na emi
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz_Pu%C5%BCak_-_6-14.jpg?width=800',
     imageCaption: 'Kazimierz Pużak, przywódca PPS, w latach 30.',
     content: `## Weteran
-Kazimierz Pużak (1883–1950) działał w ruchu socjalistycznym od czasów zaborów; za działalność niepodległościową odsiedział wiele lat w rosyjskim więzieniu. W II Rzeczypospolitej był posłem czterech kadencji.
+Kazimierz Pużak urodził się w 1883 roku w Tarnopolu, w rodzinie robotniczej. Od 1904 roku działał w PPS, a w 1906 roku współtworzył z Józefem Piłsudskim PPS – Frakcję Rewolucyjną. W 1913 roku carski sąd skazał go na osiem lat katorgi. W więzieniach, m.in. w twierdzy w Szlisselburgu, spędził łącznie sześć lat, a uwolniła go dopiero rewolucja 1917 roku.
+
+## W II Rzeczypospolitej
+Od 1921 do 1939 roku był sekretarzem generalnym Centralnego Komitetu Wykonawczego PPS. Zasiadał w Sejmie Ustawodawczym i w Sejmach trzech kolejnych kadencji. W 1930 roku wybrano go na wicemarszałka Sejmu, ale nie przyjął tej funkcji.
 
 ## Podziemie
-W czasie okupacji organizował i prowadził PPS-WRN, a od 1944 roku przewodniczył Radzie Jedności Narodowej – podziemnemu parlamentowi, reprezentującemu główne stronnictwa polityczne przy Delegaturze Rządu.
+W październiku 1939 roku współtworzył konspiracyjną PPS-WRN i został jej sekretarzem generalnym. Od stycznia 1944 roku przewodniczył Radzie Jedności Narodowej – podziemnemu parlamentowi Polskiego Państwa Podziemnego. W czerwcu 1944 roku odmówił przyjęcia godności następcy prezydenta RP. Uczestniczył w Powstaniu Warszawskim.
 
 ## Dwa procesy
-27 marca 1945 roku został aresztowany przez NKWD i wywieziony do Moskwy, gdzie sądzono go w procesie szesnastu. Po powrocie do kraju aresztowano go ponownie, tym razem przez UB, i w listopadzie 1948 roku skazano w pokazowym procesie działaczy PPS-WRN na dziesięć lat więzienia.
+27 marca 1945 roku NKWD aresztowało go w Pruszkowie razem z innymi przywódcami podziemia, zaproszonymi na rzekome rozmowy. W czerwcu 1945 roku w procesie szesnastu w Moskwie dostał półtora roku więzienia. Amnestionowany, wrócił do kraju i odmówił wymuszanej przez UB emigracji. W 1947 roku aresztowano go ponownie. W procesie przywódców PPS-WRN, rozpoczętym 5 listopada 1948 roku przed sądem wojskowym, skazano go na dziesięć lat więzienia.
 
 ## Śmierć
-Zmarł 30 kwietnia 1950 roku w więzieniu w Rawiczu. Jego los pokazuje, że dla nowej władzy socjaliści z tradycji niepodległościowej byli przeciwnikiem równie niewygodnym jak podziemie zbrojne – a może bardziej, bo mieli własną, konkurencyjną legitymację lewicową.`,
+Zmarł 30 kwietnia 1950 roku w więzieniu w Rawiczu, po zepchnięciu ze schodów, przez kilka dni pozbawiony pomocy lekarskiej. Pochowano go potajemnie na Powązkach. Jego los pokazuje, że dla nowej władzy niepodległościowi socjaliści byli przeciwnikiem równie niewygodnym jak podziemie zbrojne. Mieli bowiem własną, konkurencyjną legitymację lewicową.`,
     trivia: [
-      'Sądzono go dwukrotnie: najpierw w Moskwie w procesie szesnastu, potem w Warszawie w procesie działaczy PPS-WRN.',
-      'Przewodniczył Radzie Jedności Narodowej – podziemnemu parlamentowi działającemu pod okupacją.',
+      'Słynne zdanie „Jestem rzymskim katolikiem narodowości polskiej…”, przypisywane mu z procesu w 1948 roku, jest według Wikipedii fikcją literacką Marii Dąbrowskiej.',
+      'W czerwcu 1944 roku odmówił przyjęcia godności następcy prezydenta RP i zaproponował na swoje miejsce Tomasza Arciszewskiego.',
+      'Jego ukryte przed UB wspomnienia z lat wojny wydał w 1977 roku paryski Instytut Literacki w „Zeszytach Historycznych”.',
     ],
     resources: [
+      {
+        id: 'puzak-rjn',
+        title: 'Rada Jedności Narodowej – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Rada_Jedno%C5%9Bci_Narodowej',
+        source: 'Wikipedia',
+        description: 'Artykuł o podziemnym parlamencie Polskiego Państwa Podziemnego, którego przewodniczącym był Kazimierz Pużak.',
+      },
+      {
+        id: 'puzak-proces16',
+        title: 'Proces szesnastu – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Proces_szesnastu',
+        source: 'Wikipedia',
+        description: 'Artykuł o moskiewskim procesie przywódców Polski Podziemnej z czerwca 1945 roku, w którym sądzono także Pużaka.',
+      },
+      {
+        id: 'puzak-wrn',
+        title: 'PPS-WRN – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Polska_Partia_Socjalistyczna_%E2%80%93_Wolno%C5%9B%C4%87%2C_R%C3%B3wno%C5%9B%C4%87%2C_Niepodleg%C5%82o%C5%9B%C4%87',
+        source: 'Wikipedia',
+        description: 'Artykuł o konspiracyjnej PPS-WRN, której Pużak był jednym z przywódców w czasie okupacji.',
+      },
       {
         id: 'puzak-wiki',
         title: 'Kazimierz Pużak – artykuł',
@@ -32913,6 +33319,30 @@ Publicystyka Ciołkosza dowodziła, że sprzeciw wobec PRL nie był domeną wył
       'Krytykował Mikołajczyka za wejście do TRJN, uznając, że uwiarygodni to komunistów bez ograniczenia ich władzy.',
     ],
     resources: [
+      {
+        id: 'ciolkosz-pps-emigracja',
+        title: 'PPS na emigracji – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Polska_Partia_Socjalistyczna_%28na_emigracji%29',
+        source: 'Wikipedia',
+        description: 'Artykuł o emigracyjnej PPS, której jednym z przywódców był Adam Ciołkosz.',
+      },
+      {
+        id: 'ciolkosz-lidia',
+        title: 'Lidia Ciołkoszowa – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Lidia_Cio%C5%82koszowa',
+        source: 'Wikipedia',
+        description: 'Artykuł o żonie i współpracowniczce Adama Ciołkosza, historyczce i działaczce socjalistycznej na emigracji.',
+      },
+      {
+        id: 'ciolkosz-rwe-nagranie',
+        title: 'Adam Ciołkosz opowiada o walkach o Grodno – relacja dla Radia Wolna Europa',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=aFHf4rkcY-M',
+        source: 'YouTube',
+        description: 'Archiwalne nagranie głosu Ciołkosza, który dla RWE wspomina swój udział w wojnie 1920 roku.',
+      },
       {
         id: 'ciolkosz-wiki',
         title: 'Adam Ciołkosz – artykuł',
@@ -33062,6 +33492,30 @@ W PRL Katyń był tematem zakazanym, a oficjalna wersja obarczała winą Niemcó
     ],
     resources: [
       {
+        id: 'kukiel-katyn',
+        title: 'Zbrodnia katyńska – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Zbrodnia_katy%C5%84ska',
+        source: 'Wikipedia',
+        description: 'Artykuł o zbrodni katyńskiej, w sprawie której Kukiel w kwietniu 1943 roku ogłosił komunikat MON.',
+      },
+      {
+        id: 'kukiel-ptno',
+        title: 'Polskie Towarzystwo Naukowe na Obczyźnie – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Polskie_Towarzystwo_Naukowe_na_Obczy%C5%BAnie',
+        source: 'Wikipedia',
+        description: 'Artykuł o emigracyjnej korporacji uczonych w Londynie, z którą związany był Kukiel jako historyk.',
+      },
+      {
+        id: 'kukiel-mhp-katyn',
+        title: 'Katyń. Kłamstwo i milczenie (Muzeum Historii Polski)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=DJE5klURSms',
+        source: 'YouTube',
+        description: 'Materiał Muzeum Historii Polski o zbrodni katyńskiej i kłamstwie katyńskim.',
+      },
+      {
         id: 'kukiel-wiki',
         title: 'Marian Kukiel – artykuł',
         type: 'publikacja',
@@ -33149,19 +33603,23 @@ W 1957 roku powołał emigracyjną Akademię Literatury i ustanowił Nagrodę �
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Olszewski_3_%28cropped%29.jpg?width=800',
     imageCaption: 'Jan Olszewski, obrońca w procesach politycznych',
     content: `## Początki
-Jan Olszewski (1930–2019) był w czasie okupacji żołnierzem Szarych Szeregów i uczestnikiem Powstania Warszawskiego. Po wojnie został adwokatem – i tę rolę wykorzystał do działalności, którą inaczej trudno było prowadzić legalnie.
+Jan Olszewski urodził się w 1930 roku na warszawskim Bródnie. Jego matka była stryjeczną siostrą Stefana Okrzei. W czasie okupacji należał do Szarych Szeregów, a w Powstaniu Warszawskim był łącznikiem na Pradze. W 1953 roku ukończył prawo na Uniwersytecie Warszawskim. W latach 1956–1957 pisał w „Po prostu”, m.in. tekst wzywający do rehabilitacji żołnierzy AK. Potem na dwa lata zakazano mu publikowania, a na początku lat 60. został adwokatem.
 
 ## Obrońca
-Występował jako obrońca w najgłośniejszych procesach politycznych PRL, m.in. w sprawach działaczy opozycji z lat 60. i 70. oraz uczestników protestów robotniczych. Obrona w takim procesie oznaczała ryzyko: adwokatom odbierano prawo wykonywania zawodu, zakładano teczki, blokowano wyjazdy.
+W latach 60. bronił w najgłośniejszych procesach politycznych: Melchiora Wańkowicza w 1964 roku, Jacka Kuronia i Karola Modzelewskiego w 1965 roku, Janusza Szpotańskiego i Adama Michnika. Za obronę studentów zatrzymanych w Marcu 1968 roku zawieszono go w prawie wykonywania zawodu do 1970 roku. SB rozpracowywała go od 1963 roku w sprawie o kryptonimie „Obrońca”.
 
-## KOR i Solidarność
-Był jednym z założycieli Komitetu Obrony Robotników w 1976 roku, powstałego po represjach wobec robotników Radomia i Ursusa. W 1980 roku uczestniczył w postępowaniu rejestracyjnym NSZZ „Solidarność” – sporze prawnym o to, czy niezależny związek w ogóle może istnieć.
+## KOR i PPN
+W grudniu 1975 roku był inicjatorem i współautorem Listu 59 przeciw zmianom w konstytucji. W 1976 roku uczestniczył w zakładaniu Komitetu Obrony Robotników i współtworzył jego apel z 23 września. Celowo nie znalazł się jednak na liście ujawnionych członków KOR. Dzięki temu łatwiej mu było bronić robotników sądzonych po Czerwcu. Należał też do kierownictwa Polskiego Porozumienia Niepodległościowego. W 1977 roku napisał poradnik „Obywatel a Służba Bezpieczeństwa”.
+
+## Solidarność
+17 września 1980 roku w Gdańsku przedstawił, razem z Karolem Modzelewskim, koncepcję jednego ogólnopolskiego związku. Był współautorem pierwszego statutu Solidarności. Razem z Wiesławem Chrzanowskim prowadził jej postępowanie rejestracyjne przed sądem – spór o to, czy niezależny związek w ogóle może istnieć. W stanie wojennym bronił m.in. Wałęsy, Romaszewskiego i Bujaka. W procesie zabójców księdza Popiełuszki był pełnomocnikiem oskarżyciela posiłkowego.
 
 ## Później
-Po 1989 roku był premierem w latach 1991–1992. Jego droga – od obrony w procesach politycznych po urząd premiera – należy do typowych dla pokolenia opozycji prawniczej.`,
+W latach 1991–1992 był premierem. Jego droga – od sali sądowej w procesach politycznych po urząd premiera – należy do typowych dla pokolenia opozycji prawniczej. Zmarł w 2019 roku.`,
     trivia: [
-      'Bronił w procesach politycznych, choć adwokatom groziło za to odebranie prawa wykonywania zawodu.',
-      'W 1980 roku uczestniczył w postępowaniu o rejestrację Solidarności – sporze o samo prawo istnienia niezależnego związku.',
+      'Celowo nie umieszczono go na liście ujawnionych członków KOR, by łatwiej mógł bronić robotników represjonowanych po Czerwcu 1976.',
+      'Za obronę studentów zatrzymanych w Marcu 1968 roku przez dwa lata nie mógł wykonywać zawodu adwokata.',
+      'Jego poradnik „Obywatel a Służba Bezpieczeństwa” z 1977 roku stał się instrukcją dla opozycjonistów rozpracowywanych przez SB.',
     ],
     resources: [
       {
@@ -33219,6 +33677,30 @@ Zmarł w październiku 1948 roku. Jego następcą został Stefan Wyszyński, kt�
     ],
     resources: [
       {
+        id: 'hlond-ipn-portrety',
+        title: 'Kardynał August Hlond – cykl Portrety, odc. 16 (IPNtv)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=7uJ-h-LjgZs',
+        source: 'YouTube',
+        description: 'Rozmowa historyków IPN o prymasie Hlondzie i jego postawie wobec nowej władzy po 1945 roku.',
+      },
+      {
+        id: 'hlond-pogrzeb-1948',
+        title: 'Ceremonie pogrzebowe prymasa Augusta Hlonda (Warszawa 1948)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=Z0T4J8ThegI',
+        source: 'YouTube',
+        description: 'Archiwalne ujęcia z uroczystości pogrzebowych kardynała Hlonda w Warszawie w 1948 roku.',
+      },
+      {
+        id: 'hlond-wyszynski',
+        title: 'Stefan Wyszyński – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Stefan_Wyszy%C5%84ski',
+        source: 'Wikipedia',
+        description: 'Artykuł o następcy Hlonda na stolicy prymasowskiej, prymasie w latach 1948–1981.',
+      },
+      {
         id: 'hlond-wiki',
         title: 'Kard. August Hlond – artykuł',
         type: 'publikacja',
@@ -33264,6 +33746,30 @@ Zmarł w 1951 roku, u progu najostrzejszej fazy konfliktu państwa z Kościołem
       'W 1946 roku wyświęcił na kapłana Karola Wojtylę i skierował go na studia do Rzymu.',
     ],
     resources: [
+      {
+        id: 'sapieha-ipn-krakow',
+        title: 'Świadek dziejów narodu. Kard. Adam Stefan Sapieha w dokumentach archiwalnych (IPN Kraków)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=Lhd7Dab8NtU',
+        source: 'YouTube',
+        description: 'Spotkanie IPN Kraków poświęcone Sapieże na podstawie dokumentów archiwalnych.',
+      },
+      {
+        id: 'sapieha-proces-kurii',
+        title: 'Proces księży kurii krakowskiej – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Proces_ksi%C4%99%C5%BCy_kurii_krakowskiej',
+        source: 'Wikipedia',
+        description: 'Artykuł o pokazowym procesie z 1953 roku wymierzonym w kurię krakowską, którą wcześniej kierował Sapieha.',
+      },
+      {
+        id: 'sapieha-seminarium',
+        title: 'Wyższe Seminarium Duchowne Archidiecezji Krakowskiej – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Wy%C5%BCsze_Seminarium_Duchowne_Archidiecezji_Krakowskiej',
+        source: 'Wikipedia',
+        description: 'Artykuł o krakowskim seminarium, które w czasie okupacji Sapieha prowadził w konspiracji.',
+      },
       {
         id: 'sapieha-wiki',
         title: 'Kard. Adam Sapieha – artykuł',
@@ -33398,20 +33904,24 @@ Internowany 13 grudnia 1981 roku, następnie aresztowany i przetrzymywany do 198
     summary: 'Przewodniczący bydgoskiej Solidarności, pobity w marcu 1981 roku podczas sesji Wojewódzkiej Rady Narodowej – co doprowadziło kraj na próg strajku generalnego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Rulewski_Kancelaria_Senatu_2015.jpg?width=800',
     imageCaption: 'Jan Rulewski (fot. współczesna)',
-    content: `## Działacz z Bydgoszczy
-Jan Rulewski (ur. 1944) stanął na czele bydgoskiego regionu Solidarności zaraz po powstaniu związku. Region ten był jednym z aktywniejszych w kraju, a Rulewski – jednym z bardziej stanowczych przywódców regionalnych.
+    content: `## Buntownik z Bydgoszczy
+Jan Rulewski urodził się w 1944 roku w Bydgoszczy. W 1965 roku wydalono go z Wojskowej Akademii Technicznej, bo odmówił udziału w wyborach. Karnie powołany do wojska, próbował uciec z kraju, ale zatrzymano go w Czechosłowacji. W 1966 roku skazano go za dezercję na pięć lat więzienia, a wyszedł na mocy amnestii w 1969 roku. W latach 70. pracował w bydgoskich Zakładach Rowerowych.
 
-## Marzec 1981
-19 marca 1981 roku, podczas sesji Wojewódzkiej Rady Narodowej w Bydgoszczy, działacze Solidarności domagający się głosu zostali usunięci z sali i pobici przez funkcjonariuszy milicji. Rulewski odniósł najpoważniejsze obrażenia; zdjęcia jego zakrwawionej twarzy obiegły kraj.
+## Przewodniczący regionu
+W latach 1980–1981 stał na czele bydgoskiego regionu Solidarności. Należał do stanowczych przywódców, skłonnych do konfrontacji z władzą.
+
+## 19 marca 1981
+Na sesję Wojewódzkiej Rady Narodowej, poświęconą rolnikom indywidualnym, przyszło 35 związkowców z Rulewskim na czele. Żądali zgody na wiejską Solidarność. Przewodniczący rady niespodziewanie zamknął obrady, a związkowcy zostali w budynku. Około godziny 19 milicja ruszyła na nich z pałkami. Pobitych Rulewskiego, Michała Bartoszcze i Mariusza Łabentowicza zabrano do szpitala. Kto zdecydował o pobiciu, do dziś właściwie nie wiadomo.
 
 ## Na progu strajku generalnego
-Reakcją była fala oburzenia i przygotowania do strajku generalnego – największej próby sił między związkiem a władzą przed stanem wojennym. Do strajku ostatecznie nie doszło: 30 marca podpisano porozumienie warszawskie, co część działaczy uznała za kapitulację kierownictwa.
+W związku narastały radykalne nastroje i żądania strajku generalnego. 27 marca odbył się czterogodzinny strajk ostrzegawczy – największy w historii PRL. Strajk generalny zaplanowano na 31 marca. Do niego nie doszło, bo 30 marca zawarto porozumienie warszawskie. Rząd przyznał w nim, że w Bydgoszczy postąpiono niewłaściwie. Wielu działaczy uznało jednak, że wynegocjowano zbyt mało. Kryzys bydgoski był jednym z punktów zwrotnych 1981 roku.
 
-## Później
-Internowany w stanie wojennym, potem więziony. Po 1989 roku był posłem i senatorem. Wydarzenia bydgoskie pozostały jednym z punktów zwrotnych roku 1981.`,
+## Internowanie i później
+13 grudnia 1981 roku zatrzymano go w sopockim Grand Hotelu i internowano, a potem jako jednego z nielicznych aresztowano. Wyszedł na mocy amnestii w sierpniu 1984 roku, a pod koniec lat 80. jeździł taksówką. Po 1989 roku był posłem trzech kadencji i senatorem.`,
     trivia: [
-      'Zdjęcia jego pobitej twarzy stały się jednym z najbardziej rozpoznawalnych obrazów 1981 roku.',
-      'Po wydarzeniach bydgoskich kraj stanął na progu strajku generalnego; odwołano go po porozumieniu z 30 marca.',
+      'W 1966 roku skazano go na pięć lat więzienia za dezercję po nieudanej próbie ucieczki z kraju przez Czechosłowację.',
+      'Obelisk upamiętniający wydarzenia bydgoskie przed urzędem wojewódzkim bydgoszczanie nazwali „zębem Rulewskiego”.',
+      'Pod koniec lat 80. przewodniczący regionu Solidarności pracował jako taksówkarz.',
     ],
     resources: [
       {
@@ -33510,22 +34020,50 @@ W listopadzie 1987 roku współtworzył w kraju Polską Partię Socjalistyczną 
     summary: 'Prawnik i publicysta katolicki, poseł koła Znak w latach 1957–1976; w 1976 roku jako jedyny nie zagłosował za zmianami w konstytucji.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw_Stomma.jpg?width=800',
     imageCaption: 'Stanislaw Stomma',
-    content: `## Znak w Sejmie
-Stanisław Stomma (1908–2005), prawnik i publicysta związany z „Tygodnikiem Powszechnym”, zasiadał w Sejmie PRL od 1957 do 1976 roku z ramienia koła poselskiego Znak. Było to jedyne środowisko w parlamencie niepodporządkowane bezpośrednio partii – kilkuosobowa reprezentacja katolików świeckich, dopuszczona po Październiku.
+    content: `## Prawnik z Wilna
+Stanisław Stomma urodził się w 1908 roku na Litwie, a studiował prawo w Wilnie, gdzie obronił doktorat z prawa karnego. Po wojnie związał się z „Tygodnikiem Powszechnym” i miesięcznikiem „Znak”. Już w 1946 roku szukał kompromisu między katolicyzmem a socjalizmem, za co część środowisk katolickich zarzucała mu kapitulanctwo. W 1953 roku, po odsunięciu redakcji „Tygodnika”, przez rok był bezrobotny.
+
+## Znak w Sejmie
+Po Październiku 1956 roku Stomma i jego środowisko uzyskali możliwość wejścia do Sejmu. W wyborach 1957 roku zdobył w Krakowie ponad 249 tysięcy głosów, więcej niż premier Józef Cyrankiewicz. Przez pięć kadencji, do 1976 roku, przewodniczył kilkuosobowemu kołu posłów „Znak”. Głosił program „neopozytywizmu”: akceptował sojusz z ZSRR i władzę PZPR jako realia, ale domagał się swobód dla katolików i demokratyzacji.
 
 ## Granice tej roli
-Znak nie miał realnego wpływu na ustawodawstwo. Jego rola polegała na zabieraniu głosu w sprawach, o których inni milczeli, i na tym, że sama jego obecność świadczyła o istnieniu środowiska niezależnego. Władze traktowały koło jako dowód rzekomego pluralizmu.
+Koło nie miało realnego wpływu na ustawodawstwo. Jego siłą było zabieranie głosu tam, gdzie inni milczeli. W marcu 1968 roku posłowie „Znaku” złożyli interpelację w obronie studentów pobitych przez milicję, co ściągnęło na nich ataki w Sejmie. Od co najmniej 1961 roku SB podsłuchiwała mieszkanie Stommy.
 
 ## Rok 1976
-Gdy Sejm głosował nad zmianami w konstytucji, wpisującymi do niej kierowniczą rolę PZPR i sojusz z ZSRR, Stomma jako jedyny poseł nie zagłosował za. Kosztowało go to mandat – w kolejnej kadencji nie znalazł się na liście.
+W lutym 1976 roku Sejm głosował nad zmianami w konstytucji, wpisującymi do niej kierowniczą rolę PZPR i sojusz z ZSRR. Stomma jako jedyny poseł ich nie poparł – wstrzymał się od głosu. Uważał, że zmiany utrwalą władzę pozbawioną społecznej kontroli. Kosztowało go to mandat: władze nie pozwoliły mu kandydować w kolejnych wyborach.
 
 ## Później
-W latach 1981–1984 przewodniczył Prymasowskiej Radzie Społecznej. Po 1989 roku był senatorem pierwszej kadencji i marszałkiem seniorem Senatu.`,
+W sierpniu 1980 roku podpisał apel 64 intelektualistów o dialog ze strajkującymi. Od grudnia 1981 do 1984 roku przewodniczył Prymasowskiej Radzie Społecznej i był głównym autorem jej tez o ugodzie społecznej. W latach 1989–1991 był senatorem i marszałkiem seniorem Senatu. Zmarł w 2005 roku.`,
     trivia: [
-      'W 1976 roku był jedynym posłem, który nie zagłosował za zmianami wpisującymi do konstytucji kierowniczą rolę PZPR.',
-      'Koło Znak było jedyną w Sejmie PRL reprezentacją niepodporządkowaną bezpośrednio partii.',
+      'W lutym 1976 roku nie głosował przeciw zmianom w konstytucji, lecz wstrzymał się od głosu – i był jedynym posłem, który ich nie poparł.',
+      'W 1969 roku jako pierwszy polski poseł został przyjęty przez prezydenta RFN Gustava Heinemanna.',
+      'Za artykuł z 1963 roku krytykujący kult powstania styczniowego publicznie skrytykował go prymas Stefan Wyszyński.',
     ],
     resources: [
+      {
+        id: 'stomma-senior-film',
+        title: '„Senior” – filmowy portret Stanisława Stommy (Video Studio Gdańsk)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=6hhugcCIHs4',
+        source: 'YouTube',
+        description: 'Film dokumentalny o Stommie, założycielu koła poselskiego Znak, który w 1976 roku jako jedyny nie głosował za zmianami w konstytucji.',
+      },
+      {
+        id: 'stomma-znak',
+        title: 'Ruch „Znak” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Znak_%28ruch%29',
+        source: 'Wikipedia',
+        description: 'Artykuł o środowisku katolików świeckich Znak i jego kole poselskim, którego liderem był Stomma.',
+      },
+      {
+        id: 'stomma-konstytucja-1976',
+        title: 'Konstytucja PRL – tekst jednolity z 1976 roku',
+        type: 'akt',
+        url: 'https://pl.wikisource.org/wiki/Konstytucja_Polskiej_Rzeczypospolitej_Ludowej_%28tekst_jednolity_z_16_lutego_1976%29',
+        source: 'Wikisource',
+        description: 'Pełny tekst konstytucji PRL po nowelizacji z 1976 roku, przeciw której Stomma nie oddał głosu.',
+      },
       {
         id: 'stomma-wiki',
         title: 'Stanisław Stomma – artykuł',
@@ -33572,6 +34110,30 @@ W latach 70. zasiadał w Radzie Państwa. Jego biografia – od przedwojennego r
       'Wyszedł z więzienia NKWD po rozmowach z gen. Iwanem Sierowem i wkrótce zaczął budować PAX.',
     ],
     resources: [
+      {
+        id: 'piasecki-ipn-film',
+        title: 'Bolesław Piasecki. Początki drogi – cykl Oblicza historii (IPNtv)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=JihoBIiDGjA',
+        source: 'YouTube',
+        description: 'Rozmowa historyków IPN o drodze Piaseckiego od przedwojennej Falangi do powojennej współpracy z władzą.',
+      },
+      {
+        id: 'piasecki-pax',
+        title: 'Stowarzyszenie PAX – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Stowarzyszenie_%E2%80%9EPax%E2%80%9D',
+        source: 'Wikipedia',
+        description: 'Artykuł o stowarzyszeniu katolików świeckich założonym przez Piaseckiego i związanym z władzami PRL.',
+      },
+      {
+        id: 'piasecki-bohdan',
+        title: 'Zabójstwo Bohdana Piaseckiego – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Zab%C3%B3jstwo_Bohdana_Piaseckiego',
+        source: 'Wikipedia',
+        description: 'Artykuł o porwaniu i zabójstwie syna Bolesława Piaseckiego w 1957 roku.',
+      },
       {
         id: 'piasecki-wiki',
         title: 'Bolesław Piasecki – artykuł',
@@ -33793,30 +34355,55 @@ Los gazety jest dokładnym odbiciem losu samej PPS: formalnie połączenie równ
   {
     id: 'zycie-warszawy',
     title: '„Życie Warszawy”',
-    subtitle: 'Dziennik miasta, nie partii',
+    subtitle: 'Stołeczny dziennik od 1944 roku',
     category: 'kultura',
     tags: ['prasa', 'Warszawa', 'media', 'życie codzienne'],
     yearStart: 1944,
     yearEnd: 1989,
-    summary: 'Warszawski dziennik wychodzący od 15 października 1944 roku – jedna z najpopularniejszych gazet PRL, czytana dla informacji miejskiej i ogłoszeń.',
+    summary: 'Warszawski dziennik wychodzący od 15 października 1944 do 2011 roku – obok „Trybuny Ludu” jeden z opiniotwórczych dzienników PRL, wydawany od 1951 roku przez partyjny koncern RSW „Prasa”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zycie_Warszawy_1944_nr_1.jpg?width=800',
     imageCaption: 'Pierwszy numer z 1944 roku',
-    content: `## Od 1944 roku
-„Życie Warszawy” zaczęło wychodzić 15 października 1944 roku, jeszcze przed końcem wojny, w mieście leżącym w gruzach. Przetrwało cały okres PRL i ukazywało się do 2011 roku.
+    content: `## Początek na Pradze
+Pierwszy numer „Życia Warszawy” datowano na 15 października 1944 roku. Lewobrzeżna Warszawa była wtedy wciąż w rękach Niemców, a gazetę robiono na Pradze. Źródła różnią się co do inicjatora: wskazuje się Polską Partię Robotniczą albo Mariana Spychalskiego, pierwszego powojennego prezydenta Warszawy. Nazwa miała mówić Polsce i światu, że Warszawa żyje.
 
-## Czym się różniło
-Formalnie podlegało tym samym regułom co cała prasa: cenzurze, przydziałowi papieru i nadzorowi partyjnemu. W praktyce, jako dziennik miejski, zajmowało się sprawami, które nie miały ciężaru ideologicznego: komunikacją, zaopatrzeniem sklepów, remontami, kulturą, sportem. To czyniło je gazetą realnie czytaną.
+## Druk w ruinach
+Pierwszy, czterostronicowy numer miał nakład 1,5 tysiąca egzemplarzy (według innego źródła 3 tysięcy). Drukarnia przy ulicy Grochowskiej nie miała szyb, prądu ani wody. Skład ręczny trwał 11 godzin, a z braku elektryczności odbijano gazetę na maszynie z napędem nożnym. Gdy skończył się papier, drukowano na papierze pakowym z zakładów Wedla. Wiosną 1945 roku druk przeniesiono do Domu Prasy przy Marszałkowskiej.
 
-## Ogłoszenia
-Dużą część nakładu napędzały ogłoszenia drobne. W gospodarce niedoboru rubryka z ofertami zamiany mieszkania, sprzedaży części samochodowych czy korepetycji bywała praktyczniejsza niż wszystko inne w gazecie.
+## Gazeta w systemie
+Najpierw wydawał ją „Czytelnik”, a od 1951 roku partyjny koncern RSW „Prasa”. Dziennik podlegał więc tym samym regułom co cała prasa PRL: cenzurze i nadzorowi partii. Mimo to był, obok „Trybuny Ludu”, jednym z opiniotwórczych dzienników kraju. Pisał wiele o sprawach stolicy, a w latach 1959–1980 przyznawał najlepszym warszawskim budynkom tytuł Mistera Warszawy. W latach 1970–1981 ukazywał się dodatek „Życie i Nowoczesność” redagowany przez Stefana Bratkowskiego.
 
-## Miejsce w systemie prasy
-Prasa PRL miała wyraźną hierarchię: organy centralne partii wykładały linię, dzienniki regionalne i miejskie obsługiwały codzienność, a pisma społeczno-kulturalne były polem, na którym co pewien czas dało się powiedzieć więcej.`,
+## Stan wojenny i koniec
+Po 13 grudnia 1981 roku wydawanie gazety zawieszono, a wznowiono ją 16 stycznia 1982 roku. Po 1991 roku dziennik należał do kolejnych prywatnych wydawców. Ostatni samodzielny numer ukazał się 17 grudnia 2011 roku. Później nazwa przetrwała jako warszawski dodatek do „Rzeczpospolitej”.`,
     trivia: [
-      'Pierwszy numer ukazał się 15 października 1944 roku, gdy wojna jeszcze trwała.',
-      'W gospodarce niedoboru rubryka ogłoszeń drobnych bywała najużyteczniejszą częścią gazety.',
+      'Gdy zabrakło papieru, pierwsze numery drukowano na papierze pakowym z zakładów Wedla.',
+      'Z braku prądu pierwszy numer odbito na maszynie z napędem nożnym, a ręczny skład trwał 11 godzin.',
+      'W latach 1959–1980 gazeta przyznawała najlepszym nowym budynkom stolicy tytuł Mistera Warszawy.',
     ],
     resources: [
+      {
+        id: 'zycie-warszawy-dsh-prasa',
+        title: 'Warszawa 1945–55: przegląd prasy (Dom Spotkań z Historią)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=sNSTtyubD7Y',
+        source: 'YouTube',
+        description: 'Michał Ogórek omawia, o czym pisały „Życie Warszawy” i „Trybuna Ludu” w latach 40. i 50. oraz jakie tematy były wówczas tabu.',
+      },
+      {
+        id: 'zycie-warszawy-rsw',
+        title: 'RSW „Prasa-Książka-Ruch” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Robotnicza_Sp%C3%B3%C5%82dzielnia_Wydawnicza_%E2%80%9EPrasa-Ksi%C4%85%C5%BCka-Ruch%E2%80%9D',
+        source: 'Wikipedia',
+        description: 'Artykuł o partyjnym koncernie prasowym RSW, który wydawał większość dzienników PRL, w tym prasę warszawską.',
+      },
+      {
+        id: 'zycie-warszawy-gukppiw',
+        title: 'Główny Urząd Kontroli Prasy, Publikacji i Widowisk – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/G%C5%82%C3%B3wny_Urz%C4%85d_Kontroli_Prasy%2C_Publikacji_i_Widowisk',
+        source: 'Wikipedia',
+        description: 'Artykuł o urzędzie cenzury, któremu podlegała cała prasa PRL, łącznie z dziennikami miejskimi.',
+      },
       {
         id: 'zycie-warszawy-wiki',
         title: '„Życie Warszawy” – artykuł',
@@ -34159,7 +34746,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1968, event: 'Ryszard Siwiec dokonuje samospalenia w proteście przeciw inwazji na Czechosłowację', category: 'represje', entryId: 'ryszard-siwiec' },
   { year: 1980, event: 'Władysław Frasyniuk współtworzy Solidarność na Dolnym Śląsku', category: 'opozycja', entryId: 'frasyniuk' },
   { year: 1983, event: 'Witold Lutosławski kończy III Symfonię – arcydzieło muzyki współczesnej', category: 'kultura', entryId: 'lutoslawski' },
-  { year: 1946, event: 'Powołanie ORMO – paramilitarna formacja wspierająca milicję', category: 'represje', entryId: 'ormo' },
+  { year: 1946, event: '21 lutego – powołanie ORMO, paramilitarnej formacji wspierającej milicję', category: 'represje', entryId: 'ormo' },
   { year: 1948, event: '„Trybuna Ludu” staje się centralnym organem prasowym PZPR', category: 'społeczeństwo', entryId: 'trybuna-ludu' },
   { year: 1955, event: 'Otwarcie Stadionu Dziesięciolecia w Warszawie', category: 'społeczeństwo', entryId: 'stadion-dziesieciolecia' },
   { year: 1985, event: 'Powstaje Ruch „Wolność i Pokój” – pacyfistyczna opozycja', category: 'opozycja', entryId: 'wolnosc-i-pokoj' },
@@ -34219,7 +34806,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1952, event: 'Władze rozbudowują system zagłuszania Radia Wolna Europa', category: 'represje', entryId: 'zagluszanie-radia' },
   { year: 1971, event: 'Polska Telewizja rozpoczyna regularne nadawanie w kolorze', category: 'społeczeństwo', entryId: 'telewizja-kolorowa' },
   { year: 1978, event: 'Marek Kotański zakłada pierwszy ośrodek Monaru – walka z narkomanią', category: 'społeczeństwo', entryId: 'kotanski-marek' },
-  { year: 1980, event: 'Porozumienie Szczecińskie kończy strajk w Stoczni Szczecińskiej', category: 'opozycja', entryId: 'stocznia-szczecinska' },
+  { year: 1980, event: '30 sierpnia – porozumienie szczecińskie kończy strajk w Stoczni Szczecińskiej', category: 'opozycja', entryId: 'stocznia-szczecinska' },
   { year: 1980, event: 'Henryka Krzywonos przyłącza komunikację do sierpniowego strajku', category: 'opozycja', entryId: 'krzywonos-henryka' },
   { year: 1963, event: 'Debiut Włodzimierza Lubańskiego w Górniku Zabrze', category: 'społeczeństwo', entryId: 'lubanski-gornik' },
   { year: 1964, event: 'Proces Melchiora Wańkowicza za tekst dla Radia Wolna Europa', category: 'represje', entryId: 'proces-wankowicza' },
@@ -34308,7 +34895,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1975, event: 'Reforma administracyjna – Jelenia Góra stolicą województwa', category: 'społeczeństwo', entryId: 'jelenia-gora' },
   { year: 1984, event: 'Klaus Mitffoch wydaje przełomowy album nowej fali', category: 'kultura', entryId: 'klaus-mitffoch' },
   { year: 1978, event: 'Premiera telewizyjna serialu „Lalka” Ryszarda Bera wg Bolesława Prusa', category: 'kultura', entryId: 'lalka-serial' },
-  { year: 1980, event: 'Emisja serialu „Kariera Nikodema Dyzmy” z Romanem Wilhelmim', category: 'kultura', entryId: 'kariera-nikodema-dyzmy' },
+  { year: 1980, event: '6 kwietnia – początek emisji serialu „Kariera Nikodema Dyzmy” z Romanem Wilhelmim', category: 'kultura', entryId: 'kariera-nikodema-dyzmy' },
   { year: 1984, event: 'Aya RL odnosi sukces w Jarocinie przebojem „Skóra”', category: 'kultura', entryId: 'aya-rl' },
   { year: 1949, event: 'Otwarcie Trasy W-Z – symbol odbudowy Warszawy', category: 'społeczeństwo', entryId: 'trasa-wz' },
   { year: 1952, event: 'Otwarcie MDM i placu Konstytucji – sztandar socrealizmu', category: 'społeczeństwo', entryId: 'mdm-marszalkowska' },
@@ -34550,13 +35137,13 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1945, event: 'Zachód cofa uznanie rządowi Tomasza Arciszewskiego w Londynie', category: 'osoby', entryId: 'arciszewski' },
   { year: 1948, event: 'Kazimierz Pużak skazany w pokazowym procesie działaczy PPS-WRN', category: 'osoby', entryId: 'puzak' },
   { year: 1943, event: 'Komunikat gen. Kukiela o zaginionych oficerach poprzedza sprawę Katynia', category: 'osoby', entryId: 'kukiel' },
-  { year: 1976, event: 'Jan Olszewski wśród założycieli Komitetu Obrony Robotników', category: 'osoby', entryId: 'olszewski-jan' },
+  { year: 1976, event: 'Jan Olszewski współtworzy Komitet Obrony Robotników, pozostając poza listą jego jawnych członków', category: 'osoby', entryId: 'olszewski-jan' },
   { year: 1945, event: 'Kard. Hlond organizuje administrację kościelną na ziemiach zachodnich', category: 'osoby', entryId: 'hlond' },
   { year: 1953, event: 'Pokazowy proces biskupa Czesława Kaczmarka – wyrok 12 lat więzienia', category: 'osoby', entryId: 'kaczmarek-biskup' },
   { year: 1978, event: 'Andrzej Gwiazda wśród założycieli Wolnych Związków Zawodowych Wybrzeża', category: 'osoby', entryId: 'gwiazda' },
   { year: 1981, event: 'Pobicie Jana Rulewskiego w Bydgoszczy; kraj na progu strajku generalnego', category: 'osoby', entryId: 'rulewski' },
   { year: 1987, event: 'Jan Józef Lipski współtworzy reaktywowaną PPS', category: 'osoby', entryId: 'lipski' },
-  { year: 1976, event: 'Stanisław Stomma jako jedyny poseł nie popiera zmian w konstytucji', category: 'osoby', entryId: 'stomma' },
+  { year: 1976, event: 'Luty – Stanisław Stomma jako jedyny poseł nie popiera zmian w konstytucji i wstrzymuje się od głosu', category: 'osoby', entryId: 'stomma' },
   { year: 1989, event: 'Leszek Balcerowicz ministrem finansów w rządzie Mazowieckiego', category: 'osoby', entryId: 'balcerowicz' },
   { year: 1947, event: 'Wezwanie Wincentego Pstrowskiego rozpoczyna masowe współzawodnictwo pracy', category: 'osoby', entryId: 'pstrowski' },
   { year: 1959, event: 'Jarosław Iwaszkiewicz prezesem Związku Literatów Polskich', category: 'osoby', entryId: 'iwaszkiewicz' },
@@ -34624,4 +35211,32 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1988, event: '23 grudnia – ustawa Wilczka otwiera drogę prywatnej przedsiębiorczości', category: 'gospodarka', entryId: 'gospodarka-prl' },
   { year: 1946, event: '28 sierpnia – egzekucja siedemnastoletniej Danuty Siedzikówny „Inki”', category: 'represje', entryId: 'inka-siedzikowna' },
   { year: 1981, event: 'powstaje Polski Związek Działkowców, zrzeszający ogrody pracownicze', category: 'społeczeństwo', entryId: 'ogrodki-dzialkowe' },
+  { year: 1971, event: '24 stycznia – Edward Gierek rozmawia ze strajkującymi stoczniowcami w Szczecinie', category: 'polityka', entryId: 'stocznia-szczecinska' },
+  { year: 1980, event: '18 sierpnia – początek strajku w Stoczni Szczecińskiej pod kierunkiem Mariana Jurczyka', category: 'opozycja', entryId: 'stocznia-szczecinska' },
+  { year: 1954, event: '22 lipca – uruchomienie kombinatu metalurgicznego im. Lenina w Nowej Hucie', category: 'gospodarka', entryId: 'nowa-huta' },
+  { year: 1977, event: '15 maja – kardynał Karol Wojtyła konsekruje Arkę Pana w Nowej Hucie', category: 'społeczeństwo', entryId: 'nowa-huta' },
+  { year: 1982, event: '13 października – Bogdan Włosik zastrzelony przez funkcjonariusza SB w Nowej Hucie', category: 'represje', entryId: 'nowa-huta' },
+  { year: 1944, event: '15 października – pierwszy numer „Życia Warszawy”, drukowany na Pradze', category: 'kultura', entryId: 'zycie-warszawy' },
+  { year: 1982, event: '16 stycznia – wznowienie „Życia Warszawy” po zawieszeniu w stanie wojennym', category: 'kultura', entryId: 'zycie-warszawy' },
+  { year: 1957, event: 'Debiut Beaty Tyszkiewicz rolą Klary w „Zemście” Antoniego Bohdziewicza', category: 'kultura', entryId: 'beata-tyszkiewicz' },
+  { year: 1968, event: 'Beata Tyszkiewicz jako Izabela Łęcka w „Lalce” Wojciecha Hasa', category: 'kultura', entryId: 'beata-tyszkiewicz' },
+  { year: 1947, event: '5 lutego – Sejm Ustawodawczy wybiera Bolesława Bieruta na prezydenta', category: 'polityka', entryId: 'bierut' },
+  { year: 1948, event: '22 grudnia – Bolesław Bierut sekretarzem generalnym nowo powstałej PZPR', category: 'polityka', entryId: 'bierut' },
+  { year: 1945, event: '27 marca – NKWD aresztuje Kazimierza Pużaka i innych przywódców Polskiego Państwa Podziemnego', category: 'represje', entryId: 'puzak' },
+  { year: 1950, event: '30 kwietnia – Kazimierz Pużak umiera w więzieniu w Rawiczu', category: 'represje', entryId: 'puzak' },
+  { year: 1981, event: '27 marca – czterogodzinny strajk ostrzegawczy Solidarności po wydarzeniach bydgoskich', category: 'opozycja', entryId: 'rulewski' },
+  { year: 1981, event: '30 marca – porozumienie warszawskie, odwołanie strajku generalnego', category: 'opozycja', entryId: 'rulewski' },
+  { year: 1976, event: '25 czerwca – protestujący podpalają gmach KW PZPR w Radomiu, rząd wieczorem odwołuje podwyżki', category: 'opozycja', entryId: 'czerwiec-1976' },
+  { year: 1976, event: '18 sierpnia – umiera ks. Roman Kotlarz, duszpasterz radomskich robotników, prawdopodobnie skatowany przez SB', category: 'represje', entryId: 'czerwiec-1976' },
+  { year: 1970, event: '23 grudnia – Piotr Jaroszewicz zostaje premierem', category: 'polityka', entryId: 'jaroszewicz' },
+  { year: 1980, event: '18 lutego – Piotr Jaroszewicz odwołany z urzędu premiera na VIII Zjeździe PZPR', category: 'polityka', entryId: 'jaroszewicz' },
+  { year: 1967, event: '13 czerwca – ustawa o ORMO określa uprawnienia ormowców', category: 'represje', entryId: 'ormo' },
+  { year: 1989, event: '23 listopada – Sejm rozwiązuje ORMO', category: 'polityka', entryId: 'ormo' },
+  { year: 1989, event: '24 sierpnia – Sejm wybiera Tadeusza Mazowieckiego na premiera', category: 'polityka', entryId: 'wybory-1989' },
+  { year: 1976, event: 'Monopol FJN na zgłaszanie kandydatów w wyborach zapisany oficjalnie', category: 'polityka', entryId: 'front-jednosci-narodu' },
+  { year: 1983, event: 'Front Jedności Narodu rozwiązany i zastąpiony przez PRON', category: 'polityka', entryId: 'front-jednosci-narodu' },
+  { year: 1968, event: 'Marzec – posłowie koła Znak składają interpelację w obronie pobitych studentów', category: 'opozycja', entryId: 'stomma' },
+  { year: 1981, event: 'Grudzień – Stanisław Stomma przewodniczącym Prymasowskiej Rady Społecznej', category: 'osoby', entryId: 'stomma' },
+  { year: 1975, event: 'Grudzień – Jan Olszewski współautorem Listu 59 przeciw zmianom w konstytucji', category: 'opozycja', entryId: 'olszewski-jan' },
+  { year: 1980, event: '17 września – Olszewski i Modzelewski proponują w Gdańsku jeden ogólnopolski związek', category: 'opozycja', entryId: 'olszewski-jan' },
 ];
