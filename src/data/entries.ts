@@ -988,20 +988,24 @@ W grudniu 1970 roku, po podwyżce cen tuż przed świętami, wybuchły protesty 
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Gierek%2C%201973.png?width=800',
     imageCaption: 'Edward Gierek, I sekretarz KC PZPR (1973).',
     trivia: [
-      'Młodość spędził jako górnik we Francji i Belgii, co odróżniało go od kierownictwa wychowanego w Moskwie.',
-      'W stanie wojennym został internowany przez własną partię.',
+      'Do Francji wyjechał za rodziną jako dziesięciolatek i pracował tam w kopalni.',
+      'W stanie wojennym został internowany przez własną partię w Głębokiem koło Koszalina.',
+      'Odebrano mu polską emeryturę – żył z renty francuskiej i belgijskiej emerytury.',
     ],
-    content: `## Dojście do władzy
-Edward Gierek (1913–2001) większość młodości spędził jako górnik we Francji i Belgii, co odróżniało go od kierownictwa wychowanego w Moskwie. Władzę objął w grudniu 1970 roku, po masakrze na Wybrzeżu i upadku Gomułki.
+    content: `## Górnik z emigracji
+Edward Gierek (1913–2001) urodził się w Porąbce, dziś dzielnicy Sosnowca. Jego ojciec zginął w kopalni. W 1923 roku jako dziesięciolatek dołączył do rodziny we Francji i pracował w kopalni w Pas-de-Calais, a potem w Belgii. Do Polski wrócił w 1948 roku. Doświadczenie emigracyjne odróżniało go od kierownictwa wychowanego w Moskwie. Przez lata kierował partią w województwie katowickim.
 
 ## Pomożecie?
-W styczniu 1971 roku pojechał do strajkujących stoczni w Szczecinie i Gdańsku i rozmawiał z załogami przez wiele godzin. Pytanie „Pomożecie?” i odpowiedź „Pomożemy!” weszły do języka jako skrót całej jego metody: obietnica i osobisty kontakt zamiast siły.
+Władzę objął w grudniu 1970 roku, po krwawo stłumionych protestach na Wybrzeżu i upadku Gomułki. Na początku 1971 roku pojechał do strajkujących stoczni w Szczecinie i Gdańsku. Jego pytanie „No to jak, towarzysze, pomożecie?” przeszło do języka jako skrót całej metody: obietnicy i osobistego kontaktu zamiast siły.
 
 ## Dekada na kredyt
-Lata 70. przyniosły zakupy licencji na Zachodzie, wielkie inwestycje, wzrost płac i realnie odczuwalną poprawę życia. Finansowano to kredytami, licząc, że eksport je spłaci. Gdy eksport zawiódł, powstało zadłużenie, które sparaliżowało gospodarkę lat 80.
+Do ok. 1976 roku trwała dynamiczna modernizacja: zakupy licencji na Zachodzie, wielkie inwestycje, wzrost płac i realnie odczuwalna poprawa życia. Gierek otworzył politykę zagraniczną na Zachód i spotykał się z kolejnymi prezydentami USA. Finansowano to kredytami, licząc, że eksport je spłaci. W sierpniu 1976 roku wprowadzono kartki na cukier, a rosnące zadłużenie i błędy gospodarcze wpędziły kraj w długotrwały kryzys.
 
 ## Upadek
-Podwyżka cen w lipcu 1980 roku wywołała falę strajków zakończoną porozumieniami sierpniowymi. We wrześniu Gierek stracił władzę, a w stanie wojennym został internowany przez własną partię.`,
+Kryzys gospodarczy przerodził się w polityczny. Strajki latem 1980 roku zakończyły się porozumieniami sierpniowymi, a we wrześniu Gierek stracił władzę. W 1981 roku usunięto go z partii, a w stanie wojennym internowano w ośrodku w Głębokiem koło Koszalina, dokąd przewieziono go śmigłowcem.
+
+## Ostatnie lata
+Odebrano mu polską emeryturę. Utrzymywał się z renty francuskiej i emerytury belgijskiej, mieszkając w Ustroniu. Zmarł 29 lipca 2001 roku w Cieszynie na pylicę płuc, pamiątkę po pracy w kopalni. W sondażu CBOS z 2001 roku połowa badanych oceniła jego działalność pozytywnie.`,
     resources: [
       {
         id: 'gie-1',
@@ -13213,21 +13217,25 @@ W latach 1991–1993 trio ponownie koncertowało razem. Gintrowski zmarł w 2012
     yearStart: 1959,
     yearEnd: 1969,
     summary: 'Polska odmiana rock and rolla z lat 60., nazwana „big-beatem” dla obejścia niechęci władz do zachodniej nazwy, dała początek rodzimej muzyce młodzieżowej.',
-    trivia: ['Określenie „big-beat” ukuto, by uniknąć „zachodniego” terminu rock and roll, którego władze nie lubiły.', 'Pierwszym polskim zespołem big-beatowym byli Rhythm and Blues (1959).'],
-    content: `## Narodziny
-Pod koniec lat 50. do Polski dotarł rock and roll. Ponieważ władze niechętnie patrzyły na zachodnią nazwę, przyjęto określenie „big-beat”, ukute przez dziennikarza Franciszka Walickiego. Pierwszym zespołem byli Rhythm and Blues (1959).
+    trivia: [
+      'Polska była pierwszym krajem bloku wschodniego, w którym władze zaakceptowały rock and rolla.',
+      'Nazwę „big-beat” wprowadził Franciszek Walicki zamiast źle widzianego „rock and rolla”.',
+      'Big-beat spopularyzował Festiwal Młodych Talentów w Szczecinie w 1962 roku.',
+    ],
+    content: `## Nazwa zamiast rock and rolla
+Big-beat (od ang. „mocne uderzenie”) to polska nazwa rock and rolla i pokrewnych gatunków. Wprowadził ją Franciszek Walicki, bo określenie „rock and roll” było dla władz zbyt mocno związane z Zachodem. Polska była pierwszym krajem bloku wschodniego, w którym rock and roll zyskał akceptację władz – już na początku lat 60. W Czechosłowacji, na Węgrzech i w ZSRR stało się to dopiero w połowie lub pod koniec dekady.
 
-## Zespoły
-Na scenie big-beatowej zabłysnęli Czerwono-Czarni, Niebiesko-Czarni, Czerwone Gitary, Skaldowie, No To Co oraz soliści jak Czesław Niemen, Helena Majdaniec czy Karin Stanek.
+## Rhythm and Blues
+Walicki założył też pierwszy polski zespół big-beatowy, Rhythm and Blues, zainspirowany m.in. występem Big Billa Ramseya na festiwalu jazzowym w Sopocie w 1957 roku. Zespół rozwiązano odgórnie w 1959 roku, a jego kontynuacją byli Czerwono-Czarni, założeni przez Walickiego w 1960 roku.
+
+## Ośrodki
+Pierwsze zespoły działały na Wybrzeżu na przełomie lat 50. i 60. W 1962 roku powstały warszawskie Big Beat Sextet (później Tajfuny) i Chochoły, a w 1964 roku w Łodzi Trubadurzy. Na scenie zabłysnęli Niebiesko-Czarni, Czerwone Gitary, Skaldowie i No To Co, a także soliści: Czesław Niemen, Helena Majdaniec i Karin Stanek.
 
 ## Festiwale
-Ważną rolę odegrały festiwale w Opolu (od 1963) i Sopocie, które promowały młodych wykonawców i pozwalały big-beatowi zaistnieć w oficjalnym obiegu.
+Popularność przyniósł big-beatowi Festiwal Młodych Talentów w Szczecinie w 1962 roku. Wtedy też pojawiły się pierwsze artykuły o nim w „Ruchu Muzycznym” i „Jazzie”. Ważną rolę odegrały festiwale w Opolu (od 1963 roku) i Sopocie, które wprowadzały młodych wykonawców do oficjalnego obiegu.
 
-## Między Wschodem a Zachodem
-Muzyka młodzieżowa była tolerowana, ale kontrolowana – teksty musiały przejść cenzurę, a zespoły grały w ramach państwowych estrad. Mimo to big-beat dał polskiej młodzieży poczucie uczestnictwa w światowej kulturze.
-
-## Dziedzictwo
-Big-beat położył fundamenty pod rozwój polskiego rocka, a wiele zespołów tej epoki pozostaje klasyką rodzimej muzyki rozrywkowej.`,
+## Kontrolowana swoboda
+Muzyka młodzieżowa była tolerowana, ale kontrolowana: teksty przechodziły przez cenzurę, a zespoły działały w państwowych agencjach estradowych. Mimo to big-beat dał młodzieży poczucie uczestnictwa w światowej kulturze i położył fundamenty pod polski rock.`,
     resources: [
       {
         id: 'bb-yt',
@@ -14549,21 +14557,25 @@ Kwestia alkoholu ilustruje społeczne skutki gospodarki niedoboru i bezradność
     summary: 'Jeden z najwybitniejszych kompozytorów XX wieku, twórca „Trenu – Ofiarom Hiroszimy” i „Pasji wg św. Łukasza”, który zdobył światową sławę mimo realiów PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krzysztof_Penderecki_20080706.jpg?width=800',
     imageCaption: 'Krzysztof Penderecki w Gdańsku, 2008',
-    content: `## Sylwetka
-Krzysztof Penderecki (1933–2020) był kompozytorem i dyrygentem, jednym z najważniejszych twórców muzyki współczesnej. Jego dzieła wykonywano na całym świecie, a on sam stał się ambasadorem polskiej kultury.
+    content: `## Kraków
+Krzysztof Penderecki (1933–2020) urodził się w Dębicy. Studiował kompozycję w krakowskiej PWSM, na której potem uczył i której był rektorem. Rozgłos zdobył w 1959 roku, gdy za „Strofy”, „Emanacje” i „Psalmy Dawida” zdobył trzy pierwsze nagrody w anonimowym konkursie Związku Kompozytorów Polskich. W nagrodę dostał stypendium zagraniczne. Równocześnie pisał muzykę do teatru, m.in. dla krakowskiej „Groteski”, i do filmów.
 
-## Awangarda
-Na przełomie lat 50. i 60. zasłynął jako twórca awangardowy. „Tren – Ofiarom Hiroszimy” (1960) na 52 instrumenty smyczkowe, z nowatorską techniką brzmieniową, przyniósł mu międzynarodowy rozgłos.
+## Sonoryzm
+Międzynarodową sławę przyniosły mu utwory o nowatorskiej kolorystyce, wydobywające dźwięki z instrumentów niekonwencjonalnymi sposobami – np. przez stukanie w pudło instrumentu smyczkowego. Styl ten nazwano sonoryzmem. Jego najsłynniejszym przykładem jest „Ofiarom Hiroszimy – tren” na 52 instrumenty smyczkowe (1960–1961), obok „Polymorphii” i „Anaklasis”.
 
-## Pasja wg św. Łukasza
-Prawykonana w 1966 roku „Pasja wg św. Łukasza” była dziełem o tematyce religijnej – odważnym w ateistycznym państwie. Utwór wzbudził sensację i ugruntował pozycję kompozytora na Zachodzie.
+## Pasja w państwie ateistycznym
+Prawykonana w 1966 roku „Pasja wg św. Łukasza” była dziełem religijnym, wystawionym w oficjalnie ateistycznym państwie. Wzbudziła sensację i ugruntowała pozycję kompozytora na Zachodzie. W 1969 roku powstała opera „Diabły z Loudun” według Huxleya.
 
-## Uznanie
-Penderecki komponował opery, symfonie i muzykę filmową (jego dzieła wykorzystywali m.in. Kubrick i Lynch). Otrzymał liczne nagrody i doktoraty honoris causa uczelni całego świata.
+## Zwrot
+U progu lat 70. Penderecki porzucił sonoryzm na rzecz muzyki tonalnej, bliskiej niemieckiej symfonice końca XIX wieku. Zarzucano mu zdradę awangardy, ale nowy styl zyskał szeroką publiczność. W 1980 roku skomponował „Lacrimosę” na odsłonięcie pomnika Poległych Stoczniowców w Gdańsku, która weszła potem do „Polskiego Requiem”.
 
-## Znaczenie
-Pozostaje jednym z symboli polskiej kultury wysokiej, dowodem, że mimo żelaznej kurtyny polska sztuka mogła współtworzyć światową awangardę.`,
-    trivia: ['Napisał „Tren – ofiarom Hiroszimy”, jedno z najgłośniejszych dzieł XX wieku.', 'Skomponował „Lacrimosę” na odsłonięcie pomnika Poległych Stoczniowców.'],
+## Muzyka w kinie
+Jego utwory wykorzystali m.in. William Friedkin w „Egzorcyście”, Stanley Kubrick w „Lśnieniu”, David Lynch w „Dzikości serca” i Andrzej Wajda w „Katyniu”. Skomponował cztery opery i osiem symfonii. Pozostaje dowodem, że mimo żelaznej kurtyny polska sztuka współtworzyła światową awangardę.`,
+    trivia: [
+      'W 1959 roku zdobył wszystkie trzy pierwsze nagrody w anonimowym konkursie kompozytorskim.',
+      'Skomponował „Lacrimosę” na odsłonięcie pomnika Poległych Stoczniowców w 1980 roku.',
+      'Jego muzykę wykorzystali m.in. Kubrick w „Lśnieniu” i Friedkin w „Egzorcyście”.',
+    ],
     resources: [
       {
         id: 'penderecki-culture',
@@ -23545,19 +23557,23 @@ Wiele zwyczajów z tamtych lat – karp kupowany na żywo, domowe ozdoby, zdobyw
     yearEnd: 1989,
     summary: 'Kolej była kręgosłupem transportu PRL – zatłoczone pociągi, walka o miejscówkę i herbata w szklance w wagonie WARS.',
     content: `## Kolej jako kręgosłup
-Polskie Koleje Państwowe były w PRL podstawowym środkiem transportu na dłuższych trasach. Sieć była gęsta, obejmowała także małe miejscowości, a bilet – tani, bo ceny ustalano administracyjnie, nie wedle kosztów.
+Polskie Koleje Państwowe były w PRL podstawowym środkiem transportu na dłuższych trasach. Sieć była gęsta, obejmowała także małe miejscowości, a bilet – tani, bo ceny ustalano administracyjnie, a nie według kosztów.
 
 ## Jak się jeździło
-Pociągi osobowe zatrzymywały się na każdej stacji i jechały wolno; pospieszne i ekspresy wymagały miejscówki, o którą trzeba było walczyć. W sezonie wakacyjnym i przed świętami wagony były zapchane, a podróż na korytarzu należała do normy.
+Pociągi osobowe zatrzymywały się na każdej stacji i jechały wolno, a do pospiesznych i ekspresów potrzebna była miejscówka, o którą trzeba było walczyć. W sezonie wakacyjnym i przed świętami wagony pękały w szwach, a podróż na korytarzu była normą.
 
-## Przedział jako miejsce
-Ośmioosobowy przedział wymuszał kontakt z obcymi na wiele godzin. Rozmowa z przypadkowymi współpasażerami była elementem podróży na tyle stałym, że stała się motywem literackim i filmowym – od „Pociągu” Kawalerowicza po niezliczone anegdoty.
+## Przedział
+Ośmioosobowy przedział wymuszał wielogodzinny kontakt z obcymi. Rozmowa z przypadkowymi współpasażerami była stałym elementem podróży i motywem literackim oraz filmowym – od „Pociągu” Jerzego Kawalerowicza po niezliczone anegdoty.
 
-## Zaplecze
-Do kolei należały też dworcowe bary, poczekalnie i kioski, a węzły kolejowe decydowały o rozwoju całych miast. Ograniczanie połączeń po 1989 roku odcięło wiele miejscowości, które wcześniej żyły właśnie z kolei.`,
+## Wars
+Gastronomię w pociągach prowadził „Wars”. 1 kwietnia 1948 roku w strukturach Orbisu utworzono oddział wagonów sypialnych i restauracyjnych, który pięć lat później stał się osobnym przedsiębiorstwem „Wars”. Wagony gastronomiczne malowano na rdzawobrązowo, kuszetki na niebiesko, a sypialne na granatowo, żeby odróżniały się od taboru PKP. Restauracje Dworcowe „Wars” prowadziły też bary i bufety na dworcach PKP i PKS oraz na lotniskach.
+
+## Co zostało
+Węzły kolejowe decydowały o rozwoju całych miast, a dworcowe bary, poczekalnie i kioski były częścią miejskiej codzienności. Ograniczanie połączeń po 1989 roku odcięło wiele miejscowości, które wcześniej żyły z kolei.`,
     trivia: [
-      'Bilety były tanie, bo ceny ustalano administracyjnie, a nie według kosztów przewozu.',
-      'Ośmioosobowy przedział wymuszał wielogodzinny kontakt z obcymi – stąd rozmowa z współpasażerami jako motyw literacki.',
+      'Wagony „Warsu” wyróżniały się kolorem: restauracyjne były rdzawobrązowe, sypialne granatowe.',
+      'Przedsiębiorstwo „Wars” wyrosło z oddziału Orbisu utworzonego w 1948 roku.',
+      'Ośmioosobowy przedział wymuszał wielogodzinny kontakt z obcymi – stąd kolejowe rozmowy jako motyw literacki.',
     ],
     resources: [
       {
@@ -24886,28 +24902,32 @@ Piwowarski rozwinął tę wrażliwość w późniejszych filmach, m.in. w „Yes
   {
     id: 'fibak-wojciech',
     title: 'Wojciech Fibak',
-    subtitle: 'Najwybitniejszy polski tenisista',
+    subtitle: 'Finalista Masters i mistrz Australii w deblu',
     category: 'osoby',
     tags: ['sport', 'tenis', 'sukces', 'świat'],
     yearStart: 1972,
     yearEnd: 1989,
-    summary: 'Najwybitniejszy polski tenisista w historii, gwiazda światowego touru lat 70. i 80.; w 1976 triumfował w prestiżowym turnieju Masters.',
+    summary: 'Jeden z najlepszych polskich tenisistów w historii, gwiazda światowego touru lat 70. i 80.; finalista turnieju Masters 1976 i zwycięzca Australian Open w deblu (1978).',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Winnaar%20Fibak%20uit%20Polen%20in%20actie%2C%20Bestanddeelnr%20932-3751.jpg?width=800',
     imageCaption: 'Wojciech Fibak w akcji na korcie (lata 70.).',
-    content: `## Tenisista
-Wojciech Fibak (ur. 1952) jest uznawany za najlepszego polskiego tenisistę w historii. Był finalistą turnieju Masters, czterokrotnym ćwierćfinalistą turniejów wielkoszlemowych w grze pojedynczej i zwycięzcą Australian Open w deblu.
+    content: `## Z Poznania na światowe korty
+Wojciech Fibak urodził się 30 sierpnia 1952 roku w Poznaniu. Zachęcił go do tenisa ojciec, chirurg. Grał w AZS Poznań i w 1970 roku został halowym mistrzem Polski. Jesienią 1974 roku przerwał studia prawnicze i wyjechał do Hiszpanii na cykl turniejów Grand Prix – zaczynał karierę zawodową w świecie, w którym obywatel PRL był wyjątkiem.
 
-## Zawód nietypowy
-Tenis był w PRL dyscypliną niszową, bez zaplecza i finansowania porównywalnego z lekkoatletyką czy piłką nożną. Kariera zawodowa oznaczała życie w objeździe po turniejach na Zachodzie, co przy ówczesnych przepisach paszportowych i dewizowych było sytuacją wyjątkową.
+## Sezon 1976
+W 1976 roku wygrał m.in. turnieje w Sztokholmie, Bournemouth i Wiedniu i zakwalifikował się do turnieju Masters w Houston. Pokonał w nim Guillermo Vilasa i doszedł do finału z Manuelem Orantesem. Mecz transmitowała polska telewizja. Fibak prowadził 2:1 w setach i 4:1 w czwartym secie, ale przegrał. Był to jeden z największych sukcesów polskiego tenisa, a zarazem wielka niewykorzystana szansa.
 
-## Sportowiec-przedsiębiorca
-Fibak zarabiał w obiegu zachodnim i tam też inwestował, zajmując się później kolekcjonerstwem sztuki i działalnością gospodarczą. Był jednym z nielicznych obywateli PRL funkcjonujących realnie w gospodarce rynkowej.
+## Tytuł wielkoszlemowy
+Był czterokrotnym ćwierćfinalistą turniejów wielkoszlemowych w singlu – w 1980 roku aż trzy razy. W deblu grał z czołówką świata, m.in. z Tomem Okkerem i Johnem McEnroe. Pod koniec 1978 roku wygrał z Kimem Warwickiem Australian Open w grze podwójnej, jako drugi Polak po Jadwidze Jędrzejowskiej z tytułem wielkoszlemowym. W singlu pokonywał m.in. Borga, McEnroe i Connorsa.
 
-## Pozycja
-Jego sukcesy pokazywano w kraju, ale sam model kariery – indywidualny, zawodowy, oparty na kontraktach – był trudny do pogodzenia z obowiązującą opowieścią o sporcie amatorskim i klubach zakładowych.`,
+## Zawodowiec w PRL
+Tenis był w PRL dyscypliną niszową, bez zaplecza porównywalnego z lekkoatletyką czy piłką nożną. Kariera zawodowa oznaczała życie w objeździe po turniejach na Zachodzie i zarobki w dolarach. Taki model – indywidualny, oparty na kontraktach – nie pasował do oficjalnej opowieści o sporcie amatorskim, ale sukcesy Fibaka rozsławiły tenis w kraju.
+
+## Po karierze
+Od 1989 roku był konsulem honorowym RP w Monako. Za pieniądze zarobione na kortach zbudował działalność biznesową, m.in. przedstawicielstwo Volvo i wydawnictwa prasowe, a jako kolekcjoner sztuki zaraził tą pasją m.in. Johna McEnroe i Steffi Graf. W latach 90. był prezesem Polskiego Związku Tenisowego.`,
     trivia: [
-      'Wygrał Australian Open w grze podwójnej i był finalistą turnieju Masters.',
-      'Jako zawodowiec zarabiał i inwestował na Zachodzie – w PRL sytuacja niemal bez precedensu.',
+      'W finale Masters 1976 prowadził z Orantesem 2:1 w setach i 4:1 w czwartym secie – i przegrał.',
+      'Australian Open w deblu wygrał w 1978 roku jako drugi Polak z tytułem wielkoszlemowym.',
+      'Kolekcjonowaniem sztuki zaraził m.in. Johna McEnroe i Steffi Graf.',
     ],
     resources: [
       {
@@ -26688,18 +26708,25 @@ W latach 80. na parkietach królowały zachodnie przeboje, a obok nich polskie z
     summary: 'Przedsiębiorstwo prowadzące sklepy z zachodnimi towarami za waluty wymienialne i bony; obok Pewexu symbol dwuwalutowej gospodarki PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bon%20baltonowski%2020c%20a.jpg?width=800',
     imageCaption: 'Bon z dodatku dewizowego',
-    content: `## Skąd nazwa
-Baltona powstała w 1946 roku w Gdyni jako przedsiębiorstwo handlu zagranicznego. Nazwa jest złożeniem słów Bałtyk i tona – firma zaczynała od zaopatrywania statków, a nie od handlu detalicznego.
+    content: `## Bałtyk i tona
+Baltonę założono 3 września 1946 roku w Gdyni. Nazwa to złożenie słów „Bałtyk” i „tona”. Firma zaczynała od zaopatrywania statków i marynarki handlowej, a w 1949 roku stała się przedsiębiorstwem państwowym „Baltona Zaopatrzenie Statków”. W 1951 roku podporządkowano ją Ministerstwu Handlu Zagranicznego.
 
-## Sklepy za dewizy
-Z czasem stała się, obok Peweksu, główną siecią sklepów sprzedających za waluty wymienialne i bony. Kupowano tam towary niedostępne w normalnym obiegu: alkohole, kosmetyki, elektronikę, odzież zachodnią.
+## Od statków do sklepów
+Od 1955 roku Baltona zaopatrywała także polskie placówki dyplomatyczne. W 1956 roku otworzyła pierwsze sklepy dla marynarzy i na przejściach granicznych, a w latach 60. zaczęła obsługiwać samoloty PLL LOT. Od 1977 roku jako centrala handlu zagranicznego eksportowała towary na „małe rynki”, m.in. do Watykanu i na Maltę.
 
-## Kto miał dewizy
-Dostęp mieli przede wszystkim marynarze, pracownicy kontraktowi wracający z zagranicy i osoby otrzymujące przekazy od rodzin na emigracji. Powstawał w ten sposób podział, którego oficjalna ideologia nie przewidywała: na tych, którzy mieli dostęp do waluty, i całą resztę.
+## Bony i dewizy
+W 1973 roku wprowadzono Marynarskie Bony Towarowe z wartością podaną w dolarach. Wypłacano je marynarzom i rybakom jako dodatek dewizowy za rejsy zagraniczne. W tym samym roku powstało słynne logo z marynarzem, zaprojektowane przez Barbarę Kowalską. W 1989 roku sieć liczyła ok. 260 sklepów w całym kraju.
+
+## Kto miał dostęp
+W sklepach Baltony kupowało się towary niedostępne w zwykłym handlu: alkohole, papierosy, sprzęt RTV i AGD, kosmetyki. Klientami byli przede wszystkim marynarze, rybacy, pracownicy kontraktowi z krajów zachodnich, dyplomaci i personel LOT-u. Pod marką Baltony sprzedawano też własne konserwy, wędliny, słodycze i piwo o przedłużonej trwałości.
 
 ## Paradoks
-Państwo deklarujące równość prowadziło sieć sklepów, w których za obcą walutę kupowało się to, czego nie było gdzie indziej. Baltona i Pewex były więc jednocześnie źródłem dewiz dla budżetu i najbardziej widocznym zaprzeczeniem głoszonych zasad.`,
-    trivia: ['Baltona, podobnie jak Pewex, sprzedawała zachodnie towary za dewizy i bony.', 'Początkowo zaopatrywała marynarzy i statki handlowe.'],
+Państwo deklarujące równość prowadziło sieci sklepów, w których za obcą walutę kupowało się to, czego nie było gdzie indziej. Baltona i Pewex były jednocześnie źródłem dewiz dla budżetu i najbardziej widocznym zaprzeczeniem głoszonych zasad. Po 1989 roku Baltona przeniosła się do stref wolnocłowych na lotniskach.`,
+    trivia: [
+      'Nazwa Baltona to złożenie słów „Bałtyk” i „tona”.',
+      'Od 1973 roku marynarze dostawali dodatek dewizowy w bonach z wartością w dolarach.',
+      'W 1989 roku sieć Baltony liczyła ok. 260 sklepów.',
+    ],
     resources: [
       {
         id: 'ba-yt',
@@ -31276,20 +31303,24 @@ Organizacja przetrwała transformację, tracąc jednak masowy charakter i więks
     summary: 'Odrębny rodzaj sił zbrojnych odpowiadający za lotnictwo myśliwskie, radiolokację i rakiety przeciwlotnicze.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Polish_Air_Force_Mikoyan-Gurevich_MiG-21bis_Czestochowa_Idaszak.jpg?width=800',
     imageCaption: 'MiG-21bis – podstawowy myśliwiec Wojsk Obrony Powietrznej Kraju',
-    content: `## Struktura
-WOPK wyodrębniono w 1962 roku jako osobny rodzaj sił zbrojnych, obok wojsk lądowych, lotnictwa operacyjnego i marynarki. Tworzyły je pułki lotnictwa myśliwskiego, jednostki rakietowe, artyleria przeciwlotnicza oraz rozbudowany system radiolokacyjny.
+    content: `## Osobny rodzaj sił zbrojnych
+Wojska Obrony Powietrznej Kraju istniały w latach 1962–1990 jako jeden z czterech rodzajów sił zbrojnych PRL, obok wojsk lądowych, lotniczych i marynarki wojennej. Miały chronić ludność, wojsko oraz ważne obiekty gospodarcze i państwowe przed atakiem z powietrza. Ich organizację wzorowano na Armii Radzieckiej.
+
+## Struktura
+WOPK dzieliły się na trzy korpusy – w Warszawie, Bydgoszczy i Wrocławiu. Tworzyły je pułki lotnictwa myśliwskiego (m.in. w Mińsku Mazowieckim, Łasku, Słupsku i Poznaniu), jednostki rakietowe i artylerii przeciwlotniczej oraz wojska radiotechniczne prowadzące rozpoznanie radiolokacyjne. Kadry kształciła m.in. Wyższa Oficerska Szkoła Radiotechniczna w Jeleniej Górze.
 
 ## Sprzęt
-Podstawą uzbrojenia były samoloty konstrukcji radzieckiej: kolejne wersje MiG–17, MiG–21, a w latach 80. MiG–23. Obronę rakietową opierano na zestawach ziemia–powietrze rozmieszczonych wokół największych miast i obiektów przemysłowych.
+Podstawą uzbrojenia były samoloty radzieckie, przede wszystkim kolejne wersje MiG-21, a obronę przeciwrakietową opierano na zestawach ziemia–powietrze. Najpotężniejszy był dalekiego zasięgu system S-200 „Wega” pułku w Mrzeżynie. Stanowiska rakietowe rozmieszczano wokół największych miast i ośrodków przemysłowych.
 
-## Miejsce w systemie sojuszu
-System obrony powietrznej PRL był ściśle zintegrowany z systemem Układu Warszawskiego, co oznaczało również, że informacje radiolokacyjne trafiały do wspólnego obiegu, a swoboda decyzji polskiego dowództwa była ograniczona.
+## W systemie sojuszu
+WOPK były włączone do wspólnego systemu obrony powietrznej państw Układu Warszawskiego. Oznaczało to ścisłą integrację z dowództwem radzieckim i ograniczoną swobodę decyzji polskiego dowództwa. Jednostki utrzymywały całodobowe dyżury bojowe.
 
-## Codzienność
-Dla mieszkańców okolic lotnisk wojskowych obecność WOPK oznaczała hałas i strefy zamknięte. Jednostki utrzymywały całodobowe dyżury bojowe, a przelot nierozpoznanego obiektu uruchamiał procedury alarmowe.`,
+## Koniec
+W 1990 roku WOPK połączono z Wojskami Lotniczymi w Wojska Lotnicze i Obrony Powietrznej. Ich zadania przejęły później Siły Powietrzne.`,
     trivia: [
-      'WOPK był w PRL osobnym rodzajem sił zbrojnych – rozwiązanie wzorowane na strukturze armii radzieckiej.',
-      'Wokół dużych miast rozmieszczano stałe stanowiska rakiet przeciwlotniczych, ukryte w lasach i za wałami ziemnymi.',
+      'WOPK były osobnym rodzajem sił zbrojnych – rozwiązanie wzorowane na Armii Radzieckiej.',
+      'Najpotężniejszym systemem był rakietowy S-200 „Wega” w Mrzeżynie.',
+      'W 1990 roku WOPK połączono z lotnictwem w jeden rodzaj wojsk.',
     ],
     resources: [
       {
@@ -32331,20 +32362,24 @@ Uchodził za koniunkturalistę, który zawsze popierał najsilniejszych. Wyjątk
     summary: 'Generał i działacz komunistyczny, przewodniczący Rady Państwa w latach 1952–1964, czyli formalna głowa państwa przez cały ten okres.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Aleksander_Zawadzki_1.jpg?width=800',
     imageCaption: 'Aleksander Zawadzki, przewodniczący Rady Państwa, około 1952',
-    content: `## Droga
-Aleksander Zawadzki (1899–1964) wywodził się z Zagłębia Dąbrowskiego i z przedwojennego ruchu komunistycznego. W czasie wojny stanął na czele tajnego Centralnego Biura Komunistów Polski w ZSRR, a następnie był zastępcą naczelnego dowódcy Wojska Polskiego do spraw polityczno-wychowawczych.
+    content: `## Z Zagłębia do KPP
+Aleksander Zawadzki (1899–1964) urodził się w kolonii robotniczej Ksawera między Będzinem a Dąbrową Górniczą. Pracował w kopalni „Paryż”, gdzie zetknął się z ruchem komunistycznym. W KPP kierował Centralnym Wydziałem Wojskowym i był więziony przez policję II RP.
 
-## Funkcje
-Po wojnie przeszedł przez najwyższe stanowiska: Biuro Polityczne, przewodnictwo Centralnej Rady Związków Zawodowych, dwukrotnie wicepremierostwo. Od 1952 roku, gdy konstytucja zniosła urząd prezydenta, aż do śmierci w 1964 roku przewodniczył Radzie Państwa.
+## Wojna
+Po ataku Niemiec na ZSRR budował umocnienia pod Stalingradem i pracował w kopalni koło Nowosybirska. W 1943 roku trafił do Sielc nad Oką i szybko awansował: od starszego sierżanta do generała brygady w niespełna rok, jako zastępca dowódcy ds. politycznych. W 1944 roku był formalnie przewodniczącym tajnego Centralnego Biura Komunistów Polski w ZSRR, choć pracami Biura faktycznie kierował Jakub Berman.
 
-## Rola
-Jako przewodniczący Rady Państwa był protokolarną głową państwa: podpisywał ustawy, przyjmował listy uwierzytelniające, nadawał odznaczenia i stosował prawo łaski. Realna władza pozostawała jednak u I sekretarza partii.
+## Wojewoda śląski
+W latach 1945–1948 był wojewodą śląskim, blisko współpracując z Jerzym Ziętkiem. Próbował powstrzymać wywózki sprzętu i ludzi przez Armię Czerwoną. W sierpniu 1945 roku jego interwencja u marszałka Rokossowskiego doprowadziła do uwolnienia 12 tys. Górnoślązaków przetrzymywanych w dawnym obozie Auschwitz przed wywózką do ZSRR.
 
-## Trwałość
-Przetrwał na szczycie zmianę epok – stalinizm, Październik i pierwsze lata rządów Gomułki – co w kierownictwie PZPR było rzadkością. Zmarł na stanowisku w sierpniu 1964 roku.`,
+## Głowa państwa
+W 1949 roku był wicepremierem, a potem przewodniczącym Centralnej Rady Związków Zawodowych. 20 listopada 1952 roku został przewodniczącym Rady Państwa, czyli formalną głową państwa, i pozostał nim do śmierci. Podpisywał ustawy, przyjmował ambasadorów i stosował prawo łaski, m.in. wobec płk. Franciszka Skibińskiego. Realna władza należała jednak do I sekretarza partii.
+
+## Na przełomie epok
+Na pogrzebie Bieruta w 1956 roku mówił o partii „zwartej jak monolit”. W czasie Października zaliczano go do natolińczyków, nieufnych wobec reform, a mimo to utrzymał się na stanowisku za Gomułki. Zmarł 7 sierpnia 1964 roku, a w kraju ogłoszono trzydniową żałobę narodową.`,
     trivia: [
-      'Przewodniczył Radzie Państwa nieprzerwanie przez dwanaście lat i zmarł na tym stanowisku.',
-      'Był jednym z nielicznych członków kierownictwa, którzy utrzymali pozycję i przed Październikiem 1956, i po nim.',
+      'W 1945 roku jego interwencja u Rokossowskiego uratowała 12 tys. Górnoślązaków przed wywózką do ZSRR.',
+      'Od starszego sierżanta do generała awansował w niespełna rok.',
+      'Przewodniczył Radzie Państwa przez prawie dwanaście lat i zmarł na tym stanowisku.',
     ],
     resources: [
       {
@@ -33977,7 +34012,8 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1968, event: 'Marzec 1968 – protesty studenckie i kampania antysemicka', category: 'opozycja', entryId: 'marzec-1968' },
   { year: 1968, event: 'LWP uczestniczy w inwazji na Czechosłowację', category: 'wojsko', entryId: 'lwp' },
   { year: 1970, event: 'Grudzień 1970 – masakra na Wybrzeżu (45 zabitych)', category: 'opozycja', entryId: 'grudzien-1970' },
-  { year: 1970, event: 'Gierek zastępuje Gomułkę – "pomożecie?"', category: 'polityka', entryId: 'gierek' },
+  { year: 1970, event: 'Gierek zastępuje Gomułkę na stanowisku I sekretarza KC PZPR', category: 'polityka', entryId: 'gierek' },
+  { year: 1981, event: 'Edward Gierek internowany w stanie wojennym', category: 'polityka', entryId: 'gierek' },
   { year: 1976, event: 'Czerwiec 1976 – Radom i Ursus, "ścieżki zdrowia"', category: 'opozycja', entryId: 'czerwiec-1976' },
   { year: 1976, event: 'Powstanie KOR – pierwsza jawna opozycja', category: 'opozycja', entryId: 'kor' },
   { year: 1978, event: 'Karol Wojtyła zostaje Janem Pawłem II', category: 'społeczeństwo', entryId: 'kosciol-prl' },
@@ -34168,7 +34204,8 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1983, event: 'Turbo wydaje „Dorosłe dzieci” – kamień milowy polskiego metalu', category: 'kultura', entryId: 'turbo-zespol' },
   { year: 1984, event: 'Debiut Papa Dance: „W 40 dni dookoła świata” i „Ordynarny faul”', category: 'kultura', entryId: 'papa-dance' },
   { year: 1981, event: 'Emisja serialu „Jan Serce” Radosława Piwowarskiego', category: 'kultura', entryId: 'jan-serce' },
-  { year: 1976, event: 'Wojciech Fibak wygrywa turniej Masters – triumf polskiego tenisa', category: 'społeczeństwo', entryId: 'fibak-wojciech' },
+  { year: 1976, event: 'Wojciech Fibak w finale turnieju Masters w Houston', category: 'społeczeństwo', entryId: 'fibak-wojciech' },
+  { year: 1978, event: 'Wojciech Fibak wygrywa Australian Open w deblu', category: 'społeczeństwo', entryId: 'fibak-wojciech' },
   { year: 1988, event: 'Premiera „Kingsajzu” Juliusza Machulskiego (2 maja)', category: 'kultura', entryId: 'kingsajz' },
   { year: 1958, event: 'Premiera „Popiołu i diamentu” Andrzeja Wajdy', category: 'kultura', entryId: 'popiol-i-diament' },
   { year: 1975, event: 'Premiera „Nocy i dni” Jerzego Antczaka – nominacja do Oscara', category: 'kultura', entryId: 'noce-i-dnie' },
@@ -34358,6 +34395,9 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1968, event: '2. Armia WP bierze udział w inwazji na Czechosłowację', category: 'wojsko', entryId: 'operacja-dunaj' },
   { year: 1962, event: 'Powstaje Liga Obrony Kraju', category: 'wojsko', entryId: 'lok' },
   { year: 1962, event: 'Powstają Wojska Obrony Powietrznej Kraju', category: 'wojsko', entryId: 'wopk' },
+  { year: 1973, event: 'Baltona wprowadza bony dewizowe dla marynarzy', category: 'gospodarka', entryId: 'baltona' },
+  { year: 1962, event: 'Festiwal Młodych Talentów w Szczecinie popularyzuje big-beat', category: 'kultura', entryId: 'big-beat-prl' },
+  { year: 1948, event: 'W Orbisie powstaje oddział wagonów sypialnych i restauracyjnych – zalążek Warsu', category: 'społeczeństwo', entryId: 'podroze-pkp' },
   { year: 1988, event: 'Likwidacja Komisji Planowania przy Radzie Ministrów', category: 'gospodarka', entryId: 'komisja-planowania' },
   { year: 1982, event: 'Powstaje Patriotyczny Ruch Odrodzenia Narodowego', category: 'polityka', entryId: 'pron' },
   { year: 1952, event: 'Konstytucja PRL znosi urząd prezydenta – Rada Państwa staje się kolegialną głową państwa', category: 'polityka', entryId: 'rada-panstwa' },
