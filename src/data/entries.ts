@@ -758,6 +758,14 @@ Polska szkoła filmowa lat 50. (Wajda, Munk, Kawalerowicz), kino moralnego niepo
     ],
     resources: [
       {
+        id: 'kultura-prl-yt',
+        title: 'Cenzura komunistyczna (IPN Oddział w Warszawie)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=i1kBDO9js_I',
+        source: 'YouTube',
+        description: 'Materiał Instytutu Pamięci Narodowej o działaniu cenzury w PRL i jej wpływie na kulturę.',
+      },
+      {
         id: 'kult-1',
         title: 'Kultura i sztuka w PRL – opracowania',
         type: 'publikacja',
@@ -2051,6 +2059,8 @@ Skrót wszedł do polszczyzny jako synonim przemocy państwa, a rozwinięcia w r
     yearStart: 1948,
     yearEnd: 1956,
     summary: 'Kolektywizacja rolnictwa w Polsce (1948–1956) była stalinowską próbą likwidacji indywidualnych gospodarstw chłopskich i zastąpienia ich spółdzielniami produkcyjnymi. Przeprowadzana metodami przymusu administracyjnego, spotkała się z masowym oporem i zakończyła praktycznym niepowodzeniem — po Październiku 1956 r. rozwiązano ok. 80% spółdzielni.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/M%C5%82odzie%C5%BCy_-_Naprz%C3%B3d_do_walki_o_szcz%C4%99%C5%9Bliw%C4%85_socjalistyczn%C4%85_wie%C5%9B_polsk%C4%85.jpg?width=800',
+    imageCaption: 'Plakat propagandowy Młodzieży. Naprzód do walki o szczęśliwą socjalistyczną wieś polską, proj. W. Chmielewski, 1949',
     content: `**Decyzja i ideologiczne podstawy** — Decyzja o kolektywizacji zapadła w 1948 r. wraz z „przełomem sierpniowym" w PPR/PZPR. Stalin osobiście nakazał Bierutowi przystąpienie do uspółdzielczania wsi jako warunku „budowy socjalizmu". Wzorem były sowieckie kołchozy i czechosłowacka kolektywizacja od 1949 r.
 
 **Przebieg kampanii** — Do 1950 r. utworzono ok. 2200 spółdzielni, do 1955 r. — ok. 9700, skupiających niespełna 200 tys. gospodarstw (ok. 9% użytków rolnych). W ZSRS skołektywizowano ponad 90% ziemi; Polska nigdy nie przekroczyła 10%.
@@ -2068,6 +2078,14 @@ Skrót wszedł do polszczyzny jako synonim przemocy państwa, a rozwinięcia w r
 **Dekolektywizacja po 1956** — Po Październiku 1956 r. Gomułka zrezygnował z przymusowej kolektywizacji. W ciągu kilku miesięcy rozpadło się ok. 80% spółdzielni. Polska stała się jedynym krajem bloku wschodniego, w którym przez cały PRL dominowało prywatne rolnictwo indywidualne.`,
     trivia: ['Po 1956 roku spółdzielnie masowo się rozwiązały.', 'Polska pozostała jedynym krajem bloku wschodniego z przewagą prywatnych gospodarstw.'],
     resources: [
+      {
+        id: 'kolektywizacja-yt',
+        title: 'Kolektywizacja polskiej wsi w PRL. Walka o ziemię (Muzeum Historii Polski)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=8Z8O9SmPx5M',
+        source: 'YouTube',
+        description: 'Materiał Muzeum Historii Polski o przymusowym tworzeniu spółdzielni produkcyjnych i oporze chłopów wobec kolektywizacji.',
+      },
       {
         id: 'kol-pkf',
         title: 'Polska Kronika Filmowa – spółdzielnie produkcyjne',
@@ -2699,6 +2717,8 @@ Pod wpływem strajków gen. Czesław Kiszczak podjął pierwsze rozmowy z Wałę
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'Nomenklatura – system obsady stanowisk kierowniczych w PRL, w którym o nominacji decydowały instancje PZPR, od komitetu zakładowego po Biuro Polityczne. Tak nazywano też uprzywilejowaną warstwę ludzi zajmujących te stanowiska.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gmach_Komitetu_Centralnego_Polskiej_Zjednoczonej_Partii_Robotniczej_w_Warszawie_lata_60.jpg?width=800',
+    imageCaption: 'Gmach Komitetu Centralnego PZPR w Warszawie w latach 60., fot. Edmund Kupiecki',
     content: `## Zasada
 Nazwa pochodzi od łacińskiego słowa „nomenclatura”, czyli mianowanie. Tak nazywano system obsadzania stanowisk kierowniczych w ZSRR i krajach bloku wschodniego. Decydowała rekomendacja partii komunistycznej, a organy przedstawicielskie pełniły rolę fasadową. W partyjnym żargonie mówiono, że dane stanowisko jest „w nomenklaturze” konkretnej instancji. To ona, a w praktyce najczęściej jej I sekretarz, decydowała o obsadzie.
 
@@ -2719,6 +2739,14 @@ W latach 90. popularne stało się określenie „uwłaszczenie nomenklatury”.
       'O obsadzie stanowisk ministerialnych decydowało Biuro Polityczne KC, a o kierownictwie prasy centralnej, radia i telewizji – Sekretariat KC.',
     ],
     resources: [
+      {
+        id: 'nomenklatura-yt',
+        title: 'System nomenklatury – czyli jak PZPR obsadzała stanowiska kierownicze w państwie (IPNtv)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=09YHl09ClKU',
+        source: 'YouTube',
+        description: 'Materiał IPNtv Katowice wyjaśniający, jak PZPR przez system nomenklatury decydowała o obsadzie stanowisk kierowniczych.',
+      },
       {
         id: 'nomenklatura-1',
         title: 'Nomenklatura PZPR – Przystanek Historia',
@@ -3689,6 +3717,8 @@ Zachodnia granica na Odrze i Nysie była przez dekady kontestowana przez RFN. Os
     yearStart: 1944,
     yearEnd: 1989,
     shortDesc: 'Sukcesy olimpijskie, masowy sport robotniczy i propaganda sukcesu – sport jako polityczne narzędzie PRL.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Poolse_wereldrecordhoudster_Irena_Szewinska_met_landgenoot_Buciarski%2C_Bestanddeelnr_928-0515.jpg?width=800',
+    imageCaption: 'Irena Szewińska z Wojciechem Buciarskim na zawodach lekkoatletycznych w Papendal pod Arnhem, 16 lipca 1975 (fot. Anefo)',
     content: `## Sport w PRL
 
 Sport w Polsce Ludowej pełnił wieloraką rolę: był narzędziem propagandy, oknem prestiżu na arenie międzynarodowej, ale też autentycznym źródłem radości i dumy narodowej. Polscy sportowcy odnosili na olimpiadach sukcesy nieproporcjonalne do wielkości kraju.
@@ -3730,6 +3760,14 @@ PRL był stosunkowo postępowy w sporcie kobiecym. Kobiety uczestniczyły we wsz
 Za sukcesami stało zawodowe podejście, świetni trenerzy i system wyławiania talentów. Ale też – jak wszędzie za żelazną kurtyną – doping i system przywilejów dla sportowców. Wyjeżdżanie za granicę, lepsze zaopatrzenie, samochody, paszporty – sportowcy żyli lepiej niż przeciętny Polak.`,
     trivia: ['Sukcesy sportowe wykorzystywano propagandowo.', 'Zawodnicy formalnie byli amatorami, choć trenowali jak zawodowcy.'],
     resources: [
+      {
+        id: 'sport-prl-yt',
+        title: 'Retro TVP. Polska – Włochy 2:1 (MŚ 1974)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=VjL3xd9IXZM',
+        source: 'YouTube',
+        description: 'Archiwalny zapis telewizyjny meczu Polska–Włochy z mistrzostw świata 1974, udostępniony przez TVP Sport.',
+      },
       {
         id: 'sport-ninateka',
         title: 'Sport w PRL – archiwalne transmisje',
@@ -3835,6 +3873,8 @@ Po upadku PRL Maluch stał się tanim środkiem transportu, a później obiektem
     yearStart: 1944,
     yearEnd: 1948,
     summary: 'Nacjonalizacja przemysłu i handlu – seria dekretów i ustaw z lat 1944–1948, na mocy których komunistyczne władze przejęły prywatne firmy, fabryki, banki i ziemię. Połączona z reformą rolną i nacjonalizacją banków, stanowiła fundament komunistycznej transformacji gospodarczej Polski.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Hilary_Minc_1949.jpg?width=800',
+    imageCaption: 'Hilary Minc, minister przemysłu w powojennym rządzie komunistycznym, zdjęcie sprzed 1949 r.',
     content: `Przejęcie prywatnej własności przez państwo komunistyczne przebiegało etapami i przy użyciu różnych instrumentów prawnych.
 
 **Reforma rolna 1944:**
@@ -5426,6 +5466,8 @@ Kontrakt zakładał, że władza zachowa większość i kontrolę. Wojciech Jaru
     yearStart: 1949,
     yearEnd: 1989,
     summary: 'Fundusz Wczasów Pracowniczych (FWP) – państwowa instytucja zarządzająca siecią ośrodków wczasowych, kolonii i domów wczasowych dla pracowników. Przez dekady FWP organizował urlopy dla milionów Polaków – subsydiowane przez zakłady pracy, tanie i powszechnie dostępne. Był to jeden z realnych benefitów systemu socjalistycznego.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mi%C4%99dzyzdroje%2C_Hotel_Posejdon_FWP_02.JPG?width=800',
+    imageCaption: 'Logo Funduszu Wczasów Pracowniczych z rokiem założenia 1949 na banerze hotelu Posejdon w Międzyzdrojach (fot. współczesna, 2015)',
     content: `Fundusz Wczasów Pracowniczych powstał w 1949 roku jako instytucja organizująca wypoczynek pracowników. Zarządzał siecią ośrodków wczasowych nad morzem, w górach i na Mazurach, domami wczasowymi i koloniami dla dzieci.
 
 **Jak działał system:**
@@ -5444,6 +5486,14 @@ System FWP nie był idealny – przydział zależał od pozycji w zakładzie pra
 Wczasy FWP są dziś przedmiotem nostalgii – jako symbol beztroskiego lata, prostego życia nad morzem i wspólnotowych doświadczeń. Zdjęcia z wczasów FWP to ikoniczny obraz PRL-owskiej codzienności.`,
     trivia: ['Skierowania na wczasy rozdzielały zakłady pracy.', 'Były tanie, ale trzeba było na nie czekać i mieć przydział.'],
     resources: [
+      {
+        id: 'wczasy-fwp-yt',
+        title: 'Wczasy pracownicze, reż. Ewa Petelska, 1951 (Szkoła Filmowa w Łodzi)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=ZNUkxHzmW0Q',
+        source: 'YouTube',
+        description: 'Krótki film dokumentalny z 1951 r. o wczasach pracowniczych, udostępniony przez Szkołę Filmową w Łodzi.',
+      },
       {
         id: 'fwp-1',
         title: 'Wczasy i turystyka w PRL – kroniki filmowe',
@@ -5913,6 +5963,8 @@ W czasie stanu wojennego wiele rodzin bojkotowało telewizję o godzinie Dzienni
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'Wieś polska w PRL przeszła głęboką transformację – od reformy rolnej 1944, przez próbę kolektywizacji, po trwanie indywidualnych gospodarstw. Polscy chłopi byli jedyną grupą w bloku wschodnim, która skutecznie oparła się pełnej kolektywizacji. Życie wiejskie łączyło tradycję z nową rzeczywistością socjalistyczną.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/%C5%BBniwa_zmechanizowane_-_Lisk%C3%B3w_-_001012p.jpg?width=800',
+    imageCaption: 'Żniwa zmechanizowane w Liskowie – rolnik na żniwiarce konnej, koniec lat 50. (fot. Adam Glapa, Cyfrowe Archiwum im. Józefa Burszty)',
     content: `Polska wieś po 1944 roku znalazła się w centrum politycznych zmagań. Reforma rolna dała chłopom ziemię – ale komuniści chcieli tę ziemię zabrać przez kolektywizację. Chłopi stawiali opór.
 
 **Reforma rolna 1944 i jej skutki:**
@@ -5931,6 +5983,14 @@ Elektryfikacja wsi postępowała – w 1945 roku prąd miało 10% wsi, w 1980 ro
 Polska wieś intensywnie "wylewała się" do miast – miliony chłopów stały się robotnikami w ciągu jednego pokolenia. Zjawisko to zmieniło strukturę społeczną Polski.`,
     trivia: ['Elektryfikacja wsi trwała przez całe lata 50. i 60.', 'Rolnicy indywidualni długo nie mieli prawa do emerytury.'],
     resources: [
+      {
+        id: 'wies-prl-yt',
+        title: 'Rolnicy mówią (1977) – Wytwórnia Filmów Oświatowych',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=nmKp0gDCXhk',
+        source: 'YouTube',
+        description: 'Film dokumentalny WFO z 1977 r., w którym o swojej pracy i życiu opowiadają rolnicy.',
+      },
       {
         id: 'wies-1',
         title: 'Wieś i chłopi w PRL – opracowania',
@@ -6293,6 +6353,8 @@ Dopiero w 1988 r. złagodzono przepisy, a 1 stycznia 1989 r. weszła w życie no
     yearStart: 1944,
     yearEnd: 1989,
     shortDesc: 'Trybuna Ludu, Polityka, Przekrój – kontrolowana prasa jako narzędzie propagandy i okno na rzeczywistość.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Trybuna_Ludu_-_10.08.1981.jpg?width=800',
+    imageCaption: 'Pierwsza strona Trybuny Ludu, organu KC PZPR, z 10 sierpnia 1981 r.',
     content: `## Prasa i media w PRL
 
 Prasa w Polsce Ludowej funkcjonowała w warunkach ścisłej kontroli partyjnej i cenzury, ale była też areną subtelnych gier między władzą a dziennikarzami, którzy próbowali przemycić odrobinę prawdy między wierszami.
@@ -6332,6 +6394,14 @@ Obok prasy drukowanej kluczową rolę odgrywała telewizja (od 1952) i radio. Dz
 Alternatywą były Radio Wolna Europa i głos Ameryki – słuchane nielegalnie przez miliony.`,
     trivia: ['Każdy tytuł przechodził cenzurę prewencyjną przed drukiem.', 'Gazety kupowano w kioskach „Ruchu” albo zamawiało się prenumeratę na poczcie.'],
     resources: [
+      {
+        id: 'prasa-prl-yt',
+        title: 'Liberalna prasa komunistyczna? – cykl Kulisy historii, odc. 19 (IPNtv)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=TQ6D1LmVinA',
+        source: 'YouTube',
+        description: 'Odcinek cyklu IPN Kulisy historii o prasie w PRL i granicach jej swobody pod kontrolą partii.',
+      },
       {
         id: 'prasa-polona',
         title: 'Prasa i media w PRL – opracowania',
@@ -6558,6 +6628,8 @@ Pokolenia wysiedlonych Kresowiaków wychowywały dzieci i wnuki w kulcie utracon
     yearStart: 1945,
     yearEnd: 1948,
     summary: 'Lata 1945–1948 to czas największego w historii Polski przymusowego przemieszczenia ludności: ok. 2 mln Polaków przybyło z Kresów Wschodnich na Ziemie Odzyskane, ok. 3–4 mln Niemców opuściło te same tereny, a setki tysięcy Ukraińców przesiedlono na wschód.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Powojenne_przesiedlenia_na_Ziemiach_Odzyskanych_1945-1959.png?width=800',
+    imageCaption: 'Mapa powojennych przesiedleń na Ziemiach Odzyskanych w latach 1945–1959 (opracowanie współczesne, 2024)',
     content: `## Skala i kontekst
 
 Koniec II wojny światowej przyniósł zmianę granic Polski o ok. 250 km na zachód. Tracąc Kresy Wschodnie, Polska zyskała Ziemie Odzyskane (Dolny Śląsk, Pomorze, część Brandenburgii, Warmia i Mazury). Obydwie strony tej transakcji oznaczały masowe i brutalne przesiedlenia milionów ludzi.
@@ -6885,6 +6957,14 @@ Wiele dokumentów trafiało "na półkę" – nie dopuszczano ich do rozpowszech
     trivia: ['Dokumentaliści potrafili mówić prawdę między wierszami.', 'Wielu twórców fabuły zaczynało właśnie od dokumentu.'],
     resources: [
       {
+        id: 'film-dokumentalny-prl-yt',
+        title: 'Z miasta Łodzi (1969), reż. Krzysztof Kieślowski – Instytut Adama Mickiewicza',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=BWlAyEV2pgQ',
+        source: 'YouTube',
+        description: 'Wczesny dokument Kieślowskiego o Łodzi i jej mieszkańcach, udostępniony przez Instytut Adama Mickiewicza ze wstępem Michała Oleszczyka.',
+      },
+      {
         id: 'dok-1',
         title: 'Polskie filmy dokumentalne',
         type: 'film',
@@ -7055,6 +7135,8 @@ Emigracja naukowców była stałym problemem. Wybitni uczeni opuszczali PRL – 
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'Moda w PRL była polem walki między szarością systemu a ludzką potrzebą wyrazu. Oficjalna estetyka stawiała na skromność i uniformizm. Młodzież szukała dżinsów, kolorowych swetrów i zachodnich ciuchów – jako symbolu wolności i buntu.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Elementy_folklorystyczne_w_modzie_%28%E2%80%9EModa_Polska%E2%80%9D%2C_CPLiA%29_-_P%C5%82ock_-_000387s.jpg?width=800',
+    imageCaption: 'Pokaz strojów z elementami folklorystycznymi (Moda Polska, Cepelia) w Płocku, 1971 (fot. Józef Burszta)',
     content: `## Oficjalna estetyka – szary człowiek
 
 Strój w PRL był z założenia skromny i funkcjonalny. Władza nie zachęcała do "burżuazyjnego" stroju; wyjść wyróżniającym się ubiorem oznaczało zwracać na siebie uwagę. Robocze kombinezony, szare garnitury, chusty na głowie – to codzienny obraz polskiej ulicy lat 50.
@@ -7076,6 +7158,14 @@ Zachodnie dżinsy – symbol kontrkultury – stały się w PRL fetyszem wolnoś
 Lata 80. przyniosły pewną liberalizację mody: krakowskie bazary, "ciucholandy" (second-handy importowane z Zachodu), pierwsze prywatne sklepy odzieżowe. Młodzież ubrana w kolorowe dresy, militaria i elementy punk – mimo szarości systemu – budowała własną estetykę.`,
     trivia: ['Ubrania szyto samodzielnie albo u krawcowej.', 'Dżinsy z Pewexu były przedmiotem marzeń całego pokolenia.'],
     resources: [
+      {
+        id: 'moda-prl-yt',
+        title: 'Moda PRL – sukienki ze spadochronu, bufki i odrzutowe pantofelki (Culture.pl)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=DJzxJPYE-tY',
+        source: 'YouTube',
+        description: 'Joanna Kowalska z Muzeum Narodowego w Krakowie, kuratorka wystawy Modna i już, opowiada o modzie w PRL.',
+      },
       {
         id: 'moda-1',
         title: 'Moda i ubiór w PRL – zdjęcia i grafiki',
@@ -7300,6 +7390,8 @@ W latach 80. emigracja zachodnia aktywnie wspierała "Solidarność": zbierała 
     yearStart: 1989,
     yearEnd: 2025,
     summary: 'Po 1989 r. część Polaków zaczęła wspominać PRL z sentymentem – nie politykę i represje, lecz stabilność, wspólnotowość i prostotę życia. Zjawisko to – "ostalgia" po polsku – jest złożone: miesza autentyczną tęsknotę z selektywną pamięcią i popkulturowym recyclingiem.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Muzeum_%C5%BBycia_w_PRL%2C_Warszawa_%289%29.jpg?width=800',
+    imageCaption: 'Ekspozycja dawnych opakowań w Muzeum Życia w PRL w Warszawie (fot. współczesna, 2022)',
     content: `## Skąd tęsknota?
 
 Transformacja 1989–1990 przyniosła wolność – i szok ekonomiczny. Bezrobocie, likwidacja zakładów pracy, wzrost nierówności, utrata poczucia bezpieczeństwa socjalnego. Dla wielu – szczególnie starszych i gorzej wykształconych – "było gorzej, ale przynajmniej było pewniej". Praca, mieszkanie i podstawowa opieka zdrowotna były zagwarantowane.
@@ -7321,6 +7413,14 @@ Nostalgia za PRL jest też instrumentalizowana politycznie: partie lewicowe chę
 Historycy wskazują, że nostalgia za PRL jest specyficzna dla pokolenia dorosłości w tamtych czasach – i maleje wśród młodszych, wychowanych po 1989 r. Zarazem rośnie akademickie zainteresowanie historią codzienności PRL, wykraczające poza narrację represji.`,
     trivia: ['Nostalgia dotyczy najczęściej dzieciństwa, a nie ustroju.', 'Powstały muzea i lokale stylizowane na epokę.'],
     resources: [
+      {
+        id: 'nostalgia-prl-yt',
+        title: 'Nowe wystawy w nowohuckim oddziale MHK i Muzeum PRL-u (Muzeum Krakowa)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=chq4ZcJYJVs',
+        source: 'YouTube',
+        description: 'Materiał Muzeum Krakowa o wystawach w Nowej Hucie, w tym w krakowskim Muzeum PRL-u, przykład muzealnej pamięci o epoce.',
+      },
       {
         id: 'nostalgia-1',
         title: 'Nostalgia za PRL – opracowania',
@@ -7773,6 +7873,8 @@ Po śmierci Stalina (1953) i XX Zjeździe KPZR (1956) socrealizm zaczął się k
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'PRL zbudował system powszechnej, bezpłatnej opieki zdrowotnej – jeden z najważniejszych sukcesów społecznych. W praktyce oznaczał on chroniczne niedobory leków, przestarzały sprzęt, wielomiesięczne kolejki i łapówki dla lekarzy.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Szpital_przy_ul._Wo%C5%82oskiej_w_Warszawie_w_latach_60.jpg?width=800',
+    imageCaption: 'Szpital przy ul. Wołoskiej w Warszawie w latach 60. (fot. Zbyszko Siemaszko)',
     content: `## Nacjonalizacja i budowa systemu
 
 Po 1945 r. władze PRL znacjonalizowały szpitale, przychodnie i apteki. Zbudowano sieć przychodni zakładowych (przy dużych fabrykach) i rejonowych. W ciągu 20 lat liczba lekarzy i szpitali wzrosła kilkakrotnie – to realny sukces: przed wojną dostęp do opieki medycznej był nierówny i drogi.
@@ -8497,6 +8599,8 @@ Chruszczow rządził ZSRR do 1964 r. Jego czas to "odwilż" – ograniczenie ter
     yearStart: 1931,
     yearEnd: 2000,
     summary: 'Ks. Józef Tischner – krakowski filozof i kapelan "Solidarności", autor "Etyki solidarności" – był jednym z najważniejszych intelektualnych głosów polskiego przełomu. Łączył fenomenologię i etykę z ciepłem i humorem górala z Podhala.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3zef_Tischner_-_Grave_02.jpg?width=800',
+    imageCaption: 'Tabliczka na grobie ks. Józefa Tischnera na cmentarzu w Łopusznej (fot. współczesna, 2007)',
     content: `## Góral i filozof
 
 Józef Tischner urodził się 12 marca 1931 r. w Starym Sączu. Dorastał w Łopusznej na Podhalu i przez całe życie był "filozofującym góralem": łączył akademicką głębię z ciepłem i humorem. Studiował filozofię na KUL-u i UJ, uzyskał doktorat w 1959 r.
@@ -8518,6 +8622,14 @@ Tischner był kapłanem krakowskim związanym z Tygodnikiem Powszechnym i środo
 Tischner zachorował na raka mózgu i umarł w 2000 r. Jego twórczość – "Myślenie według wartości", "Historia filozofii po góralsku" – jest dziś szeroko czytana. Instytut Myśli Józefa Tischnera działa w Krakowie.`,
     trivia: ['Był kapelanem Solidarności i filozofem dialogu.', 'Napisał „Historię filozofii po góralsku” – gwarą podhalańską.'],
     resources: [
+      {
+        id: 'tischner-yt',
+        title: 'Rozmowy z ks. prof. Józefem Tischnerem – Odkrywamy skarby telewizji (TVP3 Katowice)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Xp75gQyKIOI',
+        source: 'YouTube',
+        description: 'Archiwalne rozmowy telewizyjne z ks. Józefem Tischnerem udostępnione przez TVP3 Katowice w cyklu Odkrywamy skarby telewizji.',
+      },
       {
         id: 'tischner-culture',
         title: 'Ks. Józef Tischner w serwisie Culture.pl',
