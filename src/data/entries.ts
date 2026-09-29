@@ -2523,23 +2523,27 @@ Październik 1956 nie zmienił zasad systemu. Cenzura pozostała, Polska trwała
     tags: ['UB', 'MBP', 'Radkiewicz', 'terror', 'stalinizm', 'NKWD', 'bezpieka'],
     yearStart: 1944,
     yearEnd: 1956,
-    summary: 'Urząd Bezpieczeństwa (UB) – stalinowski aparat terroru działający w Polsce w latach 1944–1956. Podległy Ministerstwu Bezpieczeństwa Publicznego, przy sowieckim nadzorze NKWD/MWD, prowadził masowe aresztowania, tortury i egzekucje przeciwników politycznych.',
+    summary: 'Urząd Bezpieczeństwa (UB) – potoczna nazwa stalinowskiego aparatu bezpieczeństwa z lat 1944–1956, podległego Ministerstwu Bezpieczeństwa Publicznego i tworzonego pod dyktatem radzieckim; prowadził masowe aresztowania, śledztwa z użyciem tortur i procesy polityczne.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Toivi%20Hersz%20Blatt%20%28Boles%C5%82aw%20Stankiewicz%29%2C%20Urz%C4%85d%20Bezpiecze%C5%84stwa%20Publicznego%2C%20Ankieta%20Specjalna.png?width=800',
-    imageCaption: 'Centralna Szkoła Oficerów Politycznych Ministerstwa Bezpieczeństwa Publicznego w Łodzi, 1947',
+    imageCaption: 'Ankieta specjalna Urzędu Bezpieczeństwa Publicznego – kwestionariusz kadrowy funkcjonariusza',
     content: `## Aparat
-Urząd Bezpieczeństwa – potocznie bezpieka – to niewojskowe struktury aparatu bezpieczeństwa działające w okresie stalinizmu, od 1944 do 1956 roku. Centralą było Ministerstwo Bezpieczeństwa Publicznego kierowane przez Stanisława Radkiewicza.
+Urząd Bezpieczeństwa, potocznie bezpieka, to zwyczajowa nazwa organów bezpieczeństwa publicznego z lat 1944–1956. Wzięła się od terenowych urzędów bezpieczeństwa publicznego: wojewódzkich, miejskich i powiatowych. Centralą był najpierw Resort Bezpieczeństwa Publicznego PKWN, od 1 stycznia 1945 roku Ministerstwo Bezpieczeństwa Publicznego. Przez cały ten czas kierował nim Stanisław Radkiewicz. Kadry szkolono w ZSRR – wiosną 1944 roku grupa polskich komunistów przeszła kurs w szkole NKWD w Kujbyszewie.
 
-## Zadania
-Głównym celem było zwalczanie podziemia niepodległościowego, opozycji politycznej i Kościoła. Aparat prowadził śledztwa, dysponował własnymi więzieniami i rozbudowaną siecią agentury, a jego funkcjonariusze mieli praktycznie nieograniczoną swobodę wobec zatrzymanych.
+## Rozrost
+Na bezpiekę wydawano ogromne pieniądze. W 1946 roku budżet MBP był większy niż budżet Ministerstwa Oświaty, a na odbudowę kraju przeznaczono ośmiokrotnie mniej. W 1953 roku aparat osiągnął szczyt: 33 200 etatowych funkcjonariuszy i ponad 85 tysięcy tajnych współpracowników. Ministerstwu podlegały też KBW, MO, WOP, więziennictwo i ORMO.
 
-## Metody
-Standardem było wielogodzinne przesłuchiwanie, pozbawianie snu, karcer, bicie i szantaż wobec rodziny. Zeznania uzyskane w ten sposób stanowiły podstawę wyroków w procesach politycznych, także tych zakończonych karą śmierci.
+## Zadania i metody
+Głównym celem było zwalczanie podziemia niepodległościowego, opozycji politycznej i Kościoła. Aparat prowadził śledztwa, rozbudowaną agenturę i gry operacyjne, takie jak fikcyjna V Komenda WiN. Akta założono około 5,2 miliona obywateli. Zeznania wymuszane w śledztwie, także torturami, były podstawą wyroków w procesach politycznych, w tym kar śmierci.
+
+## Ucieczka Światły
+5 grudnia 1953 roku w Berlinie zbiegł na Zachód ppłk Józef Światło, wicedyrektor Departamentu X MBP. W audycjach Radia Wolna Europa „Za kulisami bezpieki i partii” ujawnił kulisy aresztowań i tortur. Jego relacje, zrzucane też w broszurach z balonów, wywołały wstrząs w kierownictwie.
 
 ## Koniec i ciąg dalszy
-Po ucieczce Józefa Światły i jego audycjach w Radiu Wolna Europa ministerstwo rozwiązano w grudniu 1954 roku. Jego zadania przejęła powołana w 1956 roku Służba Bezpieczeństwa – zmieniły się nazwa i metody, nie sam cel istnienia.`,
+7 grudnia 1954 roku MBP zlikwidowano. Jego miejsce zajęły Ministerstwo Spraw Wewnętrznych i Komitet do spraw Bezpieczeństwa Publicznego. Terenowe urzędy działały dalej do 1956 roku. W listopadzie 1956 roku zadania przejęła mniej liczna Służba Bezpieczeństwa w MSW – nie zmienił się jednak sam cel jej istnienia.`,
     trivia: [
-      'Aparat dysponował własnymi więzieniami, niezależnymi od więziennictwa cywilnego.',
-      'Ministerstwo rozwiązano po tym, jak jego wicedyrektor Józef Światło ujawnił metody pracy w Radiu Wolna Europa.',
+      'W 1946 roku na odbudowę kraju przeznaczono ośmiokrotnie mniej pieniędzy niż na budżet MBP.',
+      'W grudniu 1953 roku bezpieka miała ponad 85 300 tajnych współpracowników.',
+      'Józef Światło uciekł do Amerykanów podczas wyjazdu służbowego do Berlina, na który pojechał z płk. Anatolem Fejginem.',
     ],
     resources: [
       {
@@ -8959,6 +8963,8 @@ Moczar jest symbolem narodowo-komunistycznej hybrydy: połączenia nacjonalizmu 
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'Polska muzyka poważna PRL wydała twórców światowego formatu: Krzysztofa Pendereckiego, Witolda Lutosławskiego i Henryka Mikołaja Góreckiego. Ich awangardowe dzieła zdobyły uznanie na Zachodzie, mimo że system próbował narzucić im socrealizmstruktury.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Donaueschingen-_Donaueschinger_Musiktage%3B_Stadthalle%3B_Krysztof_Penderecki%2C_Portr%C3%A4t_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._070919a.jpeg?width=800',
+    imageCaption: 'Krzysztof Penderecki nad partyturą podczas festiwalu Donaueschinger Musiktage, 21 października 1962 (fot. Willy Pragher, Staatsarchiv Freiburg)',
     content: `## Socrealizm i opór kompozytorów
 
 W latach 1949–1956 kompozytorzy byli zobowiązani do tworzenia "muzyki dostępnej dla ludu" – melodyjnej, optymistycznej, często opartej na folklorze. Lutosławski pisał w tym czasie piosenki dla dzieci i opracowania ludowe. Penderecki jeszcze się kształcił. Wielu twórców milczało lub komponowało "do szuflady".
@@ -10188,6 +10194,8 @@ Komeda zostawił ok. 20 nagrań studyjnych i muzykę do ponad 50 filmów. Jego k
     yearStart: 1955,
     yearEnd: 1957,
     summary: 'Październik 1956 roku był możliwy nie tylko dzięki decyzjom na szczytach partyjnych, ale też dzięki ożywieniu środowisk studenckich i inteligencji twórczej. Tygodnik "Po prostu", Dyskusyjne Kluby Filmowe i gorące debaty na uczelniach tworzyły atmosferę, w której reforma stała się możliwa.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gomulka_speech.jpg?width=800',
+    imageCaption: 'Wiec na placu Defilad w Warszawie 24 października 1956 – przemawia Władysław Gomułka (autor nieznany)',
     content: `Proces destalinizacji w Polsce w latach 1955–1957 miał szczególny wymiar kulturalny i intelektualny – studenci, dziennikarze i artyści byli ważnymi aktorami odwilży.
 
 **"Po prostu" – głos pokolenia**
@@ -10217,6 +10225,14 @@ W październiku 1956 roku, gdy PZPR ważyła kurs reformatorski czy konserwatywn
 Reformy były ograniczone. Zamknięcie "Po prostu" w 1957, powolne przywracanie cenzury, "wyhamowanie" swobody akademickiej pokazały, że Gomułka traktował odwilż instrumentalnie. Inteligencja, która z entuzjazmem przyjęła Październik, stopniowo się rozczarowywała – co stało się ważnym tłem dla Marca 1968.`,
     trivia: ['Studenci i inteligencja byli motorem odwilży.', 'Likwidacja tygodnika „Po prostu” wywołała uliczne protesty.'],
     resources: [
+      {
+        id: 'pazdziernik-1956-studenci-yt',
+        title: 'Nie tylko Po prostu. Pisma młodej inteligencji w dobie odwilży (konferencja IPN)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=9TbOFG_6gGI',
+        source: 'YouTube',
+        description: 'Sesja konferencji Instytutu Pamięci Narodowej o prasie studenckiej i młodej inteligencji w latach 1955–1958.',
+      },
       {
         id: 'poprostu-polona',
         title: 'Studenci i inteligencja w Październiku 1956 – opracowania',
@@ -10421,6 +10437,8 @@ Kieślowski pokazał, że kino może być filozofią. Jego filmy pytają o sens 
     yearEnd: 1989,
     shortDesc: 'Permanentny niedobór dóbr i wielogodzinne kolejki – codzienność Polaków w epoce PRL.',
     trivia: ['Powstawały „społeczne komitety kolejkowe”, a numerki zapisywano długopisem na dłoniach.', 'Często stało się w kolejce, nie wiedząc nawet, co akurat „rzucą” do sklepu.'],
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Poland_queue_1981.jpg?width=800',
+    imageCaption: 'Kolejka do sklepu w Warszawie, 1981 (fot. BenteJ, Flickr)',
     content: `## Kolejki i braki towarów w PRL
 
 Kolejka stała się symbolem PRL. W krajach Bloku Wschodniego brak towarów w sklepach był chronicznym problemem gospodarki nakazowo-rozdzielczej. W Polsce dosłownie po wszystko stało się w kolejkach: po mięso, masło, papier toaletowy, węgiel, benzinę, a nawet po numery kolejkowe do kolejek po inne towary.
@@ -10456,6 +10474,14 @@ Humorystyczna opowieść tamtej epoki: „Co to jest kolejka po mięso? – Ogon
 Liberalizacja cen w 1989–1990 roku zlikwidowała kolejki niemal z dnia na dzień. Towary pojawiły się w sklepach, ale ceny wzrosły dramatycznie – to był szok transformacji. Dla starszych Polaków porównanie pustych półek z pełnymi sklepami stało się jednym z najmocniejszych argumentów za kapitalizmem.`,
     resources: [
       {
+        id: 'kolejki-prl-yt',
+        title: 'Życie na kartki – Polska Kronika Filmowa 1981',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=gYJvMoslXdo',
+        source: 'YouTube',
+        description: 'Fragment Polskiej Kroniki Filmowej z 1981 roku o reglamentacji i zaopatrzeniu sklepów.',
+      },
+      {
         id: 'kolejki-polona',
         title: 'Kolejki i braki towarów – opracowania',
         type: 'publikacja',
@@ -10490,6 +10516,8 @@ Liberalizacja cen w 1989–1990 roku zlikwidowała kolejki niemal z dnia na dzie
     yearStart: 1956,
     yearEnd: 1989,
     shortDesc: 'Masowe budownictwo z prefabrykatów – wielka płyta – i polityka mieszkaniowa PRL.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Warszawa_Ursyn%C3%B3w%2C_Budowa_dom%C3%B3w_przy_ulicy_Wiolinowej_1%2C_3_%2C_6_i_8._%281976-77r.%29_-_panoramio.jpg?width=800',
+    imageCaption: 'Budowa bloków przy ul. Wiolinowej na warszawskim Ursynowie, zima 1976/1977 (fot. jangol2, Panoramio)',
     content: `## Wielka płyta i budownictwo mieszkaniowe w PRL
 
 Masowe budownictwo mieszkaniowe z prefabrykatów betonowych – zwane „wielką płytą" – było jednym z największych projektów urbanistycznych PRL. Miliony Polaków przeprowadziły się ze starych kamienic i wsi do nowych blokowisk, które zmieniły oblicze polskich miast.
@@ -10525,6 +10553,14 @@ Posiadanie własnego mieszkania było celem życiowym – nieporównywalnie trud
 Wielka płyta stała się problemem po 1989 roku. Bloki mają ograniczoną żywotność – projektowane na 50–70 lat, wiele z nich wymaga dziś gruntownych remontów. Termomodernizacja, wymiana instalacji, nowe windy – to wyzwania polskich miast w XXI wieku. Mimo to wielka płyta pozostanie z nami na długo.`,
     trivia: ['Na mieszkanie spółdzielcze czekało się kilkanaście lat.', 'Wielka płyta pozwoliła budować szybko i masowo.'],
     resources: [
+      {
+        id: 'mieszkania-prl-yt',
+        title: 'Na nowoczesnej budowie (1976)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=NYW5bnD-3Z8',
+        source: 'YouTube',
+        description: 'Dokument Wytwórni Filmów Oświatowych w reżyserii Wiesława Drymera o budowie osiedla mieszkaniowego w epoce Gierka.',
+      },
       {
         id: 'mieszkania-polona',
         title: 'Wielka płyta i budownictwo mieszkaniowe – opracowania',
@@ -14097,24 +14133,28 @@ W kulturze pod nadzorem cenzury wiersz śpiewany w klubie studenckim pozwalał m
     tags: ['sport', 'himalaizm', 'góry', 'lata 80.', 'wyczyn'],
     yearStart: 1979,
     yearEnd: 1989,
-    summary: 'Na przełomie lat 70. i 80. polscy wspinacze zdominowali himalaizm wysokogórski, zdobywając zimą ośmiotysięczniki i zyskując miano „lodowych wojowników”.',
+    summary: 'W latach 80. polscy himalaiści dokonali wszystkich pierwszych zimowych wejść na ośmiotysięczniki – od Everestu w 1980 roku po Lhotse w 1988 – i zyskali miano „lodowych wojowników”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jerzy_Kukuczka_Mount_Everest_1980.jpg?width=800',
     imageCaption: 'Jerzy Kukuczka na Mount Evereście, 1980',
-    content: `## Fenomen
-Lata 70. i 80. to złota era polskiego himalaizmu. W szarej rzeczywistości PRL góry najwyższe stały się dla wielu Polaków przestrzenią wolności, ambicji i wyczynu na światowym poziomie.
+    content: `## Droga do Himalajów
+Po wojnie polscy wspinacze długo nie mogli wyjeżdżać w góry wysokie. Starania wznowiono dopiero w 1956 roku, a pierwsza wyprawa w góry wysokie ruszyła w 1960 roku w Hindukusz. Tymczasem prawie wszystkie ośmiotysięczniki zdobyto już w latach 1950–1964. Polacy nie mogli więc rywalizować o pierwsze wejścia. Rzucili światu inne wyzwanie – wspinaczkę zimową.
 
-## Zimowe ośmiotysięczniki
-Polacy zasłynęli jako pionierzy wspinaczki zimowej. W 1980 roku Leszek Cichy i Krzysztof Wielicki dokonali pierwszego zimowego wejścia na Mount Everest. To otworzyło serię polskich zimowych sukcesów na ośmiotysięcznikach.
+## Zimowy pionier
+Prekursorem był Andrzej Zawada. W lutym 1973 roku z Tadeuszem Piotrowskim zdobył zimą siedmiotysięczny Noszak. Na przełomie 1974 i 1975 roku prowadził wyprawę na Lhotse. 25 grudnia 1974 roku Zawada i Andrzej Heinrich doszli na wysokość 8250 metrów – po raz pierwszy przekroczono zimą 8000 metrów.
 
-## Gwiazdy
-Na szczyty wspinali się Jerzy Kukuczka, Wanda Rutkiewicz, Krzysztof Wielicki, Andrzej Zawada (organizator wypraw), Wojciech Kurtyka i Artur Hajzer. Andrzej Zawada był charyzmatycznym liderem polskich wypraw.
+## Everest 1980
+Zawada kierował też wyprawą na Mount Everest w sezonie 1979/1980. Po budowie obozów i dwutygodniowej przerwie wymuszonej huraganowym wiatrem 17 lutego 1980 roku na szczycie stanęli Leszek Cichy i Krzysztof Wielicki. Było to pierwsze w historii zimowe wejście na ośmiotysięcznik. Reinhold Messner nazwał je później najważniejszym wejściem na ośmiotysięcznik w historii alpinizmu.
 
-## Cena
-Wyczyny okupione były tragediami – w górach zginęło wielu wybitnych wspinaczy. Mimo skromnego, często samodzielnie zdobywanego sprzętu Polacy osiągali to, co dla bogatszych ekspedycji było nieosiągalne.
+## Złota dekada
+W latach 80. wszystkie pierwsze zimowe wejścia na ośmiotysięczniki należały do Polaków: Manaslu w 1984, Dhaulagiri i Czo Oju w 1985, Kanczendzonga w 1986, Annapurna w 1987 i Lhotse w 1988 roku. Równolegle powstawały trudne nowe drogi latem. Wanda Rutkiewicz 23 czerwca 1986 roku jako pierwsza kobieta stanęła na K2. Jerzy Kukuczka jako jedyny zdobył dwa ośmiotysięczniki podczas jednej zimy. Zagraniczni wspinacze nazwali Polaków „lodowymi wojownikami”.
 
-## Znaczenie
-„Lodowi wojownicy” stali się źródłem dumy narodowej i dowodem, że mimo ograniczeń systemu Polacy potrafili być najlepsi na świecie.`,
-    trivia: ['Polacy zdobyli większość pierwszych zimowych wejść na ośmiotysięczniki.', 'Nazywano ich w świecie „lodowymi wojownikami”.'],
+## Cena i znaczenie
+Zimowe wyprawy wiązały się z ogromnym ryzykiem i w Himalajach oraz Karakorum zginęło wielu polskich wspinaczy. Sukcesy w górach stały się jednak źródłem dumy w szarej rzeczywistości PRL i dowodem, że mimo ograniczeń Polacy mogli być najlepsi na świecie.`,
+    trivia: [
+      'Wyprawa na Everest w 1980 roku dostała od władz Nepalu dwudniowe przedłużenie pozwolenia i szczyt zdobyto w ostatnim możliwym terminie.',
+      'Jerzy Kukuczka jako jedyny człowiek zdobył dwa ośmiotysięczniki w ciągu jednej zimy.',
+      'Z 14 pierwszych zimowych wejść na ośmiotysięczniki 10 należy do Polaków.',
+    ],
     resources: [
       {
         id: 'him-1',
@@ -14653,22 +14693,26 @@ Karpińskiemu odmawiano wyjazdów, a w 1978 roku wyjechał pod Olsztyn i zajął
     tags: ['życie codzienne', 'społeczeństwo', 'obyczaje', 'zdrowie'],
     yearStart: 1945,
     yearEnd: 1989,
-    summary: 'Spożycie alkoholu, zwłaszcza wódki, było powszechnym zjawiskiem społecznym PRL, a kolejne kampanie antyalkoholowe władz przynosiły ograniczone efekty.',
-    content: `## Powszechność
-Alkohol, przede wszystkim wódka, towarzyszył życiu codziennemu PRL – od uroczystości rodzinnych po załatwianie spraw urzędowych „na flaszkę”. Spożycie systematycznie rosło, stając się poważnym problemem społecznym.
+    summary: 'Spożycie alkoholu, zwłaszcza wódki, wzrosło w PRL do rozmiarów poważnego problemu społecznego; państwo było monopolistą produkcji, a izby wytrzeźwień i kolejne ustawy antyalkoholowe (1959, 1982) przynosiły ograniczone efekty.',
+    content: `## Powrót masowego picia
+W dwudziestoleciu międzywojennym spożycie czystego alkoholu na osobę nie przekraczało dwóch litrów rocznie, a pijaństwo uchodziło za zachowanie odstające od normy. W PRL spożycie znów wzrosło. Badacze łączą to m.in. z migracją ludności wiejskiej do miast i z popularnością uroczystości masowych. Alkohol stał się stałym elementem spotkań towarzyskich, świąt rodzinnych i religijnych, wesel, komunii i chrzcin.
 
-## Wódka jako waluta
-W gospodarce niedoboru butelka wódki pełniła rolę nieformalnej waluty – nią płacono fachowcom, urzędnikom i za przysługi. „Mała” i „pół litra” były elementem codzienności.
+## Wódka w życiu codziennym
+Rozpowszechniło się picie w miejscu pracy – przy imieninach, delegacjach, wyjazdach zakładowych i świętach branżowych. Pito w sposób prowadzący do szybkiego upicia, a wobec pijanych panowała pobłażliwość. Wódka kojarzyła się wtedy z pijatykami bez umiaru i alkoholizmem – ten wizerunek towarzyszył jej jeszcze długo po 1989 roku. Znaczna część alkoholu pochodziła z nielegalnej produkcji.
 
-## Kampanie antyalkoholowe
-Władze prowadziły kampanie trzeźwościowe, podnosiły ceny, ograniczały godziny sprzedaży (słynne „po trzynastej”) i tworzyły izby wytrzeźwień. Skuteczność tych działań była jednak ograniczona.
+## Państwowy monopol
+Cała produkcja należała do państwa. W 1949 roku powołano Centralny Zarząd Przemysłu Spirytusowego, a w 1959 roku Zjednoczenie Przemysłu Spirytusowego i Drożdżowego ze wspólnym znakiem Polmos. Liczbę gatunków wódek znacznie ograniczono. Lepsze gatunki szły na eksport za twardą walutę, a w kraju można je było kupić w Peweksach.
 
-## Godziny sprzedaży
-W 1982 roku, w okresie stanu wojennego, wprowadzono m.in. ograniczenie sprzedaży alkoholu, co prowadziło do kolejek i bimbrownictwa. Problem alkoholizmu pozostawał dotkliwy.
+## Walka z pijaństwem
+W maju 1956 roku powstały pierwsze izby wytrzeźwień, uruchamiane przez miejskie rady narodowe. 10 grudnia 1959 roku uchwalono ustawę o zwalczaniu alkoholizmu. 26 października 1982 roku Sejm przyjął ustawę o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi. Regulowała ona zasady sprzedaży, zakazy podawania alkoholu nieletnim i nietrzeźwym oraz działanie izb wytrzeźwień, a z nowelizacjami obowiązuje do dziś. Mimo tych przepisów skala spożycia pozostawała wysoka.
 
 ## Znaczenie
-Kwestia alkoholu ilustruje społeczne skutki gospodarki niedoboru i bezradność systemu wobec problemów codzienności, a temat ten często pojawiał się w kabarecie i filmie.`,
-    trivia: ['Wódka bywała walutą – płacono nią za usługi i przysługi.', 'Godziny sprzedaży alkoholu ograniczano przepisami.'],
+Kwestia alkoholu pokazuje bezradność systemu wobec problemów codzienności. Motyw ten był też obecny w literaturze – od „Złego” Tyrmanda po opowiadania Marka Hłaski, u którego alkohol stał się niemal jednym z bohaterów.`,
+    trivia: [
+      'Izby wytrzeźwień powstały w Polsce w maju 1956 roku i początkowo uruchamiały je miejskie rady narodowe.',
+      'W 1959 roku zakłady przemysłu spirytusowego przyjęły wspólny znak graficzny Polmos.',
+      'Ustawa o wychowaniu w trzeźwości z 26 października 1982 roku, uchwalona przez Sejm PRL, obowiązuje do dziś.',
+    ],
     resources: [
       {
         id: 'alkohol-prl-pkf',
@@ -16872,21 +16916,25 @@ Kampania protestacyjna zintegrowała środowiska, które kilka miesięcy późni
     tags: ['opozycja', 'nauka', 'edukacja', 'drugi obieg'],
     yearStart: 1977,
     yearEnd: 1981,
-    summary: 'Niezależne wykłady i Towarzystwo Kursów Naukowych z lat 70., kontynuujące tradycję tajnego nauczania wbrew cenzurze i kontroli władz.',
-    content: `## Wykłady w mieszkaniach
-Towarzystwo Kursów Naukowych powstało na początku 1978 roku. Organizowało wykłady z historii, socjologii, ekonomii i literatury – tematów, które na uczelniach podlegały cenzurze lub były wykładane wyłącznie w obowiązującej wersji. Zajęcia odbywały się w prywatnych mieszkaniach.
+    summary: 'Niezależne wykłady Uniwersytetu Latającego (1977) i Towarzystwa Kursów Naukowych (1978–1981), które w prywatnych mieszkaniach uczyły historii, ekonomii i literatury bez cenzury.',
+    content: `## Uniwersytet Latający
+Decyzję o zorganizowaniu niezależnych wykładów podjęli latem 1977 roku działacze studenccy z Warszawy i Krakowa, związani z KOR. Nazwę zaproponował prof. Edward Lipiński. Nawiązywała do tajnego Uniwersytetu Latającego z końca XIX wieku, który uczył tego, czego nie wykładano na rosyjskojęzycznym uniwersytecie w Warszawie. Całość zorganizował socjolog Andrzej Celiński, zwany „Rektorem”. Pierwszy wykład wygłosił 9 listopada 1977 roku Adam Michnik w mieszkaniu prof. Władysława Kunickiego-Goldfingera; słuchało go około 70 osób.
 
-## Nazwa
-Określenie „uniwersytet latający” nawiązywało do tajnego nauczania z czasów zaborów i okupacji. Wykłady „latały” też dosłownie: zmieniano miejsca, by utrudnić rozpracowanie.
+## Towarzystwo Kursów Naukowych
+Deklarację założycielską TKN ogłoszono 22 stycznia 1978 roku. Podpisali ją m.in. członkowie PAN, profesorowie, pisarze i poeci, wśród nich Wisława Szymborska, Maria Janion i Tadeusz Mazowiecki. Radzie programowej przewodniczył Jan Kielanowski. Działalność finansowano głównie z Funduszu Samoobrony Społecznej KOR i ze składek, także emigracyjnych.
 
-## Kto uczył
-Wykładowcami byli uznani naukowcy i publicyści, m.in. Bronisław Geremek, Jan Józef Lipski, Adam Michnik, Jacek Kuroń i Tadeusz Kowalik. Dla wielu studentów był to pierwszy kontakt z historią najnowszą opowiedzianą bez przemilczeń.
+## Wykłady i wydawnictwa
+Zajęcia z historii, socjologii, ekonomii i literatury odbywały się w prywatnych mieszkaniach w Warszawie, Krakowie, Wrocławiu, Łodzi i Poznaniu. Stałe cykle prowadzili m.in. Władysław Bartoszewski, Jerzy Jedlicki, Tadeusz Kowalik, Jacek Kuroń, Adam Michnik i Bohdan Cywiński. Omawiano tematy przemilczane lub fałszowane na uczelniach. W 1979 roku powstała Kasa Pomocy Naukowej dla represjonowanych oraz „Zeszyty TKN”.
 
 ## Represje
-Spotkania rozbijano: wyłączano prąd, blokowano wejścia, a bojówki opisywane w prasie jako „oburzeni obywatele” wdzierały się na wykłady i biły uczestników. Mimo to TKN działało do 1981 roku i stało się jednym z najważniejszych przedsięwzięć opozycji przedsierpniowej.`,
+Zimą 1978/1979 wykłady zakłócały grupy studentów inspirowane przez SZSP. Podczas najgroźniejszych incydentów, 7 i 21 marca 1979 roku, pobito wykładowców i słuchaczy. Jesienią SB zatrzymywała prelegentów, przeprowadzała rewizje i nakładała grzywny na właścicieli mieszkań. TKN przeszło wtedy na zamknięte seminaria, a poza Warszawą działalność praktycznie wygasła.
+
+## Koniec
+Po Sierpniu 1980 Towarzystwo działało jawnie. Przerwał je stan wojenny. W lutym 1982 roku internowani członkowie rady zdecydowali, by nie wznawiać go w konspiracji.`,
     trivia: [
-      'Nazwa nawiązywała do tajnego nauczania z czasów zaborów, ale wykłady „latały” też dosłownie – zmieniano mieszkania.',
-      'Spotkania rozbijały bojówki opisywane w prasie jako „oburzeni obywatele”.',
+      'Nazwę „Uniwersytet Latający” zaproponował ekonomista prof. Edward Lipiński.',
+      'Pierwszego wykładu Adama Michnika o rodowodzie Polski Ludowej słuchało około 70 osób.',
+      'Równolegle Teresa Bogucka zorganizowała „Latającą Bibliotekę”, wypożyczającą zakazane książki omawiane na wykładach.',
     ],
     resources: [
       {
@@ -19683,21 +19731,28 @@ Proces toczył się dokładnie wtedy, gdy w Moskwie negocjowano skład Tymczasow
     tags: ['represje', 'zbrodnia', 'ZSRR', '1945'],
     yearStart: 1945,
     yearEnd: 1945,
-    summary: 'Operacja wojsk sowieckich i komunistycznych z lipca 1945 roku w rejonie Augustowa; zaginęło ok. 600 osób, których losu do dziś nie wyjaśniono.',
+    summary: 'Operacja wojsk sowieckich z udziałem UB i LWP, przeprowadzona 10–25 lipca 1945 roku w rejonie Suwałk i Augustowa; około 600 zatrzymanych zaginęło bez śladu, a miejsca ich pochówku do dziś nie ustalono.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pomnik_Ofiar_Ob%C5%82awy_Augustowskiej_-_Suwa%C5%82ki_fot._Kamil_Korbik_2018.jpg?width=800',
     imageCaption: 'Miejsce pamięci ofiar obławy augustowskiej (fot. współczesna)',
     content: `## Operacja
-W lipcu 1945 roku w rejonie Suwałk i Augustowa przeprowadzono operację wojskową wymierzoną w podziemie niepodległościowe. Wzięły w niej udział oddziały Armii Czerwonej, formacje NKWD oraz wydzielone jednostki Ludowego Wojska Polskiego i Urzędu Bezpieczeństwa.
+Obława augustowska, zwana też lipcową, trwała od 10 do 25 lipca 1945 roku. Jej celem było rozbicie podziemia niepodległościowego w rejonie Suwałk i Augustowa. Operacją kierowali Sowieci: brały w niej udział oddziały 50 Armii, 62 Dywizja Wojsk Wewnętrznych NKWD i kontrwywiad wojskowy Smiersz. Wspierały ich polski Urząd Bezpieczeństwa i około 110–160 żołnierzy 1 Praskiego pułku piechoty. W pacyfikacji uczestniczył Mirosław Milewski, późniejszy szef MSW.
 
 ## Przebieg
-Wojsko otoczyło rozległy obszar Puszczy Augustowskiej i okolicznych wsi, przeczesując teren i zatrzymując mieszkańców. Zatrzymanych przesłuchiwano w prowizorycznych obozach; część zwolniono, część wywieziono w nieznanym kierunku.
+Wojsko otaczało wsie w Puszczy Augustowskiej i w jej okolicach, także w powiecie sokólskim. Zatrzymano ponad 7 tysięcy osób, więzionych w ponad pięćdziesięciu miejscach. W obozach filtracyjnych przesłuchiwano je i torturowano. Część zwolniono, 252 Litwinów przekazano NKWD Litewskiej SRR. Około 600 Polaków wywieziono w nieznanym kierunku i wszelki ślad po nich zaginął.
 
 ## Zaginieni
-Losu blisko sześciuset osób nigdy oficjalnie nie wyjaśniono. Nie wróciły do domów i nie odnaleziono ich grobów. Ze względu na charakter zbrodni – uprowadzenie i zamordowanie w tajemnicy, bez procesu i bez śladu – nazywa się ją „Małym Katyniem”.
+Rosyjska prokuratura wojskowa potwierdziła w 1995 roku aresztowanie przez Smiersz 592 osób. W 2011 roku historyk Nikita Pietrow opublikował depeszę gen. Wiktora Abakumowa do Ławrientija Berii. Wynikało z niej, że do Olecka przybyła z Moskwy specjalna ekipa Smiersza, by „zlikwidować” zatrzymanych. Miejsca pochówku nie ustalono. Obława bywa nazywana „Małym Katyniem”.
 
-## Milczenie
-Przez cały okres PRL temat był objęty całkowitym zakazem. Rodziny nie mogły prowadzić poszukiwań ani wystawić symbolicznych grobów. Badania podjęto dopiero po 1989 roku, a miejsce pochówku ofiar do dziś pozostaje nieustalone.`,
-    trivia: ['Bywa nazywana „małym Katyniem” – los zatrzymanych do dziś nie został wyjaśniony.', 'Obława objęła Suwalszczyznę latem 1945 roku.'],
+## Milczenie w PRL
+Władze PRL nigdy oficjalnie nie potwierdziły obławy. Delegacja z gminy Giby jeszcze w 1945 roku pytała Bieruta o zaginionych, a pod koniec lat 50. informacji szukali Jan Kłoczko i poseł Adam Palczak. Obie inicjatywy zablokowano, a ich uczestników represjonowano. Rzecznik rządu Jerzy Urban negował nawet samo zaginięcie ludzi. Dopiero w 1987 roku powstał Obywatelski Komitet Poszukiwań, a w Gibach stanął pomnik.
+
+## Po 1989 roku
+Śledztwo wszczęto w 1992 roku, a od 2000 roku prowadzi je IPN. W 2015 roku Sejm ustanowił 12 lipca Dniem Pamięci Ofiar Obławy Augustowskiej.`,
+    trivia: [
+      'Liczba 592 osób z depeszy Abakumowa niemal dokładnie odpowiada liczbie zaginionych mieszkańców regionu.',
+      'Ekshumacje w lesie koło Gib w latach 1987 i 1989 wykazały, że leżą tam żołnierze niemieccy, a nie ofiary obławy.',
+      'Na krzyżu na symbolicznej mogile w Gibach, postawionym w 1991 roku, wypisano 530 nazwisk.',
+    ],
     resources: [
       {
         id: 'oa-ipn1',
@@ -21468,21 +21523,28 @@ Górnik i Lubański to fundament, na którym wyrosły sukcesy reprezentacji lat 
     tags: ['represje', 'literatura', 'cenzura', 'proces'],
     yearStart: 1964,
     yearEnd: 1964,
-    summary: 'Proces 72-letniego pisarza, sygnatariusza Listu 34, oskarżonego o „szkalowanie PRL” za tekst wysłany do Radia Wolna Europa.',
+    summary: 'Proces 72-letniego pisarza, sygnatariusza Listu 34, skazanego w listopadzie 1964 roku na trzy lata więzienia za „rozpowszechnianie fałszywych wiadomości” w memoriale przeznaczonym dla Radia Wolna Europa; kary nie wykonano.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Melchior_Wa%C5%84kowicz_20-112.jpg?width=800',
     imageCaption: 'Melchior Wańkowicz przed 1950 rokiem',
     content: `## Pisarz
-Melchior Wańkowicz (1892–1974) był jednym z najbardziej znanych polskich reportażystów, autorem m.in. relacji spod Monte Cassino. Po latach na emigracji wrócił do kraju w 1958 roku – co władze przedstawiały jako dowód, że z PRL da się układać.
+Melchior Wańkowicz (1892–1974), uznawany za ojca polskiego reportażu, był w czasie wojny korespondentem II Korpusu gen. Andersa. Jego trzytomowa „Bitwa o Monte Cassino” stała się najpopularniejszą z jego książek. Po latach emigracji wrócił na stałe do kraju 27 maja 1958 roku. W PRL wydawano jego książki, ale często okrojone przez cenzurę – z krajowego „Monte Cassino” usunięto niemal cały pierwszy tom.
 
 ## List 34
-W 1964 roku Wańkowicz znalazł się wśród sygnatariuszy Listu 34 – krótkiego protestu pisarzy i uczonych przeciw polityce kulturalnej i ograniczeniom przydziału papieru. Był to pierwszy zbiorowy protest środowisk twórczych w PRL.
+W marcu 1964 roku Wańkowicz podpisał List 34 – dwuzdaniowy protest intelektualistów do premiera Cyrankiewicza przeciw ograniczaniu przydziału papieru i zaostrzaniu cenzury. Według Jana Nowaka-Jeziorańskiego to od Wańkowicza Radio Wolna Europa dowiedziało się o liście. Sygnatariuszy spotkały represje: zakazy publikacji i odmowy paszportów.
+
+## Aresztowanie
+Bezpośrednim powodem aresztowania był inny tekst. Pisarz wysłał córce w USA memoriał krytyczny wobec PRL, przeznaczony dla Wolnej Europy i innych rozgłośni. Przesyłkę przechwyciła SB. 5 października 1964 roku 72-letniego Wańkowicza aresztowano. Pięć tygodni spędził w areszcie w Pałacu Mostowskich, pod stałym nadzorem dwóch milicjantów.
 
 ## Proces
-Jeszcze w tym samym roku postawiono go przed sądem, zarzucając przekazanie za granicę tekstów szkalujących Polskę. Wyrok był stosunkowo łagodny, a kary nie wykonano, ale sam fakt sądzenia pisarza tej rangi miał wymiar ostrzeżenia dla całego środowiska.
+Proces przed Sądem Wojewódzkim w Warszawie ruszył 26 października. Oskarżono go o „rozpowszechnianie fałszywych wiadomości” o państwie. Zagranicznych korespondentów nie wpuszczono na salę. Wańkowicz przyznał się do napisania memoriału, ale nie do winy, i zaprzeczał kontaktom z RWE. 10 listopada skazano go na trzy lata więzienia – minimalny wymiar kary – skrócone amnestią do półtora roku. Zwolniono go od razu po wyroku.
 
 ## Efekt
-Sprawa odbiła się echem za granicą i zaszkodziła władzom bardziej, niż pomogła. Pokazała mechanizm, który powtórzy się później wielokrotnie: represja wobec znanego twórcy nie uciszała środowiska, lecz nadawała sprawie rozgłos, którego bez niej by nie miała.`,
-    trivia: ['Proces wytoczono pisarzowi po podpisaniu przez niego Listu 34.', 'Sprawa odbiła się szerokim echem także poza granicami Polski.'],
+Władze nie zdecydowały się wykonać kary. Proces, przeciw któremu protestowano w kraju i za granicą, zamiast dać nauczkę, przysporzył pisarzowi sympatii. SB inwigilowała go jednak do końca życia. Zrehabilitowano go dopiero 16 marca 1990 roku.`,
+    trivia: [
+      'W areszcie w Pałacu Mostowskich w pokoju Wańkowicza dzień i noc paliła się nieosłonięta żarówka, a pilnowało go dwóch milicjantów.',
+      'Jednym z informatorów SB donoszących na Wańkowicza był pisarz Kazimierz Koźniewski, który zeznawał też na jego procesie.',
+      'Pisarza zrehabilitowano w procesie z 16 marca 1990 roku, 16 lat po jego śmierci.',
+    ],
     resources: [
       {
         id: 'wan-1',
@@ -26730,19 +26792,23 @@ Budował piosenki na wyrazistej melodii i prostym, zapadającym w pamięć refre
     yearStart: 1973,
     summary: 'Ekranizacja dramatu Stanisława Wyspiańskiego w reżyserii Andrzeja Wajdy (1973); narodowy dramat o marazmie i niemocy, zwieńczony hipnotycznym chocholim tańcem.',
     content: `## Ekranizacja
-„Wesele” Andrzeja Wajdy, zrealizowane w 1972 roku i pokazane rok później, to adaptacja dramatu Stanisława Wyspiańskiego. Akcja rozgrywa się w bronowickiej chacie, gdzie inteligencja i chłopi świętują ślub Pana Młodego z Panną Młodą.
+„Wesele” Andrzeja Wajdy to adaptacja dramatu Stanisława Wyspiańskiego, zrealizowana w 1972 roku. Prapremiera odbyła się 8 stycznia 1973 roku w krakowskim Teatrze Słowackiego, a dzień później film wszedł do kin. Akcja toczy się w bronowickiej chacie, gdzie inteligencja i chłopi świętują ślub inteligenta Pana Młodego z chłopką Panną Młodą. Pierwowzorem był ślub poety Lucjana Rydla z Jadwigą Mikołajczykówną w 1900 roku.
 
-## Zjawy
-W trakcie zabawy pojawiają się postacie z przeszłości, prowadzące z gośćmi rozmowy o polskiej historii i o tym, co z niej wynika. Wajda nakręcił to jako jeden narastający, gorączkowy ruch – kamera niemal nie przestaje krążyć wśród tańczących.
+## Realizacja
+Scenariusz napisał Andrzej Kijowski. Wajda zaczął od zdjęć plenerowych, ale po czterech tygodniach uznał, że akcja traci napięcie, i przeniósł ją do studia. Scenograf Tadeusz Wybult zbudował tam chatę w naturalnych rozmiarach, wypełnioną tłumem aktorów. Operator Witold Sobociński sam prowadził kamerę w rytm muzyki Stanisława Radwana, a ściany izby pomalowano na barwy z palety obrazów Wyspiańskiego. Pana Młodego zagrał Daniel Olbrychski, Rachelę – Maja Komorowska.
 
-## Dlaczego wracano do tego tekstu
-Dramat Wyspiańskiego mówi o niezdolności do wspólnego działania i o czekaniu na sygnał, który nie nadchodzi. W 1972 roku, dwa lata po Grudniu i osiem lat przed Sierpniem, ta diagnoza czytała się jako komentarz do współczesności – a przy tym była klasyką szkolną, więc cenzuralnie bezpieczną.
+## Zjawy i aktualizacja
+W trakcie zabawy weselnikom ukazują się zjawy: Stańczyk, Rycerz, Hetman, Rejtan, Upiór i Wernyhora. Wajda nie ukrywał, że chce dramat odczytać na nowo. Wernyhorę ucharakteryzowano na Józefa Piłsudskiego, postać w ówczesnym życiu publicznym przemilczaną. Dla części widzów film był więc nie tylko opowieścią o marazmie inteligencji sprzed stulecia, lecz także komentarzem do teraźniejszości – dwa lata po Grudniu 1970.
+
+## Odbiór
+W kraju recenzje były skrajnie różne. Zygmunt Kałużyński chwalił montaż, a Antoni Słonimski pisał, że poezję „zmasakrowano”. Za granicą film przyjęto ciepło: zdobył Srebrną Muszlę w San Sebastián, a czytelnicy pisma „Film” przyznali mu Złotą Kamerę dla najlepszego polskiego filmu 1973 roku.
 
 ## Chocholi taniec
-Końcowa scena, w której weselnicy tańczą w otępieniu, stała się jednym z najczęściej przywoływanych obrazów polskiej kultury i skrótem opisującym narodowy bezwład.`,
+Finał, w którym Jasiek gubi złoty róg, a odrętwiali weselnicy kołyszą się wokół Chochoła, stał się jednym z najczęściej przywoływanych obrazów polskiej kultury i skrótem opisującym narodowy bezwład.`,
     trivia: [
-      'Klasyka szkolna była cenzuralnie bezpieczna, więc pozwalała powiedzieć o współczesności więcej niż film o niej wprost.',
-      'Końcowy chocholi taniec stał się skrótem opisującym narodowy bezwład.',
+      'Po czterech tygodniach zdjęć plenerowych Wajda zrezygnował z większości nakręconego materiału i przeniósł akcję do studia.',
+      'Wernyhora w filmie został ucharakteryzowany na Józefa Piłsudskiego.',
+      'Zmontowany film składa się z 820 ujęć.',
     ],
     resources: [
       {
@@ -26794,25 +26860,29 @@ Końcowa scena, w której weselnicy tańczą w otępieniu, stała się jednym z 
     subtitle: 'Piosenka, satyra i „Najwięcej witaminy”',
     category: 'osoby',
     tags: ['muzyka', 'estrada', 'satyra', 'kabaret'],
-    yearStart: 1976,
+    yearStart: 1972,
     yearEnd: 1989,
     summary: 'Piosenkarz, satyryk i showman; przebój „Najwięcej witaminy” wygrał „Premiery” na festiwalu w Opolu w 1980 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej%20Rosiewicz.jpg?width=800',
     imageCaption: 'Andrzej Rosiewicz – piosenkarz i satyryk.',
-    content: `## Piosenkarz
-Andrzej Rosiewicz (ur. 1944) to piosenkarz estradowy, satyryk i kompozytor, rozpoznawalny po specyficznym, przerysowanym sposobie śpiewania i scenicznej ruchliwości.
+    content: `## Tancerz, sportowiec, piosenkarz
+Andrzej Rosiewicz urodził się 1 czerwca 1944 roku w Warszawie. Jako licealista był mistrzem warszawskich szkół średnich w skoku wzwyż i w dal. Ukończył melioracje wodne w SGGW, a równolegle przez pięć lat uczył się śpiewu solowego. Na estradę trafił już w 1953 roku jako członek zespołu „Dzieci Warszawy”, w którym zdobył klasę A w tańcu towarzyskim. W latach 60. występował w warszawskich klubach jazzowych, a w latach 1971, 1974 i 1977 na Jazz Jamboree.
 
-## Przeboje
-Największą popularność przyniosły mu „Najwięcej witaminy”, „Czy czuje pani cha-chę” i „Chłopcy radarowcy”, a także „Czterdzieści lat minęło” z czołówki serialu „Czterdziestolatek” – melodia rozpoznawana przez wszystkich, którzy oglądali telewizję w latach 70.
+## Opole i przeboje
+W 1972 roku z utworem „Samba wanna blues”, nagranym z Asocjacją Hagaw, zdobył nagrodę w Opolu. W 1976 roku uznano go tam za estradową osobowość roku. Karierę solową rozpoczął w 1978 roku i szybko stał się jednym z najpopularniejszych polskich piosenkarzy. Śpiewał „Czy czuje pani cha-chę”, „Zenek blues” i „Żaba story”, a także „Czterdzieści lat minęło...” z czołówki serialu „Czterdziestolatek”. W 1980 roku wygrał opolskie „Premiery” piosenką „Najwięcej witaminy”.
 
-## Przegląd Piosenki Prawdziwej
-W okresie legalnej Solidarności wystąpił na I Przeglądzie Piosenki Prawdziwej w gdańskiej hali Olivia – przedsięwzięciu, które zgromadziło utwory wcześniej nieprzepuszczane przez cenzurę. Udział w takiej imprezie miał wtedy jednoznaczny wydźwięk polityczny.
+## Piosenki zakazane
+Po powstaniu Solidarności nagrał „Chłopców radarowców” i utwory satyryczne, takie jak „Propaganda sukcesu”, „Chcemy prawdy” czy „Pieśń o zachodnich bankierach”. Radio i telewizja ich nie nadawały. Krążyły na amatorskich kasetach nagrywanych na koncertach, m.in. na I Przeglądzie Piosenki Prawdziwej „Zakazane Piosenki” w gdańskiej hali Olivia. Piosenki te odbierano wtedy jako głos antykomunistycznej opozycji.
+
+## Lata 80.
+W latach 80. przyjaźnił się z Lechem Wałęsą, któremu w 1986 roku zadedykował koncert w Teatrze Muzycznym w Gdyni. Zarazem 12 lipca 1988 roku na dziedzińcu wawelskim zaśpiewał w obecności Michaiła Gorbaczowa piosenkę o pierestrojce „Wieje wiosna ze wschodu”.
 
 ## Estrada i cenzura
-Piosenka rozrywkowa wydawała się dziedziną neutralną, ale i ona przechodziła przez cenzurę. Wykonawca poruszał się między tym, co dawało się zaśpiewać, a tym, co publiczność dopowiadała sobie sama – i właśnie ta druga warstwa decydowała często o popularności.`,
+Piosenka rozrywkowa wydawała się dziedziną neutralną, ale i ona przechodziła przez cenzurę. Wykonawca poruszał się między tym, co dawało się zaśpiewać oficjalnie, a tym, co krążyło poza anteną – i ta druga warstwa często decydowała o popularności.`,
     trivia: [
-      'Zaśpiewał „Czterdzieści lat minęło” z czołówki serialu „Czterdziestolatek”.',
-      'Wystąpił na I Przeglądzie Piosenki Prawdziwej w hali Olivia, gdzie grano utwory odrzucone wcześniej przez cenzurę.',
+      'Jako licealista był mistrzem warszawskich szkół średnich w skoku wzwyż i w skoku w dal.',
+      'W 1988 roku zaśpiewał na Wawelu w obecności Michaiła Gorbaczowa piosenkę „Michaił, Michaił” o pierestrojce.',
+      'Był czterokrotnie laureatem festiwalu w Opolu: w 1972, 1975, 1976 i 1980 roku.',
     ],
     resources: [
       {
@@ -30543,23 +30613,27 @@ Scena, w której Dolas, podając się za kogoś innego, przedstawia się niemiec
     tags: ['muzyka', 'jazz', 'fusion', 'skrzypce'],
     yearStart: 1962,
     yearEnd: 1989,
-    summary: 'Skrzypek, saksofonista i kompozytor jazzowy światowej sławy, pionier fusion; od lat 70. w Nowym Jorku, współpracował z gwiazdami światowego jazzu.',
+    summary: 'Skrzypek, saksofonista i kompozytor jazzowy, jeden z twórców fusion; od 1973 roku w Nowym Jorku, nagrywał dla Columbii, grał m.in. z Milesem Davisem.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Micha%C5%82%20Urbaniak.jpg?width=800',
     imageCaption: 'Michał Urbaniak – skrzypek i saksofonista jazzowy.',
-    content: `## Skrzypce w jazzie
-Michał Urbaniak (1943–2025) grał na skrzypcach i saksofonie – połączenie rzadkie, a skrzypce w jazzie były wówczas instrumentem niszowym. To brzmienie stało się jego znakiem rozpoznawczym.
+    content: `## Początki
+Michał Urbaniak (1943–2025) urodził się w Warszawie, a dorastał w Łodzi, gdzie od szóstego roku życia uczył się gry na skrzypcach. Jazzem zainteresował się jako dziecko, gdy usłyszał w Głosie Ameryki Louisa Armstronga. Na saksofonie nauczył się grać sam. W 1961 roku zadebiutował na Jazz Jamboree z zespołem Zbigniewa Namysłowskiego. Rok później z kwintetem The Wreckers Andrzeja Trzaskowskiego pojechał po raz pierwszy do USA i zagrał m.in. w Newport i w nowojorskim „Village Vanguard”. W latach 1962–1964 grał też w kwintecie Krzysztofa Komedy.
 
-## Fusion
-Na początku lat 70. zwrócił się ku fusion, łączeniu jazzu z rockiem i elektroniką. Wraz z Urszulą Dudziak, swoją żoną, tworzył skład, który wypracował własny język muzyczny – głos traktowany jak instrument, skrzypce przetwarzane elektronicznie.
+## Skrzypce zamiast saksofonu
+W latach 1969–1972 prowadził własną grupę, w której śpiewała Urszula Dudziak, jego żona. Po chorobie i zawale porzucił saksofon i wrócił do skrzypiec. W 1971 roku zdobył Grand Prix dla najlepszego solisty na festiwalu w Montreux, a w nagrodę roczne stypendium w Berklee College of Music. Od 1970 roku grał na pięciostrunowych skrzypcach wykonanych specjalnie dla niego.
 
 ## Nowy Jork
-W połowie lat 70. wyjechał do Stanów Zjednoczonych i wszedł do tamtejszego środowiska jazzowego, nagrywając dla amerykańskich wytwórni. Był jednym z nielicznych polskich muzyków, którzy zrobili karierę w Nowym Jorku na własnych warunkach, a nie jako goście.
+W maju 1973 roku zagrał pożegnalny koncert w Filharmonii Narodowej, a we wrześniu wyjechał z Dudziak do Stanów Zjednoczonych. Po trzech miesiącach podpisał kontrakt z Columbia Records, która w 1974 roku wydała album „Fusion”. Zagrał w Carnegie Hall i na festiwalu w Newport. W 1975 roku magazyn „DownBeat” uznał go za drugiego skrzypka jazzowego po Jeanie-Lucu Pontym. W 1985 roku Miles Davis zaprosił go do nagrania płyty „Tutu”.
+
+## Powrót
+Do Polski przyjechał ponownie dopiero w 1986 roku, po 13 latach, by wystąpić na Jazz Jamboree. Później pisał także muzykę filmową, m.in. do „Długu”, nagrodzoną Orłem.
 
 ## Znaczenie dla polskiego jazzu
-Jego droga pokazuje, czym był jazz w PRL: dziedziną, w której kontakt ze światem zachodnim był możliwy, a jednocześnie zależny od paszportu i dewiz. Dla kolejnych pokoleń polskich muzyków wyjazd Urbaniaka był dowodem, że taka kariera jest wykonalna.`,
+Jego droga pokazuje, czym był jazz w PRL: dziedziną, w której kontakt z Zachodem był możliwy, ale zależny od paszportu i kontraktów. Kariera Urbaniaka w Nowym Jorku dowodziła kolejnym pokoleniom, że taki sukces jest osiągalny.`,
     trivia: [
-      'Skrzypce, jego główny instrument, były w jazzie tamtych lat rzadkością.',
-      'Wraz z Urszulą Dudziak wypracował brzmienie oparte na elektronicznie przetwarzanych skrzypcach i głosie.',
+      'Jazzem zainteresował się jako sześciolatek, słysząc w Głosie Ameryki „Mack the Knife” Louisa Armstronga.',
+      'W 1980 roku podpisał kontrakt z wytwórnią Motown i wydał w niej album „Serenade for the City”.',
+      'W 1975 roku czytelnicy „DownBeat” uznali go za drugiego skrzypka jazzowego świata, po Jeanie-Lucu Pontym.',
     ],
     resources: [
       {
@@ -34842,7 +34916,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1971, event: 'Minikomputer K-202 Jacka Karpińskiego pokazany na targach w Poznaniu', category: 'społeczeństwo', entryId: 'jacek-karpinski' },
   { year: 1978, event: 'Odsunięty od pracy Jacek Karpiński zajmuje się hodowlą pod Olsztynem', category: 'społeczeństwo', entryId: 'jacek-karpinski' },
   { year: 1978, event: 'Wanda Rutkiewicz pierwszą Polką na Mount Everest', category: 'społeczeństwo', entryId: 'wanda-rutkiewicz' },
-  { year: 1980, event: 'Pierwsze zimowe wejście na Mount Everest – Cichy i Wielicki', category: 'społeczeństwo', entryId: 'himalaizm-polski' },
+  { year: 1980, event: '17 lutego – pierwsze zimowe wejście na Mount Everest – Cichy i Wielicki', category: 'społeczeństwo', entryId: 'himalaizm-polski' },
   { year: 1980, event: 'I Ogólnopolski Przegląd Muzyki Młodej Generacji w Jarocinie', category: 'kultura', entryId: 'jarocin-festiwal' },
   { year: 1981, event: 'Powstaje Republika – nowa fala Grzegorza Ciechowskiego', category: 'kultura', entryId: 'republika-zespol' },
   { year: 1979, event: 'Kaczmarski, Gintrowski i Łapiński przygotowują program „Mury”', category: 'kultura', entryId: 'gintrowski-bard' },
@@ -34921,7 +34995,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1980, event: '30 sierpnia – porozumienie szczecińskie kończy strajk w Stoczni Szczecińskiej', category: 'opozycja', entryId: 'stocznia-szczecinska' },
   { year: 1980, event: 'Henryka Krzywonos przyłącza komunikację do sierpniowego strajku', category: 'opozycja', entryId: 'krzywonos-henryka' },
   { year: 1963, event: 'Debiut Włodzimierza Lubańskiego w Górniku Zabrze', category: 'społeczeństwo', entryId: 'lubanski-gornik' },
-  { year: 1964, event: 'Proces Melchiora Wańkowicza za tekst dla Radia Wolna Europa', category: 'represje', entryId: 'proces-wankowicza' },
+  { year: 1964, event: '10 listopada – Melchior Wańkowicz skazany na 3 lata więzienia za memoriał dla Radia Wolna Europa', category: 'represje', entryId: 'proces-wankowicza' },
   { year: 1973, event: '„Mecz na Wembley” – remis z Anglią daje awans na mundial (komentuje Jan Ciszewski)', category: 'społeczeństwo', entryId: 'wembley-1973' },
   { year: 1975, event: 'Premiera serialu „Czterdziestolatek” Jerzego Gruzy', category: 'kultura', entryId: 'czterdziestolatek' },
   { year: 1977, event: 'Start programu popularnonaukowego „Sonda”', category: 'kultura', entryId: 'sonda-program' },
@@ -35058,7 +35132,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1971, event: 'Premiera „Hydrozagadki” Andrzeja Kondratiuka (30 kwietnia)', category: 'kultura', entryId: 'hydrozagadka' },
   { year: 1973, event: 'Zbigniew Namysłowski nagrywa „Winobranie” – klasyk polskiego jazzu', category: 'kultura', entryId: 'zbigniew-namyslowski' },
   { year: 1970, event: 'Premiera „Jak rozpętałem drugą wojnę światową” Tadeusza Chmielewskiego', category: 'kultura', entryId: 'jak-rozpetalem-ii-wojne' },
-  { year: 1974, event: 'Michał Urbaniak i fusion – polski jazz podbija USA', category: 'kultura', entryId: 'michal-urbaniak' },
+  { year: 1974, event: 'Columbia Records wydaje w USA album „Fusion” Michała Urbaniaka', category: 'kultura', entryId: 'michal-urbaniak' },
   { year: 1965, event: 'Beata Tyszkiewicz w „Rękopisie znalezionym w Saragossie”', category: 'kultura', entryId: 'beata-tyszkiewicz' },
   { year: 1973, event: 'Premiera „Wniebowziętych” Andrzeja Kondratiuka', category: 'kultura', entryId: 'wniebowzieci' },
   { year: 1974, event: 'Urszula Dudziak – „Papaya” i światowa kariera wokalna', category: 'kultura', entryId: 'urszula-dudziak' },
@@ -35101,7 +35175,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1940, event: 'Zbrodnia katyńska – NKWD morduje polskich oficerów', category: 'represje', entryId: 'katyn' },
   { year: 1940, event: 'Masowe deportacje Polaków w głąb ZSRR', category: 'represje', entryId: 'deportacje' },
   { year: 1944, event: 'Powołanie Milicji Obywatelskiej', category: 'represje', entryId: 'milicja' },
-  { year: 1944, event: 'Powstanie Urzędu Bezpieczeństwa', category: 'represje', entryId: 'ub' },
+  { year: 1944, event: '21 lipca – powstaje Resort Bezpieczeństwa Publicznego PKWN, zalążek UB', category: 'represje', entryId: 'ub' },
   { year: 1945, event: 'Początek walki podziemia niepodległościowego', category: 'represje', entryId: 'zolnierze-wykletci' },
   { year: 1946, event: 'Pogrom kielecki – najtragiczniejsze powojenne wydarzenie tego typu', category: 'represje', entryId: 'kielce-1946' },
   { year: 1955, event: 'Podpisanie Układu Warszawskiego', category: 'wojsko', entryId: 'uklad-warszawski' },
@@ -35351,4 +35425,19 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1981, event: 'Grudzień – Stanisław Stomma przewodniczącym Prymasowskiej Rady Społecznej', category: 'osoby', entryId: 'stomma' },
   { year: 1975, event: 'Grudzień – Jan Olszewski współautorem Listu 59 przeciw zmianom w konstytucji', category: 'opozycja', entryId: 'olszewski-jan' },
   { year: 1980, event: '17 września – Olszewski i Modzelewski proponują w Gdańsku jeden ogólnopolski związek', category: 'opozycja', entryId: 'olszewski-jan' },
+  { year: 1977, event: '9 listopada – pierwszy wykład Uniwersytetu Latającego (Adam Michnik)', category: 'opozycja', entryId: 'tkn-uniwersytet-latajacy' },
+  { year: 1979, event: '7 i 21 marca – pobicie wykładowców i słuchaczy TKN przez bojówki', category: 'represje', entryId: 'tkn-uniwersytet-latajacy' },
+  { year: 1953, event: '5 grudnia – ucieczka ppłk. Józefa Światły na Zachód w Berlinie', category: 'represje', entryId: 'ub' },
+  { year: 1956, event: '28 listopada – likwidacja Komitetu do spraw Bezpieczeństwa Publicznego, powstaje SB w MSW', category: 'represje', entryId: 'ub' },
+  { year: 1962, event: 'Michał Urbaniak z kwintetem The Wreckers po raz pierwszy koncertuje w USA', category: 'kultura', entryId: 'michal-urbaniak' },
+  { year: 1973, event: 'Michał Urbaniak i Urszula Dudziak wyjeżdżają do Stanów Zjednoczonych', category: 'kultura', entryId: 'michal-urbaniak' },
+  { year: 1984, event: 'Polacy dokonują pierwszego zimowego wejścia na Manaslu', category: 'społeczeństwo', entryId: 'himalaizm-polski' },
+  { year: 1986, event: '23 czerwca – Wanda Rutkiewicz jako pierwsza kobieta na szczycie K2', category: 'społeczeństwo', entryId: 'himalaizm-polski' },
+  { year: 1988, event: 'Pierwsze zimowe wejście na Lhotse – ostatnie z serii polskich zimowych wejść lat 80.', category: 'społeczeństwo', entryId: 'himalaizm-polski' },
+  { year: 1956, event: 'Maj – powstają pierwsze izby wytrzeźwień', category: 'społeczeństwo', entryId: 'alkohol-prl' },
+  { year: 1959, event: '10 grudnia – ustawa o zwalczaniu alkoholizmu', category: 'społeczeństwo', entryId: 'alkohol-prl' },
+  { year: 1982, event: '26 października – Sejm uchwala ustawę o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi', category: 'społeczeństwo', entryId: 'alkohol-prl' },
+  { year: 1972, event: 'Andrzej Rosiewicz nagrodzony w Opolu za „Samba wanna blues”', category: 'kultura', entryId: 'andrzej-rosiewicz' },
+  { year: 1988, event: '12 lipca – Andrzej Rosiewicz śpiewa na Wawelu w obecności Michaiła Gorbaczowa', category: 'kultura', entryId: 'andrzej-rosiewicz' },
+  { year: 1964, event: '5 października – aresztowanie Melchiora Wańkowicza', category: 'represje', entryId: 'proces-wankowicza' },
 ];
