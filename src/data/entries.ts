@@ -2334,19 +2334,23 @@ Przed bramą stoczni wznosi się pomnik Poległych Stoczniowców 1970 – trzy k
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/RFE_RL_Logo_Prague.jpg?width=800',
     imageCaption: 'Znak Radia Wolna Europa na siedzibie rozgłośni w Pradze (fot. współczesna)',
     content: `## Rozgłośnia
-Radio Wolna Europa powstało w 1949 roku jako amerykańska rozgłośnia nadająca do krajów bloku wschodniego. Sekcja polska ruszyła w 1952 roku, a jej wieloletnim dyrektorem był Jan Nowak-Jeziorański, kurier z Warszawy.
+Radio Wolna Europa powstało w 1949 roku z inicjatywy amerykańskiego Komitetu na rzecz Wolnej Europy, z siedzibą w Monachium. Do 1972 roku finansowała je CIA, a potem Kongres Stanów Zjednoczonych. Rozgłośnia Polska nadała pierwszą audycję 3 maja 1952 roku i była w PRL najczęściej słuchanym radiem zagranicznym.
+
+## Dyrektorzy i współpracownicy
+Przez pierwsze 24 lata sekcją kierował Jan Nowak-Jeziorański, kurier Armii Krajowej. Jego następcami byli Zygmunt Michałowski, Zdzisław Najder, Marek Łatyński i Piotr Mroczyk. Z radiem współpracowali m.in. Leopold Tyrmand, Jan Lechoń, Kazimierz Wierzyński, Józef Wittlin i Marian Kukiel.
 
 ## Co nadawano
-Informacje przemilczane w kraju, komentarze polityczne, audycje o historii i literaturze, a także relacje z wydarzeń, o których prasa milczała. To z RWE Polacy dowiadywali się o strajkach, procesach i o tym, co działo się w innych krajach bloku.
+Informacje przemilczane w kraju, komentarze polityczne, audycje o historii i literaturze, relacje ze strajków i procesów. Największy wstrząs wywołał cykl audycji Józefa Światły z lat 1954–1955, który ujawnił kulisy aparatu bezpieczeństwa. Później rozgłośnia relacjonowała Marzec 1968, Grudzień 1970, Czerwiec 1976 i cały okres Solidarności.
 
-## Przełomy
-Największy wstrząs wywołał cykl audycji Józefa Światły w latach 1954–1955, który ujawnił kulisy aparatu bezpieczeństwa. Później rozgłośnia relacjonowała Marzec 1968, Grudzień 1970, Czerwiec 1976 i cały okres Solidarności.
+## Wojna w eterze
+Audycje były systematycznie zagłuszane. Według Nowaka-Jeziorańskiego zagłuszanie kosztowało mniej więcej trzy razy więcej niż samo nadawanie, a fal krótkich i tak nie dało się zakłócić całkowicie. W czasie Poznańskiego Czerwca 1956 roku demonstranci zniszczyli jedną z zagłuszarek, a w listopadzie 1956 roku inną – w Bydgoszczy. Stacje zagłuszające działały do 1 stycznia 1988 roku.
 
-## Zagłuszanie
-Państwo utrzymywało kosztowną sieć stacji zagłuszających, ale słuchano mimo szumów, przestrajając odbiornik i wybierając porę. Zagłuszania zaprzestano dopiero w 1988 roku – sam fakt, że utrzymywano je przez cztery dekady, mówi więcej o sile niezależnej informacji niż niejedna analiza.`,
+## Koniec misji
+Po 1989 roku rozgłośnia przeniosła się do Warszawy, a jej działalność zakończono uroczyście 30 czerwca 1994 roku w Poznaniu. W 2007 roku Sejm podziękował jej twórcom i pracownikom specjalną uchwałą.`,
     trivia: [
-      'Wieloletnim dyrektorem sekcji polskiej był Jan Nowak-Jeziorański, kurier z Warszawy.',
-      'Zagłuszania zaprzestano dopiero w 1988 roku, po czterech dekadach kosztownej wojny w eterze.',
+      'Do 1972 roku Radio Wolna Europa finansowała CIA, później Kongres Stanów Zjednoczonych.',
+      'Zagłuszanie kosztowało według Nowaka-Jeziorańskiego około trzech razy więcej niż nadawanie.',
+      'Stacje zagłuszające audycje RWE wyłączono dopiero 1 stycznia 1988 roku.',
     ],
     resources: [
       {
@@ -11695,19 +11699,23 @@ Kaczmarski pozostaje jednym z najważniejszych głosów polskiej kultury niezale
     yearEnd: 1980,
     summary: '„Propaganda sukcesu” to określenie medialnej strategii ekipy Gierka, która kreowała obraz dynamicznego rozwoju i dobrobytu. Kolorowa telewizja pokazywała nowe fabryki i bloki, przemilczając rosnące zadłużenie i kryzys, który doprowadził do wybuchu 1980 r.',
     content: `## Nazwa
-Propagandą sukcesu określa się styl przekazu obowiązujący w dekadzie Edwarda Gierka. Media miały pokazywać kraj rozwijający się, budujący i nowoczesny, a informacje o kłopotach ograniczać do minimum.
+Propagandą sukcesu nazywa się propagandę wyolbrzymiającą osiągnięcia rządzących, pomniejszającą problemy i zrzucającą odpowiedzialność za nie na poprzedników lub wrogie siły. W Polsce przykładem był przekaz dekady Edwarda Gierka (1970–1980).
 
-## Jak działała
-Dziennik Telewizyjny otwierały relacje z otwarć fabryk, wykonania planów i wizyt zagranicznych. Rósł udział materiałów o sukcesach, malał – o cenach, brakach i wypadkach. Awarie i katastrofy albo przemilczano, albo podawano z opóźnieniem i bez szczegółów.
+## Hasła
+Język propagandy operował chwytliwymi hasłami: „aby Polska rosła w siłę, a ludzie żyli dostatniej”, „cud gospodarczy”, „dynamiczny rozwój”, „budowanie drugiej Polski”. Prasa i telewizja powtarzały, że Polska jest dziesiątą, a nawet ósmą potęgą gospodarczą świata. Na dowód pokazywano wysokie miejsca w produkcji węgla, stali, cementu czy statków – pomijając przestarzałe, energochłonne i szkodliwe dla środowiska technologie.
+
+## Telewizja Szczepańskiego
+Kluczową rolę odegrała telewizja. W latach 1972–1980 Komitetem do spraw Radia i Telewizji kierował Maciej Szczepański, który rozbudował jej bazę techniczną do poziomu przeciętnej europejskiej. Dziennik Telewizyjny otwierały relacje z otwarć fabryk i wykonania planów, a o kłopotach mówiono jako o „okresowych trudnościach”.
 
 ## Rozjazd z rzeczywistością
-Problem polegał na tym, że widz codziennie porównywał telewizję z własnym sklepem. Im lepszy obraz nadawano, tym bardziej rosła nieufność wobec każdej informacji – także prawdziwej. Propaganda sukcesu zniszczyła wiarygodność mediów skuteczniej niż jakakolwiek krytyka.
+Widz codziennie porównywał ekran z własnym sklepem. Brakowało towarów, a do najpotrzebniejszych rzeczy prowadziły znajomości i „załatwianie”. W 1980 roku przeciętny Polak pracował 37 godzin na męską koszulę, a Japończyk – nieco ponad 2 godziny. Na czarno-biały telewizor Polak pracował 370 godzin, Japończyk – nieco ponad 9. Im lepszy obraz nadawano, tym mniej wierzono mediom.
 
 ## Koniec
-Gdy w 1980 roku wybuchły strajki, telewizja przez wiele dni milczała albo mówiła o przerwach w pracy. Postulat dostępu do mediów znalazł się wśród dwudziestu jeden żądań sierpniowych – co pokazuje, jak dotkliwie odczuwano to kłamstwo.`,
+Gdy latem 1980 roku wybuchły strajki, Szczepańskiego odwołano 11 sierpnia, a w 1981 roku postawiono go przed sądem za korupcję. Postulat dostępu do środków masowego przekazu znalazł się wśród 21 żądań sierpniowych. Skutecznie prowadzona propaganda zostawiła jednak ślad: dla części ludzi dekada Gierka pozostała we wspomnieniach lepsza, niż była naprawdę.`,
     trivia: [
-      'Im lepszy obraz nadawano, tym mniej wierzono mediom – także wtedy, gdy mówiły prawdę.',
-      'Dostęp do mediów znalazł się wśród dwudziestu jeden postulatów sierpniowych.',
+      'Propaganda głosiła, że PRL jest dziesiątą, a nawet ósmą potęgą gospodarczą świata.',
+      'W 1980 roku Polak pracował na męską koszulę 37 godzin, a Japończyk nieco ponad dwie.',
+      'Szefa Radiokomitetu Macieja Szczepańskiego odwołano 11 sierpnia 1980 roku, a potem sądzono za korupcję.',
     ],
     resources: [
       {
@@ -15324,23 +15332,27 @@ Otrzymał Order Orła Białego, ale odmawiał roli pomnika. Pozostaje symbolem o
     tags: ['opozycja', 'happening', 'kultura', 'lata 80.', 'Wrocław'],
     yearStart: 1981,
     yearEnd: 1989,
-    summary: 'Wrocławski ruch happeningowy Waldemara „Majora” Fydrycha, który absurdem i humorem ośmieszał władzę i aparat represji.',
+    summary: 'Wrocławski ruch happeningowy Waldemara „Majora” Fydrycha, który w latach 80. absurdem i humorem ośmieszał władzę; symbolem były krasnoludki malowane na zamalowanych przez milicję napisach.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pomaranczowa_alternatywa-dzien_wojska.jpg?width=800',
     imageCaption: 'Happening Pomarańczowej Alternatywy w Dniu Wojska Polskiego',
-    content: `## Happening zamiast ulotki
-Pomarańczowa Alternatywa powstała we Wrocławiu i działała w latach 80., także w Warszawie, Łodzi i Lublinie. Zamiast demonstracji organizowała happeningi: absurdalne akcje uliczne, w których uczestnicy przebierali się za krasnoludki i wznosili hasła parodiujące język propagandy.
+    content: `## Surrealizm socjalistyczny
+Pomarańczowa Alternatywa narodziła się we Wrocławiu, w środowisku opozycji studenckiej i ruchu hippisowskiego. Nazwa pochodzi od gazetki wydawanej od września do grudnia 1981 roku podczas strajku okupacyjnego na Uniwersytecie Wrocławskim, a kolor pomarańczowy nawiązywał do holenderskich provosów. Liderem był Waldemar „Major” Fydrych, autor „Manifestu Surrealizmu Socjalistycznego” i żartobliwy „komendant Twierdzy Wrocław”.
 
-## Metoda
-Pomysł polegał na odwróceniu ról. Milicja zatrzymująca ludzi w czerwonych czapeczkach za wznoszenie okrzyków na cześć milicji wyglądała groteskowo, a każda interwencja obracała się przeciw władzy. Nie dało się tego przedstawić jako działalności wrogiej bez ośmieszenia się.
+## Krasnoludki
+W nocy z 30 na 31 sierpnia 1982 roku Fydrych po raz pierwszy namalował krasnoludka na plamie farby, którą milicja zamalowała antykomunistyczny napis. Zatrzymany, ogłosił żartobliwą teorię: napis to teza, jego zamalowanie – antyteza, a krasnal na plamie – synteza. Krasnoludek stał się symbolem ruchu.
 
-## Skala
-Największe akcje gromadziły tysiące uczestników, głównie młodych. Dla pokolenia, które nie pamiętało Sierpnia, była to forma udziału w oporze bez patosu i bez ryzyka porównywalnego z konspiracją.
+## Happeningi
+Ruch rozkwitł w drugiej połowie lat 80., gdy dołączyło wielu młodych ludzi, dla których formuła podziemnej Solidarności była zbyt nudna. Happeningi – jak „Dzień Milicjanta” czy rozdawanie deficytowego papieru toaletowego w akcji „Kto się boi papieru toaletowego?” w 1987 roku – ośmieszały władzę jej własnym językiem. Artykuł w „The Village Voice” jesienią 1987 roku przyniósł ruchowi zagraniczny rozgłos.
 
-## Znaczenie
-Pomarańczowa Alternatywa pokazała, że system daje się atakować śmiechem skuteczniej niż powagą. W ostatnich latach PRL, gdy aparat tracił pewność siebie, kompromitacja okazała się bronią silniejszą niż konfrontacja.`,
+## Rewolucja Krasnoludków
+Akcje gromadziły po kilka tysięcy osób, a w Dniu Wiosny 1988 roku – ok. 10 tys. Kulminacją był marsz 1 czerwca 1988 roku, gdy ulicami Wrocławia przeszło kilkanaście tysięcy ludzi w pomarańczowych czapeczkach. Happeningi odbywały się też w Warszawie, Łodzi i Lublinie, a podobne ruchy powstały w Czechosłowacji i na Węgrzech.
+
+## Śmiech jako broń
+Milicja zatrzymująca ludzi w czapeczkach krasnoludków wyglądała groteskowo, a każda interwencja obracała się przeciw władzy. W ostatnich latach PRL, gdy aparat tracił pewność siebie, kompromitacja okazała się bronią skuteczniejszą niż konfrontacja.`,
     trivia: [
-      'Uczestnicy przebierali się za krasnoludki, a hasła parodiowały język oficjalnej propagandy.',
-      'Milicja zatrzymująca ludzi za wznoszenie okrzyków na jej cześć ośmieszała się bardziej niż sami demonstranci.',
+      'Pierwszego krasnoludka Fydrych namalował w nocy z 30 na 31 sierpnia 1982 roku na plamie po zamalowanym napisie.',
+      'Kolor pomarańczowy nawiązywał do holenderskiego ruchu provosów.',
+      'W marszu 1 czerwca 1988 roku wzięło udział kilkanaście tysięcy osób.',
     ],
     resources: [
       {
@@ -16611,20 +16623,24 @@ List 34 był pierwszym zbiorowym wystąpieniem środowisk twórczych w PRL i wzo
     summary: 'Gigantyczny kombinat metalurgiczny w Dąbrowie Górniczej, symbol forsownej industrializacji i prestiżowych, lecz zadłużających kraj inwestycji epoki Gierka.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Katowice_Steelworks_Gate.jpg?width=800',
     imageCaption: 'Brama Huty Katowice (fot. współczesna)',
-    content: `## Inwestycja dekady
-Budowę kombinatu w Dąbrowie Górniczej rozpoczęto w 1972 roku. Była to największa inwestycja przemysłowa dekady Gierka i jeden z symboli ówczesnej polityki gospodarczej: wielkie zakłady budowane szybko, za kredyty i z importowanym wyposażeniem.
+    content: `## Decyzja Gierka
+Decyzję o budowie największego i najnowocześniejszego kombinatu metalurgicznego PRL podjęto na VI Zjeździe PZPR – w praktyce podjął ją Edward Gierek. Na lokalizację wybrano ponad tysiąc hektarów w Zagłębiu Dąbrowskim, między Gołonogiem, Ząbkowicami, Łośniem i Strzemieszycami, w większości porośniętych Puszczą Łosieńską. Honorowy tytuł „Pierwszego Pracownika” nadano Leonidowi Breżniewowi.
+
+## Wielka budowa
+Budowę rozpoczęto 15 kwietnia 1972 roku we współpracy z ZSRR, przy zaangażowaniu ok. 50 tys. pracowników. 3 grudnia 1976 roku z pierwszego wielkiego pieca spuszczono pierwszą surówkę, a 20 minut później złożono meldunek Gierkowi. Osiem dni później wytopiono pierwszą stal. W czerwcu 1978 roku, po uruchomieniu walcowni dużej, zakończył się pierwszy etap budowy – sztandar huty poleciał nawet w kosmos na pokładzie Sojuza 30.
 
 ## Szeroki tor
-Do huty doprowadzono Linię Hutniczo-Siarkową – tor o rozstawie szyn stosowanym w ZSRR, biegnący od granicy wschodniej. Miał dostarczać rudę żelaza bez przeładunku. Rozwiązanie to trwale związało zakład z dostawami radzieckimi.
+Rudę z Krzywego Rogu dowoziła Linia Hutniczo-Siarkowa – tor o szerokim, radzieckim rozstawie szyn, zbudowany w latach 1976–1979 i otwarty 30 listopada 1979 roku. Rozwiązanie trwale związało zakład z dostawami ze Wschodu. Już w 1977 roku pojawiły się pierwsze problemy z zaopatrzeniem w surowce.
 
-## Rachunek
-Kombinat pochłonął ogromne środki, a jego rentowność od początku budziła wątpliwości ekonomistów. Powstał w miejscu oddalonym od złóż i portów, a produkcję zaplanowano pod potrzeby, które nie zdążyły się zmaterializować.
+## Zmiana regionu
+Huta przeobraziła Zagłębie: przyciągnęła falę migrantów, zwłaszcza ze wschodniej Polski, którzy latami mieszkali w prowizorycznych budynkach, zanim zakład pomógł zbudować dla nich osiedla. Łącznej wartości tej decyzji inwestycyjnej nigdy nie ustalono.
 
-## Solidarność
-W sierpniu 1980 roku huta stała się jednym z głównych ośrodków strajkowych na Śląsku, a jej Komitet Strajkowy należał do najaktywniejszych w regionie. Zakład zbudowany jako dowód siły systemu okazał się jednym z miejsc, w których system ten był kwestionowany najgłośniej.`,
+## Stan wojenny
+W nocy z 12 na 13 grudnia 1981 roku internowano 41 członków Solidarności z huty. Załoga odpowiedziała strajkiem okupacyjnym, który trwał jedenaście dni, aż do pacyfikacji 23 grudnia. Później internowano kolejnych 51 pracowników, kilkunastu skazano na więzienie, a wielu zwolniono. Zakład zbudowany jako dowód siły systemu stał się jednym z miejsc najdłuższego oporu wobec stanu wojennego.`,
     trivia: [
-      'Do huty doprowadzono tor o rozstawie szyn stosowanym w ZSRR, żeby wozić rudę bez przeładunku.',
-      'Zakład budowany jako dowód siły systemu stał się w 1980 roku jednym z głównych ośrodków strajkowych na Śląsku.',
+      'Honorowy tytuł „Pierwszego Pracownika” Huty Katowice otrzymał Leonid Breżniew.',
+      'Rudę dowoziła Linia Hutniczo-Siarkowa o szerokim, radzieckim rozstawie szyn.',
+      'Strajk w hucie po wprowadzeniu stanu wojennego trwał jedenaście dni, do 23 grudnia 1981 roku.',
     ],
     resources: [
       {
@@ -18644,20 +18660,24 @@ Sens radia podziemnego polegał nie tyle na przekazaniu informacji, ile na dowod
     summary: 'Fabryka Samochodów Osobowych na warszawskim Żeraniu i jej sztandarowy model Polonez – nowoczesny jak na PRL samochód rodzinny, marzenie wielu kierowców.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Polonez_niebieski.jpg?width=800',
     imageCaption: 'FSO Polonez 1500 LE z 1985 roku',
-    content: `## Następca Dużego Fiata
-Polonez wszedł do produkcji 3 maja 1978 roku jako następca Polskiego Fiata 125p. W praktyce oba modele wytwarzano równolegle jeszcze przez trzynaście lat, co samo w sobie mówi wiele o tempie modernizacji przemysłu.
+    content: `## Projekt z Turynu
+Prace nad nadwoziem i wnętrzem nowego samochodu FSO ruszyły w Centro Stile Fiat w Turynie, z udziałem polskich stylistów i inżynierów. Prototypy oznaczono 125PN – „Polacco Nuova”. Pierwsze siedem egzemplarzy, zmontowanych jeszcze w Turynie, trafiło do Polski 20 września 1977 roku, a fabryka na Żeraniu przeszła modernizację tłoczni i spawalni.
 
-## Co było nowe
-Nowoczesne było przede wszystkim pięciodrzwiowe nadwozie typu hatchback, zaprojektowane z udziałem włoskiego studia. Pod nim kryła się jednak technika odziedziczona po poprzedniku: ten sam układ napędowy, zmodyfikowane silniki, hamulce i zawieszenie.
+## Premiera
+Seryjną produkcję rozpoczęto 3 maja 1978 roku. Nazwę Polonez wybrano w plebiscycie czytelników „Życia Warszawy” już po starcie produkcji – pierwsze egzemplarze nosiły oznaczenia „FSO Polski 1300/1500”. W pierwszym roku powstało 3506 aut, a 11 lutego 1983 roku fabrykę opuścił stutysięczny Polonez.
 
-## Dlaczego tak
-Wygaśnięcie licencji Fiata w 1983 roku odcięło fabrykę od dopływu nowych rozwiązań, a kryzys zadłużenia uniemożliwił zakup kolejnych. Polonez musiał więc trwać przez całe lata 80. w zasadniczo niezmienionej postaci, coraz bardziej odstając od europejskich konkurentów.
+## Nowe nadwozie, stara technika
+Nowoczesne było pięciodrzwiowe nadwozie typu hatchback. Pod nim kryła się jednak technika odziedziczona po Polskim Fiacie 125p: układ napędowy, silniki, zawieszenie. Duży Fiat pozostał zresztą w produkcji równolegle aż do 1991 roku.
+
+## Modernizacje
+W 1983 roku zdecydowano o pierwszej głębszej modernizacji, a w 1988 roku wprowadzono wersję użytkową Truck. Gruntowna przebudowa przyszła dopiero w 1991 roku, gdy pojawił się Polonez Caro. Produkcję zakończono 22 kwietnia 2002 roku – łącznie powstało 1 061 807 egzemplarzy.
 
 ## Symbol
-Dla polskiego nabywcy pozostawał samochodem prestiżowym, bo droższym i większym od Malucha. Dziś jest jednym z najbardziej rozpoznawalnych obrazów schyłku PRL: nowoczesnej formy, pod którą kryje się technika sprzed dekady.`,
+Dla polskiego nabywcy Polonez był samochodem prestiżowym, bo większym i droższym od Malucha. Dziś jest jednym z najbardziej rozpoznawalnych obrazów schyłku PRL: nowoczesnej formy, pod którą kryła się technika sprzed dekady. W latach 90. był najczęściej kradzionym samochodem w Polsce.`,
     trivia: [
-      'Polonez i jego poprzednik, Duży Fiat, były produkowane równolegle przez trzynaście lat.',
-      'Po wygaśnięciu licencji Fiata w 1983 roku fabryka straciła dostęp do nowych rozwiązań technicznych.',
+      'Nazwę Polonez wybrali czytelnicy „Życia Warszawy” już po rozpoczęciu produkcji.',
+      'Polski Fiat 125p był produkowany równolegle z Polonezem aż do 1991 roku.',
+      'Do 2002 roku powstało 1 061 807 Polonezów.',
     ],
     resources: [
       {
@@ -27095,19 +27115,23 @@ W 1971 roku rozpoczęto wyburzanie większości zabytkowych kamienic w obrębie 
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/%C5%9Anie%C5%BCka%20z%20zachodu.jpg?width=800',
     imageCaption: 'Śnieżka (1603 m) – najwyższy szczyt Karkonoszy.',
     content: `## Góry dostępne
-Karkonosze były w PRL jednym z najpopularniejszych kierunków turystycznych. Bliskość Wrocławia, gęsta sieć schronisk i dobra komunikacja kolejowa sprawiały, że w góry jeździło się tu masowo, także na weekend.
+Karkonosze, najwyższe pasmo Sudetów ze Śnieżką (1603 m), były w PRL jednym z najpopularniejszych kierunków turystycznych. Bliskość Wrocławia, gęsta sieć schronisk i połączenia kolejowe sprawiały, że jeżdżono tu masowo, także na krótkie wypady.
 
-## Wczasy i wycieczki
-Karpacz i Szklarska Poręba żyły z wczasów pracowniczych organizowanych przez Fundusz Wczasów Pracowniczych i zakłady pracy. Skierowanie na wczasy było elementem socjalnego pakietu, a nie zakupem – o wyjeździe decydowała komisja w zakładzie.
+## Park narodowy
+16 stycznia 1959 roku, dla ochrony najcenniejszej przyrody, utworzono Karkonoski Park Narodowy. Czesi powołali po swojej stronie Krkonošský národní park 17 maja 1963 roku. Oba parki tworzą dziś wspólny obszar chroniony.
 
-## Granica
-Grzbietem gór biegła granica z Czechosłowacją, pilnowana przez Wojska Ochrony Pogranicza mimo sojuszu obu państw. Przez pewien czas obowiązywał ruch bezwizowy, co czyniło Karkonosze jednym z nielicznych miejsc realnego kontaktu z zagranicą.
+## Wczasy i wyciągi
+Karpacz i Szklarska Poręba żyły z wczasów pracowniczych i wycieczek zakładowych. Po 1956 roku zaczął się rozwój infrastruktury: w 1959 roku powstała kolej krzesełkowa na Kopę w Karpaczu, a w 1961 roku na Szrenicę w Szklarskiej Porębie. Zimą Karkonosze stały się jednym z głównych ośrodków narciarskich kraju.
 
-## Kwaśne deszcze
-W latach 80. lasy karkonoskie zaczęły masowo zamierać wskutek zanieczyszczeń z elektrowni węglowych po obu stronach granicy. Klęska ekologiczna – tak zwany czarny trójkąt – stała się jednym z pierwszych tematów, wokół których zawiązywał się w Polsce ruch ekologiczny.`,
+## Góry na granicy
+Grzbietem gór biegła granica z Czechosłowacją, strzeżona przez Wojska Ochrony Pogranicza, choć oba kraje należały do tego samego bloku.
+
+## Klęska lasów
+Karkonoskie lasy przez lata wchłaniały kwaśne deszcze z elektrowni opalanych węglem brunatnym w Polsce, Czechosłowacji i NRD. Pod koniec lat 70. padły łatwym łupem zniszczenia, a martwe drzewostany na zboczach stały się jednym z najbardziej widocznych obrazów kosztów ekologicznych przemysłu w bloku wschodnim.`,
     trivia: [
-      'O wyjeździe na wczasy decydowała komisja socjalna w zakładzie pracy, a nie możliwość zapłacenia.',
-      'W latach 80. lasy Karkonoszy zamierały od kwaśnych deszczy – obszar nazwano czarnym trójkątem.',
+      'Karkonoski Park Narodowy utworzono 16 stycznia 1959 roku.',
+      'Kolej krzesełkowa na Kopę w Karpaczu ruszyła w 1959 roku, a na Szrenicę w 1961 roku.',
+      'Lasy karkonoskie zniszczyły kwaśne deszcze z elektrowni w trzech krajach bloku wschodniego.',
     ],
     resources: [
       {
@@ -32918,20 +32942,24 @@ Na pogrzebie Bieruta w 1956 roku mówił o partii „zwartej jak monolit”. W c
     summary: 'Szef resortu bezpieczeństwa od PKWN w 1944 roku aż do rozwiązania MBP w 1954, odpowiedzialny za aparat represji okresu stalinowskiego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw_Radkiewicz.jpg?width=800',
     imageCaption: 'Stanisław Radkiewicz, szef Ministerstwa Bezpieczeństwa Publicznego, 1946',
-    content: `## Dziesięć lat na czele bezpieki
-Stanisław Radkiewicz (1903–1987) kierował resortem bezpieczeństwa publicznego od jego powstania w PKWN w 1944 roku do rozwiązania Ministerstwa Bezpieczeństwa Publicznego pod koniec 1954 roku. Był to okres najcięższych represji w historii PRL.
+    content: `## Z komunistycznej konspiracji
+Stanisław Radkiewicz (1903–1987) urodził się w chłopskiej rodzinie w Razmierkach. Jako chłopiec został wywieziony w głąb Rosji, gdzie wstąpił do Komsomołu. W latach 20. studiował w Moskwie, a potem działał w komunistycznej młodzieżówce w Polsce. W 1928 roku skazano go na cztery lata więzienia. W 1933 roku, zatrzymany jako sekretarz KC KZMP, wyrzekł się na piśmie działalności komunistycznej – Jakub Berman nazwał to później „pewną słabością” dającą gwarancję jego lojalności.
 
-## Zakres władzy
-Podległy mu aparat prowadził walkę z podziemiem niepodległościowym, procesy polityczne, śledztwa wobec oficerów, duchownych i działaczy PSL. Dysponował własnymi więzieniami, siecią agentury i praktycznie nieograniczoną swobodą w stosowaniu przemocy wobec zatrzymanych.
+## Szef bezpieki
+W 1943 roku wstąpił do armii Berlinga, a w 1944 roku był zastępcą sekretarza tajnego Centralnego Biura Komunistów Polski. Od 21 lipca 1944 roku kierował Resortem Bezpieczeństwa Publicznego PKWN, a od 1 stycznia 1945 roku był ministrem bezpieczeństwa publicznego. Kluczowe stanowiska w resorcie objęli funkcjonariusze NKWD i absolwenci kursów w Kujbyszewie, a nad całością czuwali doradcy radzieccy.
 
-## Rozwiązanie MBP
-Ucieczka na Zachód wicedyrektora Departamentu X Józefa Światły i jego audycje w Radiu Wolna Europa ujawniły metody resortu i wywołały wstrząs. W grudniu 1954 roku MBP rozwiązano, dzieląc jego zadania między nowe struktury. Radkiewicz przeszedł na stanowisko ministra państwowych gospodarstw rolnych.
+## Machina terroru
+MBP rosło w szybkim tempie: w kwietniu 1945 roku miało 12 tys. funkcjonariuszy, w grudniu 1945 roku – 24 tys., a w 1953 roku ponad 33 tys. Podlegały mu także milicja, ORMO, KBW, WOP i straż więzienna. Resort zwalczał podziemie niepodległościowe, Kościół i legalną opozycję, w tym PSL, oraz kontrolował wszystkie organizacje społeczne.
 
-## Brak rozliczenia
-Usunięty z kierownictwa w 1956 roku, nigdy nie odpowiedział przed sądem za działania resortu. Zmarł w Warszawie w 1987 roku.`,
+## Odwołanie bez kary
+Po ucieczce Józefa Światły i jego audycjach w Radiu Wolna Europa Radkiewicza odwołano 9 grudnia 1954 roku. Po złożeniu samokrytyki został ministrem państwowych gospodarstw rolnych. W lipcu 1955 roku odszedł z Biura Politycznego, a w maju 1957 roku usunięto go z partii. Jego zastępców – Romkowskiego, Różańskiego i Fejgina – postawiono przed sądem, lecz on sam pozostał całkowicie bezkarny.
+
+## Emerytura
+Od 1958 roku pracował w Urzędzie Rezerw Państwowych, w latach 1963–1968 jako dyrektor generalny. Zmarł 13 grudnia 1987 roku w Warszawie, a „Trybuna Ludu” pożegnała go krótkim nekrologiem jako „generała w stanie spoczynku”.`,
     trivia: [
-      'Po rozwiązaniu MBP w 1954 roku został ministrem państwowych gospodarstw rolnych.',
-      'Kierował aparatem bezpieczeństwa przez dziesięć lat i nigdy nie stanął za to przed sądem.',
+      'W 1933 roku wyrzekł się na piśmie działalności komunistycznej, co Berman uznał potem za gwarancję jego lojalności.',
+      'W 1953 roku podległe mu ministerstwo liczyło ponad 33 tys. funkcjonariuszy.',
+      'Sądzono jego zastępców, ale on sam nigdy nie odpowiedział za zbrodnie resortu.',
     ],
     resources: [
       {
@@ -34936,7 +34964,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1948, event: '„Trybuna Ludu” staje się centralnym organem prasowym PZPR', category: 'społeczeństwo', entryId: 'trybuna-ludu' },
   { year: 1955, event: 'Otwarcie Stadionu Dziesięciolecia w Warszawie', category: 'społeczeństwo', entryId: 'stadion-dziesieciolecia' },
   { year: 1985, event: 'Powstaje Ruch „Wolność i Pokój” – pacyfistyczna opozycja', category: 'opozycja', entryId: 'wolnosc-i-pokoj' },
-  { year: 1987, event: 'Happeningi Pomarańczowej Alternatywy – „krasnoludki” we Wrocławiu', category: 'opozycja', entryId: 'pomaranczowa-alternatywa' },
+  { year: 1988, event: 'Rewolucja Krasnoludków – marsz Pomarańczowej Alternatywy we Wrocławiu (1 czerwca)', category: 'opozycja', entryId: 'pomaranczowa-alternatywa' },
   { year: 1952, event: 'Jan Nowak-Jeziorański obejmuje kierownictwo Rozgłośni Polskiej Radia Wolna Europa', category: 'opozycja', entryId: 'nowak-jezioranski' },
   { year: 1964, event: 'List 34 – protest pisarzy i uczonych przeciw cenzurze', category: 'opozycja', entryId: 'list-34' },
   { year: 1965, event: 'Teatr Laboratorium Jerzego Grotowskiego przenosi się do Wrocławia', category: 'kultura', entryId: 'teatr-grotowskiego' },
@@ -35440,4 +35468,12 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1972, event: 'Andrzej Rosiewicz nagrodzony w Opolu za „Samba wanna blues”', category: 'kultura', entryId: 'andrzej-rosiewicz' },
   { year: 1988, event: '12 lipca – Andrzej Rosiewicz śpiewa na Wawelu w obecności Michaiła Gorbaczowa', category: 'kultura', entryId: 'andrzej-rosiewicz' },
   { year: 1964, event: '5 października – aresztowanie Melchiora Wańkowicza', category: 'represje', entryId: 'proces-wankowicza' },
+  { year: 1954, event: 'Stanisław Radkiewicz odwołany ze stanowiska ministra bezpieczeństwa publicznego (9 grudnia)', category: 'osoby', entryId: 'radkiewicz' },
+  { year: 1976, event: 'Pierwszy spust surówki w Hucie Katowice (3 grudnia)', category: 'gospodarka', entryId: 'huta-katowice' },
+  { year: 1981, event: 'Strajk okupacyjny w Hucie Katowice spacyfikowany 23 grudnia', category: 'gospodarka', entryId: 'huta-katowice' },
+  { year: 1959, event: 'Utworzenie Karkonoskiego Parku Narodowego (16 stycznia)', category: 'społeczeństwo', entryId: 'karkonosze' },
+  { year: 1988, event: 'Koniec zagłuszania audycji Radia Wolna Europa (1 stycznia)', category: 'kultura', entryId: 'radio-wolna-europa' },
+  { year: 1982, event: 'Waldemar Fydrych maluje pierwsze krasnoludki na wrocławskich murach', category: 'opozycja', entryId: 'pomaranczowa-alternatywa' },
+  { year: 1983, event: 'Z fabryki na Żeraniu wyjeżdża stutysięczny Polonez (11 lutego)', category: 'gospodarka', entryId: 'fso-polonez' },
+  { year: 1980, event: 'Maciej Szczepański odwołany z kierownictwa Radiokomitetu (11 sierpnia)', category: 'polityka', entryId: 'propaganda-sukcesu' },
 ];
