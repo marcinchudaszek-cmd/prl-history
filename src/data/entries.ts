@@ -20632,6 +20632,14 @@ TPPR rozwiązano na początku lat 90. Pozostaje przykładem instytucji, która p
     trivia: ['Towarzystwo Przyjaźni Polsko-Radzieckiej organizowało obowiązkowe akademie.', 'Członkostwo bywało formalnością zapisywaną w zakładzie pracy.'],
     resources: [
       {
+        id: 'tppr-festiwal-piosenki-radzieckie',
+        title: 'Festiwal Piosenki Radzieckiej – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Festiwal_Piosenki_Radzieckiej',
+        source: 'Wikipedia',
+        description: 'Festiwal w Zielonej Górze (1965–1989), jedna z najbardziej znanych imprez propagujących przyjaźń z ZSRR.',
+      },
+      {
         id: 'tp-1',
         title: 'Towarzystwo Przyjaźni Polsko-Radzieckiej – artykuł',
         type: 'publikacja',
@@ -20677,6 +20685,22 @@ Pod kierownictwem Mieczysława Moczara w latach 1964–1972 ZBoWiD stał się za
 To jeden z najczystszych przykładów instrumentalizacji pamięci o wojnie: struktura zbudowana na autentycznych biografiach i autentycznej krzywdzie, wykorzystywana do bieżących rozgrywek politycznych.`,
     trivia: ['Skupiał kombatantów, ale pod ścisłą kontrolą polityczną.', 'Przynależność wiązała się z przywilejami socjalnymi.'],
     resources: [
+      {
+        id: 'zbowid-mieczysaw-moczar',
+        title: 'Mieczysław Moczar – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Mieczys%C5%82aw_Moczar',
+        source: 'Wikipedia',
+        description: 'Przywódca „partyzantów”, który jako prezes ZBoWiD uczynił ze związku zaplecze swojej frakcji.',
+      },
+      {
+        id: 'zbowid-odznaka-za-zasugi-dla-zbowid',
+        title: 'Odznaka „Za Zasługi dla ZBoWiD” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Odznaka_%E2%80%9EZa_Zas%C5%82ugi_dla_ZBoWiD%E2%80%9D',
+        source: 'Wikipedia',
+        description: 'Odznaczenie przyznawane przez związek kombatantów w PRL.',
+      },
       {
         id: 'zb-1',
         title: 'ZBoWiD – artykuł',
@@ -24402,6 +24426,22 @@ W połowie lat 70. występował w warszawskim Teatrze Syrena, w 1976 roku nagra�
     ],
     resources: [
       {
+        id: 'stan-borys-bizony',
+        title: 'Bizony – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Bizony',
+        source: 'Wikipedia',
+        description: 'Warszawski zespół z 1968 roku, z którym występował Stan Borys.',
+      },
+      {
+        id: 'stan-borys-blackout-zespo-muzyczny',
+        title: 'Blackout (zespół muzyczny) – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Blackout_%28zesp%C3%B3%C5%82_muzyczny%29',
+        source: 'Wikipedia',
+        description: 'Bigbitowy zespół współtworzony przez Stana Borysa i Tadeusza Nalepę.',
+      },
+      {
         id: 'sb2-yt',
         title: 'Stan Borys – „Jaskółka uwięziona” (Sopot 1973)',
         type: 'nagranie',
@@ -27399,6 +27439,22 @@ W 1986 roku muzycy bez Janerki i Pociechy wrócili jako Klaus Mit Foch i nagrali
       'W 2009 roku zespół zagrał „Jezu jak się cieszę” na placu Teatralnym w Warszawie, w dwudziestolecie wyborów 4 czerwca.',
     ],
     resources: [
+      {
+        id: 'klaus-mitffoch-lech-janerka',
+        title: 'Lech Janerka – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Lech_Janerka',
+        source: 'Wikipedia',
+        description: 'Lider, basista i autor tekstów Klausa Mitffocha.',
+      },
+      {
+        id: 'klaus-mitffoch-klaus-mitffoch-album',
+        title: 'Klaus Mitffoch (album) – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Klaus_Mitffoch_%28album%29',
+        source: 'Wikipedia',
+        description: 'Jedyny album zespołu z 1984 roku, klasyk polskiej nowej fali.',
+      },
       {
         id: 'km-yt',
         title: 'Klaus Mitffoch – „Jezu jak się cieszę”',
@@ -30703,6 +30759,30 @@ Zderzenie konwencji superbohaterskiej z realiami PRL – urzędowym językiem, p
     ],
     resources: [
       {
+        id: 'hydrozagadka-andrzej-kondratiuk',
+        title: 'Andrzej Kondratiuk – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Andrzej_Kondratiuk',
+        source: 'Wikipedia',
+        description: 'Reżyser i współscenarzysta „Hydrozagadki”.',
+      },
+      {
+        id: 'hydrozagadka-jozef-nowak-aktor',
+        title: 'Józef Nowak (aktor) – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/J%C3%B3zef_Nowak_%28aktor%29',
+        source: 'Wikipedia',
+        description: 'Odtwórca superbohatera Asa, wcześniej znany z filmów socrealistycznych.',
+      },
+      {
+        id: 'hydrozagadka-zdzisaw-maklakiewicz',
+        title: 'Zdzisław Maklakiewicz – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Zdzis%C5%82aw_Maklakiewicz',
+        source: 'Wikipedia',
+        description: 'Aktor, który zagrał złoczyńcę Doktora Plamę.',
+      },
+      {
         id: 'hz-yt',
         title: '„Hydrozagadka” – „żar leje się z nieba”',
         type: 'nagranie',
@@ -31574,6 +31654,22 @@ Służbę rozwiązano w 1990 roku, a na jej miejsce powołano Wojskowe Służby 
     ],
     resources: [
       {
+        id: 'wsw-organy-bezpieczenstwa-panstw',
+        title: 'Organy bezpieczeństwa państwa (1944–1990) – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Organy_bezpiecze%C5%84stwa_pa%C5%84stwa_%281944%E2%80%931990%29',
+        source: 'Wikipedia',
+        description: 'Wykaz organów bezpieczeństwa PRL, do których ustawa lustracyjna zalicza WSW.',
+      },
+      {
+        id: 'wsw-gowny-zarzad-informacji',
+        title: 'Główny Zarząd Informacji – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/G%C5%82%C3%B3wny_Zarz%C4%85d_Informacji',
+        source: 'Wikipedia',
+        description: 'Stalinowski kontrwywiad wojskowy, poprzednik WSW.',
+      },
+      {
         id: 'wsw-wiki',
         title: 'Wojskowa Służba Wewnętrzna – artykuł',
         type: 'publikacja',
@@ -31817,6 +31913,30 @@ Dopiero w 1989 roku władze PRL oficjalnie potępiły udział w interwencji.`,
       'Protest Ryszarda Siwca sfilmowały kamery kroniki dożynkowej, ale materiał trafił do archiwum i ujawniono go po latach.',
     ],
     resources: [
+      {
+        id: 'operacja-dunaj-praska-wiosna',
+        title: 'Praska Wiosna – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Praska_Wiosna',
+        source: 'Wikipedia',
+        description: 'Reformy w Czechosłowacji z 1968 roku, które zdławiła interwencja.',
+      },
+      {
+        id: 'operacja-dunaj-doktryna-brezniewa',
+        title: 'Doktryna Breżniewa – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Doktryna_Bre%C5%BCniewa',
+        source: 'Wikipedia',
+        description: 'Doktryna „ograniczonej suwerenności” uzasadniająca interwencję w Czechosłowacji.',
+      },
+      {
+        id: 'operacja-dunaj-florian-siwicki',
+        title: 'Florian Siwicki – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Florian_Siwicki',
+        source: 'Wikipedia',
+        description: 'Generał, który dowodził polskimi wojskami w operacji w Czechosłowacji.',
+      },
       {
         id: 'operacja-dunaj-wiki',
         title: 'Operacja Dunaj – udział LWP – artykuł',
@@ -32116,6 +32236,14 @@ Rachunkiem za taki model był smog w miastach przemysłowych, kwaśne deszcze ni
     ],
     resources: [
       {
+        id: 'energetyka-prl-kopalnia-wegla-brunatnego-be',
+        title: 'Kopalnia Węgla Brunatnego „Bełchatów” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Kopalnia_W%C4%99gla_Brunatnego_%E2%80%9EBe%C5%82chat%C3%B3w%E2%80%9D',
+        source: 'Wikipedia',
+        description: 'Odkrywkowa kopalnia węgla brunatnego zasilająca Elektrownię Bełchatów.',
+      },
+      {
         id: 'energetyka-prl-wiki',
         title: 'Energetyka PRL – artykuł',
         type: 'publikacja',
@@ -32218,6 +32346,22 @@ Po Okrągłym Stole i wyborach czerwcowych PRON stracił rację bytu. Zakończy�
       'W 1983 roku zapis o PRON wpisano do Konstytucji PRL w miejsce Frontu Jedności Narodu.',
     ],
     resources: [
+      {
+        id: 'pron-obywatelskie-komitety-ocalen',
+        title: 'Obywatelskie Komitety Ocalenia Narodowego – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Obywatelskie_Komitety_Ocalenia_Narodowego',
+        source: 'Wikipedia',
+        description: 'Komitety poparcia dla WRON z czasu stanu wojennego, poprzednik PRON.',
+      },
+      {
+        id: 'pron-jan-dobraczynski',
+        title: 'Jan Dobraczyński – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Jan_Dobraczy%C5%84ski',
+        source: 'Wikipedia',
+        description: 'Pisarz katolicki, przewodniczący Rady Krajowej PRON.',
+      },
       {
         id: 'pron-wiki',
         title: 'PRON – Patriotyczny Ruch Odrodzenia Narodowego – artykuł',
@@ -32326,6 +32470,22 @@ Odmowy zgód budowlanych były jednym z najczęstszych zarzewi lokalnych konflik
       'Urząd zlikwidowano dopiero 23 listopada 1989 roku.',
     ],
     resources: [
+      {
+        id: 'urzad-wyznan-porozumienie-panstwo-koscio-',
+        title: 'Porozumienie Państwo-Kościół 1950 – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Porozumienie_Pa%C5%84stwo-Ko%C5%9Bci%C3%B3%C5%82_1950',
+        source: 'Wikipedia',
+        description: 'Porozumienie z 14 kwietnia 1950 roku, kilka dni przed powołaniem Urzędu do Spraw Wyznań.',
+      },
+      {
+        id: 'urzad-wyznan-fundusz-koscielny',
+        title: 'Fundusz Kościelny – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Fundusz_Ko%C5%9Bcielny',
+        source: 'Wikipedia',
+        description: 'Fundusz z 1950 roku, nad którym nadzór sprawował Urząd do Spraw Wyznań.',
+      },
       {
         id: 'urzad-wyznan-wiki',
         title: 'Urząd do Spraw Wyznań – artykuł',
@@ -32442,6 +32602,30 @@ Rada działała do 19 stycznia 1947 roku, czyli do sfałszowanych wyborów, po k
       'To ustawa KRN z 3 stycznia 1945 roku otworzyła drogę do rządzenia dekretami, z czego korzystano przez cały okres PRL.',
     ],
     resources: [
+      {
+        id: 'krn-zwiazek-patriotow-polskich',
+        title: 'Związek Patriotów Polskich – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Zwi%C4%85zek_Patriot%C3%B3w_Polskich',
+        source: 'Wikipedia',
+        description: 'Organizacja komunistów polskich w ZSRR, drugi obok KRN ośrodek nowej władzy.',
+      },
+      {
+        id: 'krn-polski-komitet-wyzwolenia-na',
+        title: 'Polski Komitet Wyzwolenia Narodowego – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Polski_Komitet_Wyzwolenia_Narodowego',
+        source: 'Wikipedia',
+        description: 'Komitet powołany w lipcu 1944 roku, formalnie z nadania KRN.',
+      },
+      {
+        id: 'krn-manifest-pkwn',
+        title: 'Manifest PKWN – artykuł',
+        type: 'dokument',
+        url: 'https://pl.wikipedia.org/wiki/Manifest_PKWN',
+        source: 'Wikipedia',
+        description: 'Manifest z 22 lipca 1944 roku ogłoszony w imieniu PKWN.',
+      },
       {
         id: 'krn-wiki',
         title: 'Krajowa Rada Narodowa – artykuł',
