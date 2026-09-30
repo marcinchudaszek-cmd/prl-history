@@ -1768,6 +1768,30 @@ Dla setek tysięcy mężczyzn armia oznaczała dwuletnią służbę zasadniczą,
     trivia: ['Był więziony przez władze w latach 1953–1956.', 'Przygotował Wielką Nowennę – dziewięcioletni program przed Milenium Chrztu Polski.'],
     resources: [
       {
+        id: 'wyszynski-jasnogorskie-sluby-narodu-po',
+        title: 'Jasnogórskie Śluby Narodu Polskiego – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Jasnog%C3%B3rskie_%C5%9Aluby_Narodu_Polskiego',
+        source: 'Wikipedia',
+        description: 'Śluby z 26 sierpnia 1956 roku, ułożone przez internowanego prymasa w Komańczy.',
+      },
+      {
+        id: 'wyszynski-oredzie-biskupow-polskich-do',
+        title: 'Orędzie biskupów polskich do biskupów niemieckich – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Or%C4%99dzie_biskup%C3%B3w_polskich_do_biskup%C3%B3w_niemieckich',
+        source: 'Wikipedia',
+        description: 'List z 1965 roku ze słowami „przebaczamy i prosimy o przebaczenie” i nagonka władz na episkopat.',
+      },
+      {
+        id: 'wyszynski-milenium-chrztu-polski',
+        title: 'Milenium chrztu Polski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Milenium_chrztu_Polski',
+        source: 'Wikipedia',
+        description: 'Obchody z 1966 roku przygotowane przez prymasa w ramach Wielkiej Nowenny.',
+      },
+      {
         id: 'wyszynski-1',
         title: 'Prymas Stefan Wyszyński – opracowania',
         type: 'publikacja',
@@ -5097,6 +5121,22 @@ RWPG rozwiązała się w 1991 roku, gdy upadły komunistyczne rządy i rynki wsc
     trivia: ['Radę powołano w 1949 roku jako odpowiedź bloku wschodniego na plan Marshalla.', 'Rozliczenia prowadzono w rublu transferowym, walucie istniejącej tylko na papierze.'],
     resources: [
       {
+        id: 'rwpg-rubel-transferowy',
+        title: 'Rubel transferowy – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Rubel_transferowy',
+        source: 'Wikipedia',
+        description: 'Rozrachunkowa waluta RWPG, w której rozliczano wymianę między krajami bloku.',
+      },
+      {
+        id: 'rwpg-rurociag-przyjazn',
+        title: 'Rurociąg „Przyjaźń” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Ruroci%C4%85g_%E2%80%9EPrzyja%C5%BA%C5%84%E2%80%9D',
+        source: 'Wikipedia',
+        description: 'Ropociąg z ZSRR do krajów RWPG, w tym do Płocka – symbol zależności surowcowej bloku.',
+      },
+      {
         id: 'rwpg-polona',
         title: 'RWPG – Rada Wzajemnej Pomocy Gospodarczej – opracowania',
         type: 'publikacja',
@@ -6262,6 +6302,22 @@ Towary z kartek trafiały na czarny rynek. "Spekulant" sprzedający je powyżej 
 
 Kartki znoszono stopniowo: cukier w 1985 r., mięso w 1989 r. Reforma Balcerowicza po 1989 r. zlikwidowała system definitywnie – półki sklepowe zapełniły się, lecz wielu Polaków nie miało pieniędzy na zakupy po cenach wolnorynkowych.`,
     resources: [
+      {
+        id: 'kartki-prl-zaopatrzenie-kartkowe',
+        title: 'Zaopatrzenie kartkowe – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Zaopatrzenie_kartkowe',
+        source: 'Wikipedia',
+        description: 'Kartki w PRL: na cukier od 1976 roku, na mięso od 1981 roku i ich zniesienie w 1989 roku.',
+      },
+      {
+        id: 'kartki-prl-czarny-rynek',
+        title: 'Czarny rynek – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Czarny_rynek',
+        source: 'Wikipedia',
+        description: 'Nielegalny handel towarami i walutą, który rozkwitał w warunkach reglamentacji.',
+      },
       {
         id: 'kartki-1',
         title: 'Kartki żywnościowe i reglamentacja – opracowania',
@@ -11476,6 +11532,22 @@ Kołakowski odwiedzał Polskę po 1989 roku. Był uhonorowany wieloma nagrodami,
     trivia: ['Po Marcu \'68 usunięto go z uniwersytetu; wyemigrował.', 'Napisał „Główne nurty marksizmu” – krytykę systemu od środka.'],
     resources: [
       {
+        id: 'kolakowski-rewizjonizm-marksizm',
+        title: 'Rewizjonizm (marksizm) – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Rewizjonizm_%28marksizm%29',
+        source: 'Wikipedia',
+        description: 'Nurt krytyki marksizmu, z którego wyszedł młody Kołakowski po 1956 roku.',
+      },
+      {
+        id: 'kolakowski-gowne-nurty-marksizmu',
+        title: 'Główne nurty marksizmu – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/G%C5%82%C3%B3wne_nurty_marksizmu',
+        source: 'Wikipedia',
+        description: 'Trzytomowe dzieło Kołakowskiego o historii marksizmu, wydane na emigracji.',
+      },
+      {
         id: 'kolakowski-culture',
         title: 'Leszek Kołakowski w serwisie Culture.pl',
         type: 'publikacja',
@@ -11544,6 +11616,30 @@ Polska szkoła plakatu dowodzi, że nawet w systemie totalitarnym twórczość m
     trivia: ['Polska szkoła plakatu zdobyła światową renomę.', 'Plakaty filmowe bywały ciekawsze i odważniejsze niż same filmy.'],
     resources: [
       {
+        id: 'plakat-prl-muzeum-plakatu-w-wilanowie',
+        title: 'Muzeum Plakatu w Wilanowie – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Muzeum_Plakatu_w_Wilanowie',
+        source: 'Wikipedia',
+        description: 'Pierwsze na świecie muzeum plakatu, otwarte w 1968 roku, z kolekcją polskiej szkoły.',
+      },
+      {
+        id: 'plakat-prl-jan-lenica',
+        title: 'Jan Lenica – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Jan_Lenica',
+        source: 'Wikipedia',
+        description: 'Jeden z czołowych twórców polskiej szkoły plakatu i animator.',
+      },
+      {
+        id: 'plakat-prl-henryk-tomaszewski-grafik',
+        title: 'Henryk Tomaszewski (grafik) – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Henryk_Tomaszewski_%28grafik%29',
+        source: 'Wikipedia',
+        description: 'Współtwórca polskiej szkoły plakatu i wieloletni profesor warszawskiej ASP.',
+      },
+      {
         id: 'plakat-polona',
         title: 'Polska szkoła plakatu – artykuł',
         type: 'publikacja',
@@ -11594,6 +11690,30 @@ W PRL skazano go zaocznie na karę śmierci za zdradę. Po 1989 r. trwał spór 
 Postać Kuklińskiego dzieli Polaków do dziś. Toczy się debata, czy jego działania były aktem patriotyzmu, czy złamaniem przysięgi wojskowej. Niezależnie od oceny moralnej, dostarczone przez niego informacje realnie wpłynęły na strategię NATO.`,
     trivia: ['Pułkownik przekazał na Zachód tysiące stron tajnych dokumentów Układu Warszawskiego.', 'W 1981 roku został ewakuowany wraz z rodziną przez CIA.'],
     resources: [
+      {
+        id: 'ryszard-kuklinski-zbigniew-brzezinski',
+        title: 'Zbigniew Brzeziński – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Zbigniew_Brzezi%C5%84ski',
+        source: 'Wikipedia',
+        description: 'Doradca prezydenta USA ds. bezpieczeństwa narodowego w latach 1977–1981, wymieniany w historii współpracy Kuklińskiego z Amerykanami.',
+      },
+      {
+        id: 'ryszard-kuklinski-jack-strong',
+        title: 'Jack Strong – artykuł',
+        type: 'film',
+        url: 'https://pl.wikipedia.org/wiki/Jack_Strong',
+        source: 'Wikipedia',
+        description: 'Film Władysława Pasikowskiego z 2014 roku o Kuklińskim.',
+      },
+      {
+        id: 'ryszard-kuklinski-stan-wojenny-w-polsce-198119',
+        title: 'Stan wojenny w Polsce (1981–1983) – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_%281981%E2%80%931983%29',
+        source: 'Wikipedia',
+        description: 'Stan wojenny, o którego przygotowaniach Kukliński informował Zachód.',
+      },
       {
         id: 'kuk-1',
         title: 'Ryszard Kukliński – zdjęcia i grafiki',
@@ -12847,6 +12967,22 @@ Impreza była pod ścisłą obserwacją Służby Bezpieczeństwa, która rejestr
 ## Dziedzictwo
 Jarocin stał się legendą i symbolem pokolenia. Po 1989 roku festiwal reaktywowano, a w mieście powstało Spichlerz Polskiego Rocka – muzeum dokumentujące historię imprezy.`,
     resources: [
+      {
+        id: 'jarocin-festiwal-walter-chestowski',
+        title: 'Walter Chełstowski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Walter_Che%C5%82stowski',
+        source: 'Wikipedia',
+        description: 'Współtwórca i wieloletni organizator festiwalu w Jarocinie od 1980 roku.',
+      },
+      {
+        id: 'jarocin-festiwal-muzyka-modej-generacji',
+        title: 'Muzyka Młodej Generacji – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Muzyka_M%C5%82odej_Generacji',
+        source: 'Wikipedia',
+        description: 'Ruch rockowy końca lat 70., z którego wyrósł jarociński festiwal.',
+      },
       {
         id: 'jar-1',
         title: 'Jarocin – festiwal (nagrania)',
@@ -15174,6 +15310,30 @@ Postać Siwca przywrócił zbiorowej pamięci dopiero film Macieja Drygasa „Us
     ],
     resources: [
       {
+        id: 'ryszard-siwiec-interwencja-ukadu-warszawski',
+        title: 'Interwencja Układu Warszawskiego w Czechosłowacji – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Interwencja_Uk%C5%82adu_Warszawskiego_w_Czechos%C5%82owacji',
+        source: 'Wikipedia',
+        description: 'Inwazja z sierpnia 1968 roku, przeciw której protestował Siwiec.',
+      },
+      {
+        id: 'ryszard-siwiec-jan-palach',
+        title: 'Jan Palach – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Jan_Palach',
+        source: 'Wikipedia',
+        description: 'Czeski student, który podpalił się w proteście w styczniu 1969 roku, pół roku po Siwcu.',
+      },
+      {
+        id: 'ryszard-siwiec-stadion-dziesieciolecia',
+        title: 'Stadion Dziesięciolecia – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Stadion_Dziesi%C4%99ciolecia',
+        source: 'Wikipedia',
+        description: 'Stadion, na którym Siwiec dokonał samospalenia podczas dożynek 8 września 1968 roku.',
+      },
+      {
         id: 'siw-1',
         title: 'Ryszard Siwiec – opracowania',
         type: 'publikacja',
@@ -15888,6 +16048,22 @@ Dziennik był wzorcowym nośnikiem nowomowy – zideologizowanego języka pełne
 Ostatni numer ukazał się w styczniu 1990 roku, kilka tygodni po rozwiązaniu PZPR; jej miejsce zajęła „Trybuna”. Zniknięcie tego tytułu było jednym z najbardziej widocznych znaków końca systemu.`,
     trivia: ['Była organem prasowym Komitetu Centralnego PZPR.', 'Nakład zapewniano odgórnie – prenumeratą w zakładach pracy.'],
     resources: [
+      {
+        id: 'trybuna-ludu-robotnicza-spodzielnia-wydaw',
+        title: 'Robotnicza Spółdzielnia Wydawnicza „Prasa-Książka-Ruch” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Robotnicza_Sp%C3%B3%C5%82dzielnia_Wydawnicza_%E2%80%9EPrasa-Ksi%C4%85%C5%BCka-Ruch%E2%80%9D',
+        source: 'Wikipedia',
+        description: 'Partyjny koncern prasowy, który wydawał „Trybunę Ludu” i większość prasy PRL.',
+      },
+      {
+        id: 'trybuna-ludu-gowny-urzad-kontroli-prasy-p',
+        title: 'Główny Urząd Kontroli Prasy, Publikacji i Widowisk – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/G%C5%82%C3%B3wny_Urz%C4%85d_Kontroli_Prasy%2C_Publikacji_i_Widowisk',
+        source: 'Wikipedia',
+        description: 'Urząd cenzury, któremu podlegała cała prasa PRL.',
+      },
       {
         id: 'tl-1',
         title: '„Trybuna Ludu” w Polonie',
@@ -17863,6 +18039,22 @@ Stan wojenny sparaliżował przewoźnika: w 1982 roku sieć połączeń skurczy�
     ],
     resources: [
       {
+        id: 'lot-prl-katastrofa-lotnicza-na-okeci',
+        title: 'Katastrofa lotnicza na Okęciu (1980) – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Katastrofa_lotnicza_na_Ok%C4%99ciu_%281980%29',
+        source: 'Wikipedia',
+        description: 'Katastrofa Iła-62 „Mikołaj Kopernik” 14 marca 1980 roku, w której zginęła m.in. Anna Jantar.',
+      },
+      {
+        id: 'lot-prl-katastrofa-lotnicza-w-lesie-',
+        title: 'Katastrofa lotnicza w Lesie Kabackim – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Katastrofa_lotnicza_w_Lesie_Kabackim',
+        source: 'Wikipedia',
+        description: 'Katastrofa Iła-62M „Tadeusz Kościuszko” w 1987 roku – najtragiczniejsza w historii polskiego lotnictwa cywilnego.',
+      },
+      {
         id: 'lot-1',
         title: 'LOT w PRL – materiały',
         type: 'publikacja',
@@ -18750,6 +18942,22 @@ Zarzucano jej ujednolicanie folkloru: dobór wzorów pod gust odbiorcy miejskieg
 Cepelia realnie ocaliła wiele technik rzemieślniczych, które bez zamówień zniknęłyby razem z ostatnim pokoleniem twórców. Jej estetyka pozostaje jednym z najbardziej charakterystycznych elementów wizualnych PRL i wraca dziś jako inspiracja dla projektantów.`,
     trivia: ['Nazwa to skrót od Centrali Przemysłu Ludowego i Artystycznego.', 'W sklepach Cepelii kupowało się rękodzieło i pamiątki.'],
     resources: [
+      {
+        id: 'cepelia-rekodzieo',
+        title: 'Rękodzieło – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/R%C4%99kodzie%C5%82o',
+        source: 'Wikipedia',
+        description: 'Drobna produkcja ręczna o walorach artystycznych – podstawa oferty Cepelii.',
+      },
+      {
+        id: 'cepelia-moda-polska',
+        title: 'Moda Polska – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Moda_Polska',
+        source: 'Wikipedia',
+        description: 'Państwowe przedsiębiorstwo modowe z 1958 roku, współpracujące z Cepelią przy strojach z motywami ludowymi.',
+      },
       {
         id: 'cep-1',
         title: 'Cepelia – materiały',
