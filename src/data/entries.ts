@@ -32743,6 +32743,30 @@ Rząd przetrwał do wyborów w styczniu 1947 roku. Były to półtora roku naras
     ],
     resources: [
       {
+        id: 'trjn-konferencja-jatanska',
+        title: 'Konferencja jałtańska – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Konferencja_ja%C5%82ta%C5%84ska',
+        source: 'Wikipedia',
+        description: 'Spotkanie Wielkiej Trójki z lutego 1945 roku, na którym uzgodniono powołanie TRJN.',
+      },
+      {
+        id: 'trjn-stanisaw-mikoajczyk',
+        title: 'Stanisław Mikołajczyk – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Miko%C5%82ajczyk',
+        source: 'Wikipedia',
+        description: 'Były premier rządu londyńskiego, wicepremier w TRJN.',
+      },
+      {
+        id: 'trjn-polski-komitet-wyzwolenia-na',
+        title: 'Polski Komitet Wyzwolenia Narodowego – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Polski_Komitet_Wyzwolenia_Narodowego',
+        source: 'Wikipedia',
+        description: 'Komitet, z którego wyrósł Rząd Tymczasowy, a potem TRJN.',
+      },
+      {
         id: 'trjn-wiki',
         title: 'Tymczasowy Rząd Jedności Narodowej – artykuł',
         type: 'publikacja',
@@ -33898,6 +33922,22 @@ Od maja 1982 do listopada 1985 roku zasiadał w Radzie Państwa, a do 1989 był 
     ],
     resources: [
       {
+        id: 'kania-porozumienia-sierpniowe',
+        title: 'Porozumienia sierpniowe – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Porozumienia_sierpniowe',
+        source: 'Wikipedia',
+        description: 'Porozumienia z 1980 roku, po których Kania zastąpił Gierka na czele partii.',
+      },
+      {
+        id: 'kania-stan-wojenny-w-polsce-198119',
+        title: 'Stan wojenny w Polsce (1981–1983) – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_%281981%E2%80%931983%29',
+        source: 'Wikipedia',
+        description: 'Stan wojenny wprowadzony dwa miesiące po odejściu Kani; w III RP Kanię sądzono w tej sprawie.',
+      },
+      {
         id: 'kania-wiki',
         title: 'Stanisław Kania – artykuł',
         type: 'publikacja',
@@ -34232,6 +34272,22 @@ Zmarł 5 października 1967 roku w Sceaux pod Paryżem. W PRL jego dorobek nie i
     ],
     resources: [
       {
+        id: 'zaremba-zygmunt-polska-partia-socjalistyczna',
+        title: 'Polska Partia Socjalistyczna – Wolność, Równość, Niepodległość – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Polska_Partia_Socjalistyczna_%E2%80%93_Wolno%C5%9B%C4%87%2C_R%C3%B3wno%C5%9B%C4%87%2C_Niepodleg%C5%82o%C5%9B%C4%87',
+        source: 'Wikipedia',
+        description: 'Konspiracyjna PPS, której Zaremba był jednym z twórców i przywódców.',
+      },
+      {
+        id: 'zaremba-zygmunt-rada-jednosci-narodowej',
+        title: 'Rada Jedności Narodowej – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Rada_Jedno%C5%9Bci_Narodowej',
+        source: 'Wikipedia',
+        description: 'Podziemny parlament, w którym Zaremba zasiadał od 1944 roku.',
+      },
+      {
         id: 'zaremba-zygmunt-wiki',
         title: 'Zygmunt Zaremba – artykuł',
         type: 'publikacja',
@@ -34283,6 +34339,22 @@ Dożył upadku systemu i przekazania insygniów prezydenckich wybranemu w wolnyc
       'Był najstarszym i najdłużej żyjącym prezydentem Polski – zmarł w wieku 101 lat.',
     ],
     resources: [
+      {
+        id: 'raczynski-rzad-rzeczypospolitej-polski',
+        title: 'Rząd Rzeczypospolitej Polskiej na uchodźstwie – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Rz%C4%85d_Rzeczypospolitej_Polskiej_na_uchod%C5%BAstwie',
+        source: 'Wikipedia',
+        description: 'Rząd w Londynie, w którym Raczyński był ministrem spraw zagranicznych.',
+      },
+      {
+        id: 'raczynski-nota-raczynskiego',
+        title: 'Nota Raczyńskiego – artykuł',
+        type: 'dokument',
+        url: 'https://pl.wikipedia.org/wiki/Nota_Raczy%C5%84skiego',
+        source: 'Wikipedia',
+        description: 'Nota z 10 grudnia 1942 roku informująca aliantów o zagładzie Żydów.',
+      },
       {
         id: 'raczynski-wiki',
         title: 'Edward Raczyński – artykuł',
@@ -34659,6 +34731,30 @@ W 1959 roku rząd zażądał usunięcia go z diecezji, ale odmówili zarówno ep
     ],
     resources: [
       {
+        id: 'kaczmarek-biskup-proces-biskupa-kaczmarka',
+        title: 'Proces biskupa Kaczmarka – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Proces_biskupa_Kaczmarka',
+        source: 'Wikipedia',
+        description: 'Pokazowy proces z września 1953 roku zakończony wyrokiem 12 lat więzienia.',
+      },
+      {
+        id: 'kaczmarek-biskup-pogrom-kielecki',
+        title: 'Pogrom kielecki – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Pogrom_kielecki',
+        source: 'Wikipedia',
+        description: 'Pogrom z 4 lipca 1946 roku, którego okoliczności badała komisja powołana przez biskupa.',
+      },
+      {
+        id: 'kaczmarek-biskup-diecezja-kielecka',
+        title: 'Diecezja kielecka – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Diecezja_kielecka',
+        source: 'Wikipedia',
+        description: 'Diecezja, którą Kaczmarek kierował w latach 1938–1963.',
+      },
+      {
         id: 'kaczmarek-biskup-wiki',
         title: 'Bp Czesław Kaczmarek – artykuł',
         type: 'publikacja',
@@ -35019,6 +35115,30 @@ Skutki tej zmiany – zahamowanie hiperinflacji z jednej strony, bezrobocie i up
     ],
     resources: [
       {
+        id: 'balcerowicz-plan-balcerowicza',
+        title: 'Plan Balcerowicza – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Plan_Balcerowicza',
+        source: 'Wikipedia',
+        description: 'Program reform z przełomu 1989 i 1990 roku, przechodzący od gospodarki planowej do rynkowej.',
+      },
+      {
+        id: 'balcerowicz-rzad-tadeusza-mazowieckiego',
+        title: 'Rząd Tadeusza Mazowieckiego – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Rz%C4%85d_Tadeusza_Mazowieckiego',
+        source: 'Wikipedia',
+        description: 'Pierwszy niekomunistyczny rząd, w którym Balcerowicz był wicepremierem i ministrem finansów.',
+      },
+      {
+        id: 'balcerowicz-denominacja-zotego-w-1995-ro',
+        title: 'Denominacja złotego w 1995 roku – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Denominacja_z%C5%82otego_w_1995_roku',
+        source: 'Wikipedia',
+        description: 'Wymiana pieniądza z 1995 roku, zamykająca okres wysokiej inflacji.',
+      },
+      {
         id: 'balcerowicz-wiki',
         title: 'Leszek Balcerowicz – artykuł',
         type: 'publikacja',
@@ -35068,6 +35188,22 @@ Kopalnię „Jadwiga” nazwano jego imieniem, a w latach 1951–2006 nosiła je
       'W latach 1951–2006 jego imię nosiła Politechnika Śląska.',
     ],
     resources: [
+      {
+        id: 'pstrowski-przodownik-pracy',
+        title: 'Przodownik pracy – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Przodownik_pracy',
+        source: 'Wikipedia',
+        description: 'Wzorzec propagandowy, którego pierwszym polskim przykładem uczyniono Pstrowskiego.',
+      },
+      {
+        id: 'pstrowski-wspozawodnictwo-pracy',
+        title: 'Współzawodnictwo pracy – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Wsp%C3%B3%C5%82zawodnictwo_pracy',
+        source: 'Wikipedia',
+        description: 'Rywalizacja w przekraczaniu norm, którą rozpoczęło jego wezwanie z 1947 roku.',
+      },
       {
         id: 'pstrowski-wiki',
         title: 'Wincenty Pstrowski – artykuł',
@@ -35171,6 +35307,22 @@ Los gazety jest dokładnym odbiciem losu samej PPS: formalnie połączenie równ
       'Prasa partyjna nie tyle informowała, ile wykładała aktualną linię – aktyw dowiadywał się z niej, co myśleć.',
     ],
     resources: [
+      {
+        id: 'glos-ludu-polska-partia-robotnicza',
+        title: 'Polska Partia Robotnicza – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Polska_Partia_Robotnicza',
+        source: 'Wikipedia',
+        description: 'Partia komunistyczna, której organem był „Głos Ludu”.',
+      },
+      {
+        id: 'glos-ludu-trybuna-ludu',
+        title: 'Trybuna Ludu – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Trybuna_Ludu',
+        source: 'Wikipedia',
+        description: 'Dziennik, który w 1948 roku zastąpił „Głos Ludu” i „Robotnika” po zjednoczeniu partii.',
+      },
       {
         id: 'glos-ludu-wiki',
         title: '„Głos Ludu” – artykuł',
@@ -35292,6 +35444,22 @@ Historia dziennika jest przykładem tego, jak PRL budował fasadowy pluralizm: n
     ],
     resources: [
       {
+        id: 'slowo-powszechne-stowarzyszenie-pax',
+        title: 'Stowarzyszenie „Pax” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Stowarzyszenie_%E2%80%9EPax%E2%80%9D',
+        source: 'Wikipedia',
+        description: 'Organizacja katolików świeckich związanych z władzą, wydawca „Słowa Powszechnego”.',
+      },
+      {
+        id: 'slowo-powszechne-bolesaw-piasecki',
+        title: 'Bolesław Piasecki – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Boles%C5%82aw_Piasecki',
+        source: 'Wikipedia',
+        description: 'Założyciel i przewodniczący Paxu.',
+      },
+      {
         id: 'slowo-powszechne-wiki',
         title: '„Słowo Powszechne” – artykuł',
         type: 'publikacja',
@@ -35396,6 +35564,14 @@ Dla dzisiejszego czytelnika roczniki „Expressu” są zapisem codzienności: c
     ],
     resources: [
       {
+        id: 'express-wieczorny-robotnicza-spodzielnia-wydaw',
+        title: 'Robotnicza Spółdzielnia Wydawnicza „Prasa-Książka-Ruch” – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Robotnicza_Sp%C3%B3%C5%82dzielnia_Wydawnicza_%E2%80%9EPrasa-Ksi%C4%85%C5%BCka-Ruch%E2%80%9D',
+        source: 'Wikipedia',
+        description: 'Partyjny koncern, który wydawał „Express Wieczorny” i większość prasy PRL.',
+      },
+      {
         id: 'express-wieczorny-wiki',
         title: '„Express Wieczorny” – artykuł',
         type: 'publikacja',
@@ -35447,6 +35623,14 @@ Tytuł przetrwał zmianę ustroju i ukazywał się do 2000 roku, tracąc stopnio
       'W latach 1957–1974 pismem kierował Kazimierz Kąkol, późniejszy szef Urzędu do Spraw Wyznań.',
     ],
     resources: [
+      {
+        id: 'prawo-i-zycie-kazimierz-kakol',
+        title: 'Kazimierz Kąkol – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Kazimierz_K%C4%85kol',
+        source: 'Wikipedia',
+        description: 'Redaktor naczelny „Prawa i Życia” w latach 1957–1974, później kierownik Urzędu do Spraw Wyznań.',
+      },
       {
         id: 'prawo-i-zycie-wiki',
         title: '„Prawo i Życie” – artykuł',
