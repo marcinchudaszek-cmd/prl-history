@@ -11130,6 +11130,8 @@ Komuniści zdawali sobie sprawę z zagrożenia. SB inwigilowała pielgrzymki, do
     yearStart: 1970,
     yearEnd: 1989,
     shortDesc: 'Gdańsk, Sopot i Gdynia – centrum stoczniowego ruchu robotniczego, kolebka Solidarności i pamięci Grudnia 1970.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Strajk_sierpniowy_w_Stoczni_Gda%C5%84skiej_im._Lenina_07.jpg?width=800',
+    imageCaption: 'Tłum mieszkańców Gdańska przed Bramą nr 2 Stoczni Gdańskiej im. Lenina, sierpień 1980 (fot. Zygmunt Błażek)',
     content: `## Trójmiasto – serce Solidarności
 
 Trójmiasto (Gdańsk–Sopot–Gdynia) odegrało wyjątkową rolę w historii polskiej opozycji. To tutaj rozegrały się kluczowe akty dramatu 1970 roku, tu powstała Solidarność, tu bije serce oporu robotniczego.
@@ -17834,6 +17836,8 @@ Jego syn Tomasz, znany radiowiec i tłumacz, odebrał sobie życie w 1999 roku. 
     yearStart: 1956,
     yearEnd: 1989,
     summary: 'Państwowe wydawnictwo fonograficzne, niemal monopolista rynku płytowego PRL, wydające pod marką „Muza” muzykę wszystkich gatunków.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Filipinki_N0298.jpg?width=800',
+    imageCaption: 'Okładka płyty Filipinek wydanej przez Polskie Nagrania „Muza” (N 0298), 1964',
     content: `## Monopol
 Polskie Nagrania powstały w 1956 roku i przez całą epokę były głównym wydawcą płytowym w kraju. To one decydowały, co się ukaże, w jakim nakładzie i kiedy – artysta bez umowy z „Muzą” praktycznie nie istniał na rynku fonograficznym.
 
@@ -18199,6 +18203,8 @@ Dla dzieci tamtego pokolenia brak „Teleranka” stał się synonimem stanu woj
     yearStart: 1977,
     yearEnd: 1989,
     summary: 'Polskie badania polarne, zwieńczone otwarciem w 1977 roku stałej Stacji Antarktycznej im. Henryka Arctowskiego, dowód naukowych ambicji PRL.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Henryk_Arctowski_Polish_Antarctic_Station.JPG?width=800',
+    imageCaption: 'Polska Stacja Antarktyczna im. Henryka Arctowskiego na Wyspie Króla Jerzego (fot. współczesna, 2008)',
     content: `## Tradycja
 Polacy uczestniczyli w badaniach polarnych już przed wojną, a po wojnie polarnictwo rozwijano w ramach Polskiej Akademii Nauk. Przełomem był Międzynarodowy Rok Geofizyczny 1957/58, gdy polskie ekipy stanęły na Spitsbergenie, a w 1959 roku Polska przejęła od Związku Radzieckiego antarktyczną stację, nazwaną imieniem Antoniego Dobrowolskiego.
 
@@ -21203,6 +21209,8 @@ Zagłuszanie przerywano i wznawiano zależnie od koniunktury politycznej, a defi
     yearStart: 1971,
     yearEnd: 1989,
     summary: 'Wprowadzenie nadawania w kolorze (system SECAM) w 1971 roku; kolorowy telewizor stał się jednak na długo luksusem i przedmiotem marzeń.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Telewizor_Helios_TC500.jpg?width=800',
+    imageCaption: 'Kolorowy telewizor Unitra WZT Helios TC 500 (fot. współczesna)',
     content: `## Start nadawania
 Regularne nadawanie w kolorze ruszyło w 1971 roku w systemie SECAM – tym samym, którego używały Związek Radziecki i Francja. Wybór był polityczny co najmniej tak samo jak techniczny: przesądzała zgodność z resztą bloku.
 
@@ -23533,6 +23541,8 @@ Na tych maszynach wychowało się pokolenie, które zaczynało od gier, a kończ
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Własny telefon był w PRL luksusem – na założenie linii czekało się latami, a rozmowy bywały podsłuchiwane.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/RWT_Tulipan.JPG?width=800',
+    imageCaption: 'Telefon RWT „Tulipan” z tarczą numerową, produkt radomskich zakładów (fot. współczesna)',
     content: `## Dobro reglamentowane
 Telefon w mieszkaniu był w PRL rzadkością. Na przydział linii czekano latami, a kolejka nie zawsze była jedynym kryterium – liczyły się też stanowisko i znajomości. W wielu miejscowościach jedyny aparat znajdował się na poczcie, w urzędzie gminy albo w zakładzie pracy. Telefon domowy był więc także oznaką statusu.
 
@@ -24284,6 +24294,8 @@ Dla kilku pokoleń mężczyzn „woja” była wspólnym doświadczeniem – od 
     yearStart: 1960,
     yearEnd: 1989,
     summary: 'Trzepak i osiedlowe podwórko były centrum dzieciństwa w PRL – świata zabaw bez ekranów, „na dworze do wieczora”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ignacy_P%C5%82a%C5%BCewski%2C_Bloki_mieszkaniowe_na_osiedlu_W%C5%82ady_Bytomskiej_w_%C5%81odzi%2C_I-4710-14.jpg?width=800',
+    imageCaption: 'Dzieci na trzepaku przy blokach osiedla im. Włady Bytomskiej w Łodzi, lata 50.–60. (fot. Ignacy Płażewski)',
     content: `## Trzepak
 Trzepak to rama z rur stalowych, zwykle z dwiema poprzeczkami na różnej wysokości – górna na mniej więcej dwóch metrach – na której przewieszano dywany i wybijano z nich kurz trzepaczką. Przed upowszechnieniem się odkurzaczy był obowiązkowym wyposażeniem każdego podwórka, zarówno przy kamienicach, jak i na osiedlach z wielkiej płyty, gdzie obok stawiano ławki do układania wytrzepanych chodników.
 
