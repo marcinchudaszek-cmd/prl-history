@@ -32859,6 +32859,30 @@ Dla nowej władzy Polskie Państwo Podziemne było przeszkodą, a nie dziedzictw
     ],
     resources: [
       {
+        id: 'panstwo-podziemne-delegatura-rzadu-na-kraj',
+        title: 'Delegatura Rządu na Kraj – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Delegatura_Rz%C4%85du_na_Kraj',
+        source: 'Wikipedia',
+        description: 'Tajny naczelny organ administracji Polskiego Państwa Podziemnego, utworzony w 1940 roku.',
+      },
+      {
+        id: 'panstwo-podziemne-rada-jednosci-narodowej',
+        title: 'Rada Jedności Narodowej – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Rada_Jedno%C5%9Bci_Narodowej',
+        source: 'Wikipedia',
+        description: 'Podziemny parlament – reprezentacja polityczna Polskiego Państwa Podziemnego.',
+      },
+      {
+        id: 'panstwo-podziemne-armia-krajowa',
+        title: 'Armia Krajowa – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Armia_Krajowa',
+        source: 'Wikipedia',
+        description: 'Siły zbrojne Polskiego Państwa Podziemnego.',
+      },
+      {
         id: 'panstwo-podziemne-wiki',
         title: 'Polskie Państwo Podziemne – artykuł',
         type: 'publikacja',
@@ -32904,6 +32928,30 @@ Poczdam domknął to, co zaczęto w Jałcie: Polska otrzymała nowe granice i zn
       'Granicę na Odrze i Nysie ustalono „do czasu konferencji pokojowej”, która nigdy się nie odbyła.',
     ],
     resources: [
+      {
+        id: 'poczdam-konferencja-jatanska',
+        title: 'Konferencja jałtańska – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Konferencja_ja%C5%82ta%C5%84ska',
+        source: 'Wikipedia',
+        description: 'Spotkanie Wielkiej Trójki z lutego 1945 roku, które poprzedziło Poczdam i rozstrzygnęło o granicy wschodniej Polski.',
+      },
+      {
+        id: 'poczdam-ziemie-odzyskane',
+        title: 'Ziemie Odzyskane – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Ziemie_Odzyskane',
+        source: 'Wikipedia',
+        description: 'Ziemie przyznane Polsce w Poczdamie i ich powojenne zasiedlanie.',
+      },
+      {
+        id: 'poczdam-paac-cecilienhof',
+        title: 'Pałac Cecilienhof – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Pa%C5%82ac_Cecilienhof',
+        source: 'Wikipedia',
+        description: 'Pałac w Poczdamie, w którym obradowała konferencja.',
+      },
       {
         id: 'poczdam-wiki',
         title: 'Konferencja poczdamska – artykuł',
@@ -32951,6 +32999,30 @@ Plan trzyletni był jedynym okresem powojennej gospodarki, w którym wzrost prod
     ],
     resources: [
       {
+        id: 'cup-plan-trzyletni',
+        title: 'Plan trzyletni – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Plan_trzyletni',
+        source: 'Wikipedia',
+        description: 'Plan Odbudowy Gospodarczej 1947–1949, przygotowany w Centralnym Urzędzie Planowania.',
+      },
+      {
+        id: 'cup-czesaw-bobrowski',
+        title: 'Czesław Bobrowski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Czes%C5%82aw_Bobrowski',
+        source: 'Wikipedia',
+        description: 'Ekonomista, prezes CUP i współautor planu trzyletniego.',
+      },
+      {
+        id: 'cup-panstwowa-komisja-planowania',
+        title: 'Państwowa Komisja Planowania Gospodarczego – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Pa%C5%84stwowa_Komisja_Planowania_Gospodarczego',
+        source: 'Wikipedia',
+        description: 'Instytucja, która w 1949 roku przejęła zadania CUP.',
+      },
+      {
         id: 'cup-wiki',
         title: 'Centralny Urząd Planowania – artykuł',
         type: 'publikacja',
@@ -32996,6 +33068,22 @@ Wyszyński wyszedł na wolność w październiku 1956 roku. Śluby zapoczątkowa
       'Śluby rozpoczęły Wielką Nowennę – dziewięć lat przygotowań do obchodów Milenium w 1966 roku.',
     ],
     resources: [
+      {
+        id: 'sluby-jasnogorskie-sluby-lwowskie',
+        title: 'Śluby lwowskie – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/%C5%9Aluby_lwowskie',
+        source: 'Wikipedia',
+        description: 'Śluby Jana Kazimierza z 1656 roku, do których nawiązywały Śluby Jasnogórskie w 300. rocznicę.',
+      },
+      {
+        id: 'sluby-jasnogorskie-maria-okonska',
+        title: 'Maria Okońska – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Maria_Oko%C5%84ska',
+        source: 'Wikipedia',
+        description: 'Współpracowniczka prymasa Wyszyńskiego, związana z przygotowaniem Ślubów.',
+      },
       {
         id: 'sluby-jasnogorskie-wiki',
         title: 'Jasnogórskie Śluby Narodu Polskiego – artykuł',
@@ -33043,6 +33131,14 @@ Odbudowane Stare Miasto zostało wpisane na listę światowego dziedzictwa UNESC
     ],
     resources: [
       {
+        id: 'bos-jan-zachwatowicz',
+        title: 'Jan Zachwatowicz – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Jan_Zachwatowicz',
+        source: 'Wikipedia',
+        description: 'Architekt, który kierował Wydziałem Architektury Zabytkowej BOS i odbudową Starego Miasta.',
+      },
+      {
         id: 'bos-wiki',
         title: 'Biuro Odbudowy Stolicy – artykuł',
         type: 'publikacja',
@@ -33089,6 +33185,30 @@ Ujawnienia Józefa Światły i referat Chruszczowa na XX Zjeździe KPZR podcię�
     ],
     resources: [
       {
+        id: 'berman-centralne-biuro-komunistow-p',
+        title: 'Centralne Biuro Komunistów Polski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Centralne_Biuro_Komunist%C3%B3w_Polski',
+        source: 'Wikipedia',
+        description: 'Tajny ośrodek komunistów polskich w ZSRR z 1944 roku, którego pracami faktycznie kierował Berman.',
+      },
+      {
+        id: 'berman-ministerstwo-bezpieczenstwa-',
+        title: 'Ministerstwo Bezpieczeństwa Publicznego – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Ministerstwo_Bezpiecze%C5%84stwa_Publicznego',
+        source: 'Wikipedia',
+        description: 'Resort bezpieczeństwa, nad którym Berman sprawował nadzór z ramienia Biura Politycznego.',
+      },
+      {
+        id: 'berman-hilary-minc',
+        title: 'Hilary Minc – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Hilary_Minc',
+        source: 'Wikipedia',
+        description: 'Członek ścisłego kierownictwa partii, obok Bieruta i Bermana tworzący stalinowską „trójkę”.',
+      },
+      {
         id: 'berman-wiki',
         title: 'Jakub Berman – artykuł',
         type: 'publikacja',
@@ -33134,6 +33254,30 @@ Odsunięty w 1956 roku wraz z resztą stalinowskiego kierownictwa. Model gospoda
       'Zbudowany przez niego model gospodarczy przetrwał jego odejście o ponad trzydzieści lat.',
     ],
     resources: [
+      {
+        id: 'minc-plan-szescioletni',
+        title: 'Plan sześcioletni – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Plan_sze%C5%9Bcioletni',
+        source: 'Wikipedia',
+        description: 'Plan industrializacji 1950–1955, którego głównym architektem był Minc.',
+      },
+      {
+        id: 'minc-bitwa-o-handel',
+        title: 'Bitwa o handel – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Bitwa_o_handel',
+        source: 'Wikipedia',
+        description: 'Kampania przeciw prywatnemu handlowi z lat 1947–1949, prowadzona pod kierunkiem Minca.',
+      },
+      {
+        id: 'minc-panstwowa-komisja-planowania',
+        title: 'Państwowa Komisja Planowania Gospodarczego – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Pa%C5%84stwowa_Komisja_Planowania_Gospodarczego',
+        source: 'Wikipedia',
+        description: 'Centrala planowania gospodarczego, której przewodniczył Minc.',
+      },
       {
         id: 'minc-wiki',
         title: 'Hilary Minc – artykuł',
@@ -33255,6 +33399,22 @@ Uchodził za koniunkturalistę, który zawsze popierał najsilniejszych. Wyjątk
     ],
     resources: [
       {
+        id: 'ochab-polski-pazdziernik-1956',
+        title: 'Polski październik 1956 – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956',
+        source: 'Wikipedia',
+        description: 'Przesilenie z października 1956 roku, w którym Ochab oddał władzę Gomułce.',
+      },
+      {
+        id: 'ochab-natolinczycy',
+        title: 'Natolińczycy – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Natoli%C5%84czycy',
+        source: 'Wikipedia',
+        description: 'Frakcja partyjna, z którą rywalizowali puławianie, w czasie gdy Ochab reprezentował nurt środka.',
+      },
+      {
         id: 'ochab-wiki',
         title: 'Edward Ochab – artykuł',
         type: 'publikacja',
@@ -33304,6 +33464,30 @@ Na pogrzebie Bieruta w 1956 roku mówił o partii „zwartej jak monolit”. W c
       'Przewodniczył Radzie Państwa przez prawie dwanaście lat i zmarł na tym stanowisku.',
     ],
     resources: [
+      {
+        id: 'zawadzki-rada-panstwa-polska',
+        title: 'Rada Państwa (Polska) – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Rada_Pa%C5%84stwa_%28Polska%29',
+        source: 'Wikipedia',
+        description: 'Kolegialna głowa państwa, której Zawadzki przewodniczył w latach 1952–1964.',
+      },
+      {
+        id: 'zawadzki-centralne-biuro-komunistow-p',
+        title: 'Centralne Biuro Komunistów Polski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Centralne_Biuro_Komunist%C3%B3w_Polski',
+        source: 'Wikipedia',
+        description: 'Tajny ośrodek komunistów polskich w ZSRR, którego Zawadzki był formalnym przewodniczącym.',
+      },
+      {
+        id: 'zawadzki-front-jednosci-narodu',
+        title: 'Front Jedności Narodu – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Front_Jedno%C5%9Bci_Narodu',
+        source: 'Wikipedia',
+        description: 'Organizacja, której ogólnopolskim komitetem kierował Zawadzki od 1958 roku.',
+      },
       {
         id: 'zawadzki-wiki',
         title: 'Aleksander Zawadzki – artykuł',
@@ -33495,6 +33679,30 @@ Podczas VIII Plenum w październiku 1956 roku jego pozostanie w Polsce stało si
     ],
     resources: [
       {
+        id: 'rokossowski-ludowe-wojsko-polskie',
+        title: 'Ludowe Wojsko Polskie – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Ludowe_Wojsko_Polskie',
+        source: 'Wikipedia',
+        description: 'Armia, którą Rokossowski dowodził jako minister obrony narodowej w latach 1949–1956.',
+      },
+      {
+        id: 'rokossowski-marszaek-polski',
+        title: 'Marszałek Polski – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Marsza%C5%82ek_Polski',
+        source: 'Wikipedia',
+        description: 'Stopień nadany Rokossowskiemu w 1949 roku.',
+      },
+      {
+        id: 'rokossowski-polski-pazdziernik-1956',
+        title: 'Polski październik 1956 – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956',
+        source: 'Wikipedia',
+        description: 'Przesilenie z 1956 roku, po którym Rokossowski musiał wrócić do ZSRR.',
+      },
+      {
         id: 'rokossowski-wiki',
         title: 'Konstanty Rokossowski – artykuł',
         type: 'publikacja',
@@ -33544,6 +33752,30 @@ W 1970 roku, podczas wizyty w Pakistanie, przeżył zamach na lotnisku w Karaczi
       'W 1970 roku przeżył zamach na lotnisku w Karaczi, w którym zginęły cztery osoby.',
     ],
     resources: [
+      {
+        id: 'spychalski-biuro-odbudowy-stolicy',
+        title: 'Biuro Odbudowy Stolicy – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Biuro_Odbudowy_Stolicy',
+        source: 'Wikipedia',
+        description: 'Instytucja odbudowy Warszawy, której zalążek Spychalski powołał w 1945 roku.',
+      },
+      {
+        id: 'spychalski-rada-panstwa-polska',
+        title: 'Rada Państwa (Polska) – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Rada_Pa%C5%84stwa_%28Polska%29',
+        source: 'Wikipedia',
+        description: 'Kolegialna głowa państwa, której Spychalski przewodniczył w latach 1968–1970.',
+      },
+      {
+        id: 'spychalski-odchylenie-prawicowo-nacjona',
+        title: 'Odchylenie prawicowo-nacjonalistyczne – artykuł',
+        type: 'publikacja',
+        url: 'https://pl.wikipedia.org/wiki/Odchylenie_prawicowo-nacjonalistyczne',
+        source: 'Wikipedia',
+        description: 'Oskarżenie, na którego podstawie Spychalskiego odsunięto i aresztowano.',
+      },
       {
         id: 'spychalski-wiki',
         title: 'Marian Spychalski – artykuł',
