@@ -11426,6 +11426,8 @@ Muzyka rockowa lat 80. nie była wprost polityczna, ale jej etos był opozycyjny
     yearStart: 1946,
     yearEnd: 1989,
     shortDesc: 'Piwnica pod Baranami, Dudek, STS – satyra jako jedyna dozwolona forma krytyki systemu.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kabaret.starszych.panow.jpg?width=800',
+    imageCaption: 'Nagranie „Kabaretu Starszych Panów” w telewizyjnym studiu, lata 60. – na zdjęciu scenografki Alicja i Bożena Wahl (autor nieznany)',
     content: `## Kabaret i satyra w PRL
 
 Kabaret i satyra polityczna zajmowały w kulturze PRL szczególne miejsce – były jedyną formą publicznej krytyki systemu, którą władza tolerowała w pewnych granicach. Dobry satyryk potrafił powiedzieć to, o czym inni mogli tylko szeptać.
@@ -13029,6 +13031,14 @@ Kluczową rolę odegrały festiwal w Jarocinie oraz Lista Przebojów Programu Tr
 Polski rock lat 80. był nie tylko zjawiskiem muzycznym, ale i społecznym – formą wyrażania sprzeciwu, tożsamości i marzeń o wolności całego pokolenia.`,
     trivia: ['Rock stał się głosem pokolenia stanu wojennego.', 'Teksty przemycały treści, których nie przepuściłaby cenzura w prasie.'],
     resources: [
+      {
+        id: 'rock-lat-80-yt',
+        title: '„Jarocin, po co wolność” – zwiastun (PISF)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=aPkmQhFQd8Y',
+        source: 'YouTube',
+        description: 'Zwiastun filmu dokumentalnego o festiwalu w Jarocinie, opublikowany przez Polski Instytut Sztuki Filmowej.',
+      },
       {
         id: 'rock80-1',
         title: 'Polski rock lat 80. (nagrania)',
@@ -17978,6 +17988,14 @@ Plany zakładały stały wzrost wydobycia, co w latach 70. doprowadziło do prac
     trivia: ['Węgiel był głównym towarem eksportowym PRL.', 'Górnicy mieli przywileje – deputat węglowy i hucznie obchodzoną Barbórkę.'],
     resources: [
       {
+        id: 'gornictwo-prl-yt',
+        title: '„W kopalni węgla kamiennego” (1963) – Wytwórnia Filmów Oświatowych',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=ifEQgjE8ric',
+        source: 'YouTube',
+        description: 'Pełny film oświatowy WFO z 1963 roku o pracy w kopalni węgla kamiennego.',
+      },
+      {
         id: 'gor-pkf',
         title: 'Polska Kronika Filmowa – górnictwo i Barbórka',
         type: 'nagranie',
@@ -18167,6 +18185,14 @@ W niedzielę 13 grudnia 1981 roku dzieci, które włączyły telewizor o dziewi�
 ## Znaczenie
 Dla dzieci tamtego pokolenia brak „Teleranka” stał się synonimem stanu wojennego – często pierwszym, jaki zapamiętały, zanim zrozumiały, co się stało. Program przetrwał PRL i był nadawany do 2009 roku, a w 2016 roku wrócił na antenę.`,
     resources: [
+      {
+        id: 'teleranek-yt',
+        title: 'W telewizorze Jaruzelski zamiast „Teleranka” – Retro TVP3 Wrocław',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=CuN_n4CdR3w',
+        source: 'YouTube',
+        description: 'Materiał TVP o niedzieli 13 grudnia 1981 roku, gdy zamiast „Teleranka” nadawano przemówienie gen. Jaruzelskiego.',
+      },
       {
         id: 'ter-1',
         title: 'Teleranek – archiwalia',
@@ -19523,6 +19549,14 @@ Większość Polaków wypoczywała w kraju. Wczasy pracownicze organizował od 1
       'W 1979 roku z usług biura skorzystało 12,2 mln klientów.',
     ],
     resources: [
+      {
+        id: 'orbis-turystyka-yt',
+        title: 'Perły Archiwów – Jak wypoczywało się w PRL? (Rekonstrukcja cyfrowa TVP)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=tScrVNxQWC0',
+        source: 'YouTube',
+        description: 'Archiwalne materiały TVP o wypoczynku w PRL: wakacje z FWP i wczasy pod gruszą.',
+      },
       {
         id: 'orb-1',
         title: 'Orbis i turystyka – materiały',
@@ -23486,6 +23520,8 @@ Tranzystor był podstawowym wyposażeniem wyjazdu, a radio – jedynym źródłe
     yearStart: 1984,
     yearEnd: 1989,
     summary: 'Fala mikrokomputerów domowych (ZX Spectrum, Atari, Commodore), która w latach 80. rozbudziła pasję młodego pokolenia mimo barier i niedoboru.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Elwro_800-3_w_zasobach_muzeum_Gry_i_Komputery_Minionej_Ery_we_Wroc%C5%82awiu.jpg?width=800',
+    imageCaption: 'Komputer Elwro 800-3 Junior w muzeum „Gry i Komputery Minionej Ery” we Wrocławiu (fot. Wojciech Pędzich, 2019)',
     content: `## Pierwsze komputery
 Komputery domowe pojawiły się w Polsce w połowie lat 80. Podstawą były maszyny ośmiobitowe: ZX Spectrum, Commodore 64, Atari, Amstrad. Sprowadzano je głównie prywatnie, przez osoby wyjeżdżające na Zachód, a część dało się kupić za dewizy w Peweksie.
 
