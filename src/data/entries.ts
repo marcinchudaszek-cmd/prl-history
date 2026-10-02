@@ -2907,23 +2907,27 @@ Przez cały okres PRL obowiązywała wersja obarczająca winą Niemców. Temat b
     tags: ['MO', 'Milicja', 'ORMO', 'porządek publiczny', 'represje', 'mundur'],
     yearStart: 1944,
     yearEnd: 1990,
-    summary: 'Milicja Obywatelska (MO) – komunistyczna formacja policyjna powołana w 1944 roku jako zamiennik przedwojennej Policji Państwowej. Przez 45 lat pełniła funkcje porządkowe, lecz przede wszystkim była narzędziem represji politycznych i kontroli społeczeństwa.',
+    summary: 'Milicja Obywatelska (MO) – formacja policyjna PRL powołana w 1944 roku. Zwalczała przestępczość, ale była też narzędziem utrzymania władzy; w 1990 roku zastąpiła ją Policja.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Milicja_Obywatelska_orze%C5%82ek_czapkowy.png?width=800',
     imageCaption: 'Orzełek czapkowy Milicji Obywatelskiej',
-    content: `## Formacja
-Milicja Obywatelska powstała w 1944 roku i przez cały okres PRL pełniła funkcje policyjne. Liczyła około osiemdziesięciu tysięcy funkcjonariuszy i podlegała Ministerstwu Spraw Wewnętrznych – temu samemu, któremu podlegała Służba Bezpieczeństwa.
+    content: `## Powstanie
+Milicję Obywatelską ustanowił dekret PKWN z lipca 1944 roku, ale ostatecznie utworzono ją dekretem z 7 października 1944 roku. Podporządkowano ją resortowi, a potem Ministerstwu Bezpieczeństwa Publicznego; od 1954 roku podlegała Ministerstwu Spraw Wewnętrznych. Pierwszym komendantem głównym był Franciszek Jóźwiak. Kadry wywodziły się z Armii Ludowej, wojska i partii; zatrudniono też około tysiąca przedwojennych policjantów.
 
-## Dwie role
-Milicja zajmowała się przestępczością pospolitą, ruchem drogowym i porządkiem publicznym, ale jednocześnie służyła utrzymaniu systemu: kontrolowała zgromadzenia, sprawdzała dokumenty, uczestniczyła w rozpędzaniu demonstracji. Ta dwoistość kształtowała stosunek społeczeństwa do formacji.
+## Lata walki
+W latach 1944–1948 milicję używano do zwalczania podziemia niepodległościowego, a także UPA. Terenowe jednostki MO podlegały wtedy komisjom bezpieczeństwa razem z wojskiem, KBW i UB.
 
-## Codzienny kontakt
-Dla przeciętnego obywatela milicjant był najbardziej widoczną twarzą państwa: przy legitymowaniu, w punkcie kontroli drogowej, na komisariacie przy meldunku. Uprawnienia były szerokie, a droga odwołania od decyzji – w praktyce żadna.
+## Pod jednym mundurem z SB
+Po 1956 roku Służbę Bezpieczeństwa włączono w strukturę milicji: w komendach utworzono stanowiska zastępców do spraw SB, a funkcjonariuszy obu służb łączyły mundury i stopnie. Po doświadczeniu Poznańskiego Czerwca utworzono też ZOMO – oddziały do tłumienia demonstracji, użyte m.in. w grudniu 1970 roku i w stanie wojennym.
+
+## Codzienność
+MO liczyła około osiemdziesięciu tysięcy funkcjonariuszy. Zwalczała przestępczość i pilnowała porządku, ale zarazem uczestniczyła w walce z opozycją, przez co zwłaszcza w latach 80. była źle postrzegana. Literatura i telewizja kreowały jej pozytywny obraz – od komiksów o kapitanie Żbiku po serial „07 zgłoś się”.
 
 ## Koniec
-W 1990 roku milicję zastąpiono Policją, przeprowadzając weryfikację funkcjonariuszy. Sama zmiana nazwy miała znaczenie symboliczne: słowo milicja było zbyt mocno związane z poprzednim systemem, by je zachować.`,
+Milicja Obywatelska istniała do 10 maja 1990 roku, kiedy zastąpiła ją Policja. Do końca była formacją silnie uzbrojoną – miała m.in. transportery opancerzone i karabinki automatyczne.`,
     trivia: [
-      'Milicja i Służba Bezpieczeństwa podlegały temu samemu ministerstwu.',
-      'W 1990 roku zmieniono nie tylko strukturę, ale i nazwę – słowo milicja było zbyt obciążone.',
+      'Pierwszy dekret o milicji z lipca 1944 roku nie wszedł w życie – formację powołano ponownie dekretem z 7 października 1944 roku.',
+      'Funkcjonariusze MO składali takie samo ślubowanie jak funkcjonariusze Służby Bezpieczeństwa.',
+      'Komenda Główna MO mieściła się przy ul. Puławskiej 148/150 w Warszawie.',
     ],
     resources: [
       {
@@ -15562,23 +15566,27 @@ Milicja zatrzymująca ludzi w czapeczkach krasnoludków wyglądała groteskowo, 
     tags: ['opozycja', 'pacyfizm', 'młodzież', 'lata 80.', 'ekologia'],
     yearStart: 1985,
     yearEnd: 1989,
-    summary: 'Niezależny ruch pacyfistyczno-ekologiczny lat 80., sprzeciwiający się przymusowej wojskowej przysiędze i niszczeniu środowiska.',
+    summary: 'Niezależny ruch pacyfistyczny i ekologiczny lat 80., założony w 1985 roku po skazaniu Marka Adamkiewicza za odmowę złożenia przysięgi wojskowej.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wolno%C5%9B%C4%87_i_Pok%C3%B3j-tablica_%28cropped2%29.JPG?width=800',
     imageCaption: 'Tablica upamiętniająca Ruch „Wolność i Pokój” we Wrocławiu (fot. współczesna)',
-    content: `## Ruch
-Ruch „Wolność i Pokój” działał od 1985 roku. Tworzyli go głównie studenci i młodzież – od środowisk anarchizujących po aktywistów katolickich. W szczytowym okresie liczył kilkuset członków, ale rozgłos miał nieproporcjonalnie większy niż liczebność.
+    content: `## Początek: sprawa Adamkiewicza
+Impulsem do powstania ruchu była sprawa Marka Adamkiewicza, szczecińskiego działacza Niezależnego Zrzeszenia Studentów. Powołany jesienią 1984 roku do zasadniczej służby wojskowej, odmówił złożenia przysięgi, uznając ją za zobowiązanie wobec władzy komunistycznej i obcej armii. 18 grudnia 1984 roku sąd wojskowy skazał go na dwa i pół roku więzienia – wyrok wówczas bez precedensu.
 
-## Odmowa przysięgi
-Znakiem rozpoznawczym była odmowa złożenia przysięgi wojskowej, która zawierała zobowiązanie do wierności sojuszowi ze Związkiem Radzieckim. Odmawiający trafiali przed sądy i do więzień, a ich sprawy nagłaśniano w kraju i za granicą.
+## Głodówka i założenie
+W marcu 1985 roku w jego obronie około dwudziestu osób, głównie z kręgu NZS, prowadziło głodówkę w kościele św. Krzysztofa w Podkowie Leśnej. Rozmawiał z nimi o idei ruchu pokojowego Jacek Kuroń. Na zakończenie protestu zapowiedziano powołanie ruchu, co formalnie nastąpiło 14 kwietnia 1985 roku w Krakowie.
 
-## Nowe tematy
-WiP wniósł do polskiej opozycji sprawy dotąd nieobecne: pacyfizm, prawa człowieka rozumiane uniwersalnie, ekologię i sprzeciw wobec energetyki jądrowej po katastrofie w Czarnobylu. Protestował też przeciw budowie elektrowni w Żarnowcu.
+## Ludzie i ośrodki
+WiP tworzyli głównie studenci i młodzież – od anarchistów po aktywistów kościelnych. W szczytowym okresie liczył kilkuset członków, ale miał grupy w wielu miastach, m.in. w Warszawie, Krakowie, Gdańsku, Wrocławiu, Szczecinie, Katowicach i Rzeszowie. W Gdańsku w latach 1986–1989 wychodził poza cenzurą nieregularnik ruchu „A cappella”.
 
-## Forma
-Zamiast konspiracji ruch wybierał jawność: happeningi, głodówki, podpisywanie wystąpień własnym nazwiskiem. Ta taktyka – podobnie jak w Pomarańczowej Alternatywie – stawiała władze w sytuacji, w której każda reakcja ośmieszała je bardziej niż sam protest.`,
+## Program
+Ruch wniósł do opozycji sprawy dotąd w niej nieobecne: pacyfizm i sprzeciw wobec przymusowej przysięgi, zniesienie kary śmierci, prawa mniejszości oraz ekologię – sprzeciw wobec budowy elektrowni jądrowej w Żarnowcu i zapory w Czorsztynie. Jego zasadą był opór bez przemocy.
+
+## Metoda jawności
+Zamiast konspiracji WiP wybierał działania jawne: głodówki, happeningi, pikiety i wystąpienia podpisywane nazwiskami. W 1988 roku zmieniono rotę przysięgi wojskowej – nowa mówiła już tylko o „braterstwie broni z sojuszniczymi armiami”. Ruch działał formalnie do 1992 roku.`,
     trivia: [
-      'Znakiem rozpoznawczym ruchu była odmowa przysięgi wojskowej z powodu zapisu o wierności sojuszowi z ZSRR.',
-      'WiP wprowadził do polskiej opozycji tematy ekologiczne, m.in. protest przeciw elektrowni w Żarnowcu.',
+      'Bezpośrednim impulsem do powstania WiP był wyrok dwóch i pół roku więzienia dla Marka Adamkiewicza za odmowę przysięgi wojskowej.',
+      'Ruch formalnie założono 14 kwietnia 1985 roku w Krakowie, po głodówce w kościele w Podkowie Leśnej.',
+      'WiP protestował nie tylko przeciw elektrowni jądrowej w Żarnowcu, ale też przeciw zaporze w Czorsztynie.',
     ],
     resources: [
       {
@@ -18752,21 +18760,28 @@ Po 1989 roku śledztwo wznowiono. Prawomocnie skazano trzech dowódców milicji,
     tags: ['opozycja', 'kościół', 'młodzież', 'edukacja'],
     yearStart: 1984,
     yearEnd: 1984,
-    summary: 'Protesty uczniów i rodziców w obronie krzyży w szkołach (Miętne, Włoszczowa) w 1984 roku – sprzeciw wobec usuwania symboli religijnych z placówek.',
+    summary: 'Strajki okupacyjne uczniów w Miętnem (marzec–kwiecień 1984) i we Włoszczowie (grudzień 1984) w obronie krzyży zdejmowanych ze szkolnych ścian.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Narcyz_Witczak-Witaczy%C5%84ski_-_Uroczysto%C5%9B%C4%87_dotycz%C4%85ca_szko%C5%82y_rolniczej_w_Mi%C4%99tnem_%28107-742-9%29.jpg?width=800',
     imageCaption: 'Szkoła rolnicza w Miętnem na zdjęciu przedwojennym – to o krzyże w jej salach toczył się spór w 1984 roku',
-    content: `## O co szło
-Spór o obecność krzyża w przestrzeni publicznej wracał przez cały okres PRL. Państwo usuwało krzyże ze szkół, szpitali i miejsc publicznych, powołując się na świeckość instytucji; społeczności lokalne broniły ich, traktując usunięcie jako atak na wiarę i na siebie.
+    content: `## Tło
+Krzyże zawisły w wielu szkołach po Sierpniu 1980 roku. W stanie wojennym i po nim dyrekcje zaczęły je zdejmować, powołując się na świecki charakter szkoły. Spór o krzyż wracał w PRL wielokrotnie – najgłośniej wcześniej w Nowej Hucie w kwietniu 1960 roku, gdzie próba usunięcia krzyża z placu przeznaczonego pod kościół skończyła się starciami z milicją.
 
-## Nowa Huta 1960
-Najgłośniejsze starcie wybuchło w kwietniu 1960 roku w Nowej Hucie, gdzie władze postanowiły usunąć krzyż z placu przeznaczonego wcześniej pod budowę kościoła. Doszło do wielogodzinnych zajść z udziałem tysięcy ludzi, użyto milicji, zatrzymano kilkuset uczestników.
+## Miętne
+W Zespole Szkół Rolniczych w Miętnem pod Garwolinem dyrektor kazał w grudniu 1983 roku zdjąć ostatnie krzyże. Uczniowie protestowali, wieszając je ponownie. 7 marca 1984 roku samorząd uczniowski ogłosił strajk okupacyjny, do którego przystąpiło około 400 uczniów. Wojewoda siedlecki zawiesił zajęcia; wznowiono je dla około 90 osób, które podpisały deklarację o respektowaniu świeckiego charakteru szkoły.
 
-## Miętne i Włoszczowa
-W 1984 roku, po zdjęciu krzyży z sal lekcyjnych, uczniowie szkoły rolniczej w Miętnem i szkół we Włoszczowej podjęli strajk. Protesty poparli rodzice i duchowieństwo, a sprawa stała się głośna w całym kraju.
+## Porozumienie
+W sprawie negocjował biskup siedlecki Jan Mazur z władzami, m.in. z ministrem do spraw wyznań Adamem Łopatką. Strajk zakończył się 6 kwietnia 1984 roku: na mocy porozumienia Episkopatu z rządem krzyż zawisł w szkolnej bibliotece. Część uczniów nie mogła wrócić do szkoły, troje nauczycieli straciło pracę.
 
-## Dlaczego to działało
-Konflikt o krzyż był dla władz najgorszym możliwym polem sporu: dotyczył rzeczy konkretnej i zrozumiałej dla każdego, jednoczył ludzi niezaangażowanych politycznie i nie dawał się przedstawić jako działalność wywrotowa.`,
-    trivia: ['Protesty w Miętnem i Włoszczowej w 1984 roku broniły krzyży zdejmowanych ze szkolnych ścian.', 'Uczniowie prowadzili strajki okupacyjne, wspierani przez rodziców i księży.'],
+## Włoszczowa
+W Zespole Szkół Zawodowych we Włoszczowie krzyże zdjęto w wakacje 1984 roku. Gdy 1 grudnia uczniowie powiesili nowe, natychmiast je usunięto, a 3 grudnia od 250 do 300 uczniów rozpoczęło strajk okupacyjny, wspierany przez dwóch katechetów. Zakończył się 16 grudnia po apelu biskupa Mieczysława Jaworskiego.
+
+## Represje
+Wobec uczestników protestu we Włoszczowie zastosowano represje, część usunięto ze szkoły. W 1985 roku sąd skazał katechetów, księży Marka Łabudę i Andrzeja Wilczyńskiego; w 1991 roku Sąd Najwyższy ich uniewinnił. Od 1994 roku wydarzenia upamiętnia tablica na budynku szkoły.`,
+    trivia: [
+      'Strajk w Miętnem zakończył się kompromisem: krzyż zawisł nie w klasach, lecz w szkolnej bibliotece.',
+      'Katechetów z Włoszczowy skazano w 1985 roku, a Sąd Najwyższy uniewinnił ich dopiero w 1991 roku.',
+      'Krzyże w obu szkołach pojawiły się po Sierpniu 1980 roku i zostały zdjęte w latach 1983–1984.',
+    ],
     resources: [
       {
         id: 'okr-1',
@@ -28355,23 +28370,27 @@ Wybór środowiska akademickiego nie był przypadkowy. Uczelnia – formalnie mi
     tags: ['sport', 'lekkoatletyka', 'olimpiada', 'kula'],
     yearStart: 1972,
     yearEnd: 1989,
-    summary: 'Lekkoatleta, kulomiot; w 1972 zdobył złoty medal olimpijski w Monachium w dramatycznym, wyrównanym finale; barwna postać sportu i aktor.',
+    summary: 'Kulomiot, mistrz olimpijski z Monachium (1972), wcześniej bokser i dziesięcioboista; po karierze aktor i artysta estradowy.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/W%C5%82adys%C5%82aw%20Komar%201972.jpg?width=800',
     imageCaption: 'Władysław Komar – złoty medalista z 1972 roku.',
-    content: `## Monachium 1972
-Władysław Komar (1940–1998) zdobył złoty medal olimpijski w pchnięciu kulą w Monachium w 1972 roku. Był to jeden z najlepszych występów polskiej lekkoatletyki w historii igrzysk – tego samego dnia Polacy sięgali po kolejne medale.
+    content: `## Od boksu do kuli
+Władysław Komar (1940–1998) urodził się w Kownie w rodzinie sportowców. Zaczynał od boksu – trafił nawet do młodzieżowej reprezentacji Polski. W 1959 roku przeszedł do lekkiej atletyki pod okiem Sławomira Zieleniewskiego, reprezentował Polonię Warszawę i w 1963 roku został rekordzistą Polski w dziesięcioboju.
 
-## Nie tylko kula
-Zanim skupił się na lekkoatletyce, grał w rugby. Później występował też jako aktor i artysta estradowy, wykorzystując posturę i rozpoznawalność. Ta wielotorowość była w PRL rzadkością: sportowcy zwykle znikali z życia publicznego wraz z końcem kariery.
+## Trzy olimpiady
+W pchnięciu kulą startował na igrzyskach w Tokio (1964, 9. miejsce), Meksyku (1968) i Monachium (1972). Zdobył dwa brązowe medale mistrzostw Europy (1966 i 1971) i pięć medali halowych mistrzostw Europy, był 14-krotnym mistrzem i 16-krotnym rekordzistą Polski. Rekord życiowy, 21,19 m, ustanowił w 1974 roku.
 
-## Postać publiczna
-Był typem sportowca-celebryty, jeszcze zanim to pojęcie zaistniało – znanego z charakteru i barwnych historii, a nie tylko z wyników. Dla publiczności był kimś w rodzaju bohatera ludowego.
+## Monachium 1972
+W finale 9 września 1972 roku już pierwszym pchnięciem – 21,18 m – pokonał miotaczy amerykańskich i niemieckich i zdobył złoty medal olimpijski. Równolegle uprawiał wyczynowo rugby, w którym także sięgnął po mistrzostwo Polski.
+
+## Aktor i estradowiec
+Po zakończeniu kariery występował w filmie, teatrze i na estradzie kabaretowej, do czego namówił go Tadeusz Drozda. Zagrał m.in. w „Piratach” Romana Polańskiego, „Magnacie”, „Przyłbicach i kapturach” i „Kilerze”. W 1993 roku bez powodzenia kandydował do Sejmu z ramienia Polskiej Partii Przyjaciół Piwa.
 
 ## Wypadek
-Zginął 17 sierpnia 1998 roku w wypadku samochodowym pod Przybiernowem. W tym samym samochodzie zginął Tadeusz Ślusarski, mistrz olimpijski w skoku o tyczce z Montrealu. Śmierć dwóch mistrzów olimpijskich naraz uczyniła z tego wypadku jedno z najgłośniejszych wydarzeń w historii polskiego sportu.`,
+Zginął 17 sierpnia 1998 roku w wypadku samochodowym na drodze krajowej nr 3 pod Przybiernowem. Zginęli wtedy także Tadeusz Ślusarski, mistrz olimpijski w skoku o tyczce, i kierowca drugiego auta, były reprezentant Polski w biegu na 400 metrów Jarosław Marzec. W miejscu wypadku stoi pomnik.`,
     trivia: [
-      'Przed karierą lekkoatletyczną grał w rugby, a później występował jako aktor i artysta estradowy.',
-      'Zginął w tym samym wypadku co Tadeusz Ślusarski, mistrz olimpijski w skoku o tyczce.',
+      'Zanim zajął się lekką atletyką, był bokserem w młodzieżowej reprezentacji Polski.',
+      'Złoto w Monachium zapewnił sobie pierwszym pchnięciem w finale – 21,18 m.',
+      'Jego pierwszą żoną była Małgorzata Spychalska, córka marszałka Mariana Spychalskiego.',
     ],
     resources: [
       {
@@ -30042,20 +30061,24 @@ Zmarła nagle 18 stycznia 2002 roku w rodzinnym domu w Szczecinie, dwa dni po na
     summary: 'Wybitny aktor komediowy i charakterystyczny, mistrz mimiki i skeczu; filar legendarnego kabaretu Dudek.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Kobuszewski.jpg?width=800',
     imageCaption: 'Jan Kobuszewski – aktor komediowy i kabaretowy.',
-    content: `## Aktor i satyryk
-Jan Kobuszewski (1934–2019) był aktorem teatralnym, telewizyjnym i filmowym, reżyserem teatralnym oraz artystą kabaretowym. Wystąpił w około dwóch tysiącach programów telewizyjnych i kilkudziesięciu filmach.
-
-## Bareja i kabaret
-Zagrał u Stanisława Barei w „Poszukiwany, poszukiwana” (1972), „Nie ma róży bez ognia” (1974) i „Brunecie wieczorową porą” (1976). Związany był z Kabaretem Dudek i kabaretem Olgi Lipińskiej – dwiema scenami, na których uprawiano satyrę możliwie ostrą w granicach wyznaczonych przez cenzurę.
-
-## Role charakterystyczne
-Specjalizował się w rolach charakterystycznych, często niewielkich, ale zapadających w pamięć dzięki sposobowi mówienia i mimice. W komediach Barei takie epizody niosły często najostrzejsze obserwacje o absurdach codzienności.
+    content: `## Droga na scenę
+Jan Kobuszewski (1934–2019) urodził się w Warszawie. Do szkoły teatralnej dostał się za drugim podejściem, po ukończeniu szkoły aktorów lalkarzy; dyplom warszawskiej PWST uzyskał w 1956 roku. Na ekranie zadebiutował rok wcześniej epizodem w „Godzinach nadziei” Jana Rybkowskiego.
 
 ## Teatr
-Przez dziesięciolecia pozostawał aktorem teatralnym, głównie warszawskim. Popularność telewizyjna nie oderwała go od sceny, co w jego pokoleniu było regułą – telewizja była dodatkiem do etatu w teatrze, a nie zawodem samym w sobie.`,
+Grał kolejno w teatrach Młodej Warszawy, Klasycznym, Polskim i Wielkim, a w Narodowym u Kazimierza Dejmka – m.in. Mefistofelesa w „Kordianie” i Pelikana w głośnych „Dziadach” z 1967 roku. Od 1976 roku aż do zejścia ze sceny w 2013 roku związany był z Teatrem Kwadrat, gdzie także reżyserował.
+
+## Telewizja
+Wystąpił w ponad dwóch tysiącach programów telewizyjnych. Od 1963 roku z Janem Kociniakiem prowadził satyryczny „Wielokropek”, zagrał tytułową rolę w „Barbarze i Janie” (1964), uznawanym za pierwszy polski serial telewizyjny, był bufetowym Jasiem w „Czterdziestolatku” i narratorem „Bajek dla dorosłych”.
+
+## Dudek i Bareja
+Należał do piątki gwiazd Kabaretu Dudek Edwarda Dziewońskiego – obok Ireny Kwiatkowskiej, Wiesława Gołasa i Wiesława Michnikowskiego. Występował też w kabarecie Olgi Lipińskiej. Stanisław Bareja obsadzał go w epizodach: hydraulika w „Poszukiwanym, poszukiwanej”, listonosza w „Nie ma róży bez ognia”, kierowcy MPO w „Brunecie wieczorową porą”, a później w „Alternatywach 4” i „Zmiennikach”.
+
+## Rodzina i pamięć
+Był wujem Wiktora Zborowskiego. Odmówił roli pana Kleksa, którą zagrał potem Piotr Fronczewski. W 2022 roku jego imię otrzymała Scena Kameralna Teatru Kwadrat.`,
     trivia: [
-      'Wystąpił w około dwóch tysiącach programów telewizyjnych.',
-      'Grał w Kabarecie Dudek i w kabarecie Olgi Lipińskiej – dwóch najważniejszych scenach satyrycznych epoki.',
+      'Krzysztof Gradowski namawiał go do roli pana Kleksa – Kobuszewski odmówił, rolę zagrał Piotr Fronczewski.',
+      'W „Wielokropku” tworzył z Janem Kociniakiem duet według schematu „duży i chudy z małym i korpulentnym”.',
+      'Był wujem aktora Wiktora Zborowskiego – syna jego starszej siostry Hanny.',
     ],
     resources: [
       {
@@ -32012,23 +32035,27 @@ Dopiero w 1989 roku władze PRL oficjalnie potępiły udział w interwencji.`,
     tags: ['wojsko', 'społeczeństwo', 'sport', 'szkolenie'],
     yearStart: 1962,
     yearEnd: 1989,
-    summary: 'Masowa organizacja szkolenia obronnego, przez którą przeszły miliony Polaków – od kursów strzeleckich po prawo jazdy.',
+    summary: 'Masowa organizacja przysposobienia obronnego, powstała w 1962 roku z Ligi Przyjaciół Żołnierza – od kursów kierowców i strzelectwa po modelarstwo i krótkofalarstwo.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Katowice%2C_Liga_Obrony_Kraju_-_Oddzia%C5%82_Zarz%C4%85du_G%C5%82%C3%B3wnego_w_Katowicach_-_fotopolska.eu_%28320124%29.jpg?width=800',
     imageCaption: 'Siedziba katowickiego oddziału Ligi Obrony Kraju',
-    content: `## Czym była LOK
-Ligę Obrony Kraju powołano w 1962 roku, łącząc wcześniejsze organizacje przysposobienia wojskowego. Jej zadaniem było przygotowanie obywateli do służby i obrony – w praktyce prowadziła jednak ogromną sieć kursów i sekcji, z których wiele miało charakter czysto użytkowy albo sportowy.
+    content: `## Poprzedniczki
+Liga Obrony Kraju wyrosła z Towarzystwa Przyjaciół Żołnierza, powstałego w 1944 roku jako organizacja pomocy żołnierzom. W 1950 roku połączyło się ono z Towarzystwem Przyjaciół ORMO i Polskim Związkiem Krótkofalowców w Ligę Przyjaciół Żołnierza, do której w 1953 roku włączono Ligę Morską i Ligę Lotniczą. Po rozwiązaniu „Służby Polsce” w 1955 roku Liga przejęła jej sprzęt, kadry i zadania przysposobienia wojskowego.
 
-## Kursy i sekcje
-W ośrodkach LOK zdobywano uprawnienia kierowcy i motocyklisty, uczono łączności i krótkofalarstwa, prowadzono sekcje strzeleckie, spadochronowe, płetwonurkowe, modelarskie i sportów motorowych. Dla wielu młodych ludzi był to jedyny dostępny sposób na tani kurs prawa jazdy albo kontakt ze sprzętem, którego nie dało się kupić.
+## Narodziny LOK
+12 listopada 1962 roku zjazd Ligi Przyjaciół Żołnierza zmienił jej nazwę na Ligę Obrony Kraju i poszerzył program. Organizację nadzorowało Ministerstwo Obrony Narodowej, a jej prezesami w PRL byli generałowie.
 
-## Szkoła i zakład pracy
-Działalność LOK uzupełniało przysposobienie obronne w szkołach oraz szkolenia w zakładach pracy. Zawody strzeleckie i sprawnościowe organizowano przy okazji świąt państwowych.
+## Szkolenie i sport
+LOK szkolił przedpoborowych dla wojska – m.in. na Wojskowych Kursach Kierowców – i prowadził kursy kierowców wszystkich kategorii, płetwonurków czy łącznościowców. Działały w nim kluby strzeleckie, żeglarskie, kajakowe, motorowe, modelarskie i krótkofalarskie, a także organizowano zawody i rajdy szlakami bitew.
+
+## Samoobrona i propaganda
+Liga tworzyła i szkoliła oddziały samoobrony, terenowe i zakładowe. Organizowała też imprezy patriotyczno-obronne, jak „Biało-Czerwona nad Odrą”, oraz wydawała pisma: „Czatę”, „Modelarza” i „Plany Modelarskie”. W 1974 roku otrzymała Order Sztandaru Pracy I klasy.
 
 ## Po 1989 roku
-Organizacja przetrwała transformację, tracąc jednak masowy charakter i większość majątku. Dziś jest stowarzyszeniem prowadzącym głównie działalność szkoleniową i sportową.`,
+W 1991 roku na czele Ligi po raz pierwszy stanął oficer rezerwy zamiast generała. Organizacja przetrwała transformację jako stowarzyszenie prowadzące głównie działalność szkoleniową i sportową, m.in. w strzelectwie.`,
     trivia: [
-      'Dla wielu Polaków kurs prawa jazdy w LOK był tańszą alternatywą wobec kursów komercyjnych.',
-      'Sekcje krótkofalarskie LOK działały w państwie, które ściśle kontrolowało dostęp do urządzeń nadawczych.',
+      'Pierwsza poprzedniczka LOK, Towarzystwo Przyjaciół Żołnierza, narodziła się w 1944 roku w Siedlcach z komitetów pomocy rannym żołnierzom.',
+      'Ze struktur Ligi wyodrębnił się w 1956 roku Aeroklub PRL, a później także Polski Związek Krótkofalowców.',
+      'Pismo „Plany Modelarskie” wydawane przez LOK ukazywało się w latach 1965–1989.',
     ],
     resources: [
       {
@@ -33380,20 +33407,24 @@ Odsunięty w 1956 roku wraz z resztą stalinowskiego kierownictwa. Model gospoda
     summary: 'Członek Biura Politycznego w latach 1948–1963, kojarzony z liberalniejszą frakcją puławian, później jeden z celów antysemickiej kampanii 1968 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Roman_Zambrowski_1949.jpg?width=800',
     imageCaption: 'Roman Zambrowski, 1949',
-    content: `## Kariera
-Roman Zambrowski (1909–1977) należał do kierownictwa partii od pierwszych lat powojennych: wicemarszałek Sejmu Ustawodawczego, członek Rady Państwa w latach 1947–1955, minister kontroli państwowej, a przede wszystkim członek Biura Politycznego KC PZPR przez piętnaście lat, od 1948 do 1963 roku.
+    content: `## Młodość komunisty
+Roman Zambrowski (1909–1977) urodził się w Warszawie w zasymilowanej rodzinie żydowskiej. Od połowy lat 20. działał w komunistycznym ruchu młodzieżowym, od 1928 roku w Komunistycznej Partii Polski, studiował w Międzynarodowej Szkole Leninowskiej w Moskwie. W 1936 roku musiał się tam tłumaczyć z zarzutów, ale odesłano go do kraju, dzięki czemu uniknął losu działaczy KPP wymordowanych w ZSRR. W 1939 roku osadzono go w Berezie Kartuskiej.
 
-## Puławianie
-Po 1956 roku kojarzono go z frakcją zwaną puławianami, opowiadającą się za utrzymaniem odwilżowych zmian. Przeciwna frakcja, natolińczycy, a później grupa Mieczysława Moczara, posługiwała się wobec puławian argumentacją narodową, a w istocie antysemicką.
+## Wojna
+We wrześniu 1939 roku wyszedł z obozu i zgłosił się do władz sowieckich; był m.in. tłumaczem w grupie operacyjnej NKWD w Baranowiczach. W 1943 roku trafił do 1 Dywizji im. Tadeusza Kościuszki jako oficer polityczny i walczył pod Lenino.
 
-## Usunięcie
-W 1963 roku Zambrowski stracił miejsce w Biurze Politycznym. Pięć lat później, w kampanii marcowej 1968 roku, jego nazwisko wracało w propagandzie jako przykład „syjonisty” w aparacie władzy.
+## W kierownictwie
+Od 1944 roku należał do ścisłego kierownictwa PPR, a potem PZPR: w Biurze Politycznym zasiadał w latach 1948–1963, był sekretarzem KC, członkiem Rady Państwa i ministrem kontroli państwowej. Kierował akcją przejmowania kontroli nad legalnymi partiami, a przez blisko dekadę Komisją Specjalną do Walki z Nadużyciami i Szkodnictwem Gospodarczym.
 
-## Znaczenie
-Jego los pokazuje mechanizm, który w PRL działał wielokrotnie: człowiek współtworzący system represji sam stawał się jego celem, gdy zmieniał się układ sił w partii. Zmiana ta nie oznaczała jednak liberalizacji – tylko wymianę ludzi.`,
+## Puławianin
+Po 1956 roku był jednym z przywódców frakcji puławian. Początkowo nie popierał powrotu Gomułki, potem z nim współpracował. Opowiadał się za wolniejszym tempem inwestycji w przemysł ciężki i szybszym wzrostem konsumpcji. W 1963 roku zrezygnował z funkcji sekretarza KC i członka Biura Politycznego, a w 1964 roku wypadł z KC.
+
+## Marzec 1968
+Od 1963 roku był wiceprezesem Najwyższej Izby Kontroli. W 1968 roku, na fali kampanii marcowej, wydalono go z partii i przeniesiono na emeryturę, a Służba Bezpieczeństwa rozpowszechniała o nim ulotki i plakaty wymierzone w jego żydowskie pochodzenie.`,
     trivia: [
-      'Zasiadał w Biurze Politycznym przez piętnaście lat, a mimo to w 1968 roku propaganda przedstawiała go jako wroga.',
-      'Frakcje popaździernikowe nazwano od miejsc spotkań: puławianie od ulicy Puławskiej, natolińczycy od pałacyku w Natolinie.',
+      'Do 1939 roku w dokumentach figurował pod imieniem Rachmil.',
+      'Jesienią 1939 roku, zaraz po wyjściu z Berezy Kartuskiej, pracował jako tłumacz grupy operacyjnej NKWD w Baranowiczach.',
+      'Uniknął wielkiego terroru w ZSRR, bo po złożeniu samokrytyki w 1936 roku odesłano go z Moskwy do pracy partyjnej w Polsce.',
     ],
     resources: [
       {
@@ -35279,23 +35310,27 @@ Kopalnię „Jadwiga” nazwano jego imieniem, a w latach 1951–2006 nosiła je
     tags: ['literatura', 'ZLP', 'Skamander', 'kultura'],
     yearStart: 1945,
     yearEnd: 1980,
-    summary: 'Prozaik i poeta, przez dwadzieścia jeden lat prezes Związku Literatów Polskich i redaktor „Twórczości”; czterokrotnie nominowany do Nobla.',
+    summary: 'Prozaik i poeta, autor „Panien z Wilka” i „Brzeziny”; prezes Związku Literatów Polskich (1945 i 1959–1980), redaktor „Twórczości” i poseł na Sejm PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jaroslaw_Iwaszkiewicz.jpg?width=800',
     imageCaption: 'Jaroslaw Iwaszkiewicz',
     content: `## Pisarz
-Jarosław Iwaszkiewicz (1894–1980) należał przed wojną do grupy poetyckiej Skamander i współpracował z „Wiadomościami Literackimi”. Jest autorem opowiadań i powieści, które weszły do kanonu – wiele z nich, jak „Panny z Wilka”, doczekało się głośnych ekranizacji.
-
-## Dwie funkcje
-W latach 1955–1980 redagował miesięcznik „Twórczość”, a od 1959 roku aż do śmierci przewodniczył Związkowi Literatów Polskich. Był też przez blisko trzydzieści lat posłem na Sejm PRL.
-
-## Rola pośrednika
-Pozycja Iwaszkiewicza była dwuznaczna i taką pozostaje w ocenach. Z jednej strony firmował swoim nazwiskiem instytucje podporządkowane władzy, z drugiej – wykorzystywał wpływy, by pomagać pisarzom w kłopotach, interweniować w sprawach cenzury i utrzymywać kontakty ze środowiskami emigracyjnymi.
+Jarosław Iwaszkiewicz (1894–1980) urodził się w Kalniku na Ukrainie, studiował w Kijowie, a po 1918 roku związał się w Warszawie ze Skamandrem. Jest autorem m.in. „Panien z Wilka”, „Brzeziny”, „Tataraku” i „Matki Joanny od Aniołów” oraz libretta „Króla Rogera” Karola Szymanowskiego. Jego utwory ekranizowali Jerzy Kawalerowicz i Andrzej Wajda.
 
 ## Stawisko
-Jego dom w Stawisku pod Warszawą był miejscem spotkań literatów przez kilka dekad. Czterokrotnie nominowano go do Nagrody Nobla. Zmarł w 1980 roku, kilka miesięcy przed Sierpniem, który zmienił układ sił także w środowisku literackim.`,
+Od 1928 roku mieszkał z żoną Anną w Stawisku w Podkowie Leśnej. W czasie okupacji dom stał się schronieniem dla artystów i naukowców, pomagano tam także Żydom; bywali w nim młodzi poeci, m.in. Krzysztof Kamil Baczyński. W testamencie Iwaszkiewicz zapisał Stawisko na muzeum, otwarte w 1984 roku.
+
+## Funkcje
+Związkowi Literatów Polskich przewodniczył po raz pierwszy od 1945 roku, a ponownie od 1959 roku aż do śmierci – wybrany wtedy jako kandydat kompromisowy. Od 1955 roku redagował „Twórczość”, przez ćwierć wieku pisał felietony do „Życia Warszawy”, od 1952 roku był posłem, a pierwsze posiedzenie jednego z Sejmów otwierał jako marszałek senior.
+
+## Między władzą a środowiskiem
+Jego postawa pozostaje przedmiotem sporów. Nie podpisał Listu 34 z 1964 roku, uważając otwarty konflikt z władzą za szkodliwy dla literatów, a państwo obsypywało go odznaczeniami. Zarazem wykorzystywał swoją pozycję, by łagodzić konflikty i bronić środowiska.
+
+## Ostatnie lata
+Czterokrotnie, w latach 1957–1966, był nominowany do Nagrody Nobla. Zmarł 2 marca 1980 roku po operacji wrzodu żołądka i spoczął obok żony na cmentarzu w Brwinowie – zgodnie z wolą w mundurze górniczym.`,
     trivia: [
-      'Kierował Związkiem Literatów Polskich przez dwadzieścia jeden lat, aż do śmierci.',
-      'Czterokrotnie nominowano go do Nagrody Nobla w dziedzinie literatury.',
+      'Pochowano go w mundurze górniczym – był m.in. honorowym górnikiem kopalni Staszic.',
+      'Był autorem libretta opery „Król Roger” swojego krewnego Karola Szymanowskiego.',
+      'Do Nagrody Nobla nominowano go w latach 1957, 1963, 1965 i 1966.',
     ],
     resources: [
       {
@@ -35819,7 +35854,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1946, event: '21 lutego – powołanie ORMO, paramilitarnej formacji wspierającej milicję', category: 'represje', entryId: 'ormo' },
   { year: 1948, event: '„Trybuna Ludu” staje się centralnym organem prasowym PZPR', category: 'społeczeństwo', entryId: 'trybuna-ludu' },
   { year: 1955, event: 'Otwarcie Stadionu Dziesięciolecia w Warszawie', category: 'społeczeństwo', entryId: 'stadion-dziesieciolecia' },
-  { year: 1985, event: 'Powstaje Ruch „Wolność i Pokój” – pacyfistyczna opozycja', category: 'opozycja', entryId: 'wolnosc-i-pokoj' },
+  { year: 1985, event: 'W Krakowie powstaje Ruch „Wolność i Pokój” – pacyfistyczna opozycja (14 kwietnia)', category: 'opozycja', entryId: 'wolnosc-i-pokoj' },
   { year: 1988, event: 'Rewolucja Krasnoludków – marsz Pomarańczowej Alternatywy we Wrocławiu (1 czerwca)', category: 'opozycja', entryId: 'pomaranczowa-alternatywa' },
   { year: 1952, event: 'Jan Nowak-Jeziorański obejmuje kierownictwo Rozgłośni Polskiej Radia Wolna Europa', category: 'opozycja', entryId: 'nowak-jezioranski' },
   { year: 1964, event: 'List 34 – protest pisarzy i uczonych przeciw cenzurze', category: 'opozycja', entryId: 'list-34' },
@@ -35848,7 +35883,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1978, event: 'Premiera FSO Polonez – nowego polskiego samochodu rodzinnego', category: 'gospodarka', entryId: 'fso-polonez' },
   { year: 1982, event: 'Zbrodnia lubińska – milicja strzela do demonstrantów, giną trzy osoby', category: 'represje', entryId: 'lubin-1982' },
   { year: 1982, event: 'Pierwsze audycje podziemnego Radia Solidarność', category: 'opozycja', entryId: 'radio-solidarnosc' },
-  { year: 1984, event: 'Obrona krzyży w Miętnem i Włoszczowej', category: 'opozycja', entryId: 'obrona-krzyzy' },
+  { year: 1984, event: 'Strajk okupacyjny uczniów w Miętnem w obronie krzyży (7 marca – 6 kwietnia)', category: 'opozycja', entryId: 'obrona-krzyzy' },
   { year: 1953, event: 'Proces kurii krakowskiej – pokazowy proces przeciw duchownym', category: 'represje', entryId: 'proces-kurii-krakowskiej' },
   { year: 1964, event: 'Afera mięsna – proces w trybie doraźnym przed sądem w Warszawie', category: 'gospodarka', entryId: 'afera-miesna' },
   { year: 1965, event: 'Stracenie Stanisława Wawrzeckiego, skazanego w aferze mięsnej (19 marca)', category: 'gospodarka', entryId: 'afera-miesna' },
@@ -35998,7 +36033,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1966, event: 'Wiesław Gołas jako Tomasz Czereśniak w „Czterech pancernych”', category: 'kultura', entryId: 'wieslaw-golas' },
   { year: 1973, event: '22 kwietnia – premiera komedii „Poszukiwany, poszukiwana” Stanisława Barei', category: 'kultura', entryId: 'poszukiwany-poszukiwana' },
   { year: 1963, event: 'Helena Majdaniec, „królowa twista”, na pierwszym festiwalu w Opolu', category: 'kultura', entryId: 'helena-majdaniec' },
-  { year: 1965, event: 'Jan Kobuszewski współtworzy kabaret Dudek', category: 'kultura', entryId: 'jan-kobuszewski' },
+  { year: 1963, event: 'Jan Kobuszewski i Jan Kociniak prowadzą w telewizji satyryczny „Wielokropek”', category: 'kultura', entryId: 'jan-kobuszewski' },
   { year: 1971, event: 'Premiera komedii „Nie lubię poniedziałku” Tadeusza Chmielewskiego', category: 'kultura', entryId: 'nie-lubie-poniedzialku' },
   { year: 1963, event: 'Debiut telewizyjny duetu Marek i Wacek', category: 'kultura', entryId: 'marek-i-vacek' },
   { year: 1963, event: 'Premiera „Jak być kochaną” Wojciecha Hasa', category: 'kultura', entryId: 'jak-byc-kochana' },
@@ -36332,4 +36367,8 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1982, event: 'Waldemar Fydrych maluje pierwsze krasnoludki na wrocławskich murach', category: 'opozycja', entryId: 'pomaranczowa-alternatywa' },
   { year: 1983, event: 'Z fabryki na Żeraniu wyjeżdża stutysięczny Polonez (11 lutego)', category: 'gospodarka', entryId: 'fso-polonez' },
   { year: 1980, event: 'Maciej Szczepański odwołany z kierownictwa Radiokomitetu (11 sierpnia)', category: 'polityka', entryId: 'propaganda-sukcesu' },
+  { year: 1968, event: 'Roman Zambrowski wydalony z PZPR w czasie kampanii marcowej', category: 'osoby', entryId: 'zambrowski' },
+  { year: 1990, event: 'Rozwiązanie Milicji Obywatelskiej – 10 maja zastępuje ją Policja', category: 'represje', entryId: 'milicja' },
+  { year: 1945, event: 'Jarosław Iwaszkiewicz po raz pierwszy wybrany prezesem Związku Literatów Polskich', category: 'osoby', entryId: 'iwaszkiewicz' },
+  { year: 1984, event: 'Strajk szkolny we Włoszczowie w obronie krzyży (3–16 grudnia)', category: 'opozycja', entryId: 'obrona-krzyzy' },
 ];
