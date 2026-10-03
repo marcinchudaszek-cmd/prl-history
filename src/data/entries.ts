@@ -822,18 +822,25 @@ Polska szkoła filmowa lat 50. (Wajda, Munk, Kawalerowicz), kino moralnego niepo
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pielgrzymi_pod_JG.jpg?width=800',
     imageCaption: 'Pielgrzymi pod Jasną Górą (fot. współczesna)',
     content: `## Konfrontacja
-Państwo od początku dążyło do ograniczenia roli Kościoła: wypowiedziano konkordat, zlikwidowano organizacje katolickie, w 1950 roku powołano Urząd do Spraw Wyznań, a w 1953 – po dekrecie o obsadzaniu stanowisk kościelnych – internowano prymasa Stefana Wyszyńskiego.
+Już w 1945 roku Rząd Tymczasowy uznał konkordat z 1925 roku za nieobowiązujący. Władze dążyły do zamknięcia Kościoła w obrębie kultu: przejęły Caritas, w 1950 roku odebrały mu majątek ziemski i powołały Urząd do Spraw Wyznań. Dekret Rady Państwa z 9 lutego 1953 roku uzależnił obsadzanie stanowisk kościelnych od zgody państwa.
 
-## Dlaczego nie udało się złamać
-Kościół był jedyną instytucją masową niezależną od partii. Miał własną strukturę, finansowanie z ofiar i autorytet niezależny od państwa. Represje wobec duchownych tworzyły męczenników, a odmowy zgód budowlanych – lokalne konflikty, w których wygrywała parafia.
+## Lata najcięższe
+W latach 1952–1953 odbyły się procesy kurii krakowskiej i biskupa Czesława Kaczmarka, zapadały wyroki śmierci i długoletniego więzienia. Biskupów wysiedlano z diecezji. We wrześniu 1953 roku internowano prymasa Stefana Wyszyńskiego, który pozostał w odosobnieniu trzy lata.
 
-## Milenium i Wielka Nowenna
-Obchody tysiąclecia chrztu Polski w 1966 roku stały się największym starciem symbolicznym: państwo organizowało konkurencyjne uroczystości Tysiąclecia Państwa Polskiego, a kopię obrazu jasnogórskiego zatrzymano i internowano.
+## Po Październiku
+W 1956 roku prymas wrócił, wznowiono „Tygodnik Powszechny” i „Znak”, a Kościół rozpoczął Wielką Nowennę przed milenium chrztu Polski. Władze jednak nadal ograniczały jego rolę, a duchownych inwigilowała Służba Bezpieczeństwa.
+
+## Milenium
+Obchody tysiąclecia chrztu w 1966 roku stały się największym starciem symbolicznym: państwo urządzało konkurencyjne uroczystości Tysiąclecia Państwa Polskiego, a peregrynującą kopię obrazu jasnogórskiego zatrzymano.
+
+## Siła Kościoła
+Kościół był jedyną masową instytucją niezależną od partii, z własną strukturą i autorytetem. W latach 70. Gierek dwukrotnie spotkał się z prymasem, a w 1977 roku jako pierwszy przywódca komunistyczny PRL odwiedził papieża Pawła VI.
 
 ## Papież
-Wybór Karola Wojtyły w 1978 roku i jego pielgrzymka rok później zmieniły układ sił. Miliony ludzi zobaczyły, ilu ich jest, poza strukturami państwa. Bez tego doświadczenia Sierpień 1980 wyglądałby inaczej.`,
+Wybór Karola Wojtyły 16 października 1978 roku i jego pielgrzymka w 1979 roku zmieniły układ sił: miliony ludzi zobaczyły, ilu ich jest poza strukturami państwa.`,
     trivia: [
-      'Odmowa zgody na budowę kościoła bywała skuteczniejszą metodą nacisku niż otwarta represja.',
+      'Edward Gierek jako pierwszy przywódca komunistyczny PRL spotkał się z papieżem – 1 grudnia 1977 roku z Pawłem VI.',
+      'Dekret z 9 lutego 1953 roku uzależniał obsadzanie stanowisk kościelnych od zgody władz państwowych.',
       'W 1966 roku państwo organizowało konkurencyjne obchody Tysiąclecia Państwa Polskiego.',
     ],
     resources: [
@@ -1350,24 +1357,28 @@ Po amnestii ogłoszonej na 22 lipca 1977 roku na wolność wyszli zarówno aresz
     tags: ['studenci', 'antysemityzm', 'Mickiewicz', 'cenzura', 'emigracja', '1968'],
     yearStart: 1968,
     yearEnd: 1968,
-    summary: 'Marzec 1968 – fala studenckich protestów wywołana zakazem wystawiania "Dziadów" Mickiewicza, stłumiona przez władze. Towarzyszyła jej wewnątrzpartyjna kampania antysemicka, która zmusiła około 13 000 Polaków żydowskiego pochodzenia do emigracji.',
+    summary: 'Marzec 1968 – fala studenckich protestów po zdjęciu „Dziadów” Dejmka, stłumiona przez władze, połączona z kampanią antysemicką, po której z Polski wyjechało od 13 do 20 tysięcy osób.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/20200121%20102923%201968%20Polish%20political%20crisis.jpg?width=800',
     imageCaption: 'Tablica upamiętniająca Marzec 1968 w Bibliotece Uniwersytetu Łódzkiego (fot. współczesna)',
     trivia: [
+      'Hasło „Niepodległość bez cenzury” z demonstracji 30 stycznia wymyślił Karol Modzelewski.',
+      'W telewizyjnych relacjach z wieców potępiających „syjonistów” podkładano niekiedy dźwięk z meczów piłkarskich.',
       'Wyjeżdżający po Marcu musieli zrzec się obywatelstwa i otrzymywali dokument podróży w jedną stronę.',
-      'Zarzewiem kryzysu było zdjęcie z afisza „Dziadów” Kazimierza Dejmka.',
     ],
-    content: `## Dziady
-Bezpośrednim zarzewiem było zdjęcie z afisza „Dziadów” w reżyserii Kazimierza Dejmka, w których publiczność owacyjnie reagowała na antyrosyjskie fragmenty. Po ostatnim spektaklu w styczniu 1968 roku doszło do demonstracji, a protest studentów przeniósł się na uczelnie.
+    content: `## Tło
+Po 1956 roku stopniowo odbierano „zdobycze Października”. W partii rosła frakcja „partyzantów” Mieczysława Moczara, odwołująca się do haseł narodowych i antysemityzmu. Po wojnie sześciodniowej Gomułka w przemówieniu z 19 czerwca 1967 roku mówił o „piątej kolumnie”. Wokół Kuronia i Modzelewskiego skupiło się środowisko studentów zwanych „komandosami”.
+
+## Dziady
+Premiera „Dziadów” Kazimierza Dejmka w Teatrze Narodowym odbyła się 25 listopada 1967 roku. Władze uznały spektakl za antyradziecki i zdjęły go z afisza. Po ostatnim przedstawieniu, 30 stycznia 1968 roku, studenci przeszli pod pomnik Mickiewicza; milicja zatrzymała 35 osób. 29 lutego warszawski oddział Związku Literatów Polskich potępił politykę kulturalną władz.
 
 ## 8 marca
-8 marca 1968 roku wiec na Uniwersytecie Warszawskim rozbito przy użyciu milicji i tak zwanego aktywu robotniczego. Strajki i wiece objęły uczelnie w całym kraju, a odpowiedzią były relegowania, wcielenia do wojska i procesy.
+Po relegowaniu Adama Michnika i Henryka Szlajfera studenci zwołali wiec na Uniwersytecie Warszawskim. 8 marca 1968 roku rozbiły go milicja i tak zwany aktyw robotniczy. Protesty objęły uczelnie w całym kraju; największa manifestacja, 15 marca w Gdańsku, zgromadziła 20 tysięcy ludzi. Do 25 marca zatrzymano 2549 osób.
 
-## Kampania antysemicka
-Walka frakcyjna w partii, prowadzona przez środowisko Mieczysława Moczara, przekształciła kryzys w nagonkę: mówiono o „syjonistach” i piątej kolumnie. Z pracy usuwano ludzi pochodzenia żydowskiego, także tych całkowicie zasymilowanych.
+## Represje
+Z uczelni usunięto profesorów, m.in. Leszka Kołakowskiego i Zygmunta Baumana. Rozwiązano kilka wydziałów UW – 1616 osób przestało być studentami, a wielu wcielono do wojska. Z PZPR usunięto ponad 8 tysięcy członków, czystki objęły wojsko, media i naukę.
 
-## Emigracja marcowa
-Z Polski wyjechało kilkanaście tysięcy osób, zmuszonych do zrzeczenia się obywatelstwa i wyjeżdżających z dokumentem podróży w jedną stronę. Kraj stracił naukowców, lekarzy i twórców, a Marzec pozostał jedną z najciemniejszych kart w historii PRL.`,
+## Emigracja
+W 1968 roku z Polski wyjechało, według różnych szacunków, od 13 do 20 tysięcy osób, głównie pochodzenia żydowskiego. Musieli zrzec się obywatelstwa i dostawali dokument podróży bez prawa powrotu. Symbolem wyjazdów stał się Dworzec Gdański w Warszawie.`,
     resources: [
       {
         id: 'm68-ipn1',
@@ -13086,24 +13097,28 @@ Polski rock lat 80. był nie tylko zjawiskiem muzycznym, ale i społecznym – f
     tags: ['muzyka', 'rock', 'nowa fala', 'lata 80.', 'Ciechowski'],
     yearStart: 1981,
     yearEnd: 1989,
-    summary: 'Jeden z najważniejszych zespołów nowej fali w Polsce, kierowany przez Grzegorza Ciechowskiego, twórcę przebojów „Kombinat” i „Biała flaga”.',
+    summary: 'Toruński zespół nowej fali Grzegorza Ciechowskiego, autor przebojów „Kombinat” i „Biała flaga”; debiut „Nowe sytuacje” (1983) sprzedał się w 260 tysiącach egzemplarzy w miesiąc.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bialo-czarna.png?width=800',
     imageCaption: 'Biało-czarna estetyka, znak rozpoznawczy Republiki',
-    content: `## Powstanie
-Republika powstała w 1981 roku w Toruniu z inicjatywy Grzegorza Ciechowskiego. Zespół szybko wypracował charakterystyczne, czarno-białe brzmienie i wizerunek, łączące nową falę z elektroniką i intelektualnymi tekstami.
+    content: `## Z Res Publiki
+Republika wyrosła z toruńskiego zespołu art rockowego Res Publica, który zadebiutował w 1979 roku. Gdy liderem został Grzegorz Ciechowski, grający wcześniej na flecie, grupa zmieniła nazwę i skręciła w stronę nowej fali. W 1981 roku ustalił się skład: Ciechowski, Sławomir Ciesielski, Zbigniew Krzywański i Paweł Kuczyński. Pierwszy koncert zagrali 25 kwietnia 1981 roku w toruńskim klubie Od Nowa.
 
-## Ciechowski
-Grzegorz Ciechowski (1957–2001) był liderem, wokalistą i głównym autorem tekstów. Jego inteligentne, often metaforyczne teksty krytykowały zniewolenie jednostki przez system – jak w słynnym „Kombinacie”.
+## Czerń i biel
+Menedżer Andrzej Ludew zaprojektował logo i sceniczny wizerunek – muzycy ubierali się na czarno i nosili krawaty, a czarno-białe pasy stały się znakiem rozpoznawczym okładek i koncertów. W 1982 roku piosenki „Biała flaga”, „Telefony”, „Kombinat” i „Sexy Doll” podbiły listy przebojów, zespół zagrał też w Jarocinie.
 
-## Przeboje
-Debiutancki album „Nowe sytuacje” (1983) oraz przeboje „Kombinat”, „Biała flaga”, „Sexy doll” uczyniły z Republiki jeden z najpopularniejszych zespołów dekady. Estetyka biało-czarna stała się znakiem rozpoznawczym.
+## Nowe sytuacje
+Debiutancki album „Nowe sytuacje” ukazał się w kwietniu 1983 roku. Mimo ceny 700 złotych przy zwykłych 160 w ciągu miesiąca sprzedano 260 tysięcy egzemplarzy. W 1984 roku w Wielkiej Brytanii wyszła jego angielska wersja „1984”, a w kraju album „Nieustanne tango” z „Obcym astronomem”.
 
-## Rozpad i reaktywacja
-Zespół rozpadł się w 1986 roku, a Ciechowski kontynuował karierę solową jako Obywatel G.C. Republika reaktywowała się w 1990 roku i działała do śmierci lidera w 2001 roku.
+## Rozpad
+Powołanie Ciechowskiego do szkoły podchorążych jesienią 1984 roku osłabiło zespół. W czerwcu 1986 roku, po kłótni w studiu o sprawy artystyczne i autorskie, Republika przestała istnieć, a przygotowany materiał trafił na solową płytę Ciechowskiego „Obywatel G.C.”.
 
-## Znaczenie
-Republika pozostaje symbolem ambitnego, artystycznego rocka lat 80., a Grzegorz Ciechowski – jedną z najważniejszych postaci polskiej muzyki rozrywkowej.`,
-    trivia: ['Zespół z Torunia, którego liderem był Grzegorz Ciechowski.', 'Rozpoznawalna była ich biało-czarna estetyka.'],
+## Powrót
+W 1990 roku muzycy pogodzili się i wystąpili w Opolu. Republika działała do śmierci Ciechowskiego w 2001 roku, a jego teksty o zniewoleniu jednostki – jak „Kombinat” – stały się jednym z głosów pokolenia lat 80.`,
+    trivia: [
+      '„Nowe sytuacje” kosztowały 700 zł, ponad czterokrotnie więcej niż typowa płyta, a i tak sprzedały się w 260 tysiącach egzemplarzy w miesiąc.',
+      'Przed Republiką istniał toruński zespół art rockowy Res Publica – Ciechowski grał w nim na flecie.',
+      'W 1984 roku w Teatrze Wielkim w Łodzi wystawiono balet „Republika – rzecz publiczna” z ich muzyką.',
+    ],
     resources: [
       {
         id: 'rep-yt',
@@ -27915,23 +27930,27 @@ Standard był jak na tamte czasy wysoki: duże metraże, wysokie sufity, central
     tags: ['architektura', 'Warszawa', 'odbudowa', 'dziedzictwo'],
     yearStart: 1971,
     yearEnd: 1984,
-    summary: 'Zburzony przez Niemców Zamek Królewski w Warszawie odbudowano w latach 1971–1984 ze społecznej zbiórki „cegiełek”; symbol odzyskiwania dziedzictwa.',
+    summary: 'Wysadzony przez Niemców w 1944 roku Zamek Królewski w Warszawie odbudowano w latach 1971–1984, głównie ze składek społecznych – z kraju i z zagranicy.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zamek%20Kr%C3%B3lewski%20w%20Warszawie%20z%20Ogrodami%20Kr%C3%B3lewskimi.jpg?width=800',
     imageCaption: 'Odbudowany Zamek Królewski w Warszawie.',
-    content: `## Zburzony
-Zamek Królewski, dawna siedziba króla i Sejmu Rzeczypospolitej, został po Powstaniu Warszawskim wysadzony przez Niemców. Po wojnie z budowli pozostał zasypany gruz i fragmenty murów.
+    content: `## Zniszczenie
+Zamek, siedziba królów, Sejmu, a w II RP prezydenta, Niemcy spalili i ograbili w 1939 roku. We wrześniu 1944 roku, w czasie Powstania Warszawskiego, wysadzili jego mury. Zostały piwnice, dolna część Wieży Grodzkiej, Biblioteka Królewska i Arkady Kubickiego.
 
-## Trzydzieści lat sporu
-Odbudowy nie podjęto od razu. Przez ponad dwie dekady zamek pozostawał pustym placem, a decyzja odkładana była z powodów zarówno finansowych, jak i ideologicznych – rezydencja królewska nie mieściła się w obowiązującej wizji przeszłości.
+## Ćwierć wieku czekania
+2 lipca 1949 roku Sejm Ustawodawczy jednogłośnie uchwalił odbudowę, ale uchwała pozostała na papierze. Przez lata działały pracownie projektowe, w 1961 roku ich prace wstrzymano, a w 1964 roku na dawnym dziedzińcu ustawiono ławki.
 
-## Decyzja i zbiórka
-Odbudowę rozpoczęto w 1971 roku, po zmianie ekipy rządzącej. Finansowano ją w znacznej części ze społecznych składek, zbieranych także wśród Polonii – co uczyniło z przedsięwzięcia jedno z nielicznych działań publicznych opartych na dobrowolnym zaangażowaniu ludzi, a nie na przydziale środków.
+## Decyzja Gierka
+19 stycznia 1971 roku, na wniosek Edwarda Gierka, Biuro Polityczne zdecydowało o rekonstrukcji. Pracami kierował Obywatelski Komitet Odbudowy Zamku – wiceprzewodniczącym był prof. Stanisław Lorentz, a budowę prowadził prof. Jan Zachwatowicz według projektu Jana Bogusławskiego. Zgodnie z postulatem Lorentza odbudowę finansowano głównie ze składek społecznych – symbol suwerenności mieli odbudować sami Polacy.
 
-## Otwarcie
-Prace prowadzono ponad dekadę, korzystając z zachowanych detali, planów i ikonografii. Zamek udostępniono zwiedzającym w latach 80. Wraz z odbudowanym Starym Miastem stał się najbardziej rozpoznawalnym przykładem powojennej rekonstrukcji zabytków w Europie.`,
+## Zegar i wnętrza
+Zegar na Wieży Zygmuntowskiej, zbudowany w czynie społecznym przez warszawskich zegarmistrzów, ruszył 19 lipca 1974 roku o 11.15 – o tej godzinie zatrzymał się 17 września 1939 roku. Tego dnia przekazano gmach w stanie surowym. Pierwsze wnętrza udostępniono w 1977 roku, w 1979 roku powołano muzeum, a w 1980 roku zamek wraz ze Starym Miastem wpisano na listę UNESCO.
+
+## Finał
+31 sierpnia 1984 roku zakończono odbudowę gmachu; do kaplicy zamkowej wniesiono urnę z sercem Tadeusza Kościuszki. Wyposażanie wnętrz trwało do 1988 roku.`,
     trivia: [
-      'Przez ponad dwadzieścia pięć lat po wojnie w miejscu zamku był pusty plac.',
-      'Odbudowę finansowano w znacznej części ze społecznych składek, zbieranych także wśród Polonii.',
+      'Zegar na wieży uruchomiono 19 lipca 1974 roku o 11.15 – dokładnie o tej godzinie zatrzymał się 17 września 1939 roku.',
+      'Sejm uchwalił odbudowę zamku już w 1949 roku, ale prace ruszyły dopiero 22 lata później.',
+      'W 1974 roku premier Szwecji Olof Palme podarował zamkowi tzw. rolkę sztokholmską.',
     ],
     resources: [
       {
@@ -28300,23 +28319,28 @@ Autobus był w PRL środkiem transportu podstawowym, nie uzupełniającym: przy 
     category: 'kultura',
     tags: ['film', 'kino', 'moralny niepokój', 'inteligencja'],
     yearStart: 1977,
+    yearEnd: 1977,
     summary: 'Sztandarowy film kina moralnego niepokoju w reżyserii Krzysztofa Zanussiego (1977); o konformizmie inteligencji, ze starciem idealizmu i cynizmu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Barwy%20ochronne%2C%20Zbigniew%20Zapasiewicz.jpg?width=800',
     imageCaption: 'Zbigniew Zapasiewicz na planie „Barw ochronnych”',
     content: `## Film
-Dramat Krzysztofa Zanussiego zrealizowany w 1976 roku, na ekrany wszedł rok później. Należy do nurtu kina moralnego niepokoju – filmów opisujących mechanizmy przystosowania i cichej korupcji w instytucjach PRL.
+„Barwy ochronne” Krzysztofa Zanussiego powstały w 1976 roku w Zespole Filmowym „Tor” kierowanym przez Stanisława Różewicza, a premierę miały 27 stycznia 1977 roku. Należą do nurtu kina moralnego niepokoju. Zdjęcia trwały zaledwie 20 dni i powstały w ośrodku wypoczynkowym w Rozalinie pod Warszawą; operatorem był Edward Kłosiński, który kręcił w naturalnym świetle i często z ręki.
 
 ## Pojedynek postaw
-Osią jest starcie dwóch językoznawców podczas studenckiego obozu naukowego: idealistycznego asystenta Jarosława Kruszewskiego, granego przez Piotra Garlickiego, i cynicznego docenta Jakuba Szelestowskiego w wykonaniu Zbigniewa Zapasiewicza.
+Na letnim obozie językoznawczym spotykają się idealistyczny asystent Jarosław Kruszewski (Piotr Garlicki) i cyniczny docent Jakub Szelestowski (Zbigniew Zapasiewicz). Asystent próbuje uczciwie przeprowadzić konkurs prac studenckich, docent pokazuje mu, że o wszystkim decydują układy, a nagrodę dostaje praca konwencjonalna. W recenzjach często przyznawano rację rozczarowanemu docentowi.
 
-## O czym naprawdę
-Docent nie jest zwykłym łajdakiem: tłumaczy młodszemu koledze, jak działa świat, w którym awans zależy od układów, a przyzwoitość jest luksusem. Film nie daje prostej odpowiedzi, kto ma rację, i właśnie ta niejednoznaczność czyniła go niewygodnym dla władz.
+## Cenzura
+Cenzura chciała wyciąć sceny z Haliną Mikołajską, członkinią Komitetu Obrony Robotników; film obronił minister kultury Józef Tejchma. Mimo to wydano zapis zakazujący mediom jakichkolwiek informacji o premierze, recenzji i reklamy – ujawnił go później Tomasz Strzyżewski w „Czarnej księdze cenzury PRL”.
 
-## Uczelnia jako obraz systemu
-Wybór środowiska akademickiego nie był przypadkowy. Uczelnia – formalnie miejsce poszukiwania prawdy – pokazana jest jako struktura rządząca się lojalnością wobec przełożonych. To pozwoliło opisać cały system, mówiąc pozornie tylko o obozie językoznawczym.`,
+## Rozgrywka z Wajdą
+Wiceminister Janusz Wilhelmi próbował przeciwstawić chwalone „Barwy ochronne” „Człowiekowi z marmuru” Andrzeja Wajdy. Zanussi solidaryzował się jednak z Wajdą, a gdy po niego przysłano rządowy samolot, pilot na jego prośbę zainscenizował kłopoty ze startem.
+
+## Nagrody
+Film zdobył Grand Prix Festiwalu Polskich Filmów Fabularnych w Gdańsku, nagrodzono też scenariusz i rolę Zapasiewicza. Docent Szelestowski stał się jedną z najbardziej pamiętnych postaci polskiego kina.`,
     trivia: [
-      'Rolę cynicznego docenta zagrał Zbigniew Zapasiewicz – to jedna z najgłośniejszych kreacji polskiego kina.',
-      'Film nie rozstrzyga, kto ma rację, i ta niejednoznaczność czyniła go niewygodnym dla władz.',
+      'Cenzura zakazała mediom wspominania o premierze – nawet reklamy filmu.',
+      'Zbigniew Zapasiewicz kręcił swoje sceny w przerwach między próbami i spektaklami w Teatrze Dramatycznym.',
+      'Zdjęcia do filmu trwały tylko 20 dni.',
     ],
     resources: [
       {
@@ -29655,19 +29679,26 @@ Dla jednych pozostał czołgistą, dla innych Mateuszem albo Jankielem – rzadk
     summary: 'Państwowy monopolista usług pocztowych i telekomunikacyjnych; listy, telegramy, paczki i przekazy pieniężne łączyły rodziny w całym kraju.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Biurowiec_przy_ul._Rodziny_Hiszpa%C5%84skich_8_w_Warszawie_2026.jpg?width=800',
     imageCaption: 'Biurowiec Poczty Polskiej w Warszawie (fot. współczesna)',
-    content: `## Jedna instytucja, trzy dziedziny
-W PRL poczta, telegraf i telefon tworzyły jedno przedsiębiorstwo państwowe – Polską Pocztę, Telegraf i Telefon. Oznaczało to, że ta sama instytucja doręczała listy, obsługiwała telegramy i decydowała o przyznaniu telefonu.
+    content: `## Początek
+Za początek powojennej poczty uznaje się uruchomienie w 1944 roku okręgu pocztowego w Lublinie. Działało nadal przedwojenne przedsiębiorstwo Polska Poczta, Telegraf i Telefon, założone w 1928 roku. Nadzorował je minister poczt i telegrafów, a od 1955 roku minister łączności.
+
+## Trzy usługi w jednym
+Poczta, telegraf i telefon tworzyły jedno przedsiębiorstwo. Ta sama instytucja doręczała listy, przyjmowała telegramy i przydzielała numery telefonów.
 
 ## Urząd pocztowy
-Placówka pocztowa pełniła funkcje wykraczające daleko poza korespondencję: wypłacano tam emerytury, opłacano rachunki, nadawano paczki i zamawiano rozmowy międzymiastowe. Dla wielu miejscowości był to główny punkt kontaktu z instytucjami państwa.
+Placówka pocztowa pełniła funkcje wykraczające daleko poza korespondencję: wypłacano tam emerytury, opłacano rachunki, nadawano paczki i przekazy, zamawiano rozmowy międzymiastowe. W wielu miejscowościach był to główny punkt kontaktu z instytucjami państwa.
 
-## Telefon jako dobro reglamentowane
-Na przydział linii telefonicznej czekano latami, a w wielu wsiach jedyny aparat znajdował się właśnie na poczcie. Telegram pozostawał więc do końca PRL podstawowym sposobem przekazania pilnej wiadomości.
+## Telefon na przydział
+Na linię telefoniczną czekano latami, a w wielu wsiach jedyny aparat stał właśnie na poczcie. Telegram pozostawał do końca PRL podstawowym sposobem przekazania pilnej wiadomości.
 
-## Kontrola korespondencji
-Poczta była też narzędziem nadzoru: w okresie stanu wojennego wprowadzono oficjalną cenzurę korespondencji, a przesyłki opatrywano stemplem informującym, że zostały ocenzurowane. Rozmowy telefoniczne przerywał wtedy komunikat o kontrolowaniu połączenia.`,
+## Kontrola
+Poczta była też narzędziem nadzoru. W stanie wojennym wprowadzono jawną cenzurę korespondencji – listy opatrywano stemplem „ocenzurowano” – a rozmowy telefoniczne przerywał komunikat, że połączenie jest kontrolowane.
+
+## Podział
+4 grudnia 1991 roku przedsiębiorstwo rozdzielono na dwa: Pocztę Polską i spółkę Telekomunikacja Polska.`,
     trivia: [
-      'Poczta, telegraf i telefon tworzyły jedno przedsiębiorstwo, więc ta sama instytucja przyznawała telefon i doręczała listy.',
+      'Przedsiębiorstwo Polska Poczta, Telegraf i Telefon powstało jeszcze w 1928 roku i przetrwało cały PRL.',
+      'Dopiero w 1991 roku pocztę oddzielono od telefonów – powstały Poczta Polska i Telekomunikacja Polska.',
       'W stanie wojennym listy opatrywano stemplem o ocenzurowaniu, a rozmowy przerywał komunikat o kontroli.',
     ],
     resources: [
@@ -31767,23 +31798,30 @@ Służbę rozwiązano w 1990 roku, a na jej miejsce powołano Wojskowe Służby 
     tags: ['wojsko', 'granica', 'ucieczki', 'służby'],
     yearStart: 1945,
     yearEnd: 1991,
-    summary: 'Formacja pilnująca granic PRL, w praktyce nastawiona bardziej na zatrzymywanie uciekinierów niż na obronę przed najazdem.',
+    summary: 'Formacja wojskowa strzegąca granic PRL w latach 1945–1991, podporządkowana kolejno MON, MBP i MSW; w 1991 roku zastąpiła ją Straż Graniczna.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Border_Protection_Forces_in_Poland%2C_1975-1979_03.jpg?width=800',
     imageCaption: 'Żołnierze Wojsk Ochrony Pogranicza, druga połowa lat 70.',
-    content: `## Zadania
-WOP powołano we wrześniu 1945 roku do ochrony nowo wytyczonych granic państwa. Formacja podlegała kolejno resortowi obrony i resortowi spraw wewnętrznych, co dobrze oddaje jej podwójny charakter – wojskowy z nazwy, policyjny w praktyce.
+    content: `## Powstanie
+Po wojnie granice obsadziły najpierw dywizje piechoty – 10 czerwca 1945 roku, dzień zajęcia linii Odry i Nysy, stał się później świętem formacji. Wojska Ochrony Pogranicza utworzono rozkazem z 13 września 1945 roku. Wzorowano je na przedwojennym Korpusie Ochrony Pogranicza i na radzieckich wojskach pogranicznych; pierwszym dowódcą był radziecki oficer płk Gwidon Czerwiński.
 
-## Granica jako bariera wewnętrzna
-W państwie, które reglamentowało prawo wyjazdu, granica służyła przede wszystkim do zatrzymywania własnych obywateli. Strażnice, pasy zaorane, zasieki i wieże obserwacyjne budowano również na granicach z NRD i Czechosłowacją, a więc z państwami sojuszniczymi. Wodne przejścia na Bałtyku patrolowały jednostki morskie WOP.
+## Zmiany podległości
+WOP wielokrotnie przechodziły między resortami: najpierw podlegały MON, potem Ministerstwu Bezpieczeństwa Publicznego, od 1955 roku MSW, w latach 1965–1971 znów wojsku, a od 1972 roku do końca – MSW. Żołnierzy obowiązywały wojskowe regulaminy; wyróżniał ich zielony otok czapki.
 
-## Ucieczki
-Próby nielegalnego przekroczenia granicy karano więzieniem, a wobec uciekających wolno było użyć broni. Do najgłośniejszych przypadków należały ucieczki żołnierzy służby zasadniczej pełniących służbę na strażnicach oraz porwania samolotów rejsowych.
+## Liczebność i struktura
+Największy stan osiągnęły w październiku 1953 roku – 33 675 żołnierzy, w trzech czwartych z poboru. Służbę pełniły strażnice, graniczne placówki kontrolne na przejściach, jednostki morskie i lotnicze.
 
-## Koniec formacji
-WOP rozwiązano w 1991 roku, zastępując go Strażą Graniczną – formacją cywilną, podporządkowaną resortowi spraw wewnętrznych i pozbawioną charakteru wojskowego.`,
+## Zwiad WOP
+Istotną część formacji stanowił Zwiad WOP, prowadzący pracę wywiadowczą i operacyjną w strefie nadgranicznej. Ustawa o IPN uznaje go za organ bezpieczeństwa państwa.
+
+## Granica w obie strony
+W państwie, które reglamentowało wyjazdy, ochrona granicy oznaczała także pilnowanie, by nie przekraczali jej nielegalnie własni obywatele. Za nielegalne przekroczenie granicy groziło więzienie.
+
+## Koniec
+WOP rozformowano 16 maja 1991 roku. Zastąpiła je Straż Graniczna – formacja typu policyjnego, będąca organem ścigania.`,
     trivia: [
-      'Na granicy z NRD i Czechosłowacją – państwami tego samego bloku – również stały strażnice i pasy kontrolne.',
-      'Za nielegalne przekroczenie granicy groziła kara pozbawienia wolności, a rodzina uciekiniera traciła szanse na paszport.',
+      'Świętem WOP był 10 czerwca – rocznica obsadzenia przez wojsko granicy na Odrze i Nysie w 1945 roku.',
+      'Pierwszym dowódcą WOP był radziecki oficer, płk Gwidon Czerwiński.',
+      'Zwiad WOP jest w ustawie o IPN uznany za organ bezpieczeństwa państwa – obok UB i SB.',
     ],
     resources: [
       {
@@ -31840,20 +31878,24 @@ WOP rozwiązano w 1991 roku, zastępując go Strażą Graniczną – formacją c
     summary: 'Formacja wojskowa powołana do walki z podziemiem niepodległościowym i zabezpieczania aparatu władzy w pierwszych latach po wojnie.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gen._Konrad_%C5%9Awietlik_promuje_oficer%C3%B3w_KBW.jpg?width=800',
     imageCaption: 'Gen. Konrad Świetlik promuje oficerów KBW',
-    content: `## Powstanie i podporządkowanie
-KBW utworzono w maju 1945 roku i podporządkowano nie dowództwu wojska, lecz Ministerstwu Bezpieczeństwa Publicznego. To przesądziło o jego charakterze: było to wojsko przeznaczone do działań wewnętrznych, a nie do obrony granic.
+    content: `## Powstanie
+Korpus Bezpieczeństwa Wewnętrznego powołała Krajowa Rada Narodowa 24 maja 1945 roku. Podstawą była wydzielona z wojska 4 Dywizja Piechoty i wcześniejsze jednostki Wojsk Wewnętrznych. Formowanie trwało do sierpnia 1945 roku, gdy korpus przekazano Ministerstwu Bezpieczeństwa Publicznego; od 1954 roku podlegał ministrowi spraw wewnętrznych. Liczył w 1945 roku 29 tysięcy żołnierzy, w 1950 – 41 tysięcy.
 
-## Walka z podziemiem
-Główne zadanie stanowiły operacje przeciwko oddziałom podziemia niepodległościowego, obławy w terenie oraz pacyfikacje wsi wspierających partyzantkę. KBW brał też udział w akcji „Wisła” w 1947 roku, czyli w przymusowym wysiedleniu ludności ukraińskiej i łemkowskiej z południowo-wschodnich województw.
+## Wojna z podziemiem
+KBW utworzono do walki z tzw. podziemiem reakcyjnym – polską konspiracją niepodległościową, UPA i Werwolfem. Według zestawień od marca 1945 do kwietnia 1947 roku jego oddziały zabiły ponad 1500 żołnierzy podziemia i wzięły do niewoli ok. 12 tysięcy osób. W 1947 roku brygady KBW uczestniczyły w akcji „Wisła”.
 
-## Ochrona władzy
-Żołnierze korpusu zabezpieczali referendum 1946 roku i wybory 1947 roku, ochraniali obiekty partyjne i rządowe, tłumili wystąpienia robotnicze. W Poznaniu w czerwcu 1956 roku jednostki KBW skierowano przeciwko demonstrantom.
+## Wybory i propaganda
+Przed referendum 1946 roku i wyborami 1947 roku działały Grupy Ochronno-Propagandowe, które wspólnie z UB kompromitowały PSL. KBW pacyfikował też wsie popierające ludowców i partyzantkę, a później chronił zakłady, obozy dla więźniów politycznych i ściąganie przymusowych dostaw.
 
-## Rozwiązanie
-Formację rozwiązano w 1965 roku, a jej zadania rozdzielono między wojska wewnętrzne resortu spraw wewnętrznych i inne służby. Symbolem tej ciągłości stało się ZOMO, utworzone kilka lat wcześniej.`,
+## Rok 1956
+W Poznańskim Czerwcu 329 żołnierzy KBW skierowano przeciw demonstrantom; nie zdołali odblokować gmachu UB, a nocą likwidowali stanowiska strzelców. W październiku 1956 roku oddziały KBW zabezpieczały w Warszawie gmachy publiczne w czasie VIII Plenum.
+
+## Saperzy i drogowcy
+W latach 50. i 60. saperzy korpusu rozminowywali kraj, a jednostki inżynieryjne zbudowały ok. 264 km dróg, m.in. obwodnice bieszczadzkie i drogę do Morskiego Oka. W 1965 roku KBW rozwiązano – jego jednostki weszły w skład Wojsk Obrony Wewnętrznej.`,
     trivia: [
-      'KBW podlegał Ministerstwu Bezpieczeństwa Publicznego, a nie Ministerstwu Obrony Narodowej.',
-      'Korpus liczył w szczytowym okresie kilkadziesiąt tysięcy żołnierzy – więcej niż niejedna regularna dywizja.',
+      'Rocznicę powstania KBW obchodzono 24 maja – w dniu uchwały Krajowej Rady Narodowej z 1945 roku.',
+      'Żołnierze KBW nosili zielone mundury wojsk lądowych, ale czapki z granatowymi otokami.',
+      'Jednostki inżynieryjne KBW zbudowały m.in. drogę z Łysej Polany do Morskiego Oka.',
     ],
     resources: [
       {
@@ -35757,7 +35799,7 @@ export const resourceTypeLabels: Record<ResourceType, { label: string; icon: str
 
 export const timelineEvents: { year: number; event: string; category: string; entryId?: string }[] = [
   { year: 1945, event: 'Konferencja w Poczdamie – ustalenie granic', category: 'polityka', entryId: 'ziemie-odzyskane' },
-  { year: 1945, event: 'Powstanie KBW – walka z podziemiem niepodległościowym', category: 'represje', entryId: 'kbw' },
+  { year: 1945, event: 'Powstanie KBW (24 maja) – walka z podziemiem niepodległościowym', category: 'represje', entryId: 'kbw' },
   { year: 1947, event: 'Sfałszowane wybory – eliminacja PSL', category: 'polityka', entryId: 'wybory-1947' },
   { year: 1949, event: 'Budowa Nowej Huty – socjalizm w betonie', category: 'społeczeństwo', entryId: 'nowa-huta' },
   { year: 1950, event: 'Forsowna industrializacja – Plan 6-letni', category: 'gospodarka', entryId: 'gospodarka-prl' },
@@ -36004,7 +36046,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1984, event: 'Aya RL odnosi sukces w Jarocinie przebojem „Skóra”', category: 'kultura', entryId: 'aya-rl' },
   { year: 1949, event: 'Otwarcie Trasy W-Z – symbol odbudowy Warszawy', category: 'społeczeństwo', entryId: 'trasa-wz' },
   { year: 1952, event: 'Otwarcie MDM i placu Konstytucji – sztandar socrealizmu', category: 'społeczeństwo', entryId: 'mdm-marszalkowska' },
-  { year: 1971, event: 'Decyzja o odbudowie Zamku Królewskiego w Warszawie', category: 'społeczeństwo', entryId: 'zamek-krolewski' },
+  { year: 1971, event: '19 stycznia – decyzja o odbudowie Zamku Królewskiego w Warszawie', category: 'społeczeństwo', entryId: 'zamek-krolewski' },
   { year: 1956, event: 'Powstanie kabaretu Piwnica pod Baranami w Krakowie', category: 'kultura', entryId: 'piwnica-pod-baranami' },
   { year: 1965, event: 'Premiera „Rękopisu znalezionego w Saragossie” Wojciecha Hasa', category: 'kultura', entryId: 'rekopis-znaleziony-w-saragossie' },
   { year: 1974, event: 'SBB nagrywa debiutancki album na koncertach w warszawskiej Stodole', category: 'kultura', entryId: 'sbb-zespol' },
@@ -36371,4 +36413,10 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1990, event: 'Rozwiązanie Milicji Obywatelskiej – 10 maja zastępuje ją Policja', category: 'represje', entryId: 'milicja' },
   { year: 1945, event: 'Jarosław Iwaszkiewicz po raz pierwszy wybrany prezesem Związku Literatów Polskich', category: 'osoby', entryId: 'iwaszkiewicz' },
   { year: 1984, event: 'Strajk szkolny we Włoszczowie w obronie krzyży (3–16 grudnia)', category: 'opozycja', entryId: 'obrona-krzyzy' },
+  { year: 1965, event: 'Rozwiązanie KBW – jednostki wchodzą do Wojsk Obrony Wewnętrznej', category: 'wojsko', entryId: 'kbw' },
+  { year: 1983, event: 'Republika wydaje album „Nowe sytuacje”', category: 'kultura', entryId: 'republika-zespol' },
+  { year: 1986, event: 'Rozpad Republiki – Ciechowski wydaje solową płytę jako Obywatel G.C.', category: 'kultura', entryId: 'republika-zespol' },
+  { year: 1974, event: 'Zegar na wieży Zamku Królewskiego rusza o 11.15 – godzinie zatrzymania z 17 września 1939', category: 'społeczeństwo', entryId: 'zamek-krolewski' },
+  { year: 1984, event: '31 sierpnia – zakończenie odbudowy Zamku Królewskiego', category: 'społeczeństwo', entryId: 'zamek-krolewski' },
+  { year: 1991, event: 'Rozformowanie WOP (16 maja) – granic strzeże Straż Graniczna', category: 'wojsko', entryId: 'wop' },
 ];
