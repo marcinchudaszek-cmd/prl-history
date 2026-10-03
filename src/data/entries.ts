@@ -963,23 +963,27 @@ Miasto zbudowane dla klasy robotniczej stało się miejscem oporu wobec władzy,
     tags: ['Gomułka', 'PZPR', 'październik 1956', 'odwilż'],
     yearStart: 1905,
     yearEnd: 1982,
-    summary: 'Władysław Gomułka – komunistyczny polityk, I sekretarz KC PZPR w latach 1956–1970. Symbol "odwilży" po epoce stalinowskiej, a zarazem człowiek odpowiedzialny za masakrę robotników w Grudniu 1970 i antysemicką kampanię Marca 1968.',
+    summary: 'Władysław Gomułka – I sekretarz PPR (1943–1948) i KC PZPR (1956–1970). Symbol Października 1956, a zarazem przywódca odpowiedzialny politycznie za Marzec 1968 i masakrę robotników w Grudniu 1970.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wladyslaw%20Gomulka%201967.jpg?width=800',
     imageCaption: 'Władysław Gomułka, I sekretarz KC PZPR w latach 1956–1970.',
-    content: `## Dwa razy na szczycie
-Władysław Gomułka (1905–1982), pseudonim „Wiesław”, kierował PPR w latach 1943–1948, po czym został oskarżony o odchylenie prawicowo-nacjonalistyczne, usunięty i uwięziony. Wrócił w październiku 1956 roku jako I sekretarz KC PZPR i rządził do grudnia 1970.
+    content: `## Początki
+Władysław Gomułka (1905–1982) urodził się w Białobrzegach pod Krosnem w rodzinie robotniczej i od 17. roku życia pracował jako ślusarz w przemyśle naftowym. Przed wojną działał w ruchu komunistycznym. W czasie wojny, pod pseudonimem „Wiesław”, został w 1943 roku I sekretarzem PPR.
 
-## Nadzieja Października
-Powrót Gomułki witano entuzjastycznie: zapowiadał polską drogę do socjalizmu, zakończył przymusową kolektywizację, uwolnił prymasa Wyszyńskiego i doprowadził do wyjazdu marszałka Rokossowskiego. Kilkaset tysięcy ludzi słuchało jego przemówienia na wiecu w Warszawie.
+## Upadek i więzienie
+Po wojnie był wicepremierem i ministrem ziem odzyskanych. W 1948 roku sprzeciwiał się m.in. kolektywizacji wsi; oskarżony o odchylenie prawicowo-nacjonalistyczne stracił stanowiska. 2 sierpnia 1951 roku aresztowali go w Krynicy funkcjonariusze UB z Józefem Światłą. Więziono go bez procesu do 13 grudnia 1954 roku.
+
+## Październik
+21 października 1956 roku został I sekretarzem KC PZPR. 24 października przemawiał na wiecu na placu Defilad słowami „Towarzysze! Obywatele! Ludu pracujący stolicy!”. Zapowiedział polską drogę do socjalizmu: zakończono przymusową kolektywizację, uwolniono prymasa Wyszyńskiego, z kraju wyjechał marszałek Rokossowski.
 
 ## Odwrót
-Odwilż skończyła się szybko. Zamknięto „Po prostu”, zaostrzono kurs wobec Kościoła i inteligencji, a w 1968 roku doszło do kampanii marcowej z antysemicką nagonką. Gomułka osobiście naciskał też na interwencję w Czechosłowacji.
+Odwilż szybko się skończyła: zamknięto „Po prostu”, zaostrzono cenzurę i kurs wobec Kościoła. W czerwcu 1967 roku mówił o „piątej kolumnie”, co nasiliło kampanię antysemicką, choć w 1968 roku stracił nad nią kontrolę. Naciskał na zdławienie praskiej wiosny.
 
-## Upadek
-W grudniu 1970 roku, po podwyżce cen tuż przed świętami, wybuchły protesty na Wybrzeżu. Do robotników strzelano; zginęło kilkadziesiąt osób. Gomułka stracił władzę w ciągu kilku dni i do śmierci pozostał na politycznym marginesie.`,
+## Grudzień 1970
+W grudniu 1970 roku wprowadził podwyżkę cen mięsa. Protesty na Wybrzeżu stłumiono, ginęło kilkadziesiąt osób. 20 grudnia musiał ustąpić; zastąpił go Edward Gierek. Zmarł 1 września 1982 roku w Konstancinie, przekonany, że obalił go spisek z Moskwy.`,
     trivia: [
-      'Był usunięty i uwięziony przez własną partię, a osiem lat później wrócił jako jej przywódca.',
-      'Podwyżkę cen, która wywołała protesty grudnia 1970 roku, ogłoszono tuż przed świętami.',
+      'Był więziony przez władze, które sam współtworzył – a niespełna dwa lata po wyjściu na wolność stanął na ich czele.',
+      'Jego przemówienie z 24 października 1956 roku rozpoczynało się słowami „Towarzysze! Obywatele! Ludu pracujący stolicy!”.',
+      'W 1959 i 1961 roku przeżył dwie próby zamachu.',
     ],
     resources: [
       {
@@ -18845,19 +18849,26 @@ Wobec uczestników protestu we Włoszczowie zastosowano represje, część usuni
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Berta_with_antenna.jpg?width=800',
     imageCaption: 'Nadajnik „Berta”, używany przez podziemne Radio Solidarność w stanie wojennym',
     content: `## Pierwsza audycja
-Radio „Solidarność” nadało pierwszą audycję 12 kwietnia 1982 roku o godzinie 21.00, cztery miesiące po wprowadzeniu stanu wojennego. Sygnał wyemitowano na falach UKF z dachu budynku przy ulicy Grójeckiej w Warszawie. Program trwał osiem i pół minuty.
+Radio „Solidarność” nadało pierwszą audycję 12 kwietnia 1982 roku o 21.00, cztery miesiące po wprowadzeniu stanu wojennego. Janusz Klekowski i Marek Rasiński wyemitowali ją na falach UKF z dachu budynku przy ulicy Grójeckiej 19/25 w Warszawie. Trwała osiem i pół minuty.
 
-## Jak to działało
-Nadajniki budowano samodzielnie i uruchamiano na krótko, z dachów i strychów, po czym natychmiast opuszczano miejsce. Audycje wchodziły na częstotliwość telewizji lub radia, żeby dotrzeć do przypadkowych odbiorców. Krótki czas emisji wynikał z obawy przed namierzeniem.
+## Poprzednik
+Pierwszym solidarnościowym radiem po 13 grudnia było krakowskie Radio Wolna Polska, nadające w dniach 14–16 grudnia 1981 roku. W Krakowie działał potem m.in. Stanisław Tyczyński, późniejszy twórca RMF FM.
 
-## Zasięg
-Stacje działały w kilkunastu miastach, niezależnie od siebie. Zasięg pojedynczej audycji obejmował dzielnicę, ale wiadomość o samym fakcie nadawania rozchodziła się znacznie szerzej – i to ona miała największe znaczenie.
+## Sygnał i głosy
+Audycje warszawskie zaczynały się od melodii „Siekiera, motyka” zagranej na flecie i słów „tu Radio Solidarność”. Czytali je Zofia Romaszewska i Janusz Klekowski; z radiem związany był Zbigniew Romaszewski.
 
-## Po co
-Sens radia podziemnego polegał nie tyle na przekazaniu informacji, ile na dowodzie, że podziemie istnieje i działa w miejscach, których władza nie kontroluje. W stanie wojennym, gdy odcięto telefony i cenzurowano listy, był to komunikat sam w sobie.`,
+## Technika
+Nadajnik „Gienia” nadawał na UKF nagranie z taśmy. „Bolek i Lolek”, mieszczący się w torbie, wyświetlał na ekranach telewizorów napis, np. „Solidarność żyje” albo „Włącz radio”. „Berta” zagłuszała fonię telewizji własną audycją. Nadajniki uruchamiano na krótko i zostawiano, by uniknąć namierzenia.
+
+## Akcje
+1 sierpnia 1982 roku na Powązkach nadano przemówienie Zbigniewa Bujaka, a w latach 1984–1986 audycje rozbrzmiewały przy areszcie na Rakowieckiej. Stacje powstały też m.in. we Wrocławiu, Toruniu, Świdniku i Poznaniu.
+
+## Znaczenie
+Krąg słuchaczy był ograniczony do tych, którzy wiedzieli, kiedy i gdzie słuchać, ale sam fakt nadawania był dowodem, że podziemie działa. Ostatnią audycję warszawskiego radia nadano 22 czerwca 1989 roku.`,
     trivia: [
-      'Pierwsza audycja trwała osiem i pół minuty i nadano ją z dachu budynku przy Grójeckiej.',
-      'Nadajniki uruchamiano na kilka minut i natychmiast opuszczano miejsce, żeby uniknąć namierzenia.',
+      'Sygnałem Radia „Solidarność” była melodia „Siekiera, motyka” zagrana na flecie prostym.',
+      'Nadajnik „Bolek i Lolek” mieścił się w torbie na ramię i wyświetlał na ekranach telewizorów napis „Solidarność żyje”.',
+      'Ostatnią audycję warszawskiego Radia „Solidarność” nadano 22 czerwca 1989 roku, już po wyborach czerwcowych.',
     ],
     resources: [
       {
@@ -21157,18 +21168,25 @@ W 1953 roku ograniczono liczbę brygad i wprowadzono zaciąg ochotniczy, a 17 gr
     summary: 'Wielka fabryka ciągników pod Warszawą – symbol mechanizacji rolnictwa, a zarazem ośrodek robotniczych protestów, m.in. w czerwcu 1976.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ci%C4%85gniki_pod_zak%C5%82adami_Ursus_w_Warszawie_w_latach_70.jpg?width=800',
     imageCaption: 'Ciągniki przed zakładami Ursus w Warszawie, lata 70.',
-    content: `## Fabryka
-Zakłady w podwarszawskim Ursusie miały rodowód sięgający końca XIX wieku. Po wojnie przestawiono je na produkcję ciągników rolniczych, które stały się marką rozpoznawalną w całym kraju i eksportowaną do kilkudziesięciu państw.
+    content: `## Rodowód
+Firmę założono w 1893 roku w Warszawie jako fabrykę armatury; nazwę Ursus – od siłacza z „Quo vadis” – przyjęła w 1907 roku. W 1922 roku fabryka wypuściła pierwsze traktory, zwane „ciągówkami”, a w podwarszawskich Czechowicach wyrósł jej nowy zakład, a w latach 30. powstawały tam tankietki, ciężarówki i motocykle Sokół. W czasie okupacji Niemcy produkowali w fabryce dla wojska, a w 1944 roku wywieźli maszyny.
 
-## Ciągnik jako symbol
-Traktor z Ursusa był w propagandzie skrótem opisującym modernizację wsi. W praktyce mechanizacja rolnictwa postępowała nierówno: duże gospodarstwa państwowe wyposażano w pierwszej kolejności, a rolnik indywidualny czekał na przydział latami.
+## Odbudowa
+Po wojnie część maszyn odzyskano z Dolnego Śląska. Na wzór niemieckiego Lanz Bulldoga zbudowano ciągnik C-45; pierwszy powojenny traktor zjechał z linii 30 kwietnia 1947 roku. Do 1959 roku powstało ok. 60 tysięcy C-45.
+
+## Ciągniki dla wsi
+W 1957 roku skonstruowano pierwszy w pełni polski ciągnik C-325, a od 1967 roku produkowano słynny C-330 – do 1993 roku sprzedano ich ponad 430 tysięcy. Z Czechosłowacją budowano wspólnie modele średnie i ciężkie, w 1974 roku kupiono licencję Massey Ferguson. W 1966 roku fabryka zatrudniała ok. 12 tysięcy osób, a w 1986 roku wyprodukowała ponad 61 tysięcy ciągników.
 
 ## Czerwiec 1976
-25 czerwca 1976 roku, po ogłoszeniu drastycznej podwyżki cen żywności, załoga Ursusa przerwała pracę i zablokowała tory linii kolejowej. Protest – obok Radomia i Płocka – zmusił władze do wycofania podwyżki już następnego dnia.
+25 czerwca 1976 roku, po ogłoszeniu podwyżki cen żywności, załoga Ursusa – obok Radomia i Płocka – przerwała pracę i zablokowała pobliską linię kolejową. Jeszcze tego wieczoru władze wycofały podwyżkę, ale potem przyszły zwolnienia, „ścieżki zdrowia” i procesy. Pomoc represjonowanym z Ursusa i Radomia stała się zaczątkiem Komitetu Obrony Robotników.
 
-## Represje i ich skutek
-Po proteście nastąpiły zwolnienia, pobicia i procesy uczestników. To właśnie pomoc represjonowanym robotnikom Ursusa i Radomia stała się bezpośrednim powodem powstania Komitetu Obrony Robotników – momentu, od którego opozycja inteligencka i robotnicza zaczęły działać razem.`,
-    trivia: ['Zakłady produkowały ciągniki znane w całym kraju.', 'Robotnicy Ursusa byli jednymi z głównych uczestników protestu w czerwcu 1976.'],
+## Lata 80.
+W Ursusie działała silna Solidarność. 14–15 grudnia 1981 roku zakład strajkował przeciw stanowi wojennemu, a strajk spacyfikowało ZOMO. W 1983 roku wyprodukowano milionowy ciągnik.`,
+    trivia: [
+      'Kapitałem założycielskim spółki z 1893 roku był posag siedmiu córek założycieli – stąd pierwszy znak firmowy P7P.',
+      'Nazwa Ursus pochodzi od siłacza z „Quo vadis” Henryka Sienkiewicza.',
+      'Ciągnik C-330 produkowano od 1967 do 1993 roku – sprzedano ponad 430 tysięcy egzemplarzy.',
+    ],
     resources: [
       {
         id: 'urs-pkf',
@@ -32212,19 +32230,26 @@ W 1990 roku WOPK połączono z Wojskami Lotniczymi w Wojska Lotnicze i Obrony Po
     yearEnd: 1989,
     summary: 'System, w którym żaden zakład nie mógł sam sprzedać towaru za granicę – wszystko przechodziło przez państwowe centrale handlu zagranicznego.',
     content: `## Monopol państwa
-Handel zagraniczny był w PRL monopolem państwa. Przedsiębiorstwa nie miały prawa bezpośrednio eksportować ani importować – robiły to za nie wyspecjalizowane centrale handlu zagranicznego, takie jak Ciech, Elektrim, Polimex czy Animex. Oddzielało to producenta od odbiorcy i od informacji o rynku.
+Handel zagraniczny był w PRL monopolem państwa. Zakład produkcyjny nie mógł sam sprzedać towaru za granicę ani go kupić – obowiązkowym pośrednikiem była centrala handlu zagranicznego. Takie przedsiębiorstwa, jak Ciech, Elektrim, Polimex, Animex, Metalexport czy Universal, miały quasi-monopol w swoich branżach i przywilej obrotu walutami wymienialnymi.
 
 ## Dwa obiegi
-Wymiana dzieliła się na dwa różne światy. W ramach RWPG rozliczano się w rublu transferowym – jednostce rozrachunkowej, która nie była wymienialna i której kurs ustalano decyzją, a nie rynkiem. Handel z Zachodem wymagał dewiz, których stale brakowało.
+W ramach RWPG rozliczano się w rublu transferowym – jednostce rozrachunkowej, niewymienialnej, o kursie ustalanym decyzją. Handel z Zachodem wymagał dewiz, których stale brakowało.
 
-## Struktura wymiany
-Polska eksportowała przede wszystkim węgiel, siarkę, miedź, statki, produkty rolne i wyroby przemysłu maszynowego. Importowała ropę i gaz ze Związku Radzieckiego, a z Zachodu – licencje, maszyny i zboże.
+## Eksport wewnętrzny
+Niektóre centrale, jak Pewex i Baltona, mogły sprzedawać towary za dewizy w kraju. Ten „eksport wewnętrzny” pozwalał państwu ściągać waluty z rąk obywateli.
+
+## Centrale i wywiad
+Praca w centrali uchodziła za prestiżową: dawała wyjazdy i dostęp do dewiz. Centrale były zarazem domeną służb – pod ich przykryciem pracowali oficerowie wywiadu, a zagraniczne przedstawicielstwa prowadziły wywiad naukowo-techniczny. Najgłośniejszy był przypadek Mariana Zacharskiego z Metalexportu.
 
 ## Licencje i dług
-Dekada Gierka opierała się na zakupach licencji i linii produkcyjnych za kredyty zachodnie. Gdy eksport nie zaczął ich spłacać, powstało zadłużenie, które w latach 80. sparaliżowało gospodarkę i wymusiło reglamentację importu.`,
+Dekada Gierka opierała się na zakupach licencji i linii produkcyjnych za kredyty zachodnie. Gdy eksport nie zaczął ich spłacać, powstało zadłużenie, które w latach 80. sparaliżowało gospodarkę i wymusiło ograniczenie importu.
+
+## Po 1989 roku
+Wiele central sprywatyzowano lub przekształcono w spółki giełdowe; przy części przekształceń dochodziło do uwłaszczenia nomenklatury.`,
     trivia: [
       'Rubel transferowy nie istniał w postaci fizycznej – była to wyłącznie jednostka rozliczeniowa krajów RWPG.',
-      'Producent w PRL zwykle nie wiedział, kto za granicą kupuje jego wyroby – kontakt utrzymywała centrala handlu zagranicznego.',
+      'Pewex i Baltona prowadziły „eksport wewnętrzny” – sprzedawały towary w Polsce, ale za dewizy.',
+      'Pod przykryciem central handlu zagranicznego pracowali oficerowie wywiadu – m.in. Marian Zacharski z Metalexportu.',
     ],
     resources: [
       {
@@ -34688,23 +34713,27 @@ W latach 1991–1992 był premierem. Jego droga – od sali sądowej w procesach
     tags: ['Kościół', 'prymas', 'Ziemie Odzyskane', '1945'],
     yearStart: 1945,
     yearEnd: 1948,
-    summary: 'Prymas Polski w latach 1926–1948; po powrocie do kraju w 1945 roku zorganizował administrację kościelną na ziemiach zachodnich i północnych.',
+    summary: 'Prymas Polski w latach 1926–1948, salezjanin; po powrocie w 1945 roku ustanowił polską administrację kościelną na ziemiach zachodnich i północnych.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/August_Hlond_Colorized.png?width=800',
     imageCaption: 'Kardynał August Hlond (fotografia koloryzowana)',
-    content: `## Prymas dwóch epok
-August Hlond (1881–1948), salezjanin, był prymasem Polski od 1926 roku – a więc przez całe dwudziestolecie międzywojenne, wojnę i pierwsze lata powojenne. Wojnę spędził poza krajem, część w niemieckim internowaniu.
+    content: `## Salezjanin
+August Hlond (1881–1948) urodził się w Brzęczkowicach na Śląsku. Jako chłopiec wstąpił do salezjanów i kształcił się we Włoszech; doktorat uzyskał na Uniwersytecie Gregoriańskim. W 1922 roku został administratorem apostolskim na polskim Górnym Śląsku, w 1926 roku pierwszym biskupem katowickim, a jeszcze w tym samym roku arcybiskupem gnieźnieńskim i poznańskim oraz prymasem Polski. Kardynałem był od 1927 roku.
 
-## Ziemie zachodnie
-Po powrocie w 1945 roku, dysponując specjalnymi uprawnieniami papieskimi, zorganizował polską administrację kościelną na ziemiach przyłączonych po konferencji poczdamskiej. Było to posunięcie o dużym ciężarze politycznym: Kościół działał tam, zanim ustalono ostateczny status granicy, co władze wykorzystywały propagandowo, a Watykan traktował z ostrożnością.
+## Wojna
+We wrześniu 1939 roku wyjechał z kraju przez Rumunię do Watykanu, gdzie przez radio mówił o losie Polaków. Od 1940 roku przebywał we Francji. W lutym 1944 roku aresztowało go Gestapo; internowany, odmówił podpisania niemieckich odezw do Polaków. Uwolnili go Amerykanie.
 
-## Wobec nowej władzy
-Hlond starał się zabezpieczyć pozycję Kościoła w państwie, którego charakter oceniał trzeźwo. Konflikt narastał: od 1945 roku wypowiedziano konkordat, ograniczano prasę katolicką i szkolnictwo, a wobec duchownych rozpoczęto działania operacyjne.
+## Powrót i ziemie zachodnie
+20 lipca 1945 roku, wbrew rządowi w Londynie, wrócił do Poznania. Korzystając z nadzwyczajnych uprawnień, 15 sierpnia 1945 roku mianował polskich administratorów apostolskich na ziemiach przyłączonych do Polski – m.in. ks. Karola Milika we Wrocławiu. Stałe diecezje ustanowiono tam dopiero w 1972 roku.
 
-## Następca
-Zmarł w październiku 1948 roku. Jego następcą został Stefan Wyszyński, który przejął Kościół w momencie, gdy konfrontacja z państwem dopiero się zaczynała.`,
+## Prymas w nowej Polsce
+W 1946 roku Pius XII połączył metropolię warszawską z gnieźnieńską i postawił Hlonda na jej czele. 8 września 1946 roku na Jasnej Górze zawierzył Polskę Niepokalanemu Sercu Maryi. Wobec nowej władzy był ostrożny – w 1947 roku namawiał duchownych do łagodzenia antykomunistycznych wypowiedzi, co krytykował kard. Sapieha.
+
+## Śmierć
+Zmarł 22 października 1948 roku w Warszawie. Jego następcą został Stefan Wyszyński.`,
     trivia: [
-      'Był prymasem Polski przez dwadzieścia dwa lata – od 1926 roku aż do śmierci w 1948.',
-      'Organizował polską administrację kościelną na ziemiach zachodnich, zanim status granicy został ostatecznie przesądzony.',
+      'Po klęsce wrześniowej rozważano go jako kandydata na prezydenta, a potem na premiera – odmówił.',
+      'Internowany przez Gestapo w 1944 roku odmówił podpisania propagandowych odezw do Polaków w zamian za wolność.',
+      'Jego serce spoczywa w katedrze gnieźnieńskiej, a ciało w archikatedrze warszawskiej.',
     ],
     resources: [
       {
@@ -34902,23 +34931,27 @@ W 1959 roku rząd zażądał usunięcia go z diecezji, ale odmówili zarówno ep
     tags: ['opozycja', 'Solidarność', 'WZZ', 'Gdańsk'],
     yearStart: 1978,
     yearEnd: 1989,
-    summary: 'Inżynier, współtwórca Wolnych Związków Zawodowych Wybrzeża i jeden z przywódców Solidarności, konsekwentny krytyk kompromisów z władzą.',
+    summary: 'Inżynier elektronik, współzałożyciel Wolnych Związków Zawodowych Wybrzeża, wiceprzewodniczący Solidarności, więzień stanu wojennego i krytyk kompromisów Lecha Wałęsy z władzą.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej_Gwiazda_2021.jpg?width=800',
     imageCaption: 'Andrzej Gwiazda (fot. współczesna)',
     content: `## Przed Sierpniem
-Andrzej Gwiazda (ur. 1935), inżynier elektronik, wraz z żoną Joanną należał do założycieli Wolnych Związków Zawodowych Wybrzeża w 1978 roku – środowiska, z którego dwa lata później wyrosła Solidarność. Działalność w WZZ oznaczała zwolnienia z pracy, zatrzymania i stałą inwigilację.
+Andrzej Gwiazda (ur. 1935 w Pińczowie) jako dziecko został wraz z matką wywieziony do Kazachstanu. Inżynier elektronik, absolwent Politechniki Gdańskiej, od 1973 roku pracował w zakładach Elmor. Brał udział w wydarzeniach 1968 i 1970 roku. W 1976 roku z żoną Joanną napisał list do Sejmu popierający postulaty KOR, a potem współpracował z KSS „KOR” i „Robotnikiem”.
 
-## Sierpień 1980
-W czasie strajku w Stoczni Gdańskiej należał do Prezydium Międzyzakładowego Komitetu Strajkowego i współtworzył listę dwudziestu jeden postulatów. Był jednym z sygnatariuszy porozumień sierpniowych.
+## Wolne Związki Zawodowe
+W 1978 roku znalazł się wśród założycieli Wolnych Związków Zawodowych Wybrzeża i redagował „Robotnika Wybrzeża”. Do 1980 roku SB zatrzymywała go około dziesięciu razy, przeszukiwała mieszkanie i rozpracowywała w sprawach o kryptonimach takich jak „Brodacz”.
 
-## Spór o linię
-W Solidarności reprezentował nurt nieufny wobec negocjacji z władzą. Zarzucał Lechowi Wałęsie zbyt daleko idące ustępstwa i zbyt osobisty styl przywództwa. Ten spór – ile kompromisu, ile stanowczości – przewijał się przez cały okres legalnej działalności związku.
+## Sierpień i Solidarność
+W sierpniu 1980 roku wszedł do prezydium Międzyzakładowego Komitetu Strajkowego w Stoczni Gdańskiej i negocjował z rządem m.in. sprawy cenzury, wolnych związków i więźniów politycznych. 17 września 1980 roku został jednym z dwóch zastępców Lecha Wałęsy w kierownictwie związku. Reprezentował nurt nieufny wobec kompromisów z władzą.
 
-## Stan wojenny i później
-Internowany 13 grudnia 1981 roku, następnie aresztowany i przetrzymywany do 1984 roku. Po 1989 roku pozostał krytyczny wobec kształtu przemian, uznając Okrągły Stół za porozumienie zawarte ponad głowami większości działaczy.`,
+## Stan wojenny
+13 grudnia 1981 roku został internowany, a w grudniu 1982 roku aresztowany razem z innymi przywódcami związku i oskarżony o próbę obalenia ustroju. Wyszedł na mocy amnestii 22 lipca 1984 roku, lecz w grudniu tego roku znów trafił do więzienia, z którego zwolniono go w maju 1985 roku.
+
+## Spór z Wałęsą
+W latach 1986–1989 był jednym z liderów Grupy Roboczej Komisji Krajowej, sprzeciwiającej się rozmowom z władzą prowadzonym przez Wałęsę. Nie uczestniczył w Okrągłym Stole. W 2006 roku otrzymał Order Orła Białego.`,
     trivia: [
-      'Wolne Związki Zawodowe Wybrzeża, które współtworzył w 1978 roku, były zalążkiem Solidarności.',
-      'Współtworzył listę dwudziestu jeden postulatów sierpniowych.',
+      'Jako pięciolatek został z matką i babką wywieziony przez Sowietów do kołchozu w północnym Kazachstanie.',
+      'W latach 1978–1980 SB zatrzymywała go około dziesięciu razy.',
+      'Nie wziął udziału w Okrągłym Stole – należał do najostrzejszych krytyków rozmów z władzą.',
     ],
     resources: [
       {
@@ -35146,23 +35179,27 @@ W sierpniu 1980 roku podpisał apel 64 intelektualistów o dialog ze strajkując
     tags: ['polityka', 'PAX', 'Kościół', 'kolaboracja'],
     yearStart: 1945,
     yearEnd: 1979,
-    summary: 'Przedwojenny przywódca nacjonalistycznej Falangi, po wojnie twórca Stowarzyszenia PAX i wieloletni uczestnik oficjalnego życia politycznego PRL.',
+    summary: 'Przedwojenny przywódca faszyzującej Falangi, po wojnie twórca Stowarzyszenia PAX, poseł i członek Rady Państwa PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-31684-0002%2C_Boleslaw_Piasecki.jpg?width=800',
     imageCaption: 'Boleslaw Piasecki',
-    content: `## Przed wojną
-Bolesław Piasecki (1915–1979) był współzałożycielem Obozu Narodowo-Radykalnego w 1934 roku, a następnie przywódcą Ruchu Narodowo-Radykalnego „Falanga” – formacji skrajnie nacjonalistycznej. Za działalność polityczną trafił do miejsca odosobnienia w Berezie Kartuskiej.
+    content: `## Falanga
+Bolesław Piasecki (1915–1979) w 1934 roku współzakładał Obóz Narodowo-Radykalny, a od 1935 roku przewodził Ruchowi Narodowo-Radykalnemu „Falanga” – formacji, którą sam nazywał faszystowską. Latem 1934 roku spędził trzy miesiące w Berezie Kartuskiej.
 
-## Okupacja i zwrot
-W czasie wojny stworzył Konfederację Narodu, scaloną później z Armią Krajową. W listopadzie 1944 roku został aresztowany przez NKWD. Wyszedł na wolność po rozmowach z gen. Iwanem Sierowem – i od tego momentu jego droga prowadziła już w stronę porozumienia z nową władzą.
+## Wojna
+We wrześniu 1939 roku walczył jako podporucznik, potem był więziony przez Gestapo. W konspiracji stworzył Konfederację Narodu i Uderzeniowe Bataliony Kadrowe; po scaleniu z AK dowodził batalionem 77 pułku piechoty na Nowogródczyźnie. W listopadzie 1944 roku aresztowany, kilkakrotnie przesłuchiwany przez gen. Iwana Sierowa, zadeklarował poparcie dla reform nowej władzy. Wyszedł na wolność w lipcu 1945 roku.
 
 ## PAX
-Zbudował Stowarzyszenie PAX: organizację katolików świeckich akceptujących ustrój, z własnym wydawnictwem, przedsiębiorstwami i dziennikiem „Słowo Powszechne”. Hierarchia kościelna traktowała PAX z nieufnością, widząc w nim narzędzie rozbijania jedności katolików.
+Założył środowisko tygodnika „Dziś i Jutro”, a w 1947 roku Stowarzyszenie PAX, którym kierował do śmierci. Organizacja miała wydawnictwa, przedsiębiorstwa i dziennik „Słowo Powszechne”. Drogi PAX-u i Kościoła rozeszły się w 1953 roku, gdy Piasecki namawiał prymasa Wyszyńskiego do uznania prawa władz do wpływu na nominacje biskupie. W 1955 roku jego książkę i tygodnik wpisano na indeks ksiąg zakazanych.
 
-## Pozycja
-W latach 70. zasiadał w Radzie Państwa. Jego biografia – od przedwojennego radykalnego nacjonalizmu po najwyższe gremia PRL – należy do najbardziej zaskakujących w polskiej polityce XX wieku.`,
+## Polityk PRL
+W 1956 roku poparł natolińczyków, a w 1968 roku PAX popierał kampanię marcową. Od 1965 roku był posłem, w latach 1971–1979 członkiem Rady Państwa.
+
+## Tragedia
+W styczniu 1957 roku porwano jego piętnastoletniego syna Bohdana. Ciało chłopca odnaleziono w grudniu 1958 roku, a sprawców nigdy nie ukarano mimo najdłuższego śledztwa w historii PRL, zamkniętego w 1982 roku.`,
     trivia: [
-      'Przed wojną kierował skrajnie nacjonalistyczną Falangą i był więziony w Berezie Kartuskiej.',
-      'Wyszedł z więzienia NKWD po rozmowach z gen. Iwanem Sierowem i wkrótce zaczął budować PAX.',
+      'Sam określał swoją przedwojenną Falangę jako organizację faszystowską.',
+      'Jego książkę „Zagadnienia istotne” i tygodnik „Dziś i Jutro” Stolica Apostolska wpisała w 1955 roku na indeks ksiąg zakazanych.',
+      'Śledztwo w sprawie porwania i zabójstwa jego syna Bohdana trwało do 1982 roku – najdłużej w historii PRL.',
     ],
     resources: [
       {
@@ -36419,4 +36456,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1974, event: 'Zegar na wieży Zamku Królewskiego rusza o 11.15 – godzinie zatrzymania z 17 września 1939', category: 'społeczeństwo', entryId: 'zamek-krolewski' },
   { year: 1984, event: '31 sierpnia – zakończenie odbudowy Zamku Królewskiego', category: 'społeczeństwo', entryId: 'zamek-krolewski' },
   { year: 1991, event: 'Rozformowanie WOP (16 maja) – granic strzeże Straż Graniczna', category: 'wojsko', entryId: 'wop' },
+  { year: 1947, event: 'Ursus wypuszcza pierwszy powojenny ciągnik C-45 (30 kwietnia)', category: 'gospodarka', entryId: 'ursus-zaklady' },
+  { year: 1976, event: 'Strajk w Ursusie przeciw podwyżce cen – robotnicy blokują linię kolejową (25 czerwca)', category: 'opozycja', entryId: 'ursus-zaklady' },
+  { year: 1947, event: 'Bolesław Piasecki zakłada Stowarzyszenie PAX', category: 'osoby', entryId: 'piasecki' },
 ];
