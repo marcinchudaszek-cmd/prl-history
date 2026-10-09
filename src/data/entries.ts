@@ -1090,28 +1090,28 @@ Odebrano mu polską emeryturę. Utrzymywał się z renty francuskiej i emerytury
     tags: ['Jaruzelski', 'stan wojenny', 'WRON', 'generał', 'prezydent'],
     yearStart: 1923,
     yearEnd: 2014,
-    summary: 'Wojciech Jaruzelski – generał i polityk, autor stanu wojennego z 13 grudnia 1981, ostatni I sekretarz KC PZPR i pierwszy Prezydent RP po 1989 roku. Postać kontrowersyjna – przez jednych oceniana jako zdrajca, przez innych jako pragmatyczny mąż stanu.',
+    summary: 'Wojciech Jaruzelski – generał, minister obrony (1968–1983), premier i I sekretarz PZPR, twórca stanu wojennego z 13 grudnia 1981 roku, jedyny prezydent PRL i pierwszy prezydent III RP. Jego ocena pozostaje przedmiotem sporu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gen.%20Wojciech%20Jaruzelski%2013%20grudnia%201981.JPG?width=800',
     imageCaption: 'Gen. Wojciech Jaruzelski ogłasza stan wojenny, 13 grudnia 1981 r.',
-    content: `Wojciech Witold Jaruzelski (ur. 6 lipca 1923 – zm. 25 maja 2014) był najważniejszą postacią późnego PRL.
+    content: `## Z dworu na Syberię
+Wojciech Jaruzelski (1923–2014) urodził się w Kurowie w ziemiańskiej, religijnej rodzinie. W 1939 roku rodzina schroniła się na Litwie, a w czerwcu 1941 roku Sowieci deportowali ją na Syberię. W Górach Ałtajskich pracował przy wyrębie lasu i nabawił się ślepoty śnieżnej – stąd ciemne okulary, które stały się jego znakiem rozpoznawczym.
 
-**Kariera wojskowa:**
-Absolwent Akademii Wojskowej w Rembertowie. Szybka kariera – generał brygady w wieku 33 lat, Minister Obrony Narodowej (1968–1983).
+## Kariera w wojsku
+W 1943 roku trafił do szkoły oficerskiej w armii Berlinga i przeszedł szlak bojowy do Łaby. W 1956 roku, mając 33 lata, został generałem brygady – i jako jedyny polski generał opowiadał się wtedy za pozostaniem Rokossowskiego. Był szefem Głównego Zarządu Politycznego, szefem Sztabu Generalnego, a od 1968 do 1983 roku ministrem obrony narodowej. W tym czasie wojsko uczestniczyło w inwazji na Czechosłowację, a w grudniu 1970 roku – w tłumieniu protestów na Wybrzeżu.
 
-**Droga do władzy:**
-- 1981: Premier PRL (luty)
-- 1981: I sekretarz KC PZPR (październik)
-- 13 XII 1981: Ogłoszenie stanu wojennego i powołanie WRON
+## Na szczycie władzy
+W lutym 1981 roku został premierem, a 18 października 1981 roku – I sekretarzem KC PZPR. W nocy z 12 na 13 grudnia 1981 roku stanął na czele Wojskowej Rady Ocalenia Narodowego i wprowadził stan wojenny, który ogłosił w przemówieniu telewizyjnym. WRON kierował do lipca 1983 roku, a w latach 1985–1989 przewodniczył Radzie Państwa.
 
-**Stan wojenny – motywacje:**
-Jaruzelski twierdził, że stan wojenny był "mniejszym złem" – alternatywą byłaby interwencja sowiecka. Historycy są podzieleni: część podziela tę ocenę, inni uważają ją za pretekst dla utrzymania władzy komunistów. Dokumenty z archiwów radzieckich wskazują, że ZSRR nie planował interwencji.
+## Spór o ocenę
+Jaruzelski przekonywał, że stan wojenny był „mniejszym złem” wobec groźby radzieckiej interwencji. Historycy są podzieleni: jedni przyjmują tę argumentację, inni widzą w niej usprawiedliwienie obrony władzy komunistów. Według dokumentów IPN w latach 1946–1954 był informatorem Informacji Wojskowej o pseudonimie „Wolski”, czemu zaprzeczał.
 
-**Okrągły Stół i transformacja:**
-Jaruzelski był jednym z architektów pokojowej transformacji w 1989 roku. Jako Prezydent PRL (1989–1990) przewodniczył przekazaniu władzy.
-
-**Procesy i oskarżenia:**
-W 2008 roku prokuratura IPN oskarżyła Jaruzelskiego o wydanie bezprawnych rozkazów w stanie wojennym. Procesy nie zakończyły się wyrokiem ze względu na stan zdrowia oskarżonego.`,
-    trivia: ['Wprowadzenie stanu wojennego ogłosił w telewizyjnym przemówieniu 13 grudnia 1981.', 'W 1989 roku został pierwszym i jedynym prezydentem PRL.'],
+## Prezydent
+Po Okrągłym Stole Zgromadzenie Narodowe wybrało go 19 lipca 1989 roku prezydentem PRL; od 31 grudnia 1989 roku był prezydentem RP. Jego kadencja wygasła 22 grudnia 1990 roku, gdy urząd objął Lech Wałęsa. Pion śledczy IPN oskarżył go o udział w związku przestępczym przy wprowadzaniu stanu wojennego, ale z powodu stanu zdrowia sprawa nie zakończyła się wyrokiem.`,
+    trivia: [
+      'Ciemne okulary nosił z powodu ślepoty śnieżnej, której nabawił się na zesłaniu w Górach Ałtajskich.',
+      'Był jedynym prezydentem PRL i zarazem pierwszym prezydentem III Rzeczypospolitej.',
+      'Na I sekretarza KC PZPR wybrano go w październiku 1981 roku 180 głosami przy 4 przeciwnych.',
+    ],
     resources: [
       {
         id: 'jaruzelski-encysol',
@@ -19494,21 +19494,28 @@ Zamach wzmocnił symboliczną pozycję papieża wśród Polaków na kilka miesi�
     tags: ['represje', 'kościół', 'stalinizm', 'proces pokazowy'],
     yearStart: 1953,
     yearEnd: 1953,
-    summary: 'Pokazowy proces księży kurii krakowskiej w 1953 roku, element stalinowskiej kampanii zastraszania Kościoła, z wyrokami śmierci i wieloletniego więzienia.',
+    summary: 'Pokazowy proces czterech księży kurii krakowskiej i trzech osób świeckich (21–27 stycznia 1953), oskarżonych o szpiegostwo dla USA; zapadły trzy wyroki śmierci, zamienione na dożywocie.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stalinizm_-_proces_Kurii_Krakowskiej_%281953%29.jpg?width=800',
     imageCaption: 'Oskarżeni księża podczas pokazowego procesu kurii krakowskiej, styczeń 1953',
-    content: `## Proces
-W styczniu 1953 roku przed sądem wojskowym w Krakowie stanęli księża kurii metropolitalnej i osoby świeckie, oskarżeni o szpiegostwo na rzecz Stanów Zjednoczonych oraz działalność wywrotową. Był to proces pokazowy, przygotowany propagandowo i szeroko relacjonowany w prasie.
+    content: `## Prowokacja
+Aparat bezpieczeństwa wykorzystał siatkę informatorów, którą w kraju budował emigracyjny działacz Józef Szponder, były żołnierz Narodowej Organizacji Wojskowej. Wciągnął on do współpracy ks. Józefa Lelitę oraz Edwarda Chachlicę i Michała Kowalika. Aresztowany jesienią 1952 roku ks. Lelito po brutalnym śledztwie zeznał, niezgodnie z prawdą, że zwerbował księży z kurii krakowskiej.
+
+## Rewizja w kurii
+Złamani w śledztwie zatrzymani zeznawali, że kuria realizowała antypolską politykę Watykanu i liczyła na wojnę. W siedzibie kurii zarekwirowano dzieła sztuki, ponad 30 tysięcy dolarów oraz dokumenty i przedmioty z ekshumacji w Katyniu z 1943 roku. W grudniu 1952 roku aresztowano i usunięto z Krakowa abp. Eugeniusza Baziaka.
+
+## Proces
+Proces przed Wojskowym Sądem Rejonowym w Krakowie trwał od 21 do 27 stycznia 1953 roku w hali Zakładów Szadkowskiego. Oskarżał naczelny prokurator wojskowy Stanisław Zarakowski. Oskarżonych przedstawiono jako agentów wywiadu amerykańskiego.
 
 ## Wyroki
-Zapadły wyroki śmierci, później zamienione na kary długoletniego więzienia, oraz szereg wysokich wyroków pozbawienia wolności. Materiał dowodowy opierał się na zeznaniach uzyskanych w śledztwie prowadzonym metodami stosowanymi wobec więźniów politycznych.
+Sąd skazał na śmierć ks. Józefa Lelitę, Edwarda Chachlicę i Michała Kowalika; w sierpniu 1953 roku Rada Państwa zamieniła te wyroki na dożywocie. Ks. Franciszek Szymonek dostał dożywocie, notariusze kurii ks. Wit Brzycki i ks. Jan Pochopień – 15 i 8 lat, Stefania Rospond – 6 lat. Ks. Józef Fudali, tak zmaltretowany, że nie nadawał się do pokazowego procesu, został skazany osobno i zmarł w więzieniu w 1955 roku.
 
-## Non possumus
-Proces był częścią szerokiej kampanii przeciw Kościołowi. W odpowiedzi na dekret o obsadzaniu duchownych stanowisk kościelnych i na kolejne procesy Episkopat wystosował w maju 1953 roku memoriał znany od słów „Non possumus” – deklarację, że w sprawach sumienia ustępstw nie będzie.
-
-## Konsekwencje
-We wrześniu 1953 roku skazano biskupa kieleckiego Czesława Kaczmarka, a wkrótce internowano prymasa Stefana Wyszyńskiego. Rok 1953 był kulminacją konfrontacji państwa z Kościołem – i punktem, po którym władze zaczęły szukać innych metod niż otwarta rozprawa sądowa.`,
-    trivia: ['Pokazowy proces z 1953 roku uderzał wprost w Kościół katolicki.', 'Wkrótce po nim aresztowano prymasa Stefana Wyszyńskiego.'],
+## Tło i skutki
+8 lutego 1953 roku krakowski oddział Związku Literatów Polskich przyjął rezolucję potępiającą skazanych. W maju Episkopat odpowiedział na prześladowania memoriałem „Non possumus”. We wrześniu 1953 roku skazano biskupa kieleckiego Czesława Kaczmarka, a wkrótce internowano prymasa Stefana Wyszyńskiego.`,
+    trivia: [
+      'W kurii skonfiskowano m.in. przedmioty wydobyte podczas ekshumacji w Katyniu w 1943 roku.',
+      'Proces odbywał się w hali widowiskowej Zakładów Szadkowskiego w Krakowie.',
+      'Krakowscy pisarze przyjęli 8 lutego 1953 roku rezolucję potępiającą skazanych księży.',
+    ],
     resources: [
       {
         id: 'pkk-1',
@@ -31385,20 +31392,24 @@ Razem z „Rejsem” i „Hydrozagadką” film utrwalił typ polskiego humoru o
     summary: 'Wokalistka jazzowa światowej sławy, mistrzyni improwizacji głosem; jej utwór „Papaya” stał się światowym przebojem.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Urszula_Dudziak_2008.jpg?width=800',
     imageCaption: 'Urszula Dudziak (fot. współczesna)',
-    content: `## Głos jako instrument
-Urszula Dudziak (ur. 1943) zbudowała karierę na traktowaniu głosu jak instrumentu: zamiast śpiewać słowa, operuje dźwiękiem, oddechem i szmerem, przepuszczając głos przez efekty elektroniczne. W latach 70. było to rozwiązanie nowatorskie w skali światowej.
+    content: `## Od akordeonu do jazzu
+Urszula Dudziak urodziła się w 1943 roku w Straconce koło Bielska, dorastała w Gubinie, Nowej Soli i Zielonej Górze. Uczyła się gry na akordeonie i pianinie, a jazzem zainteresowała się jako czternastolatka, słysząc w radiu Ellę Fitzgerald. Jej starszy brat Leszek był perkusistą jazzowym.
 
-## Papaya
-Największą rozpoznawalność przyniósł jej utwór „Papaya”, który po latach zyskał drugie życie w internecie i stał się przebojem w Azji Południowo-Wschodniej – przypadek polskiego nagrania z epoki PRL, które trafiło do globalnej kultury masowej zupełnie inną drogą, niż zakładali jego twórcy.
+## Lata 60.
+W 1958 roku zaczęła śpiewać z zespołem Krzysztofa Komedy i nagrała „Nie jest źle”. W 1963 roku Agnieszka Osiecka i Jan Ptaszyn Wróblewski napisali dla niej „Ulice wielkich miast”, za które dostała wyróżnienie na pierwszym festiwalu w Opolu. Od 1964 roku współpracowała z Michałem Urbaniakiem, który w 1967 roku został jej mężem; występowała na Jazz Jamboree.
 
-## Wyjazd
-W połowie lat 70. wyjechała z Michałem Urbaniakiem do Stanów Zjednoczonych i weszła w tamtejsze środowisko jazzowe. Współpracowała m.in. z Bobbym McFerrinem i Florą Purim. Dla polskiej publiczności pozostała obecna dzięki płytom i sporadycznym koncertom.
+## Głos jak instrument
+Od 1971 roku śpiewała bez słów, przetwarzając głos elektronicznie. Debiutancki album „Newborn Light” z Adamem Makowiczem dostał od magazynu „DownBeat” najwyższą ocenę.
 
-## Kontekst
-Wyjazd artysty na Zachód był w PRL decyzją obciążoną ryzykiem: oznaczał zależność od zgody na paszport, a w razie pozostania za granicą – zniknięcie z oficjalnego obiegu w kraju. Jazz dawał tu więcej swobody niż piosenka, bo mniej nadawał się na nośnik propagandy.`,
+## Ameryka i Papaya
+W 1973 roku wyjechała z Urbaniakiem do Nowego Jorku, występowała m.in. na Newport Jazz Festival i w Carnegie Hall. W 1975 roku wydała album „Urszula”, z którego pochodzi jej najsłynniejszy utwór „Papaya”; w 1976 roku trafił do czołówki brazylijskiej telenoweli „Anjo Mau”. W 1979 roku „Los Angeles Times” uznał ją za piosenkarkę roku.
+
+## Lata 80.
+W 1981 roku z Bobbym McFerrinem i innymi wokalistami tworzyła zespół Vocal Summit, a z Jerzym Kosińskim przygotowała program „Future Talk”. Nagrała ponad 50 albumów; współpracowała też ze Stingiem i Florą Purim.`,
     trivia: [
-      'Posługuje się głosem jak instrumentem – zamiast tekstu używa dźwięków przetwarzanych elektronicznie.',
-      'Jej „Papaya” po latach stała się przebojem w Azji Południowo-Wschodniej dzięki internetowi.',
+      '„Papaya” trafiła w 1976 roku do czołówki brazylijskiej telenoweli „Anjo Mau”.',
+      'W 1979 roku „Los Angeles Times” uznał ją za piosenkarkę roku.',
+      'Jazzem zainteresowała się jako czternastolatka, słysząc w radiu Ellę Fitzgerald.',
     ],
     resources: [
       {
@@ -32460,19 +32471,23 @@ Ustawa z 1984 roku nadała komisji nowe kompetencje: miała analizować funkcjon
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Be%C5%82chat%C3%B3w_Elektrownia.jpg?width=800',
     imageCaption: 'Elektrownia Bełchatów',
     content: `## Węgiel jako podstawa
-Energetyka PRL opierała się na węglu kamiennym i brunatnym. Elektrownie budowano przy kopalniach albo przy dużych rzekach, a sieć wysokiego napięcia rozwijano razem z nowymi kombinatami przemysłowymi. Największą inwestycją stał się kompleks Bełchatowa – odkrywka węgla brunatnego i elektrownia, które ruszyły na przełomie lat 70. i 80.
+Energetyka PRL opierała się na węglu kamiennym i brunatnym. Elektrownie budowano przy kopalniach albo przy dużych rzekach, a sieć wysokiego napięcia rozwijano razem z nowymi kombinatami przemysłowymi.
+
+## Bełchatów
+Największą inwestycją był kompleks w Bełchatowie: odkrywkowa kopalnia węgla brunatnego i elektrownia w Rogowcu, w gminie Kleszczów. Jej bloki o mocy około 370 MW każdy oddawano do użytku w latach 1981–1988. Węgiel dostarczano z odkrywki przenośnikami taśmowymi. Elektrownia stała się największą w Europie elektrownią na węgiel brunatny – i jednym z największych emitentów zanieczyszczeń.
 
 ## Przemysł przede wszystkim
-Priorytet miał przemysł ciężki, a gospodarstwa domowe traktowano jako odbiorcę drugiej kategorii. W okresach kryzysu wprowadzano ograniczenia w dostawach energii, wyłączenia i tak zwane stopnie zasilania, a mieszkańcy poznawali harmonogramy przerw w dostawie prądu.
+Priorytet miał przemysł ciężki, a gospodarstwa domowe traktowano jako odbiorcę drugiej kategorii. W okresach kryzysu wprowadzano ograniczenia dostaw, wyłączenia i tak zwane stopnie zasilania.
 
-## Elektrownia jądrowa w Żarnowcu
-W latach 80. rozpoczęto budowę pierwszej polskiej elektrowni jądrowej w Żarnowcu. Po katastrofie w Czarnobylu w 1986 roku inwestycja stała się przedmiotem protestów, a w 1990 roku ją przerwano.
+## Żarnowiec
+W 1982 roku nad Jeziorem Żarnowieckim, w miejscu zlikwidowanej wsi Kartoszyno, zaczęto budować pierwszą polską elektrownię jądrową. Miała mieć cztery bloki z radzieckimi reaktorami WWER-440, o łącznej mocy około 1600 MW; w planach była też druga elektrownia, „Warta”, w Klempiczu. Po katastrofie w Czarnobylu w 1986 roku sprzeciw społeczny wzrósł; w referendum mieszkańców województwa 86 procent głosujących opowiedziało się przeciw. Po 1989 roku, przy załamaniu produkcji przemysłowej i nadmiarze energii, budowę przerwano.
 
 ## Koszt środowiskowy
 Rachunkiem za taki model był smog w miastach przemysłowych, kwaśne deszcze niszczące lasy w Sudetach i jedne z najwyższych w Europie emisje dwutlenku siarki. Skalę zniszczeń zaczęto opisywać publicznie dopiero pod koniec lat 80.`,
     trivia: [
-      'Kompleks Bełchatowa – kopalnia odkrywkowa i elektrownia – powstał na terenie, z którego wysiedlono kilka wsi.',
-      'Zamiast wyłączeń prądu ogłaszano „stopnie zasilania” – im wyższy stopień, tym mniej energii dla zakładów i mieszkań.',
+      'Elektrownię jądrową w Żarnowcu budowano w miejscu zlikwidowanej wsi Kartoszyno.',
+      'W referendum przeciw budowie elektrowni w Żarnowcu opowiedziało się 86 procent głosujących mieszkańców województwa.',
+      'Węgiel z odkrywki do elektrowni Bełchatów transportowano przenośnikami taśmowymi.',
     ],
     resources: [
       {
@@ -32985,19 +33000,23 @@ Na konferencji jałtańskiej 10 lutego 1945 roku mocarstwa uzgodniły, że nowy 
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Manifestacja_na_cze%C5%9B%C4%87_Tymczasowego_Rz%C4%85du_Jedno%C5%9Bci_Narodowej_w_Warszawie_1945.jpg?width=800',
     imageCaption: 'Manifestacja na cześć Tymczasowego Rządu Jedności Narodowej',
     content: `## Skąd się wziął
-Konferencja jałtańska zobowiązała do przebudowy Rządu Tymczasowego przez włączenie doń polityków demokratycznych z kraju i z emigracji. Po rozmowach w Moskwie w czerwcu 1945 roku prezydent KRN Bolesław Bierut powołał 28 czerwca Tymczasowy Rząd Jedności Narodowej.
+Konferencja jałtańska zobowiązała do przebudowy Rządu Tymczasowego przez włączenie polityków z kraju i emigracji. Po rozmowach w Moskwie 17–21 czerwca 1945 roku – toczących się równolegle z procesem szesnastu – prezydent KRN Bolesław Bierut powołał 28 czerwca Tymczasowy Rząd Jedności Narodowej. Premierem pozostał Edward Osóbka-Morawski.
 
-## Skład
-Do rządu weszli, obok komunistów i ich sojuszników, Stanisław Mikołajczyk jako wicepremier i minister rolnictwa oraz działacz ruchu ludowego Władysław Kiernik, a także część polityków PPS i przedstawiciele środowisk naukowych. Kluczowe resorty – bezpieczeństwo, obrona, administracja – pozostały jednak w rękach komunistów.
+## Proporcje
+Uzgodniono, że ludzie Mikołajczyka dostaną 25 procent tek ministerialnych – podobnie jak w porozumieniu Tito–Šubašić w Jugosławii. Mikołajczyk został wicepremierem i ministrem rolnictwa, Władysław Kiernik ministrem administracji publicznej. Wicepremierem był też Władysław Gomułka, a kluczowe resorty – bezpieczeństwo publiczne Stanisława Radkiewicza, przemysł Hilarego Minca – pozostały u komunistów. Wiceprezydentami KRN zostali Wincenty Witos i Stanisław Grabski.
 
-## Skutek dyplomatyczny
-Powstanie TRJN pozwoliło mocarstwom zachodnim uznać nowe władze i cofnąć uznanie rządowi na uchodźstwie, co nastąpiło 5 lipca 1945 roku. Dla Polski Podziemnej oznaczało to utratę międzynarodowego oparcia, na którym opierała swoją legalność.
+## Uznanie
+29 czerwca rząd uznały Szwecja i Francja, 5 lipca 1945 roku – USA i Wielka Brytania, które cofnęły uznanie rządowi w Londynie. Watykan, Hiszpania, Irlandia i Portugalia odmówiły. 16 października 1945 roku TRJN podpisał Kartę Narodów Zjednoczonych, dzięki czemu Polska stała się członkiem założycielem ONZ.
+
+## Granice
+Delegacja TRJN uczestniczyła w konferencji poczdamskiej, a rząd przejął od Rosjan resztę Ziem Zachodnich i Północnych, w tym Szczecin. 16 sierpnia 1945 roku zawarł z ZSRR umowę uznającą nieco zmodyfikowaną linię Curzona za wschodnią granicę.
 
 ## Rozkład
-Rząd przetrwał do wyborów w styczniu 1947 roku. Były to półtora roku narastającego konfliktu: PSL Mikołajczyka poddano nasilającym się represjom, a jego działaczy aresztowaniom. Po sfałszowanych wyborach Mikołajczyk musiał uciekać z kraju.`,
+Rząd przetrwał do 6 lutego 1947 roku. Było to półtora roku narastającego konfliktu: PSL Mikołajczyka poddano represjom, a wybory w styczniu 1947 roku sfałszowano. Jesienią 1947 roku Mikołajczyk uciekł z kraju.`,
     trivia: [
-      'Uznanie TRJN przez Zachód 5 lipca 1945 roku oznaczało cofnięcie uznania rządowi RP w Londynie.',
-      'Mikołajczyk otrzymał tekę rolnictwa, ale bezpieczeństwo, wojsko i administracja pozostały u komunistów.',
+      'Ludziom Mikołajczyka przyznano 25 procent tek – według tego samego klucza co w powojennym rządzie Jugosławii.',
+      'Rządu TRJN nie uznały m.in. Watykan, Hiszpania, Irlandia i Portugalia.',
+      'Kartę Narodów Zjednoczonych TRJN podpisał 16 października 1945 roku, dzięki czemu Polska jest członkiem założycielem ONZ.',
     ],
     resources: [
       {
@@ -33524,20 +33543,24 @@ Ujawnienia Józefa Światły i referat Chruszczowa na XX Zjeździe KPZR podcię�
     summary: 'Ekonomista, który faktycznie kierował polityką gospodarczą państwa w pierwszej dekadzie PRL – autor bitwy o handel i planu sześcioletniego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Hilary_Minc_1949.jpg?width=800',
     imageCaption: 'Hilary Minc, 1949',
-    content: `## Droga do władzy
-Hilary Minc (1905–1974) był ekonomistą, w partii komunistycznej od 1921 roku. Wojnę spędził w ZSRR, a w grudniu 1944 roku objął resort przemysłu w PKWN. Jako minister przemysłu, a potem przemysłu i handlu, przez dekadę faktycznie kierował gospodarką kraju.
+    content: `## Komunista od młodości
+Hilary Minc (1905–1974) urodził się w Kazimierzu Dolnym w rodzinie żydowskiej. Od 1921 roku należał do partii komunistycznej. Studiował prawo i ekonomię, doktoryzował się we Francji, skąd w 1928 roku go wydalono. W latach 30. pracował w Głównym Urzędzie Statystycznym, aż w 1937 roku usunięto go za działalność komunistyczną.
+
+## Wojna
+W 1939 roku uciekł do Lwowa, potem do Samarkandy, gdzie wykładał ekonomię. Współtworzył Związek Patriotów Polskich i 1 Dywizję im. Kościuszki, był oficerem politycznym i walczył pod Lenino. W 1944 roku wszedł do ścisłego kierownictwa komunistów i uczestniczył w tworzeniu PKWN.
+
+## Dyktator gospodarki
+11 grudnia 1944 roku objął resort przemysłu PKWN, a potem był ministrem przemysłu oraz przemysłu i handlu. Od 1949 roku kierował Państwową Komisją Planowania Gospodarczego i był wicepremierem. Razem z Bierutem i Bermanem tworzył najściślejsze kierownictwo PZPR; zasiadał też w Komisji Bezpieczeństwa KC nadzorującej aparat represji.
 
 ## Bitwa o handel
-To on w 1947 roku ogłosił bitwę o handel – kampanię wymierzoną w prywatny handel i drobną wytwórczość, prowadzoną domiarami podatkowymi, kontrolami i szykanami. W ciągu kilku lat zlikwidowała ona sektor, który po wojnie odbudował zaopatrzenie miast.
+W 1947 roku ogłosił bitwę o handel – kampanię przeciw prywatnemu handlowi i drobnej wytwórczości, prowadzoną domiarami podatkowymi, kontrolami i szykanami. W ciągu kilku lat zlikwidowała sektor, który po wojnie odbudował zaopatrzenie miast.
 
 ## Plan sześcioletni
-Minc odpowiadał za plan sześcioletni 1950–1955, przestawiający gospodarkę na przemysł ciężki i zbrojeniowy kosztem konsumpcji i rolnictwa. Był to zwrot wobec wcześniejszego planu trzyletniego, opracowanego w Centralnym Urzędzie Planowania, którego koncepcje odrzucono jako odstępstwo od socjalizmu.
-
-## Koniec
-Odsunięty w 1956 roku wraz z resztą stalinowskiego kierownictwa. Model gospodarczy, który zbudował – centralne rozdzielnictwo, prymat przemysłu ciężkiego, marginalizacja prywatnej inicjatywy – przetrwał go jednak o ponad trzydzieści lat.`,
+Minc był autorem planu sześcioletniego 1950–1955, przestawiającego gospodarkę na przemysł ciężki i zbrojeniowy kosztem konsumpcji i rolnictwa. Odsunięty w 1956 roku, zostawił model – centralne rozdzielnictwo, prymat przemysłu ciężkiego, marginalizację prywatnej inicjatywy – który przetrwał go o ponad trzydzieści lat.`,
     trivia: [
-      'Ogłoszona przez niego w 1947 roku bitwa o handel zlikwidowała prywatny handel domiarami podatkowymi, bez formalnej nacjonalizacji.',
-      'Zbudowany przez niego model gospodarczy przetrwał jego odejście o ponad trzydzieści lat.',
+      'Przed wojną pracował w GUS, gdzie m.in. przeprowadził spis ludności Gdyni w 1935 roku.',
+      'Walczył pod Lenino jako oficer polityczny 1 Dywizji im. Kościuszki.',
+      'Ogłoszona przez niego w 1947 roku bitwa o handel zlikwidowała prywatny handel bez formalnej nacjonalizacji.',
     ],
     resources: [
       {
@@ -33956,20 +33979,24 @@ W grudniu 1954 roku rozwiązano Ministerstwo Bezpieczeństwa Publicznego, a czę
     summary: 'Marszałek Związku Radzieckiego skierowany do Polski w 1949 roku jako minister obrony narodowej i marszałek Polski – symbol podporządkowania wojska Moskwie.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%B0%D1%80%D1%88%D0%B0%D0%BB_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%A1%D0%BE%D1%8E%D0%B7%D0%B0_%D0%B4%D0%B2%D0%B0%D0%B6%D0%B4%D1%8B_%D0%93%D0%B5%D1%80%D0%BE%D0%B9_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%A1%D0%BE%D1%8E%D0%B7%D0%B0_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_%D0%A0%D0%BE%D0%BA%D0%BE%D1%81%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpg?width=800',
     imageCaption: 'Marszałek Konstanty Rokossowski',
-    content: `## Kim był
-Konstanty Rokossowski (1896–1968) urodził się w Warszawie, ale całą karierę zrobił w armii radzieckiej: dowodził frontami w czasie wojny z Niemcami, był dwukrotnym Bohaterem Związku Radzieckiego i marszałkiem ZSRR. Przed wojną przeszedł przez stalinowskie więzienie w okresie wielkiej czystki.
+    content: `## Warszawiak w Armii Czerwonej
+Konstanty Rokossowski (1896–1968) urodził się w Warszawie jako syn polskiego kolejarza. Walczył w I wojnie światowej w armii rosyjskiej, potem w wojnie domowej po stronie bolszewików, i zrobił karierę w Armii Czerwonej.
+
+## Więzień czystki
+W sierpniu 1937 roku aresztowano go pod zarzutem szpiegostwa dla Japonii i Polski. W więzieniu w Leningradzie był torturowany – wybito mu zęby, złamano żebra, pozorowano egzekucje – ale nie przyznał się. Wypuszczono go w marcu 1940 roku.
+
+## Wielki dowódca
+W czasie wojny bronił Moskwy, walczył pod Stalingradem, był autorem operacji „Bagration”, zdobywał Prusy Wschodnie, Pomorze i Berlin. Został marszałkiem ZSRR i dwukrotnym Bohaterem Związku Radzieckiego; uchodzi za jednego z najlepszych dowódców II wojny światowej.
 
 ## Przysłany do Polski
-W 1949 roku Stalin skierował go do Polski. Rokossowski został ministrem obrony narodowej, marszałkiem Polski, wicepremierem i członkiem Biura Politycznego. Wraz z nim przybyły setki radzieckich oficerów, obsadzających stanowiska dowódcze w Wojsku Polskim.
-
-## Co to oznaczało
-Był to najbardziej jawny przejaw zwierzchnictwa Moskwy nad Polską: obroną kraju kierował oficer, który jednocześnie pozostawał marszałkiem obcego państwa. W tym samym okresie prowadzono czystki wśród przedwojennych i akowskich oficerów.
+W 1949 roku Stalin skierował go do Polski. Rokossowski został ministrem obrony narodowej i marszałkiem Polski, od 1950 roku członkiem Biura Politycznego, od 1952 roku wicepremierem. W tym czasie stalinizowano wojsko i usuwano z niego przedwojennych oraz akowskich oficerów, a dowództwa obsadzali oficerowie radzieccy.
 
 ## Odejście
-Podczas VIII Plenum w październiku 1956 roku jego pozostanie w Polsce stało się jednym z głównych punktów spornych. Rokossowski wrócił do ZSRR i został wiceministrem obrony. Jego wyjazd był dla opinii publicznej najbardziej czytelnym znakiem, że coś się zmieniło.`,
+W październiku 1956 roku jego obecność w kierownictwie stała się jednym z głównych punktów sporu. Nie wszedł do nowego Biura Politycznego i wrócił do ZSRR, gdzie był później wiceministrem obrony. Jego wyjazd był dla Polaków najbardziej czytelnym znakiem Października. Do końca życia czytał polską prasę, a swoje 70. urodziny spędził w polskim mundurze.`,
     trivia: [
       'Był jednocześnie marszałkiem Polski i marszałkiem Związku Radzieckiego.',
-      'Jego wyjazd z Polski w 1956 roku odebrano jako najbardziej namacalny efekt Października.',
+      'W stalinowskim więzieniu, mimo tortur, nie podpisał zeznania, że jest „polskim szpiegiem”.',
+      'Do końca życia prenumerował polskie gazety, m.in. „Trybunę Ludu” i „Życie Warszawy”.',
     ],
     resources: [
       {
@@ -36107,7 +36134,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1982, event: 'Zbrodnia lubińska – milicja strzela do demonstrantów, giną trzy osoby', category: 'represje', entryId: 'lubin-1982' },
   { year: 1982, event: 'Pierwsze audycje podziemnego Radia Solidarność', category: 'opozycja', entryId: 'radio-solidarnosc' },
   { year: 1984, event: 'Strajk okupacyjny uczniów w Miętnem w obronie krzyży (7 marca – 6 kwietnia)', category: 'opozycja', entryId: 'obrona-krzyzy' },
-  { year: 1953, event: 'Proces kurii krakowskiej – pokazowy proces przeciw duchownym', category: 'represje', entryId: 'proces-kurii-krakowskiej' },
+  { year: 1953, event: 'Proces kurii krakowskiej (21–27 stycznia) – trzy wyroki śmierci dla oskarżonych o szpiegostwo', category: 'represje', entryId: 'proces-kurii-krakowskiej' },
   { year: 1964, event: 'Afera mięsna – proces w trybie doraźnym przed sądem w Warszawie', category: 'gospodarka', entryId: 'afera-miesna' },
   { year: 1965, event: 'Stracenie Stanisława Wawrzeckiego, skazanego w aferze mięsnej (19 marca)', category: 'gospodarka', entryId: 'afera-miesna' },
   { year: 1970, event: 'Proces taterników (9–24 lutego) – do 4,5 roku więzienia za przemyt paryskiej „Kultury”', category: 'opozycja', entryId: 'proces-taternikow' },
@@ -36277,7 +36304,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1974, event: 'Columbia Records wydaje w USA album „Fusion” Michała Urbaniaka', category: 'kultura', entryId: 'michal-urbaniak' },
   { year: 1965, event: 'Beata Tyszkiewicz w „Rękopisie znalezionym w Saragossie”', category: 'kultura', entryId: 'beata-tyszkiewicz' },
   { year: 1973, event: 'Premiera „Wniebowziętych” Andrzeja Kondratiuka', category: 'kultura', entryId: 'wniebowzieci' },
-  { year: 1974, event: 'Urszula Dudziak – „Papaya” i światowa kariera wokalna', category: 'kultura', entryId: 'urszula-dudziak' },
+  { year: 1975, event: 'Urszula Dudziak wydaje w USA album „Urszula” z utworem „Papaya”', category: 'kultura', entryId: 'urszula-dudziak' },
   { year: 1975, event: 'Wojciech Pszoniak jako Moryc Welt w „Ziemi obiecanej”', category: 'kultura', entryId: 'wojciech-pszoniak' },
   { year: 1981, event: 'Ukończenie „Kobiety samotnej” Agnieszki Holland – film trafia na półkę', category: 'kultura', entryId: 'kobieta-samotna' },
   { year: 1982, event: 'Odwołany festiwal w Gdańsku – rocznik filmów trafia na półki', category: 'kultura', entryId: 'polkowniki' },
@@ -36606,4 +36633,5 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1989, event: '15 marca – nowe prawo dewizowe legalizuje kantory, koniec ery cinkciarzy', category: 'gospodarka', entryId: 'czarny-rynek' },
   { year: 1978, event: 'Bajm debiutuje w Opolu piosenką „Piechotą do lata”', category: 'kultura', entryId: 'bajm-zespol' },
   { year: 1943, event: '12–13 października – bitwa pod Lenino, pierwsza walka 1 Dywizji im. Kościuszki', category: 'wojsko', entryId: 'lwp' },
+  { year: 1982, event: 'Rusza budowa Elektrowni Jądrowej Żarnowiec', category: 'gospodarka', entryId: 'energetyka-prl' },
 ];
