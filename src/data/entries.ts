@@ -36677,5 +36677,4 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1943, event: '12–13 października – bitwa pod Lenino, pierwsza walka 1 Dywizji im. Kościuszki', category: 'wojsko', entryId: 'lwp' },
   { year: 1982, event: 'Rusza budowa Elektrowni Jądrowej Żarnowiec', category: 'gospodarka', entryId: 'energetyka-prl' },
   { year: 1980, event: 'Jacek Wszoła ustanawia rekord świata w skoku wzwyż – 2,35 m', category: 'społeczeństwo', entryId: 'jacek-wszola' },
-  { year: 1968, event: '8 września – samospalenie Ryszarda Siwca na Stadionie Dziesięciolecia w proteście przeciw inwazji', category: 'opozycja', entryId: 'operacja-dunaj' },
 ];
