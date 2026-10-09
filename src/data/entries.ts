@@ -3563,23 +3563,29 @@ Oszukańcze referendum utorowało drogę do sfałszowanych wyborów w styczniu 1
     category: 'polityka',
     tags: ['wybory 1947', 'Sejm Ustawodawczy', 'PSL', 'Mikołajczyk', 'PPR', 'fałszerstwo'],
     yearStart: 1947,
+    yearEnd: 1947,
     summary: 'Wybory do Sejmu Ustawodawczego z 19 stycznia 1947 roku – jedne z najbardziej sfałszowanych wyborów w historii Polski. PPR i Blok Demokratyczny oficjalnie uzyskały 80% głosów. Sfałszowane wyniki zakończyły demokratyczną opozycję i umożliwiły komunistom pełne przejęcie władzy.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Prezydent_Bierut_1947_%28cropped%29.png?width=800',
     imageCaption: 'Bolesław Bierut, wybrany prezydentem przez Sejm Ustawodawczy po sfałszowanych wyborach 1947 roku',
-    content: `Wybory do Sejmu Ustawodawczego odbyły się 19 stycznia 1947 roku. Ich przebieg i wyniki były wynikiem masowych fałszerstw przygotowanych przez aparat komunistyczny przy wsparciu sowieckiego NKWD.
+    content: `## Obietnica z Jałty i Poczdamu
+Konferencja jałtańska przewidywała, że władza w Polsce zostanie potwierdzona w wolnych wyborach. W Poczdamie Bolesław Bierut zobowiązał się na piśmie przeprowadzić je na początku 1946 roku. Komuniści, świadomi braku poparcia, odwlekali głosowanie – najpierw sfałszowali referendum z czerwca 1946 roku, a wybory do Sejmu Ustawodawczego wyznaczyli na 19 stycznia 1947 roku.
 
-**Klimat terroru przed wyborami:**
-W kampanii wyborczej PSL Stanisława Mikołajczyka było systematycznie rozbijane – działaczy aresztowano, bito, mordowano. Zlikwidowano ok. 100 000 członków PSL. Wielu kandydatów opozycyjnych skreślono z list. Wojsko, milicja i UB inwigilowały lokale wyborcze.
+## Partie koncesjonowane
+PPR odtworzyła pod starymi nazwami partie satelickie – PPS, Stronnictwo Ludowe i Stronnictwo Demokratyczne – i stworzyła z nimi Blok Demokratyczny. Stronnictwu Narodowemu odmówiono legalizacji. Jedyną realną opozycją było PSL Stanisława Mikołajczyka.
 
-**Fałszerstwo:**
-Oficjalne wyniki: PPR i Blok Demokratyczny – 80,1%, PSL – 10,3%. Dokumenty późniejszych badań wskazują, że autentyczne poparcie PSL przekraczało 60–70%. Komisje wyborcze były kontrolowane przez aparat bezpieczeństwa.
+## Terror przed wyborami
+W kampanii aresztowano 50–60 tysięcy działaczy i sympatyków PSL, a bojówki PPR i UB zamordowały około 200 członków stronnictwa. Unieważniono dziesięć list PSL w 52 okręgach, a 409 326 osób pozbawiono prawa głosu. Agenci UB stanowili prawie połowę składu komisji obwodowych, a 3515 komisji złożono wyłącznie z członków PPR.
 
-**Konsekwencje:**
-Sfałszowane wybory zamknęły okres pozornej koalicji i otworzyły drogę do pełnej stalinizacji. W lutym 1947 roku Bolesław Bierut objął urząd Prezydenta RP. W październiku 1947 roku Mikołajczyk uciekł z Polski, ratując się przed aresztowaniem.
+## Fałszerstwo
+Na prośbę Bieruta do Warszawy przyjechała ekipa sowieckiego specjalisty od fałszowania dokumentów, płk. Arona Pałkina. Zamieniano urny, dosypywano karty, a tam, gdzie nie było mężów zaufania PSL, „trójki” PPR wypisywały nowe protokoły. Oficjalnie Blok zdobył 80,1 procent głosów, a PSL 10,3 procent.
 
-**Przejęcie pełni władzy:**
-W 1948 roku PPR połączyła się z PPS (pod przymusem), tworząc PZPR. Polska stała się jednopartyjnym państwem komunistycznym na wzór sowiecki.`,
-    trivia: ['Wybory sfałszowano, zapewniając zwycięstwo blokowi komunistów.', 'Po nich Stanisław Mikołajczyk musiał uciekać z kraju.'],
+## Prawdziwy wynik
+Prawdziwego wyniku nie da się odtworzyć. W stu obwodach, z których zachowały się dane, PSL dostało 63 procent, a Blok 27 procent; według danych NKWD dla Stalina Blok zdobył w kraju około 50 procent. W lutym 1947 roku Sejm wybrał Bieruta na prezydenta, a w październiku Mikołajczyk uciekł z kraju przed aresztowaniem. W grudniu 1948 roku PPR wchłonęła PPS.`,
+    trivia: [
+      'Do fałszowania wyborów sprowadzono z Moskwy ekipę płk. Arona Pałkina, specjalisty od preparowania dokumentów.',
+      'Przed wyborami pozbawiono prawa głosu 409 326 osób.',
+      'W stu obwodach, z których zachowały się prawdziwe dane, PSL dostało 63 procent głosów, a Blok Demokratyczny 27 procent.',
+    ],
     resources: [
       {
         id: 'wybory-1947-pkf',
@@ -8794,29 +8800,28 @@ Tischner zachorował na raka mózgu i umarł w 2000 r. Jego twórczość – "My
     tags: ['animacja', 'Bolek i Lolek', 'Reksio', 'Miś Uszatek', 'Se-ma-for', 'SMF', 'dzieci', 'film'],
     yearStart: 1957,
     yearEnd: 1989,
-    summary: 'Polska animacja PRL należała do najwybitniejszych na świecie. Studio Miniatur Filmowych i Se-ma-for wyprodukowały dziesiątki seriali podziwianych nie tylko w Polsce, ale i na Zachodzie. Bolek i Lolek, Reksio, Miś Uszatek to ikony całego pokolenia.',
+    summary: 'Złoty wiek polskiej animacji: Studio Filmów Rysunkowych w Bielsku-Białej, Se-ma-for i Studio Miniatur Filmowych – od „Bolka i Lolka”, „Reksia” i „Misia Uszatka” po filmy artystyczne nagradzane na świecie.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bielsko-Bia%C5%82a%2C_Studio_Film%C3%B3w_Rysunkowych_-_Centrum_Bajki_i_Animacji_OKO%2C_ekspozycja_sta%C5%82a_01.jpg?width=800',
     imageCaption: 'Ekspozycja Studia Filmów Rysunkowych w Bielsku-Białej, gdzie powstali Bolek i Lolek oraz Reksio',
-    content: `## Narodziny studia
+    content: `## Studia
+Polską animację tworzyły przede wszystkim trzy wytwórnie: Studio Filmów Rysunkowych w Bielsku-Białej, łódzki Se-ma-for oraz warszawskie Studio Miniatur Filmowych. Po 1956 roku zyskały większą swobodę artystyczną i przeżyły rozkwit.
 
-Studio Miniatur Filmowych (SMF) w Warszawie i łódzki Se-ma-for były głównymi wytwórniami polskiej animacji. Powstały w latach 40. i 50. Po 1956 r. zyskały większą artystyczną wolność i rozkwitły twórczo.
+## Bolek i Lolek
+Serię wymyślił Władysław Nehrebecki z bielskiego studia – inspiracją były zabawy jego synów, a imiona nawiązywały do przedwojennego filmu z Adolfem Dymszą. Pierwszy odcinek, „Kusza”, powstał w 1963 roku i został nagrodzony na festiwalu w Gottwaldowie. Przez 23 lata nakręcono ponad 150 odcinków w dziesięciu seriach i dwa filmy pełnometrażowe. W 1973 roku, na życzenie widzek, dodano postać Toli. Muzykę do najsłynniejszego motywu napisał Waldemar Kazanecki.
 
-## Bolek i Lolek (od 1963)
+## Bez słów
+Większość odcinków nie miała dialogów. Dzięki temu polskie kreskówki łatwo było sprzedawać za granicę – rozumiano je bez tłumaczenia.
 
-Najbardziej rozpoznawalna polska animacja: dwóch chłopców przeżywa przygody w Polsce i na całym świecie. Seria powstała w katowickiej wytwórni pod kierunkiem Władysława Nehrebeckiego. Eksportowano ją do dziesiątek krajów, w tym na Zachód.
+## Reksio i Miś Uszatek
+Z bielskiego studia pochodził też Reksio, emitowany od 1967 roku. Łódzki Se-ma-for od 1975 roku tworzył lalkowego Misia Uszatka według wierszy Czesława Janczarskiego.
 
-## Reksio (od 1967)
-
-Biały piesek Reksio ze Studia Filmów Rysunkowych w Bielsku-Białej – sympatyczny, ciekawy świata. Seria łączyła humor z ciepłem i wartościami etycznymi. Do 1990 r. powstało 65 odcinków.
-
-## Miś Uszatek (od 1975)
-
-Adaptacja wierszy Czesława Janczarskiego produkcji Se-ma-for wyróżniała się wysoką jakością plastyczną i muzyczną. Stała się kultowa nie tylko w Polsce, lecz i w ZSRR, gdzie tłumaczono ją na rosyjski.
-
-## Artystyczna animacja
-
-Obok animacji dziecięcej polska szkoła tworzyła filmy dla dorosłych – krótkie metraże Jana Lenicy, Waleriana Borowczyka, Daniela Szczechury. Polska animacja artystyczna zdobywała nagrody na festiwalach w Cannes i Wenecji.`,
-    trivia: ['Polskie kreskówki często obywały się bez dialogów – dzięki temu rozumiano je wszędzie.', 'Powstawały głównie w studiach w Bielsku-Białej i Łodzi.'],
+## Animacja artystyczna
+Obok animacji dla dzieci powstawały filmy dla dorosłych: Jana Lenicy, Waleriana Borowczyka, Daniela Szczechury, później Zbigniewa Rybczyńskiego, który za „Tango” z Se-ma-fora otrzymał w 1983 roku Oscara.`,
+    trivia: [
+      'Imiona Bolka i Lolka wzięto z przedwojennego filmu, w którym obie role grał Adolf Dymsza.',
+      'Postać Toli dodano do serii w 1973 roku na życzenie żeńskiej części widowni.',
+      'Większość odcinków „Bolka i Lolka” nie ma dialogów – dlatego rozumiano je na całym świecie.',
+    ],
     resources: [
       {
         id: 'anim-1',
@@ -18698,21 +18703,25 @@ Jest tłumaczony na kilkadziesiąt języków i wielokrotnie wymieniany wśród k
     summary: 'Skoczek narciarski, zdobywca pierwszego dla Polski zimowego złota olimpijskiego – w Sapporo 1972 – po niespodziewanym, brawurowym skoku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wojciech_Fortuna.jpg?width=800',
     imageCaption: 'Wojciech Fortuna (fot. współczesna)',
-    content: `## Sylwetka
-Wojciech Fortuna (ur. 1952) pochodzi z Zakopanego i był skoczkiem, po którym przed igrzyskami nikt nie spodziewał się wiele – w sezonie startował nierówno i nie należał do faworytów.
+    content: `## Chłopak z Zakopanego
+Wojciech Fortuna urodził się 6 sierpnia 1952 roku w Zakopanem. Jego dziadek, kapitan Wacław Krzemiński, zginął w Miednoje z rąk NKWD. Skakać zaczął jako kilkuletni chłopiec na usypanej z kolegami skoczni, a po mistrzostwach świata w 1962 roku zapisał się do klubu Wisła-Gwardia Zakopane. Na Wielkiej Krokwi pierwszy raz skoczył w wieku 13 lat. Skończył szkołę zawodową jako elektryk samochodowy.
 
 ## Sapporo 1972
-11 lutego 1972 roku na dużej skoczni w Sapporo oddał pierwszy skok na 111 metrów, najdłuższy w konkursie. Drugi wypadł znacznie słabiej, ale przewaga okazała się wystarczająca: Fortuna wygrał ułamkiem punktu przed Szwajcarem Walterem Steinerem.
+11 lutego 1972 roku na dużej skoczni w Sapporo wylosował numer 29. W pierwszej serii skoczył 111 metrów, o prawie 20 metrów dalej niż prowadzący wcześniej Japończyk, i uzyskał rekordową wówczas notę 130,4 punktu. Jury stosunkiem głosów 3 do 2 zdecydowało o kontynuowaniu zawodów. W drugiej serii Fortuna skoczył tylko 87,5 metra, ale Szwajcar Walter Steiner przegrał z nim o 0,1 punktu, a Rainer Schmidt z NRD o 0,6 punktu.
 
 ## Sensacja
-Było to pierwsze i przez wiele lat jedyne polskie złoto zimowych igrzysk – kolejne przyszło dopiero w 2010 roku, gdy w Vancouver wygrała Justyna Kowalczyk. W kraju wiadomość podawano jako sukces narodowy; skoki narciarskie były wtedy sportem oglądanym wąsko, przez pasjonatów.
+Było to pierwsze polskie złoto zimowych igrzysk i zarazem tytuł mistrza świata. Kolejne zimowe złoto Polska zdobyła dopiero w 2010 roku dzięki Justynie Kowalczyk.
 
 ## Później
-Nie powtórzył tego wyniku; kariera skończyła się kilka lat później, a jego dalsze życie bywało burzliwe i przez lata opisywane w prasie z niezdrową ciekawością. Sam mówił o sobie, że dostał od losu jeden skok.
+Sukcesu nie powtórzył. W 1972 roku w Planicy ustanowił rekord życiowy – 132 metry. Kontuzje – trzy wstrząśnienia mózgu, złamania rąk i nogi – zakończyły karierę w 1979 roku. Po latach opisał swoją historię w książkach „Prawda o Sapporo” i „Szczęście w powietrzu”.
 
 ## Znaczenie
-Złoto z Sapporo pozostaje jednym z najczęściej przywoływanych momentów w historii polskiego sportu i punktem odniesienia dla późniejszych sukcesów skoczków, od Adama Małysza po Kamila Stocha.`,
-    trivia: ['W 1972 roku zdobył pierwsze polskie złoto olimpijskie w skokach narciarskich.', 'Był to jedyny wielki sukces w jego karierze.'],
+Złoto z Sapporo pozostaje jednym z najczęściej przywoływanych momentów polskiego sportu i punktem odniesienia dla późniejszych sukcesów skoczków, od Adama Małysza po Kamila Stocha.`,
+    trivia: [
+      'Wygrał z Walterem Steinerem różnicą zaledwie 0,1 punktu.',
+      'Jego pierwszy skok w Sapporo – 111 metrów – dostał rekordową wówczas notę 130,4 punktu.',
+      'Jego dziadek, kapitan Wacław Krzemiński, zginął w Miednoje, zamordowany przez NKWD.',
+    ],
     resources: [
       {
         id: 'for-1',
@@ -32140,26 +32149,27 @@ Główną bazą i siedzibą dowództwa była Gdynia, ważne bazy działały też
     tags: ['wojsko', '1968', 'Czechosłowacja', 'Układ Warszawski'],
     yearStart: 1968,
     yearEnd: 1968,
-    summary: 'Udział 2. Armii Wojska Polskiego w inwazji państw Układu Warszawskiego na Czechosłowację w sierpniu 1968 roku.',
+    summary: 'Udział 2 Armii Wojska Polskiego – 24 tysięcy żołnierzy gen. Floriana Siwickiego – w inwazji Układu Warszawskiego na Czechosłowację w sierpniu 1968 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Praga_11.jpg?width=800',
     imageCaption: 'Praga, sierpień 1968',
     content: `## Decyzja
-W nocy z 20 na 21 sierpnia 1968 roku wojska pięciu państw Układu Warszawskiego wkroczyły do Czechosłowacji, kończąc okres reform Praskiej Wiosny. Władysław Gomułka należał do najbardziej stanowczych zwolenników interwencji, obawiając się, że czechosłowackie reformy przeniosą się do Polski.
+W 1968 roku Praska Wiosna Alexandra Dubčeka – wolność prasy i słowa, ograniczenie władzy tajnej policji – zaniepokoiła Kreml. Szczególnie mocno naciskali na jej stłumienie Władysław Gomułka i Walter Ulbricht, obawiający się, że osłabienie Układu Warszawskiego podważy powojenne granice. 17 sierpnia w Moskwie zdecydowano o interwencji.
+
+## Przygotowania
+Generalną próbą były manewry „Szumawa” w czerwcu 1968 roku, w których uczestniczyły też wojska polskie. Sztab wojsk interwencyjnych mieścił się w Legnicy, a dowodził nimi radziecki marszałek Iwan Jakubowski.
+
+## Inwazja
+20 sierpnia 1968 roku o 23.00 wojska ZSRR, Polski, NRD, Węgier i Bułgarii przekroczyły granicę Czechosłowacji. W pierwszym rzucie było 250 tysięcy żołnierzy, po drugim – 450 tysięcy i 6500 czołgów. Władze czechosłowackie zakazały oporu zbrojnego.
 
 ## Polski udział
-Ze strony polskiej użyto 2. Armii Wojska Polskiego pod dowództwem gen. Floriana Siwickiego – kilkudziesięciu tysięcy żołnierzy, którzy zajęli północno-wschodnie Morawy i część Czech. Był to największy udział polskiego wojska w operacji zagranicznej po 1945 roku.
+Polska wysłała 2 Armię, utworzoną na bazie Śląskiego Okręgu Wojskowego, pod dowództwem gen. Floriana Siwickiego: 24 tysiące żołnierzy, 647 czołgów, 566 transporterów i 36 śmigłowców. Była to największa powojenna operacja wojskowa ludowego Wojska Polskiego. Żołnierzom przedstawiano ją jako pomoc bratniemu narodowi przeciw kontrrewolucji.
 
-## Odbiór
-Żołnierzom przedstawiano operację jako pomoc bratniemu narodowi zagrożonemu przez kontrrewolucję. W rzeczywistości spotkali się z bierną wrogością mieszkańców: zdejmowanymi tablicami z nazwami miejscowości, napisami na murach i odmową współpracy.
-
-## Sprzeciw
-W Polsce interwencja wywołała nieliczne, ale głośne protesty. 8 września 1968 roku Ryszard Siwiec dokonał samospalenia na Stadionie Dziesięciolecia w Warszawie podczas dożynek – protest ten przez lata przemilczano.
-
-## Rozliczenie
-Dopiero w 1989 roku władze PRL oficjalnie potępiły udział w interwencji.`,
+## Protest Siwca
+8 września 1968 roku na dożynkach na Stadionie Dziesięciolecia, przy 100 tysiącach widzów i przywódcach PZPR, Ryszard Siwiec – księgowy z Przemyśla, były żołnierz AK – oblał się rozpuszczalnikiem i podpalił, krzycząc „Protestuję!”. Zmarł po czterech dniach. Media przemilczały jego czyn, a SB rozpowiadała, że był niezrównoważony. Pierwszą informację podało Radio Wolna Europa dopiero w kwietniu 1969 roku – kilka miesięcy po samospaleniu Jana Palacha w Pradze.`,
     trivia: [
-      'Gen. Florian Siwicki, dowódca polskich sił w operacji, był w latach 80. ministrem obrony narodowej.',
-      'Protest Ryszarda Siwca sfilmowały kamery kroniki dożynkowej, ale materiał trafił do archiwum i ujawniono go po latach.',
+      'Polski kontyngent liczył 24 tysiące żołnierzy i 647 czołgów – była to największa powojenna operacja ludowego Wojska Polskiego.',
+      'List pożegnalny Ryszarda Siwca do żony przechwyciła SB; dotarł do niej po 22 latach.',
+      'W 2001 roku prezydent Václav Havel odznaczył Siwca pośmiertnie Orderem Masaryka.',
     ],
     resources: [
       {
@@ -33440,20 +33450,27 @@ Wyszyński wyszedł na wolność w październiku 1956 roku. Śluby zapoczątkowa
     summary: 'Instytucja powołana w 1945 roku dekretem KRN do odbudowy zniszczonej Warszawy; jej dokumentacja trafiła na listę UNESCO.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pracownicy_Biura_Odbudowy_Stolicy_pracownia_%C5%9Ar%C3%B3dmie%C5%9Bcie.jpg?width=800',
     imageCaption: 'Pracownia Śródmieścia w Biurze Odbudowy Stolicy',
-    content: `## Zadanie
-Biuro Odbudowy Stolicy powołano w 1945 roku dekretem Krajowej Rady Narodowej. Miało zaplanować odbudowę miasta zrujnowanego w czasie wojny, a po Powstaniu Warszawskim systematycznie niszczonego przez Niemców. Skala zniszczeń była taka, że rozważano poważnie przeniesienie stolicy do Łodzi.
+    content: `## Powstanie
+Biuro Odbudowy Stolicy powstało 14 lutego 1945 roku z przekształcenia Biura Organizacji Odbudowy Warszawy, powołanego w styczniu przez prezydenta miasta Mariana Spychalskiego i kierowanego przez Jana Zachwatowicza. Krajowa Rada Narodowa usankcjonowała je dekretem o odbudowie Warszawy z 24 maja 1945 roku. Kierownikiem BOS został Roman Piotrowski, a jego zastępcami Józef Sigalin i Witold Plapis.
 
-## Jak pracowano
-Architekci i urbaniści inwentaryzowali ruiny, dokumentowali zachowane detale i odtwarzali wygląd zabudowy na podstawie fotografii, planów i obrazów – przy rekonstrukcji Starego Miasta posiłkowano się m.in. widokami Canaletta. Jednocześnie projektowano miasto od nowa: szersze arterie, nowe osiedla, inny układ funkcjonalny.
+## Urząd w ruinach
+Pierwsza siedziba mieściła się na Pradze, potem przy ulicy Chocimskiej, a pracownie działały w najmniej zniszczonych dzielnicach. W lipcu 1945 roku BOS zatrudniało około 1500 architektów, urbanistów, inżynierów, ekonomistów i prawników. Pełniło funkcje pracowni urbanistycznej, administracji i inspekcji budowlanej oraz urzędu konserwatorskiego.
+
+## Czerwone tablice
+Wiosną 1945 roku na zabytkowych budowlach, często całkowicie zburzonych, umieszczono około 800 czerwonych tablic z orłem i napisem, że budowla jest dokumentem kultury narodowej i nie wolno jej naruszać. BOS współorganizowało wystawę „Warszawa oskarża” i wydawało tygodnik „Skarpa Warszawska”, późniejszą „Stolicę”.
+
+## Stare Miasto
+Wydział Architektury Zabytkowej, w którym pracowali Jan Zachwatowicz i Piotr Biegański, odbudował Stare i Nowe Miasto, Trakt Królewski i Łazienki. Posiłkowano się fotografiami, planami i widokami Canaletta.
 
 ## Spór o zakres
-Odbudowa nie była wiernym odtworzeniem. Część zabudowy, zwłaszcza dziewiętnastowiecznych kamienic i pałaców, świadomie rozebrano, uznając ją za spuściznę epoki, która miała odejść. Decyzje BOS do dziś bywają przedmiotem sporu wśród historyków architektury.
+Odbudowa nie była wiernym odtworzeniem. Część zabudowy, zwłaszcza dziewiętnastowiecznych kamienic, świadomie rozebrano, a miasto projektowano od nowa – z szerszymi arteriami i nowymi osiedlami.
 
 ## Dziedzictwo
-Odbudowane Stare Miasto zostało wpisane na listę światowego dziedzictwa UNESCO, a sama dokumentacja Biura Odbudowy Stolicy trafiła na listę „Pamięć Świata” – jako świadectwo bezprecedensowej rekonstrukcji zniszczonego miasta.`,
+Odbudowane Stare Miasto wpisano na listę światowego dziedzictwa UNESCO, a archiwum BOS – na listę „Pamięć Świata”.`,
     trivia: [
-      'Przy rekonstrukcji Starego Miasta korzystano z osiemnastowiecznych widoków Warszawy pędzla Canaletta.',
-      'Dokumentacja Biura Odbudowy Stolicy została wpisana na listę UNESCO „Pamięć Świata”.',
+      'Na zburzonych zabytkach Warszawy umieszczono około 800 czerwonych tablic BOS zakazujących ich naruszania.',
+      'W lipcu 1945 roku Biuro Odbudowy Stolicy zatrudniało około 1500 osób.',
+      'BOS wydawało tygodnik „Skarpa Warszawska”, z którego powstała później „Stolica”.',
     ],
     resources: [
       {
@@ -36660,4 +36677,5 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1943, event: '12–13 października – bitwa pod Lenino, pierwsza walka 1 Dywizji im. Kościuszki', category: 'wojsko', entryId: 'lwp' },
   { year: 1982, event: 'Rusza budowa Elektrowni Jądrowej Żarnowiec', category: 'gospodarka', entryId: 'energetyka-prl' },
   { year: 1980, event: 'Jacek Wszoła ustanawia rekord świata w skoku wzwyż – 2,35 m', category: 'społeczeństwo', entryId: 'jacek-wszola' },
+  { year: 1968, event: '8 września – samospalenie Ryszarda Siwca na Stadionie Dziesięciolecia w proteście przeciw inwazji', category: 'opozycja', entryId: 'operacja-dunaj' },
 ];
