@@ -52,20 +52,24 @@ export const entries: Entry[] = [
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/T-55A_Martial_law_Poland.jpg?width=800',
     imageCaption: 'Czołg T-55 na ulicach Zbąszynia, 13 grudnia 1981',
     trivia: [
-      'Dekret wydano wbrew konstytucyjnemu zakazowi dekretowania w czasie sesji Sejmu.',
-      'Internowano ponad dziesięć tysięcy działaczy Solidarności.',
+      'Dekret o stanie wojennym wydano w czasie sesji Sejmu, czego konstytucja nie dopuszczała – w 2011 roku Trybunał Konstytucyjny uznał go za niezgodny z konstytucją.',
+      'W stanie wojennym internowano łącznie 10 131 działaczy Solidarności.',
+      'W akcji „Azalia” w nocy 13 grudnia opanowano 451 obiektów telekomunikacyjnych – po północy zamilkły telefony.',
     ],
     content: `## 13 grudnia 1981
-Stan wojenny wprowadzono w nocy z 12 na 13 grudnia 1981 roku na terenie całego kraju. Dekret wydała Rada Państwa, mimo że konstytucja zakazywała dekretowania w czasie sesji Sejmu – a sesja formalnie trwała. Władzę przejęła Wojskowa Rada Ocalenia Narodowego z gen. Wojciechem Jaruzelskim na czele.
+Stan wojenny wprowadzono w nocy z 12 na 13 grudnia 1981 roku uchwałą Rady Państwa, podjętą niejednomyślnie w Belwederze. Władzę przejęła Wojskowa Rada Ocalenia Narodowego z gen. Wojciechem Jaruzelskim. Rada Państwa wydała dekrety w czasie trwania sesji Sejmu, choć konstytucja na to nie pozwalała; w 2011 roku Trybunał Konstytucyjny orzekł niezgodność dekretu z konstytucją.
+
+## Noc akcji
+Około 22.30 rozpoczęła się akcja „Azalia” – opanowanie 451 obiektów telekomunikacyjnych; po północy zamilkły telefony. W akcji „Jodła” 10 tysięcy funkcjonariuszy zatrzymywało działaczy. Na ulice wyszło około 70 tysięcy żołnierzy, 30 tysięcy funkcjonariuszy MSW, 1750 czołgów i 1400 pojazdów opancerzonych.
 
 ## Co to oznaczało
-Zawieszono działalność związków zawodowych i organizacji, wprowadzono godzinę milicyjną, zakaz zgromadzeń i przemieszczania się między województwami. Odcięto telefony, ocenzurowano korespondencję, zmilitaryzowano zakłady pracy. Internowano ponad dziesięć tysięcy działaczy Solidarności.
+Zawieszono związki i organizacje, wprowadzono godzinę milicyjną, zakaz zgromadzeń i wyjazdów poza miejsce zamieszkania, cenzurę korespondencji, zmilitaryzowano zakłady pracy. Internowano łącznie 10 131 działaczy Solidarności. Strajkujących zwalniano z pracy, wielu zmuszono do emigracji.
 
 ## Ofiary
-Najkrwawszym wydarzeniem była pacyfikacja kopalni Wujek 16 grudnia, gdzie zginęło dziewięciu górników. W kolejnych latach zginęli m.in. Grzegorz Przemyk i ks. Jerzy Popiełuszko, a w Lubinie w 1982 roku strzelano do demonstrantów.
+16 grudnia w kopalni „Wujek” zginęło dziewięciu górników. 31 sierpnia 1982 roku w Lubinie milicja zastrzeliła trzech demonstrantów, w październiku w Nowej Hucie funkcjonariusz SB zastrzelił studenta Bogdana Włosika. W maju 1983 roku milicjanci pobili na śmierć Grzegorza Przemyka. IPN szacuje, że w czasie demonstracji i strajków zginęło 56 osób.
 
 ## Koniec i spór
-Stan wojenny zawieszono 31 grudnia 1982 roku, a zniesiono 22 lipca 1983. Spór o jego ocenę – czy był mniejszym złem wobec groźby interwencji, czy zamachem na własne społeczeństwo – trwa do dziś i pozostaje jednym z głównych podziałów w polskiej debacie publicznej.`,
+Stan wojenny zawieszono 31 grudnia 1982 roku, a zniesiono 22 lipca 1983 roku. Do 1983 roku z PZPR wystąpiło 850 tysięcy członków. Spór o ocenę – mniejsze zło wobec groźby interwencji czy zamach na własne społeczeństwo – trwa do dziś.`,
     resources: [
       {
         id: 'stan-wojenny-zrodlo1',
@@ -20269,23 +20273,27 @@ Komiks PRL powstawał w warunkach niedoboru papieru, kiepskiego druku i kontroli
     tags: ['polityka', 'kościół', 'kolaboracja', 'propaganda'],
     yearStart: 1947,
     yearEnd: 1989,
-    summary: 'Prorządowe stowarzyszenie katolików świeckich kierowane przez Bolesława Piaseckiego, wykorzystywane przez władze do rozbijania jedności Kościoła.',
+    summary: 'Prorządowe stowarzyszenie katolików świeckich założone w 1947 roku przez Bolesława Piaseckiego; miało niemal monopol na katolicką prasę i służyło władzom do rozbijania jedności Kościoła.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-31684-0002%2C_Boleslaw_Piasecki.jpg?width=800',
     imageCaption: 'Bolesław Piasecki, przywódca Stowarzyszenia PAX',
     content: `## Geneza
-Stowarzyszenie PAX zbudował Bolesław Piasecki – przed wojną przywódca skrajnie nacjonalistycznej Falangi, aresztowany w 1944 roku przez NKWD i zwolniony po rozmowach z gen. Iwanem Sierowem. Od 1947 roku środowisko wydawało dziennik „Słowo Powszechne”.
+Stowarzyszenie PAX założyli w 1947 roku Bolesław Piasecki i inni działacze przedwojennej Falangi. Piasecki w grudniu 1944 roku nawiązał współpracę z NKWD, a w 1945 roku dostał zgodę na wydawanie koncesjonowanego katolickiego tygodnika „Dziś i Jutro”.
 
-## Katolicy koncesjonowani
-PAX przedstawiał się jako ruch katolików świeckich akceptujących socjalizm. Władzom dawał to, czego same nie mogły wytworzyć: katolicki głos popierający ustrój. Hierarchia kościelna traktowała stowarzyszenie z nieufnością, widząc w nim narzędzie rozbijania jedności Kościoła.
+## Monopol katolickiej prasy
+PAX miał prawie monopolistyczne prawo do wydawania katolickiej prasy: dziennika „Słowo Powszechne”, tygodników „Kierunki”, „WTK” i „Zorza” oraz książek Instytutu Wydawniczego PAX. Miał też przedsiębiorstwa i spółdzielnię mieszkaniową.
 
-## Imperium gospodarcze
-Stowarzyszenie dysponowało własnym wydawnictwem, prasą i przedsiębiorstwami, co dawało mu środki nieporównywalne z możliwościami niezależnych środowisk katolickich. Instytut Wydawniczy PAX wydawał zarówno literaturę religijną, jak i pozycje niedostępne gdzie indziej.
+## Lata stalinowskie
+PAX dążył do pozycji jedynego pośrednika między władzą a Kościołem. Współpracował z ruchem „księży patriotów”, atakował Episkopat, popierał proces biskupa Kaczmarka i uwięzienie prymasa Wyszyńskiego. W latach 1953–1956 wydawał przejęty „Tygodnik Powszechny”, którego redakcja odmówiła druku nekrologu Stalina. W 1955 roku książkę Piaseckiego i „Dziś i Jutro” wpisano na indeks ksiąg zakazanych.
 
-## Rola
-PAX jest przykładem metody stosowanej przez władze konsekwentnie: zamiast likwidować środowisko, tworzono jego koncesjonowany odpowiednik i przeciwstawiano go oryginałowi. Ten sam mechanizm widać w związkach zawodowych, organizacjach młodzieżowych i stronnictwach politycznych.`,
+## Rozłamy
+W 1955 roku z PAX-u odeszła „fronda” – m.in. Tadeusz Mazowiecki, Janusz Zabłocki i Andrzej Wielowieyski – krytykująca jednoosobowe rządy Piaseckiego. Po 1956 roku stowarzyszenie złagodziło kurs: pozostało częścią systemu, ale prowadziło jedyne świeckie katolickie liceum w Warszawie i wspierało byłych żołnierzy AK. W 1968 roku popierało jednak kampanię marcową.
+
+## Koniec
+Z młodych członków PAX-u wyłoniła się pod koniec lat 70. grupa współtworząca Konfederację Polski Niepodległej. Po śmierci Piaseckiego w 1979 roku przewodniczącym został Ryszard Reiff, a część działaczy poparła Solidarność. Kontynuacją PAX-u jest dziś Stowarzyszenie „Civitas Christiana”.`,
     trivia: [
-      'Piasecki wyszedł z więzienia NKWD po rozmowach z gen. Iwanem Sierowem i wkrótce zaczął budować PAX.',
-      'Stowarzyszenie miało własne wydawnictwo i przedsiębiorstwa, więc dysponowało środkami nieosiągalnymi dla niezależnych katolików.',
+      'W latach 1953–1956 PAX wydawał przejęty „Tygodnik Powszechny”, którego redakcja nie chciała drukować nekrologu Stalina.',
+      'Z PAX-u w 1955 roku odszedł m.in. Tadeusz Mazowiecki, przyszły pierwszy niekomunistyczny premier.',
+      'Kontynuacją PAX-u jest dzisiejsze Katolickie Stowarzyszenie „Civitas Christiana”.',
     ],
     resources: [
       {
@@ -23871,23 +23879,24 @@ Po wyjeździe Lichtmana do Danii i rozpoczęciu solowej kariery przez Krawczyka 
     summary: 'Jedna z najwybitniejszych polskich wokalistek, o mocnym, charakterystycznym głosie, autorka przebojów „Aleja gwiazd” i „Julia i ja”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zdzis%C5%82awa_So%C5%9Bnicka_1972_%28cropped%29.PNG?width=800',
     imageCaption: 'Zdzisława Sośnicka na okładce magazynu muzycznego, 1972',
-    content: `## Wokalistka
-Zdzisława Sośnicka (ur. 1945) pochodzi z Kalisza i jest jedną z najbardziej cenionych polskich wokalistek. Ma wykształcenie muzyczne, jest też dyrygentką i kompozytorką, publikującą pod pseudonimem.
+    content: `## Wykształcenie
+Zdzisława Sośnicka urodziła się w 1945 roku w Kaliszu. Ukończyła szkołę muzyczną w klasie fortepianu i wychowanie muzyczne w poznańskiej PWSM. Jest też dyrygentką i kompozytorką – komponuje pod pseudonimem Barbara Bajer, od nazwiska męża.
 
-## Skala
-Jej głos – mocny, o dużej rozpiętości – pozwalał wykonywać repertuar od piosenki estradowej po utwory zbliżone do rocka symfonicznego. W polskiej muzyce lat 70. był to głos bez odpowiednika, częściej porównywany do wykonawczyń zachodnich niż krajowych.
+## Debiut
+Zadebiutowała w 1963 roku na festiwalu w Zielonej Górze, gdzie zajęła drugie miejsce, i w tym samym roku była w finale Festiwalu Młodych Talentów w Szczecinie. W 1964 roku wygrała festiwal piosenkarzy studenckich w Krakowie, w 1965 roku śpiewała z Poznańskim Kwartetem Jazzowym i dostała nagrodę dla młodych wykonawców w Opolu.
+
+## Kariera międzynarodowa
+W 1971 roku wygrała festiwal w Kołobrzegu i zajęła trzecie miejsce w Sopocie z „Domem, który mam”. W 1972 roku występowała na MIDEM w Cannes, zdobywała nagrody w Tokio, Bułgarii i Austrii. W latach 1974–1980 zagrała około 250 spektakli w berlińskim teatrze rewiowym Friedrichstadt-Palast.
 
 ## Przeboje
-„Julia i ja”, „Aleja gwiazd”, „Dom, który mam”, „Serce” – śpiewała do muzyki czołowych kompozytorów epoki i regularnie występowała na festiwalach w Opolu i Sopocie, gdzie zdobywała główne nagrody.
-
-## Warsztat
-Należy do wykonawczyń, które zbudowały pozycję na umiejętnościach wokalnych, a nie na wizerunku. W czasach, gdy o karierze decydowały radio i festiwal, taka droga była możliwa – dziś byłaby znacznie trudniejsza.
+W 1979 roku wygrała konkurs premier w Opolu piosenką „Żegnaj lato na rok”, a w 1988 roku dostała tam Grand Prix za całokształt. Śpiewała m.in. „Julię i ja”, a także „Aleję gwiazd” i „Serce pali się raz” z muzyką Romualda Lipki oraz „Z tobą chcę oglądać świat” w duecie ze Zbigniewem Wodeckim. Zagrała Smutną Księżniczkę w „Akademii pana Kleksa”.
 
 ## Później
-Po 1989 roku ograniczyła występy i przez lata nie nagrywała, wracając okazjonalnie na koncerty i do studia. Jej płyty z lat 70. i 80. są dziś odkrywane na nowo, także przez młodszych muzyków sięgających po tamten repertuar.`,
+W 2014 roku wznowiono jej albumy, a w 2015 roku wydała nową płytę „Tańcz, choćby płonął świat”, która trafiła na piąte miejsce listy sprzedaży.`,
     trivia: [
-      'Ma wykształcenie muzyczne, jest też dyrygentką i kompozytorką.',
-      'Jej głos pozwalał wykonywać repertuar od piosenki estradowej po utwory bliskie rockowi symfonicznemu.',
+      'Komponuje pod pseudonimem Barbara Bajer – od nazwiska męża.',
+      'W latach 1974–1980 zagrała około 250 spektakli w berlińskim Friedrichstadt-Palast.',
+      'Zagrała Smutną Księżniczkę w „Akademii pana Kleksa”.',
     ],
     resources: [
       {
@@ -26116,20 +26125,24 @@ Wersja kinowa z 1975 roku trwała 179 minut. Rozszerzoną wersję telewizyjną w
     summary: 'Lekkoatleta, skoczek wzwyż; jako 19-latek zdobył złoto olimpijskie w Montrealu 1976, a w 1980 ustanowił rekord świata.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wszola_Jacek.jpg?width=800',
     imageCaption: 'Jacek Wszoła, mistrz olimpijski w skoku wzwyż (fot. współczesna)',
-    content: `## Cudowne dziecko Montrealu
-Jacek Wszoła (ur. 1956) wygrał mistrzostwa Europy juniorów w 1975 roku, a rok później, mając dziewiętnaście lat, zdobył w Montrealu złoty medal olimpijski w skoku wzwyż. Przylgnęło do niego określenie „cudowne dziecko Montrealu”.
+    content: `## Początki
+Jacek Wszoła urodził się 30 grudnia 1956 roku w Warszawie; jego ojciec był trenerem młodzieży i nauczycielem wychowania fizycznego. Sport zaczął uprawiać w 1971 roku, skakał techniką flop. W 1974 roku zdobył pierwsze mistrzostwo Polski, a w 1975 roku w Atenach wygrał mistrzostwa Europy juniorów z rekordem imprezy.
 
-## Dwa medale, dwa rekordy igrzysk
-W Moskwie w 1980 roku był drugi. W obu startach olimpijskich poprawiał rekord igrzysk – rzadki przypadek, by zawodnik zrobił to dwukrotnie. Do dorobku dołożył halowe mistrzostwo Europy i złoto uniwersjady.
+## Montreal 1976
+Finał olimpijski 31 lipca 1976 roku trwał ponad cztery godziny w ulewnym deszczu. Do wysokości 2,25 m dotrwali tylko Wszoła i faworyt gospodarzy Greg Joy. Polak pokonał ją w drugiej próbie, Kanadyjczyk nie – i dziewiętnastoletni Wszoła zdobył złoto z rekordem olimpijskim. Nazwano go „cudownym dzieckiem Montrealu”.
 
-## Technika i moment historyczny
-Kariera Wszoły przypadła na lata, w których skok wzwyż przechodził na technikę flop, spopularyzowaną po 1968 roku. Wymagała ona miękkich materacy zamiast piasku i trocin, co w polskich warunkach oznaczało, że o poziomie treningu decydowało wyposażenie obiektu, a nie tylko talent zawodnika.
+## Rekord świata
+W 1977 roku wygrał halowe mistrzostwa Europy i uniwersjadę. 25 maja 1980 roku na mityngu w Eberstadt skoczył 2,35 m i ustanowił rekord świata.
+
+## Moskwa 1980
+Na igrzyska w Moskwie jechał jako rekordzista świata. W finale skoczył 2,31 m, poprawiając swój rekord olimpijski, ale zdobył srebro. W obu startach olimpijskich poprawiał rekord igrzysk. Dwanaście razy stawał na podium mistrzostw Polski, jedenaście razy na najwyższym stopniu.
 
 ## Sport jako wizytówka
-Medale olimpijskie były w PRL walutą propagandową: sukces sportowca pokazywano jako dowód wyższości systemu, a kroniki filmowe i prasa poświęcały mu więcej miejsca niż wynikom gospodarczym. Montreal 1976 wypadł kilka tygodni po czerwcowych strajkach w Radomiu i Ursusie – i był władzy potrzebny.`,
+Medale olimpijskie były w PRL walutą propagandową, a kroniki filmowe poświęcały im więcej miejsca niż gospodarce. Montreal 1976 wypadł kilka tygodni po czerwcowych strajkach w Radomiu i Ursusie – i był władzy potrzebny.`,
     trivia: [
-      'Złoto olimpijskie zdobył w wieku 19 lat i nazywano go „cudownym dzieckiem Montrealu”.',
-      'W obu startach olimpijskich – 1976 i 1980 – poprawiał rekord igrzysk.',
+      'Finał w Montrealu trwał ponad cztery godziny w ulewnym deszczu.',
+      '25 maja 1980 roku w Eberstadt skoczył 2,35 m – rekord świata.',
+      'Jego ciotką była Wanda Traczyk-Stawska, uczestniczka Powstania Warszawskiego.',
     ],
     resources: [
       {
@@ -33288,19 +33301,23 @@ Poczdam domknął to, co zaczęto w Jałcie: Polska otrzymała nowe granice i zn
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Czes%C5%82aw_Bobrowski.jpg?width=800',
     imageCaption: 'Czesław Bobrowski, twórca i szef Centralnego Urzędu Planowania',
     content: `## Powstanie
-Centralny Urząd Planowania powołano w 1945 roku, by pokierować odbudową kraju. Jego przewodniczącym został ekonomista Czesław Bobrowski, związany z PPS. Urząd przygotował plan trzyletni na lata 1947–1949, nastawiony na odbudowę i podniesienie poziomu życia, a nie na forsowną industrializację.
+Centralny Urząd Planowania powołano 10 listopada 1945 roku, by pokierować odbudową kraju. Jego prezesem został Czesław Bobrowski – ekonomista związany z PPS, który wojnę spędził na Zachodzie, a w Londynie pracował nad programem powojennej odbudowy Polski. Do kraju wrócił w sierpniu 1945 roku.
+
+## Plan trzyletni
+Urząd przygotował trzyletni Plan Odbudowy Gospodarczej na lata 1947–1949, nastawiony na odbudowę i podniesienie poziomu życia, a nie na forsowną industrializację. Był to jedyny okres powojennej gospodarki, w którym wzrost produkcji szybko przekładał się na poprawę zaopatrzenia.
 
 ## Gospodarka trzech sektorów
 Koncepcja CUP zakładała współistnienie sektora państwowego, spółdzielczego i prywatnego. Był to model bliższy powojennym rozwiązaniom zachodnioeuropejskim niż radzieckiemu planowaniu nakazowemu – i właśnie dlatego okazał się nie do przyjęcia.
 
-## Rozbicie
-W 1948 roku, wraz z zaostrzeniem kursu i przygotowaniami do zjednoczenia PPR i PPS, koncepcje CUP poddano ostrej krytyce jako odstępstwo od socjalizmu. Bobrowski stracił stanowisko, a urząd wkrótce zlikwidowano. Jego miejsce zajęła Państwowa Komisja Planowania Gospodarczego, budowana już wprost na wzorze radzieckim.
+## „Proces CUP”
+W 1948 roku, wraz ze stalinizacją, koncepcje urzędu poddano ostrej krytyce jako odstępstwo od socjalizmu. W lutym 1948 roku Bobrowski został usunięty pod naciskiem PPR, a urzędem kierował jeszcze Tadeusz Dietrich. Bobrowski był krótko posłem w Sztokholmie, a w grudniu 1948 roku, w obawie przed aresztowaniem, wyjechał na emigrację do Francji.
 
-## Co po nim zostało
-Plan trzyletni był jedynym okresem powojennej gospodarki, w którym wzrost produkcji przełożył się szybko na poprawę zaopatrzenia. Kolejny plan – sześcioletni – odwrócił te proporcje na rzecz przemysłu ciężkiego.`,
+## Koniec
+10 lutego 1949 roku CUP przekształcono w Państwową Komisję Planowania Gospodarczego, budowaną na wzór radziecki, z Hilarym Mincem na czele. Plan sześcioletni odwrócił proporcje na rzecz przemysłu ciężkiego. Bobrowski wrócił do kraju po Październiku 1956 roku i doradzał kolejnym rządom.`,
     trivia: [
-      'Plan trzyletni 1947–1949 był nastawiony na odbudowę i poziom życia, a nie na przemysł ciężki – w odróżnieniu od późniejszego planu sześcioletniego.',
-      'Koncepcję gospodarki trzech sektorów uznano w 1948 roku za odstępstwo od socjalizmu, a urząd rozwiązano.',
+      'Prezes CUP Czesław Bobrowski w 1948 roku, w obawie przed aresztowaniem, nie wrócił ze Sztokholmu i wyjechał do Francji.',
+      'Plan trzyletni 1947–1949 nastawiono na odbudowę i poziom życia, a nie na przemysł ciężki.',
+      'W 1949 roku CUP przekształcono w Państwową Komisję Planowania Gospodarczego, budowaną na wzór radziecki.',
     ],
     resources: [
       {
@@ -33358,19 +33375,23 @@ Plan trzyletni był jedynym okresem powojennej gospodarki, w którym wzrost prod
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Cela_Stefana_Wyszy%C5%84skiego%2C_Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._J%C3%B3zefa_w_Prudniku-Lesie.jpg?width=800',
     imageCaption: 'Cela prymasa Wyszyńskiego w Prudniku, gdzie powstał tekst ślubów',
     content: `## Tekst pisany w internowaniu
-Tekst ślubów napisał prymas Stefan Wyszyński podczas internowania – najpierw w Prudniku, potem w Komańczy. Wzorował się na ślubach lwowskich Jana Kazimierza z 1656 roku, znanych mu także z „Potopu” Sienkiewicza – nawiązanie do trzechsetnej rocznicy było zamierzone.
+Tekst ślubów napisał prymas Stefan Wyszyński podczas internowania – w klasztorze franciszkanów w Prudniku i w klasztorze nazaretanek w Komańczy. Inspiracją był „Potop” Sienkiewicza i śluby lwowskie króla Jana Kazimierza, złożone 1 kwietnia 1656 roku we lwowskiej katedrze.
 
-## Uroczystość
-Śluby złożono 26 sierpnia 1956 roku na Jasnej Górze przy udziale około miliona wiernych. Rotę odczytał biskup Michał Klepacz. Na fotelu przeznaczonym dla prymasa położono biało-czerwone kwiaty – nieobecność uwięzionego Wyszyńskiego stała się najmocniejszym elementem całej uroczystości.
+## Trzysta lat później
+Uroczystość zaplanowano na trzechsetlecie ślubów lwowskich. Nawiązanie było zamierzone: tak jak w czasie potopu szwedzkiego, naród miał oddać się w opiekę Matki Bożej w chwili zagrożenia.
+
+## 26 sierpnia 1956
+Śluby złożono na Jasnej Górze przy udziale około miliona wiernych. Rotę odczytał biskup Michał Klepacz, pełniący obowiązki przewodniczącego Episkopatu. Na fotelu przeznaczonym dla prymasa leżały biało-czerwone kwiaty. Sam Wyszyński złożył śluby w Komańczy dziesięć minut wcześniej, tylko w obecności Marii Okońskiej.
 
 ## Kontekst polityczny
-Wydarzenie wypadło między poznańskim Czerwcem a październikowym przełomem, w miesiącach słabnącej kontroli władz. Zgromadzenie takiej liczby ludzi bez zgody i udziału państwa było demonstracją siły Kościoła w momencie, gdy system tracił pewność siebie.
+Wydarzenie wypadło między poznańskim Czerwcem a październikowym przełomem, w miesiącach słabnącej kontroli władz. Zgromadzenie takiej liczby ludzi bez udziału państwa było demonstracją siły Kościoła w momencie, gdy system tracił pewność siebie.
 
 ## Następstwa
-Wyszyński wyszedł na wolność w październiku 1956 roku. Śluby zapoczątkowały dziewięcioletnią Wielką Nowennę, przygotowującą obchody tysiąclecia chrztu Polski w 1966 roku – program duszpasterski, który stał się osią kolejnego konfliktu państwa z Kościołem.`,
+Wyszyński wyszedł na wolność w październiku 1956 roku. Śluby zapoczątkowały dziewięcioletnią Wielką Nowennę przed obchodami tysiąclecia chrztu Polski w 1966 roku – program duszpasterski, który stał się osią kolejnego konfliktu państwa z Kościołem. W 50. rocznicę, w 2006 roku, na Jasnej Górze zebrało się ponad 200 tysięcy wiernych.`,
     trivia: [
-      'Prymas Wyszyński, autor tekstu ślubów, nie mógł być na uroczystości – na jego fotelu położono biało-czerwone kwiaty.',
-      'Śluby rozpoczęły Wielką Nowennę – dziewięć lat przygotowań do obchodów Milenium w 1966 roku.',
+      'Prymas Wyszyński złożył śluby w Komańczy, dziesięć minut przed uroczystością na Jasnej Górze, w obecności tylko jednej osoby.',
+      'Uroczystość przypadła w trzechsetlecie ślubów lwowskich Jana Kazimierza z 1656 roku.',
+      'Na pustym fotelu prymasa położono biało-czerwone kwiaty.',
     ],
     resources: [
       {
@@ -33474,19 +33495,23 @@ Odbudowane Stare Miasto zostało wpisane na listę światowego dziedzictwa UNESC
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jakub_Berman.jpg?width=800',
     imageCaption: 'Jakub Berman, członek Biura Politycznego odpowiedzialny za aparat bezpieczeństwa',
     content: `## Kim był
-Jakub Berman (1901–1984), prawnik z wykształcenia, wojnę spędził w ZSRR, gdzie współtworzył tajne Centralne Biuro Komunistów Polski przy KC WKP(b). Od sierpnia 1944 roku zasiadał w Biurze Politycznym, najpierw PPR, potem PZPR.
+Jakub Berman (1901–1984) urodził się w Warszawie w rodzinie żydowskiej; jego brat i siostra zginęli w Treblince. Ukończył prawo na Uniwersytecie Warszawskim, od 1928 roku należał do KPP. W 1939 roku uciekł na wschód, przyjął obywatelstwo sowieckie, a w czasie wojny wykładał w szkole Kominternu pod Ufą, kształcąc kadry późniejszej PPR.
+
+## Szara eminencja
+W 1944 roku faktycznie kierował tajnym Centralnym Biurem Komunistów Polski w Moskwie i współredagował Manifest PKWN. Od sierpnia 1944 roku zasiadał w Biurze Politycznym PPR, potem PZPR. Długo nie zajmował eksponowanych stanowisk – był podsekretarzem stanu w Prezydium Rady Ministrów – a mimo to kierował ideologią i aparatem represji. Nazywano go szarą eminencją.
 
 ## Trójka
-W latach 1949–1956 najważniejsze decyzje zapadały w gronie trzech osób: Bolesława Bieruta, Hilarego Minca i Jakuba Bermana. Podział ról był wyraźny – Minc odpowiadał za gospodarkę, Berman za ideologię, kulturę, propagandę i nadzór nad bezpieczeństwem, Bierut sprawował zwierzchnictwo. W latach 1954–1956 Berman był wicepremierem.
+W latach 1949–1956 najważniejsze decyzje zapadały w gronie Bolesława Bieruta, Hilarego Minca i Jakuba Bermana. Minc odpowiadał za gospodarkę, Berman za ideologię, kulturę, propagandę i nadzór nad bezpieczeństwem. W latach 1949–1954 zasiadał w komisji Biura Politycznego do spraw bezpieczeństwa publicznego, a w latach 1954–1956 był wicepremierem.
 
 ## Odpowiedzialność
-Nadzór nad aparatem bezpieczeństwa oznaczał współodpowiedzialność za represje okresu stalinowskiego: procesy polityczne, wymuszanie zeznań, wyroki śmierci. Berman do końca życia bronił swoich decyzji jako historycznej konieczności.
+Nadzór nad aparatem bezpieczeństwa oznaczał współodpowiedzialność za represje okresu stalinowskiego: procesy polityczne, wymuszanie zeznań i wyroki śmierci. Berman do końca życia bronił swoich decyzji jako historycznej konieczności.
 
 ## Odejście
-Ujawnienia Józefa Światły i referat Chruszczowa na XX Zjeździe KPZR podcięły pozycję całej trójki. Bierut zmarł w marcu 1956 roku w Moskwie, Berman stracił stanowiska w maju. Późniejsze lata przepracował w wydawnictwie, usunięty z życia publicznego, ale nigdy nie pociągnięty do odpowiedzialności.`,
+Ujawnienia Józefa Światły i referat Chruszczowa podcięły pozycję trójki. Bierut zmarł w marcu 1956 roku, Berman w maju stracił stanowiska, a w maju 1957 roku usunięto go z partii. Do emerytury w 1969 roku pracował w wydawnictwie „Książka i Wiedza”, nigdy nie pociągnięty do odpowiedzialności.`,
     trivia: [
-      'Wraz z Bierutem i Mincem tworzył trójkę, w której zapadały wszystkie kluczowe decyzje lat 1949–1956.',
-      'Po odsunięciu od władzy pracował jako redaktor w wydawnictwie – nigdy nie odpowiedział za represje okresu stalinowskiego.',
+      'Jego brat i siostra zginęli w Treblince, a on sam spędził wojnę w ZSRR.',
+      'Przez lata jego jedynym oficjalnym stanowiskiem państwowym był urząd podsekretarza stanu – mimo to należał do trójki rządzącej Polską.',
+      'Po usunięciu z partii w 1957 roku pracował w wydawnictwie „Książka i Wiedza” aż do emerytury.',
     ],
     resources: [
       {
@@ -36634,4 +36659,5 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1978, event: 'Bajm debiutuje w Opolu piosenką „Piechotą do lata”', category: 'kultura', entryId: 'bajm-zespol' },
   { year: 1943, event: '12–13 października – bitwa pod Lenino, pierwsza walka 1 Dywizji im. Kościuszki', category: 'wojsko', entryId: 'lwp' },
   { year: 1982, event: 'Rusza budowa Elektrowni Jądrowej Żarnowiec', category: 'gospodarka', entryId: 'energetyka-prl' },
+  { year: 1980, event: 'Jacek Wszoła ustanawia rekord świata w skoku wzwyż – 2,35 m', category: 'społeczeństwo', entryId: 'jacek-wszola' },
 ];
