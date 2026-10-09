@@ -1505,20 +1505,24 @@ Pomoc dla represjonowanych po raz pierwszy połączyła środowiska robotnicze i
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jerzy%20Popieluszko%20Funeral%20-%2061.jpg?width=800',
     imageCaption: 'Pogrzeb ks. Jerzego Popiełuszki, 3 listopada 1984 – wielka manifestacja.',
     trivia: [
-      'Jego kazania nagrywano i rozprowadzano w drugim obiegu w całym kraju.',
-      'Proces po morderstwie objął bezpośrednich wykonawców, ale nie zleceniodawców.',
+      'Przy rewizji w jego mieszkaniu w 1983 roku SB „znalazła” granaty i materiały wybuchowe, które sama podrzuciła.',
+      'Sześć dni przed zabójstwem ci sami funkcjonariusze próbowali zatrzymać jego samochód, rzucając kamieniem w szybę.',
+      'Do seminarium wstąpił w 1965 roku, a w wojsku służył w specjalnej jednostce dla kleryków w Bartoszycach.',
     ],
-    content: `## Kapelan Solidarności
-Ks. Jerzy Popiełuszko (1947–1984) został skierowany do posługi wśród robotników w sierpniu 1980 roku, gdy strajkująca Huta Warszawa poprosiła o księdza. Od tego czasu był związany z warszawską Solidarnością.
+    content: `## Młodość
+Jerzy Popiełuszko (1947–1984) urodził się we wsi Okopy na Podlasiu, a ochrzczono go jako Alfonsa. Po maturze w Suchowoli w 1965 roku wstąpił do seminarium w Warszawie. Służbę wojskową odbywał w latach 1966–1968 w jednostce dla kleryków w Bartoszycach, gdzie nie poddawał się szykanom i podtrzymywał na duchu kolegów.
+
+## Kapelan Solidarności
+W sierpniu 1980 roku z polecenia prymasa Wyszyńskiego odprawił mszę dla strajkujących w Hucie Warszawa i odtąd był związany z robotnikami i Solidarnością. W stanie wojennym pomagał represjonowanym, rozdzielał dary z zagranicy, chodził na procesy działaczy.
 
 ## Msze za ojczyznę
-W kościele św. Stanisława Kostki na Żoliborzu odprawiał msze za ojczyznę, na które przyjeżdżali ludzie z całego kraju. Jego kazania – spokojne, bez wezwań do przemocy, oparte na zasadzie zwyciężania zła dobrem – były nagrywane i rozprowadzane w drugim obiegu.
+W kościele św. Stanisława Kostki na Żoliborzu odprawiał msze za ojczyznę, które przyciągały dziesiątki tysięcy ludzi z całej Polski. Jego hasło „zło dobrem zwyciężaj” stało się mottem ruchu. W maju 1983 roku prowadził pogrzeb Grzegorza Przemyka, we wrześniu zorganizował pierwszą pielgrzymkę ludzi pracy na Jasną Górę.
 
-## Nękanie
-Służba Bezpieczeństwa prowadziła przeciw niemu kampanię: podrzucono mu materiały wybuchowe, wielokrotnie zatrzymywano, próbowano wywołać wypadek samochodowy. W prasie ukazywały się artykuły przedstawiające go jako politycznego agitatora.
+## Operacja „Popiel”
+SB prowadziła przeciw niemu operację o kryptonimie „Popiel”. W grudniu 1983 roku w jego mieszkaniu przy Chłodnej funkcjonariusze „znaleźli” podrzucone granaty łzawiące, amunicję i materiały wybuchowe. 13 października 1984 roku próbowano zatrzymać jego samochód, rzucając kamieniem w szybę.
 
 ## Morderstwo
-19 października 1984 roku został uprowadzony i zamordowany przez funkcjonariuszy SB. Jego ciało wyłowiono z Wisły pod Włocławkiem. Pogrzeb zgromadził setki tysięcy ludzi i stał się największą manifestacją od czasu stanu wojennego. Proces sprawców objął wykonawców, ale nie zleceniodawców.`,
+19 października 1984 roku, wracając z Bydgoszczy, został uprowadzony koło Górska przez funkcjonariuszy SB i zamordowany; jego ciało wrzucono do Wisły przy zaporze we Włocławku. Pogrzeb zgromadził setki tysięcy ludzi. W procesie toruńskim skazano Grzegorza Piotrowskiego, Leszka Pękalę, Waldemara Chmielewskiego i ich przełożonego płk. Adama Pietruszkę, ale nie zleceniodawców. W 2010 roku został beatyfikowany.`,
     resources: [
       {
         id: 'popieluszko-encysol',
@@ -16777,19 +16781,23 @@ Mecz żużlowy był wydarzeniem towarzyskim: wyjściem całych rodzin, okazją d
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Antoni_Slonimski_Polish_writer.jpg?width=800',
     imageCaption: 'Antoni Słonimski, który złożył List 34 w kancelarii premiera',
     content: `## Dwa zdania
-List 34 był krótkim, dwuzdaniowym protestem przeciw polityce kulturalnej i ograniczeniom przydziału papieru. Skierowano go do premiera Józefa Cyrankiewicza, a 14 marca 1964 roku złożył go w Urzędzie Rady Ministrów Antoni Słonimski. Nazwa pochodzi od liczby sygnatariuszy.
+List 34 był dwuzdaniowym protestem przeciw ograniczeniu przydziału papieru na druk książek i czasopism oraz zaostrzeniu cenzury. Sygnatariusze domagali się zmiany polityki kulturalnej „w duchu praw zagwarantowanych przez konstytucję”. 14 marca 1964 roku tekst złożył w Urzędzie Rady Ministrów jego autor, Antoni Słonimski; podpisy pomagał zbierać Jan Józef Lipski.
 
 ## Kto podpisał
-Podpisy złożyli najwybitniejsi pisarze i uczeni, m.in. Maria Dąbrowska, Jerzy Andrzejewski, Melchior Wańkowicz, Leopold Infeld i Tadeusz Kotarbiński. Siłą listu było właśnie nazwisko – nie liczba osób, lecz ich pozycja.
+Podpisało go 34 pisarzy i uczonych, m.in. Maria Dąbrowska, Jerzy Andrzejewski, Paweł Jasienica, Stefan Kisielewski, Melchior Wańkowicz, Leopold Infeld, Tadeusz Kotarbiński, Władysław Tatarkiewicz i Jerzy Turowicz.
 
-## Odpowiedź władz
-Reakcja była nieproporcjonalna do treści: zakazy druku, wstrzymywanie wyjazdów zagranicznych, naciski w miejscach pracy, kampania prasowa przeciw sygnatariuszom. Melchiora Wańkowicza postawiono przed sądem.
+## Rozgłos
+26 marca informację podała agencja Reutera, a potem Radio Wolna Europa. W obronie sygnatariuszy wystąpili intelektualiści brytyjscy na łamach „The Timesa”, amerykańscy – m.in. Arthur Miller i Hannah Arendt – oraz włoscy i francuscy. W kraju treść listu, bez nazwisk, opublikowała dopiero po dwóch miesiącach „Współczesność”.
+
+## Represje i kontrlist
+Nazwisk sygnatariuszy nie wolno było wymieniać w radiu i telewizji, 14 pisarzy dostało zakaz publikacji, wielu odmówiono paszportu. Melchiora Wańkowicza aresztowano i skazano na trzy lata więzienia, ale wyroku nie wykonano. Część sygnatariuszy wycofała się lub złagodziła stanowisko. Około 600 literatów podpisało kontrlist potępiający „kampanię oczerniania Polski Ludowej”.
 
 ## Precedens
-List 34 był pierwszym zbiorowym wystąpieniem środowisk twórczych w PRL i wzorem dla późniejszych protestów: Listu 59 z 1975 roku przeciw zmianom w konstytucji i kolejnych apeli lat 70. Pokazał też mechanizm, który powtarzał się później – represja nadawała sprawie rozgłos, którego sam list by nie zdobył.`,
+List 34 otworzył serię zbiorowych wystąpień intelektualistów – aż po List 59 z 1975 roku przeciw zmianom w konstytucji. Pokazał też mechanizm, który się powtarzał: represje nadawały sprawie rozgłos, którego sam list by nie zdobył.`,
     trivia: [
-      'List miał zaledwie dwa zdania, a jego siłą były nazwiska sygnatariuszy.',
-      'Po jego złożeniu Melchiora Wańkowicza postawiono przed sądem.',
+      'Autorem dwuzdaniowego tekstu był Antoni Słonimski, a podpisy zbierał z nim Jan Józef Lipski.',
+      'Melchiora Wańkowicza skazano na trzy lata więzienia, ale władze nie odważyły się wykonać wyroku.',
+      'W odpowiedzi władze zorganizowały kontrlist, pod którym podpisało się około 600 literatów.',
     ],
     resources: [
       {
@@ -19633,21 +19641,25 @@ Większość Polaków wypoczywała w kraju. Wczasy pracownicze organizował od 1
     tags: ['opozycja', 'drugi obieg', 'emigracja', 'proces'],
     yearStart: 1969,
     yearEnd: 1970,
-    summary: 'Proces grupy taterników z 1970 roku, oskarżonych o przemyt przez Tatry wydawnictw paryskiej „Kultury” – jeden z głośnych procesów politycznych przełomu dekad.',
+    summary: 'Śledztwo i proces z lat 1969–1970 przeciw młodym współpracownikom paryskiej „Kultury”, którzy przenosili przez Tatry wydawnictwa emigracyjne i dokumenty o Marcu 1968.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Taternicy_literatura.jpg?width=800',
     imageCaption: 'Literatura wydana w sprawie taterników',
-    content: `## Sprawa
-Śledztwo i proces toczyły się w latach 1969–1970. Oskarżonymi byli młodzi ludzie współpracujący z paryską „Kulturą” Jerzego Giedroycia – grupa, której nazwa wzięła się stąd, że część z nich uprawiała taternictwo i wykorzystywała górskie przejścia do przerzutu wydawnictw.
+    content: `## Dwie grupy
+Tzw. sprawa taterników objęła dwie grupy młodych współpracowników paryskiej „Kultury”. Pierwszą, kierowaną przez Macieja Kozłowskiego, tworzyli m.in. Maria Tworkowska, Krzysztof Szymborski, Jan Krzysztof Kelus, Urszula Sikorska i Maciej Włodek. Przez granicę polsko-czechosłowacką w Tatrach wynosili dokumenty o Marcu 1968 i sytuacji w kraju, a przynosili „Kulturę” i książki Instytutu Literackiego. Niezależnie od nich Jakub Karpiński i Małgorzata Szpakowska zbierali dokumentację Marca.
 
-## O co chodziło
-Zarzuty dotyczyły przewożenia przez granicę emigracyjnych publikacji i utrzymywania kontaktów z ośrodkiem uznawanym przez władze za wrogi. Chodziło więc o obieg drukowanego słowa, a nie o działalność konspiracyjną w klasycznym rozumieniu.
+## Wpadka
+SB trafiła na trop dzięki tajnemu współpracownikowi, który podsłuchał rozmowę Macieja Włodka o przerzucie przez Tatry. 27 maja 1969 roku władze czechosłowackie zatrzymały Kozłowskiego i Tworkowską w Smokowcu i wydały ich Polsce. W maju i czerwcu SB aresztowała pozostałych, a jesienią połączono śledztwa.
 
-## Znaczenie
-Proces pokazał, jak poważnie władze traktowały przenikanie wydawnictw emigracyjnych do kraju. Sprawa toczyła się rok po Marcu 1968, w atmosferze rozliczeń ze środowiskami inteligenckimi, a wyroki miały odstraszyć naśladowców.
+## Proces
+Proces, któremu nadano rozgłos, by skompromitować „Kulturę”, trwał od 9 do 24 lutego 1970 roku. Czterem oskarżonym zarzucono porozumienie z obcą organizacją na szkodę państwa, Szpakowskiej – rozpowszechnianie fałszywych wiadomości. Kozłowski dostał 4,5 roku więzienia, Karpiński 4 lata, Szymborski i Tworkowska po 3,5 roku, Szpakowska 3 lata.
 
-## Skutek odwrotny
-Efekt okazał się przeciwny do zamierzonego: sprawa nagłośniła istnienie kanałów przerzutowych i samej „Kultury”. Kilka lat później niezależny obieg wydawniczy przestał być domeną pojedynczych kurierów i przekształcił się w drugi obieg drukowany już w kraju.`,
-    trivia: ['Oskarżeni przenosili przez Tatry paryską „Kulturę” i wydawnictwa emigracyjne.', 'Proces z 1970 roku uderzał w kanał przerzutowy bibuły do kraju.'],
+## Po wyroku
+Sąd Najwyższy obniżył kary, a dalsze skrócenie przyniosła amnestia z okazji 25-lecia PRL. Ostatni wyszli na wolność Karpiński w czerwcu i Kozłowski we wrześniu 1971 roku. Kelus, Sikorska i Włodek siedzieli w areszcie do marca 1970 roku bez procesu. Jakub Karpiński opisał sprawę w książce „Taternictwo nizinne”, wydanej w Paryżu w 1988 roku.`,
+    trivia: [
+      'Kozłowskiego i Tworkowską zatrzymała w 1969 roku policja czechosłowacka w Smokowcu i wydała ich Polsce.',
+      'Najwyższy wyrok – 4,5 roku więzienia – usłyszał lider grupy Maciej Kozłowski.',
+      'Jakub Karpiński opisał sprawę w książce o ironicznym tytule „Taternictwo nizinne”.',
+    ],
     resources: [
       {
         id: 'pt-1',
@@ -20536,17 +20548,27 @@ Jego proza jest dziś czytana jako najcelniejszy zapis późnego PRL: państwa z
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Warszawa_ul._Wiejska_Sejm_i_Senat_Sala_Posiedze%C5%84_Sejmu.jpg?width=800',
     imageCaption: 'Sala posiedzeń Sejmu przy ulicy Wiejskiej (fot. współczesna)',
     content: `## Pozycja ustrojowa
-Konstytucja z 1952 roku czyniła Sejm najwyższym organem władzy państwowej. W praktyce nie był miejscem stanowienia polityki: uchwalał ustawy przygotowane gdzie indziej, a kierunek wyznaczało Biuro Polityczne PZPR.
+Konstytucja z 1952 roku nazywała Sejm najwyższym organem władzy państwowej. Sejm uchwalał ustawy, budżet i plany gospodarcze, powoływał rząd i Radę Państwa. W praktyce podlegał kierowniczej roli PZPR: ustawy przygotowywano gdzie indziej, a kierunek wyznaczało Biuro Polityczne.
 
-## Skład
-Posłowie pochodzili z jednej listy Frontu Jedności Narodu, a od 1983 roku „PRON”-u. Obok PZPR zasiadały w nim ZSL i SD oraz nieliczni posłowie katoliccy, w tym koło Znak – jedyne środowisko niepodporządkowane wprost partii.
+## Posłowie
+W I kadencji Sejm liczył 425 posłów, w II – 459, potem 460. Zerwano z zasadą mandatu wolnego: poseł był przedstawicielem ludu pracującego i mógł być odwołany, choć przepisu nigdy nie zastosowano. Kandydaci startowali z jednej listy Frontu Jedności Narodu, a od 1985 roku PRON. Marszałkiem był zwykle polityk ZSL.
 
-## Jak głosowano
-Ustawy przyjmowano niemal zawsze jednomyślnie. Sytuacje odmienne zapamiętano właśnie dlatego, że były wyjątkami: w 1976 roku Stanisław Stomma jako jedyny nie poparł nowelizacji konstytucji wpisującej kierowniczą rolę partii, za co stracił mandat. Między sesjami prawo wydawała dekretami Rada Państwa.
+## Sesje
+Sejm obradował w trybie sesyjnym, a sesje zwoływała Rada Państwa. Między nimi to ona wydawała dekrety z mocą ustawy. Ustawy przyjmowano niemal zawsze jednomyślnie.
+
+## Znak i wyjątki
+Jedynym środowiskiem niepodporządkowanym wprost partii było koło posłów katolickich „Znak”. W lutym 1976 roku jego przewodniczący Stanisław Stomma jako jedyny poseł nie poparł zmian w konstytucji wpisujących kierowniczą rolę PZPR i sojusz z ZSRR – wstrzymał się od głosu. Władze nie dopuściły go do kandydowania w kolejnych wyborach.
+
+## Lata 80.
+W latach 80. Sejm wybierał członków nowych instytucji: Trybunału Stanu, Trybunału Konstytucyjnego i Rzecznika Praw Obywatelskich.
 
 ## Rok 1989
-Wybory 4 czerwca 1989 roku odbyły się według ustaleń Okrągłego Stołu: o 35 procent mandatów w Sejmie można było ubiegać się swobodnie, a Senat wybierano w pełni wolnymi wyborami. Sejm kontraktowy stał się miejscem, w którym system zaczęto demontować od środka.`,
-    trivia: ['Sejm obradował rzadko i przyjmował ustawy niemal jednogłośnie.', 'Realne decyzje zapadały w Biurze Politycznym partii.'],
+Wybory 4 czerwca 1989 roku odbyły się według ustaleń Okrągłego Stołu: o 35 procent mandatów w Sejmie można było ubiegać się swobodnie, a Senat wybierano w pełni wolnymi wyborami. Sejm kontraktowy stał się miejscem, w którym system zaczęto demontować.`,
+    trivia: [
+      'Posła PRL można było formalnie odwołać – przepisu nigdy jednak nie użyto.',
+      'W lutym 1976 roku Stanisław Stomma jako jedyny poseł nie poparł zmian w konstytucji i nie pozwolono mu ponownie kandydować.',
+      'Funkcja marszałka Sejmu PRL przypadała zwykle politykowi Zjednoczonego Stronnictwa Ludowego.',
+    ],
     resources: [
       {
         id: 'se-1',
@@ -28830,21 +28852,25 @@ W 1990 roku przedsiębiorstwo podzielono na 176 firm. Część z nich zlikwidowa
     category: 'kultura',
     tags: ['film', 'kino', 'dramat', 'ekranizacja'],
     yearStart: 1961,
-    summary: 'Ascetyczny dramat Jerzego Kawalerowicza (1961) wg Iwaszkiewicza; o egzorcyzmach w klasztorze, nagrodzony w Cannes.',
+    summary: 'Czarno-biały dramat Jerzego Kawalerowicza (1960) według Iwaszkiewicza – o egzorcyzmach w kresowym klasztorze; nagroda specjalna jury w Cannes.',
     content: `## Film
-„Matka Joanna od Aniołów” Jerzego Kawalerowicza, zrealizowana w 1960 roku i pokazana rok później, powstała na podstawie opowiadania Jarosława Iwaszkiewicza, inspirowanego siedemnastowiecznymi wydarzeniami w klasztorze we francuskim Loudun, przeniesionymi przez pisarza na polski grunt.
+„Matka Joanna od Aniołów” to czarno-biały film Jerzego Kawalerowicza z 1960 roku, oparty na opowiadaniu Jarosława Iwaszkiewicza. Pisarz przeniósł siedemnastowieczne wydarzenia z klasztoru urszulanek w Loudun na kresy Rzeczypospolitej. Scenariusz Kawalerowicz napisał z Tadeuszem Konwickim, kierownikiem artystycznym Zespołu Filmowego „Kadr”.
 
 ## Fabuła
-Jezuita Józef Suryn, grany przez Mieczysława Voita, przybywa do klasztoru, by odprawić egzorcyzmy nad opętanymi zakonnicami. Tytułową przełożoną zagrała Lucyna Winnicka. Film unika taniej sensacji: opętanie jest w nim pytaniem o wiarę, pożądanie i granice poznania.
+Do klasztoru na Smoleńszczyźnie przybywa jezuita Józef Suryn (Mieczysław Voit), by wypędzić demony z opętanych zakonnic i ich przełożonej, matki Joanny (Lucyna Winnicka). Joanna jest dumna ze swego opętania, a z czasem demony przechodzą na samego egzorcystę. Suryn radzi się nawet miejscowego rabina, który sugeruje, że opętanie bierze się z ludzkiej samotności.
+
+## Scenariusz pod nadzorem
+Komisja Ocen Scenariuszy w styczniu 1960 roku oceniła tekst bardzo wysoko, ale zaleciła, by Joanna nie była kobietą ułomną, a wydarzenia przedstawiono z pozycji materialistycznej. Kawalerowicz chciał zrobić film już wcześniej, po „Cieniu”, ale chwilowe ocieplenie stosunków państwa z Kościołem nie sprzyjało takiemu tematowi.
 
 ## Forma
-Czarno-biała, oszczędna fotografia, puste wnętrza i statyczne kadry uczyniły z filmu jedno z najbardziej rozpoznawalnych dzieł polskiej szkoły filmowej. Powstał w Zespole Filmowym „Kadr”.
+Zdjęcia w Józefowie pod Łodzią wykonał Jerzy Wójcik, autor zdjęć do „Popiołu i diamentu”. Rozproszonym światłem budował szarości, na których wyraźnie odcinała się czerń i biel postaci. Scenografię rozpoczął Roman Mann, a po jego nagłej śmierci dokończył Tadeusz Wybult.
 
 ## Odbiór
-Film nagrodzono na festiwalu w Cannes i pokazywano na całym świecie. W kraju wywołał spór: dla części środowisk katolickich był obrazoburczy, dla władz – wygodny, bo dotykał religii w sposób niejednoznaczny. Ta dwuznaczność ochroniła go zresztą przed jednoznaczną instrumentalizacją.`,
+Na festiwalu w Cannes w 1961 roku film otrzymał Nagrodę Specjalną Jury – Srebrną Palmę, ustępując tylko „Viridianie” Buñuela. W kraju krytycy chwalili formę i odczytywali go jako komentarz do relacji władzy z Kościołem, a kręgi kościelne były oburzone rzekomym antyklerykalizmem.`,
     trivia: [
-      'Pierwowzorem były siedemnastowieczne wydarzenia w klasztorze we francuskim Loudun.',
-      'Film nagrodzono w Cannes i uznano za jedno z czołowych dzieł polskiej szkoły filmowej.',
+      'W Cannes film przegrał tylko z „Viridianą” Luisa Buñuela i dostał Srebrną Palmę.',
+      'Komisja Ocen Scenariuszy zaleciła, by filmowa Joanna nie była kobietą ułomną, a wydarzenia ujęto „z pozycji materialistycznej”.',
+      'Zdjęcia kręcono w Józefowie pod Łodzią, a autorem zdjęć był Jerzy Wójcik.',
     ],
     resources: [
       {
@@ -29122,23 +29148,27 @@ Polscy krytycy przyjęli „Pociąg” z mieszanymi uczuciami, za granicą film 
     tags: ['muzyka', 'big-beat', 'estrada', 'kobiety'],
     yearStart: 1959,
     yearEnd: 1974,
-    summary: 'Pierwszy polski girlsband, założony w 1959 w szczecińskim technikum; u szczytu popularności „Batumi” nuciła cała Polska, a o zespole pisał „Billboard”.',
+    summary: 'Pierwszy polski dziewczęcy zespół wokalny, założony przez nauczyciela w szczecińskim technikum; „Batumi” było najpopularniejszą piosenką 1963 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Filipinki_1966.jpg?width=800',
     imageCaption: 'Filipinki podczas zdjęć do filmu, wiosna 1966',
-    content: `## Zespół ze szkoły
-Filipinki powstały w listopadzie 1959 roku przy Technikum Handlowym w Szczecinie, z okazji piętnastolecia szkoły. Założył je Jan Janikowski, nauczyciel ekonomii, towaroznawstwa i muzyki. Nazwa pochodziła od tytułu pisma dla dziewcząt „Filipinka”.
+    content: `## Ze szkolnej akademii
+Filipinki powstały przy Technikum Handlowym w Szczecinie na szkolną akademię z okazji jubileuszu szkoły. Założył je Jan Janikowski, nauczyciel ekonomii, towaroznawstwa i muzyki. Z przesłuchań wyłoniono siedem uczennic, m.in. Zofię Bogdanowicz, Niki Ikonomu i Krystynę Pawlaczyk. Pierwsze wyróżnienie zdobyły na festiwalu we Wrocławiu.
 
-## Pierwszy dziewczęcy zespół
-Był to pierwszy polski dziewczęcy zespół wokalny, który zdobył popularność w skali kraju. Śpiewały wielogłosowo, w jednakowych sukienkach, z repertuarem lekkim i obyczajowym – formuła bezpieczna dla cenzury i akceptowalna dla władz, a jednocześnie nowa dla publiczności.
+## Droga na szczyt
+W 1962 roku wystąpiły w radiowym konkursie „Mikrofon dla wszystkich” i zaczęły nagrywać dla szczecińskiej rozgłośni. W 1963 roku zadebiutowały w telewizji, a w maju oficjalnie przyjęły nazwę od pisma dla dziewcząt „Filipinka”. „Batumi” uznano w plebiscycie Polskiego Radia za najpopularniejszą piosenkę 1963 roku.
 
-## Kariera
-Nagrywały dla radia, występowały na festiwalach i wyjeżdżały na trasy zagraniczne, także poza blok wschodni. Skład zmieniał się wraz z kolejnymi rocznikami uczennic, co odróżniało je od typowych zespołów estradowych.
+## Najpopularniejszy zespół w PRL
+W czerwcu 1964 roku, tuż po maturach części wokalistek, trzy ich piosenki znalazły się w pierwszej piątce listy przebojów, w tym „Do widzenia, profesorze”. Odbyły trasę po Kanadzie i USA – 55 koncertów dla Polonii w 36 miastach – występowały w Szwecji, NRD i ZSRR oraz na festiwalach w Opolu. Akompaniowali im m.in. Warszawscy Stompersi.
 
-## Znaczenie
-Filipinki pokazały, że popularna muzyka młodzieżowa może w PRL powstać poza wielkimi ośrodkami i poza państwowymi instytucjami – z inicjatywy szkolnego nauczyciela. Dla wielu późniejszych zespołów były dowodem, że taka droga jest w ogóle możliwa.`,
+## Druga epoka
+W 1967 roku zespół rozstał się z Janikowskim i pod kierunkiem Mateusza Święcickiego zmienił styl pod wpływem big-beatu. Wygrywał Telewizyjną Giełdę Piosenki, a „Jacht kapitana Teligi” uznano za najlepszą piosenkę marynistyczną 1969 roku.
+
+## Koniec
+Skład się kurczył – od 1972 roku występowały jako tercet Nowe Filipinki. Zespół zakończył działalność w 1974 roku, gdy odeszła ostatnia z pierwszych wokalistek, Krystyna Pawlaczyk. Dał około 4 tysięcy koncertów.`,
     trivia: [
-      'Zespół założył nauczyciel ekonomii i muzyki w szczecińskim technikum handlowym.',
-      'Nazwa pochodzi od tytułu popularnego pisma dla dziewcząt „Filipinka”.',
+      'Piosenkę „Do widzenia, profesorze” śpiewały tuż po swoich egzaminach maturalnych.',
+      'Podczas trasy po Kanadzie i USA dały 55 koncertów dla Polonii w 36 miastach.',
+      'W sierpniu 1963 roku występowały w Szwecji przy okazji otwarcia promu Świnoujście–Ystad.',
     ],
     resources: [
       {
@@ -31970,20 +32000,24 @@ W latach 50. i 60. saperzy korpusu rozminowywali kraj, a jednostki inżynieryjne
     summary: 'Flota wojenna PRL, rozbudowana pod kątem operacji desantowych na Bałtyku przewidzianych w planach Układu Warszawskiego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/ORP_B%C5%82yskawica_Gdynia.jpg?width=800',
     imageCaption: 'ORP „Błyskawica” w Gdyni, okręt-muzeum i weteran obu epok',
-    content: `## Odbudowa floty
-Po wojnie flotę odtwarzano niemal od zera, opierając się na okrętach otrzymanych ze Związku Radzieckiego oraz na jednostkach poniemieckich. Główne bazy powstały w Gdyni, Helu i Świnoujściu, a dowództwo ulokowano w Gdyni.
+    content: `## Dwie floty
+W czasie wojny polska Marynarka Wojenna walczyła u boku Brytyjczyków – na Atlantyku, w konwojach arktycznych, pod Normandią – i istniała w ramach Polskich Sił Zbrojnych na Zachodzie do 1947 roku. W kraju tworzono równolegle nową flotę, w pełni uzależnioną od Związku Radzieckiego. Część okrętów wróciła z Zachodu, resztę stanowiły jednostki radzieckie i poniemieckie.
 
-## Rola w Układzie Warszawskim
-Polska marynarka miała w planach sojuszu wyznaczone zadanie: udział w operacji desantowej na duńskie cieśniny i wybrzeże Jutlandii. Temu podporządkowano strukturę floty – rozbudowywano okręty desantowe, trałowce i lotnictwo morskie, a nie okręty oceaniczne.
+## Pod radzieckim dowództwem
+Na czele powojennej marynarki stanęli oficerowie radzieccy: dowódcą był kontradmirał Nikołaj Abramow. Radzieccy oficerowie obsadzili też kluczowe stanowiska w sztabie, prokuraturze, sądzie i Informacji Wojskowej. Z siedmiu etatów admiralskich w 1945 roku tylko dwa powierzono Polakom.
 
-## Przemysł i szkolnictwo
-Okręty budowała Stocznia Marynarki Wojennej w Gdyni oraz stocznie w Gdańsku i Szczecinie. Kadry kształciła Wyższa Szkoła Marynarki Wojennej w Gdyni, jedna z najbardziej prestiżowych uczelni wojskowych w kraju.
+## Spisek komandorów
+Na przełomie lat 40. i 50. w sfingowanych procesach skazano około 150 marynarzy, ponad 20 stracono – m.in. komandorów Stanisława Mieszkowskiego, Jerzego Staniewicza i Zbigniewa Przybyszewskiego. W więzieniu zmarł kontradmirał Adam Mohuczy, a wielu oficerom zakazano przebywania na Wybrzeżu.
 
-## Grudzień 1970
-Marynarka zapisała się też w historii wystąpień robotniczych: w grudniu 1970 roku jednostki wojskowe blokowały Wybrzeże, a okręty pojawiły się na redzie portów. Do najkrwawszych wydarzeń doszło w Gdyni i Szczecinie – miastach, w których marynarka była obecna na co dzień.`,
+## Flota desantowa
+W planach Układu Warszawskiego polska marynarka miała uczestniczyć w desancie na Półwysep Jutlandzki. Dlatego rozbudowywano okręty desantowe i siły lekkie – kutry torpedowe i rakietowe oraz trałowce. Trzon floty uzupełniały niszczyciele, okręty podwodne i lotnictwo morskie, a uzbrojenie pochodziło z ZSRR albo z polskich stoczni.
+
+## Bazy i kadry
+Główną bazą i siedzibą dowództwa była Gdynia, ważne bazy działały też na Helu i w Świnoujściu. Oficerów kształciła Wyższa Szkoła Marynarki Wojennej w Gdyni. Po 1989 roku, wraz ze zmianą doktryny, wycofano niemal całe siły desantowe.`,
     trivia: [
-      'Plany Układu Warszawskiego przewidywały dla polskiej floty desant na duńskie cieśniny.',
-      'Wyższa Szkoła Marynarki Wojennej w Gdyni należała do najtrudniej dostępnych uczelni w PRL.',
+      'Pierwszym dowódcą Marynarki Wojennej w Polsce Ludowej był radziecki kontradmirał Nikołaj Abramow.',
+      'W tzw. spisku komandorów skazano około 150 marynarzy, a ponad 20 stracono.',
+      'Plany Układu Warszawskiego przewidywały dla polskiej floty desant na Półwysep Jutlandzki.',
     ],
     resources: [
       {
@@ -32291,20 +32325,24 @@ Wiele central sprywatyzowano lub przekształcono w spółki giełdowe; przy czę
     summary: 'Urząd, który układał plany pięcioletnie i rozdzielał surowce, maszyny oraz limity inwestycyjne między resorty i zakłady.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Warszawa_-_plac_Trzech_Krzy%C5%BCy_3_-_ZJ001.jpg?width=800',
     imageCaption: 'Gmach przy placu Trzech Krzyży, siedziba Komisji Planowania przy Radzie Ministrów',
-    content: `## Rola
-Komisja Planowania, następczyni Państwowej Komisji Planowania Gospodarczego, była instytucją, w której powstawał plan – dokument określający, ile czego ma zostać wyprodukowane, komu przydzielić stal, cement czy dewizy i które inwestycje ruszą.
+    content: `## Następczyni PKPG
+Komisję Planowania przy Radzie Ministrów utworzyła ustawa z 1956 roku, która zarazem zniosła Państwową Komisję Planowania Gospodarczego z czasów planu sześcioletniego. Była kolegialnym organem rządu w sprawach planowania gospodarczego, a później także zagospodarowania przestrzennego kraju.
+
+## Zadania
+Komisja opracowywała kierunki polityki gospodarczej oraz projekty planów perspektywicznych, wieloletnich i rocznych, kontrolowała ich wykonanie i ustalała metody planowania. Bilansowała surowce, energię i materiały oraz koordynowała plany z krajami RWPG. Przewodniczącego powoływano na wniosek premiera.
 
 ## Jak działał plan
 Zadania rozpisywano z góry na dół: z planu centralnego na resorty, z resortów na zjednoczenia, ze zjednoczeń na przedsiębiorstwa. Zakład nie decydował, co produkuje, lecz otrzymywał wskaźniki do wykonania. Sukces mierzono procentem wykonania planu, a nie tym, czy wyrób znalazł nabywcę.
 
 ## Skutki
-System premiował ilość kosztem jakości i asortymentu. Powstawały nadwyżki towarów niechodliwych i jednoczesne braki podstawowych artykułów. Dyrektorzy negocjowali z centralą zaniżone wskaźniki, by łatwiej je przekroczyć – zjawisko to opisywano jako grę o plan.
+System premiował ilość kosztem jakości i asortymentu. Powstawały nadwyżki towarów niechodliwych i jednocześnie braki podstawowych artykułów. Dyrektorzy negocjowali z centralą zaniżone wskaźniki, by łatwiej je przekroczyć.
 
-## Reformy i koniec
-Kolejne próby reform – 1956, 1973, 1982 – miały poszerzyć samodzielność przedsiębiorstw, ale za każdym razem centrum odzyskiwało kontrolę. Komisję zlikwidowano w 1988 roku, u progu zmiany ustroju gospodarczego.`,
+## Reforma 1984 i koniec
+Ustawa z 1984 roku nadała komisji nowe kompetencje: miała analizować funkcjonowanie systemu zarządzania gospodarką i proponować jego zmiany, zgodnie z reformą przedsiębiorstw z początku lat 80. W 1988 roku zastąpił ją Centralny Urząd Planowania, który przetrwał jeszcze kilka lat po zmianie ustroju.`,
     trivia: [
-      'W gospodarce planowej wykonanie planu w 99% było porażką, a w 101% – sukcesem, niezależnie od tego, czy wyroby były komukolwiek potrzebne.',
+      'Komisja zastąpiła w 1956 roku Państwową Komisję Planowania Gospodarczego, sztab planu sześcioletniego.',
       'Dyrektorzy zakładów starali się wynegocjować jak najniższe wskaźniki planu – łatwiej było je potem przekroczyć.',
+      'W 1988 roku komisję zastąpił Centralny Urząd Planowania.',
     ],
     resources: [
       {
@@ -35966,7 +36004,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1953, event: 'Proces kurii krakowskiej – pokazowy proces przeciw duchownym', category: 'represje', entryId: 'proces-kurii-krakowskiej' },
   { year: 1964, event: 'Afera mięsna – proces w trybie doraźnym przed sądem w Warszawie', category: 'gospodarka', entryId: 'afera-miesna' },
   { year: 1965, event: 'Stracenie Stanisława Wawrzeckiego, skazanego w aferze mięsnej (19 marca)', category: 'gospodarka', entryId: 'afera-miesna' },
-  { year: 1970, event: 'Proces taterników – kara za przemyt paryskiej „Kultury”', category: 'opozycja', entryId: 'proces-taternikow' },
+  { year: 1970, event: 'Proces taterników (9–24 lutego) – do 4,5 roku więzienia za przemyt paryskiej „Kultury”', category: 'opozycja', entryId: 'proces-taternikow' },
   { year: 1972, event: 'Ryszard Szurkowski wygrywa Wyścig Pokoju', category: 'społeczeństwo', entryId: 'szurkowski-ryszard' },
   { year: 1974, event: 'Premiera „Potopu” Jerzego Hoffmana według Sienkiewicza', category: 'kultura', entryId: 'hoffman-jerzy' },
   { year: 1981, event: 'Zamach na Jana Pawła II na placu św. Piotra (13 maja)', category: 'społeczeństwo', entryId: 'zamach-na-jp2' },
@@ -36242,7 +36280,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1973, event: 'Baltona wprowadza bony dewizowe dla marynarzy', category: 'gospodarka', entryId: 'baltona' },
   { year: 1962, event: 'Festiwal Młodych Talentów w Szczecinie popularyzuje big-beat', category: 'kultura', entryId: 'big-beat-prl' },
   { year: 1948, event: 'W Orbisie powstaje oddział wagonów sypialnych i restauracyjnych – zalążek Warsu', category: 'społeczeństwo', entryId: 'podroze-pkp' },
-  { year: 1988, event: 'Likwidacja Komisji Planowania przy Radzie Ministrów', category: 'gospodarka', entryId: 'komisja-planowania' },
+  { year: 1988, event: 'Komisję Planowania zastępuje Centralny Urząd Planowania', category: 'gospodarka', entryId: 'komisja-planowania' },
   { year: 1982, event: 'Powstaje Patriotyczny Ruch Odrodzenia Narodowego', category: 'polityka', entryId: 'pron' },
   { year: 1952, event: 'Konstytucja PRL znosi urząd prezydenta – Rada Państwa staje się kolegialną głową państwa', category: 'polityka', entryId: 'rada-panstwa' },
   { year: 1947, event: 'Mała Konstytucja powołuje Radę Państwa', category: 'polityka', entryId: 'rada-panstwa' },
