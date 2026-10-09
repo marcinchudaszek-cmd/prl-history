@@ -1714,23 +1714,27 @@ Po 1989 roku IPN wszczął setki śledztw w sprawie zbrodni komunistycznych. Wi�
     tags: ['LWP', 'armia', 'Berling', 'Układ Warszawski', 'wojsko', 'oficerowie sowieccy'],
     yearStart: 1943,
     yearEnd: 1989,
-    summary: 'Ludowe Wojsko Polskie – siły zbrojne PRL podległe ZSRR przez Układ Warszawski. Tworzone od 1943 roku przez komunistów, obsadzone oficerami sowieckimi, używane do tłumienia protestów społecznych.',
+    summary: 'Ludowe Wojsko Polskie – propagandowa nazwa sił zbrojnych zależnych od ZSRR (1943–1989); obsadzone w dużej części oficerami radzieckimi, użyte przeciw obywatelom w 1956, 1970 i 1981 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Emblem_of_the_Polish_People%27s_Army_land_forces_%281972%29_%282%29.png?width=800',
     imageCaption: 'Emblemat wojsk lądowych Ludowego Wojska Polskiego z 1972 roku',
-    content: `## Powstanie
-Ludowe Wojsko Polskie wyrosło z jednostek formowanych w ZSRR od 1943 roku. Po wojnie stało się armią państwa, w którym korpus oficerski budowano od nowa, bo przedwojennych oficerów i żołnierzy Armii Krajowej usuwano lub więziono.
+    content: `## Z ZSRR do Polski
+W maju 1943 roku w Sielcach nad Oką zaczęto formować 1 Dywizję Piechoty im. Tadeusza Kościuszki. Jej pierwszą bitwą było Lenino w październiku 1943 roku. Z czasem powstały dwie armie, które walczyły m.in. pod Studziankami, na Wale Pomorskim, o Kołobrzeg i w operacji berlińskiej. We wrześniu 1945 roku wojsko liczyło 440 tysięcy żołnierzy. Nazwa „ludowe” była nieoficjalnym, propagandowym określeniem armii zależnej od ZSRR.
 
-## Pod kontrolą
-Nad armią czuwały równolegle trzy struktury: aparat polityczny z oficerami politycznymi w każdej jednostce, Informacja Wojskowa i jej następczyni Wojskowa Służba Wewnętrzna oraz sama partia poprzez Komisję Wojskową Biura Politycznego. W latach 1949–1956 ministrem obrony był marszałek radziecki Konstanty Rokossowski.
+## Radzieccy oficerowie
+W 1945 roku oficerowie Armii Czerwonej stanowili około 40 procent korpusu oficerskiego, a w Sztabie Głównym 70 procent. W grudniu 1945 roku 54 z 63 generałów było oficerami radzieckimi. W latach 1949–1956 ministrem obrony był marszałek ZSRR Konstanty Rokossowski; przeprowadzono wtedy stalinizację armii, a do 1954 roku usunięto z niej 9 tysięcy oficerów, głównie przedwojennych i z Polskich Sił Zbrojnych na Zachodzie.
 
-## Użycie wewnątrz kraju
-Wojsko wielokrotnie kierowano przeciw obywatelom: w Poznaniu w 1956, na Wybrzeżu w 1970 i po wprowadzeniu stanu wojennego. Największą operacją zagraniczną był udział 2. Armii w inwazji na Czechosłowację w 1968 roku.
+## Kontrola
+Nad wojskiem czuwał aparat polityczny, Informacja Wojskowa – podporządkowana radzieckiemu kontrwywiadowi – a od 1957 roku Wojskowa Służba Wewnętrzna, oraz sama partia. Od 1955 roku armia należała do Układu Warszawskiego; na wypadek wojny miała tworzyć Front Nadmorski liczący około 400 tysięcy żołnierzy.
 
-## Służba i codzienność
-Dla setek tysięcy mężczyzn armia oznaczała dwuletnią służbę zasadniczą, a dla gospodarki – stałe zapotrzebowanie na ludzi i środki. Wojsko było też obecne w kulturze: przez festiwal piosenki żołnierskiej, filmy wojenne i uroczystości państwowe.`,
+## Przeciw obywatelom
+Wojsko kierowano przeciw własnym obywatelom: w Poznaniu w czerwcu 1956 roku, na Wybrzeżu w grudniu 1970 roku – z rozkazu gen. Wojciecha Jaruzelskiego – i 13 grudnia 1981 roku, gdy w akcji wzięło udział 70 tysięcy żołnierzy i 1750 czołgów. W sierpniu 1968 roku 2 Armia pod dowództwem gen. Floriana Siwickiego uczestniczyła w inwazji na Czechosłowację.
+
+## Codzienność
+Dla setek tysięcy mężczyzn armia oznaczała dwuletnią służbę zasadniczą. Po wojnie saperzy rozminowali 80 procent powierzchni kraju. Wojsko było obecne w kulturze – przez festiwal piosenki żołnierskiej, filmy wojenne i defilady.`,
     trivia: [
-      'W latach 1949–1956 ministrem obrony narodowej Polski był marszałek Związku Radzieckiego.',
-      'Nad armią czuwały równolegle trzy struktury kontroli: aparat polityczny, kontrwywiad wojskowy i komisja partyjna.',
+      'W grudniu 1945 roku 54 z 63 generałów w polskim wojsku było oficerami Armii Czerwonej.',
+      'W latach 1944–1956 saperzy usunęli prawie 15 milionów min i rozminowali 80 procent powierzchni kraju.',
+      'Na wypadek wojny polska armia miała tworzyć w Układzie Warszawskim Front Nadmorski liczący około 400 tysięcy żołnierzy.',
     ],
     resources: [
       {
@@ -20029,20 +20033,24 @@ Turowicz uczestniczył w obradach Okrągłego Stołu jako członek strony solida
     summary: 'Pokazowy proces w Moskwie w 1945 roku przeciw szesnastu przywódcom Polskiego Państwa Podziemnego, podstępnie aresztowanym przez NKWD.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/THE_TRIAL_OF_THE_SIXTEEN%2C_JUNE_1945_Presiding_judge_of_the_trial%2C_Colonel-General_Vasiliy_Ulrikh_%28centre%29.jpg?width=800',
     imageCaption: 'Proces szesnastu w Moskwie, czerwiec 1945 – sędzia Wasilij Ulrich pośrodku',
-    content: `## Podstęp
-W marcu 1945 roku przywódcy Polskiego Państwa Podziemnego przyjęli zaproszenie na rozmowy z przedstawicielem dowództwa radzieckiego, otrzymawszy gwarancje bezpieczeństwa. Zamiast negocjacji nastąpiło aresztowanie: szesnastu osób wywieziono do Moskwy.
+    content: `## Tło
+Na konferencji w Jałcie w lutym 1945 roku mocarstwa zdecydowały, że nowy rząd polski powstanie z poszerzenia komunistycznego Rządu Tymczasowego. Przywódcy Polskiego Państwa Podziemnego liczyli, że wejście do takiego rządu pozwoli ocalić choć część niepodległości. Rada Jedności Narodowej pierwotnie odradzała rozmowy z Sowietami, ale ostatecznie je zaakceptowała; naciskały na to także Londyn i Waszyngton.
+
+## Pułapka
+Rozmowy organizował płk Pimienow, wysłannik gen. NKWD Iwana Sierowa, występującego jako „gen. Iwanow”. Ręczył słowem honoru za bezpieczeństwo Polaków. 27 i 28 marca 1945 roku przywódcy podziemia przyjechali do willi w Pruszkowie przy ul. Pęcickiej, która była siedzibą NKWD. Wszystkich aresztowano i wywieziono samolotem do Moskwy.
 
 ## Kto
-Wśród zatrzymanych byli Delegat Rządu na Kraj Jan Stanisław Jankowski, ostatni komendant Armii Krajowej gen. Leopold Okulicki i przewodniczący Rady Jedności Narodowej Kazimierz Pużak. Aresztowano więc jednocześnie cywilne i wojskowe kierownictwo podziemia.
+Wśród aresztowanych byli Delegat Rządu Jan Stanisław Jankowski, gen. Leopold Okulicki, przewodniczący RJN Kazimierz Pużak oraz przedstawiciele PPS-WRN, Stronnictwa Narodowego, Stronnictwa Pracy, Stronnictwa Ludowego i Zjednoczenia Demokratycznego. Dopiero 3 maja w San Francisco Mołotow przyznał Amerykanom i Brytyjczykom, że Polacy są w areszcie.
 
 ## Proces
-Rozprawa odbyła się w czerwcu 1945 roku przed Kolegium Wojskowym Sądu Najwyższego ZSRR. Oskarżono ich o dywersję na tyłach Armii Czerwonej i działalność wrogą wobec Związku Radzieckiego. Zapadły wyroki więzienia; najwyższy, dziesięcioletni, otrzymał Okulicki.
+Po prawie trzech miesiącach przesłuchań na Łubiance proces odbył się 18–21 czerwca 1945 roku przed Kolegium Wojskowym Sądu Najwyższego ZSRR. Przewodniczył Wasilij Ulrich, sędzia z procesów wielkiej czystki. Oskarżono ich o dywersję na tyłach Armii Czerwonej i tworzenie organizacji NIE. Najwyższy wyrok, 10 lat, dostał Okulicki, Jankowski – 8 lat. Antoniego Pajdaka skazano osobno, w tajnym postępowaniu.
 
 ## Znaczenie
-Proces toczył się dokładnie wtedy, gdy w Moskwie negocjowano skład Tymczasowego Rządu Jedności Narodowej. Zbieżność nie była przypadkowa: usunięcie przywódców podziemia poprzedziło porozumienie, które Zachód uznał kilka tygodni później. Okulicki i Jankowski zmarli w radzieckich więzieniach.`,
+Proces toczył się dokładnie wtedy, gdy w Moskwie ustalano skład Tymczasowego Rządu Jedności Narodowej. Okulicki, Jankowski i Stanisław Jasiukowicz zmarli w radzieckich więzieniach.`,
     trivia: [
-      'Aresztowanych zwabiono na rozmowy, dając im wcześniej gwarancje bezpieczeństwa.',
-      'Proces toczył się w tym samym czasie, gdy w Moskwie ustalano skład Tymczasowego Rządu Jedności Narodowej.',
+      'Polaków zwabiono do willi w Pruszkowie, która była siedzibą NKWD; płk Pimienow ręczył za ich bezpieczeństwo słowem honoru.',
+      'Sądem kierował Wasilij Ulrich, który w latach 30. skazywał na śmierć ofiary wielkiej czystki.',
+      'Przez ponad miesiąc ZSRR zaprzeczał, że Polacy zostali aresztowani – Mołotow przyznał to dopiero 3 maja w San Francisco.',
     ],
     resources: [
       {
@@ -22898,21 +22906,25 @@ Ostrowska odeszła z zespołu na początku lat 90. i rozwinęła karierę solow�
     tags: ['muzyka', 'rock', 'nowa fala', 'lata 80.'],
     yearStart: 1979,
     yearEnd: 1989,
-    summary: 'Popularny zespół rockowy pierwszej połowy lat 80., znany z przebojów „Andzia” i „Party”.',
-    content: `## Zespół
-Oddział Zamknięty powstał w 1980 roku w Warszawie i wszedł na scenę razem z całą falą polskiego rocka początku dekady. Grał prosty, energiczny rock gitarowy; pierwszym wokalistą był Krzysztof Jaryczewski, a gitarzystą Wojciech Łuczaj-Pogorzelski.
+    summary: 'Warszawski zespół rockowy założony w 1979 roku, autor przebojów „Ten wasz świat”, „Party” i „Andzia i ja”; jeden z najpopularniejszych w pierwszej połowie lat 80.',
+    content: `## Początki
+Oddział Zamknięty powstał w listopadzie 1979 roku w Warszawie z zespołu grającego na studniówkach, który założyli wokalista Krzysztof Jaryczewski i perkusista Jarosław Szlagowski. Dołączyli gitarzysta Wojciech Łuczaj-Pogorzelski – jedyny muzyk obecny w zespole przez cały czas – i basista Paweł Mścisławski. Pod nazwą Oddział Zamknięty zadebiutowali wiosną 1980 roku w domu kultury na Mokotowie.
 
-## Przeboje
-„Party”, „Andzia i ja” i „Ten wasz świat” zapewniły grupie miejsce na listach przebojów i w repertuarze koncertowym na kolejne dekady. Debiutancka płyta ukazała się w 1983 roku, w momencie największej popularności zespołu.
+## Kryzysy
+Na początku 1981 roku zespół zawiesił działalność z powodu problemów Jaryczewskiego z alkoholem. Jesienią tego roku wokalista, by uniknąć wojska, upozorował próbę samobójczą i do listopada przebywał w szpitalu psychiatrycznym. W 1982 roku Szlagowski i Mścisławski odeszli do Lady Pank.
 
-## Jarocin i kluby
-O istnieniu grupy rockowej w latach 80. decydowały festiwal w Jarocinie i sieć klubów studenckich, a nie radio czy telewizja. Oddział Zamknięty przeszedł tę samą drogę co Perfect, Lady Pank czy Republika – od koncertów w salach uczelnianych do stadionowej publiczności.
+## Szczyt popularności
+Pierwsze nagrania – „Ten wasz świat”, „Ich marzenia”, „Obudź się” – trafiły na debiutancki album, a w 1983 roku singel z „Andzią i ja” i „Jestem zły”. Zespół zagrał w filmach „To tylko rock” i „Miłość z listy przebojów”, a logo „OZ” zaprojektował Marek Kościkiewicz, późniejszy założyciel De Mono. 29 lutego 1984 roku podpisywanie płyty w salonie Polskich Nagrań na Nowym Świecie zablokowało ulicę, poleciały szyby, interweniowała milicja.
 
-## Zmiany i trwałość
-Skład zmieniał się wielokrotnie, Jaryczewski odszedł w 1984 roku, zespół zawieszał i wznawiał działalność. Mimo to jego piosenki pozostały muzycznym znakiem dekady, w której rock stał się w Polsce główną muzyką młodzieżową – i jednym z niewielu miejsc, gdzie młodzi mówili własnym językiem.`,
+## Reda by Night
+W 1984 roku ukazał się album „Reda by Night” z przebojami „To tylko pech”, „Bobby X” i „Horror”. W czerwcu zespół zagrał w Opolu, a w lipcu dał recital w Kołobrzegu. Opinia „złych chłopców” z hotelowych i koncertowych awantur tylko dodawała mu popularności.
+
+## Trwałość
+Skład wielokrotnie się zmieniał, ale piosenki „Party”, „Andzia i ja” czy „Ten wasz świat” pozostały muzycznym znakiem dekady, w której rock stał się główną muzyką młodzieży.`,
     trivia: [
-      'O istnieniu zespołu rockowego decydował wtedy Jarocin i kluby studenckie, a nie radio.',
-      '„Party” i „Andzia i ja” pozostały w repertuarze koncertowym przez dekady.',
+      'Podpisywanie debiutanckiej płyty w lutym 1984 roku na Nowym Świecie zakończyło się wybitymi szybami i interwencją milicji.',
+      'Logo „OZ” zaprojektował Marek Kościkiewicz, późniejszy założyciel De Mono.',
+      'W 1982 roku perkusista i basista zespołu odeszli do Lady Pank.',
     ],
     resources: [
       {
@@ -29882,20 +29894,24 @@ Na kolaudacji w październiku 1972 roku zarzucano filmowi pokazywanie osób na w
     summary: 'Wokalistka rock and rolla i big-beatu, „dziewczyna z gitarą”; z Czerwono-Czarnymi nagrała przebój „Malowana lala”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Karin_Stanek%2C_1967_r.jpg?width=800',
     imageCaption: 'Karin Stanek w teledysku do „Soboty”, 1967',
-    content: `## Dziewczyna z gitarą
-Karin Stanek (1943–2011) pochodziła z Bytomia i śpiewała w zespole Czerwono-Czarni. Na scenie zachowywała się inaczej niż ówczesne wokalistki: energicznie, chłopięco, bez estradowej sztuczności – i to zdecydowało o jej pozycji jako jednego z symboli polskiego big-beatu.
+    content: `## Z Bytomia
+Karin Stanek (1943–2011) pochodziła z wielodzietnej rodziny górniczej z Bytomia. Po siedmiu klasach pracowała jako goniec, a śpiewać uczyła się sama w amatorskich zespołach. Później, już jako gwiazda, zdała wieczorowo maturę. Zmagała się z krytyką za brak wykształcenia i z uprzedzeniami wobec śląskiego pochodzenia.
 
-## Przeboje
-Jej najbardziej znane nagrania to „Malowana lala” (właściwie „Malowana piosenka”), „Chłopiec z gitarą”, „Jedziemy autostopem” i „Jimmy Joe”. „Jedziemy autostopem” stało się nieformalnym hymnem młodzieżowego stopowania – sposobu podróżowania, który w latach 60. miał w Polsce własny, oficjalnie firmowany system książeczek autostopowicza.
+## Czerwono-Czarni
+W marcu 1962 roku wygrała piosenką „Jimmy Joe” konkurs „Czerwono-Czarni szukają młodych talentów” i została wokalistką zespołu. Latem 1962 roku w Sopocie publiczność entuzjastycznie przyjęła „Malowaną piosenkę”, znaną powszechnie jako „Malowana lala”.
 
-## Emigracja
-W latach 60. należała do najpopularniejszych polskich piosenkarek. Później wyjechała do Republiki Federalnej Niemiec, gdzie mieszkała do końca życia i gdzie zmarła w Wolfenbüttel. Powroty na polskie sceny były rzadkie.
+## Opole i film
+Na pierwszym festiwalu w Opolu w 1963 roku dostała wyróżnienie za „Autostop” i „Chłopca z gitarą”, a w 1964 roku nagrodę specjalną za „Jedziemy autostopem”. Wystąpiła w filmie „Dwa żebra Adama” Janusza Morgensterna. Jej pierwsza płyta długogrająca ukazała się w 1966 roku w USA. Władze kilkakrotnie nie pozwoliły jej wyjechać za granicę.
 
-## Miejsce w epoce
-Stanek pokazuje, jak krótkie bywały kariery estradowe w PRL: pozycja gwiazdy zależała od dostępu do radia, festiwali i państwowych agencji, a wyjazd z kraju oznaczał w praktyce zniknięcie z tego obiegu.`,
+## Solo i wyjazd
+W 1969 roku odeszła z Czerwono-Czarnych. W latach 70. prasa atakowała ją, a jej występy w Opolu w 1974 roku wycięto z transmisji telewizyjnej. Od 1975 roku występowała głównie za granicą, a pod koniec lat 70. wyjechała do RFN. Nagrywała po niemiecku i angielsku, przyjęła niemieckie obywatelstwo i zamieszkała w Wolfenbüttel.
+
+## Powrót
+Do Polski wróciła na scenę dopiero w 1991 roku i znów cieszyła się popularnością. Zmarła w Niemczech w 2011 roku. Miesięcznik „Machina” zaliczył ją do 50 najlepszych polskich wokalistek.`,
     trivia: [
-      'Śpiewała „Jedziemy autostopem” w czasach, gdy autostop w Polsce miał oficjalny system książeczek dla podróżujących.',
-      '„Malowana lala” to potoczny tytuł – piosenka nazywa się w istocie „Malowana piosenka”.',
+      '„Malowana lala” to potoczny tytuł – piosenka nazywa się „Malowana piosenka”.',
+      'Do Czerwono-Czarnych trafiła w 1962 roku, wygrywając konkurs piosenką „Jimmy Joe”.',
+      'Jej występy w Opolu w 1974 roku wycięto z telewizyjnej transmisji.',
     ],
     resources: [
       {
@@ -32748,19 +32764,26 @@ Odmowy zgód budowlanych były jednym z najczęstszych zarzewi lokalnych konflik
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Cyrankiewicz.jpg?width=800',
     imageCaption: 'Józef Cyrankiewicz, premier przez blisko dwadzieścia lat PRL',
     content: `## Pozycja urzędu
-W ustroju PRL premier kierował administracją i gospodarką, ale nie był najważniejszą osobą w państwie. Kierunek polityki wyznaczało Biuro Polityczne PZPR z I sekretarzem na czele, a rząd wykonywał jego uchwały. Premier bywał więc raczej zarządcą niż przywódcą.
+W ustroju PRL premier kierował administracją i gospodarką, ale nie był najważniejszą osobą w państwie. Kierunek polityki wyznaczało Biuro Polityczne z I sekretarzem na czele, a rząd wykonywał jego uchwały. Premier bywał więc raczej zarządcą niż przywódcą.
 
-## Kolejni szefowie rządu
-Pierwszym premierem był Edward Osóbka-Morawski, po nim rząd prowadzili kolejno Józef Cyrankiewicz – rekordzista, kierujący gabinetem z przerwą przez ponad dwadzieścia lat – następnie Piotr Jaroszewicz w dekadzie Gierka, Edward Babiuch i Józef Pińkowski w kryzysowym roku 1980, gen. Wojciech Jaruzelski od lutego 1981, a w latach 80. Zbigniew Messner i Mieczysław Rakowski.
+## Pierwsze lata
+Pierwszym szefem rządu był Edward Osóbka-Morawski – od 1944 roku przewodniczący PKWN, potem premier Rządu Tymczasowego i TRJN. W 1947 roku zastąpił go Józef Cyrankiewicz. W latach 1952–1954 premierem był sam Bolesław Bierut – jedyny okres, gdy przywódca partii stał zarazem na czele rządu.
+
+## Cyrankiewicz i Jaroszewicz
+Cyrankiewicz wrócił w 1954 roku i rządził do grudnia 1970 roku – łącznie ponad dwadzieścia lat, najdłużej w historii urzędu. Po Grudniu 1970 roku premierem został Piotr Jaroszewicz, twarz gospodarczej dekady Gierka.
+
+## Rok 1980 i Jaruzelski
+W lutym 1980 roku Jaroszewicza zastąpił Edward Babiuch, a w sierpniu, w czasie strajków, Józef Pińkowski. W lutym 1981 roku premierem został gen. Wojciech Jaruzelski, który w październiku objął także kierownictwo partii. Rząd oddał w 1985 roku Zbigniewowi Messnerowi, a jesienią 1988 roku premierem został Mieczysław Rakowski.
 
 ## Premier jako amortyzator
-Zmiana premiera bywała sposobem na rozładowanie napięcia bez naruszania układu władzy: rząd odchodził, obwiniany za błędy gospodarcze, a partia trwała. Tak było w 1980 roku, gdy w ciągu kilku miesięcy zmieniono szefa rządu dwukrotnie.
+Zmiana premiera bywała sposobem na rozładowanie napięcia bez naruszania układu władzy: rząd odchodził, obwiniany za błędy gospodarcze, a partia trwała.
 
 ## Przełom 1989
-We wrześniu 1989 roku premierem został Tadeusz Mazowiecki – pierwszy od czterdziestu lat szef rządu niepochodzący z partii komunistycznej.`,
+Po wyborach czerwcowych misję tworzenia rządu dostał gen. Czesław Kiszczak, ale nie zdołał go sformować. W sierpniu 1989 roku premierem został Tadeusz Mazowiecki – pierwszy od ponad czterdziestu lat szef rządu niepochodzący z partii komunistycznej.`,
     trivia: [
+      'W latach 1952–1954 premierem był Bolesław Bierut – jedyny raz w PRL szef partii kierował jednocześnie rządem.',
       'Józef Cyrankiewicz stał na czele rządu w latach 1947–1952 i 1954–1970 – najdłużej w historii urzędu.',
-      'W 1980 roku premier zmieniał się dwukrotnie w ciągu kilku miesięcy – zmiana rządu miała zastąpić zmianę systemu.',
+      'W 1980 roku premier zmieniał się dwukrotnie – zmiana rządu miała zastąpić zmianę systemu.',
     ],
     resources: [
       {
@@ -34215,18 +34238,22 @@ Od maja 1982 do listopada 1985 roku zasiadał w Radzie Państwa, a do 1989 był 
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Leopold_Okulicki_dow%C3%B3dca_7_DP_w_2_Korpusie_Polskim_gen._Andersa_1943_%28digital_restoration%29.jpg?width=800',
     imageCaption: 'Gen. Leopold Okulicki',
     content: `## Żołnierz
-Leopold Okulicki (1898–1946), pseudonim „Niedźwiadek”, był współtwórcą konspiracji od jej początków. Aresztowany przez NKWD w 1941 roku, po układzie Sikorski–Majski wyszedł na wolność i trafił do armii gen. Andersa. Do okupowanej Polski wrócił jako cichociemny.
+Leopold Okulicki (1898–1946), pseudonim „Niedźwiadek”, urodził się w chłopskiej rodzinie w Bratucicach pod Bochnią. Jako szesnastolatek wstąpił do Legionów, walczył w wojnie z bolszewikami i dostał Virtuti Militari z rąk Piłsudskiego. W 1939 roku był współtwórcą konspiracji SZP-ZWZ.
+
+## Więzień NKWD
+W 1941 roku jako komendant ZWZ pod okupacją sowiecką został aresztowany przez NKWD; przeszedł przez Brygidki, Łubiankę i Lefortowo. Po układzie Sikorski–Majski zwolniony, był szefem sztabu armii gen. Andersa i zorganizował komórkę poszukującą zaginionych polskich oficerów. Do kraju wrócił jako cichociemny w 1944 roku.
 
 ## Ostatni komendant
-Po upadku Powstania Warszawskiego objął komendę główną Armii Krajowej. To on 19 stycznia 1945 roku wydał rozkaz rozwiązujący AK – decyzję podjętą wobec wkroczenia Armii Czerwonej i aresztowań żołnierzy podziemia. Kierował też organizacją NIE, przygotowywaną na wypadek okupacji radzieckiej.
+Po upadku Powstania Warszawskiego objął komendę główną AK. 19 stycznia 1945 roku, za zgodą Naczelnego Wodza, rozwiązał Armię Krajową, by odebrać NKWD pretekst do represji, i zwolnił żołnierzy z przysięgi. Równocześnie kierował organizacją NIE, przygotowaną na wypadek sowieckiej okupacji.
 
-## Podstęp
-W marcu 1945 roku, wraz z piętnastoma innymi przywódcami Polskiego Państwa Podziemnego, przyjął zaproszenie na rozmowy z przedstawicielem dowództwa radzieckiego. Wszystkich aresztowano i wywieziono do Moskwy.
+## Pułapka
+W marcu 1945 roku przyjął zaproszenie gen. Iwana Sierowa, występującego jako gen. Iwanow, na rozmowy w Pruszkowie. 27 marca został aresztowany razem z Delegatem Rządu Janem Stanisławem Jankowskim i przewodniczącym RJN Kazimierzem Pużakiem, a następnego dnia aresztowano kolejnych przywódców podziemia. Wszystkich wywieziono do Moskwy.
 
-## Śmierć
-W procesie szesnastu otrzymał najwyższy wyrok – dziesięć lat więzienia. Zmarł w więzieniu na Butyrkach 24 grudnia 1946 roku, w okolicznościach do dziś nie w pełni wyjaśnionych. Przez cały okres PRL jego nazwisko było w oficjalnym obiegu przemilczane albo obrzucane oskarżeniami.`,
+## Proces i śmierć
+W procesie szesnastu Stalin traktował go jako najgroźniejszego przeciwnika; Okulicki bronił AK i dostał najwyższy wyrok – 10 lat więzienia. Zmarł na Butyrkach 24 grudnia 1946 roku. W PRL jego nazwisko przemilczano albo oczerniano.`,
     trivia: [
-      'Rozkaz rozwiązujący Armię Krajową wydał 19 stycznia 1945 roku, gdy front przesuwał się na zachód.',
+      'Krzyż Virtuti Militari za wojnę 1920 roku wręczył mu osobiście Józef Piłsudski.',
+      'Jako szef sztabu armii Andersa zorganizował komórkę szukającą polskich oficerów zaginionych w ZSRR – późniejszych ofiar Katynia.',
       'Zmarł w moskiewskim więzieniu na Butyrkach w Wigilię 1946 roku.',
     ],
     resources: [
@@ -34284,20 +34311,24 @@ W procesie szesnastu otrzymał najwyższy wyrok – dziesięć lat więzienia. Z
     summary: 'Socjalista i premier rządu RP na uchodźstwie w latach 1944–1947; do 5 lipca 1945 roku kierował rządem uznawanym międzynarodowo za władze Polski.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tomasz_Arciszewski.jpg?width=800',
     imageCaption: 'Tomasz Arciszewski, premier rządu RP na uchodźstwie, 1944',
-    content: `## Bojowiec i poseł
-Tomasz Arciszewski (1877–1955) zaczynał w Organizacji Bojowej PPS w czasach zaborów. W niepodległej Polsce był ministrem poczt i telegrafów w pierwszych rządach oraz posłem przez cztery kadencje. W czasie okupacji kierował podziemną PPS-WRN.
+    content: `## Bojowiec
+Tomasz Arciszewski (1877–1955) jako dziesięciolatek poszedł do pracy, był ślusarzem i hutnikiem w Zagłębiu. Od 1896 roku działał w PPS, siedział w carskich więzieniach, a w Organizacji Bojowej PPS współorganizował zamachy na rosyjskich urzędników. W 1908 roku razem z Józefem Piłsudskim brał udział w akcji pod Bezdanami.
 
-## Premier w Londynie
-Urząd premiera rządu na uchodźstwie objął pod koniec 1944 roku, po dymisji Stanisława Mikołajczyka, który odszedł, gdy rząd nie zgodził się na oddanie ziem wschodnich. Arciszewski reprezentował linię twardą: bez uznania granicy na linii Curzona i bez wchodzenia w układ z Moskwą.
+## Poseł i minister
+W 1914 roku wstąpił do Legionów. W 1918 roku był ministrem poczt i telegrafów w rządzie lubelskim i w rządzie Moraczewskiego, potem posłem na Sejm przez cztery kadencje i działaczem samorządu Warszawy. W czasie okupacji kierował podziemną PPS-WRN.
 
-## Utrata uznania
-5 lipca 1945 roku mocarstwa zachodnie cofnęły uznanie jego rządowi, przenosząc je na Tymczasowy Rząd Jedności Narodowej. Od tego dnia rząd w Londynie działał już tylko jako emigracyjna kontynuacja państwa – bez ambasad, bez środków, bez wpływu na wydarzenia w kraju.
+## Most III
+W lipcu 1944 roku samolot alianckiej operacji „Most III” wywiózł go z tajnego lądowiska pod Radłowem. W Londynie prezydent Raczkiewicz wyznaczył go na swojego następcę, a po dymisji Mikołajczyka w listopadzie 1944 roku Arciszewski został premierem.
 
-## Trwanie
-Arciszewski pozostał premierem do 1947 roku i do końca życia działał na emigracji. Rząd RP na uchodźstwie przetrwał wszystkie dekady PRL i rozwiązał się dopiero w grudniu 1990 roku, przekazując insygnia prezydenckie Lechowi Wałęsie.`,
+## Premier
+Reprezentował linię twardą. Krytycznie oceniał ugodowe pomysły Mikołajczyka, a postanowienia jałtańskie nazwał nowym rozbiorem Polski dokonanym przez jej sojuszników. 5 lipca 1945 roku mocarstwa zachodnie cofnęły jego rządowi uznanie, przenosząc je na Tymczasowy Rząd Jedności Narodowej.
+
+## Ostatni premier II RP
+Rząd Arciszewskiego, powołany zgodnie z konstytucją kwietniową, był prawną kontynuacją rządu z 1939 roku – dlatego Arciszewskiego nazywa się ostatnim premierem II Rzeczypospolitej uznawanym przez świat. W 1947 roku nowy prezydent August Zaleski odwołał go z funkcji. Zmarł w Londynie w 1955 roku. Rząd na uchodźstwie przetrwał do grudnia 1990 roku, gdy przekazał insygnia Lechowi Wałęsie.`,
     trivia: [
-      'Objął urząd premiera, gdy Mikołajczyk odszedł po odmowie zgody na oddanie ziem wschodnich.',
-      'Rząd RP na uchodźstwie, którym kierował, przetrwał cały okres PRL i rozwiązał się dopiero w 1990 roku.',
+      'W 1908 roku razem z Józefem Piłsudskim brał udział w akcji pod Bezdanami, gdzie zdobyto pieniądze z rosyjskiego pociągu pocztowego.',
+      'Z okupowanej Polski wydostał się w lipcu 1944 roku samolotem operacji „Most III”.',
+      'Postanowienia jałtańskie nazwał nowym rozbiorem Polski dokonanym przez jej sojuszników.',
     ],
     resources: [
       {
@@ -36083,7 +36114,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1972, event: 'Ryszard Szurkowski wygrywa Wyścig Pokoju', category: 'społeczeństwo', entryId: 'szurkowski-ryszard' },
   { year: 1974, event: 'Premiera „Potopu” Jerzego Hoffmana według Sienkiewicza', category: 'kultura', entryId: 'hoffman-jerzy' },
   { year: 1981, event: 'Zamach na Jana Pawła II na placu św. Piotra (13 maja)', category: 'społeczeństwo', entryId: 'zamach-na-jp2' },
-  { year: 1945, event: 'Proces szesnastu w Moskwie – sąd nad przywódcami Polski Podziemnej', category: 'represje', entryId: 'proces-szesnastu' },
+  { year: 1945, event: 'Proces szesnastu w Moskwie (18–21 czerwca) – sąd nad przywódcami Polski Podziemnej', category: 'represje', entryId: 'proces-szesnastu' },
   { year: 1945, event: 'Obława augustowska – „mały Katyń”, zaginięcie ok. 600 osób', category: 'represje', entryId: 'oblawa-augustowska' },
   { year: 1950, event: 'Reforma walutowa – gotówkę wymieniono 100 do 1, płace i ceny przeliczono 100 do 3', category: 'gospodarka', entryId: 'wymiana-pieniedzy-1950' },
   { year: 1953, event: 'Stracenie gen. Emila Fieldorfa „Nila”', category: 'represje', entryId: 'fieldorf-nil' },
@@ -36221,7 +36252,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1964, event: 'Kasia Sobczyk wygrywa w Opolu piosenką „O mnie się nie martw”', category: 'kultura', entryId: 'kasia-sobczyk' },
   { year: 1966, event: 'Franciszek Pieczka jako Gustlik w „Czterech pancernych i psie”', category: 'kultura', entryId: 'franciszek-pieczka' },
   { year: 1976, event: 'Premiera komedii „Brunet wieczorową porą” Stanisława Barei', category: 'kultura', entryId: 'brunet-wieczorowa-pora' },
-  { year: 1962, event: 'Karin Stanek – „Malowana lala” z Czerwono-Czarnymi (Sopot)', category: 'kultura', entryId: 'karin-stanek' },
+  { year: 1962, event: 'Karin Stanek śpiewa w Sopocie „Malowaną piosenkę” („Malowana lala”) z Czerwono-Czarnymi', category: 'kultura', entryId: 'karin-stanek' },
   { year: 1966, event: 'Wiesław Gołas jako Tomasz Czereśniak w „Czterech pancernych”', category: 'kultura', entryId: 'wieslaw-golas' },
   { year: 1973, event: '22 kwietnia – premiera komedii „Poszukiwany, poszukiwana” Stanisława Barei', category: 'kultura', entryId: 'poszukiwany-poszukiwana' },
   { year: 1963, event: 'Helena Majdaniec, „królowa twista”, na pierwszym festiwalu w Opolu', category: 'kultura', entryId: 'helena-majdaniec' },
@@ -36574,4 +36605,5 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1947, event: 'Bolesław Piasecki zakłada Stowarzyszenie PAX', category: 'osoby', entryId: 'piasecki' },
   { year: 1989, event: '15 marca – nowe prawo dewizowe legalizuje kantory, koniec ery cinkciarzy', category: 'gospodarka', entryId: 'czarny-rynek' },
   { year: 1978, event: 'Bajm debiutuje w Opolu piosenką „Piechotą do lata”', category: 'kultura', entryId: 'bajm-zespol' },
+  { year: 1943, event: '12–13 października – bitwa pod Lenino, pierwsza walka 1 Dywizji im. Kościuszki', category: 'wojsko', entryId: 'lwp' },
 ];
