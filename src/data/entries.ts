@@ -1157,23 +1157,30 @@ W 2008 roku prokuratura IPN oskarżyła Jaruzelskiego o wydanie bezprawnych rozk
     tags: ['Wałęsa', 'Solidarność', 'Nobel', 'stocznia', 'Gdańsk', 'Prezydent'],
     yearStart: 1943,
     yearEnd: 1989,
-    summary: 'Lech Wałęsa – elektryk z Gdańska, który stał się symbolem pokojowego oporu przeciw komunizmowi. Przywódca Solidarności, laureat Pokojowej Nagrody Nobla (1983) i Prezydent RP (1990–1995).',
+    summary: 'Lech Wałęsa – elektryk ze Stoczni Gdańskiej, przywódca strajku sierpniowego i pierwszy przewodniczący Solidarności, laureat Pokojowej Nagrody Nobla (1983), prezydent RP w latach 1990–1995.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Lech%20Wa%C5%82%C4%99sa%201980.jpg?width=800',
     imageCaption: 'Lech Wałęsa w czasie strajku w Stoczni Gdańskiej, 1980.',
     content: `## Elektryk ze stoczni
-Lech Wałęsa (ur. 1943) pracował jako elektryk w Stoczni Gdańskiej. Uczestniczył w protestach grudnia 1970 roku, a w latach 70. działał w Wolnych Związkach Zawodowych Wybrzeża, za co był zwalniany z pracy i zatrzymywany.
+Lech Wałęsa urodził się 29 września 1943 roku w Popowie. Od 1967 roku pracował jako elektryk w Stoczni Gdańskiej. W grudniu 1970 roku wchodził w skład stoczniowego komitetu strajkowego. W latach 70. był inwigilowany, zatrzymywany i przesłuchiwany przez SB, a w 1976 roku zwolniony z pracy. Działał w Wolnych Związkach Zawodowych Wybrzeża.
 
 ## Sierpień 1980
-14 sierpnia 1980 roku przedostał się na teren strajkującej stoczni i stanął na czele Międzyzakładowego Komitetu Strajkowego. To on podpisał porozumienia sierpniowe i został pierwszym przewodniczącym Solidarności – związku, który w ciągu kilku miesięcy skupił blisko dziesięć milionów członków.
+14 sierpnia 1980 roku dołączył do strajku w stoczni, przygotowanego przez Bogdana Borusewicza i rozpoczętego przez Jerzego Borowczaka, Bogdana Felskiego i Ludwika Prądzyńskiego. Gdy komitet chciał zakończyć protest, ogłosił strajk solidarnościowy i stanął na czele Międzyzakładowego Komitetu Strajkowego. 31 sierpnia podpisał porozumienie z wicepremierem Mieczysławem Jagielskim – wielkim długopisem z wizerunkiem Jana Pawła II.
 
-## Stan wojenny i Nobel
-Internowany 13 grudnia 1981 roku, zwolniony po roku, pozostał symbolem oporu. W 1983 roku otrzymał Pokojową Nagrodę Nobla; po odbiór nie pojechał, obawiając się, że nie zostanie wpuszczony z powrotem – odebrała ją żona.
+## Przewodniczący
+Współtworzył NSZZ „Solidarność” i został jej pierwszym przewodniczącym – związek w ciągu kilku miesięcy skupił blisko dziesięć milionów członków.
 
-## Okrągły Stół i później
-W 1989 roku był głównym negocjatorem strony solidarnościowej przy Okrągłym Stole, a w latach 1990–1995 prezydentem Rzeczypospolitej. Jego rola i biografia pozostają przedmiotem sporu, ale znaczenie momentu sierpniowego nie jest kwestionowane.`,
+## Stan wojenny
+Po 13 grudnia 1981 roku przetrzymywano go m.in. w Chylicach, Otwocku Wielkim i od maja 1982 roku w Arłamowie. Władze próbowały nakłonić go do rozmów o nowej, kontrolowanej „Solidarności”, ale odmówił. Zwolniono go w listopadzie 1982 roku.
+
+## Nobel
+W 1983 roku otrzymał Pokojową Nagrodę Nobla. Nie pojechał do Oslo, obawiając się, że nie wpuszczą go z powrotem; nagrodę odebrała żona Danuta z synem Bogdanem, a przemówienie odczytał Bohdan Cywiński.
+
+## Droga do Okrągłego Stołu
+W 1988 roku uzgodnił z gen. Kiszczakiem rozmowy przy Okrągłym Stole, a w telewizyjnej debacie zmierzył się z szefem OPZZ Alfredem Miodowiczem. W 1989 roku przewodził stronie solidarnościowej w negocjacjach, a w latach 1990–1995 był prezydentem RP. Jego biografia, w tym sprawa kontaktów z SB w latach 70., pozostaje przedmiotem sporów.`,
     trivia: [
-      'Po Nagrodę Nobla nie pojechał, obawiając się, że nie zostanie wpuszczony z powrotem – odebrała ją żona.',
-      'Solidarność pod jego przewodnictwem skupiła w kilka miesięcy blisko dziesięć milionów członków.',
+      'Porozumienie sierpniowe podpisał ogromnym długopisem z wizerunkiem Jana Pawła II.',
+      'Nobla odebrała w Oslo jego żona Danuta z trzynastoletnim synem Bogdanem.',
+      'Stan wojenny spędził m.in. w ośrodku rządowym w Arłamowie w Bieszczadach.',
     ],
     resources: [
       {
@@ -15956,19 +15963,26 @@ Rozebrany w 2008 roku, ustąpił miejsca Stadionowi Narodowemu, otwartemu w 2012
     yearEnd: 1989,
     summary: 'Nielegalny obrót towarami deficytowymi i walutą obcą, który w warunkach gospodarki niedoboru stał się integralną częścią codzienności.',
     content: `## Dlaczego istniał
-Czarny rynek był nieodłączną częścią gospodarki niedoboru. Skoro ceny urzędowe nie odpowiadały realnej wartości towarów, a wielu rzeczy po prostu nie było w sklepach, obieg nieoficjalny wypełniał lukę – i obejmował praktycznie wszystkich.
+Czarny rynek był nieodłączną częścią gospodarki niedoboru. Ceny urzędowe nie odpowiadały wartości towarów, a wielu rzeczy nie było w sklepach, więc obieg nieoficjalny wypełniał lukę – i obejmował praktycznie wszystkich.
 
-## Waluta
-Posiadanie dewiz było przez znaczną część PRL ograniczone przepisami, a wymiana poza bankiem – nielegalna. Mimo to kurs czarnorynkowy dolara był powszechnie znany i wielokrotnie przewyższał oficjalny. Cinkciarze działali w miejscach publicznych, przy hotelach i sklepach dewizowych.
+## Lata surowości
+Nielegalny handel walutą narodził się w czasie okupacji. Tuż po wojnie nawet państwo skupowało dewizy na czarnym rynku, ale od 1947 roku, w ramach tzw. bitwy o handel, zaczęło je surowo ścigać. Jesienią 1950 roku zakazano posiadania walut i kruszców, a za handel nimi groziła nawet kara śmierci. Ściganie złagodzono dopiero po 1956 roku.
+
+## Cinkciarze
+Pod koniec lat 50. pojawiło się słowo „cinkciarz” – od angielskiego „change cash”. Cinkciarze kupowali i sprzedawali dolary, inne waluty i bony PeKaO przy Peweksach, Baltonach, hotelach, bankach i giełdach samochodowych. Kurs czarnorynkowy wielokrotnie przewyższał oficjalny. Zdarzały się oszustwa: podmiana pieniędzy albo wciskanie banknotów wycofanych z obiegu.
+
+## Tolerowani przez władze
+Milicja rzadko ich niepokoiła, a wielu współpracowało z MO, SB i wywiadem. Dostarczali ludziom dewiz, które trafiały potem do państwowych sklepów walutowych. Państwo ścigało więc obrót nieoficjalny i zarazem z niego korzystało.
 
 ## Nie tylko waluta
-Handlowano wszystkim, czego brakowało: mięsem, benzyną, częściami samochodowymi, materiałami budowlanymi, lekami. Osobnym obiegiem były towary z Peweksu i Baltony, odsprzedawane dalej z zyskiem.
+Handlowano wszystkim, czego brakowało: mięsem, benzyną, częściami samochodowymi, materiałami budowlanymi. Osobny obieg tworzyły towary z Peweksu i Baltony.
 
-## Podwójna moralność
-Państwo ścigało obrót nieoficjalny, ale samo z niego korzystało: sklepy dewizowe przyciągały walutę do budżetu, a bez kombinowania gospodarka nie mogłaby działać. Powstała w ten sposób sytuacja, w której prawie każdy naruszał przepisy i prawie nikt nie uważał tego za nieuczciwość.`,
+## Koniec
+Prawo dewizowe z 15 marca 1989 roku zalegalizowało kantory. Część cinkciarzy, wiedząc o zmianach zawczasu, otworzyła je już następnego dnia.`,
     trivia: [
-      'Kurs czarnorynkowy dolara był powszechnie znany i wielokrotnie przewyższał oficjalny.',
-      'Państwo ścigało obrót nieoficjalny, a jednocześnie korzystało z niego, ściągając dewizy przez sklepy Peweksu i Baltony.',
+      'Słowo „cinkciarz” pochodzi od angielskiego „change cash”, wymawianego „cincz kasz”.',
+      'Jesienią 1950 roku zakazano posiadania walut, a za handel nimi groziła nawet kara śmierci.',
+      'Po legalizacji kantorów w marcu 1989 roku część cinkciarzy z dnia na dzień stała się legalnymi przedsiębiorcami.',
     ],
     resources: [
       {
@@ -24287,23 +24301,27 @@ Po 1989 roku był trenerem, działaczem i politykiem: senatorem w latach 2001–
     tags: ['kultura', 'muzyka', 'estrada', 'big-beat'],
     yearStart: 1963,
     yearEnd: 1989,
-    summary: 'Piosenkarz i gitarzysta, autor nostalgicznego przeboju „Gdzie się podziały tamte prywatki” oraz „Zielonych wzgórz nad Soliną”.',
+    summary: 'Piosenkarz i gitarzysta big-beatu, wykonawca „Zielonych wzgórz nad Soliną” i nagrodzonego w Opolu w 1988 roku przeboju „Gdzie się podziały tamte prywatki”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wojciech_G%C4%85ssowski_2013.jpg?width=800',
     imageCaption: 'Wojciech Gąssowski (fot. współczesna)',
-    content: `## Piosenkarz
-Wojciech Gąssowski (ur. 1943) należy do pokolenia, które zaczynało w big-beacie na początku lat 60. Śpiewał w kilku zespołach tamtej sceny, zanim rozwinął karierę solową, i występuje nieprzerwanie od sześćdziesięciu lat.
+    content: `## Big-beat
+Wojciech Gąssowski urodził się 20 czerwca 1943 roku w Warszawie. Był piosenkarzem, gitarzystą i kompozytorem sceny big-beatowej – śpiewał z Czerwono-Czarnymi, Chochołami, Tajfunami, Polanami, Grupą ABC i zespołem Test.
+
+## Przeboje lat 60. i 70.
+Z Tajfunami wylansował „Zielone wzgórza nad Soliną”, które zaśpiewał na festiwalu w Opolu w 1967 roku. Z zespołem Test śpiewał w latach 70. „Przygodę bez miłości”. Nagrał dwie piosenki do serialu „Wojna domowa”, m.in. „Piosenkę o wadach i zaletach” z Kazimierzem Rudzkim. Grał epizody w filmach, m.in. w „Piłkarskim pokerze”.
+
+## Achille Lauro
+W 1985 roku razem z tancerką Małgorzatą Potocką i baletem Sabat znalazł się wśród zakładników na statku „Achille Lauro”, porwanym przez palestyńskich terrorystów.
 
 ## Gdzie się podziały tamte prywatki
-Największy przebój, nagrany pod koniec lat 70., stał się piosenką pokoleniową: opowiada o tęsknocie za młodością i domowymi zabawami przy adapterze. Utwór okazał się trwalszy niż cała reszta jego dorobku i jest dziś śpiewany na spotkaniach rocznicowych i weselach.
+Największy przebój przyszedł dopiero pod koniec PRL. Tekst Marka Gaszyńskiego powstał jako wiersz na spotkanie po latach z klasą maturalną, a muzykę skomponował Ryszard Poznakowski, który początkowo chciał, by śpiewał to Zbigniew Wodecki. Piosenka wymienia idoli lat 60. – od Elvisa Presleya i Beatlesów po Czerwone Gitary. W 1988 roku Gąssowski zdobył z nią nagrodę w konkursie „Od Opola do Opola”, a w 1989 roku ukazał się album pod tym tytułem.
 
 ## Prywatka
-Prywatka – domowa impreza z muzyką z płyt i taśm – była w PRL podstawową formą życia towarzyskiego młodzieży. Lokali było mało i były drogie, więc tańczono w mieszkaniach, przy zwiniętym dywanie, ze światłem przyciemnionym chustą na lampie. Muzykę stanowiły płyty przywożone z Zachodu i nagrania z radia.
-
-## Ciągłość
-Przetrwał wszystkie zmiany mody: od big-beatu przez disco po współczesne trasy nostalgiczne. Jego repertuar funkcjonuje dziś głównie jako muzyczny znak epoki – co on sam przyjmuje bez złudzeń i z humorem.`,
+Prywatka, czyli domowa impreza z muzyką z płyt i taśm, była podstawową formą życia towarzyskiego młodzieży. Lokali było mało, więc tańczono w mieszkaniach. Dlatego piosenka stała się hymnem pokolenia, które dorastało w latach 60.`,
     trivia: [
-      '„Gdzie się podziały tamte prywatki” stało się piosenką pokoleniową o tęsknocie za młodością.',
-      'Prywatka w mieszkaniu, przy zwiniętym dywanie, była podstawową formą życia towarzyskiego młodzieży.',
+      '„Gdzie się podziały tamte prywatki” Ryszard Poznakowski pisał z myślą o Zbigniewie Wodeckim, który odmówił.',
+      'W 1985 roku był jednym z zakładników na porwanym przez terrorystów statku „Achille Lauro”.',
+      'Śpiewał z Kazimierzem Rudzkim piosenkę do serialu „Wojna domowa”.',
     ],
     resources: [
       {
@@ -29605,23 +29623,27 @@ Współpraca z Tymem doprowadziła cztery lata później do „Misia” – film
     tags: ['muzyka', 'big-beat', 'estrada', 'kobiety'],
     yearStart: 1963,
     yearEnd: 1989,
-    summary: 'Gwiazda polskiej estrady lat 60., „dziewczyna big-beatu”; przeboje „O mnie się nie martw” i „Biedroneczki są w kropeczki” śpiewała cała Polska.',
+    summary: 'Gwiazda big-beatu, wokalistka Czerwono-Czarnych, dwukrotna zwyciężczyni Opola („O mnie się nie martw”, „Nie wiem, czy to warto”), wykonawczyni „Biedroneczek”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kasia%20Sobczyk.jpg?width=800',
     imageCaption: 'Katarzyna Sobczyk na koncercie (fot. współczesna)',
-    content: `## Piosenkarka big-beatu
-Katarzyna Sobczyk (1945–2010), właściwie Kazimiera Sobczyk-Sawicka, była jedną z najpopularniejszych wokalistek okresu big-beatu. Występowała z zespołem Czerwono-Czarni, a jej wizerunek – drobna sylwetka i charakterystyczna grzywka – stał się rozpoznawalnym znakiem epoki.
+    content: `## Z Tyczyna do Koszalina
+Katarzyna Sobczyk, właściwie Kazimiera Sobczyk-Sawicka (1945–2010), urodziła się w Tyczynie, a dzieciństwo spędziła na Pomorzu Zachodnim – w Sianowie i Koszalinie. Debiutowała w 1961 roku z amatorską grupą Biało-Zieloni przy koszalińskim domu kultury, śpiewała też w chórze Collegium Musicum.
 
-## Przeboje
-Największą popularność przyniosły jej piosenki „O mnie się nie martw” i „Mały książę”. Repertuar pisali dla niej czołowi twórcy estradowi tamtych lat, a nagrania trafiały do radia i na festiwale w Opolu i Sopocie – trzy kanały, które w praktyce decydowały wtedy o rozgłosie.
+## Złota Dziesiątka
+W 1963 roku odniosła sukces na Festiwalu Młodych Talentów w Szczecinie i trafiła do Złotej Dziesiątki – grona debiutantów, które otwierało drogę na estradę.
+
+## Czerwono-Czarni
+W latach 1964–1972 występowała z Czerwono-Czarnymi. Na festiwalu w Opolu zdobyła pierwsze nagrody za „O mnie się nie martw” (1964) i „Nie wiem, czy to warto” (1965), a w 1967 roku nagrodę za „Trzynastego”. Śpiewała też „Mały książę”, „Nie bądź taki szybki Bill”, „Biedroneczki są w kropeczki” i „Cztery maki”.
 
 ## Estrada jako instytucja
-Kariera piosenkarki w PRL toczyła się w ramach państwowych agencji artystycznych: to one organizowały trasy, przydzielały stawki i decydowały o wyjazdach zagranicznych. Teksty przechodziły przez cenzurę, co pchało piosenkę w stronę tematów obyczajowych i lirycznych.
+Kariera piosenkarki w PRL toczyła się w ramach państwowych agencji artystycznych, które organizowały trasy i decydowały o wyjazdach. O rozgłosie decydowały radio i festiwale.
 
 ## Później
-W kolejnych dekadach występowała rzadziej, wracając głównie przy okazji koncertów wspominających big-beat. Jej piosenki pozostały jednak w powszechnym obiegu jako muzyczny skrót lat 60.`,
+Po odejściu z Czerwono-Czarnych śpiewała z mężem Henrykiem Fabianem i zespołem Wiatraki. W 1992 roku wyjechała do Chicago, gdzie nagrała dwie płyty. Ciężko chora wróciła do Polski w 2008 roku; zmarła w 2010 roku i spoczęła na Powązkach.`,
     trivia: [
-      'Naprawdę nazywała się Kazimiera Sobczyk-Sawicka – „Kasia” było imieniem scenicznym.',
-      'O rozgłosie piosenkarki decydowały wtedy trzy kanały: radio oraz festiwale w Opolu i Sopocie.',
+      'Dwa lata z rzędu zdobywała pierwsze nagrody w Opolu: w 1964 i 1965 roku.',
+      'Naprawdę miała na imię Kazimiera – „Kasia” było imieniem scenicznym.',
+      'Przez osiem lat, od 1964 do 1972 roku, śpiewała z Czerwono-Czarnymi.',
     ],
     resources: [
       {
@@ -30818,20 +30840,24 @@ Ostatni program miał premierę 13 stycznia 1975 roku. Piosenkę na zakończenie
     summary: 'Saksofonista i kompozytor, jeden z filarów polskiego jazzu; łączył jazz z folklorem, a jego album „Winobranie” (1973) to klasyk gatunku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Namyslowski%20Zbigniew.jpg?width=800',
     imageCaption: 'Zbigniew Namysłowski – saksofonista jazzowy.',
-    content: `## Muzyk
-Zbigniew Namysłowski (1939–2022) był saksofonistą, kompozytorem i aranżerem, jedną z najważniejszych postaci polskiego jazzu. Zaczynał na wiolonczeli i puzonie, zanim wybrał saksofon altowy.
+    content: `## Urodzony w pociągu
+Zbigniew Namysłowski (1939–2022) urodził się 9 września 1939 roku w pociągu, którym rodzice uciekali z Warszawy do Wilna. Oboje zginęli w 1944 roku; wychowała go babka. W Krakowie skończył szkołę muzyczną w klasie fortepianu, a w warszawskim liceum muzycznym uczył się gry na wiolonczeli.
+
+## Od dixielandu do saksofonu
+Z jazzem związał się w 1957 roku w klubie Hybrydy. Najpierw grał na puzonie w zespołach dixielandowych, potem przeszedł na saksofon altowy i jazz nowoczesny. W 1962 roku z zespołem The Wreckers Andrzeja Trzaskowskiego koncertował w USA.
 
 ## Lola
-W 1964 roku nagrał w Londynie płytę „Lola” – pierwszy album polskiego muzyka jazzowego zarejestrowany i wydany na Zachodzie. W państwie reglamentującym paszporty i dewizy sam wyjazd na taką sesję był wydarzeniem, a płyta stała się dowodem, że polski jazz gra w tej samej lidze co zachodni.
+W 1964 roku jego kwartet nagrał dla brytyjskiej wytwórni Decca płytę „Lola” – rzadki wówczas przypadek polskiej płyty jazzowej wydanej na Zachodzie. Grał też na „Astigmatic” Krzysztofa Komedy i „Enigmatic” Czesława Niemena.
 
-## Współpracownicy
-Grał z Krzysztofem Komedą, Czesławem Niemenem, Michałem Urbaniakiem i Januszem Muniakiem, a w późniejszych latach z Leszkiem Możdżerem. Jego kwartety i kwintety były szkołą dla kolejnych pokoleń muzyków.
+## Jazz z folklorem
+Na płycie „Winobranie” (1973) i „Kujaviak Goes Funky” (1975) łączył jazz z polskim folklorem i nieregularnymi metrami. Współpracował z Michałem Urbaniakiem, Januszem Muniakiem, później z Leszkiem Możdżerem, a jego zespoły były szkołą dla kolejnych pokoleń.
 
 ## Jazz i władza
-Jazz w pierwszej połowie lat 50. był w Polsce tępiony jako muzyka imperialistyczna i grano go w prywatnych mieszkaniach – stąd określenie „okres katakumbowy”. Po 1956 roku władze zmieniły podejście: jazz stał się dowodem otwartości, a festiwal Jazz Jamboree jedną z niewielu imprez, na które regularnie przyjeżdżali artyści z Zachodu.`,
+W pierwszej połowie lat 50. jazz był w Polsce tępiony i grany w prywatnych mieszkaniach – stąd określenie „okres katakumbowy”. Po 1956 roku władze zmieniły podejście, a festiwale jazzowe, od Sopotu po Jazz Jamboree, stały się dowodem otwartości. Namysłowski wystąpił już na drugim festiwalu w Sopocie.`,
     trivia: [
-      'Jego płyta „Lola” z 1964 roku była pierwszym albumem polskiego jazzmana nagranym i wydanym na Zachodzie.',
-      'Zaczynał od wiolonczeli i puzonu, a saksofon altowy wybrał dopiero później.',
+      'Urodził się w pociągu ewakuującym jego rodziców z Warszawy do Wilna, tuż po wybuchu wojny.',
+      'Zaczynał na fortepianie i wiolonczeli, a w dixielandzie grał na puzonie.',
+      'W 1962 roku koncertował w USA z zespołem The Wreckers Andrzeja Trzaskowskiego.',
     ],
     resources: [
       {
@@ -34362,23 +34388,27 @@ Zmarł 30 kwietnia 1950 roku w więzieniu w Rawiczu, po zepchnięciu ze schodów
     tags: ['emigracja', 'PPS', 'publicystyka', 'Londyn'],
     yearStart: 1944,
     yearEnd: 1978,
-    summary: 'Jeden z przywódców PPS na emigracji, publicysta i wieloletni krytyk zarówno komunizmu, jak i prób porozumienia z władzami PRL.',
+    summary: 'Przedwojenny poseł PPS, więzień brzeski, po wojnie przywódca emigracyjnej PPS w Londynie i współtwórca Międzynarodówki Socjalistycznej; w PRL objęty całkowitym zakazem publikacji.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Cio%C5%82kosz1.jpg?width=800',
     imageCaption: 'Adam Ciołkosz, około 1956',
-    content: `## Przed wojną
-Adam Ciołkosz (1901–1978) był instruktorem harcerskim, oficerem i posłem PPS w II Rzeczypospolitej. W procesie brzeskim, wytoczonym opozycji przez sanację, skazano go na karę więzienia – doświadczenie, które ukształtowało jego stosunek do władzy łamiącej reguły.
+    content: `## Harcerz i żołnierz
+Adam Ciołkosz (1901–1978) urodził się w Krakowie, dorastał w Tarnowie. Jako harcerz brał udział w rozbrajaniu Austriaków w 1918 roku i w walkach o Lwów, potem walczył w wojnie z bolszewikami i w III powstaniu śląskim, gdzie dowodził pociągiem pancernym.
 
-## Na emigracji
-Wojnę i całe późniejsze życie spędził w Londynie, gdzie należał do czołowych postaci PPS na obczyźnie i był jednym z najpłodniejszych publicystów politycznych emigracji. Pisał razem z żoną Lidią, historyczką ruchu socjalistycznego.
+## Socjalista
+Od 1921 roku należał do PPS, redagował krakowski „Naprzód”. W 1928 roku, mając 27 lat, został posłem. We wrześniu 1930 roku aresztowano go i osadzono w twierdzy brzeskiej, a w procesie brzeskim w 1932 roku skazano na trzy lata więzienia. W 1938 roku dostał kolejny wyrok – za obrazę prezydenta.
 
-## Linia
-Konsekwentnie odrzucał uznanie PRL i sprzeciwiał się polityce ustępstw wobec Moskwy. Krytykował Mikołajczyka za powrót do kraju w 1945 roku, uznając, że wejście do Tymczasowego Rządu Jedności Narodowej uwiarygodni komunistów, nie ograniczając ich władzy.
+## Emigracja
+We wrześniu 1939 roku z żoną Lidią i synem uciekł przez Lwów i Rumunię na Zachód. W Londynie reprezentował PPS-WRN, zasiadał w Radzie Narodowej i należał do opozycji wobec gen. Sikorskiego; sprzeciwiał się układowi Sikorski–Majski. Po wojnie został w Londynie i kierował emigracyjną PPS.
 
-## Znaczenie
-Publicystyka Ciołkosza dowodziła, że sprzeciw wobec PRL nie był domeną wyłącznie prawicy. Emigracyjna PPS zachowała tradycję lewicy niepodległościowej, którą w kraju konsekwentnie wymazywano – po 1948 roku partia socjalistyczna została wchłonięta przez komunistów.`,
+## Emigracyjny polityk
+Współtworzył w 1951 roku Międzynarodówkę Socjalistyczną i jej deklarację programową. Przewodniczył Egzekutywie Zjednoczenia Narodowego, a w latach 1964–1977 Centralnemu Komitetowi PPS. Występował przeciw układowi jałtańskiemu i domagał się wolnych wyborów w Polsce.
+
+## Zakazany w kraju
+W PRL jego nazwisko było na liście autorów objętych całkowitym zakazem publikacji. Za publicystykę otrzymał m.in. nagrodę paryskiej „Kultury” (1967). Jego dorobek dowodził, że sprzeciw wobec PRL nie był domeną wyłącznie prawicy: emigracyjna PPS przechowała tradycję lewicy niepodległościowej, którą w kraju po 1948 roku wchłonęli komuniści.`,
     trivia: [
-      'Przed wojną skazano go w procesie brzeskim – tym samym, w którym sądzono przywódców opozycji wobec sanacji.',
-      'Krytykował Mikołajczyka za wejście do TRJN, uznając, że uwiarygodni to komunistów bez ograniczenia ich władzy.',
+      'W III powstaniu śląskim dowodził pociągiem pancernym.',
+      'W procesie brzeskim w 1932 roku skazano go na trzy lata więzienia.',
+      'W PRL jego nazwisko figurowało na cenzorskiej liście autorów objętych całkowitym zakazem publikacji.',
     ],
     resources: [
       {
@@ -34569,20 +34599,24 @@ Dożył upadku systemu i przekazania insygniów prezydenckich wybranemu w wolnyc
     summary: 'Generał i historyk wojskowości, minister obrony narodowej rządu na uchodźstwie; w kwietniu 1943 roku ogłosił komunikat o poszukiwaniach zaginionych oficerów.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Marian_Kukiel.jpg?width=800',
     imageCaption: 'Gen. Marian Kukiel',
-    content: `## Żołnierz i uczony
-Marian Kukiel (1885–1973) łączył dwie kariery: generalską i naukową. Był historykiem wojskowości, autorem prac o epoce napoleońskiej i o polskich powstaniach, a jednocześnie dowódcą i ministrem.
+    content: `## Historyk i konspirator
+Marian Kukiel (1885–1973) urodził się w Dąbrowie Tarnowskiej. Studiował historię we Lwowie u Szymona Askenazego i w 1909 roku obronił doktorat. Równolegle działał w ruchu niepodległościowym: w 1908 roku z Piłsudskim, Sikorskim i Sosnkowskim zakładał Związek Walki Czynnej.
 
-## Kwiecień 1943
-Jako minister obrony narodowej w rządzie gen. Sikorskiego ogłosił w kwietniu 1943 roku komunikat o wieloletnich, bezskutecznych poszukiwaniach polskich oficerów zaginionych w ZSRR. Kilka dni później rząd zwrócił się do Międzynarodowego Czerwonego Krzyża o zbadanie sprawy Katynia. Stalin wykorzystał to jako pretekst do zerwania stosunków dyplomatycznych z rządem polskim.
+## Legiony i wojsko
+Walczył w I Brygadzie Legionów, był pierwszym komendantem Szkoły Podchorążych w Ostrowi Mazowieckiej. W wojnie 1920 roku dowodził pułkiem i brygadą, potem kierował Biurem Historycznym Sztabu Generalnego. W maju 1926 roku stanął po stronie rządu przeciw Piłsudskiemu i odszedł z wojska.
+
+## Uczony
+Habilitował się na Uniwersytecie Jagiellońskim i kierował Muzeum Czartoryskich w Krakowie. Pisał o epoce napoleońskiej, wojnie 1812 roku i historii wojskowości w Polsce.
+
+## Minister i Katyń
+Po wrześniu 1939 roku był wiceministrem spraw wojskowych, a od 1942 do 1949 roku ministrem obrony narodowej rządu na uchodźstwie. W kwietniu 1943 roku ogłosił komunikat o bezskutecznych poszukiwaniach polskich oficerów zaginionych w ZSRR; rząd zwrócił się następnie do Międzynarodowego Czerwonego Krzyża, co Stalin wykorzystał do zerwania stosunków z rządem polskim.
 
 ## Emigracja
-Po wojnie pozostał w Wielkiej Brytanii, gdzie kierował Instytutem Historycznym imienia gen. Sikorskiego – placówką gromadzącą dokumentację polskiego wysiłku wojennego, niedostępną wówczas badaczom w kraju.
-
-## Dlaczego to ważne
-W PRL Katyń był tematem zakazanym, a oficjalna wersja obarczała winą Niemców aż do 1990 roku. Dorobek emigracyjnych historyków, w tym Kukiela, przechowywał ustalenia, do których w kraju wolno było wrócić dopiero po upadku systemu.`,
+Odrzucił wezwanie do powrotu na UJ. W Londynie współtworzył Instytut Historyczny im. gen. Sikorskiego – od 1965 roku jego prezes – i Polskie Towarzystwo Naukowe na Obczyźnie. Pisał „Dzieje Polski porozbiorowe”. W PRL Katyń był tematem zakazanym aż do 1990 roku, a emigracyjni historycy przechowali ustalenia, do których w kraju wrócono dopiero po upadku systemu.`,
     trivia: [
-      'Jego komunikat z kwietnia 1943 roku poprzedził wystąpienie rządu do Czerwonego Krzyża w sprawie Katynia.',
-      'Kierował na emigracji Instytutem Historycznym im. gen. Sikorskiego, gromadzącym dokumenty niedostępne w PRL.',
+      'W 1908 roku współzakładał Związek Walki Czynnej razem z Piłsudskim, Sikorskim i Sosnkowskim.',
+      'W maju 1926 roku dowodził wierną rządowi grupą belwederską przeciw Piłsudskiemu.',
+      'Za wojenną służbę otrzymał brytyjski Order Łaźni z tytułem „sir”.',
     ],
     resources: [
       {
@@ -34825,23 +34859,27 @@ Zmarł 22 października 1948 roku w Warszawie. Jego następcą został Stefan Wy
     tags: ['Kościół', 'Kraków', 'okupacja', 'Wojtyła'],
     yearStart: 1944,
     yearEnd: 1951,
-    summary: 'Metropolita krakowski, w czasie okupacji faktyczny przywódca Kościoła w kraju; wyświęcił Karola Wojtyłę na kapłana.',
+    summary: 'Metropolita krakowski, w czasie okupacji faktyczny przywódca Kościoła w Generalnym Gubernatorstwie, inicjator „Tygodnika Powszechnego”; wyświęcił Karola Wojtyłę.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Adam_Stefan_Sapieha_%281867-1951%29.jpg?width=800',
     imageCaption: 'Kard. Adam Stefan Sapieha',
     content: `## Książę Niezłomny
-Adam Stefan Sapieha (1867–1951), metropolita krakowski od 1911 roku, zyskał przydomek Księcia Niezłomnego jeszcze w czasie okupacji. Gdy prymas Hlond przebywał poza krajem, to Sapieha był faktycznym przywódcą Kościoła w Polsce i jedynym hierarchą, który otwarcie występował wobec niemieckich władz okupacyjnych.
+Adam Stefan Sapieha (1867–1951), metropolita krakowski od 1911 roku, w czasie okupacji – pod nieobecność prymasa Hlonda – był faktycznym przywódcą Kościoła w Generalnym Gubernatorstwie. Odrzucił możliwość wyjazdu z kraju. W sierpniu 1939 roku zarządził ukrycie najcenniejszych dzieł sztuki z Wawelu.
 
-## Tajne seminarium
-W czasie okupacji prowadził w swojej rezydencji tajne seminarium duchowne. Jednym z kleryków był Karol Wojtyła, którego Sapieha wyświęcił na kapłana w 1946 roku i skierował na studia do Rzymu.
+## Okupacja
+Kierował pomocą dla ofiar wojny, wspierał Radę Główną Opiekuńczą, w 1940 roku zorganizował paczki świąteczne dla więźniów Auschwitz. Wielokrotnie protestował u Hansa Franka przeciw terrorowi wobec Polaków, a Piusa XII namawiał do potępienia niemieckich zbrodni. Polecał potajemnie chrzcić Żydów i wydawać im fałszywe metryki. Gdy w 1941 roku Niemcy zamknęli seminarium, zorganizował tajne – jego klerykiem był Karol Wojtyła.
 
 ## Po wojnie
-Kardynałem został w 1946 roku. Wobec nowej władzy zachowywał postawę nieustępliwą: protestował przeciw ograniczaniu prasy katolickiej i wpływom państwa na Kościół, a w 1948 roku nie zgodził się na udział duchownych w politycznych przedsięwzięciach władz.
+24 marca 1945 roku z jego inicjatywy zaczął wychodzić „Tygodnik Powszechny”. W czerwcu 1945 roku zwołał pierwszą po wojnie konferencję episkopatu, a w sierpniu odnowił Caritas i stanął na jego czele. Kardynałem został w lutym 1946 roku. 1 listopada 1946 roku wyświęcił Wojtyłę, przyspieszając termin święceń, by wysłać go na studia do Rzymu.
 
-## Znaczenie
-Zmarł w 1951 roku, u progu najostrzejszej fazy konfliktu państwa z Kościołem. Postawa, którą reprezentował – brak zgody na kompromis kosztem niezależności – stała się wzorcem dla Wyszyńskiego i dla pokolenia duchownych, w tym dla przyszłego papieża.`,
+## Wobec nowej władzy
+Współpracował z Hlondem przy próbach uregulowania stosunków państwo–Kościół, ale w grudniu 1948 roku w memoriale do Bieruta protestował przeciw likwidacji szkół katolickich, niszczeniu prasy katolickiej i szkalowaniu duchowieństwa. W 1950 roku był autorem kolejnych protestów, m.in. przeciw represjom wobec Caritasu.
+
+## Śmierć
+Zmarł w 1951 roku, u progu najostrzejszej fazy konfliktu państwa z Kościołem. Pochowano go w katedrze wawelskiej.`,
     trivia: [
-      'W czasie okupacji prowadził tajne seminarium duchowne we własnej rezydencji.',
-      'W 1946 roku wyświęcił na kapłana Karola Wojtylę i skierował go na studia do Rzymu.',
+      'Na Boże Narodzenie 1940 roku zorganizował dla więźniów Auschwitz około 6 tysięcy paczek.',
+      'Przyspieszył święcenia Karola Wojtyły, by móc wysłać go na studia do Rzymu.',
+      'To z jego inicjatywy w marcu 1945 roku zaczął wychodzić „Tygodnik Powszechny”.',
     ],
     resources: [
       {
@@ -36063,7 +36101,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1968, event: 'Pierwszy Festiwal Piosenki Żołnierskiej w Kołobrzegu', category: 'kultura', entryId: 'festiwal-kolobrzeg' },
   { year: 1975, event: 'Krzysztof Krawczyk nagrywa przebój „Parostatek”', category: 'kultura', entryId: 'krawczyk-krzysztof' },
   { year: 1974, event: 'Grzegorz Lato królem strzelców mundialu (7 goli)', category: 'społeczeństwo', entryId: 'lato-grzegorz' },
-  { year: 1986, event: 'Wojciech Gąssowski – przebój „Gdzie się podziały tamte prywatki”', category: 'kultura', entryId: 'gassowski-wojciech' },
+  { year: 1988, event: 'Wojciech Gąssowski – „Gdzie się podziały tamte prywatki” nagrodzone w Opolu', category: 'kultura', entryId: 'gassowski-wojciech' },
   { year: 1973, event: 'Stan Borys – „Jaskółka uwięziona” na festiwalu w Sopocie', category: 'kultura', entryId: 'stan-borys' },
   { year: 1983, event: 'Krystyna Prońko – przebój „Jesteś lekiem na całe zło”', category: 'kultura', entryId: 'pronko-krystyna' },
   { year: 1967, event: 'Premiera komedii „Sami swoi” Sylwestra Chęcińskiego', category: 'kultura', entryId: 'sami-swoi' },
@@ -36143,7 +36181,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1949, event: 'Tworzenie Państwowych Gospodarstw Rolnych (PGR)', category: 'gospodarka', entryId: 'pgr' },
   { year: 1973, event: 'Premiera „Nagiej” Niebiesko-Czarnych – pierwszej polskiej opery rockowej', category: 'kultura', entryId: 'niebiesko-czarni' },
   { year: 1978, event: 'Premiera „Wodzireja” Feliksa Falka', category: 'kultura', entryId: 'wodzirej' },
-  { year: 1964, event: 'Kasia Sobczyk – „Biedroneczki są w kropeczki” (festiwale Opole i Sopot)', category: 'kultura', entryId: 'kasia-sobczyk' },
+  { year: 1964, event: 'Kasia Sobczyk wygrywa w Opolu piosenką „O mnie się nie martw”', category: 'kultura', entryId: 'kasia-sobczyk' },
   { year: 1966, event: 'Franciszek Pieczka jako Gustlik w „Czterech pancernych i psie”', category: 'kultura', entryId: 'franciszek-pieczka' },
   { year: 1976, event: 'Premiera komedii „Brunet wieczorową porą” Stanisława Barei', category: 'kultura', entryId: 'brunet-wieczorowa-pora' },
   { year: 1962, event: 'Karin Stanek – „Malowana lala” z Czerwono-Czarnymi (Sopot)', category: 'kultura', entryId: 'karin-stanek' },
@@ -36497,4 +36535,5 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1947, event: 'Ursus wypuszcza pierwszy powojenny ciągnik C-45 (30 kwietnia)', category: 'gospodarka', entryId: 'ursus-zaklady' },
   { year: 1976, event: 'Strajk w Ursusie przeciw podwyżce cen – robotnicy blokują linię kolejową (25 czerwca)', category: 'opozycja', entryId: 'ursus-zaklady' },
   { year: 1947, event: 'Bolesław Piasecki zakłada Stowarzyszenie PAX', category: 'osoby', entryId: 'piasecki' },
+  { year: 1989, event: '15 marca – nowe prawo dewizowe legalizuje kantory, koniec ery cinkciarzy', category: 'gospodarka', entryId: 'czarny-rynek' },
 ];
