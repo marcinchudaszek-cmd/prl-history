@@ -12815,25 +12815,27 @@ Nagrania opolskie to dziś bezcenna fonoteka i wideoteka polskiej piosenki. Fest
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Starsi_Panowie_dwaj.jpg?width=800',
     imageCaption: 'Pomnik Starszych Panów dłuta Mariana Molendy w Opolu (fot. współczesna)',
     content: `## Telewizyjny fenomen
+Kabaret Starszych Panów emitowała Telewizja Polska od 16 października 1958 do 22 lipca 1966 roku. Stworzyli go Jeremi Przybora, autor tekstów, i Jerzy Wasowski, autor muzyki – na ekranie występowali jako Pan B i Pan A. Równolegle Polskie Radio nadawało wersje słuchowiskowe.
 
-Kabaret Starszych Panów emitowano w Telewizji Polskiej w latach 1958–1966. Stworzony przez Jeremiego Przyborę (teksty) i Jerzego Wasowskiego (muzyka), był programem na wskroś oryginalnym – eleganckim, lirycznym i absurdalnym zarazem.
+## Na żywo
+Programy szły na żywo, z piosenkami nagranymi wcześniej i puszczanymi z playbacku. Początkowych odcinków w ogóle nie rejestrowano, dlatego w latach 1978–1980 nakręcono je ponownie, w kolorze i ze zmienioną obsadą, jako „Kabaret Jeszcze Starszych Panów”.
 
 ## Estetyka ucieczki
+W świecie pełnym propagandy i niedoborów kabaret proponował estetykę dawnego salonu: fraki, elegancki dowcip, poetyckie piosenki i absurdalny humor, bez politycznej publicystyki. Była to forma subtelnej ucieczki od rzeczywistości, ceniona przez widzów.
 
-W świecie PRL pełnym propagandy i niedoborów kabaret proponował estetykę dwudziestolecia międzywojennego: fraki, salonowy dowcip, poetyckie piosenki. Była to forma subtelnej ucieczki od rzeczywistości, ceniona przez inteligencję.
+## Piosenki
+Piosenki Przybory i Wasowskiego – „Addio pomidory”, „W czasie deszczu dzieci się nudzą”, „Na całym świecie”, „Piosenka jest dobra na wszystko” – weszły do kanonu polskiej kultury.
 
-## Mistrzowie słowa i melodii
-
-Piosenki Przybory i Wasowskiego – „Addio pomidory”, „W czasie deszczu dzieci się nudzą”, „Na całym świecie” – weszły do kanonu polskiej kultury. Łączyły wyrafinowany humor językowy z melodyjnością i nostalgią.
-
-## Plejada wykonawców
-
-W kabarecie występowali najwięksi aktorzy epoki: Wiesław Michnikowski, Kalina Jędrusik, Mieczysław Czechowicz, Barbara Krafftówna, Edward Dziewoński. Ich kreacje współtworzyły niepowtarzalny klimat programu.
+## Wykonawcy
+W kabarecie występowali m.in. Irena Kwiatkowska, Barbara Krafftówna, Kalina Jędrusik, Aleksandra Śląska, Wiesław Gołas, Mieczysław Czechowicz, Wiesław Michnikowski, Edward Dziewoński, Bohdan Łazuka i Bronisław Pawlik.
 
 ## Dziedzictwo
-
-Kabaret Starszych Panów pozostaje wzorcem inteligentnej rozrywki. Jego piosenki są wciąż wykonywane, a nagrania – świadectwem, że nawet w PRL możliwa była kultura wolna od ideologii.`,
-    trivia: ['Twórcami byli Jeremi Przybora i Jerzy Wasowski.', 'Program łączył absurd, elegancję i piosenkę – bez politycznej publicystyki.'],
+Piosenki Starszych Panów wciąż nagrywają kolejni wykonawcy – od Grzegorza Turnaua po Ewę Bem – a kabaret pozostaje wzorcem inteligentnej rozrywki telewizyjnej.`,
+    trivia: [
+      'Pierwszych odcinków nie nagrywano – w latach 1978–1980 zrealizowano je ponownie jako „Kabaret Jeszcze Starszych Panów”.',
+      'Wasowski występował jako Pan A, a Przybora jako Pan B.',
+      'Programy nadawano na żywo, a piosenki puszczano z wcześniej nagranego playbacku.',
+    ],
     resources: [
       {
         id: 'ksp-yt',
@@ -14205,20 +14207,24 @@ Grupa działała do 2014 roku i zagrała pożegnalną trasę na stadionach. Nale
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tadeusz_Nalepa_i_Mira_Kubasi%C5%84ska_z_synem_%28ok._1968%29.png?width=800',
     imageCaption: 'Tadeusz Nalepa i Mira Kubasińska z synem Piotrem, około 1968',
     content: `## Powstanie
-Breakout powstał w 1968 roku z przekształcenia rzeszowskiego zespołu Blackout. Liderem, kompozytorem i gitarzystą był Tadeusz Nalepa, nazywany później ojcem polskiego bluesa.
+Breakout powstał 1 lutego 1968 roku w Rzeszowie, miesiąc po rozpadzie zespołu Blackout. Założył go Tadeusz Nalepa, a do muzyki undergroundowej i psychodelicznej zainspirował go Franciszek Walicki, który wymyślił też nazwę. Śpiewała Mira Kubasińska, żona Nalepy. Zespół zadebiutował na pierwszej Musicoramie, a latem 1968 roku wyjechał na kilkumiesięczną trasę po krajach Beneluksu.
 
-## Tadeusz Nalepa
-Nalepa (1943–2007) grał bluesa serio, bez estradowego sztafażu, w czasach gdy polska scena rozrywkowa oczekiwała lekkich piosenek. Teksty pisał dla niego poeta Bogdan Loebl – to połączenie surowej muzyki z literacką frazą stało się znakiem rozpoznawczym zespołu.
+## Pierwsze przeboje
+Debiutancki album „Na drugim brzegu tęczy” (1969), nagrany m.in. z saksofonistą Włodzimierzem Nahornym, przyniósł przeboje „Gdybyś kochał, hej!” i „Poszłabym za tobą”, śpiewane przez Kubasińską.
 
-## Twórczość
-Debiutancki „Na drugim brzegu tęczy” (1969) miał jeszcze big-beatowy rodowód, ale „Blues” (1971) i „Karate” (1972) to już nagrania dojrzałe, uznawane za kamienie milowe polskiego rocka. „Kiedy byłem małym chłopcem” weszło do kanonu na stałe.
+## Zakaz i Blues
+W 1970 roku media krytykowały muzyków za „prozachodnią” muzykę i długie włosy, a utworów Breakoutu zakazano w radiu i telewizji. W 1971 roku zespół nagrał album „Blues”, z „Kiedy byłem małym chłopcem” i „Oni zaraz przyjdą tu”, który zyskał miano kultowego. Teksty pisał dla Nalepy poeta Bogdan Loebl.
 
-## Mira Kubasińska
-Mira Kubasińska (1944–2005), żona Nalepy, śpiewała mocnym, ostrym głosem i to ona wykonywała wczesne przeboje zespołu, w tym „Gdybyś kochał, hej”. Para rozstała się w latach 70., co zbiegło się ze zmianą brzmienia grupy.
+## Karate i dalej
+Album „Karate” (1972), nagrany znów z Kubasińską, dostał w 1974 roku złotą płytę. Zespół koncertował w ZSRR, NRD i Holandii, nagrał „Kamienie” (1974) i „NOL” (1976). Ostatnie albumy z końca lat 70. przyjęto chłodno.
 
 ## Znaczenie
-Breakout rozwiązano w 1982 roku, a Nalepa grał dalej solo aż do śmierci. Bez tych nagrań nie byłoby ani Dżemu, ani całej śląskiej sceny bluesowej lat 80. – wszyscy jej muzycy wskazywali Nalepę jako punkt wyjścia.`,
-    trivia: ['Zespół tworzyli Tadeusz Nalepa i Mira Kubasińska.', 'Grali bluesa, gdy w Polsce był jeszcze nowością.'],
+Breakout oficjalnie istniał do 1982 roku, a Nalepa grał dalej solo aż do śmierci w 2007 roku. Nalepę nazywa się ojcem polskiego bluesa; od jego nagrań wychodzili muzycy całej późniejszej sceny bluesowej. Od 2007 roku w Rzeszowie odbywa się festiwal ku pamięci Miry Kubasińskiej i Tadeusza Nalepy.`,
+    trivia: [
+      'Nazwę Breakout wymyślił Franciszek Walicki, ojciec chrzestny polskiego big-beatu.',
+      'W 1970 roku utworów zespołu zakazano w radiu i telewizji – m.in. za „prozachodnią” muzykę i długie włosy.',
+      'Album „Blues” (1971) nagrano bez Miry Kubasińskiej, a „Karate” (1972) – znów z nią.',
+    ],
     resources: [
       {
         id: 'br-yt',
@@ -22873,26 +22879,27 @@ Ekscentryczny wizerunek i późniejsze samotne życie w Lewinie Kłodzkim w otoc
     tags: ['muzyka', 'rock', 'nowa fala', 'lata 80.'],
     yearStart: 1981,
     yearEnd: 1989,
-    summary: 'Czołowy zespół rockowy lat 80. z charyzmatyczną wokalistką Małgorzatą Ostrowską, autor przeboju „Przeżyj to sam”.',
+    summary: 'Poznański zespół rockowy założony w 1981 roku, z Małgorzatą Ostrowską i Grzegorzem Stróżniakiem; autor przebojów „Przeżyj to sam” i „Szklana pogoda”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Grzegorz%20Str%C3%B3%C5%BCniak%20zesp%C3%B3%C5%82%20Lombard.jpg?width=800',
     imageCaption: 'Grzegorz Stróżniak, lider Lombardu (fot. współczesna)',
-    content: `## Zespół
-Lombard powstał w 1981 roku w Poznaniu. Liderem był Grzegorz Stróżniak – kompozytor, aranżer i klawiszowiec, a charakterystyczny, wysoki wokal wniosła Małgorzata Ostrowska.
+    content: `## Powstanie
+Lombard powstał w Poznaniu; za dzień narodzin uważa się pierwszą próbę 18 maja 1981 roku w sali Estrady Poznańskiej. Przez pierwsze dwa miesiące zespół nazywał się Skandal. Na początku śpiewały w nim dwie wokalistki: Małgorzata Ostrowska i Wanda Kwietniewska, a kierownikiem muzycznym był Maurycy Przybyłowicz.
 
-## Przeboje
-„Przeżyj to sam” z płyty „Śmierć dyskotece!” (1983) i „Szklana pogoda” z „Anatomii” (1984) stały się przebojami dekady. Obie piosenki publiczność odczytywała jako komentarz do nastrojów po stanie wojennym – mimo że teksty mówiły o rzeczach ogólnych, kontekst dopisywał resztę.
+## Przeżyj to sam
+W 1982 roku zespół zdobył popularność dzięki piosenkom „Droga pani z TV” i „O jeden dreszcz”. „Przeżyj to sam” z tekstem Andrzeja Sobczaka nadano w dniu inauguracji wznowionej radiowej Trójki w kwietniu 1982 roku – po dwóch dniach cenzura zdjęła piosenkę z anteny. Mimo to stała się jednym z największych przebojów dekady.
 
-## Brzmienie
-Zespół grał rock z mocną warstwą klawiszową i wyrazistą melodią, adresowany do szerokiej publiczności. Była to formuła pośrednia między estradą a sceną rockową – i właśnie dzięki temu docierał do obu.
+## Lider
+We wrześniu 1982 roku odeszła Wanda Kwietniewska, by założyć zespół Wanda i Banda. Liderem został kompozytor i klawiszowiec Grzegorz Stróżniak. W listopadzie w Filharmonii Szczecińskiej zespół nagrał album koncertowy, chwalony przez krytyków.
 
-## Skala
-Lombard nagrał kilkanaście płyt i zagrał kilka tysięcy koncertów w kraju i za granicą, w tym w Stanach Zjednoczonych i Związku Radzieckim. Należy do zespołów, które przetrwały nie tylko dekadę swojej największej popularności, ale i zmianę ustroju.
+## Śmierć dyskotece!
+W 1983 roku ukazały się albumy „Live” i debiutancki „Śmierć dyskotece!”, który dostał złotą płytę. W Opolu Lombard zdobył nagrodę publiczności, a Stróżniak drugą nagrodę jury za „Szklaną pogodę” z tekstem Marka Dutkiewicza. Teksty odczytywano jako komentarz do nastrojów po stanie wojennym.
 
 ## Później
-Ostrowska odeszła z zespołu na początku lat 90. i rozwinęła karierę solową; Stróżniak kontynuował działalność Lombardu z nowymi wokalistkami. Obie strony wykonują dziś ten sam repertuar, co bywa przedmiotem sporów o prawa do nazwy.`,
+Zespół zagrał kilka tysięcy koncertów w Polsce i za granicą. Małgorzata Ostrowska od 1991 roku śpiewa solo, a Stróżniak prowadzi Lombard z nowymi wokalistkami.`,
     trivia: [
-      '„Przeżyj to sam” i „Szklaną pogodę” odczytywano jako komentarz do nastrojów po stanie wojennym.',
-      'Zespół zagrał kilka tysięcy koncertów w kraju i za granicą.',
+      '„Przeżyj to sam” cenzura zdjęła z anteny Trójki już po dwóch dniach – a i tak stał się wielkim przebojem.',
+      'Przez pierwsze dwa miesiące zespół nazywał się Skandal.',
+      'Wanda Kwietniewska, druga wokalistka Lombardu, odeszła w 1982 roku i założyła Wandę i Bandę.',
     ],
     resources: [
       {
@@ -23771,26 +23778,27 @@ Brak telefonu kształtował codzienność: umawiano się z góry i na stałe, pi
     tags: ['muzyka', 'folk-rock', 'pop', 'lata 70.'],
     yearStart: 1971,
     yearEnd: 1989,
-    summary: 'Popularne trio folk-rockowe (Janusz Kruk, Elżbieta Dmoch, Andrzej Krzysztofik), autor przebojów „Chodź, pomaluj mój świat” i „Windą do nieba”.',
+    summary: 'Zespół Janusza Kruka i Elżbiety Dmoch założony w 1971 roku – od folku do disco; autor przebojów „Chodź, pomaluj mój świat”, „Czerwone słoneczko” i „Windą do nieba”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Dwa_plus_Jeden_1972.jpg?width=800',
     imageCaption: 'Zespół 2 plus 1, 1972',
     content: `## Zespół
-2 plus 1 powstał w 1971 roku w Warszawie, założony przez Janusza Kruka i Elżbietę Dmoch. Nazwa opisywała skład: dwóch mężczyzn i kobieta – trzecim był kolejno Andrzej Rybiński, a potem Cezary Szlązak.
+2 plus 1 założyli w styczniu 1971 roku w Warszawie gitarzysta Janusz Kruk i flecistka Elżbieta Dmoch, wcześniej grający w Warszawskich Kurantach. Najpierw nazywali się Smak Miodu; nazwę zmienili, gdy dołączył gitarzysta Andrzej Rybiński. Rybiński odszedł jeszcze w 1971 roku, a jego miejsce zajął Andrzej Krzysztofik. W 1973 roku Kruk i Dmoch wzięli ślub.
 
-## Brzmienie
-Grupa zaczynała od folku i piosenki akustycznej, opartej na trzygłosowych harmoniach, by w latach 80. przejść w stronę popu i muzyki elektronicznej. Nagrali dziesięć albumów studyjnych i należeli do najlepiej sprzedających się wykonawców epoki.
+## Pierwsze sukcesy
+Zespół zaczynał od piosenek Katarzyny Gärtner. Latem 1971 roku zdobył nagrodę w Opolu za „Nie zmogła go kula”. W 1972 roku wylansował „Czerwone słoneczko” i „Chodź, pomaluj mój świat”, a debiutancki album „Nowy wspaniały świat”, z „Wstawaj, szkoda dnia” i „Hej, dogonię lato”, dostał złotą płytę.
 
-## Przeboje
-„Chodź, pomaluj mój świat” (1976) to jedna z najczęściej wykonywanych polskich piosenek w ogóle – śpiewana przy ogniskach przez pokolenia, które nie kojarzą już jej autorów. Do tego „Windą do nieba” (1984), „Iść w stronę słońca” i „Wyspa dzieci”.
+## Lata 70.
+W 1974 roku 2 plus 1 po raz pierwszy koncertował w USA i Kanadzie, występował w Szkocji, Francji, Szwajcarii i RFN, a w Sopocie zajął trzecie miejsce z „Kołysanką matki”. Koncepcyjny album „Wyspa dzieci” dodał symfoniczne aranżacje. Przebojem był też „Windą do nieba”.
 
-## Zagranica
-Zespół nagrywał i koncertował w Niemczech Zachodnich, wydając tam płyty w wersjach anglo- i niemieckojęzycznych. Melodyjność i brak politycznego tekstu czyniły tę muzykę łatwą do eksportu – co w PRL było jedną z niewielu dróg do zagranicznej publiczności.
+## Kariera na Zachodzie
+Na przełomie lat 70. i 80. zespół odniósł sukces w Europie Zachodniej, zwłaszcza piosenkami „Easy Come, Easy Go” i „Singapore”. W latach 80. przeszedł w stronę disco, rocka i synth popu – z przebojami „Iść w stronę słońca”, „Requiem dla samej siebie” i „XXI wiek (dla wszystkich nas)”.
 
 ## Koniec
-Janusz Kruk zmarł nagle w 1992 roku, co zakończyło historię zespołu. Elżbieta Dmoch wycofała się z życia publicznego i od tego czasu nie występuje ani nie udziela wywiadów.`,
+Nagrali dziesięć albumów, w tym trzy złote płyty. Historię zespołu zakończyła śmierć Janusza Kruka w 1992 roku; później zespół kilkakrotnie reaktywowano.`,
     trivia: [
-      'Nazwa opisywała skład: dwóch mężczyzn i kobieta.',
-      '„Chodź, pomaluj mój świat” należy do najczęściej wykonywanych polskich piosenek.',
+      'Zanim nazwali się 2 plus 1, występowali jako Smak Miodu.',
+      '„Chodź, pomaluj mój świat” i „Czerwone słoneczko” były przebojami już w 1972 roku.',
+      'Za granicą znano ich z anglojęzycznych przebojów „Easy Come, Easy Go” i „Singapore”.',
     ],
     resources: [
       {
@@ -29579,17 +29587,27 @@ Zmarł 22 lutego 1992 roku w Poznaniu na atak serca podczas próby „Króla Lea
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pod%20lasem%20by%C5%82e%20Pa%C5%84stwowe%20Gospodarstwo%20Rolne%20%28PGR%29.jpg?width=800',
     imageCaption: 'Zabudowania dawnego PGR-u.',
     content: `## Powstanie
-Państwowe gospodarstwa rolne utworzono w lutym 1949 roku z Państwowych Nieruchomości Ziemskich oraz państwowych zakładów hodowli. Miały być wzorcową, uspołecznioną formą rolnictwa – przeciwieństwem gospodarstwa chłopskiego.
+Państwowe gospodarstwa rolne utworzono 12 lutego 1949 roku z Państwowych Nieruchomości Ziemskich oraz państwowych zakładów hodowli koni i roślin. Powstawały głównie na bazie dawnych majątków ziemskich, zwłaszcza na Ziemiach Odzyskanych. W latach 1951–1956 istniało osobne Ministerstwo Państwowych Gospodarstw Rolnych.
 
 ## Po klęsce kolektywizacji
-Równolegle prowadzono przymusową kolektywizację, zrzeszając chłopów w spółdzielniach produkcyjnych. Po Październiku 1956 roku z blisko dziesięciu tysięcy spółdzielni pozostało około półtora tysiąca – chłopi rozwiązali je natychmiast, gdy tylko presja zelżała. PGR-y pozostały więc jedyną trwałą formą rolnictwa państwowego.
+Równolegle prowadzono przymusową kolektywizację. W 1956 roku z blisko 10 tysięcy spółdzielni produkcyjnych pozostało 1,5 tysiąca, więc PGR-y stały się główną uspołecznioną formą rolnictwa.
 
-## Jak działały
-Skupiały się przede wszystkim na ziemiach zachodnich i północnych, gdzie po wojnie przejęto duże majątki. Zatrudniały pracowników na etat, z mieszkaniem służbowym, przedszkolem i świetlicą – tworzyły całe osiedla zależne od jednego zakładu. Wydajność pozostawała jednak niższa niż w gospodarstwach indywidualnych.
+## Skala
+W 1950 roku PGR-y gospodarowały na około 2,2 miliona hektarów, w 1969 roku – na prawie 2,7 miliona. Istniało wtedy 6110 gospodarstw o przeciętnej powierzchni 459 hektarów. Od 1960 roku tworzono kombinaty, w latach 70. łączono gospodarstwa na masową skalę, a w 1976 roku przekształcono je w państwowe przedsiębiorstwa gospodarki rolnej. Kombinaty okazały się nieefektywne i w latach 80. wracano do mniejszych jednostek.
+
+## Koszty
+Do 1988 roku PGR-y pochłaniały ponad połowę inwestycji w rolnictwie. Zatrudniały średnio 12 osób na 100 hektarów, podczas gdy według rachunku ekonomicznego wystarczyłyby trzy–cztery.
+
+## Osiedla
+Pracownik PGR-u dostawał oprócz pensji mieszkanie, deputat mleka i ziemniaków, węgiel na zimę, działkę, dofinansowanie kolonii dla dzieci. Wokół gospodarstw powstawały całe osiedla zależne od jednego zakładu.
 
 ## Co po nich zostało
-Likwidacja PGR-ów po 1989 roku pozbawiła pracy i zaplecza socjalnego całe miejscowości naraz. Skutki tej zapaści – bezrobocie strukturalne i trwałe zubożenie części wsi – należą do najtrwalszych społecznych następstw gospodarki PRL.`,
-    trivia: ['PGR-y tworzono od 1949, głównie na Ziemiach Odzyskanych.', 'Przy PGR-ach powstawały całe osiedla pracownicze z blokami i świetlicami.'],
+Likwidacja PGR-ów po 1989 roku pozbawiła pracy i zaplecza socjalnego całe miejscowości naraz. Skutki – bezrobocie strukturalne i trwałe zubożenie części wsi – należą do najtrwalszych społecznych następstw gospodarki PRL.`,
+    trivia: [
+      'PGR-y zatrudniały średnio 12 osób na 100 hektarów, choć według rachunku ekonomicznego wystarczyłyby trzy–cztery.',
+      'Pracownicy PGR-ów dostawali m.in. deputat: litr mleka dziennie i 25 kwintali ziemniaków rocznie.',
+      'Do 1988 roku PGR-y pochłaniały ponad połowę wszystkich inwestycji w rolnictwie.',
+    ],
     resources: [
       {
         id: 'pgr-pkf',
@@ -30728,20 +30746,24 @@ W latach 90. związał się na stałe z monachijską wytwórnią ECM. Płyta „
     summary: 'Trener piłkarski, twórca największego sukcesu lat 80.; poprowadził reprezentację Polski po 3. miejsce na mistrzostwach świata 1982 w Hiszpanii.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Antoni_Piechniczek_VII_kadencja_Kancelaria_Senatu.jpg?width=800',
     imageCaption: 'Antoni Piechniczek, selekcjoner drużyny z mundialu 1982 (fot. współczesna)',
-    content: `## Selekcjoner
-Antoni Piechniczek (ur. 1942) prowadził reprezentację Polski w latach 1981–1986, w okresie dwóch mistrzostw świata. Wcześniej sam grał w ekstraklasie, a szkoleniowcem został po zakończeniu kariery zawodniczej.
+    content: `## Piłkarz z Chorzowa
+Antoni Piechniczek urodził się w 1942 roku w Chorzowie. Jego ojca, przymusowo wcielonego do Wehrmachtu, uznano za zmarłego w sowieckim łagrze w 1945 roku. Grał w Legii Warszawa, z którą zdobył Puchar Polski (1964), i w Ruchu Chorzów, z którym w 1968 roku został mistrzem Polski; trzy razy wystąpił w reprezentacji. Ukończył warszawską AWF.
+
+## Trener
+Pracę trenerską zaczął w 1973 roku w BKS Bielsko-Biała, potem awansował z Odrą Opole do I ligi. Od 1979 roku był szefem wyszkolenia w katowickim okręgowym związku piłki nożnej.
+
+## Selekcjoner
+Reprezentację objął 5 stycznia 1981 roku. Zadebiutował porażką 0:2 z Rumunią, ale wywalczył awans na mistrzostwa świata w Hiszpanii.
 
 ## Hiszpania 1982
-Największym osiągnięciem było trzecie miejsce na mistrzostwach świata w Hiszpanii w 1982 roku – powtórzenie wyniku Kazimierza Górskiego z 1974 roku. Turniej wypadł w szczególnym momencie: kilka miesięcy po wprowadzeniu stanu wojennego, gdy Solidarność była zdelegalizowana, a kraj odcięty od świata. Mecze oglądano jako jedną z niewielu okazji do wspólnego przeżywania czegokolwiek.
+Turniej odbywał się kilka miesięcy po wprowadzeniu stanu wojennego, gdy Solidarność była zdelegalizowana, a kraj odcięty od świata. Polska przegrała półfinał z Włochami 0:2, a w meczu o trzecie miejsce pokonała Francję 3:2 – powtarzając wynik drużyny Kazimierza Górskiego z 1974 roku. Na trybunach pojawiały się transparenty Solidarności, pokazywane przez zachodnie telewizje, co dla władz było kłopotliwe.
 
-## Polityka na trybunach
-Podczas turnieju na trybunach pojawiały się transparenty z napisem Solidarność, pokazywane przez zachodnie telewizje. Dla władz sukces drużyny był kłopotliwy: propagandowo cenny, ale rozgrywany na oczach świata, w którym Polska kojarzyła się wtedy przede wszystkim ze stanem wojennym.
-
-## Meksyk 1986
-Cztery lata później drużyna odpadła w drugiej rundzie po przegranej z Brazylią. Był to koniec epoki, która zaczęła się w 1974 roku – przez kolejne dwadzieścia lat polska piłka nie zakwalifikowała się na mistrzostwa świata.`,
+## Meksyk 1986 i później
+Piechniczek wywalczył też awans na mundial w Meksyku, gdzie Polska odpadła w 1/8 finału po porażce z Brazylią. W czerwcu 1986 roku złożył rezygnację. Na kolejne mistrzostwa świata Polska awansowała dopiero w 2002 roku. W 1987 roku zdobył mistrzostwo Polski z Górnikiem Zabrze, prowadził też reprezentację Tunezji. Po 1989 roku był działaczem PZPN i senatorem.`,
     trivia: [
-      'Trzecie miejsce w 1982 roku wywalczono kilka miesięcy po wprowadzeniu stanu wojennego.',
-      'Po mundialu w Meksyku 1986 Polska nie zagrała na mistrzostwach świata przez dwadzieścia lat.',
+      'Brązowy medal w Hiszpanii przypieczętowało zwycięstwo 3:2 nad Francją w meczu o trzecie miejsce.',
+      'Jako selekcjoner zadebiutował porażką 0:2 z Rumunią w marcu 1981 roku.',
+      'Po mundialu w Meksyku Polska czekała na kolejny awans do mistrzostw świata szesnaście lat – do 2002 roku.',
     ],
     resources: [
       {
@@ -33170,20 +33192,24 @@ W lutym 1944 roku grupa Armii Ludowej, współdziałając z gestapo, zdobyła ar
     summary: 'Tajne struktury państwa polskiego działające pod okupacją niemiecką i radziecką, podległe rządowi RP na uchodźstwie – ewenement w skali okupowanej Europy.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Armia_krajowa_1.png?width=800',
     imageCaption: 'Armia Krajowa – zbrojny pion Polskiego Państwa Podziemnego',
-    content: `## Czym było
-Polskie Państwo Podziemne to system tajnych władz działających w imieniu Rzeczypospolitej w czasie okupacji. Istniało od 27 września 1939 roku, gdy powołano Służbę Zwycięstwu Polski, do 1 lipca 1945 roku, kiedy rozwiązały się Rada Jedności Narodowej i Delegatura Rządu. Samo określenie pojawiło się w „Biuletynie Informacyjnym” w styczniu 1944 roku.
+    content: `## Początek w oblężonej Warszawie
+W nocy z 26 na 27 września 1939 roku w oblężonej Warszawie powstała Służba Zwycięstwu Polski pod dowództwem gen. Michała Tokarzewskiego-Karaszewicza. Pełnomocnictwo przekazał mu dowódca obrony stolicy gen. Juliusz Rómmel. 10 października zebrała się Główna Rada Polityczna, reprezentująca cztery stronnictwa opozycyjne wobec sanacji.
 
-## Dwa piony
-Państwo miało pion wojskowy – Związek Walki Zbrojnej, a od 1942 roku Armię Krajową – oraz pion cywilny, czyli Delegaturę Rządu na Kraj z reprezentacją polityczną w postaci Rady Jedności Narodowej. Działały sądy, szkolnictwo, prasa i opieka społeczna.
+## Od SZP do Armii Krajowej
+13 listopada 1939 roku gen. Sikorski przekształcił SZP w Związek Walki Zbrojnej, podporządkowany rządowi na uchodźstwie, a 14 lutego 1942 roku w Armię Krajową, której komendantem został gen. Stefan Rowecki. Jesienią 1941 roku ZWZ liczył 40 tysięcy żołnierzy, pod koniec 1942 roku AK – około 200 tysięcy, choć miała tylko 53 tysiące sztuk broni.
 
-## Dlaczego było wyjątkowe
-W okupowanej Europie nie powstała druga tak rozbudowana struktura podziemna, obejmująca nie tylko wojsko, ale i administrację cywilną z zapleczem politycznym.
+## Państwo w konspiracji
+Pion cywilny tworzyła Delegatura Rządu na Kraj z delegatem w randze wicepremiera, a reprezentację polityczną – Rada Jedności Narodowej. Działały konspiracyjne sądy, których wyroki ogłaszano w podziemnej prasie, oraz tajne komplety. Ukazywało się około 1400 tytułów prasy podziemnej; na przełomie 1943 i 1944 roku nakład czasopism samych wydawnictw AK sięgał 250 tysięcy egzemplarzy.
+
+## Nazwa i koniec
+Określenie „Polskie Państwo Podziemne” pojawiło się w „Biuletynie Informacyjnym” 13 stycznia 1944 roku. Struktury istniały do 1 lipca 1945 roku, gdy wobec cofnięcia przez mocarstwa uznania dla rządu w Londynie rozwiązały się RJN i Delegatura.
 
 ## Miejsce w historii PRL
-Dla nowej władzy Polskie Państwo Podziemne było przeszkodą, a nie dziedzictwem. Jego przywódców sądzono w Moskwie w procesie szesnastu, a żołnierzy podziemia ścigano jeszcze przez lata. Przez cały okres PRL temat podlegał cenzurze i fałszowaniu, a pamięć o nim przetrwała głównie w przekazie rodzinnym i w wydawnictwach emigracyjnych.`,
+Dla nowej władzy Państwo Podziemne było przeszkodą, nie dziedzictwem. Jego przywódców sądzono w Moskwie w procesie szesnastu, a żołnierzy podziemia ścigano latami. Przez cały okres PRL temat podlegał cenzurze, a pamięć przetrwała głównie w rodzinach i wydawnictwach emigracyjnych.`,
     trivia: [
-      'Nazwa „Polskie Państwo Podziemne” pojawiła się dopiero w styczniu 1944 roku, na łamach „Biuletynu Informacyjnego”.',
-      'Struktura obejmowała nie tylko wojsko, lecz także sądy, szkolnictwo i opiekę społeczną – przypadek bez odpowiednika w okupowanej Europie.',
+      'Nazwa „Polskie Państwo Podziemne” pojawiła się dopiero 13 stycznia 1944 roku na łamach „Biuletynu Informacyjnego”.',
+      'W okupowanej Polsce ukazywało się około 1400 tytułów prasy podziemnej.',
+      'Pod koniec 1942 roku Armia Krajowa liczyła około 200 tysięcy żołnierzy, ale miała tylko 53 tysiące sztuk broni.',
     ],
     resources: [
       {
@@ -36221,7 +36247,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1966, event: 'Violetta Villas zaczyna trzy sezony w rewii „Casino de Paris” w Las Vegas', category: 'kultura', entryId: 'violetta-villas' },
   { year: 1968, event: 'Irena Santor – przebój „Powrócisz tu”', category: 'kultura', entryId: 'irena-santor' },
   { year: 1969, event: 'Skaldowie nagrywają „Medytacje wiejskiego listonosza”', category: 'kultura', entryId: 'skaldowie' },
-  { year: 1982, event: 'Lombard wydaje przebój „Przeżyj to sam”', category: 'kultura', entryId: 'lombard-zespol' },
+  { year: 1982, event: 'Trójka emituje „Przeżyj to sam” Lombardu – po dwóch dniach cenzura zdejmuje piosenkę', category: 'kultura', entryId: 'lombard-zespol' },
   { year: 1983, event: 'Debiut płytowy Oddziału Zamkniętego (przebój „Andzia”)', category: 'kultura', entryId: 'oddzial-zamkniety' },
   { year: 1967, event: 'Marek Grechuta i grupa Anawa debiutują na festiwalu w Opolu', category: 'kultura', entryId: 'grechuta-marek' },
   { year: 1963, event: 'Ewa Demarczyk olśniewa publiczność w Piwnicy pod Baranami', category: 'kultura', entryId: 'demarczyk-ewa' },
