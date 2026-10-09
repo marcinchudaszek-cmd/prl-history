@@ -13044,22 +13044,29 @@ Jarocin stał się legendą i symbolem pokolenia. Po 1989 roku festiwal reaktywo
     tags: ['muzyka', 'rock', 'lata 80.', 'kultura młodzieżowa'],
     yearStart: 1980,
     yearEnd: 1989,
-    summary: 'Eksplozja polskiej muzyki rockowej w latach 80., gdy dziesiątki zespołów wyrażały frustracje i nadzieje pokolenia stanu wojennego.',
+    summary: 'Eksplozja polskiego rocka w latach 80. – od Jarocina i Listy Przebojów Trójki po punk, nową falę i reggae; głos pokolenia stanu wojennego.',
     content: `## Eksplozja
-Lata 80. to złota dekada polskiego rocka. Po sierpniu 1980 i mimo stanu wojennego nastąpił niespotykany rozkwit muzyki młodzieżowej. Powstały dziesiątki zespołów, które przez teksty i muzykę wyrażały emocje pokolenia żyjącego w cieniu kryzysu i represji.
+Lata 80. to złota dekada polskiego rocka. Po Sierpniu 1980 roku i mimo stanu wojennego powstały dziesiątki zespołów, które wyrażały emocje pokolenia żyjącego w cieniu kryzysu i represji.
 
 ## Nurty
-Scena była zróżnicowana: nowa fala i rock elektroniczny (Republika, Maanam), reggae (Izrael, Kultura), punk (Dezerter, Brygada Kryzys, Siekiera), poezja śpiewana i rock poetycki (Kult), hard rock i blues (TSA, Dżem, Perfect).
+Scena była zróżnicowana: nowa fala i rock elektroniczny (Republika, Maanam), reggae (Izrael, Daab), punk (Dezerter, Brygada Kryzys, Siekiera), rock z ostrym tekstem (Kult, T.Love), hard rock i heavy metal (TSA, Turbo) oraz blues i rock (Dżem, Perfect, Lady Pank).
 
 ## Teksty
-Teksty piosenek często zawierały zawoalowaną krytykę systemu, omijając cenzurę poprzez metafory i aluzje. Utwory takie jak „Nie płacz Ewka” Perfectu czy „Baranek” Brygady Kryzys stały się hymnami pokolenia.
+Teksty często zawierały zawoalowaną krytykę systemu i omijały cenzurę przez metafory i aluzje. Hymnem stało się m.in. „Nie płacz Ewka” Perfectu. Zespoły punkowe, jak Dezerter, mówiły wprost to, czego nie wydrukowałaby prasa.
 
-## Festiwale i radio
-Kluczową rolę odegrały festiwal w Jarocinie oraz Lista Przebojów Programu Trzeciego Polskiego Radia, popularyzująca nowe zespoły. Rozwijał się też obieg kaset magnetofonowych.
+## Jarocin
+Od 1980 roku, z inicjatywy Waltera Chełstowskiego, w Jarocinie odbywał się Festiwal Muzyki Młodej Generacji – największy festiwal rockowy w bloku wschodnim. Był oazą swobody w ubiorze i zachowaniu, choć pojawiały się głosy, że władze tolerowały go jako „wentyl bezpieczeństwa”. Można tam było usłyszeć zespoły bez nagrań i dostępu do mediów, a publiczność wygwizdywała grupy promowane oficjalnie.
+
+## Trójka i kasety
+Od 24 kwietnia 1982 roku Marek Niedźwiecki prowadził Listę Przebojów Programu Trzeciego. Już w drugim notowaniu wygrał Maanam z „O! nie rób tyle hałasu”. Obok radia rozwijał się obieg kaset magnetofonowych, kopiowanych bez końca.
 
 ## Znaczenie
 Polski rock lat 80. był nie tylko zjawiskiem muzycznym, ale i społecznym – formą wyrażania sprzeciwu, tożsamości i marzeń o wolności całego pokolenia.`,
-    trivia: ['Rock stał się głosem pokolenia stanu wojennego.', 'Teksty przemycały treści, których nie przepuściłaby cenzura w prasie.'],
+    trivia: [
+      'W pierwszym notowaniu Listy Przebojów Trójki, 24 kwietnia 1982 roku, wygrali Jon and Vangelis, a Maanam był drugi – i wygrał tydzień później.',
+      'Publiczność w Jarocinie potrafiła wygwizdać i obrzucić pomidorami zespoły promowane oficjalnie.',
+      'Festiwal w Jarocinie był największym festiwalem rockowym bloku wschodniego.',
+    ],
     resources: [
       {
         id: 'rock-lat-80-yt',
@@ -18024,17 +18031,24 @@ Wydarzenia objęła zbiorowa amnezja – pierwsza książka o nich ukazała się
     yearEnd: 1989,
     summary: 'Wydobycie węgla było filarem gospodarki PRL i głównym towarem eksportowym; górnicy cieszyli się przywilejami, lecz pracowali w trudnych i niebezpiecznych warunkach.',
     content: `## Fundament gospodarki
-Węgiel kamienny był w PRL surowcem, na którym opierało się wszystko: energetyka, hutnictwo, ogrzewanie mieszkań i eksport przynoszący dewizy. Górnictwo zatrudniało setki tysięcy ludzi, głównie na Górnym Śląsku.
+Węgiel kamienny był w PRL surowcem, na którym opierało się wszystko: energetyka, hutnictwo, ogrzewanie mieszkań i eksport przynoszący dewizy. Górnictwo zatrudniało setki tysięcy ludzi, głównie na Górnym Śląsku i w Zagłębiu.
 
 ## Przywileje
-Górnik był w hierarchii socjalnej wysoko: wyższe zarobki, deputat węglowy, wcześniejsza emerytura, pierwszeństwo w przydziale mieszkań, a przy okazji Barbórki – oficjalne honory. Zawód opłacalny, ale też jeden z najbardziej niebezpiecznych.
+Górnik był w hierarchii socjalnej wysoko: wyższe zarobki, deputat węglowy, wcześniejsza emerytura, pierwszeństwo w przydziale mieszkań, a w Barbórkę – oficjalne honory i akademie. Zawód opłacalny, ale też jeden z najbardziej niebezpiecznych.
 
 ## Wydobycie ponad wszystko
-Plany zakładały stały wzrost wydobycia, co w latach 70. doprowadziło do pracy w system czterobrygadowy, także w niedziele. Ceną było zmęczenie załóg, wypadkowość i rabunkowa eksploatacja złóż, prowadzona pod presją wskaźników, a nie rachunku ekonomicznego.
+Plany zakładały stały wzrost wydobycia. Pod koniec lat 70. wprowadzono system czterobrygadowy, w którym kopalnie pracowały bez przerwy, także w niedziele i święta, a górnicy mieli wolne dni w innym rytmie niż rodziny. Ceną było zmęczenie załóg, wypadki i rabunkowa eksploatacja złóż pod presją wskaźników.
+
+## Sierpień 1980
+Na fali strajków sierpniowych zastrajkowały kopalnie Śląska. Porozumienie zawarte w Jastrzębiu we wrześniu 1980 roku zniosło system czterobrygadowy.
 
 ## Wujek
-16 grudnia 1981 roku, trzy dni po wprowadzeniu stanu wojennego, w kopalni Wujek w Katowicach oddziały ZOMO otworzyły ogień do strajkujących górników. Zginęło dziewięciu ludzi. Była to najkrwawsza pacyfikacja stanu wojennego i moment, w którym mit górnika-filaru systemu ostatecznie się załamał.`,
-    trivia: ['Węgiel był głównym towarem eksportowym PRL.', 'Górnicy mieli przywileje – deputat węglowy i hucznie obchodzoną Barbórkę.'],
+Po wprowadzeniu stanu wojennego zastrajkowało wiele zakładów w Katowicach, w tym kopalnia „Wujek”. 16 grudnia 1981 roku podczas pacyfikacji ZOMO użyło ostrej amunicji: siedmiu górników zginęło na miejscu, dwóch zmarło w szpitalu, ponad czterdzieści osób zostało rannych. Krzyż postawiony w wyłomie po czołgu w murze kopalni zniszczono w styczniu 1982 roku, a rocznicowe obchody rozpędzała milicja. Mit górnika jako filaru systemu załamał się wtedy ostatecznie.`,
+    trivia: [
+      'Krzyż postawiony 16 grudnia 1981 roku w wyłomie zrobionym przez czołg w murze kopalni „Wujek” zniszczono w nocy z 27 na 28 stycznia 1982 roku.',
+      'Porozumienie jastrzębskie z września 1980 roku zniosło znienawidzony system czterobrygadowy.',
+      'Górnicy dostawali deputat węglowy, a Barbórkę obchodzono z oficjalną oprawą i akademiami.',
+    ],
     resources: [
       {
         id: 'gornictwo-prl-yt',
@@ -22151,24 +22165,28 @@ Akcja działała w ramach oficjalnej telewizji i mieściła się w wychowawczych
     tags: ['muzyka', 'pop-rock', 'lata 80.', 'kobiety'],
     yearStart: 1978,
     yearEnd: 1989,
-    summary: 'Jeden z najpopularniejszych zespołów pop-rockowych, z charyzmatyczną wokalistką Beatą Kozidrak, autor przebojów „Józek” i „Piechotą do lata”.',
+    summary: 'Lubelski zespół Beaty Kozidrak, założony w 1978 roku; po debiucie w Opolu z „Piechotą do lata” przeszedł do pop-rocka i nagrał przeboje „Józek” i „Co mi Panie dasz”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/BAJM_24.11.2011_Edynburgh.jpg?width=800',
     imageCaption: 'Bajm na koncercie w Edynburgu, 2011',
     content: `## Powstanie
-Bajm powstał w 1978 roku w Lublinie, w środowisku szkolno-studenckim. Liderką i wokalistką była od początku Beata Kozidrak – współautorka większości piosenek, obdarzona mocnym, natychmiast rozpoznawalnym głosem.
+Bajm powstał w marcu 1978 roku w Lublinie. Wokalista Andrzej Pietras zaproponował wspólne granie rodzeństwu Kozidraków – Beacie i Jarosławowi – po ich występie w klubie „Hades”. Nazwę, akronim pierwszych liter imion założycieli, wymyśliła siostra Pietrasa.
 
-## Debiut
-Przełomem był festiwal w Opolu w 1983 roku, po którym zespół trafił na listy przebojów w całym kraju. W tym samym roku ukazała się debiutancka płyta „Bajm” z „Józkiem, nie daruję ci tej nocy” i „Piechotą do lata”.
+## Piechotą do lata
+Po nagrodach w Świdniku i Toruniu zespół trafił do konkursu debiutów na festiwalu w Opolu w 1978 roku i zdobył drugie miejsce piosenką „Piechotą do lata”. Przebój podbił Polskę. Do 1980 roku Bajm grał akustycznie, w turystyczno-harcerskiej stylistyce; za muzykę odpowiadał Jarosław, za teksty Beata.
 
-## Przeboje
-„Józek”, „Piechotą do lata”, „Co mi, Panie, dasz”, „Biała armia” – Bajm łączył melodyjny pop z rockowym brzmieniem i tekstami pisanymi z kobiecej perspektywy, co na ówczesnej estradzie nie było oczywiste.
+## Zwrot ku rockowi
+Od 1980 roku zespół grał rocka. W 1982 roku zdobył nagrodę dziennikarzy na festiwalu w Dreźnie, a „W drodze do jej serca” i „Co mi Panie dasz” trafiły na szczyt list przebojów. Debiutancki album „Bajm” (1983) z „Józkiem, nie daruję ci tej nocy” sprzedał się w 200 tysiącach egzemplarzy i dał złotą płytę.
 
-## Pozycja
-Zespół z kobietą na czele, a nie z wokalistką dopisaną do męskiego składu, był w polskiej muzyce rozrywkowej rzadkością. Kozidrak stała się jedną z najważniejszych postaci sceny i pozostała nią przez kolejne dekady.
+## Teksty stanu wojennego
+Od 1984 roku Bajm nagrywał ostrzej brzmiące piosenki z tekstami zainspirowanymi stanem wojennym, a Kozidrak śpiewała bardziej ekspresyjnie, pod wpływem Niny Hagen. Zespół grał w Wietnamie, a na płycie „Martwa woda” (1985) komentował bieżące wydarzenia – m.in. w „Małpie i ja” i „Piramidach na niby”. Potem przyszły „Chroń mnie” (1986) i „Nagie skały” (1988).
 
-## Znaczenie
-Bajm nagrał kilkanaście albumów i przetrwał zmianę ustroju bez utraty popularności. Jego piosenki z lat 80. należą dziś do żelaznego repertuaru polskiej muzyki rozrywkowej.`,
-    trivia: ['Wokalistką i twarzą zespołu jest Beata Kozidrak.', 'Grupa pochodzi z Lublina.'],
+## Dalej
+Bajm przetrwał zmianę ustroju – w 1990 roku wydał „Białą armię”. Do dziś jego albumy sprzedały się w ponad 2,5 miliona egzemplarzy, a Beata Kozidrak pozostaje w zespole od pierwszego dnia.`,
+    trivia: [
+      'Nazwa BAJM to akronim pierwszych liter imion założycieli – wymyśliła go siostra Andrzeja Pietrasa.',
+      '„Piechotą do lata” dało Bajmowi drugie miejsce w konkursie debiutów w Opolu w 1978 roku.',
+      'W 1982 roku zespół zdobył nagrodę dziennikarzy na festiwalu w Dreźnie, śpiewając po niemiecku.',
+    ],
     resources: [
       {
         id: 'bajm-yt',
@@ -32480,19 +32498,26 @@ Rachunkiem za taki model był smog w miastach przemysłowych, kwaśne deszcze ni
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Spolem.jpg?width=800',
     imageCaption: 'Sklep spółdzielni Społem',
     content: `## Trzy filary
-Spółdzielczość obejmowała trzy wielkie obszary. Handel prowadziły Powszechne Spółdzielnie Spożywców Społem w miastach i Gminne Spółdzielnie Samopomoc Chłopska na wsi. Produkcją zajmowały się spółdzielnie pracy i spółdzielnie inwalidów, wytwarzające drobne wyroby, których nie opłacało się produkować wielkim zakładom. Trzecim filarem była spółdzielczość mieszkaniowa.
+Spółdzielczość obejmowała trzy wielkie obszary. Handel prowadziły Powszechne Spółdzielnie Spożywców „Społem” w miastach i Gminne Spółdzielnie „Samopomoc Chłopska” na wsi. Produkcją zajmowały się spółdzielnie pracy i spółdzielnie inwalidów, wytwarzające drobne wyroby, których nie opłacało się produkować wielkim zakładom. Trzecim filarem była spółdzielczość mieszkaniowa.
+
+## Przejęcie
+Na zjeździe chłopskim w Lublinie na przełomie 1944 i 1945 roku powołano Związek Samopomocy Chłopskiej, przez który władze przejęły kontrolę nad tradycyjną spółdzielczością wiejską. W 1948 roku ustawa o Centralnym Związku Spółdzielczym podporządkowała spółdzielnie ośmiu centralom branżowym; Naczelną Radą Spółdzielczą kierował Edward Ochab. Centrale mogły ingerować w statuty i skład zarządów.
 
 ## Sklep GS
-Dla mieszkańca wsi sklep gminnej spółdzielni był często jedynym punktem handlowym w promieniu kilku kilometrów – sprzedawano w nim wszystko: chleb, gwoździe, nawozy, buty gumowe i naftę. GS skupował także płody rolne od rolników.
+GS-y miały praktycznie monopol handlu na wsi. Sprzedawały wszystko: od chleba po narzędzia, rowery, nawozy, materiały budowlane i węgiel. Skupowały żywiec, prowadziły piekarnie, masarnie, rozlewnie piwa i wody, restauracje, a czasem Kluby Rolnika.
 
 ## Samorząd tylko z nazwy
-Statutowo spółdzielnie były zrzeszeniami członków wybierających władze. W rzeczywistości działały w ramach central i związków podporządkowanych administracji, a obsada stanowisk podlegała nomenklaturze partyjnej.
+Statutowo spółdzielnie były zrzeszeniami członków wybierających władze. W rzeczywistości działały w ramach central podporządkowanych państwu, a obsada stanowisk podlegała nomenklaturze partyjnej.
+
+## Po 1989 roku
+Ustawa z 1990 roku nakazała likwidację wszystkich centralnych związków spółdzielczych. Większość gminnych spółdzielni przetrwała jednak reformy rynkowe.
 
 ## Znaczenie
-Mimo to spółdzielczość była elementem gospodarki najbliższym drobnej przedsiębiorczości – i to właśnie spółdzielnie pracy oraz rzemiosło zapewniały część asortymentu, którego przemysł państwowy nie wytwarzał.`,
+Spółdzielczość była elementem gospodarki najbliższym drobnej przedsiębiorczości: spółdzielnie pracy i rzemiosło zapewniały część asortymentu, którego przemysł państwowy nie wytwarzał.`,
     trivia: [
-      'W sklepie gminnej spółdzielni obok chleba i cukru można było kupić nawozy, gwoździe i naftę.',
-      'Spółdzielnie inwalidów wytwarzały drobne artykuły codziennego użytku, których wielkie zakłady nie chciały produkować.',
+      'W 1948 roku utworzono osiem central spółdzielczych – wśród nich centralę spółdzielczości żydowskiej „Solidarność”.',
+      'Gminne spółdzielnie prowadziły nie tylko sklepy, ale też piekarnie, masarnie, rozlewnie piwa i restauracje.',
+      'Ustawa z 1990 roku nakazała likwidację wszystkich centralnych związków spółdzielczych.',
     ],
     resources: [
       {
@@ -32863,19 +32888,23 @@ Rada działała do 19 stycznia 1947 roku, czyli do sfałszowanych wyborów, po k
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Polski_druk_ulotny_1945.jpg?width=800',
     imageCaption: 'Druk ulotny z 1945 roku',
     content: `## Przekształcenie PKWN
-31 grudnia 1944 roku Polski Komitet Wyzwolenia Narodowego został przekształcony w Rząd Tymczasowy Rzeczypospolitej Polskiej. Premierem i ministrem spraw zagranicznych został Edward Osóbka-Morawski, wicepremierami Władysław Gomułka i Stanisław Janusz. Resort obrony objął gen. Michał Rola-Żymierski, a bezpieczeństwa publicznego – Stanisław Radkiewicz.
+31 grudnia 1944 roku Polski Komitet Wyzwolenia Narodowego przekształcono w Rząd Tymczasowy Rzeczypospolitej Polskiej. Premierem i ministrem spraw zagranicznych został Edward Osóbka-Morawski, wicepremierami Władysław Gomułka z PPR i Stanisław Janusz z SL. Resort obrony objął gen. Michał Rola-Żymierski, bezpieczeństwa publicznego – Stanisław Radkiewicz. Ustawa KRN z 3 stycznia 1945 roku dała rządowi prawo wydawania dekretów z mocą ustawy.
 
-## Uznanie i jego brak
-Rząd uznał niemal natychmiast Związek Radziecki. Wielka Brytania i Stany Zjednoczone nadal uznawały rząd na uchodźstwie w Londynie, co oznaczało, że przez pół roku istniały dwa ośrodki roszczące sobie prawo do reprezentowania Polski.
+## Uznanie
+Już 27 grudnia 1944 roku Moskwa zapowiedziała, że uzna rząd, a 4 stycznia 1945 roku zrobiła to oficjalnie. Pod koniec stycznia uznała go Czechosłowacja, w marcu Jugosławia. Stany Zjednoczone i Wielka Brytania odmówiły: wciąż uznawały rząd na uchodźstwie w Londynie, którego Rada Narodowa nazwała siebie „jedyną prawowitą reprezentacją Państwa Polskiego”. Przez pół roku istniały więc dwa rządy polskie.
 
 ## Warszawa
-1 lutego 1945 roku rząd przeniósł się z Lublina do zniszczonej Warszawy – decyzja miała wymiar symboliczny, bo stolica leżała w gruzach i pozbawiona była infrastruktury.
+1 lutego 1945 roku rząd przeniósł się z Lublina do zrujnowanej Warszawy, do gmachu Dyrekcji Kolei przy ul. Targowej 74. Ustanowił polską administrację na całym powojennym terytorium – z wyjątkiem Szczecina, przekazanego przez Rosjan dopiero 5 lipca 1945 roku. Bez przedstawicieli Polski odbyła się konferencja w San Francisco, która powołała ONZ.
 
-## Krótki żywot
-Rząd Tymczasowy istniał niecałe pół roku. 28 czerwca 1945 roku zastąpił go Tymczasowy Rząd Jedności Narodowej, powołany w wyniku ustaleń jałtańskich i rozmów moskiewskich – co otworzyło Zachodowi drogę do wycofania uznania dla władz londyńskich.`,
+## Jałta
+Na konferencji jałtańskiej 10 lutego 1945 roku mocarstwa uzgodniły, że nowy rząd powstanie przez poszerzenie Rządu Tymczasowego o polityków z kraju i emigracji. W marcu Rosjanie zaprosili na rozmowy przywódców Polskiego Państwa Podziemnego, w tym Delegata Rządu Jana Stanisława Jankowskiego i gen. Leopolda Okulickiego – i aresztowali ich.
+
+## Koniec
+28 czerwca 1945 roku Rząd Tymczasowy zastąpił Tymczasowy Rząd Jedności Narodowej z Mikołajczykiem jako wicepremierem. Zachód cofnął wtedy uznanie rządowi londyńskiemu.`,
     trivia: [
-      'Przez pierwsze pół 1945 roku istniały dwa rządy roszczące sobie prawo do reprezentowania Polski – w Warszawie i w Londynie.',
-      'Rząd przeniósł się do Warszawy 1 lutego 1945 roku, gdy miasto było jeszcze morzem gruzów.',
+      'Pierwszą siedzibą rządu w Warszawie był budynek Dyrekcji Kolei Państwowych przy ul. Targowej 74 na Pradze.',
+      'Szczecin przeszedł pod polską administrację dopiero 5 lipca 1945 roku – jako jedyny wyjątek na powojennym terytorium.',
+      'Polska jako jedyne z państw założycielskich ONZ nie była reprezentowana na konferencji w San Francisco.',
     ],
     resources: [
       {
@@ -33003,18 +33032,22 @@ Rząd przetrwał do wyborów w styczniu 1947 roku. Były to półtora roku naras
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Stanis%C5%82aw_Jankowski.png?width=800',
     imageCaption: 'Jan Stanisław Jankowski, Delegat Rządu na Kraj, sądzony w procesie szesnastu',
     content: `## Zadania
-Delegaturę utworzono w 1940 roku jako tajną administrację cywilną podległą rządowi RP na uchodźstwie. Miała utrzymać ciągłość instytucji państwowych, przygotować przejęcie władzy po wojnie, dokumentować zbrodnie okupanta oraz chronić dobra kultury. Dzieliła się na departamenty odpowiadające przedwojennym ministerstwom.
+Delegaturę Rządu na Kraj utworzono w 1940 roku jako tajną administrację cywilną podległą rządowi RP na uchodźstwie. Miała utrzymać ciągłość państwa, przygotować przejęcie władzy po wojnie, dokumentować zbrodnie okupanta i chronić dobra kultury. Statut, opracowany przez Delegata Jana Piekałkiewicza, zatwierdzono w listopadzie 1942 roku.
 
 ## Struktura
-Na czele stał Delegat Rządu na Kraj, od 1944 roku w randze wicepremiera. Delegatura prowadziła tajne nauczanie, wymiar sprawiedliwości, opiekę społeczną i łączność z krajem – równolegle do zbrojnego pionu, jakim była Armia Krajowa.
+Delegat od 1944 roku miał rangę wicepremiera. Biuro dzieliło się na departamenty odpowiadające przedwojennym ministerstwom: spraw wewnętrznych, informacji, oświaty, pracy i opieki społecznej, skarbu, sprawiedliwości i inne. Działał konspiracyjny Państwowy Korpus Bezpieczeństwa, Kierownictwo Walki Cywilnej, Centralna Komisja Badania Zbrodni Okupanta. Organem prasowym był miesięcznik „Rzeczpospolita Polska”, a sieć okręgowych delegatur obejmowała cały kraj.
 
-## Konflikt o władzę
-Wraz z wkroczeniem Armii Czerwonej struktury Delegatury ujawniały się wobec nowych władz, licząc na uznanie. Kończyło się to zwykle aresztowaniami i deportacjami. Ta praktyka – ujawnienie, rozmowy, a po nich fala zatrzymań – powtarzała się od Wołynia po Pomorze.
+## Opieka i pomoc Żydom
+Departament Pracy i Opieki Społecznej, wydający blisko 30 procent budżetu Delegatury, pomagał rodzinom ofiar terroru oraz ludziom nauki i kultury. Przy Delegaturze działała Rada Pomocy Żydom „Żegota”, a w 1943 roku utworzono Referat Żydowski.
+
+## Ciosy
+W lutym 1944 roku grupa Armii Ludowej, współdziałając z gestapo, zdobyła archiwum Delegatury przy ul. Poznańskiej w Warszawie. Klęska Powstania Warszawskiego rozbiła większość departamentów. W marcu 1945 roku Rosjanie aresztowali Delegata Jana Stanisława Jankowskiego razem z gen. Okulickim i innymi przywódcami podziemia, a potem osądzili ich w procesie szesnastu.
 
 ## Rozwiązanie
-1 lipca 1945 roku Delegatura i Rada Jedności Narodowej rozwiązały się, gdy mocarstwa zachodnie cofnęły uznanie rządowi w Londynie. Był to formalny koniec cywilnych struktur Polskiego Państwa Podziemnego.`,
+1 lipca 1945 roku, gdy mocarstwa zachodnie cofnęły uznanie rządowi w Londynie, Delegatura i Rada Jedności Narodowej rozwiązały się. Był to formalny koniec cywilnych struktur Polskiego Państwa Podziemnego.`,
     trivia: [
-      'Delegatura prowadziła tajne nauczanie i podziemny wymiar sprawiedliwości – państwo działało w konspiracji z własnymi sądami.',
+      'Departament Pracy i Opieki Społecznej wydawał blisko 30 procent całego budżetu Delegatury.',
+      'W lutym 1944 roku archiwum Delegatury zdobyła grupa Armii Ludowej działająca we współpracy z gestapo.',
       'Delegat Rządu na Kraj miał od 1944 roku rangę wicepremiera rządu RP.',
     ],
     resources: [
@@ -33827,19 +33860,23 @@ Od 1958 roku pracował w Urzędzie Rezerw Państwowych, w latach 1963–1968 jak
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jozef_Swiatlo.jpg?width=800',
     imageCaption: 'Józef Światło, 1952',
     content: `## Kim był
-Józef Światło, właściwie Izaak Fleischfarb (1915–1994), był wysokim funkcjonariuszem Ministerstwa Bezpieczeństwa Publicznego, wicedyrektorem Departamentu X – komórki zajmującej się kontrolą samej partii i tropieniem odchyleń wśród jej działaczy. Znał mechanizmy aparatu od środka, bo je współtworzył.
+Józef Światło, właściwie Izaak Fleischfarb (1915–1994), pochodził z ubogiej rodziny żydowskiej z Krakowa i był szewcem. Od 1933 roku działał w komunistycznym związku młodzieży. Po wrześniu 1939 roku trafił w głąb ZSRR, a w 1943 roku do dywizji Berlinga jako oficer polityczny. Nazwisko przyjął od drugiej żony.
+
+## Kariera
+Od 1945 roku pracował w bezpiece: był zastępcą szefów UB w Warszawie, Olsztynie i Krakowie, odpowiadał za aresztowania działaczy podziemia, w tym gen. Leopolda Okulickiego, współorganizował fałszowanie referendum 1946 roku i wyborów 1947 roku. Od 1950 roku był wicedyrektorem Departamentu X MBP, który zajmował się kontrolą samej partii. Na polecenie Bieruta aresztował w 1951 roku w Krynicy Władysława Gomułkę z żoną, a także marszałka Rolę-Żymierskiego. W jego sejfach leżały najtajniejsze kartoteki kierownictwa.
 
 ## Ucieczka
-Obawiając się czystek po aresztowaniu Ławrientija Berii, w 1953 roku podczas podróży służbowej do Berlina Wschodniego przeszedł na stronę zachodnią.
+Pod koniec 1953 roku pojechał z płk. Anatolem Fejginem do Berlina Wschodniego, by uzgodnić ze Stasi „uciszenie” Wandy Brońskiej. 5 grudnia przeszedł do Berlina Zachodniego i zgłosił się do Amerykanów, którzy przewieźli go do Waszyngtonu. Historycy wiążą jego decyzję m.in. z antysemickimi tendencjami i pierwszymi rozliczeniami w aparacie po śmierci Stalina.
 
 ## Audycje
-Od 1954 roku Radio Wolna Europa nadawało cykl jego relacji, znany jako „Za kulisami bezpieki i partii”. Opisywał w nich metody śledcze, podsłuchy zakładane członkom kierownictwa, prywatne życie przywódców i mechanizm fabrykowania spraw. Audycji słuchano masowo, mimo zagłuszania.
+Od 1954 roku Radio Wolna Europa nadawało cykl „Za kulisami bezpieki i partii”, a od lutego 1955 roku zrzucano z balonów broszury pod tym samym tytułem. Opisywał metody śledcze, podsłuchy zakładane przywódcom i fabrykowanie spraw. Słuchano tego masowo, mimo zagłuszania.
 
 ## Skutki
-Wstrząs był na tyle duży, że w grudniu 1954 roku rozwiązano Ministerstwo Bezpieczeństwa Publicznego, a część funkcjonariuszy odsunięto. Ujawnienia Światły przyczyniły się do kryzysu, który dwa lata później doprowadził do Października 1956. Sam Światło zmarł w Stanach Zjednoczonych pod zmienionym nazwiskiem.`,
+W grudniu 1954 roku rozwiązano Ministerstwo Bezpieczeństwa Publicznego, a część funkcjonariuszy odsunięto. Ujawnienia przyczyniły się do kryzysu, który doprowadził do Października 1956. Światło żył w USA jako Joseph Carl Miller i zmarł w 1994 roku w Connecticut.`,
     trivia: [
-      'Departament X, w którym pracował, zajmował się kontrolą własnej partii – to on zakładał podsłuchy członkom kierownictwa.',
-      'Jego audycje w Radiu Wolna Europa przyczyniły się do rozwiązania Ministerstwa Bezpieczeństwa Publicznego w grudniu 1954 roku.',
+      'To on w 1951 roku aresztował w Krynicy Władysława Gomułkę – na osobiste polecenie Bieruta.',
+      'Dzień przed ucieczką wraz z płk. Fejginem przypadkiem trafił do Berlina Zachodniego, myśląc, że wciąż są we wschodniej części miasta.',
+      'W USA żył pod nazwiskiem Joseph Carl Miller.',
     ],
     resources: [
       {
@@ -36536,4 +36573,5 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1976, event: 'Strajk w Ursusie przeciw podwyżce cen – robotnicy blokują linię kolejową (25 czerwca)', category: 'opozycja', entryId: 'ursus-zaklady' },
   { year: 1947, event: 'Bolesław Piasecki zakłada Stowarzyszenie PAX', category: 'osoby', entryId: 'piasecki' },
   { year: 1989, event: '15 marca – nowe prawo dewizowe legalizuje kantory, koniec ery cinkciarzy', category: 'gospodarka', entryId: 'czarny-rynek' },
+  { year: 1978, event: 'Bajm debiutuje w Opolu piosenką „Piechotą do lata”', category: 'kultura', entryId: 'bajm-zespol' },
 ];
