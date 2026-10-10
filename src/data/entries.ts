@@ -2467,30 +2467,33 @@ Po 1989 roku rozgłośnia przeniosła się do Warszawy, a jej działalność zak
     subtitle: 'Główny Urząd Kontroli Prasy, Publikacji i Widowisk',
     category: 'kultura',
     tags: ['cenzura', 'GUKPPiW', 'wolność słowa', 'prasa', 'propaganda', 'indeks'],
-    yearStart: 1946,
+    yearStart: 1945,
     yearEnd: 1990,
     summary: 'Cenzura w PRL – system kontroli wszelkich publikacji, audycji radiowych i telewizyjnych oraz widowisk publicznych. Główny Urząd Kontroli Prasy, Publikacji i Widowisk (GUKPPiW) funkcjonował od 1946 do 1990 roku jako narzędzie ideologicznego nadzoru nad kulturą i informacją.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/AGAD_Opinion_of_Culture_Dept_of_Polish_Communust_Party_on_Man_of_Iron_2.png?width=800',
     imageCaption: 'Opinia Wydziału Kultury KC PZPR o „Człowieku z żelaza” Wajdy, 19 maja 1981',
-    content: `Cenzura prewencyjna w Polsce Ludowej została wprowadzona dekretem z 5 lipca 1946 roku. Powołano Główny Urząd Kontroli Prasy, Publikacji i Widowisk (GUKPPiW) z siedzibą w Warszawie. Każda publikacja – książka, gazeta, plakat, scenariusz filmowy – musiała przejść przez urząd przed dopuszczeniem do obiegu.
+    content: `## Urząd na Mysiej
+Cenzurę w Polsce Ludowej sprawował Główny Urząd Kontroli Prasy, Publikacji i Widowisk, powstały w 1945 roku jako Centralne Biuro Kontroli Prasy. Mieścił się przy ul. Mysiej 5 w Warszawie, a w województwach działały jego delegatury. Kontrolował prasę, radio i telewizję, książki, filmy, spektakle i wystawy, a także drukarnie, punkty kserograficzne i wytwórnie pieczątek.
 
-**Mechanizm działania:**
-Cenzorzy GUKPPiW interweniowali na etapie redakcji, przed drukiem. Wydawnictwa znały niepisany katalog zakazanych tematów – oficjalnie lista nie istniała, nieoficjalnie każdy redaktor wiedział, czego nie wolno drukować. Tematy tabu obejmowały m.in.:
-- Katyń i zbrodnie sowieckie na Polakach
-- Rzeczywiste dane gospodarcze i statystyki
-- Katastrofy, wypadki i przestępczość
-- Krytykę ZSRR i przywódców PZPR
-- Działalność Kościoła i opozycji
+## Jak działała
+Każda publikacja musiała przejść przez urząd przed rozpowszechnieniem. Cenzorzy kierowali się tajnymi instrukcjami i zapisami: zakazywano wspominania o Katyniu i zbrodniach sowieckich, prawdziwych danych gospodarczych, katastrof, przestępczości, krytyki ZSRR i kierownictwa partii, wielu działań Kościoła i opozycji. Na listach znajdowali się autorzy objęci całkowitym zakazem publikacji. Urząd ściśle współpracował z wydziałami propagandy PZPR i z SB.
 
-**Czarna Księga Cenzury:**
-W 1977 roku pracownik GUKPPiW Tomasz Strzyżewski wykradł tajną instrukcję cenzorską i przekazał ją na Zachód. Opublikowana przez emigracyjne wydawnictwo ANEKS jako "Czarna Księga Cenzury PRL" ujawniła mechanizmy i listy zakazanych informacji – był to jeden z najważniejszych skandali propagandowych w historii PRL.
+## Czarna księga cenzury
+W 1977 roku krakowski cenzor Tomasz Strzyżewski wyjechał do Szwecji, wywożąc tajne instrukcje i zapisy cenzorskie. Opublikowane przez wydawnictwo „Aneks” jako „Czarna księga cenzury PRL” ujawniły skalę i absurdy systemu.
 
-**Cenzura w kulturze:**
-Wielu artystów, pisarzy i reżyserów – m.in. Ryszard Kapuściński, Zbigniew Herbert, Stanisław Barańczak – poddawana była ingerencjom cenzorskim lub trafiała na listy autorów zakazanych. Odpowiedzią na cenzurę był rozkwit podziemnego drugiego obiegu wydawniczego.
+## Odpowiedź społeczeństwa
+Odpowiedzią na cenzurę był drugi obieg, który na szerszą skalę rozwinął się od połowy lat 70., oraz słuchanie zachodnich rozgłośni. Pisarze i dziennikarze nauczyli się języka aluzji, a czytelnicy – czytania między wierszami.
 
-**Likwidacja:**
-GUKPPiW został zniesiony ustawą z 11 kwietnia 1990 roku – jednym z pierwszych aktów prawnych nowego porządku demokratycznego.`,
-    trivia: ['Cenzor zatwierdzał każdą publikację – także afisz, etykietę i nekrolog.', 'Tajne zapisy cenzury ujawnił w 1977 roku Tomasz Strzyżewski, wywożąc je do Szwecji.'],
+## Po 1981 roku
+W 1981 roku urząd przemianowano na Główny Urząd Kontroli Publikacji i Widowisk. Ustawa z tego roku pozwoliła zaskarżać decyzje cenzury do sądu. Pod koniec istnienia urząd zatrudniał 465 osób.
+
+## Koniec
+Po wyborach 4 czerwca 1989 roku cenzura w praktyce przestała działać. Urząd zniesiono 5 czerwca 1990 roku na mocy ustawy z 11 kwietnia 1990 roku.`,
+    trivia: [
+      'Cenzura kontrolowała nawet wytwórnie pieczątek i punkty kserograficzne.',
+      'Siedziba urzędu cenzury mieściła się przy ul. Mysiej 5 w Warszawie.',
+      'Pod koniec istnienia urząd cenzury zatrudniał 465 osób.',
+    ],
     resources: [
       {
         id: 'cenzura-1',
@@ -4827,23 +4830,25 @@ Kuroń był człowiekiem pełnym sprzeczności: dawny komunista, który stał si
     yearStart: 1981,
     yearEnd: 1989,
     summary: 'Po delegalizacji NSZZ Solidarność w grudniu 1981 roku związek przeszedł do podziemia. Tymczasowa Komisja Koordynacyjna (TKK) kierowała strukturami konspiracyjnymi przez całe lata 80. Podziemna Solidarność wydawała prasę, organizowała strajki i utrzymywała kontakty z Zachodem aż do legalizacji w 1989 roku.',
-    content: `Po wprowadzeniu stanu wojennego Solidarność jako organizacja legalna przestała istnieć – delegalizacja nastąpiła formalnie w październiku 1982 roku. Jednak związek przetrwał w konspiracji, czerpiąc z tradycji polskiego podziemia niepodległościowego.
+    content: `## Do podziemia
+Po 13 grudnia 1981 roku „Solidarność” jako legalna organizacja przestała działać, a formalnie zdelegalizowano ją ustawą o związkach zawodowych w październiku 1982 roku. Działacze, którzy uniknęli internowania, zeszli do konspiracji, nawiązując do tradycji Polskiego Państwa Podziemnego.
 
-**Tymczasowa Komisja Koordynacyjna (TKK):**
-Zbigniew Bujak (Region Mazowsze), Bogdan Lis (Gdańsk), Władysław Frasyniuk (Wrocław) i Eugeniusz Szumiejko tworzyli TKK – podziemne kierownictwo związku. Ukrywali się latami, unikając aresztowania. Bujak był ścigany przez SB przez ponad 4 lata.
+## TKK
+22 kwietnia 1982 roku powstała Tymczasowa Komisja Koordynacyjna – podziemne kierownictwo związku. Tworzyli ją Zbigniew Bujak (Mazowsze), Bogdan Lis (Gdańsk), Władysław Frasyniuk (Dolny Śląsk) i Władysław Hardek (Małopolska). Deklarowała gotowość do rozmów z władzą po zwolnieniu internowanych i amnestii. Współpracowali z nią m.in. Henryk Wujec, Jerzy Buzek, Zdzisław Najder, Józef Pinior i Lech Kaczyński, a za granicą działało biuro w Brukseli.
 
-**Prasa podziemna:**
-Podziemna Solidarność wydawała setki tytułów prasowych – biuletyny regionalne, pisma tematyczne, wydawnictwa książkowe. "Tygodnik Mazowsze" był największym podziemnym pismem – wychodził regularnie przez cały czas stanu wojennego i po nim.
+## Tygodnik Mazowsze
+Najważniejszym pismem podziemia był „Tygodnik Mazowsze”. Jego twórca Jerzy Zieleński popełnił samobójstwo w noc wprowadzenia stanu wojennego, dlatego pierwszy numer, wydany 11 lutego 1982 roku, opatrzono numerem drugim. Redagowała go Helena Łuczywo; nakład sięgał 50–80 tysięcy egzemplarzy, a ostatni, 290. numer ukazał się 12 kwietnia 1989 roku. Część zespołu stworzyła potem „Gazetę Wyborczą”.
 
-**Radio Solidarność:**
-Podziemne radio Solidarności nadawało krótkie audycje na falach radiowych – przerywając oficjalne programy. Każda audycja trwała kilka minut, zanim SB zdołała namierzyć nadajnik. Audycje informowały o represjach i mobilizowały do oporu.
+## Radio i akcje
+Podziemne Radio „Solidarność” nadawało krótkie audycje z przenośnych nadajników. W rocznice 31 sierpnia i 13 grudnia podziemie wzywało do demonstracji, bojkotu oficjalnych mediów i strajków. Działało setki tytułów prasy i wydawnictw drugiego obiegu, zaopatrywanych w sprzęt i papier przemycane z Zachodu.
 
-**Strajki i akcje:**
-W rocznice kluczowych wydarzeń – 13 grudnia, 31 sierpnia – podziemna Solidarność organizowała akcje protestacyjne: bojkot prasy, spacery, demonstracje. W 1988 roku fala strajków zmusiła władze do rozmów.
-
-**Kontakty z Zachodem:**
-Przez kurierów i przez Kościół podziemna Solidarność utrzymywała stały kontakt z emigracją, z Biurem Koordynacyjnym w Brukseli i z zachodnimi rządami. Pomoc finansowa i sprzętowa (powielacze, papier) napływała z Zachodu.`,
-    trivia: ['Struktury konspiracyjne działały przez całe lata 80.', 'Wydawano tysiące tytułów prasy podziemnej.'],
+## Wyjście z podziemia
+25 października 1987 roku TKK i jawna Tymczasowa Rada „Solidarności” powołały Krajową Komisję Wykonawczą, która stała się jawnym kierownictwem związku. Strajki 1988 roku doprowadziły do Okrągłego Stołu, a 17 kwietnia 1989 roku „Solidarność” zarejestrowano ponownie.`,
+    trivia: [
+      'Pierwszy numer „Tygodnika Mazowsze” oznaczono numerem drugim – na pamiątkę Jerzego Zieleńskiego, który zginął w noc stanu wojennego.',
+      'W skład TKK weszli Bujak, Lis, Frasyniuk i Hardek – przywódcy czterech największych regionów.',
+      '„Tygodnik Mazowsze” ukazywał się w nakładzie do 80 tysięcy egzemplarzy.',
+    ],
     resources: [
       {
         id: 'podz-film',
@@ -5618,26 +5623,31 @@ Kontrakt zakładał, że władza zachowa większość i kontrolę. Wojciech Jaru
     tags: ['FWP', 'wczasy', 'urlop', 'wypoczynek', 'Fundusz Wczasów Pracowniczych', 'kolonie'],
     yearStart: 1949,
     yearEnd: 1989,
-    summary: 'Fundusz Wczasów Pracowniczych (FWP) – państwowa instytucja zarządzająca siecią ośrodków wczasowych, kolonii i domów wczasowych dla pracowników. Przez dekady FWP organizował urlopy dla milionów Polaków – subsydiowane przez zakłady pracy, tanie i powszechnie dostępne. Był to jeden z realnych benefitów systemu socjalistycznego.',
+    summary: 'Fundusz Wczasów Pracowniczych – powołana w 1949 roku instytucja, która przez skierowania rozdzielane w zakładach pracy organizowała tani, związkowy wypoczynek dla pracowników.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mi%C4%99dzyzdroje%2C_Hotel_Posejdon_FWP_02.JPG?width=800',
     imageCaption: 'Logo Funduszu Wczasów Pracowniczych z rokiem założenia 1949 na banerze hotelu Posejdon w Międzyzdrojach (fot. współczesna, 2015)',
-    content: `Fundusz Wczasów Pracowniczych powstał w 1949 roku jako instytucja organizująca wypoczynek pracowników. Zarządzał siecią ośrodków wczasowych nad morzem, w górach i na Mazurach, domami wczasowymi i koloniami dla dzieci.
+    content: `## Powstanie
+Fundusz Wczasów Pracowniczych powołała ustawa uchwalona przez Sejm 4 lutego 1949 roku na wniosek central związkowych. FWP podlegał Centralnej Radzie Związków Zawodowych, a w terenie działało 13 zarządów okręgów wczasowych z domami i ośrodkami wypoczynkowymi w atrakcyjnych miejscach kraju. Miał monopol na organizację wypoczynku pracowniczego.
 
-**Jak działał system:**
-Pracownik przez zakład pracy otrzymywał "skierowanie" na wczasy – z dotacją zakładu. Cena dla wczasowicza była wielokrotnie niższa od kosztów rzeczywistych. Najlepsze ośrodki były przypisane do konkretnych zakładów lub resortów – kolejarze jechali do ośrodków kolejarskich, górnicy do górniczych.
+## Skierowanie
+Na wczasy nie wystarczyło zapłacić – potrzebne było skierowanie. Rozdzielały je kolejno wojewódzkie komisje związków zawodowych, zarządy okręgów i rady zakładowe, a na sezon letni i do najatrakcyjniejszych miejscowości, jak Zakopane, Krynica czy Międzyzdroje, decydowała rada zakładowa. Przydział mógł zależeć od przynależności partyjnej, opinii w zakładzie i braku „opozycyjnej” przeszłości.
 
-**Kolonie dla dzieci:**
-FWP organizował masowe kolonie letnie – kilkaset tysięcy dzieci rocznie wyjeżdżało nad morze, w góry lub do ośrodków śródlądowych. Kolonie były tanie, często finansowane przez zakłady pracy rodziców. Stanowiły ważny element socjalistycznej polityki rodzinnej.
+## Cena
+Opłata zależała od zarobków: skierowanie na 14-dniowe wczasy kosztowało zwykle 12–16 procent miesięcznej pensji. Poza sezonem stosowano zniżki, a część skierowań trafiała do wolnej sprzedaży dla związkowców.
 
-**Miejscowości wczasowe:**
-Ustka, Łeba, Kołobrzeg, Mielno, Zakopane, Krynica, Szklarska Poręba, Giżycko, Augustów – to nazwy nierozerwalnie kojarzone z wczasami FWP. Infrastruktura turystyczna rozwijała się dynamicznie w latach 60. i 70.
+## Rodzaje wczasów
+FWP prowadził 14-dniowe wczasy zwykłe i rodzinne, wczasy lecznicze w 16 uzdrowiskach, pobyty sanatoryjne, wczasy przeciwgruźlicze, krajoznawcze rejsy po Wiśle, a nawet wczasy miejskie w Warszawie dla związkowców z małych miast i wsi.
 
-**Ograniczenia:**
-System FWP nie był idealny – przydział zależał od pozycji w zakładzie pracy i powiązań partyjnych. Dostęp do lepszych ośrodków wymagał "znajomości". Prawdziwy luksus – wyjazdy zagraniczne do krajów bloku lub na Zachód – był zarezerwowany dla nomenklatury.
+## Skala
+W 1967 roku FWP dysponował około 52,8 tysiąca miejsc w 116 miejscowościach i przyjął 583 tysiące wczasowiczów. Coraz większą rolę odgrywały jednak ośrodki należące do zakładów pracy – w tym samym roku skorzystało z nich ponad 1,1 miliona osób – oraz wypoczynek organizowany na własną rękę.
 
-**Nostalgia:**
-Wczasy FWP są dziś przedmiotem nostalgii – jako symbol beztroskiego lata, prostego życia nad morzem i wspólnotowych doświadczeń. Zdjęcia z wczasów FWP to ikoniczny obraz PRL-owskiej codzienności.`,
-    trivia: ['Skierowania na wczasy rozdzielały zakłady pracy.', 'Były tanie, ale trzeba było na nie czekać i mieć przydział.'],
+## Pamięć
+Wczasy pod gruszą, ośrodek nad morzem, wspólna stołówka i zdjęcia z turnusu są dziś jednym z najbardziej nostalgicznych obrazów PRL-owskiej codzienności.`,
+    trivia: [
+      'Skierowanie na 14-dniowe wczasy kosztowało zwykle 12–16 procent miesięcznej pensji.',
+      'FWP organizował nawet wczasy miejskie w Warszawie dla związkowców z małych miast i wsi.',
+      'W 1967 roku z ośrodków zakładów pracy skorzystało więcej osób niż z ośrodków FWP – ponad 1,1 miliona wobec 583 tysięcy.',
+    ],
     resources: [
       {
         id: 'wczasy-fwp-yt',
@@ -6053,27 +6063,28 @@ Areszt na Rakowieckiej działał do 2017 roku. Od 2016 roku mieści się w nim M
     summary: 'Telewizja Polska rozpoczęła regularne nadawanie w 1952 roku. Przez dekady była głównym narzędziem propagandy partyjnej – Dziennik Telewizyjny manipulował informacją, a program był ściśle kontrolowany. Jednocześnie TVP tworzyła wybitne spektakle Teatru Telewizji i seriale, które na stałe weszły do kultury.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Siedziba_Telewizji_Polskiej_w_Warszawie_2017.jpg?width=800',
     imageCaption: 'Budynek Telewizji Polskiej przy ulicy Woronicza w Warszawie (fot. współczesna)',
-    content: `Telewizja Polska rozpoczęła regularne emisje 25 października 1952 roku. Początkowo nadawała kilka godzin dziennie, docierając do nielicznych posiadaczy odbiorników. W latach 60. telewizja upowszechniła się – posiadanie telewizora stało się aspiracją każdej rodziny.
+    content: `## Początki
+Pierwszy program polskiej telewizji wyemitowano z Instytutu Łączności 25 października 1952 roku o 19.00 – był to półgodzinny montaż artystyczny. Regularną emisję, pół godziny raz w tygodniu, zainicjowano 23 stycznia 1953 roku. W latach 60. telewizor stał się marzeniem każdej rodziny.
 
-**Dziennik Telewizyjny:**
-"Dziennik" (od 1958 roku) był centralnym punktem programu i głównym narzędziem propagandy. Relacjonował sukcesy partii, przemilczał kryzysy i fałszował obraz rzeczywistości. W stanie wojennym spikerzy pojawiali się w mundurach wojskowych. "Dziennik" był przedmiotem powszechnych żartów – społeczeństwo nauczyło się czytać go "na odwrót".
+## Dziennik Telewizyjny
+Od 2 stycznia 1958 roku nadawano Dziennik Telewizyjny – główny program informacyjny i w latach 70. i 80. najważniejsze narzędzie propagandy. Po wprowadzeniu stanu wojennego prezenterzy występowali w mundurach.
 
-**Teatr Telewizji:**
-Paradoksalnie TVP tworzyła wybitną kulturę. Teatr Telewizji produkował spektakle na najwyższym poziomie artystycznym – z udziałem czołowych reżyserów i aktorów. Wiele z nich to arcydzieła polskiego teatru.
+## Dwójka i kolor
+2 października 1970 roku uruchomiono drugi program. 22 lipca 1971 roku nadano pierwszy program w kolorze, w francuskim systemie SECAM – adaptację monodramu Czechowa „O szkodliwości palenia tytoniu”. Otwarcie na zachodnią technikę było częścią polityki Gierka.
 
-**Kultowe seriale i programy:**
-- "Stawka większa niż życie" (1967–1968) – Hans Kloss, ulubiony serial PRL
-- "Czterej pancerni i pies" (1966–1970) – propagandowy, ale ogromnie popularny
-- "Polskie drogi" (1977) – seria o II wojnie
-- "Teleranek" i programy dla dzieci – "Dobranocka" z Miś Uszatek
-- Kabaret Olgi Lipińskiej – humor z cenzurą
+## Teatr i seriale
+TVP tworzyła zarazem wybitną kulturę. Teatr Telewizji pokazywał spektakle z udziałem najlepszych aktorów i reżyserów. Ogromną popularność zdobywały seriale – „Czterej pancerni i pies”, „Stawka większa niż życie”, „Polskie drogi”, „Czterdziestolatek” – oraz programy dla dzieci, od „Teleranka” po wieczorynki z Misiem Uszatkiem i Bolkiem i Lolkiem. Kabaret Olgi Lipińskiej i „Wielokropek” przemycały satyrę.
 
-**Drugi program i kolor:**
-Program 2 TVP uruchomiono w 1970 roku. Telewizja kolorowa pojawiła się w 1971 roku – Gierek "dał" Polakom kolorowy telewizor jako symbol modernizacji.
+## Bojkot
+W stanie wojennym wielu aktorów odmawiało występów w telewizji, a „Solidarność” wzywała do bojkotu Dziennika Telewizyjnego. Wielu dziennikarzy po weryfikacji straciło pracę.
 
-**Bojkot telewizji:**
-W czasie stanu wojennego wiele rodzin bojkotowało telewizję o godzinie Dziennika – wystawiając w oknie świecącą świeczkę jako znak solidarności.`,
-    trivia: ['Telewizor był marzeniem – na wspólne oglądanie schodzili się sąsiedzi.', 'Program nadawano tylko przez część dnia, z przerwą w ciągu doby.'],
+## Koniec epoki
+28 października 1989 roku Joanna Szczepkowska powiedziała w Dzienniku Telewizyjnym, że 4 czerwca 1989 roku skończył się w Polsce komunizm. W listopadzie 1989 roku nadano ostatnie wydanie Dziennika Telewizyjnego.`,
+    trivia: [
+      'Pierwszym programem w kolorze był w 1971 roku monodram Czechowa „O szkodliwości palenia tytoniu”.',
+      'Regularne emisje w 1953 roku trwały pół godziny – raz w tygodniu.',
+      'Drugi program telewizji uruchomiono 2 października 1970 roku.',
+    ],
     resources: [
       {
         id: 'tvp-1',
@@ -6118,23 +6129,28 @@ W czasie stanu wojennego wiele rodzin bojkotowało telewizję o godzinie Dzienni
     summary: 'Wieś polska w PRL przeszła głęboką transformację – od reformy rolnej 1944, przez próbę kolektywizacji, po trwanie indywidualnych gospodarstw. Polscy chłopi byli jedyną grupą w bloku wschodnim, która skutecznie oparła się pełnej kolektywizacji. Życie wiejskie łączyło tradycję z nową rzeczywistością socjalistyczną.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/%C5%BBniwa_zmechanizowane_-_Lisk%C3%B3w_-_001012p.jpg?width=800',
     imageCaption: 'Żniwa zmechanizowane w Liskowie – rolnik na żniwiarce konnej, koniec lat 50. (fot. Adam Glapa, Cyfrowe Archiwum im. Józefa Burszty)',
-    content: `Polska wieś po 1944 roku znalazła się w centrum politycznych zmagań. Reforma rolna dała chłopom ziemię – ale komuniści chcieli tę ziemię zabrać przez kolektywizację. Chłopi stawiali opór.
+    content: `## Reforma rolna
+Dekret PKWN z 6 września 1944 roku wywłaszczył bez odszkodowania majątki ziemskie powyżej 50 hektarów użytków rolnych. W latach 1944–1948 przejęto 9707 majątków o powierzchni około 3,49 miliona hektarów; 1,2 miliona hektarów rozparcelowano między 387 tysięcy rodzin chłopskich, a resztę przejęło państwo. Reforma zdobyła władzy część poparcia na wsi, ale stworzyła mozaikę małych gospodarstw.
 
-**Reforma rolna 1944 i jej skutki:**
-Dekret PKWN o reformie rolnej rozparcelował majątki ziemskie – chłopi otrzymali małe działki. Reforma była popularna, lecz rozbiła sprawne gospodarstwa rolne i stworzyła mozaikę małych, niewydolnych działek.
+## Kolektywizacja
+Od 1948 roku władze forsowały spółdzielnie produkcyjne na wzór kołchozów, a chłopów opornych piętnowano jako „kułaków”. Na wsi obowiązywały przymusowe dostawy płodów rolnych. Chłopi stawiali bierny opór i wstępowali do spółdzielni pod przymusem.
 
-**Kolektywizacja i jej klęska:**
-W latach 1949–1956 władze forsowały tworzenie spółdzielni produkcyjnych (kołchozów). Chłopi stawiali bierny i czynny opór – wstępowali do spółdzielni pod przymusem, ale sabotowali pracę. Po Październiku 1956 roku kolektywizację faktycznie porzucono – spółdzielnie masowo rozwiązywano. To unikalne zjawisko w bloku wschodnim.
+## Klęska kolektywizacji
+Po Październiku 1956 roku z blisko 10 tysięcy spółdzielni produkcyjnych pozostało około 1,5 tysiąca – chłopi rozwiązali je, gdy tylko presja zelżała. Polska jako jedyny kraj bloku zachowała przewagę gospodarstw indywidualnych. Głównym uspołecznionym sektorem pozostały państwowe gospodarstwa rolne, zakładane od 1949 roku głównie na Ziemiach Zachodnich i Północnych.
 
-**PGR – Państwowe Gospodarstwa Rolne:**
-Na byłych majątkach ziemskich i terenach zurbanizowanych tworzono PGR-y – wielkie państwowe farmy. Pracownicy PGR byli zatrudnionymi przez państwo robotnikami rolnymi, nie właścicielami. PGR-y były mało efektywne, lecz dawały zatrudnienie i mieszkanie tysiącom rodzin. Po 1989 roku ich likwidacja stworzyła dramatyczną biedę na wsi.
+## Rolnik indywidualny
+Rolnik indywidualny był w PRL podejrzany ideologicznie i gorzej traktowany przy przydziale maszyn, nawozów i kredytów. Handel i skup na wsi zmonopolizowały gminne spółdzielnie „Samopomoc Chłopska”, a maszyny dostarczały kółka rolnicze. Dopiero w 1981 roku po kryzysie bydgoskim zarejestrowano NSZZ Rolników Indywidualnych „Solidarność”.
 
-**Życie codzienne na wsi:**
-Elektryfikacja wsi postępowała – w 1945 roku prąd miało 10% wsi, w 1980 roku prawie wszystkie. GS (Gminne Spółdzielnie) "Samopomoc Chłopska" była lokalnym monopolistą w handlu i skupie. Kółka rolnicze dostarczały maszyny rolnicze.
+## Wielka migracja
+Plan sześcioletni i industrializacja wyciągnęły ze wsi miliony ludzi. W ciągu jednego pokolenia chłopi stali się robotnikami wielkich zakładów i mieszkańcami nowych osiedli – to jedna z najgłębszych przemian społecznych PRL.
 
-**Migracja do miast:**
-Polska wieś intensywnie "wylewała się" do miast – miliony chłopów stały się robotnikami w ciągu jednego pokolenia. Zjawisko to zmieniło strukturę społeczną Polski.`,
-    trivia: ['Elektryfikacja wsi trwała przez całe lata 50. i 60.', 'Rolnicy indywidualni długo nie mieli prawa do emerytury.'],
+## Po 1989 roku
+Likwidacja PGR-ów pozbawiła pracy całe miejscowości, a indywidualne gospodarstwa musiały odnaleźć się w gospodarce rynkowej.`,
+    trivia: [
+      'Po Październiku 1956 roku z blisko 10 tysięcy spółdzielni produkcyjnych zostało około 1,5 tysiąca.',
+      'Z 3,49 miliona hektarów przejętych w reformie rolnej chłopom rozdano 1,2 miliona.',
+      'Polska jako jedyny kraj bloku wschodniego zachowała przewagę indywidualnych gospodarstw rolnych.',
+    ],
     resources: [
       {
         id: 'wies-prl-yt',
@@ -8171,32 +8187,28 @@ Po 13 grudnia 1981 roku większość aktorów zbojkotowała media państwowe, a 
     tags: ['Anders', 'armia', 'Monte Cassino', 'II Korpus', 'Persja', 'deportacje', 'emigracja', 'Londyn'],
     yearStart: 1892,
     yearEnd: 1970,
-    summary: 'Gen. Władysław Anders stworzył armię z polskich więźniów sowieckich łagrów i przeprowadził ją przez Persję, Irak i Włochy aż pod Monte Cassino. Zdobycie klasztoru 18 maja 1944 r. to jeden z najświetniejszych polskich czynów zbrojnych II wojny.',
+    summary: 'Gen. Władysław Anders (1892–1970) – dowódca armii polskiej utworzonej w ZSRR i 2 Korpusu, który zdobył Monte Cassino; w PRL pozbawiony obywatelstwa, na emigracji jeden z przywódców polskiego wychodźstwa.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/W%C5%82adys%C5%82aw%20Anders.jpg?width=800',
     imageCaption: 'Gen. Władysław Anders – dowódca II Korpusu, symbol emigracji niepodległościowej.',
-    content: `## Jeniec sowieckich łagrów
+    content: `## Oficer kawalerii
+Władysław Anders urodził się 11 sierpnia 1892 roku w majątku Błonie, dziś na terenie Krośniewic. Służył w armii rosyjskiej w I wojnie światowej, potem w Wojsku Polskim; ukończył Wyższą Szkołę Wojenną w Paryżu. We wrześniu 1939 roku dowodził Nowogródzką Brygadą Kawalerii i został ciężko ranny.
 
-Władysław Anders (ur. 11 VIII 1892 w Krośniewicach Błońskich) był oficerem kawalerii Wojska Polskiego. W kampanii wrześniowej 1939 r. ciężko ranny, trafił do sowieckiej niewoli. Przez prawie dwa lata więziony na Łubiance i w Moskwie – mimo tortur nie podpisał żadnej deklaracji współpracy.
+## Więzień NKWD
+W sowieckiej niewoli trafił w lutym 1940 roku na Łubiankę i do Butyrek. Przez 22 miesiące był przesłuchiwany; pod koniec 1940 roku zaczął składać zeznania, co – jak później przyznawał – sobie wyrzucał, choć nie miały większego znaczenia.
 
-## Formowanie armii (1941–1942)
+## Armia w ZSRR
+Po układzie Sikorski–Majski w sierpniu 1941 roku został dowódcą tworzonej w ZSRR armii polskiej. Napływali do niej wyniszczeni więźniowie łagrów i zesłańcy. W 1942 roku przeprowadził ewakuację wojska i cywilów do Iranu – razem z wojskiem ZSRR opuściły tysiące cywilów, w tym wiele dzieci. Popadł w ostry konflikt z gen. Sikorskim co do polityki wobec Moskwy.
 
-Po ataku Niemiec na ZSRR (czerwiec 1941) Stalin zgodził się uwolnić polskich jeńców i pozwolić na formowanie polskiej armii pod dowództwem Andersa. Z łagrów, kołchozów i miejsc zsyłek napływały tysiące wyniszczonych Polaków i ich rodzin. Anders zorganizował ewakuację przez Persję (Iran) – łącznie ok. 116 tys. żołnierzy i cywilów opuściło ZSRR.
+## 2 Korpus
+Na Bliskim Wschodzie powstał 2 Korpus Polski, który na przełomie 1943 i 1944 roku przerzucono do Włoch. Jego najważniejszymi bitwami były Monte Cassino w maju 1944 roku – 18 maja polski patrol zatknął flagę na ruinach klasztoru – oraz Ankona. W walkach o Monte Cassino zginęło 923 polskich żołnierzy.
 
-## Szlak bojowy
-
-II Korpus Polski pod dowództwem Andersa przeszedł szlak bojowy przez:
-- **Persję i Irak** (reorganizacja, wyposażenie w sprzęt brytyjski)
-- **Egipt i Palestynę** (dalsze szkolenie)
-- **Włochy** (1944–1945): kampania włoska, wzięcie Ankony, forsowanie rzeki Senio
-
-## Monte Cassino
-
-11–18 maja 1944 r. żołnierze Andersa zaatakowali twierdzę Monte Cassino – klucz do obrony Linii Gustawa i drogi na Rzym. Po czterech szturmach (trzy poprzednie alianckie zakończyły się klęską) Polacy 18 maja 1944 r. wciągnęli flagę na ruiny klasztoru. Zginęło ok. 900 polskich żołnierzy.
-
-## Emigracja i PRL
-
-Po wojnie Anders i żołnierze II Korpusu nie wrócili do Polski, którą rządziły sowieckie marionetki. Osiedlili się głównie w Wielkiej Brytanii. PRL pozbawiła Andersa obywatelstwa i odznaczeń. Zrehabilitowany pośmiertnie w 1989 r. Anders jest dziś symbolem polskiego czynu zbrojnego na Zachodzie.`,
-    trivia: ['Dowodził armią utworzoną z Polaków zwolnionych z sowieckich łagrów.', 'W 1946 roku władze w Warszawie pozbawiły go polskiego obywatelstwa.'],
+## Na emigracji
+Anders nie wrócił do kraju. 26 września 1946 roku Tymczasowy Rząd Jedności Narodowej pozbawił go obywatelstwa i stopnia generała. Na emigracji był naczelnym wodzem, w latach 1950–1954 wyznaczonym następcą prezydenta, a od 1954 roku członkiem Rady Trzech. Zmarł w Londynie 12 maja 1970 roku i zgodnie z wolą spoczął wśród swoich żołnierzy na cmentarzu pod Monte Cassino. W 1971 roku rząd PRL uchylił decyzję o odebraniu obywatelstwa, ale tej uchwały nie opublikowano.`,
+    trivia: [
+      'Decyzję o odebraniu Andersowi obywatelstwa rząd PRL uchylił w 1971 roku, ale uchwały nie opublikowano.',
+      'Pochowano go wśród jego żołnierzy na polskim cmentarzu wojennym pod Monte Cassino.',
+      'W walkach o Monte Cassino poległo 923 żołnierzy 2 Korpusu.',
+    ],
     resources: [
       {
         id: 'anders-1',
@@ -9264,29 +9276,25 @@ Po 1989 r. Kiszczak był wielokrotnie oskarżany – o udział w wprowadzeniu st
     summary: 'Polska szkoła filmowa (ok. 1955–1965) to jeden z najważniejszych ruchów w historii kina europejskiego. Twórcy z łódzkiej filmówki – Munk, Kawalerowicz, Has, Polański, Skolimowski – stworzyli filmy rozliczające się z wojną i przemilczeniami historii, które zyskały światowe uznanie.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Palac_Oskara_Kona_Lodz.jpg?width=800',
     imageCaption: 'Pałac Oskara Kona w Łodzi, siedziba Szkoły Filmowej (fot. współczesna)',
-    content: `## Narodziny szkoły – odwilż i filmówka
+    content: `## Narodziny
+Polska szkoła filmowa wyrosła z odwilży połowy lat 50. i z łódzkiej Państwowej Wyższej Szkoły Filmowej, założonej w 1948 roku. Po 1956 roku twórcy dostali niespotykaną wcześniej swobodę: mogli rozliczać się z wojną, martyrologią i przemilczaną historią najnowszą, choć cenzura nadal interweniowała.
 
-Polska Szkoła Filmowa wyrosła z odwilży po 1956 r. i z Państwowej Wyższej Szkoły Filmowej w Łodzi (PWSF, założonej 1948) – jednej z pierwszych i najlepszych uczelni filmowych w Europie. Jej absolwenci otrzymali po 1956 r. bezprecedensową artystyczną wolność: mogli rozliczać się z wojną, martyrologią i przemilczaną historią.
+## Wajda
+Andrzej Wajda stworzył wojenną trylogię: „Pokolenie” (1955), „Kanał” (1957), nagrodzony w Cannes, i „Popiół i diament” (1958) ze Zbigniewem Cybulskim, który stał się idolem pokolenia. Później nakręcił m.in. „Niewinnych czarodziejów”, portret młodzieży przełomu lat 50. i 60.
 
-## Kluczowe filmy
-
-- **Andrzej Munk** – "Człowiek na torze" (1956), "Eroica" (1958), "Zezowate szczęście" (1960); ironia wobec mitów heroicznych
-- **Jerzy Kawalerowicz** – "Pociąg" (1959), "Matka Joanna od Aniołów" (1961)
-- **Wojciech Has** – "Rękopis znaleziony w Saragossie" (1964) – ulubiony film m.in. Jerry'ego Garcii
-- **Andrzej Wajda** – "Popiół i diament" (1958), "Kanał" (1957) – trzecia część trylogii wojennej
+## Munk i Kawalerowicz
+Andrzej Munk w „Człowieku na torze”, „Eroice” (1958) i „Zezowatym szczęściu” (1960) z ironią podważał mity heroiczne; zginął w wypadku w 1961 roku, nie kończąc „Pasażerki”. Jerzy Kawalerowicz nakręcił „Pociąg” (1959) i „Matkę Joannę od Aniołów”, nagrodzoną w Cannes Srebrną Palmą. Wojciech Jerzy Has stworzył „Rękopis znaleziony w Saragossie” (1964), który po latach zdobył kultowe uznanie na świecie.
 
 ## Polański i Skolimowski
-
-Absolwenci z następnego pokolenia: **Roman Polański** (ur. 1933) – "Nóż w wodzie" (1962), pierwszy film fabularny; nominowany do Oscara, co otworzyło mu drogę na Zachód. **Jerzy Skolimowski** (ur. 1938) – "Rysopis" (1964), "Walkower" (1965); emigrował w 1967 r.
-
-## Cenzura i granice wolności
-
-Polska szkoła filmowa działała w ramach systemu, lecz potrafiła go oszukiwać. Filmy przesuwały granice: "Zaduszki" Konwickiego, "Niewinni czarodzieje" Wajdy – pokolenie powojenne z jego egzystencjalnymi pytaniami. Cenzura interweniowała, lecz nie zawsze skutecznie.
+Kolejne pokolenie absolwentów łódzkiej szkoły szło własną drogą. Roman Polański debiutował „Nożem w wodzie” (1962) – pierwszym polskim filmem nominowanym do Oscara – i wkrótce wyjechał na Zachód. Jerzy Skolimowski nakręcił „Rysopis” i „Walkower”, a jego „Ręce do góry” cenzura zatrzymała na lata.
 
 ## Dziedzictwo
-
-Polska szkoła filmowa umieściła kino polskie na mapie kinematografii światowej. Łódź do dziś jest centrum polskiego kina – filmówka wydała kolejne pokolenia wielkich twórców: Kieślowskiego, Zanussiego, Agnieszki Holland.`,
-    trivia: ['Nurt trwał od połowy lat 50. do początku 60.', 'Rozliczał się z doświadczeniem wojny i mitem heroizmu.'],
+Polska szkoła filmowa umieściła polskie kino na mapie kinematografii światowej. Łódzka filmówka wykształciła kolejne pokolenia – Krzysztofa Kieślowskiego, Krzysztofa Zanussiego i innych twórców kina moralnego niepokoju.`,
+    trivia: [
+      'Andrzej Munk zginął w wypadku w 1961 roku, nie kończąc „Pasażerki”.',
+      '„Nóż w wodzie” Polańskiego był pierwszym polskim filmem nominowanym do Oscara.',
+      'Wojenna trylogia Wajdy to „Pokolenie”, „Kanał” i „Popiół i diament”.',
+    ],
     resources: [
       {
         id: 'psf-1',
