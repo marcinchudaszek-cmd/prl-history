@@ -2326,26 +2326,30 @@ Skrót wszedł do polszczyzny jako synonim przemocy państwa, a rozwinięcia w r
     subtitle: 'Kolebka Solidarności',
     category: 'opozycja',
     tags: ['Stocznia Gdańska', 'Solidarność', 'strajk', '1980', 'Gdańsk', 'Wałęsa'],
-    yearStart: 1947,
+    yearStart: 1945,
     yearEnd: 1989,
-    summary: 'Stocznia Gdańska im. Lenina – największy zakład przemysłowy Trójmiasta i symbol oporu robotniczego w PRL. To tutaj w sierpniu 1980 roku wybuchł strajk, który doprowadził do powstania NSZZ Solidarność.',
+    summary: 'Stocznia Gdańska – od 1967 roku imienia Lenina – miejsce strajków Grudnia 1970, Sierpnia 1980 i 1988 roku; kolebka „Solidarności”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pomnik%20Poleg%C5%82ych%20Stoczniowc%C3%B3w%201970%20%E2%80%93%20monument%20w%20postaci%20trzech%20krzy%C5%BCy%20z%20kotwicami%20ods%C5%82oni%C4%99ty%2016%20grudnia%201980%20roku%20w%20X%20rocznic%C4%99%20wydarze%C5%84%20grudnia%2070%20w%20Gda%C5%84sku%20na%20pl.%20Solidarno%C5%9Bci.DSCF7267.JPG?width=800',
     imageCaption: 'Pomnik Poległych Stoczniowców 1970 przy bramie Stoczni Gdańskiej.',
-    content: `Stocznia Gdańska – jeden z największych zakładów przemysłowych w powojennej Polsce, zbudowany na gruzach dawnej Stoczni Gdańskiej (Danziger Werft). Oficjalnie otwarta w 1947 roku, szybko stała się jednym z flagowych projektów industrializacji PRL.
+    content: `## Na miejscu niemieckich stoczni
+Stocznia Gdańska powstała po 1945 roku na terenach, gdzie od XIX wieku działały niemieckie stocznie – Klawittera, Kaiserliche Werft i Schichaua. Do końca 1947 roku zajmowała się głównie remontami. Z czasem zbudowała ponad tysiąc statków, w tym wiele dla ZSRR. 15 kwietnia 1967 roku nadano jej imię Lenina.
 
-**Sierpień 1980 – narodziny Solidarności:**
-14 sierpnia 1980 roku robotnicy stoczni pod przywództwem Anny Walentynowicz i Lecha Wałęsy ogłosili strajk. Bezpośrednią przyczyną było zwolnienie Anny Walentynowicz – działaczki związkowej i obrończyni praw pracowniczych. Strajk błyskawicznie objął dziesiątki zakładów wybrzeża.
+## Grudzień 1970
+14 grudnia 1970 roku, po ogłoszeniu podwyżki cen, w stoczni wybuchł strajk, który objął całe Wybrzeże. Protesty krwawo stłumiono, a wśród ofiar byli stoczniowcy. Pamięć o nich stała się jednym z motywów kolejnego buntu.
 
-31 sierpnia 1980 roku w Sali BHP podpisano Porozumienia Gdańskie – historyczny dokument gwarantujący m.in. prawo do wolnych związków zawodowych. Stocznia stała się symbolem walki o wolność.
+## Sierpień 1980
+14 sierpnia 1980 roku stocznia stanęła w obronie zwolnionej Anny Walentynowicz. Strajk przygotowali działacze Wolnych Związków Zawodowych, a na jego czele stanął Lech Wałęsa. Powstał Międzyzakładowy Komitet Strajkowy, a jego 21 postulatów zawisło na tablicach przy bramie nr 2. 31 sierpnia w sali BHP podpisano porozumienie, które otworzyło drogę do powstania „Solidarności”. W 2004 roku tablice z postulatami wpisano na listę UNESCO „Pamięć Świata”.
 
-**Grudzień 1970:**
-Stocznia była świadkiem tragicznych wydarzeń Grudnia 1970, gdy funkcjonariusze strzelali do demonstrujących robotników. Pamięć o ofiarach była jednym z motywów sierpniowego strajku.
+## Pomnik
+16 grudnia 1980 roku przed bramą stoczni odsłonięto Pomnik Poległych Stoczniowców 1970 – trzy krzyże z kotwicami. Jego budowa była jednym z postulatów strajku.
 
-**Po 1989 roku:**
-Po upadku PRL Stocznia Gdańska popadła w finansowe tarapaty. W 1996 roku ogłoszono upadłość. Na terenie stoczni powstało Europejskie Centrum Solidarności – muzeum i centrum badań nad historią oporu społecznego w Europie Środkowej.
-
-Przed bramą stoczni wznosi się pomnik Poległych Stoczniowców 1970 – trzy krzyże symbolizujące ofiary Grudnia 1970, odsłonięte w 1980 roku jako jeden z warunków strajku.`,
-    trivia: ['14 sierpnia 1980 Lech Wałęsa dostał się na teren strajkującej stoczni, przeskakując przez mur.', 'Brama nr 2 stoczni, obwieszona kwiatami i obrazami, stała się symbolem strajku.'],
+## Lata 80. i później
+W maju i sierpniu 1988 roku stocznia znów strajkowała, co doprowadziło do rozmów przy Okrągłym Stole. W 1996 roku przedsiębiorstwo postawiono w stan upadłości. W 2014 roku na dawnym terenie stoczni otwarto siedzibę Europejskiego Centrum Solidarności.`,
+    trivia: [
+      'Imię Lenina stocznia nosiła od 15 kwietnia 1967 roku.',
+      'Tablice z 21 postulatami Sierpnia wpisano w 2004 roku na listę UNESCO „Pamięć Świata”.',
+      'Pomnik Poległych Stoczniowców odsłonięto 16 grudnia 1980 roku – jego budowa była jednym z postulatów strajku.',
+    ],
     resources: [
       {
         id: 'stocznia-1',
@@ -2733,23 +2737,29 @@ Dyskusje o wyburzeniu gmachu toczyły się latami, ale w 2007 roku Pałac wpisan
     category: 'opozycja',
     tags: ['strajki 1988', 'Solidarność', 'Okrągły Stół', 'Wałęsa', 'młoda Solidarność'],
     yearStart: 1988,
+    yearEnd: 1988,
     summary: 'Dwie fale strajków w 1988 roku – wiosenna i letnia – wstrząsnęły schyłkowym PRL. Protestująca młodzież robotnicza wymusiła na władzach podjęcie dialogu z opozycją, co bezpośrednio doprowadziło do rozmów Okrągłego Stołu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Uniwersytet_Warszawski_%28brama_g%C5%82%C3%B3wna_maj_1988%29.JPG?width=800',
     imageCaption: 'Demonstracja studentów przy bramie Uniwersytetu Warszawskiego, maj 1988',
-    content: `Rok 1988 był ostatnim rokiem realnej próby sił między władzami PRL a społeczeństwem. Na tle głębokiego kryzysu ekonomicznego i drożyzny wybuchły dwie fale strajków, które zaskoczyły zarówno władze, jak i podziemną Solidarność.
+    content: `## Tło
+Pod koniec lat 80. gospodarka pogrążała się w kryzysie, a w lutym 1988 roku drastycznie podniesiono ceny. Podziemna „Solidarność” była osłabiona, a fala strajków zaskoczyła zarówno rządzących, jak i przywódców związku.
 
-**Wiosna 1988 – pierwsza fala:**
-W kwietniu i maju 1988 roku strajki objęły m.in. Hutę im. Lenina w Nowej Hucie, Stocznię Gdańską i zakłady komunikacji miejskiej. Żądania miały charakter płacowy, ale szybko pojawiły się hasła polityczne – przywrócenia Solidarności. Władze przerwały strajki przy pomocy ZOMO, jednak nie zdecydowały się na masowe represje.
+## Wiosna
+Strajki zaczęły się 25 kwietnia 1988 roku w komunikacji miejskiej Bydgoszczy i Inowrocławia. 26 kwietnia stanęła Huta im. Lenina w Nowej Hucie, a 2 maja Stocznia Gdańska. Robotnicy żądali podwyżek, ale też przywrócenia „Solidarności”. W nocy z 4 na 5 maja ZOMO brutalnie spacyfikowało hutników, po czym zawieszono strajk w Gdańsku. Już jednak 3 maja ludzie z otoczenia Jaruzelskiego przekazali doradcy „Solidarności”, że generał zgadza się na rozmowy z Wałęsą.
 
-**Lato 1988 – druga fala:**
-W sierpniu strajki powróciły z większą siłą. Do protestu przyłączyły się kopalnie węgla – Manifest Lipcowy, Staszic, Jastrzębie. Stocznia Gdańska strajkowała ponownie. Wałęsa negocjował zakończenie strajku, obiecując dialog z władzami.
+## Lato
+15 sierpnia strajk zaczęli górnicy kopalni „Manifest Lipcowy” w Jastrzębiu-Zdroju. Do 20 sierpnia protest objął szereg kopalń, a 22 sierpnia znów Stocznię Gdańską i pozostałe stocznie Trójmiasta. 25 sierpnia Wałęsa zażądał legalizacji „Solidarności”, reformy prawa o stowarzyszeniach i swobody zakładania klubów politycznych.
 
-**Młoda Solidarność:**
-Znakiem szczególnym strajków 1988 było to, że w wielu zakładach do protestu weszło nowe pokolenie robotników – młodych ludzi, którzy w 1980 roku byli dziećmi. Dla władz był to sygnał, że represje stanu wojennego nie zlikwidowały ducha oporu.
+## Młode pokolenie
+W wielu zakładach do strajku weszli młodzi robotnicy, którzy w 1980 roku byli dziećmi. Dla władz był to sygnał, że stan wojenny nie złamał oporu.
 
-**Droga do Okrągłego Stołu:**
-Pod wpływem strajków gen. Czesław Kiszczak podjął pierwsze rozmowy z Wałęsą. Telewizyjna debata Wałęsa–Miodowicz (30 listopada 1988) stała się symbolem zmiany – Solidarność wróciła do przestrzeni publicznej. W lutym 1989 roku rozpoczęły się obrady Okrągłego Stołu.`,
-    trivia: ['Fala strajków wiosną i latem 1988 zmusiła władze do rozmów.', 'Doprowadziła wprost do Okrągłego Stołu.'],
+## Droga do Okrągłego Stołu
+26 sierpnia w telewizji gen. Czesław Kiszczak zaproponował rozmowy, a 31 sierpnia spotkał się z Wałęsą. Strajki wygasły 3 września. 30 listopada Wałęsa wypadł zdecydowanie lepiej w telewizyjnej debacie z szefem OPZZ Alfredem Miodowiczem, a 18 grudnia powstał Komitet Obywatelski przy Przewodniczącym. W lutym 1989 roku rozpoczął się Okrągły Stół.`,
+    trivia: [
+      'Wiosenna fala strajków zaczęła się 25 kwietnia 1988 roku w komunikacji miejskiej Bydgoszczy i Inowrocławia.',
+      'Letnie strajki rozpoczęli 15 sierpnia górnicy kopalni „Manifest Lipcowy” w Jastrzębiu-Zdroju.',
+      'Po strajkach Kiszczak spotkał się z Wałęsą 31 sierpnia 1988 roku – w ósmą rocznicę porozumienia gdańskiego.',
+    ],
     resources: [
       {
         id: 'strajki88-1',
@@ -3311,23 +3321,28 @@ Migracja ze wsi do miast znacząco zwiększyła liczbę robotników. Zmęczenie 
     tags: ['WZZ', 'Wolne Związki Zawodowe', 'Wałęsa', 'Walentynowicz', 'Gdańsk', 'opozycja', '1978'],
     yearStart: 1978,
     yearEnd: 1980,
-    summary: 'Wolne Związki Zawodowe Wybrzeża – niezależna organizacja robotnicza założona w 1978 roku w Gdańsku. Skupiała działaczy, którzy zapoczątkowali sierpniowy strajk 1980 i stworzyli zręby NSZZ Solidarność. Spośród jej członków wyrosła większość liderów pierwszej Solidarności.',
+    summary: 'Wolne Związki Zawodowe Wybrzeża – niezależna organizacja robotnicza założona 29 kwietnia 1978 roku w Gdańsku przez Andrzeja Gwiazdę, Krzysztofa Wyszkowskiego i Antoniego Sokołowskiego; ich działacze przygotowali strajk sierpniowy 1980 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zbiorka%20na%20wolne%20zwiazki%20zawodowe%201980.jpg?width=800',
     imageCaption: 'Zbiórka na Wolne Związki Zawodowe w Szczecinie, sierpień 1980',
-    content: `Wolne Związki Zawodowe Wybrzeża (WZZ) założono 29 kwietnia 1978 roku w Gdańsku. Inicjatorami byli m.in. Andrzej Gwiazda, Bogdan Borusewicz i Krzysztof Wyszkowski. Wkrótce do organizacji dołączyli Lech Wałęsa i Anna Walentynowicz.
+    content: `## Założenie
+Komitet Założycielski Wolnych Związków Zawodowych Wybrzeża powołali 29 kwietnia 1978 roku w Gdańsku Andrzej Gwiazda, Krzysztof Wyszkowski i Antoni Sokołowski. Impulsem były Wolne Związki Zawodowe Górnego Śląska, założone kilka miesięcy wcześniej m.in. przez Kazimierza Świtonia i Romana Kściuczka.
 
-**Kontekst:**
-W 1978 roku działały już Robotnicze Komitety Obrony (ROPCiO) i KOR. WZZ były pierwszą próbą zorganizowania niezależnych związków zawodowych bezpośrednio w zakładach pracy. Wzorowano się na wolnych związkach funkcjonujących na Śląsku (Katowice Wolne Związki Zawodowe Śląsko-Dąbrowskie – Kazimierz Świtoń).
+## Program
+WZZ broniły praw robotniczych i obywatelskich niezależnie od państwa. W deklaracji pisały, że nie stawiają sobie celów politycznych, ale wiedzą, że i tak zostaną o nie oskarżone, bo za politykę uważa się w PRL „prawie wszystko z wyjątkiem wycieczek na grzyby”. Powoływały się na konstytucję i międzynarodowe konwencje praw człowieka.
 
-**Działalność:**
-WZZ wydawały biuletyn "Robotnik Wybrzeża" (nawiązanie do ogólnopolskiego "Robotnika" KOR). Organizowały spotkania w prywatnych mieszkaniach, pomagały robotnikom w sprawach pracowniczych, dokumentowały łamanie praw pracowniczych.
+## Ludzie
+Aktywnymi działaczami lub współpracownikami byli m.in. Bogdan Borusewicz, Joanna Duda-Gwiazda, Anna Walentynowicz, Alina Pienkowska, Andrzej Kołodziej, Lech Wałęsa, Lech Kaczyński i Bogdan Lis. Prasę niezależną dostarczał i pozwy w obronie Walentynowicz pisał Leszek Moczulski. W 1980 roku w niewyjaśnionych okolicznościach zginął działacz WZZ Tadeusz Szczepański.
 
-**Represje SB:**
-Członkowie WZZ byli stale inwigilowani, zatrzymywani, zwalniani z pracy. Anna Walentynowicz straciła pracę w Stoczni Gdańskiej tuż przed emeryturą – właśnie to zwolnienie stało się bezpośrednią przyczyną strajku w sierpniu 1980 roku.
+## Robotnik Wybrzeża i inwigilacja
+Od 1 sierpnia 1978 roku WZZ wydawały biuletyn „Robotnik Wybrzeża”. Członków nękano zatrzymaniami, rewizjami i zwolnieniami z pracy. W skład komitetu założycielskiego wszedł Edwin Myszk, który – jak ujawnił współpracujący z WZZ funkcjonariusz SB Adam Hodysz – był tajnym współpracownikiem bezpieki.
 
-**Od WZZ do Solidarności:**
-14 sierpnia 1980 roku strajk w Stoczni Gdańskiej zaczął się jako protest w obronie Walentynowicz. Kierownictwo WZZ organizowało strajk i prowadziło negocjacje. Po podpisaniu Porozumień Gdańskich 31 sierpnia 1980 roku WZZ przekształciły się w struktury NSZZ Solidarność.`,
-    trivia: ['Wolne Związki Zawodowe Wybrzeża powstały w 1978 roku, na dwa lata przed Sierpniem.', 'Działali w nich m.in. Anna Walentynowicz, Andrzej Gwiazda i Bogdan Borusewicz.'],
+## Do Sierpnia
+Zwolnienie Anny Walentynowicz ze Stoczni Gdańskiej, kilka miesięcy przed emeryturą, stało się bezpośrednim powodem strajku 14 sierpnia 1980 roku. Strajk przygotowali ludzie z kręgu WZZ – Borusewicz oraz młodzi stoczniowcy, m.in. Jerzy Borowczak, Bogdan Felski i Ludwik Prądzyński. Działacze WZZ stworzyli potem trzon NSZZ „Solidarność”.`,
+    trivia: [
+      'Deklaracja WZZ ironizowała, że za politykę uważa się w PRL „prawie wszystko z wyjątkiem wycieczek na grzyby”.',
+      'W komitecie założycielskim zasiadał Edwin Myszk – jak się okazało, tajny współpracownik SB.',
+      'Pierwszy numer „Robotnika Wybrzeża” ukazał się 1 sierpnia 1978 roku.',
+    ],
     resources: [
       {
         id: 'wzz-1',
@@ -3381,24 +3396,25 @@ Członkowie WZZ byli stale inwigilowani, zatrzymywani, zwalniani z pracy. Anna W
     summary: 'Miesięcznik "Kultura" wydawany przez Jerzego Giedroycia w Paryżu od 1947 roku – najważniejsze polskie pismo emigracyjne, które przez dekady kształtowało myśl polityczną opozycji i intelektualistów w kraju. Instytut Literacki w Maisons-Laffitte był centrum polskiej niezależnej myśli przez całą epokę PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gustaw_Herling-Grudzinski_3.jpg?width=800',
     imageCaption: 'Gustaw Herling-Grudziński na zdjęciu z więzienia w Grodnie, 1940',
-    content: `"Kultura" – miesięcznik założony przez Jerzego Giedroycia w Rzymie w 1947 roku, a od 1948 roku wydawany w podparyskim Maisons-Laffitte przez Instytut Literacki. Przez ponad pół wieku (do śmierci Giedroycia w 2000 roku) było to najważniejsze polskie pismo poza krajem.
+    content: `## Rzym 1947
+Pierwszy numer „Kultury” ukazał się w czerwcu 1947 roku w Rzymie jako kwartalnik. Redagowali ją Jerzy Giedroyc i Gustaw Herling-Grudziński, a od początku współpracowali Zofia Hertz i Józef Czapski – wszyscy byli żołnierzami armii gen. Andersa. Po sporze z Andersem pismo przeniesiono do Francji; od 1948 roku wydawał je Instytut Literacki w podparyskim Maisons-Laffitte.
 
-**Jerzy Giedroyc (1906–2000):**
-Redaktor naczelny i dusza pisma. Wizjoner polskiej polityki wschodniej – jako jeden z pierwszych myślicieli emigracyjnych głosił konieczność pojednania z Ukrainą, Litwą i Białorusią (doktryna ULB). Uważał, że bez niepodległości tych narodów nie ma trwałej wolności Polski.
+## Jerzy Giedroyc
+Giedroyc (1906–2000) chciał stworzyć „nowy Hotel Lambert” – ośrodek niepodległej myśli polskiej. Razem z Juliuszem Mieroszewskim głosił koncepcję ULB: Polska powinna wspierać niepodległość Ukrainy, Litwy i Białorusi i pogodzić się z utratą Kresów, bo bez wolności tych narodów nie będzie trwałej wolności Polski. W jego gabinecie wisiała gazeta Camusa z nagłówkiem „Cisza, toniemy!”.
 
-**Czołowi współpracownicy:**
-- Gustaw Herling-Grudziński – autor "Innego Świata", stały felietonista
-- Józef Czapski – malarz, pisarz, pamiętnikarz
-- Konstanty A. Jeleński – krytyk literatury i kultury
-- Czesław Miłosz – po ucieczce z PRL w 1951 roku współpracował z "Kulturą"
-- Witold Gombrowicz – publikował tu swoje dzienniki
+## Autorzy
+Z „Kulturą” związani byli m.in. Herling-Grudziński, Czapski, Konstanty Jeleński, Czesław Miłosz, który w 1951 roku zerwał z PRL, oraz Witold Gombrowicz, publikujący tu swój „Dziennik”. Instytut Literacki wydał setki książek autorów zakazanych w kraju.
 
-**Znaczenie dla opozycji:**
-"Kultura" była przemycana do Polski i stanowiła duchowy pokarm opozycji. KOR, Solidarność i środowiska intelektualne nawiązywały wprost do idei Giedroycia. Pismo kształtowało myślenie o przyszłości postkomunistycznej Polski.
+## Przemyt do kraju
+Pismo i książki przemycano do Polski – przez turystów, dyplomatów, a w latach 60. także przez Tatry, za co w 1970 roku odbył się proces taterników. Władze uznawały „Kulturę” za ośrodek wrogi, a współpraca z nią groziła więzieniem.
 
-**Biblioteka "Kultury":**
-Instytut Literacki wydał setki książek – autorów zakazanych w PRL, dokumenty historyczne, literaturę emigracyjną. Były one przemycane do kraju przez turystów i dyplomatów.`,
-    trivia: ['Redakcja mieściła się w Maisons-Laffitte pod Paryżem.', 'Egzemplarze przemycano do Polski – m.in. przez Tatry.'],
+## Znaczenie
+Opozycja demokratyczna lat 70. i 80. czerpała z myśli „Kultury”, a koncepcja ULB stała się po 1989 roku podstawą polskiej polityki wschodniej. „Kultura” ukazywała się do śmierci Giedroycia w 2000 roku – wyszło 637 numerów miesięcznika i setki tomów Biblioteki „Kultury”.`,
+    trivia: [
+      'Pierwszy numer „Kultury” ukazał się w Rzymie w czerwcu 1947 roku – wszyscy jej twórcy byli żołnierzami armii Andersa.',
+      'W gabinecie Giedroycia wisiało ostatnie wydanie gazety Camusa z nagłówkiem „Cisza, toniemy!”.',
+      'Za przemyt „Kultury” przez Tatry w 1970 roku skazano grupę młodych ludzi w procesie taterników.',
+    ],
     resources: [
       {
         id: 'kultura-p-1',
@@ -3974,23 +3990,28 @@ Produkcję zakończono 22 września 2000 roku. W Polsce zbudowano 3 318 674 Malu
     summary: 'Nacjonalizacja przemysłu i handlu – seria dekretów i ustaw z lat 1944–1948, na mocy których komunistyczne władze przejęły prywatne firmy, fabryki, banki i ziemię. Połączona z reformą rolną i nacjonalizacją banków, stanowiła fundament komunistycznej transformacji gospodarczej Polski.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Hilary_Minc_1949.jpg?width=800',
     imageCaption: 'Hilary Minc, minister przemysłu w powojennym rządzie komunistycznym, zdjęcie sprzed 1949 r.',
-    content: `Przejęcie prywatnej własności przez państwo komunistyczne przebiegało etapami i przy użyciu różnych instrumentów prawnych.
+    content: `## Reforma rolna
+Przejmowanie własności zaczął dekret PKWN z 6 września 1944 roku o reformie rolnej. Bez odszkodowania wywłaszczał on majątki ziemskie powyżej 50 hektarów użytków rolnych lub 100 hektarów powierzchni ogólnej, w województwach zachodnich – powyżej 100 hektarów, razem z dworami, budynkami i inwentarzem. Ziemian usuwano w ciągu trzech dni, pozwalając zabrać tylko rzeczy osobiste, i wyrzucano poza granice powiatu.
 
-**Reforma rolna 1944:**
-Dekret PKWN z 6 września 1944 roku wywłaszczył bez odszkodowania majątki ziemskie powyżej 50 ha (100 ha w przypadku ziem rolnych). Rozparcelowano ok. 3,5 miliona hektarów. Reforma miała zdobyć chłopów dla nowej władzy – jednak wkrótce ruszała kolektywizacja.
+## Skala reformy
+W latach 1944–1948 przejęto 9707 majątków o powierzchni około 3,49 miliona hektarów. Rozparcelowano 1,2 miliona hektarów między 387 tysięcy rodzin chłopskich, resztę przejęło państwo. Lasy powyżej 25 hektarów znacjonalizowano osobnym dekretem.
 
-**Nacjonalizacja przemysłu 1946:**
-Ustawa z 3 stycznia 1946 roku o przejęciu na własność państwa gałęzi przemysłowych. Upaństwowiono zakłady zatrudniające powyżej 50 pracowników. Bez odszkodowania przejęto: huty, kopalnie, cementownie, fabryki włókiennicze, browary, drukarnie.
+## Ustawa z 3 stycznia 1946
+Podstawą nacjonalizacji przemysłu była ustawa KRN z 3 stycznia 1946 roku. Bez odszkodowania przejmowano przedsiębiorstwa niemieckie, gdańskie i należące do kolaborantów. Za odszkodowaniem – w praktyce często symbolicznym albo niewypłacanym – upaństwowiono przedsiębiorstwa z 17 kluczowych gałęzi, jak górnictwo, hutnictwo czy energetyka, oraz wszystkie zakłady mogące zatrudniać ponad 50 osób na jedną zmianę. Zagranicznym udziałowcom wypłacono realne odszkodowania, krajowym zaoferowano papiery wartościowe.
 
-**Handel i bankowość:**
-Banki upaństwowiono już w 1945 roku. Prywatny handel stopniowo ograniczano – najpierw przez reglamentację przydziałów towarów, potem przez zakładanie spółdzielni handlowych i GS (Gminnych Spółdzielni). Do 1948 roku prywatny handel hurtowy praktycznie przestał istnieć.
+## Warszawa
+Na mocy tzw. dekretu Bieruta z 1945 roku wszystkie grunty w przedwojennych granicach Warszawy przeszły na własność gminy. Większość właścicieli nie dostała żadnego odszkodowania.
 
-**"Bitwa o handel":**
-W 1947 roku ogłoszono "bitwę o handel" – kampanię przeciw prywatnym kupcom i rzemieślnikom. Stosowano zawyżone podatki, rewizje, oskarżenia o spekulację. Tysiące rodzin kupieckich zostało zrujnowanych.
+## Bitwa o handel
+W 1947 roku Hilary Minc ogłosił „bitwę o handel” – kampanię przeciw prywatnym kupcom i rzemieślnikom, prowadzoną domiarami podatkowymi, kontrolami i oskarżeniami o spekulację. W ciągu kilku lat prywatna przedsiębiorczość niemal zniknęła.
 
-**Skutki:**
-Nacjonalizacja zniszczyła klasę przedsiębiorców i kupców. Gospodarka stała się całkowicie zależna od państwowego planowania. Efektywność gospodarki dramatycznie spadła – pierwsze skutki odczuto już w latach 50.`,
-    trivia: ['Ustawa z 1946 roku objęła zakłady zatrudniające ponad 50 pracowników na jedną zmianę.', 'W ciągu kilku lat prywatny przemysł praktycznie zniknął.'],
+## Skutki
+Prywatne pozostały domy, mieszkania i gospodarstwa chłopskie. Zniszczono warstwę przedsiębiorców i ziemian, a gospodarka stała się w całości zależna od państwowego planu.`,
+    trivia: [
+      'Ziemian usuwano z majątków w ciągu trzech dni i wyrzucano poza granice powiatu.',
+      'Z 3,49 miliona hektarów przejętych w reformie rolnej chłopom rozparcelowano tylko 1,2 miliona.',
+      'Ustawa z 1946 roku obejmowała zakłady, które mogły zatrudnić ponad 50 osób na jedną zmianę.',
+    ],
     resources: [
       {
         id: 'nac-pkf',
@@ -5454,23 +5475,25 @@ Powstanie PZPR zamknęło etap „dyktatury koalicyjnej" i otworzyło etap jedno
     summary: 'Michaił Gorbaczow (1931–2022) – ostatni przywódca ZSRR, inicjator reform pierestrojki (przebudowy) i głasnosti (jawności). Jego polityka, choć miała uratować socjalizm, uruchomiła procesy, które doprowadziły do upadku ZSRR i wyzwolenia Europy Środkowej spod sowieckiej dominacji, w tym Polski.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mikhail_Gorbachev_in_1987_%28cropped%29.jpg?width=800',
     imageCaption: 'Michaił Gorbaczow w 1987 roku, u szczytu pieriestrojki',
-    content: `Michaił Gorbaczow objął władzę w ZSRR w marcu 1985 roku. Od początku wiedział, że system wymaga głębokiej reformy – gospodarka była w stagnacji, technologia pozostawała daleko za Zachodem, a społeczeństwo traciło wiarę w komunizm.
+    content: `## Młody przywódca
+Michaił Gorbaczow (1931–2022) urodził się we wsi Priwolnoje w Kraju Stawropolskim. 11 marca 1985 roku, cztery godziny po ogłoszeniu śmierci Konstantina Czernienki, plenum KC wybrało go sekretarzem generalnym KPZR. Miał 54 lata, podczas gdy średnia wieku w Biurze Politycznym wynosiła 66 lat.
 
-**Pierestrojka (przebudowa):**
-Program reform gospodarczych i politycznych ogłoszony w 1986 roku. Zakładał decentralizację, ograniczenie biurokracji, dopuszczenie pewnych form prywatnej inicjatywy. W praktyce reformy ekonomiczne nie przyniosły szybkich efektów, powodując chaos.
+## Pierestrojka i głasnost
+W 1986 roku – roku katastrofy w Czarnobylu – Gorbaczow zainicjował pierestrojkę, czyli przebudowę: modernizację gospodarki, walkę z korupcją, więcej swobód obywatelskich i odprężenie z Zachodem. Głasnost, czyli jawność, oznaczała osłabienie cenzury i rozliczenie ze stalinizmem; z czasem wykreślono z konstytucji kierowniczą rolę KPZR.
 
-**Głasnost (jawność):**
-Polityka otwartości informacyjnej – zezwolenie na krytykę przeszłości, ujawnianie zbrodni stalinowskich, swobodniejsza prasa. Głasnost miała legitymizować reformy, w efekcie otworzyła drzwi do kwestionowania całego systemu.
+## Znaczenie dla Polski
+Gorbaczow odszedł od doktryny Breżniewa, zgodnie z którą ZSRR mógł interweniować w krajach bloku broniąc socjalizmu. Brak groźby radzieckiej interwencji był dla władz PRL i opozycji warunkiem rozmów przy Okrągłym Stole i przemian 1989 roku. W 1990 roku ZSRR przyznał też, że zbrodni katyńskiej dokonało NKWD.
 
-**Znaczenie dla Polski:**
-Gorbaczow sygnalizował, że ZSRR nie będzie interweniować militarnie w przypadku reform politycznych w krajach satelickich – co było odejściem od Doktryny Breżniewa. Ten sygnał był kluczowy dla polskiej opozycji i dla władz PRL decydujących się na Okrągły Stół.
+## Uznanie na Zachodzie
+Tygodnik „Time” uznał go za Człowieka Roku w 1987 i 1989 roku, a w 1990 roku otrzymał Pokojową Nagrodę Nobla. W latach 1990–1991 był pierwszym i jedynym prezydentem ZSRR.
 
-**Uznanie zbrodni katyńskiej:**
-W 1990 roku Gorbaczow oficjalnie przyznał, że NKWD dokonało mordu katyńskiego – po 50 latach sowieckiego kłamstwa.
-
-**Upadek ZSRR:**
-Reformy Gorbaczowa uwolniły odśrodkowe siły, których nie mógł kontrolować – republiki sowieckie zaczęły ogłaszać niepodległość. W grudniu 1991 roku ZSRR przestał istnieć. Gorbaczow otrzymał Pokojową Nagrodę Nobla w 1990 roku.`,
-    trivia: ['Pierestrojka i głasnost ogłoszone po 1985 osłabiły kontrolę Moskwy nad blokiem wschodnim.', 'Brak groźby sowieckiej interwencji ułatwił przemiany 1989 roku.'],
+## Upadek ZSRR
+Reformy uwolniły siły, nad którymi Gorbaczow nie zapanował – republiki ogłaszały niepodległość. 8 grudnia 1991 roku przywódcy Rosji, Ukrainy i Białorusi powołali Wspólnotę Niepodległych Państw, a 25 grudnia Gorbaczow złożył urząd prezydenta nieistniejącego już państwa. Do końca twierdził, że chciał Związek Radziecki zreformować, a nie rozwiązać.`,
+    trivia: [
+      'Gdy obejmował władzę w 1985 roku, miał 54 lata – średnia wieku w Biurze Politycznym wynosiła wtedy 66 lat.',
+      'Tygodnik „Time” dwukrotnie uznał go za Człowieka Roku – w 1987 i 1989 roku.',
+      'Przy narodzinach nadano mu imię Wiktor; dziadek zmienił je na chrzcie na Michaił.',
+    ],
     resources: [
       {
         id: 'gorb-1',
@@ -5933,7 +5956,7 @@ Ten paradoks – muzyka wolności w systemie zniewolenia – jest jednym z najci
   {
     id: 'wiezienia-polityczne',
     title: 'Więzienia polityczne PRL',
-    subtitle: 'Rawicz, Wronki, Mokotów – za kratami bez wyroku',
+    subtitle: 'Rakowiecka, Wronki, Rawicz – za kratami za poglądy',
     category: 'represje',
     tags: ['więzienia', 'Rawicz', 'Wronki', 'Mokotów', 'więźniowie polityczni', 'terror'],
     yearStart: 1944,
@@ -5941,28 +5964,28 @@ Ten paradoks – muzyka wolności w systemie zniewolenia – jest jednym z najci
     summary: 'Przez cały okres PRL system więziennictwa był narzędziem politycznych represji. Więźniowie polityczni – żołnierze podziemia, działacze opozycji, osoby aresztowane za poglądy – trafiali do zakładów karnych, gdzie warunki i metody stosowane wobec nich były celowo upokarzające i okrutne.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mokot%C3%B3w_Prison_DSC_2381.JPG?width=800',
     imageCaption: 'Mury aresztu przy Rakowieckiej – najbardziej znanego więzienia politycznego PRL (fot. współczesna)',
-    content: `Więziennictwo w PRL służyło nie tylko izolacji przestępców, lecz przede wszystkim eliminacji i łamaniu przeciwników politycznych systemu. W szczytowym okresie stalinowskim (1944–1956) przez więzienia i obozy przeszły setki tysięcy Polaków.
+    content: `## Narzędzie represji
+Więziennictwo w PRL służyło nie tylko izolacji przestępców, ale też eliminacji i łamaniu przeciwników politycznych. Najcięższy okres przypadł na lata 1944–1956, gdy w stu więzieniach stracono blisko trzy i pół tysiąca osób, w większości przeciwników politycznych.
 
-**Najważniejsze więzienia polityczne:**
+## Rakowiecka
+Głównym więzieniem śledczym aparatu bezpieczeństwa w Warszawie był areszt przy ul. Rakowieckiej 37 na Mokotowie, zbudowany w latach 1902–1904. Od marca 1945 roku przejęło go Ministerstwo Bezpieczeństwa Publicznego. Szacuje się, że w okresie stalinowskim wykonano tam ponad 2800 wyroków śmierci – zginęli m.in. rotmistrz Witold Pilecki i gen. August Emil Fieldorf. Ciała straconych grzebano potajemnie, m.in. na „Łączce” na Powązkach i na Służewie.
 
-*Więzienie Mokotów (Warszawa):*
-Główne więzienie śledcze UB w Warszawie, przy ul. Rakowieckiej. Tu przetrzymywano i torturowano aresztowanych przez UB. Tu stracono gen. Augusta Emila Fieldorfa "Nila", rotmistrza Witolda Pileckiego i wielu innych bohaterów AK. Dziś część budynku to Muzeum Żołnierzy Wyklętych.
+## Metody
+W śledztwie stosowano bicie, wielogodzinne przesłuchania, pozbawianie snu, karcer i szantaż wobec rodzin. Zeznania wymuszano i wykorzystywano w sfingowanych procesach. Liczba więźniów zamęczonych w aresztach nie jest do końca znana.
 
-*Więzienie Rawicz:*
-Największy zakład karny – tu odbywali kary długoletni więźniowie polityczni: działacze PSL, oficerowie AK, a po 1981 roku działacze Solidarności.
+## Obozy i ciężkie więzienia
+Obok aresztów śledczych działały obozy pracy, jak Centralny Obóz Pracy w Jaworznie, oraz więzienia dla skazanych na długie wyroki, m.in. we Wronkach i Rawiczu, do których trafiali żołnierze podziemia i działacze PSL.
 
-*Więzienie Wronki:*
-Ciężkie więzienie dla skazanych na długie wyroki. Przebywali tu m.in. Leszek Moczulski (KPN) i inni przywódcy opozycji.
+## Po 1956 roku
+Po Październiku masowy terror zelżał, ale więzienia polityczne nie zniknęły. Za działalność opozycyjną skazywano w latach 60. i 70., a po 13 grudnia 1981 roku internowano 10 131 osób, przywódców opozycji zaś sądzono. Amnestia z września 1986 roku uwolniła więźniów politycznych.
 
-**Metody:**
-- Tortury podczas śledztwa (bicie, pozycje stresowe, deprywacja snu)
-- Długotrwała izolacja i cela "karceru"
-- Presja psychologiczna – szantaż rodzinami
-- Wymuszanie zeznań i donosów na współpracowników
-
-**Więźniowie polityczni po 1956:**
-Po Październiku 1956 masowy terror zelżał, lecz więzienia polityczne nie zniknęły. W stanie wojennym tysiące działaczy trafiało do aresztów śledczych, a przywódcy opozycji byli skazywani na kilkuletnie wyroki.`,
-    trivia: ['Najcięższą opinię miały więzienia na Mokotowie i we Wronkach.', 'W areszcie przy Rakowieckiej wykonywano wyroki śmierci.'],
+## Pamięć
+Areszt na Rakowieckiej działał do 2017 roku. Od 2016 roku mieści się w nim Muzeum Żołnierzy Wyklętych i Więźniów Politycznych PRL.`,
+    trivia: [
+      'W areszcie przy Rakowieckiej w okresie stalinowskim wykonano ponad 2800 wyroków śmierci.',
+      'Dawne więzienie mokotowskie jest od 2016 roku siedzibą Muzeum Żołnierzy Wyklętych i Więźniów Politycznych PRL.',
+      'Ciała straconych grzebano potajemnie – m.in. na „Łączce” na Powązkach.',
+    ],
     resources: [
       {
         id: 'wiezienia-1',
