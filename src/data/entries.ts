@@ -672,21 +672,28 @@ Sierpień 1980 był przełomem – pokojowym zwycięstwem społeczeństwa nad w�
     tags: ['plan', 'kartki', 'niedobory', 'industrializacja', 'dług zagraniczny'],
     yearStart: 1944,
     yearEnd: 1989,
-    summary: 'Gospodarka PRL oparta była na centralnym planowaniu i własności państwowej. Charakteryzowała się cyklami inwestycji, niedoborów towarowych, reglamentacji i zadłużenia zagranicznego.',
+    summary: 'Gospodarka PRL – centralnie planowana i państwowa, z chronicznym niedoborem, kartkami, długiem zagranicznym, który do 1989 roku urósł do 42 miliardów dolarów.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/%C5%9Aciana_Wschodnia_i_Hotel_Forum_w_Warszawie.jpg?width=800',
     imageCaption: 'Ściana Wschodnia i hotel Forum w Warszawie, około 1975',
-    content: `## Zasada
-Gospodarka PRL była gospodarką planową i państwową. Środki produkcji należały do państwa, ceny ustalano decyzją administracyjną, a o tym, co i ile wyprodukować, rozstrzygał plan, a nie popyt. Rynek jako mechanizm nie istniał.
+    content: `## Zniszczenia i odbudowa
+Wojna zniszczyła około 38 procent majątku narodowego, a liczba ludności spadła z 34,8 do 23,9 miliona; poziom sprzed wojny osiągnięto dopiero w 1978 roku. Odbudowę prowadzono przy pomocy UNRRA. Plan trzyletni 1947–1949 był jedynym planem w historii PRL, który udało się w pełni zrealizować.
 
-## Cztery fazy
-Okres powojenny dzieli się wyraźnie. Do 1949 roku trwała odbudowa przy zachowaniu sektora prywatnego. Plan sześcioletni 1950–1955 przestawił kraj na przemysł ciężki kosztem konsumpcji. Dekada Gierka to inwestycje na kredyt zachodni i wzrost stopy życiowej. Lata 80. to kryzys zadłużenia, reglamentacja i spadek produkcji.
+## Gospodarka planowa
+Środki produkcji znacjonalizowano, wprowadzono monopol państwa w handlu zagranicznym, a ceny ustalano decyzją administracyjną. O tym, co i ile wyprodukować, rozstrzygał plan. Plan sześcioletni 1950–1955, przygotowany przez zespół Hilarego Minca, zakładał wzrost produkcji przemysłowej o 85–95 procent; jego symbolem była Nowa Huta. Ceną był niski poziom życia i zaniedbane budownictwo mieszkaniowe.
 
-## Chroniczny niedobór
-Cechą stałą był niedobór: kolejki, kartki, deficytowe towary i rozdzielnictwo. Wynikał on nie z braku mocy produkcyjnych, lecz z ustalania cen poniżej kosztów i z premiowania wykonania planu ilościowego zamiast dopasowania produkcji do potrzeb.
+## Kartki
+Niedobór był cechą stałą. System kartkowy obowiązywał w latach 1944–1949, 1951–1953 i 1976–1989. Trzeci okres zaczęły w 1976 roku kartki na cukier, w 1981 roku doszło mięso, a w stanie wojennym reglamentacja objęła m.in. czekoladę, alkohol i benzynę – zakres szerszy niż w czasie okupacji. Papier toaletowy bywał dostępny tylko za oddaną makulaturę.
 
-## Reformy, które nie mogły się udać
-Kolejne próby naprawy – w 1956, 1973 i 1982 roku – zakładały większą samodzielność przedsiębiorstw, ale za każdym razem centrum odzyskiwało kontrolę. Rezygnacja z rozdzielnictwa oznaczałaby bowiem rezygnację z władzy nad gospodarką, a tej żadna ekipa nie była gotowa oddać.`,
-    trivia: ['Ceny ustalało państwo, a nie rynek.', 'Braki towarów były trwałym elementem systemu, nie wyjątkiem.'],
+## Dług Gierka
+Gomułka niechętnie zaciągał kredyty – w 1970 roku dług wobec Zachodu wynosił 1,1 miliarda dolarów. Za Gierka wzrósł do 24,1 miliarda w 1980 roku; tylko około 20 procent kredytów poszło na inwestycje. W 1981 roku PRL wstrzymała spłaty, a do końca 1989 roku dług urósł do 42,3 miliarda dolarów. W latach 1979–1989 dochód narodowy praktycznie nie wzrósł.
+
+## Koniec
+Reformy z 1956, 1973 i 1982 roku za każdym razem kończyły się powrotem centrum do kontroli. Dopiero ustawa Wilczka z 23 grudnia 1988 roku, działająca na zasadzie „co nie jest zakazane, jest dozwolone”, otworzyła drogę prywatnej przedsiębiorczości, a plan Balcerowicza w 1990 roku zlikwidował gospodarkę planową.`,
+    trivia: [
+      'Plan trzyletni 1947–1949 był jedynym planem gospodarczym PRL, który udało się w pełni zrealizować.',
+      'W szczycie reglamentacji papier toaletowy można było dostać za oddaną makulaturę: rolkę za kilogram.',
+      'Liczba ludności sprzed wojny – 34,8 miliona – została odtworzona dopiero w 1978 roku.',
+    ],
     resources: [
       {
         id: 'gospodarka-prl-pkf',
@@ -1648,31 +1655,31 @@ Krzyż stawiany pod kopalnią był wielokrotnie usuwany przez milicję i odtwarz
     tags: ['represje', 'więzienia', 'tortury', 'UB', 'wyroki', 'egzekucje', 'wyklęci'],
     yearStart: 1944,
     yearEnd: 1989,
-    summary: 'Represje polityczne w PRL – system prześladowań obywateli przez aparat bezpieczeństwa, prokuraturę i sądy. W różnych formach trwały przez cały okres istnienia PRL, z największym natężeniem w latach 1944–1956.',
+    summary: 'Represje polityczne w PRL – od masowego terroru lat 1944–1956, z tysiącami wyroków śmierci, po inwigilację, więzienia i internowania w latach późniejszych.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mokot%C3%B3w_Prison_%283%29.jpg?width=800',
     imageCaption: 'Więzienie przy Rakowieckiej w Warszawie, gdzie wykonywano wyroki śmierci na żołnierzach podziemia (fot. współczesna)',
-    content: `System represji politycznych w PRL przechodził przez kilka faz, choć nigdy całkowicie nie ustał.
+    content: `## Faza stalinowska
+Najkrwawszy okres przypadł na lata 1944–1956. Represje dotykały żołnierzy podziemia niepodległościowego, działaczy PSL, duchownych, chłopów opornych wobec kolektywizacji i ludzi oskarżanych o szpiegostwo. Stosowano tortury w śledztwie, sfingowane procesy i przymusowe zeznania.
 
-**Faza stalinowska (1944–1956):**
-Najkrwawszy okres PRL. Masowe aresztowania żołnierzy AK, PSL-owców, duchownych, "kułaków":
-- Szacuje się, że przez obozy i więzienia przeszło **ok. 300 000 osób**
-- Wykonano co najmniej **6 000 wyroków śmierci** (dane IPN)
-- Ofiary tortur, sfabrykowanych procesów i przymusowych zeznań
-- Bestialskie mordy na żołnierzach "wyklętych"
+## Wyroki śmierci
+Kara śmierci była w tym okresie stosowana masowo. W stu więzieniach stracono blisko trzy i pół tysiąca osób, w większości przeciwników politycznych. Same wojskowe sądy rejonowe orzekły około 3500 wyroków śmierci, z których wykonano ponad 1300. Ofiarami mordów sądowych byli m.in. gen. August Emil Fieldorf i rotmistrz Witold Pilecki.
 
-**Żołnierze wyklęci:**
-Partyzanci AK i innych organizacji niepodległościowych, którzy kontynuowali walkę po 1945 roku. Ostatni z nich – Józef Franczak "Lalek" – poległ w 1963 roku.
+## Obozy i potajemne groby
+Od 1945 roku działały centralne obozy pracy, m.in. w Jaworznie, na terenie dawnego podobozu Auschwitz. Ciała straconych w więzieniu mokotowskim grzebano potajemnie – od 1948 roku na tzw. Łączce przy Cmentarzu Wojskowym na Powązkach, gdzie urządzono potem śmietnik. Do dziś trwa identyfikacja szczątków.
 
-**Faza "miękkiego terroru" (1956–1989):**
-Po 1956 roku zrezygnowano z masowych egzekucji, ale represje trwały:
-- Więzienia dla działaczy opozycji (KOR, Solidarność, ROPCiO)
-- Inwigilacja, podsłuchy, nękanie psychiczne
-- Pobicia i morderstwa (ks. Popiełuszko, operacje "likwidacyjne" SB)
-- Internowanie w stanie wojennym (ok. 10 000 osób)
+## Ostatni partyzanci
+Ostatni ukrywający się żołnierz podziemia, Józef Franczak „Lalek”, zginął w obławie ZOMO i SB 21 października 1963 roku.
 
-**Procesy rehabilitacji:**
-Po 1989 roku IPN wszczął setki śledztw w sprawie zbrodni komunistycznych. Większość sprawców uniknęła kary z powodu przedawnienia lub śmierci.`,
-    trivia: ['Skala represji zmieniała się – od terroru stalinowskiego po inwigilację lat 80.', 'Narzędziem była nie tylko kara, ale i zwolnienie z pracy czy odmowa paszportu.'],
+## Po 1956 roku
+Zrezygnowano z masowego terroru, ale represje trwały: więzienia dla opozycjonistów, inwigilacja, podsłuchy, zwolnienia z pracy, odmowy paszportu. W latach 1956–1988 wykonano 321 wyroków śmierci, głównie w sprawach kryminalnych, ale też w aferze mięsnej w 1965 roku. W stanie wojennym internowano 10 131 osób, a w kolejnych latach funkcjonariusze zabili m.in. Grzegorza Przemyka i ks. Jerzego Popiełuszkę. Amnestia z września 1986 roku uwolniła więźniów politycznych.
+
+## Rozliczenia
+Po 1989 roku IPN wszczął setki śledztw w sprawie zbrodni komunistycznych. Większość sprawców uniknęła kary z powodu przedawnienia albo śmierci.`,
+    trivia: [
+      'Wojskowe sądy rejonowe orzekły około 3500 wyroków śmierci, z których wykonano ponad 1300.',
+      'Na „Łączce” na Powązkach potajemnie grzebano straconych, a miejsce zamieniono potem w śmietnik.',
+      'Ostatni ukrywający się żołnierz podziemia, Józef Franczak „Lalek”, zginął w 1963 roku.',
+    ],
     resources: [
       {
         id: 'rep-1',
@@ -8045,20 +8052,24 @@ Wzorem sowieckim SB używała psychiatrii jako narzędzia represji: dysydentów 
     summary: 'Polski teatr w PRL był polem nieustannej gry między cenzurą a artystyczną wolnością. Mimo ograniczeń wydał wybitnych twórców – Jerzego Grotowskiego, Tadeusza Kantora, Konrada Swinarskiego – i stał się przestrzenią zakodowanego oporu wobec systemu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Teatr_Wielki_w_Warszawie_p7_2.jpg?width=800',
     imageCaption: 'Gmach przy placu Teatralnym w Warszawie, siedziba Opery Narodowej i Muzeum Teatralnego',
-    content: `## Instytucja państwowa
-Wszystkie teatry w PRL były państwowe: obsadę dyrektorską zatwierdzała partia, repertuar przechodził przez cenzurę, a finansowanie pochodziło z budżetu. Zapewniało to stabilność zespołów i etaty, ale i pełną zależność.
+    content: `## Odbudowa
+Teatry odradzały się, gdy tylko odchodzili Niemcy: już w sierpniu 1944 roku w Lublinie Teatr Zespołu Aktorskiego wystawił „Moralność pani Dulskiej”. Do końca 1946 roku działało czterdzieści teatrów dramatycznych, pięć scen operowych i dwadzieścia osiem teatrów dla dzieci i młodzieży, a w 1946 roku powstała Państwowa Wyższa Szkoła Teatralna. Wszystkie teatry były państwowe – dyrekcje zatwierdzała partia, repertuar przechodził przez cenzurę.
+
+## Socrealizm
+W czerwcu 1949 roku na naradzie w Oborach proklamowano w teatrze realizm socjalistyczny. Wystawiano „produkcyjniaki” i sztuki z krajów socjalistycznych; w latach 1950–1954 na polskich scenach pokazano tylko sześć współczesnych sztuk zachodnich. Podejrzane były nawet „Dziady” i dramaty Słowackiego. Ludzie teatru łagodzili klasykę – w „Balladynie” z 1953 roku bohaterka zamiast od pioruna umierała na atak serca.
 
 ## Wolność w klasyce
-Teatr wypracował metodę mówienia przez inscenizację: sztuka klasyczna, zatwierdzona bez zastrzeżeń, mogła w konkretnym ustawieniu brzmieć jak komentarz do współczesności. Publiczność czytała te sygnały natychmiast, a cenzor miał przed sobą tekst Mickiewicza albo Szekspira.
+Po 1956 roku teatr wypracował metodę mówienia przez inscenizację: klasyka w konkretnym ustawieniu brzmiała jak komentarz do współczesności. Najgłośniejszy był przypadek „Dziadów” Kazimierza Dejmka, zdjętych z afisza w 1968 roku – co uruchomiło protesty marcowe. Konrad Swinarski, asystent Brechta w Berliner Ensemble, inscenizacjami klasyki w krakowskim Starym Teatrze zyskał miano jednego z najwybitniejszych reżyserów.
 
-## Dziady
-Najgłośniejszym przypadkiem było zdjęcie „Dziadów” Kazimierza Dejmka w 1968 roku, po owacyjnych reakcjach widowni na fragmenty antyrosyjskie. Decyzja ta uruchomiła protesty studenckie i kryzys marcowy.
+## Awangarda światowa
+Jerzy Grotowski z Ludwikiem Flaszenem prowadził od 1959 roku w Opolu Teatr 13 Rzędów, od 1965 roku jako Teatr Laboratorium we Wrocławiu; jego „teatr ubogi” zmienił myślenie o aktorstwie na całym świecie. Tadeusz Kantor założył w 1955 roku w Krakowie Cricot 2; „Umarłą klasę” z 1975 roku „Newsweek” uznał za najlepszy spektakl świata.
 
-## Poza sceną główną
-Obok teatrów repertuarowych działały teatry studenckie i alternatywne, a w latach 80. – po wprowadzeniu stanu wojennego i bojkocie telewizji przez aktorów – przedstawienia odbywały się także w kościołach. Teatr pozostał przez cały okres PRL jedną z najżywszych dziedzin kultury.`,
+## Stan wojenny
+Po 13 grudnia 1981 roku większość aktorów zbojkotowała media państwowe, a przedstawienia odbywały się także w kościołach. Teatr pozostał jedną z najżywszych dziedzin kultury PRL.`,
     trivia: [
-      'Klasyka bywała bezpieczniejsza niż współczesność – cenzor czytał tekst, a publiczność inscenizację.',
-      'W stanie wojennym, gdy aktorzy bojkotowali telewizję, przedstawienia odbywały się w kościołach.',
+      'W socrealistycznej „Balladynie” z 1953 roku bohaterka zamiast od pioruna umierała na atak serca.',
+      '„Umarłą klasę” Tadeusza Kantora „Newsweek” uznał w 1976 roku za najlepszy spektakl teatralny świata.',
+      'W latach 1950–1954 na polskich scenach wystawiono tylko sześć współczesnych sztuk zachodnich.',
     ],
     resources: [
       {
@@ -21332,21 +21343,28 @@ W Ursusie działała silna Solidarność. 14–15 grudnia 1981 roku zakład stra
     tags: ['represje', 'media', 'propaganda', 'cenzura'],
     yearStart: 1952,
     yearEnd: 1988,
-    summary: 'Prowadzona przez władze PRL akcja celowego zakłócania audycji Radia Wolna Europa i innych rozgłośni zachodnich, by odciąć Polaków od niezależnych informacji.',
+    summary: 'Celowe zakłócanie audycji Radia Wolna Europa, BBC i innych rozgłośni zachodnich, prowadzone w PRL od początku lat 50. do 1988 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Nowak-Jezioranski_RFE.jpg?width=800',
     imageCaption: 'Jan Nowak-Jeziorański w studiu Radia Wolna Europa',
     content: `## Wojna w eterze
-Audycje Radia Wolna Europa, BBC i Głosu Ameryki docierały do Polski na falach krótkich. Państwo odpowiadało zagłuszaniem: nadawaniem na tych samych częstotliwościach szumu i tonów uniemożliwiających odbiór.
+Audycje Radia Wolna Europa, BBC, Głosu Ameryki, Radia France Internationale i RIAS docierały do Polski na falach średnich i krótkich. Zagłuszanie na dużą skalę zaczął ZSRR w lutym 1948 roku, a dołączyły do niego inne państwa bloku, w tym PRL. Polska sekcja Wolnej Europy nadawała od 3 maja 1952 roku i była najczęściej słuchanym – i systematycznie zagłuszanym – radiem zagranicznym.
 
-## Infrastruktura
-Do zagłuszania utrzymywano sieć specjalnych stacji nadawczych, rozmieszczonych tak, by pokryć duże miasta. Było to przedsięwzięcie kosztowne – pochłaniało energię, sprzęt i etaty na skalę porównywalną z utrzymaniem rozgłośni, które zagłuszano.
+## Szmitówki
+Fale średnie zagłuszano z centrum radiowego w Woli Rasztowskiej. Do 1956 roku fale krótkie zakłócano lokalnie: w miastach stały zagłuszarki nadające na częstotliwościach zagłuszanej stacji. Skonstruował je inżynier Szmidt, dlatego nazywano je szmitówkami. Działały skutecznie, ale tylko w dużych miastach.
 
-## Jak sobie radzono
-Zagłuszanie było skuteczniejsze w miastach niż na wsi, a odbiór poprawiał się nocą i przy zmianie częstotliwości, co rozgłośnie wykorzystywały, nadając ten sam program na kilku falach naraz. Słuchacze przestrajali odbiorniki, budowali anteny i wymieniali się wiedzą, gdzie i kiedy słychać najlepiej.
+## Rok 1956
+W Poznańskim Czerwcu demonstranci w 20 minut zniszczyli zagłuszarkę, wołając „Chcemy słuchać zagranicy bez zagłuszeń!”. 18 listopada 1956 roku protestujący w Bydgoszczy rozbili zagłuszarkę na Wzgórzu Dąbrowskiego.
 
-## Koniec
-Zagłuszanie przerywano i wznawiano zależnie od koniunktury politycznej, a definitywnie zaprzestano go w 1988 roku, u schyłku systemu. Sam fakt, że przez cztery dekady utrzymywano tę infrastrukturę, mówi więcej o sile słowa niezależnego niż niejeden dokument.`,
-    trivia: ['Do zagłuszania rozgłośni zachodnich budowano specjalne stacje nadawcze.', 'Zagłuszania zaprzestano dopiero pod koniec lat 80.'],
+## Zagłuszanie z zagranicy
+Od listopada 1956 roku zmieniono metodę: wykorzystywano falę odbitą i nadajniki w ZSRR i innych krajach bloku – w Bułgarii, na Węgrzech, w Rumunii i Czechosłowacji, które stopniowo z tego rezygnowały w latach 1962–1964. Ten sposób był mniej skuteczny i łatwiejszy do obejścia. Słuchacze przestrajali odbiorniki, budowali anteny i słuchali nocą, gdy odbiór był lepszy.
+
+## Koszt i koniec
+Według szacunków BBC samo zagłuszanie w ZSRR kosztowało ponad 900 milionów dolarów rocznie. Wieczorem 29 listopada 1988 roku ZSRR zaprzestał zagłuszania; do końca roku wyłączono ponad 1600 nadajników w 120 centrach. Zagłuszanie programów dla Europy Wschodniej zakończyło się w 1988 roku.`,
+    trivia: [
+      'Lokalne zagłuszarki nazywano „szmitówkami” – od nazwiska konstruktora, inżyniera Szmidta.',
+      'W Poznańskim Czerwcu 1956 roku demonstranci w 20 minut zdemontowali zagłuszarkę.',
+      'Według szacunków BBC zagłuszanie kosztowało sam ZSRR ponad 900 milionów dolarów rocznie.',
+    ],
     resources: [
       {
         id: 'zr-1',
@@ -36250,7 +36268,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1946, event: 'Pierwsze dożynki centralne w Opolu', category: 'społeczeństwo', entryId: 'dozynki' },
   { year: 1977, event: 'Amnestia uwalnia członków KOR i uwięzionych robotników; komitet przekształca się w KSS „KOR”', category: 'opozycja', entryId: 'kor' },
   { year: 1975, event: 'List 59 złożony w Kancelarii Sejmu (5 grudnia)', category: 'opozycja', entryId: 'nowelizacja-konstytucji-1976' },
-  { year: 1952, event: 'Władze rozbudowują system zagłuszania Radia Wolna Europa', category: 'represje', entryId: 'zagluszanie-radia' },
+  { year: 1952, event: 'Rusza polska sekcja Radia Wolna Europa (3 maja) – władze odpowiadają zagłuszaniem', category: 'represje', entryId: 'zagluszanie-radia' },
   { year: 1971, event: 'Polska Telewizja rozpoczyna regularne nadawanie w kolorze', category: 'społeczeństwo', entryId: 'telewizja-kolorowa' },
   { year: 1978, event: 'Marek Kotański zakłada pierwszy ośrodek Monaru – walka z narkomanią', category: 'społeczeństwo', entryId: 'kotanski-marek' },
   { year: 1980, event: '30 sierpnia – porozumienie szczecińskie kończy strajk w Stoczni Szczecińskiej', category: 'opozycja', entryId: 'stocznia-szczecinska' },
@@ -36727,4 +36745,5 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1943, event: '12–13 października – bitwa pod Lenino, pierwsza walka 1 Dywizji im. Kościuszki', category: 'wojsko', entryId: 'lwp' },
   { year: 1982, event: 'Rusza budowa Elektrowni Jądrowej Żarnowiec', category: 'gospodarka', entryId: 'energetyka-prl' },
   { year: 1980, event: 'Jacek Wszoła ustanawia rekord świata w skoku wzwyż – 2,35 m', category: 'społeczeństwo', entryId: 'jacek-wszola' },
+  { year: 1963, event: '21 października – w obławie ginie Józef Franczak „Lalek”, ostatni żołnierz podziemia', category: 'represje', entryId: 'represje-polityczne' },
 ];
