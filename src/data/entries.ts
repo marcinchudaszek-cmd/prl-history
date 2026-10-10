@@ -1863,20 +1863,28 @@ Dla setek tysięcy mężczyzn armia oznaczała dwuletnią służbę zasadniczą.
     summary: 'Żołnierze Wyklęci (Niezłomni) to żołnierze polskiego podziemia niepodległościowego kontynuujący zbrojną walkę z sowiecką dominacją po 1944 r. Przez szeregi podziemia przeszło ok. 120–180 tys. ludzi; ostatni partyzant zginął w 1963 r. Tysiące zostały zamordowane przez UB i NKWD lub stracone po sfingowanych procesach.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/%C5%BBo%C5%82nierze_V_Wile%C5%84skiej_Brygady_AK.jpg?width=800',
     imageCaption: 'Żołnierze V Wileńskiej Brygady AK, 1945',
-    content: `**Geneza i struktury** — Po wkroczeniu Armii Czerwonej w 1944 r. część żołnierzy AK, NSZ i BCh odmówiła rozbrojenia, słusznie oceniając, że sowiecka dominacja przekreśla niepodległość Polski. Główne struktury: Armia Krajowa (do 1945), Delegatura Sił Zbrojnych na Kraj (1945), Wolność i Niezawisłość — **WiN** (1945–1952), Narodowe Siły Zbrojne oraz lokalne oddziały partyzanckie.
+    content: `## Geneza
+Po wkroczeniu Armii Czerwonej w 1944 roku część żołnierzy Armii Krajowej, Narodowych Sił Zbrojnych i innych formacji podziemia nie złożyła broni, uznając, że sowiecka dominacja oznacza nową okupację. Po rozwiązaniu AK powstała organizacja „Nie”, rozwiązana 7 maja 1945 roku, następnie Delegatura Sił Zbrojnych na Kraj, a od września 1945 roku Zrzeszenie „Wolność i Niezawisłość”. Działały też Narodowe Zjednoczenie Wojskowe i liczne oddziały lokalne.
 
-**Skala zjawiska** — Historycy IPN szacują 120–180 tys. osób przez całe podziemie. Szczyt aktywności: 1945–1947. Tylko w 1946 r. przeprowadzono ok. 8 tys. „akcji zbrojnych". Aparat komunistyczny odpowiedział masowymi pacyfikacjami wsi, aresztowaniami rodzin i torturami.
+## Skala
+Liczbę członków wszystkich organizacji i grup konspiracyjnych szacuje się na 120–180 tysięcy osób. Władza skierowała do walki z podziemiem około 150–180 tysięcy żołnierzy i milicjantów, a z ORMO – ponad 250 tysięcy ludzi. W 1945 roku w ramach amnestii ujawniło się około 50 tysięcy żołnierzy podziemia, a w 1947 roku – 76 774 osoby; zebrane wtedy informacje posłużyły potem do represji.
 
-**Rotmistrz Witold Pilecki** — Dobrowolnie trafił do Auschwitz (1940), skąd wysyłał raporty o Holocauście. Uciekł w 1943 r., walczył w Powstaniu Warszawskim. Aresztowany przez UB w 1947 r., skazany na śmierć i rozstrzelany **25 maja 1948 r.**
+## Represje
+Według prof. Jana Żaryna ponad 20 tysięcy żołnierzy podziemia zginęło w walce lub zostało zamordowanych w więzieniach. Na przełomie lat 40. i 50. w więzieniach i obozach przetrzymywano ponad 250 tysięcy ludzi. Ofiarami mordów sądowych byli m.in. rotmistrz Witold Pilecki, rozstrzelany 25 maja 1948 roku, mjr Zygmunt Szendzielarz „Łupaszka”, stracony w 1951 roku, i gen. August Emil Fieldorf „Nil”, stracony 24 lutego 1953 roku.
 
-**Gen. August Emil Fieldorf „Nil"** — Zastępca Komendanta Głównego AK, organizator Kedywu. Skazany na śmierć w sfabrykowanym procesie, stracony **24 lutego 1953 r.**
+## Ostatni partyzant
+Józef Franczak „Lalek” z oddziału kpt. Zdzisława Brońskiego „Uskoka” ukrywał się na Lubelszczyźnie do 21 października 1963 roku, kiedy zginął w obławie w Majdanie Kozic Górnych.
 
-**Mjr Zygmunt Szendzielarz „Łupaszka"** — Dowódca 5. Brygady Wileńskiej AK. Aresztowany 1948, rozstrzelany **8 lutego 1951 r.**
+## Ciemne karty
+Niektóre oddziały podziemia dopuszczały się zbrodni na ludności cywilnej, m.in. na Podlasiu, gdzie IPN uznał część z nich za noszące znamiona ludobójstwa. Ocena wyklętych pozostaje przedmiotem sporów historyków.
 
-**Józef Franczak „Lalek"** — Ostatni partyzant Wyklętych. Ukrywał się na Lubelszczyźnie od 1944 r. Zginął w obławie **21 października 1963 r.** — niemal 18 lat po zakończeniu II wojny światowej.
-
-**Represje** — Szacuje się, że w walkach i z wyroków śmierci zginęło ok. 8500 żołnierzy podziemia. Wielu więziono przez dziesięciolecia. Ustawa z 1991 r. zrehabilitowała represjonowanych. Od 2011 r. **1 marca** obchodzony jest Narodowy Dzień Pamięci Żołnierzy Wyklętych.`,
-    trivia: ['Ostatni żołnierz podziemia, Józef Franczak „Lalek”, zginął w 1963 roku.', 'Określenie „żołnierze wyklęci” upowszechniło się dopiero po 1989 roku.'],
+## Pamięć
+Propaganda PRL nazywała ich „bandami reakcyjnego podziemia”. Określenie „żołnierze wyklęci” pojawiło się w 1993 roku, w tytule wystawy na Uniwersytecie Warszawskim. Od 2011 roku 1 marca obchodzony jest Narodowy Dzień Pamięci „Żołnierzy Wyklętych”.`,
+    trivia: [
+      'Określenie „żołnierze wyklęci” pojawiło się w 1993 roku, w tytule wystawy na Uniwersytecie Warszawskim.',
+      'W amnestii z 1947 roku ujawniło się 76 774 osoby – zebrane dane posłużyły potem do represji.',
+      'Ostatni partyzant, Józef Franczak „Lalek”, zginął w obławie 21 października 1963 roku.',
+    ],
     resources: [
       {
         id: 'zw-ipn1',
@@ -2048,25 +2056,25 @@ Skrót wszedł do polszczyzny jako synonim przemocy państwa, a rozwinięcia w r
     summary: 'Manifest PKWN ogłoszony 22 lipca 1944 r. był aktem założycielskim komunistycznej władzy w Polsce. Proklamował reformę rolną, nacjonalizację przemysłu, nowe granice oparte na linii Curzona i Odrze–Nysie, odrzucał legalny rząd w Londynie i ustanawiał PKWN jako tymczasowy organ władzy podległy Stalinowi.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/PKWN_Manifest.jpg?width=800',
     imageCaption: 'Druk Manifestu PKWN z 22 lipca 1944 roku',
-    content: `**Geneza i kontekst** — Latem 1944 r. Armia Czerwona wkraczała na terytorium II Rzeczypospolitej. Stalin potrzebował polskiego organu władzy legitymizującego sowiecką dominację. 21–22 lipca 1944 r. w Moskwie sformułowano tekst Manifestu; podległe ZSRS środowiska komunistyczne ogłosiły go 22 lipca w Chełmie. Lublin był wówczas jeszcze pod kontrolą Niemców — data i miejsce były manipulacją propagandową.
+    content: `## Moskwa, nie Chełm
+Manifest Polskiego Komitetu Wyzwolenia Narodowego ogłoszono z datą 22 lipca 1944 roku i miejscem „Chełm”. W rzeczywistości tekst zatwierdził Józef Stalin w Moskwie 20 lipca, a 22 lipca odczytało go Radio Moskwa; tam też wydrukowano pierwszą wersję. Stalin zdecydował, że siedzibą PKWN będzie Lublin, i nakazał Armii Czerwonej jego zajęcie – od 1 sierpnia 1944 roku komitet działał w Lublinie.
 
-**Treść Manifestu** — Manifest proklamował:
-- odrzucenie konstytucji z 1935 r. jako „faszystowskiej" i przywrócenie konstytucji marcowej z 1921 r.
-- Krajową Radę Narodową jako tymczasowy organ ustawodawczy
-- **reformę rolną** — parcelację majątków powyżej 50 ha bez odszkodowania
-- **nacjonalizację** kluczowych gałęzi przemysłu, banków i kolei
-- wschodnie granice oparte na linii Curzona (oddanie Lwowa i Kresów ZSRS)
-- zachodnią granicę na Odrze i Nysie Łużyckiej (Ziemie Odzyskane)
-- pełną współpracę wojskową z ZSRS
+## Kto podpisał
+PKWN, formalnie powołany przez Krajową Radę Narodową, był faktycznie tworem stalinowskim. Manifest podpisali członkowie komitetu z przewodniczącym Edwardem Osóbką-Morawskim i wiceprzewodniczącymi Wandą Wasilewską i Andrzejem Witosem na czele.
 
-**PKWN i skład** — Polskim Komitetem Wyzwolenia Narodowego kierował Edward Osóbka-Morawski (PPS), a faktyczną władzę sprawowali komuniści: Bolesław Bierut, Jakub Berman, Hilary Minc, Stanisław Radkiewicz.
+## Treść
+Manifest uznawał KRN za jedyne legalne źródło władzy, a rząd RP na uchodźstwie nazywał „władzą samozwańczą”. Konstytucję kwietniową z 1935 roku uznano za bezprawną i przywrócono konstytucję marcową z 1921 roku do czasu wyboru Sejmu Ustawodawczego. Zapowiadano powrót Pomorza i Śląska Opolskiego, walkę o „polskie słupy graniczne nad Odrą” oraz granicę wschodnią według zasady: ziemie ukraińskie, białoruskie i litewskie – republikom radzieckim.
 
-**Reforma rolna** — Dekretem PKWN z 6 września 1944 r. rozparcelowano ok. 6 mln ha ziemi wśród ok. 1 mln rodzin chłopskich — tworząc tym samym bazę społeczną nowej władzy i różnicując się od późniejszej przymusowej kolektywizacji.
+## Obietnice
+Manifest zapowiadał reformę rolną: majątki powyżej 50 hektarów, a na ziemiach poniemieckich 100 hektarów, miały być przejęte bez odszkodowania i rozdane chłopom jako własność indywidualna. Obiecywał też zniesienie kontyngentów, płacę minimalną, bezpłatne szkolnictwo i swobody obywatelskie – z wyłączeniem „organizacji faszystowskich”, którym zapowiadano tępienie „z całą surowością prawa”.
 
-**22 lipca — święto PRL** — Data stała się głównym świętem państwowym PRL — „Narodowym Świętem Odrodzenia Polski" — obchodzonym defiladami wojskowymi do 1989 r.
-
-**Ocena historyczna** — Manifest był fundamentem prawnym PRL-owskiego porządku ustrojowego — aktem narzuconym Polakom bez żadnych demokratycznych procedur, zatwierdzonym przez Stalina w Moskwie.`,
-    trivia: ['Formalnie ogłoszono go w Chełmie, w rzeczywistości powstał w Moskwie.', '22 lipca stało się najważniejszym świętem państwowym PRL.'],
+## Święto 22 lipca
+Data manifestu stała się najważniejszym świętem państwowym PRL – Narodowym Świętem Odrodzenia Polski, obchodzonym z defiladami, oddawaniem do użytku nowych inwestycji i akademiami. Zniesiono je w 1990 roku.`,
+    trivia: [
+      'Manifest datowany w Chełmie odczytało 22 lipca 1944 roku Radio Moskwa.',
+      'Pierwszą drukowaną wersję manifestu wydrukowano w Moskwie.',
+      'Zamiast konstytucji kwietniowej manifest przywracał konstytucję marcową z 1921 roku.',
+    ],
     resources: [
       {
         id: 'manifest-pkwn-zrodlo',
@@ -2123,25 +2131,28 @@ Skrót wszedł do polszczyzny jako synonim przemocy państwa, a rozwinięcia w r
     tags: ['rolnictwo', 'spółdzielnie', 'chłopi', 'stalinizm', 'wieś', 'opór', 'dekolektywizacja'],
     yearStart: 1948,
     yearEnd: 1956,
-    summary: 'Kolektywizacja rolnictwa w Polsce (1948–1956) była stalinowską próbą likwidacji indywidualnych gospodarstw chłopskich i zastąpienia ich spółdzielniami produkcyjnymi. Przeprowadzana metodami przymusu administracyjnego, spotkała się z masowym oporem i zakończyła praktycznym niepowodzeniem — po Październiku 1956 r. rozwiązano ok. 80% spółdzielni.',
+    summary: 'Kolektywizacja rolnictwa w Polsce (1948–1956) – stalinowska próba zastąpienia gospodarstw chłopskich spółdzielniami produkcyjnymi; mimo przymusu objęła niespełna dziesiątą część ziemi i załamała się po Październiku 1956 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/M%C5%82odzie%C5%BCy_-_Naprz%C3%B3d_do_walki_o_szcz%C4%99%C5%9Bliw%C4%85_socjalistyczn%C4%85_wie%C5%9B_polsk%C4%85.jpg?width=800',
     imageCaption: 'Plakat propagandowy Młodzieży. Naprzód do walki o szczęśliwą socjalistyczną wieś polską, proj. W. Chmielewski, 1949',
-    content: `**Decyzja i ideologiczne podstawy** — Decyzja o kolektywizacji zapadła w 1948 r. wraz z „przełomem sierpniowym" w PPR/PZPR. Stalin osobiście nakazał Bierutowi przystąpienie do uspółdzielczania wsi jako warunku „budowy socjalizmu". Wzorem były sowieckie kołchozy i czechosłowacka kolektywizacja od 1949 r.
+    content: `## Decyzja
+Formalnie decyzję o kolektywizacji podjął Komitet Centralny PPR we wrześniu 1948 roku, w ślad za rezolucją Kominformu z czerwca 1948 roku nakazującą kolektywizację we wszystkich państwach komunistycznych. Władze zakładały, że rolnictwo indywidualne musi być mniej wydajne niż spółdzielcze – choć chłopi dopiero co dostali ziemię z reformy rolnej.
 
-**Przebieg kampanii** — Do 1950 r. utworzono ok. 2200 spółdzielni, do 1955 r. — ok. 9700, skupiających niespełna 200 tys. gospodarstw (ok. 9% użytków rolnych). W ZSRS skołektywizowano ponad 90% ziemi; Polska nigdy nie przekroczyła 10%.
+## Spółdzielnie
+Mimo przymusu do 1951 roku powstało tylko około 2200 spółdzielni produkcyjnych, zajmujących 0,8 procent gruntów rolnych. W 1953 roku było ich 7800, a w 1955 roku – 9800, z około 205 tysiącami członków i 9,2 procent ziemi. Typowa spółdzielnia liczyła około 20 członków i 80 hektarów, a z hektara zbierała mniej niż przeciętne gospodarstwo indywidualne.
 
-**Metody przymusu:**
-- **Obowiązkowe dostawy** — chłopi zobowiązani do oddawania po zaniżonych cenach określonych ilości zboża, mięsa i mleba. Niezrealizowanie norm groziło karami finansowymi i kryminalnymi
-- **Podatki karne** — rolnicy indywidualni obciążani wielokrotnie wyższymi podatkami niż spółdzielnie
-- **UB i aktyw partyjny** — nagonki zebrań wiejskich, zastraszanie rodzin, aresztowania pod pretekstem „kułactwa" lub „sabotażu"
-- Propaganda gloryfikująca spółdzielcze rolnictwo
+## Przymus
+Od 1952 roku zaostrzono represje wobec przeciwników kolektywizacji: rewizje, niszczenie dobytku, domiary podatkowe i aresztowania. Za niewywiązanie się z obowiązkowych dostaw w latach 1948–1955 co roku karano grzywną około 1,5 miliona chłopów, a nierzadko także więzieniem lub obozem pracy. Propaganda piętnowała „kułaków”, a w 1950 roku ogłosiła, że stonkę ziemniaczaną zrzucają z samolotów Amerykanie.
 
-**Opór chłopów** — Polscy chłopi ukrywali zboże i inwentarz, dokonywali fikcyjnych podziałów ziemi, emigrowali do miast. Zanotowano setki podpaleń dokumentacji spółdzielczej. UB szacowało tysiące „aktów wrogich wobec spółdzielni" rocznie.
+## Skutki
+Przymus i przerzucenie środków na zbrojenia w czasie wojny koreańskiej doprowadziły do spadku produkcji rolnej i braków w zaopatrzeniu miast. Partia obwiniała wykonawców i potępiała ich metody na wiecach, m.in. w Gryficach w 1951 roku.
 
-**Katastrofa gospodarcza** — Plony w spółdzielniach były o 20–30% niższe niż w gospodarstwach indywidualnych. Racjonowanie chleba utrzymano do 1953 r. Hodowla trzody chlewnej drastycznie spadła, powodując wieloletnie niedobory mięsa.
-
-**Dekolektywizacja po 1956** — Po Październiku 1956 r. Gomułka zrezygnował z przymusowej kolektywizacji. W ciągu kilku miesięcy rozpadło się ok. 80% spółdzielni. Polska stała się jedynym krajem bloku wschodniego, w którym przez cały PRL dominowało prywatne rolnictwo indywidualne.`,
-    trivia: ['Po 1956 roku spółdzielnie masowo się rozwiązały.', 'Polska pozostała jedynym krajem bloku wschodniego z przewagą prywatnych gospodarstw.'],
+## Koniec po Październiku
+Po 1956 roku Gomułka uznał prywatne rolnictwo za element „polskiej drogi do socjalizmu”. Gdy presja zelżała, spółdzielnie masowo się rozwiązywały – zostało ich około 1800. Polska była jedynym krajem bloku sowieckiego, w którym kolektywizacji nie przeprowadzono.`,
+    trivia: [
+      'W 1950 roku propaganda twierdziła, że stonkę ziemniaczaną zrzucają nad Polską amerykańskie samoloty.',
+      'Za niewywiązanie się z dostaw obowiązkowych co roku karano grzywną około 1,5 miliona chłopów.',
+      'Na szczycie kampanii, w 1955 roku, spółdzielnie produkcyjne zajmowały zaledwie 9,2 procent gruntów rolnych.',
+    ],
     resources: [
       {
         id: 'kolektywizacja-yt',
@@ -4379,23 +4390,28 @@ W PRL Mikołajczyk był postacią przemilczaną lub demonizowaną. Oficjalna his
     summary: 'Życie codzienne obywateli PRL naznaczone było stałym niedoborem towarów, wszechobecnymi kolejkami i systemem kartkowym. Zaradność, kombinowanie i szara strefa stały się normą przetrwania. Jednocześnie socjalizm zapewniał pewne formy stabilizacji – tanie mieszkania, bezpłatną opiekę zdrowotną i edukację.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bon_baltonowski_20c_a.jpg?width=800',
     imageCaption: 'Bon Baltony – namiastka waluty wymienialnej w codziennym obiegu',
-    content: `Codzienność w PRL to przede wszystkim walka o dobra podstawowe. W sklepach brakowało mięsa, kawy, papieru toaletowego, butów, pralki, telewizora. Na wszystko czekało się w kolejce lub przez znajomości.
+    content: `## Gospodarka niedoboru
+Codzienność w PRL to przede wszystkim zdobywanie towarów. W sklepach brakowało mięsa, kawy, papieru toaletowego, butów i sprzętu domowego, a na samochód, meble czy mieszkanie czekało się latami. Słowo „kupić” często zastępowano słowem „zdobyć” albo „załatwić”.
 
-**System kartkowy:**
-Kartki na mięso wprowadzono w 1952 roku i kilkakrotnie przywracano. Szczyt systemu kartkowego przypadł na lata 1981–1989, gdy reglamentowano: mięso, wędliny, masło, cukier, mąkę, ryż, alkohol, benzynę, papierosy. Każdy obywatel miał miesięczny przydział.
+## Kartki
+Zaopatrzenie kartkowe obowiązywało w latach 1944–1948 i 1951–1953. W sierpniu 1976 roku wprowadzono kartki na cukier, a od 1981 roku reglamentacja objęła kolejno mięso, masło, kaszę, ryż, mąkę, olej, mydło, proszki do prania, słodycze, papierosy, alkohol, benzynę i obuwie. Ostatnie kartki – na mięso – obowiązywały do końca lipca 1989 roku.
 
-**Kolejki:**
-Kolejki przed sklepami były codziennością. Wstawano o świcie, by zająć miejsce. Wykształciła się etykieta kolejek – "stanie za kimś", przekazywanie miejsca, listy na kartce. Towar "rzucali" na ladę nieregularnie – wieść o dostawie mięsa błyskawicznie skupiała tłum.
+## Kolejki
+Kolejki były częścią krajobrazu. Ustawiano się na wieść o dostawie, zapisywano na listach społecznych, pilnowano miejsca na zmianę z rodziną. Towar „rzucano” nieregularnie, a pusty sklep z octem na półkach stał się jednym z symboli epoki.
 
-**Szara strefa i kombinowanie:**
-Polska rozwinęła rozbudowaną szarą strefę. "Kombinowanie" – zdobywanie towarów drogami nieoficjalnymi – stało się normą moralną, nie wstydem. Znajomości ("dojście") były cenniejsze niż pieniądze. Prezenty dla lekarza, mechanika, sprzedawcy – to był niepisany kod wymiany.
+## Kombinowanie
+Znajomości, czyli „dojścia”, były często cenniejsze niż pieniądze. Rozwinął się czarny rynek – waluty, mięso z nielegalnego uboju, towary przywiezione z zagranicy – a dolar był walutą równoległą, za którą w Peweksie można było kupić niedostępne gdzie indziej towary.
 
-**Mieszkania i bloki:**
-Miliony Polaków mieszkały w wielkich blokach z wielkiej płyty – Żoliborz, Bemowo, Ursynów w Warszawie; Nowa Huta w Krakowie. Małe metraże, cienkie ściany, ale własne – i na własne trzeba było czekać latami. Zapis do spółdzielni i czekanie 10–15 lat na przydział były normą.
+## Mieszkanie
+Miliony rodzin mieszkały w blokach z wielkiej płyty. Na przydział mieszkania spółdzielczego czekało się wiele lat, dlatego kilka pokoleń często dzieliło jedno ciasne M.
 
-**Niepisane korzyści systemu:**
-PRL zapewniał też gwarancje, które po 1989 roku zniknęły – zatrudnienie (bezrobocie było nielegalne), bezpłatne leczenie, bezpłatną edukację, tanie wczasy FWP i kolonie dla dzieci. Świadomość tych elementów kształtuje nostalgię za PRL wśród części starszego pokolenia.`,
-    trivia: ['Codzienność organizowały kolejki, kartki i nieustanne kombinowanie.', 'Wiele spraw załatwiało się „po znajomości”.'],
+## Druga strona
+PRL zapewniał pracę i podstawowe świadczenia: bezpłatną szkołę i studia, opiekę zdrowotną, tanie, choć skromne wczasy zakładowe i kolonie dla dzieci. To one, obok wspomnień młodości, budują dziś nostalgię części starszego pokolenia.`,
+    trivia: [
+      'Ostatnie kartki w PRL – na mięso – obowiązywały do końca lipca 1989 roku.',
+      'Najpierw, w sierpniu 1976 roku, wprowadzono kartki na cukier – mięso doszło dopiero w 1981 roku.',
+      'Wiele spraw załatwiało się „po znajomości” – dojście bywało cenniejsze niż pieniądze.',
+    ],
     resources: [
       {
         id: 'zc-1',
@@ -5700,26 +5716,25 @@ Wczasy pod gruszą, ośrodek nad morzem, wspólna stołówka i zdjęcia z turnus
     summary: 'Przez całe istnienie PRL tysiące obywateli podejmowało ryzykowne próby ucieczki za granicę. Przekraczanie granicy bez zgody władz było przestępstwem zagrożonym więzieniem lub śmiercią. Żelazna kurtyna była fizyczną i prawną barierą oddzielającą Polaków od wolnego świata.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ucieczka%20%C5%BCo%C5%82nierzy%20ze%20stra%C5%BCnicy%20WOP%20w%20Pokrzywnej%2005.jpg?width=800',
     imageCaption: 'Inscenizacja pościgu WOP za żołnierzami, którzy uciekli ze strażnicy w Pokrzywnej w 1951 roku',
-    content: `W PRL wyjazd za granicę wymagał zgody władz i posiadania paszportu. Paszport był własnością państwa – przechowywany w komendzie milicji i wydawany tylko na konkretny wyjazd. Próba wyjazdu bez zgody lub "nielegalne" pozostanie za granicą było przestępstwem.
+    content: `## Paszport w szufladzie milicji
+Wyjazd za granicę wymagał zgody władz. Do października 1956 roku w praktyce można było dostać paszport tylko na wyjazd służbowy, a do wniosku trzeba było dołączyć 12 załączników. W 1938 roku na własną rękę wyjechało turystycznie za granicę około 90 tysięcy Polaków, w 1950 roku – 181 osób.
 
-**Paszport jako narzędzie kontroli:**
-Władze celowo utrudniały wydawanie paszportów – szczególnie działaczom opozycyjnym, którym je konfiskowano lub odmawiano wydania. "Zatrzymanie paszportu" było karą administracyjną stosowaną wobec niepokornych. Bez paszportu obywatel był skazany na pobyt w PRL.
+## Odwilż i wycieczki
+Po 1956 roku powstały biura podróży, ale wyjazd indywidualny wymagał zaproszenia. Paszport odbierało się w komendzie Milicji Obywatelskiej przed wyjazdem i oddawało po powrocie – do 1984 roku. Od 1972 roku do NRD można było wyjechać na pieczątkę w dowodzie osobistym: liczba wyjazdów wzrosła z 200 tysięcy w 1971 roku do 9,5 miliona rok później. Paszporty wieloletnie na wszystkie kraje świata wprowadzono dopiero w grudniu 1988 roku.
 
-**Sposoby ucieczki:**
-- Przekroczenie granicy przez góry (Tatry, Sudety) – nielegalne przekroczenie granicy przez turystów i alpinistów
-- Ucieczka przez morze – próby przedostania się łódką przez Bałtyk, często kończące się śmiercią
-- "Zostanie za granicą" podczas legalnego wyjazdu – najprostsza metoda po 1970 roku, gdy wzrosła liczba wyjazdów turystycznych
-- Dezercja żołnierzy lub ucieczki personelu dyplomatycznego
+## Odmowa paszportu jako kara
+Odmowa wydania paszportu lub jego zatrzymanie było narzędziem nacisku na opozycjonistów, twórców i ludzi „niepewnych”. Z kolei opozycjonistom w stanie wojennym proponowano wyjazd bez prawa powrotu.
 
-**Wojska Ochrony Pogranicza (WOP):**
-WOP pilnowało granicy i miało prawo strzelać do uciekinierów. Szczególnie niebezpieczna była granica z NRD (podwójnie strzeżona), Czechosłowacją i morska.
+## Przez granicę
+Granic pilnowały Wojska Ochrony Pogranicza, które w szczytowym 1953 roku liczyły 33 675 żołnierzy. Nielegalne przekroczenie granicy było przestępstwem. Największą lądową ucieczkę polskich żołnierzy na Zachód podjęło w marcu 1951 roku siedmiu żołnierzy strażnicy WOP w Pokrzywnej z praczką Walerią Kaczor; wszystkich schwytano, a dowodzący nią st. sierż. Jan Kępa został stracony w sierpniu 1951 roku.
 
-**Skala zjawiska:**
-Szacuje się, że od 1945 do 1989 roku kilkaset tysięcy Polaków wyemigrowało nie wracając z legalnych wyjazdów lub uciekając nielegalnie. Masowe fale emigracji wiązały się ze stanem wojennym (1981–1984) – ok. 200 000 osób.
-
-**"Solidarnościowa emigracja":**
-Po 13 grudnia 1981 roku wielu działaczy Solidarności, którzy zdołali wyjechać przed ogłoszeniem stanu wojennego, pozostało na Zachodzie. Tworzyli Biuro Koordynacyjne i prowadzili działalność na rzecz podziemnego związku.`,
-    trivia: ['Uciekano podczas wycieczek zagranicznych, na statkach i przez zieloną granicę.', 'Za nielegalne pozostanie za granicą groziły wyrok i konfiskata mienia.'],
+## Zostać na Zachodzie
+Najczęstszą formą ucieczki było niepowrócenie z legalnego wyjazdu – wycieczki, kontraktu, rejsu czy występu. Groziło to wyrokiem zaocznym i kłopotami dla rodziny w kraju. Po 13 grudnia 1981 roku za granicą pozostało wielu działaczy „Solidarności”, którzy w chwili wprowadzenia stanu wojennego przebywali na Zachodzie.`,
+    trivia: [
+      'W 1950 roku turystycznie za granicę na własną rękę wyjechało z Polski 181 osób.',
+      'Po otwarciu granicy z NRD na dowód osobisty liczba wyjazdów wzrosła z 200 tysięcy w 1971 roku do 9,5 miliona w 1972 roku.',
+      'Do 1984 roku paszport trzeba było oddawać na milicję po każdym powrocie.',
+    ],
     resources: [
       {
         id: 'uciecz-1',
@@ -7727,35 +7742,29 @@ Kwestia TW do dziś dzieli polskie społeczeństwo. Jedni domagają się pełneg
     category: 'represje',
     tags: ['deportacje', 'Sybir', 'ZSRR', 'łagry', 'zsyłki', '1940', '1941', 'Kresy', 'NKWD'],
     yearStart: 1939,
-    yearEnd: 1956,
-    summary: 'W latach 1940–1941 sowieckie NKWD deportowało w głąb ZSRR setki tysięcy Polaków z Kresów Wschodnich – oficerów, policjantów, urzędników, nauczycieli i ich rodziny. Zsyłki na Sybir, do Kazachstanu i Azji Środkowej pochłonęły dziesiątki tysięcy ofiar.',
+    yearEnd: 1946,
+    summary: 'Cztery masowe deportacje obywateli polskich z Kresów Wschodnich w głąb ZSRR w latach 1940–1941 – według dokumentów NKWD około 320 tysięcy osób, według części historyków znacznie więcej. W PRL temat objęty zakazem.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/W_ho%C5%82dzie_zes%C5%82a%C5%84com_Sybiru_-_002.JPG?width=800',
     imageCaption: 'Pomnik zesłańcom Sybiru (fot. współczesna)',
-    content: `## Kontekst: sowiecka okupacja Kresów
+    content: `## Sowiecka okupacja Kresów
+17 września 1939 roku Armia Czerwona wkroczyła do Polski. Wschodnie województwa II Rzeczypospolitej zostały wcielone do ZSRR, a NKWD przystąpiło do likwidacji polskich elit i wszystkich, których uznawało za „wrogów ustroju”. Do niewoli trafiło około 240 tysięcy polskich jeńców.
 
-17 września 1939 r. ZSRR zaatakował Polskę od wschodu. Kresy Wschodnie (wschodnia Polska z Lwowem, Wilnem, Pińskiem) znalazły się pod sowiecką okupacją. NKWD przystąpiło do systematycznej likwidacji polskich elit i struktur państwowych.
+## Cztery deportacje
+Pierwsza deportacja odbyła się 10 lutego 1940 roku: objęła około 140 tysięcy osób – osadników wojskowych, urzędników, służbę leśną i kolejarzy wraz z całymi rodzinami – wywiezionych na północ Rosji i na Syberię. Druga, 13–14 kwietnia 1940 roku, dotknęła rodziny wojskowych, policjantów, urzędników, nauczycieli i aresztowanych; około 61 tysięcy osób, w 80 procentach kobiety i dzieci, trafiło do północnego Kazachstanu. Trzecia, w maju–lipcu 1940 roku, objęła ponad 80 tysięcy uchodźców z centralnej i zachodniej Polski, głównie Żydów. Czwarta, w maju i czerwcu 1941 roku, tuż przed atakiem Niemiec na ZSRR, wywiozła ponad 85 tysięcy osób.
 
-## Cztery fale deportacji
+## Ile ofiar
+Według dokumentów NKWD cztery deportacje objęły około 320 tysięcy osób; część historyków uważa te dane za zaniżone, a szacunki sięgają 700 tysięcy–1 miliona. Według cząstkowych danych NKWD do połowy 1941 roku zmarło 15 tysięcy zesłańców z deportacji lutowej i czerwcowej 1940 roku.
 
-Deportacje przeprowadzono w czterech głównych falach:
-- **Luty 1940** – ok. 220–240 tys. osób: rodziny oficerów, urzędnicy, osadnicy wojskowi i leśnicy
-- **Czerwiec 1940** – ok. 320 tys. osób: rodziny aresztowanych i "zbiegłych za granicę"
-- **Czerwiec 1941** – ok. 300 tys. osób: nowa fala aresztowań tuż przed atakiem Niemiec na ZSRR
+## Amnestia i wyjście z ZSRR
+Po układzie Sikorski–Majski w sierpniu 1941 roku władze sowieckie ogłosiły „amnestię” dla obywateli polskich. Tysiące zesłańców ruszyły do tworzonej armii gen. Andersa, z którą część z nich opuściła ZSRR w 1942 roku. Inni pozostali na zesłaniu, a w latach 1944–1946 NKWD przeprowadziło na zajętych ziemiach polskich kolejne aresztowania i wywózki.
 
-Łączna liczba deportowanych: szacunki wahają się od 320 tys. do ok. 1 mln osób, w zależności od metodologii.
-
-## Warunki zsyłki
-
-Deportowanych ładowano do bydlęcych wagonów i wieziono tygodniami w mróz i głód. Miejsca zsyłki: obwód archangielski, Syberia, Kazachstan, Uzbekistan. Praca ponad siły w łagrach, kołchozach i przy wyrębie lasów. Szacuje się, że w wyniku wyczerpania, głodu, chorób i mrozu zginęło 30–50% deportowanych.
-
-## Armia Andersa i powrót
-
-Po ataku Niemiec na ZSRR (czerwiec 1941) Stalin uwolnił część Polaków, by wstąpili do armii gen. Andersa. Przez Bliski Wschód dotarli do Włoch i walczyli pod Monte Cassino. Reszta deportowanych pozostała w ZSRR; część wróciła do Polski po 1945 r. lub 1956 r.
-
-## Pamięć w PRL
-
-Temat deportacji był w PRL przemilczany – zbrodnie sowieckie podlegały cenzurze. Rodziny deportowanych nie mogły mówić otwarcie o swoich przeżyciach. Dopiero po 1989 r. Polska uzyskała pełny dostęp do sowieckich archiwów i możliwość upamiętnień.`,
-    trivia: ['Wywózki objęły setki tysięcy obywateli przedwojennej Polski.', 'Transporty kierowano do Kazachstanu i na Syberię.'],
+## Temat zakazany
+W PRL o deportacjach nie wolno było mówić publicznie – zbrodnie sowieckie objęte były cenzurą. Pamięć przetrwała w rodzinach i na emigracji; jawnie zaczęto o nich mówić dopiero u schyłku PRL.`,
+    trivia: [
+      'W drugiej deportacji, w kwietniu 1940 roku, kobiety i dzieci stanowiły do 80 procent wywożonych.',
+      'Według dokumentów NKWD cztery deportacje objęły około 320 tysięcy osób – część historyków uważa te dane za zaniżone.',
+      'Pierwsza deportacja z 10 lutego 1940 roku objęła około 140 tysięcy osób.',
+    ],
     resources: [
       {
         id: 'dep-1',
@@ -8948,28 +8957,28 @@ Obok animacji dla dzieci powstawały filmy dla dorosłych: Jana Lenicy, Walerian
     summary: 'Polskie Radio w PRL było monopolistycznym medium państwowym – narzędziem propagandy i zarazem platformą wybitnej kultury. Trójka stała się oazą wolniejszej myśli, a słuchowiska radiowe osiągnęły artystyczny poziom nieznany w innych krajach bloku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Radio_Szarotka-front.jpg?width=800',
     imageCaption: 'Odbiornik „Szarotka” – popularne radio tranzystorowe produkcji krajowej',
-    content: `## Radio jako narzędzie władzy
+    content: `## Pszczółka
+Powojenna historia Polskiego Radia zaczęła się 11 sierpnia 1944 roku, gdy w Lublinie ruszyła tymczasowa rozgłośnia „Pszczółka”, nadająca z wagonów na bocznicy kolejowej. Dekretem PKWN z 22 listopada 1944 roku utworzono przedsiębiorstwo państwowe „Polskie Radio”, a w lutym 1945 roku radio zaczęło nadawać z Warszawy, z kamienicy przy ul. Targowej.
 
-Polskie Radio zostało upaństwowione i w pełni podporządkowane PZPR po 1944 r. Programy informacyjne i publicystyczne były pod ścisłą kontrolą cenzury – "Dziennik" radiowy powielał wersję wydarzeń zgodną z linią partii. Radiostacje lokalne nadawały z ośrodków wojewódzkich, wszystkie pod nadzorem centrali.
+## Pod kontrolą partii
+Radio było monopolem państwa i narzędziem propagandy, przekształconym w 1949 roku w centralny organ administracji państwowej. Serwisy informacyjne przechodziły przez cenzurę. Od 3 października 1949 roku nadawano dwa ogólnopolskie programy.
 
-## Trzy programy – trzy światy
+## Trójka
+1 marca 1958 roku zaczął nadawać Program III, początkowo tylko w Warszawie; za datę narodzin ogólnopolskiej Trójki przyjmuje się 1 kwietnia 1962 roku. Adresowana do studentów i młodzieży, stała się azylem dla jazzu, rocka i swobodniejszego słowa. Piotr Kaczkowski prowadził w niej „MiniMax” przez 57 lat, a satyryczny magazyn „60 minut na godzinę” nie wrócił na antenę po stanie wojennym.
 
-- **Program I (Jedynka)** – informacje, publicystyka, rozrywka masowa; najbardziej sformalizowany ideologicznie
-- **Program II (Dwójka)** – muzyka poważna, teatr radiowy, audycje kulturalne; wyraźnie wyższy poziom
-- **Program III (Trójka, od 1962)** – muzyka rozrywkowa, jazz, rock, audycje dla młodzieży; największa artystyczna wolność; tu po raz pierwszy legalno puszczano Rolling Stonesów i Beatlesów
+## Stan wojenny i Lista Przebojów
+13 grudnia 1981 roku Trójka zamilkła na prawie cztery miesiące. Wróciła 5 kwietnia 1982 roku pod kierunkiem Andrzeja Turskiego, a 24 kwietnia 1982 roku Marek Niedźwiecki poprowadził pierwszą „Listę Przebojów Programu Trzeciego”, ustalaną głosami słuchaczy.
 
-## Słuchowiska i teatr radiowy
+## Radio dla wszystkich
+W latach 70. ruszyły audycje na żywo – „Lato z Radiem” w 1971 roku i „Sygnały dnia” w 1973 roku. W 1974 roku w Konstantynowie koło Gąbina zbudowano maszt o wysokości 646 metrów, najwyższy na świecie. Polskie Radio słynęło też ze słuchowisk i reportażu: w 1959 roku opera radiowa „Neffru” zdobyła nagrodę Prix Italia.
 
-Polska szkoła słuchowisk radiowych należała do najwybitniejszych w Europie. Autorzy tacy jak Sławomir Mrożek, Tadeusz Różewicz i Leopold Tyrmand pisali dla radia. Teatr Polskiego Radia wystawiał klasykę i współczesne dramaty – słuchowiska były jedyną formą teatru dostępną w całym kraju.
-
-## Muzyczne przełomy
-
-Trójka przełamywała bariery: jako pierwsza medium publiczne puszczała jazz, big beat, a od lat 70. rock. Audycje Marka Niedźwieckiego, Piotra Kaczkowskiego i Wojciecha Manna stały się kultowe. "Lista Przebojów Trójki" (od 1982) była pierwszym demokratycznym rankingiem muzycznym – wyniki głosowania słuchaczy, nie decyzja redakcji.
-
-## Opór i kontrkultura
-
-Radio Wolna Europa zagłuszano do końca lat 80. – ale Polacy i tak słuchali, obracając gałkę w kierunku Monachium. Odbiorniki radiowe były w niemal każdym domu; radio było medium codziennym i bliskim bardziej niż telewizja.`,
-    trivia: ['Zakładowy radiowęzeł nadawał komunikaty i muzykę prosto na halę.', 'Sygnał „Lata z Radiem” znała cała Polska.'],
+## Głos z zewnątrz
+Równolegle miliony Polaków słuchały Radia Wolna Europa, BBC i Głosu Ameryki, przebijając się przez zagłuszanie – w kraju z monopolem informacyjnym był to najważniejszy alternatywny głos.`,
+    trivia: [
+      'Pierwsza powojenna rozgłośnia, lubelska „Pszczółka”, nadawała z wagonów na bocznicy kolejowej.',
+      'Maszt radiowy w Konstantynowie, zbudowany w 1974 roku, miał 646 metrów i był najwyższy na świecie.',
+      'Pierwsze notowanie Listy Przebojów Trójki odbyło się 24 kwietnia 1982 roku.',
+    ],
     resources: [
       {
         id: 'radio-prl-1',
@@ -36522,7 +36531,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1987, event: 'Premiera „Matki Królów” po pięciu latach na półce', category: 'kultura', entryId: 'matka-krolow' },
   { year: 1942, event: 'Powstanie Polskiej Partii Robotniczej', category: 'polityka', entryId: 'ppr' },
   { year: 1945, event: 'Konferencja jałtańska – Polska w sowieckiej strefie wpływów', category: 'polityka', entryId: 'jalta' },
-  { year: 1944, event: 'Ogłoszenie Manifestu PKWN w Lublinie', category: 'polityka', entryId: 'manifest-pkwn' },
+  { year: 1944, event: 'Manifest PKWN – datowany 22 lipca w Chełmie, faktycznie ogłoszony przez Radio Moskwa', category: 'polityka', entryId: 'manifest-pkwn' },
   { year: 1947, event: 'Powstanie Stowarzyszenia PAX Bolesława Piaseckiego', category: 'polityka', entryId: 'pax-piasecki' },
   { year: 1952, event: 'Uchwalenie Konstytucji PRL – nowa nazwa państwa', category: 'polityka', entryId: 'konstytucja-prl' },
   { year: 1956, event: 'Tajny referat Chruszczowa na XX Zjeździe KPZR', category: 'polityka', entryId: 'chruszczow' },
@@ -36564,7 +36573,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1983, event: 'Śmierć Grzegorza Przemyka po pobiciu na komisariacie', category: 'represje', entryId: 'grzegorz-przemyk' },
   { year: 1993, event: 'Ostatnie wojska radzieckie opuszczają Polskę', category: 'wojsko', entryId: 'pgwn' },
   { year: 1944, event: 'Pierwsze wydanie Polskiej Kroniki Filmowej', category: 'kultura', entryId: 'polska-kronika-filmowa' },
-  { year: 1944, event: 'Wznowienie nadawania Polskiego Radia', category: 'kultura', entryId: 'radio-prl' },
+  { year: 1944, event: 'W Lublinie rusza rozgłośnia „Pszczółka” – początek powojennego Polskiego Radia (11 sierpnia)', category: 'kultura', entryId: 'radio-prl' },
   { year: 1945, event: 'Ukazuje się pierwszy numer „Tygodnika Powszechnego”', category: 'kultura', entryId: 'tygodnik-powszechny' },
   { year: 1946, event: 'Powstanie urzędu cenzury – kontrola prasy i publikacji', category: 'kultura', entryId: 'cenzura-prl' },
   { year: 1947, event: 'Pierwszy numer paryskiej „Kultury” Jerzego Giedroycia', category: 'kultura', entryId: 'kultura-paryz' },
