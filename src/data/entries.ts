@@ -12680,26 +12680,25 @@ Najlepiej wpisywać konkretne hasła: nazwę wydarzenia („Grudzień 1970”), 
     summary: 'Filmoteka Narodowa, dziś działająca jako FINA, od 1955 r. gromadzi, konserwuje i udostępnia polskie dziedzictwo filmowe. To dzięki niej zachowały się i są digitalizowane kroniki, dokumenty oraz fabuły z czasów PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/LOGO_FINA.png?width=800',
     imageCaption: 'Znak Filmoteki Narodowej – Instytutu Audiowizualnego',
-    content: `## Powstanie Filmoteki
+    content: `## Cztery nazwy
+Instytucja powstała 29 kwietnia 1955 roku uchwałą prezydium rządu jako Centralne Archiwum Filmowe. W 1970 roku przemianowano ją na Filmotekę Polską, w 1987 roku na Filmotekę Narodową, a 1 marca 2017 roku, po połączeniu z Narodowym Instytutem Audiowizualnym, przyjęła obecną nazwę: Filmoteka Narodowa – Instytut Audiowizualny.
 
-Centralne Archiwum Filmowe, przekształcone później w Filmotekę Narodową, powstało w 1955 r. Jego zadaniem było gromadzenie i ochrona kopii filmów produkowanych w Polsce oraz materiałów archiwalnych, w tym Polskiej Kroniki Filmowej.
+## Archiwum
+Od początku należy do Międzynarodowej Federacji Archiwów Filmowych. Jej zbiory należą do największych w Europie: obok taśm filmowych to fotosy, plakaty, projekty scenografii i kostiumów, scenariusze, rękopisy muzyki filmowej i specjalistyczny księgozbiór. Przechowuje m.in. materiały Polskiej Kroniki Filmowej.
 
-## Misja konserwacji
+## Konserwacja
+Taśma filmowa jest nietrwała i ulega rozkładowi. Renowacja zniszczonych kopii i przenoszenie ich na nowe nośniki uratowały wiele materiałów dokumentujących epokę – od propagandy po arcydzieła.
 
-Filmoteka odpowiada za przechowywanie i konserwację taśm filmowych – materiału nietrwałego, narażonego na rozkład. Renowacja zniszczonych kopii i przenoszenie ich na nowe nośniki uratowały wiele bezcennych materiałów dokumentujących epokę.
-
-## Połączenie w FINA
-
-W 2017 r. Filmoteka Narodowa połączyła się z Narodowym Instytutem Audiowizualnym (NInA), tworząc Filmotekę Narodową – Instytut Audiowizualny (FINA). Instytucja prowadzi m.in. NINATEKĘ i Repozytorium Cyfrowe.
-
-## Digitalizacja dziedzictwa
-
-FINA realizuje szeroko zakrojoną digitalizację zbiorów – kronik, dokumentów, fabuł i nagrań. Dzięki temu materiały dawniej dostępne tylko w archiwum trafiają online, do badaczy, twórców i wszystkich zainteresowanych.
+## Fototeka i Ninateka
+W 2009 roku uruchomiono Fototekę – portal z fotosami do większości polskich filmów fabularnych i animowanych do 1989 roku, zdjęciami z planów i portretami ponad 5000 filmowców, nagrodzony przez PISF. Od 2010 roku zbiory trafiają też do europejskiego portalu Europeana. FINA prowadzi również serwis Ninateka i Repozytorium Cyfrowe.
 
 ## Znaczenie
-
-FINA jest kluczową instytucją pamięci filmowej Polski. Bez jej pracy ogromna część wizualnego zapisu PRL – od propagandy po arcydzieła – byłaby dziś niedostępna lub bezpowrotnie utracona.`,
-    trivia: ['Instytucja gromadzi, konserwuje i digitalizuje polskie dziedzictwo filmowe.', 'Udostępnia zbiory m.in. przez serwis Ninateka.'],
+FINA prowadzi też program Sieć Kin Studyjnych i Lokalnych. Bez jej pracy ogromna część wizualnego zapisu PRL byłaby dziś niedostępna albo bezpowrotnie utracona.`,
+    trivia: [
+      'Do 1970 roku instytucja nazywała się Centralne Archiwum Filmowe, a do 1987 roku – Filmoteka Polska.',
+      'Fototeka zawiera portrety ponad 5000 polskich filmowców i aktorów.',
+      'Filmoteka od początku istnienia należy do Międzynarodowej Federacji Archiwów Filmowych.',
+    ],
     resources: [
       {
         id: 'fina-1',
@@ -12747,26 +12746,28 @@ FINA jest kluczową instytucją pamięci filmowej Polski. Bez jej pracy ogromna 
     summary: 'Festiwal w Opolu, organizowany od 1963 r., był najważniejszą sceną polskiej piosenki i telewizyjnym świętem rozrywki. Pod kontrolą cenzury wypromował dziesiątki gwiazd, a jego nagrania to fonoteka epoki PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/62._Krajowy_Festiwal_Piosenki_Polskiej_w_Opolu%2C_2025%2C_KsP_199.jpg?width=800',
     imageCaption: 'Krajowy Festiwal Piosenki Polskiej w Opolu (fot. współczesna)',
-    content: `## Narodziny festiwalu
+    content: `## Narodziny
+Festiwal wymyślili w 1963 roku dziennikarze Programu III Polskiego Radia Jerzy Grygolunas i Mateusz Święcicki razem z burmistrzem Opola Karolem Musiołem. Chodziło o promocję nowych wykonawców i bardziej zróżnicowanych stylów niż w konserwatywnym wówczas radiu. Opole kojarzyło się wtedy z Ziemiami Odzyskanymi i pyłem z cementowni.
 
-Krajowy Festiwal Piosenki Polskiej w Opolu odbył się po raz pierwszy w 1963 r. w amfiteatrze u stóp opolskiego zamku. Szybko stał się najważniejszym wydarzeniem muzyki rozrywkowej w kraju i dorocznym świętem transmitowanym przez radio i telewizję.
+## Amfiteatr w ostatniej chwili
+Amfiteatru Tysiąclecia nie zdążono w pełni ukończyć – scenę kończono dzień przed otwarciem, a Musioł codziennie o piątej rano pilnował robót. Pierwsza edycja ruszyła 19 czerwca 1963 roku: w 15 koncertach wystąpiło 102 wykonawców, nagrodzono 37 piosenek, a Jerzy Waldorff nazwał Opole stolicą polskiej piosenki.
 
-## Estrada gwiazd
+## Debiuty i Premiery
+Stałymi elementami festiwalu stały się konkursy Debiutów i Premier. W Opolu debiutowali albo triumfowali niemal wszyscy najwięksi wykonawcy epoki – od Czesława Niemena i Maryli Rodowicz po Czerwone Gitary i Skaldów. Nagroda w Opolu oznaczała ogólnopolską sławę.
 
-W Opolu debiutowali lub triumfowali niemal wszyscy najwięksi wykonawcy epoki – od Czesława Niemena i Maryli Rodowicz po Czerwone Gitary i Skaldów. Festiwalowe nagrody i premiery piosenek decydowały o karierach artystów.
-
-## Cenzura i polityka
-
-Festiwal działał pod nadzorem cenzury i władz. Teksty piosenek były kontrolowane, a repertuar musiał mieścić się w ramach akceptowanych przez system. Mimo to artyści potrafili przemycać aluzje, a publiczność czytała je między wierszami.
+## Pod okiem władzy
+Festiwal działał pod nadzorem cenzury i władz. Gdy w czasie festiwalu w 1969 roku do Opola zjechali hipisi, milicja zatrzymywała ich, obcinała im włosy i odsyłała koleją.
 
 ## Telewizyjne święto
-
-Transmisje z Opola gromadziły przed telewizorami miliony widzów. Festiwal był jednym z filarów telewizyjnej rozrywki PRL, obok Sopotu, i tworzył wspólne przeżycie kulturalne dla całego kraju.
+Festiwal organizowały Telewizja Polska i miasto Opole. Transmisje gromadziły miliony widzów – obok festiwalu w Sopocie był to filar telewizyjnej rozrywki PRL i wspólne przeżycie kulturalne całego kraju.
 
 ## Dziedzictwo
-
-Nagrania opolskie to dziś bezcenna fonoteka i wideoteka polskiej piosenki. Festiwal przetrwał PRL i jest kontynuowany, lecz jego peerelowskie edycje pozostają zapisem gustów, mody i emocji epoki.`,
-    trivia: ['Festiwal odbywa się w opolskim amfiteatrze od lat 60.', 'Nagroda w Opolu oznaczała dla wykonawcy ogólnopolską sławę.'],
+Festiwal trwa do dziś. Nagrody noszą imiona Anny Jantar (za debiut) i Karola Musioła (za premierę), a nagrania opolskie to fonoteka i wideoteka polskiej piosenki.`,
+    trivia: [
+      'Scenę amfiteatru kończono dzień przed pierwszym festiwalem w czerwcu 1963 roku.',
+      'Określenie Opola jako „stolicy polskiej piosenki” ukuł Jerzy Waldorff podczas pierwszej edycji.',
+      'W 1969 roku milicja obcinała włosy hipisom, którzy zjechali na festiwal, i odsyłała ich koleją.',
+    ],
     resources: [
       {
         id: 'op-yt',
@@ -14060,24 +14061,28 @@ TSA otworzyła drogę kolejnym zespołom metalowym w Polsce i pozostaje klasyką
     tags: ['muzyka', 'rock', 'pop-rock', 'lata 80.'],
     yearStart: 1982,
     yearEnd: 1989,
-    summary: 'Jeden z najpopularniejszych zespołów pop-rockowych lat 80., duet Jan Borysewicz–Janusz Panasewicz, autor przebojów „Kryzysowa narzeczona” i „Mniej niż zero”.',
+    summary: 'Zespół Jana Borysewicza i Andrzeja Mogielnickiego założony w 1981 roku we Wrocławiu; z Januszem Panasewiczem nagrał przeboje „Kryzysowa narzeczona” i „Mniej niż zero”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Lady_Pank_2007.jpg?width=800',
     imageCaption: 'Lady Pank odbiera gwiazdę w alei gwiazd w Opolu, 2007',
     content: `## Powstanie
-Lady Pank powstał na początku lat 80. w Warszawie z tandemu autorskiego: muzykę pisał gitarzysta Jan Borysewicz, teksty Andrzej Mogielnicki. Wokalistą został Janusz Panasewicz, którego wysoki, nosowy głos stał się znakiem rozpoznawczym zespołu.
+Lady Pank założyli pod koniec 1981 roku we Wrocławiu gitarzysta Jan Borysewicz i tekściarz Andrzej Mogielnicki, którzy właśnie odeszli z Budki Suflera. Nazwa wzięła się z pierwszego nagranego utworu, „Mała Lady Punk”; słowo „punk” zapisano fonetycznie, by nie kojarzyło się z punk rockiem.
 
-## Sukces
-Debiutancki album „Lady Pank” (1983) sprzedał się w nakładzie liczonym w setkach tysięcy egzemplarzy i należy do najlepiej sprzedających się polskich płyt w ogóle. Zespół w ciągu kilkunastu miesięcy przeszedł z klubów na stadiony.
+## Pierwszy skład
+Pierwszy oficjalny koncert zespół zagrał 14 sierpnia 1982 roku na otwarciu warszawskiego klubu Park. Singel „Mała Lady Punk” / „Minus 10 w Rio” trafił na pierwsze miejsce listy Programu I. Wokalistą został Janusz Panasewicz, który dograł partie wokalne po odbyciu służby wojskowej. Jesienią 1982 roku do zespołu przeszli z Oddziału Zamkniętego basista Paweł Mścisławski i perkusista Jarosław Szlagowski.
 
-## Przeboje
-„Kryzysowa narzeczona”, „Mniej niż zero”, „Zamki na piasku”, „Tańcz głupia, tańcz”, „Vademecum skauta” – piosenki o chwytliwych refrenach i tekstach, które przy pozornej lekkości opisywały nastroje dekady: cynizm, znużenie i brak perspektyw.
+## Rok 1983
+Szczyt popularności przypadł na 1983 rok – zespół zagrał wtedy od 200 do 400 koncertów. Debiutancki album „Lady Pank” ukazał się w czerwcu 1983 roku; sześć piosenek z niego – „Kryzysowa narzeczona”, „Mniej niż zero”, „Moje Kilimandżaro”, „Wciąż bardziej obcy”, „Zamki na piasku” i „Fabryka małp” – dotarło na pierwsze miejsce Listy Przebojów Trójki. Media podsycały rywalizację fanów Lady Pank i Republiki.
 
-## Za granicą
-W 1985 roku ukazał się anglojęzyczny album „Drop Everything”, a zespół koncertował w Stanach Zjednoczonych. Międzynarodowej kariery z tego nie było, ale sam fakt wyjazdu na taką trasę był w PRL wydarzeniem.
+## Złote płyty
+W 1984 roku ukazał się album „Ohyda”. W listopadzie zespół odebrał złote płyty: debiut sprzedał się w 220 tysiącach egzemplarzy, „Ohyda” w 150 tysiącach.
 
-## Znaczenie
-Lady Pank to najpełniejszy przykład komercyjnego sukcesu polskiego rocka lat 80. – zespołu, który grał muzykę młodzieżową, a słuchali go wszyscy. Jego przeboje pozostają stałym elementem radiowych stacji do dziś.`,
-    trivia: ['Muzykę tworzył Jan Borysewicz, a teksty Andrzej Mogielnicki.', '„Mniej niż zero” to jeden z hymnów lat 80.'],
+## Ameryka
+W 1985 roku zespół nagrał angielską wersję debiutu, „Drop Everything”. W marcu wyjechał na trzytygodniową trasę promocyjną po USA, wystąpił w programie „American Bandstand”, a teledysk „Minus Zero” nakręcił Zbigniew Rybczyński. Menedżerowie odrzucili propozycję wspólnej trasy z Madonną. Międzynarodowej kariery z tego nie było, ale sam wyjazd był w PRL wydarzeniem.`,
+    trivia: [
+      'Nazwa zespołu pochodzi od pierwszej nagranej piosenki – „Mała Lady Punk”.',
+      'Sześć piosenek z debiutanckiej płyty dotarło na szczyt Listy Przebojów Trójki.',
+      'W 1985 roku menedżerowie zespołu odrzucili propozycję wspólnej trasy z Madonną.',
+    ],
     resources: [
       {
         id: 'lp-yt',
@@ -15863,24 +15868,28 @@ Kabaret był pod stałą obserwacją SB, występy odwoływano, a sale odmawiały
     tags: ['kultura', 'kabaret', 'satyra', 'lata 70.', 'lata 80.'],
     yearStart: 1971,
     yearEnd: 1989,
-    summary: 'Poznański kabaret Zenona Laskowika i Bohdana Smolenia, jeden z najpopularniejszych w PRL, łączący satyrę polityczną z humorem absurdu.',
+    summary: 'Poznański kabaret Zenona Laskowika (1971–1990), od 1978 roku z Bohdanem Smoleniem; jeden z najpopularniejszych kabaretów PRL, z programami „S tyłu sklepu” i „Na granicy”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zenon_laskowik.jpg?width=800',
     imageCaption: 'Zenon Laskowik, współtwórca kabaretu Tey (fot. współczesna)',
-    content: `## Powstanie
-Kabaret Tey powstał w 1971 roku w Poznaniu, wyrastając ze środowiska studenckiego. Jego twarzą był Zenon Laskowik, a od połowy lat 70. również Bohdan Smoleń, który stworzył postać Hadziuka – wiejskiego cwaniaka mówiącego gwarą.
+    content: `## Od Klopsa do Teya
+Kabaret wyrósł z zespołu Klops, działającego od połowy lat 60. przy poznańskiej Wyższej Szkole Wychowania Fizycznego. W 1970 roku przekształcił się w kabaret zawodowy, a pierwszy występ dał 17 września 1971 roku. Założycielami byli Zenon Laskowik, Krzysztof Jaślar i Aleksander Gołębiowski. Nazwa pochodziła od poznańskiego „tej” zamiast „ty”; Laskowik zmienił „j” na „y”, by brzmiała bardziej zachodnio.
 
-## Duet
-Kontrast między inteligenckim, ironicznym Laskowikiem a rubasznym Smoleniem był motorem całego kabaretu. Ich programy – m.in. „Z tyłu sklepu” i „Ten wredny rok 1981” – łączyły absurd z bardzo konkretnymi obserwacjami z kolejki, urzędu i zebrania.
+## Data, której nie zauważono
+17 września, dzień inauguracji, to zarazem rocznica sowieckiej agresji na Polskę z 1939 roku – cenzura tego nie wychwyciła. Fani do dziś zapalają tego dnia świeczki przy dawnej siedzibie kabaretu przy Starym Rynku w Poznaniu.
 
-## Satyra i cenzura
-Teksty Tey przechodziły przez cenzurę na granicy dopuszczalności; część skeczy zdejmowano, część funkcjonowała wyłącznie na koncertach, bez rejestracji telewizyjnej. Publiczność wychwytywała aluzje szybciej niż urzędnicy, a widownie liczyły po kilka tysięcy osób.
+## Sława
+Ogólnopolską sławę przyniosła Teyowi „Złota Szpilka” i nagroda dla najlepszego kabaretu na festiwalu w Opolu w 1973 roku, gdzie w pojedynku kabaretów pokonał m.in. „Pod Egidą”. W 1974 roku odszedł Krzysztof Jaślar, którego twórczość cenzura zakazała w całości.
 
-## Stan wojenny
-Po 13 grudnia 1981 roku działalność estradowa została ograniczona, a Laskowik na kilka lat wycofał się z występów. Kabaret w dawnym kształcie już się nie odbudował, choć obaj artyści wracali później osobno.
+## Laskowik i Smoleń
+W 1978 roku do kabaretu dołączył Bohdan Smoleń, zastępując Janusza Rewińskiego, a Jaślar wrócił jako współautor programów. Powstały wtedy m.in. „Narodziny gwiazdy”, „Śpiew, balet, piosenka”, „S tyłu sklepu” i „Na granicy”. W kabarecie występował też Rudi Schuberth. Duet inteligentnego Laskowika i rubasznego Smolenia stał się motorem całej grupy, a skecze „Pani Pelagia” i „Maluch” znała cała Polska.
 
-## Znaczenie
-Obok „Pod Egidą” Jana Pietrzaka i kabaretu Olgi Lipińskiej, Tey współtworzył złoty okres polskiej satyry. Powiedzenia Hadziuka weszły do języka potocznego i są cytowane do dziś.`,
-    trivia: ['Tworzyli go Zenon Laskowik i Bohdan Smoleń.', 'Poznański kabaret słynął z aluzji, które rozumiała cała sala.'],
+## Schyłek
+W 1984 roku, po stanie wojennym, kabaret zmienił nazwę na Teyatr, a jego popularność zaczęła słabnąć. W 1989 roku w pełnym składzie wystąpił w Teatrze Wielkim w Poznaniu z programem „Najlepiej nam było przed wojną”. Ostatni wspólny występ odbył się w 1990 roku w Częstochowie.`,
+    trivia: [
+      'Kabaret zainaugurował działalność 17 września 1971 roku – w rocznicę sowieckiej agresji z 1939 roku, czego cenzura nie zauważyła.',
+      'Nazwa pochodzi z gwary poznańskiej, w której „ty” brzmi jak „tej”.',
+      'Twórczość współzałożyciela Krzysztofa Jaślara cenzura w 1974 roku zakazała w całości.',
+    ],
     resources: [
       {
         id: 'tey-1',
@@ -17315,20 +17324,24 @@ KIK-i były pomostem między Kościołem, inteligencją i opozycją, a przy tym 
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2004_08_16_GDYNIA_Festiwal_Polskich_Filmow_Fabularnych.jpeg?width=800',
     imageCaption: 'Festiwal Polskich Filmów Fabularnych w Gdyni, 2004',
     content: `## Powstanie
-Festiwal Polskich Filmów Fabularnych zainaugurowano w 1974 roku w Gdańsku i przez pierwsze trzynaście edycji odbywał się właśnie tam. Od 1987 roku jego stałą siedzibą jest Gdynia, z którą jest dziś kojarzony.
+Festiwal Polskich Filmów Fabularnych zainaugurowano w 1974 roku w Gdańsku. W latach 1974–1986 odbywał się w gdańskim Domu Technika NOT, a od 1987 roku jego stałą siedzibą jest Gdynia, z którą jest dziś kojarzony.
 
 ## Przegląd kina
-Był corocznym przeglądem najważniejszych polskich premier – miejscem, gdzie środowisko oglądało samo siebie, a krytyka i publiczność po raz pierwszy widziały filmy, o których potem mówiło się przez cały sezon.
+Było to coroczne święto polskiej kinematografii, na którym pokazywano filmy fabularne powstałe od poprzedniej edycji. Środowisko oglądało tam samo siebie, a krytyka i publiczność po raz pierwszy widziały filmy, o których potem mówiło się przez cały sezon.
 
-## Nagrody
-Główną nagrodą były Złote Lwy, przyznawane najlepszemu filmowi. Wśród laureatów epoki PRL znalazły się dzieła kina moralnego niepokoju, które kilka lat wcześniej nie miałyby szansy nawet na produkcję.
+## Złote Lwy
+Główną nagrodą są Złote Lwy. W 1977 roku Grand Prix zdobyły „Barwy ochronne” Krzysztofa Zanussiego – w tym samym roku, w którym wiceminister kultury próbował rozgrywać je przeciw „Człowiekowi z marmuru” Andrzeja Wajdy. Laureatami bywały filmy kina moralnego niepokoju, które kilka lat wcześniej nie miałyby szansy na produkcję.
 
 ## Polityka i kino
-W realiach cenzury festiwal bywał areną napięć. Filmy wycofywano z programu, nagrody bywały czytane jako demonstracja środowiska wobec władz, a decyzje jury komentowano politycznie niezależnie od intencji jurorów. Po 1981 roku część nagrodzonych wcześniej filmów trafiła na półki.
+W realiach cenzury festiwal bywał areną napięć. Filmy wycofywano z programu, nagrody czytano jako demonstrację środowiska wobec władz, a decyzje jury komentowano politycznie niezależnie od intencji jurorów. Po 1981 roku część nagradzanych wcześniej filmów trafiła na półki.
 
-## Znaczenie
-Festiwal przetrwał zmianę ustroju i pozostaje najważniejszym wydarzeniem polskiego kina. Jego historia – od Gdańska lat 70., przez okres stanu wojennego, po współczesność – jest zwierciadłem przemian całej kinematografii.`,
-    trivia: ['Festiwal polskich filmów fabularnych zaczynał w Gdańsku.', 'W 1982 roku w ogóle się nie odbył z powodu stanu wojennego.'],
+## Nazwy
+Po 1989 roku festiwal przetrwał zmianę ustroju. W latach 2012–2016 występował jako Gdynia Film Festival i Gdynia – Festiwal Filmowy, a od 2017 roku znów nosi dawną nazwę. Jego historia – od Gdańska lat 70., przez stan wojenny, po współczesność – jest zwierciadłem przemian polskiej kinematografii.`,
+    trivia: [
+      'Przez pierwsze trzynaście lat festiwal odbywał się w Gdańsku, w Domu Technika NOT.',
+      'Główną nagrodą festiwalu są Złote Lwy.',
+      'W latach 2012–2016 festiwal nosił nazwy Gdynia Film Festival i Gdynia – Festiwal Filmowy.',
+    ],
     resources: [
       {
         id: 'fg-1',
@@ -33267,19 +33280,26 @@ Dla nowej władzy Państwo Podziemne było przeszkodą, nie dziedzictwem. Jego p
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/L_to_R%2C_British_Prime_Minister_Winston_Churchill%2C_President_Harry_S._Truman%2C_and_Soviet_leader_Josef_Stalin_in_the..._-_NARA_-_198958.jpg?width=800',
     imageCaption: 'Churchill, Truman i Stalin w Poczdamie, 1945',
     content: `## Uczestnicy
-Konferencja obradowała od 17 lipca do 2 sierpnia 1945 roku w pałacu Cecilienhof w Poczdamie. Wzięli w niej udział Józef Stalin, prezydent Harry Truman – następca zmarłego w kwietniu Roosevelta – oraz Winston Churchill, którego od 28 lipca zastąpił nowy premier brytyjski Clement Attlee. Zmiana w trakcie obrad była skutkiem brytyjskich wyborów.
+Konferencja obradowała od 17 lipca do 2 sierpnia 1945 roku w pałacu Cecilienhof w Poczdamie. Była ostatnią z trzech konferencji wielkiej trójki, po Teheranie i Jałcie. Uczestniczyli w niej Józef Stalin, prezydent Harry Truman – następca zmarłego w kwietniu Roosevelta – oraz Winston Churchill, którego od 28 lipca, po przegranych przez konserwatystów wyborach, zastąpił Clement Attlee.
+
+## Delegacja polska
+Tymczasowy Rząd Jedności Narodowej reprezentowali m.in. Bolesław Bierut, Edward Osóbka-Morawski, Stanisław Mikołajczyk, Stanisław Grabski, Wincenty Rzymowski i Michał Rola-Żymierski. Mikołajczyk w swoim wystąpieniu poparł proponowane zmiany granic.
 
 ## Granica zachodnia
-Dla Polski najważniejsze było ustalenie, że tereny na wschód od Odry i Nysy Łużyckiej przechodzą pod polską administrację do czasu konferencji pokojowej. Ta ostatnia nigdy się nie odbyła, więc rozwiązanie tymczasowe okazało się trwałe – i przez dziesięciolecia było źródłem niepewności, wykorzystywanej propagandowo przez władze PRL.
+Wschodnią granicę Niemiec wyznaczono tymczasowo na Odrze i Nysie Łużyckiej, z odchyleniem na korzyść Polski koło Szczecina. Ostateczny przebieg miała ustalić konferencja pokojowa. Do niej nie doszło – granicę potwierdziły dopiero porozumienia „dwa plus cztery” z 1990 roku i traktat polsko-niemiecki. Tymczasowość przez dziesięciolecia była wykorzystywana propagandowo przez władze PRL.
+
+## Reparacje i Niemcy
+Ustalono zasady demilitaryzacji, denazyfikacji i demokratyzacji Niemiec. Polska miała otrzymać 15 procent reparacji przyznanych ZSRR.
 
 ## Wysiedlenia
-Konferencja zaakceptowała przesiedlenie ludności niemieckiej z Polski, Czechosłowacji i Węgier, zalecając, by odbywało się ono w sposób „uporządkowany i humanitarny”. W praktyce objęło miliony ludzi i przebiegało w warunkach dalekich od tego zapisu.
+Konferencja zaakceptowała przesiedlenie ludności niemieckiej z Polski, Czechosłowacji i Węgier, zalecając, by odbywało się w sposób „uporządkowany i humanitarny”. W praktyce objęło miliony ludzi i przebiegało w warunkach dalekich od tego zapisu.
 
 ## Znaczenie
-Poczdam domknął to, co zaczęto w Jałcie: Polska otrzymała nowe granice i znalazła się w radzieckiej strefie wpływów, a jej kształt terytorialny został przesądzony bez udziału jej własnych, wybranych władz.`,
+Poczdam domknął to, co zaczęto w Jałcie: Polska otrzymała nowe granice i znalazła się w radzieckiej strefie wpływów, a jej kształt terytorialny przesądzono bez udziału wybranych przez Polaków władz.`,
     trivia: [
       'W trakcie obrad zmienił się jeden z uczestników – Churchilla zastąpił Clement Attlee po przegranych przez konserwatystów wyborach.',
-      'Granicę na Odrze i Nysie ustalono „do czasu konferencji pokojowej”, która nigdy się nie odbyła.',
+      'Polska miała dostać 15 procent reparacji wojennych przyznanych Związkowi Radzieckiemu.',
+      'Granicę na Odrze i Nysie ustalono „do czasu konferencji pokojowej”; ostatecznie potwierdzono ją dopiero w 1990 roku.',
     ],
     resources: [
       {
@@ -35496,19 +35516,23 @@ W styczniu 1957 roku porwano jego piętnastoletniego syna Bohdana. Ciało chłop
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/2019_-_Leszek_Balcerowicz_%2810%29_MLU_in_Halle_%28cropped%29.jpg?width=800',
     imageCaption: 'Leszek Balcerowicz (fot. współczesna)',
     content: `## Ekonomista w PRL
-Leszek Balcerowicz (ur. 1947) był wykładowcą warszawskiej Szkoły Głównej Planowania i Statystyki, dzisiejszej SGH. W latach 80. kierował zespołem opracowującym propozycje reformy gospodarczej – jednym z wielu takich zespołów, których projekty systematycznie rozmywano w praktyce.
+Leszek Balcerowicz urodził się w 1947 roku w Lipnie. Studiował na Wydziale Handlu Zagranicznego warszawskiej Szkoły Głównej Planowania i Statystyki, w 1974 roku zdobył dyplom MBA w Nowym Jorku, a w 1975 roku obronił doktorat. Od 1969 do 1981 roku należał do PZPR – wystąpił z niej po wprowadzeniu stanu wojennego.
+
+## Zespół Balcerowicza
+W latach 1978–1980 pracował w partyjnym Instytucie Podstawowych Problemów Marksizmu-Leninizmu, zajmując się urynkowieniem gospodarki socjalistycznej. Kierował zespołem ekonomistów, którego raport przewidywał szybki upadek polityki gospodarczej Gierka i wskazywał konieczność urynkowienia. Po powstaniu Solidarności wszedł do rady jej ekspertów ekonomicznych.
 
 ## Dlaczego reformy nie działały
-Kolejne próby naprawy gospodarki PRL – w 1956, 1973 i 1982 roku – zakładały poszerzenie samodzielności przedsiębiorstw, ale za każdym razem centrum odzyskiwało kontrolę, bo rezygnacja z rozdzielnictwa oznaczałaby rezygnację z władzy nad gospodarką. Ta doświadczenie ukształtowało przekonanie, że zmiana musi być całościowa.
+Kolejne próby naprawy gospodarki PRL zakładały poszerzenie samodzielności przedsiębiorstw, ale za każdym razem centrum odzyskiwało kontrolę, bo rezygnacja z rozdzielnictwa oznaczałaby utratę władzy nad gospodarką. To doświadczenie umocniło przekonanie, że zmiana musi być całościowa.
 
-## 1989
-We wrześniu 1989 roku został wicepremierem i ministrem finansów w rządzie Tadeusza Mazowieckiego. Przygotowany pod jego kierunkiem pakiet ustaw, uchwalony pod koniec roku, znosił centralne planowanie, uwalniał ceny i otwierał gospodarkę na wymianę zagraniczną.
+## Plan Balcerowicza
+12 września 1989 roku został wicepremierem i ministrem finansów w rządzie Tadeusza Mazowieckiego. Pakiet ustaw uchwalony pod koniec 1989 roku znosił centralne planowanie, uwalniał ceny i otwierał gospodarkę. W półtora roku udało się zdławić hiperinflację, urealnić kurs złotego i wprowadzić jego wewnętrzną wymienialność.
 
 ## Spór
-Skutki tej zmiany – zahamowanie hiperinflacji z jednej strony, bezrobocie i upadek całych branż z drugiej – pozostają przedmiotem sporu do dziś. Dla dziejów PRL istotne jest to, że rok 1989 zamknął nie tylko system polityczny, ale i gospodarkę budowaną od 1944 roku.`,
+Zwolennicy wskazują, że reformy uczyniły z Polski jedną z najlepiej prosperujących gospodarek regionu. Krytycy, m.in. Grzegorz Kołodko, Tadeusz Kowalik i Karol Modzelewski, podkreślali bezrobocie i upadek całych branż. Dla dziejów PRL ważne jest jedno: rok 1989 zamknął nie tylko system polityczny, ale i gospodarkę budowaną od 1944 roku.`,
     trivia: [
-      'Wykładał w Szkole Głównej Planowania i Statystyki – uczelni kształcącej kadry gospodarki planowej.',
-      'Kolejne reformy PRL – 1956, 1973, 1982 – kończyły się odzyskaniem kontroli przez centrum.',
+      'Wystąpił z PZPR po wprowadzeniu stanu wojennego w 1981 roku.',
+      'Jego zespół już w latach 1978–1980 przewidywał upadek gierkowskiej polityki gospodarczej.',
+      'Dyplom MBA zdobył w 1974 roku na St. John’s University w Nowym Jorku.',
     ],
     resources: [
       {
