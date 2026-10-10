@@ -17152,6 +17152,8 @@ W krótkiej perspektywie orędzie kosztowało Kościół falę ataków i nieufno
     yearStart: 1975,
     yearEnd: 1976,
     summary: 'Wpisanie do konstytucji „kierowniczej roli PZPR” i sojuszu z ZSRR wywołało protesty intelektualistów, m.in. słynny List 59.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Uchwalenie_Konstytucji_Polskiej_Polskiej_Rzeczypospolitej_Ludowej_22_lipca_1952_roku.jpg?width=800',
+    imageCaption: 'Sejm uchwala Konstytucję PRL, 22 lipca 1952 roku – to ją znowelizowano w 1976 roku',
     content: `## Zapowiedź
 We wrześniu 1975 roku „Tezy na VII Zjazd PZPR” zapowiedziały zmiany w konstytucji. Miały do niej trafić przewodnia rola PZPR i socjalistyczny charakter państwa, trwały i nienaruszalny sojusz z ZSRR oraz uzależnienie praw obywateli od wypełniania obowiązków wobec państwa. Stało się to kilka tygodni po tym, jak Polska podpisała Akt końcowy KBWE w Helsinkach, zobowiązujący do przestrzegania praw człowieka.
 
@@ -17216,6 +17218,8 @@ Kampania protestacyjna zintegrowała środowiska, które kilka miesięcy późni
     yearStart: 1977,
     yearEnd: 1981,
     summary: 'Niezależne wykłady Uniwersytetu Latającego (1977) i Towarzystwa Kursów Naukowych (1978–1981), które w prywatnych mieszkaniach uczyły historii, ekonomii i literatury bez cenzury.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jerzy_Jedlicki%2C_%22Forma_i_tre%C5%9B%C4%87_umowy_spo%C5%82ecznej%22%2C_wyd._%22nowa%22%2C_1980.jpg?width=800',
+    imageCaption: 'Wydawnictwo Towarzystwa Kursów Naukowych w drugim obiegu: Jerzy Jedlicki, „Forma i treść umowy społecznej”, NOWa, 1980',
     content: `## Uniwersytet Latający
 Decyzję o zorganizowaniu niezależnych wykładów podjęli latem 1977 roku działacze studenccy z Warszawy i Krakowa, związani z KOR. Nazwę zaproponował prof. Edward Lipiński. Nawiązywała do tajnego Uniwersytetu Latającego z końca XIX wieku, który uczył tego, czego nie wykładano na rosyjskojęzycznym uniwersytecie w Warszawie. Całość zorganizował socjolog Andrzej Celiński, zwany „Rektorem”. Pierwszy wykład wygłosił 9 listopada 1977 roku Adam Michnik w mieszkaniu prof. Władysława Kunickiego-Goldfingera; słuchało go około 70 osób.
 
@@ -20770,6 +20774,14 @@ Po wyborach czerwcowych oba stronnictwa zerwały sojusz z PZPR. W sierpniu 1989 
       'W sierpniu 1989 roku to głosy posłów ZSL i SD przesądziły o powstaniu rządu Mazowieckiego.',
     ],
     resources: [
+      {
+        id: 'zsl-muzeum-yt',
+        title: 'Misja i rola Zjednoczonego Stronnictwa Ludowego w dziejach ruchu ludowego',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=dT3P6uF18vs',
+        source: 'YouTube',
+        description: 'Materiał Muzeum Historii Polskiego Ruchu Ludowego o ZSL.',
+      },
       {
         id: 'ss-1',
         title: 'Stronnictwa satelickie (ZSL i SD) – opracowania (2)',
@@ -26779,6 +26791,14 @@ Serial zaczęto kręcić w PRL, a skończono w III Rzeczypospolitej. Zmieniły s
     ],
     resources: [
       {
+        id: 'dom-serial-yt',
+        title: '„Dom – opowieść o domu, który nazywa się Polska” – TVP Polonia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=_mnfCY6NozI',
+        source: 'YouTube',
+        description: 'Materiał TVP Polonia o serialu „Dom” Jana Łomnickiego.',
+      },
+      {
         id: 'dom-serial-culture',
         title: 'Dom w serwisie Culture.pl',
         type: 'publikacja',
@@ -27423,6 +27443,8 @@ Piosenka rozrywkowa wydawała się dziedziną neutralną, ale i ona przechodził
     yearStart: 1970,
     yearEnd: 1989,
     summary: 'Dyskoteki i dancingi były głównym miejscem młodzieżowej rozrywki lat 70. i 80.; królowały tam zachodnie przeboje zdobywane „spod lady”.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pobierowo_dancing.jpg?width=800',
+    imageCaption: '„Bajka” w Pobierowie – budynek z czasów PRL, kolejno świetlica, kawiarnia i dyskoteka (stan z 2012 roku)',
     content: `## Pierwsze dyskoteki
 Dyskoteki pojawiły się w Polsce na przełomie lat 60. i 70. Za pierwszą uchodzi sopocka „Musicorama”, w której w 1970 roku jako dyskdżokej debiutował Marcin Jacobson, późniejszy współorganizator festiwalu w Jarocinie. W dekadzie Gierka, przy większym otwarciu na kulturę zachodnią, dyskoteki rozeszły się po kraju: organizowano je w klubach studenckich, domach kultury, świetlicach zakładowych i remizach – wszędzie tam, gdzie była sala i sprzęt.
 
@@ -31429,6 +31451,14 @@ Razem z „Rejsem” i „Hydrozagadką” film utrwalił typ polskiego humoru o
       'Himilsbach i Maklakiewicz grają postacie tak bliskie sobie, że widzowie brali film za zapis rzeczywistości.',
     ],
     resources: [
+      {
+        id: 'wniebowzieci-yt',
+        title: '„Wniebowzięci” – zapowiedź TVP Historia',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=7Y0HvudWPDk',
+        source: 'YouTube',
+        description: 'Zapowiedź emisji filmu Andrzeja Kondratiuka w TVP Historia, z fragmentami filmu.',
+      },
       {
         id: 'wnb-yt',
         title: '„Wniebowzięci” – materiały',
