@@ -2663,25 +2663,28 @@ Głównym celem było zwalczanie podziemia niepodległościowego, opozycji polit
     tags: ['PKiN', 'Stalin', 'Warszawa', 'socrealizm', 'architektura', 'propaganda'],
     yearStart: 1952,
     yearEnd: 1955,
-    summary: 'Pałac Kultury i Nauki w Warszawie – wzniesiony w latach 1952–1955 jako "dar narodu radzieckiego dla narodu polskiego". Zaprojektowany przez sowieckiego architekta Lwa Rudniewa, stał się jednym z najbardziej kontrowersyjnych symboli epoki PRL i dominantą panoramy Warszawy.',
+    summary: 'Pałac Kultury i Nauki w Warszawie – zbudowany w latach 1952–1955 jako „dar narodu radzieckiego”, do 1956 roku noszący imię Stalina; przez dziesięciolecia najwyższy budynek w Polsce.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pa%C5%82ac%20Kultury%20i%20Nauki%20w%20nocy.JPG?width=800',
     imageCaption: 'Pałac Kultury i Nauki – „dar narodu radzieckiego”, symbol Warszawy epoki PRL.',
-    trivia: ['Krążył dowcip, że najpiękniejszy widok na Warszawę jest z tarasu Pałacu – bo stamtąd nie widać samego Pałacu.', 'Gmach był „darem narodu radzieckiego”; przez lata wzbudzał mieszane uczucia jako symbol dominacji ZSRR.'],
-    content: `Pałac Kultury i Nauki im. Józefa Stalina (pierwotna pełna nazwa) – gmach liczący 231 metrów wysokości, przez dziesięciolecia najwyższy budynek w Polsce. Zbudowany w centrum Warszawy na wzorcu sowieckich drapaczy chmur (tzw. stalinowskie tortownice) w stylu socrealistycznym.
+    trivia: [
+      'Imię Stalina usunięto z nazwy Pałacu już w 1956 roku.',
+      'Robotnicy radzieccy mieszkali podczas budowy na specjalnym osiedlu na Jelonkach – z kinem, stołówką i basenem.',
+      'Krążył dowcip, że najpiękniejszy widok na Warszawę jest z tarasu Pałacu – bo stamtąd nie widać samego Pałacu.',
+    ],
+    content: `## Dar narodu radzieckiego
+Pałac Kultury i Nauki im. Józefa Stalina – tak brzmiała jego pełna nazwa do 1956 roku – był „darem narodu radzieckiego dla narodu polskiego”. Zaprojektował go Lew Rudniew, wzorując się na moskiewskich wieżowcach zwanych Siedmioma Siostrami. Architektonicznie jest mieszanką socrealizmu i historyzmu.
 
-**Geneza i budowa:**
-Decyzja o budowie zapadła w 1951 roku podczas wizyty Bieruta w Moskwie. Oferta sowiecka miała charakter propagandowego gestu. Projekt opracował Lew Rudniew, główny architekt gmachów moskiewskich. Budowę wykonało 3500 sowieckich robotników przywiezionych do Polski, pracujących w specjalnych zamkniętych osiedlach.
+## Budowa
+Budowa trwała od 1 maja 1952 do 21 lipca 1955 roku. Pracowało przy niej od 3500 do 5000 robotników ze Związku Radzieckiego i około 4000 Polaków. Robotnicy radzieccy mieszkali na wybudowanym dla nich osiedlu drewnianych domków na warszawskich Jelonkach, z kinem, stołówką i basenem. Przy budowie zginęło 16 osób.
 
-**Skala i funkcje:**
-- 42 piętra, 3,3 tys. pomieszczeń
-- Teatr Dramatyczny, kino, baseny, uczelnie, muzea, sale konferencyjne
-- Taras widokowy na 30. piętrze
+## Skala
+Pałac ma 42 piętra, 3288 pomieszczeń i wysokość 237 metrów razem z iglicą. Przez dziesięciolecia był najwyższym budynkiem w Polsce. Mieści teatry, muzea, kino, uczelnie i Salę Kongresową. Taras widokowy na 30. piętrze znajduje się na wysokości 114 metrów; po serii samobójczych skoków w 1956 roku założono na nim kraty.
 
-**Kontrowersje:**
-Pałac wznosił się na miejscu przedwojennej zabudowy Śródmieścia, wyburzonej po wojnie lub zniszczonej. Dla wielu Polaków był symbolem sowieckiego panowania i narzuconej zależności – stąd m.in. powiedzonko, że najlepszy widok na Warszawę jest z tarasu PKiN, bo tylko stamtąd Pałacu nie widać.
+## Symbol
+Pałac wyrósł na miejscu przedwojennej zabudowy Śródmieścia. Dla wielu Polaków był symbolem sowieckiej dominacji – stąd dowcip, że najpiękniejszy widok na Warszawę jest z tarasu Pałacu, bo tylko stamtąd go nie widać. Zarazem stał się sceną wielkich wydarzeń, od Zjazdów partii po koncerty.
 
-**Po 1989 roku:**
-Po upadku PRL usunięto z nazwy człon upamiętniający Stalina. Dyskusja o wyburzeniu lub przebudowie gmachu toczyła się przez lata. Dziś Pałac Kultury i Nauki wpisany jest na listę zabytków i pozostaje ikoną warszawskiej panoramy.`,
+## Po 1989 roku
+Dyskusje o wyburzeniu gmachu toczyły się latami, ale w 2007 roku Pałac wpisano do rejestru zabytków. Jest siedzibą Rady m.st. Warszawy i pozostaje ikoną panoramy miasta.`,
     resources: [
       {
         id: 'pk-pkf',
@@ -3165,25 +3168,29 @@ Społeczeństwo nauczyło się czytać między wierszami. Żarty polityczne (kaw
     category: 'represje',
     tags: ['Akcja Wisła', 'Ukraińcy', 'wysiedlenia', 'UPA', '1947', 'Łemkowie', 'Bojkowie'],
     yearStart: 1947,
-    summary: 'Akcja Wisła – przeprowadzona wiosną i latem 1947 roku przez władze komunistyczne przymusowa deportacja około 150 000 Ukraińców, Łemków i Bojków z południowo-wschodniej Polski na Ziemie Odzyskane. Jedna z największych operacji etnicznych w powojennej historii Polski.',
+    yearEnd: 1950,
+    summary: 'Akcja „Wisła” – przymusowe wysiedlenie w 1947 roku ponad 140 tysięcy Ukraińców, Łemków i Bojków z południowo-wschodniej Polski na Ziemie Zachodnie i Północne, przeprowadzone pod hasłem walki z UPA.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/%D0%94%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D1%86%D1%96%D1%8F_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%86%D1%96%D0%B2_%D1%83_%D1%80%D0%B0%D0%BC%D0%BA%D0%B0%D1%85_%D0%B0%D0%BA%D1%86%D1%96%D1%97_%C2%AB%D0%92%D1%96%D1%81%D0%BB%D0%B0%C2%BB%2C_%D0%BA%D0%B2%D1%96%D1%82%D0%B5%D0%BD%D1%8C_1947_%D1%80.jpg?width=800',
     imageCaption: 'Jeńcy UPA podczas akcji „Wisła”, kwiecień 1947',
-    content: `Akcja Wisła trwała od 28 kwietnia do 31 lipca 1947 roku. Jej oficjalnym powodem była walka z Ukraińską Powstańczą Armią (UPA), jednak w istocie była to operacja etniczna mająca na celu trwałe rozproszenie ukraińskiej i łemkowskiej mniejszości narodowej.
+    content: `## Decyzja
+Po wysiedleniach ludności ukraińskiej do ZSRR w latach 1944–1946 w Polsce zostało ponad 140 tysięcy Ukraińców, Łemków i Bojków. Formalną decyzję o akcji podjęło Biuro Polityczne KC PPR 29 marca 1947 roku; według części historyków zapadła ona w Moskwie. Pretekstem stała się śmierć gen. Karola Świerczewskiego w zasadzce UPA. Pierwotny kryptonim brzmiał „Wschód”.
 
-**Przebieg:**
-Wojsko Polskie, KBW i UB otaczały wsie ukraińskie i łemkowskie w województwach rzeszowskim, lubelskim i krakowskim. Mieszkańcy mieli kilka godzin lub dni na spakowanie dobytku. Następnie transportami kolejowymi wywożono ich na Ziemie Odzyskane (Dolny Śląsk, Ziemia Lubuska, Warmia i Mazury), gdzie rozpraszano w małych grupach wśród polskich osadników.
+## Przebieg
+Grupa Operacyjna „Wisła” gen. Stefana Mossora – wojsko, KBW i aparat bezpieczeństwa – zaczęła działania 28 kwietnia 1947 roku o czwartej rano. Akcję uznaje się za zakończoną pod koniec lipca 1947 roku, choć ostatnie wysiedlenia trwały do 1950 roku. Mieszkańców otaczanych wsi kierowano do punktów zbornych, a stamtąd transportami na Ziemie Zachodnie i Północne. Rozbito siły UPA liczące około 1500 ludzi.
 
-**Skala:**
-- Wysiedlono ok. 140–150 tysięcy osób
-- Kilka tysięcy zamknięto w obozie w Jaworznie (byłym KL Auschwitz III)
-- Zniszczono setki wsi, cerkwi i zabytków kultury ukraińskiej
+## Rozproszenie
+Przesiedleńców rozmieszczano z dala od granic, wybrzeża i miast wojewódzkich, po kilka rodzin na wieś, a rodziny o „ujemnej opinii” – najwyżej po jednej, by uniemożliwić odtworzenie wspólnot. Wysiedlenia objęły ponad 140 tysięcy osób. Akcja objęła też obszary, gdzie UPA w ogóle nie działała – dlatego część historyków uznaje ją za czystkę etniczną.
 
-**Cele polityczne:**
-Władze komunistyczne chciały nie tylko zwalczyć UPA, ale trwale rozbić ukraińską tożsamość narodową. Deportowani mieli się zasymilować z polskim otoczeniem. Polityka ta wpisywała się w szerszą stalinowską przebudowę etniczną Europy Środkowej.
+## Jaworzno
+Inteligencję, księży greckokatolickich i podejrzanych o współpracę z UPA kierowano do Centralnego Obozu Pracy w Jaworznie, urządzonego w dawnej filii KL Auschwitz. Trafiło tam około 3873 osób, w tym 2781 Ukraińców; ponad 150 zmarło.
 
-**Pamięć i ocena:**
-Przez dekady Akcja Wisła była tematem tabu w PRL. Dopiero po 1989 roku możliwa stała się pełna dyskusja historyczna. W 1990 roku Senat RP potępił Akcję Wisłę. W 2021 roku Sejm przyjął uchwałę uznającą ją za zbrodnię.`,
-    trivia: ['W ramach akcji przesiedlono ponad sto tysięcy osób.', 'Ludność rozproszono po Ziemiach Zachodnich i Północnych, by uniemożliwić odtworzenie wspólnot.'],
+## Pamięć
+W PRL temat był przemilczany. W 1990 roku akcję potępił Senat RP, w 2002 roku prezydent Aleksander Kwaśniewski wyraził ubolewanie, a w 2007 roku prezydenci Lech Kaczyński i Wiktor Juszczenko we wspólnym oświadczeniu uznali ją za sprzeczną z podstawowymi prawami człowieka.`,
+    trivia: [
+      'Akcja zaczęła się 28 kwietnia 1947 roku o czwartej nad ranem.',
+      'Przesiedleńców osiedlano z dala od granic i miast wojewódzkich, rodziny „podejrzane” – najwyżej po jednej na wieś.',
+      'Obóz w Jaworznie, do którego trafiali wysiedleni, mieścił się w dawnej filii KL Auschwitz.',
+    ],
     resources: [
       {
         id: 'wisla-1',
@@ -3227,28 +3234,25 @@ Przez dekady Akcja Wisła była tematem tabu w PRL. Dopiero po 1989 roku możliw
     summary: 'Plan sześcioletni (1950–1955) – stalinowski plan przebudowy gospodarczej Polski wzorowany na sowieckich planach pięcioletnich. Kładł nacisk na ciężki przemysł i zbrojenia kosztem konsumpcji, rolnictwa i standardu życia. Jego realizacja powiązana była z rozbudową Nowej Huty i kolektywizacją wsi.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Hilary_Minc_1950.jpg?width=800',
     imageCaption: 'Hilary Minc, twórca planu sześcioletniego, 1950',
-    content: `Plan sześcioletni – oficjalnie "Plan rozwoju gospodarczego i budowy podstaw socjalizmu w Polsce na lata 1950–1955" – uchwalony przez Sejm w lipcu 1950 roku. Zakładał ponad dwukrotne zwiększenie produkcji przemysłowej, przede wszystkim w branżach: hutnictwo, górnictwo, energetyka i przemysł maszynowy.
+    content: `## Uchwalenie
+Plan sześcioletni, oficjalnie plan „budowy podstaw socjalizmu”, przyjął Sejm Ustawodawczy w przeddzień 22 lipca 1950 roku. Wytyczne sformułowano na Kongresie Zjednoczeniowym PPR i PPS w grudniu 1948 roku, a plan opracował zespół ekonomistów z Hilarym Mincem na czele. Zastąpił plan trzyletni, jedyny w pełni zrealizowany plan PRL.
 
-**Priorytety i założenia:**
-- Wzrost produkcji przemysłowej o 158%
-- Inwestycje w przemysł ciężki (zbrojenia, stal, węgiel)
-- Zaniedbanie przemysłu lekkiego i rolnictwa
-- Budownictwo mieszkaniowe w socrealistycznym stylu
-- Kolektywizacja wsi jako element planu
+## Założenia
+Priorytetem była intensywna industrializacja na wzór radziecki, zwłaszcza przemysł ciężki i metalowy. Produkcja przemysłowa miała wzrosnąć o 85–95 procent, rolna o 35–45 procent. W związku z wojną koreańską plan wielokrotnie zmieniano, zwiększając nakłady na przemysł ciężki i zbrojeniowy; zrealizowano go tylko częściowo.
 
-**Główne inwestycje:**
-- Huta im. Lenina w Nowej Hucie (największa w Polsce)
-- Rozbudowa kopalni węgla na Śląsku
-- Zakłady Cegielskiego w Poznaniu
-- FSO – Fabryka Samochodów Osobowych w Warszawie (Syrena)
-- Elektrownie i linie energetyczne
+## Inwestycje
+Sztandarową budową był kombinat metalurgiczny w Nowej Hucie. Rozbudowywano górnictwo, energetykę i przemysł maszynowy; w Warszawie ruszyła Fabryka Samochodów Osobowych. Rozbudowa miast w mniejszym stopniu służyła poprawie warunków życia, a w większym – propagandzie.
 
-**Konsekwencje społeczne:**
-Realizacja planu wymagała ogromnych wyrzeczeń. Normy pracy rosły, płace realne spadały, w sklepach brakowało towarów. W 1951 roku wprowadzono system kart na żywność. Mieszkania dla robotników budowano na potęgę, ale skromne, małe, w odległych od centrum blokowiskach.
+## Koszt
+Ceną industrializacji był niski wzrost poziomu życia, zaniedbane budownictwo mieszkaniowe i przemysł lekki. W 1951 roku wrócił system kartkowy na mięso i tłuszcze, zniesiony w styczniu 1953 roku wraz z drastyczną podwyżką cen. Na wsi prowadzono przymusową kolektywizację.
 
-**Czerwiec 1956 – rachunek za plan:**
-Wybuch robotniczego buntu w Poznaniu w czerwcu 1956 roku był bezpośrednią reakcją na przeciążenie normami pracy i pauperyzację robotników. Strajkujący krzyczeli: "Chleba i wolności!"`,
-    trivia: ['Plan na lata 1950–1955 stawiał na przemysł ciężki kosztem dóbr konsumpcyjnych.', 'Jego symbolami stały się Nowa Huta i Pałac Kultury.'],
+## Skutki społeczne
+Migracja ze wsi do miast znacząco zwiększyła liczbę robotników. Zmęczenie wyrzeczeniami, normami i niskimi płacami było jedną z przyczyn Poznańskiego Czerwca 1956 roku, a po Październiku władze zmniejszyły nakłady na przemysł ciężki na rzecz konsumpcji.`,
+    trivia: [
+      'Plan uchwalono w przeddzień 22 lipca 1950 roku – Narodowego Święta Odrodzenia Polski.',
+      'Pierwotnie produkcja przemysłowa miała wzrosnąć o 85–95 procent; po wybuchu wojny koreańskiej zwiększano nakłady na przemysł ciężki i zbrojeniowy.',
+      'Symbolem planu stał się kombinat metalurgiczny w Nowej Hucie.',
+    ],
     resources: [
       {
         id: 'plan-szescioletni-pkf',
@@ -3505,23 +3509,28 @@ Po upadku systemów komunistycznych w regionie struktury wojskowe układu rozwi�
     category: 'polityka',
     tags: ['referendum 1946', 'PPR', 'Mikołajczyk', 'PSL', 'fałszerstwo', 'trzy razy tak'],
     yearStart: 1946,
-    summary: 'Referendum z 30 czerwca 1946 roku – pierwsze wielkie fałszerstwo wyborcze w powojennej Polsce. Komuniści sfałszowali wyniki, podając 68% głosów na TAK przy trzech pytaniach. W rzeczywistości większość Polaków głosowała zgodnie z apelem PSL: TAK–NIE–TAK. Był to wstęp do przejęcia pełni władzy.',
+    summary: 'Referendum z 30 czerwca 1946 roku – pierwsze wielkie fałszerstwo PRL: oficjalnie 68 procent TAK na pytanie o Senat, naprawdę według poufnych danych PPR – 26,9 procent.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tablice_referendum_1946_Warszawa.jpg?width=800',
     imageCaption: 'Tablice propagandowe przed referendum 30 czerwca 1946 w Warszawie',
-    content: `Referendum ludowe przeprowadzono 30 czerwca 1946 roku. Postawiło trzy pytania:
-1. Czy jesteś za zniesieniem Senatu?
-2. Czy chcesz utrwalenia w przyszłej konstytucji ustroju gospodarczego, zaprowadzonego przez reformę rolną i unarodowienie podstawowych gałęzi gospodarki narodowej?
-3. Czy chcesz utrwalenia zachodnich granic Państwa Polskiego na Bałtyku, Odrze i Nysie Łużyckiej?
+    content: `## Trzy pytania
+Referendum odbyło się 30 czerwca 1946 roku na podstawie ustaw uchwalonych przez KRN w kwietniu. Pytano: czy jesteś za zniesieniem Senatu; czy chcesz utrwalenia ustroju gospodarczego wprowadzonego przez reformę rolną i nacjonalizację; czy chcesz utrwalenia zachodnich granic na Bałtyku, Odrze i Nysie Łużyckiej. Pytania sformułowano tak, by intuicyjną odpowiedzią było TAK. PPR traktowała głosowanie jako sprawdzian sił i sposób odwleczenia wolnych wyborów.
 
-**Kampania i taktyka:**
-Polskie Stronnictwo Ludowe (PSL) Mikołajczyka wezwało do głosowania TAK–NIE–TAK (przeciw zniesieniu Senatu jako hamulca bezpieczeństwa). PPR i jej sojusznicy propagowali trzy razy TAK. Kampania przebiegała w atmosferze terroru – działaczy PSL bito, aresztowano i mordowano.
+## Kampania
+Blok Demokratyczny – PPR, PPS, SD i SL – wzywał do głosowania „3 razy TAK”. PSL Stanisława Mikołajczyka zaapelowało o odpowiedź NIE na pierwsze pytanie, choć zniesienie Senatu przed wojną samo postulowało – chodziło o pokazanie swojej siły. Podziemie niepodległościowe wzywało do odpowiedzi NIE na dwa lub wszystkie trzy pytania. Episkopat zaapelował o TAK w sprawie granic. Państwowa Komisja Bezpieczeństwa koordynowała działania wojska, KBW, UB, MO i ORMO przeciw opozycji.
 
-**Fałszerstwo:**
-Wyniki ogłoszone przez władze: 68% TAK na pierwsze pytanie. Dokumenty odkryte po 1989 roku potwierdziły, że autentyczne wyniki wyglądały odwrotnie – w rzeczywistości większość głosowała NIE na pierwsze pytanie (ok. 73% według szacunków). Fałszerstwa dokonano przy udziale sowieckiego NKWD.
+## Fałszerstwo
+Fałszowaniem kierowała ekipa sowieckiego MGB płk. Arona Pałkina. Napisano od nowa 5994 protokoły i podrobiono około 40 tysięcy podpisów członków komisji; pozostałe protokoły sfałszowało UB. Oficjalnie na pierwsze pytanie TAK odpowiedziało 68 procent głosujących, według poufnych danych PPR – 26,9 procent. Na drugie: oficjalnie 77,1, naprawdę 42 procent; na trzecie: 91,4 wobec 66,9 procent.
 
-**Konsekwencje:**
-Oszukańcze referendum utorowało drogę do sfałszowanych wyborów w styczniu 1947 roku i pełnego przejęcia władzy przez komunistów. PSL i Mikołajczyk zostali politycznie rozbici. W 1947 roku Mikołajczyk uciekł z Polski.`,
-    trivia: ['Propaganda promowała hasło „3 razy tak”.', 'Wyniki sfałszowano; prawdziwe liczby ujawniono dopiero po 1989 roku.'],
+## Cenzura wyników
+Wyników z obwodów nie wolno było publikować. Wyjątkiem był krakowski „Naprzód”, który podał, że w Krakowie 84 procent głosujących odpowiedziało NIE na pierwsze pytanie. Gdy Mikołajczyk protestował w rządzie przeciw zakazowi, Władysław Gomułka odparł: „Leć pan na skargę do Churchilla”.
+
+## Konsekwencje
+Referendum było próbą generalną przed sfałszowanymi wyborami w styczniu 1947 roku. Pałkin dostał za nie Order Czerwonego Sztandaru. Prawdziwe wyniki ujawnił w 1993 roku Andrzej Paczkowski na podstawie tzw. archiwum Bieruta.`,
+    trivia: [
+      'Według poufnych danych PPR na pierwsze pytanie TAK odpowiedziało tylko 26,9 procent głosujących – oficjalnie ogłoszono 68 procent.',
+      'Sowiecka ekipa płk. Pałkina napisała od nowa 5994 protokoły i podrobiła około 40 tysięcy podpisów.',
+      'Na protest Mikołajczyka Gomułka odpowiedział: „Leć pan na skargę do Churchilla”.',
+    ],
     resources: [
       {
         id: 'ref-pkf',
@@ -3649,21 +3658,26 @@ Prawdziwego wyniku nie da się odtworzyć. W stu obwodach, z których zachowały
     tags: ['Marzec 1968', 'antysemityzm', 'emigracja', 'Żydzi', 'Moczar', 'partyzanci'],
     yearStart: 1968,
     yearEnd: 1969,
-    summary: 'Po Marcu 1968 roku reżim komunistyczny pod przywództwem frakcji Mieczysława Moczara przeprowadził antysemicką kampanię propagandową, zmuszając blisko 15 000 polskich Żydów do emigracji. Była to ostatnia wielka fala emigracji żydowskiej z Polski i hańba systemu komunistycznego.',
-    content: `Marzec 1968 był nie tylko stłumieniem studenckiego buntu – stał się pretekstem do zorganizowanej kampanii antysemickiej kierowanej przez frakcję "partyzantów" Mieczysława Moczara w aparacie partyjnym.
+    summary: 'Wymuszona emigracja po Marcu 1968 – w wyniku kampanii „antysyjonistycznej” z Polski wyjechało od 13 do 20 tysięcy osób, głównie pochodzenia żydowskiego, zmuszonych do zrzeczenia się obywatelstwa.',
+    content: `## Przed Marcem
+Po 1956 roku władze zezwoliły na emigrację ludności żydowskiej i wyjechało około 42 tysięcy osób. W przededniu 1967 roku w Polsce żyło około 25 tysięcy Żydów i kilkadziesiąt tysięcy osób o żydowskich korzeniach, często nieświadomych swego pochodzenia. Od początku lat 60. frakcja „partyzantów” Mieczysława Moczara usuwała osoby pochodzenia żydowskiego z wojska i MSW.
 
-**Kampania "antysyjonistyczna":**
-Po proteście studentów w marcu 1968 roku władze ogłosiły, że za zamieszkami stoją "syjoniści" i "wichrzyciele" powiązani z Izraelem (po wojnie sześciodniowej 1967 roku ZSRR zerwał stosunki z Izraelem). Propaganda atakowała Żydów jako piątą kolumnę wrogich sił.
+## Kampania „antysyjonistyczna”
+Po wojnie sześciodniowej w czerwcu 1967 roku Polska zerwała stosunki z Izraelem, a Gomułka mówił o „piątej kolumnie”. Po protestach studenckich w marcu 1968 roku propaganda ogłosiła, że stoją za nimi „syjoniści”. Na wiecach skandowano „Syjoniści do Syjonu”, a z PZPR wyrzucono ponad 8 tysięcy członków.
 
-**Czystki:**
-Ze stanowisk usuwano Żydów w wojsku, nauce, kulturze i partii. Zmuszano ich do "dobrowolnego" wystąpienia z PZPR. Wielu traciło pracę, mieszkanie, paszport. Wymagano od nich publicznych deklaracji lojalności lub emigracji.
+## Czystki
+Ludzi pochodzenia żydowskiego zwalniano z wojska, urzędów, mediów, szkół, szpitali i uczelni. Z uniwersytetów usunięto m.in. Zygmunta Baumana, Leszka Kołakowskiego, Bronisława Baczkę i Włodzimierza Brusa. Kampania zaczęła wygasać w połowie 1968 roku, gdy Gomułka polecił ją zakończyć.
 
-**Skala emigracji:**
-W latach 1968–1970 Polskę opuściło ok. 13 000–15 000 obywateli żydowskiego pochodzenia. Wyjazdom towarzyszyły upokarzające warunki: emigranci musieli zrzekać się obywatelstwa polskiego i podpisywać oświadczenia, że wyjeżdżają "na zawsze". Zabierali minimalne mienie.
+## Wyjazd bez powrotu
+Według różnych źródeł w 1968 roku wyjechało od 13 do 20 tysięcy osób. By dostać zgodę, trzeba było złożyć podanie do Rady Państwa o zrzeczenie się obywatelstwa. Zamiast paszportu wydawano dokument podróży ważny tylko na wyjazd, z Izraelem jako celem. Działania władz były nielegalne w świetle prawa polskiego i międzynarodowego.
 
-**Ocalałe społeczności:**
-Po emigracji 1968 roku żydowska społeczność w Polsce została praktycznie zlikwidowana. Przed wojną mieszkało w Polsce ponad 3 miliony Żydów – po Holokauście ok. 250 000. Po kolejnych falach emigracji (1946–1947, 1956–1958, 1968–1970) pozostały zaledwie tysiące.`,
-    trivia: ['Wyjeżdżający otrzymywali dokument podróży bez prawa powrotu do kraju.', 'Polskę opuściło wtedy kilkanaście tysięcy osób pochodzenia żydowskiego.'],
+## Dworzec Gdański
+Symbolem wyjazdów stał się warszawski Dworzec Gdański – ten sam, z którego w czasie wojny odchodziły transporty do Treblinki. Wyjechali m.in. Aleksander Ford, Jan Kott i Arnold Słucki, a rozpadły się żydowskie zespoły muzyczne, jak szczecińscy Następcy Tronów.`,
+    trivia: [
+      'Wyjeżdżający dostawali dokument podróży ważny tylko na wyjazd, bez prawa powrotu.',
+      'Z Dworca Gdańskiego, symbolu emigracji marcowej, w czasie wojny odchodziły transporty do Treblinki.',
+      'Po 1956 roku z Polski wyjechało około 42 tysięcy Żydów, a w 1967 roku zostało ich około 25 tysięcy.',
+    ],
     resources: [
       {
         id: 'em68-pkf',
@@ -3886,26 +3900,28 @@ Za sukcesami stało zawodowe podejście, świetni trenerzy i system wyławiania 
     tags: ['Fiat 126p', 'Maluch', 'FSM', 'Bielsko-Biała', 'Tychy', 'motoryzacja', 'Gierek'],
     yearStart: 1973,
     yearEnd: 2000,
-    summary: 'Fiat 126p – popularnie zwany Maluchem – mały samochód osobowy produkowany w FSM Bielsko-Biała i Tychach od 1973 do 2000 roku. Przez dwie dekady symbol osiągalnego marzenia i polskiej codzienności. Na Malucha czekało się latami – był symbolem konsumpcyjnych aspiracji klasy średniej PRL.',
+    summary: 'Fiat 126p – Maluch, produkowany na włoskiej licencji w Bielsku-Białej i Tychach od 1973 do 2000 roku w ponad 3,3 miliona egzemplarzy; samochód, który zmotoryzował Polskę.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Fiat%20126p%20EL.JPG?width=800',
     imageCaption: 'Fiat 126p „Maluch” – ikona motoryzacji PRL.',
-    trivia: ['„Maluch” napędzał dwucylindrowy silnik o pojemności około 600 cm³, umieszczony z tyłu.', 'Na samochód czekało się latami – trzeba było zdobyć talon i wpłacić zaliczkę z wyprzedzeniem.', 'Mała kabina sprawiała, że upakowanie czteroosobowej rodziny z bagażem było sztuką.'],
-    content: `Fiat 126p powstał na bazie umowy licencyjnej z włoskim Fiatem, podpisanej przez Edwarda Gierka w 1971 roku. Produkcję uruchomiono w 1973 roku w bielskiej Fabryce Samochodów Małolitrażowych (FSM), a od 1975 roku także w Tychach.
+    trivia: [
+      'Licencję na Malucha spłacano dostawami 820 tysięcy zespołów napędowych dla Fiata.',
+      'Przy pierwszych przedpłatach w 1973 roku Maluch kosztował 69 tysięcy złotych.',
+      'W Polsce zbudowano 3 318 674 Fiaty 126p – więcej niż we Włoszech, gdzie produkcję zakończono w 1980 roku.',
+    ],
+    content: `## Licencja
+Umowę licencyjną z Fiatem na model 126 podpisało 29 października 1971 roku przedsiębiorstwo handlu zagranicznego Pol-Mot. Licencję spłacano dostawami 820 tysięcy zespołów napędowych dla Włoch i 50 tysięcy samochodów dla sieci Fiata. 1 stycznia 1972 roku powstała Fabryka Samochodów Małolitrażowych.
 
-**Techniczne cechy:**
-Silnik 600 cc (później 650 cc) chłodzony powietrzem, umieszczony z tyłu. Cztery miejsca, pojemny bagażnik z przodu. Prędkość maksymalna ok. 110 km/h. Zużycie paliwa ok. 6 litrów na 100 km.
+## Przedpłaty
+5 lutego 1973 roku PKO zaczęło przyjmować przedpłaty na Malucha. Cenę ustalono na 69 tysięcy złotych, a samochody miały trafić do klientów do 1977 roku albo wcześniej – w drodze losowania. Produkcja ruszyła 6 czerwca 1973 roku w Bielsku-Białej, a później także w Tychach.
 
-**Kupowanie Malucha:**
-Na Fiat 126p czekano latami – zapisy na listę oczekujących prowadziły zakłady pracy. Samochód kosztował tyle, co kilkanaście miesięcznych pensji. Posiadanie Malucha było oznaką statusu społecznego i dowodem zapobiegliwości.
+## Technika
+Maluch był następcą Fiata 500. Miał chłodzony powietrzem silnik umieszczony z tyłu – najpierw 600, od 1977 roku 650 centymetrów sześciennych – i bagażnik z przodu. W 1976 roku zachodnioniemiecki „Auto motor und sport” uznał go za najtańszy w zakupie i eksploatacji mały samochód w Europie.
 
-**Kultura Malucha:**
-Małe auto stało się częścią polskiej kultury popularnej – pojawiało się w filmach, kabaretach, piosenkach. "Maluch" jako wyraz wszedł do potocznego języka. W czasach stanu wojennego służył do transportowania ulotek podziemia.
+## Samochód, który zmotoryzował Polskę
+Włosi zakończyli produkcję w 1980 roku, a FSM została wyłącznym producentem. 15 października 1981 roku w Tychach zjechał z taśmy milionowy Fiat 126p. W latach 1975–1992 wyeksportowano prawie 900 tysięcy aut. Maluch stał się samochodem, który zmotoryzował polskie społeczeństwo, a zdobycie go wymagało lat oczekiwania, przedpłat i talonów.
 
-**Rekord produkcji:**
-Łącznie wyprodukowano ponad 3,3 miliona egzemplarzy Fiata 126p – jeden z najwyższych wyników produkcji samochodu osobowego w Polsce. Produkcja zakończyła się 22 września 2000 roku.
-
-**Po 1989 roku:**
-Po upadku PRL Maluch stał się tanim środkiem transportu, a później obiektem nostalgii i kultowym pojazdem. Dziś dobrze zachowane egzemplarze są kolekcjonerskimi rarytasami.`,
+## Koniec
+Produkcję zakończono 22 września 2000 roku. W Polsce zbudowano 3 318 674 Maluchy – 1 152 325 w Bielsku-Białej i 2 166 349 w Tychach. Dziś są obiektem nostalgii i kolekcjonerskim rarytasem.`,
     resources: [
       {
         id: 'fiat-126p-pkf',
@@ -6216,23 +6232,28 @@ Po 13 grudnia 1981 roku NSZZ RI zdelegalizowano wraz z innymi strukturami Solida
     tags: ['PGWN', 'Sowieci', 'wojsko', 'bazy', 'obecność', 'Legnica', 'suwerenność'],
     yearStart: 1945,
     yearEnd: 1993,
-    summary: 'Północna Grupa Wojsk (PGWN) – stacjonujące w Polsce oddziały Armii Sowieckiej, obecne od 1945 do 1993 roku. Liczyły w szczytowym momencie ok. 60 000 żołnierzy. Ich obecność była namacalnym symbolem braku suwerenności PRL i radzieckiej dominacji nad krajem.',
+    summary: 'Północna Grupa Wojsk – wojska radzieckie stacjonujące w Polsce od 1945 do 1993 roku, liczące około 60 tysięcy żołnierzy; namacalny znak ograniczonej suwerenności PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Komendantura_Wermachtu%2C_obecnie_ZUS%2C_Legnica%2C_ul._Grabskiego_26_%28VII%29.JPG?width=800',
     imageCaption: 'Legnica, dawna komendantura garnizonu – miasto było siedzibą dowództwa Północnej Grupy Wojsk Armii Radzieckiej',
-    content: `Po zakończeniu II wojny światowej wojska sowieckie pozostały na terytorium Polski. Formalnie uzasadniano to koniecznością zabezpieczenia szlaków komunikacyjnych do Niemiec i "gwarancją bezpieczeństwa" bloku wschodniego. W rzeczywistości była to militarna gwarancja sowieckiej dominacji.
+    content: `## Powstanie
+Północną Grupę Wojsk utworzono dyrektywą radzieckiego naczelnego dowództwa z 29 maja 1945 roku z jednostek 2 Frontu Białoruskiego. Jej granice pokrywały się z granicami Polski. Sztab mieścił się przez większość czasu w Legnicy. Oficjalnie wojska miały zabezpieczać szlaki komunikacyjne do radzieckiej strefy okupacyjnej Niemiec; w praktyce były gwarancją radzieckiej dominacji.
 
-**Struktura i bazy:**
-Główna kwatera PGWN mieściła się w Legnicy (dawny Liegnitz). Żołnierze sowieccy stacjonowali w kilkudziesięciu garnizonach na terenie całej Polski – m.in. w Bornem Sulinowie, Szprotawie, Świdnicy, Kluczewie. Bazy były eksterytorialne – polskie organy władzy nie miały do nich wstępu.
+## Umowa z 1956 roku
+Po Październiku 1956 roku Polska i ZSRR podpisały 17 grudnia umowę o statusie wojsk radzieckich „czasowo stacjonujących” w Polsce – po dwunastu latach ich obecności bez podstawy prawnej. W 1957 roku ustalono ich liczebność na 62–66 tysięcy żołnierzy. Ich zaopatrzeniem zajmowało się specjalne przedsiębiorstwo handlu zagranicznego „Marko”.
 
-**Status prawny:**
-Podstawą prawną była umowa polsko-sowiecka z 1956 roku. Żołnierze sowieccy nie podlegali polskiemu sądownictwu – za przestępstwa (kradzieże, napaści, wypadki drogowe) odpowiadali przed sądami sowieckimi, co prowadziło do faktycznej bezkarności.
+## Garnizony
+Od 1960 roku Grupę stanowiły dwie dywizje pancerne – w Świętoszowie i Bornem Sulinowie – oraz lotnictwo i jednostki marynarki. Garnizony były zamkniętymi enklawami, często nieobecnymi na mapach. 1 stycznia 1989 roku PGW liczyła według danych radzieckich 59 053 żołnierzy.
 
-**Wpływ na suwerenność:**
-Obecność PGWN była stałym przypomnieniem ograniczonej suwerenności PRL. W 1956 i 1980–1981 roku możliwość interwencji sowieckich wojsk była realna – wiedziały o tym obie strony. Gorbaczow i doktryna nieinterwencji zmieniły tę sytuację.
+## Wpływ na suwerenność
+Obecność radzieckich wojsk przypominała o ograniczonej suwerenności PRL. W 1956 i w latach 1980–1981 możliwość ich użycia była realna i obie strony o tym wiedziały. Dopiero polityka Gorbaczowa zmieniła tę sytuację.
 
-**Wycofanie:**
-Negocjacje o wycofaniu wojsk sowieckich rozpoczęły się w 1990 roku. Ostatni żołnierz sowiecki opuścił Polskę 17 września 1993 roku – data ta była symboliczna, bo 17 września 1939 roku ZSRR zaatakował Polskę.`,
-    trivia: ['Wojska radzieckie stacjonowały w Polsce nieprzerwanie od 1945 roku.', 'Ostatni żołnierze opuścili kraj dopiero w 1993 roku.'],
+## Wycofanie
+Wojska wycofywano od 1991 roku. 17 września 1993 roku – w rocznicę sowieckiej agresji z 1939 roku – prezydent Lech Wałęsa pożegnał w Belwederze ostatnią grupę. Następnego dnia rano pociąg z ostatnimi 24 żołnierzami wyjechał z Warszawy i przekroczył granicę w Terespolu.`,
+    trivia: [
+      'Umowę o statusie wojsk radzieckich w Polsce podpisano dopiero w grudniu 1956 roku – po dwunastu latach ich pobytu.',
+      '1 stycznia 1989 roku Północna Grupa Wojsk liczyła 59 053 żołnierzy.',
+      'Ostatni pociąg z 24 żołnierzami radzieckimi przekroczył granicę w Terespolu 18 września 1993 roku.',
+    ],
     resources: [
       {
         id: 'pgwn-1',
