@@ -1795,18 +1795,28 @@ Dla setek tysięcy mężczyzn armia oznaczała dwuletnią służbę zasadniczą.
     summary: 'Stefan Wyszyński, Prymas Polski w latach 1948–1981, był najważniejszą postacią polskiego Kościoła katolickiego w okresie PRL. Uwięziony przez władze komunistyczne w latach 1953–1956, stał się symbolem oporu wobec ateizacji i prześladowań religijnych. Jego Śluby Jasnogórskie i Wielka Nowenna umocniły religijną tożsamość Polaków.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stefan%20Wyszy%C5%84ski.jpg?width=800',
     imageCaption: 'Kardynał Stefan Wyszyński, Prymas Tysiąclecia.',
-    content: `**Nominacja i pierwsze lata** — Stefan Wyszyński urodził się 3 sierpnia 1901 r. w Zuzeli nad Bugiem. Mianowany arcybiskupem gnieźnieńskim i warszawskim 12 listopada 1948 r. oraz Prymasem Polski. W 1950 r. wynegocjował z władzami PRL porozumienie regulujące stosunki państwo–Kościół. Władze komunistyczne systematycznie łamały jego postanowienia.
+    content: `## Droga do prymasostwa
+Stefan Wyszyński urodził się 3 sierpnia 1901 roku w Zuzeli nad Bugiem. Przed wojną zajmował się katolicką nauką społeczną, w czasie okupacji był m.in. kapelanem Zakładu dla Niewidomych w Laskach. W 1946 roku został biskupem lubelskim, a 12 listopada 1948 roku, zgodnie z ostatnią wolą kardynała Augusta Hlonda, arcybiskupem gnieźnieńskim i warszawskim oraz prymasem Polski.
 
-**Non possumus** — W maju 1953 r., w odpowiedzi na dekret podporządkowujący obsadę stanowisk kościelnych państwu, Konferencja Episkopatu wystosowała memoriał **Non possumus** — „Nie możemy" — odmawiający podporządkowania Kościoła władzy świeckiej w sprawach wiary i administracji kościelnej.
+## Porozumienie 1950
+Z inicjatywy Wyszyńskiego Episkopat zawarł 14 kwietnia 1950 roku porozumienie z władzami komunistycznymi – pierwsze takie w historii Kościoła w kraju komunistycznym. Miało zapewnić Kościołowi swobodę działania, ale władze wkrótce zaczęły je łamać. 12 stycznia 1953 roku Wyszyński został kardynałem.
 
-**Uwięzienie 1953–1956** — 25 września 1953 r. funkcjonariusze UB aresztowali Prymasa i przewieźli go kolejno do Rywałdu Królewskiego, Stoczka Warmińskiego, Prudnika i Komańczy. Internowanie trwało ponad trzy lata — do 26 października 1956 r. W Komańczy napisał tekst **Ślubów Jasnogórskich**, które 26 sierpnia 1956 r. odczytano wobec miliona pielgrzymów na Jasnej Górze.
+## Non possumus i uwięzienie
+8 maja 1953 roku Episkopat skierował do rządu list „Non possumus” – „Nie możemy” – sprzeciwiający się podporządkowaniu obsady stanowisk kościelnych państwu. Wieczorem 25 września 1953 roku prymasa zatrzymano. Więziono go kolejno w Rywałdzie, Stoczku Klasztornym, Prudniku i Komańczy. W Komańczy, pod wpływem lektury „Potopu”, napisał tekst Jasnogórskich Ślubów Narodu, które 26 sierpnia 1956 roku odczytano wobec około miliona pielgrzymów na Jasnej Górze.
 
-**Wielka Nowenna i Millennium** — Po uwolnieniu Wyszyński ogłosił program **Wielkiej Nowenny** (1957–1966) — dziewięcioletniego przygotowania do tysiąclecia chrztu Polski. Kulminacją były uroczystości milenijne 3 maja 1966 r. na Jasnej Górze, zbojkotowane przez władze PRL, które organizowały konkurencyjne uroczystości „tysiąclecia państwa polskiego".
+## Powrót
+Po Październiku, 26 października 1956 roku, Wyszyński wrócił do Warszawy. W ramach kompromisu z ekipą Gomułki do swoich diecezji wróciło 14 biskupów, a prymas wezwał wiernych do udziału w wyborach w styczniu 1957 roku.
 
-**Rola mediatora** — Prymas odgrywał rolę stabilizatora w kolejnych kryzysach politycznych: Październiku 1956, Marcu 1968, Grudniu 1970 i Czerwcu 1976. W sierpniu 1980 r. popierał prawo robotników do wolnych związków zawodowych, jednocześnie wzywając do odpowiedzialności i spokoju.
+## Wielka Nowenna i Millennium
+W latach 1957–1966 prowadził Wielką Nowennę Tysiąclecia – dziewięcioletnie przygotowanie do jubileuszu chrztu Polski. Władze nie zgodziły się na przyjazd papieża Pawła VI na główne uroczystości 3 maja 1966 roku na Jasnej Górze i organizowały konkurencyjne obchody Tysiąclecia Państwa Polskiego.
 
-**Śmierć i beatyfikacja** — Stefan Wyszyński zmarł 28 maja 1981 r. w Warszawie. Beatyfikowany przez papieża Franciszka 12 września 2021 r. Tytuł „Prymasa Tysiąclecia" nadany mu przez Jana Pawła II oddaje wyjątkową rolę w zachowaniu tożsamości narodowej Polaków.`,
-    trivia: ['Był więziony przez władze w latach 1953–1956.', 'Przygotował Wielką Nowennę – dziewięcioletni program przed Milenium Chrztu Polski.'],
+## Ostatnie lata
+W kolejnych kryzysach prymas łączył obronę praw społeczeństwa z wezwaniami do rozwagi; w 1980 roku wspierał prawo robotników do niezależnych związków. Zmarł 28 maja 1981 roku w Warszawie, dwa tygodnie po zamachu na Jana Pawła II. Nazywany Prymasem Tysiąclecia, został beatyfikowany 12 września 2021 roku.`,
+    trivia: [
+      'Tekst Ślubów Jasnogórskich wyniesiono z Komańczy w tajemnicy – kurierka schowała go pod bluzką.',
+      'W czasie uwięzienia przewożono go kolejno do Rywałdu, Stoczka Klasztornego, Prudnika i Komańczy.',
+      'Porozumienie z 1950 roku było pierwszym w historii układem Kościoła z władzami państwa komunistycznego.',
+    ],
     resources: [
       {
         id: 'wyszynski-jasnogorskie-sluby-narodu-po',
@@ -2000,20 +2010,28 @@ Skrót wszedł do polszczyzny jako synonim przemocy państwa, a rozwinięcia w r
     summary: 'Karol Józef Wojtyła wybrany 16 października 1978 r. na papieża jako Jan Paweł II był pierwszym Papieżem z Polski. Jego trzy pielgrzymki do ojczyzny (1979, 1983, 1987) i słowa „Niech zstąpi Duch Twój i odnowi oblicze ziemi, tej ziemi" odegrały przełomową rolę w przebudzeniu Polaków i narodzinach Solidarności.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Pawe%C5%82%20II.jpg?width=800',
     imageCaption: 'Jan Paweł II – papież, którego pielgrzymki odmieniły PRL.',
-    trivia: ['Podczas I pielgrzymki w 1979 roku na placu Zwycięstwa padły słowa: „Niech zstąpi Duch Twój i odnowi oblicze ziemi. Tej ziemi!”.', 'Na powitanie papieża w Polsce wyległy miliony ludzi – było to największe zgromadzenie w dziejach kraju.'],
-    content: `**Droga do papiestwa** — Karol Józef Wojtyła urodził się 18 maja 1920 r. w Wadowicach. Wyświęcony na kapłana w 1946 r., mianowany biskupem pomocniczym krakowskim w 1958 r., arcybiskupem metropolitą krakowskim w 1964 r., kardynałem w 1967 r. 16 października 1978 r. konklawe wybrało go papieżem.
+    trivia: [
+      'Podczas I pielgrzymki w 1979 roku na placu Zwycięstwa padły słowa: „Niech zstąpi Duch Twój i odnowi oblicze ziemi. Tej ziemi!”.',
+      'Został wybrany w ósmym głosowaniu – nie był wymieniany wśród faworytów konklawe.',
+      'W czasie II pielgrzymki w 1983 roku spotkał się z Lechem Wałęsą w Tatrach.',
+    ],
+    content: `## Z Wadowic do Krakowa
+Karol Józef Wojtyła urodził się 18 maja 1920 roku w Wadowicach. W czasie okupacji pracował fizycznie, grał w konspiracyjnym teatrze, a w 1942 roku wstąpił do tajnego seminarium duchownego. 1 listopada 1946 roku kardynał Adam Sapieha wyświęcił go na księdza. W 1958 roku został biskupem pomocniczym krakowskim, w 1964 roku arcybiskupem metropolitą krakowskim, a w 1967 roku kardynałem. Uczestniczył w obradach Soboru Watykańskiego II.
 
-**Reakcja władz PRL** — Notka informacyjna KGB oceniała Wojtyłę jako „największe niebezpieczeństwo dla obozu socjalistycznego". Edward Gierek, informowany przez premiera, miał powiedzieć: „Boże, cóż nam się przydarzyło".
+## Papież z Polski
+16 października 1978 roku, w ósmym głosowaniu, konklawe wybrało go na papieża – był pierwszym Polakiem na tronie Piotrowym i pierwszym od ponad czterech stuleci papieżem spoza Włoch. Dla władz PRL był to szok: w kraju rządzonym przez ateistyczną partię głową Kościoła powszechnego został Polak.
 
-**Pierwsza pielgrzymka, 2–10 czerwca 1979** — Przełom w historii PRL. Podczas mszy na Placu Zwycięstwa w Warszawie Jan Paweł II wygłosił słowa: **„Niech zstąpi Duch Twój i odnowi oblicze ziemi, tej ziemi"** — odebrane jako wezwanie do moralnej odnowy narodu. Łącznie wzięło w niej udział 10–13 milionów Polaków. Pielgrzymka psychologicznie przygotowała grunt pod Sierpień 1980.
+## Pierwsza pielgrzymka, 1979
+2–10 czerwca 1979 roku Jan Paweł II odwiedził Polskę. Na placu Zwycięstwa w Warszawie wołał: „Niech zstąpi Duch Twój i odnowi oblicze ziemi. Tej ziemi!”. Na spotkania z papieżem przyszły miliony ludzi, którzy po raz pierwszy w PRL zobaczyli, jak wielu ich jest. Pielgrzymka jest uznawana za jeden z warunków wstępnych narodzin „Solidarności” rok później.
 
-**Zamach 1981** — 13 maja 1981 r. Mehmet Ali Ağca postrzelił Jana Pawła II na Placu św. Piotra. Papież przeżył. W śledztwie pojawiły się powiązania z bułgarską SB i KGB.
+## Zamach i stan wojenny
+13 maja 1981 roku na placu św. Piotra papieża postrzelił turecki zamachowiec Mehmet Ali Ağca; Jan Paweł II przeżył. Po wprowadzeniu stanu wojennego prowadził rozmowy z władzami polskimi i sowieckimi. W czerwcu 1983 roku przyjechał do kraju po raz drugi – spotkał się z gen. Jaruzelskim, a w Tatrach z Lechem Wałęsą.
 
-**Druga pielgrzymka, 16–23 czerwca 1983** — Odbyła się w czasie stanu wojennego. Papież rozmawiał z Jaruzelskim i Wałęsą (spotkanie w Tatrach). Homilia w Częstochowie zawierała wezwanie do poszanowania wolności sumienia.
+## Trzecia pielgrzymka, 1987
+W czerwcu 1987 roku papież odwiedził m.in. Gdańsk i Gdynię, gdzie przed setkami tysięcy ludzi mówił o solidarności i prawach ludzi pracy – słowo zakazane przez władze wybrzmiało publicznie.
 
-**Trzecia pielgrzymka, 8–14 czerwca 1987** — Jan Paweł II odwiedził m.in. Gdańsk, spotykając się z rodzinami ofiar Grudnia 1970. Jego słowa „Nie ma solidarności bez miłości" stały się cytatem opozycji.
-
-**Wpływ na upadek komunizmu** — Michaił Gorbaczow i Zbigniew Brzeziński uznawali Jana Pawła II za jednego z kluczowych aktorów rozkładu bloku sowieckiego. Watykańska dyplomacja, finansowe wsparcie dla Solidarności przez Caritas i autorytet moralny papieża legitymizowały polską opozycję na arenie międzynarodowej.`,
+## Upadek komunizmu
+Nauczanie papieża uznaje się za jeden z czynników przemian w bloku wschodnim. W 1989 roku – roku Okrągłego Stołu i wyborów 4 czerwca – Watykan odwiedził Michaił Gorbaczow, pierwszy przywódca ZSRR w historii. Jan Paweł II zmarł 2 kwietnia 2005 roku; beatyfikowano go w 2011 roku, a kanonizowano 27 kwietnia 2014 roku.`,
     resources: [
       {
         id: 'jp2-1',
@@ -2208,27 +2226,31 @@ Po 1956 roku Gomułka uznał prywatne rolnictwo za element „polskiej drogi do 
     tags: ['NOWA', 'samizdat', 'bibuła', 'cenzura', 'wydawnictwa', 'opozycja', 'niezależna kultura'],
     yearStart: 1976,
     yearEnd: 1989,
-    summary: 'Drugi obieg wydawniczy — sieć niezależnych wydawnictw i redakcji działających poza cenzurą PRL — rozwinął się intensywnie po 1976 r. Jego symbolem stało się Wydawnictwo NOWA (1977). Bezdebitowe publikacje dostarczały milionom Polaków niedostępną oficjalnie literaturę, dokumenty historyczne i prasę podziemną.',
+    summary: 'Drugi obieg – publikacje wydawane poza cenzurą PRL od połowy lat 70.; w latach 1981–1988 ukazało się ponad 4,5 tysiąca tytułów książek i około 2 tysięcy czasopism, a największym wydawnictwem była NOWA.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wydawnictwa_podziemne.jpg?width=800',
     imageCaption: 'Książki i broszury drugiego obiegu wydane w latach 80.',
-    content: `**Geneza** — Tradycja niezależnego obiegu sięga lat 60. (maszynopisowe odpisy dzieł odrzuconych przez cenzurę). Drugi obieg jako zorganizowany ruch zrodził się po Czerwcu 1976 r. „Komunikat KOR" (1976) był pierwszym regularnym biuletynem. Wzorem był sowiecki i czechosłowacki samizdat, ale polska wersja przerosła skalą wszystkie odpowiedniki bloku wschodniego.
+    content: `## Bibuła
+Drugi obieg – zwany też obiegiem niezależnym albo bibułą – to publikacje wydawane bez zgody cenzury, w nakładach od kilkunastu kopii do kilkudziesięciu tysięcy egzemplarzy. W ZSRR podobne zjawisko nazywano samizdatem, ale skalą polski drugi obieg przerósł wszystkie odpowiedniki w bloku wschodnim.
 
-**Wydawnictwo NOWA** — Najważniejsza instytucja drugiego obiegu założona w 1977 r. przez Mirosława Chojeckiego. Do 1981 r. wydała ponad 100 tytułów: prozę Mackiewicza, eseje Kołakowskiego, dokumenty o Katyniu, literaturę emigracyjną. Druk na powielaczach cyklostylowych, z czasem na sprzęcie przemycanym z Zachodu.
+## Początki
+Wcześniej teksty krążyły w maszynopisach i odpisach. Przełom nastąpił po Czerwcu 1976 roku: od września 1976 roku Mirosław Chojecki powielał „Komunikat” i „Biuletyn Informacyjny” KOR. Pojawiły się pisma „Robotnik”, „Opinia”, „Bratniak”, „Spotkania” i „Zapis”. W latach 1976–1980 wydano prawie 200 tytułów czasopism.
 
-**Najważniejsze periodyki:**
-- **„Zapis"** (1977–1981) — pismo literackie z twórczością Barańczaka i Woroszylskiego
-- **„Robotnik"** (1977–1981) — organ KOR, pismo społeczno-polityczne
-- **„Puls"** (1977–1989) — literackie i eseistyczne
-- **„Tygodnik Mazowsze"** (1982–1989) — największa podziemna gazeta w stanie wojennym, nakład do 80 tys. egz., ponad 300 numerów
+## NOWA
+We wrześniu 1977 roku Chojecki utworzył Niezależną Oficynę Wydawniczą NOWA – pierwsze wydawnictwo publikujące w kraju poza cenzurą. Pierwszą książką było „Pochodzenie systemu” Jakuba Karpińskiego. Do 1989 roku NOWA wydała około trzystu książek, m.in. Miłosza, Konwickiego, Brandysa, Grassa, a później także kasety wideo i magnetofonowe.
 
-**Techniki** — Druk na powielaczach, cyklostylach, od lat 80. na laserowych drukarkach z Zachodu. Kolportaż: sieć kurierów i punktów przekazania w dziesiątkach miast. Pracownicy ryzykowali aresztem i konfiskatą sprzętu.
+## Lata 80.
+W czasach legalnej „Solidarności” działało około 160 wydawnictw. Stan wojenny ruchu nie zdławił: w latach 1981–1988 ukazało się ponad 4,5 tysiąca tytułów książek i około 2 tysięcy tytułów czasopism. Największy nakład miał wrocławski tygodnik „Z dnia na dzień” – 43 tysiące egzemplarzy. Stały kontakt z bibułą miało w latach 80. do 100 tysięcy osób, a sporadyczny – do 250 tysięcy.
 
-**Ekspansja Solidarności** — Po Sierpniu 1980 Solidarność stworzyła własną legalną prasę (ok. 500 tytułów, setki tysięcy egzemplarzy). Po 13 grudnia 1981 cały ruch przeszedł w podziemie — w czasie stanu wojennego i po nim drugi obieg obejmował 1500–2000 tytułów pism i setki pozycji książkowych rocznie.
+## Technika i ryzyko
+Drukowano na powielaczach, sitodrukiem i offsetem, a papier, farbę i sprzęt często zdobywano z państwowych zakładów lub przemycano z Zachodu. W ukrywaniu drukarń pomagali dawni fachowcy z AK. Za druk i kolportaż groziły konfiskata sprzętu, zatrzymania na 48 godzin i areszty – w 1980 roku aresztowano m.in. Chojeckiego.
 
-**Represje** — Władze stosowały rewizje, konfiskatę sprzętu i wielomiesięczne areszty. Chojecki był wielokrotnie zatrzymywany. Anonimizacja publikacji i kasowanie numerów seryjnych z powielaczy były technikami przeżycia.
-
-**Dziedzictwo** — Drugi obieg ukształtował całe pokolenie liderów transformacji 1989 r. — przez dostarczanie wiedzy historycznej, filozoficznej i politycznej podtrzymywał niezależną świadomość społeczeństwa.`,
-    trivia: ['Bibułę drukowano na powielaczach ukrytych w prywatnych mieszkaniach.', 'Największe wydawnictwo podziemne, NOWa, wypuściło setki tytułów.'],
+## Po 1989 roku
+Dzięki zgromadzonemu sprzętowi i doświadczeniu po zniesieniu cenzury szybko powstały legalne redakcje i wydawnictwa, a niektóre podziemne oficyny, jak NOWA, działały dalej jawnie.`,
+    trivia: [
+      'Pierwszą książką wydaną przez NOWĄ było w sierpniu 1977 roku „Pochodzenie systemu” Jakuba Karpińskiego.',
+      'Największy nakład podziemnego pisma osiągnął wrocławski tygodnik „Z dnia na dzień” – 43 tysiące egzemplarzy.',
+      'Najwięcej podziemnych książek i broszur – 636 pozycji – ukazało się w 1983 roku.',
+    ],
     resources: [
       {
         id: 'obieg-1',
@@ -2267,23 +2289,31 @@ Po 1956 roku Gomułka uznał prywatne rolnictwo za element „polskiej drogi do 
     tags: ['premier', 'Solidarność', 'transformacja', 'Więź', 'Balcerowicz', 'gruba kreska', '1989'],
     yearStart: 1980,
     yearEnd: 2013,
-    summary: 'Tadeusz Mazowiecki — katolicki intelektualista, redaktor Więzi, doradca Solidarności — 24 sierpnia 1989 r. został pierwszym niekomunistycznym premierem Polski od 1947 r. Jego rząd przeprowadził transformację ustrojową, „plan Balcerowicza" — radykalną terapię szokową — i ogłosił politykę „grubej kreski" w stosunku do PRL-owskiej przeszłości.',
+    summary: 'Tadeusz Mazowiecki (1927–2013) – katolicki publicysta, redaktor „Więzi”, doradca „Solidarności”; 24 sierpnia 1989 roku został pierwszym niekomunistycznym premierem w bloku wschodnim, a jego rząd zakończył epokę PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Tadeusz%20Mazowiecki%20with%20EP%20President%201990.jpg?width=800',
     imageCaption: 'Tadeusz Mazowiecki – pierwszy niekomunistyczny premier (1989).',
-    content: `**Biografia i środowisko** — Tadeusz Mazowiecki urodził się 18 kwietnia 1927 r. w Płocku. Związany z miesięcznikiem **Więź**, którego był redaktorem naczelnym w latach 1958–1981. Więź była unikalnym głosem polskiego katolicyzmu społecznego, otwartym na dialog z laicką inteligencją. Poseł Sejmu PRL z ramienia Koła Znak (1961–1971) — jeden z nielicznych, który głosował przeciw wzmocnieniu roli PZPR w konstytucji w 1976 r.
+    content: `## Katolicki publicysta
+Tadeusz Mazowiecki urodził się 18 kwietnia 1927 roku w Płocku. Zaczynał w środowisku PAX, ale w 1955 roku jako jeden z liderów tzw. frondy wystąpił przeciw Bolesławowi Piaseckiemu i odszedł ze stowarzyszenia. W 1957 roku współzakładał warszawski Klub Inteligencji Katolickiej, a od pierwszego numeru w lutym 1958 roku był redaktorem naczelnym miesięcznika „Więź”, szukającego dialogu z niekatolicką inteligencją.
 
-**Sierpień 1980** — Mazowiecki był jednym z pierwszych intelektualistów, którzy przybyli do strajkującej Stoczni Gdańskiej w sierpniu 1980 r. Wszedł w skład Komisji Ekspertów przy Solidarności i stał się kluczowym doradcą Wałęsy. Redagował „Tygodnik Solidarność" — nakład 500 tys. egzemplarzy. Po 13 grudnia 1981 r. internowany przez 6 miesięcy.
+## Poseł Znaku
+W latach 1961–1972 był posłem na Sejm PRL z ramienia katolickiej grupy Znak. Interpelował w sprawie wydarzeń Marca 1968 roku, a po Grudniu 1970 roku domagał się komisji sejmowej do zbadania masakry. W 1972 roku władze nie zgodziły się na jego ponowne kandydowanie.
 
-**Okrągły Stół 1989** — Był czołowym negocjatorem strony solidarnościowej, uczestnicząc w zespołach ds. pluralizmu związkowego i reform politycznych.
+## Sierpień i stan wojenny
+22 sierpnia 1980 roku przyjechał z Bronisławem Geremkiem do Stoczni Gdańskiej z apelem 64 intelektualistów, a 24 sierpnia stanął na czele Komisji Ekspertów przy MKS. Został głównym doradcą Wałęsy i redaktorem naczelnym „Tygodnika Solidarność”, którego pierwszy numer ukazał się 3 kwietnia 1981 roku. 13 grudnia 1981 roku został internowany i wyszedł jako jeden z ostatnich, 23 grudnia 1982 roku.
 
-**Premier — powołanie i rząd** — Po druzgocącej porażce PZPR w wyborach 4 czerwca 1989 r. Wałęsa zaproponował Mazowieckiego na premiera. 24 sierpnia 1989 r. Sejm go powołał. Rząd był koalicyjny — resorty obrony i spraw wewnętrznych pozostały w rękach komunistów (Siwicki, Kiszczak).
+## Okrągły Stół
+W 1989 roku kierował po stronie opozycji zespołem do spraw pluralizmu związkowego. Odmówił kandydowania do Sejmu, a w lipcu 1989 roku w artykule „Spiesz się powoli” przestrzegał przed przejmowaniem władzy bez programu gospodarczego.
 
-**Plan Balcerowicza** — Mazowiecki powierzył tekę ministra finansów Leszkowi Balcerowiczowi, który wdrożył od 1 stycznia 1990 r. radykalną terapię szokową: uwolnienie cen, likwidację dotacji, wewnętrzną wymienialność złotego (kurs 9500 zł/USD), liberalizację handlu. Inflacja z 640% (1989) spadła do 70% (1991), kosztem wzrostu bezrobocia i recesji.
+## Premier
+Przyjmując propozycję Wałęsy, powiedział, że nie będzie „premierem malowanym”. 24 sierpnia 1989 roku Sejm powołał go na premiera – był pierwszym niekomunistycznym szefem rządu w bloku wschodnim. 12 września 1989 roku, w czasie exposé, zasłabł; tego samego dnia Sejm zatwierdził rząd, w którym MSW i MON pozostały w rękach generałów Kiszczaka i Siwickiego. Zapowiedź odcięcia się od przeszłości „grubą linią” krytycy przeinaczyli na „grubą kreskę”.
 
-**„Gruba kreska"** — W exposé z 24 sierpnia 1989 r. Mazowiecki zapowiedział, że rząd „odcina się grubą kreską od przeszłości". Polityka ta była warunkiem pokojowego przekazania władzy, lecz krytykowana przez część opozycji jako zbyt łagodna wobec nomenklatury.
-
-**Po premieraturze** — W wyborach prezydenckich 1990 r. przegrał w pierwszej turze ze Stanisławem Tymińskim. Był Specjalnym Sprawozdawcą ONZ ds. praw człowieka w Jugosławii (1992–1995), skąd zrezygnował w proteście wobec masakry w Srebrenicy. Zm. 28 października 2013 r. w Warszawie.`,
-    trivia: ['Został pierwszym niekomunistycznym premierem w bloku wschodnim.', 'Podczas exposé zasłabł; wrócił na mównicę i porównał się do biegacza, któremu zabrakło sił.'],
+## Koniec PRL
+Rząd Mazowieckiego przeprowadził nowelizację konstytucji z 29 grudnia 1989 roku, przywracającą nazwę Rzeczpospolita Polska i godło z koroną, a plan Balcerowicza rozpoczął przejście do gospodarki rynkowej. W 1990 roku Mazowiecki przegrał wybory prezydenckie, nie wchodząc do drugiej tury. Zmarł 28 października 2013 roku.`,
+    trivia: [
+      'Przyjmując propozycję stanowiska, zapowiedział, że nie będzie „premierem malowanym”.',
+      'W czasie exposé 12 września 1989 roku zasłabł i musiał przerwać przemówienie.',
+      'Właściwie mówił o „grubej linii” – określenie „gruba kreska” upowszechnili jego krytycy.',
+    ],
     resources: [
       {
         id: 'mazowiecki-encysol',
@@ -10052,33 +10082,31 @@ Solidarność Walcząca pozostaje kontrowersyjną organizacją. Zwolennicy podkr
     tags: ['Solidarność', 'podziemie', 'TKK', 'Mazowsze', 'ukrywanie', 'opozycja'],
     yearStart: 1954,
     yearEnd: 1989,
-    summary: 'Zbigniew Bujak – lider Solidarności regionu Mazowsze, jeden z najważniejszych działaczy podziemnej Solidarności po 13 grudnia 1981 roku. Przez 4,5 roku ukrywał się przed SB, stając się symbolem oporu. Schwytany w 1986 roku, zwolniony na mocy amnestii.',
+    summary: 'Zbigniew Bujak (ur. 1954) – robotnik z Ursusa, przywódca „Solidarności” Regionu Mazowsze, członek TKK; ukrywał się przed SB do maja 1986 roku, potem jeden z liderów strony solidarnościowej przy Okrągłym Stole.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zbigniew%20Bujak%20%281986%29.jpg?width=800',
     imageCaption: 'Zbigniew Bujak (1986) – przywódca podziemnej Solidarności na Mazowszu.',
-    content: `Zbigniew Bujak (ur. 1954) – elektryk z Ursusa, przewodniczący Zarządu Regionu Mazowsze NSZZ "Solidarność", jeden z filarów podziemnej struktury związkowej w stanie wojennym i po nim.
+    content: `## Robotnik z Ursusa
+Zbigniew Bujak urodził się 29 listopada 1954 roku w Łopusznie. Ukończył technikum elektroenergetyczne w Żyrardowie i od 1973 roku pracował w Zakładach Mechanicznych „Ursus”. Od 1978 roku współpracował z KSS „KOR” i kolportował niezależne wydawnictwa, m.in. „Robotnika”.
 
-**Działalność przed stanem wojennym**
+## Solidarność
+W 1980 roku współzakładał „Solidarność” w Ursusie i szybko stał się przywódcą Regionu Mazowsze. Zasiadał w Krajowej Komisji Porozumiewawczej, a następnie w prezydium Komisji Krajowej związku.
 
-Bujak był liderem Solidarności w Ursusie i Mazowszu – największym i najbardziej wpływowym regionie związku. W sierpniu 1980 roku uczestniczył w strajku i negocjacjach w Ursusie. Szybko wyrósł na jednego z kluczowych działaczy – sprawnego organizatora i twardego negocjatora.
+## W ukryciu
+13 grudnia 1981 roku uniknął zatrzymania w sopockim Grand Hotelu, gdzie obradowała Komisja Krajowa, i zszedł do podziemia. Przewodniczył Regionalnej Komisji Wykonawczej Mazowsza i był jednym z założycieli Tymczasowej Komisji Koordynacyjnej. Był jednym z najdłużej ukrywających się jej członków – przez cztery i pół roku, korzystając z sieci mieszkań i ludzi, którzy ryzykowali więzienie.
 
-**Podziemie – 4,5 roku ucieczki**
+## Aresztowanie i amnestia
+Został aresztowany w maju 1986 roku, ale już we wrześniu tego samego roku wyszedł na wolność na mocy amnestii. Wszedł do jawnej Tymczasowej Rady „Solidarności”, a potem do Krajowej Komisji Wykonawczej.
 
-Gdy 13 grudnia 1981 roku ogłoszono stan wojenny, Bujak uniknął internowania i zszedł do podziemia. Przez 4,5 roku – do maja 1986 roku – ukrywał się przed Służbą Bezpieczeństwa, stając się symbolem oporu. SB poszukiwało go intensywnie; wyznaczono nagrodę za jego schwytanie, prowadzono kilka dużych operacji.
+## Okrągły Stół
+Od grudnia 1988 roku był członkiem Komitetu Obywatelskiego przy Lechu Wałęsie i współtworzył listy kandydatów do wyborów 1989 roku. Przy Okrągłym Stole był jednym z siedmiu liderów strony solidarnościowej. W kwietniu 1989 roku z Andrzejem Wajdą i Aleksandrem Paszyńskim założył spółkę Agora, wydawcę „Gazety Wyborczej”.
 
-Bujak kierował Tymczasową Komisją Koordynacyjną (TKK), która koordynowała działania podziemnej Solidarności w całej Polsce. Wydawał instrukcje, spotykał się z innymi działaczami, udzielał wywiadów zachodnim mediom – wszystko to w głębokiej konspiracji. Zmieniał kryjówki, korzystał z sieci zaufanych osób i rodzin (tzw. "lokatorzy"). Jego działalność była możliwa dzięki rozbudowanej sieci wsparcia społecznego.
-
-**Schwytanie i więzienie**
-
-W maju 1986 roku Zbigniew Bujak został schwytany przez SB. Jego aresztowanie było wielkim propagandowym triumfem reżimu. Sądzony pod zarzutami działalności antypaństwowej, trafił do aresztu. Jednak na mocy amnestii ogłoszonej we wrześniu 1986 roku (część ustępstw wobec nacisków Zachodu) został zwolniony.
-
-**Okrągły Stół i po 1989**
-
-Bujak był jednym z negocjatorów ze strony opozycji przy Okrągłym Stole (1989). Po przełomie politycznym zaangażował się w działalność polityczną – był posłem na Sejm, działał w różnych ugrupowaniach demokratycznych. Z czasem ewoluował w kierunku lewicy (m.in. Unia Pracy), co wywołało kontrowersje wśród dawnych towarzyszy walki.
-
-**Symbol i dziedzictwo**
-
-Zbigniew Bujak jest symbolem oporu i wytrwałości – człowiek, który przez 4,5 roku chodził po wolności tuż obok policji totalitarnego państwa i nie dał się schwytać. Jego historia inspiruje i pokazuje, że nawet w warunkach brutalnej dyktatury można skutecznie działać, mając wsparcie społeczeństwa.`,
-    trivia: ['Ukrywał się przed Służbą Bezpieczeństwa ponad cztery lata.', 'Kierował podziemną Solidarnością regionu Mazowsze.'],
+## Po 1989 roku
+Był posłem I i II kadencji, współprzewodniczącym Unii Pracy, a w latach 1999–2001 prezesem Głównego Urzędu Ceł.`,
+    trivia: [
+      '13 grudnia 1981 roku uniknął zatrzymania w sopockim Grand Hotelu, gdzie obradowała Komisja Krajowa „Solidarności”.',
+      'Współzakładał spółkę Agora, która w 1989 roku zaczęła wydawać „Gazetę Wyborczą”.',
+      'Ukrywał się przed SB przez cztery i pół roku – od grudnia 1981 do maja 1986 roku.',
+    ],
     resources: [
       {
         id: 'bujak-zbigniew-encysol',
@@ -10298,40 +10326,28 @@ Likwidacja PPS oznaczała zniszczenie pluralizmu politycznego w Polsce i zakońc
     tags: ['jazz', 'film', 'muzyka', 'Komeda', 'Polański', 'Rosemary', 'pianista'],
     yearStart: 1931,
     yearEnd: 1969,
-    summary: 'Krzysztof Komeda (1931–1969) – pianista jazzowy i kompozytor, jeden z najwybitniejszych muzyków polskich XX wieku. Twórca muzyki do filmów Romana Polańskiego, w tym słynnego "Dziecka Rosemary" (1968). Tragicznie zginął w wypadku samochodowym w Hollywood. Jego styl zrewolucjonizował polski jazz.',
+    summary: 'Krzysztof Komeda (1931–1969) – pianista i kompozytor, pionier nowoczesnego jazzu w Polsce, autor albumu „Astigmatic” i muzyki do 65 filmów, w tym „Noża w wodzie” i „Dziecka Rosemary”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krzysztofkomeda.jpg?width=800',
     imageCaption: 'Krzysztof Komeda, zdjęcie sprzed 1969 roku',
-    content: `Krzysztof Komeda (właśc. Krzysztof Trzcinski, 1931–1969) – pianista jazzowy i kompozytor filmowy, jeden z najważniejszych twórców polskiego jazzu i ikona kultury PRL lat 50. i 60.
+    content: `## Laryngolog z jazzem we krwi
+Krzysztof Trzciński urodził się 27 kwietnia 1931 roku w Poznaniu. Od dziecka grał na fortepianie, ale za namową matki studiował medycynę i w 1956 roku uzyskał dyplom lekarza laryngologa. Pseudonimu Komeda używał, by ukryć fascynację jazzem przed przełożonymi – jazz, przed 1956 rokiem zakazany jako muzyka niezgodna z socrealizmem, nadal budził nieufność władz. Za granie jazzu w poznańskich lokalach usunięto go z ZMP.
 
-**Pseudonim i początki**
+## Komeda Sextet
+W 1956 roku założył Komeda Sextet z Janem „Ptaszynem” Wróblewskim i Jerzym Milianem. Zespół odniósł sukces na I Festiwalu Jazzowym w Sopocie i stał się pierwszą polską grupą grającą nowoczesny jazz – łączący wpływy Modern Jazz Quartet i Gerry'ego Mulligana ze słowiańskim liryzmem.
 
-Pseudonimu "Komeda" użył, by ukryć muzykowanie jazzowe przed władzami w epoce stalinizmu, kiedy jazz był piętnowany jako "burżuazyjna dekadencja". Był z wykształcenia lekarzem (ukończył medycynę w Poznaniu), ale muzyka stała się jego życiem.
+## Europa
+Od 1960 roku występował w Skandynawii – w sztokholmskiej „Gyllene Cirkeln” i kopenhaskim „Jazzhus Montmartre”. Grał w Pradze, na Bledzie, w obu państwach niemieckich. W 1966 roku ukazał się „Astigmatic”, nagrany z Tomaszem Stańką i Zbigniewem Namysłowskim, uważany za jedno z najważniejszych dzieł europejskiego jazzu.
 
-**Rewolucja jazzu w PRL**
+## Muzyka filmowa
+Napisał muzykę do 65 filmów. Pierwszym była etiuda Romana Polańskiego „Dwaj ludzie z szafą” (1958). Komponował dla „Noża w wodzie” Polańskiego, „Niewinnych czarodziejów” Wajdy i filmów duńskiego reżysera Henninga Carlsena, a potem dla zachodnich filmów Polańskiego, m.in. „Matni” i „Nieustraszonych pogromców wampirów”.
 
-W drugiej połowie lat 50., po odwilży 1956 roku, jazz stał się w Polsce zjawiskiem masowym. Komeda był jednym z pionierów: założył kwintet, który grał muzykę wyraźnie inspirowaną cool jazzem i bopem, ale z wyraźnym europejskim kolorytem. Jego styl – liryczny, melancholijny, z elementami muzyki ludowej i impresjonizmu – był oryginalny i odmienny od wzorców amerykańskich.
-
-**Współpraca z Polańskim**
-
-Komeda poznał Romana Polańskiego na przełomie lat 50. i 60. i nawiązał owocną współpracę artystyczną. Skomponował muzykę do wszystkich wczesnych filmów Polańskiego:
-- **"Nóż w wodzie"** (1962) – pierwszy pełnometrażowy film Polańskiego, Oscarna nominacja; muzyka Komedy była rewolucyjna
-- **"Repulsion"** (1965)
-- **"Cul-de-sac"** (1966)
-- **"The Fearless Vampire Killers"** (1967)
-- **"Rosemary's Baby"** (1968) – kulminacja: kołysanka z tego filmu jest jedną z najbardziej rozpoznawalnych melodii w historii kina
-
-**Sukcesy na Zachodzie i Hollywood**
-
-Muzyka do "Rosemary's Baby" przyniosła Komedzie uznanie w Hollywood. Pracował dla wytwórni Paramount i zdobywał kolejne kontrakty. Los Angeles stało się jego nową bazą – w 1968 roku był u szczytu kariery.
-
-**Tragiczna śmierć**
-
-23 stycznia 1969 roku Komeda upadł z balkonu w LA i doznał rozległego urazu głowy. Trafił do szpitala w stanie śpiączki. Pomimo prób leczenia w Polsce i USA, nie odzyskał przytomności. Zmarł 23 kwietnia 1969 roku. Miał 37 lat. Okoliczności wypadku pozostają niejasne.
-
-**Dziedzictwo**
-
-Komeda zostawił ok. 20 nagrań studyjnych i muzykę do ponad 50 filmów. Jego kołysanka z "Rosemary's Baby" jest do dziś jedną z najczęściej cytowanych w kulturze popularnej. Polski jazz bez Komedy byłby zupełnie inny – ukształtował on zarówno styl gry, jak i wyobraźnię kolejnych pokoleń muzyków. Jan Ptaszyn Wróblewski, Tomasz Stańko i wielu innych przyznaje się do jego wpływu.`,
-    trivia: ['Skomponował muzykę do „Dziecka Rosemary” Romana Polańskiego.', 'Zmarł w 1969 roku, w szczycie międzynarodowej kariery.'],
+## Hollywood i śmierć
+Od 1968 roku pracował w Los Angeles nad muzyką do „Dziecka Rosemary” – jej „Kołysanka” stała się jedną z najbardziej rozpoznawalnych melodii filmowych. W grudniu 1968 roku, wracając z Markiem Hłaską, spadł ze skarpy i uderzył głową. Po kilku tygodniach bólów głowy wykryto krwiak mózgu. Przewieziony przez żonę Zofię do kraju, zmarł 23 kwietnia 1969 roku w Warszawie. Spoczywa na Powązkach.`,
+    trivia: [
+      'Z wykształcenia był lekarzem laryngologiem – dyplom uzyskał w 1956 roku.',
+      'Napisał muzykę do 65 filmów; ostatnim było „Dziecko Rosemary” Polańskiego.',
+      'Za granie jazzu w poznańskich lokalach usunięto go ze Związku Młodzieży Polskiej.',
+    ],
     resources: [
       {
         id: 'komeda-culture',
@@ -10388,34 +10404,25 @@ Komeda zostawił ok. 20 nagrań studyjnych i muzykę do ponad 50 filmów. Jego k
     summary: 'Październik 1956 roku był możliwy nie tylko dzięki decyzjom na szczytach partyjnych, ale też dzięki ożywieniu środowisk studenckich i inteligencji twórczej. Tygodnik "Po prostu", Dyskusyjne Kluby Filmowe i gorące debaty na uczelniach tworzyły atmosferę, w której reforma stała się możliwa.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gomulka_speech.jpg?width=800',
     imageCaption: 'Wiec na placu Defilad w Warszawie 24 października 1956 – przemawia Władysław Gomułka (autor nieznany)',
-    content: `Proces destalinizacji w Polsce w latach 1955–1957 miał szczególny wymiar kulturalny i intelektualny – studenci, dziennikarze i artyści byli ważnymi aktorami odwilży.
+    content: `## Odwilż
+Po śmierci Stalina i ujawnieniu tajnego referatu Chruszczowa w 1956 roku w Polsce rozpoczęła się odwilż. Jej motorem, obok reformatorów partyjnych, byli studenci, młodzi dziennikarze i twórcy, którzy zaczęli głośno mówić o kłamstwach i nadużyciach systemu.
 
-**"Po prostu" – głos pokolenia**
+## „Po prostu”
+Symbolem odwilży stał się tygodnik „Po prostu”. Założony w 1947 roku jako pismo organizacji młodzieżowych, od 1955 roku ukazywał się jako „Tygodnik studentów i młodej inteligencji” pod redakcją Eligiusza Lasoty i angażował się w walkę o reformy. Pisali w nim m.in. Marek Hłasko, Agnieszka Osiecka, Stefan Bratkowski, Jan Olszewski i Jerzy Urban.
 
-Tygodnik "Po prostu" (1947–1957) stał się symbolem odwilży. Pod redakcją Eligiusza Lasoty, a potem Jerzego Ambroziewicza i Wiktora Woroszylskiego, stał się forum krytyki systemu. Artykuły kwestionowały dogmatyzm, biurokrację, nadużycia władzy. Nakład wzrósł do kilkudziesięciu tysięcy – numer rozchodził się błyskawicznie. Czytany przez inteligencję, studentów, a nawet część aparatu partyjnego.
+## Kluby i dyskusje
+Z inicjatywy tygodnika powstał pierwszy polski dyskusyjny klub filmowy „Po prostu”; jego pierwszym seansem był 8 listopada 1955 roku „Dyktator” Chaplina. Kluby dyskusyjne, jak Klub Krzywego Koła, oraz zebrania na uczelniach stały się miejscami wolnej debaty o polityce, gospodarce i historii.
 
-W październiku 1957 roku Gomułka zamknął "Po prostu" – odwilż dobiegła końca. Zamknięcie pisma wywołało studenckie protesty w Warszawie.
+## Październik
+W październiku 1956 roku studenci i młodzi robotnicy wiecowali na uczelniach i w fabrykach, popierając Gomułkę i domagając się demokratyzacji oraz suwerenności wobec ZSRR. Gdy groziła sowiecka interwencja, środowiska studenckie i zakładowe deklarowały gotowość obrony przemian.
 
-**Środowiska twórcze**
-
-Lata 1954–1957 przyniosły eksplozję twórczości w duchu odwilży:
-- **Teatr** – Teatr na Tarczyńskiej Brechta, awangarda Kantora, "Teatr absurdu"
-- **Literatura** – Marek Hłasko ("Ósmy dzień tygodnia"), Sławomir Mrożek (pierwsze opowiadania)
-- **Film** – Wajda ("Pokolenie", "Kanał"), Munk ("Eroica") – Polska Szkoła Filmowa rozkwitła
-- **Jazz** – legalizacja jazzu, pierwsze festiwale; Komeda, Namysłowski
-
-**Dyskusje na uczelniach**
-
-Na Politechnice Warszawskiej, Uniwersytecie Warszawskim i innych uczelniach toczyły się gorące debaty o polityce. Studenci kwestionowali obowiązkowe lekcje marksizmu, domagali się autonomii akademickiej. Koła naukowe, dyskusyjne kluby filmowe (DKF) stały się miejscami niezależnej myśli.
-
-**Studenci w Październiku**
-
-W październiku 1956 roku, gdy PZPR ważyła kurs reformatorski czy konserwatywny, studenci Warszawy demonstrowali popierając Gomułkę i reformy – ale też domagając się prawdziwej wolności. Gromadziły się wielotysięczne tłumy. Studenci tworzyli rezolucje, jeździli do fabryk agitować za zmianą.
-
-**Granice odwilży**
-
-Reformy były ograniczone. Zamknięcie "Po prostu" w 1957, powolne przywracanie cenzury, "wyhamowanie" swobody akademickiej pokazały, że Gomułka traktował odwilż instrumentalnie. Inteligencja, która z entuzjazmem przyjęła Październik, stopniowo się rozczarowywała – co stało się ważnym tłem dla Marca 1968.`,
-    trivia: ['Studenci i inteligencja byli motorem odwilży.', 'Likwidacja tygodnika „Po prostu” wywołała uliczne protesty.'],
+## Koniec złudzeń
+Gomułka szybko ograniczył swobody. Już w kwietniu 1957 roku innym pismom zakazano przedruków z „Po prostu”, a we wrześniu 1957 roku tygodnik zlikwidowano – ostatni numer ukazał się 2 października. Na początku października w Warszawie wybuchły pięciodniowe protesty studenckie przed akademikiem na placu Narutowicza, na Politechnice i w Alejach Jerozolimskich, stłumione przez ZOMO. Rozczarowanie inteligencji było tłem kolejnych konfliktów, aż po Marzec 1968 roku.`,
+    trivia: [
+      'Pierwszym seansem DKF „Po prostu” w 1955 roku był „Dyktator” Chaplina.',
+      'W redakcji „Po prostu” pisali m.in. Marek Hłasko, Agnieszka Osiecka i Jerzy Urban.',
+      'Likwidacja „Po prostu” wywołała w październiku 1957 roku pięciodniowe zamieszki w Warszawie.',
+    ],
     resources: [
       {
         id: 'pazdziernik-1956-studenci-yt',
