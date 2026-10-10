@@ -2531,23 +2531,29 @@ GUKPPiW został zniesiony ustawą z 11 kwietnia 1990 roku – jednym z pierwszyc
     category: 'polityka',
     tags: ['Gomułka', 'odwilż', 'destalinizacja', '1956', 'VIII Plenum', 'Chruszczow'],
     yearStart: 1956,
+    yearEnd: 1957,
     summary: 'Październik 1956 w Polsce – moment przełomowy, gdy po śmierci Stalina i Poznańskim Czerwcu władze PZPR pod presją społeczną przywróciły do władzy Władysława Gomułkę. Wydarzenie zwane polską odwilżą lub Październikiem 1956 dało Polakom nadzieję na liberalizację, choć nie zmieniło istoty systemu komunistycznego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gomulka_speech.jpg?width=800',
     imageCaption: 'Władysław Gomułka przemawia do kilkusettysięcznego tłumu w Warszawie, 24 października 1956',
-    content: `Październik 1956 roku był kulminacją procesów odwilżowych zapoczątkowanych śmiercią Stalina w 1953 roku i tzw. referatem Chruszczowa na XX Zjeździe KPZR w lutym 1956 roku, potępiającym kult jednostki.
+    content: `## Przyczyny
+Polski Październik był następstwem śmierci Stalina w 1953 roku, tajnego referatu Chruszczowa z 25 lutego 1956 roku o zbrodniach stalinowskich, śmierci Bolesława Bieruta w marcu 1956 roku i Poznańskiego Czerwca. Partia była podzielona na zwalczające się frakcje natolińczyków i puławian, a kandydatem do przyjęcia dla obu okazał się Władysław Gomułka – były I sekretarz, więziony za „odchylenie prawicowo-nacjonalistyczne”.
 
-**Kontekst – rok 1956:**
-Polska była w stanie głębokiego wstrząsu. W czerwcu 1956 roku w Poznaniu robotnicy wyszli na ulice – zginęło co najmniej 57 osób. Atmosferę napięcia podsycały protesty studenckiej i inteligenckiej młodzieży, debaty na łamach Nowej Kultury i Po Prostu.
+## Noc przed plenum
+15 października Biuro Polityczne z udziałem Gomułki postanowiło zwołać VIII Plenum, które miało wybrać nowe kierownictwo bez marszałka Rokossowskiego. W nocy z 18 na 19 października radzieckie oddziały Północnej Grupy Wojsk ruszyły w stronę Warszawy, a polskie jednostki dowodzone przez oficerów radzieckich wykonywały polecenia Rokossowskiego. Dowódcy Korpusu Bezpieczeństwa Wewnętrznego, gen. Wacław Komar i gen. Włodzimierz Muś, postawili KBW w stan pogotowia, a w zakładach pracy powstawały grupy samoobrony.
 
-**VIII Plenum KC PZPR (19–21 października 1956):**
-Na obrady Komitetu Centralnego nieoczekiwanie przybyli sowieccy przywódcy z Chruszczowem na czele, obawiając się destabilizacji. Doszło do dramatycznej konfrontacji – polska delegacja odmówiła ustępstw. Wojciech Jaruzelski i Marian Spychalski objęli komendę nad wojskiem. Ostatecznie Sowieci ustąpili, a I sekretarzem PZPR został Władysław Gomułka, odsunięty od władzy w 1948 roku.
+## Chruszczow w Warszawie
+19 października rano przyleciała bez zaproszenia delegacja radziecka z Chruszczowem. Groził interwencją, protestując przeciw usunięciu z Biura Politycznego Rokossowskiego i innych „gwarantów sojuszu”. Ostatecznie Moskwa ustąpiła; według Edwarda Ochaba pomogło stanowisko Chin. 21 października plenum wybrało Gomułkę na I sekretarza KC PZPR.
 
-**Gomułka i nadzieje społeczne:**
-Powrót Gomułki wywołał entuzjazm społeczny – przemówienie do warszawskiego tłumu oglądały setki tysięcy ludzi. Nowy I sekretarz mówił o polskiej drodze do socjalizmu, zniesieniu kołchozów, normalizacji stosunków z Kościołem. Zwolniono prymasa Wyszyńskiego z internowania.
+## Wiec
+24 października Gomułka przemawiał na wiecu na placu Defilad, potępiając stalinizm i zapowiadając demokratyzację. Z Polski wyjechali Rokossowski i wielu radzieckich oficerów. W listopadzie w Moskwie umorzono część polskiego zadłużenia, uzgodniono repatriację Polaków z ZSRR i status wojsk radzieckich. Uwolniono więźniów politycznych, w tym prymasa Wyszyńskiego.
 
-**Ograniczenia odwilży:**
-Październik 1956 nie zmienił zasad systemu. Cenzura pozostała, Polska trwała w bloku wschodnim, a Gomułka stopniowo cofał liberalizację. Pismo Po Prostu zostało zamknięte w 1957 roku. Nadzieje na prawdziwą demokratyzację okazały się złudne.`,
-    trivia: ['Na wiecu na placu Defilad zebrały się setki tysięcy ludzi.', 'Gomułka wrócił do władzy jako człowiek wcześniej przez partię więziony.'],
+## Koniec odwilży
+Odwilż trwała krótko. W 1957 roku zamknięto tygodnik „Po prostu”, a po demonstracjach w kilku miastach utworzono ZOMO. Gomułka zakończył masowy terror, ale nie spełnił nadziei na demokratyzację – zaczęła się „mała stabilizacja”.`,
+    trivia: [
+      'W nocy z 18 na 19 października 1956 roku radzieckie wojska ruszyły w stronę Warszawy, a KBW przygotowywał obronę stolicy.',
+      'Chruszczow przyleciał do Warszawy bez zaproszenia, grożąc interwencją.',
+      'Według Edwarda Ochaba ustępliwość Moskwy wynikała m.in. ze stanowiska Chin.',
+    ],
     resources: [
       {
         id: 'pazdziernik-1956-pkf',
@@ -3035,35 +3041,37 @@ Milicja Obywatelska istniała do 10 maja 1990 roku, kiedy zastąpiła ją Policj
   },
   {
     id: 'kino-prl',
-    title: 'Polska Szkoła Filmowa',
-    subtitle: 'Kino jako głos sprzeciwu wobec systemu',
+    title: 'Kino w PRL',
+    subtitle: 'Od polskiej szkoły filmowej do kina moralnego niepokoju',
     category: 'kultura',
     tags: ['Wajda', 'Polański', 'Munk', 'Zanussi', 'Kieślowski', 'film', 'szkoła polska'],
     yearStart: 1955,
     yearEnd: 1989,
-    summary: 'Polska Szkoła Filmowa – nurt w kinie polskim lat 1955–1963, który przy użyciu metafory i symbolu podejmował temat II wojny, Holokaustu i moralnych rozterek. Późniejsze pokolenia twórców – Zanussi, Kieślowski, Holland – kontynuowały tradycję kina artystycznego w PRL.',
+    summary: 'Kino PRL – od polskiej szkoły filmowej Wajdy, Munka i Kawalerowicza, przez Polańskiego, po kino moralnego niepokoju i „Człowieka z żelaza”, nagrodzonego Złotą Palmą w 1981 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Palac_Oskara_Kona_Lodz.jpg?width=800',
     imageCaption: 'Pałac Oskara Kona w Łodzi, siedziba Szkoły Filmowej (fot. współczesna)',
-    content: `Polskie kino okresu PRL paradoksalnie należało do najwybitniejszych na świecie. Twórcy, operując alegorią i przemycając treści niemożliwe do powiedzenia wprost, stworzyli filmy o światowej randze.
+    content: `## Paradoks
+Kino PRL powstawało w państwowych zespołach filmowych, pod nadzorem cenzury i komisji kolaudacyjnych, a mimo to należało do najwybitniejszych w Europie. Twórcy posługiwali się alegorią i metaforą, by powiedzieć to, czego nie dało się powiedzieć wprost.
 
-**Polska Szkoła Filmowa (1955–1963):**
-Po Październiku 1956 kino zyskało chwilę oddechu. Andrzej Wajda ("Kanał" 1957, "Popiół i diament" 1958), Andrzej Munk ("Eroica" 1958, "Zezowate szczęście" 1960) i Jerzy Kawalerowicz ("Matka Joanna od Aniołów" 1961) tworzyli filmy rozliczające się z mitem heroicznym i wojennym.
+## Polska szkoła filmowa
+Po 1955 roku, a zwłaszcza po Październiku, powstał nurt nazwany polską szkołą filmową, rozliczający się z wojną i mitem bohaterstwa. Andrzej Wajda nakręcił „Kanał” (1957), nagrodzony w Cannes, i „Popiół i diament” (1958). Andrzej Munk stworzył „Eroikę” (1958) i „Zezowate szczęście” (1960), a Jerzy Kawalerowicz „Matkę Joannę od Aniołów” (1960), nagrodzoną w Cannes Srebrną Palmą.
 
-**Roman Polański:**
-Debiutował w Polsce – "Nóż w wodzie" (1962) był pierwszym polskim filmem nominowanym do Oscara. Wkrótce wyjechał na Zachód i osiągnął międzynarodową sławę.
+## Polański i nowe pokolenie
+Roman Polański debiutował „Nożem w wodzie” (1962) – pierwszym polskim filmem nominowanym do Oscara – po czym wyjechał na Zachód. W latach 60. i 70. powstawały też wielkie ekranizacje literatury, jak „Faraon” Kawalerowicza czy „Potop” Jerzego Hoffmana.
 
-**Kino moralnego niepokoju (lata 70.):**
-Krzysztof Zanussi, Krzysztof Kieślowski, Agnieszka Holland i Filip Bajon tworzyli filmy rozliczające się z codziennością PRL, kompromisami, konformizmem i systemem. "Przypadek" Kieślowskiego, "Barwy ochronne" Zanussiego – to filmy, które władze blokowały lub niechętnie dopuszczały.
+## Kino moralnego niepokoju
+W drugiej połowie lat 70. Krzysztof Zanussi, Krzysztof Kieślowski, Agnieszka Holland, Feliks Falk i Janusz Kijowski pokazywali konformizm, karierowiczostwo i codzienną korupcję. Do tego nurtu należą „Barwy ochronne” Zanussiego i „Wodzirej” Falka. „Człowiek z marmuru” Wajdy z 1977 roku opowiadał o fabrykowaniu przodowników pracy.
 
-**Cenzura i produkcja:**
-Wszystkie filmy powstawały w państwowych wytwórniach i podlegały cenzurze. Scenariusze musiały przejść przez komisje. Część filmów lądowała "na półce" – blokowana przez cenzurę przez lata.
+## Półkowniki
+Część filmów lądowała „na półce” – zatrzymana przez cenzurę na lata. Tak było z „Przypadkiem” Kieślowskiego i „Przesłuchaniem” Ryszarda Bugajskiego, które weszły na ekrany dopiero pod koniec lat 80.
 
-**Najważniejsze filmy:**
-- "Kanał" (Wajda, 1956) – Nagroda Specjalna Jury Cannes
-- "Popiół i diament" (Wajda, 1958) – arcydzieło kina moralnego
-- "Człowiek z marmuru" (Wajda, 1977) – o sfabrykowaniu bohatera socjalizmu
-- "Człowiek z żelaza" (Wajda, 1981) – Palme d\'Or w Cannes, o Solidarności`,
-    trivia: ['O dopuszczeniu filmu na ekrany decydowała komisja kolaudacyjna.', 'Mimo ograniczeń polskie kino zdobywało nagrody na najważniejszych festiwalach.'],
+## Cannes 1981
+Największy międzynarodowy sukces przyszedł w 1981 roku: „Człowiek z żelaza” Wajdy, film o Sierpniu i „Solidarności”, zdobył Złotą Palmę w Cannes. W stanie wojennym wielu twórców wyjechało albo milczało.`,
+    trivia: [
+      '„Nóż w wodzie” Romana Polańskiego był pierwszym polskim filmem nominowanym do Oscara.',
+      '„Człowiek z żelaza” Andrzeja Wajdy zdobył w 1981 roku Złotą Palmę w Cannes.',
+      'O dopuszczeniu filmu na ekrany decydowała komisja kolaudacyjna, a część filmów latami leżała „na półce”.',
+    ],
     resources: [
       {
         id: 'kino-1',
@@ -3117,28 +3125,28 @@ Wszystkie filmy powstawały w państwowych wytwórniach i podlegały cenzurze. S
     summary: 'Propaganda PRL – rozbudowany system manipulowania informacją i kształtowania świadomości społecznej przez komunistyczne władze. Obejmował prasę, radio, telewizję, plakat, film, szkołę i język publiczny (nowomowę).',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/3xtak.jpg?width=800',
     imageCaption: 'Plakat referendum „3 razy tak”, 1946',
-    content: `System propagandowy PRL budowany był od pierwszych dni nowej władzy i obejmował każdą sferę życia publicznego. Wzorowany na sowieckich metodach, łączył pozytywną agitację (sukcesy socjalizmu) z negatywną (strach przed Zachodem i wrogami klasowymi).
+    content: `## System
+Propaganda PRL obejmowała każdą sferę życia publicznego: prasę, radio, telewizję, film, plakat, szkołę i język. Wzorowana na metodach radzieckich, łączyła pokazywanie sukcesów socjalizmu z budowaniem strachu przed wrogami – Zachodem, „reakcją”, „rewizjonistami” i „syjonistami”.
 
-**Narzędzia propagandy:**
+## Cenzura
+Od 1945 roku nad wszystkimi publikacjami czuwał urząd cenzury – Główny Urząd Kontroli Prasy, Publikacji i Widowisk przy ul. Mysiej w Warszawie, z oddziałami we wszystkich województwach. Kontrolował prasę, radio, telewizję, książki, filmy, spektakle i wystawy, a także drukarnie i punkty kserograficzne. Ściśle współpracował z wydziałami propagandy PZPR i Służbą Bezpieczeństwa.
 
-*Prasa:*
-"Trybuna Ludu" – oficjalny organ KC PZPR, wyznaczała linię ideologiczną dla całej prasy. Wszystkie tytuły podlegały cenzurze GUKPPiW i redakcyjnemu nadzorowi partyjnemu.
+## Prasa i radio
+Linię wyznaczała „Trybuna Ludu”, organ KC PZPR. Jedynym źródłem wiadomości dla redakcji była Polska Agencja Prasowa. Polskie Radio było przez lata najważniejszym środkiem przekazu.
 
-*Polskie Radio i TVP:*
-Telewizja Polska rozpoczęła emisję w 1952 roku. "Dziennik Telewizyjny" (od 1958) był głównym narzędziem propagandy – stronnicze informacje, przemilczenia, manipulacja obrazem. W stanie wojennym spikerzy pojawiali się w mundurach wojskowych.
+## Dziennik Telewizyjny
+Od 2 stycznia 1958 roku do listopada 1989 roku główny program informacyjny telewizji nosił nazwę Dziennik Telewizyjny. W latach 70. i 80. był głównym ośrodkiem propagandy władz, sięgającym do manipulacji i dezinformacji. Po wprowadzeniu stanu wojennego prezenterzy występowali w mundurach.
 
-*PAP – Polska Agencja Prasowa:*
-Jedyne oficjalne źródło informacji dla wszystkich redakcji. Przekazywała wyłącznie zatwierdzone wiadomości.
+## Nowomowa
+Język propagandy, nazywany za Orwellem nowomową, operował stałym zestawem formuł i eufemizmów, fałszujących rzeczywistość i narzucających system wartości. W Polsce opisał go m.in. Michał Głowiński.
 
-*Plakat i sztuka:*
-Socrealismus nakazywał tworzyć sztukę służącą partii. Plakaty agitacyjne, monumentalne rzeźby, murale – cała przestrzeń publiczna była nasycona symboliką władzy.
-
-**Nowomowa:**
-Termin spopularyzowany przez Orwella (w "Roku 1984"), w polskim kontekście opisany przez Michała Głowińskiego w "Nowomowie po polsku". Język propagandy operował eufemizmami ("normalizacja" zamiast represji), sloganami i odwróconym znaczeniem słów.
-
-**Opór społeczny:**
-Społeczeństwo nauczyło się czytać między wierszami. Żarty polityczne (kawały o Radiu Erewań), samizdaty, drugi obieg – to formy oddolnego oporu wobec propagandy.`,
-    trivia: ['Hasła propagandowe zdobiły fasady zakładów pracy i ulice miast.', 'Nowomowa opisywała rzeczywistość lepszą, niż była w istocie.'],
+## Opór
+Społeczeństwo nauczyło się czytać między wierszami. Odpowiedzią były dowcipy polityczne, słuchanie Radia Wolna Europa i drugi obieg. Symbolicznym końcem tej epoki stały się słowa Joanny Szczepkowskiej wypowiedziane 28 października 1989 roku w Dzienniku Telewizyjnym: „Proszę Państwa, 4 czerwca 1989 skończył się w Polsce komunizm”. Urząd cenzury zniesiono 5 czerwca 1990 roku.`,
+    trivia: [
+      'Po wprowadzeniu stanu wojennego prezenterzy Dziennika Telewizyjnego występowali w mundurach wojskowych.',
+      'Cenzura kontrolowała nawet zakłady produkujące pieczątki i punkty kserograficzne.',
+      'W Dzienniku Telewizyjnym 28 października 1989 roku Joanna Szczepkowska powiedziała: „4 czerwca 1989 skończył się w Polsce komunizm”.',
+    ],
     resources: [
       {
         id: 'prop-1',
@@ -4956,31 +4964,33 @@ Kapuściński był wielokrotnie wymieniany jako kandydat do Nagrody Nobla. Stwor
   {
     id: 'kpn',
     title: 'Konfederacja Polski Niepodległej',
-    subtitle: 'Pierwsza jawna partia niepodległościowa od 1945 roku',
+    subtitle: 'Pierwsza jawna partia niepodległościowa w bloku wschodnim',
     category: 'opozycja',
     tags: ['KPN', 'Moczulski', 'niepodległość', 'opozycja', 'więzienie', '1979'],
     yearStart: 1979,
     yearEnd: 1989,
-    summary: 'Konfederacja Polski Niepodległej (KPN) – organizacja polityczna założona 1 września 1979 roku przez Leszka Moczulskiego. Była pierwszą jawnie działającą partią polityczną dążącą do pełnej niepodległości Polski i zerwania z ZSRR. Jej działacze byli wielokrotnie skazywani na długoletnie wyroki więzienia.',
+    summary: 'Konfederacja Polski Niepodległej – partia założona 1 września 1979 roku przez Leszka Moczulskiego, żądająca pełnej niepodległości; jej przywódców skazywano na wieloletnie więzienie.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Rewolucja_bez_rewolucji.jpg?width=800',
     imageCaption: '„Rewolucja bez rewolucji” Leszka Moczulskiego, nieoficjalny program KPN z 1979 roku',
-    content: `Konfederacja Polski Niepodległej powstała 1 września 1979 roku – w 40. rocznicę wybuchu II wojny światowej. Jej założycielem i liderem był Leszek Moczulski, dziennikarz i historyk.
+    content: `## Założenie
+Konfederację Polski Niepodległej założyli 1 września 1979 roku Leszek Moczulski, Tadeusz Stański i Romuald Szeremietiew; nawiązywała do tradycji piłsudczykowskich. Była pierwszą partią o charakterze antykomunistycznym, jaka powstała w Europie Środkowo-Wschodniej po stalinizmie. Powstanie ogłosiła Nina Milewska przy Grobie Nieznanego Żołnierza, bo pozostałych liderów SB zatrzymała prewencyjnie.
 
-**Program:**
-KPN głosiła hasła radykalniejsze niż KOR czy Solidarność – dążyła nie do reform w ramach systemu, lecz do pełnej suwerenności i zerwania z blokiem sowieckim. Postulowała: niepodległość, demokratyczny ustrój, wycofanie wojsk sowieckich z Polski.
+## Program
+Nieoficjalnym programem był tekst Moczulskiego „Rewolucja bez rewolucji” z 1979 roku. Nazywał on PRL „formą władztwa radzieckiego nad Polską” i przewidywał wybuch społecznego gniewu po załamaniu gospodarki planowej. Postulował drogę do „Trzeciej Rzeczypospolitej” bez rozlewu krwi: strajk okupacyjny zamiast walk ulicznych, powszechność protestu i samoorganizację. KPN deklarowała też solidarność z narodami regionu i wyrzekała się roszczeń wobec Ukrainy.
 
-**Represje:**
-Władze traktowały KPN jako szczególnie niebezpieczną. Moczulski i inni działacze byli wielokrotnie aresztowani. W 1980 roku Moczulski osadzony został na siedem lat więzienia (zwolniony przedterminowo). Procesy działaczy KPN były szczególnie surowe.
+## Represje
+W lutym 1980 roku KPN próbowała zgłosić własnych kandydatów do Sejmu; władze odmówiły, a działaczy zatrzymywano. Moczulskiego aresztowano we wrześniu 1980 roku, a w kolejnych miesiącach kilku innych przywódców. W stanie wojennym internowano 272 członków KPN. 8 października 1982 roku sąd wojskowy skazał Moczulskiego na 7 lat więzienia, a Stańskiego i Szeremietiewa na 5 lat.
 
-**Relacja z Solidarnością:**
-KPN i Solidarność miały złożone relacje. Solidarność, skupiona na reformach i negocjacjach, unikała konfrontacyjnych haseł niepodległościowych. KPN krytykowała kompromisowość Solidarności. Jednocześnie obie organizacje walczyły z tym samym systemem.
+## Poza Okrągłym Stołem
+KPN nie weszła do Komitetu Obywatelskiego przy Wałęsie i nie uczestniczyła w rozmowach w Magdalence ani przy Okrągłym Stole, krytykując porozumienie z władzą. Jej kongresy w 1989 roku SB rozbijała.
 
-**Lata 80. i transformacja:**
-Po stanie wojennym KPN działała w podziemiu. W wyborach czerwcowych 1989 roku KPN nie uczestniczyła w porozumieniu Okrągłego Stołu – startowała samodzielnie, nie osiągając progu. W Sejmie kontraktowym zasiedli jednak jej sympatycy.
-
-**Po 1989 roku:**
-KPN weszła do parlamentu w wyborach 1991 roku. Moczulski przez lata był posłem i senatorem. Partia stopniowo traciła znaczenie i w 2003 roku połączyła się z innymi ugrupowaniami.`,
-    trivia: ['Była pierwszą w bloku wschodnim partią jawnie żądającą niepodległości.', 'Jej przywódcy szybko trafili do więzień.'],
+## Po 1989 roku
+W 1990 roku Moczulski startował w wyborach prezydenckich. Największy sukces partia odniosła w 1991 roku: 7,5 procent głosów i 51 mandatów w Sejmie. Potem traciła znaczenie, a w 2003 roku sąd wykreślił ją z rejestru partii.`,
+    trivia: [
+      'Powstanie KPN ogłosiła Nina Milewska, bo pozostałych założycieli SB zatrzymała prewencyjnie.',
+      'W 1982 roku Leszka Moczulskiego skazano na 7 lat więzienia.',
+      'W wyborach 1991 roku KPN zdobyła 51 mandatów w Sejmie.',
+    ],
     resources: [
       {
         id: 'kpn-1',
@@ -5109,28 +5119,33 @@ Internowanie w stanie wojennym dotknęło też kobiety – działaczki Solidarno
   {
     id: 'rakowski',
     title: 'Mieczysław Rakowski',
-    subtitle: 'Ostatni premier PRL i gravekopalnia Solidarności',
+    subtitle: 'Redaktor „Polityki”, ostatni premier PRL z PZPR i ostatni szef partii',
     category: 'osoby',
     tags: ['Rakowski', 'Polityka', 'premier', 'PZPR', 'koniec PRL', 'transformacja'],
     yearStart: 1981,
     yearEnd: 1990,
-    summary: 'Mieczysław Rakowski (1926–2008) – dziennikarz, redaktor tygodnika "Polityka", wieloletni funkcjonariusz PZPR. Jako wicepremier negocjował ze strajkującymi w 1980 roku. Ostatni I sekretarz KC PZPR i przedostatni premier PRL. Symbolizuje reformatorskie skrzydło partii, które ostatecznie nie zdołało ocalić systemu.',
+    summary: 'Mieczysław Rakowski (1926–2008) – redaktor naczelny „Polityki” (1957–1982), wicepremier w rządzie Jaruzelskiego, premier w latach 1988–1989 i ostatni I sekretarz KC PZPR.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Mieczys%C5%82aw%20Rakowski.jpg?width=800',
     imageCaption: 'Mieczysław Rakowski – działacz PZPR, premier u schyłku PRL.',
-    content: `Mieczysław Rakowski był jedną z najbardziej znanych twarzy komunistycznej władzy w Polsce. Jako redaktor naczelny tygodnika "Polityka" (1958–1982) stworzył pismo o stosunkowo liberalnym profilu, które cieszyło się popularnością wśród inteligencji.
+    content: `## Droga do partii
+Mieczysław Rakowski (1926–2008) urodził się w Kowalewku na pograniczu Wielkopolski i Pomorza. Jego ojca Niemcy zamordowali w październiku 1939 roku. W czasie okupacji pracował w Poznaniu jako robotnik. W 1945 roku wstąpił do ludowego Wojska Polskiego jako oficer polityczny, od 1946 roku należał do PPR, a od 1949 roku pracował w KC PZPR. W 1956 roku obronił doktorat z historii.
 
-**Negocjacje w 1980 roku:**
-W sierpniu 1980 roku Rakowski, jako wicepremier, przyjechał do Stoczni Gdańskiej negocjować ze strajkującymi. Rozmowy z Wałęsą zakończyły się fiaskiem – Rakowski nie miał mandatu do realnych ustępstw. Jego pewność siebie i styl bycia były postrzegane przez robotników jako arogancja władzy.
+## „Polityka”
+W 1957 roku trafił do nowego tygodnika „Polityka”, a pod koniec roku został jego redaktorem naczelnym; kierował nim do 1982 roku. Pod jego kierunkiem „Polityka” uchodziła za pismo otwarte, reprezentujące liberalny nurt partii, a jej wiarygodność wzrosła po Marcu 1968 roku. Od 1973 roku tygodnik ukazywał się bez bezpośredniej kontroli cenzury.
 
-**"Polityka" i reformizm:**
-Tygodnik "Polityka" pod redakcją Rakowskiego był wyjątkowy w krajobrazie prasy PRL – poruszał tematy tabu, publikował analizy gospodarcze wskazujące na słabości systemu. Był jednak reformizmem w granicach akceptowanych przez partię, nie kwestionującym fundamentów ustroju.
+## Wicepremier
+W sierpniu 1980 roku Rakowski zabierał głos w telewizji, a po porozumieniach poparł Stanisława Kanię na miejsce Gierka. W lutym 1981 roku został wicepremierem w rządzie Jaruzelskiego i odpowiadał za rozmowy ze „Solidarnością”, m.in. po kryzysie bydgoskim. W sierpniu 1983 roku w sali BHP Stoczni Gdańskiej spotkał się z robotnikami – spotkanie przebiegło w ostrej atmosferze.
 
-**Premierstwo (1988–1989):**
-Rakowski objął stanowisko premiera w październiku 1988 roku. Rządził w najtrudniejszym dla PRL czasie – kryzys ekonomiczny, strajki, żądania legalizacji Solidarności. W grudniu 1988 roku podjął kontrowersyjną decyzję o likwidacji Stoczni Gdańskiej (wycofaną pod naciskiem). To posunięcie dramatycznie pogorszyło jego reputację.
+## Premier
+Premierem został we wrześniu 1988 roku. Jego rząd wprowadzał zręby gospodarki rynkowej, m.in. ustawę Wilczka. 31 października 1988 roku ogłoszono postawienie w stan likwidacji Stoczni Gdańskiej, co odebrano jako próbę zniszczenia kolebki „Solidarności”. Jego słowa, że Polaków mniej interesuje okrągły stół, a bardziej suto zastawiony stół, przyjęto jako niechęć do negocjacji – a jednak za jego premierostwa odbył się Okrągły Stół.
 
-**Ostatni I sekretarz PZPR:**
-W lipcu 1989 roku Rakowski objął funkcję I sekretarza KC PZPR – kiedy partia chyliła się ku upadkowi. Przewodził jej rozwiązaniu w January 1990 roku. Na gruzach PZPR powstała Socjaldemokracja Rzeczypospolitej Polskiej (SdRP).`,
-    trivia: ['Przez lata kierował „Polityką”, potem został ostatnim premierem PRL.', 'Jako ostatni I sekretarz ogłosił w 1990 roku rozwiązanie PZPR.'],
+## Ostatni I sekretarz
+W lipcu 1989 roku Rakowski zastąpił Jaruzelskiego na czele PZPR. W styczniu 1990 roku przewodniczył ostatniemu zjazdowi, który rozwiązał partię; jej miejsce zajęła Socjaldemokracja RP. Wydał później obszerne „Dzienniki polityczne”.`,
+    trivia: [
+      'Kierował „Polityką” przez blisko ćwierć wieku, od 1957 do 1982 roku.',
+      'Mawiał, że Polaków mniej interesuje okrągły stół, a bardziej suto zastawiony stół.',
+      'Był ostatnim I sekretarzem PZPR – przewodniczył zjazdowi, który w styczniu 1990 roku rozwiązał partię.',
+    ],
     resources: [
       {
         id: 'rakow-1',
@@ -6171,23 +6186,25 @@ Polska wieś intensywnie "wylewała się" do miast – miliony chłopów stały 
     yearStart: 1980,
     yearEnd: 1981,
     summary: 'NSZZ Rolników Indywidualnych "Solidarność" – związek zawodowy rolników powstały w 1980 roku jako część szerszego ruchu solidarnościowego. Walka o jego rejestrację doprowadziła do poważnego kryzysu politycznego w marcu 1981 roku (pobicie działaczy w Bydgoszczy) i ogólnopolskiego strajku ostrzegawczego.',
-    content: `Po Sierpniu 1980 roku fala strajkowa i organizacyjna objęła nie tylko zakłady przemysłowe, lecz także polską wieś. Rolnicy indywidualni – którzy przez całe lata PRL walczyli z przymusową kolektywizacją i wyzyskiem przez GS – zaczęli organizować własne struktury.
+    content: `## Wieś po Sierpniu
+Po Sierpniu 1980 roku fala organizowania się objęła także wieś. Rolnicy indywidualni, którzy przez lata bronili się przed kolektywizacją i dyktatem państwowego skupu, zaczęli tworzyć własne związki. Władze odmawiały rejestracji, twierdząc, że rolnicy jako właściciele nie mogą zrzeszać się w związku zawodowym.
 
-**Powstanie NSZZ RI:**
-Jesienią 1980 roku w całej Polsce powstawały komitety organizacyjne rolniczych związków zawodowych. W grudniu 1980 roku ukonstytuował się NSZZ Rolników Indywidualnych "Solidarność". Władze odmawiały jego rejestracji, twierdząc, że rolnicy indywidualni jako "prywatni właściciele" nie mogą tworzyć związku zawodowego.
+## Prowokacja bydgoska
+Na sesję Wojewódzkiej Rady Narodowej w Bydgoszczy 19 marca 1981 roku, poświęconą sytuacji rolników, zaproszono delegację „Solidarności” z szefem regionu Janem Rulewskim. Związkowcy żądali zgody na wiejską „Solidarność”. Przewodniczący niespodziewanie zamknął sesję, związkowcy zostali w budynku, a wieczorem milicja usunęła ich siłą. Pobitych Jana Rulewskiego, Michała Bartoszcze i Mariusza Łabentowicza przewieziono do szpitala. Kto zdecydował o pobiciu, do dziś nie wiadomo.
 
-**Kryzys bydgoski (marzec 1981):**
-19 marca 1981 roku w Bydgoszczy delegaci rolników uczestniczyli w posiedzeniu Rady Narodowej. Milicja brutalnie wyprowadziła ich z sali obrad i pobiła – w tym Jana Rulewskiego, przewodniczącego Regionu Bydgoskiego Solidarności. Incydent wywołał ogromne oburzenie.
+## Strajk ostrzegawczy
+W związku narastały nastroje konfrontacyjne, ale Lech Wałęsa zdecydował o strajku tylko ostrzegawczym, co wywołało konflikt w kierownictwie – rzecznik Karol Modzelewski podał się do dymisji. 27 marca 1981 roku odbył się czterogodzinny strajk ostrzegawczy, w którym wzięło udział około 12–14 milionów ludzi.
 
-**Strajk ostrzegawczy:**
-Na 27 marca 1981 roku Solidarność ogłosiła 4-godzinny strajk ostrzegawczy – największy strajk w historii powojennej Polski. Uczestniczyło w nim ok. 12–14 milionów pracowników. Władze cofnęły się, obiecując wyjaśnienia.
+## Prymas i porozumienie
+W kryzys włączył się Kościół. Prymas Stefan Wyszyński przestrzegał delegację związku przed strajkiem generalnym, „który tak łatwo jest zacząć, ale skończyć bardzo trudno”. 26 marca gen. Jaruzelski w rozmowie z prymasem zgodził się na powstanie wiejskiej „Solidarności”, przekraczając uprawnienia od Biura Politycznego.
 
-**Rejestracja:**
-W maju 1981 roku sąd zarejestrował NSZZ RI "Solidarność". Był to jeden z niewielu przypadków, gdy władze PRL ustąpiły pod presją opozycji po bezpośredniej konfrontacji.
-
-**Stan wojenny:**
-Po 13 grudnia 1981 roku NSZZ RI zdelegalizowano wraz z innymi strukturami Solidarności. Reaktywowano go po 1989 roku.`,
-    trivia: ['Rolnicy walczyli o rejestrację związku wiele miesięcy.', 'Udało się to dopiero wiosną 1981 roku.'],
+## Rejestracja i delegalizacja
+W maju 1981 roku sąd zarejestrował NSZZ Rolników Indywidualnych „Solidarność”. Po 13 grudnia 1981 roku związek zdelegalizowano razem z innymi strukturami „Solidarności”. Odrodził się po 1989 roku.`,
+    trivia: [
+      'W Bydgoszczy 19 marca 1981 roku milicja pobiła Jana Rulewskiego, Michała Bartoszcze i Mariusza Łabentowicza.',
+      'Zgodę na rolniczą „Solidarność” gen. Jaruzelski dał w rozmowie z prymasem Wyszyńskim, przekraczając uprawnienia od Biura Politycznego.',
+      'W strajku ostrzegawczym 27 marca 1981 roku wzięło udział około 12–14 milionów ludzi.',
+    ],
     resources: [
       {
         id: 'sr-film2',
