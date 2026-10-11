@@ -1805,7 +1805,7 @@ Z inicjatywy Wyszyńskiego Episkopat zawarł 14 kwietnia 1950 roku porozumienie 
 8 maja 1953 roku Episkopat skierował do rządu list „Non possumus” – „Nie możemy” – sprzeciwiający się podporządkowaniu obsady stanowisk kościelnych państwu. Wieczorem 25 września 1953 roku prymasa zatrzymano. Więziono go kolejno w Rywałdzie, Stoczku Klasztornym, Prudniku i Komańczy. W Komańczy, pod wpływem lektury „Potopu”, napisał tekst Jasnogórskich Ślubów Narodu, które 26 sierpnia 1956 roku odczytano wobec około miliona pielgrzymów na Jasnej Górze.
 
 ## Powrót
-Po Październiku, 26 października 1956 roku, Wyszyński wrócił do Warszawy. W ramach kompromisu z ekipą Gomułki do swoich diecezji wróciło 14 biskupów, a prymas wezwał wiernych do udziału w wyborach w styczniu 1957 roku.
+Po Październiku Wyszyńskiego zwolniono i 28 października 1956 roku przywieziono do Warszawy. W ramach kompromisu z ekipą Gomułki do swoich diecezji wróciło 14 biskupów, a prymas wezwał wiernych do udziału w wyborach w styczniu 1957 roku.
 
 ## Wielka Nowenna i Millennium
 W latach 1957–1966 prowadził Wielką Nowennę Tysiąclecia – dziewięcioletnie przygotowanie do jubileuszu chrztu Polski. Władze nie zgodziły się na przyjazd papieża Pawła VI na główne uroczystości 3 maja 1966 roku na Jasnej Górze i organizowały konkurencyjne obchody Tysiąclecia Państwa Polskiego.
@@ -3884,46 +3884,28 @@ Zachodnia granica na Odrze i Nysie była przez dekady kontestowana przez RFN. Os
     shortDesc: 'Sukcesy olimpijskie, masowy sport robotniczy i propaganda sukcesu – sport jako polityczne narzędzie PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Poolse_wereldrecordhoudster_Irena_Szewinska_met_landgenoot_Buciarski%2C_Bestanddeelnr_928-0515.jpg?width=800',
     imageCaption: 'Irena Szewińska z Wojciechem Buciarskim na zawodach lekkoatletycznych w Papendal pod Arnhem, 16 lipca 1975 (fot. Anefo)',
-    content: `## Sport w PRL
+    content: `## Sport i polityka
+Władza traktowała sport jako dowód sukcesu socjalizmu i narzędzie propagandy. Kluby powiązano z instytucjami państwa: Legia z wojskiem, Gwardia z milicją, inne z kopalniami i zakładami pracy. Zawodnicy formalnie byli amatorami, choć trenowali jak zawodowcy, a w zamian otrzymywali etaty, mieszkania, samochody i – najcenniejsze – paszporty.
 
-Sport w Polsce Ludowej pełnił wieloraką rolę: był narzędziem propagandy, oknem prestiżu na arenie międzynarodowej, ale też autentycznym źródłem radości i dumy narodowej. Polscy sportowcy odnosili na olimpiadach sukcesy nieproporcjonalne do wielkości kraju.
+## Igrzyska
+Polska była stałą bywalczynią olimpijskich podiów. Bokser Jerzy Kulej zdobył złoto w Tokio w 1964 roku i w Meksyku w 1968 roku. W Monachium w 1972 roku Polacy wywalczyli 21 medali, w tym 7 złotych – m.in. kulomiot Władysław Komar, sztangista Zygmunt Smalcerz, florecista Witold Woyda (dwa złota) i drużyna piłkarzy. Irena Szewińska, siedmiokrotna medalistka olimpijska, wygrała w Montrealu w 1976 roku bieg na 400 metrów.
 
-### Sport jako ideologia
+## Złota drużyna Górskiego
+Pod wodzą Kazimierza Górskiego piłkarze zdobyli w 1972 roku złoto olimpijskie, a 17 października 1973 roku remisem 1:1 na Wembley wyeliminowali Anglię z mistrzostw świata. Na mundialu 1974 roku zajęli trzecie miejsce, a Grzegorz Lato został królem strzelców. W 1976 roku zdobyli srebro olimpijskie, a w 1982 roku znów trzecie miejsce na mistrzostwach świata.
 
-Komunistyczna władza traktowała sport instrumentalnie. Wielkie sukcesy sportowe miały dowodzić wyższości socjalizmu nad kapitalizmem – porównywalne z lotem Gagarina czy sputnikiem. Sukcesy olimpijskie były materiałem propagandowym pierwszej klasy.
+## Gest Kozakiewicza
+Na igrzyskach w Moskwie w 1980 roku tyczkarz Władysław Kozakiewicz, wygwizdywany przez sowiecką publiczność, dwukrotnie pokazał jej obraźliwy gest, a potem skoczył 5,78 metra – rekord świata i złoty medal. Ambasador ZSRR domagał się odebrania mu medalu, a władze PRL tłumaczyły gest skurczem mięśnia. Zdjęcie obiegło świat, ale nie prasę polską i radziecką.
 
-Jednocześnie masowy sport miał integrować i wychowywać nowego człowieka. Towarzystwa Krzewienia Kultury Fizycznej (TKKF), Legia, Gwardia, Górnik – nazwy klubów oddawały charakter systemu: sport był organizacyjnie powiązany z wojskiem, milicją i zakładami pracy.
+## Sport masowy
+Towarzystwo Krzewienia Kultury Fizycznej organizowało rekreację dla milionów, a kolarski Wyścig Pokoju, współorganizowany przez „Trybunę Ludu”, przyciągał tłumy przy trasach i przed telewizorami.
 
-### Olimpijskie sukcesy
-
-Polska była regularną potęgą olimpijską. Najlepszy był rok 1972 w Monachium: 13 medali, w tym 7 złotych. Lekkoatleci, bokserzy, wioślarze, zapaśnicy – wielkie indywidualności i wielkie drużyny.
-
-**Irena Szewińska** – siedmiokrotna medalistka olimpijska, wielokrotna rekordzistka świata, ikona polskiej lekkoatletyki. Złoty medal w biegu na 400 metrów w Montrealu 1976 – jeden z najpiękniejszych momentów polskiego sportu.
-
-**Kazimierz Deyna** – mistrz futbolu. Drużyna Górskiego – Polska w finale mistrzostw świata 1974 (3. miejsce), złoto olimpijskie w Monachium 1972. Lata 70. to złoty czas polskiej piłki.
-
-**Jerzy Kulej** – dwukrotny złoty medalista olimpijski w boksie (Tokio 1964, Meksyk 1968).
-
-**Władysław Kozakiewicz** – złoty medal w skoku o tyczce na olimpiadzie w Moskwie 1980. Jego gest w stronę trybun sowieckich widzów (znany jako „gest Kozakiewicza") stał się symbolem oporu wobec Wschodu.
-
-### Piłka nożna lat 70.
-
-Epoka Gierka to złoty czas polskiego futbolu. Trener Kazimierz Górski zbudował drużynę marzeń: Deyna, Lubański, Szarmach, Lato, Gadocha, Tomaszewski. Polska zdobyła złoto olimpijskie (1972), srebro olimpijskie (1976) i zajęła 3. miejsce na MŚ w 1974 i 1982.
-
-Mecz Polska – Anglia (1973), zakończony remisem 1:1, który pozwolił Polsce awansować na MŚ i wyeliminował Anglię – jest legendą.
-
-### Lekkoatletyka
-
-Polska lekkoatletyka lat 60.–80. była globalną potęgą. Irena Szewińska, Jadwiga Wajs-Marcinkiewicz, Grażyna Rabsztyn, Bronisław Malinowski (złoto w Moskwie 1980 w biegu na 3000 m z przeszkodami) – to nie była przypadkowa dominacja.
-
-### Sport kobiecy
-
-PRL był stosunkowo postępowy w sporcie kobiecym. Kobiety uczestniczyły we wszystkich dyscyplinach, a osiągnięcia sportsmenek były szeroko nagłaśniane.
-
-### Granica propagandy i rzeczywistości
-
-Za sukcesami stało zawodowe podejście, świetni trenerzy i system wyławiania talentów. Ale też – jak wszędzie za żelazną kurtyną – doping i system przywilejów dla sportowców. Wyjeżdżanie za granicę, lepsze zaopatrzenie, samochody, paszporty – sportowcy żyli lepiej niż przeciętny Polak.`,
-    trivia: ['Sukcesy sportowe wykorzystywano propagandowo.', 'Zawodnicy formalnie byli amatorami, choć trenowali jak zawodowcy.'],
+## Bojkot i koniec epoki
+W 1984 roku Polska, wraz z ZSRR i większością bloku, zbojkotowała igrzyska w Los Angeles. Po 1989 roku sport stracił państwowego mecenasa, a zawodnicy – przywileje.`,
+    trivia: [
+      'W Monachium w 1972 roku Polacy zdobyli 21 medali, w tym 7 złotych.',
+      'Władze PRL tłumaczyły gest Kozakiewicza skurczem mięśnia ramienia.',
+      'Jerzy Kulej zdobył olimpijskie złoto w boksie dwukrotnie – w 1964 i 1968 roku.',
+    ],
     resources: [
       {
         id: 'sport-prl-yt',
@@ -9607,40 +9589,28 @@ W stanie wojennym wielu aktorów odmówiło występów w telewizji. W latach 80.
     summary: 'Lata stalinowskie (1944–1956) były okresem masowych represji, tortur i egzekucji sądowych. UB aresztowało dziesiątki tysięcy żołnierzy AK, działaczy PSL i opozycjonistów. Procesy pokazowe służyły eliminacji politycznych przeciwników i zastraszeniu społeczeństwa.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/%C5%81_Quarter_at_Military_Cemetery_in_Warsaw_%282023%29.jpg?width=800',
     imageCaption: 'Kwatera „na Łączce” na Powązkach Wojskowych, miejsce potajemnych pochówków ofiar (fot. współczesna)',
-    content: `Stalinizm w Polsce (1944–1956) oznaczał brutalną sowietyzację kraju połączoną z masowym terrorem wymierzonym w rzeczywistych i wyobrażonych przeciwników nowej władzy.
+    content: `## Terror jako metoda
+W latach 1944–1956 aparat bezpieczeństwa – Ministerstwo Bezpieczeństwa Publicznego, Informacja Wojskowa i doradcy z NKWD – rozprawiał się z rzeczywistymi i domniemanymi przeciwnikami nowej władzy: żołnierzami podziemia, działaczami PSL, duchownymi, a w końcu także komunistami podejrzanymi o „odchylenia”.
 
-**Skala represji**
+## Wyroki śmierci
+Kara śmierci była orzekana masowo. Same wojskowe sądy rejonowe wydały około 3500 wyroków śmierci, z których wykonano ponad 1300. Ofiarami mordów sądowych byli m.in. rtm. Witold Pilecki, stracony 25 maja 1948 roku, mjr Zygmunt Szendzielarz „Łupaszka” w 1951 roku i gen. August Emil Fieldorf „Nil” w 1953 roku.
 
-W latach 1944–1956 aparat bezpieczeństwa aresztował ponad 300 tysięcy ludzi. Więzienia pęczniały: na Mokotowie w Warszawie, w Rawiczu, Wronkach i Fordonie przetrzymywano tysiące więźniów politycznych. Szacuje się, że w tym okresie stracono co najmniej 6 tysięcy osób – żołnierzy podziemia, byłych oficerów AK, polityków opozycji i działaczy społecznych.
+## Śledztwo
+Śledczy stosowali bicie, wielodobowe przesłuchania bez snu, stójki, zimno i pozorowane egzekucje. Symbolem tych metod stał się płk Józef Różański, od 1947 roku dyrektor Departamentu Śledczego MBP, który nadzorował m.in. śledztwo Pileckiego. W latach 1948–1950 kierował także grupą specjalną rozpracowującą „prowokatorów” w samej partii.
 
-**Tortury i metody śledcze**
+## Procesy pokazowe
+W 1951 roku w „procesie generałów” na dożywocie skazano Stanisława Tatara, Jerzego Kirchmayera, Stefana Mossora i Franciszka Hermana, oskarżonych o szpiegostwo; w kolejnych procesach na śmierć skazano kilkudziesięciu oficerów. W 1953 roku osądzono biskupa kieleckiego Czesława Kaczmarka. Każdy proces był przygotowanym spektaklem, a wyrok zapadał przed rozprawą.
 
-Funkcjonariusze UB stosowali wyrafinowane techniki tortur: bicie, pozbawienie snu ("konwejer" – kilkudziesięciogodzinne przesłuchania bez przerwy), zmuszanie do stania, zimno, głodzenie, symulowane rozstrzelania. Zeznania wymuszano brutalnością, a oskarżeni podpisywali sfabrykowane protokoły. Szczególnie znane stały się metody stosowane przez płk. Józefa Różańskiego (naczelnika Departamentu Śledczego MBP) i jego podwładnych.
+## Bezimienne groby
+Straconych w więzieniu mokotowskim grzebano potajemnie, m.in. na tzw. Łączce przy Cmentarzu Wojskowym na Powązkach. Rodzinom nie wydawano ciał. Prace poszukiwawcze i identyfikacja szczątków trwają od 2012 roku.
 
-**Procesy pokazowe**
-
-Procesy polityczne były starannie wyreżyserowanymi spektaklami:
-- **Proces generałów** (1951) – sądzono wyższych oficerów Wojska Polskiego pod zarzutem szpiegostwa
-- **Proces Rotmistrza Witolda Pileckiego** (1948) – bohater Auschwitz skazany na śmierć i rozstrzelany
-- **Procesy żołnierzy AK i NSZ** – tysiące partyzantów podziemia sądzone jako "bandyci" i "faszyści"
-- **Proces biskupa Kaczmarka** (1953) – próba zastraszenia Kościoła katolickiego
-
-**Więzienie Mokotów**
-
-Słynne więzienie na Rakowieckiej w Warszawie stało się symbolem stalinowskiego terroru. Tu wykonywano większość egzekucji – wieszając lub strzelając w tył głowy. Ciał nie wydawano rodzinom; miejsca pochówku utrzymywano w tajemnicy przez dekady. Dopiero po 1989 roku zidentyfikowano część szczątków w kwaterze "Ł" na Powązkach.
-
-**Więźniowie Mokotowa**
-
-Wśród zamęczonych i straconych: Witold Pilecki (1948), gen. August Emil Fieldorf "Nil" (1953), Zygmunt Szendzielarz "Łupaszko" (1951), Stanisław Kasznica (1948), Henryk Flame "Bartek" (1947). Wielu oficerów i żołnierzy, którzy przeżyli obozy NKVD i obozy koncentracyjne, zginęło z rąk polskich stalinistów.
-
-**Ofiary spośród elit**
-
-Terror dotknął również elity: działaczy PSL (Stanisław Mierzwa i inni), polityków Stronnictwa Pracy, byłych ministrów rządu emigracyjnego, inteligencję, duchownych. Sprzyjał mu donos – donosiciele mogli otrzymać korzyści, a inwigilacja obejmowała sąsiadów, znajomych, a nawet rodziny.
-
-**Destalinizacja i rehabilitacje**
-
-Po śmierci Stalina (marzec 1953) represje stopniowo słabły. Przełom nastąpił po XX Zjeździe KPZS (1956) – referat Chruszczowa otworzył falę rehabilitacji. Uwolniono więźniów, zrehabilitowano część ofiar, postawiono przed sądem niektórych funkcjonariuszy UB (m.in. Różański skazany w 1957 roku). Jednak pełna prawda o zbrodniach stalinizmu była oficjalnie przemilczana aż do 1989 roku.`,
-    trivia: ['Wyroki w sprawach politycznych wydawały Wojskowe Sądy Rejonowe.', 'Straconych grzebano potajemnie, często w bezimiennych mogiłach.'],
+## Rozliczenie
+Po Październiku przed sądem stanęli niektórzy funkcjonariusze. W 1957 roku Różańskiego i Romana Romkowskiego skazano na 15 lat, a Anatola Fejgina na 12 – Sąd Najwyższy obniżył Różańskiemu karę do 14 lat. Pominięto jednak ich zbrodnie wobec podziemia niepodległościowego. Pełna prawda o terrorze mogła zostać ujawniona dopiero po 1989 roku.`,
+    trivia: [
+      'Wojskowe sądy rejonowe wydały około 3500 wyroków śmierci, z których wykonano ponad 1300.',
+      'W 1957 roku Józefa Różańskiego skazano na 15 lat – sądzono go jednak za represje wobec komunistów, nie wobec podziemia.',
+      'W „procesie generałów” z 1951 roku czterech generałów skazano na dożywocie.',
+    ],
     resources: [
       {
         id: 'zbrodnie-ipn',
@@ -9897,40 +9867,31 @@ W połowie lat 70. wykryto u niej chorobę nowotworową. Ostatni koncert dała 5
     tags: ['ZMP', 'indoktrynacja', 'młodzież', 'komunizm', 'szkoła', 'przodownicy pracy'],
     yearStart: 1948,
     yearEnd: 1957,
-    summary: 'Związek Młodzieży Polskiej (1948–1957) – masowa organizacja komunistyczna wzorowana na radzieckim Komsomolu. Skupiała ponad milion członków, prowadziła indoktrynację ideologiczną w szkołach i zakładach pracy, organizowała brygady młodzieżowe przy budowie Nowej Huty i MDM. Rozwiązana po Październiku 1956.',
+    summary: 'Związek Młodzieży Polskiej (1948–1957) – organizacja wzorowana na Komsomole, licząca w szczycie około 2 milionów członków; narzędzie indoktrynacji młodzieży, rozwiązane w styczniu 1957 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Brulion_ZMP_ok%C5%82adka_przednia_01.jpg?width=800',
     imageCaption: 'Okładka szkolnego brulionu z symboliką Związku Młodzieży Polskiej',
-    content: `Związek Młodzieży Polskiej (ZMP) – organizacja komunistyczna powołana w 1948 roku jako masowe zrzeszenie młodzieży, będące głównym instrumentem ideologicznej formacji młodego pokolenia.
+    content: `## Polski Komsomoł
+Związek Młodzieży Polskiej utworzono 21 lipca 1948 roku na Kongresie Jedności Młodzieży we Wrocławiu. Powstał z przymusowego połączenia wcześniejszych organizacji – m.in. Organizacji Młodzieży TUR, Związku Młodzieży Demokratycznej, „Wici” i komunistycznego Związku Walki Młodych. W 1950 roku wcielono do niego Związek Akademickiej Młodzieży Polskiej, a w 1951 roku utworzono przy nim Organizację Harcerską w miejsce zlikwidowanego ZHP. Był odpowiednikiem sowieckiego Komsomołu, w pełni podporządkowanym partii.
 
-**Powstanie i struktura**
+## Zielone koszule
+Zetempowcy w zielonych koszulach i czerwonych krawatach maszerowali na manifestacjach, pracowali przy „wielkich budowach socjalizmu”, propagowali współzawodnictwo pracy i kolektywizację. Brygady aktywistów najeżdżały gospodarstwa „kułaków”, szukając ukrytego zboża, i zmuszały chłopów do wstępowania do spółdzielni. Na uczelniach wywieszano „tablice bumelantów”, a aktywiści piętnowali zachodnie tańce, grę w karty i „wrogie” wypowiedzi.
 
-ZMP powstało w lipcu 1948 roku z połączenia kilku organizacji młodzieżowych (m.in. Organizacji Młodzieży Towarzystwa Uniwersytetu Robotniczego i Związku Walki Młodych). Wzorowano je na sowieckim Komsomole. Organizacja była podporządkowana PZPR i działała na wszystkich szczeblach: od podstaw zakładowych i szkolnych po centralne struktury. Przynależność była formalnie dobrowolna, ale w praktyce wywierano silną presję – brak legitymacji ZMP oznaczał problemy w szkole i pracy.
+## W szkole
+ZMP miało przebudować szkołę w duchu komunistycznym. Jego aktywiści zasiadali w radach pedagogicznych i donosili na nauczycieli głoszących „reakcyjne” poglądy; ich opinia mogła zadecydować o zwolnieniu nauczyciela czy przyjęciu na studia.
 
-**Indoktrynacja i działalność**
+## Dwa miliony członków
+W szczytowym okresie do ZMP należało około 2 milionów osób – prawie 40 procent młodzieży. W większości nie z przekonania: w badaniach Stefana Nowaka tylko 10 procent dawnych członków wskazało poglądy polityczne jako powód wstąpienia, a 34 procent – chęć dostania się na studia. Wielu szeregowych członków chodziło do kościoła, a w latach 1949–1955 zetempowcy stanowili od 29 do 60 procent zatrzymanych członków młodzieżowych grup konspiracyjnych.
 
-ZMP prowadziło intensywną działalność ideologiczną:
-- **Kółka samokształceniowe** z obowiązkowym studiowaniem Marksa, Engelsa, Lenina i Stalina
-- **Akademie ku czci** – uroczystości rocznicowe rewolucji październikowej, urodzin Stalina, Bieruta
-- **Brygady pracy** – ochotnicze (faktycznie przymusowe) wyjazdy do budowy Nowej Huty, MDM, elektryfikacji wsi
-- **Informowanie** – ZMP-owcy donosili na uczniów, nauczycieli i rodziców o "wrogich" wypowiedziach
-- **Współzawodnictwo pracy** – ruch przodownictwa pracy wśród młodych robotników
+## Rozwiązanie
+Od 1955 roku organizacja stawała się fikcją, a Październik 1956 roku przypieczętował jej rozpad. ZMP formalnie rozwiązano na plenum 10–11 stycznia 1957 roku; kilka dni wcześniej powstał Związek Młodzieży Socjalistycznej. Organem prasowym ZMP był m.in. „Sztandar Młodych”.
 
-**Skala i przodownicy**
-
-W szczytowym okresie (1952–1953) ZMP liczyło ponad 2 miliony członków. Organizacja kreowała wzorce osobowe: przodownicy pracy (wyrabiający kilkaset procent normy), wzorowi uczniowie szkoły ZMP, aktywni działacze. Wincenty Pstrowski – górnik postulujący "kto wytworzy więcej ode mnie" – stał się oficjalnym bohaterem propagandowym.
-
-**ZMP w szkołach**
-
-Szkoły stały się polem szczególnie intensywnej działalności ZMP. Nauczyciele byli oceniani przez pryzmat zaangażowania w pracę ZMP. Lekcje historii, geografii, biologii przepajano marksistowską ideologią. Uczniowie "aktywni" w ZMP mieli łatwiejszy dostęp do uczelni wyższych. Brak aktywności lub związki z Kościołem były piętnem.
-
-**Kryzys i rozwiązanie**
-
-Po śmierci Stalina (1953) i XX Zjeździe KPZS (1956) ZMP weszło w ostry kryzys. Młodzież – wcześniej szczerze czy pozornie zaangażowana – zaczęła masowo kwestionować ideologię. Wystąpienia w 1956 roku (zarówno po poznańskim Czerwcu, jak i przy okazji Październikowego Przełomu) ujawniły głęboki kryzys organizacji. W grudniu 1956 roku ZMP samorozwiązało się – na jego miejsce powołano kilka nowych, mniej zideologizowanych organizacji (m.in. ZMS – Związek Młodzieży Socjalistycznej).
-
-**Ocena i pamięć**
-
-Doświadczenie ZMP jest złożone. Część członków szczerze wierzyła w ideały budowy lepszego świata; wielu z nich po 1956 roku stało się krytykami systemu (m.in. Jacek Kuroń był aktywnym ZMP-owcem). ZMP wyrządziło jednak realne szkody: przez denuncjacje, zniszczenie kariery "nieprawomyślnych", formatowanie całego pokolenia według ideologicznego szablonu.`,
-    trivia: ['Organizacja wychowywała młodzież w duchu stalinowskim.', 'Rozwiązano ją po przełomie 1956 roku.'],
+## Pokolenie ZMP
+Świadomi wybór organizacji był udziałem mniejszości, ale to z niej wyrosło „pokolenie ZMP” – część działaczy objęła w latach 70. ważne stanowiska w państwie, a inni, jak Jacek Kuroń, stali się później krytykami systemu.`,
+    trivia: [
+      'Tylko 10 procent badanych dawnych członków ZMP wskazało poglądy polityczne jako powód wstąpienia.',
+      'Na uczelniach aktywiści ZMP wywieszali „tablice bumelantów”.',
+      'ZMP utworzono 21 lipca 1948 roku na Kongresie Jedności Młodzieży we Wrocławiu.',
+    ],
     resources: [
       {
         id: 'zmp-ipn',
@@ -10106,47 +10067,25 @@ Był posłem I i II kadencji, współprzewodniczącym Unii Pracy, a w latach 199
     yearStart: 1953,
     yearEnd: 1957,
     summary: 'Destalinizacja w Polsce (1953–1957) – proces stopniowego odchodzenia od stalinowskich metod rządzenia po śmierci Stalina w 1953 roku. Kulminacją był Październik 1956 – powrót Gomułki, rehabilitacje ofiar, rozwiązanie ZMP i ograniczone reformy polityczne.',
-    content: `Destalinizacja to proces modyfikacji systemu komunistycznego po śmierci Józefa Stalina (5 marca 1953), obejmujący stopniowe odejście od najbardziej brutalnych form terroru i dogmatycznej ideologii.
+    content: `## Po śmierci Stalina
+Śmierć Józefa Stalina 5 marca 1953 roku zapoczątkowała w całym bloku powolne odchodzenie od najbrutalniejszych form terroru. W Polsce przełomem okazała się ucieczka na Zachód w grudniu 1953 roku wicedyrektora X Departamentu MBP Józefa Światły, którego audycje w Radiu Wolna Europa ujawniły kulisy pracy bezpieki. W grudniu 1954 roku rozwiązano Ministerstwo Bezpieczeństwa Publicznego, a w grudniu 1955 roku na krótkie kary skazano dyrektora jego Departamentu Śledczego Józefa Różańskiego.
 
-**Śmierć Stalina i pierwsze symptomy**
+## Rok 1956
+25 lutego 1956 roku Nikita Chruszczow wygłosił na XX Zjeździe KPZR tajny referat o zbrodniach Stalina; jego tekst szybko dotarł do Polski. 12 marca 1956 roku w Moskwie zmarł Bolesław Bierut, a I sekretarzem PZPR został Edward Ochab. 28 czerwca 1956 roku wybuchł robotniczy bunt w Poznaniu, krwawo stłumiony przez wojsko i bezpiekę.
 
-Śmierć Stalina wywołała w Polsce mieszaninę żalu (indukowanego przez propagandę) i ukrytej ulgi. Aparat partyjny i bezpieczeństwa stanął przed pytaniem o kierunek zmian. Pierwsze sygnały odwilży to złagodzenie represji, zwolnienie kilku głośnych więźniów, nieznaczna liberalizacja prasy.
+## Październik
+W partii ścierały się frakcje natolińczyków i puławian, a kandydatem do przyjęcia dla obu okazał się Władysław Gomułka, wcześniej więziony za „odchylenie prawicowo-nacjonalistyczne”. 19 października 1956 roku do Warszawy przyleciała bez zaproszenia delegacja z Chruszczowem, a sowieckie wojska ruszyły w stronę stolicy. Zakłady pracy tworzyły grupy samoobrony, a KBW gen. Wacława Komara obsadził ważne obiekty. 21 października plenum wybrało Gomułkę na I sekretarza, a 24 października na wielkim wiecu na placu Defilad potępił stalinizm i zapowiedział demokratyzację. Z Polski wyjechał marszałek Konstanty Rokossowski i wielu sowieckich oficerów.
 
-**Raport Chruszczowa (1956)**
+## Skutki
+Z więzień wyszło około 35 tysięcy osób, zrehabilitowano około 1500 więźniów politycznych, a 28 października uwolniono prymasa Wyszyńskiego. Wycofano się z kolektywizacji, reaktywowano Związek Harcerstwa Polskiego, przywrócono na kilka lat religię w szkołach, przestano zagłuszać zachodnie rozgłośnie, a do kraju wróciło około 29 tysięcy Polaków z ZSRR. Katowice odzyskały nazwę zamiast „Stalinogrodu”. W 1957 roku przed sądem stanęli m.in. Różański, Romkowski i Fejgin.
 
-Przełom nastąpił na XX Zjeździe KPZS w lutym 1956 roku, kiedy Nikita Chruszczow wygłosił tajny referat "O kulcie jednostki i jego następstwach", demaskując zbrodnie Stalina. Tekst szybko "wyciekł" i stał się znany w Polsce. Wywołał szok w aparacie partyjnym i rozbudził nadzieje w społeczeństwie.
-
-**Śmierć Bieruta**
-
-Bolesław Bierut – polski Stalin – zmarł 12 marca 1956 roku w Moskwie, kilka dni po XX Zjeździe. Okoliczności śmierci nigdy nie zostały w pełni wyjaśnione. I sekretarzem PZPR został Edward Ochab – postać bardziej skłonna do reform.
-
-**"Po prostu" i dyskusja publiczna**
-
-Tygodnik "Po prostu" stał się forum swobodnej, jak na warunki PRL, dyskusji politycznej. Artykuły krytykowały biurokrację, dogmatyzm i stalinowskie wypaczenia. Podobna atmosfera panowała w środowiskach inteligencji twórczej (m.in. słynne "czwartki" u Kotta).
-
-**Czerwiec 1956 – Poznań**
-
-Czerwcowy bunt robotników w Poznaniu był testem dla systemu. Krwawe stłumienie (57 zabitych) ujawniło przepaść między władzą a społeczeństwem. Wydarzenie przyspieszyło wewnątrzpartyjne rozgrywki.
-
-**Październik 1956 i powrót Gomułki**
-
-19–21 października 1956 roku – dramatyczne plenum KC PZPR. Wbrew woli Moskwy (przybycie Chruszczowa i sowieckiego wojska) I sekretarzem wybrano Władysława Gomułkę – człowieka, który siedział w więzieniu za "odchylenie prawicowo-nacjonalistyczne". Jego wybór był kompromisem: sowiecki komunista, ale z polskim obliczem i autonomistycznymi tendencjami.
-
-**Reformy i ich granice**
-
-Po Październiku 1956:
-- Uwolniono tysiące więźniów politycznych, w tym kard. Wyszyńskiego
-- Zrehabilitowano część ofiar stalinizmu (pośmiertnie – w tym Fieldorfa, Spychalskiego)
-- Rozwiązano ZMP, osłabiono cenzurę, dopuszczono pewien pluralizm kulturalny
-- Cofnięto kolektywizację rolnictwa (chłopi opuścili spółdzielnie)
-- Polskę i ZSRR powiązano nową umową (polskie wojska pod polskim dowodzeniem)
-
-Reformy miały jednak granice: PZPR utrzymała monopol władzy, SB funkcjonowała dalej, relacje ze ZSRR nie zmieniły się zasadniczo.
-
-**Znaczenie**
-
-Destalinizacja w Polsce nie zniszczyła systemu, ale go znacząco zreformowała. Październik 1956 stał się wzorcem dla późniejszych prób reform (1970, 1980) – pokazał, że społeczny nacisk może wymusić ustępstwa od władzy, ale nie całkowite zmiany systemu.`,
-    trivia: ['Odwilż przyniosła powrót Władysława Gomułki i zwolnienie części więźniów politycznych.', 'Rozwiązano Ministerstwo Bezpieczeństwa Publicznego.'],
+## Granice odwilży
+Odwilż trwała krótko. Już w grudniu 1956 roku powołano ZOMO, a w 1957 roku zlikwidowano tygodnik „Po prostu”. PZPR zachowała monopol władzy, a kraj wszedł w okres „małej stabilizacji”, który trwał aż do 1970 roku.`,
+    trivia: [
+      'Po Październiku z więzień wyszło około 35 tysięcy osób, a około 1500 więźniów politycznych zrehabilitowano.',
+      'W 1956 roku Katowice odzyskały nazwę – od 1953 roku nazywały się Stalinogród.',
+      'Ministerstwo Bezpieczeństwa Publicznego rozwiązano już w grudniu 1954 roku.',
+    ],
     resources: [
       {
         id: 'dest-pkf',
@@ -11399,46 +11338,28 @@ Po 1989 roku Łódź przeżyła kryzys przemysłowy – zamknięte fabryki, bezr
     yearStart: 1959,
     yearEnd: 1989,
     shortDesc: 'Perfect, Lady Pank, Republika, Maanam – polska scena rockowa lat 80. jako wyraz buntu i wolności.',
-    content: `## Rock i muzyka młodzieżowa w PRL
+    content: `## Bigbit
+Rock and roll docierał do Polski przez Radio Luxembourg i inne zachodnie rozgłośnie. Franciszek Walicki założył pierwszy polski zespół rockandrollowy, Rhythm and Blues, i wymyślił nazwę „big-beat”, bo określenie „rock and roll” było dla władz zbyt zachodnie. Polska jako pierwszy kraj bloku zaakceptowała tę muzykę – już na początku lat 60. Niebiesko-Czarni przyjęli hasło „Polska młodzież śpiewa polskie piosenki”, a Czerwone Gitary i Skaldowie zdobyli masową popularność.
 
-Polska scena rockowa lat 70. i 80. była jednym z najważniejszych zjawisk kulturalnych PRL – i jednocześnie przestrzenią autentycznej wolności artystycznej. Kapele takie jak Perfect, Lady Pank, Republika, Maanam, Dżem czy TSA tworzyły muzykę, która mówiła prawdę o rzeczywistości i dawała młodym ludziom poczucie własnej tożsamości.
+## Kontrola
+Wykonawcy musieli zdać egzamin przed komisją weryfikacyjną, by występować zawodowo, a teksty przechodziły przez cenzurę. W Polsce komisje były jednak łagodniejsze niż w ZSRR czy Czechosłowacji, dlatego polska scena rozwijała się swobodniej.
 
-### Początki – beatlemania i twist
+## Lata 70.
+Czesław Niemen sięgał po rock progresywny i jazz-rock, Breakout Tadeusza Nalepy grał bluesa, a zespół SBB łączył rock z jazzem. Na Śląsku narodził się Dżem.
 
-Zachodni rock and roll dotarł do Polski w latach 50. za pośrednictwem radia – BBC, Głosu Ameryki, Radia Luksemburg. W 1957 roku polska młodzież tańczyła rock and rolla w kawiarniach; władze były zniesmaczone.
+## Rockowy boom
+Przełom lat 70. i 80. przyniósł eksplozję. Perfect, oficjalnie od 1980 roku z Grzegorzem Markowskim i Zbigniewem Hołdysem, nagrał „Nie płacz Ewka”, „Autobiografię” i „Chcemy być sobą”. Lady Pank, Maanam z Korą, Republika Grzegorza Ciechowskiego, Kombi i TSA wypełniały hale i listy przebojów, także Listę Przebojów Trójki, prowadzoną od 1982 roku.
 
-Lata 60. przyniosły polskich naśladowców Beatlesów. Czerwone Gitary, Niebiesko-Czarni, Skaldowie – po polsku, z folk-rockowym odcieniem. Festiwal w Sopocie od 1961 roku był trampoliną dla polskich wykonawców i platformą dla kontaktów z zagranicą.
+## Jarocin
+Festiwal w Jarocinie odbywał się od 1970 roku jako Wielkopolskie Rytmy Młodych, a od 1980 roku, z inicjatywy Waltera Chełstowskiego, jako festiwal muzyki rockowej – największy w bloku wschodnim. W latach 80. był jedynym miejscem, gdzie mogły się pokazać zespoły niezależne, a cenzura często bywała ignorowana. Jarocińska publiczność bywała bezlitosna wobec zespołów promowanych oficjalnie. Dla Dżemu, Siekiery, Dezertera czy Moskwy występ w Jarocinie był ogólnopolskim debiutem lub przełomem. Niektórzy uważali festiwal za wentyl bezpieczeństwa tolerowany przez władze.
 
-### Lata 70. – Breakout, Dżem, SBB
-
-W latach 70. polska scena dojrzewała. **Breakout** Tadeusza Nalepy – blues-rock o autentycznym bólu, daleki od słodkości ówczesnej oficjalnej muzyki. **Dżem** z Rybnika – ciężki blues i rock, z Ryszardem Riedlem, tragicznym genialnym wokalistą. **SBB** (Silesian Blues Band) – jazz-rock, eksperyment, wirtuozeria.
-
-Cenzura miała problem z rockiem – zbyt głośny, zbyt angielski, zbyt niezrozumiały, by kontrolować każde słowo. To dawało wykonawcom pewien margines swobody.
-
-### Lata 80. – złoty wiek
-
-Lata 80. były złotym wiekiem polskiego rocka. W cieniu stanu wojennego i opresji wyrosła scena, która trafiała prosto do serc młodych Polaków.
-
-**Perfect** – „Chcemy być sobą" (1981) stało się hymnem pokolenia strajkującego w sierpniu. Zbigniew Hołdys i jego zespół łączyli pop z buntowniczym przesłaniem. „Autobiografia", „Nie płacz, Ewka" – klasyki.
-
-**Lady Pank** – Jan Borysewicz i Andrzej Mogielnicki, przeboje nowej fali: „Zawsze tam gdzie ty", „Minus zero". Elegancja i bunt.
-
-**Republika** – Grzegorz Ciechowski, „Tak, tak, to ja" i „Masakra" – post-punk z filozoficznym przesłaniem. Jeden z najinteligentniejszych zespołów polskiego rocka.
-
-**Maanam** – Kora i Marek Jackowski, „Boskie Buenos", „Nocny patrol" – nowa fala, erotyzm i wolność, totalnie niepokorni.
-
-**TSA** – heavy metal, „51°", „Biały krzyż" – gitarowy gniew.
-
-### Festiwale i JAROCIN
-
-Festiwal w Jarocinie był corocznym celebrowaniem wolności. Od 1980 roku miasto w Wielkopolsce na kilka dni zamieniało się w stolicę polskiego rocka i alternatywy. Punkowcy, metalowcy, nowa fala – wszyscy razem. Władze patrzyły z niepokojem, ale nie zakazały – chyba wolały mieć młodzież w jednym miejscu.
-
-Jarocin był też miejscem formowania się sceny punkowej – Lady Pank tam debiutowali, tam grały setki mniejszych kapel, tam wytworzył się etos alternatywnej Polski.
-
-### Rock i Solidarność
-
-Muzyka rockowa lat 80. nie była wprost polityczna, ale jej etos był opozycyjny. „Chcemy być sobą" to nie był manifest Solidarności, ale wszyscy wiedzieli, o co chodzi. Energia, bunt, autentyczność – kontrast z oficjalną kulturą partyjną.`,
-    trivia: ['Rock nazywano big-beatem, by uniknąć zachodnio brzmiącej etykiety.', 'Festiwal w Jarocinie stał się największym świętem sceny.'],
+## Trzeci obieg
+Amatorskie nagrania koncertów i kasety zespołów punkowych krążyły w „trzecim obiegu”, niezależnym zarówno od władzy, jak i od głównego nurtu opozycji. Rock lat 80. rzadko był wprost polityczny, ale jego hasła – jak „Chcemy być sobą” – młodzież odczytywała jednoznacznie.`,
+    trivia: [
+      'Nazwę „big-beat” wymyślił Franciszek Walicki, bo „rock and roll” brzmiał dla władz zbyt zachodnio.',
+      'Festiwal w Jarocinie odbywał się od 1970 roku – do 1979 roku jako Wielkopolskie Rytmy Młodych.',
+      'Dla Dżemu, Siekiery i Dezertera występ w Jarocinie był ogólnopolskim debiutem lub przełomem.',
+    ],
     resources: [
       {
         id: 'rock-ninateka',
