@@ -6592,44 +6592,28 @@ Dopiero w 1988 r. złagodzono przepisy, a 1 stycznia 1989 r. weszła w życie no
     shortDesc: 'Trybuna Ludu, Polityka, Przekrój – kontrolowana prasa jako narzędzie propagandy i okno na rzeczywistość.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Trybuna_Ludu_-_10.08.1981.jpg?width=800',
     imageCaption: 'Pierwsza strona Trybuny Ludu, organu KC PZPR, z 10 sierpnia 1981 r.',
-    content: `## Prasa i media w PRL
+    content: `## Prasa pod kontrolą
+Każdy tytuł w PRL musiał mieć wydawcę zatwierdzonego przez władze, a każdy tekst przechodził przez cenzurę prewencyjną Głównego Urzędu Kontroli Prasy, Publikacji i Widowisk. Większość gazet wydawał partyjny koncern RSW „Prasa-Książka-Ruch”, który zarządzał też kioskami „Ruchu”.
 
-Prasa w Polsce Ludowej funkcjonowała w warunkach ścisłej kontroli partyjnej i cenzury, ale była też areną subtelnych gier między władzą a dziennikarzami, którzy próbowali przemycić odrobinę prawdy między wierszami.
+## Trybuna Ludu
+Organem KC PZPR była „Trybuna Ludu”, powstała z połączenia „Głosu Ludu” i „Robotnika” – jej pierwszy numer ukazał się 16 grudnia 1948 roku, w czasie kongresu zjednoczeniowego. W połowie lat 70. miała nakład około 1,5 miliona egzemplarzy; więcej sprzedawała tylko katowicka „Trybuna Robotnicza”. Cenzura nie pozwalała innym pismom polemizować z jej tekstami. Ostatni numer pod tym tytułem ukazał się 28 stycznia 1990 roku.
 
-### Struktura systemu prasowego
+## Polityka
+Tygodnik „Polityka” zaczął wychodzić 27 lutego 1957 roku jako pismo PZPR mające zastąpić tracące poparcie „Po prostu”. Od 1958 do 1982 roku redagował go Mieczysław Rakowski. W zespole pracowali m.in. Ryszard Kapuściński, Daniel Passent i Jerzy Urban. W odróżnieniu od „Trybuny Ludu” pismo dopuszczało – w granicach cenzury – opinie niezupełnie zgodne z linią partii.
 
-PZPR kontrolowała wszystkie media. Każde pismo musiało mieć „właściciela" – instytucję partyjną, związkową lub stronnictwo satelickie. Centralny Urząd Kontroli Prasy, Publikacji i Widowisk (cenzura) sprawdzał każdy tekst przed drukiem.
+## Tygodniki inteligencji
+Krakowski „Przekrój” Mariana Eilego był pismem o wyjątkowym stylu i humorze, oknem na kulturę świata. Katolicki „Tygodnik Powszechny” Jerzego Turowicza zachował niezależność – w 1953 roku odebrano go redakcji za odmowę opublikowania nekrologu Stalina, a prawowity zespół wrócił do pisma po Październiku 1956 roku.
 
-Główny organ partyjny: **Trybuna Ludu** – codzienna gazeta partii, nudna, pełna partyjnego nowomówu, czytana przez obowiązek, a nie z ciekawości. Nakład milionowy, bo wielkie zakłady pracy prenumerowały ją automatycznie.
+## Między wierszami
+Dziennikarze nauczyli się mówić aluzją, a czytelnicy – czytać między wierszami. O rzeczywistości świadczyło także to, czego w gazetach brakowało.
 
-**Żołnierz Wolności** – dziennik wojskowy. **Sztandar Młodych** – pismo ZMS. **Głos Pracy** – związkowy. Każda instytucja miała swój organ.
-
-### Tygodniki – względna swoboda
-
-Tygodniki miały nieco więcej swobody niż dzienniki. **Polityka** (od 1957) pod redakcją Mieczysława Rakowskiego była najbardziej wpływowym tygodnikiem opinii – ostrożnie reformistyczna, czytana przez inteligencję, niekiedy pozwalała na krytykę systemu w jego ramach.
-
-**Przekrój** (od 1945, Kraków) był pismem kulturalno-rozrywkowym o wyjątkowej klasie graficznej i redakcyjnej. Był oknem na kulturę zachodnią – filmy, literatura, moda – i był powszechnie kochany.
-
-**Tygodnik Powszechny** (Kraków) – katolickie pismo środowisk inteligenckich, w istocie jedyne niezależne pismo w systemie. Jego redaktorzy, w tym Jerzy Turowicz, potrafili bronić niezależności redakcji nawet w najtrudniejszych czasach.
-
-### Dziennikarze i gra z cenzurą
-
-Doświadczeni dziennikarze nauczyli się gry z cenzurą. Aluzja, metafora, odwołanie do historii starożytnej lub obcej – to były techniki mówienia prawdy tak, by cenzor jej nie zauważył lub nie chciał zrozumieć.
-
-Słynna była praktyka „czytania między wierszami" – polscy czytelnicy nauczyli się rozumieć to, co nie było napisane. Pominięcie informacji, nieobecność tematu – to też mówiło o rzeczywistości.
-
-### Kryzys i podziemie
-
-Po 1976 roku, wraz z powstaniem KOR, zaczął kwitnąć drugi obieg prasowy. Bezdebitowe pisma: „Biuletyn Informacyjny KOR", „Robotnik", „Res Publica", setki innych – drukowane na powielaczach i dystrybuowane siatkami kolporterów.
-
-Po sierpniu 1980 roku Solidarność wydawała swoje regionalne biuletyny, tygodniki i miesięczniki. Prasa niezależna stała się masową. Stan wojenny ją zdelegalizował, ale nie zniszczył.
-
-### Telewizja i radio
-
-Obok prasy drukowanej kluczową rolę odgrywała telewizja (od 1952) i radio. Dziennik Telewizyjny – główny serwis informacyjny TVP – był synonimem propagandy. Prowadzony przez lojalne kadry, manipulował informacją, przemilczał fakty.
-
-Alternatywą były Radio Wolna Europa i głos Ameryki – słuchane nielegalnie przez miliony.`,
-    trivia: ['Każdy tytuł przechodził cenzurę prewencyjną przed drukiem.', 'Gazety kupowano w kioskach „Ruchu” albo zamawiało się prenumeratę na poczcie.'],
+## Drugi obieg
+Od 1976 roku rozwijała się prasa niezależna – „Komunikat” i „Biuletyn Informacyjny” KOR, „Robotnik”, „Zapis”, a w latach 80. setki podziemnych pism, z „Tygodnikiem Mazowsze” na czele. 8 maja 1989 roku ukazał się pierwszy numer „Gazety Wyborczej” – pierwszego legalnego dziennika niezależnego od władz.`,
+    trivia: [
+      'W połowie lat 70. „Trybuna Ludu” miała nakład około 1,5 miliona egzemplarzy.',
+      'Cenzorzy mieli zakaz przepuszczania jakichkolwiek polemik z tekstami „Trybuny Ludu”.',
+      'Mieczysław Rakowski redagował „Politykę” od 1958 do 1982 roku.',
+    ],
     resources: [
       {
         id: 'prasa-prl-yt',
@@ -9559,41 +9543,31 @@ Kraj z silnym rolnictwem nie potrafił zaopatrzyć sklepów w mięso. Podwyżki 
     tags: ['telewizja', 'DTV', 'Teleranek', 'propaganda', 'TVP', 'Dziennik'],
     yearStart: 1952,
     yearEnd: 1989,
-    summary: 'Telewizja Polska była od początku narzędziem propagandy państwowej, ale jednocześnie dostarczała rozrywki milionom Polaków. "Dziennik Telewizyjny" był synonimem kłamstwa władzy, ale "Teleranek", "Kobra" i "Czterdziestolatek" budowały wspólną kulturę.',
+    summary: 'Telewizja w PRL – narzędzie propagandy z Dziennikiem Telewizyjnym na czele, ale też źródło wspólnej kultury: „Teleranka”, seriali, Teatru Telewizji i wieczorynek.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Siedziba_Telewizji_Polskiej_w_Warszawie_2017.jpg?width=800',
     imageCaption: 'Budynek Telewizji Polskiej przy ulicy Woronicza w Warszawie (fot. współczesna)',
-    content: `Telewizja Polska (TVP) – narzędzie propagandy i codzienne okno na świat milionów Polaków – zajmuje szczególne miejsce w zbiorowej pamięci o PRL.
+    content: `## Okno na świat
+Pierwszy program telewizyjny nadano w Polsce 25 października 1952 roku, a regularną emisję rozpoczęto w 1953 roku – pół godziny raz w tygodniu. W latach 60. telewizor z luksusu stał się sprzętem obecnym w coraz większej liczbie domów, a przed odbiornikami u sąsiadów gromadzili się ci, którzy własnego nie mieli. 2 października 1970 roku ruszył drugi program, a 22 lipca 1971 roku nadano pierwszą audycję w kolorze.
 
-**Początki telewizji w Polsce**
+## Dziennik Telewizyjny
+Od 1958 roku głównym programem informacyjnym był Dziennik Telewizyjny – najważniejsza tuba propagandy. Po 13 grudnia 1981 roku prezenterzy występowali w mundurach, a „Solidarność” wzywała do bojkotu Dziennika. Mimo to oglądało go wielu ludzi – innego ogólnodostępnego serwisu informacyjnego w telewizji po prostu nie było.
 
-Pierwsze regularne emisje telewizyjne w Polsce ruszyły w 1952 roku – Polska jako jeden z pierwszych krajów bloku wschodniego posiadała własną telewizję. Do połowy lat 60. telewizory były luksusem; z czasem stały się obowiązkowym elementem wyposażenia każdego domu. W 1971 roku uruchomiono drugi kanał TVP.
+## Teleranek
+Od września 1972 roku w niedziele o 9.00 kogut z czołówki „Teleranka” budził dzieci w całej Polsce. Program wchłonął wcześniejsze audycje, m.in. „Zrób to sam” Adama Słodowego i „Niewidzialną rękę”. 13 grudnia 1981 roku zamiast „Teleranka” na ekranie pojawił się gen. Jaruzelski – dla dzieci brak programu stał się symbolem stanu wojennego. Wrócił po trzech miesiącach.
 
-**Dziennik Telewizyjny – głos partii**
+## Seriale i teatr
+Telewizja tworzyła wspólną kulturę: seriale „Stawka większa niż życie”, „Czterej pancerni i pies”, „Janosik”, „Czterdziestolatek” czy nakręcone w 1983 roku i długo wstrzymywane „Alternatywy 4” Stanisława Barei; widowiska sensacyjne Teatru Sensacji „Kobra”, Teatr Telewizji z najlepszymi aktorami, teleturnieje jak „Wielka gra” i wieczorynki z Bolkiem i Lolkiem, Reksiem i Misiem Uszatkiem.
 
-Najważniejszą pozycją programową był Dziennik Telewizyjny (DTV) – codzienny serwis informacyjny będący tubą propagandową władzy. DTV znany był z manipulacji, przemilczeń i kłamstw. Szczególnie w czasie stanu wojennego stał się synonimem propagandy – prowadzący byli mundurami wojskowymi lub głosili decyzje władz. Widzowie potocznie nazywali DTV "kłamliwe wiadomości". Paradoksem było to, że oglądalność DTV była ogromna – nie dlatego, że mu wierzono, ale dlatego, że był jedynym ogólnodostępnym serwisem informacyjnym.
+## Bojkot i kasety
+W stanie wojennym wielu aktorów odmówiło występów w telewizji. W latach 80. coraz więcej ludzi szukało innych źródeł obrazu: magnetowidów i przegrywanych kaset wideo, a pod koniec dekady – anten satelitarnych.
 
-**Rozrywka i kultura**
-
-Obok propagandy telewizja dostarczała rozrywki:
-- **Teleranek** (od 1967) – niedzielny program dla dzieci, kultowy dla całych pokoleń
-- **Kobra** – cykl filmów sensacyjnych
-- **Czterdziestolatek** (1974–1977) – serial komediowy Jerzego Gruzy, śmieszący i krytykujący z dystansem
-- **Stawka większa niż życie** (1967–1968) – serial szpiegowski o Hansie Klossie, jeden z najchętniej oglądanych seriali w historii polskiej TV
-- **Janosik** (1973–1974) – historyczny serial przygodowy
-- **Alternatywy 4** (1983) – serial Stanisława Barei, mistrzostwo satyrycznego opisu PRL
-
-**Telewizja a propaganda stanu wojennego**
-
-13 grudnia 1981 roku, gdy ogłoszono stan wojenny, telewizja stała się kluczowym narzędziem rządzenia. Generał Jaruzelski przemawiał w mundurze. Cywilni prezenterzy zostali zastąpieni przez mundurowych. Wiele osób wyłączyło telewizory na znak protestu lub przykleiło do ekranów czarną taśmę żałobną.
-
-**Obejście propagandy**
-
-W dekadzie gierkowskiej (lata 70.) telewizja była relatywnie mniej upolityczniona – inwestowano w rozrywkę i programy kulturalne. W latach 80. coraz więcej Polaków odbierało zachodnią telewizję przez anteny satelitarne (Eutelsat) lub magnetowidy z kaseteami VHS przemycanymi z Zachodu.
-
-**Dziedzictwo**
-
-Telewizja PRL odcisnęła trwały ślad w kulturze polskiej. Seriale, dziecięce programy animowane (Bolek i Lolek, Reksio, Miś Uszatek, Zaczarowany ołówek) i teleturnieje (Wielka Gra, Familiada) były wspólnym doświadczeniem pokoleń.`,
-    trivia: ['Pierwszy program telewizyjny nadano w Polsce w 1952 roku.', 'Telewizja kolorowa ruszyła dopiero na początku lat 70.'],
+## Koniec epoki
+28 października 1989 roku Joanna Szczepkowska oznajmiła w telewizji, że 4 czerwca 1989 roku skończył się w Polsce komunizm. W listopadzie 1989 roku nadano ostatnie wydanie Dziennika Telewizyjnego.`,
+    trivia: [
+      '„Teleranek” nadawano od września 1972 roku; jego symbolem był kogut wskakujący na płot o 9.00.',
+      '13 grudnia 1981 roku zamiast „Teleranka” dzieci zobaczyły przemówienie gen. Jaruzelskiego.',
+      'Pierwszy program telewizyjny nadano w Polsce 25 października 1952 roku.',
+    ],
     resources: [
       {
         id: 'tvp-ninateka',
@@ -9854,39 +9828,31 @@ Po 1981 roku część publiczności bojkotowała go za rzekome popieranie władz
     tags: ['muzyka', 'piosenka', 'Anna German', 'śpiew', 'ZSRR', 'Eurydyka', 'wypadek'],
     yearStart: 1936,
     yearEnd: 1982,
-    summary: 'Anna German (1936–1982) – piosenkarka o niezwykłym, lirycznym sopranowym głosie, uwielbiana zarówno w Polsce, jak i w ZSRR. Przerwał jej karierę tragiczny wypadek samochodowy w 1967 roku, z którego cudem wróciła na scenę. Jej piosenki jak "Człowieczy los" i "Tańczące Eurydyki" zostały klasykami.',
+    summary: 'Anna German (1936–1982) – piosenkarka o wyjątkowym sopranie, gwiazda w Polsce i ZSRR, autorka „Człowieczego losu”; po ciężkim wypadku we Włoszech w 1967 roku wróciła na scenę po trzech latach.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Anna_german.png?width=800',
     imageCaption: 'Anna German w latach 60.',
-    content: `Anna German (właśc. Anna Wiktoria German, 1936–1982) – polsko-radziecka piosenkarka, jedna z najbardziej kochanych artystek epoki PRL.
+    content: `## Z Azji do Wrocławia
+Anna Wiktoria German urodziła się 14 lutego 1936 roku w Urgenczu w Uzbekistanie, w rodzinie o korzeniach niemieckich i holendersko-mennonickich. Jej ojca, Eugena Hörmanna, NKWD aresztowało w 1937 roku pod zarzutem szpiegostwa i w 1938 roku rozstrzelało. Matka z dziećmi tułała się po Azji Środkowej i Syberii; jako żona polskiego żołnierza w 1946 roku wyjechała z córką do Polski. Od 1949 roku rodzina mieszkała we Wrocławiu, gdzie Anna w 1962 roku ukończyła geologię.
 
-**Pochodzenie i dzieciństwo**
+## Początki
+Śpiewała w studenckim teatrze Kalambur, debiutowała w radiu, występowała z estradami wrocławską i rzeszowską. W 1963 roku dostała drugą nagrodę w dniu polskim festiwalu w Sopocie, a w 1964 roku „Tańczące Eurydyki” przyniosły jej drugą nagrodę w Opolu i pierwszą nagrodę w dniu polskim w Sopocie. W 1965 roku zwyciężyła w Opolu piosenką „Zakwitnę różą”.
 
-Urodzona w Urgenczu (dziś Uzbekistan) w rodzinie o korzeniach holendersko-mennonickich. Jej ojciec Eugeniusz German został rozstrzelany przez NKWD w 1938 roku jako "wróg ludu". Matka Irma z córką przeżyły wojnę w Azji Środkowej i w 1945 roku osiedliły się we Wrocławiu. Anna studiowała geologię na Uniwersytecie Wrocławskim, ale muzyka okazała się jej prawdziwym powołaniem.
+## Włochy i wypadek
+W 1966 roku podpisała kontrakt z włoską wytwórnią, w 1967 roku jako pierwsza polska artystka zaśpiewała w San Remo, a jako pierwsza cudzoziemka – na festiwalu piosenki neapolitańskiej. 28 sierpnia 1967 roku, wracając z koncertu w Forlì, uległa ciężkiemu wypadkowi samochodowemu, w którym złamała m.in. kręgosłup. Leczenie i rehabilitacja we Włoszech i w Polsce trwały około trzech lat. W tym czasie napisała autobiografię „Wróć do Sorrento?”.
 
-**Kariera i przeboje**
+## Powrót
+Pierwszy raz po wypadku wystąpiła w telewizji 26 grudnia 1969 roku, a w styczniu 1970 roku zaśpiewała „Człowieczy los” w Sali Kongresowej. Album „Człowieczy los” przyniósł jej złotą płytę. W 1972 roku poślubiła Zbigniewa Tucholskiego, a w 1975 roku urodził się ich syn.
 
-Debiutowała w połowie lat 50. Przełomem był festiwal w Opolu 1962 roku – zdobyła wyróżnienie i weszła do pierwszej ligi polskich artystów estrady. Nagrywała dla Polskich Nagrań, wydała dziesiątki singli i albumów. Jej interpretacje były wyjątkowe: głos o krystalicznej czystości, niezwykła dykcja i głęboka emocjonalność. Przeboje: "Tańczące Eurydyki" (1964), "Człowieczy los", "Być może" (pol. wersja włoskiego "Voglio essere donna"), "Byłam różą" i wiele innych.
+## Gwiazda w ZSRR
+Od 1964 roku regularnie koncertowała w Związku Radzieckim, gdzie zdobyła ogromną popularność; nagrywała dla wytwórni Melodia, a piosenka „Nadzieja” stała się jednym z jej najbardziej znanych utworów. Śpiewała w siedmiu językach i występowała m.in. w USA, Kanadzie i Australii.
 
-**Sukces w ZSRR**
-
-Anna German cieszyła się w Związku Radzieckim popularnością nieporównywalną z żadnym innym polskim artystą. Radzieckie nagrania – zwłaszcza "Nadzieja" (Надежда, 1970) – stały się hymnami pokoleniowymi. Śpiewała po rosyjsku, włosku, angielsku i ukraińsku. Radzieckie studia płytowe Melodija zapełniały hale wydawnicze jej nagraniami. Była gwiazdą programów telewizyjnych w całym bloku wschodnim.
-
-**Tragiczny wypadek (1967)**
-
-W nocy z 26 na 27 sierpnia 1967 roku, w drodze powrotnej z Turynu do Mediolanu, samochód, którym jechała, wpadł w poślizg i z impetem uderzył w barierę. Anna German doznała wielokrotnych złamań obu nóg, kręgosłupa, ramienia i miednicy. Przez wiele miesięcy leżała w szpitalu w ciężkim stanie. Włoscy i polscy lekarze cudem uratowali jej życie.
-
-**Powrót na scenę**
-
-Po blisko trzech latach rehabilitacji Anna German powróciła na scenę – jako przykład niewyobrażalnej siły woli. Pierwszy koncert po wypadku odbył się w 1970 roku; widownia przywitała ją owacją na stojąco. Kontynuowała karierę przez kolejne lata, nagrywając i koncertując mimo chronicznego bólu. W 1975 roku wyszła za mąż za inżyniera Zbigniewa Tucholskiego i w 1977 urodziła syna Zbyszka.
-
-**Choroba i śmierć**
-
-W 1980 roku zdiagnozowano u niej mięsaka kości. Mimo chemioterapii i operacji choroba postępowała. Anna German zmarła 25 sierpnia 1982 roku w Warszawie. Miała 46 lat. Jej pogrzeb zgromadził tysiące żałobników.
-
-**Pamięć i kult**
-
-Anna German jest czczona do dziś zarówno w Polsce, jak i w Rosji, na Ukrainie i w innych krajach byłego ZSRR. Jej życie stało się kanwą rosyjskiego serialu telewizyjnego "Anna German" (2012), który był wielkim hitem. Muzeum i ekspozycje poświęcone jej życiu działają we Wrocławiu i w krajach byłego ZSRR.`,
-    trivia: ['Po ciężkim wypadku we Włoszech przez lata wracała do zdrowia i na scenę.', 'Ogromną popularność zdobyła także w Związku Radzieckim.'],
+## Choroba
+W połowie lat 70. wykryto u niej chorobę nowotworową. Ostatni koncert dała 5 października 1980 roku w Melbourne. Zmarła 25 sierpnia 1982 roku w Warszawie i spoczęła na cmentarzu ewangelicko-reformowanym; modlitwę nad grobem odmówił ks. Jan Twardowski.`,
+    trivia: [
+      'Jako pierwsza polska artystka zaśpiewała w 1967 roku na festiwalu w San Remo.',
+      'Z wykształcenia była geologiem – dyplom Uniwersytetu Wrocławskiego uzyskała w 1962 roku.',
+      'W czasie rekonwalescencji po wypadku napisała autobiografię „Wróć do Sorrento?”.',
+    ],
     resources: [
       {
         id: 'ag-yt',
@@ -10004,38 +9970,28 @@ Doświadczenie ZMP jest złożone. Część członków szczerze wierzyła w idea
     summary: 'Solidarność Walcząca – podziemna organizacja powstała we Wrocławiu w 1982 roku, radykalniejsza od głównego nurtu podziemnej Solidarności. Odrzucała jakikolwiek kompromis z komunistami, dążąc do pełnego obalenia systemu i odzyskania niepodległości. Była silnie inwigilowana przez SB.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Dewiza-SW.jpg?width=800',
     imageCaption: 'Deklaracja Solidarności Walczącej, 1982',
-    content: `Solidarność Walcząca (SW) – konspiracyjna organizacja powołana we Wrocławiu w czerwcu 1982 roku przez Kornela Morawieckiego, reprezentująca radykalne skrzydło oporu po wprowadzeniu stanu wojennego.
+    content: `## Powstanie
+Solidarność Walczącą założyli we Wrocławiu w czerwcu 1982 roku działacze z kręgu podziemnego Regionalnego Komitetu Strajkowego „Solidarności”, niezgadzający się z jego metodami. Na czele stanął Kornel Morawiecki, fizyk z Politechniki Wrocławskiej i weteran opozycji od 1968 roku.
 
-**Powstanie i ideologia**
+## Program
+Głównym celem było całkowite odsunięcie komunistów od władzy i odzyskanie suwerenności – bez kompromisów z władzą. Organizacja nawiązywała do tradycji AK: miała przysięgę, sztandar i podziemną pocztę, a jej logo – litery SW w kształcie kotwicy – przypominało znak Polski Walczącej. Hasło brzmiało „Wolni i Solidarni”.
 
-Po 13 grudnia 1981 roku podziemna Solidarność – skupiona głównie wokół Tymczasowej Komisji Koordynacyjnej (TKK) – przyjęła strategię samoobrony społecznej i stopniowego wymuszania ustępstw od władzy. Kornel Morawiecki – naukowiec z Politechniki Wrocławskiej – uznał tę strategię za zbyt ugodową. W czerwcu 1982 roku powołał Solidarność Walczącą, której program zakładał obalenie komunizmu, a nie negocjacje z nim.
+## Ulica i drukarnie
+Pierwszym sukcesem były demonstracje 13 i 26 czerwca 1982 roku we Wrocławiu, przeradzające się w walki uliczne z ZOMO. SW współorganizowała największą wrocławską demonstrację stanu wojennego 31 sierpnia 1982 roku, relacjonowaną na żywo przez jej radio. Wydawała 134 periodyki, a jako jedyna organizacja podziemna nadawała co tydzień audycje własnego radia. Kolportowała też ulotki po rosyjsku dla sowieckich żołnierzy i wspierała ruchy niepodległościowe w ZSRR.
 
-**Program i działalność**
+## Struktura
+Organizacja liczyła około 2 tysięcy członków. Najsilniejsze oddziały, obok Wrocławia, działały w Poznaniu, Gdańsku, Rzeszowie i na Górnym Śląsku. Rozproszona, „fraktalna” struktura i własny kontrwywiad utrudniały jej rozbicie.
 
-SW stała na stanowisku:
-- Całkowitego odrzucenia dialogu z komunistami jako legitymizacji bezprawnego systemu
-- Dążenia do niepodległości Polski od ZSRR (co w głównym nurcie Solidarności uważano za nierealistyczne)
-- Oporu aktywnego: sabotaż, akcje plakatowe, wydawnictwa konspiracyjne
-- Kontaktów z emigracją i zachodnimi organizacjami antykomunistycznymi
+## „Ośmiornica”
+W sierpniu 1985 roku szef SB gen. Władysław Ciastoń polecił „rozpoznać, rozpracować i zlikwidować” SW, angażując wszystkie jednostki SB – była to największa operacja MSW od 1981 roku, o kryptonimie „Ośmiornica”. SW rozpracowywała także Stasi. Morawieckiego aresztowano w październiku 1987 roku, a w maju 1988 roku wraz z Andrzejem Kołodziejem deportowano z kraju; wrócił nielegalnie i znów stanął na czele organizacji.
 
-Solidarność Walcząca wydawała własne pismo (też zatytułowane "Solidarność Walcząca"), produkowała ulotki i pisma, organizowała akcje ulotkowe. Wrocław był jej centrum, ale działała też w Gdańsku, Krakowie, Warszawie.
-
-**Konflikty z TKK**
-
-Radykalizm SW prowadził do napięć z głównym nurtem podziemnej Solidarności. TKK (Zbigniew Bujak, Bogdan Lis) zarzucała SW awanturnictwo i narażanie konspiratorów na represje bez perspektyw sukcesu. SW z kolei uważała TKK za zbyt ugodową wobec reżimu. Podziały te odzwierciedlały głębszy spór o strategię: samoograniczająca się rewolucja vs. pełna konfrontacja.
-
-**Inwigilacja SB**
-
-Solidarność Walcząca była intensywnie penetrowana przez Służbę Bezpieczeństwa. Morawiecki był kilkakrotnie aresztowany. Mimo to organizacja funkcjonowała przez całe lata 80., finansowana m.in. ze środków przekazywanych przez Polonię i zachodnie centrale związkowe.
-
-**Okrągły Stół i po 1989**
-
-SW bojkotowała Okrągły Stół, uznając rozmowy z komunistami za zdradzenie ideałów Solidarności. Po 1989 roku część jej działaczy weszła do polityki – Morawiecki założył Partię "X", a potem inne ugrupowania. SW rozwiązała się formalnie w 1992 roku.
-
-**Ocena**
-
-Solidarność Walcząca pozostaje kontrowersyjną organizacją. Zwolennicy podkreślają jej bezkompromisowość i trafną diagnozę komunizmu jako systemu nie do reformy. Krytycy wskazują na izolację polityczną, brak realistycznej strategii i potencjalne szkody dla bezpieczeństwa konspiratorów. Historia przyznała rację obu stronom: komunizm upadł, ale nie przez rewolucję, a przez negocjacje.`,
-    trivia: ['Organizację założył w 1982 roku we Wrocławiu Kornel Morawiecki.', 'Odrzucała porozumienie z władzą i żądała pełnej niepodległości.'],
+## Przeciw Okrągłemu Stołowi
+W 1989 roku SW odrzuciła porozumienie Okrągłego Stołu. W 1990 roku z jej środowiska powstała Partia Wolności; Morawiecki nie zebrał podpisów pod kandydaturą na prezydenta. Organizację formalnie rozwiązano w 1992 roku.`,
+    trivia: [
+      'Logo Solidarności Walczącej – litery SW ułożone w kotwicę – nawiązywało do znaku Polski Walczącej.',
+      'Operacja SB przeciw SW nosiła kryptonim „Ośmiornica” i była największą akcją MSW od 1981 roku.',
+      'W maju 1988 roku władze deportowały Kornela Morawieckiego z kraju – wrócił nielegalnie.',
+    ],
     resources: [
       {
         id: 'sw-ipn',
@@ -10850,42 +10806,25 @@ Liberalizacja umożliwiła import zachodnich samochodów. Rynek zalały używane
     shortDesc: 'Sieć obozów pracy i więzień politycznych w Polsce lat 1944–1956 – sowiecka metoda eliminacji opozycji.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jaworzno_camp_memorial%2C_Poland.JPG?width=800',
     imageCaption: 'Pomnik na terenie dawnego obozu pracy w Jaworznie (fot. współczesna)',
-    content: `## Obozy pracy i więzienia polityczne (1944–1956)
+    content: `## System obozów
+Równolegle z więzieniami komunistyczny aparat bezpieczeństwa stworzył sieć obozów pracy. 6 kwietnia 1945 roku Ministerstwo Bezpieczeństwa Publicznego okólnikiem nr 42 powołało Centralne Obozy Pracy – w Warszawie, Poniatowej, Krzesimowie, Potulicach i Jaworznie. Trafiali do nich Niemcy i volksdeutsche, Ślązacy wpisani w czasie wojny na volkslistę, ale też żołnierze AK i działacze niepodległościowi.
 
-W pierwszym dziesięcioleciu PRL (1944–1956) reżim komunistyczny stworzył rozległy system represji, obejmujący obozy pracy, więzienia polityczne i obozy filtracyjne. System ten pochłonął setki tysięcy ofiar – żołnierzy AK, działaczy PSL, duchownych, przedsiębiorców, intelektualistów i zwykłych obywateli podejrzanych o wrogość wobec władzy.
+## Jaworzno
+Najbardziej znany był Centralny Obóz Pracy w Jaworznie, urządzony w lutym 1945 roku na terenie dawnego podobozu KL Auschwitz „Neu-Dachs”. Po Niemcach zostały baraki, druty pod napięciem i 12 wież strażniczych. Obozu pilnowało ponad 300 żołnierzy KBW, a funkcyjni więźniowie, zwani „gońcami” lub „blokowymi”, pełnili rolę podobną do kapo. Od 1947 roku działał tu podobóz dla Ukraińców i Łemków zatrzymanych w czasie akcji „Wisła” – przeszło przez niego 3873 osoby, z których 162 zmarły.
 
-### Geneza systemu
+## Więzienie dla młodocianych
+W 1949 roku obóz w Jaworznie przekształcono w Progresywne Więzienie dla Młodocianych, do którego trafiała m.in. młodzież z konspiracyjnych organizacji antykomunistycznych. Oficjalnie zamknięto je w 1956 roku. Łączną liczbę ofiar obozu w latach 1945–1956 szacuje się na ponad 6 tysięcy.
 
-System obozów przejęto bezpośrednio z radzieckiego modelu NKWD. Pierwsze obozy dla Niemców i Polaków oskarżonych o kolaborację z Niemcami lub o przynależność do AK i NSZ powstawały już w 1944 roku, jeszcze w trakcie walk.
+## Więzienia
+Dla przeciwników politycznych przeznaczone były też więzienia – mokotowskie przy ul. Rakowieckiej, gdzie wykonywano wyroki śmierci, Wronki, Rawicz czy Fordon dla kobiet. Śledczy UB stosowali bicie, pozbawianie snu, długotrwałe przesłuchania i pozorowane egzekucje, by wymusić przyznanie się do winy.
 
-Centralne Obozy Pracy (COP) funkcjonowały pod nadzorem Ministerstwa Bezpieczeństwa Publicznego. Więźniów zmuszano do pracy fizycznej w kopalniach, fabrykach, przy budowach.
-
-### Największe obozy i więzienia
-
-**Jaworzno** – największy obóz pracy w Polsce. W 1945–1949 roku przetrzymywano tam ok. 24 000 osób, w tym żołnierzy AK, Ukraińców deportowanych z Akcji Wisła, działaczy PSL, a nawet Niemców z Górnego Śląska. Warunki były nieludzkie: wyczerpująca praca w kopalni, głód, bicie.
-
-**Więzienie mokotowskie (Rakowiecka)** w Warszawie – miejsce kaźni dla skazanych na śmierć. Tu wykonano wyroki m.in. na Witoldzie Pileckim, Emilu Fieldorfie „Nilu" i setkach innych żołnierzy AK.
-
-**Więzienie we Wronkach** i **w Rawiczu** – dla długoterminowych więźniów politycznych.
-
-**Rembertów, Potulice, Łambinowice** – obozy filtracyjne dla Niemców i Polaków podejrzanych.
-
-### Metody śledcze UB
-
-Urząd Bezpieczeństwa (UB) stosował radzieckie metody śledcze: psychologiczny i fizyczny terror, pozbawienie snu, głodzenie, bicie, symulowanie egzekucji. Celem było wymuszenie przyznania się do winy i zeznań obciążających innych.
-
-Procesy polityczne były z góry ustawione – wyrok zapadał przed rozprawą. Obrońcy z urzędu byli marionetkami systemu.
-
-### Ofiary
-
-Szacuje się, że w polskich więzieniach i obozach lat 1944–1956 zginęło ok. 5 000–8 000 osób (wyroki śmierci), natomiast przez obozy pracy przeszło kilkadziesiąt tysięcy. Tysiące więcej zginęło w wyniku warunków lub egzekucji w terenie.
-
-Ofiarami systemu byli też żołnierze wyklęci – wśród nich Zygmunt Szendzielarz „Łupaszka", Józef Kuraś „Ogień", Hieronim Dekutowski „Zapora".
-
-### Odwilż i rehabilitacje
-
-Po 1956 roku, w wyniku odwilży październikowej, część więźniów politycznych zwolniono i zrehabilitowano. Ale prawdziwe rozliczenie ze zbrodniami stalinizmu nastąpiło dopiero po 1989 roku i jest procesem, który do dziś nie jest zakończony.`,
-    trivia: ['Najbardziej znany był obóz w Jaworznie, urządzony na terenie dawnej filii KL Auschwitz.', 'Osadzano w nim m.in. młodzież i ludność ukraińską.'],
+## Odwilż
+Po 1956 roku amnestia i rewizje wyroków uwolniły wielu więźniów politycznych, a część skazanych zrehabilitowano. Pełne rozliczenie stalinowskich zbrodni stało się możliwe dopiero po 1989 roku, gdy śledztwa podjął IPN.`,
+    trivia: [
+      'Obóz w Jaworznie urządzono na terenie dawnego podobozu KL Auschwitz „Neu-Dachs”.',
+      'Przez ukraińsko-łemkowski podobóz w Jaworznie przeszło 3873 osoby.',
+      'Funkcyjnych więźniów w Jaworznie nazywano „gońcami” lub „blokowymi”.',
+    ],
     resources: [
       {
         id: 'obozy-ipn',
@@ -11538,42 +11477,28 @@ Muzyka rockowa lat 80. nie była wprost polityczna, ale jej etos był opozycyjny
     shortDesc: 'Piwnica pod Baranami, Dudek, STS – satyra jako jedyna dozwolona forma krytyki systemu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kabaret.starszych.panow.jpg?width=800',
     imageCaption: 'Nagranie „Kabaretu Starszych Panów” w telewizyjnym studiu, lata 60. – na zdjęciu scenografki Alicja i Bożena Wahl (autor nieznany)',
-    content: `## Kabaret i satyra w PRL
+    content: `## Śmiech przez cenzurę
+Kabaret i satyra były w PRL jednym z niewielu miejsc, gdzie publicznie można było mówić o absurdach systemu – aluzją, metaforą, skojarzeniem. Każdy tekst trafiał jednak najpierw do cenzora, a granice tolerancji zależały od politycznego klimatu.
 
-Kabaret i satyra polityczna zajmowały w kulturze PRL szczególne miejsce – były jedyną formą publicznej krytyki systemu, którą władza tolerowała w pewnych granicach. Dobry satyryk potrafił powiedzieć to, o czym inni mogli tylko szeptać.
+## STS
+Studencki Teatr Satyryków powstał w Warszawie w 1954 roku – pierwszą premierą była 2 maja składanka „To idzie młodość”. W okresie odwilży zasłynął odważną satyrą, a po likwidacji „Po prostu” zmagał się z narastającymi ingerencjami cenzury. Pisali dla niego m.in. Andrzej Jarecki, Agnieszka Osiecka, Jarosław Abramow i Stanisław Tym, reżyserowała m.in. Olga Lipińska; przewinęło się przez niego 215 osób. Dał 55 premier i 3200 przedstawień; ostatnie w 1975 roku. Obok działały gdański Bim-Bom i wrocławski Kalambur.
 
-### Tradycja i nowe warunki
+## Piwnica pod Baranami
+Krakowską Piwnicę pod Baranami otwarto 26 maja 1956 roku w piwnicach pałacu „Pod Baranami”. Jej duszą był Piotr Skrzynecki. W latach 60. Ewa Demarczyk z kompozytorem Zygmuntem Koniecznym rozsławili Piwnicę w całej Polsce, a po 1976 roku dołączyli m.in. Marek Grechuta, Grzegorz Turnau i Zbigniew Preisner. Piwnica nie była kabaretem politycznym wprost – jej teksty sięgały od „Pieśni nad pieśniami” po wywiad z Ariadną Gierek – ale atmosfera wolności była jej najmocniejszym komentarzem do rzeczywistości.
 
-Polska tradycja kabaretowa sięga Młodej Polski i Zielonego Balonika (Kraków, 1905). PRL odziedziczyła tę tradycję i – niezamierzenie – stworzył dla niej idealne warunki: absurd codzienności, przepaść między propagandą a rzeczywistością, bezmyślność biurokracji. Komik miał z czego czerpać.
+## Dudek
+Kabaret „Dudek”, założony i kierowany przez Edwarda Dziewońskiego, zainaugurował działalność w styczniu 1965 roku w kawiarni „Nowy Świat” w Warszawie. Jego filarami byli Irena Kwiatkowska, Wiesław Gołas, Jan Kobuszewski i Wiesław Michnikowski, a teksty pisali przede wszystkim Wojciech Młynarski i Stanisław Tym. W ciągu dziesięciu lat dał około tysiąca przedstawień, a jego skecze przez lata pokazywała telewizja.
 
-### Piwnica pod Baranami
+## Pietrzak i Egida
+Jan Pietrzak założył w 1967 roku Kabaret pod Egidą, jeden z najbardziej politycznych w PRL. Jego piosenka „Żeby Polska była Polską” stała się w 1980 roku jednym z hymnów „Solidarności”.
 
-Krakowski kabaret **Piwnica pod Baranami** (założona 1956 przez Piotra Skrzyneckiego) była legendą. Spotkanie artystów, poetów, muzyków – Marek Grechuta, Zbigniew Preisner (przed sławą), Zygmunt Konieczny, Leszek Długosz. Piwnica nie była kabaretetem politycznym wprost – ale jej duch wolności i oryginalności był niepokorny.
-
-Skrzynecki – konferansjer, improwizator, legenda Krakowa – tworzył nastrój absolutnej wolności wewnętrznej w komunie.
-
-### STS i kabaret studencki
-
-**Studencki Teatr Satyryków (STS)** w Warszawie był od 1954 roku centrum studenckiej satyry. Tu Agnieszka Osiecka pisała teksty, Jonasz Kofta śpiewał, Edward Dziewoński reżyserował. STS potrafił w stylu absurdystycznym komentować rzeczywistość PRL.
-
-Teatrzyki studenckie – Kalambur we Wrocławiu, Bim-Bom w Gdańsku – tworzyły sieć alternatywnej kultury.
-
-### Dudek i telewizja
-
-**Kabaret Dudek** (od 1965) był pierwszym kabaretetem, który trafił szeroko do telewizji i kin. Jan Pietrzak, Wiesław Gołas, Zdzisław Maklakiewicz – mistrzowie formy skeczowej. Dudek bawił miliony i jednocześnie przemycał coraz ostrzejszą satyrę. W latach 70. skecze o kolejkach, biurokracji i kłamstwie propagandy były odczytywane jako komentarz polityczny.
-
-Jan Pietrzak stawał się coraz bardziej zaangażowany – jego piosenka „Żeby Polska była Polską" stała się w 1980 roku nieformalnym hymnem Solidarności.
-
-### Grał każdy, kto umiał
-
-Satyra w PRL kwitła w każdym możliwym miejscu: teatrach studenckich, piwnicach, kawiarniach. Tekst kabaretowy mógł przejść przez cenzurę, jeśli był sprytnie napisany. Cenzorzy nie zawsze rozumieli aluzje – a gdy rozumieli, decyzja zależała od aktualnego klimatu politycznego.
-
-W stanie wojennym kabaret przycichł na chwilę – ale szybko wrócił, tym razem z jeszcze ostrzejszym zębem.
-
-### Kabaret po 1989
-
-Po 1989 roku scena kabaretowa rozkwitła. Kabaret Olgi Lipińskiej, potem „Ucho Prezesa", „Kabaret pod Wyrwigroszem" – satyra polityczna dostała do dyspozycji całe spektrum tematów. Paradoksalnie, stała się też mniej wywrotowa – bo nie musiała przemycać prawdy pod zasłoną humoru.`,
-    trivia: ['Kabaret mówił aluzją to, czego nie wolno było powiedzieć wprost.', 'Mimo to każdy tekst i tak trafiał najpierw do cenzora.'],
+## Telewizja i radio
+Satyrę przemycały także programy radiowe i telewizyjne – „60 minut na godzinę” w Trójce, „Kabaret Starszych Panów” Jeremiego Przybory i Jerzego Wasowskiego czy telewizyjny kabaret Olgi Lipińskiej.`,
+    trivia: [
+      'Przez Studencki Teatr Satyryków w latach 1954–1975 przewinęło się 215 osób.',
+      'Piwnicę pod Baranami oficjalnie otwarto 26 maja 1956 roku.',
+      'Kabaret „Dudek” prowadził Edward Dziewoński; w ciągu dziesięciu lat dał około tysiąca przedstawień.',
+    ],
     resources: [
       {
         id: 'kabaret-ninateka',
@@ -36236,7 +36161,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1947, event: 'Ucieczka Mikołajczyka z Polski – koniec legalnej opozycji', category: 'polityka', entryId: 'mikolajczyk' },
   { year: 1981, event: 'Nocna operacja „Jodła" – 10 000 działaczy Solidarności internowanych', category: 'represje', entryId: 'internowanie' },
   { year: 1945, event: 'Wysiedlenia Niemców z Ziem Odzyskanych – 12 mln wypędzonych', category: 'polityka', entryId: 'ziemie-odzyskane' },
-  { year: 1946, event: 'Obóz w Jaworznie – 24 000 więźniów politycznych w szczytowym okresie', category: 'represje', entryId: 'obozy-pracy' },
+  { year: 1945, event: 'Centralny Obóz Pracy w Jaworznie – na terenie dawnego podobozu Auschwitz', category: 'represje', entryId: 'obozy-pracy' },
   { year: 1973, event: 'Produkcja Fiata 126p „Maluch" – ikona motoryzacji PRL', category: 'społeczeństwo', entryId: 'motoryzacja-prl' },
   { year: 1999, event: 'Polska wstępuje do NATO – dzieło dyplomacji Geremka', category: 'polityka', entryId: 'geremek' },
   { year: 1956, event: 'Robotniczy protest w Poznaniu – 57 zabitych, pierwsze przebudzenie', category: 'opozycja', entryId: 'walczynski-opor' },
@@ -36553,7 +36478,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1967, event: 'Powstanie kabaretu „Pod Egidą” Jana Pietrzaka', category: 'kultura', entryId: 'kabaret-pod-egida' },
   { year: 1971, event: 'Powstanie kabaretu Tey w Poznaniu', category: 'kultura', entryId: 'kabaret-tey' },
   { year: 1976, event: 'Premiera serialu „07 zgłoś się”', category: 'kultura', entryId: '07-zglos-sie' },
-  { year: 1964, event: 'Anna German zwycięża na festiwalu w Opolu', category: 'kultura', entryId: 'anna-german' },
+  { year: 1964, event: 'Anna German śpiewa „Tańczące Eurydyki” – nagrody w Opolu i Sopocie', category: 'kultura', entryId: 'anna-german' },
   { year: 1965, event: 'Krzysztof Komeda nagrywa album „Astigmatic”', category: 'kultura', entryId: 'komeda' },
   { year: 1967, event: 'Czesław Niemen – „Dziwny jest ten świat”', category: 'kultura', entryId: 'niemen-czeslaw' },
   { year: 1968, event: 'Powstanie zespołu Breakout', category: 'kultura', entryId: 'breakout-zespol' },
