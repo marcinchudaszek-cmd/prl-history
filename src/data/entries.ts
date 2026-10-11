@@ -9435,31 +9435,31 @@ Prozaik i scenarzysta. Jego powieści – "Kronika wypadków miłosnych" (1974),
     tags: ['wybory', 'fasada demokracji', 'PZPR', '99 procent', 'Front Jedności Narodu'],
     yearStart: 1947,
     yearEnd: 1989,
-    summary: 'Wybory w PRL były starannie wyreżyserowaną fikcją demokratyczną. Kandydatury zatwierdzał Front Jedności Narodu kontrolowany przez PZPR. Oficjalne wyniki sięgały 99% poparcia – produkowane przez fałszowanie protokołów.',
+    summary: 'Wybory w PRL – głosowanie na jedną listę Frontu Jedności Narodu z oficjalnymi wynikami bliskimi 99 procent; fasadę przełamały dopiero częściowo wolne wybory 4 czerwca 1989 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Elections%201989%20in%20Poznan%20Poland.JPG?width=800',
     imageCaption: 'Ulotka wyborcza Solidarności z 1989 roku – pierwszych wyborów, w których był wybór',
-    content: `Wybory w Polskiej Rzeczypospolitej Ludowej były jednym z filarów fasady demokratycznej systemu komunistycznego. Organizowane regularnie, służyły przede wszystkim legitymizacji władzy i demonstracji jedności społeczeństwa z partią.
+    content: `## Fasada
+Wybory w PRL służyły nie wyłanianiu władzy, lecz jej legitymizacji. Formalnie istniało kilka partii – PZPR, ZSL i SD – a od 1957 roku w Sejmie zasiadało też koło katolickiej grupy Znak. Kandydatów zgłaszał jednak Front Jedności Narodu, utworzony w 1952 roku jako Front Narodowy i podporządkowany PZPR. Do 1976 roku FJN miał monopol na zgłaszanie kandydatów w praktyce, a potem oficjalnie; w 1983 roku zastąpił go PRON.
 
-**System wyborczy**
+## Fałszerstwa założycielskie
+Referendum z 30 czerwca 1946 roku i wybory do Sejmu Ustawodawczego 19 stycznia 1947 roku zostały sfałszowane. Opozycyjne PSL Stanisława Mikołajczyka, represjonowane w czasie kampanii, otrzymało według oficjalnych danych zaledwie kilka procent mandatów.
 
-PRL posiadała formalnie wielopartyjny system: oprócz PZPR istniały ZSL (Zjednoczone Stronnictwo Ludowe) i SD (Stronnictwo Demokratyczne), a od 1956 roku – Koło Posłów Katolickich "Znak". Jednak wszystkie partie działały w ramach Frontu Jedności Narodu (FJN), który ustalał wspólne listy kandydatów. Wyborcy mogli "skreślać" kandydatów, ale lista była tak skonstruowana, że liczba kandydatów równała się liczbie miejsc – skreślenie wymagało osobnego czynu, a kabiny do głosowania były oddzielone od urn.
+## Rytuał
+Od 1952 roku głosowano na jedną listę. Aby oddać głos zgodnie z listą, wystarczyło wrzucić kartkę do urny bez skreśleń – stąd powiedzenie o głosowaniu „bez skreśleń”. Wejście za zasłonę, by kogoś skreślić, było widoczne dla komisji i bywało odnotowywane. Zakłady pracy i komitety blokowe pilnowały frekwencji. Oficjalne wyniki były niemal jednomyślne: w 1980 roku do urn miało pójść 98,87 procent uprawnionych, a 99,52 procent poprzeć kandydatów FJN.
 
-**Fałszerstwa wyborcze**
+## Lista krajowa
+Od 1985 roku część mandatów obsadzano z ogólnopolskiej listy krajowej, na której umieszczano czołowych polityków obozu władzy; według oficjalnych danych otrzymali oni 97–98 procent głosów.
 
-Szczególnie pierwsze wybory – referendum z 1946 roku i wybory z 1947 roku – były masowo fałszowane. W referendum z 28 czerwca 1946 roku komuniści sfałszowali wyniki: oficjalny wynik "3 razy tak" wynosił ok. 68%, podczas gdy rzeczywiste sondaże wykazywały, że blisko 70% odpowiedziało "nie" na pierwsze pytanie. Wybory z 1947 roku, mimo obecności zagranicznych obserwatorów, były zmasowanym fałszerstwem – prawdziwe zwycięstwo PSL Mikołajczyka zatuszowano.
+## Wybory 4 czerwca 1989
+Ustalenia Okrągłego Stołu przewidywały, że PZPR i jej sojusznicy otrzymają co najmniej 299 mandatów w Sejmie, czyli 65 procent, a o pozostałe 161 mogą ubiegać się kandydaci bezpartyjni. Wybory do nowo utworzonego Senatu były całkowicie wolne. Kandydaci Komitetu Obywatelskiego „Solidarność” zdobyli wszystkie 161 mandatów, o które mogli walczyć, i 99 ze 100 miejsc w Senacie. Prestiżową klęską władzy było przepadnięcie niemal całej listy krajowej w pierwszej turze – twórcy ordynacji nie przewidzieli nawet takiej możliwości.
 
-**Rytuał wyborczy**
-
-Od połowy lat 50. aż do 1989 roku wybory stały się rytuałem. Oficjalne wyniki osiągały 97–99,9% poparcia dla listy FJN. Obywatele byli mobilizowani do głosowania przez komitety blokowe, zakłady pracy, organizacje masowe. Nieobecność przy urnie mogła ściągnąć nieprzyjemne konsekwencje – rozmowy z przełożonym, notatki w aktach. Głosowanie w kabinie oznaczało demonstrację sprzeciwu.
-
-**"Jedność moralno-polityczna narodu"**
-
-Propagandowa formuła "jedności moralno-politycznej narodu" miała oznaczać pełne poparcie społeczeństwa dla polityki PZPR. Podawane wyniki – np. 99,8% w wyborach 1980 roku – były produkowane przez fałszowanie protokołów w komisjach wyborczych.
-
-**Wybory 1989 roku**
-
-Przełomem były wyspy częściowo wolne wybory z 4 czerwca 1989 roku, będące wynikiem Okrągłego Stołu. PZPR zagwarantowała sobie 65% miejsc w Sejmie i wszystkie miejsca w Senacie (nowo tworzonej izbie) były dostępne w pełni wolnych wyborach. "Solidarność" wygrała niemal wszystkie wolne mandaty, a poseł Tadeusz Mazowiecki został pierwszym niekomunistycznym premierem od 40 lat. Był to koniec systemu fasadowych wyborów.`,
-    trivia: ['Głosowano na jedną listę – bez realnego wyboru kandydatów.', 'Wejście za kotarę, by skreślać, było odnotowywane.'],
+## Koniec fasady
+Wynik wyborów otworzył drogę do rządu Tadeusza Mazowieckiego. Pierwsze w pełni wolne wybory do Sejmu odbyły się w 1991 roku.`,
+    trivia: [
+      'Według oficjalnych danych w 1980 roku kandydatów FJN poparło 99,52 procent głosujących.',
+      'Po wyborach 4 czerwca 1989 roku kandydaci „Solidarności” zajęli 99 ze 100 miejsc w Senacie.',
+      'Ordynacja z 1989 roku nie przewidywała, że kandydaci listy krajowej mogą przepaść – a niemal wszyscy przepadli.',
+    ],
     resources: [
       {
         id: 'wybory-prl-pkf',
@@ -9499,32 +9499,28 @@ Przełomem były wyspy częściowo wolne wybory z 4 czerwca 1989 roku, będące 
     yearStart: 1944,
     yearEnd: 1989,
     summary: 'Rolnictwo w PRL było areną konfliktu między dążeniem władz do kolektywizacji a oporem chłopów. Polska jako jedyny kraj bloku sowieckiego nie przeprowadziła pełnej kolektywizacji. Państwowe Gospodarstwa Rolne i spółdzielnie produkcyjne sąsiadowały z prywatnymi gospodarstwami chłopskimi.',
-    content: `Rolnictwo polskie w epoce PRL pozostawało w permanentnym konflikcie między komunistycznym programem kolektywizacji a tradycją indywidualnego gospodarowania, głęboko zakorzenioną w polskiej wsi.
+    content: `## Punkt wyjścia
+Dekret PKWN z 6 września 1944 roku wywłaszczył bez odszkodowania majątki powyżej 50 hektarów użytków rolnych, a na dawnych ziemiach niemieckich – powyżej 100 hektarów. Ziemia trafiła do chłopów bezrolnych i małorolnych, tworząc wiele małych, słabych gospodarstw. Reszta przypadła państwu.
 
-**Reforma rolna 1944 i parcelacja**
+## Kolektywizacja i dostawy
+Od 1948 roku władze próbowały zakładać spółdzielnie produkcyjne na wzór kołchozów. Narzędziem nacisku były przymusowe dostawy obowiązkowe: w latach 1948–1955 co roku karano grzywną około 1,5 miliona chłopów, którzy się z nich nie wywiązali. Po Październiku 1956 roku większość spółdzielni się rozpadła, a Polska jako jedyny kraj bloku zachowała przewagę gospodarstw indywidualnych.
 
-Punktem wyjścia była reforma rolna PKWN z września 1944 roku, która rozparcelowała majątki ziemskie powyżej 50 ha (100 ha w przypadku ziemi ornej). Ziemia trafiła do chłopów bezrolnych i małorolnych, co chwilowo zyskało władzy popularność na wsi.
+## PGR-y
+Od 1949 roku na dawnych majątkach, głównie na Ziemiach Zachodnich i Północnych, działały państwowe gospodarstwa rolne. Zajmowały około 10 procent powierzchni upraw i cechowały się niską wydajnością pracy. Ich likwidacja po 1989 roku pozostawiła wiele osiedli popegeerowskich z masowym bezrobociem.
 
-**Próba kolektywizacji (1948–1956)**
+## Kółka i spółdzielnie
+Rolnicy indywidualni korzystali z kółek rolniczych, które od 1959 roku przymusowo zrzeszono w Centralnym Związku Kółek Rolniczych; kółka i spółdzielnie kółek rolniczych świadczyły usługi maszynowe. Zaopatrzenie i skup prowadziły gminne spółdzielnie „Samopomoc Chłopska”. Przydziały nawozów, maszyn i węgla dawały władzy kolejne narzędzia nacisku.
 
-Wzorem sowieckim władze podjęły próbę kolektywizacji rolnictwa – tworzenia spółdzielni produkcyjnych na wzór kołchozów. Stosowano presję: podwyższone podatki od indywidualnych gospodarstw, przymusowe dostawy zbóż po niskich cenach (tzw. "kontyngenty"), represje wobec opornych. Mimo to chłopi masowo sabotowali kolektywizację. W 1956 roku kolektywizację faktycznie zawieszono – większość spółdzielni rozpadła się. Polska stała się wyjątkiem w bloku wschodnim: do końca PRL dominowały prywatne gospodarstwa chłopskie.
+## Lata 70.
+W 1971 roku ekipa Gierka zapowiedziała zniesienie obowiązkowych dostaw – zniesiono je od 1 stycznia 1972 roku – i objęła rolników bezpłatną opieką zdrowotną. W latach 70. państwo forsowało jednak sektor uspołeczniony, a rolnik indywidualny wciąż był traktowany gorzej.
 
-**Państwowe Gospodarstwa Rolne (PGR)**
-
-Na dawnych majątkach ziemskich i ziemiach zachodnich tworzono PGR-y – państwowe przedsiębiorstwa rolne. Zatrudniały setki tysięcy pracowników. PGR-y cechowała niska efektywność, przerost zatrudnienia i marnotrawstwo. Po 1989 roku zlikwidowanie PGR-ów (ponad 1600 zakładów) spowodowało masowe bezrobocie w byłych pracowniczych osiedlach – problem odczuwalny do dziś.
-
-**Kółka rolnicze i zaopatrzenie**
-
-Indywidualni rolnicy zrzeszali się w kółkach rolniczych – organizacjach zapewniających dostęp do maszyn, nawozów i porad agronomicznych. Centrum obsługi rolnictwa stanowiły GS-y (Gminna Spółdzielnia) i SKR-y (Spółdzielnia Kółek Rolniczych). System reglamentacji środków produkcji (np. przydział nawozów czy paliwa) dawał władzy kolejne narzędzia kontroli.
-
-**Kryzysy żywnościowe**
-
-Mimo że Polska pozostała krajem z dominującym rolnictwem prywatnym, kryzysy żywnościowe były stałym elementem PRL: braki mięsa prowadziły do podwyżek cen w 1956, 1970, 1976 i 1980 roku. Paradoks polegał na tym, że kraj rolniczy nie mógł wyżywić własnych mieszkańców – efekt złej polityki cenowej i systemu obowiązkowych dostaw.
-
-**Schyłek i transformacja**
-
-W latach 80. rolnicy uzyskali możliwość zrzeszania się w niezależnych związkach (NSZZ "Solidarność" Rolników Indywidualnych). Po 1989 roku prywatne rolnictwo polskie weszło w trudny okres transformacji rynkowej, a po wstąpieniu do UE skorzystało z systemu dopłat bezpośrednich.`,
-    trivia: ['Polska była jedynym krajem bloku z przewagą gospodarstw prywatnych.', 'Rolnicy przez lata musieli oddawać obowiązkowe dostawy płodów rolnych.'],
+## Paradoks
+Kraj z silnym rolnictwem nie potrafił zaopatrzyć sklepów w mięso. Podwyżki cen żywności wywoływały kryzysy w 1970, 1976 i 1980 roku. W 1981 roku zarejestrowano NSZZ Rolników Indywidualnych „Solidarność”.`,
+    trivia: [
+      'W latach 1948–1955 za niewywiązanie się z dostaw obowiązkowych co roku karano grzywną około 1,5 miliona chłopów.',
+      'Od 1959 roku kółka rolnicze przymusowo zrzeszono w Centralnym Związku Kółek Rolniczych.',
+      'PGR-y zajmowały około 10 procent powierzchni upraw w Polsce.',
+    ],
     resources: [
       {
         id: 'rolnictwo-prl-pkf',
@@ -9711,38 +9707,36 @@ Po śmierci Stalina (marzec 1953) represje stopniowo słabły. Przełom nastąpi
   {
     id: 'hermaszewski',
     title: 'Mirosław Hermaszewski',
-    subtitle: 'Pierwszy i jedyny Polak w kosmosie – 1978',
+    subtitle: 'Pierwszy Polak w kosmosie – 1978',
     category: 'osoby',
     tags: ['kosmos', 'Sojuz', 'Interkosmos', 'astronauta', 'pilot', '1978'],
     yearStart: 1941,
     yearEnd: 2022,
-    summary: 'Mirosław Hermaszewski – jedyny Polak, który poleciał w kosmos. 27 czerwca 1978 roku wystartował na pokładzie statku kosmicznego Sojuz 30 w ramach programu Interkosmos. Lot trwał niemal 8 dób i stał się największym triumfem propagandowym PRL lat siedemdziesiątych.',
+    summary: 'Mirosław Hermaszewski (1941–2022) – lotnik i kosmonauta, pierwszy Polak w kosmosie. 27 czerwca 1978 roku wystartował statkiem Sojuz 30 w ramach programu Interkosmos; lot trwał niemal 8 dób.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Miroslaw_H.jpg?width=800',
     imageCaption: 'Mirosław Hermaszewski, pierwszy Polak w kosmosie, 1978',
-    content: `Mirosław Hermaszewski (1941–2022) – generał brygady, pilot doświadczalny i kosmonauta, jedyny Polak, który przebywał w przestrzeni kosmicznej.
+    content: `## Z Wołynia do Dęblina
+Mirosław Hermaszewski urodził się 15 września 1941 roku w Lipnikach na Wołyniu. W marcu 1943 roku matka ocaliła go z napadu UPA na wieś; w rzezi wołyńskiej zginęło 19 członków jego rodziny, w tym ojciec. W 1945 roku rodzinę wysiedlono na Dolny Śląsk, do Wołowa. Latał w Aeroklubie Wrocławskim, a w 1964 roku ukończył szkołę lotniczą w Dęblinie. Służył jako pilot myśliwski na MiG-ach, ukończył Akademię Sztabu Generalnego i dowodził pułkiem lotnictwa myśliwskiego we Wrocławiu.
 
-**Droga do kosmosu**
+## Interkosmos
+W 1976 roku ogłoszono, że w ramach sowieckiego programu Interkosmos polecą w kosmos przedstawiciele państw bloku. Polska zabiegała o miejsce wśród pierwszych krajów i Moskwa zdecydowała, że jako pierwsi polecą Czechosłowak i Polak. Hermaszewskiego wyłoniono spośród kilkuset pilotów; płk Zenon Jankowski został jego dublerem. Od grudnia 1976 roku szkolił się w Gwiezdnym Miasteczku pod Moskwą.
 
-Urodzony w Lipnikach na Wołyniu, wychował się w Polsce. Skończył Wyższą Oficerską Szkołę Lotniczą w Dęblinie i zdobył kwalifikacje pilota doświadczalnego. W 1976 roku wybrano go – spośród kilkuset kandydatów – do radzieckiego programu Interkosmos, który miał umożliwić obywatelom państw bloku wschodniego udział w lotach kosmicznych jako demonstrację sojuszu ze ZSRR.
+## Sojuz 30
+27 czerwca 1978 roku Hermaszewski i Piotr Klimuk wystartowali statkiem Sojuz 30. Nazajutrz połączyli się ze stacją orbitalną Salut 6, gdzie prowadzili eksperymenty naukowe. Lot trwał 190 godzin i 3 minuty, a statek okrążył Ziemię 126 razy. 5 lipca 1978 roku kosmonauci wylądowali w stepach Kazachstanu.
 
-**Lot kosmiczny 1978**
+## Bohater propagandy
+Władze zrobiły z lotu wielkie widowisko propagandowe, mające świadczyć o sukcesach PRL i przyjaźni ze ZSRR. Hermaszewski otrzymał tytuł Bohatera Związku Radzieckiego, Order Lenina i Order Krzyża Grunwaldu I klasy. Był delegatem na zjazdy PZPR, a w latach 1981–1983 formalnie członkiem WRON – sam twierdził, że włączono go do niej bez jego wiedzy.
 
-27 czerwca 1978 roku Hermaszewski i radziecki kosmonauta Piotr Klimuk wystartowali ze stanowiska Bajkonur na Sojuzie 30. Misja trwała 7 dób, 22 godziny i 2 minuty. Na orbicie prowadzili eksperymenty naukowe, m.in. fotografowali Ziemię (w tym terytorium Polski), badali wpływ nieważkości na organizm, prowadzili obserwacje astronomiczne. Lądowanie nastąpiło 5 lipca 1978 roku.
+## Generał
+W latach 1987–1990 był komendantem szkoły lotniczej w Dęblinie, w 1988 roku został generałem brygady, a po 1989 roku pełnił funkcje w dowództwie lotnictwa. Zmarł 12 grudnia 2022 roku w Warszawie.
 
-**Propaganda i realia**
-
-Lot stał się wydarzeniem bez precedensu propagandowego. Władze PRL nadały mu ogromną oprawę medialną: Hermaszewski był pokazywany jako triumf socjalizmu i dowód na równouprawnienie Polski w "rodzinie narodów socjalistycznych". Dzieci w szkołach pisały prace o kosmonautach, ulice i szkoły nadawano imię Hermaszewskiego jeszcze za jego życia. Sam kosmonauta, choć świadomy instrumentalizacji swojego lotu, z pokorą przyjmował te honory.
-
-W rzeczywistości program Interkosmos był przede wszystkim polityczny: ZSRR chciał zademonstrować, że "braci" przyjmuje do elitarnego klubu potęg kosmicznych. Polska płaciła za uczestnictwo w programie – zarówno finansowo, jak i politycznie.
-
-**Po locie**
-
-Po powrocie Hermaszewski otrzymał tytuł Bohatera Związku Radzieckiego (jako pierwszy Polak po II wojnie światowej) i Bohatera Socjalistycznej Pracy PRL. Kontynuował karierę wojskową, dosłużył się stopnia generała. Po 1989 roku angażował się w działalność publiczną, był ambasadorem RP. Jego lot pozostaje unikatowym wydarzeniem w historii polskiej nauki i techniki.
-
-**Dziedzictwo**
-
-Hermaszewski jest jedynym Polakiem w kosmosie – Polska od lat nie uczestniczyła w programach kosmicznych z udziałem człowieka. Wstąpienie do ESA dało nowe możliwości, jednak do 2024 roku żaden Polak nie wrócił na orbitę. Hermaszewski inspirował pokolenia Polaków do zainteresowania nauką i astronomią.`,
-    trivia: ['Pierwszy i dotąd jedyny Polak, który poleciał w kosmos.', 'Lot odbył się w 1978 roku w ramach programu Interkosmos.'],
+## Pierwszy, nie jedyny
+Przez 47 lat Hermaszewski pozostawał jedynym Polakiem, który był w kosmosie. W czerwcu 2025 roku na Międzynarodową Stację Kosmiczną poleciał Sławosz Uznański-Wiśniewski, astronauta Europejskiej Agencji Kosmicznej – drugi Polak w przestrzeni kosmicznej.`,
+    trivia: [
+      'Lot Sojuza 30 trwał 190 godzin i 3 minuty – w tym czasie statek okrążył Ziemię 126 razy.',
+      'Jego dublerem był płk Zenon Jankowski.',
+      'Przez 47 lat był jedynym Polakiem w kosmosie – do lotu Sławosza Uznańskiego-Wiśniewskiego w 2025 roku.',
+    ],
     resources: [
       {
         id: 'hermaszewski-film',
@@ -9782,35 +9776,31 @@ Hermaszewski jest jedynym Polakiem w kosmosie – Polska od lat nie uczestniczy�
     tags: ['muzyka', 'rock', 'Niemen', 'bigbit', 'pop', 'psychodelia', 'artysta'],
     yearStart: 1939,
     yearEnd: 2004,
-    summary: 'Czesław Niemen (1939–2004) – jeden z największych polskich muzyków wszech czasów. Zaczynał od bigbitu, tworzył przeboje ("Dziwny jest ten świat"), sięgał po psychodelię, jazz-rock i muzykę elektroniczną. Artysta niepokory i oryginalności, porównywany na Zachodzie z największymi gwiazdami.',
+    summary: 'Czesław Niemen (1939–2004) – piosenkarz, kompozytor i multiinstrumentalista, autor „Dziwny jest ten świat” i albumu „Niemen Enigmatic”; przeszedł drogę od bigbitu przez rock progresywny po jazz-rock i elektronikę.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Czes%C5%82aw_Niemen.png?width=800',
     imageCaption: 'Czesław Niemen na Festiwalu Piosenki Polskiej w Opolu, 1975',
-    trivia: ['„Dziwny jest ten świat” zdobył Grand Prix festiwalu w Opolu w 1967 roku.'],
-    content: `Czesław Niemen (właśc. Czesław Juliusz Wydrzycki, 1939–2004) – piosenkarz, kompozytor, multiinstrumentalista i aranżer, jeden z symboli polskiej muzyki popularnej i rockowej.
+    trivia: [
+      '„Dziwny jest ten świat” przyniósł mu w Opolu w 1967 roku nagrodę Polskiego Radia.',
+      'Marlena Dietrich nagrała jego „Czy mnie jeszcze pamiętasz” jako „Mutter, hast du mir vergeben”.',
+      'W chwili jego pogrzebu radiostacje w całej Polsce nadały „Dziwny jest ten świat”.',
+    ],
+    content: `## Z Kresów do Gdańska
+Czesław Juliusz Wydrzycki urodził się 16 lutego 1939 roku w Starych Wasiliszkach na Nowogródczyźnie. W 1958 roku rodzina wyjechała do Polski w ostatniej fali repatriacji. W Gdańsku uczył się gry na fagocie, występował w klubie Żak, śpiewając piosenki latynoamerykańskie przy gitarze.
 
-**Początki – bigbit**
+## Niebiesko-Czarni
+W 1962 roku jego menedżerem został Franciszek Walicki, który przekonał go do rocka. Z zespołem Niebiesko-Czarni nagrał pierwsze piosenki, w 1963 roku zaśpiewał w Opolu „Wiem, że nie wrócisz”, a w grudniu tego roku wystąpił w paryskiej Olympii. Wtedy przyjął pseudonim Niemen, od rzeki płynącej koło rodzinnej wsi. W 1964 roku Marlena Dietrich nagrała jego „Czy mnie jeszcze pamiętasz” z własnym tekstem.
 
-Urodzony na Kresach (Stare Wasiliszki, dziś Białoruś), po wojnie wychował się w Polsce. Ukończył gdański Wydział Pedagogiczny PWSM. W połowie lat 60. dołączył do grupy Akwarele, a potem Niebiesko-Czarnych – czołowego polskiego zespołu bigbitowego. Szybko wyróżnił się niesamowitą ekspresją głosu i charyzmatyczną sceniczną obecnością.
+## Dziwny jest ten świat
+Jesienią 1966 roku stworzył zespół Akwarele. 25 czerwca 1967 roku zaśpiewał w Opolu „Dziwny jest ten świat” i otrzymał nagrodę Polskiego Radia. Piosenka stała się najsłynniejszym polskim protest songiem i hymnem młodzieży końca lat 60.
 
-**Przełom: "Dziwny jest ten świat" (1967)**
+## Enigmatic
+W latach 1969–1970 grał głównie we Włoszech. W październiku 1969 roku nagrał album „Niemen Enigmatic”, z monumentalnym „Bema pamięci żałobnym rapsodem” do słów Norwida – jedno z najważniejszych dzieł polskiego rocka.
 
-Festiwal Piosenki Polskiej w Opolu 1967 roku stał się punktem zwrotnym. Niemen zaśpiewał "Dziwny jest ten świat" – pieśń o miłości, pokoju i proteście przeciwko złu – i zdobył Grand Prix. Tekst był niezwykły jak na PRL: bez optymizmu socrealistycznego, z filozoficznym niepokojem. Piosenka stała się hymnem pokolenia i do dziś pozostaje klasykiem.
+## Grupa Niemen i Aerolit
+Z Helmutem Nadolskim i muzykami Silesian Blues Band, późniejszego SBB, stworzył Grupę Niemen. Nagrywał w Monachium albumy dla zachodniego rynku, m.in. „Strange Is This World” i „Ode to Venus”, oraz awangardowe „Niemen Vol. 1” i „Vol. 2”. Sięgał po organy Hammonda, melotron i syntezator Mooga. Potem prowadził zespół Niemen Aerolit, nagrał solowe „Katharsis” i „Idée fixe”, koncertował w ZSRR, USA i Indiach.
 
-**Psychodelia i awangarda**
-
-Pod koniec lat 60. Niemen radykalnie zmienił kierunek. Album "Dziwny jest ten świat" (1967) był pop-rockiem, ale kolejne – "Sukces" (1968) i "Enigmatic" (1970) – wkroczyły w psychodelię, jazz-rock i muzykę klasyczną. Współpracował z najlepszymi polskimi muzykami jazzowymi. Albumy "Niemen Enigmatic" (1970) i "Ode to Venus" (1973) zdumiały Europę – firma CBS wydała je na Zachodzie, gdzie porównywano Niemena do Hendrixa, Colemana i Led Zeppelin.
-
-**SBB i muzykowanie w PRL**
-
-Niemen współpracował z grupą SBB (Józef Skrzek), tworząc progresywnego rock-jazz. Nagrywał też dla wschodnioniemieckich i radzieckich wytwórni. PAGART (Polska Agencja Artystyczna) kontrolowała jego wyjazdy i kontrakty, ale Niemen cieszył się stosunkową swobodą ze względu na sukcesy zagraniczne, które przynosiły PRL dewizowe dochody.
-
-**Lata 80. i powrót do korzeni**
-
-W latach 80. Niemen sięgnął po muzykę elektroniczną i syntezatory. Wydał albumy "Postscriptum" (1985) i "Nie" (1987). Po 1989 roku kontynuował działalność artystyczną, grał dla nowych pokoleń. Pracował do końca życia – ostatni album nagrał na rok przed śmiercią. Zmarł na raka w Warszawie w 2004 roku.
-
-**Dziedzictwo**
-
-Niemen jest dla polskiej muzyki tym, czym Hendrix dla rocka angloamerykańskiego – artystą, który przekroczył własną epokę i gatunki. Jego teksty, przede wszystkim do poezji Norwida ("Bema pamięci żałobny rapsod"), Kochanowskiego i własne, łączyły kulturę wysoką z popularną. Nagroda Fryderyk Lifetime Achievement (2004), setki coverów i nieustanna obecność w popkulturze świadczą o jego ponadczasowości.`,
+## Stan wojenny i później
+Po 1981 roku część publiczności bojkotowała go za rzekome popieranie władz, a jego występy stały się rzadkie. W 1989 roku wydał „Terra Deflorata”, a w 2001 roku – „spodchmurykapelusza”. W 1999 roku czytelnicy „Polityki” wybrali go wykonawcą wszech czasów. Zmarł 17 stycznia 2004 roku w Warszawie; w chwili pogrzebu stacje radiowe w całej Polsce nadały „Dziwny jest ten świat”.`,
     resources: [
       {
         id: 'niemen-czeslaw-culture',
@@ -10251,34 +10241,28 @@ Destalinizacja w Polsce nie zniszczyła systemu, ale go znacząco zreformowała.
     summary: 'Polska Partia Socjalistyczna – historyczna partia lewicy, działająca od 1892 roku. Po wojnie PPR stopniowo przejmowała kontrolę nad PPS i eliminowała niezależne kierownictwo. W grudniu 1948 roku wymuszono "kongres zjednoczeniowy" PPS z PPR – w efekcie powstała PZPR, a PPS przestała istnieć jako niezależna siła.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/AGAD_Pierwszy_powiatowy_zjazd_PPS_w_Wieluniu.jpg?width=800',
     imageCaption: 'Pierwszy powiatowy zjazd PPS w Wieluniu, jeszcze przed zjednoczeniem z PPR',
-    content: `Polska Partia Socjalistyczna (PPS) była jedną z najstarszych i najbardziej wpływowych polskich partii politycznych. Jej likwidacja poprzez wymuszone połączenie z PPR w 1948 roku była symbolem końca pluralizmu politycznego w Polsce.
+    content: `## Partia z tradycją
+Polska Partia Socjalistyczna, założona w 1892 roku, była jedną z najważniejszych sił niepodległościowych i robotniczych – działał w niej Józef Piłsudski. W czasie okupacji niemieckiej konspiracyjna PPS-WRN uczestniczyła w Polskim Państwie Podziemnym.
 
-**Historia PPS przed 1939**
+## PPS „lubelska”
+Po wkroczeniu Armii Czerwonej, 10–11 września 1944 roku w Lublinie zorganizowany z inspiracji PPR zjazd powołał nową PPS, kierowaną przez Edwarda Osóbkę-Morawskiego i Bolesława Drobnera. Ludzie przedwojennej partii – Tomasz Arciszewski i Jan Kwapiński na emigracji, Kazimierz Pużak i Zygmunt Zaremba w kraju – nie uznali jej. Mimo to partia przyciągnęła rzesze socjalistów i rozrosła się do ponad 600 tysięcy członków w 1947 roku.
 
-PPS założono w 1892 roku. W jej szeregach działał Józef Piłsudski, a partia była ważnym graczem politycznym przez całe dwudziestolecie międzywojenne – zarówno jako siła lewicowa, jak i zaangażowana w walkę o niepodległość. PPS współtworzyła rządy II RP, krytykowała sanację, broniła praw robotniczych.
+## Między samodzielnością a zależnością
+W PPS ścierały się dwa nurty: zwolennicy samodzielności, gospodarki mieszanej i „socjalizmu humanistycznego” – jak Julian Hochfeld czy Jan Mulak – oraz zwolennicy zjednoczenia z komunistami, jak Józef Cyrankiewicz. W wyborach 1947 roku PPS otrzymała 116 mandatów, najwięcej ze wszystkich partii. Kongres w grudniu 1947 roku obradował jeszcze pod hasłem „PPS jest i będzie narodowi polskiemu potrzebna”.
 
-**PPS po 1945 – fałszywy pluralizm**
+## Czystki
+W 1948 roku, w czasie walki z „odchyleniem prawicowo-nacjonalistycznym”, komuniści wymusili zmianę kursu. We wrześniu 1948 roku Rada Naczelna PPS przyjęła wykładnię PPR i usunęła z władz m.in. Osóbkę-Morawskiego. Przed zjednoczeniem w ciągu kilku tygodni wyrzucono z partii 82 tysiące osób, a od początku roku – łącznie ponad 100 tysięcy.
 
-Po wyzwoleniu PPS formalnie działała obok PPR. W rzeczywistości jednak od początku znajdowała się pod presją komunistów. PPR (a za nią Związek Radziecki) dążyła do przejęcia PPS lub jej likwidacji. Strategia była dwutorowa:
-1. Infiltracja i przejmowanie kierownictwa przez ludzi lojalnych wobec PPR
-2. Marginalizowanie i represjonowanie niezależnych działaczy PPS
+## Koniec
+15 grudnia 1948 roku Kongres Zjednoczeniowy połączył PPS z PPR w Polską Zjednoczoną Partię Robotniczą – w praktyce było to wchłonięcie socjalistów przez komunistów. Cyrankiewicz, sekretarz generalny PPS, został jednym z przywódców PZPR i przez wiele lat premierem.
 
-**Cyrankiewicz – człowiek pośredniczący**
-
-Józef Cyrankiewicz – sekretarz generalny PPS – odegrał kluczową rolę w procesie likwidacji partii. Wybrany na to stanowisko w 1945 roku, dał się zdominować przez PPR i stał się instrumentem sowietyzacji. W zamian za współpracę zachował stanowisko premiera PRL przez ponad dwie dekady.
-
-**Eliminacja niezależnych**
-
-Działacze PPS, którzy sprzeciwiali się połączeniu z PPR, byli usuwani z partii, aresztowani lub zmuszani do emigracji. Wybitni socjaliści – jak Zygmunt Żuławski czy Jan Mulak – nie mogli działać. Część uciekła za granicę. Ci, którzy pozostali i opierali się, trafiali przed sądy bezpieczeństwa.
-
-**Kongres Zjednoczeniowy (grudzień 1948)**
-
-15–21 grudnia 1948 roku odbył się kongres zjednoczeniowy PPR i PPS, podczas którego obie partie oficjalnie połączyły się, tworząc Polską Zjednoczoną Partię Robotniczą (PZPR). Kongres był politycznym spektaklem: delegaci byli starannie dobrani, a głosowanie – formalnością. PZPR przyjęła struktury organizacyjne PPR i jej ideologię marksistowsko-leninowską. Socjaldemokratyczne tradycje PPS oficjalnie uznano za "odchylenie prawicowe".
-
-**Znaczenie**
-
-Likwidacja PPS oznaczała zniszczenie pluralizmu politycznego w Polsce i zakończenie możliwości niezależnej działalności lewicy niekomunistycznej. Tradycja PPS przetrwała jednak w emigracji – paryska PPS nieprzerwanie kontynuowała działalność. Powróciła też w 1987 roku w kraju, gdy opozycja reaktywowała partię, nawiązując do historycznych korzeni.`,
-    trivia: ['Po wojnie zmuszono ją do połączenia z komunistyczną PPR.', 'Działaczy niezgadzających się na fuzję represjonowano.'],
+## Dziedzictwo
+Tradycja przetrwała na emigracji, a dawni działacze PPS – Aniela Steinsbergowa, Edward Lipiński czy Jan Strzelecki – zasilili opozycję demokratyczną. W 1987 roku działacze opozycji, m.in. Jan Józef Lipski, reaktywowali PPS w kraju.`,
+    trivia: [
+      'W wyborach 1947 roku PPS zdobyła 116 mandatów – najwięcej ze wszystkich partii.',
+      'Przed połączeniem z PPR w ciągu kilku tygodni usunięto z PPS 82 tysiące członków.',
+      'Na kongresie w 1947 roku socjaliści obradowali pod hasłem „PPS jest i będzie narodowi polskiemu potrzebna”.',
+    ],
     resources: [
       {
         id: 'pps-pkf',
@@ -10480,41 +10464,28 @@ Gomułka szybko ograniczył swobody. Już w kwietniu 1957 roku innym pismom zaka
     summary: 'Służba Bezpieczeństwa PRL stosowała wyrafinowane metody kontroli społeczeństwa: werbowanie tajnych współpracowników, podsłuchy telefoniczne, dezinformację, "kombinacje operacyjne" rozkładające środowiska opozycyjne. W szczytowym okresie (lata 80.) posiadała dziesiątki tysięcy agentów.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Muzeum_%C5%BBo%C5%82nierzy_Wykl%C4%99tych_i_Wi%C4%99%C5%BAni%C3%B3w_Politycznych_PRL_2026a.jpg?width=800',
     imageCaption: 'Muzeum Żołnierzy Wyklętych i Więźniów Politycznych PRL w dawnym więzieniu przy Rakowieckiej',
-    content: `Służba Bezpieczeństwa (SB) – następczyni Urzędu Bezpieczeństwa (UB) – była fundamentem utrzymania władzy komunistycznej w Polsce. Po 1956 roku zrezygnowała z masowych egzekucji, ale rozwinęła niezwykle rozbudowany system inwigilacji i kontroli społecznej.
+    content: `## Po Październiku
+Służbę Bezpieczeństwa utworzono w listopadzie 1956 roku w Ministerstwie Spraw Wewnętrznych, w miejsce Komitetu do spraw Bezpieczeństwa Publicznego. Po Październiku liczbę funkcjonariuszy zmniejszono o 40 procent, z sieci usunięto 60 procent informatorów, a większość dawnego kierownictwa odeszła. SB rzadko sięgała po masowy terror z czasów UB, ale łamała prawo i bywało, że stosowała przemoc – robiła to jednak selektywnie.
 
-**Struktura i skala**
+## Struktura
+Departament I zajmował się wywiadem, II – kontrwywiadem, III – walką z „działalnością antypaństwową”, czyli opozycją i inteligencją. Od 1962 roku Departament IV zwalczał Kościół, a od 1981 roku Departament V „chronił” gospodarkę. Pomocnicze biura prowadziły m.in. obserwację (Biuro „B”), ewidencję i archiwum (Biuro „C”) oraz kontrolę korespondencji (Biuro „W”).
 
-W latach 80. SB liczyła ok. 25 000 funkcjonariuszy etatowych. Była zorganizowana w departamenty: Departament I (wywiad zagraniczny), Departament II (kontrwywiad), Departament III (inwigilacja opozycji i Kościoła), Departament IV (walka z Kościołem), Departament V (ochrona gospodarki) i inne. Każde województwo miało Wydział Służby Bezpieczeństwa.
+## Agentura
+Podstawą pracy byli tajni współpracownicy. W sierpniu 1989 roku SB zatrudniała 24 300 funkcjonariuszy, którzy prowadzili około 90 tysięcy TW. Werbowano ich szantażem, obietnicami korzyści – paszportu, mieszkania, awansu – zastraszaniem, a czasem przekonaniem. Agentów umieszczano w środowiskach twórczych, na uczelniach, w Kościele, w zakładach pracy, a w stanie wojennym także w ośrodkach internowania.
 
-**Tajni współpracownicy (TW)**
+## Podsłuch i obserwacja
+SB zakładała podsłuchy telefoniczne i pokojowe, tajnie otwierała listy, śledziła i fotografowała ludzi. Wyniki trafiały do teczek ewidencjonowanych przez Biuro „C”.
 
-Kluczowym instrumentem SB były osobowe źródła informacji, potocznie zwane "agentami" lub "tajnymi współpracownikami". Szacuje się, że w latach 80. sieć agentury liczyła ponad 90 000 osób. Werbowanie odbywało się różnymi metodami:
-- **Kompromis** – szantaż materiałem obciążającym (romans, przestępstwo, "teczka")
-- **Przekonanie ideologiczne** – rzadziej, ale zdarzało się
-- **Przekupstwo** – obiecywanie korzyści (mieszkanie, paszport, awans)
-- **Strach** – groźba aresztowania lub prześladowania rodziny
-- **Patriotyzm** – przekonywanie, że donosicielstwo służy Polsce
+## Kombinacje operacyjne
+Najbardziej wyrafinowaną bronią były działania dezintegracyjne: rozsiewanie plotek i fałszywek, skłócanie działaczy, kompromitowanie liderów, pisanie anonimów i podrabianie dokumentów opozycji. W Departamencie IV działała Samodzielna Grupa „D” do działań dezintegracyjnych wobec Kościoła, a funkcjonariusze tego departamentu uprowadzili i zamordowali w 1984 roku ks. Jerzego Popiełuszkę.
 
-**Podsłuchy i obserwacja**
-
-SB prowadziła masowe podsłuchy telefoniczne. W Warszawie w latach 80. podsłuchiwano tysiące linii telefonicznych. Instalowano podsłuchy w mieszkaniach, hotelach, samochodach. Prowadzono "obserwację zewnętrzną" (OE) – śledzenie osób przez agentów w terenie. Fotografowano spotkania opozycjonistów.
-
-**"Kombinacje operacyjne"**
-
-Najbardziej wyrafinowaną metodą SB były "kombinacje operacyjne" – planowane działania mające na celu rozbicie środowisk opozycyjnych bez jawnych represji:
-- Podrzucanie fałszywych informacji siejących nieufność w organizacji
-- Inspirowanie konfliktów personalnych
-- Dyskredytowanie liderów (rozsiewanie plotek o szpiegostwie, korupcji, romansach)
-- Tworzenie fałszywych pism i ulotek w imieniu opozycji
-
-**Akta SB**
-
-Po 1989 roku ogromna część akt SB trafiła do IPN. Akta mierzą setki kilometrów bieżących. Dostęp do akt wywołał ogromne społeczne emocje – ujawnienie agentury zniszczyło kariery i reputacje, ale też rozliczyło zbrodniarzy.
-
-**Afera Olina i inne skandale**
-
-Liczne późniejsze odkrycia (np. donos Lecha Wałęsy w latach 70. – sprawa operacyjna "Bolek") pokazują, jak dalece SB penetrowała nawet środowiska opozycyjne. Kwestia agentury Solidarności pozostaje tematem sporów historycznych do dziś.`,
-    trivia: ['Stosowano podsłuchy, tajne przeglądanie korespondencji i szantaż.', 'Osobną specjalnością były działania dezintegracyjne – skłócanie środowisk opozycji.'],
+## Koniec
+SB rozwiązano w 1990 roku. Na jej miejsce powstał Urząd Ochrony Państwa, do którego przyjęto część funkcjonariuszy po weryfikacji. Wiele akt zniszczono w latach 1989–1990, a zachowane przejął Instytut Pamięci Narodowej.`,
+    trivia: [
+      'W sierpniu 1989 roku 24 300 funkcjonariuszy SB prowadziło około 90 tysięcy tajnych współpracowników.',
+      'Biuro „W” MSW zajmowało się tajną kontrolą korespondencji.',
+      'Po Październiku 1956 roku z sieci agenturalnej usunięto 60 procent informatorów.',
+    ],
     resources: [
       {
         id: 'sb-metody-ipn',
@@ -11719,44 +11690,28 @@ Kołakowski odwiedzał Polskę po 1989 roku. Był uhonorowany wieloma nagrodami,
     shortDesc: 'Światowej sławy polska szkoła plakatu – graficy PRL stworzyli unikatowy styl artystyczny uznany za jeden z najważniejszych w historii plakatu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/PIC_40-W-180-5.jpg?width=800',
     imageCaption: 'Kobieta naklejająca plakaty w Warszawie, 1971',
-    content: `## Polska szkoła plakatu
+    content: `## Narodziny szkoły
+Określenie „polska szkoła plakatu” pojawiło się w latach 60. wobec grupy artystów, którzy zdobyli międzynarodowe uznanie plakatami filmowymi, teatralnymi, cyrkowymi i politycznymi. Zainteresowanie polskim plakatem rosło od 1948 roku, kiedy Henryk Tomaszewski zdobył pięć pierwszych nagród na Międzynarodowej Wystawie Plakatu Filmowego w Wiedniu.
 
-Polska szkoła plakatu to jedno z najbardziej paradoksalnych zjawisk kulturalnych PRL – w kraju komunistycznym, gdzie propaganda miała być prosta i czytelna, powstała jedna z najśmielszych i najbardziej awangardowych szkół grafiki użytkowej na świecie.
+## Wolność w plakacie
+Plakaty zamawiały państwowe instytucje, m.in. Centrala Wynajmu Filmów i teatry. Plakat filmowy czy teatralny nie był dla władz tak ważny jak propaganda polityczna, dlatego stał się przestrzenią eksperymentu. Nurt rozwinął się w latach 1953–1959, a szczyt przypadł na przełom lat 50. i 60.
 
-### Geneza
+## Styl
+Polski plakat nie streszczał filmu, tylko szukał metafory. Cechowały go lapidarność, oszczędność formy, ironia, malarskość i nowatorskie liternictwo. Martin Scorsese zauważył, że polskim plakacistom często udawało się zawrzeć w jednym obrazie syntezę całego filmu.
 
-Po II wojnie światowej polskie środowisko graficzne zaczęło szukać własnej drogi. Oficjalnie państwo potrzebowało plakatów – filmowych, teatralnych, cyrkowych, politycznych. Zamawiano je w specjalistycznych wydawnictwach i agencjach reklamowych (Ruch, WAG – Wydawnictwo Artystyczno-Graficzne).
+## Mistrzowie
+Za najwybitniejszych uznaje się Henryka Tomaszewskiego i Józefa Mroszczaka, którzy prowadzili pracownię plakatu na warszawskiej ASP. Do szkoły zalicza się też Tadeusza Trepkowskiego, Jana Lenicę, Romana Cieślewicza, Jana Młodożeńca, Franciszka Starowieyskiego, Waldemara Świerzego, Wojciecha Fangora i Wiktora Górkę. W latach 70. debiutowało nowe pokolenie – m.in. Andrzej Pągowski, Rafał Olbiński i Wiesław Wałkuski.
 
-Paradoksalnie, plakat filmowy i teatralny – bo do tych tematów komisarze ideologiczni nie przywiązywali aż tak dużej wagi – stał się przestrzenią eksperymentu artystycznego.
+## Biennale i muzeum
+W 1965 roku w Katowicach odbyło się I Ogólnopolskie Biennale Plakatu – pierwsza na świecie cykliczna impreza poświęcona plakatowi, a w 1966 roku w warszawskiej Zachęcie – I Międzynarodowe Biennale Plakatu, na którym złoty medal zdobył plakat Lenicy do opery „Wozzeck”. 4 czerwca 1968 roku otwarto w Wilanowie Muzeum Plakatu – pierwsze takie muzeum na świecie; dziś ma około 62 tysięcy prac.
 
-### Mistrzowie
-
-**Henryk Tomaszewski** (1914–2005) – ojciec polskiej szkoły plakatu. Jego plakaty łączą malarskość, wyrazisty kontur i poetycki skrót myślowy. Zdobywał nagrody na całym świecie.
-
-**Waldemar Świerzy** – wirtuoz koloru i formy, twórca plakatu jazzowego (słynne plakaty Jazz Jamboree) i filmowego. Jego plakaty do filmów Felliniego i Bergmana są arcydziełami.
-
-**Jan Lenica** – współtwórca animacji eksperymentalnej i plakatów absurdystycznych, emigrant w Niemczech.
-
-**Roman Cieślewicz** – emigrant we Francji, pracował dla „Vogue" i międzynarodowych pism.
-
-**Franciszek Starowieyski** – mroczny, oniryczny, ekspresjonistyczny. Jego plakaty teatralne i filmowe szokują do dziś.
-
-### Styl i cechy
-
-Polska szkoła plakatu charakteryzuje się: poetyckością i wieloznacznością zamiast literalności, silnym akcentem malarskim, ironią, surrealizmem i metaforą, odwagą formalną.
-
-Był to manifest – i dowód – że w systemie komunistycznym artysta może zachować autonomię, jeśli trafi na temat wystarczająco niszowy lub prestiżowy dla władz.
-
-### Muzeum Plakatu w Wilanowie
-
-Od 1968 roku Muzeum Plakatu w Wilanowie (oddział Muzeum Narodowego w Warszawie) gromadzi i wystawia plakaty polskich artystów. Jest to jedyne muzeum poświęcone wyłącznie plakatowi w Europie. Kolekcja liczy dziesiątki tysięcy obiektów.
-
-Festiwal Plakatu Filmowego w Łagowie, Międzynarodowe Biennale Plakatu – to wydarzenia, które utrwaliły polską pozycję w światowej grafice.
-
-### Wpływ na kulturę
-
-Polska szkoła plakatu dowodzi, że nawet w systemie totalitarnym twórczość może wyrwać się poza schemat, jeśli artysta ma odwagę i umiejętności. Plakaty do filmów Wajdy, Kieślowskiego, do Jazz Jamboree – były oknem na inną Polskę: intelektualną, artystyczną, odważną.`,
-    trivia: ['Polska szkoła plakatu zdobyła światową renomę.', 'Plakaty filmowe bywały ciekawsze i odważniejsze niż same filmy.'],
+## Po 1989 roku
+Koniec państwowego mecenatu i rynek reklamy sprawiły, że ambitny plakat filmowy zszedł do niszy kin studyjnych. Tradycję podtrzymały muzeum w Wilanowie, kolekcjonerzy i galerie, a nowe pokolenie projektantów znów chętnie do niej sięga.`,
+    trivia: [
+      'Muzeum Plakatu w Wilanowie, otwarte w 1968 roku, było pierwszym muzeum plakatu na świecie.',
+      'W 1948 roku Henryk Tomaszewski zdobył pięć pierwszych nagród na wystawie plakatu filmowego w Wiedniu.',
+      'Katowickie Biennale Plakatu z 1965 roku było pierwszą na świecie cykliczną imprezą poświęconą plakatowi.',
+    ],
     resources: [
       {
         id: 'plakat-prl-muzeum-plakatu-w-wilanowie',
