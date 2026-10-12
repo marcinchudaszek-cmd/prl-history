@@ -107,11 +107,11 @@ Stan wojenny zawieszono 31 grudnia 1982 roku, a zniesiono 22 lipca 1983 roku. Do
       },
       {
         id: 'sw-2',
-        title: 'Przemówienie gen. Jaruzelskiego – 13 grudnia 1981',
+        title: 'Wojciech Jaruzelski ogłasza wprowadzenie stanu wojennego – 13 grudnia 1981',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=OkmJ-PZMCj8',
-        source: 'YouTube (arch. TVP)',
-        description: 'Historyczne przemówienie telewizyjne generała Jaruzelskiego ogłaszające stan wojenny',
+        url: 'https://www.youtube.com/watch?v=RayToE35mDM',
+        source: 'TVP VOD (YouTube)',
+        description: 'Telewizyjne przemówienie gen. Jaruzelskiego z 13 grudnia 1981 roku – nagranie z archiwum TVP.',
         year: 1981,
       },
       {
@@ -129,15 +129,6 @@ Stan wojenny zawieszono 31 grudnia 1982 roku, a zniesiono 22 lipca 1983 roku. Do
         url: 'https://commons.wikimedia.org/w/index.php?search=Fotografie%20okresu%20stanu&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Kolekcja fotografii archiwalnych dokumentujących stan wojenny w Polsce',
-        year: 1982,
-      },
-      {
-        id: 'sw-5',
-        title: '"Przesłuchanie" – film Ryszarda Bugajskiego (1982)',
-        type: 'film',
-        url: 'https://www.youtube.com/watch?v=SFYfTguqC0Y',
-        source: 'YouTube',
-        description: 'Kultowy film zakazany przez cenzurę PRL, dokumentujący metody bezpieki – 1982 Przesłuchanie - Bugajski (Janda, Gajos)',
         year: 1982,
       },
       {
@@ -200,11 +191,11 @@ Solidarność zapoczątkowała pokojowy demontaż komunizmu w Polsce i Europie �
       },
       {
         id: 'sol-2',
-        title: '„Robotnicy ‘80” – film dokumentalny (cały)',
+        title: '„Robotnicy ’80” – film dokumentalny',
         type: 'film',
-        url: 'https://www.youtube.com/watch?v=hO-MRUjczzI',
-        source: 'Filmoteka Narodowa / YouTube',
-        description: 'Pełny film dokumentalny Chodakowskiego i Zajączkowskiego o strajku w Stoczni Gdańskiej (1980)',
+        url: 'https://www.youtube.com/watch?v=9rlPoBgD7LA',
+        source: 'Polska Agencja Prasowa (YouTube)',
+        description: 'Dokument Andrzeja Chodakowskiego i Andrzeja Zajączkowskiego o negocjacjach w Stoczni Gdańskiej w sierpniu 1980 roku.',
         year: 1980,
       },
       {
@@ -277,11 +268,11 @@ Poznański Czerwiec był pierwszym masowym robotniczym buntem w PRL i zapowiedzi
       },
       {
         id: 'cz56-2',
-        title: 'Kronika filmowa z Poznania 1956',
+        title: 'Poznański Czerwiec 1956 oczami UB i SB – „Kulisy historii” odc. 175',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=w0oY7Fkei88',
-        source: 'YouTube (kroniki archiwalne)',
-        description: 'Archiwalne nagrania filmowe z wydarzeń poznańskich',
+        url: 'https://www.youtube.com/watch?v=uBHhA3im9kg',
+        source: 'IPNtv',
+        description: 'Program Instytutu Pamięci Narodowej o Poznańskim Czerwcu.',
         year: 1956,
       },
       {
@@ -393,15 +384,6 @@ Okrągły Stół zapoczątkował pokojową transformację Polski i całego bloku
         year: 1989,
       },
       {
-        id: 'os-2',
-        title: 'Obrady Okrągłego Stołu – nagranie archiwalne',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=nTEspBNM8Z0',
-        source: 'YouTube',
-        description: 'Archiwalne nagrania telewizyjne z przebiegu obrad',
-        year: 1989,
-      },
-      {
         id: 'os-3',
         title: 'Obrady Okrągłego Stołu – zdjęcia i grafiki',
         type: 'zdjęcie',
@@ -460,11 +442,11 @@ PZPR była rdzeniem systemu komunistycznego w Polsce – jej dzieje to historia 
     resources: [
       {
         id: 'pzpr-pkf',
-        title: 'I Kongres PZPR – PKF 52/1948',
+        title: 'I Kongres PZPR – PKF 52/48',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=h_5-fNgpFXw',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie kroniki filmowej „I Kongres PZPR – PKF 52/1948”.',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/9066',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 27 grudnia 1948 roku o kongresie zjednoczeniowym PPR i PPS.',
       },
       {
         id: 'pzpr-1',
@@ -543,15 +525,6 @@ SB działała jeszcze w pierwszym roku III RP i została rozwiązana w 1990 roku
         url: 'https://commons.wikimedia.org/w/index.php?search=S%C5%82u%C5%BCba%20Bezpiecze%C5%84stwa%20%28SB%29&title=Special:Search&fulltext=1&ns6=1',
         source: 'Wikimedia Commons',
         description: 'Fotografie, plakaty i materiały graficzne w Wikimedia Commons.',
-      },
-      {
-        id: 'sb-3',
-        title: 'Film dokumentalny "Przesłuchanie" (1982)',
-        type: 'film',
-        url: 'https://www.youtube.com/watch?v=SFYfTguqC0Y',
-        source: 'YouTube',
-        description: 'Kultowy film Ryszarda Bugajskiego o metodach bezpieki – 1982 Przesłuchanie - Bugajski (Janda, Gajos)',
-        year: 1982,
       },
       {
         id: 'sbezpieczenstwa-ipn2',
@@ -642,11 +615,11 @@ Sierpień 1980 był przełomem – pokojowym zwycięstwem społeczeństwa nad w�
       },
       {
         id: 'sier-3',
-        title: '„Robotnicy ’80” – pełny film dokumentalny',
+        title: '„Robotnicy ’80” – film dokumentalny',
         type: 'film',
-        url: 'https://www.youtube.com/watch?v=hO-MRUjczzI',
-        source: 'YouTube (dokument FN)',
-        description: 'Dokument filmowy nakręcony w trakcie strajku przez Andrzeja Chodakowskiego i Andrzeja Zajączkowskiego',
+        url: 'https://www.youtube.com/watch?v=9rlPoBgD7LA',
+        source: 'Polska Agencja Prasowa (YouTube)',
+        description: 'Dokument Andrzeja Chodakowskiego i Andrzeja Zajączkowskiego o negocjacjach w Stoczni Gdańskiej w sierpniu 1980 roku.',
         year: 1980,
       },
       {
@@ -699,14 +672,6 @@ Reformy z 1956, 1973 i 1982 roku za każdym razem kończyły się powrotem centr
       'Liczba ludności sprzed wojny – 34,8 miliona – została odtworzona dopiero w 1978 roku.',
     ],
     resources: [
-      {
-        id: 'gospodarka-prl-pkf',
-        title: 'Polskie morze i gospodarka krajowa – PKF 1981',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=j4q88_uD3GM',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie kroniki filmowej „Polskie morze i gospodarka krajowa – PKF 1981”.',
-      },
       {
         id: 'gosp-1',
         title: 'Plany gospodarcze PRL – GUS Archiwum',
@@ -884,15 +849,6 @@ Wybór Karola Wojtyły 16 października 1978 roku i jego pielgrzymka w 1979 roku
         description: 'Artykuł o liście biskupów z 1965 roku i kampanii propagandowej, jaką władze rozpętały wokół niego.',
       },
       {
-        id: 'kosc-1',
-        title: 'Jan Paweł II – pielgrzymka 1979, homilia Warszawa',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=teeY9iai1k8',
-        source: 'YouTube (nagrania archiwalne)',
-        description: 'Archiwalne nagranie homilii Jana Pawła II na Placu Zwycięstwa w 1979 roku – Jan Paweł II - Homilia na Placu Zwycięstwa (Warszawa 1979)',
-        year: 1979,
-      },
-      {
         id: 'kosc-2',
         title: 'Kościół katolicki w PRL – opracowania',
         type: 'publikacja',
@@ -934,14 +890,6 @@ W mieście nie przewidziano kościoła. Po 1956 roku zgodzono się na budowę i 
 ## Bunt w mieście robotników
 Miasto zbudowane dla klasy robotniczej stało się miejscem oporu wobec władzy, która je stworzyła. 13 października 1982 roku, podczas zamieszek w stanie wojennym, kapitan SB zastrzelił przed Arką Pana robotnika Bogdana Włosika.`,
     resources: [
-      {
-        id: 'nh-yt',
-        title: 'O Nowej to Hucie piosenka (lata 50.)',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=DuMu0givQUg',
-        source: 'YouTube',
-        description: 'Socrealistyczna pieśń masowa sławiąca budowę Nowej Huty (muz. Jerzy Gert).',
-      },
       {
         id: 'nh-1',
         title: 'PKF 30/50: „Nowa Huta. Budowa Nowej Huty”',
@@ -1001,15 +949,6 @@ W grudniu 1970 roku wprowadził podwyżkę cen mięsa. Protesty na Wybrzeżu st�
       'W 1959 i 1961 roku przeżył dwie próby zamachu.',
     ],
     resources: [
-      {
-        id: 'gom-1',
-        title: 'Przemówienie Gomułki – Październik 1956',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=pwQTHsMSDF8',
-        source: 'YouTube (nagrania archiwalne)',
-        description: 'Archiwalne nagranie historycznego przemówienia Gomułki na Placu Defilad w październiku 1956 – Przemówienie Władysława Gomułki i wiec na Placu Defilad w Warszawie w ',
-        year: 1956,
-      },
       {
         id: 'gom-2',
         title: 'Władysław Gomułka – zdjęcia i grafiki',
@@ -1146,11 +1085,11 @@ Po Okrągłym Stole Zgromadzenie Narodowe wybrało go 19 lipca 1989 roku prezyde
       },
       {
         id: 'jar-1',
-        title: 'Przemówienie Jaruzelskiego – 13 grudnia 1981',
+        title: 'Wojciech Jaruzelski ogłasza wprowadzenie stanu wojennego – 13 grudnia 1981',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=OkmJ-PZMCj8',
-        source: 'YouTube (arch. TVP)',
-        description: 'Oryginalne przemówienie telewizyjne generała ogłaszające stan wojenny',
+        url: 'https://www.youtube.com/watch?v=RayToE35mDM',
+        source: 'TVP VOD (YouTube)',
+        description: 'Telewizyjne przemówienie gen. Jaruzelskiego z 13 grudnia 1981 roku – nagranie z archiwum TVP.',
         year: 1981,
       },
       {
@@ -1364,11 +1303,11 @@ Po amnestii ogłoszonej na 22 lipca 1977 roku na wolność wyszli zarówno aresz
     resources: [
       {
         id: 'kor-pkf',
-        title: 'Radomski Czerwiec \'76',
+        title: 'Komitet Obrony Robotników – razem przeciwko systemowi',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=1Kz_8ZajP10',
-        source: 'YouTube (arch.)',
-        description: 'Protest robotniczy w Radomiu, po którym powstał Komitet Obrony Robotników',
+        url: 'https://www.youtube.com/watch?v=wXE_nyhrhB4',
+        source: 'IPNtv',
+        description: 'Materiał Instytutu Pamięci Narodowej o KOR.',
         year: 1976,
       },
       {
@@ -1440,11 +1379,11 @@ W 1968 roku z Polski wyjechało, według różnych szacunków, od 13 do 20 tysi�
       },
       {
         id: 'marzec-yt',
-        title: 'Marzec 1968 – film dokumentalny',
+        title: '„Z filmoteki bezpieki” odc. 12 – Marzec 1968',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=sVt_N2cBcbk',
-        source: 'YouTube',
-        description: 'Dokumentalna analiza wydarzeń i tła Marca 1968.',
+        url: 'https://www.youtube.com/watch?v=2ieJCyhYlLY',
+        source: 'IPNtv',
+        description: 'Materiały operacyjne SB z marca 1968 roku omawiane przez historyków IPN.',
       },
       {
         id: 'mar68-2',
@@ -1589,21 +1528,12 @@ SB prowadziła przeciw niemu operację o kryptonimie „Popiel”. W grudniu 198
       },
       {
         id: 'pop-2',
-        title: 'Kazania ks. Popiełuszki – nagrania',
+        title: 'Zabójstwo ks. Jerzego Popiełuszki w dokumentach kościelnych – „Kulisy historii” odc. 187',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=KxpnjSH8aOU',
-        source: 'Archiwum Parafii / YouTube',
-        description: 'Archiwalne nagrania Mszy za Ojczyznę i kazań ks. Jerzego – ks. Jerzy Popiełuszko, Msza Św. za Ojczyznę 29 stycznia 1984 r.  Homil',
+        url: 'https://www.youtube.com/watch?v=aFf3YDd-s-I',
+        source: 'IPNtv',
+        description: 'Program Instytutu Pamięci Narodowej o zamordowaniu ks. Jerzego Popiełuszki.',
         year: 1983,
-      },
-      {
-        id: 'pop-3',
-        title: 'Film "Popiełuszko. Wolność jest w nas"',
-        type: 'film',
-        url: 'https://www.youtube.com/watch?v=cMOxMaprUB4',
-        source: 'YouTube',
-        description: 'Film fabularny opowiadający historię życia i śmierci ks. Popiełuszki – Popiełuszko',
-        year: 2009,
       },
     ],
     relatedIds: ['kosciol-prl', 'sbezpieczenstwa', 'solidarnosc', 'stan-wojenny'],
@@ -1786,11 +1716,11 @@ Dla setek tysięcy mężczyzn armia oznaczała dwuletnią służbę zasadniczą.
     resources: [
       {
         id: 'lwp-pkf',
-        title: 'Niech żyje Ludowe Wojsko Polskie – PKF 45/1953',
+        title: 'Niech żyje Ludowe Wojsko Polskie! – PKF 45/53',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=LxTzw9Rk8iU',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie kroniki filmowej „Niech żyje Ludowe Wojsko Polskie – PKF 45/1953”.',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/7769',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 21 października 1953 roku.',
       },
       {
         id: 'lwp-1',
@@ -2007,14 +1937,6 @@ Skrót wszedł do polszczyzny jako synonim przemocy państwa, a rozwinięcia w r
     ],
     resources: [
       {
-        id: 'zomo-pkf',
-        title: 'ZOMO w kronice filmowej',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=JmHc1KNo_E8',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie kroniki filmowej „ZOMO w kronice filmowej”.',
-      },
-      {
         id: 'zomo-1',
         title: 'ZOMO – zdjęcia i grafiki',
         type: 'zdjęcie',
@@ -2095,15 +2017,6 @@ Nauczanie papieża uznaje się za jeden z czynników przemian w bloku wschodnim.
         description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1978,
       },
-      {
-        id: 'jp2-3',
-        title: 'Pielgrzymka 1979 – archiwalne nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=teeY9iai1k8',
-        source: 'YouTube / TVP Archiwum',
-        description: 'Materiały archiwalne z pierwszej pielgrzymki papieskiej do Polski w czerwcu 1979 r – Jan Paweł II - Homilia na Placu Zwycięstwa (Warszawa 1979)',
-        year: 1979,
-      },
     ],
     relatedIds: ['wyszynski', 'solidarnosc', 'stan-wojenny', 'kosciol-prl', 'sierpien-1980'],
   },
@@ -2145,14 +2058,6 @@ Data manifestu stała się najważniejszym świętem państwowym PRL – Narodow
         url: 'https://pl.wikisource.org/wiki/Manifest_Polskiego_Komitetu_Wyzwolenia_Narodowego',
         source: 'Wikiźródła',
         description: 'Pełny tekst manifestu z 22 lipca 1944 roku.',
-      },
-      {
-        id: 'pkwn-pkf',
-        title: 'Polska Kronika Filmowa – PKWN i 22 lipca',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=5e84JIZt3_Q',
-        source: 'YouTube',
-        description: 'Kroniki filmowe o PKWN i rocznicach 22 lipca – Manifest PKWN z 22 lipca 1944',
       },
       {
         id: 'pkwn-1',
@@ -2377,15 +2282,6 @@ Rząd Mazowieckiego przeprowadził nowelizację konstytucji z 29 grudnia 1989 ro
         year: 2013,
       },
       {
-        id: 'mazowiecki-2',
-        title: 'Exposé Mazowieckiego – 24 sierpnia 1989',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=N6YQHp2_gX0',
-        source: 'YouTube – archiwa Sejmu RP',
-        description: 'Nagranie historycznego exposé pierwszego niekomunistycznego premiera PRL z formułą „grubej kreski" – Gruba kreska Mazowieckiego. Tak narodziła się III RP',
-        year: 1989,
-      },
-      {
         id: 'mazowiecki-3',
         title: 'Tadeusz Mazowiecki – opracowania',
         type: 'publikacja',
@@ -2448,11 +2344,11 @@ W maju i sierpniu 1988 roku stocznia znów strajkowała, co doprowadziło do roz
       },
       {
         id: 'stocznia-2',
-        title: 'Strajk Sierpień 1980 – film dokumentalny',
+        title: '„Robotnicy ’80” – film dokumentalny',
         type: 'film',
-        url: 'https://www.youtube.com/watch?v=hO-MRUjczzI',
-        source: 'YouTube / IPN',
-        description: 'Dokument o wydarzeniach sierpniowych i roli Stoczni Gdańskiej.',
+        url: 'https://www.youtube.com/watch?v=9rlPoBgD7LA',
+        source: 'Polska Agencja Prasowa (YouTube)',
+        description: 'Dokument Andrzeja Chodakowskiego i Andrzeja Zajączkowskiego o negocjacjach w Stoczni Gdańskiej w sierpniu 1980 roku.',
         year: 1980,
         downloadable: false,
       },
@@ -2515,16 +2411,6 @@ Po 1989 roku rozgłośnia przeniosła się do Warszawy, a jej działalność zak
         source: 'Wikipedia',
         description: 'Hasła i opracowania encyklopedyczne na ten temat.',
         year: 1952,
-        downloadable: false,
-      },
-      {
-        id: 'rwe-3',
-        title: 'Radio Wolna Europa – nagrania archiwalne',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=MwyQou587iI',
-        source: 'YouTube',
-        description: 'Archiwalne materiały wideo dotyczące tematu – W 1988 Zakończono zagłuszanie Radia Wolna Europa | Podcast Kalendarium',
-        year: 1956,
         downloadable: false,
       },
       {
@@ -2652,14 +2538,6 @@ Odwilż trwała krótko. W 1957 roku zamknięto tygodnik „Po prostu”, a po d
     ],
     resources: [
       {
-        id: 'pazdziernik-1956-pkf',
-        title: 'Wiec w Warszawie 1956 – wystąpienie Gomułki',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=nQc9o_MmIE8',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie kroniki filmowej „Wiec w Warszawie 1956 – wystąpienie Gomułki”.',
-      },
-      {
         id: 'p56-ipn1',
         title: 'Październik 1956 - artykuły IPN',
         type: 'publikacja',
@@ -2674,16 +2552,6 @@ Odwilż trwała krótko. W 1957 roku zamknięto tygodnik „Po prostu”, a po d
         url: 'https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956',
         source: 'Wikipedia',
         description: 'Hasła i opracowania encyklopedyczne na ten temat.',
-        year: 1956,
-        downloadable: false,
-      },
-      {
-        id: 'paz56-2',
-        title: 'Przemówienie Gomułki – Plac Defilad 1956',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=pwQTHsMSDF8',
-        source: 'YouTube / Archiwum TVP',
-        description: 'Historyczne nagranie przemówienia Gomułki do tłumu w Warszawie w październiku 1956 – Przemówienie Władysława Gomułki i wiec na Placu Defilad w Warszawie w ',
         year: 1956,
         downloadable: false,
       },
@@ -2802,11 +2670,11 @@ Dyskusje o wyburzeniu gmachu toczyły się latami, ale w 2007 roku Pałac wpisan
     resources: [
       {
         id: 'pk-pkf',
-        title: 'Polska Kronika Filmowa – budowa PKiN',
+        title: 'Rośnie Pałac Przyjaźni – PKF 47/52',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=D1Be6gVtjbQ',
-        source: 'YouTube',
-        description: 'Kronika filmowa z budowy Pałacu Kultury i Nauki (1952–1955).',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/7706',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z listopada 1952 roku o budowie Pałacu Kultury i Nauki.',
       },
       {
         id: 'pkwn-pki-1',
@@ -2878,16 +2746,6 @@ W wielu zakładach do strajku weszli młodzi robotnicy, którzy w 1980 roku byli
         url: 'https://przystanekhistoria.pl/pa2/tematy',
         source: 'IPN Polskie Miesiące',
         description: 'Dokumentacja strajków 1988 roku w portalu IPN poświęconym kluczowym wydarzeniom PRL.',
-        year: 1988,
-        downloadable: false,
-      },
-      {
-        id: 'strajki88-2',
-        title: 'Debata Wałęsa–Miodowicz 1988',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=nTEspBNM8Z0',
-        source: 'YouTube / TVP Archiwum',
-        description: 'Historyczna debata telewizyjna Lecha Wałęsy z Alfredem Miodowiczem z 30 listopada 1988.',
         year: 1988,
         downloadable: false,
       },
@@ -3206,16 +3064,6 @@ Największy międzynarodowy sukces przyszedł w 1981 roku: „Człowiek z żelaz
         downloadable: false,
       },
       {
-        id: 'kino-3',
-        title: 'Człowiek z żelaza – Wajda 1981',
-        type: 'film',
-        url: 'https://www.youtube.com/watch?v=qK__cr_vut4',
-        source: 'YouTube',
-        description: 'Zwiastun nagrodzonego Złotą Palmą w Cannes 1981 roku filmu Andrzeja Wajdy o Solidarności – Genialna scena. "Człowiek z Żelaza" - rozmowa Opani z Gajosem',
-        year: 1981,
-        downloadable: false,
-      },
-      {
         id: 'kino-prl-wiki2',
         title: 'Polska Szkoła Filmowa – opracowania',
         type: 'publikacja',
@@ -3262,11 +3110,11 @@ Społeczeństwo nauczyło się czytać między wierszami. Odpowiedzią były dow
     resources: [
       {
         id: 'prop-1',
-        title: 'Propaganda PRL – nagranie archiwalne',
+        title: 'Wojciech Jaruzelski ogłasza wprowadzenie stanu wojennego – 13 grudnia 1981',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=OkmJ-PZMCj8',
-        source: 'YouTube',
-        description: 'Archiwalne wydania Dziennika Telewizyjnego – przykład propagandy medialnej PRL.',
+        url: 'https://www.youtube.com/watch?v=RayToE35mDM',
+        source: 'TVP VOD (YouTube)',
+        description: 'Telewizyjne przemówienie gen. Jaruzelskiego z 13 grudnia 1981 roku – nagranie z archiwum TVP.',
         year: 1981,
         downloadable: false,
       },
@@ -3394,11 +3242,11 @@ Migracja ze wsi do miast znacząco zwiększyła liczbę robotników. Zmęczenie 
     resources: [
       {
         id: 'plan-szescioletni-pkf',
-        title: 'Bierut przedstawia plan rozwoju – PKF 29/1949',
+        title: 'Plan 6-letni uchwalony – PKF 31/50',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=xcW6-M9vw34',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie kroniki filmowej „Bierut przedstawia plan rozwoju – PKF 29/1949”.',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/6322',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 25 lipca 1950 roku o uchwaleniu planu sześcioletniego.',
       },
       {
         id: 'p6-pkf',
@@ -3494,11 +3342,11 @@ Zwolnienie Anny Walentynowicz ze Stoczni Gdańskiej, kilka miesięcy przed emery
       },
       {
         id: 'wzz-3',
-        title: 'Robotnicy 80 – film dokumentalny',
+        title: '„Robotnicy ’80” – film dokumentalny',
         type: 'film',
-        url: 'https://www.youtube.com/watch?v=hO-MRUjczzI',
-        source: 'YouTube',
-        description: 'Dokument o strajku sierpniowym i ludziach, którzy go wywołali – w tym działaczach WZZ.',
+        url: 'https://www.youtube.com/watch?v=9rlPoBgD7LA',
+        source: 'Polska Agencja Prasowa (YouTube)',
+        description: 'Dokument Andrzeja Chodakowskiego i Andrzeja Zajączkowskiego o negocjacjach w Stoczni Gdańskiej w sierpniu 1980 roku.',
         year: 1980,
         downloadable: false,
       },
@@ -3614,14 +3462,6 @@ Po upadku systemów komunistycznych w regionie struktury wojskowe układu rozwi�
       'Jedyną wspólną operacją sojuszu była interwencja przeciw jego własnemu członkowi – Czechosłowacji w 1968 roku.',
     ],
     resources: [
-      {
-        id: 'uklad-warszawski-pkf',
-        title: 'Powołanie Układu Warszawskiego i RWPG – PKF 21/1955',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=vV6Lhr3DsJs',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie kroniki filmowej „Powołanie Układu Warszawskiego i RWPG – PKF 21/1955”.',
-      },
       {
         id: 'uw-1',
         title: 'Układ Warszawski – artykuł',
@@ -3765,11 +3605,11 @@ Prawdziwego wyniku nie da się odtworzyć. W stu obwodach, z których zachowały
     resources: [
       {
         id: 'wybory-1947-pkf',
-        title: 'Wybory do Sejmu Ustawodawczego – PKF 01/1947',
+        title: '19 stycznia – wybory – PKF 1/47',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=fWHtS5hm-Fg',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie kroniki filmowej „Wybory do Sejmu Ustawodawczego – PKF 01/1947”.',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/4681',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z przełomu 1946 i 1947 roku zapowiadająca wybory do Sejmu Ustawodawczego.',
       },
       {
         id: 'w47-pkf',
@@ -3839,15 +3679,6 @@ Symbolem wyjazdów stał się warszawski Dworzec Gdański – ten sam, z któreg
       'Po 1956 roku z Polski wyjechało około 42 tysięcy Żydów, a w 1967 roku zostało ich około 25 tysięcy.',
     ],
     resources: [
-      {
-        id: 'em68-pkf',
-        title: 'Przemówienie Gomułki z 19 marca 1968',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=dGQncIgbm-4',
-        source: 'YouTube (arch. PKF 12/68B)',
-        description: 'Fragmenty wystąpienia w Sali Kongresowej, które nadało ton kampanii marcowej',
-        year: 1968,
-      },
       {
         id: 'em68-1',
         title: 'Marzec 1968 – emigracja Żydów, portal IPN',
@@ -3933,11 +3764,11 @@ Zachodnia granica na Odrze i Nysie była przez dekady kontestowana przez RFN. Os
       },
       {
         id: 'zo-pkf',
-        title: 'Polska Kronika Filmowa – Wystawa Ziem Odzyskanych 1948',
+        title: 'Wystawa Ziem Odzyskanych – PKF 35/48',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=wCZaDC7GfDU',
-        source: 'YouTube',
-        description: 'Kronika z Wystawy Ziem Odzyskanych we Wrocławiu (1948).',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/6447',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z sierpnia 1948 roku o wystawie we Wrocławiu.',
       },
       {
         id: 'ziemie-polona',
@@ -4067,11 +3898,11 @@ Produkcję zakończono 22 września 2000 roku. W Polsce zbudowano 3 318 674 Malu
     resources: [
       {
         id: 'fiat-126p-pkf',
-        title: 'Fiat 126p w kronice filmowej',
+        title: 'Wspinaczka malucha – PKF 29A/75',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=pmAPTRw8fps',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Fiat 126p w kronice filmowej”.',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/10553',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z lipca 1975 roku o Fiacie 126p.',
       },
       {
         id: 'fiat-1',
@@ -4630,14 +4461,6 @@ Mimo to polskie uczelnie – zwłaszcza Uniwersytet Warszawski, AGH, UJ – zach
 PRL dał Polsce masową edukację – i to jest realne osiągnięcie. Ale też wychował pokolenia w schemacie ideologicznym, z lukusem w wiedzy historycznej i obywatelskiej. Likwidacja tych braków stała się zadaniem szkoły po 1989 roku.`,
     trivia: ['Szkoła była bezpłatna i powszechna, ale też mocno zideologizowana.', 'Obowiązkowa była nauka języka rosyjskiego.'],
     resources: [
-      {
-        id: 'edukacja-prl-pkf',
-        title: 'Szkoła eksperymentalna we Wrocławiu – PKF 1959',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=A1XUOuMeWY8',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Szkoła eksperymentalna we Wrocławiu – PKF 1959”.',
-      },
       {
         id: 'edukacja-polona',
         title: 'Edukacja i szkoła w PRL – opracowania',
@@ -5283,14 +5106,6 @@ Internowanie w stanie wojennym dotknęło też kobiety – działaczki Solidarno
     trivia: ['Kobiety masowo podjęły pracę zawodową.', 'Podwójny etat – praca i dom – był normą, nie wyjątkiem.'],
     resources: [
       {
-        id: 'kobiety-prl-pkf',
-        title: 'Kobieta w PRL – kronika filmowa',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=jaf38gBY8Ys',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Kobieta w PRL – kronika filmowa”.',
-      },
-      {
         id: 'kobiety-polona',
         title: 'Kobiety w PRL – opracowania',
         type: 'publikacja',
@@ -5809,16 +5624,6 @@ Kontrakt zakładał, że władza zachowa większość i kontrolę. Wojciech Jaru
         url: 'https://pl.wikipedia.org/w/index.php?search=okragly%20stol&fulltext=1&ns0=1',
         source: 'Wikipedia',
         description: 'Hasła i opracowania encyklopedyczne na ten temat.',
-        year: 1989,
-        downloadable: false,
-      },
-      {
-        id: 'wyl89-2',
-        title: 'Wybory 4 czerwca 1989 – nagranie archiwalne',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=nTEspBNM8Z0',
-        source: 'YouTube',
-        description: 'Archiwalne nagrania z nocy wyborczej 4 czerwca 1989 – ogłaszanie wyników.',
         year: 1989,
         downloadable: false,
       },
@@ -6352,11 +6157,11 @@ W stanie wojennym wielu aktorów odmawiało występów w telewizji, a „Solidar
       },
       {
         id: 'tvp-3',
-        title: 'Dziennik Telewizyjny stanu wojennego',
+        title: 'Wojciech Jaruzelski ogłasza wprowadzenie stanu wojennego – 13 grudnia 1981',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=OkmJ-PZMCj8',
-        source: 'YouTube / TVP Archiwum',
-        description: 'Archiwalne nagranie Dziennika Telewizyjnego z okresu stanu wojennego.',
+        url: 'https://www.youtube.com/watch?v=RayToE35mDM',
+        source: 'TVP VOD (YouTube)',
+        description: 'Telewizyjne przemówienie gen. Jaruzelskiego z 13 grudnia 1981 roku – nagranie z archiwum TVP.',
         year: 1981,
         downloadable: false,
       },
@@ -6467,15 +6272,6 @@ W maju 1981 roku sąd zarejestrował NSZZ Rolników Indywidualnych „Solidarno�
       'W strajku ostrzegawczym 27 marca 1981 roku wzięło udział około 12–14 milionów ludzi.',
     ],
     resources: [
-      {
-        id: 'sr-film2',
-        title: 'NSZZ Rolników Indywidualnych „Solidarność”',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=-dOkDEoDCbc',
-        source: 'YouTube (arch.)',
-        description: 'Historia związku od rejestracji w 1981 roku',
-        year: 1981,
-      },
       {
         id: 'sr-film',
         title: 'Bydgoski Marzec \'81',
@@ -6706,15 +6502,6 @@ Kartki znoszono stopniowo: cukier w 1985 r., mięso w 1989 r. Reforma Balcerowic
         url: 'https://pl.wikipedia.org/wiki/Reglamentacja',
         source: 'Wikipedia',
         description: 'Skany kartek żywnościowych, bonów towarowych i talonów z okresu reglamentacji w PRL.',
-        year: 1981,
-      },
-      {
-        id: 'kartki-2',
-        title: 'Dokumenty rządowe o reglamentacji',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=wfRShAUjjqg',
-        source: 'YouTube',
-        description: 'Archiwalne materiały wideo dotyczące tematu – Kartki żywnościowe z PRL – Co można było dostać? Czy warto je dziś zbi',
         year: 1981,
       },
     ],
@@ -6974,15 +6761,6 @@ W 1990 r., po urynkowieniu i otwarciu granic, Pewex stracił rację bytu. Sklepy
         year: 1972,
       },
       {
-        id: 'pewex-2',
-        title: 'Pewex i Baltona – nagrania archiwalne',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=BuGBYki4EUQ',
-        source: 'YouTube',
-        description: 'Archiwalne materiały wideo dotyczące tematu – Pewex i Baltona ‐ lata 80 w Polsce!',
-        year: 1972,
-      },
-      {
         id: 'pewex-3',
         title: 'Kroniki filmowe – sklepy i konsumpcja w PRL',
         type: 'film',
@@ -7156,15 +6934,6 @@ Chłopi otrzymali ziemię – co wielu przyjmowało z entuzjazmem. Lecz radość
 Kwestia odszkodowań dla potomków wywłaszczonych właścicieli ziemskich pozostaje nierozwiązana do dziś. Polska jest jedynym krajem postkomunistycznym, który nie uchwalił ustawy reprywatyzacyjnej dla majątków zabranych przez komunistów.`,
     trivia: ['Dekret PKWN z września 1944 przejmował majątki powyżej 50 hektarów.', 'Parcelacja miała pozyskać wieś dla nowej władzy.'],
     resources: [
-      {
-        id: 'rr-pkf',
-        title: 'PKF 1945 nr 13: „Ziemia dla chłopów!”',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=CXL1VvEb0Es',
-        source: 'YouTube (Polska Kronika Filmowa)',
-        description: 'Propagandowa relacja z parcelacji majątków ziemskich',
-        year: 1945,
-      },
       {
         id: 'rolna-1',
         title: 'Dekret o reformie rolnej – Dziennik Ustaw',
@@ -8084,11 +7853,11 @@ Konstytucja PRL obowiązywała do 1989 r. – nowelizacje Okrągłego Stołu prz
     resources: [
       {
         id: 'konstytucja-prl-pkf',
-        title: 'Uchwalenie Konstytucji PRL – PKF 31–32/1952',
+        title: 'Święto radości młodości Konstytucji – PKF 31-32/52',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=VUBNqGt3gW4',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie kroniki filmowej „Uchwalenie Konstytucji PRL – PKF 31–32/1952”.',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/7329',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z sierpnia 1952 roku o uchwaleniu Konstytucji PRL.',
       },
       {
         id: 'konst-1',
@@ -8283,14 +8052,6 @@ W muzyce socrealizm wymagał melodyjności, zrozumiałości i "optymizmu" – aw
 Po śmierci Stalina (1953) i XX Zjeździe KPZR (1956) socrealizm zaczął się kruszyć. W Polsce "odwilż" kulturalna była wyraźna – artyści odetchnęli, jazz stał się legalny, awangarda powróciła. Architektoniczne relikty socrealizmu – MDM, PKiN, osiedla z lat 50. – stoją do dziś, będąc teraz zabytkami.`,
     trivia: ['Doktrynę ogłoszono na zjeździe literatów w Szczecinie w 1949 roku.', 'Po 1956 roku odrzucono ją równie szybko, jak wprowadzono.'],
     resources: [
-      {
-        id: 'soc-yt',
-        title: '„Budujemy nową Polskę” (pieśń masowa, 1954)',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=cD5ju60ckI8',
-        source: 'YouTube',
-        description: 'Socrealistyczna pieśń masowa epoki stalinowskiej.',
-      },
       {
         id: 'socreal-1',
         title: 'Socrealizm w sztuce i architekturze – opracowania',
@@ -8817,11 +8578,11 @@ Odbudowa stała się mitem założycielskim PRL: tysiące ochotników z całego 
     resources: [
       {
         id: 'odbudowa-warszawy-pkf',
-        title: 'Budujemy Warszawę – PKF 1945',
+        title: 'Budujemy nową Warszawę – PKF 39/50',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=k2ZiYFNMkwk',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Budujemy Warszawę – PKF 1945”.',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/6568',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z września 1950 roku o odbudowie stolicy.',
       },
       {
         id: 'ow-pkf',
@@ -9033,14 +8794,6 @@ XX Zjazd przyspieszył rehabilitację ofiar stalinizmu, uwolnienie prymasa Wyszy
 Chruszczow rządził ZSRR do 1964 r. Jego czas to "odwilż" – ograniczenie terroru, pewna liberalizacja kultury, ale też kryzys kubański (1962) i Mur Berliński (1961). W 1964 r. obalili go towarzysze partyjni.`,
     trivia: ['Tajny referat o zbrodniach Stalina wygłoszono na XX Zjeździe KPZR w lutym 1956.', 'Jego treść szybko przedostała się do Polski i przyspieszyła odwilż.'],
     resources: [
-      {
-        id: 'chruszczow-pkf',
-        title: 'Chruszczow wycofuje rakiety z Kuby – PKF 48B/1962',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=890VbFf2WRk',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie kroniki filmowej „Chruszczow wycofuje rakiety z Kuby – PKF 48B/1962”.',
-      },
       {
         id: 'chruszcz-1',
         title: 'Chruszczow i destalinizacja – opracowania',
@@ -9728,14 +9481,6 @@ Wynik wyborów otworzył drogę do rządu Tadeusza Mazowieckiego. Pierwsze w pe�
     ],
     resources: [
       {
-        id: 'wybory-prl-pkf',
-        title: 'O wyborach w PRL – kronika filmowa z 1984 roku',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=t8eThkTS7jo',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie kroniki filmowej „O wyborach w PRL – kronika filmowa z 1984 roku”.',
-      },
-      {
         id: 'wybory-1947-ipn',
         title: 'Wybory w PRL – opracowania',
         type: 'publikacja',
@@ -9788,14 +9533,6 @@ Kraj z silnym rolnictwem nie potrafił zaopatrzyć sklepów w mięso. Podwyżki 
       'PGR-y zajmowały około 10 procent powierzchni upraw w Polsce.',
     ],
     resources: [
-      {
-        id: 'rolnictwo-prl-pkf',
-        title: 'Socjalistyczne rolnictwo – kronika filmowa',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=wtZRNxKcGuo',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie kroniki filmowej „Socjalistyczne rolnictwo – kronika filmowa”.',
-      },
       {
         id: 'rolnictwo-reforma',
         title: 'Dekret PKWN o reformie rolnej – tekst źródłowy',
@@ -9991,15 +9728,6 @@ Przez 47 lat Hermaszewski pozostawał jedynym Polakiem, który był w kosmosie. 
     ],
     resources: [
       {
-        id: 'hermaszewski-film',
-        title: 'Lot Hermaszewskiego – kroniki filmowe 1978',
-        type: 'film',
-        url: 'https://www.youtube.com/watch?v=-ymt4xyk69Y',
-        source: 'YouTube',
-        description: 'Archiwalne kroniki filmowe dokumentujące start, lot i powrót Hermaszewskiego – Co Hermaszewski zabrał w kosmos?',
-        year: 1978,
-      },
-      {
         id: 'hermaszewski-pkf',
         title: 'Polska Kronika Filmowa – Lot Sojuzem 30',
         type: 'film',
@@ -10064,11 +9792,11 @@ Po 1981 roku część publiczności bojkotowała go za rzekome popieranie władz
       },
       {
         id: 'nie-yt',
-        title: 'Czesław Niemen – „Dziwny jest ten świat”',
+        title: 'Czesław Niemen – największe przeboje',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=kVp0BB6J-HI',
-        source: 'YouTube',
-        description: 'Przełomowy utwór z 1967 r. – manifest wrażliwości.',
+        url: 'https://www.youtube.com/watch?v=RXP9_N4UeHc',
+        source: 'Polskie Nagrania (YouTube)',
+        description: 'Oficjalny zestaw nagrań Czesława Niemena z katalogu Polskich Nagrań, m.in. „Dziwny jest ten świat”.',
       },
       {
         id: 'niemen-ninateka',
@@ -10077,15 +9805,6 @@ Po 1981 roku część publiczności bojkotowała go za rzekome popieranie władz
         url: 'https://ninateka.pl/audio,153683/czeslaw-niemen-o-cyprianie-kamilu-norwidzie,7033',
         source: 'Ninateka',
         description: 'Materiał wideo w serwisie Ninateka (Filmoteka Narodowa – Instytut Audiowizualny).',
-      },
-      {
-        id: 'niemen-youtube',
-        title: 'Niemen – Dziwny jest ten świat (1967)',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=wTjLZwpmufw',
-        source: 'YouTube',
-        description: 'Historyczne nagranie przełomowego występu Niemena na festiwalu w Opolu – Czesław Niemen - Dziwny jest ten świat (oryginal)',
-        year: 1967,
       },
       {
         id: 'niemen-polona',
@@ -10134,11 +9853,11 @@ W połowie lat 70. wykryto u niej chorobę nowotworową. Ostatni koncert dała 5
     resources: [
       {
         id: 'ag-yt',
-        title: 'Anna German – „Tańczące Eurydyki” (Opole 1964)',
+        title: 'Anna German – „Tańczące Eurydyki”',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=6GLiObApSEc',
-        source: 'YouTube',
-        description: 'Nagrodzony występ z II KFPP w Opolu.',
+        url: 'https://www.youtube.com/watch?v=twRal3uHNJc',
+        source: 'Pomaton (YouTube)',
+        description: 'Oficjalne nagranie przeboju Anny German z 1964 roku.',
       },
       {
         id: 'german-ninateka',
@@ -10403,15 +10122,6 @@ Odwilż trwała krótko. Już w grudniu 1956 roku powołano ZOMO, a w 1957 roku 
       'Ministerstwo Bezpieczeństwa Publicznego rozwiązano już w grudniu 1954 roku.',
     ],
     resources: [
-      {
-        id: 'dest-pkf',
-        title: 'Wiec na placu Defilad – wystąpienie Gomułki (1956)',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=nQc9o_MmIE8',
-        source: 'YouTube (Polska Kronika Filmowa)',
-        description: 'Kronika z 24 października 1956, symboliczny początek odwilży',
-        year: 1956,
-      },
       {
         id: 'destalin-xxzjazd',
         title: 'XX Zjazd KPZS – referat Chruszczowa',
@@ -26598,14 +26308,6 @@ Do grudnia 1981 roku film obejrzało w Polsce około pięciu milionów widzów. 
         url: 'https://www.youtube.com/watch?v=0wmWaXddtZE',
         source: 'YouTube',
         description: 'Zwiastun filmu Wajdy.',
-      },
-      {
-        id: 'czz-1',
-        title: '„Człowiek z żelaza” – fragmenty',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=qK__cr_vut4',
-        source: 'YouTube',
-        description: 'Sceny i materiały o filmie – Genialna scena. "Człowiek z Żelaza" - rozmowa Opani z Gajosem',
       },
       {
         id: 'czz-2',
