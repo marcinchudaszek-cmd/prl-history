@@ -2573,6 +2573,14 @@ Po wyborach 4 czerwca 1989 roku cenzura w praktyce przestała działać. Urząd 
     ],
     resources: [
       {
+        id: 'cenzura-prl-yt-m3',
+        title: 'Cenzura komunistyczna',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=i1kBDO9js_I',
+        source: 'IPN Oddział w Warszawie (YouTube)',
+        description: 'Materiał Instytutu Pamięci Narodowej o działaniu cenzury w PRL.',
+      },
+      {
         id: 'cenzura-1',
         title: 'Czarna Księga Cenzury PRL – Przystanek Historia',
         type: 'publikacja',
@@ -2705,6 +2713,14 @@ Głównym celem było zwalczanie podziemia niepodległościowego, opozycji polit
       'Józef Światło uciekł do Amerykanów podczas wyjazdu służbowego do Berlina, na który pojechał z płk. Anatolem Fejginem.',
     ],
     resources: [
+      {
+        id: 'ub-yt-m3',
+        title: 'Morderstwa UB – cykl „Kulisy historii” odc. 71',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=PfmcwdCa62Y',
+        source: 'IPNtv',
+        description: 'Program Instytutu Pamięci Narodowej o zbrodniach Urzędu Bezpieczeństwa.',
+      },
       {
         id: 'ub-1',
         title: 'Urząd Bezpieczeństwa – opracowania',
@@ -4353,6 +4369,14 @@ Walentynowicz do końca życia czuła, że jest niedoceniana. Historia oddaje je
     trivia: ['Jej zwolnienie z pracy stało się bezpośrednią iskrą strajku w sierpniu 1980.', 'Pracowała jako suwnicowa; współtworzyła Wolne Związki Zawodowe.'],
     resources: [
       {
+        id: 'walentynowicz-yt-m3',
+        title: 'Wykład Anny Walentynowicz, 16 czerwca 1989 r., USA',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=01N3uTN_Gs8',
+        source: 'IPNtv – Świadkowie historii z Archiwum IPN',
+        description: 'Archiwalne nagranie wystąpienia Anny Walentynowicz w Stanach Zjednoczonych.',
+      },
+      {
         id: 'walentynowicz-encysol',
         title: 'Anna Walentynowicz w Encyklopedii Solidarności',
         type: 'publikacja',
@@ -4424,6 +4448,14 @@ Na emigracji Mikołajczyk kontynuował działalność polityczną. Wydał wspomn
 W PRL Mikołajczyk był postacią przemilczaną lub demonizowaną. Oficjalna historia PSL z nim nie istniała. Dopiero po 1989 roku odzyskał należne mu miejsce w historii – jako polityk, który do końca walczył o demokratyczną Polskę.`,
     trivia: ['Był premierem rządu na uchodźstwie, potem wicepremierem w kraju.', 'W 1947 roku potajemnie opuścił Polskę, obawiając się aresztowania.'],
     resources: [
+      {
+        id: 'mikolajczyk-yt-m3',
+        title: 'Próby jawnej opozycji w Polsce pojałtańskiej – cykl „Między mitem a rzeczywistością”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=-ibnk4nQMzM',
+        source: 'IPNtv',
+        description: 'Dyskusja historyków IPN o legalnej opozycji, m.in. PSL Stanisława Mikołajczyka.',
+      },
       {
         id: 'mikolajczyk-ipn',
         title: 'Stanisław Mikołajczyk i PSL – zdjęcia i grafiki',
@@ -4644,6 +4676,14 @@ W obradach Okrągłego Stołu brała udział delegacja NZS – organizacja miał
 NZS był dowodem, że wolnościowy impuls Solidarności dosięgnął całego społeczeństwa – nie tylko robotników, ale też studentów, nauczycieli, intelektualistów. Był też kuźnią kadr przyszłej demokratycznej Polski: wielu polityków III RP swoją drogę zaczynało w NZS.`,
     trivia: ['Niezależne Zrzeszenie Studentów zarejestrowano w lutym 1981, po strajkach studenckich w Łodzi.', 'Było studenckim odpowiednikiem Solidarności.'],
     resources: [
+      {
+        id: 'nzs-yt-m3',
+        title: 'Niezależne Zrzeszenie Studentów – studencka Solidarność?',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=O5zafX1sdUQ',
+        source: 'IPNtv Szczecin',
+        description: 'Materiał Instytutu Pamięci Narodowej o historii NZS.',
+      },
       {
         id: 'nzs-ipn',
         title: 'NZS – Niezależne Zrzeszenie Studentów – artykuł',
@@ -5087,6 +5127,14 @@ W 1990 roku Moczulski startował w wyborach prezydenckich. Największy sukces pa
       'W wyborach 1991 roku KPN zdobyła 51 mandatów w Sejmie.',
     ],
     resources: [
+      {
+        id: 'kpn-yt-m3',
+        title: '„Z filmoteki bezpieki” odc. 79 – Konfederacja Polski Niepodległej',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=0xax4LUKQVI',
+        source: 'IPNtv',
+        description: 'Materiały operacyjne SB dotyczące KPN omawiane przez historyków IPN.',
+      },
       {
         id: 'kpn-1',
         title: 'Konfederacja Polski Niepodległej – artykuł',
@@ -5545,6 +5593,14 @@ W grudniu 1948 roku PPR połączyła się z Polską Partią Socjalistyczną (PPS
 Powstanie PZPR zamknęło etap „dyktatury koalicyjnej" i otworzyło etap jednolitego stalinizmu.`,
     trivia: ['Powstała w 1942 roku z inicjatywy Moskwy.', 'W 1948 roku weszła w skład nowo utworzonej PZPR.'],
     resources: [
+      {
+        id: 'ppr-yt-m3',
+        title: 'Nowotko, Mołojec, Finder, Kolski – cykl „Namiestnicy Kremla i zarządcy komunistycznej Polski”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=MCsls34nuBw',
+        source: 'IPNtv',
+        description: 'Materiał Instytutu Pamięci Narodowej o pierwszych przywódcach PPR.',
+      },
       {
         id: 'ppr-1',
         title: 'Polska Partia Robotnicza – opracowania',
@@ -6106,6 +6162,14 @@ Areszt na Rakowieckiej działał do 2017 roku. Od 2016 roku mieści się w nim M
     ],
     resources: [
       {
+        id: 'wiezienia-polityczne-yt-m3',
+        title: 'Bestie Bieruta z Rakowieckiej – Przystanek Historia odc. 73',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=FihKZvEvOcU',
+        source: 'IPNtv',
+        description: 'Program Instytutu Pamięci Narodowej o więzieniu mokotowskim i jego oprawcach.',
+      },
+      {
         id: 'wiezienia-1',
         title: 'Więzienie na Rakowieckiej – Muzeum Żołnierzy Wyklętych',
         type: 'publikacja',
@@ -6463,6 +6527,14 @@ Cyrankiewicz był premierem w latach 1947–1952 i ponownie 1954–1970 – łą
 Grudzień 1970 r. – masakra na Wybrzeżu – przyspieszył jego odejście z centrum władzy. Cyrankiewicz objął stanowisko przewodniczącego Rady Państwa (1970–1972), a następnie odszedł w cień. Gierek wypchnął stare twarze systemu. Cyrankiewicz dożył 1989 r., widząc koniec systemu, który przez dekady współtworzył.`,
     trivia: ['Był premierem przez niemal dwadzieścia lat – najdłużej w historii Polski.', 'Po Poznańskim Czerwcu 1956 groził odrąbaniem ręki podniesionej na władzę ludową.'],
     resources: [
+      {
+        id: 'cyrankiewicz-yt-m3',
+        title: 'Józef Cyrankiewicz – cykl „Kulisy historii” odc. 91',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=dQ8QsGopOKc',
+        source: 'IPNtv',
+        description: 'Program Instytutu Pamięci Narodowej o wieloletnim premierze PRL.',
+      },
       {
         id: 'cyr-1',
         title: 'Józef Cyrankiewicz – opracowania',
@@ -6928,6 +7000,14 @@ Osobnym rozdziałem było przymusowe przesiedlenie Ukraińców z południa i wsc
 Ziemie Odzyskane stały się tyglem etnicznym i kulturowym: obok Polaków z Kresów przybyli tam Polacy z centralnej Polski, Żydzi, volksdeutsche. Budowała się nowa tożsamość tych ziem – z nostalgią za Kresami i przywiązaniem do "małej ojczyzny" dolnośląskiej.`,
     trivia: ['Po wojnie miejsce zamieszkania zmieniły miliony ludzi.', 'Przesiedleńcy z Kresów trafiali głównie na Ziemie Zachodnie.'],
     resources: [
+      {
+        id: 'repatriacje-yt-m3',
+        title: 'Grzegorz Hryciuk: Arka na szynach. Przesiedlenia Polaków z Kresów Wschodnich',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=sfPENdln2wo',
+        source: 'Instytut Historyczny Uniwersytetu Wrocławskiego (YouTube)',
+        description: 'Wykład historyka o przesiedleniach ludności polskiej z Kresów po II wojnie światowej.',
+      },
       {
         id: 'repat-1',
         title: 'Wielka migracja powojenna – opracowania',
@@ -8362,6 +8442,14 @@ Rząd emigracyjny działał nieprzerwanie przez 45 lat. Kolejni prezydenci: Racz
     trivia: ['Działał w Londynie aż do 1990 roku.', 'Insygnia prezydenckie przekazano wtedy Lechowi Wałęsie.'],
     resources: [
       {
+        id: 'rzad-emigracyjny-yt-m3',
+        title: 'Przez Morze Czerwone – Rzeczpospolita Polska na Uchodźstwie 1945–1990',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=V-v_0eNsb5g',
+        source: 'IPNtv',
+        description: 'Materiał Instytutu Pamięci Narodowej o władzach RP na uchodźstwie.',
+      },
+      {
         id: 'rzad-em-1',
         title: 'Rząd RP na uchodźstwie – artykuł',
         type: 'publikacja',
@@ -9209,6 +9297,14 @@ Moczar jest symbolem narodowo-komunistycznej hybrydy: połączenia nacjonalizmu 
     trivia: ['Stał na czele partyjnej frakcji „partyzantów”.', 'Kampanię antysemicką 1968 roku wykorzystał w walce o władzę.'],
     resources: [
       {
+        id: 'moczar-yt-m3',
+        title: 'Jak narodowy komunizm wstrząsnął PRL? Moczar i „partyzanci”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=pl0Xy5jL65I',
+        source: 'Muzeum Historii Polski (YouTube)',
+        description: 'Materiał Muzeum Historii Polski o frakcji Mieczysława Moczara.',
+      },
+      {
         id: 'moczar-1',
         title: 'Mieczysław Moczar i frakcja partyzantów – opracowania',
         type: 'publikacja',
@@ -9332,6 +9428,14 @@ Po wyborach czerwcowych 1989 r. Kiszczak przez kilka dni był formalnie desygnow
 Po 1989 r. Kiszczak był wielokrotnie oskarżany – o udział w wprowadzeniu stanu wojennego, o odpowiedzialność za śmierć górników z Wujka. Procesy ciągnęły się latami; żaden nie zakończył się prawomocnym wyrokiem skazującym przed jego śmiercią w 2015 r. Kontrowersje dotyczące oceny jego roli trwają do dziś.`,
     trivia: ['Jako szef MSW odpowiadał za aparat represji stanu wojennego.', 'Kilka lat później prowadził z opozycją rozmowy w Magdalence.'],
     resources: [
+      {
+        id: 'kiszczak-yt-m3',
+        title: 'Czesław Kiszczak cz. 1 – „Taśmy bezpieki” odc. 32',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=5xMtew6cVn4',
+        source: 'IPNtv',
+        description: 'Program Instytutu Pamięci Narodowej oparty na archiwalnych nagraniach resortu.',
+      },
       {
         id: 'kiszczak-1',
         title: 'Gen. Czesław Kiszczak – opracowania',
@@ -9705,6 +9809,14 @@ Po Październiku przed sądem stanęli niektórzy funkcjonariusze. W 1957 roku R
     ],
     resources: [
       {
+        id: 'zbrodnie-stalinizmu-yt-m3',
+        title: 'Powązkowska Łączka',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=IZc_2x-3Rww',
+        source: 'IPNtv',
+        description: 'Materiał Instytutu Pamięci Narodowej o poszukiwaniach szczątków ofiar terroru na „Łączce”.',
+      },
+      {
         id: 'zbrodnie-ipn',
         title: 'Zbrodnie stalinizmu w Polsce – opracowania',
         type: 'publikacja',
@@ -10046,6 +10158,14 @@ W 1989 roku SW odrzuciła porozumienie Okrągłego Stołu. W 1990 roku z jej śr
       'W maju 1988 roku władze deportowały Kornela Morawieckiego z kraju – wrócił nielegalnie.',
     ],
     resources: [
+      {
+        id: 'solidarnosc-walczaca-yt-m3',
+        title: '„Z filmoteki bezpieki” odc. 54 – Solidarność Walcząca',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=Vdd2GkvqaKs',
+        source: 'IPNtv',
+        description: 'Materiały operacyjne SB dotyczące Solidarności Walczącej omawiane przez historyków IPN.',
+      },
       {
         id: 'sw-ipn',
         title: 'Solidarność Walcząca – zdjęcia i grafiki',
@@ -10857,6 +10977,14 @@ Po 1956 roku amnestia i rewizje wyroków uwolniły wielu więźniów politycznyc
       'Funkcyjnych więźniów w Jaworznie nazywano „gońcami” lub „blokowymi”.',
     ],
     resources: [
+      {
+        id: 'obozy-pracy-yt-m3',
+        title: 'Obóz dwóch totalitaryzmów – film dokumentalny',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=Dw2QOtLTWVE',
+        source: 'Muzeum Miasta Jaworzna (YouTube)',
+        description: 'Film dokumentalny o obozie w Jaworznie – niemieckim podobozie Auschwitz, a potem komunistycznym obozie pracy.',
+      },
       {
         id: 'obozy-ipn',
         title: 'Obozy pracy i więzienia polityczne – opracowania',
