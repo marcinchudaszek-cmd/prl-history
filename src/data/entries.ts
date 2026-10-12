@@ -12556,14 +12556,6 @@ Filmy Barei musiały przechodzić przez cenzurę, która często ingerowała w s
 Od nazwiska reżysera powstało pojęcie „bareizm” – oznaczające typową dla PRL groteskową absurdalność rzeczywistości. Filmy Barei są dziś cenione jako dokument epoki i klasyka polskiej komedii, a ich cytaty weszły do języka potocznego.`,
     resources: [
       {
-        id: 'bar-1',
-        title: 'Kino Stanisława Barei – nagrania archiwalne',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=WVOmJwDpjtQ',
-        source: 'YouTube',
-        description: 'Archiwalne materiały wideo dotyczące tematu – Nie ma róży bez ognia (1974) – Cały Film | Kultowa Komedia Stanisława ',
-      },
-      {
         id: 'bar-2',
         title: 'Bareja i absurdy PRL – publikacje',
         type: 'publikacja',
@@ -13989,14 +13981,6 @@ Czerwone Gitary są symbolem melodyjnego big-beatu lat 60. i 70. i jednym z najl
         description: 'Opracowanie biograficzne z omówieniem twórczości.',
       },
       {
-        id: 'cg-yt',
-        title: 'Czerwone Gitary – „Nie spoczniemy”',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=btGejFkWr38',
-        source: 'YouTube',
-        description: 'Ponadczasowa ballada z tekstem Agnieszki Osieckiej.',
-      },
-      {
         id: 'cg-1',
         title: 'Czerwone Gitary – nagrania',
         type: 'nagranie',
@@ -14983,14 +14967,6 @@ W 2011 roku serial przeszedł cyfrową rekonstrukcję, a w 2012 roku powstała k
         url: 'https://www.youtube.com/watch?v=oGKo8nfItVE',
         source: 'YouTube',
         description: 'Fragmenty i materiały o serialu – STAWKA WIĘKSZA NIŻ ŻYCIE odcinek 4 | Hans Kloss | kultowe polskie seri',
-      },
-      {
-        id: 'sww-3',
-        title: 'Seriale PRL w VOD TVP',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=dTMMafqKfiI',
-        source: 'YouTube',
-        description: 'Materiały telewizyjne – STAWKA WIĘKSZA NIŻ ŻYCIE – Odc. 3 „Wiem już wszystko” | KOLOROWA WERSJ',
       },
       {
         id: 'stawka-wieksza-niz-zycie-wiki2',
@@ -16515,14 +16491,6 @@ W kolejnych latach grał młodych buntowników w filmach „Koniec nocy” i „
         description: 'Fragmenty filmów i materiały.',
       },
       {
-        id: 'cyb-3',
-        title: 'Kino polskie w Ninatece',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=fLCJKVdsSLM',
-        source: 'YouTube',
-        description: 'Archiwalne materiały filmowe – Zbigniew Cybulski: zginął pod pociągiem, ale protokół z tej nocy znikn',
-      },
-      {
         id: 'cybulski-zbigniew-wiki2',
         title: 'Zbigniew Cybulski – artykuł',
         type: 'publikacja',
@@ -16583,14 +16551,6 @@ Był posłem na Sejm, ale po wprowadzeniu stanu wojennego zrzekł się mandatu w
         url: 'https://www.youtube.com/watch?v=BZQFgDw4GO8',
         source: 'YouTube',
         description: 'Fragmenty ról i materiały – Maciej Stuhr - Gustaw Holoubek',
-      },
-      {
-        id: 'hol-3',
-        title: 'Teatr w Ninatece',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=9t5_lBAypaM',
-        source: 'YouTube',
-        description: 'Archiwalne materiały – Aleksandra Śląska i Gustaw Holoubek (1968)',
       },
       {
         id: 'holoubek-gustaw-nina',
@@ -18774,14 +18734,6 @@ Po udarze w 2002 roku stracił zdolność mowy i pisania, po czym nauczył się 
         description: 'Artykuły o twórczości pisarza.',
       },
       {
-        id: 'mro-2',
-        title: 'Mrożek – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=M_OrXswb-f0',
-        source: 'YouTube',
-        description: 'Materiały o sztukach i autorze – Tango Mrożek (Cały Spektakl)',
-      },
-      {
         id: 'mro-3',
         title: 'Teksty w Polonie',
         type: 'publikacja',
@@ -19479,14 +19431,6 @@ Dał polskiej publiczności kino widowiskowe, którego wcześniej nie było, i z
         url: 'https://www.youtube.com/results?search_query=Jerzy+Hoffman+Potop+Pan+Wo%C5%82odyjowski',
         source: 'YouTube',
         description: 'Fragmenty filmów i materiały.',
-      },
-      {
-        id: 'hof-3',
-        title: 'Kino w Ninatece',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=k1s8EI_5ajI',
-        source: 'YouTube',
-        description: 'Archiwalne materiały filmowe – The Deluge - Potop (1974) - Jerzy Hoffman - Daniel Olbrychski - Malgor',
       },
       {
         id: 'hoffman-jerzy-nina',
@@ -20693,14 +20637,6 @@ W kraju, w którym wyższość radzieckiego brata była obowiązkowym elementem 
 W 1985 roku wyemigrował do Republiki Federalnej Niemiec, gdzie przez pewien czas startował. Jego gest pozostaje jednym z najbardziej rozpoznawalnych symboli sportowego i narodowego buntu w PRL.`,
     trivia: ['Złoto w Moskwie 1980 zdobył, ustanawiając rekord świata.', 'Jego gest wobec gwiżdżącej publiczności obiegł cały świat.'],
     resources: [
-      {
-        id: 'koz-1',
-        title: 'Władysław Kozakiewicz – archiwalia',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=aS1thKf99xY',
-        source: 'YouTube',
-        description: 'Archiwalne nagrania konkursu i gestu – Władysław Kozakiewicz Moskwa 30 lipca 1980 r',
-      },
       {
         id: 'koz-2',
         title: 'Kozakiewicz – materiały',
@@ -22452,14 +22388,6 @@ Grała do późnej starości, a jej stulecie obchodzono jako wydarzenie kultural
         description: 'Filmografia i informacje o aktorce.',
       },
       {
-        id: 'kw-2',
-        title: 'Kwiatkowska – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=1UhSzy3R76E',
-        source: 'YouTube',
-        description: 'Kreacje kabaretowe i serialowe – Kabaret Starszych Panów - Irena Kwiatkowska',
-      },
-      {
         id: 'kw-3',
         title: 'Kabaret w Ninatece',
         type: 'nagranie',
@@ -23188,22 +23116,6 @@ Ekscentryczny wizerunek i późniejsze samotne życie w Lewinie Kłodzkim w otoc
         description: 'Opracowanie biograficzne z omówieniem twórczości.',
       },
       {
-        id: 'vv-yt',
-        title: 'Violetta Villas – „Do ciebie mamo”',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=N68_SARhXEw',
-        source: 'YouTube',
-        description: 'Jeden z najsłynniejszych utworów artystki.',
-      },
-      {
-        id: 'vv-1',
-        title: 'Violetta Villas – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=KlVB5ILBy5A',
-        source: 'YouTube',
-        description: 'Wykonania i materiały archiwalne – Violetta Villas - Oczy Czarne - XL KFPP Opole 2003',
-      },
-      {
         id: 'vv-2',
         title: 'Violetta Villas – artykuł',
         type: 'publikacja',
@@ -23245,14 +23157,6 @@ Zespół zagrał kilka tysięcy koncertów w Polsce i za granicą. Małgorzata O
       'Wanda Kwietniewska, druga wokalistka Lombardu, odeszła w 1982 roku i założyła Wandę i Bandę.',
     ],
     resources: [
-      {
-        id: 'lom-yt',
-        title: 'Lombard – „Przeżyj to sam” (1982)',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=BmEP9czgX0c',
-        source: 'YouTube',
-        description: 'Hymniczny przebój zespołu z lat 80.',
-      },
       {
         id: 'lom-1',
         title: 'Lombard – nagrania',
@@ -26769,14 +26673,6 @@ Po 1989 roku stworzyła w Warszawie własne teatry – Polonię i Och-Teatr – 
         description: 'Hasło i opracowania o aktorce.',
       },
       {
-        id: 'kj-3',
-        title: '„Przesłuchanie” – o filmie',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=saUyvNAkRoE',
-        source: 'YouTube',
-        description: 'Materiały o słynnym filmie – Przesłuchanie (1982) - Cały Film | Reż. Ryszard Bugajski | Krystyna Ja',
-      },
-      {
         id: 'krystyna-janda-nina',
         title: 'Damy i huzary | Krystyna Janda',
         type: 'nagranie',
@@ -26912,14 +26808,6 @@ W samym 1984 roku film obejrzało ponad 10,8 mln widzów, a do końca rozpowszec
         url: 'https://www.youtube.com/watch?v=NJAmwC6bBMI',
         source: 'YouTube',
         description: 'Kultowa piosenka z filmu.',
-      },
-      {
-        id: 'apk-1',
-        title: '„Akademia Pana Kleksa” – fragmenty',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=QgVECOXwwWM',
-        source: 'YouTube',
-        description: 'Sceny i piosenki z filmu – Akademia Pana Kleksa (1983) CAŁY FILM | Klasyka Polskiego Kina dla Dzi',
       },
       {
         id: 'apk-2',
@@ -28896,14 +28784,6 @@ Zginął 17 sierpnia 1998 roku w wypadku samochodowym na drodze krajowej nr 3 po
     ],
     resources: [
       {
-        id: 'wk2-yt',
-        title: 'Władysław Komar – Monachium 1972',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=_hpwbeFJQ-A',
-        source: 'YouTube',
-        description: 'Nagrania i materiały o zawodniku – ZMARŁ W NĘDZY: Władysław Komar — złoto Monachium i gorzka starość',
-      },
-      {
         id: 'wk2-2',
         title: 'Władysław Komar – artykuł',
         type: 'publikacja',
@@ -28955,14 +28835,6 @@ W 1990 roku, w drodze na koncert do Gorzowa Wielkopolskiego, uległa poważnemu 
       'Zainicjowała Nagrodę im. Anny Jantar dla najzdolniejszych debiutantów.',
     ],
     resources: [
-      {
-        id: 'hf-yt',
-        title: 'Halina Frąckowiak – „Bądź gotowy dziś do drogi”',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=1qEj2qSLdWA',
-        source: 'YouTube',
-        description: 'Klasyczny przebój artystki (1974).',
-      },
       {
         id: 'hf-1',
         title: 'Halina Frąckowiak – nagrania',
@@ -30263,14 +30135,6 @@ Na kolaudacji w październiku 1972 roku zarzucano filmowi pokazywanie osób na w
         url: 'https://www.youtube.com/watch?v=gHvOAi-l0Jc',
         source: 'YouTube',
         description: 'Fragment komedii Barei.',
-      },
-      {
-        id: 'pp2-1',
-        title: '„Poszukiwany, poszukiwana” – materiały',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=xapg_zVaNT4',
-        source: 'YouTube',
-        description: 'Sceny i materiały o filmie – Poszukiwany, poszukiwana Komedia 1973 reż Bareja',
       },
       {
         id: 'pp2-2',
@@ -32045,14 +31909,6 @@ Po oficjalnym pokazie film trafił do Cannes, gdzie Krystyna Janda otrzymała na
         url: 'https://pl.wikipedia.org/wiki/Przes%C5%82uchanie_(film)',
         source: 'Wikipedia',
         description: 'Hasło encyklopedyczne o filmie.',
-      },
-      {
-        id: 'prz-yt',
-        title: '„Przesłuchanie” – materiały',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=saUyvNAkRoE',
-        source: 'YouTube',
-        description: 'Sceny i materiały o filmie – Przesłuchanie (1982) - Cały Film | Reż. Ryszard Bugajski | Krystyna Ja',
       },
     ],
     relatedIds: ['krystyna-janda', 'polkowniki', 'cenzura-prl'],
