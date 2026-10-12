@@ -25420,14 +25420,6 @@ Po 1989 roku stworzyła w Warszawie własne teatry – Polonię i Och-Teatr – 
         description: 'Opracowanie biograficzne z omówieniem twórczości.',
       },
       {
-        id: 'kj-yt',
-        title: 'Krystyna Janda – role filmowe',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=S3-4jCnud8I',
-        source: 'YouTube',
-        description: 'Sceny i materiały o aktorce – Krystyna Janda in Przesłuchanie (1989)',
-      },
-      {
         id: 'kj-2',
         title: 'Krystyna Janda – artykuł',
         type: 'publikacja',
@@ -25622,22 +25614,6 @@ Od początku cieszył się ogromną popularnością i był wielokrotnie powtarza
     ],
     resources: [
       {
-        id: 'pdr-yt',
-        title: '„Polskie drogi” – scena',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=Rcn8D8Jze10',
-        source: 'YouTube',
-        description: 'Fragment serialu Morgensterna.',
-      },
-      {
-        id: 'pdr-1',
-        title: '„Polskie drogi” – fragmenty',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=Thk4NXqoTsA',
-        source: 'YouTube',
-        description: 'Odcinki i materiały o serialu – Polskie Drogi - Odcinek 1 Misja Specjalna czesc 1 6 - YouTube.flv',
-      },
-      {
         id: 'pdr-2',
         title: '„Polskie drogi” – artykuł',
         type: 'publikacja',
@@ -25688,19 +25664,11 @@ Jego nagrania są dziś odkrywane na nowo, także przez muzyków młodszych o po
       },
       {
         id: 'az-yt',
-        title: 'Andrzej Zaucha – „C\'est la vie”',
+        title: 'Andrzej Zaucha – „C’est la vie – Paryż z pocztówki”',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=tqXDC-aPTrk',
-        source: 'YouTube',
-        description: 'Teledysk przeboju (1987).',
-      },
-      {
-        id: 'az-1',
-        title: 'Andrzej Zaucha – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=yi7D-DrQBTg',
-        source: 'YouTube',
-        description: 'Wykonania i materiały o artyście – (TVP) Andrzej Zaucha - największe przeboje',
+        url: 'https://www.youtube.com/watch?v=F6hK-DruuTg',
+        source: 'YouTube (Andrzej Zaucha – Topic)',
+        description: 'Oficjalne nagranie przeboju Andrzeja Zauchy.',
       },
       {
         id: 'az-2',
@@ -25872,14 +25840,6 @@ Studio Filmów Rysunkowych uczyniło z Bielska-Białej jeden z głównych ośrod
     ],
     resources: [
       {
-        id: 'rx-yt',
-        title: '„Reksio” – czołówka',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=edXKEjmVGlU',
-        source: 'YouTube',
-        description: 'Kultowa czołówka serii.',
-      },
-      {
         id: 'rx-1',
         title: '„Reksio” – bajki',
         type: 'nagranie',
@@ -25928,14 +25888,6 @@ Po zakończeniu kariery zawodniczej pracował jako trener i działacz, kierował
       'Był zawodnikiem spoza Azji w dyscyplinie zdominowanej przez azjatyckie szkoły.',
     ],
     resources: [
-      {
-        id: 'ag-yt',
-        title: 'Andrzej Grubba – tenis stołowy',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=B3IloN7Tpwc',
-        source: 'YouTube',
-        description: 'Nagrania i materiały o zawodniku – jan ove waldner andrzej grubba great point europe top 12 table tennis ',
-      },
       {
         id: 'ag-2',
         title: 'Andrzej Grubba – artykuł',
@@ -25996,11 +25948,11 @@ W maju 1973 roku wyjechał z rodziną do Stanów Zjednoczonych. Występował w m
       },
       {
         id: 'kk-1',
-        title: 'Krzysztof Klenczon – nagrania',
+        title: 'Krzysztof Klenczon – „Wróćmy na jeziora”',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=nAQvlWGaCkM',
-        source: 'YouTube',
-        description: 'Wykonania i materiały o artyście – GDY KIEDYŚ ZNÓW ZAWOŁAM CIĘ-KRZYSZTOF KLENCZON,CZERWONE GITARY',
+        url: 'https://www.youtube.com/watch?v=IJe2rh5q4z0',
+        source: 'Polskie Nagrania (YouTube)',
+        description: 'Oficjalne nagranie z katalogu Polskich Nagrań.',
       },
       {
         id: 'kk-2',
@@ -26108,22 +26060,6 @@ Filemon należał do żelaznego repertuaru wieczorynki. W kraju z dwoma programa
     ],
     resources: [
       {
-        id: 'fk-yt',
-        title: '„Przygody kota Filemona” – odcinek',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=hjq7_uUIwHo',
-        source: 'YouTube',
-        description: 'Odcinek kultowej kreskówki.',
-      },
-      {
-        id: 'fk-1',
-        title: '„Kot Filemon” – bajki',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=4-DS8XqMRWw',
-        source: 'YouTube',
-        description: 'Odcinki i materiały o serii – Przygody kota Filemona 37 Słodkie życie',
-      },
-      {
         id: 'fk-2',
         title: '„Przygody kota Filemona” – artykuł',
         type: 'publikacja',
@@ -26171,14 +26107,6 @@ Za granicą film odniósł sukces: dostał nagrodę FIPRESCI w Wenecji i jako pi
         url: 'https://culture.pl/pl/dzielo/noz-w-wodzie',
         source: 'Culture.pl (Instytut Adama Mickiewicza)',
         description: 'Omówienie dzieła: geneza, treść i recepcja.',
-      },
-      {
-        id: 'nw-yt',
-        title: '„Nóż w wodzie” – czołówka',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=Vc4j28_9pzc',
-        source: 'YouTube',
-        description: 'Czołówka debiutu Polańskiego.',
       },
       {
         id: 'nw-1',
@@ -26245,14 +26173,6 @@ Budował piosenki na wyrazistej melodii i prostym, zapadającym w pamięć refre
         source: 'Wikipedia',
         description: 'Hasło i opracowania o artyście.',
       },
-      {
-        id: 'sk-3',
-        title: '„Nie spoczniemy” – Czerwone Gitary',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=2Ne0KAo2DO4',
-        source: 'YouTube',
-        description: 'Słynny przebój z muzyką Krajewskiego – Червоны гитары "Не успокоимся" - Czerwone Gitary - Nie Spoczniemy',
-      },
     ],
     relatedIds: ['czerwone-gitary', 'krzysztof-klenczon', 'festiwal-opole'],
   },
@@ -26291,22 +26211,6 @@ Finał, w którym Jasiek gubi złoty róg, a odrętwiali weselnicy kołyszą si�
         url: 'https://culture.pl/pl/dzielo/wesele',
         source: 'Culture.pl (Instytut Adama Mickiewicza)',
         description: 'Omówienie dzieła: geneza, treść i recepcja.',
-      },
-      {
-        id: 'we-yt',
-        title: '„Wesele” – chocholi taniec',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=41n82Du0Vg8',
-        source: 'YouTube',
-        description: 'Finałowa scena filmu Wajdy.',
-      },
-      {
-        id: 'we-1',
-        title: '„Wesele” – fragmenty',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=sjuBtYh8sPY',
-        source: 'YouTube',
-        description: 'Sceny i materiały o filmie – Wesele (1973), reż. A. Wajda',
       },
       {
         id: 'we-2',
@@ -26358,22 +26262,6 @@ Piosenka rozrywkowa wydawała się dziedziną neutralną, ale i ona przechodził
       'Był czterokrotnie laureatem festiwalu w Opolu: w 1972, 1975, 1976 i 1980 roku.',
     ],
     resources: [
-      {
-        id: 'ar2-yt',
-        title: 'Andrzej Rosiewicz – „Najwięcej witaminy”',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=8A-xV5hZ3Eg',
-        source: 'YouTube',
-        description: 'Największy przebój artysty.',
-      },
-      {
-        id: 'ar2-1',
-        title: 'Andrzej Rosiewicz – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=Wf3SrgEG2j4',
-        source: 'YouTube',
-        description: 'Wykonania i materiały o artyście – Andrzej Rosiewicz - Najwiecej Witaminy - Winyl z roku 1980 - Koncert w',
-      },
       {
         id: 'ar2-2',
         title: 'Andrzej Rosiewicz – artykuł',
@@ -26532,28 +26420,12 @@ W 1971 roku rozpoczęto wyburzanie większości zabytkowych kamienic w obrębie 
     ],
     resources: [
       {
-        id: 'jg-yt',
-        title: 'Jelenia Góra w PRL – materiały',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=gytbbUHECRY',
-        source: 'YouTube',
-        description: 'Archiwalne materiały o mieście – Miasto Jelenia Góra na starych kolorowych fotografiach z lat 1900 - 19',
-      },
-      {
         id: 'jg-wk',
         title: 'Jelenia Góra – artykuł',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/wiki/Jelenia_G%C3%B3ra',
         source: 'Wikipedia',
         description: 'Hasło i opracowania o mieście.',
-      },
-      {
-        id: 'jg-2',
-        title: 'Karkonosze i Dolny Śląsk – PRL',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=qpOBjoFRFRI',
-        source: 'YouTube',
-        description: 'Materiały o regionie – Dolny Śląsk Karkonosze, Kowary',
       },
     ],
     relatedIds: ['karkonosze', 'wczasy-fwp', 'nowa-huta'],
@@ -26664,11 +26536,11 @@ W 1986 roku muzycy bez Janerki i Pociechy wrócili jako Klaus Mit Foch i nagrali
       },
       {
         id: 'km-yt',
-        title: 'Klaus Mitffoch – „Jezu jak się cieszę”',
+        title: 'Klaus Mitffoch – „Klus Mitroh”',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=5LPd6BHy8Io',
-        source: 'YouTube',
-        description: 'Największy przebój zespołu (1984) – Klaus Mitffoch - Jezu jak się cieszę (video 1984)',
+        url: 'https://www.youtube.com/watch?v=Q0CD1UAqvBs',
+        source: 'MTJ Wytwórnia Muzyczna (YouTube)',
+        description: 'Oficjalne nagranie wrocławskiego zespołu z 1984 roku.',
       },
       {
         id: 'km-2',
@@ -26720,22 +26592,6 @@ Szczególnie dobrze przyjęto film we Francji: „Le Monde” i „L'Humanité�
         description: 'Omówienie dzieła: geneza, treść i recepcja.',
       },
       {
-        id: 'sk2-yt',
-        title: '„Sanatorium pod klepsydrą” – zwiastun',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=GaR5LcUi30Q',
-        source: 'YouTube',
-        description: 'Zwiastun filmu Hasa.',
-      },
-      {
-        id: 'sk2-1',
-        title: '„Sanatorium pod klepsydrą” – fragmenty',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=OP7MTdyXWCw',
-        source: 'YouTube',
-        description: 'Sceny i materiały o filmie – Sanatorium Pod Klepsydra 1973 Has Tvrip Pindur',
-      },
-      {
         id: 'sk2-2',
         title: '„Sanatorium pod klepsydrą” – artykuł',
         type: 'publikacja',
@@ -26785,14 +26641,6 @@ Miasto zachowało tradycję ośrodka kultury, sięgającą czasów Witkiewicza, 
       'Od 1989 roku patronem Wielkiej Krokwi jest Stanisław Marusarz.',
     ],
     resources: [
-      {
-        id: 'zakopane-pkf',
-        title: 'Zakopane w dniach mistrzostw – PKF 09A/1962',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=hgH5nyeCPrQ',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Zakopane w dniach mistrzostw – PKF 09A/1962”.',
-      },
       {
         id: 'zk-yt',
         title: 'Zakopane w PRL – materiały',
@@ -26860,14 +26708,6 @@ Zdjęcia kręcono w Warszawie, m.in. w bazylice Świętego Krzyża, a także we 
         description: 'Fragment serialu wg Prusa.',
       },
       {
-        id: 'la-1',
-        title: '„Lalka” – fragmenty',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=l4sHREJDNwo',
-        source: 'YouTube',
-        description: 'Odcinki i materiały o serialu – Lalka (1977) | Odcinek 4 | Polski Serial Telewizyjny | Na podstawie po',
-      },
-      {
         id: 'la-2',
         title: '„Lalka” – artykuł',
         type: 'publikacja',
@@ -26909,22 +26749,6 @@ Serial uchodzi za jeden z najlepszych w historii polskiej telewizji, a rola Roma
       'W serialu wykorzystano przedwojenne piosenki „Chodź na Pragę” i „Dulcynea” – tę drugą śpiewa Bohdan Łazuka.',
     ],
     resources: [
-      {
-        id: 'knd-yt',
-        title: '„Kariera Nikodema Dyzmy” – scena',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=AlIbSQrZr90',
-        source: 'YouTube',
-        description: 'Fragment kultowego serialu.',
-      },
-      {
-        id: 'knd-1',
-        title: '„Kariera Nikodema Dyzmy” – fragmenty',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=6RDRozl3NfE',
-        source: 'YouTube',
-        description: 'Odcinki i materiały o serialu – Kariera Nikodema Dyzmy, odcinek 1 | Kultowe Polskie Seriale | Satyra p',
-      },
       {
         id: 'knd-2',
         title: '„Kariera Nikodema Dyzmy” – artykuł',
@@ -27026,19 +26850,11 @@ Standard był jak na tamte czasy wysoki: duże metraże, wysokie sufity, central
     resources: [
       {
         id: 'mdm-yt',
-        title: 'MDM w Kronice Filmowej',
+        title: 'MDM – PKF 36/50',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=vE4FgcPBo30',
-        source: 'YouTube',
-        description: 'Marszałkowska Dzielnica Mieszkaniowa na filmie.',
-      },
-      {
-        id: 'mdm-fn',
-        title: 'MDM – Marszałkowska Dzielnica Mieszkaniowa – nagrania archiwalne',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=uDAst9rrTDo',
-        source: 'YouTube',
-        description: 'Archiwalne materiały wideo dotyczące tematu – STOLICA W 1945 I DZIŚ - NASZE MIASTO WARSZAWA - KRONIKA FILMOWA nr 1',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/6415',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z sierpnia 1950 roku o budowie Marszałkowskiej Dzielnicy Mieszkaniowej.',
       },
       {
         id: 'mdm-2',
@@ -27084,11 +26900,11 @@ Zegar na Wieży Zygmuntowskiej, zbudowany w czynie społecznym przez warszawskic
     resources: [
       {
         id: 'zamek-krolewski-pkf',
-        title: 'Przygotowania do odbudowy Zamku Królewskiego – PKF 39B/1958',
+        title: 'Odbudowa Zamku Królewskiego – PKF 26/50',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=CA8T6QcScso',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Przygotowania do odbudowy Zamku Królewskiego – PKF 39B/1958”.',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/6356',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z czerwca 1950 roku o Zamku Królewskim w Warszawie.',
       },
       {
         id: 'zk2-pkf',
@@ -27150,11 +26966,11 @@ Pośpiech miał wymiar polityczny: trasa miała dowodzić, że nowa władza budu
     resources: [
       {
         id: 'trasa-wz-pkf',
-        title: 'Oddanie do użytku Trasy W-Z – PKF 30/1949',
+        title: 'Spacerkiem po WuZecie – PKF 33/49',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=mURIzlrY1pc',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Oddanie do użytku Trasy W-Z – PKF 30/1949”.',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/5469',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z sierpnia 1949 roku o otwartej Trasie W-Z.',
       },
       {
         id: 'twz-pkf',
@@ -27217,14 +27033,6 @@ Wyczerpany dziesięcioma latami nieustannych tras zespół rozwiązał się w 19
     ],
     resources: [
       {
-        id: 'sbb-yt',
-        title: 'Józef Skrzek (SBB) – o zespole i fragmenty koncertu',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=DlIZzoYtbCo',
-        source: 'YouTube',
-        description: 'Wywiad i fragmenty koncertowe.',
-      },
-      {
         id: 'sbb-1',
         title: 'SBB – nagrania',
         type: 'nagranie',
@@ -27280,22 +27088,6 @@ W Stanach Zjednoczonych nawet okrojona wersja stała się kultowa. Jerry Garcia 
         description: 'Omówienie dzieła: geneza, treść i recepcja.',
       },
       {
-        id: 'rzs-yt',
-        title: '„Rękopis znaleziony w Saragossie” – zwiastun',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=knA_-a-bhKg',
-        source: 'YouTube',
-        description: 'Zwiastun filmu Hasa.',
-      },
-      {
-        id: 'rzs-1',
-        title: '„Rękopis znaleziony w Saragossie” – fragmenty',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=N353-mKJnss',
-        source: 'YouTube',
-        description: 'Sceny i materiały o filmie – Le Manuscrit trouvé à Saragosse Rękopis znaleziony w Saragossie entier',
-      },
-      {
         id: 'rzs-2',
         title: '„Rękopis znaleziony w Saragossie” – artykuł',
         type: 'publikacja',
@@ -27345,22 +27137,6 @@ Skrzynecki zmarł w 1997 roku, a jego pogrzeb zgromadził tłumy na krakowskim R
     ],
     resources: [
       {
-        id: 'ppb-yt',
-        title: 'Piwnica pod Baranami – Piotr Skrzynecki',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=cTZ4oaQZZ7M',
-        source: 'YouTube',
-        description: 'Materiał o Piotrze Skrzyneckim i Piwnicy.',
-      },
-      {
-        id: 'ppb-1',
-        title: 'Piwnica pod Baranami – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=9zLSsdgyjGI',
-        source: 'YouTube',
-        description: 'Wykonania i materiały o kabarecie – Piwnica pod Baranami "Plac Na groblach" Piotr Skrzynecki',
-      },
-      {
         id: 'ppb-2',
         title: 'Piwnica pod Baranami – artykuł',
         type: 'publikacja',
@@ -27408,11 +27184,11 @@ Autobus był w PRL środkiem transportu podstawowym, nie uzupełniającym: przy 
     resources: [
       {
         id: 'ikarus-autobusy-pkf',
-        title: 'Autobusy – PKF 1960',
+        title: 'Nowe autobusy – PKF 29/50',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=q5c8_487rpI',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Autobusy – PKF 1960”.',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/6307',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z czerwca 1950 roku o nowych autobusach.',
       },
       {
         id: 'ika-pkf',
@@ -27592,11 +27368,11 @@ W 1990 roku, w drodze na koncert do Gorzowa Wielkopolskiego, uległa poważnemu 
     resources: [
       {
         id: 'hf-1',
-        title: 'Halina Frąckowiak – nagrania',
+        title: 'Halina Frąckowiak – „Mały elf”',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=KpkxrGQDrgE',
-        source: 'YouTube',
-        description: 'Wykonania i materiały o artystce – Halina Frackowiak Muzyczne Dziedzictwo I Najwieksze Przeboje',
+        url: 'https://www.youtube.com/watch?v=-5Yz2r-uODk',
+        source: 'Polskie Nagrania (YouTube)',
+        description: 'Oficjalne nagranie z katalogu Polskich Nagrań.',
       },
       {
         id: 'hf-2',
@@ -27634,22 +27410,6 @@ Nazwa stała się potocznym określeniem gramofonu w ogóle. Dla pokolenia doras
       'Obok zwykłych płyt grano na nim pocztówki dźwiękowe – nagrania tłoczone na cienkiej folii, kupowane na bazarach.',
     ],
     resources: [
-      {
-        id: 'ab-yt',
-        title: 'Adapter Bambino – materiały',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=UfivRbULvGs',
-        source: 'YouTube',
-        description: 'Archiwalne materiały o gramofonie – Czas PRL-u - Gramofon Bambino oraz... Grające pocztówki?!',
-      },
-      {
-        id: 'ab-wk',
-        title: 'Bambino (gramofon) – artykuł',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=Rn8kzVzDRfk',
-        source: 'YouTube',
-        description: 'Hasło i opracowania – Adapter BAMBINO 1',
-      },
       {
         id: 'ab-2',
         title: 'Muzyka w domach PRL – sprzęt',
@@ -27705,14 +27465,6 @@ Film zdobył Złoty Medal i wyróżnienie FIPRESCI na festiwalu w Moskwie, otwie
         description: 'Omówienie dzieła: geneza, treść i recepcja.',
       },
       {
-        id: 'am-yt',
-        title: '„Amator” – scena z filmu',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=2DH5tT0H3Ig',
-        source: 'YouTube',
-        description: 'Fragment filmu Kieślowskiego.',
-      },
-      {
         id: 'am-1',
         title: '„Amator” – materiały',
         type: 'nagranie',
@@ -27758,14 +27510,6 @@ Zginął 17 sierpnia 1998 roku w wypadku samochodowym pod Przybiernowem. W tym s
       'Zginął w tym samym wypadku samochodowym co Władysław Komar, mistrz olimpijski w pchnięciu kulą.',
     ],
     resources: [
-      {
-        id: 'ts2-yt',
-        title: 'Tadeusz Ślusarski – skok o tyczce',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=miV6hu_bEsY',
-        source: 'YouTube',
-        description: 'Nagrania i materiały o zawodniku – Tadeusz Ślusarski - Montreal 1976',
-      },
       {
         id: 'ts2-2',
         title: 'Tadeusz Ślusarski – artykuł',
@@ -27824,22 +27568,6 @@ Był bohaterem niezliczonych anegdot, często przez siebie wymyślonych, i autor
         url: 'https://culture.pl/pl/tworca/jan-himilsbach',
         source: 'Culture.pl (Instytut Adama Mickiewicza)',
         description: 'Opracowanie biograficzne z omówieniem twórczości.',
-      },
-      {
-        id: 'jh-yt',
-        title: 'Jan Himilsbach – film dokumentalny',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=mfHMzZdDeGE',
-        source: 'YouTube',
-        description: 'Dokument o Janie Himilsbachu.',
-      },
-      {
-        id: 'jh-1',
-        title: 'Jan Himilsbach – materiały',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=3ViHj0Un0VA',
-        source: 'YouTube',
-        description: 'Nagrania i materiały o aktorze – Polska Gola! Jan Himilsbach  + Zdzisław Maklakiewicz (#POLARG)',
       },
       {
         id: 'jh-2',
@@ -27947,22 +27675,6 @@ Na festiwalu w Cannes w 1961 roku film otrzymał Nagrodę Specjalną Jury – Sr
         description: 'Omówienie dzieła: geneza, treść i recepcja.',
       },
       {
-        id: 'mj-yt',
-        title: '„Matka Joanna od Aniołów” – film',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=hK7srLgFBDs',
-        source: 'YouTube',
-        description: 'Dzieło Jerzego Kawalerowicza (1961).',
-      },
-      {
-        id: 'mj-1',
-        title: '„Matka Joanna od Aniołów” – fragmenty',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=-YMYKTpS_EU',
-        source: 'YouTube',
-        description: 'Sceny i materiały o filmie – Matka Joanna od Aniołów (1961), reż. Jerzy Kawalerowicz (napisy angiel',
-      },
-      {
         id: 'mj-2',
         title: '„Matka Joanna od Aniołów” – artykuł',
         type: 'publikacja',
@@ -28020,11 +27732,11 @@ W latach 1964–1966 zespół koncertował w Czechosłowacji, Niemczech, USA i K
       },
       {
         id: 'cc-1',
-        title: 'Czerwono-Czarni – nagrania',
+        title: 'Czerwono-Czarni, Karin Stanek – „Big Beatland”',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=l9BHTE0eGAI',
-        source: 'YouTube',
-        description: 'Wykonania i materiały o zespole – Czerwono Czarni - Big beat land',
+        url: 'https://www.youtube.com/watch?v=jvj75SEWkX0',
+        source: 'Polskie Nagrania (YouTube)',
+        description: 'Oficjalne nagranie z katalogu Polskich Nagrań.',
       },
       {
         id: 'cc-2',
@@ -28068,14 +27780,6 @@ Mecz na Wembley funkcjonuje w polskiej pamięci niemal jak wydarzenie historyczn
       'Brian Clough nazwał go przed meczem „klaunem”, a po remisie nazywano go „człowiekiem, który zatrzymał Anglię”.',
     ],
     resources: [
-      {
-        id: 'jt-yt',
-        title: 'Jan Tomaszewski – Wembley 1973',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=ZCTIS6GM8m8',
-        source: 'YouTube',
-        description: 'Nagrania i materiały o bramkarzu – Jan Tomaszewski kontra Anglia 1973',
-      },
       {
         id: 'jt-2',
         title: 'Jan Tomaszewski – artykuł',
@@ -28179,14 +27883,6 @@ Polscy krytycy przyjęli „Pociąg” z mieszanymi uczuciami, za granicą film 
     ],
     resources: [
       {
-        id: 'pc-yt',
-        title: '„Pociąg” – analiza sceny',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=1xNfZ-YuduE',
-        source: 'YouTube',
-        description: 'Omówienie słynnej sceny z filmu Kawalerowicza.',
-      },
-      {
         id: 'pc-1',
         title: '„Pociąg” – fragmenty',
         type: 'nagranie',
@@ -28236,14 +27932,6 @@ Skład się kurczył – od 1972 roku występowały jako tercet Nowe Filipinki. 
       'W sierpniu 1963 roku występowały w Szwecji przy okazji otwarcia promu Świnoujście–Ystad.',
     ],
     resources: [
-      {
-        id: 'fp2-yt',
-        title: 'Filipinki – „Batumi”',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=uCWyFtAUOhc',
-        source: 'YouTube',
-        description: 'Pierwszy teledysk zespołu (1963).',
-      },
       {
         id: 'fp2-1',
         title: 'Filipinki – nagrania',
@@ -28300,14 +27988,6 @@ Odejście obu przyjaciół w tak krótkim czasie zamknęło pewien rozdział pol
         url: 'https://culture.pl/pl/tworca/bogumil-kobiela',
         source: 'Culture.pl (Instytut Adama Mickiewicza)',
         description: 'Opracowanie biograficzne z omówieniem twórczości.',
-      },
-      {
-        id: 'bk2-yt',
-        title: 'Bogumił Kobiela – role filmowe',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=34P5LgDAY1Q',
-        source: 'YouTube',
-        description: 'Sceny i materiały o aktorze – Zezowate szczęście 1960 Bogumił Kobiela – Zezowate szczęście 1960 Bogumił Kobiela',
       },
       {
         id: 'bk2-2',
@@ -28408,22 +28088,6 @@ Kreacja Jerzego Stuhra – z jego charakterystycznym, nerwowym tempem mowy i uś
     ],
     resources: [
       {
-        id: 'wo-yt',
-        title: '„Wodzirej” – piosenka z filmu',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=6hjsZDQOqAo',
-        source: 'YouTube',
-        description: 'Fragment muzyczny z filmu Falka.',
-      },
-      {
-        id: 'wo-1',
-        title: '„Wodzirej” – materiały',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=wOdQjNMJ7To',
-        source: 'YouTube',
-        description: 'Sceny i materiały o filmie – 1977 Wodzirej - Falk (Stuhr)',
-      },
-      {
         id: 'wo-2',
         title: '„Wodzirej” – artykuł',
         type: 'publikacja',
@@ -28462,22 +28126,6 @@ W ciągu czternastu lat Niebiesko-Czarni nagrali osiem longplayów oraz 24 singl
       'Przygotowali „Nagą” – pierwszą polską operę rockową, wystawioną około 150 razy.',
     ],
     resources: [
-      {
-        id: 'nc-yt',
-        title: 'Ada Rusowicz i Niebiesko-Czarni – Opole 1967',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=Xjq0VEI20Mo',
-        source: 'YouTube',
-        description: '„Nie pukaj do moich drzwi” na festiwalu w Opolu.',
-      },
-      {
-        id: 'nc-1',
-        title: 'Niebiesko-Czarni – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=sNuAl88t8xU',
-        source: 'YouTube',
-        description: 'Wykonania i materiały o zespole – Ada Rusowicz & Niebiesko-Czarni   "Mogło być inaczej"',
-      },
       {
         id: 'nc-2',
         title: 'Niebiesko-Czarni – artykuł',
@@ -28646,14 +28294,6 @@ Współpraca z Tymem doprowadziła cztery lata później do „Misia” – film
     ],
     resources: [
       {
-        id: 'bw-yt',
-        title: '„Brunet wieczorową porą” – scena',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=uP4_EaSVcvY',
-        source: 'YouTube',
-        description: 'Fragment komedii Barei.',
-      },
-      {
         id: 'bw-1',
         title: '„Brunet wieczorową porą” – materiały',
         type: 'nagranie',
@@ -28705,19 +28345,11 @@ Po odejściu z Czerwono-Czarnych śpiewała z mężem Henrykiem Fabianem i zespo
     resources: [
       {
         id: 'ks2-yt',
-        title: 'Kasia Sobczyk – „Biedroneczki są w kropeczki”',
+        title: 'Kasia Sobczyk – „Nie bądź taki szybki Bill”',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=OwW1UWTUmyc',
-        source: 'YouTube',
-        description: 'Przebój z lat 60.',
-      },
-      {
-        id: 'ks2-1',
-        title: 'Kasia Sobczyk – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=-uoa1vWs_xw',
-        source: 'YouTube',
-        description: 'Wykonania i materiały o artystce – Kasia Sobczyk - Ona ma 20 lat (Live Niepublikowane nagranie)',
+        url: 'https://www.youtube.com/watch?v=4B2SZnvwFQ8',
+        source: 'Polskie Nagrania (YouTube)',
+        description: 'Oficjalne nagranie z katalogu Polskich Nagrań.',
       },
       {
         id: 'ks2-2',
@@ -28769,28 +28401,12 @@ Dla jednych pozostał czołgistą, dla innych Mateuszem albo Jankielem – rzadk
         description: 'Opracowanie biograficzne z omówieniem twórczości.',
       },
       {
-        id: 'fpi-yt',
-        title: 'Franciszek Pieczka – role',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=BT1erlvLIq0',
-        source: 'YouTube',
-        description: 'Sceny i materiały o aktorze – Nie żyje Franciszek Pieczka - niezapomniany Gustaw Jeleń - Gustlik - C',
-      },
-      {
         id: 'fpi-2',
         title: 'Franciszek Pieczka – artykuł',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/wiki/Franciszek_Pieczka',
         source: 'Wikipedia',
         description: 'Hasło i opracowania o aktorze.',
-      },
-      {
-        id: 'fpi-3',
-        title: '„Czterej pancerni” – Gustlik',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=WDJe3N1J8dY',
-        source: 'YouTube',
-        description: 'Materiały o kultowej roli – Gustlik trafiony w zupę | "Czterej pancerni i pies" odc. 5 | Pieczka, ',
       },
     ],
     relatedIds: ['olbrychski-daniel', 'holoubek-gustaw', 'tadeusz-lomnicki'],
@@ -28884,14 +28500,6 @@ Na kolaudacji w październiku 1972 roku zarzucano filmowi pokazywanie osób na w
     ],
     resources: [
       {
-        id: 'pp2-yt',
-        title: '„Poszukiwany, poszukiwana” – fragment',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=gHvOAi-l0Jc',
-        source: 'YouTube',
-        description: 'Fragment komedii Barei.',
-      },
-      {
         id: 'pp2-2',
         title: '„Poszukiwany, poszukiwana” – artykuł',
         type: 'publikacja',
@@ -28935,19 +28543,11 @@ Do Polski wróciła na scenę dopiero w 1991 roku i znów cieszyła się popular
     resources: [
       {
         id: 'kst-yt',
-        title: 'Karin Stanek – „Malowana lala” (Opole 1963)',
+        title: 'Czerwono-Czarni, Karin Stanek – „To nie moja wina”',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=4koJY1-qZJY',
-        source: 'YouTube',
-        description: 'Przebój z Czerwono-Czarnymi.',
-      },
-      {
-        id: 'kst-1',
-        title: 'Karin Stanek – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=fKkylA79SuQ',
-        source: 'YouTube',
-        description: 'Wykonania i materiały o artystce – Karin Stanek / Czerwono-Czarni "Z tobą być", 1969',
+        url: 'https://www.youtube.com/watch?v=ze9Wnw9Y3W0',
+        source: 'Polskie Nagrania (YouTube)',
+        description: 'Oficjalne nagranie z katalogu Polskich Nagrań.',
       },
       {
         id: 'kst-2',
@@ -28998,14 +28598,6 @@ Gołas należał do aktorów, których obecność w obsadzie była dla widza rek
         url: 'https://culture.pl/pl/tworca/wieslaw-golas',
         source: 'Culture.pl (Instytut Adama Mickiewicza)',
         description: 'Opracowanie biograficzne z omówieniem twórczości.',
-      },
-      {
-        id: 'wg-yt',
-        title: 'Wiesław Gołas – role',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=_24KFvKx9-8',
-        source: 'YouTube',
-        description: 'Sceny i materiały o aktorze – Tomuś Czereśniak gra na harmoszce (Czterej Pancerni i Pies) [Wiesław G',
       },
       {
         id: 'wg-2',
@@ -29120,14 +28712,6 @@ Komedia śmieje się z biurokracji, bałaganu i braków w zaopatrzeniu, ale życ
     ],
     resources: [
       {
-        id: 'nlp-yt',
-        title: '„Nie lubię poniedziałku” – scena z taksówką',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=GaQC_kMpSC0',
-        source: 'YouTube',
-        description: 'Fragment komedii Chmielewskiego.',
-      },
-      {
         id: 'nlp-1',
         title: '„Nie lubię poniedziałku” – materiały',
         type: 'nagranie',
@@ -29179,11 +28763,11 @@ Zmarła nagle 18 stycznia 2002 roku w rodzinnym domu w Szczecinie, dwa dni po na
     resources: [
       {
         id: 'hm2-yt',
-        title: 'Helena Majdaniec – „Czarny Alibaba”',
+        title: 'Helena Majdaniec – „Czarny Ali Baba”',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=wgGfZbRteEc',
-        source: 'YouTube',
-        description: 'Przebój z lat 60.',
+        url: 'https://www.youtube.com/watch?v=3DdzITAPxzw',
+        source: 'Polskie Nagrania (YouTube)',
+        description: 'Oficjalne nagranie z katalogu Polskich Nagrań.',
       },
       {
         id: 'hm2-1',
@@ -29244,28 +28828,12 @@ Był wujem Wiktora Zborowskiego. Odmówił roli pana Kleksa, którą zagrał pot
         description: 'Opracowanie biograficzne z omówieniem twórczości.',
       },
       {
-        id: 'jk2-yt',
-        title: 'Jan Kobuszewski – skecze i role',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=TG-6iobBUqI',
-        source: 'YouTube',
-        description: 'Sceny i materiały o aktorze – Kabaret Dudek - Jan Kobuszewski - Skarga ( 1972 )',
-      },
-      {
         id: 'jk2-2',
         title: 'Jan Kobuszewski – artykuł',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/wiki/Jan_Kobuszewski',
         source: 'Wikipedia',
         description: 'Hasło i opracowania o aktorze.',
-      },
-      {
-        id: 'jk2-3',
-        title: 'Kabaret Dudek – materiały',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=B4AQjV8NpnU',
-        source: 'YouTube',
-        description: 'Materiały o legendarnym kabarecie – Kabaret Dudek - Edward Dziewoński  - 12 butelek  ( 1972 )',
       },
     ],
     relatedIds: ['wieslaw-golas', 'kabaret-tey', 'franciszek-pieczka'],
@@ -29298,14 +28866,6 @@ Po zmianie ustroju święto na pewien czas straciło znaczenie jako kojarzone z 
       'Czerwony goździk i para rajstop stały się symbolem zakładowych obchodów Dnia Kobiet.',
     ],
     resources: [
-      {
-        id: 'dzien-kobiet-pkf',
-        title: '8 marca – Dzień Kobiet – PKF 11/1969',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=e03zKRNlVFY',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „8 marca – Dzień Kobiet – PKF 11/1969” – 8 marca - Dzień Kobiet. Polska Kronika Filmowa 11/69',
-      },
       {
         id: 'dk-1',
         title: 'Dzień Kobiet w PRL – materiały',
@@ -29361,14 +28921,6 @@ Kreacja Barbary Krafftówny uchodzi za jedną z najwybitniejszych ról kobiecych
       'Film zwyciężył na festiwalu w San Francisco.',
     ],
     resources: [
-      {
-        id: 'jbk-yt',
-        title: '„Jak być kochaną” – film',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=EyXoDQGtfhk',
-        source: 'YouTube',
-        description: 'Dzieło Wojciecha Hasa (1963).',
-      },
       {
         id: 'jbk-1',
         title: '„Jak być kochaną” – fragmenty',
@@ -29426,14 +28978,6 @@ Marek i Vacek byli jednym z najbardziej rozpoznawalnych polskich zespołów inst
       'Muzyka instrumentalna nie wymagała tłumaczenia ani zgody cenzury, co ułatwiało karierę zagraniczną.',
     ],
     resources: [
-      {
-        id: 'mv-yt',
-        title: 'Marek i Wacek – „Plays Favorite Melodies” (1965)',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=eJiXXq0MmqM',
-        source: 'YouTube',
-        description: 'Nagranie duetu z lat 60.',
-      },
       {
         id: 'mv-1',
         title: 'Marek i Wacek – nagrania',
@@ -29542,11 +29086,11 @@ Równolegle trwały dożynki parafialne. W latach 80. święto zmieniło charakt
     resources: [
       {
         id: 'dozynki-pkf',
-        title: 'Dożynki na Stadionie Dziesięciolecia – PKF 38/1956',
+        title: 'Dożynki – PKF 37B/62',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=oLZNwjB7uEU',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Dożynki na Stadionie Dziesięciolecia – PKF 38/1956”.',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/10568',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z września 1962 roku o centralnych dożynkach.',
       },
       {
         id: 'doz-pkf',
@@ -29608,11 +29152,11 @@ Muzyka instrumentalna nie miała tekstu, który cenzor mógłby zakwestionować.
     resources: [
       {
         id: 'jj-pkf',
-        title: 'Polska Kronika Filmowa – Jazz Jamboree',
+        title: 'Jazz Jamboree – PKF 43B/67',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=4wXGyLSL6p0',
-        source: 'YouTube',
-        description: 'Kroniki filmowe z festiwalu jazzowego – 38 Międzynarodowy Festiwal Jazzowy Jazz Jamboree \'94',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/11278',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z października 1967 roku o festiwalu Jazz Jamboree.',
       },
       {
         id: 'jj-1',
@@ -29802,14 +29346,6 @@ Tadeusz Sobolewski pisał, że polskie kino nie ma dziś równie przenikliwej di
         description: 'Omówienie dzieła: geneza, treść i recepcja.',
       },
       {
-        id: 'sal-yt',
-        title: '„Salto” – somnambuliczny taniec',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=bV2sB18r5X0',
-        source: 'YouTube',
-        description: 'Słynna scena tańca (muz. Kilar).',
-      },
-      {
         id: 'sal-fn',
         title: 'Salto – nagrania archiwalne',
         type: 'nagranie',
@@ -29859,22 +29395,6 @@ Ostatni program miał premierę 13 stycznia 1975 roku. Piosenkę na zakończenie
       'W ostatnim programie refren zmieniono na „Spotkamy się na tamtym świecie”.',
     ],
     resources: [
-      {
-        id: 'kd-yt',
-        title: 'Kabaret Dudek – „Sęk”',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=JGVOtZjtY-s',
-        source: 'YouTube',
-        description: 'Kultowy skecz kabaretu.',
-      },
-      {
-        id: 'kd-1',
-        title: 'Kabaret Dudek – skecze',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=B4AQjV8NpnU',
-        source: 'YouTube',
-        description: 'Skecze i materiały o kabarecie – Kabaret Dudek - Edward Dziewoński  - 12 butelek  ( 1972 )',
-      },
       {
         id: 'kd-2',
         title: 'Kabaret Dudek – artykuł',
@@ -29943,11 +29463,11 @@ W pierwszej połowie lat 50. jazz był w Polsce tępiony i grany w prywatnych mi
       },
       {
         id: 'zn-3',
-        title: 'Jazz Jamboree – polscy mistrzowie',
+        title: 'Zbigniew Namysłowski Quartet – „Siódmawka”',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=GuPo1AxaSAI',
-        source: 'YouTube',
-        description: 'Materiały o polskiej scenie jazzowej – Namysłowski z Góralami - Jazz Jamboree 1994',
+        url: 'https://www.youtube.com/watch?v=Nxm-eHSyBqI',
+        source: 'Polish Jazz (YouTube)',
+        description: 'Oficjalne nagranie z albumu „Polish Jazz vol. 6” (1966).',
       },
       {
         id: 'zbigniew-namyslowski-nina',
@@ -30016,14 +29536,6 @@ Zderzenie konwencji superbohaterskiej z realiami PRL – urzędowym językiem, p
         description: 'Aktor, który zagrał złoczyńcę Doktora Plamę.',
       },
       {
-        id: 'hz-yt',
-        title: '„Hydrozagadka” – „żar leje się z nieba”',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=CKTKbiZW38Y',
-        source: 'YouTube',
-        description: 'Kultowa scena z filmu Kondratiuka – "Panowie, żar leje się z nieba" (Hydrozagadka, reż A. Kondratiuk, 1970',
-      },
-      {
         id: 'hz-2',
         title: '„Hydrozagadka” – artykuł',
         type: 'publikacja',
@@ -30061,11 +29573,11 @@ Prezenty miały wymiar praktyczny: pościel, komplet garnków, sprzęt gospodars
     resources: [
       {
         id: 'wesele-prl-pkf',
-        title: 'Wesele inaczej, Bytom – kronika filmowa',
+        title: 'Wesele – PKF 36B/62',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=5pjzdVKi5tM',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Wesele inaczej, Bytom – kronika filmowa”.',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/10663',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z września 1962 roku o weselu.',
       },
       {
         id: 'we2-yt',
@@ -30124,22 +29636,6 @@ Scena, w której Dolas, podając się za kogoś innego, przedstawia się niemiec
     ],
     resources: [
       {
-        id: 'jrw-yt',
-        title: '„Jak rozpętałem drugą wojnę światową” – film',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=Yxzz4KaBhN0',
-        source: 'YouTube',
-        description: 'Komedia wojenna Chmielewskiego.',
-      },
-      {
-        id: 'jrw-1',
-        title: '„Jak rozpętałem drugą wojnę światową” – materiały',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=2-OqKpt0OXk',
-        source: 'YouTube',
-        description: 'Sceny i materiały o filmie – How I Unleashed World War II / Jak rozpętałem drugą wojnę światową - b',
-      },
-      {
         id: 'jrw-2',
         title: '„Jak rozpętałem drugą wojnę światową” – artykuł',
         type: 'publikacja',
@@ -30191,11 +29687,11 @@ Jego droga pokazuje, czym był jazz w PRL: dziedziną, w której kontakt z Zacho
       },
       {
         id: 'mu2-yt',
-        title: 'Michał Urbaniak – nagrania',
+        title: 'Michał Urbaniak’s Group – „Suite” (Jazz Jamboree 1970)',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=FfuHmfABJCQ',
-        source: 'YouTube',
-        description: 'Wykonania i materiały o artyście – MICHAL URBANIAK - Fusion (1974 Poland / USA Jazz Rock/Fusion )Full Alb',
+        url: 'https://www.youtube.com/watch?v=3l5t0qHw64A',
+        source: 'Polish Jazz (YouTube)',
+        description: 'Oficjalne nagranie koncertowe z festiwalu Jazz Jamboree 1970.',
       },
       {
         id: 'mu2-2',
@@ -30204,14 +29700,6 @@ Jego droga pokazuje, czym był jazz w PRL: dziedziną, w której kontakt z Zacho
         url: 'https://pl.wikipedia.org/wiki/Micha%C5%82_Urbaniak',
         source: 'Wikipedia',
         description: 'Hasło i opracowania o artyście.',
-      },
-      {
-        id: 'mu2-3',
-        title: 'Polski jazz na świecie – materiały',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=SAJNz9kZttI',
-        source: 'YouTube',
-        description: 'Materiały o polskim jazzie za granicą – Michal Urbaniak ft. Urszula Dudziak  ~ A Day In The Park',
       },
     ],
     relatedIds: ['jazz-jamboree', 'tomasz-stanko', 'zbigniew-namyslowski'],
@@ -30446,11 +29934,11 @@ W 1981 roku z Bobbym McFerrinem i innymi wokalistami tworzyła zespół Vocal Su
       },
       {
         id: 'ud-yt',
-        title: 'Urszula Dudziak – nagrania',
+        title: 'Urszula Dudziak – „Papaya”',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=XLraS4ecN3A',
-        source: 'YouTube',
-        description: 'Wykonania i materiały o artystce – Papaya - Urszula Dudziak & Walk Away w CKK',
+        url: 'https://www.youtube.com/watch?v=5Ns-PCdge-c',
+        source: 'YouTube (Urszula Dudziak – Topic)',
+        description: 'Oficjalne nagranie przeboju z 1976 roku.',
       },
       {
         id: 'ud-2',
@@ -30509,14 +29997,6 @@ W 1990 roku Gustaw Holoubek, Tadeusz Łomnicki i Zbigniew Zapasiewicz uznali go 
         url: 'https://culture.pl/pl/tworca/wojciech-pszoniak',
         source: 'Culture.pl (Instytut Adama Mickiewicza)',
         description: 'Opracowanie biograficzne z omówieniem twórczości.',
-      },
-      {
-        id: 'wp2-yt',
-        title: 'Wojciech Pszoniak – role',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=7sp26QyRXHs',
-        source: 'YouTube',
-        description: 'Sceny i materiały o aktorze – Wojciech Pszoniak - Ziemia Obiecana (kapitalna scena)',
       },
       {
         id: 'wp2-2',
@@ -30852,14 +30332,6 @@ Dziś uchodzi za jeden z najlepszych filmów Holland i za najmocniejszy zapis te
         source: 'Wikipedia',
         description: 'Hasło encyklopedyczne o filmie.',
       },
-      {
-        id: 'ks3-yt',
-        title: '„Kobieta samotna” – materiały',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=yO1bjhw1OcI',
-        source: 'YouTube',
-        description: 'Sceny i materiały o filmie – Kobieta Samotna A. Holland - fragment',
-      },
     ],
     relatedIds: ['polkowniki', 'holland-agnieszka', 'kino-moralnego-niepokoju'],
   },
@@ -31109,11 +30581,11 @@ Główną bazą i siedzibą dowództwa była Gdynia, ważne bazy działały też
     resources: [
       {
         id: 'mw-pkf',
-        title: 'PKF 29/53: Dni Morza w Gdyni',
+        title: 'Dni Morza – PKF 29/53',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=jQ7_fRbCGMs',
-        source: 'YouTube (Polska Kronika Filmowa)',
-        description: 'Święto Morza 1953 z udziałem Bieruta i marszałka Rokossowskiego',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/7632',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z lipca 1953 roku o Dniach Morza.',
         year: 1953,
       },
       {
@@ -31315,15 +30787,6 @@ W 1990 roku WOPK połączono z Wojskami Lotniczymi w Wojska Lotnicze i Obrony Po
     ],
     resources: [
       {
-        id: 'wopk-film',
-        title: 'Defilada Tysiąclecia, Warszawa 22 lipca 1966',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=_eGNLf3KUUQ',
-        source: 'YouTube (arch.)',
-        description: 'Przelot lotnictwa wojskowego nad Warszawą w pełnej, oryginalnej wersji',
-        year: 1966,
-      },
-      {
         id: 'wopk-wiki',
         title: 'Wojska Obrony Powietrznej Kraju – artykuł',
         type: 'publikacja',
@@ -31376,11 +30839,11 @@ Wiele central sprywatyzowano lub przekształcono w spółki giełdowe; przy czę
     resources: [
       {
         id: 'hz-pkf',
-        title: 'PKF 1963 nr 25A: XXII Międzynarodowe Targi Poznańskie',
+        title: 'Targi 63 – PKF 25B/63',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=mbvRLhLIfh4',
-        source: 'YouTube (Polska Kronika Filmowa)',
-        description: 'Polskie maszyny i obrabiarki jako towar eksportowy na targach',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/10804',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z czerwca 1963 roku o Międzynarodowych Targach Poznańskich.',
         year: 1963,
       },
       {
@@ -31569,14 +31032,6 @@ Spółdzielczość była elementem gospodarki najbliższym drobnej przedsiębior
     ],
     resources: [
       {
-        id: 'spoldzielczosc-prl-pkf',
-        title: 'Spółdzielnia Kółek Rolniczych w Staroźrebach, 1981',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=49cyiNvhRes',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie kroniki filmowej „Spółdzielnia Kółek Rolniczych w Staroźrebach, 1981”.',
-      },
-      {
         id: 'spoldzielczosc-prl-wiki',
         title: 'Spółdzielczość w PRL – artykuł',
         type: 'publikacja',
@@ -31691,14 +31146,6 @@ Zgodnie ze zmianą konstytucji z 7 kwietnia 1989 roku kompetencje Rady przeszły
       'Rada Państwa działała do 19 lipca 1989 roku, gdy wybrano prezydenta Jaruzelskiego.',
     ],
     resources: [
-      {
-        id: 'rada-panstwa-pkf',
-        title: 'Przewodniczący Rady Państwa Aleksander Zawadzki – PKF 43A/1961',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=qX41vsajnCA',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie kroniki filmowej „Przewodniczący Rady Państwa Aleksander Zawadzki – PKF 43A/1961”.',
-      },
       {
         id: 'rada-panstwa-wiki',
         title: 'Rada Państwa – artykuł',
@@ -31964,11 +31411,11 @@ Na konferencji jałtańskiej 10 lutego 1945 roku mocarstwa uzgodniły, że nowy 
     resources: [
       {
         id: 'rzad-tymczasowy-pkf',
-        title: 'Polska Kronika Filmowa 1945 nr 2 – utworzenie Rządu Tymczasowego',
+        title: 'Rząd Tymczasowy w Lublinie – PKF 2/45',
         type: 'film',
-        url: 'https://www.youtube.com/watch?v=vvkEWFA0qjQ',
-        source: 'YouTube',
-        description: 'Archiwalne wydanie PKF z 1945 roku z relacją o utworzeniu Rządu Tymczasowego RP.',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/4456',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa ze stycznia 1945 roku o utworzeniu Rządu Tymczasowego.',
       },
       {
         id: 'rzad-tymczasowy-trjn',
@@ -33570,14 +33017,6 @@ W PRL jego nazwisko było na liście autorów objętych całkowitym zakazem publ
         description: 'Artykuł o żonie i współpracowniczce Adama Ciołkosza, historyczce i działaczce socjalistycznej na emigracji.',
       },
       {
-        id: 'ciolkosz-rwe-nagranie',
-        title: 'Adam Ciołkosz opowiada o walkach o Grodno – relacja dla Radia Wolna Europa',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=aFHf4rkcY-M',
-        source: 'YouTube',
-        description: 'Archiwalne nagranie głosu Ciołkosza, który dla RWE wspomina swój udział w wojnie 1920 roku.',
-      },
-      {
         id: 'ciolkosz-wiki',
         title: 'Adam Ciołkosz – artykuł',
         type: 'publikacja',
@@ -33957,14 +33396,6 @@ Zmarł 22 października 1948 roku w Warszawie. Jego następcą został Stefan Wy
         url: 'https://www.youtube.com/watch?v=7uJ-h-LjgZs',
         source: 'YouTube',
         description: 'Rozmowa historyków IPN o prymasie Hlondzie i jego postawie wobec nowej władzy po 1945 roku.',
-      },
-      {
-        id: 'hlond-pogrzeb-1948',
-        title: 'Ceremonie pogrzebowe prymasa Augusta Hlonda (Warszawa 1948)',
-        type: 'film',
-        url: 'https://www.youtube.com/watch?v=Z0T4J8ThegI',
-        source: 'YouTube',
-        description: 'Archiwalne ujęcia z uroczystości pogrzebowych kardynała Hlonda w Warszawie w 1948 roku.',
       },
       {
         id: 'hlond-wyszynski',
