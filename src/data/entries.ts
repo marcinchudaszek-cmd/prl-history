@@ -1855,6 +1855,14 @@ W kolejnych kryzysach prymas łączył obronę praw społeczeństwa z wezwaniami
     ],
     resources: [
       {
+        id: 'wyszynski-yt-m5',
+        title: 'Prymas Wyszyński – cykl „Portrety” odc. 5',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=li67uWoFysY',
+        source: 'IPNtv',
+        description: 'Portret prymasa Stefana Wyszyńskiego przygotowany przez Instytut Pamięci Narodowej.',
+      },
+      {
         id: 'wyszynski-jasnogorskie-sluby-narodu-po',
         title: 'Jasnogórskie Śluby Narodu Polskiego – artykuł',
         type: 'publikacja',
@@ -3536,6 +3544,14 @@ Opozycja demokratyczna lat 70. i 80. czerpała z myśli „Kultury”, a koncepc
       'Za przemyt „Kultury” przez Tatry w 1970 roku skazano grupę młodych ludzi w procesie taterników.',
     ],
     resources: [
+      {
+        id: 'kultura-paryz-yt-m5',
+        title: 'Jerzy Giedroyc i paryska „Kultura” – cykl „Oblicza historii”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=ZedqVwRboTI',
+        source: 'IPNtv',
+        description: 'Program Instytutu Pamięci Narodowej o Instytucie Literackim w Maisons-Laffitte.',
+      },
       {
         id: 'kultura-p-1',
         title: 'Kultura Paryska – opracowania',
@@ -5333,6 +5349,14 @@ W lipcu 1989 roku Rakowski zastąpił Jaruzelskiego na czele PZPR. W styczniu 19
     ],
     resources: [
       {
+        id: 'rakowski-yt-m5',
+        title: 'Mieczysław Rakowski – cykl „Namiestnicy Kremla i zarządcy komunistycznej Polski”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=BN1quOxyLvw',
+        source: 'IPNtv',
+        description: 'Biografia ostatniego I sekretarza KC PZPR.',
+      },
+      {
         id: 'rakow-1',
         title: 'Mieczysław Rakowski – opracowania',
         type: 'publikacja',
@@ -5711,6 +5735,14 @@ Reformy uwolniły siły, nad którymi Gorbaczow nie zapanował – republiki og�
       'Przy narodzinach nadano mu imię Wiktor; dziadek zmienił je na chrzcie na Michaił.',
     ],
     resources: [
+      {
+        id: 'gorbaczow-yt-m5',
+        title: 'Lata 1985–1990. Pieriestrojka i głasnost Michaiła Gorbaczowa – „Historia żywa”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=SNoUMA6eJZU',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Audycja Polskiego Radia o reformach Gorbaczowa i ich skutkach dla bloku wschodniego.',
+      },
       {
         id: 'gorb-1',
         title: 'Gorbaczow i pierestrojka – opracowania',
@@ -7973,6 +8005,14 @@ W PRL o deportacjach nie wolno było mówić publicznie – zbrodnie sowieckie o
     ],
     resources: [
       {
+        id: 'deportacje-yt-m5',
+        title: '„Spiecpieriesieleńcy” – losy Polaków deportowanych w 1940',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=yW5PCPYOZfg',
+        source: 'Instytut Pileckiego (YouTube)',
+        description: 'Materiał Instytutu Pileckiego o deportowanych przez NKWD w głąb ZSRR.',
+      },
+      {
         id: 'dep-1',
         title: 'Deportacje Polaków na Wschód – opracowania (2)',
         type: 'publikacja',
@@ -8435,6 +8475,14 @@ Anders nie wrócił do kraju. 26 września 1946 roku Tymczasowy Rząd Jedności 
       'W walkach o Monte Cassino poległo 923 żołnierzy 2 Korpusu.',
     ],
     resources: [
+      {
+        id: 'anders-yt-m5',
+        title: 'Tworzenie Armii Andersa w ZSRR – cykl „Miś Wojtek”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=FoeqGQPstQE',
+        source: 'IPNtv',
+        description: 'Odcinek edukacyjnego cyklu Instytutu Pamięci Narodowej o formowaniu armii gen. Andersa.',
+      },
       {
         id: 'anders-1',
         title: 'Gen. Władysław Anders i Armia Andersa – opracowania',
@@ -11919,6 +11967,14 @@ Postać Kuklińskiego dzieli Polaków do dziś. Toczy się debata, czy jego dzia
     trivia: ['Pułkownik przekazał na Zachód tysiące stron tajnych dokumentów Układu Warszawskiego.', 'W 1981 roku został ewakuowany wraz z rodziną przez CIA.'],
     resources: [
       {
+        id: 'ryszard-kuklinski-yt-m5',
+        title: 'Płk Ryszard Kukliński – cykl „Tajemnice wywiadu”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=x8PzoYGpD9Q',
+        source: 'IPNtv',
+        description: 'Program Instytutu Pamięci Narodowej o pułkowniku Kuklińskim.',
+      },
+      {
         id: 'ryszard-kuklinski-zbigniew-brzezinski',
         title: 'Zbigniew Brzeziński – artykuł',
         type: 'publikacja',
@@ -12201,6 +12257,14 @@ Choć ROPCiO nie przetrwał jako jednolita organizacja, odegrał ważną rolę w
     trivia: ['Ruch działał jawnie – jego członkowie podawali nazwiska i adresy.', 'Powstał w 1977 roku, rok po KOR.'],
     resources: [
       {
+        id: 'ropcio-yt-m5',
+        title: '„Z filmoteki bezpieki” odc. 13 – ROPCiO',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=gjYhp-5QVlE',
+        source: 'IPNtv',
+        description: 'Materiały operacyjne SB dotyczące Ruchu Obrony Praw Człowieka i Obywatela.',
+      },
+      {
         id: 'rop-1',
         title: 'ROPCiO – zdjęcia i grafiki',
         type: 'zdjęcie',
@@ -12267,6 +12331,14 @@ Pobicie wywołało falę oburzenia. „Solidarność” ogłosiła gotowość st
 Kryzys bydgoski pokazał determinację władzy i jej gotowość do użycia siły. Dla wielu był zapowiedzią konfrontacji, która nastąpiła 13 grudnia 1981 r. Sprawa pobicia nigdy nie została w pełni wyjaśniona w PRL.`,
     trivia: ['Pobicie działaczy Solidarności w marcu 1981 wywołało największy kryzys przed stanem wojennym.', 'Zapowiedziany strajk generalny odwołano w ostatniej chwili.'],
     resources: [
+      {
+        id: 'bydgoszcz-1981-yt-m5',
+        title: 'Prowokacja bydgoska – 19 marca 1981',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=1caSXuHEJPU',
+        source: 'Europejskie Centrum Solidarności (YouTube)',
+        description: 'Materiał ECS o pobiciu działaczy „Solidarności” w Bydgoszczy.',
+      },
       {
         id: 'byd-1',
         title: 'Prowokacja bydgoska 1981 – opracowania',
@@ -12335,6 +12407,14 @@ Sprawa Przemyka stała się symbolem brutalności i bezkarności milicji w PRL. 
     trivia: ['Maturzysta zmarł w 1983 roku po pobiciu na komisariacie.', 'Jego pogrzeb zamienił się w wielotysięczną manifestację.'],
     resources: [
       {
+        id: 'grzegorz-przemyk-yt-m5',
+        title: '„Żeby nie było śladów” – sprawa Grzegorza Przemyka',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=W0FMsRtVzIM',
+        source: 'IPNtv',
+        description: 'Dyskusja historyków Instytutu Pamięci Narodowej o sprawie Grzegorza Przemyka.',
+      },
+      {
         id: 'prz-1',
         title: 'Grzegorz Przemyk – zdjęcia i grafiki',
         type: 'zdjęcie',
@@ -12401,6 +12481,14 @@ Późniejsze ustalenia wskazały na inwigilację Pyjasa i jego środowiska przez
 Stanisław Pyjas stał się symbolem ofiar systemu wśród młodzieży akademickiej. SKS, powstały po jego śmierci, był ważnym ogniwem opozycji przedsierpniowej i kuźnią działaczy „Solidarności”.`,
     trivia: ['Po śmierci studenta w maju 1977 w Krakowie zawiązał się Studencki Komitet Solidarności.', 'Czarny Marsz przeszedł ulicami Krakowa w Juwenalia, które odwołano.'],
     resources: [
+      {
+        id: 'stanislaw-pyjas-yt-m5',
+        title: 'Stanisław Pyjas i Studencki Komitet Solidarności',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=Qp2SL9tQMao',
+        source: 'IPNtv Lublin',
+        description: 'Materiał Instytutu Pamięci Narodowej o śmierci Stanisława Pyjasa i powstaniu SKS.',
+      },
       {
         id: 'stanislaw-pyjas-encysol',
         title: 'Stanisław Pyjas w Encyklopedii Solidarności',
@@ -15708,6 +15796,14 @@ Otrzymał Order Orła Białego, ale odmawiał roli pomnika. Pozostaje symbolem o
     trivia: ['Był ostatnim żyjącym przywódcą powstania w getcie warszawskim.', 'Po wojnie został wybitnym kardiologiem i wspierał opozycję.'],
     resources: [
       {
+        id: 'edelman-yt-m5',
+        title: 'Marek Edelman – bohater z ulicy Dzielnej (Akcja Żonkile 2019)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=3CqMvfA43Jk',
+        source: 'Muzeum POLIN (YouTube)',
+        description: 'Film Muzeum Historii Żydów Polskich POLIN o Marku Edelmanie.',
+      },
+      {
         id: 'edelman-encysol',
         title: 'Marek Edelman w Encyklopedii Solidarności',
         type: 'publikacja',
@@ -16259,6 +16355,14 @@ Pod koniec lat 80. organizacja w naturalny sposób zamierała. Sejm rozwiązał 
       'W Brygadach Ruchu Drogowego ORMO działało sporo znanych osób, m.in. piosenkarzy, aktorów i dziennikarzy.',
     ],
     resources: [
+      {
+        id: 'ormo-yt-m5',
+        title: 'Ochotnicza Rezerwa Milicji Obywatelskiej – „Taśmy bezpieki” odc. 13',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=4SaVqJ140kk',
+        source: 'IPNtv',
+        description: 'Program Instytutu Pamięci Narodowej o ORMO.',
+      },
       {
         id: 'ormo-1',
         title: 'ORMO – opracowania',
@@ -18206,6 +18310,14 @@ Wydarzenia objęła zbiorowa amnezja – pierwsza książka o nich ukazała się
     ],
     resources: [
       {
+        id: 'zielonogorskie-1960-yt-m5',
+        title: 'Wydarzenia zielonogórskie 30 maja 1960 r. – wykład',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=qBcXM8Gj6H4',
+        source: 'IPNtv',
+        description: 'Wykład historyka Instytutu Pamięci Narodowej o obronie Domu Katolickiego w Zielonej Górze.',
+      },
+      {
         id: 'zg-1',
         title: 'Wydarzenia zielonogórskie 1960 – opracowania',
         type: 'publikacja',
@@ -19061,6 +19173,14 @@ Wobec uczestników protestu we Włoszczowie zastosowano represje, część usuni
       'Krzyże w obu szkołach pojawiły się po Sierpniu 1980 roku i zostały zdjęte w latach 1983–1984.',
     ],
     resources: [
+      {
+        id: 'obrona-krzyzy-yt-m5',
+        title: 'W 40. rocznicę strajku okupacyjnego młodzieży w obronie krzyży w Miętnem – „Tajemnice bezpieki”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=WpbS_tnlkV8',
+        source: 'IPNtv',
+        description: 'Program Instytutu Pamięci Narodowej o strajku uczniów w Miętnem w 1984 roku.',
+      },
       {
         id: 'okr-1',
         title: 'Obrona krzyży – opracowania (2)',
@@ -20279,6 +20399,14 @@ Proces toczył się dokładnie wtedy, gdy w Moskwie ustalano skład Tymczasowego
       'Przez ponad miesiąc ZSRR zaprzeczał, że Polacy zostali aresztowani – Mołotow przyznał to dopiero 3 maja w San Francisco.',
     ],
     resources: [
+      {
+        id: 'proces-szesnastu-yt-m5',
+        title: 'Proces Szesnastu',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=n6mqJH0h0qo',
+        source: 'IPNtv',
+        description: 'Materiał Instytutu Pamięci Narodowej o moskiewskim procesie przywódców Polskiego Państwa Podziemnego.',
+      },
       {
         id: 'ps16-1',
         title: 'Proces szesnastu – opracowania',
