@@ -160,6 +160,8 @@ Stan wojenny zawieszono 31 grudnia 1982 roku, a zniesiono 22 lipca 1983 roku. Do
     yearStart: 1980,
     yearEnd: 1989,
     summary: 'NSZZ "Solidarność" – masowy ruch społeczny i związek zawodowy, który stał się największą opozycyjną siłą w dziejach PRL i krajów bloku wschodniego.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stakingsleider_Lech_Walesa_deelt_handtekeningen_uit%2C_Bestanddeelnr_253-8300.jpg?width=800',
+    imageCaption: 'Lech Wałęsa rozdaje autografy w Stoczni Gdańskiej, 31 sierpnia 1980 (fot. Anefo, CC0)',
     trivia: ['Charakterystyczne logo „Solidarności” zaprojektował Jerzy Janiszewski.', 'Związek liczył blisko 10 milionów członków – około jednej czwartej ludności Polski.'],
     content: `## Narodziny
 NSZZ „Solidarność” powstał po strajkach Sierpnia 1980 i podpisaniu Porozumień Gdańskich. Był pierwszym w bloku wschodnim niezależnym, samorządnym związkiem zawodowym, zarejestrowanym w listopadzie 1980 roku.
@@ -360,6 +362,8 @@ Zginęło co najmniej 45 osób, ponad tysiąc odniosło rany. Pamięć o ofiarac
     yearStart: 1989,
     yearEnd: 1989,
     summary: 'Negocjacje między władzami PRL a opozycją skupioną wokół "Solidarności", które doprowadziły do pokojowej transformacji ustrojowej Polski i pierwszych częściowo wolnych wyborów.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Okr%C4%85g%C5%82y_St%C3%B3%C5%82.jpg?width=800',
+    imageCaption: 'Obrady Okrągłego Stołu w Pałacu Namiestnikowskim, 5 kwietnia 1989',
     trivia: ['Stół był naprawdę okrągły – wykonano go specjalnie, by nikt nie zajmował „głównego” miejsca.', 'Część kluczowych ustaleń zapadała poza salą obrad, m.in. w willi w Magdalence.'],
     content: `## Geneza
 Druga połowa lat 80. to pogłębiający się kryzys gospodarczy i kolejna fala strajków w 1988 roku. Władze, niezdolne do reform i pod presją społecznego niezadowolenia, uznały, że bez porozumienia z opozycją nie zdołają opanować sytuacji.
@@ -1066,6 +1070,14 @@ Kryzys gospodarczy przerodził się w polityczny. Strajki latem 1980 roku zakoń
 Odebrano mu polską emeryturę. Utrzymywał się z renty francuskiej i emerytury belgijskiej, mieszkając w Ustroniu. Zmarł 29 lipca 2001 roku w Cieszynie na pylicę płuc, pamiątkę po pracy w kopalni. W sondażu CBOS z 2001 roku połowa badanych oceniła jego działalność pozytywnie.`,
     resources: [
       {
+        id: 'gierek-yt-m2',
+        title: 'Edward Gierek – cykl „Namiestnicy Kremla i zarządcy komunistycznej Polski”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=i3t1ZRtuNKI',
+        source: 'IPNtv',
+        description: 'Biografia I sekretarza PZPR z lat 1970–1980 w cyklu Instytutu Pamięci Narodowej.',
+      },
+      {
         id: 'gie-1',
         title: 'KC PZPR – zbiór archiwalny (AAN), lata 70.',
         type: 'akt',
@@ -1195,6 +1207,14 @@ W 1988 roku uzgodnił z gen. Kiszczakiem rozmowy przy Okrągłym Stole, a w tele
     ],
     resources: [
       {
+        id: 'walesa-yt-m2',
+        title: 'Strajk! Początek – Lech Wałęsa, przywódca strajku',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=aW6fSsZs6sw',
+        source: 'Europejskie Centrum Solidarności (YouTube)',
+        description: 'Odcinek cyklu #ecsonline o roli Lecha Wałęsy w strajku w Stoczni Gdańskiej w sierpniu 1980 roku.',
+      },
+      {
         id: 'walesa-encysol',
         title: 'Lech Wałęsa w Encyklopedii Solidarności',
         type: 'publikacja',
@@ -1276,6 +1296,14 @@ Zmarł 12 marca 1956 roku w Moskwie, dokąd pojechał na XX Zjazd KPZR. Na zjeź
       '30 września 1953 roku Stolica Apostolska obłożyła go ekskomuniką za uwięzienie prymasa Wyszyńskiego.',
     ],
     resources: [
+      {
+        id: 'bierut-yt-m2',
+        title: 'Bolesław Bierut – cykl „Namiestnicy Kremla i zarządcy komunistycznej Polski”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=bmj3iJDNqHw',
+        source: 'IPNtv',
+        description: 'Biografia Bolesława Bieruta w cyklu Instytutu Pamięci Narodowej.',
+      },
       {
         id: 'bie-1',
         title: 'Bolesław Bierut – artykuł',
@@ -1610,6 +1638,14 @@ Władze przedstawiły zajścia jako obronę konieczną wobec napastników rzekom
 ## Pamięć i rozliczenie
 Krzyż stawiany pod kopalnią był wielokrotnie usuwany przez milicję i odtwarzany przez mieszkańców; rocznice rozpędzano siłą. Pomnik odsłonięto dopiero w 1991 roku. Procesy sprawców ruszyły po 1989 roku i ciągnęły się blisko dwadzieścia lat – prawomocne wyroki dla członków plutonu zapadły w 2009 roku, żaden z dowódców politycznych nie został skazany.`,
     resources: [
+      {
+        id: 'wujek-yt-m2',
+        title: 'Ekspertyza. Masakra górników w kopalni „Wujek”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=IZG9qT_Uj60',
+        source: 'IPN Kraków (YouTube)',
+        description: 'Materiał Instytutu Pamięci Narodowej o pacyfikacji kopalni „Wujek” 16 grudnia 1981 roku.',
+      },
       {
         id: 'wuj-1',
         title: 'Pacyfikacja KWK Wujek – zdjęcia i grafiki',
@@ -2948,6 +2984,14 @@ Przez cały okres PRL obowiązywała wersja obarczająca winą Niemców. Temat b
 13 kwietnia 1990 roku ZSRR oficjalnie przyznał, że zbrodnia była „jedną z ciężkich zbrodni stalinizmu”. Katyń pozostaje przykładem tego, jak długo państwo potrafi utrzymywać kłamstwo, kontrolując szkołę, prasę i naukę – i jak trwałą pamięć potrafi zachować przekaz rodzinny.`,
     resources: [
       {
+        id: 'katyn-yt-m2',
+        title: 'Zbrodnia katyńska: walka o prawdę, walka o pamięć – Przystanek Historia',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=gUwHhGoIvPk',
+        source: 'IPNtv',
+        description: 'Odcinek programu „Przystanek Historia” Instytutu Pamięci Narodowej o zbrodni katyńskiej i walce o prawdę o niej.',
+      },
+      {
         id: 'kat-ipn1',
         title: 'Portal IPN o Zbrodni Katyńskiej',
         type: 'akt',
@@ -3254,6 +3298,14 @@ W PRL temat był przemilczany. W 1990 roku akcję potępił Senat RP, w 2002 rok
       'Obóz w Jaworznie, do którego trafiali wysiedleni, mieścił się w dawnej filii KL Auschwitz.',
     ],
     resources: [
+      {
+        id: 'akcja-wisla-yt-m2',
+        title: 'Akcja „Wisła” – cykl „Historia zza kulis”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=KhEFu-GaFzc',
+        source: 'IPNtv',
+        description: 'Materiał Instytutu Pamięci Narodowej o przesiedleniach ludności ukraińskiej i łemkowskiej w 1947 roku.',
+      },
       {
         id: 'wisla-1',
         title: 'Akcja Wisła – artykuł',
@@ -3600,6 +3652,14 @@ Referendum było próbą generalną przed sfałszowanymi wyborami w styczniu 194
       'Na protest Mikołajczyka Gomułka odpowiedział: „Leć pan na skargę do Churchilla”.',
     ],
     resources: [
+      {
+        id: 'referendum-1946-yt-m2',
+        title: 'Kto sfałszował referendum ludowe w czerwcu 1946 roku? – cykl „Pytania z historii”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=XZ-AlP1sZS8',
+        source: 'IPNtv',
+        description: 'Materiał Instytutu Pamięci Narodowej o fałszerstwie referendum „3 razy tak”.',
+      },
       {
         id: 'ref-pkf',
         title: 'Polska Kronika Filmowa – referendum 1946',
@@ -4627,6 +4687,8 @@ NZS był dowodem, że wolnościowy impuls Solidarności dosięgnął całego spo
     yearStart: 1981,
     yearEnd: 1982,
     shortDesc: 'Nocna akcja 13 grudnia 1981 – aresztowanie 10 tysięcy działaczy Solidarności bez wyroku sądowego.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kwidzyn_bunt2.jpg?width=800',
+    imageCaption: 'Internowani w ośrodku odosobnienia w Kwidzynie podczas buntu 14 sierpnia 1982 (archiwum IPN)',
     content: `## Internowanie w stanie wojennym
 
 W nocy z 12 na 13 grudnia 1981 roku, w pierwszych godzinach stanu wojennego, Służba Bezpieczeństwa i Milicja Obywatelska przeprowadziły masowe aresztowania działaczy Solidarności, opozycjonistów i osób uznanych za zagrożenie dla reżimu. Była to największa fala represji politycznych w Polsce od czasów stalinizmu.
@@ -5073,6 +5135,8 @@ W 1990 roku Moczulski startował w wyborach prezydenckich. Największy sukces pa
     yearStart: 1944,
     yearEnd: 1989,
     shortDesc: 'Równouprawnienie w teorii i podwójny etat w praktyce – sytuacja kobiet w Polsce Ludowej.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/M%C5%82odzie%C5%BCy_-_Naprz%C3%B3d_do_walki_o_szcz%C4%99%C5%9Bliw%C4%85_socjalistyczn%C4%85_wie%C5%9B_polsk%C4%85.jpg?width=800',
+    imageCaption: 'Plakat propagandowy z 1949 roku – traktorzystka jako wzór kobiety „nowych czasów”',
     content: `## Kobiety w PRL
 
 Polska Rzeczpospolita Ludowa oficjalnie głosiła równouprawnienie kobiet – i dokonała realnego postępu w zakresie dostępu do edukacji i pracy zawodowej. Jednocześnie kobiety dźwigały „drugi etat" domowy, a ich pozycja w polityce i gospodarce była w praktyce niższa niż mężczyzn.
@@ -5935,6 +5999,8 @@ Wajda nauczył świat patrzeć na Polskę przez pryzmat jej tragicznej historii.
     yearStart: 1947,
     yearEnd: 1989,
     shortDesc: 'Jazz – muzyka wolności, która przebiła się przez ideologiczne bariery PRL i stała się symbolem otwarcia na Zachód.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Plakat_Jazz_Jamboree_z_1968_r.png?width=800',
+    imageCaption: 'Plakat festiwalu Jazz Jamboree 1968 w Warszawie',
     content: `## Jazz w Polsce Ludowej
 
 Jazz w PRL to paradoks: muzyka uznana przez stalinizm za imperialistyczną, dekadencką i zgubną – stała się jednym z pierwszych przejawów odwilży, a Polska Jazz Jamboree jest do dziś jednym z najważniejszych festiwali jazzowych na świecie.
@@ -6660,6 +6726,14 @@ Komunistyczne władze zareagowały stosunkowo szybko – część sprawców stan
 Pogrom kielecki przyspieszyć masową emigrację polskich Żydów na Zachód i do Palestyny. Do 1947 r. Polska opuściło ok. 100 tys. Żydów. Temat przez dekady był w PRL przemilczany lub fałszowany. Po 1989 r. stał się przedmiotem trudnych debat historycznych i moralnych.`,
     trivia: ['Pogrom wybuchł po fałszywej plotce o porwaniu dziecka.', 'Zginęło ponad czterdzieści osób – to najtragiczniejsze powojenne wydarzenie tego typu w Polsce.'],
     resources: [
+      {
+        id: 'kielce-1946-yt-m2',
+        title: 'Pogrom czy mord. Kielce 4.07.1946 – film dokumentalny',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=AyMvYW1Rwqc',
+        source: 'IPNtv',
+        description: 'Film dokumentalny Instytutu Pamięci Narodowej o pogromie kieleckim.',
+      },
       {
         id: 'kielce-1',
         title: 'Pogrom kielecki 1946 – opracowania',
@@ -7964,6 +8038,14 @@ Pilecki został zrehabilitowany dopiero po 1989 r. W 2006 r. pośmiertnie odznac
     trivia: ['Dobrowolnie dał się uwięzić w Auschwitz, by zorganizować tam konspirację.', 'Skazany na śmierć i stracony w 1948 roku; wyrok unieważniono dopiero po 1989.'],
     resources: [
       {
+        id: 'pilecki-yt-m2',
+        title: 'Witold Pilecki – ochotnik do Auschwitz',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=MPVd-rhyOB0',
+        source: 'Instytut Pileckiego (YouTube)',
+        description: 'Materiał Instytutu Pileckiego o rotmistrzu Witoldzie Pileckim.',
+      },
+      {
         id: 'pilecki-1',
         title: 'Rotmistrz Witold Pilecki – zdjęcia i grafiki',
         type: 'zdjęcie',
@@ -8002,6 +8084,8 @@ Pilecki został zrehabilitowany dopiero po 1989 r. W 2006 r. pośmiertnie odznac
     yearStart: 1949,
     yearEnd: 1956,
     summary: 'Realizm socjalistyczny – obowiązująca od 1949 r. doktryna artystyczna – nakazywał twórcom tworzyć "zrozumiałe dla ludu" dzieła wysławiające partię, robotników i ZSRR. Zakończył się wraz z "odwilżą" 1956 r., pozostawiając trwały ślad w architekturze polskich miast.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Manifest_-_Wojciech_Weiss.jpg?width=800',
+    imageCaption: 'Wojciech Weiss, „Manifest” (1949–1950) – socrealistyczny obraz olejny',
     content: `## Doktryna i jej narzucenie
 
 Socrealizm jako obowiązkowy styl artystyczny ogłoszono w Polsce na Zjeździe Plastyków w Katowicach w 1950 r. i na Zjeździe Literatów w Szczecinie w 1949 r. Artyści, którzy odmawiali dostosowania się, tracili możliwość wystawiania, publikowania i zarabiania. Wielu wybrało samocenzurę lub emigrację wewnętrzną.
@@ -8409,6 +8493,14 @@ Jałta wyznaczyła linię podziału Europy: zachodnią strefę wpływów (USA, W
 Historycy spierają się, czy Roosevelt i Churchill mieli realną alternatywę – wojska lądowe na terenach spornych posiadał wyłącznie Stalin. Jałta była w znacznej mierze kapitulacją przed siłą faktów – choć krytykuje się też naiwność Roosevelta wobec Stalina.`,
     trivia: ['Konferencja Wielkiej Trójki odbyła się w lutym 1945 na Krymie.', 'Zadecydowała o powojennych granicach i strefie wpływów ZSRR nad Polską.'],
     resources: [
+      {
+        id: 'jalta-yt-m2',
+        title: 'Teheran, Jałta i Poczdam – konferencje, na których zdecydowano o losach Polski',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=b4O-Snif47E',
+        source: 'Muzeum Historii Polski (YouTube)',
+        description: 'Materiał Muzeum Historii Polski o konferencjach Wielkiej Trójki i ich skutkach dla Polski.',
+      },
       {
         id: 'jalta-1',
         title: 'Konferencja Jałtańska 1945 – opracowania',
@@ -16520,6 +16612,8 @@ Pochody pierwszomajowe pozostają symbolem propagandowej obrzędowości PRL – 
     yearStart: 1945,
     yearEnd: 1989,
     summary: 'Najważniejsze święto państwowe PRL, ustanowione w rocznicę ogłoszenia Manifestu PKWN, symbolicznego „narodzenia” Polski Ludowej.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Poch%C3%B3d_m%C5%82odzie%C5%BCy_22_lipca_1952.jpg?width=800',
+    imageCaption: 'Pochód młodzieży w Warszawie w święto 22 lipca 1952',
     content: `## Geneza
 22 lipca ustanowiono Narodowym Świętem Odrodzenia Polski już w 1945 roku – w rocznicę ogłoszenia Manifestu PKWN. Dokument, formalnie proklamowany w Chełmie, powstał i został zatwierdzony w Moskwie, co przez całą epokę było w oficjalnych opisach pomijane.
 
