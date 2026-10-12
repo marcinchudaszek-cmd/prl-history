@@ -4213,6 +4213,14 @@ Miłosz jest autorem „Traktatu moralnego", „Ziemi Ulro", „Roku myśliwego"
     trivia: ['Nagrodę Nobla otrzymał w 1980 roku, gdy w Polsce rodziła się Solidarność.', 'Jego słowa wyryto na pomniku Poległych Stoczniowców w Gdańsku.'],
     resources: [
       {
+        id: 'milosz-yt-m4',
+        title: '„Let Poland Be Poland” (1982) – wystąpienie Czesława Miłosza',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=jgb0CTsYnQ0',
+        source: 'US Embassy Warsaw (YouTube)',
+        description: 'Fragment amerykańskiego programu telewizyjnego z 1982 roku solidaryzującego się z Polską w stanie wojennym, z udziałem Czesława Miłosza.',
+      },
+      {
         id: 'milosz-culture',
         title: 'Czesław Miłosz w serwisie Culture.pl',
         type: 'publikacja',
@@ -4280,6 +4288,14 @@ Ostatni zbiór „Epilog burzy" ukazał się pośmiertnie w 1998 roku. Herbert w
 Jego poezja jest przetłumaczona na kilkadziesiąt języków. Jest to jedna z postaci, które najlepiej reprezentują polską tradycję moralną: opór, pamięć, niezgoda na kłamstwo.`,
     trivia: ['Stworzył postać Pana Cogito – alter ego myślącego człowieka.', '„Przesłanie Pana Cogito” stało się wierszem-manifestem opozycji.'],
     resources: [
+      {
+        id: 'herbert-yt-m4',
+        title: 'Zbigniew Herbert recytuje „Tren” i „Proces”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=UPI3vaxuFH4',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Archiwalne nagranie telewizyjne – poeta czyta własne wiersze.',
+      },
       {
         id: 'herbert-culture',
         title: 'Zbigniew Herbert w serwisie Culture.pl',
@@ -4839,6 +4855,14 @@ Michnik jest symbolem liberalnej lewicy i dialogu. Jego teza o „grubej kresce"
     trivia: ['Uczestnik Marca \'68, wielokrotnie więziony w PRL.', 'Napisał „Kościół, lewica, dialog” – książkę o porozumieniu środowisk opozycji.'],
     resources: [
       {
+        id: 'michnik-yt-m4',
+        title: 'Jak Marzec ’68 wpłynął na zmiany społeczne i polityczne w Polsce? – Lityński, Michnik, Osęka',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=7SWjJXHGtEQ',
+        source: 'Wszechnica FWW (YouTube)',
+        description: 'Rozmowa z udziałem Adama Michnika o znaczeniu Marca 1968 roku.',
+      },
+      {
         id: 'michnik-encysol',
         title: 'Adam Michnik w Encyklopedii Solidarności',
         type: 'publikacja',
@@ -4916,6 +4940,14 @@ Zasłynął z „kuroniówki" – dożywania dla bezrobotnych, którą zorganizo
 Kuroń był człowiekiem pełnym sprzeczności: dawny komunista, który stał się symbolem demokratycznej opozycji; minister transformacji, który najbardziej troszczył się o jej ofiary. Jego myśl pedagogiczna – dać dzieciom wolność i odpowiedzialność – pozostaje aktualna. Odznaczony Orderem Orła Białego, pochowany na Powązkach Wojskowych.`,
     trivia: ['Za „List otwarty do partii” trafił do więzienia razem z Karolem Modzelewskim.', 'Powtarzał: nie palcie komitetów, zakładajcie własne.'],
     resources: [
+      {
+        id: 'kuron-yt-m4',
+        title: 'Jacek Kuroń o niezależnych związkach zawodowych',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=D5WeoziPStQ',
+        source: 'Web of Stories (YouTube)',
+        description: 'Fragment wielogodzinnej opowieści Jacka Kuronia o swoim życiu, nagranej dla serwisu Web of Stories.',
+      },
       {
         id: 'kuron-encysol',
         title: 'Jacek Kuroń w Encyklopedii Solidarności',
@@ -5069,6 +5101,14 @@ Osobnym wątkiem były jego powiązania ze służbami – dokumenty IPN wskazuj�
 Kapuściński był wielokrotnie wymieniany jako kandydat do Nagrody Nobla. Stworzył nowy model dziennikarstwa – empatycznego, literackiego, zaangażowanego. Jego szkoła reportażu wychowała pokolenia polskich reporterów.`,
     trivia: ['Relacjonował dziesiątki przewrotów i rewolucji na świecie.', 'Jego „Cesarza” czytano w Polsce jako aluzję do dworu władzy w PRL.'],
     resources: [
+      {
+        id: 'kapuscinski-yt-m4',
+        title: 'Ryszard Kapuściński – zawód reporter',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=gFGIrGolWrA',
+        source: 'Polska Agencja Prasowa (YouTube)',
+        description: 'Materiał PAP o pracy reporterskiej Ryszarda Kapuścińskiego.',
+      },
       {
         id: 'kapuscinski-culture',
         title: 'Ryszard Kapuściński w serwisie Culture.pl',
@@ -5512,6 +5552,14 @@ Bronisław Geremek zginął 13 lipca 2008 roku w wypadku samochodowym pod Lubine
 Geremek łączył w sobie rzadką kombinację: wybitny uczony i skuteczny polityk. Jego zaangażowanie w historię marginesu społecznego współgrało z jego praktyką polityczną – zawsze po stronie słabszych, zawsze z imperatywem etycznym.`,
     trivia: ['Mediewista, który został jednym z głównych doradców Solidarności.', 'Kierował zespołem opozycji przy stole politycznym Okrągłego Stołu.'],
     resources: [
+      {
+        id: 'geremek-yt-m4',
+        title: 'Prof. Bronisław Geremek. Naukowiec – polityk – Europejczyk – człowiek',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=W6Jv9YmEybI',
+        source: 'Archiwum Akt Nowych (YouTube)',
+        description: 'Materiał Archiwum Akt Nowych poświęcony Bronisławowi Geremkowi.',
+      },
       {
         id: 'geremek-encysol',
         title: 'Bronisław Geremek w Encyklopedii Solidarności',
@@ -6020,6 +6068,14 @@ Po 1989 roku Wajda stworzył „Pierścionek z orłem w koronie" (1993), „Pan 
 Wajda nauczył świat patrzeć na Polskę przez pryzmat jej tragicznej historii. Był sumieniem polskiego kina i moralnym autorytetem. Odznaczony Orderem Orła Białego, pochowany z honorami na Skałce w Krakowie.`,
     trivia: ['W 2000 roku odebrał Oscara za całokształt twórczości.', '„Człowiek z marmuru” i „Człowiek z żelaza” to jego zapis dwóch epok PRL.'],
     resources: [
+      {
+        id: 'wajda-yt-m4',
+        title: 'Jane Fonda wręcza Andrzejowi Wajdzie Honorowego Oscara (2000)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=rImCpUzwGx0',
+        source: 'Oscars (YouTube)',
+        description: 'Oficjalne nagranie Akademii Filmowej z ceremonii wręczenia Wajdzie Oscara za całokształt twórczości.',
+      },
       {
         id: 'wajda-culture',
         title: 'Andrzej Wajda w serwisie Culture.pl',
@@ -10670,6 +10726,14 @@ W 1994 roku Kieślowski ogłosił, że rezygnuje z reżyserii. W 1996 roku zmar�
 Kieślowski pokazał, że kino może być filozofią. Jego filmy pytają o sens życia, wolną wolę i moralność bez udzielania prostych odpowiedzi. Polska tradycja dokumentalna stała się przez niego szkołą humanizmu dla całego świata.`,
     trivia: ['Zaczynał od dokumentu, który porzucił z powodów etycznych – bał się wkraczania w cudze życie.', 'Później stworzył „Dekalog” i „Trzy kolory”.'],
     resources: [
+      {
+        id: 'kieslowski-yt-m4',
+        title: '„Przejście podziemne” (1973), reż. Krzysztof Kieślowski – ze wstępem Michała Oleszczyka',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=DXqAJivMWzs',
+        source: 'Instytut Adama Mickiewicza (YouTube)',
+        description: 'Telewizyjny film fabularny Kieślowskiego udostępniony przez Instytut Adama Mickiewicza.',
+      },
       {
         id: 'kieslowski-culture',
         title: 'Krzysztof Kieślowski w serwisie Culture.pl',
