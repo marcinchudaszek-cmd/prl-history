@@ -6137,16 +6137,6 @@ W stanie wojennym wielu aktorów odmawiało występów w telewizji, a „Solidar
     ],
     resources: [
       {
-        id: 'tvp-1',
-        title: 'Telewizja Polska w PRL – nagrania archiwalne',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=E1QKPJTDig0',
-        source: 'YouTube',
-        description: 'Archiwalne materiały wideo dotyczące tematu – Dziennik Telewizyjny 1984 - Walka ze spekulantami w PRL',
-        year: 1952,
-        downloadable: false,
-      },
-      {
         id: 'tvp-2',
         title: 'Telewizja Polska w PRL – opracowania',
         type: 'publikacja',
@@ -9868,14 +9858,6 @@ W połowie lat 70. wykryto u niej chorobę nowotworową. Ostatni koncert dała 5
         description: 'Archiwalne nagrania telewizyjne z udziałem Anny German z lat 60. i 70.',
       },
       {
-        id: 'german-youtube',
-        title: 'Anna German – Tańczące Eurydyki',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=gymRAZx9Z1o',
-        source: 'YouTube',
-        description: 'Nagrania z udziałem Anny German – przeboje i archiwalne koncerty – Anna German - "Tańczące Eurydyki"',
-      },
-      {
         id: 'german-polona',
         title: 'Anna German – opracowania',
         type: 'publikacja',
@@ -10187,11 +10169,11 @@ Tradycja przetrwała na emigracji, a dawni działacze PPS – Aniela Steinsbergo
     resources: [
       {
         id: 'pps-pkf',
-        title: 'PKF 1948 nr 50: w przededniu zjednoczenia',
+        title: 'W przededniu zjednoczenia – PKF 50/48',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=-nujECQl2nM',
-        source: 'YouTube (Polska Kronika Filmowa)',
-        description: 'Konferencje PPS i PPR wybierające delegatów na kongres zjednoczeniowy',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/5612',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 9 grudnia 1948 roku – przygotowania do połączenia PPS i PPR.',
         year: 1948,
       },
       {
@@ -10264,11 +10246,11 @@ Od 1968 roku pracował w Los Angeles nad muzyką do „Dziecka Rosemary” – j
       },
       {
         id: 'kom-yt',
-        title: 'Krzysztof Komeda – „Lullaby” (Rosemary’s Baby, 1968)',
+        title: 'Krzysztof Komeda – „Lullaby from Rosemary’s Baby”',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=7wRNX94fU94',
-        source: 'YouTube',
-        description: 'Słynna kołysanka z filmu Polańskiego.',
+        url: 'https://www.youtube.com/watch?v=uqg8_d1hX6o',
+        source: 'YouTube (Krzysztof Komeda – Topic)',
+        description: 'Oficjalne nagranie kołysanki z filmu „Dziecko Rosemary” (1968).',
       },
       {
         id: 'komeda-ninateka',
@@ -10574,11 +10556,11 @@ Liberalizacja cen w 1989–1990 roku zlikwidowała kolejki niemal z dnia na dzie
     resources: [
       {
         id: 'kolejki-prl-yt',
-        title: 'Życie na kartki – Polska Kronika Filmowa 1981',
+        title: 'W kolejce... – PKF 10B/81',
         type: 'film',
-        url: 'https://www.youtube.com/watch?v=gYJvMoslXdo',
-        source: 'YouTube',
-        description: 'Fragment Polskiej Kroniki Filmowej z 1981 roku o reglamentacji i zaopatrzeniu sklepów.',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/10872',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z marca 1981 roku o kolejkach w sklepach.',
       },
       {
         id: 'kolejki-polona',
@@ -10735,28 +10717,12 @@ Liberalizacja umożliwiła import zachodnich samochodów. Rynek zalały używane
     trivia: ['Na samochód czekało się latami po zapisaniu na listę.', 'Talon na auto bywał cenniejszy niż samo auto.'],
     resources: [
       {
-        id: 'motoryzacja-prl-pkf',
-        title: 'Polskie Fiaty w naszym życiu – PKF 45/1976',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=Iyv2tXhg1Do',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Polskie Fiaty w naszym życiu – PKF 45/1976”.',
-      },
-      {
         id: 'maluch-polona',
         title: 'Motoryzacja w PRL – Maluch i inne – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/wiki/Fiat_126',
         source: 'Wikipedia',
         description: 'Archiwalne artykuły prasowe i broszury o motoryzacji w Polsce Ludowej',
-      },
-      {
-        id: 'maluch-ninateka',
-        title: 'Kroniki filmowe – motoryzacja',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=OFY0MU9ndGE',
-        source: 'YouTube',
-        description: 'Archiwalne kroniki i reportaże filmowe o samochodach i motoryzacji w PRL – Ciekawostki Maluch Fiat 126P! Sprawdź, czy znasz wszystkie! (FSM, pols',
       },
       {
         id: 'maluch-ph',
@@ -11780,17 +11746,9 @@ Kaczmarski pozostaje jednym z najważniejszych głosów polskiej kultury niezale
         id: 'kacz-yt',
         title: 'Jacek Kaczmarski – „Mury”',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=NLnvMgve3h0',
-        source: 'YouTube',
-        description: 'Pieśń, która stała się hymnem Solidarności.',
-      },
-      {
-        id: 'kacz-1',
-        title: 'Nagrania Jacka Kaczmarskiego',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=-YGS9vhmFS0',
-        source: 'YouTube – nagrania archiwalne',
-        description: 'Archiwalne wykonania pieśni Kaczmarskiego, w tym „Mury” – Jacek Kaczmarski Mury',
+        url: 'https://www.youtube.com/watch?v=qpWh9Xmzu1A',
+        source: 'YouTube (Jacek Kaczmarski – Topic)',
+        description: 'Oficjalne nagranie pieśni z 1978 roku, która stała się hymnem „Solidarności”.',
       },
       {
         id: 'kacz-2',
@@ -11832,14 +11790,6 @@ Gdy latem 1980 roku wybuchły strajki, Szczepańskiego odwołano 11 sierpnia, a 
       'Szefa Radiokomitetu Macieja Szczepańskiego odwołano 11 sierpnia 1980 roku, a potem sądzono za korupcję.',
     ],
     resources: [
-      {
-        id: 'ps-pkf',
-        title: 'Polska Kronika Filmowa – propaganda sukcesu',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=Di6gwqpw1Ak',
-        source: 'YouTube',
-        description: 'Kroniki filmowe jako narzędzie propagandy sukcesu – Propaganda sukcesu za Gierka. Telewizyjna manipulacja w PRL. Anatomia ',
-      },
       {
         id: 'props-1',
         title: 'Kroniki dekady Gierka',
@@ -11897,15 +11847,6 @@ Na początku lat 80. PRL faktycznie stała się niewypłacalna. Stan wojenny i z
 Po 1989 r. demokratyczna Polska odziedziczyła ogromny dług PRL. Dopiero negocjacje z Klubem Paryskim i Londyńskim w pierwszej połowie lat 90. doprowadziły do redukcji znacznej jego części. Zadłużenie pozostaje jednym z najtrwalszych ekonomicznych dziedzictw PRL.`,
     trivia: ['Kredyty zaciągnięte w dekadzie Gierka miały sfinansować skok gospodarczy.', 'Ich spłata stała się jedną z przyczyn kryzysu lat 80.'],
     resources: [
-      {
-        id: 'zad-film',
-        title: 'Dlaczego Polska zbankrutowała za Gierka?',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=MueATrKaerw',
-        source: 'YouTube (film dok.)',
-        description: 'Mechanizm kredytów lat 70. i droga do niewypłacalności',
-        year: 1980,
-      },
       {
         id: 'zad-1',
         title: 'Zadłużenie zagraniczne PRL – artykuł',
@@ -12315,28 +12256,12 @@ Seriale PRL były narzędziem kształtowania postaw, ale jednocześnie autentycz
     trivia: ['Odcinek serialu gromadził przed telewizorem całą rodzinę.', 'Powtórki emitowano przez kolejne dekady, aż weszły do kanonu.'],
     resources: [
       {
-        id: 'ser-1',
-        title: 'Kultowe seriale PRL – nagrania archiwalne (2)',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=TWWZpu-nOGI',
-        source: 'YouTube',
-        description: 'Archiwalne materiały wideo dotyczące tematu – BARBARA i JAN - polski komediowy serial telewizyjny | Wszystkie odcink',
-      },
-      {
         id: 'ser-2',
         title: 'Kultowe seriale PRL – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/w/index.php?search=Kultowe%20seriale%20PRL&fulltext=1&ns0=1',
         source: 'Wikipedia',
         description: 'Opracowania o roli seriali w propagandzie i kulturze.',
-      },
-      {
-        id: 'ser-3',
-        title: 'Kultowe seriale PRL – nagrania archiwalne',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=z9EIGPwcnaE',
-        source: 'YouTube',
-        description: 'Czasopisma i materiały o telewizji PRL – Kultowe polskie  seriale obyczajowe z czasów PRLu',
       },
     ],
     relatedIds: ['telewizja-prl', 'propaganda-prl', 'kultura-prl', 'lwp', 'kino-prl'],
@@ -12375,19 +12300,11 @@ Wraz z przemianami 1989 r. Wyścig Pokoju stracił polityczny kontekst i dawną 
     resources: [
       {
         id: 'wp-pkf',
-        title: 'Polska Kronika Filmowa – Wyścig Pokoju',
+        title: 'XVI Wyścig Pokoju – PKF 22A/63',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=jQ-SLrG3ZoE',
-        source: 'YouTube',
-        description: 'Kroniki filmowe z Wyścigu Pokoju.',
-      },
-      {
-        id: 'wyp-1',
-        title: 'Relacje z Wyścigu Pokoju',
-        type: 'film',
-        url: 'https://www.youtube.com/watch?v=jmxs1-3QcOY',
-        source: 'YouTube',
-        description: 'Archiwalne relacje filmowe z Wyścigu Pokoju – Wyscig Pokoju muzyka, hymn, Peace Race music, Cycling',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/10784',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z maja 1963 roku o Wyścigu Pokoju.',
       },
       {
         id: 'wyp-2',
@@ -12742,11 +12659,11 @@ Festiwal trwa do dziś. Nagrody noszą imiona Anny Jantar (za debiut) i Karola M
     resources: [
       {
         id: 'op-yt',
-        title: 'Maryla Rodowicz – „Małgośka” (Opole 1979)',
+        title: 'Maryla Rodowicz – „Małgośka”',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=JProfbo2DSw',
-        source: 'YouTube',
-        description: 'Archiwalny występ z festiwalu w Opolu.',
+        url: 'https://www.youtube.com/watch?v=n6PKw9WYWhE',
+        source: 'YouTube (Maryla Rodowicz – Topic)',
+        description: 'Oficjalne nagranie przeboju Maryli Rodowicz.',
       },
       {
         id: 'opo-1',
@@ -12755,14 +12672,6 @@ Festiwal trwa do dziś. Nagrody noszą imiona Anny Jantar (za debiut) i Karola M
         url: 'https://www.youtube.com/results?search_query=festiwal+Opole',
         source: 'YouTube',
         description: 'Archiwalne transmisje i występy z festiwalu w Opolu.',
-      },
-      {
-        id: 'opo-2',
-        title: 'Nagrania opolskie',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=JWu54L6oozI',
-        source: 'YouTube',
-        description: 'Materiały audiowizualne z festiwalu – Opole \'63 | l Krajowy Festiwal Polskiej Piosenki | Migawki z festiwalu',
       },
       {
         id: 'opo-3',
@@ -12811,19 +12720,11 @@ Piosenki Starszych Panów wciąż nagrywają kolejni wykonawcy – od Grzegorza 
     resources: [
       {
         id: 'ksp-yt',
-        title: 'Kabaret Starszych Panów – „Addio pomidory”',
+        title: 'Kabaret Starszych Panów, Kalina Jędrusik – „W kawiarence Sułtan”',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=g2W3eupNqVA',
-        source: 'YouTube',
-        description: 'Wiesław Michnikowski w klasyku Przybory i Wasowskiego.',
-      },
-      {
-        id: 'ksp-1',
-        title: 'Nagrania Kabaretu – TVP VOD',
-        type: 'film',
-        url: 'https://www.youtube.com/watch?v=jxVCXzyTNuc',
-        source: 'YouTube',
-        description: 'Archiwalne odcinki Kabaretu Starszych Panów – Kabaret Starszych Panów - Wieczór X - Niespodziewany Koniec Lata [HQ]',
+        url: 'https://www.youtube.com/watch?v=a5eNTdQdeBU',
+        source: 'Polskie Nagrania (YouTube)',
+        description: 'Oficjalne nagranie piosenki Przybory i Wasowskiego z katalogu Polskich Nagrań.',
       },
       {
         id: 'ksp-2',
@@ -12885,14 +12786,6 @@ Teatr Telewizji ukształtował gust kulturalny pokoleń Polaków i zachował zap
         description: 'Archiwalne inscenizacje Teatru Telewizji.',
       },
       {
-        id: 'ttv-2',
-        title: 'Teatr Telewizji',
-        type: 'film',
-        url: 'https://www.youtube.com/watch?v=uJL-guGBl_0',
-        source: 'YouTube',
-        description: 'Nagrania spektakli telewizyjnych – KŁOPOTY TO MOJA SPECJALNOŚĆ - polski spektakl Teatru Telewizji z 1977',
-      },
-      {
         id: 'ttv-3',
         title: 'Teatr Telewizji – opracowania',
         type: 'publikacja',
@@ -12950,14 +12843,6 @@ Uroczystości kościelne gromadziły nieporównanie więcej ludzi niż państwow
         description: 'Materiały o obchodach i konflikcie państwo–Kościół.',
         year: 1966,
       },
-      {
-        id: 'mil-3',
-        title: 'Kroniki obchodów',
-        type: 'film',
-        url: 'https://www.youtube.com/watch?v=WPBNnQIEA44',
-        source: 'YouTube',
-        description: 'Materiały filmowe z obchodów milenijnych – CAŁA DEFILADA TYSIĄCLECIA PAŃSTWA POLSKIEGO/MILLENNIUM OF THE POLAND -',
-      },
     ],
     relatedIds: ['wyszynski', 'kosciol-prl', 'gomulka', 'pielgrzymki-jp2', 'propaganda-prl', 'sluby-jasnogorskie'],
   },
@@ -13003,14 +12888,6 @@ Jarocin stał się legendą i symbolem pokolenia. Po 1989 roku festiwal reaktywo
         url: 'https://pl.wikipedia.org/wiki/Muzyka_M%C5%82odej_Generacji',
         source: 'Wikipedia',
         description: 'Ruch rockowy końca lat 70., z którego wyrósł jarociński festiwal.',
-      },
-      {
-        id: 'jar-1',
-        title: 'Jarocin – festiwal (nagrania)',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=2R1yeSGfrgw',
-        source: 'YouTube',
-        description: 'Archiwalne nagrania z festiwalu jarocińskiego – Jarocin Festiwal 1980 – Jarocin Festiwal 1980',
       },
       {
         id: 'jar-2',
@@ -13139,11 +13016,11 @@ W 1990 roku muzycy pogodzili się i wystąpili w Opolu. Republika działała do 
       },
       {
         id: 'rep-1',
-        title: 'Republika – koncerty i teledyski',
+        title: 'Republika – „Kombinat”',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=bJvdTA6FAd4',
-        source: 'YouTube',
-        description: 'Nagrania zespołu Republika – Z filmu "KONCERT" - Republika - Kombinat',
+        url: 'https://www.youtube.com/watch?v=i8NINDlQ6KY',
+        source: 'MTJ Wytwórnia Muzyczna (YouTube)',
+        description: 'Oficjalne nagranie przeboju Republiki z 1983 roku.',
       },
       {
         id: 'rep-2',
@@ -13210,14 +13087,6 @@ Kora (1951–2018) była jedną z najbardziej charyzmatycznych postaci polskiej 
         url: 'https://www.youtube.com/watch?v=ZIl4SrO3Lu8',
         source: 'YouTube',
         description: 'Jeden z największych przebojów zespołu Kory.',
-      },
-      {
-        id: 'maa-1',
-        title: 'Maanam – nagrania koncertowe',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=BIEaFZbcMDw',
-        source: 'YouTube',
-        description: 'Występy i teledyski zespołu Maanam – Maanam - Boskie Buenos (KFPP Opole 1980)',
       },
       {
         id: 'maa-2',
@@ -13346,14 +13215,6 @@ Punkowcy, ze względu na wygląd i postawę, byli szczególnie narażeni na zatr
         description: 'Punkowy protest przeciw milicji i systemowi.',
       },
       {
-        id: 'punk-1',
-        title: 'Polski punk – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=MKzUndKF5Pc',
-        source: 'YouTube',
-        description: 'Nagrania polskich zespołów punkowych – KRYZYS,BRYGADA KRYZYS,DEZERTER,SIEKIERA,BRAK I INNI',
-      },
-      {
         id: 'punk-2',
         title: 'Punk w PRL – opracowania',
         type: 'publikacja',
@@ -13402,14 +13263,6 @@ Lista przetrwała przemiany ustrojowe i przez niemal cztery dekady pozostawała 
       'Słuchacze głosowali, wysyłając kartki pocztowe.',
     ],
     resources: [
-      {
-        id: 'lpt-1',
-        title: 'Lista Przebojów Trójki – archiwalia',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=SKD3-Iv-tGk',
-        source: 'YouTube',
-        description: 'Archiwalne nagrania audycji – 142 lista przebojów trójki | 05.01.1985 | Marek Niedźwiecki – 142 lista przebojów trójki | 05.01.1985 | Marek Niedźwiecki',
-      },
       {
         id: 'lpt-3',
         title: 'Radio w PRL – materiały',
@@ -13466,11 +13319,11 @@ Perfect wrócił po 1989 roku i zagrał serię koncertów stadionowych, a jego r
       },
       {
         id: 'perf-1',
-        title: 'Perfect – koncerty i teledyski',
+        title: 'Perfect – „Nie płacz Ewka”',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=qZsGIjXwMmU',
-        source: 'YouTube',
-        description: 'Nagrania zespołu Perfect – Perfect Nie płacz Ewka- koncert Lubawa',
+        url: 'https://www.youtube.com/watch?v=G_oKsG8KRZI',
+        source: 'Agencja Muzyczna Polskiego Radia (YouTube)',
+        description: 'Oficjalne nagranie radiowe przeboju Perfectu z 1981 roku.',
       },
       {
         id: 'perf-2',
@@ -13550,19 +13403,11 @@ W latach 1991–1993 trio ponownie koncertowało razem. Gintrowski zmarł w 2012
       },
       {
         id: 'gin-yt',
-        title: 'Kaczmarski / Gintrowski / Łapiński – „Epitafium dla Włodzimierza Wysockiego”',
+        title: 'Przemysław Gintrowski – „Autoportret Witkacego”',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=6D6xHuZilKw',
-        source: 'YouTube',
-        description: 'Występ słynnego tria bardów.',
-      },
-      {
-        id: 'gin-1',
-        title: 'Gintrowski – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=UGekjULOTXg',
-        source: 'YouTube',
-        description: 'Nagrania pieśni i koncertów – Gintrowski, Łapiński- "Mury- Gajka" (Kraków\'85) (CAŁY KONCERT)',
+        url: 'https://www.youtube.com/watch?v=Zy55EhomGig',
+        source: 'YouTube (Przemysław Gintrowski – Topic)',
+        description: 'Oficjalne nagranie pieśni Gintrowskiego do słów Jacka Kaczmarskiego.',
       },
       {
         id: 'gin-2',
@@ -13700,11 +13545,11 @@ Czerwone Gitary są symbolem melodyjnego big-beatu lat 60. i 70. i jednym z najl
       },
       {
         id: 'cg-2',
-        title: 'Czerwone Gitary w Ninatece',
+        title: 'Czerwone Gitary – „Biały krzyż”',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=O66Bx7vPeYQ',
-        source: 'YouTube',
-        description: 'Archiwalne materiały muzyczne – Opole 79   Czerwone Gitary',
+        url: 'https://www.youtube.com/watch?v=ay77vuSEYJs',
+        source: 'Polskie Nagrania (YouTube)',
+        description: 'Oficjalne nagranie z katalogu Polskich Nagrań.',
       },
       {
         id: 'cg-3',
@@ -13843,11 +13688,11 @@ Koncertowała w całym bloku wschodnim, gdzie była gwiazdą porównywalnej rang
       },
       {
         id: 'mr-2',
-        title: 'Maryla Rodowicz w Ninatece',
+        title: 'Maryla Rodowicz – „Małgośka” (Sopot 1973)',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=zsiRt7Seq50',
-        source: 'YouTube',
-        description: 'Archiwalne materiały – Maryla Rodowicz- Ale to już było',
+        url: 'https://www.youtube.com/watch?v=rmRzv6lzzXY',
+        source: 'Archiwum twórczości Maryli Rodowicz (YouTube)',
+        description: 'Archiwalny występ Maryli Rodowicz z festiwalu w Sopocie w 1973 roku.',
       },
       {
         id: 'mr-3',
@@ -13983,11 +13828,11 @@ TSA otworzyła drogę kolejnym zespołom metalowym w Polsce i pozostaje klasyką
       },
       {
         id: 'tsa-1',
-        title: 'TSA – nagrania',
+        title: 'TSA – „51”',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=bEMyyf87k2s',
-        source: 'YouTube',
-        description: 'Występy i teledyski zespołu TSA – TSA - Jodyna (TSA w Trójce - koncert akustyczny) Andrzej Nowak, Marek ',
+        url: 'https://www.youtube.com/watch?v=1T3XR8CIfLM',
+        source: 'MTJ Wytwórnia Muzyczna (YouTube)',
+        description: 'Oficjalne nagranie jednego z najbardziej znanych utworów TSA.',
       },
       {
         id: 'tsa-2',
@@ -14122,19 +13967,11 @@ Grupa działała do 2014 roku i zagrała pożegnalną trasę na stadionach. Nale
     resources: [
       {
         id: 'bs-yt',
-        title: 'Budka Suflera – „Jolka, Jolka pamiętasz…”',
+        title: 'Budka Suflera – „Jolka, Jolka pamiętasz...” (Spodek 1999)',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=Z3Nxamh3-t0',
-        source: 'YouTube',
-        description: 'Kultowa ballada rockowa z 1982 r.',
-      },
-      {
-        id: 'bs-1',
-        title: 'Budka Suflera – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=-Yryq4DytYY',
-        source: 'YouTube',
-        description: 'Teledyski i występy zespołu – Budka Suflera - Cień Wielkiej Góry',
+        url: 'https://www.youtube.com/watch?v=BTOkdxo9-vI',
+        source: 'Budka Suflera (YouTube)',
+        description: 'Koncertowe wykonanie przeboju z 1982 roku z oficjalnego kanału zespołu.',
       },
       {
         id: 'bs-2',
@@ -14204,19 +14041,11 @@ Breakout oficjalnie istniał do 1982 roku, a Nalepa grał dalej solo aż do śmi
       },
       {
         id: 'br-1',
-        title: 'Breakout – nagrania',
+        title: 'Tadeusz Nalepa – „Modlitwa” (live 1986)',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=zKUHnxyhxlI',
-        source: 'YouTube',
-        description: 'Nagrania zespołu Breakout – MIRA KUBASINSKA . BREAKOUT .TADEUSZ NALEPA .1971 POLAND BLUES',
-      },
-      {
-        id: 'br-2',
-        title: 'Breakout w Ninatece',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=BGr8SxiN3K8',
-        source: 'YouTube',
-        description: 'Archiwalne materiały muzyczne – Modlitwa - Tadeusz Nalepa & Breakout (Sopot 1992)',
+        url: 'https://www.youtube.com/watch?v=JA7IlSVxcRk',
+        source: 'Polskie Nagrania (YouTube)',
+        description: 'Oficjalne nagranie lidera Breakoutu z katalogu Polskich Nagrań.',
       },
       {
         id: 'br-3',
@@ -14267,14 +14096,6 @@ W kulturze pod nadzorem cenzury wiersz śpiewany w klubie studenckim pozwalał m
     ],
     resources: [
       {
-        id: 'ps-yt2',
-        title: 'Ewa Demarczyk – „Grande Valse Brillante” (TVP 1971)',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=6kdEmhCAXfo',
-        source: 'YouTube',
-        description: 'Demarczyk śpiewa Tuwima w muzyce Koniecznego.',
-      },
-      {
         id: 'ps-yt1',
         title: 'Marek Grechuta – „Dni, których nie znamy”',
         type: 'nagranie',
@@ -14284,11 +14105,11 @@ W kulturze pod nadzorem cenzury wiersz śpiewany w klubie studenckim pozwalał m
       },
       {
         id: 'ps-1',
-        title: 'Poezja śpiewana – nagrania',
+        title: 'Marek Grechuta – „Wesele”',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=QPFPsHr1QY8',
-        source: 'YouTube',
-        description: 'Nagrania czołowych wykonawców – Marek Grechuta | Klasyczne Utwory I Poezja Śpiewana Pełna Wspomnień',
+        url: 'https://www.youtube.com/watch?v=5UboDKer6p8',
+        source: 'Polskie Nagrania (YouTube)',
+        description: 'Oficjalne nagranie Marka Grechuty z katalogu Polskich Nagrań.',
       },
       {
         id: 'ps-2',
@@ -14416,14 +14237,6 @@ Zginął 24 października 1989 roku na wysokości ok. 8300 m, próbując przejś
         description: 'Materiały filmowe o himalaiście.',
       },
       {
-        id: 'kuk-2',
-        title: 'Kukuczka – materiały',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=51nCFhLyk8Y',
-        source: 'YouTube',
-        description: 'Artykuły o wspinaczu – Zerwana lina - Jerzy Kukuczka (seria Himalaiści)',
-      },
-      {
         id: 'kuk-3',
         title: 'Himalaizm w Ninatece',
         type: 'nagranie',
@@ -14469,14 +14282,6 @@ W ostatnich latach realizowała projekt zdobycia kolejnych ośmiotysięczników 
 Organizowała wyprawy wyłącznie kobiece, przełamując przekonanie, że himalaizm wysokogórski jest sportem męskim. Pozostaje ikoną polskiego himalaizmu, obok Kukuczki i Wielickiego, i jedną z najbardziej rozpoznawalnych postaci światowego alpinizmu.`,
     trivia: ['Jako pierwsza Europejka stanęła na szczycie Everestu.', 'Zaginęła w 1992 roku podczas wyprawy na Kanczendzongę.'],
     resources: [
-      {
-        id: 'wr-1',
-        title: 'Wanda Rutkiewicz – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=i_oOkrXgvcM',
-        source: 'YouTube',
-        description: 'Materiały filmowe o himalaistce – Wanda Rutkiewicz (Mount Everest \'78 - K2 \'86)',
-      },
       {
         id: 'wr-2',
         title: 'Rutkiewicz – materiały',
@@ -14671,14 +14476,6 @@ W 2011 roku serial przeszedł cyfrową rekonstrukcję, a w 2012 roku powstała k
         description: 'Informacje o serialu i obsadzie.',
       },
       {
-        id: 'sww-2',
-        title: 'Serial – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=oGKo8nfItVE',
-        source: 'YouTube',
-        description: 'Fragmenty i materiały o serialu – STAWKA WIĘKSZA NIŻ ŻYCIE odcinek 4 | Hans Kloss | kultowe polskie seri',
-      },
-      {
         id: 'stawka-wieksza-niz-zycie-wiki2',
         title: 'Stawka większa niż życie – artykuł',
         type: 'publikacja',
@@ -14725,14 +14522,6 @@ Dziś ocenia się go ambiwalentnie – jako sprawnie zrobiony serial przygodowy 
         description: 'Informacje o serialu i obsadzie.',
       },
       {
-        id: 'cp-2',
-        title: 'Serial – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=35p0MmwUcaU',
-        source: 'YouTube',
-        description: 'Fragmenty i materiały – Czterej pancerni i pies - historie - Szarik pies z pompą',
-      },
-      {
         id: 'cp-3',
         title: 'Czterej pancerni i pies – opracowania',
         type: 'publikacja',
@@ -14777,28 +14566,12 @@ Najbardziej znaną formą protestu był bojkot głównego wydania. Od lutego 198
     ],
     resources: [
       {
-        id: 'dtv-1',
-        title: 'Dziennik Telewizyjny – archiwalia',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=jPt74tmpjL0',
-        source: 'YouTube',
-        description: 'Archiwalne wydania programu – Dziennik Telewizyjny - Stan Wojenny 20.12.81 cz.1',
-      },
-      {
         id: 'dtv-2',
         title: 'Dziennik Telewizyjny – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/wiki/Dziennik_Telewizyjny_(program_informacyjny)',
         source: 'Wikipedia',
         description: 'Artykuły o propagandzie telewizyjnej.',
-      },
-      {
-        id: 'dtv-3',
-        title: 'Media PRL w Ninatece',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=Ew_dbpQNdXU',
-        source: 'YouTube',
-        description: 'Materiały archiwalne – Dziennik Telewizyjny-przedświąteczne zakupy,1984',
       },
     ],
     relatedIds: ['telewizja-prl', 'propaganda-prl', 'tvp-prl', 'stan-wojenny'],
@@ -14834,14 +14607,6 @@ Karpińskiemu odmawiano wyjazdów, a w 1978 roku wyjechał pod Olsztyn i zajął
       'Po odsunięciu od pracy zajął się pod Olsztynem hodowlą drobiu i świń.',
     ],
     resources: [
-      {
-        id: 'jk-1',
-        title: 'Jacek Karpiński i K-202',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=M4WFRknLLzw',
-        source: 'YouTube',
-        description: 'Materiały o konstruktorze i komputerze – Jacek KARPIŃSKI - polski GENIUSZ, który mógł zmienić historię komputer',
-      },
       {
         id: 'jk-2',
         title: 'Karpiński – materiały',
@@ -14892,11 +14657,11 @@ Kwestia alkoholu pokazuje bezradność systemu wobec problemów codzienności. M
     resources: [
       {
         id: 'alkohol-prl-pkf',
-        title: 'Alkoholizm – PKF 40a/1979',
+        title: 'Spójrz na siebie, pijaku! – PKF 27/52',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=EaXi4YsjsaE',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Alkoholizm – PKF 40a/1979”.',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/6697',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z czerwca 1952 roku – propagandowy materiał o walce z pijaństwem.',
       },
       {
         id: 'alk-1',
@@ -14966,19 +14731,11 @@ Jego utwory wykorzystali m.in. William Friedkin w „Egzorcyście”, Stanley Ku
       },
       {
         id: 'pen-yt',
-        title: 'Penderecki – „Tren – Ofiarom Hiroszimy”',
+        title: 'Krzysztof Penderecki – „Anaklasis” (1960)',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=RAoMR9EqnSQ',
-        source: 'YouTube',
-        description: 'Awangardowe dzieło na 52 instrumenty smyczkowe (1960).',
-      },
-      {
-        id: 'pen-1',
-        title: 'Penderecki – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=jaO298NGOL0',
-        source: 'YouTube',
-        description: 'Nagrania dzieł kompozytora – Krzysztof Penderecki-Tren Ofiarom Hiroszimy',
+        url: 'https://www.youtube.com/watch?v=DUQiu4xa1lg',
+        source: 'YouTube (Krzysztof Penderecki – Topic)',
+        description: 'Oficjalne nagranie jednego z wczesnych awangardowych utworów Pendereckiego.',
       },
       {
         id: 'pen-2',
@@ -15157,14 +14914,6 @@ Po 1989 roku był ambasadorem w Austrii i dwukrotnie ministrem spraw zagraniczny
         url: 'https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Bartoszewski',
         source: 'Wikipedia',
         description: 'Artykuły i materiały o działaczu.',
-      },
-      {
-        id: 'bar-2',
-        title: 'Bartoszewski – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=2szDxiOpa88',
-        source: 'YouTube',
-        description: 'Wystąpienia i wywiady – Prof. Władysław Bartoszewski we wspomnieniach przyjaciół',
       },
       {
         id: 'bar-3',
@@ -15373,14 +15122,6 @@ Postać Siwca przywrócił zbiorowej pamięci dopiero film Macieja Drygasa „Us
         source: 'Wikipedia',
         description: 'Artykuły o proteście i jego pamięci.',
       },
-      {
-        id: 'siw-2',
-        title: 'Siwiec – dokument',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=CLSk7bHXSww',
-        source: 'YouTube',
-        description: 'Materiały filmowe o wydarzeniu – Usłyszcie mój krzyk 1991 / Ryszard Siwiec',
-      },
     ],
     relatedIds: ['praga-1968', 'represje-polityczne', 'uklad-warszawski'],
   },
@@ -15562,14 +15303,6 @@ Milicja zatrzymująca ludzi w czapeczkach krasnoludków wyglądała groteskowo, 
         url: 'https://pl.wikipedia.org/wiki/Pomara%C5%84czowa_Alternatywa',
         source: 'Wikipedia',
         description: 'Artykuły o ruchu happeningowym.',
-      },
-      {
-        id: 'pa-2',
-        title: 'Happeningi – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=GJMmAvYw2Wk',
-        source: 'YouTube',
-        description: 'Materiały filmowe o akcjach – Pomarańczowa alternatywa - na pohybel komunie',
       },
       {
         id: 'pomaranczowa-alternatywa-ipn2',
@@ -15789,36 +15522,12 @@ Kabaret był pod stałą obserwacją SB, występy odwoływano, a sale odmawiały
     trivia: ['Kabaret Jana Pietrzaka słynął z ostrej satyry politycznej.', '„Żeby Polska była Polską” stała się pieśnią opozycji.'],
     resources: [
       {
-        id: 'pe-yt',
-        title: 'Jan Pietrzak – „Żeby Polska była Polską”',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=HO46vMAUALc',
-        source: 'YouTube',
-        description: 'Pieśń, która stała się nieformalnym hymnem opozycji.',
-      },
-      {
-        id: 'pe-1',
-        title: 'Kabaret Pod Egidą – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=wFAcv0CCLZo',
-        source: 'YouTube',
-        description: 'Nagrania programów kabaretowych – Kabaret pod Egidą 1984   06   Jasne Niebo   Jan Pietrzak',
-      },
-      {
         id: 'pe-2',
         title: 'Kabaret „Pod Egidą” – opracowania',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/wiki/Pod_Egid%C4%85',
         source: 'Wikipedia',
         description: 'Artykuły o kabarecie i cenzurze.',
-      },
-      {
-        id: 'pe-3',
-        title: 'Kabaret w Ninatece',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=Y2lX5J-8L9o',
-        source: 'YouTube',
-        description: 'Archiwalne materiały – Kabaret Pod Egidą - Szachy  personalne',
       },
     ],
     relatedIds: ['kabaret-prl', 'jacek-kaczmarski', 'cenzura-prl'],
@@ -15854,14 +15563,6 @@ W 1984 roku, po stanie wojennym, kabaret zmienił nazwę na Teyatr, a jego popul
       'Twórczość współzałożyciela Krzysztofa Jaślara cenzura w 1974 roku zakazała w całości.',
     ],
     resources: [
-      {
-        id: 'tey-1',
-        title: 'Kabaret Tey – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=Iq6BaDtkH6o',
-        source: 'YouTube',
-        description: 'Nagrania programów kabaretu – Kabaret TEY - Smoleń i Laskowik - Bieda',
-      },
       {
         id: 'tey-2',
         title: 'Kabaret w Ninatece',
@@ -15917,36 +15618,12 @@ Rozebrany w 2008 roku, ustąpił miejsca Stadionowi Narodowemu, otwartemu w 2012
     trivia: ['Zbudowano go z gruzów zniszczonej Warszawy.', 'To tu w 1968 roku samospalił się Ryszard Siwiec.'],
     resources: [
       {
-        id: 'sd-pkf',
-        title: 'Polska Kronika Filmowa – Stadion Dziesięciolecia (1955)',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=9CSWnC5MvmQ',
-        source: 'YouTube',
-        description: 'Kronika filmowa z 1955 roku związana z otwarciem stadionu.',
-      },
-      {
-        id: 'sd-1',
-        title: 'Stadion Dziesięciolecia – archiwalia',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=7ObelY6tvzU',
-        source: 'YouTube',
-        description: 'Materiały filmowe o stadionie – CZAR PRL - STADION DZIESIĘCIOLECIA',
-      },
-      {
         id: 'sd-2',
         title: 'Stadion – fotografie',
         type: 'publikacja',
         url: 'https://pl.wikipedia.org/wiki/Stadion_Dziesi%C4%99ciolecia',
         source: 'Wikipedia',
         description: 'Hasła i opracowania encyklopedyczne na ten temat.',
-      },
-      {
-        id: 'sd-3',
-        title: 'Architektura PRL – materiały',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=utZFJ5LLa2I',
-        source: 'YouTube',
-        description: 'Artykuły o obiekcie – Stadion Dziesieciolecia 1998 Warszawa',
       },
     ],
     relatedIds: ['sport-prl', 'ryszard-siwiec', 'palac-kultury'],
@@ -15990,14 +15667,6 @@ Prawo dewizowe z 15 marca 1989 roku zalegalizowało kantory. Część cinkciarzy
         url: 'https://pl.wikipedia.org/w/index.php?search=Czarny%20rynek%20i%20waluta&fulltext=1&ns0=1',
         source: 'Wikipedia',
         description: 'Artykuły o drugiej gospodarce.',
-      },
-      {
-        id: 'cr-2',
-        title: 'Gospodarka niedoboru – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=5CGFC6taf5k',
-        source: 'YouTube',
-        description: 'Materiały o nielegalnym handlu – ZŁOTO I DOLARY NA NIEPEWNE CZASY CZYLI WARSZAWSKI CZARNY RYNEK W PRL c',
       },
       {
         id: 'cr-3',
@@ -16255,14 +15924,6 @@ Był posłem na Sejm, ale po wprowadzeniu stanu wojennego zrzekł się mandatu w
         description: 'Filmografia i informacje o aktorze.',
       },
       {
-        id: 'hol-2',
-        title: 'Holoubek – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=BZQFgDw4GO8',
-        source: 'YouTube',
-        description: 'Fragmenty ról i materiały – Maciej Stuhr - Gustaw Holoubek',
-      },
-      {
         id: 'holoubek-gustaw-nina',
         title: 'Gustaw Holoubek. Wieczór wspomnień',
         type: 'nagranie',
@@ -16390,25 +16051,9 @@ Napisał ponad dwa tysiące tekstów, w tym dla Michaja Burano, Ireny Santor, Ha
         id: 'mly-yt',
         title: 'Wojciech Młynarski – „Róbmy swoje”',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=2WrL1l_gABI',
-        source: 'YouTube',
-        description: 'Przesłanie wytrwałości – hymn schyłku PRL.',
-      },
-      {
-        id: 'mly-1',
-        title: 'Wojciech Młynarski – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=ffKlyghEok4',
-        source: 'YouTube',
-        description: 'Wykonania piosenek artysty – Róbmy swoje, Wojciech Młynarski',
-      },
-      {
-        id: 'mly-2',
-        title: 'Młynarski w Ninatece',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=RRfiddT5-aM',
-        source: 'YouTube',
-        description: 'Archiwalne materiały – Wojciech Młynarski, Jesteśmy na wczasach',
+        url: 'https://www.youtube.com/watch?v=Bh1KRai7ksQ',
+        source: 'YouTube (Wojciech Młynarski – Topic)',
+        description: 'Oficjalne nagranie piosenki Młynarskiego.',
       },
       {
         id: 'mly-3',
@@ -16528,11 +16173,11 @@ Pochody pierwszomajowe pozostają symbolem propagandowej obrzędowości PRL – 
     resources: [
       {
         id: 'pochod-1-maja-pkf',
-        title: 'Pochód pierwszomajowy w stolicy – PKF 18B/1958',
+        title: '1 Maj 1950 – PKF 19/50',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=SkbeGUiuGO8',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Pochód pierwszomajowy w stolicy – PKF 18B/1958”.',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/6255',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z maja 1950 roku o pochodzie pierwszomajowym.',
       },
       {
         id: 'm1-pkf',
@@ -16597,28 +16242,12 @@ Z okazji święta ogłaszano amnestie, obejmujące niekiedy więźniów politycz
     trivia: ['Było głównym świętem państwowym PRL.', 'Z tej okazji uroczyście oddawano do użytku nowe inwestycje.'],
     resources: [
       {
-        id: 'swieto-22-lipca-pkf',
-        title: 'Centralne obchody Święta 22 Lipca w Łodzi – PKF 30B/1958',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=X-gb2BQNrI4',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Centralne obchody Święta 22 Lipca w Łodzi – PKF 30B/1958”.',
-      },
-      {
         id: 's22-pkf',
         title: 'Polska Kronika Filmowa – obchody 22 lipca',
         type: 'nagranie',
         url: 'https://www.youtube.com/results?search_query=Polska+Kronika+Filmowa+22+lipca+defilada+obchody',
         source: 'YouTube',
         description: 'Kroniki filmowe z państwowych obchodów 22 lipca.',
-      },
-      {
-        id: 'lip-1',
-        title: '22 Lipca – archiwalia',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=jOot4Dlydb4',
-        source: 'YouTube',
-        description: 'Archiwalne nagrania uroczystości – Defilada Tysiąclecia - Warszawa 22 lipca 1966 r.',
       },
       {
         id: 'lip-2',
@@ -16664,14 +16293,6 @@ Od lat 70. Grotowski porzucił przedstawienia na rzecz parateatru i „teatru ź
 „Ku teatrowi ubogiemu” przetłumaczono na kilkadziesiąt języków i wykłada się je w szkołach teatralnych na całym świecie. Grotowski uczynił Polskę jednym z centrów teatralnej awangardy XX wieku – z Wrocławia, w państwie z zamkniętymi granicami.`,
     trivia: ['Jerzy Grotowski stworzył koncepcję „teatru ubogiego”.', 'Jego Teatr Laboratorium zdobył światową sławę.'],
     resources: [
-      {
-        id: 'gro-1',
-        title: 'Teatr Grotowskiego – materiały',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=pbmx_Kx_nio',
-        source: 'YouTube',
-        description: 'Artykuły o teatrze i jego twórcy – Jerzy Grotowski i Teatr Laboratorium – Jerzy Grotowski i Teatr Laboratorium',
-      },
       {
         id: 'gro-3',
         title: 'Teatr w Ninatece',
@@ -16726,11 +16347,11 @@ Mecz żużlowy był wydarzeniem towarzyskim: wyjściem całych rodzin, okazją d
     resources: [
       {
         id: 'zuzel-prl-pkf',
-        title: 'Żużel w kronice filmowej',
+        title: 'Kapała mistrzem Polski – PKF 44/53',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=ykrCqXVRSlI',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Żużel w kronice filmowej”.',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/7766',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z października 1953 roku o mistrzostwach Polski na żużlu.',
       },
       {
         id: 'zuz-pkf',
@@ -16991,11 +16612,11 @@ To jeden z najlepszych przykładów tego, jak PRL potrafił wykorzystać autenty
     resources: [
       {
         id: 'szkoly-tysiaclecia-pkf',
-        title: 'Gomułka otwiera pierwszą Szkołę Tysiąclecia – PKF 31B/1959',
+        title: '1000 szkół – PKF 21A/59',
         type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=uc5uK1JHCLI',
-        source: 'Polska Kronika Filmowa (YouTube)',
-        description: 'Archiwalne wydanie Polskiej Kroniki Filmowej „Gomułka otwiera pierwszą Szkołę Tysiąclecia – PKF 31B/1959”.',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/11693',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z maja 1959 roku o akcji budowy szkół na Tysiąclecie.',
       },
       {
         id: 'szt-pkf',
@@ -17069,14 +16690,6 @@ W krótkiej perspektywie orędzie kosztowało Kościół falę ataków i nieufno
         url: 'https://pl.wikipedia.org/wiki/Or%C4%99dzie_biskup%C3%B3w_polskich_do_biskup%C3%B3w_niemieckich',
         source: 'Wikipedia',
         description: 'Artykuły o liście i jego skutkach.',
-      },
-      {
-        id: 'ob-2',
-        title: 'Orędzie – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=Kzb35PwkKgk',
-        source: 'YouTube',
-        description: 'Materiały filmowe i dokumenty – List biskupów polskich do biskupów niemieckich: Przebaczamy i prosimy ',
       },
       {
         id: 'ob-3',
@@ -17381,22 +16994,6 @@ Pracował także za granicą, kręcąc we Włoszech, Niemczech i Francji, i prze
         url: 'https://filmpolski.pl/fp/index.php?szukaj=Krzysztof%20Zanussi',
         source: 'FilmPolski.pl',
         description: 'Filmografia i informacje o reżyserze.',
-      },
-      {
-        id: 'zan-2',
-        title: 'Zanussi – nagrania',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=UoAuW6PKGII',
-        source: 'YouTube',
-        description: 'Fragmenty filmów i materiały – 1976 Barwy ochronne - Zanussi (Zapasiewicz)',
-      },
-      {
-        id: 'zan-3',
-        title: 'Kino w Ninatece',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=TQ0ZU7iQuI8',
-        source: 'YouTube',
-        description: 'Archiwalne materiały filmowe – Imperative (1982) directed by Krzysztof Zanussi',
       },
       {
         id: 'zanussi-krzysztof-nina',
@@ -23176,14 +22773,6 @@ W latach 1986–2000 prowadziła własny teatr w Krakowie, potem wycofała się 
         description: 'Opracowanie biograficzne z omówieniem twórczości.',
       },
       {
-        id: 'de-yt',
-        title: 'Ewa Demarczyk – „Grande Valse Brillante” (TVP 1971)',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=6kdEmhCAXfo',
-        source: 'YouTube',
-        description: 'Demarczyk śpiewa Tuwima w muzyce Koniecznego.',
-      },
-      {
         id: 'de-1',
         title: 'Ewa Demarczyk – nagrania',
         type: 'nagranie',
@@ -28426,14 +28015,6 @@ Film zdobył Grand Prix Festiwalu Polskich Filmów Fabularnych w Gdańsku, nagro
         url: 'https://www.youtube.com/watch?v=DtX-CBAVnOY',
         source: 'YouTube',
         description: 'Materiał o filmie Zanussiego.',
-      },
-      {
-        id: 'bo-1',
-        title: '„Barwy ochronne” – sceny',
-        type: 'nagranie',
-        url: 'https://www.youtube.com/watch?v=UoAuW6PKGII',
-        source: 'YouTube',
-        description: 'Sceny i materiały o filmie – 1976 Barwy ochronne - Zanussi (Zapasiewicz)',
       },
       {
         id: 'bo-2',
