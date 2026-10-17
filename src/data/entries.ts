@@ -9374,6 +9374,14 @@ Górecki zasłynął przede wszystkim "III Symfonią" ("Symfonia pieśni żałos
     trivia: ['Warszawska Jesień była oknem na muzykę współczesną Zachodu.', 'Polscy kompozytorzy zdobyli w tym czasie światową renomę.'],
     resources: [
       {
+        id: 'muzyka-powazna-prl-yt-m8',
+        title: 'Penderecki, Lutosławski, Górecki – Orkiestra Filharmonii Narodowej, dyr. Andrzej Boreyko',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=erRZXVRpzj8',
+        source: 'Filharmonia Narodowa (YouTube)',
+        description: 'Koncert z utworami trzech najważniejszych polskich kompozytorów XX wieku.',
+      },
+      {
         id: 'muz-pow-1',
         title: 'Nagrania archiwalne – Polskie Radio i muzyka poważna',
         type: 'nagranie',
@@ -13833,6 +13841,14 @@ W latach 1981–1983, w czasie kryzysu i stanu wojennego, festiwal się nie odby
     ],
     resources: [
       {
+        id: 'sopot-festiwal-yt-m8',
+        title: 'Od Sopotu do Opola. Muzyka w PRL',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=N3sHyzVINPM',
+        source: 'Muzeum Historii Polski (YouTube)',
+        description: 'Materiał Muzeum Historii Polski o festiwalach piosenki w PRL.',
+      },
+      {
         id: 'sop-1',
         title: 'Festiwal w Sopocie – archiwalia',
         type: 'nagranie',
@@ -15777,6 +15793,14 @@ Kabaret był pod stałą obserwacją SB, występy odwoływano, a sale odmawiały
 „Pod Egidą” pokazał, że w PRL dało się mówić rzeczy zakazane – pod warunkiem, że mówiło się je żartem i przy pełnej sali. Obok kabaretu Tey i programów Olgi Lipińskiej współtworzył złoty okres polskiej satyry.`,
     trivia: ['Kabaret Jana Pietrzaka słynął z ostrej satyry politycznej.', '„Żeby Polska była Polską” stała się pieśnią opozycji.'],
     resources: [
+      {
+        id: 'kabaret-pod-egida-yt-m8',
+        title: 'Jan Pietrzak – „Żeby Polska była Polską”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=jLsQmEpM498',
+        source: 'YouTube (Jan Pietrzak – Topic)',
+        description: 'Oficjalne nagranie piosenki, która w 1980 roku stała się jednym z hymnów „Solidarności”.',
+      },
       {
         id: 'pe-2',
         title: 'Kabaret „Pod Egidą” – opracowania',
@@ -19164,6 +19188,14 @@ Jej małżeństwo ze Stanisławem Dygatem i niezależny styl życia były przedm
     trivia: ['Uchodziła za pierwszy polski sex symbol.', 'Jej występy bywały zdejmowane z anteny jako „gorszące”.'],
     resources: [
       {
+        id: 'kalina-jedrusik-yt-m8',
+        title: 'Kalina Jędrusik – „Jesienna dziewczyna”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=8jln7hzot34',
+        source: 'Polskie Nagrania (YouTube)',
+        description: 'Oficjalne nagranie z katalogu Polskich Nagrań.',
+      },
+      {
         id: 'kalina-jedrusik-culture',
         title: 'Kalina Jędrusik w serwisie Culture.pl',
         type: 'publikacja',
@@ -20752,6 +20784,14 @@ Stachura pozostaje patronem nonkonformistów: czytany bywa raczej jako propozycj
     trivia: ['Poeta-włóczęga, kultowy wśród młodzieży lat 70.', 'Zmarł tragicznie w 1979 roku.'],
     resources: [
       {
+        id: 'stachura-edward-yt-m8',
+        title: '„Mgła czułych ludzi” – reportaż o twórczości Edwarda Stachury',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=_uyJhJGnXnU',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Reportaż Aleksandry Dobieszewskiej z archiwum Polskiego Radia.',
+      },
+      {
         id: 'stachura-edward-culture',
         title: 'Edward Stachura w serwisie Culture.pl',
         type: 'publikacja',
@@ -21355,6 +21395,14 @@ W 1993 roku powstała kontynuacja – „Czterdziestolatek. 20 lat później” 
     trivia: ['Serial opowiadał o inżynierze Karwowskim i jego rodzinie.', 'Kobieta Pracująca stała się jedną z najbardziej kultowych postaci.'],
     resources: [
       {
+        id: 'czterdziestolatek-yt-m8',
+        title: 'Andrzej Rosiewicz – „Czterdziestolatek”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=33905g_ajps',
+        source: 'YouTube (Andrzej Rosiewicz – Topic)',
+        description: 'Oficjalne nagranie piosenki tytułowej serialu Jerzego Gruzy.',
+      },
+      {
         id: 'cz40-1',
         title: 'Czterdziestolatek – o serialu',
         type: 'film',
@@ -21774,6 +21822,14 @@ Nagrywała wiersze Tuwima i Brzechwy dla dzieci, występowała w radiowym „Pod
 Grała do późnej starości, a jej stulecie obchodzono jako wydarzenie kulturalne. Pozostaje legendą polskiej komedii – aktorką, którą pamięta się z ról drugoplanowych bardziej niż wielu odtwórców głównych.`,
     trivia: ['Zagrała Kobietę Pracującą w „Czterdziestolatku”.', 'Jej kwestia o tym, że żadnej pracy się nie boi, weszła do języka.'],
     resources: [
+      {
+        id: 'kwiatkowska-irena-yt-m8',
+        title: 'Kabaret Starszych Panów, Irena Kwiatkowska – „Shimmy Szuja”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=o_tXHNXK4jU',
+        source: 'Polskie Nagrania (YouTube)',
+        description: 'Oficjalne nagranie z katalogu Polskich Nagrań.',
+      },
       {
         id: 'kwiatkowska-irena-culture',
         title: 'Irena Kwiatkowska w serwisie Culture.pl',
@@ -22520,6 +22576,14 @@ Zespół zagrał kilka tysięcy koncertów w Polsce i za granicą. Małgorzata O
       'Wanda Kwietniewska, druga wokalistka Lombardu, odeszła w 1982 roku i założyła Wandę i Bandę.',
     ],
     resources: [
+      {
+        id: 'lombard-zespol-yt-m8',
+        title: 'Lombard – „Przeżyj to sam”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=wbqNQhSUYE4',
+        source: 'YouTube (Lombard – Topic)',
+        description: 'Oficjalne nagranie przeboju z 1985 roku.',
+      },
       {
         id: 'lom-2',
         title: 'Lombard – artykuł',
@@ -25999,6 +26063,14 @@ Jego nagrania są dziś odkrywane na nowo, także przez muzyków młodszych o po
     ],
     resources: [
       {
+        id: 'andrzej-zaucha-yt-m8',
+        title: 'Andrzej Zaucha – „Byłaś serca biciem”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=SNn5ZuWS8JQ',
+        source: 'MTJ Wytwórnia Muzyczna (YouTube)',
+        description: 'Oficjalne nagranie przeboju Andrzeja Zauchy.',
+      },
+      {
         id: 'andrzej-zaucha-culture',
         title: 'Andrzej Zaucha w serwisie Culture.pl',
         type: 'publikacja',
@@ -26283,6 +26355,14 @@ W maju 1973 roku wyjechał z rodziną do Stanów Zjednoczonych. Występował w m
     ],
     resources: [
       {
+        id: 'krzysztof-klenczon-yt-m8',
+        title: 'Krzysztof Klenczon – „Natalie – piękniejszy świat”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Pmx9rCdbiWA',
+        source: 'Polskie Nagrania (YouTube)',
+        description: 'Oficjalne nagranie z katalogu Polskich Nagrań.',
+      },
+      {
         id: 'kk-yt',
         title: 'Klenczon / Trzy Korony – „Nie przejdziemy do historii”',
         type: 'nagranie',
@@ -26502,6 +26582,14 @@ Budował piosenki na wyrazistej melodii i prostym, zapadającym w pamięć refre
     ],
     resources: [
       {
+        id: 'seweryn-krajewski-yt-m8',
+        title: 'Seweryn Krajewski – „Przestał padać deszcz”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=dM3p6hKFj1Q',
+        source: 'YouTube (Seweryn Krajewski – Topic)',
+        description: 'Oficjalne nagranie piosenki Seweryna Krajewskiego.',
+      },
+      {
         id: 'sk-yt',
         title: 'Seweryn Krajewski / Czerwone Gitary – przeboje',
         type: 'nagranie',
@@ -26606,6 +26694,14 @@ Piosenka rozrywkowa wydawała się dziedziną neutralną, ale i ona przechodził
       'Był czterokrotnie laureatem festiwalu w Opolu: w 1972, 1975, 1976 i 1980 roku.',
     ],
     resources: [
+      {
+        id: 'andrzej-rosiewicz-yt-m8',
+        title: 'Andrzej Rosiewicz – „Czterdziestolatek” („Czterdzieści lat minęło...”)',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=vD1uicZ3Feg',
+        source: 'YouTube (Andrzej Rosiewicz – Topic)',
+        description: 'Oficjalne nagranie piosenki z czołówki serialu.',
+      },
       {
         id: 'ar2-2',
         title: 'Andrzej Rosiewicz – artykuł',
@@ -27376,6 +27472,14 @@ Wyczerpany dziesięcioma latami nieustannych tras zespół rozwiązał się w 19
       'Zanim stali się SBB, muzycy przez dwa lata grali jako zespół Czesława Niemena.',
     ],
     resources: [
+      {
+        id: 'sbb-zespol-yt-m8',
+        title: 'SBB – „Odlot”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=k1tEO4AQZQI',
+        source: 'YouTube (SBB – Topic)',
+        description: 'Oficjalne nagranie jednego z najbardziej znanych utworów SBB.',
+      },
       {
         id: 'sbb-1',
         title: 'SBB – nagrania',
@@ -28277,6 +28381,14 @@ Skład się kurczył – od 1972 roku występowały jako tercet Nowe Filipinki. 
     ],
     resources: [
       {
+        id: 'filipinki-yt-m8',
+        title: 'Filipinki – „Wiosna majem wróci”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=NryuAo45asc',
+        source: 'Polskie Nagrania (YouTube)',
+        description: 'Oficjalne nagranie z katalogu Polskich Nagrań.',
+      },
+      {
         id: 'fp2-1',
         title: 'Filipinki – nagrania',
         type: 'nagranie',
@@ -28471,6 +28583,14 @@ W ciągu czternastu lat Niebiesko-Czarni nagrali osiem longplayów oraz 24 singl
     ],
     resources: [
       {
+        id: 'niebiesko-czarni-yt-m8',
+        title: 'Niebiesko-Czarni – „Gdy odlatują bociany”',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=vz8PQ23ujic',
+        source: 'YouTube (Niebiesko-Czarni – Topic)',
+        description: 'Oficjalne nagranie zespołu.',
+      },
+      {
         id: 'nc-2',
         title: 'Niebiesko-Czarni – artykuł',
         type: 'publikacja',
@@ -28512,6 +28632,14 @@ Zmarł 22 lutego 1992 roku w Poznaniu na atak serca podczas próby „Króla Lea
       'Zmarł podczas próby „Króla Leara” – jego ostatnie słowa były kwestią Leara.',
     ],
     resources: [
+      {
+        id: 'tadeusz-lomnicki-yt-m8',
+        title: 'Archiwalny wywiad z Tadeuszem Łomnickim',
+        type: 'nagranie',
+        url: 'https://www.youtube.com/watch?v=Aw4hNiZBPcU',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Rozmowa z aktorem z archiwum Polskiego Radia.',
+      },
       {
         id: 'tadeusz-lomnicki-culture',
         title: 'Tadeusz Łomnicki w serwisie Culture.pl',
