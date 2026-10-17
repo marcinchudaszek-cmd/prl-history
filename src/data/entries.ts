@@ -14410,6 +14410,14 @@ Zimowe wyprawy wiązały się z ogromnym ryzykiem i w Himalajach oraz Karakorum 
     ],
     resources: [
       {
+        id: 'himalaizm-polski-yt-m9',
+        title: 'Ostatnia wyprawa – tajemnica zaginięcia Wandy Rutkiewicz',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=3S0wqVAn1-A',
+        source: 'TVP Polonia (YouTube)',
+        description: 'Film dokumentalny TVP o himalaistce.',
+      },
+      {
         id: 'him-1',
         title: 'Polski himalaizm – nagrania',
         type: 'nagranie',
@@ -14531,6 +14539,14 @@ Organizowała wyprawy wyłącznie kobiece, przełamując przekonanie, że himala
     trivia: ['Jako pierwsza Europejka stanęła na szczycie Everestu.', 'Zaginęła w 1992 roku podczas wyprawy na Kanczendzongę.'],
     resources: [
       {
+        id: 'wanda-rutkiewicz-yt-m9',
+        title: '„Jeszcze wszystko przede mną i... przed nami” – reportaż o Wandzie Rutkiewicz',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=bfIYIS5u-fg',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Reportaż Baszki Marcinik z archiwum Polskiego Radia.',
+      },
+      {
         id: 'wr-2',
         title: 'Rutkiewicz – materiały',
         type: 'nagranie',
@@ -14588,6 +14604,14 @@ Grzegorz Lato został królem strzelców mundialu z siedmioma golami, a drugi by
 ## Znaczenie
 W 1976 roku drużyna Górskiego zdobyła srebro olimpijskie w Montrealu, co w kraju uznano za porażkę – i trener odszedł, by pracować w Grecji. Sukcesy lat 70. były źródłem ogromnej dumy narodowej. Trzecie miejsce na mundialu w 1982 roku zdobyła już następna drużyna, prowadzona przez Antoniego Piechniczka.`,
     resources: [
+      {
+        id: 'mundial-1974-yt-m9',
+        title: 'Grzegorz Lato – wszystkie gole mistrzostw świata 1974',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=pVmAtjmDKkk',
+        source: 'FIFA (YouTube)',
+        description: 'Oficjalny materiał FIFA z golami króla strzelców turnieju.',
+      },
       {
         id: 'mun-1',
         title: 'Mundial 1974 – archiwalia',
@@ -14650,6 +14674,14 @@ Bieg na 400 metrów wygrała z przewagą kilku metrów i rekordem świata 49,28 
 Po zakończeniu kariery działała w Międzynarodowym Komitecie Olimpijskim i władzach światowej lekkoatletyki. Pozostaje najwybitniejszą polską lekkoatletką i jedną z najważniejszych postaci w historii tej dyscypliny na świecie.`,
     trivia: ['Zdobywała medale olimpijskie na czterech kolejnych igrzyskach.', 'Startowała zarówno w sprincie, jak i w skoku w dal.'],
     resources: [
+      {
+        id: 'irena-szewinska-yt-m9',
+        title: 'Rozmowa z Ireną Szewińską przed igrzyskami w Montrealu (1976)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=zjMjvbgeofQ',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Archiwalny wywiad telewizyjny z lekkoatletką.',
+      },
       {
         id: 'isz-1',
         title: 'Irena Szewińska – archiwalia',
@@ -17610,6 +17642,14 @@ Pozostaje symbolem futbolowej elegancji, a jego koszulka z numerem 10 – ikoną
     trivia: ['Był rozgrywającym złotej drużyny Kazimierza Górskiego.', 'Grał później w Manchesterze City – w czasach PRL to rzadkość.'],
     resources: [
       {
+        id: 'deyna-kazimierz-yt-m9',
+        title: 'Jak grał Deyna? Analiza wielkiego meczu z Holandią (4:1)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=LGVKv3fE190',
+        source: 'Łączy nas piłka – PZPN (YouTube)',
+        description: 'Materiał oficjalnego kanału PZPN o grze Kazimierza Deyny.',
+      },
+      {
         id: 'dey-1',
         title: 'Kazimierz Deyna – archiwalia',
         type: 'nagranie',
@@ -18524,6 +18564,14 @@ Złoto z Sapporo pozostaje jednym z najczęściej przywoływanych momentów pols
       'Jego dziadek, kapitan Wacław Krzemiński, zginął w Miednoje, zamordowany przez NKWD.',
     ],
     resources: [
+      {
+        id: 'wojciech-fortuna-yt-m9',
+        title: 'Złoto Wojciecha Fortuny – finałowy skok z igrzysk w Sapporo 1972',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=vBcSwa3WD5Q',
+        source: 'TVP Sport (YouTube)',
+        description: 'Archiwalne nagranie skoku po złoty medal olimpijski.',
+      },
       {
         id: 'for-2',
         title: 'Fortuna – materiały',
@@ -20121,6 +20169,14 @@ W 1985 roku wyemigrował do Republiki Federalnej Niemiec, gdzie przez pewien cza
     trivia: ['Złoto w Moskwie 1980 zdobył, ustanawiając rekord świata.', 'Jego gest wobec gwiżdżącej publiczności obiegł cały świat.'],
     resources: [
       {
+        id: 'kozakiewicz-wladyslaw-yt-m9',
+        title: 'Skoki i gest Władysława Kozakiewicza – igrzyska w Moskwie 1980',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=WZQIaKLSJo0',
+        source: 'TVP Sport (YouTube)',
+        description: 'Archiwalne nagranie telewizyjne konkursu skoku o tyczce.',
+      },
+      {
         id: 'koz-2',
         title: 'Kozakiewicz – materiały',
         type: 'publikacja',
@@ -20174,6 +20230,14 @@ Prowadził pokolenie Deyny, Laty, Szarmacha, Gadochy, Ćmikiewicza, Żmudy i Tom
 Sukcesy jego drużyny przypadły na dekadę Gierka i były przez propagandę traktowane jako dowód sprawności państwa. Dla kibiców znaczyły co innego: przez kilka lat Polska naprawdę należała do światowej czołówki. Imię Górskiego nosi siedziba PZPN.`,
     trivia: ['Poprowadził reprezentację po złoto olimpijskie 1972 i brąz mundialu 1974.', 'Powtarzał, że dopóki piłka w grze, wszystko jest możliwe.'],
     resources: [
+      {
+        id: 'gorski-kazimierz-yt-m9',
+        title: 'Wprowadził Polskę na szczyt. Jaka była tajemnica sukcesów Orłów Górskiego?',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=UrnolU-ozBI',
+        source: 'Łączy nas piłka – PZPN (YouTube)',
+        description: 'Materiał oficjalnego kanału PZPN o trenerze Kazimierzu Górskim.',
+      },
       {
         id: 'gor2-1',
         title: 'Kazimierz Górski – archiwalia',
@@ -21657,6 +21721,14 @@ Górnik i Lubański to fundament, na którym wyrosły sukcesy reprezentacji lat 
     trivia: ['Włodzimierz Lubański był gwiazdą Górnika Zabrze.', 'Kontuzja odniesiona w 1973 roku wykluczyła go z mundialu 1974.'],
     resources: [
       {
+        id: 'lubanski-gornik-yt-m9',
+        title: 'Lubański kontra Anglia – walka i koszmarna kontuzja',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=5jv7pdNwmf8',
+        source: 'Łączy nas piłka – PZPN (YouTube)',
+        description: 'Materiał PZPN o meczu Polska – Anglia w Chorzowie w 1973 roku.',
+      },
+      {
         id: 'lub2-3',
         title: 'Sport w Ninatece',
         type: 'nagranie',
@@ -21760,6 +21832,14 @@ Jego relacja z remisu 1:1 na Wembley 17 października 1973 roku, po którym Pols
 Zmarł w 1982 roku, w wieku pięćdziesięciu dwóch lat, u szczytu popularności. Ustanowił wzorzec komentarza, do którego kolejne pokolenia sprawozdawców odnosiły się przez następne dekady – przyjmując go albo świadomie odrzucając.`,
     trivia: ['Legendarny komentator sportowy telewizji PRL.', 'Komentował m.in. mundial 1974 i igrzyska olimpijskie.'],
     resources: [
+      {
+        id: 'ciszewski-jan-yt-m9',
+        title: 'Jan Ciszewski – sprawozdawca, który atmosferę stadionu opisywał po mistrzowsku',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=h1eIoc1YLdA',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Audycja Polskiego Radia o legendarnym komentatorze.',
+      },
       {
         id: 'cisz-1',
         title: 'Jan Ciszewski – archiwalia',
@@ -22111,6 +22191,14 @@ Pokolenie Bońka, Laty, Smolarka, Szarmacha i Młynarczyka zamknęło najlepszy 
     trivia: ['Polska zajęła 3. miejsce, powtarzając sukces z 1974 roku.', 'Turniej rozgrywano, gdy w kraju wciąż trwał stan wojenny.'],
     resources: [
       {
+        id: 'mundial-1982-yt-m9',
+        title: 'Grzegorz Lato i reprezentacja Polski – wszystkie gole mistrzostw świata 1982',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=SogjrewlhgY',
+        source: 'FIFA (YouTube)',
+        description: 'Oficjalny materiał FIFA z golami Polaków na mundialu w Hiszpanii.',
+      },
+      {
         id: 'm82-pkf',
         title: 'Polska Kronika Filmowa – Mundial 1982',
         type: 'nagranie',
@@ -22172,6 +22260,14 @@ W Turynie grał u boku Michela Platiniego, zdobywając Puchar Zdobywców Puchar�
 Był pierwszym polskim piłkarzem, który wygrywał najważniejsze trofea klubowe Europy, a nie tylko błyszczał w reprezentacji. Po karierze pracował jako trener, a w latach 2012–2021 był prezesem PZPN.`,
     trivia: ['Na mundialu 1982 strzelił trzy gole w jednym meczu z Belgią.', 'Grał później w Juventusie i Romie.'],
     resources: [
+      {
+        id: 'boniek-zbigniew-yt-m9',
+        title: 'Polska – Belgia 1982: Zbigniew Boniek i jego hat-trick',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=szELAUtWKq4',
+        source: 'TVP Sport (YouTube)',
+        description: 'Archiwalne nagranie meczu mistrzostw świata 1982.',
+      },
       {
         id: 'bon-fp',
         title: 'Zbigniew Boniek – biogram',
@@ -25605,6 +25701,14 @@ Medale olimpijskie były w PRL walutą propagandową, a kroniki filmowe poświę
     ],
     resources: [
       {
+        id: 'jacek-wszola-yt-m9',
+        title: 'Jacek Wszoła: „Oglądały mnie miliardy!”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=o7OXv9RJL20',
+        source: 'Gazeta.pl (YouTube)',
+        description: 'Rozmowa z mistrzem olimpijskim w skoku wzwyż z 1976 roku.',
+      },
+      {
         id: 'jw-2',
         title: 'Jacek Wszoła – artykuł',
         type: 'publikacja',
@@ -27763,6 +27867,14 @@ Zginął 17 sierpnia 1998 roku w wypadku samochodowym na drodze krajowej nr 3 po
     ],
     resources: [
       {
+        id: 'wladyslaw-komar-yt-m9',
+        title: 'Władysław Komar i Tadeusz Ślusarski zginęli 20 lat temu',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=fW5umlQEULw',
+        source: 'TVP Sport (YouTube)',
+        description: 'Wspomnienie dwóch mistrzów olimpijskich, którzy zginęli w wypadku samochodowym w 1998 roku.',
+      },
+      {
         id: 'wk2-2',
         title: 'Władysław Komar – artykuł',
         type: 'publikacja',
@@ -27958,6 +28070,14 @@ Zginął 17 sierpnia 1998 roku w wypadku samochodowym pod Przybiernowem. W tym s
       'Zginął w tym samym wypadku samochodowym co Władysław Komar, mistrz olimpijski w pchnięciu kulą.',
     ],
     resources: [
+      {
+        id: 'tadeusz-slusarski-yt-m9',
+        title: 'Władysław Komar i Tadeusz Ślusarski zginęli 20 lat temu',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=fW5umlQEULw',
+        source: 'TVP Sport (YouTube)',
+        description: 'Wspomnienie dwóch mistrzów olimpijskich, którzy zginęli w wypadku samochodowym w 1998 roku.',
+      },
       {
         id: 'ts2-2',
         title: 'Tadeusz Ślusarski – artykuł',
@@ -28228,6 +28348,14 @@ Mecz na Wembley funkcjonuje w polskiej pamięci niemal jak wydarzenie historyczn
       'Brian Clough nazwał go przed meczem „klaunem”, a po remisie nazywano go „człowiekiem, który zatrzymał Anglię”.',
     ],
     resources: [
+      {
+        id: 'jan-tomaszewski-yt-m9',
+        title: 'Anglia – Polska 1973 (1:1) – „Biało-czerwone jedenastki”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=1imEFONbClU',
+        source: 'TVP Sport (YouTube)',
+        description: 'Archiwalny materiał TVP o meczu na Wembley.',
+      },
       {
         id: 'jt-2',
         title: 'Jan Tomaszewski – artykuł',
