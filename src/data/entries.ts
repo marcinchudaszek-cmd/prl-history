@@ -510,6 +510,14 @@ SB działała jeszcze w pierwszym roku III RP i została rozwiązana w 1990 roku
     ],
     resources: [
       {
+        id: 'sbezpieczenstwa-yt-m6',
+        title: 'Jak rozpadała się Służba Bezpieczeństwa? – cykl „Oblicza historii”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=FRpHpyJZO24',
+        source: 'IPNtv',
+        description: 'Program Instytutu Pamięci Narodowej o likwidacji SB w latach 1989–1990.',
+      },
+      {
         id: 'sb-1',
         title: 'Służba Bezpieczeństwa (SB) – opracowania',
         type: 'publikacja',
@@ -949,6 +957,14 @@ W grudniu 1970 roku wprowadził podwyżkę cen mięsa. Protesty na Wybrzeżu st�
       'W 1959 i 1961 roku przeżył dwie próby zamachu.',
     ],
     resources: [
+      {
+        id: 'gomulka-yt-m6',
+        title: 'Władysław Gomułka – cykl „Namiestnicy Kremla i zarządcy komunistycznej Polski”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=7j_QjM9uHJM',
+        source: 'IPNtv',
+        description: 'Biografia Władysława Gomułki w cyklu Instytutu Pamięci Narodowej.',
+      },
       {
         id: 'gom-2',
         title: 'Władysław Gomułka – zdjęcia i grafiki',
@@ -1937,6 +1953,14 @@ Skrót wszedł do polszczyzny jako synonim przemocy państwa, a rozwinięcia w r
     ],
     resources: [
       {
+        id: 'zomo-yt-m6',
+        title: '„Z filmoteki bezpieki” odc. 8 – ZOMO',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=4QbihfJ4Qds',
+        source: 'IPNtv',
+        description: 'Materiały filmowe resortu spraw wewnętrznych o ZOMO omawiane przez historyków IPN.',
+      },
+      {
         id: 'zomo-1',
         title: 'ZOMO – zdjęcia i grafiki',
         type: 'zdjęcie',
@@ -2201,6 +2225,14 @@ Dzięki zgromadzonemu sprzętowi i doświadczeniu po zniesieniu cenzury szybko p
       'Najwięcej podziemnych książek i broszur – 636 pozycji – ukazało się w 1983 roku.',
     ],
     resources: [
+      {
+        id: 'drugi-obieg-yt-m6',
+        title: 'Drugi obieg wydawniczy w PRL',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=UzcdhBUxdOU',
+        source: 'Culture.pl (YouTube)',
+        description: 'Materiał Instytutu Adama Mickiewicza o niezależnym ruchu wydawniczym.',
+      },
       {
         id: 'obieg-1',
         title: 'Drugi obieg wydawniczy – zdjęcia i grafiki',
@@ -2538,6 +2570,14 @@ Odwilż trwała krótko. W 1957 roku zamknięto tygodnik „Po prostu”, a po d
     ],
     resources: [
       {
+        id: 'pazdziernik-1956-yt-m6',
+        title: 'Październik 1956 – najważniejszy przełom w historii PRL',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=656Rch5SAd8',
+        source: 'Muzeum POLIN (YouTube)',
+        description: 'Materiał Muzeum Historii Żydów Polskich POLIN o Październiku 1956.',
+      },
+      {
         id: 'p56-ipn1',
         title: 'Październik 1956 - artykuły IPN',
         type: 'publikacja',
@@ -2739,6 +2779,14 @@ W wielu zakładach do strajku weszli młodzi robotnicy, którzy w 1980 roku byli
       'Po strajkach Kiszczak spotkał się z Wałęsą 31 sierpnia 1988 roku – w ósmą rocznicę porozumienia gdańskiego.',
     ],
     resources: [
+      {
+        id: 'strajki-1988-yt-m6',
+        title: '„Z filmoteki bezpieki” odc. 39 – Strajk w Stoczni Gdańskiej 1988',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=HRGaRYWwxRc',
+        source: 'IPNtv',
+        description: 'Materiały operacyjne SB ze strajku w Stoczni Gdańskiej w 1988 roku.',
+      },
       {
         id: 'strajki88-1',
         title: 'Strajki 1988 – Polskie Miesiące IPN',
@@ -3463,6 +3511,14 @@ Po upadku systemów komunistycznych w regionie struktury wojskowe układu rozwi�
     ],
     resources: [
       {
+        id: 'uklad-warszawski-yt-m6',
+        title: 'Polskie wojska operacyjne w Układzie Warszawskim – dyskusja',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=4o3lmQM-0LI',
+        source: 'IPNtv',
+        description: 'Dyskusja historyków IPN o miejscu LWP w Układzie Warszawskim.',
+      },
+      {
         id: 'uw-1',
         title: 'Układ Warszawski – artykuł',
         type: 'publikacja',
@@ -3679,6 +3735,14 @@ Symbolem wyjazdów stał się warszawski Dworzec Gdański – ten sam, z któreg
       'Po 1956 roku z Polski wyjechało około 42 tysięcy Żydów, a w 1967 roku zostało ich około 25 tysięcy.',
     ],
     resources: [
+      {
+        id: 'emigracja-1968-yt-m6',
+        title: '„Polska nas nie chce”. O Marcu 1968',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=03HGUsZZNu4',
+        source: 'Muzeum POLIN (YouTube)',
+        description: 'Relacje emigrantów marcowych z kolekcji Muzeum Historii Żydów Polskich POLIN.',
+      },
       {
         id: 'em68-1',
         title: 'Marzec 1968 – emigracja Żydów, portal IPN',
@@ -5324,6 +5388,14 @@ Ostatnie lata życia spędziła w Krakowie, otoczona gronem przyjaciół. Pisał
     trivia: ['Nagrodę Nobla otrzymała w 1996 roku.', 'Debiutowała w czasach socrealizmu i po latach odcięła się od tych wierszy.'],
     resources: [
       {
+        id: 'szymborska-yt-m6',
+        title: 'Archiwalne wspomnienia Wisławy Szymborskiej',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=E2EqGi1nGLs',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Archiwalne nagrania noblistki z zasobów Polskiego Radia.',
+      },
+      {
         id: 'szymborska-culture',
         title: 'Wisława Szymborska w serwisie Culture.pl',
         type: 'publikacja',
@@ -6470,6 +6542,14 @@ Towary z kartek trafiały na czarny rynek. "Spekulant" sprzedający je powyżej 
 Kartki znoszono stopniowo: cukier w 1985 r., mięso w 1989 r. Reforma Balcerowicza po 1989 r. zlikwidowała system definitywnie – półki sklepowe zapełniły się, lecz wielu Polaków nie miało pieniędzy na zakupy po cenach wolnorynkowych.`,
     resources: [
       {
+        id: 'kartki-prl-yt-m6',
+        title: 'Duma gospodarki PRL: mięso na kartki',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=yd_YV0iR2uw',
+        source: 'Muzeum Historii Polski (YouTube)',
+        description: 'Materiał Muzeum Historii Polski o reglamentacji mięsa.',
+      },
+      {
         id: 'kartki-prl-zaopatrzenie-kartkowe',
         title: 'Zaopatrzenie kartkowe – artykuł',
         type: 'publikacja',
@@ -6924,6 +7004,14 @@ Chłopi otrzymali ziemię – co wielu przyjmowało z entuzjazmem. Lecz radość
 Kwestia odszkodowań dla potomków wywłaszczonych właścicieli ziemskich pozostaje nierozwiązana do dziś. Polska jest jedynym krajem postkomunistycznym, który nie uchwalił ustawy reprywatyzacyjnej dla majątków zabranych przez komunistów.`,
     trivia: ['Dekret PKWN z września 1944 przejmował majątki powyżej 50 hektarów.', 'Parcelacja miała pozyskać wieś dla nowej władzy.'],
     resources: [
+      {
+        id: 'reforma-rolna-yt-m6',
+        title: 'Koniec świata ziemian. Reforma rolna 1944',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=xME3CtqwgR4',
+        source: 'Instytut Pileckiego (YouTube)',
+        description: 'Materiał Instytutu Pileckiego o reformie rolnej PKWN.',
+      },
       {
         id: 'rolna-1',
         title: 'Dekret o reformie rolnej – Dziennik Ustaw',
@@ -8367,6 +8455,14 @@ Po 1989 r. "Tygodnik Powszechny" kontynuował działalność jako niezależne pi
     trivia: ['Pismo zamknięto w 1953 roku za odmowę wydrukowania nekrologu Stalina.', 'Wznowiono je dopiero po Październiku 1956.'],
     resources: [
       {
+        id: 'tygodnik-powszechny-yt-m6',
+        title: '„Tygodnik Powszechny. Próba czasu” – film dokumentalny',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=8sqW9p_WFoY',
+        source: 'Video Studio Gdańsk (YouTube)',
+        description: 'Dokument o historii krakowskiego tygodnika.',
+      },
+      {
         id: 'tygodnik-powszechny-culture',
         title: 'Tygodnik Powszechny w serwisie Culture.pl',
         type: 'publikacja',
@@ -8722,6 +8818,14 @@ WRON i stan wojenny ocenia się różnie: jako "mniejsze zło" (Jaruzelski twier
     trivia: ['Wojskowa Rada Ocalenia Narodowego przejęła władzę 13 grudnia 1981.', 'Skrót złośliwie rozwijano jako „wronę”, która orła nie pokona.'],
     resources: [
       {
+        id: 'wron-yt-m6',
+        title: 'Kulisy wprowadzenia stanu wojennego – „Kulisy historii” odc. 193',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=BZKTCOXS7kg',
+        source: 'IPNtv',
+        description: 'Program Instytutu Pamięci Narodowej o przygotowaniach i wprowadzeniu stanu wojennego.',
+      },
+      {
         id: 'wron-1',
         title: 'WRON – Wojskowa Rada Ocalenia Narodowego – opracowania',
         type: 'publikacja',
@@ -8784,6 +8888,14 @@ XX Zjazd przyspieszył rehabilitację ofiar stalinizmu, uwolnienie prymasa Wyszy
 Chruszczow rządził ZSRR do 1964 r. Jego czas to "odwilż" – ograniczenie terroru, pewna liberalizacja kultury, ale też kryzys kubański (1962) i Mur Berliński (1961). W 1964 r. obalili go towarzysze partyjni.`,
     trivia: ['Tajny referat o zbrodniach Stalina wygłoszono na XX Zjeździe KPZR w lutym 1956.', 'Jego treść szybko przedostała się do Polski i przyspieszyła odwilż.'],
     resources: [
+      {
+        id: 'chruszczow-yt-m6',
+        title: 'To wydarzenie wstrząsnęło komunizmem. Co zawierał tajny referat Chruszczowa?',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=RJVSag3hIds',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Materiał Polskiego Radia o referacie „O kulcie jednostki i jego następstwach”.',
+      },
       {
         id: 'chruszcz-1',
         title: 'Chruszczow i destalinizacja – opracowania',
@@ -9065,6 +9177,14 @@ Kisielewski pisał powieści obyczajowe i polityczne – czytane chętnie, częs
 Kisielewski reprezentował w PRL-u coś rzadkiego: liberalny, antysocjalistyczny światopogląd wyrażany publicznie z odwagą i humorem. Do dziś jego cytaty krążą w polskim internecie jako celne diagnozy systemów totalitarnych.`,
     trivia: ['Cenzurę nazwał publicznie „dyktaturą ciemniaków”.', 'Wkrótce potem został pobity przez „nieznanych sprawców”.'],
     resources: [
+      {
+        id: 'kisielewski-yt-m6',
+        title: '„Alfabet Kisiela” – film dokumentalny',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=TTpWPUTL4Ec',
+        source: 'Video Studio Gdańsk (YouTube)',
+        description: 'Dokument o Stefanie Kisielewskim.',
+      },
       {
         id: 'kisielewski-culture',
         title: 'Stefan Kisielewski w serwisie Culture.pl',
@@ -9903,6 +10023,14 @@ Od 1955 roku organizacja stawała się fikcją, a Październik 1956 roku przypie
     ],
     resources: [
       {
+        id: 'zmp-yt-m6',
+        title: 'Organizacje młodzieżowe w PRL – „Taśmy bezpieki” odc. 23',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=ao8mONTzmao',
+        source: 'IPNtv',
+        description: 'Program Instytutu Pamięci Narodowej o organizacjach młodzieżowych PRL.',
+      },
+      {
         id: 'zmp-ipn',
         title: 'Związek Młodzieży Polskiej (ZMP) – zdjęcia i grafiki',
         type: 'zdjęcie',
@@ -10104,6 +10232,14 @@ Odwilż trwała krótko. Już w grudniu 1956 roku powołano ZOMO, a w 1957 roku 
       'Ministerstwo Bezpieczeństwa Publicznego rozwiązano już w grudniu 1954 roku.',
     ],
     resources: [
+      {
+        id: 'destalinizacja-yt-m6',
+        title: 'Władysław Gomułka i polski październik 1956',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=4sCFm_M-PUA',
+        source: 'Muzeum Historii Polski (YouTube)',
+        description: 'Materiał Muzeum Historii Polski o odwilży i Październiku 1956.',
+      },
       {
         id: 'destalin-xxzjazd',
         title: 'XX Zjazd KPZS – referat Chruszczowa',
@@ -11791,6 +11927,14 @@ Gdy latem 1980 roku wybuchły strajki, Szczepańskiego odwołano 11 sierpnia, a 
     ],
     resources: [
       {
+        id: 'propaganda-sukcesu-yt-m6',
+        title: 'Propaganda sukcesu w Polsce „ludowej” (1944–1989) – panel 1',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=PeDv8nIzai0',
+        source: 'IPN Kraków (YouTube)',
+        description: 'Konferencja historyków Instytutu Pamięci Narodowej o propagandzie sukcesu.',
+      },
+      {
         id: 'props-1',
         title: 'Kroniki dekady Gierka',
         type: 'film',
@@ -11847,6 +11991,14 @@ Na początku lat 80. PRL faktycznie stała się niewypłacalna. Stan wojenny i z
 Po 1989 r. demokratyczna Polska odziedziczyła ogromny dług PRL. Dopiero negocjacje z Klubem Paryskim i Londyńskim w pierwszej połowie lat 90. doprowadziły do redukcji znacznej jego części. Zadłużenie pozostaje jednym z najtrwalszych ekonomicznych dziedzictw PRL.`,
     trivia: ['Kredyty zaciągnięte w dekadzie Gierka miały sfinansować skok gospodarczy.', 'Ich spłata stała się jedną z przyczyn kryzysu lat 80.'],
     resources: [
+      {
+        id: 'zadluzenie-prl-yt-m6',
+        title: 'PRL na kredyt. Mit epoki Gierka',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=H0VYiPAKLYU',
+        source: 'Muzeum Historii Polski (YouTube)',
+        description: 'Materiał Muzeum Historii Polski o kredytach zagranicznych lat 70.',
+      },
       {
         id: 'zad-1',
         title: 'Zadłużenie zagraniczne PRL – artykuł',
@@ -12826,6 +12978,14 @@ Władze utrudniały peregrynację, a 2 września 1966 roku pod Będzinem milicja
 ## Rezultat
 Uroczystości kościelne gromadziły nieporównanie więcej ludzi niż państwowe defilady. Państwo zostawiło po jubileuszu trwały ślad w postaci ok. 1,5 tys. szkół „Tysiąclatek”, ale Milenium pokazało skalę obecności Kościoła w społeczeństwie i zapowiadało to, co powtórzy się w 1979 roku podczas pielgrzymki papieża.`,
     resources: [
+      {
+        id: 'milenium-1966-yt-m6',
+        title: 'Obchody chrztu Polski w 1966 roku – „Kulisy historii” odc. 271',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=DP636tPVIJo',
+        source: 'IPNtv',
+        description: 'Program Instytutu Pamięci Narodowej o rywalizacji obchodów Milenium i Tysiąclecia.',
+      },
       {
         id: 'mil-pkf',
         title: 'Polska Kronika Filmowa – obchody Tysiąclecia (1966)',
@@ -15091,6 +15251,14 @@ Postać Siwca przywrócił zbiorowej pamięci dopiero film Macieja Drygasa „Us
     ],
     resources: [
       {
+        id: 'ryszard-siwiec-yt-m6',
+        title: '55. rocznica samospalenia Ryszarda Siwca. „Przebacz mi, złota Praho” – debata',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=Sh0fONir_Pk',
+        source: 'IPNtv',
+        description: 'Debata historyków IPN o proteście Ryszarda Siwca.',
+      },
+      {
         id: 'ryszard-siwiec-interwencja-ukadu-warszawski',
         title: 'Interwencja Układu Warszawskiego w Czechosłowacji – artykuł',
         type: 'publikacja',
@@ -15297,6 +15465,14 @@ Milicja zatrzymująca ludzi w czapeczkach krasnoludków wyglądała groteskowo, 
     ],
     resources: [
       {
+        id: 'pomaranczowa-alternatywa-yt-m6',
+        title: '„Pomarańczowa alternatywa”, reż. M. Dembiński (PWSFTviT, 1988)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=rnmwpFUsO2o',
+        source: 'Szkoła Filmowa w Łodzi (YouTube)',
+        description: 'Studencki dokument z łódzkiej Szkoły Filmowej, nakręcony w 1988 roku.',
+      },
+      {
         id: 'pa-1',
         title: 'Pomarańczowa Alternatywa – opracowania',
         type: 'publikacja',
@@ -15469,6 +15645,14 @@ Po Sierpniu 1980 roku powstały Kręgi Instruktorów Harcerskich im. Andrzeja Ma
       'Symbolem ruchu KIHAM była lilijka przewiązana węzłem płaskim – stąd nazwa Ruch Płaskiego Węzła.',
     ],
     resources: [
+      {
+        id: 'zhp-harcerstwo-yt-m6',
+        title: '#PerłyArchiwów – jak wyglądało harcerstwo w PRL?',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=iwVS_QD9-Ss',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Archiwalne materiały telewizyjne o harcerstwie.',
+      },
       {
         id: 'zhp-1',
         title: 'Harcerstwo w PRL (ZHP) – opracowania',
@@ -16428,6 +16612,14 @@ List 34 otworzył serię zbiorowych wystąpień intelektualistów – aż po Lis
     ],
     resources: [
       {
+        id: 'list-34-yt-m6',
+        title: 'Jan Józef Lipski o „Liście 34”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=VukWl1rXG2k',
+        source: 'Web of Stories (YouTube)',
+        description: 'Fragment opowieści Jana Józefa Lipskiego o liście intelektualistów z 1964 roku.',
+      },
+      {
         id: 'l34-1',
         title: 'List 34 – opracowania',
         type: 'publikacja',
@@ -16683,6 +16875,14 @@ W krótkiej perspektywie orędzie kosztowało Kościół falę ataków i nieufno
       'Biskupi niemieccy odpowiedzieli chłodno i uniknęli stanowiska w sprawie granicy na Odrze i Nysie.',
     ],
     resources: [
+      {
+        id: 'oredzie-biskupow-yt-m6',
+        title: 'Debata „Nowe spojrzenie na Orędzie biskupów polskich do biskupów niemieckich”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=tbstNCgpsmo',
+        source: 'Muzeum Jana Pawła II i Prymasa Wyszyńskiego (YouTube)',
+        description: 'Debata historyków o orędziu z 1965 roku.',
+      },
       {
         id: 'ob-1',
         title: 'Orędzie biskupów polskich – opracowania',
@@ -18287,6 +18487,14 @@ Po 1989 roku śledztwo wznowiono. Prawomocnie skazano trzech dowódców milicji,
     ],
     resources: [
       {
+        id: 'lubin-1982-yt-m6',
+        title: 'Zbrodnia lubińska – akt oskarżenia przeciwko byłym funkcjonariuszom MO',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=IKDJlAA9pvM',
+        source: 'IPNtv',
+        description: 'Konferencja prasowa IPN o śledztwie w sprawie zabójstw w Lubinie 31 sierpnia 1982 roku.',
+      },
+      {
         id: 'lub-1',
         title: 'Zbrodnia lubińska 1982 – opracowania',
         type: 'publikacja',
@@ -18421,6 +18629,14 @@ Krąg słuchaczy był ograniczony do tych, którzy wiedzieli, kiedy i gdzie słu
       'Ostatnią audycję warszawskiego Radia „Solidarność” nadano 22 czerwca 1989 roku, już po wyborach czerwcowych.',
     ],
     resources: [
+      {
+        id: 'radio-solidarnosc-yt-m6',
+        title: 'Podziemne Radio „Solidarność”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=_cMfvLy8Rk0',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Materiał Polskiego Radia o podziemnej rozgłośni.',
+      },
       {
         id: 'rs-1',
         title: 'Radio Solidarność – opracowania',
@@ -19147,6 +19363,14 @@ Sąd Najwyższy obniżył kary, a dalsze skrócenie przyniosła amnestia z okazj
     ],
     resources: [
       {
+        id: 'proces-taternikow-yt-m6',
+        title: '„Z filmoteki bezpieki” odc. 81 – Proces taterników',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=6qgYD9KEQTs',
+        source: 'IPNtv',
+        description: 'Materiały SB o procesie taterników omawiane przez historyków IPN.',
+      },
+      {
         id: 'pt-1',
         title: 'Proces taterników – artykuł',
         type: 'publikacja',
@@ -19254,6 +19478,14 @@ W grypsie przemyconym z więzienia napisała do sióstr Mikołajewskich: „powi
 Miejsce pochówku ukryto. Szczątki odnaleziono dopiero we wrześniu 2014 roku podczas prac ekshumacyjnych na cmentarzu garnizonowym w Gdańsku i zidentyfikowano badaniami genetycznymi. Pogrzeb państwowy odbył się w 2016 roku.`,
     trivia: ['Sanitariuszkę podziemia stracono, gdy miała siedemnaście lat.', 'W grypsie napisała, że zachowała się jak trzeba.'],
     resources: [
+      {
+        id: 'inka-siedzikowna-yt-m6',
+        title: 'Żołnierze Niezłomni – Danuta Siedzikówna „Inka”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=yChrddUbyy0',
+        source: 'IPNtv',
+        description: 'Materiał Instytutu Pamięci Narodowej o „Ince”.',
+      },
       {
         id: 'in-1',
         title: 'Danuta Siedzikówna „Inka” – opracowania',
@@ -19549,6 +19781,14 @@ Władze PRL nigdy oficjalnie nie potwierdziły obławy. Delegacja z gminy Giby j
     ],
     resources: [
       {
+        id: 'oblawa-augustowska-yt-m6',
+        title: 'Ekspertyza. Obława augustowska',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=gjhybNWNXm4',
+        source: 'IPN Kraków (YouTube)',
+        description: 'Materiał Instytutu Pamięci Narodowej o obławie z lipca 1945 roku.',
+      },
+      {
         id: 'oa-ipn1',
         title: 'Obława augustowska - artykuły IPN',
         type: 'publikacja',
@@ -19706,6 +19946,14 @@ Z młodych członków PAX-u wyłoniła się pod koniec lat 70. grupa współtwor
       'Kontynuacją PAX-u jest dzisiejsze Katolickie Stowarzyszenie „Civitas Christiana”.',
     ],
     resources: [
+      {
+        id: 'pax-piasecki-yt-m6',
+        title: 'Bolesław Piasecki. Początki drogi – cykl „Oblicza historii”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=JihoBIiDGjA',
+        source: 'IPNtv',
+        description: 'Program Instytutu Pamięci Narodowej o założycielu PAX.',
+      },
       {
         id: 'px-1',
         title: 'Stowarzyszenie PAX – opracowania',
