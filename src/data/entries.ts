@@ -899,6 +899,14 @@ W mieście nie przewidziano kościoła. Po 1956 roku zgodzono się na budowę i 
 Miasto zbudowane dla klasy robotniczej stało się miejscem oporu wobec władzy, która je stworzyła. 13 października 1982 roku, podczas zamieszek w stanie wojennym, kapitan SB zastrzelił przed Arką Pana robotnika Bogdana Włosika.`,
     resources: [
       {
+        id: 'nowa-huta-yt-m7',
+        title: '#PerłyArchiwów – Nowa Huta 1982. Czy Bogdan Włosik musiał zginąć?',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=wJW3w4FYRtc',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Archiwalne materiały TVP o Nowej Hucie i śmierci Bogdana Włosika w październiku 1982 roku.',
+      },
+      {
         id: 'nh-1',
         title: 'PKF 30/50: „Nowa Huta. Budowa Nowej Huty”',
         type: 'film',
@@ -5170,6 +5178,14 @@ Internowanie w stanie wojennym dotknęło też kobiety – działaczki Solidarno
     trivia: ['Kobiety masowo podjęły pracę zawodową.', 'Podwójny etat – praca i dom – był normą, nie wyjątkiem.'],
     resources: [
       {
+        id: 'kobiety-prl-yt-m7',
+        title: '#PerłyArchiwów – jak wyglądała praca kobiet w PRL?',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=4EP6Ukx7SAs',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Archiwalne materiały TVP o pracy kobiet.',
+      },
+      {
         id: 'kobiety-polona',
         title: 'Kobiety w PRL – opracowania',
         type: 'publikacja',
@@ -7999,6 +8015,14 @@ Polska animacja i literatura dziecięca PRL stworzyły wiele wybitnych dzieł �
     trivia: ['Dzieci spędzały czas na podwórku, bez stałego nadzoru dorosłych.', 'Królowały zabawy na trzepaku, skakanka i gra w klasy.'],
     resources: [
       {
+        id: 'dzieci-prl-yt-m7',
+        title: 'Dzień Dziecka!',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=5tWhqwdH5qE',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Archiwalny materiał telewizyjny o Dniu Dziecka w PRL.',
+      },
+      {
         id: 'dzieci-1',
         title: 'Dzieci i młodzież w PRL – opracowania',
         type: 'publikacja',
@@ -8192,6 +8216,14 @@ Nieformalna gospodarka w służbie zdrowia kwitła. "Koperta" dla chirurga przed
 Wzorem sowieckim SB używała psychiatrii jako narzędzia represji: dysydentów umieszczano w szpitalach psychiatrycznych (np. w Pruszkowie), diagnozując "powolną schizofrenię" jako chorobę osób niezgadzających się z systemem.`,
     trivia: ['Opieka była bezpłatna, ale brakowało leków i sprzętu.', 'Wiele spraw załatwiało się przez znajomości.'],
     resources: [
+      {
+        id: 'sluzba-zdrowia-prl-yt-m7',
+        title: '#PerłyArchiwów – opieka zdrowotna w PRL. Czy było lepiej?',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=M9VWdZFyrik',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Archiwalne materiały TVP o służbie zdrowia.',
+      },
       {
         id: 'zdrowie-1',
         title: 'Kroniki filmowe – szpitale i ochrona zdrowia PRL',
@@ -9116,6 +9148,14 @@ Równolegle miliony Polaków słuchały Radia Wolna Europa, BBC i Głosu Ameryki
     ],
     resources: [
       {
+        id: 'radio-prl-yt-m7',
+        title: '#PerłyArchiwów – jakie sekrety skrywa historia Polskiego Radia?',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=8ULM1rP_aBA',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Archiwalne materiały TVP o historii Polskiego Radia.',
+      },
+      {
         id: 'radio-prl-1',
         title: 'Radio w PRL – nagrania archiwalne',
         type: 'nagranie',
@@ -9698,6 +9738,14 @@ W stanie wojennym wielu aktorów odmówiło występów w telewizji. W latach 80.
       'Pierwszy program telewizyjny nadano w Polsce 25 października 1952 roku.',
     ],
     resources: [
+      {
+        id: 'telewizja-prl-yt-m7',
+        title: '#PerłyArchiwów – jak wyglądała praca w Telewizji?',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=F53rE8aQK04',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Archiwalne materiały TVP o pracy w telewizji w PRL.',
+      },
       {
         id: 'tvp-ninateka',
         title: 'Telewizja w PRL – nagrania archiwalne',
@@ -10853,6 +10901,14 @@ Liberalizacja umożliwiła import zachodnich samochodów. Rynek zalały używane
     trivia: ['Na samochód czekało się latami po zapisaniu na listę.', 'Talon na auto bywał cenniejszy niż samo auto.'],
     resources: [
       {
+        id: 'motoryzacja-prl-yt-m7',
+        title: 'O początkach przemysłu samochodowego i o modelarstwie (1975)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=B_DBMsWHyz8',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Archiwalny program telewizyjny z 1975 roku.',
+      },
+      {
         id: 'maluch-polona',
         title: 'Motoryzacja w PRL – Maluch i inne – opracowania',
         type: 'publikacja',
@@ -11063,6 +11119,14 @@ Wyjazd – choćby na krajowy kemping – dawał poczucie wolności od codzienne
 Harcerskie obozy były dla wielu dzieci najważniejszą przestrzenią wolności i wspólnoty. Piosenki przy ognisku, przyroda, samodzielność – kontrast z codzienną ideologią szkolną.`,
     trivia: ['Wyjazd na Zachód wymagał paszportu i zgody władz.', 'Popularne były wczasy krajowe i wycieczki zakładowe.'],
     resources: [
+      {
+        id: 'turystyka-prl-yt-m7',
+        title: '#PerłyArchiwów – Jak wypoczywało się w PRL? Wakacje z FWP i wczasy pod gruszą',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=tScrVNxQWC0',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Archiwalne materiały TVP o wypoczynku w PRL.',
+      },
       {
         id: 'turystyka-polona',
         title: 'Turystyka i wczasy w PRL – opracowania',
@@ -13033,6 +13097,14 @@ Impreza była pod ścisłą obserwacją Służby Bezpieczeństwa, która rejestr
 ## Dziedzictwo
 Jarocin stał się legendą i symbolem pokolenia. Po 1989 roku festiwal reaktywowano, a w mieście powstało Spichlerz Polskiego Rocka – muzeum dokumentujące historię imprezy.`,
     resources: [
+      {
+        id: 'jarocin-festiwal-yt-m7',
+        title: '#PerłyArchiwów – czym naprawdę był Jarocin?',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=_2TFEf6bbBE',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Archiwalne materiały TVP o festiwalu w Jarocinie.',
+      },
       {
         id: 'jarocin-festiwal-walter-chestowski',
         title: 'Walter Chełstowski – artykuł',
@@ -18696,6 +18768,14 @@ Dla polskiego nabywcy Polonez był samochodem prestiżowym, bo większym i droż
     ],
     resources: [
       {
+        id: 'fso-polonez-yt-m7',
+        title: 'W kolejce po nowego poloneza',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=q5OFg3oM5Rk',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Archiwalny materiał telewizyjny o kolejkach po samochód.',
+      },
+      {
         id: 'fso-pkf',
         title: 'Polska Kronika Filmowa – FSO i motoryzacja',
         type: 'nagranie',
@@ -23416,6 +23496,14 @@ Morze było też granicą państwa, patrolowaną przez Wojska Ochrony Pogranicza
     ],
     resources: [
       {
+        id: 'wczasy-nad-morzem-yt-m7',
+        title: 'Czy PRL wymyślił polskie wakacje? Wczasy pracownicze i turystyka – #PerłyArchiwów',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=Z_HXemgOhGw',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Archiwalne materiały TVP o wczasach pracowniczych.',
+      },
+      {
         id: 'wnm-yt',
         title: 'Wczasy nad morzem PRL – materiały',
         type: 'nagranie',
@@ -23847,6 +23935,14 @@ Dla kilku pokoleń mężczyzn „woja” była wspólnym doświadczeniem – od 
       'Po Marcu 1968 roku relegowanych studentów powoływano do wojska.',
     ],
     resources: [
+      {
+        id: 'sluzba-wojskowa-yt-m7',
+        title: 'Jak wyglądało WKU w PRL?',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=Hw3ISdsDXLY',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Archiwalny materiał telewizyjny o poborze do wojska.',
+      },
       {
         id: 'sw2-yt',
         title: 'Służba wojskowa w PRL – materiały',
@@ -30304,6 +30400,14 @@ W latach niedoborów świąteczne zakupy oznaczały kolejki po mięso, wędliny,
       'Na Śląsku zwyczaj święconki upowszechnił się dopiero na przełomie lat 70. i 80.',
     ],
     resources: [
+      {
+        id: 'wielkanoc-prl-yt-m7',
+        title: '#PerłyArchiwów – Polskie zwyczaje i tradycje wielkanocne',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=ou-mKMso1Bg',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Archiwalne materiały TVP o zwyczajach wielkanocnych.',
+      },
       {
         id: 'wlk-yt',
         title: 'Wielkanoc w PRL – materiały',
