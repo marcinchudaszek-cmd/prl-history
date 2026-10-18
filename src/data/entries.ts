@@ -16637,6 +16637,8 @@ Z okazji święta ogłaszano amnestie, obejmujące niekiedy więźniów politycz
     yearStart: 1959,
     yearEnd: 1984,
     summary: 'Eksperymentalny teatr Jerzego Grotowskiego, twórcy koncepcji „teatru ubogiego”, który zdobył światową sławę i zrewolucjonizował myślenie o sztuce aktorskiej.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jerzy_Grotowski_%281971%29.jpg?width=800',
+    imageCaption: 'Jerzy Grotowski we Wrocławiu, 1971',
     content: `## Powstanie
 Jerzy Grotowski objął w 1959 roku Teatr 13 Rzędów w Opolu – małą scenę, którą przekształcił w laboratorium pracy nad aktorem. W 1965 roku zespół przeniósł się do Wrocławia jako Teatr Laboratorium i stamtąd zdobył światową sławę.
 
@@ -21808,6 +21810,8 @@ Po 1989 roku był senatorem i wicemarszałkiem Sejmu, ostro obecnym w debacie pu
     yearStart: 1963,
     yearEnd: 1980,
     summary: 'Najskuteczniejszy strzelec w historii reprezentacji i jego Górnik Zabrze – wielokrotny mistrz Polski i finalista europejskiego pucharu w 1970 roku.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ticket_Manchester_City_-_G%C3%B3rnik_Zabrze.jpg?width=800',
+    imageCaption: 'Bilet na mecz Górnik Zabrze – Manchester City w Chorzowie, 10 marca 1971',
     content: `## Górnik Zabrze
 Górnik był najsilniejszym polskim klubem lat 60. – mistrzostwo zdobywał seryjnie od 1963 roku, a mecze na stadionie przy Roosevelta gromadziły dziesiątki tysięcy widzów. Klub wyrastał z górniczego zaplecza Zabrza i był traktowany jak duma całego Śląska.
 
@@ -23137,6 +23141,8 @@ Dialogi z „Rejsu” weszły do polszczyzny i przez dekady służyły jako kome
     yearStart: 1981,
     yearEnd: 1981,
     summary: 'Najsłynniejsza komedia Stanisława Barei – ikona „bareizmu”, bezlitośnie wyśmiewająca absurdy schyłkowego PRL.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/POL_Mi%C5%9B_Bemowo.jpg?width=800',
+    imageCaption: 'Replika słomianego misia z filmu Stanisława Barei, Warszawa-Bemowo',
     content: `## Film
 „Miś” Stanisława Barei, nakręcony w 1980 i pokazany rok później, jest najbardziej znaną polską komedią o absurdach PRL. Scenariusz napisał wspólnie ze Stanisławem Tymem, który zagrał główną rolę Ryszarda Ochódzkiego, prezesa klubu sportowego „Tęcza”.
 
@@ -24744,6 +24750,8 @@ Dezerter gra do dziś i pozostał zespołem niezależnym także po 1989 roku, ni
     tags: ['film', 'kino', 'historia', 'ekranizacja'],
     yearStart: 1960,
     summary: 'Historyczna superprodukcja Aleksandra Forda (1960) wg powieści Sienkiewicza; z rekordową w dziejach polskiego kina widownią i słynną sceną bitwy pod Grunwaldem.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Film_Krzy%C5%BCacy_w_kinie_Skarpa_w_Warszawie.jpg?width=800',
+    imageCaption: 'Kolejka po bilety na „Krzyżaków” przed kinem Skarpa w Warszawie, 1960',
     content: `## Superprodukcja
 „Krzyżacy” Aleksandra Forda z 1960 roku byli pierwszą polską superprodukcją: barwną, szerokoekranową, kosztowną, z tysiącami statystów i wielką sceną batalistyczną. Powstali na podstawie powieści Henryka Sienkiewicza, a w rolach głównych wystąpili Mieczysław Kalenik, Grażyna Staniszewska i Andrzej Szalawski jako Jurand ze Spychowa.
 
@@ -25070,6 +25078,8 @@ Festiwale w Jarocinie i Metalmania były dla takich zespołów głównym obiegie
     tags: ['film', 'kino', 'historia', 'ekranizacja'],
     yearStart: 1966,
     summary: 'Monumentalny dramat historyczny Jerzego Kawalerowicza (1966) wg powieści Bolesława Prusa; nominowany do Oscara film o walce faraona z kastą kapłanów.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Scena_z_Faraona_1.jpg?width=800',
+    imageCaption: 'Scena z „Faraona” Jerzego Kawalerowicza (1966)',
     content: `## Film
 „Faraon” Jerzego Kawalerowicza to film historyczny z 1965 roku według powieści Bolesława Prusa, zrealizowany w Zespole Filmowym „Kadr”. Premiera odbyła się 11 marca 1966 roku w Sali Kongresowej w Warszawie. Młodego następcę tronu, a potem faraona Ramzesa XIII, zagrał Jerzy Zelnik.
 
@@ -25888,6 +25898,8 @@ Jej sposób śpiewania – oszczędny, oparty na frazie, barwie głosu i starann
     tags: ['film', 'kino', 'polityka', 'rozrachunek', 'stalinizm'],
     yearStart: 1977,
     summary: 'Rozrachunkowy dramat polityczny Andrzeja Wajdy (1977) o studentce kręcącej film o zapomnianym przodowniku pracy Mateuszu Birkucie; demaskacja propagandy stalinowskiej.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jerzy_Radziwi%C5%82owicz_jako_Mateusz_Birkut_w_filmie_Cz%C5%82owiek_z_marmuru.jpg?width=800',
+    imageCaption: 'Jerzy Radziwiłowicz jako Mateusz Birkut w „Człowieku z marmuru” (1977)',
     content: `## Scenariusz z szuflady
 W 1962 roku Jerzy Bossak podsunął Andrzejowi Wajdzie gazetową historię Piotra Ożańskiego, przodownika pracy z czasów stalinowskich, który po latach nie mógł znaleźć zatrudnienia. Scenariusz Aleksandra Ścibora-Rylskiego nie mógł wtedy powstać. Wajda wrócił do niego po sukcesie „Ziemi obiecanej”. 3 lutego 1976 roku minister kultury Józef Tejchma, ryzykując stanowisko, dał formalną zgodę na realizację.
 
@@ -28326,6 +28338,8 @@ W 1990 roku przedsiębiorstwo podzielono na 176 firm. Część z nich zlikwidowa
     tags: ['film', 'kino', 'dramat', 'ekranizacja'],
     yearStart: 1961,
     summary: 'Czarno-biały dramat Jerzego Kawalerowicza (1960) według Iwaszkiewicza – o egzorcyzmach w kresowym klasztorze; nagroda specjalna jury w Cannes.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kinema-Junpo-1962-April-early-9.jpg?width=800',
+    imageCaption: '„Matka Joanna od Aniołów” w japońskim magazynie filmowym „Kinema Junpō”, 1962',
     content: `## Film
 „Matka Joanna od Aniołów” to czarno-biały film Jerzego Kawalerowicza z 1960 roku, oparty na opowiadaniu Jarosława Iwaszkiewicza. Pisarz przeniósł siedemnastowieczne wydarzenia z klasztoru urszulanek w Loudun na kresy Rzeczypospolitej. Scenariusz Kawalerowicz napisał z Tadeuszem Konwickim, kierownikiem artystycznym Zespołu Filmowego „Kadr”.
 
