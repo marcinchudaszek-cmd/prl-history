@@ -12441,6 +12441,8 @@ Stanisław Pyjas stał się symbolem ofiar systemu wśród młodzieży akademick
     yearStart: 1970,
     yearEnd: 1989,
     summary: 'Filmy Stanisława Barei, lekceważone przez ówczesną krytykę, okazały się najtrafniejszym portretem absurdów codzienności PRL. Od jego nazwiska ukuto pojęcie „bareizm” – określenie peerelowskiej groteski systemowej.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw_Bareja.jpg?width=800',
+    imageCaption: 'Stanisław Bareja – zdjęcie z akt paszportowych, 1987 (IPN)',
     trivia: ['Filmy Stanisława Barei tak celnie portretowały absurdy PRL, że ukuto termin „bareizm”.'],
     content: `## Reżyser niedoceniony
 
@@ -12498,6 +12500,8 @@ Od nazwiska reżysera powstało pojęcie „bareizm” – oznaczające typową 
     yearStart: 1965,
     yearEnd: 1989,
     summary: 'Telewizyjne seriale PRL, jak „Czterej pancerni i pies” czy „Stawka większa niż życie”, były zarazem rozrywką masową i nośnikiem propagandy. Mimo to wiele z nich zyskało status kultowych i do dziś kształtuje pamięć o epoce.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw_Mikulski_w_serialu_Stawka_wi%C4%99ksza_ni%C5%BC_%C5%BCycie_%281967%29.jpg?width=800',
+    imageCaption: 'Stanisław Mikulski jako Hans Kloss w „Stawce większej niż życie”',
     content: `## Telewizja i serial
 
 Wraz z upowszechnieniem telewizji w latach 60. serial stał się najważniejszą formą kultury masowej w PRL. Wieczorne emisje gromadziły przed odbiornikami miliony widzów, a bohaterowie seriali stawali się postaciami znanymi w całym kraju.
@@ -25971,6 +25975,8 @@ Powstający równolegle z KOR film trafił w nastroje po wydarzeniach czerwca 19
     tags: ['film', 'kino', 'solidarność', 'polityka', 'opozycja'],
     yearStart: 1981,
     summary: 'Kontynuacja „Człowieka z marmuru” (1981, reż. Wajda); najważniejszy film fabularny o Sierpniu \'80 i Solidarności, nagrodzony Złotą Palmą w Cannes.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/AGAD_Opinion_of_Culture_Dept_of_Polish_Communust_Party_on_Man_of_Iron_1.png?width=800',
+    imageCaption: '„Informacja nt. filmu A. Wajdy »Człowiek z żelaza«” – notatka Wydziału Kultury KC PZPR z 19 maja 1981 (AGAD)',
     content: `## Kontynuacja
 „Człowiek z żelaza” Andrzeja Wajdy, według scenariusza Aleksandra Ścibora-Rylskiego, powstał w 1981 roku jako kontynuacja „Człowieka z marmuru”. Wyprodukował go Zespół Filmowy „X”. Akcja toczy się w Gdańsku w sierpniu 1980 roku, w czasie strajku w Stoczni Gdańskiej.
 
