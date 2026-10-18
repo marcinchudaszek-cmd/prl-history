@@ -23146,6 +23146,8 @@ Zespół zagrał kilka tysięcy koncertów w Polsce i za granicą. Małgorzata O
     yearStart: 1979,
     yearEnd: 1989,
     summary: 'Warszawski zespół rockowy założony w 1979 roku, autor przebojów „Ten wasz świat”, „Party” i „Andzia i ja”; jeden z najpopularniejszych w pierwszej połowie lat 80.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Miko%C5%82%C3%B3w_Klub_Fraktal_-_Odzia%C5%82_Zamkni%C4%99ty_-_Wojtek_%C5%81uczaj-Pogorzelski01.jpg?width=800',
+    imageCaption: 'Wojciech Łuczaj-Pogorzelski, współzałożyciel Oddziału Zamkniętego, na koncercie w Mikołowie, 2007',
     content: `## Początki
 Oddział Zamknięty powstał w listopadzie 1979 roku w Warszawie z zespołu grającego na studniówkach, który założyli wokalista Krzysztof Jaryczewski i perkusista Jarosław Szlagowski. Dołączyli gitarzysta Wojciech Łuczaj-Pogorzelski – jedyny muzyk obecny w zespole przez cały czas – i basista Paweł Mścisławski. Pod nazwą Oddział Zamknięty zadebiutowali wiosną 1980 roku w domu kultury na Mokotowie.
 
@@ -28800,6 +28802,8 @@ Na festiwalu w Cannes w 1961 roku film otrzymał Nagrodę Specjalną Jury – Sr
     yearStart: 1960,
     yearEnd: 1976,
     summary: 'Jeden z pierwszych polskich zespołów big-beatu, założony w 1960 roku przez Franciszka Walickiego; akompaniował m.in. Karin Stanek, Helenie Majdaniec i Kasi Sobczyk.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Bytom_Karin_Stanek.jpg?width=800',
+    imageCaption: 'Rzeźba upamiętniająca Karin Stanek, wokalistkę Czerwono-Czarnych, na placu jej imienia w Bytomiu',
     content: `## Początek big-beatu
 Czerwono-Czarni powstali 22 czerwca 1960 roku przy gdańskim Jazz Clubie z inicjatywy Franciszka Walickiego. Nazwa pochodziła od barw klubu. Zespół miał kontynuować działalność rozwiązanej odgórnie w 1959 roku grupy Rhythm and Blues. Walicki wymyślił dla tej muzyki określenie „big-beat”, żeby nie używać źle widzianego „rock and rolla”.
 
