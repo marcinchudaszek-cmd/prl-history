@@ -2048,6 +2048,14 @@ W czerwcu 1987 roku papież odwiedził m.in. Gdańsk i Gdynię, gdzie przed setk
 Nauczanie papieża uznaje się za jeden z czynników przemian w bloku wschodnim. W 1989 roku – roku Okrągłego Stołu i wyborów 4 czerwca – Watykan odwiedził Michaił Gorbaczow, pierwszy przywódca ZSRR w historii. Jan Paweł II zmarł 2 kwietnia 2005 roku; beatyfikowano go w 2011 roku, a kanonizowano 27 kwietnia 2014 roku.`,
     resources: [
       {
+        id: 'jan-pawel-ii-yt-m15',
+        title: 'Jakie emocje pozostały w sercach świadków pierwszej pielgrzymki Jana Pawła II do Ojczyzny?',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=-cBTf_aqzRI',
+        source: 'IPNtv',
+        description: 'Relacje świadków pielgrzymki z 1979 roku zebrane przez IPN.',
+      },
+      {
         id: 'jp2-1',
         title: 'Jan Paweł II – zdjęcia i grafiki',
         type: 'zdjęcie',
@@ -9158,6 +9166,14 @@ Obok animacji dla dzieci powstawały filmy dla dorosłych: Jana Lenicy, Walerian
     ],
     resources: [
       {
+        id: 'animacja-prl-yt-m15',
+        title: '„Wagary” (1976) – seria „Przygody Bolka i Lolka”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=2b9mqZ65DKA',
+        source: 'Studio Filmów Rysunkowych (YouTube)',
+        description: 'Pełny odcinek udostępniony przez bielskie Studio Filmów Rysunkowych.',
+      },
+      {
         id: 'anim-1',
         title: 'Polska animacja w PRL – nagrania archiwalne (2)',
         type: 'nagranie',
@@ -9648,6 +9664,14 @@ Kronikarz codzienności i językowy eksperymentator. Jego "Pamiętnik z Powstani
 Prozaik i scenarzysta. Jego powieści – "Kronika wypadków miłosnych" (1974), "Mała apokalipsa" (1979, wydana w drugim obiegu) – łączyły autobiografię, politykę i metafizykę. "Mała apokalipsa" była ostrą satyrą na PRL, niemożliwą do legalnej publikacji.`,
     trivia: ['Część pisarzy publikowała wyłącznie w drugim obiegu albo na emigracji.', 'Czesław Miłosz odebrał literacką Nagrodę Nobla w 1980 roku.'],
     resources: [
+      {
+        id: 'literatura-prl-yt-m15',
+        title: 'Życie literackie PRL – „Kulisy historii” odc. 217',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=Zhv2Phf-XBY',
+        source: 'IPNtv',
+        description: 'Program Instytutu Pamięci Narodowej o pisarzach i literaturze w PRL.',
+      },
       {
         id: 'lit-prl-1',
         title: 'Literatura w PRL – opracowania',
@@ -11159,6 +11183,14 @@ Pomniki i symbolika PRL były próbą przejęcia przestrzeni publicznej dla ideo
 Walka o przestrzeń symboliczną – kto jest patronem ulic i placów – trwa w Polsce do dziś i odzwierciedla głębszy spór o interpretację historii XX wieku.`,
     trivia: ['Pomniki wyznaczały oficjalną, obowiązującą pamięć o wojnie i władzy.', 'Po 1989 roku wiele z nich usunięto lub przeniesiono.'],
     resources: [
+      {
+        id: 'pomniki-prl-yt-m15',
+        title: 'Komunistyczne pomniki – „Historia dla Ciebie” odc. 50',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=TJVCMRXhTEs',
+        source: 'IPNtv',
+        description: 'Program Instytutu Pamięci Narodowej o pomnikach z czasów PRL.',
+      },
       {
         id: 'pomniki-polona',
         title: 'Pomniki i symbolika PRL – opracowania',
@@ -14994,6 +15026,14 @@ Serial przedstawiał wojnę zgodnie z oficjalną narracją: braterstwo broni z Z
 Dziś ocenia się go ambiwalentnie – jako sprawnie zrobiony serial przygodowy i jednocześnie jeden z najskuteczniejszych nośników propagandy w historii polskiej telewizji. Obie te rzeczy są prawdziwe naraz i to właśnie czyni go interesującym.`,
     resources: [
       {
+        id: 'czterej-pancerni-yt-m15',
+        title: '60. rocznica emisji pierwszego odcinka serialu „Czterej pancerni i pies” (1966)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=rke8boEaSu8',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Materiał archiwum TVP o serialu.',
+      },
+      {
         id: 'cp-1',
         title: 'Czterej pancerni i pies',
         type: 'film',
@@ -15045,6 +15085,14 @@ Najbardziej znaną formą protestu był bojkot głównego wydania. Od lutego 198
       'W Świdniku w 1982 roku mieszkańcy wychodzili na spacer w porze „Dziennika”, a telewizory wystawiali w oknach ekranem na ulicę.',
     ],
     resources: [
+      {
+        id: 'dziennik-telewizyjny-yt-m15',
+        title: 'Telewizja w PRL – „Kulisy historii” odc. 243',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=znZAATsGumI',
+        source: 'IPNtv',
+        description: 'Program Instytutu Pamięci Narodowej o telewizji i jej propagandzie.',
+      },
       {
         id: 'dtv-2',
         title: 'Dziennik Telewizyjny – opracowania',
@@ -17822,6 +17870,14 @@ Wagner wracał później do kadry i pozostał symbolem trenera-charakteru; jego 
     trivia: ['Polscy siatkarze zdobyli mistrzostwo świata.', 'Dwa lata później sięgnęli po złoto olimpijskie w Montrealu.'],
     resources: [
       {
+        id: 'siatkowka-1974-yt-m15',
+        title: '„Mistrzowie” – film o złotych siatkarzach',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=i-njiGoK4u8',
+        source: 'TVP Info (YouTube)',
+        description: 'Materiał TVP o drużynie Huberta Wagnera, mistrzach świata z 1974 roku.',
+      },
+      {
         id: 'siat-pkf',
         title: 'Polska Kronika Filmowa – siatkarze mistrzami świata 1974',
         type: 'nagranie',
@@ -18370,6 +18426,14 @@ Instytut „Pomnik – Centrum Zdrowia Dziecka” działa do dziś i pozostaje j
     trivia: ['Szpital powstał ze społecznych składek.', 'Miał być pomnikiem-szpitalem dla dzieci – ofiar wojny.'],
     resources: [
       {
+        id: 'centrum-zdrowia-dziecka-yt-m15',
+        title: 'Instytut „Pomnik – Centrum Zdrowia Dziecka”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=oZ4VCLDHceg',
+        source: 'Instytut „Pomnik – Centrum Zdrowia Dziecka” (YouTube)',
+        description: 'Oficjalny film szpitala.',
+      },
+      {
         id: 'czd-pkf',
         title: 'Polska Kronika Filmowa – budowa Centrum Zdrowia Dziecka',
         type: 'nagranie',
@@ -18487,6 +18551,14 @@ Polarnictwo, podobnie jak himalaizm, dawało poczucie uczestnictwa w światowej 
     trivia: ['Polska stacja imienia Arctowskiego działa na Antarktydzie od lat 70.', 'Polacy prowadzili badania także na Spitsbergenie.'],
     resources: [
       {
+        id: 'wyprawy-polarne-yt-m15',
+        title: '„Wyprawa na Spitsbergen” – reportaż Joanny Bogusławskiej',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=NrY0oF-rLbg',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Reportaż Polskiego Radia o polskich badaniach polarnych.',
+      },
+      {
         id: 'pol-1',
         title: 'Polarnictwo polskie – materiały',
         type: 'publikacja',
@@ -18540,6 +18612,14 @@ Programy balansowały na granicy dopuszczalnego. Aluzja polityczna musiała być
 Obok „Pod Egidą” Pietrzaka i Kabaretu Tey programy Lipińskiej współtworzyły złotą erę polskiej satyry. Wyróżniały się tym, że nie rezygnowały z ambicji literackiej ani z formy – rozrywka była tu robiona z najwyższą starannością.`,
     trivia: ['Kabaret Olgi Lipińskiej łączył satyrę z piosenką i teatrem.', 'Był jednym z niewielu programów satyrycznych w telewizji.'],
     resources: [
+      {
+        id: 'olga-lipinska-yt-m15',
+        title: '„Zawsze starałam się, żeby zrobić to jak najlepiej”. Olga Lipińska o swojej twórczości',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=fJu4kKKiSDA',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Rozmowa Polskiego Radia z reżyserką.',
+      },
       {
         id: 'oli-3',
         title: 'Satyra PRL – materiały',
@@ -19983,6 +20063,14 @@ W ostatnich latach mieszkał na Saskiej Kępie, prowadząc dziennik wydany pośm
     trivia: ['Napisał „Pamiętnik z powstania warszawskiego” – relację zwykłego cywila.', 'Prowadził teatr we własnym mieszkaniu.'],
     resources: [
       {
+        id: 'bialoszewski-miron-yt-m15',
+        title: 'Przeganianie złodziei, oswajanie blokowiska – radiowe opowieści Mirona Białoszewskiego',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=eSCiKqgQtNA',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Archiwalne nagrania poety z zasobów Polskiego Radia.',
+      },
+      {
         id: 'bialoszewski-miron-culture',
         title: 'Miron Białoszewski w serwisie Culture.pl',
         type: 'publikacja',
@@ -21218,6 +21306,14 @@ Zginął w wypadku samochodowym w 2002 roku. Zbudowany przez niego system pomocy
     trivia: ['Założył Monar, gdy oficjalnie twierdzono, że w Polsce nie ma narkomanii.', 'Stworzył pierwszy ośrodek pomocy dla uzależnionych w kraju.'],
     resources: [
       {
+        id: 'kotanski-marek-yt-m15',
+        title: 'Marek Kotański – życie w służbie wykluczonym',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=jPKFOrT0Kww',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Audycja Polskiego Radia o twórcy Monaru.',
+      },
+      {
         id: 'kot-1',
         title: 'Marek Kotański i Monar – materiały',
         type: 'publikacja',
@@ -21271,6 +21367,14 @@ Weszła do prezydium MKS i znalazła się wśród sygnatariuszy Porozumień Gda�
 Jej historia pokazuje, jak wiele w Sierpniu zależało od decyzji podjętych w pojedynkę i na miejscu. Razem z Walentynowicz i Pienkowską należy do kobiet, bez których Solidarność nie powstałaby w tym kształcie – a które przez lata były w oficjalnej opowieści niemal niewidoczne.`,
     trivia: ['Zatrzymała tramwaj w Gdańsku, wspierając strajk w sierpniu 1980.', 'Zasiadła w prezydium Międzyzakładowego Komitetu Strajkowego.'],
     resources: [
+      {
+        id: 'krzywonos-henryka-yt-m15',
+        title: 'Notacje ECS – Negocjatorzy i sygnatariusze: Henryka Krzywonos-Strycharska',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=aHcMgGfIvYQ',
+        source: 'Europejskie Centrum Solidarności (YouTube)',
+        description: 'Relacja uczestniczki strajku z sierpnia 1980 roku nagrana przez ECS.',
+      },
       {
         id: 'kr-1',
         title: 'Henryka Krzywonos – opracowania',
@@ -21387,6 +21491,14 @@ W Ursusie działała silna Solidarność. 14–15 grudnia 1981 roku zakład stra
       'Ciągnik C-330 produkowano od 1967 do 1993 roku – sprzedano ponad 430 tysięcy egzemplarzy.',
     ],
     resources: [
+      {
+        id: 'ursus-zaklady-yt-m15',
+        title: 'Rocznica strajków w Ursusie, Radomiu i Płocku z 1976 roku',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=wJj4m26n-_I',
+        source: 'IPNtv',
+        description: 'Rozmowa w programie IPN „Historia toczy się dziś”.',
+      },
       {
         id: 'urs-pkf',
         title: 'Polska Kronika Filmowa – Zakłady Ursus',
@@ -23283,6 +23395,14 @@ W latach 1986–2000 prowadziła własny teatr w Krakowie, potem wycofała się 
     ],
     resources: [
       {
+        id: 'demarczyk-ewa-yt-m15',
+        title: 'Ewa Demarczyk we wspomnieniach przyjaciół – reportaż Eweliny Karpacz-Oboładze',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=8CVVFDuQH1s',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Reportaż Polskiego Radia o pieśniarce.',
+      },
+      {
         id: 'demarczyk-ewa-culture',
         title: 'Ewa Demarczyk w serwisie Culture.pl',
         type: 'publikacja',
@@ -23331,6 +23451,14 @@ Dialogi z „Rejsu” weszły do polszczyzny i przez dekady służyły jako kome
       'Inżynier Mamoń twierdzi, że podobają mu się tylko te piosenki, które już dobrze zna.',
     ],
     resources: [
+      {
+        id: 'rejs-film-yt-m15',
+        title: '„Rejs” – wykład prof. Tadeusza Lubelskiego',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=ByZB4m3s89A',
+        source: 'Akademia Polskiego Filmu (YouTube)',
+        description: 'Wykład Akademii Polskiego Filmu o filmie Marka Piwowskiego.',
+      },
       {
         id: 'rejs-film-culture',
         title: 'Rejs w serwisie Culture.pl',
@@ -23388,6 +23516,14 @@ Dialogi weszły do polszczyzny na trwałe i do dziś funkcjonują jako komentarz
       'Od nazwiska reżysera powstało określenie „bareizm”, opisujące charakterystyczny typ absurdu.',
     ],
     resources: [
+      {
+        id: 'mis-film-yt-m15',
+        title: 'Przesłanie filmu „Miś” – opowiada Stanisław Bareja',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=wz_dF0CCoq8',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Archiwalne nagranie reżysera z zasobów Polskiego Radia.',
+      },
       {
         id: 'mis-fp',
         title: 'Miś – o filmie',
@@ -24998,6 +25134,14 @@ Krytyka od początku dzieliła się między podziwem dla skali a zarzutem, że f
     ],
     resources: [
       {
+        id: 'krzyzacy-yt-m15',
+        title: '„Krzyżacy” – uwikłanie ideologiczne filmu, prof. Bogusław Skowronek',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=J8BncL6Q038',
+        source: 'Akademia Polskiego Filmu (YouTube)',
+        description: 'Wykład Akademii Polskiego Filmu o filmie Aleksandra Forda.',
+      },
+      {
         id: 'krzyzacy-culture',
         title: 'Krzyżacy w serwisie Culture.pl',
         type: 'publikacja',
@@ -26478,6 +26622,14 @@ Od początku cieszył się ogromną popularnością i był wielokrotnie powtarza
     ],
     resources: [
       {
+        id: 'polskie-drogi-yt-m15',
+        title: 'Maklakiewicz uczy tanga! „Polskie drogi” (1977)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=-QiUsSZYq_E',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Fragment serialu z oficjalnego kanału archiwum TVP.',
+      },
+      {
         id: 'pdr-2',
         title: '„Polskie drogi” – artykuł',
         type: 'publikacja',
@@ -26988,6 +27140,14 @@ Za granicą film odniósł sukces: dostał nagrodę FIPRESCI w Wenecji i jako pi
       'Kadr z filmu trafił w 1963 roku na okładkę magazynu „Time”.',
     ],
     resources: [
+      {
+        id: 'noz-w-wodzie-yt-m15',
+        title: '„Nóż w wodzie” – debiut Romana Polańskiego, dr Anna Taszycka',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=zas8Eeh5O8k',
+        source: 'Akademia Polskiego Filmu (YouTube)',
+        description: 'Wykład Akademii Polskiego Filmu.',
+      },
       {
         id: 'noz-w-wodzie-culture',
         title: 'Nóż w wodzie w serwisie Culture.pl',
@@ -28376,6 +28536,14 @@ Film zdobył Złoty Medal i wyróżnienie FIPRESCI na festiwalu w Moskwie, otwie
       'Film zdobył Złoty Medal na festiwalu w Moskwie w 1979 roku.',
     ],
     resources: [
+      {
+        id: 'amator-film-yt-m15',
+        title: '„Amator” – kanoniczny film nurtu kina moralnego niepokoju, dr Paulina Kwiatkowska',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=P5BCEXDF6ks',
+        source: 'Akademia Polskiego Filmu (YouTube)',
+        description: 'Wykład Akademii Polskiego Filmu o filmie Krzysztofa Kieślowskiego.',
+      },
       {
         id: 'amator-film-culture',
         title: 'Amator w serwisie Culture.pl',
@@ -30506,6 +30674,14 @@ Zderzenie konwencji superbohaterskiej z realiami PRL – urzędowym językiem, p
     ],
     resources: [
       {
+        id: 'hydrozagadka-yt-m15',
+        title: '„Rejs”, „Hydrozagadka” – wykład dr. Mateusza Wernera',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=TnhaRUFCJxY',
+        source: 'Akademia Polskiego Filmu (YouTube)',
+        description: 'Wykład Akademii Polskiego Filmu o dwóch komediach przełomu lat 60. i 70.',
+      },
+      {
         id: 'hydrozagadka-andrzej-kondratiuk',
         title: 'Andrzej Kondratiuk – artykuł',
         type: 'publikacja',
@@ -32207,6 +32383,14 @@ Odmowy zgód budowlanych były jednym z najczęstszych zarzewi lokalnych konflik
     ],
     resources: [
       {
+        id: 'urzad-wyznan-yt-m15',
+        title: 'Urząd do Spraw Wyznań – struktury, działalność, ludzie – dyskusja o książce',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=ybN6y4-AFPI',
+        source: 'IPNtv',
+        description: 'Dyskusja historyków IPN o urzędzie nadzorującym Kościoły i związki wyznaniowe.',
+      },
+      {
         id: 'urzad-wyznan-porozumienie-panstwo-koscio-',
         title: 'Porozumienie Państwo-Kościół 1950 – artykuł',
         type: 'publikacja',
@@ -32967,6 +33151,14 @@ Odbudowane Stare Miasto wpisano na listę światowego dziedzictwa UNESCO, a arch
       'BOS wydawało tygodnik „Skarpa Warszawska”, z którego powstała później „Stolica”.',
     ],
     resources: [
+      {
+        id: 'bos-yt-m15',
+        title: 'Odbudowa Warszawy',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=QgDfRq03KMA',
+        source: 'Muzeum Historii Polski (YouTube)',
+        description: 'Materiał Muzeum Historii Polski o powojennej odbudowie stolicy.',
+      },
       {
         id: 'bos-jan-zachwatowicz',
         title: 'Jan Zachwatowicz – artykuł',
@@ -35195,6 +35387,14 @@ Czterokrotnie, w latach 1957–1966, był nominowany do Nagrody Nobla. Zmarł 2 
       'Do Nagrody Nobla nominowano go w latach 1957, 1963, 1965 i 1966.',
     ],
     resources: [
+      {
+        id: 'iwaszkiewicz-yt-m15',
+        title: 'Ukraina barwna i europejska. Jarosław Iwaszkiewicz o swojej małej ojczyźnie',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=-B0jomYe3Ao',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Archiwalne nagranie pisarza z zasobów Polskiego Radia.',
+      },
       {
         id: 'iwaszkiewicz-culture',
         title: 'Jarosław Iwaszkiewicz w serwisie Culture.pl',
