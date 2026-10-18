@@ -1672,6 +1672,14 @@ Po 1989 roku IPN wszczął setki śledztw w sprawie zbrodni komunistycznych. Wi�
     ],
     resources: [
       {
+        id: 'represje-polityczne-yt-m10',
+        title: 'System penitencjarny w PRL jako element opresji – „Kulisy historii” odc. 263',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=gz8LE5-eWkA',
+        source: 'IPNtv',
+        description: 'Program Instytutu Pamięci Narodowej o więziennictwie w PRL.',
+      },
+      {
         id: 'rep-1',
         title: 'Represje polityczne w PRL – zdjęcia i grafiki',
         type: 'zdjęcie',
@@ -5842,6 +5850,14 @@ Najczęstszą formą ucieczki było niepowrócenie z legalnego wyjazdu – wycie
     ],
     resources: [
       {
+        id: 'ucieczki-z-prl-yt-m10',
+        title: 'Ekspertyza. Ucieczki ku wolności',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=LvWJ9bJYZyQ',
+        source: 'IPN Kraków (YouTube)',
+        description: 'Materiał Instytutu Pamięci Narodowej o ucieczkach z PRL.',
+      },
+      {
         id: 'uciecz-1',
         title: 'Ucieczki z PRL – opracowania (2)',
         type: 'publikacja',
@@ -6890,6 +6906,14 @@ Temat Kresów był w PRL półtabu: mówienie o przywiązaniu do Lwowa czy Wilna
 Pokolenia wysiedlonych Kresowiaków wychowywały dzieci i wnuki w kulcie utraconej ojczyzny. Towarzystwa Miłośników Lwowa, Wilna, Grodna działały mimo trudności. Dziś kultura kresowa – lwowska gwara, kresowe przepisy kulinarne, literatura – jest żywym dziedzictwem milionów Polaków.`,
     trivia: ['Utracone ziemie wschodnie były w PRL tematem tabu.', 'O Kresach mówiło się w domach, nie w szkole.'],
     resources: [
+      {
+        id: 'kresy-yt-m10',
+        title: 'Debata kresowa – historia i kulturowe znaczenie ziem wschodnich dawnej Rzeczypospolitej',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=NelYKA2xGsg',
+        source: 'IPNtv',
+        description: 'Debata historyków IPN o Kresach.',
+      },
       {
         id: 'kresy-1',
         title: 'Kresy Wschodnie – utracona ojczyzna – artykuł',
@@ -11370,6 +11394,14 @@ Gdynia zbudowała swój własny pomnik – Pomnik Ofiar Grudnia 1970 przy Bramie
     trivia: ['Trójmiasto było sercem protestów w 1970 i 1980 roku.', 'Tu powstały Wolne Związki Zawodowe, a potem Solidarność.'],
     resources: [
       {
+        id: 'gdansk-sopot-gdynia-yt-m10',
+        title: 'Czarny czwartek, Gdynia ’70. Dlaczego? – film dokumentalny',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=KsN9_az68hI',
+        source: 'IPNtv',
+        description: 'Film dokumentalny Instytutu Pamięci Narodowej o masakrze w Gdyni 17 grudnia 1970 roku.',
+      },
+      {
         id: 'trojmiasto-ecs',
         title: 'Europejskie Centrum Solidarności – archiwum',
         type: 'akt',
@@ -12430,6 +12462,14 @@ Filmy Barei musiały przechodzić przez cenzurę, która często ingerowała w s
 
 Od nazwiska reżysera powstało pojęcie „bareizm” – oznaczające typową dla PRL groteskową absurdalność rzeczywistości. Filmy Barei są dziś cenione jako dokument epoki i klasyka polskiej komedii, a ich cytaty weszły do języka potocznego.`,
     resources: [
+      {
+        id: 'bareja-kino-yt-m10',
+        title: 'Kultowe komedie Stanisława Barei – „Poszukiwany, poszukiwana”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=DDSCozrJ4hE',
+        source: 'Telewizja Kino Polska (YouTube)',
+        description: 'Materiał Telewizji Kino Polska o komediach Barei.',
+      },
       {
         id: 'bar-2',
         title: 'Bareja i absurdy PRL – publikacje',
@@ -14747,6 +14787,14 @@ W 2011 roku serial przeszedł cyfrową rekonstrukcję, a w 2012 roku powstała k
       'Serial nakręcono w latach 1967–1968, ale telewizja emitowała go od października 1968 do lutego 1969 roku.',
     ],
     resources: [
+      {
+        id: 'stawka-wieksza-niz-zycie-yt-m10',
+        title: '„Stawka większa niż życie” – odcinek 1',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=484P24-Flfc',
+        source: 'TVP VOD (YouTube)',
+        description: 'Pierwszy odcinek serialu udostępniony przez TVP.',
+      },
       {
         id: 'sww-1',
         title: 'Stawka większa niż życie',
@@ -17128,6 +17176,14 @@ Po Sierpniu 1980 Towarzystwo działało jawnie. Przerwał je stan wojenny. W lut
     ],
     resources: [
       {
+        id: 'tkn-uniwersytet-latajacy-yt-m10',
+        title: 'Tajne komplety opozycji: 45. rocznica powołania Towarzystwa Kursów Naukowych – debata',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=pDLd35SdnGI',
+        source: 'IPNtv',
+        description: 'Debata historyków IPN o TKN.',
+      },
+      {
         id: 'tkn-1',
         title: 'Uniwersytet Latający (TKN) – opracowania',
         type: 'publikacja',
@@ -17447,6 +17503,14 @@ Has konstruował przestrzenie gęste od detali, w których przedmioty znaczą ty
 Przez lata wykładał w łódzkiej Szkole Filmowej, której był potem rektorem. Pozostaje najbardziej rozpoznawalnym za granicą polskim twórcą kina wyobraźni – i reżyserem, którego filmy odkrywano na nowo w każdej kolejnej dekadzie.`,
     trivia: ['Mistrz kina onirycznego – „Rękopisu” i „Sanatorium pod klepsydrą”.', '„Rękopis znaleziony w Saragossie” zyskał na Zachodzie status filmu kultowego.'],
     resources: [
+      {
+        id: 'has-wojciech-yt-m10',
+        title: 'Wspomnienia o Wojciechu Jerzym Hasie, cz. 1',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=yaP0TVYjDD0',
+        source: 'Akademia Polskiego Filmu (YouTube)',
+        description: 'Materiał Akademii Polskiego Filmu o reżyserze.',
+      },
       {
         id: 'has-1',
         title: 'Wojciech Has – biogram',
@@ -19420,6 +19484,14 @@ W gospodarce niedoboru, gdzie towar był reglamentowany, a cena urzędowa nie od
     ],
     resources: [
       {
+        id: 'afera-miesna-yt-m10',
+        title: 'Akcja „Burza”, afera mięsna i Dziennik Telewizyjny w PRL – „Historia dla Ciebie” odc. 29',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=eORqSrnbuZA',
+        source: 'IPNtv',
+        description: 'Odcinek programu IPN, w którym omawiana jest afera mięsna.',
+      },
+      {
         id: 'am-1',
         title: 'Afera mięsna 1964 – opracowania',
         type: 'publikacja',
@@ -20620,6 +20692,14 @@ TPPR rozwiązano na początku lat 90. Pozostaje przykładem instytucji, która p
     trivia: ['Towarzystwo Przyjaźni Polsko-Radzieckiej organizowało obowiązkowe akademie.', 'Członkostwo bywało formalnością zapisywaną w zakładzie pracy.'],
     resources: [
       {
+        id: 'tppr-yt-m10',
+        title: 'Grudzień 1970, PZPR oraz „przyjaźń” polsko-radziecka – „Historia dla Ciebie” odc. 33',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=R1RUiT_E7cM',
+        source: 'IPNtv',
+        description: 'Odcinek programu IPN, w którym omawiana jest m.in. „przyjaźń” polsko-radziecka.',
+      },
+      {
         id: 'tppr-festiwal-piosenki-radzieckie',
         title: 'Festiwal Piosenki Radzieckiej – artykuł',
         type: 'publikacja',
@@ -21146,6 +21226,14 @@ Według szacunków BBC samo zagłuszanie w ZSRR kosztowało ponad 900 milionów 
     ],
     resources: [
       {
+        id: 'zagluszanie-radia-yt-m10',
+        title: 'Rozgłośnia wolności. Radio Wolna Europa',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=W8o207Evzg0',
+        source: 'Muzeum Historii Polski (YouTube)',
+        description: 'Materiał Muzeum Historii Polski o RWE i walce z jej odbiorem.',
+      },
+      {
         id: 'zr-1',
         title: 'Zagłuszanie Radia Wolna Europa – opracowania (2)',
         type: 'publikacja',
@@ -21273,6 +21361,14 @@ Po 13 grudnia 1981 roku w stoczni strajkowało około 4 tysięcy osób. W nocy z
       'Szczeciński Międzyzakładowy Komitet Strajkowy sformułował w sierpniu 1980 roku 36 postulatów, a porozumienie podpisano dzień przed gdańskim.',
     ],
     resources: [
+      {
+        id: 'stocznia-szczecinska-yt-m10',
+        title: 'Szczeciński Sierpień 1980 – film',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=NE4L06fN40w',
+        source: 'IPNtv',
+        description: 'Film Instytutu Pamięci Narodowej o strajku w Stoczni Szczecińskiej.',
+      },
       {
         id: 'stocznia-szczecinska-zrodlo1',
         title: 'Protokół ustaleń MKS z komisją rządową w Szczecinie (1980)',
@@ -21528,6 +21624,14 @@ Produkcja powstawała przy współpracy z MSW, które dbało o wizerunek milicji
 To klasyk polskiego kryminału telewizyjnego i jednocześnie dokument ambiwalentny: rozrywka najwyższej próby spleciona z funkcją propagandową, oglądana dziś przede wszystkim jako zapis realiów epoki.`,
     trivia: ['Porucznik Borewicz jeździł Polonezem – ówczesnym obiektem pożądania.', 'Serial pokazywał milicję w atrakcyjnym, filmowym świetle.'],
     resources: [
+      {
+        id: '07-zglos-sie-yt-m10',
+        title: 'Akcja na lotnisku z ostatniego odcinka „07 zgłoś się”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=rjINuD9QcPY',
+        source: 'TVP Polonia (YouTube)',
+        description: 'Fragment serialu z oficjalnego kanału TVP.',
+      },
       {
         id: '07-1',
         title: '07 zgłoś się – o serialu',
@@ -26360,6 +26464,14 @@ Studio Filmów Rysunkowych uczyniło z Bielska-Białej jeden z głównych ośrod
     ],
     resources: [
       {
+        id: 'reksio-yt-m10',
+        title: '„Reksio wybawca” (1977)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=2E-4XH4ujf0',
+        source: 'Studio Filmów Rysunkowych (YouTube)',
+        description: 'Pełny odcinek serii udostępniony przez bielskie Studio Filmów Rysunkowych.',
+      },
+      {
         id: 'rx-1',
         title: '„Reksio” – bajki',
         type: 'nagranie',
@@ -28672,6 +28784,14 @@ Kreacja Jerzego Stuhra – z jego charakterystycznym, nerwowym tempem mowy i uś
     ],
     resources: [
       {
+        id: 'wodzirej-yt-m10',
+        title: '„Wodzirej” – wykład dr Justyny Jaworskiej',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=j6zChU7Fl_M',
+        source: 'Akademia Polskiego Filmu (YouTube)',
+        description: 'Wykład Akademii Polskiego Filmu o filmie Feliksa Falka.',
+      },
+      {
         id: 'wo-2',
         title: '„Wodzirej” – artykuł',
         type: 'publikacja',
@@ -28993,6 +29113,14 @@ Dla jednych pozostał czołgistą, dla innych Mateuszem albo Jankielem – rzadk
     ],
     resources: [
       {
+        id: 'franciszek-pieczka-yt-m10',
+        title: '„Sprawa się rypła” – Franciszek Pieczka',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=D-KJlZza6Z0',
+        source: 'Telewizja Kino Polska (YouTube)',
+        description: 'Materiał Telewizji Kino Polska o aktorze.',
+      },
+      {
         id: 'franciszek-pieczka-culture',
         title: 'Franciszek Pieczka w serwisie Culture.pl',
         type: 'publikacja',
@@ -29099,6 +29227,14 @@ Na kolaudacji w październiku 1972 roku zarzucano filmowi pokazywanie osób na w
       'Pojęcie „bareizm” ukuł Kazimierz Kutz jako przytyk wobec komedii Barei.',
     ],
     resources: [
+      {
+        id: 'poszukiwany-poszukiwana-yt-m10',
+        title: 'Kultowe komedie Stanisława Barei – „Poszukiwany, poszukiwana”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=DDSCozrJ4hE',
+        source: 'Telewizja Kino Polska (YouTube)',
+        description: 'Materiał Telewizji Kino Polska o filmie Barei.',
+      },
       {
         id: 'pp2-2',
         title: '„Poszukiwany, poszukiwana” – artykuł',
@@ -30971,6 +31107,14 @@ Służbę rozwiązano w 1990 roku, a na jej miejsce powołano Wojskowe Służby 
     ],
     resources: [
       {
+        id: 'wsw-yt-m10',
+        title: '„Z filmoteki bezpieki” odc. 74 – Działalność Wojskowej Służby Wewnętrznej',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=iYlbh48i9uY',
+        source: 'IPNtv',
+        description: 'Materiały resortowe o WSW omawiane przez historyków IPN.',
+      },
+      {
         id: 'wsw-organy-bezpieczenstwa-panstw',
         title: 'Organy bezpieczeństwa państwa (1944–1990) – artykuł',
         type: 'publikacja',
@@ -32092,6 +32236,14 @@ Rząd przetrwał do 6 lutego 1947 roku. Było to półtora roku narastającego k
     ],
     resources: [
       {
+        id: 'trjn-yt-m10',
+        title: '80 lat od utworzenia Tymczasowego Rządu Jedności Narodowej – debata',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=x1QcNyYbDKg',
+        source: 'IPNtv',
+        description: 'Debata historyków IPN o TRJN.',
+      },
+      {
         id: 'trjn-konferencja-jatanska',
         title: 'Konferencja jałtańska – artykuł',
         type: 'publikacja',
@@ -32240,6 +32392,14 @@ Dla nowej władzy Państwo Podziemne było przeszkodą, nie dziedzictwem. Jego p
     ],
     resources: [
       {
+        id: 'panstwo-podziemne-yt-m10',
+        title: 'Polskie Państwo Podziemne – prezentacja dla nauczycieli',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=-GGXlcGa1-s',
+        source: 'IPNtv Bydgoszcz',
+        description: 'Materiał edukacyjny Instytutu Pamięci Narodowej.',
+      },
+      {
         id: 'panstwo-podziemne-delegatura-rzadu-na-kraj',
         title: 'Delegatura Rządu na Kraj – artykuł',
         type: 'publikacja',
@@ -32316,6 +32476,14 @@ Poczdam domknął to, co zaczęto w Jałcie: Polska otrzymała nowe granice i zn
       'Granicę na Odrze i Nysie ustalono „do czasu konferencji pokojowej”; ostatecznie potwierdzono ją dopiero w 1990 roku.',
     ],
     resources: [
+      {
+        id: 'poczdam-yt-m10',
+        title: 'Teheran, Jałta i Poczdam – konferencje, na których zdecydowano o losach Polski',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=b4O-Snif47E',
+        source: 'Muzeum Historii Polski (YouTube)',
+        description: 'Materiał Muzeum Historii Polski o konferencjach Wielkiej Trójki.',
+      },
       {
         id: 'poczdam-konferencja-jatanska',
         title: 'Konferencja jałtańska – artykuł',
@@ -32465,6 +32633,14 @@ Wyszyński wyszedł na wolność w październiku 1956 roku. Śluby zapoczątkowa
     ],
     resources: [
       {
+        id: 'sluby-jasnogorskie-yt-m10',
+        title: 'Milion ludzi na Jasnej Górze, czyli jak kobiety od Wyszyńskiego ubiegły komunistów',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=dWXZ8beLc-c',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Materiał Polskiego Radia o odczytaniu Ślubów Jasnogórskich 26 sierpnia 1956 roku.',
+      },
+      {
         id: 'sluby-jasnogorskie-sluby-lwowskie',
         title: 'Śluby lwowskie – artykuł',
         type: 'publikacja',
@@ -32591,6 +32767,14 @@ Ujawnienia Józefa Światły i referat Chruszczowa podcięły pozycję trójki. 
       'Po usunięciu z partii w 1957 roku pracował w wydawnictwie „Książka i Wiedza” aż do emerytury.',
     ],
     resources: [
+      {
+        id: 'berman-yt-m10',
+        title: 'Jakub Berman: oprawca czy biurokratyczny demon zza biurka? – cykl „Portrety” odc. 2',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=sT8CRLDM1Yw',
+        source: 'IPNtv',
+        description: 'Portret Jakuba Bermana przygotowany przez Instytut Pamięci Narodowej.',
+      },
       {
         id: 'berman-centralne-biuro-komunistow-p',
         title: 'Centralne Biuro Komunistów Polski – artykuł',
@@ -32813,6 +32997,14 @@ Uchodził za koniunkturalistę, który zawsze popierał najsilniejszych. Wyjątk
       'W 1968 roku jako jeden z nielicznych z najwyższego kierownictwa sam zrzekł się wszystkich stanowisk.',
     ],
     resources: [
+      {
+        id: 'ochab-yt-m10',
+        title: 'Edward Ochab i Stanisław Kania – cykl „Namiestnicy Kremla i zarządcy komunistycznej Polski”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=dHJ3Fo9f544',
+        source: 'IPNtv',
+        description: 'Biografie dwóch I sekretarzy PZPR w cyklu IPN.',
+      },
       {
         id: 'ochab-polski-pazdziernik-1956',
         title: 'Polski październik 1956 – artykuł',
@@ -33102,6 +33294,14 @@ W październiku 1956 roku jego obecność w kierownictwie stała się jednym z g
     ],
     resources: [
       {
+        id: 'rokossowski-yt-m10',
+        title: 'Rokossowski, najlepszy marszałek Stalina. W Rosji Polakiem, a w Polsce Ruskim',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=YVnwmdZNvww',
+        source: 'RMF FM (YouTube)',
+        description: 'Audycja z cyklu „Misja specjalna” o marszałku Rokossowskim.',
+      },
+      {
         id: 'rokossowski-ludowe-wojsko-polskie',
         title: 'Ludowe Wojsko Polskie – artykuł',
         type: 'publikacja',
@@ -33321,6 +33521,14 @@ Od maja 1982 do listopada 1985 roku zasiadał w Radzie Państwa, a do 1989 był 
     ],
     resources: [
       {
+        id: 'kania-yt-m10',
+        title: 'Edward Ochab i Stanisław Kania – cykl „Namiestnicy Kremla i zarządcy komunistycznej Polski”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=dHJ3Fo9f544',
+        source: 'IPNtv',
+        description: 'Biografie dwóch I sekretarzy PZPR w cyklu IPN.',
+      },
+      {
         id: 'kania-porozumienia-sierpniowe',
         title: 'Porozumienia sierpniowe – artykuł',
         type: 'publikacja',
@@ -33534,6 +33742,14 @@ Zmarł 30 kwietnia 1950 roku w więzieniu w Rawiczu, po zepchnięciu ze schodów
       'Jego ukryte przed UB wspomnienia z lat wojny wydał w 1977 roku paryski Instytut Literacki w „Zeszytach Historycznych”.',
     ],
     resources: [
+      {
+        id: 'puzak-yt-m10',
+        title: 'Proces 16',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=uDxiZumfNao',
+        source: 'Muzeum Dulag 121 (YouTube)',
+        description: 'Materiał muzeum o moskiewskim procesie przywódców Polskiego Państwa Podziemnego, wśród nich Kazimierza Pużaka.',
+      },
       {
         id: 'puzak-rjn',
         title: 'Rada Jedności Narodowej – artykuł',
@@ -33940,6 +34156,14 @@ W latach 1991–1992 był premierem. Jego droga – od sali sądowej w procesach
     ],
     resources: [
       {
+        id: 'olszewski-jan-yt-m10',
+        title: 'Przemówienie Jana Olszewskiego z 4 czerwca 1992 roku',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=y7WNHgXJGEk',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Archiwalne nagranie wystąpienia premiera w Sejmie w noc odwołania rządu.',
+      },
+      {
         id: 'olszewski-jan-encysol',
         title: 'Jan Olszewski w Encyklopedii Solidarności',
         type: 'publikacja',
@@ -34138,6 +34362,14 @@ W 1959 roku rząd zażądał usunięcia go z diecezji, ale odmówili zarówno ep
     ],
     resources: [
       {
+        id: 'kaczmarek-biskup-yt-m10',
+        title: 'Jak wyglądało aresztowanie biskupa Czesława Kaczmarka? Relacja świadka',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=gn30goHFitQ',
+        source: 'Muzeum Diecezjalne w Kielcach (YouTube)',
+        description: 'Wspomnienia naocznego świadka aresztowania biskupa kieleckiego.',
+      },
+      {
         id: 'kaczmarek-biskup-proces-biskupa-kaczmarka',
         title: 'Proces biskupa Kaczmarka – artykuł',
         type: 'publikacja',
@@ -34211,6 +34443,14 @@ W latach 1986–1989 był jednym z liderów Grupy Roboczej Komisji Krajowej, spr
       'Nie wziął udziału w Okrągłym Stole – należał do najostrzejszych krytyków rozmów z władzą.',
     ],
     resources: [
+      {
+        id: 'gwiazda-yt-m10',
+        title: 'Notacje ECS – Negocjatorzy i sygnatariusze: Andrzej Gwiazda',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=uK42wJdsDkA',
+        source: 'Europejskie Centrum Solidarności (YouTube)',
+        description: 'Relacja Andrzeja Gwiazdy nagrana przez ECS.',
+      },
       {
         id: 'gwiazda-encysol',
         title: 'Andrzej Gwiazda w Encyklopedii Solidarności',
@@ -34327,6 +34567,14 @@ W listopadzie 1987 roku współtworzył w kraju Polską Partię Socjalistyczną 
       'W 1981 roku opublikował głośny esej „Dwie ojczyzny – dwa patriotyzmy”.',
     ],
     resources: [
+      {
+        id: 'lipski-yt-m10',
+        title: 'Jan Józef Lipski o założeniu KOR',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=8gRcRI7I6Ok',
+        source: 'Web of Stories (YouTube)',
+        description: 'Fragment opowieści Jana Józefa Lipskiego o powstaniu Komitetu Obrony Robotników.',
+      },
       {
         id: 'lipski-encysol',
         title: 'Jan Józef Lipski w Encyklopedii Solidarności',
@@ -34534,6 +34782,14 @@ Zwolennicy wskazują, że reformy uczyniły z Polski jedną z najlepiej prosperu
     ],
     resources: [
       {
+        id: 'balcerowicz-yt-m10',
+        title: 'Reforma Balcerowicza',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=vIhwCLjH-qI',
+        source: 'Muzeum Historii Polski (YouTube)',
+        description: 'Materiał Muzeum Historii Polski o reformie gospodarczej 1990 roku.',
+      },
+      {
         id: 'balcerowicz-plan-balcerowicza',
         title: 'Plan Balcerowicza – artykuł',
         type: 'publikacja',
@@ -34607,6 +34863,14 @@ Kopalnię „Jadwiga” nazwano jego imieniem, a w latach 1951–2006 nosiła je
       'W latach 1951–2006 jego imię nosiła Politechnika Śląska.',
     ],
     resources: [
+      {
+        id: 'pstrowski-yt-m10',
+        title: 'Więcej, szybciej, lepiej. Współzawodnictwo pracy w PRL',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=CHm_GnnF27I',
+        source: 'IPNtv Katowice',
+        description: 'Materiał Instytutu Pamięci Narodowej o ruchu przodowników pracy.',
+      },
       {
         id: 'pstrowski-przodownik-pracy',
         title: 'Przodownik pracy – artykuł',
