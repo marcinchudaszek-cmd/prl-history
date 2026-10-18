@@ -29257,11 +29257,11 @@ Radio Luxembourg, obok Wolnej Europy w dziedzinie informacji, pokazuje, jak nies
     resources: [
       {
         id: 'radio-luksemburg-yt-m17',
-        title: 'Jacek Bromski – didżej Radia Luxembourg',
+        title: 'Jacek Bromski o Radiu Luxembourg (Jedynka)',
         type: 'film',
         url: 'https://www.youtube.com/watch?v=xx6t3kH3ZZg',
         source: 'Polskie Radio (YouTube)',
-        description: 'Rozmowa w Jedynce o polskim prezenterze w Radiu Luxembourg.',
+        description: 'Rozmowa w radiowej Jedynce z reżyserem Jackiem Bromskim o słuchaniu Radia Luxembourg.',
       },
       {
         id: 'rl-yt',
