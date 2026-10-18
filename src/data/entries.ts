@@ -6552,6 +6552,8 @@ Grudzień 1970 r. – masakra na Wybrzeżu – przyspieszył jego odejście z ce
     yearStart: 1976,
     yearEnd: 1989,
     summary: 'System kartkowy – reglamentacja żywności i towarów przemysłowych – stał się w latach 80. symbolem klęski gospodarki socjalistycznej. Kartki na mięso, masło, cukier, spirytus, a nawet buty obrazowały codzienną absurdalność PRL-owskiego niedoboru.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Talon_D_~23akhufr.jpg?width=800',
+    imageCaption: 'Talon na zakup jednej pary obuwia, województwo siedleckie, 1982',
     trivia: ['Reglamentacją objęto m.in. mięso, cukier, masło, mąkę, benzynę, papierosy, a nawet czekoladę.', 'Kartki na cukier wprowadzono w 1976 roku, a na mięso w 1981 – przetrwały do 1989 roku.'],
     content: `## Historia reglamentacji
 
@@ -13470,6 +13472,8 @@ Zespół gra nieprzerwanie od czterdziestu lat i pozostaje jednym z najpopularni
     yearStart: 1980,
     yearEnd: 1989,
     summary: 'Polska scena punkowa lat 80., z zespołami Dezerter, Brygada Kryzys i Siekiera, będąca najostrzejszą formą muzycznego buntu przeciw systemowi.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Siekiera_live_1984.jpg?width=800',
+    imageCaption: 'Siekiera na festiwalu w Jarocinie, 4 sierpnia 1984',
     content: `## Narodziny
 Punk dotarł do Polski na przełomie lat 70. i 80. Pierwszym zespołem punkowym na festiwalu w Jarocinie byli w 1980 roku Nocne Szczury, traktowane wtedy jak sensacja. Surowa muzyka i bezkompromisowe teksty wyrażały frustrację młodzieży żyjącej w szarej rzeczywistości schyłkowego PRL.
 
@@ -20118,6 +20122,8 @@ Reforma zatrzymała inflację i przyniosła trudne do podrobienia banknoty oraz 
     yearStart: 1957,
     yearEnd: 1989,
     summary: 'Polski komiks epoki PRL – od „Tytusa, Romka i A’Tomka” po „Kapitana Żbika” i „Kajka i Kokosza” – łączył rozrywkę, edukację, a czasem propagandę.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Magazyn_Relax.png?width=800',
+    imageCaption: 'Logo magazynu komiksowego „Relax” (1976) autorstwa Grzegorza Rosińskiego',
     content: `## Rozwój
 Władze traktowały komiks nieufnie jako formę „zachodnią” i płytką, ale od lat 60. przestały go zwalczać, a zaczęły wykorzystywać. Historyjki obrazkowe ukazywały się w prasie dziecięcej – przede wszystkim w „Świecie Młodych” – a od 1976 roku istniał osobny magazyn „Relax”.
 
