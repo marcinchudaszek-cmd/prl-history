@@ -4574,6 +4574,14 @@ PRL dał Polsce masową edukację – i to jest realne osiągnięcie. Ale też w
     trivia: ['Szkoła była bezpłatna i powszechna, ale też mocno zideologizowana.', 'Obowiązkowa była nauka języka rosyjskiego.'],
     resources: [
       {
+        id: 'edukacja-prl-yt-m17',
+        title: '„Lekcja pierwsza” (1979) – cały film',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=MDIs0NoKR1w',
+        source: 'Wytwórnia Filmów Oświatowych (YouTube)',
+        description: 'Film Wytwórni Filmów Oświatowych z 1979 roku.',
+      },
+      {
         id: 'edukacja-polona',
         title: 'Edukacja i szkoła w PRL – opracowania',
         type: 'publikacja',
@@ -7602,6 +7610,14 @@ Kawa i kakao były luksusem – serwowano "kawę zbożową" (inka). Czekolada, c
 Polacy prowadzili intensywną produkcję domową: przetwory, dżemy, pikliki, nalewki, domowe wyroby wędliniarskie. Działka rekreacyjna z warzywnikiem była bezcenna – uzupełniała sklepowe niedobory. Tradycja "robienia zapasów" przetrwała jako nawyk u starszych Polaków.`,
     trivia: ['Menu zależało od tego, co akurat „rzucili” do sklepu.', 'Powszechne były domowe przetwory i weki na zimę.'],
     resources: [
+      {
+        id: 'kuchnia-prl-yt-m17',
+        title: '„Domowe przetwórstwo warzyw” (1979) – cały film',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=y7Q1sx80RMs',
+        source: 'Wytwórnia Filmów Oświatowych (YouTube)',
+        description: 'Film oświatowy o domowych przetworach – codzienności kuchni w czasach niedoboru.',
+      },
       {
         id: 'kuchnia-1',
         title: 'Kuchnia i jedzenie w PRL – opracowania',
@@ -17153,6 +17169,14 @@ Domy towarowe i Supersam to symbol napięcia między nowoczesną architekturą a
     ],
     resources: [
       {
+        id: 'domy-towarowe-yt-m17',
+        title: '„Kultura handlu: Sprzedawca – jego cechy podstawowe” (1973) – cały film',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=0Id37fw1Pw8',
+        source: 'Wytwórnia Filmów Oświatowych (YouTube)',
+        description: 'Film szkoleniowy dla pracowników handlu.',
+      },
+      {
         id: 'dt-pkf',
         title: 'Polska Kronika Filmowa – domy towarowe',
         type: 'nagranie',
@@ -18145,6 +18169,14 @@ Po 1989 roku firma nie wytrzymała konkurencji i przeszła przez lata przekszta�
     trivia: ['Firma była praktycznie monopolistą na rynku płytowym.', 'Logo „Muzy” znalazło się na milionach płyt.'],
     resources: [
       {
+        id: 'polskie-nagrania-muza-yt-m17',
+        title: 'Czesław Niemen – „Pod Papugami”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=ePwwMgrPMW8',
+        source: 'Polskie Nagrania (YouTube)',
+        description: 'Oficjalne nagranie z katalogu Polskich Nagrań.',
+      },
+      {
         id: 'muz-1',
         title: 'Polskie Nagrania Muza – materiały',
         type: 'nagranie',
@@ -18790,6 +18822,14 @@ Mieszkał w Izraelu, Niemczech i Stanach Zjednoczonych, imał się przypadkowych
 Do polskich księgarń wrócił dopiero w latach 80., a naprawdę szeroko po 1989 roku. Pozostaje symbolem literackiego buntu i najbardziej „amerykańskim” z polskich pisarzy – zarówno stylem, jak i biografią.`,
     trivia: ['Uchodził za polskiego Jamesa Deana literatury.', 'Nie wrócił z wyjazdu na Zachód w 1958 roku; zmarł na emigracji.'],
     resources: [
+      {
+        id: 'hlasko-marek-yt-m17',
+        title: 'Ostatnie opowiadanie Marka Hłaski i premiera słuchowiska',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=NBOY86fHCVs',
+        source: 'Polskie Radio RDC (YouTube)',
+        description: 'Audycja Polskiego Radia RDC o słuchowisku na podstawie prozy Hłaski.',
+      },
       {
         id: 'hlasko-marek-culture',
         title: 'Marek Hłasko w serwisie Culture.pl',
@@ -19660,6 +19700,14 @@ Zamach wzmocnił symboliczną pozycję papieża wśród Polaków na kilka miesi�
     trivia: ['Do zamachu doszło 13 maja 1981 roku na placu św. Piotra.', 'Wiadomość wstrząsnęła Polską w wyjątkowo napiętym roku.'],
     resources: [
       {
+        id: 'zamach-na-jp2-yt-m17',
+        title: '43. rocznica zamachu na Jana Pawła II',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=O154MEpAoWE',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Materiał Polskiego Radia o zamachu z 13 maja 1981 roku.',
+      },
+      {
         id: 'zam-1',
         title: 'Zamach na Jana Pawła II – opracowania',
         type: 'publikacja',
@@ -19954,6 +20002,14 @@ W procesie oskarżono go o wydawanie rozkazów mordowania partyzantów sowieckic
 Miejsca pochówku nigdy nie ustalono. Zrehabilitowano go w 1989 roku, a śledztwo przeciw osobom odpowiedzialnym za wyrok toczyło się przez kolejne dekady. Generał „Nil” pozostaje najczęściej przywoływanym symbolem stalinowskich mordów sądowych na żołnierzach podziemia.`,
     trivia: ['Dowodził Kedywem – pionem dywersji Armii Krajowej.', 'Skazany na śmierć w sfingowanym procesie i stracony w 1953 roku.'],
     resources: [
+      {
+        id: 'fieldorf-nil-yt-m17',
+        title: 'Gen. August Emil Fieldorf „Nil”. Wierny żołnierz Niepodległej',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=h70p_3XTWxc',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Audycja Polskiego Radia o generale Fieldorfie.',
+      },
       {
         id: 'fn-1',
         title: 'Gen. Emil Fieldorf „Nil” – opracowania',
@@ -23851,6 +23907,14 @@ Na tych maszynach wychowało się pokolenie, które zaczynało od gier, a kończ
     ],
     resources: [
       {
+        id: 'komputery-domowe-yt-m17',
+        title: '„Mera prezentuje” (1979) – cały film',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=0TEKd8i3ZLc',
+        source: 'Wytwórnia Filmów Oświatowych (YouTube)',
+        description: 'Film o wyrobach zjednoczenia Mera, producenta sprzętu pomiarowego i komputerowego w PRL.',
+      },
+      {
         id: 'kom-yt',
         title: 'Komputery domowe lat 80. – materiały',
         type: 'nagranie',
@@ -25316,6 +25380,14 @@ Frania przetrwała ustrój. Olkuska Emalia produkowała ją do 2014 roku, a mark
     ],
     resources: [
       {
+        id: 'frania-pralka-yt-m17',
+        title: '„Obsługa serwisowa pralki superautomatycznej PS663” (1974) – cały film',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=ox4ZNYCqZCc',
+        source: 'Wytwórnia Filmów Oświatowych (YouTube)',
+        description: 'Film szkoleniowy o polskiej pralce automatycznej z lat 70.',
+      },
+      {
         id: 'fr-wk',
         title: 'Frania (pralka) – artykuł',
         type: 'publikacja',
@@ -25717,6 +25789,14 @@ Od 1989 roku był konsulem honorowym RP w Monako. Za pieniądze zarobione na kor
     ],
     resources: [
       {
+        id: 'fibak-wojciech-yt-m17',
+        title: 'Wojciech Fibak w rozmowie z TVP Sport',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=Geb8PnQWKwM',
+        source: 'TVP Sport (YouTube)',
+        description: 'Wywiad z najwybitniejszym polskim tenisistą epoki PRL.',
+      },
+      {
         id: 'fi-yt',
         title: 'Wojciech Fibak – tenis',
         type: 'nagranie',
@@ -25832,6 +25912,14 @@ Obraz otrzymał Złote Lwy w Gdańsku, Jadwiga Barańska – Srebrnego Niedźwie
       'Jadwiga Barańska otrzymała za rolę Barbary Srebrnego Niedźwiedzia w Berlinie.',
     ],
     resources: [
+      {
+        id: 'noce-i-dnie-yt-m17',
+        title: '„Noce i dnie” – wykład dr. Piotra Skrzypczaka',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=pgK2eRXzcXY',
+        source: 'Akademia Polskiego Filmu (YouTube)',
+        description: 'Wykład Akademii Polskiego Filmu o filmie Jerzego Antczaka.',
+      },
       {
         id: 'nd-yt',
         title: '„Noce i dnie” – fragmenty',
@@ -27708,6 +27796,14 @@ Miasto zachowało tradycję ośrodka kultury, sięgającą czasów Witkiewicza, 
     ],
     resources: [
       {
+        id: 'zakopane-yt-m17',
+        title: '„Tatry w zimie” (1949) – cały film',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=5O4YFtmxNAw',
+        source: 'Wytwórnia Filmów Oświatowych (YouTube)',
+        description: 'Film Wytwórni Filmów Oświatowych o zimowych Tatrach i Zakopanem.',
+      },
+      {
         id: 'zk-yt',
         title: 'Zakopane w PRL – materiały',
         type: 'nagranie',
@@ -28939,6 +29035,14 @@ Dla wielu dzieci był to jedyny wyjazd w roku i pierwszy kontakt z morzem albo g
     ],
     resources: [
       {
+        id: 'kolonie-letnie-yt-m17',
+        title: '„Bezpieczne wakacje” (1973) – cały film',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=-1QdTAmKdIY',
+        source: 'Wytwórnia Filmów Oświatowych (YouTube)',
+        description: 'Film oświatowy dla dzieci o bezpiecznym wypoczynku.',
+      },
+      {
         id: 'kol2-pkf',
         title: 'Polska Kronika Filmowa – wypoczynek dzieci',
         type: 'nagranie',
@@ -29151,6 +29255,14 @@ Radio Luxembourg, obok Wolnej Europy w dziedzinie informacji, pokazuje, jak nies
       'W 1967 roku na antenie Radia Luxembourg wystąpili Niebiesko-Czarni.',
     ],
     resources: [
+      {
+        id: 'radio-luksemburg-yt-m17',
+        title: 'Jacek Bromski – didżej Radia Luxembourg',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=xx6t3kH3ZZg',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Rozmowa w Jedynce o polskim prezenterze w Radiu Luxembourg.',
+      },
       {
         id: 'rl-yt',
         title: 'Radio Luxembourg – materiały',
@@ -29380,6 +29492,14 @@ Likwidacja PGR-ów po 1989 roku pozbawiła pracy i zaplecza socjalnego całe mie
     ],
     resources: [
       {
+        id: 'pgr-yt-m17',
+        title: '„Na łąkach PGR Rząśnik” (1965) – cały film',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=yRKn5rQxTy8',
+        source: 'Wytwórnia Filmów Oświatowych (YouTube)',
+        description: 'Film oświatowy o pracy w państwowym gospodarstwie rolnym.',
+      },
+      {
         id: 'pgr-pkf',
         title: 'Polska Kronika Filmowa – rolnictwo państwowe',
         type: 'nagranie',
@@ -29595,6 +29715,14 @@ Poczta była też narzędziem nadzoru. W stanie wojennym wprowadzono jawną cenz
       'W stanie wojennym listy opatrywano stemplem o ocenzurowaniu, a rozmowy przerywał komunikat o kontroli.',
     ],
     resources: [
+      {
+        id: 'poczta-polska-yt-m17',
+        title: '„BHP w służbie pocztowej” (1970) – cały film',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=ne3W9Ir9W5M',
+        source: 'Wytwórnia Filmów Oświatowych (YouTube)',
+        description: 'Film szkoleniowy Wytwórni Filmów Oświatowych pokazujący pracę poczty w PRL.',
+      },
       {
         id: 'poc-pkf',
         title: 'Polska Kronika Filmowa – łączność i poczta',
@@ -30136,6 +30264,14 @@ Marek i Vacek byli jednym z najbardziej rozpoznawalnych polskich zespołów inst
       'Muzyka instrumentalna nie wymagała tłumaczenia ani zgody cenzury, co ułatwiało karierę zagraniczną.',
     ],
     resources: [
+      {
+        id: 'marek-i-vacek-yt-m17',
+        title: 'Marek Tomaszewski – „Prząśniczka”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=pPeFEYUqv80',
+        source: 'YouTube (Marek Tomaszewski – Topic)',
+        description: 'Oficjalne nagranie pianisty duetu Marek i Wacek.',
+      },
       {
         id: 'mv-1',
         title: 'Marek i Wacek – nagrania',
@@ -32160,6 +32296,14 @@ Rachunkiem za taki model był smog w miastach przemysłowych, kwaśne deszcze ni
       'Węgiel z odkrywki do elektrowni Bełchatów transportowano przenośnikami taśmowymi.',
     ],
     resources: [
+      {
+        id: 'energetyka-prl-yt-m17',
+        title: '„U źródeł energii elektrycznej” (1946) – cały film',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=7x9s33Wr4IY',
+        source: 'Wytwórnia Filmów Oświatowych (YouTube)',
+        description: 'Powojenny film oświatowy o elektrowniach i wytwarzaniu prądu.',
+      },
       {
         id: 'energetyka-prl-kopalnia-wegla-brunatnego-be',
         title: 'Kopalnia Węgla Brunatnego „Bełchatów” – artykuł',
