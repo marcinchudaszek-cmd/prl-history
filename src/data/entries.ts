@@ -681,6 +681,14 @@ Reformy z 1956, 1973 i 1982 roku za każdym razem kończyły się powrotem centr
     ],
     resources: [
       {
+        id: 'gospodarka-prl-yt-m14',
+        title: 'Dlaczego gospodarka w PRL upadła? Puste półki i towary na kartki',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=TOeETC20j1I',
+        source: 'Muzeum Historii Polski (YouTube)',
+        description: 'Materiał Muzeum Historii Polski o gospodarce niedoboru.',
+      },
+      {
         id: 'gosp-1',
         title: 'Plany gospodarcze PRL – GUS Archiwum',
         type: 'dokument',
@@ -4051,6 +4059,14 @@ Prywatne pozostały domy, mieszkania i gospodarstwa chłopskie. Zniszczono warst
     ],
     resources: [
       {
+        id: 'nacjonalizacja-yt-m14',
+        title: 'Rządy wzorowane na systemie radzieckim. Stalinizm nad Wisłą (1946–1955) – „Historia żywa”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=yffNYUmnLAk',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Audycja Polskiego Radia o budowie systemu stalinowskiego, w tym upaństwowieniu gospodarki.',
+      },
+      {
         id: 'nac-pkf',
         title: 'Polska Kronika Filmowa – nacjonalizacja przemysłu',
         type: 'nagranie',
@@ -4460,6 +4476,14 @@ PRL zapewniał pracę i podstawowe świadczenia: bezpłatną szkołę i studia, 
       'Wiele spraw załatwiało się „po znajomości” – dojście bywało cenniejsze niż pieniądze.',
     ],
     resources: [
+      {
+        id: 'zycie-codzienne-yt-m14',
+        title: 'Kartki w PRL. Gospodarka niedoboru',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=5OXI4s2oTSo',
+        source: 'Muzeum Historii Polski (YouTube)',
+        description: 'Materiał Muzeum Historii Polski o codzienności w czasach kartek.',
+      },
       {
         id: 'zc-1',
         title: 'Kolejka – symbol późnego PRL',
@@ -6447,6 +6471,14 @@ Wojska wycofywano od 1991 roku. 17 września 1993 roku – w rocznicę sowieckie
     ],
     resources: [
       {
+        id: 'pgwn-yt-m14',
+        title: '20 lat po wyjściu wojsk radzieckich z Legnicy',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=eC-F1q5Jx6U',
+        source: 'TVP3 Wrocław (YouTube)',
+        description: 'Reportaż TVP o Legnicy, siedzibie dowództwa Północnej Grupy Wojsk.',
+      },
+      {
         id: 'pgwn-1',
         title: 'Sowieci w Polsce – Północna Grupa Wojsk – opracowania (2)',
         type: 'publikacja',
@@ -8312,6 +8344,14 @@ Po 13 grudnia 1981 roku większość aktorów zbojkotowała media państwowe, a 
     ],
     resources: [
       {
+        id: 'teatr-prl-yt-m14',
+        title: '„Czas odwilży. STS, Bim-Bom i inni” – wykład z cyklu „PRL: teatr studencki i inny”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=do0uF3zAqhM',
+        source: 'Instytut Teatralny im. Zbigniewa Raszewskiego (YouTube)',
+        description: 'Wykład Instytutu Teatralnego o teatrze studenckim w czasie odwilży.',
+      },
+      {
         id: 'teatr-1',
         title: 'Nagrania spektakli PRL',
         type: 'nagranie',
@@ -8660,6 +8700,14 @@ Polska 2. Armia LWP wzięła udział w inwazji. Dla wielu polskich żołnierzy b
 Inwazja dała początek "doktrynie Breżniewa" – ZSRR zarezerwował sobie prawo do interwencji w każdym kraju socjalistycznym zagrażającym jedności bloku. Doktryna obowiązywała aż do 1989 r., kiedy Gorbaczow ją odrzucił.`,
     trivia: ['W inwazji na Czechosłowację wzięło udział Wojsko Polskie.', 'W proteście przeciw niej samospalił się Ryszard Siwiec.'],
     resources: [
+      {
+        id: 'praga-1968-yt-m14',
+        title: 'Praska Wiosna z perspektywy radzieckiego generała',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=XiPNKYWCBt0',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Audycja Polskiego Radia o interwencji w Czechosłowacji.',
+      },
       {
         id: 'praga68-1',
         title: 'Praska Wiosna 1968 – opracowania (2)',
@@ -9665,6 +9713,14 @@ Wynik wyborów otworzył drogę do rządu Tadeusza Mazowieckiego. Pierwsze w pe�
     ],
     resources: [
       {
+        id: 'wybory-prl-yt-m14',
+        title: '„Z filmoteki bezpieki” odc. 86 – Wybory czerwcowe',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=W9KinE3nrHs',
+        source: 'IPNtv',
+        description: 'Materiały resortowe o wyborach 4 czerwca 1989 roku omawiane przez historyków IPN.',
+      },
+      {
         id: 'wybory-1947-ipn',
         title: 'Wybory w PRL – opracowania',
         type: 'publikacja',
@@ -9717,6 +9773,14 @@ Kraj z silnym rolnictwem nie potrafił zaopatrzyć sklepów w mięso. Podwyżki 
       'PGR-y zajmowały około 10 procent powierzchni upraw w Polsce.',
     ],
     resources: [
+      {
+        id: 'rolnictwo-prl-yt-m14',
+        title: '„Na łąkach PGR Rząśnik” (1965) – cały film',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=yRKn5rQxTy8',
+        source: 'Wytwórnia Filmów Oświatowych (YouTube)',
+        description: 'Film oświatowy z 1965 roku o pracy w państwowym gospodarstwie rolnym.',
+      },
       {
         id: 'rolnictwo-reforma',
         title: 'Dekret PKWN o reformie rolnej – tekst źródłowy',
@@ -9919,6 +9983,14 @@ Przez 47 lat Hermaszewski pozostawał jedynym Polakiem, który był w kosmosie. 
       'Przez 47 lat był jedynym Polakiem w kosmosie – do lotu Sławosza Uznańskiego-Wiśniewskiego w 2025 roku.',
     ],
     resources: [
+      {
+        id: 'hermaszewski-yt-m14',
+        title: 'Mirosław Hermaszewski. Pierwszy Polak w kosmosie',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=DTku7rKy98g',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Audycja Polskiego Radia o locie Sojuza 30.',
+      },
       {
         id: 'hermaszewski-pkf',
         title: 'Polska Kronika Filmowa – Lot Sojuzem 30',
@@ -10609,6 +10681,14 @@ SB rozwiązano w 1990 roku. Na jej miejsce powstał Urząd Ochrony Państwa, do 
     ],
     resources: [
       {
+        id: 'sluzba-bezpieczenstwa-metody-yt-m14',
+        title: 'Działalność Biura „B” MSW – „Taśmy bezpieki” odc. 60',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=xMHxaoHXVok',
+        source: 'IPNtv',
+        description: 'Program IPN o pionie obserwacji Służby Bezpieczeństwa.',
+      },
+      {
         id: 'sb-metody-ipn',
         title: 'Metody pracy Służby Bezpieczeństwa – opracowania',
         type: 'publikacja',
@@ -11232,6 +11312,14 @@ Po 1989 roku powołano komisje śledcze ws. Poznania 1956 i Grudnia 1970. Sprawc
     trivia: ['Protesty robotnicze wybuchały regularnie od 1956 roku.', 'Każdy kolejny kryzys formował następne pokolenie opozycji.'],
     resources: [
       {
+        id: 'walczynski-opor-yt-m14',
+        title: 'PRL – państwo robotników?',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=ihxPmGYAPsc',
+        source: 'Muzeum Historii Polski (YouTube)',
+        description: 'Materiał Muzeum Historii Polski o robotnikach i ich protestach w PRL.',
+      },
+      {
         id: 'opor-ipn',
         title: 'Strajki i opór robotniczy przed 1980 – opracowania',
         type: 'publikacja',
@@ -11484,6 +11572,14 @@ Pytanie o rozliczenie sprawców sądowych zbrodni komunistycznych pozostaje aktu
     trivia: ['Sędziów powoływała i mogła odwołać Rada Państwa.', 'W sprawach politycznych wyroki bywały ustalane poza salą sądową.'],
     resources: [
       {
+        id: 'niezaleznosc-sadow-yt-m14',
+        title: '„Z filmoteki bezpieki” odc. 72 – Wojskowe sądy rejonowe',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=nvL4hydfv6c',
+        source: 'IPNtv',
+        description: 'Materiał IPN o wojskowych sądach rejonowych.',
+      },
+      {
         id: 'sady-ipn',
         title: 'Sądownictwo i praworządność w PRL – opracowania',
         type: 'publikacja',
@@ -11554,6 +11650,14 @@ Po 1989 roku Łódź przeżyła kryzys przemysłowy – zamknięte fabryki, bezr
     trivia: ['Ukończyli ją m.in. Wajda, Polański, Kieślowski i Zanussi.', 'Legendarne stały się szkolne schody, na których dyskutowano o kinie.'],
     resources: [
       {
+        id: 'lodz-szkola-filmowa-yt-m14',
+        title: 'Polski film fabularny. Początki Łódzkiej Szkoły Filmowej – Jerzy Diatłowicki',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=uRJwTCr7g1Q',
+        source: 'Filmoteka Szkolna – FINA (YouTube)',
+        description: 'Materiał edukacyjny Filmoteki Narodowej o początkach łódzkiej szkoły.',
+      },
+      {
         id: 'lodz-ninateka',
         title: 'Filmy Szkoły Łódzkiej',
         type: 'film',
@@ -11611,6 +11715,14 @@ Amatorskie nagrania koncertów i kasety zespołów punkowych krążyły w „trz
       'Dla Dżemu, Siekiery i Dezertera występ w Jarocinie był ogólnopolskim debiutem lub przełomem.',
     ],
     resources: [
+      {
+        id: 'muzyka-rockowa-prl-yt-m14',
+        title: 'Stał za największymi hitami PRL-u. „Autobiografia” i „Czas relaksu” – Bogdan Olewicz',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=wzDcXaBbfWY',
+        source: 'Polskie Radio RDC (YouTube)',
+        description: 'Rozmowa z autorem tekstów przebojów Perfectu i Maanamu.',
+      },
       {
         id: 'rock-ninateka',
         title: 'Polski rock lat 80. – nagrania',
@@ -11671,6 +11783,14 @@ Satyrę przemycały także programy radiowe i telewizyjne – „60 minut na god
       'Kabaret „Dudek” prowadził Edward Dziewoński; w ciągu dziesięciu lat dał około tysiąca przedstawień.',
     ],
     resources: [
+      {
+        id: 'kabaret-prl-yt-m14',
+        title: 'Kabaret „Dudek”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=Zo7zB1tyX1k',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Audycja Polskiego Radia o kabarecie Edwarda Dziewońskiego.',
+      },
       {
         id: 'kabaret-ninateka',
         title: 'Kabaret PRL – nagrania archiwalne',
@@ -11809,6 +11929,14 @@ Koniec państwowego mecenatu i rynek reklamy sprawiły, że ambitny plakat filmo
       'Katowickie Biennale Plakatu z 1965 roku było pierwszą na świecie cykliczną imprezą poświęconą plakatowi.',
     ],
     resources: [
+      {
+        id: 'plakat-prl-yt-m14',
+        title: 'What Exactly is the Polish School of Posters?',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=zMAm5791hD8',
+        source: 'Culture.pl (YouTube)',
+        description: 'Materiał Instytutu Adama Mickiewicza o polskiej szkole plakatu.',
+      },
       {
         id: 'plakat-prl-muzeum-plakatu-w-wilanowie',
         title: 'Muzeum Plakatu w Wilanowie – artykuł',
@@ -12525,6 +12653,14 @@ Popularność zdobyły też m.in. „07 zgłoś się” (milicyjny serial sensac
 Seriale PRL były narzędziem kształtowania postaw, ale jednocześnie autentycznym fenomenem kultury. Dziś oglądane są nostalgicznie i analizowane jako zapis mentalności epoki oraz przykład splotu rozrywki z ideologią.`,
     trivia: ['Odcinek serialu gromadził przed telewizorem całą rodzinę.', 'Powtórki emitowano przez kolejne dekady, aż weszły do kanonu.'],
     resources: [
+      {
+        id: 'seriale-prl-yt-m14',
+        title: 'Fragment serialu „Jan Serce” (1982)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=s_9gTdeCP4c',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Fragment serialu z oficjalnego kanału archiwum TVP.',
+      },
       {
         id: 'ser-2',
         title: 'Kultowe seriale PRL – opracowania',
@@ -14533,6 +14669,14 @@ Zginął 24 października 1989 roku na wysokości ok. 8300 m, próbując przejś
     ],
     resources: [
       {
+        id: 'jerzy-kukuczka-yt-m14',
+        title: '„Życie Jerzego Kukuczki to opowieść na serial”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=bKi3_cnqmfc',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Audycja Polskiego Radia o himalaiście.',
+      },
+      {
         id: 'kuk-1',
         title: 'Jerzy Kukuczka – nagrania',
         type: 'nagranie',
@@ -14943,6 +15087,14 @@ Karpińskiemu odmawiano wyjazdów, a w 1978 roku wyjechał pod Olsztyn i zajął
       'Po odsunięciu od pracy zajął się pod Olsztynem hodowlą drobiu i świń.',
     ],
     resources: [
+      {
+        id: 'jacek-karpinski-yt-m14',
+        title: 'Jacek Karpiński – żołnierz batalionu „Zośka”, twórca pierwszego mikrokomputera',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=LneGD2bMTcM',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Audycja Polskiego Radia o konstruktorze K-202.',
+      },
       {
         id: 'jk-2',
         title: 'Karpiński – materiały',
@@ -16214,6 +16366,14 @@ W kolejnych latach grał młodych buntowników w filmach „Koniec nocy” i „
     ],
     resources: [
       {
+        id: 'cybulski-zbigniew-yt-m14',
+        title: 'Cybulski: w stronę aktorstwa pchnęły mnie doświadczenia kontaktu ze „zwykłymi ludźmi”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=5od97pUPQdc',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Archiwalne nagranie z zasobów Polskiego Radia.',
+      },
+      {
         id: 'cybulski-zbigniew-culture',
         title: 'Zbigniew Cybulski w serwisie Culture.pl',
         type: 'publikacja',
@@ -16610,6 +16770,14 @@ Z okazji święta ogłaszano amnestie, obejmujące niekiedy więźniów politycz
     trivia: ['Było głównym świętem państwowym PRL.', 'Z tej okazji uroczyście oddawano do użytku nowe inwestycje.'],
     resources: [
       {
+        id: 'swieto-22-lipca-yt-m14',
+        title: 'Święto 22 lipca w PRL – „Historia dla Ciebie” odc. 49',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=RfH0q3ROQpQ',
+        source: 'IPNtv',
+        description: 'Program Instytutu Pamięci Narodowej o Narodowym Święcie Odrodzenia Polski.',
+      },
+      {
         id: 's22-pkf',
         title: 'Polska Kronika Filmowa – obchody 22 lipca',
         type: 'nagranie',
@@ -16663,6 +16831,14 @@ Od lat 70. Grotowski porzucił przedstawienia na rzecz parateatru i „teatru ź
 „Ku teatrowi ubogiemu” przetłumaczono na kilkadziesiąt języków i wykłada się je w szkołach teatralnych na całym świecie. Grotowski uczynił Polskę jednym z centrów teatralnej awangardy XX wieku – z Wrocławia, w państwie z zamkniętymi granicami.`,
     trivia: ['Jerzy Grotowski stworzył koncepcję „teatru ubogiego”.', 'Jego Teatr Laboratorium zdobył światową sławę.'],
     resources: [
+      {
+        id: 'teatr-grotowskiego-yt-m14',
+        title: 'Teatr pod kuratelą? Teatr Jerzego Grotowskiego w aktach Służby Bezpieczeństwa',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=lNQlC0X_cXg',
+        source: 'Instytut Grotowskiego (YouTube)',
+        description: 'Spotkanie w Instytucie Grotowskiego o inwigilacji Teatru Laboratorium.',
+      },
       {
         id: 'gro-3',
         title: 'Teatr w Ninatece',
@@ -17789,6 +17965,14 @@ Spektakle Cricot 2 grano na festiwalach i scenach całego świata. Obok Jerzego 
     ],
     resources: [
       {
+        id: 'kantor-teatr-yt-m14',
+        title: 'Początki Cricot 2 – Tadeusz Kantor',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=wh6KWj2c5Zo',
+        source: 'Cricoteka (YouTube)',
+        description: 'Materiał Ośrodka Dokumentacji Sztuki Tadeusza Kantora Cricoteka.',
+      },
+      {
         id: 'kan-2',
         title: 'Kantor – nagrania',
         type: 'nagranie',
@@ -17834,6 +18018,14 @@ Jego malarstwo, całkowicie obojętne wobec polityki, nie kolidowało z żadną 
 Jego syn Tomasz, znany radiowiec i tłumacz, odebrał sobie życie w 1999 roku. Sam Beksiński został zamordowany w swoim mieszkaniu w 2005 roku przez nastoletniego znajomego rodziny. Największa kolekcja jego prac znajduje się w Muzeum Historycznym w Sanoku.`,
     trivia: ['Nie nadawał tytułów swoim obrazom, by nie narzucać interpretacji.', 'Zginął zamordowany w 2005 roku.'],
     resources: [
+      {
+        id: 'beksinski-yt-m14',
+        title: 'Beksiński – wizyta w Galerii',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=1NveS29YH6w',
+        source: 'Muzeum Historyczne w Sanoku (YouTube)',
+        description: 'Prezentacja galerii Zdzisława Beksińskiego w jego rodzinnym Sanoku.',
+      },
       {
         id: 'beksinski-culture',
         title: 'Zdzisław Beksiński w serwisie Culture.pl',
@@ -18107,6 +18299,14 @@ Stan wojenny sparaliżował przewoźnika: w 1982 roku sieć połączeń skurczy�
       'Regularną linię Warszawa–Nowy Jork otwarto w kwietniu 1973 roku dzięki samolotom Ił-62.',
     ],
     resources: [
+      {
+        id: 'lot-prl-yt-m14',
+        title: 'Od poczty do Boeingów. Historia PLL LOT – „Giełda historii” odc. 55',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=vH9u0-kQV00',
+        source: 'Instytut Pileckiego (YouTube)',
+        description: 'Materiał Instytutu Pileckiego o historii polskich linii lotniczych.',
+      },
       {
         id: 'lot-prl-katastrofa-lotnicza-na-okeci',
         title: 'Katastrofa lotnicza na Okęciu (1980) – artykuł',
@@ -18983,6 +19183,14 @@ Zarzucano jej ujednolicanie folkloru: dobór wzorów pod gust odbiorcy miejskieg
 Cepelia realnie ocaliła wiele technik rzemieślniczych, które bez zamówień zniknęłyby razem z ostatnim pokoleniem twórców. Jej estetyka pozostaje jednym z najbardziej charakterystycznych elementów wizualnych PRL i wraca dziś jako inspiracja dla projektantów.`,
     trivia: ['Nazwa to skrót od Centrali Przemysłu Ludowego i Artystycznego.', 'W sklepach Cepelii kupowało się rękodzieło i pamiątki.'],
     resources: [
+      {
+        id: 'cepelia-yt-m14',
+        title: 'Obywatelka Cepelia',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=TIQ2jhdL56A',
+        source: 'Muzeum Narodowe w Krakowie (YouTube)',
+        description: 'Materiał muzeum o Cepelii i wzornictwie ludowym w PRL.',
+      },
       {
         id: 'cepelia-rekodzieo',
         title: 'Rękodzieło – artykuł',
@@ -20384,6 +20592,14 @@ Dejmka usunięto z partii i odwołano z Teatru Narodowego. Przez kolejne lata pr
 Po 1989 roku był ministrem kultury. Historia jego „Dziadów” pozostaje najczęściej przywoływanym dowodem na to, że w PRL teatr potrafił uruchomić procesy polityczne – i że władza doskonale zdawała sobie z tego sprawę.`,
     trivia: ['Jego inscenizację „Dziadów” zdjęto z afisza, co wywołało Marzec \'68.', 'Był jednym z najwybitniejszych reżyserów teatralnych epoki.'],
     resources: [
+      {
+        id: 'dejmek-kazimierz-yt-m14',
+        title: '„Rola mojego życia” – reportaż o kreacji Holoubka w „Dziadach”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=atgT4MNgcm4',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Reportaż Polskiego Radia o „Dziadach” w inscenizacji Kazimierza Dejmka.',
+      },
       {
         id: 'dejmek-kazimierz-culture',
         title: 'Kazimierz Dejmek w serwisie Culture.pl',
@@ -25289,6 +25505,14 @@ Piwowarski rozwinął tę wrażliwość w późniejszych filmach, m.in. w „Yes
     ],
     resources: [
       {
+        id: 'jan-serce-yt-m14',
+        title: '„Dawno wyszedłem z przedszkola i umiem przechodzić przez ulicę!” – „Jan Serce” (1982)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=s_9gTdeCP4c',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Fragment serialu z oficjalnego kanału archiwum TVP.',
+      },
+      {
         id: 'js-yt',
         title: '„Jan Serce” – fragmenty',
         type: 'nagranie',
@@ -30157,6 +30381,14 @@ Ostatni program miał premierę 13 stycznia 1975 roku. Piosenkę na zakończenie
       'W ostatnim programie refren zmieniono na „Spotkamy się na tamtym świecie”.',
     ],
     resources: [
+      {
+        id: 'kabaret-dudek-yt-m14',
+        title: 'Kabaret „Dudek”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=Zo7zB1tyX1k',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Audycja Polskiego Radia o kabarecie Edwarda Dziewońskiego.',
+      },
       {
         id: 'kd-2',
         title: 'Kabaret Dudek – artykuł',
