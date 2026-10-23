@@ -14921,25 +14921,29 @@ W 1976 roku drużyna Górskiego zdobyła srebro olimpijskie w Montrealu, co w kr
     category: 'kultura',
     tags: ['sport', 'lekkoatletyka', 'olimpiada', 'kobiety'],
     yearStart: 1964,
-    yearEnd: 1980,
+    yearEnd: 2018,
     summary: 'Jedna z najwybitniejszych lekkoatletek w historii, zdobywczyni siedmiu medali olimpijskich i rekordzistka świata na wielu dystansach.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Poolse_wereldrecordhoudster_Irena_Szewinska_met_landgenoot_Buciarski%2C_Bestanddeelnr_928-0515_%28Szewinska_cropped%29.jpg?width=800',
     imageCaption: 'Irena Szewińska na zawodach lekkoatletycznych w Papendal, 1975',
-    content: `## Sylwetka
-Irena Szewińska (1946–2018), z domu Kirszenstein, urodziła się w Leningradzie i była najbardziej utytułowaną polską olimpijką w historii. Startowała na najwyższym poziomie przez szesnaście lat – w epoce, gdy kariera sprinterki trwała zwykle jeden cykl olimpijski.
+    content: `## Z Leningradu do Warszawy
+Irena Kirszenstein-Szewińska urodziła się 24 maja 1946 roku w Leningradzie, zmarła 29 czerwca 2018 roku w Warszawie. Specjalizowała się w sprintach i skoku w dal, a jej kariera na najwyższym poziomie trwała ponad piętnaście lat – w epoce, gdy sprinterki zwykle startowały przez jeden cykl olimpijski.
 
-## Medale
-Zdobyła siedem medali olimpijskich na pięciu igrzyskach, od Tokio 1964 po Moskwę 1980, w tym trzy złote: w sztafecie 4x100 metrów (1964), na 200 metrów (1968) i na 400 metrów (1976). W Tokio miała osiemnaście lat i wywalczyła również srebro w skoku w dal.
-
-## Rekordy świata
-Biła rekordy świata na 100, 200 i 400 metrów oraz w sztafecie – wszechstronność w tych trzech dystansach nie miała wtedy odpowiednika. W 1974 roku jako pierwsza kobieta przebiegła 400 metrów poniżej pięćdziesięciu sekund.
+## Siedem medali
+Zdobyła siedem medali olimpijskich – trzy złote, dwa srebrne i dwa brązowe – na czterech kolejnych igrzyskach. W Tokio w 1964 roku, mając osiemnaście lat, wygrała ze sztafetą 4 x 100 metrów i zdobyła srebro na 200 metrów oraz w skoku w dal. W Meksyku w 1968 roku zwyciężyła na 200 metrów z rekordem świata i wywalczyła brąz na 100 metrów. W Monachium w 1972 roku zdobyła brąz na 200 metrów. Na igrzyskach w Moskwie w 1980 roku, swoich ostatnich, dobiegła do półfinału na 400 metrów.
 
 ## Montreal 1976
-Bieg na 400 metrów wygrała z przewagą kilku metrów i rekordem świata 49,28 – jednym z najdłużej cytowanych wyników w historii polskiej lekkoatletyki. Miała wtedy trzydzieści lat i dwoje dzieci.
+Po przejściu na 400 metrów w 1974 roku jako pierwsza kobieta w historii przebiegła ten dystans poniżej 50 sekund. W Montrealu wygrała z dużą przewagą, ustanawiając rekord świata 49,28. Miała wtedy trzydzieści lat.
 
-## Znaczenie
-Po zakończeniu kariery działała w Międzynarodowym Komitecie Olimpijskim i władzach światowej lekkoatletyki. Pozostaje najwybitniejszą polską lekkoatletką i jedną z najważniejszych postaci w historii tej dyscypliny na świecie.`,
-    trivia: ['Zdobywała medale olimpijskie na czterech kolejnych igrzyskach.', 'Startowała zarówno w sprincie, jak i w skoku w dal.'],
+## Europa
+Była szesnastokrotną medalistką mistrzostw Europy – dziesięć medali zdobyła na stadionie, sześć w hali. Biła rekordy świata na 100, 200 i 400 metrów oraz w sztafecie – takiej wszechstronności nie miała wtedy żadna inna zawodniczka.
+
+## Działaczka
+Po zakończeniu kariery w 1980 roku przez prawie trzydzieści lat zasiadała we władzach Polskiego Związku Lekkiej Atletyki, w latach 1997–2009 była jego prezesem. Była członkinią Międzynarodowego Komitetu Olimpijskiego i władz światowej lekkoatletyki. W 2012 roku wpisano ją do Galerii Sław IAAF.`,
+    trivia: [
+      'Jako pierwsza kobieta na świecie przebiegła 400 metrów poniżej 50 sekund – w 1974 roku.',
+      'Zdobyła siedem medali olimpijskich na czterech kolejnych igrzyskach, od Tokio 1964 do Montrealu 1976.',
+      'W latach 1997–2009 była prezesem Polskiego Związku Lekkiej Atletyki.',
+    ],
     resources: [
       {
         id: 'irena-szewinska-yt-m9',
@@ -15723,21 +15727,28 @@ Postać Siwca przywrócił zbiorowej pamięci dopiero film Macieja Drygasa „Us
     summary: 'Robotnik i działacz Solidarności, lider podziemia na Dolnym Śląsku, wielokrotnie więziony za działalność opozycyjną w stanie wojennym.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/W%C5%82adys%C5%82aw_Frasyniuk_%282026%29.jpg?width=800',
     imageCaption: 'Władysław Frasyniuk (fot. współczesna)',
-    content: `## Sylwetka
-Władysław Frasyniuk (ur. 1954) był kierowcą autobusu we wrocławskim MPK, gdy w sierpniu 1980 roku stanął na czele strajku w zajezdni. W ciągu kilku tygodni przeszedł z kabiny kierowcy na czoło jednego z największych regionów Solidarności – co samo w sobie mówi o tym, jak działał ten ruch.
+    content: `## Kierowca z zajezdni nr 9
+Władysław Frasyniuk urodził się 25 listopada 1954 roku we Wrocławiu. Był kierowcą autobusu w MPK i w sierpniu 1980 roku pokierował strajkiem w zajezdni nr 9. Wstąpił do „Solidarności”, od grudnia 1980 roku działał w Komitecie Obrony Więzionych za Przekonania.
 
-## Sierpień 1980
-Kierowany przez niego Zarząd Regionu Dolny Śląsk liczył blisko milion członków. Frasyniuk należał do skrzydła, które w 1981 roku sprzeciwiało się ustępstwom wobec władzy, i wszedł do Komisji Krajowej związku.
+## Przewodniczący Dolnego Śląska
+30 czerwca 1981 roku został przewodniczącym zarządu Regionu Dolny Śląsk – jednego z największych regionów związku. Był delegatem na I Krajowy Zjazd w Gdańsku, zasiadał w Krajowej Komisji Porozumiewawczej, a potem w Komisji Krajowej. Miał wtedy 26 lat.
 
-## Podziemie
-13 grudnia 1981 roku uniknął zatrzymania i przeszedł do konspiracji. Współtworzył Regionalny Komitet Strajkowy, a następnie Tymczasową Komisję Koordynacyjną – podziemne kierownictwo Solidarności. Przez dziesięć miesięcy był jednym z najbardziej poszukiwanych ludzi w kraju.
+## W konspiracji
+Po wprowadzeniu stanu wojennego uniknął zatrzymania w sopockim Grand Hotelu, gdzie obradowała Komisja Krajowa. Kierował podziemnym Regionalnym Komitetem Strajkowym Dolnego Śląska, a w kwietniu 1982 roku współtworzył Tymczasową Komisję Koordynacyjną razem ze Zbigniewem Bujakiem, Bogdanem Lisem i Władysławem Hardkiem.
 
 ## Więzienia
-Aresztowano go w październiku 1982 roku i skazano na sześć lat. Wyszedł na mocy amnestii w 1984, po czym wrócił do działalności i został ponownie uwięziony. Łącznie spędził za kratami blisko pięć lat, konsekwentnie odmawiając emigracji w zamian za zwolnienie.
+5 października 1982 roku został aresztowany, a 25 listopada skazany na sześć lat więzienia. W celi dostał kolejny wyrok – za obrazę naczelnika więzienia. Wyszedł na mocy amnestii 27 lipca 1984 roku, a już 31 sierpnia znów trafił do aresztu na dwa miesiące. 13 lutego 1985 roku zatrzymano go w Gdańsku razem z Bogdanem Lisem i Adamem Michnikiem po spotkaniu z Lechem Wałęsą; skazano go na trzy i pół roku. Zwolniono go we wrześniu 1986 roku. Łącznie spędził w więzieniach ponad trzy i pół roku.
 
-## Znaczenie
-Uczestniczył w obradach Okrągłego Stołu i pozostał aktywny w życiu publicznym po 1989 roku. Należy do najbardziej rozpoznawalnych przywódców podziemnej Solidarności obok Bujaka i Lisa.`,
-    trivia: ['Po 13 grudnia 1981 ukrywał się i kierował podziemiem na Dolnym Śląsku.', 'W latach 80. był wielokrotnie aresztowany i skazywany.'],
+## Okrągły Stół
+W latach 1986–1987 ponownie zasiadał w TKK, a potem w Krajowej Komisji Wykonawczej. W 1989 roku uczestniczył w obradach Okrągłego Stołu jako jeden z liderów strony solidarnościowej.
+
+## Po 1989 roku
+Był posłem na Sejm trzech kadencji, a w latach 2001–2005 przewodniczącym Unii Wolności. Pozostał jednym z najbardziej rozpoznawalnych przywódców podziemnej „Solidarności”.`,
+    trivia: [
+      'W sierpniu 1980 roku Frasyniuk był kierowcą autobusu w zajezdni nr 9 wrocławskiego MPK.',
+      'Został przewodniczącym regionu Dolny Śląsk w wieku 26 lat.',
+      'W 1985 roku zatrzymano go w Gdańsku razem z Bogdanem Lisem i Adamem Michnikiem po spotkaniu z Wałęsą.',
+    ],
     resources: [
       {
         id: 'frasyniuk-encysol',
@@ -17906,26 +17917,33 @@ Polska szkoła boksu przyniosła kilkadziesiąt medali olimpijskich i mistrzostw
     subtitle: 'Hubert Wagner i mistrzostwo świata',
     category: 'społeczeństwo',
     tags: ['sport', 'siatkówka', 'lata 70.', 'reprezentacja'],
-    yearStart: 1974,
+    yearStart: 1973,
     yearEnd: 1976,
     summary: 'Reprezentacja Polski w siatkówce pod wodzą Huberta „Kata” Wagnera zdobyła mistrzostwo świata 1974 i złoto olimpijskie 1976 – największe sukcesy tej dyscypliny.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Wojtowicz_Tomasz.jpg?width=800',
     imageCaption: 'Tomasz Wójtowicz, atakujący mistrzowskiej drużyny Huberta Wagnera',
-    content: `## Sukces
-Polska siatkówka przeżyła złotą erę w połowie lat 70. W 1974 roku reprezentacja zdobyła mistrzostwo świata w Meksyku, a dwa lata później złoty medal igrzysk w Montrealu – jedyne w historii polskiej siatkówki przez następne dekady.
+    content: `## Trener „Kat”
+W maju 1973 roku trenerem reprezentacji Polski został Hubert Wagner – były kapitan kadry, uczestnik igrzysk w Meksyku w 1968 roku. Znany z surowości i ogromnych wymagań, zyskał przydomek „Kat”. Stawiał na kondycję, dyscyplinę i odporność psychiczną, a zawodników dobierał pod charakter równie starannie jak pod umiejętności.
 
-## Hubert Wagner
-Architektem sukcesu był trener Hubert Wagner, nazywany „Katem” za bezkompromisowe metody treningowe. Stawiał na kondycję, dyscyplinę i psychiczną odporność, a zawodników dobierał pod charakter co najmniej tak samo jak pod umiejętności.
+## Meksyk 1974
+Po zaledwie roku pracy z kadrą Wagner doprowadził ją do mistrzostwa świata w Meksyku w 1974 roku. Rok później Polacy zdobyli wicemistrzostwo Europy.
 
-## Finał w Montrealu
-Finał ze Związkiem Radzieckim rozstrzygnął się w pięciu setach, po ponad trzech godzinach gry i przy stanie meczowym odwracającym się kilkakrotnie. Transmisja skończyła się w Polsce nad ranem, a zwycięstwo nad faworytem wywołało euforię porównywalną z sukcesami piłkarzy.
+## Montreal 1976
+Na igrzyskach w Montrealu reprezentacja dotarła do finału ze Związkiem Radzieckim. Mecz rozstrzygnął się w pięciu setach, po wielokrotnych zwrotach akcji. Ze względu na różnicę czasu kibice w Polsce oglądali go w nocy. Złoty medal olimpijski siatkarzy był jednym z największych sukcesów polskiego sportu zespołowego.
 
-## Gwiazdy
-W drużynie grali Tomasz Wójtowicz, Edward Skorek, Wiesław Gawłowski, Mirosław Rybaczewski i Włodzimierz Stefański – pokolenie, do którego odwoływano się przy każdym kolejnym sukcesie polskiej siatkówki.
+## Drużyna
+W złotej drużynie grali m.in. Tomasz Wójtowicz, Edward Skorek, Wiesław Gawłowski, Mirosław Rybaczewski, Włodzimierz Stefański i Ryszard Bosek. To pokolenie było punktem odniesienia dla każdej kolejnej generacji polskich siatkarzy.
+
+## Dalsze losy
+W latach 1978–1979 Wagner prowadził reprezentację kobiet, a w latach 1983–1985 ponownie męską, zdobywając wicemistrzostwo Europy w 1983 roku. Drużyna wywalczyła awans na igrzyska w Los Angeles, ale z powodu bojkotu zagrała w zawodach „Przyjaźń-84”, gdzie zdobyła brąz. Wagner zmarł 13 marca 2002 roku, a jego imieniem nazwano memoriał rozgrywany przez reprezentacje.
 
 ## Znaczenie
-Wagner wracał później do kadry i pozostał symbolem trenera-charakteru; jego imieniem nazwano coroczny turniej reprezentacji. Złoto z Montrealu przez trzydzieści lat pozostawało punktem odniesienia dla całej dyscypliny w Polsce.`,
-    trivia: ['Polscy siatkarze zdobyli mistrzostwo świata.', 'Dwa lata później sięgnęli po złoto olimpijskie w Montrealu.'],
+Olimpijskie złoto z Montrealu przez dekady pozostawało największym sukcesem polskiej siatkówki – dopiero w XXI wieku polscy siatkarze ponownie zdobyli mistrzostwo świata.`,
+    trivia: [
+      'Hubert Wagner zdobył mistrzostwo świata już po roku pracy z reprezentacją.',
+      'Z powodu bojkotu igrzysk w Los Angeles drużyna Wagnera zagrała w 1984 roku w zawodach „Przyjaźń-84”.',
+      'Za surowość Wagner zyskał przydomek „Kat”.',
+    ],
     resources: [
       {
         id: 'siatkowka-1974-yt-m15',
@@ -20206,21 +20224,28 @@ W ostatnich latach mieszkał na Saskiej Kępie, prowadząc dziennik wydany pośm
     summary: 'Wybitny lekkoatleta, mistrz olimpijski z Moskwy 1980 w biegu na 3000 m z przeszkodami, jeden z najlepszych przeszkodowców świata swojej epoki.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/MalonowskiBronislawFuerth1976.jpg?width=800',
     imageCaption: 'Bronisław Malinowski na mityngu w Fürth, na krótko przed igrzyskami w Montrealu, 1976',
-    content: `## Sylwetka
-Bronisław Malinowski (1951–1981) pochodził z Nowego nad Wisłą, a całą karierę związał z klubem w Grudziądzu. Specjalizował się w biegu na 3000 metrów z przeszkodami – konkurencji wymagającej jednocześnie wytrzymałości, techniki i zimnej kalkulacji tempa.
+    content: `## Z Nowego nad Wisłą
+Bronisław Malinowski urodził się 4 czerwca 1951 roku w Nowem nad Wisłą; jego matka była z pochodzenia Szkotką. Od 1968 roku trenował w GKS „Olimpia” Grudziądz i pozostał z tym miastem związany do końca życia. Ukończył technikum samochodowe, a w 1977 roku Akademię Wychowania Fizycznego w Poznaniu.
 
-## Kariera
-Przez całą dekadę należał do ścisłej światowej czołówki. Był mistrzem Europy w 1974 roku w Rzymie i w 1978 w Pradze, a w Montrealu w 1976 zdobył srebro olimpijskie, przegrywając jedynie ze Szwedem Andersem Gärderudem, który ustanowił wtedy rekord świata.
+## Mistrz przeszkód
+Specjalizował się w biegu na 3000 metrów z przeszkodami – konkurencji wymagającej wytrzymałości, techniki i umiejętności rozłożenia sił. W Monachium w 1972 roku zajął czwarte miejsce, a w tym samym roku wyrównał rekord Europy wynikiem 8:22,2. Dwukrotnie zdobył mistrzostwo Europy – w 1974 roku w Rzymie i w 1978 roku w Pradze. W Montrealu w 1976 roku wywalczył srebro olimpijskie.
 
 ## Moskwa 1980
-Igrzyska w Moskwie, bojkotowane przez państwa zachodnie, przyniosły mu złoto na 3000 metrów z przeszkodami. Był to jeden z ostatnich wielkich sukcesów polskiej lekkoatletyki w epoce PRL i zwieńczenie dziesięciu lat startów na najwyższym poziomie.
+Najbardziej spektakularne zwycięstwo odniósł w finale igrzysk w Moskwie. Tanzańczyk Filbert Bayi w połowie dystansu odskoczył i uzyskał nad Polakiem około 70 metrów przewagi. Malinowski nie zmienił tempa, dogonił rywala i na ostatnich 400 metrach wyprzedził go o sześć sekund, zdobywając złoty medal.
 
-## Tragiczna śmierć
-Zginął 27 września 1981 roku w wypadku samochodowym na moście w Grudziądzu, mając trzydzieści lat i będąc wciąż czynnym zawodnikiem. Wiadomość dotarła do kraju w tygodniach między I Zjazdem Solidarności a stanem wojennym.
+## Wszechstronność
+Był dziesięciokrotnym mistrzem Polski – na 3000 metrów z przeszkodami, 5000 metrów i w biegach przełajowych – i wicemistrzem świata w przełajach z 1979 roku. Do dziś należą do niego rekordy Polski na 5000 metrów, 2 mile i 3000 metrów z przeszkodami.
 
-## Znaczenie
-Jego imię nosi stadion w Grudziądzu i szkoły w kilku miastach. W historii polskiej lekkoatletyki pozostaje wzorem biegacza, który wygrywał głową, a nie tylko nogami.`,
-    trivia: ['Zdobył złoto olimpijskie w Moskwie w biegu na 3000 metrów z przeszkodami.', 'Zginął w wypadku samochodowym rok po tym sukcesie.'],
+## Śmierć na moście
+27 września 1981 roku wieczorem jego audi zderzyło się na moście w Grudziądzu z jadącą z naprzeciwka ciężarówką KAMAZ, która chwilę wcześniej ominęła autobus PKS. Malinowski zginął na miejscu, mając trzydzieści lat.
+
+## Pamięć
+Pośmiertnie otrzymał nagrodę Fair Play. Jego imię nosi most w Grudziądzu, a od 1982 roku organizowane są biegi jego imienia. Brat, Robert Malinowski, był w latach 2006–2018 prezydentem Grudziądza.`,
+    trivia: [
+      'W finale olimpijskim w Moskwie odrobił około 70 metrów straty do Filberta Bayiego.',
+      'Do dziś należą do niego rekordy Polski na 5000 metrów, 2 mile i 3000 metrów z przeszkodami.',
+      'Jego imię nosi most w Grudziądzu – ten sam, na którym zginął w 1981 roku.',
+    ],
     resources: [
       {
         id: 'bm2-2',
@@ -21077,25 +21102,29 @@ Po wyborach czerwcowych oba stronnictwa zerwały sojusz z PZPR. W sierpniu 1989 
     category: 'społeczeństwo',
     tags: ['propaganda', 'ZSRR', 'społeczeństwo', 'organizacje'],
     yearStart: 1944,
-    yearEnd: 1989,
+    yearEnd: 1991,
     summary: 'Masowa organizacja propagująca „przyjaźń” z ZSRR i kulturę radziecką, jeden z filarów ideologicznego podporządkowania PRL Związkowi Radzieckiemu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Odznaka_TPPR.JPG?width=800',
     imageCaption: 'Odznaka Towarzystwa Przyjaźni Polsko-Radzieckiej',
-    content: `## Geneza
-Towarzystwo Przyjaźni Polsko-Radzieckiej powstało w 1944 roku, jeszcze przed końcem wojny, i szybko stało się jedną z najliczniejszych organizacji masowych w kraju. Jego struktura obejmowała koła w zakładach pracy, szkołach i urzędach.
+    content: `## Od kół do towarzystwa
+Początki Towarzystwa Przyjaźni Polsko-Radzieckiej sięgają 1944 roku, gdy na terenach zajętych przez Armię Czerwoną powstawały koła przyjaźni – komitety współdziałania z wojskiem radzieckim, opieki nad rannymi czy budowy pomników wdzięczności. Ośrodkiem koordynującym był Lublin. 14–15 października 1945 roku w Warszawie konferencja ogólnopolska utworzyła jednolitą organizację, a pierwszym prezesem był prof. Józef Wasowski.
 
-## Cele
-Zadaniem było propagowanie „nierozerwalnej przyjaźni” z ZSRR, popularyzowanie radzieckiej kultury i nauki oraz utrwalanie przekonania, że sojusz ze Wschodem jest gwarancją granic i bezpieczeństwa Polski. Był to jeden z filarów oficjalnej narracji przez cały okres PRL.
+## Prezesi
+Na czele towarzystwa stawali politycy pierwszego szeregu: Edward Ochab w latach 1950–1952, premier Józef Cyrankiewicz w latach 1952–1955, później przez siedemnaście lat ludowiec Czesław Wycech. Siedzibą Zarządu Głównego był od 1980 roku Dom Przyjaźni Polsko-Radzieckiej przy ul. Marszałkowskiej w Warszawie.
 
-## Działalność
-Organizowano Dni Kultury Radzieckiej, prelekcje, kursy języka rosyjskiego, pokazy filmów, konkursy szkolne, wycieczki i uroczystości rocznicowe – przede wszystkim rocznicę rewolucji październikowej. Wydawano też własną prasę i literaturę popularną.
+## Przyjaźń w praktyce
+Towarzystwo organizowało obchody rocznic rewolucji październikowej, dni radzieckiej kultury, techniki, książki i filmu, kursy języka rosyjskiego, wycieczki do ZSRR i tzw. pociągi przyjaźni. Patronowało Festiwalowi Piosenki Radzieckiej w Zielonej Górze. Wydawało miesięcznik „Przyjaźń”, a obok niego ukazywał się tygodnik „Kraj Rad” agencji Nowosti. Działała też Komisja Braterstwa Broni, krzewiąca przyjaźń wojska polskiego z Armią Radziecką.
 
-## Masowość „na papierze”
-Towarzystwo podawało członkostwo liczone w milionach, ale przynależność bywała zbiorowa i formalna: zapisywano całe załogi zakładów albo klasy szkolne. Dla większości członków był to rytuał odbywany bez zaangażowania, a udział w imprezach – obowiązek służbowy.
+## Trzy miliony na papierze
+W latach 80. TPPR liczyło około 3 milionów członków – przede wszystkim dzięki zbiorowym zapisom uczniów i pracowników zakładów i urzędów. Dla większości była to formalność: składka i obowiązkowa obecność na akademii. Imponujące statystyki nie przekładały się na realną sympatię, a nastroje antyradzieckie były w społeczeństwie powszechne.
 
-## Znaczenie
-TPPR rozwiązano na początku lat 90. Pozostaje przykładem instytucji, która przy imponujących statystykach nie zbudowała realnego poparcia – rozmiar organizacji i jej rzeczywisty wpływ rozchodziły się w PRL wyjątkowo daleko.`,
-    trivia: ['Towarzystwo Przyjaźni Polsko-Radzieckiej organizowało obowiązkowe akademie.', 'Członkostwo bywało formalnością zapisywaną w zakładzie pracy.'],
+## Koniec
+Jeszcze 17 listopada 1989 roku towarzystwo wręczało medale „Zasłużony Działacz TPPR”. W 1991 roku przekształciło się w Stowarzyszenie Polska–Rosja.`,
+    trivia: [
+      'W latach 80. TPPR liczyło około 3 milionów członków – głównie dzięki zbiorowym zapisom uczniów i pracowników.',
+      'Prezesem towarzystwa był m.in. premier Józef Cyrankiewicz.',
+      'TPPR patronowało Festiwalowi Piosenki Radzieckiej w Zielonej Górze.',
+    ],
     resources: [
       {
         id: 'tppr-yt-m10',
@@ -31698,20 +31727,24 @@ Dziś uchodzi za jeden z najlepszych filmów Holland i za najmocniejszy zapis te
     summary: 'Formacja kontrwywiadu i policji wojskowej, która przez ponad trzydzieści lat nadzorowała politycznie Ludowe Wojsko Polskie.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Poczet_WSW.jpg?width=800',
     imageCaption: 'Poczet sztandarowy Wojskowej Służby Wewnętrznej',
-    content: `## Powstanie
-WSW utworzono w styczniu 1957 roku w miejsce rozwiązanej Informacji Wojskowej – osławionej formacji, która w okresie stalinowskim prowadziła śledztwa w sprawach oficerów oskarżanych o spisek i odpowiadała za wymuszanie zeznań. Zmiana nazwy była elementem popaździernikowej odwilży, ale nowa służba przejęła zarówno kadry, jak i większość zadań.
+    content: `## Po Informacji Wojskowej
+Wojskową Służbę Wewnętrzną powołano rozkazem ministra obrony narodowej Mariana Spychalskiego z 10 stycznia 1957 roku w miejsce rozwiązanego Głównego Zarządu Informacji Wojska Polskiego. Informacja Wojskowa od 1944 roku brała udział w walce z podziemiem niepodległościowym i w procesach oficerów; do 1957 roku aresztowała około 17 tysięcy żołnierzy i cywilów. Nowa służba przejęła jednak część kadr i zadań poprzedniczki.
 
-## Zakres działania
-WSW łączyła trzy funkcje, które w armiach zachodnich należą do odrębnych instytucji: kontrwywiad wojskowy, żandarmerię (porządek w garnizonach, ściganie przestępstw żołnierzy) oraz nadzór polityczny nad korpusem oficerskim. Prowadziła sieć informatorów wśród żołnierzy służby zasadniczej i kadry, opiniowała awanse oraz wyjazdy zagraniczne, kontrolowała zakłady przemysłu zbrojeniowego i ochronę tajemnicy wojskowej.
+## Trzy w jednym
+WSW łączyła funkcje, które w armiach zachodnich należą do odrębnych instytucji: kontrwywiad wojskowy, żandarmerię i nadzór polityczny nad wojskiem. Miała chronić siły zbrojne przed wywiadem obcych państw, sabotażem i terroryzmem, pilnować „ideowo-politycznego” stanu armii, zapobiegać nielegalnym związkom w wojsku, ścigać przestępczość pospolitą żołnierzy i utrzymywać dyscyplinę. Patrole WSW legitymowały i zatrzymywały żołnierzy poza jednostkami.
+
+## Pion operacyjny
+Służba dzieliła się na pion operacyjny, czyli kontrwywiadowczy, oraz pion porządkowo-dochodzeniowy. Pion operacyjny był wiodący: prowadził sieć informatorów wśród żołnierzy zasadniczej służby i kadry, opiniował awanse i wyjazdy zagraniczne, nadzorował przemysł zbrojeniowy. Od 1961 roku szef WSW miał zastępcę do spraw politycznych. Kadry szkolono w ośrodku w Mińsku Mazowieckim.
 
 ## Stan wojenny
-W okresie stanu wojennego WSW brała udział w internowaniach i w obsadzaniu wojskowymi komisarzami zakładów pracy oraz urzędów. Współpracowała ze Służbą Bezpieczeństwa, choć obie formacje rywalizowały o wpływy i pilnowały własnych obszarów.
+W czasie stanu wojennego WSW uczestniczyła w działaniach przeciw „Solidarności” i w kontroli zakładów zmilitaryzowanych. Współpracowała ze Służbą Bezpieczeństwa, choć obie formacje rywalizowały o wpływy.
 
-## Rozwiązanie
-Służbę rozwiązano w 1990 roku, a na jej miejsce powołano Wojskowe Służby Informacyjne. Los archiwów WSW stał się jednym z najbardziej spornych wątków rozliczeń z PRL – znaczna część dokumentacji została zniszczona na przełomie lat 1989 i 1990.`,
+## Koniec
+WSW rozwiązano w 1990 roku. Zadania kontrwywiadowcze przejęły Wojskowe Służby Informacyjne, a porządkowe – utworzona w 1990 roku Żandarmeria Wojskowa.`,
     trivia: [
-      'Informacja Wojskowa, poprzedniczka WSW, była w latach 1949–1954 kierowana przez oficerów oddelegowanych z sowieckiego kontrwywiadu.',
-      'WSW dysponowała własnymi aresztami śledczymi, niezależnymi od więziennictwa cywilnego.',
+      'Informacja Wojskowa, poprzedniczka WSW, aresztowała do 1957 roku około 17 tysięcy żołnierzy i cywilów.',
+      'WSW łączyła kontrwywiad wojskowy, żandarmerię i nadzór polityczny nad armią.',
+      'Po rozwiązaniu WSW w 1990 roku powstały dwie instytucje: Wojskowe Służby Informacyjne i Żandarmeria Wojskowa.',
     ],
     resources: [
       {
@@ -35622,23 +35655,27 @@ Czterokrotnie, w latach 1957–1966, był nominowany do Nagrody Nobla. Zmarł 2 
     summary: 'Dziennik Polskiej Partii Robotniczej wychodzący w latach 1944–1948; po zjednoczeniu partii zastąpiła go „Trybuna Ludu”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Boles%C5%82aw_Bierut_do_ludno%C5%9Bci_Warszawy_1945.jpg?width=800',
     imageCaption: 'Odezwa Boleslawa Bieruta do ludnosci Warszawy, 1945',
-    content: `## Gazeta partii
-„Głos Ludu” był organem Komitetu Centralnego Polskiej Partii Robotniczej, wychodzącym od listopada 1944 roku. Pełnił funkcję, jaką w systemie partyjnym miała prasa centralna: nie informował, lecz wykładał aktualną linię – to z niego aktyw dowiadywał się, co należy myśleć o kolejnych wydarzeniach.
+    content: `## Gazeta PPR
+„Głos Ludu” był dziennikiem i organem Komitetu Centralnego Polskiej Partii Robotniczej. Założono go w 1944 roku w Lublinie, ówczesnej siedzibie nowej władzy. Od stycznia do czerwca 1945 roku ukazywał się w Łodzi, a 20 czerwca 1945 roku redakcja przeniosła się do Warszawy. Redaktorami naczelnymi byli Edward Uzdański, a od 1945 roku Ostap Dłuski.
 
-## Jak to działało
-Tekst z pierwszej strony powielała potem prasa terenowa, a prelegenci referowali go na zebraniach. Zmiana tonu wobec jakiejś sprawy albo zniknięcie nazwiska z łamów były sygnałem czytelnym dla każdego, kto umiał gazetę czytać – i właśnie tego uczyli się czytelnicy przez następne czterdzieści lat.
+## Jak czytano prasę partyjną
+Prasa centralna partii nie tyle informowała, ile wykładała aktualną linię. Tekst z pierwszej strony powielały gazety terenowe, a prelegenci referowali go na zebraniach. Zmiana tonu wobec jakiejś sprawy albo zniknięcie nazwiska z łamów były sygnałem czytelnym dla każdego, kto umiał gazetę czytać – czytelnicy uczyli się tego przez następne czterdzieści lat.
 
-## Rok 1947
-Gazeta odegrała istotną rolę w kampanii przed wyborami 1947 roku i w nagonce na PSL Stanisława Mikołajczyka, publikując oskarżenia pod adresem działaczy opozycji, którzy w tym samym czasie byli aresztowani.
+## Kampania 1946–1947
+Dziennik był jedną z głównych tub propagandowych w czasie referendum 1946 roku i kampanii przed wyborami do Sejmu Ustawodawczego w styczniu 1947 roku. Wymierzone w PSL Stanisława Mikołajczyka teksty ukazywały się równolegle z aresztowaniami działaczy opozycji.
 
-## Koniec
-W grudniu 1948 roku, przy kongresie zjednoczeniowym PPR i PPS, „Głos Ludu” połączono z socjalistycznym „Robotnikiem”. Z tego połączenia powstała „Trybuna Ludu” – odtąd jedyny organ centralny partii, wychodzący aż do 1990 roku.
+## Połączenie z „Robotnikiem”
+W grudniu 1948 roku, przy kongresie zjednoczeniowym PPR i PPS, „Głos Ludu” połączono z socjalistycznym „Robotnikiem”. Pierwszy numer „Trybuny Ludu” ukazał się 16 grudnia 1948 roku – odtąd był to jedyny centralny organ partii, wychodzący do stycznia 1990 roku.
 
-## Dlaczego to ważne
-Los gazety jest dokładnym odbiciem losu samej PPS: formalnie połączenie równych, w praktyce wchłonięcie. Tytuł socjalistyczny zniknął, tytuł komunistyczny zmienił nazwę i zachował ciągłość redakcji.`,
+## Wymowny los
+Los gazet był odbiciem losu partii. „Robotnik”, tytuł z tradycją sięgającą 1894 roku, przy którego redagowaniu pracował przed laty Józef Piłsudski, zniknął. Komunistyczny „Głos Ludu” zmienił nazwę, ale to jego środowisko nadało ton nowej gazecie.
+
+## Archiwum
+Roczniki „Głosu Ludu” są dostępne w zasobach Mazowieckiej Biblioteki Cyfrowej – to jedno z ważniejszych źródeł do dziejów propagandy pierwszych lat powojennych.`,
     trivia: [
-      'Powstał z połączenia z socjalistycznym „Robotnikiem”, ale to tytuł socjalistyczny zniknął.',
-      'Prasa partyjna nie tyle informowała, ile wykładała aktualną linię – aktyw dowiadywał się z niej, co myśleć.',
+      '„Głos Ludu” założono w 1944 roku w Lublinie; w 1945 roku przez pół roku ukazywał się w Łodzi.',
+      'Przy połączeniu z „Robotnikiem” zniknął tytuł socjalistyczny – z tradycją sięgającą 1894 roku.',
+      'Roczniki „Głosu Ludu” można przeglądać w Mazowieckiej Bibliotece Cyfrowej.',
     ],
     resources: [
       {
@@ -36148,7 +36185,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1953, event: 'Stracenie gen. Emila Fieldorfa „Nila”', category: 'represje', entryId: 'fieldorf-nil' },
   { year: 1957, event: 'Debiut komiksu „Tytus, Romek i A’Tomek” Papcia Chmiela', category: 'kultura', entryId: 'komiks-prl' },
   { year: 1980, event: 'Bronisław Malinowski zdobywa złoto olimpijskie w Moskwie (3000 m z przeszkodami)', category: 'społeczeństwo', entryId: 'malinowski-bronislaw' },
-  { year: 1949, event: 'Powstaje Towarzystwo Przyjaźni Polsko-Radzieckiej (TPPR)', category: 'społeczeństwo', entryId: 'tppr' },
+  { year: 1945, event: 'Konferencja w Warszawie tworzy ogólnopolskie Towarzystwo Przyjaźni Polsko-Radzieckiej', category: 'społeczeństwo', entryId: 'tppr' },
   { year: 1952, event: 'Konstytucja PRL ustanawia fasadowy Sejm jednej listy', category: 'polityka', entryId: 'sejm-prl' },
   { year: 1952, event: 'Front Jedności Narodu firmuje wybory bez wyboru', category: 'polityka', entryId: 'front-jednosci-narodu' },
   { year: 1965, event: 'Premiera filmu „Salto” Tadeusza Konwickiego', category: 'kultura', entryId: 'konwicki-tadeusz' },
