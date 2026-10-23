@@ -16198,6 +16198,14 @@ W 1984 roku, po stanie wojennym, kabaret zmienił nazwę na Teyatr, a jego popul
     ],
     resources: [
       {
+        id: 'kabaret-tey-yt-m18',
+        title: 'Zenon Laskowik i Janusz Rewiński – „180 stopni wokół estrady poznańskiej”',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=IoUPBgcoGSU',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Archiwalny fragment programu estradowego z Laskowikiem i Rewińskim.',
+      },
+      {
         id: 'tey-2',
         title: 'Kabaret w Ninatece',
         type: 'nagranie',
@@ -21767,6 +21775,14 @@ Kolorowa telewizja jest dobrym skrótem całej dekady Gierka: nowoczesna technol
     trivia: ['Nadawanie w kolorze ruszyło na początku lat 70.', 'Kolorowy telewizor jeszcze długo pozostawał luksusem.'],
     resources: [
       {
+        id: 'telewizja-kolorowa-yt-m18',
+        title: 'Telewizja w PRL – „Kulisy historii” odc. 243',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=znZAATsGumI',
+        source: 'IPNtv (YouTube)',
+        description: 'Program IPN o historii telewizji w PRL i jej kierownictwie z nadania partii.',
+      },
+      {
         id: 'tvk-pkf',
         title: 'Polska Kronika Filmowa – telewizja kolorowa',
         type: 'nagranie',
@@ -23024,6 +23040,14 @@ Od 1981 roku był profesorem Harvardu. Przełożył niemal całego Szekspira, an
     trivia: ['Poeta Nowej Fali i wybitny tłumacz Szekspira.', 'Był jednym ze współzałożycieli KOR.'],
     resources: [
       {
+        id: 'baranczak-stanislaw-yt-m18',
+        title: 'Rozmowa ze Stanisławem Barańczakiem',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=_cMazCoiy_8',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Archiwalny fragment rozmowy TVP o twórczości poety.',
+      },
+      {
         id: 'baranczak-stanislaw-culture',
         title: 'Stanisław Barańczak w serwisie Culture.pl',
         type: 'publikacja',
@@ -23199,6 +23223,14 @@ Ekscentryczny wizerunek i późniejsze samotne życie w Lewinie Kłodzkim w otoc
       'Urodziła się w Belgii i mówiła biegle po francusku, co ułatwiło jej start na Zachodzie.',
     ],
     resources: [
+      {
+        id: 'violetta-villas-yt-m18',
+        title: 'Reportaż Jedynki – Violetta Villas, życie po życiu',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=gPi6SNukD_Q',
+        source: 'TVP (YouTube)',
+        description: 'Reportaż TVP o życiu i karierze piosenkarki.',
+      },
       {
         id: 'violetta-villas-culture',
         title: 'Violetta Villas w serwisie Culture.pl',
@@ -23876,6 +23908,14 @@ Te seriale okazały się jednym z najtrwalszych elementów kultury PRL: nie nios
     ],
     resources: [
       {
+        id: 'dobranocka-yt-m18',
+        title: '„Reksio remontuje” (1980) – cały odcinek',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=24Xi59t3S5U',
+        source: 'Studio Filmów Rysunkowych (YouTube)',
+        description: 'Odcinek klasycznej dobranocki w reżyserii Lechosława Marszałka.',
+      },
+      {
         id: 'dob-1',
         title: 'Polskie dobranocki – materiały',
         type: 'nagranie',
@@ -24046,6 +24086,14 @@ Brak telefonu kształtował codzienność: umawiano się z góry i na stałe, pi
       'Połączenia międzymiastowe przez lata zamawiało się u telefonistki i czekało na nie nieraz godzinami.',
     ],
     resources: [
+      {
+        id: 'telefon-prl-yt-m18',
+        title: 'Budka telefoniczna w PRL',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=6vw38py5cRE',
+        source: 'Muzeum Życia w PRL (YouTube)',
+        description: 'Krótki materiał muzeum o automatach telefonicznych i rozmowach międzymiastowych.',
+      },
       {
         id: 'tel-yt',
         title: 'Telefon w PRL – materiały',
@@ -24334,6 +24382,14 @@ Kiosk był miejscem, gdzie system dystrybucji PRL stykał się z klientem najbez
     ],
     resources: [
       {
+        id: 'kiosk-ruch-yt-m18',
+        title: '„Był sobie Ruch” – reportaż Magdy Skawińskiej i Jakuba Tarki',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=4T2fnDVHUqM',
+        source: 'Polskie Radio (YouTube)',
+        description: 'Reportaż Polskiego Radia o kioskach Ruchu.',
+      },
+      {
         id: 'ruch-wk',
         title: 'Ruch (przedsiębiorstwo) – artykuł',
         type: 'publikacja',
@@ -24495,6 +24551,14 @@ Wiele zwyczajów z tamtych lat – karp kupowany na żywo, domowe ozdoby, zdobyw
       'Ozdoby choinkowe często robiono w domu, ze słomy, bibuły i papieru.',
     ],
     resources: [
+      {
+        id: 'swieta-prl-yt-m18',
+        title: '#PerłyArchiwów – jak zmieniają się tradycje Bożego Narodzenia?',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=Pie5UiNu5uw',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Podcast archiwum TVP o tradycjach świątecznych, z materiałami archiwalnymi.',
+      },
       {
         id: 'sw-wk',
         title: 'Boże Narodzenie – artykuł',
@@ -28886,6 +28950,14 @@ W 1990 roku przedsiębiorstwo podzielono na 176 firm. Część z nich zlikwidowa
     ],
     resources: [
       {
+        id: 'pks-transport-yt-m18',
+        title: '„Ogórek” wraca na drogi Raciborza',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=0Tkbiz_zCFg',
+        source: 'TVP3 Katowice (YouTube)',
+        description: 'Reportaż o odbudowie autobusu Jelcz „ogórek”, symbolu PKS.',
+      },
+      {
         id: 'pks-pkf',
         title: 'Polska Kronika Filmowa – transport i komunikacja',
         type: 'nagranie',
@@ -29284,6 +29356,14 @@ Odszedł dwa lata po Cybulskim, swoim przyjacielu z Bim-Bomu – ich śmierć za
       'Ze Zbigniewem Cybulskim współtworzył gdański teatrzyk Bim-Bom.',
     ],
     resources: [
+      {
+        id: 'bogumil-kobiela-yt-m18',
+        title: 'Bogumił Kobiela – archiwalna rozmowa telewizyjna',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=eKwksuk8Gzs',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Krótki zapis rozmowy TVP z aktorem, fragment cyklu „Teatr i sztuka sceniczna”.',
+      },
       {
         id: 'bogumil-kobiela-culture',
         title: 'Bogumił Kobiela w serwisie Culture.pl',
@@ -30186,6 +30266,14 @@ Był wujem Wiktora Zborowskiego. Odmówił roli pana Kleksa, którą zagrał pot
       'Był wujem aktora Wiktora Zborowskiego – syna jego starszej siostry Hanny.',
     ],
     resources: [
+      {
+        id: 'jan-kobuszewski-yt-m18',
+        title: 'Jan Kobuszewski w „Życiu na gorąco” (1978)',
+        type: 'film',
+        url: 'https://www.youtube.com/watch?v=FZW-K27SolU',
+        source: 'Rekonstrukcja cyfrowa TVP (YouTube)',
+        description: 'Archiwalny fragment z udziałem aktora.',
+      },
       {
         id: 'jan-kobuszewski-culture',
         title: 'Jan Kobuszewski w serwisie Culture.pl',
