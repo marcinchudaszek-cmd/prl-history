@@ -8862,27 +8862,29 @@ Odbudowa była prawdziwym wysiłkiem całego kraju i zarazem mitem założyciels
     tags: ['wywiad', 'kontrwywiad', 'szpiegostwo', 'Departament I', 'KGB', 'Stasi', 'agenci', 'MSW'],
     yearStart: 1944,
     yearEnd: 1989,
-    summary: 'Wywiad PRL (Departament I MSW) prowadził operacje szpiegowskie na Zachodzie, infiltrował polską emigrację i ściśle współpracował z KGB i Stasi. Kontrwywiad chronił granicę przed "wrogimi agentami" – i tępił opozycję wewnętrzną.',
-    content: `## Struktura wywiadu
+    summary: 'Wywiad i kontrwywiad PRL – Departament I MSW (wywiad cywilny), Departament II (kontrwywiad) i wywiad wojskowy; zdobywały technologie i tajemnice Zachodu, rozpracowywały emigrację i ściśle współpracowały z KGB.',
+    content: `## Dwa wywiady
+Wywiad cywilny PRL od listopada 1956 roku działał jako Departament I Ministerstwa Spraw Wewnętrznych, część Służby Bezpieczeństwa. Kontrwywiadem zajmował się Departament II MSW. Odrębnie działał wywiad wojskowy – Zarząd II Sztabu Generalnego – oraz kontrwywiad wojskowy, czyli Wojskowa Służba Wewnętrzna.
 
-Wywiad zagraniczny PRL podlegał Departamentowi I MSW, kontrwywiad – Departamentowi II. Obok nich działał Wojskowy Wywiad i Kontrwywiad (WSW). Wszystkie służby ściśle współpracowały z sowieckim KGB i wschodnioniemiecką Stasi.
+## Zadania
+Departament I miał zdobywać informacje o „politycznych, ekonomicznych, militarnych i wywiadowczych planach” wymierzonych przeciw PRL i krajom bloku. Prowadził rezydentury przy placówkach dyplomatycznych i handlowych, a także rezydentury nielegalne, działające poza oficjalnymi placówkami. Wiele operacji wymierzonych było w polską emigrację, Radio Wolna Europa i paryską „Kulturę”.
 
-## Operacje na Zachodzie
+## Wywiad naukowo-techniczny
+Ważną rolę odgrywało zdobywanie zachodnich technologii, do których PRL nie miała dostępu z powodu embarga. Najsłynniejszą operacją był przypadek Mariana Zacharskiego, który jako szef firmy Polamco w USA zwerbował inżyniera koncernu Hughes Aircraft i zdobył dokumentację nowoczesnych systemów uzbrojenia. Aresztowany w 1981 roku, został w 1985 roku wymieniony na moście Glienicke w Berlinie.
 
-Wywiad PRL umieszczał agentów w polskiej diasporze, emigracyjnych redakcjach (RWE) i zachodnioniemieckich firmach. Jedną z najbardziej spektakularnych afer był przypadek Mariana Zacharskiego – oficera wywiadu PRL, który w USA zwerbował inżyniera Hughesa i zdobył tajne dokumenty wojskowe. Aresztowany w 1981 r., wymieniony w 1985 r.
-
-## Współpraca z KGB i Stasi
-
-Wywiad PRL był "młodszym bratem" KGB. Sowieci mieli wgląd w operacje polskiego wywiadu. Współpraca ze Stasi była równie bliska – wspólne operacje, szkolenia, wymiana teczek. Stasi miała własnych agentów działających w Polsce.
+## W cieniu KGB
+Polskie służby ściśle współpracowały z KGB i Stasi: wymieniały się informacjami, szkoliły kadry i prowadziły wspólne przedsięwzięcia. Moskwa miała szeroki wgląd w działania polskiego wywiadu.
 
 ## Kontrwywiad i opozycja
+Departament II oficjalnie tropił zachodnich szpiegów, a w praktyce zajmował się też kontaktami obywateli z cudzoziemcami i inwigilacją opozycji. Największą porażką służb PRL była działalność płk. Ryszarda Kuklińskiego, który przez lata przekazywał Amerykanom tajemnice Układu Warszawskiego i w 1981 roku zdołał uciec.
 
-Departament II oficjalnie chronił PRL przed szpiegami zachodnimi. W praktyce zajmował się też inwigilacją opozycji i zwalczaniem drugiego obiegu. Granica między kontrwywiadem a represjami politycznymi była płynna.
-
-## Po 1989 r.
-
-Część akt wywiadu PRL zniszczono przed przekazaniem do IPN. Zachowane dokumenty odsłoniły skalę penetracji zachodnich instytucji. Lustracja oficerów wywiadu pozostaje politycznie drażliwym tematem.`,
-    trivia: ['Wywiad cywilny działał w I Departamencie MSW.', 'Kontrwywiad tropił przede wszystkim kontakty obywateli z Zachodem.'],
+## Koniec
+Departament I rozwiązano w maju 1990 roku wraz z całą SB. Jego zadania przejął Zarząd Wywiadu Urzędu Ochrony Państwa, do którego przeszła część oficerów po weryfikacji.`,
+    trivia: [
+      'Marian Zacharski, oficer wywiadu PRL aresztowany w USA w 1981 roku, został wymieniony w 1985 roku na moście Glienicke.',
+      'Departament I MSW istniał od listopada 1956 do maja 1990 roku.',
+      'Wywiad PRL prowadził tzw. rezydentury nielegalne – działające poza oficjalnymi placówkami za granicą.',
+    ],
     resources: [
       {
         id: 'wyw-film',
@@ -12340,26 +12342,28 @@ Po 1989 r. demokratyczna Polska odziedziczyła ogromny dług PRL. Dopiero negocj
     summary: 'ROPCiO był jedną z pierwszych jawnych organizacji opozycyjnych w PRL. Powołując się na podpisane przez PRL akty o prawach człowieka, działacze otwarcie domagali się ich przestrzegania, torując drogę szerszemu ruchowi przedsierpniowemu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Leszek_Moczulski_1978_1980.jpg?width=800',
     imageCaption: 'Leszek Moczulski, współzałożyciel ROPCiO, na przełomie lat 70. i 80.',
-    content: `## Geneza
+    content: `## Po Helsinkach
+Pomysł jawnej organizacji obrony praw człowieka zrodził się we wrześniu 1975 roku, po podpisaniu przez PRL Aktu Końcowego KBWE w Helsinkach, w kręgu Leszka Moczulskiego, Romualda Szeremietiewa i Andrzeja Szomańskiego. Miał być etapem w drodze do jawnej partii niepodległościowej. W tajnym Nurcie Niepodległościowym działali też m.in. Andrzej Czuma, Maciej Grzywaczewski i Adam Wojciechowski.
 
-Ruch Obrony Praw Człowieka i Obywatela powstał w marcu 1977 r., w atmosferze ożywienia opozycji po represjach 1976 r. i powstaniu KOR. Inspiracją był Akt Końcowy KBWE z Helsinek (1975), w którym PRL zobowiązała się do przestrzegania praw człowieka.
+## Narodziny
+Rozmowy o wspólnej organizacji z KOR załamały się w marcu 1977 roku. 25 marca 1977 roku 18 osób podpisało „Apel do społeczeństwa polskiego”, m.in. gen. Mieczysław Boruta-Spiechowicz, Andrzej Czuma, Leszek Moczulski, ks. Bohdan Papiernik, Wojciech Ziembiński i ks. Jan Zieja; czworo sygnatariuszy należało jednocześnie do KOR. Następnego dnia Apel złożono w kancelarii prymasa, a Moczulski ogłosił powstanie Ruchu na konferencji prasowej.
 
-## Strategia jawności
+## Ruch bez statutu
+ROPCiO nie miał statutu, władz ani formalnego członkostwa – o udziale decydowało samookreślenie. Rzecznikami byli Czuma i Moczulski. Taka formuła utrudniała represje, ale ułatwiała SB infiltrację. W chwili powstania ruch liczył 80–120 osób. Jego celem było wymuszenie na władzach przestrzegania Międzynarodowych Paktów Praw Człowieka, ratyfikowanych przez PRL w marcu 1977 roku.
 
-ROPCiO przyjął strategię działania jawnego – ujawniano nazwiska, adresy, prowadzono punkty konsultacyjno-informacyjne. Powoływano się na konstytucję i umowy międzynarodowe, żądając ich realizacji. Była to forma „dialogu prawnego” z państwem, które samo łamało własne deklaracje.
+## Jawność
+Ruch wydawał apele, deklaracje i listy otwarte do Sejmu i Rady Państwa, prowadził punkty konsultacyjno-informacyjne i organizował niezależne obchody rocznic narodowych, m.in. 11 listopada i 3 maja. Wydawał „Opinię” – pierwsze nielegalne pismo w PRL z jawnie podanymi nazwiskami i adresem redakcji.
 
-## Działacze i podziały
-
-Wśród założycieli byli m.in. Leszek Moczulski, Andrzej Czuma, Wojciech Ziembiński. Ruch szybko się podzielił – z jednego z nurtów wyłoniła się Konfederacja Polski Niepodległej (KPN) Moczulskiego. Różnice dotyczyły radykalizmu i celów politycznych.
-
-## Wydawnictwa
-
-ROPCiO wydawał niezależne pisma, m.in. „Opinię” i „Bratniaka”, rozwijając drugi obieg. Organizował też obchody rocznic narodowych zakazanych przez władze, łamiąc monopol państwa na pamięć historyczną.
+## Rozłam
+Ruch szybko podzielił się na nurty skupione wokół Czumy i Moczulskiego. Z kręgu Moczulskiego wyrosła w 1979 roku Konfederacja Polski Niepodległej – pierwsza partia otwarcie dążąca do niepodległości. Ze środowiska ROPCiO wywodził się też gdański Ruch Młodej Polski.
 
 ## Znaczenie
-
-Choć ROPCiO nie przetrwał jako jednolita organizacja, odegrał ważną rolę w budowaniu jawnej opozycji przed 1980 r. Wraz z KOR tworzył środowisko, z którego wyrosła „Solidarność” i kadry niepodległościowej polityki.`,
-    trivia: ['Ruch działał jawnie – jego członkowie podawali nazwiska i adresy.', 'Powstał w 1977 roku, rok po KOR.'],
+Obok KOR ROPCiO był najważniejszym ośrodkiem jawnej opozycji przed 1980 rokiem. Wychowało się w nim wielu działaczy niepodległościowej prawicy III RP.`,
+    trivia: [
+      '„Opinia” ROPCiO była pierwszym nielegalnym pismem w PRL z jawnie podanymi nazwiskami i adresem redakcji.',
+      'ROPCiO nie miał statutu ani formalnego członkostwa – o udziale decydowało samookreślenie.',
+      'Apel założycielski podpisało 18 osób, w tym przedwojenny generał Mieczysław Boruta-Spiechowicz.',
+    ],
     resources: [
       {
         id: 'ropcio-yt-m5',
@@ -12415,26 +12419,28 @@ Choć ROPCiO nie przetrwał jako jednolita organizacja, odegrał ważną rolę w
     summary: 'W marcu 1981 r. milicja brutalnie pobiła działaczy „Solidarności”, m.in. Jana Rulewskiego, podczas sesji rady w Bydgoszczy. Wydarzenie wywołało najpoważniejszy kryzys między władzą a związkiem i groźbę strajku generalnego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/WieczorWroclawia20marca1981.jpg?width=800',
     imageCaption: '„Wieczór Wrocławia” z 20 marca 1981 roku o wydarzeniach bydgoskich',
-    content: `## Tło
+    content: `## Wiejska Solidarność
+Wiosną 1981 roku jednym z głównych sporów była rejestracja związku rolników indywidualnych. Pod presją związkowców prezydium Wojewódzkiej Rady Narodowej w Bydgoszczy zdecydowało 5 marca 1981 roku, że na sesję poświęconą rolnikom zostanie zaproszona delegacja „Solidarności”.
 
-Wiosną 1981 r. napięcie między „Solidarnością” a władzą rosło. Związek domagał się rejestracji „Solidarności” rolniczej i realizacji porozumień. W tej atmosferze doszło do wydarzeń w Bydgoszczy, które omal nie doprowadziły do otwartego starcia.
+## 19 marca
+Sesja rozpoczęła się 19 marca o 10.00, z udziałem wicepremiera Stanisława Macha. Przybyło 35 związkowców z przewodniczącym regionu Janem Rulewskim. Przewodniczący WRN niespodziewanie zamknął obrady. Związkowcy zostali na sali, a do urzędu przybyli robotnicy z bydgoskich zakładów. Lech Wałęsa kilkakrotnie apelował do Rulewskiego, by opuścił budynek. O 19.00 milicja zażądała wyjścia, a potem ruszyła z pałkami. Pobitych Rulewskiego, Michała Bartoszcze i Mariusza Łabentowicza zabrano do szpitala. Kto wydał rozkaz, do dziś nie ustalono.
 
-## Pobicie 19 marca
+## Na krawędzi
+W związku zapanowały radykalne nastroje i żądania strajku generalnego. Wałęsa sprzeciwiał się konfrontacji i samodzielnie, z naruszeniem statutu, zdecydował o ograniczeniu się na razie do strajku ostrzegawczego. Z funkcji rzecznika związku zrezygnował Karol Modzelewski. Prymas Stefan Wyszyński przestrzegał delegację „Solidarności”, by „chcąc wiele, nie stracili tego, co mają”.
 
-19 marca 1981 r. działacze „Solidarności” uczestniczyli w sesji Wojewódzkiej Rady Narodowej w Bydgoszczy. Po jej przerwaniu funkcjonariusze MO brutalnie pobili pozostałych w sali związkowców, w tym Jana Rulewskiego, który trafił do szpitala. Wydarzenie uznano za celową prowokację.
-
-## Kryzys i groźba strajku
-
-Pobicie wywołało falę oburzenia. „Solidarność” ogłosiła gotowość strajkową, a na 31 marca zapowiedziano strajk generalny – potencjalnie największy w historii bloku wschodniego. Kraj znalazł się na krawędzi konfrontacji, w cieniu sowieckiej interwencji.
+## Największy strajk
+27 marca 1981 roku odbył się czterogodzinny ogólnopolski strajk ostrzegawczy – największy strajk w historii Polski. 26 marca gen. Jaruzelski w rozmowie z prymasem, przekraczając pełnomocnictwa Biura Politycznego, zgodził się na powstanie wiejskiej „Solidarności”.
 
 ## Porozumienie warszawskie
+30 marca, po rozmowach Wałęsy z wicepremierem Mieczysławem Rakowskim, ogłoszono kompromis i odwołano zapowiedziany na 31 marca strajk generalny. Dla części działaczy była to kapitulacja – „Solidarność” straciła inicjatywę, a pretensje kierowano też pod adresem Kościoła, który działał jako pośrednik, obawiając się sowieckiej interwencji.
 
-30 marca, po negocjacjach Lecha Wałęsy z wicepremierem Mieczysławem Rakowskim, zawarto kompromis odwołujący strajk generalny. Część działaczy uznała to za ustępstwo i kapitulację, co pogłębiło spory wewnątrz związku.
-
-## Następstwa
-
-Kryzys bydgoski pokazał determinację władzy i jej gotowość do użycia siły. Dla wielu był zapowiedzią konfrontacji, która nastąpiła 13 grudnia 1981 r. Sprawa pobicia nigdy nie została w pełni wyjaśniona w PRL.`,
-    trivia: ['Pobicie działaczy Solidarności w marcu 1981 wywołało największy kryzys przed stanem wojennym.', 'Zapowiedziany strajk generalny odwołano w ostatniej chwili.'],
+## Pamięć
+Przed bydgoskim urzędem wojewódzkim stoi dziś obelisk, nazywany przez mieszkańców „zębem Rulewskiego”.`,
+    trivia: [
+      'Strajk ostrzegawczy z 27 marca 1981 roku był największym strajkiem w historii Polski.',
+      'Obelisk upamiętniający wydarzenia bydgoskie mieszkańcy nazywają „zębem Rulewskiego”.',
+      'Kto wydał rozkaz pobicia związkowców w Bydgoszczy, nigdy nie ustalono.',
+    ],
     resources: [
       {
         id: 'bydgoszcz-1981-yt-m5',
@@ -12490,26 +12496,25 @@ Kryzys bydgoski pokazał determinację władzy i jej gotowość do użycia siły
     summary: 'Grzegorz Przemyk, 19-letni maturzysta i syn opozycyjnej poetki, został śmiertelnie pobity przez milicjantów w maju 1983 r. Jego pogrzeb stał się wielką manifestacją, a sfingowane śledztwo – symbolem bezkarności aparatu przemocy PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Grzegorz_Przemyk_IPN.jpg?width=800',
     imageCaption: 'Grzegorz Przemyk, maturzysta zakatowany przez milicjantów w maju 1983 roku',
-    content: `## Kim był
+    content: `## Matura
+Grzegorz Przemyk urodził się 17 maja 1964 roku w Warszawie. Był synem poetki Barbary Sadowskiej, działającej w Prymasowskim Komitecie Pomocy Osobom Pozbawionym Wolności, uczniem XVII Liceum im. Frycza Modrzewskiego i początkującym poetą. 12 maja 1983 roku świętował z kolegami zdaną maturę na placu Zamkowym. Nie miał przy sobie dowodu osobistego, więc milicjanci zatrzymali go razem z kolegą Cezarym Filozofem.
 
-Grzegorz Przemyk (1964–1983) był maturzystą, synem opozycyjnej poetki Barbary Sadowskiej, związanej ze środowiskami niezależnymi. Po zdaniu matury, 12 maja 1983 r., został zatrzymany przez milicję na Starym Mieście w Warszawie.
+## Jezuicka
+Na komisariacie MO przy ul. Jezuickiej trzej funkcjonariusze pobili go tak, by nie zostawić śladów – bili w brzuch. Po powrocie do domu chłopak skarżył się na silne bóle; karetka zawiozła go do szpitala. Zmarł 14 maja 1983 roku z powodu ciężkich obrażeń jamy brzusznej, trzy dni przed 19. urodzinami.
 
-## Śmiertelne pobicie
+## Pogrzeb
+19 maja biskup Władysław Miziołek odprawił mszę w kościele św. Stanisława Kostki na Żoliborzu, a kondukt przeszedł na Powązki. Tłumy szły w milczeniu, z transparentami nawiązującymi do „Solidarności”. Był to pierwszy tak wielki protest przeciw władzy od wprowadzenia stanu wojennego.
 
-Na komisariacie przy ul. Jezuickiej Przemyk został brutalnie pobity przez milicjantów – bito go tak, by nie pozostawić śladów na ciele. Doznał ciężkich obrażeń wewnętrznych i zmarł dwa dni później, 14 maja 1983 r.
+## Sanitariusze zamiast milicjantów
+Władze – minister Czesław Kiszczak, rzecznik rządu Jerzy Urban – i SB od początku zacierały ślady. Do mataczenia zaangażowano Biuro Śledcze MSW, a konsultantami w oczernianiu ofiary i świadków byli dwaj profesorowie. Kiszczak zanotował: „Ma być tylko jedna wersja śledztwa – sanitariusze”. W procesie zakończonym w 1984 roku skazano dwóch sanitariuszy pogotowia i lekarkę, a milicjantów uniewinniono. Adwokatom matki fizycznie uniemożliwiono udział w procesie. Kiszczak przyznał potem funkcjonariuszom nagrody.
 
-## Manifestacja na pogrzebie
-
-Pogrzeb Grzegorza Przemyka 19 maja 1983 r. zgromadził kilka tysięcy ludzi i przerodził się w milczącą manifestację przeciw przemocy władzy. Sprawa wstrząsnęła opinią publiczną w okresie po zniesieniu stanu wojennego.
-
-## Mataczenie śledztwa
-
-Aparat władzy uruchomił machinę zacierania śladów. Próbowano obciążyć odpowiedzialnością sanitariuszy zamiast milicjantów. W sfingowany proces zaangażowani byli wysocy funkcjonariusze MSW. Prawdziwi sprawcy przez lata pozostawali bezkarni.
-
-## Symbol bezkarności
-
-Sprawa Przemyka stała się symbolem brutalności i bezkarności milicji w PRL. Procesy toczyły się jeszcze w III RP, lecz pełnego ukarania winnych nie osiągnięto. Postać Przemyka upamiętniono jako jedną z ofiar przemocy systemu.`,
-    trivia: ['Maturzysta zmarł w 1983 roku po pobiciu na komisariacie.', 'Jego pogrzeb zamienił się w wielotysięczną manifestację.'],
+## W wolnej Polsce
+Po 1989 roku sprawę wznowiono. W 1997 roku skazano oficera dyżurnego komisariatu Arkadiusza Denkiewicza, który uniknął kary ze względu na stan zdrowia. W 2008 roku sąd skazał Ireneusza Kościuka na osiem lat za śmiertelne pobicie, ale w grudniu 2009 roku sąd apelacyjny uznał, że czyn przedawnił się z początkiem 2005 roku, i umorzył postępowanie. W 2013 roku Europejski Trybunał Praw Człowieka ukarał Polskę za niesprawiedliwy proces.`,
+    trivia: [
+      'Kiszczak zanotował w sprawie Przemyka: „Ma być tylko jedna wersja śledztwa – sanitariusze”.',
+      'Grzegorz Przemyk zmarł trzy dni przed swoimi 19. urodzinami.',
+      'W 2009 roku sąd uznał, że zabójstwo Przemyka przedawniło się – w 2013 roku Polskę ukarał za to Trybunał w Strasburgu.',
+    ],
     resources: [
       {
         id: 'grzegorz-przemyk-yt-m5',
@@ -12565,26 +12570,28 @@ Sprawa Przemyka stała się symbolem brutalności i bezkarności milicji w PRL. 
     summary: 'Śmierć Stanisława Pyjasa, krakowskiego studenta współpracującego z KOR, w maju 1977 r. wstrząsnęła środowiskiem akademickim. Doprowadziła do powstania Studenckiego Komitetu Solidarności – pierwszej niezależnej organizacji studenckiej w PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stanis%C5%82aw_Pyjas_-_pomnik_w_Krakowie.jpg?width=800',
     imageCaption: 'Pomnik Stanisława Pyjasa przy ul. Szewskiej w Krakowie, w miejscu znalezienia ciała (fot. współczesna)',
-    content: `## Student i działacz
+    content: `## Student z Gilowic
+Stanisław Pyjas urodził się 4 sierpnia 1953 roku w Gilowicach. Po liceum w Żywcu studiował filologię polską i filozofię na Uniwersytecie Jagiellońskim i mieszkał w akademiku „Żaczek”. W latach 1976–1977 włączył się w protesty przeciw represjom wobec robotników Radomia i Ursusa oraz współpracował z KOR. Razem z Bronisławem Wildsteinem należał do nieformalnej grupy studentów nazywanych „Anarchistami”.
 
-Stanisław Pyjas (1953–1977) był studentem polonistyki i filozofii Uniwersytetu Jagiellońskiego, współpracownikiem Komitetu Obrony Robotników. Angażował się w pomoc represjonowanym robotnikom po wydarzeniach 1976 r. i był inwigilowany przez SB.
+## Pod okiem SB
+Od lutego 1976 roku SB rozpracowywała go w sprawach o kryptonimach „Optymiści” i „Niepoprawni”. Głównym źródłem informacji o nim był jego kolega Lesław Maleszka, tajny współpracownik o pseudonimach „Ketman” i „Return”, później działacz SKS i dziennikarz.
 
-## Śmierć w maju 1977
+## Szewska 7
+7 maja 1977 roku ciało Pyjasa znaleziono w kamienicy przy ul. Szewskiej 7 w Krakowie. Władze twierdziły, że spadł ze schodów, sugerowano też alkohol. Jeden z biegłych, doc. Kazimierz Jaegermann, nie podpisał protokołu sekcji. Wildstein, podając się za krewnego, obejrzał zwłoki i uznał, że noszą ślady brutalnego pobicia.
 
-7 maja 1977 r. ciało Pyjasa znaleziono w bramie kamienicy przy ul. Szewskiej w Krakowie. Oficjalnie przyczyną miał być nieszczęśliwy wypadek, jednak okoliczności wskazywały na związek z działalnością SB. Sprawa do dziś budzi kontrowersje.
+## Czarny Marsz
+Krakowscy studenci wezwali do bojkotu juwenaliów i 15 maja 1977 roku przeszli w Czarnym Marszu. Wieczorem pod Wawelem odczytano deklarację powołującą Studencki Komitet Solidarności – pierwszą taką niezależną organizację studencką w Europie Wschodniej. „Dziennik Polski” nazwał marsz prowokacją polityczną.
 
-## Czarny Marsz i SKS
-
-Na wieść o śmierci Pyjasa studenci krakowscy ogłosili żałobę i 15 maja 1977 r., podczas Juwenaliów, przeprowadzili Czarny Marsz. Wówczas ogłoszono powstanie Studenckiego Komitetu Solidarności (SKS) – pierwszej niezależnej organizacji studenckiej, która szybko objęła inne miasta.
-
-## Rola SB
-
-Późniejsze ustalenia wskazały na inwigilację Pyjasa i jego środowiska przez tajnego współpracownika SB. Mimo śledztw prowadzonych także po 1989 r. nie udało się jednoznacznie wyjaśnić wszystkich okoliczności śmierci.
+## Śledztwa
+Śledztwo wznowione w 1991 roku wykazało, że Pyjas został śmiertelnie pobity, ale w 1999 roku umorzono je z powodu niewykrycia sprawców. Od 2008 roku sprawą zajmował się IPN; 20 kwietnia 2010 roku ekshumowano zwłoki, a prokurator potwierdził obrażenia nieopisane w raporcie z 1977 roku. Wszystkich okoliczności śmierci do dziś nie wyjaśniono.
 
 ## Pamięć
-
-Stanisław Pyjas stał się symbolem ofiar systemu wśród młodzieży akademickiej. SKS, powstały po jego śmierci, był ważnym ogniwem opozycji przedsierpniowej i kuźnią działaczy „Solidarności”.`,
-    trivia: ['Po śmierci studenta w maju 1977 w Krakowie zawiązał się Studencki Komitet Solidarności.', 'Czarny Marsz przeszedł ulicami Krakowa w Juwenalia, które odwołano.'],
+Śmierć Pyjasa stała się dla krakowskich studentów symbolem przemocy systemu, a SKS – szkołą działaczy, którzy po 1980 roku współtworzyli „Solidarność”.`,
+    trivia: [
+      'Głównym informatorem SB o Pyjasie był jego kolega Lesław Maleszka – TW „Ketman”.',
+      'Jeden z biegłych w 1977 roku nie podpisał protokołu sekcji zwłok Pyjasa.',
+      'Studencki Komitet Solidarności ogłoszono pod Wawelem 15 maja 1977 roku, po Czarnym Marszu.',
+    ],
     resources: [
       {
         id: 'stanislaw-pyjas-yt-m5',
@@ -16833,25 +16840,32 @@ Pochody pierwszomajowe pozostają symbolem propagandowej obrzędowości PRL – 
     category: 'społeczeństwo',
     tags: ['propaganda', 'polityka', 'święto', 'PKWN'],
     yearStart: 1945,
-    yearEnd: 1989,
+    yearEnd: 1990,
     summary: 'Najważniejsze święto państwowe PRL, ustanowione w rocznicę ogłoszenia Manifestu PKWN, symbolicznego „narodzenia” Polski Ludowej.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Poch%C3%B3d_m%C5%82odzie%C5%BCy_22_lipca_1952.jpg?width=800',
     imageCaption: 'Pochód młodzieży w Warszawie w święto 22 lipca 1952',
-    content: `## Geneza
-22 lipca ustanowiono Narodowym Świętem Odrodzenia Polski już w 1945 roku – w rocznicę ogłoszenia Manifestu PKWN. Dokument, formalnie proklamowany w Chełmie, powstał i został zatwierdzony w Moskwie, co przez całą epokę było w oficjalnych opisach pomijane.
+    content: `## Manifest jako akt założycielski
+22 lipca 1944 roku ogłoszono Manifest PKWN – podpisany i zatwierdzony przez Stalina w Moskwie 20 lipca i tam też odczytany, choć jako miejsce ogłoszenia podano Chełm. Rocznica Manifestu stała się symboliczną datą narodzin Polski Ludowej.
 
-## Główne święto państwowe
-Zastąpiło przedwojenne 3 maja i 11 listopada, które usunięto z kalendarza. Program był co roku ten sam: akademia z referatem, capstrzyk, defilada, dekoracje odznaczeniami, festyn i wieczorne fajerwerki. W 1966 roku święto połączono z Defiladą Tysiąclecia.
+## Ustanowienie
+Krajowa Rada Narodowa ustanowiła 22 lipca Narodowym Świętem Odrodzenia Polski i dniem wolnym od pracy ustawą z 22 lipca 1945 roku, uchwaloną w sali „Romy” przy ul. Nowogrodzkiej w Warszawie. Ta sama ustawa zniosła obchodzone przed wojną Narodowe Święto Niepodległości 11 listopada. Święto 3 Maja przetrwało jeszcze do 1951 roku.
 
-## „Czyny” i otwarcia
-Na 22 lipca przyspieszano oddawanie inwestycji: mostów, fabryk, osiedli, odcinków dróg. Obiekty przecinano wstęgą niedokończone, żeby zameldować wykonanie na czas – Trasa Łazienkowska, Dworzec Centralny czy kolejne bloki oddawano właśnie „na lipca”. Usterki poprawiano potem miesiącami.
+## Defilady i akademie
+Główne uroczystości odbywały się na placu Zwycięstwa albo na Stadionie Dziesięciolecia. Program był powtarzalny: akademie, odznaczenia, defilady i festyny. W 1966 roku 22 lipca odbyła się w Warszawie Defilada Tysiąclecia.
+
+## Na 22 lipca
+Na ten dzień planowano oddawanie wielkich inwestycji. W Warszawie otwarto 22 lipca m.in. odbudowany most Poniatowskiego w 1946 roku, Trasę W-Z w 1949 roku, Marszałkowską Dzielnicę Mieszkaniową w 1950 roku, Pałac Kultury i Nauki oraz Stadion Dziesięciolecia w 1955 roku, kino „Luna” w 1962 roku i most Łazienkowski w 1974 roku. Do daty dopasowywano też rocznice i uroczystości lokalne.
 
 ## Amnestie
-Z okazji święta ogłaszano amnestie, obejmujące niekiedy więźniów politycznych – najgłośniejsza w lipcu 1984 roku objęła osoby skazane po 13 grudnia 1981. Był to gest łaski dozowany przez władzę i wykorzystywany propagandowo.
+Z okazji święta ogłaszano amnestie. Najgłośniejsza, z lipca 1984 roku, w 40. rocznicę Manifestu, objęła także więźniów politycznych skazanych po 13 grudnia 1981 roku.
 
-## Znaczenie
-Święto legitymizowało system przez odwołanie do Manifestu jako aktu założycielskiego. Zniesiono je w 1990 roku, przywracając 11 listopada jako Narodowe Święto Niepodległości.`,
-    trivia: ['Było głównym świętem państwowym PRL.', 'Z tej okazji uroczyście oddawano do użytku nowe inwestycje.'],
+## Koniec
+Święto zniósł Sejm ustawą z 6 kwietnia 1990 roku – za głosowało 182 posłów, przeciw 56, a 39 wstrzymało się. Przeciw likwidacji protestował prezydent Wojciech Jaruzelski. Ta sama ustawa przywróciła Święto Narodowe Trzeciego Maja; 11 listopada przywrócono już w lutym 1989 roku.`,
+    trivia: [
+      '22 lipca oddano do użytku m.in. Trasę W-Z (1949), Pałac Kultury i Stadion Dziesięciolecia (1955) oraz most Łazienkowski (1974).',
+      'Przeciw zniesieniu święta 22 lipca protestował w 1990 roku prezydent Wojciech Jaruzelski.',
+      'Ustawa KRN, która ustanowiła 22 lipca, jednocześnie zniosła święto 11 listopada.',
+    ],
     resources: [
       {
         id: 'swieto-22-lipca-yt-m14',
@@ -32681,20 +32695,27 @@ Po wyborach czerwcowych misję tworzenia rządu dostał gen. Czesław Kiszczak, 
     summary: 'Ciało utworzone w konspiracji przez PPR w nocy z 31 grudnia 1943 na 1 stycznia 1944, pełniące rolę parlamentu powstającego państwa komunistycznego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/PL_Boles%C5%82aw_Bierut_%281892-1956%29.jpg?width=800',
     imageCaption: 'Bolesław Bierut, przewodniczący Krajowej Rady Narodowej',
-    content: `## Powstanie
-Krajową Radę Narodową powołano w konspiracji w nocy z 31 grudnia 1943 na 1 stycznia 1944 roku z inicjatywy Polskiej Partii Robotniczej. Przedstawiała się jako „faktyczna reprezentacja polityczna narodu polskiego”, uprawniona do występowania w jego imieniu do czasu wyzwolenia kraju. W rzeczywistości była ciałem samozwańczym: nie pochodziła z wyborów i nie miała mandatu społecznego, a jej powstanie zignorowały struktury Polskiego Państwa Podziemnego.
+    content: `## Sylwestrowa noc 1943
+Krajową Radę Narodową powołano w konspiracji w nocy z 31 grudnia 1943 na 1 stycznia 1944 roku, z inicjatywy Polskiej Partii Robotniczej, w mieszkaniu w nieistniejącej dziś kamienicy przy ul. Twardej 22 w Warszawie. Spośród 19 uczestników zebrania 14 należało do PPR; organizatorom udało się pozyskać tylko dwóch socjalistów, m.in. Edwarda Osóbkę-Morawskiego. Przewodniczącym został Bolesław Bierut.
 
-## Konkurencja wobec Delegatury
-KRN tworzono jako przeciwwagę dla legalnych władz – Delegatury Rządu na Kraj i Rady Jedności Narodowej, podległych rządowi w Londynie. W terenie miała się opierać na konspiracyjnych radach narodowych. Był to spór nie o szczegóły ustroju, lecz o to, kto po wojnie będzie prawowitą władzą w Polsce.
+## Samozwańczy parlament
+KRN określała się jako „faktyczna reprezentacja polityczna narodu polskiego”. Nie pochodziła jednak z wyborów, a Polskie Państwo Podziemne – Delegatura Rządu na Kraj i Rada Jedności Narodowej – uznawało ją za twór komunistyczny. Był to spór o to, kto po wojnie będzie prawowitą władzą w Polsce.
 
-## Rola prawodawcza
-Po lipcu 1944 roku KRN stała się formalnym źródłem prawa nowej władzy: to ona powołała PKWN, a następnie Rząd Tymczasowy, i to jej ustawa z 3 stycznia 1945 roku otworzyła drogę do wydawania dekretów z mocą ustawy. W praktyce zatwierdzała decyzje podjęte gdzie indziej.
+## Spór Gomułki z Bierutem
+Powołanie KRN ujawniło konflikt w kierownictwie PPR. Władysław Gomułka chciał szukać poparcia społecznego i rozmawiać z ludowcami i socjalistami; Bierut liczył przede wszystkim na wkroczenie Armii Czerwonej. W liście do Georgija Dymitrowa oskarżał Gomułkę o uleganie „ugrupowaniom reakcyjnym”.
+
+## Źródło nowej władzy
+18 lipca 1944 roku Związek Patriotów Polskich przekazał KRN swój dorobek i siły zbrojne. Formalnie to KRN powołała PKWN, a potem Rząd Tymczasowy. Jej ustawa z 3 stycznia 1945 roku pozwoliła rządowi wydawać dekrety z mocą ustawy – z tej drogi władza korzystała przez całe dziesięciolecia. Po czerwcu 1945 roku do Rady dokooptowano przedstawicieli PSL Stanisława Mikołajczyka.
+
+## Ustawy KRN
+KRN uchwaliła m.in. ustawę o nacjonalizacji przemysłu ze stycznia 1946 roku i ustawę z 22 lipca 1945 roku ustanawiającą Narodowe Święto Odrodzenia Polski w miejsce zniesionego święta 11 listopada. W praktyce zatwierdzała jednak decyzje podejmowane w kierownictwie PPR i w Moskwie.
 
 ## Koniec
-Rada działała do 19 stycznia 1947 roku, czyli do sfałszowanych wyborów, po których jej miejsce zajął Sejm Ustawodawczy. Jej przewodniczącym, a więc i formalną głową państwa, był Bolesław Bierut.`,
+Rada działała do 19 stycznia 1947 roku, czyli do sfałszowanych wyborów, po których jej miejsce zajął Sejm Ustawodawczy. Bierut jako przewodniczący KRN pełnił funkcję głowy państwa, a w lutym 1947 roku Sejm wybrał go na prezydenta.`,
     trivia: [
-      'KRN powstała w konspiracji w noc sylwestrową 1943/1944 – w prywatnym mieszkaniu w Warszawie.',
-      'To ustawa KRN z 3 stycznia 1945 roku otworzyła drogę do rządzenia dekretami, z czego korzystano przez cały okres PRL.',
+      'KRN założono w mieszkaniu przy ul. Twardej 22 w Warszawie – 14 z 19 uczestników należało do PPR.',
+      'Ustawa KRN z 3 stycznia 1945 roku pozwoliła rządowi wydawać dekrety z mocą ustawy.',
+      'To KRN zniosła święto 11 listopada i ustanowiła 22 lipca Narodowym Świętem Odrodzenia Polski.',
     ],
     resources: [
       {
