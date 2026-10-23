@@ -150,27 +150,31 @@ Stan wojenny zawieszono 31 grudnia 1982 roku, a zniesiono 22 lipca 1983 roku. Do
     tags: ['Wałęsa', 'strajki', 'Gdańsk', '1980', 'związki zawodowe'],
     yearStart: 1980,
     yearEnd: 1989,
-    summary: 'NSZZ "Solidarność" – masowy ruch społeczny i związek zawodowy, który stał się największą opozycyjną siłą w dziejach PRL i krajów bloku wschodniego.',
+    summary: 'NSZZ „Solidarność” – niezależny związek zawodowy zarejestrowany 10 listopada 1980 roku, który z blisko 10 milionami członków stał się największym ruchem opozycyjnym w dziejach bloku wschodniego i doprowadził do upadku PRL.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Stakingsleider_Lech_Walesa_deelt_handtekeningen_uit%2C_Bestanddeelnr_253-8300.jpg?width=800',
     imageCaption: 'Lech Wałęsa rozdaje autografy w Stoczni Gdańskiej, 31 sierpnia 1980 (fot. Anefo, CC0)',
-    trivia: ['Charakterystyczne logo „Solidarności” zaprojektował Jerzy Janiszewski.', 'Związek liczył blisko 10 milionów członków – około jednej czwartej ludności Polski.'],
-    content: `## Narodziny
-NSZZ „Solidarność” powstał po strajkach Sierpnia 1980 i podpisaniu Porozumień Gdańskich. Był pierwszym w bloku wschodnim niezależnym, samorządnym związkiem zawodowym, zarejestrowanym w listopadzie 1980 roku.
+    trivia: [
+      'Nazwę związkowi dał strajkowy biuletyn „Solidarność”, wydawany od 23 sierpnia 1980 roku w Stoczni Gdańskiej.',
+      'Na I Krajowym Zjeździe Lech Wałęsa wygrał wybory na przewodniczącego z 55 procentami głosów.',
+      'Logo „Solidarności” zaprojektował student gdańskiej PWSSP Jerzy Janiszewski.',
+    ],
+    content: `## Z sierpniowych strajków
+Nazwa ruchu wzięła się ze „Strajkowego Biuletynu Informacyjnego »Solidarność«”, którego pierwszy numer ukazał się 23 sierpnia 1980 roku w strajkującej Stoczni Gdańskiej. Pomysł, by tak nazwać związek, podsunął Karol Modzelewski, a słynne logo zaprojektował student gdańskiej PWSSP Jerzy Janiszewski. Po podpisaniu porozumień sierpniowych w całym kraju powstawały komitety założycielskie, które połączyły się w jeden ogólnopolski związek z Krajową Komisją Porozumiewawczą na czele.
 
-## Masowy ruch
-W ciągu kilku miesięcy Solidarność skupiła blisko 10 milionów członków, stając się nie tylko związkiem, lecz wielkim ruchem społecznym łączącym robotników, inteligencję i Kościół. Przewodniczącym został Lech Wałęsa.
+## Rejestracja
+10 listopada 1980 roku Sąd Wojewódzki w Warszawie zarejestrował NSZZ „Solidarność” – pierwszy w bloku wschodnim związek zawodowy niezależny od partii. Wcześniej trwał spór o zapis o „kierowniczej roli PZPR”, który władze chciały wpisać do statutu.
 
-## Karnawał Solidarności
-Okres 1980–1981 nazwano „karnawałem Solidarności” – czasem względnej wolności, niezależnej prasy, debat i nadziei. I Krajowy Zjazd uchwalił program „Samorządnej Rzeczypospolitej”.
+## Dziesięć milionów
+W szczytowym okresie do „Solidarności” należało około 10 milionów ludzi – robotników, inteligencji, urzędników, a nawet członków PZPR. Wokół związku powstały NSZZ Rolników Indywidualnych „Solidarność” i Niezależne Zrzeszenie Studentów. Ze związku zawodowego „Solidarność” przerodziła się w ruch społeczny i niepodległościowy.
 
-## Stan wojenny
-13 grudnia 1981 roku władze zdelegalizowały związek i internowały tysiące działaczy. Solidarność zeszła do podziemia, kontynuując działalność, wydawnictwa i opór mimo represji.
+## Napięcia 1981 roku
+W marcu 1981 roku w Bydgoszczy pobito działaczy związku, m.in. Jana Rulewskiego; kraj stanął na krawędzi strajku generalnego. Jesienią obradował w Gdańsku I Krajowy Zjazd Delegatów, który przewodniczącym wybrał Lecha Wałęsę (55 procent głosów), uchwalił program „Samorządnej Rzeczypospolitej” i wystosował „Posłanie do ludzi pracy Europy Wschodniej”, przyjęte w Moskwie jako prowokacja.
 
-## Zwycięstwo
-Pod koniec lat 80. fala strajków zmusiła władze do rozmów. Obrady Okrągłego Stołu (1989) zalegalizowały Solidarność i doprowadziły do częściowo wolnych wyborów 4 czerwca 1989 roku, wygranych przez związek.
+## Podziemie
+13 grudnia 1981 roku wprowadzono stan wojenny, a w październiku 1982 roku ustawa o związkach zawodowych formalnie zdelegalizowała „Solidarność”. Związek działał w konspiracji pod kierunkiem Tymczasowej Komisji Koordynacyjnej, wydawał prasę podziemną i nadawał audycje radiowe. W 1983 roku Lech Wałęsa otrzymał Pokojową Nagrodę Nobla.
 
-## Znaczenie
-Solidarność zapoczątkowała pokojowy demontaż komunizmu w Polsce i Europie Środkowej. W 1983 roku Lech Wałęsa otrzymał Pokojową Nagrodę Nobla, a dziedzictwo ruchu wpisano na listę UNESCO „Pamięć Świata”.`,
+## Powrót
+Strajki z wiosny i lata 1988 roku zmusiły władze do rozmów. Po obradach Okrągłego Stołu 17 kwietnia 1989 roku sąd ponownie zarejestrował „Solidarność”, a jej kandydaci zdobyli w wyborach 4 czerwca wszystkie miejsca, o które mogli się ubiegać w Sejmie, i 99 ze 100 mandatów w Senacie. Tablice z 21 postulatami strajku z sierpnia 1980 roku wpisano na listę UNESCO „Pamięć Świata”.`,
     resources: [
       {
         id: 'sol-ipn1',
@@ -293,28 +297,32 @@ Poznański Czerwiec był pierwszym masowym robotniczym buntem w PRL i zapowiedzi
     category: 'opozycja',
     tags: ['Gdynia', 'Gdańsk', 'Szczecin', 'robotnicy', 'strajk', '1970', 'Gomułka', 'Gierek'],
     yearStart: 1970,
-    yearEnd: 1970,
-    summary: 'Krwawe protesty robotnicze na polskim Wybrzeżu w grudniu 1970 roku, wywołane drastyczną podwyżką cen żywności. Wojsko i milicja otworzyły ogień do strajkujących. Zginęło co najmniej 45 osób.',
+    yearEnd: 1971,
+    summary: 'Grudzień 1970 – robotnicze protesty na Wybrzeżu po podwyżce cen żywności, stłumione przez wojsko i milicję; zginęło 45 osób, a władzę po Gomułce przejął Edward Gierek.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Pomnik%20Poleg%C5%82ych%20Stoczniowc%C3%B3w%20Gda%C5%84sk.jpg?width=800',
     imageCaption: 'Pomnik Poległych Stoczniowców 1970 w Gdańsku.',
-    trivia: ['Symbolem masakry stał się niesiony na drzwiach Zbyszek Godlewski – „Janek Wiśniewski”.'],
-    content: `## Tło
-Na kilka dni przed świętami Bożego Narodzenia, 12 grudnia 1970 roku, władze ogłosiły drastyczne podwyżki cen żywności. Decyzja uderzyła w domowe budżety w najgorszym momencie i wywołała wybuch gniewu na Wybrzeżu.
+    trivia: [
+      'Grudniowa podwyżka podniosła ceny żywności średnio o 23 procent – dżemów nawet o 36 procent.',
+      'W Grudniu 1970 roku podpalono 19 gmachów, w tym siedziby komitetów wojewódzkich PZPR w Gdańsku i Szczecinie.',
+      'Symbolem masakry stał się niesiony na drzwiach Zbigniew Godlewski – „Janek Wiśniewski” z ballady.',
+    ],
+    content: `## Podwyżka przed świętami
+12 grudnia 1970 roku wieczorem radio ogłosiło podwyżkę cen żywności – średnio o 23 procent, m.in. mięsa i jego przetworów, mąki o 17 procent, ryb o 16 procent, dżemów o 36 procent. Decyzja zapadła tuż przed świętami, w czasie gdy ceny ustalało państwo. Władze spodziewały się protestów: już 11 grudnia jednostki MSW postawiono w stan gotowości.
 
-## Wybuch
-13 grudnia strajki i demonstracje rozpoczęły się w Gdańsku, skąd rozlały się na Gdynię, Szczecin i Elbląg. Podpalano gmachy komitetów partii, dochodziło do starć z milicją i wojskiem.
+## Gdańsk
+14 grudnia stanęła Stocznia Gdańska im. Lenina. Robotnicy poszli pod gmach Komitetu Wojewódzkiego PZPR, żądając cofnięcia podwyżek, uregulowania płac i ukarania winnych kryzysu. Doszło do starć z milicją, a następnego dnia płonął gmach komitetu. 16 grudnia wojsko otworzyło ogień do stoczniowców przy bramie nr 2 – dwóch zginęło, jedenastu zostało rannych.
 
 ## Czarny czwartek
-17 grudnia w Gdyni wojsko otworzyło ogień do robotników idących rano do pracy. Symbolem masakry stał się niesiony na drzwiach Zbyszek Godlewski, upamiętniony w „Balladzie o Janku Wiśniewskim”.
+Wieczorem 16 grudnia wicepremier Stanisław Kociołek wezwał w telewizji do powrotu do pracy. Rano 17 grudnia na przystanku kolejki SKM Gdynia Stocznia wojsko i milicja ostrzelały robotników idących do Stoczni im. Komuny Paryskiej. Symbolem masakry stał się niesiony na drzwiach Zbigniew Godlewski, upamiętniony w „Balladzie o Janku Wiśniewskim”.
 
-## Pacyfikacja
-Do tłumienia protestów skierowano tysiące żołnierzy, czołgi i transportery opancerzone. Strzelano do demonstrantów i przypadkowych przechodniów; miasta Wybrzeża sparaliżował terror.
+## Szczecin i Elbląg
+Tego samego dnia protesty wybuchły w Szczecinie: robotnicy Stoczni im. Warskiego przeszli do centrum, podpalono gmach komitetu wojewódzkiego, a od kul zginęło 13 osób. Demonstracje objęły też Elbląg i Słupsk. Szczeciński strajk pod przywództwem Mieczysława Dopierały trwał do 22 grudnia.
 
-## Zmiana władzy
-Krwawe stłumienie protestów skompromitowało ekipę Władysława Gomułki. 20 grudnia zastąpił go Edward Gierek, który obietnicami („Pomożecie?”) próbował uspokoić nastroje.
+## Bilans
+Zginęło 45 osób, w tym żołnierz służby zasadniczej i dwóch milicjantów, rannych zostało 1165, a zatrzymano ponad 3 tysiące. Podpalono 19 gmachów, w tym siedziby komitetów wojewódzkich w Gdańsku i Szczecinie, i rozbito 220 sklepów. Ciała części ofiar chowano nocą, w obecności funkcjonariuszy.
 
-## Ofiary i pamięć
-Zginęło co najmniej 45 osób, ponad tysiąc odniosło rany. Pamięć o ofiarach uczczono dopiero w 1980 roku, wznosząc przy Stoczni Gdańskiej Pomnik Poległych Stoczniowców – jeden z pierwszych takich pomników w bloku wschodnim.`,
+## Upadek Gomułki
+20 grudnia I sekretarzem PZPR został Edward Gierek. Na spotkaniach ze stoczniowcami w styczniu 1971 roku pytał „Pomożecie?”, ale podwyżki cofnięto dopiero w lutym 1971 roku, po strajku włókniarek w Łodzi. Pamięć ofiar uczczono w 1980 roku Pomnikiem Poległych Stoczniowców w Gdańsku, wzniesionym na żądanie strajkujących.`,
     resources: [
       {
         id: 'g70-ipn1',
@@ -418,27 +426,31 @@ Okrągły Stół zapoczątkował pokojową transformację Polski i całego bloku
     tags: ['komunizm', 'partia', 'władza', 'Bierut', 'Gomułka', 'Gierek', 'Jaruzelski'],
     yearStart: 1948,
     yearEnd: 1990,
-    summary: 'PZPR – monopartia komunistyczna rządząca Polską Ludową przez 42 lata. Powstała z połączenia PPR i PPS w 1948 roku, rozwiązała się dobrowolnie w 1990 roku.',
+    summary: 'PZPR – partia komunistyczna rządząca Polską Ludową od 1948 do 1989 roku; powstała z wchłonięcia PPS przez PPR, w szczycie liczyła ponad 3 miliony członków, rozwiązała się w styczniu 1990 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Plac_Politechniki_Kongres_zjednoczeniowy_PPR_i_PPS_1948.jpg?width=800',
     imageCaption: 'Kongres zjednoczeniowy PPR i PPS na placu Politechniki w Warszawie, grudzień 1948 – narodziny PZPR',
-    content: `## Powstanie
-PZPR powstała w grudniu 1948 roku z przymusowego połączenia Polskiej Partii Robotniczej (PPR) z resztkami Polskiej Partii Socjalistycznej (PPS), tworząc monopartię rządzącą Polską aż do 1990 roku.
+    content: `## Narodziny z wchłonięcia
+Polska Zjednoczona Partia Robotnicza powstała 15 grudnia 1948 roku na kongresie zjednoczeniowym, z połączenia PPR i PPS. W praktyce było to wchłonięcie socjalistów przez komunistów, poprzedzone czystkami w obu partiach. W chwili powstania PZPR liczyła 1 milion 537 tysięcy członków – 1 milion 6 tysięcy z PPR i 531 tysięcy z PPS.
 
 ## Monopol władzy
-Partia sprawowała faktyczną, nieograniczoną władzę, podporządkowując sobie państwo, gospodarkę, wojsko, media i wymiar sprawiedliwości. Zasadę „kierowniczej roli partii” w 1976 roku wpisano do konstytucji.
+PZPR sprawowała władzę w państwie aż do 1989 roku. Kontrolowała rząd, administrację, wojsko, gospodarkę nakazowo-rozdzielczą, media i wymiar sprawiedliwości. Nowelizacja konstytucji z 1976 roku wpisała do niej zapis o partii jako „przewodniej sile” społeczeństwa. Formalnie istniały jeszcze ZSL i SD, ale były to stronnictwa satelickie.
 
-## Struktura
-Na czele stał I sekretarz KC – realny przywódca kraju. Decyzje zapadały w Biurze Politycznym i Komitecie Centralnym, a sieć komitetów (wojewódzkich i zakładowych) oplatała cały kraj. O obsadzie stanowisk decydowała nomenklatura.
+## Jak działała
+Najwyższą władzą formalnie był zjazd, a w praktyce Biuro Polityczne – kilkunastoosobowe ścisłe kierownictwo – oraz Sekretariat KC kierowany przez I sekretarza. Sieć komitetów wojewódzkich, powiatowych i zakładowych oplatała cały kraj, a system nomenklatury dawał partii decydujący głos przy obsadzie ważnych stanowisk.
 
-## I sekretarze
-Kolejni przywódcy – Bolesław Bierut, Władysław Gomułka, Edward Gierek, Stanisław Kania i Wojciech Jaruzelski – wyznaczali kurs partii, a zmiany na tym stanowisku następowały zwykle w wyniku kryzysów.
+## Przywódcy
+Na czele partii stali kolejno Bolesław Bierut, Edward Ochab, Władysław Gomułka, Edward Gierek, Stanisław Kania, Wojciech Jaruzelski i Mieczysław Rakowski. Zmiany na szczycie następowały najczęściej w wyniku kryzysów społecznych – w 1956, 1970 i 1980 roku.
 
-## Masowość i upadek
-W szczytowym okresie PZPR liczyła ponad 3 miliony członków; przynależność bywała warunkiem kariery. Skompromitowana kryzysem i stanem wojennym, po wyborach 1989 utraciła władzę i rozwiązała się w 1990 roku.
+## Członkowie
+Liczebność partii zmieniała się wraz z polityką: w latach 1949–1954 usunięto z niej 482 tysiące osób, po 1956 roku kolejne 200 tysięcy. Szczyt przypadł na 1980 rok – 3 miliony 92 tysiące członków. Po powstaniu „Solidarności” i wprowadzeniu stanu wojennego z PZPR wystąpiło 850 tysięcy osób. Wewnątrz partii ścierały się frakcje, od reformatorów po tzw. beton.
 
-## Znaczenie
-PZPR była rdzeniem systemu komunistycznego w Polsce – jej dzieje to historia sprawowania i utraty totalnej władzy nad państwem i społeczeństwem.`,
-    trivia: ['Powstała w 1948 roku z połączenia PPR i PPS.', 'Rozwiązała się w styczniu 1990 roku.'],
+## Koniec
+Po klęsce w wyborach 4 czerwca 1989 roku partia straciła władzę. XI Zjazd, obradujący 27–29 stycznia 1990 roku w Sali Kongresowej, zakończył się jej rozwiązaniem. Część działaczy założyła Socjaldemokrację Rzeczypospolitej Polskiej z Aleksandrem Kwaśniewskim, Leszkiem Millerem i Mieczysławem Rakowskim na czele, a spór o przejęty przez nią majątek partii trwał latami.`,
+    trivia: [
+      'W chwili powstania PZPR liczyła 1 milion 537 tysięcy członków, a w szczytowym 1980 roku – ponad 3 miliony.',
+      'Po powstaniu „Solidarności” i wprowadzeniu stanu wojennego z PZPR wystąpiło 850 tysięcy osób.',
+      'Ostatni, XI Zjazd PZPR zakończył się 29 stycznia 1990 roku rozwiązaniem partii.',
+    ],
     resources: [
       {
         id: 'pzpr-pkf',
@@ -8703,26 +8715,28 @@ Historycy spierają się, czy Roosevelt i Churchill mieli realną alternatywę �
     summary: 'Praska Wiosna – próba liberalizacji komunizmu w Czechosłowacji – została stłumiona przez inwazję wojsk Układu Warszawskiego w nocy z 20 na 21 sierpnia 1968 r. Polska dywizja LWP uczestniczyła w interwencji. Efektem była "doktryna Breżniewa".',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/10_Soviet_Invasion_of_Czechoslovakia_-_Flickr_-_The_Central_Intelligence_Agency.jpg?width=800',
     imageCaption: 'Czesi z flagą narodową obok płonącego czołgu w Pradze, sierpień 1968',
-    content: `## Reformy Dubčeka
+    content: `## Socjalizm z ludzką twarzą
+5 stycznia 1968 roku I sekretarzem Komunistycznej Partii Czechosłowacji został Alexander Dubček. Zapowiedział reformy nazwane „socjalizmem z ludzką twarzą”: wolność prasy i słowa, swobodę podróżowania, nacisk na dobra konsumpcyjne, ograniczenie władzy tajnej policji, a nawet możliwość wprowadzenia systemu wielopartyjnego.
 
-W styczniu 1968 r. Alexander Dubček stanął na czele KPCz. Ogłosił program "socjalizmu z ludzką twarzą": złagodzenie cenzury, ograniczenie policji politycznej, dialog z opozycją. Praska Wiosna była prawdziwą odwilżą – w Czechosłowacji kwitło wolne słowo.
+## Strach sąsiadów
+Dla Leonida Breżniewa Praska Wiosna była kontrrewolucją. Na stłumienie naciskali też Władysław Gomułka i Walter Ulbricht, obawiający się, że odejście Czechosłowacji z Układu Warszawskiego podważy powojenne granice. Latem odbyły się manewry „Szumawa” z udziałem wojsk polskich i węgierskich, a 17 sierpnia w Moskwie zapadła decyzja o interwencji. Sztab wojsk inwazyjnych umieszczono w Legnicy.
 
-## Reakcja Moskwy
+## Operacja Dunaj
+20 sierpnia 1968 roku o 23.00 wojska ZSRR, Polski, NRD, Węgier i Bułgarii przekroczyły granicę. W pierwszym rzucie było 250 tysięcy żołnierzy i 4200 czołgów, po drugim – 450 tysięcy żołnierzy i 6500 czołgów. Jednostki NRD ostatecznie nie wkroczyły. Prezydent Ludvík Svoboda polecił unikać rozlewu krwi, a armia czechosłowacka nie stawiała oporu. Dubčeka wywieziono do Moskwy.
 
-Breżniew i liderzy bloku wschodniego – w tym Gomułka – obserwowali reformy z rosnącym niepokojem. Liberalizacja mogła stać się zaraźliwa. W lipcu 1968 r. Układ Warszawski wysłał list żądający cofnięcia reform. Dubček odmówił.
+## Polski udział
+Polski kontyngent – 2 Armia Wojska Polskiego utworzona na bazie Śląskiego Okręgu Wojskowego, pod dowództwem gen. Floriana Siwickiego – liczył 24 tysiące żołnierzy, 647 czołgów i 36 śmigłowców. Była to największa operacja ludowego Wojska Polskiego od wojny. 7 września 1968 roku w Jiczynie pijany polski żołnierz zastrzelił dwoje czeskich cywilów.
 
-## Inwazja – noc z 20 na 21 sierpnia
+## Ofiary i skutki
+W czasie inwazji zginęło 108 Czechów i Słowaków, a około 500 zostało rannych. Z kraju wyemigrowało około 300 tysięcy osób, a później kolejne 70 tysięcy. Reformy zatrzymano, a radziecka Centralna Grupa Wojsk pozostała w Czechosłowacji aż do 1991 roku. Interwencję uzasadniała tzw. doktryna Breżniewa o „ograniczonej suwerenności” państw bloku.
 
-W nocy z 20 na 21 sierpnia 1968 r. wojska pięciu państw Układu Warszawskiego (ZSRR, PRL, NRD, Węgry, Bułgaria) wkroczyły do Czechosłowacji. Łącznie ok. 500 tys. żołnierzy i 6 tys. czołgów. Dubčeka wywieziono do Moskwy i zmuszono do podpisania "normalizacji".
-
-## Udział LWP
-
-Polska 2. Armia LWP wzięła udział w inwazji. Dla wielu polskich żołnierzy był to wstyd: wkraczać do bratniej Czechosłowacji, by dusić reformy, o których sami marzyli. Temat był przez lata tabu.
-
-## Doktryna Breżniewa
-
-Inwazja dała początek "doktrynie Breżniewa" – ZSRR zarezerwował sobie prawo do interwencji w każdym kraju socjalistycznym zagrażającym jedności bloku. Doktryna obowiązywała aż do 1989 r., kiedy Gorbaczow ją odrzucił.`,
-    trivia: ['W inwazji na Czechosłowację wzięło udział Wojsko Polskie.', 'W proteście przeciw niej samospalił się Ryszard Siwiec.'],
+## Polski protest
+8 września 1968 roku na Stadionie Dziesięciolecia w Warszawie, podczas dożynek, podpalił się na znak protestu Ryszard Siwiec. Zmarł kilka dni później. Jego czyn przez lata był przemilczany.`,
+    trivia: [
+      'Sztab wojsk, które zdławiły Praską Wiosnę, mieścił się w Legnicy.',
+      'Polski kontyngent liczył 24 tysiące żołnierzy i 647 czołgów – była to największa operacja LWP od wojny.',
+      'Radzieckie wojska wprowadzone w 1968 roku pozostały w Czechosłowacji do 1991 roku.',
+    ],
     resources: [
       {
         id: 'praga-1968-yt-m14',
@@ -8769,28 +8783,30 @@ Inwazja dała początek "doktrynie Breżniewa" – ZSRR zarezerwował sobie praw
     category: 'społeczeństwo',
     tags: ['Warszawa', 'odbudowa', 'Stare Miasto', 'MDM', 'architektura', 'zniszczenia', 'Canaletto', 'UNESCO'],
     yearStart: 1945,
-    yearEnd: 1955,
+    yearEnd: 1984,
     summary: 'Warszawa po II wojnie światowej była w 85% zrujnowana. Jej odbudowa stała się projektem narodowym i propagandowym zarazem: Stare Miasto rekonstruowano według obrazów Canaletta, a MDM wzniesiono jako socrealistyczną wizytówkę systemu.',
-    content: `## Skala zniszczeń
+    content: `## Miasto ruin
+Po Powstaniu Warszawskim Niemcy systematycznie burzyli miasto: Śródmieście zostało zniszczone niemal w całości. Według powojennych szacunków w gruzach legło około 80–85 procent Warszawy, w tym 90 procent przemysłu i zabytków oraz 72 procent zabudowy mieszkalnej; dzisiejsi historycy uważają te liczby za zawyżone. Rozważano nawet tymczasowe lub stałe przeniesienie stolicy do Krakowa, Łodzi albo Poznania, ale pomysł upadł.
 
-Po Powstaniu Warszawskim (1944) i planowym wyburzeniu przez Niemców Warszawa leżała w gruzach. Zniszczono ok. 85% zabudowy – ponad 160 tys. budynków. Spośród 1,3 mln mieszkańców przedwojennych niemal nikt nie pozostał w mieście. Stalin początkowo planował przenieść stolicę do Łodzi.
+## Biuro Odbudowy Stolicy
+14 lutego 1945 roku powstało Biuro Odbudowy Stolicy, kierowane przez Romana Piotrowskiego, z Janem Zachwatowiczem odpowiedzialnym za zabytki. Dekret KRN z 24 maja 1945 roku usankcjonował jego istnienie. BOS było jednocześnie pracownią urbanistyczną, nadzorem budowlanym i urzędem konserwatorskim; do 1952 roku pracowało w nim około 1400 specjalistów. Dekret Bieruta z października 1945 roku przejął grunty warszawskie na własność gminy.
 
-## Decyzja o odbudowie
+## Cały naród buduje swoją stolicę
+Odgruzowywali mieszkańcy, ochotnicy z całego kraju i brygady młodzieżowe. W 1949 roku oddano do użytku Trasę W-Z z tunelem pod Starym Miastem, a w latach 1950–1952 wzniesiono Marszałkowską Dzielnicę Mieszkaniową – socrealistyczną wizytówkę nowego ustroju.
 
-W 1945 r. zdecydowano o odbudowie Warszawy w miejscu. Decyzja miała wymiar polityczny: Warszawa jako symbol narodowej ciągłości i siły nowej władzy.
+## Stare Miasto
+Rekonstrukcję Starego Miasta zakończono w 1953 roku, potem odbudowano Krakowskie Przedmieście i Nowy Świat. Architekci korzystali z przedwojennych pomiarów, fotografii i panoram miasta, m.in. obrazów Bernarda Bellotta zwanego Canalettem. Odbudowa nie była wierną kopią – często upraszczano lub zmieniano przedwojenny charakter budynków. Mimo to w 1980 roku Stare Miasto wpisano na listę światowego dziedzictwa UNESCO jako wyjątkowy przykład planowej odbudowy.
 
-## Stare Miasto – unikalna rekonstrukcja
+## Pałac i Zamek
+W latach 1952–1955 wzniesiono Pałac Kultury i Nauki, „dar narodu radzieckiego”. Zamek Królewski, spalony już we wrześniu 1939 roku i wysadzony w 1944 roku, odbudowano dopiero od 1971 roku – ze składek społecznych.
 
-Architekci posłużyli się m.in. obrazami Bernarda Bellotta (Canaletta) przedstawiającymi XVIII-wieczną Warszawę. Rezultatem jest jedyne na świecie historyczne centrum miasta odbudowane ze zdjęć i malarstwa – wpisane na listę UNESCO w 1980 r.
-
-## MDM i socrealizm
-
-Marszałkowska Dzielnica Mieszkaniowa (MDM, 1950–1952) z monumentalnymi kamienicami i Placem Konstytucji to modelowy przykład architektury stalinowskiej. Pałac Kultury i Nauki (1952–1955) – dar Stalina – dominuje nad centrum do dziś.
-
-## Czyn społeczny i mit
-
-Odbudowa stała się mitem założycielskim PRL: tysiące ochotników z całego kraju pracowało przy odgruzowaniu. Propagandowe kroniki filmowe pokazywały "cały naród buduje swoją stolicę".`,
-    trivia: ['Stare Miasto odtwarzano m.in. na podstawie obrazów Canaletta.', 'Odbudowa była zarazem realnym wysiłkiem i propagandowym sukcesem władzy.'],
+## Propaganda i rzeczywistość
+Odbudowa była prawdziwym wysiłkiem całego kraju i zarazem mitem założycielskim PRL. Kroniki filmowe pokazywały entuzjazm budowniczych, przemilczając wyburzenia ocalałych kamienic, które nie pasowały do nowych planów.`,
+    trivia: [
+      'Rozważano przeniesienie stolicy do Krakowa, Łodzi albo Poznania – pomysł upadł.',
+      'W Biurze Odbudowy Stolicy pracowało do 1952 roku około 1400 specjalistów.',
+      'Zamek Królewski odbudowywano dopiero od 1971 roku, ze składek społecznych.',
+    ],
     resources: [
       {
         id: 'odbudowa-warszawy-pkf',
@@ -8923,29 +8939,31 @@ Część akt wywiadu PRL zniszczono przed przekazaniem do IPN. Zachowane dokumen
     tags: ['WRON', 'stan wojenny', 'Jaruzelski', 'junta', 'wojsko', 'władza', '1981', 'generałowie'],
     yearStart: 1981,
     yearEnd: 1983,
-    summary: 'Wojskowa Rada Ocalenia Narodowego (WRON) powstała 13 grudnia 1981 r. razem ze stanem wojennym. Była organem faktycznej władzy wojskowej w PRL. Polacy żartowali, że WRON to "kruk" po polsku – symbol złowróżbny.',
+    summary: 'Wojskowa Rada Ocalenia Narodowego – pozakonstytucyjna junta pod przewodnictwem gen. Jaruzelskiego, która kierowała Polską w czasie stanu wojennego, od 13 grudnia 1981 do 21 lipca 1983 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/AGAD_Posiedzenie_Wojskowej_Rady_Ocalenia_Narodowego.jpg?width=800',
     imageCaption: 'Posiedzenie WRON pod przewodnictwem gen. Jaruzelskiego, Warszawa, 14 grudnia 1981',
-    content: `## Powołanie i skład
+    content: `## Junta stanu wojennego
+Wojskowa Rada Ocalenia Narodowego powstała w nocy z 12 na 13 grudnia 1981 roku jako pozakonstytucyjny organ, który w praktyce kierował krajem w czasie stanu wojennego. Na jej czele stanął gen. armii Wojciech Jaruzelski – jednocześnie I sekretarz KC PZPR, premier i minister obrony narodowej.
 
-WRON proklamował gen. Wojciech Jaruzelski w nocy z 12 na 13 grudnia 1981 r. W skład rady weszło 21 generałów i admirałów. Przewodniczącym był Jaruzelski, pełniący jednocześnie funkcje I sekretarza PZPR, premiera i ministra obrony – bezprecedensowa kumulacja władzy.
+## Skład
+Rada liczyła 22 członków. Obok Jaruzelskiego zasiadali w niej m.in. gen. Florian Siwicki, szef Sztabu Generalnego, gen. Czesław Kiszczak, minister spraw wewnętrznych, adm. Ludwik Janczyszyn, gen. Józef Baryła, dowódcy okręgów wojskowych, kilku ministrów w mundurach i pułkownicy. Na liście znalazł się też kosmonauta ppłk Mirosław Hermaszewski, który utrzymywał, że wpisano go bez jego wiedzy.
 
-## "Kruk" – symbol oporu
+## Prawo i praktyka
+Formalnie stan wojenny wprowadziła Rada Państwa dekretem uchwalonym w nocy 13 grudnia – z naruszeniem konstytucji, bo Sejm obradował. WRON nie miała umocowania w prawie, ale to wojskowi kierowali państwem: komisarze wojskowi trafili do zakładów pracy i urzędów, wprowadzono godzinę policyjną, militaryzację zakładów, kontrolę korespondencji i wyłączenie telefonów.
 
-Akronim WRON po polsku oznacza "kruk" – symbol złowróżbny. Opozycja natychmiast to wykorzystała: "WRON orła nie pokona" stało się hasłem podziemia. Rysunki kruka-Jaruzelskiego krążyły w samizdacie.
+## Wrona orła nie pokona
+Skrót od razu stał się materiałem do kpin: WRON-a kojarzyła się z wroną, a hasło „Wrona orła nie pokona” pojawiało się na murach i w prasie podziemnej. Śpiewano piosenki o „zielonej WRON-ie”.
 
-## Kompetencje i działania
+## Rozwiązanie
+Stan wojenny zawieszono 31 grudnia 1982 roku, a zniesiono 22 lipca 1983 roku. WRON rozwiązała się dzień wcześniej, 21 lipca 1983 roku.
 
-WRON wydawała dekrety z mocą ustawy: zawiesiła "Solidarność", wprowadziła godzinę policyjną, militaryzowała kluczowe zakłady, cenzurowała korespondencję i rozmowy telefoniczne. Komisarze wojskowi pojawili się w fabrykach, szkołach i urzędach. Telewizja i radio nadawały z prezenterami w mundurach.
-
-## Formalny koniec
-
-Stan wojenny zawieszono 31 grudnia 1982 r., zniesiono 22 lipca 1983 r. WRON rozwiązano w tej samej dacie. Jednak represje trwały nadal, a wielu internowanych siedziało dłużej.
-
-## Ocena
-
-WRON i stan wojenny ocenia się różnie: jako "mniejsze zło" (Jaruzelski twierdził, że zapobiegł sowieckiej interwencji) lub jako zdradę narodu przez własne wojsko. Debata historyczna trwa.`,
-    trivia: ['Wojskowa Rada Ocalenia Narodowego przejęła władzę 13 grudnia 1981.', 'Skrót złośliwie rozwijano jako „wronę”, która orła nie pokona.'],
+## Rozliczenie
+W 2006 roku pion śledczy IPN oskarżył członków WRON o kierowanie związkiem przestępczym o charakterze zbrojnym. W 2012 roku Sąd Okręgowy w Warszawie uznał, że stan wojenny wprowadziła niezgodnie z konstytucją „grupa przestępcza o charakterze zbrojnym”. Skazany został jedynie gen. Kiszczak; wobec Jaruzelskiego i innych postępowania zawieszono lub umorzono z powodu choroby lub śmierci.`,
+    trivia: [
+      'WRON liczyła 22 członków – na liście znalazł się nawet kosmonauta Mirosław Hermaszewski.',
+      'Formalnie stan wojenny wprowadziła Rada Państwa, choć Sejm akurat obradował – co było niezgodne z konstytucją.',
+      'WRON rozwiązała się 21 lipca 1983 roku, dzień przed zniesieniem stanu wojennego.',
+    ],
     resources: [
       {
         id: 'wron-yt-m6',
@@ -8997,26 +9015,28 @@ WRON i stan wojenny ocenia się różnie: jako "mniejsze zło" (Jaruzelski twier
     summary: 'Nikita Chruszczow na XX Zjeździe KPZR w lutym 1956 r. wygłosił tajny referat potępiający zbrodnie Stalina. Wstrząsnął podstawami bloku wschodniego, wywołał falę odwilży i kryzysy – w Polsce Październik 1956, na Węgrzech rewolucję.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Removed_Stalin.jpg?width=800',
     imageCaption: 'Rzeźba przy Pałacu Kultury ze skutym napisem „STALIN” (fot. współczesna)',
-    content: `## Po śmierci Stalina
+    content: `## Walka o schedę
+Po śmierci Stalina 5 marca 1953 roku na Kremlu rozpoczęła się walka o władzę. Ławrientij Beria został aresztowany na posiedzeniu Prezydium 26 czerwca 1953 roku, a w grudniu stracony. Pierwszym sekretarzem KC KPZR został Nikita Chruszczow, który stopniowo odsunął rywali.
 
-Stalin zmarł 5 marca 1953 r. Jego następcy – Beria, Malenkow, Chruszczow – podjęli walkę o władzę. Chruszczow wygrał i zaczął dystansować się od stalinizmu: rehabilitował część ofiar, zwalniał jeńców z łagrów, łagodził terror.
+## Tajny referat
+25 lutego 1956 roku nad ranem, na zamkniętej sesji XX Zjazdu KPZR, do której dopuszczono wyłącznie delegatów radzieckich, Chruszczow wygłosił czterogodzinne przemówienie „O kulcie jednostki i jego następstwach”. Ujawnił w nim część prawdy o zbrodniach Stalina – masowych represjach, sfingowanych procesach i torturach. Przygotowania do referatu trwały od jesieni 1955 roku, mimo sprzeciwu Malenkowa i Mołotowa.
 
-## Tajny referat – "O kulcie jednostki"
+## Wcale nie tajny
+Treść referatu szybko trafiła do przywódców partii bloku wschodniego. W Polsce wydrukowano go dla aktywu partyjnego, a jeden z egzemplarzy dotarł na Zachód – według ustaleń historyków przekazał go dziennikarz Wiktor Grajewski. Tekst opublikowały zachodnie gazety, a w PRL odczytywano go na zebraniach partyjnych, co wywołało falę dyskusji.
 
-25 lutego 1956 r., na zamkniętym posiedzeniu XX Zjazdu KPZR, Chruszczow wygłosił 4-godzinny referat potępiający masowe zbrodnie Stalina, fałszywe procesy i deportacje narodów. Sala przyjęła to w szoku i ciszy.
-
-## Efekt domina w bloku
-
-Referat miał być tajny – lecz wyciekł. CIA zdobyła tekst, "The New York Times" opublikował go w całości. W krajach bloku wybuchły kryzysy: w Polsce – odwilż i Październik 1956, na Węgrzech – rewolucja (październik–listopad 1956) stłumiona przez sowieckie czołgi.
-
-## Skutki dla Polski
-
-XX Zjazd przyspieszył rehabilitację ofiar stalinizmu, uwolnienie prymasa Wyszyńskiego i powrót Gomułki do władzy. Bierut – który był na zjeździe – umarł w Moskwie wkrótce po powrocie (12 marca 1956).
+## Skutki w bloku
+Referat przyspieszył odwilż. W Polsce zbiegł się ze śmiercią Bolesława Bieruta, który zmarł w Moskwie 12 marca 1956 roku, wkrótce po zjeździe. Kolejne miesiące przyniosły Poznański Czerwiec, Październik i powrót Gomułki do władzy. Na Węgrzech wybuchło powstanie, krwawo stłumione przez Armię Radziecką. W Gruzji obrońcy Stalina zorganizowali kilkudniowe zamieszki.
 
 ## Rządy Chruszczowa
+W 1957 roku Chruszczow przetrwał próbę odsunięcia go przez Malenkowa, Mołotowa i Kaganowicza, a od 1958 roku był też premierem ZSRR. Za jego rządów wysłano w kosmos Sputnika i Gagarina, zbudowano Mur Berliński w 1961 roku i doszło do kryzysu kubańskiego w 1962 roku, zakończonego wycofaniem radzieckich rakiet z Kuby.
 
-Chruszczow rządził ZSRR do 1964 r. Jego czas to "odwilż" – ograniczenie terroru, pewna liberalizacja kultury, ale też kryzys kubański (1962) i Mur Berliński (1961). W 1964 r. obalili go towarzysze partyjni.`,
-    trivia: ['Tajny referat o zbrodniach Stalina wygłoszono na XX Zjeździe KPZR w lutym 1956.', 'Jego treść szybko przedostała się do Polski i przyspieszyła odwilż.'],
+## Upadek
+W październiku 1964 roku najbliżsi współpracownicy odsunęli go od władzy. Na emeryturze w podmoskiewskiej daczy podyktował wspomnienia, wydane na Zachodzie. Zmarł 11 września 1971 roku w Moskwie.`,
+    trivia: [
+      'Tajny referat wygłoszono nad ranem 25 lutego 1956 roku – trwał cztery godziny.',
+      'Jeden z egzemplarzy referatu wydrukowanych w Polsce dla aktywu partyjnego trafił na Zachód.',
+      'Bolesław Bierut zmarł w Moskwie 12 marca 1956 roku, wkrótce po XX Zjeździe KPZR.',
+    ],
     resources: [
       {
         id: 'chruszczow-yt-m6',
