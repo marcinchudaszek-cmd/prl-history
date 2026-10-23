@@ -12817,26 +12817,25 @@ Wraz z przemianami 1989 r. Wyścig Pokoju stracił polityczny kontekst i dawną 
     summary: 'Profesor Zbigniew Religa przełamał barierę polskiej medycyny, przeprowadzając w 1985 r. w Zabrzu udany przeszczep serca. Dokonał tego mimo skromnych warunków PRL, stając się symbolem determinacji i postępu polskiej nauki.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zbigniew_Religa_Kancelaria_Senatu_Senat_Rzeczypospolitej_Polskiej_V_kadencji.jpg?width=800',
     imageCaption: 'Zbigniew Religa, kardiochirurg i pionier polskiej transplantologii',
-    content: `## Droga do kardiochirurgii
+    content: `## Chirurg z Woli
+Zbigniew Religa urodził się 16 grudnia 1938 roku w Miedniewicach, zmarł 8 marca 2009 roku w Warszawie. Ukończył Akademię Medyczną w Warszawie, odbył służbę wojskową i od 1966 roku pracował w Szpitalu Wolskim, gdzie zrobił specjalizację z chirurgii. Staże z chirurgii naczyniowej w 1973 roku i z kardiochirurgii w 1975 roku w Sinai Hospital w Detroit pokazały mu, jak daleko polska medycyna jest od światowej.
 
-Zbigniew Religa (1938–2009) był chirurgiem, który postawił sobie za cel rozwój kardiochirurgii w Polsce. Po stażach zagranicznych wrócił do kraju z ambicją wykonywania operacji, które w PRL uchodziły za niemożliwe ze względu na warunki i sprzęt.
+## Z Warszawy do Zabrza
+W latach 1980–1984 pracował w Klinice Kardiochirurgii Instytutu Kardiologii w Warszawie. W 1984 roku objął klinikę kardiochirurgii Wojewódzkiego Ośrodka Kardiologii w Zabrzu – placówki budowanej praktycznie od zera. Pierwszą operację na sercu przeprowadził tam 15 sierpnia 1985 roku.
 
-## Przeszczep serca 1985
+## 5 listopada 1985
+Niecałe trzy miesiące później zespół Religi przeprowadził w Zabrzu pierwsze udane przeszczepienie serca w Polsce. Biorcą był 62-letni rolnik z Krzepic, który zmarł kilka dni po operacji. Przeszczep był przełomem: pokazywał, że także w warunkach niedoboru sprzętu i leków można prowadzić najtrudniejsze zabiegi. W ośrodku powstała też z jego inicjatywy Pracownia Sztucznego Serca.
 
-W 1985 r. w Wojewódzkim Ośrodku Kardiologii w Zabrzu Religa przeprowadził pierwszy w Polsce udany przeszczep serca. Operacja, dokonana w skromnych realiach PRL, była przełomem i dowodem, że polska medycyna może dorównać światowej czołówce.
+## Zdjęcie roku
+W 1987 roku James Stanfield sfotografował dla „National Geographic” Religę siedzącego przy stole operacyjnym po wielogodzinnym przeszczepie: wyczerpany chirurg czuwa nad pacjentem, a w kącie śpi jego asystent Romuald Cichoń. Zdjęcie zostało fotografią roku pisma i weszło do setki najlepszych w jego historii.
 
-## Walka z trudnościami
-
-Religa pracował w warunkach niedoboru sprzętu, leków i funduszy. Sam zabiegał o aparaturę i organizował zespół. Słynne zdjęcie wyczerpanego chirurga czuwającego nad pacjentem po operacji stało się ikoną poświęcenia w medycynie.
-
-## Sztuczne serce i rozwój
-
-Religa angażował się w prace nad polską sztuczną komorą wspomagania serca i rozwijał ośrodek w Zabrzu w liczącą się placówkę kardiochirurgiczną. Wykształcił pokolenie polskich kardiochirurgów.
-
-## Symbol i dziedzictwo
-
-Postać Religi stała się symbolem polskiej nauki przełamującej ograniczenia systemu. Jego dokonania, rozpoczęte jeszcze w PRL, ratowały tysiące istnień i trwale zmieniły polską medycynę.`,
-    trivia: ['Zdjęcie z jego wielogodzinnej operacji serca obiegło świat.', 'Stworzył ośrodek kardiochirurgii w Zabrzu.'],
+## Polityka
+W latach 80. Religa zaangażował się w Patriotyczny Ruch Odrodzenia Narodowego i z jego ramienia bez powodzenia kandydował w 1989 roku do Senatu. W wolnej Polsce był senatorem, posłem, kandydatem na prezydenta i ministrem zdrowia w latach 2005–2007.`,
+    trivia: [
+      'Pierwszy udany przeszczep serca w Polsce przeprowadził 5 listopada 1985 roku w Zabrzu.',
+      'Słynne zdjęcie Religi czuwającego nad pacjentem wykonał w 1987 roku James Stanfield dla „National Geographic”.',
+      'W 1989 roku startował bez powodzenia do Senatu z ramienia PRON.',
+    ],
     resources: [
       {
         id: 'rel-1',
@@ -13237,26 +13236,25 @@ Piosenki Starszych Panów wciąż nagrywają kolejni wykonawcy – od Grzegorza 
     summary: 'Teatr Telewizji od 1953 r. wprowadzał wielką dramaturgię do milionów domów. Mimo cenzury prezentował klasykę i ambitne inscenizacje, stając się jednym z najważniejszych zjawisk kultury PRL i szkołą gustu widzów.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Hanuszkiewicz.jpg?width=800',
     imageCaption: 'Adam Hanuszkiewicz, reżyser wielu spektakli Teatru Telewizji, 1973',
-    content: `## Teatr dla milionów
+    content: `## Pierwszy wieczór
+Pierwszy spektakl Teatru Telewizji – „Okno w lesie” Leonida Rachmanowa i Jewgienija Ryssa w reżyserii Józefa Słotwińskiego – wyemitowano 6 listopada 1953 roku ze studia przy ul. Ratuszowej w Warszawie. Telewizja dopiero raczkowała, a odbiorników było w kraju niewiele.
 
-Teatr Telewizji zadebiutował w 1953 r. i szybko stał się unikalnym fenomenem – sceną docierającą do milionów widzów, którzy nigdy nie bywali w teatrze. Cotygodniowe spektakle wprowadzały wielki repertuar do zwykłych mieszkań.
+## Na żywo
+Przez pierwsze lata przedstawienia nadawano na żywo: aktorzy grali w studiu, a każda pomyłka szła prosto na antenę. Od końca lat 50. spektakle zaczęto rejestrować, co pozwoliło na wielokrotne nagrywanie ujęć, sceny w plenerze, dokrętki i montaż. Najstarszym przedstawieniem zachowanym w całości jest „Apollo z Bellac” Jeana Giraudoux w reżyserii Adama Hanuszkiewicza – nagrany przy powtórce w 1961 roku, bo z premiery w 1958 roku zapis się nie zachował. W latach 70. pojawiły się pierwsze spektakle w kolorze.
+
+## Dyrektorzy
+Charakter sceny ukształtowali Adam Hanuszkiewicz, dyrektor artystyczny w latach 1957–1963, i Jerzy Antczak, który kierował nią w latach 1963–1975. Kierownikiem literackim był w latach 1965–1973 poeta Ernest Bryll. Teatr Telewizji działał jak normalny teatr repertuarowy: miał własną redakcję, kierowników literackich, budował linię repertuarową, angażował aktorów i budował scenografię.
 
 ## Repertuar
+Prezentowano klasykę polską i światową oraz dramat współczesny. Inscenizacje klasyki romantycznej bywały odczytywane jako aluzje do teraźniejszości, a dobór repertuaru stawał się formą dialogu z widzem ponad głowami cenzorów. Krystyna Janda zadebiutowała jako aktorka teatralna właśnie tutaj – w „Trzech siostrach” Czechowa w 1974 roku – i zagrała potem w Teatrze Telewizji około 45 ról.
 
-Prezentowano klasykę polską i światową – Szekspira, Czechowa, Fredrę, Mrożka, Witkacego – a także współczesny dramat. Mimo ograniczeń cenzury Teatr Telewizji potrafił sięgać po dzieła ambitne i wieloznaczne.
-
-## Wielcy twórcy
-
-Dla Teatru Telewizji pracowali najwybitniejsi reżyserzy i aktorzy: Adam Hanuszkiewicz, Jerzy Antczak, Gustaw Holoubek, Tadeusz Łomnicki, Aleksandra Śląska. Telewizyjne inscenizacje bywały wydarzeniami artystycznymi na równi z teatrem scenicznym.
-
-## Między sztuką a kontrolą
-
-Jak cała kultura PRL, teatr podlegał cenzurze. Niektóre inscenizacje – zwłaszcza klasyki romantycznej – odczytywano jako aluzje do współczesności. Wybór repertuaru bywał formą subtelnego dialogu z widzem ponad głowami cenzorów.
-
-## Dziedzictwo
-
-Teatr Telewizji ukształtował gust kulturalny pokoleń Polaków i zachował zapis wielkich kreacji aktorskich. Archiwalne spektakle są dziś świadectwem poziomu artystycznego, jaki osiągano mimo ograniczeń systemu.`,
-    trivia: ['Spektakle oglądały miliony widzów naraz.', 'Był to teatr dostępny w każdym domu, w którym stał telewizor.'],
+## Skala
+W ciągu swojej historii Teatr Telewizji wyprodukował ponad 4 tysiące spektakli. W 1999 roku Akademia Teatru Telewizji wybrała sto najlepszych przedstawień w jego historii – tzw. Złotą Setkę.`,
+    trivia: [
+      'Pierwszy spektakl, „Okno w lesie”, wyemitowano 6 listopada 1953 roku ze studia przy ul. Ratuszowej.',
+      'Najstarszy zachowany w całości spektakl, „Apollo z Bellac”, to nagranie powtórki z 1961 roku.',
+      'Teatr Telewizji wyprodukował ponad 4 tysiące przedstawień.',
+    ],
     resources: [
       {
         id: 'ttv-1',
@@ -13341,26 +13339,33 @@ Uroczystości kościelne gromadziły nieporównanie więcej ludzi niż państwow
     subtitle: 'Wolna wyspa rocka w PRL',
     category: 'kultura',
     tags: ['muzyka', 'rock', 'punk', 'młodzież', 'lata 80.'],
-    yearStart: 1980,
-    yearEnd: 1989,
+    yearStart: 1970,
+    yearEnd: 1994,
     summary: 'Najważniejszy festiwal muzyki rockowej i punkowej w PRL, który od 1980 roku stał się symbolem młodzieżowego buntu i namiastki wolności.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/KSU-1944.jpg?width=800',
     imageCaption: 'Zespół KSU na scenie w Jarocinie',
-    trivia: ['Służba Bezpieczeństwa fotografowała i spisywała uczestników festiwalu jako „element antysocjalistyczny”.', 'Dla wielu młodych Jarocin był jedynym miejscem, gdzie mogli przez kilka dni poczuć namiastkę wolności.'],
-    content: `## Geneza
-Festiwal w Jarocinie wyrósł z odbywających się od 1970 roku Wielkopolskich Rytmów Młodych. Od 1980 roku, pod nazwą Ogólnopolski Przegląd Muzyki Młodej Generacji, impreza przekształciła się w największy w bloku wschodnim festiwal muzyki rockowej, punkowej i nowofalowej.
+    trivia: [
+      'W 1985 roku do konkursu festiwalu zgłosiło się 436 zespołów.',
+      'Dezerter debiutował w Jarocinie pod nazwą SS-20.',
+      'Teksty z uwagami cenzorów, składane przez zespoły w latach 80., odnaleziono w 2011 roku.',
+    ],
+    content: `## Wielkopolskie Rytmy Młodych
+Początki festiwalu sięgają 1970 roku, gdy jarociński klub Olimp z inicjatywy Jacka Chudzika zorganizował skromną imprezę muzyczną pod nazwą Wielkopolskie Rytmy Młodych. Zespoły rywalizowały o Złotego, Srebrnego i Brązowego Kameleona. W 1973 roku gwiazdą była Anawa, z którą śpiewał Andrzej Zaucha.
+
+## 1980: nowa formuła
+W 1980 roku festiwalem zainteresowała się Telewizja Polska. Walter Chełstowski i Jacek Sylwin zorganizowali w Jarocinie I Ogólnopolski Przegląd Muzyki Młodej Generacji (6–8 czerwca 1980). Pojawiła się wtedy najbardziej znana formuła: koncerty gwiazd i konkurs zespołów. Na pierwszą edycję przyjechało około 2 tysięcy widzów.
+
+## Festiwal Muzyków Rockowych
+W 1983 roku impreza zmieniła nazwę na Festiwal Muzyków Rockowych. Rosła z roku na rok: w 1985 roku trwała pięć dni, w amfiteatrze i na stadionie, a do konkursu zgłosiło się 436 zespołów. Grano punk, rock, heavy metal, blues i reggae.
 
 ## Wolna wyspa
-Dla tysięcy młodych ludzi Jarocin był miejscem, gdzie przez kilka dni w roku można było poczuć namiastkę wolności – słuchać ostrej muzyki, manifestować odmienność wyglądem i strojem, krzyczeć o sprawach przemilczanych przez oficjalną propagandę. Władze tolerowały festiwal, traktując go jako wentyl bezpieczeństwa dla młodzieżowej energii.
+W latach 80. Jarocin był jedynym miejscem, gdzie zespoły niezależne mogły zagrać dla dużej publiczności. Można tu było usłyszeć grupy bez nagrań studyjnych i nieobecne w mediach, ubrać się i zachowywać swobodniej niż gdziekolwiek. Publiczność była bezlitosna: wygwizdywała i obrzucała zespoły promowane oficjalnie. Uznanie w Jarocinie oznaczało ogólnopolską sławę – przełomem był tu występ m.in. dla Dżemu, Siekiery, Dezertera (wtedy jako SS-20), Moskwy i Sztywnego Pala Azji.
 
-## Zespoły
-Na jarocińskiej scenie debiutowały lub występowały m.in. Dezerter, Brygada Kryzys, TSA, Armia, Kult, Siekiera, Moskwa, Dżem czy Republika. Festiwal stał się kuźnią polskiej sceny niezależnej.
+## Pod okiem cenzury i SB
+Teksty piosenek trzeba było składać w urzędzie cenzury; zachowane teksty z uwagami cenzorów odnaleziono w 2011 roku. Służba Bezpieczeństwa przedstawiała festiwal jako potencjalne „ognisko niebezpieczeństwa państwowego”. Krytycy twierdzili, że władza traktowała Jarocin jako wentyl bezpieczeństwa dla zbuntowanej młodzieży.
 
-## Inwigilacja
-Impreza była pod ścisłą obserwacją Służby Bezpieczeństwa, która rejestrowała uczestników, fotografowała publiczność i werbowała informatorów. Mimo to Jarocin pozostał przestrzenią względnej swobody.
-
-## Dziedzictwo
-Jarocin stał się legendą i symbolem pokolenia. Po 1989 roku festiwal reaktywowano, a w mieście powstało Spichlerz Polskiego Rocka – muzeum dokumentujące historię imprezy.`,
+## Koniec i powrót
+Ostatnia edycja przed przerwą odbyła się w 1994 roku i zakończyła się zamieszkami. Festiwal później reaktywowano, a w 2014 roku w Jarocinie otwarto Spichlerz Polskiego Rocka.`,
     resources: [
       {
         id: 'jarocin-festiwal-yt-m7',
@@ -14153,21 +14158,28 @@ W latach 1981–1983, w czasie kryzysu i stanu wojennego, festiwal się nie odby
     summary: 'Jedna z najpopularniejszych polskich piosenkarek, autorka przebojów „Małgośka”, „Sing-Sing” i „Niech żyje bal”, gwiazda estrady od przełomu lat 60. i 70.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Maryla_Rodowicz%2C_Polsat_Superhit_Festival_2023_10_%28cropped%29.jpg?width=800',
     imageCaption: 'Maryla Rodowicz (fot. współczesna)',
-    trivia: ['Słynęła z barwnych, niekonwencjonalnych strojów scenicznych.'],
-    content: `## Początki
-Maryla Rodowicz (ur. 1945) zadebiutowała pod koniec lat 60., a przełomem był festiwal w Opolu w 1970 roku i „Jadą wozy kolorowe”. Wniosła na estradę temperament, ruch sceniczny i brzmienie czerpiące z folku – w czasach, gdy wykonawczynie stały przy mikrofonie w sukni wieczorowej.
+    trivia: [
+      'W młodości była lekkoatletką – zdobywała medale mistrzostw Polski młodzików w biegu przez płotki i sztafecie.',
+      'Jej debiutancka płyta „Żyj mój świecie” z 1970 roku rozeszła się w ponad 170 tysiącach egzemplarzy.',
+      'Po wprowadzeniu stanu wojennego zakazano emisji piosenki „Dentysta sadysta” jej zespołu Różowe Czuby.',
+    ],
+    content: `## Z Zielonej Góry i Włocławka
+Maryla Rodowicz urodziła się 8 grudnia 1945 roku w Zielonej Górze w rodzinie wywodzącej się z Wilna. W 1948 roku jej ojciec trafił do więzienia za wileńską działalność polityczną; wyszedł na mocy amnestii w 1956 roku. Dorastała z matką we Włocławku. W młodości uprawiała lekkoatletykę – zdobyła brąz mistrzostw Polski młodzików w biegu przez płotki i złoto w sztafecie. Studiowała w warszawskiej AWF, a śpiewała w bigbitowym zespole Szejtany i w studenckim kabarecie Gag.
+
+## Przełom 1970
+Po nagrodzie na Studenckim Festiwalu Piosenki w Krakowie wydała w 1970 roku debiutancki album „Żyj mój świecie”, który sprzedał się w ponad 170 tysiącach egzemplarzy. W czerwcu tego roku dostała nagrodę Telewizji Polskiej w Opolu za „Jadą wozy kolorowe”, a w sierpniu zajęła z tą piosenką trzecie miejsce w Sopocie.
 
 ## Przeboje
-„Małgośka”, „Sing-Sing”, „Niech żyje bal”, „Remedium”, „Damą być”, „Wsiąść do pociągu byle jakiego” – to piosenki, które zna każde pokolenie. Wiele z nich napisała Agnieszka Osiecka, a muzykę komponowali Katarzyna Gärtner i Seweryn Krajewski.
+„Małgośka”, „Sing-Sing”, „Kolorowe jarmarki”, „Remedium”, „Damą być”, „Niech żyje bal” – wiele z tych piosenek napisała Agnieszka Osiecka. W 1973 roku w Sopocie zdobyła Grand Prix du Disque i nagrodę publiczności, w 1978 roku pierwszą nagrodę w Opolu za „Remedium”, a w 1985 roku nagrodę dziennikarzy za „Niech żyje bal”. W 1974 roku śpiewała „Futbol” na otwarciu mundialu w Monachium – po latach przyznała, że wstydzi się tego nagrania.
 
 ## Wizerunek
-Występowała w strojach ludowych, cygańskich, przerabianych i wymyślanych samodzielnie, z rozwianymi włosami i bez estradowej sztywności. Ten wizerunek – dziś oczywisty – w latach 70. był zerwaniem z konwencją i budził tyleż zachwytu, co oburzenia.
+Występowała w strojach ludowych, cygańskich i własnego pomysłu, z rozwianymi włosami i gitarą, bez estradowej sztywności. W latach 70. było to zerwanie z konwencją wieczorowej sukni przy mikrofonie.
 
-## Zasięg
-Koncertowała w całym bloku wschodnim, gdzie była gwiazdą porównywalnej rangi co w kraju, a także na Zachodzie i na Kubie. Nagrywała w kilku językach i sprzedała kilkanaście milionów płyt.
+## W bloku i za oceanem
+Od 1971 roku regularnie koncertowała w ZSRR, występowała w Czechosłowacji, NRD i na Kubie, nagrywała po czesku, niemiecku i rosyjsku. Grała też dla Polonii w Chicago i Nowym Jorku.
 
-## Znaczenie
-Śpiewa nieprzerwanie od ponad pięćdziesięciu lat i pozostaje jedną z najtrwalszych postaci polskiej sceny. Jej kariera przetrwała wszystkie zmiany mód i ustroju bez przerwy dłuższej niż sezon.`,
+## Różowe Czuby
+W 1982 roku założyła żartobliwie punkowy zespół Różowe Czuby. Po wprowadzeniu stanu wojennego zakazano emisji ich piosenki „Dentysta sadysta”.`,
     resources: [
       {
         id: 'maryla-rodowicz-culture',
@@ -26553,23 +26565,27 @@ Do grudnia 1981 roku film obejrzało w Polsce około pięciu milionów widzów. 
     summary: 'Jedna z najwybitniejszych polskich aktorek; zadebiutowała w „Człowieku z marmuru” (1977), a rolą w „Przesłuchaniu” zdobyła nagrodę w Cannes.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Krystyna_Janda_by_Zbigniew_Kresowaty.jpg?width=800',
     imageCaption: 'Krystyna Janda (fot. współczesna)',
-    content: `## Debiut
-Krystyna Janda (ur. 1952) zadebiutowała w kinie główną rolą Agnieszki w „Człowieku z marmuru” Andrzeja Wajdy (1976) – jeszcze jako studentka. Rola nieustępliwej, konfrontacyjnej reżyserki, która wydziera archiwom prawdę o stalinizmie, od razu ustawiła jej pozycję.
+    content: `## Ze Starachowic
+Krystyna Janda urodziła się 18 grudnia 1952 roku w Starachowicach. Ukończyła warszawskie Państwowe Liceum Plastyczne, uczyła się w studium baletowym, a w 1975 roku z wyróżnieniem ukończyła PWST w Warszawie. W telewizji pojawiła się po raz pierwszy jako dziewczyna tańcząca na weselu w serialu „Czarne chmury” (1973), a jako aktorka teatralna zadebiutowała w Teatrze Telewizji rolą Maszy w „Trzech siostrach” Czechowa w 1974 roku.
 
-## Role
-Zagrała w „Bez znieczulenia” (1978), „Człowieku z żelaza” (1981) i „Dyrygencie” Wajdy, a przede wszystkim w „Przesłuchaniu” Ryszarda Bugajskiego – filmie o kobiecie torturowanej w więzieniu stalinowskim, zatrzymanym przez cenzurę na całą dekadę. Rola przyniosła jej nagrodę dla najlepszej aktorki w Cannes, gdy film pokazano w 1990 roku.
+## Agnieszka
+Przełomem była główna rola Agnieszki w „Człowieku z marmuru” Andrzeja Wajdy – młodej reżyserki, która wydziera archiwom prawdę o stalinowskim przodowniku pracy. Rola nieustępliwej, konfrontacyjnej bohaterki od razu ustawiła jej pozycję. Wajda obsadzał ją potem w kolejnych filmach, m.in. w „Bez znieczulenia”, „Dyrygencie” i „Człowieku z żelaza”.
+
+## Przesłuchanie
+W 1982 roku zagrała Antoninę Dziwisz w „Przesłuchaniu” Ryszarda Bugajskiego – kobietę więzioną i łamaną w stalinowskim śledztwie. Film zatrzymała cenzura i krążył latami w nielegalnych kopiach wideo; na ekrany trafił dopiero w 1989 roku. Za tę rolę Janda otrzymała w 1990 roku nagrodę dla najlepszej aktorki na festiwalu w Cannes.
 
 ## Typ aktorski
-Wprowadziła do polskiego kina bohaterkę silną, upartą i pozbawioną uległości – typ wcześniej praktycznie nieobecny, bo kobiety grały żony, matki albo obiekty uczuć. Pracowała też za granicą, m.in. z Andrzejem Żuławskim i Istvánem Szabó.
+Grała najczęściej kobiety silne i zdecydowane o bogatym życiu wewnętrznym – typ wcześniej rzadki w polskim kinie. Występowała też w produkcjach zagranicznych, m.in. w nagrodzonym Oscarem „Mefisto” Istvána Szabó (1981). W 1977 roku w Opolu nagrodzono jej wykonanie piosenki „Guma do żucia”, a z Markiem Grechutą nagrała płytę „W malinowym chruśniaku”.
 
-## Teatr
-Na scenie zbudowała pozycję równie mocną, słynąc z monodramów granych po kilkaset razy. Śpiewała, pisała felietony i książki.
+## Scena
+W latach 1976–1987 była aktorką Teatru Ateneum, potem Teatru Powszechnego. Zagrała około 60 ról scenicznych i około 45 w Teatrze Telewizji.
 
-## Poza ekranem
-Po 1989 roku stworzyła w Warszawie własne teatry – Polonię i Och-Teatr – prowadzone bez stałej dotacji. Należy do nielicznych artystów, którzy zbudowali silną pozycję zarówno w PRL, jak i po jego końcu.`,
+## Po 1989 roku
+W 2005 roku otworzyła Teatr Polonia – pierwszy w Polsce w pełni prywatny teatr – a w 2010 roku Och-Teatr. W ankiecie „Polityki” z 1998 roku znalazła się w gronie najwybitniejszych aktorów XX wieku.`,
     trivia: [
-      'Zadebiutowała główną rolą u Wajdy jeszcze w trakcie studiów aktorskich.',
-      'Jej „Przesłuchanie” zatrzymano na całą dekadę i pokazano dopiero pod koniec lat 80.',
+      'Jako aktorka teatralna zadebiutowała w Teatrze Telewizji – w „Trzech siostrach” Czechowa w 1974 roku.',
+      '„Przesłuchanie” z 1982 roku trafiło na ekrany dopiero w 1989 roku, a Janda dostała za nie nagrodę w Cannes.',
+      'Teatr Polonia, który otworzyła w 2005 roku, był pierwszym w pełni prywatnym teatrem w Polsce.',
     ],
     resources: [
       {
@@ -26800,27 +26816,28 @@ Od początku cieszył się ogromną popularnością i był wielokrotnie powtarza
     category: 'osoby',
     tags: ['muzyka', 'estrada', 'jazz', 'soul', 'kultura'],
     yearStart: 1972,
-    yearEnd: 1989,
+    yearEnd: 1991,
     summary: 'Wokalista i perkusista o soulowej, jazzującej barwie głosu; autor przebojów „C\'est la vie” i „Byłaś serca biciem”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej%20Zaucha%20%28lipiec%201991%29.jpg?width=800',
     imageCaption: 'Andrzej Zaucha – wokalista i perkusista.',
-    content: `## Muzyk
-Andrzej Zaucha (1949–1991) był wokalistą, perkusistą i saksofonistą, samoukiem o niezwykłej swobodzie rytmicznej. Pochodził z Krakowa i śpiewał muzykę z pogranicza jazzu, soulu i piosenki rozrywkowej – gatunków, które w polskiej estradzie rzadko się spotykały.
+    content: `## Z Pychowic
+Andrzej Zaucha urodził się 12 stycznia 1949 roku w Krakowie i dorastał na Pychowicach. Ojciec grał na perkusji w zespołach na przyjęciach – mając osiem lat, syn zastąpił go za bębnami. Był muzycznym samoukiem, z wykształcenia zecerem. W młodości wyczynowo pływał kajakiem: w 1964 roku zdobył złote medale mistrzostw Polski juniorów w „jedynce” i „czwórce” i rozważano jego powołanie na igrzyska w Tokio. Wybrał perkusję.
+
+## Dżamble i Anawa
+Zafascynowany Rayem Charlesem zmienił sposób śpiewania. W 1969 roku został wokalistą jazzrockowego zespołu Dżamble, z którym nagrał album „Wołanie o słońce nad światem” (1971). Następnie śpiewał w Anawie Jana Kantego Pawluśkiewicza, a potem grał w zespole Old Metropolitan Band. W latach 1973–1979 występował w klubach w RFN, Austrii, Szwajcarii i Holandii.
 
 ## Głos
-Frazował jak jazzman, zmieniał melodię w locie, potrafił zaimprowizować całą zwrotkę – w kraju, gdzie estrada nagradzała wierne wykonanie nut, brzmiało to obco i świeżo. Śpiewał z zespołem Anawa i w duecie z Ewą Bem, nagrywał muzykę do filmów i seriali.
+Frazował jak jazzman, zmieniał melodię w locie, potrafił zaimprowizować całą zwrotkę. Współpracował z Januszem Muniakiem, Zbigniewem Seifertem, Tomaszem Stańką i Michałem Urbaniakiem, nagrywał duety z Ewą Bem, Krystyną Prońko i Marylą Rodowicz.
 
 ## Przeboje
-„Bądź moim natchnieniem”, „C'est la vie, Paryż z pocztówki” i „Byle było tak” to jego najbardziej znane nagrania. Występował też w musicalach i grał w teatrze, co przy jego warunkach scenicznych było naturalnym rozwinięciem kariery.
+Karierę solową zaczął w 1980 roku. W 1983 roku wydał album „Wszystkie stworzenia duże i małe”, w 1987 roku „Stare, nowe, najnowsze” z piosenkami „Bądź moim natchnieniem” i „C'est la vie – Paryż z pocztówki”. W 1988 roku w Opolu wyróżniono „Byłaś serca biciem”. Śpiewał piosenkę czołówkową polskiej wersji „Gumisiów” i grał tytułową rolę w musicalu „Pan Twardowski” w Teatrze STU.
 
-## Śmierć
-10 lutego 1991 roku został zastrzelony w Krakowie razem z Zuzanną Leśniak przez jej byłego męża. Zbrodnia, popełniona w środku dnia na osiedlowym parkingu, wstrząsnęła opinią publiczną i przerwała karierę artysty w momencie, gdy był u szczytu możliwości.
-
-## Znaczenie
-Jego nagrania są dziś odkrywane na nowo, także przez muzyków młodszych o pokolenie, sięgających po polski soul i funk lat 70. i 80. W tej niszy pozostaje wykonawcą bez odpowiednika.`,
+## 10 października 1991
+W 1989 roku zmarła jego żona Elżbieta. Zaucha związał się z aktorką Zuzanną Leśniak, żoną francuskiego reżysera Yves'a Goulais. Po spektaklu „Pan Twardowski” Goulais zastrzelił Zauchę na parkingu przy ul. Włóczków w Krakowie; ranna rykoszetem Leśniak zmarła w szpitalu. W pogrzebie na cmentarzu Batowickim wzięło udział kilka tysięcy osób.`,
     trivia: [
-      'Był muzycznym samoukiem, a jego frazowanie wywodziło się z jazzu, nie z estrady.',
-      'Zginął zastrzelony w Krakowie w 1991 roku – zbrodnia wstrząsnęła wtedy opinią publiczną.',
+      'Jako junior zdobył złote medale mistrzostw Polski w kajakarstwie i rozważano jego wyjazd na igrzyska w Tokio.',
+      'Śpiewał piosenkę czołówkową polskiej wersji „Gumisiów”.',
+      'Zginął 10 października 1991 roku w Krakowie, po spektaklu w Teatrze STU.',
     ],
     resources: [
       {
@@ -29247,23 +29264,24 @@ Skład się kurczył – od 1972 roku występowały jako tercet Nowe Filipinki. 
     summary: 'Wybitny aktor komediowy i charakterystyczny; stworzył kultową rolę Jana Piszczyka w „Zezowatym szczęściu” Munka, przyjaciel Zbigniewa Cybulskiego.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Modelska%20Kobiela%20Cz%C5%82owiek%20z%20M-3%20%28cropped%29.jpg?width=800',
     imageCaption: 'Bogumił Kobiela – aktor komediowy i charakterystyczny.',
-    content: `## Aktor
-Bogumił Kobiela (1931–1969) uchodzi za najwybitniejszego polskiego aktora tragikomicznego. Należał do pokolenia polskiej szkoły filmowej i był bliskim przyjacielem Zbigniewa Cybulskiego, z którym w Gdańsku współtworzył studencki teatrzyk Bim-Bom.
+    content: `## Z Katowic do Gdańska
+Bogumił Kobiela urodził się 31 maja 1931 roku w Katowicach. W 1953 roku ukończył Państwową Wyższą Szkołę Aktorską w Krakowie i trafił do Teatru Wybrzeże w Gdańsku. W latach 1955–1958 współtworzył ze Zbigniewem Cybulskim studencki teatrzyk Bim-Bom. Potem grał w warszawskim Ateneum, kabaretach Dudek i Wagabunda oraz w Teatrze Komedia, często występował w telewizyjnych programach satyrycznych.
 
 ## Sposób grania
-Potrafił w jednej scenie przejść od komizmu do dramatu bez zmiany tonu. Jego postacie – urzędnicy, cwaniaczki, ludzie przeciętni – były śmieszne i przejmujące jednocześnie, przez co bliższe widzowi niż role heroiczne, w jakich obsadzano jego rówieśników.
+Uchodzi za najwybitniejszego polskiego aktora tragikomicznego. Potrafił w jednej scenie przejść od komizmu do dramatu bez zmiany tonu. Jego postacie – urzędnicy, cwaniaczki, ludzie przeciętni – były śmieszne i przejmujące jednocześnie. Grał jednostki zagubione wśród wydarzeń historycznych XX wieku.
 
 ## Role
-Zagrał w „Popiele i diamencie” Wajdy, w „Zezowatym szczęściu” Andrzeja Munka (1960) jako Jan Piszczyk – człowiek, któremu każda epoka i każdy wybór wychodzą odwrotnie – oraz w „Rękopisie znalezionym w Saragossie” i „Wojnie domowej”. Piszczyk stał się typem postaci opisującym polski los dokładniej niż niejeden bohater dramatu.
+Zagrał Drewnowskiego w „Popiele i diamencie” Wajdy i porucznika Dąbeckiego w „Eroice” Munka. Najważniejszą rolą był Jan Piszczyk w „Zezowatym szczęściu” Munka (1960) – człowiek, któremu każda epoka i każdy wybór wychodzą odwrotnie. Grał także w „Rękopisie znalezionym w Saragossie”, „Lalce”, „Człowieku z M-3” i „Przekładańcu”, a w telewizji w „Wojnie domowej” i „Klubie profesora Tutki”. Napisał scenariusz „Do widzenia, do jutra” (1960).
 
-## Śmierć
-Zginął w lipcu 1969 roku w wyniku obrażeń odniesionych w wypadku samochodowym, mając trzydzieści osiem lat – dwa lata po śmierci Cybulskiego, który zginął pod kołami pociągu.
+## Wypadek
+2 lipca 1969 roku w Buszkowie koło Koronowa jego białe BMW wpadło w deszczu w poślizg na zakręcie i zderzyło się czołowo z autobusem. Kobiela prosił ratowników, by zajęli się jego żoną, i zapewniał, że nic mu nie jest – po chwili stracił przytomność. Miał pękniętą śledzionę i krwotok wewnętrzny. Zmarł 10 lipca 1969 roku w klinice w Gdańsku, po dwóch operacjach. Miał 38 lat.
 
-## Znaczenie
-Odejście obu przyjaciół w tak krótkim czasie zamknęło pewien rozdział polskiego kina. Kobiela pozostaje aktorem, do którego porównuje się każdego następnego mistrza roli tragikomicznej.`,
+## Pamięć
+Odszedł dwa lata po Cybulskim, swoim przyjacielu z Bim-Bomu – ich śmierć zamknęła pewien rozdział polskiego kina. Pochowano go w Tenczynku koło Krakowa. Ma ulicę w Gdańsku, gwiazdę w łódzkiej Alei Gwiazd i popiersie w Katowicach.`,
     trivia: [
-      'Jako Jan Piszczyk w „Zezowatym szczęściu” stworzył postać człowieka, któremu wszystko wychodzi odwrotnie.',
-      'Zginął w wypadku dwa lata po śmierci Zbigniewa Cybulskiego, swojego przyjaciela i partnera z teatru Bim-Bom.',
+      'Kobiela napisał scenariusz filmu „Do widzenia, do jutra” z 1960 roku.',
+      'Po wypadku prosił ratowników, by najpierw zajęli się jego żoną.',
+      'Ze Zbigniewem Cybulskim współtworzył gdański teatrzyk Bim-Bom.',
     ],
     resources: [
       {
