@@ -5388,6 +5388,22 @@ RWPG rozwiązała się w 1991 roku, gdy upadły komunistyczne rządy i rynki wsc
     trivia: ['Radę powołano w 1949 roku jako odpowiedź bloku wschodniego na plan Marshalla.', 'Rozliczenia prowadzono w rublu transferowym, walucie istniejącej tylko na papierze.'],
     resources: [
       {
+        id: 'rwpg-fn-11051',
+        title: 'XIX sesja RWPG w Pradze – PKF 8A/65',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/11051',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 16 lutego 1965 roku: delegacje państw RWPG w Pradze.',
+      },
+      {
+        id: 'rwpg-fn-8754',
+        title: 'Notatnik RWPG – PKF 5B/69',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/8754',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 31 stycznia 1969 roku: konferencja RWPG w Berlinie i przykłady współpracy przemysłowej.',
+      },
+      {
         id: 'rwpg-rubel-transferowy',
         title: 'Rubel transferowy – artykuł',
         type: 'publikacja',
@@ -8248,6 +8264,14 @@ W muzyce socrealizm wymagał melodyjności, zrozumiałości i "optymizmu" – aw
 Po śmierci Stalina (1953) i XX Zjeździe KPZR (1956) socrealizm zaczął się kruszyć. W Polsce "odwilż" kulturalna była wyraźna – artyści odetchnęli, jazz stał się legalny, awangarda powróciła. Architektoniczne relikty socrealizmu – MDM, PKiN, osiedla z lat 50. – stoją do dziś, będąc teraz zabytkami.`,
     trivia: ['Doktrynę ogłoszono na zjeździe literatów w Szczecinie w 1949 roku.', 'Po 1956 roku odrzucono ją równie szybko, jak wprowadzono.'],
     resources: [
+      {
+        id: 'socrealizm-fn-5949',
+        title: 'Pierwsza Ogólnopolska Wystawa Plastyki – PKF 14/50',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/5949',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 29 marca 1950 roku: socrealistyczna wystawa w Muzeum Narodowym, zwiedza ją Cyrankiewicz.',
+      },
       {
         id: 'socreal-1',
         title: 'Socrealizm w sztuce i architekturze – opracowania',
@@ -16275,6 +16299,14 @@ W latach 1989–2008 na stadionie działało największe targowisko w Europie �
     ],
     resources: [
       {
+        id: 'stadion-dziesieciolecia-fn-11029',
+        title: 'Przed Memoriałem Kusocińskiego – PKF 23/56',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/11029',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 30 maja 1956 roku: lekkoatleci, m.in. Janusz Sidło, na bieżni Stadionu Dziesięciolecia.',
+      },
+      {
         id: 'sd-2',
         title: 'Stadion – fotografie',
         type: 'publikacja',
@@ -16317,6 +16349,22 @@ Prawo dewizowe z 15 marca 1989 roku zalegalizowało kantory. Część cinkciarzy
       'Po legalizacji kantorów w marcu 1989 roku część cinkciarzy z dnia na dzień stała się legalnymi przedsiębiorcami.',
     ],
     resources: [
+      {
+        id: 'czarny-rynek-fn-4397',
+        title: 'Asy czarnej giełdy przy pracy – PKF 17/46',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/4397',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 11 czerwca 1946 roku: zatrzymani giełdziarze przy przymusowej pracy.',
+      },
+      {
+        id: 'czarny-rynek-fn-7529',
+        title: 'Spekulanci – PKF 29/52',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/7529',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 9 sierpnia 1952 roku: milicyjna rewizja w „melinie towarowej”.',
+      },
       {
         id: 'cr-1',
         title: 'Czarny rynek i waluta – opracowania',
@@ -16437,6 +16485,14 @@ Dziennik był wzorcowym nośnikiem nowomowy – zideologizowanego języka pełne
 Ostatni numer ukazał się w styczniu 1990 roku, kilka tygodni po rozwiązaniu PZPR; jej miejsce zajęła „Trybuna”. Zniknięcie tego tytułu było jednym z najbardziej widocznych znaków końca systemu.`,
     trivia: ['Była organem prasowym Komitetu Centralnego PZPR.', 'Nakład zapewniano odgórnie – prenumeratą w zakładach pracy.'],
     resources: [
+      {
+        id: 'trybuna-ludu-fn-11581',
+        title: 'Święto „Trybuny Ludu” – PKF 26B/79',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/11581',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 30 czerwca 1979 roku: doroczne święto gazety na placu Defilad – występy, kiermasz, skok spadochronowy do Wisły.',
+      },
       {
         id: 'trybuna-ludu-robotnicza-spodzielnia-wydaw',
         title: 'Robotnicza Spółdzielnia Wydawnicza „Prasa-Książka-Ruch” – artykuł',
@@ -17907,6 +17963,22 @@ Jerzy Kulej zdobył złoto olimpijskie dwukrotnie, w Tokio (1964) i Meksyku (196
 Polska szkoła boksu przyniosła kilkadziesiąt medali olimpijskich i mistrzostw Europy, głównie w latach 50. i 60. Po zmianie ustroju struktura klubowa, na której się opierała, w dużej mierze się rozpadła.`,
     trivia: ['Polska szkoła boksu przyniosła serię medali olimpijskich.', 'Jej twórcą był legendarny trener Feliks Stamm.'],
     resources: [
+      {
+        id: 'boks-prl-fn-7403',
+        title: 'Pod okiem Feliksa Stamma – PKF 7/53',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/7403',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 11 lutego 1953 roku: obóz bokserski kadry, treningi na plaży i sparingi pod okiem Stamma.',
+      },
+      {
+        id: 'boks-prl-fn-7781',
+        title: 'Feliks Stamm – PKF 47/53',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/7781',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 4 listopada 1953 roku: trener Feliks Stamm prywatnie, w domu z rodziną.',
+      },
       {
         id: 'boks-pkf',
         title: 'Polska Kronika Filmowa – boks',
@@ -20994,6 +21066,22 @@ Wybory 4 czerwca 1989 roku odbyły się według ustaleń Okrągłego Stołu: o 3
     ],
     resources: [
       {
+        id: 'sejm-prl-fn-5361',
+        title: 'Sejm obraduje – PKF 15/49',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/5361',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 8 kwietnia 1949 roku: obrady Sejmu przy Wiejskiej, w ławach rządowych Cyrankiewicz, Zawadzki i Rola-Żymierski.',
+      },
+      {
+        id: 'sejm-prl-fn-9672',
+        title: 'Obrady Sejmu PRL – PKF 21/82',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/9672',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 29 lipca 1982 roku: posiedzenie Sejmu z marszałkiem Gucwą i przemówieniem Jaruzelskiego.',
+      },
+      {
         id: 'se-1',
         title: 'Sejm PRL – opracowania',
         type: 'publikacja',
@@ -21048,6 +21136,14 @@ Po stanie wojennym, w 1983 roku, FJN rozwiązano, a jego miejsce zajął Patriot
       'Siedziba Ogólnopolskiego Komitetu FJN mieściła się w Pałacyku Sobańskich przy Alejach Ujazdowskich 13 w Warszawie.',
     ],
     resources: [
+      {
+        id: 'front-jednosci-narodu-fn-7240',
+        title: 'Wybory 1952 – PKF 45/52',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/7240',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 29 października 1952 roku: wiec Bieruta i przebieg wyborów do Sejmu z jedną listą Frontu Narodowego.',
+      },
       {
         id: 'fjn-pkf',
         title: 'Polska Kronika Filmowa – Front Jedności Narodu',
@@ -21600,6 +21696,22 @@ W 1953 roku ograniczono liczbę brygad i wprowadzono zaciąg ochotniczy, a 17 gr
     ],
     resources: [
       {
+        id: 'sluzba-polsce-fn-5727',
+        title: 'Służba Polsce. Sejmowa ustawa – PKF 10/48',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/5727',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 4 marca 1948 roku o uchwaleniu ustawy o „Służbie Polsce”.',
+      },
+      {
+        id: 'sluzba-polsce-fn-5383',
+        title: 'Służba Polsce przy pracy – PKF 28/49',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/5383',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 6 lipca 1949 roku: brygady SP przy melioracji.',
+      },
+      {
         id: 'sp-1',
         title: 'Powszechna Organizacja „Służba Polsce” – artykuł',
         type: 'publikacja',
@@ -21953,6 +22065,14 @@ W praktyce dom kultury bywał po prostu centrum życia towarzyskiego: salą zaba
 To element PRL wyraźnie dwuznaczny: instytucje służyły ideologicznemu wychowaniu, a jednocześnie realnie demokratyzowały dostęp do kultury. Po 1989 roku znaczna część sieci podupadła wraz z likwidacją zakładów, które ją finansowały.`,
     trivia: ['Niemal każdy większy zakład pracy miał własny dom kultury.', 'Działały tam zespoły, kółka zainteresowań i kino.'],
     resources: [
+      {
+        id: 'domy-kultury-fn-5014',
+        title: 'W katowickim domu kultury – PKF 14/49',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/5014',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 30 marca 1949 roku: robotnicy na zajęciach plastycznych, balet i zespół akordeonistów.',
+      },
       {
         id: 'dk-1',
         title: 'Domy kultury – materiały',
@@ -23166,6 +23286,14 @@ W 2005 roku pracownicze ogrody przemianowano na rodzinne. Dziś w Polsce jest pr
       'Polski Związek Działkowców miał wyłączność na zakładanie ogrodów od 1981 do 2014 roku.',
     ],
     resources: [
+      {
+        id: 'ogrodki-dzialkowe-fn-11742',
+        title: 'Działkowe pasje – PKF 23A/80',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/11742',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 4 czerwca 1980 roku: wiosna w ogródkach działkowych, domki i działkowcy przy pracy.',
+      },
       {
         id: 'ogr-1',
         title: 'Ogrody działkowe – artykuł',
@@ -26062,6 +26190,14 @@ Oba modele unowocześniano – zwłaszcza w latach 70. dostały mocniejsze silni
     ],
     resources: [
       {
+        id: 'nysa-zuk-fn-10414',
+        title: 'Żuk i Junak – PKF 16A/59',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/10414',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 14 kwietnia 1959 roku: prezentacja lubelskiego Żuka w jeździe terenowej.',
+      },
+      {
         id: 'nz-yt',
         title: 'Nysa i Żuk – materiały',
         type: 'nagranie',
@@ -27669,6 +27805,14 @@ W latach 80. na parkietach królowały zachodnie przeboje, a obok nich polskie z
     ],
     resources: [
       {
+        id: 'dyskoteka-prl-fn-9681',
+        title: 'Pas de... disco – PKF 33/86',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/9681',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 12 sierpnia 1986 roku: młodzież na dyskotece.',
+      },
+      {
         id: 'dy-yt',
         title: 'Dyskoteki PRL – materiały',
         type: 'nagranie',
@@ -27783,6 +27927,14 @@ W 1971 roku rozpoczęto wyburzanie większości zabytkowych kamienic w obrębie 
       'W 1971 roku rozpoczęto wyburzanie większości zabytkowych kamienic wokół jeleniogórskiego rynku.',
     ],
     resources: [
+      {
+        id: 'jelenia-gora-fn-4760',
+        title: 'Jelenia Góra. Fabryka perlonów – PKF 8/47',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/4760',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 19 lutego 1947 roku: Państwowa Fabryka Włókien Sztucznych w Jeleniej Górze.',
+      },
       {
         id: 'jg-wk',
         title: 'Jelenia Góra – artykuł',
@@ -32618,6 +32770,14 @@ Spółdzielczość była elementem gospodarki najbliższym drobnej przedsiębior
     ],
     resources: [
       {
+        id: 'spoldzielczosc-prl-fn-10301',
+        title: 'Studencka spółdzielnia pracy „Maniuś” – PKF 17A/57',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/10301',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 16 kwietnia 1957 roku o studenckiej spółdzielni pracy.',
+      },
+      {
         id: 'spoldzielczosc-prl-wiki',
         title: 'Spółdzielczość w PRL – artykuł',
         type: 'publikacja',
@@ -32936,6 +33096,14 @@ Rada działała do 19 stycznia 1947 roku, czyli do sfałszowanych wyborów, po k
       'To KRN zniosła święto 11 listopada i ustanowiła 22 lipca Narodowym Świętem Odrodzenia Polski.',
     ],
     resources: [
+      {
+        id: 'krn-fn-4479',
+        title: 'Posiedzenie KRN 3 maja 1945 – PKF 11/45',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/4479',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 20 maja 1945 roku: uroczyste posiedzenie Krajowej Rady Narodowej i przemówienie Bieruta.',
+      },
       {
         id: 'krn-zwiazek-patriotow-polskich',
         title: 'Związek Patriotów Polskich – artykuł',
@@ -33928,6 +34096,14 @@ Na pogrzebie Bieruta w 1956 roku mówił o partii „zwartej jak monolit”. W c
       'Przewodniczył Radzie Państwa przez prawie dwanaście lat i zmarł na tym stanowisku.',
     ],
     resources: [
+      {
+        id: 'zawadzki-fn-4515',
+        title: 'Manifestacja na Górze św. Anny – PKF 19/45',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/4515',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 21 lipca 1945 roku: uroczystości z udziałem generała Zawadzkiego, wojewody śląskiego.',
+      },
       {
         id: 'zawadzki-rada-panstwa-polska',
         title: 'Rada Państwa (Polska) – artykuł',
