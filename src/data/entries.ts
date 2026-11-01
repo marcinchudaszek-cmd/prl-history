@@ -16138,21 +16138,25 @@ Po Sierpniu 1980 roku powstały Kręgi Instruktorów Harcerskich im. Andrzeja Ma
     yearStart: 1967,
     yearEnd: 1989,
     summary: 'Najsłynniejszy kabaret polityczny PRL, prowadzony przez Jana Pietrzaka, słynący z aluzyjnej satyry i pieśni „Żeby Polska była Polską”.',
-    content: `## Powstanie
-Kabaret „Pod Egidą” założył w 1967 roku Jan Pietrzak. Przez kolejne dwie dekady był najważniejszą sceną satyry politycznej w PRL, działającą legalnie, a jednocześnie stale na granicy tego, co dopuszczała cenzura.
+    content: `## Po Hybrydach
+Kabaret „Pod Egidą” założył w 1967 roku Jan Pietrzak, wcześniej twórca studenckiego kabaretu Hybrydy – rozwiązanego po zarzutach o wrogość wobec władz i „deprawację młodzieży”. Warszawska premiera odbyła się 10 lutego 1968 roku. W latach 1967–1975 kabaret występował w pałacyku Towarzystwa Przyjaciół Sztuk Pięknych przy ul. Chmielnej 5.
 
-## Aluzyjna satyra
-Programy operowały aluzją, metaforą i grą słów. Tekst przechodził przez urząd kontroli, ale sens dopisywała publiczność i sposób podania ze sceny – dlatego zapis programu bywał niewinny, a wykonanie już nie. Widownia, wyćwiczona w czytaniu między wierszami, reagowała owacją na zdanie, które na papierze nic nie znaczyło.
+## Zespół
+W pierwszym składzie byli m.in. Jonasz Kofta, Barbara Krafftówna, Adam Kreczmar, Anna Prucnal, Kazimierz Rudzki i Wojciech Siemion. Na początku lat 80. doszli m.in. Ewa Błaszczyk, Krzysztof Daukszewicz, Piotr Fronczewski, Janusz Gajos, Edyta Geppert, Kazimierz Kaczor i Wojciech Pszoniak. Teksty pisali też Agnieszka Osiecka, Daniel Passent i Maciej Rybiński.
+
+## Aluzja
+Teksty pisano tak, by pokazać parodię rzeczywistości i jednocześnie nie dostać zakazu występów. Tekst przechodził przez urząd kontroli, ale sens dopisywała publiczność, wyćwiczona w czytaniu między wierszami.
+
+## Pietrzak i cenzura
+Nazwisko Pietrzaka było na specjalnej liście cenzury – podlegała jej nie tylko jego twórczość, ale też artykuły i recenzje o nim. W 1973 roku prezes Radiokomitetu Maciej Szczepański zwolnił go z telewizji, gdzie kierował Redakcją Widowisk Estradowych. W latach 1975–1981 był sekretarzem redakcji „Szpilek”. Paradoksalnie w 1979 roku władze odznaczyły go Złotym Krzyżem Zasługi.
 
 ## „Żeby Polska była Polską”
-Napisana przez Pietrzaka pieśń z muzyką Włodzimierza Korcza (1976) stała się nieformalnym hymnem opozycji. W 1982 roku jej tytuł – „Let Poland Be Poland” – posłużył za nazwę transmitowanego na cały świat programu w obronie uwięzionych w Polsce, a wers cytował Ronald Reagan.
-
-## Cenzura i naciski
-Kabaret był pod stałą obserwacją SB, występy odwoływano, a sale odmawiały wynajmu. Po 13 grudnia 1981 roku Pietrzak został internowany, a działalność zespołu zawieszona na kilka lat.
-
-## Znaczenie
-„Pod Egidą” pokazał, że w PRL dało się mówić rzeczy zakazane – pod warunkiem, że mówiło się je żartem i przy pełnej sali. Obok kabaretu Tey i programów Olgi Lipińskiej współtworzył złoty okres polskiej satyry.`,
-    trivia: ['Kabaret Jana Pietrzaka słynął z ostrej satyry politycznej.', '„Żeby Polska była Polską” stała się pieśnią opozycji.'],
+Pieśń napisaną przez Pietrzaka w 1976 roku z muzyką Włodzimierza Korcza wykonał na festiwalu w Opolu w 1981 roku i zdobył Złotą Karolinkę. W latach 80. pełniła rolę pieśni hymnicznej, wyrażającej sprzeciw wobec władzy i poparcie dla „Solidarności”. Angielski przekład jej tytułu cytowali Ronald Reagan i Elżbieta II.`,
+    trivia: [
+      'Nazwisko Jana Pietrzaka figurowało na specjalnej liście cenzury.',
+      'W 1981 roku „Żeby Polska była Polską” zdobyła Złotą Karolinkę w Opolu.',
+      'Angielski przekład tytułu pieśni cytowali Ronald Reagan i Elżbieta II.',
+    ],
     resources: [
       {
         id: 'kabaret-pod-egida-yt-m8',
@@ -21447,21 +21451,25 @@ Stachura pozostaje patronem nonkonformistów: czytany bywa raczej jako propozycj
     summary: 'Psycholog i działacz społeczny, twórca Monaru – pionierskiego systemu leczenia narkomanii, oraz ruchu pomocy ludziom wykluczonym.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Powazki_Marek_kotanski_medalion.jpg?width=800',
     imageCaption: 'Medalion na grobie Marka Kotańskiego na Powązkach (fot. współczesna)',
-    content: `## Sylwetka
-Marek Kotański (1942–2002) był psychologiem, który zajął się problemem oficjalnie w PRL nieistniejącym. Narkomania nie mieściła się w obrazie socjalistycznego społeczeństwa, więc nie było ani statystyk, ani leczenia, ani nawet słownictwa, żeby o niej mówić.
+    content: `## Psycholog z Warszawy
+Marek Kotański urodził się 11 marca 1942 roku w Warszawie jako syn japonisty prof. Wiesława Kotańskiego, zmarł 19 sierpnia 2002 roku. Od 1960 roku studiował psychologię na Uniwersytecie Warszawskim; w Ruchu Młodych Wychowawców opiekował się sierotami i młodzieżą z patologicznych środowisk. Jego wzorami byli Janusz Korczak i Anton Makarenko. Po studiach pracował jako terapeuta w szpitalu psychiatrycznym przy ul. Dolnej w Warszawie.
 
-## Monar
-W 1978 roku w Głoskowie pod Warszawą otworzył pierwszy ośrodek dla osób uzależnionych, prowadzony metodą społeczności terapeutycznej: bez leków, za to z pracą, regułami ustalanymi przez samych mieszkańców i odpowiedzialnością za wspólnotę. W 1981 roku powstało z tego stowarzyszenie Monar.
+## Problem, którego nie było
+W 1974 roku przeszedł do szpitala psychiatrycznego w Garwolinie, gdzie działał oddział dla uzależnionych od narkotyków – problemu, któremu władze z powodów ideologicznych zaprzeczały. Widząc, że tradycyjne leczenie nie działa, sięgnął po metodę społeczności terapeutycznej, wzorowaną na amerykańskim Synanonie Charlesa Dedericha.
 
-## Przełamanie tabu
-Mówił publicznie o uzależnieniach, bezdomności i – od końca lat 80. – o AIDS, gdy chorych bano się nawet dotknąć. Tworzone przez niego domy dla nosicieli HIV bywały blokowane przez protesty mieszkańców, a on sam prowadził wtedy kampanie, głodówki i happeningi.
+## Głosków
+15 października 1978 roku w opuszczonym, częściowo zrujnowanym dworku w Głoskowie pod Garwolinem założył z grupą pacjentów z Garwolina pierwszy ośrodek Monaru. Leczenie opierało się na pracy, regułach ustalanych przez mieszkańców i odpowiedzialności za wspólnotę, a nie na lekach. Efekty przerosły oczekiwania. Jako stowarzyszenie Monar zarejestrowano w 1981 roku; dziś ma ponad sto ośrodków.
 
-## Ruch pomocy
-Monar rozrósł się w sieć kilkudziesięciu ośrodków w całym kraju. Kotański zakładał kolejne inicjatywy: Markot dla bezdomnych, domy dla samotnych matek, ośrodki dla dzieci. Był postacią medialną i kontrowersyjną, uważaną zarówno za wizjonera, jak i za autokratę.
+## Lata 80.
+W latach 1985–1994 organizował akcję „Łańcuch Czystych Serc”, w której setki tysięcy młodych ludzi łączyło dłonie w łańcuchu od Bałtyku po Tatry. Od 1986 roku zasiadał w Radzie Konsultacyjnej przy Wojciechu Jaruzelskim, licząc, że będzie ona miejscem „zbiorowej psychoterapii”. Zakładał osady dla zakażonych HIV i chorych na AIDS w ramach stowarzyszenia „Solidarni Plus”. W 1989 roku bez powodzenia kandydował do Senatu jako niezależny.
 
-## Znaczenie
-Zginął w wypadku samochodowym w 2002 roku. Zbudowany przez niego system pomocy przetrwał epokę, w której powstał, i pozostaje największą tego typu strukturą w Polsce.`,
-    trivia: ['Założył Monar, gdy oficjalnie twierdzono, że w Polsce nie ma narkomanii.', 'Stworzył pierwszy ośrodek pomocy dla uzależnionych w kraju.'],
+## Po 1989 roku
+W 1993 roku założył Markot – Ruch Wychodzenia z Bezdomności, a potem system pomocy dla osób opuszczających więzienia. Zginął w wypadku samochodowym w 2002 roku.`,
+    trivia: [
+      'Pierwszy ośrodek Monaru powstał 15 października 1978 roku w zrujnowanym dworku w Głoskowie pod Garwolinem.',
+      'Metodę leczenia wzorował na amerykańskiej społeczności terapeutycznej Synanon.',
+      'W „Łańcuchu Czystych Serc” młodzież łączyła dłonie od Bałtyku po Tatry.',
+    ],
     resources: [
       {
         id: 'kotanski-marek-yt-m15',
@@ -22176,21 +22184,25 @@ To klasyk polskiego kryminału telewizyjnego i jednocześnie dokument ambiwalent
     summary: 'Kultowy program popularnonaukowy Zdzisława Kamińskiego i Andrzeja Kurka, który przystępnie i z humorem tłumaczył naukę i technikę.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Andrzej_Kurek.jpg?width=800',
     imageCaption: 'Andrzej Kurek, jeden z dwóch prowadzących „Sondę”',
-    content: `## Program
-„Sonda” była telewizyjnym magazynem popularnonaukowym nadawanym od 1977 roku, prowadzonym przez Zdzisława Kamińskiego i Andrzeja Kurka. Ukazywała się co tydzień przez ponad dekadę i miała stałe, świetne miejsce w ramówce.
+    content: `## Po „Eurece”
+„Sonda” zastąpiła na antenie TVP popularny program „Eureka”. Pomysł wyszedł od Zofii Żukowskiej, a redakcję i prowadzenie objął Andrzej Kurek. Pierwszy odcinek nadano 8 września 1977 roku – według źródeł prowadził go Kurek z Wandą Konarzewską; kopia się nie zachowała. Tydzień później obok Kurka pojawił się Zdzisław „Danek” Kamiński.
 
-## Formuła
-Prowadzący rozmawiali ze sobą – jeden dopytywał, drugi tłumaczył – zamiast wykładać do kamery. Tematy szły od kosmosu, komputerów i energetyki jądrowej po biologię i medycynę, zawsze z pokazem, modelem albo eksperymentem w studiu. Był to jeden z niewielu programów, w których PRL-owska telewizja mówiła o świecie bez ideologii.
+## Sceptyk i entuzjasta
+Każdy odcinek poświęcony był jednemu zagadnieniu nauki lub techniki. Prowadzący dyskutowali je z przeciwnych pozycji – sceptyka i entuzjasty – nie podsuwając widzowi ostatecznego rozstrzygnięcia. Robili doświadczenia, często prostymi, „domowymi” środkami, przebierali się w kostiumy, przeplatali rozmowę felietonami filmowymi. Unikali teorii, których nie da się zobrazować – program mógł oglądać każdy.
 
-## Fenomen
-Program oglądały miliony widzów, w tym całe rodziny; dla wielu dzisiejszych inżynierów i naukowców był pierwszym zetknięciem z nauką jako czymś ciekawym. Elektroniczna czołówka i charakterystyczne studio należą do najlepiej pamiętanych obrazów telewizji tamtych lat.
+## Za darmo
+Materiały filmowe redakcja zdobywała za darmo: przez ambasady, ośrodki kultury i przedstawicielstwa handlowe krajów socjalistycznych i zachodnich. Pierwszy materiał telewizja kupiła dla „Sondy” dopiero w 1986 roku, po kilkuset odcinkach. Charakterystyczne logo Kurek zaprogramował w BASIC-u na ZX Spectrum. Program oglądało około 6 milionów widzów.
 
-## Tragiczny koniec
-30 kwietnia 1989 roku obaj prowadzący zginęli w wypadku samochodowym, jadąc na zdjęcia do kolejnego odcinka. Program zakończono; nie znaleziono nikogo, kto mógłby zastąpić duet, i nie próbowano go odtwarzać.
+## 29 września 1989
+W drodze z Krakowa do Raciborskiej Fabryki Kotłów „Rafako”, gdzie mieli zbierać materiał do kolejnego odcinka, Kurek i Kamiński zginęli w Raciborzu-Brzeziu w czołowym zderzeniu z ciężarówką. Zginął też kierowca, były rajdowiec Andrzej Gieysztor. Przyczyną była najprawdopodobniej nadmierna prędkość. Obaj dziennikarze spoczęli obok siebie na cmentarzu w Pyrach.
 
-## Znaczenie
-„Sonda” pozostaje wzorem telewizji popularnonaukowej i jest przywoływana za każdym razem, gdy mowa o tym, że stacja publiczna potrafiła kiedyś robić edukację na światowym poziomie.`,
-    trivia: ['Program popularnonaukowy prowadzili Zdzisław Kamiński i Andrzej Kurek.', 'Obaj zginęli w wypadku samochodowym w 1989 roku.'],
+## Dorobek
+Powstało 488 odcinków; z powtórkami wyemitowano ponad 560. We wrześniu 1990 roku pokazano trzy odcinki dokończone przez zespół. Z braku taśmy wiele najstarszych odcinków wykasowano.`,
+    trivia: [
+      'Logo „Sondy” Andrzej Kurek zaprogramował w BASIC-u na ZX Spectrum.',
+      'Pierwszy materiał filmowy telewizja kupiła dla „Sondy” dopiero w 1986 roku – wcześniej redakcja zdobywała je za darmo.',
+      'Kurek i Kamiński zginęli 29 września 1989 roku w drodze do fabryki Rafako w Raciborzu.',
+    ],
     resources: [
       {
         id: 'son-1',
@@ -22567,23 +22579,27 @@ Grała do późnej starości, a jej stulecie obchodzono jako wydarzenie kultural
     category: 'społeczeństwo',
     tags: ['telewizja', 'dzieci', 'społeczeństwo', 'wychowanie'],
     yearStart: 1957,
-    yearEnd: 1985,
+    yearEnd: 1981,
     summary: 'Telewizyjna akcja zachęcająca dzieci do anonimowych dobrych uczynków – fenomen wychowawczy, który ukształtował pokolenia „niewidzialnorękowiczów”.',
-    content: `## Idea
-„Niewidzialna Ręka” to akcja telewizyjna dla dzieci, związana z programami Macieja Zimińskiego i przez lata prowadzona w ramach niedzielnego „Teleranka”. Zachęcała młodych widzów do pomagania innym anonimowo – bez pochwał, dyplomów i zbiorowych apeli.
+    content: `## Świat Młodych
+„Niewidzialna Ręka” to pomysł dziennikarza i harcerza Macieja Zimińskiego (1930–2013). Według jego ucznia Macieja Wasielewskiego, autora książki o akcji, pomysł narodził się jeszcze w czasie wojny. Po raz pierwszy akcja pojawiła się w 1957 roku na łamach harcerskiego pisma „Świat Młodych”, którego sekretarzem redakcji był wtedy Zimiński.
 
-## Zasady
-Uczestnicy wykonywali dobre uczynki: naprawiali płoty, nosili węgiel starszym sąsiadom, odśnieżali chodniki, opiekowali się chorymi. Nie ujawniali się – zostawiali jedynie kartkę ze znakiem „Niewidzialnej Ręki”. O wykonanych zadaniach donosiły do telewizji osoby, którym pomożono, a nie sami wykonawcy.
+## W telewizji
+Następnie przeniosła się do telewizji: najpierw jako kącik dla młodych altruistów w „Ekranie z bratkiem” (1967–1977), magazynie prowadzonym przez Zimińskiego, a potem do „Teleranka”, który wchłonął ją razem z „Zrób to sam” Adama Słodowego i „Klubem Pancernych”.
 
-## Fenomen
-Do akcji włączyły się setki tysięcy dzieci w całym kraju, powstawały szkolne i podwórkowe drużyny, a listy do redakcji liczono workami. Dla wielu uczestników był to pierwszy kontakt z ideą działania wspólnotowego poza organizacją i poza przymusem.
+## Jak wywiad
+Żeby wciągnąć młodych ludzi do zadań bez żadnej nagrody, stworzono atmosferę misji wywiadowczej. Prowadzącego nie było widać – tylko jego sylwetkę – a program kończył się hasłem „Niewidzialna ręka to także ty”. Uczestnicy pomagali potrzebującym, zwłaszcza starszym i chorym, tak, by nikt ich nie zobaczył, a na miejscu zostawiali tylko znak odbitej dłoni. Akcja była sformalizowana: „niewidzialni” mieli karty rejestracyjne, składali meldunki do centrali i pisali raporty, z których część pokazywano na antenie. Można było działać samemu albo w grupie.
 
-## Kontekst
-Akcja działała w ramach oficjalnej telewizji i mieściła się w wychowawczych zadaniach mediów PRL, ale jej przesłanie – bezinteresowność bez rozgłosu – nie miało w sobie nic ideologicznego. To rzadki przykład programu z tamtej epoki, który daje się wspominać bez zastrzeżeń.
+## Skala
+Według szacunków w latach 1966–1981 zarejestrowało się około dwóch milionów „niewidzialnych”, a liczbę dobrych uczynków szacuje się na 8–10 milionów.
 
-## Znaczenie
-„Niewidzialna Ręka” jest dziś przywoływana jako jeden z najjaśniejszych fenomenów wychowawczych PRL, a próby jej reaktywacji podejmowano w telewizji jeszcze kilkakrotnie po 1989 roku.`,
-    trivia: ['Akcja zachęcała dzieci do anonimowego czynienia dobra.', 'Prowadzono ją w radiu przez wiele lat.'],
+## Koniec
+Program zdjęto z anteny na początku stanu wojennego – 13 grudnia 1981 roku przestał być nadawany cały „Teleranek”. Dla dzieci z tamtych lat brak „Teleranka” stał się synonimem stanu wojennego. W 2019 roku Maciej Wasielewski wydał książkę „Niewidzialna ręka”, a wcześniej powstał film dokumentalny Sławomira Malinowskiego.`,
+    trivia: [
+      'Akcja zaczęła się w 1957 roku na łamach harcerskiego „Świata Młodych”.',
+      'W latach 1966–1981 zarejestrowało się około dwóch milionów „niewidzialnych”.',
+      'Prowadzącego nie było widać – tylko sylwetkę – a program kończył się hasłem „Niewidzialna ręka to także ty”.',
+    ],
     resources: [
       {
         id: 'nr-1',
@@ -25154,23 +25170,27 @@ Wraz z upowszechnieniem Fiata 126p w latach 70. motocykl przestał być pierwszy
     summary: 'Kultowa komedia Sylwestra Chęcińskiego (1967) o dwóch zwaśnionych rodzinach – Kargulach i Pawlakach – przesiedlonych z Kresów na Ziemie Odzyskane.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/POL_Wac%C5%82aw_Kowalski_W%C5%82adys%C5%82aw_Ha%C5%84cza.jpg?width=800',
     imageCaption: 'Wacław Kowalski i Władysław Hańcza jako Pawlak i Kargul',
-    content: `## Film
-„Sami swoi” Sylwestra Chęcińskiego z 1967 roku powstały według scenariusza Andrzeja Mularczyka. Pawlaka zagrał Wacław Kowalski, Kargula – Władysław Hańcza. To pierwsza część trylogii, którą uzupełniły „Nie ma mocnych” (1974) i „Kochaj albo rzuć” (1977).
+    content: `## Z radia na ekran
+Pawlak i Kargul pojawili się po raz pierwszy w słuchowisku Polskiego Radia „I było święto”, które miało premierę 1 maja 1965 roku w reżyserii Andrzeja Łapickiego. Sukces słuchowiska sprawił, że dwa lata później Andrzej Mularczyk napisał na jego podstawie scenariusz filmu. Wyreżyserował go Sylwester Chęciński. To pierwsza część trylogii, którą uzupełniły „Nie ma mocnych” (1974) i „Kochaj albo rzuć” (1977).
 
-## Temat
-Bohaterami są dwie zwaśnione rodziny przesiedlone z Kresów na Ziemie Odzyskane. Spór o miedzę, ciągnący się jeszcze zza Buga, toczy się dalej w nowym miejscu, w cudzych, poniemieckich gospodarstwach, do których nikt nie czuje się do końca uprawniony.
+## Pierwowzory
+Pierwowzorem Kazimierza Pawlaka był Jan Mularczyk, stryj scenarzysty, który przyjechał z kresowej Boryczówki do Tymowy koło Ścinawy. Pierwowzorem Karguli była rodzina Dendrysów. Kresową gwarę dialogów Mularczyk opracował z wrocławskim językoznawcą Stanisławem Bąkiem.
 
-## Co pod komedią
-Za farsą kryje się doświadczenie milionów ludzi: przymusowe przesiedlenie, utrata domu i konieczność ułożenia życia wśród obcych. Komediowa forma pozwoliła opowiedzieć o tym w czasach, gdy o utracie Kresów i o wysiedleniach nie mówiło się wprost – cenzura przepuszczała żart tam, gdzie zatrzymałaby dramat.
+## Spór o miedzę
+Rodziny Pawlaków i Karguli kłóciły się już przed wojną – o miedzę zaoraną „o trzy palce za daleko” i krowę, która weszła w szkodę. Po zranieniu Kargula Jan Pawlak uciekł do Ameryki. Po wojnie obie rodziny, wysiedlone z Kresów, trafiają na Ziemie Odzyskane jako sąsiedzi. Za farsą kryje się doświadczenie milionów przesiedleńców: utrata domu i życie w cudzych, poniemieckich gospodarstwach.
 
-## Język
-„A bo to moja wina?”, „Sąsiad, kładź pan tę siekierę” i cała kresowa mowa bohaterów weszły do polszczyzny na trwałe. Film utrwalił w kulturze masowej sposób mówienia, który wraz z pokoleniem przesiedleńców zanikał.
+## Zdjęcia
+Główne role zagrali Wacław Kowalski (Pawlak) i Władysław Hańcza (Kargul). Sceny w zagrodach kręcono w Dobrzykowicach pod Wrocławiem, sceny w miasteczku – w Lubomierzu, gdzie działa dziś muzeum Kargula i Pawlaka.
+
+## Widzowie
+Premiera odbyła się 15 września 1967 roku. W pierwszych pokazach film obejrzało 8 milionów widzów. Publiczność czytała go też jako komedię wywrotową: Pawlak nie boi się nowej władzy i potrafi bez konsekwencji przemalować hasło „3 x TAK” na „3 x NIE”.
 
 ## Trwałość
-Zdjęcia kręcono w Lubomierzu na Dolnym Śląsku, gdzie działa dziś muzeum poświęcone filmowi. Trylogia jest regularnie powtarzana w telewizji i należy do najczęściej oglądanych polskich komedii w historii.`,
+Dialogi weszły do polszczyzny. W 2002 roku Polsat pokazał wersję skoloryzowaną w Hollywood, a w 2020 roku czarno-biały oryginał przeszedł cyfrową rekonstrukcję.`,
     trivia: [
-      'Za komediową farsą kryje się doświadczenie milionów przesiedleńców z Kresów.',
-      'Film utrwalił kresowy sposób mówienia, który wraz z pokoleniem przesiedleńców zanikał.',
+      'Pawlak i Kargul narodzili się w słuchowisku Polskiego Radia „I było święto” z 1965 roku.',
+      'Pierwowzorem Pawlaka był stryj scenarzysty Andrzeja Mularczyka.',
+      'W pierwszych pokazach „Samych swoich” obejrzało 8 milionów widzów.',
     ],
     resources: [
       {
@@ -29510,25 +29530,26 @@ Radio Luxembourg, obok Wolnej Europy w dziedzinie informacji, pokazuje, jak nies
     subtitle: 'Falk i Stuhr o karierze za wszelką cenę',
     category: 'kultura',
     tags: ['film', 'kino', 'moralny niepokój', 'satyra'],
-    yearStart: 1978,
+    yearStart: 1977,
     summary: 'Sztandarowy film kina moralnego niepokoju Feliksa Falka (1978); Jerzy Stuhr jako prowincjonalny wodzirej brnący po karierę przez donosy i podłość.',
     content: `## Film
-„Wodzirej” Feliksa Falka, zrealizowany w 1977 roku i pokazany rok później, należy do nurtu kina moralnego niepokoju. W roli głównej wystąpił Jerzy Stuhr jako Lutek Danielak – prowincjonalny wodzirej walczący o prowadzenie prestiżowego balu w nowym hotelu.
+„Wodzirej” Feliksa Falka z 1977 roku, nakręcony według autorskiego scenariusza reżysera, należy do nurtu kina moralnego niepokoju. Główną rolę – Lutka Danielaka – zagrał Jerzy Stuhr. Zdjęcia kręcono w Krakowie (ul. Wielopole, hala Wisły, Dębniki, hotel Cracovia) i w Łodzi, w nieistniejącym dziś Hotelu Centrum.
 
-## Mechanizm
-Bohater intryguje, donosi, poniża się i podkłada nogę konkurentom, wierząc, że jeden wieczór przy mikrofonie odmieni jego życie. Stawka jest śmiesznie mała, a środki nieproporcjonalnie brutalne – i na tym zderzeniu zbudowany jest cały film.
+## Fabuła
+Danielak stoi nisko w hierarchii konferansjerów wojewódzkiej Estrady: prowadzi przyjęcia dla dzieci i rencistów oraz zabawy szkolne, a mieszka kątem u kolegi z pracy, Romka. Z zawiści wobec starszych kolegów postanawia zdobyć prowadzenie prestiżowego balu na otwarcie hotelu „Lux”. Pisze anonimowe donosy, szantażuje konkurentów, zdradza przyjaciół – pogrąża także Romka. W końcu bal dostaje nie dzięki intrygom, ale dlatego, że dyrektor Wydziału Kultury dotrzymał danej wcześniej obietnicy. Podczas imprezy Romek, który poznał prawdę, publicznie uderza go w twarz.
 
-## Portret
-Falk opisuje nie tyle jednostkę, ile system, w którym awans zależy od układów, przysług i donosu, a nie od umiejętności. Danielak jest tego systemu produktem: cyniczny, ale w gruncie rzeczy przegrany, bo nawet wygrana niczego mu nie daje.
+## Portret systemu
+Falk opisuje nie tyle jednostkę, ile świat, w którym awans zależy od układów, przysług i donosu. Stawka jest śmiesznie mała – jeden wieczór przy mikrofonie – a środki nieproporcjonalnie brutalne. Aleksander Jackiewicz pisał, że film pokazuje biednych ludzi goniących za groszem i sukcesem w tandetnym świecie, przez który można się przebić tylko „wilczymi zębami”.
 
-## Rola Stuhra
-Kreacja Jerzego Stuhra – z jego charakterystycznym, nerwowym tempem mowy i uśmiechem gaszonym w pół sekundy – należy do najważniejszych w polskim kinie i na lata zdefiniowała typ bohatera-karierowicza. Film nagrodzono Złotymi Lwami na festiwalu w Gdańsku.
+## Stuhr
+Falk wybrał Stuhra, bo stawiał na autentyzm i intensywność – bohater miał być przerysowany, ale prawdopodobny. Kreacja Stuhra na lata zdefiniowała w polskim kinie typ karierowicza.
 
-## Znaczenie
-„Wodzirej” bywa czytany razem z „Barwami ochronnymi” Zanussiego i „Amatorem” Kieślowskiego jako trzy różne odpowiedzi na to samo pytanie: co robi z człowiekiem konieczność ustawienia się w systemie, którego się nie wybrało.`,
+## Nagrody
+Film zdobył Złote Grono na Lubuskim Lecie Filmowym w Łagowie, gdzie Falk, Stuhr i operator Edward Kłosiński otrzymali też nagrodę Don Kichota. Stuhra nagrodzono za tę rolę na festiwalu w Chicago.`,
     trivia: [
-      'Stawką w filmie jest prowadzenie jednego balu, a środki, jakich używa bohater, są nieproporcjonalnie brutalne.',
-      'Rola Lutka Danielaka na lata zdefiniowała w polskim kinie typ bohatera-karierowicza.',
+      'Danielak dostaje wymarzony bal nie dzięki intrygom, lecz dlatego, że dyrektor dotrzymał obietnicy.',
+      'Zdjęcia kręcono m.in. w krakowskim hotelu Cracovia i nieistniejącym łódzkim Hotelu Centrum.',
+      'Jerzy Stuhr został nagrodzony za rolę Danielaka na festiwalu w Chicago.',
     ],
     resources: [
       {
@@ -36477,7 +36498,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1963, event: 'Filipinki – „Batumi” i pierwszy polski girlsband', category: 'kultura', entryId: 'filipinki' },
   { year: 1949, event: 'Tworzenie Państwowych Gospodarstw Rolnych (PGR)', category: 'gospodarka', entryId: 'pgr' },
   { year: 1973, event: 'Premiera „Nagiej” Niebiesko-Czarnych – pierwszej polskiej opery rockowej', category: 'kultura', entryId: 'niebiesko-czarni' },
-  { year: 1978, event: 'Premiera „Wodzireja” Feliksa Falka', category: 'kultura', entryId: 'wodzirej' },
+  { year: 1977, event: '„Wodzirej” Feliksa Falka z Jerzym Stuhrem', category: 'kultura', entryId: 'wodzirej' },
   { year: 1964, event: 'Kasia Sobczyk wygrywa w Opolu piosenką „O mnie się nie martw”', category: 'kultura', entryId: 'kasia-sobczyk' },
   { year: 1966, event: 'Franciszek Pieczka jako Gustlik w „Czterech pancernych i psie”', category: 'kultura', entryId: 'franciszek-pieczka' },
   { year: 1976, event: 'Premiera komedii „Brunet wieczorową porą” Stanisława Barei', category: 'kultura', entryId: 'brunet-wieczorowa-pora' },
@@ -36599,7 +36620,7 @@ export const timelineEvents: { year: number; event: string; category: string; en
   { year: 1955, event: 'Otwarcie Pałacu Kultury i Nauki w Warszawie', category: 'społeczeństwo', entryId: 'palac-kultury' },
   { year: 1956, event: 'Powstanie Klubów Inteligencji Katolickiej', category: 'społeczeństwo', entryId: 'kik' },
   { year: 1956, event: 'Mała stabilizacja – codzienność epoki Gomułki', category: 'społeczeństwo', entryId: 'mala-stabilizacja' },
-  { year: 1957, event: 'Start radiowej akcji „Niewidzialna Ręka”', category: 'społeczeństwo', entryId: 'niewidzialna-reka' },
+  { year: 1957, event: 'Akcja „Niewidzialna Ręka” startuje na łamach „Świata Młodych”', category: 'społeczeństwo', entryId: 'niewidzialna-reka' },
   { year: 1958, event: 'Akcja „Tysiąc szkół na Tysiąclecie”', category: 'społeczeństwo', entryId: 'szkoly-tysiaclecia' },
   { year: 1954, event: 'W Kielcach rusza produkcja pralki Frania', category: 'społeczeństwo', entryId: 'frania-pralka' },
   { year: 1959, event: 'Rusza produkcja samochodów dostawczych Nysa', category: 'społeczeństwo', entryId: 'nysa-zuk' },
