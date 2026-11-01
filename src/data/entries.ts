@@ -16250,21 +16250,25 @@ W 1984 roku, po stanie wojennym, kabaret zmienił nazwę na Teyatr, a jego popul
     summary: 'Wielki stadion w Warszawie otwarty w 1955 roku, miejsce defilad, imprez masowych i dramatycznego protestu Ryszarda Siwca.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Warszawa-Stadion_Dziesieciolecia-2006.jpg?width=800',
     imageCaption: 'Stadion Dziesięciolecia w 2006 roku, w czasach Jarmarku Europa',
-    content: `## Budowa
-Stadion Dziesięciolecia otwarto 22 lipca 1955 roku, w rocznicę manifestu PKWN. Nasyp usypano z gruzu zburzonej Warszawy, zwożonego na prawy brzeg Wisły; obiekt mieścił ponad siedemdziesiąt tysięcy widzów i był największym w kraju.
+    content: `## Jedenaście miesięcy
+Stadion Dziesięciolecia Manifestu Lipcowego zaprojektował zespół Jerzego Hryniewieckiego, Zbigniewa Ihnatowicza i Jerzego Sołtana, zwycięzców konkursu z 1953 roku. Budowę przyspieszyła decyzja o organizacji w Warszawie V Światowego Festiwalu Młodzieży i Studentów w 1955 roku. Prace ruszyły w sierpniu 1954 roku; Sołtan i Ihnatowicz odeszli w proteście przeciw socrealistycznym zmianom w projekcie. Koronę stadionu i wał pod trybuny usypano z gruzu zburzonej Warszawy.
 
-## Imprezy masowe
-Odbywały się tu dożynki centralne, wiece, zawody lekkoatletyczne, mecze i zloty młodzieżowe. Stadion miał być wizytówką Polski Ludowej – miejscem, w którym państwo pokazywało samo sobie własną sprawność organizacyjną.
+## Otwarcie
+Stadion otwarto 22 lipca 1955 roku, w 11. rocznicę Manifestu PKWN, po zaledwie 11 miesiącach budowy. W meczu inauguracyjnym reprezentacja Warszawy przegrała 1:2 z Katowicami, noszącymi wtedy nazwę Stalinogród. Drewniane ławki mieściły 71 008 osób, ale na największych imprezach zasiadało prawie 100 tysięcy widzów. Szatnie były tak daleko od boiska, że przerwa w meczu trwała pół godziny.
 
-## Protest Ryszarda Siwca
-8 września 1968 roku, podczas dożynek oglądanych przez stutysięczny tłum i kierownictwo partii, Ryszard Siwiec oblał się rozpuszczalnikiem i podpalił w proteście przeciw udziałowi Wojska Polskiego w inwazji na Czechosłowację. Zmarł cztery dni później. Sprawę zatuszowano, a nagranie z kroniki filmowej ukryto w archiwum na ponad dwadzieścia lat.
+## Siwiec
+8 września 1968 roku, podczas dożynek z udziałem kierownictwa PZPR i 100 tysięcy widzów, 59-letni księgowy z Przemyśla Ryszard Siwiec podpalił się w proteście przeciw inwazji na Czechosłowację. Płonąc, krzyczał „Protestuję!”. Zmarł po czterech dniach. Media milczały, a zdjęcia Polskiej Kroniki Filmowej utajniono – pokazał je dopiero w 1991 roku Maciej Drygas w filmie „Usłyszcie mój krzyk”.
 
-## Schyłek
-Od lat 70. obiekt niszczał, w latach 80. wyłączono go z użytku. Po 1989 roku na jego płycie i nasypach powstał Jarmark Europa – największe targowisko Europy Środkowej, z tysiącami stoisk i obrotem liczonym w miliardach.
+## Wiece i msza
+28 czerwca 1976 roku, po wydarzeniach radomskich, odbył się tu wiec poparcia dla Edwarda Gierka. 17 czerwca 1983 roku mszę na stadionie odprawił Jan Paweł II. Dwa miesiące wcześniej, 17 kwietnia 1983 roku, reprezentacja zagrała tu ostatni mecz – 1:1 z Finlandią. Potem obiekt niszczał.
 
-## Znaczenie
-Rozebrany w 2008 roku, ustąpił miejsca Stadionowi Narodowemu, otwartemu w 2012. Jego historia – od gruzu przez propagandowe święta i samospalenie po bazar – układa się w skrót dziejów całej epoki.`,
-    trivia: ['Zbudowano go z gruzów zniszczonej Warszawy.', 'To tu w 1968 roku samospalił się Ryszard Siwiec.'],
+## Jarmark Europa
+W latach 1989–2008 na stadionie działało największe targowisko w Europie – Jarmark Europa. W jego miejscu stanął Stadion Narodowy im. Kazimierza Górskiego.`,
+    trivia: [
+      'Stadion zbudowano w 11 miesięcy, a nasyp usypano z gruzu zburzonej Warszawy.',
+      'Szatnie były tak daleko od boiska, że przerwa w meczu trwała pół godziny.',
+      '17 czerwca 1983 roku mszę na stadionie odprawił Jan Paweł II.',
+    ],
     resources: [
       {
         id: 'sd-2',
@@ -17011,21 +17015,25 @@ Od lat 70. Grotowski porzucił przedstawienia na rzecz parateatru i „teatru ź
     yearStart: 1948,
     yearEnd: 1989,
     summary: 'Sport żużlowy był jedną z najpopularniejszych dyscyplin w PRL, gromadząc tłumy kibiców i przynosząc Polsce światowe sukcesy.',
-    content: `## Fenomen popularności
-Żużel był w PRL sportem masowym w skali, jakiej dziś trudno sobie wyobrazić: mecze ligowe oglądało po kilkanaście, a finały nawet sto tysięcy widzów. Wstęp był tani, tor blisko domu, a zawodnicy pracowali na co dzień w tych samych zakładach co kibice.
+    content: `## Sport masowy
+Żużel był w PRL jedną z najpopularniejszych dyscyplin. Stadiony w Lesznie, Gorzowie, Rybniku, Wrocławiu, Bydgoszczy, Częstochowie, Zielonej Górze czy Opolu wypełniały się tłumami. Wstęp był tani, tor blisko domu, a przynależność klubowa – elementem lokalnej tożsamości. Mecz był wyjściem całych rodzin i jedną z niewielu masowych rozrywek w mniejszych miastach.
 
-## Sukcesy
-Jerzy Szczakiel został w 1973 roku indywidualnym mistrzem świata, wygrywając finał na Stadionie Śląskim w dodatkowym biegu z Ivanem Maugerem – wobec stutysięcznej publiczności. Wcześniej polskie drużyny sięgały po medale mistrzostw świata, a Zenon Plech i Andrzej Wyglenda należeli do światowej czołówki.
+## Drużynowe złota
+Polska była w latach 60. jedną z dwóch potęg światowego żużla obok Szwecji. Reprezentacja zdobyła drużynowe mistrzostwo świata w 1961, 1965, 1966 i 1969 roku. Finał w 1966 roku odbył się na Stadionie Olimpijskim we Wrocławiu, a złoto wywalczyli m.in. Marian Rose, Andrzej Wyglenda i Antoni Woryna.
 
-## Kluby i rywalizacja
-Drużyny z Wrocławia, Bydgoszczy, Częstochowy, Zielonej Góry, Rzeszowa, Leszna i Gorzowa toczyły zacięte boje, a przynależność klubowa była elementem lokalnej tożsamości. Derby ściągały całe miasta.
+## Szczakiel 1973
+2 września 1973 roku na Stadionie Śląskim w Chorzowie Jerzy Szczakiel z Kolejarza Opole – zawodnik bez wielkich sukcesów indywidualnych – zakończył finał indywidualnych mistrzostw świata z 13 punktami, tyle samo co utytułowany Nowozelandczyk Ivan Mauger. O tytule zdecydował bieg dodatkowy. Mauger źle wystartował, zaatakował od wewnętrznej i upadł, a Szczakiel objechał ostatnie dwa okrążenia i został pierwszym polskim indywidualnym mistrzem świata. Następny Polak – Tomasz Gollob – powtórzył to dopiero w 2010 roku. Dwa lata wcześniej, w 1971 roku w Rybniku, Szczakiel i Wyglenda zdobyli mistrzostwo świata par.
 
-## Społeczna rola
-Mecz żużlowy był wydarzeniem towarzyskim: wyjściem całych rodzin, okazją do spotkania i jedną z niewielu form masowej rozrywki dostępnej w mniejszych miastach. Zaplecze sportu było robotnicze, a warsztaty klubowe działały przy fabrykach.
+## Super-Zenon
+Największą gwiazdą lat 70. i 80. był Zenon Plech ze Stali Gorzów, potem Wybrzeża Gdańsk – pięciokrotny mistrz Polski i dwukrotny medalista indywidualnych mistrzostw świata (brąz w 1973, srebro w 1979, oba w Chorzowie). Jako jeden z nielicznych Polaków jeździł w lidze brytyjskiej, gdzie nazywano go Golden Boy.
 
 ## Znaczenie
-Żużel przetrwał zmianę ustroju lepiej niż większość dyscyplin PRL i pozostaje sportem, w którym Polska należy do światowej czołówki, z ligą uznawaną za najsilniejszą na świecie.`,
-    trivia: ['Żużel gromadził na stadionach dziesiątki tysięcy widzów.', 'Polska należała do światowych potęg tej dyscypliny.'],
+Żużel przetrwał zmianę ustroju lepiej niż większość dyscyplin PRL. Polska liga uchodzi dziś za najsilniejszą na świecie.`,
+    trivia: [
+      'Reprezentacja Polski zdobyła drużynowe mistrzostwo świata na żużlu w 1961, 1965, 1966 i 1969 roku.',
+      'Jerzy Szczakiel został mistrzem świata w 1973 roku po biegu dodatkowym, w którym upadł Ivan Mauger.',
+      'Zenon Plech jeździł w lidze brytyjskiej, gdzie nazywano go Golden Boy.',
+    ],
     resources: [
       {
         id: 'zuzel-prl-pkf',
@@ -22419,26 +22427,33 @@ Władze nie zdecydowały się wykonać kary. Proces, przeciw któremu protestowa
     subtitle: 'Głos polskiego sportu',
     category: 'osoby',
     tags: ['sport', 'telewizja', 'media', 'lata 70.'],
-    yearStart: 1955,
+    yearStart: 1952,
     yearEnd: 1982,
     summary: 'Legendarny komentator sportowy, którego emocjonalne relacje z meczów „Orłów Górskiego” współtworzyły wielkie chwile polskiego sportu.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Ciszewski.JPG?width=800',
     imageCaption: 'Jan Ciszewski, około 1975',
-    content: `## Sylwetka
-Jan Ciszewski (1930–1982) zaczynał w Katowicach, a od lat 60. był głównym komentatorem sportowym Telewizji Polskiej. W czasach, gdy transmisja z ważnego meczu była jednym z nielicznych wspólnych przeżyć całego kraju, jego głos znali wszyscy.
+    content: `## Z Sosnowca
+Jan Ciszewski urodził się 22 maja 1930 roku w Sosnowcu, zmarł 12 listopada 1982 roku w Warszawie. Jako nastolatek uprawiał żużel, ale wypadek przerwał karierę – utykał na prawą nogę, krótszą o 12 centymetrów. Po szkole zaczął komentować mecze lokalnej drużyny przez stadionowe megafony.
+
+## Katowice i Warszawa
+W 1952 roku zaczął pracę w Radiu Katowice, a cztery lata później w katowickiej telewizji. Szerzej dostrzeżono go podczas zawodów żużlowych w Częstochowie. Przez kilka lat był zawieszony za hazard – wyścigi konne i karty – i pracował wtedy jako konferansjer estradowy; musiał też zdać maturę, bo zaczynał bez ukończonej szkoły średniej. Od 1972 roku pracował w Naczelnej Redakcji Programów Sportowych TVP w Warszawie.
+
+## Wielkie mecze
+Komentował przede wszystkim piłkę nożną w czasach największych sukcesów reprezentacji: mecz na Wembley w 1973 roku, mistrzostwa świata 1974, 1978 i 1982 oraz występy Górnika Zabrze w europejskich pucharach – sam był kibicem Górnika. Relacjonował też igrzyska w Monachium, Montrealu i Moskwie.
 
 ## Styl
-Komentował emocjonalnie, z podniesionym głosem i wyraźnym kibicowaniem polskim zawodnikom – dziś byłoby to uznane za brak dystansu, wtedy było normą i podstawą jego popularności. Sypał liczbami i nazwiskami z pamięci, bo statystyk pod ręką nie było.
+Mówił emocjonalnie, z podniesionym głosem i otwartym kibicowaniem Polakom. Dziś uznano by to za brak dystansu; wtedy było to normą i podstawą jego popularności. W filmie „Mysz” z 1979 roku uczeń parodiuje jego komentarz.
 
-## Wielkie chwile
-Prowadził relacje z igrzysk w Monachium (1972), mistrzostw świata w RFN (1974), meczów drużyny Górskiego, walk bokserskich i turniejów siatkarskich, w tym mistrzostwa świata siatkarzy w 1974 roku i złota olimpijskiego w Montrealu (1976).
+## Ostatni mundial
+Na mistrzostwa świata w Hiszpanii w 1982 roku wyjechał już ciężko chory na raka. Mecz o trzecie miejsce Polska–Francja był jego ostatnią relacją z meczu reprezentacji, a finał – ostatnią w ogóle. Zmarł kilka miesięcy później.
 
-## Wembley 1973
-Jego relacja z remisu 1:1 na Wembley 17 października 1973 roku, po którym Polska pojechała na mistrzostwa świata, a Anglia została w domu, jest najczęściej przywoływanym nagraniem w historii polskiego dziennikarstwa sportowego – razem z okrzykami pod adresem broniącego Jana Tomaszewskiego.
-
-## Znaczenie
-Zmarł w 1982 roku, w wieku pięćdziesięciu dwóch lat, u szczytu popularności. Ustanowił wzorzec komentarza, do którego kolejne pokolenia sprawozdawców odnosiły się przez następne dekady – przyjmując go albo świadomie odrzucając.`,
-    trivia: ['Legendarny komentator sportowy telewizji PRL.', 'Komentował m.in. mundial 1974 i igrzyska olimpijskie.'],
+## Teczka
+Z dokumentów IPN wynika, że był osobowym źródłem informacji MO i SB, które interesowały się nim z powodu hazardu i wyjazdów na Zachód. SB w końcu zrezygnowała z jego usług, uznając go za nieszczerego.`,
+    trivia: [
+      'Jako nastolatek jeździł na żużlu; po wypadku utykał na nogę krótszą o 12 centymetrów.',
+      'Finał mistrzostw świata 1982 był ostatnim meczem, jaki skomentował.',
+      'W latach 1983–2005 rozgrywano żużlowy Memoriał Jana Ciszewskiego.',
+    ],
     resources: [
       {
         id: 'ciszewski-jan-yt-m9',
@@ -22852,21 +22867,25 @@ Pokolenie Bońka, Laty, Smolarka, Szarmacha i Młynarczyka zamknęło najlepszy 
     summary: 'Jeden z najwybitniejszych polskich piłkarzy, gwiazda mundialu 1982 i Juventusu Turyn, z którym zdobył Puchar Europy.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Zbigniew_Boniek_2015.jpg?width=800',
     imageCaption: 'Zbigniew Boniek (fot. współczesna)',
-    content: `## Sylwetka
-Zbigniew Boniek (ur. 1956 w Bydgoszczy) zaczynał w Zawiszy Bydgoszcz, a w 1975 roku przeszedł do Widzewa Łódź. Był piłkarzem szybkim, silnym fizycznie i skutecznym – grał zarówno jako napastnik, jak i ofensywny pomocnik.
+    content: `## Z Bydgoszczy do Łodzi
+Zbigniew Boniek urodził się 3 marca 1956 roku w Bydgoszczy jako syn byłego piłkarza Zawiszy i Polonii Bydgoszcz. Był wychowankiem Zawiszy, a w 1975 roku przeszedł do Widzewa Łódź. Z Widzewem zdobył mistrzostwo Polski w 1981 i 1982 roku, rozgrywając w klubie 172 mecze ligowe i strzelając 50 bramek.
 
-## Widzew i reprezentacja
-Z Widzewem zdobył mistrzostwo Polski w 1981 i 1982 roku, a w europejskich pucharach eliminował m.in. Manchester United i Juventus – co zwróciło na niego uwagę zachodnich klubów. W reprezentacji debiutował w 1976 roku i zagrał na trzech mistrzostwach świata.
+## Reprezentacja
+W kadrze zadebiutował 24 marca 1976 roku pod wodzą Kazimierza Górskiego w meczu z Argentyną. Na mundialu w Argentynie w 1978 roku strzelił dwa gole Meksykowi. W 1980 roku, po tzw. aferze na Okęciu, został zawieszony w prawach reprezentanta, ale szybko wrócił do kadry.
 
-## Mundial 1982
-W Hiszpanii był gwiazdą turnieju: trzy bramki w meczu z Belgią, wybór do drużyny mistrzostw, a potem transfer do Juventusu. W półfinale nie zagrał przez kartkę – jego nieobecność uchodzi za jedną z przyczyn porażki z Włochami.
+## Hiszpania 1982
+Na mistrzostwach świata w Hiszpanii był liderem drużyny. Strzelił hat tricka Belgii. W meczu ze Związkiem Radzieckim dostał drugą żółtą kartkę i pauzował w półfinale z Włochami, przegranym 0:2. Wrócił na mecz o trzecie miejsce, wygrany 3:2 z Francją. Wybrano go do drużyny gwiazd turnieju, a w plebiscycie „France Football” zajął trzecie miejsce – jako drugi Polak po Kazimierzu Deynie. Został też sportowcem roku w plebiscycie „Przeglądu Sportowego”.
 
-## Juventus i Roma
-W Turynie grał u boku Michela Platiniego, zdobywając Puchar Zdobywców Pucharów (1984) i Puchar Europy (1985 – finał na Heysel, rozegrany po katastrofie, w której zginęło 39 osób). Gianni Agnelli nazwał go „Bello di notte”, pięknym nocą, za formę w meczach pucharowych rozgrywanych wieczorami. Od 1985 roku grał w Romie.
+## Juventus
+Kontrakt z Juventusem podpisał 30 kwietnia 1982 roku. Obok Paolo Rossiego i Michela Platiniego był filarem drużyny, która zdobyła Puchar Zdobywców Pucharów (1984) i Puchar Europy (1985). Finał na Heysel w Brukseli poprzedziły zamieszki, w których zginęło 39 kibiców. Następnego dnia Boniek strzelił w Tiranie zwycięskiego gola dla reprezentacji w meczu z Albanią. Nazywano go „Pięknością nocy”, bo najlepiej grał w meczach przy sztucznym świetle.
 
-## Znaczenie
-Był pierwszym polskim piłkarzem, który wygrywał najważniejsze trofea klubowe Europy, a nie tylko błyszczał w reprezentacji. Po karierze pracował jako trener, a w latach 2012–2021 był prezesem PZPN.`,
-    trivia: ['Na mundialu 1982 strzelił trzy gole w jednym meczu z Belgią.', 'Grał później w Juventusie i Romie.'],
+## Roma i dalej
+W lipcu 1985 roku przeszedł do AS Roma, z którą w 1986 roku zdobył Puchar Włoch. Na mundial w Meksyku w 1986 roku pojechał jako kapitan; karierę zakończył w 1988 roku. W latach 2012–2021 był prezesem PZPN.`,
+    trivia: [
+      'Przez kartki nie zagrał w półfinale mundialu 1982 z Włochami, przegranym 0:2.',
+      'Dzień po finale na Heysel strzelił w Tiranie zwycięskiego gola dla reprezentacji Polski.',
+      'W 1982 roku zajął trzecie miejsce w plebiscycie „France Football” – jako drugi Polak po Deynie.',
+    ],
     resources: [
       {
         id: 'boniek-zbigniew-yt-m9',
@@ -23108,21 +23127,28 @@ Od 1981 roku był profesorem Harvardu. Przełożył niemal całego Szekspira, an
     summary: 'Pracownicze ogrody działkowe – masowy fenomen PRL, dający mieszkańcom blokowisk własny skrawek ziemi na warzywa, owoce i wypoczynek.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gardens_-_panoramio.jpg?width=800',
     imageCaption: 'Ogródki działkowe',
-    content: `## Fenomen
-Pracownicze Ogrody Działkowe były w PRL zjawiskiem masowym: kilkaset tysięcy niewielkich działek na obrzeżach miast, przydzielanych przez zakłady pracy. Dla rodziny z ciasnego bloku była to jedyna dostępna forma posiadania kawałka ziemi.
+    content: `## Korzenie
+Pierwszy ogród działkowy w Polsce – „Kąpiele Słoneczne” – założył w 1897 roku w Grudziądzu doktor Jan Jalkowski. Po wojnie ogrody stały się zjawiskiem masowym. Dekret z 25 czerwca 1946 roku nadał im charakter instytucji użyteczności publicznej, a ustawa z 9 marca 1949 roku o pracowniczych ogrodach działkowych zastrzegła je dla „ludzi pracy”.
+
+## Pracownicze Ogrody Działkowe
+Działki na obrzeżach miast przydzielano przez zakłady pracy i związki zawodowe. Dla rodziny z ciasnego mieszkania w bloku była to jedyna dostępna forma posiadania kawałka ziemi. Listy oczekujących bywały długie, a dobra działka była przedmiotem starań i znajomości.
 
 ## Funkcja
-Działka miała sens praktyczny: warzywa, owoce i przetwory realnie odciążały domowy budżet w gospodarce niedoboru, zwłaszcza w latach 80., gdy w sklepach brakowało wszystkiego. Jednocześnie była miejscem wypoczynku – z altaną, leżakiem i niedzielnym obiadem.
+Działka miała sens praktyczny: warzywa, owoce i przetwory odciążały domowy budżet w gospodarce niedoboru, zwłaszcza w latach 80. Była też miejscem wypoczynku – z altaną, leżakiem i niedzielnym obiadem.
 
-## Organizacja
-Podstawy prawne dała ustawa z 1949 roku, a w 1981 powstał Polski Związek Działkowców, zrzeszający ogrody w całym kraju. Przydział szedł przez zakład pracy i związki zawodowe, listy oczekujących bywały wieloletnie, a dobra działka była przedmiotem starań i znajomości.
+## Polski Związek Działkowców
+Ustawa z 6 maja 1981 roku o pracowniczych ogrodach działkowych powołała Polski Związek Działkowców, który powstał 8 czerwca 1981 roku. Dała mu wyłączność na zakładanie i prowadzenie ogrodów – monopol, który przetrwał do 2014 roku.
 
 ## Kultura działkowa
-Wokół ogrodów wytworzył się osobny obyczaj: konkursy na najładniejszą działkę, altanki budowane z materiałów „zdobytych” w pracy, wymiana sadzonek i sąsiedzkie życie towarzyskie z własnymi hierarchiami i konfliktami o miedzę.
+Wokół ogrodów wytworzył się osobny obyczaj: konkursy na najładniejszą działkę, altanki budowane z materiałów „zdobytych” w pracy, wymiana sadzonek, sąsiedzkie życie towarzyskie z własnymi hierarchiami i sporami o miedzę.
 
-## Znaczenie
-Ogrody przetrwały zmianę ustroju i wciąż zajmują tysiące hektarów w polskich miastach, choć dziś toczą się o nie spory z deweloperami. To jeden z najtrwalszych elementów codzienności PRL, który nie zniknął razem z systemem.`,
-    trivia: ['Działka dawała warzywa i owoce w czasach niedoboru.', 'Altanki budowano najczęściej własnym sumptem.'],
+## Po 1989 roku
+W 2005 roku pracownicze ogrody przemianowano na rodzinne. Dziś w Polsce jest prawie 5 tysięcy ogrodów działkowych na blisko 44 tysiącach hektarów, z około 966 tysiącami działek – to jeden z najtrwalszych elementów codzienności PRL.`,
+    trivia: [
+      'Pierwszy polski ogród działkowy założył w 1897 roku w Grudziądzu doktor Jan Jalkowski.',
+      'Ustawa z 1949 roku zastrzegała ogrody działkowe dla „ludzi pracy”.',
+      'Polski Związek Działkowców miał wyłączność na zakładanie ogrodów od 1981 do 2014 roku.',
+    ],
     resources: [
       {
         id: 'ogr-1',
@@ -24773,22 +24799,22 @@ Prywatka, czyli domowa impreza z muzyką z płyt i taśm, była podstawową form
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Obwieszczenie_o_przeprowadzeniu_poboru_m%C4%99%C5%BCczyzn_rocznika_1927.jpg?width=800',
     imageCaption: 'Obwieszczenie o poborze mężczyzn rocznika 1927, 1948',
     content: `## Obowiązek
-Zasadnicza służba wojskowa była w PRL powszechnym obowiązkiem mężczyzn. Zdolnych do służby powoływano na dwa lata do wojsk lądowych, lotnictwa i Wojsk Obrony Powietrznej Kraju, a do marynarki wojennej – na trzy lata. Skrócono ją do półtora roku dopiero w 1990 roku.
+Zasadnicza służba wojskowa była w PRL powszechnym obowiązkiem mężczyzn. Uznanych przez komisję lekarską za zdolnych powoływano na dwa lata do wojsk lądowych, lotnictwa i Wojsk Obrony Powietrznej Kraju, a do marynarki wojennej – na trzy lata. Służbę odbywało się w jednym nieprzerwanym okresie. Skrócono ją do półtora roku dopiero w 1990 roku, a pobór zawieszono w 2009 roku.
 
 ## Codzienność
-Życie w jednostce oznaczało koszary, musztrę, prace porządkowe i szkolenie polityczne. Poborowi często wykonywali też prace gospodarcze niezwiązane z wyszkoleniem, a wojsko pomagało przy żniwach i na budowach.
+Życie w jednostce oznaczało koszary, musztrę, prace porządkowe i szkolenie polityczne. Poborowi wykonywali też prace gospodarcze niezwiązane z wyszkoleniem, a wojsko pomagało przy żniwach i na budowach.
 
 ## Fala
-Nieformalna hierarchia starszych roczników nad młodszymi, zwana falą, była zjawiskiem powszechnym i w praktyce tolerowanym przez kadrę. Przybierała formy od upokarzających rytuałów po przemoc fizyczną, a skargi rzadko przynosiły skutek.
+W Ludowym Wojsku Polskim funkcjonowała fala – nieformalna hierarchia oparta na stażu służby. Starsze roczniki – „dziadkowie”, czyli „rezerwa”, i stojąca niżej „wicerezerwa” – stawały się nieformalnymi przełożonymi rekrutów, nazywanych „kotami” albo „młodym wojskiem”. Rekrut teoretycznie mógł wybrać, czy „idzie regulaminowo”, czy „falowo”, ale w praktyce fala wymuszała usługiwanie starszym, a dawała im przyzwolenie na agresywne, sadystyczne i poniżające praktyki. Kadra w praktyce ją tolerowała.
 
 ## Wojsko jako kara
-Pobór bywał narzędziem represji. Po Marcu 1968 roku relegowanych z uczelni studentów powoływano do wojska, a powołanie wisiało też nad każdym, kto przerwał studia, bo z utratą statusu studenta tracił odroczenie. W jednostkach prowadzono szkolenie ideologiczne i obserwowano nastroje żołnierzy.
+Pobór bywał narzędziem represji. Po Marcu 1968 roku relegowanych studentów powoływano do wojska. Z utratą statusu studenta traciło się odroczenie, więc powołanie wisiało nad każdym, kto przerwał studia. W jednostkach obserwowano nastroje żołnierzy.
 
 ## Obrzęd przejścia
-Dla kilku pokoleń mężczyzn „woja” była wspólnym doświadczeniem – od wezwania z WKU, przez przysięgę, po odliczanie dni do cywila. Wiele z tego weszło do języka i kultury, choćby w filmach o wojsku.`,
+Dla kilku pokoleń mężczyzn wojsko było wspólnym doświadczeniem – od wezwania z WKU, przez przysięgę, po odliczanie dni do cywila. Słownictwo fali i wojskowy żargon weszły do języka potocznego.`,
     trivia: [
       'Służba w marynarce wojennej trwała trzy lata zamiast dwóch.',
-      'Zasadniczą służbę skrócono do półtora roku dopiero w 1990 roku.',
+      'W żargonie fali rekrutów nazywano „kotami”, a najstarszy rocznik – „dziadkami” albo „rezerwą”.',
       'Po Marcu 1968 roku relegowanych studentów powoływano do wojska.',
     ],
     resources: [
@@ -28495,25 +28521,32 @@ Skrzynecki zmarł w 1997 roku, a jego pogrzeb zgromadził tłumy na krakowskim R
     subtitle: 'Węgierskie autobusy na polskich ulicach',
     category: 'społeczeństwo',
     tags: ['technika', 'komunikacja', 'transport', 'RWPG', 'życie codzienne'],
-    yearStart: 1970,
+    yearStart: 1974,
     yearEnd: 1989,
     summary: 'Węgierskie Ikarusy były w PRL podstawą komunikacji miejskiej i dalekobieżnej; przegubowy Ikarus 280 stał się najbardziej rozpoznawalnym autobusem epoki.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ikarus%20280.jpg?width=800',
     imageCaption: 'Przegubowy Ikarus 280.',
-    content: `## Skąd się wzięły
-Ikarusy sprowadzano z Węgier w ramach podziału produkcji w RWPG: kraje bloku specjalizowały się w wybranych wyrobach i wymieniały je między sobą, a autobusy przypadły Węgrom. Import na tak dużą skalę oznaczał, że polskie miasta jeździły sprzętem, na którego konstrukcję nie miały wpływu, ale też że nie musiały budować własnych mocy produkcyjnych.
+    content: `## Z Budapesztu
+Ikarus był węgierskim producentem autobusów z siedzibą w Budapeszcie i fabryką w Székesfehérvárze. W 1971 roku wyprodukował stutysięczny autobus, a w 1973 roku był czwartym producentem autobusów na świecie. Eksportował do całego bloku wschodniego, na Kubę, do Chin i Egiptu; największym odbiorcą były Niemcy.
 
-## Modele
-Podstawą były Ikarus 260 – autobus jednoczłonowy – oraz przegubowy Ikarus 280, zdolny zabrać ponad sto pięćdziesiąt osób. Ten drugi stał się najbardziej rozpoznawalnym autobusem epoki, obsługującym najbardziej obciążone linie w dużych miastach.
+## RWPG
+Węgierskie autobusy trafiały do Polski w ramach wymiany w RWPG, gdzie kraje bloku specjalizowały się w wybranych wyrobach. Polskie miasta jeździły więc sprzętem, na którego konstrukcję nie miały wpływu.
+
+## Ikarus 280
+Najbardziej rozpoznawalny był przegubowy Ikarus 280. Pierwsze 15 egzemplarzy – w wersji przeznaczonej na rynek NRD – trafiło w 1974 roku do WPK Katowice. Regularny import ruszył w 1978 roku: w latach 1978–1979 do Warszawy dostarczono 400 autobusów wersji 280.11, a do Katowic około 300. Eksploatacja ujawniła wady, więc na prośbę polskich przewoźników producent przygotował zmodernizowaną wersję 280.26 z kabiną kierowcy i większymi klapami dachowymi – w Polsce od 1979 roku. W latach 1985–1987 do PKS trafiała wersja podmiejska 280.53.
+
+## Składanie i łatanie
+W latach 1988–1992 w warsztatach MZK Warszawa i w Lublinie zmontowano 140 Ikarusów 280.T4 – z jednoczłonowych 260 doczepiano tylną sekcję skasowanego „przegubowca”. Import 280.26 skończył się w 1992 roku; ostatnie egzemplarze składano w Mikołowie-Jamnie z regenerowanych części.
 
 ## Obok Jelcza
-Ikarusy nie miały monopolu: równolegle jeździły polskie Jelcze, w tym Jelcz 043 – licencyjna odmiana czechosłowackiej Škody 706 RTO, którą ze względu na kształt nadwozia nazywano „ogórkiem”. To Jelczowi, a nie Ikarusowi, należy się ten przydomek, choć w potocznej pamięci bywa on przypisywany obu.
+Ikarusy nie miały monopolu. Jelczańskie Zakłady Samochodowe produkowały w latach 1959–1986 autobus Jelcz 043 – licencyjną odmianę czechosłowackiej Škody 706 RTO. To on, a nie Ikarus, był „ogórkiem”.
 
 ## Codzienność
-Autobus był w PRL środkiem transportu podstawowym, nie uzupełniającym: przy niskiej motoryzacji indywidualnej dojazd do pracy oznaczał dla większości ludzi tłok w komunikacji miejskiej albo w dalekobieżnym PKS. Stan taboru i częstotliwość kursów były więc sprawą codziennego życia, a nie techniczną ciekawostką.`,
+Przy niskiej motoryzacji indywidualnej autobus był podstawowym środkiem transportu: dojazd do pracy oznaczał tłok w komunikacji miejskiej albo w PKS.`,
     trivia: [
-      'Przydomek „ogórek” należał się polskiemu Jelczowi 043, licencyjnej odmianie Škody 706 RTO, a nie węgierskiemu Ikarusowi.',
-      'Przegubowy Ikarus 280 mógł zabrać ponad 150 pasażerów i obsługiwał najbardziej obciążone linie miejskie.',
+      'W latach 1978–1979 do Warszawy dostarczono 400 przegubowych Ikarusów 280.11.',
+      'Zmodernizowaną wersję 280.26 Węgrzy przygotowali na prośbę polskich przewoźników.',
+      'Przydomek „ogórek” należał do Jelcza 043, licencyjnej odmiany Škody 706 RTO, a nie do Ikarusa.',
     ],
     resources: [
       {
