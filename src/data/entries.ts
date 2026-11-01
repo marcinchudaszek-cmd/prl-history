@@ -27978,6 +27978,14 @@ Karkonoskie lasy przez lata wchłaniały kwaśne deszcze z elektrowni opalanych 
     ],
     resources: [
       {
+        id: 'karkonosze-fn-5729',
+        title: 'Szklarska Poręba. Mistrzostwa narciarskie – PKF 10/48',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/5729',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 4 marca 1948 roku: mistrzostwa narciarskie robotniczych stowarzyszeń sportowych w Szklarskiej Porębie.',
+      },
+      {
         id: 'ka-yt',
         title: 'Karkonosze – materiały',
         type: 'nagranie',
@@ -29124,6 +29132,14 @@ Był bohaterem niezliczonych anegdot, często przez siebie wymyślonych, i autor
       'Większość kariery był naturszczykiem – egzamin aktorski zdał eksternistycznie dopiero pod jej koniec.',
     ],
     resources: [
+      {
+        id: 'jan-himilsbach-fn-9577',
+        title: '„Rejs” (1970) – cały film',
+        type: 'film',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/9577',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Pełny film Marka Piwowskiego z Janem Himilsbachem, Zdzisławem Maklakiewiczem i Stanisławem Tymem w repozytorium Filmoteki Narodowej.',
+      },
       {
         id: 'jan-himilsbach-culture',
         title: 'Jan Himilsbach w serwisie Culture.pl',
@@ -30719,6 +30735,14 @@ Ostatnią rolę filmową zagrała w 1993 roku w „Uprowadzeniu Agaty”, a osta
     ],
     resources: [
       {
+        id: 'pola-raksa-fn-9041',
+        title: 'W nowej roli – PKF 14/87',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/9041',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 1987 roku: Pola Raksa jako projektantka mody szyje i przymierza własne projekty.',
+      },
+      {
         id: 'pr-yt',
         title: 'Pola Raksa – role filmowe',
         type: 'nagranie',
@@ -31441,6 +31465,14 @@ Jej kariera ma w sobie paradoks. Państwo, które oficjalnie uznawało arystokra
       '„Lalka” z jej udziałem kosztowała 35 milionów złotych i zdobyła cztery nagrody na festiwalu w Panamie, w tym Grand Prix.',
     ],
     resources: [
+      {
+        id: 'beata-tyszkiewicz-fn-11764',
+        title: 'Realizacja filmu „Lalka” – PKF 2A/68',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/11764',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 9 stycznia 1968 roku z planu „Lalki” Hasa we wrocławskiej wytwórni – m.in. Beata Tyszkiewicz i Kalina Jędrusik.',
+      },
       {
         id: 'beata-tyszkiewicz-culture',
         title: 'Beata Tyszkiewicz w serwisie Culture.pl',
@@ -32827,6 +32859,14 @@ Po Okrągłym Stole i wyborach czerwcowych PRON stracił rację bytu. Zakończy�
     ],
     resources: [
       {
+        id: 'pron-fn-9440',
+        title: 'Przed wyborami. Posiedzenie PRON – PKF 4/84',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/9440',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 25 stycznia 1984 roku: obrady PRON nad ordynacją wyborczą, m.in. Jan Dobraczyński, Mieczysław Rakowski i Irena Szewińska.',
+      },
+      {
         id: 'pron-obywatelskie-komitety-ocalen',
         title: 'Obywatelskie Komitety Ocalenia Narodowego – artykuł',
         type: 'publikacja',
@@ -33875,6 +33915,22 @@ Minc był autorem planu sześcioletniego 1950–1955, przestawiającego gospodar
     ],
     resources: [
       {
+        id: 'minc-fn-5707',
+        title: 'Układ handlowy z ZSRR – PKF 6/48',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/5707',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 5 lutego 1948 roku: powrót delegacji z Cyrankiewiczem, Gomułką i Mincem, konferencja prasowa.',
+      },
+      {
+        id: 'minc-fn-9056',
+        title: 'Minc i Wasilewska na budowie Trasy W-Z – PKF 47/48',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/9056',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 17 listopada 1948 roku: minister Minc i Wanda Wasilewska zwiedzają budowę Trasy W-Z.',
+      },
+      {
         id: 'minc-plan-szescioletni',
         title: 'Plan sześcioletni – artykuł',
         type: 'publikacja',
@@ -34408,6 +34464,14 @@ W 1970 roku, podczas wizyty w Pakistanie, przeżył zamach na lotnisku w Karaczi
       'W 1970 roku przeżył zamach na lotnisku w Karaczi, w którym zginęły cztery osoby.',
     ],
     resources: [
+      {
+        id: 'spychalski-fn-4481',
+        title: 'Generałowie w Wytwórni Filmowej WP w Łodzi – PKF 12/45',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/4481',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 20 maja 1945 roku: generałowie Rola-Żymierski i Spychalski z płk. Fordem w Wytwórni Filmowej Wojska Polskiego.',
+      },
       {
         id: 'spychalski-biuro-odbudowy-stolicy',
         title: 'Biuro Odbudowy Stolicy – artykuł',
@@ -36295,6 +36359,22 @@ Dla dzisiejszego czytelnika roczniki „Expressu” są zapisem codzienności: c
       'Felietony pisał w nim Stefan Wiechecki „Wiech”.',
     ],
     resources: [
+      {
+        id: 'express-wieczorny-fn-11514',
+        title: 'XXX-lecie „Expressu Wieczornego” – PKF 22B/76',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/11514',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z 29 maja 1976 roku: kolejki do kiosku Ruchu po „Express” i redakcyjny dział rzeczy znalezionych.',
+      },
+      {
+        id: 'express-wieczorny-fn-5050',
+        title: '„Express Wieczorny” przekazuje bibliotekę – PKF 21/49',
+        type: 'nagranie',
+        url: 'https://repozytorium.fn.org.pl/?q=pl/node/5050',
+        source: 'Repozytorium Cyfrowe Filmoteki Narodowej',
+        description: 'Polska Kronika Filmowa z maja 1949 roku: redakcja otwiera bibliotekę w Nasielsku, swój felieton czyta Wiech.',
+      },
       {
         id: 'express-wieczorny-robotnicza-spodzielnia-wydaw',
         title: 'Robotnicza Spółdzielnia Wydawnicza „Prasa-Książka-Ruch” – artykuł',
