@@ -14321,21 +14321,28 @@ Zespół działa do dziś z kolejnymi wokalistami, a jego koncerty wciąż wype�
     summary: 'Pionierski polski zespół hardrockowy i heavymetalowy z lat 80., z wokalistą Markiem Piekarczykiem, autor przeboju „Mass media”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/TSA_%282008%29.jpg?width=800',
     imageCaption: 'TSA na koncercie w Bydgoszczy, 2008',
-    content: `## Powstanie
-TSA powstała w 1979 roku w Opolu. Skrót rozwijano żartobliwie na kilka sposobów; zespół wprowadził na polską scenę ciężkie brzmienie hardrockowe i heavymetalowe, którego wcześniej praktycznie nie było. W 1980 roku dołączył do składu wokalista Marek Piekarczyk.
+    content: `## Tajne Stowarzyszenie Abstynentów
+TSA – skrót od żartobliwej nazwy Tajne Stowarzyszenie Abstynentów – powstało w 1979 roku w Opolu z inicjatywy gitarzysty Andrzeja Nowaka i basisty Tomasza Zatwarnickiego. Do składu doszli m.in. Janusz Niekrasz, perkusista Marek Kapłon i gitarzysta Stefan Machel. Na początku zespół czerpał z AC/DC i wczesnego Led Zeppelin; zalicza się go do prekursorów heavy metalu w Polsce.
 
-## Brzmienie i teksty
-Wysoki, przenikliwy głos Piekarczyka i gitarowe riffy Andrzeja Nowaka dały grupie rozpoznawalne brzmienie. Teksty – „Mass media”, „Bez podtekstów”, „51”, „Trzy zapałki” – mówiły o manipulacji, przemocy i zniewoleniu; w latach 80. słuchano ich jako komentarza do rzeczywistości.
+## Jarocin 1981
+W 1981 roku TSA pojechała na II Ogólnopolski Przegląd Muzyki Młodej Generacji do Jarocina i dostała nagrodę publiczności. W Jarocinie był też wokalista Marek Piekarczyk z zespołu Sektor A – wkrótce dołączył do TSA. Jako kwintet grupa zadebiutowała 12 lipca 1981 roku w Sopocie.
 
-## Jarocin i koncerty
-TSA grała na festiwalu w Jarocinie i w klubach studenckich, gdzie rodziła się cała polska scena rockowa dekady. Koncerty należały do najgłośniejszych i najbardziej energetycznych w kraju, a płyta „TSA” z 1982 roku rozeszła się w nakładzie liczonym w setkach tysięcy.
+## Mass Media
+Jesienią 1981 roku zespół podpisał kontrakt z Tonpressem i nagrał w Teatrze STU w Krakowie singiel „Mass Media” / „Wpadka”. Płyta sprzedała się w nakładzie 250 tysięcy egzemplarzy. Po wprowadzeniu stanu wojennego muzycy na krótko zawiesili koncerty, ale wrócili na scenę już w pierwszym kwartale 1982 roku.
 
-## Za granicą
-Zespół koncertował w krajach bloku wschodniego, a także w Stanach Zjednoczonych – rzadkość dla polskiej grupy rockowej tamtych lat i przedmiot artykułów w prasie muzycznej.
+## Płyty
+W marcu 1982 roku w Teatrze STU zarejestrowano koncert wydany jako „Live”. Pierwszy album studyjny, „TSA”, ukazał się w 1983 roku. Nagrania TSA sprzedawały się w kilkusettysięcznych nakładach. Jesienią 1983 roku zespół nagrał „Heavy Metal World”, a z myślą o Zachodzie – anglojęzyczny album „Spunk!”. Cenzura zatrzymała utwór „Mechaniczny pies”.
 
-## Znaczenie
-TSA otworzyła drogę kolejnym zespołom metalowym w Polsce i pozostaje klasyką gatunku; jej utwory z lat 80. wciąż są grane na koncertach i rozpoznawane przez publiczność młodszą o dwa pokolenia.`,
-    trivia: ['Wokalistą był Marek Piekarczyk.', 'To jeden z pierwszych polskich zespołów heavy metalowych.'],
+## Jesus Christ Superstar
+TSA grała w gdyńskiej inscenizacji „Jesus Christ Superstar”, z którą występowała także w Stanach Zjednoczonych.
+
+## Po latach
+Klasyczny skład przetrwał do 1989 roku. W latach 90. muzycy pokłócili się o prawa do nazwy, a zespół kilka razy się rozpadał i wracał. Andrzej Nowak zmarł 4 stycznia 2022 roku.`,
+    trivia: [
+      'TSA to skrót od żartobliwej nazwy Tajne Stowarzyszenie Abstynentów.',
+      'Debiutancki singiel „Mass Media” / „Wpadka” sprzedał się w nakładzie 250 tysięcy egzemplarzy.',
+      'Marek Piekarczyk dołączył do TSA po festiwalu w Jarocinie w 1981 roku.',
+    ],
     resources: [
       {
         id: 'tsa-yt',
@@ -20724,26 +20731,30 @@ W 1985 roku wyemigrował do Republiki Federalnej Niemiec, gdzie przez pewien cza
     subtitle: 'Trener „Orłów Górskiego”',
     category: 'osoby',
     tags: ['sport', 'piłka nożna', 'trener', 'lata 70.'],
-    yearStart: 1971,
+    yearStart: 1970,
     yearEnd: 1976,
     summary: 'Najwybitniejszy polski selekcjoner, twórca najlepszej reprezentacji w historii – mistrzów olimpijskich 1972 i brązowych medalistów mundialu 1974.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz_G%C3%B3rski_%281973%29.jpg?width=800',
     imageCaption: 'Kazimierz Górski, 1973',
-    content: `## Sylwetka
-Kazimierz Górski (1921–2006) urodził się we Lwowie, grał w Rewerze Stanisławów i po wojnie w Legii Warszawa, a jako trener przeszedł przez kluby i reprezentacje młodzieżowe, zanim w 1970 roku objął pierwszą drużynę narodową.
+    content: `## „Sarenka” ze Lwowa
+Kazimierz Górski urodził się 2 marca 1921 roku we Lwowie, zmarł 23 maja 2006 roku w Warszawie. Wychował się w robotniczej dzielnicy Bogdanówka. Grał w RKS Lwów, gdzie za drobną sylwetkę i drybling nazwano go „Sarenką”, w czasie wojny w lwowskich Spartaku i Dynamie, a od 1945 roku w Legii Warszawa. W reprezentacji zagrał raz – w przegranym 0:8 meczu z Danią w 1948 roku.
 
-## Sukcesy
-Złoto olimpijskie w Monachium w 1972 roku, trzecie miejsce na mistrzostwach świata w RFN w 1974 i srebro olimpijskie w Montrealu w 1976 – to bilans, którego polska piłka nie powtórzyła. Po drodze było zwycięstwo nad Anglią na Wembley w 1973 roku (remis 1:1, który wyeliminował gospodarzy z mundialu) i wygrana 2:0 w Chorzowie.
+## Trener
+Kurs trenerski ukończył w 1952 roku. Prowadził Legię, Lubliniankę, Gwardię Warszawa i reprezentacje młodzieżowe. W grudniu 1970 roku – ku zaskoczeniu wielu – został selekcjonerem pierwszej reprezentacji po Ryszardzie Koncewiczu. Zadebiutował 5 maja 1971 roku wygraną 4:2 ze Szwajcarią w Lozannie.
+
+## Monachium i Niemcy
+Jego drużyna wygrała turniej olimpijski w Monachium w 1972 roku, pokonując w finale Węgry 2:1. W eliminacjach mundialu wyrzuciła Anglię – po wygranej 2:0 w Chorzowie i remisie 1:1 na Wembley w 1973 roku. Na mistrzostwach świata w RFN w 1974 roku zajęła trzecie miejsce po zwycięstwie 1:0 z Brazylią. W 1976 roku w Montrealu zdobyła srebro olimpijskie, co w kraju uznano za porażkę – Górski podał się do dymisji. Łącznie poprowadził kadrę w 72 meczach: 41 zwycięstw, 14 remisów, 17 porażek.
 
 ## Drużyna
-Prowadził pokolenie Deyny, Laty, Szarmacha, Gadochy, Ćmikiewicza, Żmudy i Tomaszewskiego. Jego metoda polegała mniej na taktycznych nowinkach, a bardziej na budowaniu zespołu, w którym gwiazdy godziły się grać dla siebie nawzajem.
+Prowadził pokolenie Deyny, Laty, Szarmacha, Gadochy, Ćmikiewicza, Żmudy i Tomaszewskiego. Budował zespół, w którym gwiazdy godziły się grać dla siebie nawzajem. Powiedzenia mu przypisywane – „Dopóki piłka w grze, wszystko jest możliwe” – weszły do języka potocznego.
 
-## Złote myśli
-„Piłka jest okrągła, a bramki są dwie”, „Dopóki piłka w grze, wszystko jest możliwe” – powiedzenia przypisywane Górskiemu weszły do języka potocznego i funkcjonują dziś poza kontekstem sportu.
-
-## Znaczenie
-Sukcesy jego drużyny przypadły na dekadę Gierka i były przez propagandę traktowane jako dowód sprawności państwa. Dla kibiców znaczyły co innego: przez kilka lat Polska naprawdę należała do światowej czołówki. Imię Górskiego nosi siedziba PZPN.`,
-    trivia: ['Poprowadził reprezentację po złoto olimpijskie 1972 i brąz mundialu 1974.', 'Powtarzał, że dopóki piłka w grze, wszystko jest możliwe.'],
+## Grecja i PZPN
+Po odejściu z kadry trenował w Grecji – z Panathinaikosem i Olympiakosem zdobywał mistrzostwo kraju. Od 1986 roku zasiadał we władzach PZPN, w latach 1991–1995 był jego prezesem. W plebiscycie „Piłki Nożnej” uznano go za najlepszego polskiego trenera XX wieku. Na jego nagrobku jest piłka z nazwami miejsc: Lwów, Warszawa, Wembley, Monachium, Ateny.`,
+    trivia: [
+      'Jako piłkarz miał przydomek „Sarenka” – za drobną sylwetkę i drybling.',
+      'W reprezentacji zagrał tylko raz – w przegranym 0:8 meczu z Danią w 1948 roku.',
+      'Po srebrze olimpijskim w Montrealu, uznanym w kraju za porażkę, podał się do dymisji.',
+    ],
     resources: [
       {
         id: 'gorski-kazimierz-yt-m9',
@@ -22297,21 +22308,25 @@ Po 1989 roku był senatorem i wicemarszałkiem Sejmu, ostro obecnym w debacie pu
     summary: 'Najskuteczniejszy strzelec w historii reprezentacji i jego Górnik Zabrze – wielokrotny mistrz Polski i finalista europejskiego pucharu w 1970 roku.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ticket_Manchester_City_-_G%C3%B3rnik_Zabrze.jpg?width=800',
     imageCaption: 'Bilet na mecz Górnik Zabrze – Manchester City w Chorzowie, 10 marca 1971',
-    content: `## Górnik Zabrze
-Górnik był najsilniejszym polskim klubem lat 60. – mistrzostwo zdobywał seryjnie od 1963 roku, a mecze na stadionie przy Roosevelta gromadziły dziesiątki tysięcy widzów. Klub wyrastał z górniczego zaplecza Zabrza i był traktowany jak duma całego Śląska.
+    content: `## Z Gliwic
+Włodzimierz Lubański urodził się 28 lutego 1947 roku w Gliwicach. Grał w juniorach Sośnicy i GKS Gliwice, a 21 kwietnia 1963 roku zadebiutował w ekstraklasie w barwach Górnika Zabrze i od razu strzelił gola Arkonii Szczecin. Jest najmłodszym zawodnikiem i strzelcem w historii reprezentacji Polski – miał 16 lat i 188 dni.
 
-## Finał 1970
-W 1970 roku Górnik dotarł do finału Pucharu Zdobywców Pucharów, gdzie w Wiedniu przegrał 1:2 z Manchesterem City. Był to pierwszy europejski finał polskiej drużyny klubowej i przez dekady pozostawał jej najlepszym wynikiem.
+## Złota era Górnika
+Z Górnikiem zdobył siedem tytułów mistrza Polski (1963–1967, 1971, 1972) i sześć Pucharów Polski. Cztery razy z rzędu był królem strzelców ekstraklasy (1966–1969). 13 listopada 1963 roku w meczu z Duklą Praga został najmłodszym strzelcem w historii Pucharu Europy Mistrzów Klubowych. W 1967 roku jako pierwszy Polak znalazł się w plebiscycie „France Football” na najlepszego piłkarza Europy; w 1972 roku zajął w nim 7. miejsce.
 
-## Włodzimierz Lubański
-Włodzimierz Lubański (ur. 1947) zadebiutował w reprezentacji w wieku szesnastu lat i przez ponad trzydzieści lat pozostawał jej najskuteczniejszym strzelcem – 48 bramek w 75 meczach. Był napastnikiem szybkim, wykańczającym akcje bez zbędnych zagrań.
+## Finał w Wiedniu
+W sezonie 1969/1970 Górnik dotarł do finału Pucharu Zdobywców Pucharów. Półfinał z AS Roma rozstrzygnął trzeci mecz w Strasburgu – po remisie 1:1 i dogrywce awans dał rzut monetą. 29 kwietnia 1970 roku w Wiedniu Górnik przegrał 1:2 z Manchesterem City. Lubański z siedmioma golami został królem strzelców rozgrywek, a rok później powtórzył ten wyczyn.
+
+## Milion dolarów
+Po finale Real Madryt chciał kupić Lubańskiego za rekordowy wtedy milion dolarów. Na transfer nie zgodził się Komitet Centralny PZPR.
 
 ## Kontuzja
-6 czerwca 1973 roku, w wygranym 2:0 meczu z Anglią w Chorzowie, doznał ciężkiego urazu kolana po faulu Roya McFarlanda. Stracił niemal dwa lata i nie zagrał na mundialu 1974, na którym Polska zdobyła brąz. Po powrocie grał z powodzeniem w belgijskim Lokeren.
-
-## Znaczenie
-Górnik i Lubański to fundament, na którym wyrosły sukcesy reprezentacji lat 70. Historia tej kontuzji jest w polskim futbolu przywoływana do dziś jako największe „co by było, gdyby”.`,
-    trivia: ['Włodzimierz Lubański był gwiazdą Górnika Zabrze.', 'Kontuzja odniesiona w 1973 roku wykluczyła go z mundialu 1974.'],
+Z reprezentacją zdobył złoto olimpijskie w Monachium w 1972 roku. W czerwcu 1973 roku w wygranym 2:0 meczu z Anglią w Chorzowie doznał ciężkiej kontuzji kolana i nie pojechał na mundial 1974, na którym Polska zdobyła brąz. Ostatni mecz w ekstraklasie rozegrał w 1975 roku. Potem grał w Belgii i Francji, m.in. w KSC Lokeren, i wrócił do kadry na mistrzostwa świata 1978. Z 48 golami jest drugim strzelcem w historii reprezentacji.`,
+    trivia: [
+      'Jest najmłodszym zawodnikiem i strzelcem w historii reprezentacji Polski – miał 16 lat i 188 dni.',
+      'Półfinał Pucharu Zdobywców Pucharów 1970 z AS Roma rozstrzygnął rzut monetą.',
+      'Na transfer Lubańskiego do Realu Madryt za milion dolarów nie zgodził się KC PZPR.',
+    ],
     resources: [
       {
         id: 'lubanski-gornik-yt-m9',
@@ -23663,22 +23678,23 @@ Dialogi z „Rejsu” weszły do polszczyzny i przez dekady służyły jako kome
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/POL_Mi%C5%9B_Bemowo.jpg?width=800',
     imageCaption: 'Replika słomianego misia z filmu Stanisława Barei, Warszawa-Bemowo',
     content: `## Film
-„Miś” Stanisława Barei, nakręcony w 1980 i pokazany rok później, jest najbardziej znaną polską komedią o absurdach PRL. Scenariusz napisał wspólnie ze Stanisławem Tymem, który zagrał główną rolę Ryszarda Ochódzkiego, prezesa klubu sportowego „Tęcza”.
+„Miś” Stanisława Barei, według scenariusza Barei i Stanisława Tyma, jest pierwszą częścią trylogii o Ryszardzie Ochódzkim, prezesie klubu sportowego „Tęcza”. Kolejne nakręcili Sylwester Chęciński („Rozmowy kontrolowane”, 1991) i sam Tym („Ryś”, 2007). Ochódzkiego zagrał Tym.
 
 ## Intryga
-Ochódzki musi uniemożliwić byłej żonie dostęp do wspólnego konta w Londynie, więc szuka sobowtóra i wyrabia mu paszport. Fabuła jest jednak tylko szkieletem, na którym Bareja zawiesił kilkadziesiąt scen z codzienności – i to one są właściwym filmem.
+Ochódzki, który na boku prowadzi lewe interesy – m.in. budowę monstrualnego słomianego misia za publiczne pieniądze – chce przed byłą żoną Ireną dostać się do wspólnego konta w londyńskim banku. Gdy Irena wyrywa kartki z jego paszportu, szuka sobowtóra i znajduje go w węglarzu Stanisławie Paluchu. Fabuła jest jednak tylko szkieletem dla kilkudziesięciu scen z codzienności.
 
-## Metoda
-Sklep bez mięsa, kolejka, budowa, milicja, absurdalne przepisy, język urzędowy doprowadzony do granic sensu. Bareja nie wymyślał dowcipów, tylko notował rzeczywistość i pokazywał ją bez komentarza; wiele scen powstało z autentycznych zdarzeń i podsłuchanych zdań.
+## Sceny
+Bar mleczny, w którym miski przykręcono do stołów, a sztućce przypięto łańcuchami. Poczta, gdzie urzędniczka oświadcza, że nie ma takiego miasta Londyn – jest Lądek-Zdrój. Przekupywanie kasjerki kiełbasą, milicjant zatrzymujący kierowców przy makietach domów. Bareja nie wymyślał dowcipów, tylko notował rzeczywistość i pokazywał ją bez komentarza.
+
+## Przed stanem wojennym
+Film powstawał po Sierpniu 1980 roku, w chwilowym odprężeniu między władzą a filmowcami. W przeciwieństwie do „Co mi zrobisz, jak mnie złapiesz” Barei, mocno pociętego przez cenzurę, „Miś” przeszedł kolaudację bez poważniejszych problemów.
 
 ## Odbiór
-Krytyka przyjęła film lekceważąco, jako komedyjkę bez wartości, a publiczność ustawiła się w kolejkach. Dopiero po latach doceniono go jako najcelniejszy zapis późnego PRL – w momencie, gdy opisywany świat zniknął i film przestał być satyrą, a stał się dokumentem.
-
-## Cytaty
-Dialogi weszły do polszczyzny na trwałe i do dziś funkcjonują jako komentarz do sytuacji urzędowych. Określenie „bareizm” zaczęło opisywać sam typ absurdu, który film zarejestrował.`,
+Premiera odbyła się 4 maja 1981 roku. Do 13 grudnia, gdy w stanie wojennym zamknięto kina, film obejrzało 626 tysięcy widzów – piąty wynik wśród polskich filmów roku. Krytyka przyjęła go surowo, a publiczność zobaczyła w nim celny portret PRL. Dziś to film kultowy, a dialogi weszły do polszczyzny; od nazwiska reżysera powstało określenie „bareizm”.`,
     trivia: [
-      'Fabuła o sobowtórze i koncie w Londynie jest tylko pretekstem do kilkudziesięciu scen z codzienności.',
-      'Od nazwiska reżysera powstało określenie „bareizm”, opisujące charakterystyczny typ absurdu.',
+      'Do 13 grudnia 1981 roku, gdy zamknięto kina, „Misia” obejrzało 626 tysięcy widzów.',
+      '„Miś” to pierwsza część trylogii o Ochódzkim – po nim powstały „Rozmowy kontrolowane” i „Ryś”.',
+      'W słynnej scenie w barze mlecznym miski są przykręcone do stołów, a sztućce przypięte łańcuchami.',
     ],
     resources: [
       {
@@ -23945,23 +23961,27 @@ Te seriale okazały się jednym z najtrwalszych elementów kultury PRL: nie nios
     summary: 'Popularna wakacyjna audycja Programu I Polskiego Radia (od 1971), rozpoznawalna po sygnale „Polka Dziadek”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Lato_z_Radiem_w_Stegnie_%282015%29.JPG?width=800',
     imageCaption: 'Letnia trasa koncertowa „Lata z Radiem” w Stegnie (fot. współczesna)',
-    content: `## Audycja
-„Lato z radiem” pojawiło się na antenie Programu Pierwszego Polskiego Radia 1 lipca 1971 roku. W założeniu miał to być magazyn turystyczny na sezon urlopowy; został na ponad pół wieku i jest dziś jedną z najdłużej nadawanych audycji w Polsce.
+    content: `## 1 lipca 1971
+Pierwsze wydanie „Lata z radiem” nadał Program I Polskiego Radia 1 lipca 1971 roku, kilka minut po godzinie 11. Trwało 48 minut i 43 sekundy, a poprowadził je Wojciech Zyms. Pomysłodawcą i pierwszym szefem audycji był Aleksander Tarnawski. Na początku był to magazyn turystyczny – nowością było to, że szedł na żywo.
 
-## Formuła
-Program łączył muzykę, informacje drogowe, prognozy, porady wakacyjne, konkursy i relacje korespondentów z całego kraju. Nadawany codziennie przez całe lato, stał się dźwiękowym tłem sezonu – w kraju, w którym urlop oznaczał najczęściej pociąg, autobus albo namiot, a nie zorganizowany wyjazd.
+## Polka Dziadek
+Od pierwszego sezonu sygnałem audycji jest „Polka Dziadek”, którą z tysięcy nagrań wyłowił Olgierd Religioni – szukano wesołego utworu, który kojarzyłby się z latem. W sygnale słychać zapowiedzi w kilku językach; polską czytał Tadeusz Sznuk.
 
-## Sygnał
-Melodią rozpoczynającą audycję jest ludowa „Polka Dziadek” – kilka taktów rozpoznawalnych dla kilku pokoleń słuchaczy. Sygnał sam w sobie stał się symbolem wakacji i należy do najbardziej znanych motywów w historii polskiego radia.
+## Lata 70.
+W drugiej połowie lat 70. audycję prowadzili na zmianę Andrzej Matul, Tadeusz Sznuk i Sławomir Szof. Stałymi punktami były „Latoteka” z blokami przebojów, „Lato-retro-teka”, Koncert spełnionych marzeń, chwila poezji „Strofy dla ciebie” i liryczny kącik „Kukułka” początkującej dziennikarki Krystyny Czubówny. W 1977 roku powieścią „Lata z radiem” były codzienne półgodzinne słuchowiska według Trylogii Sienkiewicza. Nie brakowało też krótkich wstawek propagandowego magazynu „Tu Jedynka”.
+
+## Lata 80.
+W latach 80. Bogusław Kaczyński miał w audycji kącik operetkowy, Zygmunt Chajzer prowadził „Turystyczne vademecum”, a Irena Kwiatkowska czytała „Lesia” Joanny Chmielewskiej. Tradycją stały się uroczyste inauguracje sezonu – w 1980 roku audycję nadawano z pałacu w Wilanowie.
 
 ## Rola
-Tranzystor był podstawowym wyposażeniem wyjazdu, a radio – jedynym źródłem informacji o pogodzie, korkach i utrudnieniach. Audycja pełniła więc funkcję praktyczną, a przy okazji budowała poczucie, że cały kraj przeżywa lato razem, o tej samej godzinie.
+W kraju, gdzie urlop oznaczał najczęściej pociąg, autobus albo namiot, tranzystor był podstawowym wyposażeniem wyjazdu, a radio – głównym źródłem wiadomości o pogodzie i drogach. Audycja budowała poczucie, że cały kraj przeżywa lato razem, o tej samej godzinie.
 
-## Trwałość
-„Lato z radiem” przetrwało zmianę ustroju, kolejne reformy anteny i zmiany pokoleniowe wśród prowadzących. Sygnał pozostał ten sam – i to on jest dziś głównym nośnikiem pamięci o audycji.`,
+## Po 1989 roku
+Audycja przetrwała zmianę ustroju. W latach 1992–1994 odbyły się pierwsze koncerty „Lata z radiem”, a od 1995 roku wychodzą płyty z jego przebojami.`,
     trivia: [
-      'Pierwsze wydanie, 1 lipca 1971 roku, trwało czterdzieści osiem minut i było magazynem turystycznym.',
-      'Sygnał audycji stał się jednym z najbardziej rozpoznawalnych dźwięków w historii polskiego radia.',
+      'Pierwsze wydanie, 1 lipca 1971 roku, trwało 48 minut i 43 sekundy.',
+      '„Polkę Dziadek” na sygnał audycji wyłowił z tysięcy nagrań Olgierd Religioni.',
+      'W 1977 roku „Lato z radiem” nadawało codzienne słuchowiska według Trylogii Sienkiewicza.',
     ],
     resources: [
       {
@@ -29796,23 +29816,24 @@ Po odejściu z Czerwono-Czarnych śpiewała z mężem Henrykiem Fabianem i zespo
     summary: 'Jeden z najwybitniejszych i najbardziej lubianych polskich aktorów charakterystycznych; rozpoznawalny jako Gustlik w „Czterech pancernych i psie”.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Franciszek%20Pieczka%20%281953%29.jpg?width=800',
     imageCaption: 'Franciszek Pieczka – aktor charakterystyczny.',
-    content: `## Aktor
-Franciszek Pieczka (1928–2022) pochodził z Godowa na Śląsku i zagrał kilkaset ról filmowych, teatralnych i telewizyjnych. Miał typ aktorski rzadki w polskim kinie: postawny, powolny, wiarygodny w rolach ludzi prostych, ale nigdy prostackich.
+    content: `## Z Godowa
+Franciszek Pieczka urodził się 18 stycznia 1928 roku w Godowie na Górnym Śląsku, zmarł 23 września 2022 roku w Warszawie. Był najmłodszym z sześciorga rodzeństwa; ojciec, uczestnik powstań śląskich, był kościelnym, a syn grywał na organach i pasł krowy nad Olzą. Po wojnie pracował jako górnik dołowy i przeżył oberwanie stropu. Po miesiącu studiów na politechnice w Gliwicach wybrał aktorstwo – w 1954 roku ukończył PWST w Warszawie.
+
+## Scena
+Zaczynał w Teatrze Dolnośląskim w Jeleniej Górze. W latach 1955–1964 grał w Teatrze Ludowym Krystyny Skuszanki w Nowej Hucie, potem w Starym Teatrze w Krakowie, gdzie cenił sobie rolę Woyzecka. Od 1969 roku był w warszawskim Teatrze Dramatycznym, a w latach 1975–2015 w Teatrze Powszechnym.
 
 ## Gustlik
-Największą popularność przyniósł mu Gustlik Jeleń w „Czterech pancernych i psie” (1966–1970). Śląski czołgista o niedźwiedziej sile i dobrym sercu stał się jedną z najbardziej rozpoznawalnych postaci w historii polskiej telewizji – i przylgnął do aktora na dziesięciolecia.
+W kinie zadebiutował w „Pokoleniu” Wajdy (1954). Grał w „Matce Joannie od Aniołów” Kawalerowicza i „Rękopisie znalezionym w Saragossie” Hasa. Przełomem była rola Gustlika Jelenia, poczciwego ładowniczego czołgu „Rudy” w „Czterech pancernych i psie” (1966–1970) – razem z Januszem Gajosem, Włodzimierzem Pressem i Romanem Wilhelmim zaskarbił sobie wielką sympatię widzów.
 
-## Kino autorskie
-Równolegle grał u najwybitniejszych reżyserów. Tytułową rolę w „Żywocie Mateusza” Witolda Leszczyńskiego (1968) – historii człowieka nieprzystosowanego do świata – uważa się za jedno z największych osiągnięć aktorskich polskiego kina. Grał też u Kawalerowicza, Kutza i Hoffmana.
+## Mateusz
+Tytułowa rola w „Żywocie Mateusza” Witolda Leszczyńskiego (1967) – człowieka o duszy dziecka, uznawanego przez otoczenie za półgłówka – przyniosła mu Srebrnego Hugo za najlepszą kreację męską na festiwalu w Chicago. Zagrał przywódcę górników w „Perle w koronie” Kutza (1971), Czepca w „Weselu” Wajdy, Kiemlicza w „Potopie”, Müllera w „Ziemi obiecanej” i karczmarza Taga w „Austerii” (1982).
 
-## Długowieczność
-Występował przez ponad sześćdziesiąt lat, do późnej starości. Po 1989 roku zagrał Jankiela w „Panu Tadeuszu” Wajdy (1999) i przez lata występował w serialu „Ranczo”, zdobywając widownię młodszą o dwa pokolenia.
-
-## Znaczenie
-Dla jednych pozostał czołgistą, dla innych Mateuszem albo Jankielem – rzadki przypadek aktora, którego każde pokolenie zna z czegoś innego, a wszyscy z tego samego sposobu bycia na ekranie.`,
+## Po 1989 roku
+Zagrał tytułową rolę w „Jańciu Wodniku” (1993), Jankiela w „Panu Tadeuszu” Wajdy i świętego Piotra w „Quo vadis”. Łącznie stworzył blisko 450 ról. W 2017 roku otrzymał Order Orła Białego.`,
     trivia: [
-      'Zagrał blisko 450 ról i pracował aktywnie przez ponad sześćdziesiąt lat.',
-      'Dla różnych pokoleń widzów był kimś zupełnie innym – od Gustlika po role w kinie autorskim.',
+      'Przed studiami aktorskimi pracował jako górnik dołowy i przeżył oberwanie stropu.',
+      'Za „Żywot Mateusza” dostał Srebrnego Hugo na festiwalu w Chicago.',
+      'Zagrał blisko 450 ról, a w 2017 roku otrzymał Order Orła Białego.',
     ],
     resources: [
       {
@@ -31581,23 +31602,27 @@ W latach niedoborów świąteczne zakupy oznaczały kolejki po mięso, wędliny,
     summary: 'Dramat polityczny Ryszarda Bugajskiego (1982) o kobiecie torturowanej w stalinowskim więzieniu; zatrzymany przez cenzurę na siedem lat, przyniósł Krystynie Jandzie nagrodę w Cannes.',
     image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ryszard%20Bugajski.jpg?width=800',
     imageCaption: 'Ryszard Bugajski – reżyser „Przesłuchania”.',
-    content: `## Film
-„Przesłuchanie” Ryszarda Bugajskiego powstało w 1982 roku, w pierwszych miesiącach stanu wojennego, i zostało zatrzymane natychmiast po ukończeniu. Publicznie pokazano je dopiero pod koniec dekady – to najgłośniejszy z „półkowników”.
+    content: `## Debiut w Zespole „X”
+„Przesłuchanie” było pełnometrażowym debiutem Ryszarda Bugajskiego, wyprodukowanym przez Zespół Filmowy „X”, którym kierował Andrzej Wajda. Scenariusz oparł na losach Toni Lechtman i Wandy Podgórskiej. Zdjęcia kręcono w okresie „karnawału Solidarności”, a ostatnie dokrętki zrobiono już w stanie wojennym, 17 grudnia 1981 roku.
 
 ## Fabuła
-Piosenkarka Antonina Dziwisz, grana przez Krystynę Jandę, zostaje bez powodu aresztowana przez Urząd Bezpieczeństwa. Ma zeznawać przeciw znajomemu, o którym nic nie wie. Cały film rozgrywa się w celi i pokoju przesłuchań; oficera prowadzącego sprawę zagrał Adam Ferency.
+Akcja toczy się na początku lat 50. Piosenkarka estradowa Antonina Dziwisz (Krystyna Janda) po kłótni z mężem upija się w towarzystwie dwóch nieznajomych i budzi w więzieniu. Śledczy chcą wymusić na niej zeznania obciążające majora Olchę, oskarżonego o zdradę. Mimo tortur – karceru zalanego wodą, pozorowanej egzekucji – Tonia nie ustępuje. Przesłuchują ją major (Janusz Gajos) i porucznik Morawski (Adam Ferency); w celi siedzi z nią m.in. fanatyczna komunistka Witkowska, grana przez Agnieszkę Holland.
 
-## Metoda
-Bugajski pokazał aparat represji bez publicystyki: przez rutynę, znużenie funkcjonariuszy, powtarzalność pytań i powolne fizyczne wyniszczanie więźnia. Właśnie ta zwyczajność przemocy, pozbawiona demonicznych ujęć i muzyki, czyni film trudnym do zniesienia.
+## Kolaudacja
+W kwietniu 1982 roku odbyła się burzliwa kolaudacja. Film dostał zakaz rozpowszechniania i przyczynił się do rozwiązania Zespołu „X”.
 
-## Drugi obieg
-Zanim doszło do oficjalnej premiery, kopie krążyły nielegalnie na kasetach wideo – w drugiej połowie lat 80. magnetowid stał się narzędziem obiegu niezależnego na równi z powielaczem. Bugajski, pozbawiony możliwości pracy, wyemigrował w 1985 roku do Kanady.
+## Na kasetach
+Władze pozwoliły wykonać kopię wzorcową, co Bugajski wykorzystał: przegrał film na kasety wideo – najpierw U-matic, potem VHS – i puścił w nielegalny obieg. Został za to dyscyplinarnie zwolniony z pracy i musiał wyemigrować do Kanady. W drugiej połowie lat 80. magnetowid stał się narzędziem niezależnego obiegu na równi z powielaczem.
+
+## Premiera
+Na ekrany kin film trafił dopiero 13 grudnia 1989 roku – w ósmą rocznicę stanu wojennego. Na festiwalu w Gdyni zdobył w 1989 roku nagrody dziennikarzy i publiczności, a rok później nagrodę specjalną jury i nagrody aktorskie dla Jandy, Gajosa i Anny Romantowskiej. W 1990 roku Krystyna Janda otrzymała w Cannes nagrodę dla najlepszej aktorki.
 
 ## Znaczenie
-Po oficjalnym pokazie film trafił do Cannes, gdzie Krystyna Janda otrzymała nagrodę dla najlepszej aktorki. Pozostaje najmocniejszym polskim obrazem stalinowskich metod śledczych.`,
+To najgłośniejszy z „półkowników” i najmocniejszy polski obraz stalinowskich metod śledczych – pokazanych przez rutynę i powtarzalność, bez demonicznych ujęć.`,
     trivia: [
-      'Kopie filmu krążyły w drugim obiegu na kasetach wideo, zanim doszło do oficjalnej premiery.',
-      'Za rolę w tym filmie Krystyna Janda otrzymała nagrodę aktorską w Cannes.',
+      'Ostatnie dokrętki do „Przesłuchania” zrobiono już w stanie wojennym, 17 grudnia 1981 roku.',
+      'Fanatyczną komunistkę Witkowską zagrała reżyserka Agnieszka Holland.',
+      'Film wszedł do kin 13 grudnia 1989 roku – w ósmą rocznicę wprowadzenia stanu wojennego.',
     ],
     resources: [
       {
