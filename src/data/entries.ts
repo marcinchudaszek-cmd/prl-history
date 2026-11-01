@@ -8809,6 +8809,8 @@ W czasie inwazji zginęło 108 Czechów i Słowaków, a około 500 zostało rann
     yearStart: 1945,
     yearEnd: 1984,
     summary: 'Warszawa po II wojnie światowej była w 85% zrujnowana. Jej odbudowa stała się projektem narodowym i propagandowym zarazem: Stare Miasto rekonstruowano według obrazów Canaletta, a MDM wzniesiono jako socrealistyczną wizytówkę systemu.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Warsaw_debris_NAC_3_3_0_47_1256_3_0_38355659.jpg?width=800',
+    imageCaption: 'Odgruzowywanie zniszczonej Warszawy, 1947',
     content: `## Miasto ruin
 Po Powstaniu Warszawskim Niemcy systematycznie burzyli miasto: Śródmieście zostało zniszczone niemal w całości. Według powojennych szacunków w gruzach legło około 80–85 procent Warszawy, w tym 90 procent przemysłu i zabytków oraz 72 procent zabudowy mieszkalnej; dzisiejsi historycy uważają te liczby za zawyżone. Rozważano nawet tymczasowe lub stałe przeniesienie stolicy do Krakowa, Łodzi albo Poznania, ale pomysł upadł.
 
@@ -11456,6 +11458,8 @@ Po 1989 roku powołano komisje śledcze ws. Poznania 1956 i Grudnia 1970. Sprawc
     yearStart: 1979,
     yearEnd: 1987,
     shortDesc: 'Trzy historyczne pielgrzymki – 1979, 1983, 1987 – które zmieniły Polskę i umocniły opór wobec komunizmu.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Papie%C5%BC_Jan_Pawe%C5%82_II_i_kardyna%C5%82_Stefan_kardyna%C5%82_Wyszy%C5%84ski_w_drodze_na_plac_Zwyci%C4%99stwa_w_dniu_2_czerwca_1979.jpg?width=800',
+    imageCaption: 'Jan Paweł II w drodze na plac Zwycięstwa w Warszawie, 2 czerwca 1979',
     content: `## Pielgrzymki Jana Pawła II do Polski
 
 Trzy pielgrzymki Jana Pawła II do Polski w latach 1979, 1983 i 1987 były wydarzeniami historycznymi, które zmieniły charakter polskiego oporu wobec komunizmu i przyspieszyły upadek systemu. Miliony Polaków uczestniczyły w mszach i spotkaniach, przeżywając zbiorowe katharsis i odbudowując poczucie godności.
@@ -17075,6 +17079,8 @@ Od lat 70. Grotowski porzucił przedstawienia na rzecz parateatru i „teatru ź
     yearStart: 1948,
     yearEnd: 1989,
     summary: 'Sport żużlowy był jedną z najpopularniejszych dyscyplin w PRL, gromadząc tłumy kibiców i przynosząc Polsce światowe sukcesy.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/KSSG_72.jpg?width=800',
+    imageCaption: 'Drużyna Stali Gorzów w 1972 roku, m.in. Zenon Plech i Edward Jancarz',
     content: `## Sport masowy
 Żużel był w PRL jedną z najpopularniejszych dyscyplin. Stadiony w Lesznie, Gorzowie, Rybniku, Wrocławiu, Bydgoszczy, Częstochowie, Zielonej Górze czy Opolu wypełniały się tłumami. Wstęp był tani, tor blisko domu, a przynależność klubowa – elementem lokalnej tożsamości. Mecz był wyjściem całych rodzin i jedną z niewielu masowych rozrywek w mniejszych miastach.
 
@@ -17360,6 +17366,8 @@ Domy towarowe i Supersam to symbol napięcia między nowoczesną architekturą a
     yearStart: 1958,
     yearEnd: 1966,
     summary: 'Akcja budowy tysiąca szkół na obchody Tysiąclecia Państwa Polskiego – świecka odpowiedź władz na kościelne obchody Milenium Chrztu Polski.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Szkola_Pomnik_Tysiaclecia_2007_backyard.jpg?width=800',
+    imageCaption: 'Dawna Szkoła-Pomnik Tysiąclecia w Mrzeżynie (fot. 2007)',
     content: `## Geneza
 W 1958 roku ogłoszono akcję „Tysiąc szkół na Tysiąclecie Państwa Polskiego”, a jej finansowanie oparto na Społecznym Funduszu Budowy Szkół – składkach potrącanych z pensji, zbiórkach i „czynach społecznych”. Była to świecka, państwowa odpowiedź na zapowiadane przez Kościół obchody Milenium Chrztu Polski w 1966 roku.
 
@@ -28949,6 +28957,8 @@ W 1990 roku, w drodze na koncert do Gorzowa Wielkopolskiego, uległa poważnemu 
     yearStart: 1960,
     yearEnd: 1989,
     summary: 'Najpopularniejszy tani gramofon (adapter) w PRL – walizkowe Bambino było marzeniem wielu domów i centrum młodzieżowych potańcówek.',
+    image: 'https://commons.wikimedia.org/wiki/Special:FilePath/Gramofon_Bambino.jpg?width=800',
+    imageCaption: 'Adapter Bambino z 1967 roku',
     content: `## Gramofon dla każdego
 Bambino to monofoniczny gramofon lampowy produkowany od 1963 roku przez Łódzkie Zakłady Radiowe Fonica. Powstały cztery wersje: WG 252 Bambino, WG 262 Bambino 2, WG 263 Bambino 3 i WG 264 Bambino 4 z 1972 roku. Był to sprzęt tani, prosty i masowy – dla większości polskich domów pierwsze własne urządzenie do odtwarzania muzyki.
 
